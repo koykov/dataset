@@ -1,0 +1,967 @@
+@English@|@Gujarati@
+@Author name@|@Rush Shah, Mazhar Meralli Ballou@
+@Font@|@Arial\12\Arial\12@
+@a little@|@thoda@
+@about@|@babatman@
+@absolute@|@nirapeksa@
+@acne@|@kila@
+@actor@|@abhineta, abhineta@
+@address@|@sarnamum@
+@after@|@pachi, pachi@
+@afternoon@|@bapor, trejopahor@
+@again@|@paachu, paachu@
+@against@|@virudh@
+@age@|@umar, umar@
+@aged@|@vridh@
+@agent@|@artiyo@
+@ah !@|@are !@
+@air@|@hawa@
+@alas !@|@hai !@
+@alcohol@|@daaroo, daaroo@
+@all sides@|@chare taraf@
+@almond@|@badam@
+@alone@|@eklo, eklo@
+@also@|@pan@
+@always@|@hammesa@
+@am@|@chu, chu@
+@ambassador@|@elchi@
+@and@|@ane, ne, ne, pen, pern@
+@angel@|@dut�@
+@animals@|@janavar@
+@ankle@|@ghunto@
+@answer@|@jawaab, jawaab@
+@anthem@|@gita@
+@anything@|@kasu@
+@apple@|@safarajan, safargan@
+@are@|@cho, cho@
+@arm@|@baawad'un@
+@artist@|@chitrakar@
+@ask@|@maang, maang@
+@ass@|@gadhedo, gadhero@
+@at least@|@cheta, cheta@
+@aunt@|@kaki@
+@autumn@|@pankar@
+@avalanche@|@himaprapat@
+@avarice@|@lobh, lalac@
+@bachelor [an unmarried man]@|@vandho@
+@back (anat.)@|@peeth@
+@bad@|@karaab, karaab@
+@bad (female)@|@nakaami, nakaami@
+@bad (male)@|@nakaamo, nakaamo@
+@bag@|@theli, theli@
+@balcony@|@padali@
+@balloon@|@dado@
+@banana@|@keru, keru@
+@barber@|@hajam@
+@barren woman@|@vanjhni@
+@basil@|@tulsa@
+@basket@|@topli@
+@bat@|@chamachiryun@
+@bathroom@|@sananaghar@
+@bear@|@rinch@
+@beast@|@pasu@
+@because@|@kem k�, karan k�@
+@bed@|@bichhaanun, gadlo@
+@bedding@|@pathari@
+@beg your pardon@|@maaf karjo@
+@behind@|@paachar, paachar@
+@bell@|@ghantadi@
+@belly@|@pet@
+@belt@|@kamrpatto@
+@beside (location)@|@baaju, baaju@
+@betel seller@|@tamboli@
+@between@|@vachman@
+@beyond@|@pare-upar@
+@big@|@motaa, motaa@
+@bird@|@pankhida@
+@birds@|@pakshi@
+@birthday@|@varas gaant, varas gaant@
+@bite@|@kard, kard@
+@bitter@|@kadvu, kadvu@
+@bitter gourd@|@kareloon@
+@black (fem)@|@kaari, kaari@
+@black (masculine)@|@kaaro, kaaro@
+@blacksmith@|@luhar@
+@blind@|@andha@
+@blood@|@lohi@
+@blunt@|@mandabuddhi@
+@body@|@jaath, sharir@
+@book@|@chopri, chopri, pustak@
+@boredom@|@kantarran@
+@bottle gourd@|@dudhi@
+@bottom@|@neeche, neeche@
+@bowl@|@kat'oro@
+@boy@|@chhokro, chokro@
+@brass@|@peetal@
+@bravery@|@himat@
+@break@|@virama@
+@breakfast@|@nasto@
+@breast@|@stana@
+@bred@|@paanw@
+@breeze@|@ghotavana@
+@bright@|@chaltun, tejasvi@
+@brinjal@|@reengnu@
+@broad daylight@|@dhole divas@
+@bronze@|@kansun@
+@brother@|@bhai@
+@brown@|@badamee, bhooron@
+@buffalo@|@bhensho@
+@bull@|@sand@
+@burden@|@boja@
+@business@|@dantha, dantha@
+@busy@|@vyasta@
+@but@|@pan, parnto, pen, pern@
+@butcher@|@khatki@
+@butter@|@maakhan@
+@butter-milk@|@chhash@
+@cage@|@pinjaru, pinjaru@
+@camel@|@oont@
+@candle@|@minbati@
+@car@|@gaadi, gaadi@
+@caraway@|@ajama@
+@cardamom@|@elchi@
+@carrot@|@gaajar, gaajar, gajar@
+@cashew nut@|@bhilamo, kaju@
+@cat@|@biladi, bilari@
+@cauliflower@|@phulkobi@
+@century@|@sadi@
+@cereals@|@anaj@
+@certainly@|@nishank@
+@chains@|@sankaro@
+@chair@|@khursee, khursi@
+@change@|@badal, badal@
+@cheek@|@gaal@
+@cheese@|@paneer@
+@chest@|@chhati@
+@chickpeas@|@tsana@
+@children@|@chokra, chokra@
+@chilli@|@marchun@
+@choir@|@kelvelum@
+@cinnamon@|@taj@
+@city@|@shair, shair@
+@clarified butter@|@ghee@
+@clay@|@matori@
+@clean@|@choko, choko, svacha@
+@clerk@|@mutsadi@
+@climate@|@hawapani@
+@clock@|@ghariyaal@
+@close@|@band, band@
+@cloth@|@kaapard, kaprun@
+@clothes@|@kapra, kapra@
+@cloud@|@vadra@
+@clove@|@laving@
+@cock@|@kookado@
+@cold@|@tandi, tandi, thanda, thandu, thandak@
+@colour@|@rang, rhang@
+@come in@|@aawo@
+@companion@|@sathii@
+@condition@|@halat@
+@contagious@|@cepi@
+@control@|@niyantrana@
+@cook@|@babarchi@
+@cool@|@thandu, thandak@
+@copper@|@tambun@
+@coriander@|@dhana@
+@corn@|@ghaun, makaa@
+@corner@|@khuno@
+@correct@|@teek, teek@
+@costume@|@posaka@
+@cot@|@katlo@
+@country@|@desh, desh@
+@cow@|@gaay@
+@cowardice@|@kayarta@
+@craftsman@|@mistri@
+@crazy@|@gaandi, gaandi, gaando, gaando@
+@crow@|@kagdo@
+@crowd@|@bhida@
+@crumb@|@katko@
+@crust@|@popado@
+@crutch@|@ghodi@
+@cry@|@ro, ro@
+@cucumber@|@kaakri, kaakri@
+@cumin@|@jirum@
+@cupboard@|@kabat@
+@curd@|@dahin@
+@cure@|@upacar@
+@curtain@|@padado@
+@cycle@|@saayakal@
+@cyclone@|@vavajhorun@
+@dad@|@baap, baap@
+@dance@|@naach, naach@
+@dancer@|@nat@
+@danger@|@afat@
+@dark@|@andaaru, andaaru@
+@dark blue@|@bhooro@
+@date (precise)@|@tarikh@
+@daughter@|@dikri@
+@daughter-in-law@|@jahu, voho@
+@day@|@diwas@
+@days@|@divas@
+@decay@|@sado@
+@decision@|@merji, merji@
+@deep@|@unda@
+@deer@|@haran@
+@defeat@|@har, hara@
+@deficiency@|@kasar@
+@delay@|@dheel@
+@demand@|@khapt, mang@
+@democracy@|@lokasahi@
+@desire@|@iccha@
+@destiny@|@niyati@
+@diarrheal@|@jhadi@
+@did@|@karu, karu@
+@diet@|@kho, ahar@
+@difficulty@|@archan@
+@dig@|@khod, khod@
+@dining room@|@jamavanikholi@
+@dirt@|@gandvar@
+@dirty@|@ganda, ganda, gandi, gandi, gando, gando@
+@dish@|@rakabi@
+@divorce@|@chhuta chhera, chootacheda, chootacheda@
+@do@|@kar, kar@
+@do meet@|@male, male'@
+@dog@|@kutto, kutro@
+@doll@|@putli@
+@donkey@|@gadedo, gadhedo, gadhero@
+@door@|@darwajo@
+@dough@|@kanak@
+@dove@|@kabootar@
+@down@|@neeche@
+@drama@|@naatak, naatak@
+@drawing room@|@divankanun@
+@dream@|@svapna@
+@dress@|@posnaak@
+@drink@|@pi, pi@
+@drunkard@|@daroodiyo@
+@dust@|@dhul@
+@duty@|@faraj@
+@eagle@|@garur@
+@ear@|@kaan, kaan@
+@early@|@velo, velo@
+@earn@|@kamai, kamai@
+@earthern house@|@matinu ghar@
+@ease@|@nirant@
+@eat@|@kha, kha@
+@editor@|@tantri@
+@education@|@kelvani@
+@effect@|@asar@
+@egg@|@bedaa, indun@
+@eggplant@|@reengnu@
+@eight@|@aant, aant@
+@eighteen@|@adaar, adaar@
+@elbow@|@kon'nee@
+@elephant@|@hathi@
+@eleven@|@agyaar, agyaar@
+@empty@|@kaali, kaali@
+@enemy@|@dusman@
+@enough@|@purtun@
+@entire@|@bilkul@
+@equal@|@barobar@
+@equal to@|@sarkha@
+@error@|@bhul@
+@evening@|@san'dhyaa (Namaste), sanj@
+@every@|@batha, batha, der, der@
+@everyday@|@darroj, roj, roj@
+@everywhere@|@sarvatar@
+@except@|@vina@
+@excuse@|@bahanum@
+@extent@|@hada@
+@eye@|@aankh, aankh@
+@eyes@|@aankho, aankho@
+@face@|@antaman, mode, modu@
+@failure@|@nisphalat@
+@fair@|@vajabi@
+@fall@|@pad, pad@
+@far@|@door@
+@farmer@|@khedut@
+@fast@|@jaldi, jali@
+@fate@|@takdir@
+@father@|@baap, baap@
+@father-in-low@|@sasro@
+@fault@|@kasur@
+@fear@|@bhaya@
+@feel@|@laage, laage, thai, thai@
+@feeling@|@lagani@
+@fell (female)@|@padi, pari@
+@fenugreek@|@methi@
+@field@|@ksetraman@
+@fifteen@|@pandar, pandar@
+@fifty@|@pachaa, pachaa@
+@fig@|@anjir@
+@fill@|@bhar, bhar@
+@filth@|@bhrastata@
+@finger@|@angri, angri@
+@fire@|@ag, ag, ag@
+@first@|@pela, pela@
+@fish@|@maachhalee@
+@five@|@paanch, paanch@
+@flag@|@dhaja@
+@flashlight@|@betaree@
+@flood@|@pura, rail@
+@flu@|@phalu@
+@food@|@jaman@
+@fool@|@laloo, laloo@
+@foot@|@pagno pan'jo@
+@forever@|@kayam@
+@forgot@|@bhool, bhool@
+@fork@|@kaan'to, kanto@
+@fortnight@|@pakhvadiyon@
+@forty@|@chaali, chaali@
+@four@|@char, char@
+@fox@|@kaheloon@
+@fragrance@|@suvas@
+@free@|@mafath, mafath@
+@Friday@|@Shukravaar, Shukravaar@
+@friend@|@mitrane@
+@from@|@_thi (suffixe)@
+@from Sham@|@Shamti@
+@front of@|@aagar, aagar@
+@frost@|@banghai@
+@fruit@|@phal@
+@fry@|@thar, thar@
+@full@|@puma@
+@fun@|@jalsa, jalsa@
+@future@|@bhavisya, bhavisyaman@
+@garden@|@vari@
+@gardener@|@mali@
+@garlic@|@lasan@
+@gearing@|@sajai@
+@get out@|@nikar, nikar@
+@ginger@|@aadoo, aadoo, adhu@
+@girl@|@chhokri, chokri@
+@gist@|@bhavarth@
+@give@|@aap, aap@
+@glad@|@prasann@
+@glass (drink)@|@pyaalo@
+@go@|@jaa, jaa@
+@goat@|@bakro@
+@god@|@bhagvan, bhagvan@
+@gold@|@sonun@
+@golden@|@soneri@
+@goldsmith@|@soni@
+@good@|@saaru, saaru@
+@good morning@|@Shubh sawaar (Namaste)@
+@goodbye@|@aawjo@
+@government@|@sarakara@
+@grain@|@anaj@
+@grandfather@|@daadaa, daadaa@
+@grandfather (father's dad)@|@dadapapa@
+@grandfather (mother's dad)@|@nanapapa@
+@grandmother@|@baa, baa@
+@grandmother (mother's dad)@|@dadima@
+@grandmother (mother's ma)@|@nanima@
+@grape@|@drak@
+@grapefruit@|@pafnas@
+@grapes@|@drakh@
+@grass@|@ganss@
+@greed@|@lobh, lalac@
+@green@|@leelo@
+@grey@|@raakhod'ee@
+@ground@|@jameen, jameen@
+@grudge@|@rosa, ver, rosa@
+@guava@|@jamphal@
+@guest@|@parono@
+@habit@|@adat@
+@hail (weather)@|@kara@
+@hair@|@bhaal, vaar, vaar@
+@half@|@ardu, ardu@
+@hand@|@haath, haath@
+@happiness@|@shuk@
+@happy birthday@|@khusa jamnadivass@
+@Happy new years!@|@saal mubarak!, saal mubarak!@
+@hard@|@jor, jor@
+@hare@|@saslun@
+@hasten@|@utavar@
+@hat@|@topee@
+@hate@|@dhikkara, dikkhar@
+@hawker@|@feriyo@
+@head@|@maathu, maathu@
+@heart@|@dil, dil, hrdaya@
+@hearty@|@hardik@
+@heaven@|@svarg@
+@help@|@madad@
+@hen@|@kukdi, maraghi@
+@here@|@ahin, aiya'n, aiya'n@
+@hit@|@maar, maar, mare, mare@
+@hold@|@pakard, pakard@
+@holy food@|@prasaad, prasaad@
+@home@|@ghar@
+@honey@|@madh@
+@hope@|@asa@
+@horrible@|@bhayanaka@
+@horse@|@ghora, ghoro, goda, goda@
+@hospital@|@rugn'aalya@
+@hostage@|@bana@
+@hot@|@garam, garam@
+@hour@|@kalaak, kalak@
+@house@|@ghar, makaan@
+@household@|@gharkhatlo@
+@how@|@kevite, kevite@
+@how are you@|@tamne kem chhe@
+@how are you?@|@kem cho, kem cho@
+@how much@|@ketla, ketla, ketli, ketli, ketlu, ketlu@
+@hundred@|@sau, sau@
+@hundred thousand@|@laak, laakh, laakh@
+@hunger@|@bhukh@
+@hurrah !@|@ahaha !@
+@hurt@|@nuksana, vaage, vaage@
+@husband@|@pati@
+@hymn@|@gita@
+@i@|@mare@
+@I@|@main, main, mane, mane, mare@
+@i love you@|@oon tane prem karu chu@
+@I love you@|@oon tane prem karu chu@
+@ice@|@baraf, baraf@
+@ideal@|@adarcha@
+@illness@|@bimari, mandgi@
+@in front of@|@agal@
+@in place of@|@jagyaman@
+@in turn@|@vara pramane@
+@indeed@|@sachej@
+@inflate@|@vadaar, vadaar@
+@information@|@majhiti, samastar@
+@injury@|@ija@
+@ink@|@sahi, shahi@
+@inquiry@|@poochparachh, tapas@
+@inside@|@andar, andar, andar@
+@inside house@|@gharman@
+@intelligence@|@akal@
+@intense@|@tivr@
+@intention@|@hetu@
+@iron@|@lokhand@
+@is@|@che, che@
+@jackal@|@shiyal@
+@joker@|@mashkro@
+@judgement@|@cukado@
+@jump@|@kud, kud@
+@key@|@chaavee@
+@kick@|@laath, laath@
+@kindness@|@daya@
+@kitchen@|@rasodun@
+@kite@|@samadi@
+@knee@|@ghotan@
+@knife@|@chharee, tsari@
+@knight@|@ghodo@
+@labourer@|@majoor@
+@ladder@|@siri, nisarni@
+@lady@|@ba�, banu@
+@lamb@|@ghetanna, mendhanu@
+@land@|@jamin, dharti@
+@language@|@baashaa, baashaa@
+@late@|@antaman, mode@
+@latrine@|@sandas@
+@laugh@|@has, has@
+@law@|@kayado@
+@lead@|@kalai@
+@lean@|@durbal@
+@leaves@|@panda@
+@left@|@d'aabun'@
+@leg@|@pag, pag@
+@lemon@|@leenbu, limboo, limbu@
+@lentils@|@masour@
+@leopard@|@cheetro@
+@let go@|@chord, chord@
+@letter@|@patra@
+@liberty@|@chhut@
+@lick@|@chaat, chaat@
+@lie@|@joot, joot@
+@life@|@jaan, jaan, jindagi, jindagi@
+@light@|@diwo, ujas@
+@light blue@|@aasmanee@
+@lightening@|@veejalee@
+@like@|@sarkha@
+@line@|@vakya@
+@lion@|@sinh, sinha@
+@lip@|@hont, hont@
+@living@|@vasavata@
+@local bread@|@rotli@
+@lock@|@talun@
+@long@|@lamba@
+@look@|@jo, jo@
+@loss@|@nuksana@
+@lullaby@|@halaradum@
+@maid@|@bai, bai@
+@make@|@banai, banai@
+@mango@|@keri, keri@
+@marriage@|@lagan, pahin, pain, vivah@
+@married couple@|@jodun@
+@me@|@oon, oon@
+@meaning@|@arth@
+@meat@|@mans@
+@meet@|@mal, mal@
+@memory@|@yaad, yaad, yad@
+@mercy@|@daya@
+@metal@|@dhato@
+@midnight@|@ardhorat@
+@milk@|@doodh@
+@milkman@|@doodhwalo@
+@mind@|@magaj, magaj@
+@mine (fem. object)@|@mari@
+@mine (femine object)@|@mari@
+@mine (masculine object)@|@maro, maro@
+@minute@|@minit@
+@miracle@|@camatkara@
+@mirror@|@arisso@
+@mistake@|@bhool, bhool@
+@mom@|@ba, maa, maa@
+@Monday@|@Somvaar, Somvaar@
+@money@|@paisa, paisa@
+@monkey@|@bandar, vandra, bandar@
+@month@|@mahino@
+@moon@|@candra@
+@more@|@adhik, vadhare@
+@morning@|@sawar@
+@mother@|@ba, maa, maa@
+@mother-in-law@|@sasu@
+@motherless@|@mavagar@
+@mouse@|@oondar@
+@mouth@|@mod'hun@
+@much@|@ghanu@
+@murder@|@hatya@
+@muscle@|@snayu@
+@music@|@sangeet, sangeet@
+@musician@|@sangeetkar, sangeetkar@
+@mustard seed@|@raii@
+@mystery@|@rahasya@
+@nail@|@nak, nakh@
+@naked@|@nagna@
+@nature@|@kudrat@
+@nau@|@nine@
+@near@|@baju, nadjik, baju@
+@near about@|@ass pass@
+@nearly@|@lagbhag@
+@neck@|@dok, garu, garu@
+@need@|@jarur, joie, joie@
+@nephew (sister's son)@|@bhanej@
+@new@|@nava, nava, nava, navu, navu@
+@news@|@khabar, samaachaar, samaachaar@
+@newspaper@|@chaapun@
+@night@|@rat, ratre@
+@nine@|@nau@
+@nineteen@|@ognees, ognees@
+@no@|@naa, naa, nahin@
+@noon@|@bapor@
+@nose@|@naak, naak@
+@not@|@nathi, nathi@
+@not at all@|@jara pan nahin@
+@number@|@tadad@
+@o' clock@|@vaagya, vage@
+@o god !@|@hai bagwan !@
+@oat@|@kasam@
+@obese@|@medasvi@
+@ocean liner@|@hod'ee@
+@oil@|@tel, thel@
+@ok@|@teek, teek@
+@old@|@juni, juni, junoo, junoo@
+@old man@|@doso@
+@old women@|@doshi@
+@on left side@|@dabi tarf@
+@on right side@|@jamni taraf@
+@one@|@ek, ek@
+@onion@|@doungri, doungri, doungri, kaanda, kaanda, kanda@
+@open@|@kol, kol@
+@or@|@athva, ke@
+@orange@|@naarangee@
+@orange (colour)@|@kesaree@
+@orange (fruit)@|@naarangee, santarun@
+@order@|@kramaman@
+@otherwise@|@nahito@
+@our (feminie object)@|@amaari@
+@our (feminine object)@|@amaari@
+@our (masculine object)@|@amaro, amaro@
+@outside@|@bahar, bahar, bahar@
+@owl@|@ghuvar@
+@own@|@potana@
+@ox@|@bel@
+@pag@|@leg@
+@pages@|@prstho@
+@pain@|@dhuk, dhuk, vedna@
+@panther@|@chitto@
+@paper@|@kaagar, kaagar@
+@paraffin@|@min@
+@pardon@|@mafi@
+@parents (father mother)@|@mabap@
+@parrot@|@popat@
+@partisan@|@paksapati@
+@past@|@chella@
+@peace@|@shanth, shanth@
+@peacock@|@mor@
+@pear@|@naaspatee@
+@peas@|@vatano@
+@pen@|@kalam@
+@pencil@|@seespen@
+@peon@|@patlavo, patvalo@
+@pepper@|@mari, mari@
+@permission@|@agya@
+@physician@|@vaid@
+@pickpocket@|@gathiyo@
+@picture@|@chitrakar@
+@piece of@|@katko@
+@pig@|@dukkar@
+@pigeon@|@kabootar@
+@pilgrimage@|@jatra@
+@pillow@|@oshikun@
+@pineapple@|@ananas@
+@pink@|@gulabee@
+@pity@|@daya@
+@plane@|@viiman@
+@plantain@|@kelun@
+@plate@|@patrun, thaal'ee@
+@please@|@krupaa karo@
+@poem@|@kavita@
+@poison@|@jair, jair@
+@politician@|@mutsadi@
+@pomegranate@|@daram@
+@pony@|@tattu@
+@potatoes@|@batetaa@
+@powder@|@pavadar@
+@prayer@|@prarthana@
+@precious@|@kimmati@
+@profession@|@dhando@
+@prologue@|@amukha@
+@promise@|@kasam, kasam@
+@prune@|@aloo@
+@pulse@|@dal@
+@pulse (cooked)@|@dal@
+@punch@|@phant, phant@
+@pure@|@svastha@
+@puree@|@raso@
+@purple@|@jaan'bud'o@
+@purse@|@kothli@
+@put@|@muk, muk@
+@question@|@prashna, prashna@
+@queue@|@katar@
+@quick@|@jaldi, jali@
+@quiet@|@chup, chup@
+@radish@|@mula@
+@rain@|@varishti@
+@rainy@|@varsad@
+@Ram's son@|@Ramno dikro@
+@ransom@|@khandani@
+@rat@|@oondar@
+@raw@|@katsou@
+@razor@|@astro@
+@real@|@vastavika@
+@realm@|@ksetr@
+@reason@|@kaaran, kaaran, kharan@
+@recitation@|@pathan@
+@red@|@laal, laal@
+@regarding@|@babatman@
+@regret@|@afsoss@
+@relative@|@sago@
+@religion@|@dharam, dharam@
+@remorse@|@pastavo@
+@remove@|@kaad, kaad@
+@representative@|@pratinidhi@
+@respect@|@maan@
+@rest@|@bakina@
+@revenge@|@badlo@
+@rice@|@chokha, tsavel@
+@right@|@jamn'un, teek, teek@
+@ring@|@vinti@
+@river@|@nadi@
+@rootlet@|@bhajimula@
+@row@|@liti@
+@rumour@|@afwa@
+@Rush Shah@|@Author name@
+@sacrifice@|@balidana@
+@saffron@|@kesar@
+@sailor@|@kharvo@
+@salt@|@mithun, nimak, mithum@
+@salt-maker@|@agariyo@
+@sand@|@reti@
+@Saturday@|@Sanivaar, Sanivaar@
+@saucepan@|@tapelun@
+@saucer@|@rakaabee@
+@scavenger@|@mahar@
+@school@|@nishal@
+@scissors@|@kaatar@
+@search@|@khor, khor, sodh, sodh@
+@season@|@ritu@
+@second@|@biji, biji, pak@
+@secret@|@gupta@
+@see@|@jo, jo@
+@self-defence@|@svaraksana@
+@send@|@mokal, mokal@
+@servant@|@nokar@
+@seven@|@saat, saat@
+@seventeen@|@satar, satar@
+@seventy@|@siter, siter@
+@shadow@|@chhaya, chayno@
+@shame@|@saram, sarma, sharam, sharam@
+@sheath@|@avarana@
+@sheep@|@mendhun@
+@sheet@|@chaadar, chaadar@
+@shepherd@|@bharvad@
+@shield@|@raksana@
+@shirt@|@kamees@
+@shivery@|@tharthartum@
+@shoe@|@jod'aan@
+@short@|@tunka@
+@shoulder@|@khaabo@
+@show@|@bathai, bathai@
+@shower@|@fuwaaro@
+@sickness@|@mando, mando@
+@sight@|@dekhau@
+@silence@|@mauna@
+@silver@|@roopun, chandi@
+@simple@|@saral@
+@sin@|@paap, paap@
+@sincerity@|@imandari@
+@sing@|@gavo, gavo@
+@singer@|@gayak@
+@single handedly@|@jaathe, jaathe@
+@sister@|@bhehen@
+@six@|@cha', cho@
+@sixteen@|@sol, sol@
+@skin@|@tvaca, tsambri@
+@slap@|@laafo, laafo, tapad, tapad@
+@sleep@|@nidar@
+@slip@|@kapali@
+@slow@|@dhima, dhirthi, dime@
+@small@|@naana, naana@
+@small town@|@ghaam, ghaam@
+@smile@|@smit@
+@snake@|@snaap, sarap@
+@snake-gourd@|@pandolum@
+@snow@|@baraf@
+@snuff@|@chikni@
+@so@|@tho, tho@
+@soap@|@saabu, sabu@
+@sober@|@svastha@
+@socks@|@moja@
+@solidity@|@majbut@
+@solitude@|@ekanta@
+@some@|@ketlak@
+@someday@|@ek divas@
+@something@|@kaink, kaink, kasu@
+@sometimes@|@gadik, gadik@
+@son@|@dikro@
+@song@|@geet, geet@
+@songster@|@gavaiyo@
+@son-in-law@|@jama�@
+@soon@|@tunka@
+@sorrow@|@duukha@
+@soul@|@atma@
+@sound@|@awaaj, awaaj@
+@spare part@|@fajala bhag@
+@sparrow@|@chaklo@
+@species@|@jaath@
+@spicy@|@thikhu, thikhu@
+@spill@|@doryu, doryu@
+@spinach@|@palak@
+@spirit@|@atma@
+@spoon@|@chamcho@
+@spoon (large)@|@tsamtso@
+@spoon (small)@|@tsamtsi@
+@spring@|@vasant@
+@spy@|@jasus@
+@squirrel@|@khishkoli@
+@stag@|@sabar@
+@stairs@|@nisarani@
+@starving@|@bhukh� marat@
+@state@|@pradesh, pradesh@
+@stay@|@re, re@
+@stick@|@lakri@
+@storm@|@tofan@
+@story@|@varta@
+@strength@|@takat@
+@stupid@|@doba, doba@
+@sugar@|@khaand, sa'kar@
+@suitcase@|@pet'ee@
+@sulphur@|@gandhak@
+@summer@|@unalo@
+@sunless@|@chhayavalun@
+@sunlight@|@tadako, tarko, tarko@
+@sunny@|@surajnu@
+@sunrise@|@suryuday@
+@sunset@|@surynoast@
+@surely@|@jarur@
+@swan@|@hans@
+@swear@|@sogan@
+@sweat@|@parsevelo, parsevo@
+@sweets@|@meetai, meetai@
+@sword@|@talavara@
+@tabacco@|@tamaaku@
+@table spoon@|@chamcho, chamcho@
+@tailor@|@darji@
+@take@|@le, le@
+@take care@|@sambhal, sambhal@
+@tamarind@|@amali, ambli@
+@tandu@|@cold@
+@tavern@|@vishi@
+@tea@|@cha, chaa@
+@tears@|@aansu@
+@teaspoon@|@chamchi, chamchi@
+@temperature@|@tapaman@
+@temple@|@mandir@
+@ten@|@das, das@
+@thanks@|@aabhaar@
+@that@|@eh, eh, pela, pela@
+@that much@|@etli@
+@that side@|@te taraf@
+@theft@|@chori, chori@
+@then@|@tho, tho@
+@there@|@tayan, thya'n, thya'n@
+@thief@|@chor, chor@
+@third@|@thiji, trhiji@
+@thirst@|@tarass@
+@thirteen@|@thair, thair@
+@this@|@ah, ah@
+@this much@|@atli, atli@
+@this side@|@a taraf@
+@though@|@jeke@
+@thousand@|@hajaar, hajaar@
+@three@|@thran, thron@
+@throw@|@naakh, naakh@
+@thumb@|@angootaa, angootho@
+@thunder@|@megh garjana@
+@Thursday@|@Guruvaar, Guruvaar@
+@tiger@|@vagh@
+@time@|@samay@
+@time (frequency)@|@vaar, vaar@
+@time (period)@|@vakhat@
+@to and from@|@aam tame@
+@to believe@|@man�@
+@to close@|@bandha karo@
+@to cross@|@par@
+@to cry@|@kolahal@
+@to enter@|@gus, gus@
+@to fly@|@urvun@
+@to forget@|@bhuli@
+@to heal@|@mataadavum@
+@to him@|@tene mate@
+@to lacer@|@phita@
+@to laugh@|@has�@
+@to leave@|@chodi@
+@to lie down@|@asatya@
+@to me@|@mane@
+@to pray@|@prarthana@
+@to pretend@|@dola@
+@to read@|@vancho@
+@to scratch@|@saruatahi@
+@to shout@|@pado@
+@to sit@|@bess@
+@to suffer@|@bhog@
+@to vanish@|@nasa pamavum@
+@to walk@|@calva@
+@to you@|@tamne@
+@tobacco@|@tamaaku, tarmaku@
+@today@|@aaje, aaje, aj@
+@toilets@|@swachchhaalaya@
+@tomatoe@|@tametu@
+@tomatoes@|@tametaan, tametu@
+@tomorrow@|@avtikal, kaale, kaale@
+@tong@|@jeebh@
+@top@|@oopar, oopar, ramakdun, tocana@
+@torn@|@fatelo@
+@torture@|@trasa@
+@tower@|@tavar@
+@train@|@aag gaad'ee@
+@training@|@talim@
+@traveller@|@musafar@
+@tree@|@vrksa, djar@
+@Tuesday@|@Mangalvaar, Mangalvaar@
+@turban@|@paghri@
+@turmeric@|@hardar@
+@turnip@|@gokhrun@
+@twelve@|@baar, baar@
+@twenty@|@vees, vees@
+@twenty-five@|@pachees, pachees, pachis@
+@twenty-one@|@ek vees, ek vees@
+@two@|@be, be@
+@ugly@|@nica@
+@umbrella@|@chhatree@
+@uncle@|@kaka@
+@uncle (father's elder brother)@|@motapapa@
+@uncle (father's younger brother)@|@tsata@
+@uncle (mother's elder brother)@|@mama@
+@uncle (mother's younger brother)@|@fua@
+@under@|@neeche, neeche@
+@understand@|@samaj, samaj@
+@unemployed@|@navrun@
+@unfair@|@ayogya@
+@unseasonal rail@|@mavathun@
+@untrue@|@astya@
+@up@|@oopar, oopar, upar@
+@upkeep@|@sambhal, sambhal@
+@upon@|@oopar, oopar@
+@upstairs@|@maliyun@
+@valour@|@kimmat@
+@vapour@|@varal@
+@vegetables@|@bhajipalo, shak, shak@
+@very@|@ati@
+@via@|@marfat@
+@victim@|@sikar@
+@victory@|@jeet, fateh@
+@village@|@ghaam, ghaam@
+@virgin@|@kanya@
+@vomit@|@ulti, ulti@
+@vulture@|@gidh@
+@wages@|@majoori@
+@waist@|@kamar, kamar@
+@wait for@|@mate raha@
+@wait-nurse@|@dhav@
+@wall@|@divala, diwal@
+@war@|@yuddha@
+@washer man / woman@|@dhobi@
+@waste@|@barbaad, barbaad@
+@water@|@paan'ee@
+@wave@|@laher@
+@weapon@|@sastr@
+@weather@|@abohawa, havaman@
+@wedding@|@lagan, lagan, lagan@
+@Wednesday@|@bhudvaar, Bhudvaar@
+@week@|@atvaare, atvaare@
+@weight@|@vagan, vagan@
+@what@|@su, su'n@
+@what side@|@koi taraf@
+@wheat@|@ghaun@
+@whenever@|@jaare, jaare@
+@where@|@kuyam, kya, kyan@
+@white@|@dora, dori, doru@
+@white (fem)@|@dori@
+@white (inv)@|@doru@
+@white (masc.)@|@dora@
+@whither@|@kuyam@
+@who@|@kaun, kaun@
+@whole@|@aaku, aaku@
+@why@|@kem, kem, sa mat�@
+@wick@|@bati@
+@wicked@|@dust@
+@widow@|@vidhwa@
+@widower@|@vidhur@
+@widowhood@|@randapo@
+@wife@|@patni@
+@will do@|@karse, karse@
+@will gain@|@male, male'@
+@will you marry me?@|@mari jode lagan karis?@
+@wind@|@pavan, vintalvon@
+@window@|@bari@
+@winter@|@shiyalo@
+@wire@|@vayar@
+@wisdom@|@sanapana@
+@with@|@sathe@
+@witness@|@sakh, sakh@
+@wolf@|@varu@
+@wood@|@lakrun@
+@woodcutter@|@kathiyaro@
+@word@|@jaban, sabdo, bol, sabdo@
+@work@|@kaam, kaam@
+@world@|@duniya, duniya@
+@worm@|@krmi@
+@worry@|@cinta@
+@wounded@|@ghayada@
+@wrist@|@kaan'dun@
+@writer@|@lekhak@
+@wrong@|@khoti@
+@year(s)@|@varas, varas@
+@yellow@|@peerro@
+@yes@|@ha, haa, haa@
+@yesterday@|@gayikal, kaale, kaale@
+@you@|@tu, tun@
+@young man@|@yuvan@
+@your (fem. object)@|@tari@
+@your (feminie object)@|@tari@
+@your (masculine object)@|@taro, taro@
+

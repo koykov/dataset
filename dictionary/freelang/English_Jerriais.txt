@@ -1,0 +1,6506 @@
+@English@|@Jerriais@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1. royal@|@lé cacatouais@
+@1/16 pint@|@un d'mié-nodgîn@
+@1/2 pint@|@eune démié-pînte@
+@1/4 cabot@|@un quarchonnyi@
+@1/6 cabot@|@un siêxtonnyi@
+@1/8 pint@|@un nodgîn@
+@100000th@|@lé/la chent millième@
+@10000th@|@lé/la dgiêx millième@
+@1000th@|@lé/la millième@
+@100th@|@lé/la chent-tch'ieunième, lé/la chentchième, lé/la chentième@
+@101st@|@lé/la chent-tch'ieunième@
+@102nd@|@lé/la chent deuxième@
+@103rd@|@lé/la chent traîsieme@
+@104th@|@lé/la chent quatrième@
+@105th@|@lé/la chent chîntchième@
+@106th@|@lé/la chent siêxième@
+@107th@|@lé/la chent-septième, lé/la chent septchième@
+@108th@|@lé/la chent-huitième, lé/la chent huitchième@
+@109th@|@lé/la chent neuvième@
+@10th@|@la dgièxième@
+@110th@|@lé/la chent dgièxième@
+@111th@|@lé/la chent onzième@
+@112th@|@lé/la chent douzième@
+@113th@|@lé/la chent treizième@
+@114th@|@lé/la chent quatorzième@
+@115th@|@lé/la chent tchînzième@
+@116th@|@lé/la chent seizième@
+@117th@|@lé chent dgiêx-septchième, lé chent dgiêx-septième@
+@118th@|@lé chent dgiêx-huitchième, lé chent dgiêx-huitième@
+@119th@|@lé/la chent dgiêx-neuvième@
+@11th@|@la onzième@
+@120 gallons@|@eune pipe@
+@120th@|@lé/la chent vîngtchième@
+@12th@|@la douzième@
+@13th@|@la treizième@
+@14th@|@la quatorzième@
+@15th@|@la tchînzième@
+@16th@|@la seizième@
+@17th@|@la dgiêx-septchième, la dgiêx-septième@
+@18th@|@lé dgiêx-huitchième, lé dgiêx-huitième@
+@19th@|@la dgiêx-neuvième@
+@1st@|@la preunmiéthe, lé preunmyi, les preunmièrs@
+@1st (1)@|@es preunmié, les preunmiéthes@
+@2 pronged fork@|@fourtchet@
+@2000th@|@lé/la deux millième@
+@200th@|@lé/la deux chentchième, lé/la deux chentième@
+@20th@|@la vîngtchième@
+@21st@|@la vîngt-tch'ieunième@
+@22nd@|@la vîngt-deuxième@
+@23rd@|@la vîngt-traîsieme@
+@24th@|@la vîngt-quatrième@
+@25th@|@la vîngt-chîntchième@
+@26th@|@la vîngt-siêxième@
+@27th@|@lé vîngt-septchième, lé vîngt-septième@
+@28th@|@lé vîngt-huitchième, lé vîngt-huitième@
+@29th@|@la vîngt-neuvième@
+@2nd@|@la deuxième, la s'gonde, lé s'gond@
+@3000th@|@lé/la trais millième@
+@300th@|@lé/la trais chentchième, lé/la trais chentième@
+@30th@|@la trentchième@
+@31st@|@la trente-tch'ieunième@
+@32nd@|@la trente-deuxième@
+@33rd@|@la trente-traîsieme@
+@34th@|@la trente-quatrième@
+@35th@|@la trente-chîntchième@
+@36th@|@la trente-siêxième@
+@37th@|@lé trente-septchième, lé trente-septième@
+@38th@|@lé trente-huitchième, lé trente-huitième@
+@39th@|@la trente-neuvième@
+@3rd@|@la traîsieme@
+@4 pints@|@un pot@
+@40 pints@|@un cabot@
+@400th@|@lé/la quat' chentchième, lé/la quat' chentième@
+@40th@|@la quarantchième@
+@41st@|@la quarante-tch'ieunième@
+@42nd@|@la quarante-deuxième@
+@43rd@|@la quarante-traîsieme@
+@44th@|@la quarante-quatrième@
+@45th@|@la quarante-chîntchième@
+@46th@|@la quarante-siêxième@
+@47th@|@lé quarante-septchième, lé quarante-septième@
+@48th@|@lé quarante-huitchième, lé quarante-huitième@
+@49th@|@la quarante-neuvième@
+@4th@|@la quatrième@
+@500th@|@lé/la chîn chentchième, lé/la chîn chentième@
+@50th@|@lé/la chînquantchième@
+@51st@|@lé/la chînquante-tch'ieunième@
+@52nd@|@lé/la chînquante-deuxième@
+@53rd@|@lé/la chînquante-traîsieme@
+@54th@|@lé/la chînquante-quatrième@
+@55th@|@lé/la chînquante-chîntchième@
+@56th@|@lé/la chînquante-siêxième@
+@57th@|@la chînquante-septième, lé chînquante-septchième@
+@58th@|@lé chînquante-huitchième, lé chînquante-huitème@
+@59th@|@lé/la chînquante-neuvième@
+@5th@|@la chîntchième@
+@600th@|@lé/la siêx chentchième, lé/la siêx chentième@
+@60th@|@lé/la souaixantchième@
+@61st@|@lé/la souaixante-tch'ieunième@
+@62nd@|@lé/la souaixante-deuxième@
+@63rd@|@lé/la souaixante-traîsieme@
+@64th@|@lé/la souaixante-quatrième@
+@65th@|@lé/la souaixante-chîntchième@
+@66th@|@lé/la souaixante-siêxième@
+@67th@|@lé souaixante-septchième, lé souaixante-septième@
+@68th@|@lé souaixante-huitchième, lé souaixante-huitième@
+@69th@|@lé/la souaixante-neuvième@
+@6th@|@la siêxième@
+@700th@|@lé/la sept chentchième, lé/la sept chentième@
+@70th@|@lé/la septantchième@
+@71st@|@lé/la septante-tch'ieunième@
+@72nd@|@lé/la septante-deuxième@
+@73rd@|@lé/la septante-traîsieme@
+@74th@|@lé/la septante-quatrième@
+@75th@|@lé/la septante-chîntchième@
+@76th@|@lé/la septante-siêxième@
+@77th@|@lé septante-septchième, lé septante-septième@
+@78th@|@lé/la septante-huitchième, lé/la septante-huitième@
+@79th@|@lé/la septante-neuvième@
+@7th@|@la septchième, la septième@
+@8 cabots@|@un quartchi@
+@800th@|@lé/la huit chentchième, lé/la huit chentième@
+@80th@|@lé/la huiptantchième, lé/la quatre-vîngtchième@
+@81st@|@lé/la huiptante-tch'ieunième@
+@82nd@|@lé huiptante-deuxième, lé quatre-vîngts-deuxième@
+@83rd@|@lé huiptante-traîsieme, lé quatre-vîngts-traîsieme@
+@84th@|@lé huiptante-quatrième, lé quatre-vîngts-quatrième@
+@85th@|@lé huiptante-chîntchième@
+@86th@|@lé huiptante-siêxième, lé quatre-vîngts-siêxième@
+@87th@|@lé huiptante-septchième, lé huiptante-septième@
+@87th (1)@|@lé/la quatre-vîngts-septchième@
+@87th(2)@|@lé/la quatre-vîngts-septième@
+@88th@|@lé huiptante-huitchième, lé/la huiptante-huitième@
+@88th (1)@|@lé/la quatre-vîngts-huitchième@
+@88th (2)@|@lé/la quatre-vîngts-huitième@
+@89th@|@lé huiptante-neuvième, lé quatre-vîngts-neuvième@
+@8th@|@la huitchième, la huitième@
+@900th@|@lé/la neu chentchième, lé/la neu chentième@
+@90th@|@lé/la nénantchième@
+@91st@|@lé/la nénante-tch'ieunième@
+@92nd@|@lé/la nénante-deuxième@
+@93rd@|@lé/la nénante-traîsieme@
+@94th@|@lé/la nénante-quatrième@
+@95th@|@lé/la nénante-chîntchième@
+@96th@|@lé/la nénante-siêxième@
+@97th@|@lé/la nénante-septchième, lé/la nénante-septième@
+@98th@|@lé/la nénante-huitchième, lé/la nénante-huitième@
+@99th@|@lé/la nénante-neuvième@
+@9th@|@la neuvième@
+@a bag@|@eune pouque@
+@a bagful@|@eune pouquelée, eune poutchie, eune satchie@
+@a bank@|@eune banque@
+@a banker@|@un bantchi@
+@a bargain@|@un bardgîn@
+@a bargeload@|@eune gabâthée@
+@a barrelful@|@eune bathilyie, eune pannelée@
+@a basketful@|@eune pannelée@
+@a batallion@|@un bataillon@
+@a bearded man@|@un barbu@
+@a belief@|@eune crianche@
+@a bellyful@|@eune ventrée@
+@a bet@|@eune gageaille, un pathi@
+@a bit@|@un mio@
+@a boatful@|@eune bat'lée@
+@a borrower@|@un emprunteux@
+@a bowlful@|@eune bollée, eune dgichonnée@
+@a boxful@|@eune boêtée@
+@a breadwinner@|@un gângne-pain@
+@a breeze@|@eune brise@
+@a bunch of fives@|@un mouoché à chîn carres@
+@a cash machine@|@eune machinne à sou@
+@a caskful@|@eune bârritchie, un tonné@
+@a cauldronful@|@eune tchaûdronnée@
+@a chairful@|@eune tchaîsie@
+@a cheque@|@eune chèque@
+@a cheque book@|@eune chèque, un chètchi@
+@a chequebook@|@un chètchi@
+@a clap of thunder@|@un coup d'ôrage@
+@a clearing@|@un clièrgeon@
+@a cloud@|@eune nuée, un nouage, un nouage@
+@a coin@|@eune piéche@
+@a couple@|@un coupl'ye@
+@a credit card@|@eune carte dé crédit@
+@a creditor@|@un créditeu@
+@a crowd@|@eune foule, un fliotchet@
+@a cupful@|@eune tâssée@
+@a day off@|@un jour pouor, un jour pouor lé Rouai@
+@a debtor@|@un detteur@
+@a degree@|@un dégré@
+@a demon@|@un dêmon@
+@a deposit@|@eune caution@
+@a dibber@|@un didget@
+@a dictionary@|@un dictionnaithe@
+@a dishful@|@eune pliatelée@
+@a downpour@|@eune dêcliaitchie, eune dêtchèrque@
+@a dram@|@eune dranme@
+@a drop of drink@|@eune reinchette, un filet, un filot, un lèrmîn, un sico@
+@a drop of drink (1)@|@eune reinchette, un sico@
+@a drunk man@|@un trop-pliein@
+@a drunk woman@|@eune biche@
+@a drunkard@|@un bouaissonneux, un ivrouongne, un soûlard@
+@a fairy@|@eune fée@
+@a faith healer@|@un dêcompteux@
+@a fathom@|@eune brache@
+@a feast@|@un r'pas rouoya@
+@a fieldful@|@eune cliôsée@
+@a flock@|@un troupé@
+@a foot@|@un pid@
+@a forkful@|@eune fourquéthée@
+@a fortune teller@|@eune dîs'resse, un d'vîn@
+@a gale@|@eune dgêle@
+@a gallon@|@un gallon@
+@a gambler@|@un gageux, un joueux d'sous@
+@a game of cards@|@eune gamme dé cartes@
+@a ghost@|@un r'vénant@
+@a glassful@|@eune vèrrée@
+@a goblin@|@un lutîn@
+@a gramme@|@un granme@
+@a greenhouseful@|@eune sèrrée@
+@a grimoire@|@lé grand-mêle, lé grand Albèrt@
+@a group@|@eune dgaîngue@
+@a guarantee@|@un garanti@
+@a handful@|@eune pouongnie@
+@a hatful@|@eune chap'lée@
+@a haunted house@|@eune maîson hantée, eune maîson vîsionnée@
+@a heap@|@un lopîn@
+@a hearthful@|@eune âtrée@
+@a heavy drinker@|@un chucheux, un pînteux, un topeux@
+@a helping hand@|@un coup d'main@
+@a hiveful@|@eune rueûtchie@
+@a houseful@|@eune maîsonnée@
+@a jugful@|@eune cannée@
+@a kilo@|@un kilo@
+@a kilometre@|@un kilomètre@
+@a large amount@|@eune foulboulque@
+@a large number@|@eune racachie@
+@a large quantity@|@eune bahouée, eune cotonnée@
+@a largish piece@|@un betchet@
+@a lender@|@un prêteux@
+@a litre@|@un litre@
+@a litter@|@eune fourcée@
+@a little@|@un brîn@
+@a loan (borrowed)@|@un emprunt@
+@a loan (lent)@|@eune prêt'tie@
+@a loss@|@eune pèrte@
+@a lot@|@eune mâsse, un tas@
+@a mile@|@un mille@
+@a miser@|@un stégrîn@
+@a monster@|@un divèrs, un monstre@
+@a mortgage@|@eune hypothèque@
+@a mouthful@|@eune bouochie@
+@a mugful@|@eune modgie@
+@a nightmare@|@eune ponserêsse@
+@a note@|@eune bille@
+@a pack of cards@|@un patchet d'cartes@
+@a pack-saddleful@|@eune batée@
+@a pageful@|@eune pagie@
+@a pair@|@eune pathe@
+@a paper bag@|@eune pouque en papi@
+@a peck@|@bécot@
+@a penny@|@un pénîn@
+@a perch (=484 sq.ft.)@|@eune pèrque@
+@a piece@|@un morcé@
+@a pinch@|@eune pînchie@
+@a pint@|@eune pînte@
+@a pipeful@|@eune pipée@
+@a plastic bag@|@eune pouque en plastique@
+@a plateful@|@eune assiettée@
+@a pocketful@|@eune paûtée, eune pouch'tée@
+@a poker face@|@eune fache dé bouais@
+@a potful@|@eune potée@
+@a pound@|@eune livre, un louis@
+@a prediction@|@eune prédiction@
+@a profit@|@un profit@
+@a punch@|@un co d'poing@
+@a purseful@|@eune boursée@
+@a quantity@|@eune suée@
+@a quarter@|@un quartchi@
+@a quarter of an hour@|@un quart d'heuthe@
+@a quarter pound@|@un quart'ron@
+@a rainbow@|@Un arc@
+@A rat has a tail like a cat has@|@Rat' a coue-aînchîn' a cat@
+@a ratepayer@|@un contribuabl'ye@
+@a receipt@|@eune tchittance, un r'chu@
+@a repayment@|@un rembours@
+@a roomful@|@eune chambrée@
+@a scoopful@|@eune paîmée@
+@a server@|@un sèrveux@
+@a sewing machine@|@eune machinne à couôtre@
+@a shilling@|@un chélîn@
+@a shot@|@un coup d'feu@
+@a shower@|@eune achie@
+@a snowball@|@eune boule dé né@
+@a spadeful@|@eune bêtchie@
+@a spell@|@un charme, un chorchéthon@
+@a spoonful@|@eune tchul'lée@
+@a star@|@eune êtaile@
+@a statement@|@un êtat@
+@a superstition@|@eune supèrstition@
+@a table@|@eune tabl'ye@
+@a tinful@|@eune tinnée@
+@a ton@|@eune tonné@
+@a trowelful@|@eune truellée@
+@a tubful@|@eune toubée@
+@a vergee (=40 perch)@|@eune vrégie@
+@a vraic fork@|@eune frouque à vrai@
+@a vraicqueur@|@un vraitcheux@
+@a washing machine@|@eune machinne à laver@
+@a wink@|@un clyîn dg'yi@
+@a wizard's child@|@un chorchillon@
+@a yard@|@eune vèrgue@
+@abandon@|@abandon@
+@abandonment@|@abandonnement@
+@abbess@|@l'abbêsse@
+@abbey@|@l'abbaye@
+@abbot@|@l'abbé@
+@abcess@|@l'abcès@
+@abortion@|@l'avouortément@
+@Abraham@|@Âbra-am, Âbréhan, Bram@
+@abroad@|@l'êtrangi@
+@absinth@|@l'absînthe@
+@absolution@|@l'absolution@
+@abuse@|@l'abus@
+@academician@|@l'académicien@
+@accept@|@atchiêsci@
+@accordion@|@un accordéon@
+@accountant@|@lé comptabl'ye@
+@accounts book@|@un livre d'comptes@
+@accusation@|@l'atchusâtion@
+@accused@|@l'atchusé@
+@accuser@|@l'atchuseux@
+@ace@|@l'as@
+@aches and pains@|@l's ahans@
+@acorn@|@eune tchênelle, un gliand@
+@acquaintance@|@l'accointance@
+@acrobat@|@l'acrobate@
+@act@|@acte@
+@actor@|@l'acteur@
+@actress@|@l'actrice@
+@Adam@|@Âdam@
+@addiction@|@l'addiction@
+@address@|@adréchi, l'adresse@
+@adjective@|@adjectif@
+@adjudicator@|@l'adjudicateu@
+@adjutant@|@l'agîtant@
+@administrator@|@l'adminnistrateu@
+@admiral@|@l'amitha@
+@admiralty@|@l'amithauté@
+@Adolphus@|@Dâlpheusse@
+@adult@|@adulte@
+@adulterer@|@l'adultéthe@
+@adverb@|@advèrbe@
+@adversary@|@l'advèrsaithe@
+@adviser@|@lé consillieux@
+@advocate@|@un avocat@
+@adze@|@tîle@
+@afford@|@affaûrder@
+@Afghanistan@|@Afghanistan@
+@Africa@|@Afrique@
+@African@|@Afritchaine@
+@African lily@|@lé bliu lis, lé lis d'Afrique@
+@Africaner@|@Afritchain@
+@after-effects@|@l'èrtûnfîn@
+@afternoon@|@l'arlévée@
+@agriculture@|@l'agritchultuthe@
+@ague@|@la fièvre trembliante, les s'tembres@
+@air@|@air@
+@air conditioning@|@la clyînmatisâtion@
+@airport@|@l'aéroport@
+@Alabamian@|@Alabamien@
+@Alaskan@|@Alastchien@
+@Albania@|@Albannie@
+@Albert@|@Albèrt@
+@Alberta@|@Albèrta@
+@Albertan@|@Albèrtain@
+@alcohol@|@l'alcool@
+@alcoholic@|@alcoolique@
+@alcoholism@|@l'alcoolisme@
+@Alder@|@un aune@
+@Alderneyman@|@Aur'gnais@
+@Alexanders@|@d'l'alisandre@
+@Algeria@|@Algérie@
+@alive@|@vif@
+@All Saints@|@la Toussaint@
+@allow@|@allouer@
+@alloy@|@alouai@
+@allspice@|@la toute-êpice@
+@almanac@|@un almonas@
+@aloe@|@d'l'aloé@
+@alongside@|@bord à bord@
+@Alps@|@Alpes@
+@altar@|@l'autel@
+@ambassador@|@l'ambassadeu@
+@ambulance@|@l'ambulance@
+@America@|@Améthique@
+@American Samoa@|@Samoa Améthitchain@
+@Amice@|@Âmice@
+@Âmice@|@Âmice@
+@ammunition@|@la meunition@
+@Amsterdammer@|@Amstèrdanmien, Amstèrdanmouais@
+@Amsterdanian@|@Amstèrdanmien@
+@an abridged grimoire@|@lé p'tit-mêle, lé p'tit Albèrt@
+@an account@|@un compte@
+@an acre@|@eune acre@
+@an answering machine@|@eune machinne à rêpondre@
+@an apronful@|@eune d'vant'lée@
+@an armful@|@eune braichie@
+@an attack@|@eune achie, eune attaque@
+@an auction@|@eune vendue@
+@an auditor@|@un auditeu@
+@an elf@|@un faîté@
+@an exorcist@|@un d'senchorchéleux@
+@an icicle@|@un gliaichon@
+@an inch@|@un pouce@
+@an officer@|@un officyi@
+@an omen@|@un avèrti@
+@an ounce@|@eune onche@
+@an ovenful@|@eune fouânnée@
+@anaemia@|@l'sang d'navet@
+@anaemic@|@anémique@
+@anarchist@|@l'anarchiste@
+@ancestor@|@l'anchêtre@
+@anchor@|@ancrer, l'ancre, mouoilli@
+@anchovy@|@d's anchouais@
+@ancient@|@ancien@
+@ancient times@|@l'ancienneté@
+@Andorra@|@Andorre@
+@Anemones@|@d'la sînmie, l'anémône@
+@angel@|@un ange@
+@angelica@|@lé graslard@
+@angler-fish@|@la raînotte dé mé, lé paîsson à pouchettes@
+@Anglican@|@Anglyican@
+@anglicise@|@anglyiciser@
+@Angola@|@Angola@
+@Anguilla@|@Anguilla@
+@aniseed@|@l'anis@
+@ankle@|@la g'vil'ye@
+@Anne@|@Anne@
+@announcer@|@l'annonceux@
+@annual@|@annuel@
+@Annual Meadow-grass@|@d'l'hèrbe à poules@
+@Annual Mercury@|@d'la têtue@
+@ant@|@lé frémîn, lé freunmion@
+@Antarctica@|@Antarctique@
+@Antartic@|@Antarctique@
+@anthill@|@la freunmionniéthe@
+@anthrax@|@lé tchèrbon@
+@Antigua and Barbuda@|@Antigua et Barbuda@
+@Antilles@|@Antillais@
+@Antwerp@|@Anvèrs@
+@anus@|@lé bas d'sé@
+@anvil@|@enclieunme@
+@anvil block@|@choutchet@
+@ape@|@lé marmoûset@
+@apoplexy@|@l'apoplexie@
+@apostle@|@l'apôtre@
+@apostolic@|@apostolique@
+@apple@|@la pomme@
+@apple brandy@|@l'ieau-d'vie d'cidre@
+@apple for winter storage@|@eune pomme dé garde@
+@Apple tree@|@un pommyi@
+@apple-cake@|@la gache à pommes, la gâche mêlée@
+@apple-sauce@|@lé gelot@
+@applicant@|@l'applyitchant@
+@application@|@eune applyicâtion@
+@apply the brake@|@êtreindre lé chabot@
+@appointment@|@un appointement@
+@approach@|@appraichi@
+@approve@|@approuver@
+@April@|@Avri@
+@April Fool@|@lé paîsson d'Avri@
+@apron@|@lé d'vanté@
+@Aquitaine@|@Atchitaine@
+@Arabia@|@Arabie@
+@Arabian Sea@|@la Mé Arabe@
+@Arabic@|@Arabe@
+@arch@|@l'arche@
+@arch stone@|@les pièrres dé votte@
+@archaeology@|@l'archéologie@
+@archangel@|@un archange@
+@archbishop@|@un archêvêque@
+@architect@|@l'architecte@
+@archstones@|@les pièrres dé votte@
+@Argentina@|@Argentinne@
+@Argentine@|@Argentinne@
+@Argentinian@|@Argentîn@
+@Argentum@|@d'l'argentinne@
+@arithmetic@|@lé caltchul@
+@Arizonan@|@Arizonnien@
+@Arkansan@|@Arkansan@
+@arm@|@lé bras@
+@arm in arm@|@bras d'ssus bras dssous@
+@armament@|@l'armément@
+@armchair@|@la grand'tchaîse@
+@Armenia@|@Arménie@
+@Armenians@|@Arméniens@
+@armistice@|@l'armistie@
+@army@|@l'armée@
+@arrange@|@arrangi@
+@arrears@|@l's arriéthages@
+@arrive@|@arriver@
+@arsenal@|@eune arsénal@
+@arsenic@|@l'arsénîn@
+@art@|@l'art@
+@Arthur@|@Èrthu@
+@article@|@eune articl'ye@
+@artillery@|@l'artill'lie@
+@artist@|@l'artiste@
+@Aruba@|@Aruba@
+@Ascension@|@l'Ascension@
+@Ascension and Tristan da Cunha@|@Ascension et Tristan da Cunha@
+@ash@|@chendre@
+@Ash@|@un frêne@
+@Ash Wednesday@|@Mêcrédi des Chendres@
+@Asia@|@Âsie@
+@ask@|@d'mander@
+@asparagus@|@l'aspèrge@
+@Asparagus@|@d'l'aspèrge@
+@Aspen@|@un trembl'ye@
+@ass@|@lé tchu@
+@assassin@|@l'assâsîn, un assâsîn@
+@assassination@|@l'assâsinâtion@
+@assistant@|@l'assistant@
+@Associations@|@Associâtions@
+@assorted low-grade@|@du litchet, du litchîn@
+@assorted low-grade vraic@|@du litchet, du litchîn@
+@asthma@|@l'asthma, la courte-haleine@
+@astonish@|@êtonner@
+@astronomy@|@l'astronomie@
+@at death's door@|@au pas d'la mort@
+@at war@|@en dgèrre@
+@atchoo!@|@ètcheunme!@
+@atheist@|@l'athée@
+@Athenian@|@Athénien@
+@Atlantic@|@Atlantique@
+@Atlantic Ocean@|@l'Océan Atlantique@
+@atmosphere@|@l'atmosphéthe@
+@attack@|@attatchi@
+@attic@|@la mansarde@
+@attorney@|@lé protchuleux, un protchuleux@
+@aubergine@|@l'aubèrginne@
+@auctioneer@|@l'encanteux@
+@auditor@|@l'auditeu@
+@auger@|@téthiéthe@
+@August@|@Août@
+@aunt@|@la tante@
+@auntie@|@tantinne@
+@Australasia@|@Australâsie@
+@Australia@|@Australie@
+@Australian@|@Australien@
+@Austria@|@Autriche@
+@Austrian@|@Autrichien@
+@Autumn crocus@|@d'l'hèrbe des veuves@
+@awkward person@|@l'achocre@
+@awl@|@alêne@
+@axe@|@hache@
+@axle@|@l'esseu, lé moueu@
+@axle clamps@|@les cappes d'embrâleurs@
+@axle-pin@|@l'euche@
+@Azerbaijan@|@Azerbaidgian@
+@baa-lamb@|@bée@
+@babbler@|@lé fliaûneux@
+@back@|@lé dos@
+@back cross-beam@|@lé tchian dé driéthe@
+@backside@|@lé driéthe@
+@back-up@|@la baqu'thie@
+@bacon@|@lé jambon feunmé@
+@bad@|@mauvais@
+@bad cough@|@la bréhole, la créheule@
+@bad worker@|@lé toûchas@
+@bad workman@|@lé mâcl'ye@
+@badger@|@lé blaireau@
+@bad-tempered woman@|@la chipie@
+@bag@|@pouque@
+@bagpipe@|@la caution, la pouque à vent@
+@Bahamas@|@Bahames@
+@Bahrain@|@Bahrain@
+@bail@|@la caution@
+@Bailiff@|@lé Bailli@
+@bait@|@bète@
+@baker@|@lé boulandgi@
+@bakery@|@boulangu'thie, la boulangu'thie@
+@ball bearing@|@la rouôl'lie à balles@
+@ballan wrasse@|@un pèrlé@
+@ballot@|@lé scrutîn@
+@ballot box@|@l'urne du scrutîn@
+@Balm-leaved Figwort@|@d'l'orvale@
+@balsam@|@la belsaminne@
+@Balsam Poplar@|@lé baûmyi@
+@Baltic Sea@|@la Mé Baltique@
+@balustrade@|@la balustrade@
+@bamboo@|@bambou@
+@Bamboos@|@du ros d'gardîn@
+@banana@|@la banane@
+@band saw@|@scie à riban@
+@bandage@|@lé bandage@
+@bandit@|@un bandit@
+@bangers@|@les cracots@
+@Bangladesh@|@Bangladesh@
+@banister@|@lé balustre@
+@bank@|@banque, la banque@
+@banker@|@lé bantchi@
+@bankrupt@|@en d'sastre@
+@bankruptcy@|@la banqueroute, lé d'sastre@
+@banns@|@l's annonces@
+@bantam@|@eune bannetinne@
+@bantam cock@|@lé bannetîn@
+@bantam hen@|@la bannetinne@
+@Barachois@|@Barachouais@
+@barb (of hook)@|@lé barbet@
+@Barbados@|@Barbados@
+@barbarian@|@lé barbare@
+@barbecue@|@un r'pas à la broche@
+@barber@|@lé barbi, un barbyi@
+@barber shop@|@eune barbel'lie@
+@Barberry@|@d'l'èpinne-vinnette@
+@bargain@|@bardgîn@
+@bark@|@l'êcorche, la p'liche dé bouais, ouasser@
+@barley water@|@l'ieau d'orge@
+@barn@|@la grange@
+@barn owl@|@un blianc cahouain@
+@Barnaby@|@Bèrnabé@
+@baron@|@lé bâron@
+@baroness@|@la bâronne@
+@barracks@|@berrèxes, les berrèxes@
+@barrel@|@bathi@
+@Barren Brome@|@d'la droe@
+@barrier@|@lé bârrage@
+@barrister@|@l'avocat, l'homme d'affaithes@
+@basin@|@bachîn, dgichon@
+@basket@|@bostchot@
+@Basque@|@Bastchais@
+@Basque Country@|@Pays Bastchais@
+@bass@|@la bâsse, un bar@
+@bassoon@|@un basson@
+@bastard@|@l'êfant d'galiotage, lé bâtard, lé bâtard, lé bâtard, lé couotron, lé couotron@
+@batallion@|@lé bataillon@
+@Batchelor's Buttons@|@des bliuettes, des boutons d'or@
+@bathroom@|@la salle dé bain@
+@batter@|@la farce@
+@battering ram@|@un mouton@
+@battery@|@la bat'tie@
+@battle@|@la batâle@
+@Battle of Hastings@|@la Batâle dé Hastings@
+@Battle of Jersey@|@la Batâle dé Jèrri@
+@bawl@|@brailli@
+@bawler@|@lé criailleux@
+@bay@|@la baie, lé louothyi@
+@Bay Stater (Massachusetts)@|@Massachusetchais, Massachusetchi, Massachusetchien@
+@bayonet@|@eune baïonnette@
+@be@|@être@
+@be again@|@èrêt'@
+@be on the verge of throwing up@|@aver lé tchoeu près des lèvres@
+@be worth@|@valer@
+@beach@|@la grève@
+@beam@|@lé run@
+@beam-ends@|@les cônettes@
+@bean@|@lé haricot@
+@bean crock@|@les pais au fou@
+@bear@|@l'ours@
+@beard@|@eune barbe, la barbe@
+@bearded@|@barbu@
+@beating@|@eune dêgraîsseuse, eune èrlîntcheuse, eune ronde@
+@beating (1)@|@eune sécouée, eune stipanne, eune suée@
+@beating (2)@|@eune latteuse@
+@beautiful@|@bieau@
+@beauty@|@bieauté@
+@beaver@|@lé castor@
+@bed@|@lé liet@
+@bed bug@|@la bog'se@
+@beddy-byes@|@dodo, lôlô@
+@bedridden@|@au pliâtre, grabataithe, sus l'cârré@
+@bedroom@|@la chambre@
+@bedsheets@|@les lîncheurs@
+@bedstead@|@lé bouais d'liet@
+@Beech@|@un fau@
+@beef@|@dé vaque, la viande dé boeu@
+@beer@|@la biéthe@
+@beetroot@|@la betterave@
+@beggar@|@lé bédgeux, lé pouqu'teux@
+@begin@|@c'menchi@
+@beginner@|@lé c'menchant@
+@Beijingese@|@Beijingouais@
+@Bel Royal@|@lé Bel Rouoya@
+@Belarus@|@Bêlarus@
+@Belgian@|@Belge@
+@Belgium@|@Belgique@
+@Belgrader@|@Belgradgais, Belgradgien@
+@belief@|@la crianche@
+@believe@|@craithe@
+@believer@|@lé croyant@
+@Belize@|@Bélize@
+@bell@|@la clioche@
+@Bell Heather@|@d'la brüethe@
+@bellows@|@soûffliets@
+@bellringer@|@lé sonneux@
+@belly of shafts@|@lé ventre des limons@
+@belt@|@la cheintuthe@
+@Belt of Orion@|@les Trais Rouais@
+@belting@|@eune slîndgeûse@
+@bench@|@banc, un banc@
+@benches@|@les bancs@
+@benefactor@|@lé beinfaiteur@
+@beneficiary@|@l'ayant-drouait@
+@Benin@|@Benin@
+@Benjamin@|@Benjamîn@
+@Berliner@|@Berlinais@
+@Bermuda@|@Bermude@
+@Best wishes@|@Auve les miyeurs souhaits@
+@bet@|@gagi@
+@betting@|@la gag'gie@
+@bevel square@|@fausse êtchèrre@
+@Bhutan@|@Bhutan@
+@bib@|@la bav'thette@
+@Bible@|@la Bibl'ye@
+@bicarbonate@|@bicarbonate, lé bicarbonate@
+@bicycle@|@eune bike@
+@bidet@|@lé bidet@
+@biff@|@un ouappe@
+@big@|@grand@
+@bigwigs@|@les grôsses têtes@
+@bike@|@bike@
+@bike rack@|@lé par à bikes, par à bikes@
+@bikini@|@lé bikini@
+@Bilbao@|@Bilbô@
+@bilge-channel@|@l'oursas@
+@bilge-water@|@l'ieau d'câle@
+@bill@|@des piègnes@
+@billhook@|@la sèrpe, sèrpe@
+@bill-poster@|@lé cliuteux d'affiches@
+@billy-goat@|@lé bichot@
+@binder (of straw)@|@la fagot'rêsse@
+@Bindweed@|@des veîl'yes@
+@binoculars@|@les longues-veues@
+@birch@|@les vèrgues, un patchet d'vèrgues@
+@bird@|@un ouaîsé@
+@birdie@|@loûseau@
+@birds@|@ouaîselîn@
+@birth certificate@|@lé bâptistaithe@
+@biscuit@|@la galette@
+@bishop@|@l'êvêque@
+@bison@|@la bison@
+@bit@|@lé mors@
+@Biting Stonecrop@|@du jaune pain à crapauds, pèrche-pierre@
+@Biting Stonecrop (1)@|@corînthe à poules, hèrbe ès tuilles@
+@bitter@|@amé@
+@Bittersweet@|@d'l'amièrdoux (m), du mèrdou, la douoche-améthe@
+@black@|@nièr@
+@black beetle@|@lé potithon@
+@Black Bindweed@|@du pèrsicarré@
+@black cat@|@un nièr cat@
+@black clouds@|@des nièrs nouages@
+@Black Currant@|@des gradiles@
+@black dog of death@|@lé tchico@
+@black eye@|@un yi pochi@
+@Black Forest@|@La Néthe Forêt@
+@black hair@|@des nièrs quéveux@
+@Black Horehound@|@du meuthe-en-c'mîn@
+@black ice@|@lé verglias, lé verglias@
+@Black Medick@|@du trêfl'ye à moutons@
+@Black Nightshade@|@du vèrjus au dgiâbl'ye@
+@Black Sea@|@la Néthe Mé@
+@Black Spleenwort@|@du ou d'la capillaithe@
+@black winkle@|@eune néthe coque@
+@Blackberry@|@des mouaithes, eune ronche@
+@blackbird@|@un mêle@
+@blackbird (female)@|@eune mêlerêsse@
+@blackbird (male)@|@un mêle@
+@blackboard@|@eune néthe plianche@
+@blackcap@|@lé marté, un craquelîn@
+@blackcurrant@|@gradile@
+@blackguard@|@lé blégèrde@
+@black-headed gull@|@la maûvette@
+@blacksmith@|@lé forgeux@
+@Blackthorn@|@d'la néthe êpîngne, eune preunelle, la néthe êpîngne, lé preunellyi@
+@bladder@|@la vessie@
+@bladderwrack@|@du vrai à cliouques@
+@blessing@|@la bénédiction@
+@blind@|@abat-jour, aveugl'ye@
+@blind worm@|@l'orvet@
+@blinking@|@la clyinn'téthie@
+@blister@|@la boursoufliuthe, la vessie@
+@blond@|@bliond@
+@blood@|@lé sang@
+@blood pressure@|@l'sang porté à la tête@
+@bloodclot@|@des caillots@
+@bloodshot eyes@|@les yièrs couis@
+@blow@|@eune haïste, un co, un coup@
+@blue@|@bliu@
+@Blue Fleabane@|@d'l'hèrbe à puches@
+@blue tit@|@eune bliûtinne@
+@Bluebell@|@des bliuets, des bliuettes, des clioches dé Carême@
+@Bluebell (1)@|@la becque-dé-corbîn@
+@bluebottle@|@la moûque à vèrs@
+@bluetit@|@lé p'tit moussieu@
+@blunt@|@tron@
+@boar@|@lé véthot@
+@boarding school@|@lé pensionnat@
+@boaster@|@lé cratcheux@
+@boat@|@un baté@
+@boat-hook@|@lé bouête-hook@
+@boatswain@|@baûsouîn@
+@bodger@|@lé boûtcheux@
+@body hair@|@du pé@
+@Bog Pondweed@|@du vrai d'vivi@
+@Bogbean@|@du trêfl'ye dg'ieau@
+@bogey@|@barbou@
+@boil@|@bouoilli, un frouët@
+@boiled egg@|@un oeu bouoilli@
+@boiler@|@lé tchaûdron@
+@boiler (Jersey cooking)@|@la chaûdgiéthe@
+@Bolivia@|@Bolivie@
+@bollard@|@la lache@
+@bolt@|@êcrou, lé touothot@
+@bolt-rope@|@la râlîngue@
+@bolt-ropes@|@les râlîngues@
+@bomb@|@eune bombe@
+@bombardment@|@lé bombardement@
+@Bon appetit@|@Bouan appétit!@
+@Bon voyage@|@Bouan viage!@
+@Bonaventure@|@Bouann'aventuthe@
+@bone@|@l'os@
+@bone marrow@|@la moelle d'un os@
+@bonfire@|@eune fouée, un feu d'jouaie@
+@Bonfire Night@|@la Séthée d'Guy Fawkes@
+@bonnet@|@lé bannète@
+@booby trap@|@un attrape-nigaud@
+@bookcase@|@la bibliothèque@
+@bookmark@|@lé mèrtcheux@
+@books of magic@|@les livres d'magique, les mauvais livres@
+@bookshop@|@la librairie, librairie@
+@boom@|@la bôme@
+@boot@|@la botte@
+@boozer@|@lé riboteux, un riboteux@
+@Borage@|@du bouôrrage@
+@border@|@eune bordeuse@
+@bore@|@l'embête@
+@Boreau's Ramping-fumitory@|@d'la finnetèrre@
+@borer@|@pèrcheux@
+@boring@|@enn'yant@
+@borrower@|@l'emprunteux@
+@Bosnia@|@Bosnie@
+@Bosnia and Herzegovina@|@Bosnie et Herzegovina@
+@bot-fly@|@lé bourdon à j'va@
+@Botswana@|@Botswana@
+@bottle@|@eune boutelle@
+@bottleful@|@eune boutillie@
+@bottling@|@l'emboutil'lie@
+@boulder@|@lé pèrron@
+@boundary stone@|@la borne@
+@Bouvet Island@|@Île Bouvet@
+@bow@|@eune bliouque, l'avant, la bliouque@
+@bow tie@|@l'noeud papillote@
+@bowl@|@l'êtchuelle, la bolle, lé dgichon@
+@bowler-hat@|@lé d'mié-bas@
+@bowline knot@|@un noeud d'bôlinne@
+@bow-wow@|@ba-ouîn, ouo-ouo, tchiannot@
+@box@|@du bouisque@
+@box on the ears@|@un houaithion@
+@boxcart@|@lé hèrnais à bannieaux@
+@boxer shorts@|@les boxeurs@
+@boy@|@garçon, hardé@
+@boyfriend@|@lé galant, un galant@
+@bra@|@la brâssiéthe@
+@brace@|@courbe, tathouette@
+@bracelet@|@lé brâcelet@
+@braces@|@les guélesses@
+@Bracken@|@d'la feûgiéthe@
+@bradawl@|@brédâle@
+@braggart@|@lé vantard@
+@bragger@|@braidgeux@
+@brails@|@les cargues@
+@brain@|@lé chèrvé@
+@brake@|@lé chabot@
+@brake cable@|@un câbl'ye dé chabot@
+@brake lever@|@un lévyi d'chabot@
+@bramble@|@la ronche@
+@brambling@|@lé pînchon d'France@
+@branch@|@eune branque@
+@branchage@|@lé brancage@
+@branding iron@|@êtampe@
+@brass@|@jaune tchuivre, pâlîn@
+@brass ring@|@l'âtelle en jaune tchuivre@
+@brat@|@lé marmot@
+@Bratislavan@|@Bratislavien@
+@brave@|@couothageux@
+@brawl@|@du câtu@
+@Brazil@|@Brési@
+@bread@|@lé pain@
+@bread dough@|@la pâte lévée@
+@break@|@d'pichi, rompre@
+@breakers@|@les grand's louêmes@
+@breakfast@|@dêjeuner@
+@breakwater@|@la caûchie@
+@bream@|@bream@
+@breasts@|@les seins@
+@brent goose@|@eune bânêque, eune bênacl'ye@
+@Breton@|@Bréton@
+@brew@|@brachi@
+@brewer@|@lé bracheux@
+@brewery@|@la brach'chie@
+@brick@|@brique, la brique@
+@bride@|@la mathiée@
+@bridegroom@|@lé mathié@
+@bride's veil@|@lé vouaile d'eune mathiée@
+@bridesmaid@|@la fil'ye d'honneu@
+@bridge@|@lé pont@
+@bridle@|@lé bridot@
+@brig@|@la brigue@
+@Bright's disease@|@la maladie d'rîngnons@
+@brill@|@eune brille@
+@brine@|@sautchet@
+@bring@|@emm'ner@
+@bring into the roads@|@haler en rade@
+@brisket@|@lé brueûtchet@
+@Bristol@|@Bristo@
+@Bristolian@|@Bristolien@
+@British Colombian@|@Britanno-Colombien@
+@British Columbia@|@Colombie Britannique@
+@British Virgin Islands@|@Îles Vièrges Britanniques@
+@Brittany@|@Brétangne@
+@broad in the beam@|@large d'bord, large d'run@
+@Broad-leaved Dock@|@des doques (f), des patheilles@
+@broccoli@|@lé brécolîn@
+@bronze@|@bronze@
+@bronze age@|@l'âge dé bronze@
+@brook@|@lé dou@
+@Brooklime@|@d'la bêle, du louothigan@
+@broom@|@brînge, du genêt, la brînge@
+@Broom@|@du genêt@
+@broth@|@lé bouoillon@
+@brother@|@lé fréthe@
+@brother-in-law@|@lé bieau-fréthe@
+@brow@|@brun@
+@brown paper@|@lé gris papi@
+@brown sugar@|@lé jaune chucre@
+@bruise@|@eune êcouocheuse, eune meurdrisseûthe, meurdri@
+@bruiser@|@un freûleux@
+@Brunei Darussalam@|@Brunei Darussalam@
+@brunette@|@breunette@
+@brush@|@brînge, eune brînge à main, la brînge à main@
+@brush (1)@|@lé pîncieau@
+@brushwood@|@brousses@
+@Brussels@|@Bruxelles@
+@Brussels sprouts@|@les chours d'Bruxelles@
+@bucket@|@boutchet, lé boutchet, un boutchet@
+@buckle@|@la bliouque@
+@buckles@|@les bliouques@
+@Buck's-horn Plantain@|@d'la cône dé chèr@
+@Buckwheat@|@du sarrasîn@
+@bud@|@un bourgeon@
+@Buenos Aires@|@Bouonézâr@
+@bug@|@bog'se, eune bog'se@
+@buggy@|@la tchéthiole@
+@Bugloss@|@d'la p'tite g'linne@
+@build@|@bâti@
+@builder@|@lé bâtisseux@
+@building@|@bâtisse, l'înmeubl'ye, lé bâtisse, lé bâtisse@
+@bulb@|@lé lampion êlectrique@
+@Bulbous Buttercup@|@du pipot@
+@Bulgaria@|@Bulgarie@
+@Bulgarian@|@Bulgarien@
+@bull@|@lé boeu, lé touathé@
+@bull-calf@|@lé bouët@
+@bullet@|@eune balle@
+@bullfinch@|@un bouv'reu, un bouv'theu@
+@bullock@|@lé boeu@
+@bully@|@lé bruta@
+@bulwark@|@lé boulevard@
+@bumblebee@|@la bourde, lé bourdon@
+@bumf@|@la paperache@
+@bump@|@heurter@
+@bun@|@ban'se, la ban'se, lé chîngnon, un chîngnon@
+@bundle of hay@|@lé fagot d'fain@
+@bungler@|@lé boucranneux@
+@bunk@|@lé liet d'pathai@
+@buoy@|@la boule, lé bondé@
+@Burgundian@|@Bouôrdgîngnon@
+@Burgundy@|@Bourgouongne@
+@burial@|@eune entèrrement@
+@Burkina Faso@|@Burkina Faso@
+@burn@|@brûler, la brûleuse@
+@Burnet Rose@|@d'la rose à sablion, la rose dé mielle@
+@burrowing bee@|@un bourdon d'tèrre@
+@Burundi@|@Burundi@
+@bus@|@beusse, eune beusse@
+@bus shelter@|@abri d'beusse, l'abri d'beusse@
+@bus station@|@la stâtion d'beusse, stâtion d'beusse@
+@bus stop@|@arrêt d'beusse, l'arrêt d'beusse@
+@bushel@|@un bouessé@
+@busking@|@la beusquéthie@
+@busybody@|@lé tout-s'mêle@
+@butcher@|@lé bouochi@
+@butcher's@|@bouochel'lie, la bouochel'lie@
+@Butcher's-broom@|@du frêgon, du p'tit housse@
+@butter@|@lé beurre@
+@butter churn@|@la bathette, lé ribot@
+@butter dish@|@lé beurryi@
+@butter paper@|@lé papi à beurre@
+@butter pat@|@la palette à beurre, palette à beurre@
+@butter spoon@|@la tchulyi à beurre@
+@buttered@|@embeurré@
+@butterfish@|@la douoche, la tchilieuvre dé mé@
+@butterfly@|@la papillote@
+@butterfly-bush@|@du myi d'Jâcob@
+@buttermilk@|@lé lait d'beurre@
+@buttock@|@la fêsse@
+@button@|@lé bouton, un bouton@
+@button-hole@|@la boutonniéthe@
+@buy@|@acater@
+@buyer@|@l'acateux@
+@buzz@|@bourdonner@
+@buzzard@|@eune outarde@
+@bye@|@tôt@
+@cabbage@|@la caboche@
+@cabin@|@la cabanne@
+@cabin-boy@|@lé mousse@
+@cabinetmaker@|@lé mênuîsyi@
+@cable@|@lé câbl'ye@
+@cactus@|@du cactus@
+@Caen@|@Caën@
+@café@|@café@
+@Cairo@|@Lé Caire@
+@cake@|@la gâche@
+@calceolaria@|@du chabot@
+@calculate@|@caltchuler@
+@calculator@|@lé caltchuleux, un caltchuleux@
+@calendar@|@l'almonnas, lé calendriyi, un calendriyi@
+@calf@|@lé pommet, lé vieau, lé vieau@
+@calfskin@|@vêlîn@
+@calico@|@calicot@
+@California@|@Califournie@
+@California poppy@|@la tulipe pèrpétuelle@
+@Californian@|@Califournien@
+@call@|@houâler@
+@calvados@|@l'ieau-d'vie d'cidre@
+@Cambodia@|@Cambodge, Cambodia@
+@camel@|@lé chanmeau@
+@camera@|@lé caméra, lé quéméreu@
+@camera crew@|@eune êtchipe dé quéméreu@
+@cameraman@|@lé vidéoiste@
+@Cameroon@|@Cameroun@
+@camomile@|@la canmiéthe@
+@Camomile@|@d'la canmiéthe@
+@can@|@canne, pouver@
+@can I have....@|@j'peurs-t-i' aver....@
+@Canada@|@Cannada@
+@Canadian@|@Cannadgien@
+@canal@|@lé canal@
+@Canaries@|@Les Canâries@
+@canary@|@un canârien@
+@Canary-grass@|@d'la canârie@
+@cancer@|@lé cancèr, un mauvais ma@
+@candidate@|@lé candidat@
+@candidature@|@la candidatuthe@
+@candlestick@|@lé changlyi@
+@cane@|@eune vèrgue, la tchêne, la vèrdgette@
+@cane (1)@|@eune houssinne@
+@caning@|@eune frandgie@
+@cannabis@|@cannabis, lé cannabis@
+@cannibal@|@lé cannibale@
+@cannon@|@lé canon@
+@cannonball@|@eune balle dé canon, un boulet dé canon@
+@Canterbury@|@Cantorbéry@
+@Canterbury bells@|@des clioches, rose dé papi@
+@Cantonese@|@Cantonnais@
+@canvas@|@cannevas@
+@cap@|@la castchette@
+@Cape Breton@|@Cap Bréton@
+@Cape Town@|@Lé Cap@
+@Cape Verde@|@Vèrt Cap@
+@Caper Spurge@|@d'l'hèrbe d'chorchi@
+@caplin@|@un capelain@
+@capon@|@lé chapon@
+@capstan@|@lé capeste, lé vitheveau@
+@captain@|@lé cap'taine, lé cap'tainne@
+@car@|@eune vaituthe, lé moto, vaituthe@
+@car park@|@lé par à vaituthes, par à motos@
+@caravan@|@la caravanne@
+@caraway@|@lé carawé@
+@caraway-cake@|@la sî-tchête@
+@card table@|@la tabl'ye à cartes@
+@cardboard@|@carton@
+@Cardiffian@|@Cardiffais@
+@cardigan@|@lé blianchet@
+@Cardinal@|@lé Cardinna@
+@carefree person@|@lé sans-souci@
+@carer@|@lé souongneux@
+@Caribbean@|@Antillais, Caribbéen@
+@Carnations@|@des êliets (m), des iliets (m)@
+@carp@|@eune carpe, la carpe@
+@carpenter@|@un tchèrpentchi@
+@carpet@|@lé tapis@
+@carpet-piece@|@la tap'tchiéthe@
+@carriage@|@eune att'leuse@
+@carrot@|@la cârotte@
+@carry@|@porter@
+@cart@|@hèrnais, la tchithette@
+@cart body@|@lé corps dé hèrnais@
+@cart shed@|@la tchèrquéthie@
+@cart sword@|@lé sâbre@
+@Carteret@|@Cart'ret@
+@carton of milk@|@un carton d'lait@
+@cartridge pouch@|@eune cartouchiéthe@
+@carving knife@|@couté à viande, lé couté à viande@
+@carving-knife@|@lé couté à viande@
+@case@|@eune cause@
+@cash@|@argent comptant@
+@cash machine@|@argent comptant, la machinne à sou, machinne à sou@
+@cassette@|@la cassette@
+@caster sugar@|@lé chucre en poudre@
+@castle@|@lé châté, un châté@
+@cat@|@cat, la catte, un cat@
+@Catalan@|@Catalan@
+@Catalonia@|@Catalongne@
+@catamaran@|@lé catamaran@
+@catch@|@happer@
+@catch (of fish)@|@eune pêque@
+@catch fish@|@prendre du paîsson@
+@catechism@|@l'Caticème@
+@caterpillar@|@la carpéleuse@
+@cat-flap@|@la catchiéthe@
+@cathedral@|@la cathédrale@
+@Catherine@|@Cat'let, Cat'linne, Cath'rinne@
+@Catholic@|@catholique@
+@catkins@|@des catons@
+@cat's tail@|@des lêques@
+@cattle@|@lé bestchias, les bêtes à cornes@
+@cattle-breeder@|@l'êleveux@
+@cattle-farm@|@la fèrme à bêtes@
+@cauliflower@|@lé chou-flieur@
+@causeway@|@lé tailli@
+@cave@|@la cave, la cotte@
+@Cayenne pepper@|@lé paîvre d'Cayenne@
+@Cayman Islands@|@Îles dé Cayman@
+@CD-R@|@un disque enr'gistrabl'ye@
+@CD-RW@|@un disque èrenr'gistrabl'ye@
+@Cedar@|@un cèdre@
+@celeriac@|@lé célériac@
+@celery@|@lé céléri@
+@cell@|@un cachot@
+@cellar@|@la cave, lé ch'lyi@
+@cello@|@la bâsse dé viole@
+@cement@|@lé chînment@
+@cemetery@|@lé chînm'tchiéthe@
+@centenary@|@un chenténaithe@
+@Centenier@|@lé Chent'nyi, un Chentn'yi@
+@centipede@|@la bête à chent pids@
+@Central African Republic@|@République Centrafritchaine@
+@central heating@|@lé caûffage central@
+@century@|@un siècl'ye@
+@ceremony@|@eune cérémonie@
+@Chad@|@Tchad@
+@chaffinch@|@un pînchon, un rossîngno@
+@chain@|@la chaîne@
+@chain saw@|@scie à chaîne, troncheux@
+@chains hooked to horse collar@|@les avanchons@
+@chair@|@tchaîse, tchaîse@
+@chalice@|@la coupe@
+@chalk@|@la craie@
+@chamfer plane@|@rabot à chaûfrein@
+@Champagne@|@Champangne, lé champangne@
+@chancre@|@verruca@
+@change@|@changi, lé change@
+@change course@|@touônner, vither d'bord@
+@Changing Forget-me-not@|@dé l'ouothelle dé souothis@
+@channel@|@lé ch'na@
+@Channel Islanders@|@l's Îlemans@
+@Channel la Manche@|@Lé Ch'na@
+@chap@|@du halître, lé gas@
+@chapel@|@la chapelle@
+@chaplain@|@l'aumônyi@
+@charabanc@|@lé char à bancs@
+@charcoal@|@tchèrbon d'bouais@
+@Charleroi@|@Tchèrlerouai@
+@Charles@|@Charles, Charlot, Tchèrli@
+@Charlock@|@du bréha@
+@chasing in stone@|@la panne@
+@chats (potatoes)@|@les radigotes@
+@chatterbox@|@lé badlagoule, lé bailleux d'goule, lé caqu'teux@
+@chaûdé@|@lé chaûdé@
+@cheap@|@bouôn marchi@
+@cheek@|@la joue@
+@cheep@|@piauler, tuiter@
+@Cheers@|@Bouonne santé!@
+@cheers!@|@santé!@
+@cheese@|@lé fronmage@
+@chemist@|@apotiqu'sie, l'apotiqu'sie, l'apotitchi@
+@cheque@|@eune chèque@
+@cherry@|@lé tchoeur@
+@Cherry Laurel@|@du louothi d'Espangne@
+@Cherry tree@|@un tchoeuryi@
+@Cherry tree (for wood)@|@un mérîsyi@
+@Cherry tree (short stemmed)@|@un chérîsyi@
+@chervil@|@lé chèrfi@
+@chest@|@l'estonma, lé baheur, lé côffre@
+@chest of drawers@|@la tithette@
+@Chestnut@|@un mârronyi@
+@chicken@|@cocotte, lé poulet, lé pouochîn, un pouochin@
+@chicken pox@|@la vétheule volante@
+@chicken-run@|@lé run à pouochîns@
+@chicory@|@la chicorée@
+@Chicory@|@d'la chicôrée sauvage@
+@chief@|@lé chef@
+@chief mourner@|@lé chef dé deu@
+@chiffchaff@|@un tchitte-tes-clius@
+@chilblain@|@la fraideuse@
+@child@|@l'avé, l'êfant, lé mousse@
+@Chile@|@Chile@
+@chill@|@lé saisissement@
+@chimney@|@eune cheunm'née, la cheunm'née@
+@chimney sweep@|@lé ramonneux@
+@chin@|@lé moton@
+@china@|@porcélaine@
+@China@|@Chinne, la vaisselle dé porcélaine@
+@chine@|@l'êtchinnée (d'lard)@
+@Chinese@|@Chinnouais@
+@chip axe@|@tîle à tchèrpentchi@
+@chips@|@les frites@
+@chives@|@les chives@
+@chloroform@|@chloroforme@
+@chocks@|@les choques@
+@chocolate@|@lé chocolat@
+@choir@|@lé tchoeu@
+@cholera@|@choléra@
+@choose@|@chouaîsi@
+@chop@|@la côtelette@
+@chops@|@des bajoues@
+@chorus@|@l'èrfrain@
+@chough@|@la caûvette@
+@Christ@|@lé Christ@
+@christening@|@lé bâptême@
+@Christian@|@chrêtchien@
+@Christianity@|@la chrêtchienneté@
+@Christmas@|@Noué@
+@Christmas card@|@eune carte d'Noué, la carte dé Noué@
+@Christmas carol@|@lé cantique d'Noué, un cantique d'Noué@
+@Christmas cracker@|@un dgiâbliotîn@
+@Christmas Eve@|@la sèrvelle d'Noué, la Sèrvelle dé Noué@
+@Christmas festival@|@la Fête dé Noué@
+@Christmas Island@|@Île dé Noué@
+@Christmas present@|@un présent d'Noué@
+@Christmas pudding@|@lé podîn d'Noué@
+@Christmas stocking@|@la cauche dé Noué@
+@Christmas tree@|@un arbre d'Noué@
+@chronic@|@chronique@
+@chronicle@|@eune chronique@
+@chrysanthemum@|@chrysanthème, gérémienne d'hivé@
+@chuck@|@cocotte@
+@chunk of bread@|@lé betchet, lé couêpîn, lé crôtîn, lé crôton@
+@chunk of bread (1)@|@lé gobîn@
+@church@|@êglyise, l'êglyise@
+@churchwarden@|@lé seurvillant d'l'Êglyise@
+@cider@|@lé cidre@
+@cider apple@|@eune pomme à cidre@
+@cider crusher@|@lé tou d'preinseu@
+@cider dray@|@lé hèrnais à cidre@
+@cider must@|@du nouvieau cidre@
+@cider press@|@lé preinseu@
+@cinema@|@cinnéma@
+@cinnamon@|@la cannelle@
+@circumference@|@la circonféthence@
+@cirrus@|@d'la crîngnache@
+@citizen@|@lé citouoyen@
+@civil servant@|@lé fonctionnaithe@
+@Civil War@|@la Dgèrre Civile@
+@clamp@|@crampe@
+@claret@|@lé Bordgieaux, lé clairète@
+@clarinet@|@la clairinnette@
+@clasps@|@les clianques@
+@class@|@la clâsse@
+@clatter@|@clyîncailli@
+@claw@|@grimmer@
+@claw hammer@|@marté à pattes@
+@clay@|@glyîse@
+@clean@|@netti, propre@
+@clean again@|@èrnettit@
+@cleaner@|@lé nettisseux, un nettisseux@
+@cleaning@|@la nettithie@
+@clear@|@clièrgi@
+@clear one's throat@|@râqu'ter@
+@cleat@|@un tatchet@
+@cleaver@|@hachot, un hachot@
+@cleavers@|@des prannants@
+@Clement@|@Cliément@
+@clergyman@|@lé minnistre@
+@clerk@|@clèrcot, lé clèrc@
+@cliff@|@la falaise@
+@cliff-climber@|@lé falaîsyi@
+@climb@|@grîmper@
+@clink (glasses)@|@trîntchi@
+@clioutchi@|@clioutchi@
+@cloak@|@lé cliôque, lé manté@
+@clock@|@eune hôlouge, l'hôlouoge@
+@clockmaker@|@l'hôlouogi@
+@clog@|@lé chabot@
+@close@|@freunmer@
+@close-cropped@|@touôsé coumme, un sorti d'prison@
+@closed@|@freunmé@
+@cloth (tea)@|@l'êssuie-tâsses@
+@clothes@|@les habits, les hardes@
+@clothes line@|@eune corde à lînge, la corde à lînge@
+@clothes line prop@|@eune êtendpèrque@
+@clothes peg@|@eune êpile à lînge, l'êpîle à Iînge@
+@clothes shop@|@la boutique d'habilements@
+@cloud@|@un nouage@
+@cloud (cover)@|@des nues@
+@cloudy@|@nouageux@
+@clout@|@chatourne, slîndgi, un pataöuarre@
+@clout (dé "sling")@|@slîndgi@
+@clove@|@lé cliou d'giroufl'ye@
+@clove of garlic@|@eune gousse d'ail, la gousse d'ail@
+@clown@|@lé bouffon@
+@club@|@clobe@
+@clubs@|@du trêfl'ye@
+@cluck@|@clioutchi, couarder, crocheter, queûqu'ter@
+@coach@|@lé cârrosse@
+@coal@|@lé tchèrbon, tchèrbon@
+@coal cellar@|@lé creux à tchèrbon@
+@coal scuttle@|@la boête à tchèrbon@
+@coal shovel@|@palette à tchèrbon@
+@coalfish@|@un colîn@
+@coalman@|@lé tchèrbonnyi@
+@coal-tongs@|@pînchettes à tchèrbon@
+@coast@|@la côte@
+@coastguard@|@lé garde-côte, un garde-côte@
+@coat@|@la câsaque@
+@coathanger@|@un porte-habits@
+@cobbler@|@lé chav'tchi, lé cordonnyi@
+@cobweb@|@l'ithangnie@
+@cock@|@lé co@
+@cock-a-doodle-doo@|@cocolîncheux@
+@cock-a-doodle-doo !@|@cocolîncheux, coquelicot!@
+@cockchafer@|@lé hanneton@
+@cockerel@|@cocolîncheux, un co@
+@cockerel (young)@|@un cotchet@
+@cockle@|@eune chuchette@
+@cockroach@|@lé potithon@
+@Cock's-foot@|@du pid-d'co@
+@Cockspur@|@d'l'hèrbe à pithot, d'la canârie@
+@coconut@|@la cocannette@
+@Cocos Islands@|@Îles Cocos@
+@cod@|@eune mouothue@
+@coffee@|@lé café@
+@coffee-bean@|@la grainelle dé café@
+@coffee-pot@|@la caf'tchiéthe@
+@coffin@|@l'côffre@
+@cog of hub@|@la boête du moueu@
+@cognac@|@lé couongnac, lé martel@
+@colander@|@coul'rêsse, la coul'rêsse@
+@cold@|@fraid, lé fraid@
+@cold chisel@|@chîsé à fraid@
+@cold sore@|@lé feu sauvage@
+@Cold War@|@la Fraide Dgèrre@
+@cold water tap@|@lé coq à ieau fraide@
+@colic@|@les tranchies@
+@collaborator@|@lé collaborateur@
+@collar@|@lé collet@
+@colleague@|@lé collègue@
+@collect@|@la collecte@
+@collector@|@lé collecteux@
+@college@|@lé collège@
+@college boy@|@lé collégien@
+@Colombia@|@Colombie@
+@colonel@|@lé coronel@
+@Coloradan@|@Coloradgien@
+@colorado beetle@|@lé doryphore@
+@colour-bearer@|@lé porte-enseigne@
+@Columbine@|@d'la colombinne, des vièrs garçons@
+@column@|@la colonne@
+@comb@|@lé dêmêle, lé dêmêleux, lé piègne, un dêmêleux@
+@combat@|@lé combat@
+@combatant@|@lé combattant@
+@come@|@v'nîn@
+@come back@|@èrvénîn@
+@comedian@|@lé conmédien@
+@comet@|@la conmète@
+@coming of age@|@l'enâgement@
+@commanding officer@|@lé commandant@
+@committee@|@lé conmité@
+@Common Amaranth@|@du chuchot@
+@Common Bird's-foot-trefoil@|@des p'tits chabots@
+@Common Centaury@|@d'l'hèrbe d'St Martin, d'la centaurée@
+@Common Chickweed@|@du meurdron@
+@common cockle@|@eune bobbe, eune chuchette@
+@Common Cornsalad@|@d'la bourse@
+@Common Couch@|@du bas@
+@common dab@|@un cat@
+@Common Dog-violet@|@du coucou@
+@Common Duckweed@|@d'l'hèrbe d'pithot@
+@common guillemot@|@eune gaude@
+@Common Knapweed@|@d'la bourdonniéthe@
+@common lavender@|@d'la lavande@
+@Common Mallow@|@d'la p'tite mauve@
+@Common Mouse-ear@|@dé l'ouothelle dé souothis@
+@Common or round-headed Poppy@|@des roses à tchian@
+@Common Ragwort@|@d's entaillies (f), lé gros s'nichon@
+@Common Reed@|@du ros@
+@Common Restharrow@|@du ricolisse en bouais@
+@Common Sorrel@|@d'la grand' suthelle@
+@Common Stork's-bill@|@des piègnes@
+@communion@|@la communion@
+@communist@|@lé commeuniste@
+@Comoros@|@Comores@
+@companion-ladder@|@lé compangnon@
+@compare@|@compather@
+@compass@|@compas, lé compas@
+@compass saw@|@pâsse-partout@
+@competitor@|@lé compétiteu@
+@complaint@|@eune pliainte@
+@computer@|@l'ordinnateu, lé compiuteu@
+@computer game@|@eune gamme dé compiuteu@
+@computer programmer@|@lé programmeux d'compiuteu@
+@comrade@|@lé canmathade@
+@con@|@l'aveugliément, l'aveugliéthie@
+@concern@|@concèrner@
+@concrete@|@chiment@
+@condom@|@eune capote@
+@conductor@|@lé chef dé musique@
+@confessional@|@lé confêssionna@
+@configuration@|@la confidguthâtion@
+@confirmation@|@la confirmâtion@
+@conger-eel@|@eune andgulle@
+@Congo@|@Congo@
+@congregation@|@eune congrégâtion@
+@conman@|@conman, un chicangneux@
+@connected@|@brantchi@
+@Connecticuter@|@Connecticutchi@
+@conqueror@|@lé contchérant@
+@conservative@|@lé consèrvateu@
+@consider@|@considéther@
+@conspiracy@|@un compliot@
+@conspirator@|@un complioteux@
+@Constable@|@lé Connêtabl'ye@
+@Constable's Officer@|@l'Offici d'Connêtabl'ye@
+@constellation@|@eune constellâtion@
+@constipation@|@la constipâtion@
+@constitution@|@la Constitution@
+@constitutional@|@constitutionnel@
+@constitutionally@|@constitutionnellement@
+@consul@|@lé consul@
+@consulate@|@lé consulat@
+@contagious@|@contagieux@
+@contain@|@cont'nîn@
+@continent@|@un continnent@
+@contingent@|@lé contigent@
+@continue@|@continnuer@
+@contract@|@un contrat@
+@contralto@|@la s'gonde@
+@convulsion@|@eune convulsion, la convulsion@
+@cook@|@couque, lé couque, lé tchuîsinnyi@
+@Cook Islands@|@Îles Cook@
+@cook the books@|@tricachonner des comptes@
+@cooked@|@tchuit@
+@cookie@|@eune galette@
+@cooking@|@la tchuithie@
+@cooking apple@|@eune pomme suthe@
+@cooper's adze@|@tîle à tonnelyi@
+@cooper's dog@|@dague, tchian@
+@co-ordinator@|@lé co-ordînateu@
+@coot@|@eune mèrquerole@
+@coping@|@l'èrpathe@
+@coping stone@|@l'êtraiteûthe@
+@copper@|@rouoge tchuivre@
+@coppers (coins)@|@des cappeurs@
+@copse@|@eune bouais'sie@
+@coral@|@corail@
+@corduroy@|@cordéré, lé cordéré@
+@cork@|@liège, un bouchon d'liège, un bouochon@
+@corkscrew@|@lé tire-bouchon, tire-bouchon@
+@corn crake@|@eune râle dé g'nêt@
+@Corn Marigold@|@du mèneleu@
+@Corn Spurrey@|@d'l'hèrbe à mille noueds@
+@Corncockle@|@d'la nêle@
+@Cornflower@|@boutons d'amour, des bliuettes, des boutons d'amour, des boutons d'or@
+@Cornish@|@Cornouaillais@
+@Cornish Elm@|@un ou eune orme@
+@Cornwall@|@Cornouaille@
+@corporal@|@lé corpotha@
+@corpse@|@lé cadâvre@
+@correspondence@|@la correspondance@
+@correspondent@|@lé correspondant@
+@corrugated iron@|@la fielle dé zîn@
+@Corsican@|@Corse@
+@cost@|@couôter@
+@Costa Rica@|@Costa Rica@
+@costly@|@couôteux@
+@costmary@|@du coq@
+@cot@|@lé canichot@
+@Côte d'Ivoire@|@Côte d'Iviéthe@
+@Cotentin@|@Cotentîn@
+@cottage@|@la caûmiéthe, la caûminne@
+@cotton@|@coton@
+@cotton wool@|@la ouadinne, lé ouadinne, ouadinne@
+@couch@|@la couche, la longue tchaise@
+@cough@|@eune toux, toûtre@
+@cough endlessly@|@créheûler@
+@council@|@lé conseil@
+@country@|@un pays@
+@country dweller@|@lé campangnard@
+@course@|@la course@
+@course (of ship)@|@la route (d'un navithe)@
+@court@|@la cour@
+@courtyard@|@lé bel@
+@cousin (f)@|@la couôsinne@
+@cousin (m)@|@lé couôsîn@
+@Coutances@|@Coutanches@
+@cove@|@lé pot@
+@cow@|@la vaque, vaque@
+@cow hitch@|@un noeud d'têtchiéthe@
+@cowardly@|@lâche@
+@cowdung@|@la boûse@
+@cowherd@|@lé vachi@
+@Cowslip@|@du jaune coucou@
+@crab@|@eune crabe@
+@crab carapace@|@lé vanné@
+@crab claw@|@la pînchette, la pouette@
+@Crab Grass@|@du pid-d'alouette@
+@crab louse@|@lé morpion@
+@crackers@|@les cracots@
+@crackle@|@cratchi@
+@crackling@|@la couenne roussie, lé craqu'lîn@
+@cracknel@|@d'la craqu'linne, des croqu'sîngnoles@
+@cradle@|@lé bèr@
+@cranefly@|@la moûque à longs pids, lé prêtre@
+@crank@|@la chanolle, lé maniaque@
+@crawl@|@crépi@
+@crayfish@|@eune crabe à co@
+@cream@|@la crème@
+@creamy@|@crémeux@
+@creation@|@la créâtion@
+@credit card@|@la carte dé crédit@
+@creed@|@lé Symbole@
+@Creeping@|@Thistle@
+@Creeping Buttercup@|@du pipot@
+@Creeping Soft-grass@|@d'la molle hèrbe@
+@Creeping Thistle@|@du tcheurdron à ouaîsieaux@
+@Crete@|@Crête@
+@crime@|@lé crînme@
+@criminal@|@un crînminnel@
+@Crimson Clover@|@des soudards, l'încarnat@
+@crippled@|@êstropié@
+@Croatia@|@Croatie@
+@Croatian@|@Croate@
+@crockery@|@la vaisselle@
+@crocodile@|@la crocodile@
+@Crocus@|@des gênottes@
+@croissant@|@un crouaîssant@
+@cross@|@la crouaix@
+@crossbar@|@la barre (dé travèrs)@
+@crossing@|@la travèrsée@
+@Cross-leaved Heath@|@d'la bruëthe@
+@crossroads@|@carrefour, un carrefour@
+@croup@|@la croupe@
+@crow@|@caqu'ter, eune côneille@
+@Crow Garlic@|@d'l'as sauvage@
+@crow oyster@|@eune hitre dé rocque@
+@crowbar@|@barre@
+@crow's-nest@|@la heune@
+@crucifix@|@lé crucifix@
+@crucifixion@|@la crucifixion@
+@crush@|@êcraser@
+@crust@|@la crôte@
+@crutches@|@les bétchil'yes@
+@cry@|@braithe@
+@crybaby@|@lé houinneux@
+@crystal@|@crista@
+@Cuba@|@Cuba@
+@cuckoo@|@un coucou, un coucou@
+@cuckoo wrasse (female)@|@eune chânaise@
+@Cuckooflower@|@du coucou@
+@cucumber@|@la cocombre@
+@cul de sac@|@un tchu-d'sa@
+@cumulus@|@des nouages d'Êté, des nouages tête dé minnistre@
+@cumulus (1)@|@des têtes d'êvêques, des têtes dé minnistres, eune dêtchèrque@
+@cup@|@la tâsse@
+@cupboard@|@l'armouaithe@
+@curate@|@lé tchuthé@
+@curd@|@lé lait cailli êputhé@
+@curdled milk@|@lé lait cailli@
+@cure@|@dgéthithon@
+@curl@|@eune boucl'ye, eune corle@
+@curler@|@un corleux@
+@curlew@|@un corlieu, un couorlieu, un courlieu, un courlis@
+@curling@|@la corléthie@
+@curly@|@corlé, frisé@
+@curly as an ostrich@|@frisé coumme eune autruche@
+@curly lettuce@|@la laitue corlée@
+@currant cake@|@la gâche à corînthe@
+@currants@|@les corînthes@
+@currency@|@lé cours@
+@current (of tide)@|@lé couothant, lé halant@
+@cursor@|@l'èrchelle, lé curseu@
+@curtains@|@les ridgieaux@
+@cushion@|@lé couossi@
+@customs@|@la douanne@
+@customs officer@|@lé douannyi@
+@cut@|@coper@
+@cutlery@|@coutell'lie, la coutell'lie@
+@cutlet@|@la côtelette@
+@cutter@|@lé cotteur@
+@cut-throat razor@|@un cope-gorge@
+@cutting@|@eune aîne, eune èrboututhe@
+@cuttlebone@|@la crépie@
+@cyclamen@|@cyclamen@
+@cycle path@|@lé c'mîn à bike, sente à bike@
+@cycle rack@|@lé par à bikes@
+@Cypress@|@lé cyprès@
+@cypress wood@|@cypre@
+@Cyprus@|@Chypre@
+@Czech Republic@|@République Tchèque@
+@daddy@|@dèdè, p'pèe@
+@dahlia@|@dâ-ya, dahlia@
+@dairy@|@la lait'tie@
+@dairy cow@|@eune vaque à lait@
+@Daisy@|@des mèrgots@
+@damask@|@damas@
+@damp@|@la mucreu@
+@damson@|@la preune dé Damas@
+@dance@|@danser@
+@Dandelion@|@des pîssenliets@
+@dandruff@|@la crache@
+@dandy@|@lé parmafévéthe@
+@Daniel@|@Dannié@
+@Danish@|@Dannouais, Danouais@
+@Danish Scurvygrass@|@d'l'escorvie@
+@dark@|@nièr@
+@Dark Mullein@|@d'la molène@
+@Dartmouth@|@Dèrtémue@
+@daughter@|@fille, la fil'ye@
+@daughter-in-law@|@la belle fil'ye@
+@David@|@Dâvi@
+@dawdler@|@lé landrinneux@
+@day@|@eune journée, un jour@
+@day before yesterday@|@avant-hièr@
+@daydreamer@|@lé rêvacheux@
+@deacon@|@lé diacre@
+@dead@|@mort@
+@dead and buried@|@souos les mèrgots@
+@Dead Sea@|@la Mé Morte@
+@dead-calm@|@pliat calme@
+@Deadly Nightshade@|@d'la chrysanthème au dgiâbl'ye@
+@deaf@|@sourd@
+@dear@|@chi, chièr@
+@Dear Madam@|@Ma chiéthe Madanme@
+@Dear Sir@|@Man chièr Moussieu@
+@death@|@la mort, lé décès, lé trépas@
+@death rattle@|@lé rîncliot@
+@debate@|@lé d'bat@
+@debt@|@la dette@
+@December@|@Dézembre@
+@decide@|@décider@
+@defence@|@la d'fense@
+@Delawarean@|@Délawarien@
+@delay@|@èrtergi@
+@delivery@|@l'accouochement@
+@delivery round@|@la touônée@
+@dell@|@la vallette@
+@democracy@|@la démocratie@
+@democrat@|@lé démocrate@
+@Democratic@|@Démocratique@
+@denim@|@lé dgêne@
+@Denmark@|@Dannemar@
+@dentist@|@lé dentiste, un dentiste@
+@dentures@|@un dentchi@
+@department store@|@la grande boutique@
+@depth@|@la profondeu@
+@Deputy@|@Député@
+@derailleur gear@|@lé dêrâlleux@
+@Déroute@|@la Dêroute@
+@des jaunes pavots@|@Yellowed Horned-poppy@
+@des sonnettes@|@Yellow Rattle@
+@descendant@|@lé d'scendant@
+@desert@|@lé d'sèrt@
+@desk@|@l'êcritouaithe, un êcritouaithe@
+@dessertspoon@|@eune tchulyi à dêssèrt@
+@Devonian@|@Dévonnien@
+@diabetes@|@diabète, la diabète, la maladie d'chucre@
+@dialogue box@|@eune boête dé dgialogue@
+@diameter@|@lé diamètre@
+@diamond@|@diamant@
+@diamonds@|@du carreau@
+@diarrhoea@|@la diarrhée@
+@dicky bird@|@loûseau@
+@dictator@|@lé dictateur@
+@die@|@mouothi@
+@Diellette@|@Dgilliette@
+@Dieppe@|@Dgieppe@
+@different@|@difféthent@
+@difficult@|@difficile@
+@dig@|@creuser, foui, fouoilli@
+@dig up@|@dêfoui@
+@digging@|@lé fouage@
+@digital camera@|@un quêméreu digital@
+@digs@|@les fouithies@
+@ding dong bell@|@dinne-dinne@
+@dining room@|@la grand' tchuîsinne@
+@dining table@|@la pâraisse@
+@dining-room@|@la grand'tchuîsinne@
+@diocese@|@lé diocèse@
+@diploma@|@lé diplôme@
+@diplomat@|@lé diplomate@
+@director@|@lé directeu@
+@dirt@|@tata@
+@dirty@|@sale@
+@disappear@|@dispathaître@
+@discharge@|@eune dêchèrge@
+@disciple@|@lé discipl'ye, un discipl'ye@
+@discover@|@dêcouvri@
+@discuss@|@distchuter@
+@discussion@|@la distchussion@
+@disembark@|@d'sembèrtchi, dêbèrtchi@
+@disgusting@|@malaûc'theux@
+@dish@|@lé pliat@
+@dishcloth@|@lé laveux, un laveux@
+@dishing of wheels@|@lé raîtchage@
+@diskette@|@la distchette@
+@dispensary@|@dispensaithe@
+@display@|@êtalage, l'êtalage@
+@distillation@|@la distillâtion@
+@distillery@|@la distil'lie@
+@distracted person@|@l'èrré@
+@district@|@lé district@
+@disturb@|@dêrangi@
+@dizziness@|@l'êtourdissaison@
+@d'Jèrri@|@L'tou@
+@Djibouti@|@Djibouti@
+@Do you speak Jèrriais?@|@Pâl'-ou l'Jèrriais?, Pâles-tu l'Jèrriais?@
+@dock lifter@|@hale-doque@
+@docking station@|@eune stâtion d'amathage@
+@doctor@|@lé docteu@
+@doctrine@|@la doctrinne@
+@document@|@l'dotchûment, lé dotchûment@
+@Dodder@|@d'la touothelle@
+@Dodecanese@|@Îles Dodécanèses@
+@dog@|@lé tchian, tchian@
+@Dog Rose@|@d'la rose sauvage@
+@Dog Star@|@L'Êtaile au Tchian, la Cannitchule@
+@dog whelk@|@eune chorchiéthe, eune coque à j'vaux@
+@dogfish species@|@un haut@
+@doggy@|@ba-ouîn@
+@dogma@|@lé dogme@
+@dog-vane@|@lé gabé (du navithe)@
+@doldrums@|@les vâriabl'yes@
+@dolmen@|@eune pouquelaye, un dolmen@
+@dolphin@|@un dauphîn@
+@Dominica@|@Dominica@
+@Dominican Republic@|@République Dominnicaine@
+@donkey@|@un âne@
+@Don't touch me there!@|@Né m'touchiz pon par ilo!@
+@door@|@la porte@
+@doorway@|@l'uss'sie@
+@dor-beetle@|@l'êtchèrbot, lé bourdon@
+@dormer window@|@la f'nêt' à mansarde@
+@dotard@|@la godenitchette, la miclotte, lé r'doteux@
+@doughnut@|@la godenitchette, la miclotte@
+@dove@|@la colombe, la coucouroux@
+@Dover@|@Dovre@
+@dowager@|@la douaithiéthe@
+@dowels@|@des g'vil'yes@
+@down@|@du fo pé@
+@down-pipe@|@un noc@
+@downstairs@|@à bas@
+@draft@|@lé brouoillon@
+@drag@|@traîner@
+@drag-net@|@la seine, la trâle, lé drannet@
+@dragonfly@|@lé moûtchet@
+@draining board@|@un êgoutteux@
+@draining-board@|@l'êgoutteux, un êgoutteux@
+@drake@|@un cannard@
+@draw knife@|@couté à deux mains, hache à bras@
+@draw plate@|@filiéthe@
+@drawers@|@drâses@
+@drawing room@|@lé salon@
+@drawing-awl@|@pouaîsson@
+@draw-net@|@lé drannet@
+@dreamer@|@lé rêveux, lé songe-mitaine, lé songeux@
+@dredge-net@|@la drague@
+@dress@|@la robe, lé fro@
+@dressed stone@|@la pièrre dé taille@
+@dresser@|@lé drécheux@
+@dressing table@|@lé dressinne-têbl'ye@
+@dressmaker@|@la couôtuthiéthe@
+@dried cowdung@|@la couême (secque)@
+@drill@|@aûgouaithe, lé drîn@
+@drink@|@baithe, baithe, eune bouaisson, un béthe, un brévage@
+@drink oneself to death@|@créver d'béthe@
+@drinker@|@un b'veux@
+@drinking glass@|@un vèrre à baithe@
+@dripping@|@la graisse dé boeuf@
+@drive@|@lé disque@
+@driveller@|@lé rabâcheux@
+@driver@|@lé cacheux, un cacheux, un cacheux@
+@drizzle@|@la brousse, lé crachîn@
+@dromedary@|@lé dromadaire@
+@drop-down menu@|@lé m'nu tchiyant@
+@drubbing@|@eune brossée, eune calfêteuse, eune pitchinne@
+@drubbing (1)@|@eune quétilieuse@
+@drug@|@la drogue@
+@drug trafficking@|@l'conmèrce des drogues, lé trafi des drogues@
+@drugtaking@|@la drogu'thie@
+@drum@|@lé tambour@
+@drum major@|@un cacheux, un tambour-mâjeur@
+@drunk@|@bragi, chonmé, envitoué, gris, ivre, souîn, soûl@
+@drunk (1)@|@bédé-ouinne, blindé, bringuesingue, gâté d'béthe@
+@drunkenness@|@l'ivrouongn'nie, la béthie, la bouaissonn'nie@
+@dry@|@s'tchi, sé@
+@dry one's hair@|@s'tchi les g'veux@
+@dry stone wall@|@eune muthâle à pièrre secque@
+@dryer@|@lé s'tcheux@
+@drying laundry@|@lé s'tchage du lînge@
+@Dubliner@|@Dublinnais@
+@duchess@|@la duchêsse@
+@duck (female)@|@eune cannotte@
+@duke@|@lé duc@
+@dullard@|@la chagorne@
+@dummy@|@chuchot@
+@dumpling@|@domplin@
+@dune@|@la mielle@
+@dung@|@la graisse@
+@dungfly@|@la moûque à boûse@
+@dung-heap@|@la maie@
+@Dunkirk@|@Dontchèrque@
+@dust@|@ponsi@
+@duster@|@êpousseteux, l'êpousseteux@
+@Dutch@|@Hollandais@
+@duvet@|@lé duvet@
+@Dwarf Cherry@|@eune badgiole@
+@Dwarf wild cherry@|@un badgiolyi@
+@dwelling@|@eune d'meuthe@
+@dying@|@mouothant@
+@dynamo@|@lé dynnamo@
+@dysentery@|@fliue d'sang, la dysenterie@
+@eagle@|@un aigl'ye@
+@ear@|@l'ouothelle@
+@earache@|@lé mal ès ouïes@
+@Early Forget-me-not@|@dé l'ouothelle dé souothis@
+@Early Hair-grass@|@du suthîn@
+@earring@|@la boucl'ye d'ouothelle@
+@ears@|@les ouothelles@
+@earth@|@la tèrre@
+@earthenware@|@tèrr'rie@
+@earthworm@|@lé vèr dé tèrre@
+@earwig@|@la pèrche-ouothelle@
+@east@|@êst@
+@East Timor@|@Timor d'l'Est@
+@Easter@|@Pâques@
+@easy@|@aîsi@
+@eat@|@mangi@
+@eater@|@lé mangeux@
+@eating apple@|@eune pomme douoche@
+@eaves@|@la barbe@
+@eavesdropper@|@l'êcoute-pathai, l'êcouteux@
+@ebb@|@l'èrtithant@
+@ebb (of waves)@|@l'èrsîn des louêmes@
+@ebb tide@|@l'èrtithant@
+@ebb-tide@|@l'èrtithant, la r'traite@
+@ebony@|@êbène@
+@ecclesiastical@|@écclésiastique@
+@eclipse@|@l'êclyipse@
+@economic@|@êconomique@
+@economy@|@l'êconomie@
+@Ecuador@|@Êquateur@
+@eczema@|@la maladie d'la fontaine@
+@Eddy@|@Dardinne, Dardot, Darri, Darrique@
+@Edinburgher@|@Êdimbourgeouais@
+@education@|@l'êducâtion@
+@educational materials@|@les matéthiaux êducâtionnaux@
+@Edward@|@Douard, Êdouard@
+@Eelgrass@|@d'la plîse@
+@effect@|@l'êffet@
+@effeminate man@|@lé colîn-feunmelle@
+@egg@|@coco, l'oeu@
+@egg white@|@lé blianc d'oeu@
+@egg yolk@|@lé jaune d'oeu@
+@egg-cup@|@lé cocotchi@
+@egg-laying@|@la ponnaîson@
+@Egypt@|@Êgypte@
+@Egyptian@|@Êgyptien@
+@eight@|@huit@
+@eight hundred@|@huit chents@
+@eight hundred and one@|@huit chents ieune@
+@eight hundred and two@|@huit chents deux@
+@eighteen@|@dgiêx-huit@
+@eighty@|@huiptante, quatre-vîngts@
+@eighty one@|@huiptante tch'ieune, quatre-vîngt-ieune@
+@eighty two@|@huiptante-deux, quatre-vîngt-deux@
+@El Salvador@|@El Salvador@
+@elbow@|@lé coute@
+@elbow grease@|@dé l'hielle dé coute@
+@Elder@|@du seu@
+@elderberry@|@la chérise dé seu, la graine dé seu@
+@elect@|@êlithe@
+@election@|@eune êlection@
+@elector@|@l'êlecteu, un êlecteu@
+@electoral@|@êlectoral@
+@electoral roll@|@la liste êlectorale@
+@electric fan@|@un êventail êlectrique@
+@elephant@|@l'êléphant@
+@eleven@|@onze@
+@Elias@|@Élie, Élyie, Éyie, Laïesse@
+@Elizabeth@|@Betté, Élîzabé, Lîsabé, Lîzabé@
+@Elm@|@un (ou eune) orme@
+@e-mail@|@l'e-mail@
+@embassy@|@l'ambassade@
+@embezzle@|@cabochi des sous@
+@embrasure@|@l'êvilement@
+@embroideress@|@eune brodeuse@
+@embroidery@|@la brod'die@
+@emigrant@|@l'êmigrant@
+@emperor@|@l'empéreur@
+@empty@|@viède, viédgi@
+@ename@|@l'êmail@
+@enema@|@lé lavement@
+@enemy@|@l'enn'mîn@
+@engaged@|@engagi@
+@engagement@|@l'engagement@
+@engagement ring@|@la bague d'engagement, la bague dé fianchailles@
+@engineer@|@l'înginnieux@
+@England@|@Angliétèrre@
+@English@|@Angliais@
+@English Stonecrop@|@du pain à crapauds@
+@enjoy@|@joui@
+@envelope@|@eune env'loppe@
+@epidemic@|@l'êpidémie@
+@epilepsy@|@l'épilepsie, lé haut-ma@
+@equality@|@l'êgalité@
+@Equator@|@la Lîngne@
+@Equatorial Guinea@|@Dginnée d'l'Êquateur@
+@Eritrea@|@Eritrea@
+@erysipelas@|@la résipele@
+@escape@|@êcapper@
+@Esther@|@Estèr, Stèr@
+@Estonia@|@Estonnie@
+@Estonian@|@Estonnien@
+@estuary@|@l'engoulême@
+@êt'@|@to be@
+@Ethiopia@|@Êthiopie@
+@Europe@|@Ûrope@
+@European@|@Ûropéen@
+@Eve@|@Êve@
+@evening@|@la séthée, lé sé@
+@evergreen@|@du vèrt bouais@
+@Evergreen Oak or Holm Oak@|@un vèrt tchêne@
+@Evergreen Spindle-tree@|@du vèrt-bouais@
+@everything is gone@|@i'n'reste ni tchiêsse ni aile@
+@evidence@|@l'êvidence@
+@evil eye@|@lé mauvais yi@
+@evil spirit@|@la vioge@
+@ewe@|@la brébis@
+@exam@|@l'examen@
+@examiner@|@l'examinneux@
+@excommunication@|@l'excommunicâtion@
+@ex-con@|@un sorti d'prison@
+@Excuse me@|@Extchûthez-mé, Pardonnez-mouai@
+@exercise@|@l'exèrcice@
+@exercise book@|@lé livre d'exèrcice@
+@expensive@|@chi@
+@expert@|@l'expèrt@
+@explain@|@explyitchi@
+@extension@|@lé tchulon@
+@extreme beam@|@lé grand run@
+@eye@|@un yi, yi@
+@eyeball@|@la balle dé l'yi@
+@eyebrow@|@la soucile@
+@eyelash@|@la paûpil'ye@
+@eyelashes@|@les paûpil'yes@
+@eyelid@|@la paûpiéthe@
+@eyes@|@cricots, criquinnes, l's yiers, ou ièrs@
+@eyes (children's word)@|@les cricots, les criquinnes@
+@eyes full of sleep@|@l's ièrs embeurrés@
+@eyesight@|@la veue@
+@façade@|@la côtchiéthe@
+@face@|@fache, la fache@
+@face to face@|@fache à fache@
+@Faeroe Islands@|@Îles Faeroe@
+@faint@|@s'êvanni@
+@fair-play@|@fèrre-pliaie@
+@faith@|@la fouai@
+@Falkland Islands@|@Îles Falkland@
+@fall@|@tchaie@
+@falling tide@|@la mé r'tithante@
+@Falmouth@|@Falmue@
+@false@|@faux@
+@family history@|@l'histouaithe dé fanmil'ye@
+@fancy-cake@|@lé gâté@
+@farm@|@fèrmer, lé mênage@
+@farm equipment@|@lé montage dé fèrme@
+@farmer@|@lé fèrmyi, un fèrmyi@
+@farmhand@|@lé valet d'fèrme@
+@farmyard@|@lé bel@
+@fashion@|@faichon, la mode@
+@fast@|@quédaine, vite@
+@fat@|@la graisse@
+@Fat Hen@|@d'la blianche s'nîle@
+@fate@|@la destinné, lé sort@
+@father@|@lé péthe@
+@Father Christmas@|@Papa Noué@
+@father-in-law@|@lé bieau-péthe@
+@fax@|@faxer, lé fax@
+@faxing@|@faxéthie@
+@feather duster@|@un êpousseteux@
+@February@|@Févri@
+@feel@|@senti@
+@feet@|@pinnots@
+@Feet of Orion@|@les Pids@
+@Felger@|@Feûgiéthes@
+@fellies@|@les gantes@
+@felling axe@|@bûcheux, câsse-bouais@
+@female@|@la feunmelle@
+@fence@|@la cliôthuthe@
+@fennel@|@la fanon, lé fanon@
+@Fennel@|@du fanon@
+@ferret@|@lé futhet@
+@fertilizer@|@l'engrais@
+@fetch@|@qu'si@
+@fetlock@|@lé pâtuthon@
+@fetlock joint@|@lé boulet@
+@fever@|@la fièvre@
+@Feverfew@|@du maître@
+@fiancé@|@lé fianchi@
+@fiancée@|@la fianchie@
+@field@|@lé clios@
+@Field Bindweed@|@des veîl'yes dé r'lié@
+@field marshal@|@l'maréchal@
+@field mouse@|@la souothis d'clios, lé mulot@
+@Field Pansy@|@du coucou@
+@fieldfare@|@un pliacard@
+@fieldmouse@|@la souothis d'clios, lé mulot@
+@fifteen@|@tchînze@
+@fifty@|@chînquante@
+@fifty one@|@chînquante tch'ieune@
+@fifty pennies@|@chînquante pénîns@
+@fifty two@|@chînquante-deux@
+@Fig@|@un fidgi@
+@fight@|@eune bastaude, eune frip'sie@
+@figure of eight knot@|@un huit@
+@Fiji@|@Fiji@
+@file@|@lé dôssyi, lînme@
+@film@|@un film@
+@fin@|@la râlîngue@
+@finances@|@les finnances@
+@find@|@trouver@
+@fine@|@eune amende@
+@fine drizzle@|@lé broussîn@
+@finger@|@dinnet, dinnot, lé dé@
+@fingers@|@les dés@
+@fingertips@|@lé but des dés@
+@finish@|@finni@
+@Finland@|@Fînlande@
+@Finnishman@|@Fînlandais@
+@fireworks@|@les feux d'artifice@
+@first@|@preunmyi@
+@First World War@|@la Preunmié Dgèrre Mondiale@
+@first-cousin@|@lé couôsîn gèrmain@
+@fish@|@lé paîsson, pêtchi, un paîsson@
+@fishbone@|@l'héthèque@
+@fisherman@|@un pêtcheux@
+@fishing boat@|@lé baté pêtcheux@
+@fishing rod@|@vaûle@
+@fishing tackle@|@l'êtchipage@
+@fishing-hook@|@l'ain, lé cro@
+@fishing-line@|@la Iîngne dé pêque@
+@fishing-net@|@lé filet@
+@fishing-rod@|@la vaûle@
+@fishmonger@|@lé paîssonnyi@
+@fist@|@lé poing@
+@five@|@chînq@
+@five bar gate@|@la hêmie@
+@five frozen dogs@|@chînq tchians g'lés@
+@five hundred@|@chîn chents@
+@five hundred and one@|@chîn chents ieune@
+@five hundred and two@|@chîn chents deux@
+@five pence@|@un chélîn@
+@five pennies@|@chîn pénîns@
+@five pounds@|@chîn louis@
+@flag@|@la couleu@
+@flagship@|@l'amitha@
+@flagstone@|@lé pliaton@
+@flail@|@fliais, lé fliais@
+@flaky pastry@|@la pâte fielletée@
+@Flanders@|@Fliandres@
+@flank@|@lé flianc@
+@flannel@|@lé flianné@
+@flatterer@|@l'affliâtreux, lé fliatteux@
+@flax@|@du lîn, linnette@
+@flea@|@la puche@
+@flea-beetle@|@la puche dé tèrre@
+@fleet@|@la fliotte@
+@flesh@|@la chai@
+@flint@|@la pièrre à feu, pièrre à feu@
+@float@|@fliotter, la fliotte, lé liège@
+@flobber@|@un fliabeu@
+@flock@|@fliotchet@
+@flogging@|@eune chîngneuse@
+@floor@|@lé plianchais, lé solais@
+@floppy hat@|@lé chapé gorneux@
+@Florida@|@Floride@
+@Floridan@|@Floridgien@
+@flotsam and jetsam@|@l'ouaîrage, lé vârage@
+@flounder@|@la fliandre@
+@flour@|@la flieu@
+@flow of tide@|@lé fliot@
+@flow tide@|@lé montant@
+@flower@|@flieuthi, la flieur@
+@flower basket@|@pannyi d'flieurs@
+@flower garden@|@lé gardîn à flieurs@
+@flowerbed@|@un partèrre@
+@flowerpot@|@un pot à flieurs@
+@flu@|@la grippe@
+@fluffy@|@pliutcheux@
+@fluffy cloud@|@du brébion@
+@flute@|@la fliûte@
+@fly@|@la moûque, voler@
+@flying-jib@|@lé dragon@
+@foal@|@lé poulain@
+@foam@|@l'êtcheunme@
+@fodder@|@lé fouôrrage@
+@fog@|@la bliâse@
+@folder@|@lé dôssyi@
+@follow@|@siéthe@
+@font@|@lé bâptistéthe, lé font d'bâptême@
+@food@|@la nouôrrituthe@
+@Fool's Parsley@|@d'la p'tite chue@
+@Fool's Water-cress@|@d'la bêle@
+@foot@|@lé pid@
+@foot-rot@|@des vaques@
+@footsies@|@pinnots@
+@footstool@|@lé sectîn@
+@footwear@|@lé caûchement@
+@force@|@forchi@
+@fore topgallant-sail@|@lé p'tit pèrrotchet@
+@forecastle@|@lé châté, lé gaillard d'avant@
+@forehead@|@lé front@
+@foreigner@|@l'êtrangi@
+@forelock@|@un tupillon@
+@foremast@|@lé mât d'misaine, mât d'avant@
+@foremast top@|@la heuniéthe du mât d'avant@
+@foresail@|@la misaine, la vaile d'avant, vaile dé mîsaine@
+@forest@|@la forêt@
+@fore-yard@|@la vèrgue d'misaine@
+@forfeiture@|@la forfaiteûthe@
+@forgery@|@la forgéthie, lé faux sîngne@
+@forget@|@oublier@
+@fork@|@fourchette, la fourchette@
+@fork (for digging)@|@frouque, la frouque@
+@fork with hooked tines@|@grappîn@
+@form@|@eune forme@
+@fort@|@lé fort@
+@fortification@|@la fortificâtion@
+@fortnight@|@un tchînze jours@
+@fortress@|@la fortéresse@
+@forty@|@quarante@
+@forty one@|@quarante'tch'ieune@
+@forty two@|@quarante-deux@
+@fossil@|@eune fossile@
+@foundation stone@|@la preunmié pièrre@
+@fountain@|@jet dg'ieau@
+@four@|@quat'@
+@four hundred@|@quat' chents@
+@four hundred and one@|@quat' chents ieune@
+@four hundred and two@|@quat' chents deux@
+@Four warm cats@|@Quat' caûds cats@
+@Four-leaved Oxalis@|@du trêfl'ye à ouognons@
+@fourteen@|@quatorze@
+@fox@|@lé r'nard@
+@Foxglove@|@dé l'ouothelle dé brébis, lé cracot, lé potithon@
+@Fragrant Evening-primrose@|@des roses d'un jour@
+@frame@|@la frême@
+@France@|@France@
+@Francis@|@Françot, Françouais@
+@François@|@Françot, Françouais@
+@Frank@|@Fraînque@
+@freckles@|@du tav'lîn@
+@free churches@|@les libres êglyises@
+@freemason@|@lé franc-machon@
+@freeze@|@g'ler@
+@freezer@|@lé congélateur@
+@French@|@Français, lé Français@
+@French beans@|@les pais d'mai@
+@French Guiana@|@Guyane Française@
+@French lavender@|@d'l'aspi, d'la cassidonne@
+@French Polynesia@|@Polynésie Française@
+@French Southern Territories@|@Territouaithes Français du Sud@
+@fresh@|@frais@
+@fresh water eel@|@eune andgulle d'ieau douoche@
+@friable soil@|@la tèrre friabl'ye@
+@Friday@|@Vendrédi@
+@fridge@|@lé frigo@
+@fried egg@|@un oeu fricachi@
+@friend@|@l'anmîn@
+@frill@|@eune ruche@
+@fringe@|@eune frange@
+@frizzy@|@crêp'leux@
+@frog@|@la raînotte@
+@frogfish@|@lé scolpîn@
+@from head to foot@|@d'la tête ès pids@
+@from Quebec@|@Tchubecquouais@
+@front cross-beam@|@lé tchian dé d'vant@
+@front wheel@|@la reue dé d'vant@
+@frost@|@la gélée@
+@fruit picker@|@lé tchilieux@
+@fry@|@du têtu@
+@frying-pan@|@la câssetrole@
+@Fuchsias@|@des fioûcheux, des pente-ouotheilles (f)@
+@Fucus nodosus@|@du cracot, du vrégeais, du vrégîn, lé pliat vrai@
+@Fucus serratus@|@lé pliat vrai@
+@Fucus vesiculosus@|@d'la bédaine, d'la bédanne, du vrégeais, du vrégîn@
+@full@|@pliein@
+@fun@|@fanne@
+@function@|@marchi@
+@funnel@|@entonneux@
+@fur@|@pé@
+@fur-lined@|@fouôrré@
+@furrow@|@la raie, la rande@
+@furze@|@du geon@
+@Gabon@|@Gabon@
+@gaff-topsail@|@la gaîffe-tâp-séle@
+@gale@|@dgêle@
+@gallant-sail@|@la vaile dé pèrrotchet@
+@galley@|@la caboûse@
+@Gallingale@|@du han@
+@gallivant@|@galvaûder@
+@gallows@|@lé gibet@
+@gambler@|@lé joueux@
+@game@|@gamme, lé gibyi@
+@gander@|@un gars, un pirot, un pithot@
+@gannet@|@la mauve à maq'thé, lé mèrgaud@
+@garage@|@garage, lé garage@
+@garagekeeper@|@lé garagiste@
+@garboard@|@les ouôlins@
+@garden@|@gardîn, gardinner, lé gardîn@
+@garden gate@|@lé hé@
+@Garden Lupin@|@des lupîns (m)@
+@Garden Parsley@|@du pèrsi@
+@Garden Roses@|@des doubl'yes roses, des sîmplyes roses@
+@garden shears@|@chîsieaux d'gardîn@
+@Garden Strawberry@|@des frâses@
+@gardener@|@un gardîngni@
+@gardening@|@lé gardinnage@
+@garfish@|@un orfi@
+@garlic@|@l'ail@
+@garrison@|@la dgèrnison@
+@garter@|@la dgèrtchiéthe@
+@gas@|@gaz@
+@Gascony@|@Gascongne@
+@Gaspé@|@la côte@
+@gather@|@ramâsser@
+@gear-change lever@|@un lévyi d'vitesse@
+@genealogical@|@généalogique@
+@genealogy@|@la généalogie@
+@generous@|@génétheux@
+@Genevan@|@Genèvouais@
+@genitals@|@les parties@
+@geography@|@la géographie@
+@George@|@George@
+@Georgia@|@Georgie@
+@Georgia (êtat d'USA)@|@Georgie@
+@Georgian@|@Georgien@
+@german@|@Allémand@
+@German@|@l'Allémand@
+@Germander Speedwell@|@du tèrrêtre@
+@Germans@|@Allemands@
+@Germany@|@Allemangne, Allémangne@
+@get out of the way@|@s'cârrer@
+@Ghana@|@Ghana@
+@gherkin@|@lé cornichon@
+@ghost@|@eune blianche femme, eune êpitafl'ye, un r'vénant@
+@ghost (1)@|@la vîsion, lé fantôme@
+@giblets@|@la tchèrfaille, lé tchèrfais@
+@Gibraltar@|@Gibraltar@
+@Gideon@|@Gédéon, Gudgion@
+@gift shop@|@la boutique à présents@
+@Gilbert@|@Dgibèrt@
+@gill@|@la dginne@
+@gimlet@|@gîmblet@
+@gin@|@lé dginne, lé génèvre@
+@gingerbread@|@lé pain d'êpice@
+@giraffe@|@la girafe@
+@girl@|@la hardelle@
+@give@|@bailli, donner@
+@give first aid@|@doctrinner@
+@give someone the eye@|@faithe des ilyies@
+@glance@|@un coup d'yi@
+@glass@|@vèrre@
+@glasses@|@des leunettes@
+@glassful@|@eune vèrrée@
+@Glaswegian@|@Glasouédgien@
+@glimpse@|@eune apèrchévance@
+@globe artichoke@|@l'artichaut vèrt@
+@globe flower@|@d'la livre-dé-beurre@
+@glossary@|@un glossaithe@
+@gloves@|@les gants@
+@glow-worm@|@lé vèrpeu@
+@glue@|@colle, la cliute@
+@glutton@|@lé bouffeux, lé gouailleux, lé goumitre, lé mâfreu@
+@gnat@|@lé bibet@
+@go@|@aller@
+@go back@|@rentrer@
+@go bankrupt@|@faithe banqueroute@
+@go down@|@d'scendre@
+@go out@|@sorti@
+@go up@|@monter, ramonter@
+@goat@|@la biche@
+@goatee@|@eune barbiche, la barbiche@
+@goat-moth@|@la vipéthe à bouais@
+@goblin@|@un faîté@
+@God@|@Dgieu@
+@God Save the Queen@|@Dgieu sauve la Reine@
+@goddaughter@|@la filieuthe@
+@godfather@|@lé pârrain@
+@godmother@|@la mârraine@
+@godson@|@lé filieu@
+@goitre@|@gouaître@
+@gold@|@or@
+@gold dust@|@d'la poudre d'or, du safran@
+@goldcrest@|@eune capuchinne@
+@golden plover@|@un êprivyi doré, un jaune êprivyi@
+@Golden rod@|@d'la vèrge d'or, d'la vèrgue d'or@
+@goldfinch@|@eune mignonne dé cardronnette, la cardrinnette@
+@goldfish@|@lé rouoge paîsson@
+@gonorrhoea@|@la gôrre, la vétheule honteuse@
+@good@|@bouon@
+@Good afternoon@|@bouônjour@
+@Good evening@|@Bônsouair@
+@Good Friday@|@lé Véndrédi Saint@
+@Good King Henry@|@d's alouoches, d's aulouoches@
+@Good luck@|@Bouonne cache@
+@Good morning@|@Bouônjour (à matîn)@
+@Goodbye@|@À bétôt, À bi, À la préchaine, À tantôt@
+@good-for-nothing@|@lé reintchivaille@
+@goose (female)@|@eune ouaie, eune pithette, eune pithotte@
+@goose (female) (1)@|@eune pirette@
+@Gooseberry@|@des grouaîsiles, la grouaîsile@
+@Goosegrass@|@d'l'hèrbe à tchilieuvre, du fliancouais@
+@gorilla@|@lé gorille@
+@gorse shield-bug@|@la peûnnaise@
+@Gospel@|@l'Êvangile@
+@gossip@|@la conméthe@
+@gourmand@|@lé goudalleux@
+@government@|@lé gouvèrnément@
+@graft@|@eune ente, la greffe@
+@grafting knife@|@greffeux, un greffeux@
+@grain loft@|@lé grainyi@
+@grammar@|@la grammaithe@
+@granary@|@la grain'nie@
+@Grand River@|@la Grand' Riviéthe@
+@grandad@|@papa@
+@granddaughter@|@la p'tite-fil'ye@
+@Grande Rivière@|@Grande Riviéthe@
+@grandfather@|@lé grand-péthe, lé papa@
+@grandfather clock@|@eune hôlouoge dé grand-péthe@
+@grandmother@|@la grand-méthe, la manman@
+@grandparents@|@les grands-pathents@
+@grandson@|@lé p'tit-fis@
+@granite@|@granit, l'granit@
+@granny@|@manman@
+@granny knot@|@un noeud en tchu d'poulain@
+@Grape@|@du vèrjus@
+@grapes@|@lé vèrjus@
+@grapnel@|@grappîn, lé grappîn@
+@grasp@|@gaffer@
+@grass@|@l'hèrbe@
+@grasshopper@|@lé critchet@
+@grass-wrack@|@d'l'hèrbi, la plîse@
+@grater@|@grattise, la grattise, râpe@
+@grave@|@la fôsse, la tombe@
+@gravedigger@|@lé fôssyi@
+@gravel@|@gravi, l'gravi@
+@gravestone@|@lé tombé@
+@gravy@|@grévîn, lé grêvîn@
+@graze@|@l'êcorcheuse@
+@Great Bear Lake@|@lé Grand Lac dé l'Ours@
+@great black-backed gull@|@la néthe mauve, lé nièr-dos@
+@Great Britain@|@Grande Brétangne@
+@Great Brome@|@d'la droe@
+@Great Fen-sedge@|@du pavis@
+@great green grasshopper@|@lé j'va d'St George@
+@Great Mullein@|@d'la molène@
+@great northern diver@|@un loup d'mé@
+@Great Quaking-grass@|@des lèrmes d'Jâcob@
+@Great Salt Lake@|@lé Lac-Salé@
+@great tit@|@eune démouaîselle, un bliu-bonnet@
+@great-aunt@|@la grand'tante@
+@Greater Celandine@|@d'l'hèrbe à véthues@
+@Greater Periwinkle@|@d's êpèrvenches@
+@Greater Plantain@|@du pliantain@
+@greater spotted dogfish@|@un roussé@
+@greater weever@|@un zèbre@
+@great-granddaughter@|@l'arriéthe-petite-fil' ye@
+@great-grandfather@|@lé grand-grand-péthe, lé grand-papa@
+@great-grandmother@|@la grand'manman, la grand-grand-méthe@
+@great-grandson@|@l'arriéthe-pétit-fis@
+@great-nephew@|@lé p'tit-n'veu@
+@great-niece@|@la pétite-nièche@
+@great-uncle@|@lé grand-oncl'ye@
+@Greece@|@Grêce@
+@Greek@|@Grec@
+@green@|@vèrt@
+@green around the gills@|@blianc l'tou des dginnes@
+@green linnet@|@un vèrt linnot@
+@green woodpecker@|@un pique-en-bouais@
+@greenbottle@|@la moûque à paîsson@
+@greenfinch@|@lé verdgé, un vèrmingnon@
+@greenfly@|@lé peurchon@
+@greenhouse@|@la sèrre@
+@Greenland@|@Greenland, Groenland@
+@Greens@|@les Vèrts@
+@Grenada@|@Grenada@
+@grenade@|@la grénade@
+@grenadier@|@lé grénadgi@
+@grey@|@gris@
+@grey hair@|@des gris g'veux@
+@grey plover@|@un gris eprivyi@
+@greyhound@|@lé lévri@
+@grill@|@lé gril@
+@grind@|@moudre@
+@grindstone@|@meule@
+@gristle@|@lé nèr@
+@groan@|@honner@
+@grocer@|@l'êpicyi, lé grôssyi@
+@grope one's way@|@crapaûder@
+@ground beetle@|@eune néthe bête@
+@ground floor@|@lé bas, les bas@
+@Ground-ivy@|@du tèrrêtre@
+@Grounsel@|@du s'nichon@
+@grow@|@craître, craître@
+@growing pains@|@la craîssette@
+@growl@|@ronner@
+@grumbler@|@lé gronneux, lé ronneux@
+@grunt@|@gronner@
+@Guadeloupe@|@Guadeloupe@
+@Guam@|@Guam@
+@guano@|@lé guaîno@
+@guard@|@la garde@
+@guardhouse@|@lé corps dé garde@
+@Guatemala@|@Guatemala@
+@gudgeon@|@un célérin@
+@guelder rose@|@des pommes dé Galles@
+@Guernsey crab@|@un chancre, un houais, un poingclios@
+@Guernsey lily@|@lé lis d'Dgèrnésy@
+@Guernseyman@|@Dgèrnésiais@
+@guest@|@l'învité@
+@guide@|@dgide, lé dgide@
+@guillemot@|@un âne dé mé, un dgillemot@
+@guillotine@|@eune dgilliotinne@
+@guilty@|@coupabl'ye@
+@Guinea@|@Dginnée@
+@guinea pig@|@lé couochon d'la Dginnée@
+@Guinea-Bissau@|@Dginnée-Bissau@
+@guinea-cock@|@lé mâle dé la pîntarde@
+@guinea-fowl@|@la pîntarde@
+@guinea-hen@|@eune pintarde@
+@guitar@|@la dgitare@
+@Gulf of St. Lawrence@|@Golfe d'St. Louothains@
+@gully@|@la crévasse@
+@gums@|@la denchive@
+@gun@|@eune arme@
+@gunner@|@un artilleu, un canonnyi@
+@gunpowder@|@la poudre à canon@
+@gunwale@|@lé pliat-bord@
+@gurgle@|@dêgouglonner, gargouoilli@
+@gurnard@|@lé gronnard@
+@gurnet@|@lé grondîn@
+@gut a fish@|@êbieilli un paîsson@
+@Guy Fawkes Night@|@la Séthée d'Guy Fawkes@
+@Guyana@|@Guyana@
+@Gwengamp@|@Dgîngamp@
+@haberdashery@|@la mèrchéthie@
+@haddock@|@l'héthique@
+@haemorrhage@|@eune hémorragie@
+@haemorrhoids@|@les morrhouites@
+@hail@|@la grile@
+@hailstones@|@des brîns d'grile@
+@hair@|@les g'veux@
+@hairbrush@|@eune brînge à g'veux@
+@hairdresser@|@lé pèrrutchi, un copeux dé g'veux, un pèrrutchi@
+@hairdresser (1)@|@lé copeux dé g'veux@
+@hairdryer@|@un s'tcheux@
+@hairsbreadth@|@fîn coumme un g'veu@
+@hairy@|@pouailu@
+@Hairy Tare@|@du véchon@
+@Haiti@|@Haiti@
+@hake@|@eune mèrluche@
+@halberd@|@eune hallebarde@
+@half a crown@|@un êtchu@
+@half a pound@|@eune démié-livre@
+@half an hour@|@eune démi-heuthe@
+@half-brother@|@lé d'mié-fréthe, lé mié-fréthe@
+@half-ebb@|@la d'mié-r'traite@
+@half-hitch@|@eune démié-clié@
+@half-sister@|@la d'mié-soeu@
+@half-tide@|@la mié-mathée@
+@halibut@|@lé halibot, un fliêtan@
+@Halidrys siliquosa@|@d'l'ivraie@
+@hall@|@l'allée@
+@Halloween@|@Halloween, la Veil'ye d'la Toussaint@
+@halyard@|@un hîssas@
+@halyards@|@les hissas, les hîssas du mât d'heune@
+@halyards (1)@|@l'hîssas d'la grand' vaile@
+@hammer@|@marté@
+@hamonium@|@un harmonium@
+@hamster@|@lé hanmster@
+@hand@|@la main@
+@hand saw@|@scie à main@
+@hand-bit@|@tîthot@
+@handcuffs@|@les m'nottes@
+@handkerchief@|@lé mouoché, lé torche-nez@
+@handlebar@|@les manchelles@
+@handlebars@|@les manchelles@
+@hands@|@minnots, minottes@
+@handwriting@|@l'êcrituthe@
+@hanging basket@|@un pangni à flieurs@
+@hangman@|@lé pendard@
+@hangman's noose@|@un noeud d'pendard@
+@happy@|@heûtheux@
+@Happy Birthday@|@Bouôn annivèrsaithe@
+@Happy Easter@|@Jouaiyeux Pâques@
+@Happy New Year@|@Bouonne année, lé Nouvel An!@
+@harbinger cloud@|@un dragon@
+@harbour@|@la caûchie, lé hâvre, lé port@
+@hard@|@dû@
+@hard disk@|@lé disque dû@
+@hard drugs@|@les drogues duthes@
+@hard labour@|@les travaux forchis@
+@hard limestone@|@du laïesse, Laïesse@
+@hardware@|@lé hardware@
+@hare@|@gaden, lé lièvre@
+@Hare's-tail@|@des babinnes-dé-lièvre@
+@harmony@|@la harmonie@
+@harness@|@l'att'lage, la graie@
+@harness chain@|@la chaîne du sellot@
+@harp@|@la harpe@
+@harrow@|@hèrche, la hèrche@
+@harrowing@|@la hèrchéthie@
+@Hart's-tongue@|@d'la langue dé boeu@
+@harvest@|@l'avoût@
+@harvest (of potatoes)@|@lé dêfouissage@
+@harvest moon@|@l'avouôt'rêsse, la leune d'avoût@
+@harvest of potatoes@|@la dêfouithie, lé dêfouissage@
+@harvester@|@l'avouôteux, lé dgèrbeux, lé scieux@
+@harvest-spider@|@lé couôsîn, lé pêtre d'avoût, lé prêtre@
+@harvest-time@|@la sciêthie@
+@has war@|@Tchi tèrre a-dgèrre a@
+@hashish@|@lé hachisch@
+@hat@|@lé chapé@
+@hatchway@|@l'êcoutil'ye@
+@hauling@|@hal'lie@
+@haulm (of potato)@|@la vîngne dé patate@
+@haulm of potato@|@la vîngne dé patate@
+@haunted@|@enfaûtômé@
+@have@|@aver@
+@have a fit@|@tchaie du ma@
+@have a frog in the throat@|@aver un rat dans la gorge@
+@have again@|@èraver@
+@Haw@|@d'la bague@
+@Hawaiian@|@Hawaiien@
+@hawk up phlegm@|@râqu'ter des flieunmes@
+@hawker@|@lé chinneux, lé colporteux, lé hotteux@
+@hawser@|@eune aussiéthe, l'aussiéthe@
+@Hawthorn@|@d'la blianche êpîngne@
+@hay@|@lé fain@
+@hay fever@|@la maladie du fain@
+@hay ladders@|@l's êclons@
+@hay rake@|@piègne à chorchi@
+@haycart@|@la tchéthette à fain, lé hèrnais à êclon@
+@hayloft@|@lé f'nîn, lé solyi à fain@
+@haymaking@|@la f'naison@
+@hayrake@|@lé râté à fain@
+@haystack@|@la vieillotte@
+@haze@|@lé hâsîn@
+@Hazel@|@un codriyi@
+@hazelnut@|@la codrette@
+@he@|@il@
+@he would give@|@i' donn'nait@
+@head@|@la tête@
+@head of a coven@|@la néthe méthe@
+@head of hair@|@eune têtée dé g'veux@
+@headache@|@lé ma d'tête@
+@headlamp@|@la veue@
+@headland@|@la fouoyéthe@
+@heap of stones@|@la mouaie@
+@hear@|@ouï@
+@Heard and McDonald Islands@|@Îles dé Heard et McDonald@
+@hearse@|@la hèrse@
+@heart@|@lé tchoeu@
+@heartbeat@|@lé battement@
+@heartburn@|@l'hièrredouais@
+@hearth@|@l'âtre, lé fouoyi@
+@hearts@|@du tchoeu@
+@heat rash@|@d'l'êcaûffîn@
+@Heath Milkwort@|@d'la stchinnancie@
+@Heather@|@d'la brüethe@
+@Heather Groundsel@|@du s'nichon@
+@heave to@|@mettre à la cape@
+@Heaven@|@lé Paradis@
+@heavenly@|@céleste@
+@heavy@|@b'sant@
+@heavy artillery@|@l'artill'lie d'pid@
+@heavy soil@|@la forte tèrre@
+@hedge@|@eune bantchie, la bantchie@
+@hedge bank@|@lé fôssé@
+@Hedge Mustard@|@du pid-d'ouaîsé@
+@hedge sparrow@|@un mouosson d'fôssé@
+@hedge warbler@|@un mouesson à p'tit bé, un vèrdreu@
+@Hedge Woundwort@|@d'couochon, d'l'hèbe, d'l'ortchie puante@
+@Hedge Woundwort (1)@|@d'l'enchens@
+@hedgehog@|@lé hérisson@
+@hedge-sparrow@|@un p'tit bé, un p'tit jèrriais@
+@heel@|@lé talon@
+@heifer@|@la geniche@
+@height@|@la haûteu@
+@heinous crime@|@un forfait@
+@helicopter@|@lé hélicoptéthe@
+@Helier@|@Hélyi@
+@heliotrope@|@héliotrope@
+@Hell@|@l'Enfé@
+@Hellebore (black)@|@la rose dé Noué@
+@hello@|@bouônjour@
+@Hello@|@Salut@
+@helm@|@la barre@
+@Helmet of Orion@|@lé chapé@
+@helmsman@|@lé bârryi@
+@help@|@aîdgi@
+@Help him to empty the water@|@Aîdgiz-lî à viédgi l'ieau@
+@Help!@|@Arrête, Arrêtez!@
+@hem@|@l'ouôlet, l'ouôlîn, toussôter@
+@Hemlock@|@d'la bênarde@
+@Hemlock Water-dropwort@|@d'la chue@
+@Hemp@|@du cannevi@
+@Hemp Agrimony@|@d'la jalousie sauvage@
+@hen@|@eune glinne, eune poule, la g'linne, la poule@
+@Henbane@|@d'la hannebanne@
+@henhouse (and run)@|@lé poulailli@
+@henpecked@|@dêbraiesi@
+@Herb-Robert@|@du rouoge-pid, du rouoget@
+@herbs@|@l's hèrbes@
+@herd@|@la troupe, lé fliotchet, lé troupé@
+@heritage@|@l'héthitage@
+@hernia@|@eune rompeuse@
+@heron@|@un héron, un héthon@
+@herpes@|@l's hèrpies@
+@herring@|@un héthan@
+@he's kicked the bucket@|@il a sauté san dèrnié pas@
+@hiccup@|@hiqu'ter@
+@hiccups@|@lé hitchet@
+@hide@|@muchi@
+@hide again@|@èrmuchi@
+@hiding@|@eune garcette, eune râcliée, eune ronde@
+@high@|@haut@
+@high axle cart@|@lé quart-bas@
+@high chair@|@la haute tchaise@
+@high rafter@|@la hanque@
+@high tide@|@lé haut dg'ieau@
+@highly educated@|@êdutchi jusqu'ès dents@
+@highwayman@|@lé voleux d'grand'cmîn@
+@hill@|@lé mont@
+@hillock@|@la butchiéthe@
+@Hindi@|@Îndgien@
+@hip@|@la hanque@
+@historian@|@un historien@
+@historic@|@historique@
+@history@|@l'histouaithe@
+@hit@|@battre@
+@hit in the face@|@torchi la goule@
+@hitch@|@eune clié@
+@hive@|@la rueûque@
+@hoarder@|@lé ragdaleux, lé ragoteux@
+@Hoary Stock@|@d'la violette d'êté@
+@hobnailed boots@|@les bottes à cliou@
+@hod@|@hotte, ouaîsé, porte-mortchi@
+@hoe@|@griffon, houette@
+@Hogweed@|@d'la bênarde, du painfais@
+@hold@|@la câle, tcheindre@
+@Holland@|@Hollande@
+@hollow@|@lé creux@
+@Holly@|@un housse@
+@hollyhock@|@rose en bâton@
+@Hollyhock@|@la rose en bâton@
+@holy@|@saint@
+@Holy Land@|@Tèrre Sainte@
+@Holy Scripture@|@les Saintes Êcrituthes@
+@Holy Spirit@|@lé Saint-Esprit@
+@home page@|@la page d'siez-mé@
+@homework@|@lé d'ver@
+@homicide@|@l'homicide@
+@Honduras@|@Honduras@
+@honesty@|@d'la monnaie dé pape@
+@honey@|@lé myi@
+@honey bee@|@la moûque à myi, lé bourdon à myi@
+@honeymoon@|@la leune dé myi@
+@Honeysuckle@|@du chuchet@
+@Hong Kong@|@Hong Kong@
+@Honorary Police@|@la Police Honorifique@
+@hook for collar chain@|@l'avanchon@
+@hook for rear harness@|@lé cro d'la tchulasse@
+@hooligan@|@l'ouaiyou@
+@hoop-net@|@lé libet@
+@hooves@|@les chabots@
+@Hop@|@du houbillon@
+@hope@|@espéther@
+@horizon@|@l'horizon@
+@Hornbeam@|@la charmille@
+@hornet@|@lé frêlon@
+@horse@|@lé j'va@
+@Horse Chestnut@|@un chât'nyi à j'va@
+@horse collar@|@un bouôrré@
+@horse collar chains@|@les courts traits@
+@horse shoe@|@lé fé à j'va@
+@horsefly@|@lé taon@
+@horse-mackerel@|@un cârré@
+@Horse-radish@|@d'la radiche à j'vaux, la radiche à j'vaux@
+@horsetail@|@d'la coue d'rat@
+@horsey@|@jojo@
+@horticulture@|@l'hortitchultuthe@
+@hose@|@lé tchuyau, tchuyau@
+@hospital@|@hôpita, l'hôpita@
+@hot@|@chaûdé, lé chaûdé@
+@hot water tap@|@lé coq à ieau caude@
+@hot weather@|@eune arsion@
+@hotel@|@hôtel@
+@hôtelier@|@l'hôtelyi@
+@hound's tongue@|@d'la langue dé tchian@
+@hour@|@eune heuthe@
+@hourglass@|@eune hôlouoge à sablion@
+@house@|@la maîson, maîson@
+@house cricket@|@lé critchet d'âtre@
+@house martin@|@un marté, un martîn@
+@house sparrow@|@un gros-bé, un mouesson, un mouesson à gros bé@
+@house sparrow (1)@|@un mouosson@
+@housefly@|@la moûque dé tchuîsinne@
+@Houseleek@|@d'la jombarbe@
+@housewife@|@la femme dé mênage@
+@hove to@|@à la cape@
+@How are you?@|@Coumme est qu' tu'es?, Coumme est qu'ous êtes?@
+@How are you? (1)@|@Comment va?@
+@how much is it?@|@Combein qu'ch'est?@
+@How much is this?@|@Combein qu'ch'est?@
+@hub@|@lé moueu@
+@Hubert@|@Hébèrt, Hubèrt@
+@hug the wind@|@pînchi l'vent@
+@Hugarian@|@Hongrien, Hongrouais@
+@hull@|@la côsse@
+@hum@|@monmer@
+@human rights@|@les drouaits d'l'houmme@
+@hundred@|@chent@
+@hundred two@|@chent deux@
+@hundred-one@|@chent ieune@
+@hundredweight@|@un chent@
+@Hungary@|@Hongrie@
+@hurdy-gurdy@|@eune chifournie@
+@hurry@|@dêpêchi@
+@hurt@|@baba, ma-ma@
+@husband@|@lé bouonhoumme@
+@hussy@|@la donzelle@
+@Hybrid or Dutch Elm@|@d'l'orme Dgèrnésy, d'la blianche orme@
+@Hybrid or Dutch Elm (1)@|@d'l'orme Dgèrnésiaise@
+@hydrangea@|@palme@
+@hymn@|@lé cantique, un cantique@
+@hypochondriac@|@un pliaide-malade@
+@hypocrite@|@lé doubl'ye-fache@
+@hyssop@|@l'hysope@
+@hysteria@|@la maladie malinne@
+@I@|@j'@
+@I don't understand@|@Jé n'comprends pon@
+@I feel giddy@|@la tête mé touônne@
+@I love you@|@J't'adouothe, J't'aime@
+@I made a slip of the tongue@|@la langue m'a fourtchi@
+@I need...@|@i' m'faut....@
+@I speak@|@j'pâle@
+@I spoke@|@j'pâlais@
+@I want@|@j'veurs@
+@I will speak@|@j'pâl'lai@
+@ice@|@la gliaiche@
+@iceberg@|@la montangne dé gliaiche@
+@Iceland@|@Islande@
+@iceplant@|@d'la g'lée, du corâl@
+@Idahoan@|@Idahouais@
+@idiot@|@idgiot@
+@idolatry@|@l'idolâtrie@
+@ignoramus@|@l'îngnot@
+@Illinoisan@|@Illinnouaisien@
+@illness@|@la maladie, les maux@
+@illuminate@|@illeuminner@
+@I'm fine thanks. And you?@|@et té/vos?, Jé sis d'charme, mèrcie@
+@imbecile@|@l'îmbécile@
+@important person@|@lé notabl'ye@
+@improve@|@amender@
+@in bulk@|@en boulque@
+@in shore@|@lé bord à tèrre@
+@in sight@|@à veue dg'yi@
+@in the roads@|@en rade@
+@in the wink of an eye@|@dans un clyîn dg'yi@
+@incense@|@l'enchens@
+@income@|@lé r'vénu@
+@India@|@Înde@
+@Indian corn@|@lé maïs@
+@Indian Ocean@|@l'Océan Îndgien@
+@Indian summer@|@lé p'tit êté@
+@Indianan@|@Îndiannien@
+@individual@|@l'îndividu@
+@Indonesia@|@Îndonésie@
+@indonesian@|@Îndonésien@
+@Industrial Revolution@|@la Révolution Îndustrielle@
+@ingredient for a spell@|@un chorchéthon@
+@inhabitant@|@l'habitant@
+@injection@|@eune înjection, l'înjection@
+@injector@|@l'înjecteux@
+@ink@|@l'encre@
+@inkwell@|@l'encriyi@
+@inlet@|@lé portélet@
+@inner tube@|@la chambre à air@
+@innocent@|@innouothant@
+@innoculation@|@l'înnotchulâtio, l'înnotchulâtion@
+@insect bite@|@eune pitcheuse@
+@inside rails@|@les timons@
+@inspector@|@l'înspecteux@
+@insurance@|@l'asseûthance@
+@insurance agency@|@agence d'asseûthance@
+@interest@|@l'întethêt@
+@interest free@|@sans întéthêt@
+@interesting@|@întéthêssant@
+@Internet@|@l'Înternet@
+@interpreter@|@l'întèrprète@
+@interview@|@eune entréveue@
+@intestines@|@les bouoyaux@
+@introducer@|@l'întroducteur@
+@intruder@|@l'întrus@
+@invasion@|@l'învâsion@
+@inventor@|@l'înventeux@
+@Ionian Sea@|@la Mé Ionienne@
+@Iowan@|@Iowais@
+@Iran@|@Iran@
+@Iranian@|@Pèrse@
+@Iraq@|@Iraq@
+@Ireland@|@Irlande@
+@Irish@|@Irlandais@
+@Irish Sea@|@la Mé Irlandaise@
+@iron@|@fé, lé fé@
+@iron age@|@l'âgé dé fé@
+@iron filings@|@lînmage@
+@iron plating@|@la pliataine en fé@
+@iron rim@|@un cèrcl'ye dé fé@
+@ironing@|@lé féthage@
+@ironmonger@|@lé tchincailli@
+@ironmonger's@|@tchîncaill'lie@
+@ironmongery@|@la tchîncaill'lie@
+@is that all?@|@ch'est tout?@
+@is there anything else?@|@y'a-t-i' acouo tchiquechose?@
+@islam@|@cliatch@
+@island@|@l'île@
+@Isle of Man@|@Île dé Man@
+@islet@|@l'îlet@
+@Israel@|@Israël@
+@it is cold@|@I' fait fraid@
+@it is hot@|@I' fait caud@
+@Italian@|@Italien@
+@Italian Lords-and Ladies@|@du pitouais@
+@Italian Rye-grass@|@d'l'hèrbe Italienne@
+@Italy@|@Italie@
+@It's a cat she's got@|@Ch'est un cat qu'oulle a@
+@it's blowing a gale@|@i' vente la pé du dgiâbl'ye@
+@ivory@|@iviéthe@
+@ivy@|@du dgèrrue@
+@jack@|@lé valet@
+@Jack@|@Jacques@
+@jack of all trades@|@l'homme à tout faithe@
+@Jack or Wild Gladiolus@|@d's êtchelles dé Jâcob@
+@jack plane@|@roufflieux, roufliard@
+@jack snipe@|@la p'tite bécachinne@
+@jackdaw@|@la p'tite caûvette@
+@jack-o'lantern@|@lé balle-à-leunettes@
+@jack-screw@|@tchian@
+@Jacob@|@Jâcob@
+@Jamaica@|@Jamaïque@
+@January@|@Janvyi@
+@Japan@|@Japon@
+@japanese@|@Japonnais@
+@jaundice@|@lé jaûnisse@
+@jaw@|@la mâchouaithe@
+@jay@|@un geai@
+@Jeanette@|@Jeanneton, Jénîn, Jennîn@
+@jeans@|@les jeans@
+@jelly-fish@|@eune leune@
+@jemmy@|@dgiabl'ye@
+@jerkin@|@lé jèrtchîn@
+@Jèrriais@|@lé Jèrriais@
+@jersey@|@lé blianchet d'oeuvre, lé corset d'oeuvre@
+@Jersey@|@Jèrri@
+@Jersey bank-vole@|@lé mulot@
+@Jersey cabbage@|@lé chour@
+@Jersey cow@|@la vaque Jèrriaise@
+@Jersey Cudweed@|@la cotonniéthe@
+@Jersey Fern@|@du ou d'la capillaithe@
+@Jersey language@|@Jèrriais@
+@Jersey Lily@|@des belles-toutes-nues (f )@
+@Jersey Royal@|@la Rouoyale@
+@Jersey 'simnel'@|@lé sînm'né@
+@Jersey Thrift@|@d's iliets d'mielle@
+@Jersey 'wonder'@|@la mèrvelle@
+@Jerseymam@|@Jèrriais@
+@Jerseyman@|@Dgèrnésy@
+@Jerusalem@|@Jérusalem@
+@Jerusalem artichoke@|@la paithe dé tèrre@
+@jet@|@du jais, jais, l'avion à réaction@
+@jetty@|@la caûchie@
+@jeweller@|@bijoutchi, lé bijoutchi, lé jouailli@
+@jeweller's@|@la bijout'tie@
+@Jimmy@|@Dgémîn, Jînmîn@
+@job@|@dgiabbe@
+@John@|@Jean@
+@John Dory@|@un Jean-doré@
+@Johnny@|@Dgeannot, Jeannot@
+@join@|@joindre@
+@joint@|@lé rôti@
+@jointing plane@|@jointcheux, vèrlope@
+@joist@|@un rouai@
+@Jonas@|@Jônas@
+@Jordan@|@Jourdain@
+@jostle@|@bostchuler@
+@journalist@|@lé journaliste@
+@journey@|@un viage@
+@journeys@|@viages@
+@judge@|@jurat, lé juge@
+@judgement@|@lé jugement@
+@jug@|@la canne, la dgougue, la jougue, lé bro@
+@July@|@Juilet@
+@jump@|@sauter@
+@June@|@Juîn@
+@Jupiter@|@Jupiter@
+@jurat@|@un juré@
+@jury@|@lé jury@
+@justice@|@la justice@
+@jutting stone@|@un raccro@
+@kangaroo@|@lé kangarou@
+@Kansan@|@Kansan, Kansassien@
+@Kazakhstan@|@Kazakhstan@
+@keel@|@la tchelle@
+@Keeled Cornsalad@|@d'la bourse@
+@keelson@|@la tchèrlîngue@
+@keep@|@garder@
+@keep accounts@|@garder les livres@
+@keeper@|@lé gardgien@
+@Kemperle@|@Tchîmpèrlé@
+@kennel@|@la câniche, la niche@
+@Kentuckian@|@Kentutchien@
+@Kenya@|@Kenya@
+@kestrel@|@un êteurcélet, un teurcélet, un torsolé@
+@kettle@|@ticl'ye@
+@kettle spout@|@lé bé du ticl'ye@
+@key@|@la clié@
+@keyboard@|@lé cliavé@
+@keyhole saw@|@pâsse-partout@
+@khaki@|@lé kaki@
+@kickstand@|@les bétchil'yes@
+@kid@|@la bichette, lé p'tit bichot@
+@kidney@|@lé rein, lé rîngnon@
+@Kievan@|@Kiévien@
+@kill@|@occi, tuer@
+@killer@|@lé tueux@
+@kingdom@|@lé rouoyaume@
+@kingfisher@|@pêtcheux, un pêtcheux d'St. Martîn, un St. Martin@
+@kingfisher (1)@|@un St. Martinnais@
+@king's evil@|@lé mal au rouai@
+@kipper@|@lé héthan feunmé@
+@Kiribati@|@Kiribati@
+@kiss@|@embraichi, maime, un baîsi@
+@kissing@|@l'embraich'chie@
+@kitchen@|@la tchuîsinne@
+@kitchen range@|@lé grais à fou@
+@kitchen table@|@la tabl'ye d'tchuîsinne@
+@kitchen utensils@|@bat'tie d'tchuîsinne, la batt'tie d'tchuîsinne@
+@kitten@|@lé caton@
+@knacker@|@l'êquathisseux@
+@knee@|@lé g'nou@
+@kneecap@|@la palette du g'nou@
+@kneel@|@s'agenouoilli@
+@knickers@|@des drâses, drâses@
+@knife@|@couté, lé couté@
+@knitting@|@l'oeuvre@
+@knock@|@taper@
+@knock down@|@abattre@
+@knot@|@la bécachinne dé grève@
+@Knotgrass@|@d'la s'nîle traînante, d'lasoucique, s'nîle à pité@
+@Knotgrass (1)@|@hèrbe traînante, s'nîle dé route, s'nîle grappue@
+@Knotgrass (2)@|@hèrbe couothante@
+@know@|@connaître, saver@
+@knowledge of the occult@|@lé scîn@
+@knuckle@|@la jointe@
+@kohlrabi@|@lé kohlrabi@
+@Korean@|@Coréen@
+@Kuwait@|@Kuwait@
+@Kyrgyzstan@|@Kyrgyzstan@
+@la Jaune Mé@|@Yellow River@
+@la Jaune Riviéthe@|@Yellow River@
+@Laburnum@|@des chabots, lé plieuthant@
+@lace@|@dentelle, lachi@
+@ladder@|@l'êtchelle@
+@ladder-rope@|@l'iérrîn@
+@ladle@|@dréch'rêsse, la dréch'rêsse@
+@lady@|@la danme@
+@lady crab@|@eune crabe grégeaise@
+@ladybird@|@la paqu'nôte@
+@Lady's Bedstraw@|@du myi d'mielle@
+@lady's mantle@|@la pentecôte@
+@Lady's Smock@|@des pentecôtes@
+@lake@|@lé lac@
+@lamb@|@l'angné@
+@lame person@|@lé hampion@
+@Laminaria saccharina@|@lé collet@
+@land@|@aborder@
+@land surveyor@|@l'arpenteux@
+@landing@|@la tripselle dé la montée@
+@languages@|@les langues@
+@lanky person@|@l'êlîndgi@
+@Laos@|@Laos@
+@lap@|@cliapoter, lapper@
+@laptop@|@lé p'tit compiuteu@
+@lapwing@|@eune pievie@
+@Larch@|@un mélèze@
+@lard@|@la molle graisse@
+@large ballan wrasse@|@un couotheux@
+@large skate@|@un dravan@
+@Large-flowered Pink-sorrel@|@du trêfl'ye à ouognons@
+@larkspur@|@du pid-d'alouette@
+@lash@|@la frangue, la lache, la lanniéthe@
+@last@|@dèrnyi, duther, pid d'fé@
+@last week@|@la s'maine pâssée@
+@last year@|@l'année pâssée@
+@latecomer@|@lé r'tardataithe@
+@lath@|@eune latte@
+@lather@|@la savonnée, savonnée@
+@Latin@|@Lé Latîn@
+@Latvia@|@Lettonnie@
+@laugh@|@rithe@
+@laughing stock@|@la riselée@
+@launch@|@affliouer, lanchi@
+@launching@|@la lanch'chie@
+@Laurel@|@du louothi, du louothyi@
+@Laurustinus@|@du laurientîn, du louothentîn@
+@lavender cotton@|@d'la lavande cotonnée@
+@lavoir@|@un dou à laver@
+@law@|@la louai@
+@lawn@|@un partèrre d'hèrbe@
+@Lawrence@|@Louothains@
+@lay@|@couochi@
+@lay up@|@mettre en rade@
+@layer (of eggs)@|@la pond'rêsse, ponn'rêsse@
+@lazy person@|@lé pièrcheux@
+@lazybones@|@lé bat-les-banques, lé boltaithe, lé faîniant@
+@lazybones (1)@|@lé scoltcheux@
+@Le Havre@|@lé hâvre@
+@lead@|@m'ner, pliomb@
+@leaf@|@la fielle@
+@lean@|@s'canter@
+@lean back against@|@s'adôsser@
+@lean on one's elbows@|@s'accouter@
+@lean-to@|@l'appentis@
+@leap year@|@eune année bissextile@
+@leat@|@lé byi@
+@leather@|@tchui@
+@leather loop for shafts@|@les portes dé tchui@
+@leather strap@|@la strape (en tchui)@
+@leave@|@laîssi, tchitter@
+@Lebanon@|@Liban@
+@lecture@|@la conféthence@
+@ledge@|@un bantchet@
+@leek@|@lé pouothé@
+@leeward@|@lé bord du vent, souos l'vent@
+@Leeward Isles@|@L's Îles souos l'Vent@
+@left@|@la gauche@
+@leg@|@gamble, la gambe@
+@legal@|@légal@
+@legislation@|@la législâtion@
+@legislator@|@lé législateu@
+@legislature@|@la législatuthe@
+@legs@|@les gambes@
+@lemon@|@lé limon@
+@Lemon Balm@|@du piment@
+@Lemon tree@|@lé limongni@
+@length@|@la londgeu@
+@Lent@|@lé Tchithême@
+@Lesotho@|@Lesotho@
+@Lesser Burdock@|@de l'ouothelle d'âne, des prannants@
+@Lesser Celandine@|@du morrhouiton@
+@Lesser Spearwort@|@des maillettes@
+@Lesser Swine@|@du cresson à couochons@
+@lesson@|@la léçon, leçon, lichon@
+@Letonian@|@Letton@
+@letter@|@la lettre@
+@letter box@|@eune boête à lettres, la boête à lettres@
+@lettuce@|@la laitue@
+@liar@|@lé mensongi, lé menteux@
+@liberal@|@libéral@
+@Liberation Day@|@lé Jour d'la Libéthâtion@
+@Liberia@|@Libérie@
+@liberty@|@la libèrté@
+@library@|@bibliothèque, la bibliothèque@
+@Libya@|@Libye@
+@lick@|@litchi@
+@Liechtenstein@|@Liechtenstein@
+@Lieutenant-Governor@|@lé Lieut'nant-Gouvèrneux@
+@lifebelt@|@la boule d'sauvetage@
+@lifeboat@|@lé baté d'sauvetage@
+@lift@|@l'ascenseux@
+@light@|@alleunmer, cliai, la veue, ligi@
+@light cart@|@la tchéthette@
+@light cloud@|@d'la fliaue@
+@lighthouse@|@la veue@
+@lightning@|@l'êpart@
+@lights@|@les veues@
+@like@|@aimer@
+@Lilac@|@du lilas@
+@lime@|@caux@
+@Lime@|@un tilleul@
+@limestone@|@la pièrre dé caux, pièrre dé caux@
+@limit@|@lînmiter@
+@limpet@|@un baîni@
+@lined@|@èrdoublié@
+@linen@|@lînge@
+@ling@|@un lîn@
+@lining@|@eune doublieuse@
+@link@|@lian, un lian@
+@link of a chain@|@un lian@
+@linnet (female)@|@eune linnotte, un gris linnot@
+@linnet (male)@|@un linnot, un rouoge linnot@
+@lion@|@lé lion@
+@lip@|@la lèvre@
+@liqueur@|@la litcheu@
+@liquid@|@litchide@
+@liquorice@|@lé ricolisse@
+@list@|@canter@
+@listen@|@êcouter@
+@listener@|@l'êcouteux@
+@litany@|@la litannie@
+@literary@|@littéthaithe@
+@literature@|@la littéthatuthe@
+@Lithuania@|@Lithuanie@
+@Lithuanian@|@Lithuanien@
+@litter@|@la câlée, la nichie, la portée@
+@litter bin@|@bathi à tés, un bathi à tés@
+@little devil@|@un dgiâbliotîn@
+@live@|@d'meuther, vivre@
+@liver@|@d'la faie, lé faie@
+@liver pâté@|@lé pâté dé faie@
+@living-room@|@la salle@
+@lizard@|@la lêzarde@
+@Ljubljanan@|@Ljubljannais@
+@loach@|@la louoche@
+@lobster@|@un honmard@
+@lobster (female)@|@eune mouaithe@
+@local stamp@|@un tîmbre local@
+@lockable storage@|@les fréminnes@
+@locker@|@l'aûmathe, l'aûmathe dé baté, lé codîn@
+@loft (over main house)@|@lé galetas@
+@loft (over out-buildings)@|@lé solyi@
+@lollipop@|@lé chucre d'orge@
+@London@|@Londres@
+@Londoner@|@Londronnais@
+@long@|@long@
+@long ago@|@dans les touos vièrs temps@
+@long live the king!@|@lé rouai vit!@
+@long-handled stirrer@|@rabot@
+@long-tailed tit@|@eune soucique@
+@look@|@èrgarder, un èrgard@
+@look after@|@souongni@
+@look for@|@chèrchi@
+@lookout@|@lé dgetteux@
+@loop for harnessing 2nd horse@|@eune hangne dé pot@
+@loose vraic@|@d'l'êcappillon, du vrai taillais@
+@Loose-flowered Orchid@|@des pentecôtes@
+@looter@|@lé pilleux, un pilleux@
+@looting@|@lé pillage@
+@Lords-and-Ladies@|@du pitouais@
+@loser@|@lé pèrdant@
+@lottery kiosk@|@lé kiosque d'lot'tie@
+@loudmouth@|@lé dgeuleux@
+@Louisa@|@Louiseu, Loulou@
+@Louisiana@|@Louisianne@
+@Louisianan@|@Louisiannien@
+@louse@|@la crabe, lé bliu, lé poux@
+@love@|@aimer, l'amour@
+@love and marry@|@L'amour et l'mathiage@
+@Love-in-a-mist@|@la barbe d'la reine, lé dgiâbl'ye en brousse@
+@Love-in-a-mist (1)@|@ou dgiâbl'ye dans la brousse@
+@lover (f)@|@l'amouotheuse@
+@lover (m)@|@l'amouotheux@
+@low@|@bas@
+@low axle cart@|@lé d'mié-bas@
+@low water@|@lé bas-dg'ieau@
+@lower@|@baîssi@
+@lower mast(s)@|@lé bas mât, les bas-mâts@
+@low-grade vraic@|@du fieilli, du fieillu@
+@Lucerne@|@d'la lûzèrne@
+@luff of sail@|@lé lof, lof d'eune vaile@
+@Luke@|@Luc@
+@lullaby@|@la bèrcheuse@
+@lumbago@|@lé mal ès reins@
+@lumber-room@|@l'èrtithe-tout@
+@lumpsucker@|@un paffot@
+@lump-sucker@|@eune poule d'ieau@
+@lunatic@|@lé leunatique@
+@lung@|@lé ponmon@
+@lupin@|@du pais lupîn@
+@Luxembourg@|@Luxembourg@
+@Macao@|@Macao@
+@Mace@|@la Mâsse@
+@Macedonia@|@Macédoine@
+@mackerel@|@un maqu'thé@
+@mackerel sky@|@un ciel dé maqu'thé@
+@mad person@|@l'însensé@
+@Madagascar@|@Madagascar@
+@madeira@|@lé madère@
+@Madeira@|@Madère@
+@Madeiran@|@Madèran@
+@madman@|@lé fo@
+@Madonna lily@|@du sâbre dé la Vièrge@
+@madwoman@|@la folle@
+@magazine@|@lé magasîn@
+@maggot@|@lé magot@
+@magic@|@la magie@
+@magician@|@lé magicien@
+@magistrate@|@un magistrat@
+@magnet@|@aimant@
+@magnifying glass@|@un vèrre d'approche, vèrre d'approche@
+@Magnolia@|@un magnolia@
+@magpie (female)@|@eune mèrgot, eune pie@
+@magpie (male)@|@un piêté@
+@mahogany@|@méaguinné@
+@Mahogany@|@l'acajou, lé méaguinné@
+@Maidenhair-fern@|@du ou d'la capillaithe@
+@mail@|@lé courrier@
+@main topgallant-sail@|@lé grand pèrrotchet@
+@Mainer@|@Mainais, Mainien@
+@main-mast@|@lé grand mât@
+@main-sail@|@la grand' vaile@
+@main-yard@|@la grand' vèrgue@
+@Majorcan@|@Majortchain@
+@majority@|@la mâjorité@
+@make a row@|@criailli@
+@make a tack@|@couôrre eune bordée, faithe un bord@
+@make fun of@|@motchi@
+@making@|@faîs'sie@
+@Malawi@|@Malawi@
+@Malayan@|@Malais@
+@Malaysia@|@Malaysie@
+@Malcolm@|@Malquamme@
+@malcontent@|@lé malcontent@
+@Maldives@|@Maldives@
+@Mali@|@Mali, Mali@
+@malingering@|@la maladie au r'nard@
+@mallard@|@un maillard@
+@mallet@|@maîlloche@
+@Malta@|@Malte@
+@Maltese@|@Maltais@
+@Man in the Moon@|@l'Houmme dans la Leune, Porte-Fagot@
+@man of means@|@lé rentchi@
+@manage@|@mênagi@
+@manager@|@lé gérant, lé mênagi@
+@mandrel@|@mandrîn@
+@mane@|@lé crîn@
+@Manitoba@|@Manitoba@
+@Manitoban@|@Manitobain@
+@manly woman@|@la hale-fraque@
+@manrope knot@|@un noeud d'ièrrîn@
+@manure@|@lé conré, lé feunmyi@
+@manure (liquid)@|@l'êpu@
+@Manx@|@Manx@
+@Many happy returns@|@J'vouos souhaite jouaie@
+@Many-seeded Goosefoot@|@d'la rouoge s'nîle, du rouoge pid@
+@marble@|@du marbre, marbre@
+@March@|@Mar@
+@marchioness@|@la martchise@
+@mare@|@la jeunment@
+@Margaret@|@Marguérite, Mèrdgitte, Mèrgot, Mèrgotte, Mèrgotton@
+@marjoram@|@la marjolaine@
+@Mark@|@Mar@
+@marker@|@lé mèrtcheu@
+@market@|@lé marchi, marchi@
+@market stall@|@eune halle@
+@Maroccan@|@Marotchain@
+@marquess@|@lé martchis@
+@Marram@|@du melgreu@
+@marriage@|@lé mathiage, un mathiage@
+@marriage licence@|@eune dispense dé mathiage@
+@marrow@|@la courge, lé m'lon@
+@marry@|@mathier@
+@Mars@|@Mars@
+@Marseillais@|@Marseillais@
+@marsh@|@lé mathais@
+@Marsh Thistle@|@du tcheurdron@
+@Marsh Woundwort@|@d'l'orvale@
+@Marshall Islands@|@Îles Marshall@
+@Marshwort@|@la sûthe-ieau, lé pavet@
+@marten@|@la martre@
+@Martin@|@Martîn@
+@Martinique@|@Martinique@
+@Martiniquese@|@Martinnitchais@
+@martyr@|@lé martyr@
+@marvel of Peru@|@des belles-dé-niet@
+@Mary@|@Manon, Marie, Mathie, Mathotte, Mèrrotte, Micotte@
+@Mary Ann@|@Mêrrienne, Micotte@
+@Marylander@|@Marylandîn@
+@mask@|@eune vîsagiéthe@
+@masonry@|@la machonn'nie@
+@Mass@|@la mêsse@
+@massacre@|@la machacréthie, lé machacre, un machacre@
+@masseur@|@lé masseux@
+@mat@|@la natte@
+@material@|@l'êtoffe, lé matériel@
+@maternity@|@la matèrnité@
+@maths@|@les mathématiques@
+@matron@|@la matronne@
+@Matthew@|@Matchi@
+@mattress@|@lé matenas@
+@Mauritania@|@Mauritannie@
+@Mauritius@|@Île Maurice@
+@Maxican@|@Mexitchain@
+@May@|@Mai@
+@may-bug@|@lé hanneton@
+@may-fly@|@la moûque d'un jour@
+@mayor@|@lé maire@
+@Mayotte@|@Mayotte@
+@mead@|@lé baûtchet, lé vitoué@
+@meadow pipit@|@eune alouette dé mielle, un pievis@
+@meadow pipit (1)@|@eune p'tite alouette@
+@Meadow sweet@|@la reine des prés@
+@meadowsweet@|@d'la reine-des-prés@
+@measles@|@la rouogeule@
+@measure@|@la m'suthe@
+@mechanic@|@lé mécanicien@
+@meddler@|@lé paûque-en-pot@
+@medecine@|@la méd'cinn'nie, la méd'cinne@
+@media release@|@un commeunitchi ès médias@
+@Mediterranean@|@la Méditerrannée, lé Dêtrait@
+@Medlar@|@un meîlyi@
+@meet@|@rencontrer@
+@meeting@|@la rêunion@
+@megabyte@|@mégabouochie@
+@melody@|@la mélodie@
+@melon@|@lé m'lon@
+@member@|@lé membre@
+@memory@|@la mémouaithe@
+@memory stick@|@eune badgette dé mémouaithe@
+@mend@|@èrgraie, racc'moder@
+@mental arithmetic@|@lé caltchul du sens d'sa tête@
+@menu@|@lé m'nu@
+@mercenary@|@lé mèrcénaithe@
+@mercury@|@vif-argent@
+@Mercury@|@Mèrtchure@
+@merit@|@méthiter@
+@mermaid's purse@|@eune bourse au dgiâbl'ye, un crapaud d'mé@
+@mermaid's purse (1)@|@eune bourse, eune chiviéthe à bras@
+@Merry Christmas@|@Bouan Noué, Jouaiyeux Noué, Un Bouan Noué@
+@Merry Christmas!@|@Un Bouan Noué@
+@merry person@|@lé rieux@
+@messenger@|@lé messagi@
+@Messiah@|@lé Messie@
+@metal@|@méta@
+@metal dowels@|@des g'vil'yes en fé@
+@metal washer@|@rîndelle en fé@
+@meter reader@|@un m'sutheux d'êlectricité@
+@Methodist@|@un chap'lain, un Méthodiste, un Wesleyen@
+@mew@|@vioûler@
+@Mexican Fleabane@|@des mèrgots à pouochîns@
+@Mexico@|@Mexique@
+@miaouw@|@miaûner@
+@Michael@|@Miché@
+@Michaelmas Daisy@|@des mèrgots d'la St. Miché, l'îndgienne@
+@Michigander@|@Michigannien@
+@Micronesia@|@Micronésie@
+@microphone@|@lé microphône@
+@microwave@|@la micro-onde, un fou à micro-louêmes@
+@Middle Ages@|@l'Mouoyen Âge@
+@Middle East@|@Mouoyen Orient@
+@middle man@|@lé r'vendeux@
+@midge@|@lé bibet@
+@'mids' (potatoes)@|@les mouoyennes@
+@midwife@|@l'accouocheuse, la gardgienne, la sage-femme@
+@migraine@|@les bonds d'tête@
+@Milanese@|@Milannais@
+@milestone@|@la pièrre dé mille@
+@military@|@militaithe@
+@military review@|@les mouontres@
+@Militia@|@la Milice@
+@militiaman@|@lé milicien@
+@milk@|@doudou, lé lait, traithe@
+@milk jug@|@un laitchi@
+@milk o' punch@|@lé milk-é-pan'tch@
+@milk on the turn@|@lé lait bidoux@
+@milk straight from the cow@|@du lait doux@
+@milker@|@lé triyeux@
+@milking@|@la traite, la traithie@
+@milking jug@|@la canne à traithe@
+@milking stool@|@la scabelle à traithe@
+@milkman@|@lé laitchi, un laitchi@
+@milk-shake@|@un lait d'poule@
+@milky@|@laiteux@
+@Milky Way@|@les C'mîns d'St. Jacques@
+@millennium@|@un millénaithe@
+@miller@|@lé monnyi@
+@millionaire@|@lé millionnaithe@
+@millionth@|@lé/la millionnième@
+@millipede@|@lé mille-pids@
+@mill-pond@|@l'êcliuse@
+@mimic@|@lé d'ganneux@
+@mincemeat cake@|@la gâche fouôrrée@
+@mine@|@eune minne@
+@mineral@|@minnéra@
+@minister@|@lé minnistre@
+@ministry@|@lé ministéthe@
+@Minnesotan@|@Minnesotais, Minnesotchien@
+@minority@|@la minnorité@
+@mint@|@la menthe@
+@minuet@|@un ménuet@
+@miracle@|@lé mithacl'ye@
+@mirror@|@lé mitheux@
+@miscarriage@|@la fausse couoche@
+@miscellaneous vraic@|@du brêgeais, du brîngeais@
+@mischievous child@|@lé mêché@
+@miser@|@l'agravé, l'avare, lé finnailli, lé gratteux@
+@miser (1)@|@lé rapinneux, lé stégrîn@
+@miserly@|@stégrîn@
+@misogynist@|@lé haîsseux d'femmes@
+@miss@|@mantchi@
+@mission@|@la mission@
+@missionary@|@lé missionnaithe@
+@Mississippian@|@Mississippien@
+@Missourian@|@Missourien@
+@mist@|@lé bliâsîn@
+@mistle thrush@|@eune hèrbette, eune trâle, lé gris mêle@
+@mistle thrush (1)@|@lé jaune pliacard@
+@mistletoe@|@du dgi@
+@mistress@|@la contchubinne@
+@mite@|@eune mite@
+@mitre square@|@êtchèrre d'ongliet@
+@mitre-box@|@bosc à ongliet@
+@mitten@|@la mitaine, lé miton@
+@mixer@|@lé mixeu@
+@mizzen@|@la mîsaine, la vaile d'artimon@
+@mizzen mast@|@lé mât d'artimon@
+@mizzen top@|@la heune d'artimon@
+@mizzen topgallant-sail@|@la pèrruque@
+@moan@|@geindre@
+@moaner@|@lé nâdgeux@
+@mobile phone@|@lé téléphône dé pouchet, un téléphone dé pouchette@
+@mobilisation@|@la mobilisâtion@
+@modem@|@lé modem@
+@Moldavia@|@Moldova@
+@mole@|@la taupe, la vèche, lé taupîn@
+@mole-cricket@|@lé scorpion@
+@molehill@|@eune taupinniéthe@
+@Molly@|@Mollé@
+@Monaco@|@Monaco@
+@monastery@|@lé monastéthe@
+@Monday@|@Lundi@
+@money@|@les sou@
+@money-spider@|@lé pêtre à sou@
+@Mongolia@|@Mongolie@
+@mongrel dog@|@lé tchian mêlé@
+@monitor@|@l'moniteu@
+@monk@|@un mouaine@
+@monkey@|@lé marmoûset, lé sînge@
+@monkfish@|@un mouaine, un violon@
+@monkshood@|@du bliu bonnet, du bonnet turc@
+@Montanan@|@Montannais, Montannien@
+@Montbretia@|@d's êtchelles dé Jâcob@
+@month@|@un mais@
+@Montreal@|@Montréal@
+@Montrealer@|@Montréalais@
+@Montserrat@|@Montserrat@
+@monument@|@un monûment@
+@moo-cow@|@robinne@
+@moon@|@la lantèrne des pouôrres gens, la leune@
+@moon (1)@|@la lantèrne d'pâraîsse@
+@moor@|@la lande@
+@moorhen@|@eune poule dg'ieau@
+@moose@|@l'orîngna@
+@morning@|@lé matîn@
+@Morocco@|@Maroc@
+@mortal@|@mortel@
+@mortality@|@la mortalité@
+@mortar@|@lé mortchi, mortchi@
+@mortise chisel@|@bédane@
+@mortise gauge@|@caûcheux@
+@Moscow@|@Moscou@
+@Moses@|@Moïse@
+@mosquito@|@la moustique@
+@moth@|@l'ange, la cahuche, lé papillon d'niet@
+@motheaten@|@mangi des vèrs@
+@mother@|@la méthe, méthe@
+@mother-in-law@|@la belle-méthe@
+@mother-in-law's tongue@|@d'la langue dé belle-méthe@
+@Mothers' Day@|@la Fête des Méthes@
+@Motherwort@|@du picot@
+@motion@|@la motion@
+@motor@|@l'engîn@
+@motorbike@|@la motor-bike, motorbike@
+@mould@|@lé moûle@
+@moulding@|@la moûleuse@
+@moulding plane@|@moûleuse, rabot à moûleuse@
+@mountain@|@la montangne@
+@mouse@|@la souothis@
+@mouse mat@|@la natte à souothis@
+@moustache@|@eune moustache, la moustache@
+@mouth@|@la bouoche@
+@mouth off@|@dêdgeuler@
+@move@|@bouogi@
+@mower@|@eune faûcheuse@
+@mowing machine@|@la faûcheuse@
+@Mozambique@|@Mozambique@
+@mud@|@pité@
+@mudguard@|@lé garde-pité@
+@mug@|@lé godîn, mogue, mogue@
+@mugful@|@la modgie@
+@Mugwort@|@d'l'hèrbe d'St Jean@
+@mulled wine@|@lé vîn brûlé@
+@mullet@|@un mulet@
+@mullet (grey@|@rouoge), un mulet (gris)@
+@mullion@|@l'entré-panné@
+@multi-storey car park@|@bâtisse à stâtionner, lé bâtisse à stâtionner@
+@mummy@|@m'mèe@
+@mumps@|@l's ouothipieaux@
+@municipal@|@meunicipal@
+@municipality@|@la meunicipalité@
+@murder@|@lé meurtre@
+@murderer@|@lé meurtriyi@
+@murmur@|@murmuther, prôner@
+@muscle@|@lé muscle@
+@Muscovite@|@Moscovite@
+@muscovy duck@|@eune moscovie@
+@museum@|@un musée@
+@mushroom@|@lé champîngnon@
+@music@|@la musique@
+@musician@|@lé musicien, un musicien@
+@Musk Stork's-bill@|@d's êpîles à chorchièrs@
+@muskrat@|@lé rat mustchi@
+@muslin@|@la mousselinne@
+@mussel@|@la moûle, un bé d'corbîn, un orté dé g'niche@
+@must@|@d'ver, faller@
+@mustard@|@la moutarde@
+@mustard pot@|@lé moutardgi@
+@mutton@|@lé mouton@
+@My name is ...@|@Jé m'appelle ..., Jé sis ..., Man nom est ...@
+@my petal... (etc)@|@man doûdîn@
+@Myanmar@|@Myanmar@
+@Myrtle@|@un myrtre@
+@nail@|@cliou, l'ongl'ye@
+@nail-claw@|@hale-cliou@
+@nails@|@l's ongl'yes@
+@name@|@nommer@
+@Namibia@|@Namibie@
+@Nancy@|@Nancy, Nénai, Néné, Nénotte@
+@napkin@|@lé drapé@
+@Naples@|@Napl'yes@
+@Narcissi@|@des g'zettes (f), des pipots d'avri@
+@narrator@|@lé raconteux@
+@narrow@|@êtrait@
+@narrow beam@|@tenvre d'bord@
+@Nasturtium@|@d'la capuchinne@
+@nasty person@|@la rosse@
+@nation@|@la nâtion@
+@national@|@nâtional@
+@nationalism@|@lé nâtionalisme@
+@nationalist@|@lé nâtionaliste@
+@nationality@|@la nâtionalité@
+@Nauru@|@Nauru@
+@navel@|@lé nombrîn@
+@Navy@|@la Marinne@
+@NCO@|@lé souos-officyi@
+@neaping@|@lé r'tchiyant@
+@neap-tide@|@la morte-ieau@
+@Nebraskan@|@Nébrastchien@
+@neck@|@lé co@
+@necklace@|@lé colyi@
+@needle@|@aidgulle, eune aidgulle@
+@needlecase@|@un hâsif@
+@needle-case@|@l'êpîndgi@
+@needlework@|@la couôtuthe@
+@neglect@|@néglyigi@
+@neglectful person@|@lé laîsse-tout-faithe@
+@neigh@|@hîngni@
+@Nepal@|@Népal@
+@Nepalese@|@Nepali@
+@nephew@|@lé n'veu@
+@Neptune@|@Nepteune@
+@nerve@|@lé nèr@
+@nervous breakdown@|@la maladie d'nèrfs@
+@Netherlands Antilles@|@Antilles des Pays Bas@
+@Nettle-leaved Goosefoot@|@d'la vèrte s'nîle@
+@neuralgia@|@la ceingl'ye, lé tic douloureux@
+@Nevadan@|@Névadgien@
+@never@|@janmais@
+@new@|@nouvé@
+@New Brunswick@|@Nouvieau Brunswick@
+@New Brunswicker@|@Néo-Brunswitchais, Nouvieau-Brunswitchais@
+@New Caledonia@|@Nouvelle Calédonie@
+@New England@|@Nouvelle Angliétèrre@
+@New Hampshirite@|@Nouvieau-Hampshirais@
+@New Jersey@|@Nouvieau Jèrri@
+@New Jerseyan@|@Nouvieau-Jèrriais@
+@New Mexican@|@Nouvieau-Mexitchain@
+@New Orleans@|@Nouvelle Orléans@
+@New Scotia@|@Nouvelle Êcosse@
+@New South Wales@|@Nouvelle Galles du Sud@
+@New Year@|@Lé Nouvel An@
+@New Year's Day@|@lé Jour dé l'An@
+@New Yorker@|@Nouvieau-Yortchais@
+@New Zealand@|@Nouvelle Zélande@
+@Newcastle@|@Lé Neuchâté@
+@newel staircase@|@l'êcalyi touônnant, la montée en touothelle@
+@Newfoundland@|@Tèrre-Neuve, Tèrre-neuvyi@
+@news@|@les nouvelles@
+@newspaper@|@la gâzette@
+@newt@|@la lêzarde dg'ieau@
+@next week@|@la s'maine tchi veint@
+@next year@|@l'année tchi veint@
+@Nicaragua@|@Nicaragua@
+@Nicholas@|@Nic, Nic'lesse, Nico, Nicolas@
+@Niçois@|@Niçouais@
+@niece@|@la nièche@
+@Niger@|@Niger@
+@Nigeria@|@Nigérie@
+@night@|@eune niet, eune niétchie@
+@nightclub@|@clobe d'niet@
+@nightie@|@bén'gône, la c'mînsole@
+@nightingale@|@un rossîngno@
+@nightjar@|@eune huppe@
+@nightshirt@|@la c'mînsole@
+@nimbus@|@des nouages d'Hivé@
+@nine@|@neuf@
+@nine hundred@|@neu chents@
+@nine hundred and one@|@neu chents ieune@
+@nine hundred and two@|@neu chents deux@
+@nineteen@|@dgiêx-neuf@
+@ninety@|@nénante@
+@ninety one@|@nénante tch'ieune@
+@ninety two@|@nénante-deux@
+@nipple ring@|@la boucl'ye dé bouton@
+@nipples@|@les boutons@
+@nits@|@les lentes@
+@Niue@|@Niue@
+@noisy child@|@lé ravaûd@
+@nomination@|@la nonminnâtion@
+@nomination paper@|@lé papi d'nonminnâtion@
+@nonconformists@|@les nonconformistes@
+@noose@|@lé nez@
+@Norfolk Island@|@Île dé Norfolk@
+@Normand@|@Nouormand@
+@Normandy@|@Nouormandie@
+@north@|@nord@
+@North Carolinian@|@Carolinnien du Nord@
+@North Dakotan@|@Dakotais du Nord, Dakotchien du Nord@
+@North Korea@|@Corée du Nord@
+@North Sea@|@la Mé du Nord@
+@northeast@|@nord-êt@
+@Northeast Territories@|@Territouaithes du Nord-Vouêt@
+@Northern Ireland@|@d'l'Irlande du Nord@
+@Northern Lights@|@les Mathionnettes@
+@Northern Marianas@|@Mêrriennes du Nord@
+@northwest@|@nord-vouêt@
+@North-West Territories@|@Nordgien@
+@Norway@|@Norouague, Norouague@
+@Norwegian@|@Norvégien@
+@nose@|@lé nez@
+@nosey parker@|@lé futh'teux@
+@nostrils@|@les nâsilles@
+@not guilty@|@non coupabl'ye@
+@not to sleep a wink@|@n'pon dormi un clyîn@
+@notary@|@lé notaithe@
+@notary public@|@un notaithe@
+@notes@|@des notes@
+@nourrice@|@la nouôrriche@
+@Nova Scotian@|@Néo-Êcossais, Nouvelle-Êcossais@
+@November@|@Novembre@
+@novice@|@lé novice@
+@Novocastrian@|@Neuchâtélais@
+@now@|@achteu, achteu@
+@nuclear power@|@lé pouvé nucléaire@
+@nuisance@|@l'emmèrde@
+@nun@|@eune nonne@
+@Nunavut@|@Nunavut, Nunavutchi@
+@nurse@|@la nosse, nosse@
+@nutcracker@|@craque-nouaix, lé craque-nouaix@
+@nutmeg@|@la muscade@
+@Oak@|@un tchêne@
+@oak apple@|@eune pomme dé tchêne@
+@oak dowels@|@des gouogeons@
+@oak fungus@|@du parmésan dé tchêne@
+@oar-weed@|@Laminaria digitata, Laminaria saccharina, lé colle@
+@oar-weed stem@|@lé tangon@
+@oath@|@lé sèrment@
+@oats@|@l'avaine@
+@occupier@|@l'otchupant@
+@ocean@|@l'océan@
+@Oceania@|@Ochéannie@
+@October@|@Octobre@
+@octopus@|@eune pieuvre@
+@oculist@|@l'otchuliste@
+@of Aquitaine@|@Atchitain@
+@of Barfleur@|@Barflieurais@
+@of Belfast@|@Belfastchais@
+@of Bordeaux@|@Bordélais@
+@of Brest@|@Brestchais@
+@of Brussels@|@Bruxellais@
+@of Bucharest@|@Bucarestchais@
+@of Budapest@|@Budapestchais, Budapestchais@
+@of Caen@|@Caënnais@
+@of Cherbourg@|@Chèrbourgeouais@
+@of Copenhagen@|@Copenhadgais@
+@of Cork@|@Cortchais@
+@of Coutances@|@Coutanchais@
+@of Dunkirk@|@Dontchèrtchais@
+@of Faldouet@|@Faldouais@
+@of Gorey@|@Gouôrrelais@
+@of Granville@|@Granvillais@
+@of Helsinki@|@Helsîntchien@
+@of Herm@|@Hèrmais@
+@of Honfleur@|@Honflieurais@
+@of Jethou@|@Jéthouais@
+@of La Hague@|@Hadgais@
+@of La Mare@|@Mathien@
+@of La Moye@|@Mouaîtîn, Mouêtîn@
+@of La Pulente@|@Pulentchi@
+@of La Rocque (harbour)@|@Rocqu'sîn, Rocquetîn@
+@of La Rocque (Vingtaine)@|@Rotchais@
+@of Le Havre@|@Hâvrais@
+@of Les Landes@|@Landîn@
+@of L'Étacq@|@Êtacqu'so@
+@of Lihou@|@Lihouard@
+@of Lille@|@Lillais@
+@of Lisbon@|@Lisbonnais@
+@of Lyons@|@Lyonnais@
+@of Madrid@|@Madridgien@
+@of Munich@|@Munitchais@
+@of New Jersey@|@Nouvieau-Jèrriais@
+@of Rennes@|@Rennais@
+@of Rouen@|@Rouënnais@
+@of Rozel@|@Rôzelais@
+@of St. Aubin@|@St. Aubinnais@
+@of St. Brelade@|@St. Bréladais@
+@of St. Clement@|@St. Cliémentais@
+@of St. Helier@|@Villais@
+@of St. John@|@St. Jeannais@
+@of St. Lawrence@|@St. Louothachais, St. Louothenchais@
+@of St. Malo@|@Mâlouîn@
+@of St. Martin@|@St. Martinnais@
+@of St. Mary@|@Ste. Mathiais@
+@of St. Ouen@|@St. Ouonnais@
+@of St. Peter@|@St. Pièrrais@
+@of St. Saviour@|@St. Saûveurais@
+@of the Pays de Caux@|@Cauchouais@
+@of Toulouse@|@Toulousain@
+@of Trinity@|@Trinn'tais, Trinnetais@
+@of Valognes@|@Valonnais@
+@of Vilnius@|@Vilnais, Vilniusiens@
+@of Warsaw@|@Varsovien@
+@off shore@|@lé bord au large@
+@offer@|@eune offre, offri@
+@offhanded person@|@lé dêsèrpilyi@
+@office@|@l'office, office@
+@officer@|@l'offici@
+@official@|@lé commîns@
+@offline@|@hors lîngne@
+@Ohioan@|@Ohien, Ohiouais@
+@oil@|@hielle@
+@ointment@|@l'onguent@
+@Oklahoman@|@Oklahomien@
+@old@|@vyi@
+@olive oil@|@l'hielle d'olives@
+@Oman@|@Oman, Oman@
+@on board@|@à bord@
+@on credit@|@à crédit@
+@on one tack or run@|@sus un bord@
+@one@|@ieune@
+@one has@|@nou-s-a@
+@one penny@|@un pénîn@
+@one pound@|@un louis@
+@onion@|@l'ouognon, l'ouongnon@
+@online@|@en lîngne@
+@Ontarian@|@Ontarien@
+@Ontario@|@Ontario@
+@open@|@ouvèrt, ouvri@
+@open sea@|@la plieine mé, lé large@
+@opening hours@|@l's heuthes d'ouvèrtuthe@
+@opening of lobster-pot@|@l'yi, la dgeule, la noe (d'un cliavé)@
+@operate@|@opéther@
+@operation@|@eune opéthâtion@
+@opinion@|@l'opinnion@
+@opposition@|@l'opposition@
+@optician@|@l'opticien@
+@orange@|@orange@
+@Orange tree@|@un orangyi@
+@orator@|@l'orateur@
+@Orcadian@|@Orcadgien@
+@orchard@|@un gardîn à frit@
+@orchestra@|@un orchestre@
+@order@|@l'ordre, ordonner@
+@Oregonian@|@Orégonnien@
+@organ@|@l'orgue@
+@organist@|@l'organiste@
+@ormer@|@un ormèr@
+@orphan@|@l'orphélîn@
+@orpine@|@du corpid@
+@Orthodox@|@Orthodoxe@
+@Osier@|@d'l'ôsyi@
+@ostrich@|@eune autruche@
+@Ottawan@|@Outaouais@
+@our Duke@|@not' Duc@
+@out of sight@|@à pèrte dé veue@
+@outer keel@|@la fausse tchelle@
+@outhouses@|@l's apparténances, l's offices, les bâtisses@
+@outlaw@|@lé proscrit@
+@oven@|@lé fou@
+@ovenful@|@la fouônnée@
+@overcoat@|@la cache-mînséthe, la grand' câsaque@
+@owl@|@un cahouain@
+@owner@|@l'aûgni, lé propriétaithe@
+@ox@|@lé boeu@
+@Oxeye Daisy@|@d's ièrs dé boeu, la cobohiéthe@
+@Oxonian@|@Oxonnien@
+@oyster@|@eune hitre@
+@oyster catcher@|@eune mathanne, eune pie mathante@
+@Pacific Ocean@|@l'Océan Pacifique@
+@pack@|@patchi@
+@packet@|@patchet@
+@packing@|@paqu'thie@
+@pack-saddle@|@la selle bâtchiéthe@
+@pagan@|@païen@
+@page@|@eune page@
+@paint@|@peindre@
+@paintbrush@|@pîncieau@
+@painter@|@lé peintre@
+@Pakistan@|@Pakistan@
+@palate@|@lé palais@
+@Palau Islands@|@Îles Palau@
+@Palestine@|@Palestîn@
+@Palestinian@|@Palestinnien@
+@palm@|@lé paûmé, un palme@
+@Palm@|@un palme@
+@Palm Sunday@|@la Pâque flieuthie, lé Dînmanche des Rameaux@
+@pan@|@la peîle@
+@Panama@|@Panama@
+@pancakes@|@des crêpes@
+@panda@|@lé panda@
+@pane@|@eune ôsaine, un palme, un vitre@
+@panel@|@un panné@
+@Pansy@|@des faches dé cat, la pensée@
+@pants@|@braies, les drâses, p'tites braies@
+@paper@|@lé papi, papi@
+@paperweight@|@un paids à papi@
+@Papua New Guinea@|@Papua Nouvelle Dginnée@
+@parable@|@eune pathabole@
+@parade@|@la pathade@
+@Paraguay@|@Paraguay@
+@parakeet@|@un pèrrotchet@
+@parapet@|@un parapet@
+@parcel@|@lé patchet@
+@parcel string@|@lé fi patcheux@
+@parents@|@les pathents (péthe et méthe)@
+@Paris@|@Paris@
+@Parish@|@la Pâraîsse@
+@parish assembly@|@l'assembliée d'pâraîsse@
+@Parish Hall@|@la Salle Pârouaîssiale, Salle Parouaîssiale@
+@parishioner@|@lé pâraîssien@
+@Parisian@|@Parisien@
+@park@|@par, partchi, stâtionner@
+@parking@|@parqu'thie@
+@parliament@|@lé parlément@
+@parliamentary@|@parlémentaithe@
+@parquet@|@lé partchet@
+@parrot@|@un pèrrot@
+@parsley@|@lé pèrsi@
+@parsnip@|@la pânnais@
+@parting@|@la rîle des g'veux@
+@partner@|@lé parchonnyi@
+@partridge@|@eune pèrdrix@
+@party@|@lé parti@
+@party ownership@|@la mitouoyenneté@
+@Paspébiac@|@Paspédgia@
+@pass@|@pâsser@
+@passenger@|@un pâssagi@
+@passer by@|@lé pâssant@
+@past@|@l'pâssé@
+@pastor@|@lé pasteur@
+@pastry@|@la pâte dé pâté@
+@pasture@|@la pâtuthe@
+@patch@|@eune rapièche, un cliu@
+@patch kit@|@la boête ès r'pathes@
+@patchwork@|@lé rapiéchage@
+@path@|@la sente, lé c'mîn@
+@patience@|@la pâcienche@
+@pâtissier@|@lé pâtichi@
+@Patrick@|@Patrice@
+@pattern@|@un patron@
+@pavement@|@lé pavé, lé trottouaithe, trottouaithe@
+@pay@|@payi@
+@payment@|@la paiethie, lé paiement, paiethie@
+@Pays de Caux@|@Pays d'Caux@
+@pea@|@lé pais, lé pais rond@
+@peach@|@la pêche@
+@Peach tree@|@lé pêchi@
+@peacock@|@un paon@
+@peak@|@la saluette@
+@peak of sail@|@lé pic d'eune vaile@
+@peaked cap@|@la teunette@
+@pear@|@la paithe@
+@Pear tree@|@un paithyi@
+@pearl@|@pèrle@
+@pebble@|@galet, lé galot, un galet, un galot@
+@pebbles@|@la galiche@
+@pedal@|@la pédale@
+@pedals crank@|@la chanolle ès pédales@
+@pedals crank axle@|@l'esseu ès pédales@
+@pedestrian@|@piêton, un piêton@
+@pedestrian crossing@|@pâssage à piêtons@
+@pedestrian street@|@la rue pavée, rue pavée@
+@pedigree dog@|@lé tchian d'race@
+@peel@|@la p'liche@
+@peep@|@piper@
+@peep-ho@|@cou-cou@
+@peephole (in door)@|@l'ouïe d'l'us@
+@peephole in door@|@l'ouïe d'l'us@
+@peeping tom@|@lé dgîngneux@
+@pelican@|@lé pélican@
+@Pellitory-of-the-wall@|@d'l'apathitouaithe@
+@Pelvetia canaliculata@|@du crochet@
+@pen@|@la plieunme@
+@pencil@|@lé crèyon@
+@pencil sharpener@|@un appointcheux@
+@penguin@|@un pîngouîn@
+@penknife@|@cannif@
+@Pennsylvanian@|@Pennsylvannien@
+@penny@|@pénîn@
+@Pennywort or Navelwort@|@des cratchillons, la grâsse-g'linne@
+@Peony@|@la pâsse-rose@
+@people from witch families@|@les gens du grand sang@
+@pepper@|@l'paîvre, lé piment@
+@pepper-pot@|@la paîvriéthe, lé paîvriyi@
+@perch@|@jutchi, la pèrche@
+@peregrine falcon@|@un êcouffl'ye@
+@Perennial Rye-grass@|@d'l'hèrbe pèrpétuelle@
+@Perennial Sow-thistle@|@du laiteron@
+@perforate St John's-wort@|@du cache-dgiâbl'ye@
+@perfumery@|@la parfunm'thie, parfunm'thie@
+@period@|@les pèrtes@
+@peritonitis@|@la péritonite@
+@Periwinkle@|@la bliuette, la pèrvenche@
+@perry@|@lé p'ré@
+@person@|@la pèrsonne@
+@person who is always out@|@lé sorteux@
+@Peru@|@Pérou@
+@pessimist@|@lé pessimiste@
+@pesterer@|@lé vengeux@
+@pestle@|@pilon@
+@petal@|@lé pétale@
+@Pete@|@Pèrrotîn, Pièrrot@
+@Peter@|@Pièrre, Piteur@
+@petrol@|@pétrole@
+@petrol pump@|@la pompe à pétrole@
+@petty spurge@|@l'hèrbe à la reine@
+@Petty Spurge@|@d'l'hèrbe à véthues@
+@pewter@|@êtain@
+@pheasant@|@un faîsan@
+@Phil@|@Ph'lippot, Philinne, Philosse, Philot@
+@Philadelphian@|@Philadelphien@
+@Philip@|@Ph'lip, Ph'lippe@
+@philistine@|@lé philistîn@
+@phone again@|@èrtéléphoner@
+@phone box@|@kiosque d'téléphone@
+@phone-in@|@eune téléphôn'nie@
+@photocopier@|@lé photocopieu@
+@photographer@|@lé photographyi@
+@pianist@|@un pianiste@
+@piano@|@un piano@
+@Picard@|@Picard@
+@Picardy@|@Picardie@
+@pick@|@bigorne, êpinnotchi, tchilyi@
+@picker (of potatoes)@|@lé gliaineux@
+@pickle@|@lé picl'ye@
+@pickpocket@|@lé filou@
+@picture@|@bibi@
+@pie@|@lé pâté@
+@pied wagtail@|@un s'meux@
+@pie-dish@|@la lachefraie@
+@pig@|@la bête à saie, lé couochon, lé gronneux, lé por@
+@pig (1)@|@lé moussieu, lé quétot@
+@pigeon@|@un pigeon@
+@pig's trotter@|@un piot@
+@pigsty@|@la cotte@
+@pike@|@un brochet@
+@pike (La Rocque)@|@un brochet@
+@pile of vraic@|@eune couèrte@
+@pilgrim@|@lé pèlerîn@
+@pilgrimage@|@lé pélérinnage@
+@pillow@|@l'ouothilyi, ouothilyi@
+@pillowcase@|@l'ântchie@
+@pills@|@les boulets@
+@pilot@|@lé pilote@
+@pimento@|@lé piment@
+@pimp@|@lé maquereau@
+@pin@|@êpîle@
+@pinch@|@pînchi@
+@pincushion@|@un plotîn@
+@pinecone@|@eune pomme dé sapîn@
+@pins and needles@|@les freunmions@
+@pint of milk@|@eune pînte dé lait@
+@pip@|@un pépîn@
+@pipe@|@un tuyau@
+@pipefish@|@lé longnez@
+@piracy@|@la pirat'tie@
+@pirate@|@un pirate@
+@pit saw@|@scie d'but, scie d'long@
+@Pitcairn Islands@|@Îles dé Pitcairn@
+@pitcher plant@|@du soulié d'la Vièrge@
+@pitchfork@|@lé monte-paille, monte-paille@
+@pitching tool@|@pouaîsson@
+@pit-saw@|@cônué@
+@place@|@pliaichi@
+@plague@|@la mouôthinne@
+@plaice@|@eune pliaie@
+@plain and purl@|@pliain et damâsé@
+@plait@|@eune tresse@
+@plaiting@|@la tress'sie@
+@plane@|@l'avion, rabot@
+@planet@|@la plianète@
+@planking@|@du bord dé baté, la bordaille, lé bordage@
+@planner@|@lé plianneu, lé plianneux@
+@plant@|@la pliante@
+@planting@|@la pliant'tie@
+@plaster@|@lé pliâtre, pliâtre, un empliâtre@
+@plasterer@|@lé pliâtreux@
+@plasterer's hod@|@porte-caux@
+@plastic@|@plastique@
+@plates@|@l's assiettes@
+@play@|@jouer@
+@play giddy-up@|@faithe jojo@
+@playful spirit@|@l'ouotho@
+@pleading@|@un plaidoyer@
+@please@|@pliaithe@
+@pleat@|@un plié@
+@Pleiades@|@la Pouochinniéthe@
+@pleurisy@|@la plieurêsie@
+@plough@|@la tchéthue@
+@ploughed soil@|@la mie@
+@ploughing@|@la tchéthuethie, la touônn'nie@
+@ploughman@|@lé tchethtchi@
+@plover@|@un êprivyi@
+@plug@|@plogue@
+@plugging tool@|@êt'lîn@
+@plughole@|@nâbl'ye@
+@plum@|@la preune@
+@Plum tree@|@lé preunyi@
+@plumber@|@lé plionmi@
+@plumbline@|@pliomb@
+@Pluto@|@Pliuton@
+@Plymouth@|@Pliémue@
+@plywood@|@fielletas@
+@pneumonia@|@l'enfliammâtion d'ponmons@
+@poacher@|@lé braconnyi@
+@pocket@|@eune pouchette, la paûte, la pouchette@
+@pocket-knife@|@brioche@
+@poet@|@lé poète@
+@poisoner@|@un empouaîsonneux@
+@poker@|@pôkeur, poqueur@
+@Poland@|@Polongne@
+@polar bear@|@lé blianc-ours@
+@pole@|@lé pôle@
+@Pole Star@|@L'Êtaile du Nord@
+@polecat@|@lé pitouais, lé putouais@
+@police@|@la police@
+@police station@|@stâtion d'police@
+@Polish@|@Polonnais@
+@polisher@|@un polisseux@
+@polishing pad@|@un v'loûsé@
+@political@|@politique@
+@politician@|@lé politicien@
+@politics@|@la politique@
+@polka@|@eune polka@
+@pollard@|@un têtard@
+@pond@|@la mathe@
+@pondweed@|@d'la vraicque, du vrai d'vivi@
+@Pondweed@|@lé vrai d'vivyi@
+@pony@|@lé bidet, lé p'tit j'va, lé pônîn@
+@ponytail@|@eune coue d'ponîn@
+@poo@|@caca@
+@poodle@|@lé tchian d'St Mâlo@
+@poop@|@la poupe, lé tillac@
+@poorly@|@îndispos@
+@Poplar@|@un peuplyi@
+@population@|@la populâtion@
+@porch@|@un portico@
+@pork@|@du lard@
+@porpoise@|@un pourpais@
+@port@|@à babord, lé babord, lé vîn d'Porto@
+@Portbail@|@Porbas@
+@porter@|@lé portchi, lé porteur@
+@Portsmouth@|@Porchémue@
+@Portugal@|@Portûnga@
+@Portugal laurel@|@du louothi du Portûnga@
+@Portuguese@|@lé Portundgais, Portûndgais@
+@possessor@|@lé possesseu@
+@post box@|@boête à lettres@
+@post office@|@la poste, poste@
+@postage@|@lé tîmbrage@
+@postal@|@postal@
+@postcard@|@la carte postale@
+@postcode@|@lé codement postal@
+@postman@|@lé porteux d'lettres@
+@postmaster@|@lé maître d'poste@
+@Pot Marigold@|@d'la soucique@
+@Pot Purslane@|@du pourpyi@
+@potato@|@la patate@
+@Potato@|@des patates@
+@potato fork@|@cro à patates@
+@potato harvest@|@lé dêfouage@
+@poultice@|@lé poussot, lé vithicatouaithe@
+@poultry@|@la volaille@
+@pour@|@vèrser@
+@powder-flask@|@pouèrre@
+@powder-puff@|@poudrette@
+@power of attorney@|@eune protchulâtion, eune protchule@
+@practical joker@|@lé farceux@
+@practice@|@la pratique@
+@Praguer@|@Pradgais@
+@prawns@|@d'la grosse chèrvette@
+@prayer@|@la priéthe@
+@prayer book@|@la litourgie, lé livre d'priéthes@
+@praying@|@la priethie@
+@preacher@|@un prêcheux, un prédicateu@
+@prefer@|@préféther@
+@pregnant@|@encheinte@
+@prehistoric@|@préhistorique@
+@prehistory@|@la préhistouaithe@
+@premature@|@v'nu d'vant, v'nu d'vant san temps@
+@prepare@|@graie@
+@prescription@|@la prescription@
+@presidency@|@la présidence@
+@president@|@lé président@
+@press house@|@lé preinseu@
+@prevent@|@empêchi@
+@price@|@lé prix@
+@Prickly Saltwort@|@du geon d'mielle@
+@Prickly Sow-thistle@|@du laiteron@
+@priest@|@lé minnistre@
+@priest (Catholic)@|@lé prêtre@
+@priesthood@|@la prêtrise@
+@priest-in-charge@|@l'minnistre dêssèrvant@
+@Primrose@|@des pip'soles, pip'roles, pip'solles, piptholes@
+@primrose (1)@|@preunoles, prinm'noles, prunm'noles, prunoles@
+@primrose (2)@|@pieunm'tholes, prînm'tholes, prînmeroles@
+@primrose (3)@|@pâqu'roles, pâqu'tholes ou coucou, prînm'soles@
+@prince@|@lé prînce@
+@Prince Eduard Island@|@Île du Prînce Êdouard@
+@Prince Edward Islander@|@Prînce-Êdouardgiens@
+@princess@|@la prîncêsse@
+@printer@|@l'împrînmeux, lé printeu@
+@printing@|@l'împrînm'thie@
+@prison@|@la prison@
+@prisoner@|@un prisonnyi@
+@private@|@un simpl'ye, un simpl'ye soudard@
+@privateer@|@lé cap'taine à la course, un cap'taine@
+@privateer (1)@|@un cap'taine à la course@
+@Privet@|@d'la troène@
+@problem@|@un problième@
+@program@|@eune émission, lé programme, un programme@
+@programme@|@un programme@
+@projet@|@lé projet@
+@promise@|@promettre@
+@promontory@|@la capée@
+@pronounce uvular@|@grâssier@
+@propaganda@|@la propagande@
+@propeller@|@l's aubes@
+@property@|@la propriêté@
+@proposer@|@lé proposant@
+@proposition@|@la proposition@
+@props@|@les bétchil'yes@
+@prosecution@|@la poursuite@
+@prostitute@|@eune prostituée@
+@Prostrate Broom@|@du genêt d'falaise@
+@protestant@|@protestant@
+@prow@|@lé d'vant@
+@psalm@|@lé sieaume@
+@pub@|@aubèrge@
+@pub landlord@|@l'aubèrgiste@
+@pubic hair@|@du pouail@
+@pudding@|@lé podîn@
+@pudding-stone@|@du bréha@
+@Puerto Rico@|@Puerto Rico@
+@Puff-ball@|@la vêne-dé-loup, lé pet d'nonne@
+@puffin@|@la gode à rouoge bé, un poffîn@
+@pull@|@haler, tither@
+@pull out@|@dêhaler@
+@pullet@|@eune poulette@
+@pulse@|@lé pouls@
+@pumice@|@la pièrre dé ponce, pièrre dé ponce@
+@pump@|@eune pompe, pompe@
+@pumpkin@|@lé m'lon, un m'lon, un potithon@
+@punch@|@mandrîn, un co d'poing, un coup d'tampon@
+@punch-up@|@eune escarmuche@
+@puncture@|@un tyeur bosté@
+@punishable@|@peunnissabl'ye@
+@punishment@|@la peunnition@
+@pupil@|@l'êcolyi, la preunelle dé l'yi@
+@purchase@|@eune empliette, un acat@
+@puree@|@la puthée@
+@purgative@|@eune purge@
+@Purple Moor-grass@|@du sectîn@
+@Purple Viper's-bugloss@|@d'la grâsse-g'linne@
+@purveyor@|@lé fournisseux@
+@pus@|@la pouôrrituthe@
+@pussycat@|@minnet@
+@put@|@mettre@
+@put back into port@|@èrlâchi, r'lâchi@
+@put out to sea@|@sorti au baté@
+@put over to opposite tack@|@vither la vaile@
+@putlog@|@lé bouolîngni@
+@putty@|@poté@
+@pyjamas@|@les pyjamas@
+@Qatar@|@Qatar@
+@quack@|@lé dgéthisseux@
+@quack doctor@|@un dgéthisseux@
+@quart@|@eune quarte@
+@quarter-deck@|@lé gaillard d'arriéthe@
+@quartermaster@|@lé quartchi-maître@
+@quarter-round plane@|@quart-dé-rond@
+@Quebec@|@Tchubec@
+@Québec@|@Tchubec@
+@Quebecker@|@Tchubécouais@
+@queen@|@la danme, la Reine@
+@queen bee@|@la méthe ès moûques, la vielle des bourdes@
+@queen bee (1)@|@lé maître bourdon, lé péthe ès bourdons@
+@Queen Elizabeth II@|@La Reine Lîzabé II@
+@queens@|@des callifichieaux@
+@questionnaire@|@un tchestionnaithe@
+@Quiberon@|@Tchibéthon@
+@quicklime@|@vive-caux@
+@quicksand@|@la mouoilliéthe@
+@Quimper@|@Tchîmpèr@
+@Quince tree@|@un bouais d'coing@
+@quinsy@|@la stchinnancie@
+@quintal@|@un tchînta@
+@quiz@|@lé quiz@
+@quoin@|@l'êcouêson, lé couongnet, lé parcoin@
+@rabbet plane@|@dgilliaume, fieillâtre, rabot à fieilleuse@
+@rabbit@|@un lapîn@
+@rabies@|@la rage@
+@Rachel@|@Râché@
+@rack@|@lé râclyi@
+@radio@|@lé radio@
+@radio station@|@eune stâtion d'radio@
+@radish@|@la radiche@
+@rafter@|@lé crévon@
+@rag@|@eune chique, la chitchette@
+@Ragged Robin@|@du coucou d'pré@
+@rail@|@eune râle@
+@railings@|@des grilles@
+@railway@|@lé c'mîn d'fé@
+@railway sleeper@|@eune dormiéthe@
+@rain@|@la plyie, pliôre@
+@raise@|@êl'ver, èrhaûchi, haûchi@
+@raising piece@|@lé raisîn@
+@rake@|@lé râté, râté@
+@ramp@|@la rampe@
+@rampart@|@lé rempart@
+@rape@|@du rubîn, lé feu, lé viol, râpe@
+@Rape@|@des suidiches@
+@raspberry@|@la frambrouaise@
+@rat@|@lé rat@
+@rate assessor@|@l'expèrt@
+@rates@|@lé rât@
+@rations@|@les râtions@
+@ratlins@|@les raquelinnes@
+@ratteen@|@la r'vêche@
+@raven@|@un corbîn, un grand corbîn, un gros corbîn@
+@raw@|@crû@
+@ray@|@eune fliée, eune raie, la cârrée@
+@rayon@|@lé rayon@
+@razor@|@râseux, un râseux@
+@razor fish@|@un manchot@
+@razorbill@|@lé bliu poffîn, un godîn@
+@read@|@liéthe@
+@reading@|@la lectuthe, liéthie@
+@reamer@|@ouothelle d'âne@
+@reaper-binder@|@la dgèrbeuse@
+@rear harness chains@|@les traits des tchulasses@
+@rear uprights@|@l's êcouards@
+@rear wheel@|@la reue dé driéthe@
+@rebel@|@lé révolté@
+@receipt@|@un èrchu@
+@receive@|@r'chéver@
+@reception@|@la réception@
+@recipe@|@eune èrchette@
+@recipient@|@l'èrchéveux@
+@recite@|@èrciter@
+@record@|@un r'cord@
+@rector@|@lé recteu@
+@rectory@|@lé rectorat@
+@red@|@Rouoge@
+@red admiral@|@l'êcarlate@
+@Red Campion@|@d's iliets d'fôssé, du rouoge coucou@
+@Red Campion (1)@|@d'la p'tite molène, des vièrs garçons@
+@Red Clover@|@du rouoge trêfl'ye, l'încarnat@
+@Red Currant@|@des gradiles@
+@Red Dead-nettle@|@d'l'enchens@
+@red hair@|@des g'veux d'Judas@
+@red herring@|@un rouoge héthan@
+@Red River@|@la Rouoge Riviéthe@
+@Red Sea@|@la Rouoge Mé@
+@red spider@|@lé rouoge soudard, lé soudard@
+@Red Valerian@|@du lilas, du muthaille, du valérien, ou lîlas@
+@Red Valerian (1)@|@du lilas d'Espangne@
+@red)@|@rouoge), un mulet (gris)@
+@red-breasted merganser@|@un alicracq@
+@Redeemer@|@lé Redempteu@
+@redhaired@|@rousseau, roux@
+@redhead@|@un rousseau@
+@Redshank@|@du paîvre à j'va, eune hèrbette dé grève@
+@red-throated diver@|@un cadras, un cat-dras@
+@reduce@|@rêduithe@
+@redwing@|@eune grive dé france, eune rouoge grive, lé maûvi@
+@Reed Canary-grass@|@du riban (dans les gardîns)@
+@reef@|@l'êtché, la barre, un ris, un ris d'vaile@
+@reef knot@|@un pliat noeud@
+@reefing point@|@la pointe à risi@
+@reflector@|@un èrfliecteur@
+@reform@|@la r'forme@
+@Reformation@|@la R'formâtion@
+@refugee@|@lé r'fugié@
+@refuse@|@èrfuser@
+@regime@|@lé régînme@
+@regiment@|@lé régînment@
+@regular soldier@|@un rédgulyi@
+@reheat@|@rêcaûffer@
+@reins@|@les brides, les c'mandes@
+@relate@|@raconter@
+@relics@|@les r'liques@
+@religious studies@|@l's êtudes èrligieuses@
+@remark@|@r'mèrtchi@
+@remedy@|@la r'miède@
+@Renaissance@|@la R'naîssance, la R'naîssance@
+@rent@|@lé louoyi@
+@repair@|@èrpather@
+@repairer@|@lé griyeux@
+@repetition@|@la répétition@
+@replace@|@rempliaichi@
+@reply@|@la rêponse@
+@report@|@un rapport@
+@Republic of the Congo@|@République du Congo@
+@resemble@|@èrsemblier@
+@respond@|@èrpotchi@
+@rest@|@èrposer@
+@restaurant@|@restaurant@
+@resurrection@|@èrssuscitâtion, la rêsurrection@
+@Reunion Island@|@Île d'Rêunion@
+@revenge@|@la r'venge@
+@rheumatic fever@|@la fièvre d'rhonmatisses@
+@rheumatic pains@|@les catèrres@
+@rheumatism@|@les rhonmatisses@
+@rhinoceros@|@lé rhinocéros@
+@Rhode Islander@|@Rhodgien@
+@rib@|@la côte@
+@Ribbed Melilot@|@du mélilot@
+@ribbon@|@lé riban@
+@Ribwort Plantain@|@d'l'ancelée, d's ouothelles dé lapîn, des né têtes@
+@rich man@|@lé richard@
+@rich person@|@lé milsoutchi@
+@Richard@|@R'chard@
+@rickets@|@étchitchettes@
+@rig@|@ridgi@
+@Rigan@|@Ridgais@
+@right@|@la drouaite@
+@rights@|@les drouaits@
+@rim@|@les gantes@
+@ring@|@la bague, sonner@
+@ringed plover@|@un p'tit boeu@
+@ringing in the ears@|@chantebé@
+@ring-ouzel@|@lé mêle à blianche gorge@
+@ringworm@|@la tangne@
+@rinse@|@rinchi@
+@rinsing machine@|@eune machinne à rinchi@
+@riot@|@eune êmeute@
+@ripper saw@|@scie d'but@
+@ripples@|@les bouoillons@
+@risers@|@les hauches@
+@rising tide@|@la mé montante@
+@risk@|@ristchi@
+@ritual@|@un rituel@
+@river@|@la riviéthe@
+@River Detroit@|@lé Dêtrait@
+@rivet@|@rivet@
+@rivet hammer@|@marté à river@
+@rivet tool@|@riveux@
+@rivet washer@|@contré-riveûthe@
+@riveting block@|@riveux@
+@Rivière au Renard@|@la Riviéthe ès R'nards@
+@road@|@la route@
+@Roads Committee@|@lé Conmité des C'mîns@
+@roadsweeper@|@lé gratteux@
+@roar@|@beûler@
+@roast meat@|@la viande au fou, la viande au fou@
+@Robert@|@Robèrt@
+@robes@|@la robe@
+@robin@|@eune rouoge-gorge@
+@rock@|@la boue, la greune, la rocque, lé rotchi@
+@rock (1)@|@un rotchi@
+@rock cress@|@d'la né, du crémé, du lait cailli, du lait doux@
+@rock dove@|@un pigeon d'falaise, un pigeon d'mé@
+@rock fish@|@un vra@
+@rock ledge@|@lé bantchet@
+@rock pipit@|@eune alouette dé banque, eune alouette dé grève@
+@rock pipit (1)@|@eune alouette dé rotchi@
+@rock pool@|@lé pits, un pits dg'ieau@
+@Rock Samphire@|@d'la pèrche-pièrre@
+@rocket@|@eune fîsée@
+@rock-worm@|@du vèr dé rocque, du vèr dé rotchi@
+@rocky@|@rotcheux@
+@rogue@|@lé ch'napan, lé cotchîn, lé filou, lé scélérat@
+@roll@|@rouôler@
+@roll of bread@|@lé p'tit pain@
+@rolling of waves@|@lé rouôlais d'la mé@
+@rolling pin@|@la rôllinne-pinne@
+@roly-poly@|@lé rouôlot@
+@Roman@|@Romain@
+@Romania@|@Roumanie@
+@Romanian@|@Roumain@
+@rood@|@eune pèrque@
+@roof@|@lé lief@
+@roof leads@|@les pliombs@
+@roof light@|@la lutchèrne@
+@roof ridge@|@lé faît@
+@roof truss@|@lé renfort@
+@rook@|@eune caûvette, la cahouette@
+@room@|@l'appartément@
+@root@|@eune raichinne@
+@rope walk@|@la cordéthie@
+@ropemaker@|@lé cordgi@
+@rose@|@rose@
+@Rose of Sharon@|@rosé dé Sharon@
+@Rosemary@|@du romathîn, lé romathîn, ou romarîn@
+@rosette@|@la rôsette@
+@Rouen@|@Rouën@
+@rough@|@lé brouoillon@
+@roundabout@|@lé rond carrefour@
+@Round-headed Leek@|@des gênottes@
+@round-headed Poppy@|@des roses à tchian@
+@router@|@dent d'manman@
+@row of lifted potatoes@|@la riole, lé rion@
+@rowing boat@|@un baté à nagi@
+@royalty@|@la rouoyauté@
+@royal-yard@|@la vèrgue dé cacatouais@
+@rub@|@frotter@
+@rubbish bin@|@lé bathi à tés@
+@ruby@|@rubis@
+@ruff@|@lé rouffl'ye@
+@ruins@|@les ruinnes@
+@ruler@|@la relle@
+@rum@|@lé rhonme@
+@rumbling stomach@|@lé runguement@
+@run@|@couôrre@
+@run aground@|@couôrre à tèrre, êchouer@
+@runner@|@lé couotheux@
+@runner-beans@|@les pais brantcheurs@
+@Russia@|@Russie@
+@Russian@|@Russe@
+@Russian Comfrey@|@d'la console@
+@rust@|@roui@
+@Rwanda@|@Rwanda@
+@sacking@|@la sèrpiliéthe@
+@sacrament@|@un sacrément@
+@sad@|@triste@
+@saddle@|@eune selle, la selle, lé sellot@
+@saddlebags@|@lé bîssa@
+@saddler@|@lé sellyi@
+@saddlery@|@la sell'lie@
+@safety razor@|@un râseux à rabot@
+@saffron@|@du jaûnisse, du safran, lé safran@
+@sage@|@la sauge@
+@sail@|@eune vaile, la vaile, navidgi@
+@sailing ship@|@lé vailyi@
+@sailing-ship@|@lé navithe à vailes@
+@sailor@|@lé navidgant@
+@saint@|@un saint@
+@Saint Helena@|@Saint Helena@
+@Saint Kitts and Nevis@|@Saint Kitts et Nevis@
+@Saint Lucia@|@Sainte Lucie@
+@Saint Vincent@|@Saint Vîncent@
+@Saint-Pierre and Miquelon@|@Saint-Pièrre et Miquelon@
+@salad burnet@|@la salade@
+@salary@|@lé salaithe@
+@sale@|@eune vente@
+@saliva@|@l'êcopi@
+@salmon@|@du saumon@
+@salt@|@lé sé, sé@
+@salt pan@|@la salinne@
+@salt-cellar@|@la saliéthe@
+@salvation@|@lé salut@
+@salvo@|@eune saluette@
+@same@|@même@
+@Samoa@|@Samoa@
+@San Franciscan@|@San Francistchain@
+@San Marino@|@Saint Mathîn@
+@sanctuary@|@lé sanctuaithe@
+@sand@|@du sablion, du sablion, lé sablion, sablion@
+@Sand Couch@|@du bas d'sablion@
+@Sand Crocus@|@des gênottes@
+@sand dune@|@mielle@
+@sand eel@|@un lanchon@
+@sand hopper@|@un sauticot@
+@sand martin@|@un martinnet@
+@sandbank@|@lé banc d'sablion@
+@sandcastle@|@lé châté dé sablion@
+@sanderling@|@un couotheux, un couotheux d'grève@
+@sandpaper@|@papi tîmbré@
+@sandstone@|@la pièrre dé grès, pièrre dé grès@
+@sandwich@|@la sannouiche, sannouiche@
+@sang-froid@|@sang-fraid@
+@sanitary@|@sannitaithe@
+@São Tomé and Principe@|@São Tomé et Principe@
+@sap@|@d'la sève@
+@sardine@|@eune sardinne@
+@Sarkese@|@Sèrtchais@
+@sash window@|@la sèche@
+@Saskatchewan@|@Saskatchéouan@
+@Saskatchewaner@|@Saskatchéouannais@
+@satin@|@lé satîn, satîn@
+@Saturday@|@Sanm'di@
+@Saturn@|@Saturne@
+@saucepan@|@lé sâsse-paine, sâsse-paine@
+@saucer@|@la souôtâsse@
+@Saudi Arabia@|@Arabie Saudi@
+@sausage@|@la saûciche@
+@sausages@|@des saûciches@
+@save@|@sauver@
+@savings@|@les sou d'êpaîngne@
+@Saviour@|@lé Sauveur@
+@Savoy@|@Savouaie@
+@savoy cabbage@|@lé milan@
+@saw@|@scie@
+@sawdust@|@moulée d'bouais@
+@say@|@dithe@
+@scab@|@lé malon@
+@scabies@|@la rouongne@
+@Scabious@|@la flieur au veuvyi@
+@scaffolding@|@chaûfaud, mâtant@
+@scald@|@eune scâl'lie@
+@scale@|@l'êcrède@
+@scales@|@la balanche@
+@scallop@|@eune scalope, un vanné@
+@scanner@|@lé scanneu@
+@scar@|@eune pliaie, la couôtuthe@
+@scarf@|@l'êcharpe, lé mouoché@
+@scarlet fever@|@la fièvre êcarlate@
+@Scarlet Pimpernel@|@la baronmette ès pouôrres gens, la piprénelle@
+@Scarlet Pimpernel (1)@|@lé mouéthon@
+@Scented Mayweed@|@d'la m'soûque@
+@school@|@êcole@
+@school uniform@|@l'unniforme d'êcole@
+@schooling@|@l'êcolage@
+@schoolmaster@|@lé maît' d'êcole@
+@schoolmistress@|@la maitrêsse d'êcole@
+@sciatica@|@la sciatique@
+@science@|@la scienche@
+@Scillonian@|@Seurlîndgais@
+@scissors@|@chîsieaux, les chîsieaux@
+@scone@|@la gâche dé lait d'beurre@
+@scoop@|@dgichon@
+@scornful person@|@lé sgorneux@
+@Scotish@|@Êcossais@
+@Scotland@|@Êcosse@
+@scrambled egg@|@un oeu sus l'ticl'ye@
+@scrambled/poached egg@|@un oeu sus l'ticl'ye@
+@scrap iron@|@féthaille@
+@scratch@|@êgrînflias@
+@screech@|@rouaûder@
+@screen@|@l'êcran@
+@screensaver@|@un saûveux d'êcran@
+@screw@|@vis@
+@screw stock@|@bouôlette, filiéthe@
+@screwdriver@|@tournévis@
+@scrofula@|@êcrouelles@
+@scrollbar@|@un rouôleux@
+@scrotum@|@la pouque@
+@scrubbing brush@|@la scrobinne-broche, scrobbine-broche@
+@scud@|@des couotheurs@
+@scud before the wind@|@aver l'vent souos vèrgue@
+@scudding-sail@|@l'êtouinne@
+@scuffle@|@eune freûlée, s'freûler@
+@sculptor@|@lé stchulpteux@
+@scupper@|@lé dalot@
+@scurvy@|@scorvé@
+@scythe@|@faux, la faux@
+@sea@|@la mé@
+@sea anemone@|@un con d'rotchi@
+@Sea Beet@|@des bettes@
+@Sea bindweed@|@des belles d'un jour, des cannes à lait@
+@Sea bindweed (1)@|@des veîl'yes dé sablion@
+@Sea Campion@|@d's iliets d'rotchi, du blianc coucou@
+@Sea Campion (1)@|@blianches femmes, bouonnefemmes, d'mouaîselles@
+@Sea Campion (2)@|@bouonnefemmes@
+@sea eagle@|@eune orfinne@
+@sea lettuce@|@d'la cliaque@
+@Sea Mayweed@|@d'la m'soûque@
+@Sea Plantain@|@d'l'ancelée d'falaise@
+@Sea Rocket@|@d'la julienne@
+@Sea Stock@|@d'la violette dé mielle@
+@sea-chest@|@un côffre d'bord@
+@seadog@|@lé tchian d'mé@
+@seagull@|@la mauve, mauve@
+@Sea-holly@|@du housse dé mielle, du tcheurdron d'mielle@
+@seahorse@|@un j'va d'mé@
+@Sea-Kale@|@du chou-mathîn@
+@seal@|@la sirène, lé loup-mathîn@
+@sea-lion@|@lé lion d'mé@
+@Sea-Radish@|@des flieuthions, du bréha@
+@seasickness@|@lé ma d'la mé@
+@seaside@|@lé bord d'la mé@
+@seat@|@lé siège@
+@seat post@|@la tigue dé selle@
+@seawall@|@lé talustre@
+@seawater@|@l'ieau d'la mé@
+@seaweed@|@lé vrai@
+@secateurs@|@becque-de-corbîn, eune becque-de-corbîn@
+@second@|@eune s'gonde@
+@second hand@|@d'deuxième main, dé s'gonde main@
+@Second World War@|@la Deuxième Dgèrre Mondiale@
+@second-cousin@|@lé couôsîn r'mué@
+@seconder@|@lé s'gondant@
+@secretary@|@lé s'grétaithe@
+@sect@|@eune secte@
+@secular@|@sétchulyi@
+@sedative@|@un sédatif@
+@seducer@|@lé dêbaûcheux@
+@see@|@vaie@
+@see out of the corner of eye@|@vaie d'la carre d'san yi@
+@See you next week!@|@À la s'maine tchi veint!@
+@seed@|@d'la grainne@
+@seem@|@pathaître, semblier@
+@self-treatment@|@la doctrinn'nie@
+@sell@|@vendre@
+@seller@|@eune vend'rêsse, un vendeux@
+@Senator@|@lé Sénateu@
+@send@|@env'yer@
+@send for the doctor@|@faithe v'nîn lé docteu@
+@sender@|@l'env'yeux@
+@sending@|@l'env'yêthie@
+@Senegal@|@Sénégal@
+@sentence@|@eune condamnâtion@
+@separate@|@s'pather@
+@September@|@Septembre@
+@Serbia@|@Sèr@
+@Serbia and Montenegro@|@Serbie et Monténégro, Serbie et Monténégro/Nièrmont, Serbie et Nièrmont@
+@Serbian@|@Sèrbe@
+@serge@|@la sarge@
+@sergeant@|@lé sèrgent@
+@sergeant-major@|@lé sèrgent-mâjeur@
+@sermon@|@lé sèrmon@
+@serrated sickle@|@dard@
+@service@|@lé sèrvice@
+@serviette@|@la sèrviette@
+@set of shelves@|@eune êtagéthe@
+@set square@|@êtchèrre, l'êtchèrre@
+@seven@|@sept@
+@seven hundred@|@sept chents@
+@seven hundred and one@|@sept chents ieune@
+@seven hundred and two@|@sept chents deux@
+@seventeen@|@dgiêx-sept@
+@seventy@|@septante@
+@seventy one@|@septante tch'ieune@
+@seventy two@|@septante-deux@
+@sew@|@couôtre@
+@sewing-machine@|@la machinne à couôtre@
+@Seychelles@|@Seychelles@
+@shaft collar@|@lé vitheu@
+@shaft iron@|@la frette@
+@shafts@|@les limons@
+@shag@|@un cormoran, un cormouothan@
+@shake@|@châtchi@
+@shake hands@|@châtchi d'main@
+@shale@|@bliu-pièrre, d'la bliu-pièrre@
+@shallot@|@la châlote@
+@share@|@chârer@
+@shark@|@cheurque, un cheurque@
+@sharp@|@aidgu@
+@shaver@|@un râseux êlectrique@
+@shaving brush@|@la savonnette, savonnette@
+@she@|@oulle@
+@she was speaking@|@ou 'tait à pâler@
+@she will have spoken@|@oulle étha pâlé@
+@she will speak@|@ou pâl'la@
+@shears@|@forches, les forches@
+@shearwater@|@la gode@
+@shed@|@lé hangar@
+@sheep ked@|@un brébion@
+@Sheep's Fescue@|@d'l'hèrbe à moutons@
+@Sheep's Sorrel@|@d'la p'tite suthelle@
+@Sheep's-bit@|@des flieurs au dgiâbl'ye@
+@sheet metal@|@tôle@
+@sheet of a sail@|@dé la vaile, l'êcoute, l'êcoute d'eune vaile@
+@shelf@|@l'ais@
+@shell@|@eune êcale, l'êcale, la cruque@
+@Shepherd's purse@|@du pid d'ouaîthé@
+@shilling@|@chélîn@
+@shine@|@èrlithe@
+@shingle@|@lé seingl'ye@
+@shingles@|@la cheintuthe au dgiâbl'ye@
+@ship@|@lé navithe@
+@ship of the line@|@un navithe du preunmié rang@
+@ship's log@|@livre d'bord@
+@ship's papers@|@papièrs dé bord@
+@shipwrecked person@|@lé naûfragi@
+@shirt@|@la c'mînse@
+@shirtfront@|@la fale d'eune c'mînse@
+@shiver@|@frémi@
+@shoddy workman@|@lé mâclieux@
+@shoe@|@lé soulié, soulier@
+@shoe horn@|@cauche-pid, tithe-pid@
+@shoe polish@|@lé bliatchîn@
+@shoe shop@|@cordonn'nie, la boutique à bottes@
+@shoe-polish@|@bliatchîn@
+@shooting@|@tith'thie@
+@shooting star@|@eune êtaile tchiyante@
+@shop@|@boutique, boutitchi, la boutique@
+@shop window@|@la d'vantuthe, la d'vantuthe@
+@shopkeeper@|@lé boutitchi, un boutitchi@
+@shopping@|@la boutiqu'sie@
+@shopping basket@|@lé pangni à doleuses@
+@shore crab@|@eune vèrte crabe@
+@short@|@court@
+@shorten@|@accourchi@
+@shoulder@|@l'êpaûle@
+@shoulder blade@|@la palette dé l'êpaule@
+@shoulder stones@|@l's ouothelles d'eune arche@
+@shoulder-belt@|@eune bandoliéthe@
+@shout@|@crier@
+@shout loudly@|@huchi@
+@shovel@|@eune pelle, la pelle, pelle@
+@show@|@montrer@
+@shower@|@la douche@
+@shrew@|@la mustchinne@
+@shrimp@|@eune chèrvette@
+@shrimp net@|@eune have@
+@shrimps@|@d'la p'tite chèrvette@
+@shrink@|@rap'tichi@
+@shroud knot@|@un noeud d'ridgage@
+@shrouds@|@les haubans@
+@Shrove Tuesday@|@Mardi Gras@
+@shrub@|@un arbuste@
+@Shrubby Orache@|@d'l'argentinne@
+@sick as a dog@|@malade coumme un tchian@
+@sickle@|@eune faûcil'ye, faûcil'ye, la faûcil'ye@
+@Sickle Medick@|@d'la lûzèrne en faûcil'ye@
+@side of ship@|@lé bord@
+@side rails@|@les roulons@
+@sides@|@les bèrchottes@
+@Sierra Leone@|@Sierra Leone@
+@sieve@|@craîncheux, lé craîncheux@
+@sigh@|@soupither@
+@sign@|@êcritchieau@
+@signature@|@la sîngnatuthe, la sîngne@
+@signing@|@la sinn'nie@
+@signpost@|@enseingne@
+@silk@|@souaie@
+@silkworm@|@lé vèr à souaie@
+@silver@|@argent@
+@Silver Birch@|@un bouôlias@
+@silver-fish@|@la teigne@
+@silversmith@|@l'argentchi@
+@Silverweed@|@d'l'argentinne, d'la t'naisie@
+@Silvery Hair-grass@|@d'l'adgulle, d'la barbe d'lièvre, d'la finne hèrbe@
+@Silvery Hair-grass (1)@|@d'l'hèrbe ès anges@
+@simple boxcart@|@lé banné@
+@simple simon@|@lé nicodème@
+@simpleton@|@l'enfuntchi, la marînjuette, lé bouët-bouteux@
+@sin@|@lé péché@
+@since time immemorial@|@du temps d'Âdam, du temps d'Âdam Jean@
+@sing@|@chanter@
+@Singapore@|@Sîngapour@
+@singe one's hair@|@s'roussi les g'veux, traler les g'veux@
+@singer (f)@|@eune chant'rêsse@
+@singer (m)@|@un chanteux@
+@singing@|@chant'tie@
+@sink@|@l'êvyi@
+@siren@|@la sirène@
+@sister@|@la soeu@
+@sister-in-law@|@la belle-soeu@
+@sit@|@assiéthe@
+@sit down@|@s'assiéthe, sit down@
+@sitting room@|@lé parleux@
+@six@|@six@
+@six feet under@|@dans l'rouoyaume des taupes, souos la bliête@
+@six feet under/fast asleep@|@dans l'rouoyaume des taupes@
+@six hundred@|@siex chents@
+@six hundred and one@|@siex chents ieune@
+@six hundred and two@|@siex chents deux@
+@sixteen@|@seize@
+@sixty@|@souaixante@
+@sixty one@|@souaixante tch'ieune@
+@sixty two@|@souaixante-deux@
+@size@|@la grandeu@
+@skate@|@patinner@
+@skateboard@|@la plianche à rouôlettes@
+@skeleton@|@eune stchelette, la stchelette@
+@skillet@|@stchilet@
+@skimmed milk@|@lé lait êcrémé@
+@skin@|@la pé@
+@skip@|@saûticoter@
+@skirt@|@la cotelle, lé cotillon@
+@skirting@|@la bâsse@
+@skull@|@la cranne@
+@sky@|@l'ciel@
+@skylark@|@eune alouette@
+@slab@|@slabbe@
+@slam@|@cliatchi@
+@slap@|@cliaper, eune charabouste, eune girnouffl'ye, un nord-êt@
+@slap (1)@|@eune gifl'ye, eune mornifl'ye, eune talmouse@
+@slap (2)@|@cliaper, eune paffe, un nord-êt@
+@slap in the face@|@eune cliamuse, eune cliaque@
+@slash@|@eune slache, slachi@
+@slate@|@ardouaise, d'l'ardouaise, l'ardouaise@
+@slats@|@des madelles@
+@slavonian grebe@|@eune pouchette, eune poutchette@
+@slavonian grebe (1)@|@eune p'tite pouchette@
+@sledgehammer@|@marté à deux mains@
+@sleep@|@dormi@
+@sleet@|@la né fondue, lé verglias@
+@sleeve@|@la manche@
+@sleigh@|@un traîné@
+@slice@|@la tranche@
+@sling knot@|@un noeud d'goulet, un noeud d'goulet d'boutelle, un pouais@
+@slip@|@drisser, êcrîlyi@
+@slip knot@|@un noeud couothant, un pouais@
+@slippers@|@les chapîns, les pantoufl'yes, les patîns@
+@slippers (1)@|@les scarpîns@
+@sloe gin@|@lé dginne sus des preunelles@
+@Slovak@|@Slovaque@
+@Slovakia@|@Slovaquie@
+@Slovenia@|@Slovénie@
+@Slovenian@|@Slovénien@
+@slow@|@lent@
+@slow worker@|@lé tîthonneux@
+@slowcoach@|@lé lourdaûd, lé traîne-dgaîne@
+@slug@|@la lînmache@
+@slut@|@la guénipe@
+@sly person@|@lé pente-ouothelle@
+@small@|@bihan, p'tit@
+@small black-headed gull@|@eune tiquelesse@
+@small blue winkles@|@des d'mouaiselles@
+@small boat@|@lé cruchot@
+@small cart@|@lé tchéthibot@
+@small chest of drawers@|@la chiffonniéthe@
+@small conger@|@eune filerêsse@
+@small dark clouds on horizon@|@les vailes dé St. Hélyi@
+@small digging fork@|@fourtchette à gardîngni@
+@small grooving plane@|@fonceux@
+@small hen@|@eune glinnette@
+@small marsh@|@lé mathaîtchet@
+@small monkshood@|@du casque romain@
+@Small Nettle@|@d's ortchies grégeaises@
+@small plot of land@|@lé betchet@
+@small red bream@|@eune sarde@
+@small sickle@|@faûcillon@
+@small stream@|@lé canné@
+@small vraic washed up@|@du courtîn, du râtchet, du râtchîn, la plîse@
+@small whelk (dans l'Est)@|@eune v'lique suaïse@
+@Small-leaved Elm@|@d'l'orme Jèrri, d'la rouoge orme@
+@Small-leaved Elm (1)@|@d'l'orme Jèrriaise@
+@smallpox@|@la vétheule@
+@smelt@|@un grasdos@
+@smithereens@|@les mînchons@
+@smock@|@la blouse, la c'mînsole dé molleton@
+@smoke@|@feunmée@
+@smooth talker@|@lé pâle-doux@
+@smuggler@|@lé fraudeux@
+@smuggling@|@la fraude@
+@smuggling boat@|@un baté fraudeur@
+@snack@|@eune bouochie@
+@snail@|@lé colînmachon@
+@snake@|@la tchilieuvre, lé sèrpent@
+@Snapdragon@|@d'la dgeule-dé-lion@
+@sneak@|@lé snîtcheux@
+@Sneezewort@|@d's aigrettes@
+@snipe@|@eune bécassine, un orfi@
+@snob@|@l'affétchi@
+@snore@|@ronflier@
+@snorer@|@lé ronflieux@
+@snow@|@la né@
+@snow bunting@|@eune blianche alouette@
+@snowball tree@|@des pommes dé Galles@
+@Snowdrop@|@des bouonnefemmes, la p'tite nue@
+@Snow-in-summer@|@d'l'argent@
+@snuff-taker@|@lé snotcheux@
+@soaked to the skin@|@trempé jusqu'à la pé@
+@soap@|@lé savon@
+@Soapwort@|@des mains jointes@
+@social@|@social@
+@socialism@|@lé socialisme@
+@socialist@|@lé socialiste@
+@society@|@la sociêté@
+@sock@|@la chaussette@
+@sofa@|@la jontchéthe, lé sofa@
+@soffit@|@un chître@
+@Sofian@|@Sofiais@
+@soft@|@mo@
+@soft drugs@|@les drogues molles@
+@Soft Rush@|@du jonc@
+@Soft-brome@|@d'la droe@
+@software@|@lé software@
+@soil@|@la tèrre, tèrre@
+@solar power@|@lé pouver solaithe@
+@solder@|@sode@
+@soldering iron@|@fé à soder, sodeux@
+@soldier@|@lé soudard@
+@soldiering@|@la soudardéthie@
+@sole@|@eune sole@
+@sole of shoe@|@la s'melle (du soulié)@
+@solicitor@|@un êcrivain@
+@solo@|@lé solo@
+@Solomon Islands@|@Îles Solomon@
+@Solomon's-seal@|@des plieurs dé Jâcob, la veuve plieuthante@
+@Solomon's-seal (1)@|@des plieuthants@
+@Somalia@|@Somalie@
+@son@|@lé fis@
+@son of a bitch@|@lé sénévébitche@
+@song@|@canchon, chanson, eune chanson, un chant@
+@songthrush@|@eune grive@
+@son-in-law@|@lé bieau-fis@
+@soot@|@sie@
+@soprano@|@lé soprano@
+@sorceror@|@un enchorchéleux@
+@sorcery@|@l'enchorchell'lie@
+@sore@|@meûsi@
+@Sorry@|@J'ai r'gret@
+@soundbite@|@la bouochie d'son@
+@sounding-lead@|@la sonde, la sonde@
+@soup@|@la soupe@
+@sour milk@|@lé lait su@
+@sourface@|@lé r'tchîngneux@
+@south@|@sud@
+@South Africa@|@Afrique du Sud@
+@South Australia@|@Australie Méridionale@
+@South Carolinian@|@Carolinnien du Sud@
+@South Dakotan@|@Dakotais du Sud, Dakotchien du Sud@
+@South Georgia@|@South Georgia@
+@South Korea@|@Corée du Sud@
+@South Sandwich Islands@|@Îles South Sandwich@
+@Southampton@|@Hantonne@
+@southeast@|@su'êt'@
+@southernwood@|@la garde-robe@
+@southwest@|@seur-vouêt@
+@souvenir shop@|@la boutique à souv'nîns@
+@sow@|@la couoche, la quétote, la quette, la trie@
+@sower@|@lé s'meux@
+@sowing@|@l'ens'mench'chie, la sèmethie@
+@sowing-machine@|@la s'meuse, lé s'meux@
+@space@|@l'espace@
+@spade@|@beque, eune bêque, la beque@
+@spades@|@du picl'ye@
+@Spain@|@Espangne@
+@spalling-hammer@|@spâleux@
+@spaniel@|@lé bâsset@
+@Spanish@|@L'Espangno@
+@Spanishman@|@Espangno@
+@spanking@|@eune latteuse@
+@spanner@|@clié à êcrouettes@
+@spar@|@la spèrre@
+@spare wheel@|@la reue d'êpaîngne@
+@spares@|@les pièches d'êpaîngne@
+@sparrow hawk@|@un êpèrvi, un êteurcélet, un teurcélet@
+@speak@|@d'viser, pâler@
+@speaker@|@lé pâleux@
+@Spear Mint@|@d'la menthe dé gardîn@
+@Spear Thistle@|@des soudards, du tcheurdron ânyi@
+@specialist@|@lé spécialiste@
+@species of blenny@|@brun, un cabot (gris, un co journieaux@
+@species of cuttle fish@|@eune seiche, un cônet@
+@species of cuttlefish@|@un cônet@
+@species of dog fish@|@un brotchet, un mataud, un tchian d'mé@
+@species of dog fish (1)@|@eune rousse@
+@species of dragonet@|@un vithelîn@
+@species of shrimp@|@du chèrvîn@
+@spectacle-case@|@l'êtui à leunettes@
+@spectacles@|@les leunettes@
+@spectator@|@lé spectateur@
+@speech@|@lé discours@
+@Speedwell@|@lé couothage, lé tèrrêtre@
+@spending@|@la dêpens'sie, la dêpense@
+@spendthrift@|@lé dêpensyi, lé gaspilleux, lé saccageux@
+@spendthrift (1)@|@lé trébuque-bein@
+@spices@|@l's êpices@
+@spider@|@lé pêtre@
+@spider crab@|@eune pihangne, pihangne@
+@spider plant@|@du pêtre@
+@spigot@|@pinnoche@
+@spinach@|@la bette@
+@Spindle-tree@|@un vèrt-bouais@
+@spire@|@l'cliochi@
+@spirit level@|@nivé, plionmet@
+@spirits@|@l'esprit d'vîn@
+@spiritual@|@spirituel@
+@spit@|@eune broche@
+@splay rafter@|@eune raccourche@
+@spleen@|@la rate@
+@splice@|@eune êpisseuse@
+@splinter@|@un êclyi@
+@spoiling hammer@|@marté à êbaûchi@
+@spoilsport@|@lé rabat-jouaie, lé troubl'ye-fête@
+@spoilt person@|@lé cad'lîn@
+@spoke@|@les rais@
+@spoke of a wheel@|@lé rai d'eune reue@
+@spokes@|@les rais@
+@spokeshave@|@couté à main@
+@sponge@|@eune êponge@
+@spoon@|@la tchulyi, tchulyi@
+@spotted flycatcher@|@lé marté@
+@Spotted Medick@|@du trêfl'ye d'Jérusalem@
+@Spotted Orchids@|@d'la coue dé r'nard@
+@sprats@|@d's esprots@
+@Spreading Meadow-grass@|@d'l'hèrbe d'pré@
+@spring@|@la r'source, lé bouoillon@
+@spring onion@|@lé chibot@
+@spring tooth harrow@|@lé crapaud@
+@springs@|@les ressorts@
+@sprinkler@|@poudriyi@
+@sprit@|@la sprède, sprède du grand mât@
+@spritsail@|@la vaile dé sprède@
+@Spruce@|@lé sapîn, lé spruche@
+@Spurge Laurel@|@du sênné@
+@spy@|@l'êpieux, l'espion@
+@squall@|@piailli@
+@squanderer@|@lé gâzouoilleux, lé goussepilleux@
+@squat@|@s'accroupi@
+@squeak@|@grînchi@
+@squirrel@|@un êtchutheu@
+@Sri Lanka@|@Sri Lanka@
+@St Helier@|@St Hélyi@
+@St Malo@|@St Mâlo@
+@St Peter Port@|@St Pièrre Port@
+@St. Lawrence River@|@lé St. Louothains@
+@St. Nazaire@|@St. Nazaithe@
+@St. Petersburger@|@St. Pétersbourgeouais@
+@St. Swithin's@|@la Saint Swithin@
+@St. Valentine's Day@|@la Saint Valentîn@
+@stackyard@|@lé haûgard@
+@stag@|@lé chèr@
+@stag-beetle@|@lé dgiâbl'ye@
+@stained glass@|@lé vèrre dé couleu@
+@staircase@|@l'êcalyi, la montée, lé d'gré@
+@stair-rods@|@les vèrdgettes@
+@stale@|@mouaîsi@
+@stalk@|@lé pid d'pomme@
+@stall@|@êtalage, l'êtalage@
+@stallion@|@l'êtalon, lé j'val entchi@
+@stamp@|@êtampe, mèrtcheux, piétinner, un tîmbre@
+@stamp (1)@|@lé tîmbre@
+@stamp for abroad@|@un tîmbre pouor l'êtrangi@
+@stanchions@|@l's êpées@
+@stand upright@|@dréchi@
+@standing stone@|@eune longue pièrre@
+@staple@|@crampon@
+@star@|@l'êtaile@
+@starch@|@amidon@
+@starfish@|@eune etaile dé mé@
+@starflower@|@l's êtouailes dé tèrre@
+@starling@|@un êtourné@
+@starlings@|@d's' êtournieaux@
+@Star-of-Bethlehem@|@d's êtailes dé Bethléem@
+@start@|@stèrter@
+@States of Jersey@|@l's Êtats d'Jèrri@
+@stationer's@|@la papet'tie, papet'tie@
+@stationery@|@la papet'tie@
+@statistics@|@les statistiques@
+@statue@|@statue@
+@stay@|@l'êtai, l'êtai du grand mât, rester@
+@steal@|@voler@
+@steamer@|@lé stînmeux@
+@steamship@|@lé stînme, stînme@
+@steel@|@acyi@
+@steep field@|@lé côti@
+@steer@|@faithe cap pouor, s'n aller l'cap en mé@
+@steering wheel@|@la reue d'avo@
+@stem@|@la tigue@
+@stem-post@|@l'êtane@
+@step of mast@|@lé pid d'un mât@
+@stepbrother@|@lé d'mié-fréthe, lé fréthe emprunté, lé mié-fréthe@
+@stepsister@|@la d'mié-soeu, la soeu empruntée@
+@stepson@|@lé bieau-fis@
+@stern@|@l'arriéthe@
+@stew@|@l'êtuivée, la hachie, lé fricot, lé ragoût@
+@stew pan@|@lé stchilet@
+@stick@|@eune badgette@
+@stickleback@|@eune êpinnoche@
+@stiff neck@|@lé teurt-co@
+@stillborn@|@mort-né, un mort-né@
+@stimulant@|@un r'confort@
+@sting@|@pitchi@
+@Stinging Nettle@|@d's ortchies (f)@
+@stingray@|@eune raie à didget, eune têgrêsse@
+@stinking hellebore@|@d'la pommeliéthe, d'la pommiéthe@
+@stir@|@èrmuer, rêmouer@
+@stirrer@|@l'êtibotcheux, la mouvette@
+@stitch@|@un ahan dans l'côté@
+@stoat@|@la b'lette@
+@stock@|@lé chaud@
+@Stock (Virginia)@|@d'la ravenelle, violettes d'êté@
+@stock dove@|@un pigeon d'colombyi@
+@Stockholmer@|@Stockholmais@
+@stockings@|@les cauches@
+@stole@|@l'étole@
+@stomach@|@lé ventre@
+@stomach ache@|@la colique@
+@stomach rumblings@|@les catholiques@
+@stone@|@la pièrre, pièrre@
+@stone age@|@l'âge dé pièrre@
+@stone chippings@|@l'êcadîn, les trais-quarts@
+@stone chisel@|@chîsé@
+@stone cutter@|@un tailleur d'pièrre@
+@stone dresser@|@lé pitcheux d'pièrre@
+@stonechat@|@un crac dé geon, un craquelîn d'geon@
+@stonechip@|@un êcliat@
+@stonemason@|@lé machon@
+@stony@|@pièrreux@
+@stony ground@|@lé grupé@
+@stook of corn@|@lé binnot@
+@stool@|@la scabelle, lé scabeau, lé tabouothet@
+@stop@|@arrêter, cêssi@
+@storeroom@|@lé chânyi@
+@storm clouds@|@des clius@
+@storm-bound@|@en r'lâche@
+@storm-jib@|@lé saque-feu@
+@stormy petrel@|@lé cartchulot@
+@stovies@|@des patates au court-bouoillon@
+@straight and high axle cart@|@lé drait hèrnais@
+@straight hair@|@des g'veux draits@
+@strait@|@lé Dêtrait@
+@stranger@|@l'înconnu@
+@strangler@|@un êtranglieux@
+@strangling@|@l'êtrangliéthie@
+@strap@|@strape@
+@Strasburger@|@Strasbourgeouais@
+@strategy@|@la stratégie@
+@straw@|@l'êtrain, la paille, la pâle, pâle@
+@straw of oats@|@l'av'née@
+@stream@|@lé russé@
+@street@|@la rue, rue@
+@street lamp@|@veue d'rue@
+@stretcher@|@chiviéthe à bras, la chiviéthe à bras@
+@strike@|@satchi@
+@strike sail@|@am'ner la vaile, les vailes@
+@striped wrasse@|@un coucou@
+@stroll@|@s'traûler@
+@strong@|@fort@
+@strong cider@|@lé fout-bas@
+@stubborn person@|@l'entrinneux@
+@stud@|@lé baîseux, lé giêteux@
+@studding-sail@|@l'êtouinne@
+@student@|@l'êtudgiant@
+@study@|@l'êtude@
+@stumble@|@trébutchi@
+@stumble and fall@|@drotchi@
+@stun@|@assommer@
+@stupid person@|@la lantèrne, lé butor@
+@sturgeon@|@un esturgeon@
+@stutter@|@aheuqu'ter, bégaûder@
+@subjects@|@les sujets@
+@succeed@|@rêussi@
+@successor@|@lé rempliaichant@
+@suet@|@la graisse dé rîngnon@
+@suffering@|@afflyigi@
+@suffocation@|@la suffocâtion@
+@sugar@|@lé chucre@
+@sugar scoop@|@palette à chucre@
+@sugar-bowl@|@lé chucriyi@
+@sugar-iced cake@|@la gâche à chucre@
+@suicide@|@lé mêfait, lé suicide@
+@suit@|@lé fa, lé suit, suit@
+@sulphur@|@soufre@
+@sun@|@l'solé@
+@Sun Spurge@|@d'l'hèrbe à véthues, du lait d'tchilieuvre@
+@sunburn@|@l'êcaudeuse, un coup d'solé@
+@Sunday@|@Dînmanche@
+@Sunday school@|@l'êcole du Dînmanche@
+@sunfish@|@un solé@
+@Sunflower@|@un tournésol@
+@sunglasses@|@des leunettes d'solé, les leunettes d'solé@
+@sunrise@|@lé l'vant du solé@
+@sunset@|@lé couochi du solé@
+@supermarket@|@lé supèrmarchi, supèrmarchi@
+@superstitious@|@supèrstitieux@
+@supervisor@|@lé surîntendant@
+@supporter@|@lé partisan@
+@surf@|@lé r'sîn@
+@surgeon@|@un seurgien@
+@Suriname@|@Suriname@
+@surplice@|@la p'lisse@
+@Susan@|@Susanne, Sûson, Sûthon, Sûzon@
+@Suzan@|@Susanne, Sûson, Sûthon, Sûzon@
+@Svalbard and Jan Mayen@|@Svalbard et Jan Mayen@
+@swallow@|@eune héthonde@
+@swan@|@un cyngne@
+@swap@|@trotchi@
+@sway@|@craûler@
+@Swaziland@|@Swaziland@
+@swear@|@juther@
+@swearing in@|@l'assèrmentâtion@
+@sweatshirt@|@lé sweatshirt@
+@swede@|@la suidiche, suidiche@
+@Sweden@|@Suède@
+@Swedish@|@Suédouais@
+@sweep@|@brîngi@
+@sweeping@|@brîng'gie@
+@sweet@|@doux@
+@Sweet Alison@|@d'l'alysson@
+@Sweet Briar@|@d'la rose sauvage@
+@Sweet Chestnut@|@un chât'nyi@
+@sweet pea@|@d'la pais-flieur@
+@sweet shop@|@la boutique à chucrîns@
+@Sweet Vernal-grass@|@du tchiândent@
+@Sweet William@|@la girofliée, la jalousie@
+@Sweet Woodruff@|@du ris@
+@sweetbread@|@la brie@
+@sweetheart@|@un tchoeu@
+@sweets@|@doûdoux@
+@swell@|@lé milord@
+@swelling@|@l'enflieunme@
+@swift@|@la grand' néthe, la héthonde dé falaise, un puant@
+@swift (1)@|@la néthe héthonde@
+@swim@|@nagi@
+@swimmer@|@un nageux@
+@swimming@|@la nagegie@
+@swimming-pool@|@la bangnérêsse@
+@swindle@|@lé chiffonnage@
+@swindler@|@l'aigrefîn@
+@Swine-cress@|@d'la cône dé chèr@
+@Swiss@|@Suisse@
+@switch@|@lé vèrdgillon@
+@Switzerland@|@Suisse@
+@swollen neck glands@|@les gormes@
+@sword@|@lé sâbre@
+@Sword of Orion@|@lé sâbre@
+@Sycamore@|@un sycomôre@
+@symptom@|@symptôme@
+@synagogue@|@eune synnagogue@
+@synod@|@un synnode@
+@Syria@|@Syrie@
+@syringa@|@des flieurs dé neuches@
+@syringe@|@eune êclyiche, eune êclyiche, la sérîngue, sérîngue@
+@syrup@|@lé sitho@
+@ta@|@tèe@
+@table@|@la tabl'ye@
+@table apple@|@eune pomme dé tabl'ye@
+@Table Mountain@|@la Montangne d'la Tabl'ye@
+@table-cloth@|@lé doubliyi@
+@tablespoon@|@eune tchulyi à soupe@
+@tack@|@cliou d'chopîn, faûfiler, lôvier@
+@tack about@|@vither d'bord@
+@tadpole@|@lé p'tit crapaud@
+@tail@|@la coue@
+@tail coat@|@la câsaque à coue d'héthonde@
+@tail-board@|@lé driéthe@
+@tail-board finial@|@lé violon@
+@tailor@|@lé couôtuthyi@
+@Taiwan@|@Taiwan@
+@Tajikistan@|@Tajikistan@
+@take@|@prendre@
+@take away@|@remporter@
+@take in a reef@|@prendre un ris@
+@take mourning@|@prendre lé deu@
+@take the bit between the teeth@|@prendre lé mors ès dents, s'drodgi@
+@tallboy@|@la commode@
+@Tallinner@|@Tallinnais@
+@Tamarisk@|@du tamathîn@
+@Tansy@|@d'la t'naisie@
+@Tanzania@|@Tanzania@
+@tap@|@coq@
+@tape measure@|@m'suthe@
+@tape recorder@|@un enr'gistreux@
+@tapeworm@|@lé vèr solitaithe@
+@tar@|@tathe@
+@tart (apple)@|@lé pâté d'pommes@
+@tartine@|@la beurrée@
+@taste@|@gouôter@
+@tax@|@la taxe@
+@taxi@|@lé taxi, taxi@
+@taxi rank@|@la stâtion d'taxis, stâtion d'taxis@
+@TB@|@la conseunmtion@
+@tea@|@lé thée@
+@tea towel@|@un êssuyeux@
+@teach@|@ensîngni@
+@teacher@|@l'ensîngnant@
+@tea-cosy@|@lé chapé du pot' à thée@
+@teak@|@tique@
+@Teak@|@lé tique@
+@teapot@|@lé pot à thée@
+@tear@|@dêchither@
+@tears@|@les lèrmes@
+@Teasel@|@d'la piègne à chorchi, du tcheurdron à chorchi@
+@teaspoon@|@eune tchulyi à thée, la tchulyi à thée@
+@teatowel@|@l'êssuie-tâsses@
+@tea-tray@|@lé sèrveur@
+@teeth@|@les dents@
+@telegram@|@lé télégramme@
+@telephone@|@lé téléphône@
+@telescope@|@eune longue-veue, la longue-veue@
+@television@|@la télévîsion@
+@television station@|@eune stâtion d'télévîsion@
+@tell@|@dithe@
+@tell-tale@|@lé contepéteux@
+@temple@|@lé templ'ye@
+@ten@|@dgix@
+@ten pennies@|@dgiêx pénîns@
+@ten pounds@|@dgiêx louis@
+@tenant@|@lé locataithe@
+@tench@|@la tanche@
+@Tennesseean@|@Tennesseeais, Tennesseeien@
+@term of office@|@la gestion@
+@tern@|@un daûtchet@
+@testicle@|@un rosseton@
+@testicles@|@les cannettes@
+@testimony@|@lé têmoignage@
+@Texan@|@Texain, Texan@
+@texting@|@la textéthie, textéthie, textéthie@
+@Thai@|@Thaïlandais@
+@Thailand@|@Thailande@
+@Thames@|@la Riviéthe dé Londres@
+@thank you@|@mèrcie, tèe@
+@Thank you@|@Mèrcie, Mèrcie bein des fais@
+@thatch@|@glyi@
+@thatched roof@|@lé lief en glyi@
+@that'll be..@|@chenna f'tha...@
+@that'll be...@|@chenna f'tha...@
+@the ace of clubs@|@l'as dé trêfl'ye@
+@the Alps@|@l's Alpes@
+@the apple crushing trough@|@lé tou d' preinseu (en gattes)@
+@the baler@|@la machinne à dgèrber@
+@the banking hoe@|@la houette à houetter@
+@the barrel@|@lé bathi@
+@the big plough@|@la grand' tchéthue@
+@the Blue Mountains@|@les Bliues Montangnes@
+@the bogeyman@|@lé barbou, lé croque-mitaine@
+@the book@|@lé livre@
+@the bread oven shovels@|@les pelles à fou@
+@the breezing plough@|@la tchéthue à brîsi@
+@the butter can@|@la canne à beurre@
+@the butter churn@|@la selle à beurre@
+@the butter worker@|@la tabl'ye à beurre@
+@the cart@|@lé hèrnais@
+@the cauliflower collector@|@la bîngue@
+@the chaff cutter@|@lé couté à fain@
+@the cider barrel@|@la barrique à cidre@
+@the cider press@|@lé preinseu@
+@the Conquest@|@la Contchête@
+@the cost@|@lé couôtage, lé couôtement@
+@the counter@|@lé compteux@
+@the Creator@|@lé Créateu@
+@the Crusades@|@les Crouaîsades@
+@the Dean@|@lé Douoyen@
+@the devil@|@lé dgiâbl'ye, lé Nic, lé Pid-fourtchu@
+@the dock fork@|@lé hale-doque@
+@the dough trough@|@lé tro à pain@
+@the evil eye@|@lé mauvais yi@
+@the evil one@|@lé Malîn@
+@the exchange rate@|@lé change@
+@the faithful@|@les fidèles@
+@the front@|@lé front@
+@the fruit basket@|@lé pangni à frit@
+@The Gambia@|@Gambie@
+@the grain plough@|@la tchéthue à grain@
+@the Grenadines@|@les Grénadinnes@
+@the guy@|@lé bouanhomme@
+@The Hague@|@La Hague@
+@the handbarrow@|@la chiviéthe à bras@
+@the harrows@|@les hèrches@
+@the kettle@|@lé ticl'ye@
+@the king@|@lé rouai@
+@The king is dead@|@Lé rouai est mort@
+@the last day of the year@|@lé tchu d'l'an@
+@the lifting spade@|@la profonde bêque@
+@the little barrel@|@lé p'tit bathi@
+@the little people@|@les p'tits faît'tchieaux@
+@the manure barrel@|@la barrique à êpu@
+@the market@|@lé marchi@
+@the milk can@|@la canne à lait@
+@the milk cart@|@lé p'tit hèrnais à lait@
+@the milk filter@|@lé couleux@
+@the milk separator@|@la machinne à s'pather@
+@the mixer@|@lé mixeu@
+@the moon@|@la leune@
+@The Netherlands@|@Pays Bas@
+@the occupation@|@l'Otchupâtion@
+@The Philippines@|@Ph'lippines@
+@the planting plough@|@la tchéthue à plianter@
+@the Plough@|@l'Êclon@
+@the Pope@|@lé Pape@
+@the potato digger@|@la machinne à dêfoui@
+@the powder sprayer@|@la machinne à poudrinner@
+@the Queen@|@la Reine@
+@the Queen Mother@|@la Reine Méthe@
+@the queen of hearts@|@la danme dé tchoeu@
+@the rammer churn@|@la selle à tuthet@
+@the Rockies@|@les Montangnes Rotcheuses@
+@the roller@|@lé rouôleux@
+@the root fork@|@la frouque à réchinnes@
+@the round stones@|@l's assiettes@
+@the Royal Court@|@la Cour Rouoyale@
+@the Royal Family@|@la Fanmil'ye Rouoyale@
+@the scarifier@|@lé griffon@
+@the seed drill@|@la sèm'rêsse@
+@the spoke dogs@|@les dagues à charron@
+@the stacking stones@|@les pièrres dé haûgard@
+@the stars@|@l'êtailes@
+@the storm@|@la tempête@
+@The Sudan@|@Soudan@
+@the sun@|@lé solé@
+@the support stones@|@les pids d'tas@
+@the temperature@|@la tempéthatuthe@
+@the ten of diamonds@|@lé dgix dé carreau@
+@the toaster@|@lé grille-pain@
+@the tractor@|@lé tracteu@
+@the two of spades@|@lé deux dé picl'ye@
+@the video@|@lé vidg'o@
+@the Virgin@|@la vièrge@
+@the vraic anchor@|@la pitchelle à vrai@
+@the vraic fork@|@la frouque à vrai@
+@The weather in Jèrriais@|@Lé temps en Jèrriais@
+@the Web@|@l'Ithangnie@
+@the weeder@|@la sèrcliéresse@
+@the wheel jack@|@lé lévyi@
+@the wheelbarrow@|@la chiviéthe@
+@the wheelwright's stand@|@l'êtablyie ès rouelles@
+@the whetstone wheel@|@la meule@
+@the winnower@|@lé venteux@
+@theatre@|@thiâtre@
+@theft@|@lé vol@
+@there's a mackerel sky@|@lé ciel est maqu'théleux@
+@thermometer@|@un thèrmomètre@
+@these tools@|@ches ôtis@
+@they@|@il'@
+@they are speaking@|@i' sont à pâler@
+@thick@|@êpais@
+@thick beard@|@eune barbe d'sapeur@
+@thick head of hair@|@un touaîson@
+@thief@|@lé voleux@
+@thigh@|@la tchuisse@
+@thimble@|@un dée@
+@thin@|@maigre@
+@thin beard@|@eune barbe d'gardîngni@
+@thin person@|@la tenvril'ye, lé haîngre@
+@think@|@penser@
+@thirteen@|@treize@
+@thirty@|@trente@
+@thirty one@|@trente'tch'ieune@
+@thirty two@|@trente-deux@
+@this afternoon@|@ch't' arlévée@
+@this evening@|@à ces sé@
+@this is a dog@|@Ch'est un tchian@
+@This is a donkey@|@Ch'est un âne@
+@this is a horse@|@Ch'est un j'va@
+@this is a Jersey's cow@|@Ch'est eune vaque Jèrriaise@
+@this morning@|@à matîn@
+@this year@|@ch't' année@
+@Thomas@|@Tam, Tamme, Tanme, Thomas, Thonmas@
+@thongweed@|@du lachet, du lachon@
+@Thorn Apple@|@du pommyi du dgiâbl'ye@
+@thousand@|@mille@
+@thrashing@|@eune brûlée, eune dêgêlée, eune êcaûffeuse@
+@thrashing (1)@|@eune achouêmie, eune rosseteuse, la galette@
+@threaten@|@m'nichi@
+@three@|@trais@
+@three hundred@|@trais chents@
+@three hundred and one@|@trais chents ieune@
+@three hundred and two@|@trais chents deux@
+@three quarters of an hour@|@trais quarts d'heuthe@
+@Three-cornered Leek@|@d'l'as sauvage@
+@threshold@|@lé ché d'la porte, lé pas dé l'us@
+@Thrift@|@d's iliets d'falaise@
+@throat@|@la gorge@
+@thrombosis@|@un coup d'sang@
+@throw@|@fliantchi, j'ter, lanchi, pitchi@
+@thug@|@un poltron@
+@thumb@|@lé ponchet@
+@thunder@|@l'orâge@
+@thunderbolt@|@eune pièrre à foudre, la foudre@
+@thunderclouds@|@des nouages d'ôrage, des têtes d'ôrage@
+@Thursday@|@Jeudi@
+@thyme@|@lé thymbre@
+@Tibetan@|@Tibétain@
+@tick@|@la lâque@
+@ticket@|@titchet, un titchet@
+@tickle@|@catouoilli@
+@ticklish throat@|@eune râp'sie@
+@tide@|@la mathée@
+@tie@|@la cravate@
+@Tiger-lily@|@lé rouoge lis@
+@tigermoth caterpillar@|@la catte@
+@tile@|@eune tuile@
+@till@|@la câsse@
+@timekeeper@|@lé gardeux d'quart@
+@Timothy@|@d'la coue, Timothée@
+@tin@|@blianc-fé@
+@tinder@|@tondre@
+@tinkle@|@tînter@
+@tipper@|@lé tunmb'sé@
+@tipsy@|@alleunmé, souard@
+@Tiranian@|@Tirannais@
+@tire@|@lâsser@
+@Tirol@|@Tithol@
+@tithe@|@la dgiême@
+@to abandon@|@abandonner@
+@to abuse@|@abuser@
+@to acquit@|@atchitter@
+@to address@|@adréchi@
+@to administer drugs@|@drodgi@
+@to adore@|@adouother@
+@to air laundry@|@airer lé lînge@
+@to allow@|@allouer@
+@to arrest@|@arrêter, arrêter, blioutcher@
+@to arrive unexpectedly@|@tchaie sus l'co à tchitch'un@
+@to asphyxiate oneself@|@s'asphyxier@
+@to assail@|@assailli@
+@to assault@|@assauter@
+@to back@|@batchi@
+@to back up@|@batchi@
+@to ballot@|@voter au scrutîn@
+@to bandage@|@bandagi, panser@
+@to bank@|@bantchi@
+@to bank money@|@bantchi les sou@
+@to baptise@|@bâptîsi@
+@to bargain@|@bardgîngni@
+@to be a candidate@|@êt' sus les rangs, êt' sus les rangs@
+@to be a soldier@|@soudarder@
+@to be all eyes@|@êt' tout à ièrs@
+@to be at death's door@|@êt' au nom d'mort, êt' sus l'pus@
+@to be drunk@|@êt' en bouaisson@
+@to be hand in glove@|@êt' coumme la main et l'gant@
+@to be ill@|@aver la tête souos l'aile@
+@to be in good health@|@aver la joue souos l'yi@
+@to be in mourning@|@êt' en deu@
+@to be in ruins@|@êt' lé co souos l'yi@
+@to be legal tender@|@aver cours@
+@to be light-fingered@|@aver les dés longs@
+@to be necessary@|@faller@
+@to be on one's deathbed@|@êt' sus san mouothi@
+@to be out of sorts@|@faithe la pânniole@
+@to be shortsighted@|@vaie d'près@
+@to be stony broke@|@êt' sus san tchu@
+@to be stubborn@|@aver tête et bonnet@
+@to be stuck up@|@aver l'nez haut@
+@to be two faced@|@êt' houmme à deux faches@
+@to beat@|@astitchi, battre, camailli, dêfoncer, latter@
+@to become a candidate@|@s'mett' sus les rangs@
+@to believe@|@craithe@
+@to belt@|@cheindre, slîndgi, slîndgi@
+@to besiege@|@assiégi@
+@to bet@|@gagi, pathier@
+@to betray@|@trahi@
+@to bewitch@|@enchorchéler, entchéthaûder@
+@to bid@|@offri@
+@to billet@|@casèrner@
+@to bleach@|@blianchi@
+@to bleed@|@sangni@
+@to bless@|@béni@
+@to blind@|@aveuglier@
+@to blink@|@blyîntchi, clyinn'ter@
+@to block@|@blotchi@
+@to boil@|@bouoilli@
+@to boil over@|@bouoilli par dessus@
+@to bombard@|@bombarder@
+@to book@|@boutchi@
+@to boot@|@botter@
+@to booze@|@riboter@
+@to borrow@|@emprunter@
+@to botch@|@bôtchi@
+@to bottle@|@emboutilyi, l'emboutil'lie@
+@to box@|@boxer@
+@to break the shell@|@crutchi@
+@to breeze@|@brîsi@
+@to bribe@|@corrompre, graîssi la patte, séduithe@
+@to bud@|@èrbouter@
+@to build@|@bâti, construithe@
+@to bury@|@entèrrer@
+@to busk@|@beustchi@
+@to butt@|@bouter@
+@to butter@|@beurrer@
+@to buy@|@acater@
+@to cane@|@codrer, donner la tchêne, vrédîndgi, vrier@
+@to canvass@|@canvasser@
+@to cart@|@tchéthier@
+@to catch cold@|@s'enrhînmer@
+@to caulk@|@calfaîter@
+@to chair@|@présider@
+@to chatter@|@caquter@
+@to churn@|@pêtri@
+@to clean@|@netti@
+@to click@|@clyiquer@
+@to clink glasses@|@trîntchi les vèrres@
+@to coagulate@|@fidgi@
+@to coffin@|@encôffrer@
+@to comb@|@dêmêler@
+@to come@|@v'nîr@
+@to command@|@c'mander@
+@to commit suicide@|@s'mêfaithe, sé suicider@
+@to configure@|@confidguther@
+@to confirm@|@confirmer@
+@to confiscate@|@confistchi@
+@to contest@|@contester@
+@to convert@|@convèrti@
+@to cook@|@coutchi, tchuithe@
+@to copy@|@copier@
+@to cost@|@couôter@
+@to court@|@faithe la carre@
+@to crumble@|@êmioler@
+@to cry@|@plieuther@
+@to cuddle@|@ligouaîsi@
+@to cultivate@|@tchultiver@
+@to curdle@|@cailli@
+@to cure@|@dgéthi@
+@to curl@|@corler, friser@
+@to curl one's hair@|@s'corler@
+@to cut@|@coper@
+@to cut hair short@|@touôser@
+@to cut into quarters@|@quarteller@
+@to cut wood@|@tailli@
+@to darn@|@dèrner@
+@to deal@|@donner les cartes@
+@to decide@|@décider@
+@to declare war@|@dêcliather la dgèrre@
+@to defend@|@d'fendre@
+@to delete@|@pitchi hors@
+@to deliver@|@d'livrer@
+@to die@|@câsser sa pipe, mouothi, pâsser l'pas, patchi ses vailes, trépâsse@
+@to die (1)@|@câsser sa pipe@
+@to dip@|@tremper@
+@to discuss@|@distchuter@
+@to disinfect@|@d'sînfecter@
+@to distil@|@distîler@
+@to do@|@faithe@
+@to do the washing up@|@laver les vaissieaux@
+@to dock@|@amather@
+@to download@|@dêchèrgi@
+@to doze@|@haûter@
+@to draw lots@|@haler ès noeuds@
+@to drill@|@drîlyi@
+@to drink@|@baithe@
+@to drink heavily@|@baithe à tare-larigot, baithe raide, gaûdgetter, l'ver l'coute, piochi, piochi, radaler@
+@to drink heavily (1)@|@l'ver l'coute, piochi, radaler@
+@to drive@|@cachi@
+@to drown@|@s'n'yer@
+@to drub@|@quétilyi@
+@to dry@|@s'tchi, stchi@
+@to dust@|@chiffonner, êpousseter@
+@to dust with flour@|@enflieuther@
+@to earn@|@gângni@
+@to educate@|@êcoler, êdutchi, înstruithe@
+@to elect@|@êlithe@
+@to e-mail@|@e-mailer@
+@to embroider@|@broder@
+@to endure@|@sténer@
+@to entwine@|@s'enlachi@
+@to execute@|@exétchuter@
+@to exorcise@|@d'senchorchéler@
+@to extract a tooth@|@êrachi eune dent@
+@to fade@|@dêteindre@
+@to fall between two stools@|@êt' lé tchu entre deux selles@
+@to feel sick@|@aver l'tchoeu d'vômi@
+@to fertilize@|@graîssi@
+@to fight@|@s'battre, s'freûler, s'freûler, s'friper@
+@to file@|@enfiler@
+@to fill out a form@|@remplyi eune, remplyi eune forme@
+@to flower@|@flieuthi@
+@to forge@|@forgi@
+@to forge a signature@|@faithe un faux sîngne@
+@to fork the ground@|@fourtchi la tèrre@
+@to frizz@|@crêp'ler@
+@to fry@|@fricachi@
+@to furrow@|@sîlyi@
+@to garden@|@gardinner@
+@to get divorced@|@s'dêmathier, s'divorcer@
+@to get drunk@|@bouaissonner, prendre eune tchuite, sé soûler@
+@to get engaged@|@s'engagi@
+@to get married@|@s'mathier@
+@to get one's fingers burned@|@s'brûler les dés@
+@to get tipsy@|@s'coêffi, s'coincer@
+@to give a good scrub@|@ouâchinner@
+@to give a licking@|@vlitchi@
+@to give a wink@|@donner un clyîn, faithe un clyîn@
+@to give credit@|@faithe crédit@
+@to give someone a lift@|@donner un pâssage à tchitch'un@
+@to give up@|@èrnonchi@
+@to go@|@aller@
+@to go grey@|@grisi@
+@to govern@|@gouvèrner@
+@to grate@|@gratter@
+@to graze@|@paître@
+@to grill@|@grîlyi@
+@to grow@|@craître@
+@to guide@|@dgider@
+@to hang out laundry@|@êtendre lé lînge@
+@to harness in long harness@|@lier à longue graie@
+@to harrow@|@hèrchi@
+@to harvest@|@èrcolter@
+@to haunt@|@hanter@
+@to have a nap@|@freunmer l'yi@
+@to have green fingers@|@aver bouonne main@
+@to have loads@|@en aver dos et ventre@
+@to have one's hair cut short@|@s'faithe touôser@
+@to help@|@aîdgi@
+@to hit@|@paffer, talmoûser, taper@
+@to hit hard@|@taper raide@
+@to impoverish the soil@|@dêgraîssi la tèrre@
+@to impregnate@|@empreingni@
+@to imprison@|@mettre en boête, mettre en prison@
+@to inject@|@înjecter@
+@to invade@|@envahi@
+@to iron@|@féther@
+@to join@|@joindre@
+@to judge@|@jugi@
+@to kick@|@co-d'piêter, codpîser@
+@to kidnap@|@enlever@
+@to kiss@|@baîsi, embraichi@
+@to kiss someone@|@bailli la joue à tchitch'un@
+@to knead@|@pêtri@
+@to knit@|@ouvrer@
+@to know by sight@|@connaître dé veue@
+@to know something by heart@|@saver d'tchi par tchoeu@
+@to lash@|@donner du fouet, lachi@
+@to laugh@|@ritche@
+@to lay (eggs)@|@pondre@
+@to lay a floor@|@plianchi@
+@to learn@|@apprendre@
+@to learn by heart@|@apprendre par tchoeu@
+@to lend@|@prêter@
+@to lick@|@co-d'piêter, codpîser, litchi@
+@to like a drink@|@senti lé bouchon@
+@to lisp@|@pâler sus l'but d'sa langue@
+@to live@|@d'meuther, d'meuther, vivre@
+@to load@|@chèrgi@
+@to look@|@èrgarder@
+@to look after oneself@|@souongni d'sa pé@
+@to look at in the mirror@|@s'mither@
+@to love@|@aimer@
+@to luff@|@lofer@
+@to make a speech@|@faithe un discours@
+@to make butter@|@battre lé beurre, faithe lé beurre@
+@to march@|@marchi@
+@to mash@|@hadgi@
+@to massacre@|@machacrer@
+@to measure@|@m'suther@
+@to menace@|@m'nichi@
+@to mince@|@hadgi@
+@to mix@|@mêler@
+@to mobilise@|@mobiliser@
+@to move@|@èrmuer@
+@to murder@|@assâsinner@
+@to muster@|@moustrer@
+@to occupy@|@otchuper@
+@to one's face@|@entré quat's ièrs@
+@to one's fingertips@|@jusqu'ès p'tits g'veux@
+@to open@|@ouvri@
+@to overcharge@|@surchèrgi@
+@to owe@|@d'ver@
+@to parade@|@pathader@
+@to parboil@|@parbouoilli@
+@to park@|@partchi, stâtionner@
+@to pass away@|@pâsser l'pas@
+@to paste@|@cliuter@
+@to patch@|@gaûfrer@
+@to pay@|@payi@
+@to pay an arm and a leg@|@payi coue et ouothelles@
+@to pay off a debt@|@s'atchitter d'eune dette@
+@to peel@|@p'ler@
+@to pick@|@tchilyi@
+@to pick up potatoes@|@gliainer des patates@
+@to pickle@|@piclier@
+@to plait@|@tresser@
+@to plant@|@plianter@
+@to plant out@|@didgi@
+@to plant with a spade@|@bêtchi@
+@to play@|@jouer@
+@to play an instrument@|@jouer un instrument, sonner@
+@to play for money@|@jouer ès sous@
+@to plead@|@pliaidgi@
+@to plough@|@tchéthuer@
+@to pluck@|@pliutchi@
+@to plug@|@pliodgi@
+@to polish@|@poli@
+@to polish shoes@|@bliatchinner, bliatchinner les souliers@
+@to post@|@poster@
+@to practise@|@pratitchi@
+@to pray@|@prier@
+@to press@|@prêssi@
+@to print@|@împrînmer@
+@to propose@|@proposer@
+@to prosecute@|@poursuivre@
+@to protect@|@protégi@
+@to prune@|@êmonder@
+@to punch@|@bailli un co d'poing@
+@to put on airs@|@faithe la reine@
+@to put one's finger on it@|@mettre l'dé d'ssus@
+@to put one's foot in it@|@s'mettre l'dé dans l'yi@
+@to queue@|@faithe la tcheue@
+@to receive@|@èrchéver@
+@to reconfigure@|@èrconfidguther@
+@to record@|@enr'gistrer@
+@to reduce swelling@|@d'senflier@
+@to reef@|@arrîsi, rîsi, rîsi eune vaile@
+@to reload@|@èrchèrgi@
+@to repeat@|@èrpéter@
+@to repent@|@r'penti@
+@to reply@|@rêpondre@
+@to restart@|@èrstèrter@
+@to restuff@|@rampader@
+@to retch@|@haler au tchoeu@
+@to rinse@|@rinchi@
+@to rip a seam@|@dêcouôtre@
+@to rise@|@r'sourdre@
+@to rise to speak@|@prendre la pathole@
+@to roast@|@rôti@
+@to roast meat@|@roussi d'la viande@
+@to roll and fold pastry@|@fielleter d'la pâte@
+@to rope a sail@|@râlîndgi (et dêrâlîndgi)@
+@to run@|@couôrre@
+@to saddle@|@seller@
+@to salt@|@saler@
+@to salute@|@saluer@
+@to save@|@saûver@
+@to save one's skin@|@sauver sa pé@
+@to say@|@ditche@
+@to scald@|@scâler@
+@to scan@|@scanner@
+@to scroll@|@rouôler@
+@to scrub@|@scrober@
+@to second@|@s'gonder@
+@to see double@|@vaie doubl'ye@
+@to see red@|@vaie rouoge@
+@to sell@|@vendre@
+@to send@|@env'yer@
+@to send back@|@renv'yer@
+@to sentence@|@condamner@
+@to serve@|@sèrvi@
+@to settle@|@settler@
+@to sew@|@couôtre@
+@to sew up@|@r'couôtre@
+@to shake potato stalks@|@êloper, êtèrrer@
+@to share@|@chârer@
+@to sharpen a pencil@|@appointchi un crèyon@
+@to shave@|@râser@
+@to shoot@|@tither@
+@to shrug@|@haûchi l's êpaûles@
+@to shuffle@|@faithe les cartes@
+@to sift@|@craînchi@
+@to sign@|@sinner@
+@to simmer@|@mitonner@
+@to sing@|@chanter@
+@to skim@|@êcrémer@
+@to slap@|@charbousseter, cliatchi eune paffe@
+@to slap in the face@|@bailli eune cliamuse, cliamûser, cliamûser l'mûsé@
+@to slap in the face (1)@|@cliamûser la becque@
+@to slash@|@sâbrer@
+@to sleep@|@dormi@
+@to sleep soundly@|@dormi coumme un prînce@
+@to slice@|@tranchi@
+@to smack@|@bailli eune paffe, env'yer eune cliaque@
+@to smoke@|@feunmer@
+@to smuggle@|@faithe la fraude, frauder@
+@to sneeze@|@êtèrnuer@
+@to sniff@|@èrniflier@
+@to sniffle@|@snifflier@
+@to sound@|@sonder@
+@to sow a field@|@s'menchi@
+@to sow seed@|@s'mer@
+@to spend@|@dêpenser@
+@to splice@|@êpissi@
+@to sponge@|@êpongi@
+@to squint@|@r'garder gare, vaie d'travèrs@
+@to stab a pig@|@pitchi un couochon@
+@to stand@|@stanner@
+@to stand potatoes@|@mâter des patates@
+@to stand supporter@|@stanner@
+@to starboard@|@à tribord, lé tribord@
+@to stare at@|@fixer@
+@to start up@|@stèrter@
+@to stay@|@vither la vaile@
+@to steam@|@suer, tchuithe à l'ieau@
+@to stew@|@êtuiver@
+@to stimulate@|@stînmuler@
+@to stir@|@èrmuer@
+@to stitch@|@stichi@
+@to stoke@|@stôtchi@
+@to stone@|@lapider@
+@to stop@|@arrêter@
+@to strain@|@êputher@
+@to strain one's eyes@|@forchi la veue@
+@to strangle@|@êtranglyi@
+@to strike@|@capuchi, porter un coup@
+@to study@|@êtudier@
+@to stuff@|@stoffer@
+@to swear like a ploughman@|@juther coumme un tchéthtchi@
+@to sweep@|@brîngi@
+@to sweep a chimney@|@ramonner eune cheum'née@
+@to sweeten@|@adouochi@
+@to swim@|@nagi@
+@to swindle@|@frauduler@
+@to swindle someone@|@rouôler tchitch'un@
+@to swing@|@souîndgi@
+@to tack@|@couôrre, r'vither@
+@to take bribes@|@s'laîssi corrompre@
+@to take drugs@|@s'drodgi@
+@to take the chair@|@prendre la tchaîse@
+@to teach@|@apprendre, ensîngni@
+@to text@|@texter@
+@to thaw@|@dêgeler@
+@to thicken@|@affêtchi@
+@to thin out@|@dêdoublier@
+@to thrash@|@dêgraîssi, rosser@
+@to throw a glance@|@lanchi eune pathe dg'ièrs@
+@to tie@|@nouer@
+@to tie a knot@|@faithe un noeud@
+@to tie badly@|@nouachi@
+@to tope@|@toper@
+@to torture@|@tortuther@
+@to tranquilise@|@trantchiliser@
+@to transfer@|@transféther@
+@to transplant@|@transplianter@
+@to trash@|@pitchi hors@
+@to turn off@|@dêtouônner@
+@to undock@|@d'samather@
+@to vaccinate@|@vaccinner@
+@to vote@|@voter@
+@to vraic@|@vraitchi@
+@to wash one's hands@|@s'en laver les mains@
+@to water@|@arrouôser@
+@to wave one's hair@|@poffer ses g'veux@
+@to wax@|@chither@
+@to weed@|@sèrclier@
+@to weigh@|@p'ser@
+@to whip@|@fouetter@
+@to whisk@|@d'battre@
+@to whistle@|@sûflier@
+@to wipe@|@essuyer, torchi@
+@to work@|@travailli@
+@to work land@|@labouother@
+@to worry@|@ouothinner@
+@to wrap@|@patchi@
+@to wrestle@|@litter@
+@to wring laundry@|@teurtre lé lînge@
+@to write@|@êcrithe@
+@toad@|@lé Jèrriais, un crapaud@
+@toast@|@lé pain rôti@
+@tobacconist@|@lé marchand dé p'tun@
+@today@|@aniet@
+@toe@|@lé ponchet@
+@toes@|@l's ortés@
+@Togo@|@Togo@
+@toilet@|@la chiotte, la p'tite maîson, la tchiêrêsse@
+@Tokelau@|@Tokelau@
+@tolerance@|@la toléthance@
+@tom cat@|@lé mâle cat, lé maraouau@
+@tomato@|@des tomates, la tonmate@
+@tomb@|@la sépultuthe@
+@tomboy@|@la garçonniéthe@
+@Tommy@|@Tanmîn, Tanminne@
+@tomorrow@|@d'main@
+@tomorrow evening@|@d'main au sé@
+@Tonga@|@Tonga@
+@tongs@|@pînchettes@
+@tongue@|@la langue@
+@tonsilitis@|@les maux d'gorge@
+@toolbag@|@pagas@
+@tooth@|@la dent@
+@toothache@|@lé mal ès dents@
+@toothbrush@|@eune brînge à dents@
+@toothpick@|@êpinnoque-dents@
+@top@|@la heuniéthe@
+@top hat@|@lé bill-toppeur, lé toppeur@
+@top of side rail@|@lé relle@
+@topgallant mast@|@lé mât d'pèrrotchet@
+@topgallant yard@|@la vèrgue d'pèrrotchét@
+@top-mast@|@lé mât d'heune@
+@top-sail@|@la heune, la heuniéthe ou la tâp-sèle@
+@topsail yard@|@la vèrgue d'heune@
+@Tormentil@|@d'l'hèrbe à paralysie@
+@Torontoer@|@Torontchais@
+@tortoise@|@la tortue@
+@torture@|@la tortuthe@
+@touch@|@touchi@
+@touch a sail@|@arrîsi@
+@touchpad@|@la natte ès touches@
+@tourist@|@lé touriste@
+@towel@|@eune sèrviette@
+@toy@|@bibi@
+@traces@|@les traits@
+@tractor@|@lé tracteu@
+@traffic@|@lé trafi, trafi@
+@traffic light@|@veues d'trafi@
+@traffic lights@|@les veues d'trafi@
+@trailer@|@la tchithette@
+@train@|@lé train@
+@trainers@|@les traîneurs@
+@training@|@la formâtion@
+@traitor@|@lé traître@
+@tram@|@lé tram@
+@tramp@|@lé dgeux, lé paillard, lé pâlièrre@
+@tranquiliser@|@un trantchilisant@
+@translator@|@lé traducteux@
+@transplant@|@eune greffe@
+@trap@|@un quèrre@
+@trapdoor@|@eune trappe@
+@travel@|@viagi@
+@travel agency@|@agence d'viage@
+@traveller@|@lé porte-limon, lé viageux@
+@Traveller's Joy@|@d'la barbe d'vièr bouonhomme@
+@treacle@|@la m'lasse@
+@treason@|@la trahison@
+@treasurer@|@lé trésôryi@
+@treat@|@la Tcheût'tie dé Halloween@
+@treat oneself@|@s'doctrinner@
+@tree@|@bouais, bouais, lé bouais@
+@Tree Lupin@|@d'l'arbre à lupîns@
+@Tree-mallow@|@eune mauve@
+@Trefoil marsh@|@lé trêflye dg'ieau@
+@tremble@|@tremblier@
+@trench@|@eune tranchie@
+@trespasser@|@un întrus@
+@trial@|@lé procès d'cour@
+@trick@|@eune farche, la Tcheût'tie dé Halloween, la Tcheût'tie dé Halloween, trique@
+@trick (1)@|@eune trique@
+@trickster@|@l'attrapeux, lé happe-lourdard, lé tricacheux@
+@trickster (1)@|@lé tritcheux@
+@trim@|@trînmer@
+@Trinidad and Tobago@|@Trinidad et Tobago@
+@Trinity@|@la Trinn'té@
+@trio@|@un trio@
+@tripe@|@la tripe@
+@troopers@|@des troûpeurs@
+@troops@|@les troupes@
+@Tropics@|@les Tropiques@
+@trousers@|@braies@
+@trout@|@eune truite@
+@trowel@|@la trouelle, truelle@
+@truck@|@l'ouadgîn@
+@true@|@vrai@
+@trump@|@un atout@
+@trumpet@|@la trompette@
+@trumpeter@|@un trompetteux@
+@trunk@|@un tron@
+@try@|@êprouver, tâchi, tenter@
+@trying plane@|@vèrlope@
+@t-shirt@|@lé t-corset@
+@Tuesday@|@Mardi@
+@tuft@|@un toupet, un tun, un tupé, un tus@
+@Tufted Vetch@|@du véchon@
+@tumour@|@lé chancre, teunmeur@
+@tune@|@la note@
+@tunic@|@la teunique@
+@Tunisia@|@Teunnisie@
+@turbot@|@un turbot@
+@Turkey@|@lé picot, Turtchie, un picot@
+@Turkish@|@Turc@
+@Turkmenistan@|@Turkmenistan@
+@Turks and Caicos islands@|@Îles Turks et Caicos@
+@turn@|@touônner@
+@turn off@|@dêtouônner@
+@turnip@|@lé navet@
+@turret@|@eune touothelle@
+@turtle dove@|@eune teurtérelle, eune tourtérelle, un d'mié-pigeon, un p'tit pigeon d'France@
+@turtle dove (1)@|@un d'mié-pigeon, un p'tit pigeon d'France@
+@Tutsan@|@d'la toute-saine@
+@Tuvalu@|@Tuvalu@
+@twaite shad@|@la flyînte@
+@tweezers@|@p'tites pînchettes, pînchettes@
+@twelve@|@douze@
+@twenty@|@vîngt@
+@twenty eight@|@vîngt-huit@
+@twenty five@|@vîngt-chînq@
+@twenty four@|@vîngt-quat'@
+@twenty pennies@|@vîngt pénîns@
+@twenty pounds@|@vîngt louis@
+@twenty seven@|@vîngt-sept@
+@twenty six@|@vîngt-six@
+@twenty three@|@vîngt-trais@
+@twenty two@|@vîngt-deux@
+@twenty-one@|@vîngt'tch'ieune@
+@twig@|@eune brantchette@
+@twine@|@la touinne@
+@twist@|@teurtre@
+@twist one's ankle@|@s'êteurtre la g'vil'ye@
+@twisted hooks for ropes@|@les diables@
+@twnety nine@|@vîngt-neuf@
+@two@|@deux@
+@two half-hitches@|@eune doubl'ye clié@
+@two hundred@|@deux chents@
+@two hundred and one@|@deux chents ieune@
+@two hundred and two@|@deux chents deux@
+@two pennies@|@deux pénîns@
+@two-stroke@|@un péteux@
+@two-wheeled cart@|@lé hèrnais@
+@typewriter@|@la machinne à êcrithe@
+@typhoid@|@la typhoïde@
+@tyrant@|@lé tyran@
+@tyre@|@un tyeur@
+@udder@|@lé piéchot@
+@Uganda@|@Uganda@
+@ugly@|@laid@
+@Ukraine@|@Ukraîne@
+@Ukrainian@|@Ukraînien@
+@ulcer@|@l'ulcéthe@
+@umbilical cord@|@lé cordon d'un nouvieau-né@
+@un artchet@|@violin bow@
+@un lâreneux@|@villain@
+@un valentîn@|@valentine (m)@
+@un violon@|@violin@
+@un violonniste@|@violinist@
+@unanimity@|@l'eunanînmité@
+@unanimous@|@eunanînme@
+@uncle@|@l'oncl'ye, tonton@
+@uncork a bottle@|@dêbouchi eune boutelle@
+@under guarantee@|@souos garanti@
+@under-rafter@|@lé souos-tchèrvon@
+@undertaker@|@l'entrépranneux@
+@underwear@|@l's habits dé d'ssous, lé lînge dé corps@
+@underwear (1)@|@lé lînge dé d'ssous@
+@unfermented cider@|@du cidre d'souos l'amet, du pur jus@
+@uniform@|@l'unniforme@
+@United Arab Emirates@|@Émithaux Arabes Unnis@
+@United Kingdom@|@lé Rouoyaume Unni, Rouoyaume Unni@
+@United States of America@|@Êtats Unnis d'Améthique@
+@university@|@l'unnivèrsité@
+@unkempt@|@crîngneux@
+@untidy hair@|@la crîngnache@
+@up to the eyeballs@|@par sus l's ièrs@
+@uppers of shoe@|@l'empiègne d'un soulié@
+@uprights@|@les montants@
+@upstairs@|@à haut@
+@Uranus@|@Uranus@
+@urticaria@|@lé feu ortcheux@
+@Uruguay@|@Uruguay@
+@usage@|@l'usage@
+@used to@|@souler@
+@Utahn@|@Utain, Utais, Utchien@
+@Uzbekistan@|@Uzbekistan@
+@v jointer@|@vée@
+@vaccine@|@lé vaccîn@
+@vagabond@|@lé vacâbond@
+@valentine (f)@|@eune valentinne@
+@valentine (m)@|@un valentîn@
+@Valentine card@|@la carte d'Valentinne@
+@valentine's card@|@eune carte d'valentinne@
+@valley@|@la vallée@
+@Valognes@|@Valongnes@
+@valuable@|@vaillabl'ye@
+@value@|@la valeu@
+@valve@|@la cliavette@
+@van@|@eune vainne, vainne@
+@van box@|@lé corps d'la vainne@
+@Vancouverite@|@Vancouverais@
+@vanilla@|@la vanille@
+@Vanuatu@|@Vanuatu@
+@varicose vein@|@la veine varice@
+@varnish@|@vèrni@
+@vassal@|@lé vassa@
+@Vatican@|@Vatican@
+@vault@|@eune votte@
+@V-crosspiece@|@lé vée@
+@VD@|@la sale maladie@
+@veal@|@lé vieau@
+@vegetable garden@|@lé gardîn à lédgeunmes@
+@vegetables@|@les lédgeunmes@
+@vehicle@|@la véhicl'ye, un boulant@
+@veil@|@lé vouaile@
+@vein@|@la veine@
+@velvet@|@v'lous@
+@Venezuela@|@Venezuela@
+@venom@|@lé v'nîn@
+@Venus@|@L'Êtaile du Jour, L'Êtaile du Sé, Vênus@
+@verbena@|@la vèrveine@
+@verdict@|@lé vèrdict@
+@vergée@|@la vrégie@
+@Vermonter@|@Vèrmontais@
+@vèrni@|@varnish@
+@verruca@|@chancre, eune véthue chancreuse@
+@Vervain@|@d'grâce, d'l'hèrbe@
+@very low axle cart@|@lé bas hèrnais@
+@vessel@|@lé vaissé@
+@vet@|@lé vétérinnaithe@
+@Vetch@|@d'la vèche@
+@vicar@|@lé vitchaithe@
+@vicarage@|@lé probytaithe@
+@vice@|@êtau@
+@video@|@lé vidgo@
+@Viennese@|@Viennouais@
+@Vietnam@|@Vietnam@
+@Vietnamese@|@Vietnamien@
+@villain@|@un lâreneux@
+@Villedieu@|@Villedgieu@
+@vine@|@eune vîngne@
+@Vingtenier@|@lé Vîngtn'yi@
+@violin@|@un violon@
+@violin bow@|@un artchet@
+@violinist@|@un violonniste@
+@virgin@|@la vièrge@
+@Virgin Islands of the U.S.@|@Îles Vièrges d's Êtats Unnis@
+@Virginian@|@Virginnien@
+@visitor@|@lé visiteux@
+@vocabulary@|@lé vocabulaithe@
+@volcano@|@la montangne brûlante@
+@volunteer@|@lé volantaithe@
+@vote@|@eune vouaix, lé vote@
+@voter@|@lé voteux@
+@voting@|@la vot'tie@
+@vraic@|@du vrai, du vré, l's estrandes@
+@vraic as fertiliser@|@d'la graisse@
+@vraic bun@|@eune galette à vrai@
+@vraic cradle@|@lé bèr à vrai@
+@vraic marker@|@lé mèr@
+@vraic washed-up on the beach@|@du vrai v'nant, du vrai v'nu@
+@vraicing@|@la vraiqu'thie@
+@vraicing season@|@la taillaison, la vraitchaîson@
+@wadding@|@ouadinne@
+@wade@|@pataûgi@
+@wagon@|@lé tchéthiot@
+@wagtail@|@la lavandgiéthe, un glianneux, un labouotheux@
+@wagtail (1)@|@lé craûlant-coue, lé craûlant-tchu@
+@waistcoat@|@l'veste@
+@wait@|@attendre@
+@wait on hand and foot@|@sèrvi au dé et à l'yi@
+@waited on hand and foot@|@sèrvi au dé et à l'yi@
+@wake@|@rêvilyi@
+@walk@|@marchi@
+@walk in dew@|@pativouother@
+@walk like a duck@|@cannoter@
+@walker@|@lé marcheux@
+@walkies@|@dêdée@
+@wall@|@eune muthâle, la muthâle@
+@Wall Barley@|@du blié sauvage@
+@wall knot@|@un tchu d'por@
+@wallflower@|@d'la violette sauvage, jaunes violettes@
+@wallflower (1)@|@violettes d'hivé, violettes de gardin@
+@wallflower (2)@|@d'la girofliée, la baume dé la résurrection@
+@wallflower (3)@|@d'la giroufliée@
+@Wallis and Futuna@|@Wallis et Futuna@
+@Wallon@|@Ouallon@
+@Wallonia@|@Ouallonnie@
+@wallop@|@eune oualipe, eune tourné-oualipe@
+@Walnut@|@un nouoyi@
+@waltz@|@eune valse@
+@wander@|@èrrer@
+@wandering jew@|@du juif èrrant@
+@waning of the moon@|@lé tchiyant d'la leune@
+@want@|@vouler@
+@war@|@la dgèrre@
+@warden@|@lé gardgien@
+@wardrobe@|@lé garde-robe, lé mathiage@
+@warm@|@caud, caûd@
+@warmth@|@la chaleu@
+@warrior@|@lé dgèrryi, un dgèrryi@
+@warship@|@un navithe dé dgèrre@
+@wart@|@la véthue@
+@wash@|@laver@
+@washbasin@|@lé lavabo@
+@washerwoman@|@la laverêsse@
+@washing@|@lé lavage, ouâchinner@
+@washing liquid@|@lé litchide à laver@
+@washing powder@|@lé poudre à laver@
+@washing up liquid@|@lé litchide à vaissieaux@
+@Washingtonian@|@Washingtonnien@
+@wasp@|@lé vêpre@
+@waste paper basket@|@un bostchot@
+@waste pipe@|@un trop-pliein@
+@wastepaper basket@|@lé bostchot@
+@watch@|@dgetter, eune mouontre, eune mouontre, lé dget, lé quart@
+@watch again@|@èrèrgarder@
+@water@|@arrôser, ieau@
+@water meadow@|@lé pré@
+@Water Mint@|@d'la menthe sauvage@
+@water rail@|@eune râle dg'ieau@
+@watercress@|@lé cresson@
+@Water-cress@|@du cresson@
+@watering@|@l'arrouôsage, l'arrouôsage@
+@watering can@|@un arrouôseux@
+@Water-lily@|@du lis dg'ieau@
+@Water-pepper@|@du tcheurrage@
+@waterspout@|@lé jet dg'ieau@
+@water-vole@|@lé rat dg'ieau@
+@wave@|@la louême@
+@wave bye-bye@|@faithe dêdée@
+@waves@|@des rouffl'yes@
+@wavy hair@|@des g'veux rouffliés@
+@wax@|@chithe@
+@wax poultice@|@un chithême@
+@waxing of the moon@|@lé craîssant d'la leune@
+@we@|@j'@
+@we spoke@|@j'pâlînmes@
+@we will begin@|@jé c'mench'chons@
+@weak@|@faibl'ye@
+@webmaster@|@lé maître-pêtre, maître-pêtre@
+@wedding@|@lé mathiage, les neuches@
+@wedding cake@|@la gâche des neuches@
+@wedding ring@|@la bague dé neuches@
+@Wednesday@|@Mêcrédi@
+@weed@|@la sèrcl'ye, sèrclier@
+@weeder@|@sèrcliérêsse@
+@weeding hoe@|@sèrcliérêsse, sèrclieux@
+@week@|@eune s'maine, un huit jours@
+@Weeping Cypress@|@lé cyprès d'chînm'tchiéthe@
+@wee-wee@|@pipi@
+@weigh@|@p'ser@
+@weight@|@lé paids@
+@welcome@|@beinv'nu@
+@Welcome@|@Séyiz les beinv'nu(e)(s)!@
+@Weld@|@d'l'hèrbe à teindre@
+@well@|@lé pits@
+@wellington boots@|@les hautes bottes@
+@well-spirit@|@la cocangne@
+@Welsh@|@Galles@
+@west@|@vouêt@
+@West Virginian@|@Virginnien du Vouêt@
+@Western Australia@|@Australie Occidentale@
+@Western Eyebright@|@d'l'aphrasie@
+@Western Gorse@|@d'la grappue@
+@Western Sahara@|@Sahara du Vouêt@
+@wet@|@mouoilli@
+@Weymouth@|@Ouêmue@
+@whack in the face@|@eune torche@
+@What has she got?@|@Tch'est qu'oulle a?@
+@What's the weather going today@|@Tchi temps qu'j'avons aniet?@
+@What's your name?@|@Tch'est qu'est tan nom?, Tch'est qu'est vot' nom?@
+@wheatear@|@eune blianche-coue@
+@wheel@|@la reue@
+@wheel spindle@|@l'esseu@
+@wheelbarrow@|@chiviéthe, la chiviéthe@
+@wheelchair@|@eune tchaîse à reues@
+@wheels@|@les reues, les rouelles@
+@wheelwright@|@lé charron@
+@whelk@|@eune coqueluche, eune v'lique@
+@Where is my room?@|@Où'est qu'est ma chambre?@
+@Where is the bar?@|@Où'est qu'est l'bar?@
+@Where is the beach?@|@Où'est qu'est la grève?@
+@whetstone@|@affileuse@
+@whimper@|@houîmbrer@
+@whine@|@braithe, houinner@
+@whip@|@lé fouet@
+@whisky@|@lé whisky@
+@whisper@|@chuchoter@
+@whisperer@|@lé chuchoteux@
+@whistle@|@sûfflier@
+@white@|@blianc@
+@white bait@|@d'la v'nîse@
+@White Campion@|@des vieil'yes fil'yes@
+@White Clover@|@du trêfl'ye d'natuthe@
+@White Dead-nettle@|@d'la blianche-ortchie@
+@white lady@|@la blianche danme@
+@White Poplar@|@lé blianc-bouais@
+@White Popular@|@un blianc-bouais@
+@white wine@|@lé blianc vîn@
+@white wizard@|@un tchéthaûd@
+@whiteboard@|@eune blianche plianche, la blianche plianche@
+@whitethroat@|@eune blianche gorge@
+@whiting@|@un lieu@
+@whiting pout@|@eune tabûle@
+@Whitsun@|@la pentecôte@
+@Whoever has land@|@Tchi tèrre a-dgèrre a@
+@whooping cough@|@la coqueluche@
+@whore@|@la chèrch'rêsse, la putain@
+@wicket gate@|@un héchot@
+@wide@|@large@
+@widgeon@|@lé nanard, lé sûfflieux@
+@widow@|@la dêdgèrpie, la veuve@
+@widower@|@lé veuvyi@
+@width@|@la laîze@
+@wife@|@la bouonnefemme@
+@wig@|@eune pèrruque@
+@Wild Angelica@|@du graslard@
+@Wild Carrot@|@d'la cârotte sauvage@
+@Wild Celery@|@d'l'ache, du céléri sauvage@
+@Wild Clary@|@d'l'hèrbe à la danme@
+@Wild Daffodil@|@des g'zettes@
+@wild duck@|@un cannard sauvage@
+@wild goose@|@un pithot sauvage@
+@Wild Parsnip@|@d'la pânnais sauvage@
+@Wild Pear@|@un paithyi sauvage@
+@Wild Strawberry@|@des frâses sauvages@
+@Wild Thyme@|@d'la sèrpiliéthe, du pouoillot@
+@Wild Turnip@|@des navets@
+@will o' the wisp@|@lé bélengi@
+@William@|@Dgiaume, dgilliaume, Ouiyamme, Williamme@
+@William (1)@|@Ouoyamme@
+@William the Conqueror@|@Dgilliaume lé Contchéthant@
+@Willow@|@du saux@
+@win@|@gângni@
+@wind@|@lé vent@
+@wind and strings@|@pipes et cordes, trompettes@
+@wind sail@|@la plianche à vaile@
+@windfall@|@la tchêtinne@
+@windfalls@|@des louochies@
+@windlass@|@lé gîndas, lé vitheveau@
+@window@|@eune f'nêtre, la f'nêt'@
+@window cleaner@|@un nettisseux dé f'nêtres@
+@window sill@|@la sîle@
+@windward@|@au vent@
+@Windward Isles@|@L's Îles du Vent@
+@wine@|@lé vîn@
+@wine taster@|@l'êprouvette@
+@wink@|@clyinn'ter@
+@winkle@|@un v'licot@
+@winner@|@lé gângnant@
+@winning@|@gângn'nie@
+@Winnipedgais@|@Winnipeger@
+@Winter@|@Ouinneteur@
+@winter cherry@|@d's âmes au Mont, d's amômonts, des mamonts@
+@Winter Heliotrope@|@du pas d'âne@
+@winter-green@|@l's êtouailes dé tèrre@
+@wire nails@|@pointes dé Paris@
+@Wisconsinnien@|@Wisconsinite@
+@wisdom tooth@|@la dent d'sagesse@
+@witch@|@eune chorchiéthe@
+@witchcraft@|@la chorchell'lie@
+@witches@|@les gens du Vendrédi@
+@witches' sabbath@|@lé sabbat@
+@with a (bad) hairstyle@|@crîngni@
+@with all one's strength@|@à flieur dé bras@
+@with the naked eye@|@à l'yi nu@
+@withers@|@lé gârrot@
+@witness@|@lé têmoin@
+@wizard@|@un chorchi@
+@wood@|@bouais@
+@Wood Anemone@|@d's anémônes du bouais@
+@Wood Avens@|@d'l'hèrbe b'nêt@
+@wood chisel@|@tranche@
+@Wood Dock@|@d'l'hèrbe à sang, du sang d'dragon@
+@Wood Dock (1)@|@d'la doque à sang, des fielles à sang@
+@Wood Forget-me-not@|@des yeux d'la Vièrge@
+@wood pigeon@|@un pigeon ramyi, un pigeon sauvage@
+@Wood Sage@|@d'l'ambrais@
+@woodcock@|@eune bécache@
+@wooden clog@|@lé riboule@
+@wooden spoon@|@eune tchulyi en bouais@
+@woodlouse@|@eune trie d'bouais@
+@Wood-sorrel@|@du pain d'coucou@
+@Woody Nightshade@|@d'l'amièrdoux (m), du mèrdou, la douoche-améthe@
+@wool@|@laine@
+@woolly aphis@|@un haînu@
+@work@|@travailli@
+@workbench@|@l'êtabl'yie@
+@worker@|@l'ouvriyi, lé travailleux@
+@workshy person@|@lé sûfflieux en paûme@
+@worm@|@lé vèr@
+@worm for bait@|@d'la catte, du sandron@
+@Wormwood@|@d'l'absînthe, d'l'hèrbe à puches, d'la lianne@
+@worship@|@lé tchulte@
+@wound@|@la bliesseûthe@
+@Wrack@|@du vrai ou vré@
+@wrapping paper@|@du papi d'emballage, lé papi d'emballage@
+@wren@|@un raîté, un raîtelîn@
+@wrench@|@touônne-à-gauche@
+@wrestler@|@lé litteux@
+@wretch@|@lé laiduthe, lé médgian@
+@wrinkled crab@|@eune rouoge crabe@
+@wrist@|@lé pouongnet@
+@write@|@êcrithe@
+@writer@|@l'auteu@
+@writing@|@l'êcrithie@
+@writing paper@|@lé papi à êcrithe@
+@wrongdoer@|@lé malfaiteux, un malfaiteux@
+@wryneck@|@l'ouaiyou, un ouaisé â blié, un tui-tui@
+@wryneck (1)@|@l'ouaîsé du R'nouvé@
+@Wyomîndgien@|@Wyomingite@
+@yard@|@bel, la vèrgue@
+@yard-arm@|@un but d'vérgue@
+@Yarmouth@|@Ièrmue, Yèrmue@
+@Yarrow@|@d'la tchèrpentchiéthe, l'hèrbe au tchèrpentchi@
+@yawn@|@s'êbailli@
+@year@|@eune année, un an@
+@yeast@|@lé lèveton@
+@yell@|@heurler, hueûler@
+@Yellow Flag@|@lé bliajeu, lé gliajeu@
+@yellow hammer@|@un jaûnouais@
+@Yellow Iris@|@du bliajeu@
+@Yemen@|@Yemen@
+@Yes a little@|@Oui, un mio@
+@yesterday@|@hièr@
+@yesterday evening@|@hièr au sé@
+@yesterday morning@|@hièr au matîn@
+@Yew@|@un if@
+@Yorkshire-fog@|@d'la molle hèrbe@
+@you@|@tu@
+@you (pl)@|@ous@
+@you are@|@ous êtes@
+@you have spoken@|@ous avez pâlé@
+@you will be speaking@|@tu s'sa à pâler@
+@young ewe@|@la gèrche@
+@Yours sincerely@|@Sîncéthement@
+@Yugoslavia@|@Yougoslavie@
+@Yukon@|@Territouaithes du Yukon@
+@Yukonnais@|@Yukoner@
+@yum-yum@|@naine-naine@
+@Zagrébais@|@Zagreber@
+@Zambia@|@Zambia@
+@zebra@|@lé zèbre@
+@Zimbabwe@|@Zimbabwe@
+@zodiac@|@lé zodiaque@
+@Zuricher@|@Zuritchais@
+

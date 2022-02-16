@@ -1,0 +1,2394 @@
+@English@|@Old Norse@
+@Author name@|@Jens Nielsen@
+@Font@|@Arial\12\Arial\12@
+@ability@|@kunnusta, máttr, megin@
+@abode@|@hamr, sjǫt@
+@above@|@yfir@
+@abroad@|@útanlands@
+@abundance@|@gnótt@
+@abundant@|@nógr@
+@accompany (v)@|@fylgja@
+@accomplish (v)@|@fremja, inna, vinna@
+@accomplished@|@mannaðr@
+@accomplishment@|@íþrótt, mennt@
+@accomplishments@|@kunnandi@
+@account@|@sǫgn, tala@
+@accuse (v)@|@kæra@
+@accustom (v)@|@vandi, venja@
+@accustomed@|@vanr@
+@acorn@|@akarn@
+@acquaintance@|@kunningi@
+@across@|@yfir@
+@act (v)@|@breyta@
+@action@|@sǫk@
+@add (v)@|@auka@
+@adhere (v)@|@tolla@
+@adorn (v)@|@setja@
+@adultery@|@hórdómr@
+@advance@|@framganga@
+@advance (v)@|@sœkja, stefna@
+@advantage@|@bati, gagn@
+@adversary@|@andskoti@
+@advisable@|@ráðligr@
+@advise (v)@|@ráða@
+@affairs@|@hagr@
+@affection@|@ást, ástir, elska, geð@
+@affinity@|@sifjar@
+@affirm (v)@|@sanna@
+@affliction@|@beygja, hrelling@
+@afraid@|@hræddr@
+@aft@|@aptr@
+@afterwards@|@síðan@
+@again@|@endr, optar@
+@age@|@ævi, aldr@
+@Agree to (v)@|@játa@
+@agreeable@|@geðjaðr, skapfeldr@
+@ahead@|@framar@
+@aid@|@afli, forsjá, fullting, lið@
+@ale@|@mungát@
+@ale_cask@|@ǫlker@
+@alive@|@kvikr, kykr, lífs@
+@all@|@allr@
+@allot (v)@|@skafa@
+@allow (v)@|@lofa, unna@
+@almost@|@náliga@
+@aloft@|@lopt@
+@alone@|@einn@
+@along@|@eptir@
+@aloud@|@hátt@
+@although@|@þar@
+@always@|@æ, ávalt, jafnan@
+@ambitious@|@metnaðargjarn, stórráðr@
+@among@|@miðli@
+@Amount to (v)@|@skipta@
+@amuse (v)@|@skemta@
+@amusement@|@skemtun@
+@amusing@|@skemtiligr@
+@anchor@|@akkeri@
+@ancient@|@forn@
+@and@|@eða@
+@anger@|@reiði@
+@angry@|@reiðr@
+@animal@|@dýr, gripr@
+@animals@|@kykvendi@
+@annoyance@|@mótgørð, skapraun@
+@another@|@annarr@
+@answer@|@svar@
+@answer (v)@|@svara@
+@ant@|@maurr@
+@anvil@|@steði@
+@anxiety@|@áhyggja@
+@anxious@|@annt@
+@any@|@einnhverr@
+@appearance@|@yfirbragð@
+@applause@|@rómr@
+@appoint (v)@|@skapa@
+@approach (v)@|@nálgask@
+@arbitration@|@gørð@
+@arch@|@kengr@
+@ardor@|@kapp@
+@argue (v)@|@þræta@
+@arm@|@handleggr@
+@arm (v)@|@vápna@
+@armor@|@herklæði@
+@army@|@herlið, herr@
+@arrange (v)@|@haga, hátta, stilla@
+@arrangement@|@tilskipan@
+@array (v)@|@búa@
+@arrival@|@kváma@
+@arrive (v)@|@koma@
+@arrow@|@ǫr@
+@art@|@list, mennt@
+@artifice@|@vél@
+@artificer@|@smiðr@
+@artist@|@fægir@
+@ascertained@|@vitaðr@
+@ash@|@askr@
+@ashes@|@aska@
+@ask (v)@|@beiða, biðja, fregna, frétta, krefja@
+@aspect@|@álit@
+@assault@|@atganga, barsmið@
+@assembly@|@þing@
+@assembly_district@|@þinghá@
+@assembly_field@|@þingvǫllr@
+@assist (v)@|@beina@
+@assistance@|@styrkr, umsysla@
+@astray@|@villtr@
+@asunder@|@sundr@
+@at@|@yfir@
+@athwart@|@þverr@
+@Atone for (v)@|@rétta@
+@atonement@|@bót@
+@attack@|@atlaga, atsókn, hríð, sókn@
+@attack (v)@|@sœkja@
+@attention@|@gaumr@
+@authority@|@mannaforráð, ráð, ríki@
+@autumn@|@haust@
+@avail (v)@|@nyta, tjá@
+@avenge (v)@|@hefna, reka@
+@await (v)@|@biða@
+@aware@|@varr@
+@away@|@brott@
+@axe@|@øx@
+@back@|@aptr, hryggr@
+@backwards@|@ǫfugr@
+@bacon@|@flesk@
+@bad@|@illr, vándr@
+@badly@|@illa@
+@bag@|@baggi, belgr, fat, kyll@
+@bailiff@|@bryti@
+@bake (v)@|@baka@
+@bald@|@kollóttr@
+@ball@|@knǫttr@
+@band@|@fetill, lið@
+@bank@|@bakki@
+@banner@|@merki, vé@
+@banquet@|@veizla@
+@baptism@|@skírn@
+@baptize (v)@|@skíra@
+@bar@|@spǫlr@
+@bare@|@berr@
+@bargain@|@kaup@
+@barley_barn@|@bygghlaða@
+@barn@|@hlaða@
+@barren@|@gœðalauss, ófrær@
+@bath@|@laug@
+@bathe (v)@|@lauga@
+@battle@|@bardagi, dolg, dólg, eggþrima, eggtog, járnleikr, malmhríð, orrosta, víg@
+@battlefield@|@vættfang@
+@bay@|@vágr@
+@Be able to (v)@|@mega@
+@Be astonished at (v)@|@undrask@
+@Be awake (v)@|@vaka@
+@Be diminished (v)@|@minka@
+@Be fond of (v)@|@elska@
+@Be gald (v)@|@fagna@
+@Be lacking  (v)@|@vanta@
+@Be lacking (v)@|@skorta@
+@Be moved  (v)@|@bifask@
+@Be obliged to (v)@|@hljóta@
+@Be opened (v)@|@opnask@
+@Be pacified (v)@|@sefask@
+@Be silent (v)@|@þegja@
+@Be slain (v)@|@falla@
+@Be softened (v)@|@mykjask@
+@Be willing (v)@|@vilja@
+@beach@|@fjara, strǫnd@
+@beak@|@grǫn@
+@beam@|@áss, tré, viðr@
+@bear@|@bjǫrn, bjarndýr@
+@bear (v)@|@bera@
+@beard@|@grǫn, skegg@
+@bearded@|@skeggjaðr@
+@beast@|@dýr@
+@beautiful@|@fagr, vænn@
+@beautifully@|@fagrliga@
+@because@|@síðan@
+@become (v)@|@gera, gøra, sóma, verða@
+@Become cowardly (v)@|@ergjask@
+@Become loose (v)@|@losna@
+@Become night (v)@|@nátta@
+@Become spring (v)@|@vára@
+@Become white (v)@|@hvítna@
+@becoming@|@sœmiligr@
+@bed@|@beðr, hvíla, rekkja, sæng@
+@bed_closet@|@lokrekkja@
+@bee@|@bý@
+@beer@|@ǫl, bjórr@
+@beer_goblet@|@bjórker@
+@befall (v)@|@hœfa@
+@befit (v)@|@sama@
+@beget (v)@|@aflæ@
+@beggar@|@stafkarl@
+@beginning@|@fyrsta, upphaf@
+@behavior@|@atferð@
+@belief@|@átrunaðr@
+@believe (v)@|@trúa@
+@bell@|@bjalla@
+@bellow (v)@|@gjalla@
+@belly@|@kviðr@
+@beloved@|@sváss@
+@bench@|@bekkr@
+@bend@|@kengr@
+@bend (v)@|@beygja, lúta, sveigja@
+@benefactor@|@styrktarmaðr@
+@benefit@|@beini, gott@
+@berserk@|@berserkr@
+@beseem (v)@|@sóma@
+@beside@|@hjá, við@
+@besom@|@lími@
+@betray (v)@|@svíkja@
+@better@|@betri@
+@between@|@meðal, miðli@
+@bewildered@|@villhyggjandi@
+@beyond@|@útan@
+@big@|@mikill@
+@bigger@|@meiri@
+@billow@|@bylgja@
+@bind (v)@|@binda@
+@birch@|@bjarkan@
+@bird@|@fugl@
+@birth@|@burðr@
+@bishop@|@biskup@
+@bitch@|@bikkja@
+@bite (v)@|@bita@
+@biting@|@bitr@
+@bits@|@moli@
+@bitter@|@herfiligr@
+@black@|@blakkr, blár, svartr@
+@blade@|@brandr@
+@blame@|@ámæli@
+@blame (v)@|@lasta@
+@blasphemy@|@goðgá@
+@blaze (v)@|@loga@
+@blind@|@blindr@
+@blood@|@blóð, dreyri@
+@blood_stained@|@dreyrugr@
+@bloody@|@blóðugr@
+@blow@|@hǫgg, skellr, svipan@
+@blow (v)@|@blása@
+@blue@|@blár@
+@board@|@borð@
+@boasting@|@kǫpuryrði@
+@boat@|@bátr, skip@
+@body@|@líkami@
+@bog@|@fen, myrr@
+@boil@|@kaun, kveisa@
+@boil (v)@|@sjóða, vella@
+@boldly@|@djarfliga@
+@bond@|@band@
+@bondwoman@|@ambátt, ambótt@
+@bone@|@bein@
+@book@|@bók@
+@booth@|@búð@
+@booty@|@herfang@
+@border@|@skaut@
+@both@|@báðir, hvárr@
+@bottom@|@grunnr@
+@boundary@|@merki@
+@bow@|@almr, bogi@
+@bow (v)@|@lúta@
+@bow_string@|@bogastrengr, hǫrr@
+@box@|@kista, skokkr@
+@boy@|@sveinbarn, sveinn, sveinstauli@
+@brain@|@heili@
+@branch@|@kvistr, lími@
+@brand@|@brandr@
+@brass@|@mersing@
+@brave@|@bitr, frœkn, góðr, hraustr, snjallr, vaskr@
+@bravely@|@frœknliga, hraustliga@
+@bread@|@brauð@
+@bread_making@|@brauðgǫrð@
+@break (v)@|@bresta, brotna, lemja, slíta, slitna@
+@Break into (v)@|@brjóta@
+@breast@|@brjóst, munstrǫnd@
+@breath@|@ǫnd, ørindi@
+@bride@|@brúðr@
+@bridge@|@brú@
+@bridle@|@beizl, taumr@
+@bright@|@bjartr, heiðr, ljóss@
+@Bring to an end (v)@|@enda@
+@broad@|@breiðr@
+@bronze@|@eir@
+@brook@|@lœkr@
+@brother@|@bróðir@
+@brother_in_law@|@mágr@
+@buck@|@bokki@
+@bucket@|@bytta@
+@build (v)@|@smíða@
+@building@|@gørð, smíð@
+@built@|@gǫrr@
+@bull@|@griðungr@
+@bunch@|@kǫngull@
+@burn (v)@|@brenna, svíða@
+@burning@|@brenna@
+@burst (v)@|@bresta@
+@bury (v)@|@heygja@
+@business@|@sysla@
+@but@|@eða@
+@button (v)@|@kneppa@
+@buy (v)@|@kaupa@
+@cairn@|@varða, varði@
+@calf@|@kálfr@
+@call (v)@|@heita, kalla@
+@Call up (v)@|@kveðja@
+@calm@|@logn@
+@calumny@|@illmæli@
+@canoe@|@keipr@
+@canopy@|@tjald@
+@capable@|@gørviligr@
+@capture (v)@|@handtaka, taka@
+@care@|@áhyggja, forsjá, umsjá@
+@care (v)@|@hirða@
+@carefully@|@skynsamliga, vandliga@
+@carelessly@|@óvendiliga@
+@cargo@|@farmr, varningr@
+@carry (v)@|@bera@
+@carter@|@vagnkarl@
+@carve (v)@|@hǫggva@
+@cast (v)@|@gjóta, kasta@
+@Cast down (v)@|@elta@
+@Cast lots (v)@|@hluta@
+@castle@|@kastali@
+@cat@|@kǫttr@
+@catch@|@fang@
+@catch (v)@|@hreppa@
+@cattle@|@fénaðr@
+@cauldron@|@ketill@
+@cause@|@mál, réttr, sǫk@
+@cause (v)@|@valda@
+@cave@|@hellir@
+@cease (v)@|@hætta, létta@
+@celebration@|@ágæti@
+@certain@|@víss@
+@challenge (v)@|@bjóða@
+@champion@|@kappi@
+@change@|@skipan, umskipti@
+@change (v)@|@skipta, verða@
+@changeable@|@hverfr@
+@character@|@hagr, lund, skapleikr@
+@charcoal@|@kol@
+@charge@|@sǫk@
+@chariot@|@reið@
+@charm@|@formáli@
+@charms@|@taufr@
+@chatter (v)@|@hjala, klaka@
+@cheek@|@kinn@
+@cheerful@|@reifr@
+@chest@|@kista@
+@chief@|@hǫfðingi, hilmir@
+@chieftain@|@yfirmaðr@
+@child@|@barn@
+@childhood@|@barnœska@
+@choice@|@kostr@
+@choose (v)@|@kjósa@
+@church@|@kirkja@
+@churl@|@karl@
+@circle@|@hringr@
+@claim@|@tilkall@
+@clash@|@gnyr, hlǫkk, hnit, sǫngr@
+@clashing@|@brǫkun, gnat@
+@clasp (v)@|@spenna@
+@clear@|@auðsýnn, brýnn, gløggr, heiðr, ljóss, skyrr@
+@clear (v)@|@ryðja@
+@clear_sighted@|@gløggr@
+@clearing@|@rjóðr@
+@cleave (v)@|@kljúfa@
+@clench (v)@|@herða@
+@clever@|@slœgr@
+@cliff@|@bjarg, hamarr@
+@climb (v)@|@hlaupa@
+@cloak@|@feldr, skikkja@
+@close@|@kærr, nálægr@
+@closely@|@nær@
+@cloth@|@skrúð@
+@clothe (v)@|@klæða@
+@clothes@|@fat, lérept, ript, váðir@
+@clothing@|@klæði@
+@cloud@|@sky@
+@cluster@|@kǫngull@
+@coals@|@kol@
+@coat@|@skyrta@
+@cock@|@hani@
+@coil@|@baugr@
+@coin@|@penningr@
+@cold@|@kaldr@
+@coldly@|@seint@
+@collect (v)@|@safna, samna@
+@color@|@litr@
+@colored@|@litklæði@
+@colorless@|@litlauss@
+@Come about (v)@|@koma@
+@Come to (v)@|@hitta@
+@Come up to (v)@|@nálgask@
+@comfort@|@huggan@
+@commend (v)@|@fela@
+@commit (v)@|@andvarða@
+@common@|@karl@
+@commonly@|@hversdagliga@
+@community@|@sveit@
+@companion@|@félagi, lagsmaðr, sinni@
+@company@|@fǫruneyti, sjǫt@
+@compensate (v)@|@bœta@
+@compensation@|@bót, iðgjǫld, sómi, yfirbœtr@
+@compensations@|@bœtr@
+@competition@|@kapp@
+@complain (v)@|@krikta@
+@complete@|@fullkominn@
+@complete (v)@|@fylla@
+@completely@|@vandliga@
+@complexion@|@litr@
+@compose (v)@|@gera, gøra@
+@comrade@|@félagi@
+@conceal (v)@|@leyna@
+@condition@|@efni, far, kostr, réttr@
+@conduct@|@far@
+@conference@|@málstefna@
+@confidence@|@traust@
+@conflict@|@samgangr@
+@conquer (v)@|@vinna@
+@consequence@|@tilkváma@
+@consider (v)@|@hugsa, íhuga, telja@
+@consolation@|@hugarbót, huggan@
+@constitution@|@lǫg@
+@contend (v)@|@þreyta@
+@contention@|@deila, róg@
+@contest@|@fang, kapp, leikr@
+@continuous@|@fastr@
+@control@|@vald@
+@controlled@|@stiltr@
+@contumely@|@níð@
+@conversation@|@mál, rœða@
+@converse (v)@|@tala@
+@cook@|@matsveinn@
+@cook (v)@|@sjóða@
+@cooking_fire@|@seyðir@
+@copper@|@eir@
+@corn@|@korn@
+@corner@|@horn@
+@corpse@|@lík, nár@
+@correct@|@réttligr, réttr@
+@cost@|@kostnaðr@
+@cough@|@hósti@
+@counsel@|@ráð@
+@counsel (v)@|@ráða@
+@count (v)@|@telja@
+@country@|@land@
+@courage@|@áræði, dáð, drengskapr, frami, hugr, kapp@
+@course@|@skeið@
+@court@|@dómr, garðr, hirð@
+@courteously@|@kurteisliga@
+@cousin@|@systrungr@
+@cover@|@hlíf, hulða@
+@cow@|@kyr@
+@cowardly@|@argr@
+@crack (v)@|@braka@
+@cradle@|@vagga@
+@crafty@|@slœgr@
+@crag@|@bjarg, hamarr@
+@crash (v)@|@gnata@
+@crave (v)@|@krefja@
+@creak (v)@|@braka@
+@create (v)@|@skapa@
+@creature@|@kvikindi@
+@credit@|@mannvirðing@
+@creep (v)@|@krjúpa@
+@crew@|@skipan@
+@cross@|@kross@
+@cross_beam@|@þvertré@
+@crouch (v)@|@krjúpa@
+@crowd@|@fjǫlmenni@
+@crowd (v)@|@drifa, skipa@
+@crowded@|@fjǫlmennr@
+@crozier@|@bagall, stafr@
+@cruelty@|@illska@
+@crusaders@|@Jórsalafarar@
+@cry (v)@|@hlakka@
+@Cry out (v)@|@kalla, krikta, œpa@
+@curiosity@|@forvitni@
+@current@|@straumr@
+@curses@|@feiknstafir@
+@cushion@|@hœgindi@
+@custom@|@háttr, siðr, siðvenja, vani@
+@cut (v)@|@bita, hǫggva, skera, sníða@
+@dainty@|@krás@
+@dale@|@dalr@
+@damage@|@skaði@
+@damage (v)@|@hata@
+@dance@|@danzleikr@
+@dancing_song@|@danzleikr@
+@dandy@|@skartsmaðr@
+@danger@|@háski@
+@dangerous@|@hættr@
+@dare (v)@|@bella, þora@
+@daring@|@áræði, djarfr, stórráðr@
+@dark@|@blakkr, myrkr, ófǫlr@
+@darkness@|@myrkr@
+@daughter@|@dóttir@
+@dauntless@|@hraustligr@
+@dawn@|@elding, nætrelding@
+@dawn (v)@|@daga, lysa@
+@day@|@dagr, dœgr@
+@daybreak@|@dagan@
+@daylight@|@dagr@
+@dead@|@dauðr, feigr, líflátinn@
+@Deal with (v)@|@mœta@
+@dealings@|@ferð, sameign, skipti, viðreign, viðskipti@
+@dear@|@dýrr, kærr@
+@dearth@|@óáran@
+@death@|@andlát, bani, dauði, fjǫrlag@
+@death_blow@|@banahǫgg@
+@death_day@|@dauðadagr@
+@debt@|@skuld@
+@deceit@|@flærð@
+@deceitful@|@fláráðr@
+@deck@|@þilja@
+@declare (v)@|@kveða@
+@deed@|@verk@
+@deeds@|@far@
+@deep@|@djúpr@
+@defence@|@vǫrn, viðrtaka@
+@defend (v)@|@varði, verja@
+@delay@|@dvǫl@
+@delight@|@fǫgnuðr, gaman@
+@demeanor@|@yfirbragð@
+@deny (v)@|@neita, synja, þræta@
+@depopulation@|@landauðn@
+@depose (v)@|@reka@
+@depressed@|@ókátr@
+@depression@|@ógleði@
+@Deprive of (v)@|@ræna@
+@descendants@|@kynkvísl@
+@descended@|@ættaðr@
+@descent@|@ætt@
+@desire@|@fyst, hugr, vili@
+@desire (v)@|@fysa, lysta, þreyja, tíða@
+@desolate@|@óvistuligr@
+@despair@|@æðra@
+@destiny@|@forlǫg@
+@destitution@|@válað@
+@destroy (v)@|@brjóta, hata, spilla@
+@destroyer@|@fárbjóðr@
+@devise (v)@|@finna@
+@dew@|@dǫgg@
+@die (v)@|@andask, deyja@
+@difference@|@munr@
+@difficult@|@erfiðr, óhœgr, þungr, torsóttr, vándr@
+@difficulty@|@vandræði@
+@dig (v)@|@grafa@
+@dimension@|@vegr@
+@diminish (v)@|@réna, þverra@
+@diminished@|@skarðr@
+@diminution@|@þurðr@
+@direct (v)@|@styra, vísa@
+@direction@|@vegr@
+@dirty@|@ókræsilegr, óþokkuligr@
+@disagreement@|@deila@
+@discomfort@|@óhægindi@
+@discussion@|@umrœða@
+@disease@|@mein@
+@disgrace@|@læging, óvirðing, sneypa, svívirðing@
+@dishonor@|@ósœmd, ósómi@
+@dismissal@|@brottkvaðning@
+@display (v)@|@birta@
+@displease (v)@|@mislíka@
+@disposition@|@skapleikr, skaplyndi, skapsmunir, vili@
+@dissuade (v)@|@letja@
+@distress@|@nauð@
+@distress (v)@|@angra@
+@district@|@herað, sveit@
+@ditch@|@grǫf@
+@ditty@|@kviðlingr@
+@divide (v)@|@deila, skipta@
+@Do harm (v)@|@saka@
+@Do harm to (v)@|@skaða@
+@dog@|@bikkja, hundr, rakki@
+@doomed@|@feigr@
+@door@|@dyrr, hurð@
+@door_keeper@|@dyrvǫrðr@
+@doorway@|@dyrr@
+@doughtiness@|@dugr@
+@doughty@|@þrúðugr@
+@down@|@niðr, niðri, ofan@
+@downcast@|@hnipinn@
+@draught@|@drykkr@
+@dread@|@ótti@
+@dream@|@draumr@
+@dream (v)@|@dreyma@
+@dregs@|@órval@
+@dress (v)@|@binda@
+@drift (v)@|@hrinda@
+@drink@|@drykkr, mungát@
+@drink (v)@|@drekka@
+@drinker@|@drykkjumaðr@
+@drinking@|@drykkja@
+@drinking_horn@|@horn, hvítingr@
+@drip (v)@|@drjúpa@
+@drive@|@støkkva@
+@drive (v)@|@aka, drifa, hrinda, reka@
+@Drive away (v)@|@hrekja@
+@drizzle@|@úr@
+@droop (v)@|@drúpa@
+@drop (v)@|@detta@
+@droppings@|@tros@
+@drowsiness@|@hǫfgi@
+@dry@|@þurr@
+@duel@|@einvigi@
+@duty@|@knǫð@
+@dwarf@|@dvergr@
+@dwell (v)@|@byggva@
+@dwelling@|@bú, bygð, staðr, tún@
+@dwelling_place@|@bústaðr, garðr@
+@dwindle (v)@|@réna@
+@eager@|@annt, fúss, gjarn@
+@eagle@|@ǫrn, ari@
+@earl@|@jarl@
+@early@|@snemt, snimhendis, snimma@
+@earn (v)@|@ǫðlask@
+@earth@|@fold, jǫrð, mold@
+@earthquake@|@landskjálpti@
+@easily@|@vel@
+@Easterner@|@austmaðr@
+@eastward@|@austr@
+@easy@|@dæll, hœgr@
+@eat (v)@|@eta, nyta@
+@Eat a meal (v)@|@matask@
+@ebb_tide@|@fjara@
+@edge@|@egg, jaðarr, þrǫmr@
+@egg@|@egg@
+@eight@|@átta@
+@eighteen@|@átján@
+@elated@|@uppstertr@
+@elder@|@ellri@
+@elect (v)@|@taka@
+@eleven@|@ellifu@
+@elf@|@álfr@
+@elk@|@elgr@
+@elm@|@almr@
+@eloquent@|@snjallr@
+@else@|@ella@
+@employment@|@vist@
+@empty (v)@|@drekka, ryðja@
+@enchantment@|@seiðr@
+@encircle (v)@|@sveipa@
+@enclosure@|@garðr, tún@
+@encomium@|@hróðr, lofkvæði, mærð@
+@encounter@|@viðreign@
+@encourage (v)@|@fysa@
+@end@|@enda, endi, lykð@
+@end (v)@|@lúka@
+@endurance@|@eljun@
+@endure (v)@|@þola@
+@enemy@|@andskoti, fjándmaðr, óvinr@
+@energetic@|@bilstyggr@
+@energy@|@atferð, dáð@
+@engender (v)@|@geta@
+@engrave (v)@|@grafa@
+@enjoy (v)@|@njóta, una@
+@enormously@|@allstórum@
+@enough@|@gnógr, œrinn, œrit@
+@enslave (v)@|@þjá@
+@entangle (v)@|@vefja@
+@enterprising@|@gørviligr@
+@entertain (v)@|@skemta@
+@entertaining@|@skemtiligr@
+@entertainment@|@fǫgnuðr@
+@entice (v)@|@teygja@
+@entrance@|@innganga@
+@enumerate (v)@|@telja@
+@equal@|@jafn, líki@
+@equality@|@jǫfnuðr, jafnaðr@
+@equinox@|@jafndœgri@
+@equipment@|@búnaðr@
+@erect@|@uppréttr@
+@errand@|@sendiferð@
+@erring@|@villr@
+@establish (v)@|@setja@
+@established@|@fullkominn@
+@esteem@|@metorð@
+@esteem (v)@|@virða@
+@estimate@|@ætlun@
+@estimate (v)@|@meta, virða@
+@estuary@|@óss@
+@evening@|@aptann, kveld@
+@evensong@|@kveldsǫngr@
+@event@|@atburðr@
+@every@|@hverr@
+@everything@|@hvatvetna@
+@evident@|@auðsénn, auðsýnn@
+@evil@|@illr, vándr@
+@ewe@|@ásauðr@
+@exactly@|@inniliga@
+@exaggerate (v)@|@ofsa@
+@exceedingly@|@ákafliga, forkunnar, helzt@
+@excellent@|@ágætr@
+@excuse@|@várkunn@
+@exhaustion@|@mœði@
+@exhortations@|@fortǫlur@
+@exiled@|@útlægr@
+@exist (v)@|@syna@
+@expect (v)@|@ætla, vænta@
+@expectation@|@ván@
+@expedient@|@ráð@
+@expedition@|@fǫr@
+@expense@|@kostnaðr@
+@expensive@|@dýrr@
+@exploration@|@landaleitan@
+@explore (v)@|@kanna@
+@expression@|@orðtœki@
+@extend (v)@|@ganga@
+@externally@|@útan@
+@extinguish (v)@|@sløkkva@
+@eye@|@auga@
+@eye_brow@|@brún@
+@face@|@andlit@
+@fail (v)@|@þrjóta@
+@faintness@|@ómegin@
+@fair@|@fagr, sannligr@
+@fair_minded@|@ørgrandr@
+@faith@|@trú@
+@fall@|@fall@
+@fall (v)@|@detta, falla, hrata@
+@Fall asleep (v)@|@sofna@
+@Fall back (v)@|@hrøkkva@
+@Fall down (v)@|@rata@
+@Fall down on (v)@|@hlaupa@
+@false@|@flár, fláráðr, undirfǫrull@
+@falsehood@|@lygi@
+@falseness@|@lausung@
+@fame@|@dómr, frami, orðstírr@
+@family@|@ætt, skuldalið@
+@famous@|@frægr, mærr@
+@far@|@fjarri, fjarri@
+@farm@|@bú, hús, staðfesta@
+@farm_cattle@|@búfé@
+@farming@|@bú@
+@farmstead@|@bœr@
+@farther@|@viðara@
+@fashion@|@leið@
+@fashioned@|@háttaðr@
+@fast@|@fast, fastr@
+@fasten (v)@|@festa, kneppa, strengja@
+@fat@|@feitr@
+@fate@|@forlǫg, hluti@
+@fated@|@ætla, auðit@
+@father@|@faðir@
+@fault_finding@|@atmælasamr@
+@favor@|@hylli@
+@favorite@|@vilðarmaðr@
+@fear@|@æðra, hræzla, ótti@
+@fear (v)@|@ugga@
+@feast@|@boð, gildi, mannboð, veizla@
+@feast_day@|@messa@
+@feather@|@fjǫðr@
+@feather_coat@|@fjaðrhamr@
+@feathers@|@fiðri@
+@feature@|@álit@
+@feed (v)@|@ala, fœða@
+@feel (v)@|@kenna@
+@fell@|@fjall@
+@fellow@|@bokki, félagi@
+@fellow_countryman@|@landi@
+@felt@|@þófi@
+@fen@|@fen@
+@fence@|@garðr@
+@festival@|@boð@
+@fetter@|@band, fjǫturr@
+@few@|@fár@
+@field@|@akr, vǫllr@
+@fields@|@bjǫð@
+@fierce@|@atall, grimmr@
+@fiercely@|@harðliga@
+@fiercest@|@harðaz@
+@fiery@|@ǫndóttr@
+@fifteen@|@fimtán@
+@fight@|@bardagi, barsmið, sókn, víg@
+@fighter@|@vígamaðr@
+@fill (v)@|@fylla@
+@filth@|@saurr@
+@filthy@|@ókræsilegr@
+@find (v)@|@finna, hitta, leita@
+@Find out (v)@|@forvitnask, spyrja@
+@fine@|@gildr, góðr, reisiligr@
+@finger@|@fingr@
+@finish (v)@|@lúka@
+@fire@|@aldrnari, bál, bruni, eldr, hyrr@
+@firewood@|@eldivðr@
+@firm@|@fastr@
+@first@|@áðr, fyrstr@
+@firth@|@fjǫrðr@
+@fish@|@fiskr@
+@fitting@|@makligr, verðr@
+@five@|@fimm@
+@flag@|@flík@
+@flail@|@hálmþúst@
+@flame@|@hiti, villieldr@
+@flat@|@flatr, hǫlkn@
+@flay (v)@|@flá@
+@flee (v)@|@flyja@
+@fleeing@|@fljótr@
+@fleet@|@floti@
+@fleetness@|@skjótleikr@
+@flesh@|@hold, slátr@
+@flight@|@flaugun, flótti@
+@flitting@|@sveimun@
+@float (v)@|@fljóta@
+@flood@|@flóð@
+@floor@|@gólf@
+@flour@|@mjǫl@
+@fly (v)@|@fljúga, hrjóta@
+@Fly off (v)@|@fjúka@
+@flying@|@flaugun@
+@foal@|@fyl@
+@fodder@|@fóðr@
+@fog@|@þoka@
+@fold@|@grind@
+@follow (v)@|@fylgja@
+@follower@|@liði, sveitungr@
+@following@|@fylgð@
+@folly@|@hégómi@
+@food@|@gjǫr, matr@
+@foolish@|@heimskr, ósnjallr, villtr@
+@foot@|@fótr@
+@forbid (v)@|@banna@
+@force@|@foss@
+@foreign@|@útlendr@
+@foremost@|@fyrstr@
+@forest@|@mǫrk, skógr, viðr@
+@forge (v)@|@slá@
+@forget (v)@|@tyna@
+@form@|@líki, mynd, vǫxtr@
+@former@|@fyrri@
+@formerly@|@forðum@
+@formula@|@formáli@
+@fortitude@|@þrek@
+@fortunate@|@heppinn, sæll@
+@fortune@|@happ@
+@forward@|@fram, framan, framr@
+@foster (v)@|@fóstra@
+@foster_brother@|@fóstbróðir@
+@foster_father@|@fóstri@
+@foster_mother@|@fóstra@
+@foster_son@|@fóstri@
+@foul@|@fúll@
+@fountain@|@kelda@
+@four@|@fjórir@
+@four_cornered@|@ferskeyttr@
+@fourteen@|@fjórtán@
+@fourth@|@fjórði@
+@fox_hole@|@gren@
+@franklin@|@bóndi@
+@frantic@|@óðr, œrr@
+@free@|@frjáls, lauss, sjálfráðr@
+@free_will@|@sjálfvili@
+@freeze (v)@|@frjósa, kala@
+@fresh@|@hraðr@
+@friend@|@vinr@
+@friendliness@|@bliða@
+@friendship@|@vinátta@
+@frighten (v)@|@fæla, hræða, skelfa@
+@frightened@|@hræddr@
+@frost@|@frost@
+@frost_giant@|@hrímþurs@
+@fulfill (v)@|@efna@
+@full@|@allsekr, fullr@
+@funeral@|@erfi@
+@fur@|@skinn@
+@fur_ware@|@skinnavara@
+@furious@|@óðr@
+@further@|@fremr@
+@fury@|@móðr@
+@gable_wall@|@gaflveggr@
+@gallant@|@vaskr@
+@gallantly@|@prútt, rǫskliga@
+@gallop (v)@|@hleypa@
+@game@|@leikr@
+@gape (v)@|@gapa@
+@garment@|@klæði@
+@gather (v)@|@lesa, safna, samna@
+@gathering@|@samnaðr@
+@gaze@|@sjón@
+@gaze (v)@|@gægjask, horfa, sjá@
+@genealogy@|@ættartala@
+@generosity@|@stórmenska@
+@generous@|@mildr@
+@generously@|@hǫfðingliga@
+@genial@|@leiðitamr@
+@gentle@|@dæll, hœgr@
+@gentleman@|@jarl@
+@Get back (v)@|@heimta@
+@Get up (v)@|@rísa@
+@ghost@|@draugr, haugbúi@
+@giant@|@jǫtunn, þurs@
+@giantess@|@flagð@
+@gift@|@gjǫf@
+@girdle@|@fetill@
+@give (v)@|@gefa, selja, veita@
+@Give birth (v)@|@fœða@
+@Give help to (v)@|@fylgja@
+@Give in marriage (v)@|@gipta@
+@giver@|@bjóðr@
+@glacier@|@jǫkull@
+@glad@|@feginn, glaðr@
+@gladden (v)@|@glaða, hlœgja@
+@gladly@|@glaðliga, vel@
+@gladness@|@gleði@
+@glance@|@tillit@
+@glide (v)@|@skríða@
+@glitter (v)@|@glita@
+@glorious@|@mærr@
+@glory@|@ágæti, dýrð, dýrk@
+@glove@|@hanzki@
+@glum@|@óglaðr@
+@go (v)@|@fara, ganga, hvarfa, hvata, leita, liða, ráða@
+@goad@|@geisl@
+@goat@|@hafr@
+@goat_skin@|@hafrstaka@
+@god@|@áss@
+@gods@|@tívar@
+@gold@|@gull, marglóð@
+@golden_horned@|@gullhyrndr@
+@good@|@gipta, happ, heill@
+@good_tempered@|@skapgóðr@
+@goods@|@góz, varnaðr@
+@goodwill@|@góðvili@
+@gorge@|@gil@
+@grace@|@hylli, miskunn@
+@gracious@|@bliðr@
+@grain@|@korn@
+@grandmother@|@amma@
+@grandson@|@dótturson, sonarson@
+@grant (v)@|@unna, veita@
+@grape@|@vínber@
+@grape_vine@|@vínviðr@
+@grasp@|@fang@
+@grasp (v)@|@þrífa@
+@graspingness@|@seiling@
+@grass@|@gras@
+@grassless@|@svarðlauss@
+@grassy@|@grǫsugr@
+@grave@|@dys@
+@grave_mound@|@haugr@
+@gravel@|@mǫl@
+@great@|@herr, mikill, ríkr, stórr@
+@greatest@|@mestr@
+@greatly@|@ákaft, mikit@
+@greed@|@ágirni@
+@greedy@|@frekr@
+@greet (v)@|@heilsa, kveðja@
+@greeting@|@kveðja@
+@grey@|@grár, hǫss@
+@grief@|@bǫl, harmr@
+@grieve (v)@|@harma@
+@grim@|@grimmr@
+@grimace (v)@|@gretta@
+@grin (v)@|@glotta@
+@grip (v)@|@grípa@
+@groan@|@stynr@
+@groan (v)@|@stundi, ymja@
+@groaning@|@ymr@
+@groin@|@nári@
+@grope (v)@|@þreifa@
+@ground@|@grunnr, vǫllr@
+@grow (v)@|@þróask, vaxa@
+@Grow dark (v)@|@myrkva, sortna@
+@Grow old (v)@|@eldask@
+@growth@|@ávǫxtr, vǫxtr@
+@guard@|@vǫrðr@
+@guard (v)@|@geyma@
+@Guard against (v)@|@varða@
+@guest@|@boðsmaðr, gestr@
+@guide (v)@|@vísa@
+@guild@|@gildi@
+@guild_brethren@|@gildisbrœðr@
+@habit@|@vandi@
+@hail@|@hagall@
+@hail_stone@|@haglkorn@
+@hair@|@hár, skǫr@
+@haired@|@hærðr@
+@hairy@|@loðinn@
+@half@|@hálfr, helmingr@
+@hall@|@hǫll, salr, skáli@
+@hall_floor@|@hallargólf@
+@hallow (v)@|@vígja@
+@hammer@|@hamarr@
+@hand@|@hǫnd, mund@
+@handle@|@skapt@
+@handmaid@|@ambátt@
+@handshake@|@handsal@
+@handsome@|@fríðr, vænn@
+@hanging@|@síðr@
+@happen (v)@|@verða@
+@happening@|@tíðr@
+@happy@|@sæll@
+@harbour@|@hǫfn@
+@hard_hearted@|@harðhugaðr@
+@harden (v)@|@herða@
+@hardihood@|@harðræði, krellr@
+@hardly@|@trauðla@
+@harm@|@háski, nauð, ógagn, vansi@
+@harmful@|@meinsamr@
+@harry (v)@|@herja@
+@harsh@|@herfiligr, stirðlyndr@
+@hasten (v)@|@hvata@
+@hastily@|@skyndiliga@
+@hasty@|@bráðr@
+@hateful@|@leiðr@
+@haughty@|@stórráðr@
+@haul (v)@|@draga@
+@have (v)@|@hafa@
+@Have the power to (v)@|@eiga@
+@Have the use of (v)@|@njóta@
+@hawk@|@haukr, heiðir@
+@head@|@hǫfuð, hjalmstallr@
+@headland@|@nes@
+@headlong@|@hrapalliga@
+@heap@|@hrúga@
+@hear (v)@|@heyra, hlyða@
+@Hear of (v)@|@heyra@
+@hearing@|@hljóð@
+@heart@|@hjarta, hugr, munr@
+@heartily@|@glaðliga@
+@heat@|@ákafi, bruni, hiti@
+@heat (v)@|@verma@
+@heath@|@heiðr@
+@heathen@|@heiðinn@
+@heathendom@|@heiðni@
+@heathenism@|@hindrvitni@
+@heaven@|@himinn, upphiminn@
+@heavy@|@þungr@
+@heed@|@gaumr@
+@heed (v)@|@gá, geyma@
+@heel@|@hæll@
+@height@|@hæð@
+@heir@|@erfingi@
+@hell@|@hel@
+@helm@|@styri@
+@helmet@|@hjálmr@
+@help@|@ásjá, beini, fullting, liðveizla, umráð@
+@help (v)@|@duga, hjálpa, tjá, veita@
+@helpful@|@gagnsamr@
+@helpfulness@|@gagnsemð@
+@hem@|@skaut@
+@hence@|@heðan@
+@henchman@|@maðr@
+@hens@|@hœnsn@
+@herd@|@hjǫrð@
+@herdsman@|@féhirðir, hirðir, smalamaðr@
+@hero@|@ǫldungr, hǫldr, halr, kappi, seggr@
+@hew (v)@|@hǫggva@
+@hide@|@húð@
+@hide (v)@|@fela@
+@hideous@|@illiligr@
+@hideously@|@afskræmiliga@
+@high@|@hár@
+@highest@|@efst, œztr@
+@hill@|@fell, hæð@
+@hill_crest@|@háls@
+@hill_giant@|@bergrisi@
+@hill_side@|@hallr@
+@hilt@|@hjǫlt@
+@hind@|@eptri@
+@hinder (v)@|@hepta, tálma@
+@hire (v)@|@leiga@
+@history@|@frœði@
+@hither@|@heðra, hingat@
+@hold (v)@|@halda@
+@Hold fast (v)@|@halda@
+@hole@|@grǫf, hol, hylr, rauf@
+@hollow@|@hol, holr@
+@home@|@heim, heima, heimili, hybyli@
+@homestead@|@heimili, heimstǫð, hybyli, staðfesta@
+@honest@|@ørgrandr@
+@honor@|@mannvirðing, sœmd, sœmð, vegr, virðing@
+@honorable@|@frægiligr, sœmiligr, virðuligr@
+@honorably@|@ágætliga@
+@hood@|@hǫfuðdúkr, hǫttr, hattr@
+@hook@|@krókr@
+@hop (v)@|@skjóta@
+@hope@|@ván@
+@hope (v)@|@vætta@
+@horn@|@horn@
+@horror@|@skrípi@
+@horse@|@hestr, hross, marr@
+@horse_flesh@|@hrossakjǫt@
+@horseman@|@riddari@
+@hospitality@|@lǫð, risna@
+@host@|@fjǫl, fylking, samnaðr, sinni, sjǫt@
+@hostage@|@gísl@
+@hostility@|@níð, ófriðr@
+@hot@|@heitr@
+@hound@|@hundr@
+@house@|@bœr, hús@
+@house_building@|@húsgørð@
+@house_folk@|@man@
+@household@|@hjú@
+@housewife@|@húsfreyja@
+@how@|@hversu@
+@however@|@hversu@
+@howl (v)@|@yla@
+@howling@|@þytr@
+@huge@|@stórr@
+@hugely@|@stórum@
+@human@|@mannligr, menskr@
+@humbly@|@lítillátliga@
+@humiliation@|@hrakning, læging@
+@hundred@|@hundrað@
+@hunger@|@gráðr@
+@hungry@|@soltinn@
+@hunting@|@veiðr@
+@huntsman@|@veiðimaðr@
+@hurdle@|@hurðarflaki@
+@hurl (v)@|@fœra, sløngva@
+@hurry@|@rás@
+@hurry (v)@|@skynda@
+@hurt@|@mein, ógagn@
+@husband@|@bóndi, maðr, verr@
+@ice@|@íss, svell@
+@ignominy@|@ósómi@
+@ignorant@|@óvitr@
+@ill_clad@|@nøkkviðr@
+@ill_favored@|@ósælligr@
+@illness@|@sótt@
+@illuminate (v)@|@lysa@
+@impassable@|@ófœrr@
+@importance@|@tilkváma@
+@imposing@|@mikilúðligr@
+@improve (v)@|@batna@
+@impure@|@óhreinn@
+@incautiously@|@óvarliga@
+@incest@|@sifjaslit@
+@incite (v)@|@etja@
+@increase@|@auki, ávǫxtr@
+@increase (v)@|@auka, fylla, þróask, vaxa@
+@infant@|@kǫgursveinn@
+@information@|@frásǫgn, fregn, mál@
+@inheritance@|@arfr@
+@injure (v)@|@lesta, meiða@
+@injury@|@mein, meizi@
+@injustice@|@ójafnaðr@
+@innocent@|@saklauss@
+@inquire (v)@|@forvitnask@
+@insignificant@|@smáskitligr@
+@insult@|@hrakning@
+@intelligently@|@skynsamliga@
+@intend (v)@|@ætla, hyggja, vilja@
+@intention@|@ráð@
+@invest (v)@|@varði, verja@
+@invitation@|@lǫð@
+@invite (v)@|@bjóða@
+@iron@|@járn@
+@iron_smith@|@járnsmiðr@
+@island@|@ey, eyland@
+@jaw@|@kjǫptr@
+@jerk (v)@|@kippa@
+@jetsam@|@reki@
+@jewel@|@men@
+@joint@|@liðr@
+@journey@|@fǫr, ferð, leið, vegr@
+@journeying@|@fǫr@
+@joy@|@angan@
+@judge@|@dómari@
+@judge (v)@|@dœma@
+@judgement@|@dómr@
+@judgement_seat@|@dómstóll@
+@justice@|@jafnaðr@
+@keel@|@kjǫlr@
+@keen@|@ǫrr, bitr@
+@keeping@|@hirzla, varðveizla@
+@key@|@lykill@
+@kick (v)@|@spyrna@
+@kid@|@kið@
+@kill (v)@|@bana, drepa, vega@
+@killing@|@dráp@
+@kin@|@kyn@
+@kind@|@háttr, kyn@
+@kindle (v)@|@kveykva@
+@kindly@|@linr@
+@kindred@|@mǫgr@
+@king@|@buðlungr, gramr, jǫfurr, konungr, lofðungr, þengill@
+@kingdom@|@ríki@
+@kinship@|@frændsemi@
+@kinsman@|@frændi, náungi, niðr@
+@kirtle@|@kyrtill, skyrta@
+@kiss (v)@|@kyssa@
+@knapsack@|@kyll@
+@knead (v)@|@knoða@
+@knee@|@kné@
+@knife@|@knífr, sax@
+@knob@|@knappr@
+@knock (v)@|@klappa@
+@knoll@|@hváll@
+@knot@|@knútr, lykkja@
+@know (v)@|@kenna, kunna@
+@Know how to (v)@|@kunna@
+@Know of (v)@|@vita@
+@knowledge@|@fróðleikr, kunnandi, kunnusta, skyn@
+@known@|@kunnigr, kunnr@
+@knuckle@|@knúi@
+@knuckle_bone@|@knúta@
+@labor@|@forvirki@
+@laborer@|@verkmaðr@
+@lace@|@þvengr@
+@lacking@|@ávant, vanr@
+@lad@|@sveinn@
+@lake@|@vatn@
+@lame@|@haltr@
+@land@|@bjǫð, fit, land@
+@land_dues@|@landaurar@
+@landed@|@lendr@
+@landing_stage@|@bryggja@
+@landslide@|@skriða@
+@lane@|@geil@
+@language@|@mál@
+@large@|@mikill@
+@last@|@síðastr@
+@lasting@|@drjúgr@
+@later@|@efri, síðar@
+@latest@|@síðast@
+@laugh (v)@|@hlæja@
+@laughable@|@hlœgiligr@
+@laughter@|@hlátr@
+@lava@|@hraun@
+@law@|@lǫg, réttr@
+@law_rock@|@lǫgberg@
+@law_speaker@|@lǫgsǫgumaðr@
+@laws@|@lǫg@
+@lawsuits@|@málaferli@
+@Lay a charge against (v)@|@kæra@
+@Lay hands on (v)@|@hǫndla@
+@Lay waste (v)@|@eyða@
+@layer@|@lag@
+@leader@|@fólkhagi, skati, vinr, vísi, yfirmaðr@
+@leaf@|@laufsblað@
+@leaf_green@|@laufgrœnn@
+@leap (v)@|@hlaupa, stikla@
+@learn (v)@|@fregna@
+@learned@|@spakr@
+@least@|@minstr, sízt@
+@left@|@vinstri@
+@left_handed@|@ǫrvendr@
+@leg@|@fótr, leggr@
+@lend (v)@|@ljá@
+@length@|@lengð@
+@lengthen (v)@|@lengja@
+@lessen (v)@|@minka@
+@letter@|@bréf@
+@level@|@sléttr@
+@liability@|@ábyrgð@
+@liberal@|@ǫrr, góðr@
+@liberality@|@risna@
+@lie@|@lygi@
+@lie (v)@|@þrumði, þrymja@
+@Lie down (v)@|@liggja@
+@life@|@ævi, fjǫr, líf, lífdagar@
+@life_story@|@ævi@
+@lift (v)@|@hefja, létta, lypta, vega@
+@light@|@ljós@
+@light (v)@|@kveykva@
+@like@|@líki@
+@likelihood@|@líkindi@
+@likely@|@glíkligr, líkligr, líkr, vænn@
+@liking@|@geð@
+@lime_tree@|@lind@
+@lineage@|@ætt, kynkvísl@
+@linen@|@hǫrr, lérept, lín@
+@lintel@|@uppdyri@
+@lip@|@grǫn@
+@litigation@|@deild@
+@live (v)@|@lifa@
+@livestock@|@bú@
+@living@|@kykr@
+@load (v)@|@hlaða@
+@loathsome@|@ámáttr@
+@lock (v)@|@læsa@
+@locks@|@skǫr@
+@lodge (v)@|@gista, liggja@
+@lodgings@|@herbergi@
+@lofty@|@hár@
+@log@|@lág, stokkr, tré@
+@long@|@langr, lengi, síðr@
+@long_lived@|@langlífr@
+@longer@|@lengr@
+@longest@|@lengst@
+@look@|@tillit@
+@Look about (v)@|@litask@
+@loop@|@lykkja@
+@loose@|@lauss@
+@lord@|@dróttinn, herra, þengill@
+@lore@|@fróðleikr, frœði@
+@lose (v)@|@missa, tyna@
+@loss@|@afroð, skaði@
+@lot@|@hluti@
+@loudly@|@hátt@
+@louse@|@lús@
+@love@|@ást, ástir, elska@
+@love (v)@|@elska@
+@lower@|@neðar, neðri@
+@lower (v)@|@lægja@
+@loyal@|@hollr@
+@luck@|@gæfa, hamingja@
+@lucklessness@|@gæfuleysi@
+@lucky@|@gæfumaðr, giptumaðr, heppinn@
+@mad@|@œrr@
+@made@|@gǫrr@
+@magic@|@fróðleikr@
+@magnificent@|@frægiligr, skǫruligr, virðuligr@
+@maiden@|@mær@
+@maim (v)@|@meiða@
+@mainland@|@meginland@
+@make (v)@|@efla, gera, gøra, setja, smíða@
+@Make a bargain (v)@|@kaupa@
+@Make great (v)@|@mikla@
+@Make red (v)@|@rjóða@
+@Make run (v)@|@hleypa@
+@making@|@gørð@
+@man@|@gumi, hǫldr, hǫlðr, halr, karl, karlmaðr, maðr, rekkr, verr@
+@mane@|@mǫn@
+@manfully@|@drengiliga, frœknliga@
+@manifest@|@skyrr@
+@manly@|@skǫruligr@
+@manner@|@háttr, leið, lund, mót@
+@manslaughter@|@manndráp, mannskaði@
+@manslaughters@|@vígaferli@
+@many@|@margr@
+@maple@|@mǫsurr@
+@mare@|@hross, merr, stóðhross@
+@market@|@kaupstefna@
+@married@|@kvángaðr@
+@marrow@|@mergr@
+@marry (v)@|@kvángask@
+@marshal@|@stallari@
+@martyrdom@|@martirium@
+@marvel@|@undr@
+@mask@|@gríma@
+@mass@|@messa@
+@match@|@jafnmenni@
+@material@|@efni@
+@mead@|@mjǫðr@
+@meadow@|@eng@
+@meal@|@matr, mjǫl@
+@meal_bag@|@mjǫlbelgr@
+@mean (v)@|@gegna, hyggja, tákna@
+@mean_looking@|@vesalligr@
+@meanness@|@ódrengskapr@
+@meat@|@slátr@
+@Meddle with (v)@|@glettask@
+@mediate (v)@|@miðla@
+@meet (v)@|@finna, mœta@
+@men@|@firar, gotar, lyðr, virðar@
+@merchant@|@kaupmaðr@
+@merciful@|@mildr, miskunnsamr@
+@mercy@|@miskunn@
+@merit@|@tilgørð@
+@merry@|@glaðr, kátr, teitr@
+@message@|@orð, orðsending, ørendi@
+@messenger@|@sendimaðr@
+@middle@|@miðr@
+@midsummer@|@miðsumar@
+@might@|@máttr, megin, orka@
+@mighty@|@þróttigr@
+@mild@|@gæfr@
+@milk (v)@|@mjólka@
+@mind@|@geð, hugr, munr@
+@mind (v)@|@hirða@
+@miserable@|@vesall@
+@misfortune@|@ógæfa, óhapp@
+@miss (v)@|@sakna@
+@mission@|@ørendi, sendiferð@
+@mist@|@þoka@
+@mix (v)@|@blanda@
+@moan (v)@|@stynja@
+@moaning@|@stynr@
+@moment@|@bil@
+@money@|@fé, fémunir, skillingr@
+@monk@|@munkr@
+@monster@|@forað, hveðrungr, óvættr@
+@month@|@mánaðr@
+@mood@|@lund, skaplyndi@
+@moon@|@máni, tungl@
+@moonlight@|@tunglskin@
+@more@|@fleiri, fremr, meiri, meirr@
+@moreover@|@enda@
+@mortify (v)@|@pína@
+@moss@|@mosi@
+@mother@|@móðir@
+@mould@|@mold@
+@mound@|@haugr@
+@mountain@|@fell, fjall@
+@mountainous@|@fjǫllóttr@
+@mouse@|@mús@
+@mouth@|@muðr, munnr@
+@mouthful@|@sopi@
+@Move quickly (v)@|@bregða@
+@movement@|@atrið, fǫr@
+@mow (v)@|@slá@
+@mud@|@efja, saurr@
+@mud_flat@|@leira@
+@multitude@|@fjǫlði, mengi@
+@murder@|@morðvíg@
+@mutilation@|@meizi@
+@my@|@minn@
+@mysteries@|@rún@
+@nail@|@nagl@
+@naked@|@nøkkviðr@
+@name@|@nafn@
+@name (v)@|@nefna@
+@narration@|@frásǫgn@
+@nasty@|@óþokkuligr@
+@nation@|@þjóð@
+@nature@|@lund@
+@nay@|@heldr@
+@nearer@|@nær@
+@nearest@|@næst@
+@nearly@|@nær, næsta, náliga@
+@neatly@|@hagliga@
+@necessary@|@þarfr@
+@necessity@|@nauðsyn@
+@neck@|@háls@
+@necklace@|@men@
+@need@|@nauðsyn@
+@need (v)@|@þurfa@
+@neigh (v)@|@hneggja, hrína@
+@neighbor@|@búi, nábúi@
+@neither@|@hvárgi@
+@never@|@æva, aldregi, aldri@
+@nevertheless@|@þó@
+@new@|@nyr@
+@news@|@fregn, njósn, nylunda, tíðendi@
+@night@|@nótt@
+@night_lodgings@|@gisting@
+@nine@|@níu@
+@no@|@neinn@
+@nobility@|@drengskapr@
+@noble@|@góðr, mærr@
+@nobleman@|@lendrmaðr@
+@noise@|@læti@
+@noisy@|@hávaðamikill@
+@none@|@neinn@
+@northern@|@norðanverðr@
+@northwards@|@norðr@
+@nose@|@nef@
+@nostril@|@nǫs@
+@nothing@|@vætr@
+@notice (v)@|@þekkja@
+@nowhere@|@hvergi@
+@nurse@|@fóstra@
+@oak@|@eik@
+@oarsman@|@háseti@
+@oath@|@eiðr@
+@oaths@|@sœri@
+@obedience@|@hlyðni@
+@obligation@|@vandi@
+@obliged@|@skyldr@
+@obliging@|@vándr@
+@obstinacy@|@þrá@
+@obtain (v)@|@hreppa, ná@
+@occasion@|@tími@
+@occupation@|@iðn@
+@occupy (v)@|@skipa@
+@occur (v)@|@koma@
+@occurrence@|@atburðr@
+@offence@|@miski, mótgørð, sǫk@
+@offer@|@boð, kostr@
+@often@|@opt@
+@oftener@|@optar@
+@ogre@|@þurs@
+@old@|@aldinn, elli, forn, gamall, kerling@
+@older@|@ellri@
+@on@|@fram@
+@one_handed@|@einhendr@
+@onset@|@hríð@
+@open (v)@|@hníga@
+@opening@|@rof@
+@opinion@|@ætlun@
+@opportunity@|@fœri, kostr@
+@opposite@|@gagnvart, gegnt@
+@origin@|@kyn, uppruni@
+@ornament@|@hnoss@
+@our@|@órr, várr@
+@outfit@|@umbúningr@
+@outhouse@|@útibúr@
+@outlaw@|@skógarmaðr, útlagi@
+@outlawed@|@sekr, útlægr@
+@outlawry@|@sekt@
+@overbearing@|@ódæll, ofríki@
+@overcome (v)@|@sigra@
+@own (v)@|@eiga@
+@ox@|@uxi@
+@oxen@|@yxen@
+@pace@|@fet@
+@page@|@skósveinn@
+@pail@|@bytta@
+@pain@|@mein@
+@painful@|@sárr@
+@pale@|@fǫlr, litlauss@
+@palm@|@lófi@
+@part@|@hǫnd, hlutr, staðr@
+@Part with (v)@|@lóga@
+@parting@|@skilnaðr@
+@partition@|@bálkr@
+@partner@|@félagi@
+@party@|@fylgð@
+@pass (v)@|@liða@
+@pastime@|@skemtun@
+@pasture@|@eng, gras@
+@path@|@gata, leið, stígr@
+@patrimony@|@ættleifð@
+@patron@|@vinr@
+@patronage@|@forsjá, umráð@
+@paunch_fat@|@ístra@
+@pause@|@hvílð@
+@pavilion@|@tjald@
+@pay (v)@|@gjalda, inna, veita@
+@Pay reverence to (v)@|@lúta@
+@payment@|@gjald@
+@peace@|@friðr, grið@
+@pen@|@grind@
+@penalty@|@sekt@
+@penniless@|@félauss@
+@penny@|@penningr@
+@people@|@firar, fólk, lið, lyðr, þjóð@
+@perceive (v)@|@skilja@
+@perform (v)@|@efla, efna, fremja, iðja@
+@peril@|@ófœra@
+@perish (v)@|@tyna@
+@permission@|@orlof@
+@permit (v)@|@lofa@
+@persistence@|@þrá@
+@phantom@|@skrípi@
+@phrase@|@orðtœki@
+@piece@|@moli@
+@pile (v)@|@hlaða@
+@pillow@|@hœgindi@
+@pin@|@dálkr@
+@pit@|@grǫf, gróf@
+@pitch (v)@|@tjalda@
+@pithless@|@þreklauss, þróttlauss@
+@place@|@staðr@
+@place (v)@|@skipa@
+@placed@|@staddr@
+@plague@|@mein@
+@plain@|@vǫllr@
+@plan@|@ráð@
+@plank@|@stokkr@
+@planking@|@þilja@
+@platform@|@hjallr@
+@play (v)@|@leika@
+@Plead a case (v)@|@flytja@
+@pleading@|@flutningr@
+@pleasant@|@bliðr@
+@please (v)@|@líka@
+@pleasure@|@gaman@
+@plunder (v)@|@herja, ræna@
+@poem@|@kvæði@
+@poet@|@skáld@
+@poetry@|@bragþáttr, skáldskapr@
+@point@|@oddr, stikill@
+@poison@|@eitr@
+@pole@|@áss, meiðr, stǫng, trjóna, tróða@
+@pole_ladder@|@kraki@
+@pool@|@hylr@
+@poop_deck@|@lypting@
+@poor@|@armr, fátœkr, félítill@
+@popular@|@vinsæll@
+@popularity@|@vinsæld@
+@porridge@|@grautr@
+@portion@|@hlutr@
+@position@|@lag@
+@possess (v)@|@eignask, hafa@
+@possession@|@eiga, hirzla@
+@possessions@|@auðœfi, eign@
+@possible@|@hœgr@
+@poverty@|@efnaleysi, fátœkð, nauð, válað@
+@power@|@afli, megin, ríki, vald@
+@powerful@|@ríkr@
+@praise@|@hróðr, lof, mærð@
+@praise (v)@|@leyfa, lofa, mæra@
+@pray (v)@|@biðja@
+@Pray to (v)@|@heita@
+@prayer@|@bœn@
+@preach (v)@|@boða@
+@precious@|@dýrr@
+@preparation@|@umbúð@
+@prepare (v)@|@búa, ryðja@
+@Prepare food (v)@|@matbúa@
+@present@|@staddr@
+@present (v)@|@fœra@
+@preserve (v)@|@varðveita@
+@press (v)@|@þrøngva@
+@presumption@|@mikillæti@
+@price@|@verð@
+@prickly@|@hvass@
+@pride@|@mikillæti, of, ofsi, óhóf@
+@priest@|@prestr@
+@prince@|@buðlungr, dǫglingr, jǫfurr, þjóðann, vísi@
+@prisoner@|@fangi@
+@probability@|@ván@
+@probable@|@líkligr, venna@
+@proceed (v)@|@sœkja@
+@proceeding@|@atferli@
+@proclaim (v)@|@dœma, lysa@
+@produce@|@frammi@
+@profit@|@góði, slœgr@
+@profit (v)@|@nyta@
+@progress@|@framkvæmd@
+@progress (v)@|@liða@
+@prohibit (v)@|@banna@
+@prolong (v)@|@lengja@
+@promise@|@heit@
+@promise (v)@|@heita@
+@promising@|@efniligr, mannvænn@
+@promptly@|@greiðliga@
+@prophecy@|@spá@
+@prophetess@|@spákona, vǫlva, vísindakona@
+@proportion@|@hóf@
+@prosper (v)@|@hlyða@
+@prostrate@|@flatr@
+@protect (v)@|@hlífa, varði, verja@
+@protection@|@ásjá, grið, skjaldborg, traust@
+@protector@|@véurr@
+@proud@|@prúðr@
+@prove (v)@|@reyna@
+@proverb@|@orðskviðr@
+@provide (v)@|@birgja, skipa@
+@provisions@|@atdráttr, birgðir, fang, nest@
+@provocation@|@tilgørð@
+@prow@|@framstafn, hǫfuðstafn@
+@proximity@|@nánd@
+@purchase (v)@|@leysa@
+@purpose@|@hlutr@
+@pursue (v)@|@elta@
+@push (v)@|@hrinda, þrøngva@
+@Put forth effort (v)@|@kosta@
+@quality@|@kostr@
+@quarrel@|@deild@
+@quarrel (v)@|@deila, sleita@
+@quarters@|@herbergi@
+@queen@|@dróttning@
+@quick@|@skjótr@
+@quickly@|@greiðliga, hraðliga, hverfr, skjótla, skjótt, skyndiliga, títt@
+@quiet@|@hljóðr, kyrr, spakr@
+@quite@|@stundar@
+@race@|@ætt, rás, skeið, þjóð@
+@radiance@|@ljómi@
+@rag@|@flík, slitri@
+@rage (v)@|@geisa@
+@rail@|@spǫlr@
+@raise (v)@|@hefja, reiða, reisa, rétta@
+@rake (v)@|@raka@
+@rank@|@rǫð@
+@rather@|@heldr@
+@raven@|@hrafn@
+@ravine@|@gil@
+@reach (v)@|@rétta@
+@readily@|@fljótr, vel@
+@ready@|@gǫrr@
+@reason@|@efni, sǫk, skyld@
+@reasonable@|@gæfr, hœgr@
+@receive (v)@|@þiggja@
+@receptacle@|@skokkr@
+@reception@|@viðrtaka, viðtaka@
+@recite (v)@|@kveða, þylja@
+@reckoning@|@tal@
+@recognize (v)@|@kenna, þekkja@
+@recoil (v)@|@hǫrfa@
+@reconcile (v)@|@sætta@
+@reconciled@|@sáttr@
+@reconciliation@|@sætt@
+@recover (v)@|@heimta, koma@
+@red@|@rauðr, rjóðr@
+@red_bearded@|@rauðskeggjaðr@
+@reddened@|@roðinn@
+@redeem (v)@|@gjalda, leysa@
+@redress@|@sœmd, sœmð@
+@reek@|@eimi@
+@reek (v)@|@rjúka@
+@refrain@|@stef@
+@refuse (v)@|@neita, synja@
+@region@|@heimr@
+@rein@|@taumr@
+@reindeer@|@hreinn@
+@relate (v)@|@geta@
+@relative@|@frændi@
+@religion@|@siðr, trú@
+@reluctant@|@trauðr, tregr@
+@Rely on (v)@|@hlíta@
+@remain (v)@|@sitja@
+@remember (v)@|@muna@
+@remind (v)@|@minna@
+@remove (v)@|@flytja@
+@rend (v)@|@slíta@
+@renown@|@orðstírr@
+@rent (v)@|@leiga@
+@repay (v)@|@gjalda, inna@
+@repent (v)@|@iðrask@
+@report@|@sǫgn@
+@reproach@|@ámæli@
+@reputation@|@dómr, virðing@
+@request (v)@|@æsta, beiða@
+@require (v)@|@þurfa@
+@rescue (v)@|@frelsa@
+@resentment@|@íhugi@
+@reserved@|@fáskiptinn@
+@reside (v)@|@sitja@
+@residence@|@atseta@
+@resolved@|@einráðinn@
+@resound (v)@|@duna, dunði, glymja, þrymja@
+@respect@|@staðr, virðing@
+@respite@|@frest@
+@rest@|@hvílð, ró@
+@rest (v)@|@hvíla, styðja@
+@result (v)@|@hljóta@
+@retainer@|@hirðmaðr, húskarl@
+@revile (v)@|@geyja@
+@reward@|@laun@
+@reward (v)@|@launa@
+@rib@|@rif@
+@rich@|@auðigr@
+@riddle@|@gáta@
+@ridge@|@háls@
+@ridge_beam@|@brúnáss@
+@riding@|@reið, þriðjungr@
+@right@|@hœgri, skyldr@
+@rim@|@borð, rǫnd@
+@ring@|@baugr, hringr@
+@rip (v)@|@rífa@
+@rise (v)@|@rísa@
+@risk (v)@|@hætta@
+@river@|@á, fljót@
+@rivet (v)@|@hnjóða@
+@road@|@braut, gata, leið, mannavegr, vegr@
+@roar (v)@|@glymja, gnyja@
+@rob (v)@|@ræna, stela@
+@rock@|@bjarg, sker@
+@rocks@|@grjótbjǫrg@
+@roll (v)@|@hrjóta@
+@roof@|@ræfr, þak, þekja@
+@room@|@rúm@
+@root@|@rót@
+@rope@|@festr, reip, strengr@
+@ropes@|@tengsl@
+@rotten@|@fúinn@
+@rouse (v)@|@vakti, vekja@
+@row@|@lǫn@
+@row (v)@|@róa@
+@rub (v)@|@má, strjúka@
+@ruddy@|@rauðlitaðr, rjóðr@
+@rule (v)@|@ráða, styra@
+@Rule over (v)@|@stjórna@
+@ruler@|@hǫfðingi, skati, þjóðann@
+@rummaging@|@þrausk@
+@run@|@hlaup@
+@run (v)@|@hlaupa, renna, rinna, stikla@
+@running_ground@|@skeið@
+@rush (v)@|@hrapa, rasa, þjóta@
+@sacred@|@heilagr@
+@sacrifice@|@blót, húsl@
+@sacrifice (v)@|@blóta@
+@saddle@|@sǫðull@
+@sadness@|@ógleði@
+@safe@|@heill, øruggr, trúr, tryggr@
+@sail@|@segl@
+@sail (v)@|@sigla@
+@sailing@|@sigling@
+@sailor@|@farmaðr@
+@sake@|@skyld@
+@salmon@|@lax@
+@salute (v)@|@kveðja@
+@same@|@samr@
+@sample@|@merki@
+@sandbank@|@eyrr@
+@save (v)@|@forða, frelsa@
+@say (v)@|@kveða, segja, telja@
+@scabbard@|@skálpr, slíðir, slíðrar, umgjǫrð@
+@scald@|@skáld@
+@scant@|@hneppr@
+@scantily@|@vart@
+@scarcely@|@trautt, vart@
+@scarecrow@|@trémaðr@
+@scion@|@niðr@
+@sconce_horn@|@vítishorn@
+@Scottish@|@Skozkr@
+@scrape (v)@|@skafa@
+@scratch (v)@|@klóra@
+@scream (v)@|@gala, hlakka@
+@screaming@|@jarmr@
+@scrip@|@skreppa@
+@scroll@|@strengr@
+@sea@|@ægir, haf, harr, sær, sjór, ver, víðir@
+@sea_bird@|@svanr@
+@seafarers@|@flotnar@
+@search (v)@|@kanna@
+@Search for (v)@|@leita@
+@season@|@árangr@
+@seat@|@rúm, sæti@
+@second@|@annarr@
+@secrecy@|@laun@
+@secure@|@øruggr@
+@see (v)@|@hyggja, líta, sjá, vita@
+@seek (v)@|@leita, sœkja@
+@seem (v)@|@líta, þykkja@
+@seize (v)@|@hǫndla@
+@seldom@|@sjaldan@
+@self@|@sjálfr@
+@self_sown@|@sjálfsáinn@
+@sell (v)@|@selja@
+@send (v)@|@fœra, senda@
+@separate (v)@|@skilja@
+@separated@|@fráskila@
+@serpent@|@naðr, ormr@
+@servant@|@húskarl, skósveinn, sveinn, þegn, þjónustumaðr@
+@serve (v)@|@þjóna@
+@service@|@reiða, vist@
+@serving_woman@|@griðkona@
+@set (v)@|@ráða, setja@
+@settle (v)@|@byggja, byggva@
+@settlement@|@bygð, landnám@
+@settler@|@landnámamaðr@
+@seven@|@sjau@
+@seventeen@|@sjautján@
+@severe@|@allharðr, fastr, stríðr@
+@sew (v)@|@sauma@
+@shackle@|@fjǫturr@
+@shake (v)@|@dúði, dýja, hrista, skjálfa@
+@shame@|@hneykja, skǫmm, vansi@
+@shamed@|@neiss@
+@shameful@|@ámælissamr, herfiligr@
+@shape@|@líki, mynd@
+@share (v)@|@skipta@
+@sharp@|@harðr, hvass@
+@sharpen (v)@|@hvessa@
+@sharply@|@hart, snarpliga@
+@she_goat@|@geit@
+@sheath@|@hulða, slíðir, slíðrar@
+@shed@|@skáli, útibúr@
+@sheep@|@smali@
+@sheepfold@|@kví@
+@shelter@|@hlíf@
+@shelter (v)@|@hlífa@
+@shepherd@|@sauðamaðr, smalamaðr@
+@shield@|@hlíf, lind, rǫnd, skjǫldr@
+@shilling@|@skillingr@
+@shine (v)@|@ljóma, skína@
+@shining@|@hvítr@
+@ship@|@eik, gjalfrmarr, kjóll, knǫrr, skip@
+@shipwreck@|@skipsbrot@
+@shirt@|@serkr@
+@shoal@|@eyrr@
+@shoe@|@skór@
+@shoot (v)@|@skjóta@
+@shore@|@fit@
+@shorter@|@skemmr@
+@shoulder@|@bógr@
+@shoulders@|@herðar@
+@shove (v)@|@hrinda@
+@show (v)@|@syna, vísa@
+@shower@|@él@
+@Shut up (v)@|@læsa@
+@shutter@|@speld@
+@shy@|@skjarr, styggr@
+@sickness@|@kvilla, sóttarfar@
+@side@|@hǫnd, hlið, síða@
+@sight@|@syn@
+@sign@|@mark@
+@signify (v)@|@sæta, tákna@
+@silence@|@hljóð, þǫgn@
+@silent@|@hljóðr, þagall@
+@silver@|@silfr@
+@since@|@þar@
+@singe (v)@|@svíða@
+@singing@|@sǫngr@
+@sink (v)@|@hníga, lægja, siga, søkkva@
+@sinless@|@meinalauss@
+@sister@|@nipt, systir@
+@sit (v)@|@sitja@
+@sitting_room@|@stofa@
+@six@|@sex@
+@sixteen@|@sextán@
+@sixth@|@sétti@
+@ski (v)@|@skríða@
+@skin@|@hamr, skinn@
+@skin (v)@|@flá@
+@skin_bag@|@hít@
+@skin_purse@|@skjóðupungr@
+@skull@|@hauss@
+@sky@|@lopt@
+@slander@|@illmæli, róg@
+@slander (v)@|@níða@
+@slap (v)@|@sletta@
+@slaughter@|@mannfall@
+@slaughter (v)@|@skera, slátra@
+@slave@|@þræll@
+@slay (v)@|@fella@
+@slayer@|@banamaðr, bani@
+@sleep@|@hǫfgi, svefn@
+@sleep (v)@|@sofa@
+@sleeping_hall@|@skáli@
+@sleeping_room@|@svefnhús@
+@sleeve@|@ermr@
+@slender@|@grannr@
+@slight@|@neppr@
+@slip (v)@|@skreppa@
+@slope@|@brekka, hlíð@
+@slow@|@seinn@
+@slowly@|@seint@
+@small@|@keipr, lágr, smár@
+@small_guts@|@smáþarmar@
+@smile (v)@|@hlæja@
+@smite (v)@|@berja, drepa, fœra, slá, vega@
+@smithy@|@smiðja@
+@smoke@|@eimi, gufa, reykr@
+@smoke (v)@|@rjúka@
+@smooth@|@sléttr@
+@snap (v)@|@slíta, slitna, støkkva@
+@snore (v)@|@hrjóta@
+@snorting@|@fnǫsun@
+@snow@|@snær, snjár@
+@snow_skate@|@skíð@
+@son@|@burr, mǫgr, niðr, sonr@
+@song@|@sǫngr@
+@sore@|@kaun, sárr, vanmátta@
+@sorrow@|@bǫl, harmr, sút@
+@sorrow (v)@|@syrgja@
+@sorrowful@|@harmfullr@
+@soul@|@ǫnd, sál@
+@sound@|@heill, sund@
+@south_east@|@landsuðr@
+@southerner@|@suðrmaðr@
+@southward@|@ofan, suðr@
+@sovereign@|@allvaldr@
+@sow (v)@|@sá@
+@space@|@rúm@
+@span (v)@|@spenna@
+@spare (v)@|@spara@
+@speak (v)@|@mæla, rœða@
+@Speak ill of (v)@|@lasta@
+@spear@|@darraðr, fleinn, geirr, spjót@
+@spears@|@spjǫr@
+@speck@|@flekkr@
+@speech@|@orð, tala@
+@speed@|@skjótfœri@
+@speedily@|@fljótliga@
+@spell@|@seiðr@
+@spent@|@falr@
+@sphere@|@knǫttr@
+@spirit@|@andi, hugr, krellr@
+@spirits@|@náttúra@
+@spit@|@eyrr@
+@splendid@|@prúðr@
+@splendidly@|@allvegliga@
+@split (v)@|@klofna, spretta@
+@spoil (v)@|@spilla@
+@sport@|@leikr@
+@sport (v)@|@leika@
+@spot@|@flekkr, staðr@
+@spread (v)@|@breiða@
+@spring@|@kelda, vár@
+@spring (v)@|@hrjóta, springa, støkkva@
+@sprinkle (v)@|@dreifa@
+@spurn (v)@|@sporna@
+@stab (v)@|@stinga@
+@staff@|@geisl, stǫng, stafr@
+@stall@|@stallr@
+@stallion@|@hestr@
+@stand (v)@|@standa@
+@stanza@|@vísa@
+@star@|@stjarna@
+@startled@|@bilt@
+@state@|@efni@
+@stature@|@vǫxtr@
+@stay (v)@|@dveljask, sitja@
+@stay_at_home@|@heimdragi@
+@staying@|@staddr@
+@steed@|@goti, skær@
+@steel@|@stál@
+@steep@|@brattr@
+@step (v)@|@feta, stíga@
+@stern@|@stafn@
+@steward@|@ármaðr, bryti@
+@stiff@|@stirðr@
+@still@|@eðr@
+@stinginess@|@hodddofi@
+@stipulate (v)@|@segja@
+@stir (v)@|@bragða, hreyfa, hrœra@
+@stone@|@bjarg, steinn@
+@stones@|@grjót@
+@stony@|@gryttr@
+@stop (v)@|@létta, stǫðva@
+@storm@|@hríð, veðr@
+@story@|@saga@
+@stout_hearted@|@hraustr@
+@stoutly@|@harðfengiliga@
+@straightway@|@senn@
+@strait@|@sund@
+@strand@|@strǫnd@
+@strange@|@kynligr, undarligr@
+@strangely@|@undarliga@
+@stratum@|@lag@
+@straw@|@hálmr@
+@stream@|@lœkr, straumr@
+@strength@|@afl, kraptr, orka, styrkr, þrek@
+@strengthen (v)@|@festa@
+@strew (v)@|@strá, stráa@
+@strike (v)@|@drepa, hǫggva, ljósta, slá@
+@strip (v)@|@fletta, hrjóða@
+@stroke@|@hǫgg, skellr@
+@stroke (v)@|@strjúka@
+@strong@|@krǫptugr, rammligr, sterkr, þróttigr, þrúðugr@
+@stronghold@|@borg, virki@
+@strongly@|@fast, sterkliga@
+@struggle@|@svipting@
+@struggle (v)@|@knyja@
+@stud_horse@|@stóðhross@
+@stuff@|@skrúð@
+@stumble (v)@|@rasa@
+@subject@|@far@
+@succeed (v)@|@hlyða@
+@success@|@framkvæmd, uppreist@
+@sudden@|@bráðr@
+@suffer (v)@|@þola@
+@sufficient@|@œrinn, œrit@
+@sufficiently@|@nógu@
+@suit@|@sǫk@
+@summer@|@sumar@
+@summon (v)@|@heimta, stefna@
+@summons@|@boð@
+@sun@|@rǫðull@
+@sunset@|@sólbjǫrg@
+@superstition@|@hindrvitni@
+@supper@|@náttverðr@
+@supplies@|@atdráttr, viðfǫng@
+@supply (v)@|@birgja@
+@support@|@liðveizla, traust@
+@support (v)@|@efla, fœða@
+@supporter@|@styrktarmaðr@
+@suppose (v)@|@geta@
+@suspect (v)@|@gruna@
+@swallow@|@svala@
+@swallow (v)@|@gleypa, svelga@
+@swamp@|@myrr@
+@sweat@|@sveiti@
+@Swede@|@Sœnskr@
+@Swedish@|@Sœnskr@
+@sweep (v)@|@sópa, sveipa@
+@sweet@|@sváss@
+@swell (v)@|@svella@
+@swift@|@ǫrr, fljótr, hraðr, skjótr, svinnr@
+@swiftly@|@fráliga@
+@swiftness@|@skjótfœri@
+@swim (v)@|@svima@
+@swing@|@svipan@
+@swing (v)@|@reiða, styra, sveipa, veifa@
+@Swing up (v)@|@reiða@
+@switch@|@svigi@
+@sword@|@hjǫrr, hjálmrǫðull, mækir, sverð@
+@sword_play@|@hjǫrleikr@
+@table@|@borð@
+@taciturn@|@hljóðlyndr@
+@tail@|@sporðr@
+@take (v)@|@fá, nema@
+@Take care of (v)@|@annask, gæta@
+@Take into consideration (v)@|@líta@
+@Take place (v)@|@ganga, verða@
+@talismans@|@taufr@
+@talk@|@rœða, tal, tala, umrœða@
+@talk (v)@|@tala@
+@talkative@|@máligr@
+@tall@|@hár@
+@task@|@iðja@
+@taste (v)@|@kenna@
+@taunt (v)@|@sneiða@
+@tax@|@gjald@
+@tear@|@tár@
+@tear (v)@|@leysa, rífa, slíta@
+@tedious@|@seinn@
+@Tell a lie (v)@|@ljúga@
+@temper@|@lyndisbragð, skap@
+@temple@|@goðahús@
+@tendon@|@hásin@
+@tent@|@tjald@
+@terrible@|@ǫndóttr, ámáttr, atall, megingrimmr, ógurligr@
+@terribly@|@harðliga@
+@terror@|@hræzla@
+@test@|@raun@
+@test (v)@|@freista@
+@than@|@þan@
+@thank (v)@|@þakka@
+@thanks@|@þǫkk@
+@that@|@sem@
+@thatch@|@þak, þekja@
+@the@|@austrvegr@
+@thence@|@þaðan@
+@there@|@þar@
+@they@|@þeir@
+@thick@|@þykkr@
+@thigh@|@þjó@
+@thigh_bone@|@lærleggr@
+@thin@|@magr@
+@thing@|@hlutr@
+@think (v)@|@ætla, geta, hyggja@
+@third@|@þriði@
+@thirsty@|@þyrstr@
+@this@|@sási, sjá, þessi@
+@thither@|@þangat, þannig@
+@thong@|@þvengr@
+@thoroughly@|@trúliga@
+@thought@|@hugr@
+@thoughtful@|@hugall@
+@thousand@|@þúsund@
+@thrall@|@þræll@
+@threaten (v)@|@bjóða@
+@three@|@þrír@
+@throat@|@óst@
+@throng (v)@|@drifa@
+@throw (v)@|@bregða, kasta, skjóta, slungnir, slyngva, verpa@
+@thrust (v)@|@reka@
+@thrusting_spear@|@atgeirr@
+@thunder (v)@|@þrumði, þrymja@
+@tide@|@flóð@
+@tidings@|@tíðendi@
+@tie (v)@|@snúa@
+@time@|@ævi, hríð, mál, tíð, tími@
+@timidly@|@óframliga@
+@to@|@til, við@
+@together@|@ásamt, saman@
+@toil@|@erfiði@
+@token@|@mark@
+@tolerate (v)@|@þola@
+@tooth@|@tǫnn@
+@toss (v)@|@dúði@
+@totter (v)@|@steypa@
+@touch (v)@|@taka@
+@towards@|@mót, við@
+@tower (v)@|@gnæfa@
+@town@|@borg@
+@trace@|@reip@
+@track@|@far@
+@trader@|@farmaðr, kaupmaðr@
+@train (v)@|@vandi, venja@
+@tramp@|@stafkarl@
+@trappings@|@reiði@
+@travel (v)@|@fara@
+@treacherous@|@flár@
+@tread (v)@|@troða@
+@treason@|@svik@
+@treasure@|@gørsimi, men@
+@treasures@|@meiðmar@
+@treaty@|@réttr@
+@tree@|@eik, tré, viðr@
+@tree_trunk@|@draugr@
+@tremble (v)@|@bifask, skjálfa@
+@trencherman@|@skutilsveinn@
+@trial@|@raun@
+@trifle@|@lítilræði@
+@trim (v)@|@jafna@
+@troll@|@gífr, trǫll@
+@troops@|@lið@
+@troth@|@trúa@
+@trouble@|@erfiði, starf, vandræði@
+@troublesome@|@erfiðr@
+@trough@|@trog@
+@true@|@saðr, sannr, tryggr@
+@TRUE@|@sandr@
+@truly@|@sannliga, trúliga@
+@trumpet@|@lúðr@
+@trust (v)@|@hlíta@
+@trusty@|@øruggr, trúr, tryggr@
+@truth@|@sannindi@
+@try (v)@|@freista, reyna@
+@Try to decide (v)@|@íhuga@
+@tumble (v)@|@hrata@
+@turf@|@torf@
+@turn (v)@|@hverfa, snúa, víkja, vinda@
+@twelfth@|@tólfti@
+@twelve@|@tólf@
+@twenty@|@tuttugu@
+@twig@|@kvistr@
+@twist (v)@|@ríða, snara, snúa, vinda@
+@two@|@tveir@
+@twofold@|@tvennr@
+@tyranny@|@ofríki@
+@ugly@|@illiligr, illr, ljótr@
+@unafraid@|@óhræddr@
+@unaware@|@óvarr@
+@unbaptized@|@óskírðr@
+@unbelievable@|@ótrúligr@
+@uncertain@|@óvíss@
+@uncle@|@fǫðurbroðir@
+@undecided@|@óráðinn@
+@underhand@|@undirfǫrull@
+@underling@|@undirmaðr@
+@undersized@|@smáskitligr@
+@understand (v)@|@skilja, vita@
+@understanding@|@vizkumunr@
+@undertake (v)@|@taka@
+@undeserving@|@ómakligr@
+@undismayed@|@ókviðinn@
+@undone@|@ógǫrr@
+@undress (v)@|@afklæða@
+@unequally@|@misjafnt@
+@unfairness@|@ójafnaðr@
+@unhurt@|@ósakaðr, ósárr@
+@uninformed@|@óvitr@
+@universal@|@almenniligr@
+@unknown@|@ókunnigr@
+@unlike@|@ólíkr@
+@unlikely@|@ólíkligr, ørvænn, óvænligr@
+@unmarried@|@kvánlauss@
+@unpleasant@|@fúll@
+@unpleasing@|@illr@
+@unproductive@|@ófrær@
+@unprofitable@|@ógagnvænligr@
+@unprotected@|@brynjulauss@
+@unprovided@|@óbirgr@
+@unsheltered@|@úti@
+@unshorn@|@óskorinn@
+@unsteady@|@lauss@
+@unsuspecting@|@grunlauss@
+@unswerving@|@réttr@
+@untie (v)@|@leysa@
+@untried@|@óreyndr@
+@unwary@|@óvarr@
+@unwilling@|@ófúss, trauðr@
+@unwise@|@ósnjallr, óvitrligr@
+@upper@|@efri@
+@upset (v)@|@róta@
+@urchin@|@sveinstauli@
+@urge (v)@|@eggja, fysa@
+@Urge on (v)@|@áæggia@
+@urgent@|@brýnn@
+@usage@|@vani@
+@use (v)@|@nyta@
+@Use up (v)@|@lúka@
+@useful@|@nytr, þarfr@
+@useless@|@gœðalauss, ógagnvænligr, ónytr@
+@usual@|@tíðr@
+@usually@|@hversdagliga@
+@valiant@|@frœkn@
+@valiantly@|@mannliga@
+@valley@|@dalr@
+@valor@|@hreysti@
+@valuables@|@fémunir@
+@value (v)@|@meta@
+@vapor@|@gufa@
+@various@|@ymiss@
+@variously@|@ymist@
+@vehemence@|@ákafi@
+@vehement@|@ákafr@
+@vengeance@|@hefnd@
+@verse@|@vísa@
+@vestibule@|@anddyri@
+@vex (v)@|@réa@
+@vexation@|@skapraun@
+@victory@|@sigr@
+@vigil@|@vaka@
+@violate (v)@|@brjóta@
+@violence@|@atganga@
+@violent@|@allharðr, meinsamr@
+@visit (v)@|@finna, vitja@
+@voice@|@rǫdd@
+@wages@|@kaup@
+@wail (v)@|@veina@
+@waken (v)@|@vakti, vekja@
+@walk (v)@|@hvarfa, stíga, troða@
+@wall@|@bálkr, veggr@
+@war@|@ófriðr@
+@war_arrow@|@herǫr@
+@war_force@|@herlið@
+@war_sling@|@valslǫngva@
+@wares@|@kaupeyrir, varningr@
+@warm@|@varmr@
+@warn (v)@|@vara@
+@warning@|@varnaðr, varnan@
+@warrior@|@drengr, rekkr@
+@warship@|@langskip@
+@wash (v)@|@leyðra, þvá@
+@Waste away (v)@|@morna@
+@watch@|@vǫrðr@
+@watch (v)@|@gæta, geyma, vaka, varða@
+@watcher@|@varðmaðr@
+@water@|@lǫgr, vatn@
+@water_way@|@vatn@
+@waterfall@|@foss@
+@wave@|@unnr, vágr@
+@wave (v)@|@veifa@
+@way@|@leið, lund, staðr, stígr, vegr@
+@we@|@vér@
+@weak@|@ósterkligr@
+@wealth@|@auðœfi@
+@wealthy@|@auðigr@
+@weapon@|@skóð, vápn@
+@weaponless@|@vápnlauss@
+@weapons@|@hervápn@
+@wear (v)@|@hafa@
+@weariness@|@mœði@
+@weary@|@móðr@
+@weather@|@veðr@
+@weaving@|@vefr@
+@wedding@|@brullaup@
+@week@|@vika@
+@weep (v)@|@gráta, syrgja@
+@weigh (v)@|@vega@
+@well@|@vel@
+@well_bred@|@menntr@
+@well_informed@|@fróðr@
+@well_knit@|@harðsnúinn@
+@well_known@|@frægr@
+@welter (v)@|@þrumði, þrymja@
+@westward@|@vestr@
+@wet@|@blautr, vátr@
+@wet (v)@|@væta@
+@whale@|@hvalr@
+@what@|@hvat@
+@whatsoever@|@hvatki@
+@wheat_field@|@hveitiakr@
+@whence@|@hvaðan@
+@whet (v)@|@eggja@
+@while@|@hríð@
+@whir (v)@|@dunði, dynja@
+@whisper (v)@|@kvisa@
+@whit@|@hót@
+@white@|@bleikr, hvítr, melrakki@
+@whither@|@hvert@
+@who@|@hverr@
+@wicked@|@vándr@
+@wide@|@viðr@
+@widely@|@viða@
+@widow@|@ekkja@
+@wield (v)@|@valda@
+@wife@|@kona, kván, vǫrð, víf@
+@wild_fire@|@villieldr@
+@wilderness@|@óbygð@
+@will@|@vili@
+@willing@|@fúss, lostigr@
+@willingly@|@gjarna@
+@win (v)@|@ǫðlask, vinna@
+@wind@|@veðr, vindr@
+@wind (v)@|@ríða, vinda@
+@window@|@gluggr@
+@wine@|@vín@
+@wing@|@fjǫðr, vængr@
+@winter@|@sút, vetr@
+@wise@|@fróðr, horskr, snotr, spakr, svinnr, víss, vitr@
+@wish (v)@|@lysta, vilja@
+@wit@|@vit@
+@within@|@innan@
+@witness@|@váttr, vitni@
+@wits@|@vit@
+@wive's@|@kvenna@
+@wolf@|@freki, ulfr, valdyr@
+@woman@|@kona, víf@
+@womanish@|@argr@
+@women@|@kvennalið@
+@wondrous@|@kynligr, undarligr@
+@wondrously@|@undarliga@
+@wood@|@skógr, viðr@
+@woodland@|@holt@
+@word@|@orð@
+@work (v)@|@orka, starfa, vinna, yrkja@
+@world@|@fold, verǫld@
+@worse@|@verr, verri@
+@worshipful@|@gǫfugr@
+@worst@|@verst, verstr@
+@worth@|@verð, verðr@
+@worthy@|@gildr@
+@wound@|@ben, sár, spor, und@
+@wound (v)@|@særa@
+@wounded@|@sárr@
+@wrap (v)@|@sveipa, vefja@
+@wrath@|@móðr, reiði@
+@wreck@|@skipflak@
+@wrestling@|@fang, glíma@
+@wretched@|@armr, herfiligr, ósælligr, vesall@
+@write (v)@|@ríta, skrifa@
+@year@|@ár@
+@yellow_beaked@|@neffǫlr@
+@yes@|@já@
+@yesterday@|@gær@
+@yew_bow@|@ybogi@
+@yield (v)@|@siga, veita@
+@young@|@ungr@
+@your@|@ykkarr@
+@youth@|@œska, ungmenni@
+

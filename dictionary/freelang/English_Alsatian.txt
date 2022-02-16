@@ -1,0 +1,854 @@
+@English@|@Alsatian@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1981@|@ninzeh hundert ein un àchtzig@
+@1999@|@ninzeh hundert nieneninzisch@
+@2 years ago@|@vor zwei johr@
+@2000@|@zwei doizig@
+@2001@|@zwei doisig ein@
+@2002@|@zwei doisig zwei@
+@a dozen@|@dudzent@
+@a half@|@häleft@
+@a pair@|@paar@
+@a percent@|@prozent@
+@a third@|@dréttel@
+@accordion@|@knètch@
+@acorn@|@Eichel@
+@affected of@|@hambfele@
+@after june@|@zetter jüni@
+@afternoon@|@noochmiddàà@
+@again@|@noch@
+@all@|@àlles@
+@already@|@schùnn@
+@Alsatian@|@elsässich@
+@Alsatian (the language)@|@elsässich@
+@amusing@|@witzig, witzig@
+@anchor@|@Ãnker@
+@angel@|@Engel@
+@ant@|@Ãmeis@
+@anvil@|@Ãmbos@
+@apricot@|@Ãbrikos@
+@april@|@april@
+@apron@|@ferdi@
+@archipel@|@gerabeldfol@
+@artichoke@|@Artischo@
+@as@|@aù@
+@asparagus@|@Spãrichel@
+@at home@|@d'heim@
+@at the end of march@|@endz märz@
+@at what time@|@ùm well zitt@
+@attic@|@bhen, kâscht@
+@august@|@augscht@
+@aunt@|@dànte@
+@awake@|@mùnter@
+@ax@|@äx@
+@baby@|@Bubbele@
+@baby carriage@|@Kinderkütsch, küdsch@
+@bad girl@|@zéweles, zudele@
+@bad topic@|@gridzkimme@
+@bag@|@Sãck@
+@baker@|@beck, deigaff@
+@bakery@|@Beckerej@
+@balance@|@Wööj@
+@bald@|@blùttkopf@
+@ballet@|@bàlle@
+@banana@|@Banaan@
+@bar@|@baïz@
+@barley@|@Gëërscht@
+@barn@|@schier@
+@barrel@|@Fãss@
+@barrow@|@schalkarisch@
+@basket@|@Korb@
+@beach@|@Strãnd@
+@bear@|@bär@
+@bears@|@d' Bäre@
+@beautiful@|@schen@
+@beautiful girl@|@gfedztbibel@
+@beauty@|@schen@
+@bee@|@Imm@
+@beer@|@bier@
+@beet@|@Rotrãhn@
+@beets@|@dérlebse@
+@beets with sugar@|@zuckerle@
+@before january@|@ahnfàgs jänner@
+@bell-tower@|@Kirichdurm@
+@best@|@ãm beschte@
+@better@|@besser@
+@bicycle@|@velo@
+@big@|@gros@
+@birthday@|@geburtzdàà@
+@bissextile@|@wèckseljohr@
+@blue@|@blöj@
+@boar@|@Wildsöj@
+@boat@|@Schiff, Schiffele@
+@boiled@|@bèbb@
+@book@|@Bööch@
+@brash@|@frechdâgs@
+@brat@|@lüser@
+@bread@|@brot, sübredel@
+@briefs@|@Unterhessle@
+@broom@|@Ginschter@
+@brother@|@brueder, brüeder@
+@brothers and sisters@|@g'schwischter@
+@brush@|@Birscht, kérwéch@
+@bulb@|@bloder@
+@bull@|@Stier@
+@bullet@|@Bãlle@
+@but@|@àwwer@
+@butcher shop@|@Metz@
+@butter@|@Butter@
+@butterfly@|@flishhulder, Pfifholter@
+@cabinet@|@kaschde, Kãschte@
+@cake@|@Küeche@
+@candies@|@gutzle@
+@cannon@|@Kãnon@
+@car@|@Wawe@
+@cardboard@|@babeldeckel@
+@castle@|@Burri@
+@century@|@johnhundert@
+@chaos@|@kudelmudel@
+@checkerboard@|@Dãmebrëtt@
+@cheerful@|@uschtig@
+@cheese@|@de Käs, kaes, Käs@
+@chestnut@|@Kescht@
+@chick@|@bibbel, bibele@
+@chickenpox@|@wâsserbarble@
+@child@|@Kind@
+@chipper@|@schdibse, schdüsche, schdüsche@
+@chocolate@|@schocolà@
+@church@|@kirich@
+@city@|@stàdt@
+@class@|@klàss@
+@clean@|@süfer@
+@clog@|@Holzschüeh@
+@closed@|@voll@
+@cloud@|@Wolik@
+@cold@|@kãlt@
+@comb@|@schdräl@
+@compass@|@Kompãss@
+@constantly@|@alewil@
+@cooker@|@koch@
+@cop@|@bleïeles@
+@corn@|@Walschkorn@
+@cornflower@|@Kornblüem@
+@cousin@|@kussä, kussin@
+@cousin (f)@|@kussin@
+@cow@|@Küh@
+@crazy@|@ewwerschnâbt@
+@cross@|@Kriz@
+@crumbs@|@broschle@
+@currants@|@kânsesdriwle@
+@dad@|@bàbbe@
+@daily@|@däjlich@
+@darn@|@saberlot@
+@day@|@Däi@
+@day off@|@freidaà@
+@dear@|@dir@
+@december@|@dezëmber@
+@delighted@|@freid-mi@
+@dentist@|@Zãhnãrzt@
+@dentrifice@|@Zãhnpasta@
+@desert@|@Wüüschte@
+@district@|@Sehnitz@
+@dog@|@bûmmer@
+@dog house@|@Hundehiisel@
+@dolphin@|@Delfin@
+@door@|@liwele@
+@dough@|@deig@
+@downpour@|@rüde@
+@dozen@|@dutzed, zwéllef@
+@dragon@|@Drãche@
+@dragonfly@|@Wãsserjumpfer@
+@dressed up@|@gemoddelt@
+@dromedary@|@Kãmel@
+@drum@|@Trummel@
+@duck@|@Ent@
+@during the day@|@im dàà@
+@during the week@|@in de woch@
+@during three months@|@drei monet làng@
+@eagle@|@Ãdler@
+@Earth@|@Ard@
+@eat@|@assa@
+@eel@|@Ãal@
+@eight@|@àcht@
+@eighteen@|@àchtzehn@
+@eighth@|@àcht@
+@eighty@|@àchtzig@
+@elephant@|@Elefãnt@
+@eleven@|@élef@
+@emptiness@|@lër@
+@engaged@|@lébschder@
+@equal@|@minfäje@
+@equal that puts@|@minfäje@
+@evening@|@owe@
+@every year@|@jedes jorh@
+@everybody@|@bisàmme@
+@exact@|@genau@
+@exercise@|@Iwung@
+@extinct@|@üs@
+@eyes@|@awe@
+@fall@|@spotjohr@
+@fantasies@|@firlefanz, mickes@
+@fast@|@schnëll@
+@faucet@|@Wãsserhãhn@
+@february@|@hornùng@
+@ferns@|@Fãrnkrüt@
+@field@|@Ãcker@
+@fifteen@|@fufzehn@
+@fifty@|@fùfzig@
+@fin@|@Flosse@
+@fire@|@Firr@
+@firefly@|@Zindwirmel@
+@first@|@erscht@
+@first name@|@vornàmme@
+@fish@|@de fisch@
+@fisher@|@Fischer@
+@five@|@fénf@
+@five thousand@|@fènfdoisig@
+@flag@|@Fãhne@
+@Fog@|@Nabel@
+@for fifteen days@|@fir vierzehn daj@
+@for two days@|@vor zwei dà@
+@four@|@vier@
+@fourteen@|@vierzehn@
+@fourth@|@viert@
+@fourty@|@vierzig@
+@friday@|@fridàà@
+@fringed broom@|@schdrüwler@
+@frog@|@Frosch@
+@full@|@voll@
+@funeral@|@lischt@
+@funnel@|@Trëëchter@
+@furrow@|@kütt@
+@gazelle@|@Rehgeiss@
+@gentleman@|@herr@
+@girl@|@bibbel, bibel, Maidel@
+@gladly@|@gërn@
+@glasses@|@gläser@
+@gnarl@|@Vergreeserungsglãs@
+@gobbler@|@Walschgüller@
+@godfather@|@pfetter@
+@godmother@|@gettel@
+@good@|@guet, güet, gùt@
+@good blood@|@grizefixe, herschaft noch@
+@good evening@|@güete-n-owe@
+@good night@|@güet'nàcht@
+@goodbye@|@aurevouar@
+@grain@|@klâbs, schbârre@
+@grammar@|@Grammatik@
+@grandfather@|@grossbàbbe@
+@grandmother@|@grossmàmme@
+@grandparents@|@grosseltere@
+@grape@|@driwel, Triiwel@
+@green fly@|@schmeismüg@
+@grumbler@|@grésgrämi@
+@gushed@|@Rãkeet@
+@gutter@|@schdrosegrâwe@
+@hackneyed expression@|@aldilir@
+@half@|@hàlb@
+@ham@|@de Schunke@
+@hammer@|@Hãmmer@
+@hand@|@d'Hãnd@
+@handful@|@bischel@
+@hands@|@d'Händ@
+@hare@|@Hãs@
+@harmonic@|@schnûfelrûdsch@
+@has all tip of fields@|@allegebot@
+@has soon@|@biss bàll@
+@have to@|@solle@
+@he born in XXX@|@er esch en xxx bgebohre@
+@he had@|@ër/sie/ës het...g'hett@
+@he has@|@ër/sie/ës het@
+@he is@|@ër/sie/ës isch@
+@he turned@|@ër/sie/ës isch...worre@
+@he turns@|@ër/sie/ës wurd@
+@he was@|@ër/sie/ës isch...g'sinn@
+@head@|@képf@
+@heart@|@herz@
+@heather@|@Heidekrüt@
+@heavy@|@schwër@
+@hello@|@bùschùr, güete morje@
+@hen@|@Hüehn@
+@here@|@do@
+@heron@|@Fischreijer@
+@hill@|@Buckel@
+@hippo@|@Nilpfërd@
+@hold@|@da hésch@
+@hollyday@|@fierdàà@
+@horn@|@Hüp@
+@horse@|@Ross@
+@hot@|@wãrm@
+@house@|@'s Hüs, Hüs, Hüüs@
+@houses@|@d' Hieser@
+@how@|@hin, was, wie@
+@how long@|@wielàng@
+@how much@|@wieviel, wieviel@
+@how much costs this@|@wieviel koscht des@
+@how old are you?@|@vie àlt sin ehr ?@
+@how that goes@|@wie geht's@
+@however@|@àwwer@
+@hurried@|@pressiert@
+@hurry yourself@|@dûmle@
+@I am@|@ich bin@
+@I don't speak well Alsatian@|@ich redd nitt gued elsässich@
+@I don't understand@|@ich versteh nitt@
+@I had@|@ich hãb...g'hett@
+@I have@|@ich hãb@
+@I have xxx years@|@ich ben xxx johr alt@
+@I turn@|@ich wurr@
+@I turned@|@ich bin...worre@
+@I understand@|@ich versteh@
+@I was@|@ich bin...g'sinn@
+@if@|@wenn@
+@imbecile@|@dermel, dolle@
+@immensely@|@griserli@
+@import myself little@|@was leïdzmérân@
+@impostor@|@kürpfücher@
+@in good health@|@g'sùnd@
+@in one year@|@em e johr@
+@in september@|@em septëmber@
+@in spite of all@|@doch@
+@in the middle of february@|@mitte hornung@
+@in three days@|@in dreij dà@
+@indeed@|@minsexs, nämlich@
+@indian@|@Indiãner@
+@iris@|@Schwërtlilje@
+@iron@|@Bejlise@
+@is this exact@|@stèmmt's@
+@island@|@insel@
+@jail@|@gigger@
+@jam@|@schlègel@
+@january@|@jänner@
+@joke@|@witz, witz@
+@joy@|@fraid@
+@july@|@jüli@
+@june@|@jüni@
+@just@|@rischtig@
+@kangaroo@|@Kãnguru@
+@kid@|@wackes@
+@kit@|@kächele@
+@kitchen buffet@|@kischekänsdscherle@
+@knees (to take on)@|@gehre@
+@knife@|@messe@
+@knot@|@Knopf, schlubf@
+@lady@|@màdàm@
+@ladybird@|@Herrgottskäferle@
+@lamp@|@Lãmp@
+@landing net@|@Filosch@
+@last month@|@de letschd monet@
+@last week@|@d'ledscht woch@
+@last year@|@s'lédschd johr@
+@lawnmower@|@Rãsemäjer@
+@leg@|@schûnge@
+@let's eat@|@grächerle@
+@light@|@licht@
+@limp@|@lâd@
+@lit@|@ãn@
+@little@|@klai@
+@little girl@|@maîdele@
+@lollipop@|@Süssettel@
+@long@|@làng, lãng@
+@loud@|@lüüt@
+@low voice@|@lisli@
+@macho@|@schdentz@
+@mad@|@blèmblèm yèk, maschugge@
+@man@|@de Mãnn, Mànn@
+@many@|@aganzeriwe, viel@
+@marc@|@drâwere@
+@march@|@märz@
+@mast@|@Mascht@
+@matches@|@schwèwéheltzle@
+@may@|@mai, maï@
+@measles@|@dredle@
+@meat@|@'s Fleisch@
+@melancholic@|@mâslaidi@
+@men@|@d' Männer@
+@mess@|@bübig, kûdelmûdel@
+@midday@|@middàà@
+@middle@|@medlesdrene@
+@mine@|@min@
+@mirror@|@Spiejel@
+@miser@|@gitzgrawe@
+@miss@|@màmsell@
+@mistletoe@|@Mischt@
+@mold@|@Muschel@
+@mole@|@Mülwëlfer@
+@mom@|@màmme@
+@monday@|@mondàà@
+@monument@|@Dënkmãl@
+@moon@|@Mond@
+@moor@|@Heid@
+@more@|@meh@
+@more gladly@|@liewer@
+@morning@|@morje@
+@most@|@ãm meischte, meischte@
+@mother hen@|@glouck@
+@mouse@|@Müs@
+@mumps@|@mûms@
+@muzzle@|@baboul, gosch@
+@my husband@|@miner mànn@
+@my wife@|@mini frau@
+@naked@|@blûd@
+@name@|@nàmme@
+@napkin@|@Hãnddüech@
+@nature@|@nàatür@
+@near@|@noht@
+@nearer@|@nähter@
+@nearest@|@ãm nähtschte@
+@nearly@|@fàscht@
+@nest@|@Nescht@
+@never@|@nie@
+@new@|@nejer@
+@next month@|@de nägscht monet@
+@next week@|@d'nächscht woch@
+@next year@|@gscht johr@
+@night@|@nàcht@
+@nine@|@nin@
+@ninepin of the boat@|@Rumpf (vum Schiff)@
+@nineteen@|@ninzehn@
+@ninety@|@ninzig@
+@ninth@|@nind@
+@no@|@nein@
+@nonsense@|@mômbits, mùmbitz, quatsch@
+@not of@|@ken@
+@note@|@nott@
+@nothing@|@pfiffedeckel@
+@november@|@novëmber@
+@now@|@jetz@
+@october@|@oktower@
+@of preference@|@ãm liebschte@
+@old@|@àlt@
+@older@|@älter@
+@oldest@|@de ältscht@
+@once@|@e mohl, friejer@
+@one@|@eins, m'r@
+@one hundred@|@hundert@
+@one hundred and one@|@hunderteins@
+@one hundred and ten@|@undertzehn@
+@one hundred and thirty@|@undertdrizig@
+@one hundred and twenty@|@undertzwanzig@
+@one hundred and two@|@undertzwei@
+@one quarter@|@viertel@
+@one thousand@|@doizig@
+@one thousand and one hundred@|@doisigeinundert@
+@one thousand and two hundred@|@doisigzweihundert@
+@only@|@nùmme, nûmme@
+@open@|@uf@
+@ostrich@|@Vöjelstrüss@
+@other@|@ànder@
+@out@|@nüss@
+@outside@|@drüsse@
+@oven@|@brader@
+@over there@|@dort@
+@owl@|@Ill@
+@pan@|@kar@
+@pancake@|@Eierküeche@
+@parents@|@eltere@
+@path@|@Wäj@
+@paw@|@dobe@
+@pear@|@Beer@
+@pencil@|@Bläiwiss, bliwisel@
+@pencil to slate@|@grefel@
+@people@|@Lit@
+@pigeon@|@Düb@
+@pike@|@Hecht@
+@pillow@|@Kopfekisse@
+@pipe@|@Pfiff@
+@plate@|@Dëller@
+@pleasure@|@pläsier@
+@plesure@|@pläsier@
+@plugged@|@mumfel@
+@poor@|@àrm@
+@poster@|@Plãkãt@
+@potbelly@|@wamschd, wamschd@
+@pout@|@bredsch@
+@precious@|@sidebridel@
+@pretty@|@nätt@
+@Prononciation@|@Aussprache@
+@pupil@|@Schüelbüe@
+@pupils@|@Schieler@
+@racket (of tennis)@|@Tennis- Schläjer@
+@radio@|@radio@
+@rain@|@raeje@
+@raisin@|@merdriwel@
+@rake@|@Rëche@
+@raven@|@grâb@
+@received of the strokes@|@g'frésse@
+@red@|@rot@
+@reeds@|@Schilf@
+@rest@|@rüe@
+@restaurant@|@Wirthüs@
+@retired@|@pensionniert@
+@rifle@|@Flint@
+@ring@|@Ring@
+@rock@|@Felse@
+@rose@|@Ros@
+@rover@|@bäseles@
+@rudder@|@Lãppe@
+@runny-nosed@|@rûznâs schnûdelnâs@
+@sad@|@trürig@
+@sailboat@|@Sejelschiff@
+@salt@|@drëcket@
+@salt type@|@dregschlâbes@
+@sardine@|@Sãrdinel@
+@saturday@|@sàmschdàà@
+@saw@|@Säj@
+@scale@|@Leiter@
+@scheming@|@gedäschdelmächdel@
+@school@|@schüel@
+@school teacher@|@Schüelmãmsell@
+@schoolmistress@|@lehrere, schüelmàmsell@
+@screwdriver@|@Schrüwezejer@
+@sea@|@Meer@
+@sea lion@|@Seeleeb@
+@seagull@|@Mööf@
+@second@|@zweitt@
+@september@|@septëmber@
+@seven@|@séve@
+@seventeen@|@sévezehn@
+@seventh@|@sevet@
+@seventy@|@sevezig@
+@shampoing@|@Schãmpu@
+@sheep@|@Hãmmel@
+@sheet@|@lindûsch@
+@shining@|@gledzeri@
+@ship@|@Dãmpfer@
+@short@|@kurz@
+@shortcoming@|@everzwärisch@
+@shortcoming (of it)@|@everzwärisch@
+@shrew@|@schendmarre@
+@shutter@|@lade@
+@silly@|@djockel, simbel@
+@since@|@zédder@
+@sink@|@waserschdan@
+@sister@|@scheschter@
+@six@|@sechs@
+@sixteen@|@sèschzehn@
+@sixth@|@sext@
+@sixty@|@sèschzig@
+@skinny@|@härisel@
+@sledge@|@Schlitte@
+@slice of bread@|@flâde@
+@slippers@|@schlâbe@
+@slow@|@lãngsãm@
+@small@|@klaan@
+@small last@|@neschdkützer@
+@small man@|@knerbs, schdubs@
+@snail@|@Schnëck@
+@snow@|@Schnee@
+@so@|@àlso@
+@soap@|@Seif@
+@soles of wood@|@gleberle@
+@sometimes@|@àls@
+@sour@|@süames@
+@spay of water@|@Springbrunne@
+@speak@|@bàbble@
+@speak to yourselves French@|@redde'nr fransesch@
+@spirit@|@de Geischt@
+@spirits@|@d' Geischter@
+@spring@|@friejjohr@
+@staircase@|@schdèi@
+@star@|@Stërn@
+@stick@|@stëcke, stëcke@
+@still@|@àllewil@
+@strand@|@Ufer@
+@strasbourg@|@stëckelbùri, strossbùri@
+@stretcher@|@dischel@
+@stupid@|@dermel, hornogs@
+@summer@|@sùmmer@
+@sun@|@Sunn@
+@sunday@|@sùnndàà@
+@sure@|@sicher@
+@suspicious@|@Schepfleffel@
+@swallow@|@Schwälmele@
+@switch@|@Schãlter@
+@sword@|@Sãwel@
+@table@|@disch@
+@tail@|@Wãddel@
+@tall@|@hoch@
+@teacher@|@lehrer@
+@telephone@|@telefon@
+@ten@|@zehn@
+@ten thousand@|@zehndoisig@
+@tenth@|@zehnt@
+@that is what it is@|@was esch's@
+@that wants to say this@|@was soll des heisse@
+@that's what you think@|@baberlebab@
+@the agriculturist@|@de Bür@
+@the bottle@|@d' Flãsch@
+@the cup@|@d' Dãss@
+@the day after tomorrow@|@ewermorje@
+@the fishes@|@d' Fisch@
+@the fork@|@d' Gãwel@
+@the fruits@|@'s Obscht@
+@the glass@|@'s Glãs@
+@the knife@|@'s Mësser@
+@the mason@|@de Mürer@
+@the nurse@|@d' Krãnkeschwester@
+@the painter@|@de Moler@
+@the photographer@|@de Fotogrãf@
+@the physician@|@de Dokter@
+@the plate@|@d' Daller@
+@the sausages@|@Wirschtle@
+@the woodworker@|@de Schriner@
+@theeth@|@zehn@
+@there@|@do@
+@therefore@|@denn@
+@they are@|@sie sinn@
+@they had@|@sie hãn...g'hett@
+@they have@|@sie hãn@
+@they turn@|@sie wëre@
+@they turned@|@sie sinn...worre@
+@they were@|@sie sinn...g'sinn@
+@thimble@|@Wirfel@
+@thirteen@|@drittzehn@
+@thirty@|@drizig@
+@thirty one@|@einedrisig@
+@thirty three@|@dreiedrisig@
+@thirty two@|@zweiedrisig@
+@this is not?@|@gëll@
+@this month@|@de monet@
+@this year@|@diss johr@
+@thread@|@Fãde@
+@three@|@dreij@
+@three hundred@|@dreihundert@
+@three times@|@drei mohl@
+@thursday@|@dùnnerschdàà@
+@to ask@|@fröje@
+@to be afraid@|@verschrecke@
+@to be called@|@heisse@
+@to be lying@|@leje@
+@to be sat@|@sitze@
+@to be standing@|@stehn@
+@to beat@|@schlawe@
+@to become@|@wër@
+@to bind@|@binde@
+@to bite@|@bïsse@
+@to blow@|@blose@
+@to blow himself@|@schnitze@
+@to break@|@brëche@
+@to breathe@|@schnüfe@
+@to bustle@|@jäschde@
+@to buy@|@kaufe@
+@to call@|@rüefe@
+@to can@|@kënne@
+@to caress@|@strïche@
+@to carry@|@trawe@
+@to catch@|@fãnge@
+@to chat@|@rädsch babble, schwätze@
+@to close@|@zü@
+@to come@|@komme, kùmme@
+@to cook@|@koche@
+@to cook at the oven@|@bãche@
+@to cross@|@iwwer d' Stross gehn@
+@to cry@|@brielle, hile, hille@
+@to cut@|@schniide@
+@to dance@|@dãnze@
+@to defend@|@verbiete@
+@to derail@|@schbene@
+@to die@|@stërwe@
+@to dig@|@grãwe@
+@to disappear@|@verschwinde@
+@to draw@|@zeichne@
+@to dress@|@sich ãnzeje@
+@to drink@|@trenka, trinke@
+@to drink with excess@|@süffe@
+@to eat@|@ësse@
+@to eat (animals)@|@frësse@
+@to fall@|@ãnnefãlle, fãlle, kéïje, müen@
+@to feel@|@schmecke@
+@to find@|@finde@
+@to flee@|@flichte@
+@to fly@|@stëhle@
+@to fly by plane@|@flieje@
+@to forget@|@vergësse@
+@to frequent (love)@|@schdibbe@
+@to frequent love@|@schdibbe@
+@to give@|@gënn@
+@to go@|@gehn@
+@to go on horseback@|@rite@
+@to grow@|@wãchse@
+@to guess@|@rote@
+@to harvest@|@ërne@
+@to have a grain@|@schbârre@
+@to have the right of@|@dërfe@
+@to help@|@hëlfe@
+@to hesitate@|@nitt wisse, wãs mãche@
+@to hiss@|@pfife@
+@to hoe@|@jäde@
+@to hurl down@|@iäschde@
+@to inflate@|@ufpumpe@
+@to jump@|@hübse, hüpse, hüpse, springe@
+@to kiss@|@schmutz, schmutz, schmutze@
+@to knock@|@stosse@
+@to know@|@kënne@
+@to laugh@|@lãche@
+@to laugh stupidly@|@kidere@
+@to learn@|@lehre@
+@to leave@|@furtgehn@
+@to let@|@lonn@
+@to like@|@lieb hän, lieb hãn@
+@to live@|@wohne@
+@to lose@|@verliere@
+@to make@|@düen, màche@
+@to measure@|@mësse@
+@to meet@|@trëffe@
+@to obey@|@horiche@
+@to paint@|@mole@
+@to pinch@|@pfetze@
+@to play@|@spiele@
+@to prick@|@stëche@
+@to pull@|@rïsse, zeje@
+@to pull a shot@|@schiesse@
+@to rain strong@|@s'bâdschd@
+@to reach@|@trëffe@
+@to read@|@läse, lëse@
+@to reap@|@mäje@
+@to remain@|@bliiwe@
+@to resemble@|@glïche@
+@to resound@|@ràpple@
+@to rest@|@bliwe@
+@to roar@|@schëlte@
+@to rob@|@schdibse@
+@to roll@|@fàhre@
+@to roll by vehicle@|@fãhre@
+@to rummage@|@nüele@
+@to run@|@laufe@
+@to sail@|@Schiff fãhre@
+@to say@|@saawe@
+@to scream@|@briele@
+@to see@|@sähn, sëhn@
+@to shine@|@schine@
+@to shoot@|@filme@
+@to sing@|@singe, singe@
+@to sleep@|@schlofe@
+@to sound@|@schëlle@
+@to speak@|@redde@
+@to speed along@|@rãse@
+@to spit@|@schbidze@
+@to stink@|@stinke@
+@to stop@|@hãlte@
+@to sweep@|@fäje@
+@to swim@|@schwimme@
+@to take@|@nëmme@
+@to throw@|@schmisse, schmïsse, wërfe@
+@to throw to the trash can@|@wëgwërfe@
+@to tickle@|@griwle@
+@to tremble@|@ridere@
+@to trot@|@dibble@
+@to turn@|@wër@
+@to understand@|@verstehn@
+@to use@|@benutze@
+@to visit@|@b'süeche@
+@to wait@|@wàrte@
+@to walk@|@laufe@
+@to wander@|@erûmdâbbe@
+@to want@|@welle@
+@to wash@|@wäsche@
+@to watch@|@gücke, löje, lüje@
+@to win@|@gewehne, gewinne@
+@to wipe@|@ãbtrickle@
+@to work@|@schàffe@
+@to write@|@schriwe@
+@to yawn@|@schnàbbe@
+@today@|@hit, hitt@
+@together@|@binànd, binànder, bisàmme@
+@tomato@|@Tomãtt@
+@tomorrow@|@morje@
+@tooth@|@Zãhn@
+@torment@|@bleuï@
+@toy@|@Spielding@
+@tramp@|@blâdmâcher@
+@tree@|@Baum@
+@trumpet@|@Trumpet@
+@t-shirt@|@finedel@
+@tuesday@|@dienschdàà@
+@tulip@|@Tülipã@
+@twelve@|@zwélf@
+@twenty@|@zwanzig@
+@twenty one@|@einezwanzig@
+@twenty three@|@dreiezwanzig@
+@twenty two@|@zweiezwanzig@
+@twin@|@Fernglãs@
+@two@|@swei, zwei@
+@two hundred@|@zweihundert@
+@two thousand@|@zweidoisig@
+@two times@|@zwei mohl@
+@ugly@|@wéschd@
+@umbrella@|@Bãrãbli@
+@uncertain@|@netkir@
+@uncle@|@unkel@
+@understand yourselves@|@verstehn'r's@
+@uniform@|@üniform@
+@urchin@|@spitzbüe@
+@urn@|@ürn@
+@vacation@|@ferie@
+@vacuum cleaner@|@Staubsüger@
+@verbal process@|@brodegol@
+@vocabulary@|@Wortschatz@
+@vulture@|@Geier@
+@wagon@|@Isebãhnwawe@
+@wakening-morning@|@Wecker@
+@watch@|@Ühr@
+@water@|@Wàsser@
+@watering-can@|@schbrènzkan, Spranz@
+@wave@|@Wëll@
+@we are@|@mir sinn@
+@we had@|@mir hãn...g'hett@
+@we have@|@mir hãn@
+@we turn@|@mir wëre@
+@we turned@|@mir sinn...worre@
+@we were@|@mir sinn...g'sinn@
+@weasel@|@Wissele@
+@weather vane@|@Wëtterfahnel@
+@wednesday@|@mittwùch@
+@weekend@|@ends woch@
+@well thank you@|@güet mersi@
+@whale@|@Wãlfisch@
+@what@|@wàs@
+@what bus goes to@|@weller otobüs geht uf@
+@when@|@wenn@
+@when begins…@|@wenn fàngt … àhn@
+@when firm…@|@wenn geht … züe@
+@when opens…@|@wenn geht … ùff@
+@when same@|@doch@
+@where@|@wie, wo@
+@where are@|@wo sin@
+@where is@|@wo esch@
+@which@|@weller, welli@
+@whim@|@firlefâns@
+@whistle@|@Pfif@
+@white cheese@|@bibeleskäs@
+@who@|@wër@
+@who is that@|@wer esch's@
+@whooping cough@|@bleuïehuschde@
+@why@|@worùm@
+@winter@|@winter@
+@wipe hands@|@zwäl@
+@woman@|@d' Frau, Frài@
+@work@|@àrweit@
+@workday@|@arweitzdàà@
+@xylophon@|@Xylofon@
+@yak@|@Berriochs@
+@year@|@johr@
+@yesterday@|@gescht@
+@yet@|@doch@
+@yogurt@|@Yaurt@
+@you are@|@dü bisch@
+@you are (pl)@|@ihr sinn@
+@you had@|@dü hesch...g'hett@
+@you had (pl)@|@ihr hãn...g'hett@
+@you have@|@dü hesch@
+@you have (pl)@|@ihr hãn@
+@you turn@|@dü wursch@
+@you turn (pl)@|@ihr wëre@
+@you turned@|@dü bisch...worre@
+@you turned (pl)@|@ihr sinn...worre@
+@you were@|@dü bisch...g'sinn@
+@you were (pl)@|@ihr sinn...g'sinn@
+@young@|@jùng@
+@youngster@|@knäckes@
+@your@|@diner@
+@zebra@|@Zebrã@
+@zebu@|@Buckelochs@
+

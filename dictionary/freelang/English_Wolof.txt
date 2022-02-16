@@ -1,0 +1,3018 @@
+@English@|@Wolof@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1000@|@junne, junni@
+@10000@|@fukki junni@
+@100000@|@téeméeri junni@
+@1000000@|@million, tamndareet@
+@101@|@téeméer ak benn@
+@106@|@téeméer ak juróom-benn@
+@110@|@téeméer ak fukk@
+@1100@|@junni ak téeméer@
+@1600@|@junni ak juróom-benni téeméer@
+@200@|@ñaari téeméer@
+@2000@|@ñaari junni@
+@300@|@ñetti téeméer@
+@3000@|@ñetti junni@
+@400@|@ñeenti téeméer@
+@4000@|@ñeenti junni@
+@500@|@juróomi téeméer@
+@5000@|@juróomi junni@
+@600@|@juróom-benni téeméer@
+@6000@|@juróom-benni junni@
+@700@|@juróom-ñaari téeméer@
+@7000@|@juróom-ñaari junni@
+@800@|@juróom-ñetti téeméer@
+@8000@|@juróom-ñetti junni@
+@900@|@juróom-ñeenti téeméer@
+@9000@|@juróom-ñeenti junni@
+@a baby@|@neene@
+@a barely touch@|@cof@
+@a bench@|@bang, tooj@
+@a blow@|@fita@
+@a bottle@|@buteél@
+@a bundle@|@say@
+@a carrer@|@mbootu@
+@a cat@|@muus@
+@a child@|@xale@
+@a comb@|@peñe@
+@a dance@|@fécca@
+@a dancer@|@féccakat@
+@a dead@|@jëf@
+@a ditch@|@kamba@
+@a drink@|@naan@
+@a faint@|@ximaleku@
+@a favor@|@njukka@
+@a few@|@tuuti@
+@a fluke@|@juux@
+@a great deal@|@jaloore@
+@a hole in a ship@|@kal@
+@a hypocrite@|@waane@
+@a joke@|@caaxaan, kaf@
+@a joker@|@caaxaankat, kafkat@
+@a knot@|@pas@
+@a lady's name@|@yaay@
+@a lie@|@day, gat@
+@a light cooking pan@|@kasiloor@
+@a line@|@rëdda@
+@a little@|@kallentaan@
+@A little@|@tuuti@
+@a locally woven cloth@|@sër@
+@a loft@|@sax@
+@A lot@|@lu bari@
+@a lump@|@donja@
+@a mads belt@|@geño@
+@a man@|@goór@
+@a mistery@|@umpa@
+@a muslim@|@julit@
+@a naughtly child@|@mbal@
+@a palm wine@|@kaana@
+@a pile@|@jal, say@
+@a port@|@teeru@
+@a pouch@|@gafaka@
+@a present@|@njukka@
+@a purse@|@kalpe@
+@a reward@|@neexal@
+@a royal servant@|@dag@
+@a sachet@|@gafaka@
+@a scrubber@|@Njampe@
+@a shaft of light@|@jéneer@
+@a sieve@|@seegukaay, tame@
+@a sitting position@|@gapareku@
+@a slice@|@dog@
+@a small jar@|@këlla@
+@a splinter@|@feelit@
+@a stone wall@|@tabax@
+@a strip@|@rëdda@
+@a stub@|@meego@
+@a stumbling block@|@tëxa-tëxa@
+@a tapper@|@jamkat@
+@a tear@|@xar-xar@
+@a thief@|@jëlkat@
+@a timid@|@ganaar@
+@a tiny bit@|@kallentaan@
+@a tree@|@kadda, kadda, kel@
+@a tribe from Senegal@|@seereer@
+@a vice grip@|@keppa@
+@a wooden writing tablet@|@aaluwa@
+@a worm@|@sax@
+@a wound@|@gaañu gaañu, jam-jam@
+@Aaba naa henna mbubba ci Sira@|@I borrowed a dress from Sira@
+@abandon@|@baayi, uus, wocca@
+@ability@|@moo, mun-mun@
+@Abraham@|@Ibu@
+@abundant@|@maax@
+@achievement@|@ngoóra@
+@acquaintance@|@am-di-jamma@
+@activity of rainy season@|@nawetaan@
+@admirer@|@soope@
+@affair@|@afeer, mbir@
+@afternoon@|@bëcëg, bëcëk, Bekec@
+@afternoon prayer@|@tisbaar@
+@age group@|@morom@
+@age groups@|@maase@
+@aged person@|@mag@
+@aim@|@diir@
+@alcohol@|@sangara@
+@Alikali is a big borrower@|@Alkaki aabakat bu mag la-@
+@alike@|@meéngoo@
+@all@|@lepp, yëpp@
+@All@|@yaip@
+@all os a sudden@|@bureét@
+@alliance@|@kollërë@
+@alms@|@sarax@
+@alone@|@kot@
+@already@|@jéeg@
+@also@|@itam, tam, tam, tamit, te@
+@amen@|@amiin@
+@amount@|@nangam@
+@amulet@|@gaalaaj, pas, teere, xonjom@
+@an expression of surprise@|@ii@
+@an uncircumsized person@|@aat@
+@an understanding@|@gis-gis@
+@and@|@ag@
+@angry@|@mer@
+@animal@|@Rab@
+@animals@|@Rab-yee@
+@ankle@|@doojoor@
+@another@|@beneen, doo@
+@antelope@|@kewël, mbila@
+@anuone@|@keppa@
+@anus@|@muuti@
+@anything@|@leppa@
+@Appearance@|@Lumumel@
+@apple@|@pom@
+@apple of mahogany@|@Darkase@
+@apprentice@|@apparanti@
+@April@|@Raki Gamo@
+@Arab@|@Araab@
+@arabic scholar@|@almuudu, taalube@
+@Are there vacancies for today?@|@Ndax am nga neeg@
+@arm@|@mbaga@
+@arm pit@|@poxotaan@
+@Arrival@|@delu si, nyow@
+@arse@|@sar@
+@article lying about on@|@tereene, terende@
+@artist@|@ndaanaan@
+@as@|@itam@
+@ashes@|@dóom@
+@assigment@|@sas@
+@at@|@la@
+@at the tip@|@juba@
+@August@|@Barah-Lu@
+@aunt@|@tanta, yumpaañ@
+@authority@|@ndiggal@
+@axe@|@séemeñ@
+@baabab tree@|@buy, guy@
+@baboon@|@gong@
+@baby@|@liir, neene@
+@baby-sitter@|@baambaanekat@
+@back@|@digi-ganaaw, ganaw@
+@back-yard@|@ganaawkër@
+@bad@|@bonn, bonn na@
+@badness@|@mbon@
+@baggy breeches@|@caaya@
+@bait@|@meeb@
+@baked@|@ñor@
+@bamboo@|@gong@
+@bamboo bed@|@gonga@
+@banana@|@banaana@
+@bandage@|@bandaas@
+@bandit group@|@ganglgeng@
+@bank@|@bank@
+@bantaba; village meeting place@|@penca@
+@baobab fruit@|@buy@
+@barbeque@|@yaasa@
+@baren@|@jaasiir@
+@barrel@|@bórig@
+@basket@|@pañe@
+@bath@|@janaaba@
+@Bathing@|@Sangue@
+@bathroom@|@duus, sanguwaay, Wanak@
+@be a hypocrite@|@waane@
+@be able@|@mun@
+@be abundant@|@naax@
+@be active@|@sawar@
+@be afraid@|@regal, xuta@
+@be aim@|@tiire@
+@be airy@|@fiix, piix@
+@be allergic@|@jomlu@
+@be almost@|@xala, xaw@
+@be ashamed@|@rus@
+@be bad@|@bon@
+@be bear with pain@|@mattu@
+@be beauty@|@taar@
+@be behave sulkily@|@diiju@
+@be better@|@gén, tane@
+@be bewitched@|@jommi@
+@be bind@|@gumbo@
+@be bitter@|@wex@
+@be bland@|@lewet@
+@be born@|@judu@
+@be bother@|@lakkal@
+@be broken@|@yaaxu@
+@be bruised@|@rooceeku@
+@be business like@|@tëstës@
+@be charred@|@xóm@
+@be cheap@|@yomba@
+@be close@|@jegeñ@
+@be closed@|@ubbu@
+@be cloudly@|@xiin@
+@be cold@|@sedda@
+@be completed@|@sooti, sooti, suti@
+@be confortable@|@teeda@
+@be conspicious@|@xumba@
+@be contagious@|@waale@
+@be content@|@gore, tuux@
+@be crazy@|@wéy@
+@be crooked@|@lunka@
+@be dare@|@sañ@
+@be deaf@|@tëx@
+@be depriciate@|@raaga@
+@be different@|@utee, wutee@
+@be dirty@|@salte, salte, tilim@
+@be disapear@|@sanku@
+@be disappointed@|@loru@
+@be divided@|@xajaaloo@
+@be dizziness@|@meer@
+@be dressed@|@solu@
+@be dried@|@ñeer, ngeer@
+@be dry@|@wow@
+@be dull@|@soof@
+@be early@|@teel@
+@be enormous@|@duuf@
+@be entangle@|@lëj@
+@be entangled@|@lëju@
+@be equal@|@tooloo@
+@be expect guest@|@seéntu@
+@be extraordinarily dressed@|@samallu@
+@be fade@|@paal@
+@be fair in complexion@|@xeereer, xees@
+@be faith@|@ngóm@
+@be familiar with@|@miis@
+@be famous@|@jar@
+@be far@|@sore, sori@
+@be fermented@|@ëna@
+@be finished@|@raaf, sutal@
+@be first@|@jëkka@
+@be flat@|@taaca@
+@be forbidden@|@xaraam@
+@be friends@|@xaritoo@
+@be full@|@suur@
+@be fussy@|@sob@
+@be gathered@|@rasu@
+@be good@|@baax@
+@be greedy@|@tiit@
+@be hair@|@sëxa@
+@be hanging@|@yooru@
+@be hot@|@taanga@
+@be hungry@|@xiif, xoos@
+@be important@|@jampa@
+@be in a bad mood@|@say@
+@be in a corner@|@kaju@
+@be in diapers@|@ngeenbu@
+@be in doubt@|@jaaxle@
+@be in excess@|@óppa@
+@be in flames@|@jaf@
+@be in harmonious relation@|@judoo@
+@be in uniform@|@niroole, nuroole@
+@be informed@|@yëg@
+@be innocent@|@ey@
+@be interest@|@ite@
+@be interesting@|@xumbal@
+@be jamble@|@rux-ruxi@
+@be jealous@|@siis@
+@be join@|@seéxa@
+@be jumble@|@ruubaate@
+@be known for@|@xamee@
+@be large@|@dija, réy@
+@be late@|@tarde@
+@be late at night@|@guddee@
+@be located@|@nekka@
+@be lonely@|@wéet@
+@be look like@|@niroo, nuroo@
+@be loose@|@kal-kali, yanxa, yanxa, yanxa, yanxa, yëmbëx, yëmbëx, yëmbëx, yolom, yolom, yumbur, yumbux@
+@be lost@|@gëlëm@
+@be lucky@|@jig@
+@be mystified@|@waaru@
+@be near@|@jege@
+@be need@|@soxla@
+@be negligent@|@saggan@
+@be old fashioned@|@xewwi@
+@be opposite@|@jublu@
+@be part@|@waala@
+@be past@|@paase@
+@be patient@|@muñ, teey@
+@be pious@|@seela@
+@be pity@|@yérém@
+@be pleased to God@|@soobee@
+@be plenty@|@las@
+@be precious@|@panka@
+@be pregnant@|@ñeebe@
+@be present@|@teew@
+@be prosperous@|@naat@
+@be pure@|@piir@
+@be quick@|@Gaaw@
+@be quiet@|@mukus, selew@
+@be reluctant@|@ñeeg@
+@be respect@|@naw, yaru@
+@be restless@|@muut-muuti@
+@be rich@|@riis@
+@be right@|@xat@
+@be rigid@|@kadda@
+@be rumple@|@sufuné@
+@be sad@|@mer@
+@be sand grains in food@|@xejem@
+@be save@|@mucca, oór@
+@be scattered@|@tasaaroo@
+@be schocking@|@waar@
+@be sensitive@|@nab@
+@be serious@|@ñanga@
+@be sheet@|@darab@
+@be short@|@gaata@
+@be sick@|@wéradi@
+@be sick often@|@xiibon@
+@be skinny@|@mees@
+@be slack@|@yadaax, yedaax@
+@be slow@|@yiix@
+@be small@|@ndaw@
+@be smart@|@Aay, saas@
+@be soft@|@nooy@
+@be spacious@|@yaatu@
+@be spread@|@raccu@
+@be sticky@|@ñapaaku, sécca@
+@be stinky@|@nay@
+@be straight@|@taali@
+@be struggle@|@xaru@
+@be stubborn@|@génékat@
+@be stupid@|@toóy@
+@be suffer@|@torox@
+@be sufficient@|@mut@
+@be tasteless@|@saapi, xormbet@
+@be tasty@|@saf@
+@be terrible@|@doywaar@
+@be thin@|@sew, yooy@
+@be thrusty@|@mar@
+@be tight@|@seere@
+@be tired@|@soona, xoox@
+@be tired of something@|@iiñ@
+@be too much@|@oppal@
+@be transparent@|@perewere@
+@be trend@|@saari@
+@be trurned over@|@kóppa@
+@be ugliness@|@ñaawaay@
+@be umpleasant@|@naxari@
+@be un trained@|@yaradeku@
+@be uncontrolable@|@të@
+@be underestimate@|@xeeb@
+@be undressed@|@simeéku@
+@be unstuffed@|@ñuuxeeku@
+@be used to@|@miin, taama@
+@be very@|@guy@
+@be very drunk@|@dur@
+@be very full@|@këll@
+@be weak@|@nasax, yolox@
+@be well@|@wér@
+@be wet@|@tooy@
+@be white@|@weex@
+@be wicked@|@soxor, xiis@
+@be womanish@|@goór-jigeén@
+@be worse@|@yées@
+@beach@|@tefes@
+@bean@|@sëb@
+@bean cake@|@akara@
+@beans@|@ñeebe@
+@beautiful@|@rafet@
+@beautiful woman@|@jongama@
+@beauty@|@taar@
+@because@|@komka, ndax, ndig, ndigte, ndigte, ngir@
+@bed@|@lal@
+@bed bugs@|@matta@
+@bedroom@|@kabinet@
+@beef@|@nak@
+@Beef@|@yapa, yapi harr, yapi nakk@
+@beer@|@beer, sangara@
+@Beer@|@sangara@
+@beetle@|@gunduur, gunuur, wanxa@
+@before@|@balaa@
+@begger@|@woyaankat@
+@Behaviour@|@Jiko@
+@behind@|@ganaaw, Ginnaaw@
+@being shave@|@nelu@
+@being sufficent@|@doy@
+@belief@|@yaakaar@
+@believe in@|@gëm, góm@
+@belly@|@koola@
+@betray@|@janfaa@
+@betrayal@|@janfaa@
+@betrayer@|@orkat@
+@Beverage@|@naan@
+@bicycle@|@welo@
+@big dipper@|@kudu luus@
+@big elephant ears@|@mbiif@
+@big parent@|@maam@
+@bird@|@picc, picca, pichaa@
+@birth@|@juddu@
+@Birthday@|@besi judu@
+@biscuit@|@mbiskit@
+@bitter tomatoes@|@xuluñel@
+@black@|@ñuul, nyool@
+@black bird@|@ndóbin@
+@black pepper@|@poobar@
+@black scorpion@|@jankalaar@
+@bleach@|@ordasawel, weexal@
+@bleck smith@|@tëga@
+@blind@|@gumbë@
+@blink wink@|@xef@
+@blister@|@futta@
+@blocked@|@kalle@
+@blood@|@deret@
+@blouse@|@baybaas, mariñeer@
+@blue@|@Baxa, bulu@
+@boat@|@gaal, saxaar@
+@Body@|@Yaram@
+@boil@|@taab@
+@boiled peanuts@|@gete-baxal@
+@bone@|@yax@
+@book@|@teere@
+@boot@|@maal@
+@boss@|@patrong@
+@bother@|@mbuggal@
+@bottom@|@suuf@
+@botton@|@butoñ@
+@bowl@|@bool, ndab@
+@box@|@boyet@
+@boy friend@|@coro@
+@bracelet@|@jara, lam@
+@brain@|@yuur@
+@branch@|@banxaas@
+@brave man@|@gaynde@
+@bread@|@mbur, mbuuru@
+@Bread@|@mburu@
+@breakfast@|@Ndeewo, ndekki@
+@Breakfast@|@ndaywoh@
+@breast@|@ween@
+@bride@|@séet@
+@bridesmaid@|@palaale@
+@bronze@|@porom, xanjar@
+@broom@|@bale@
+@brother@|@caameñ@
+@brown@|@guru@
+@bull@|@ëkka@
+@bunch@|@cabba, saan@
+@burial@|@baameel, suul@
+@burn@|@lakka-lakka@
+@burp@|@giix@
+@Bus@|@Kaar rapid@
+@bush@|@all@
+@bush fowl-known to be wise@|@cookeer@
+@bush pig@|@mbaam-aala@
+@business@|@mbir@
+@but@|@bari, waay, wante@
+@butter@|@bota@
+@buttocks@|@kofal, kus, kus, taar, taat, wang, wong@
+@cabbage@|@supo me@
+@cable@|@fiil@
+@cage@|@kaaf@
+@cake@|@laamarsees@
+@caked residue@|@xooñ@
+@calabash@|@këll, koog@
+@calamity@|@estuwaar@
+@calculate@|@kalkil@
+@call@|@oote@
+@calm@|@jat@
+@camel@|@gëlëm@
+@candle@|@sondeel@
+@candy@|@tangal@
+@canoe@|@looco@
+@car park@|@gaaraas@
+@carpenter@|@minisé@
+@carpet@|@tape@
+@carrot@|@karot@
+@carry@|@uuf@
+@cart@|@sareet, saret@
+@cassava@|@ñambi, pulloox@
+@cassava dough@|@fufu@
+@cat@|@mus@
+@catfish@|@kong@
+@catholic@|@gurmet@
+@cattle@|@jur@
+@cause@|@tax@
+@celebrate@|@maagal@
+@celebration@|@xew@
+@cemetary@|@janaase@
+@censer@|@anda@
+@center of the house@|@diggi-néeg@
+@cereal@|@findi@
+@certanly@|@saalaaw@
+@chaff@|@cox@
+@chain@|@toogu@
+@chair@|@siis@
+@chance@|@alaafiya@
+@change@|@weccit@
+@charcoal@|@keriñ@
+@chat@|@waxtaan@
+@chatting@|@garang-palaas@
+@cheek@|@lex@
+@Cheers!@|@jaraama@
+@chest@|@dënna, ndena@
+@chewing stick@|@soocu@
+@chick@|@cuuc@
+@chicken@|@ganaar, ganar@
+@child@|@doom, doom, goné, guné, xale, xalel@
+@chin@|@sikim@
+@Chinese@|@chinese@
+@Chinese green tea@|@warga@
+@church@|@jangu, jangu bi@
+@cinema@|@sinemaa@
+@circle@|@geéw@
+@circumcision@|@lël@
+@class@|@kalaas@
+@clay@|@ban@
+@clayish@|@potopoto@
+@clean@|@laabu, set@
+@clear@|@leer@
+@client@|@killiyaan@
+@clitoris@|@cóola, coota@
+@Closed@|@taych na@
+@clothes@|@yéré@
+@clothes pin@|@keppu@
+@clots@|@gallox@
+@cloud@|@niir@
+@club@|@mbootaay@
+@coal pot@|@furno@
+@coastal village@|@teeru@
+@coat@|@palto@
+@cobbler@|@uude@
+@cock@|@séexa@
+@cockroach@|@mbóot@
+@coffee@|@café@
+@Coffee@|@Kafe@
+@coincidence@|@toombee@
+@cola@|@guro@
+@cold@|@Seda, sedd, sedd, xurfaan@
+@cold water@|@Ndoh Bu Seda@
+@color@|@kuloor, melo@
+@colors@|@culor@
+@command@|@ndigtal@
+@commanding@|@jëmma, jomma@
+@companion@|@Andandoo@
+@company@|@kompin@
+@complainer@|@jaambaatkat@
+@complete@|@mat@
+@compound@|@kër@
+@confrontation@|@aaka@
+@conjuntivities@|@waanent@
+@constable@|@konsumél@
+@continuous@|@takkarnasse@
+@cook@|@toogakat@
+@Cooking oil@|@Deew-lin@
+@cooperative@|@koparatiif@
+@corageous man@|@jambaaryaa@
+@corn@|@nbooxa@
+@corpse@|@niiw@
+@cosmetic for the eyelashes@|@tusungal@
+@cotton@|@witéen@
+@counter@|@kontuwaar@
+@counterpart@|@njaati gi@
+@country@|@reew, reéw@
+@courage@|@fit@
+@courthouse@|@aateekaay@
+@courtyard@|@diggi-kër@
+@cover@|@kubeer, m'baj@
+@cow@|@kuy, kuy, nag, nak@
+@co-wife@|@wujja@
+@cows for plowing@|@kamp@
+@cream@|@soow@
+@creole@|@aku@
+@crevice@|@seela@
+@cricket@|@soocet@
+@crocodile@|@jasig, jasit, jësit, jicit@
+@crooked legs@|@las, las, rënka@
+@crossed eyed@|@jéela@
+@crossing point@|@jaaleekaay@
+@crow@|@baaxoñ@
+@cube@|@donja@
+@cucumber@|@kokumber@
+@cup@|@pot@
+@cupboard@|@almoor@
+@curious@|@kumpa@
+@currency@|@weccat@
+@curtircura@|@illa@
+@curve@|@jadda@
+@cut@|@góom@
+@cutlet of fish@|@tëla@
+@Dakar@|@ndakaaru@
+@dance@|@ndëppa, pecc@
+@darkness@|@lëndëm@
+@date tree@|@taandarma@
+@Daughter@|@dorm ju jigain@
+@dawn@|@fajar, njël@
+@day@|@berep, Bes, fan@
+@Day@|@fann@
+@day before yesterday@|@barkaati demba@
+@day break@|@bórset, börset, bótset, bötset@
+@deaf@|@tëx@
+@death@|@saay@
+@death anoucement@|@taagee@
+@December@|@Tobaski@
+@decency@|@sutura@
+@deer@|@kewel@
+@Departure@|@dem, jogay@
+@dependant@|@surga@
+@desire@|@sago@
+@dew@|@laayi@
+@difference@|@wutee@
+@different@|@wuute@
+@difficult@|@jafe@
+@difficulty@|@coono, gaalankoo, tëxa-tëxa@
+@digger@|@gaskat@
+@dignity@|@daraja, fulla@
+@dinner@|@reer@
+@Dinner@|@rerr@
+@dirt@|@salte@
+@dirty@|@noo@
+@discuss@|@diisó@
+@dish@|@mbuum@
+@dish with the sauce of peanut@|@maafe@
+@dishonest@|@dëng@
+@dislocation@|@foxoj@
+@dispute@|@xuloo@
+@distance@|@diis@
+@divide@|@sédaale@
+@dizziness@|@miir@
+@do intentionaly@|@tey@
+@Do you accept credit cards?@|@ding deh nangu, jaill credit cards?@
+@Do you have...@|@ndah am nga....@
+@Do you speak...@|@ding deh laka, ding deh wah ...@
+@dock@|@waaf@
+@doctor@|@doktor@
+@dog@|@haj, xaj@
+@doing laundry@|@gërgéepa@
+@donkey@|@mbaam-sëf@
+@Don't touch me there!@|@Bouma lal fofu!, Buma laal foofu!@
+@door@|@bunt, bunta@
+@dough nuts@|@beñe@
+@down@|@chi suuf, suuf@
+@down pour of water@|@walangaan@
+@doze@|@gam-gami@
+@dozing@|@jinkoo@
+@dream@|@gent@
+@dress@|@mbubba, rooba, yëre@
+@dressing well@|@paree@
+@dried fish@|@geeja@
+@drink@|@naan@
+@drinks@|@naan-yee@
+@driver@|@daraayba, dawalkat@
+@drizzle@|@wis-wisal@
+@drought@|@beekoor, maral@
+@drum@|@mantaas, ndënda, tabala@
+@drummer@|@tëgakat@
+@drunkard@|@daajukat@
+@dry fish@|@geij@
+@dry food@|@weseng@
+@dry season@|@noor@
+@duck@|@canara, kanaara@
+@dugout@|@gaal@
+@dumb@|@lu, lu, muumu@
+@duration of life@|@giiru-dunda@
+@duration of one's life@|@giiru-dundam@
+@dusk@|@marax, timis@
+@dwarf@|@ndaama@
+@dye@|@cuub@
+@each other@|@xeebante@
+@eagle@|@licin, tan@
+@ear@|@nopp, noppa@
+@Ear@|@nopa@
+@early@|@teel@
+@ear-ring@|@jaaru-noppa@
+@easy@|@yomb@
+@eat@|@lekal@
+@economy@|@kom-kom@
+@edge@|@cat@
+@egg@|@nen, neu@
+@egg plant@|@batanse@
+@eight@|@jurome nyeta, juróom-ñett@
+@Eight@|@Jurom Nyetta@
+@eighteen@|@fuka ak jurome nyeta, fukk ak juróom-ñett@
+@eighth@|@juróom-ñettéélu@
+@eighty@|@jurome nyeta fuka, juróom-ñett-fukk@
+@elbow@|@concu@
+@elderly person@|@kilifa@
+@electricity@|@kurang, lampa@
+@elegant@|@jek@
+@elephant@|@ñay, ñey@
+@eleven@|@fuka ak bena, Fuka Bena, fukk ak benn@
+@ember@|@xal@
+@embroidery@|@dawume@
+@emphasies words@|@ne@
+@empty@|@neen@
+@empty container@|@xoota@
+@enclosure@|@naag@
+@end@|@muj, muje@
+@engaged@|@far@
+@England@|@Angalteer@
+@English@|@angale, angaleh, english@
+@erection@|@kuddal@
+@essence@|@safal@
+@European@|@tubaab@
+@even@|@sax@
+@evening@|@ngoón@
+@Evening@|@ngou@
+@ever@|@mukk, mus@
+@everuday@|@bés bu nekka@
+@everyone@|@ku-nekka@
+@everything@|@lu-nekka, yëp@
+@everytime@|@saayu-nekka@
+@everywhere@|@fu nekka@
+@excuse me@|@Baal ma@
+@expressing contempt@|@sooy@
+@expressing sorrow@|@mas@
+@expression of certanty@|@daal@
+@expression of disgust@|@cam, cem, cim@
+@eye@|@bëñ, bot, böt@
+@eye brown@|@éen@
+@eye glasses@|@lunet@
+@eyebrows@|@yeen@
+@fabric@|@piis@
+@face@|@kanam@
+@factory@|@isin@
+@faeces@|@day, duul@
+@faith@|@cofel@
+@fall@|@burum@
+@family@|@njaboot@
+@family name@|@sant@
+@famous@|@daraja@
+@fancy@|@xemem@
+@far@|@sore, sori@
+@fare@|@paas@
+@Farewell@|@Be Bennan Yon@
+@farmer@|@bëykat@
+@fat@|@diwiñor, gerees@
+@Fat person@|@Ku rey@
+@father@|@baay, laabe, paa, papa@
+@Father@|@bai@
+@fatigate@|@coono@
+@feast month@|@korite@
+@feast of end of the ramadan@|@korité@
+@feather@|@dunxa@
+@February@|@Digi@
+@feel cold@|@liw@
+@feel confortable@|@yaatal@
+@female@|@bu jigéen@
+@female pilgrim@|@ajaratu@
+@fence@|@saaket, tapaat@
+@field@|@tool@
+@fifteen@|@fuka ak jurome, fukk ak juróom@
+@fifth@|@juróoméélu@
+@fifty@|@jurome fuka, juróom-fukk@
+@film@|@fiim@
+@filter@|@xer@
+@finger@|@Baaraam, we, wey@
+@Finger@|@Baram@
+@finger-ring@|@jaaru-baaram@
+@fingers@|@aram-yee@
+@fire@|@lakk@
+@fire of bush@|@Daay@
+@firewood@|@lo, poñit@
+@first@|@bu njëk, jëkk, Njeken tel bi, njëkka, përëmye@
+@first (1)@|@njëkke@
+@first born child@|@taaw@
+@first name@|@tur@
+@first round of the ataya@|@lëwal@
+@fish@|@jen, jën, këccax, ndawal, ngot, yaax@
+@Fish@|@jainn@
+@fish ball@|@bulet@
+@fisherman@|@cubalo, móol@
+@fishhook@|@oons@
+@fishing line@|@caas, xiir@
+@fist@|@këmëx@
+@five@|@jurom, jurome, Juroom, juróom@
+@flat@|@taapandaar@
+@flat wood@|@taaparka@
+@flavour@|@cafka, cafko, safaay@
+@flea@|@meesees@
+@flip-flaps@|@carax@
+@fly@|@weñ@
+@food@|@cin, leka, ñam@
+@food made of millet@|@cere@
+@fool@|@muxat@
+@foot@|@tanca@
+@foot sole@|@tëstan@
+@football@|@kupe@
+@footpath@|@teretuwaar@
+@for@|@ngir, pur@
+@for a long time@|@gëj@
+@forbidden@|@Aay@
+@forehead@|@jë@
+@foreign@|@gan@
+@foreigner@|@laakakat, tubaab, waaliyaan@
+@fork@|@furset@
+@form of a stomach up set@|@fiw@
+@fortune@|@alal@
+@four@|@ñeent, ñenent, ñent, nyenent@
+@fourteen@|@fuka ak nyenent, fukk ak ñeent@
+@fourth@|@ñeentéélu, ñenentéel, Nyenentel bi@
+@fowl@|@nat@
+@frame@|@kaadar@
+@France@|@tugël@
+@French@|@français@
+@friday@|@Gaaw@
+@Friday@|@Ajjuma, Aljuma@
+@friend@|@kharit, xarit@
+@Friend@|@harit@
+@frock@|@anaago@
+@frog@|@mboota@
+@fruit@|@doom, doom, koóni@
+@Fruit@|@Kojomtu@
+@fula@|@pól@
+@full@|@fees@
+@funeral@|@déc, dëj@
+@funny@|@reelu@
+@future@|@Elak@
+@future teller@|@gisaan-kat@
+@gall bladder@|@wextan@
+@game@|@po@
+@gap between the tooth@|@jaal@
+@garlic@|@laac, laaj@
+@gas station@|@esaanseer@
+@gathering@|@jataay, jotaay, mbooloo, ndaje@
+@generous@|@laabiir@
+@German@|@almagne, german@
+@get to hell@|@gatul@
+@gift@|@maye, meye, meye, ndawtal, ndëwénal, yóobal@
+@gift of money@|@ndawtal@
+@gills@|@caaxoñ@
+@ginger@|@jinjar@
+@giraffe@|@njamla@
+@girl@|@janxa@
+@give thanks@|@santa@
+@glue@|@kol@
+@go away@|@aca@
+@go beyond@|@weesu@
+@go in vain@|@kasaara@
+@go look for@|@uti@
+@go on@|@aca@
+@go straight@|@taalal@
+@go to@|@waali@
+@go!@|@aca@
+@goat@|@bey@
+@God@|@yaala@
+@goitre@|@boolox@
+@gold@|@urus, wurus@
+@good@|@baah, baah na@
+@good afternoon@|@jama nga endoh@
+@Good afternoon@|@jama nga endoh, Naka Beket Bi@
+@good evening@|@jama nga endoh@
+@Good evening@|@Naka Ngonci@
+@good health@|@wargu-yaram@
+@good morning@|@jama nga fanaan@
+@Good morning@|@Naka Subaci@
+@good night@|@fanaan jama@
+@Good night@|@Fanan Jama@
+@goodbye@|@chi jama@
+@Good-bye@|@Ci Jama@
+@gourd@|@gamba, kandaama@
+@government@|@guwernemaa, nguur@
+@grab quickly@|@cas@
+@graft@|@jang@
+@grafter@|@jankat@
+@grain@|@pepp@
+@grand child@|@sët@
+@grand parent@|@maam@
+@grape@|@résëñ@
+@grass@|@ñax@
+@grate@|@os@
+@grave@|@waraaj@
+@green@|@lu werta@
+@greeting@|@maaleekumsalaam@
+@grill@|@wajj@
+@grilled peanut@|@caaf@
+@grilled peanuts@|@gerte-lakka, saaf@
+@guard@|@gardekat@
+@guava@|@guyaab@
+@guide@|@njiit@
+@Guinea-Bissau@|@Giné Bisaaw@
+@Guinea-Conakary@|@Giné-Konaakiri@
+@Guinea-fowl@|@naat@
+@guitar@|@xalam@
+@gullet@|@put@
+@gulp@|@guux@
+@gum@|@daakaande@
+@gum boil@|@pat@
+@habit@|@jikko@
+@habitual@|@ka@
+@hair@|@Cawar Jerte@
+@half@|@genawalla, xarit@
+@half kilo@|@liibar@
+@half past@|@Fan wer minit@
+@hammer@|@marto@
+@hammock@|@piliyaan@
+@hand@|@loho, loxo@
+@hand over@|@yoor@
+@handicap@|@laago, lafañ@
+@hang over@|@laxal@
+@happy@|@beg@
+@Happy Birthday!@|@besi judu@
+@hardness@|@dëgëraay@
+@hare@|@lëk, Njombor, ñombar@
+@harvest@|@mbay, mbey@
+@hat@|@mbaxana@
+@have a cold@|@soj, xurfaan@
+@have a large family@|@jaboot@
+@have fever@|@sibiru@
+@have just@|@soga, sooga@
+@have leprosy@|@ngaana@
+@have little power@|@neéw@
+@have something unexpectedly@|@gomee@
+@he@|@la, la, moo, mu, mu, mungi@
+@he is not@|@du@
+@head@|@boopa, bopp, nampatal, njiit@
+@Head@|@Bopa@
+@head of the village@|@alkaali@
+@head tie@|@musóor@
+@healer@|@fajkat@
+@heart@|@xol@
+@heat@|@tangaay, tanggoor, tangoor@
+@heaven@|@aljana, arjana@
+@heavy@|@diis@
+@hedgehog@|@saaw@
+@hell@|@safara@
+@Hello@|@Nakam@
+@help@|@dimbal, ndimbal@
+@hen@|@pil@
+@henna@|@fuddan@
+@herd@|@geeta@
+@here@|@fii@
+@hey you!@|@saa-waay@
+@Hi!@|@Maalekum salaam!@
+@hill@|@tunda@
+@him@|@Dafa, ko, ko, moom@
+@hinder@|@koñe@
+@hoe@|@ileer, ngoos-ngoos@
+@hold@|@jaapa@
+@hole@|@bón-bónna, pax, soo@
+@hollow@|@kamba@
+@holy@|@teexet@
+@holy mosque in Mecca@|@kaaba@
+@holy place@|@ñaanukaay@
+@holy water@|@saafara@
+@home@|@suwo@
+@honesty@|@ngor@
+@honey@|@lem, len@
+@honeymoon@|@céetal@
+@honor@|@jom@
+@hook@|@lonka@
+@hope@|@yaakaar@
+@horn@|@béejin@
+@horse@|@fas@
+@hospital@|@lopitaan, lorpitaan@
+@hospitality@|@teranga@
+@host@|@ngan@
+@hot@|@tang, tanga@
+@hour@|@Wahtu, waxtu, woxtu@
+@house@|@kër, neeg@
+@how@|@naka@
+@how about@|@nag@
+@How are you?@|@Jamun Gam?, naka nga def, nan nga def@
+@How do you do?@|@Na nga def ?, Naka nga def ?, Noo def?@
+@How do you say this in English@|@naka ngaa waheh li chi english@
+@How is the Family?@|@Naka Wa Ker Ga?@
+@how much@|@jotu, ñaata@
+@How much does this cost?@|@lee nyata la?, lee nyata laa jarr@
+@How much is the fare?@|@pass bi nyaata la?@
+@how?@|@naka@
+@however@|@wurus@
+@How's it going?@|@Naka mu demee?, Numu demee?@
+@human being@|@Domi Adanaa@
+@hump@|@joogare@
+@hunch back@|@xuuge@
+@hunchback@|@xojogaane@
+@hundred@|@teemeer, téeméer@
+@hunger@|@xiif@
+@husband@|@jëkar, jëker@
+@Husband@|@jaikarr@
+@hyena@|@buki, bukki@
+@hygiene@|@cet@
+@hypertension@|@tasiyong@
+@hypnotizer@|@jatkat@
+@I@|@maa, maan, man@
+@I already went to Dakar@|@Demoon naa Ndakaaru@
+@I am@|@laa, laa, maang, maang, mangi@
+@I am fine@|@Jama Rek, Maa ngi fii rekk@
+@I am going (here and now)@|@Maa ngi dem@
+@I don't understand@|@ham muma, munu maa ham linga wah@
+@I go already@|@Dem naa@
+@I hope@|@mbaa@
+@I say@|@ma, mane@
+@I usually go@|@Damay dem@
+@I will go soon@|@Dinaa dem, Dinaa dem@
+@I will not@|@duma@
+@I will tell them@|@Dena Len Kowah@
+@I would like to buy...@|@dama buga jainda@
+@Ice cream@|@Radi galaas@
+@idea@|@xalaat@
+@idol@|@xërëm@
+@if@|@suñu@
+@if its pleases God@|@inchaalaaxu@
+@if you@|@soo@
+@if you want; go home@|@soo eboo ñibi@
+@iguana@|@bar@
+@I'll buy it@|@dinaa koh jainda@
+@I'll reach home in a while@|@dinaa aaga kër ci kanam@
+@ill-fated@|@gaaf@
+@I'm fine@|@Maa ngi fii@
+@image@|@der@
+@immediately@|@daldi@
+@immobile@|@laja@
+@implements@|@bëykaay@
+@importance@|@jëriñ, njëriñ, solo, soloh@
+@important@|@maaga@
+@in@|@ci, si@
+@in there@|@ci@
+@in-between@|@diggante@
+@incense@|@curaay, cuuraay, xeeñal@
+@indian almond@|@gerte-tubaab@
+@inevitable@|@jaas@
+@inexpensive@|@jar@
+@inhabitant@|@waa@
+@in-law@|@goro@
+@inquisitive@|@faas@
+@insect@|@roj@
+@insert@|@daabuux@
+@insufficient@|@doyadi@
+@insult@|@saaga@
+@interior@|@biir@
+@inter-rival relationship@|@gaamo@
+@iron@|@weñ@
+@is@|@mu, penku@
+@Islam@|@islaam, lislaan@
+@isn't that@|@xanaa@
+@Ivory Coast@|@koddi waar@
+@jam@|@jam@
+@january@|@Tamharit@
+@jar@|@njaxa@
+@jaw@|@ngaamam@
+@jealous@|@siis@
+@jeopardy@|@lore@
+@jewelry@|@jaaro, oor, takaay@
+@jis; name of a fish@|@jis@
+@joker@|@fokat, kafkat@
+@Jolof; a village in Senegal@|@Jolof@
+@jug@|@gutta@
+@Juice@|@dagaar, Njar@
+@July@|@Ndey-Kor, suuyee@
+@jump about in confusion manner@|@cërpi-cërpi@
+@junction@|@cëla, cële@
+@June@|@Mamam-Kor@
+@kettle@|@satala@
+@key@|@caabi@
+@kick@|@lopet@
+@kid@|@gune@
+@kilogram@|@kiló@
+@kind@|@baax@
+@king@|@buur@
+@kitchen@|@waañ@
+@knee@|@óom@
+@Knee@|@Om@
+@kneel@|@sukka@
+@knife@|@paaka@
+@knot@|@pass@
+@knowledge@|@xam-xam@
+@kola nut@|@guru@
+@Kosher@|@du mayda@
+@labour@|@mat@
+@laddle@|@bakku@
+@lady@|@soxna@
+@lake@|@Deeg@
+@lamb@|@mbote@
+@lamb master@|@miswi@
+@lance@|@xeej@
+@land owner@|@lamaan@
+@language@|@laka@
+@lantern boat@|@fanaal@
+@large@|@yaa@
+@larva@|@walaxnja-xaan@
+@last@|@muji@
+@last child of the parents@|@caat@
+@Last month@|@Weer bu passe@
+@last name@|@santa@
+@last night@|@bët, biig@
+@Last week@|@Bes bu aay bu pas@
+@Last year@|@Daaw@
+@laundry@|@póot@
+@leaf@|@xob@
+@leak@|@seena@
+@leave for good@|@uus@
+@leek@|@pooro@
+@left@|@Cammooñ@
+@Left@|@cha mogn@
+@left hand@|@caamoñ@
+@leg@|@Barami Tanca B, tank@
+@let him@|@na@
+@letter@|@araf, Bataaxal, bataaxel@
+@lettuce@|@salaat@
+@liar@|@kaacikat, netalikat@
+@library@|@kaggu@
+@lice@|@teen@
+@lie@|@kaaci@
+@life@|@dundori@
+@light@|@jafal@
+@lightening@|@mlaxal@
+@lightning@|@melax@
+@like@|@ko, ni@
+@like that@|@niir@
+@liking@|@mbuggéel@
+@lime@|@limong@
+@line@|@liiñ@
+@lion@|@gayinde@
+@liter@|@liitar@
+@little@|@tuuti@
+@live@|@dekka, dunda@
+@liver@|@rees@
+@lizard@|@sindax, yal@
+@lobster@|@suum@
+@local African blouse@|@dagit@
+@local beeds worn around neck@|@caxxa@
+@local pants@|@caaya@
+@locket@|@langal@
+@locust bean@|@netetu@
+@loincloth@|@sër@
+@long@|@guda, gudd, gudda@
+@look behind@|@geestu@
+@look down on@|@tiim@
+@look for@|@laxaañi, laxaarci@
+@loud talk@|@ngaw-ngawi@
+@love@|@nobéel@
+@luck@|@worsag@
+@luggage@|@bagaas, en@
+@luke warmwater@|@nuga@
+@lump@|@ooga@
+@lunch@|@añ, Anyi@
+@Lunch@|@agne@
+@machine@|@masin@
+@mad@|@dof@
+@mad person@|@dof@
+@made@|@jëf@
+@magistrate@|@aateekat@
+@maid@|@mbindaan@
+@make an effort@|@goór-goórlu, jeém@
+@male@|@bu góor@
+@male cow@|@ëkka@
+@male pilgrim@|@alaaji@
+@Malian peanuts@|@gete-bambara@
+@man@|@goor@
+@mandinka masquerade@|@kankurang@
+@mango@|@mangoro@
+@mangroves@|@maangi@
+@maniac@|@pullox@
+@man's name@|@mandu@
+@manure@|@maño@
+@March@|@Gamo@
+@market@|@ja, je@
+@marriage@|@sey@
+@mason@|@masong@
+@masquerade@|@kumpo, simba@
+@mat@|@basang, ndës@
+@matches@|@almet, mace@
+@mate@|@Andandoo@
+@material@|@ndimó@
+@Mauritania@|@gaanaar@
+@May@|@Rakati Gamo@
+@mayonaise@|@mayonees@
+@me@|@dama, man, mangi@
+@meals@|@Leka-yee@
+@measles@|@ngas@
+@measure@|@nata@
+@meat@|@yaapa, yapa, yapp@
+@Meat@|@ndawal@
+@Mecca@|@makka@
+@medicine@|@Garab@
+@melon@|@xaal@
+@merchandise@|@njaay@
+@meter@|@meetar@
+@mid wife@|@tiimkat@
+@midday@|@yoor-yoor@
+@middle@|@digg@
+@midnight@|@Haji-Gudi, xaaji-guddi@
+@milk@|@meew@
+@millet@|@dugub@
+@million@|@alfun@
+@mine@|@Suma bos@
+@minister@|@minista@
+@Minute@|@Minit@
+@mirrow@|@seetu@
+@mischieve@|@caacaay@
+@mistake@|@njuumte@
+@modesty@|@kersa@
+@moisten@|@kaas, tooyal@
+@mom@|@yaay@
+@moment@|@saas@
+@monday@|@lundi@
+@Monday@|@Altine@
+@money@|@xaalis@
+@money box@|@arankees@
+@monkey@|@golo@
+@month@|@weer@
+@Month@|@werr@
+@months@|@Weer Yee@
+@mood@|@casgin@
+@moor@|@amet@
+@Moor@|@naar@
+@more carefully@|@moytu@
+@more than@|@gena@
+@morning@|@suba@
+@mortar@|@gënna@
+@mosque@|@jaaka, jakka, jumaa@
+@mosquito@|@yoo@
+@mother@|@ndey, yaay@
+@Mother@|@yai@
+@motor bike@|@mobilet, toftof@
+@mountain@|@Doj, xeer@
+@mouse@|@janax, jinax@
+@Mouse@|@Durimo, Durin@
+@mouth@|@géemeñ, Gemmiñ, Jeme-nyi@
+@move to the side@|@randu@
+@much@|@fo@
+@mud@|@potopoto@
+@mulatto@|@malaatar@
+@mulch@|@nax@
+@mulching@|@dajale nax, tuñ@
+@mum@|@meer@
+@museum@|@Ker xarala@
+@muslim@|@seriñ@
+@muslin coffin@|@jaat@
+@must@|@fo, fog@
+@my@|@suma@
+@My name is Lamin@|@Sama Tur Lamin La@
+@My name is....@|@Maa ngi tudd(a) ...@
+@nail@|@daaj, ponta, we@
+@name@|@bori, faatu@
+@name of a fish@|@coof@
+@named@|@tudda@
+@naming@|@ngénté@
+@nape@|@loos@
+@napkinks@|@ngemba@
+@naught@|@dara, tus@
+@navel@|@jumbax@
+@near@|@daala, jegeh@
+@neck@|@baat, baat, bat, bat, loos@
+@needle@|@throat@
+@negligent@|@besexeene@
+@neighbour@|@dëkkandoo@
+@nest@|@taaga@
+@nest of bird@|@tagg@
+@net@|@mbaal@
+@nettle@|@gargamboose@
+@never@|@muk@
+@news@|@xibaar@
+@Next month@|@Weer bu nyew@
+@next person@|@keneen@
+@Next week@|@Bes-Bu-aay bu nyew@
+@Next year@|@Dewen@
+@Nice@|@Mu ngi dox, Nice@
+@niece@|@jarbaat@
+@night@|@guddi, gudi@
+@nil@|@ndam demut, ndam dikut@
+@nine@|@jurome nyenent, juróom-ñeent@
+@Nine@|@Jurom Nyenent@
+@nine (1)@|@bees@
+@nineteen@|@fuka ak jurome nyenent, fukk ak juróom-ñeent@
+@nineth@|@juróom-ñeentéélu@
+@ninety@|@jurome nyenent fuka, juróom-ñeent-fukk@
+@nipple@|@cus@
+@no@|@dedet, déedéet@
+@no one@|@ken@
+@noble@|@géer, gor@
+@noise@|@coow@
+@none@|@ben@
+@noon@|@becak, bëcëk@
+@nose@|@baken, Bakkan@
+@nosy@|@dën-kumpa@
+@note book@|@karne@
+@nothing@|@dara@
+@Nothing is new@|@Dara beesul@
+@notify@|@yëgal@
+@November@|@Digi@
+@nowhere@|@fenn@
+@obligation@|@farata, warugal@
+@obligatory@|@dagan@
+@obscurity@|@lëndëm@
+@obstacle@|@ndog@
+@ocean@|@geej@
+@October@|@Hori@
+@odor@|@xet@
+@of course@|@baña, ko, ko, waawkañ@
+@offer@|@so@
+@offering@|@meye@
+@oil@|@diw@
+@oitment eye@|@tuuf@
+@ok@|@aca@
+@okra@|@kanja@
+@okra soup@|@supa@
+@old@|@mag@
+@old man@|@maggat@
+@old woman@|@magget@
+@one@|@bena, benn, benna@
+@one day@|@Bena bes@
+@one eyed@|@pata@
+@one hundred@|@taymerr, téeméer, Temayr@
+@one million@|@alfoon@
+@One o'clock@|@Bena waatu@
+@one thousand@|@Bena Junee, Junee, juneh, junni@
+@One ticket to ...; please@|@bena ticket pourr.....(ngela)@
+@one who brews@|@xiimkat@
+@one's personal affair@|@mbooja@
+@oneself@|@suma boppa@
+@onion@|@soble@
+@onions@|@liñong, soble@
+@only@|@fo, rek@
+@Open@|@oubi, oubil@
+@opened@|@ubéeku@
+@operation@|@xar@
+@opium@|@jaamba, jamba@
+@opposite@|@jaakaarloo@
+@or@|@wala@
+@orange@|@soraans@
+@origin@|@cosaan@
+@orphan@|@baayo@
+@ostrich@|@banjooli@
+@other@|@beneen@
+@others@|@yeneen@
+@our@|@suñu@
+@out@|@biti@
+@out dated@|@xewi@
+@outside@|@banta, Bisaab@
+@outsider@|@doxanéem@
+@oven@|@fuur@
+@over@|@kow@
+@over bend@|@ségga@
+@over there@|@foofu@
+@own@|@yos@
+@oyster@|@yoxos@
+@packet@|@paket@
+@padlock@|@karnaat@
+@pagan@|@ééfar, yéefar@
+@pain@|@mettit@
+@painful@|@meéti, metti@
+@pair@|@peer@
+@palm leaves@|@xobi tiir@
+@palm oil@|@diwtiir@
+@palm tree@|@tiir@
+@palm wine@|@sënga@
+@pan@|@paan@
+@pancake@|@panket@
+@pants@|@tubéy@
+@pap@|@naan-mbuuru, ruy@
+@parents@|@waajur@
+@park@|@baya'l, baye@
+@parlour@|@saal@
+@parrot@|@caku, chaku@
+@part@|@paar, xaajo@
+@pauper@|@baadoola@
+@paymaster@|@joolaa@
+@payment@|@pey@
+@peace@|@jaama, jamm@
+@peace on to you@|@maaleekumsalaam@
+@peacock@|@jambajóob@
+@peanut@|@areen, baase, Cawar Jerte@
+@peanut butter@|@dege@
+@peanut cake@|@gato, ngato@
+@peanut stew@|@maafe@
+@peanuts@|@gerte@
+@pear@|@piya@
+@peasant@|@jambur@
+@pedal@|@pedaal@
+@peelings@|@xoolit@
+@pen@|@xalimba@
+@penis@|@cuucu, ganda, kooy, sulla@
+@penny@|@buréy@
+@people@|@Askan, gaa, nit@
+@Pepper@|@kaani, pobahr@
+@personality@|@donna@
+@pestle@|@kuur@
+@petrol@|@esaans@
+@pharmacy@|@Farmasi@
+@phlegm@|@ñandaxit@
+@pick up quickly@|@cófit@
+@piece@|@dogit@
+@piece of music@|@buum@
+@pierce@|@bónaa@
+@pig@|@mbaam, Mbam-ala@
+@pigeon@|@petax, pita, pitax@
+@pile@|@tar@
+@pimple@|@picca-picca@
+@pin@|@pengu@
+@pineapple@|@sanaan@
+@pious@|@yiiw@
+@pipe@|@géna, xaanu@
+@pity@|@yérmaande@
+@place@|@barab, bërëb, noo, noo, palaas, yaa@
+@plait@|@lett@
+@Plant@|@Garab@
+@plastic@|@palasting@
+@plastic bag@|@mbuus@
+@plate@|@aset@
+@play@|@po@
+@playing cards@|@karto@
+@pleasant@|@neex@
+@please@|@Baal ma, ban@
+@Please bring the bill@|@Da ma buga fay@
+@pleasure@|@Banneex, coobare@
+@plenty@|@bari, oom@
+@plunge@|@cumbux@
+@plunge in@|@soobu@
+@pocket@|@jiba, poos@
+@police@|@coy, polis@
+@polite@|@mandu@
+@politics@|@politic@
+@pool@|@déeg@
+@poor man@|@miskiin@
+@pork@|@mbaam@
+@Pork@|@yapi mbaam@
+@porridge@|@cuuraa, fasoo, fonde, laax@
+@portrait@|@nataal@
+@possession@|@bos@
+@post office@|@post@
+@Postcard@|@kart@
+@pot@|@sujeer@
+@potato@|@patat@
+@Potato@|@pompitair@
+@potatoes@|@pompiteer@
+@Poultry@|@ganarr, ginarr@
+@pound@|@liibar, sooxa@
+@pounded mould grain@|@mburu, naaka@
+@power@|@doole@
+@praise be to God@|@alxamdulilaa@
+@praise singers@|@géwël, ñeeño@
+@pray@|@juli@
+@predictor 3rd person sing.@|@Dafa@
+@pregnancy@|@biir, Bir@
+@prepare@|@parepaare@
+@prepare grain flour@|@mooñ@
+@present@|@yóobal@
+@previous year@|@Daaw@
+@price@|@njëg@
+@princess@|@lingéer@
+@profession@|@méecé@
+@prophet@|@yonnént@
+@proselyte@|@tuubéen@
+@prostitute@|@cagga@
+@prostitution@|@caggatu@
+@protect@|@tanka@
+@protection@|@aar@
+@protestant@|@gurment@
+@provincial chief@|@ciif@
+@provisions@|@nduggu@
+@puberty for girls@|@janxatu@
+@public hair@|@cooka, jaaf@
+@puddle@|@taa@
+@pump to gas@|@esanseri@
+@pumpkin@|@baanga, naajo@
+@pupil@|@njaangaan@
+@pure@|@piir@
+@purse@|@kalpe, nafa@
+@put a load on one's@|@yen@
+@puzzles@|@cax@
+@python@|@yeew@
+@quantity@|@buy@
+@quarrel@|@tafaar, xuloo@
+@queen@|@buumi@
+@querilla@|@dingool@
+@question@|@ban, ban, lang@
+@quiet@|@miikar, nopi, tuuk@
+@rabbit@|@Njombor@
+@radio@|@rajo@
+@rain@|@taw@
+@rainy season@|@nawet@
+@ramadan@|@koor@
+@rapist@|@yeketaankat@
+@rascal@|@saasaay@
+@rat@|@janah, kaña@
+@raw peanuts@|@gerte-xaaran@
+@reach@|@jot@
+@ready@|@banta@
+@receipt@|@risit@
+@reciprocal relationship@|@jëflante@
+@recite@|@tari@
+@red@|@lu-honha, xonk, xonxa@
+@reduced@|@waañeeku@
+@referee@|@arbit@
+@rejoice@|@baaneexu@
+@relationship@|@mbokk@
+@relative@|@mbooka@
+@relatives@|@bu, su@
+@religion@|@diiné@
+@remains@|@ndësit@
+@remove@|@génee@
+@repeat@|@defaat@
+@representative@|@ndaw@
+@residence@|@dekuwaay@
+@respect@|@kersa, teranga@
+@restaurant@|@leko kai@
+@restrooms@|@wornak yi@
+@return to live@|@deeki@
+@rhum-palm@|@rom@
+@rib@|@faar@
+@rice@|@ceeb, maalo, sanxal@
+@rice with fish@|@ceebu jën@
+@right@|@jup, ndayjoor@
+@Right@|@ndey jorr@
+@right hand@|@ndeyjoor@
+@ring@|@jaaru@
+@rip oof@|@ngeeti, tapale@
+@ripe@|@ñor@
+@risk@|@jëngu@
+@rivalry@|@wujje@
+@river@|@Dex@
+@road@|@tali, yoon@
+@road tarred@|@tali@
+@roasted peanuts@|@caaf@
+@robe@|@kamisool, xaftaan@
+@rock@|@Doj, xeer@
+@roll on the ground@|@bóróngu@
+@room@|@neeg@
+@Room@|@naik@
+@root@|@reen@
+@roots@|@reen@
+@rope for the well@|@goj@
+@rosary beeds@|@saapilet@
+@rotted@|@nëb@
+@round@|@móróg@
+@run about@|@fir-firi@
+@'s@|@i@
+@sacrifice@|@sarax@
+@sales@|@njarte@
+@salt@|@tilim, xorom@
+@Salt@|@horom@
+@salty@|@xorome@
+@same@|@nuroo@
+@sap@|@laalo, meen@
+@sarong@|@sër@
+@satan@|@ibliis, seytaane@
+@satisfied@|@doylu@
+@Saturday@|@Gaaw, samdi@
+@sauce@|@soos@
+@save from trouble@|@musal@
+@savior@|@musalkat@
+@Say hello to them@|@Nuyul-ma Len@
+@saying@|@waxin@
+@scales fish@|@wasintoor@
+@scarf@|@tegu@
+@scatter@|@tas@
+@scavenge@|@kës@
+@scent@|@xet@
+@school@|@daara, jangukaay@
+@scissors@|@siso@
+@score@|@marke@
+@scorpion@|@jiit@
+@scraf@|@fulaar, kaala@
+@screen@|@sanke@
+@screws@|@wiis@
+@sea@|@geej@
+@seagull@|@kiri-geej@
+@season@|@tang@
+@season of rains@|@nawet@
+@second@|@ñaareel, ñaaréélu, Nyaaral bi@
+@second wife@|@ñaareeli jaber@
+@secret@|@kumpa@
+@secretive@|@sutura@
+@section@|@parti@
+@See you soon@|@Ba beneen (yoon), Dinala Gis-Waat Duyaga@
+@seed@|@jiwu, peepa, xoox@
+@seige@|@waafu@
+@seize@|@noot@
+@seizure of one's right@|@nooteel@
+@self honour@|@jom@
+@seller@|@jaaykat@
+@semen@|@maniiwu@
+@Senegalese caftan@|@Sabadoor@
+@senseless@|@ñaaka-xel@
+@September@|@Weer-Kor@
+@servant@|@rapaas@
+@serve@|@mbindaan@
+@serviette@|@musuwaar@
+@seven@|@Jurom Nyaar, jurome nyaar, juróom-ñaar@
+@seventeen@|@fuka ak jurome nyaar, fukk ak juróom-ñaar@
+@seventh@|@juróom-ñaaréélu@
+@seventy@|@jurome nyaar fuka, juróom-ñaar-fukk@
+@shade@|@kepaar, ker, taqander@
+@shadow@|@takandeer@
+@shallow@|@teela@
+@shameless@|@ñaaka-jom@
+@share@|@cër, sedaatte, sedaatte, seddoo, waala@
+@shared@|@sedaatle@
+@shea butter@|@diwingalam@
+@sheath@|@mbar@
+@shed@|@xootit@
+@sheep@|@haar@
+@shell@|@xoor@
+@shelter@|@mbaar@
+@shelters@|@mbaar@
+@sheperd@|@saamakat@
+@shin@|@eel@
+@shine@|@melax@
+@shiner@|@gena melax@
+@shirt@|@simis, turki@
+@shoe@|@daala@
+@shoes@|@Dall@
+@shomake@|@uude@
+@shopping money@|@koppari ndawal@
+@short@|@gata, gatt@
+@Short person@|@Ku gata@
+@shortage@|@manke, manke naaka@
+@shoulder@|@mbaga, mbagg@
+@shout at someone@|@to cry@
+@showel@|@gasu, gasukaay@
+@showing surprise@|@way@
+@shrine@|@tuur@
+@shroud@|@caangaay@
+@si; used in future imperative@|@si@
+@sick@|@feebar, opp@
+@sickness@|@jaahgoro@
+@side@|@boor, laa@
+@side of the body@|@wet@
+@sides@|@wet@
+@sift@|@lay@
+@sign@|@maandarga, melokaan@
+@silence@|@dee, noopi@
+@silk@|@sooy@
+@silk cotten tree@|@bentenki@
+@silly@|@ñaakafayda@
+@similar@|@niroo@
+@sin@|@aaxa, baakaar@
+@sinner@|@baakarkat@
+@sister-in-law@|@njëkké@
+@sit in one place@|@toog@
+@six@|@Jurom Bena, jurome bena, juróom-benn@
+@sixteen@|@fuka ak jurome bena, fukk ak juróom-benn@
+@sixth@|@juróom-bennéélu@
+@sixty@|@jurome bena fuka, juróom-benn-fukk@
+@skid@|@mbas@
+@skin@|@der@
+@skin disease@|@xam@
+@skinny@|@Om, sweijeex@
+@skirt@|@sippa@
+@sky@|@Asamaan@
+@sky blu color@|@Baxa@
+@slave@|@jaam@
+@slavery@|@njaam@
+@slice@|@taraase@
+@Slim person@|@Ku seew@
+@slip in unexpectedly@|@curux@
+@slippery@|@nama@
+@slipt open@|@amxar@
+@slot@|@duggal, suruxal@
+@slowly@|@ndanka@
+@slumber@|@yaandóor@
+@small@|@ndaw@
+@small calabash@|@mbaatu@
+@smoked@|@saxaar@
+@smoker@|@tuxkat@
+@smuggler@|@rawalekat@
+@smuggling@|@rawale@
+@snail@|@tuufa, yéet@
+@snake@|@jaan, jan, saa@
+@snatch a bit of sleep@|@gëf, gof@
+@snivel@|@yérémantalu@
+@snuff@|@xemme@
+@so@|@kon@
+@so long@|@be benen@
+@so so@|@nohnu nohnu rek@
+@so that@|@ndax@
+@so then@|@noonu@
+@so to speak@|@Daanaka@
+@soap@|@saabu, sabu@
+@soap water@|@poótit@
+@socks@|@kawas@
+@soda@|@limuunaat@
+@soldier@|@soldaar@
+@solicit@|@lojte@
+@solu@|@to dress@
+@solution@|@pexe@
+@some@|@Anyi, anyo, doo, doo, i@
+@some trouble@|@ay@
+@someone who courts@|@doxaankat@
+@something@|@lenna@
+@son@|@doom@
+@Son@|@dorm ju gorr@
+@song@|@wóy@
+@songs@|@kasag@
+@soot@|@mboltin@
+@sooth sayer@|@seruñtu@
+@sorrel@|@basaab, bind, Bisaab@
+@sorrow@|@meetit, naxar, tiis@
+@sorry@|@maasa, mas@
+@soul@|@ruux@
+@sound made by a breaking@|@kak@
+@soup@|@ñeex@
+@sour sap@|@kabaa, maada@
+@sow@|@fii@
+@spade@|@goop, peel, péel@
+@Spanish@|@spanish@
+@spare@|@garolemaa@
+@speach@|@kaddu@
+@speed@|@witees@
+@sperate@|@taagaatle@
+@spicy@|@saf@
+@spider@|@jar-gou, jargoñ@
+@spirit@|@jine, yaleef@
+@spitting cobra@|@ñangoor@
+@spittle@|@tuflit@
+@splay one's legs open@|@ngaaleeku, ngooleeku@
+@spleen@|@gaadam@
+@sponge@|@epons@
+@Sponge@|@Njampe@
+@spoon@|@kuddu@
+@spouse@|@jëkër@
+@sprain@|@rëxa@
+@sprout@|@meeña, tóntóor@
+@squat@|@jonkon@
+@squirrel@|@jahat@
+@srping@|@tëb@
+@stab@|@cabax@
+@stain@|@gakk, tooxa-tooxa@
+@stake@|@tek@
+@stamp@|@tampe@
+@stand-pipe@|@róbine@
+@starch@|@gom@
+@stare@|@xuli@
+@start early@|@teela door@
+@state of being quiet@|@mekka, niipi seeh@
+@statement@|@dekkandoor, maas-gu-dang@
+@status@|@maaxaama@
+@stay long@|@yaaga@
+@steal@|@weexa@
+@steam@|@suusal@
+@steamed meat@|@ketandi@
+@steamer@|@indé@
+@stew@|@caa, cu@
+@stick@|@banta, banta, et, tay@
+@sticky@|@taxe@
+@still@|@selew, selew, teeyi@
+@sting@|@maata, mata@
+@stomach@|@biig, Bir@
+@stone@|@xeer@
+@stood@|@taxaw@
+@stop by@|@jaar, juux@
+@stop raining@|@sébet, séwët@
+@stopper@|@saañ@
+@store@|@bitik bi, ngat, pukus, saaa@
+@storey building@|@taax@
+@stork@|@ñaalapaki, ñaarapuloo, xooda@
+@stormy@|@ngelaane, waame@
+@Straight@|@jub, jubal@
+@straighten@|@jub, jubal@
+@stranger@|@gan@
+@straw@|@ñax@
+@straw matterss@|@pajaas@
+@stream@|@seyaan@
+@street@|@mbedd, mbedda, mbenda mi@
+@strength@|@doole, kattan@
+@stretcher@|@balankaar@
+@strimp@|@sippa-sippa, sippax@
+@string@|@fiddiwol@
+@string bean@|@ñebe@
+@stripes@|@rew@
+@strips@|@xaf@
+@strive@|@soonal@
+@strong@|@dëgër@
+@student@|@jangakat@
+@study@|@njanga@
+@stuff@|@yét@
+@stuffing of fish@|@roof@
+@stump@|@ëkka@
+@stupid@|@dot@
+@substantial@|@buy@
+@such as@|@kom@
+@suffering@|@fitna@
+@sugar@|@sucur, sukkar, sukkur@
+@sugar cane@|@jamb suukër@
+@suit@|@kostiim@
+@suitcase@|@wolis@
+@sulphurizing@|@soxor@
+@sun@|@jant, naaj@
+@sunday@|@alet, dimaas@
+@Sunday@|@Dibeer@
+@superstition@|@bidaa@
+@surname@|@fande, konte@
+@surprise@|@caa@
+@sweet potato@|@pataas, pataat@
+@swell@|@neeri@
+@swollen@|@newi, nëwwi@
+@swollen eyelid@|@jumbuj@
+@sword@|@jaasi@
+@table@|@taabul@
+@tag question mark@|@fo@
+@tail@|@geen@
+@tailor@|@ñawkat, tajoor@
+@take a handful@|@tibba@
+@take a permission@|@taagu@
+@take along@|@yóbaale@
+@tale@|@leep@
+@talk loudly@|@soow@
+@Tall person@|@Njod@
+@tamarind@|@daqqaar, daxaar@
+@tanner@|@wullikat@
+@tap@|@pompe@
+@tar@|@godorong@
+@tax@|@juuti, lempo@
+@taxi@|@taksi@
+@tea@|@ti, warga@
+@Tea@|@Attaya@
+@tea party@|@ataaya@
+@teacher@|@jagalekate@
+@tears@|@rongoñ@
+@teeth@|@Bonnyee@
+@temple@|@kabaab@
+@ten@|@fuka, fukk, fukka@
+@tenth@|@fukkeel, fukkéélu@
+@termites@|@maah@
+@thank you@|@Jar Jef, Jërë jëf@
+@Thank you@|@Jërëjëf@
+@thanks@|@gërmande, jéréjët@
+@that@|@ko, ko, lu@
+@that day@|@kerag, kerog@
+@that person@|@kale, kélé, kooku@
+@that thing@|@lale, loolu@
+@that's why@|@mootax@
+@the@|@bi, gi, ja, ja, ka, ka, ka, ka, li, mi, ni, si, wi, yi@
+@the body@|@Yaram@
+@the boutique@|@butik-bi@
+@the day before yesterday@|@Barki Demba@
+@the end of@|@mujeél@
+@the friend@|@xarit-bi@
+@the girl@|@jigeen-ji@
+@the holy Quran@|@kaamiil@
+@the king of cayor@|@jaraaf@
+@the middle@|@digga@
+@the mosque@|@jumma-ji@
+@the people@|@nit-ñi@
+@the person@|@nit-ki@
+@the second day after@|@sibir@
+@the sound of blowing nose@|@fiip@
+@the sun@|@janta@
+@The water is cold@|@Ndoh Bi Sedana@
+@The water is hot@|@Ndoh Bi Tangana@
+@The water is not cold@|@Ndoh Bi Sedut@
+@The water is not hot@|@Ndoh Bi Tangut@
+@the way to do something@|@anam@
+@theft@|@cacca@
+@them@|@deñu, ñoom@
+@then@|@kon@
+@there@|@fa, fale, félé, nale, nele@
+@therefore@|@kon@
+@thermometre@|@tamomoita@
+@thermostat@|@tamostaat@
+@these@|@yii@
+@they@|@ñu, nyom@
+@They are fine@|@Nyunci Jama@
+@they will not@|@duñu@
+@thief@|@randalkat, saac, saacee@
+@thigh@|@luppa, pooc, pooj@
+@thin@|@laapa, sew@
+@thing@|@yëf@
+@think@|@yaakaar@
+@third@|@ñeteel, ñettéélu, Nyettel bi@
+@thirteen@|@fuka ak nyeta, fukk ak ñett@
+@Thirteen@|@Fuka Nyetta@
+@thirty@|@fanweer, ñett-fukk, nyeta fuka@
+@Thirty-one@|@Nyetta Fuka Bena@
+@this@|@jii, lii, mii@
+@this is not that?@|@mbaa@
+@This month@|@Weer bi, weer wae@
+@This morning@|@Tey-ci-suba@
+@this one@|@bii, kii@
+@this person@|@kii@
+@this place@|@fii@
+@this very moment@|@gii@
+@this way@|@nii@
+@This week@|@Bes bu aay bi@
+@This year@|@Ren@
+@thorn@|@deg@
+@those@|@yooyu@
+@thought@|@xalaat@
+@thousand@|@juné, njuné@
+@thread@|@woñ@
+@three@|@ñatt, ñett, nyeta, yatt, yett@
+@throat@|@purux, put@
+@thursday@|@Alxames, alxemes@
+@Thursday@|@Al xebes@
+@tick@|@weteñ@
+@Ticket@|@pass@
+@tide@|@peese, peese, waame@
+@tiger@|@segg, segg, segga, tene@
+@tilapia@|@waas@
+@tiles@|@karo@
+@time@|@wahite@
+@timid person@|@baanganooye@
+@tiny insect@|@mutu-mutu@
+@to@|@fo, ka@
+@to ablaze@|@taaka@
+@to accept@|@nangu, nongu@
+@to accompany@|@and@
+@to accuse@|@tam@
+@to accuse someone@|@jiiñ@
+@to accuse wrongly@|@tuumal@
+@to add@|@bbole, dolli, yóoka@
+@to add water@|@ñulug@
+@to add wood at a fire@|@xamba@
+@to adjust@|@ogosu@
+@to advice@|@eeda@
+@to advise@|@dénku@
+@to agree@|@nangu@
+@to ambush@|@waaf@
+@to annouce@|@yeebaane@
+@to announce@|@yëgle@
+@to answer@|@tóntu, uyu, wuyu@
+@to appear@|@feeñ@
+@to applaud@|@taccu@
+@to apply henna on plam@|@fuddanu@
+@to apply oil in one's body@|@toocarmeku@
+@to argue@|@werante@
+@to arise@|@jóg@
+@to arrive@|@Agsi, eega, yegg@
+@to arrive at@|@aaga, ééga@
+@to arrive to destination@|@egg@
+@to ask@|@laaj@
+@to ask a favor@|@ñaan@
+@to assume@|@gaddu@
+@to attach@|@takk, yeew@
+@to avoid@|@otu@
+@to bail out water@|@walax@
+@to bandage@|@baandaas@
+@to bargain@|@waxaale, woxaale@
+@to bark@|@bów@
+@to bathe somenoe@|@sanga@
+@to bathe someone@|@sangu@
+@To be@|@Mu-am@
+@to be able to lift@|@antal, antan@
+@to be adnormal@|@doyadi@
+@to be afraid@|@ragal@
+@to be ashamed@|@rus@
+@to be avoid@|@moytu@
+@to be bad@|@bokk@
+@to be believe@|@defe@
+@to be bent@|@banku, dénga@
+@to be betray@|@or@
+@to be blue@|@bulóo@
+@to be brave@|@ñemeñ@
+@to be broke@|@banka@
+@to be broody@|@geenji@
+@to be calm@|@giif, jaambuur, kew, miskar@
+@to be complete@|@kaamiir@
+@to be content@|@bëg, kontaan@
+@to be crazy@|@kanasu@
+@to be dedicated@|@farlu@
+@to be desert@|@jaambu@
+@to be devoted@|@éemu@
+@to be dirty@|@fónax@
+@to be disappeared@|@maay@
+@to be disbelief@|@gomadi@
+@to be dislike@|@sib@
+@to be disturbed@|@géten@
+@to be disturbing@|@gétené@
+@to be divorce@|@fase@
+@to be dizzy@|@miir@
+@to be drive away@|@daaxa@
+@to be drunk@|@daaju, mandi@
+@to be elected@|@falu@
+@to be enough@|@doy@
+@to be envious@|@añaan@
+@to be equipped@|@gaacaayoo@
+@to be fat@|@am-yaram, duf, dungus@
+@to be flayed@|@fulééku@
+@to be fool@|@nax@
+@to be forbiden@|@araam@
+@to be full@|@reega, teb@
+@to be gentle@|@yaaraam@
+@to be happinees@|@baaneex@
+@to be hard@|@dëgar, dëgër@
+@to be heavy@|@diis@
+@to be human@|@Nlt@
+@to be humid@|@guus@
+@to be hung@|@aju@
+@to be hurried@|@yakkamti@
+@to be hurt@|@gaañu@
+@to be ill-fated@|@aay-gaaf@
+@to be impatient@|@faraw@
+@to be in a hurry@|@yaakamti@
+@to be in agreement@|@deégoo@
+@to be in conflict with someone@|@jotee@
+@to be in debt@|@amel@
+@to be in possession of smth.@|@ame@
+@to be in straight@|@jubadi@
+@to be inconsiderate@|@fas@
+@to be inside out@|@bitarñeku@
+@to be interested in@|@ebu@
+@to be isolated@|@beru@
+@to be jealous@|@añaan, fiir, kañaan@
+@to be jealous of@|@añaanee, fiire@
+@to be lack@|@ñakka@
+@to be lack of front tooth@|@mefre@
+@to be late for something@|@fande@
+@to be level@|@maasaloo@
+@to be liberal@|@fiix@
+@to be light@|@oyof, oyof, woyof@
+@to be located@|@feete@
+@to be logical@|@jaadu@
+@to be lonely for someone@|@gelu@
+@to be loquacious@|@kacco-kacco@
+@to be lose@|@réeba@
+@to be lost@|@reer, reér@
+@to be meek@|@teeng@
+@to be miss@|@moy, nama@
+@to be mistaken@|@juumé@
+@to be more than@|@gena@
+@to be near by@|@dendoo@
+@to be nice@|@rafet@
+@to be nosy@|@déñkumpa@
+@to be numerous@|@Bare@
+@to be old@|@maaget@
+@to be open@|@laanga@
+@to be opened@|@lañar@
+@to be optimistic@|@gaanga@
+@to be peep@|@yurndu@
+@to be plentiful@|@jax@
+@to be precocious@|@goog/@
+@to be pregnant@|@biir@
+@to be proud@|@fuuy@
+@to be ready@|@noppi, paree@
+@to be refuse@|@lanka@
+@to be removed@|@deñ@
+@to be respectful@|@aajo@
+@to be restless@|@ñuum-ñuuttu@
+@to be rude@|@beew, luubu, luugu, reew@
+@to be satisfied@|@suur@
+@to be saying the hips@|@duguj-dagac@
+@to be selfish@|@buggé@
+@to be serious@|@garaaw@
+@to be shaken@|@yëngu@
+@to be shame@|@gaace@
+@to be sick@|@oopa@
+@to be sleepy@|@geméntu, Gëmmeentu, gomantu@
+@to be smart@|@am-xel@
+@to be smth. that pricks@|@cuuce, cuuté@
+@to be soften by soaking@|@gëjëf@
+@to be stingy@|@ngoota@
+@to be straight@|@jub@
+@to be stupid@|@dof@
+@to be sucked@|@cang@
+@to be sunny@|@naaje@
+@to be sweet@|@neex@
+@to be swollen@|@funki@
+@to be tall@|@njool@
+@to be thirsty@|@mar@
+@to be tight@|@dang@
+@to be tired@|@soon@
+@to be together@|@ómba@
+@to be true@|@dégga@
+@to be ugly@|@ñaaw@
+@to be undo braids@|@fireeku@
+@to be undressed@|@futeéku@
+@to be united@|@jaappoo@
+@to be unravell@|@lucéeku@
+@to be well@|@mooka@
+@to be wet@|@tooy@
+@to be wise@|@muus@
+@to be wrecked@|@kalaate@
+@to be wrinkle@|@lax@
+@to beat@|@buja, dngor, door, duma, duma, kaccari, ñef, ñef, nooxa, nooxa, nooxa, ñuus@
+@to beat (1)@|@sar@
+@to beat with tiny stick@|@caw@
+@to beg@|@woyaan@
+@to begin@|@dóor, kumaase, taambali@
+@to begin a muslim prayer@|@kabbar@
+@to behavior@|@melo@
+@to belief@|@góm@
+@to believe@|@gëm, gëm@
+@to belong@|@moom@
+@to bend@|@banka, banka, biij@
+@to bend down@|@segga@
+@to betray@|@janfaa@
+@to bite@|@matt, xapati@
+@to blacken@|@findi@
+@to bleach one's skin@|@xeesal@
+@to bleed@|@nacca@
+@to block@|@gatandu@
+@to blow air@|@fuuf@
+@to blow one's nose@|@ñandu@
+@to boast@|@xajaan@
+@to boil@|@bax, baxal@
+@to book oneself@|@bindu@
+@to borrow@|@Abb, leb@
+@to borrow out@|@abale, able@
+@to bother@|@xatal@
+@to boyfriend@|@far@
+@to braid@|@létta@
+@to break@|@damm, toj@
+@to breathe@|@nooki@
+@to brew@|@xiim@
+@to bribe@|@dukku, ger@
+@to bring@|@indi, isi@
+@to bring along@|@indaale@
+@to bring bad luck@|@um@
+@to brust@|@faaca@
+@to buid@|@tabax@
+@to burn@|@lakka@
+@to bury@|@roob, suul@
+@to butt@|@mboka@
+@to buy@|@jënd, jënda@
+@to buzz around food@|@biiw@
+@to call@|@oo, woote@
+@to can@|@mën@
+@to cancel@|@baay@
+@to cannon@|@kënu@
+@to caress@|@raay@
+@to carry@|@fab@
+@to carry a packet@|@ëmb@
+@to carry away@|@yobbu@
+@to carry on the head@|@enu@
+@to carry someone on the back@|@boot@
+@to castle@|@korte@
+@to castrate@|@taapa@
+@to catch a cold@|@soc@
+@to catch up@|@Dab@
+@to cause@|@waxtaan@
+@to celebrate@|@baaxental@
+@to change@|@wecci@
+@to chase@|@riiteé@
+@to chat@|@waxtaan@
+@to cheat@|@muuse@
+@to chew@|@saxaarmi, yëy@
+@to choke@|@föt@
+@to choose@|@tann@
+@to circumcise@|@jonga@
+@to class@|@kalaase@
+@to climax@|@guu@
+@to climb@|@éeg@
+@to climb over@|@ñaay@
+@to close@|@tëj, ubb@
+@to close one's eyes@|@góma@
+@to clothe@|@ooda@
+@to collapse@|@maaba@
+@to collect@|@for@
+@to collect rain water@|@taataan@
+@to comb@|@peñe@
+@to come@|@dikka, ñëw@
+@to come and take@|@jëmbat@
+@to come back@|@delusi@
+@to come from@|@baayeekoo@
+@to come out suddenly@|@pól@
+@to comit suicide@|@xaru@
+@to commit adultery@|@saacoo@
+@to compare@|@toolaale@
+@to complain@|@jaambaat, tawat@
+@to complete@|@éegali, fëgël, mutali@
+@to confront@|@aaka, laanga@
+@to confuse@|@jaawaatle@
+@to congratulate@|@njukkal@
+@to continue@|@kontine@
+@to convert@|@tuub, tuubal@
+@to convey@|@gungeé@
+@to cook@|@rëndee, toog, tooga@
+@to cool off@|@jeéri@
+@to cough@|@sëqët, sëxat@
+@to count@|@konte, lim, wañi ñi i, woññi@
+@to court@|@doxaan@
+@to cove oneself@|@saangu@
+@to cover@|@biti, iir, muur, muur, muuril, saanga, ub@
+@to cover the face@|@ngaaw@
+@to crawl@|@raam@
+@to crawl under@|@bóta, mbota@
+@to create confusion@|@dëdale@
+@to crumble@|@moxoñ@
+@to cry@|@jooy@
+@to cup one's chin@|@dégmu@
+@to cure@|@faj@
+@to cure oneself@|@faju@
+@to curve@|@laaxa@
+@to cut@|@Dagg, dog, dok, gaja, nama, xosi@
+@to cut down@|@gor, kaja@
+@to cutdown@|@jas@
+@to cutr itself@|@watu@
+@to dance@|@fecc, pooj@
+@to dangle@|@langa@
+@to dart@|@naangateku@
+@to deceive@|@juum@
+@to deco@|@mbool@
+@to decrease@|@wañi@
+@to defeat@|@Daan@
+@to defecate@|@duul, puup@
+@to deliver@|@jur, wosin@
+@to deliver a mesage@|@éegee@
+@to deliver a message@|@aagee, eegee@
+@to delude@|@kolooj@
+@to deprive@|@aayee@
+@to descend@|@waaca, wacc@
+@to desert@|@gaadaay@
+@to destroy@|@kasaara, kasaara, yaaxa@
+@to detach@|@yewwi@
+@to dethrone@|@simi, sumi@
+@to die@|@dee, faatu, saa@
+@to digest@|@rees, reesal@
+@to dilute@|@Njar@
+@to dine@|@reer@
+@to direct@|@jiite@
+@to disappoint@|@lor@
+@to discriminate@|@génaatle@
+@to disgreed to counter@|@kontaar@
+@to disregard@|@sofental@
+@to distinguish@|@raañe@
+@to divide@|@xaaj, xaaji@
+@to do@|@def, waa@
+@to down@|@raw@
+@to doze@|@jinkoo@
+@to drag@|@Daagu, watat@
+@to draw@|@duy@
+@to dream@|@genta@
+@to dress@|@sol@
+@to drink@|@naan@
+@to drink from a bottle@|@jolu@
+@to drip@|@siit, tooxa@
+@to drive@|@dawal, kus@
+@to drive away@|@daaxa@
+@to drop@|@rot, wodda@
+@to drown@|@lab, lap@
+@to drum@|@sabar@
+@to dwindle@|@rës@
+@to dye@|@suub@
+@to eat@|@Kojomtu, lekk, lumpa, muut@
+@to eat lunch@|@añ@
+@to eat slowly@|@ñimantalu@
+@to elbow@|@cóñcó@
+@to elect@|@fal@
+@to empty@|@yuli@
+@to enact@|@tëral@
+@to encounter@|@daj@
+@to encourage@|@gal-gal@
+@to end@|@raj@
+@to entangle@|@lëjal@
+@to enter@|@dugg, dugga@
+@to entertain@|@teral@
+@to entertain a guest@|@ganale@
+@to entrust under one's care@|@dénka@
+@to erect@|@sampa@
+@to escape@|@rëcca@
+@to exaggerate@|@eppel@
+@to exchange@|@wecci, wéecée@
+@to excrete@|@gatal@
+@to excuse@|@baal, baalal@
+@to express condolence@|@jaale@
+@to extinguish@|@fey@
+@to extract@|@rooci, rucci@
+@to fade@|@furi, yaabi@
+@to faint@|@meéda, xóm@
+@to fall@|@Daanu@
+@to fall down@|@Daanu@
+@to fall on one's face@|@muxa@
+@to fall on someone@|@ñapaaxu@
+@to fan@|@oopa@
+@to farm@|@bëy@
+@to fart@|@doxot, fusal@
+@to fast@|@koor@
+@to fatten an animal@|@duufal@
+@to feed by force@|@xol@
+@to feel@|@xeeñ@
+@to fetch firewood@|@taxañ@
+@to fetch water@|@root@
+@to fight@|@xeex, xulóo@
+@to file a complaint@|@kalaame@
+@to fill@|@taabi@
+@to filter@|@segg@
+@to find@|@nekk@
+@to finish@|@noppi@
+@to fish@|@gét, napa, napp, nappa@
+@to fit@|@xej@
+@to fix@|@poose@
+@to flick@|@wicax@
+@to fly@|@naaw@
+@to follow@|@sibooru, toopa, topp@
+@to follow someone@|@toope@
+@to forbid@|@tere@
+@to force out lump in throat@|@xaxtandekku@
+@to forget@|@faate, fatte@
+@to frame@|@ów@
+@to frighten@|@joomal@
+@to fry@|@fiiriir, saaf@
+@to garantee@|@garanti@
+@to gather@|@Dajaloo, ras@
+@to gather one1s havest@|@gar@
+@to gather together@|@Dajaloo@
+@to generate@|@jur@
+@to get@|@jot@
+@to get ready@|@waaj@
+@to get the loincloth@|@woddu@
+@to give@|@jox, may@
+@to give advice@|@diggal@
+@to give to@|@joxe@
+@to glade@|@ñedda@
+@to glorify oneself@|@baaku@
+@to go@|@dem, taa@
+@to go and collect@|@jëlli@
+@to go back@|@deelu@
+@to go fetch@|@indiji@
+@to go home@|@ñibbi@
+@to go on pilgrimage@|@aji@
+@to go out@|@geéna@
+@to go straight@|@jubal@
+@to go straight ahead@|@talal@
+@to go through@|@fóla@
+@to go to bed@|@tëdda@
+@to go to school@|@jangoro@
+@to go together@|@aanda@
+@to gobble@|@xaabu@
+@to gossip@|@joow@
+@to grain a fabric@|@fici@
+@to graw@|@nget@
+@to greet@|@nuyu@
+@to grimace@|@gaññ, ngiin@
+@to grimmace@|@giiñ, luci@
+@to grind@|@nij@
+@to grommace@|@ngoobi@
+@to grope@|@laambaatu@
+@to grow@|@mag@
+@to grumble@|@xultu@
+@to guard@|@garde@
+@to hammer@|@marto@
+@to hang@|@weer@
+@to happen@|@jib, xew@
+@to harvest@|@goob@
+@to have@|@am@
+@To have@|@Amko@
+@to have a bond in agreement@|@digaale@
+@to have a gap in memory@|@gag@
+@to have a sprain@|@foxoju@
+@to have measles@|@ngas@
+@to have no regard@|@yabaate@
+@to have no respect@|@yab@
+@to have the nostalgy@|@namm@
+@to head@|@ilif, jëm@
+@to hear@|@déega, degg, juboo, moy@
+@to heard over@|@jotali@
+@to help@|@dimbale, dimbële, jaappale, xeetali@
+@to hem@|@oomba@
+@to hide@|@nëbb@
+@to hint@|@gaaral@
+@to hit@|@mboku@
+@to hit on the back@|@rëkka@
+@to hoe@|@ngoos-ngoosi@
+@to hold@|@tiye, yor, yor, yore@
+@to hold unto@|@jaappandeku@
+@to hold up@|@taxaw@
+@to hold water in one's mouth@|@guuj@
+@to home@|@daral@
+@to hug@|@lënga@
+@to hunt@|@rëb, rëbba, robba@
+@to hurry@|@Gaawantu@
+@to hurt@|@gaañ@
+@to hurt intensionally@|@gaañe@
+@to illuminate@|@niit@
+@to imitate@|@roy, toopandoor@
+@to impede@|@naj@
+@to implicate@|@moolu, ñaax@
+@to impress someone@|@faaru@
+@to increase@|@yóoku@
+@to incubate@|@bóóf@
+@to indicate@|@joxoñ, tektal@
+@to inform@|@xamal@
+@to inject@|@penku, pikiir@
+@to insert@|@roof, sooti@
+@to insult@|@tañca, waas@
+@to interrogate@|@laaj@
+@to intimidate@|@gësëm@
+@to iron@|@fudda, paase@
+@to is@|@be@
+@to jerk@|@bippa@
+@to joke@|@caaxaan, kaf@
+@to joke with@|@foee, foyee@
+@to judge@|@aatee, atte@
+@to keep@|@deñc, deñca, log@
+@to keep fast@|@oor@
+@to kick@|@weexu, wexxa@
+@to kill@|@bóóm, rey@
+@to kiss@|@foon@
+@to knock@|@fogga@
+@to knock at the door@|@fëgg@
+@to knock down@|@daanel@
+@to know@|@xam@
+@to lack@|@manke@
+@to lake out@|@lokarbi@
+@to land@|@dal, teer@
+@to last@|@yagg@
+@to laugh@|@kex-kexi, ree@
+@to leap@|@soox@
+@to learn@|@jang, janga, njang@
+@to leave@|@baayi, dem, gennë, wocca, xiix@
+@to leave a message for someone@|@baatale@
+@to leave with@|@baayee@
+@to lend@|@Abal@
+@to lend out to someone@|@able@
+@to lengthem@|@ñambaas@
+@to lep@|@tëb, tob@
+@to lick@|@mar@
+@to lie@|@fen, nar@
+@to lie down@|@tëdd@
+@to lie flat on one's back@|@jaaxaan@
+@to lift@|@dukat, ëkati, xaaci@
+@to lift up@|@eñ@
+@to lift up a garment@|@og@
+@to light@|@taal@
+@to lighten@|@oyofal@
+@to like@|@nobe@
+@to like love@|@nob@
+@to limit@|@aapal@
+@to listen@|@deglu@
+@to live@|@dëkk, dëkka@
+@to load@|@eb, sëf, sëf, sof, sof, sóf@
+@to lock@|@soo@
+@to look for@|@seet, wut, wuti@
+@to look like@|@mel@
+@to loose interest@|@yooxi@
+@to lose@|@reéral@
+@to lull@|@baambaane@
+@to lunch at@|@añee@
+@to make@|@def, defar@
+@to make a face@|@gañaxu@
+@to make a fist@|@danka@
+@to make a hole@|@kopati@
+@to make a knot@|@fas@
+@to make a mistake@|@juum@
+@to make clean@|@setal@
+@to make pancake@|@beñe@
+@to make the court@|@doxaan, ndoxaan@
+@to mark@|@marlu@
+@to mash@|@rigiñ@
+@to massage@|@bós, damp, dampa, fuy@
+@to masturbate@|@mbalu@
+@to measure@|@natt, xayma@
+@to meet@|@tase, tasee@
+@to meet smth on the way@|@Dab@
+@to meet with@|@dajee@
+@to melt@|@seey, yooy@
+@to memorise@|@tanka@
+@to merit@|@eeloo@
+@to mislead@|@juuwé, juwé@
+@to miss an appointment@|@juuyoo@
+@to miss someone@|@naama@
+@to mix@|@bon, siim@
+@to moan@|@onka@
+@to motive@|@xiir@
+@to nail@|@daaj@
+@to name@|@tuddee@
+@to narrate@|@netali@
+@to negate@|@te@
+@to obey@|@deggal@
+@to obliged@|@war@
+@to observe@|@seetlu@
+@to obstruct to@|@dogandu@
+@to offer@|@maye@
+@to on duties@|@aye@
+@to open@|@laanga-langaral, ubbi@
+@to open one's eye@|@xippi@
+@to open one's mouth@|@ngaang@
+@to open the lips@|@siiñ@
+@to operate@|@xar@
+@to over power@|@noot@
+@to owner@|@borom@
+@to pack@|@pajale@
+@to paint@|@pentuur@
+@to park@|@gaare@
+@to part@|@waala@
+@to pass@|@romba, wees@
+@to patch@|@gaar@
+@to pay@|@fay@
+@to peel@|@xolli, xooli@
+@to peep over one's face@|@wedaañaamu@
+@to peeping@|@yurndoo@
+@to perforate@|@bónna@
+@to pick a lock@|@jaabal@
+@to pick up@|@fab, fob, seepi, sipi@
+@to piece of music@|@galan@
+@to pile@|@naaf@
+@to pin@|@keppa@
+@to pinch@|@dompat, tëcca, ticca@
+@to place@|@laa, laa, laa, palaase, taaj, teg@
+@to plaster a floor@|@dar@
+@to plaster with cement@|@raax@
+@to play@|@fo@
+@to play love@|@kooca, koocax@
+@to pluck@|@wita@
+@to plunge@|@sóbu@
+@to point@|@joxoñ@
+@to poke@|@cuxuñ, ruux, subux@
+@to poke one's forehead@|@pangas@
+@to pound@|@wol@
+@to pour@|@tuur@
+@to pour slowly@|@xeeli@
+@to praise@|@taga@
+@to pray@|@julli, ñaan@
+@to pray for@|@ñaanal@
+@to preach@|@waar, waare@
+@to precede@|@njêk@
+@to prepare for@|@pareel@
+@to prevent@|@fanxa, kal, tere@
+@to prick@|@cuuc, cuut@
+@to proceed@|@jiitu@
+@to promise@|@dig@
+@to promisse@|@dig@
+@to prop@|@toñ@
+@to protect@|@saama@
+@to pull off from@|@fuxi@
+@to pull out@|@loxati@
+@to punch with the fist@|@këmëx@
+@to push@|@puus@
+@to put in front@|@jiital@
+@to put out@|@kamaj, óf@
+@to put to sleep@|@xomal@
+@to quarrel@|@ngiiroo-ngaaroo@
+@to quit@|@Bayyi@
+@to rain@|@taw@
+@to raise@|@jog, yëkkëti@
+@to rape@|@yeketaan@
+@to rare@|@yafal@
+@to reach@|@eega@
+@to reach one's limit@|@sës, teesal@
+@to read syllable by syllable@|@ijji@
+@to receive@|@deekali@
+@to recognise@|@xaamaleku, xaamee@
+@to recognize@|@neemeeku@
+@to recorver from a faint@|@ximi@
+@to recover from@|@ximaleku@
+@to rectify@|@gaaganti@
+@to reduce@|@waañi@
+@to reduced@|@Talaata@
+@to refuse@|@Bañ, gantu@
+@to regret@|@reccu, reécu@
+@to reject@|@geeda@
+@to relieve@|@noppal@
+@to remain@|@des@
+@to remember@|@faateleku@
+@to remove@|@dindi, laali, randal, teegi@
+@to renounce@|@xaacee@
+@to repeat@|@woxaat@
+@to resemble@|@xelmati@
+@to respect@|@fonka@
+@to respond@|@wuyoo@
+@to respond rudely@|@gédda, jaadi, jaani@
+@to rest@|@noppaleku, noppalu@
+@to restrain@|@xañ@
+@to retaliate@|@fipu@
+@to retract@|@weedi@
+@to return@|@baakanti, deeloo, dellu, woñeeku@
+@to return at home@|@ñibbi@
+@to reverse@|@këpp@
+@to ridicule@|@fontoo@
+@to ring worm@|@gëgër@
+@to rinse@|@yalandi@
+@to rinse the mouth@|@galaxndeku@
+@to ripen@|@rënxa@
+@to roast@|@fuur@
+@to roll@|@bóróñ, laxal@
+@to rool on the ground@|@caadi-caadi@
+@to rot@|@nëb, nób@
+@to rub@|@raay, riib@
+@to rub the eye@|@toxoñ@
+@to rule@|@dogal, saytu@
+@to run@|@bór-bóri, bori, daangi-daangi, daw@
+@to run after@|@daaxe@
+@to run helter skelter@|@dangi-dangi@
+@to rush@|@Gaawantu@
+@to salivate@|@yuut@
+@to save@|@musal, musal, sutura, sutura, wollu, wollu, wolu@
+@to say@|@ko, ko, ko, nel, nel, wax, wox@
+@to say nothing about@|@noppi@
+@to scatter@|@tasaare@
+@to scoop@|@buub@
+@to scramble@|@ngiiroo, njiiroo, njiiroó@
+@to scrape@|@xoos@
+@to scratch@|@esen, ooka, ooka, ookatu@
+@to scrowl@|@ñangal@
+@to scrub@|@ragga, sooca@
+@to search@|@kisi-kisi, niit, ut@
+@to search for@|@ut, wut@
+@to see@|@gis, seet, xool@
+@to see each other@|@gisee@
+@to select@|@taanal@
+@to sell@|@jaay@
+@to send@|@ebal, kii, yonni@
+@to send for someone@|@yoonée@
+@to separate@|@taaiy@
+@to set@|@way@
+@to sew@|@ñaw@
+@to shake@|@yëngal@
+@to share@|@biti@
+@to sharpen@|@les@
+@to shave@|@ndel, nel, wat, wat, watu@
+@to shed@|@ruus@
+@to shelter@|@fat@
+@to shine@|@melaxal@
+@to shoe shine@|@siraas@
+@to shop in the market@|@duggo@
+@to shout@|@yuuxu@
+@to shove@|@pomax@
+@to show@|@wan, won@
+@to show off@|@wonewu@
+@to sift@|@seega@
+@to sight@|@seén@
+@to sing@|@woy@
+@to sink@|@diig, suux@
+@to sit@|@toog@
+@to sit down@|@field@
+@to skid@|@mbar, mbarateko@
+@to skim@|@ooyi, ooyi, oy, oy@
+@to slap@|@mbej@
+@to slaughter@|@reendi@
+@to sleep@|@nelaw@
+@to sleep on floor@|@ndëstan@
+@to sleeve@|@maas@
+@to smear@|@dlw@
+@to smell@|@xeeñ@
+@to smell bad@|@xesew@
+@to smoke@|@tux@
+@to smother@|@moppa@
+@to smuggle@|@rawal@
+@to snatch@|@kóf, paka@
+@to sneak@|@yooleeku@
+@to sneeze@|@tisoóli, tissoli@
+@to sniff@|@xeeñtu@
+@to snival@|@ñisabu@
+@to snore@|@xandoor@
+@to solilogy@|@waxtu, woxtu@
+@to soliloquise@|@woxtu@
+@to sound@|@riir@
+@to speak@|@laajte, laajte, laaka, wax, wox@
+@to spend the day@|@endu, yendu@
+@to spend the night@|@fanaan, fanaanal, fanaane@
+@to spin@|@wondaal@
+@to spit@|@tufli@
+@to splash@|@tis@
+@to splay one's legs open@|@ngaapeeku@
+@to spread@|@firi, lal, law, raaca, roy@
+@to sprinkle@|@suy, wis@
+@to squat@|@jonkon@
+@to squeeze@|@nal@
+@to stain@|@gaaka-gaaka, taxa@
+@to stammer@|@bar, dët@
+@to stamp@|@ding-dingi, joggi@
+@to stand@|@taxaw@
+@to stare@|@xoole@
+@to start@|@sañca@
+@to start early@|@njëlu@
+@to steal@|@njiin, njoof, saaca@
+@to steam@|@muusal, tang@
+@to step on something@|@dégaat@
+@to stick@|@taf, tapa@
+@to still have@|@dese@
+@to stood@|@loota@
+@to stop@|@tees@
+@to straddle@|@war@
+@to stretch@|@nooy@
+@to stretch oneself@|@fuddu@
+@to strike@|@gerew@
+@to strike on the head@|@ong@
+@to strike with backhand@|@bitiloxo@
+@to stuff@|@ñuux@
+@to stumble@|@fakatalu@
+@to succeed@|@teeki@
+@to suck@|@moca@
+@to suckle@|@nampa@
+@to support@|@attan@
+@to surprise@|@jaaxal@
+@to surround@|@sëm@
+@to swallow@|@wana, warax, wona@
+@to swear@|@giñ, waat@
+@to sweat@|@ñaqq@
+@to sweep@|@fita@
+@to swim@|@noo@
+@to swin@|@feey@
+@to take@|@bii, bii, jël, yoóbu@
+@to take a bite@|@ngapati, ngopati@
+@to take a rest@|@fiixlu, nopalu@
+@to take a small bit@|@compa@
+@to take a walk@|@doxantu@
+@to take abite@|@ngaañ@
+@to take air@|@feexlu@
+@to take care of@|@faj, toopatoo@
+@to take charge@|@jiité@
+@to take out@|@geénee@
+@to take sides@|@faral, fétéé@
+@to tan@|@wulli@
+@to taste@|@mos, ñam@
+@to teach@|@jangale@
+@to tear@|@xooti@
+@to tease@|@ñaawal, njoos, tooñ@
+@to tell@|@nettali@
+@to tell off@|@xas@
+@to tend sheep@|@saami@
+@to terminate@|@neef@
+@to thank@|@Gërëm, ngëmande, sant, sant@
+@to that@|@ne@
+@to think@|@fog, foog, xalaat@
+@to thread@|@nas@
+@to thresh@|@baaca, lii@
+@to throw@|@saani, sani, wal, wal, weng@
+@to throw with fare@|@cooral@
+@to tickle@|@raf@
+@to tie@|@jënga, takka, waatiir@
+@to tilt@|@moyal@
+@to touch@|@laal, laamba, maa@
+@to train@|@yar@
+@to translate@|@tekki@
+@to trap@|@tër@
+@to travel@|@woyaas@
+@to tremble@|@kar-kari, kar-kari, kof-koffi, lox@
+@to trespass@|@tooñ@
+@to trouble@|@tapaas@
+@to trust@|@oólu@
+@to try@|@jeem, koli-koli, kotor-koto@
+@to turn@|@olbati, ruuj, xeelu@
+@to turn a corner@|@jaada@
+@to turn back@|@deppa, dóppa@
+@to unbend@|@bijanti@
+@to uncover@|@dipi, muuril@
+@to undermine@|@ronu@
+@to undress@|@futi, simmeeku@
+@to unhook@|@aaji@
+@to unload@|@eebi@
+@to unstuff@|@ñuxi@
+@to uproot@|@buddi, suxi@
+@to upside down@|@juutal@
+@to urinate@|@Gaanuwaay, saw, seben@
+@to urinate on onself@|@sebenu@
+@to vaccinate@|@ñakku, njënda, njënda@
+@to veil@|@waal@
+@to volumteer@|@waakirlu@
+@to volunteer@|@walanteeru@
+@to vomit@|@gala, wacu, wocu@
+@to vote@|@wote@
+@to wager@|@gase@
+@to wait@|@neg, xaar@
+@to wait for@|@gaapa, haar@
+@to wake someone up@|@ee, yee@
+@to wake up@|@yeewu@
+@to walk@|@dox, leru, taama, taama, yuus-yaas@
+@to walk fastly@|@farax-raxi@
+@to walk quickly@|@waaxu@
+@to walk very slow@|@Daagu@
+@to walk with@|@doxee@
+@to wander@|@wór, yaay@
+@to want@|@Bes, bugga@
+@to warm oneself@|@jaaru@
+@to wash@|@laab, raxas, sanggu@
+@to wash clothes@|@gumpa, guppa@
+@to wash oneself@|@raxasu@
+@to wash rice@|@sebet@
+@to wash the face@|@sël6em@
+@to watch@|@seetaan, xool@
+@to water@|@roose, tanxa@
+@to weave@|@raaba, rabb@
+@to weigh@|@peese@
+@to welcome@|@teertu@
+@to wet@|@daas, gaas@
+@to win@|@Daan@
+@to wink@|@piis@
+@to winnow@|@bees@
+@to wipe@|@fomp, fompa, fómpu, ngeeteeku@
+@to wish@|@Sunnu Buga Buga@
+@to wish whole heartedly@|@éené@
+@to witness@|@teewee@
+@to work@|@ligeey, ligeéy@
+@to work in afternoon@|@gontu@
+@to worship@|@dagaan, jaamu@
+@to wound@|@gaañ@
+@to wrap@|@lomas@
+@to wriggle@|@luux-luuxi@
+@to wristle@|@wolis@
+@to write@|@biir, biir, binda, fitaxu, rëdda@
+@to yawn@|@bóóbali, obbëli, óbbëli@
+@tobacco@|@poon@
+@today@|@bii@
+@Today@|@tey@
+@toes@|@Barami Tanca@
+@toilet@|@kama, wanag@
+@toilet paper@|@ngeeteekukaay@
+@toilets@|@Wanak@
+@tomato paste@|@tomaate-loxati@
+@tomatoes@|@tamaate@
+@tomorrow@|@Elak, elak, ëllëk, suba, subba@
+@Tomorrow@|@elaik@
+@Tomorrow morning@|@Elak-ci-suba@
+@tom-tom@|@tama@
+@tongue@|@laameñ, lammiñ@
+@Tonight@|@Tey-ci-gudi@
+@too@|@it@
+@too big@|@ep@
+@tool@|@suti@
+@tooth@|@begg, bóñ@
+@tortoise@|@mbonaat@
+@tourist@|@tooris@
+@trader@|@jula@
+@tradition@|@cosaan@
+@train@|@otoraay, saxaar@
+@Train@|@Ottorai@
+@transaction@|@duggoo@
+@translation@|@firndé@
+@trash@|@mbalit@
+@tree@|@Garab@
+@tribe@|@firdu, xeet@
+@trick@|@pexe@
+@tripe@|@mbaaxa@
+@trough@|@mbalka@
+@trousers@|@tubey@
+@truely@|@lënxa@
+@try the most on can do@|@kem-kattan@
+@tuesday@|@Taalata@
+@Tuesday@|@Talaata@
+@tuna@|@waxandor@
+@Turkey@|@kóopin@
+@turtle@|@nduumaar@
+@twelve@|@fuka ak nyaar, fukk ak ñaar@
+@Twelve@|@Fuka Nyaar@
+@twenty@|@ñaar-fukk, nyaar fuka@
+@twenty six@|@ñaar-fukk ak juróom-benn@
+@twenty-one@|@nyaar fuka ak bena@
+@Twenty-one@|@Nyaar-Fuka-Bena@
+@twenty-two@|@Nyaar-Fuka-Nyaar@
+@twilight@|@timis@
+@two@|@ñaar, nyaar, yaar@
+@type@|@fasong@
+@ugly@|@ñaaw@
+@umbilical cord@|@xuca@
+@umbrella@|@palansoor, palasoor@
+@uncle@|@nijaay@
+@under@|@ron, suuf@
+@under water@|@suwetmaa@
+@underwear@|@genso, jiital@
+@unit of currency@|@dalasi, dérém@
+@united@|@donkaasi, mankoo@
+@university@|@iniwersité@
+@unsmooth@|@ñagas@
+@unstuffed@|@ñuxti@
+@until@|@be@
+@until now@|@Batey@
+@unwanted@|@lamba@
+@up@|@kaw@
+@Up@|@chi kow, kow@
+@upside down@|@juutu@
+@urgent@|@jamp@
+@urine@|@saw@
+@us@|@dañu, ñun@
+@used for scrubbling@|@xiis@
+@usual@|@meena@
+@utility@|@njariñ@
+@vaccinate@|@penku@
+@vaccine@|@njënda@
+@vagina@|@caapa, lëf@
+@value@|@wulóor@
+@van@|@waan@
+@Vegetable@|@Leguum@
+@vegetables@|@lëjum@
+@Vegetarian@|@bu dul yapp@
+@vehicle@|@moto, oto, woto@
+@verb predicator 1st p.s.@|@dama@
+@verenda@|@perong@
+@verse in the Quran@|@saar@
+@very@|@kak, këng, law, law, lew, lew, lool, set, tek, tek, torop@
+@very black@|@kuk@
+@very red@|@coy, cur@
+@very solid@|@këcc@
+@victory@|@ndam@
+@village@|@dëkk@
+@violin@|@riiti@
+@voice@|@baat, bat@
+@vulture@|@tan@
+@waif@|@doxandéem@
+@waist@|@ndigga@
+@wait@|@nég@
+@wake someone up@|@ee@
+@walking@|@bañar-bañari@
+@wall@|@maraaj@
+@wall gecko@|@unka@
+@war@|@xare@
+@warrior@|@jambaar@
+@washing pan@|@beñuwaar@
+@wasp@|@nguri@
+@water@|@ndoh, ndox@
+@water container@|@ndaa, ndaal@
+@water lilly@|@mbaapa@
+@watermelon@|@beref@
+@watery@|@ndoxe@
+@waves@|@gandax@
+@way of dress@|@colin@
+@we@|@leñu, ñu, ñu, ñun, nyun, nyunn@
+@we will@|@dineñu@
+@weapon@|@gaanaay@
+@weaver@|@raabakat@
+@wedding@|@sëy@
+@wedding ceremony@|@céét@
+@wednesday@|@aalarba, aaralba@
+@Wednesday@|@Alarba, Allarba@
+@week@|@Bes Bu Aay@
+@Week@|@bes bu eye@
+@welcome@|@sarga, sërica@
+@well@|@téen@
+@west@|@sowu@
+@wetness@|@tooyaay, tooye@
+@whale@|@mbonkana@
+@what@|@lan, noo@
+@What is this?@|@lee lan la?@
+@What is your name?@|@naka nga tuda, Naka nga tudd(a)?, Noo tudd(a)*?@
+@What is your name? (1)@|@lan moy sa turr, Nakaga Tuda?@
+@what is?@|@luy@
+@What time is it?@|@Ba waxtu o jot?, Ban Waatu?@
+@what you@|@loo@
+@what?@|@lan@
+@What's new?@|@Lu bees ?@
+@What's up?@|@Naka mu ?@
+@wheel barrow@|@buruwet, puus-puus@
+@when@|@kañ, su@
+@When do we meet again?@|@Kanyi Lango Tase Waat?@
+@When do we see you again?@|@Kanyi Lanyo Gise Waat?@
+@where@|@ana, fan, foo, foo, fu@
+@Where are you going?@|@fan ngaa dem?, Foy-Dem?@
+@Where do you live?@|@fan nga daika@
+@Where is ...?@|@fan la.....?@
+@where is it@|@anam@
+@Where is my room?@|@Ana sama nek?, Ana suma neeg bi?@
+@Where is the bar?@|@Ana juyukai naan/saangara bi?, Fou "bar" bi nek?@
+@Where is the bathroom?@|@ana wonak bi, fan la wonak bi neka@
+@Where is the beach?@|@Ana taati perreh bi?, Fou teifess bi nek?@
+@where is?@|@ana?, fuy@
+@where?@|@fu@
+@which@|@ban, gu, jumaa@
+@which is@|@bu@
+@which one?@|@yan?@
+@while ago@|@sanxa@
+@whip@|@kaacciri@
+@whiskers@|@mustaas@
+@white@|@weeh, weex@
+@white wash@|@balanse@
+@who@|@kan, ku@
+@who is@|@kuy@
+@who?@|@kooku@
+@whooping@|@njambataan, xuréet@
+@whooping cough@|@njaambataan@
+@why?@|@lutax@
+@wife@|@jabar, jabarr, soxna@
+@wild cat@|@siiru@
+@will@|@Sunnu Buga Buga@
+@window@|@palanteer@
+@wine@|@sanggara@
+@Wine@|@sangara@
+@wine of palm@|@sëng@
+@wing@|@laaf, ngelaw@
+@winnowing basket@|@tenteng@
+@wire gauze@|@giriyaa@
+@witch@|@dëma, dóma, xulaan@
+@with@|@Ak@
+@witness@|@seede, sernde@
+@wizard@|@nooxoor@
+@wolof@|@jolof-jolof, olof, wolof@
+@Wolof alphabet@|@liifantu wolof@
+@wolof dish@|@benacin@
+@woman@|@jigeen, jigéen@
+@wood@|@Bant@
+@woodworker@|@lawbe@
+@word for calling a cat@|@muus@
+@work@|@ligeey@
+@work early in the morning@|@xéy@
+@work end@|@takkusaan@
+@worker@|@ligeeykat@
+@workshop@|@ataliye@
+@world@|@Adduna@
+@worm@|@marmaraan, saan@
+@worn-out@|@rapp@
+@worry@|@fitna@
+@wound@|@gaañu gaañu@
+@wraper@|@mallam, monaam@
+@wrapper@|@lomosuwaay@
+@wrestler@|@mbor@
+@wrestling@|@laamba@
+@writer@|@bindakat@
+@writing@|@mbind@
+@yam@|@ñambi@
+@yard@|@yaar@
+@Year@|@at@
+@year before last@|@daaw jéeg@
+@yellow@|@nete@
+@yes@|@naam, waaw@
+@yesterday@|@déemba, demb, demba@
+@Yesterday@|@daimba@
+@yo cross@|@jaala@
+@you@|@danga, i, i, i, ite, ite, nga, yaa, yaw, yow@
+@you (pl)@|@dangeen, yen@
+@you (plural)@|@ngeen@
+@you are@|@danga, yangi@
+@you will@|@dinga@
+@you will (plural)@|@dingeen@
+@you'll not@|@doo@
+@young man@|@woxambaane@
+@young shoot@|@gancax@
+@younger brother@|@rakk@
+@younger sibling@|@rakk, rakka@
+@your@|@sa, seen@
+@yours@|@Sa-bos@
+@zero@|@dara (nothing), neen, sero, tus, zéro (French)@
+@zero (1)@|@daara@
+

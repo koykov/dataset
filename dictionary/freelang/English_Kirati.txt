@@ -1,0 +1,398 @@
+@English@|@Kirati@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a k. of bird@|@wa@
+@a k. of edible root@|@'kè@
+@a k. of gourd@|@'kä'n@
+@a k. of insect@|@mùn-ti@
+@a k. of small animal@|@jícu, júcä@
+@a large vessel@|@cam, cam'c-@
+@above@|@àng, ghàng@
+@all@|@jv-n, khàl@
+@ankle@|@läng@
+@answer@|@dän, dhän@
+@ant@|@gràk-ma@
+@anus@|@'thu, thu@
+@appear@|@bhó-ks, bó@
+@appetite@|@wä'r@
+@arm@|@lak@
+@armpit@|@lám@
+@arrow@|@bhlà, blì, là, lì@
+@ashes@|@'púlu@
+@ask@|@sìng@
+@bake@|@'pù, cä@
+@bamboo@|@'pa@
+@banana@|@lè-ngok-si@
+@bark@|@kru, sv, svk@
+@barking deer@|@i-sä, khi-sä@
+@basket@|@'käp, käp@
+@bat@|@pákti@
+@be@|@na@
+@be able@|@lù, suk@
+@be short as garment@|@tong@
+@bear@|@wäm@
+@beat@|@thä'p@
+@bee@|@jang@
+@belly@|@'pók, dúk-ha@
+@bent@|@kum@
+@birth@|@'ki, 'kik, gi, gik@
+@bit@|@bä'k, bhä'k, pä'k@
+@bitter@|@khä, khä-s@
+@black@|@ké-, xé-@
+@blood@|@hì@
+@blow@|@mùt@
+@body hair@|@mù@
+@bone@|@gù, gùt, rùs, rùt@
+@bottom@|@dhäiv, dhiv@
+@break@|@phä'k, rop, rp@
+@breast@|@kwam@
+@breathe@|@säk@
+@brush@|@khi, khit@
+@burn@|@èm, hát, ti, tin, wãl, wèm-p@
+@buy@|@lòk@
+@catch with claws@|@'c-, cék@
+@change@|@lék, léng@
+@cheek@|@'k, 'kèl, kèl, kl, phò-su, tang@
+@chew@|@lèm@
+@child@|@'cä', 'p-, bak, bk@
+@circle@|@wang@
+@claw@|@sèn-d, sèn-dut@
+@clear@|@sèng@
+@close@|@cíp@
+@cloth@|@bhãn@
+@clothes@|@wà, wàs@
+@coire@|@lè@
+@cold@|@chik, gám, gäm, ik, phòm@
+@come@|@'pi, 'pin, ek, the, thek@
+@complete@|@'c-, ch-, sut@
+@conceal@|@'c-, -m, cvp@
+@convent@|@dèl@
+@cool@|@ji, jil@
+@cough@|@khv, khvk, sò, sòng@
+@cousin@|@ngòp-cä@
+@cover@|@'käp, dep, dhep@
+@covet@|@lom@
+@crab@|@ghrã@
+@crooked@|@'khung, 'kng, ghk, ghng, ghuk, ghung@
+@crop-damaging insect@|@ber, ber-mä@
+@cry@|@xräp, xräp@
+@dark@|@mak, mãk, sèn-@
+@darkness@|@sèm@
+@decay@|@'c-, cèm@
+@deep@|@ghlm, ghlùm@
+@deer@|@sä'@
+@demonstrative pronoun@|@'à-, na-@
+@descend@|@ju@
+@desire@|@rim@
+@deviate@|@'o, 'ol@
+@dew@|@näng@
+@die@|@si@
+@difficult@|@cek, ck@
+@dig@|@dhä'@
+@dirt@|@'è-s@
+@dog@|@hu, huk, huks, khlè@
+@draw@|@brek, rek@
+@draw water@|@wäp@
+@dream@|@mäk, mäng@
+@drink@|@dhúm, dúm@
+@drip@|@sèk@
+@drive@|@kòl@
+@dry@|@dhvng, he, her, sãng, sãngs@
+@dumb@|@'ä, ä@
+@dung@|@phùr, xlì@
+@dust@|@tòl@
+@ear@|@ñä@
+@earth@|@'kä@
+@easy@|@lè-ba@
+@eat@|@'jä, jo@
+@egg@|@'tì, pum, pup@
+@eight@|@rét@
+@elder female relative@|@nã, ní@
+@empty shell@|@hák, háng@
+@end@|@bek, dhúm, dhúm, dhúms, dúm, dúms, úm, úms@
+@enter@|@nèm, nèp, nm, np@
+@eye@|@mìk@
+@face@|@jói, jóli, ngán@
+@fall@|@gol@
+@far@|@chù@
+@fart@|@'pi, 'pik@
+@fast@|@nãr@
+@fasten@|@phèr@
+@fat@|@cho, chot@
+@father@|@pa, pap@
+@feel@|@'kem, khem@
+@female@|@bìn@
+@fence@|@khòr, xòr@
+@few@|@jak-ki@
+@field@|@ja@
+@fight@|@thúk, úk@
+@fill@|@dems, dhems@
+@fire@|@mì@
+@fire-place@|@ãp, dãp@
+@fish@|@ngä@
+@five@|@nga, ngä@
+@flea@|@cukikpa@
+@flour@|@'c-, zäp@
+@flower@|@phùng@
+@fly@|@bhèr, phläm, sù@
+@fold@|@p-lap, ph-@
+@four@|@bhali, bhlí@
+@fragile@|@bhrói, brói@
+@fresh@|@hing, hring@
+@frost@|@jhùng@
+@fruit with kernel@|@'kham, kham@
+@fry@|@kang@
+@full@|@blìng@
+@garlic@|@khok, kok@
+@garment@|@phék@
+@gather@|@'cup, 'prót, ä'k, cup, cups, prót, tä'k@
+@give@|@'kãp, bì, bì, kãp, kham, kham, khams, lä, läs@
+@glow@|@thak, thok, thuk@
+@go@|@wòng@
+@goat@|@gró, grók@
+@good@|@bhong-pe, bhu-pe, däk, däkng, dók, nù@
+@grass@|@su@
+@grease@|@sen-@
+@green@|@phï@
+@grind@|@thák@
+@growl@|@ngar@
+@grunt@|@ngok@
+@hair@|@murik@
+@hair of head@|@säm@
+@hand@|@khvr@
+@hatch@|@ghlùm@
+@hawk@|@mu@
+@head@|@dhä', dhä'ng@
+@hear@|@nì, nìs, ò, òs, thò, thòs@
+@heart@|@cv-ba, cvp-ba, lùng, ning, sãm@
+@heat@|@ghrv@
+@heavy@|@li, lis@
+@hold in mouth@|@'käm, 'um@
+@hole@|@bhúk, bhúk-s@
+@horn@|@grãn, rãn@
+@hot@|@chò, chò-s@
+@house@|@'gìm, 'kìm@
+@I@|@'òng, gòng@
+@ill@|@ñò@
+@inhale@|@hóp@
+@interior@|@go, gong@
+@interrogative pronoun@|@má-, su@
+@itch@|@jà, jàk@
+@join@|@khop@
+@jungle@|@nám@
+@kick@|@thék@
+@kidney@|@khìng@
+@kill@|@sét@
+@kinship term@|@bá, bä, bã, phäng@
+@knee@|@po@
+@knock@|@dhúk, dhúngs@
+@know@|@'käk, 'käng, se-, sen@
+@laugh@|@rít, ríts@
+@leaf@|@lä, läm, phäk@
+@leather@|@'kák@
+@leech@|@bhén, bhét, lút@
+@left@|@pe-ng@
+@leg@|@khän-@
+@leopard@|@sík-ba@
+@level@|@dhém, ém@
+@lick@|@lák@
+@lie@|@xlam@
+@light@|@dek, jang, jang@
+@liver@|@seng@
+@load@|@'kùr, kùr@
+@long@|@'tan, song-pa@
+@look after@|@ku@
+@louse@|@s-rik, sèr@
+@make@|@ha, has@
+@male@|@àt-cä', la-, wàt-cä'@
+@man@|@ba, bä, bha, bhä, bho, bo@
+@meat@|@nvk, sä'@
+@milk@|@cù@
+@mix@|@phòl@
+@moon@|@lä@
+@mother@|@ma@
+@mound@|@ghu, ku@
+@mountain@|@jhe-s@
+@mouth@|@kam@
+@much@|@dv@
+@musk-deer@|@'tò-la@
+@name@|@mìng, nìng@
+@narrow@|@khíp, xíp@
+@near@|@né@
+@neck@|@poi, tvk@
+@nest day@|@nak@
+@new@|@cang, cang'c-, lìm, lìm, ní-, nú-@
+@nine@|@ghú@
+@nipple@|@n, nu@
+@nose@|@nä@
+@numerous@|@sä'r@
+@offend@|@kúk@
+@oil@|@mer@
+@one@|@'i, 'it, 'tik-, thik, thk, tk-@
+@pack@|@tãk@
+@patch@|@'pä, 'pä-n@
+@paw@|@brep-co@
+@penis@|@bh-lè@
+@person@|@mi, mu-r, nam, nap@
+@phlegm@|@khák@
+@pick@|@chp, chup@
+@pig@|@'päk@
+@pile up@|@cìr@
+@pillow@|@kom, long@
+@pinch@|@ñap@
+@pit@|@lum@
+@placenta@|@jang@
+@plant@|@cúk@
+@play@|@cãm, cãp, cvt, cvt'c-@
+@porcupine@|@'kä-@
+@pour@|@jhòr, pén, pét@
+@powerful@|@le@
+@prohibit@|@krìm@
+@pull out@|@lót@
+@pus@|@nek@
+@put on@|@go, gon@
+@rain@|@wä@
+@rasp@|@ãt, krãt@
+@raven@|@gá, gák@
+@recover@|@sat, sats@
+@red@|@häl, n'u, n'un@
+@remember@|@mìm@
+@request@|@ñak@
+@rest@|@nã, nãs@
+@rice@|@bra-m@
+@ripe@|@mìn@
+@rise@|@gät, khät, ngo-@
+@roar@|@krùk@
+@rob@|@khù, khùs@
+@rock@|@bräk, räk@
+@root@|@sam@
+@rope@|@rì@
+@round@|@pv, ril@
+@rub@|@núk, núks@
+@salt@|@rùm@
+@sand@|@se-krem@
+@say@|@lút@
+@scatter@|@bär, bhär'p-@
+@scold@|@cìl@
+@scoop@|@'k-, kòr@
+@season@|@l, lo@
+@seed@|@lej, li, r, r, ri, ri, sit@
+@seize@|@thùm, thùms@
+@send@|@phèng, phèngs@
+@separate@|@phák@
+@shade@|@kám@
+@shadow@|@rìm, rìp@
+@shame@|@jak@
+@she@|@'ko, 'kon, ko, kon@
+@shell@|@khrä'p, sip-präk@
+@shift@|@jàng@
+@short@|@mo-songpe@
+@shoulder@|@bhák@
+@side@|@phär, póm, póng@
+@sinew@|@sä'@
+@sing@|@lu@
+@singe@|@läp@
+@sink@|@tãm@
+@sit@|@pen-, yung-ma'@
+@six@|@rúk@
+@sjin defect@|@cùr@
+@sky@|@näm@
+@sleep@|@'im, 'ips, ip@
+@slice@|@xlép@
+@small@|@'imi-, ci, mi-@
+@small bird@|@cík@
+@smell@|@'kùn, näm, näm-s@
+@smoke@|@mösysom@
+@snake@|@phu-, ral-@
+@soak@|@mók, móng@
+@solid@|@'tèn, thèn@
+@son-in-law@|@mak, mäk, mok@
+@sour@|@jhùr@
+@sow@|@ñep@
+@speak@|@brän, brät, lä@
+@speech@|@'ka, ka@
+@spirit@|@lä'@
+@spit@|@'thúk, 'thúks, thúk, thúks@
+@spleen@|@bhä'@
+@split@|@jhék@
+@squeeze@|@'ip@
+@stand@|@r'ép@
+@star@|@'kar, sang@
+@stone@|@lùn@
+@strain@|@sur@
+@strip@|@khók@
+@suck@|@cùp, phíp@
+@sun@|@nä'@
+@sure@|@thä'k, thä'ng@
+@swallow@|@'tùng@
+@swam@|@rù@
+@sweat@|@ghàl@
+@sweep@|@phík@
+@sweet@|@lèm@
+@swim@|@wa-jak-ma'@
+@swing@|@khäl, xäl@
+@tail@|@mé@
+@taste@|@brang, brangs, mrang@
+@that@|@m, mè@
+@thick fluid@|@'c, 'cì@
+@thin@|@sãm, sãp@
+@think@|@min, n'ir, ngvm@
+@this@|@'è, tv-@
+@thorn@|@cù, cùting@
+@thou@|@'inã, ginã@
+@three@|@súm@
+@through@|@khong@
+@throw@|@'äp@
+@tick@|@thùng@
+@tie@|@'pát, 'pát-n@
+@tiger@|@keba@
+@time@|@òng, thò, thòng@
+@to add@|@ghäm@
+@to climb@|@ling, líng@
+@to go@|@khwat, lá@
+@to loosen@|@plut, plut-s@
+@to make@|@cok@
+@to pick up@|@'kup, ghup, gup, kup@
+@to pull out@|@làt@
+@to sink@|@plùm@
+@to split@|@'cet@
+@to stay@|@mùn@
+@tooth@|@ka, kang, wa@
+@top@|@'pú-j, thèm@
+@touch@|@bän, bhän@
+@tree@|@bhvng, bvng, sìng@
+@tuck up@|@sing'c-, sing'ch-@
+@tumulus@|@bhä'r@
+@turn over@|@'puk, khlók, xlók@
+@turn round@|@xìr@
+@twist@|@'kek, ek@
+@two@|@ní, ník@
+@uncle@|@k, kù@
+@understanding@|@chè-k, chè-n, chè-s@
+@upper part of foot@|@'pal, phal@
+@urine@|@'ce, 'ces@
+@vast@|@bhä, bhäp@
+@vomit@|@bas, bha, pa, pas@
+@warm@|@lúm, lúp@
+@wash@|@sèi@
+@water@|@cwa'l, dhì, kù@
+@way@|@lam@
+@weave@|@'täk@
+@weed@|@s@
+@weigh@|@thak, thang@
+@what@|@he@
+@whisper@|@supi-@
+@white@|@bù, bùk, kulung om-lö-pa@
+@who@|@abo@
+@wide@|@lung@
+@wind@|@pha-še@
+@wing@|@láp, lp@
+@woman@|@mè, mèn@
+@womb@|@hang, hi-lum, lum, lum, nga, ngal, xang@
+@worm@|@'pu, bhu@
+@wring@|@sóp@
+@yawn@|@kàkam, kàkamä@
+@year@|@ning@
+@yellow@|@sèl, wä'@
+@young@|@sòn@
+

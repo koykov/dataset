@@ -1,0 +1,214 @@
+@English@|@Ponapean@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@above@|@powe@
+@all@|@koaros@
+@and@|@oh@
+@ash@|@pehs@
+@at@|@ni, nin@
+@back@|@pohn sowe, sowe@
+@bad@|@sakanakan, suwed@
+@belly@|@kapehd@
+@below@|@pah@
+@big@|@laud@
+@bird@|@menpihr@
+@black@|@toantoal@
+@blood@|@nta@
+@bone@|@tih@
+@branch@|@rah@
+@breast@|@dihdi@
+@child@|@seri@
+@cloud@|@depwek@
+@cold@|@kopou@
+@correct@|@pwung@
+@day@|@rahn@
+@dirty@|@pwelipwel@
+@dog@|@kidi@
+@dry@|@mad@
+@dull@|@kons@
+@dust@|@pwelipar@
+@ear@|@saleng@
+@earth@|@pwehl@
+@egg@|@damango, kutohr@
+@eye@|@pwoarenmas@
+@far@|@doh@
+@fat@|@wih@
+@father@|@pahpa, sahm@
+@feather@|@wine@
+@fire@|@ahi@
+@fish@|@mwahmw@
+@flower@|@kapwat@
+@fog@|@toahkoi@
+@four@|@pahpa@
+@fruit@|@wah@
+@good@|@mwahu@
+@Good afternoon@|@Souwas mwahu@
+@Good evening@|@Soutik mwahu@
+@Good morning@|@Menseng mwahu@
+@Good night@|@Pwohng mwahu@
+@Goodbye@|@Kaselehlia@
+@grass@|@dihpw, reh@
+@green@|@pohndipw@
+@hair@|@pitenmoang@
+@hand@|@lime@
+@he@|@ih@
+@head@|@moahng@
+@heavy@|@toutou@
+@hello@|@Kaselehlia@
+@house@|@ihmw@
+@how?@|@dahduwe@
+@husband@|@pwoud@
+@I@|@ngehi@
+@if@|@ma@
+@in@|@loale@
+@intestines@|@kepwe, pwise@
+@lake@|@leh@
+@leaf@|@teh@
+@left@|@palimeing@
+@leg@|@neh@
+@lightning@|@ipihp, lioal@
+@liver@|@eh@
+@long@|@anged, reirei@
+@louse@|@likarak@
+@man@|@ohl@
+@meat@|@uduk@
+@moon@|@maram, sounpwong@
+@mosquito@|@amwise@
+@mother@|@ihn, nohno@
+@mouth@|@ahu@
+@My name is@|@Edei@
+@name@|@ahd@
+@narrow@|@tehtik@
+@near@|@keren@
+@neck@|@tepinwere, were@
+@needle@|@dikek@
+@new@|@kapw@
+@night@|@pwohng@
+@No@|@Soh@
+@nose@|@tumwe@
+@old@|@mah@
+@one@|@ehd@
+@other@|@teri@
+@painful@|@medek@
+@person@|@aramas@
+@rain@|@keteu@
+@rat@|@kitik@
+@red@|@weitahta@
+@right@|@palimaun@
+@road@|@ahl@
+@root@|@kaleu, kalo@
+@rope@|@sahl@
+@rotten@|@mat, mwokuhr@
+@salt@|@soahl@
+@sand@|@pihk@
+@sea@|@sehd@
+@sharp@|@keng@
+@she@|@ih@
+@short@|@mwotomwot@
+@shoulder@|@pwopwe@
+@shy@|@lahng, mwomwitik@
+@skin@|@kihl@
+@small@|@pwidikidik@
+@smoke@|@adi@
+@snake@|@sinek@
+@spider@|@likan@
+@star@|@usu@
+@stick@|@tuhke@
+@stone@|@takai@
+@tail@|@iki, pwaidai@
+@Thank you@|@Kalahngan@
+@that@|@-o, en@
+@thatch@|@oahs@
+@they@|@ihr@
+@thick@|@mosul@
+@thin@|@menipinip@
+@this@|@e, et@
+@thou@|@kow, kowe@
+@three@|@siluh@
+@thunder@|@nahnsapwe@
+@to bite@|@ke, ngalis@
+@to blow@|@ipihp@
+@to breathe@|@esingek@
+@to burn@|@isik@
+@to buy@|@natihada@
+@to chew@|@rukoa@
+@to choose@|@pil@
+@to climb@|@daur, dou@
+@to come@|@koh-@
+@to cook@|@inim@
+@to count@|@wadek@
+@to cry@|@seng@
+@to cut@|@sepe@
+@to die@|@mehla@
+@to dig@|@weir@
+@to dream@|@ouremen@
+@to drink@|@nim@
+@to eat@|@kang@
+@to fall@|@lempehdi, pwupw@
+@to fear@|@masak@
+@to flow@|@pwil@
+@to fly@|@pihr@
+@to grow@|@os@
+@to hear@|@rong@
+@to hide@|@ruk@
+@to hit@|@keme@
+@to hold@|@kol@
+@to kill@|@kemehla@
+@to know@|@ese@
+@to laugh@|@kouruhr@
+@to lie down@|@wohnohn@
+@to live@|@mour@
+@to open@|@riting@
+@to plant@|@poadok@
+@to pound@|@suk@
+@to say@|@dene, nda@
+@to scratch@|@karipwude@
+@to see@|@kilang@
+@to sew@|@dehk, deidei@
+@to shoot@|@kasikih@
+@to sit@|@mwohd@
+@to sleep@|@meir@
+@to sniff@|@ned@
+@to spit@|@kendip@
+@to split@|@pwaik@
+@to squeeze@|@ingidpene, wengid@
+@to stab@|@doakoa, katuk@
+@to stand@|@kesihnen, uh@
+@to steal@|@kawai, pirapa@
+@to suck@|@kuhl@
+@to swell@|@mpwosada@
+@to swim@|@pap@
+@to think@|@madamadau@
+@to throw@|@kese@
+@to tie up@|@pire, salih@
+@to turn@|@wikidek@
+@to vomit@|@mmwus@
+@to walk@|@alu@
+@to work@|@doadoahk@
+@to yawn@|@maudel@
+@tongue@|@lahu, loh@
+@tooth@|@ngih@
+@two@|@ria-u@
+@warm@|@karakar@
+@water@|@pihl@
+@we@|@kiht@
+@wet@|@wisekesek@
+@What is your name?@|@Ia edemw?@
+@what?@|@dah@
+@when?@|@iahd@
+@where?@|@iawasa@
+@white@|@pwetepwet@
+@who?@|@ihs@
+@wide@|@tehlap@
+@wife@|@pwoud@
+@wind@|@ahng@
+@wing@|@peh@
+@woman@|@lih@
+@woods@|@namwel, wahl@
+@worm@|@kamwetel@
+@year@|@pahr, sounpahr@
+@yellow@|@oangoahng@
+@Yes@|@Eih@
+@you@|@kumwail@
+@You're welcome@|@Komw dehr kupwurohki@
+

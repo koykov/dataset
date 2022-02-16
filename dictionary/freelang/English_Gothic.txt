@@ -1,0 +1,2780 @@
+@English@|@Gothic@
+@Author name@|@Guy T. Gambill@
+@Font@|@Arial\12\Arial\12@
+@(particle)@|@ubuh = uf enclitic particle uh@
+@(prefix)@|@ga-, prefix@
+@a certain one@|@sums, indef. pr.@
+@a fuller@|@wullareis, sm.@
+@a grain of corn@|@kaúrnô, sn.@
+@a rising@|@ur-runs, sm.@
+@abase@|@ga-hnáiwjan, wv., hnáiwjan, wv.@
+@abide@|@saljan, wv.@
+@able: be ~@|@magan, pret.-pres.@
+@abode@|@bauáins, sf.@
+@abolish@|@bláuþjan, wv.@
+@about@|@bi, swê, adv. and conj.@
+@about to be@|@skulan, pret.-pres.@
+@about to occur@|@at-nê£jan, wv.@
+@about: go ~@|@bi-tiuhan, sv.@
+@above@|@iupa, ufar, prep. c. acc. and dat., ufarô, adv. above@
+@above: from ~@|@iupana, iupaþrô@
+@abrogate@|@bláuþjan, wv.@
+@abstain from@|@ga-þarban, wv.@
+@abundance@|@managdûþs, sf., ufar-fulle wf.@
+@abundant@|@ufar-fulls, adj.@
+@accept@|@miþ niman, niman, sv.@
+@acceptable@|@anda-nêms, adj.@
+@accomplishment@|@waúrstw, sn.@
+@account@|@raþjô, wf.@
+@account of@|@faúra@
+@accurately@|@glaggwô, adv.@
+@accusation@|@faírina, sf., us-qiss, sf., wrôhs, sf.@
+@accuse@|@faírinôn, wv., wrôhjan, wv.@
+@accusmed@|@bi-ûhts, adj.@
+@acknowledge@|@uf-kunnan, wv.@
+@acrid@|@báitrs, adj.@
+@action@|@dêþs, sf.@
+@add@|@ana-áukan, sv., áukan, sv., bi-áukan, sv.@
+@adder@|@nadrs, sm.@
+@adj. wary@|@war@
+@adjure@|@bi-swaran, sv.@
+@adjust@|@ráisjan, wv.@
+@administer@|@reikinôn, wv.@
+@adoration@|@áistan, wv.@
+@adorn@|@raetew(i)an@
+@adulteress@|@hôrinônde pres. part. fem.@
+@adultery@|@hôrinassus, sm., kalkinassus, sm.@
+@adultery: committ@|@hôrinôn, wv.@
+@advantage@|@bôta, sf.@
+@advent@|@qums, sm.@
+@adversary@|@anda-staþjis, sm.@
+@advise.@|@râtan@
+@affair@|@waíhts, f.@
+@affliction@|@aglô, wf., wunns, sf.@
+@afraid@|@faúrhts, adj.@
+@after that@|@bi-þêh, adv.@
+@aftermost@|@aftumists, adj.@
+@afterward@|@bi-þê conj., bi-þêh, adv.@
+@again@|@aftra, adv.@
+@against@|@bi, du, prep. c. dat., wiþra, prep. c. acc.@
+@against  .@|@wiþra-waírþs, adj.@
+@age@|@áiws, sm., alds, sf., ealdor, us-alþan, sv.@
+@aged@|@alþeis (comp. alþiza) adj., faírneis, adj.@
+@aghast@|@us-gáisjan, wv.@
+@agreeing together@|@sama-leiks, adj.@
+@air@|@luftus, sm.@
+@alien@|@eli-lent@
+@alike@|@ga-leikô, adv., ga-leiks, adj., leiks, suffix, sama-leiks, adj.@
+@alive@|@qius, adj.@
+@all@|@áin-£arjiz-uh, indef. pr., alls, adj.@
+@allow@|@us-láubjan, wv.@
+@Almighty: the ~@|@all-waldands, sm.@
+@alone@|@áins, num., sundro, adv.@
+@along@|@and, prep. c. acc.@
+@already@|@ju-þan, adj., ju, adv.@
+@also@|@áuk, conj., jah, conj., swa, swah, adv.@
+@altar@|@ealdor, hunsla-staþs, sm.@
+@alter@|@in-máidjan, wv.@
+@although@|@jabá conj.@
+@altogether@|@alakjô, adv.@
+@always@|@in áiwins, simbles,, sinteinô, adv.@
+@amazed@|@us-films, adj.@
+@amazed: be ~@|@af-sláuþnan, wv., us-geisnan, wv.@
+@amazement@|@faúrhte wf., us-filme wf.@
+@amiable@|@áin-falþe wf.@
+@amid the two boundaries@|@miþ tweihnáim markôm@
+@among@|@hindar, in, prep. c. acc., miþ, prep. c. dat.@
+@an elder@|@sinista, adj.@
+@and@|@jah, conj., þar-uh, conj.@
+@and also@|@naúhuþ-þan, adv.@
+@and if@|@jaþ-þê conj.@
+@and not@|@nih, conj.@
+@angel@|@aggilus, sm.@
+@anger@|@aglô, wf., môþs sm.@
+@angry@|@môdags, adj., þwaírhs, adj.@
+@angry: be ~@|@hatizôn, wv., neiwan, sv.@
+@anguish@|@aggwiþa, sf., agliþa, sf.@
+@animal: wild ~@|@dius sn.@
+@annihilate@|@ga-taíran, sv.@
+@announce@|@ga-swi-kunþjan, wv., ga-teihan, sv., us-qiþan, sv.@
+@anoint@|@salbôn, wv.@
+@anoint.@|@ga-salbôn, wv.@
+@anon@|@spráutô, adv.@
+@another@|@aljis, adj.@
+@answer@|@and-hafjan, sv., and-waúrdjan, wv., anda-hafts, sf., anda-waúrd sn.@
+@anticipate@|@beidan, sv. c. gen., faúr-sniwan, sv.@
+@anxiety@|@kara, sf.@
+@anxious@|@ga-drôbnan, wv.@
+@anxious: become ~@|@drôbnan, wv.@
+@apart@|@sundro, adv.@
+@apex@|@gibla, wm.@
+@apostate@|@af-guþs, adj.@
+@apostle@|@apaústaúlus sm.@
+@appalled: be ~@|@us-geisnan, wv.@
+@appear@|@at-áugjan, wv.@
+@appearance@|@ga-baírhteins, sf., ga-kunþs, sf., hiw sn., siuns, sf.@
+@application: an ~@|@ana-lageins, sf.@
+@appoint@|@ga-satjan, wv., ga-waúrkjan, wv., ráidjan, wv.@
+@appointed@|@ga-ráiþs adj.@
+@apportion@|@dáiljan, wv.@
+@apprehend@|@ga-fâhan, sv.@
+@approach@|@ana-qiman, sv., nê£jan sik, wv.@
+@approve@|@ga-kiusan, sv.@
+@apt@|@ga-tils, adj.@
+@aptly@|@ga-têmiba, adv.@
+@area@|@fêra, sf.@
+@arise@|@ur-reisan, sv.@
+@arise!@|@kume imper.@
+@arm@|@arms, sm.@
+@army@|@harjis, sm.@
+@aromatics@|@arômata, pl.@
+@around@|@bi@
+@arouse@|@ana-qiujan, wv.@
+@arrange.@|@regnian@
+@arrive@|@qiman, sv.@
+@as@|@swê, adv. and conj., þan, rel. part.@
+@as long as@|@þandê, conj.@
+@as soon as@|@bi-þê conj., suns-e conj.@
+@as the Gentiles@|@þiudiskô, adv.@
+@ascend@|@steigan, sv., us-steigan sv.@
+@ash@|@azgô, wf.@
+@ashamed of: be ~@|@skaman sik, wv.@
+@aside from@|@alja, conj.@
+@aside: pull ~@|@af-tiuhan, sv.@
+@ask@|@bidjan, sv., fraíhnan, sv., ga-fraíhnan, sv.@
+@ask questions@|@fraíhnan, sv.@
+@ass@|@asilus, sm.@
+@assemble@|@ga-gaggan, sv., ga-lisan, ga-qiman, sv.@
+@assembly@|@ga-qumþs, sf.@
+@assist@|@bôtjan, wv.@
+@assistance@|@niþan, sv.@
+@assuredly@|@triggwaba, adv.@
+@astonished: be ~@|@silda-leikjan, wv.@
+@astonishment@|@faúrhte wf.@
+@astounded@|@us-films, adj.@
+@astounded: be ~@|@us-geisnan, wv.@
+@astray@|@aírzeis, adj.@
+@asunder@|@sundro, adv.@
+@at@|@at, prep. c. acc. and dat., bi@
+@at any time@|@£an-hun, adv.@
+@at most@|@máist, adv.@
+@at once@|@suns, adv.@
+@at one time@|@simlê, adv.@
+@ather-in-law@|@swaíhra, wm.@
+@atop@|@ana, prep. c. acc./dat.@
+@attached: be ~@|@ga-haftnan, wv.@
+@attain@|@ga-tilôn, wv.@
+@attend@|@and-bahtjan, wv.@
+@attire@|@wast sf.@
+@attract@|@at-þinsan, sv.@
+@augment@|@bi-áukan, sv.@
+@authentic@|@pistikeins, adj.@
+@authority@|@waldufn sn.@
+@avail@|@bôtjan, wv.@
+@avaricious@|@faíhu-gaírns, adj.@
+@avenge@|@fra-weitan, sv.@
+@avenger@|@fra-weitands, m.@
+@avenue@|@faúra-daúr sn.@
+@avert@|@af-wandjan, wv.@
+@await@|@us-beidan, sv., wênjan, wv.@
+@awake@|@ga-waknan, wv., us-skawjan@
+@awake from sleep@|@us-wakjan, wv.@
+@away from@|@af, prep. c. dat.@
+@away with: do ~@|@af-slahan, sv.@
+@away: be run ~@|@af-taúrnan, wv.@
+@away: go ~@|@af-gaggan, sv., af-leiþan, sv., afleiþan aljaþ@
+@awestruck@|@us-gáisjan, wv.@
+@axe@|@aqiz sf.@
+@babbling@|@láusa-waúrde wf.@
+@back@|@aftuma, adj.@
+@backwards@|@afta, adv., aftra, adv.@
+@bad@|@ubils, adj., un-wâhs, adj.@
+@badly@|@ubilaba, adv.@
+@balsam@|@balsan, sn.@
+@band@|@band sf.@
+@band of men@|@hansa, sf.@
+@baptism@|@dáupeins, sf.@
+@baptize@|@dáupjan, wv., uf-dáupjan, wv.@
+@baptizer@|@dáupjands, m.@
+@barley@|@baris@
+@barley: of ~@|@barizeins adj.@
+@barren@|@akrana-láus, adj.@
+@basket@|@táinjô, wf.@
+@basket of twigs@|@táinjô, wf.@
+@be@|@waírþan, sv., wisan, sv.@
+@be ~@|@dis-skritnan, wv.@
+@be able@|@haban@
+@be afraid@|@faúrhtjan, wv.@
+@be anxious take care for@|@maúrnan, wv.@
+@be better@|@máis wulþriza wisan@
+@be cast@|@ga-driusan, sv.@
+@be glad@|@sifan, wv.@
+@be hid@|@ga-láugnjan, wv.@
+@be ill@|@siukan, sv.@
+@be left@|@af-lifnan, wv.@
+@be like@|@ga-leikôn, wv.@
+@be of good cheer@|@þrafstjan sik@
+@be of more worth@|@máis wulþriza wisan@
+@be sick@|@siukan, sv.@
+@be silent@|@af-dumbnan, wv.@
+@bear@|@baíran, sv., þulan, wv., us-baíran, sv., us-þulan, wv.@
+@bear false witness@|@galiug weit-wôdjan, galiug weit-wôdjan@
+@bear through@|@þaírh-baíran, sv.@
+@bear up@|@hafjan, sv., uf-haban, wv.@
+@bear witness@|@weitwôdjan, wv.@
+@beast: wild ~@|@dius sn.@
+@beat@|@bliggwan, sv., slahan, sv.@
+@beautiful@|@skáuns, adj.@
+@because@|@áuk, conj., du-þê, duþþê, conj., du þamma, du þamma, ni þê-e not, þat-ei conj., untê, conj.@
+@because of@|@faúra@
+@because that@|@þê-e conj.@
+@become@|@waírþan, sv.@
+@become dry@|@ga-staúrknan, wv., þaúrsnan, wv.@
+@become full@|@fullnan, wv., ga-fullnan, wv.@
+@become hardened@|@gi-srchanen@
+@become parted@|@ga-skáidnan, wv.@
+@become real@|@swikunþs waírþan@
+@become rigid@|@gi-srchanen@
+@become whole@|@ga-nisan, sv.@
+@becoming@|@ga-dôfs, adj.@
+@bed@|@bad sn., ligrs, sm.@
+@befall@|@ga-daban, sv.@
+@before@|@faúr, in and-waírþja@
+@before that@|@faúr-þize conj.@
+@beforehand@|@faúr-þis, adv.@
+@beg@|@bidjan, sv.@
+@beggar@|@þarba, wm.@
+@begin@|@ana-stôdjan, wv., du-ginnan, sv., du-stôdjan, wv.@
+@beginning@|@ana-stôdeins, sf., frums, sm.@
+@behave@|@us-mitan, sv.@
+@behaviour@|@us-mêt, sn.@
+@behind@|@afta, adv., aftarô, adv., hindana, hindar@
+@behind: from ~@|@aftana, adv., aftarô, adv.@
+@behind: go ~@|@hindar-leiþan, sv.@
+@behold@|@ga-saí£an, sv.@
+@being@|@wists sf.@
+@belief@|@ga-láubeins, sf.@
+@believe@|@ga-láubjan, wv.@
+@belittle@|@bi-hlahjan, sv.@
+@belly@|@wamba, sf.@
+@belonging@|@gáiteins, adj.@
+@belongings@|@áihts, sf.@
+@beloved@|@liufs, adj., walis, adj.@
+@below@|@dalaþa@
+@below: from ~@|@dalaþrô@
+@bend@|@biugan, sv., ga-biugan, sv.@
+@bend downwards@|@hneiwan, sv.@
+@bend one's knees@|@kniwa lagjan@
+@beneath@|@uf, prep. c. dat. and acc., undar, prep. c. acc.@
+@benefit@|@dugan, pret.-pres., ga-batnan, wv., waíla-dêþs, sf.@
+@bent@|@un-wâhs, adj.@
+@beseech@|@áihtrôn, wv.@
+@beset@|@bi-satjan, wv.@
+@beside oneself: be ~@|@af-sláuþnan, wv.@
+@best@|@batists, adj., frumists, adj.@
+@betray@|@fra-lêwjan, wv., ga-lêwjan, wv., lêwjan, wv.@
+@betroth@|@ga-wadjôn, wv.@
+@better@|@batiza, adj.@
+@beverage@|@dragk, sn.@
+@bewail@|@flôkan, sv.@
+@beyond@|@hindana, hindar, ufar, prep. c. acc. and dat.@
+@bid@|@biudan, sv.@
+@bind@|@bindan, sv., ga-bindan, sv., ga-widan, sv.@
+@bind with ropes@|@in-sáiljan, wv.@
+@bird@|@fugls, sm.@
+@birthday@|@mêl gabaúr-þáis, mêl gebaúrþáis@
+@birthing difficulties@|@fitan, sv.@
+@birthplace@|@ga-baúrþs, sf.@
+@bite@|@beitan, sv.@
+@bitter@|@báitrs, adj.@
+@bitterness@|@báitre wf.@
+@black@|@swarts, adj.@
+@blade of grass@|@gras, sn.@
+@blame@|@and-beitan, sv., id-weitjan, wv.@
+@blameless@|@un-áiwisks, adj.@
+@blashpheme@|@waja-mêrjan, wv.@
+@blasphemy@|@ana-qiss, sf., náiteins, sf., waja-mêreins, sf.@
+@bless@|@ga-þiuþjan, wv., þiuþjan, wv.@
+@blessed@|@áudags, adj., þiuþeigs, adj.@
+@blessedness@|@áudage wf.@
+@blessing@|@þiuþi-qiss, sf.@
+@blind@|@blinds, adj., ga-blindjan, wv.@
+@blind man@|@blinda, wm.@
+@blind: become ~@|@ga-blindnan, wv.@
+@blood@|@blôþ, sn.@
+@blow@|@waian, sv.@
+@blow a horn@|@haúrnjan, wv.@
+@blow up@|@uf-blêsan, sv.@
+@boast@|@£ôpan, sv.@
+@boaster@|@bi-háitja, wm.@
+@body@|@hrêo, leik, sn., qiþus, sm.@
+@boldness@|@balþe wf.@
+@bond@|@band sf., ga-bund sf., hæft, náudi-band sf.@
+@bonds@|@eisarna bi fôtuns gabugana@
+@border@|@marka, sf.@
+@born@|@kunds, pp.@
+@born of the earth@|@aírþa-kunds, adj.@
+@bosom@|@barms@
+@both@|@bái  num., bajôþs, num.@
+@both...and@|@jah...jah@
+@bottle@|@balgs, sm.@
+@bottom: the ~@|@und dalaþ@
+@bought@|@baúhta, wv.@
+@boundary@|@marka, sf.@
+@bow@|@hneiwan, sv.@
+@boy@|@magus, sm.@
+@braid@|@us-windan, sv.@
+@branch@|@asts, sm., táins, sm.@
+@brashness@|@balþe wf.@
+@brave.@|@muotig@
+@bread@|@hláifs, sm.@
+@breadth@|@bráide wf.@
+@break@|@brikan, sv., ga-brikan, sv.@
+@break in pieces@|@dis-hniupan, sv.@
+@break through@|@us-graban, sv.@
+@breakfast@|@undaúrni-mats, sm.@
+@breast@|@brusts, f.@
+@breastplate@|@brunjô, wf.@
+@brethren@|@brôþrahans, m. pl.@
+@bride@|@brûþs, sf.@
+@bridegroom@|@brûþ-faþs, sm.@
+@bright@|@baírhts adj., liuhadeins, adj.@
+@brighten@|@ga-liuhtjan, wv.@
+@brightly@|@baírhtaba, adv.@
+@brightness@|@baírhte wf.@
+@bring@|@at-baíran, sv., at-tiuhan, sv., briggan, wv., ga-tiuhan, sv.@
+@bring back@|@ga-wandjan, wv.@
+@bring down@|@at-hafjan, sv.@
+@bring forth@|@baíran, sv., ga-baíran, sv.@
+@bring up@|@fôdjan, wv.@
+@broad@|@bráiþs adj.@
+@brother@|@brôþar, m.@
+@brotherly love@|@brôþra-lubô, wf., brôþru-lubô@
+@brought@|@brâhta, pret.@
+@bruise@|@ga-malwjan, wv.@
+@bud@|@keinan, sv.@
+@buffet@|@káupatjan, wv.@
+@build@|@timrjan wv.@
+@build.@|@ga-timrjan@
+@builder@|@timrja, wm.@
+@building@|@ga-timrjô, wf.@
+@bundance@|@ufarassus, sm.@
+@bundle up@|@bi-windan, sv.@
+@burden@|@kaúriþa, sf.@
+@burial@|@ga-filh, sn., us-filh, sn.@
+@burn@|@brinnan, sv., ga-brannjan, wv., in-brannjan, wv.@
+@burn up@|@in-tandjan, wv.@
+@burnt-offering@|@ala-brunsts, sf., sáuþs, sm.@
+@bury@|@filhan, sv., ga-filhan, sv.@
+@bushel@|@mêla, wm., mitaþs, sf.@
+@but@|@ak conj., ake conj., aþþan, conj., iþ, conj., þar-uh, conj.@
+@buy@|@bugjan, wv., us-bugjan, wv.@
+@buy out@|@us-bugjan, wv.@
+@by@|@af, prep. c. dat., at, prep. c. acc. and dat., bi, fram, prep. c. dat., miþ, prep. c. dat., þaírh, prep. c. acc., wiþra, prep. c. acc.@
+@by hands@|@un-handu-waúrhts, adj.@
+@by means of@|@þaírh, prep. c. acc.@
+@by no means@|@niþê haldis@
+@byre@|@ala-brunsts, sf.@
+@Caesar@|@káisar, sm.@
+@calf@|@kalbô, wf., stiur, sm.@
+@call@|@at-wôpjan, wv., háitan, sv., hrôpjan, wv., laþôn, wv., wôpjan, wv.@
+@call on@|@ana-háitan, sv.@
+@call one@|@at-háitan, sv.@
+@call together@|@ga-háitan, sv., ga-laþôn, wv.@
+@calm (of the sea)@|@wis, sn.@
+@calm: remain ~@|@ana-silan, wv.@
+@camel@|@ulbandus, sm.@
+@cancer@|@gunds, sm. or sf.@
+@candle@|@lukarn, sn.@
+@candlestick@|@lukarna-staþa, wm.@
+@canker@|@gunds, sm. or sf.@
+@captain@|@þûsundi-faþs, sm.@
+@capture@|@fra-hinþan, sv.@
+@care@|@kara, sf., saúrga, sf.@
+@care for@|@karôn, wv.@
+@careless@|@un-karja, w. adj.@
+@carpenter@|@timrja, wm.@
+@carrion@|@hrêo@
+@carry@|@at-baíran, sv., baíran, sv., dragan, sv., hafjan, sv.@
+@carry through@|@þaírh-baíran, sv.@
+@cast@|@ga-waírpan, sv., waírpan, sv.@
+@cast a shadow@|@skadwjan, wv.@
+@cast aside@|@af-waírpan, sv.@
+@cast away@|@af-waírpan, sv., fra-waírpan, sv.@
+@cast down@|@af-dráusjan, wv., at-waírpan, sv., ga-waírpan, sv.@
+@cast forth@|@us-waírpan, sv.@
+@catch@|@ga-fâhan, sv., ga-niutan, sv.@
+@catch with nets@|@ga-niutan, sv.@
+@catch: a ~@|@ga-fâhs, sm.@
+@catcher of fishes@|@nuta, wm.@
+@cattle@|@faíhu, sn.@
+@cause@|@faírina, sf.@
+@cause to run@|@rannjan, wv.@
+@cause to stumble@|@marzjan, wv.@
+@cautious@|@anda-þâhts, adj., war@
+@cave@|@filigri sn., grôba, sf.@
+@cease@|@sweiban sv.@
+@ceaseless@|@un-sweibands, pres. part.@
+@celestial@|@himina-kunds, adj.@
+@centurion@|@hunda-faþs, sm.@
+@certain@|@gi-wis@
+@chaff@|@ahana, sf.@
+@chain@|@náudi-band sf.@
+@chair@|@sitls, sm.@
+@chamber@|@hêþjô, wf.@
+@change@|@in-máideins, sf., in-máidjan, wv.@
+@charge@|@£ôtjan, wv., and-beitan, sv., faírina, sf., us-qiss, sf.@
+@charity@|@arma-hairtiþa, sf.@
+@chastity@|@swikniþa, sf.@
+@cheek@|@kinnus, sf.@
+@cheerful@|@blîde@
+@cherish@|@ga-þláihan, sv., warmjan, wv.@
+@chest@|@arka, sf.@
+@chief@|@faúr-stasseis, sm., faúra-maþleis, sm., máists, adj.@
+@chief council@|@ga-faúrds, sf.@
+@chiefly@|@þis-hun, adv.@
+@chief-priest@|@ufar-gudja, wm.@
+@child@|@barn, sn., baúr, sm.@
+@childhood@|@barnisk sn.@
+@childish@|@barnisks adj., niu-klahs, adj.@
+@childless@|@un-barnahs, adj.@
+@children: have ~@|@barna ussatjan@
+@choke@|@af-£apjan, wv.@
+@choked: be ~@|@af-£apnan, wv.@
+@choose@|@ga-waljan, wv., kiusan, sv., waljan, wv.@
+@chosen@|@walis, adj.@
+@church@|@alhs, sf.@
+@cinders@|@azgô, wf.@
+@circumcise@|@bi-máitan, sv.@
+@circumcision@|@bi-máit, sn.@
+@circumspect@|@anda-þâhts, adj.@
+@citizen@|@baúrgja, wm.@
+@city@|@baúrgs, f.@
+@clay@|@þâhô wf.@
+@clean@|@hráins, adj.@
+@clean: make ~@|@hráinjan, wv.@
+@cleanse@|@ga-hráinjan, wv., hráinjan, wv.@
+@cleansing@|@ga-hráineins, sf.@
+@clear@|@skeirs, adj.@
+@clearly@|@baírhtaba, adv.@
+@cleave@|@haftjan, wv.@
+@clever@|@handugs, adj.@
+@cleverness@|@handuge wf.@
+@cloak@|@hakuls, sm.@
+@close@|@falþan, sv., lûkan, sv., nê£a, prep. c. dat.@
+@close by@|@nê£, adv.@
+@close to@|@miþ, prep. c. dat.@
+@clothe@|@ga-wasjan sik, wv., wasjan, wv.@
+@clothing@|@wast sf.@
+@cloud@|@milhma, wm.@
+@coast@|@marka, sf.@
+@coat@|@páida, sf.@
+@cock@|@hana, wm.@
+@coin@|@áiz, sn., skatts, sm.@
+@cold@|@kalds, adj.@
+@collect@|@ga-gaggan, sv.@
+@collect treasures@|@huzdjan, wv.@
+@collectively@|@alakjô, adv.@
+@come@|@af-gaggan, sv., du-at-gaggan, sv., ga-leiþan, sv., qiman, sv.@
+@come  pass@|@waírþan, sv.@
+@come after@|@afargaggan, sv.@
+@come down@|@at-steigan, sv.@
+@come gether@|@ga-qiman, sv.@
+@come here@|@hirjats@
+@come here!@|@hiri@
+@come out@|@us-leiþan, sv.@
+@come through@|@þaírh-gaggan, sv.@
+@come towards@|@at-haban, wv.@
+@come ye here! (pl.)@|@hirjiþ@
+@comfort@|@ana-þrafstjan, wv., ga-þláihan, sv., ga-þrafsteins, sf., þrafstjan, wv.@
+@comforter@|@paraklêtus, sm.@
+@command@|@ana-biudan, sv., faúr-biudan, sv., háit sf., háitan, sv.@
+@commanding@|@háit, sn.(-hait)@
+@commandment@|@ana-b sf.@
+@commit@|@ana-filhan, sv.@
+@commodities@|@áigin, sn.@
+@common@|@ga-máins, adj.@
+@community@|@ga-máindûþs, sf.@
+@companion@|@ga-juka, wm., ga-man, sn., ga-sinþja wm.@
+@company@|@hansa, sf.@
+@compare@|@ga-baíran, sv., ga-leikôn, wv.@
+@comparison@|@ga-jukô, wf.@
+@compel@|@náuþjan, wv.@
+@complain@|@hiufan, sv.@
+@complete@|@us-fulljan, wv.@
+@conceal@|@filhan, sv., ga-filhan, sv., ga-huljan, wv., huljan, wv.@
+@concerned about: be ~@|@karôn, wv.@
+@concerning@|@bi, faúr@
+@condemn@|@ga-dômjan, wv., ga-wargjan, wv.@
+@confess@|@and-háitan, sv.@
+@connectedly@|@ga-hâhjô, adv.@
+@conscience@|@ga-hugds, sf., miþ-wisse wf.@
+@consent@|@ga-qiss, sf.@
+@consenting@|@ga-qiss, adj.@
+@consequently@|@nu, adv.@
+@consider@|@ga-kunnan, wv., haban, hugjan, wv., mitôn, wv., munan, wv.@
+@considering@|@mitôns, sf.@
+@consolation@|@laþôns, sf.@
+@console@|@ga-þláihan, sv., ga-þrafsteins, sf., þrafstjan, wv.@
+@consultation@|@ga-rûn sn.@
+@container@|@aúirkeis sm.@
+@contend@|@jiukan, wv.@
+@contender@|@sôkareis, sm.@
+@continually@|@sinteinô, adv.@
+@contrary to@|@anda-neiþs, adj.@
+@convenient@|@ga-tils, adj.@
+@conveniently.@|@ga-tilaba, adv.@
+@coppersmith@|@áiza-smiþawm@
+@copperworker@|@áiza-smiþawm@
+@corn@|@£áiteis, sm., atisk, sn., kaúrn, sn., kaúrnô, sn.@
+@corner@|@waíhsta, wm.@
+@cornfield@|@atisk, sn.@
+@corpse@|@hrêo, leik, sn., náus, sm.@
+@corrupt@|@fra-waírþan, sv., fra-wardjan, wv.@
+@costly@|@filu-ga-láufs@
+@couch@|@ligrs, sm.@
+@counsel@|@ga-rûn sn., rêdan, sv.@
+@counsellor@|@ragineis, sm.@
+@count@|@ga-raþjan, sv., rahnjan, wv.@
+@countenance@|@an-sîen, wlits, sm.@
+@country@|@land, sn.@
+@countryman@|@gáuja, wm., in-kunja, wm.@
+@courage: have ~@|@ana-nanþjan, wv.@
+@course@|@runs, sm.@
+@court@|@gards, sm.@
+@covenant@|@triggwa, sf.@
+@cover@|@ga-huljan, wv., huljan, wv.@
+@covetousness@|@bi-faíhô wf., faíhu-frike wf., faíhu-gaírne wf.@
+@craftiness@|@lists, sf.@
+@crafty@|@listeigs, adj.@
+@create@|@ga-skapjan, sv.@
+@creation@|@ga-skafts, sf.@
+@creature.@|@ga-skafts, sf.@
+@crooked@|@wráiqs, adj.@
+@cross@|@galga, wm.@
+@crow@|@hrukjan, wv.@
+@crowd@|@hiuhma, wm., manage wf., þreihan, sv.@
+@crown@|@wáips, sm., weipan, sv., wipja, sf.@
+@crucify@|@us-hramjan, wv.@
+@crucify with@|@miþ ushramjan@
+@crumb@|@draúhsna, sf.@
+@cry out@|@aúhjôn, wv., hrôpjan, wv., uf-hrôpjan, wv., uf-wôpjan, wv., wôpjan, wv.@
+@cubit@|@aleina, sf.@
+@cuff@|@káupatjan, wv.@
+@cunning@|@listeigs, adj.@
+@cup@|@aúirkeis sm., stikls, sm.@
+@currency@|@skatts, sm.@
+@curse@|@fluohôn, wv., fra-qiþan, sv., ubil qiþan@
+@curtail@|@ga-maúrgjan, wv.@
+@curtain@|@faúra-hâh sn.@
+@custom@|@môta, sf., sidus, sm.@
+@custom-house@|@môta, sf.@
+@cut@|@máitan, sv., sneiþan, sv.@
+@cut down@|@us-máitan, sv.@
+@cut off@|@af-maitan, sv.@
+@cut short@|@ga-maúrgjan, wv.@
+@cut-off@|@af-sneiþan, sv.@
+@daily@|@sinteins, adj.@
+@damage@|@ana-mahtjan, wv.@
+@damsel@|@mawi, taleiþa@
+@dance@|@láiks, sm., plinsjan, wv.@
+@dancing@|@láiks, sm.@
+@dangerous@|@sleideis adj.@
+@dare@|@ana-nanþjan, wv., daúrsan, pret.-pres., ga-daúrsan, pret.-pres.@
+@dare: I ~@|@ga-dars, pret.-pres.@
+@dark@|@riqizeins, adj., swarts, adj.@
+@darken@|@ge-nîpan@
+@darkened@|@riqizjan, wv.@
+@darkness@|@riqis, riqiz, sn.@
+@dash against@|@ga-stagqjan, wv.@
+@dash up against@|@waltjan, wv.@
+@daughter@|@daúhtar, f.@
+@daughter-in-law@|@brûþs, sf.@
+@day@|@dags, sm.@
+@-day@|@himma daga, himma daga@
+@day: the next ~@|@afardags, sm.@
+@dead@|@dáuþs, adj.@
+@dead body of a warrior@|@dryht-nê@
+@dead: almost ~@|@aftumists habanp@
+@deaf@|@báuþs adj., dáufs, adj.@
+@deaf: become ~@|@af-dáubnan, wv.@
+@deaf: make ~@|@ga-dáubjan, wv.@
+@deafen@|@af-dáubnan, wv.@
+@dear@|@liufs, adj.@
+@death@|@dáuþus, sm.@
+@death: danger of ~@|@dáuþeins, sf.@
+@death: point of ~@|@aftumists habanp@
+@death: put to ~@|@dáuþjan, wv.@
+@decade@|@tigus, sm.@
+@decease@|@ur-runs, sf.@
+@deceit@|@liute wf.@
+@deceitful@|@hindar-weis, adj.@
+@deceitfulness@|@af-marzeins, sf., hindar-weise wf.@
+@deceive@|@aírzjan, wv., hôlôn, wv.@
+@deceived: be ~: astray: led ~@|@aírzeis wisan@
+@deceptiveness@|@af-marzeins, sf.@
+@decieve@|@af-airzjan, wv.@
+@declare@|@ga-baírhtjan, wv.@
+@decline@|@hneiwan, sv.@
+@decorate@|@raetew(i)an@
+@decree@|@ga-grêfts, sf., ragin, sn.@
+@deed@|@dêþs, sf., ga-dêþs, sf., ga-waúrk sn., tau sn., waúrstw, sn.@
+@deep@|@diups, adj.@
+@defence@|@sunjôns, sf.@
+@defile@|@ga-ga-máinjan, wv., ga-máinjan, wv.@
+@deliberate@|@rêdan, sv.@
+@deliver@|@at-giban, sv., láusjan, wv.@
+@deliverance@|@fra-lêts, sm.@
+@deluge@|@midja-sweipáins, sf.@
+@demon@|@skôhsl, sn., un-hulþa, wm., un-hulþô, wf.@
+@demonstrate@|@us-táiknjan, wv.@
+@den@|@filigri sn., grôba, sf.@
+@dense@|@un-wits, adj.@
+@deny@|@af-qiþan, sv., in-widan, sv., láugnjan, wv.@
+@depart@|@af-leiþan, sv., af-linnan, sv., af-standan, sv., ur-rinnan, sv., us-gaggan, sv.@
+@depart from@|@ushafjan sik jáinþrô@
+@departure@|@ur-runs, sf.@
+@depth@|@diupe wf., diupiþa, sf.@
+@deride@|@bi-hlahjan, sv.@
+@descend@|@at-gaggan, sv., at-steigan, sv.@
+@descent@|@fadreins, sn.@
+@desert@|@áuþida, sf., aúþs, adj.@
+@desire@|@áihtrôn, wv., gaírnjan, wv., lustôn, wv., lustus, sm., sôkjan, wv.@
+@desirous@|@gaírns, adj.@
+@despise@|@fijan, wv., fra-kunnan, uf-brikan, sv.@
+@despised@|@fra-kunþs, pp.@
+@despoil@|@bi-ráubôn, wv., fra-waírþan, sv.@
+@destroy@|@dis-tahjan, wv., fra-qistjan, wv., fra-wardjan, wv., ga-taíran, sv., us-qiman, sv. dat. or acc.@
+@destroyed : be ~@|@fra-qistnan, wv.@
+@destruction@|@ga-taúrþs, sf.@
+@determine@|@ráidjan, wv.@
+@devil@|@diabaúlus, un-hulþa, wm., un-hulþô, wf.@
+@devour@|@fra-itan, sv.@
+@devout@|@guda-faúrhts, adj.@
+@die@|@af-dáuþjan, wv., diwan, sv., ga-dáuþnan, wv., ga-swiltan, sv., swiltan, sv., us-anan, sv.@
+@different@|@missa-leiks, adj.@
+@difficult@|@aglus, adj.@
+@dig@|@graban, sv.@
+@dig out@|@us-graban, sv.@
+@dig up@|@uf-graban, sv.@
+@dignity@|@waírþida, sf.@
+@diligent@|@us-dáudjan, wv.@
+@diligently@|@glaggwuba@
+@dinner@|@undaúrni-mats, sm.@
+@disciple@|@sipôneis, sm.@
+@disciple: be a ~@|@sipônjan, wv.@
+@disclose@|@and-huljan, wv.@
+@discord@|@missa-qiss, sf.@
+@discover@|@finþan, sv.@
+@disease@|@sauil, sn. sun, un-háil sn.@
+@diseased@|@siuks, adj.@
+@disfigure@|@fra-wardjan, wv.@
+@disgrace@|@un-swêre wf.@
+@disguise@|@huljan, wv.@
+@dish@|@mês, sn.@
+@dishonorable@|@un-swêrs, adj.@
+@dishonour@|@un-swêre wf.@
+@disobedient@|@un-ga-£aírbs, adj.@
+@disorder@|@bi-háit, sn.@
+@dispersion@|@dis-taheins, sf.@
+@displeased: be ~@|@un-wêrjan, wv.@
+@dispute@|@and-rinnan, sv., and-sakan, sv., miþ-sôkjan, wv.c.dat., sakan, sv., sôkjan, wv.@
+@dispute over words@|@waúrda-jiuka, sf.@
+@disputer@|@sôkareis, sm.@
+@disquiet@|@brakja, sf.@
+@disrobe@|@andwasjan, wv.@
+@dissension@|@missa-qiss, sf.@
+@dissolute@|@us-wiss, adj.@
+@dissolution@|@dis-wiss, sf.@
+@distant@|@faírra, adv.@
+@distress@|@aggwiþa, sf., agliþa, sf.@
+@distribute@|@fra-dáiljan, wv.@
+@district@|@fêra, sf., gaw sn.@
+@ditch@|@dal, sn., graba, sf.@
+@divide@|@dáiljan, wv., dis-dáiljan, wv., fra-dáiljan, wv., ga-dáiljan, wv., skáidan, sv.@
+@divine@|@gudisks, adj.@
+@divorce@|@af-satjan, wv.@
+@divorcement@|@af-sateins, sf.@
+@dkin@|@fill, sn.@
+@do@|@ga-táujan, wv., táujan, wv.@
+@doctor@|@lêkeis, sm.@
+@doctrine@|@láiseins, sf.@
+@dog@|@hunds, sm.@
+@door@|@daúr, sn., daúrô, wf., haúrds, sf.@
+@door-keeper@|@daúra-wards, sm.@
+@dove@|@ahaks, sf.@
+@down@|@dalaþ, adv.@
+@doze off@|@slêpan, sv.@
+@drachma (Greek coinage)@|@drakma, wm.@
+@drag@|@dragan, sv.@
+@drapery@|@faúra-hâh sn.@
+@draught@|@ur-runs, sm.@
+@draw@|@tiuhan, sv.@
+@draw away@|@af-tiuhan, sv.@
+@draw near@|@ana-qiman, sv., nê£jan sik, wv.@
+@drink@|@dragk, sn., drigkan, sv.@
+@drive@|@dráibjan, wv., dreiban, sv.@
+@drive away@|@us-tiuhan, sv.@
+@drive out@|@us-dreiban, sv., us-waírpan, sv.@
+@drunk@|@af-drugkja, wm.@
+@drunkard@|@af-drugkja, wm.@
+@drunkenness@|@drugkane wf.@
+@dry@|@báuþs wairþan, bi-swaírban, sv.@
+@dry up@|@ga-staúrknan, wv.@
+@dry: become ~@|@ga-þaúrsnan, wv.@
+@due to@|@du-þê, duþþê, conj.@
+@dumb@|@báuþs adj., dumbs, adj.@
+@dunghill@|@maíhstus, sm.@
+@during@|@miþ-þan-e conj.@
+@dust@|@mulda, sf.@
+@dwell@|@bauan, wv., ga-bauan, wv., saljan, wv.@
+@dwelling@|@bauáins, sf.@
+@dwellling abode@|@saliþwôs, sf. pl.@
+@e@|@ga-£atjan, wv.@
+@e Sabbath@|@afar-sabbatus, sm.@
+@each@|@£arjiz-uh, indef. pr., £az-uh, indef. pr.@
+@each of two@|@£aþar-uh, indef. pr.@
+@eager@|@gaírns, adj.@
+@eagerness@|@aga-leiz@
+@ear@|@áusô, wn.@
+@ear of corn@|@ahs, sn.@
+@earlier@|@áiris, adv.@
+@early morn@|@ûhtwô, wf.@
+@earnest@|@wad sn.@
+@earth@|@aírþa, sf., faír£us, sm., midjun-gards, sm.@
+@earthly@|@aírþeins, adj.@
+@easier@|@raþizô, adj.@
+@easy@|@áinfalþs, azêts, adj.@
+@eat@|@ga-matjan, wv., itan, sv., matjan, wv.@
+@eat up@|@fra-itan, sv.@
+@edge: an ~@|@bôta, sf.@
+@effective@|@waúrstweigs, adj.@
+@effectual@|@waúrstweigs, adj.@
+@eight@|@ahtáu, num.@
+@eight days of age@|@ahtáu-dôgs, adj.@
+@eighth@|@ahtuda, num.@
+@eighty@|@ahtáutêhund, num.@
+@either ... or@|@andiz-uh...aiþþáu@
+@either...or@|@jabái...aíþþáu@
+@eleven@|@áinlif, num.@
+@else@|@aíþþáu, conj.@
+@elsewhere@|@aljar, adv., aljaþ, adv.@
+@elucidate@|@ga-skeirjan, wv.@
+@emperor@|@káisar, sm.@
+@empty@|@láus, adj.@
+@empty stomach@|@láus-qiþrs, adj.@
+@empty words@|@láusa-waúrde wf.@
+@empty-handed@|@láus-handus, adj.@
+@encompass@|@bi-wáibjan, wv.@
+@encounter@|@ga-môtjan, wv.@
+@end@|@andeis, sm.@
+@endeavour@|@us-dáudjan, wv.@
+@endless@|@anda-láus, adj., andi-láus, adj., un-sweibands, pres. part.@
+@endure@|@and-standan, sv., ga-þulan, wv., þulan, wv., us-baíran, sv., us-þulan, wv.@
+@enemy@|@fijands m.@
+@engulf@|@fra-slindan, sv.@
+@enjoy@|@ga-leikan, wv., niutan, sv.@
+@enliven@|@ana-qiujan, wv.@
+@enough@|@ga-nôhs, adj.@
+@enroll@|@ana-mêljan, wv., ga-mêljan, wv.@
+@entangle@|@du-ga-windan, sv.@
+@enter@|@at-gaggan, sv., inn atgaggan, inn gaggan@
+@enter in@|@inn atgaggan@
+@entice@|@ga-£atjan, wv.@
+@entreat@|@bidjan, sv.@
+@entreaty@|@uf-blôteins, sf.@
+@entrust@|@ana-filhan, sv., ga-trauan, wv.@
+@entry@|@daúr, sn.@
+@envy@|@neiþ, sn.@
+@equal@|@ibna-leiks, adj., leiks, suffix@
+@equally@|@sama-leikô, adv.@
+@era@|@alds, sf.@
+@eradicate@|@af-swaírban, sv.@
+@error@|@ga-twola@
+@error: be in ~@|@uswiss usmitan@
+@escape@|@unþa-þliuhan, sv.@
+@especially@|@þis-hun, adv.@
+@espousal.@|@fra-gifts, sf.@
+@establish@|@stiurjan, wv.@
+@eternal@|@áiweins, adj.@
+@eternity@|@áiws, sm., ajukdûþs, sf.@
+@evangelist@|@aiwaggêlista, wm.@
+@even@|@ibns, adj., jah, conj.@
+@even as@|@swa-swê, adv.@
+@even if@|@jabá conj.@
+@even though@|@þáuh-jabá conj.@
+@evening@|@anda-naht sn.@
+@evening meal@|@nahta-mats, sm.@
+@evenness@|@ibnassus, sm.@
+@ever@|@£an-hun, adv., sinteinô, adv.@
+@everlasting@|@áiweins, adj.@
+@every@|@£arjiz-uh, indef. pr., £az-uh, indef. pr., alls, adj.@
+@everyone@|@áin-£arjiz-uh, indef. pr.@
+@evident@|@swi-kunþs, adj., us-kunþs, adj.@
+@evil@|@þata ubilô, ubils, adj., un-sêls, adj., un-þiuþ, sn.@
+@evil spirit@|@skôhsl, sn.@
+@evil-doing@|@ubiltôjis, adj.@
+@evilly@|@ubilaba, adv.@
+@evil-speaking@|@ubil-waúrds, adj.@
+@exactly@|@glaggwuba@
+@exalt@|@háuhjan, wv., mikiljan, wv., us-háuhjan, wv.@
+@exalted: be ~@|@ufar-hafnan, wv., us-háuhnan, wv.@
+@example@|@fri-sahts, sf.@
+@excellently@|@waíla, adv.@
+@except@|@alja, conj., inuh, nibá niba, conj.@
+@excess@|@us-stiure wf.@
+@excessively@|@abraba, adv.@
+@exchange@|@in-máideins, sf.@
+@excuse@|@faúr-qiþan, sv., inilô, wf.@
+@excuses: make ~@|@faúr-qiþan, sv.@
+@executioner@|@spaíkulâtur, m.@
+@exercise lordship@|@ga-fráujinôn, wv.@
+@exhaust@|@af-dôjan, wv., fra-wisan, sv.@
+@exhibiting@|@faúr-lageins, sf.@
+@existence@|@wists sf.@
+@expect@|@beidan, sv. c. gen.@
+@expend@|@fra-qiman, sv., fra-wisan, sv.@
+@expire@|@us-anan, sv.@
+@extoll@|@þiuþjan, wv.@
+@eye@|@áugô, wn.@
+@eye of a needle@|@þaírkô nêþlôs@
+@fable@|@spill, sn.@
+@face@|@an-sîen, and-âug sn., ludja, sf., wlits, sm.@
+@faint@|@uf-ligan, sv.@
+@faith@|@ga-láubeins, sf.@
+@faithful@|@triggws, adj.@
+@fall@|@driusan, sv., drus, sm., ga-driusan, sv.@
+@fall asleep@|@slêpan, sv.@
+@fall down@|@driusan, sv.@
+@falling away@|@af-stass, sf., us-drusts, sf.@
+@falling off@|@af-stass, sf., us-drusts, sf.@
+@false Christ@|@ga-liuga-xristus, sm.@
+@false god@|@abgud idol@
+@false prophet@|@ga-liuga-praúfêtus, sm.@
+@false witness@|@ga-liuga-weitwôþs sm.@
+@falsify@|@máidjan, wv.@
+@fame@|@mêriþa, sf.@
+@family@|@fadreins, sn.@
+@family: member of the ~@|@hîwa@
+@famous@|@mêrs, adj.@
+@far@|@faírra, adv.@
+@far away@|@landis@
+@far off@|@faírra, adv.@
+@fare@|@faran, sv.@
+@fast@|@fastan, wv., tulgus, adj.@
+@fasting@|@fastubn sn.@
+@father@|@atta, wm., fadar, m.@
+@fatigue@|@af-dôjan, wv., af-môjan, wv.@
+@favour@|@ansts, sf.@
+@favourable@|@ansteigs, adj.@
+@fear@|@agis sn., faúrhte wf., ôgan, pret.-pres.@
+@fear: have ~@|@faúrhtjan, wv.@
+@fearful@|@faúrhtjan, wv., faúrhts, adj.@
+@fearless@|@un-agands, adj.@
+@fearlessness@|@un-age wf.@
+@feast@|@daúhts, sf., dulþs, sf.@
+@feast of the passover@|@paska, sf.@
+@feeble@|@ga-máiþs adj., lasiws, adj.@
+@feed@|@fôdjan, wv., haldan, sv., matjan, wv.@
+@fellow-man@|@ga-man, sn.@
+@fellow-worker@|@ga-waúrstwa, wm.@
+@female@|@qina-kunds, adj., qineins, adj.@
+@female cousin@|@niþjô, wf.@
+@female neighbour@|@ga-raznô, wf.@
+@fetter@|@hæft, náudi-band sf.@
+@fetters@|@eisarna bi fôtuns gabugana@
+@fever@|@brinnô, wf., heitô, wf.@
+@few@|@fáus adj.@
+@field@|@akrs, sm., háiþ sf., þaúrp, sn.@
+@fierce@|@sleideis adj., un-mana-riggws, adj.@
+@fiery@|@funisks, adj.@
+@fifteen@|@fimf-taíhun, num.@
+@fifteenth@|@fimfta-taíhunda, num.@
+@fifth@|@fimfta-, num.@
+@fifty@|@fimf tigjus, num.@
+@fig@|@smakka, wm.@
+@fight@|@háifstjan, wv., háifsts, sf., weihan, sv.@
+@fig-tree@|@smakka-bagms, sm.@
+@figuratively@|@us-mitan, sv.@
+@fill@|@fulljan, wv., ga-fulljan, wv., ga-fullnan, wv., ga-sôþjan, wv.@
+@final@|@aftumists, adj.@
+@find@|@bi-gitan sv., finþan, sv.@
+@find fault with@|@faian, wv.@
+@find out@|@finþan, sv., ga-fraíhnan, sv.@
+@find room@|@ga-môtan, pret.-pres., môtan, pret.-pres.@
+@find room: I ~@|@ga-môt, pret.-pres.@
+@finger@|@figgrs, sm.@
+@finger-ring@|@figgra-gulþ, sn.@
+@finish@|@us-tiuhan, sv.@
+@fire@|@fôn, n.@
+@firm@|@tulgus, adj.@
+@first@|@faúr-þis, adv., fruma, adj., frumists, adj.@
+@first-born@|@fruma-baúr, sm.@
+@fish@|@fiskôn, wv., fisks, sm.@
+@fisher@|@fiskja, wm., nuta, wm.@
+@fit@|@fagrs, adj., ga-dôfs, adj., tils, adj.@
+@fitting@|@ge-dafen@
+@fitting: be ~@|@gi-burren@
+@five@|@fimf, num.@
+@fix@|@metemên, ráidjan, wv.@
+@fixed@|@ga-ráiþs adj.@
+@flawless@|@fulla-tôjis, adj.@
+@flee@|@ga-þiuhan, sv., þliuhan, sv., unþa-þliuhan, sv.@
+@fleeting@|@£eila-£aírbs, adj.@
+@flesh@|@leik, sn., mims sn.@
+@flight@|@þlaúhs, sm.@
+@flock@|@haírda, sf.@
+@flood@|@flôdus, sf.@
+@flow away@|@us-gutnan, wv.@
+@flower@|@blôma, wm.@
+@flute: play the ~@|@swiglôn, wv.@
+@foal@|@fula, wm.@
+@foam@|@£aþjan, wv.@
+@foe@|@fijands m.@
+@foiliage@|@láufs, sm.@
+@fold@|@falþan, sv., garda, wm.@
+@-fold@|@falþs, adj.@
+@fold up@|@falþan, sv.@
+@follow@|@afar-láistjan, wv., afargaggan, sv., ga-láista wisan, ga-láistjan, wv., láistjan, wv.@
+@follow after@|@afar-láistjan, wv., láistjan, wv.@
+@follower@|@ga-láista, wm.@
+@folly@|@un-frôde wf., un-wit sn.@
+@foment trouble@|@drôbjan, wv.@
+@font@|@brunna, wm.@
+@food@|@fôdeins, sf., mats, sm., us-fôdeins, sf.@
+@foolish@|@dwals, adj., un-wits, adj.@
+@foolish talking@|@dwala-waúirde wf.@
+@foolish: be ~@|@dwalmôn, wv.@
+@foolishness@|@dwaliþa, sf., un-frôde wf., un-wit sn.@
+@foot@|@fôtus, sm.@
+@foot-print@|@láists, sm.@
+@footstool@|@fôtu-baúrd, sn.@
+@for@|@áuk raíhtis, áuk, conj., raíhtis, conj., þan-nu, þan-uh, conj., untê, conj.@
+@for how long a time@|@£an lagg mêl@
+@for that@|@þê-e conj.@
+@for the third time@|@þridjô, adv.@
+@forbid@|@faúr-biudan, sv., warjan, wv.@
+@force@|@náuþjan, wv.@
+@forefather@|@atta, wm.@
+@foreign@|@alja-kuns, adj., eli-lent@
+@foremost@|@aúhumists adj., frumists, adj.@
+@foretell@|@faúra-ga-teihan, sv., faúra-qiþan, sv.@
+@forever@|@áiweins, adj., in áiwins@
+@forewarn@|@faúra-ga-teihan, sv.@
+@forget@|@ufar-munnôn, wv.@
+@forgiveness@|@af-lêts, sm., fra-lêts, sm.@
+@form of earth@|@deigan, sv.@
+@formerly@|@faúr-þis, adv.@
+@fornication@|@kalkinassus, sm.@
+@forsake@|@af-qiþan, sv., bi-leiþan, sv.@
+@forth@|@us-gaggan, sv., ût, adv.@
+@forty@|@fidwôr tigjus, num.@
+@foul@|@fûls, adj.@
+@foundation@|@grundu-waddjus, sm.@
+@four@|@fidwôr, num.@
+@fourfold@|@fidur-falþs, num., fidurfalþs@
+@fourteen@|@fidwôr-taíhun, num.@
+@fowl@|@fugls, sm.@
+@fox@|@faúhô, wf.@
+@fragment@|@draúhsna, sf., ga-bruka, sf.@
+@free@|@freis, adj., láusjan, wv.@
+@free: set ~@|@and-bindan, sv.@
+@freedom@|@frei-hals, sm.@
+@friend@|@frijônd sf., frijônds, m.@
+@frighten completely@|@us-agjan, wv.@
+@from@|@af, prep. c. dat., faúr, fram, prep. c. dat., us, prep. c. dat.@
+@from a distance@|@faírraþrô, adv.@
+@from afar@|@faírraþrô, adv.@
+@from all sides@|@aljaþrô, adv.@
+@from another direction@|@aljaþ, adv.@
+@from every direction@|@aljaþrô, adv.@
+@from henceforth@|@fram himma@
+@from now on@|@fram himma@
+@from there@|@þaþrô, adv.@
+@from without@|@ûtaþrô@
+@fruit@|@akran, sn.@
+@fruit: bear ~@|@akran baíran, ga-wrisqan, sv.@
+@fruitbearing@|@akran baíran@
+@fulfill@|@fulljan, wv., us-fulljan, wv.@
+@fulfilled: be ~@|@us-fullnan, wv.@
+@fulfilling@|@us-fulleins, sf.@
+@full@|@fulls, adj., saþs, adj.@
+@full of light@|@liuhadeins, adj.@
+@full: be ~@|@saþs waírþan@
+@fulness@|@fulleiþs, sf. sn., fullô, wf.@
+@furlong@|@spaúrds, adj.@
+@furnish@|@ga-stráujan, wv., und-rêdan, sv.@
+@further@|@framis, adv., þana-máis, adv., þana-seiþs, adv.@
+@furtherance@|@fram-gâhts, sf.@
+@gable@|@gibla, wm.@
+@gain@|@ga-geigan, wv.@
+@gallows@|@galga, wm.@
+@garment@|@snaga, wm.@
+@gather@|@ga-rinnan, sv., lisan, sv.@
+@gather gether@|@ga-lisan@
+@genealogy@|@ga-baúrþi-waúrda@
+@generally@|@allis, adv.@
+@generation@|@alds, sf., kun sn.@
+@genuine@|@pistikeins, adj.@
+@get@|@and-niman, sv., fra-niman, sv.@
+@get an advantage of@|@ga-áiginôn, wv.@
+@get lost@|@fra-lusnan, wv.@
+@get old@|@us-alþan, sv.@
+@gibberish@|@dwala-waúirde wf.@
+@gift@|@giba, sf., kaúrbân, máiþms, sm.@
+@gird up@|@uf-gaírdan, sv.@
+@girdle@|@gaírda, sf.@
+@give@|@fra-giban, sv., giban, sv.@
+@give  drink@|@ga-dragkjan, wv.@
+@give drink@|@dragkjan, wv.@
+@give life@|@ga-qiujan, wv.@
+@give light@|@liuhtjan, wv.@
+@give thanks@|@awiliudôn, wv.@
+@give up@|@at-giban, sv., ga-lêwjan, wv.@
+@giver@|@gibands, m.@
+@giving away: a ~@|@fra-gifts, sf.@
+@glad@|@blîde@
+@glade@|@dal, sn.@
+@gladly@|@ga-baúrjaba, adv.@
+@gladness@|@fahêþs, sf.@
+@glance around@|@faír-weitjan, wv.@
+@glen@|@dal, sn.@
+@glitter@|@glitmunjan, wv.@
+@glorify@|@ga-swêran, wv., háuhjan, wv., mikiljan, wv.@
+@glorious@|@wulþags, adj.@
+@glory@|@wulþus, sm.@
+@glutn@|@af-êtja, wm.@
+@gnash with the teeth@|@kriustan, sv.@
+@gnashing@|@krusts, sf.@
+@go@|@du-at-gaggan, sv., faran, sv., ga-leiþan, sv., gaggan, sv., leiþan, sv., wratôn, wv.@
+@go along@|@skêwjan, wv.@
+@go astray@|@fra-lusnan, wv.@
+@go away@|@us-leiþan, sv.@
+@go before@|@faúr-bi-gaggan, sv.@
+@go down@|@at-gaggan, sv., sagqjan wv., sigqan, sv.@
+@go in@|@inn atgaggan, inn gaggan@
+@go out@|@us-gaggan, sv.@
+@go out from@|@ur-rinnan, sv.@
+@go through@|@þaírh-gaggan, sv., þaírh-leiþan, sv.@
+@go up@|@us-steigan sv.@
+@goad@|@gáiru, sn.@
+@goat@|@gáits, sm.@
+@God@|@all-waldands, sm., guþ, sm.@
+@godless@|@af-guþs, adj., guda-láus, adj.@
+@godliness@|@ga-gude wf.@
+@godly@|@ga-gudaba, adv., ga-guþs adj.@
+@Gods: heathen ~@|@guda@
+@going down (of the sun)@|@sagqs sm.@
+@gold@|@gulþ, sn.@
+@golden@|@gulþeins, adj.@
+@good@|@gôþs adj., leikáins, sf., sêls, adj., þiuþ, adj., þiuþeigs, adj.@
+@good for: be ~@|@dugan, pret.-pres.@
+@good: do ~@|@bôtjan, wv., þiuþjan, wv.@
+@goodness@|@gôde wf.@
+@gorgeous@|@wulþags, adj.@
+@gospel@|@aíwaggêljô, wf.@
+@govern@|@faúra-standan, sv., reikinôn, wv., waldan, sv.@
+@governor@|@faúra-gagga, wm., faúra-gaggja, wm., káisar, sm., kindins, sm., ragineis, sm.@
+@grab on to@|@ana-haban, wv.@
+@grace@|@ansts, sf.@
+@gracious@|@ansteigs, adj., hulþs, adj.@
+@grain@|@£áiteis, sm.@
+@grandmother@|@awô, wf.@
+@grant@|@fra-giban, sv., und-rêdan, sv.@
+@grasp@|@fâhan, sv.@
+@grass@|@gras, sn., haw sn.@
+@grave@|@aúrah sf., aúrahjô, hláiw, sn.@
+@great@|@abrs, adj., filu, mikils, adj.@
+@great age: of ~@|@fram-aldrs, adj.@
+@great deal@|@filu@
+@great many@|@mnags, adj.@
+@greatest@|@máists, adj.@
+@greatly@|@abraba, adv., mikilaba, adv.@
+@greatness@|@mikil-dûþs, sf., mikile wf.@
+@greedy@|@friks, adj., grêdags, adj.@
+@greedy: be ~@|@grêdôn, wv.@
+@greet@|@gôljan, wv.@
+@grief@|@saúrga, sf.@
+@grievously@|@harduba, adv.@
+@grind@|@malan, sv.@
+@grind the teeth@|@kriustan, sv.@
+@ground@|@grundus, sm.@
+@grow@|@alan, sv., in-swinþjan, wv., keinan, sv., liudan, sv.@
+@grow up@|@us-keinan, sv.@
+@grown up: being ~@|@láuþs, adj.@
+@growth@|@us-wahsts, sf., wahstus, sm.@
+@guard@|@wardja, wm.@
+@guest@|@gasts, sm.@
+@guest-chamber@|@saliþwôs, sf. pl.@
+@guide@|@tiuhan, sv.@
+@guilty@|@skula, adj.@
+@habit@|@sidus, sm.@
+@haft@|@hæft@
+@hair@|@tagl, sn.@
+@hair of the head@|@skuft, sn.@
+@half@|@halbs, adj.@
+@half-blind@|@háihs, adj.@
+@hall@|@rôhsns, sf.@
+@hallowed: be ~@|@weihnan, wv.@
+@halt@|@halts, adj.@
+@hand@|@handus, sf.@
+@hand: be at ~@|@at-nê£jan, wv.@
+@hand-made@|@handu-waúrhts, adj.@
+@handmaid@|@þiwi sf.@
+@hang@|@hâhan, sv.@
+@happen@|@ga-daban, sv.@
+@happy@|@sâlîg@
+@hard@|@aglus, adj., hardus, adj.@
+@harden@|@ga-dáubjan, wv.@
+@hardened@|@dáufs, adj.@
+@hard-heartedness@|@hardu-haírte wf.@
+@hardly@|@harduba, adv., ni allis@
+@hardness@|@dáubiþa, sf.@
+@harlot@|@kalkjô, wf.@
+@harm@|@ana-mahtjan, wv.@
+@harvest@|@asans, sf.@
+@hasten@|@rinnan, sv., sniumjan, wv., sniwan, sv.@
+@hasten to@|@faúr-sniwan, sv.@
+@hasten towards@|@du-at-sniwan, sv.@
+@hate@|@fijan, wv., hatan, wv., hatjan, wv.@
+@hatred@|@fijaþwa sf., hatis, sn., neiþ, sn.@
+@haughty@|@háuh-þûhts, adj., un-tila-malsks, adj.@
+@haul@|@ga-fâhs, sm.@
+@have@|@áihan, pret.-pres., ga-haban, wv., haban@
+@have pity on@|@ga-arman, wv.@
+@have space@|@ga-môtan, pret.-pres.@
+@have: I ~@|@áih, pret.-pres.@
+@have: we ~@|@áigum,@
+@hay@|@haw sn.@
+@he@|@is, pers. pr.@
+@he other side (of a lake)@|@jáinis stadis@
+@he who@|@sa-e rel. pr.@
+@head@|@háubiþ, sn.@
+@heal@|@ga-háiljan, wv., háiljan, wv., lêkinôn, wv.@
+@healed: be ~@|@ga-háilnan, wv.@
+@healing@|@lêkinassus, sm.@
+@healt@|@halts, adj.@
+@health@|@ga-nists, sf.@
+@healthy@|@swinþs, adj.@
+@heap up@|@ga-dragan, sv., rikan, sv.@
+@hear@|@and-háusjan, wv., ga-háusjan, wv., háusjan, wv., háusjôn, wv.@
+@hearing@|@hliuma, wm.@
+@heart@|@haírtô, wn.@
+@heath@|@háiþ sf.@
+@heathen woman@|@háiþnô, wf.@
+@heaven@|@himins, sm.@
+@heavenly@|@himina-kunds, adj.@
+@heavy@|@kaúrus, adj., swâr@
+@hedge@|@faþa, sf.@
+@heed@|@and-háusjan, wv.@
+@height@|@háuhist sn.@
+@heir@|@arbi-numja, wm., arbja, wm.@
+@heiress@|@arbjô, wf.@
+@Hell@|@gaíaínna, wm., halja, sf.@
+@helmet@|@hilms, sm.@
+@help@|@hilpan, sv., niþan, sv.@
+@hem of a garment@|@skáuts, sm.@
+@henceforth@|@fram himma@
+@henceforward@|@fram-waírþis, adv.@
+@herd@|@haírda, sf.@
+@here@|@hêr, adv.@
+@heritage@|@arb sn.@
+@hew@|@máitan, sv.@
+@hidden@|@ana-láugns, adj., fulgins, adj.@
+@hidden: the thing ~@|@fulhsn sn.@
+@hide@|@baírgan, sv., filhan, sv., fill, sn., ga-filhan, sv., huljan, wv.@
+@hiding-place@|@filigri sn.@
+@high@|@háuhs, adj.@
+@higher@|@aúhuma, adj., háuhis, adv.@
+@highest@|@aúhumists adj., háuhist sn.@
+@highest point@|@háuhist sn.@
+@highly@|@háuhaba, adv.@
+@hill@|@hláins, sm.@
+@hill-country@|@baírgahe wf.@
+@hinder@|@marzjan, wv.@
+@hindmost@|@hindumists, adj.@
+@hip@|@hups, sm.@
+@hired servant@|@asneis, sm.@
+@his@|@seins, poss. pr.@
+@hit@|@bliggwan, sv., slahan, sv.@
+@hither@|@hêr, adv., hidrê, adv., und hita nu@
+@hoard up@|@huzdjan, wv.@
+@hold@|@ga-haban, wv., haban, haldan, sv.@
+@hold dear@|@ga-þláihan, sv.@
+@hold fast@|@ga-fastan, wv.@
+@hold firm@|@fastan, wv., ga-standan, sv.@
+@hold one's ngue@|@af-dumbnan, wv.@
+@hold one's tongue@|@þahan, wv.@
+@hold up@|@uf-haban, wv.@
+@hole@|@grôba, sf.@
+@hole through anything@|@þaírkô, wn.@
+@holiness@|@weihiþa, sf.@
+@hollow out@|@ga-draban, sv.@
+@holy@|@weihs, adj.@
+@holy: become ~@|@weihnan, wv.@
+@homestead@|@háimôþl sn.@
+@honestly@|@aíþþáu jah@
+@honey@|@miliþ, sn.@
+@honour@|@blôtan, sv., swêran wv., swêre wf., swêriþa sf.@
+@honoured@|@swêrs adj.@
+@hope@|@wênjan, wv., wêns, sf.@
+@horn@|@haúrn, sn.@
+@horn-blower@|@haúrnja, wm.@
+@hosanna@|@ôsanna@
+@host@|@harjis, sm.@
+@hostile@|@anda-neiþs, adj.@
+@hound@|@hunds, sm.@
+@hour@|@£eila, sf.@
+@hour season@|@mêl, sn.@
+@house@|@gards, sm., razn, sn.@
+@household@|@gards, sm.@
+@household: of the same ~@|@inna-kunds, adj.@
+@how@|@£áiwa, conj. and adv., £ê, adv.@
+@how long@|@und £a@
+@how much@|@£an filu@
+@however@|@ak conj., iþ, conj., raíhtis, conj., swê-þáuh, adv.@
+@human@|@mannisks, adj.@
+@humanity@|@manniskôdus, sm.@
+@humble@|@hnáiws, adj.@
+@hundred@|@hund, sn., taíhuntêhund  num.@
+@hundredfold@|@taíhuntaíhund-falþs, num.@
+@hunger@|@huggrjan, wv., hûhrus, sm.@
+@hungry@|@grêdags, adj.@
+@hungry: be ~@|@grêdôn, wv.@
+@hurl@|@waírpan, sv.@
+@hurl down@|@af-dráusjan, wv.@
+@husband@|@aba, hîwo@
+@husk@|@haúrn, sn.@
+@hypocrisy@|@liute wf.@
+@hypocrite@|@liuta, wm.@
+@hypocritical@|@liuts, adj.@
+@I am@|@im, def. v.@
+@I know@|@wáit, pret.-pres.@
+@I may be@|@sijáu@
+@I need@|@þarf, pret.-pres.@
+@I thought@|@þâhta, pret.@
+@if@|@iþ, conj., jabá conj., þandê, conj., þat-ei conj.@
+@if so@|@ja-u@
+@if...not@|@nibá niba, conj.@
+@ignorance@|@un-wit sn.@
+@ill@|@siuks, adj.@
+@ill: be ~@|@ubil haban@
+@ill-treat@|@ga-áiwiskôn, wv.@
+@illuminate@|@ga-liuhtjan, wv.@
+@illumination@|@and-huleins, sf.@
+@image@|@man-leika, wm.@
+@immanent@|@at-ist@
+@immature@|@barnisks adj.@
+@immediately@|@anaks, adv., suns-áiw, adv., suns, adv.@
+@imminent@|@at-wisan, sv.@
+@immortality@|@un-riure wf.@
+@impious@|@af-guþs, adj.@
+@implacable@|@un-hunslags, adj.@
+@impossible@|@un-mahteigs, adj.@
+@imprison@|@fra-hinþan, sv.@
+@in@|@ana, prep. c. acc./dat., and, prep. c. acc., in, prep. c. acc., in, prep. c. acc., inn, adv.@
+@in a greater rush@|@sniumundôs@
+@in debt@|@skula, adj.@
+@in front of@|@in and-waírþja@
+@in like manner@|@sama-leikô, adv.@
+@in need@|@wans@
+@in no way@|@waíhtá ni in waíhtá@
+@in order@|@ga-hâhjô, adv.@
+@in order that@|@þe conj.@
+@in such manner@|@ana-leikô, adv.@
+@in that place@|@jáinar, adv.@
+@in the midst@|@in midumá@
+@in vain@|@swarê, adv.@
+@in what way@|@£áiwa, conj. and adv.@
+@incarcerate@|@at-giban, sv.@
+@incline@|@driusô, wf.@
+@inconstant@|@£eila-£aírbs, adj.@
+@incontinent@|@un-ga-habands sik, pres. part.@
+@incorruption@|@un-riure wf.@
+@increase@|@áukan, sv., bi-áukan, sv., þeihan, sv., us-wahsts, sf., wahsjan, sv.@
+@indeed@|@áuftô (aúftô?), adv., raíhtis, conj., swê-þáuh, adv.@
+@inebriate@|@af-drugkja, wm.@
+@inebriation@|@drugkane wf.@
+@infirmity@|@siuke wf., un-mahts, sf.@
+@inflexibility@|@dáubiþa, sf.@
+@inhabit@|@bauan, wv.@
+@inherit@|@arbja wairþan@
+@inheritance@|@áigin, sn., arb sn.@
+@inheritor@|@arbja, wm.@
+@inhuman@|@un-mana-riggws, adj.@
+@initiate@|@ana-stôdjan, wv.@
+@injure@|@ana-mahtjan, wv., ga-skaþjan, wv., ga-sleiþjan, wv., hôlôn, wv., meiþa, skaþjan, sv.@
+@injured in: be ~@|@gasleiþjan sik@
+@injustice@|@un-sêle wf.@
+@inmost@|@innuma, adj.@
+@inner@|@innuma, adj.@
+@innermost@|@innuma, adj.@
+@innocent@|@un-áiwisks, adj.@
+@inopportunely@|@un-ûhteigô adv.@
+@inquiry@|@sôkns, sf.@
+@inside@|@innana, adv.@
+@insipid: become ~@|@báuþs wairþan@
+@inspiration@|@ahmateins, sf.@
+@instruct@|@talzjan, wv.@
+@instruction@|@talzeins, sf.@
+@intend@|@munan, wv.@
+@intention@|@muns, sm.@
+@interpret@|@ga-skeirjan, wv.@
+@invitation@|@laþôns, sf.@
+@invite@|@ga-laþôn, wv., háitan, sv., laþôn, wv.@
+@iron@|@eisarn, sn., eisarneins, adj.@
+@issue@|@runs, sm.@
+@itch@|@suþjôn, wv.@
+@its@|@sein poss. pr.@
+@jail@|@karkara, sf.@
+@jenny@|@asilus, sf.@
+@Jewish@|@iudaíwisks, adj.@
+@join@|@ga-haftjan sik, wv., haftjan, wv.@
+@join oneself@|@ga-haftjan sik, wv.@
+@join together@|@ga-widan, sv.@
+@journey@|@wigs, sm., wratôdus, sm.@
+@joy@|@fahêþs, sf.@
+@judge@|@dômjan, wv., ga-dômjan, wv., staua, wm., stôjan, wv.@
+@judgement@|@dôms, sm., staua, sf.@
+@Judgement Day@|@stûa-tago@
+@judgment@|@ragin, sn.@
+@jug@|@aúirkeis sm.@
+@just@|@ga-raíhts, adj., us-waúrhts, adj.@
+@just as@|@swa-swê, adv., swê, adv. and conj.@
+@just so@|@swa, swah, adv.@
+@justify@|@sunjôn, wv.@
+@keep@|@baírgan, sv., fastan, wv., ga-fastan, wv., haban@
+@keep watch@|@þaírh-wakan, sv., witan, wv.@
+@kettle@|@katils, sm.@
+@kid@|@gáitein@
+@kill@|@af-dáuþjan, wv., af-slahan, sv., af-sneiþan, sv., uf-sneiþan, sv., us-qiman, sv. dat. or acc., us-qistjan@
+@kind@|@bleiþs, adj., sêls, adj.@
+@kindle@|@tandjan, wv.@
+@kindness@|@arma-hairtiþa, sf., mildiþa, sf.@
+@king@|@þiudans, sm.@
+@kingdom@|@reik sn., þiudan-gard sf., þiudinassus, sm.@
+@kinsman@|@ga-niþjis, sm., niþjis, sm.@
+@kiss@|@kukjan, wv.@
+@knead@|@deigan, sv.@
+@knee@|@kniu, sn.@
+@kneel@|@knussjan kniwam, knussjan, wv.@
+@knew: I ~@|@kunþa, pret.@
+@know@|@finþan, sv., fraþjan, sv., kunnan, pret.-pres., uf-kunnan, wv., witan, pret.-pres.@
+@know: I ~@|@kann, pret.-pres., láis, pret.-pres.@
+@knowledge@|@kunþ sn., uf-kunþ sn., witubn sn.@
+@knowledgeable@|@weis@
+@known@|@kunþs, pp. of kunnan, mêrs, adj., wiss adj.@
+@known: make ~@|@and-huljan, wv., kannjan, wv.@
+@labor@|@arbáiþs, sf.@
+@lack@|@gáidw, sn., þaúrban, pret.-pres., wan, sn.@
+@lacking@|@wans@
+@lade@|@hlaþan, sv.@
+@lair@|@filigri sn.@
+@lake@|@sáiws, sm.@
+@lamb@|@lamb, sn., wiþrus, sm.@
+@lame@|@halts, adj.@
+@lament@|@flôkan, sv., gáunôn, wv., grêtan, sv., qáinôn, wv.@
+@lament loudly@|@wái-faír£jan, wv.@
+@lamentation@|@gáunôþus, sm., grêts, sm.@
+@land@|@aírþa, sf., gaw sn., land, sn., staþs sm.@
+@lands@|@háimôþl sn.@
+@language@|@razda, sf.@
+@lap@|@barms@
+@large basket@|@spyreida, wm.@
+@larger: become ~@|@bi-áuknan, wv.@
+@lasciviousness@|@agláite wf.@
+@last@|@aftuma, adj., aftumists, adj., spêdumists, adj.@
+@late@|@seiþus, adj., spêþs, adj.@
+@later on@|@bi-þê conj.@
+@laugh.@|@hlahjan, sv.@
+@law@|@witôþ, sn.@
+@lawful: it is ~@|@bi-nah, pret.-pres.@
+@lawfully@|@witôdeigô, adv.@
+@lawless@|@un-sibjis, adj., witôda-láus, adj.@
+@lay@|@ga-lagjan, wv., us-lagjan, wv.@
+@lay back@|@ana-kumbjan, wv.@
+@lay down@|@ana-hnáiwjan, wv., ga-lagjan, wv., lagjan, wv.@
+@lay hold of@|@greipan, sv., und-greipan, sv.@
+@lay on@|@ana-lagjan, wv., at-lagjan, wv.@
+@lay out@|@us-lagjan, wv.@
+@lay upon@|@us-lagjan, wv.@
+@laying on@|@ana-lageins, sf.@
+@lazy@|@lats, adj.@
+@lead@|@ga-tiuhan, sv., tiuhan, sv.@
+@lead astray@|@aírzjan, wv.@
+@lead out@|@us-tiuhan, sv.@
+@leader@|@faúr-stasseis, sm., faúra-maþleis, sm.@
+@leader of a thousand men@|@þûsundi-faþs, sm.@
+@leader of the synagogue@|@synagôga-faþs, sm.@
+@leaf@|@láufs, sm.@
+@leap@|@hláupan, sv.@
+@leap for joy@|@láikan, sv.@
+@leap up@|@us-hláupan, sv.@
+@learn@|@finþan, sv.@
+@learn by inquiry@|@ga-fraíhnan, sv.@
+@learned@|@weis@
+@least@|@minnists, adj.@
+@leather thong@|@skáuda-ráips, sm.@
+@leathern@|@filleins, adj.@
+@leave@|@af-gaggan, sv., af-linnan, sv., bi-leiþan, sv., fra-lêtan, sv., láibjan, lêtan, sv.@
+@leaven@|@beist, sn.@
+@left@|@hleiduma, adj.@
+@left hand or side@|@hleiduma, adj.@
+@legion@|@laígaíôn@
+@lend@|@lei£an, sv.@
+@length@|@lagge wf.@
+@leprosy@|@þrûts-fill, sn.@
+@leprous@|@þrûts-fills, adj.@
+@less@|@minniza, adj., mins, adv.@
+@lest at any time@|@nibái £an@
+@let@|@lêtan, sv.@
+@let down with cords@|@in-sáiljan, wv.@
+@liberate@|@fra-lêtan, sv.@
+@licentiously@|@us-stiuriba, adv.@
+@lie@|@ga-liug, sn., galiug weit-wôdjan, ligan, sv., liugan, sv.@
+@lie down@|@ana-kumbjan, wv., ligan, sv.@
+@lie hid@|@ga-láugnjan, wv.@
+@lie under@|@uf-ligan, sv.@
+@liesure: at ~@|@ûhtiugs, adj.@
+@life@|@ealdor, libáins, sf., sáiwala, sf.@
+@lift@|@hafjan, sv.@
+@lift up@|@uf-rakjan, wv.@
+@light@|@ga-liuhtjan, wv., liuhaþ, sn., lukarn, sn., tandjan, wv.@
+@lighten@|@laúhatjan, wv.@
+@like@|@swê, adv. and conj.@
+@like unto what?@|@£ê galeiks?@
+@liken@|@ga-leikôn, wv.@
+@likewise@|@sama-leikô, adv.@
+@liking@|@leikáins, sf.@
+@limb@|@liþus, sm.@
+@lineage@|@fadreins, sn., ga-baúrþi-waúrda@
+@linen@|@lein, sn.@
+@lip@|@waírilô, wf.@
+@listen@|@háusjan, wv., uf-háusjan wv.@
+@little@|@leitils, adj.@
+@little boy@|@magula, wm.@
+@little child@|@barnilô wn.@
+@live@|@liban, wv.@
+@living@|@qius, adj.@
+@load@|@af-hlaþan, sv., hlaþan, sv.@
+@loaf@|@hláifs, sm.@
+@loathe@|@fijan, wv.@
+@lock@|@ga-lûkan, sv.@
+@locquacious@|@filu-waúrdjan, wv.@
+@locust@|@þramste wf.@
+@loins@|@hups, sm.@
+@long@|@laggs, adj.@
+@long-abiding@|@us-beisneigs, adj.@
+@long-suffering@|@lagga-môde wf., us-beisne wf., us-beisneigs, adj., us-beisns, sf.@
+@look@|@bi-sai£an, sv.@
+@look about@|@faír-weitjan, wv.@
+@look for@|@beidan, sv. c. gen., us-beidan, sv.@
+@look on@|@us-saí£an, sv.@
+@look round@|@in-saí£an, sv.@
+@look round about@|@wláitôn, wv.@
+@look up@|@us-saí£an, sv.@
+@look upon@|@in-saí£an, sv.@
+@loose@|@and-bindan, sv., ga-láusjan, wv.@
+@loosen@|@ga-láusjan, wv.@
+@loosened: be ~@|@and-bundnan, wv.@
+@lord@|@fráuja, wm.@
+@lord: be ~@|@fráujinôn, wv.@
+@lose@|@fra-liusan, sv.@
+@lost@|@aírzeis, adj.@
+@lot@|@hláuts, sm.@
+@love@|@frijaþwa, frijôn, wv., lubô, wf.@
+@low@|@hnáiws, adj.@
+@lower@|@ga-hnáiwjan, wv., hnáiwjan, wv.@
+@lust@|@lustus, sm.@
+@mad@|@wôþs adj.@
+@made alive: be ~@|@ga-qiunan, wv.@
+@made manifest@|@swikunþs waírþan@
+@made of dirt@|@digans, pp.@
+@made real@|@swikunþs waírþan@
+@magnified: be ~@|@mikilnan, wv.@
+@magnify@|@mikiljan, wv.@
+@maid@|@magaþs, sf., taleiþa@
+@maiden@|@mawi@
+@maidenhood.@|@magaþe wf.@
+@maimed@|@hamfs, adj.@
+@make@|@ga-lagjan, wv., ga-skapjan, sv., ga-táujan, wv., ga-waúrkjan, wv., skapjan, sv., táujan, wv., waúrkjan, wv.@
+@make a noise@|@aúhjôn, wv.@
+@make ashamed@|@ga-áiwiskôn, wv.@
+@make clean@|@ga-hráinjan, wv.@
+@make clear@|@ga-skeirjan, wv.@
+@make common@|@ga-máinjan, wv.@
+@make high@|@háuhjan, wv.@
+@make known@|@ga-kannjan, wv., ga-swêran, wv., ga-swi-kunþjan, wv., kunþjan, wv.@
+@make ready@|@skaftjan, wv.@
+@make war@|@stigqan, sv.@
+@make wet@|@natjan, wv.@
+@malady@|@sauil, sn. sun@
+@male@|@guma-kunds, adj., gumeins, adj.@
+@malefactor@|@wái-dêdja, wm. w-dr@
+@malign@|@ubil-waúrdjan, wv., ubil qiþan@
+@maligning@|@ubil-waúrds, adj.@
+@mammon@|@mammôna, wm.@
+@man@|@guma, wm., manna, wm., waír, sm.@
+@manger@|@uz-êta, wm.@
+@manifest@|@baírhts adj., ga-baírhtjan, wv., swi-kunþs, adj., us-kunþs, adj.@
+@manifestation@|@ga-baírhteins, sf.@
+@manifestly@|@swi-kunþaba, adv.@
+@mankind@|@mana-sêþs, sf.@
+@manlike@|@gumeins, adj.@
+@manner@|@háidus, sm.@
+@manner of life@|@us-mêt, sn.@
+@mansion@|@saliþwôs, sf. pl.@
+@manuscript@|@maímbrana, wm.@
+@manyfold@|@manag-falþs, num.@
+@market@|@maþl, sn.@
+@marketplace@|@maþl, sn.@
+@market-place@|@ga-runs, sf.@
+@marry@|@ga-liugan, wv., liugan, wv.@
+@marvel@|@silda-leikjan, wv.@
+@master@|@faþs, sm. (suffix-ending), fráuja, wm., láisareis, sm., rabbe@
+@master of a house@|@heiwa-fráuja, wm.@
+@master of the house@|@garda-waldands, m.@
+@meanwhile@|@und þate@
+@measure@|@mêla, wm., metemên, mitan, sv., mitaþs, sf.@
+@meat@|@fôdeins, sf., mats, sm., mims sn.@
+@meditate@|@þagkjan, wv.@
+@meekness@|@qaírre wf.@
+@meet@|@ga-môtjan, wv.@
+@meet with@|@bi-gitan sv.@
+@meet: go ~@|@wiþra-ga-môtjan, wv., wiþra-gaggan, sv.@
+@meeting.@|@mæþel@
+@menace@|@us-þriutan, sv.@
+@merciful@|@arma-hairts, adj., bleiþs, adj.@
+@mercy@|@arma-hairte wf., arma-hairtiþa, sf., armaiô, wf., bleiþe wf.@
+@merry: be ~@|@waíla wisan@
+@merry: make ~@|@bi-wisan, sv.@
+@messenger@|@aggilus, sm., áirus, sm.@
+@messenger: be a ~@|@áirinôn, wv.@
+@middle@|@midjis, adj.@
+@midst@|@miduma, sf.@
+@might@|@mahts, sf., swinþe wf.@
+@might: I ~@|@mahta, pret.@
+@mightiest@|@reikista@
+@mighty@|@abrs, adj., mahteigs, adj., reiks, adj.@
+@mildness@|@mildiþa, sf.@
+@milk@|@miluks, f.@
+@mill: a ~@|@asilu-qaírnus, sf.@
+@mind@|@aha, wm., ga-hugds, sf.@
+@minister@|@and-bahtjan, wv.@
+@ministry@|@andbaht sn.@
+@miracle@|@táikns, sf.@
+@mirror@|@skuggwa, wm.@
+@misdeed@|@missa-dêþs, sf.@
+@mislead@|@af-airzjan, wv.@
+@misled@|@aírzeis, adj.@
+@mistake@|@ga-twola@
+@mistaken: be ~@|@aírzeis wisan, uswiss usmitan@
+@mix@|@blandan, sv., ga-wagjan, wv.@
+@mock@|@bi-láikan, sv.@
+@moment@|@stiks, sm.@
+@moment of time@|@stiks mêlis@
+@money@|@áiz, sn., skatts, sm.@
+@money-box@|@arka, sf.@
+@money-changer@|@skattja, wm.@
+@month@|@mênôþs, m.@
+@moon@|@mêna, wm.@
+@more@|@máis, adv., þana-seiþs, adv.@
+@more than@|@máis þáu@
+@morning@|@maúrgins, sm.@
+@-morrow@|@gistra-dagis, adv.@
+@mortal@|@þata diwanô@
+@mortality@|@þata diwanô@
+@moth@|@malô, wf.@
+@mother@|@áiþe wf.@
+@mount@|@us-steigan sv.@
+@Mount of Olives.@|@fairguni alêwjô@
+@mount up@|@steigan, sv., ufar-steigan, sv.@
+@mountain@|@faírgun sn.@
+@mountain goat@|@firgen-gât@
+@mourn@|@flôkan, sv., ga-nipnan, wv., maúrnan, wv., qáinôn, wv.@
+@mourning@|@gáunôþus, sm.@
+@mouth@|@munþs, sm.@
+@move@|@wagjan, wv.@
+@moved with compassion: be ~@|@in-feinan,@
+@much@|@mnags, adj.@
+@much more@|@filu máis, und filu máis@
+@much talking@|@filu-waúrde wf.@
+@multitude@|@filusna, sf., hansa, sf., hiuhma, wm., iumjô, wf., mana-sêþs, sf., manage wf.@
+@mumble@|@bi-rôdjan, wv.@
+@murder@|@maúrþr, sn., maúrþrjan, wv.@
+@murmur@|@bi-rôdjan, wv.@
+@music@|@saggws, sm.@
+@must@|@skulan, pret.-pres.@
+@mustard@|@sinaps, sm. or sinap, sn.@
+@muted@|@un-rôdjands, pres. part.@
+@mutter against@|@and-staúrran, wv.@
+@my@|@meins@
+@myrrh@|@smyrn, sn.@
+@mystery@|@rûna, sf.@
+@n the head@|@háubiþ wundan briggan@
+@naked@|@naqaþs, adj.@
+@name@|@háitan, sv., namnjan, wv., namô, wn.@
+@naming@|@háit, sn.(-hait)@
+@nard@|@nardus, sm.@
+@narrate@|@spillôn, wv.@
+@narrow@|@aggwus, adj.@
+@native land@|@ga-baúrþs, sf.@
+@naught@|@ni waíhts, waíht n.@
+@nay@|@nê, adv.@
+@near@|@bi-sunjanê, adv., nê£, adv., nê£a, prep. c. dat.@
+@near at hand@|@in-wisan, sv.@
+@nearer@|@nê£is, adv.@
+@necessary@|@naúdi-þaúrfts, adj., þaúrfts, adj.@
+@necessity@|@þaúrfts, sf.@
+@neck@|@hals, sm.@
+@need@|@þarba, sf., þaúrban, pret.-pres., þaúrfts, sf.@
+@needle@|@nêþla, sf.@
+@needy@|@þaúrfts, adj.@
+@needy one@|@þarba, wm.@
+@neglectful@|@un-karja, w. adj.@
+@neighbour@|@bi-sitands, m., ga-razna, wm., nê£undja, wm.@
+@neighbourhood@|@staþs sm.@
+@neither ... nor@|@nih...nih@
+@neither...but also@|@nih...ak jah@
+@neither...nor@|@ni...ni or nih,@
+@neither: for ~@|@nih allis@
+@nest@|@sitls, sm.@
+@net@|@ga-niutan, sv., nat sn.@
+@never@|@ni áiw, ni áiw, niu áiw@
+@nevertheless@|@ake conj.@
+@new@|@niuja-satiþs, sm.@
+@newness@|@niujiþa, sf.@
+@next@|@iftuma, adj.@
+@nigh@|@nê£a, prep. c. dat.@
+@night@|@nahts, f.@
+@nine@|@niun, num@
+@ninety@|@niuntêhund, num.@
+@ninth@|@niunda, num.@
+@no@|@áins-hun, indef. pr., nê, adv., ni áinshun@
+@no longer@|@ni þanamáis@
+@no more@|@ni þanamáis@
+@no one@|@£as-hun, indef. pr w/ neg., áins-hun, indef. pr., manna-hun, ni áinshun@
+@noble birth: of ~@|@gôda-kunds, adj.@
+@none@|@áins-hun, indef. pr., ni áinshun@
+@not@|@n adv. neg., niu, interr. particle@
+@not as yet@|@ni naúh@
+@not at all@|@ni allis, waíhtá ni in waíhtá@
+@not even@|@nih, conj.@
+@not in the least@|@ni allis@
+@not only...but also@|@ni þatáinei...ak jah, ni þatainei...ak jah,, nih...ak jah@
+@not other...than@|@ni alja ... alja@
+@not the more so@|@niþê haldis@
+@not yet@|@ni naúh@
+@not...but@|@ni...ak,@
+@nothing@|@ni waíhts, waíht n.@
+@nourishment@|@us-fôdeins, sf.@
+@novice@|@niuja-satiþs, sm.@
+@now@|@ju, adv., nu, adv.@
+@num. two@|@twái@
+@number@|@rahnjan, wv., raþjô, wf.@
+@numerous@|@ga-nôhs, adj.@
+@nurse@|@daddjan, wv.@
+@oath@|@áiþs, sm.@
+@obedience@|@uf-háuseins, sf.@
+@obey@|@and-háusjan, wv., uf-háusjan wv.@
+@observance@|@fastubn sn.@
+@observation@|@at-witáins, sf.@
+@observe@|@at-sai£an, sv., haban@
+@obtain@|@and-niman, sv., fra-niman, sv., ga-tilôn, wv.@
+@obvious@|@swi-kunþs, adj., us-kunþs, adj.@
+@occasion@|@lêw, sn.@
+@occur@|@waírþan, sv.@
+@of@|@af, prep. c. dat., at, prep. c. acc. and dat.@
+@of a sudden@|@anaks, adv.@
+@of consequence@|@wulþrs, adj.@
+@of man@|@mannisks, adj.@
+@of stone@|@stáineins, adj.@
+@of the male sex@|@guma-kunds, adj.@
+@of us two@|@ugkar, poss. pr.@
+@of wood@|@triweins, adj.@
+@of you two@|@igqar, poss. pr.@
+@offend@|@ga-marzjan, wv., marzjan, wv.@
+@offer@|@at-satjan, wv., biudan, sv.@
+@office of priest@|@gudjinassus, sm.@
+@often@|@ufta, adv.@
+@Oh!@|@ô, interj.@
+@ointment@|@salbôns, sf.@
+@old@|@alþeis (comp. alþiza) adj., faírneis, adj., sineigs, adj.@
+@oldest@|@sinista, adj.@
+@olive oil@|@alêw, sn.@
+@olives: from ~@|@alêws, adj.@
+@omen@|@faúra-tan sn.@
+@on@|@ana, prep. c. acc./dat.@
+@on account@|@fram, prep. c. dat.@
+@on account of@|@du þamma, þaírh, prep. c. acc.@
+@on guard@|@us-skáus, adj.@
+@on this day@|@himma daga@
+@once@|@simlê, adv.@
+@once more@|@aftra, adv.@
+@one@|@áins, num.@
+@one  another@|@missô, adv.@
+@one possessed by a demon@|@daimônareis, sm.@
+@one who whitens wool@|@wullareis, sm.@
+@one with another@|@samana, adv.@
+@one-eyed@|@háihs, adj.@
+@onefold@|@áinfalþs, num.@
+@one-handed@|@hamfs, adj.@
+@one's own possession@|@swês, adj.@
+@oneself@|@sik, refl. pr.@
+@ongly@|@af-aikan, sv.@
+@only@|@áinaha, w. adj., þat-áin-e adv.@
+@only child@|@áina-baúr, sm.@
+@only-born@|@áina-baúr, sm.@
+@onward@|@framis, adv.@
+@open@|@swi-kunþs, adj., us-lûkan, sv., us-luknan, wv.@
+@openly@|@and-áugjô, adv., in baírhtein, swi-kunþaba, adv.@
+@opinion@|@dôms, sm., ragin, sn.@
+@opponent@|@anda-staþjis, sm., fijands m.@
+@opportunely@|@ûhteigô, adv.@
+@opportunity@|@lêw, sn.@
+@opposite@|@anda-neiþs, adj., wiþra-waírþs, adj.@
+@oppress@|@ana-praggan, sv.@
+@or@|@aíþþáu, conj.@
+@order@|@ana-b sf., ana-biudan, sv., biudan, sv., ga-grêfts, sf., háit sf., ráidjan, wv.@
+@orphan@|@widuwaírna, wm.@
+@other@|@aljis, adj., anþar, adj.@
+@other-in-law@|@swaíhrô, wf.@
+@otherwise@|@aíþþáu, conj., alja-leikôs, adv.@
+@our@|@unsar, poss. pr.@
+@out@|@us, prep. c. dat., ût, adv.@
+@out of@|@faúr, us, prep. c. dat.@
+@outermost@|@hindumists, adj.@
+@oven@|@aúhns, sm.@
+@over@|@ana, prep. c. acc./dat., hindar, ufar, prep. c. acc. and dat., wiþra-waírþs, adj.@
+@over the land@|@landis@
+@over there@|@jáins, dem. pr.@
+@overfull@|@ufar-fulls, adj.@
+@overly proud@|@un-tila-malsks, adj.@
+@overshadow@|@ufar-skadwjan, wv.@
+@overtake@|@ga-fâhan, sv.@
+@overthrow@|@us-waírpan, sv., us-walteins, sf., us-waltjan, wv.@
+@overturn@|@us-waltjan, wv.@
+@owe@|@skulan, pret.-pres.@
+@owing@|@skula, adj.@
+@own@|@áihan, pret.-pres.@
+@ox@|@aúhsa, wm.@
+@pair@|@ga-juk, sn.@
+@pair of shoes.@|@ga-skôh sn.@
+@palace@|@þiudan-gard sf.@
+@palm of the hand@|@lôfa, wm.@
+@palm-tree@|@peika-bagms, sm.@
+@parable@|@ga-jukô, wf.@
+@paralytic person@|@us-liþa, wm.@
+@parched: be ~@|@þaírsan, sv.@
+@parchment@|@maímbrana, wm.@
+@pardon@|@af-lêts, sm., fra-lêts, sm.@
+@parents@|@bêrusjôs, sm. pl.@
+@partake@|@brûkjan, wv.@
+@partake of@|@faír-áihan, pret.-pres.@
+@particle@|@hun (-hun)@
+@particularly@|@þis-hun, adv.@
+@partition wall@|@miþ-gardi-waddjus, sf.@
+@partner@|@ga-juka, wm., ga-man, sn.@
+@paschal feast@|@paska, sf.@
+@pass@|@faúr-gaggan, sv.@
+@pass by@|@£arbôn, wv., us-leiþan, sv.@
+@patch@|@plats, sm.@
+@patch of cloth@|@fana, wm.@
+@paternity@|@fadrein, sn.@
+@path@|@stáiga, sf.@
+@patience@|@þuláins, sf.@
+@pauper@|@þarba, wm.@
+@pay@|@láun, sn.@
+@payment@|@annô, wf.@
+@peace@|@ga-waírþ sn.@
+@peace: at ~@|@ga-waírþeigs, adj.@
+@pedagogue@|@talzjands, m.@
+@pelt@|@fill, sn.@
+@people@|@þiuda, sf.@
+@perceive@|@fraþjan, sv., ga-saí£an, sv., gáumjan, wv., háusjan, wv.@
+@perdition@|@fra-lusts, sf.@
+@perfect@|@fulla-tôjis, adj.@
+@perform@|@ga-táujan, wv., waúrkjan, wv.@
+@perhaps@|@áuftô (aúftô?), adv.@
+@perish@|@fra-lusnan, wv., fra-qistnan, wv., ga-dáuþnan, wv.@
+@permit@|@fra-lêtan, sv., lêtan, sv., us-láubjan, wv.@
+@permitted: it is ~@|@bi-nah, pret.-pres.@
+@persecute@|@wrikan, sv.@
+@persecution@|@wraka, sf., wrakja, sf.@
+@persecutor@|@wraks, sm.@
+@persist@|@in-standan, sv.@
+@person@|@and-waírþ sn.@
+@persuasion@|@ga-kunþs, sf.@
+@physician@|@lêkeis, sm.@
+@picture@|@man-leika, wm.@
+@piece of cloth@|@fana, wm., plats, sm.@
+@piety@|@ga-gude wf.@
+@pig@|@swein sn.@
+@pile up@|@ga-dragan, sv., rikan, sv.@
+@pilfer@|@bi-ráubôn, wv.@
+@pillage@|@dis-wilwan, sv.@
+@pillow@|@waggar sn.@
+@pine away@|@ga-staúrknan, wv.@
+@pinnacle@|@gibla, wm.@
+@pious@|@ga-guþs adj.@
+@piper@|@swiglja, wm.@
+@pitcher@|@kas, sn.@
+@pity@|@arma-hairtiþa, sf., armaiô, wf., arman, wv., ga-bleiþjan, wv., in-feinan,@
+@pity: have ~@|@arman, wv., bleiþe wf.@
+@place@|@ga-lagjan, wv., ga-satjan, wv., lagjan, wv., satjan, wv., staþs sm.@
+@place creedence in@|@ga-láubjan, wv.@
+@place upon@|@us-satjan, wv.@
+@plague@|@balwjan, wv., slahs, sm., wundufn sf.@
+@plait@|@us-windan, sv.@
+@play@|@lâcan@
+@pleasant@|@anda-nêms, adj.@
+@please@|@ga-leikan, wv., leikan, wv.@
+@pleasure@|@ga-baúrjôþus, sm., leikáins, sf.@
+@pledge@|@ga-wadjôn, wv., wad sn.@
+@plough@|@arjan, wv.@
+@pluck@|@ráupjan, wv.@
+@plunder@|@dis-wilwan, sv., wilwan, sv.@
+@point@|@stiks, sm.@
+@point out@|@táiknjan, wv.@
+@ponder@|@mitôn, wv.@
+@poor@|@arms, adj., un-lêþs, adj.@
+@poor: be ~@|@armên@
+@portent@|@bandwa, sf., bandwô, wf.@
+@portion@|@dáils, sf.@
+@possess@|@áihan, pret.-pres., ga-haban, wv., ga-staldan, sv., haban@
+@possessed@|@wôþs adj.@
+@possible@|@mahts, adj.@
+@posterior@|@aftuma, adj.@
+@pound@|@pund, sn.@
+@pour@|@giutan, sv.@
+@poured out@|@us-gutnan, wv.@
+@poverty@|@þarba, sf.@
+@power@|@mahts, sf., reik sn., swinþe wf., waldufn sn.@
+@powerful@|@reiks, adj.@
+@practise@|@sidôn, wv.@
+@praise@|@háuheins, sf., háuhjan, wv., hazjan, wv., waíla qiþan@
+@pray@|@bidjan, sv.@
+@pray for@|@áihtrôn, wv.@
+@prayer@|@bida, sf.@
+@preach@|@mêrjan, wv., waíla-mêrjan, wv.@
+@preach the gospel@|@aíwaggêljan, wv.@
+@preaching@|@háuseins, sf.@
+@precede@|@faúr-bi-gaggan, sv., faúra-gaggan, sv.@
+@pregnant@|@in-kilþô, w. adj., qiþu-hafts, adj.@
+@prep. c. acc. in@|@in, prep. c. acc.@
+@preparation@|@manwiþa, sf.@
+@prepare@|@ga-manwjan, wv., ga-waúrkjan, wv., manwjan, wv., skaftjan, wv., skapjan, sv.@
+@Prertorium@|@praitôriaún@
+@presence@|@and-waírþ sn.@
+@present@|@and-waírþs, adj., at-satjan, wv., in-wisan, sv.@
+@present before@|@in and-waírþja@
+@preserve@|@baírgan, sv.@
+@pretence@|@inilô, wf.@
+@priceless@|@filu-ga-láufs@
+@pride@|@háuh-haírte wf.@
+@priest@|@gudja, wm., weiha, wm.@
+@priest: be a ~@|@gudjinôn, wv.@
+@prince@|@faúra-maþleis, sm., reikista, reiks, m.@
+@prior@|@faúr-þis, adv., faúra, fruma, adj.@
+@prison@|@karkara, sf.@
+@prisoner@|@bandja, wm., fra-hunþans@
+@prize@|@sigis-láun, sn.@
+@proceed@|@ur-rinnan, sv.@
+@proclaim@|@ga-swi-kunþjan, wv., ga-teihan, sv., mêrjan, wv., us-qiþan, sv.@
+@proclaimed: be ~@|@us-mêrnan, wv.@
+@proclaimer@|@mêrjands, m.@
+@produce@|@us-keinan, sv.@
+@profane@|@us-weihs, adj.@
+@profanity@|@agláiti-waúrde wf.@
+@profess@|@and-háitan, sv.@
+@profit@|@dugan, pret.-pres., ga-batnan, wv.@
+@profits@|@dáug, pret.-pres.@
+@progress@|@fram-gâhts, sf.@
+@prohibit@|@warjan, wv.@
+@promise@|@ga-háit, sn., ga-háitan, sv.@
+@pronounce judgment@|@ga-dômjan, wv.@
+@proof@|@kusts, sf., kustus, sm.@
+@proper@|@gi-burren, us-waúrhts, adj.@
+@property@|@áigin, sn., áihts, sf., faíhu, sn., swês, adj.@
+@prophesy@|@faúra-qiþan, sv., praúfêtjan, wv.@
+@prophet@|@praúfêtus@
+@prophetess@|@praúfêteis, fem.@
+@prosper@|@þeihan, sv.@
+@proud@|@háuh-þûhts, adj., mikil-þûhts, adj., muotig@
+@proud-hearted@|@háuh-haírts, adj.@
+@prove@|@káusjan, wv., us-kiusan, sv., us-táiknjan, wv.@
+@provide@|@und-rêdan, sv.@
+@publican@|@môtareis, sm.@
+@puff up@|@uf-báuljan, wv., uf-blêsan, sv.@
+@pull out@|@ráupjan, wv.@
+@pull towards@|@at-tiuhan, sv.@
+@pupil@|@sipôneis, sm.@
+@pure@|@hlûtrs, adj., hráins, adj., pistikeins, adj.@
+@purification@|@hráineins, sf.@
+@purity@|@hlûtre wf., swikniþa, sf.@
+@purple@|@paúrpura, sf.@
+@pursue@|@afargaggan, sv.@
+@push@|@stigqan, sv.@
+@push aside@|@af-skiuban, sv.@
+@push off@|@af-tiuhan, sv.@
+@put@|@lagjan, wv., satjan, wv.@
+@put  death@|@af-dáuþjan, wv.@
+@put asunder@|@skáidan, sv.@
+@put away@|@af-waírpan, sv.@
+@put forth@|@us-keinan, sv.@
+@put in the fire@|@in-brannjan, wv.@
+@put on@|@us-satjan, wv.@
+@put on clothes@|@at-lagjan, wv.@
+@putting aside@|@af-lageins, sf.@
+@putting before@|@faúr-lageins, sf.@
+@quarrel@|@háifstjan, wv.@
+@quench@|@af-£apjan, wv.@
+@quenched: be ~@|@af-£apnan, wv.@
+@quick@|@qius, adj.@
+@quickly@|@snêome, sniumundô, adv., spráutô, adv.@
+@quiet: be ~@|@ana-silan, wv.@
+@race@|@kun sn.@
+@rain@|@rign, sn.@
+@raise@|@aljan, wv., fôdjan, wv., hafjan, sv., mikiljan, wv., ráisjan, wv., ur-ráisjan, wv.@
+@ransom@|@anda-baúhts, sf., lun, sn.@
+@rash@|@un-tila-malsks, adj.@
+@rather@|@máis, adv.@
+@rather more@|@haldis, adv.@
+@rather than@|@máis þáu@
+@read@|@ga-kunnan, wv., us-siggwan, sv.@
+@readiness: in ~@|@manwuba, adv.@
+@ready@|@manwus, adj.@
+@ready: make ~@|@ga-manwjan, wv.@
+@reap@|@sneiþan, sv.@
+@rear@|@aljan, wv., fôdjan, wv.@
+@reasoning@|@mitôns, sf.@
+@rebuke@|@£ôtjan, wv., ga-£ôtjan, wv., ga-sahts, sf., ga-sakan, sv., sakan, sv.@
+@receive@|@and-niman, sv., fra-niman, sv., miþ niman, niman, sv.@
+@reciprocally@|@missô, adv.@
+@reckon@|@rahnjan, wv.@
+@recognize@|@ga-kunnan, wv., uf-kunnan, wv.@
+@recommendation@|@ana-filh, sn.@
+@recover@|@ga-nisan, sv.@
+@red@|@ráuþs, adj.@
+@redemption@|@faúr-baúhts, sf.@
+@reed@|@ráus, sn.@
+@reflect@|@þagkjan, wv.@
+@reflect upon@|@ga-rêdan, sv.@
+@refuse@|@in-widan, sv.@
+@regard@|@in-saí£an, sv., uf-háuseins, sf.@
+@regarding@|@faúr@
+@region@|@fêra, sf., gaw sn.@
+@reign@|@þiudanôn, wv.@
+@reject@|@bi-wandjan, wv., in-widan, sv., uf-brikan, sv., us-waírpan, sv.@
+@rejoice@|@faginôn, wv., sifan, wv.@
+@relate@|@spillôn, wv.@
+@relationship@|@sibja, sf.@
+@remain@|@af-lifnan, wv., bi-leiban, sv., ga-standan, sv., saljan, wv., þaírh-wisan, sv., wisan, sv.@
+@remember@|@ga-máudjan, wv., ga-munan, pret.-pres.@
+@remembrance@|@ga-máudeins, sf., ga-minþ sn., ga-munds, sf.@
+@remind@|@ga-máudjan, wv.@
+@remission@|@af-lageins, sf., af-lêts, sm., fra-lêts, sm.@
+@remnant@|@láiba, sf.@
+@remove@|@af-niman, sv.@
+@rend@|@dis-skreitan, sv., ga-taúra, wm., tahjan, wv.@
+@renew@|@ana-niujan, wv.@
+@renounce@|@af-qiþan, sv.@
+@renowned@|@mêrs, adj.@
+@rent@|@dis-skritnan, wv.@
+@repay@|@us-giban, sv., us-gildan, sv.@
+@repent@|@idreigôn, wv.@
+@repentance.@|@idreiga, sf.@
+@report@|@háuseins, sf., mêriþa, sf.@
+@reproach@|@id-weit, sn., id-weitjan, wv.@
+@reproof@|@ga-sahts, sf.@
+@reprove@|@ga-sakan, sv., id-weitjan, wv.@
+@request@|@bida, sf.@
+@requirement@|@þaúrfts, sf.@
+@resemble@|@ga-leikôn, wv.@
+@reside@|@bauan, wv.@
+@resound@|@swêgan@
+@respect of persons@|@wilja-halþe wf.@
+@response@|@anda-hafts, sf.@
+@restore@|@aftra gabôtjan, ga-satjan, wv.@
+@restrain@|@suwen@
+@resurrection@|@ur-rists, sf., us-stass, sf.@
+@reveal@|@and-huljan, wv., baírhtjan, wv., ga-baírhtjan, wv.@
+@revelation@|@and-huleins, sf.@
+@revenge@|@fra-weit, sn.@
+@reverence@|@áistan, wv., blôtan, sv., ga-áistan, wv., in-weitan, sv.@
+@revile@|@id-weitjan, wv., lauan, sv.@
+@reviled@|@fra-kunþs, pp.@
+@reward@|@láun, sn., mizdô, wf., sigis-láun, sn., us-giban, sv., us-gildan, sv.@
+@rich@|@gabigs (gabeigs), adj.@
+@riches@|@gabe wf., mammôna, wm.@
+@right@|@raihts, adj., taíhswa, w. adj.@
+@right hand@|@taíhswa, sf., taíhswô@
+@righteous@|@ga-raíhts, adj., us-waúrhts, adj.@
+@righteousness@|@ga-raíhte wf., ga-raíhteins, sf.@
+@rightly@|@raíhtaba, adv., waíla, adv.@
+@rip up@|@dis-skreitan, sv.@
+@ripped apart@|@dis-skritnan, wv.@
+@rise@|@reisan, sv., ur-rinnan, sv., us-standan, sv.@
+@rise quickly@|@us-hláupan, sv.@
+@rise up@|@us-standan, sv.@
+@river@|@a£a, sf.@
+@road@|@gaggs, sm.@
+@rob@|@bi-ráubôn, wv., fra-wilwan, sv., wilwan, sv.@
+@rock@|@stáins, sm.@
+@rocky@|@stáinahs, adj.@
+@roll@|@at-walwjan, wv.@
+@roll about@|@waltjan, wv.@
+@roll away@|@af-walwjan, wv.@
+@roof@|@hrôt, sn.@
+@room@|@hêþjô, wf., rûms, sm.@
+@rooster@|@hana, wm.@
+@root@|@waúrts, sf.@
+@round about@|@bi-sunjanê, adv.@
+@rub@|@bnauan, sv.@
+@rule@|@faúra-standan, sv., ga-fráujinôn, wv., ga-waldan, sv., reik sn., reikinôn, wv., waldan, sv.@
+@rule over@|@fráujinôn, wv.@
+@ruler@|@faúr-stasseis, sm., faúra-maþleis, sm., fráujinônds, m., kindins, sm., reiks, m.@
+@ruler: be the ~@|@raginôn, wv.@
+@rumour@|@mêriþa, sf.@
+@run@|@du-at-rinnan, sv., du-rinnan, sv., rinnan, sv., þragjan, wv.@
+@run about@|@bi-rinnan, sv.@
+@run hasten together@|@ga-rinnan, sv.@
+@run to one@|@und-rinnan, sv.@
+@running@|@runs, sm.@
+@running out@|@ur-runs, sf., ur-runs, sm.@
+@rush@|@sniwan, sv.@
+@rush violently@|@run gawaúrkjan sis@
+@rust@|@nidwa, sf.@
+@Sabbath@|@sabbatô@
+@Sabbath: day before the ~@|@fruma sabbatô@
+@sackcloth@|@sakkus, sm.@
+@sacrifice@|@hunsl, sn., hunsljan, wv., sáuþs, sm.@
+@sad: become ~@|@in-drôbnan, wv.@
+@sad: grow ~@|@in-drôbnan, wv.@
+@safe@|@háils, adj.@
+@salary@|@annô, wf.@
+@salt@|@salt, sn., saltan, sv.@
+@salute@|@gôljan, wv., in-weitan, sv.@
+@salvation@|@faúr-baúhts, sf., ga-nists, sf., naseins, sf.@
+@same@|@sama, pr.@
+@sample@|@brûkjan, wv.@
+@sanctified@|@weihnan, wv.@
+@sanctify@|@ga-weihan, wv., weihan, wv.@
+@sand@|@malma, wm.@
+@sang@|@saggws, sm.@
+@satiate@|@fullnan, wv.@
+@satisfied@|@saþs, adj.@
+@satisfy@|@fulla-fahjan, wv., ga-sôþjan, wv.@
+@save@|@alja, conj., ga-nasjan, wv., nasjan, wv.@
+@saved: be ~@|@ga-nisan, sv.@
+@saviour@|@nasjands, m.@
+@savour@|@dáuns, sf.@
+@say@|@qiþan, sv.@
+@saying@|@qiss, sf.@
+@scamper about@|@bi-rinnan, sv.@
+@scorch@|@uf-brinnan, sv.@
+@scorn@|@bi-hlahjan, sv., bi-láikan, sv.@
+@scourge@|@us-bliggwan, sv.@
+@scribe@|@bôkareis, sm.@
+@scripture@|@þata gamêlidô@
+@sea@|@mare wf., mari-sáiws, sm., sáiws, sm.@
+@seal@|@sigljan, wv., sigljô, wn.@
+@search@|@sôkns, sf.@
+@season@|@£eila, sf., ga-supôn, wv., supôn, wv.@
+@seasonably@|@ûhteigô, adv.@
+@seat@|@sitls, sm.@
+@second@|@anþar, adj.@
+@secret@|@ana-láugns, adj., gi-rûn, rûna, sf.@
+@secret: a ~@|@fulhsn sn.@
+@secretly@|@ana-láugniba, adv., þiubjô, adv.@
+@secure@|@ga-haban, wv.@
+@see@|@bi-sai£an, sv., ga-saí£an, sv., sai£an, sv.@
+@see fra-waúrhts@|@waúrhts, sf.@
+@see through@|@þaírh-saí£an, sv.@
+@see! lo! behold!@|@sá interj.@
+@seed@|@fráiw, sn.@
+@seek@|@ga-fraíhnan, sv., sôkjan, wv.@
+@seem@|@þugkjan, wv.@
+@seemed: it ~@|@þûhta, pret.@
+@seemingly@|@þûhta, pret.@
+@seize@|@ana-haban, wv., fâhan, sv., faír-greipan, sv., ga-fâhan, sv., greipan, sv., und-greipan, sv.@
+@seize upon@|@dis-sitan, sv.@
+@self@|@silba, pr.@
+@sell@|@fra-bugjan, wv.@
+@send@|@sandjan, wv.@
+@send away@|@us-dreiban, sv., us-sandjan, wv.@
+@send forth@|@in-sandjan, wv.@
+@send out@|@us-sandjan, wv.@
+@send peace on earth@|@lagjan ana aírþa@
+@separate@|@skáidan, sv.@
+@sequester@|@filhan, sv.@
+@serene@|@ga-waírþeigs, adj.@
+@serpent@|@waúrms, sm.@
+@servant@|@and-bahts, sm., asneis, sm., magus, sm., skalks, sm., þiu-magus, sm., þius, sm.@
+@serve@|@and-bahtjan, wv., fulla-fahjan, wv., skalkinôn, wv.@
+@serve as soldier@|@driugan, sv.@
+@service@|@andbaht sn., blôtinassus, sm., skalkinassus, sm.@
+@set@|@ga-lagjan, wv., ga-ráiþs adj., satjan, wv., us-satjan, wv.@
+@set free@|@fra-lêtan, sv.@
+@set in place@|@lagjan, wv.@
+@set lay@|@ga-satjan, wv.@
+@set loose@|@láusjan, wv.@
+@set on@|@us-satjan, wv.@
+@set upon@|@bi-satjan, wv.@
+@seven@|@sibun, num.@
+@seventy@|@sibuntêhund, num.@
+@several@|@fáus adj.@
+@severely@|@harduba, adv.@
+@severity.@|@£asse wf.@
+@sew@|@siujan, wv.@
+@shade@|@skadus, sm.@
+@shadow@|@skadus, sm.@
+@shake@|@ga-wagjan, wv., wagjan, wv., wiþôn, wv.@
+@shake down@|@ga-wigan, sv.@
+@shake off@|@us-hrisjan, wv.@
+@shake out@|@us-hrisjan, wv.@
+@shall@|@skulan, pret.-pres.@
+@shall: I ~@|@skal, pret.-pres.@
+@shame@|@skanda, sf., un-swêre wf.@
+@shape@|@skapjan, sv.@
+@share@|@dáiljan, wv., dáils, sf.@
+@sharp@|@£ass, adj.@
+@sharply@|@£assaba, adv.@
+@sharpness@|@£asse wf.@
+@shave@|@skaban, sv.@
+@she-ass@|@asilus, sf.@
+@shed@|@ga-skôhs, adj.@
+@sheep@|@lamb, sn.@
+@sheepfold@|@awistr, sn.@
+@shepherd@|@haírdeis, sm.@
+@shew-bread@|@hláibôs faúrlageináis@
+@shield@|@skildus, sm.@
+@shine@|@bierhtan, glitmunjan, wv., skeinan, sv.@
+@shine round@|@bi-skeinan, sv.@
+@shining@|@liuhadeins, adj.@
+@ship@|@skip, sn.@
+@shore@|@staþs sm.@
+@shoulder@|@ams wm.@
+@show@|@áugjan, wv., táiknjan, wv., us-táiknjan, wv.@
+@shower@|@skûra, sf.@
+@shun@|@bi-wandjan, wv.@
+@shut@|@ga-lûkan, sv., lûkan, sv.@
+@shut up: be ~@|@ga-luknan, wv.@
+@sick@|@siuks, adj.@
+@sickle@|@gilþa, sf.@
+@sickness@|@sauil, sn. sun, siuke wf., un-háil sn.@
+@sigh@|@ga-swôgjan, wv., swôgatjan, wv.@
+@sigh deeply@|@uf-swôgjan, wv.@
+@sight@|@faír-weitl, sn., siuns, sf.@
+@sightless@|@blinds, adj.@
+@sign@|@bandwa, sf., bandwô, wf., faúra-tan sn., táikns, sf.@
+@signify@|@bandwjan, wv.@
+@silent: be ~@|@af-dôbnan, wv., ana-silan, wv., ga-slawan, wv., ga-þahan, wv., slawan, wv., þahan, wv.@
+@silver@|@silubr, sn., silubreins, adj.@
+@similar@|@ga-leikô, adv., ga-leiks, adj., leiks, suffix@
+@simple@|@áinfalþs, áinfalþs, num.@
+@simplicity@|@áin-falþe wf.@
+@sin@|@fra-waúrhts, sf., fra-waúrkjan, wv., missa-dêþs, sf.@
+@since@|@fram, prep. c. dat., þandê, conj., untê, conj.@
+@sinful@|@fra-waúrhts, adj.@
+@sing@|@liuþôn, wv., siggwan, sv.@
+@singer@|@liuþareis, sm.@
+@single@|@áinfalþs, num.@
+@sink@|@ga-sigqan, sv., sagqjan wv., sigqan, sv.@
+@sinking@|@sagqs sm.@
+@sister@|@swistar, f.@
+@sit@|@ga-sitan, sv.@
+@sit around@|@bi-sitan, sv.@
+@sit at a table@|@ana-kumbjan, wv.@
+@sit down@|@ga-sitan, sv.@
+@sit near@|@bi-sitan, sv.@
+@six@|@saihs, num.@
+@sixth@|@saihsta, num.@
+@sixty@|@saihs tigjus, num.@
+@size@|@wahstus, sm.@
+@skilful@|@glau@
+@skill@|@lists, sf.@
+@skin@|@haúrn, sn.@
+@skull@|@£aírne wf.@
+@slake@|@af-£apjan, wv.@
+@slaughter@|@slaúhts, sf.@
+@slay@|@af-slahan, sv., uf-sneiþan, sv.@
+@sleep@|@slêpan, sv.@
+@slight@|@ga-sleiþjan, wv.@
+@slip@|@sliupan, sv.@
+@slope@|@driusô, wf.@
+@slothful@|@lats, adj.@
+@small@|@leitils, adj., smals, adj.@
+@smaller@|@minniza, adj.@
+@smallest@|@minnists, adj.@
+@smear@|@ga-smeitan, sv.@
+@smell@|@dáuns, sf.@
+@smite@|@slahan, sv., stáutan, sv.@
+@smooth@|@slalhts, adj.@
+@snare@|@wruggô, wf.@
+@snow@|@snáiws, sm.@
+@so@|@nu, adv., swa, swah, adv., þan-nu, þan-uh, conj.@
+@so great@|@swa-láuþs, pr.@
+@so that@|@e conj., þe conj.@
+@so that. so as@|@swa-ei@
+@so then@|@ja-u@
+@sober@|@in-ahs, adj.@
+@soberness@|@in-ahe wf.@
+@sobriety@|@in-ahe wf.@
+@soft@|@hnasqus, adj., þlaqus, adj.@
+@soldier@|@ga-draúhts, sm.@
+@sole@|@áins, num.@
+@sole of a shoe@|@suljô, wf.@
+@some one@|@sums, indef. pr.@
+@some...and others@|@sumái(h)...sumáih@
+@son@|@barnilô wn., baúr, sm., sunus, sm.@
+@song@|@saggws, sm.@
+@soon@|@áir, adv., spráutô, adv., suns, adv.@
+@soot@|@azgô, wf.@
+@sorrow@|@gáuriþa, sf., saúrga, sf., saúrgan, wv., winnan, sv.@
+@sorrowful@|@gáurs, adj.@
+@sorrowful: be ~@|@ga-nipnan, wv.@
+@soul@|@sáiwala, sf.@
+@sound@|@háils, adj., swinþs, adj.@
+@sow@|@saian sv.@
+@sow in@|@in-saian, sv.@
+@sower@|@saiands, pres. part.@
+@space@|@rûms, sm.@
+@span of four days@|@fidur-dôgs, adj.@
+@sparrow@|@sparwa, wm.@
+@speak@|@maþljan, wv., qiþan, sv., rôdjan, wv.@
+@speak evil of@|@ubil-waúrdjan, wv., ubil qiþan@
+@speak evil of one@|@ubil qiþan@
+@speak well of@|@waíla qiþan@
+@speaking lose words@|@láusa-waúrds, adj.@
+@spectacle@|@faír-weitl, sn.@
+@speech@|@qiss, sf., razda, sf.@
+@speech-impediment@|@stamms, adj.@
+@speechless@|@un-rôdjands, pres. part.@
+@spend@|@fra-qiman, sv.@
+@spices@|@arômata, pl.@
+@spin@|@spinnan, sv.@
+@spirit@|@ahma, wm., sáiwala, sf.@
+@spit@|@speiwan, sv.@
+@spit upon@|@bi-speiwan, sv.@
+@spoil@|@fra-wardjan, wv.@
+@sponge@|@swamms, sm.@
+@spread@|@stráujan, wv.@
+@spread the news@|@ga-teihan, sv.@
+@sprig@|@táins, sm.@
+@spring@|@brunna, wm., us-keinan, sv.@
+@spring up@|@keinan, sv., liudan, sv., ufar-steigan, sv.@
+@spy@|@spaíkulâtur, m.@
+@squander@|@fra-qisteins, sf.@
+@st once@|@anaks, adv.@
+@stable@|@uz-êta, wm.@
+@stadium@|@spaúrds, adj.@
+@staff@|@hrugga, sf., triu, sn.@
+@stammering@|@stamms, adj.@
+@stand@|@standan, sv.@
+@stand fast@|@ga-standan, sv.@
+@stand firm@|@standan, sv.@
+@stand near@|@at-standan, sv., faúra-standan, sv.@
+@stand off@|@af-standan, sv.@
+@stand up@|@us-standan, sv.@
+@star@|@staírnô, wm.@
+@start@|@ana-stôdeins, sf., ana-stôdjan, wv., du-ginnan, sv., du-stôdjan, wv., frums, sm.@
+@stature@|@wahstus, sm.@
+@steal@|@hlifan, sv., stilan, sv.@
+@steer@|@stiur, sm., stiuren@
+@step@|@láists, sm.@
+@step on@|@ana-trimpan, sv.@
+@sterile@|@un-bairands, pres. part.@
+@stern (of a ship/naut.)@|@nôta, wm.@
+@steward@|@faúra-gagga, wm.@
+@still@|@ake conj., aþþan, conj., naúh, adv., raíhtis, conj., þana-máis, adv., þana-seiþs, adv.@
+@still yet@|@naúh-þanuþ, adv.@
+@still: be ~@|@ga-slawan, wv., slawan, wv.@
+@sting@|@gáiru, sn., gazds, sm.@
+@stir@|@aúhjôdus, sm., ga-wagjan, wv.@
+@stir up@|@drôbjan, wv., in-wagjan, wv.@
+@stone@|@stáinam waírpan, stáins, sm.@
+@stony@|@stáinahs, adj., stáineins, adj.@
+@storm@|@skûra windis, wêgs, sm.@
+@straight@|@raihts, adj.@
+@straightway@|@raíhtaba, adv., suns-áiw, adv.@
+@strange@|@alja-kuns, adj.@
+@street@|@faúra-daúr sn., ga-runs, sf., gatwô, wf.@
+@strength@|@mahts, sf., swinþe wf.@
+@stretch oneself@|@uf-þanjan sik, wv.@
+@stretch out@|@us-lagjan, wv.@
+@stretch up@|@uf-rakjan, wv.@
+@strew@|@stráujan, wv.@
+@strictly charge@|@ga-£ôtjan, wv.@
+@strife@|@bi-háit, sn., brakja, sf., háifsts, sf., sakjô, wf.@
+@strike@|@bliggwan, sv., slahan, sv.@
+@strike with the pal@|@káupatjan, wv.@
+@strip@|@andwasjan, wv.@
+@strive@|@and-rinnan, sv., háifstjan, wv., sakan, sv., us-dáudjan, wv.@
+@stroke@|@slahs, sm., striks, sm.@
+@strong@|@abrs, adj., in-swinþjan, wv., swinþs, adj.@
+@strong drink@|@leiþu, sn.@
+@strong: be ~@|@inswinþjan sik@
+@strong: grrow ~@|@swinþnan, wv.@
+@struggle@|@brikan, sv., weihan, sv., winnan@
+@struggle against@|@and-sakan, sv.@
+@struggle over words@|@waúrda-jiuka, sf.@
+@stubborness@|@dáubiþa, sf.@
+@student@|@sipôneis, sm.@
+@stumbling@|@bi-stugq, sn.@
+@submit@|@uf-háusjan wv.@
+@subversive@|@us-walteins, sf.@
+@such@|@swa-leiks, pr.@
+@suckle@|@daddjan, wv.@
+@suffer@|@arbáidjan, wv., ga-þulan, wv., lêtan, sv., þulan, wv., us-baíran, sv., winnan, sv.@
+@suffer want@|@ga-þarban, wv.@
+@sufferance@|@þuláins, sf.@
+@suffering@|@þuláins, sf., wunns, sf.@
+@suffices: it ~@|@ga-nah, pret.-pres.@
+@sufficient@|@bi-naúhts, pp., ga-nôhs, adj.@
+@suffix@|@în-, (-ein-), inassu- (-inassu), inôn, iska- (-iska), ôni-, ôþu-@
+@suit@|@ga-timan, sv.@
+@suitable@|@ge-dafen, tils, adj.@
+@summer@|@asans, sf.@
+@sun@|@sunna, wm., sunnô, wf. or wn.@
+@superscription@|@ufar-mêl sn., ufar-mêleins, sf.@
+@supper@|@nahta-mats, sm.@
+@support@|@ga-fastan, wv.@
+@supposition@|@ana-minds, sf.@
+@supreme@|@háuhist sn.@
+@surely@|@arniba, adv., áuftô (aúftô?), adv.@
+@surname@|@gasatjan namô@
+@sustenance@|@us-fôdeins, sf.@
+@swallow up@|@fra-slindan, sv.@
+@swear@|@bi-swaran, sv., swaran, sv.@
+@sweep out@|@us-báugjan, wv.@
+@sweet@|@wôþeis, adj.@
+@swine@|@swein sn.@
+@sword@|@haírus, sm.@
+@sylvan@|@háiþiwisks, adj.@
+@synagogue@|@ga-qumþs, sf., synagôgê, f.@
+@tabernacle@|@hlijans@
+@table@|@biuþs, sm., mês, sn.@
+@take@|@and-niman, sv., fra-niman, sv., ga-tiuhan, sv., niman, sv.@
+@take (prisoner)@|@greipan, sv.@
+@take away@|@af-niman, sv., niman, sv.@
+@take courage@|@þrafstjan sik@
+@take down@|@at-hafjan, sv.@
+@take down.@|@us-niman, sv.@
+@take fire@|@tundnan, wv.@
+@take forcibly@|@fra-wilwan, sv.@
+@take heed@|@at-sai£an, sv., sai£an, sv.@
+@take hold of@|@haldan, sv.@
+@take off clothes@|@andwasjan, wv.@
+@take out@|@us-niman, sv.@
+@take pleasure in@|@ga-leikan, wv.@
+@take possession of@|@ga-áiginôn, wv.@
+@take up@|@us-hafjan, sv.@
+@tale@|@spill, sn.@
+@talk alot@|@filu-waúrdjan, wv.@
+@talking vainly@|@láusa-waúrds, adj.@
+@tame@|@ga-tamjan, wv., tamjan, wv.@
+@taste@|@káusjan, wv.@
+@taxation@|@gilstra-mêleins, sf.@
+@teach@|@ga-láisjan, wv., láisjan, wv., talzjan, wv.@
+@teachable@|@láiseigs, adj.@
+@teacher@|@láisareis, sm., rabbe, talzjands, m.@
+@teaching@|@láiseins, sf.@
+@tear@|@dis-skreitan, sv., ga-taúra, wm., tagr, sn., tahjan, wv.@
+@tear to pieces@|@ga-taíran, sv.@
+@tear to shreds@|@dis-taíran, sv.@
+@tell@|@ga-teihan, sv., qiþan, sv.@
+@tell or bring the good news@|@þiuþ-spillôn, wv.@
+@tempest@|@skûra windis, wêgs, sm.@
+@temple@|@alhs, sf., gud-hûs, sn.@
+@tempt@|@fráisan, sv.@
+@temptation@|@fráistubn sf.@
+@ten@|@taíhun, num.@
+@tend@|@haldan, sv.@
+@tender@|@hnasqus, adj., þlaqus, adj.@
+@tent@|@hlijans@
+@tenth@|@taíhunda, num.@
+@terminus@|@andeis, sm.@
+@terrify@|@ôgjan, wv., us-agjan, wv.@
+@terror@|@agis sn.@
+@test@|@ga-kusts, sf., káusjan, wv., kiusan, sv., kusts, sf., kustus, sm., us-kiusan, sv.@
+@testify@|@weitwôdjan, wv.@
+@testimony@|@weitwôd sm., weitwôde wf., weitwôdiþa, sf.@
+@tetrarchate@|@fidur-ragineis, sm.@
+@than@|@alja, conj.@
+@that@|@e conj., jáins, dem. pr., sah dem. pr., þat-ei conj., þata, pr. neut., þê-e conj., þe conj.@
+@the@|@þata, pr. neut.@
+@the day of the preparation@|@paraskaíwê@
+@the end that@|@du þamma@
+@the flood@|@midja-sweipáins, sf.@
+@the following@|@iftuma, adj.@
+@the former@|@fruma, adj.@
+@the one after@|@iftuma, adj.@
+@the one the other@|@missô, adv.@
+@theft@|@þiub sn.@
+@then@|@an, interrog. particle, bi-þê conj., bi-þêh, adv., nuh, interr. particle, raíhtis, conj., þan-nu, þan-uh, conj., þan, rel. part.@
+@thence@|@jáinþrô, adv., þaþrô, adv.@
+@there@|@jáinar, adv., þar, adv.@
+@therefore@|@du-þê, duþþê, conj., ei-þan, conj., þan-nu, þan-uh, conj., þar-uh, conj.@
+@thereupon@|@þan, rel. part.@
+@they are@|@sind@
+@thief@|@hliftus, sm., þiufs (þiubs), sm.@
+@thing@|@waíhts, f.@
+@think@|@mitôn, wv., munan, pret.-pres., munan, wv., þagkjan, wv.@
+@think: I ~@|@man, pret.-pres.@
+@third@|@þridja, num.@
+@thirst@|@þaúrsjan, wv., þaúrste wf.@
+@thirty@|@þreis tigjus, num.@
+@this@|@sah dem. pr., þata, pr. neut.@
+@this day@|@und hina dag@
+@thither@|@jáind adv.@
+@þiwi sf. maid-servant@|@þiwi sf.@
+@thorn@|@þaúrnus, sm.@
+@thornbush@|@aí£a-tund sf.@
+@thorny@|@þaúrneins, adj.@
+@thou@|@þu, pers. pr.@
+@thou art@|@is, def. v.@
+@thought@|@ga-hugds, sf., mitôns, sf., muns, sm.@
+@thousand@|@þûsund sf.@
+@threaten@|@£ôtjan, wv., and-beitan, sv., ga-£ôtjan, wv., us-þriutan, sv.@
+@threaten.@|@hwôpan@
+@three@|@þreis num.@
+@thresh@|@þriskan, sv.@
+@threshing-floor@|@ga-þrask, sn.@
+@thrive@|@þeihan, sv.@
+@throng@|@hiuhma, wm., þreihan, sv.@
+@through@|@þaírh, prep. c. acc.@
+@throughout@|@and, prep. c. acc.@
+@throw@|@waírpan, sv.@
+@throw down@|@at-waírpan, sv., ga-waírpan, sv.@
+@thrust@|@stigqan, sv.@
+@thunder@|@þei£ô, wf.@
+@thus@|@nu, adv., swa, swah, adv.@
+@thy@|@þeins, poss. pr.@
+@tickle@|@suþjôn, wv.@
+@till now@|@und hita nu@
+@time@|@£eila, sf., áiws, sm., ajukdûþs, sf., mêl, sn., sinþs, sm.@
+@tire@|@af-dôjan, wv.@
+@tired: be ~@|@â-þrêotan@
+@title@|@striks, sm.@
+@together@|@sam-lîce@
+@together in one place@|@samana, adv.@
+@together with@|@miþ, prep. c. dat.@
+@toil@|@arbáiþs, sf.@
+@tolerate@|@þulan, wv.@
+@toll-taker@|@môtareis, sm.@
+@tongue@|@tuggô, wf.@
+@too@|@swa, swah, adv.@
+@topmost@|@aúhumists adj.@
+@torment@|@balwjan, wv.@
+@torn up@|@dis-skritnan, wv.@
+@toss@|@waírpan, sv.@
+@touch@|@têkan, sv.@
+@toward: go ~@|@af-gaggan, sv.@
+@towards@|@du, prep. c. dat., in, prep. c. acc.@
+@town@|@baúrgs, f.@
+@track@|@láists, sm.@
+@trade@|@in-máideins, sf.@
+@tradition@|@ana-filh, sn., ana-fulhanô, pp. n.@
+@traffic@|@káupôn, wv.@
+@trample on@|@ana-trimpan, sv.@
+@transfigure@|@in-máidjan, wv.@
+@transgress@|@ufar-gaggan, sv.@
+@transgressor@|@un-sibjis, adj.@
+@transient@|@£eila-£aírbs, adj.@
+@travel@|@ga-leiþan, sv., wratôn, wv.@
+@travelling companion@|@miþ-ga-sinþa, wm.@
+@tread@|@trudan, sv.@
+@tread on@|@ana-trimpan, sv.@
+@treasure@|@huzd, sn.@
+@treat shamefully@|@ga-náitjan, wv.@
+@treat with violence@|@hôlôn, wv.@
+@tree@|@bagms, sm., triu, sn.@
+@tremble@|@reiran, wv.@
+@trembling@|@reirô, wf.@
+@trial@|@kustus, sm.@
+@tribe@|@kun sn.@
+@tribulation@|@aglô, wf.@
+@tribute@|@gilstr, sn., káisara-gild, sn.@
+@trip up@|@bi-stugq, sn.@
+@triumphant@|@hrôþeigs, adj.@
+@trouble@|@dráibjan, wv., saúrgan, wv.@
+@troubled@|@gáurs, adj.@
+@troubled: become ~@|@ga-drôbnan, wv.@
+@true@|@sunjeins, adj., sunjis, adj., triggws, adj.@
+@truly@|@aíþþáu jah, amên adv., bi sunjái, sunjaba, adv., triggwaba, adv.@
+@trumpet@|@haúrnjan, wv.@
+@trust@|@ga-trauan, wv., trauan, wv.   trust@
+@truth@|@sunja, sf.@
+@try@|@us-dáudjan, wv.@
+@tumult@|@aúhjôdus, sm.@
+@turn@|@wandjan, wv.@
+@turn around@|@ga-wandjan, wv.@
+@turn away@|@af-wandjan, wv.@
+@turn round@|@wandjan, wv.@
+@turtle-dove@|@hráiwa-dûbô, wf.@
+@twelve@|@twalif, num.@
+@twelve years old@|@twalib-wintrus, adj.@
+@twenty@|@twái tigjus, num.@
+@twig@|@asts, sm., táins, sm.@
+@two and two@|@twans £anzuh@
+@two each@|@tweihná num.@
+@two: we ~@|@wit, pers. pr.@
+@ultimate@|@aftuma, adj.@
+@unbelief@|@un-ga-láubeins, sf.@
+@unbelieving@|@un-ga-láubjands, pres. part.@
+@unbind@|@and-bindan, sv.@
+@unbound: become ~@|@and-bundnan, wv.@
+@unceasing@|@un-sweibands, pres. part.@
+@unchaste@|@agláite wf.@
+@unclean@|@ga-máins, adj., un-hráins, adj., un-þwahans, pp.@
+@unclean spirit@|@un-hulþa, wm., un-hulþô, wf.@
+@uncover@|@baírhtjan, wv., ga-baírhtjan, wv.@
+@under@|@uf, prep. c. dat. and acc., undar, prep. c. acc., undarô, prep. c. dat.@
+@under age@|@niu-klahs, adj.@
+@under an oath@|@uf-áiþeis, adj.@
+@understand@|@fraþjan, sv.@
+@understanding@|@aha, wm., fraþ sn., frôde wf.@
+@undertake@|@du-ginnan, sv.@
+@unendurable@|@un-wêrjan, wv.@
+@unfeigned@|@un-liuts, adj.@
+@unfit@|@un-fagrs, adj.@
+@ungodliness@|@af-gude wf.@
+@unholy@|@un-aírkns, adj., un-sêls, adj., us-weihs, adj.@
+@unjust@|@in-winds, adj.@
+@unknown@|@un-kunþs, adj.@
+@unlearned@|@un-tals, adj., un-weis, adj.@
+@unleavened bread@|@azymus, sm.@
+@unless@|@alja, conj., nibá niba, conj.@
+@unlocked@|@us-luknan, wv.@
+@unquenchable@|@un-£apnands, pres. part.@
+@unrest@|@brakja, sf.@
+@unrighteous@|@in-winds, adj.@
+@unrighteousness@|@un-sêle wf.@
+@unruly@|@un-ga-£aírbs, adj.@
+@unsalted@|@un-saltans, pp.@
+@unsheath a sword@|@us-lûkan, sv.@
+@unsuitable@|@un-fagrs, adj.@
+@until@|@þandê, conj., und, prep. c. acc., untê, conj.@
+@until that@|@þandê, conj.@
+@untimely@|@un-ûhteigô adv.@
+@unto@|@und, prep. c. acc.@
+@unwashed@|@un-þwahans, pp.@
+@up@|@und, prep. c. acc.@
+@upbraid@|@and-beitan, sv.@
+@upon@|@ana, prep. c. acc./dat.@
+@upper-room@|@kêlikn, sn.@
+@upwards@|@iup, adv.@
+@use@|@brûkjan, wv.@
+@use up@|@fra-qiman, sv., fra-wisan, sv.@
+@useful@|@brûks, adj., nuts adj.@
+@useful: make ~@|@ga-bôtjan, wv.@
+@utilize@|@fra-qiman, sv.@
+@vain@|@us-wiss, adj.@
+@vainly@|@arwjô, adv.@
+@valley@|@dal, sn.@
+@value@|@haban@
+@various@|@missa-leiks, adj.@
+@veil@|@faúra-hâh sn.@
+@vengeance@|@fra-weit, sn.@
+@verbal@|@waúrdahs, adj.@
+@verbose: be ~@|@filu-waúrdjan, wv.@
+@verdict@|@dôms, sm.@
+@verifying@|@sunjôns, sf.@
+@verily@|@aíþþáu jah, amên adv., bi sunjái, ja@
+@veritable@|@sunjeins, adj., sunjis, adj.@
+@very much@|@abraba, adv., filu@
+@very needy@|@ala-þarba, w. adj.@
+@very poor@|@ala-þarba, w. adj.@
+@very precious@|@filu-ga-láufs@
+@vessel@|@kas, sn.@
+@vessel for water@|@katils, sm.@
+@victorious@|@hrôþeigs, adj.@
+@victory@|@sigis, sn., sihu, sn.@
+@vigilant@|@us-skáus, adj.@
+@village@|@háims, sf., weihs sn. wn.@
+@vine@|@weina-triu, sn.@
+@vine-branch@|@weina-táins, sm.@
+@vinegar@|@akeit@
+@vineyard@|@weina-gards, sm.@
+@violence: do ~@|@ana-mahtjan, wv.@
+@viper@|@nadrs, sm.@
+@virginity@|@magaþe wf.@
+@virttue@|@gôde wf.@
+@visible@|@ana-siuns, adj.@
+@visit@|@ga-weisôn, wv.@
+@visit.@|@bi-tiuhan, sv.@
+@voice@|@stibna, sf.@
+@wages@|@annô, wf.@
+@wail loudly@|@wái-faír£jan, wv.@
+@wake@|@ur-ráisjan, wv., wakan, sv.@
+@wake up@|@us-wakjan, wv.@
+@walk@|@£aírban, sv., £arbôn, wv.@
+@walk along@|@skêwjan, wv.@
+@wall@|@baúrgs-waddjus, sf., waddjus, sf.@
+@wallow@|@walwisôn, wv.@
+@wander@|@£arbôn, wv.@
+@want@|@gáidw, sn., wan, sn., waninassus, sm.@
+@war@|@draúhtinôn, wv.@
+@warfare@|@draúihtinassus, sm.@
+@warm@|@warmjan, wv.@
+@warned: be ~@|@at-sai£an, sv.@
+@warrior@|@ga-draúhts, sm.@
+@wash@|@þwahan, sv.@
+@wash oneself@|@dáupjan, wv.@
+@washing@|@dáupeins, sf.@
+@waste@|@fra-qisteins, sf.@
+@wasteland@|@áuþida, sf.@
+@watch@|@wahtwô, wf., wakan, sv., witan, wv.@
+@watchful@|@war@
+@water@|@a£a, sf., watô, wn.@
+@wave@|@wêgs, sm.@
+@way@|@gaggs, sm., stáiga, sf., wigs, sm.@
+@we@|@weis, pers. pr.@
+@we are@|@sijum@
+@weak@|@ga-máiþs adj., un-mahteigs, adj.@
+@weakness@|@siuke wf., un-mahts, sf.@
+@wealth@|@gabe wf.@
+@wear down@|@af-dôjan, wv.@
+@weary: be ~@|@â-þrêotan@
+@week@|@lasiws, adj., wikô, wf.@
+@weep@|@grêtan, sv., hiufan, sv., qáinôn, wv.@
+@weeping@|@grêts, sm.@
+@weight@|@kaúriþa, sf.@
+@well@|@brunna, wm.@
+@well-behaved@|@ga-fáurs, adj.@
+@went: I ~@|@iddja, pret.@
+@West@|@sagqs sm.@
+@wet@|@natjan, wv.@
+@what@|@£as, interrog. pr.@
+@what sort of@|@£e-láuþs, pr., £i-leiks, pr.@
+@whatsoever@|@þata-£ah, þe pr.@
+@whatsover@|@þis-£ah, pr.@
+@wheat@|@£áiteis, sm.@
+@when@|@£an, adv., interrog., bi-þê conj., miþ-þan-e conj., þan, rel. part., þandê, conj.@
+@whence@|@£aþrô, adv.@
+@whenever@|@£an, adv., interrog.@
+@where@|@£ar, adv., þad-e adv., þar-e adv.@
+@wherefore@|@du-£ê, adv.@
+@wheresover@|@þis-£aruh, adv.@
+@wheresver@|@þad-e adv.@
+@wherewith@|@£ê, adv.@
+@whether@|@£aþar, pr., ja-u@
+@whether from@|@uz-uh, prep.@
+@whether...or@|@þaþþê...jaþþê@
+@which@|@iz-e, sa-e rel. pr., se rel. pr. fern.@
+@which (of many)@|@£arjis, pr.@
+@which of two@|@£aþar, pr.@
+@while@|@miþ-þan-e conj., und þate@
+@white@|@£eits, adj.@
+@whiten@|@ga-£eitjan, wv.@
+@whither@|@£adrê, adv., £aþ, adv., þad-e adv.@
+@whithersover@|@þis-£aduh adv.@
+@who@|@£arjis, pr., £as, interrog. pr., iz-e, sa-e rel. pr., se rel. pr. fern.@
+@whole@|@háils, adj.@
+@whole: become ~@|@ga-háilnan, wv.@
+@wholly@|@allis, adv.@
+@whoredom@|@hôrinassus, sm.@
+@whosoever@|@£az-uh sae indef. pr., sa-£az-uh saei indef. pr., þis-£az-uh sa-e indef. pr.@
+@why@|@du-£ê, adv.@
+@wicked@|@un-sêls, adj.@
+@wickedness@|@un-sêle wf.@
+@widow@|@widuwô, wf.@
+@wieghty@|@kaúrus, adj.@
+@wife@|@qêns sf., qinô, wf.@
+@wild@|@háiþiwisks, adj., wilþeis, adj.@
+@wilderness@|@áuþida, sf.@
+@will@|@wilja, wm.@
+@willing@|@ga-wiljis, adj., gaírnjan, wv.@
+@willing of oneself@|@silba-wiljis, adj.@
+@willing: be ~@|@wiljan, v.@
+@willingly@|@ga-baúrjaba, adv.@
+@wilt@|@ga-þaúrsnan, wv.@
+@wily@|@listeigs, adj.@
+@wind@|@windan, sv., winds, sm.@
+@window@|@áuga-daúrô, wn.@
+@wine@|@wein, sn.@
+@wine drinker@|@wein-drugkja, wm.@
+@wine mixed with myrrh@|@wein miþ smyrna@
+@wine-skin@|@balgs, sm.@
+@winnowing fan@|@winþi-skáurô, wf.@
+@winter@|@wintrus, sm.@
+@wipe@|@bi-swaírban, sv.@
+@wipe out@|@af-swaírban, sv.@
+@wisdom@|@frôde wf., handuge wf.@
+@wise@|@frôþs, adj., glau, handugs, adj., in-ahs, adj., snutrs, adj., weis@
+@wise: make ~@|@us-fratwjan, wv.@
+@wisely@|@frôdaba, adv.@
+@wish@|@gaírnjan, wv., wiljan, v.@
+@with@|@at, prep. c. acc. and dat., miþ, prep. c. dat.@
+@with difficulty@|@agluba, adv.@
+@with ease@|@azêts, adj.@
+@with more haste@|@sniumundôs@
+@with what@|@£ê, adv.@
+@wither@|@ga-þaírsan, sv., ga-þaúrsnan, wv.@
+@withered@|@þaúrsus, adj.@
+@withered: be ~@|@þaírsan, sv.@
+@within@|@inn, adv., inna, adv., innana, adv., innaþrô, adv.@
+@without@|@inuh@
+@without a cause@|@arwjô, adv., swarê, adv.@
+@without ending@|@anda-láus, adj.@
+@without honour@|@un-swêrs, adj.@
+@without issue@|@akrana-láus, adj.@
+@without offering@|@un-hunslags, adj.@
+@without understanding@|@un-wits, adj.@
+@withstand@|@and-standan, sv.@
+@witness@|@weitwôde wf., weitwôdiþa, sf., weitwôds m.@
+@wm. man@|@aba@
+@wm. neck@|@hals-agga@
+@wo!@|@wá interj.@
+@wolf@|@wulfs, sm.@
+@woman@|@qêns sf., qinô, wf.@
+@woman being with child.@|@qiþu-haftô@
+@womb@|@kilþe wf., qiþus, sm., wamba, sf.@
+@wonder@|@faúra-tan sn., faúrhte wf., silda-leikjan, wv.@
+@wonderful@|@silda-leiks, adj.@
+@wood@|@triu, sn.@
+@wooden@|@triweins, adj.@
+@wool@|@wulla, sf.@
+@word@|@háuseins, sf., waúrd, sn.@
+@work@|@arbáidjan, wv., arbáiþs, sf., tau sn., waúrkjan, wv., waúrstw, sn.@
+@worker@|@waúrstwja, wm.@
+@world@|@áiws, sm., faír£us, sm., mana-sêþs, sf., midjun-gards, sm.@
+@world: of this ~@|@aírþeins, adj.@
+@worm@|@maþa, wm.@
+@worse@|@waírs, adv., waírsiza, adj.@
+@worship@|@blôtan, sv., blôtinassus, sm., in-weitan, sv.@
+@worshipper of God@|@guþ-blôstreis, sm.@
+@worth@|@waírþida, sf.@
+@worthy@|@waírþs, adj., wulþrs, adj.@
+@wound@|@wundan briggan, wundufn sf.@
+@wounded@|@wunds, adj.@
+@wrap round@|@bi-windan, sv.@
+@wrath@|@hatis, sn., môþs sm.@
+@wrathful@|@môdags, adj.@
+@wreath@|@wáips, sm.@
+@write@|@ga-mêljan, wv., mêljan wv.@
+@write over@|@ufar-mêljan, wv.@
+@writing@|@þata gamêlidô@
+@wrong@|@un-wâhs, adj.@
+@wrong-doing@|@fra-waúrhts, sf.@
+@yard@|@garda, wm.@
+@ye@|@jus, pers. pr.@
+@ye two!@|@hirjats@
+@yea@|@ja@
+@year@|@at-aþn sn., jêr, sn.@
+@yes@|@ja@
+@yesterday@|@gesteron, giestran-dæge@
+@yet@|@aþþan, conj., naúh, adv., swê-þáuh, adv.@
+@yoke@|@juk, sn.@
+@yonder@|@jáinar, adv.@
+@young@|@juggs, adj.@
+@young goat@|@gáitein@
+@young maiden@|@mawilô, wf.@
+@young man@|@jugga-láuþs, sm.@
+@younger@|@jûhiza, adj.@
+@your@|@izwar@
+@youth@|@jugga-láuþs, sm., junda, sf.@
+@zeal@|@aga-leiz@
+@zealously@|@us-dáudô, adv.@
+

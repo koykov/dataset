@@ -1,0 +1,1696 @@
+@English@|@Korean@
+@Author name@|@Freelang@
+@Font@|@Arial\12\Arial\12@
+@abalone@|@cheonbok@
+@abdomen@|@bae@
+@abnormal@|@isanghae@
+@abortion@|@yusan@
+@absent@|@kyeolgeun@
+@absent-minded@|@meonghagoineun@
+@abundance@|@bungbu@
+@abundant@|@bungbuhan@
+@academy@|@hagweon@
+@accommodation (lodgings)@|@sugso@
+@accomplice@|@gongbeomja@
+@ache@|@apeuyo@
+@acorn@|@dotori@
+@acquaintance@|@aneunsaram@
+@actor@|@nambaeu@
+@actress@|@yeobaeu@
+@add@|@deohada@
+@address (mail)@|@juso@
+@adjust@|@jeongdonhada@
+@administrator@|@haengjeonggwan@
+@adopted son@|@yangja@
+@adult@|@eoreun@
+@adventure@|@moheom@
+@adventurer@|@moheomga@
+@advertisement@|@kwanggo@
+@advice@|@chunggo@
+@advise@|@chunggohada@
+@adviser@|@joeonja@
+@aeroplane@|@bihaenggi@
+@affection (love)@|@aejong@
+@afraid@|@museoweohaneun@
+@afternoon@|@ohu@
+@age (period)@|@yeondae@
+@age (years)@|@nai@
+@ago@|@jeone@
+@agree@|@tongeuihada@
+@air (atmosphere)@|@gonggi@
+@air base@|@gonggun giji@
+@air conditioning@|@naengnanbang@
+@aircraft@|@bihaenggi@
+@airmail@|@hanggong@
+@airplane@|@bihaenggi@
+@airport@|@gonghang@
+@alarm clock@|@jamyeongjong@
+@alcohol@|@alko-ol@
+@algebra@|@daesuhak@
+@alive@|@saraineun@
+@all@|@modu@
+@alligator@|@akeo@
+@alone@|@honja@
+@alphabet@|@alpabet@
+@aluminium@|@alruminyum@
+@ambassador@|@daesa@
+@ambulance@|@gugupcha@
+@America@|@miguk@
+@American person@|@migukin@
+@anatomy@|@haebu@
+@ancestor@|@josang@
+@angel@|@cheonsa@
+@angry@|@hwaganan, seongnaso@
+@animal@|@dongmul@
+@ankle@|@balmok@
+@anniversary@|@ginyeomil@
+@answer@|@daedap@
+@ant@|@gaemi@
+@apartment@|@apaateu@
+@ape@|@weonsungi@
+@apple@|@sagwa@
+@apricot@|@salgu@
+@April@|@saweol@
+@aquarium@|@sujokgwan@
+@archaeology@|@gogohak@
+@archery@|@gungsul@
+@architect@|@geonchukga@
+@architecture@|@geonchuksul@
+@area (space)@|@myeonjeok@
+@arithmetic@|@sansu@
+@arm@|@pal@
+@army@|@yukgun@
+@artist@|@hwaga@
+@Asia@|@asia@
+@asthma@|@cheonsik@
+@astrology@|@jeomseonghak@
+@astronomer@|@cheonmunhakja@
+@astronomy@|@cheonmunhak@
+@athlete@|@undong seonsu@
+@athletics@|@undong gyeonggi@
+@Atlantic@|@daeseoyang@
+@atlas@|@jidochaek@
+@atom@|@weonja@
+@August@|@palweol@
+@aunt@|@sukmo@
+@author@|@jeoja@
+@automobile@|@jadongcha@
+@autumn@|@gaeul@
+@avalanche@|@nunsatae@
+@aviation@|@bihaeng@
+@aviator@|@bihaengsa@
+@axe@|@doggi@
+@baby@|@agi@
+@back (body part)@|@dwi@
+@backbone@|@cheokchu@
+@bacon@|@beikeon@
+@baggage@|@suhamul@
+@bake@|@gupda@
+@bald@|@daemeori@
+@balloon@|@pungseon@
+@bamboo@|@taenamu@
+@banana@|@banana@
+@band (music)@|@akdae@
+@bandage@|@bungdae@
+@bank@|@eunhaeng@
+@barber@|@shop ibalgwan@
+@base (of operations)@|@budae@
+@baseball@|@yagu@
+@basketball@|@nonggu@
+@bat (animal)@|@bakji@
+@bath@|@mokyok@
+@bath tub@|@mokyoktong@
+@bathe@|@mokyokhada@
+@bathroom@|@hwajangsil@
+@beach@|@haebyeon@
+@bear@|@gom@
+@beard@|@suyeom@
+@beautiful@|@areumdaun@
+@beauty parlour@|@mijangweon@
+@bed@|@jimdae@
+@bed clothes@|@jamot@
+@bedding@|@jimguryu@
+@bedroom@|@jimsil@
+@bee@|@kkulbeol@
+@beef@|@sogogi@
+@beehive@|@kkulbeoljip@
+@beer@|@maekju@
+@beginner@|@joboja@
+@believer@|@seunim@
+@Bible@|@seonggyeongchaek@
+@bicycle@|@jajeongeo@
+@big@|@keuda@
+@bill@|@gyesanseo@
+@billiards@|@danggu@
+@binoculars@|@ssangangyeong@
+@biography@|@jeongi@
+@biology@|@saengmulhak@
+@bird@|@sae@
+@birthday@|@saengil@
+@birthplace@|@julsaengji@
+@black@|@geomjeongsaek@
+@black market@|@amsijang@
+@black pepper@|@huchu@
+@blackboard@|@jilpan@
+@blanket@|@damyo@
+@bleach@|@pyobaekhada@
+@blood@|@pi@
+@bloom@|@kkochi pida@
+@blossom@|@kkot@
+@blouse@|@beulrauseu@
+@blue@|@pureun@
+@blueprint@|@jeongsajin@
+@boar (wild)@|@mettwaeji@
+@board@|@baereultada@
+@boat@|@bae@
+@body@|@yukche@
+@boil@|@ggeulta@
+@bone@|@bbyeo@
+@book@|@chaek@
+@bookstore@|@seojeom@
+@bottle@|@byeong@
+@bottom@|@mitbadak@
+@bottomless@|@mitbadaki eopneun@
+@bouquet@|@ggotdabal@
+@bow (head)@|@jeolhada@
+@bowl@|@sabal@
+@boy@|@namja-ai@
+@bracelet@|@paljji@
+@brain@|@noe@
+@branch (tree)@|@gaji@
+@bread@|@bbang@
+@bride@|@sinbu@
+@bridegroom@|@sillang@
+@brides man@|@sillang deulreori@
+@bridesmaid@|@sinbu deulreori@
+@bring@|@gajyeo-oda@
+@broadcasting station@|@bangsongguk@
+@broil@|@gupda@
+@broken@|@buseojin@
+@bronchitis@|@gigwanjiyeom@
+@broom@|@bicharu@
+@brown@|@galsaek@
+@bucket@|@yangdongi@
+@Buddha@|@bucheo@
+@Buddhism@|@bulgyo@
+@Buddhist@|@bulgyodo@
+@Buddhist temple@|@jeol@
+@bull (animal)@|@hwangso@
+@bull frog@|@sikyong gaeguri@
+@bus@|@beoseu@
+@butcher@|@pujuhan@
+@butter@|@beoteo@
+@butterfly@|@nabi@
+@button@|@danchu@
+@button hole@|@danchu gumeong@
+@buy@|@sada@
+@cabbage@|@yangbaechu@
+@cake@|@keikeu@
+@calculate@|@gyesanhada@
+@calculation@|@gyesan@
+@calendar@|@dalyeok@
+@calf@|@songaji@
+@camel@|@nakta@
+@camera@|@sajingi@
+@camping@|@yayeong@
+@campus@|@hakgyo gunae@
+@candle@|@yangcho@
+@candle light@|@chotbul@
+@candle stick@|@chotdae@
+@candy@|@satang@
+@car@|@jadongcha@
+@career@|@jikjangin@
+@carpenter@|@moksu@
+@carrot@|@danggeun@
+@cat@|@goyangi@
+@caterpillar@|@pulsswaegi@
+@cave@|@gul@
+@celery@|@selreori@
+@cemetery@|@gongdongmyoji@
+@centipede@|@jine@
+@ceremony@|@yesik@
+@chair@|@uija@
+@chalk@|@bunpil@
+@change (money)@|@jandon@
+@checker board@|@janggipan@
+@checkers@|@seoyangjanggi@
+@cheek@|@bbyam@
+@cheese@|@chijeu@
+@chemistry@|@hwahak@
+@cherry@|@beojji@
+@chess@|@cheseu@
+@chest@|@gaseum@
+@chestnut@|@bam@
+@chewing@|@gum ggeom@
+@chewing gum@|@ggeom@
+@chicken (animal)@|@dak@
+@chicken meat@|@dakgogi@
+@child@|@eorini@
+@chin@|@teok@
+@china@|@dojagi@
+@China@|@jungguk@
+@Chinese (people)@|@junggukin@
+@Chinese language@|@junggukeo@
+@chocolate@|@chokeolrit@
+@chopsticks@|@jeotgarak@
+@Christian@|@gidokgyoin@
+@Christmas@|@seongtanjeol@
+@church@|@gyohoe@
+@cigarette@|@dambae@
+@circle@|@weonhyeong@
+@city@|@dosi, si@
+@city centre@|@sinae@
+@classmate@|@donggeupsaeng@
+@classroom@|@gyosil@
+@clock@|@datda@
+@closet@|@byeokjang@
+@clothes@|@ot@
+@coat@|@oetu@
+@cob web@|@geomijul@
+@coconut@|@yajayeolmae@
+@coffee@|@kopi@
+@college@|@dangwadaehak@
+@comb@|@bit@
+@community@|@sahoe@
+@company (firm)@|@hoesa@
+@competition@|@gyeongjaeng@
+@concert@|@eumakhoe@
+@cone@|@weonbbul@
+@congratulation@|@chukha@
+@consonant@|@jaeum@
+@contagious@|@jeonyeomseong@
+@contaminate@|@oyeomsikida@
+@contest (n.)@|@gyeongju@
+@contraband@|@milsu@
+@contract@|@gyeyak@
+@contribution@|@gibu@
+@convert (money)@|@don pakuda@
+@cook (person)@|@yorisa@
+@cook (v.)@|@yorihada@
+@cookie@|@gwaja@
+@copy@|@beggida@
+@corn@|@oksusu, oksusu@
+@cost (price)@|@gap@
+@cotton@|@som@
+@cough@|@gichim@
+@courthouse@|@beopweon@
+@cousin@|@sacheon@
+@cow@|@amso@
+@crab@|@ge@
+@cracker (biscuit)@|@keuraekeo@
+@crane (bird)@|@hak@
+@crane (machine)@|@gijunggi@
+@crayon@|@keureyong@
+@cream@|@keuri-im@
+@cricket (insect)@|@gwiddurami@
+@crime@|@joe@
+@criminal@|@beomjoecha@
+@crocodile@|@ageo@
+@cruise (sail)@|@sunhanghada@
+@cucumber@|@oi@
+@cup@|@jan, keop@
+@cupboard@|@chanjang@
+@curfew@|@tonghaenggeumji@
+@cushion@|@bangseok@
+@customer@|@gogaek@
+@customs (import duties)@|@gwanse@
+@daffodil@|@suseonhwa@
+@dairy@|@products yujepum@
+@daisy@|@silgukhwa@
+@dam@|@daem@
+@dance@|@chum@
+@dancer@|@muyongga@
+@dandelion@|@mindeulre@
+@danger@|@wiheom@
+@dangerous@|@wiheomham@
+@dark@|@eodu-un@
+@daughter@|@ddal@
+@daughter-in-law@|@myeoneuri@
+@dawn@|@saebyeok@
+@day@|@nal@
+@dead@|@jukeun@
+@deadly@|@chimyeongjeokin@
+@deaf@|@gwimeokeun@
+@dean (college)@|@hakjang@
+@death@|@jukeum@
+@December@|@sipiweol@
+@decorate@|@ggumida@
+@decoration@|@jangsik@
+@deer@|@saseum@
+@degree (school)@|@hakwi@
+@delicious@|@masitneun@
+@democracy@|@minjuju-ui@
+@democratic@|@minjujeongcheui@
+@dentist@|@chigwaeuisa@
+@depart@|@tteonada@
+@department store@|@baekhwajeom@
+@departure@|@chulbal@
+@desert@|@samak@
+@desk@|@chaeksang@
+@dessert@|@dijeo-eoteu@
+@destroy@|@pagoehada@
+@detain (keep waiting)@|@gidarigehada@
+@dew@|@iseul@
+@diameter@|@jireum@
+@diamond@|@geumgangseok@
+@diaper@|@gijeogwi@
+@diarrhoea@|@seolsa@
+@diary@|@ilgi@
+@dice@|@jusawi@
+@dictatorship@|@dokjae@
+@dictionary@|@sajeon@
+@diet (menu)@|@sigiyeopeop@
+@diet (weight loss)@|@salpaeda@
+@digestion@|@sohwa@
+@dimple@|@bojogae@
+@dining@|@siksa@
+@dining room@|@sikdang@
+@dining table@|@siktak@
+@dinner@|@jeongchan@
+@diploma@|@joreopjang@
+@diplomat@|@wigyogwan@
+@direction@|@banghyang@
+@dirty@|@deoreoun@
+@disaster@|@jaenan@
+@discount@|@harin@
+@disease@|@byeong@
+@dish@|@jeopsi@
+@distance@|@geori@
+@dizzy@|@eojireoun@
+@doctor@|@euisa@
+@dog@|@gae@
+@donkey@|@dangnagwi@
+@door@|@mun@
+@dormitory@|@gisuksa@
+@downtown@|@beonhwaga, dosimji@
+@dozen@|@yeoldugae@
+@dragonfly@|@jamjari@
+@dress (wear)@|@ipda@
+@dresser@|@hwajangdae@
+@drink@|@masida@
+@drinking glass@|@keop@
+@duck (animal)@|@ori@
+@dusk@|@ddanggeomi@
+@dust@|@meonji@
+@dusty@|@meonji tuseongi@
+@duty@|@euimu@
+@dye@|@mulgam@
+@dysentery@|@ijil@
+@eagle@|@doksuri@
+@ear@|@gwi@
+@early@|@ireun@
+@earring@|@gwigori@
+@earth@|@isesang@
+@earthquake@|@jijin@
+@earthworm@|@jireongi@
+@east@|@dongjjok@
+@Easter@|@buhwaljeol@
+@eat@|@meokda@
+@eclipse (lunar)@|@weolsik@
+@eclipse (solar)@|@ilsik@
+@eclipse (total)@|@gaegisik@
+@economics@|@gyeongjehak@
+@economy@|@gyeongje@
+@editor@|@pyeonjipja@
+@educate@|@gyoyukhada@
+@education@|@gyoyuk@
+@eel@|@baemjangeo@
+@egg@|@gyeran@
+@eggplant@|@gaji@
+@Egypt@|@ijipteu@
+@eight (C)@|@pal@
+@eight (K)@|@yeodeol@
+@eighteen (C)@|@sippal@
+@eighteen (K)@|@yeolyeodeol@
+@eighty (C)@|@palsip@
+@eighty (K)@|@yeodeun@
+@elastic@|@gomujul@
+@elbow@|@palggumchi@
+@electrician@|@jeongi gisa@
+@electricity@|@jeongi@
+@elementary school@|@gugminhakgyo@
+@elephant@|@koggiri@
+@elevator@|@seungganggi@
+@eleven (C)@|@sipil@
+@eleven (K)@|@yeolhana@
+@embark (board)@|@baereultada@
+@embark (start)@|@chulbalhada@
+@embassy@|@daesagwan@
+@emerald@|@emeoraldeu@
+@emergency@|@bisangsatae@
+@employee@|@goyongin@
+@employer@|@goyongju@
+@employment@|@goyong@
+@encyclopaedia@|@baekgwasajeon@
+@enemy@|@weonsu@
+@engine@|@gigwan@
+@engineer@|@gisa@
+@England@|@yeongguk@
+@English language@|@yeongeo@
+@English person@|@yeongguksaram@
+@enter (go into)@|@deureogada@
+@entertainment@|@jeopdae@
+@entrance@|@ipgu@
+@envelope@|@pieonjibongtu@
+@environment@|@hwangyeong@
+@equator@|@jeokdo@
+@eraser@|@jiugae@
+@estimate (cost)@|@gyeonjeok@
+@estimate (written)@|@gyeonjeokseo@
+@Europe@|@yureop@
+@European person@|@yureopin@
+@evening@|@jeonyeok@
+@evil@|@nabbeun@
+@evolution@|@jinhwa@
+@examination@|@siheom@
+@examine@|@siheomhada@
+@example@|@bogi@
+@excersise book@|@gongchaek@
+@exchange@|@gyohwan@
+@exercise@|@undong@
+@exit@|@chulgu@
+@expedition@|@weonjeong@
+@expensive@|@bisada@
+@experience@|@gyeongheom@
+@experiment@|@silheom@
+@expert@|@iksukhan@
+@exploration@|@tamheom@
+@explore@|@tamheomhada@
+@explorer@|@tamheomga@
+@exterior@|@baggateui@
+@eye@|@nun@
+@eyebrow@|@nunsseop@
+@eyelash@|@soknunsseop@
+@eyelid@|@nunggeopul@
+@eyesight@|@siryeok@
+@face@|@eolgul@
+@factory@|@gongjang@
+@faith@|@sinang@
+@faithful@|@silloehalsu itneun@
+@fall (autumn)@|@gaeul@
+@family@|@gajok@
+@famous@|@yumyeonghan@
+@fan (electric)@|@sanpungee@
+@fan (hand)@|@buchae@
+@farm@|@nongjang@
+@farm house@|@nongga@
+@farmer@|@nongbu@
+@farming@|@nongeop@
+@fashion@|@yuhaeng@
+@fashionable@|@yuhaenge matneun@
+@father@|@abeoji@
+@fawn@|@saeggi saseum@
+@feather@|@gitteol@
+@February@|@iweol@
+@female@|@yeoja@
+@fence@|@dam@
+@fern@|@gosari@
+@ferry@|@yeollakseon@
+@festival@|@chukje@
+@fiction (novel)@|@soseol@
+@fifteen (C)@|@sipo@
+@fifteen (K)@|@yeoldaseot@
+@fifty (C)@|@osip@
+@fifty (K)@|@swin@
+@fig@|@muhwagwa@
+@fight@|@ssaum@
+@film@|@pilreum@
+@filter@|@georeuda@
+@finger@|@songarak@
+@finger nail@|@sontop@
+@finger print@|@jimun@
+@fingernail@|@sontop@
+@fire@|@bul@
+@fire escape@|@bisanggu@
+@fire extinguisher@|@sohwagi@
+@fireman@|@sobanggwan@
+@firm (n.)@|@hoesa@
+@fish@|@saengseon@
+@fisherman@|@eobu@
+@fishing@|@gogijapi@
+@five (C)@|@o@
+@five (K)@|@daseot@
+@flag@|@gi@
+@flavour@|@mat@
+@flea@|@byeoruk@
+@float@|@ddeuda@
+@floor@|@chung, mitbadak@
+@flour@|@milgaru@
+@flower@|@ggot@
+@flower pot@|@hwabun@
+@flu@|@yuhaengseong kamgi@
+@fly (flight)@|@bihaeng@
+@fly (insect)@|@pari@
+@fog@|@angae@
+@foil@|@eunbakji@
+@food@|@eumsik@
+@foot@|@bal@
+@football@|@putbol@
+@forehead@|@ima@
+@foreigner@|@oegukin@
+@forest@|@sup@
+@fork@|@samchang@
+@forty (C)@|@sasip@
+@forty (K)@|@maheun@
+@four (K)@|@net@
+@fourteen (C)@|@sipsa@
+@fourteen (K)@|@yeolnet@
+@fox@|@yeo-u@
+@fraction (mathematics)@|@bunsu@
+@fragrance@|@hyanggi@
+@free@|@muryo@
+@freedom@|@chayu@
+@freeze@|@eolda@
+@Friday@|@geumyoil@
+@fridge@|@naengjanggo@
+@friend@|@chingu@
+@frog@|@gaeguri@
+@frost@|@seori@
+@frozen@|@areumsum@
+@fruit@|@gwail@
+@fry@|@twigida@
+@frying pan@|@peuraingpaen@
+@full@|@moon boreumdal@
+@fume@|@yeongi@
+@fun@|@jaemi@
+@funeral@|@jangnaesik@
+@funny@|@jaemi-itneun@
+@fur@|@mopi@
+@furnishings@|@segan@
+@furniture@|@gagu@
+@fuse@|@pyujeu@
+@future@|@mirae@
+@gallery@|@hwarang@
+@gamble@|@tobak@
+@game@|@orak@
+@garbage@|@sseuregi@
+@garden@|@jeongweon@
+@gardener@|@jeongweonsa@
+@garlic@|@maheul@
+@garnish@|@jangsik@
+@gas (natural)@|@cheonyeongaseu@
+@gasoline@|@hwibalyu@
+@gauze@|@ga-aje@
+@gem@|@boseok@
+@gentleman@|@sinsa@
+@geography@|@jirihak@
+@geology@|@jijilhak@
+@geometry@|@gihahak@
+@German language@|@dokireo@
+@German person@|@dokilsaram@
+@Germany@|@dokil@
+@ghost@|@yuryeong@
+@gift@|@seonmul@
+@ginger@|@saenggang@
+@ginseng@|@insam@
+@giraffe@|@girin@
+@girl@|@sonyeo@
+@glass (drinking)@|@keop@
+@glasses (spectacles)@|@angyeong@
+@glove@|@janggap@
+@glue@|@pul@
+@go@|@gada@
+@goat@|@yeomso@
+@gold@|@geum@
+@goldfish@|@geumbungeo@
+@golf@|@golpeu@
+@goose@|@geowi@
+@government@|@jeongbu@
+@governor@|@tongchija@
+@grand daughter@|@son-nyeo@
+@grand father@|@harabeoji@
+@grand mother@|@halmeoni@
+@grand son@|@sonja@
+@grape@|@podo@
+@grapevine@|@pododeonggul@
+@grasshopper@|@meddugi@
+@grave@|@mudeom@
+@gravestone@|@myobi@
+@graveyard@|@myoji@
+@gravy@|@gogi gukmul@
+@gray@|@hoesaek@
+@great grand daughter@|@jeungson-nyeo@
+@great grand father@|@jeungjobu@
+@great grand mother@|@jeungjomo@
+@great grand son@|@jeungsonja@
+@green@|@choroksaek@
+@green (colour)@|@chorok@
+@greenhouse@|@onsil@
+@grey@|@hoesaek@
+@groceries@|@siknyopum@
+@group@|@ban@
+@grow@|@jarada@
+@guard@|@pasugun@
+@guest@|@sonnim@
+@guide@|@annaeja@
+@guidebook@|@yeohaeng@
+@gum (chewing)@|@ggeom@
+@gymnasium@|@cheyukgwan@
+@gymnastics@|@chejo@
+@habit@|@beoreut@
+@hair@|@teol@
+@hairbrush@|@meorisol@
+@half-moon@|@bandal@
+@ham@|@haem@
+@hammer@|@mangchi@
+@hand@|@son@
+@handbag@|@songabang@
+@handkerchief@|@sonsugeon@
+@handshake@|@aksu@
+@handsome@|@jalsaenggin@
+@hangar@|@gyoknapgo@
+@hanger@|@ot geori@
+@happy@|@haengbokhan@
+@harp (Korean)@|@geomungo@
+@harvest@|@suhwak@
+@hat@|@moji@
+@hawk@|@mae@
+@hay@|@geoncho@
+@haystack@|@geoncho gari@
+@hazy (weather)@|@heurinnalssi@
+@head@|@meori@
+@headache@|@dutong@
+@healthy@|@geonganghan@
+@hear@|@deutda@
+@hearing@|@deutgi@
+@heart@|@simjang@
+@heart disease@|@simjang byeong@
+@heartburn@|@gaseumari@
+@heater@|@nanbangjangchi@
+@heaven@|@cheonguk@
+@heavenly@|@cheollaeui@
+@heavy@|@mugeoun@
+@heel@|@dwiggumchi@
+@height@|@nopi@
+@heirloom@|@gabo@
+@helicopter@|@helrikopteo@
+@hello (greeting)@|@annyeonghaseyo@
+@hello (telephone)@|@yeoboseyo@
+@help@|@doum@
+@hemisphere@|@bangu@
+@hen@|@amtak@
+@henhouse@|@dakjang@
+@herb@|@chobon@
+@herb (medical)@|@yakcho@
+@hiccup@|@ddalggukjil@
+@highway@|@gosoktoro@
+@hike@|@dobo yeohaeng@
+@hill@|@eondeok@
+@hire@|@geyong@
+@history@|@yeoksa@
+@hives@|@dudeureogi@
+@hobby@|@chwimi@
+@hoe@|@gwaengi@
+@hole@|@gumeong@
+@holiday@|@hyuil@
+@home@|@gajeong@
+@home (native land)@|@bonguk@
+@homesick@|@hyangsubyeong@
+@homework@|@sukje@
+@honey@|@ggul@
+@honeymoon@|@milweol@
+@horse@|@mal@
+@horse race@|@gyeongma@
+@hospital@|@byeongweon@
+@hot (spicy)@|@maeun@
+@hot (temperature)@|@doun@
+@hot spring@|@oncheon@
+@hotel@|@hotel@
+@house@|@jip@
+@hundred@|@baek@
+@hungry@|@baegopun@
+@hurricane@|@pokpung@
+@hurry@|@bbali@
+@husband@|@nampyeon@
+@ice@|@eoreum@
+@ice cream@|@aiseukeurim@
+@ice house@|@eoreum changgo@
+@ice water@|@eoreum-mul@
+@iceberg@|@bingsan@
+@icicle@|@godeureum@
+@ID card@|@sinbunjeung@
+@identification card@|@sinbunjeung@
+@ill (sick)@|@byeongdeun@
+@illegal@|@bulbeop@
+@immigrant@|@imin@
+@immigrate@|@ijuhayeo-oda@
+@immigration office@|@cheulipgukgwalriso@
+@import@|@suiphada@
+@important@|@jungyohan@
+@incense@|@hyang@
+@inch@|@inchi@
+@incline (angle)@|@giulda@
+@income@|@suip@
+@incubator@|@buhwagi@
+@India@|@indo@
+@indigestion@|@sohwa bulryang@
+@industrial@|@saneopui@
+@industry@|@saneop@
+@infant@|@yua@
+@infantry@|@bobyeong@
+@infect@|@jeonyeomsikida@
+@infection@|@jeonyeom@
+@influenza@|@yuhaengseong gamgi@
+@information@|@jisik@
+@ingredient@|@seongbun@
+@inhabit@|@gojuhada@
+@inhabitant@|@jumin@
+@inherit@|@sangsokhada@
+@injection@|@jusa@
+@injure@|@dachida@
+@ink@|@ingkeu@
+@inlet@|@ipgu@
+@inoculate@|@yebangjeopjong@
+@inoculation@|@jeopjong@
+@insect@|@gonchung@
+@insecticide@|@salchungje@
+@inspect@|@josahada@
+@inspection@|@geomsa@
+@inspector@|@geomsagwan@
+@institute@|@hyeophoe@
+@instructor@|@gyosa@
+@international@|@gukjejeokin@
+@interpret@|@haeseokhada@
+@interpreter@|@haeseolja@
+@interrogation@|@jilmun@
+@invent@|@balmyeonghada@
+@invention@|@balmyeongpum@
+@inventor@|@balmyeongga@
+@invitation@|@chodae@
+@invite@|@chodaehada@
+@ironing@|@darimijil@
+@irrigation@|@muldaem@
+@island@|@seom@
+@itch@|@garyeoum@
+@itinerary@|@yeohaeng iljeong@
+@ivy@|@damjaengi@
+@jacket@|@jaket@
+@jade@|@bichwi@
+@January@|@ilweol@
+@Japan@|@ilbon@
+@Japanese language@|@ilbonmal@
+@Japanese person@|@ilbonsaram@
+@jar@|@danji@
+@jaw@|@teok@
+@jazz@|@jaejeu@
+@jelly@|@jelri@
+@jellyfish@|@haepari@
+@Jesus@|@yesu@
+@jet plane@|@jeteugi@
+@jewel@|@boseok@
+@jeweller@|@boseoksang@
+@job@|@jikeop@
+@journal (diary)@|@ilgi@
+@journal (magazine)@|@japji@
+@journalist@|@gija@
+@juice@|@ju-useu@
+@July@|@chilweol@
+@June@|@yuweol@
+@jungle@|@jeonggeul@
+@kangaroo@|@kaenggeoru-u@
+@keepsake@|@yupum@
+@kerosene@|@deungyu@
+@key@|@yeolsoe@
+@key money@|@bojeunggeum@
+@keyhole@|@yeolsoe gumeong@
+@kidnap@|@yugoehada@
+@kidney@|@sinjang@
+@kilometre@|@kilromiteo@
+@Kim chi@|@kimchi@
+@kindergarten@|@yuchiweon@
+@king@|@gukwang@
+@kingdom@|@wangguk@
+@kiss@|@kiseu@
+@kitchen@|@jubang@
+@kite@|@yeon@
+@kitten@|@goyangi saeggi@
+@knapsack@|@baenang@
+@knee@|@mureup@
+@knife@|@kal@
+@Korea@|@hanguk@
+@Korean harp@|@geomungo@
+@Korean language@|@hangukmal@
+@Korean person@|@hanguksaram@
+@laboratory@|@yeonguso@
+@lace@|@reiseu@
+@lady@|@suknyeo@
+@lake@|@hosu@
+@lamb@|@eorin yang@
+@lamp@|@deung@
+@landlady@|@yeojajuin@
+@landlord@|@jipjuin@
+@landowner@|@jiju@
+@lantern@|@chorong@
+@latrine@|@byeonso@
+@laundry@|@setakmul@
+@lavatory@|@hwajangsil@
+@lawyer@|@byeonhosa@
+@leaf (tree)@|@namutip@
+@leak@|@saeda@
+@learn@|@baeuda@
+@learning@|@hakseup@
+@lease@|@imdae@
+@leash@|@gajukggeun@
+@leather@|@gajuk@
+@left@|@wenjjok@
+@left-handed@|@wensonjapi@
+@leg@|@dari@
+@lemon@|@remon@
+@lemonade@|@remonsu, saida@
+@lens@|@renjeu@
+@leopard@|@pyobeom@
+@lesson (school)@|@sueop@
+@letter (alphabet)@|@munja@
+@letter (message)@|@pyeonji@
+@lettuce@|@sangchu@
+@librarian@|@doseogwanweon@
+@library@|@doseogwan@
+@life preserver@|@gumyeonggu@
+@lifeboat@|@gujoseon@
+@light@|@bul kyeoda@
+@lighthouse@|@deungdae@
+@lightning@|@beongaetbul@
+@lilac@|@railrak@
+@lily@|@baekhap@
+@lion@|@saja@
+@lip@|@ipsul@
+@lipstick@|@ipsulyeonji, ripseutik@
+@liquid@|@aekche@
+@liquor@|@alko-ol@
+@literature@|@munhak@
+@litre@|@riteo@
+@little (amount)@|@jeokeun@
+@little (size)@|@jakeun@
+@liver@|@ganjang@
+@lizard@|@domabaem@
+@lobby@|@hyugesil@
+@lobster@|@badagajae@
+@locomotive@|@gigwancha@
+@locust@|@meddugi@
+@lodging house@|@hasukjip@
+@lose (defeated)@|@jida@
+@lost (items)@|@ireun@
+@lotion@|@hwajangsu@
+@lounge@|@sagyosil@
+@love@|@sarang@
+@lucky@|@haengun@
+@luggage@|@yeohaenghamul@
+@lukewarm@|@mijigeunhan@
+@lullaby@|@jajangga@
+@lunar eclipse@|@weolsik@
+@lunch@|@jeomsim@
+@lung@|@heopa@
+@luxurious@|@sachiseureoun@
+@luxury@|@sachi@
+@machine@|@gigye@
+@mackerel@|@godeungeo@
+@mad (angry)@|@hwaganan@
+@magazine@|@japji@
+@maggot@|@gudeogi@
+@magnet@|@jaseok@
+@magnetic@|@jaseokeui@
+@magnolia@|@mokryeon@
+@maid (servant)@|@hanyeo@
+@mail@|@upyeonmul@
+@mainland@|@bonto@
+@make-up@|@hwajangpum@
+@malaria@|@hakjil@
+@male@|@namseong@
+@mamma@|@eomma@
+@mammal@|@poyu tongmul@
+@man@|@namja@
+@management@|@gwalli@
+@manager@|@jibaein@
+@manicure@|@maenikyueo@
+@mansion@|@daejeotaek@
+@manual (book)@|@sochaekja@
+@manufacture@|@jejo@
+@manufacturer@|@jejo-eopja@
+@map@|@jido@
+@maple@|@danpung@
+@maple tree@|@danpungnamu@
+@marble@|@daeriseok@
+@March@|@samweol@
+@marine corps@|@haebyeongdae@
+@market@|@sijang@
+@market (small store)@|@sikpumjeom@
+@mask@|@gamyeon@
+@massage@|@masa-aji@
+@mathematics@|@suhak@
+@mattress@|@chimdaeyong@
+@May@|@oweol@
+@mayor@|@sijang@
+@maze@|@migung@
+@mealtime@|@siksa sigan@
+@measles@|@hongyeok@
+@meat@|@gogi@
+@medicine@|@yak@
+@melon@|@chamoe, melron@
+@melt@|@nokda@
+@menstruation@|@menseu@
+@merchandise@|@sangpum@
+@merchant@|@sangin@
+@metre@|@miteo@
+@microphone@|@hwakseonggi@
+@microscope@|@hyeonmigyeong@
+@midnight@|@yaban@
+@military@|@gunin@
+@milk@|@uyu@
+@million@|@baekman@
+@millionaire@|@baekmanjangja@
+@minister (priest)@|@moksa@
+@mirror@|@geoul@
+@missionary@|@seongyosa@
+@mist@|@angae@
+@mistake@|@silsu@
+@molasses@|@tangmil@
+@mole (body)@|@samagwi@
+@Monday@|@weoryoil@
+@money@|@don@
+@money changer@|@hwanjeonsang@
+@monk@|@sudoja, sudoseung@
+@monkey@|@weonsungi@
+@monsoon@|@jangmacheol@
+@month@|@dal@
+@moonlight@|@dalbit@
+@mosquito@|@mogi, mogi@
+@mosquito net@|@mogi jang@
+@moth@|@nabang@
+@mother@|@eomeoni@
+@motorcycle@|@otobai@
+@mountain@|@san@
+@mouse@|@saengjwi@
+@moustache@|@kotsuyeom, kotsuyeom@
+@mouth@|@ip@
+@movie@|@yeonghwa@
+@mule@|@nosae@
+@multiplication@|@gopsem@
+@multiply@|@gopsemhada@
+@murder@|@sarin@
+@museum@|@bakmulgwan@
+@mushroom@|@beoseot@
+@music@|@eumak@
+@musician@|@eumakga@
+@mustard@|@gyeoja@
+@myself@|@nachasin@
+@nail@|@mot@
+@name@|@ireum@
+@nap@|@natjam@
+@napkin@|@naepkin@
+@national@|@anthem gukga@
+@nationality@|@gukjeok@
+@natural gas@|@cheonyeongaseu@
+@nature@|@jayeon@
+@navigate@|@hanghaehada@
+@navigation@|@hanghae@
+@navy@|@haegun@
+@nearsighted@|@geunsi@
+@neck@|@mok@
+@necklace@|@mokgeori@
+@necktie@|@nektari@
+@needle@|@baneul@
+@needle work@|@baneuljil@
+@new year@|@saehae@
+@news@|@nyu-useu@
+@newspaper@|@sinmun@
+@nickname@|@byeolmyeong@
+@night@|@bam@
+@nightgown@|@jamot@
+@nightmare@|@akmong@
+@nine (C)@|@gu@
+@nine (K)@|@ahop@
+@nineteen (C)@|@sipgu@
+@nineteen (K)@|@yeolaihop@
+@ninety (C)@|@gusip@
+@ninety (K)@|@aheun@
+@no@|@anio@
+@noisy@|@siggeureoun@
+@noodles@|@guksu@
+@north@|@bukjjok@
+@northeast@|@dongbuk@
+@northwest@|@seobuk@
+@nose@|@ko@
+@nostril@|@kotgueong@
+@notebook@|@gongchaek@
+@notepaper@|@pyeonjiji@
+@November@|@sipilweol@
+@novice@|@joboja@
+@now@|@jegeum@
+@nurse@|@ganhoweon@
+@nursery@|@eorinibang@
+@nursery rhyme@|@jajangga@
+@nut (food)@|@gyeongwa@
+@oak tree@|@chamnamu@
+@oatmeal@|@outeumil@
+@observatory@|@cheonmundae@
+@occupation@|@jikeop@
+@ocean@|@bada@
+@October@|@siweol@
+@octopus@|@muneo@
+@office@|@samusil@
+@oil@|@gireum@
+@ointment@|@yeongo@
+@old (item)@|@nalgeun@
+@old (person)@|@neulgeun@
+@olive@|@olribeu@
+@one (C)@|@il@
+@one (K)@|@hana@
+@onion@|@yangpa@
+@opal@|@danbaekseok@
+@open@|@yeolda@
+@opera@|@opera@
+@opera house@|@opera geukjang@
+@operation (surgery)@|@susul@
+@opponent@|@sangdae@
+@orange@|@orenji@
+@orchard@|@gwasuweon@
+@orchestra@|@okeseuteura@
+@orchid@|@nancho@
+@organ (body)@|@gigwan@
+@organ (music)@|@oreugan@
+@orient@|@dongyang@
+@oriental@|@dongyangin@
+@orphan@|@goa@
+@orphanage@|@goaweon@
+@ostrich@|@tajo@
+@outing@|@nadeuri@
+@outside@|@baggat@
+@owl@|@bueongi@
+@owner@|@imja@
+@ox@|@hwangso@
+@oyster@|@saenggul@
+@Pacific Ocean@|@taepyeongyang@
+@package@|@sopo@
+@padlock@|@jamulsoe@
+@pain@|@gotong@
+@pain killer@|@jintongje@
+@paint@|@pehinteu@
+@paint brush@|@geurim put@
+@palm (hand)@|@sonbadak@
+@palm tree@|@yajasu@
+@pan@|@nambi@
+@pansy@|@paenji@
+@panther@|@pyobeom@
+@pants@|@baji@
+@papa@|@abba@
+@paper@|@jongi@
+@parachute@|@nakhasan@
+@parade@|@haengryeol@
+@paralysis@|@mabi@
+@parasol@|@yangsan@
+@parcel@|@sopo@
+@parent@|@bumo@
+@park@|@gongweon@
+@parrot@|@aengmusae@
+@party@|@pa-ati@
+@passenger@|@seunggaek@
+@passport@|@yeogweon@
+@pastor@|@moksa@
+@pastry@|@saenggwaja@
+@pasture@|@mokjang@
+@patient@|@hwanja@
+@pay@|@jibul@
+@pea@|@wandukong@
+@peach@|@boksunga@
+@peacock@|@gongjak@
+@peanut@|@ddangkong@
+@pear@|@bae@
+@pearl@|@jinju@
+@pen@|@pen@
+@pencil@|@yeonpil@
+@people@|@saramdeul@
+@pepper (black)@|@huchu@
+@pepper (red)@|@gochu@
+@peppermint@|@bakha@
+@perfume@|@hyangsu@
+@periodical@|@japji@
+@persimmon@|@gam@
+@person@|@saram@
+@pesticide@|@salchungje@
+@pestilence@|@heuksabyeong@
+@pet@|@aewndongmul@
+@petrol@|@hwibalyu@
+@pharmacist@|@yakjesa@
+@pharmacy@|@yakguk@
+@pheasant@|@ggweong@
+@philosophy@|@cheolhak@
+@phone@|@jeonhwa@
+@photograph@|@sajin@
+@physician@|@euisa@
+@physics@|@mulrihak@
+@pickle@|@oi jangajji@
+@pickpocket@|@somaechigi@
+@picnic@|@pikeunik@
+@picture@|@geurim@
+@pier@|@budu@
+@pig@|@dwaeji@
+@pigeon@|@bidulgi@
+@pillow@|@begae@
+@pillowcase@|@begaeit@
+@pilot@|@jojongsa@
+@pimple@|@yeodeureum@
+@pine@|@tree sonamu@
+@pineapple@|@painaepeul@
+@ping@|@pong takgu@
+@pink@|@bunhongsaek@
+@pipe (smoking)@|@dambaetdae@
+@plane (aeroplane)@|@bihaenggi@
+@planet@|@yuseong@
+@plate@|@cheopsi@
+@playground@|@noriteo@
+@playmate@|@nori chingu@
+@pliers@|@bbenjji@
+@plum@|@jadu@
+@plumber@|@yeongong@
+@pneumonia@|@pyeryeom@
+@poem@|@si@
+@poet@|@si-in@
+@poetry@|@si@
+@poison@|@dokyak@
+@poisonous@|@yudokhan@
+@police@|@gyeongchal@
+@police station@|@gyeongchalseo@
+@policeman@|@gyeongchalgwan@
+@politician@|@jeongchiga@
+@politics@|@jeongchi@
+@pond@|@yeonmot@
+@pony@|@jorangmal@
+@popcorn@|@twigim oksusu@
+@porcelain@|@sagi geureut@
+@pork@|@dwaejigogi@
+@portrait@|@chosanghwa@
+@post office@|@ucheguk@
+@postage@|@upyeonyogeum@
+@postcard@|@yeopseo@
+@pot (jar)@|@danji@
+@potato@|@gamja@
+@poultry@|@gageum@
+@pray@|@gidahada@
+@preacher@|@seolgyoja@
+@pregnant@|@imsinhan@
+@Presbyterian@|@jangrogyo@
+@prescription@|@cheobang@
+@priceless@|@mopsi kwijunghan@
+@priest (minister)@|@moksa@
+@priest (monk)@|@sudoja@
+@principal (school)@|@gyojang@
+@prison@|@gyodoso@
+@privacy@|@sasaenghwal@
+@professor@|@gyosu@
+@promise@|@yaksok@
+@pronunciation@|@bareum@
+@proprietor@|@soyuja@
+@protestant@|@singyodo@
+@psychology@|@simrihak@
+@pumpkin@|@hobak@
+@puppy@|@gangaji@
+@purple@|@jajutbit@
+@purse@|@jigap@
+@puzzle@|@susuggeggi@
+@pyramid@|@geumjatap@
+@quail@|@mechuragi@
+@quality@|@pumjil@
+@quantity@|@yang@
+@quarantine@|@geomyeok@
+@quarter (1/4)@|@sabunui-il@
+@queen@|@yeowang@
+@question@|@bilmun@
+@quick@|@boli@
+@quiet@|@goyohan@
+@quilt@|@nubi-ibul@
+@rabbit@|@toggi@
+@race (contest)@|@gyeongju@
+@radio@|@radio@
+@radish@|@mu-u@
+@railroad@|@cheoldo@
+@rain@|@pi@
+@rainbow@|@mujmigae@
+@raincoat@|@biot@
+@rainstorm@|@bibaram@
+@rainy@|@bioneun@
+@raisin@|@geonpodo@
+@ranch@|@nongjang@
+@rape@|@gangganhada@
+@rat@|@jwi@
+@rat poison@|@jwiyak@
+@ravine@|@gipeun kyegok@
+@raw@|@nalgeo@
+@razor@|@myeondokal@
+@read@|@dokseohada@
+@receipt@|@yeongsujeung@
+@reception (party)@|@hwanyeonghoe@
+@recess (school)@|@swineun sigan@
+@recipe@|@joribeop@
+@rectangle@|@jiksagakhyeong@
+@red@|@bbalgan@
+@red pepper@|@gochu@
+@reef@|@amcho@
+@reel@|@gamda@
+@refresh@|@saeropgehada@
+@refrigerate@|@naenggaksikida@
+@refrigerator@|@naengjanggo, naengjanggo@
+@register@|@deungrokhada@
+@registration@|@deungrok@
+@regulation@|@gyuchik@
+@reindeer@|@malsaseum@
+@relative (family)@|@chincheok@
+@religion@|@jonggyo@
+@religious@|@jonggyojeokin@
+@rent@|@jipse@
+@repair@|@suseonghada@
+@repay@|@gapda@
+@replacement@|@gyoche@
+@report card@|@seongjeokpyo@
+@reporter@|@gija@
+@representative@|@daepyoja@
+@reproduce@|@boksahada@
+@rescue@|@gujohada@
+@research@|@josayeonguhada@
+@reservation (hotel)@|@yeyak@
+@residence@|@jutaek@
+@resident@|@geojuja@
+@resort (holiday)@|@hyuyangji@
+@restaurant@|@eumsikjeom, eumsikjeom@
+@retail@|@somae@
+@reunion@|@jaehoe@
+@rice (cooked)@|@bap@
+@rice (raw)@|@ssal@
+@rich@|@donmaneun@
+@right (direction)@|@oreun@
+@ring (finger)@|@banji@
+@river@|@gang@
+@robber@|@gangdo@
+@robbery@|@yaktal@
+@robe@|@gaun@
+@roommate@|@hanbang chingu@
+@rooster@|@sutak@
+@rope@|@batjul@
+@rose@|@jangmi@
+@rotate@|@dolda@
+@rotation@|@gyodae@
+@rubber@|@gomu@
+@ruby@|@ru-ubi@
+@ruler (measure)@|@ja@
+@safe (lock)@|@geumgo@
+@safeguard@|@boho@
+@safety@|@anjeon@
+@sailing boat@|@dotbae@
+@salad@|@saelreodeu@
+@salary@|@weolgeup@
+@sale@|@panmae@
+@saloon@|@suljip@
+@salt@|@sogeum@
+@salty@|@jjada@
+@sanctuary@|@georukhankot@
+@sand@|@morae@
+@sandwich@|@saendeuwichi@
+@sandy@|@moraeui@
+@sapphire@|@sapaieo@
+@sardine@|@jeongeori@
+@satellite@|@wiseong@
+@satin@|@gongdan@
+@Saturday@|@toyoil@
+@sauce@|@so-oseu@
+@saucepan@|@seutyou nambi@
+@saucer@|@batchim cheopsi@
+@sausage@|@sosiji@
+@scarf@|@mokdori@
+@scenery@|@gyeongchi@
+@schedule@|@siganpyeo@
+@scholarship@|@janghakgeum@
+@school@|@hakgyo@
+@schoolmate@|@haku@
+@science@|@gwahak@
+@science fiction@|@gongsang@
+@scientific@|@gwahakjeokin@
+@scientist@|@gwahakja@
+@scissors@|@gawi@
+@scorpion@|@jeongal@
+@screwdriver@|@deuraibeo@
+@sculptor@|@jogakga@
+@sculpture@|@jogak@
+@sea@|@bada@
+@seagull@|@galmaegi@
+@seal (animal)@|@badapyobeom@
+@seashore@|@badatga@
+@seasickness@|@baetmeolmi@
+@seaweed@|@miyeok@
+@secret@|@bimil@
+@security@|@anjeon@
+@sell@|@palda@
+@seller@|@paneun saram@
+@semester@|@hakgi@
+@seminar@|@semina-a@
+@send@|@bonaeda@
+@September@|@guweol@
+@sergeant@|@hasagwan@
+@serpent (snake)@|@baem@
+@seven (C)@|@chil@
+@seven (K)@|@ilgop@
+@seventeen (C)@|@sipchil@
+@seventeen (K)@|@yeolilgop@
+@seventh-day-Adventist@|@ansikgyo@
+@seventy (C)@|@chilsip@
+@seventy (K)@|@ilheun@
+@sew (hand)@|@baneujilhada@
+@sew (machine)@|@jaebonghada@
+@sewing (hand)@|@baneujil@
+@sewing (machine)@|@jaebong@
+@shade@|@geuneul@
+@shadow@|@geurimja@
+@shady@|@geuneuljin@
+@shampoo@|@syaempu-u@
+@shark@|@sangeo@
+@sharp@|@nalkaroun@
+@shave@|@myeondo@
+@sheep@|@yang@
+@ship@|@bae@
+@shipwreck@|@nanpaseon@
+@shipyard@|@joseonso@
+@shirt@|@udori@
+@shoe@|@gudu@
+@shoe brush@|@gudutsol@
+@shoe horn@|@gudutjugeok@
+@shoe lace@|@guduggeun@
+@shoe polish@|@guduyak@
+@shoe shine@|@gududakggi@
+@shopping@|@changbogi@
+@shorts@|@banbaji@
+@shoulder@|@eoggae@
+@shower@|@syaueo@
+@shrimp@|@saeu@
+@shrine@|@sadang@
+@sick (ill)@|@byeongdeun@
+@sightseeing@|@gugyeong@
+@silk@|@myeongju@
+@silkworm@|@nu-e@
+@silver@|@eun@
+@sin@|@joe@
+@sing@|@noraehada@
+@singer@|@gasu@
+@sink@|@seolgeojiteong@
+@sit@|@anda@
+@six (C)@|@yuk@
+@six (K)@|@yeoseot@
+@sixteen (C)@|@sipyuk@
+@sixteen (K)@|@yeolyeoseot@
+@sixty (C)@|@yuksip@
+@sixty (K)@|@yesun@
+@skate@|@seukeiteu@
+@skating@|@seukeiting@
+@ski@|@seuki-i@
+@skirt (dress)@|@chima@
+@sky@|@haneul@
+@sleep@|@jam@
+@sleeping car@|@chimdaecha@
+@sleepy@|@jolrineun@
+@smart@|@dokdokhada@
+@smell@|@naemsae@
+@smile@|@miso@
+@smiling@|@misohaneun@
+@snail@|@dalpaengi@
+@snake@|@baem@
+@sneeze@|@jaechaegi@
+@snore@|@koreulgolda@
+@snow@|@nun@
+@snow slide (avalanche)@|@nunsatae@
+@snowball@|@nunmungchi@
+@snowdrift@|@nundeomi@
+@snowflake@|@nunsongi@
+@snowing@|@nunionda@
+@snowman@|@nunsaram@
+@snowstorm@|@nunbora@
+@snowy@|@nunimaneun@
+@soap@|@binu@
+@socks@|@yangmal@
+@soda@|@so-oda@
+@sofa@|@sopa@
+@solar eclipse@|@ilsik@
+@soldier@|@gunin@
+@son@|@adeul@
+@song@|@norae@
+@soup@|@guk@
+@south@|@namjjok@
+@southeast@|@dongnam@
+@southern@|@namjjokui@
+@soy@|@sauce ganjang@
+@soy sauce@|@ganjang@
+@Spain@|@seupeineo@
+@Spanish person@|@seupeinsaram@
+@sparrow@|@chamsae@
+@spectacles@|@angyeong@
+@sphere@|@guche@
+@spice@|@yangnyeom@
+@spider@|@geomi@
+@spinach@|@sigeumchi@
+@spine@|@cheokchu@
+@sponge@|@seupeonji@
+@spoon@|@sutgarak@
+@spouse@|@baeuja@
+@squadron@|@jungdaebonbu@
+@square@|@nemo@
+@squash@|@hobak@
+@squirrel@|@daramjwi@
+@stadium@|@gyeonggijang@
+@staircase@|@gyedan@
+@star@|@byeol@
+@starry@|@byeolbit palgeun@
+@start@|@chulbalhada@
+@stationery@|@pyeonjiji@
+@steak@|@seuteikeu@
+@steam@|@cheunggi@
+@stepchild@|@euibutjasik@
+@stomach@|@wi@
+@stomach (belly)@|@bae@
+@store (market)@|@sangjeom@
+@store (stow)@|@jeojanghada@
+@storm@|@pokpung@
+@stove@|@nallo@
+@straw@|@bbaldae@
+@strawberry@|@ddalgi@
+@stream (water)@|@gaeul@
+@string@|@ggeun@
+@stroke (illness)@|@jungpung@
+@student@|@haksaeng@
+@substitute (item)@|@daeyongpum@
+@substitute (person)@|@daeri@
+@subtraction (math)@|@bbaegi@
+@subway (train)@|@jihacheol@
+@sugar@|@seoltang@
+@sugar can@|@satangsusu@
+@sum (math)@|@gyesan@
+@sum (total)@|@hapgye@
+@summer@|@yeoreum@
+@sun@|@hae@
+@sunburn@|@haetbyeote tada@
+@Sunday@|@iryoil@
+@sunflower@|@haebaragi@
+@sunrise@|@haedoji@
+@sunset@|@haejilnyeok@
+@sunshine@|@haetbyeot@
+@supper@|@jeonyeoksiksa@
+@surgery@|@susul@
+@surname@|@seong@
+@swan@|@baekjo@
+@sweet potato@|@goguma@
+@swimming@|@suyeong@
+@swine@|@dwaeji@
+@sword@|@kal@
+@table (eating)@|@siktak@
+@table (general)@|@takja@
+@tablecloth@|@siktakbo@
+@taxi stop@|@taeksi stap@
+@teeth@|@ibbal@
+@ten (C)@|@sip@
+@ten (K)@|@yeol@
+@ten thousand@|@man@
+@thirteen (C)@|@sipsam@
+@thirteen (K)@|@yeolset@
+@thirty (C)@|@samsip@
+@thirty (K)@|@seoreun@
+@thousand@|@cheon@
+@three (C)@|@sam@
+@three (K)@|@set@
+@thumb@|@eomji@
+@Thursday@|@mogyoil@
+@tiger@|@horangi@
+@timber@|@mokjae@
+@toe@|@balgarak@
+@toilet@|@byeonso@
+@toilet paper@|@hyuji@
+@tomato@|@tomato@
+@tomb@|@mudeom@
+@tombstone@|@myobi@
+@tomorrow@|@naeil@
+@tongs@|@jipge@
+@tongue@|@hyeo@
+@tonight@|@oneulbam@
+@tooth@|@i, ibbal@
+@toothache@|@chitong@
+@toothbrush@|@chitsol@
+@toothpick@|@issusigae@
+@tortoise@|@geobuk@
+@total eclipse@|@gaegisik@
+@tourist@|@gwangwanggaek@
+@towel@|@taweol@
+@toy@|@jangnamgam@
+@toyshop@|@jangnamgam gage@
+@train@|@gicha@
+@train station@|@gichayeokjeon@
+@translate@|@beonyeokhada@
+@translation@|@beonyeok@
+@transport@|@susonghada@
+@transportation@|@susong@
+@trash@|@sseuregi@
+@travel@|@yeohaeng@
+@travel agency@|@yohaengsa@
+@traveller@|@yeohaengja@
+@tree@|@namu@
+@triangle@|@samgakhyeong@
+@tricycle@|@sebal chajeongo@
+@tropical@|@yeoldae@
+@tropics@|@yeoldae chibang@
+@trout@|@songeo@
+@truck@|@teureok@
+@trumpet@|@teureompet@
+@trunk (box)@|@teureongkeu@
+@trunk (tree)@|@julg@
+@tub (bath)@|@mokyoktong@
+@tube (train)@|@jihacheol@
+@tuberculosis@|@gyeolhaek@
+@Tuesday@|@hwayoil@
+@tug boat@|@yeinseon@
+@tuition@|@sueopryo@
+@tumour@|@jongyang@
+@tuna@|@darangeo@
+@turkey@|@chilmyeonjo@
+@turnip@|@sunmu@
+@turtle@|@badageobuk@
+@tutor@|@gajeonggyosa@
+@tweezers@|@jokjipge@
+@twelve (C)@|@sipi@
+@twelve (K)@|@yeoldul@
+@twenty (C)@|@isip@
+@twenty (K)@|@seumul@
+@two (C)@|@i@
+@two (K)@|@dul@
+@typhoid@|@jangtipuseu@
+@typhoon@|@taepung@
+@ulcer@|@wikweyang@
+@umbrella@|@usan@
+@underground (train)@|@jihacheol@
+@underwear@|@sokot@
+@unhappy@|@bulhaenghan@
+@uniform@|@jebok@
+@universe@|@jeonsegye@
+@university@|@daehakgyo@
+@unlucky@|@uni nabbeun@
+@unpack@|@jimeulpulda@
+@untie@|@ggeureuda@
+@upstairs@|@icheung@
+@urgent@|@gingeuphan@
+@vacation@|@hyuga@
+@vaccination@|@udu@
+@vase@|@ggotbyeong@
+@vegetable@|@yachae@
+@vehicle@|@charyang@
+@vein@|@hyeolgwan@
+@venom@|@dokaek@
+@ventilate@|@hwangihada@
+@ventilation@|@hwangi@
+@vest@|@joggi@
+@village@|@maeul@
+@vine@|@neonggul@
+@vinegar@|@sikcho@
+@violet@|@jebiggot@
+@violin@|@baieolrin@
+@visit@|@bangmun@
+@visitor@|@bangmungaek@
+@volcano@|@hwasan@
+@volleyball@|@baegu@
+@volunteer@|@jiweonja@
+@vomit@|@guto@
+@vulture@|@doksuri@
+@waist@|@heori@
+@waiter@|@weiteo@
+@waiting room@|@daehapsil@
+@waitress@|@weiteureseu@
+@wallet@|@jigap@
+@walnut@|@hodu@
+@war@|@jeonjaeng@
+@warehouse@|@changgo@
+@warm@|@ddaddeuthan@
+@warning@|@gyeonggo@
+@wash (clothes)@|@setakhada@
+@wash (self)@|@ssitda@
+@washing machine@|@setakgi@
+@washroom@|@yoksil@
+@wasp@|@malbeol@
+@watch (n.)@|@sigye@
+@water@|@mul@
+@water lily@|@suryeon@
+@waterfall@|@pokpo@
+@watermelon@|@subak@
+@wave@|@mulgyeol@
+@wealthy@|@puyuhan@
+@weapon@|@mugi@
+@weather forecast@|@ilgi yebo@
+@web (spider)@|@geomijul@
+@wedding@|@gyeolhon@
+@wedding ring@|@gyeolhonbanji@
+@Wednesday@|@suyoil@
+@weekend@|@jumal@
+@weekly@|@maeju@
+@weigh@|@mugereultalda@
+@weight@|@muge@
+@welcome@|@hwanyeong@
+@west@|@seojjok@
+@wet@|@jeojeun@
+@whale@|@gorae@
+@wharf@|@budu@
+@wheat@|@mil@
+@wheel@|@bakwi@
+@whistle (n.)@|@hogak@
+@whistle (v.)@|@hwiparam@
+@white@|@heuin, heuinsaek@
+@widow@|@gwabu@
+@widower@|@horabi@
+@wife (of someone else)@|@buin@
+@wife (own)@|@anae@
+@wig@|@gabal@
+@windmill@|@pungcha@
+@window@|@changmun@
+@windpipe@|@sumtong@
+@wine@|@podoju@
+@wing (bird)@|@nalgae@
+@winner@|@seungrija@
+@wolf@|@neukdae@
+@woman@|@yeoja@
+@wood@|@mokjae@
+@woodpecker@|@ddakdaguri@
+@wool@|@yangmo@
+@world@|@segye@
+@worm@|@jireongi@
+@wreck (destroy)@|@pagoehada@
+@wrench@|@renchi@
+@wrist@|@sonmok@
+@wristwatch@|@sigye@
+@writer@|@jakga@
+@X-mas@|@seongtanjeol@
+@x-ray@|@ekseurei@
+@xylophone@|@silropon@
+@yacht@|@yoteu@
+@yam@|@goguma@
+@yardstick@|@yaadeu cha@
+@yarn@|@teolsil@
+@yellow@|@noran@
+@yes@|@ne, ye@
+@yesterday@|@eoje@
+@yolk@|@noreunja@
+@you@|@tangsin@
+@zebra@|@eolrukmal@
+@zero@|@kong, yeong@
+@zipper@|@chakeu@
+@zoo@|@dongmulweon@
+@zoology@|@dongmulhak@
+

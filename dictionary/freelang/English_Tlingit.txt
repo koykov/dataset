@@ -1,0 +1,581 @@
+@English@|@Tlingit@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@aground@|@kux, kúx-dei@
+@already@|@déi@
+@also@|@tsú@
+@and you@|@wa'e@
+@and you?@|@wa'e de?@
+@are you cold?@|@isewu'at' gi?@
+@are you happy?@|@i tuwu gi yak'e?@
+@are you hungry?@|@i it gi yan uwaha?@
+@at home@|@nel yi@
+@Athabaskan@|@Ghunana@
+@baby@|@t'ukaneyi@
+@back@|@khuxh, khúxh-dei@
+@be quiet!@|@k'al k'atl'ak, sh ilk'atl'!@
+@be sure not to@|@tsé@
+@be sure to@|@x'wán@
+@bear@|@s'ik@
+@beaver@|@s'igedi@
+@berry@|@tlekhw@
+@big@|@tlen@
+@black@|@tuch'@
+@black bear@|@s'ik@
+@black hat@|@tuch' s'axw@
+@blanket@|@x'uw@
+@blue@|@s'uw@
+@blue hat@|@s'uw s'axw@
+@blueberry hill@|@l'axh' luwu t'uli@
+@boy@|@yadak'w@
+@brown@|@s'igwat@
+@brown hat@|@sigwat s'axw@
+@bullets@|@tuteyi@
+@butterfly@|@tlelu@
+@cane@|@wutsagha@
+@caribou@|@watsix@
+@chest@|@yuwnka@
+@child@|@adetx'i@
+@clothes@|@na'at@
+@clouds@|@gus'@
+@come here!@|@hagu!, hat yi'a!@
+@contrary@|@khaju, xhaju@
+@cup@|@gux'a@
+@do you have firewood?@|@gan gi i jiwu?@
+@do you have matches?@|@khas' gi i jiwu?@
+@do you know Tlingit?@|@Lingit gi xh'iya'axhch?@
+@do you live in the bush?@|@et gutux' gi khiya'u?@
+@do you see any sheep?@|@tawe gi iyatin?@
+@do you see any wolves?@|@ghuch di iyatin?@
+@do you understand me?@|@ida gi ya khusisige?@
+@do you want some fish?@|@xhat gi i tuwa sigu?@
+@do you want tea?@|@di gi i tuwa sigu?@
+@do you want water?@|@hin gi i tuwa sigu?@
+@dog@|@ketl@
+@dog is sitting in its house@|@du hidi yit a we ketl@
+@dog is sitting on its house@|@du hidi kat a we ketl@
+@dog is sitting under its house@|@du hidi tayit a we ketl@
+@dog's sitting behind its house@|@du hidi t'et a we ketl@
+@dog's sitting beside its house@|@du hidi t'ikat a we ketl@
+@don't@|@li@
+@down below@|@(di-)yée, (di-)yee-naa, (di-)yín-dei@
+@downstream@|@éex, íx-dei, ix-kée, ixi-naa@
+@dry meat@|@dliyn xuk@
+@duck@|@gaxw@
+@ear@|@guk@
+@elder@|@wudishani@
+@elder man@|@wudishani kha@
+@elder woman@|@wudishanishawat@
+@even@|@ch'ú@
+@eye@|@wakh@
+@face@|@ya@
+@father@|@ish@
+@fire@|@shut@
+@fireweed is growing@|@lul awe ya kana'en@
+@first@|@s'é@
+@fish@|@xhat@
+@five@|@kijin@
+@fly@|@xin@
+@foot@|@xh'us@
+@four@|@dax'un@
+@from seashore@|@daak, dák-dei, daki-naa, dei-kí, diki-naa@
+@get a move on!@|@juk!@
+@girl@|@shawatk'w@
+@give me a knife@|@we lita axh jit ti@
+@give me a rock@|@we te axh jit ti@
+@give me tea@|@we ti axh jit sa'in@
+@give me the baby@|@we t'ukareyi axh jit sanu@
+@give me the blanket@|@we x'uw axh jit axh@
+@give me the bullets@|@we at tuteyi axh jit kala'a@
+@give me the gun@|@we una axh jit satan@
+@give me the moccasins@|@we at xashdi til axh jit la'a@
+@give me the paper@|@we x'ux' jit ti@
+@give me the puppy@|@we ketledi axh jit sanu@
+@give me the stick@|@we shiy axh jit satan@
+@give me water@|@we hin axh jit sa'in@
+@go and get my cane@|@we axh wutsagheyi gha nagu@
+@go and get my smokes@|@we axh s'eghi gha nagu@
+@go and get tea in a cup@|@we gux'a in di gha nagu@
+@go and get the rock@|@te gha nagu@
+@go and get the salt@|@el' gha nagu@
+@goats@|@wenedu@
+@good@|@yak'e@
+@goose@|@t'awakh awe@
+@grandfather@|@lîlk'w@
+@grandmother@|@lilk'w@
+@grayling@|@tasi@
+@grouse@|@kax'@
+@gun@|@una@
+@hair@|@xhawu@
+@hand@|@jin@
+@hand me the axe@|@hande we shunaxhwayi@
+@hand me the big knife@|@hande we lita tlen@
+@hand me the bullets@|@hande we et tuteyi@
+@hand me the gun@|@hande we una@
+@hand me the knife@|@hande we lita@
+@hand me the pocket knife@|@hande we altu lita@
+@hand me the small knife@|@hande we lita yadi@
+@hat@|@s'axw@
+@he is crying@|@ghaxh awe@
+@he is dancing@|@al'exh@
+@he is drinking tea@|@di adana awe@
+@he is eating@|@at kha awe@
+@he is eating salmon@|@at xh'ishi awe axha@
+@he is fine@|@yak'e@
+@he is going hunting@|@esx'itde ya nagut@
+@he is making fire@|@shut ada'ak@
+@he is not hungry@|@tlet du it yan wuha@
+@he is packing water@|@hin awe aya@
+@he is playing@|@esh kulet awe@
+@he is running@|@ya nashix@
+@he is sewing@|@dakhes' awe@
+@he is sitting@|@at a@
+@he is sleeping@|@at ta@
+@he is standing@|@at han@
+@he is tanning a hide@|@at dugu awe alxwacht@
+@he is walking@|@ya nagut@
+@he is walking around@|@at awe wugut@
+@he is walking round hill top@|@we taxhk shakit wugut@
+@he is walking round the hill@|@we taxhk kat wugut@
+@he is walking round the lake@|@we a yaxh ya nagut@
+@he is walking round the river@|@we hin yaxh ya nagut@
+@he is walking to the school@|@sgunde e ya nagut@
+@he is walking to the store@|@hundakahidi de e ya nagut@
+@he wants berries@|@tlekhw du tuwa sigu@
+@he wants dry salmon@|@at xh'ishi du tuwa sigu@
+@he wants fish@|@xhat du tuwa sigu@
+@head@|@sha@
+@here@|@na'@
+@here are the snowshoes@|@yadu a we jaji@
+@here is the packsack@|@yadu a we ininaxh gwel@
+@here is the tent@|@yadu a we s'isa hit@
+@here is the trap@|@yadu a we ghata@
+@he's packing firewood to mom@|@du tla jiyis gan nelde aya@
+@he's puting it in the woodbox@|@gan dakakhuk tude ayala'at@
+@his@|@du@
+@his is his hand@|@du jin awe@
+@his name is Doug@|@Doug yu duwasakw@
+@hopefully@|@gu.aal@
+@house@|@hidi@
+@how are you?@|@ma sa iyati?@
+@how is he?@|@ma se yati?@
+@how is outside?@|@ma sa khuyati?@
+@how is that person?@|@yut'a kha ma sa yati?@
+@how many dogs do you see?@|@x'un ketl sa iyatin?@
+@human@|@lingit@
+@i am cold@|@xhat sewu'at'@
+@i am crying@|@xhaghaxh@
+@i am drinking water@|@hin awe xhadana@
+@i am eating@|@at xhaxha awe@
+@i am eating bannock@|@sakwnen iwu xhaxha@
+@i am eating dry meat@|@dliy xuk xhaxha@
+@i am fine@|@xhat yak'e@
+@i am fishing@|@khuxhast'exh@
+@i am going hunting@|@esx'itde ya nxhagut@
+@i am happy@|@axh tuwu yak'e@
+@i am hungry@|@axh it yan uwaha@
+@i am lonely@|@xhat wulitish@
+@i am making a fire@|@shut axhda'ak@
+@i am not cold@|@tlel khat sewu'at'@
+@i am not hungry@|@du it gi yan uwaha?@
+@i am packing water@|@hin awe xhaya@
+@i am picking berries@|@khuxhak'it@
+@i am playing@|@esh kuxhalet eya@
+@i am really happy@|@xh'egha axh tuwu yak'e@
+@i am running?@|@ya nxhashix awe@
+@i am sewing@|@khadakhes awe@
+@i am sick@|@xhat yanikw@
+@i am sleepy@|@axh it yatawaha@
+@i am tanning a hide@|@at dugu awe xhalaxwacht@
+@i am tired@|@xhat wudixwetl@
+@i am walking around@|@adeya xhagut@
+@i don't have matches@|@tlel khas' axh ji@
+@i don't know@|@gushe, tlel khasaku@
+@i don't see any dogs@|@tlel ketl xhatin@
+@i don't understand Tlingit@|@tlet Lingit xh'exha'axhch@
+@i don't understand you@|@tlel ixh'exha'axhch@
+@i don't want tea@|@tlel di axh tuwa usgu@
+@i don't want water@|@tlel hin axh tuwa usgu@
+@i have a hat@|@s'axw axh jiwu@
+@i have a headache@|@axh sha yanikw@
+@i have a shirt@|@k'udas' axh jiwu@
+@i have clothes@|@na'at axh jiwu@
+@i have dry branches@|@tlaxwch' axh jiwu@
+@i have firewood@|@gan axh jiwu?@
+@i have matches@|@kha's axh jiwu@
+@i have mittens@|@tsaxw' axh jiwu@
+@i have moccasins@|@et xashdi til axh jiwu@
+@i have pants@|@tukh'atal axh jiwu@
+@i have shavings@|@keyexi axh jiwu@
+@i have socks@|@l'i w'wan axh jiwu@
+@i know Tlingit@|@Lingit xh'axha'axhch@
+@i live in Teslin@|@Deslinx' khuxha'u@
+@i live in the bush@|@et gutux' khuxha'u@
+@i live in Whitehorse@|@Whitehorse khuxha'u@
+@i see a baby fox@|@naghas'e yadi awe xatin@
+@i see a big moose@|@dzisk'u tlen xhatin@
+@i see a moose@|@dzisk'w xhatin@
+@i see a rabbit@|@ghaxh xhatin@
+@i see a small moose@|@ye kwsigenk'i dzisk'w xhatin@
+@i see a wolf pup@|@ghuch yadi awe xatin@
+@i see lots of black bears@|@shedihen s'ik xhatin@
+@i see lots of caribou@|@shedihen watsix xhatin@
+@i see lots of dogs@|@shedihen ketl xhatin@
+@i see lots of goats@|@shedihen wenedu xhatin@
+@i see lots of sheep@|@shedihen tawe xhatin@
+@i see lots of wolves@|@sheyadihen ghuch xhatin@
+@i see my brother@|@axh ik' xhatin@
+@i see my older brother@|@ahx ik' xhatin, axh  hunxk xhatin, axh hunxh xhantin, axh ik' xhatin@
+@i see my sister@|@axh dlak' xhatin@
+@i see my younger brother@|@axh kik' xhatin@
+@i see my younger sister@|@axh kik' xhatin@
+@i see one dog@|@tlex' ketl xhatin@
+@i see puppies@|@kedletx'i awe xatin@
+@i see the clouds@|@gus' xhatin@
+@i see the moon@|@dis xhatin@
+@i see the stars@|@khutxh'anaga xhatin@
+@i see the sun@|@ghagan xhatin@
+@I thought@|@khashde@
+@i understand you@|@ixh'axha'axh@
+@i want some fish@|@xhat axh tuwa sigu@
+@i want some meat@|@dliy axh tuwa sigu@
+@i want some native food@|@lingit atxhayi axh tuwa sigu@
+@i want some soup@|@taxhhini axh tuwa sigu@
+@i want somedry meat@|@dliyn xuh axh tuwa sigu@
+@i want tea@|@di axh tuwa sigu@
+@i want water@|@hin axh tuwa sigu@
+@i'm doing to the river's  head@|@hin shakde ya nxhagut@
+@i'm drinking water@|@hin awe xhadana@
+@i'm going hunting moose@|@dzisk'w eya xhal'un@
+@i'm going to the lakeside@|@a yaxhde ya nxhagut@
+@i'm going to the mountain top@|@sha shakide ya nxhagut@
+@i'm going to the mountianside@|@sha yedade s nxhagut@
+@i'm going to the riverside@|@hin yaxhde ya nxhagut@
+@i'm walking round the creek@|@we hinak'w yaxh deya khagut@
+@i'm walking round the hill top@|@we guch shakit deya xhagut@
+@i'm walking round the lake@|@we a yaxh deya khagut@
+@i'm walking round the river@|@we hin yaxh deya xhagut@
+@i'm walking to Doug's place@|@Doug xhande e ya nxhagut@
+@i'm walking to the lake@|@we a kade e ya nxhagut@
+@i'm walking to the school@|@sgunde e ya nxhagut@
+@i'm walking to the store@|@hundakahidi de e ya nxhagut@
+@in Tlingit my name's Analahash@|@Analahash yu xhat duwasakw@
+@inside@|@neil, neil-dei@
+@interior@|@daakh, dáakh, dákh-dei, dakhi-naa@
+@is it cloudy?@|@khuligus' gi?@
+@is it cold outside?@|@khusi'at' gi?@
+@is it muddy?@|@khukamshikhutl' gi?@
+@is it raining?@|@sim gi dak wusitan?@
+@is it snowing?@|@dlet awe gi dak wusitan?@
+@is it still blowing strong?@|@ch'u atlen ayamditi?@
+@Is it still snowing?@|@ch'u gi dlet dak wusitan?@
+@is it still windy?@|@ch'u gi ayamditi?@
+@is it warm for you?@|@i i gi khuwat'a?@
+@is it warm?@|@ya khunat'en gi?@
+@is the ice moving?@|@we t'ix' gi akanatsuw?@
+@is the snow melting off?@|@we dlet gi ya nachetl?@
+@is this your cup?@|@i gux'aye agi?@
+@it is a goose@|@t'awakh awe@
+@it is a grouse@|@kax' awe@
+@it is a Tlingit blanket@|@lingit x'uwu awe@
+@it is a Tlingit dance blanket@|@Lingit l'exhda x'uwu awe@
+@it is cloudy@|@khuligus@
+@it is cold@|@khus'at' gan, kusi'at'@
+@it is cold outside@|@khusi'at'@
+@it is cold outside?@|@kusi'at' gi gan?@
+@it is daytime@|@yagi awe@
+@it is fall time@|@yest khuwaha@
+@it is fine outside@|@khuyak'e gan@
+@it is getting warm@|@ya khunat'en@
+@it is hot outside@|@khuyawat'a gan@
+@it is might time@|@tat in awe@
+@it is morning@|@ts'utat awe@
+@it is noon@|@sutgensa@
+@it is not cold outside@|@tlel khus'at'@
+@it is not snowing@|@tlet dlet dak wustan@
+@it is not sunny@|@tlel amdigan@
+@it is not warm for me@|@tlel axh i khuwat'a@
+@it is not windy@|@tlel ayamditi@
+@it is raining@|@sim dak wusitan@
+@it is really cloudy@|@x'egha khuligus@
+@it is really muddy outside@|@x'egha khukamshikhutl' gan@
+@it is really nice outside@|@x'egha khuwak'e gan@
+@it is really raining@|@sin atlen dak wusitan@
+@it is snowing@|@dlet dak wusitan@
+@it is snowning@|@dlet dak wusitan@
+@it is spring time@|@khukalt'ix' awe@
+@it is stiil cloudy@|@ch'u khumligus'@
+@it is still cold@|@ch'u khusi'at'@
+@it is still raining@|@sim ch'u dak wusitan@
+@it is summer@|@takw't khuwat'a@
+@it is summer time@|@takw'itit khuwaha@
+@it is sunny@|@amdigan@
+@it is warm for me@|@axh i khuwat'a@
+@it is windy@|@ayamditi@
+@it is winter@|@de takwt khuwaha@
+@it is your turn@|@i it khuwaha@
+@itis dawn@|@khiwa'a@
+@iwant some moose meat@|@dzisk'u dliyi axh tuwa sigu@
+@just@|@ch'as@
+@king salmon@|@t'a@
+@knee@|@kiyn@
+@knife@|@lita@
+@leaves are growing@|@kayani awe ya ke kana'en@
+@let's going@|@guk@
+@listen to me@|@axh xh'et sa'axh!, axh xh'et yasa'axh!@
+@lynx@|@ghakh@
+@make a fire!@|@shut ida'ak@
+@man@|@kha@
+@me too i am fine@|@xhat tsu xhat yak'e@
+@meat@|@dliy@
+@mittens@|@tsaxw'@
+@moccasins@|@et xashdi til@
+@moon@|@dis@
+@moose@|@dzisk'u, dzisk'w@
+@moose meat@|@dzsk'u dliyi@
+@mosquito@|@tax'a@
+@mother@|@tlaa@
+@mouse@|@kuts'in@
+@move along!@|@juk@
+@move out!@|@guk!@
+@mushrooms are growing@|@kals'akghadli awe ya kana'en@
+@my@|@axh@
+@my friend@|@axh xhuni@
+@my name is Sam@|@Sam yu xhat duwasakw@
+@neck@|@ladixh'@
+@negative@|@tléil@
+@no@|@tlek'@
+@no way@|@tlel ade@
+@nose@|@lú@
+@O see my older sister@|@axh shatxh xhatin@
+@one@|@tlex'@
+@only then@|@tsá@
+@other side@|@diyáa, diyáa-dei, yan@
+@our@|@ha@
+@outside@|@gáan, gán-dei@
+@owl@|@undach@
+@pants@|@tukh'atal@
+@perhaps@|@gwál@
+@plate@|@s'ix'@
+@pocket@|@altu@
+@poor thing@|@ishan@
+@puppy@|@ketledi@
+@rabbit@|@ghaxh@
+@raven@|@yel@
+@realy good@|@x'egha yak'e@
+@red@|@xh'an@
+@red hat@|@ch'an s'axw@
+@robin@|@jakhgu@
+@rock@|@te@
+@she is sewing them for Xunk@|@Xunk' jiyis akhes'@
+@sheep@|@tawe@
+@shirt@|@k'udas'@
+@simply@|@tlei@
+@sit down!@|@ghanu!, gheykhi!@
+@small@|@yadi@
+@socks@|@l'i x'wan@
+@soup@|@taxhhini@
+@spider@|@kanas'at@
+@spoon@|@shal@
+@stand up!@|@gheyandanakh!, gidahan!@
+@stars@|@khutxh'anaga@
+@still@|@tsu@
+@stomach@|@yuwu@
+@sun@|@ghagan@
+@tea@|@di@
+@thank you@|@gunalchish@
+@that's it@|@de awe@
+@that's it we have finished@|@de awe yanshamjaxan@
+@the boy is fishing@|@we khak'w khukast'exh@
+@the boy is picking berries@|@khuk'it we khak'w@
+@the boy is walking@|@we khak'w, ya nagut@
+@the butterfly is flying around@|@at wudikhin we tlelu@
+@the duck is flying around@|@at wudikhin we gaxw@
+@the duck is swimming around@|@at wiwhu we gaxw@
+@the fly is flying around@|@we xin at wudikhin@
+@the girl is sitting there@|@at a we shak'iyatsk'u@
+@the goose is walking around@|@at wugut we t'awakh@
+@the grouse is making a nest@|@kut u'alyexh we kax@
+@the ice is jammed up@|@t'ix' wisht'amsakhit@
+@the ice is moving@|@we t'ix' akawatsuw@
+@the ice is pilling up@|@t'ix' yande ya'amaskhit@
+@the man is dancing@|@al'exh awe we kha@
+@the man is going hunting@|@we kha esx'itde ya nagut@
+@the man is hunting caribou@|@watsix eya al'un we kha@
+@the mosquito bit me@|@we tax'a xhat wusitax'@
+@the raven is eating@|@at xha' we yel@
+@the snow is melting off@|@a we dlet ya nachetl@
+@the spider is running around@|@we kanas'at ax yanashix@
+@the spource bough is@|@we haw ghanagu@
+@the very@|@ch'a@
+@the woaman is picking berries@|@khuk'it we shawat@
+@the woamn is sewing@|@dakhes' we shawat@
+@the woman is fishing@|@we shawat khukast'exh@
+@the woman is going hunting@|@we shawat esx'itde ya nagut@
+@the woman is running@|@ya nashix we shawat@
+@the women are drinking tea@|@we sha di awe has adana@
+@the worm is crawling aroung@|@yanatlux' we tl'ukxh@
+@their@|@has@
+@these are beaver tracks@|@s'igedi xh'us'iti awe@
+@these are human tracks@|@lingit xh'us'it awe@
+@these are moose tracks@|@dzisk' xh'us'iti awe@
+@these are mouse tracks@|@kuts'in xh'us'iti awe@
+@these are wolf tracks@|@ghuch xh'us'iti awe@
+@they are drinking tea@|@di awe hhas adana@
+@this is@|@awe@
+@this is a baby@|@t'ukaneyi awe@
+@this is a baby linx@|@gakh yadi awe@
+@this is a baby rabbit@|@ghaxh yadi awe@
+@this is a bear cub@|@s'ik yadi awe@
+@this is a berry@|@tlekhw awe@
+@this is a black hat@|@tuch' s'axw awe@
+@this is a blanket@|@x'uw awe@
+@this is a boy@|@yadak'w awe@
+@this is a brown hat@|@s'igwat s'axw awe@
+@this is a butterfly@|@tlelu awe@
+@this is a cane@|@wutsagha awe@
+@this is a caribou hide@|@watsix at dugu awe@
+@this is a child@|@adetx'i awe@
+@this is a cup@|@gux'a awe@
+@this is a duck@|@gaxw awe@
+@this is a fish@|@xhat awe@
+@this is a fly@|@xin awe@
+@this is a girl@|@shawatk'w awe@
+@this is a grayling@|@t'asi awe@
+@this is a highbush cranberry@|@kaxwexh awe@
+@this is a house@|@hit awe@
+@this is a king salmon@|@t'a awe@
+@this is a lowbush blueberry@|@ts'ikaxhk'w awe@
+@this is a lowbush cranberry@|@itl'at awe@
+@this is a man@|@kha awe@
+@this is a moose calf@|@dzisk'u yadi awe@
+@this is a moose hide@|@dzisk'w at dugu awe@
+@this is a mosquito@|@tax'a awe@
+@this is a owl@|@undach awe@
+@this is a plate@|@s'ix' awe@
+@this is a red hat@|@xh'an s'axw@
+@this is a robin@|@jakhgu awe@
+@this is a sheep hide@|@tawe at dugu awe@
+@this is a spider@|@kanas'at awe@
+@this is a spoon@|@shal awe@
+@this is a swamp blueberry@|@l'axh' luwu awe@
+@this is a white hat@|@dlet s'axw awe@
+@this is a woman@|@shawat awe@
+@this is a worm@|@tl'ukxh awe@
+@this is a young man@|@k'isani awe, yis kha awe@
+@this is a young woman@|@sha k'iyatsk'u awe@
+@this is an elder man@|@wundishani kha awe@
+@this is an elder woman@|@wundishani shawat awe@
+@this is apruce bough@|@haw awe@
+@this is grass@|@chukan awe@
+@this is his chest@|@du yuwnka awe@
+@this is his head@|@du sha awe@
+@this is his head hair@|@du shaxhawu awe@
+@this is his house@|@di hidi awe@
+@this is his neck@|@du ladixh' awe@
+@this is his stomach@|@du yuwu awe@
+@this is his upper arm@|@du xhik awe@
+@this is khukawxhe@|@khukawxhe aya@
+@this is leaf@|@kayani awe@
+@this is my blanket@|@axh x'uwu awe@
+@this is my cup@|@axh gux'a awe@
+@this is my ear@|@axh guk awe@
+@this is my eye@|@axh wakh awe@
+@this is my face@|@axh ya awe@
+@this is my father@|@axh ish awe@
+@this is my foot@|@axh xh'us awe@
+@this is my grandfather@|@axh lîlk'w awe@
+@this is my grandmother@|@axh lilk'w awe@
+@this is my house@|@axh hidi awe@
+@this is my knee@|@axh kiyn awe@
+@this is my mother@|@axh tlaa awe@
+@this is my mother's blanket@|@axh tla du x'uwu awe@
+@this is my nose@|@axh lu awe@
+@this is my plate@|@axh a'ix'i awe@
+@this is my spoon@|@axh shali awe@
+@this is my tooth@|@axh uxh awe@
+@this is not my cup@|@tlet axh gux'aye awe@
+@this is our house@|@ha hidi awe@
+@this is the last one@|@huch'i ayi awe@
+@this is their house@|@has du hidi awe@
+@this is your house@|@i hidi awe@
+@this is your house (pl)@|@yi hidi awe@
+@this time@|@déi@
+@three@|@nas'k@
+@tooth@|@uxh@
+@toward land shore@|@éekh, íkh-dei ikhi-naa, yeikh ~ eekh@
+@toward seashore@|@yan, yán, yán-dei@
+@two@|@dexh@
+@up above@|@(di-)kée, (di-)kee-naa, (di-)kín-dei@
+@upper arm@|@xhik@
+@upstream@|@naa-nyaa ~ naa-naa, naakée, nán-dei@
+@very@|@tlaxh@
+@warm@|@khuwat'a@
+@water@|@hin@
+@we are drinking tea@|@di awe tudana@
+@what are they drinking?@|@da sawe has adana?@
+@what are you all drinking?@|@da sa awe yidana?@
+@what are you doing?@|@da sa eye da'ine?, da sa ye da'ine?@
+@what are you doing? (1)@|@da sa aya ye da'ine?, da sawe ye da'ine?@
+@what are you drinking?@|@da sa awe idana?@
+@what are you going hunfing?@|@da sa eya il'un?@
+@what bird is this?@|@datkhu ts'ats'i sawe?@
+@what do you have?@|@da sa i jiwu?@
+@what do you see in the sky?@|@da sa iyatin we xats' katu?@
+@what do you see?@|@da sa awe iyatin?@
+@what do you want?@|@da sa i tuwa sigu?@
+@what does he doing?@|@da sa ye adane?@
+@what does he want?@|@da sa du tuwa sigu?@
+@what is growing?@|@da sa awe ke kana'en?@
+@what is he doing?@|@da sa awe ye adane?, da sa ye adane?@
+@what is he eating?@|@da sa awe axha?@
+@what is his name?@|@ma sa duwasakw?@
+@what is the boy doing?@|@da sa ye da'ane we khak', we khak'w da sa ye sane?@
+@what is the duck doing?@|@da sa ye adane we gaxw?@
+@what is the man doing?@|@da sa ye adane we kha?, we kha da sa ye adane?@
+@what is the man hunting?@|@we kha da seya al'un?@
+@what is the woman doing?@|@da sa ye adane we shawat, we shawat da sa ye adane@
+@what is the woman doing? (1)@|@da sawe ye adane we shawat?@
+@what is the worm doing?@|@we tl'ukxh da sa ye adane?@
+@what is this?@|@da sawe@
+@what is Xunk' doing?@|@da sawe ye adane Vunk'?@
+@what is your name?@|@ma sa iduwasakw?@
+@what kind of animal is this?@|@dakha at gatu'adi sawe?@
+@what kind of hide is this?@|@dakha at dugu sawe?@
+@what tracks are these?@|@dat xh'us'iti saya?@
+@wher do you live?@|@gut'a se a khiya'u?@
+@wher is the trap?@|@we ghata gusu a?@
+@wher is you blanket?@|@gusu a i x'uwu?, gusu i x'uwu?@
+@where are my clothes?@|@gusu axh na'adi?@
+@where are my mitts?@|@gusu axh tsax'i?@
+@where are my shoes?@|@gusu axh tili?@
+@where are my socks?@|@gusu axh li x'wani?@
+@where are the snowshoes@|@gusu a we jaji?@
+@where are you going?@|@gude se ya nigut?@
+@where are you walking to?@|@gude se ya nigut?@
+@where is he going?@|@gude sa ya nagut?@
+@where is he walking to?@|@gude se ya nagut?@
+@where is he walking?@|@gut'a se ax ya nagut?@
+@where is my pants?@|@gusu axh tukh'atali?@
+@where is my shirt?@|@gusu axh k'udas'i?@
+@where is the dog sitting?@|@gut sa a we ketl?@
+@where is the dry brush?@|@gusu ya tlaxch'?@
+@where is the packsack?@|@gusu a we ininaxh gwel?@
+@where is the tent?@|@gusu a we s'isa hit?@
+@where will he put it?@|@gux' sa yande ayaguxhla'at?@
+@white@|@dlet@
+@white hat@|@dlet s'axw@
+@who do you see?@|@a sa awe iyatin?@
+@who for?@|@adu jiyis sa?@
+@who is this person?@|@a sawe?@
+@who is this?@|@a sawe?@
+@wild rhubarb is growing@|@yana'et awe ya kana'en@
+@willow leaves are growing@|@ch'al kayani awe ya kana'en@
+@wolf@|@ghuch@
+@wolves@|@ghuch@
+@woman@|@shawat@
+@worm@|@tl'ukxh, tl'ukxh@
+@yes@|@a@
+@your@|@i@
+@your (pl)@|@yi@
+

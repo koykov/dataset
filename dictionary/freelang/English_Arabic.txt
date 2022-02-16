@@ -1,0 +1,814 @@
+@English@|@Arabic@
+@Author name@|@Ken Chase@
+@Font@|@Arial\12\Times New Roman\22@
+@(+jussive) did not@|@لم@
+@(+subjunctive) will not@|@لن@
+@(edible) oil@|@زيت@
+@(field of) knowledge@|@معرفة@
+@(past particle)@|@قد@
+@(question particle)@|@ا, هل@
+@a few@|@بضع@
+@a number (of)@|@عدة@
+@about@|@عن, حوالى, حول, نحو@
+@above@|@فوق@
+@absent@|@غائب@
+@accident@|@حادث@
+@account@|@حساب@
+@accurate@|@دقيق@
+@across@|@عبر@
+@active@|@نشيط@
+@administration@|@ادارة@
+@affair@|@امر@
+@Africa@|@افريقيا@
+@after@|@بعد@
+@age@|@عمر@
+@agency@|@وكالة@
+@agent@|@وكيل@
+@agriculture@|@زراعة@
+@air@|@هواء, جو@
+@alive@|@حي@
+@all@|@جميع, كل@
+@almost@|@تقريبا@
+@also@|@ايضا@
+@always@|@ابدا, دائما@
+@among@|@بين@
+@amount@|@مبلغ@
+@and@|@ف, و@
+@animal@|@حيوان@
+@annual@|@سنوي@
+@another@|@آخر@
+@antiquities@|@اثرة@
+@apostle@|@رسول@
+@apples@|@تفاح@
+@approximately@|@حوالى@
+@Arab@|@عرب@
+@army@|@جيش@
+@around@|@حول@
+@artificial@|@صناعي@
+@artistic@|@فني@
+@as@|@ك, كما@
+@as for@|@اما@
+@as to@|@اما@
+@association@|@جمعية@
+@at@|@عند, لدى@
+@at once@|@حالا@
+@attack@|@حملة@
+@automobile@|@سيارة@
+@bad@|@رديء@
+@bank@|@بنك@
+@beautiful@|@جميل@
+@because@|@بسبب, لان@
+@because of@|@ل@
+@bed@|@فراش@
+@bedouin@|@بدوي@
+@before@|@قبل@
+@behind@|@وراء@
+@below@|@تحت@
+@benefit@|@فائدة@
+@better@|@خير@
+@between@|@بين@
+@big@|@كبير@
+@bird@|@طير@
+@bitter@|@مر@
+@black@|@اسود@
+@blue@|@ازرق@
+@board@|@مجلس@
+@book@|@كتاب@
+@bookstore@|@مكتبة@
+@boy@|@صبي, ولد@
+@bread@|@خبز@
+@breakfast@|@فطر@
+@brother@|@اخ@
+@brown@|@اسمر@
+@building@|@عمارة@
+@busy@|@مشغول@
+@but@|@اما, بل, لاكن@
+@butter@|@زبدة@
+@by@|@ب, لدى@
+@camel@|@جمل@
+@card@|@ورق@
+@center@|@مركز@
+@chapter@|@فصل@
+@cheap@|@رخيص@
+@cheese@|@جبن@
+@child@|@طفل, ولد@
+@circumstance@|@ظرف@
+@city@|@مدينة@
+@civil@|@مدني@
+@civilian@|@مدني@
+@clean@|@نضيف@
+@clear@|@واضح@
+@clever@|@ذكي@
+@clock@|@ساعة@
+@coast@|@ساهل@
+@coffee@|@قهوة@
+@cold@|@بارد@
+@color@|@لون@
+@company@|@شركة@
+@concerning@|@بخصوص@
+@condition@|@حال, شرط@
+@contemporary@|@معاصر@
+@contract@|@عهد@
+@cook@|@طباخ@
+@council@|@مجلس@
+@country@|@بلاد@
+@court@|@محكمة@
+@cow@|@بقرة@
+@crisis@|@ازمة@
+@crowd@|@جمهور@
+@cup@|@فنجان, كأس@
+@danger@|@خطر@
+@date@|@تأريخ@
+@date (fruit)@|@تمر@
+@daughter@|@بنت@
+@day@|@يوم@
+@daytime@|@نهار@
+@dead@|@ميت@
+@dear@|@عزيز@
+@death@|@موت@
+@declaration@|@تصريح@
+@deep@|@عميق@
+@defense@|@دفاع@
+@degree@|@درجة@
+@delegate@|@مندوب@
+@delegation@|@وفد@
+@deputy@|@نائب, نائب, وكيل@
+@desert@|@بادية@
+@difficult@|@صعب@
+@difficulty@|@صعوبة@
+@dinner@|@عشاء@
+@dirty@|@وسخ@
+@discourse@|@كلام@
+@district@|@منطقة@
+@division@|@تقسيم@
+@doctor@|@طبيب@
+@door@|@باب@
+@during@|@اثناء, خلال@
+@duty@|@واجب@
+@dwelling@|@مسكن@
+@earth@|@ارض@
+@ease@|@سهولة@
+@east@|@مشرق, شرق@
+@easy@|@سهل@
+@economy@|@اقتصاد@
+@eggs@|@بيض@
+@Egypt@|@مصر@
+@emir@|@امير@
+@employee@|@موظف@
+@engineer@|@مهندس@
+@engineering@|@هندسة@
+@entrance@|@مدخل@
+@especially@|@خصوصا, ولاسيما@
+@Europe@|@اروبا@
+@evening@|@مساء@
+@event@|@حادث@
+@every@|@جميع, كل@
+@example@|@مثال@
+@excellent@|@طيب@
+@except@|@الا@
+@exit@|@مخرج@
+@expenditure@|@مصروف@
+@expensive@|@غال@
+@experience@|@خبرة@
+@expert@|@خبير@
+@export@|@صادر@
+@exterior@|@خارجي@
+@external@|@خارجي@
+@eye@|@عين@
+@face@|@وجه@
+@factory@|@مصنع@
+@fair@|@عادل@
+@faithful; secretary@|@امين@
+@family@|@اهل, آل@
+@famous@|@مشهور@
+@far@|@بعيد@
+@farm@|@مزرعة@
+@father@|@والد@
+@father (of)@|@ابو@
+@festival@|@عيد@
+@few@|@قليل@
+@finally@|@اخيرا@
+@fine@|@دقيق, جيد@
+@fire@|@نار@
+@first@|@اول@
+@first (f)@|@اولى@
+@fish@|@سمك@
+@food@|@طعام@
+@foot@|@قدم@
+@for@|@ل@
+@for instance@|@مثلا@
+@forbidden@|@ممنوع@
+@foreign@|@اجنبي@
+@forever@|@ابدا@
+@form@|@شكل@
+@fort@|@قصر@
+@foundation@|@اساس@
+@friend@|@صديق@
+@from@|@عن, من@
+@frontier@|@حد@
+@fruit@|@فامهة@
+@future@|@مستقبل@
+@garden@|@حديقة@
+@gate@|@باب@
+@general@|@عام, امومي, قائد@
+@gentleman@|@سيد@
+@girl@|@بنت@
+@glass@|@كأس@
+@glass (substance)@|@زجاج@
+@God@|@الله@
+@good@|@حسن, جيد, خير@
+@goodness@|@حسن@
+@government@|@حكومة@
+@governor@|@وال@
+@great@|@عظيم, جليل@
+@green@|@اخضر@
+@group@|@حزب@
+@guest@|@ضيف@
+@half@|@نصف@
+@hand@|@يد@
+@handsome@|@حسن@
+@he@|@هو@
+@headquarters@|@مركز@
+@health@|@صحة@
+@healthy@|@صحيح@
+@heart@|@قلب@
+@heat@|@حر@
+@heavy@|@ثقيل@
+@here@|@هنا@
+@history@|@تأريخ@
+@homeland@|@وطن@
+@honest@|@صالح@
+@horse@|@فرس, حصان@
+@horses@|@خيل@
+@hotel@|@فندق, هتيل@
+@hour@|@ساعة@
+@house@|@آل, بيت@
+@how@|@كيف@
+@how much?@|@كم@
+@human@|@انسان@
+@husband@|@زوج@
+@I@|@انا@
+@i.e.@|@اي@
+@idea@|@فكرة@
+@if@|@اذا, ان, لو@
+@illness@|@مرض@
+@importance@|@اهمية@
+@important@|@هام, جليل, مهم@
+@in@|@في@
+@in front of@|@امام, تجاه@
+@in order to@|@لكي@
+@in spite of@|@مع@
+@in the same way@|@هكذا@
+@independence@|@استقلال@
+@industrious@|@مجتحد@
+@industry@|@صناعة@
+@inhabitant@|@ساكن@
+@inside@|@داخل@
+@intelligence@|@عقل@
+@intelligent@|@عاقل, معقول@
+@interest@|@مصلحة@
+@interior@|@داخلي@
+@internal@|@داخلي@
+@international@|@دولي@
+@is not@|@ليس@
+@Islam@|@اسلام@
+@island@|@جزيرة@
+@journalism@|@صحافة@
+@journey@|@سفر@
+@just@|@عادل@
+@justice@|@عدل@
+@killed@|@قتيل@
+@kind@|@لطيف@
+@king@|@ملك@
+@kingdom@|@مملكة@
+@kitchen@|@مطبخ@
+@lady@|@سيدة@
+@language@|@لغة@
+@large@|@كبير@
+@last@|@اخير, آخر@
+@latest@|@اخير@
+@law@|@قانون@
+@leader@|@قائد, رئيس@
+@leading@|@رئيسي@
+@left@|@يسار@
+@leg@|@رجل@
+@lesson@|@درس@
+@letter@|@رسالة@
+@library@|@مكتبة@
+@light@|@نور@
+@light (weight)@|@خفيف@
+@light-colored@|@فاتح@
+@like@|@ك, كما@
+@limit@|@حد@
+@list@|@قائمة@
+@little@|@قليل, صغير@
+@long@|@طويل@
+@love@|@حب, محبة@
+@lunch@|@غداء@
+@man@|@امرء, رجل@
+@manager@|@مدير@
+@manner@|@طريقة@
+@manual@|@يدوي@
+@many@|@كثير@
+@mare@|@فرس@
+@market@|@سوق@
+@marriage@|@زواج@
+@marvellous@|@عجيب@
+@matter@|@امر, شأن@
+@means@|@واسطة@
+@meat@|@لحم@
+@meeting@|@اجتماع@
+@member@|@عضو@
+@merchant@|@تاجر@
+@messenger@|@رسول@
+@midday@|@ظهر@
+@middle@|@اوسط, وسط@
+@minister@|@وزير@
+@ministry@|@وزارة@
+@minute@|@دقيقة@
+@mister@|@سيد@
+@modern@|@عصري, حديث@
+@moment@|@لحظة@
+@money@|@فلوس@
+@month@|@شهر@
+@moon@|@قمر@
+@morning@|@صباح, صبح@
+@mother@|@ام@
+@mountain@|@جبل@
+@movement@|@حركة@
+@Mrs.@|@سيدة@
+@much@|@واجد@
+@municipality@|@بلدية@
+@Muslim@|@مسلم@
+@name@|@اسم@
+@narrow@|@ضيق@
+@nation@|@امة, قوم@
+@national@|@وطني@
+@nationalistic@|@قومي@
+@near@|@عند, من بالقرب, لدى@
+@near (to)@|@قريب@
+@necessary@|@ضروري@
+@necessity@|@حاجة@
+@need@|@ضرورة@
+@new@|@حديث, جديد@
+@news@|@خبر@
+@newspaper@|@جريدة@
+@next@|@قادم@
+@night@|@ليلة@
+@no@|@لا@
+@noble@|@كريم@
+@nomad@|@بدوي@
+@non-@|@غير@
+@north@|@شمال@
+@not@|@لا@
+@not; what@|@ما@
+@now@|@الآن@
+@number@|@عدد, رقم@
+@occasion@|@فرصة@
+@of@|@من@
+@office@|@دائرة, مكتب@
+@officer@|@ضابط@
+@official@|@رسمي@
+@old@|@قديم@
+@on@|@على, فوق@
+@once@|@مرة@
+@one@|@واحد@
+@only@|@فقط@
+@open@|@مفتوح@
+@opinion@|@رأي@
+@or@|@او@
+@orchard@|@بستان@
+@order@|@امر, حكم, نظام@
+@origin@|@اصل@
+@original@|@اصلي@
+@other@|@آخر@
+@outside@|@خارج@
+@over@|@فوق@
+@owner@|@صاحب@
+@palace@|@قصر@
+@palm trees@|@نخل@
+@paper@|@ورق@
+@parent@|@والد@
+@parliament@|@برلمان@
+@part@|@قسم@
+@party@|@حزب@
+@party (social)@|@حفلة@
+@passenger@|@راكب@
+@peace@|@سلام@
+@peasant@|@فلاح@
+@pen@|@قلم@
+@peninsula@|@جزيرة@
+@people@|@اهل, قوم, شعب@
+@period@|@مدة@
+@permission@|@تصريح@
+@person@|@انسان, امرء, شخص@
+@personality@|@شخصية@
+@petroleum@|@نفط@
+@picture@|@صورة@
+@piece@|@قطعة@
+@piece of paper@|@ورقة@
+@place@|@محل, مكان, موضع@
+@plantation@|@مزرعة@
+@pleasant@|@لطيف@
+@police@|@بوليس, شرطة@
+@political@|@سياسي@
+@politician@|@سياسي@
+@politics@|@سياسة@
+@pool@|@بركة@
+@position@|@موقف@
+@possible@|@ممكن@
+@post@|@بريد@
+@praise@|@حمد@
+@present@|@حاضر@
+@present (adj.)@|@حالي@
+@president@|@رئيس@
+@press@|@صحافة@
+@previous@|@سابق@
+@prince@|@امير@
+@principal@|@رئيسي@
+@private@|@خصوصي@
+@problem@|@مشكلة@
+@professor@|@استاذ@
+@profits@|@عائدة@
+@promise@|@عهد@
+@propaganda@|@دعاية@
+@proverb@|@مثل@
+@province@|@ولاية@
+@public@|@امومي, جمهور@
+@publication@|@نشرة@
+@queen@|@ملكة@
+@question@|@سؤال@
+@quick@|@سريع@
+@race@|@قوم@
+@rain@|@مطر@
+@reason@|@سبب@
+@red@|@احمر@
+@related (to)@|@قريب@
+@relation(ship)@|@علاقة@
+@report@|@بلاغ@
+@republic@|@جمهورية@
+@resemblance@|@مثل@
+@responsible@|@مسئول@
+@restaurant@|@مطعم@
+@result@|@نتيجة@
+@revolution@|@ثورة@
+@rice@|@ارز@
+@rich@|@غني@
+@right@|@حق, صحيح, يمين@
+@rightness@|@صحة@
+@river@|@نهر@
+@riyal@|@ريال@
+@road@|@شارع, طريق@
+@robe@|@ثوب@
+@room@|@غرفة@
+@ruler@|@حاكم@
+@safe@|@سليم, سالم@
+@salt@|@ملح@
+@sand@|@رمل@
+@scholar@|@عالم@
+@school@|@مدرسة@
+@science@|@علم@
+@sea@|@بحر@
+@season@|@موسم@
+@secure@|@سليم, سالم@
+@security@|@امن@
+@self@|@نفس@
+@servant@|@خادم@
+@service@|@خدمة@
+@shape@|@شكل@
+@she@|@هي@
+@sheep@|@غنم@
+@ship@|@مركب, سفينة@
+@shop@|@دكان, محطة@
+@shore@|@ساهل@
+@short@|@قصير@
+@sick@|@مريض@
+@side@|@جانب@
+@similarity@|@مثل@
+@simple@|@بسيط@
+@since@|@حيث, منذ@
+@sister@|@اخت@
+@situation@|@حال, حالة, موقف, وضع@
+@slave@|@عبد@
+@small@|@صغير@
+@so@|@كذلك, لذالك@
+@social@|@اجتماعي@
+@soldier@|@عسكري@
+@some@|@بعض@
+@someone@|@شخص@
+@sometimes@|@احيانا@
+@son@|@ولد@
+@son (of)@|@ابن@
+@sort@|@نوع@
+@sound@|@صالح@
+@south@|@جنوب@
+@special@|@خاص, خصوصي@
+@speed@|@سرعة@
+@spring@|@عين@
+@stand@|@موقف@
+@stand up@|@قام@
+@state@|@دولة@
+@statement@|@بيان@
+@station@|@محطة@
+@step@|@درجة@
+@store@|@دكان@
+@story@|@قصة@
+@strange@|@غريب@
+@street@|@شارع@
+@strength@|@قوة, شدة@
+@strong@|@قوي, شديد@
+@student@|@طالب@
+@study@|@دراسة@
+@subject@|@موضوع@
+@substance@|@مادة@
+@sun@|@شمس@
+@surface@|@سطح, وجه@
+@sweet@|@حلو@
+@system@|@نظام@
+@talk@|@حديث, كلام@
+@tall@|@طويل@
+@tea@|@شاى@
+@teacher@|@استاذ, معلم@
+@team@|@فريق@
+@technical@|@فني@
+@that@|@ان, ان, ذلك@
+@that (f)@|@تلك@
+@that is@|@اي@
+@the@|@ال@
+@then@|@ثم@
+@there@|@هناك@
+@therefore@|@لذالك@
+@they@|@هم@
+@they (f)@|@هن@
+@thin@|@دقيق@
+@thing@|@حاجة, شأن, شئ@
+@this@|@هذا@
+@this (f)@|@هذه@
+@time@|@حين, مرة, وقت, زمان@
+@tired@|@تعبان@
+@to@|@ان, الى, ل@
+@to (de)limit@|@حدد@
+@to accept@|@قبل@
+@to achieve@|@حقق@
+@to add@|@اضاف@
+@to adjoin@|@جاور@
+@to administer@|@ادار@
+@to advertise@|@اعلن@
+@to agree@|@وافق@
+@to amount to@|@بلغ@
+@to announce@|@اعلن@
+@to answer@|@جاوب@
+@to arrive@|@قدم@
+@to arrive (at)@|@وصل@
+@to ask@|@سأل@
+@to attempt@|@حاول@
+@to be@|@كان@
+@to be able to@|@قدر@
+@to be angry@|@غضب@
+@to be astonished@|@عجب@
+@to be broken@|@انكسر@
+@to be complete@|@تم@
+@to be mandatory@|@وجب@
+@to be necessary@|@لزم@
+@to be possible@|@امكن, وسع@
+@to be present@|@حضر@
+@to be safe@|@امن@
+@to be secure@|@امن@
+@to be varied@|@تنوع@
+@to be wide@|@وسع@
+@to beat@|@ضرب@
+@to become@|@اصبح@
+@to begin@|@اخذ@
+@to believe@|@اعتقد@
+@to benefit@|@استفاد@
+@to breakfast@|@افطر@
+@to build@|@بنى@
+@to buy@|@اشترى@
+@to calculate@|@حسب@
+@to call out@|@صاح@
+@to carry@|@حمل@
+@to carry out@|@اجرى, نفذ@
+@to cause@|@احدث@
+@to come@|@جاء, قدم@
+@to comment@|@علق@
+@to complete@|@اتم@
+@to compose@|@الف@
+@to conquer@|@فتح@
+@to consider@|@فكر@
+@to contract@|@عقد@
+@to converse@|@حادث@
+@to correspond with@|@كاتب@
+@to count@|@عد@
+@to create@|@احدث@
+@to cross@|@عبر, مر@
+@to cultivate@|@زرع@
+@to cut@|@قطع@
+@to deal with@|@عالج, عامل@
+@to decide@|@قرر@
+@to defend@|@دافع@
+@to descend@|@نزل@
+@to develop (vi)@|@تطور@
+@to develop (vt)@|@طور@
+@to die@|@مات@
+@to dine@|@تعشى@
+@to discuss@|@باحث, بحث@
+@to disseminate@|@اشاع@
+@to divide@|@قسم@
+@to do@|@عمل, فعل@
+@to doubt@|@شك@
+@to drink@|@شرب@
+@to drive@|@ساق@
+@to eat@|@اكل@
+@to edit@|@حرر@
+@to enter@|@دخل@
+@to establish@|@انشاء@
+@to export@|@صدر@
+@to face@|@واجه@
+@to fall@|@وقع@
+@to fear@|@خاف@
+@to fight@|@قاتل@
+@to find@|@وجد@
+@to flow@|@جرى@
+@to fly@|@طار@
+@to found@|@اسس@
+@to gather@|@جمع@
+@to get@|@حاز@
+@to give@|@عاطا@
+@to go@|@ذهب, سار@
+@to go on strike@|@اضرب@
+@to go out@|@خرج, صدر, طلع@
+@to go towards@|@توجه@
+@to go up@|@طلع@
+@to grant@|@سمح@
+@to greet@|@سلم@
+@to grow@|@نشأ@
+@to hand over@|@سلم@
+@to hang@|@علق@
+@to happen@|@حدث, حصل, جرى, سار, وقع@
+@to hear@|@سمع@
+@to help@|@وفق@
+@to hurry@|@اسرع@
+@to improve@|@حسن, تحسن@
+@to increase@|@زاد@
+@to influence@|@اثر@
+@to inform@|@ابلغ, اخبر@
+@to inform of@|@اطلع@
+@to inspect@|@فتش@
+@to invite@|@دعا@
+@to kill@|@قتل@
+@to know@|@علم, عرف@
+@to learn@|@علم, تعلم@
+@to leave@|@خرج, ترك@
+@to liberate@|@حرر@
+@to live@|@حي@
+@to look (at)@|@نظر@
+@to love@|@احب@
+@to make@|@فعل, صنع@
+@to manage@|@ادار@
+@to manufacture@|@صنع@
+@to marry@|@تزوج@
+@to mean@|@عنى@
+@to meet@|@اجتمع, قابل, واجه@
+@to mention@|@ذكر@
+@to name@|@اسمى@
+@to need@|@احتاج@
+@to obtain@|@حاز@
+@to offer@|@عرض@
+@to open@|@فتح@
+@to order@|@امر@
+@to own@|@امتلك, ملك@
+@to participate@|@اشترك@
+@to pass@|@مر@
+@to permit@|@اتاح, سمح@
+@to point@|@دل@
+@to possess@|@امتلك, ملك@
+@to pray@|@دعا@
+@to precede@|@سبق@
+@to preserve@|@سلم@
+@to produce@|@انتج@
+@to prohibit@|@منع@
+@to protect@|@حفظ, جزء, صان@
+@to publish@|@نشر@
+@to put down@|@حط@
+@to rain@|@مطر@
+@to raise@|@اقام, رفع@
+@to reach@|@بلغ@
+@to read@|@قرأ@
+@to realize@|@ادرك@
+@to receive@|@استقبل@
+@to reform@|@اصلح@
+@to regard@|@حسب@
+@to repair@|@صلح@
+@to reply@|@رد@
+@to represent@|@مثل, ناب@
+@to request@|@طلب@
+@to result@|@نتج@
+@to retire@|@اعتزل@
+@to return@|@عاد, رد, رجع@
+@to ride@|@ركب@
+@to rise@|@ارتفع, قام@
+@to rule@|@حكم@
+@to run@|@جرى@
+@to say@|@قال@
+@to see@|@رأى@
+@to seem@|@بدا, ظهر@
+@to sell@|@باع@
+@to send@|@ارسل@
+@to serve@|@خدم@
+@to set up@|@اقام@
+@to share@|@اشترك@
+@to show@|@عرض, ابدا, اظهر@
+@to sit@|@جلس@
+@to solve@|@حل@
+@to speak@|@كلم, تكلم@
+@to speak (to)@|@كلم@
+@to spend@|@صرف@
+@to spread@|@مد@
+@to start@|@بدأ, ابتدأ@
+@to stop@|@اوقف, وقف, زال@
+@to strike@|@ضرب@
+@to study@|@بحث, درس@
+@to substitute@|@ناب@
+@to suppose@|@ظن@
+@to surprise@|@اعجب@
+@to take@|@اخذ@
+@to take lunch@|@تغدا@
+@to teach@|@علم, درس@
+@to think@|@ظن@
+@to tie@|@عقد@
+@to transport@|@نقل@
+@to travel@|@سافر, سار@
+@to trust@|@وثق@
+@to try@|@حاول@
+@to understand@|@فهم@
+@to unify@|@وحد@
+@to use@|@استعمل@
+@to visit@|@زار@
+@to wait (for)@|@انتظر@
+@to walk@|@مشى@
+@to wear@|@لبس@
+@to widen@|@وسع@
+@to wish@|@اراد, شاء@
+@to work@|@عمل, اشتغل@
+@to work hard@|@اجتهد@
+@to write@|@الف, كتب@
+@tomorrow@|@غدا@
+@tongue@|@لسان@
+@towards@|@الى, نحو@
+@town@|@بلد@
+@trace@|@اثرة@
+@Tradition@|@حديث@
+@tree@|@شجر@
+@truth@|@حقيقة, حق@
+@type@|@نوع@
+@un-@|@غير@
+@under@|@تحت@
+@unity@|@وحدة@
+@until@|@حتى@
+@useful@|@مفيد@
+@usually@|@عادة@
+@very@|@جدا, واجد@
+@very much@|@جزيلا@
+@village@|@قرية@
+@violent@|@عنيف@
+@voice@|@صوت@
+@vote@|@صوت@
+@wall@|@حائط@
+@war@|@حرب@
+@warmth@|@حر@
+@water@|@ماء@
+@way@|@طريق, طريقة@
+@we@|@نحن@
+@weak@|@ضعيف@
+@weather@|@جو@
+@week@|@جمعة@
+@welfare@|@مصلحة@
+@west@|@غرب@
+@when@|@عندما, اذا, حين, لما@
+@when?@|@متى@
+@where?@|@اين@
+@whereas@|@حيث@
+@which? what?@|@اي@
+@while@|@بينما@
+@who?@|@من@
+@whole@|@جميع@
+@why?@|@لما@
+@wide@|@واسع@
+@wife@|@زوجة@
+@wind@|@هواء@
+@with@|@ب, مع@
+@without@|@دون@
+@woman@|@امراة@
+@word@|@كلمة@
+@work@|@عمل, شغل@
+@world@|@عالم@
+@year@|@عام, سنة@
+@yellow@|@اصفر@
+@yes@|@نعم@
+@yesterday@|@امس, البارح@
+@you@|@انت@
+@you (f pl)@|@انتن@
+@you (m pl)@|@انتم@
+@young man@|@شب@
+@young woman@|@شابة@
+

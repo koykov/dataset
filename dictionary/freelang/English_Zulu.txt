@@ -1,0 +1,1322 @@
+@English@|@Zulu@
+@Author name@|@Guy T. Gambill / Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a little@|@kancane, ncane, ncane@
+@a lot@|@omningi@
+@abatement@|@isephulelo@
+@aberration@|@isiphosiso@
+@abet@|@ukunceda@
+@abide@|@aukulina, ukuhlupheka@
+@abort@|@ukuehluleka@
+@abroad@|@phandle@
+@abscond@|@ukubaleka@
+@absent oneself@|@ukuhamba@
+@academic@|@isitshudeni@
+@accept@|@ukuamukela@
+@accomodate@|@ukunceda, ukuqeda@
+@account@|@ukunceda, ukusiza@
+@account (also@|@iakhawunti@
+@accredit@|@ukuethemba@
+@accustom@|@ukuejwayele@
+@ache@|@ukubuhlungu@
+@achieve@|@ukuenza@
+@acknowledgement@|@ilirisidi@
+@acolyte@|@lilunga@
+@acquainted with: be ~@|@ukuazi@
+@acquire@|@ukuthenga@
+@act@|@ukuenza@
+@actually@|@eqinisweni@
+@address@|@ikheli, ilikheli@
+@adieu@|@hamba kahle@
+@administration@|@uhulumeni@
+@adult@|@umuntu osekhulile@
+@advocate@|@ummeli@
+@aerodrome@|@inkundla yezindiza@
+@aeroplane@|@indiza@
+@affair@|@indaba@
+@afraid of: be ~@|@ukuesaba@
+@afrikaans@|@iBhunu@
+@afrikaner@|@iBhunu, iliBhunu@
+@after@|@emuva@
+@afternoon@|@intambama@
+@afternoon: it is the ~@|@kuntambama@
+@age@|@ubudala@
+@agreed@|@kulungile@
+@ague@|@imfiva@
+@ahead@|@phambili@
+@aid@|@ukunceda, ukusiza@
+@air@|@umoya@
+@aircraft@|@indiza@
+@airdrome@|@inkundla yezindiza@
+@airfield@|@ikundla yezindiza@
+@airplane@|@indiza@
+@airport@|@ikundla yezindiza@
+@ale@|@ubhiya, utshwala@
+@alive: be ~@|@ukuphila@
+@all@|@nke@
+@all of the@|@-nke@
+@all the@|@-nke@
+@alone@|@-dwa@
+@alot@|@ningi@
+@also@|@futhi@
+@also. likewise@|@futhi@
+@amanzimtoti@|@eManzimtoti@
+@America@|@eMelika@
+@among@|@phakathi kwa-@
+@and@|@na@
+@and then@|@bese@
+@angle@|@ikhona@
+@animal@|@inkomo, isilwane@
+@another@|@-nye@
+@answer@|@ukuphendula@
+@anything@|@noma yini@
+@apellation@|@igama@
+@appellation@|@iligama@
+@apple@|@ihabhula@
+@apples@|@amahabhula@
+@appreciate@|@ukuthanda@
+@april@|@uApreli@
+@arise@|@ukusukuma, ukuzalwa@
+@arrival@|@ukufika@
+@arrive@|@ukufika@
+@as@|@kanjalo, kanjani, ngoba@
+@as a matter of fact@|@eqinisweni@
+@ask@|@ukubuza@
+@asking@|@ukubuza@
+@assist@|@ukunceda, ukusiza@
+@at@|@eduze@
+@at home@|@ekhaya@
+@at last@|@ekugcineni@
+@at present@|@manje@
+@at that place@|@lapho@
+@attempt@|@ukuzama@
+@attend@|@ukuvakashela@
+@audit@|@ukuhlola@
+@august@|@uAgaste@
+@autobus@|@ibhasi, ibhasi, ilibhasi, ilibhasi@
+@autumn@|@ikwindla, ukwindla@
+@await@|@ukuletha@
+@away@|@kude@
+@bad@|@-bi, -bolile, kubi@
+@badly@|@kabi@
+@bag@|@isaka, isikhwama, yisikhwama@
+@bakery@|@ibhikawosi@
+@ball@|@ibhola, ibhola@
+@banana@|@ubhanana@
+@bank@|@ibhange@
+@barrister@|@ummeli@
+@basket@|@ibhasikidi, ilibhasikidi@
+@bath@|@ibhavu, ibhavu@
+@bathroom@|@itholethe@
+@be acquainted with@|@ukuazi@
+@be afraid of@|@ukuesaba@
+@be alive@|@ukuphila@
+@be born@|@ukuzalwa@
+@be different@|@ukuehlukile@
+@be full@|@ukusuthi@
+@be hungry@|@ukulambile@
+@be in the habit of@|@ukuejwayele@
+@be paintful@|@ukubuhlungu@
+@be quiet@|@ukuthula@
+@be thirsty@|@ukuomile@
+@be willing to@|@ukufuna@
+@beach@|@ibhishi, ibhishi, ilibhishi, ilibhishi@
+@beam@|@ilirediyo@
+@bean@|@ubhontshisi, ubhontsshisi@
+@beans@|@nobhontshisi@
+@bear@|@ukuhlupheka@
+@beast@|@inkomo@
+@beautiful@|@-bukekayo, -hle@
+@because@|@ngoba@
+@bed@|@umbhede, umbhede@
+@beef@|@inyama yenkomo@
+@beer@|@ubhiya, utshwala@
+@before@|@phambi kwa-@
+@begin@|@ukuqala@
+@behind@|@emuva@
+@believe@|@ukuethemba@
+@below@|@phansi, phansi kwa-@
+@below (phansi kwa-)@|@phansi@
+@beneath@|@phansi kwa-@
+@beside@|@eduze@
+@better@|@-ngcono@
+@between@|@phankathi kwa-@
+@between. among@|@phakathi kwa-@
+@beverage@|@isiphuzo@
+@bible@|@iBhayibheli@
+@bicycle@|@ibhayisikili, ilibhayisikili@
+@big@|@nkulu@
+@bike@|@ilibhayisikili@
+@bill@|@ilithikithi, isikwenetu, ithikithi@
+@bird@|@inyoni@
+@birthday@|@usuku lokuzalwa@
+@bit@|@isiqhephu@
+@black@|@-mnyama@
+@black rhinoceros@|@ubhejane@
+@blank@|@-mhlophe@
+@bleak@|@-bandayo@
+@bless@|@ukubusisa, ukubusisa@
+@blood@|@igazi, iligazi@
+@blushing@|@-bomvu@
+@boat@|@umkhumbi, umkhumbi@
+@boer@|@ibhunu, ilibhunu@
+@boil@|@ukubila, ukubila@
+@book@|@ibhuku, ilibhuku, incwadi@
+@book. letter@|@incwadi@
+@booking@|@ukubhuka@
+@border@|@ilirandi@
+@born: be ~@|@ukuzalwa@
+@borrow@|@ukuboleka@
+@boss@|@inkosi, umakhonya@
+@both@|@kokubili, kokubili@
+@bottle@|@ibhodlela, ilibhodlela@
+@boutique@|@isitolo@
+@box@|@ibhokisi, ibhokisi@
+@boy@|@umfana@
+@brain@|@ingane, umntwana@
+@bread@|@isinkwa@
+@breakfast@|@ibhulakufesi@
+@brew@|@utshwala@
+@bridge@|@ibhuloho@
+@brim@|@ilirandi@
+@bring@|@ukuletha@
+@brink@|@ilirandi@
+@broad@|@-banzi@
+@brother@|@ubhuti@
+@brown@|@-bomvu, -bomvu, -nsundu, -nsundu@
+@buffalo@|@inyathi, inyathi@
+@build@|@ukuakha@
+@buildings@|@izakhiwo@
+@bulk@|@usayizi@
+@bull@|@inkunzi@
+@bureau@|@ihhovisi@
+@burglar@|@umgqekesi, umgqekezi@
+@burglar alarm@|@izihlabamkhosi, izihlabamkhosi@
+@burial@|@umngcwabo@
+@bus@|@ibhasi@
+@bus station@|@isiteshi@
+@business@|@indaba@
+@businessman@|@usomabhizinizi@
+@but@|@kodwa, nokho@
+@butter@|@ibhotela, ilibhotela@
+@buy@|@ukuthenga@
+@by@|@eduze@
+@bye@|@hamba kahle@
+@café@|@ikhefi, ilikhefi@
+@cake@|@ikhekhe, ilikhekhe@
+@calculation@|@iakhawunti, iakhawunti@
+@calf@|@inkonyane, inkonyane@
+@call@|@ukubiza, ukubiza@
+@call on@|@ukuvakashela@
+@Cape Province@|@eKapa@
+@car@|@imoto, imoto@
+@carrot@|@ikherothi, ikherothi, ilikherothi, ilikherothi@
+@case@|@indaba@
+@cat@|@ikati, ikati, ilikati, ilikati@
+@cattle (pl.)@|@izinkomo@
+@cattle (sing.)@|@inkomo@
+@cauliflower@|@ukholifulawa, ukholifulawa@
+@chair@|@isihalo, isihlalo@
+@chamber@|@ilikamelo, indawo@
+@chance@|@ilithuba, ithuba@
+@change@|@imfalakahlana, ukushintsha@
+@cheap@|@-shibile@
+@check@|@ilisheke, isheke, ukuhlola@
+@check up on@|@ukuhlola@
+@cheers@|@impilontle@
+@cheese@|@ushizi, ushizi@
+@chemist@|@ikhemisi, ilikhemisi@
+@cheque@|@ilisheke, isheke@
+@chest@|@isifuba, isifuba@
+@chief@|@umakhonya@
+@child@|@ingane, umntwana@
+@children@|@abantwana, izingane@
+@chilly@|@-bandayo@
+@Chinese@|@isiShayina@
+@choose@|@ukukhetha@
+@Christmas@|@uKhrisimuzi@
+@church@|@isonto@
+@cinema@|@ilibhayisikobho@
+@cistern@|@ilitanki, ilitanki, itanki, itanki@
+@city@|@idolobha@
+@class@|@ikilasi, ilikilasi@
+@clean@|@-hlanzekileyo, -hlanzekileyo@
+@clerk@|@umabhalane@
+@client@|@ikhasimende@
+@closed@|@sivaliwe@
+@cloud@|@ifu@
+@coffee@|@ikhofi@
+@coffee-house@|@ikhefi, ilikhefi@
+@cold@|@umkhuhlane@
+@cold: it is ~@|@kubanda@
+@colour@|@umbala@
+@come@|@ukufika, ukuza@
+@come about@|@ukuenzeka@
+@come across@|@ukuhlangana@
+@come back@|@ukubuya@
+@come to an end@|@ukugcina@
+@commence@|@ukuqala@
+@commend@|@ukuphakamisa, ukuphakamisa@
+@competition@|@umncintiswano@
+@complain@|@ukukhala, ukukhala@
+@complete@|@ukuqeda@
+@computer@|@ikompiyutha, ikompiyutha@
+@concert@|@ikhonsathi, ilikhonsathi@
+@confide@|@ukuethemba@
+@conserve@|@ukugcina@
+@consider@|@ukubukela@
+@construct@|@ukuakha@
+@continue@|@ukuqhubeka@
+@conversations@|@izingxoxo@
+@cook@|@pkeka, ukupheka@
+@cord@|@intambo@
+@corner@|@ikhona@
+@correct@|@-phakeme@
+@costly@|@-bizayo@
+@costs: it ~@|@libiza@
+@cough@|@ukukhwehlela, ukukhwehlela@
+@counsel@|@ummeli@
+@counter@|@ikhawunda, ilikhawunda@
+@countries: of ~@|@yamazwe@
+@course@|@ipuleti, isitsha@
+@cream@|@ulaza@
+@credit: by ~@|@ngecredit@
+@cucumber@|@ikhukhamba, ikhukhamba@
+@cup@|@inkomishi, inkomishi@
+@cure@|@ukupholisa@
+@currently@|@okwamanje@
+@curtain@|@ikhethini, ilikhethini@
+@custom@|@ilisiko, isiko@
+@customer@|@ikhasimende, ikhasimende, ilikhasimende@
+@cut@|@ukusika, ukusika@
+@cycle@|@ibhayisikili, ibhayisikili, ilibhayisikili@
+@daily paper@|@inyuziphepha, inyuziphepha@
+@dam@|@idamu, idamu, ilidamu, ilidamu@
+@damily@|@umndeni@
+@dancing@|@ukusina@
+@danger@|@inngozi@
+@date@|@idethi, idethi, ilidethi@
+@daughter@|@intombi@
+@day@|@umhla, ulusuku, usuku, usuku@
+@day: a ~@|@ngelanga@
+@day: per ~@|@ngelanga@
+@days@|@izinsuku@
+@deal@|@indaba@
+@dear@|@-bizayo@
+@death@|@ukufa@
+@december@|@uDisemba@
+@deem@|@ukubukela, ukuethemba@
+@delete@|@ukuesula, ukuesula, ukusula@
+@deliver@|@ukudiliva@
+@dentist@|@udokotela wamazinyo, udokotela wamazinyo@
+@deny@|@ukuphikisa, ukuphikisa@
+@depart@|@ukuhamba@
+@departure@|@ukwemuka@
+@desire@|@ukufisa, ukufisa@
+@dessert@|@iphudingi@
+@dialogue@|@ingxoxo@
+@differ@|@ukuehlukile, ukuehlukile@
+@different: be ~@|@ukuehlukile@
+@difficult@|@-nzima@
+@dimension@|@usayizi@
+@diminutive@|@-ncane@
+@dinner@|@isapha@
+@directions@|@iseluleko@
+@discount@|@isephulelo@
+@dish@|@ilipuleti, ipuleti, isitsha@
+@dishonesty@|@ubuhumusha@
+@dispose of@|@ukuthengisa@
+@distant@|@-de@
+@do@|@ukuenza@
+@Do you have..?@|@Une..?@
+@Do you speak...@|@ukhuluna isi...@
+@doctor@|@udokotela@
+@dollars@|@amadola@
+@don't mention it@|@akunandaba@
+@door@|@umnyango@
+@down@|@phansi@
+@downstairs@|@phansi@
+@dozen@|@idazini, ilidazini@
+@drape@|@ilikhethini@
+@dreams@|@amaphupho@
+@dress@|@ililokwe, ilokwe@
+@drink@|@isiphuzo, isiphuzo, ukuphuza@
+@drive@|@ukushayela@
+@driving-licence@|@ilayisense lokushayela@
+@drug@|@umuthi@
+@duck@|@idada@
+@dundee@|@eDandi@
+@Durban@|@eThekwini@
+@dutchman@|@umHholandi@
+@dye@|@umbala@
+@each@|@-nke@
+@eagle@|@ukhozi, ulukhozi@
+@ear@|@indlebe@
+@earn@|@ukuhola, ukuwina@
+@east London@|@eMonti@
+@edge@|@ilirandi, irandi@
+@edging@|@ilirandi, irandi@
+@egg@|@iliqanda, iqanda@
+@eight@|@isishiyagalombili@
+@eighteen@|@ishumi nesishivagalombili@
+@eighteen: 1.@|@ishumi nesishiyagalombi@
+@eighty@|@amashumi ayisishiyagalombili@
+@eigth@|@isishiyagalombili@
+@elbow@|@indolowane@
+@elect@|@ukukhetha@
+@elephant@|@indlovu@
+@eleven@|@ishumi nanye@
+@else@|@-nye@
+@employ@|@ukusebenzisa@
+@encounter@|@ukuhlangana, umhlangano@
+@end@|@ukugcina, ukuqeda@
+@end up@|@ukufika@
+@endure@|@ukuhlupheka, ukuqhubeka, ukuqhubeka@
+@engine@|@umshini@
+@engineer@|@unjiniyela@
+@England@|@eNgilandi@
+@English@|@isiNgisi@
+@english language@|@isiNgisi@
+@englishman@|@iNigisi@
+@enter@|@ukungena@
+@entrust@|@ukuethemba@
+@equals (calls)@|@libiza@
+@erosion@|@ukukhukhuleka@
+@errand@|@umbiko, umumayalezo@
+@error@|@isiphosiso@
+@estate@|@ilipulazi, ipulazi@
+@european@|@umlungu@
+@evening@|@isikhathi sakusihlwa@
+@event@|@ilithuba, ithuba@
+@every@|@-nke@
+@every one@|@-nke@
+@everybody@|@-nke@
+@everything@|@konke@
+@examine@|@ukuhlola@
+@exclusively@|@kuphela@
+@excuse me@|@ngiyaxolisa, uxolo@
+@expensive@|@-bizayo@
+@expire@|@ukugcina@
+@extend@|@usayizi@
+@eye@|@ihlo@
+@face@|@ubuso@
+@factory@|@ifektri, iligektri@
+@fail@|@ukuehluleka@
+@fall@|@ukwindla@
+@family@|@umuzi@
+@far@|@kude@
+@farewell@|@hamba kahle@
+@farm@|@ilipulazi, ipulazi@
+@fast@|@ngokushesha@
+@father@|@ubaba@
+@fathers@|@obaba@
+@fear@|@ukuesaba@
+@february@|@uFebruwari@
+@fellow@|@indoda@
+@fetch@|@ukuletha@
+@fever@|@imfiva@
+@fifteen@|@ishumi nesihlanu@
+@fifty@|@amashumi amahlanu@
+@fill@|@ukugcwalisa@
+@fill in@|@ukugcwalisa@
+@fill up@|@ukugcwalisa@
+@film@|@ifilimu@
+@finally@|@ekugcineni@
+@find@|@ukuthola@
+@fine@|@-bukekayo@
+@finish@|@ukuqeda@
+@first@|@ukuqala@
+@first name@|@isibongo@
+@first of all@|@ukuqala@
+@firstly@|@ukuqala@
+@fish@|@inhlanzi@
+@five@|@-hlanu, amahlanu, isihlanu@
+@float@|@ukubhukuda@
+@flu@|@imfluwenza@
+@follow@|@ukulandelayo@
+@following@|@-landelayo@
+@food@|@ukudla@
+@foot@|@unyawo@
+@for@|@ngoba@
+@for one@|@loyedwa@
+@force@|@amandla@
+@forget@|@ukukhohlwa@
+@forgive@|@ukuxolela@
+@form@|@ifomu, ilifomu@
+@formerly@|@phambili@
+@fortunately@|@ngenhlanhla@
+@forty@|@amashumi amane@
+@four@|@-ne, amane, okune@
+@fourteen@|@ishumi nane@
+@freedom@|@inkululeko@
+@French@|@isiFulentshi@
+@french language@|@isiFulentshi@
+@frenchman@|@iFulentshi@
+@frequently@|@kaningi@
+@Friday@|@uLwesihlanu@
+@friend@|@umngane@
+@friendship@|@ubuhlobo@
+@fringe@|@ilirandi, irandi@
+@frog@|@ixoxo@
+@fruit@|@isithelo@
+@full: be ~@|@ukusuthi@
+@funeral@|@umngcwabo@
+@furnish@|@ukudiliva@
+@gain@|@ukuhola, ukuwina, ukuwina@
+@garage@|@igalaji@
+@garden@|@ingadi@
+@gasoline@|@uphetroli@
+@gate@|@ilisango, isango@
+@gateway@|@isango@
+@gazette@|@iliphephandaba@
+@gentleman@|@ubaba@
+@German@|@isiJalimane@
+@german language@|@isiJalimane@
+@Germany@|@eJalimani@
+@Germiston@|@eDukathole@
+@get@|@ukufika, ukuthatha@
+@get up@|@ukusukuma@
+@gift@|@isipho@
+@girl@|@intombazane, intombi@
+@give@|@ukuazisa, ukuethula@
+@give an account@|@ukubika@
+@give an account of@|@ukubika@
+@glass@|@ingilazi@
+@glasses@|@izibuko@
+@go@|@ukuhamba, ukuya@
+@go away@|@ukuhamba@
+@go back@|@ukubuya@
+@go in@|@ngena, ukungena@
+@go towards@|@qonda@
+@goat@|@imbuzi@
+@God@|@uNkulunkulu@
+@golf@|@igalofu@
+@good@|@-hle, ngisaphila@
+@good afternoon@|@sawubona@
+@good day@|@sawubona@
+@good evening@|@sawubona@
+@good health@|@impilontle@
+@good morning@|@sawubona@
+@good night@|@lala(ni) kahle@
+@goodbye@|@hamba kahle@
+@goose@|@ihansi@
+@government@|@uhulumeni@
+@gown@|@ililokwe, ilokwe@
+@grandfather@|@umkhulu@
+@grandmother@|@ugogo@
+@greeting: and ~@|@nokubingelela@
+@grip@|@imfluwenza@
+@ground@|@ogayiwe@
+@grown up@|@umuntu osekhulile@
+@grown-up@|@umuntu osekhulile@
+@guarantee@|@igaranti@
+@habit@|@ilisiko, isiko@
+@habit of: be in the ~@|@ukuejwayele@
+@hair@|@ulunwele, unwele@
+@half@|@ingxenye yesibili@
+@hand@|@isisebenzi@
+@handsome@|@-bukekayo@
+@hang on to@|@ukubamba@
+@hang onto@|@ukubamba@
+@happen@|@ukuenzeka@
+@hard@|@-nzima@
+@have confidence in@|@ukuethemba@
+@have enough@|@ukusuthi@
+@have faith@|@ukuethemba@
+@have faith in@|@ukuethemba@
+@have to@|@ukufanele@
+@he@|@u-@
+@head@|@ikhanda@
+@head of cattle@|@inkomo@
+@heal@|@ukupholisa@
+@heart@|@inhliziyo@
+@heaven@|@ilizulu@
+@hello@|@sawubona@
+@help@|@ukusiza@
+@here@|@lapha@
+@hill@|@igquma@
+@hire@|@ukuqasha@
+@his@|@sakhe@
+@hit@|@ukungqongqoza@
+@hog@|@ingulube@
+@hold@|@ukubamba@
+@holiday@|@iholide@
+@Hollander@|@umHholandi@
+@home@|@ikhaya@
+@hope@|@ukuethemba@
+@horse@|@ihhashi@
+@hospital@|@isibhedlela@
+@hostipal@|@isibhedlela@
+@hot@|@-shisayo@
+@hot: is ~@|@kushisa@
+@hotel@|@ihhotela@
+@hour@|@ihora@
+@hours@|@amahora@
+@house@|@indlu@
+@houses@|@izindlu@
+@how@|@kanjani@
+@how are you?@|@Unjani?, Wena unjani?@
+@How are you?@|@ninjani?@
+@how do you do?@|@ninjani?@
+@how many@|@-ngaki@
+@how much@|@-ngaki@
+@How much does it cost?@|@kubiza malini?@
+@How much is the fare?@|@kumalini ukuya e..?@
+@however@|@nokho@
+@hungry: be ~@|@ukulambile@
+@hurt@|@ukubuhlungu@
+@husband@|@umkhwenyana, umyeni@
+@hyaena@|@impisi@
+@I@|@ngi-@
+@I don't understand@|@angiqondi, angizwa@
+@I would like to buy..@|@ngifuna ukuthenga@
+@ice@|@uayiskhrimu@
+@ice cream@|@u-ayisikhilimu@
+@iligama)@|@igama@
+@ill@|@-gulayo@
+@I'll buy it@|@ngizokuyithenga@
+@impisi@|@hyena@
+@important@|@-phakeme@
+@in fact@|@eginisweni@
+@in front of@|@phambi kwa-@
+@in the morning@|@ekuseni@
+@in what way@|@kanjani@
+@inconvenient@|@-nzima@
+@indeed@|@eginisweni@
+@indicate@|@ukukhombisa@
+@inexpensive@|@-shibile@
+@infant@|@ingane, umntwana@
+@influenza@|@imfluwenza@
+@inject@|@ukujova@
+@injection@|@umjovo@
+@instructor@|@uthisha@
+@insurance@|@inshuwarensi@
+@intention@|@injongo@
+@intercessor@|@ummeli@
+@interest@|@irente@
+@interment@|@umngcwabo@
+@introduce@|@ukuazisa@
+@invitation@|@eginisweni, isimemo@
+@iron@|@ayina@
+@it@|@ku-@
+@it doesn't matter@|@akunandaba@
+@jacket@|@ibhantshi@
+@jam@|@ujamu@
+@january@|@uJanuwari@
+@job@|@umsebenzi@
+@Johannesburg@|@eGoli@
+@journal@|@inyuziphepha@
+@juice@|@ijusi@
+@July@|@uJulayi@
+@June@|@uJuni@
+@just@|@kuphela, nje@
+@keep@|@ukugcina@
+@keep on@|@ukuqhubeka@
+@key@|@isikhiye@
+@kill@|@ukubulala@
+@kilo@|@ikhilogramu@
+@kilometre@|@ikhilomitha@
+@kind@|@umhlobo@
+@kindness@|@umusa@
+@king@|@inkosi@
+@kitchen@|@ikhishi@
+@knife@|@ummese@
+@knock@|@ukungqongqoza@
+@know@|@ukuazi@
+@know: do you ~@|@uyakwazi@
+@kosher@|@ngomthetho wamajuda@
+@laborer@|@isisebenzi@
+@lad@|@umfana@
+@laddie@|@umfana@
+@lady@|@inkosikasi, uma@
+@ladysmith@|@eMnambithi@
+@lake@|@ichibi@
+@lance@|@umkhonto@
+@language@|@ulimi, ululimi@
+@large@|@-khulu@
+@lass@|@intombazane, intombi@
+@last@|@ukuqhubeka@
+@late@|@-phuzileyo@
+@lawyer@|@ummeli@
+@lay hold of@|@ukuthatha@
+@leader@|@inkosi, umakhonya@
+@leave@|@ukuhamba@
+@left@|@-bunxele, ubunxele@
+@left: on the ~@|@ngakwesobunxele@
+@leg@|@umlenze@
+@lend@|@ukuboleka@
+@leopard@|@ingwe@
+@letter@|@incwadi@
+@lettuce@|@uletisi@
+@lie@|@nga@
+@light@|@isibane@
+@like@|@kanjani, ukuthanda@
+@like that@|@kanjalo@
+@likewise@|@futhi@
+@lion@|@ibhubesi@
+@lip@|@udebe, uludebe@
+@lips@|@izindebe@
+@liquidate@|@ukubulala@
+@list@|@ilisti@
+@listen@|@ukulalela@
+@little@|@-ncane@
+@live@|@ukuphila@
+@loaf@|@isinkwa@
+@loan@|@ukuboleka@
+@location@|@indawo@
+@lock@|@ukukhiya@
+@London@|@eLandani@
+@long@|@-de, de@
+@look@|@ukubukela@
+@look at@|@ukubukela@
+@lord@|@ubaba@
+@lovely@|@-bukekayo@
+@luck@|@inhlanhla@
+@lump@|@isiqhephu@
+@lunch@|@idina@
+@machine@|@umshini@
+@madam@|@inkosikazi@
+@magazine@|@iliphephandaba@
+@mail@|@iliposi@
+@make@|@ukuenza@
+@make use of@|@ukusebenzisa@
+@male cook@|@pheka@
+@man@|@indoda@
+@manager@|@ilimeniyu@
+@mango@|@umango@
+@many@|@-ningi, ningi@
+@map@|@imephu@
+@march@|@ukuhamba@
+@marijuana@|@insangu@
+@marmelade@|@ujamu@
+@master@|@umakhonya@
+@matter@|@indaba, ngabe@
+@may@|@uMeyi@
+@maybe@|@ngabe@
+@mayhap@|@ngabe@
+@meal@|@ukudla@
+@meaning@|@injongo@
+@measles@|@isimungumungwane@
+@meat@|@inyama@
+@mechanic@|@umakhaniki@
+@medicine@|@umuthi@
+@meet@|@ukuhlangana@
+@meeting@|@ukuhlangana@
+@member@|@lilunga@
+@merchant@|@usomabhizinizi@
+@message@|@umbiko@
+@midnight@|@kwamabili, phakathi@
+@mile@|@ilimayela@
+@milk@|@ubisi@
+@million@|@isigidi@
+@miscarry@|@ukuehluleka@
+@miserable@|@-bi, -bolile, -mpofu@
+@Miss@|@inkosazana, Nkosazana@
+@mistake@|@isiphosiso@
+@Mister@|@ubaba@
+@Monday@|@uMsombuluko@
+@money@|@imali@
+@month@|@inyanga@
+@moon@|@innyanga@
+@more@|@-ningi@
+@morning@|@ekuseni@
+@mother@|@umama@
+@motion picture@|@ifilimu, ilifilimu@
+@motor@|@injini@
+@motorcycle@|@isithuththu@
+@mountain@|@intaba@
+@mountain range@|@ugoma@
+@mountain ranges@|@izingoma@
+@mouth@|@umlomo@
+@movie theatre@|@ibhayisikobho@
+@Mr.@|@Mnumzane@
+@Mrs.@|@Nkosikazi@
+@muscle@|@umsipha@
+@museum@|@imnyuziyamu@
+@music@|@umbulo@
+@must@|@ukufanele@
+@mustard@|@umasitadi@
+@my@|@-mi, sami, yami@
+@name@|@igama, iligama@
+@name (also@|@igama@
+@narrate@|@ukutshela@
+@nasty@|@-bi, -bolile, -bolile@
+@nation@|@isizwe@
+@nationality@|@umhlobo@
+@Ndebele@|@iNdebele, isiNdebele@
+@near@|@eduze@
+@near to@|@eduze@
+@nearby@|@eduze@
+@neck@|@intamo@
+@need@|@ukudinga@
+@neighbor@|@umakhelwane@
+@neighbour@|@umakhelwane@
+@Nelspruit@|@eNelspotho@
+@never mind@|@akunandaba@
+@nevertheless@|@nokho@
+@new@|@-sha@
+@newspaper@|@iliphephandaba, inuyziphepha, iphephandaba@
+@next@|@-landelayo@
+@next to@|@-landelayo@
+@nice@|@-hle, -mnandi@
+@nice to meet you@|@ngiyathokoza ukukwazi@
+@night@|@ubusuku@
+@night: per ~@|@ngobusuku@
+@nine@|@isishiyagalolunye@
+@nineteen@|@ishumi nesishiyagalolunye@
+@ninety@|@amashumi ayisishiyagalolunye@
+@no@|@cha@
+@no vacancies@|@ayikho indawo@
+@not: it is ~@|@akulona@
+@note@|@ilithikithi, ithikithi@
+@nothing@|@lutho@
+@nourishment@|@ukudla@
+@novel@|@-sha@
+@november@|@uNovemba@
+@now@|@manje@
+@nowadays@|@okwamanje@
+@number@|@inombolo@
+@numbers@|@izinombolo@
+@numeral@|@inombolo@
+@nurse@|@ilisistela@
+@obtain@|@ukuthatha@
+@occur@|@ukuenzeka@
+@occurence@|@ilithuba, ithuba@
+@occurernce@|@ilithuba, ithuba@
+@ocean@|@ulwandle@
+@o'clock@|@ihora@
+@october@|@uOktoba@
+@offer@|@ukuazisa@
+@office@|@ihhovisi@
+@offspring@|@ingane@
+@often@|@kaningi@
+@oil@|@uowoyela@
+@okay@|@-hle, kahle, kulungile@
+@old@|@-dala@
+@old man@|@ikhehla@
+@omnibus@|@ibhasi, ilibhasi@
+@on@|@phezu kwa-@
+@once@|@kanye@
+@one@|@kunye, ukunye@
+@one hundred@|@ikhulu@
+@one million@|@isigidi@
+@one thousand@|@inkulungwane@
+@onion@|@uanyanisi@
+@only@|@-dwa, kuphela@
+@open@|@sivuliwe@
+@operative@|@isisebenzi@
+@or@|@noma@
+@orange@|@iliwolintshi@
+@other@|@-nye@
+@ought to@|@ukufanele@
+@our@|@sethu@
+@out@|@phandle@
+@outside@|@phandle@
+@over there@|@lapho@
+@overtake@|@ukuedlula@
+@oxen@|@izinkabi@
+@packet@|@iliphakethe@
+@painful: be ~@|@ukubuhlungu@
+@pants@|@ibhulukwe@
+@papaw@|@uphopho@
+@papaya@|@uphopho@
+@paper@|@iliphepha@
+@parcel@|@iliphakethe@
+@pardon@|@ukuxolela@
+@parent@|@umzali@
+@park@|@ukupaka@
+@parking@|@ukupaka@
+@pass by@|@ukuedlula@
+@passport@|@ipasi lokuhamba@
+@pastor@|@umfundisi@
+@pate@|@ikhanda@
+@paw@|@umlenze@
+@pawpaw@|@uphopho@
+@pay@|@ukukhokha@
+@pea@|@uphizi@
+@peach@|@ilipentshisi@
+@peanut@|@ilintogomane@
+@Pedi@|@isiPedi, umPedi@
+@Pedi language@|@isiPedi@
+@pencil@|@ilipensele@
+@people@|@abantu@
+@pepper@|@upelepele@
+@perform@|@ukuenza, ukungena@
+@perhaps@|@ngabe@
+@peril@|@inngozi@
+@periodical@|@iliphephandaba@
+@person@|@umuntu@
+@petrol@|@uphetroli@
+@pharmaceutical@|@umuthi@
+@pharmacy@|@ikhemisi@
+@physician@|@udokotela@
+@pick out@|@ukukhetha@
+@pick up@|@ukukhetha@
+@piece@|@isiqhephu@
+@Pietermaritzburg@|@eMalitzboko, eMungundlovu@
+@pig@|@ingulube@
+@pill@|@iliphilisi@
+@pineapple@|@uphayinaphu@
+@place@|@indawo@
+@place: in the ~@|@zasendaweni@
+@places@|@izindawo@
+@plan@|@injongo@
+@plane@|@indiza@
+@plate@|@ilipuleti, ipuleti, isitsha@
+@platter@|@ilipuleti@
+@play@|@ukudlala@
+@please@|@uxolo@
+@please bring me the bill@|@ngicela i-akhawunti@
+@plum@|@ilipulamu@
+@point out@|@ukukhombisa@
+@police@|@iphoyisa@
+@police station@|@ipholisitheshi@
+@policeman@|@iliphoyisa, iphoyisa@
+@poor@|@-bi, -bolile, -mpofu@
+@pork@|@inyama yengulube@
+@Port Elizabeth@|@eBhayi@
+@portal@|@ilisango, isango@
+@possibly@|@ngabe@
+@post@|@iliposi, iposi, ukuposa@
+@post office@|@iliposihhovisi, iposi@
+@postage stamp@|@isitembu@
+@postcard@|@iliposikhadi, iposikhadi@
+@potato@|@izambane@
+@poultry@|@inkukhu@
+@pour@|@ukuthela@
+@pray@|@ukuthandaza@
+@premium@|@umklomelo@
+@present@|@isipho, ukuazisa@
+@present with@|@ukuazisa, ukuethula@
+@Pretoria@|@ePitoli@
+@pretty@|@-hle@
+@previously@|@phambili@
+@price@|@intengo@
+@pricey@|@-bizayo@
+@privilege@|@ililungelo@
+@prize@|@umklomelo@
+@problem@|@inkinga@
+@property@|@ilipulazi, ipulazi@
+@pudding@|@uphuthini@
+@purchase@|@ukuthenga@
+@pure@|@-hlanzekileyo@
+@put off@|@ukukhumula@
+@put on the stage@|@ukuethula@
+@put up with@|@ukuhlupheka@
+@question@|@umbuzo@
+@quickly@|@ngokushesha@
+@quiet: be ~@|@ukuthula@
+@radio@|@ilirediyo, irediyo@
+@railroad@|@ujantsi wesitimela@
+@railway@|@ujantsi wesitimela@
+@ranch@|@ilipulazi, ipulazi@
+@rand@|@ilirandi, irandi@
+@rather@|@kancane@
+@ray@|@ilirediyo, irediyo, umsakazo@
+@read@|@ukufunda@
+@reality@|@iliqiniso@
+@realize@|@ukuqonda@
+@rebate@|@isephulelo@
+@recall@|@ukukhumbula@
+@receipt@|@ilirisidi@
+@receive@|@ukuamukela@
+@receptionist@|@umabhalane@
+@recollect@|@ukukhumbula@
+@recommend@|@ukuphakamisa@
+@record@|@ukurejista@
+@recover@|@ukuphola@
+@red@|@-bomvu@
+@refrigerator@|@ifriji@
+@refuse@|@ukuala@
+@regard@|@ukubukela@
+@register@|@ukurejista@
+@regularly@|@kaningi@
+@reject@|@ukuala@
+@rejoice@|@jabula@
+@relate@|@ukutshela@
+@relative@|@isihlobo@
+@remain@|@ukuhlala@
+@remedy@|@ukupholisa@
+@remember@|@ukukhumbula@
+@remote@|@-de@
+@repeat@|@ukuphinda@
+@reply@|@ukuphendula@
+@report@|@ukubika@
+@repose@|@ukuphumula@
+@require@|@ukudinga@
+@reservation@|@ukubhuka@
+@reserve@|@ukubhalisa, ukubhalisa@
+@respect@|@ukuhlonipha@
+@respond@|@ukuphendula@
+@rest@|@ukuphumula@
+@restaurant@|@ilirestouranti, irestoranti@
+@restrooms@|@ithilethe@
+@retrieve@|@ukuletha@
+@return@|@ukubuya@
+@rhinoceros: black ~@|@ubhejane@
+@rice@|@ilayisi@
+@right@|@-lungileyo, ubunene@
+@righthand@|@-lungileyo@
+@rim@|@irandi@
+@rise@|@ukusukuma@
+@river@|@umfula@
+@rivers@|@imifula@
+@road@|@indlela, umgwaqo@
+@robber@|@izigebengu@
+@robe@|@ililokwe@
+@room@|@ikamelo@
+@room: the ~@|@igumbi@
+@rope@|@intambo@
+@route@|@indlela, umgwapo@
+@sabbath@|@uMgqibelo@
+@sack@|@isaka, ishikhwama@
+@salad@|@ilisaladi, isaladi@
+@salt@|@usawoti@
+@sandwich@|@ilisendiwishi@
+@sassenach@|@iNgisi, umNgisi@
+@Saturday@|@uMgqibelo@
+@sausage@|@isositshi@
+@savior@|@uMsindisi@
+@say@|@ukuthi@
+@say goodbye@|@ukuvalelisa@
+@scatter@|@ukuthela@
+@school@|@isikole@
+@schools@|@izikole@
+@scot@|@isiKoshi@
+@scotsman@|@isiKoshi@
+@sea@|@ulwandle@
+@seasons@|@izikhathi@
+@see@|@ukubona, ukuhlangana@
+@see: I ~@|@ngiyabona@
+@sell@|@ukuthengisa@
+@send@|@ukuthumela@
+@sentence@|@umusho@
+@september@|@uSepthemba@
+@sergeant@|@ilisayini@
+@serious@|@-phakeme@
+@seven@|@isikhombisa, yisikhombisa@
+@seventeen@|@ishumi nesikhombisa@
+@seventy@|@amashumi ayisikhombisa@
+@shape@|@ifomu@
+@she@|@u-@
+@shed@|@ukuthela@
+@shelf@|@ilishalofu@
+@shine@|@ukukhanya@
+@ship@|@isikebhe@
+@shirt@|@ihembe@
+@shoe@|@isicathulo@
+@shop@|@isitolo@
+@short@|@fushane@
+@should@|@ukufanele@
+@show@|@ukukhombisa@
+@shut off@|@ukuvala@
+@sick@|@-gulayo@
+@sign@|@ukusayina@
+@signature@|@isayini@
+@since@|@ngoba@
+@sing@|@ukuhlabelela@
+@singing@|@ukucula@
+@sir@|@ubaba@
+@sister@|@usisi@
+@sit@|@ukuhlala@
+@six@|@isithupha@
+@sixteen@|@ishumi nesithupha@
+@sixty@|@amashumi ayisithupha@
+@size@|@usayizi@
+@skirt@|@ingubo@
+@sky@|@ilizulu@
+@slay@|@ukubulala@
+@slice@|@ukusika@
+@slow@|@-ephuzayo@
+@slowly@|@ngokunensa@
+@small@|@-ncane@
+@smoke@|@inthuthu@
+@snack@|@ilantshi@
+@so@|@kanjalo@
+@so long@|@sizobonana@
+@sole@|@-dwa@
+@solitary@|@-dwa@
+@some@|@amanye@
+@something@|@into, noma yini@
+@son@|@indodana@
+@song@|@ingoma@
+@soon@|@masinya@
+@sort@|@umhlobo@
+@Sotho@|@isiSuthu, umSuthu@
+@sotho language@|@isiSuthu@
+@soup@|@isobho@
+@soweto@|@eSoweto@
+@Spanish@|@isiSpeyini@
+@speak@|@ukukhuluma@
+@speak it@|@ngisikhuluma@
+@spear@|@umkhonto@
+@spectacles@|@izibuko@
+@spinster@|@inkosazana@
+@spoon@|@isipunu@
+@spot@|@indawo@
+@spring@|@entwasahlobo, intwasahlobo@
+@springtime@|@entwasahlobo@
+@square@|@isikwele@
+@stamp@|@isitembu@
+@stamps@|@izitembu@
+@stand@|@ukusukuma@
+@stand up@|@ukusukuma@
+@station@|@isiteshi@
+@stay@|@ukuhlala@
+@stay over@|@ukusala@
+@steak@|@isiteki@
+@steal@|@ukueba@
+@stomach@|@isisu@
+@stop@|@ukuvala@
+@store@|@isitolo@
+@stores@|@izitolo@
+@storm@|@isiphepho@
+@straight@|@qondile@
+@street@|@isitaladi@
+@strength@|@amandla@
+@strike@|@ukungqongqoza@
+@string@|@intambo@
+@student@|@isitshudeni@
+@study@|@ukufunda@
+@such@|@kanjalo@
+@such a@|@kanjani@
+@such as@|@kanjani@
+@suffer@|@ukuhlupheka@
+@suffice@|@ukuanele@
+@sugar@|@ushukela@
+@suggest@|@ukuphakamisa@
+@summer@|@ihlobo@
+@summon@|@ukubiza@
+@sun@|@ilanga@
+@Sunday@|@iSonto@
+@supermarket@|@ilisupamakethe@
+@supervise@|@ukuhlola@
+@supply@|@ukudiliva@
+@supporter@|@lilunga@
+@Swazi@|@isiSwati, umSwati@
+@sweep@|@ukushanela@
+@swiftly@|@ngokushesha@
+@swim@|@ukubhukuda@
+@swimming pool@|@ichibi lokubhukh@
+@swin@|@ukubhukuda@
+@swine@|@ingulube@
+@switch off@|@ukuvala@
+@table@|@ilitafula@
+@take@|@ukuamukela, ukuvalelisa@
+@take in@|@ukuamukela@
+@take leave@|@ukuvalelisa@
+@take leave from@|@ukuvalelisa@
+@take off@|@ukukhumula@
+@take over@|@ukuthenga@
+@talk@|@ukukhuluma@
+@tall@|@-de@
+@tank@|@ilitanki, itanki@
+@tardy@|@-phuzileyo@
+@tasty@|@-mnandi@
+@taxi@|@ilithekisi@
+@tea@|@ilitiye, itiye@
+@teach@|@ukufundisa@
+@teacher@|@uthisha@
+@telegram@|@ilitelegilamu@
+@telephone@|@ucingo@
+@television set@|@umabonwakude@
+@tell@|@ukunti@
+@teller@|@unobhange@
+@temperature@|@ithemperetsha@
+@ten@|@ishumi@
+@tender@|@ukuazisa@
+@tens@|@amashumi@
+@tent@|@itende@
+@terminate@|@ukuqeda@
+@test@|@ukuzama@
+@thank you@|@ngiyabonga@
+@thank you very much@|@ngiyabonga kakhulu@
+@thanks@|@ngiyabonga@
+@thanks: I give ~@|@ngiyabonga@
+@that@|@-ni, ukuthi@
+@that way@|@kanjalo@
+@the day before yesterday@|@kuthangi@
+@there@|@khona@
+@there are@|@kukhona@
+@there is@|@kukhona@
+@these days@|@okwamanje@
+@they@|@ba, ba-@
+@thief@|@izigebengu@
+@thing@|@into@
+@think: I ~@|@ngicabanga@
+@thirsty: be ~@|@ukuomile@
+@thirteen@|@ishumi nantathu@
+@thirty@|@amashumi amathathu@
+@this way@|@ngalendlele@
+@thou@|@wena@
+@thousand@|@inkulungwane@
+@three@|@amathathu, kuthathu@
+@throat@|@umphimbo, umphimbo@
+@Thursday@|@uLwesine@
+@thus@|@kanjalo@
+@ticket@|@ithikithi@
+@ticket-seller@|@umdayisi@
+@time@|@ihora@
+@tin@|@ilithini, ilithini, ithini@
+@tip@|@umbhanselo, umbhanselo@
+@tobacco@|@ugwayi@
+@today@|@namhlanje, namuhla@
+@toilet@|@ithoyilethe@
+@tolerate@|@ukuhlupheka@
+@tomato@|@utamatisi@
+@tomorrow@|@kusasa@
+@tongue@|@ulimi, ululimi@
+@too@|@futhi@
+@tooth@|@ilizinyo@
+@tortoise@|@ufudu, ulufudu@
+@tourist information@|@ulwazi lwesihambi@
+@tower@|@uphondo lwendlu@
+@town@|@idolobha@
+@tradition@|@ilisiko@
+@train@|@isitmela@
+@train station@|@isiteshi@
+@transmit@|@ukuthumela@
+@travel@|@uhambo@
+@treatment@|@impatho@
+@trouble@|@inkinga@
+@trousers@|@ibhulukwe@
+@truth@|@iliqiniso@
+@try@|@ukuzama@
+@tsonga@|@isiTsonga, umTsonga@
+@tsonga language@|@isiTsonga@
+@Tuesday@|@uLwesibili@
+@turkey@|@ikalkuni@
+@turn@|@jika@
+@turn off@|@ukuvala@
+@TV set@|@umabonwakude@
+@twelve@|@ishumi nambili@
+@twenty@|@amashumi amabili@
+@twenty one@|@amashumi amabili nanye@
+@twice@|@kabili@
+@two@|@isibili@
+@ukuethemba)@|@iakhawunti@
+@ultimately@|@ekugcineni@
+@Umlazi@|@eMlazi@
+@uncle@|@umalume@
+@under@|@phansi kwa-@
+@understand@|@ukuqonda@
+@unfortunately@|@ngeshwa@
+@unique@|@-dwa@
+@university@|@iliyunivesithi@
+@unmarried woman@|@inkosazana@
+@up@|@phezulu@
+@upon@|@phezu kwa-@
+@us@|@thina@
+@use@|@ukusebenzisa@
+@valley@|@isigodi@
+@valuable@|@-bizayo@
+@vegetable@|@uhlaza@
+@vend@|@ukuthengisa@
+@Venda@|@isiVenda@
+@venda language@|@isiVenda@
+@vessel@|@isikebhe@
+@view@|@ukubukela@
+@vigour@|@amandla@
+@village@|@umuzi@
+@villages@|@imizi@
+@visit@|@ukuvakashela@
+@vote@|@ukuvota@
+@Vryheid@|@eFilidi@
+@wait@|@ukulinda@
+@wait for@|@ukulinda@
+@waiter@|@uWeta@
+@wake@|@ukuvula@
+@wake up@|@ukuvuka@
+@want@|@ukufuna@
+@want: I ~@|@ngifuna@
+@want: you ~@|@ufuna@
+@warrant@|@igaranti, iligaranti@
+@wash@|@ukugeza@
+@watch@|@iwashi@
+@watches@|@amawashi@
+@water@|@amanzi@
+@way@|@ilisiko, indlela, isiko, umgwaqo@
+@we@|@si-, thina@
+@weather@|@ilizulu@
+@Wednesday@|@uLwesithathu@
+@week@|@iviki@
+@welcome: you are ~@|@wamukelekile@
+@well@|@kahle@
+@wench@|@intombazane@
+@what@|@-ni@
+@what for@|@yini ndaba@
+@what is@|@yini@
+@What is this?@|@Yini le?@
+@what kind of@|@inhloboni@
+@what sort of@|@inhloboni@
+@What time is it?@|@yisikhathi sini?@
+@What's your name?@|@ungubani igama lakho?@
+@wheel@|@ilisondo@
+@wheelbarrow@|@ibhala@
+@when@|@nini@
+@where@|@-phi, kuphi@
+@Where are you going?@|@uyaphi?@
+@Where do you live?@|@uhlalaphi?@
+@Where is..?@|@ikuphi..?@
+@wherefor@|@yini ndaba@
+@Where's the bathroom?@|@likuphi itholethe?@
+@which@|@-phi, ubani@
+@which goes@|@esiya@
+@while@|@isikhanthi@
+@whiskey@|@uwiski@
+@whisky@|@uwiski@
+@white@|@elimhlophe@
+@white man@|@umlungu@
+@who@|@-phi, ubani@
+@why@|@yini ndaba@
+@wife@|@inkosikazi, umakoti@
+@willing to: be ~@|@ukufuna@
+@win@|@ukuhola, ukuwina@
+@wind@|@umoya@
+@window@|@ifasitela@
+@wine@|@iwayini@
+@winter@|@ubusika@
+@wireless@|@iliredyio, umsakazo@
+@wish@|@ukufisa, ukufuna@
+@woman@|@umfazi@
+@women@|@abafazi@
+@wonderful@|@-mangalisayo@
+@word@|@igama@
+@words@|@amazwi@
+@work@|@ukusebenza@
+@worker@|@isisebenzi@
+@working man@|@isisebenzi@
+@world@|@umhlaba@
+@wrench@|@isikhiye@
+@wrist-watch@|@iwashi@
+@write@|@ukubhala@
+@Xhosa@|@isiXhosa, umXhosa@
+@yard@|@iyaladi@
+@ye@|@wena@
+@year@|@umnyaka, unyaka@
+@yes@|@yebo@
+@yesterday@|@izolo@
+@yet@|@nokho@
+@yon@|@lapho@
+@yonder@|@lapho@
+@you@|@wena@
+@you (pl.)@|@ni-@
+@you (sing. familiar)@|@u@
+@you (sing. formal)@|@ni@
+@you (sing.)@|@u-@
+@you (sing.fam.)@|@u@
+@you plu.@|@ni@
+@you sing. form.@|@ni@
+@young@|@-sha, ingane@
+@youngster@|@insizwa@
+@your@|@-kho, lakho@
+@you're welcome@|@uyamukelwa@
+@youth@|@insizwa@
+@Yule@|@uKhisimuzi@
+@zero@|@iqanda@
+@zoo@|@ilizu, izu@
+@zulu@|@um Zulu@
+@Zulu@|@isiZulu@
+@zulu language@|@isiZulu@
+@Zululand@|@KwaZulu@
+

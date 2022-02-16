@@ -1,0 +1,221 @@
+@English@|@Marquesan@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@above@|@`uka, `una@
+@all@|@tiatohu@
+@and@|@maa@
+@ash@|@`ehu/ahi, ànahu, kaàhu, ke/`ehu, kehu/ahi@
+@at@|@i@
+@back@|@tua@
+@bad@|@ìno, kino@
+@beat@|@tuì@
+@belly@|@`opu, kopu@
+@below@|@à`o@
+@big@|@nui@
+@bird@|@manu@
+@black@|@hivahiva, kèe/kèe@
+@blood@|@toto@
+@bone@|@ivi@
+@branch@|@àà@
+@breast@|@u@
+@child@|@tama@
+@cloud@|@ao@
+@cold@|@anu, kamaìì, makaìì, makkarede@
+@correct@|@atamai@
+@day@|@ao@
+@dirty@|@hava, paàpaà@
+@dog@|@nuhe, peto@
+@Don't touch me there!@|@Umoi oe e tukia i au ina!@
+@dry@|@pa, paka, pakaka, papaka@
+@dull@|@mué, tumué@
+@dust@|@épo@
+@ear@|@ìka/, ìna, pua@
+@earth@|@'epo@
+@egg@|@mamai@
+@eight@|@va'u@
+@eye@|@konohi, korohi, mata@
+@far@|@mama`o, mema`o@
+@fat@|@hinu àma, kao@
+@father@|@motua@
+@feather@|@huú manu@
+@fire@|@ahi@
+@fish@|@ià, ika@
+@five@|@'ima, ìma, ìma@
+@flower@|@pua@
+@fog@|@kohu@
+@four@|@faa@
+@fruit@|@hua@
+@good@|@'eka, meitai@
+@grass@|@mutie@
+@green@|@ki óu ti teé@
+@hair@|@hu`u@
+@hand@|@ìma@
+@he@|@ia@
+@head@|@u`u, upoko@
+@heaven@|@de ahgy@
+@heavy@|@tono@
+@house@|@aika, fa'e, ha'e@
+@how?@|@peehea@
+@husband@|@hahana@
+@I@|@-'u, au@
+@if@|@me@
+@in@|@'oto, i@
+@inside@|@ioo@
+@intestines@|@koekoe@
+@lake@|@vai óto@
+@leaf@|@àu@
+@left@|@akeake@
+@leg/foot@|@vae@
+@lightning@|@uià@
+@liver@|@ate@
+@long@|@`oa@
+@louse@|@`utu, kutu, kutu papa@
+@man@|@tama `oa, tane@
+@meat@|@keko, kiko@
+@moon@|@mahina@
+@mosquito@|@nono@
+@mother@|@kui@
+@mouth@|@fafa, haha, nutu@
+@name@|@ikoa, inoa@
+@narrow@|@faiti, iti@
+@near@|@tata@
+@neck@|@kaakii@
+@needle@|@nina@
+@new@|@hou@
+@night@|@poo@
+@nine@|@iva@
+@no@|@ie(hh)ai, tee@
+@nose@|@ihu@
+@old@|@ko`oua, koua, tehito@
+@one@|@tahi@
+@one hundred@|@'au@
+@other@|@ke@
+@painful@|@mamae, memae@
+@path@|@nui@
+@person@|@`enana, `enata, kenana@
+@rain@|@ua@
+@rat@|@kio`e, kumakuma@
+@red@|@kuà, kuwa@
+@right@|@atamai@
+@road@|@vaà@
+@root@|@aka@
+@rope@|@touà@
+@rotten@|@paà, popo@
+@salt@|@kanatai, puhinaú@
+@sand@|@one@
+@sea@|@moana, tai@
+@seven@|@fitu@
+@sharp@|@koi@
+@short@|@nohinohi, poto@
+@shoulder@|@paufifi, pauhihi@
+@shy@|@hakaika@
+@six@|@ono@
+@skay@|@àki, àni@
+@skin@|@kiì@
+@small@|@ìki, iti, poto@
+@smoke@|@au/ahi, auahi@
+@snake@|@puhi henua@
+@spider@|@puka/vèevèe, pukavèevèe, puna/vèevèe, punavèevèe@
+@star@|@fettoe, fetuu, hetuu@
+@stick@|@àkau@
+@stone@|@hatu-keàa@
+@tail@|@hiku, iku, vèo@
+@ten@|@'okohu'u, 'onohu'u@
+@that@|@ia á, na, tena@
+@thatch@|@ato@
+@they@|@u tihe, úa tihe@
+@thick@|@moto`u@
+@thin@|@áhiáhi, ákiaki, kahikahi, piáhiáhi@
+@this@|@tenei@
+@This Was Your Life@|@Te ata o to otou pohu'e!@
+@thou@|@koe'oe@
+@three@|@to'u@
+@thunder@|@pha too tee@
+@to bite@|@kakahu, nahu, nennahhu@
+@to blow@|@puhi@
+@to breathe@|@ha, menava@
+@to burn@|@tutu@
+@to buy@|@ho`o, hoko@
+@to chew@|@kakahu, nennahhu@
+@to choose@|@vae@
+@to climb@|@hiti@
+@to come@|@tihe@
+@to cook@|@tao@
+@to count@|@ta/tau/@
+@to cry@|@taki, tani@
+@to cut@|@`o`oti, ihi, kokoti, taài@
+@to die@|@kèo, mate@
+@to dig@|@keì@
+@to dream@|@moemoea@
+@to drink@|@inu@
+@to eat@|@'ai, kai@
+@to fall@|@hika, hina, maku`u, mekèe, moku`u, topa@
+@to fear@|@meta`u@
+@to flow@|@tahe@
+@to fly@|@ona@
+@to grow@|@tupu@
+@to hear@|@`oko, `ono@
+@to hide@|@pu/puni@
+@to hit@|@paì, paki, patu, tuì, tuki@
+@to hold@|@ííma@
+@to hunt@|@tatai, tute@
+@to kill@|@haámate, kukumi, pehi@
+@to know@|@hani@
+@to laugh@|@àta, kata@
+@to lie down@|@moe@
+@to live@|@pohué@
+@to open@|@pepeu@
+@to plant@|@nanu@
+@to pound@|@tuki@
+@to say@|@peáu, teáo, tekaoa@
+@to scratch@|@tuveé@
+@to see@|@íte@
+@to sew@|@tui@
+@to shoot@|@toi@
+@to sit@|@noho@
+@to sleep@|@hiamoe@
+@to sniff@|@hoki, hone@
+@to spit@|@tufa@
+@to split@|@koava@
+@to squeeze@|@`omi, koko@
+@to stab@|@huki@
+@to stand@|@tuu@
+@to steal@|@kai hue, kamo@
+@to suck@|@`omo, omo@
+@to swell@|@hete, huhuà@
+@to swim@|@kau nager@
+@to think@|@maákau@
+@to throw@|@tiì@
+@to tie up@|@fitiì, hitiki, nani, nati@
+@to turn@|@kavaií@
+@to vomit@|@`ua@
+@to walk@|@hèe@
+@to work@|@hana@
+@to yawm@|@mama@
+@tongue@|@a`èo@
+@tooth@|@niho@
+@twenty@|@tekau@
+@two@|@'ua@
+@warm@|@mahana@
+@water@|@vai@
+@we@|@matou, maua, tatou, taua@
+@wet@|@áutau, kutai, kutaú, toku, útau@
+@what?@|@aha@
+@when?@|@aahea@
+@Where is my room?@|@Ihea to au paoto hiamoe?@
+@Where is the bar?@|@Ihea te vahi hoko ia inu?@
+@Where is the beach?@|@Ihéa te tahatai?@
+@where?@|@hea@
+@white@|@tea, teko, tèo@
+@who?@|@ai@
+@wide@|@fatea@
+@wife@|@vehine@
+@wind@|@metaki, metani@
+@wing@|@peheu@
+@woman@|@-hine, vehine, viene@
+@woods@|@vao@
+@worm@|@noke, to`e, toke@
+@year@|@tau@
+@yellow@|@putokatoha@
+@you@|@`otou, ko`ua, koe'oe, kootou, kotou@
+

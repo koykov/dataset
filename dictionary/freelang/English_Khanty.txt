@@ -1,0 +1,379 @@
+@English@|@Khanty@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a body part@|@lahäl, laxäl@
+@a cut off piece@|@rih-@
+@a k. of animal@|@manäng@
+@a k. of aquatic bird@|@paj@
+@a k. of arrow@|@mangx, moh, mongk, monk, mox, mungk@
+@a k. of axe@|@soxät, suhäl@
+@a k. of berry@|@moräk, moräx, muräx, petár, petär, pisar@
+@a k. of bird@|@wercäk, wursäk@
+@a k. of brew@|@lis, lüs@
+@a k. of coniferous tree@|@teexär@
+@a k. of disease@|@möç, moš@
+@a k. of duck@|@ta'htang, taxtäng, was, wasä, wäsäh@
+@a k. of fir-tree@|@nalki, nalxa, natxä@
+@a k. of fish@|@mehtäng, möhtäh@
+@a k. of fish trap@|@külä@
+@a k. of metal@|@ox, wah, wax@
+@a k. of net@|@mehät-, mewät-, möhät-@
+@a k. of plant@|@polän, putän@
+@a k. of vehicle@|@ikär, jikär, liker@
+@a k. of vessel@|@tol@
+@a k. of wild duck@|@piri, pirngä@
+@a k. of willow@|@mahli, maxtä, moxla@
+@a large animal@|@weli, wetä, wuli@
+@ambush@|@laasi, lasi-@
+@arrow@|@nal, not, pöh@
+@asp@|@paj, poj@
+@at the houses@|@xotätnä@
+@back@|@pir, pïr@
+@back part@|@puj, püj@
+@bark@|@për@
+@be mislead@|@tap-, tep-, tew-@
+@be suffocated@|@pexem, pikim@
+@become@|@ol-, ut-, wa'l-, wal-, wol-@
+@behind@|@parta, pertäh@
+@bellow@|@kënäj-, kenï-, könäh-@
+@berry@|@lewsi murwa, muräp, ul, ut, wol, wot@
+@birch bark@|@tana@
+@bird@|@lont, lönt, tunt@
+@black@|@pehtä, puti@
+@blood@|@wer, wur@
+@blunt end@|@poh, pow@
+@body@|@mag, maga, magot, magu@
+@boil@|@pongkäl, pongxäl, pongxät, pungkäl, pungkät@
+@bone@|@law, loh, tuw@
+@boy@|@pah, pax@
+@brain@|@weläm, wetäm@
+@branch@|@jahi, lahi, löwï, tawä@
+@breast@|@mehät, mewäl, möhäl, poxäl, poxäs-täxpä, puhäl@
+@butterfly@|@lapati, lawanti, lepäntaj@
+@carry@|@we-, wej-, wu-, wuj-@
+@cartilage@|@nar, naräk, norä@
+@cavity@|@ompi, ongät, óngät@
+@cedar nut@|@nahär, naxär@
+@cheek@|@poxälma, poxtäm, puhläm@
+@chin@|@ongäl, ongätäw@
+@circle@|@pengärhät-, pengräk, pengräkint-@
+@clear@|@sangkä, sängki@
+@cloud@|@paläng, peläng, petäng@
+@collar@|@rok, rox@
+@comrade@|@jot, jöt@
+@cone@|@paw, pax, pöki, pow@
+@conjure@|@engkär-, ingkär-@
+@cook@|@päl-, pat-@
+@copper@|@jorni, lornä@
+@corner@|@song, sung@
+@crop@|@paräk, paräx, poräx@
+@cross-beam@|@tohät, toxät@
+@crow@|@urngi, warnga, warngaj@
+@curve@|@manäj-, mani-, mäni-, mena, min@
+@cut@|@wah-, wang-, wangx-@
+@dam@|@pal, pat@
+@daughter-in-law@|@men@
+@deep@|@mal, mel, met@
+@dense@|@lök, luk@
+@depilate@|@nehätmä-, nehläm-@
+@dew@|@pachäm, pasám, pochäm, poxchem@
+@direction@|@jöngki ur, ur, ür, wur@
+@dog@|@amp, ämp@
+@door@|@ow, xat-aw, xat-äw@
+@draw@|@jarip-, jeri-@
+@ear@|@pel, pet@
+@earth@|@meh, mex, muw@
+@edge@|@pert, sil@
+@eight@|@nevet, nijäl, niläh, nitä@
+@end@|@körählä-, maça, masa, moçä@
+@end of trunk@|@to', tövet@
+@even@|@weläh (V), wetäk (DN), wuläk@
+@face@|@wanç, wenç, wes@
+@fat@|@polt, put, uj, waj, woj@
+@feel@|@mojäptä, mujäptä, mujwäti@
+@female@|@neng, ni, ning@
+@fence@|@waç, wac-, was, was-, woç-, woçäm, woš, wuçäm@
+@fever@|@kant-, xas-, xont-@
+@fire@|@paj, paj, päj, päj, päjä, töhät, tut, tut, tüt@
+@fish fence@|@woçäm, wusäm@
+@fish milt@|@nehsäng, neksäm, neksäng, nengksäng, nisäng@
+@fish roe@|@marän, märän@
+@fit@|@alt-, mel-, ottä-, ulnang juh, ulwan juh@
+@five@|@wet@
+@float@|@par, parä@
+@fog@|@rot, rut@
+@forest@|@wont, wuur@
+@four@|@nelä, netä, nil, nyate@
+@fragile@|@ratäk, ratäx, rotäx@
+@frozen thin snow@|@lant, las, lös, töns, tont@
+@gadfly@|@paläm, peläm, petäm, piräm@
+@gills@|@nangxšäm, naxšäm, noxsäm@
+@girl@|@ewä, ewi, öhi@
+@give@|@tu-@
+@glue@|@ajäm, ájäm, ejäm, röngkämt-, röngki@
+@god@|@nomän, nömän, num, num-toräm, num-turäm, numän@
+@good@|@jëm, jim@
+@grass@|@pam, pum@
+@groin@|@naräm, noräm@
+@group@|@parä, por@
+@hack@|@rohäm-@
+@hair@|@pun, pün@
+@hairless skin@|@nur@
+@hay@|@törän@
+@hazel-hen@|@pengk@
+@he@|@ten, tuw@
+@heat@|@rew, ruw@
+@hollow hand@|@muräs@
+@honey@|@mäh-woj, maw, max@
+@hook@|@naš, našä, nisi@
+@horse@|@law, loh, taw@
+@house@|@xot@
+@hundred@|@sot@
+@I@|@ma, mä, man, min, mung@
+@ice crust@|@paj, pajät-, poj@
+@interrogative particle@|@-a@
+@joint@|@jët, jit, jöt@
+@juice@|@natä@
+@jump@|@it-, ït-@
+@knot@|@kiš-mar, mar@
+@Labrador tea@|@wäl@
+@lake as a result of overflowin@|@jar, lar, tor@
+@larch@|@nangk, nängk@
+@layer@|@pich, piš, pištä-, pus, pustä-@
+@leaf@|@lipät, liwät@
+@leaf of a conifer@|@lepäs, lewäs@
+@light@|@kenä, kon, könäh@
+@lip@|@jul, lul, patäm, peläm, petäm, tut, tut@
+@liquid excrement@|@pas, pas-, pat, pat-, pot-, potkä jeh-@
+@liver@|@maxäl, muhäl, muxät@
+@loin@|@wa'mäs, wamäs, womäs@
+@long@|@pal, palát, pelät, pet, petat@
+@look@|@ni-, niw-, want-, wat-@
+@loose@|@lasäk, látäk@
+@lower thigh@|@kor-sur, köt-sor@
+@marsh island@|@xömäs@
+@marten@|@nohäs, noxäs@
+@meadow@|@noräm, nuräm@
+@meet@|@jökän-, lökän-, loxän-, toxän-@
+@mitten@|@pas, pos@
+@mood@|@kant, kent@
+@mother@|@as, es@
+@mountain@|@miho, miw, müh, wor@
+@my 2 cows@|@mesemen@
+@my cow@|@mesem@
+@my cows@|@mesew@
+@name@|@nem@
+@narrow@|@wänt, was, wat@
+@navel@|@pöhläng, pokläng, pukän@
+@neck@|@tur, tür@
+@nest@|@pel, pit@
+@net@|@toxäl, toxät@
+@net needle@|@sawäs-, sopäs, supäs@
+@nine@|@yaryang@
+@not@|@nem xojat, nemäsa@
+@observe@|@tähän-, tähäntählä-, wopäj-, wopi-@
+@old@|@unä, won@
+@on top@|@al, elä, etä@
+@one@|@yit, yiy@
+@other side@|@aläm, atäm@
+@our 2 cows@|@mesngetuw@
+@outside@|@kámän, kim, kömän, küm@
+@path@|@pant, pent@
+@peg@|@löngk@
+@person@|@mant, mas, mont@
+@piece@|@mari-, moräj-, mori-@
+@pierce@|@jaxäs-, johi-@
+@pit@|@ongk, wangkä, wangxä, wongk, wongx@
+@place@|@mir-wer, tahi, tahi, taxa, taxa, taxä, taxä, wal, walä, wat, wer@
+@place (1)@|@ewä-wat, pax-wat@
+@plait@|@ponäl-, pönäl-, punttä-@
+@pole@|@ol, wol@
+@pond@|@tew, toh, tuw@
+@porridge@|@rak, räk, rako, rok, rox@
+@post@|@oxäl, oxät@
+@power@|@weh, wej, wöh@
+@prayer@|@mül, mul-, muläs-, mut, mut-@
+@push@|@nakämäjäl-, nek-, nekämt-, poxäl-, poxät-, pul-@
+@quick@|@sara, saräk, sora@
+@quiver@|@tiwët, tühät@
+@raw@|@nasax, našax, näsax@
+@reins@|@päk@
+@relative on mother's side@|@alt, ilti, oli, olisakän, or'ne, orti, wortï@
+@ring@|@mahäl, mahältähi-, maxält-, maxät, maxta@
+@river@|@rahoä@
+@river influx@|@pas, pasäl, pastät, posäl@
+@roe@|@kor-purä, por, pör, purä@
+@rotate@|@sajä-, sajh-, sejäh-@
+@rub@|@osi-, waçäh-, woçähtä-, wošäm-@
+@run@|@sahäl-, sahält-, saxättä-, saxit-, sixäl-, suhäm@
+@sack@|@sous@
+@saddle@|@nöhär@
+@sealine for fishing@|@wote@
+@seethe@|@pasäh-, pasi-, posä-, posh-@
+@seven@|@jäwät, lapät, läwät, tapät@
+@shaft@|@nal, net, nöl@
+@shave@|@walt-, wattä-@
+@sheep@|@aç, açni, as, asni, oš, ošnä@
+@shine@|@al wali-, woli-@
+@shore@|@marti-meh, marti-muw, mortä-meh@
+@shy@|@waj, wajäh, wojä@
+@side@|@kutäng, peel, peläk, pelläk, xösá@
+@side of body@|@angti, engtä, ongti, öngti@
+@sing@|@mora-, moräh-@
+@sink@|@mar-, mara-@
+@sister@|@sasä, sasi@
+@six@|@xut@
+@skin from the feet of deer@|@posäx, pošäx@
+@sky@|@num toräm@
+@sleigh harness@|@wat, wät@
+@small piece@|@per@
+@small river@|@wahäl, woxal, woxal-joxan@
+@smoke@|@posäng@
+@snout@|@nir@
+@snowstorm@|@partä-, parxa, porki, porki-wat@
+@soft@|@namäk, nämäk@
+@something slippery@|@nal, nali@
+@something stamped@|@pohäl, poxät@
+@son-in-law@|@weng, wo'ng, wong@
+@south@|@langa, tanga@
+@space@|@tir@
+@speech@|@pangkäl-sahä, saw@
+@spit@|@ongtä, ongtäw, pal, pali, ungti@
+@spoon@|@pen@
+@spring@|@ta'wi, tawä, toh, tohi, tow, towi'@
+@squeeze@|@pas-, pos-, pus-@
+@squirrel@|@imät tangkä, iwä längki, jipät langki@
+@stomach@|@pokä-sox, pöki, puka, pukä@
+@string@|@pihät, pïhät, piwättä-, pühäl@
+@support@|@mas, meç, mëç@
+@surface@|@el, et@
+@swan@|@kötäng, xötäng@
+@tail@|@páläk, pašngat, patangx, patlang, poç, potlang@
+@tail of a deer@|@mäsäh, masäng, mesäh@
+@tame@|@ani@
+@tear@|@empor-, köpitä-, xapät-@
+@ten@|@yang@
+@tent@|@oläw, utäp@
+@testicle@|@man, mon@
+@that@|@ta'm, to'm, to'mä, to't, to'ttä, tom, toma, tomi@
+@that (1)@|@maki, maxa, moxa, to'hi, to'xi', tota@
+@the 2 of our cows@|@mestaten@
+@the inside of something@|@joh, jöx, jöxi@
+@the upper part@|@nox, nuh, nuk@
+@they@|@tew@
+@thick intestine@|@putä, puti@
+@thief@|@jaläm-, jiläh, laläm-, lalmax, liläh, totmax@
+@thin branch@|@was, wasa, wasä@
+@thing@|@mej, möhi, muj@
+@thirty@|@xutemyang@
+@this@|@-na, tame@
+@three@|@xutem@
+@tie@|@nal, nola, nula, nuta@
+@time@|@ki(t)-pihär@
+@tin@|@olna, ser olnä, xant utän@
+@to approach@|@rahäm, rax-, raxä, raxi, raxtä, raxti@
+@to be able@|@mastä-, mo?štä-, motšä-, mötšä-@
+@to be afraid@|@pal-, pel, pel-, pet-@
+@to be stretched@|@ninç-@
+@to beat with the wings@|@rawsält-, repä-@
+@to become dark@|@chëtimä-@
+@to become fat@|@katäm, xotlä-, xottä-@
+@to become lean@|@kans-, känt-@
+@to become numb@|@pas-, pes-@
+@to become tired@|@nujä-, nujhä-@
+@to become wet@|@jastä-, lastä-, löstä-, pach-, pas-, tastä-@
+@to bind@|@newäj-@
+@to bite@|@par-, por-@
+@to blow@|@pat- pal-, poh-, pol-, pöl-, pow-@
+@to bore@|@par, parät, parli, por, poräl@
+@to burst@|@pah-, pahän-, pakän-, pax-, paxän-@
+@to close@|@pent-@
+@to come@|@jöhät-, jöxät-@
+@to come in@|@lap-, lep-, tep-@
+@to cut@|@want-, wänt-, was-@
+@to depilate@|@naw-, now-@
+@to devour@|@pul, pül, pül-, pulät-, puli-@
+@to dive@|@marät-, merät-@
+@to dry@|@sas-, sos-@
+@to fail@|@mintähtä-@
+@to fall down@|@ra'h-, rah-, rax-, raxäj-@
+@to fart@|@pan, panäm-, ponäh-, ponmä-@
+@to flow@|@aw, oh, oha-, ow@
+@to follow the tracks@|@kot-, köt-, küs-@
+@to frazzle@|@ratämt-, rati@
+@to freeze@|@pot@
+@to go@|@jël-, man-, men-@
+@to go down@|@oxäl-, wahäl-, waxät-, wexät-, wihäl-@
+@to gush@|@pali-, poli-@
+@to harden (steel)@|@at-, ät-, attä-, it-@
+@to hide@|@laläm-, totäm-@
+@to hold@|@pit-@
+@to jump@|@pot-, sohäm, soxältä-, soxäm@
+@to kill@|@wel-, wet@
+@to lick@|@nal-, nala-, nat-@
+@to mix@|@ilähtä-, lilähtä-, lilät-@
+@to open@|@punc-, pünç-, pus-@
+@to pierce@|@pel-, pet-@
+@to pour@|@waläh-@
+@to pour out@|@pachatnänt-, pochähint-@
+@to press@|@chujät-, maräm, maräm, marlä-, marlä-, marsäm, marsäm, meräm, meräm, merap, merap, nöl-, posär-, pusär-, šojlä-, šojtäng oxäl, suwilä-@
+@to pull@|@nar-, ner-@
+@to put@|@pan-@
+@to regurgitate@|@ahät, axät, ëhät-, uhät-@
+@to rest@|@nohol-, nöhol-@
+@to rot@|@jöj, lij-, löj, öj, tej@
+@to say@|@at-@
+@to scrape skin@|@nal-, nol-@
+@to separate@|@paajit-, päçi-, pajit-, pájit-, peçähäl-@
+@to sit down@|@jel-, lel-, tet-@
+@to smile@|@nax-matängat@
+@to split@|@langkät-, langkit-, langxät-@
+@to spread@|@tewät-@
+@to stand@|@jint-, las-, lint-, tont-@
+@to step@|@rongk-, röngkä-, rungk-@
+@to step over@|@unç-, us-, wus-@
+@to stick in@|@pohläm-, puläw, putäp@
+@to swallow@|@nel-, net-@
+@to swell@|@te'ngärt-@
+@to swim@|@-ut-, os-, ot-, üj-@
+@to tear@|@mansi-, menäm-, mench-, menemä-, net-@
+@to tell@|@mant, mas, mont@
+@to the two houses@|@xotngäna@
+@to throw@|@waaškaltnän-, waskä-, watxämt-, woskä-@
+@to wind@|@pan-, pon-@
+@to yawn@|@os-, usil-, wases-@
+@tongue@|@naläm, näläm, natäm@
+@tooth@|@pengk, pöngk@
+@top@|@taj, tej, töj@
+@touch@|@mal-, mäl-, maläs-, matäs-@
+@trace@|@nöhäl-, noxäl-, noxät-, nuhäl-@
+@tree gum@|@pihäl, pihli-@
+@tremble@|@rent-@
+@twenty@|@xus@
+@two@|@kat, katn@
+@understanding@|@as, atsam, oš, ossam, otšam@
+@upper arm@|@maräx, meräk, merängk@
+@village@|@poxäl, puhäl, puxät@
+@wadding in shoe@|@iläm, ïläm, itäm@
+@warm@|@malängk, meläk, melläk@
+@wash@|@pewäl-, pexät-, pöhäl-@
+@way@|@nahät, nihät, nil@
+@we@|@meng, min, mong, mung@
+@wear out@|@lopi pus@
+@wet snow@|@ut, uthäl, utxät, witkäl, wusäl@
+@what@|@meli, möhöli@
+@what?@|@muy@
+@which@|@mati, metä@
+@who?@|@xoy@
+@widow@|@jengk-uri, jengk-urwi@
+@wing@|@pangät, pangkäl, pongkäl, tohäl, toxät@
+@witchcraft@|@tolt, tolta, tolten, toltn@
+@woman@|@na'j, naj, näj@
+@wooded hill@|@maraj, mora, mori@
+@woodpecker@|@kajärki, kajarngi, xangra, xaxraj@
+@worm@|@n'ingk, ningk@
+@you@|@-tä, -täh, -ti, nan, nang, nen@
+@young@|@aj, äj, lojamtïjäl-, lojamtïl-@
+@young of deer@|@pechä, pechäh, peši@
+@younger brother of mother@|@arsäx, ortïweng@
+

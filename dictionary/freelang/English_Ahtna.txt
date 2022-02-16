@@ -1,0 +1,886 @@
+@English@|@Ahtna@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@3 grayling're lying the shore@|@taagga segeli tabaa zdlaa@
+@a beads container is there@|@natl'edze tiil dazkaan@
+@a big teapot is sitting there@|@tsenii ce'e zkaan@
+@a lamp is sitting there@|@dezk'aan'e yizkaan@
+@a mushroom is growing@|@c'eney' nanetyaex, c'eneyy' neyaex@
+@a rug is down on the floor@|@tael 'egaat kadezniic@
+@a story about natael@|@natael gha nahwkolnic@
+@alder leaves are growing@|@k'es t'aann' neyaex@
+@all day long grandma worked@|@dziin uudih wutsoo etnah@
+@ant@|@nadosi@
+@are you cold?@|@zidlii da?@
+@are you hungry?@|@ditsiin da?@
+@are you thirsty?@|@tuu da ndestlaan?@
+@are you tired?@|@taghitnak da?@
+@arm@|@uggaan'@
+@at chahjakta's house@|@chahjakta' shah xah naholnik@
+@baby@|@sc'aen, sc'enggaay@
+@baby rabbit@|@uggaay@
+@back hat@|@tsic'uus elt'uudze@
+@be quiet@|@dadzineh@
+@bear cub@|@sos@
+@beaver@|@tsa'@
+@berry@|@gigi@
+@big@|@ce'e@
+@big knife@|@tsactsiy ce'e@
+@bird@|@ggaaggi@
+@birds are flying around@|@ggaaggi natnedel@
+@black@|@elt'uudze, lt'uudzi@
+@black bears@|@sos@
+@black hat@|@tsic'uus lt'uudzi@
+@blanket@|@ts'ede'@
+@blue@|@deldlaedze@
+@blue hat@|@tsic'uus deldlaedze@
+@boy@|@ciil@
+@brown@|@eltsoghe@
+@brown hat@|@tsic'uus eltsoghe@
+@bull moose@|@nicuunn@
+@bullets@|@k'a'tse'@
+@bush@|@ts'el@
+@butterfly@|@lahleli@
+@calf moose@|@detsiigi@
+@cane@|@tets@
+@caribou@|@udzih@
+@chahjakta's dog is sleeping@|@chahjakta' wuliik eetii@
+@chest@|@ut'aay@
+@child@|@sc'aen@
+@Chritmas Eve@|@ts'its'aange tedze@
+@clothes@|@yu'@
+@come here!@|@'aani!, 'aann!@
+@cottonwood leaves are growing@|@t'aghes t'aann' neyaex@
+@cow moose@|@deyaaze@
+@creek@|@c'ena'@
+@cup@|@tutiil@
+@cut some firewood@|@tsets 'itsael@
+@dark blue@|@datl'edzi@
+@dark blue hat@|@tsic'uus datl'edzi@
+@day@|@dzaenn@
+@did you see any sheep?@|@debae da nghil'aen'?@
+@did you see any wolves?@|@tikaann da nghil'aen'?@
+@do you have firewood?@|@kon' tsedze' da dizilaa?, tsets dizilaa da?@
+@do you have matches?@|@kon' da dizilaa?, kon' dizilaa da?@
+@do you hear me?@|@sdi'its'ak da?, sdi'its'ak?@
+@do you know native language?@|@nkenaege' da 'eldaditnes?@
+@do you see any wolves?@|@tikaann da nil'aen?@
+@do you speak Athabaskan?@|@denae k'eh da hniyaes?@
+@do you understand athabaskan?@|@denae di'its'ak da?@
+@do you understand me?@|@sdi'its'ak da?@
+@do you understand our language@|@nekenaey' da di'its'ak?@
+@do you want fish?@|@luk'ae da 'eyni'izen?, luk'ae ini'izen?@
+@do you want tea?@|@tsaey da ndestlaan?, tsaey ndestlaan da?@
+@dog@|@lic'ae@
+@dog is sitting under its house@|@lic'ae delkonaa' t'aax zdaa@
+@dog's sittin' in front house@|@lic'ae dekonaa' nildaagge zdaa@
+@dog's sitting behind the house@|@lic'ae dekonaa' ghanii dezdaa@
+@dog's sitting beside the house@|@lic'ae dekonaa' k'eze zdaa@
+@dog's sitting in its house@|@lic'ae dekonaa' yii zdaa@
+@dog's sitting on its house@|@lic'ae dekonaa' k'et dazdaa@
+@dolly varden@|@ts'unghastlaeggi@
+@don't@|@'ene'@
+@dry fish@|@ba'@
+@dry meat@|@c'etsen' ggan@
+@duck@|@dets'eni, t'aay@
+@ducks@|@dets'eni@
+@eagle@|@tudi@
+@eight@|@k'edinc'ii@
+@enough@|@xonah@
+@evelyn is hungry@|@evelyn ditsiin@
+@evelyn is not hungry@|@evelyn k'ali' ditsiin@
+@father@|@sta'@
+@fireweed@|@lac'usk'a'@
+@fireweed is growing@|@lac'usk'a' neyaex@
+@firewood@|@tsedze'@
+@fish@|@luk'ae@
+@fish is lying on the shore@|@taamaak luuk eedlah@
+@five@|@'alts'eni@
+@fly@|@don'@
+@four@|@dinc'ii@
+@fox@|@naggedze@
+@foxtails are growing@|@lice' neyaex@
+@gdon't do that@|@'ene' dazit'aenn@
+@get away@|@'enn'@
+@girl@|@ts'akae ggaay@
+@give me tea in a cup@|@tutiil yiit tsaey sle'ikaas@
+@give me the axe@|@cen'aay nde'@
+@give me the baby@|@sc'aen sle'iltaes, sc'enggaay sle'iltaes@
+@give me the big knife@|@nde' tsactsiy ce'e@
+@give me the blanket@|@ts'ede' sle'ilniis@
+@give me the bullets@|@k'a'tse' sle'ilae, nde' k'a'tse'@
+@give me the gun@|@k'a' nde', k'a' sle'ditiis, nde' k'a'@
+@give me the gun (1)@|@k'a' sle'ditiis@
+@give me the hat@|@tsic'uus sle'i'aas, ysic'uus sle'i'aas@
+@give me the knife@|@tsactsiy nde'@
+@give me the moccasins@|@kentsiis sle'ilae@
+@give me the paper@|@denehtl'aa sle'ilniis, giligak sle'ilniis@
+@give me the pocket knife@|@nde' kanalkaede@
+@give me the puppy@|@laggaay sle'iltaes, liggaay sle'iltaes@
+@give me the rock@|@ts'es sle'i'aas@
+@give me the small knife@|@nde' tsactsiy ggaay, tsactsiy ggaay nde'@
+@give me the snowshoes@|@'aas nde', nde' 'aas@
+@give me the stick@|@decen sle'ditiis@
+@give me the tea@|@tsaey sle'ikaas@
+@give me the water@|@tuu sle'ikaas@
+@give me water in a cup@|@tutiil yiit tuu sle'ikaas@
+@go away@|@'enn'!, stanohdael@
+@good@|@ugheli@
+@goodbye@|@xonahaan@
+@goose@|@xax@
+@grandfather@|@stsiye@
+@grandmother@|@stsucdae@
+@grass@|@tl'ogh@
+@grayling@|@segele, segeli@
+@grey@|@lbaay@
+@grey hat@|@tsic'uus lbaay@
+@grouse@|@deyaann, deyh@
+@gun@|@k'a'@
+@guys sit down@|@dezolts'ii@
+@hair@|@utsegha'@
+@has the ice broken up?@|@ten da ketnatghotl?@
+@hat@|@tsic'uus@
+@hats@|@tsic'uus@
+@he fell asleep@|@kanaalyighilt'ak@
+@he fell asleep under a spruce@|@ts'ok t'aat neetii@
+@he got tired@|@ti'atnak@
+@he has set the net in the lake@|@tehbiil men yii tinilniik@
+@he has the net set in the lake@|@men yii tehbiil tinilaa@
+@he is@|@t@
+@he is carrying in wood@|@tsets dandelyae@
+@he is carrying some water@|@tuu naatkaal@
+@he is cooking grayling@|@cheejil eht'iah, segeli lt'aes@
+@he is crying@|@tsagh@
+@he is dancing@|@c'eldzes@
+@he is drinking tea@|@tsaey tnaan@
+@he is drinking water@|@tuu etnaan@
+@he is eating@|@c'eyaan@
+@he is eating fish@|@luk'ae eyaan@
+@he is fine@|@ugheli nlaen@
+@he is going for water@|@tuu katezyaa@
+@he is going hunting@|@staxacdetiis@
+@he is hungry@|@ditsiinn@
+@he is making a fire@|@kon' dilk'aas, nakon'delk'aas@
+@he is not hungry@|@k'ali'i ditsiinn@
+@he is packing water@|@tuu na'atkaal, tuu naatkaal@
+@he is playing@|@delghos@
+@he is running@|@ghaltsel@
+@he is sewing@|@nancnekaan'@
+@he is sitting@|@zdaa@
+@he is sleeping@|@ztaen@
+@he is standing@|@nadzen@
+@he is tanning a hide@|@c'ezes zogh@
+@he is tired@|@taatnak@
+@he is walking around@|@natedaas@
+@he is walking by the creek@|@c'ena' k'aze loghayaal@
+@he is walking by the river@|@ts'itu' k'aze loghayaal@
+@he is walking on the hill@|@tes k'et natedaas@
+@he is walking on the mountain@|@dzel k'et natedaas@
+@he is walking round the lake@|@men baagha loghayaal@
+@he is walking to the lake@|@ben ts'e' ghayaal@
+@he is walking to the school@|@dohdeldiix ts'e' ghayaal@
+@he is walking to the store@|@c'utkaet ts'e' ghayaal@
+@he is wearing a red hat@|@tsic'uus delt'eli nidel'aan@
+@he takes fish out of the net@|@tehmiin shiit luuk ha'illeey@
+@he wants berries@|@gigi 'eynizen@
+@he wants dry fish@|@ba' 'eynizen@
+@he wants dry whitefish@|@tsabaey ba' 'eynizen@
+@he went hunting@|@staxacdetaan@
+@head@|@utse'@
+@heqs wearing a warm hat@|@tsic'uus nelkon'o nidel'aan@
+@her name is kanats'elnaan@|@kanats'elnaan buze'@
+@her name is nanenilnaan@|@buze' nanenilnaan, ghan du' nanenilnaan buze'@
+@her name is Sandy@|@Sandy bize'@
+@her name is ts'eenat gaay@|@ts'eenat gaay moosi'@
+@here@|@na'@
+@here are the snowshoes@|@gaadu' 'aas@
+@here is my packsack@|@gaadu' sghael' zes@
+@here is the packsack@|@gaadu' xaelzes@
+@here is the tent@|@gaadu' taazes, gaadu' tazes@
+@here is the trap@|@gaadu' 'ael@
+@here-take it@|@na'-'u'iniis@
+@he's fishing for grayling@|@sheejil kah nach'ehch'io@
+@he's packing some firewood@|@tsat daadelsheek@
+@he's wearing a warm toque@|@tthiishoo nelch'ok nadel'aa@
+@he's wearing gloves@|@laajih shiit delniik@
+@high-bush cranberry@|@nanihnuuy@
+@his auntie is cutting fish (1)@|@mak'eye tsabaey t'aas@
+@his brother is wearing gloves@|@bunghae gits yidelniic@
+@his dad is sitting in the boat@|@uta' boat yizdaa, uta' ts'eyh yizdaa@
+@his dad is sitting on the boat@|@wuta' ts'ayh choh shiit eedah@
+@his dog@|@ulic'ae'@
+@his dog is hungry@|@ulic'ae' ditsiin'@
+@his dog is standing@|@ulic'ae' nadzen@
+@his dog is wagging its tail@|@ulic'ae' dece' lts'aas@
+@his dog is white@|@ulic'ae' lggayy@
+@his dog's sitting on ground@|@ulic'ae' ni' k'ezdaa@
+@his grandmother is sewing@|@utsucdae nanc'nekaan', wutsoo naach'initl'u'@
+@his house@|@ukonaa'@
+@his mon's cutting fish's head@|@unaan tsabaey tse' kant'aas@
+@his mon's sitting on ground@|@unaan ni' k'ezdaa@
+@his name is Frank@|@ghan du' Frank buze'@
+@his name is stacnel'iita'@|@buze' stacnel'iita'@
+@his own dog@|@delic'ae'@
+@his pants are blue@|@mehtle' dinihtl'iu@
+@his puppy is white@|@uliggaay' lgeye@
+@his sister is gaffing fish@|@udaedze' tsabaey sax@
+@his sister's carrying fish@|@udaedze' tsabaey ghalael@
+@his sister's carrying the fish@|@uyats'e'e' tsabaey ghalael@
+@his sister's standing in water@|@udaedze' tuu yii nadzen@
+@his younger sister is sleeping@|@wudia eetii@
+@his younger sister sleeps@|@udaedze' ztaen@
+@house@|@zdaa@
+@how about you?@|@nen du'?@
+@how are you?@|@nts'e dit'ae?@
+@how is he?@|@nts'e nt'ae?@
+@how is it outside?@|@na'aagh nts'e tkut'ae?, na'ooxo nts'e tkut'ae?@
+@how many spruce did you see?@|@nduuy ts'abael nil'aen'?@
+@i  saw two spruce trees@|@nadaeggi ts'abael nghal'aen'@
+@i am@|@'est@
+@i am better@|@ughel dazesdlaen@
+@i am cold@|@zesdlii@
+@i am crying@|@'estsagh@
+@i am dancing@|@c'eldzes@
+@i am drinking cold water@|@tuu nezk'adzi 'estnaan@
+@i am drinking tea@|@tsaey 'estnaan@
+@I am drinking water@|@tuu 'estnaan@
+@i am eating@|@c'esyaan@
+@i am eating dry meat@|@c'etsen' ggan 'esyaan, c'etsen' zggani 'esyaan@
+@i am eating fish@|@luka'e esyaan@
+@i am eating fry bread@|@c'aan nanezt'aey 'esyann@
+@i am fine@|@ugheli 'elaen, ugheli c'a 'elaen, ugheli elaen@
+@i am fishing@|@nactnelgets, nancnelgets@
+@i am going for water@|@tuu katiisyaa@
+@i am going hunting@|@naxacdestiis, staxacdiistaan@
+@i am going to the creek@|@c'ena' ts'e' tiisyaa@
+@i am going to the lake@|@men ts'e' tiisyaa@
+@i am going to the mountain@|@dzel ts'e' tiisyaa@
+@i am hungry@|@destsiin, destsiinn@
+@i am hunting for caribou@|@udzih ka naxacdestiis@
+@i am hunting for moose@|@deniigi 'uka naxacdestiis@
+@i am hunting for sheep@|@debae 'uka naxacdestiis@
+@i am not cold@|@k'ali' zesdlii, k'ali'i zesdlehe@
+@i am not hungry@|@k'ali' destsiin@
+@i am packing water@|@tuu naastkaal@
+@i am picking berries@|@gigi 'unesbe'@
+@i am playing@|@delghos@
+@i am really tired@|@t'ae' taastnak@
+@i am running@|@ghaltsel@
+@i am sewing@|@nancneskaan'@
+@i am sick@|@'ests'aat@
+@i am sitting@|@zesdaa@
+@i am sitting up@|@ts'etge' zesdaa@
+@i am sleeping@|@zestaen@
+@i am sleepy@|@naal sdila'@
+@i am standing@|@nghasdzen@
+@i am tanning a hide@|@c'ezes 'esogh@
+@i am walking@|@ghasyaal@
+@i am walking along@|@ghasyaal@
+@i didn't see any spruce@|@k'ali' ts'abael nel'aen', k'ali'i ts'abael nel'iil@
+@i do not have matches@|@k'ali' kon' diila, kon' li' diilaha@
+@i don't have matches@|@kon' k'ali'i diilaha@
+@i don't hear you@|@k'ali' nde'ests'agge, k'ali'i ndiists'agga@
+@i dont know@|@su'u@
+@i don't know@|@nsu'u@
+@i don't speak native language@|@k'ali'i kiisnaeze@
+@i don't understand our lang.@|@nekenaege' li'i diists'age@
+@i don't want tea@|@k'ali' tsaey sdilaha, k'ali'i tsaey sdilaha@
+@i don't want water@|@k'ali' tuu sdilaha, k'ali'i tuu sdilaha@
+@i got better@|@ugheli naysdlaen@
+@i have a hat@|@tsic'uus zel'aan@
+@i have a headache@|@stse' ghits'aat@
+@i have a shirt@|@deghaec zelniik@
+@i have a toothache@|@sghu' ghits'aat@
+@i have clothes@|@yu' zelaa@
+@i have dry spruce branches@|@dacts'iise diilaa, dats'iisi diilaa@
+@i have firewood@|@kon' tsedze' diilaa@
+@i have hats@|@tsic'uus zelaa@
+@i have matches@|@kon' diilaa@
+@i have mitts@|@gets zelaa@
+@i have moccasins@|@kentsiis zelaa@
+@i have pants@|@sel zelaa@
+@i have shavings@|@c'ezaes diilaa@
+@i have socks@|@tel zelaa@
+@i hear you@|@nde'ests'ak@
+@i hope you'll learn ahtna way@|@denae k'eh dohduldiixi@
+@i saw a baby fox@|@yunyeggay nghal'aen'@
+@i saw a calf moose@|@detsiigi nghal'aen'@
+@i saw a cow moose@|@deyaaze nghal'aen'@
+@i saw a moose@|@deniigi nghal'aen'@
+@i saw a rabbit@|@ggax nghal'aen'@
+@i saw a rainbow@|@tsulahdzaey ggaal' nel'aen'@
+@i saw a wolf pup@|@tikaann ggaay nghal'aen'@
+@i saw lots of black bears@|@sos nelt'e'e nghal'aen'@
+@i saw lots of caribou@|@udzih nelt'e'e nghal'aen'@
+@i saw lots of sheep@|@debae nelt'e'e nghal'aen'@
+@i saw lots of spruce@|@ts'abael nelt'e'e bghal'aen'@
+@i saw lots of wolves@|@tikaann nelt'e'e nghal'aen'@
+@i saw lots os spruce@|@ts'abael nelt'e'e nel'aen'@
+@i saw my older brother@|@sunghae nghal'aen'@
+@i saw my older sister@|@sadae nghal'aen'@
+@i saw my younger brother@|@scele nghal'aen'@
+@i saw my younger sister@|@sdaedze' nghal'aen'@
+@i saw one spruce@|@ts'abael ts'elk'ey nel'aen'@
+@i saw one spruce tree@|@ts'elk'ey ts'abael nghal'aen@
+@i saw the aurora borealis@|@yadebaey nel'aen'@
+@i saw the clouds@|@k'os nel'aen', k'os nghal'aen'@
+@i saw the moon@|@baldzaey nel'aen', ghaldzaey nghal'aen'@
+@i saw the puppies@|@liggaay nghal'aen'@
+@i saw the stars@|@son' nel'aen', son' nghal'aen'@
+@i saw the sun@|@saa nel'aen', saa nghal'aen'@
+@i saw two spruce@|@ts'abael nadaeggi nel'aen'@
+@i see a baby fox@|@naggedze ggaay nel'aen@
+@i see a bird@|@ggaaggi nel'aen@
+@i see a bull moose@|@nicuunn nel'aen@
+@i see a calf moose@|@detsiigi nel'aen@
+@i see a cow moose@|@deyaaze nel'aen@
+@i see a mallard duck@|@t'aay cogh nel'aen@
+@i see a moose@|@deniigi nel'aen@
+@i see a rabbit@|@ggax nel'aen@
+@i see a wolf pup@|@tikaann ggaay nel'aen@
+@i see an eagle@|@tudi nel'aen@
+@I see an owl@|@besiinn nel'aen@
+@i see lots of bears@|@sos nelt'e'e nel'aen@
+@i see lots of caribou@|@udzih nelt'e'e nel'aen@
+@i see lots os sheep@|@debae nelt'e'e nel'aen@
+@i see lots os wolves@|@nelt'e'e tikaann nel'aen@
+@i see my aunt@|@sak'eye nel'aen, sbets'e' nel'aen@
+@i see my older brother@|@sunghae nel'aen@
+@i see my older sister@|@sadae nel'aen@
+@i see my uncle@|@sez'ae nel'ae, staay nel'aen@
+@i see my younger brother@|@scele nel'aen@
+@i see my younger sister@|@sdaedze' nel'aen@
+@i see the puppies@|@laggaay nel'aen@
+@i speak a little athabaskan@|@denae k'eh xa'k'a hnesyaes@
+@i speak athabaskan@|@denae k'eh hnesyaes@
+@i speak native language@|@skenaege' 'el hnesyaes@
+@i stay at gulkana@|@gulc'ena' zesdaa@
+@i stay at mentasta lake@|@mendaes menn' zesdaa@
+@i stay at nabesna@|@nabaesna' zesdaa@
+@i stay at tanada lake@|@tanaada menn' zesdaa@
+@i stay in Batzulnetas@|@nataelde zesdaa@
+@i stay in Chistochina@|@tsestl'ets na' zesdaa@
+@i stay in gakona@|@ggax kuna' zesdaa@
+@i stay in Mantasta@|@Mendaesde zesdaa@
+@i stay in slana@|@stl'aa caegge zesdaa@
+@i stay in the bush@|@ts'el ta zesdaa@
+@i stay in the country@|@ni' ta zesdaa@
+@i stay in town@|@kon' ta zesdaa@
+@i understand a little native@|@xa'k'a denae de'ests'ak@
+@i understand native language@|@denae de'ests'ak@
+@i understand our language@|@nekenaey' de'sts'ak@
+@i understand you a bit@|@xa'k'a nde'ests'ak@
+@i understand you?@|@nde'ests'ak@
+@i want dry fish@|@ba' sdestlaan, ba' zggani sdestlaan@
+@i want dry meat@|@c'etsen' ggan 'eyne'esen, c'etsen' ggan sdestlaan@
+@i want fermented fish heads@|@nelk'oli  sdestlaan@
+@i want fish@|@luk'ae 'eyne'esen, luk'ae sdestlaan@
+@i want some meat soup@|@c'etsen' tu' sdestlaan@
+@i want some soup@|@taas 'eyne'esen, taas sdestlaan@
+@i want tea@|@tsaey sdestlaan@
+@i want water@|@tuu sdestlaan@
+@iam not hungry@|@k'ali'i destsiinn@
+@ill walk to my friend's@|@stlaen ts'e' tusya'a@
+@i'm a little tired@|@xa'k'a taghastnak@
+@i'm crying@|@'estsagh@
+@i'm making a fire@|@nakon'delk'aas, sii du' kon' delk'aas@
+@i'm really tired@|@t'ae' taghastnak@
+@i'm tanning a hide@|@sii du'; c'ezes gha ghestnaa@
+@i'm walking around the bush@|@ts'el ta natesdaas@
+@i'm walking by the creek@|@c'ena' baagha natesdaas@
+@i'm walking by the lake shore@|@men baagha natesdaas@
+@i'm walking round outside@|@na'ooxo loghasyaal@
+@i'm walking to my friend's@|@stlaen ts'e' ghesyaal@
+@i'm walking to the creek@|@c'ena' ts'e' ghesyaal@
+@i'm walking to the hill@|@tes ts'e' ghesyaal@
+@i'm walking to the lake@|@men ts'e' ghesyaal, men ts'e' tesyaas@
+@i'm walking to the lake (1)@|@ben ts'e' ghesyaal@
+@i'm walking to the mountain@|@dzel ts'e' ghesyaal@
+@i'm walking to the river@|@ts'itu' ts'e' ghesyaal, ts'itu' ts'e' ghesyaal@
+@i'm walking to the school@|@c'edohdeldiixe ts'e' tesyaas@
+@i'm walking to the school (1)@|@dohdeldiix ts'e' ghesyaal@
+@i'm walking to the store@|@c'utkaet ts'e' ghesyaal, c'utkaet ts'e' tesyaas@
+@in spring young animals born@|@daan' ta nunyae ggaay kulaen@
+@in summer there's mosquito@|@saenn ta kuggaedi kulaen@
+@is evelyn hungry?@|@evelyn ditsiin da?@
+@is is a beaver cap@|@tsa' tthiishoo nt'eh@
+@is is summer@|@saenn kulaen@
+@is it cloudy?@|@k'os da kulaen?, k'os kulaen da?@
+@is it cold outside?@|@na'ooxo hwnezk'ats?@
+@is it cold?@|@hwnezk'ats da?@
+@is it getting warm?@|@nohtnelkuun' da?, nohtnikuun' da?@
+@is it muddy?@|@lic'ak da kulaen?@
+@is it raining outside?@|@na'ooxo lcaan da?@
+@is it rainning outside?@|@na'aaxe lcaan da?@
+@is it really raining?@|@t'ae' da nilcaan?@
+@is it snowing?@|@lyaas da?@
+@is it still cloudy?@|@dats'ii da k'os kulaen?@
+@is it still cold?@|@dats'ii da kwnezk'ats?@
+@is it still raining?@|@dats'ii ghalcaan?@
+@is it summer?@|@saenn nakusdlaen da?@
+@is it sunny?@|@kesadi'aan da?, saa kedi'aan da?@
+@is it warm for you?@|@ni'ilkon' da?@
+@is it windy?@|@lts'ii da?, nilts'ii da?@
+@is the ice breaking up?@|@ten teldaek da?@
+@is the ice melting?@|@ten 'udezdlet da?@
+@is the snow melting?@|@nadaexi ta'udezdlet da?@
+@is there snow on the mountains@|@dzel ta da nadaexi kulaen?@
+@is this your cup?@|@gaann du' ntutiil' da nt'aey?, gaann du' ntutiil'?@
+@isit snowing?@|@lyaas da?@
+@is't hot@|@'ebeh@
+@it has not broken up@|@k'ali'i ten katnighole@
+@it is a little cold@|@xa'k'a kudezk'ats@
+@it is cloudy@|@k'os kulaen, k'os kuzdlaet@
+@it is cold@|@'edlih kulaen, edlih!, hwdik'aats, kudezk'ats@
+@it is cold inside the house@|@konax yii kudezk'ats@
+@it is daytime@|@dzaenn kulaen@
+@it is fall@|@nohtezk'aats@
+@it is fall time@|@nahlude sutkut'ae@
+@it is foggy@|@'aak kulaen@
+@it is getting to be fall time@|@nooteek'uu@
+@it is getting warm@|@nohtnelkuun', nohtnikuun'@
+@it is midnight@|@tets taniidze kulaen@
+@it is morning@|@sacaaghe kulaen, sacaangha kulaen@
+@it is muddy@|@lic'ak kuzdlaet@
+@it is my cup@|@stutiil'@
+@it is nice outside@|@na'ooxo ugheli kuzdlaet@
+@it is night@|@tedze kulaen, tets de kulaen, tets kulaen@
+@it is night (1)@|@tets kulaen@
+@it is night time@|@tets kulaen@
+@it is noon@|@dzaenn taniidze kulaen@
+@it is not cold@|@k'ali' kudezk'adze, k'ali'i kwnik'adze@
+@it is not my cup@|@k'ali'i stutiil' 'ilehe@
+@it is not snowing@|@k'ali' liaaze, k'ali' lyaas, k'ali'i lyaaze@
+@it is not sunny@|@k'ali' saa kedi'aan, k'ali'i kesadi'ahe@
+@it is not warm for me@|@li' ne'elkon'o@
+@it is not windy@|@k'ali'i lts'ehe, k'ali lts'ii@
+@it is raining@|@l'caan@
+@it is really cold@|@t'ae' kudezk'ats@
+@it is really good@|@laan' 'el ugheli@
+@it is snowing@|@lyaas@
+@it is spring@|@daan' kuzdlaen, daan' kuzdlaet@
+@it is still cold@|@dats'ii k'os kulaen, dats'ii kudezk'ats@
+@it is still muddy@|@lic'ak dats'ii kulaen@
+@it is still rainning@|@dats'ii lcaan@
+@it is summer@|@saenn nakusdlaen, shiin hoolii@
+@it is summertime@|@saenn sutkut'ae@
+@it is sunny@|@kesadi'aan, saa kedi'aan@
+@it is turning cold@|@nohtezk'aats@
+@it is warm for me@|@ne'elkon, sel nohnikuun'@
+@it is warm for you?@|@nel da kwelkon'?@
+@it is windy@|@lts'ii@
+@it is winter@|@xay kulaen, xey kulaen@
+@it isn't warm fort me@|@k'ali'i sel kwnilkon'o@
+@it looks like he's dreaming@|@na'ite' k'i'eltsii@
+@it sounds good@|@ugheli dohdilaen@
+@it's a white dog@|@lii delgay nt'eh@
+@it's cold@|@'edlih, 'edlii, kwnezk'ats@
+@it's hot@|@'ebeh@
+@kanats'alnaan is drinking tea@|@kanats'elnaan tsaey 'etnaan@
+@kanats'elnaan is eating@|@kanats'elnaan c'eyaan@
+@king salmon@|@luk'ae ce'e@
+@lake@|@men@
+@leaves are falling@|@ch'it'aa' nateedeek@
+@leaves are growing@|@c'et'aan' neyaex@
+@ling cod@|@ts'aann@
+@listen@|@c'edi'its'ak!@
+@little boy is dragging in wood@|@chiil gaay tsat nadat-lio@
+@little sister likes dry fish@|@wudia gaay ma' maa elkayh@
+@lots of ducks are swimming@|@nelt'e'e dets'eni natel'ol@
+@low-bush cranberry@|@ntl'et@
+@lynx@|@niduuy@
+@make fire!@|@kon' dilk'aas!, kon' nadilk'aas!@
+@man@|@denae@
+@matches@|@k'on@
+@me too@|@sli du'@
+@mee too-i'm fine@|@si cu ugheli 'elaen@
+@mitts@|@gets@
+@moccasins@|@kentsiis@
+@moose@|@deniigi@
+@moose calf@|@detsiigi@
+@morning@|@sacaaghe@
+@mosquito@|@kuggaedi@
+@mother@|@snaan@
+@mountain@|@dzel@
+@mouse@|@dluunn@
+@mushroom@|@c'eneyy'@
+@my auntie is sewing@|@sak'eye nancnekaan'@
+@my brother is dancing@|@scele c'eldzes@
+@my brother is running@|@scele ghaltsel@
+@my brother is sitting@|@scele zdaa@
+@my brother is sleeping@|@scele ztaen@
+@my brother is standing@|@scele nadzen@
+@my dog@|@slic'ae'@
+@my dog is atnding@|@slic'ae' nadzen@
+@my dog is cold@|@slic'ae' sdlii@
+@my grandmother is sitting@|@stsucdade zdaa@
+@my head hurts@|@stse' ghits'aat@
+@my house@|@skonaa'@
+@my name is Katie@|@Katie suze'@
+@my name is Lena@|@sii du' lena suze'@
+@my name is ts'estsi'ta@|@ts'estsi'ta' suze'@
+@my shoes are muddy@|@ske' lic'ak neghidaek@
+@my uncle is packing water@|@sez'ae tuu naatkaal@
+@my younger sister is walking@|@sdaedze' natedaas@
+@neck@|@uk'os@
+@New Year's Eve@|@c'edzak tedze@
+@night@|@tedze@
+@nine@|@k'etnesi@
+@nis name is chahjakta@|@moosi' chahjakta@
+@no@|@'ene'@
+@older brother@|@sunghae@
+@older sister@|@sadae@
+@one@|@ts'elk'ey@
+@one duck is swimming around@|@ts'elk'ey dets'eni natetbaes@
+@our dog@|@nelic'ae'@
+@our dog is standing@|@nelic'ae' nadzen@
+@our house@|@nekonaa'@
+@owl@|@besiinn@
+@packsack@|@xael zes@
+@pants@|@sel@
+@pike@|@'ulgaadze, c'ulgaadze@
+@pin-nose whitefish@|@kesten'@
+@plate@|@ts'aac@
+@pocket knife@|@k'nalkaede@
+@poor thing@|@tegeh@
+@puppy@|@liggaay@
+@rabbit@|@ggax@
+@raven@|@tsaghani@
+@really good@|@t'ae' ugheli@
+@red@|@elt'ele, lt'eli@
+@red hat@|@tsic'uus elt'ele, tsic'uus lt'eli@
+@rhurbarb is growing@|@t'aan' luus neyaex@
+@rock@|@ts'es@
+@rosehips have lots os seeds@|@ncuus bentse' kulaen@
+@salmon@|@luk'ae@
+@salmonberry@|@nkaal@
+@seven@|@konts'aghi@
+@shavings@|@c'ezaes@
+@she cuts fish on the willows@|@wutsoo luuk k'ay' k'it ehk'aay@
+@she is cutting fish's heads@|@luk'ae tse' el tezt'aats@
+@she is eating dry fish@|@ba' yaan@
+@she is picking berries@|@gigi 'unebe'@
+@she is sewing moccasins@|@kee naanitl'u', kentsiis nanekaan'@
+@she is tanning a hide@|@c'ezes gha ghetnaa@
+@she is walking round the lake@|@ben baagha natedaas@
+@she is walking round the river@|@ts'itu' baagha natedaas@
+@she is walking to the school@|@c'edohdeldiixe ts'e' tezyaa@
+@sheep@|@debae@
+@she's looking after her dog@|@delic'ae' k'anelta'@
+@she's walking around the creek@|@c'ena' baagha natedaas@
+@shirt@|@deghaec@
+@sit down@|@zidaa@
+@six@|@gistaann@
+@small@|@ggaay@
+@small knife@|@tsactsiy ggaay@
+@snowbird@|@ggaex@
+@snowbirds are flying around@|@ggaex natnedel@
+@snowshoes@|@'aas@
+@socks@|@tel@
+@soup@|@taas@
+@spider@|@tsukolahdzaey@
+@spoon@|@tseskaa@
+@spruce branches@|@dacts'iisi@
+@stand up@|@nghidzen, nidzen!@
+@stick@|@decen@
+@stomach@|@utsaal'@
+@story@|@nahwkolnic@
+@story about stacnel'iita'@|@stacnel'iita' gha nahkolnic@
+@summer has arrived@|@saenn kuzdlaet@
+@swan@|@taggos@
+@take it@|@'u'iniis@
+@tea@|@tsaey@
+@ten@|@lazaann@
+@tent@|@taazes@
+@thank you@|@tsen'aen, tsin'aen@
+@that's all@|@xonahaan, yii yaenn' kunan@
+@that's enough@|@xonah@
+@thats not right@|@k'ali'i ugheli dohdilehe@
+@the ant is crawling around@|@nadosi nateduus@
+@the ants are crawling around@|@nadosi natel'aas@
+@the bird is flying around@|@ggaaggi natnet'ax@
+@the boy is cold@|@ciil ggaay sdlii@
+@the boy is fishing@|@ciil nacnelgets@
+@the boy is hunting@|@ciil naxacdetiis@
+@the boy is tired@|@ciil ggaay taghatnak@
+@the boy is walking@|@ciil ghayaal@
+@the boy is walking along@|@ciil ghayaal@
+@the boy wants berries@|@ciil ggaay gigi idestlaan@
+@the boy wants dry fish@|@ciil ggaay ba' idestlaan@
+@the boy worked all day@|@ciil ggaay dzaenn nac'atna'@
+@the boy worked all day (1)@|@dzaenn ciil ggaay nac'atnan'@
+@the boy's hat is red@|@chiil gaay tthiishoo elt'al@
+@the butterfly is flying around@|@lahleli natnett'ax@
+@the dog is standing@|@lic'ae nadzen@
+@the dog is wagging its tail@|@lii delgay chedeltuut@
+@the dog wants fish@|@lii delgay luuk iyniithanh@
+@the duck is flying around@|@dets'eni natnet'ax@
+@the ducks are flying around@|@dets'eni natnedel@
+@the end@|@t'axo' ay shii'@
+@the fish are in the pot@|@tsabaey tsits'aak yizdlaa@
+@the fish heads are in a pot@|@tsabaey tse' ts'aak yizdlaa@
+@the fly is flying around@|@don' natnett'ax@
+@the girl is cold@|@ts'akae ggaay sdlii@
+@the goose is walking around@|@xax natedaas@
+@the grouse is making a nest@|@'el deyaan det'ox ltsii@
+@the grouse's making his nest@|@deyh det'ox ltsii@
+@the ice is breaking up@|@ten ketnatghotl, ten teldaek@
+@the ice is melting@|@ten 'udezdlet@
+@the leaves are falling@|@c'et'aann' nadaex@
+@the man is dancing@|@denae c'eldzes@
+@the man is going hunting@|@denae staxacdetiis@
+@the man is hunting@|@denae naxacdetiis@
+@the man is hunting for caribou@|@denae udzih 'uka naxacdetiis@
+@the man is hunting for moose@|@denae deniigi 'uka naxacdetiis@
+@the mosquito stung me@|@kuggaedi seyaan, kuggaedi sezggot@
+@the puppy is wagging its tail@|@liggaay dece' lts'aas@
+@the puppy wants some fish@|@liggaay tsabaey 'eynizen@
+@the raven is eating@|@tsaghani c'eyaan@
+@the road is slippery@|@teni kulket, teni kulket@
+@the snow is melting@|@nadaexi ts'udezdlet@
+@the spider is crawling around@|@tsukolahdzaey natedaas, tsulahdzaey nateduus@
+@the spider is making a web@|@tsukolahdzaey danc'etl'u'@
+@the spider is making a web (1)@|@tsulahdzaey deggaal' dantl'u'@
+@the swan is swimming around@|@taggos natetbaes@
+@the woman is drinking tea@|@ts'akae tsaey tnaan@
+@the woman is picking cranberry@|@ts'akae xay gigi 'unebe@
+@the woman is sewing@|@ts'akae nancnekaan'@
+@the woman is sitting up@|@ts'akae ts'etge' zdaa@
+@the wood is stacked full@|@tsets katneghildok@
+@their dog@|@xulic'ae'@
+@their dog is standing@|@xulic'ae' nadzen@
+@their house@|@hukonaa'@
+@there are fish in the net@|@tehbiil yii tsabaey zdlaa@
+@there are lots of game animals@|@nunyae ggaay kulaen@
+@there are salmon in the pots@|@luk'aets'aak yizdlaa@
+@there is snow on the mountains@|@dzel ta nadaexi kulaen@
+@these are beaver tracks@|@gaann du' tsa' k'eh@
+@these are beaver traps@|@gaann c'a ts'a 'ael' sunt'ae@
+@these are caribou tracks@|@gaann du' udzih k'eh@
+@these are fox tracks@|@gaann du' naggedze k'eh@
+@these are lynx tracks@|@gaann du' niduuy k'eh@
+@these are moose tracks@|@deniigi k'eh sutkut'ae, gaann du' deniigi k'eh@
+@these are mouse tracks@|@gaann du' dluunn k'eh@
+@these are mouse traps@|@gaann c'a dluunn 'ael' sunt'ae@
+@these are wolf tracks@|@gaann du' tikaann k'eh@
+@these are wolverine tracks@|@gaann du' naltsiis k'eh@
+@they are@|@ket@
+@they are drinking tea@|@tsaey ketnaan, tsaey su ketnaan, tseey hitnaa@
+@they are drinking water@|@tuu ketnaan@
+@they are eating@|@c'ekeyaan, nach'ihi'aal@
+@they are eating fish@|@luk'ae keyaan@
+@they worked all day@|@dzaenn nac'ekatnan'@
+@they worked nakatna'@|@they worked all day@
+@they'ar telling stories@|@nahkolnic@
+@this is@|@gaann du', sunt'ae@
+@this is a baby@|@gaann du' sc'aen nt'ae, sc'enggaay sunt'ae@
+@this is a baby rabbit@|@ggax ggaay nt'ae, ggax uggaay sunt'ae@
+@this is a bear cub@|@sos ggaay nt'ae, sos ggaay sunt'ae@
+@this is a bearberry@|@gaani du' denesi@
+@this is a berry@|@gaani du' gigi, gigi sunt'ae@
+@this is a black hat (1)@|@gaann du' tsic'uus lt'uudzi@
+@this is a blackberry@|@gaani du' noht'aesi@
+@this is a blanket@|@gaann du' ts'ede'@
+@this is a boy@|@ciil sunt'ae, gaann du' ciil ggaay nt'ae@
+@this is a butterfly@|@gaann c'a lahleli sunt'ae, gaann du' lahleli@
+@this is a cane@|@gaann du' tets@
+@this is a caribou hide@|@gaann udzih zes sunt'ae, udzih zes nt'ae@
+@this is a child@|@gaann du' sc'enggaay nt'ae, sc'aen sunt'ae@
+@this is a cup@|@gaann du' tutiil@
+@this is a currant@|@gaani du' danihnuuy@
+@this is a dark blue hat@|@gaann du' tsic'uus datl'edzi@
+@this is a dolly varden@|@gaani du' ts'unghastlaeggi@
+@this is a fish@|@luk'ae sunt'ae@
+@this is a fly@|@gaann c'a don' sunt'ae, gaann du' don'@
+@this is a girl@|@gaan du' ts'akae ggaay nt'a, ts'akae ggaay sunt'ae@
+@this is a grayling@|@segele sunt'ae, segeli sunt'ae@
+@this is a grayling (1)@|@gaani du' segeli nt'ae@
+@this is a grey hat@|@gaann du' tsic'uus ibaay@
+@this is a hide@|@gaann du' c'ezes nt'ae@
+@this is a high-bush cranberry@|@gaani du' tsanltsael, nanihnuuy sunt'ae@
+@this is a king salmon@|@gaani du' luk'ae ce'e nt'ae@
+@this is a lake trout@|@gaani du' baet@
+@this is a ling cod@|@gaani du' ts'aann@
+@this is a low raspberry@|@gaani du' dinc'ogge'@
+@this is a low-bush cranberry@|@gaani du' xay gige', ntl'et sunt'ae@
+@this is a man@|@denae sunt'ae, gaan du' ciil nt'ae@
+@this is a moose calf@|@detsiigi ggaay nt'ae, gaann c'a detsiigi sunt'ae@
+@this is a moose hide@|@deniige zes sunt'ae, deniigi zes nt'ae@
+@this is a mosquito@|@gaann c'a kuggaedi sunt'ae, gaann du' kuggaedi@
+@this is a mushroom@|@c'eneyy' nt'ae@
+@this is a pike@|@'ulgaadze sunt'ae, gaani du' c'ulgaadze nt'ae@
+@this is a pin-nose whitefish@|@gaani du' kesten'@
+@this is a plate@|@gaann du' ts'aac@
+@this is a raspberry@|@gaani du' danc'ogge'@
+@this is a red hat (1)@|@gaann du' tsic'uus lt'eli@
+@this is a rosehip@|@gaani du' ncuus@
+@this is a salmon@|@gaani du' luk'ae@
+@this is a salmonberry@|@gaani du' nkaal, nkaal sunt'ae@
+@this is a silverberry@|@gaani du' danihbaa'@
+@this is a small boy@|@gaa du'ciil ggaay nt'ae@
+@this is a spider (1)@|@gaann du' tsulahdzaey@
+@this is a spoon@|@gaann du' skaa, gaann du' tseskaa@
+@this is a spruce bough@|@gaann ts'abael 'ele' sunt'ae@
+@this is a white hat (1)@|@gaann du' tsic'uus lggeyi@
+@this is a whitefish@|@gaani du' tsabaey nt'ae@
+@this is a woman@|@gaann du' ts'akae nt'ae, ts'akae sunt'ae@
+@this is a yellow hat@|@gaann du' tsic'uus ltsooy@
+@this is a young boy@|@jin chiil gaay nt'eh@
+@this is an ant@|@gaann c'a nadosi sunt'ae, gaann du' nadosi@
+@this is an owl@|@gaann besiinn sunt'ae@
+@this is fireweed@|@luc'usk'a' nt'ae@
+@this is grass@|@gaann tl'ogh sunt'ae, tl'ogh nt'ae@
+@this is his arm@|@gaann du' uggaan'@
+@this is his chest@|@gaann du' ut'aay@
+@this is his cup@|@gaann du' ututiil'@
+@this is his hair@|@gaann du' utsegha'@
+@this is his head@|@gaan du' utse'@
+@this is his neck@|@gaann du' uk'os@
+@this is his stomach@|@gaann du'u utsaal'@
+@this is my cane@|@gaann du' stedze'@
+@this is my ear@|@gaann du' sdzaghe'@
+@this is my elbow@|@gaann du' sts'os@
+@this is my eye@|@gaann du' snaegge'@
+@this is my face@|@gaann du' snaen'@
+@this is my father@|@gaann du' sta', gaann sta' sunt'ae@
+@this is my foot@|@gaann du' ske'@
+@this is my grandfather@|@gaann du' stsiye, gaann stsiye sunt'ae@
+@this is my grandmother@|@gaann du' stsucdae, gaann stsucdae sunt'ae@
+@this is my knee@|@gaann du' sggot@
+@this is my mother@|@gaann du' snaan, gaann snaan sunt'ae@
+@this is my nose@|@gaann du' sentsiis@
+@this is my plate@|@gaann du' sts'aage'@
+@this is my tooth@|@gaann du' sghu'@
+@this is our blanket@|@gaann du' nets'edae'@
+@this is rhurbarb@|@t'aan' luus nt'ae@
+@this is stacnel'iita' grandmo@|@stacnel'iita' utsucdae nt'ae@
+@this is the boy's dog@|@gaan du' ciilggaay ulic'ae'@
+@this is wild celery@|@gguus nt'ae@
+@this is your spoon@|@gaann du' neskaa'@
+@three@|@taaggi@
+@town@|@kon'@
+@trap@|@'ael@
+@trout@|@baet@
+@two@|@nadaeggi@
+@water@|@tuu@
+@we are@|@ts'et@
+@we are drinking tea@|@tsaey ts'etnaan@
+@we are drinking water@|@tuu ts'etnaan@
+@we are eating@|@'sc'eyaan@
+@we are eating fish@|@luk'ae ts'eyann@
+@we are fine@|@ugheli ts'ilaen@
+@we tell a story about Tsuul Tà@|@Tsuul Ta' xah nats'iholnik@
+@what are the ducks doing?@|@dets'eni nts'e t'aen?@
+@what are they doing?@|@nts'aa hidi'?, nts'e tkst'aen?@
+@what are they drinking?@|@yidi'i ketnaan?@
+@what are you (pl) drinking?@|@yidi'i ohtnaan?@
+@what are you doing?@|@dit'aen?, nen du; nts'e dit'aen?, nts'e dit'aen?@
+@what are you drinking?@|@ndi'i 'itnaan?, yidi'i 'itnaan?@
+@what are you hunting for?@|@yidi'i 'uka naxacditiis?@
+@what are you hunting?@|@ndi'i 'uka naxacditiis?@
+@what did you see in the sky? 1@|@yaak'et ndi'i nil'aen'?@
+@what did you see?@|@yidi'i nghil'aen'?@
+@what do you have?@|@ndi'i zilaa?, nen du'; yidi'i dizilaa?, yidi'i zilaa?@
+@what do you have? (1)@|@ndi'i dizilaa?@
+@what do you see?@|@ndi'i nil'aen?@
+@what do you want?@|@ndi'i ni'izen?, yidi'i 'eyni'izen?@
+@what does the boy want?@|@ciil ggaay ndi'i ni'izen?@
+@what doeshe want?@|@yidi'i 'eynizen?@
+@what is growing?@|@ndi'i neyaex?, yidi'i na'ooxo neyaex?@
+@what is he cooking?@|@dii ch'ah eht'iah?, ndi'i da yilt'aesi?@
+@what is he doing?@|@ghan nts'e t'aen?, nts'e t'aen?@
+@what is he fishing for?@|@dii kah nach'ehch'io?@
+@what is his grandmo doing?@|@utsucdae nts'e t'aen?@
+@what is his mother doing?@|@unaan nts'e t'aen?@
+@what is his name?@|@ghan du' nts'e buze'?, nts'e bis'e@
+@what is kanats'elnaan doing?@|@kanats'elnaan nts'e t'aen?@
+@what is my auntie doing?@|@sak'eye nts'e t'aen?@
+@what is my brother doing?@|@scele nts'e t'aen?@
+@what is my grand mother doing?@|@stsucdae nts'e t'aen?@
+@what is my uncle doing?@|@sez'ae nts'e t'aen?@
+@what is native name?@|@denae k'eh nts'e nuze'?@
+@what is she eating?@|@yidi'i yaan?@
+@what is stacnel'iita' doing?@|@stacnel'iita' nts'e t'aen?@
+@what is the ant doing?@|@nadosi nts'e t'aen?@
+@what is the boy doing?@|@ciil nts'e t'aen?, naa ciil nts'e t'aen?@
+@what is the boy doing? (1)@|@chiil gaay nts'atdi'?@
+@what is the duck doing?@|@dets'eni nts'e t'aen?@
+@what is the little boy doing?@|@ciil ggaay nts'e t'aen?@
+@what is the man doing?@|@denae nts'e t'aen?, naghat denae nts'e t'aen?@
+@what is the man hunting for?@|@denae yidi'i 'uka naxacdetiis?@
+@what is the man hunting?@|@denae ndi'i 'uka naxacdetiis?@
+@what is the woman doing?@|@ts'akae nts'e t'aen?@
+@what is this?@|@gaan di' nt'aey?, gaan yidi'i c'ant'aey?, yidi'i c'ant'aey?@
+@what is this? (1)@|@ndi' nt'aey?@
+@what is your name?@|@nen du' nts'e nuze'?, nts'e nuze'?@
+@what kind of hide is this?@|@ndi'i zes nt'aey?@
+@what kind of tracks are these?@|@ndi'i k'eh?@
+@what the woman is doing?@|@naghat ts'akae nts'e t'aen?@
+@what's his grandmother doing?@|@wutsoo nts'atdi'?@
+@what's my younger sister doing@|@sdaedze' nts'e t'aen?@
+@what's younger sister doing?@|@wdia gaay du' nts'adi?@
+@where aer you walking to?@|@ndehts'e' ghiyaal?@
+@where are the snowshoes?@|@'aas du' nt'ii?, nt'ii 'aas?@
+@where are you going?@|@nduu tiziyaas?@
+@where are you staying?@|@ndaa zidaa?@
+@where are you walking to?@|@nduu ghiyaal?@
+@where do you stay?@|@ndae zidaa?@
+@where is he walking to?@|@ndehts'e' ghayaal?, nduu tayaal?@
+@where is he walking?@|@nduu loghayaal?@
+@where is my hat?@|@nt'ii stsic'uuz'?@
+@where is my moccasins?@|@nt'ii skentsiiz?@
+@where is my pants?@|@nt'ii ssele'?@
+@where is my shirt?@|@nt'ii sdaghaege'?@
+@where is my socks?@|@nt'ii stele'?@
+@where is she walking around?@|@nduu natedaas?@
+@where is the dog sitting?@|@lic'ae ndae zdaa?@
+@where is the packsack?@|@xael zes nt'ii?@
+@where is the tent@|@nt'ii tazes?, taazes nt'ii?, tazes du' nt'ii?@
+@where is the trap?@|@'ael du' nt'ii?, 'ael nt'ii?, nt'ii 'ael?@
+@where is your packsack?@|@nghael' zes du' nt'ii?, nt'ii nghael' zes@
+@where's my mitts?@|@nt'ii sgedze'?@
+@white@|@lggeye, lggeyi@
+@white hat@|@tsic'uus lggeye, tsic'uus lggeyi@
+@whitefish@|@tsabaey@
+@who are these people?@|@gaann 'en bedi'i nt'aenn?, jin doo iin nt'ay?@
+@who did you see?@|@bedi'i nil'aen?@
+@who do you see?@|@bedi'i nghil'aen'?@
+@who is that person?@|@bedi nt'aenn?@
+@who is this?@|@bedi'i c'ant'aenn?, bedi'i nt'aenn?, jin doo nt'ay@
+@who is this? (1)@|@yen bedi nt'aenn?@
+@wild celery@|@gguus@
+@wild celery is growing@|@gguus nanetyaex, gguus neyaex@
+@wild rhurbarb@|@t'aan' luus@
+@willow leaves are growing@|@k'ey' t'aann' neyaex@
+@wolf@|@tikaann@
+@wolverine@|@naltsiis@
+@wolves@|@tikaann@
+@woman@|@ts'akae@
+@yellow@|@ltsooy@
+@yellow hat@|@tsic'uus ltsooy@
+@yes@|@'aen'@
+@you (pl) are drinking tea@|@tsaey 'ohtnaan@
+@you are@|@'it@
+@you are (pl)@|@'oht@
+@you are drinking tea@|@tsaey 'itnaan@
+@you are drinking water@|@tuu itnaan@
+@you are drinking water (pl)@|@tuu ohtnaan@
+@you are eating@|@c'iyaan@
+@you are eating (pl)@|@c'ohyaan@
+@you are eating fish@|@luk'ae iyaan@
+@you are eating fish (pl)@|@luk'ae ohyaan@
+@you guys be quiet@|@dadolghaets, dadzohneh@
+@you guys don't do that@|@'ene' dazoht'aenn@
+@you guys listen@|@c'edo'ohts'ak@
+@you guys sit down!@|@dezolts'ii!@
+@you guys stand up@|@nidezolyaa, nidozolyaa!@
+@you sit down!@|@zidaa!@
+@younger brother@|@scele@
+@younger sister@|@sdaedze'@
+@your dog@|@nlic'ae'@
+@your dog (pl)@|@nuhlic'ae'@
+@your dog is atanding (pl)@|@nuhlic'ae' nadzen@
+@your dog is standing@|@nlic'ae' nadzen@
+@your house@|@nkonaa'@
+@your house (pl)@|@nuhkonaa'@
+

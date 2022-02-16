@@ -1,0 +1,2327 @@
+@Q'anjob'al@|@English@
+@Author name@|@J D Young@
+@Font@|@Arial\20\Arial\20@
+@'@|@category suffix indicating that a verb is transitive@
+@-'a@|@category suffix indicating a radical transitive verbs@
+@-aj@|@as a verb means to go up, as a directional it means upwards@
+@-al@|@suffix added to an adjective turning it into an abstract noun (k'un means 'soft' - sk'unal means 'it's softness'), suffix added to a numeric root to indicate that the indicated elements participate in the same action or have the same characteristics or state (skank'onal means 'all four animals' - s marks possession because sumative numbers are always possessed - kan 'four' k'on is a numeric classifier for animals -al), suffix added to some nouns when they are possessed@
+@-an@|@suffix added to a positional root that makes it a positional adjective describing something that has the position indicated by the root (chotan ayoq - sitting down)@
+@-aq'-@|@give@
+@-ay@|@as a verb it means to go down or get down, as a directional it means downward, suffix indicating an intransitive verb derived from a positional@
+@-b'@|@a versive suffix added to adjectives to form an intransitive verb that becomes or takes on the quality of the adjective (saq 'white' - xsaqb'aneni 'whitened it')@
+@-b'a@|@reflexive pronoun suffix (sb'a means 'himself' or 'herself' or 'itself' while hinb'a means 'myself' etc.)@
+@-b'al@|@locative affix that changes the meaning of a verb to indicate the place where the action occurred or the instrument that was used to execute the action indicated by the sentence (xewi means rest while xewb'al means resting place - k'isa' means to sweep while k'isb'al means broom), derives a transitive verb from a positional base and indicates that something has to be left in the position indicated by the base (kox- is a positional root meaning twisted while hoq hakoxb'aj ayoq means you will twist it)@
+@-b'i@|@affix that changes the meaning of a word (ow means anger - max owb'i means he got angry)@
+@-b'il@|@suffix that indicates the results of the culmination of an action (txon- root meaning 'to sell' - txomb'il means 'sold')@
+@-cha@|@passive marker@
+@-chaj@|@suffix that makes an action passive in transitive verbs (Hoq tenchaj ayteq te mansan 'The apples will be picked')@
+@-chajom@|@an infrequently used suffix that marks a verb as passive (it is a combination of -chaj and -om the 'j' is added to keep from having two vowels appear together)@
+@-eb'@|@numeric classifier for things@
+@-ek'@|@as a verb it means to pass, as a directional it means toward or to the other side@
+@-el@|@as a verb means to leave, as a directional it means outward@
+@-enaq@|@suffix indicating that something strongly has the quality of the adjective that it is attached to (saq tanenaq@
+@-eq@|@affix that functions as a pluralizer when it is attached to miman (miman means big - mimeq na means big houses)@
+@-etoq@|@suffix that is always possessed and that indicates the instrument  used to carry out the action (yetoj te te' with the stick' - yetoz ch'en machitej 'with the machete')@
+@-i@|@suffix that classifies a verb as intransitive in the incompletive and progressive aspects (Yekal hoqon jayoq - We will come tomorrow)@
+@-il@|@affix that changes the meaning of a word (watx' means good - swatx'il means its goodness)@
+@-inaq@|@affix that intensifies the word to which it is attached (yax means green - yax mayinaq means very green)@
+@-j@|@suffix added to derived transitive verbs (it does not change the meaning of the word), suffix indicating an intransitive verb derived from a noun@
+@-k'on@|@numeric classifier for animals@
+@-l@|@suffix indicating an intransitive verb derived from a noun@
+@-laq@|@acts as a pluralizer in certain cases and indicates abundance or a place where there is a lot of the thing it modifies (ch'enlaq - a lot of rocks)@
+@-lay@|@suffix that makes an action passive in transitive verbs and derived transitive verbs (Hoq tenlay ayteq te mansan 'The apples will be picked')@
+@-n@|@suffix indicating an intransitive verb derived from a noun, suffix that is used if the agent is the first or second person and the verb agrees with the patient but the agent is still the focus of a transitive verb or a derived transitive verb@
+@-naq@|@suffix that indicates the results of an action that has terminated (kam 'to die' plus naq gives the result 'dead')@
+@-o'@|@category suffix indicating a radical transitive verb for those radical transitive verbs that have an 'o' in their root@
+@-ok@|@as a verb means to enter, as a direccional it means inward, suffix that can be used to express the desire to get something done or wish you had done something or the desire to do something in the future (choq lowi 'I hope that he or she eats')@
+@-om@|@marks a derived transitive verb as passive (this has frequent use in Soloma)@
+@-on@|@marks a verb as transitive, suffix that is used if the agent is the first or second person and the verb agrees with the patient but the agent is still the focus of a transitive verb or a derived transitive verb@
+@-oq@|@suffix that classifies verbs as intransitive in the potential aspect@
+@-tane@|@affix that is added to a root or transitive base to indicate that the action is done several times on the same recipient (ten means to push or to move - max stenob'tanej means pushed it or moved it several times)@
+@-taq@|@suffix that indicates that (in part) something has the quality of the adjective that it is joined to (chi' means 'sweet' while chitaq means 'half sweet' and kawtaq means 'a little hard' or 'kind of hard' or 'a bit hard' or even 'a little stiff')@
+@-teq@|@directional meaning from there toward here, when this directional suffix is used it is understood that the speaker is in the same place as the person who is doing the action (in other words they are together)@
+@-toq@|@directional meaning from here toward there, this directional suffix indicates that the speaker is found opposite the person doing the action@
+@-tze@|@suffix that forms the causitive transitive base when added to an intransitive root (q'ayi means accustom  - max q'aytej means got accustomed to it)@
+@-u'@|@category suffix indicating a radical transitive verb for those radical transitive verbs that have an 'u' in their root@
+@-w@|@suffix indicating the antipassive of incorporation where the patient is incorporated in the verb that is made antipassive it doesn't include a relational noun and the verb agrees with the agent and implies a general or habitual action (A naq winaq xmuqwi kamnaq tx'i' - He is the man who burried dead dogs)@
+@-waj@|@antipassive of focus suffix that is rarely used in Q'anjob'al and is restricted to certain radical derived verbs that indicate an action that takes place just once and is not continuous@
+@-wan@|@numeric classifier for people@
+@-wom@|@suffix that changes a word into the person who does that type of action (mulnajil means work - mulnajwom means worker)@
+@0@|@the absence of an article such as jun or jan or juntzan means that a noun is definate or known (no tx'i' 'the dog' or te te' 'the tree')@
+@a'@|@her, him, the water, to give, when the classifier for water (ha) is used in place of a noun it is shortened to a' (Max toj naq unin yul a' - The boy fell in the water)@
+@a'ej@|@water@
+@a'walil@|@night@
+@a heb'@|@them, they@
+@a heb' jixhmam tu@|@our grandparents@
+@a heb' komam tu@|@our parents@
+@a ix@|@she@
+@a naq@|@he@
+@A ton cham komam Dyos@|@It is our father God@
+@a wal no miman chej@|@the big horse@
+@ab'@|@hammock@
+@ab'ak@|@a day of the ritual Mayan calendar (On Ab'ak they ask for food)@
+@ab'aq@|@soot@
+@ab'e@|@to hear, to feel@
+@ab'ejal@|@a net made of agave fibers that is used when harvesting or preparing corn for storage, rustic bag-shaped net made of vegetable fibers and used to transport fruits and other loads@
+@ab'en@|@a request or petition that a person makes to another person to perform a certain task or to take care of someone or something, commission (to do something)@
+@ab'i@|@to feel, to hear, to listen@
+@ab'il@|@year (The new year is just around the corner), years of someones age (In just three more years Alberto will be a teenager)@
+@ab'ix@|@story, notice@
+@ab'le'@|@to taste, to try out, to try out or sample something@
+@ab'lej@|@to taste, to try out, to try out or sample something@
+@ab'lej to@|@try it, sample it@
+@ab'om yet@|@nosy (Maria is very nosy)@
+@ab'wali@|@to listen@
+@ab'xalwom@|@listener, the one that listens to what is said (A listener went to the meeting)@
+@ach@|@are you?, you (singular), you are (Hach hachti max hach b'et b'ay konob'? Are you the one who went to the village?)@
+@ach'ej@|@teenager, youth, boy in his teens@
+@achimb'al@|@bathtub@
+@achin@|@to bathe, to swim@
+@achinne'@|@bathe@
+@achinnej@|@bathe@
+@ahek'toq@|@to pass an object to the other extreme (Pass these potatoes to the other side the table)@
+@ahin@|@I@
+@ahon@|@we@
+@aj@|@directional meaning up, from (place of origin - aj Yul K'ol - from Yul K'ol), this word indicates the place of birth or where one lives or the place one is from (Aj konob' - I am from the village), rocket, common reed or yellow cane, cane@
+@aj'an@|@healer, healing@
+@aj'et@|@owner, a child that is capable of joining in something (The little girl is capable of joining in on the conversation), an expert in wrongdoing @
+@aja'@|@fly@
+@ajan@|@corn, doctor, get up on (Mount your horses), go up, healer, maize, roasting ear@
+@ajan b'utx@|@nixtamal of corn that is beginning to mature@
+@ajan b'utx pat@|@corn tortilla made from nixtamal that was made with immature corn@
+@ajan ulul@|@atole made from immature corn@
+@ajaw@|@God@
+@ajawte'@|@white sapote fruit@
+@ajb'ab'el@|@first day of the fiesta or party@
+@ajb'al@|@medicine man, sorcerer, witch@
+@ajb'it@|@singer@
+@aji@|@to go up (He climbed the tree to pick an apple) @
+@ajk'ul@|@enemy, jealous@
+@ajk'ultaq@|@villager@
+@ajkutz'in@|@the owner of the daughter@
+@ajkutz'inej@|@the owner of the daughter@
+@ajmul@|@sinner@
+@ajna@|@the owner of the house@
+@ajoloq@|@came from below@
+@ajq'anej@|@person who likes to talk, sociable person@
+@ajson@|@person who plays the marimba@
+@ajte'@|@common reed or yellow cane@
+@ajtoq@|@to lift something up, to take something up (We took the bedding up to the loft)@
+@ajtx'otx'@|@owner of the land@
+@ajtxaj@|@Mayan priest@
+@ajtxum@|@divined, diviner (fortune teller), guessed, psychologist@
+@ajtz'ib'@|@secretary@
+@ajtzok' ak'atx@|@turkey@
+@ak@|@turtle@
+@ak'@|@new@
+@ak'al@|@flat land, countryside, field@
+@ak'al tx'otx'@|@grassland@
+@ak'al witz@|@rolling hill, smooth hill@
+@ak'ala'@|@the same, no change (Our neighbor is still very sick there has been no change)@
+@ak'alwom@|@woman in labor@
+@ak'atx@|@turkey@
+@ak'is unin@|@newborn baby@
+@ak'ix@|@young woman in her teens@
+@ak'ixh unin@|@newborn baby@
+@ak'um@|@bush, land that is elevated buy generally not as high as a mountain, plants, woods@
+@ak'un@|@grass, plants@
+@ak yatz'amil@|@add salt@
+@akajtoq@|@straight ahead upwards@
+@akan@|@face toward a specific place (The woman is facing the west)@
+@akan ajteq@|@straight ahead from below upward@
+@akan oktoq@|@to leave something in something else (Leave the pine needles in the wet adobe)@
+@akantoq@|@to leave something in something else (Leave the pine needles in the wet adobe), to leave something in something else(Leave the pine needles in the wet adobe)@
+@akb'a'@|@to face@
+@akb'aj@|@to face@
+@akte'@|@tun (a cylindrical percussion instrument that was used as an instrument of war and in magic and religious ceremonies or to transmit messages in the jungle)@
+@aktoq@|@put in, put inside, introduce (put in)@
+@akuxha@|@needle@
+@al@|@heavy, to say, too@
+@ala'@|@talk away (Hala' - tzet yetal chi hoche chi witeq txomb'al - 'Tell me - what do you want me to bring from the store'), communicate with words@
+@alan@|@underneath, below, under@
+@alaw@|@lowland paca, spotted paca, a large rodent with a short hairless tail, called a gibnut in Belize@
+@alawen@|@mint, peppermint@
+@alej uninalej@|@children@
+@alep te'@|@seedling@
+@alib'@|@daughter in law@
+@alib'ej@|@daughter in law, woman's mother or father in law@
+@alij@|@born, to be born@
+@alip te'@|@seedling@
+@alkal@|@mayor, prayer leader@
+@alkal ora@|@important days of the Q'anjob'al calendar@
+@alkal txaj@|@Maya priest@
+@alkanoq@|@leave said (deja dicho), tell (Let me know what you want)@
+@alom@|@domestic animals@
+@altej@|@to offer@
+@alub'ej@|@object used to stand on in order to reach something (such as a step-stool or chair etc)@
+@alusel@|@person charged with responsibility for the Maya ceremony@
+@aluxh@|@Alonzo@
+@aman aytoq@|@under water, flooded@
+@amank'uhan@|@in a hurry, quickly@
+@amaq'@|@yard, courtyard@
+@amb'al@|@medicine@
+@amunk'wan hach@|@you are fast@
+@amutx@|@deposit of water@
+@amwal@|@perhaps, by chance@
+@amwali@|@perhaps, by chance@
+@an@|@hard liquor, medicine, noun classifier for plants and clothing and liquor (An spichil naq unin  'The boy's clothes' literally 'The clothes his boy'), remedy, swallow@
+@an ak'un@|@the grass@
+@an itaj@|@the herb@
+@an itaj tu@|@those herbs@
+@anab'@|@sister (a man's sister)@
+@anab'ej@|@sister (a man's sister)@
+@anab'ej uxhtaqej@|@brothers@
+@anani'@|@right now, today@
+@anb'al@|@medicine, remedy@
+@anej@|@cane liquor, hard liquor, leaves used when bathing in a sauna or sweat bath, run, the act of running, swallow@
+@anema@|@people@
+@anima@|@human being, man, people, person@
+@anina@|@person, people @
+@Anixh@|@Anna@
+@anlewom@|@healer@
+@anli@|@to cure, to heal@
+@anlom@|@healer@
+@anloq@|@to cure@
+@ante'@|@cure@
+@antej@|@cure, is going to cure@
+@antelwan@|@to cure, cure@
+@antelwom@|@healer@
+@antewan@|@to cure, cure@
+@antewon@|@healer@
+@antil@|@Andrew@
+@antil ch'ab'@|@canary, bird not indigenous to the area@
+@Anton@|@Anthony@
+@Antun@|@Anthony@
+@apak'ej@|@name of diverse fiberous reedy plants that grow along the banks of rivers and lakes (their leaves are used in the fabrication of hats and other objects)@
+@apni@|@to arrive@
+@apnoq@|@will arrive, will get there@
+@aq'@|@give, place, put, tongue@
+@aq'a'@|@deliver, give (Mayal waq' yan no hinchej - I gave hay to my beast)@
+@aq'b'al@|@night@
+@aq'b'alil@|@night@
+@aq'ej@|@tongue@
+@aq'in@|@cleaning of a cornfield, table for grinding nixtamal (corn), trough@
+@aq'in awal@|@clean the cornfield@
+@aq'lay@|@give (with the passive suffix lay)@
+@aq'le'@|@to attempt, to try to do@
+@aq'lej@|@attempted, the act of trying something, to attempt, to try to do@
+@aq'lejto@|@to attempt to do something, to try@
+@aq'om owal@|@warrier, soldier@
+@aq'un@|@grass@
+@aq'walil@|@night@
+@aqak'@|@palm-tree@
+@aqan@|@foot, leg, wasp's hive (nest)@
+@aqan xhalu@|@clay pitcher that can be used for heating liquids@
+@aqanej@|@foot@
+@arena@|@sand@
+@aros@|@rice@
+@asan@|@alone (Asan ch'an naq Xhunik max toj mulnajil - Only John went to work), only, particle that can mean 'but' in a sentence@
+@asan tol@|@particle that can mean 'but' or 'but it' in a sentence it can be understood that the main phrase of the sentence would have taken place but for the condition mentioned by the secondary phrase@
+@asaron@|@hoe@
+@asat@|@your eye@
+@asi'@|@go@
+@asib'el@|@go for now (Go for now we will talk later)@
+@askal@|@sugar@
+@asukal@|@sugar@
+@asum@|@cloud@
+@asun@|@cloud@
+@at@|@vagina@
+@at'is@|@sneeze, to sneeze@
+@at'ixh@|@sneeze@
+@atak'ala'@|@according to what you say (He will go to the party if you say so)@
+@ataq@|@in front of@
+@atoni@|@yes then, really, in earnest, it is, this is@
+@atoq@|@to send, to put in@
+@atut@|@house@
+@atz'am@|@salt@
+@atz'amnej@|@to put in salt, to put on salt@
+@aw@|@scream, shout, to sow seed@
+@awa'@|@to seed@
+@awal@|@cornfield@
+@awal ak'un@|@grass@
+@awal jun@|@voice that indicates happiness or anger@
+@awas@|@prohibited, sacred, sin (It is a sin to work during the holy week)@
+@awb'al@|@club, cudgel, place to plant seeds, pole used for seeding@
+@awb'il@|@what is planted or sown (The cornfield is seeded)@
+@awennej@|@re-seed@
+@awjub'@|@throat@
+@awnej@|@the act of reseeding the cornfield@
+@awnub'@|@sowing@
+@awteb'al@|@call (phone or at the door)@
+@awteb'il ok wajanoq@|@called to a meeting@
+@awtejteq@|@to call (They called me in to supper)@
+@awtejtoq@|@to call from here to there@
+@ax pax@|@and (Ax pax naq huxhtaq? Literally And the Brother?  but means And where is your brother?)@
+@axa@|@particle that can mean and in a phrase@
+@axa pax@|@instead@
+@axa tinani@|@today, right now@
+@axhn@|@to bathe@
+@Axhul@|@Angelina@
+@axka@|@above, like that, that way, so, thus, intensifier@
+@axka tu@|@particle that is used to introduce a clause that explains the purpose for which the principal action is carried out, like this, in this way@
+@axka tu'@|@particle that is used to introduce a clause that explains the purpose for which the principal action is carried out@
+@axub'@|@film or layer of water, film or layer of water (or perhaps the breadnut tree)@
+@axux@|@garlic@
+@ay@|@directional meaning down, there are, there exists some, there is, to be, to have, to exist@
+@ay smay@|@dangerous@
+@ayach@|@you (singular)@
+@ayan@|@go below, go underneath@
+@ayex@|@you (plural)@
+@ayik'oq@|@to be there, is@
+@ayin@|@I@
+@ayinti'@|@I (first person singular)@
+@ayk'al@|@there is always (There is always milk in the refrigerator)@
+@ayk'ayi@|@to fall (The old barn fell down), to get skinny due to illness@
+@ayman@|@quickly (ayman chex lowi Eat fast), rapidly@
+@aymi@|@there is still some@
+@ayokoq@|@to be inside, it is on fire, to participate@
+@ayokteq@|@to be inside (from there to here)@
+@ayoktoq@|@to be inside (from here to there)@
+@ayoloq@|@he or she or it came down (Rain fell on the children)@
+@ayon@|@us, we@
+@ayoneq@|@us (including the one spoken to), we (including the one spoken to)@
+@ayonon@|@we (exclusive of one spoken to), us (not including the one spoken to)@
+@ayteq@|@lower, lower it@
+@ayto@|@there still is (There is still food left on the table)@
+@aytoq@|@add condiments to food (He put salt on the potatoes), to lower an object down@
+@b'aaaaa@|@bleat of a sheep@
+@b'ab'el@|@first (Who is first in line?)l@
+@b'ab'el ix huhej@|@oldest sister (literally first sister)@
+@b'ab'el unin@|@first born (Jesus is the firstborn of all creation according to Colossians 1 verse 15)@
+@b'ab'elal@|@first (do this before you do that)@
+@b'ab'jan@|@go first (to a determined destination), go to a determined destination first@
+@b'ab'ji@|@to go first, to go ahead@
+@b'ab'joq@|@will go ahead, will go first@
+@b'abel winaq nuhej@|@oldest brother (literally first brother)@
+@b'aja'@|@to chastise, to quarrel with a person or to  express anger or disapproval of someones actions or behavior by your tone or words or gestures@
+@b'ajal@|@corncob@
+@b'ajb'oni@|@to insult@
+@b'ajeloq@|@to chastise, to quarrel with a person or to  express anger or disapproval of someones actions or behavior by your tone or words or gestures@
+@b'ajix@|@thin (beings)@
+@b'ajwajwom@|@the person who severely disciplines or mistreats others, person who causes severe physical or moral damage (usually by blows or insults) to a person or animal @
+@b'ajwal@|@mistreatment, insults, causing physical or moral damage to someone@
+@b'ak'an@|@rolled up, curled up@
+@b'ak'an ayok@|@smoke or a cloud that extends over an area and covers a specific place (like clouds or smoke blanketing the ground or a layer of smoke inside the house)@
+@b'ak'layoq@|@will be rolled up or coiled (This is the rope that will be coiled on the pier)@
+@b'ak'lej sb'a@|@for two people or animals to curl up together@
+@b'ak'lejb'ahil@|@to curl up, to roll up, to coi@
+@b'ak sb'a@|@to soak, to intentionally wallow (The children were wallowing in the mud)@
+@b'aka'@|@to spread (he spread peanutbutter on the bread)@
+@b'akan@|@saturated with mud@
+@b'akan ha'@|@wet, sweat soaked@
+@b'akan okoq@|@stained by something greasy, smeared with something greasy@
+@b'aklayi@|@to smear, to spread (He spread the mayonese on the bread)@
+@b'akmam@|@willow@
+@b'akob'tanej@|@to constantly spread or smear something on something else@
+@b'akotane'@|@to constantly spread or smear something on something else@
+@b'akxi@|@for an object to move whether because it was poorly situated or because is was not well made (the table wobbles because the legs aren't attached firmly)@
+@b'akxilti'@|@beard, bearded@
+@b'al@|@fat, magic, spell, thick, witchcraft@
+@b'al'utb'il@|@poorly made or done (The student wrote the lesson poorly)@
+@b'ala'@|@to make pieces of masa or something similar (The woman separated the masa into pieces in order to make tortillas)@
+@b'alab'a@|@wallow@
+@b'alam@|@tiger (likely a cougar)@
+@b'alan@|@roll, scroll, coil@
+@b'alb'a@|@wallow@
+@b'alej@|@diaper@
+@b'alilal@|@his or her witchcraft (The boy is ill because of Maria's witchcraft)@
+@b'aloneb@|@nine@
+@b'aloneb'@|@nine@
+@b'aloneb'taq@|@in groups of nine (by nines)@
+@b'alonlajuneb'@|@nineteen@
+@b'aluneb'@|@nine@
+@b'an@|@long poles that are on top of something and hang over the edge@
+@b'aq@|@bone, needle, seed (for hanging fruit)@
+@b'aq'@|@small hard seeds of fleshy fruits and vegetables (such as grapes apples melons or tomatoes)@
+@b'aq'ech@|@fat, grease@
+@b'aq'in@|@asks a question in reference to a distant time whether in the past or future (a time determined by days or months or years etc), when (B'aq'in chach apni? 'when will you arrive?')@
+@b'aq'in chon jayi@|@when will we be back, when will we be back?, When will we return?@
+@b'aq'satej@|@eye@
+@b'aqal@|@cob, corncob@
+@b'as@|@stingy, miserly, mean@
+@b'asil@|@very stingy@
+@b'asne'@|@stingly, miserly@
+@b'asnej@|@stingly, miserly@
+@b'atx@|@something that hangs over or projects beyond something@
+@b'atxteq@|@to bring from there to here (B'atxteq te' chemte' kayti Bring the plank here)@
+@b'aw@|@type of planting in a cornfield@
+@b'ax@|@man's brother in law@
+@b'axej@|@man's brother in law@
+@b'ay@|@a preposition that indicates to whom the action is directed or for whom the action was carried out (b'ay txutx 'to his or her mother' or 'for his or her mother'), at, for, hanging, relational noun that indicates who benefited from the action, to, where@
+@b'ay kok'exan@|@to the left@
+@b'ay kowatx'@|@to the right, on the right@
+@b'ay tu@|@there@
+@b'aytal@|@where@
+@B'aytal kajan ach?@|@Where do you live?@
+@b'aytal maxach b'et@|@Where did you go?@
+@b'aytet@|@interrogative used with things and animals, which? (B'aytet chochej - Which one do you want?)@
+@b'aytu'@|@there@
+@b'e@|@road, street@
+@b'el@|@items that are in a cylindrical shape and in a line, carry@
+@b'el te' si'@|@carry the wood@
+@b'eq@|@loose (pertains to animals)@
+@b'es@|@separated or put away empty@
+@b'et@|@cylindrical objects that are of a medium width and have a smooth texture (for instance animals with short smooth hair or poles that have no bark)@
+@b'ey@|@to go away (reflexive), to leave (reflexive), to walk@
+@b'eyi@|@walk@
+@b'eyom@|@rich person@
+@b'eytoqb'al a'ej@|@river@
+@b'i@|@name (hej)@
+@b'ih@|@name@
+@b'ihej@|@name@
+@b'ija'@|@split@
+@b'ijan@|@piece@
+@b'il@|@very small and round@
+@b'iq@|@limp, soft@
+@b'is@|@count@
+@b'it@|@sing, song@
+@b'itanyeji@|@a child or object that is very small@
+@b'itni@|@sing@
+@b'itz'ab'@|@wall@
+@b'olob' tx'ak@|@smallpox, pock mark@
+@b'omb'al@|@brush@
+@b'omb'alil@|@brush@
+@b'ulan@|@heaped, piled up@
+@b'uq@|@mushroom@
+@b'uq'an@|@mouthful@
+@b'utan@|@numeric classifier for a pinch of something like a pinch of salt@
+@b'utx@|@cooked corn, nixtamal@
+@bandar@|@send@
+@bente@|@twenty@
+@capey@|@coffee@
+@ch'akan@|@wet@
+@ch'el@|@parakeet@
+@ch'en@|@a classifier used with everything of metal or rock (ch'en ch'en the rock ch'en xij the metal pan), metal, sand, stone, steel@
+@ch'en nawxu@|@the knife (made of metal)@
+@ch'en poq@|@sand@
+@ch'enej@|@rock, stone@
+@ch'ib'@|@a type of palm-tree@
+@ch'im@|@straw@
+@ch'imna@|@house with a straw roof@
+@ch'ok@|@great-tailed grackle (a bird with black feathers that eats grains), male blackbird (symbolic of eternal life?)@
+@ch'okil@|@great-tailed grackle (a bird with black feathers that eats grains), male blackbird (symbolic of eternal life?)@
+@ch'uchej@|@flower of the cornfield@
+@ch'uj@|@impulsive, capricious, changeable@
+@ch'ulte'@|@measure of wood that has been stacked tightly@
+@ch-@|@incomplete action marker (Chach lowi you eat)@
+@cha@|@voice that designates the masculine gender among people (Cha wuxhtaq hoqmi hach toq konob'? - Will you go to town brother?), receive@
+@chach@|@you (chi is the marker for an action taking place now and ach is the second person singular from Set B)@
+@chach kolwaji@|@you help (second person singular)@
+@chach lowi@|@you eat (2nd person singular)@
+@chach stena'@|@she pushes you (ch- is the incomplete action marker -ach is the second person singular marker s- is the third person singular marker -ten- means to push -a' is a category suffix)@
+@chach wila@|@I see you@
+@chaj@|@to seed, to sow seed@
+@chakan@|@deaf@
+@cham@|@classifier that indicates respect and used in reference to an older male or a person's superiors (in reference to a specific person cham means Mr - for instance Cham Lotaxh 'Mr Rodas' - but when the last name is not specified as in cham winaq it carries more the meaning of the man in a superior position and in English would correspond to Mister or sir - When using a superior's last name we would say 'Mr Brown' but where no last name is used we would just say 'he' as in 'He will leave for work) without mentioning his station however in Q'anjob'al a man in a superior position is always identified with cham - Hoq toq cham winaq mulnajil 'The sir will leave for work'), classifier used in reference to natural elements that are considered to correspond to the father or a person's superior (cham komam k'u 'our father sun' - cham waykan 'star' - cham motz 'constellation'), older adult male@
+@cham ilya'@|@the sickness, the illness@
+@cham kan@|@the charley horse, the cramp@
+@cham komam k'u@|@our father sun@
+@Cham Komandihos@|@Our God@
+@cham Lotaxh@|@Sr. Rodas, Mr. Rodas@
+@cham winaq@|@the master (cham 'classifier' - winaq 'man')@
+@chan@|@petticoat, slip@
+@chanej@|@dress, skirt@
+@chaw@|@burn@
+@chej@|@deer, horse, mule@
+@chem@|@chair@
+@cheman okoq@|@leaning against@
+@chemanoq@|@spread out on something or someone@
+@chemb'al@|@loom@
+@chemb'ejal q'ap@|@material made on a loom@
+@chemb'il@|@made on a loom@
+@chemej@|@bench (for sitting on), chair, to weave@
+@chemej ayoq@|@press down, press to the ground or floor (such as stepping on something), crush, mash@
+@chemejtoq@|@to crush or lay on (The dog mashed the flowers when he laid on them)@
+@chememi@|@pressed down, crushed, mashed down@
+@chemetoq@|@to smash or lay on something (The dog crushed the flowers when he laid on them)@
+@chemkiltaq@|@pressed or mashed some parts (The people mashed the flowers when the walked through)@
+@chemlab'i@|@to press, for various persons to weave with a loom@
+@chemlan@|@the act of weaving@
+@chemloq@|@to weave sometime in the future (I will weave a new rug when I get time)@
+@chemob'tanej@|@to mash down, to constantly be walking or laying on something so a to mash it down@
+@chemte'@|@board, plank, table (wooden)@
+@chemtene'@|@to use an object as a (plank or table or shelf ? not sure which)@
+@chemwajom@|@weaver, person who weaves on a loom@
+@chemwal@|@loom@
+@chemwi@|@weaving (with a loom)@
+@cheqomtoq@|@he who sends, he who commands or orders@
+@chew@|@cold (water or food), frost, frozen, ice, snow@
+@chex kolwaji@|@you all help@
+@chex lowi@|@you all eat@
+@chi@|@incomplete action marker for third persons only (chi wayi - he or she sleeps), quotative verb, say@
+@chi'@|@agave (or ropes made with agave fiber), bite, candy, fiber from the agave or hemp plant, hemp plant, sweet@
+@Chi' wa' kawil a k'ul@|@Greetings (carries the meaning 'May your life be good' - wa' meaning 'good' kawil meaning 'life and ku'l meaning 'stomach')@
+@chi'k'ulal@|@happiness@
+@chi kolwaj heb'@|@they help@
+@chi kolwaji@|@he or she helps@
+@chi low heb'@|@they eat@
+@chi lowi@|@he or she eats@
+@chib'ej@|@meat, meat (whether meat to be eaten or meat of the body)@
+@chik'@|@blood@
+@chik'il@|@blood@
+@chik'ilej@|@blood@
+@chikay@|@grandmother, grandmother (father's mother)@
+@chin@|@chi indicates an incomplete action where the object is the third person while ch is or commonly used with all other person markers (Chin wayi - I sleep - chi kanalwi - he dances), this is a combination of ch (the incomplete action marker) and in (the first person singular marker in the absolutive set)@
+@chin kolwaji@|@I help@
+@chin lowi@|@I eat@
+@china@|@orange (fruit - te china 'the orange')@
+@china'@|@term used for carrying a baby on your back (chin naq unin ti ka chon toji - Carry the baby boy and lets go)@
+@chiqan@|@person or animal in a weakened state@
+@chiwo@|@goat@
+@chon kolwaj heq@|@we (including you and others) help@
+@chon kolwaj hon@|@we (myself and others but not the one spoken to) help@
+@chon kolwaji@|@you and I help@
+@chon low heq@|@we all eat@
+@chon lowi@|@we eat (you and I)@
+@chop@|@buttocks, bottom@
+@choq wal@|@if only, hopefully, I hope that@
+@chot@|@positional meaning seated@
+@chotan@|@seated@
+@chotan ayoq@|@sit@
+@chotb'al@|@place to sit something (Like a night stand where you can sit your lamp)@
+@chown low hon@|@we eat (him or her and I but not you)@
+@chukul@|@stirring stick, grinder@
+@chul@|@urine, pee@
+@chulan@|@classifier for things that are rolled, rolled up@
+@chulul@|@sapodilla plum@
+@chuman@|@midday@
+@chwala'@|@I say@
+@e@|@tooth@
+@e'@|@tooth@
+@e'ej@|@tooth@
+@ech@|@to hope, to expect, to wait@
+@ech'@|@bromeliad@
+@echej@|@axe@
+@eh@|@tooth@
+@ehej@|@tooth@
+@ej@|@water@
+@ek'@|@directional meaning pass@
+@ek'ujul@|@diarrea (literally to pass belly)@
+@el@|@directional meaning out (outwards), go out, sharp@
+@elan@|@take off (a command), get out (a command)@
+@elanteq@|@to go out from a house, to leave a house (Elanteq yul jun na tu - Get out of that house), leave@
+@elaw@|@funny, comical@
+@elom a'ej@|@river@
+@elq'om@|@robber, thief@
+@enel@|@prediction, shade@
+@enelej@|@shade, shadow (of a person or animal)@
+@et'alib'alej@|@the brother of the spouse of the brother of a person (my sister in law's brother), the spouse of the brother of the spouse of a person (what we would still call a brother-in-law or sister-in-law)@
+@etaj@|@grass@
+@etb'i@|@companion@
+@etb'ihej@|@companion, friend@
+@etnihejalej@|@the brother of the spouse of the brother of a person (my sister in law's brother)@
+@ewan@|@hidden, on the quiet, secretly, shade@
+@ewantaq@|@hidden, occult@
+@ewantaqil@|@hidden, to carry it hidden, occult, unseen@
+@ewi@|@yesterday@
+@Ewul@|@Eulalia@
+@Exhtep@|@Esteban@
+@h-@|@second person singular possessive, your, yours@
+@ha@|@classifier for water (ha tz'eka' means 'the hot water' - ha uk'b'ala' means 'the well' - ha najab' means 'the lake') @
+@ha'@|@her, him, is (to be)@
+@ha-@|@2nd person singular of a noun that begins with a consonant, your, yours@
+@ha k'wa'@|@the well@
+@ha najab'@|@the lake@
+@ha tz'eka'@|@the hot water@
+@ha uk'b'ala'@|@the well@
+@hab'a@|@to yourself, yourself (b'a plus a person from Set A indicates that the person who does the action is the one who suffers the effects of that action so - you did it to yourself)@
+@hab'e@|@your road@
+@hach@|@you (second person singular) when the subject of a stative@
+@hachej@|@your horse (Mimam wal stel no hachej - literally Big tall animal your horse - Your horse is very tall)@
+@hachti@|@are you that one?@
+@hak'isaj@|@you swept, you sweep@
+@hak'un@|@your grass@
+@hakamixh@|@your shirt@
+@hala'@|@you say (you singular)@
+@halan@|@underneath you, beneath you, below you, under you@
+@halaw@|@spotted paca@
+@hamam@|@your father@
+@haq'ab'@|@your hand@
+@haqan@|@your foot@
+@hasat@|@your eye@
+@hatx'otx'@|@your land (your singular)@
+@hatxutx@|@your mother@
+@hawal@|@your cornfield@
+@hay@|@there is (hay borrowed from Spanish)@
+@hayab'il@|@your sickness, your illness@
+@hayach@|@you (second person singular)@
+@hayayilal@|@sickness@
+@hayej@|@water@
+@hayex@|@you all (second person plural)@
+@hayin@|@I (first person singular)@
+@hayon@|@we or us (inclusive)@
+@he-@|@second person plural possessor of a noun that begins with a consonant, ours@
+@heb'@|@plural particle indicates many (heb' naq winaq kami The men who died), they (third person plural when used with a stative verb or when it follows a noun or the subject of an intransitive verb that begins with an s or a y) @
+@heb' naq winaq@|@the men@
+@heb' wuninal@|@my children (heb' is a pluralizer)@
+@heb'a@|@to yourselves, yourselves (b'a plus a person from Set A indicates that the person who does the action is the one who suffers the effects of that action so - you did it to yourselves)@
+@hekan@|@cousin@
+@helya'@|@illness@
+@hep@|@strength@
+@hetb'i@|@your companion, the one with you@
+@hetx'otx'@|@your land (more than one person's land)@
+@hex@|@yours (plural - hex is used with stative verbs only)@
+@hey-@|@second person plural possessive, your, yours@
+@heyalan@|@underneath you all, beneath you all, below you all, under you all@
+@heyaloni@|@you all say @
+@heyawal@|@your (plural) cornfield @
+@heyib'an@|@on you all, above over or on top of you all@
+@hi'@|@young tender corn@
+@hib'atx@|@your armadillo@
+@hika@|@your sauna, your sweat house@
+@hikan@|@your cousin@
+@hilya'@|@your sickness, your illness@
+@hin@|@I (when the subject of a stative)@
+@hin-@|@first person singular possessor of a noun that begins with a consonant, my, mine@
+@hinb'a@|@myself (b'a plus a person from Set A indicates that the person who does the action is the one who suffers the effects of that action so - I did it to myself), to myself@
+@hintoji@|@I go (intransitive)@
+@hintx'otx'@|@my land@
+@hintxutx@|@my mom@
+@hinye@|@in agreement (I agree), Agreed!@
+@hinye kaq chi hut halon tu@|@just as you say@
+@hip@|@your strength@
+@hiqatz@|@your load@
+@hixal@|@your wife, your woman@
+@hixim@|@your corn@
+@hob'eb'al@|@blowgun@
+@hok'al@|@one hundred (five times twenty), a hundred@
+@holajuneb'@|@fifteen@
+@hon@|@mine and yours (when the subject of a stative verb)@
+@honeq@|@ours (everyones - when used with a stative verb)@
+@honon@|@ours (not including the person spoken to - this is used with stative verbs), wasp@
+@hoq@|@marker for potential actions (hoqex tz'ib'loq you all will write hoq jayoq she will come)@
+@hostok@|@buzzard@
+@hotaq@|@you know@
+@how@|@five@
+@howal@|@your anger@
+@howye'@|@five@
+@hox@|@achiote (or annatto a tropical American evergreen shrub or small tree that has showy flowers the seed is used as coloring and a flavoring)@
+@hoyeb'@|@five@
+@hub'al@|@your bean@
+@hub'eb'al@|@your blowgun@
+@huhun@|@each one@
+@huk'@|@your lice@
+@huk'is@|@your lice@
+@hukub'@|@canoe@
+@hun@|@book, paper, your paper@
+@hunab'il@|@year@
+@hune'@|@your child@
+@hunin@|@your child@
+@huqeb'@|@seven@
+@huqlajuneb'@|@seventeen@
+@husluk'eb@|@eleven@
+@hutej@|@you make, you do@
+@i'@|@young tender corn@
+@ib'atx@|@armadillo@
+@ich@|@chile pepper, pepper@
+@icham@|@male, old@
+@icham na@|@old house@
+@icham winaq@|@old man, elder, sir@
+@ichamil@|@husband@
+@ichamilej@|@husband@
+@ichin@|@back@
+@ichinej@|@back@
+@iiii@|@expression of admiration@
+@ij@|@weevil@
+@ijan@|@almost (Ijan max kin telk'oji I almost fell)@
+@ika@|@sweat house, sauna@
+@ikan@|@maternal uncle@
+@ikanej@|@aunt (sister of your mother or father), uncle (brother of your mother or father), relative in-law@
+@ikannej@|@family member, relative@
+@il@|@to see, to look@
+@ilb'alej@|@color@
+@ilelb'a@|@east@
+@im@|@teat, woman's breast@
+@imej@|@breast, breast (woman's)@
+@in@|@relational noun that introduces the patient of a transitive verb to make it intransitive (A jun ix max q oqwaj yin no tx'i' - It was a woman who shot the dog)@
+@inat@|@seed@
+@intam@|@iguana@
+@inup@|@silk-cotton tree@
+@inye@|@that's fine, agreed, I agree@
+@ip@|@strength, your strength@
+@ipejal@|@loud, aloud@
+@iq@|@to carry@
+@iqatz@|@load, your load@
+@iqb'al@|@wrap for babies@
+@iqb'alej@|@wrap for babies, wrap for babies (used to carry a baby on your back)@
+@iqb'il@|@load, ship, to carry something heavy@
+@is@|@potato@
+@isaj@|@idler, lazy, person who doesn't like to work obligate himself to do something or do anything that requires him to exert himself@
+@isk'aq@|@nail, claw, hoof@
+@isq'ajej@|@fingernail@
+@isq'aq@|@fingernail@
+@isq'aqej@|@fingernail@
+@istilej@|@wife@
+@itaj@|@herbs, greens@
+@itax@|@your herb@
+@ix@|@classifier that indicates respect and is used in reference to the young woman, woman, younger woman@
+@ix'unin@|@girl@
+@ix chulul@|@small sapodilla plum@
+@ix Malin@|@Maria@
+@ix nuhej@|@sister@
+@ix unin@|@the little girl@
+@ixal@|@wife@
+@ixalej@|@wife@
+@ixim@|@corn, this is the classifier for 'corn' it means 'a' or 'the'@
+@ixkab'@|@bee's wax@
+@ixnam@|@old woman@
+@j-@|@first person plural possessive, our, ours@
+@ja'@|@cane, rod, yes@
+@jab'@|@odor, smell, scent@
+@jab'an@|@long object, numeric classifier used in measurements for items that are long, something long@
+@jab'il@|@smell@
+@jajan@|@kneeling@
+@jal@|@to weave@
+@jalan@|@underneath us, beneath us, below us, under us@
+@jan@|@some (jan no tz'ikin some birds), this particle marks plurality of unknown or indefinate nouns (jan winaq 'some men' or jan kok'ixhtaj 'some small pine trees'), these (Jun jun k'u chi jil jan no chej ti 'We see these horses every day')@
+@janan kanoq@|@empty house@
+@Jane Doe hin@|@I am Jane Doe@
+@janik'@|@asks a question that has to do with the precise time in which an action was carried out or a few moments before or after the action, used to ask 'how are you feeling?' when greeting someone@
+@janik' ch'an@|@little@
+@jantaq@|@how, how much, interrogative@
+@Jantaq jun stel@|@What size is it?@
+@Jantaq yalon k'ul naq unin?@|@How is the boy? (literally what it says his stomach boy)@
+@jaqan@|@open@
+@jaqan sti'@|@agape, open-mouthed, someone left with their mouth open wide due to surprise or awe@
+@jasan@|@numeric classifier meaning a thin sliver of something@
+@jat@|@split@
+@jatnom te'@|@artisan, artist, craftsman@
+@jatxan@|@large house or building@
+@jawal@|@our cornfield@
+@jawtejteq@|@we called him (Jawtejteq cham Kuwin jetoq We called Pascual with us)@
+@jawteteq@|@We called him or her@
+@jay-@|@interrogative particle (asks a question - jaywan means 'how many people?')@
+@jayeb'@|@hou much, how many@
+@jayeb' max halo'@|@How many did you eat?@
+@jayk'on txutx wakax@|@How many cows?@
+@jaywan heb'@|@how many people?@
+@jenan yeji@|@wide object@
+@jeneni@|@mop, papers or birds that fly in the air@
+@jet'animahil@|@natural, indigenous@
+@jetoq@|@with us@
+@jewnajoq@|@for a person to fall with their legs spread@
+@jexhan yeji@|@bad position of a person due to tiredness or for dressing badly@
+@ji@|@oak, live oak@
+@jib'an yeji@|@state of measure, flexible, soft, yielding@
+@jila@|@see you (said to one person)@
+@jilan@|@classifier for an object that is extended like a cane, straight@
+@jileq@|@see you (said to more than one person)@
+@jinan yeji@|@tall@
+@jiq'a'@|@breathe@
+@jixan yeji@|@very thin object or person@
+@job'al@|@wipe@
+@job'wal@|@animal's young (chick kitten etc)@
+@joj@|@crow, raven@
+@jojtaqneq@|@know@
+@jolom@|@head@
+@jolom penek@|@kneecap@
+@jolomej@|@head@
+@joqan@|@long@
+@jorori@|@snoring sound@
+@jos@|@egg@
+@josej@|@testicles, eggs@
+@jotajtej@|@dig@
+@joto'@|@dig@
+@jotx'@|@landslide@
+@jub'b'alej@|@leaves used when bathing in a sauna or sweat bath@
+@jujun@|@each (literally one one)@
+@jujunal@|@each one@
+@jukub'@|@canoe, pan or tray (especially one made of wood that is painted and adorned with straw), trough (for feeding animals)@
+@jun@|@one, a, this particle indicates that a noun is unknown or indefinate (jun winaq 'a man' - jun chej 'a horse')@
+@jun aq'wal@|@one night@
+@jun jab'an wale@|@a long cane@
+@jun jun k'u@|@every day@
+@jun lajan hon@|@we are the same@
+@jun mutx'@|@four hundred (five times eighty)@
+@jun skawinaq@|@twenty-one@
+@jun ti@|@this one@
+@jun ti'@|@this, this one@
+@jun tu'@|@that, that one@
+@jun xa pak'@|@on the other side, to the other side@
+@junab'@|@in a year, next year@
+@junab'i@|@a year ago, last year@
+@junch'an@|@there is only one@
+@junel xa@|@again, another time@
+@junk'al@|@twenty@
+@junk'al heb'@|@they are twenty (there are twenty of them)@
+@junk'altaq@|@twenty at a time (by twenties)@
+@junnej@|@just one@
+@junoq xa@|@another, another one, one more, other@
+@junq'ej@|@within twenty days@
+@junq'eji@|@twenty days ago@
+@Juntaq yalon ak'ul?@|@Are you sick?@
+@juntu'@|@that one, that@
+@juntzan@|@some (juntzan no tz'ikin 'some birds'), this particle marks plurality of unknown or indefinate nouns (juntzan winaq 'some men' -  juntzan kok'ixhtaj 'some small pine trees'), these (Jun jun k'u chi jil juntzan no chej ti 'We see these horses every day')@
+@junxa@|@other@
+@k'a'@|@bile, bitter, gall, liver@
+@k'achi'@|@salty@
+@k'aj@|@toasted corn flour that people like to mix with cacao and sugar and vanilla and then use it to make a refreshing drink, flour@
+@k'aj ch'en@|@sand@
+@k'ajab' k'ulal@|@diet, fast (go without food for a time)@
+@k'ajol@|@son@
+@k'ajolej@|@son (a man's son)@
+@k'al@|@and (naq Lwin k'al naq Matin 'Peter and Matthew' but when there are several items listed they are separated by a comma and k'al only appears between the last two items), adverb that means always, always@
+@k'alan@|@third@
+@k'alb'il@|@held in the hand, grasp (Get a good grasp on that)@
+@k'alilej@|@sash, belt@
+@k'am@|@no there isn't any, not, no, particle of negation (used with incomplete actions and imperitive verbs) that negates the action that follows (K'am k'al hab' chta'wi 'He or she isn't answering' - K'am cha man jun txutx kaxhlan te' 'Don't buy a hen')@
+@k'am hinkolanil@|@I don't have time@
+@k'am junoq winaq@|@There is no man@
+@k'am tze max wala'@|@I said nothing, I didn't say anything@
+@k'am tzet@|@nothing@
+@k'am yip@|@weak@
+@k'amaq@|@particle of negation that indicates a negative answer (K'amaj manaj naj unin 'No this isn't the boy' - Maxach b'et mulnajil? K'amaq 'Did you go to work? No), no@
+@k'amtzet@|@nothing@
+@k'amye@|@dull@
+@k'apax@|@also (naq Xhwan k'apax ix unin John also the little girl), too@
+@k'aq@|@lice, louse, particle of negation to indicate a negative answer to a question, no@
+@k'ax@|@too@
+@k'ay@|@to lose@
+@k'eq@|@black@
+@k'etxan@|@stiff things that are spread out (for example a tortilla)@
+@k'etz@|@scorpion@
+@k'ewex@|@Anona Squamose is a small well-branched tree or shrub that bears edible fruit called sugar-apples or sweetsops@
+@k'ex@|@to change@
+@k'exan@|@left (direction)@
+@k'exan q'ab'ej@|@left hand@
+@k'ilaj@|@bump, swelling, bite (mosquito or other insect)@
+@k'ilis@|@tickle@
+@k'isb'al@|@broom, tree branches used for sweeping@
+@k'isis@|@cypress@
+@k'ix@|@spine, thorn@
+@k'ix utxum@|@porcupine@
+@k'ixw@|@to be ashamed@
+@k'ixwil@|@shame@
+@k'och@|@remove the grains from something (especially the corn from the cob once it is dried)@
+@k'oj@|@mask (Kawal yob' yili jun k'oj tu' This mask is very ugly)@
+@k'ojan k'ulal@|@slowly (k'ojank'ulal max oktoq cham icham The old man entered slowly)@
+@k'ojank'ulal@|@someone weak that walks slowly (like an older person with bad knees)@
+@k'ojank'ulal heb'@|@they are slow@
+@k'ojank'ulal heyaloni@|@Say it slowly@
+@k'ojank'ulal hinkanalwi@|@I dance slowly@
+@k'ojotx@|@cane, walking stick@
+@k'olan@|@round or oval object such as ball or egg (K'olan yeji ch'en ton The marbles we play with are round)@
+@k'olan yeji@|@round shaped (like a ball or an egg or a sphere)@
+@k'olol@|@oak@
+@k'ololi@|@round (ball)@
+@k'otan@|@numerical classifier meaning one unit (jun k'otan keneya one banana), lying on the ground@
+@k'otan ayoq@|@lying down@
+@k'otok'@|@land snail@
+@k'otxan@|@short@
+@k'oxox@|@spicy stew made with pork and hominy called pozol in Guatemala@
+@k'oyol@|@Spanish Bayonet (a type of yucca with sharp pointy leaves), yucca@
+@k'u@|@day, one day, sun, thunder, thunderbolt@
+@k'uhalil@|@day@
+@k'ul@|@belly, body cavity that contains the stomach and intestines, interior of a person where deep feelings such as love and courage are housed, stomach, the inner person@
+@k'ulej@|@belly, stomach@
+@k'ultaq@|@bush, village@
+@k'um@|@squash, calabash@
+@k'umb'inaq@|@tired, softened@
+@k'un@|@floppy, loose, soft, yielding@
+@k'un xilej@|@short soft hair that covers some parts of the human body@
+@k'un yeji@|@easy@
+@k'upb'il@|@cut@
+@k'ute'@|@cedar (trees)@
+@k'utz@|@tabacco@
+@k'ux@|@moss@
+@k'wa'@|@well (especialy a water well)@
+@ka@|@two, when ka appears in the phrase 'yet ka' it introduces the adverbial clause of purpose explaining why the primary action took place, and, that@
+@ka'@|@grinder, grinding stone, nixtamal metate, moler@
+@ka'e'@|@air@
+@kab'@|@bee (honey), two@
+@kab' kab'@|@two by two (They went into the ark two at a time)@
+@kab' kab'taq@|@two at a time, by twos@
+@kab' txutxej@|@stepmother@
+@kab'ej@|@the day after tomorrow, within two days@
+@kab'ji@|@day before yesterday, two days ago@
+@kab'jwi@|@the day before yesterday@
+@kab'nej@|@few (I just brought a little firewood), only two@
+@kab'wi@|@day before yesterday@
+@kaboj@|@few@
+@kahej@|@grinder@
+@kajan@|@live@
+@kakaw@|@cacao@
+@kalnel@|@sheep@
+@kam@|@die, to die@
+@kaman@|@death@
+@kami@|@die@
+@kamnaq@|@dead, he or she is dead@
+@kan@|@charley horse, directional meaning to stay without movement, four, muscle cramp, up, verb meaning to stay, high, high price, attic or loft@
+@kan kan@|@four by four (four at a time)@
+@kan kantaq@|@four by four (four at a time)@
+@kan stel@|@high@
+@kanal@|@dance@
+@kanalwan@|@dancer@
+@kaneb'@|@four@
+@kanej@|@in four days@
+@kanji@|@four days ago@
+@kanlajonej@|@within two weeks (fourteen days)@
+@kanlajoneji@|@two weeks ago, fourteen days ago@
+@kanlajuneb'@|@fourteen@
+@kape@|@coffee@
+@kapulin@|@cherry@
+@kaq@|@hot (like hot coffee), red (kaq yin), scarlet, warm (cooking), flower (ornamental)@
+@kaq'e'@|@air, breathe, wind@
+@kaq'eq'@|@air, wind@
+@kaq is@|@sweet potato, yam@
+@kaq xuchem@|@whirl (wind)@
+@kaqin@|@red@
+@kaqyin@|@red@
+@katx@|@gadfly, horsefly, any of various flies like the stable fly or warble fly that bite or annoy domestic animals@
+@kaw@|@hard (Kaw chi janani te si' ti' This firewood is very dry), strong, solid, massive, as an intensifier this means very (kaw saq 'very white' - kaw chi' 'very sweet')@
+@kaw pitinaq@|@stiff, rigid, hard@
+@kaw yib'@|@strong, hard@
+@kawal@|@very, intensifier (Kawal chi woche chin wey han 'I want to sleep')@
+@kawan@|@two people (Max jay kawan winaq Two men came)@
+@kawanil@|@the two persons (Cheqteq heb' kawanil wetoq Send the two with me)@
+@kawej@|@corn masa, corn dough@
+@kawejal jolomej@|@brain, cranium, mind@
+@kawil@|@health, life, near, close@
+@kawinaq@|@forty (Kawinaq xa k'u skam hinmam Forty years ago my father died), two times twenty@
+@kawk'olinaq@|@unripe fruit, ball that has been inflated tight, anything very hard@
+@kawk'uxinaq@|@something that is very hard and cannot be chewed@
+@kawni@|@to grind (We will grind the corn)@
+@kawniwom@|@woman who grinds with a rock (Kawniwom ix Ewul Eulalia is a grinding woman)@
+@kawpitinaq@|@something very hard, to tie something very tight@
+@kawsaninaq@|@very hard stomach, ground that is hard when it is struck@
+@kawt'ininaq@|@lasso or twine that is stretched tight, inflated@
+@kawx@|@to make@
+@kawxi@|@fix, build@
+@kawxinaq@|@made@
+@kaxhlan@|@chicken@
+@kaxk'al@|@although@
+@kay-@|@prefix that indicates a place (kayti' - here - kaytu' - there)@
+@kayti@|@here@
+@kayti'@|@here@
+@kaytu@|@particle that is used to introduce an adverbial clause of purpose, so it is, that's true, like this, like that, there@
+@kaytu'@|@over there, quite so!, so it is, there@
+@kaytu max yunej@|@it was done like this@
+@key@|@like this, like that@
+@kisq'aqej@|@cyst, tumor, born@
+@kixkab'@|@earthquake, tremor@
+@ko@|@first personal plural possessive, our, we@
+@ko-@|@first person plural possessor of a noun that begins with a consonant, our, ours@
+@kob'a@|@ourselves (you and I - b'a plus a person from Set A indicates that the person who does the action is the one who suffers the effects of that action so - we did it to ourselves), to ourselves@
+@kob'a heq@|@ourselves (you and I and others - b'a plus a person from Set A indicates that the person who does the action is the one who suffers the effects of that action so - we did it to ourselves), to ourselves@
+@kob'a hon@|@ourselves (ourselves not including the one spoken to - b'a plus a person from Set A indicates that the person who does tha action is the one who suffers the effects of that action so - we did it to ourselves), to ourselves@
+@kochan yeji@|@large, loose@
+@koj@|@cougar, mountain lion, puma@
+@kok'@|@fine (masa or corn flour)@
+@kol@|@defend, huipil (indigenous embroidered blouse or dress), protect, to be saved@
+@kolej@|@woman's blouse, woman's blouse (especially an embroidered blouse typical to indigenous women)@
+@kolin@|@help me@
+@kolon@|@help, save@
+@koloneq@|@help us@
+@kolq'ab'@|@ring@
+@kolq'ab'ej@|@ring@
+@kolwajan@|@to ask for help (Kolwajan wetoq wuxhtaq My brother help me)@
+@kolwal@|@help@
+@komam@|@our father (dual - mine and yours)@
+@komam asun@|@our father cloud@
+@komam Dyos@|@our Father God (often said of the sun)@
+@komam hon@|@our father (exclusive - ours but not yours)@
+@komam kaq'eq@|@our father wind (or air)@
+@komam kotxutx@|@our fathers, our parents (literally -komam 'our father' kotxutx 'our mother')@
+@koman heq@|@our father (inclusive - ours and yours)@
+@komes@|@centipede@
+@kon@|@gopher@
+@konb'laq anima@|@stranger, foreigner, unknown person@
+@konh@|@within four days@
+@konji@|@within four days, in four days@
+@konob'@|@country, town, village@
+@kopa@|@our backpack (yours and mine)@
+@kopa heq@|@our backpack (back pack belongs to the speaker and the listener as well as to others)@
+@kopa hon@|@our backpack (backpack belonging to the speaker and others but not to the one spoken to)@
+@kopichil@|@our clothes@
+@kosan@|@snake that is resting (just lying in the sun maybe)@
+@kostunbre@|@old religion@
+@kotin@|@two-headed eagle (appears to have Hittite origins and a symbol of power it is also used by Masons)@
+@kotx'an@|@crooked, twisted@
+@kotx'otx'@|@our land (yours and mine)@
+@kotx'otx' heq@|@our land (land that belongs to the speaker the one spoken to and others)@
+@kotx'otx' hon@|@our land (land belonging to the speaker and others but not to the one spoken to)@
+@koxan@|@snake that is resting (perhaps lying in the sun)@
+@kucham@|@piece, bit, chunk@
+@kuk@|@squirrel@
+@kuka@|@firefly, lightening bug, Headlight Elater click beetle@
+@kukay@|@firefly, glowworm@
+@kukuy@|@Headlight Elater click beetle, firefly, lightening bug@
+@kunan@|@classifier for a mountain of things (things piled up in the form of a volcano)@
+@kurus@|@cross@
+@kusiltaq@|@sad, lonely, alone@
+@kut wexej@|@long underwear@
+@kutan@|@short@
+@Kuwin@|@Pascual@
+@kux@|@coal@
+@kuxa@|@sugarcane liqour@
+@kuxin@|@weasel@
+@kuyeq@|@you all or they study, you all or they learn@
+@kuyoj@|@study, learning, teaching, education@
+@kuyu'@|@to teach, to learn, to study@
+@kuywajom@|@he who teaches, teacher@
+@kuywajwom@|@he who teaches, teacher@
+@kuywom@|@studious, student@
+@kwelda@|@length measure of a cord@
+@la@|@stinging nettle@
+@lab'a@|@snake@
+@lab'aj@|@snake@
+@laj@|@to finish, to end, to terminate@
+@lajan@|@the same, equal@
+@lajan hon@|@we are the same, we are equal@
+@lajan yoki@|@similar, looks like another person or thing, akin@
+@lajkaweb'@|@twelve@
+@lajoneb'@|@ten@
+@lajoneb' skawinaq@|@thirty@
+@lajoneb' yoxk'al@|@fifty@
+@lajun skawinaq@|@thirty@
+@lajun yoxk'al@|@fifty (ten towards three times twenty)@
+@lajuneb'@|@ten@
+@lajunk'al@|@two hundred (ten times twenty)@
+@lajwi tu@|@after, finally (The last thing we did was to go to bed)@
+@lak' taq@|@sticky, gummy, gluey, adhesive@
+@lak'b'al@|@gum, glue, liquid or pasty substance used to adhere or stick things together@
+@lanan@|@marker for actions that are in progress (lanan hinlowi I am eating)@
+@Lanan in aq'on a'ej@|@You are drinking (your) water@
+@Lanan in kuyon Q'anjob'al@|@I am learning Q'anjob'al@
+@lanan in w'uq'on wa'ej@|@I am drinking (my) water@
+@Lanana ach b'eyi@|@You (singular) are walking@
+@Lanana maq'ch puerta@|@You (singular) are closing the door@
+@Lananach b'eyi@|@You (singular) are walking@
+@laps@|@pencil@
+@lasu@|@lasso@
+@latx'@|@poultry lice or mites@
+@latz'an@|@classifier for things stacked or placed tightly together such as firewood and tortillas (ox latz'an patej - three orderly stacks of tortillas)@
+@latz'on@|@stack firewood tightly so that it occupies the least possible space@
+@lek'@|@to lick@
+@lekan@|@standing@
+@lekan hin ajoq@|@I am seated@
+@lem@|@worm@
+@lesan yeji@|@person very short and fat, strip of cloth@
+@letan yeji@|@midget, short@
+@letan yeji stel@|@very short@
+@letxb'al@|@crate, vessel made of the round woody fruit of the Bignoniaceae tree@
+@letz'lom@|@lightening flash@
+@lian a'ej@|@pond@
+@lisan@|@numeric classifier for use in measuring a piece of something, piece, sliver@
+@lixhton@|@hair ribbon@
+@lo'@|@eat, eat (fruit)@
+@lob'ej@|@food@
+@lob'ejal@|@fruit@
+@loj@|@food@
+@lokan@|@hung, hanging (The calendar is hanging on the wall)@
+@lokb'al@|@instrument for hanging something (like a coat hook)@
+@lolis@|@vagina@
+@loq'@|@to go out, to leave@
+@Lotaxh@|@Rhoda@
+@low@|@eat@
+@lowan@|@eat (as a command - Eat or you will get sick)@
+@lowaneq wal@|@eat up (all of you)@
+@lowaqab' wal heb'@|@they should eat@
+@lowi@|@eat, to eat@
+@lowoqab' wal@|@he or she should eat@
+@lowoqon wal@|@ we should eat@
+@Luhin@|@Peter@
+@luqum@|@earthworm, worm@
+@luqum'@|@earthworm@
+@ma@|@or (A ix Malin ma a ix Mikin - It is Malin or it is Mikin)@
+@ma'@|@macaw@
+@maj@|@no, particle of negation for actions that would have been completed or would have taken place in the future @
+@maj hinb'eyoq@|@I won't walk@
+@majan@|@borrow, loan, loaned, worker@
+@majane'@|@to loan@
+@majanej@|@to loan@
+@majilal@|@hunger (due to poverty)@
+@mak@|@cover (verb), subordinator telling who@
+@mak txel@|@who@
+@makan@|@closed@
+@maktxel@|@who@
+@Maktxel maxach maq'oni?@|@Who hit you?@
+@mal@|@swell, swelling@
+@Malin@|@Maria@
+@maltin@|@monkey@
+@maltin k'oy@|@monkey, small monkey with a long tail@
+@mam@|@father@
+@mamej@|@father@
+@mamej ch'okil@|@male grackle@
+@mamej kaxhlan@|@rooster@
+@mamej txutxej@|@parents, parents (of a family)@
+@mamich@|@my son (mijo term of endearment)@
+@mamin@|@gentleman, grandfather@
+@mamixh@|@my son (mijo term of endearment)@
+@man@|@buy (Maxin man te mansan te' - I bought an apple), buys (My brother buys his shoes here), isn't, particle of negation for a stative  (Man ya'oj ay no' tx'i' - The dog is not sick) or a verb in the potential time aspect (Man hoj sman kaxhlan ix q'opo - The woman will not buy the hen)@
+@man wojtaqoq@|@I don't know@
+@man yeloq@|@it isn't true@
+@mana'@|@to purchase, to buy, buy@
+@manaq@|@it isn't, it wasn't@
+@manchaj@|@particle of negation for imperitive verbs (Manchaj haman jun no' txutxe kaxhlan - Don't buy a hen)@
+@manteka@|@fat (body fat)@
+@mantekil@|@fat@
+@mantika@|@fat@
+@map@|@cohune palm@
+@maq'@|@to hit@
+@maq' kam@|@kill@
+@maq' poj@|@break (Tx'otx' xij max smaq' poj naq unin - The boy broke the pot - Although both hit and break are used in this phrase it is only translated as broke), chop (Yetoq ch'en echej chi smaq' poj naq winaq te si' - With an ax the man chops the firewood)@
+@maq'a@|@swim@
+@maq'a'@|@hit her, hit him, hit it, to hit (Max smaq' naq Lwin no tx'i' - Peter hit the dog)@
+@maq'b'il@|@hit@
+@maq'b'il hach@|@you are hit@
+@maq'b'il heb'@|@they are hit@
+@maq'b'il hex@|@you all are hit@
+@maq'b'il hin@|@I am hit@
+@maq'b'il hon@|@we are hit@
+@maq'b'il ix@|@he is hit@
+@maq'b'il naq@|@he is hit@
+@maq'il@|@thresh (He threshed the wheat)@
+@maq'in@|@hit me@
+@maq'kamoq@|@kill@
+@maq'lay kam@|@kill with the passive marker lay (max maq'lay kam - was killed)@
+@maq'layi@|@hit used passively (maxin maq'layi - I was hit)@
+@maq'wajaneq@|@hit you all (a group of persons gathered together)@
+@maq-@|@root word meaning closed@
+@maqan@|@closed@
+@maqtxel@|@who (who went to town to get the chickens?)@
+@mar@|@sea@
+@masanil@|@all@
+@maslo'@|@ate (fruit)@
+@maspoj ayoq@|@split it (with an instrument)@
+@mastx'oxo'@|@showed it@
+@mata@|@word used to express the desire to get something done or wish you had done something or the desire to do something in the future (mata chex lowi 'hope you all eat')@
+@matan@|@gift@
+@matzaj@|@pineapple (te matzaj 'the pineapple')@
+@matzak@|@pineapple (te matzak 'the pineapple')@
+@max@|@past tense marker@
+@max'alji@|@was born@
+@max'ejek' yetoq@|@had it, owned it, possessed it@
+@max'el swayan@|@woke up@
+@max'etex toq@|@it was rotten (the weaving had rotted)@
+@max'ilchaj yuj@|@met it, found it@
+@max'ojomb'i@|@coughed@
+@max 'achni@|@bathed@
+@max 'ajwan@|@got up, raised up, stood up@
+@max 'apni@|@arrived (there)@
+@max 'apni yin@|@came to be@
+@max 'ay k'ayi@|@he fell@
+@max 'ay teq@|@went down@
+@max 'el toq@|@left, went out@
+@max 'el yaw@|@he shouted@
+@max 'elajoq@|@escaped, fled@
+@max 'ok toq@|@entered@
+@max 'oq'i@|@cried@
+@max 'uli@|@arrived (here)@
+@max 'ulji toq@|@melted@
+@max 'uqi@|@boiled@
+@Max ajol cham komam k'u@|@Our father sun is out (The sun is shining)@
+@max b'eyi@|@walked@
+@max b'eytzelayi@|@was put in motion, was directed, was aimed at@
+@max b'ili@|@was moved@
+@max b'on toq@|@spread it, smeared it with mud@
+@max jaqchaji@|@opened it@
+@max jayi@|@came@
+@max k'ay toq@|@was wrong, erred@
+@max k'ay toq yuj@|@forgot it@
+@max k'ayi@|@erred, made a mistake@
+@max k'owi@|@crawled, went on hands and knees@
+@max k'umb'i@|@got tired@
+@max kol@|@defended, protected@
+@max kolo'@|@third person singular helped or saved third person singular (he helped her or she helped him etc.)@
+@max malejoq@|@swelled, was swollen@
+@max maq'on kam@|@killed@
+@max q'axb'oji@|@crossed@
+@max saqb'anelayi@|@it was whitened (perhaps it was bleached to whiten it)@
+@max sb'eq k'ayoq@|@lost it@
+@max sb'ono'@|@painted it@
+@max sjatne'@|@made it@
+@max sjib'tz'umne'@|@whipped it@
+@max sjo taqoq@|@dried it@
+@max sjolom xik'nej@|@carried it on the shoulders@
+@max sk'ay eloq@|@spent it (money)@
+@max sk'ilista nene'@|@he tickled him or her (or she tickled him or her)@
+@max skala'@|@mixed it@
+@max slo'@|@ate it@
+@max sma' kamoq@|@killed it@
+@max sma'a'@|@swam@
+@max smajane'@|@loaned it, received it@
+@max smeltzene'@|@flipped, turned over@
+@max smeq' ekoq@|@carried it (in the arms)@
+@max sna teq@|@remembered it@
+@max staq'wene'@|@he answered him or her (or she answered him or her)@
+@max sten ek'oq@|@disturbed, obstructed, impeded@
+@max stena'@|@touched it@
+@max taq toq@|@it withered, it dried up@
+@max toj@|@he she or it went@
+@max toj jupupoq@|@flew@
+@max toj k'u@|@sunset@
+@max tx'atoq@|@burned (His skin burned from the friction)@
+@max txaywi@|@fished@
+@max tz'a toq@|@lit it, set it on fire@
+@max tz'atoq@|@burned@
+@max tzaleji@|@rejoiced@
+@max tzaqayi@|@was enough, was sufficient@
+@Max wal tet ix hintxutx@|@I said to my mother (Max 'completed action marker' wal 'I say' tet 'to' ix 'respectful title for a young woman' hintxutx 'my mother')@
+@max wayi@|@slept@
+@max wilon@|@I saw@
+@max xewi@|@rested@
+@max xhi'@|@bit it (him or her)@
+@max ya' kamoq@|@killed it@
+@max ya'a'@|@gave it@
+@max yab'e'@|@heard it@
+@max yahaj toq@|@raised it up, brought it up@
+@max yak toq@|@put it in@
+@max yala'@|@said@
+@max yaq' meltzajok@|@returned it, gave it back@
+@max yaq' nab@|@it rained@
+@max yaq' q'axnajoq@|@heated it@
+@max yaq' tet@|@gave him or her@
+@max yaq'a'@|@gave it@
+@max yawte'@|@he called it@
+@max yeche'@|@weighed@
+@max yelq'ene'@|@robbed@
+@max yetb'ene'@|@accompanied him or her or it@
+@max yetx'a'@|@pinched it@
+@max yi skaq'e'@|@he or she took a breath@
+@max yi teq@|@brought it@
+@max yila'@|@saw it@
+@max yoqtane'@|@knew it@
+@max yuk'aytoq@|@drank it@
+@max yuk'e'@|@drank it@
+@maxa lo te on@|@You ate avocado@
+@Maxa maq'ch puerta@|@You (singular) closed the door@
+@Maxach b'eyi@|@You (singular) walked@
+@Maxach wayi@|@You slept@
+@maxb'et yila'@|@visited it@
+@maxb'eyi@|@walked@
+@maxb'ot ayoq@|@wrapped it up, wrapped it@
+@maxch'ib'i@|@grew@
+@maxchewb'i'eloq@|@it froze@
+@maxchiwaji@|@barked@
+@maxilchaj yuj@|@found it, got it@
+@maxjiq'wi@|@choked, drowned@
+@maxjorxi yul snuq'@|@snored@
+@maxk'ay toq@|@he lost it@
+@maxkami@|@died@
+@maxmaq' ekoq@|@nailed it, hammered it@
+@maxmaq ayi@|@it closed@
+@maxmeltzaji@|@was returned@
+@maxmulnaji@|@he worked@
+@maxnupayi@|@got married@
+@maxpatx'ine'@|@braided it@
+@maxpoj ayoq@|@split it (with the hand)@
+@maxpoj toq@|@broke it (an item from the kitchen)@
+@maxq'a toq@|@it rotted (the fruit or wood)@
+@maxq'aj toq@|@it broke (a pencil or ruler)@
+@maxq'ayi@|@got accustomed, was found@
+@maxqay xolaq@|@inserted it@
+@maxsaqchi@|@he played@
+@maxsaya'@|@looked for it, searched for it@
+@maxsb'al toq@|@rolled it@
+@maxsb'alejoq@|@rolled it up, coiled it@
+@maxsb'olo'@|@roasted it@
+@maxsb'uq'u@|@swallowed it@
+@maxsb'utu'@|@put it out@
+@maxscha'@|@received it, took it@
+@maxsche'npixne'@|@knotted it@
+@maxscheqa'@|@he sent it, he ordered it@
+@maxschi'@|@bit it (or him or her), he or she ate (meat), stung him@
+@maxsik'a'@|@chose it, selected it, picked it out@
+@maxsik'ajoq@|@collected it, gathered it@
+@maxsjala'@|@weaved it, wove it@
+@maxsjatx'a'@|@harvested it, got the corn ready for storage@
+@maxsjitz'toq@|@scratched it (especially with something sharp like scratching the paint of a car)@
+@maxsjoso'@|@sculpt, carve@
+@maxsjutx'u'@|@ground it@
+@maxsk'exa'@|@changed it, changed it (barter)@
+@maxsk'isa'@|@swept it@
+@maxsk'ocho'@|@removed the grain from it (especially the corn from the cob once it is dried)@
+@maxsk'ub'e'@|@kept it, saved it@
+@maxsk'up ajoq@|@chopped it (to chop meat in pieces)@
+@maxsk'uxu'@|@ate it@
+@maxskach'a'@|@chewed it@
+@maxskol 'o@|@helped it@
+@maxskol sb'a@|@he defended or protected himself, she defended or protected herself, it defended or protected itself@
+@maxskolo'@|@saved it@
+@maxskuy'u'@|@learned it@
+@maxskuyu'@|@he or she taught (speaking of education)@
+@maxslaja'@|@finished it, used it up@
+@maxslaq'a'@|@hugged it, hugged him@
+@maxsleq'a'@|@licked it@
+@maxslo'@|@ate (at a meal)@
+@maxsloyaytoq@|@consumed it@
+@maxsmana'@|@bought it@
+@maxsmaq' pojoq@|@cracked it, split it@
+@maxsmaq'a@|@hit it@
+@maxsmaq'a'@|@hit him@
+@maxsmaqche'@|@covered it@
+@maxsmasa'@|@rubbed it (softly), gently passed the hand over something@
+@maxsmitx'a'@|@grasped it, held it@
+@maxsmuqu'@|@burried it@
+@maxsmutz'ay sat@|@closed (the eyes)@
+@maxsna'@|@thought it@
+@maxsnistz'ahoq@|@burned it@
+@maxspakalne'@|@mended it@
+@maxspaqa'@|@folded it@
+@maxspoj ayoq@|@split it (halved it)@
+@maxsq'ana'@|@utilized it, used it, asked, requested@
+@maxsq'anb'ene'@|@browned it, toasted it@
+@maxsq'ol eloq@|@peeled it@
+@maxsqixayoq@|@tied it@
+@maxstek' toq@|@stepped on it, walked on it@
+@maxstek'a'@|@kicked it@
+@maxsten toq@|@pushed it@
+@maxstojlene'@|@he paid it@
+@maxstx'a'@|@chewed it@
+@maxstx'aja'@|@washed it@
+@maxstx'alne'@|@threaded it@
+@maxstx'oxo'@|@pointed it out@
+@maxstxal toq@|@scratched it (with a sharp instrument or the fingernails), scratch it, scrape it, claw it@
+@maxstxala'@|@scratched it@
+@maxstxaya'@|@strained it@
+@maxstxika'@|@cooked it@
+@maxstxono'@|@sold it@
+@maxstz'ib'e@|@wrote it@
+@maxstz'isa'@|@sewed it@
+@maxstz'ub'u'@|@kissed him or her or it, nursed (a baby at the breast), smoked it, sucked it (candy or whatever)@
+@maxstz'unu'@|@planted it (the seed), seeded it@
+@maxstzok'o'@|@cut (this past tense word is used when wood has been cut with an instrument)@
+@maxswatx'jene'ajoq@|@built it, made it, constructed it@
+@maxswaychene'@|@dreamt it, dreamed it@
+@maxsxu'@|@blew on it@
+@maxsyatz'el yal@|@twisted it, squeezed it out@
+@maxsyuk'e'@|@drank it@
+@maxtechaj yuj@|@suffered, endured@
+@maxtoji@|@went, left (He left earlier), traveled@
+@maxtxonji@|@did business, commerce@
+@maxtz'a toq@|@burned down, burned@
+@maxwayi@|@slept@
+@maxworwoni@|@bubbled (The water will bubble when it begins to boil)@
+@maxxiwi@|@got scared@
+@maxyab'e'@|@heard it, understood it@
+@maxyab'ekoq@|@listened to it, paid attention to it, knew it@
+@maxyab'le'@|@tried it, tasted it@
+@maxyak yechel@|@marked it@
+@maxyal b'aytet yeji@|@explained it@
+@maxyala'@|@he or she said, related it, told it@
+@maxyaq' lajwoq@|@hurt it@
+@maxyaq' owal@|@fought@
+@maxyeb'e 'eloq@|@hid it@
+@maxyeche'@|@measured it@
+@maxyechwene'@|@waited for it@
+@maxyetne'@|@fooled it, fooled him, fooled her, tricked it (him or her)@
+@maxyetne' eloq@|@damaged it@
+@maxyetne toq@|@destroyed it, took it apart, decomposed it, spoiled it@
+@maxyi toq@|@carried it@
+@maxyila'@|@saw it, observed it, looked at it@
+@maxyiqa'@|@carried it (on the back)@
+@maxyoche'@|@liked it, wanted it@
+@maxyoche'ajoq@|@wanted it@
+@maxyuqte'@|@ran it off, herded it@
+@mayal@|@completely, it is done, it is finished@
+@me@|@ram (sheep)@
+@me'@|@ewe (sheep), lamb@
+@meb'a'@|@orphan, poor@
+@meb'ixh@|@orphan@
+@Mekel@|@Mike, Michael@
+@mem@|@dumb, mute, stupid@
+@menuha@|@liver@
+@mi@|@can be combined with an adverb that describes the way something happened to indicate desire or doubt (watx' mi means it would be good), or@
+@mich'@|@shell (of a shellfish)@
+@Mikin@|@Micaela@
+@miman@|@a lot, big, large@
+@miman hayej@|@river@
+@miman hon@|@we are big, we are many@
+@miman q'a'@|@big fire (like a bonfire)@
+@miman sat@|@ample, wide@
+@miman stel@|@long, tall@
+@miman tel@|@long@
+@miman yich@|@deep (literally this means big its bottom or butt), profound@
+@mimanilej@|@body@
+@mimank'ulal@|@pardon, forgiveness@
+@mimej@|@big@
+@mimeqwal stel@|@very long@
+@mis@|@cat@
+@mis no'@|@The animal is a cat@
+@mitx'@|@clench, grab@
+@mitx'b'il@|@holding on@
+@mitxajoq@|@hold@
+@mixt'b'il@|@held in the hand, grasp (Get a good grasp on that)@
+@mochan@|@classifier for a group of things that is piled together@
+@mojan@|@mate, pair, spouse@
+@mok@|@container made of glass or clay that is a lot wider around the center used for water oil or other liquids, jar, jug, pitcher@
+@motx@|@basket@
+@motz@|@seven little goats (this has to do with the children's story of The Wolf And Seven Little Goats)@
+@moyan@|@fog, sky (when there is bad weather)@
+@mu@|@blackberry bush, hierba mora is a favorite among the Mayan people it is botanically known as Solanum americanum (used medicinally and in making traditional dishes such as tamales@
+@mub'@|@smoke@
+@muhej@|@brother in law or sister in law(woman's brother or sister in law), sister in law (man's sister in law)@
+@mukun@|@squash, winter squash, zucchini@
+@mul@|@sin, crime@
+@mulej@|@crime, defect, error, fault, sin@
+@mulnaj@|@work@
+@mulnajil@|@work@
+@muluq'@|@larva@
+@muq@|@bury@
+@mutz'@|@to close the eyes@
+@mutz'utz'@|@little fish@
+@muxukej@|@belly button@
+@na@|@house, his house@
+@na'@|@house, think@
+@na ch'en@|@cave@
+@nab'@|@rain@
+@nab'il@|@winter@
+@naj@|@classifier used in Acatan and San Rafael to indicate respect for a man @
+@najab'@|@lake, sea@
+@najat@|@far, long@
+@nal@|@ear of corn@
+@nam@|@butterfly, moth@
+@nan@|@half (Mayal ay snan te' mansan The apple is cut in half), lower back, middle, waist@
+@nanb'e@|@in the middle of the road@
+@nanej@|@waist@
+@nani'@|@today@
+@nansan@|@apple@
+@naq@|@classifier used with reference to the young man, he, boy@
+@naq ach'ej@|@the teen@
+@naq tx'ijan winaq@|@the smart man@
+@naq unin@|@the little boy@
+@naq winaq tu@|@that one man, that man@
+@nawal@|@witch or sorcerer who casts fire through his eyes and has the power to transform himself into a coyote or dog or another animal, animal of Guatemalan indigenous tradition that is an inseparable companion of a person and is considered a spiritual protector throughout his life, witch@
+@nawux@|@knife@
+@nawxu@|@knife@
+@ne@|@tail@
+@ne'@|@tail@
+@nehej@|@tail@
+@nen@|@mirror, glass@
+@nene'@|@baby@
+@net'an yeji@|@very fat person@
+@ni'@|@father in law@
+@nihej@|@son in law, man's mother or father in law@
+@nilan@|@classifier for an uncountable group of things@
+@nip@|@patch, jimmy rig, temporary repair or fix@
+@niqb'al@|@sharpening stone@
+@no@|@the (no tx'i' the dog), classifier meaning the and employed only with animals or things derived from animals (like leather items etc)@
+@no'@|@animal (this comes from the classifier 'no')@
+@no' ib'atx@|@armadillo@
+@No' leche aj piyiyoq' no'@|@The milk rose (and spilled)@
+@no chej tu@|@that one horse, that horse@
+@no chib'ej@|@the meat@
+@no tx'i'@|@the dog@
+@noche@|@night@
+@noj@|@to become full@
+@nojan@|@with the head bent forward@
+@nojan 'ayoq@|@bent forward, face down (The body was found face down on the ground)@
+@nojan yeji@|@bent forward@
+@nojnaq@|@full@
+@numan@|@calmed down@
+@nup@|@to marry@
+@nuq'@|@neck@
+@nuq' a q'ab'@|@wrist (literally neck of the hand)@
+@nuq'ej@|@neck, throat@
+@och@|@want, handle (of an agricultural tool like a hoe)@
+@oj'ojtaq@|@five by five, five at a time@
+@ojob'@|@cough@
+@ojtaq@|@to know (Hojtaq maktxel max mulnaj kayti? - Do you know who worked here?)@
+@ojtaqb'il@|@famous, well-known, already known@
+@ojtaqnej@|@to come to know (Haq' yojtaqnej hamam k'al hatxutx - literally 'Give to know your father and your mother - Let your father and mother know)@
+@ok@|@directional meaning in or into, to enter@
+@okan@|@come ahead, come on in (Okan yul na Come on into the house)@
+@olajon k'al@|@three hundred@
+@olan@|@empty, hole@
+@on@|@avocado@
+@onon@|@May Beetle@
+@oq@|@coyote, wolf@
+@oq'@|@cry@
+@ostok@|@buzzard@
+@ow@|@anger@
+@owal@|@fight, war@
+@owalej@|@anger, wrath@
+@owan hex@|@there are five of you@
+@ox@|@achiote (or annatto a tropical American evergreen shrub or small tree that has showy flowers the seed is used as coloring and a flavoring)@
+@oxeb'@|@three@
+@oxej@|@within three days, in three days@
+@oxji@|@three days ago@
+@oxlajuneb'@|@thirteen@
+@oy@|@pillar, stake, support@
+@oyal a'ej@|@puddle@
+@oyeb'@|@five@
+@oytol@|@mushroom@
+@pa@|@rustic bag-shaped net that is made from vegetable fibers (such as maguey) to transport fruits and other loads, knapsack, backpack@
+@pachom@|@ear of corn with several heads@
+@paj@|@acidic, sour@
+@pajaj@|@waterfall@
+@pajich@|@tomato@
+@pajtza'@|@frog@
+@pak'@|@wooden spoon or spoon made of calabash@
+@pak'an 'ajoq@|@face up (He fell backwards and landed face up)@
+@palan@|@forehead@
+@palanej@|@forehead@
+@palta@|@but@
+@pan@|@wheat bread@
+@panan@|@flat, level, plane@
+@panb'uq@|@mushroom@
+@paqan@|@face down, fold, to bend or twist something into a curve@
+@paqb'il@|@fold, folded@
+@paqb'il ayoq@|@folded, fold@
+@paqyom@|@brooding hen (hen sitting on her eggs)@
+@pat@|@hut, hut with a straw roof, shack, small house, tortilla@
+@pata@|@guava@
+@patan@|@rose@
+@patej@|@tortilla@
+@patix@|@dried fruit@
+@patx'ilej@|@braid@
+@patxan@|@classifier for things that are flat@
+@patzab'@|@beam, rafter, girder, shade cloth@
+@pax@|@instead@
+@pay@|@fox, skunk@
+@payxa@|@since before, long ago@
+@payxataxi@|@long ago@
+@pech@|@duck@
+@penek@|@knee@
+@penekej@|@knee@
+@peqey@|@toad@
+@peru@|@but@
+@petet@|@an instrument for spinning thread, spindle@
+@petxaq'@|@prickly pear, cactus@
+@petzan@|@seated on his feet@
+@pichan@|@wrapped in something@
+@pichil@|@clothing@
+@pichilej@|@clothing, a piece of clothing@
+@pilalixh@|@pillar@
+@pim@|@bushy (The tree is so bushy it gives great shade), dense (this sweater is of dense wool so it keeps me very warm), thick (said of flat objects like a book)@
+@pisanex@|@heart@
+@pitalej@|@callus, corn (hard bump on the foot)@
+@pitz'okoq@|@squeeze@
+@pixan@|@heart (Kawal ya' hinpixan 'my heart hurts'), tied up@
+@pixanej@|@heart@
+@pixb'al@|@place where something can be tied (like an animal)@
+@pixb'il@|@held in the hand, grasp (Get a good grasp on that)@
+@pixton@|@thick tortilla@
+@poj@|@to break@
+@pojan@|@split@
+@pojil@|@simple, broken@
+@pojow@|@pus, matter (from a wound)@
+@polb'il@|@cut@
+@pom@|@the resin of a tree (the resin smells like incense), incense@
+@pon@|@jocote tree (related to the cashew it produces edible fruit)@
+@pop@|@mat@
+@popej@|@mat@
+@poq@|@sand@
+@poqoq@|@dust (noun)@
+@poqoqal@|@sand@
+@poratonixh@|@banana@
+@porque yuj wal Dyos b'ay koman Dyos@|@Because thanks to God - literally Because thanks to God to our father God)@
+@poyan@|@loose clothing@
+@poyej@|@mecapal (a sash with two cords on the ends that is used to carry heavy loads by putting part of the sash on the forehead and suspending the load by the cords behind the back)@
+@premo@|@brake@
+@puj@|@Venus@
+@pural@|@slow, delay, late@
+@puro@|@all, really@
+@puylan sek'@|@big clay bowl@
+@q'a@|@bitter, warm (weather)@
+@q'a'@|@fire, to rot, torch@
+@q'a'ej@|@fire@
+@q'ab'@|@hand@
+@q'ab'ej@|@cloth, hand@
+@q'aja'@|@bridge@
+@q'ajil@|@broken@
+@q'ala'@|@tie@
+@q'alem@|@garbage@
+@q'alneb'al@|@question@
+@q'amb'il@|@used@
+@q'amb'ilxa@|@used@
+@q'an@|@mature, to ask, to love, to want, yellow@
+@q'an te'@|@sycamore pole@
+@q'an tx'otx'@|@yellow dirt, yellow earth@
+@q'anb'il@|@used@
+@q'anej@|@commission, language, message, talk, word, pillow@
+@q'anejal yib'an@|@introduction (as in the introduction in a book)@
+@q'anleb'al@|@interview, question, consultation@
+@q'antaq@|@yellowish, a little yellow, half-yellow@
+@q'anyin@|@yellow@
+@q'ap@|@clothing@
+@q'aq@|@flea@
+@q'aq'@|@fire@
+@q'aq' q'aq'@|@the fire@
+@q'axan@|@hot (like the son or hot from the sun), hot (water or food etc), warm@
+@q'axep@|@numeric classifier for half of something like half an orange@
+@q'ayi@|@to accustom or get used to something@
+@q'ayil@|@rotten@
+@q'eq@|@black (yin), dark@
+@q'eq tx'otx'@|@black earth, black ground@
+@q'eqyin@|@black@
+@q'exan@|@left@
+@q'in@|@party, fiesta@
+@q'inal@|@terrain, land@
+@q'o'@|@fig leaf gourd@
+@q'och@|@ladder@
+@q'oj@|@mask, trunk (of a tree), log@
+@q'ojoch@|@cane, walking stick, walking stick that is taller than a man and has an iron tip@
+@q'ol@|@pitch@
+@q'opoj@|@girl, youth (female), young woman@
+@q'opoj ix@|@virgen (in reference to a young unmarried woman)@
+@q'opox@|@young woman@
+@q'oq'@|@fig leaf gourd, winter squash@
+@q'oqtoq@|@throw@
+@q'oy@|@classifier for family members of the feminine gender or intimate friends (only in San Juan)@
+@q'oy Matal@|@Magdalena@
+@q'u'@|@quetzal (Quetzals are beautiful birds with iridescent green or golden-green bodies and red bellies)@
+@q'ucheloq@|@cut@
+@q'uq'@|@quetzal (Quetzals are beautiful birds with iridescent green or golden-green bodies and red bellies)@
+@q'utej@|@coat (something to protect against the weather)@
+@ropil@|@Capixay or Lopil is the typical suit of clothes that men from San Mateo Ixtatan wear (it consists of white shirt and pants handmade black vest cowboy type boots and cowboy type hat)@
+@ropilej@|@man's shirt@
+@roxax@|@roses@
+@s-@|@third person singular possessor of a noun that begins with a consonant, his, hers, its@
+@s- heb'@|@third person plural possessor of a noun that begins with a consonant, their@
+@sa uk'@|@nit, lice egg@
+@sachil@|@small hard seeds of fleshy fruits and vegetables (such as grapes apples melons or tomatoes), squash seed@
+@sachilal k'um@|@squash or pumpkin seed@
+@sak'@|@cricket, grasshopper, locust@
+@sal chop@|@itchy skin rash@
+@sam@|@comal, thin unglazed clay or metal disk that is used to cook tortillas etc@
+@sanan yayji@|@thick@
+@sanik@|@ant@
+@sanik'@|@ant@
+@sapato@|@shoe@
+@saq@|@clean, white (yin)@
+@saq'a'@|@carbon, coal, ember@
+@saq asum@|@fog, mist, haze@
+@saq b'ak'om@|@ice@
+@saq b'ak'um@|@ice@
+@saq b'at@|@hail@
+@saq ch'ech@|@any of several plants of the agave, fiber from the agave plant, rope made from agave fiber@
+@saq jolom@|@white head@
+@saq puminaq'eloq@|@washed out, depleted, discolored, for the original color of something to fade out, to make a color less intense@
+@saq tx'otx'@|@white earth or dirt@
+@saq uk'@|@body lice@
+@saq xilej@|@white hair, grey hairs@
+@saqach@|@game@
+@saqachwom@|@player (in a game)@
+@saqb'at@|@hail@
+@saqchi@|@play@
+@saqyin@|@white@
+@saran yeji@|@thick stick or pole@
+@sat@|@eye, fruit, this is the classifier for fruit and it means 'the' or 'a', his eye, face@
+@sat k'ix@|@blackberry bush@
+@sat kan@|@sky, heaven@
+@sat kenei@|@banana@
+@sat mansan@|@apple@
+@sat naq@|@his eye@
+@sat penek@|@leg (below the knee)@
+@sat penekej@|@shin, calf@
+@sat te'@|@fruit@
+@sat tx'otx'@|@ground, land@
+@sat xan@|@wall@
+@sataq@|@in front of@
+@satej@|@evil eye, eye (as a part of the body), face@
+@satkan@|@sky@
+@satxil@|@seed (squash)@
+@say@|@to look for, search@
+@saya'@|@to look for, to obtain@
+@sb'a@|@herself, himself, itself (b'a plus a person from Set A indicates that action is a reciprical action where both parties receive the action or it is reflexive so the person who does the action is the one who suffers the effects of that action so - they did it to each other or she did it to herself), to herself, to himself@
+@sb'a heb'@|@themselves (b'a plus a person from Set A indicates that the person who does the action is the one who suffers the effects of that action so - they did it to themselves), to themselves@
+@sb'ak'sb'a@|@for two people or animals to curl up together@
+@sb'aq'@|@its seed (small hard seeds of fleshy fruits and vegetables like apple seeds or watermelon seeds etc@
+@sb'aqil jolomej@|@skull@
+@seb'@|@light weight@
+@seb'ach@|@come@
+@sek'ej@|@plate@
+@sekoj@|@easy@
+@setan yayji@|@circumference, round (the pan lid is round)@
+@setan yeji@|@round@
+@si'@|@wood (especially firewood)@
+@si'b'al@|@place where they cut firewood@
+@sik@|@cold, cold (water food ambiance day)@
+@sik'@|@tabacco@
+@sikaloq@|@freeze@
+@sip@|@tick@
+@sit'an yeji@|@short and fat person@
+@sjolom imej@|@nipple@
+@sjolom witz@|@summit, peak@
+@sjolom xik'@|@shoulder@
+@sjun k'al@|@twentieth@
+@sk'atan@|@alongside, close to, next to, beside@
+@sk'ultaqil chej@|@deer@
+@sk'ultaqil txitam@|@javalina, collared peccary@
+@skab'@|@second@
+@skamixh@|@his shirt@
+@skan@|@fourth@
+@skan hach@|@you are four@
+@skawil@|@its hardness (Manxa skawiloq st'oklay tx'otx' tx'otx' The earth is very hard to hit) @
+@skol@|@help@
+@skolon@|@he helps, he helped, he help@
+@skonob@|@your town@
+@skultaqil ak'atx@|@ocellated turkey@
+@slajon@|@tenth@
+@smaqil na@|@door of the house (its door house)@
+@smasanil@|@all@
+@sna@|@his house@
+@snan@|@in half (Mayal ayk'ewnaj snan te' chulul The zapote is already cut in half), in the middle of, middle (They are in the middle of the field)@
+@snanb'e@|@in the middle of the road@
+@snohal aqan@|@black wasp@
+@snuq' ha'@|@source of running water, headwaters, spring, water source@
+@snuq' q'ab'ej@|@wrist@
+@so'@|@fifth, loosen@
+@somk'ulal@|@loss of control or order or discipline, out of control@
+@soq'om@|@swamp@
+@sot@|@maraca@
+@sotz'@|@bat@
+@spat@|@his tortilla, her humble house (ranch)@
+@spichil@|@his clothes@
+@sputal@|@its bitterness (unripe)@
+@sq'ab'@|@branch, his hand@
+@sq'ab' jakub'@|@sculling oar for a canoe@
+@sq'ab' ka'@|@a simple hand turned grain mill, a stone used as a pestle to grind paint or drugs by hand@
+@sq'ab' na@|@key@
+@sq'inib'@|@early@
+@stel@|@height, size, stature@
+@sti@|@bank, entrance of the house or town etc, riverside@
+@sti'@|@edge, border@
+@stiq'il tan@|@ash@
+@stojol@|@price, value@
+@stx'otx@|@his land, her land@
+@stx'otx' heb@|@their land@
+@stxam@|@point (it's point)@
+@stxikin@|@corner@
+@stxowal satej@|@eyelash@
+@stz'aqb'al q'anej@|@his lie, his falsehood@
+@stz'umal@|@scales (of fish)@
+@sub'oj@|@easy@
+@sun@|@sunflower@
+@suq'te'@|@smell@
+@suq'xi@|@breathe@
+@sutz'an@|@cloud@
+@swaqlajon k'al@|@three hundred and twentieth@
+@swol@|@its offshoot, its shoot, its sprout@
+@sxaq te te'@|@leaf@
+@sxil@|@his hair@
+@sxumakil@|@its flower (flower of a plant)@
+@syajawil@|@kingdom, government@
+@syajiloq@|@to despise or scorn someone@
+@t'eb'eb'i@|@smooh@
+@t'enan yeji@|@bald@
+@t'eq'@|@stab@
+@t'erjolom@|@bald, shaved (head)@
+@t'inan@|@straight@
+@t'inan yeji@|@full or ready to give birth@
+@t'int'in@|@arrow@
+@t'isan xak'al yeji@|@part of the body that has been hit or kicked@
+@t'ujan@|@drop (noun), drop (of water etc)@
+@t'unan@|@hanging@
+@t'uxan yeji@|@very slim, very thin@
+@ta@|@introduces a clause that gives the condition for which the main phrase can take place (If you do this you will get that), if@
+@taj@|@pine, Montezuma pine@
+@tak'al b'aytu'@|@up to there, until there@
+@tan@|@ash, ashes, lime (not the fruit), positional root that indicates the placement or form of the object@
+@tanaq@|@ripe@
+@taqin@|@dry@
+@taqin tihal@|@thirst, drought@
+@tat@|@thick, dense@
+@tawak@|@tabacco@
+@te'@|@stick, this is the classifier for trees and any wooden products and some fruits it means 'the' or 'a', tree, pole, wood, stake, jail@
+@te' k'ewex@|@the sweetsop tree@
+@te' pahich@|@the tomato@
+@te' tulus@|@the peach@
+@te' turusna@|@the peach@
+@te'ej@|@pole, stick@
+@te miman taj@|@the large pine@
+@te pajich@|@the tomato@
+@te taj@|@the pine tree@
+@tejan@|@because@
+@tek'an@|@full, standing, stopped@
+@tel@|@height, positional meaning lying down@
+@telan@|@lying down, resting@
+@telan ayoq@|@lie, lying down (people animals or logs)@
+@telaq@|@mountain@
+@telk'oji@|@fall@
+@ten@|@spinal column, to move, to push@
+@tena'@|@push@
+@tenaj toq@|@push@
+@tenam@|@Mayan Temple (There are quite a few Mayan Temples in Huehuetenango), village (?)@
+@tenu@|@cotton@
+@tenuq'@|@cotton@
+@teq@|@directional meaning to or toward@
+@teqan maj@|@perhaps not, I don't believe so@
+@tet@|@a preposition that indicates to whom the action is directed or for whom the action was carried out (tet hintxutx 'for my mother' - tet xutx 'to his mother'), for, to@
+@texhelixh@|@scissors@
+@ti@|@locative and demonstrative that makes reference to a person animal or thing that is found near to the speaker and appears with or without the glottal stop consonant ', edge, that, that one, this, this one@
+@ti'@|@locative and demonstrative that makes reference to a person animal or thing that is found near to the speaker and appears with or without the glottal stop consonant ', mouth, this, that, this one, that one@
+@ti'ej@|@mouth@
+@tihej@|@beak, language, mouth, tongue@
+@tiq'al tan@|@ashes@
+@tixhtoq@|@irrigate it@
+@tjol@|@straight, direct, good attitude@
+@to@|@still (I still have that book you gave me)@
+@toj@|@pay, to go, verb root meaning to pay or to go@
+@toj jupupoq@|@fly@
+@toji@|@intransitive go (Ta chach toji chin toj k'apaxoq 'If you are going I will go too' the first go 'going' is intransitive but the second go is transitive and therefor lacks the -i)@
+@tojol@|@direct, good attitude, just, right, straight, upright@
+@tok'elteq@|@pull@
+@tol@|@particle that introduces a non-verbal predicate and functions as the object of the main clause, particle that introduces an adverbial clause of reason (I stayed home because I got sick), because, what, particle that functionas as a subordinator meaning 'what', that (The girl said that you were hitting her brother)@
+@tolto'@|@new@
+@ton@|@we go@
+@tonton@|@owl@
+@topan@|@armfull, handful, bunch@
+@toq@|@directional meaning from or away, negative particle meaning 'not', no, it wasn't, it isn't@
+@toxak'al@|@the act of making (Frank makes a lot of noise when he cuts firewood), the act of doing (His hat is very bright)@
+@toxal@|@the act of making (Frank makes a lot of noise when he cuts firewood), the act of doing (His hat is very bright)@
+@trenta@|@thirty@
+@tu@|@makes reference to a person animal or thing that is found far from the speaker it can be combined with either jun or juntzan to make a demonstrative pronoun (Max stx'aj jun tu an is - that one washed the potatoes)@
+@tu'@|@makes reference to a person animal or thing that is found far from the speaker it can be combined with either jun or juntzan to make a demonstrative pronoun (Max stx'aj jun tu an is - that one washed the potatoes)@
+@tuktuk@|@woodpecker@
+@tumi ja'@|@particle of negation tumi with the required emphatic particle ja' together meaning 'is that not' or 'it isn't', is that not, it isn't@
+@tumin@|@money@
+@turusna@|@peach (te turusna 'the peach')@
+@tutz'utz'i@|@smooth, even@
+@tuxkum@|@ear of corn with few grains@
+@tx'ab'in@|@legumenous plant from central america whose leaves are edible and are used to make tamales or to cure a hangover, rattlepod@
+@tx'aja'@|@wash@
+@tx'ajb'al@|@altar (place where prayer is recited)@
+@tx'akb'aj@|@hawk@
+@tx'alej@|@cotton thread@
+@tx'amb'alej@|@hair ribbon@
+@tx'an@|@classifier used with things made of fibers (tx'an un notebook), climbing plant, cord, lasso, rope, vine@
+@tx'an txim tu@|@that net@
+@tx'an unej@|@paper@
+@tx'anej@|@rope@
+@tx'anilej@|@vein@
+@tx'ankan@|@guts, intestines@
+@tx'ap te'@|@wooden peg, pin@
+@tx'at@|@bed@
+@tx'atej@|@his bed@
+@tx'atxa'@|@gum@
+@tx'eken@|@leaf-cutter ant@
+@tx'eq'an yeji@|@tall person@
+@tx'etx@|@rope, twine, cord, agave fiber or rope made from the agave@
+@tx'i@|@dog@
+@tx'i'@|@dog, eyetooth, fang, mutt@
+@tx'i' no'@|@The animal is a dog@
+@tx'ik eh@|@fang, eyetooth@
+@tx'ina'@|@cut@
+@tx'ix@|@liver, small corn tamale@
+@tx'otx'@|@earth, ground, land, soil@
+@tx'otx' wilux tu@|@that clay whistle (or flute like instrument)@
+@tx'otx'ej@|@earth@
+@tx'ow@|@rat, mouse@
+@tx'uxub'@|@fine agave fiber, twine (thin)@
+@txala'@|@scratch@
+@txam@|@nose@
+@txam sk'ul@|@breast@
+@txamej@|@mucus from the nose, nose, snot@
+@txanej@|@woman's dress@
+@txay@|@fish@
+@txayb'al@|@fishing net@
+@txayib'@|@sifter (for nixtamal)@
+@txekel@|@I wonder (txekel maktel max kami I wonder who died), it is to say, it shows, who knows@
+@txennej@|@few@
+@txetan yeji@|@tall@
+@txikin@|@ear@
+@txikinej@|@ear (as a part of the body)@
+@txim@|@net, large net made of agave fibers@
+@txim pa@|@rustic bag-shaped net that is made from vegetable fibers (such as maguey) to transport fruits and other loads on the arm@
+@txinupaiyi@|@wedding@
+@txitam@|@pig, hog@
+@txitx@|@grandmother, rabbit@
+@txomb'al@|@market place@
+@txon@|@sale, sell@
+@txonb'al@|@market, marketplace, plaza@
+@txowej@|@poncho, blanket@
+@txul@|@urine, pee@
+@txulj@|@pee, urinate@
+@txuljinaq@|@peed, urinated@
+@txutx@|@mother@
+@txutxa'@|@sea@
+@txutxej@|@mother@
+@tyempo@|@time@
+@tz'ab'@|@rainbow@
+@tz'aqb'al tx'otx'@|@mud, clay@
+@tz'aqom q'anej@|@liar@
+@tz'atoq@|@burn@
+@tz'eyan@|@sideways, on its side@
+@tz'ib'@|@scripture, write, writing@
+@tz'ikin@|@bird@
+@tz'il@|@dirt, dirtiness, dirty, disgusting, grime@
+@tz'il pichilej@|@dirty clothing@
+@tz'in@|@yuca, cassava@
+@tz'inan@|@quiet (environment), silent (environment)@
+@tz'is@|@sew@
+@tz'ub'@|@to suck, to kiss @
+@tz'ub'u'@|@suck@
+@tz'uj@|@drop (of water etc)@
+@tz'um@|@hide, rubber, skin@
+@tz'umal@|@bark, skin, skin (of a person)@
+@tz'umal te'@|@bark (skin)@
+@tz'umalej@|@husk, outer layer that surrounds eggs and fruits etc, peel, rind, skin (of a human)@
+@tz'unb'al itaj@|@vegetable garden, vegetable@
+@tz'unun@|@hummingbird, sparrow@
+@tz'up@|@feather@
+@tz'uqb'al@|@chisel@
+@tz'usub'@|@grape@
+@tz'utz'@|@coati, coatimundi, white-nosed coati@
+@tza'@|@excrement, manure, poop@
+@tzak'@|@cricket@
+@tzalej k'ulal@|@happiness@
+@tzalojk'ulal@|@joy, happiness@
+@tzan@|@some, some (tzan winaq iloni Those men who saw)@
+@tzapan@|@short@
+@tzayej@|@excrement, manure, poop@
+@tzeqelen@|@locust, cicada@
+@tzes@|@pigweed@
+@tzet@|@interrogative marker (question marker), how (how did you heal it?), what (What did you do to heal it?), what is?, why@
+@tzet-xami@|@to want to know, to wonder (I wonder why they charged me so much)@
+@tzet-xhi@|@What do you say? (Tzet-xhi - chim hoche' chach toj konob'? - What do you say - do you want to go to town?)@
+@Tzet hab'i chikay?@|@How are you ma'am?@
+@Tzet k'al xyun@|@How (it was done or how it happened)@
+@Tzet max hala'@|@What did you say?@
+@tzet max uji@|@What happened?@
+@Tzet max uji?@|@What could have happened?@
+@Tzet xhi a k'ul?@|@How are you?@
+@tzet yetal@|@What is?@
+@tzet yetal max q'aji@|@What broke?@
+@Tzet yetal max q'aji?@|@What is it that broke?@
+@Tzet yok a b'i?@|@What is your name?@
+@tzetal@|@what, what is@
+@tzetal max hala@|@What did you say?@
+@tzetxami@|@to want to know (I wonder why they scolded me)@
+@tzetxhi@|@What do you say? (What do you say, would you like to go to town?)@
+@tzetyetal@|@What is it? (What is it that you said to me?), what is?@
+@tzetyuj@|@Why? (Why did he hit the child?)@
+@tzewan@|@laugh, to laugh (Pascual laughed with me)@
+@tzewi@|@laugh, to laugh (Look at how the child laughs)@
+@tzewilal@|@laugh@
+@tzeyej@|@laugh, to laugh (Don't laugh at those people)@
+@tzeyejtaq@|@something that makes people laugh (That act makes people laugh)@
+@tzib'@|@fern@
+@tzihap@|@pine needles or straw etc that is mixed with mud to make it stronger when making adobe@
+@tzij@|@smoked, the smell of skunk or urine@
+@tziktzik@|@rattle@
+@tzima@|@hardshell gourd, hardshell gourd (calabash)@
+@tzok'o'@|@cut@
+@tzolol@|@butterfly@
+@tzotot@|@lungs@
+@tzoyol@|@chayote@
+@tzu@|@hardshell gourd@
+@tzub'@|@saliva@
+@tzub'e@|@spit@
+@tzub'eh@|@saliva@
+@tzub'ej@|@saliva, spit@
+@tzukutz@|@belly@
+@tzunan ix nuhej@|@younger sister@
+@tzunan winaq nuhej@|@younger brother@
+@u@|@necklace@
+@ub'@|@blow gun, quail@
+@ub'al@|@bean@
+@ub'eb'al@|@blow gun@
+@uch@|@wild dove@
+@uch'ej@|@epazote a short-lived perennial used to flavor beans and as a tea or herb used medicianlly to treat malaria@
+@uhej@|@necklace@
+@uji@|@can, could@
+@uk'@|@head lice, lice, louse, to drink@
+@uk'a'@|@horn, antler@
+@uk'a'ej@|@horn (of an animal)@
+@uk'ahej@|@horn, antler@
+@uk'eja'@|@drink@
+@uk'is@|@louse, lice@
+@uk'um 'an@|@drunk, bum@
+@ulul@|@atole made from flour or corn flour (a drink made of cooked corn diluted with water or milk and cooked until thickened)@
+@un@|@paper, notebook, book, document, letter@
+@une'@|@son, daughter@
+@unej@|@paper, notebook, book, document, letter@
+@unin@|@child, youth, boy, small, young@
+@unin taj@|@small pine@
+@uq'@|@drink@
+@uq'aja@|@corn drink@
+@uqeb'@|@seven@
+@uqtaq@|@seven at a time, by sevens@
+@uqtem no'@|@hunt (animals)@
+@uqub'ix@|@within a week@
+@uqub'ixi@|@a week ago, seven days ago@
+@us@|@fly, mosquito@
+@usluk'eb'@|@eleven@
+@ute'@|@to make, make, to do, do@
+@utej@|@to make, make, to do, do@
+@utxum@|@possum, opossum@
+@uxan@|@weakness due to an illness@
+@uxhtaq@|@brother@
+@uxhtaqej anab'ej@|@brothers and sisters@
+@uxtaq@|@paternal uncle@
+@uxwom kapey@|@persons who harvest coffee beans by hand@
+@uy@|@edible flower from the fig leaf gourd@
+@uyb'al@|@blow gun@
+@w-@|@first person singular possessive, my, mine@
+@wa@|@stopped@
+@wa'@|@good, I give@
+@wab'al@|@place where something can stop (like a bus stop)@
+@wahan@|@standing@
+@wahan ayoq@|@stand@
+@wahan okoq@|@standing, stopped@
+@wajab'@|@guitar, tun (a cylindrical percussion instrument that was used as an instrument of war and in magic and religious ceremonies or to transmit messages in the jungle), turkey's wattle@
+@wajaji@|@to cut, to do a good job of collecting something@
+@wajanil@|@gathering, meeting, reunion@
+@wajanoq@|@participant in an activity@
+@wajil@|@hunger, ordinary hunger@
+@wajk'ulal@|@loss of control or order or discipline, out of control, preoccupied, worried@
+@wajlayi@|@collect, gather, cure with massages@
+@wajloj@|@to eat together, to collaborate in a meal@
+@wajq'anej@|@gossip, comment or news that has not been verified that circulates amoung the people (generally negative comments or news)@
+@wajtumin@|@collection of money (They took up a collection for the sick man)@
+@wakax@|@cow@
+@wal@|@so, particle of exhortation (wayan wal is a way of requesting or commanding that someone go to sleep), can be combined with adverbs that describe the way something happened to express doubt or desire (choq wal hach lipk'oji 'I hope you trip'), an intensifier (pero jun wal xajaw 'but it is for one month' - heb' naj kaw xmulna wal tu' - They really worked hard - Miman wal stel no hachej 'Your horse is very tall'), very, I say, I said@
+@wal wuninal@|@my children@
+@wal yel@|@really@
+@wala'@|@I say (max wala' 'I said')@
+@walan@|@under me, beneath me, below me@
+@wale'@|@cane from the cornfield, sugar cane@
+@walon@|@to say (transitive)@
+@waltoq@|@I said (from here to there to the person standing across from me)@
+@wanab' wuxhtaq@|@my brothers@
+@waqeb'@|@six@
+@waqk'al@|@one-hundred-twenty (six times twenty)@
+@waqlajuneb'@|@sixteen@
+@waran yeji@|@a very tall object@
+@watx'@|@correct (tojol watx'), good, right, right hand, useful, in the best way possible@
+@watx' heb'@|@they are good@
+@Watx' in k'ul@|@I am well@
+@watx' mi@|@it would be good@
+@Watx' mi a k'ul?@|@How are you@
+@watx'q'ab'ej@|@right (hand)@
+@wawal@|@my cornfield@
+@wax@|@mountain lion@
+@waxaqeb'@|@eight@
+@waxaqlajuneb'@|@eighteen@
+@waxaqtaq@|@eight at a time, by eights@
+@way@|@sleep@
+@wayan wal@|@you go to sleep (as a request)@
+@wayi@|@sleep@
+@wayitx@|@sleep@
+@waykan@|@star@
+@waynaq@|@asleep@
+@wayu'@|@kinkajou@
+@wayub'@|@nest@
+@wayutx'@|@kinkajou@
+@wek'an yeji@|@very skinny person@
+@wel@|@to blow, to fan@
+@wesan yeji@|@a poorly dressed person (The person was poorly dressed because of poverty)@
+@westaq@|@person who is poorly arranged (Westaq spichay naq winaq The man is poorly dressed)@
+@wewan@|@shade (shade of a tree)@
+@wex@|@undershorts, pants, jeans@
+@wexej@|@pants, pants (of ladinos)@
+@wik'an yeji@|@very thin person@
+@wikan@|@my family member@
+@winaq@|@group of people, man, younger adult male@
+@winaq hon@|@we are men@
+@winaq nuhej@|@brother (of a woman)@
+@winaq unin@|@boy, male child, son@
+@witxin@|@back@
+@witz@|@hill, mountian, mountain range, volcano@
+@witz ak'al@|@rolling hill, smooth hill@
+@woj b'atz'@|@zaraguato monkey@
+@wojb'atz'@|@howler monkey@
+@wojtaq@|@I know@
+@wonit@|@hat@
+@wotz'an@|@crouching@
+@wun@|@my paper@
+@wuro@|@burro@
+@wuxhtaq wanab'@|@my brothers and sisters@
+@x'at@|@his bed@
+@x'awchaji@|@it was seeded (sown)@
+@x'oktoj@|@went in, entered@
+@x-@|@prefix indicating a completed action@
+@xab'@|@vomit@
+@xab'i@|@vomit@
+@xajan@|@godfather@
+@xajanej@|@godfather, godmother@
+@xajaw@|@month, moon@
+@xal@|@obligatory classifier that indicates respect and is used with an older woman or one in a superior position or for natural elements that are considered to be related to the woman or a person's superiors, older woman@
+@xal Axhul@|@the Señora Angelina@
+@xal kotxutx xajaw@|@our mother moon@
+@xala@|@obligatory classifier that indicates respect and is used with an older woman or one in a superior position or for natural elements that are considered to be related to the woman or a person's superiors@
+@xala ixnam@|@the madam (xala 'classifier denoting respect' - ixnam 'old woman')@
+@xam k'ulej@|@chest, thorax@
+@xan@|@wall, adobe, palm (tree)@
+@xanab'@|@footgear (sandals and shoes etc)@
+@xanab'ej@|@sandal, shoe@
+@xapon@|@soap@
+@xaq@|@a white deposit formed in a pot by the evaporation of water containing lime, leaf, scale@
+@xaq tihej@|@lip@
+@xaq un@|@piece of paper, page@
+@xaqej@|@leaf@
+@xaw@|@vomit, thrown@
+@xaxoj@|@thin (things)@
+@xaxoj pat@|@thin tortilla@
+@xb'eyi@|@walked@
+@xe'@|@root@
+@xe'ej@|@root@
+@xe ch'im@|@mushroom@
+@xe tzoyol@|@chayote root@
+@xehej@|@root@
+@xen@|@mosquito@
+@xenen@|@mosquito@
+@xetan yeji@|@round@
+@xew@|@bluebird@
+@xew tu@|@later, next@
+@xewi@|@to rest@
+@xeyan yeji@|@snout or muzzle shaped@
+@xhalu@|@bottle@
+@xhapon@|@soap@
+@Xhewo@|@Eusebio@
+@xhi@|@he says, it says, said, says, she says@
+@xhi'w@|@to be afraid@
+@xhib'@|@scare, scare away, frighten off@
+@xhila@|@chair@
+@xhitoq@|@bit it (him or her)@
+@Xhiwin@|@Joan@
+@xhulq'ab'@|@whistle@
+@Xhunik@|@John@
+@Xhuwin@|@Joan@
+@xiab@|@comb (the instrument)@
+@xib'tomb'al@|@phantom, imaginary or fantastic figure that is not real and usually has no fleshly body that someone believes they have seen (especially an image of a deceased person appearing to someone)@
+@xij@|@pot (for cooking)@
+@xik'@|@wing, feather@
+@xik'ej@|@feather, shoulder, wing@
+@xik'esj@|@shoulder, wing@
+@xil@|@beard, cricket, feather, hair, wool@
+@xil jolomej@|@hair@
+@xil no'@|@hair of an animal@
+@xil satej@|@eyebrow@
+@xil tihej@|@beard, moustache@
+@xilej@|@hair@
+@xim@|@spider@
+@xin@|@then (as an intensifier 'then you think we can go?')@
+@xiqan@|@numeric classifier denoting a piece of something able to be separated into sections like the piece of cane between two knots@
+@xiqb'il@|@cut@
+@xiwil@|@a lot, many, very@
+@xiwil hex@|@you are many@
+@xiyab'ej@|@comb@
+@xjayi@|@came@
+@xkami@|@died@
+@xkolon@|@he helped, he helps@
+@xma'chajom@|@was stuck, was glued@
+@xmaq'waji@|@he or she hit (in the antipassive voice)@
+@xmaq'wi@|@he or she or it hit@
+@xmaqayi@|@it closed@
+@xojb'al@|@place to do laundry, washing machine@
+@xolaq@|@among, between, within@
+@xolaq te'@|@forest@
+@xotan@|@wrapped in something@
+@xotx@|@freshwater jute snail@
+@xotx'@|@barn owl, screech owl@
+@xoxoj@|@thin (things)@
+@xoyan a'ej@|@lake@
+@xoyan yaji@|@round (2 dimensional)@
+@xsjatne'@|@made it@
+@xtoj@|@he went, she went@
+@xtoj jupnajoq@|@flew@
+@xub'@|@leg (above the knee), to whistle, whistle@
+@xub'ej@|@leg@
+@xuhoni@|@blow@
+@xuk@|@basket with a handle, basket with hoops@
+@xul@|@flute, whistle@
+@xumak@|@flower@
+@xutx@|@his mother@
+@xutx naq@|@his mother@
+@xuwatoq@|@give@
+@xwayi@|@slept@
+@xyojtaqne'@|@knew it@
+@y-@|@third person singular possessive, his, hers@
+@y- heb'@|@third person plural possessive, their, theirs@
+@ya@|@its sharp edge@
+@ya'@|@classifier used for family members of the male gender or intimate friends (only in San Juan), pain (Ya' hinka' literally is My molar aches or I have a toothache), spicy hot, difficult, something that hurts@
+@ya' Matin@|@Matthew@
+@ya'ay@|@sick@
+@ya'k'ul@|@stomach ache (Ya' sk'ul naq unin yuj no' luqum literally His stomach aches boy because of worm)@
+@ya'sat@|@sickness of the eyes (Ya'ay naq wune' yuj yasatej Sick my son because of sickness of the eyes)@
+@ya mi maktxel@|@someone, one, any, one or more people or things (indeterminate)@
+@yab'an@|@get sick, got sick@
+@yab'ej@|@hear@
+@yab'en@|@something sent to a person through someone else, a charge, a mission@
+@yab'il@|@illness, lump on the skin, pimple@
+@yab'ilal@|@age, years old, years of a person's age (In just three more years Alberto will be a teenager)@
+@yab'ixal@|@history, history of, story, story of@
+@yachinni@|@to bathe oneself@
+@yajaw watx'nem yiqel@|@judge (Cham Yajaw Watx'nem Yiqelal a cham chi kawxinen el junoq owal The judge is the one who resolves conflicts)@
+@yajawil@|@boss (The boss is over there so be careful), owner@
+@yajiloq@|@despise or scorn someone@
+@yajoloq@|@to come down@
+@yajti'@|@up (There is a house up above), upwards @
+@yajtu'@|@up (There is a house up above), upwards @
+@yak'alil@|@plains of (hills or mountians etc)@
+@yak'il@|@new, to use for the first time@
+@Yakin@|@Diego@
+@yakyet@|@to decide something on your own without consulting others@
+@yal@|@broth or juice from something, short, trap@
+@yal ak'wal@|@dew, moisture that permeates the atmosphere at night@
+@yal chej@|@burro, donkey@
+@yal imej@|@mother's milk, breast milk (of any kind)@
+@yal kab'@|@honey (of a bee)@
+@yal satej@|@tears@
+@yal te'@|@sap (as in sap from a tree)@
+@yal tihej@|@spittle, saliva, dribble, drool (literally 'water of the mouth)@
+@yal tx'an@|@small cord@
+@yal unin@|@toddler, small child, baby@
+@yala'@|@he or she said, say@
+@yalan@|@under, underneath@
+@yalan heb'@|@underneath them, beneath them, below them, under them@
+@yalan q'ab'ej@|@armpit, underarm@
+@yalan te na@|@under the house@
+@yalan tihej@|@chin@
+@yalantoq@|@before@
+@yalib'@|@someone's mother in law@
+@yalil@|@his her or its wieght@
+@yalixh@|@small@
+@yalixh hach@|@you are small@
+@yalixh sat@|@narrow@
+@yalixh tel@|@short@
+@yalon@|@he or she says@
+@yamami@|@four legged animal that eats hungrily (the cow ate the corn hungrily)@
+@yamaq'il@|@yard, courtyard, patio@
+@yamb'al@|@medicine (of)@
+@yamita@|@perhaps, maybe@
+@yan@|@grass, forage, hay@
+@yanab'@|@sister (of)@
+@yaneb'il@|@very little@
+@yanil@|@remedy@
+@yaq@|@stench from rotting matter@
+@yaq'@|@tongue@
+@yaq'a'@|@give@
+@yaq'on@|@he she or it gives (or if followed by kan - gives changes to leaves)@
+@yaqan@|@handle, his or her foot, stalk, stem@
+@yaqb'an@|@meanwhile, while@
+@yaqju@|@acid stomach@
+@yas@|@wound@
+@yatne'@|@to do harm or cause suffering@
+@yatut@|@his or her house@
+@yatx'atx'i@|@grows very well (a plant)@
+@yatz'ajoq@|@to grab an animal that is on the ground (such as a rabbit)@
+@yatz'atz'i@|@sharp pain, stong pain@
+@yawal@|@his cornfield, her cornfield@
+@yawal heb'@|@their cornfield@
+@yawb'al@|@planting stick (of), club (of)@
+@yawjub'@|@trachea@
+@yax@|@blue, crab, green (yax yin), raw, unripe@
+@yax ch'en@|@river rock@
+@yax kamich@|@instant death, to die instantly@
+@yax kan@|@flying snake@
+@yax kanal@|@volcano@
+@yax mansan@|@green apple@
+@yax q'ayil@|@open wound, sore@
+@yax tx'otx'@|@fertile ground@
+@Yaxanlaq yax'anlaq@|@I am from Yax'anlaq Yax'anlaq@
+@yaxchew@|@to catch a cold@
+@yaxjut'inaq sat kan@|@clear blue sky@
+@yaxk'ahi@|@to make a fuss or scandal@
+@yaxte'@|@green stick, green firewood@
+@yaxyin@|@blue or azure, green, sky blue@
+@yayilal@|@suffering@
+@yayili@|@delicate, frail@
+@yayti'@|@down, under, beneath@
+@yaytu'@|@down, under, underneath@
+@ye'@|@tooth (of)@
+@ye' tx'i'@|@canine tooth@
+@yechb'anil@|@measurement@
+@yechej@|@his hatchet, ax (his)@
+@yechel@|@photo, sign, signal, measurement, image@
+@yechel aqanej@|@footprint@
+@yechel hinsat@|@my photo@
+@yechel satej@|@photo@
+@yechel unin@|@doll@
+@yechel yaqan@|@footprint, imprint, impression, trail, track@
+@yechel yas@|@scar@
+@yeji@|@state shape or position marker@
+@yejmach'ne'@|@to use someone to joke or fool around@
+@yek@|@recent@
+@yekal@|@tomorrow@
+@yektoq@|@recently@
+@yel@|@true, certain@
+@yel tu'@|@east@
+@yel wal@|@true, certain@
+@yelapnoq@|@is nothing (Tzet wal yelapnoq naq ayach  He is nothing to you), isn't important@
+@yelk'al eloq@|@the truth@
+@yelk'ulal@|@quickly, rapidly, soon@
+@yelk'ulal hon@|@we are fast, we are quick@
+@yelmi@|@it will be true (What this woman says will be true)@
+@yeloloq@|@occurs, is the time for, comes out of something@
+@yeloqwali@|@hopefully@
+@yeltu'@|@East@
+@yelwali@|@the truth@
+@yelxal@|@too much, plenty@
+@yen@|@a delicious candied treat that is made of corn and is part of the patronal feasts and the holy week@
+@yenel@|@shadow of, shade of@
+@yenel na@|@shade of the house@
+@yesalil@|@miraculous, miraculous (Kawal ay yesalil Cham Komandihos 'Our God is very miraculous'), spirit (The spirit of God is with us)@
+@yet@|@it is of, it belongs to (Mak ay yet no tx'i'? Whose dog is that?), this relational noun indicates who is the possessor of one of the nouns (Yet naq unin tx'an un The notebook belongs to the child), particle that introduces the adverbial clause concerning the time something happened, when@
+@yet aq'walil@|@at night, by night@
+@yet axka tu@|@clause that explains the purpose for which the pricipal action is carried out@
+@yet k'u@|@by day, during the day@
+@yet ka@|@particle that introduces the adverbial clause of purpose explaining why the primary action took place@
+@yet sq'inib'@|@in the morning@
+@yetb'i@|@spouse, mate, companion@
+@yetnej@|@to do harm or cause suffering@
+@yetoq@|@relational noun that indicates with whom or with what something was done, with@
+@yetz'e'@|@to make faces at someone, to immitate a third person (as when a comedian imitates a famous person)@
+@yetz'ej@|@to make faces at someone, to immitate a third person (as when a comedian imitates a famous person)@
+@yewax@|@mare (Max inman jun no hinyewax I bought a mare)@
+@yib'an@|@above, on top of, on, relational noun that indicates the theme or topic, about@
+@yib'an na@|@roof@
+@yib'an q'inal@|@world@
+@yich@|@bottom (buttocks)@
+@yichin@|@his back, her back, it's back@
+@yila'@|@see@
+@yili@|@color, appearance@
+@yim ix@|@breast (female)@
+@yim naq@|@breast (male)@
+@yin@|@exterior, near, out (as a preposition), third person singular (y) with the relational noun (in) that introduces the patient of a transitive verb to make it intransitive (A jun ix max q oqwaj yin no tx'i' It was a woman who shot the dog)@
+@yin k'uhal@|@by day, during the day@
+@yin te te'@|@skin, husk, peel@
+@yin txikin@|@grandson@
+@yin txikinej@|@grandson@
+@yinej@|@shell, rind, husk, hull, peel, crust@
+@yintaq@|@behind, in back of@
+@yisq'aq chej@|@horse's hoof @
+@yiximal aqanej@|@toe@
+@yiximal q'ab'ej@|@finger@
+@yob'@|@bad@
+@yob' ix@|@pregnant woman@
+@yob'al@|@bad@
+@yojtaq@|@he knows, she knows@
+@yojtaqnej@|@let him know, let her know@
+@yojtaqxa@|@he already knows, she already knows@
+@yok in b'i@|@my name is (John yok in b'i - My name is John)@
+@yolil chopej@|@anus@
+@yoqach@|@three rocks that hold up a comal (for cooking)@
+@yoqech@|@trivet, trivet (three rocks that hold up a comal for cooking)@
+@yowalil@|@it is necessary, obligatory (He is obligated to come)@
+@yox@|@third@
+@yub'al@|@his kidney, it's bean@
+@yuchan@|@armload, handful@
+@yuj@|@because of, by, due to, in order to, relational noun that introduces a clause of reason and means by or because of, so that@
+@yuj tol@|@because, particle used to introduce a clause of reason or cause (The child is sleeping because he wore himself out playing)@
+@yuj tu@|@because of that, clause that explains the purpose for which the pricipal action is carried out, for that reason, so@
+@yuj tu'@|@clause that explains the purpose for which the pricipal action is carried out@
+@yuj wal@|@due to, by, because of (wal is an intensifier that makes this a more powerful statement like saying 'if it weren't for this that would not be')@
+@yuj xan@|@clause that explains the purpose for which the pricipal action is carried out, because of that, for that reason, so@
+@yujk'al@|@because of@
+@yujtol@|@because@
+@yujul@|@thick strong pole used to bar a door, bar@
+@Yujwal a Dios@|@Thank you@
+@yujwaldiosalil@|@grattitude, gratefulness@
+@yuk'a@|@lunch, his drink@
+@yuk'a'@|@horn, antler@
+@yul@|@relational noun meaning 'inside of' (yul tx'otx xij - Inside the pot), inside, in, into, interior@
+@yul ha'@|@in the water@
+@yul k'ulej@|@belly@
+@yul na@|@inside the house, in the house@
+@yul q'ab'@|@palm of the hand@
+@yul q'ab'ej@|@palm of the hand@
+@yul snuq'@|@her voice (Her voice is rather high-pitched), his voice (I heard his voice in the hall), throat@
+@yul txikin@|@earring@
+@yul txikinej@|@earring@
+@yula'@|@into the water, swim@
+@yulb'e@|@in the street, in the road@
+@yulkan@|@in the storage area built in the rafters of a house (this is often just a platform where things are stored and not a closed in area), in the attic@
+@yulte'@|@jail@
+@yulul@|@his atol (thick corn drink)@
+@yulyet@|@to decide something on your own, to decide without consulting others@
+@yun hoqab'i@|@so be it@
+@yun hoqab'i axka tu@|@so be it@
+@yune'@|@daughter (of a woman)@
+@yune tz'ikin@|@squab, pigeon (fledgling)@
+@yunoqab'i@|@let it happen like that, this word is used to agree with something that has been said it is like saying 'I hope that it turns out that way'@
+

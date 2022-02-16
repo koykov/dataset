@@ -1,0 +1,2120 @@
+@English@|@Adyghe@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@@|@, , plhen, Shuplhesht@
+@¼@|@plh`ane@
+@½@|@Näqo@
+@1 %@|@Ahishem shäshu zä@
+@1/10@|@psh`ane@
+@1/3@|@shane@
+@1/5@|@tfane@
+@1/6@|@xane@
+@1/7@|@blane@
+@1/8@|@yane@
+@1/9@|@bghuane@
+@10 days@|@Mefipsh`@
+@10 months@|@Mazipsh`@
+@10%@|@ahishem shäshu psh`ä@
+@100@|@she@
+@100 parts@|@Ahishe@
+@100.000@|@minishe@
+@1000@|@min@
+@1000 has 3 zeros@|@Minim nulish  yä`@
+@1000.000@|@milyon@
+@1000.000.000@|@milyard@
+@10000@|@minipsh`@
+@101@|@shere  zäre@
+@11@|@Pshik'uz@
+@11000@|@min  pshäk'uz@
+@120@|@shere  t'o`ire@
+@12000@|@min  pshäk'utú@
+@160@|@shere  t'o`ishre@
+@170@|@shere  t'o`ishre  pshä`re@
+@2 boys and 2 girls@|@Alit'ure psheshit'ure@
+@2 chicks@|@Nek'ushhit'u@
+@2 days@|@Mefit'u@
+@2 ears@|@Thek'umit'u@
+@2 eyebrows@|@Neptsit'u@
+@2 eyes@|@Nit'u@
+@2 heads@|@Shhi-t'u@
+@2 hearts@|@Gui-t'u@
+@2 lips@|@Upsh`it'u@
+@2 minds@|@Gui-t'u  shhit'u@
+@2 months@|@Mazit'u@
+@2 years@|@Yälhesit'u@
+@200@|@shit'u@
+@2000@|@minit'u@
+@20000@|@min   t'o@
+@21@|@t'o`ire  zäre@
+@22@|@t'ure@
+@23@|@shäre@
+@24@|@plh`äre@
+@25@|@tfäre@
+@26@|@xäre@
+@27@|@bläre@
+@28@|@yäre@
+@29@|@bghure@
+@3 days@|@Mefish@
+@3 months@|@Mazish@
+@3 years@|@Yilhesish@
+@30@|@psh`äre@
+@300@|@shish@
+@31@|@pshäk'uzre@
+@32@|@pshäk'ut're@
+@33@|@pshäk'shre@
+@34@|@pshik'uplh`re@
+@35@|@pshäk'utfre@
+@36@|@pshäk'uxre@
+@37@|@pshik'ublre@
+@38@|@pshäk'uyre@
+@39@|@pshäk'ubghure@
+@3d p. (indirect) object@|@ja-@
+@3d p. obj.@|@-0-@
+@3d p. subj. intrans@|@ma-@
+@3d p. subj. trans.@|@0-, ä-@
+@4 days@|@Mefiplh`@
+@4 months@|@Maziplh`@
+@4 years@|@Yälhesiplh`@
+@40@|@t'o`it'u@
+@400@|@shiplh@
+@41@|@t'o`it'u re zäre@
+@42@|@t'o`it'u re t'ure@
+@5 days@|@Mefitf@
+@5 months@|@Mazitf@
+@5 years@|@Yälhesitf@
+@5 years and 6 months@|@Yälhesitfre mazixre@
+@50@|@shenäqu@
+@500@|@shitf@
+@51@|@shenäqore zäre@
+@6 days@|@Mefix@
+@6 months@|@Mazix@
+@6 years@|@Yälhesix@
+@60@|@t'o`ish@
+@600@|@shix@
+@61@|@t'o`ishre zäre@
+@7 days@|@Mefibl@
+@7 days in a week@|@Theomafem mafibl  yi`@
+@7 months@|@Mazibl@
+@7 years@|@Yälhesibl@
+@70@|@t'o`ishre  psh`äre@
+@700@|@shibl@
+@8 days@|@Mefiy@
+@8 months@|@Maziy@
+@8 years@|@Yälhesiy@
+@80@|@t'o`iplh`@
+@800@|@shiy@
+@81@|@t'o`iplh`re zäre@
+@9 days@|@Mefibghu@
+@9 months@|@Mazibghu@
+@9 years@|@Yälhesibghu@
+@90@|@t'o`iplh`re psh`äre@
+@900@|@shibghu@
+@A bad dusty wind@|@Sape  ayye  qèpshe@
+@A bad weather@|@Washor ayye@
+@A bad woman@|@Shuz  bzac@
+@A beautiful bride@|@Näse dax@
+@A big cock@|@Atqa  yin@
+@A big dance is nice@|@Cegu yänär daxe@
+@A big feast@|@Näsashe  yän@
+@A black shoe@|@Tsuqe  shu`its'@
+@A boy and a girl@|@Alere  pshashere@
+@A cavity in a tooth@|@Tse-ghuan@
+@A day@|@Zy-mafe@
+@A deep well@|@Psine  kuw@
+@a demonstrative stem@|@-da, -da, a, jäj, na-@
+@A famous adäge meal@|@Shäpsä@
+@a flock of sheep@|@-bga@
+@A foot has 5 toes@|@Zi-lhaqom  lheqombitf  yi`@
+@a good milk@|@She deghu@
+@A good woman@|@Shuz deghu@
+@A good worker@|@Lejak'u  deghu@
+@A hard pillow@|@Shhante  p?t@
+@A long coat@|@Tsye ch'äh@
+@A long shirt@|@Cane ch'äh@
+@A narrow shoe@|@Tsuaqe  zeju@
+@A needle with thread@|@Maste  `udan@
+@A nice girl@|@Psheshe qabz@
+@A nice long white shirt@|@Cane daxe ch'ihe fij@
+@A nice shirt@|@Cane dax@
+@A nice weather@|@Washor daxe@
+@A nice white shirt@|@Cane daxe fij@
+@A night and a day@|@Zy-shesh zymaf@
+@a ram slaughtered@|@näšä@
+@A smart boy@|@Ale  shan@
+@A soft pillow@|@Shhante  shab@
+@A tall girl@|@Pshashe  ch'ih, Psheshe ch'äh@
+@A week@|@Thomaf@
+@A week has 7 days@|@Zy-thomafem mafibl yi@
+@A white shirt@|@Cane fij@
+@A year@|@Yälhes@
+@Abdomen@|@Nibe@
+@Abtuse angle@|@Quape  paq@
+@Acute angle@|@Quape  papts'@
+@Add@|@Xelhhen@
+@Adyghe's dance@|@gosheghaz, goshemaf, haft, hasht, Lhperichu, nebgiplh`, Nebgish-zefak'u, qafe, sheshen, wic@
+@Adyghe cheese@|@Adäge qoay@
+@Adyghe Cult. Soc. in Holland@|@Hollandem Yä-adäge Kultur Xase@
+@Adyghe dance@|@Adäge qèsh`ach', Zefak'u@
+@Adyghe dances are different@|@Adäge qèsh`ach'exer zetèfäghex@
+@Adyghe society@|@Adäge xase@
+@Adyghe tradition's in high level@|@Adäge xabzer lhage@
+@Adyghe tradition is complicated@|@Adäge xabzer helh@
+@Adyghe tradition is sophisticated@|@Adäge xabzer daxo ghepsäghe@
+@Adyghe world Society@|@Dunaye psew adäge xase@
+@Adyghes wear the adyghe coat@|@Adigeme adige tsye zshalhe@
+@Adyghes wear the adyghe hat@|@Adigeme adige pao  zshalhe@
+@Afterward they put in the oven@|@Yit'uane  hekum  ralhe@
+@Age@|@Näbj@
+@air@|@žä@
+@Ale@|@sidmi  zialegor@
+@alive@|@Shä`@
+@all right@|@Psew@
+@Almost 6000 m high@|@Metre minixim nes yi`atghaghe@
+@alright@|@Terez@
+@an Adyghe dance@|@-zefak'u@
+@an interrogative stem@|@tár@
+@An orphan boy@|@Ale yäb@
+@An ugly woman@|@Shuz ay@
+@ancient women's dress@|@ch'ach'ä@
+@And so on@|@Cayfedeze  mak'o@
+@anger@|@gwäh'agwäz@
+@angle@|@Quape@
+@animal (1 y. old and older)@|@tachaxw@
+@animal carcass@|@bghwa@
+@ant@|@q:ámzagw@
+@Antartic@|@Ant-arktika@
+@Apple@|@Mäye@
+@Arak@|@Raqe@
+@Arctic@|@Arktika@
+@are@|@Shyt@
+@arising@|@Qèch'ä@
+@arm@|@'a-bL@
+@Arm pit@|@Bligu@
+@army@|@dza, ja@
+@arrogant@|@pága@
+@arrow@|@ša@
+@Ash@|@Yaje@
+@ashes@|@jaža@
+@ask@|@uätshan@
+@Aslant eats at mornings well@|@Aslant pshedijre shu`o mashxe@
+@asp@|@näxä, näxáj@
+@At a certain night@|@Zy-sheshgorem@
+@At a certain time@|@Zegorem@
+@At the first day@|@Yapere  mafem@
+@Atmosphere@|@we@
+@Attention@|@Gu-lh?t@
+@aunt@|@syate-shiapkhu@
+@Autumn@|@Bjihe@
+@back@|@chä-b@
+@Back bone@|@Txits'e@
+@back of neck@|@psatäq:@
+@bad@|@'ája@
+@badger@|@tshäqw@
+@ball@|@xwtshana@
+@barley@|@h'a@
+@bay@|@pts'aghuapt@
+@bean@|@Ceshä@
+@bear@|@mäsa@
+@beard@|@žácha@
+@beat@|@wätan@
+@beautiful@|@daxe@
+@beech-tree@|@tfajä@
+@Beer@|@Bire@
+@beetle@|@cäzä@
+@Before that we had 8@|@Yapach'e 8  yit`agh@
+@begin@|@Shhe@
+@behind@|@pxa@
+@Behind@|@Sh`ip@
+@bellows@|@šädä-bžä@
+@belly@|@näba@
+@belong to the water@|@Psäm@
+@bent@|@Ont'aghe@
+@big@|@-šxwa, jänä, yini@
+@Big belly@|@Nibe-shu@
+@big dog@|@He yän@
+@Bile@|@Zez@
+@billy-goat@|@acha, atsha@
+@bird@|@bzäwä@
+@bird's fat@|@Läna@
+@black@|@s.ä-ca@
+@Black sea@|@Xä  shu`ätsé@
+@Bladhead@|@Quyä@
+@Blanket@|@Shexe`en, shxe`en@
+@Bless you@|@We-psew@
+@Blind@|@Neshu@
+@blink of the eye@|@Nache-nashh@
+@blister@|@psä-bäb@
+@blood@|@Lä@
+@blow@|@japšan@
+@Blue@|@Shukhuant'e@
+@body@|@Pqy@
+@body part@|@pq'ä@
+@Boiled egg@|@Ch'ench'e  ghejuagh@
+@Bone@|@Qumishha@
+@Bone marrow@|@kuts'@
+@Book@|@Txilh@
+@Boots@|@Tsuaqe atägh@
+@boss@|@Themate@
+@bottom@|@xa@
+@bough@|@kwama@
+@Bouillon beaf-tea@|@lepsä@
+@bow-string@|@bza@
+@boy@|@ale@
+@brain@|@kwts'ä@
+@Brain@|@Shhe  kuts'@
+@brandy@|@Konyak@
+@Bread@|@haläghu@
+@bread and@|@Haläghure@
+@Bread and cheese@|@Haläghyre qoayere@
+@Bread and tea@|@Haläghure chayre@
+@bread and water@|@Haläghure psäre@
+@Bread contains salt@|@Haläghum shighu xelh@
+@Bread with stuff in it@|@Haliju@
+@breadth@|@Shuebghuaghu@
+@Breakfast@|@Pshedij shxän, Pshedij shxen@
+@breast@|@bädzä, Bidzi@
+@breast milk@|@Bidzi-she@
+@Bride@|@Näse@
+@bridle@|@šxwa@
+@brother@|@šä@
+@Brother and sister@|@Zesh- zeshäpkhu@
+@brown@|@'wabža@
+@Brown@|@More@
+@brushwood@|@chä, tsä@
+@bull@|@bghu, cwä@
+@bullet@|@she@
+@bumble-bee@|@tshäbz@
+@burn@|@bLa-, stä-n@
+@burrow@|@ghwä@
+@bush@|@kwanda@
+@business@|@'wafä@
+@butter@|@Tkhu, txwä@
+@buy@|@shefä@
+@buy (pl)@|@shushefä@
+@cabin@|@tsälj@
+@calf@|@ška@
+@Calf@|@Chits'i@
+@call@|@iadzan@
+@can be@|@Khun@
+@cap@|@pá'wa@
+@car@|@Ku@
+@carcass@|@p:q:ä@
+@carrot@|@pxä@
+@carry@|@ša-n@
+@cart@|@kw@
+@cat@|@chatäw@
+@causative@|@gha-@
+@cervical vertebrae@|@psagwärq:@
+@Chair@|@Pkhent'ek'u, shent@
+@Champagne@|@Shempanski@
+@change@|@Khoj, Shukhoj@
+@charity@|@Psape@
+@cheese@|@qwaja@
+@Cheese bread@|@Quaye  halyju@
+@Cheese goes well with tea@|@Qoayer chayäm dèk'u@
+@Chest@|@Bghe, Jaghe@
+@Chick@|@Nek'ushh@
+@chicken@|@ch'atä@
+@Chickens are nice@|@Chetjiyexer  daxex@
+@chief@|@Shhe@
+@child@|@ale, nánäw@
+@Chin@|@Jepq@
+@chisel@|@p'ts'ä, pcä, pcä, ptsä, ptsä@
+@Circassian's coat@|@Adäge tsy@
+@Circassian hat@|@Adäge pa`o@
+@Circle@|@Khuray@
+@clean@|@q:ábza, Yi-gu  halel@
+@Clean@|@Qabze@
+@Clothes@|@Shäghän@
+@cloud@|@pša@
+@Cloudy@|@Weshoapsh@
+@Coat@|@Tsye@
+@Coat made of sheep skins@|@Cedug@
+@cock@|@átáq:a@
+@Cock@|@Ataqe@
+@Cocks awake early@|@Ataqer  jo  qewishi@
+@Cola@|@Kola@
+@cold@|@chä'a@
+@Cole in black@|@Shu`omi`ir  shu`itsé@
+@Colon@|@Ch'et'y ghum@
+@Colours@|@Plhäshoxer@
+@come@|@Qak'o@
+@come [pl]@|@Shuqak'u@
+@Come here@|@Mo qak'o@
+@Come once@|@Ze qak'o@
+@comet@|@Komèt@
+@conditional@|@-ma, -räj, -rän@
+@conjunctive particle@|@-gä, -ra@
+@Constipation@|@Nibe-pit@
+@constitution@|@Xabze@
+@corn@|@h'amts'äj@
+@cornel@|@zájä@
+@Corner of the eye@|@Nach'e@
+@count@|@Bjäghe@
+@Courage@|@Yi-gy  pite@
+@cover@|@Tèkhu@
+@cow@|@ch'amä@
+@Cow@|@Shemä@
+@Cow's milk@|@Shemä-she@
+@crack@|@cha-n@
+@cradle@|@kwza@
+@crane@|@q:araw@
+@crazy@|@dèle@
+@Crazy@|@Ule@
+@Cream@|@Shate@
+@Cream cheese@|@Shete qoay@
+@Cripple@|@Lhashe@
+@crow@|@qwalaz@
+@crush@|@pächä-/pächächä@
+@crying@|@maghi@
+@cuckoo@|@kwäkwäw@
+@Cucumber@|@Nashe-begu@
+@Cultural Adyghe society@|@Kultur Adäge xase@
+@cut out@|@bzä-n@
+@Cut them@|@Piw?psh`ix@
+@daddy@|@tát@
+@Dancing is an Adyghe custom@|@adäge xabzem shäsh@
+@dark@|@swä-n-chä@
+@date@|@ptshagha@
+@daughter@|@pxwä@
+@Daughter@|@Pkhu@
+@daughter-in-law@|@näsa@
+@day@|@mafa, mafa, Mafe@
+@dead body@|@h'áda@
+@Dead sea@|@Xi lh`agh@
+@deep@|@kwä@
+@deer@|@säh'a@
+@Deer's too@|@Mez  pshenxeri  xesix@
+@Delta@|@Psä-xekhojäp'@
+@demonstrative pronoun@|@mä@
+@denomin. attrib.@|@-ra@
+@denominative abstract@|@-gh@
+@denominative locative@|@-j, -ja@
+@Depth@|@Kuwagh@
+@desiderative@|@-ghwat@
+@dew@|@wasa-ps@
+@Diarrhoea@|@Nibash@
+@die@|@La-n@
+@die down@|@kwasan@
+@dig@|@t'ä@
+@diminishing@|@Xe`i@
+@Dinner@|@Pshäheshhe shxän@
+@Dinner table@|@Ane@
+@dirty@|@swa-jä@
+@Dirty@|@Shu`oy@
+@Disease@|@Wizixer@
+@Disease of being old@|@Jä-wäz@
+@Divide@|@Goshin@
+@divorced woman@|@Pkhu-jä@
+@do@|@Shuk'u@
+@Do not give me@|@Qsemät@
+@Do not hurt hem@|@Yi-gu  xemghe`@
+@Do not sit@|@Wy-mt'ys@
+@Do not stand up@|@Wy-mtec@
+@do the shopping@|@Shushaf@
+@Do you have eye-pain?@|@Wi-ne  mewiza@
+@does not eat too much@|@Bashe yäshxärep@
+@Does not resemble@|@Fedep@
+@dog@|@ha, he@
+@Donkey@|@Shädä@
+@door@|@ptsha@
+@door handle@|@ptshapsä@
+@dough@|@Thachu@
+@dream@|@pchäh'áp@
+@Dream@|@Psh`yh@
+@dress@|@shäghän@
+@drink@|@Yeshu@
+@duck@|@Babish@
+@dust@|@Sap@
+@Dust make home filty@|@Sapem  winer  qègheshu`oye@
+@eagle-owl@|@tä-ghwrghwä, täghwräghwä@
+@ear@|@thakwäm@
+@Ear@|@Thek'ume@
+@Ear drum@|@Thuk'ume-`ups@
+@early@|@pás@
+@earth@|@chä@
+@East@|@Qoch'p'e@
+@eat@|@Shxe@
+@eat [pl]@|@Shushx@
+@Eat too much@|@Nibats@
+@eating@|@Shxen@
+@edge@|@naz@
+@egg@|@Ch'ench'e, chancha@
+@eight@|@yä@
+@eighteen@|@pshäk'uy@
+@empty@|@nachä@
+@entrails@|@kwac@
+@Equator@|@Ekwator@
+@ergative and instrumental@|@-š@
+@ergative determ.@|@-m@
+@even@|@za-fa@
+@evening@|@-sh', pchäh'a@
+@Evening@|@Pshähe, Pshähe, pshäheshhe@
+@evil@|@bzadza@
+@expert@|@'aza@
+@Extensive@|@Lhap'e@
+@eye@|@na@
+@Eye@|@Ne@
+@Eye brow@|@Nap'e@
+@Eye lash@|@Nebj?ts@
+@eyebrow@|@ážämš@
+@Face@|@Nape@
+@family@|@Wnagho@
+@far@|@chäža@
+@fat@|@pšar, ša@
+@father@|@tä@
+@father and son resemble@|@Tämre alemre zefedex@
+@feel ticklish@|@Läžä-n@
+@female@|@bzä@
+@fence@|@chaw@
+@few@|@mats'a, takw@
+@fidget@|@xh'än@
+@field@|@gwbghua@
+@fifteeen@|@pshäk'utf@
+@Figures@|@Figurxer@
+@find@|@Ghotä@
+@find (pl )@|@Shughot@
+@Finger@|@Akhoamb@
+@fire@|@mas.a@
+@fire-brand@|@pxa-cacha@
+@fir-tree@|@psajä@
+@fish@|@p'ts'ia'äla, pca, ptsa'äla, ptsa'äla@
+@five@|@tfä@
+@flea@|@bžä-ja@
+@flock of sheep@|@kwart@
+@Floor house@|@Wine-atigh@
+@Flour@|@Hajigh, hajighe@
+@fly@|@bäbä-n, badza, baja@
+@foam@|@txwärb@
+@foliage@|@pchás@
+@food@|@shxän@
+@Food@|@Shxänäxer@
+@foot@|@La-q:wa@
+@Forearm@|@Alcan@
+@forehead@|@náta, Nat'e@
+@foreleg@|@swa-La@
+@forest@|@mazä@
+@fork@|@kwaxwa@
+@four@|@plh'ä@
+@fourteen@|@pshäk'uplh@
+@fox@|@bäzha@
+@frog@|@h'antarqw@
+@Fruits are ripe@|@Quye  miyexer  qekhux@
+@full@|@jäz@
+@Full moon@|@Mazaghu@
+@Full of leaves@|@Thepexer  yapitix@
+@funeral stretcher@|@pxa-bLa@
+@furuncle@|@Koreshu@
+@future@|@-n, -st, qek'osht zemanär@
+@future (dynamic verbs) tense@|@-ba@
+@gadfly@|@ghwädä@
+@gall@|@zazä@
+@Garden@|@Xate@
+@garlic@|@Bjinif@
+@Garlic cleans the blood@|@Bjinifim lhir yegheqabze@
+@Garlic smells badly@|@Bjinifim me ayye pewi@
+@Geese migrate@|@Qazxer  mekoshix@
+@general subj. class marker@|@-z-@
+@gerund@|@-za@
+@gerund relative cause infix@|@za-, zarä-@
+@get [pl] awake@|@Shu-qewish@
+@get awake@|@Qewish@
+@get dry@|@ghwä-n@
+@get tired@|@psän@
+@girl@|@psása, Pshashe@
+@girls@|@Pshashexer@
+@Girls too@|@Pshashexeri@
+@give@|@tän, Yet@
+@Give me@|@Qset@
+@Give me the book@|@Txälhär qset@
+@Give me water@|@Psä qset@
+@Give the sheep water@|@Meläm psä yet@
+@give!@|@tä@
+@give! (pl)@|@Shutä@
+@go@|@kwan@
+@Go to sleep@|@Shye@
+@go to sleep (pl)@|@Shushiy@
+@go!@|@K'o@
+@goat@|@pchanä@
+@Goat@|@Pshenä@
+@Goat's milk@|@Pshenä-she@
+@Goat's wool@|@Pshenäm  yäts@
+@god@|@tha@
+@God@|@The@
+@God bless you@|@The wèghepsew@
+@God let you live for long time@|@Them wä-näbj ch'ähe yesh`@
+@gold@|@a-xä, däs@
+@good@|@daghwä, swä@
+@Good@|@Shu`ä@
+@Good day@|@Wi-mafe  shu`ä@
+@Good morning@|@Wi-pshähe  shu`ä, Wi-pshedij  shu`ä@
+@Goose@|@Qaz@
+@gooseberry@|@sxäräb@
+@goose-foot grass@|@jaža-šxwa@
+@gorge@|@qwa@
+@grandmother@|@Nenej@
+@grapes@|@sána@
+@grass@|@uätsä, wäcä@
+@grave@|@q'a@
+@green@|@Wätsäsho@
+@Green pepper@|@Shäbji shukhuant'@
+@grey@|@šxwa, txwa, Yejasho@
+@ground@|@Sh`ägu@
+@group@|@kwäp@
+@grow numb@|@dä-jä-n@
+@Guard@|@Khumak'u@
+@guest@|@hacha@
+@guests@|@He`er ya-ghashu`e@
+@Gullet@|@Nibe-lhints'@
+@gulp@|@jaxwämpaghw@
+@Gum of teeth@|@Tseli@
+@Gurjet@|@QebI@
+@hail@|@we@
+@hair@|@cä, qwä@
+@hairless@|@qwäjä@
+@half@|@näqwa@
+@hand@|@'a, Ape, lagwnžamäsh'@
+@handiness@|@Aze@
+@handle@|@chä@
+@Handsome and clean@|@Yäshuere yäshäghänre qabzex@
+@Handy@|@Ape az@
+@hard@|@päta@
+@hat@|@Pa`o@
+@have pain in my spine@|@Si-txitsé  mewizi@
+@have pain in the back@|@Si-bgi mewizi@
+@having a bad eye-sight@|@na-bra@
+@hay@|@maq:wä@
+@he@|@yej@
+@He ate@|@Shxaghe@
+@He awakes@|@Qewishi@
+@He awakes all villagers@|@Quajem  desxer  qèghew?sh?x@
+@he bought@|@Yäshefägh@
+@he buys@|@Yeshefä@
+@He came@|@Qek'oagh@
+@He can hardly understand@|@Gu-ri`oghuay@
+@he changed@|@Yikhojigh@
+@he changes@|@yekhoji@
+@He comes@|@Qek'o@
+@He cries before sunrise@|@Dehe tgher q`èmich'o qekuwe@
+@He dances@|@Qèshè-rep@
+@He dances good@|@Daxo  qè-sh`e@
+@He did not sleep@|@Shyyaghep@
+@he did the shopping@|@Shefaghe@
+@He does not get the idea@|@Yi-gu-lihite tèferep@
+@He does not know how to dance@|@Qèsh`ach'e yä-sh`erep@
+@He drank@|@Yeshuagh@
+@He draw my attention@|@Si-gu-lhite   tri-ghefagh@
+@He drinks@|@Yesho@
+@He eats@|@Mashxe@
+@he fell@|@iabadzägh@
+@he fights@|@Mezawe@
+@he finds@|@yeghotä@
+@he found@|@Yäghotägh@
+@he gave@|@Yätägh@
+@He gave him@|@Ri-tägh@
+@He gave me a job for my living@|@Sèghepsew@
+@he gets there@|@nesi@
+@He gives@|@Y-etä@
+@he goes@|@Mak'o@
+@He got a stone in his kidney@|@Yi-jaje mijo yilh@
+@He got what he deserved@|@Shuä`sher shäsh`ägh@
+@He has 5 girls@|@Psheshitf  yä'@
+@He has 9 boy's and 9 girls@|@Psheshibghure alibghure yä@
+@He has 9 sons@|@Alibghu yä'@
+@He has a big mouth@|@Yije yini@
+@He has a dream@|@yä-lheghugh@
+@He has a formidable age@|@Näbjäshuxe yä`@
+@He has a job for your living@|@Wèghepsew@
+@He has a long life@|@Yä-näbj  ch'ähe@
+@He has a nice dream@|@Psh`yhe daxe@
+@He has a nightmare@|@ayye@
+@He has a soul@|@Pse ut@
+@He has scabs in his face@|@Yi-nek'u  beguxer  tèt@
+@He has stones in his kidney@|@Yijaje mijo yilh@
+@He has two boys@|@Alit'u yä`@
+@He has two girls@|@Psheshet'u yä'@
+@he is@|@yerä@
+@He is a human being@|@Ts'äfäghe xelh@
+@He is ahead@|@Yipe yit@
+@He is awake@|@Qewshigh, Qewshygh@
+@he is crying@|@maghä@
+@He is dancing@|@Qèsh`e@
+@He is dishonest@|@Yi-gu  shu`oy@
+@he is eating@|@Mashxe@
+@He is honest@|@Yi-gu  qabze@
+@He is laughing@|@Qeshxä@
+@He is looking@|@Maplhe@
+@He is no longer alive@|@Shä`ejep@
+@He is old@|@Yä-näbj yänä@
+@He is sleeping@|@Me-shäye@
+@He is smart@|@Yi-gu-lhite psinch'o tèfe@
+@He is working@|@Me-psew@
+@he knows me@|@S-qèsh`e@
+@He knows them@|@Qèsh`ex@
+@he knows you@|@W-qèsh`e@
+@he knows you (pl)@|@Shuqèsh`e@
+@He lived long@|@Näbj ch'ähe yä-ghesh`agh@
+@He looked@|@Plhaghe@
+@He looks@|@Maplhe@
+@he lost his heart@|@yi-gu   k'odighe@
+@He lost some blood@|@Lhi tek'u yi-ghek'odigh@
+@he makes shopping@|@Meshafe@
+@he played@|@Cegughe@
+@he plays@|@Mecegu@
+@he read (past)@|@Yecagh@
+@he reads@|@Yece@
+@He sat@|@Shysygh@
+@He saw@|@Yelheghugh@
+@he seats@|@Met'isi@
+@He sees@|@Yelheghu@
+@He sells@|@Yeshe@
+@He sits@|@Me-t'isi@
+@He sleeps@|@Meshiye@
+@He slept@|@Shiyaghe@
+@He smells@|@Mepame@
+@He smelt@|@Pemaghe@
+@He sold@|@Yshagh@
+@He stands up@|@Qeteci@
+@He stood up@|@Qetecigh@
+@he takes@|@èxi@
+@he too@|@yejri@
+@He too eats@|@Yejri mashxe@
+@He too works@|@Yejri melaje@
+@he took@|@Ixigh@
+@He understands@|@Gu-re`o@
+@he went@|@K'uaghe@
+@He will awake@|@Qewshisht@
+@he will buy@|@Yäshefäsht@
+@he will change@|@Yikhojisht@
+@He will come@|@Qek'osht@
+@he will do the shopping@|@Shefesht@
+@He will drink@|@yeshosht@
+@He will eat@|@Shxesht@
+@he will find@|@Yäghotäsht@
+@he will give@|@Yätäsht@
+@He will go@|@K'osht@
+@He will look@|@Plhesht@
+@he will play@|@Cegusht@
+@he will read@|@yecesht@
+@He will see@|@Yilheghusht@
+@He will sell@|@Yshesht@
+@he will sit@|@T'isisht@
+@He will sleep@|@Shiyesht@
+@He will smell@|@Pemesht@
+@He will stand up@|@Qetecisht@
+@he will take@|@Ixisht@
+@he will write@|@Wätxesht@
+@He works@|@Me-laje@
+@he writes@|@Matxe@
+@he wrote@|@Txaghe@
+@He; who eat@|@Yejrä shxere@
+@head@|@Pshä, sh'a@
+@Head@|@Shhe@
+@Head cover@|@Shhe tèkhu@
+@head hair@|@Shhe  tsä@
+@Heard disease@|@Gu-wiz@
+@heart@|@gwä@
+@Heart knows heart@|@Gure  gure  zeresh`ex@
+@hearth@|@žagwä@
+@heavy@|@wantaghw@
+@Heavy snow@|@Wesäshux@
+@Heavy wind@|@Jäbgheshux@
+@Heel@|@Lhdaq@
+@hen@|@chatä@
+@her figure is nice@|@Yi-pq daxe@
+@here@|@Mo@
+@high@|@Laga@
+@Highly respect@|@Psh`eshuxe@
+@Highly respected Sir@|@Psh`eshuxe zi`e thamater@
+@hill@|@'wásh', bgä@
+@Hill@|@bgä@
+@His age@|@Yänäbj@
+@His body is long@|@Yi-pq ch'ihe@
+@His chest aches@|@Yi-bghe  mewizi@
+@His face is bright@|@Yi-nek'u  fiji@
+@his face is yellow@|@Yi-sho  ghoji@
+@his father@|@yat@
+@His father is long@|@Y-ate ch'ähe@
+@His foot is big@|@Yi-lhaqo  yini@
+@His forearm is broken@|@Yi-alcane  qutaghe@
+@his grandmother@|@Yä-nenej@
+@His hair is dark@|@Yä-shhets  shu`äts'e@
+@his heart is bad@|@Yi-gu  ts'ap'e@
+@his heart is harsh@|@Yi-gu   pkhashe@
+@his heart is soft@|@Yi-gu   shabe@
+@His kidney aches@|@Yi-jaje ayyo wizishtghe@
+@His mother@|@Yan@
+@His nails are dirty@|@Yi-abjanexer  shu`oyix@
+@His name@|@Yä-ts'e@
+@His neck is thick@|@Yitiqin ghumi@
+@His neck is thin@|@Yitiqin psigho@
+@His nose is long@|@Yipe ch'yhe@
+@His son-in-law@|@Yä-malhkhu@
+@His style of dancing is nice@|@Yä-qèsh`ache daxe@
+@His tongue is long@|@Yibzegu  ch'ihe@
+@hit@|@we@
+@hoar-frost@|@sax@
+@hold@|@'ä-ghä-@
+@honey@|@swawä@
+@honeycomb@|@shakwa@
+@hooked@|@qwáša@
+@horn@|@bza, bzáqwa, lápsa, lápsa@
+@horse@|@šä@
+@Horse milk@|@Shä-she@
+@Hospital@|@Smecesh@
+@Hot pepper@|@Shibji  stir@
+@Hot pepper powder@|@Shäbji hajäghe stär@
+@house@|@wäna@
+@House garden@|@Wi-nem yixat@
+@how@|@Sydo@
+@How are you?@|@Sydo wshyt?@
+@hundred@|@sa@
+@Hurts my heard@|@Si-gu  xe`i@
+@hut@|@chaL, pšäpa@
+@I@|@sa@
+@I am all right@|@Sy-psew@
+@I am awake@|@Sqewshigh@
+@I am crying@|@seghä@
+@I am eating@|@Seshxe@
+@I am looking@|@S-eplhe@
+@I am sitting@|@Sy-shys@
+@I ate@|@Sishxagh@
+@I awake@|@Sqewäshä@
+@I bought@|@Sshefghe@
+@I buy@|@Seshefä@
+@I came@|@Sqek'uagh@
+@I change@|@Sekhoji@
+@I changed@|@Skhojghe@
+@I come@|@Siqek'o@
+@I do eat@|@Se-shxe@
+@I do not eat@|@Sä-shxerep@
+@I do not eat in the morning@|@Pshedijre säshxerep@
+@I do not work at night@|@Sheshre  sy-lajerep@
+@I do shopping@|@Seshafe@
+@I drank@|@Sèshuagh@
+@I drink@|@Sèsho@
+@I drink tea in the morning@|@Pshedijre chay sèsho@
+@I eat@|@Se-shxe@
+@I eat lonely@|@Si-zaqo  seshxe@
+@I eat too@|@Seri seshxe@
+@I fight@|@Sezawe@
+@I find@|@Seghotä@
+@I found@|@Sghotghe@
+@I gave@|@stäghe@
+@I gave him@|@Ye-stägh@
+@I gave him a word@|@Psalhe  ye-stägh@
+@I gave him my word@|@Si-psalhe ye-stägh@
+@I get there@|@Sinesi@
+@I give@|@S-etä@
+@I give him@|@Ye-setä@
+@I go@|@Sek'o@
+@I had a dream@|@Psh`yhe  s-lhegho@
+@I have a boy and a girl@|@Zä-`alere zäpshashere  si`@
+@I have a sister and a brother@|@Zä-shäre zä-shäpkhure si`@
+@I have a stomachache@|@Si-nibe mewizi@
+@I know even 20@|@Se t'o`im nesi sesh`e@
+@I lie@|@Pts'ä sewäsä@
+@I lied@|@Pts'ä säwsäghe@
+@I look@|@Seplhe@
+@I looked@|@Siplhagh@
+@I only drink tea@|@Chay qodäye sèsho@
+@I play@|@Secegu@
+@I played@|@Sicegugh@
+@I read@|@Sèce@
+@I read (past)@|@Sècagh@
+@I sat@|@Sit'isigh@
+@I saw@|@Slhegho@
+@I see@|@Selheghu@
+@I sell@|@Seshe@
+@I sit@|@Se-t'isi@
+@I sleep@|@Seshiye@
+@I slept@|@Sishiyagh@
+@I smell@|@Sepame@
+@I smelt@|@Si-pemagh@
+@I sold@|@Sshaghe@
+@I stand up@|@Sqeteci@
+@I stood up@|@Sqetecigh@
+@I take@|@Èsexi@
+@I took@|@Isxigh@
+@I went@|@Säk'uagh@
+@I went shopping@|@Säshefagh@
+@I will awake@|@Sqewshisht@
+@I will buy@|@Sshefäsht@
+@I will change@|@Skhojisht@
+@I will come@|@Siqek'osht@
+@I will do some shopping@|@Säshefesht@
+@I will drink@|@Sèshosht@
+@I will eat@|@Sishxesht@
+@I will find@|@Sghotäsht@
+@I will give@|@Stäsht@
+@I will go@|@Sik'osht@
+@I will lie@|@Pts'ä säwsäsht@
+@I will look@|@Siplhesht@
+@I will play@|@Sicegusht@
+@I will read@|@Sècesht@
+@I will sale@|@Sshesht@
+@I will see@|@Slheghusht@
+@I will sit@|@Sit'isisht@
+@I will sleep@|@Sishiyesht@
+@I will smell@|@Si-pemesht@
+@I will stand up@|@Sqetecisht@
+@I will take@|@Isxisht@
+@I will write@|@Sätxesht@
+@I work@|@Se-laje@
+@I work day and night@|@Sheshi mafi  se-laje@
+@I work during the day@|@Mefere se-laje@
+@I work too@|@Seri  selaje@
+@I write@|@Setxe@
+@I wrote@|@Sätxagh@
+@ice@|@mälä@
+@If you would have given me@|@Qseptä-ghagheme@
+@illness@|@wäzä@
+@imperative@|@-0@
+@imperative plural@|@-kw@
+@in favour of@|@fa-@
+@In front@|@Pe@
+@In the morning@|@Pshedäjre@
+@In the winter it snows@|@Sh`imafem  wes  qèsi@
+@instrumental@|@-cha@
+@Intenational@|@Dunaye  psew@
+@interior@|@kwats'@
+@Intestine@|@Ch'et'y@
+@iron@|@ghwächä@
+@Is that so?@|@Ara?@
+@It's not nice what you're doing@|@Mi psh`ere yek'urep@
+@It becomes bread@|@Halighu  mekhu@
+@It comes down as a nice stream@|@Pshhe  daxo  qèshexi@
+@It happened@|@Khughe@
+@It has no more price@|@Psh`e yi`ejep@
+@It hurts@|@Mewizi@
+@It is 5 m deep@|@Metritf  yikuwuagh@
+@It is going worse@|@Qäze`ehe@
+@It is nice in the summer@|@Ghemafem  dunayer  daxe@
+@It is not happening@|@Khurep@
+@It is raining@|@Wshxä qèshxä@
+@It is snowy forever@|@Yeghas`em wes tèlh@
+@It is very bitter@|@Ar lhesho dici@
+@It is worse@|@Qäze`ehagh@
+@It rains very hard@|@Weshxiri  shu`o  qèshxi@
+@It suits@|@Yek'u@
+@iterative@|@-žä@
+@It'll be backed within 20 min.@|@Minut t'o` tèsh`eme qeje@
+@It's very cold and tasty water@|@Lhesho sh?`e yich'i ashu`@
+@jackal@|@bažas@
+@jackdaw@|@qwantsha@
+@jewel@|@mätshä@
+@jump@|@La-n@
+@Just bread@|@Haläghu qodya@
+@Just sit down@|@Ze t'ys@
+@Keep his word@|@Yä-psalhe tèt@
+@key@|@'wntch'äbza@
+@kid@|@chacä, tsats'ä@
+@kidney@|@zazäj@
+@Kidney@|@Jaje@
+@kill@|@wächä-n@
+@kite@|@bgha@
+@knee@|@La-gwanža@
+@knitting-needle@|@kwtsa, kwutsa@
+@know@|@sa-n@
+@knucklebone@|@chan@
+@labourer@|@Lejak'u@
+@Lace@|@Lheps@
+@lake@|@Psä khuray@
+@lamb@|@säna@
+@language@|@bza@
+@large@|@-qä@
+@lative preverb@|@na-, q:a-@
+@laughing@|@meshxi, Qeshxä@
+@Lay down@|@Gholh@
+@leaf@|@thap@
+@leech@|@däwa@
+@Lemonade@|@lemunad, Quye-psi@
+@length@|@Ch'ihagh@
+@Let live@|@Ghepsew@
+@lie@|@-Lä-, pcä, pts'ä@
+@Lightning@|@Shible@
+@Like a man@|@Lhä fed@
+@Lip@|@Upsh`e@
+@little@|@cä-kwä, ts'äkw@
+@Little bit too long@|@Ch'ihao@
+@little cat@|@ch'atäw@
+@liver@|@swä, swä, thamsäghw@
+@Living room@|@Lheghune@
+@Lobe of the ear@|@Thek'um-ach'@
+@locative in pronouns@|@-da@
+@locust@|@mac?, mats'a@
+@long@|@chä-ha@
+@look@|@plan, Plhe@
+@look [pl]@|@Shuplh@
+@Look at@|@Ye-plh@
+@Look at the mother@|@Näm ye-plhi@
+@looking@|@Plhen@
+@lost@|@K'odighe@
+@louse@|@ca@
+@luck@|@mafa@
+@Lung@|@Thebile@
+@mad@|@dèle@
+@Maize@|@Natäf, naträf@
+@Maize paste@|@P'aste Mamräs@
+@Maize soup@|@Natäf hantkhups@
+@make@|@Sh`ä@
+@make shopping@|@Shafe@
+@male@|@xwä@
+@mamma@|@Bidzi@
+@man@|@Lä, Lä, Lh`ä@
+@mane@|@sakw@
+@many@|@ba@
+@maple@|@jantsha, jantsha@
+@mark on cattle's ears@|@tha-bz@
+@market@|@badzar@
+@Marrow@|@Kuts'@
+@marten@|@cäghwa, cäza@
+@Mastitis@|@Bidzi-shin@
+@Mattress@|@P'e@
+@me@|@se, srä@
+@me only@|@Si-zaqu@
+@me too@|@serä@
+@meat@|@Lä@
+@meat of a duck is also good@|@Babishilri  ashu`@
+@meat of the cow is little hard@|@Shemilir  tek'u  pite@
+@Medicine@|@Witsi@
+@Mediterranean@|@Xä fij@
+@medlar@|@na-pca@
+@melon@|@náš@
+@Meredian@|@Meridyan@
+@merry@|@tsafä@
+@Meteorite@|@metyorit@
+@middle@|@kwpsa@
+@mid-night@|@Shesh  näqu@
+@milk@|@ša@
+@millet@|@fä-ghwa, mašä@
+@Molar@|@Tsli-shh@
+@Monday@|@bläpe, Bläshhe, qeberday@
+@Month@|@Maze@
+@moon@|@máza, Maze@
+@more@|@náh@
+@morning@|@Pshedäj@
+@most@|@dad@
+@mother@|@nä, nán@
+@Mother@|@ni@
+@mountain@|@qwäsh'a@
+@Mountain@|@Qushha@
+@mountain slope@|@chapa@
+@mouse@|@ts'äghua@
+@mouth@|@'wä, ža@
+@much@|@be@
+@Much too long@|@Ch'ihashe@
+@Multiply@|@Ghebeghon@
+@mute@|@bzakwa@
+@My age@|@Si-näbj@
+@My age is advanced@|@Si-näbj xek'otagh@
+@My attention@|@Si-gu-lhite@
+@My back hurts@|@Si-bgi qewizi@
+@my brother@|@Si-shä@
+@my brother is colour-blind@|@Sishä qolen neshu@
+@My dad and mom are still alive@|@S-yatere syanere shä`ex@
+@My father@|@s-yat, S-yate@
+@My father and mother@|@S-yatere syanere@
+@My father and mother are alive@|@Syatere syanere psewäx@
+@My father is big@|@S-yate yänä@
+@My father is coming@|@S-yate qek'o@
+@My father past on@|@S-yate shä`ejep@
+@My father's sister@|@S-yate yä-shipkhu@
+@My grandmother@|@Si-nenej@
+@My horse is coloured@|@Sishä  qolenä@
+@My house@|@Si-wne@
+@My mother@|@S-yan, S-yane@
+@My mother is thin@|@S-yane psägho@
+@My mother's sister@|@S-yane-shipkhu@
+@My name@|@Si-ts'e@
+@My old father@|@S-yatej, si-tetej@
+@My partner@|@Si-näqoh@
+@my pig@|@Siqo@
+@my son is crazy@|@Si-qo dèle@
+@my son is tall@|@Si-qo ch'he@
+@My uncle@|@S-yate yä-sh@
+@nail@|@'wän@
+@Nail@|@Abjan@
+@Nail of the foot@|@Lheqo-bjan@
+@naked@|@pcána@
+@Naked@|@Pts'ane@
+@name@|@ca, ts'a@
+@Name@|@Ts'e@
+@narrow@|@Bghuze@
+@Narrow@|@Zeju@
+@navel@|@näbäzh@
+@near@|@bLa-gha@
+@neck@|@psa@
+@Neck@|@Tiqin@
+@Needle@|@Maste@
+@Nevel@|@Nibe-pts'y@
+@new house@|@uänats'a@
+@New moon@|@Mazashhe@
+@nice@|@daxe@
+@night@|@chašä, Shesh@
+@nine@|@bghu@
+@nineteen@|@pshäk'umbgh@
+@Nipple@|@Bidzi-shhe@
+@nit@|@cacha@
+@nominative (absolute)@|@-0@
+@nominative determ.@|@-r@
+@Noon@|@Shecaghu@
+@North@|@Yä-pše@
+@North America@|@Yäpshere Amerika@
+@North star@|@Ghuaze@
+@North-East@|@Yäpshe-qoch'äp'@
+@North-West@|@Yäpshe-qohap'@
+@nose@|@pa, Pe@
+@Nose trill@|@Pe-ghuan@
+@not@|@-p, mä-@
+@not beautiful@|@daxep@
+@not big@|@yinep@
+@Not fat@|@Psherep@
+@Not good@|@Shu`ep@
+@not married@|@Shhe zaqu@
+@Not much@|@Bep@
+@Not OK@|@Khush-tep@
+@not resemble@|@Fedep@
+@Not smart@|@Femif@
+@not sour@|@Xafep@
+@Now; we have 10 goats@|@Ci pshenipsh` ti`e khughe@
+@Numbers@|@Bjäghe-xer@
+@oats@|@bagäna@
+@Oats@|@he@
+@object version@|@swä-@
+@Ocean@|@Okyan@
+@old@|@jä, ji, zä, zä@
+@Old man@|@Lh`äjä@
+@omelette@|@Ch'ench'e  gejagh@
+@On day@|@mafem@
+@once@|@ze@
+@Once@|@Zy-mafegorem@
+@one@|@zä, zä, zago, zy@
+@one boy@|@zä'ale@
+@one boy and one girl@|@Zä''alere zä pshashere@
+@one boy and two girls@|@Zä'alere psheshit'ure@
+@One by one@|@Zyryz@
+@One chin@|@Zä-jepq@
+@One forehead@|@Zi-nat'e@
+@one garlic@|@Bjinifishh@
+@one girl@|@zä pshashe@
+@One hand has 5 fingers@|@Zi`am  akhombitf  yi`@
+@One month@|@Zämaze@
+@One night@|@Zy-shesh@
+@One nose@|@Zä pe@
+@one onion@|@Bjinishh@
+@one share@|@Zäahe@
+@One share of 100 shares@|@Ahishem shäshu zäah@
+@One week@|@Zy-thomaf@
+@onion@|@Bjänä, bžänä@
+@Onion bread@|@Bjin  haliju@
+@Onion soup@|@Bjän hantkhups@
+@Only bread@|@Halighu  qodi@
+@only one@|@Zä-zaqo@
+@Only you@|@Wi-zaqu@
+@Orange@|@Plhäj-ghoj@
+@orphan@|@jäba, yäbe@
+@Other birds come to us@|@Nemi` bziwxer qitfek'ox@
+@Our bride@|@Ti-näse@
+@Our daughter@|@Ti-pkhu@
+@Our father@|@T-yat@
+@Our father is fat@|@T-yate psher@
+@Our goat gave birth@|@Ti-pshen qelhfagh@
+@our grandmother@|@Ti-nenej@
+@Our house@|@Ti-wne@
+@Our house is large@|@Ti-wne  yini@
+@Our house is new@|@Ti-wne sh`e@
+@Our living room is large@|@Ti-lheghune yini@
+@Our name@|@Ti-ts'e@
+@Our new house@|@Ti-wnash`e@
+@Our new house is nice@|@Ti-wnash`e  daxe@
+@Our son-in-law@|@Ti-malkho@
+@Our well is 12 m deep@|@Tipsine 12 m yikuwagh@
+@painful@|@Ayyo mewizi@
+@pale@|@Ifi@
+@Pancake and cheese and tea@|@Shelamere quayere çhayre@
+@Partner@|@Näqoh@
+@Parts of face@|@Napem  xetxer@
+@Past time@|@blech'äghe zemanär@
+@Past tome@|@blech'äghe zemanär@
+@Paste and shipsi@|@P'astere shipsäre@
+@pea@|@Nekhut@
+@peach@|@q:äca@
+@pear@|@q:wäzä, qwäzä@
+@pepper@|@Shäbji@
+@Pepper  bread@|@Shibji  haliju@
+@Pepper does not fit with tea@|@Shäbjir chayem dèk'urep@
+@Pepper powder@|@Shäbji hajigh@
+@Pepper suits fried meat@|@Shibjir  li  ghejaghem  dèk'u@
+@Pepper with saly@|@Shibji - shighu@
+@perfect@|@-gha@
+@person@|@-wä, -wä, cä-fä, ts'äfä@
+@Pheasants too@|@Mez  chetxeri  xetix@
+@pig@|@Law, qwa@
+@pigeon@|@tharq:wa@
+@Pillow@|@Shhant@
+@pimple@|@bagwä@
+@Pink@|@Thambl?shu@
+@pity@|@Pse  k'od@
+@Pity@|@Gu- xe@
+@place@|@pa, pwa, sa@
+@place between hips@|@baq:w@
+@Plague@|@Yemine@
+@Plague disease@|@Yemine-wiz@
+@plane-tree@|@pchajä@
+@plaster@|@jä-n@
+@play@|@Cegu, Shucegu@
+@pleasant@|@gwap'a@
+@ploughshare@|@cwa-bza@
+@plum@|@pxa-@
+@plural@|@-xar@
+@pointed@|@pápc@
+@post@|@p:q:aw@
+@potentiality@|@fa-@
+@precious stone@|@mäsa@
+@precipice@|@bza-pa@
+@present@|@-0@
+@Present time@|@mä zemanär@
+@preverb ad@|@gwa-@
+@preverb in@|@da-, i-@
+@preverb inter@|@xa-@
+@preverb post@|@qwa-@
+@preverb super@|@te-@
+@preverb together with@|@da-@
+@princess@|@gwacha@
+@privative suffix@|@-nch, -ž@
+@probability@|@-ngha@
+@Protection@|@Khumen@
+@Protects@|@yekhume, Yewkhume@
+@quail@|@näbghwä@
+@quick@|@Psänch'e@
+@quite a lot@|@Bashe@
+@Quite fat@|@Psheräu@
+@Quite good@|@Shu`ä-she@
+@Rabbit@|@Thek'ume-ch'ih@
+@radish@|@Belic@
+@Radish makes you belch@|@Belicem wqègheqeyi@
+@rain@|@q:e-šxä-n, Wshxä@
+@raining@|@Qèshxä@
+@ram@|@tä@
+@ray@|@bzäj@
+@read!@|@Yec@
+@read! (pl)@|@Shuèc@
+@Real men are few@|@Lhä`deder zäräz@
+@reciprocality prefix@|@za-, zara-@
+@red@|@pläžä@
+@Red pepper@|@Shäbji plhäj@
+@Red sea@|@Xi  plhij@
+@Red shirt@|@Cane  plhäj@
+@reflexivity prefix@|@zä-@
+@Reliable@|@Wshägughuno shät@
+@rennet@|@žanaz@
+@resemble@|@Fed@
+@Resemble too much@|@Fededed@
+@Resemble very much@|@Fededed@
+@rib@|@ca-ga@
+@rice@|@Päränc@
+@riches@|@bäLäm@
+@right@|@ža-bghw@
+@Right angel@|@Quape  zanch'@
+@rising@|@Èch'ä@
+@river@|@Psä-shhe, psäxw@
+@rivulet@|@Laha@
+@road@|@ghwagw@
+@room@|@W?ne@
+@round@|@xwäráj@
+@run@|@tshian@
+@Running water@|@Psär mashe@
+@sabre@|@sa@
+@sale@|@she@
+@sale [pl]@|@Shushe@
+@salt@|@šäghw, shishu@
+@salty water@|@Psä shiwghu@
+@sand@|@pšáxwa@
+@Satan@|@Shetan@
+@Sausage is tasty food@|@Nek'ulher  shxin  ashu@
+@Scab@|@Begu@
+@Schizophrenia@|@shetan-wäz@
+@sea@|@xä@
+@Sea-shore@|@Xä-`ushu@
+@season@|@gha@
+@see@|@Lheghu@
+@see [pl]@|@Shulheghu@
+@seed@|@cha@
+@Seed@|@Ch'e@
+@self@|@jaž@
+@Set down in the West@|@Qohap'em sh`ehejä@
+@seven@|@bLä@
+@seventeen@|@Pshäk'ubl@
+@shaggy@|@bälác, pälác@
+@shake@|@säsä-n@
+@Shall I say it?@|@Qes`ona?@
+@Shallot@|@Bjin  ts'in@
+@Shame@|@Nape-tèx@
+@shameful@|@Wäch'äten xelh, Yek'urep@
+@share@|@Ahe@
+@sharp@|@chan@
+@she eats@|@Ma-shxe@
+@She gave birth@|@Lhfaghe, Qelhfagh@
+@She gave birth to a calf@|@Chits'i qilhfigh@
+@she is pale@|@Yi-sho ifi@
+@she sits on it@|@Tès@
+@she twisted@|@kwaxua@
+@sheep@|@xwä-@
+@Sheep@|@Melä@
+@sheep-fold@|@chat@
+@Sheep's meat is the best@|@Meli-lir  pstomi  yanehashu`@
+@Sheep's milk@|@Melä-she@
+@Sheep's wool@|@Meläm  yäts@
+@shirt@|@Can, cane, dzana@
+@shoe@|@Tsuaqe@
+@Shoe lace@|@Tsuaqe  lheps@
+@Shoe made of skin@|@Tsuaqer  sho@
+@short@|@chachä@
+@shoulder@|@bljäpq@
+@Shoulder@|@Tema-shhe@
+@shrub@|@kwand@
+@sickle@|@rwäpch@
+@side@|@bghwä@
+@silver@|@täžänä@
+@Sister@|@Shäpkhu@
+@sit@|@-sän@
+@sit down@|@Shut'äs, täsän@
+@Sit down@|@t'äs@
+@Sit here@|@Mo  t'ys@
+@six@|@xa@
+@sixteen@|@pshäk'ux@
+@skin@|@ša@
+@Skin@|@Sho@
+@Skull@|@Shhe-qumishh@
+@sky@|@wa-ša@
+@sleep@|@chäja, tshäjan@
+@Sleep disease@|@Shiye-wiz@
+@slide@|@mats'anta@
+@Slow sheshen dance@|@Sheshen ghonteghu@
+@small@|@ts'äkw, ts'ik'u@
+@Small intestine@|@Ch'et'y psighu@
+@small intestine is 7 m long@|@Ch'tiy  psighor 7m  mekhu@
+@smart@|@Gu-bzigh, Shani, Ushe@
+@smell@|@ma, Pame@
+@smell [pl]@|@Shupam@
+@smiling@|@meshxipts'i@
+@smithy@|@chäšä@
+@smoke@|@'wä-ghw@
+@snail@|@cärghä@
+@snake@|@bLa@
+@snow@|@wasä@
+@Snow man@|@Wes-guash@
+@snow on the mountains smelt@|@Qushheme yatelh  wesir  qetk'u@
+@So; we now have 10@|@Arizi  ci  psh`i ti`@
+@society@|@Xase@
+@sock@|@Lheped@
+@socks@|@lapad@
+@soft@|@Shabe, táta@
+@Soft butter@|@Tkhu ts'än@
+@Soil@|@Yat'e@
+@Sole@|@Lhegu@
+@Sole of shoe@|@Tsuaqe  lhegu@
+@Some tomes it gets very cold@|@Zaghore shi`edede mekhu@
+@son@|@qwa@
+@Son@|@Qo@
+@Son-in-law@|@Malhkho@
+@son-in-law@|@maxwLa@
+@soul@|@psa@
+@Soul@|@psa, Pse@
+@soup@|@Hantkhups@
+@sour@|@Xafe@
+@south@|@Ach'p'@
+@South America@|@Ach'äp' Amerika@
+@South-East@|@Ach'äpe-qoch'äp'@
+@South-West@|@Ach'äp'e-qohap'@
+@span@|@bžiz@
+@Special Adyghe bread@|@Haläju@
+@speech@|@Psalhe@
+@Spine has 33 bones@|@Txits'em qumishhe  33 yi`@
+@spit@|@caca@
+@Spoiled@|@Ze`ehagh@
+@Spring@|@Ghatxe, Psä shhe@
+@square@|@bghuiplh, Zebghu - zenat'@
+@squirrel@|@saja, tsäza@
+@Stable@|@Tsosh@
+@stack@|@'ata@
+@stake@|@pcha-ghwä@
+@stand up@|@qetecin@
+@Stand up@|@Qetec, Tec@
+@star@|@žághwa@
+@Star@|@Juagho@
+@starling@|@pchandaxw@
+@steam@|@páx@
+@step relative@|@-pwas@
+@Stick@|@Besh@
+@Stomach@|@Shxalhe@
+@Stomatitis@|@Tsel-wiz@
+@stone@|@mäža@
+@strength@|@kwatsha@
+@string@|@chápsa@
+@Strong headed@|@Shhe pät@
+@stump@|@táq:a@
+@stupid@|@aq'äljäntsha, aq'äljäntsha@
+@Style of dance@|@Qèsh`ach'@
+@Subtract@|@Xexen@
+@suffice@|@jaqwä-@
+@suffix of Nomina Agentis@|@-kw, -kwa@
+@Summer@|@Ghemaf@
+@sun@|@tägha@
+@Sunday@|@Theomafe@
+@Sunflower@|@Täghe-ghaz@
+@Supper@|@Shecaghu shxän@
+@swallow@|@pcašxw, pts'ashxua@
+@sweat@|@pchánt@
+@sweet@|@'áswä@
+@swine@|@qwa@
+@Swollen@|@Begghe@
+@table@|@'ana@
+@tail@|@ch'a@
+@Take@|@Tèx@
+@take a sit@|@qet'äs@
+@take!@|@ix@
+@take! (pl)@|@Ishux@
+@tea@|@Chay, shay@
+@teat@|@bäjä@
+@ten@|@psä@
+@ten years@|@Yälhesipsh`@
+@testiculus@|@ga@
+@that@|@wä@
+@thaw@|@zwä-n@
+@The Adyghe language@|@adägabza, adygebze@
+@The Adyghe society in America@|@Amerikam yä-adäge kultur xase@
+@The Arabs wear long dresses@|@Arapme cane ch'?he zshalhe@
+@The bile goes to the intestine@|@Zezer ch'et'iyem  mak'o@
+@The billion has 9 zero's@|@Milyardäm nulibghu yä`@
+@the boy@|@aler@
+@The boy and the girl@|@Alemre pshashemre@
+@The boy doesn't resemble his dad@|@Aler yate fedep@
+@The boy hit the dog@|@Aler hem yewagh@
+@The boy is@|@Alexer@
+@The boy is 5 months old@|@Alem mazitf yä-näbj@
+@The boy is bad@|@Aler bzace, Aler deyyä@
+@The boy is big@|@aler yini@
+@The boy is crazy too@|@Aleri dèle@
+@The boy is crying@|@aler maghi@
+@The boy is handsome@|@Aler qabze@
+@The boy is in the fifth month@|@Aler mazitfäm yät@
+@The boy is laughing@|@aler meshxi@
+@The boy is long@|@Aler  ch'ihe@
+@The boy is not...@|@Aler ghesaghep@
+@The boy is on the donkey@|@Aler shädäm tès@
+@The boy is on the horse@|@Aler shäm tès@
+@the boy is small@|@aler ts'yk'u@
+@The boy is smiling@|@aler meshxipts'i@
+@The boy is thin@|@Aler  psigho@
+@The boy resembles his father a lot@|@Aler yate fededed@
+@the bread@|@haläghur@
+@the bread is cold@|@Haläghur shä'e@
+@the bread is old@|@Haläghur jä@
+@The bread is soft@|@Haläghär shabe@
+@the bread is warm@|@Haläghur fabe@
+@The bride is beatiful@|@Näser daxe@
+@The bride is not beatiful@|@Näser daxep@
+@The cattle staying there@|@Bilimxer yitix@
+@The chair is narrow@|@Pkhentek'ur  bghuze@
+@The chairman of the society@|@Xasem yä-shhe, Xasem yäthemat@
+@The colour of the car is nice@|@Kum yäsho daxe@
+@The dance of Hadji Murad@|@Hac Murad yä-sheshen psänch'e@
+@The day@|@Mafer@
+@the dog is big@|@her yänä@
+@the dog is small@|@Her ts'k'u@
+@the dog is too big@|@Her  yänäded@
+@The dog who the boy did hit@|@Hem aler yewagh@
+@The donkey is in the garden@|@Shädär xatem xet@
+@The dust gets into the eyes@|@Saper  nem  q`èhe@
+@The egg is laid by hen@|@Ch'ench'er chetim qèch'ets'i@
+@The eye of the needle@|@Maste  ghuan@
+@The fale bread is delicious@|@Halighu  pa`er  ashu`i@
+@The father@|@tär@
+@The first day@|@Yapere mafer@
+@The first day of the week@|@Theomafem  yapere  mafer@
+@the food is good@|@Shxänär  deghu@
+@the food is not good@|@Shxänär  deghuep@
+@the food is OK@|@Shxinär  terez@
+@the food is swollen@|@Yi-lhaqo  begghe@
+@The forearm goes two bones@|@Alcanem  qumishhit'u  xelh@
+@The forearm of mine is long@|@Sami  yi-alcane  ch'ihe@
+@the girl@|@pshasher@
+@The girl is 2 years old@|@Pshashem yä-lhesit'u yä-näbj@
+@The girl is beautiful@|@pshasher daxe@
+@The girl is crazy@|@Pshasher dèle@
+@The girl is dainty@|@Pshasher  page@
+@The girl is dancing good@|@Pshasher daxo qè-sh`e@
+@The girl is short@|@Pshasher ch'ak'o@
+@The girl is smart@|@Pshasher ushe@
+@The girl is socially qualified@|@Pshasher  ghesaghe@
+@The girl is squinting@|@Pshasher  nashe@
+@The girl is tall@|@Pshasher ch'ähe@
+@The girl resembles her mother@|@Pshashre yane fed@
+@the globe@|@Dunay@
+@The hen sits on the egg@|@Chetir ch'ench'em  tès@
+@The labourer is good@|@Lejak'uer deghu@
+@The labourer is not good@|@Lejak'uer deghuep@
+@The labourer is too good@|@Lejak'uer deghushe@
+@The labourer is very good@|@Lejak'uer deghuded@
+@The ladies dance slowly@|@Pshashexeri ghonteghu qèsh`ex@
+@The lightning has hit@|@Shibler qewagh@
+@The liver also develop stones@|@Tehmshughum mijo yekho@
+@The long white shirt@|@Cane fïj ch'iher@
+@The lunar phases@|@Mazem yä-shätäch'exer@
+@The lungs are large organs@|@Thembilir organ yin@
+@The matter of dancing@|@Qèsh`enägher@
+@The meat of a hen is better@|@Chetilir  nah  ashu`@
+@The meat of a turkey is dry@|@Thechetim  yil  ghushe@
+@the milk is sour@|@Sher xafe@
+@The million has 6 zero's@|@Milyonäm nulix  yä`@
+@The moon is appeared@|@Mazer q`èch'ägh@
+@The moon is down@|@Mazer èhejägh@
+@The moon is full@|@Mazer yäz@
+@The moon is round@|@Mazer khuray@
+@The names of the adyghe dances@|@Adäge qèsh`ach'eme yats'exer@
+@The north pole@|@Yäpshe sh`äkhune@
+@The old man dances slowly@|@Lh`äjäxer ghonteghu qèsh`ex@
+@The outer side of the nose@|@Pe-bg@
+@the salt@|@Shighuir@
+@the salt is good@|@Shighuir deghu@
+@the salt is salty@|@Shighuir shiwghe@
+@the salt is very salty@|@Shighuir shiwghashe@
+@The sheep is also in the garden@|@Meläri xatem xet@
+@The shirt@|@Caner@
+@The shirt is narrow@|@Caner bghuze@
+@The shirt is white@|@Caner fiji@
+@The shirt of the Aslan is quite white@|@Aslant yicane fijibz@
+@The shirts@|@Canexer@
+@The skin of a sheep@|@Meläm yäsho@
+@The snow is falling@|@Wes qèxä@
+@The snow is white@|@Wesä fäjä@
+@The soup is cold@|@Hantghupsär shä`e@
+@The soup is hot@|@Hantkhpsär mestä@
+@The soup is warm@|@Hantkhups6ar fabe@
+@The south pole@|@Ach'p' sh`äkhune@
+@The stick is thick@|@Beshir  ghumi@
+@The stick is thin@|@Beshir psigho@
+@The stone was quite large@|@Mijor hezero yinighe@
+@The style of my dancing@|@Si-qèsh`ache@
+@The sun@|@Tägher@
+@the sun rises in the East@|@Tägher qoch'äp'em qäshèchä@
+@The tooth pain is horrible@|@Tse wizir helech@
+@The trees are green@|@Shigixer  witsishox@
+@the upper side@|@Bgi@
+@the water@|@psär@
+@The water freezes@|@Psixer  meshtix@
+@The water has no colour@|@Psim  plhisho  yi`ep@
+@The water is cold@|@Psär shä`e@
+@The water is hot@|@Psär fabe@
+@the water is salty@|@Psär  shäwghe@
+@The weather is troubled@|@Washor ze`ehagh@
+@The week@|@Zy-thomafem@
+@The week has 7 days@|@Theomafer  mafibl  mekhu@
+@The well is deep@|@Psiner  kuwu@
+@The white of the egg@|@Ch'ench'em yfj@
+@The white of the eye@|@Nem  yifij@
+@The white shirt@|@Cane fiir@
+@The white shirt is long@|@Cane fijir ch'ihe@
+@The wind is blowing@|@Jäbghe qèpshe@
+@The wind is cold@|@Jäbgher sh?`e@
+@The yellow of the egg@|@Ch'ench'em  yighoj@
+@Their name@|@Yats'e@
+@Their son-in-law@|@Yamalhkhu@
+@then marry with her daughter@|@yä-pkhu qashe@
+@Then they knead it well@|@Yit'uane  sh`o  yapshe@
+@There are 3 rooms in our house@|@Ti-wne wnish yit@
+@There are trees in the garden@|@Xatem shägäxer xetäx@
+@There is a stable in our house@|@Ti-qale  zi-tsosh  det@
+@There is a traditional and social@|@Cegum  habze  xelh@
+@There is a tree in the garden@|@Xatem shägä xet@
+@There is a well in our house@|@Ti-qale psäne ded@
+@There is no water@|@Psä  shä`ep@
+@There is not@|@Shä`ep@
+@There is oil in sunflower@|@Täghe-ghazem yäch'e daghe xelh@
+@There live some bears@|@Mishexer xesix@
+@There once a giant@|@Zegorem zy yinyj sh`agh@
+@They are awake@|@Qewshighex, Qewshyghex@
+@They are brave@|@Lh`äghe yaxelh@
+@They are coming@|@Qek'ox@
+@They are many who are like a man@|@Lhä`feder be@
+@They are sitting@|@Shysyx@
+@They are sleeping@|@Me-shäyex@
+@They ate@|@Shxaghex@
+@They awake@|@Qewishix@
+@they bought@|@Yashefägh@
+@they buy@|@Yashefä@
+@They came@|@Qek'uaghex@
+@they change@|@Yakhoji@
+@they changed@|@Yakhojigh@
+@They did not sleep@|@Shiyaghexep@
+@they did the shopping@|@Shefaghex@
+@They do not lie@|@Pts'e yawäpsrep@
+@They do respect hem very much@|@Psh`eshuxe fash`@
+@They don't shake hands@|@Shäsxo`a yatrep@
+@They drank@|@Yeshuaghex@
+@They drink@|@Yeshox@
+@They eat@|@Mashxe@
+@They eat one by one@|@Zyryzo mashxex@
+@they fight@|@Mezawex@
+@they find@|@yaghotä@
+@they found@|@Yaghotägh@
+@They fried with butter@|@Tkhuch'e  yaghaje@
+@they gave@|@Yatägh@
+@they get there@|@Nesix@
+@they give@|@Yatä@
+@They give nice smell@|@Me daxe qati@
+@they go@|@Mak'ox@
+@They look@|@Maplhex@
+@They looked@|@Plhaghex@
+@they make shopping@|@Meshafex@
+@They make you sick@|@Wi-gu  qize`aghehe@
+@they play@|@Mecegux@
+@they played@|@Cegughex@
+@They price him@|@Psh`e fash`i@
+@they read@|@Yecex@
+@they read (past)@|@Yecaghex@
+@they sat@|@Tisighex@
+@They saw@|@Yalheghugh@
+@They see@|@Yalheghu@
+@They sell@|@Yashe@
+@they sit@|@Met'isix@
+@They sleep@|@Meshiyex@
+@They slept@|@Shiyaghex@
+@They smell@|@Mepamex@
+@They smelt@|@Pemaghex@
+@They sold@|@Yashagh@
+@They stand up@|@Qetecix@
+@They stand up for a guest@|@He`em  fetecäx@
+@They stood up@|@Qetecighex@
+@they take@|@Eaxi@
+@they took@|@Ishuxigh@
+@They ware thick clothes@|@Shighin  uju  zshalhe@
+@They wear wool clothes@|@Tsi canexer  zshalhex@
+@they went@|@K'uaghex@
+@They were sitting@|@Shysyghex@
+@They will awake@|@Qewshishtix@
+@they will buy@|@Yashefäsht@
+@they will change@|@Yakhojisht@
+@They will come@|@Qek'oshtix@
+@they will do the shopping@|@Shefeshtäx@
+@They will drink@|@Yeshushtix@
+@they will find@|@Yaghotäsht@
+@they will give@|@Yatäsht@
+@They will go@|@K'oshtix@
+@They will look@|@Plheshtix@
+@they will play@|@Cegushtix@
+@they will read@|@Yeceshtäx@
+@They will see@|@Yalheghusht@
+@They will sell@|@Yashesht@
+@they will sit@|@T'isishtix@
+@They will sleep@|@Shiyeshtix@
+@They will smell@|@Pemeshtix@
+@They will stand up@|@Qetecishtix@
+@they will take@|@Eaxisht@
+@they will write@|@Txeshtäx@
+@they write@|@Matxex@
+@they wrote@|@Txaghex@
+@thick@|@ghwämä@
+@Thick@|@Ghumi@
+@thier grandmother@|@Ya-nenej@
+@thigh@|@kwa@
+@thin@|@Psigho, pwacha@
+@thin bread@|@Haläghu pa`, Haläghu p'a`@
+@thirteen@|@pshik'ush@
+@thoroughbred horse@|@fára@
+@thou@|@wa@
+@Thread@|@Udan@
+@three@|@šä, šä, šy@
+@three boys@|@Alish@
+@Three by three@|@Shyrysh@
+@three girls@|@Psheshish@
+@throat@|@chäj@
+@Thunder@|@Ghuagho@
+@time@|@jä-ghwa@
+@Tip of a tooth@|@Tsape@
+@Tip of the foot@|@Lhape@
+@To awake@|@Qewshyn@
+@to bark@|@háqwän@
+@to be@|@-'a-@
+@to be benumbed@|@q:än@
+@to be heard@|@'wä-@
+@to be too much@|@'wa-@
+@To be under@|@Èlh@
+@to bear@|@Lfa-n@
+@to beat@|@wa-n@
+@to become soft@|@šan@
+@to bite@|@jacaq:an@
+@to bleat@|@ghwa-n@
+@to boil@|@pštan, ža-n@
+@to break@|@pqwätan@
+@to burn@|@ja-bža-n@
+@to butt@|@päžan@
+@to buy@|@šafän, shefen@
+@to call@|@ža-n@
+@to change@|@khojin, xwažän@
+@to choose@|@xa-da-n@
+@to comb@|@žä-n@
+@to come@|@nasän, nasän, qek'on@
+@to count@|@pchän@
+@to cry@|@ghän@
+@to curse@|@xwánan@
+@to cut@|@wäpchatan, wäpxwän@
+@to dam@|@jwa-@
+@to dance@|@wäžä-n@
+@To dance@|@Qèsh`en@
+@to dare@|@ja-kwä-n@
+@to dig@|@tän@
+@to do@|@wä-@
+@to do sour@|@pcan@
+@to drink@|@jašan, yeshon@
+@to drop@|@jäghatkwan@
+@to eat@|@Shxen, šxä-n@
+@to enter@|@jä-ha-@
+@to fall@|@wä-kwara-jä-n@
+@to fasten@|@chä'wä@
+@to fight@|@zewen@
+@to filter@|@zän@
+@to find@|@Ghotin@
+@to fool@|@gha-'wä-La-n@
+@to get cold@|@štä@
+@to get into@|@dafan@
+@to get sour@|@swa-'wä-n@
+@To give birth@|@Lhfen@
+@to go@|@K'on, q'akwan@
+@to go down@|@ja-xä-@
+@to graze@|@xwän@
+@to grind@|@haža-n@
+@to grow@|@xaxwä-@
+@to hear@|@zaxa-xä-n@
+@to kiss@|@ja-ba-wä-n@
+@to knead@|@pšan@
+@to knit@|@xan@
+@to laugh@|@šxä-n@
+@to lay eggs@|@cha-cä-n@
+@to lie@|@pts'ä-wsän@
+@to lose@|@K'odin@
+@to move back@|@-žä-@
+@to open@|@wäq:än@
+@to paint@|@La-@
+@to plait@|@fä-n@
+@to play@|@cegun@
+@to plough@|@žan@
+@to pound@|@wätan@
+@to prick@|@-'wä-@
+@to raise@|@'atän@
+@to rake up@|@txwän@
+@to reach@|@nesin@
+@to read@|@yecen@
+@to reap@|@xän@
+@to rear@|@pwän@
+@to ripen@|@šan, täghwan@
+@to roast@|@zan@
+@to roll@|@chara-zä-@
+@to rub@|@h'wara@
+@to rumble@|@ghwaghwa-n@
+@to run@|@cha-n@
+@to sale@|@shen@
+@to say@|@'wan@
+@to scrape@|@jätxän@
+@to search@|@läxwan@
+@To see@|@Lheghun@
+@to sell@|@ša-n@
+@to sew@|@da-n@
+@to shine@|@q:japsän@
+@To sit@|@T'isin@
+@to sleep@|@-ja-n@
+@To sleep@|@Shiyen@
+@to smell@|@pemen@
+@to stand@|@ta-žä-n, wäšätän@
+@to steal@|@tä-ghwa-n@
+@to swim@|@jasän@
+@to take@|@exen, ixen@
+@to take offense at@|@ja-bgha-n@
+@to thatch@|@bgha-@
+@to think@|@gwä-gha-n@
+@to threaten@|@tálan@
+@to thresh@|@'wan@
+@to throw@|@jän, pxän@
+@to throw oneself upon@|@pxwan@
+@to touch@|@nasän@
+@to tremble@|@-zazän, chazazä-n@
+@to twist@|@ža-n, žä-n@
+@to untie@|@ptatan@
+@to vomit@|@q:ažä, žawa-@
+@to weave@|@san@
+@to weed@|@pcha-@
+@to whet@|@Lä-n@
+@To work@|@Lejen@
+@today@|@nepa@
+@Tomatoes@|@Tomatos@
+@tongue@|@Bzegu@
+@too big@|@yinided@
+@Too fat@|@psherded@
+@too much beautiful@|@dexashe@
+@tooth@|@ca, ts'a, tsa@
+@Tooth pain@|@Tse-wiz@
+@top@|@tsän@
+@transformative@|@-w@
+@tree@|@chä-gä@
+@Tree@|@Sh6agi@
+@Triangle@|@Shime@
+@Trouser@|@Ghochenc@
+@trust@|@ts'äh'a@
+@tuberculosis@|@Jaghe-wiz@
+@Turkey@|@The-chet@
+@twelve@|@pshik'ut'u@
+@twenty@|@t'o`i@
+@twig@|@kwama@
+@two@|@t'u, twä@
+@two boys@|@Alit'u@
+@two boys and two girls@|@Alit'ure psheshit'ure@
+@Two by two@|@T'urut'u@
+@two girls@|@Psheshit'u@
+@Two shares@|@Ahit'u@
+@Uncle@|@S-yanesh@
+@Uncoverd head@|@Shhepts'e@
+@Under@|@Sh`egh@
+@under (preverb)@|@cha-@
+@Underneath clothes@|@Shäghän sh`egh èlh@
+@Underneath trouser@|@Ghochenc sh`egh èlh@
+@upper part of back@|@pla@
+@value@|@Psh`e@
+@vehicle@|@kwä@
+@vein@|@fa@
+@very beautiful@|@dexeded@
+@Very dusty@|@Sapaye@
+@Very good@|@Shu`ä-ded@
+@Very long@|@Ch'iheded@
+@very much@|@Bao@
+@Very much@|@Beded@
+@Very red@|@Plhijibz@
+@very soft@|@Shebeded@
+@very sour@|@Xefeded@
+@Very white@|@Fijibz@
+@village@|@chäLa@
+@Village@|@Quaje@
+@Vodka@|@Vodka@
+@voice@|@maq:a@
+@volunteer@|@shakwa@
+@vulva@|@gwädä@
+@waist@|@bgä@
+@Wake up@|@Qew?sh@
+@walk@|@kwa-@
+@wall@|@bLänä@
+@walnut@|@da@
+@Waning moon@|@Mazach'e@
+@warm@|@fä-ba@
+@Warm bread@|@Haläghu fab@
+@wart@|@q:am-cäch@
+@water@|@psä@
+@water and@|@psäre@
+@water and bread@|@Psäre haläghure@
+@water; bread and salt@|@Psäre; haläghure shäghure@
+@Water-fall@|@Psä-qèfex@
+@Watermelon@|@Nash@
+@wax@|@šafä@
+@we@|@ta@
+@we are awaken@|@Tqewishi@
+@We are awaken@|@Tqewshigh@
+@We are coming@|@Tiqek'o@
+@We are partners@|@Tä-zenäqoh@
+@We ate@|@Tishxagh@
+@we bought@|@Tshefghe@
+@we buy@|@Teshefä@
+@We came@|@Ti-qek'uagh@
+@we change@|@tekhoji@
+@we changed@|@Tkhojghe@
+@we did the shopping@|@Täshefagh@
+@We drank@|@Tèshuagh@
+@We drink@|@Tèsho@
+@We eat@|@Teshxe@
+@we fight@|@Tezawe@
+@we find@|@Teghotä@
+@we found@|@Tghotghe@
+@we gave@|@Ttäghe@
+@we get there@|@Tinesi@
+@We give@|@T-etä@
+@we go@|@Tek'o@
+@We have a feast@|@Näsashe ti`@
+@We look@|@Teplhe@
+@We looked@|@Tiplhagh@
+@we make shopping@|@Teshafe@
+@we play@|@tecegu@
+@we played@|@Ticegugh@
+@we read@|@Tèce@
+@we read (past)@|@Tècagh@
+@we sat@|@Titi'sigh@
+@We saw@|@Tlhegho@
+@we see@|@Telheghu@
+@We sell@|@Teshe@
+@we sit@|@Tet'isi@
+@We sleep@|@Teshiye@
+@We slept@|@Tishiyagh@
+@We smell@|@Tepame@
+@We smelt@|@Ti-pemagh@
+@We sold@|@Tshaghe@
+@We stand up@|@Tqeteci@
+@We stood up@|@Tqetecigh@
+@we take@|@ètexi@
+@we took@|@Itxigh@
+@We will awake@|@Tqewshisht@
+@we will buy@|@Tshefäsht@
+@we will change@|@Tkhojisht@
+@We will come@|@Tiqek'osht@
+@we will do the shopping@|@Täshefesht@
+@We will drink@|@Tèshosht@
+@We will eat@|@Tishxesht@
+@we will find@|@Tghotäsht@
+@we will give@|@Ttäsht@
+@We will go@|@Tik'osht@
+@We will look@|@Tiplhesht@
+@we will play@|@Ticegusht@
+@we will read@|@Tècesht@
+@We will see@|@Tlheghusht@
+@We will sell@|@Tshesht@
+@we will sit@|@Tit'isisht@
+@We will sleep@|@Tishiyesht@
+@We will smell@|@Ti-pemesht@
+@We will stand up@|@Tqetecisht@
+@we will take@|@Itxisht@
+@we will write@|@Tätxesht@
+@we write@|@Tetxe@
+@we wrote@|@Tätxagh@
+@weasel@|@wäžä@
+@weather@|@Washo, we@
+@Wedding feast@|@Näsashe@
+@weed@|@sacha@
+@welcome@|@Qèblagh@
+@Welcome; sit down@|@Qèblagh qet'äs@
+@Well; say it..@|@Ada  ze  qao@
+@West@|@Qohap'e@
+@what@|@säd, sädá@
+@What do you eat@|@Säd pshxäre@
+@What does he eat?@|@Säd  yäshxäre@
+@What I am eating?@|@Säd sshxäre@
+@What is your age?@|@Säd winäbjär?@
+@What will be@|@Khushtir, qekhushtir@
+@What will happen is happened@|@Khushtir khughe@
+@What would be is happened@|@Khushtir  khughaxe@
+@What you are eating@|@We äd shxäre, We sä pshxäre@
+@What you are eating?@|@Säd pshxäre@
+@What?@|@Syd?@
+@wheat@|@Kotsä, kwacä, kwatsä@
+@When it is lost@|@Zi-k'odrem@
+@When it is morning@|@Pshedijäm@
+@whiskers@|@p'ats'a@
+@Whisky@|@Wiski@
+@white@|@fä-žä@
+@white bread@|@Haläghu fäj@
+@White dog@|@he fäj@
+@White shirt@|@Cane fäj@
+@who@|@xat@
+@Who hit the dog?@|@Xet hem yewagher@
+@who is eating?@|@Serä shxere, Werä shxere@
+@Who likes a man@|@Lh`ä feder@
+@why@|@he@
+@why are you crying?@|@he wäghre, He wäghre@
+@why I am crying?@|@he säghäre?@
+@why is he crying?@|@he ghäre@
+@wide@|@bghwa@
+@Widow@|@Shuzab@
+@willow@|@p'ts'ialjä@
+@wind@|@Jäbgh@
+@Wine@|@Vin, vino@
+@wing@|@táma@
+@Wing@|@Tame@
+@winter@|@chä-maf@
+@witch@|@wädä@
+@With  respect@|@Wi-nebjeghu Yenal@
+@With integrity@|@Shhek'o xelh@
+@Without shoes@|@Lhapts'e@
+@woman@|@šäz, Shuz@
+@wood@|@mchä, pxa@
+@Wood@|@Pkhe@
+@Wooden fire@|@Pkhe  mashu`@
+@Wooden hoe@|@Pkhe  tsuaq@
+@woodpecker@|@pxauä@
+@wool@|@tsä@
+@word@|@gwachä'a@
+@worm@|@h'ámläw@
+@wound@|@tärq:wa@
+@write!@|@txä@
+@write! (pl)@|@Shutx@
+@yard@|@tsagw@
+@Yard@|@Qale@
+@year@|@jä-La-s@
+@yeast@|@Teceps@
+@yellow@|@ghwa-žä@
+@Yellow melon@|@Nashe-psush@
+@Yellow shirt@|@Cane ghoj@
+@Yenal is in front of Zawer@|@Yenal Zawer yipe yit@
+@Yes@|@arä@
+@yoke@|@bžä@
+@you@|@ša, werä@
+@you (pl) do the shopping@|@Shushafe@
+@You [pl] are awake@|@Shuqewshigh@
+@You [pl] ate@|@Shushxagh@
+@You [pl] drank@|@Shuèshuagh@
+@You [pl] drink@|@Shuèsho@
+@You [pl] eat@|@Shoshxe@
+@You [pl] sale@|@Shoshe@
+@You [pl] saw@|@Shulhegho@
+@You [pl] see@|@Sholheghu@
+@You [pl] sleep@|@Shoshiye@
+@You [pl] slept@|@Shushiyagh@
+@You [pl] smell@|@Shopame@
+@You [pl] smelt@|@Shu-pemagh@
+@You [pl] sold@|@Shushaghe@
+@You [pl] stand up@|@Shuqeteci@
+@You [pl] will awake@|@Shuqewshisht@
+@You [pl] will come@|@Shuqek'osht@
+@You [pl] will drink@|@Shuèshosht@
+@You [pl] will eat@|@Shushxesht@
+@You [pl] will sale@|@Shosht@
+@You [pl] will see@|@Shulheghusht@
+@You [pl] will sleep@|@Shushiyesht@
+@You [pl] will smell@|@Shu-pemesht@
+@You [pl] will stand up@|@Shuqetecisht@
+@You and I are eating@|@Sere  were  teshxe@
+@You and I are eating together@|@Sere were täzedeshxe@
+@You are [pl] coming@|@Shuqek'o@
+@You are awake@|@Wqewshigh@
+@you are crying@|@weghä@
+@you are eating@|@Weshxe@
+@You are looking@|@W-eplhe@
+@You are sitting@|@Wy-shys@
+@You are working@|@We-psew@
+@You ate@|@Wishxagh@
+@You awake@|@Wqewishi@
+@you bought@|@Pshefghe@
+@you bought (pl)@|@Shushefghe@
+@you buy@|@Weshefä@
+@you buy (pl)@|@Shoshefä@
+@You came@|@Wiqek'uagh@
+@You came (pl)@|@Shuqek'uagh@
+@You can roast it also@|@Mashu`och'i bghajeme  khusht@
+@you change@|@Wekhoji@
+@you change (pl)@|@Shokhoji@
+@you changed@|@Pkhojghe@
+@you changed (pl)@|@Shukhojghe@
+@You come@|@Wiqek'o@
+@You did not give me@|@Qsep-täghep@
+@you did the shopping@|@Wäshefagh@
+@you did the shopping (pl)@|@Shushefagh@
+@you do the shopping@|@Weshafe@
+@You drank@|@Wèshuagh@
+@You drink@|@wèsho@
+@You eat@|@We-shxe@
+@You eat alone@|@Wi-zaqo  weshxe@
+@you fight@|@Wezawe@
+@you fight (pl)@|@Shozawe@
+@You find@|@Weghotä@
+@you find (pl)@|@Shoghotä@
+@you found@|@Bghotghe@
+@you found (pl)@|@Shughotghe@
+@you gave@|@Ptäghe@
+@You gave@|@Ye-ptägh@
+@you gave (pl)@|@Shutäghe@
+@You gave me@|@Qseptägh@
+@you get there@|@Winesi@
+@you get there (pl)@|@Shunesi@
+@You give@|@Shu-etä, W-etä@
+@you give (pl)@|@Shuetä@
+@you go@|@Wek'o@
+@you go (pl)@|@Shok'o@
+@You have given me@|@Qseptä-ghagh@
+@You have not given me@|@Qseptä-ghaghep@
+@You look@|@Weplhe@
+@You look (pl)@|@Shoplhe@
+@You looked@|@Shuplhagh, Wiplhagh@
+@You only@|@Wi-zaqu@
+@you play@|@wecegu@
+@you play (pl)@|@Shocegu@
+@you played@|@Wicegugh@
+@you played (pl)@|@Shucegugh@
+@you read@|@Wèce@
+@you read (past)@|@Shuècagh, Wècagh@
+@you read (pl)@|@Shuèce@
+@you sat@|@Wit'isigh@
+@you sat (pl)@|@Shut'isigh@
+@You saw@|@Plhegho@
+@You see@|@Welheghu@
+@You sell@|@Weshe@
+@You sit@|@We-t'isi@
+@you sit (pl)@|@Shot'isi@
+@You sleep@|@Weshiye@
+@You slept@|@Wishiyagh@
+@You smell@|@Wepame@
+@You smelt@|@Wi-pemagh@
+@You sold@|@Pshaghe@
+@You stand up@|@Wqeteci@
+@You stood up@|@Shuqetecigh, Wqetecigh@
+@you take@|@Èwexi@
+@you take (pl)@|@Èshoxi@
+@You too@|@weri@
+@You too eat@|@Weri  weshxe@
+@You too work@|@Weri we-laje@
+@you took@|@Ipxigh@
+@you went@|@Wäk'uagh@
+@you went (pl)@|@Shuk'agh@
+@You will awake@|@Wqewshisht@
+@you will buy@|@Pshefäsht@
+@you will buy (pl)@|@Shushefäsht@
+@you will change@|@Pkhojisht@
+@you will change (pl)@|@Shukhojisht@
+@You will come@|@Wiqek'osht@
+@you will do the shopping@|@wäshefesht@
+@you will do the shopping (pl)@|@Shushefesht@
+@You will drink@|@Wèshosht@
+@You will eat@|@Wishxesht@
+@you will find@|@Bghotäsht@
+@you will find (pl)@|@Shughotäsht@
+@you will give@|@Ptäsht@
+@you will give (pl)@|@Shutäsht@
+@You will go@|@Shuk'osht, Wik'osht@
+@You will look@|@Wiplhesht@
+@you will play@|@Wicegusht@
+@you will play (pl)@|@Shucegusht@
+@you will read@|@Wècesht@
+@you will read (pl)@|@Shuècesht@
+@You will sale@|@Pshesht@
+@You will see@|@Plheghusht@
+@you will sit@|@Wit'isisht@
+@you will sit (pl)@|@Shut'isisht@
+@You will sleep@|@Wishiyesht@
+@You will smell@|@Wi-pemesht@
+@You will stand up@|@Wqetecisht@
+@you will take@|@Ipxisht@
+@you will take (pl)@|@Ishuxisht@
+@you will write@|@Wätxesht@
+@you will write (pl)@|@Shutxesht@
+@You work@|@We-laje@
+@you write@|@Wetxe@
+@you write (pl)@|@Shotxe@
+@you wrote@|@Wätxagh@
+@you wrote (pl)@|@Shutxagh@
+@You[pl] awake@|@Shuqeweishi@
+@you[pl] drink@|@Shuèshu@
+@young@|@-zäj, cha@
+@Young@|@Näbjä`e@
+@Young goat@|@Ch'äts'ä@
+@Your (pl) name@|@Shuits'e@
+@Your age@|@Wi-näbj@
+@Your bride@|@Shui-näse@
+@Your dignity is your life@|@Ts'ifim  yipsh`e  yishhe  ywas@
+@your father@|@w-yat@
+@Your father is coming@|@W-yate  ek'o@
+@Your grandmother@|@Wi-nenej@
+@your grandmother (pl)@|@Shui-nenej@
+@Your house@|@Shui-wne, Wi-wne@
+@Your mother@|@W-yan@
+@Your mother is not fat@|@W-yane  psherep@
+@Your nails are long@|@Wi-abjane  ch'ihe@
+@Your name@|@Wi-ts'e@
+@Your son-in-law@|@Wi-malhkho@
+@Your son il law@|@Shui-malhkho@
+@youth@|@sáwa, ts'alja@
+@zinc@|@cafä@
+

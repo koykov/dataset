@@ -1,0 +1,253 @@
+@English@|@Enets@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a k. of arrow@|@muggeo@
+@a k. of berry@|@moðagga, moragga@
+@a k. of fish@|@faeha@
+@a k. of insect@|@addu@
+@a k. of marten@|@purru@
+@a k. of metal@|@bese@
+@a k. of salmon@|@adde, jiddu@
+@an elder relative@|@káda'a, kára'a@
+@animal's stomach@|@fédiko@
+@annual ring on a tree@|@ti, tî@
+@armpit@|@séði, séri@
+@arrow@|@tu-ni@
+@back@|@maha@
+@back part@|@fuo', fuone, fuonô, fuonône@
+@bark@|@koba, kuba@
+@basket@|@ku', kuðo'@
+@bast@|@sesa@
+@become dark@|@fei, feide, feire, fösuma@
+@behind@|@taha', tahone, tehone@
+@bend@|@se'@
+@berry@|@ode, ore@
+@bifurcation of a river@|@boda, bora@
+@big@|@ina@
+@birch@|@kua, küa@
+@birch bark@|@te, të@
+@blood@|@bide, bire@
+@body@|@keðe', kere'@
+@boil@|@fedi'a-, feri'a-, fiði-, fie-, fire-@
+@bone@|@lídi, liri@
+@bow@|@iddo@
+@bowstring@|@jéddi@
+@breath@|@beddu', bedduo, bedu'@
+@bridle@|@sa, so@
+@cap@|@soe@
+@carry@|@iðá-, jirá-@
+@cartilage@|@ny', nyr-@
+@case@|@koðei, koðoi, kôre, kure@
+@charcoal@|@tü-sio@
+@cheek@|@faede, färu, paede@
+@chew@|@to'a-, tu'a-@
+@chin@|@eu, nangu@
+@claw@|@kóda, kóra@
+@community@|@kode@
+@comrade@|@iðu, juru@
+@cradle@|@licho@
+@crane@|@kori@
+@curve@|@muna-, munua-@
+@daughter@|@nere-kétschu@
+@daughter-in-law@|@më, mï@
+@day@|@däre, dere, jéðe, jére@
+@deep place in water@|@joðe, jore@
+@deer@|@tia, tyjæ@
+@dew@|@jote@
+@die@|@je'oa-@
+@diver@|@nieni, nioni@
+@divide@|@tengabo-@
+@door@|@ngia, no, nu@
+@down@|@muddute'@
+@elder female relative@|@óba@
+@end@|@oðo, oðoti, orete@
+@end of trunk@|@tabo, taima@
+@ermine@|@fïdu, pidu, pïdu@
+@eye@|@sei@
+@fat of a reindeer@|@tu, tü, tudo', turo'@
+@father@|@acha', ädäa, ede@
+@fathom@|@tibe, tïe@
+@female@|@nä@
+@fence@|@bä'@
+@fight@|@tarunga-@
+@find@|@koa-, kua-@
+@fine snow@|@kadu, káru@
+@fir@|@kadi, kari@
+@fire@|@tu, tü@
+@fish@|@kaðe, kare@
+@five@|@biu'@
+@flat@|@lota@
+@flat surface@|@lóba, lóbi@
+@frost@|@koddi-@
+@girdle@|@bine, nieijo, niojo@
+@give@|@teda-, tera-@
+@glue@|@ie, jï@
+@go@|@todde'e-@
+@grave@|@kámeðo, kámero@
+@hair@|@ito', itto, to', tö'@
+@hare@|@naba, näba, nãba@
+@harness@|@fóde', fóre'@
+@head@|@abuði, ae, eba, ebë, ewa, pe'@
+@heart@|@seijo, seo@
+@heat@|@edde@
+@hide@|@tekä-@
+@hole@|@ê', eo', na', nâ'@
+@hole in tent roof@|@sáma'a@
+@hollow of hand@|@chámmara@
+@horn@|@eddo, naddo@
+@house@|@mekoddo, mekone, mekoro@
+@I@|@modi@
+@ice crust@|@siða, sira@
+@inside@|@sode, sude, sudo, suse, suso@
+@interval@|@jode, jodene, jore, jorene@
+@intestinal worm@|@kodoluo, kodulue, koduluo@
+@knee@|@fosë, fuase@
+@knife@|@kolu, köru, kuru@
+@know@|@tudda-@
+@language@|@'ioro, sioðo, sioro@
+@learn@|@tadda-@
+@lid@|@lata@
+@light@|@sebi, sebide, sebire, seblajgu@
+@lip@|@fite', pite'@
+@liver@|@mudo, muro@
+@lizard@|@tadu, tazu@
+@loin@|@batado, bátaro@
+@long@|@fide, filo'io, fise@
+@look@|@odi, ori@
+@lowland@|@loddu, luddu@
+@lung@|@tïji@
+@male@|@kor-sîr, qor, qör, qori'@
+@many@|@fode-ma, fode-me@
+@middle@|@jodea, judâ@
+@morning@|@kiduduo, kururuo@
+@morning dawn@|@käja@
+@mother@|@ä@
+@mother-in-law@|@inobo@
+@mountain@|@kû'eo, kuiju@
+@mouth@|@so, sö, sü@
+@name@|@ni'@
+@narrow@|@tïja@
+@needle@|@në'@
+@negative particle@|@ne-@
+@nest@|@fide, fire', pide@
+@net@|@kuoðese', kuorese'@
+@odor@|@obto@
+@on top@|@ni, nine, niro@
+@order@|@sie', sieðo', siero'@
+@palm of hand@|@fe, feo, pe@
+@piece@|@moðe'i-, moðei'-, more'e-, morei-@
+@pine@|@tiddi, tydi', tyri@
+@pit@|@bággo@
+@place@|@fun-@
+@place behind the fireplace@|@lote@
+@polar duck@|@ngau@
+@pole@|@ngû, ngudo, sodde'i, sore'e@
+@pond@|@to, tudi'o, tudio, tuse'e@
+@present@|@kasu@
+@raven@|@kuðuke, kuruke@
+@related through marriage@|@maddu@
+@resin@|@káde@
+@river@|@daha@
+@root@|@baddu@
+@run away@|@kune-@
+@scoop@|@kúde, kûri, sea@
+@scrape@|@boda-, bora-@
+@sell@|@mi'e-@
+@separate@|@johe-, johi-@
+@shaft@|@foggo, heng nïdo', nï', poggo@
+@shoot@|@nigga@
+@shore@|@móða, möra@
+@side@|@báðo, baro, feðe, ferie@
+@sinew@|@ti, tï', tino'@
+@sister-in-law@|@séði, séri@
+@skin@|@taijo, täjo@
+@skin from the feet of deer@|@fedda@
+@sleeping hole in snow@|@bá'a@
+@sleeve@|@tiejjo, tiojo@
+@sleigh@|@koddo, kodo@
+@smoke@|@suddo@
+@snot@|@nadinga-, naringa-@
+@snowfall@|@kadu, karu@
+@soar@|@tïnga-, tïnge-@
+@soft@|@nuggo@
+@something elevated@|@modi@
+@something stamped@|@fúðu, fúru'@
+@son-in-law@|@bï@
+@space below something@|@iðo, iðone, iro@
+@spit@|@eddo, falli, naddo@
+@split@|@lekec'@
+@stay@|@kai-, kaija-@
+@stone@|@fu, fû, pu@
+@summer@|@tô, toe, tojio, tonoju@
+@tail@|@batu'o@
+@take out@|@tedia-, teria-@
+@tear@|@köði, koiri@
+@testicle@|@mona@
+@that@|@awuo, tohonô, tole, toleo', toliojuo, tone, tonne, tore'@
+@that (1)@|@sedeo@
+@thief@|@tali-, tare-@
+@thing@|@mê-@
+@this@|@ne, te', tiada, tike, tikeddo, tikohone, tingdi@
+@this (1)@|@e-ke, e-ko, e-lei, e-loi, i-nö, nedo, nene, nero, nie@
+@thou@|@todi@
+@thumb@|@fïdu, fïtu@
+@tinder@|@fe'e@
+@to be afraid@|@fïe-@
+@to become dry@|@kaso, kasua, kasua-, kasue, kasue-@
+@to become wet@|@fodâ-, forâ-@
+@to bind@|@kuraza, seða-, sera-@
+@to blow@|@fuasa-, fuenga-@
+@to burn@|@foðara, forada@
+@to call@|@kanga-@
+@to carry@|@hadda-, kadda-@
+@to catch@|@kadä-, no'a-@
+@to comb@|@tïða-, tiere-@
+@to come@|@to'ado-, to'aro-@
+@to come in@|@tu-@
+@to cough@|@ko', kodunga-, korunga-, ku'@
+@to cut@|@fidi', fidi'a-, firi', firi'a-, firo'@
+@to die@|@kä-@
+@to extinguish@|@kota-@
+@to flow@|@simï@
+@to get lost@|@judota-, jurotá-@
+@to grow@|@tido, tiso, tiz@
+@to hang@|@idi'a-, iri'a-@
+@to hear@|@kô, kö, kü'@
+@to hit@|@fi'á-, fi'e-@
+@to lead@|@badadda-, bará-@
+@to lick@|@näntäsa, nontosa@
+@to live@|@iði-, jire-@
+@to move@|@modoða-, mozora-@
+@to obtain@|@tae-, toe-@
+@to paint@|@fáda, fára@
+@to pour out@|@batá-@
+@to rot@|@tïbä, tïme-@
+@to say@|@man-@
+@to scrape@|@nodunga-, norunga-@
+@to sit@|@adde-, addo, addu-, adi-@
+@to swallow@|@noddo-@
+@to want@|@koma-, kóma-, kometá@
+@to wash@|@musua-@
+@to watch@|@fónéngé-, fóningé-@
+@trace@|@u', udo', urï@
+@turned over@|@ka'aða-, ka'ara-@
+@two@|@side, sire@
+@vessel@|@súðoka@
+@vessel made of birch bark@|@kide@
+@wander@|@daza-, jada-, jara-@
+@water@|@bi' (heng bïro')@
+@wave@|@kaba@
+@what@|@mî'@
+@when@|@kune, kunne@
+@where@|@kokohone@
+@Wherever@|@kudo, kuro@
+@which@|@höke@
+@who@|@sie, sio@
+@wild animal@|@sâme@
+@wild reindeer@|@hêre', kede, kêre', keze'@
+@wing@|@tua@
+@wish@|@litobiz@
+@wood@|@fä, faa, fe, pä@
+@year@|@narra@
+@yellow@|@fóde', fóre'@
+

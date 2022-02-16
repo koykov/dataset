@@ -1,0 +1,6228 @@
+@English@|@Cherokee (Aniyawiya)@
+@Author name@|@Shawn Buchanan Greene@
+@Font@|@Arial\12\Arial\12@
+@0@|@wulosásdá uyádla@
+@1@|@sakuu@
+@1/2@|@ayeli iyá@
+@10@|@sgohi@
+@11@|@sadu@
+@12@|@talidu@
+@13@|@tsogadu@
+@14@|@nigadu@
+@15@|@sgigadu@
+@16@|@daladu@
+@17@|@galikuadu@
+@18@|@neladu@
+@19@|@sone-ladu@
+@2@|@talli@
+@20@|@talasgohi@
+@3@|@tso-i@
+@30@|@tsosgohi@
+@4@|@ná-gi@
+@40@|@nágisgohi@
+@5@|@hi-sgi@
+@50@|@hisgisgohi@
+@6@|@sudali@
+@60@|@sudalisgohi@
+@7@|@galikuo-gi@
+@70@|@galikuasgohi@
+@8@|@tsune-la@
+@80@|@nelasgohi@
+@9@|@sone-la@
+@90@|@sone-lasgohi@
+@abandoned@|@duyosági@
+@abase@|@eladi igánododi@
+@abasement@|@eladi nanáenehá@
+@abate@|@adadisásedi@
+@abated@|@unadadadisáselá@
+@abatement@|@anadadisáseha@
+@abator@|@adadisásehi@
+@abdicate@|@usulagotsági@
+@abdication@|@asulagogái@
+@abdomen@|@uskuoli@
+@abduct@|@adatihnawidádi@
+@abduction@|@agatihnawidisgá@
+@abet@|@adaniladedi@
+@abetment@|@anadaniladehá@
+@abettor@|@adaniladehi@
+@abhor@|@ganayehisdi@
+@abhorrence@|@aninayesgá@
+@abide@|@adagatidisdi@
+@abiding@|@anadagatiyá@
+@ability@|@násinasá@
+@abjection@|@eladi nigalisdisgá@
+@abjure@|@adasdiyi@
+@ablaze@|@adawelagisgá@
+@able@|@yelikua iyadánedi@
+@abnormal@|@kali nigesána@
+@aboard@|@atsodiyi@
+@abode@|@ganelá@
+@abolish@|@diyohisdi@
+@aboriginal@|@nánehiya@
+@about@|@gáwaduwidá@
+@above@|@galáladitlá@
+@abridge@|@askualádodi@
+@abroad@|@iná@
+@abscess@|@gawosgái@
+@absence@|@nádoháná@
+@absent@|@nedohána@
+@absorb@|@akayododi@
+@abstinence@|@asulagoisdi@
+@abstract@|@adadalododi, nudohiyusána@
+@absurd@|@nudohiyusána@
+@abundant@|@gáwalosásdi@
+@abuse@|@uyoigánedi@
+@academy@|@igái utana tsunadelokuasdi@
+@accelerate@|@gatsanulahisdi@
+@accent@|@gánedi kaneisdi@
+@accept@|@didaniláisdi@
+@acceptable@|@didanilátsáhi@
+@access@|@galuhisdi@
+@accessory@|@uwotsaládisgi@
+@accidence@|@udasegatselá@
+@accident@|@udasegatsedi@
+@accidental@|@usegatselá@
+@acclaim@|@asdaya diganotsalodi@
+@accommodate@|@alisdeládi@
+@accomodation@|@dilasdeládi@
+@accompany@|@aligonedi@
+@accomplish@|@askuadisdi@
+@accord@|@didadolatseláhi@
+@accordance@|@didolagi@
+@accordingly@|@kali didolagi@
+@accost@|@adalinohedodi@
+@account@|@gánigesá igánedi@
+@accountant@|@adela ugasesdi@
+@accrue@|@udanekuotsedi@
+@accumulate@|@gasátasdi@
+@accurate@|@kali didolagi@
+@accuse@|@adaduhisdodi@
+@accustomed@|@ogisadá@
+@ace@|@igáyi@
+@ache@|@ehisdá@
+@achieve@|@alinigánedi@
+@acknowledge@|@gohiyudodi@
+@acknowledgment@|@gohiyutanáhi@
+@acorn@|@gule@
+@acquaint@|@dádolagá@
+@acquaintance@|@didolisdi@
+@acquainted@|@dinadolagi@
+@acquiesce@|@kali didolisdi@
+@acquire@|@otseli igánedi@
+@acquisition@|@ayasdi agisdi@
+@acquit@|@didayohisdi@
+@acquittal@|@dádayosgá@
+@acre@|@sutilodá@
+@acres@|@itsutiliodá@
+@across@|@diganadihisdi@
+@actactive@|@iyadánehi@
+@acted@|@nudánelá@
+@action@|@aliteládi@
+@activities@|@tsudalenáda iyunadádi@
+@activity@|@alinigánedi-@
+@actor@|@adánelisgi@
+@actress@|@adánelisgi@
+@actual@|@udohiyusá@
+@actually@|@udohiyuhiya@
+@actuate@|@alenádi@
+@acumen@|@uwolatsati@
+@ad valorem@|@igatihi tsugáwalodi@
+@adapted@|@yeli didolagi igánelá@
+@add@|@gatlisodi@
+@added@|@gatlisanáhi@
+@adder@|@inadá@
+@addict@|@uganasisgi@
+@addition@|@gatlisodigi@
+@additional@|@digatlisanáhi@
+@address@|@nahna gesá wasesdi@
+@addressed@|@nahna gesá wasesdi@
+@addressee@|@watsinánelá tsunesdi@
+@adequate@|@eligua igai@
+@adieu@|@uliskualádi adayolisdi@
+@adjourn@|@diyelihisdi@
+@adjourned@|@duniyelisá@
+@adjudge@|@didagudanedi@
+@adjust@|@osdá igánedi@
+@adjusted@|@asda igánelá@
+@adjusting@|@osdá nagánehá@
+@adjustment@|@osdá nananehá@
+@administration@|@nunigáwiyasadegi@
+@admirable@|@atsilákuodiyu@
+@admiration@|@galákuododiyu@
+@admire@|@galákuododi@
+@admission@|@gohiyudodi@
+@admit@|@gohiyutaná@
+@admitted@|@uwohiyutaná@
+@admonish@|@adadeyadodi@
+@adopt@|@atloyasdodi@
+@adopted@|@atloyastanáhi@
+@adorable@|@ulilohi@
+@adoration@|@adalakuododiyi@
+@adore@|@adalatudi@
+@adorn@|@atsanádi@
+@adult@|@utana@
+@adultery@|@udelidá dinásidi@
+@advance@|@adasaladodi@
+@advancement@|@asalododi@
+@advantage@|@adlanáadadisgá@
+@advent@|@adanetliyásgá@
+@adventure@|@aneláododi@
+@adverse@|@digatilegi@
+@advertise@|@diganotsaládi@
+@advice@|@adadeyodi@
+@advisable@|@gádadeyodi@
+@advise@|@adadeyodi@
+@advised@|@udawonátanági@
+@advocate@|@ganiladisdi@
+@affair@|@nanadánehá@
+@affairs@|@nidunadánelidolá@
+@affect@|@galákuododi@
+@affected@|@galákuotana@
+@affection@|@didadaniláisdi@
+@affectionate@|@tsudadanilátsati@
+@affectionately@|@nigohilá tsudadanilátsati@
+@affidavit@|@aselitaná@
+@affiliate@|@aligodi@
+@affirm@|@gohiyudodi@
+@afflict@|@udatsosadanedi@
+@afford@|@yeli iyudáni@
+@affray@|@danalihá@
+@afire@|@adawelagisgá@
+@afraid@|@asgaihá@
+@after@|@ulosoná@
+@afternoon@|@sáhiyeyiditlá@
+@afterwards@|@oni uwagudidisá@
+@again@|@asikue@
+@against@|@digatilegi@
+@agaze@|@askuanigohisdi@
+@age@|@iyudetiyáda@
+@aged@|@ugayulatsá@
+@agency@|@atsinásidasdi tsuláwisdanedi@
+@agent@|@atsinásidasdi@
+@aggravate@|@adadeyadodi@
+@aggregate@|@gatlisodi@
+@aggrieve@|@uyo ayeládi@
+@agitate@|@ayotladisdi@
+@agitator@|@ayotladisgi@
+@ago@|@iyu tsigesá@
+@agony@|@agiliyogá@
+@agree@|@osi ayeládi@
+@agreeable@|@tsudadanilátsadi@
+@agreed@|@dudanilátsá@
+@agreement@|@dadanetselá@
+@agricultural@|@digalogodi ugáwali@
+@agriculture@|@digalogodi@
+@agrin@|@uyetsagá@
+@aground@|@atlá gadohi@
+@ahead@|@igáyititlá@
+@aid@|@adasdeládi@
+@aim@|@alisosdá@
+@air@|@unole@
+@airplane@|@tsiyu ganohilidohi@
+@airport@|@tsiyu tsunidisdi@
+@ajar@|@usdi asduida@
+@alarm@|@adasgasdanedi@
+@alarmist@|@adasgasdanehi@
+@alcohol@|@ama asuyádi wisgi@
+@alderman@|@gaduhá digalawigi@
+@alert@|@gánigalisdi@
+@algebra@|@disesdi ugáwali@
+@alias@|@nudale dudo@
+@alibi@|@gohiyudodi utsatina ádohá@
+@alienate@|@adadasdiyi@
+@alike@|@utloyi@
+@alimony@|@agaguyáedi tsugalenáda@
+@alisgoládodi@|@alisgoládodi@
+@alive@|@gánodá@
+@all@|@nigadá@
+@allege@|@digosisodi@
+@alleviate@|@kanohyasdi@
+@alligator@|@tsulasgi@
+@allocate@|@adiyi@
+@allot@|@ayatasdi@
+@allow@|@alisgoládodi@
+@allowance@|@alisgolátanáhi@
+@allude@|@kaneisdodi@
+@allure@|@adayanádodi@
+@ally@|@aligosá@
+@almanac@|@nádo disesdi@
+@almighty@|@nugáwiyusá@
+@almost@|@naánigesdi@
+@aloft@|@galáladitlá@
+@alone@|@uwasá@
+@along@|@geladásdi@
+@aloud@|@asdaya unoyágá@
+@already@|@gayula@
+@also@|@nasgi naskue@
+@alter@|@adanetliyásgi@
+@although@|@nasgi unelagi@
+@altogether@|@nigadá@
+@aluminum@|@gasaka talugisgi@
+@alumni@|@tsuniskuadá@
+@always@|@nigohilái@
+@amateur@|@alenisgi@
+@amaze@|@askuanigohisdi@
+@ambition@|@agaliya@
+@ambitious@|@anigaliyái@
+@ambulance@|@tsunitlági digaládodi@
+@ambush@|@adahaludi@
+@amen@|@nasgi winigalisda@
+@amend@|@gotláhisodi@
+@amendment@|@gotláhisanáhi@
+@America@|@amelige@
+@amiable@|@ulilohi@
+@ammunition@|@disdayosdodi@
+@among@|@nunadáná@
+@amount@|@igai gesá@
+@amount of premium@|@iga asasdá@
+@amounted@|@nuwetsági@
+@ample@|@yelikuu igai@
+@ample time@|@yelikua atlanádadisgá@
+@amplify@|@atanohisdodi@
+@amuse@|@askuanigohisdi@
+@amused@|@usguanigosá@
+@amusement@|@askuanigosádi@
+@amusing@|@askuanigohisdi@
+@analysis@|@digugododi igánedi@
+@anarchy@|@ayeli dinigatilegi@
+@ancestor@|@tsunigayálige iyulistaná@
+@ancient@|@hiláhiyui@
+@and@|@ale@
+@and above all@|@nigadá kaliwohi@
+@and also@|@ale utloyasdi@
+@and assure you@|@gáyoidaneha@
+@and assure you that@|@gáyoidane nasgi@
+@and examined@|@ale atsigoliyedá@
+@and forward@|@ale anigisdodi@
+@and have been@|@ale nulistaná@
+@and have taken@|@ale agigisá@
+@and hope you have received@|@akuohiyu tsagisá@
+@and I am@|@ale ayá@
+@and I am glad@|@ale galieliga@
+@and I am glad to say@|@ayá galieliga tsinegá@
+@and I am pleased@|@ale degadanilága@
+@and I am pleased to say@|@ayá galieliga tsinitsiwea@
+@and I assure you@|@ale ayá gáyoidaneha@
+@and I have@|@ale agiha@
+@and I shall expect@|@ale udugi akuásesdi@
+@and I was@|@ale ayá gesá@
+@and in reply@|@ale akwohiliyásá@
+@and in reply will say@|@hia nidatsiwesi gawoiliyásgá@
+@and in reply would like@|@ale gawoiliyása dákuaduláhi@
+@and noted@|@ale gowelanáhi@
+@and oblige@|@ale adalihelitesedi@
+@and return@|@ale nidayutsáda@
+@and shall be@|@ale nidagalistani@
+@and shall be glad@|@ale degalielitsi@
+@and shall be glad to have@|@ale dagalielitsi agái@
+@and which certainly@|@ale tsinudohiyu@
+@and which may@|@ale yinágalisda@
+@and will be credited@|@ale ayosdodi atsitugá@
+@and will be governed@|@ale asdawadásdi@
+@and will be guided@|@ale asdawadisesdi@
+@anew@|@atsehisotaná@
+@angel@|@anidawehi@
+@anger@|@utalawosgá@
+@angle@|@dasdanáná dulutsá@
+@angrily@|@uhnaláhiyu@
+@angry@|@uhahnalá@
+@animal@|@ganatlai@
+@ankle@|@utsaskualadá@
+@anniversary@|@udetiyisgá@
+@announce@|@deganotsalásgá@
+@announced@|@dunotsalaná@
+@announcement@|@diganotsalaná@
+@announcements; job@|@digaláwistanedi diganotsalásgi@
+@annoyance@|@adatsotsesdisgi@
+@annual@|@nadetiyáhisá@
+@annuity@|@sudetiyáda gegaguyáehá@
+@annul@|@ayosdodi@
+@annum@|@sudetiyádá@
+@another@|@nudale@
+@answer@|@gawohiliyádá@
+@answered@|@gawohiliyáda@
+@answering@|@gawohiliyásgá@
+@answering your favour@|@gáyawoiliyáehá tsadulisgá@
+@answers@|@danawohiliyásgá@
+@ant@|@dosádali@
+@anteater@|@dosádali digayesgi@
+@anteroom@|@igáyaditlá kanásulá@
+@anticipate@|@utugi elisdi@
+@anticipated@|@utugi elisá@
+@anticipating@|@utugi oyelásyi@
+@antique@|@uweti gotláná@
+@antique dealer@|@uwedi ganadega@
+@anvil@|@gotlánádi atlodi@
+@anxiety@|@owelihisdisgá@
+@anxious@|@owanágá@
+@anxiously@|@owelihisgá@
+@any@|@nigalisdisgágu@
+@any future time@|@iyukwu uwagudidisá@
+@anybody@|@naniákue@
+@anyhow@|@igánisisgi yinigalasdi@
+@anyone@|@naniákue@
+@anyone else@|@nudalege@
+@anyway@|@yinigalasdikuo@
+@anywhere@|@nigákuo@
+@apart@|@tsugalenáda@
+@apartment@|@dekanásulá@
+@apiary@|@wadulisi diyáedodi@
+@apiece@|@anisiyáwihai@
+@apologize@|@gohiyudodi olidastaná@
+@apology@|@adadohiyadenedi olidastaná@
+@apoplexy@|@uniládalwisgá@
+@apostle@|@adasdawadidohi@
+@appall@|@unayehisdi@
+@apparel@|@dinuwosdi@
+@apparent@|@gágowadádi@
+@apparently@|@gágowadátikuo@
+@appeal@|@atayosdi@
+@appealed@|@atayoláhi@
+@appear@|@gananugoisdi@
+@appearance@|@gananugotsái@
+@appeared@|@unanugotsá@
+@appearing@|@gananugogái@
+@appears@|@gananugoga@
+@appetite@|@oyoisigá@
+@applaud@|@disidánisdi@
+@applause@|@danasidánihá@
+@apple@|@ságata@
+@apples@|@hilásgi ságata@
+@applicant@|@atayohihi@
+@application@|@akalisisodi@
+@application; job@|@digaláwistanedi dikalisisodi@
+@applications@|@ditayosdodi@
+@applied@|@igánatanáhi@
+@applies@|@nigánadisgo@
+@apply@|@igánadodi@
+@applying@|@nanánadisgái@
+@appoint@|@asuyesdi@
+@appointed@|@asuyedá@
+@appointment@|@disuyedá@
+@appraise@|@digáwaladodi@
+@appraiser@|@digáwalodisgi@
+@appraisers@|@dinigáwalodisgi@
+@appreciate@|@adalihelitsedi@
+@appreciated@|@udalihelitselá@
+@appreciating@|@anadalihelitsehá@
+@appreciation@|@adalihelitsediyi@
+@apprehend@|@adelohohisdi@
+@apprentice@|@adelokuasgi@
+@approach@|@unanugoisdi@
+@appropriate@|@didolagi@
+@approval@|@gohiutaná@
+@approve@|@gohiyudodi@
+@approved@|@gohiyutanoná@
+@approximate@|@naánigesdodi@
+@approximately@|@naánigesdodikue@
+@approximation@|@naánige elisdi@
+@apricot@|@dalinige adadásgi@
+@april@|@guwoni@
+@apron@|@atlesado@
+@apt@|@á-tla udalula@
+@Arts; The@|@goluwadádi adáná@
+@as a rule@|@tsunikahnawadásdi@
+@as early as@|@igáyi yigesdi@
+@as early as possible@|@gáyiyigesdi nigalistaná@
+@as far as@|@winigatsihihá@
+@as far as it lies@|@winigatsihihá aselá@
+@as far as possible@|@winigatsihihá iyá@
+@as far as that@|@winigatsihihá yadáhna@
+@as far as you can@|@winisatsetsáhá@
+@as fast as@|@nigatsanulá@
+@as follows@|@tsiwayilega@
+@as good as@|@nasgiya iyosda@
+@as great as@|@igayekua@
+@as I have said before@|@tsunagi wesági@
+@as it has@|@tsinulistaná@
+@as it has been done@|@iyadáneláhi@
+@as it is@|@tsinusdi@
+@as it was@|@tsinusdági@
+@as it will be@|@tsinusdesdi@
+@as large as@|@nasgiya igidá@
+@as long as possible@|@nasgiya igohidá@
+@as low as@|@nasgiya iyeladi@
+@as low as possible@|@weladiyái@
+@as many as@|@winanigái@
+@as many as possible@|@winanigáiga@
+@as might have been@|@yiniulistane@
+@as much as@|@igaikwu yinigalisdi@
+@as much as possible@|@winigatsihihá iga@
+@as near as@|@naánigesdodi@
+@as near as can be@|@naánigeisdi@
+@as near as I can judge@|@naánige degugodisgá@
+@as near as I can remember@|@naánige ganádadisgá@
+@as near as you can judge@|@naánige dehugodisgá@
+@as per order@|@adanásá@
+@as quick as@|@natlegái@
+@as rapidly as possible@|@iyulisda igádánedi@
+@as soon as possible@|@nulisdákuu@
+@as soon as you are able@|@nulisdá nitsalinigosá@
+@as soon as you can@|@nulisdá tsatlanádadelá@
+@as soon as you know@|@yukuu hadelohosá@
+@as stated@|@kaneistanáhi@
+@as the case may be@|@nasgiya yinulistaná@
+@as there were@|@nusdá nahiyu@
+@as we find@|@tsidiwatiha@
+@as we found@|@tsigiwadáhá@
+@as we have not@|@nogadánelána tsigi@
+@as we know@|@tsoganáta@
+@as you are aware@|@higatahá igi@
+@as you did not expect@|@udugi nigásána tsigesá@
+@as you know@|@tsitsanáta@
+@as you may desire@|@yinágetsadula@
+@as you will@|@tsinátadáneli@
+@as you will find@|@tsátaiwadáhi@
+@as you will see@|@tsátigohi@
+@as you wish@|@tsitsaduliha@
+@as you would@|@igetsadánedi@
+@as you would find@|@getsawadádi tsigi@
+@ascend@|@agilohisdiyi@
+@ascertain@|@agadádiyi@
+@ash@|@gosdu@
+@ashamed@|@adehosga@
+@aside@|@utselidá@
+@ask@|@adadádodi@
+@asked@|@udadádáná@
+@asking@|@adadádáhásgá@
+@asks@|@adádáhásga@
+@asleep@|@galiha@
+@asperse@|@usoná didanotsalodi@
+@assault@|@didagatlásdi@
+@assemble@|@adatlisodi@
+@assembly@|@danilawiá@
+@assert@|@kaneisdiyi@
+@assigned@|@datsiyohiselá@
+@assignment@|@didayohisedi@
+@assist@|@adasdeládi@
+@assistance@|@alisdeládodisgá@
+@assistant@|@alisdelisgi@
+@assisting@|@alisdelisgá@
+@associate@|@unaligohi@
+@associated@|@unaligonáhi@
+@associates@|@unaligosá@
+@association@|@unaligosá@
+@assortment@|@disuyedá@
+@assume@|@iyelsdi@
+@assumed@|@nelisá@
+@assuming@|@nolisgái@
+@assurance@|@atuyasdanedi@
+@assure@|@atuyasdodi@
+@assured@|@atuyastaná@
+@astound@|@askuanigohisdi@
+@astray@|@ulenahidá@
+@astride@|@didlawetseládodi@
+@astrologer@|@nokuasi tsugasesdi@
+@astute@|@gosdaya uwolisdi@
+@asunder@|@aligodadodi@
+@asylum@|@tsunilánotisgi uniyásdi@
+@at a loss@|@adayohusehi@
+@at all events@|@nigalistanánidohá@
+@at all times@|@nigohilái@
+@at an early date@|@natlegái@
+@at an early day@|@natlegákuu iga@
+@at any place@|@iyákuu@
+@at any rate@|@nigalasdisgákuu@
+@at any time@|@iyukuu@
+@at first@|@igáyii@
+@at first sight@|@igáyi agowadádi@
+@at hand@|@asganigodá@
+@at last session@|@oni dunilawitsá@
+@at length@|@niganáhisá@
+@at once@|@nulisdái@
+@at our expense@|@tsogaligáwalanehi@
+@at owner's risk@|@utseli ududali@
+@at present day@|@gohi igohi@
+@at present moment@|@nakuu@
+@at present session@|@gohi danilawiá@
+@at request of@|@utayoselá@
+@at same time@|@nahiyui@
+@at some time@|@iyukuu nigalistaná@
+@at that time@|@nahiyui@
+@at this time@|@nakwu gesá@
+@at which time@|@nahiyui@
+@at your convenience@|@tsatlanádadehá@
+@ate@|@ugági@
+@athirst@|@utadegisgá@
+@athletic@|@dinelohásgi@
+@athletics@|@dinanelohásgi@
+@Atlantic Ocean@|@Kalágá Amekuo@
+@atmosphere@|@ganolesgá@
+@attach@|@atloyasdodi@
+@attached@|@atloyastaná@
+@attaching@|@adaniyáehá@
+@attachment@|@diganiyádodi@
+@attack@|@digatilásdi@
+@attain@|@nigatsidohá@
+@attempt@|@aneládodi@
+@attempted@|@aneladáná@
+@attempting@|@anelodisgi@
+@attend@|@anedo@
+@attendance@|@anedohái@
+@attended@|@unedolá@
+@attending@|@anedohá@
+@attention@|@agasesdodi@
+@attitude@|@nusdá odanádá@
+@attorney@|@ditiyohihi@
+@attorneys@|@dinatiyohihi@
+@attraction@|@agasesdodi@
+@attractive@|@ulilohi@
+@auburn@|@dalonige iyusdi@
+@auction@|@ayeti aninadegá@
+@audience@|@unadádasdi@
+@auditor@|@osdá idigáne goweli@
+@auditorium@|@utaná kanásulá@
+@August@|@Galoni@
+@aunt@|@elogi@
+@author@|@goweli gowelisgi@
+@authorities@|@dunalasidá@
+@authority@|@dalasidá@
+@authorize@|@adanetsedi@
+@authorized@|@atsinetselá@
+@authors@|@goweli dinowelisgi@
+@auto@|@odamokuili@
+@auto dealer@|@dowalela diganadega@
+@auto repair@|@dowaleli osda idigánehi@
+@auto supply@|@dowalela digánatanidisdi@
+@autocrat@|@ulisgoliya@
+@automatic@|@uwasá anagisgi@
+@automobile@|@odamokuili@
+@Autumn@|@Ulagohásdi@
+@avail@|@hedohesdi@
+@availability@|@yeli, yeli gáwadáti@
+@available@|@yeli awadádi@
+@avenge@|@atleasdiyi@
+@avenue@|@galanádá@
+@average@|@igatiha igánelá@
+@aviator@|@gonohilidohi@
+@avoid@|@didanádisdodi@
+@avoided@|@dudanádistaná@
+@await@|@agatisdi@
+@awaiting@|@agatiyá@
+@awake@|@uyetsági@
+@aware@|@gayatohásdi@
+@away@|@utsatina@
+@awful@|@ulosástaná@
+@awhile@|@natlegákue@
+@awkward@|@utsosdanehi@
+@ax@|@galuyasdi@
+@axis@|@gedásdái@
+@babble@|@utsati gawonisgi@
+@babies@|@tsunasdii@
+@baby@|@usdi@
+@bachelor@|@asgaya udali nigesána@
+@back@|@gasohi@
+@backbite@|@usoná aduhisdodi@
+@backbone@|@gatesge@
+@background@|@onaditlá@
+@backslide@|@uyuláhásgi@
+@backward@|@asinegi@
+@bacon@|@hawiya ukayosá@
+@bad@|@uyoi@
+@badly@|@ulosásdi uyo@
+@bag@|@ganádái@
+@bags@|@deganodái@
+@bail@|@agugisdodi@
+@bail bond@|@taline adádodi@
+@bailiff@|@tsunadayilidasdi agatiya@
+@bait@|@asudi gadodi@
+@bake@|@digadudi@
+@baking@|@daniduhásgá@
+@balance@|@utiyáhi@
+@balanced@|@nutiyána@
+@balances@|@natiyasgána@
+@bald@|@usdiyeláha@
+@bale@|@gakuenáhi@
+@ball@|@alasgalodi@
+@balloon@|@alisaladisgi@
+@ballot@|@kanetsái@
+@ballot box@|@anenegá digaládi@
+@ballroom@|@sádoni@
+@banana@|@kuanena@
+@band@|@dinitseluhisgi@
+@bandana@|@unátsati ayatlo@
+@bandit@|@didanasáhásgi@
+@banish@|@atsinugowasdi ayeli@
+@bank@|@adela tsunidi@
+@bank draft@|@adelá disehisdi@
+@bankable@|@adelá digisdodi@
+@banker@|@adeládidi uwotsáhi@
+@bankruptcy@|@diliskualasdiyi@
+@banks@|@adeli didiyi@
+@banquet@|@usá danalisdayáhásga@
+@bantam@|@tsunasdi tsataga@
+@baptist@|@didawosgi@
+@baptize@|@didawosdi@
+@barbaric@|@unadanátisaná nigesána@
+@barbecue@|@danisánadásgá@
+@barber@|@didasdoyesgi@
+@bare@|@uyeláha@
+@bareback@|@nigayahulána@
+@barefaced@|@nudutlaána@
+@barefoot@|@nidulasulána@
+@bareheaded@|@nuliskwetugána@
+@barely@|@usegatsáhi@
+@bargain@|@gayoli tsugáwalodi@
+@bark@|@uyalá@
+@barn@|@sokuili uniyásdi@
+@barrack@|@aniyawisgi dunilatsodá@
+@barrel@|@sádoni@
+@barrels@|@tsusádoni@
+@barren@|@osdáhi@
+@base@|@alenádidsá@
+@baseball@|@alasgalodi@
+@based@|@dulasitanàgi@
+@basement@|@hawini@
+@bases@|@diladi@
+@bashful@|@udehosati@
+@basin@|@atlisdodi@
+@basis@|@alenádodi@
+@basket@|@talutsa@
+@basketball@|@talutsa alasgalodi@
+@bass@|@utaná kanogisdi@
+@baste@|@iyá iyudali gayewasdi@
+@basting@|@gayewasgá iyá iyudali@
+@bat@|@tlameha@
+@bath@|@adawosgá@
+@bathing@|@anadawosgái@
+@battery@|@adalánasdi@
+@battle@|@danatlihá@
+@bawl@|@uwelugá@
+@bay@|@ádali@
+@be careful@|@heyatahesdi@
+@be good enough@|@hosi gesesdi@
+@be it remembered@|@anádadisdiyi@
+@be kind enough@|@tsadanátiyesdi@
+@be known@|@etsolagesdi@
+@be sure@|@tsohiyusái@
+@beach@|@amayuladi@
+@bead@|@adelá diyatlodi@
+@beam@|@ganáhida ganaladisdi@
+@bean@|@tuya@
+@bear@|@alisokaládi@
+@bear; grizzly@|@yoná@
+@beard@|@ahanulásá@
+@bearded@|@ahauláhi@
+@bearer@|@ayidohi@
+@bearing@|@analisokwilásgá@
+@bears@|@hilásgi yoná@
+@beast@|@nági diganásadi@
+@beat@|@adatlohisdi@
+@beaten@|@atsitlosá@
+@beating@|@adatlosgá@
+@beau@|@ulilohi@
+@beautiful@|@uwoduhi@
+@beautifully@|@uwoduhiyu@
+@beauty@|@uwodu@
+@beauty salon@|@dinadadodusdisgi@
+@beaver@|@doya@
+@became@|@adanetliyásdi@
+@because@|@igánisisgi@
+@become@|@didolagi@
+@becoming@|@dinadolagi@
+@bed@|@ganitli@
+@bed clothes@|@ganitlá dihnawosdi@
+@bedbug@|@galuyasdi@
+@bedrock@|@náyohi@
+@bedroom@|@asásdi kanusulá@
+@bedstead@|@ganidladisdi@
+@bee@|@wadulisi@
+@beef@|@waga galitsataná@
+@beef jerky@|@waga hawiya akayotaná@
+@been@|@wuwedola@
+@beer@|@awogilásgi@
+@beet@|@gigagegaladisgi@
+@before@|@udalulá@
+@before and after@|@igáyi ale oni@
+@befriend@|@adaliidedi@
+@beg@|@aduladisdi@
+@began@|@ulenáhá@
+@beggar@|@aduladisgi@
+@begged@|@uduladági@
+@begging@|@aduladisgá@
+@begin@|@alenádi@
+@beginning@|@adalenisgá@
+@begins@|@alenisgá@
+@begun@|@ulenáhá@
+@behalf@|@nasgi ulisdeládodi@
+@behave@|@alasinahisdodi@
+@behaviour@|@nadánehái@
+@behind@|@oniditlá@
+@behold@|@higowadá@
+@being@|@alenidohá@
+@being first duly sworn@|@agáyi uselitaná@
+@belief@|@uwohiyusá@
+@believe@|@uwohiyu@
+@believed@|@uwohiyuná@
+@believes@|@uwohiyuha@
+@believing@|@gohuyuhásga@
+@bell@|@uhaláni@
+@bellows@|@ditsotasdodi@
+@belly@|@uskuoli@
+@belong@|@adatsaládi@
+@belonged@|@udotsaláná@
+@belonging@|@unadotsali@
+@belongs@|@udotsali@
+@beloved@|@adageyudi@
+@below@|@eladitlá@
+@belt@|@adatlosdi@
+@bench@|@ganáhidi gasgilo@
+@bend@|@adisadadisdi@
+@beneath@|@hawinaditlá@
+@beneficial@|@alisdeládodi@
+@benefit@|@ulisdeládodi@
+@benefits@|@uhalisdeládodi@
+@bent@|@utsaskuidi@
+@bequeath@|@adadanelanediyi@
+@berry@|@udatanáhi@
+@berth@|@asásdi@
+@beseech@|@adatayosehá@
+@beside@|@nasgi nigesána@
+@besides@|@nasgi nidigesána@
+@best@|@ohisdi@
+@best attention@|@osdá agasesdodi@
+@bestow@|@diyohisedi@
+@bet@|@digáwalodi@
+@betray@|@adalonuhedi@
+@betrayal@|@adalonuhesgi@
+@better@|@utli iyosdá@
+@better judgment@|@odage digugododi@
+@bettor@|@digáwalosgá@
+@between@|@ayeli@
+@beyond@|@udiditlá@
+@bias@|@utleyàsdi@
+@bible@|@tsuhageda goweli@
+@bids@|@galàlodige kaneisdi@
+@big@|@ekua@
+@bigany@|@adayonedi@
+@bigger@|@utanidi@
+@biggest@|@wutanà@
+@bighorn sheep@|@ekuatsuligi unodena@
+@bile@|@daloni@
+@bill@|@asehihi iga adatugá@
+@billed@|@asehihi iga adatuná@
+@billiard@|@digadayosdi@
+@billing@|@asehihi iga dadatuná@
+@bills@|@asehihi iga dadatugá@
+@bind@|@galásgá@
+@binder@|@digaláihi@
+@biographer@|@gowelisgi nusdá unalenidolá, gowelisgi nusdá unalenidolá@
+@bird@|@tsiskua@
+@Bird Clan@|@Anitsiskua@
+@birds@|@hilásgi tsiskwa@
+@birth@|@udená@
+@birthday@|@udetiyisgá@
+@birthmark@|@udowelá@
+@birthplace@|@nahna udená@
+@biscuit@|@unitsalesdi gadu@
+@bison@|@yanasa@
+@bit@|@usgalotsá@
+@bitter@|@uyásdi@
+@biweekly@|@tali iyunadadakuasdi@
+@black@|@gáhnage@
+@blackberry@|@kanugalá@
+@blackbird@|@tsiskuilisda@
+@blackboard@|@digowelodi@
+@blackjack@|@nodu@
+@blacksmith@|@gotlánáásgi@
+@blacksnake@|@galegi@
+@blame@|@adaduhisdodi@
+@blank@|@akalisisodi@
+@blanket@|@unegáha@
+@blanks@|@dikalisisodi@
+@blaze@|@dulásadá@
+@bleach@|@unegá igánedi@
+@bleed@|@atasgisgá@
+@bless@|@adadolisdi@
+@blessed@|@ádadilákuotaná@
+@blessing@|@adadoligi@
+@blessing of Yahweh (God)@|@Unelanáhi udadolisdi@
+@blew@|@utsotahá@
+@blind@|@digewi@
+@blinder@|@alisihásdisgi@
+@blindfold@|@digatutládi@
+@blink@|@adagatasdanehá@
+@blinker@|@adagatasdanehi@
+@blizzard@|@uyátla ganolásgá@
+@bloat@|@uwotidá@
+@block@|@skala askualidá@
+@blockade@|@asduhái@
+@blocks@|@skuala diskualidá@
+@blonde@|@usgolá wodige@
+@blood@|@gigá@
+@blooded@|@gigáha@
+@bloom@|@utsilásá@
+@blooming@|@atsilásgá@
+@blossom@|@atsilásgá@
+@blouse@|@anuwo@
+@blow@|@adadánasdi@
+@blower@|@atsotasgi@
+@blowing@|@atsotasgá@
+@blown@|@unolátaná@
+@blue@|@sakonige@
+@Blue Clan@|@Anisakonige@
+@bluebird@|@tsakuolade@
+@bluff@|@adanayesdodi@
+@bluing@|@sakonige idigánadodi@
+@blunt@|@gosdiyuli@
+@blush@|@adehohisdi@
+@boar@|@sikwa tsukanásdena@
+@board@|@sádaluga@
+@Board of Education@|@Dinadeyohásgi Dinikahásgi@
+@Board of Health@|@Áyugi Unagasesdi@
+@Board of Management@|@Unagasasdidegi@
+@boarder@|@atsiskuanigodi@
+@boarding@|@atsiskuanigodá@
+@boards@|@disádaluga@
+@boast@|@atlákuisdi@
+@boastful@|@utsákuisadi@
+@boat@|@tsiyu@
+@boats@|@hilásgi tsiyu@
+@bob@|@kuakua@
+@bobtail@|@niganidadána@
+@bodies@|@diniyelá@
+@body@|@ayelá@
+@bodyguard@|@anigatiya@
+@bog@|@tlawotui@
+@bogus@|@galonuhedá@
+@boil@|@tuyasdi@
+@boiler@|@alitládodi@
+@boiling@|@altlásgi@
+@boiosterous@|@gasgasdagi@
+@bold@|@niganayesgána@
+@boldness@|@niganayesgána@
+@Bolshevik@|@nunanelána@
+@bolster@|@alisaladodi@
+@bolt@|@gahadadodi@
+@bolts@|@digahadadodi@
+@bomb@|@dilisdayohihi@
+@bond@|@adudaládo@
+@bondage@|@digetsinatlai@
+@bonded@|@digudalánáhi@
+@bondmaid@|@ageyá atsinatlai@
+@bondman@|@asgaya atsinatlai@
+@bonds@|@didulado@
+@bondsman@|@tali udátanáhi@
+@bone@|@gola@
+@bonfire@|@doyi godái@
+@bonnet@|@alisdulo@
+@bonus@|@ditlodi digatisdi@
+@book@|@goweli@
+@booked@|@gowelanáhi@
+@bookkeeping@|@goweli digatisdi@
+@booklet@|@usdi goweli@
+@booklets@|@tsusdi goweli@
+@books@|@digoweli@
+@boot@|@gáwaliyosdi@
+@booth@|@usi kanásulá ayásdi@
+@boots@|@digáwaliyosdi@
+@border@|@atlilodá gágodá@
+@bore@|@atalesdi@
+@bored@|@utalesá@
+@born@|@udená@
+@borrow@|@atolisdi@
+@borrowed@|@utolasá@
+@bosom@|@ganetsi@
+@boss@|@nugáwayusadegi@
+@botch@|@usoná gotlásá@
+@bother@|@udeyatodi@
+@bothered@|@udeyatodisgi@
+@bothersome@|@atsosedisgi@
+@bottle@|@gugu@
+@bottom@|@hawini@
+@bough@|@uwanigalá@
+@bought@|@awasá@
+@boulevard@|@yatena galanádá@
+@bounce@|@udadináda@
+@bound@|@wagadá@
+@boundary@|@asdanáná@
+@bouquet@|@akanesdodi@
+@bow@|@galitsadi@
+@bowel@|@uwolaná@
+@bowl@|@atlisdodi@
+@bowleg@|@digaloskuati@
+@bowstring@|@galitsatládi@
+@box@|@kanesai@
+@boxes@|@dikanesai@
+@boy@|@atsutsa@
+@boycott@|@adadaládodi@
+@boyhood@|@atsutsa gesá@
+@boyish@|@atsutsa iyusdi@
+@boys@|@anitsutsa@
+@brace@|@deganiyádá@
+@bracelet@|@kanogeni igánadodi@
+@brag@|@atlákuisdi@
+@braggadocio@|@utlákuena@
+@braid@|@ukuelug@
+@brain@|@untsida@
+@brains@|@tsuntsida@
+@brake@|@gantlosdi@
+@brakeman@|@digantlohihi@
+@bran@|@ugatanega@
+@branch@|@uwanigalá@
+@branches@|@duwanigalá@
+@brand@|@galeyádá@
+@brandy@|@gigage aditasdi@
+@brass@|@tsayi@
+@brassy@|@tsayiha@
+@brave@|@tsulitsyasdi@
+@bravo@|@osdá ignelá@
+@bray@|@ganiskuawisdi@
+@breach@|@ayosdodi atuyasd@
+@bread@|@gadu@
+@breadth@|@nayadáhái@
+@break@|@askualisdi@
+@breaker@|@ayosdisgi@
+@breakfast@|@sunale alisdayádi@
+@breaking@|@dalikualisgá@
+@breaks@|@tsuli skalida@
+@breast@|@ganetsi@
+@breath@|@kawoladesgá@
+@breathe@|@kawoladedá@
+@breathless@|@nikawoladesgána@
+@breeches@|@disulo@
+@breed@|@aninekuogá@
+@breeding@|@kanekuosgá@
+@breeze@|@ganoláásgá@
+@brethren@|@anadanátli@
+@brew@|@uwogatlá@
+@briar@|@kanugali@
+@bribe@|@adawahisdi galonuhedá@
+@briber@|@adawasgi galonuhedá gádi@
+@brick@|@didádanáhi@
+@bride@|@tsagatsásdisgi ageyá@
+@bridegroom@|@tsagatsásdisgi asgaya@
+@bridge@|@asátsái@
+@bridle@|@tsutanalo@
+@brief@|@skualai@
+@briefly@|@skualahigesdodi@
+@bright@|@tsulásada@
+@brilliant@|@utsisdalugisgi@
+@brine@|@amaha@
+@bring@|@ayohisdi@
+@bring to your attention@|@tsagasadodi netsánelá@
+@bringing@|@ayohihá@
+@brings@|@aniyohiha@
+@brittle@|@wana uyosdi@
+@broad@|@ayatena@
+@broadcast@|@adigaleyasdi@
+@brogan@|@uhagedaalasulo@
+@brogue@|@segi uwonihisdi@
+@broil@|@atsilá gánisdodi@
+@broke@|@tsuliskualidá@
+@broken@|@uyotsáhi@
+@broker@|@didanadanehi@
+@brook@|@udeyasdisdi@
+@broom@|@gánosasdi@
+@brother@|@dinadanátli@
+@brother-in-law@|@analosi@
+@brothers@|@anadanátli@
+@brought@|@ayoláhi@
+@brought to your attention@|@ayolá agasesdodi@
+@browen@|@wodige@
+@bruise@|@unasugisgá@
+@brunet@|@ulisigi dikanodi@
+@brush@|@ganugonádodi@
+@brute@|@unegutsadi@
+@buck@|@tsukanásdena awi@
+@buckeye@|@uskuada@
+@buckle@|@akanesdodi@
+@bud@|@utsiladádi@
+@budget@|@adanelodi@
+@bug@|@tsisgoya@
+@buggy@|@usdi dakwalelu@
+@bugle@|@uyoná@
+@build@|@adanelá anesgádi@
+@builder@|@anesgesgi@
+@building@|@adanelá@
+@buildings@|@dadanelá@
+@built@|@unesgehá@
+@bulk@|@ugodidi@
+@bull@|@wagatsukanásdena@
+@bullet@|@gani@
+@bulletin@|@deganotsalá goweli@
+@bullfrog@|@kanunu@
+@bumper@|@ulosástanáhi@
+@bunch@|@gatlisaná@
+@bundle@|@gakuenáhi@
+@bungalow@|@galitsode@
+@burden@|@alisokwiládi@
+@bureau@|@disehisdi@
+@burglar@|@ganosgisgi@
+@burial@|@didanisodi@
+@buried@|@ganisahá@
+@burn@|@galeyásá@
+@burned@|@uleyásá@
+@burner@|@atsásdadodi@
+@burning@|@galeyásgá@
+@burnt@|@uleyásá@
+@burr@|@unisdiláisdi@
+@burst@|@utsalutida@
+@bury@|@ganisodi@
+@bus@|@yáwi unatsododi@
+@bushel@|@sutlilodá@
+@business@|@digaláwisdanedi@
+@businesses@|@tsuniláwisdanedi@
+@busy@|@tsuskuiya tsuláwisdanehi@
+@but this is a case@|@hianusdidana@
+@but this is not so@|@átla nasgi yinusdi@
+@but this is not the case@|@átla nasgi yinusdidana@
+@butcher@|@hawiya ganedegi@
+@butler@|@asgaya galitsode atsinatlai@
+@butter@|@gotláná@
+@butterfly@|@kamama@
+@buttermilk@|@gotlátaná unádi@
+@button@|@gadodi@
+@buttonhole@|@akanesdi@
+@buttons@|@digatidi@
+@buy@|@awahisdi@
+@buyer@|@uwasgi@
+@buying@|@uniwasgá@
+@buzzard@|@suli@
+@by all means@|@winigatsiihá iga@
+@by and between@|@nahna ayeli@
+@by and by@|@uwagudidisá@
+@by and means@|@nigalasdisgákuu@
+@by early mail@|@igáyi goweli diganidohi@
+@by mail@|@goweli dinidowhi@
+@by next mail@|@soi goweli degalutsá@
+@by return mail@|@nidayutsáda goweli@
+@by same mail@|@nahiyu goweli degalutsá@
+@by telephone@|@tsunalinohedi@
+@by this means@|@hiakuu igánisisisgi@
+@by this time@|@nahiyu tsigesesdi@
+@by wire@|@anagalátanáhi@
+@by your letter@|@goweli ditsanáná@
+@bylaws@|@tsunalasidodi@
+@bystander@|@naá gadogi@
+@cab@|@yáwi unatsododi@
+@cabbage@|@tsukuanádena@
+@cabin@|@adanelá@
+@cabinet@|@disehisdi@
+@cable@|@talugisgi sdeyidá@
+@cache@|@gásgalodi atalesá@
+@cackle@|@tsitaga nigawesgá@
+@cactus@|@uliyesdi@
+@cad@|@eladi ehi@
+@cajole@|@adaniladedi@
+@cake@|@tsuganasti@
+@cakes@|@tsuganasti@
+@calcium@|@gola ditlanigohisdisgi@
+@calculate@|@asesdiyi@
+@calender@|@náda disesdi@
+@calf@|@wagaagina@
+@calico@|@unátsadáutsilá@
+@call@|@uyanádá@
+@call his attention@|@hiyanádadistaná@
+@call upon@|@wiwadáhá@
+@call upon me@|@sgiwadáhilái@
+@call upon them@|@gahigoháha@
+@call upon you@|@gágoáha@
+@called@|@uyanáhá@
+@calling@|@dayanisgá@
+@calls@|@dayani@
+@calm@|@tohinusdá@
+@calvary@|@usahilátsisa agadáná@
+@Calvinism@|@nidagalistani@
+@came@|@ulutsági@
+@camel@|@gemili@
+@camera@|@didatlilosdodi@
+@camp@|@alewisdodi@
+@campaign@|@togiyadá duniláwisdanehá@
+@campground@|@doyaditlá asásdi@
+@campus@|@oni tsunadelokuasdi@
+@can@|@yelikue@
+@can you give@|@yelikuusgo yihága@
+@can you recollect@|@yanádadakuusgo@
+@can you remember@|@hanádadisgo@
+@can you state@|@yiniwisgo@
+@can you think@|@yadanadálisgo@
+@can you think of any@|@yelikuuusgo yanádada@
+@cancel@|@asehisdi@
+@cancellation@|@asehisdiyi@
+@cancelled@|@asesáda@
+@cancelling@|@asesgá@
+@cancer@|@adayesgi@
+@candid@|@nádelásgána@
+@candidate@|@atogiyasgi@
+@candy@|@kalasetsi@
+@cane@|@wadulisi gotládi kalisetsi@
+@canine@|@gitli iyusdi@
+@canned@|@talugisgi galátaná@
+@canning@|@galitanádi@
+@cannon@|@galokue ekua@
+@cannot@|@yeli nigesána@
+@cannot accept@|@átla gidigadanilága@
+@cannot expect@|@tla utugi yakuáha@
+@cannot possibly@|@tla yudalula@
+@cannot say@|@tla gákuadodi yigi@
+@cannot see@|@tla yitsigowati@
+@canoe@|@tsiyu usdi@
+@cans@|@digalitanádi@
+@can't@|@tlayeli@
+@canvas@|@agoliyeidasdi@
+@cap@|@alisdulo@
+@capable@|@yelikue igánedi@
+@capacity@|@igai utlanádá igánedi@
+@capital@|@ayeli digalawiisdi@
+@capitol@|@ayeli tsunilawisdi adanelá@
+@capon@|@tsitaga ganalidá@
+@captain@|@didatinidohi@
+@caption@|@askuadádá@
+@captive@|@atsiyágiyá@
+@capture@|@atsiniyisgá@
+@car@|@atsododi@
+@car load@|@dowalaela anikali@
+@carbon@|@ugata nádayudalená wodige@
+@carcass@|@uliwotsáhi@
+@card@|@akuaniyosdi@
+@care@|@agasesdodi@
+@cared@|@agasestaná@
+@career@|@ndánelidolá@
+@career services@|@digaláwisdanedi etseyodi@
+@careful@|@geyatahi@
+@careful attention@|@osdá adádasdodi@
+@careless@|@nigeyatahána@
+@cares@|@unagasesdi@
+@carload@|@kali galodá@
+@carnival@|@anadánelisgá@
+@carnivore@|@hanáyá anigisgi@
+@carnivores@|@hanáyu anigisgi@
+@carpenter@|@dinesgesgi@
+@carpet@|@yateno ayesdádi@
+@carriage@|@usdi dakwalelu@
+@carried@|@awidáda@
+@carrier@|@awidisgi@
+@carries@|@awidi@
+@carry@|@awidádi@
+@carrying@|@awidisgá@
+@cars@|@ditsododi@
+@cartridge@|@tsayi@
+@case@|@galádá kanesai@
+@case of this kind@|@nasgi iyusdi@
+@cases@|@degaládá kanesai@
+@cash@|@adelá@
+@cashed@|@adelá nuwanelá@
+@cashier@|@adelá digatiya@
+@casino@|@tsunikuaniyosdi@
+@casket@|@kanesa uyohusá galáododi@
+@cast@|@wadinádi@
+@cat@|@wesa@
+@catalogue@|@gohusdi adanásdodi@
+@catch@|@ganiyádi@
+@caterer@|@unadasdayená aniyohihi@
+@caterpillar@|@skuisdi dinalasgásgi@
+@catfish@|@tsulisdanali@
+@catholic@|@atsilá anelohi@
+@cattle@|@waga@
+@caught@|@ganiyádá@
+@cause@|@nigánisisgá@
+@caused@|@igánisanáhi@
+@causes@|@nidegánisisgá@
+@caution@|@adadayedodi@
+@cautiousness@|@agasesdodi@
+@cavern@|@usdagalá@
+@cavy (guinea pig)@|@tsisdetsi iyusdi@
+@cease@|@asulagoisdi@
+@ceased@|@usulagotsá@
+@cedar@|@atsina@
+@ceiling@|@galáladitlá kanásulá@
+@celbrate@|@unadetiyisgá@
+@celebrated@|@unadediyáhá@
+@cellar@|@osi@
+@celsius@|@uditlegá ale uyátlá atilosgi, uditlegá ale uyátlá atlilosgi@
+@cement@|@náya ayesdaá@
+@census@|@gegasesdá@
+@cent@|@iyadanátedi@
+@center@|@ayeli, unotlásái@
+@centimetre@|@usdi atliloda@
+@centipede@|@tsuganotsa@
+@central@|@ayeli@
+@century@|@skohitsukui tsudetiyádi@
+@certain@|@udohiyu@
+@certainly@|@udohiyuhiya@
+@certificate@|@gánigesá igánehi@
+@certificate of deposit@|@gánigesá igáne adelá daligenáy@
+@certified@|@gánigesá igáneláhi@
+@certify@|@gohiyudodi@
+@chain@|@unadadesáda@
+@chair@|@gasgilo@
+@chairman@|@tsudatihnai@
+@chairs@|@digasgilo@
+@chamber@|@uniyásdi@
+@chance@|@utlanádadehá@
+@chances@|@datlanádadisgá@
+@change@|@tsunasdi@
+@change (coins)@|@adela wunatiyái@
+@changed@|@ganetliyáda@
+@changes@|@diganetliyásdi@
+@changing@|@ganetliyásgá@
+@channel@|@ulohisdi@
+@chapel@|@alitsadodi@
+@chapter@|@ayatolá@
+@character@|@agadanátedi@
+@characteristic@|@gegadanátedi@
+@charge@|@dagáwalodi@
+@charged@|@diguwálotaná@
+@charges@|@diguwálodisgi@
+@charging@|@daguwálodisgá, daguwálodisgá@
+@charity@|@adasdeládi@
+@charm@|@osdá adanádada@
+@charming@|@osdá anadanádadisgá@
+@charter@|@adalisgoládanehi@
+@chastise@|@adasdádisdodi@
+@chat@|@alinohedi@
+@cheap@|@usdi tsugáwalodi@
+@cheaper@|@usdiagesdodi tsugáwatlidi@
+@cheat@|@golonuhedi@
+@check@|@adelá disehisdi@
+@checked@|@ádadiseláhi@
+@checking@|@degotlásgá disehisdi@
+@checks@|@hilásgi adelá disehisdi@
+@cheek@|@agakwali@
+@cheer@|@adagalisdodi@
+@cheerful@|@uligalisdodi@
+@cheese@|@unádi gaduná@
+@chemistry@|@asuyedi tsudaleháda náwoti@
+@Cherokee Heritage Center@|@Anitsalagi Tsunadalená@
+@cherry@|@gitaya@
+@chest@|@ganetsi@
+@chestnut@|@unagina@
+@chicken@|@tsitaga@
+@chickens@|@hilásgi tsataga@
+@chief@|@ugáwiyuhi@
+@chief clerk@|@nugáwiyusá digowelisgi@
+@chief engineer@|@nugáwiyusá atliloidohi@
+@chiefly@|@wunigáwiyusá@
+@child@|@ayoli@
+@child care@|@diniyotli tsunagasesdodi@
+@childish@|@ayoli iyusdi@
+@children@|@diniyoli@
+@children's@|@diniyoli unatseliga@
+@chilly@|@unesayátli@
+@chimney@|@ahátsawoladá@
+@chin@|@anihayugeni@
+@chip@|@ukuataláda@
+@chiropractor@|@gatesge digatsinohisdisgi@
+@chocolate@|@wodigekalitsetsi@
+@choice@|@asuyedá@
+@choir@|@dininogisgi@
+@choose@|@asuyesdi@
+@chop@|@galuyidasdi@
+@chopper@|@galuyidohi@
+@chose@|@usuyesá@
+@chosen@|@asuyedá@
+@Christ@|@Galonedá@
+@Christian@|@Tsunaneládi@
+@Christmas@|@Danisdayohihá@
+@chubby@|@skualai@
+@church@|@digalawisdi@
+@churches@|@tsunilawisdi@
+@cider@|@tsunatsoyasdi@
+@cigar@|@gogasdi@
+@cigarette@|@digogisti@
+@cigarettes@|@digogisti@
+@circle@|@gasokualá@
+@Circuit Court@|@adeyohi digugododi@
+@circular@|@gáwatuwidá@
+@circular letter@|@diganotsalásgi@
+@circulars@|@digáwatuwidá@
+@circulation@|@danadigaleyásgá@
+@circumstance@|@nusdidaná@
+@circumstances@|@nidusdidaná@
+@circus@|@anadánelisgi@
+@cistern@|@ama utliisdi@
+@cities@|@degaduhá@
+@citizen@|@ehái@
+@citizens@|@anehái@
+@city ordinance@|@gaduhá dikahnawadásdi@
+@civic@|@aneháyáwi gaduhá@
+@civil engineer@|@atliloidohi@
+@civilization@|@adanátisodi@
+@civilized@|@unadanátisaná@
+@claim@|@akuatseli adádi@
+@claimed@|@akuatseli udánági@
+@claims@|@akuatseli anadisgi@
+@clan@|@tsuniyáwi@
+@class@|@itsulaha diniyilegi@
+@classes@|@dunaligosá@
+@classification@|@didalenataná digatisanági@
+@classmate@|@itsulaha diniyilegi@
+@clause@|@sakwe nudatlugá@
+@clay@|@gadakuali@
+@clean@|@udanágaláda@
+@cleaned@|@dunágaláhá@
+@cleaning@|@deganágalisgá@
+@clear@|@tsulásada@
+@cleared@|@tsulásadáhi@
+@clearing@|@degalásadadisgá@
+@clearly@|@yeli tsulásada@
+@clerk@|@adagatidehi@
+@clerks@|@anadagatidehi@
+@clever@|@uolátsadi@
+@client@|@tsagatiyosehi@
+@climate@|@nusdá uyálá ale uganawá@
+@climb@|@galegá@
+@clip@|@ganiyádodi@
+@clipped@|@duniyátaná@
+@clipping@|@digáhaláda@
+@clock@|@watsi@
+@close@|@asdudi@
+@closed@|@usdunági@
+@closely@|@naánigei@
+@closer@|@naánigesdodi@
+@closes@|@dasduhásga@
+@closet@|@dinuwo digadádi@
+@closing@|@asduhásgá@
+@cloth@|@anuwo@
+@clothes@|@tsunanuwo@
+@clothing@|@dinuwo@
+@clothing store@|@dihnawo tsuninadinádi@
+@cloud@|@ulogilá@
+@clouds@|@dulogilá@
+@cloudy@|@ulogili@
+@clown@|@uwotlidi adanelisgi@
+@club@|@unadotláhi unadatlugi@
+@clubs@|@tsunadotláhi tsunadatlugi@
+@coach@|@atsododi@
+@coal@|@tsinosga@
+@coarse@|@unohena@
+@coast@|@amayuládi@
+@coat@|@gasalena@
+@coats@|@digasalena@
+@coax@|@alisdiyedodi@
+@coffee@|@kawi@
+@coffin@|@uyohusá galádodi@
+@cold@|@uyátlá@
+@collar@|@unayatládi@
+@collateral@|@agatidisdodi@
+@collect@|@adanitládi@
+@collected@|@udanitláná@
+@collecting@|@dadanitlisgá@
+@collection@|@udanitlaná@
+@collections@|@tsudanitlaná@
+@college@|@galáladiyá tsunadelokuasdi@
+@colleges@|@digaláladiyá tsunadelokuasdi, digaláladiyá tsunadelokuasdi@
+@colony@|@unadatlugi iyunadali@
+@colour@|@dikanodi@
+@coloured@|@asuwisá@
+@colours@|@tsudalenáda dikanodi@
+@colt@|@sokuili agina@
+@column@|@udanáná@
+@columns@|@dudanáná@
+@comb@|@alitawosdi@
+@combination@|@unadatlisaná@
+@combine@|@gatlisaná@
+@come@|@galutsá@
+@come to conclusion@|@dakuugotanági@
+@come to hand@|@ulugági@
+@comes@|@galuga@
+@comfort@|@nutsosedána@
+@comfortable@|@utsoasedi nigesána@
+@coming@|@dagalutsi@
+@command@|@adanetsedi@
+@commence@|@alenádi@
+@commencement@|@alenádodi@
+@comment@|@kaneisdodi@
+@comments@|@kaneisdiha@
+@commerce@|@ugodidi adananádi@
+@commercial@|@adananádi@
+@commission@|@anikamisini@
+@commissioner@|@kamisini@
+@commit@|@iyadánedi@
+@committed@|@nadánelá@
+@committee@|@akamiti@
+@committees@|@anikamiti@
+@common@|@tsutsatakuu@
+@commonplace@|@nigohilá unedasdi@
+@communicate@|@didadágotaná@
+@communication@|@didágotaná@
+@communications@|@tsunadatágotaná@
+@community@|@naá nunadalá@
+@community services@|@owenáe dinotláhisisgi@
+@companies@|@dunadatlugái@
+@companion@|@analigohásgi@
+@company@|@unadatlugi@
+@comparatively@|@utloyagesdodi@
+@compare@|@utloyi igánedi@
+@compared@|@utloyihai@
+@comparison@|@utloyi nagánehá@
+@compassion@|@udadolitsati@
+@compel@|@ase iyadadánedi@
+@compelled@|@ase iyudánadi@
+@compensation@|@ádadaguyáediyi@
+@competent@|@yeli iyadánehi@
+@competition@|@adagonádodiyi@
+@compiled@|@gatlisanáhi@
+@complain@|@alisganosdi@
+@complaining@|@álisganosgá@
+@complaint@|@adaduhisdodi@
+@complaints@|@didaduhisdodi@
+@complete@|@kaliwohi@
+@completed@|@askuadonáhi@
+@completely@|@akaliwohi@
+@completing@|@askuadisdi@
+@completion@|@askuadoná@
+@compliance@|@asdawadásdi@
+@complied@|@asdawadáda@
+@compliment@|@osda adanohedi@
+@compliments@|@osda didanohedi@
+@comply@|@asdawadásda@
+@complying@|@asdawadegá@
+@compose@|@gowelodi@
+@composition@|@gowelaná agoliyedi@
+@compound@|@asuyeháhi@
+@compromise@|@osdá igánedi@
+@computer@|@agadohásá askuagodisgi@
+@computer mouse@|@asuyesdo asehi@
+@conceive@|@ulunádi@
+@conception@|@dikanodi adanetliyásgá@
+@concern@|@unotlagi@
+@concerns@|@uninotlagi gesá@
+@concert@|@daninogisdisgá@
+@conclude@|@askuadisisodi@
+@concluded@|@askuadá@
+@conclusion@|@askuadisdi@
+@concrete@|@ayesdádi@
+@condemn@|@digatilásdi@
+@condition@|@nusdidaná@
+@condition of things@|@nusdidanái@
+@conduct@|@nadánehá@
+@conducted@|@nadánehági@
+@confer@|@alinohedi@
+@conference@|@danalinohesgái@
+@confidence@|@howa elisdi@
+@confident@|@uwohiyu@
+@confidential@|@udelidá@
+@confine@|@hawinaditlá@
+@confined@|@hawinaditlá igánelá@
+@confirm@|@gagusdádi@
+@confirm wire@|@gohiyutaná@
+@confirmation@|@gagusdádiyi@
+@confirmed@|@gagusdánáhi@
+@confirming@|@gagusdásgá@
+@conform@|@didolagi@
+@confuse@|@atsoasedodi@
+@confused@|@utsoasetaná@
+@confusion@|@utsoasedi@
+@congratulate@|@adalihelisdi@
+@congratulation@|@danadaliheligá@
+@congress@|@watsini dinilawidi@
+@conjure@|@didonadi@
+@connect@|@diligododi@
+@connected@|@diligotaná@
+@connecting@|@danaligodisgá@
+@connection@|@diligotanáhi@
+@connections@|@danaligodisgá@
+@conquer@|@adasegogisdi@
+@conscience@|@adelohohisdi nusdá@
+@conscientious@|@adanátehilosgi@
+@conscious@|@adelohosgi@
+@consent@|@osi ayeládi@
+@consequence@|@nulisdodi@
+@consequences@|@igá wakisdodi, nigalisdisgá@
+@consequently@|@winulasdodi@
+@consider@|@agasesdodi@
+@considerable@|@ugodi@
+@considerable attention@|@ugodidi agasestaná@
+@considerable importance@|@ugodidi ulisgeda@
+@considerably@|@ugodidi@
+@consideration@|@didanetsedi@
+@considered@|@agasestaná@
+@considering@|@agasesdisgá@
+@consign@|@wadiyi@
+@consigned@|@watsinelági@
+@consist@|@utloyasdi@
+@consisted@|@utloyasdági@
+@consistent@|@utloyiha@
+@consisting@|@utloyasdá@
+@consists@|@unatloyasdi@
+@consolation@|@adagalasdodisdi@
+@constant@|@nigohilá@
+@constantly@|@nigohilái@
+@constitutino@|@gagusdádi@
+@constructed@|@anesgeda@
+@construction@|@anesgehá@
+@consult@|@adalinohedi@
+@contact@|@dudaniyásá@
+@contain@|@igai gesá@
+@contained@|@igai gesági@
+@containing@|@igai degesái@
+@contains@|@igai geso@
+@contemplate@|@adanáte@
+@contemplating@|@adanátesgá@
+@contempt@|@ayoasedi@
+@contend@|@atsiediyi@
+@contended@|@utayolági@
+@content@|@osdá udanáti@
+@contents@|@gadái@
+@contest@|@adagonadodi@
+@continent@|@ekua gadohi@
+@contingency@|@aneládodi iyulisdodi@
+@contingent@|@igáwalisdodi@
+@continually@|@nigohilái@
+@continue@|@gáliyilisá@
+@continued@|@uliyiládá@
+@continueing@|@wigáliyilegá@
+@continues@|@wigáliyilegi@
+@continuous@|@wigáliyilisá@
+@contract@|@dadanetselá@
+@contracts@|@dunadanetselá@
+@contradict@|@digatilásdi@
+@contrary@|@alisganesgi@
+@contrast@|@tsudalenai@
+@contribute@|@alisgoládodi@
+@control@|@agetadisdi@
+@controversy@|@didalenáisdi@
+@convenience@|@ahidegei@
+@convenience store@|@ahidigesdi edasdi adananá@
+@convenient@|@ahidige gesá@
+@conveniently@|@ahidigesdodi@
+@conversation@|@danalinohesgá@
+@conversed; we@|@tsinatlanoháli@
+@convey@|@wadanediyi@
+@convict@|@tsudugodanedi@
+@conviction@|@dudugodanelá@
+@convince@|@gohiyudi@
+@convinced@|@uwohiyuná@
+@convincing@|@howa elisdi@
+@cook@|@adasdayáhásgi@
+@cooking@|@anadasdayáhásgá@
+@cool@|@unesayáli@
+@cooperate@|@aligodi@
+@cooperation@|@aligosá@
+@copies@|@hilásgi ditlilostaná@
+@copy@|@ditlilostaná@
+@cord@|@unikuatena asdi@
+@cordial@|@adalihelisdi@
+@cordially@|@adaliheligáhi@
+@corn@|@selu@
+@corner@|@unásiyá@
+@corners@|@dunásiyá@
+@corporation@|@unadotláhi@
+@correct@|@gotláhisodi@
+@corrected@|@gotláhisaná@
+@correction@|@agotláhisisgá, agotláhisisgá@
+@corrections@|@danotláhisisgá@
+@correctly@|@gotláhisanáhi@
+@correspond@|@didadágodi@
+@correspondence@|@danadadágodisgá@
+@correspondent@|@adadágodisgi@
+@corresponding@|@danadadágisgá@
+@corrupt@|@usonái@
+@corset@|@asdaya anywo@
+@cost@|@dagáwalodá@
+@costs@|@dunigáalodá@
+@costume@|@atsanádodi@
+@cot@|@usdi ganitli@
+@cottage@|@galitsode adanelá@
+@cotton@|@utsilá@
+@cough@|@usiwasgá@
+@could@|@yelikue@
+@could be able@|@yelikuu yinulinigága@
+@council@|@dinilawigi@
+@counsel@|@adalinodedodi@
+@counsel for defense@|@didatiyosehi@
+@counselor@|@adalinohedisgi@
+@count@|@disesdi@
+@counted@|@diseláhi@
+@countenance@|@dikanodiyi@
+@counter@|@disehihi@
+@counties@|@disgadugi@
+@counting@|@dásehihi@
+@countries@|@ayeli dunadotláwadisá@
+@country@|@doyiditlá gaduhá@
+@county@|@sgadugi@
+@coupe@|@anitali unatsododi@
+@couple@|@anitali@
+@coupon@|@goweli gánigesá igánehi@
+@courage@|@aligaliyáhi@
+@course@|@widuyugodá@
+@course of business@|@iyadánelidasdi@
+@courses@|@winiduyugodá@
+@court@|@tsunadayilidasdi@
+@court of justice@|@digugododiyi@
+@courteous@|@tsudadanilátsati@
+@courtesies@|@tsunadadanilátsati, tsunadadanilátsati@
+@courtesy@|@didadanilátsati@
+@courts@|@didayilidasdi@
+@cousin@|@gohusdi anadadáni@
+@cousins@|@gohusdi dinadadáni@
+@cover@|@gutládi@
+@covered@|@gutlai@
+@covering@|@gutláásgá@
+@covers@|@digutlai@
+@cow@|@waga@
+@coward@|@usgaena@
+@cowboy@|@waga digehdohi@
+@cowhide@|@waga ganega@
+@coyote@|@wahaya@
+@crabapple@|@tsunasdi ságata@
+@crack@|@utlanádá@
+@crackers@|@gadu unisdagayáhida@
+@cramp@|@diganiyádodi@
+@crank@|@gasadoyasgi@
+@crawfish@|@tsisdána@
+@crawl@|@adanasinásdi@
+@crazy@|@ulánotisgi@
+@cream@|@agadatláda@
+@create@|@gotlánáhi@
+@created@|@gotlánáhi@
+@creatures@|@denelanáhi@
+@credit@|@adatudi@
+@credited@|@adatuná@
+@crediting@|@dadatuásgá@
+@creditors@|@tsunadatugi@
+@credits@|@didatugi@
+@creek@|@usdi uweyá@
+@crepe@|@siligi anuwo@
+@crew@|@unadatlugi@
+@cricket@|@taladu@
+@crime@|@asganátsá@
+@critical@|@udaduhisati@
+@criticism@|@adoduhisdodi@
+@crop@|@tlogesi awisá@
+@crops@|@tlogesi daisá@
+@cross@|@dadahnawasdá@
+@cross examination@|@adadádáheládi@
+@crossing@|@diganadiwisdi@
+@crow@|@ko-ga@
+@crowd@|@unadatlisahá@
+@crowded@|@anikalii@
+@crown@|@alisdulo@
+@cruel@|@uyo iyadadánehi@
+@cry@|@atloyasdi@
+@crying@|@atloyihá@
+@cubbies@|@datalesaná@
+@cultivate@|@gadulugodi@
+@Cultural Resource Centre@|@Unadanelá@
+@culture@|@nusdá anehi@
+@cup@|@agugisdi@
+@cups@|@digugisdi@
+@cure@|@anáwodi@
+@curiosity@|@askuanigohisdi@
+@curious@|@uskuanigodi@
+@current@|@aliyilisá kanohedi@
+@curse@|@asginadisdi@
+@curtain@|@ayadoladádi@
+@curtains@|@diyadoladádi@
+@custom@|@nusdá iyadánedi@
+@customary@|@nusdá iyanadánehi@
+@customer@|@uwasgi@
+@customers@|@uniwasgi@
+@customs@|@nusdá iyunadánedi@
+@cut@|@ayelasdi@
+@cute@|@ulilohi@
+@cuts@|@diyelasdi@
+@cutting@|@dáyelohá@
+@dagatilega@|@objectionstsunigatiledá@
+@daily@|@tsugitsánáda@
+@dairy@|@waga diganegiedi@
+@dairy (products)@|@unádi digotlátaná@
+@damage@|@uyotsáhi@
+@damaged@|@ayostanáhi@
+@damp@|@gadulida@
+@dance@|@alasgida@
+@danced@|@unalasgisá@
+@dances@|@danalasgisgá@
+@dancing@|@analasgisgá@
+@danger@|@ganiyegi@
+@dangerous@|@ganiyegá@
+@dare@|@adaneneuládi@
+@dared@|@udanenalaná@
+@dark@|@ulasigi@
+@darkness@|@ulasigái@
+@darn@|@digádi@
+@darning@|@danásgá@
+@data@|@nahiyu igohi@
+@date@|@iyu igohi@
+@dated@|@gowelá iyu igohi@
+@dates@|@degowelá iyu igohi, degowelá iyu igohi@
+@dating@|@anesehihá igohi@
+@daughter@|@uwetsi ageyá@
+@daughter-in-law@|@agilohi@
+@daughters@|@tsuwetsi anigeyá@
+@Dawes; Henry L.@|@Dosi Dusetlá@
+@dawn@|@ugitsisgá@
+@day@|@iga@
+@day after day@|@tsugitsánáda@
+@day before yesterday@|@talinusáha@
+@day or so@|@usáhi ulosásdi@
+@day or two@|@taliha iga@
+@day or two ago@|@taliha nusáha@
+@daybreak@|@ugitsisgá@
+@days@|@hilásgi iga@
+@daytime@|@iga@
+@Deacon@|@ayatohihi@
+@dead@|@uyohusá@
+@deaf@|@tsuliena@
+@deal@|@didanádanediyi@
+@dealer@|@ganadegi@
+@dealers@|@aninadegi@
+@dealing@|@aninadegá@
+@dealings@|@daninadegá@
+@dear@|@gálákuodi@
+@dearest@|@wudagonadádá gálákuodi@
+@death@|@ayohuhisdi@
+@debate@|@ditliyá digawonihisdi@
+@debit@|@gowelá adatugá@
+@debt@|@adadugi@
+@debtor@|@atsidugi@
+@debts@|@dadadugái@
+@decease@|@ayohuhisdi@
+@deceased@|@uyohusáhi@
+@deceit@|@adalonuhedi@
+@deceitful@|@udalonuhesati@
+@December@|@Ásgiyi@
+@decent@|@ulilohi didolagi@
+@decide@|@digugododi@
+@decided@|@duwugotaná@
+@decidedly@|@digugotisaná@
+@decision@|@tsudugotaná@
+@declaration@|@kanetsá iyadánedi@
+@declare@|@kaneisdi@
+@declared@|@unetsági@
+@decline@|@adayasdi@
+@declined@|@adayilá@
+@decoration@|@danitsiladadisgá@
+@decree@|@degugotaná iyadánedi@
+@deduct@|@gotsalesdi@
+@deducted@|@gotsaleda@
+@deducting@|@gotsaledá, gotsalesgá@
+@deduction@|@gotsaledá@
+@deed@|@gadohi ganiyádo@
+@deeds@|@gadohi diganiyádodi@
+@deem@|@nolisgái@
+@deep@|@asdági@
+@deeply@|@hawiniyu@
+@deer@|@kawi@
+@Deer Clan@|@Anikawi@
+@defeat@|@atsisegogidá@
+@defect@|@kali nigesána@
+@defective@|@galulogi@
+@defend@|@atsisdeli@
+@defendant@|@atsiyilidohi@
+@defense@|@ulisdeládi@
+@defense attorney@|@didatiyosehi@
+@deference@|@diyohisesdi@
+@deficit@|@galulogi@
+@definite@|@nahna iyá@
+@definitely@|@udohiyu@
+@definition@|@wasesdi hahna@
+@defraud@|@adalonuhedi@
+@degree@|@iyuyátlá@
+@degrees@|@igai idigati@
+@delay@|@gohidisdi@
+@delayed@|@uwohidá@
+@delegated@|@getsinásida@
+@delicate@|@wanige@
+@delicious@|@uganasdá@
+@delight@|@kaliwohi alihelisdi@
+@delightful@|@kaliwohi alihelitsáhi@
+@delinquent@|@galulogi@
+@deliver@|@wahidi@
+@delivered@|@wanáhi@
+@deliveries@|@didanedi@
+@delivery@|@adanedi@
+@demand@|@atayosdi@
+@demands@|@ditayosdi@
+@democracy@|@unitsati unadanátedi@
+@demonstration@|@gánigesá nanánehá@
+@dentist@|@didanádesgi@
+@deny@|@adayasdi@
+@depart@|@ahnagisdiyi@
+@department@|@digaláwisdanedi@
+@department store@|@utana adananá@
+@departments@|@tsuniláwisdanedi@
+@departure@|@aneladisdi@
+@depend@|@alisgasdodi@
+@dependability@|@gálisdesdodi@
+@depending@|@álisgasdodisgá@
+@depends@|@alisgasdodi@
+@deposit@|@daskuanigodá@
+@deposited@|@daskuanigotaná@
+@deposits@|@duniskwanigodá@
+@depot@|@tsulewisdodi@
+@depression@|@kanigánaá@
+@derby@|@tsutliáwadi@
+@describe@|@nusdá kanohedi@
+@described@|@nusdá kanohelá@
+@described to the jury@|@duwosisanei anisuli@
+@describing@|@nusdá aninohesgá@
+@description@|@nusdá dikanodi@
+@descriptive@|@nasgi iyusdi@
+@desert@|@inage@
+@deserve@|@ulutsehi@
+@deserved@|@ulutselá@
+@design@|@atselá igánedi@
+@designed@|@aselá idigánedi@
+@desirable@|@nigohilá uduladi@
+@desire@|@uduladi@
+@desired@|@aduláda@
+@desires@|@uduliha@
+@desirous@|@udulisgo@
+@desk@|@digowelodi@
+@despair@|@ududi nigesána@
+@desperate@|@udugi gádi nigesána@
+@destination@|@wugadái@
+@destroy@|@ayosdodi@
+@destroyed@|@ayostaná@
+@destruction@|@uyotsáhi@
+@detach@|@igánadesdi@
+@detail@|@nusdidanái@
+@detailed@|@uselági igánedi@
+@details@|@nidegáhnanái@
+@determine@|@digugododi@
+@determined@|@didigatanidonu@
+@detest@|@ganakuatisdi@
+@detour@|@adeyasdi@
+@deuce@|@tali goweli@
+@Deutsch@|@Adatsi@
+@develop@|@udoluwodi@
+@developed@|@udoluwadáda@
+@developing@|@adoluwatisgá@
+@development@|@dudolawadáhá@
+@developments@|@dunadoluwadáhá@
+@devil@|@tsásgina@
+@devote@|@uwohiyuhi@
+@devoted@|@uwohiyusági@
+@dew@|@huisadá@
+@diagram@|@adadeyohásgi gowelá@
+@dial@|@watsi goyadá@
+@diametre@|@ayeli asdanáná@
+@diamond (shape)@|@anosdaya@
+@diaper@|@unaselodi@
+@dictator@|@kanetsidohi@
+@did@|@nudánelá@
+@did you call@|@hiyanisgo@
+@did you examine@|@tsagoliyeesgo@
+@did you have@|@tsesgoi@
+@did you have any@|@igadasgi tsei@
+@did you have anything@|@gohusdisgo tsei@
+@did you make@|@tsotlánesgo@
+@did you mention@|@tsaneistanesgo@
+@did you not expect@|@udogisgo tsáse@
+@did you receive@|@tsagisesgo@
+@die@|@ayohuhisdi@
+@died@|@uyohusá@
+@differ@|@dudalehnaá@
+@difference@|@tsudalehnai@
+@differences@|@tsunadalehnai@
+@different@|@nudalehnaá@
+@different creditors@|@tsunadatugi@
+@different times@|@hilásgi iyuwagudi@
+@differently@|@tsudalehnaiha@
+@difficult@|@utsosdi@
+@difficulty@|@utsoasedi@
+@dig@|@asgosdi@
+@dignified@|@utlákuodi@
+@dignity@|@atlákuododi@
+@diligence@|@alininehi@
+@diligent@|@alinigánehi@
+@dime@|@sgohi iyadanátedi@
+@dimension@|@niganáhisá@
+@dine@|@alisdayádi@
+@dined@|@unalisdayángi@
+@dining@|@analisdayáhásgá@
+@dinner@|@iga alisdayádi@
+@dinners@|@iga dilisdayádi@
+@dinosaur@|@tiyohali gákua@
+@dip@|@gánigesá igáne@
+@diploma@|@dasguadá goweli@
+@dipper@|@ama agugisdodi@
+@direct@|@adasehedi@
+@direct examination@|@ádadiyoliyedi@
+@direct tax@|@ayeli aguyádi@
+@directed@|@adasehelá@
+@direction@|@iduyugodá@
+@directions@|@winiduyugodá@
+@directly@|@nahna iyá@
+@director@|@anadasehehi@
+@directors@|@anadasehehehi@
+@dirty@|@gadaha@
+@disagreeable@|@nulilosána@
+@disappear@|@adisgalodi@
+@disappoint@|@ulidasdodi@
+@disappointed@|@ulidastanáhi@
+@disappointment@|@ulidastanidasdi@
+@discernment@|@adelahohisdi@
+@discharge@|@didayohisdi@
+@disciple@|@adasdawadidohi@
+@disclose@|@agatudesdi@
+@discomfort@|@utsoasedi@
+@discommodate@|@adatsosedisgi@
+@discontinue@|@asulagoisdi@
+@discontinued@|@asulagotsáhi@
+@discord@|@nidadolagána@
+@discount@|@gotsalesdi@
+@discounts@|@digotsalesdi@
+@discouraged@|@nuligaliyáda@
+@discover@|@goluwadádi@
+@discovered@|@gluwadáda@
+@discretion@|@owasá adanátedi@
+@discuss@|@kanohedi@
+@discussed@|@kanoheláhi@
+@discussing@|@aninohesgá@
+@discussion@|@kanoheládi@
+@disease@|@áyugi@
+@disgrace@|@udehohisdi@
+@disgraced@|@agadeohistaná@
+@disgust@|@osi náyáleásgána@
+@dished@|@ditelido@
+@dishonest@|@niduyugodána@
+@dislike@|@nigalákuodána@
+@dispatch@|@ulisda askwadisdi@
+@display@|@gánigesá igánedi@
+@dispose@|@dayosá@
+@disposed@|@dayosái@
+@disposing@|@doyosági@
+@disposition@|@dunyosgá@
+@dispute@|@adisásdi@
+@distance@|@nahna iyái@
+@distant@|@nahna iyá@
+@distinct@|@utselidá@
+@distinct understanding@|@osdá didadolatsedi@
+@distinction@|@unatselidá@
+@distinctly@|@didologi@
+@distinctly remember@|@osdá ganádadia@
+@distinctly understood@|@osdá golatsáhi@
+@distinguished@|@atsilákuodi@
+@distribute@|@adigaleyasdi@
+@distributed@|@adigaleyá@
+@distribution@|@didigaleyá@
+@district@|@sgadugi@
+@District Attorney@|@ayeli asdelisgi@
+@districts@|@disgadugi@
+@disturb@|@adadeyadodi@
+@ditch@|@gelisgaláhá@
+@dive@|@diligáyasdi@
+@divide@|@ayatasdi@
+@divided@|@uniyatolá@
+@dividend@|@ayatolá@
+@divine@|@wagaláladiyá@
+@division@|@ayedi iyudadá@
+@divorce@|@digalenádi@
+@do@|@hnadága@
+@do you intend@|@tsadánáisdisgo@
+@do you know@|@tsanátasgo@
+@do you know whether@|@tsanátasgo nasgi yigi@
+@do you mean to say@|@hiasgo hidoga niwesgá@
+@do you remember@|@hanádadiasgo@
+@do you state@|@hineisdisgo@
+@doctor@|@ganagati@
+@doctors@|@aniganagati@
+@document@|@goweligánigesá igánehi@
+@documents@|@goweligánigesá idigánehi@
+@dodge@|@didanádisdodi@
+@does@|@nadáne@
+@does not allow@|@átla yalisgoládi@
+@does not suggest@|@átla yikaneisdi@
+@dog@|@gitli@
+@dogs@|@anigitli@
+@doing@|@nanadánehá@
+@doll@|@anelodi@
+@dollar@|@unosda@
+@dollars@|@uninosda@
+@domestic@|@nusdá uwenásá@
+@domicile@|@aganelái@
+@dominate@|@agedadisdi@
+@donate@|@alisgoládodi@
+@done@|@askuadáhi@
+@donkey@|@digaliyanáhidá@
+@don't you know@|@tlasgo yitsanáta@
+@don't you remember@|@tlasgo yanátadia@
+@don't you think@|@tlasgo yelia@
+@doom@|@dudogodanelá@
+@doomsday@|@tsudugododi iga@
+@door@|@asdudi@
+@doors@|@disdudi@
+@doorway@|@galohisdi@
+@dormant@|@tonusdá@
+@dormitory@|@disásdi@
+@dose@|@igai agihisdi@
+@dotage@|@ugiyálatsáhi@
+@double@|@tali iyuwaguti@
+@doubt@|@utlasidá@
+@doubtful@|@utlasidáhi@
+@doubtless@|@átla yutlasidá@
+@doubts@|@tsutláwida@
+@down@|@eladi@
+@downstairs@|@eladi atlosásdi@
+@doze@|@galádiyi@
+@dozen@|@taladu@
+@duck@|@kawonu@
+@duckling@|@kawonu anidá@
+@due@|@uskualáhá@
+@duel@|@ahnatlihá anigatahá@
+@dues@|@duskualáhá@
+@dull@|@gosdiyuli@
+@duly@|@nahiyui@
+@dumb@|@golagi nigesána@
+@duplicate@|@ditlilostaná@
+@durable@|@didolagi@
+@during@|@nahiyugesá@
+@dust@|@gosduha@
+@duties@|@iyudánedi@
+@duty@|@iyadánedi@
+@dwell@|@ganelá@
+@dying@|@ayohusgá@
+@each@|@anisiyáwiha@
+@eager@|@uduladi iyadánedi@
+@eagle@|@wohali@
+@ear@|@galeni@
+@earlier@|@igáyigesdodi@
+@earliest@|@igáyiditlásdi@
+@earliest convenience@|@igáyi adlanádadisgá@
+@early@|@igáyi@
+@early attention@|@igáyi agasestaná@
+@early informed@|@igáyi adáganá@
+@early reply@|@igáyi gawohiliyáda@
+@earn@|@adatlohisdi@
+@earned@|@udatlosái@
+@earnest@|@osdá degugodá@
+@earnestly@|@osdá digugotaná@
+@ears@|@digaleni@
+@earth@|@elohi@
+@ease@|@wanai@
+@easier@|@ahidige@
+@easily@|@ahidigei@
+@East@|@Kalágá@
+@Easter@|@Tsisa delehisaná@
+@eastern@|@kalágáiditlá@
+@easy@|@wanahigesdodi@
+@eat@|@agisdi@
+@eatable@|@gágisdi@
+@eating@|@alisdayáhásgá@
+@eats@|@unigisdi@
+@echo@|@unoyágá nidayutsáda@
+@economic@|@alasinádodi@
+@economical@|@alasinahisdi@
+@economics@|@analisinahisdisgi@
+@economy@|@alisinádodi@
+@Eden@|@Idani@
+@edge@|@asdái@
+@edition@|@gatlisaná galeyátaná@
+@editor@|@digaleyádisgi@
+@educate@|@didelokuasdi@
+@education@|@didelokuasdi@
+@educational@|@tsunadelokuasdi@
+@educator@|@dideyohásgi@
+@eel@|@tládega@
+@effect@|@iyulisdodi@
+@effective@|@iyulisdodiyi@
+@effects@|@nulistaná@
+@efficiency@|@asinasani@
+@efficient@|@asinasdá@
+@effort@|@aneládodi@
+@efforts@|@danelátaná@
+@egg@|@uwetsi@
+@eggs@|@tsuwetsi@
+@egotist@|@utlákuisati@
+@eight@|@tsune-la@
+@eighteen@|@neladu@
+@eighteenth@|@neladusine@
+@eightieth@|@nelasgohikue@
+@eighty@|@nelasgohi@
+@eject@|@adanugowisdi@
+@elaborate@|@aháyolida@
+@elastic@|@didanesgi@
+@elation@|@alihelisdi@
+@elbow@|@agiyusgeni@
+@elderly@|@udásonáhi@
+@eldest@|@udanilage@
+@elect@|@asuyesdi@
+@elected@|@tsudagiyáhá@
+@election@|@didogiyasdi@
+@electioneer@|@adogiyadá tsuláwisdanehi@
+@elective@|@didagiyasdi@
+@elector@|@aninegi@
+@electric@|@anagalisgi@
+@electrical@|@gádodi anagalisgi@
+@electrician@|@anagalisgi tsuláwisdanehi@
+@elegant@|@ulilohi@
+@element@|@sudalegi@
+@elementary@|@sudalegi nidayudalená@
+@elements@|@itsudalegi@
+@elephant@|@kamama@
+@elevate@|@alisaladisgi@
+@elevator@|@adasaladisgi@
+@eleven@|@sadu@
+@eleventh@|@sadusine@
+@eligible@|@yeli igati@
+@eliminate@|@gotsalesdiyi@
+@elk@|@awi ekua@
+@Ellenika@|@Agoi@
+@elm@|@dawatsilá@
+@elocution@|@osdá gawonihisdi@
+@elope@|@alatisdi@
+@else@|@ale nasgi@
+@elsewhere@|@ale nanahiyá@
+@emancipate@|@didayohisdi@
+@embarrass@|@adadehohisdodi@
+@embezzle@|@adatsewedi@
+@emblem@|@unikanesdodi@
+@embody@|@udotlá gágotádi@
+@embrace@|@didaniyádi@
+@emend@|@gotláhisodi@
+@emergency@|@uisda igalisdisgi@
+@emigrant@|@unilutsá@
+@emigrate@|@unanigisdi@
+@eminent@|@getsilákuodi@
+@emotion@|@adatelásgá@
+@emotional@|@alitseláhesgi@
+@employ@|@adanatládi@
+@employed@|@atsinatlai@
+@employee@|@getsinatlai@
+@employees@|@digetsinatilai@
+@employer@|@udanatlai@
+@employment@|@digetsinatládi@
+@employment agency@|@digaláwisdanedi anadawadáe@
+@empty@|@usiwa@
+@enable@|@yeli iyulisdodi@
+@enabled@|@yeli iyulistaná@
+@enact@|@iyadánedi@
+@enclose@|@atloyasdá@
+@enclosed@|@atloyastaná@
+@enclosing@|@átloyasdisgá@
+@enclosure@|@asoyái@
+@encounter@|@ditlohisdi@
+@encourage@|@adagalasdadisdi@
+@encouraged@|@udagalasdadá@
+@encouragement@|@adagalasdasdi@
+@encouraging@|@adagalasdadisdá@
+@encumber@|@gudaládi@
+@encumbrance@|@gudalá@
+@end@|@ulisdá@
+@end of the line@|@asdá asdanáná@
+@endanger@|@ganayegá@
+@endeavour@|@alinigánedi@
+@endeavoured@|@alinigánelá@
+@endeavouring@|@analinigánehá@
+@ended@|@ulisdiná@
+@ending@|@aliskuadisgá@
+@endless@|@naliskwadisgána@
+@endorse@|@asdayidisdi@
+@endow@|@adahiyedi@
+@ends@|@dulisdá@
+@endure@|@alisdayádi@
+@enemies@|@dinidanuwi@
+@enemy@|@tsosdidanuwi@
+@energy@|@nulinigágá@
+@enforce@|@gasadoyasdi@
+@engage@|@didanetsedi@
+@engaged@|@dunadanetselá@
+@engagement@|@didadolatsediyi@
+@engine@|@atsilá anigisgi@
+@engineer@|@atsilá dihilegi@
+@English@|@Gilisi@
+@enjoin@|@adotsaládi@
+@enjoy@|@alihelisdi@
+@enjoyable@|@ulihelisdi@
+@enjoyed@|@aliheligá@
+@enjoying@|@analiheligá@
+@enjoyment@|@alihelitsidasdi@
+@enlarge@|@atanohisdodi@
+@enlighten@|@adadeyodi@
+@enlist@|@adeladisdi@
+@enlistment@|@anateladisgi@
+@enmity@|@adanakuatisdi@
+@enormous@|@ugodidi@
+@enough@|@yelikuu@
+@enroll@|@gowelodidodoá@
+@enrollment@|@degowelá dunadoá@
+@ensure@|@asdadásdi@
+@enter@|@ayásdi@
+@entered@|@uyálági@
+@entering@|@aniyáhihá@
+@entertain@|@udanáti alinohedi@
+@entertained@|@udanáti unalinohelá@
+@entertaining@|@udanáti danalinohesgá@
+@entertainment@|@udanáti tsunalinohedi@
+@enthusiasm@|@agaliyoisdi, udánástisadi@
+@entice@|@adaniladedi@
+@entire@|@nigadá@
+@entirely@|@yeli nigadá@
+@entitle@|@utloyasdisgi@
+@entitled@|@utloyastaná@
+@entrance@|@ayásdodi@
+@entry@|@ayásdi@
+@envelope@|@goweli asdudi@
+@envelopes@|@goweli disdudi@
+@envious@|@adadáyutsedi@
+@envy@|@adadáyutsehi@
+@epistle@|@goweli gowelaná@
+@epoch@|@nulistanidolá@
+@equal@|@idigadi@
+@equality@|@idigatiha@
+@equalize@|@idigatiha igánedi@
+@equally@|@igatiha@
+@equator@|@elohi ayeli asdanáná@
+@equip@|@adanelodi@
+@equipment@|@gátanidasdi@
+@equipped@|@adanelá@
+@equity@|@udotsalá otseli@
+@era@|@didalenisgá@
+@eradicate@|@ayehisdi@
+@erase@|@ayosdodi@
+@erect@|@anesgadi@
+@erection@|@anesgadá@
+@err@|@udalidasdodi@
+@errand@|@iyadadánedi@
+@error@|@galidasdá@
+@errors@|@digalidastaná@
+@escape@|@didagiyasdi@
+@escaped@|@ulatisá@
+@escheat@|@udalonuhedi@
+@escort@|@udatinásdi@
+@Español@|@Askuani@
+@especially@|@nasgi gesái@
+@esquire@|@asgayegásda@
+@essay@|@kanohesgi@
+@essential@|@ulisgedá@
+@establish@|@gotládi@
+@established@|@gotláná@
+@establishing@|@anotsásgá, anotsásgá@
+@establishment@|@gotlásái@
+@estate@|@tsugáwalodi@
+@esteem@|@galákuodi@
+@esteemed@|@galákuotaná@
+@estimate@|@agasesdodi@
+@estimated@|@agasestaná@
+@estimates@|@agasesdi@
+@estimation@|@agasestanáhi@
+@estray@|@ulenahisdi@
+@eternal@|@igohidá@
+@eternity@|@igohida@
+@ethics@|@tsunikahnawadásdi@
+@etiquette@|@iyadánediyi@
+@eulogize@|@osdá adanohedi@
+@eulogy@|@adalákuodidiyu@
+@evangelism@|@gánadena analitsadonidohi@
+@evasive@|@didanádisdodi@
+@eve@|@sáhiye@
+@even@|@itsulaha@
+@evening@|@sáhiyeyi@
+@evenings@|@disáhiyeyi@
+@event@|@nigalistanidohá@
+@events@|@nidegalistanidohá@
+@eventually@|@wuliyilolá@
+@ever@|@iyukuu@
+@everlasting@|@igohida@
+@every@|@nigaái@
+@everybody@|@naniákuu@
+@everyday@|@tsugitsánáda@
+@everyone@|@nigadá@
+@everything@|@igáwadelegi@
+@everywhere@|@nigánada@
+@evict@|@adanugowisdi@
+@evidence@|@gohiyudo@
+@evident@|@átla yudalula@
+@evidently@|@nudalulána@
+@evil@|@usonái@
+@ewe@|@agisi unodena@
+@exactly@|@kali didolagi@
+@exaggerate@|@galosástaná@
+@exalt@|@adasaladodi@
+@examination@|@atsigoliyedi@
+@examinations@|@getsigoliyesgá@
+@examined@|@agasestaná@
+@example@|@yidatlilostaná@
+@excavate@|@asgosdi@
+@exceed@|@galosástaná@
+@exceedingly@|@galosástanáhi@
+@excellent@|@ulilohásgi@
+@except@|@nasgi uwasá@
+@excepting@|@dágatilegá@
+@exception@|@dagatilegá@
+@exceptional@|@nasgisgini uwasá@
+@exceptionally@|@nasgisgini uwasáhi@
+@exceptions@|@digatiláda@
+@excess@|@ulosásdi@
+@excessive@|@ulosástaná@
+@exchange@|@ganetliyásdi@
+@exchanged@|@ganetliyáda@
+@excited@|@usgasdanelá@
+@excitement@|@udasgasdanediyi@
+@exciting@|@usgasedi@
+@exclusively@|@asdawadásdi iyadánedi@
+@excuse@|@adaligoládanedi@
+@excuses@|@didalisgoládanedi@
+@execute@|@asdawadásdi iyadánedi@
+@executed@|@asdawadáda iyadánedi@
+@executive@|@nugáwiyusadegi@
+@exercise@|@alisinahisdodi@
+@exercises@|@alisinahisdisgá@
+@exhausted@|@udisánági@
+@exhibit@|@gánigesá nigáná@
+@exhibited@|@gánigesá igánelá@
+@exhibition@|@gánigesá nanánehá@
+@exist@|@gánigesá nusdi@
+@existence@|@gánigesá nusdái@
+@existing@|@gánigesá nusdá@
+@exists@|@gánigesá nidusdi@
+@expect@|@utugi gádi@
+@expectation@|@utugi gásá@
+@expectations@|@utugi dunásá@
+@expected@|@utugi uwasá@
+@expecting@|@utugi uwa@
+@expects@|@utugi uwaha@
+@expenditure@|@duligáwalanidolá@
+@expense@|@daligáwalásgá@
+@expenses@|@dunaligáwalanehá@
+@expensive@|@ugodi diligáwalásgi@
+@experience@|@ugatohásá@
+@experienced@|@ugatohásái@
+@experiences@|@unigatohásá@
+@experiment@|@agadádi nusdá@
+@expert@|@asinasdá@
+@expiration@|@aliskuadisgá@
+@expired@|@uliskuadá@
+@explain@|@digosisodi@
+@explained@|@digosisanáhi@
+@explaining@|@danosisisgá@
+@explains@|@degosisi@
+@explanation@|@digosisaná@
+@export@|@wadi doyiditlá@
+@express@|@igawesdi@
+@expressed@|@iyuniwedá@
+@expressing@|@nigawesgá@
+@expression@|@igawedá@
+@expressions@|@iyuniwedá@
+@exquisite@|@uwodu galákuisdi@
+@exteme@|@galosástaná@
+@extend@|@kanekuosdi@
+@extended@|@kanekuodá@
+@extending@|@wikanekuogá@
+@extension@|@kanekuoái@
+@extensive@|@unekuotsáhi@
+@extent@|@wigásdi@
+@extraordinary@|@ulosástaná@
+@extras@|@utselidá@
+@extreme@|@galosástaná@
+@extremely@|@wulosástaná@
+@eye@|@agatoli@
+@eyes@|@digatoli@
+@fable@|@kanohesgi@
+@fabricate@|@galosásdodi@
+@face@|@ukadá@
+@faces@|@dunakadá@
+@facilities@|@gátanidasdi@
+@fact@|@yadána udohiyu@
+@faction@|@dunadatlugá@
+@factor@|@ganotsági nugáwiyusá@
+@factories@|@gohusdi unotládi@
+@factory@|@gohusdi unotládi@
+@facts@|@yidadána udohiyu@
+@faculty@|@dinadeyohásgi@
+@fade@|@asgolágá@
+@fahrenheit@|@uditlegá ale uyátlá atlilosgi, uditlegá ale uyátlá atlilosgi@
+@fail@|@unuláná@
+@failed@|@unulángi@
+@failing@|@unuláhásgá@
+@failure@|@unuláhásgi@
+@fain@|@asuyeda@
+@faint@|@uládelá@
+@fair@|@anadagonadádisgá@
+@fairly@|@yeli osi@
+@faith@|@gohiyudi@
+@faithful@|@uwohiyu@
+@faithfully@|@uwohiyuhi@
+@faithless@|@nuwohiyusána@
+@fake@|@galonuhedá@
+@faker@|@galonuhesgi@
+@fall@|@ulosági@
+@fallen@|@ulosái@
+@falling@|@galosgá@
+@falls@|@galosga@
+@false@|@galonuhedá@
+@falter@|@uyuláhásgi@
+@fame@|@diganotsali@
+@familiar@|@adadolagi@
+@families@|@hilásgi iyadanelá@
+@family@|@sidaneláhi@
+@famine@|@agonula@
+@famous@|@diganotsali@
+@fan@|@atanoyo@
+@fanatic@|@galosásdisgi@
+@fancy@|@galákuodisgá@
+@fang@|@atatisdodi@
+@far@|@iná@
+@farce@|@nuwotládána@
+@fare@|@atsodi tsugáwalodi@
+@farewell@|@gáwagati dágalenisgá@
+@farm@|@galogesái@
+@farm equipment@|@dinilogisgi unátanidasdi@
+@farmer@|@digalogisgi@
+@farmers@|@dinilogisgi@
+@farming@|@dagalogisgá@
+@farms@|@degalogesá@
+@farrow@|@gadaluganá@
+@farseeing@|@ina agawadádi@
+@farsighted@|@ina agohái@
+@farther@|@udiditlá@
+@fascinate@|@adaniladedi@
+@fascinating@|@ulilohásgi@
+@fashion@|@ulilohi igánehi@
+@fast@|@gatsanula@
+@faster@|@gatsanulahige@
+@fat@|@galitsohida@
+@fatal@|@uháyolisdi@
+@fate@|@iyudalisdanedi@
+@father@|@adadoda@
+@fatherhood@|@udadoda@
+@father-in-law@|@udoda ulosiyá@
+@fatherland@|@tsunidoda tsunadená@
+@fatherless@|@udadoda nigesána@
+@fathers@|@unidoda@
+@fatling@|@galitsohida agina@
+@fatness@|@galitsoidá@
+@fatten@|@galitsododi@
+@fatty@|@galitsohidá@
+@fault@|@iyuwanisadá@
+@faultless@|@nigalidastanána@
+@faults@|@iyunáisadá@
+@favour@|@asuyesdi@
+@favourable@|@asuyestaná@
+@favourably@|@asuyedá@
+@favoured@|@asuyestaná@
+@favourite@|@agasuyesdi@
+@favours@|@disuyedá@
+@fawn@|@awi agina@
+@fax machine@|@ditlilostaná anigisdisgi@
+@fear@|@unayehisdi@
+@feared@|@unayesági@
+@fearful@|@unayesati@
+@fearless@|@niganayesgána@
+@fears@|@tsunayehisdi@
+@fearsome@|@unayehisdi nigesána@
+@feast@|@danalisdayáhásgá@
+@feat@|@adagonadádodi@
+@feather@|@ugidali@
+@feature@|@nusdá dikanodi@
+@features@|@nusdá digeganodi@
+@February@|@Kagali@
+@fed@|@geloláhi@
+@Federal@|@Nigánadá Ayeli@
+@Federation@|@Sgadugi Degesadisá@
+@fee@|@udatlosá aguyádi@
+@feeble@|@udanila@
+@feed@|@gelasdodi@
+@feed store@|@ganatla digelisdodi adananá, ganatla digelisdodi adananá@
+@feel@|@asánasdi@
+@feeling@|@asánasdiyi@
+@feelings@|@unasánasdiyi@
+@feels@|@nanelisgái@
+@fees@|@unadatlosáhi@
+@feet@|@tsunalasidena@
+@feign@|@atseládi@
+@fell@|@unátsági@
+@fellow@|@nasgiyáwi@
+@fellows@|@hilásgi yáwi@
+@fellowship@|@unaligohi@
+@felon@|@usganátsá@
+@felony@|@asganátsá@
+@felt@|@usánilá@
+@female@|@ageyá@
+@feminine@|@agisi@
+@fence@|@asoyá@
+@fencing@|@anasoyahá@
+@fender@|@alisdeládodá@
+@ferry@|@digasasdi tsiyuhi@
+@fertile@|@utáhisdi@
+@fertilizer@|@galitsadodi gadohi@
+@festival@|@danalisdayáhásgá@
+@fetch@|@ayohisdi@
+@feud@|@danidawiyá@
+@fever@|@udilehásgi@
+@fever; yellow@|@udilehásgi@
+@feverish@|@udilehásgi@
+@few@|@gayoli@
+@fewer@|@gayolageisdi@
+@fez@|@alasdulo@
+@fiber@|@asdi gotlátaná@
+@fiction@|@adanáteláná gádi gowelanáhi@
+@fidelity@|@gohiyudi@
+@field@|@tlogesi@
+@fields@|@degalogesá@
+@fiend@|@unegutsidá@
+@fierce@|@ganayegi@
+@fiery@|@atsiláha@
+@fifteen@|@sgigadu@
+@fifteenth@|@sgigadusine@
+@fifth@|@hisgine@
+@fiftieth@|@hisgisgohine@
+@fifty@|@hisgisgohi@
+@figeater beetle@|@toga@
+@fight@|@alasdi@
+@fighting@|@danalihá@
+@figure@|@asesdo@
+@figured@|@aseláhi@
+@figures@|@disesdi@
+@figuring@|@danasehihiá@
+@file@|@atlaái@
+@filed@|@utlinági@
+@files@|@datlaái@
+@filing@|@datláásgá@
+@fill@|@kalii@
+@filled@|@akaliláhi@
+@filling@|@akaliihá@
+@filth@|@gadaha@
+@final@|@wuliskuadoná@
+@finally@|@wuliskuadá@
+@finance@|@alisdeládodi adelá gádi@
+@finances@|@adelá digátanidasdi@
+@financial@|@adelá nunasdá@
+@financially@|@igai adelá nunasdá@
+@financier@|@adelá gotlásgi@
+@find@|@awadádi@
+@finder@|@awatisgi@
+@finding@|@áwatisgá@
+@finds@|@awadáda@
+@fine@|@o-sda, o-sdadá, osani@
+@finest@|@wosaniyá@
+@finger@|@gayesadá@
+@fingers@|@degayesadá@
+@finish@|@askuadisdi@
+@finished@|@uskuadági@
+@finishing@|@aniskuadisgá@
+@fir@|@itse ada@
+@fire@|@atsilá@
+@fire department@|@dinátladisgi@
+@fireplace@|@godadi@
+@fireproof@|@gáwagohásdi nigesána@
+@fireside@|@atsiláyulodi@
+@firewood@|@ada godádodi@
+@firm@|@asdaya degugodá@
+@firmly@|@asdaya dudogodá@
+@firms@|@dunadananá@
+@first@|@igáyi@
+@fish@|@atsadi@
+@fisherman@|@asunidohi@
+@fishhook@|@asudi@
+@fishing@|@anasuhásgá@
+@fistula@|@unitsasdalá@
+@fit@|@yeli igigá@
+@fits@|@yelikuo idigidá@
+@fitted@|@yeli igidá igánelá@
+@fitting@|@yeli igidá nigalisdisgá@
+@five@|@hi-sgi@
+@fix@|@osdá igánedi@
+@fixed@|@osdá nuwanelá@
+@fixtures@|@galatsodi anádi@
+@flag@|@gadati@
+@flag officer@|@gadati ganidohi@
+@flame@|@adalagisgá@
+@flank@|@askuageni@
+@flannel@|@utsilá anuwo@
+@flap@|@gutládi@
+@flare@|@atsásdodi@
+@flash@|@utsisdalugisgá@
+@flat@|@uwanadesgi@
+@flatten@|@ayatena@
+@flatter@|@galosástaná adalákuododi@
+@flavour@|@asuyádi@
+@flaw@|@uyotsá@
+@flax@|@ugataá@
+@flaxseed@|@ugata goi gotládi@
+@flea@|@tsasuga@
+@flea market@|@unátaná ganadinádi@
+@fled@|@ulitisá@
+@flee@|@alatisdi@
+@fleece@|@uwoyadá@
+@fleet@|@tsiyu tsutaná@
+@flesh@|@ukuedali@
+@flew@|@ulawidáhá@
+@flexibility@|@iditlawu gesá@
+@flexible@|@wanige@
+@flies@|@anitága@
+@flight@|@ulawidáda@
+@flimsy@|@wanigalai@
+@flinch@|@dudanádistaná@
+@flint@|@dawisgala@
+@flip@|@adinádi@
+@flirt@|@tsulasgisdi@
+@float@|@ganuhisá@
+@flock@|@unadatlugi@
+@flog@|@atsilánilá@
+@flood@|@ganohugisgá@
+@floor@|@ayatenohi@
+@floored@|@ayodatlaná@
+@floral@|@anitsilásgi@
+@florist@|@unitsilásgi tsuninadinádi@
+@flour@|@isá wanige@
+@flow@|@adeyáasgá@
+@flower@|@atsilásgi@
+@flowers@|@anitsilásgi@
+@flown@|@ulawidáda@
+@fluent@|@ugisadá@
+@flurry@|@gutisgá@
+@flush@|@kaliwohi@
+@flute@|@atseluhisdi@
+@fluttering@|@dasoye usinuli@
+@flux@|@uskuoladisgá@
+@fly@|@tága@
+@flying@|@ganohilásá@
+@foam@|@uwogilá@
+@fodder@|@selawoyi@
+@foe@|@dinidanuwi@
+@fog@|@ugáhadá@
+@foggy@|@ugáhada@
+@foil@|@talugisgi sage@
+@fold@|@gakuenádi@
+@folder@|@gakuenádodi@
+@foliage@|@kanesga@
+@follow@|@asdawadásdi@
+@followed@|@asdawadáda@
+@follower@|@analisdawadegi@
+@following@|@asdawadisá@
+@follows@|@asdawadega@
+@folly@|@nulilohásgána@
+@fond@|@ulákuodági@
+@food@|@alisdayádi@
+@food pyramid@|@alisdayádi dunadatlugá@
+@food server@|@alisdayádi diyohihi@
+@fool@|@nudanádána@
+@foolish@|@uládalesgi@
+@fools@|@nunadanádána@
+@foot@|@ulasidena@
+@football@|@alasgaládi@
+@footsore@|@tsunasatsodisgi@
+@for@|@nasginai@
+@forbade@|@unásdsá@
+@force@|@gasadoyasdi@
+@forced@|@uwasadoyá@
+@forces@|@anisadoyasgi@
+@ford@|@digasohisdi@
+@fore@|@agáyiditlá@
+@forecast@|@adelohohisdi@
+@foreclose@|@adanadinedi@
+@forefather@|@tsunigayálige@
+@forehead@|@igáyiditlá asgoli@
+@foreign@|@iná degesá@
+@foreigner@|@doyiditlá nidayulosá@
+@forenoon@|@sunale iditlá@
+@forerunner@|@igáyi anaditlaegi@
+@forest@|@adohi inage@
+@forever@|@igohidakuu gesá@
+@forgery@|@galonuhedá gowelodi@
+@forget@|@gágewisdi@
+@forgive@|@unelagi adadelisedi@
+@forgot@|@uwagewisá@
+@forgotten@|@gágewisáhi@
+@fork@|@yági@
+@form@|@udotlásá@
+@formal@|@igáyi gayehi@
+@formed@|@gotláhi igneláhi@
+@former@|@alenátaná@
+@formerly@|@tsuwagatanás@
+@forms@|@dudotlásá@
+@forsake@|@didayohisdi@
+@fort@|@disoyá@
+@forth@|@gasadoyasdi@
+@fortieth@|@nágisgohine@
+@fortnight@|@tali iyunadodakuasdi@
+@fortunate@|@osi iyulisdanehi@
+@fortunately@|@osi iyunalisdanehi@
+@fortune@|@tsogáwalodi@
+@forty@|@nágisgohi@
+@forward@|@igáyiditlá anigisdi@
+@forwarded@|@igáyiditlá anahgistaná@
+@forwarding@|@igáyiditlá anagisdi@
+@fought@|@dunalilá@
+@foul@|@ganágalátaná@
+@found@|@awadádi@
+@foundation@|@gagusdaá@
+@founder@|@awatsigi@
+@fountain@|@ama unanugoisdi@
+@four@|@ná-gi@
+@four in hand@|@ayatládi@
+@fourteen@|@nigadu@
+@fourteenth@|@nigadusine@
+@fourth@|@nágine@
+@fowl; guinea@|@gukwe tsunasdi@
+@fox@|@tsula@
+@fracture@|@uliskualisá@
+@frail@|@ulesodá@
+@frame@|@galádodi@
+@frames@|@digaládodi@
+@Français@|@Agalátsi@
+@frank@|@nidutláwisehána@
+@frankly@|@tsutláwisehi nigesána@
+@fraternity@|@udelidá unadatlugá@
+@fraud@|@galonuhedá@
+@freak@|@ayolige@
+@free@|@asekwui@
+@free thinker@|@nadanátesgána@
+@freedom@|@tohi adedi@
+@freely@|@nududalána@
+@freeze@|@unesdaladáhi@
+@freight@|@galadá adananádi@
+@frequent@|@iyudali@
+@frequently@|@iyudaliha@
+@fresh@|@itsei@
+@freshman@|@igáyi galáladitlá didelokuasgi@
+@fret@|@atsoasedi@
+@Friday@|@Tsunagilosdi@
+@fried@|@goihi gánisdodi@
+@friend@|@unalii@
+@friendly@|@unaliiyá@
+@friends@|@tsunlii@
+@friendship@|@olii@
+@fright@|@udasgasdanedi@
+@frog@|@wolosi@
+@frolic@|@alihelitsidasdi@
+@from@|@nidálenáda@
+@front@|@igáyiditlá@
+@frost@|@uyatsásá@
+@froth@|@dahawoihá@
+@frown@|@udanegoyu@
+@froze@|@unawotsá@
+@frozen@|@unesdala@
+@fruit@|@udataná agisdi@
+@fruitful@|@adadásgi@
+@frustrate@|@adayoasdanedi@
+@fry@|@goihi gánisdodi@
+@fuel@|@godádodi@
+@fugitive@|@ulatida@
+@fulfill@|@akalisodi@
+@full@|@kali@
+@fully@|@anikali@
+@fume@|@dugasásdá@
+@fun@|@uwotládi@
+@function@|@uyanadánedi@
+@fund@|@ayeli ahá@
+@fundamental@|@nugáwiyusá dilasidodi@
+@funds@|@ayeli deahá@
+@funeral@|@danadanisisgá@
+@funeral home@|@tsuniyohusá tsuninádi@
+@funnel@|@atlisdiyi@
+@funny@|@uwotládiha@
+@fur@|@uwuyataná@
+@furious@|@gánigalisdi@
+@furlough@|@aneladisgá@
+@furnace@|@hawini atalesá@
+@furnish@|@didayohisedi@
+@furnished@|@dudayohiselá@
+@furnishing@|@dadayohisehá@
+@furniture@|@galitsode anádi@
+@furniture shop@|@galitsode anádi adananá@
+@furrow@|@gadaluganá@
+@further@|@udiditlá@
+@furthermore@|@udiditláigesdodi@
+@fuss@|@ayotlohisedi@
+@fussy@|@alisganosgi@
+@futile@|@uduginudána@
+@future@|@uwagudidisá@
+@gag@|@gutládi aholi@
+@gain@|@unekuoisdi@
+@gained@|@unekuotselá@
+@gainful@|@adotládisgi@
+@gaining@|@unekuotsehá@
+@gait@|@nadánehá aisá@
+@gale@|@sdayidá ganolásgá@
+@gallery@|@kanásulá@
+@gallon@|@sutlilodá@
+@gallons@|@iyutlilodá@
+@gallop@|@adanawidisgá@
+@gallows@|@tsunadadádi@
+@galvanized@|@ganetliyáda anagalisgi gádi, ganetliyáda anagalisgi gádi@
+@gamble@|@dikwaniyosdi@
+@gambling@|@danikuaniyohihá@
+@game@|@dinelodii@
+@games@|@tsunanelodii@
+@gangway@|@unilásdodi@
+@garage@|@atla ditlai adi@
+@garbage@|@uyo@
+@garden@|@awisáná@
+@gargle@|@anáskualiyedi@
+@garment@|@anuwo gayewadá@
+@garments@|@dinuwo digayewadá@
+@garret@|@galáladi galitsodá naá@
+@gas@|@atsilá adawelagisgi@
+@gasoline@|@gesolini@
+@gate@|@asduisdi@
+@gateway@|@unilohisdi@
+@gather@|@gatlisodi@
+@gathered@|@gatlisaná@
+@gathering@|@anitslisisgá@
+@gauge@|@atlilosdi@
+@gave@|@udanelá@
+@gay@|@gánagalasi@
+@gem@|@náya osani@
+@genealogy@|@tsunadalenái@
+@general@|@nigaá@
+@generally@|@nigaákuu@
+@generation@|@unanelotaná@
+@generous@|@nugeyuhnaána@
+@genesis@|@mosi uwowelanáhi@
+@genius@|@asinasani@
+@gentle@|@udanáti@
+@gentleman@|@asgayegásda@
+@gentlemen@|@anisgayegásda@
+@genuine@|@kaliwohi@
+@geograph@|@adadeyohásgi elohi@
+@geometry@|@disesdi dasdanáná@
+@get@|@agisdiyi@
+@gets@|@dagisgái@
+@getting@|@agisgái@
+@geyser@|@udilegi ama ganaugogá@
+@ghost@|@anitsasgili@
+@giblet@|@uyuti@
+@gift@|@adanedi@
+@gift shop@|@adanedi adananá@
+@gifts@|@didanedi@
+@gin@|@adayásdesgi aditasdi@
+@gingham@|@anuwo utsilá@
+@giraffe@|@digalisdugisgi@
+@girl@|@ageyutsa@
+@girls@|@anigeyutsa@
+@give@|@adanedi@
+@given@|@adanelá@
+@giver@|@adanehi@
+@giving@|@anadanehá@
+@gizzard@|@uyuti@
+@glad@|@alihelisdi@
+@gladly@|@aliheligi@
+@gladness@|@ulihelisdi@
+@glance@|@dikanádodi@
+@glare@|@utsisdalugisgi@
+@glass@|@adagedi@
+@glasses@|@didagedi@
+@glee@|@daninogisgá anisgaya@
+@glimpse@|@agatodi@
+@globe@|@elohi igánadena@
+@gloom@|@uhisodi@
+@gloomy@|@iga nigesána@
+@glorious@|@galáladiya@
+@glory@|@wagaláladiyá@
+@glove@|@aliyesulo@
+@gloves@|@dilayesulo@
+@glue@|@dikanáwodi@
+@glutton@|@utsati alisdayáhásgi@
+@go@|@anagisdi@
+@goat@|@ugasotsanedá@
+@gobbler@|@gána atsáya@
+@goes@|@egoi@
+@goggle@|@digatinádodi@
+@going@|@dayesi@
+@gold@|@adelá dalonige@
+@gold rush@|@adela dalonige anigásgá@
+@golden@|@dalonigesdodi@
+@golf@|@unalasgalodi@
+@gone@|@unigisá@
+@good@|@o-sda, osdá@
+@good (emphatic)@|@o-sdadá@
+@goodbye@|@didayolihá dágalenisgá@
+@goodbye (1 to 1)@|@donadagohái@
+@goodbye (1 to many)@|@dodadagohái@
+@goodness@|@osdahige@
+@goods@|@tsugáwalodi@
+@goose@|@sasa@
+@gorgeous@|@uwodu dikanodi@
+@gosling@|@sasa adá@
+@gospel@|@kenohedá@
+@gossip@|@gawonisgi@
+@got@|@ugisá@
+@gotten@|@agidá@
+@governed@|@gegadanátehehi@
+@government@|@ayeli udotláe@
+@Governor@|@ugáwiyuhi@
+@gown@|@anuwosidi@
+@grab@|@ganiyadi@
+@grace@|@adadolisdi@
+@grade@|@ayodaná@
+@grades@|@dayodaná@
+@grading@|@adiyodanásgá, aniyodanásgá@
+@gradually@|@ganilá ayiláda@
+@graduate@|@diskuadisdi goweli@
+@graduated@|@duskuadá goweli@
+@graduates@|@daskuadi goweli@
+@graduating@|@dakuadisgá goweli@
+@graduation@|@daniskuadisgá goweli@
+@grain@|@udásá ugata@
+@grammar@|@gawonihisdi adelokuasdi@
+@granary@|@ugata adi@
+@grand@|@wagaláladiyá@
+@granddaughter@|@ulisi ageyutsa@
+@grandfather@|@ududu@
+@grandmother@|@ulisi@
+@grandson@|@ulisi atsutsa@
+@granted@|@ulisgolátaná@
+@granting@|@alisgoladisgi@
+@grape@|@teláladi@
+@grasp@|@ganiyádi@
+@grass@|@kanesga@
+@grasshopper@|@tolatsukua@
+@grateful@|@aliheligi@
+@gratifying@|@aliheligá@
+@gratitude@|@ulihelitsati@
+@grave@|@ganisahái@
+@gravity@|@adanasanesgi@
+@gravy@|@goi asusdi@
+@gray@|@usgolá sagonige@
+@grease@|@goi, goi@
+@great@|@ekua@
+@greater@|@ekuo igesdodi@
+@greatest@|@wutaná@
+@greatly@|@yeli ekwaya@
+@greedy@|@ugasalesgi@
+@green@|@itseiyusdi@
+@greet@|@adalihelisdi@
+@greeting@|@ulihelitseti@
+@greetings@|@unalihelitseti@
+@grew@|@udásá@
+@griddle@|@tsulasgi@
+@grief@|@uyoayeládi@
+@grind@|@asdosdi@
+@grinder@|@asdosgi@
+@grindstone@|@digatládi náya@
+@grip@|@ganiyádi@
+@grits@|@newadá@
+@grizzly bear@|@yoná@
+@groan@|@uliyedisgá@
+@grocer@|@alisdayádi ganadegi@
+@grocery@|@alisdayádi@
+@grocery store@|@alisdayádi adananá@
+@groom@|@asgaya tsagatsásdisgi@
+@gross@|@iyasgohitsukui@
+@ground@|@gadohi@
+@groundhog@|@oganá@
+@grounds@|@digadohi@
+@group@|@unadatlisahá@
+@groups@|@dunadatlisahá@
+@grow@|@adásgá@
+@growing@|@adásisá@
+@grown@|@udásá@
+@growth@|@udásidisá@
+@grub@|@galogedisdi@
+@grudge@|@udaduhisdi@
+@gruff@|@gásgasdagi@
+@grunt@|@uliyedisgá@
+@guail@|@gukue@
+@guarantee@|@adudaládi@
+@guaranteed@|@adudaláná@
+@guarantor@|@gohyudisgi@
+@guard@|@agatiya@
+@guardian@|@adagatiya@
+@guess@|@iyelisdi@
+@guessed@|@nuwelisági@
+@guessing@|@nolisgái@
+@guest@|@adawadáhidohi@
+@guests@|@anadawadáhidohi@
+@guide@|@adasehedi@
+@guilt@|@usganátsá@
+@guilty@|@tsudugotanelá@
+@guinea pig@|@tsisdetsi iyusdi@
+@guineafowl@|@gukwe tsunasdi@
+@guitar@|@dikanogisdi@
+@gum@|@tsilali@
+@gun@|@galokue@
+@gunshot@|@disdayolá@
+@gunsmith@|@galokue digotlásgi@
+@gut@|@uligasi@
+@gymnasium@|@unanetsodi@
+@habit@|@iyadánelidasdi@
+@habits@|@iyunadánelidasdi@
+@hack@|@agáhaluyá@
+@had@|@ayehá@
+@hag@|@unegiládi agayáli@
+@hail@|@ganesosgá@
+@hair@|@usdiyegá@
+@Hair Clan@|@Anigilahi@
+@hair stylist@|@dunistigá asda idigánehi@
+@half-breed@|@ayeli iyá ugigá@
+@half-brother@|@ayeli iyá dinadanátli@
+@hall@|@galanádá@
+@halt@|@alewisdodi@
+@hammer@|@ganákualosdi@
+@hammer; yellow@|@unegada@
+@hammock@|@asiladá anasidi@
+@hand@|@uwoyeni@
+@handed@|@wudanelági@
+@handful@|@kali uwoyeni@
+@handing@|@wadanehá@
+@handkerchief@|@ayatlo@
+@handle@|@guhalá@
+@handled@|@uyidolági@
+@handles@|@deguhalá@
+@handling@|@ayidohá@
+@hands@|@tsunoyeni@
+@handwriting@|@gowelanáhi@
+@handy@|@ahidá@
+@hang@|@gadádi@
+@hanging@|@gadái@
+@happen@|@nulistaná@
+@happened@|@nulistanági@
+@happening@|@nigalistanánidohá@
+@happens@|@tsinulistaná@
+@happier@|@utli iyosda udanádá@
+@happiest@|@wulihelisdá@
+@happily@|@nigohilá alihelisdi@
+@happiness@|@alihelitsidasdi@
+@happy@|@alihelisdi@
+@harass@|@adadeyadodi@
+@hard@|@asdaya@
+@harder@|@asdayehige@
+@hardest@|@wasdayá@
+@hardly@|@átlahowa@
+@hardware@|@talugisgi@
+@hardware store@|@agatanádi adananá@
+@hark@|@adádasdodi@
+@harm@|@esga igánehi@
+@harmony@|@náwatohiyadá@
+@harness@|@tsunayatládi@
+@harrow@|@ganasinidasdi@
+@harsh@|@ulosástaná@
+@harvest@|@askuanigododi awisá@
+@harvestman opilione (spider)@|@edudu@
+@has@|@uha@
+@hash@|@ditlastanáhi@
+@haste@|@ulisda@
+@hasten@|@gániáisdiyi@
+@hat@|@aliskuetuwo@
+@hatch@|@daniyaisgá@
+@hate@|@ganakuatisdi@
+@hated@|@ganakuatiláhi@
+@hatred@|@adanakuatisdi@
+@hats@|@diliskuetuwo@
+@haul@|@ganasanesdi@
+@have@|@uha@
+@having@|@uhái@
+@hawk@|@tawodi@
+@hay@|@kanesga@
+@hazard@|@ayoasdisgi@
+@haze@|@ulasigi@
+@hazy@|@ulasihásgi@
+@he@|@nasgi asgaya@
+@head@|@asgoli@
+@headache@|@ásgoli owesdanehá@
+@headed@|@alenádisgá@
+@heading@|@dadatinisá@
+@heads@|@dinisgoli@
+@heal@|@kanáwodi@
+@health@|@ayelá nudáhnadegá@
+@Health Services@|@Ayelá Nusdá Unagasagásdidegi, Ayelá Nusdá Unagasagásdidegi@
+@healthy@|@náwatohiyadá@
+@heap@|@ugodidi@
+@heaps@|@unigodidi@
+@hear@|@adági@
+@heard@|@unadáganá@
+@hearer@|@unodádasdi@
+@hearing@|@adágisgá@
+@hearsay@|@adáganáhi@
+@hearse@|@uyohusá galádá@
+@heart@|@adanádo@
+@heartache@|@uwesdanehá udanádo@
+@heartily@|@osdá tsunadanádi@
+@hearts@|@tsunadanádo@
+@hearty@|@osdá unadanádá@
+@heat@|@uganawu@
+@heathen@|@aneyatahi@
+@heating@|@aganawidisgi@
+@Heaven@|@Galáladi tsosá@
+@Heavens@|@Digaláladi@
+@heavier@|@gagedage@
+@heavy@|@gagedá@
+@heel@|@gadigeni@
+@heifer@|@waga agina@
+@height@|@nigadái@
+@heir@|@utiyehi@
+@held@|@ayehági@
+@Hell@|@Tsásgino@
+@hello@|@osiyo@
+@help@|@alisdeládi@
+@helped@|@ulisdeláhági@
+@helpful@|@alisdelisgi@
+@helping@|@alisdeliha@
+@helpless@|@gáwalisdeládi nigesána@
+@helps@|@tsunalisdeládi@
+@hem@|@ayákuidá asano@
+@hen@|@tsataga agisi@
+@hence@|@yadána@
+@henpeck@|@agadanátehehi@
+@her@|@nasgi ageyá@
+@herb@|@gagoti@
+@herbivore@|@duyegá digisgi@
+@herd@|@unigodidi ganatlai@
+@here@|@ahani@
+@hereafter@|@uwagudidisá@
+@hereby@|@hiakuu gádi@
+@hereto@|@hiakuu yadána@
+@heretofore@|@tsuwagutanásá@
+@herewith@|@wuwagudá@
+@hero@|@atsilákuodi@
+@herself@|@uwasá ageyá@
+@hesitate@|@ayuládi@
+@hew@|@galuyasdi@
+@hiccup@|@uwaguyasdi@
+@hickory@|@wanei@
+@hidden@|@gásgalá@
+@hide@|@adisgalodi@
+@high@|@galáladi@
+@higher@|@galáladigesdodi@
+@highest@|@wagaláladiyá@
+@highly@|@galáladigesdi@
+@high-minded@|@galáladi udanátedi@
+@highway@|@utaná nánohi@
+@hike@|@asaladodi@
+@hill@|@gadusi@
+@hills@|@digadusi@
+@him@|@nasgi asgaya@
+@himself@|@uwasáasgaya@
+@hinder@|@adayosdanedi@
+@hinge@|@gadosadisdi@
+@hint@|@kaneisdodi@
+@hip@|@akasgeni@
+@hire@|@adanatládi@
+@hired@|@adanatlaá@
+@his@|@utseli@
+@history@|@nulitanidolá@
+@hit@|@adadánasdi@
+@hitch@|@gelisadádi@
+@hitherto@|@tsuwagutanásá@
+@hoard@|@gásgalodi@
+@hoarse@|@uságala@
+@hobble@|@tsudanátlohida@
+@hoe@|@galogodi@
+@hog@|@sikua@
+@hogs@|@anisikua@
+@hoist@|@asaladodi@
+@hold@|@duniyá@
+@holder@|@tsuniyáhi@
+@holding@|@duniyásá@
+@holds@|@dininiyá@
+@hole@|@atalesá@
+@holiday@|@unadetiyisgá@
+@holidays@|@tsuniláwisdanedi igesána iga, tsuniláwisdanedi nigesána iga@
+@hollow@|@usádoni@
+@holly@|@gigageadadásgi@
+@holster@|@galokue galadisdodi@
+@holy@|@galákuodiyu@
+@home@|@owenásá@
+@homes@|@dunenásá@
+@homesick@|@anádadisgá uwanásá@
+@hominy@|@ganohena@
+@hone@|@gátládodi náya@
+@honest@|@duyugodá@
+@honestly@|@niduyudodá@
+@honesty@|@tsuyugodiha@
+@honey@|@wadulisi@
+@honk@|@atseluhisdodi@
+@honour@|@atsilákuodi@
+@honourable@|@atsilákuodiyu@
+@honoured@|@atsilákuotaná@
+@hoodwink@|@digadutládodi@
+@hoof@|@ulasideni@
+@hook@|@sudi@
+@hoop@|@gasakualá@
+@hop@|@adanawidisgá@
+@hope@|@udugi gádi@
+@hoped@|@udugi uwasági@
+@hopeful@|@udugi uwasági@
+@hopeless@|@udugi nigeáná@
+@hopes@|@udugi uwa@
+@hoping@|@udugi uwaha@
+@horn@|@uyona@
+@hornet@|@skuaduli@
+@horrible@|@unayehisdi@
+@horror@|@ganayegi@
+@horse@|@soguili@
+@horse shoe@|@soguili ulasuo@
+@horse tail@|@soguili ganidadá@
+@horseback@|@ugiládi@
+@horses@|@anisogwili@
+@hose@|@anigeyá unaliyo@
+@hospital@|@tsunitlági unanitládi@
+@hospitality@|@tsudadayonutsati@
+@host@|@adawadáhidohi@
+@hot@|@udilegi@
+@hotel@|@tsunisásdi@
+@hound@|@gitli ganohilidohi@
+@hour@|@sutlilodá@
+@hours@|@itsutlilodá@
+@house@|@galitsode@
+@household@|@galitsode ahnaá@
+@housekeeping@|@aninágaláhásgi@
+@houses@|@digalitsodi@
+@Housing Authority@|@Dinesgedá Nunigáwayae@
+@how@|@hilago@
+@How about you?@|@nihina@
+@how are you@|@tohi-tsu@
+@How is your family?@|@detsadatihnaána@
+@however@|@yinigádána@
+@howl@|@uwelugá@
+@huckleberry@|@guwaya@
+@huddle@|@unadatlugá@
+@hug@|@dadaskwaniyisgá@
+@huge@|@ugodidi@
+@hull@|@unegalá ugata@
+@human@|@yáwi@
+@human services@|@yáwi dinisdelisgi@
+@humanity@|@yáwi anehá@
+@humble@|@nutlákuodána@
+@hummingbird@|@walela@
+@humour@|@uwotládi@
+@hunch@|@uwotisá@
+@hundred@|@sgohitsukui@
+@hundreds@|@iyasgohitsukui@
+@hundredth@|@sgohitsukuine@
+@hung@|@agadáná@
+@hunger@|@udayosisodi@
+@hungry@|@uyosi@
+@hunt@|@ganohalidasdi@
+@hunter@|@ganohalidohi@
+@hunting@|@aninohilidohá@
+@hurdle@|@adanawidádi@
+@hurl@|@wadinádi@
+@hurried@|@gánátsáhi@
+@hurry@|@ulisda@
+@hurt@|@atsisonáná@
+@husband@|@asgayah aninela@
+@hush@|@asulagoisdi@
+@husk@|@unulotaná@
+@husking@|@selu daninulesgá@
+@hussy@|@ulilosána ageyá@
+@hydrant@|@ama akugisdi@
+@hypnotist@|@digalitadisgi@
+@hypocrite@|@utlonasdi@
+@hysteria@|@utsoasedisgi@
+@ice@|@unesdala@
+@ice cream@|@unesdala unádi@
+@idea@|@adanátedi@
+@idealize@|@galákuododiyi@
+@ideals@|@tsulilohi@
+@ideas@|@adanátesgá@
+@identify@|@adadohidodi@
+@idiot@|@golagi nigesána@
+@idle@|@gohusdi nadánehána@
+@idol@|@unelanáhi ayelá@
+@if@|@iyuno@
+@ignite@|@atsistladisdi@
+@ignorance@|@ukanela@
+@ignorant@|@nagatahána@
+@ignore@|@adagasesdodi nigesána@
+@ill@|@udanila@
+@ill-bred@|@osdá agadáhistaná nigesána@
+@illegal@|@duyugodá iyadánelá nigesána, duyugodá iyadánelá nigesána@
+@illiteracy@|@goweli nidagatahána@
+@illness@|@adanilohisdi@
+@illustrate@|@ditlilosdodi@
+@illustrated@|@dutlilostaná@
+@illustrating@|@danatlilosdi@
+@illustration@|@ditlilosdodi@
+@image@|@nasgiyai@
+@imagination@|@iyelisdii@
+@imagine@|@iyelisdi@
+@imagined@|@nelisái@
+@imitate@|@atseládi@
+@imitation@|@ditlilostaná@
+@immediate@|@nulisdá@
+@immediately@|@natlegákuu@
+@immense@|@ugodidi@
+@immensely@|@ugodiyu@
+@immerse@|@didawosdi@
+@immortal@|@ayohusgi nigesána@
+@immovable@|@gáhásd nigesána@
+@immune@|@gáwatlohisdi nigesána@
+@impact@|@dadadánasdisgá@
+@impair@|@ayosdodi@
+@impatient@|@uwelihisgi@
+@impeach@|@adanugowisdi@
+@impel@|@adayilásdi@
+@imperfect@|@askuadá nigesána@
+@impersonate@|@atlonasdodi@
+@imply@|@gotsaládodi@
+@importance@|@wulisgediyá@
+@important@|@ulisgedá@
+@impossible@|@yeli nigesána@
+@impress@|@adadeyodi@
+@impressed@|@adadeyoná@
+@impression@|@adadeyohásgi@
+@impressions@|@didadeyohásgi@
+@improper@|@nidadolagána@
+@improve@|@gotláhisodi@
+@improved@|@gotláhisaná@
+@improvements@|@duniláwisdanelá@
+@improving@|@gotláhisisgá@
+@impulse@|@ulisda digugododi@
+@impure@|@gadaha@
+@in@|@hawinaditlá@
+@in order@|@tinánada@
+@inability@|@yeli nulinigágána@
+@inactive@|@naliteláhásgána@
+@inane@|@usiwa@
+@inasmuch@|@igai igalasdisgi@
+@incapable@|@yeli iyadánehi nigesána@
+@inch@|@iyasitadá@
+@inches@|@iyasitadisdi@
+@incident@|@nulistanidolá@
+@incidentally@|@winulistanidolá@
+@incline@|@adisadadisdi@
+@inclined@|@adisahadadá@
+@inclose@|@gotsaládi@
+@include@|@atloyasdá@
+@included@|@atloyastaná@
+@includes@|@atloyasdi@
+@including@|@atloyasdisgi@
+@inclusive@|@atloyasdodi@
+@income@|@ulutsehi@
+@inconvenience@|@uyoisdanehi@
+@inconvenienced@|@uyoisdanelá@
+@inconvenient@|@nidadolagána@
+@incorporate@|@adotládi@
+@incorporated@|@unadotlánáhi@
+@incorrect@|@nasgi nigesána@
+@increase@|@kanekuogi@
+@increased@|@unekuotsáhi@
+@increases@|@kanekuoa@
+@increasing@|@kankuotsegi@
+@incubator@|@tsuwetsi diyaisgi@
+@indecent@|@nunelána@
+@indeed@|@udohiyui@
+@indefinite@|@nadánaánaiyá@
+@indefinitely@|@nadánánaiyái@
+@independent@|@unatselidá unadotláhi@
+@index@|@awadádi@
+@Indian Ocean@|@Ayáwiya Amekuo@
+@indicate@|@adasehedi@
+@indicated@|@udasehelá@
+@indicates@|@anadasehe@
+@indicating@|@anadasehehái@
+@indifferent@|@digugotaná nigesána@
+@individual@|@anisiyáwiha@
+@individuals@|@dinisyáwiha@
+@indolent@|@gohusdi adáne nigesána@
+@indoor@|@galitsodi hawinaditlá@
+@indorse@|@asdayidisdi@
+@indorsed@|@asdayidá@
+@indorsement@|@disdayidá@
+@induce@|@iyuwanisodi@
+@indulge@|@nadánehá@
+@industrial@|@tsuniláwisdanedi@
+@industry@|@digaláwisdanedi@
+@infant@|@ayoli@
+@infer@|@kaneisdodi@
+@inferior@|@eladitlá gadogi@
+@infinite@|@igohida gesá@
+@infirm@|@udanila@
+@inflate@|@kanekuosdi@
+@influence@|@nadadánisanehá@
+@inform@|@adanohisedi@
+@informal@|@adanohisehi@
+@information@|@adanohisedi@
+@informed@|@atsinohiselá@
+@informing@|@atsinohisehá@
+@inherit@|@udatiyedi@
+@initial@|@alenátisgá@
+@initiate@|@adadeladisdi@
+@initiation@|@didadaniláisdi@
+@inject@|@adatledi@
+@injure@|@adasonádi@
+@injured@|@atsisonánáhi@
+@injury@|@atsisonáná@
+@injustice@|@niduyugodána adaduhisdodi@
+@ink@|@ganehi digewelodi@
+@innocent@|@nasganána@
+@inquest@|@anigoliyesgi@
+@inquire@|@agadádi@
+@inquires@|@agadáhásgi@
+@inquiring@|@unigadáhásgá@
+@inquiry@|@unigadáhsgi@
+@insane@|@ulánotisgi@
+@insect@|@tsásgoyi@
+@insert@|@gotsalidiyi@
+@inside@|@hawinaditlá@
+@insinuate@|@kaneisdodi@
+@insist@|@ase atayosdi@
+@insisted@|@ase utayol@
+@insolent@|@adalisgananehi@
+@inspect@|@agoliyedi@
+@inspection@|@agoliyedidyi@
+@inspiration@|@adaligalisdisgi@
+@inspired@|@udaligalistaná@
+@install@|@tsuláwisdane gagoti@
+@installation@|@tsuniláwisdane@
+@installed@|@tsuniláwisdane degetsikaná@
+@installing@|@tsuniláwisdane danikahásgá@
+@installment@|@aguyáháda@
+@instance@|@nulisdá@
+@instances@|@nigalistanánidohá@
+@instant@|@nulisdá@
+@instead@|@nasgisgini nigesána@
+@instep@|@usdayáladá@
+@instigate@|@didalenádodi@
+@institute@|@tsunadeyodi@
+@institution@|@danadeyohásgá@
+@instruct@|@adadeyodi@
+@instructed@|@udadeyoná@
+@instructing@|@adadeyohásgá@
+@instruction@|@didadeyohásgi@
+@instructions@|@dinadadeyohásga@
+@instructor@|@dideyohásga@
+@instrument@|@gohusdi gátanidasdi@
+@instruments@|@gohusdi digátanidasdi@
+@insult@|@adadehododi@
+@insurance@|@gudaládo@
+@insure@|@gudaládi@
+@insured@|@gudalánáhi@
+@insurgent@|@ayeli dinigatilegi@
+@integrity@|@kaliwohi@
+@intellectual@|@igatiha gádi golatsáhi@
+@intelligence@|@gohusdi gesá@
+@intelligent@|@osdá agatahi@
+@intend@|@nolisgá@
+@intended@|@nuwelisá@
+@intending@|@nolisgái@
+@intends@|@nelisgá@
+@intense@|@ulosásdi@
+@intention@|@iyelisdi@
+@intentions@|@nelisái@
+@intercede@|@adasdeládi@
+@interest@|@unekuotsá@
+@interested@|@unatloyasdisgi@
+@interesting@|@uskuanigodi@
+@interests@|@tsunekuotsá@
+@interfere@|@ayoasdodi@
+@interior@|@hawinaditlá@
+@internal@|@hawini@
+@international@|@ayeli dunadotlásá@
+@interpret@|@aneladodi@
+@interrupted@|@udayosdanelági@
+@interval@|@yeli utlanádá@
+@intervals@|@yeli dutlanádá@
+@interview@|@dilinohedi@
+@intestine@|@tsuligasi@
+@intimate@|@kaneisdodi@
+@into@|@nanahi@
+@intoxicate@|@udayásdesdi@
+@introduce@|@gánigesá iyadadánedi@
+@introduced@|@gánigesá nuwanelá@
+@Inuit@|@Tsuyátlá Anehi Yáwi@
+@investigator@|@ugadánidohi@
+@involve@|@adatloyasdodi@
+@involved@|@utloyastaná@
+@iron@|@tslugisgi@
+@ironing@|@danitesgá@
+@irregular@|@nidodalagána@
+@irrigate@|@amayi igánedi@
+@irritate@|@adahnalásdodi@
+@island@|@gado ama gadeyasdá@
+@islands@|@hilásgi amayeli@
+@issue@|@iyusdi kanohedi@
+@issued@|@iyusdi kanohehdá@
+@issues@|@ayadohihá@
+@issuing@|@ayadohihá@
+@it@|@nasgi@
+@itch@|@uyodesda@
+@item@|@utselidá gowelá@
+@itemized@|@utselidáha gowelá@
+@itself@|@uwasakuu@
+@ivory@|@unegá gola@
+@jack@|@tsegi@
+@jacket@|@gasalena@
+@jacket; yellow@|@tsasgaya@
+@jackrabbit@|@utanatsisdu@
+@jail@|@didasdudi@
+@jailor@|@didasduhásgi@
+@janitor@|@ganágalhido@
+@January@|@Unoltani@
+@jar@|@gugu tsulásada@
+@jaunt@|@atsásiyeidasdi@
+@jaw@|@ayugeni@
+@jay@|@dlayága@
+@jealous@|@adáyugodi@
+@Jehovah@|@Yihowa@
+@jelly@|@tseli@
+@Jesus (Yeshua)@|@Tsisa@
+@job@|@tsuláwisdanedi@
+@job announcements@|@digaláwistanedi diganotsalásgi@
+@job application@|@digaláwistanedi dikalisisodi@
+@jobber@|@uniwasgi@
+@jobs@|@tsuniláwisdanedi@
+@join@|@adeladisdi@
+@joined@|@unateladági@
+@joint@|@uwitlá@
+@joke@|@gawetládi@
+@jolly@|@gánigalisdi@
+@jolt@|@adateládi@
+@jostle@|@gawetlisgá@
+@journal@|@degowelá@
+@journey@|@áisái@
+@joy@|@ulihelisdi@
+@jubilee@|@analiheligá@
+@judge@|@digugodisgi@
+@judges@|@dingugodisgi@
+@judging@|@danugodisgá@
+@judgment@|@digugotaná@
+@judicial@|@digugododiyi@
+@Judicial Appeals Tribunal@|@Dinugodisgi Nunelisidolá@
+@juice@|@ganehá@
+@July@|@Guyekuoni@
+@jump@|@dalitadegá@
+@jumped@|@dulitadinásá@
+@jumper@|@dilitadegi@
+@junction@|@tsutlohisdi@
+@June@|@Dehaluyi@
+@junior@|@oni ehi@
+@junk@|@uweti@
+@juror@|@asuli@
+@jury@|@anisuli@
+@just@|@osdá@
+@justice@|@duyugodá@
+@justified@|@kaliwo dilasitaná@
+@justify@|@kaliwo dilasidi@
+@justly@|@osdaya@
+@kangaroo@|@udlawada@
+@kanohesgi nulistaná@|@kanohesgi nulistaná@
+@keen@|@ugisadá@
+@keep@|@askuanigododi@
+@keeper@|@ugasesdi@
+@keeping@|@uskuanigodá@
+@keeps@|@uskuanigodi@
+@keg@|@sádoni@
+@kennel@|@gili uniyásdi@
+@kept@|@askuanigotaná@
+@kettle@|@tsulasgi@
+@key@|@sduisdi@
+@keys@|@disduisdi@
+@kick@|@adayátesdi@
+@kicked@|@agayátesá@
+@kid@|@awi agina@
+@kidney@|@tsudali@
+@kill@|@adahisdi@
+@killed@|@atsilági@
+@kind@|@udanáni@
+@kindest@|@udanátigesdodi@
+@kindle@|@gotsodi@
+@kindly@|@udanátige@
+@kindness@|@nudanátiyá@
+@kindred@|@gohusdi anadadáni@
+@kinds@|@tsudalenáda@
+@king@|@ugáwiyuhi@
+@kingdom@|@ayeli unadotlásá@
+@kink@|@ulitsiskuidi@
+@kiss@|@adatawetodi@
+@kitchen@|@adasdayádi@
+@kite@|@alawinádodi@
+@kitten@|@wesá adá@
+@koala@|@gowala yona@
+@Kool-aide@|@ulisuwida aditasdi@
+@label@|@dudoá gayalá@
+@laboratory@|@náwoti adi@
+@labour@|@digaláwisdanedi@
+@labourer@|@tsuláwisdanehi@
+@labouring@|@duniláwisdanehá@
+@lace@|@agatena@
+@lack@|@galulogi@
+@lad@|@atsutsa@
+@ladies@|@anigeyá@
+@lading@|@galanádiyi@
+@lady@|@ageyá@
+@ladybug@|@nunagalidotli@
+@lag@|@alogoniyasdodi@
+@laid@|@atlanáhi@
+@lake@|@ádali@
+@lame@|@ayouli@
+@lamp@|@atsásdodi@
+@lamps@|@ditsásdodi@
+@lance@|@adayelasdi@
+@land@|@gadohi@
+@landed@|@gadohi ulutsági@
+@landing@|@gadohi galugá@
+@landlady@|@ageyá nugáwisyuá galitsode@
+@lands@|@digadohi@
+@landscape@|@gadohi nusdidaná@
+@lane@|@galanádá@
+@language@|@gawonihisdi@
+@language arts@|@digawonihisdi digasestaná@
+@lap@|@diganásgeni@
+@laptop@|@ayidasdi agadohásá@
+@lard@|@goi@
+@large@|@ekua@
+@largely@|@ekuaya@
+@larger@|@ekuahigesdodi@
+@largest@|@utaniisdi@
+@lash@|@adawasdánisdi@
+@last@|@oni@
+@lasted@|@yelikuu nuwetsá@
+@lasting@|@yelikuu igai@
+@latch@|@gasohanaladisdi@
+@late@|@oniyiyu@
+@lately@|@natlegái@
+@lateness@|@udagoniyoisdi@
+@later@|@oniyagesdodi@
+@latest@|@oniyáhigesdodi@
+@latter@|@oniyage@
+@laud@|@galákuododi@
+@laugh@|@uyetsasgá@
+@laughed@|@uyetsági@
+@laughing@|@uyetsasgái@
+@laughter@|@ayetsasdi@
+@laundry@|@Tsunagilosdi@
+@law@|@dikahnawadásdi@
+@lawful@|@dikanahwadásdi gádi@
+@lawless@|@dikanahwadásdi nigesána@
+@lawmaker@|@dikanahwadásdi anotlásgi@
+@lawn@|@oni@
+@laws@|@tsunikahnawadásdi@
+@lawsuit@|@dadalasulá@
+@lawyer@|@ditiyohihi@
+@lay@|@atlodi@
+@laying@|@anitlahásgá@
+@lazy@|@udanuláhi@
+@leach@|@tlanusi@
+@lead@|@gani@
+@leader@|@didatinehi@
+@leading@|@dadatinisá@
+@leads@|@widuyugodá@
+@leaf@|@ugalogá@
+@league@|@unadotláhi@
+@leak@|@gágusgá@
+@lean@|@ulesodá@
+@leap@|@adanawidádi@
+@learn@|@adelokuasdi@
+@learned@|@udelokuaá@
+@learning@|@adadelokuasgá@
+@lease@|@adatolasdá@
+@leased@|@udatolastaná@
+@leather@|@ganotsi@
+@leave@|@adanásdi@
+@leaves@|@tsugaloga@
+@leaving@|@adanásga@
+@lecture@|@digosisodi@
+@lectures@|@danosisisgá@
+@led@|@udinásági@
+@ledger@|@utaná goweli@
+@left@|@agasgani@
+@left-hand@|@agasgani kanogeni@
+@leg@|@ganásgeni@
+@legal@|@kalidilasidi@
+@legend@|@nulistanidolá@
+@legislate@|@dikanowadásdi digotládi@
+@legislation@|@dikanowadásdi danotlásgá@
+@legislative@|@dinilawigi@
+@legislature@|@dinilawigi@
+@legs@|@dininásgeni@
+@leisure@|@nidoláwisdanehána@
+@lemon@|@lemani@
+@lemonade@|@lemanedi@
+@lend@|@adatolasdodi@
+@length@|@niganáhisá@
+@lenient@|@udadolitsati@
+@leprosy@|@adayesgi@
+@less@|@gayolige@
+@lessee@|@atolasgi@
+@lesser@|@adatolasdisgi@
+@lesson@|@adelokuasdi@
+@lessons@|@unadelokuasdi@
+@let@|@ulisgolátaná@
+@letter@|@gilo nidayunáná goweli@
+@letter carrier@|@goweli diganidohi@
+@letter; circular@|@diganotsalásgi@
+@letters@|@goweli nidodaganánáhi@
+@letting@|@analisgolátisgá@
+@level@|@uwanadesgi@
+@lewd@|@ugáhásgi@
+@lexicon@|@dikaneisdi@
+@liability@|@datsidugái@
+@liable@|@nudalulána@
+@liar@|@gayegogi@
+@libel@|@udaduhisdodi@
+@liberal@|@nugeyuhnahána@
+@liberate@|@didayohisdi@
+@liberty@|@náwatohiyadá@
+@library@|@goweli tsuniskuanidodi@
+@license@|@goweli alisgoládisgi@
+@lick@|@adalánasdi@
+@lie@|@ganagái@
+@lies@|@daninagá@
+@life@|@álenidohá@
+@lifelong@|@igohida alenidohá@
+@lift@|@asaladodi@
+@light@|@atsásdá@
+@lighted@|@atsástaná@
+@lighten@|@gasakahigesdodi@
+@lighting@|@atsásdásgá@
+@lightning@|@anagalisgá@
+@lightning bug@|@utsisdalugi@
+@lights@|@datsásdá@
+@ligter@|@usgodáhage@
+@like@|@nasgiyai@
+@liked@|@galákuotanáhi@
+@likely@|@nudalulána@
+@likes@|@ulákuodi@
+@likewise@|@nasgiyaigedodi@
+@liking@|@naánigesdodi@
+@limb@|@uwanigalá@
+@limber@|@wanige@
+@lime@|@gosduunegá@
+@limited@|@waseláhi@
+@limp@|@adadegá@
+@line@|@asdanáná@
+@lined@|@ayegalodá@
+@linen@|@anuwo unegá@
+@linger@|@aliyilidohá@
+@lining@|@dásdanánásgá@
+@linings@|@dunisdanánaná@
+@link@|@degátadá@
+@lion@|@tládatsi@
+@literally@|@nasgiya gowelá@
+@literary@|@agatahi goweli@
+@literature@|@gowelináu@
+@little@|@usdi@
+@live@|@alenidasdi@
+@lived@|@alenidolá@
+@lively@|@gánigalasdi@
+@liver@|@uwela@
+@livery stable@|@soguili uniyásdi@
+@lives@|@alenidoa@
+@living@|@alenidohá@
+@load@|@akalii@
+@loaded@|@dikalilá@
+@loads@|@dikali@
+@loaf@|@gadunáhi@
+@loan@|@adadolasdodi@
+@loan company@|@agala dinadadolatisgi@
+@loans@|@danadadolasdisgá@
+@lobby@|@agatidisdi kanásulá@
+@lobster@|@utana tsisdána@
+@local@|@naái@
+@locality@|@naánigesdodi@
+@locally@|@nahna iyá@
+@locate@|@galutsá@
+@located@|@unilutsá@
+@locating@|@anilugá@
+@location@|@galuhisdi@
+@lock@|@dagasi@
+@locomotive@|@dokualela@
+@locust@|@ále@
+@lodge@|@udelidá unaligohi@
+@log@|@ada@
+@lone@|@uwasá@
+@lonely@|@uhisodi@
+@lonesome@|@ohisodanehá@
+@long@|@ganáhida@
+@longer@|@ganáhidage@
+@longest@|@ganáhiisdi@
+@longing@|@ágatenohá@
+@look@|@hagata@
+@looked@|@ugataná@
+@looking@|@agatisgá@
+@lookout@|@unagatodi@
+@looks@|@agatiha@
+@loom@|@dinuwo tsunotládi@
+@loop@|@gudaládi@
+@loophole@|@gudaládi atalesá@
+@loose@|@diyosáhi@
+@loot@|@adagielá@
+@lord@|@unelanáhi@
+@lose@|@udayohusedi@
+@losing@|@adayohusehá@
+@loss@|@uyohusehá@
+@lost@|@ulenahidá@
+@lot@|@atliloá gadohi@
+@lots@|@datliloá gadohi@
+@loud@|@asdaya@
+@louse@|@tina@
+@love@|@gágeyui@
+@loved@|@tsigeyusá@
+@loveless@|@nudageyusána@
+@lovely@|@ugeyudi@
+@loves@|@tsigeyua@
+@loving@|@ageyuhi@
+@low@|@eladi@
+@lower@|@eladige@
+@lowest@|@eladigesdodi@
+@loyal@|@uwohiyuhi@
+@loyalty@|@ahiyuhi@
+@lucky@|@adasáná@
+@lumber@|@tsuyatena@
+@lump@|@gatlisaná@
+@lunatic@|@uláontisgi@
+@lunch@|@alisdayádi@
+@luncheon@|@alisdayádii@
+@lung@|@tsuwela@
+@lust@|@udulisgi@
+@lye@|@ola uáyasti@
+@lying@|@atlaá@
+@machine@|@gotlánidasdi@
+@machinery@|@gotlánidasdi@
+@machines@|@digátanidasdi@
+@machinist@|@gotlánásgi@
+@mad@|@uhnaláhi@
+@madam@|@ageyá@
+@made@|@gotlánáhi@
+@madman@|@uhnalá asgaya@
+@magazine@|@goweli digoliyedi@
+@magazines@|@digoweli digoliyedi@
+@magic@|@udelidá gádi adáneládi@
+@magnificent@|@ulilohásgi@
+@magnify@|@atanohisdodi@
+@maid@|@galitsode diganágaláhido@
+@maiden@|@ditsehi nigesána@
+@mail@|@goweli wiganáná@
+@mailing@|@goweli widaganáásgá@
+@main@|@nugáwiyusá@
+@mainly@|@agáwiyudá@
+@maintain@|@igatiha igánedi@
+@maintained@|@igatiha igánedi@
+@maintenance@|@askuanigododi@
+@maize@|@selu@
+@majesty@|@nugáwiyusadegi@
+@major@|@aniyawasgi nugáwiyusá@
+@majority@|@unigodidi@
+@make@|@gotládi@
+@makes@|@digotláná@
+@making@|@anotlásgá@
+@male@|@asgaya@
+@malice@|@adanátehisadá@
+@mallet@|@ganákualosdi@
+@man@|@asgaya@
+@manage@|@adanátelisdasdi@
+@managed@|@udanátelá@
+@management@|@adanátelidohá@
+@manager@|@adanátelidohi@
+@mandamus@|@atsisadodádi@
+@mandate@|@tsudugotanáhi@
+@mankind@|@asgayaha@
+@manly@|@kali asgaya@
+@manna@|@isili gadu getsinelá@
+@manner@|@nusdái@
+@manners@|@nidusdái@
+@man's@|@anisgaya@
+@mantle@|@gadu anuwosdi@
+@manual@|@tsowoyeni gádi digaláwisdanedi@
+@manufacture@|@anotlánáásgá@
+@manufactured@|@gotlánánáhi@
+@manufacturer@|@gotlánáásgá@
+@manufacturers@|@dinotlánáásgi@
+@manufacturing@|@anotlánáásgá@
+@manure@|@soguili uniyásdi agida@
+@map@|@elohi datlilostaná@
+@maple@|@tláwaga@
+@maps@|@elohi ditlilostaná@
+@mar@|@ayosdodi dikanodi@
+@marble@|@gadayosdi@
+@March@|@Anayilisá@
+@mare@|@agisi@
+@margin@|@tsugáwalodii@
+@mark@|@udowelá@
+@marked@|@gowelanáhi@
+@markers@|@didoweligi@
+@market@|@uninadinádi@
+@marking@|@danowelisgá@
+@marks@|@dudowelái@
+@marriage@|@tsádadatsásdodi@
+@married@|@degegatsástaná@
+@marry@|@degegatsásdisgá@
+@marshal@|@didaniyisgi@
+@martial@|@danuwo iyusdi@
+@Martin@|@Tlutlu@
+@martyr@|@dinelodi usdádisgi@
+@marvelous@|@galákwisdi@
+@mash@|@asdoáhi@
+@mask@|@adutládodi@
+@mason@|@utlesadi@
+@mass@|@gatlisaná ugodidi@
+@mass meeting@|@unigodidi danilawi@
+@massacre@|@degetsiihái@
+@massage@|@ganágaládi@
+@master@|@nugáwiyusadegi@
+@masterpiece@|@wudagonadádá@
+@masters@|@nunigáwiyusadegi@
+@mat@|@ayateno ganádi@
+@match@|@atsilá gotládi@
+@mate@|@unaligohi@
+@material@|@wuduládá gádodi@
+@materially@|@wuduládái@
+@materials@|@wuduládá digádodi@
+@maternal@|@udatsi@
+@math@|@disesdi ugáwalidi@
+@mathematics@|@disesi ugáwali@
+@matinee@|@iga anadánelisgá@
+@matron@|@agatiya ageyá@
+@matter@|@iyusdi yadáhna@
+@matters@|@iyusdi yidadáhna@
+@mature@|@uwanasá udásá@
+@matured@|@uwanasá udásoná@
+@maturity@|@uwanasoháhi@
+@maul@|@utaná ganákualosdi@
+@maximum@|@galáladige@
+@May@|@Anasgáti@
+@maybe@|@aseyigi@
+@mayor@|@gaduhá ugáwiyuhi@
+@me@|@ayá@
+@meager@|@gayoli@
+@meal@|@alisdayádi@
+@meals@|@unalisdayádi@
+@mean@|@unegutsidá@
+@meander@|@uweyái@
+@meaning@|@gadágái@
+@means@|@unátanidasdi@
+@meant@|@nelisái@
+@meantime@|@nahiyuno@
+@meanwhile@|@nahiyu yadáhna@
+@measles@|@uneyotisgi@
+@measure@|@atlilosdi@
+@measurements@|@ditlilodá@
+@measures@|@ditlilosdi@
+@meat@|@hawiya@
+@mechanical@|@gohusdi gotládodi@
+@medal@|@akanesdodi@
+@meddle@|@adeyadodi, adeyadodi@
+@medical@|@ganotlági náwoti@
+@medicine@|@náwoti@
+@medium@|@ayetli igida@
+@meek@|@nulanigágána@
+@meet@|@ditlohisdi@
+@meeting@|@ditlohisdiyi@
+@meeting house@|@adanelá tsunilawisdi@
+@meeting; mass@|@unigodidi danilawi@
+@meetings@|@danatlosga@
+@meets@|@danatlosgá@
+@melancholy@|@utsoasedisgi@
+@melon musk@|@gawasági@
+@melon water@|@gágisdi@
+@member@|@gela@
+@members@|@anela@
+@membership@|@anela unadatlugá@
+@memorandum@|@gowelá anádadisdodi@
+@memorial@|@anádadisdodi@
+@memories@|@dinádadisdodi@
+@memorize@|@gánelagi@
+@memory@|@anádadisdi@
+@men@|@anigaya@
+@menace@|@adasgasdanedi@
+@mend@|@osdá igánedi@
+@mends@|@osdá nigáne@
+@mental@|@adanátediyi@
+@mention@|@kaneisdodi@
+@mentioned@|@uneistanági@
+@menu@|@asehihi agisdi@
+@mercantile@|@adananá@
+@merchandise@|@adananádi@
+@merchant@|@udanani@
+@merchants@|@tsunadanani@
+@merciful@|@udadolitsadi@
+@mercy@|@adadolisdi@
+@mere@|@nasgi uwasá@
+@merely@|@nudale nigesána@
+@merger@|@gatlisodi@
+@meridian@|@asdanánái@
+@merit@|@nusdá@
+@merits@|@nidusdá@
+@merry@|@uwotládi@
+@message@|@ádatinohisedi@
+@messages@|@getsinohisedi@
+@messenger@|@anidohi@
+@messiah@|@unisdelisgi@
+@met@|@dunatlosá@
+@metal@|@anagalisgi ganiyisgi@
+@meteor@|@náya ulawidáda@
+@method@|@igánadi@
+@methods@|@idigánadi@
+@metre@|@asehihi@
+@metropolis@|@nugáwiyusá gaduhá@
+@mew@|@wesa nigawesgá@
+@mice@|@tsisdetsi@
+@mid@|@ayeli yadána amekuohi@
+@middle@|@ayeli@
+@middle-aged@|@ayeliyá iyudetiyáda@
+@midnight@|@sánoyi@
+@midsummer@|@gogi@
+@midway@|@ayeli iyá@
+@midwife@|@adagatidisgi@
+@midwinter@|@ayeli gola@
+@might@|@nulinigágá@
+@mighty@|@wulinigágá@
+@migrate@|@adanásdiyi@
+@milch@|@diganegiedi@
+@mild@|@wanigala@
+@mile@|@sutlilodá@
+@miles@|@iyutlilodá@
+@military@|@aniyawisgi@
+@milk@|@unádi@
+@milkmaid@|@diganegiehi@
+@mill@|@sdosgiyi@
+@miller@|@disdosgi@
+@million@|@iyukuadináda@
+@millions@|@itseukuadináda@
+@mills@|@disdosgi@
+@mince@|@agáhaluyasdi@
+@mind@|@odanádá@
+@minds@|@dunadanádá@
+@mine@|@akuatseli@
+@miner@|@tsinosga galesgi@
+@mingle@|@geladidasdi@
+@minimum@|@wusdigái@
+@minister@|@alitsadohásgi@
+@ministers@|@analitsadohásgi@
+@minnow@|@atsadi usdi@
+@minor@|@ayoli@
+@minority@|@anigayoli@
+@minstrel@|@dininogisdisgi@
+@mint@|@adelá tsunotládi@
+@minus@|@gotsalesdi@
+@minute@|@iyatawostaná@
+@minutes@|@hilásgi iyatawostaná@
+@miracle@|@uskuanigodi@
+@mirage@|@agowadádi@
+@mire@|@tlawoduhi@
+@mirror@|@adakedi@
+@miscellaneous@|@tsudalenáda@
+@mischief@|@nunelána@
+@miscount@|@galidasdodi@
+@misdeed@|@usoná iyadánedi@
+@miser@|@ugeyunahi@
+@miserable@|@utsoasedi@
+@misery@|@agiliya@
+@misfit@|@yeli nigána@
+@misfortune@|@uyo iyudalisdanedi@
+@misjudge@|@galidastaná didagudanedi@
+@mislaid@|@utsatina adi@
+@mislead@|@utsatina adatinásdi@
+@miss@|@ganádisdi@
+@missed@|@unádági@
+@missing@|@anatloga@
+@mission@|@getsinásida@
+@missionary@|@kanohedá getsinásida@
+@mistake@|@galidastaná@
+@mistaken@|@galidastaná@
+@mistakes@|@unilidastaná@
+@misunderstanding@|@didakanelohohesedi@
+@misunderstood@|@nuwolatsána@
+@mitten@|@diliyesulo@
+@mix@|@gatlisodi@
+@mixed@|@gatlisaná@
+@mob@|@dunadatluná@
+@mobilize@|@digatlisodi@
+@moccasins@|@utsawodi dilasulo@
+@mock@|@adalisganenedi@
+@mockery@|@anadalisgananehá@
+@model@|@ditlilosdodi@
+@modem@|@askuanigodá igawesga@
+@moderate@|@nulosásdána@
+@moderator@|@digatiya@
+@modern@|@gohikuu iyá tsigi@
+@modest@|@nutlákuodána@
+@modify@|@skuala igánedi@
+@moist@|@gadulida@
+@molasses@|@wadulisi@
+@mold@|@galanáhi@
+@mole@|@utlaá@
+@molest@|@adadeyadododi@
+@molt@|@aduyagisgi@
+@mom@|@etsi@
+@moment@|@iyukuu@
+@monarch@|@nugáwiyusadegi@
+@Monday@|@unadodakuonáhi@
+@money@|@adela@
+@monkey@|@adalisgiyisgi@
+@monogram@|@gowelá@
+@monopoly@|@agetadisdi@
+@monotony@|@utloyiha@
+@month@|@sinádo@
+@monthly@|@sinádo nigalistanisá@
+@months@|@iyanáda@
+@monuments@|@náya gedásdi@
+@mood@|@nusdá udanátá@
+@moon@|@sánoyi ehi nádo@
+@moonlight@|@sánoyi agalisgá@
+@moral@|@agadanátedi@
+@morbid@|@utlági@
+@more@|@utli igai@
+@moreover@|@udiditlá igai@
+@morgue@|@uyohusá uninaá@
+@morning@|@sunalei@
+@mornings@|@ugitsisgá@
+@mortal@|@yáwi@
+@mortgage@|@agatidisdá@
+@mortgage; chattel@|@agatidisdá@
+@mosquito@|@dosa@
+@moss@|@gagoti@
+@mostly@|@nasgi ugodidi@
+@motel@|@tsunisásdi@
+@moth@|@oluga@
+@mother@|@unitsi@
+@mother-in-law@|@utsi ulosiyá@
+@mothers@|@tsunitsi@
+@mother's@|@nasgi utsi@
+@motion@|@asaladodi@
+@motive@|@nusdá degugodisgá@
+@motives@|@nusdá danugodisgá@
+@motor@|@anigisdisgi@
+@mount@|@agilohisdi@
+@mountain@|@odalá@
+@mountains@|@dodalá@
+@mourning@|@uyo uniyelisá@
+@mouse@|@tsisdetsi@
+@mouse; computer@|@asuyesdo asehi@
+@mouth@|@aholi@
+@move@|@adanásdi@
+@moved@|@udanásá@
+@movement@|@adanásidoa@
+@movie@|@unadánelodi@
+@movies@|@danadánelisgá@
+@moving@|@adaná@
+@much@|@utsati@
+@mucilage@|@dikanáwodi@
+@mud@|@tlawotu@
+@muddy@|@tlawotuha@
+@mulberry@|@guwa@
+@mule@|@digaliyanáhida@
+@mum@|@toiyadánedi@
+@mumps@|@duniyátosotisgá@
+@municipal@|@gaduhá ayeli udotlásá@
+@munition@|@dahnawa gádodi@
+@murder@|@adahisdi@
+@murmur@|@uliyedisgi@
+@muscle@|@hawiyaha@
+@mush@|@wanige@
+@mushroom@|@dawoli@
+@music@|@dikanogidá@
+@music store@|@dikanigisdodi adananá@
+@musical@|@dikanogidá ganotlági@
+@musician@|@dikanosdisgi@
+@musket@|@usádena@
+@muskox@|@yanasaekua@
+@muskrat@|@selagiskua@
+@must@|@ase@
+@mustache@|@ahanulásá@
+@mustard@|@atsila@
+@musty@|@tsuhnatsoyasdi@
+@mutilate@|@asowanáná@
+@muting@|@dinigatilegi@
+@mutton@|@unodena hawiyah@
+@mutual@|@anitali nanadánehá@
+@muzzle@|@uliyásulá@
+@myself@|@akuása@
+@mysterious@|@uskuanigodiyu@
+@mystery@|@uskuanigodi@
+@nab@|@adaniyádi@
+@nag@|@adalisganosedi@
+@nail@|@yági@
+@naked@|@uyeláha@
+@name@|@dudoá@
+@name; your@|@detsadoa@
+@named@|@dagoági@
+@nameless@|@nidudohána@
+@namely@|@digoáhi@
+@names@|@dunadoá@
+@naming@|@dagosgá@
+@nap@|@tlega galádi@
+@napkin@|@digisulidodi@
+@narcotic@|@adalitadisgi@
+@narrow@|@ayatoli@
+@nasty@|@unegiládi@
+@nation@|@ayeli udotlásá@
+@national@|@gánadena@
+@nations@|@ayeli dunadotlásá@
+@native@|@nayehiya@
+@natural@|@nigáwasdá@
+@naturally@|@igáwasdiha@
+@nature@|@unelaná uwotláná@
+@navigate@|@anigisdi tsiyu@
+@navy@|@amekuohi aniyawisgi@
+@near@|@naánige@
+@nearer@|@naánigei@
+@nearest@|@naánigesdodi@
+@nearly@|@naánigesdi@
+@neat@|@udanágaláda@
+@necessarily@|@asenasgi iyulisdodi@
+@necessary@|@nasgi iyulisdodi@
+@necessity@|@uduladi@
+@neck@|@agilageni@
+@necktie@|@ayatládi@
+@need@|@uduladi@
+@needed@|@uduladi nulistaná@
+@needing@|@unadulisgá@
+@needle@|@yági@
+@needles@|@nuduladána@
+@needs@|@uduládi nunadáná@
+@negative@|@digatilegi nusdá kanohedi@
+@neglect@|@gágewisdi@
+@neglected@|@gágewisá@
+@negotiate@|@didanetsedi@
+@negotiations@|@nusdá dunalinohelá@
+@neighbour@|@naá itsunadali@
+@neighbourhood@|@naá nunadalá@
+@neighbours@|@naá iyunadali@
+@neither@|@átla iyusdi@
+@nephew@|@udadutsiyá@
+@nerve@|@odanadá@
+@nerves@|@dunadanádá@
+@nervous@|@udanátedisgi@
+@nest@|@unesgilásá@
+@net@|@galáladitlá duligáwalaná@
+@never@|@átla@
+@nevertheless@|@esgaditlá@
+@new@|@itse@
+@new boy@|@goweli diganadegi@
+@new corner@|@itse ulutsá@
+@New Testament@|@Itse Kanohedá@
+@news@|@diganotsalidi@
+@newspaper@|@goweli galeyataná@
+@newspapers@|@goweli digaleyátaná@
+@next@|@soi@
+@nibble@|@atsasdesdi@
+@nice@|@osdá@
+@nicely@|@osdáha@
+@nicer@|@utli iyosda@
+@nicest@|@ohisdi@
+@nickel@|@hisgi iyadanátedi@
+@niece@|@udatlogiyá@
+@night@|@sánoyi@
+@nights@|@dulisinisá@
+@nine@|@sone-la@
+@nineteen@|@sone-ladu@
+@ninetieth@|@sone-lasgohine@
+@ninety@|@sone-lasgohi@
+@ninth@|@sone-line@
+@nip@|@sdaya ganiyádi@
+@nit@|@unitida@
+@Niukansa@|@Anikuasasi@
+@no@|@á-tla, tla, tlahá@
+@no way@|@winiduyugodána@
+@noble@|@diganotsali atsilákuodi@
+@nobody@|@tlagiloi@
+@nod@|@galásgi@
+@noise@|@unoyágá@
+@noiseless@|@nunoyágána@
+@noisy@|@unoyálida@
+@nomad@|@gayedohi@
+@nominate@|@asaladodi@
+@nominator@|@adasaladisgi@
+@nominee@|@ulisaladi@
+@none@|@kanigidá@
+@nonsense@|@gohusdi nuyeladána@
+@noodle@|@digalánáhi@
+@nook@|@unásiyá@
+@noon@|@ayeli yadána amekuohi, iga@
+@noose@|@dakanesdi@
+@normal@|@nulosásdána@
+@North@|@uyátlá@
+@northeast@|@uyátlá kalágá iditlá@
+@northern@|@uyátlá udeligá iditlá@
+@northwestern@|@udeligáditlá uyátlá@
+@nose@|@gayásoli@
+@not@|@nasgi nigesána@
+@notary@|@disoasdisgi@
+@notation@|@anádadisdodi gowelodi@
+@notch@|@diyelasdi@
+@note@|@adadugá goweli@
+@notebook@|@gowelodi goweli@
+@noted@|@gowelodi@
+@notes@|@dadadugá goweli@
+@nothing@|@átla gohusdi@
+@notice@|@adanohisehi@
+@noticed@|@udelohosá@
+@notices@|@unadelohohisdodi@
+@notified@|@udanohiselá@
+@notify@|@adanohisedi@
+@notion@|@iyelisdi@
+@notorious@|@tsudanotsali@
+@noun@|@dudoái@
+@nourish@|@adadelasdi@
+@novel@|@digoliyedi goweli@
+@November@|@Nádadekua@
+@now@|@nakuu@
+@nowhere@|@látlá nigesána@
+@nugget@|@utlanáhi@
+@null@|@nidalasidána@
+@nullify@|@nidalasidána igánedi@
+@number@|@sesdi@
+@numbered@|@diseláhi@
+@numbers@|@disesdi@
+@numerate@|@disesdi@
+@numerous@|@unigodidi@
+@nurse@|@ganagati asdelisgi@
+@nursery plant@|@digagodi tsunadáhisdodi@
+@nut@|@sohi@
+@nutmeg@|@asuyádi@
+@oak@|@tsusga@
+@oar@|@digayawesdi@
+@oath@|@aselidodi@
+@oats@|@soguili unigisdi@
+@obedience@|@gohiyuhi@
+@obedient@|@uwohiyuhi@
+@obey@|@gohiyudiyi@
+@obituary@|@deganotsalá uyohusá@
+@object@|@digatilesdi@
+@objection@|@digatiláda@
+@obligateadudaládi@|@objects@
+@obligation@|@adadudalánedi@
+@obligations@|@adadudalánelá@
+@oblige@|@adudaládi@
+@obliged@|@adadulánelá@
+@oblivion@|@báwagewisái@
+@oblong@|@ganáhida sakuagati@
+@obscene@|@usonái@
+@obscure@|@udelisá@
+@observation@|@nusdá dikanodi@
+@observed@|@agasestaná@
+@obsolete@|@adináda@
+@obstacle@|@ayoasdisgi@
+@obstruct@|@igáyaditlá@
+@obtain@|@otseli igánehi@
+@obtained@|@otseli igánelá@
+@obtaining@|@otseli nagánehá@
+@obvious@|@agáni@
+@occasion@|@iyudaliha@
+@occasional@|@iyudaliha@
+@occasionally@|@iyudalihakuu@
+@occupation@|@iyusdi digaláwisdanedi@
+@occupied@|@aneladá@
+@occupy@|@aganelá@
+@occur@|@nulistaná@
+@occurred@|@nulistanági@
+@occurring@|@nigalasdisgá@
+@ocean@|@amekuohi@
+@October@|@Duninodi@
+@odd@|@tsudalehnai@
+@odor@|@gawasági@
+@off@|@utsatina@
+@off-colour@|@nudale dikanodi@
+@offend@|@esga nulisdane@
+@offended@|@esga nulisdane@
+@offense@|@isga nulisdanelági@
+@offer@|@asgolátaná@
+@offering@|@asgoladisgá@
+@offers@|@anisgoladi@
+@offhand@|@nagasestanána@
+@office@|@digaláwisdanedi@
+@officer@|@ayeli tsuláwisdanehi@
+@officer; police@|@didaniyisgi@
+@offices@|@tsuniláwisdanedi@
+@official@|@ayeli usákali@
+@officials@|@ayeli unasákali@
+@offset@|@itse nidayudáhisdi@
+@oficers@|@ayeli tsuniláwisdanehi@
+@often@|@iyudaliha@
+@oftener@|@iyudalihakuu@
+@oil@|@goi@
+@oily@|@goiha@
+@old@|@agayáli@
+@older@|@agayálahigesdodi@
+@omission@|@kanohiyasdi@
+@omit@|@gotsalesdi@
+@omnivore@|@duyegá ale hawiya anigisgi@
+@on@|@nahna@
+@once@|@sakuu iyuwagudi@
+@one@|@sakuu@
+@one-half@|@ayeli iyá@
+@ones@|@anisiyáwiha@
+@one's@|@anisiyáwi@
+@onion@|@sági@
+@only@|@nasgi uwasá@
+@onward@|@igáyiditlá aisá@
+@open@|@asduidá@
+@opened@|@asduisgá@
+@openings@|@dulisduisá@
+@openly@|@gáwalisduidá@
+@opens@|@alisduia@
+@opera@|@unadáneladi@
+@operate@|@anigosdodi@
+@operated@|@anigistaná@
+@operating@|@anigisdisgá@
+@operation@|@atsiyelohá@
+@operations@|@degetsiyelohá@
+@opilione (spider); harvestman@|@edudu@
+@opinion@|@nolisgái@
+@opinions@|@nanelisgái@
+@opossum@|@sikua utsetsasdi@
+@opponent@|@didagatilegi@
+@opportune@|@adlanádadisgi@
+@opportunities@|@dadadlanádadehá@
+@opportunity@|@adadlanádadehá@
+@oppose@|@digatilásdi@
+@opposed@|@dugatilásá@
+@opposite@|@ahnaditlá@
+@opposition@|@digatilásdi@
+@optimist@|@galákuadiyesgi@
+@option@|@didanetsedi@
+@optometrist@|@dinigadoli digoliyesgi@
+@or@|@ale@
+@oral@|@kanetsáhi@
+@orange@|@adalonige@
+@orator@|@asidasdá gawonisgi@
+@orchestra@|@dininogisdisgi@
+@orchid@|@atsilásgi@
+@ordain@|@tsagasatadisdi@
+@order@|@adanásdi@
+@ordered@|@adanásáhi@
+@ordering@|@adanásgái@
+@orderly@|@nutsoasedána@
+@orders@|@danadanásgái@
+@ordinarily@|@tsiwutsatakuu@
+@ordinary@|@tsutsatakuu@
+@organ@|@utana dikanogisdi@
+@organization@|@unadotláhi@
+@organizations@|@tsunadotláhi@
+@organize@|@unadotládi@
+@organized@|@unadotlánáhi@
+@original@|@alenádisgá@
+@originally@|@alenátaná@
+@originate@|@alenádodi@
+@ornament@|@atsanádo@
+@orphan@|@udaniyadá@
+@orphanage@|@unadaniyadá@
+@ostrich@|@gána utana@
+@other@|@soi@
+@others@|@anisoi@
+@otherwise@|@iyuno yeli@
+@otter@|@tsiya@
+@ought@|@udohiyuyeno@
+@our@|@akuatseli@
+@ours@|@igatseli@
+@ourselves@|@ogása@
+@oust@|@adanugowisdi@
+@out@|@atsinukowisgá@
+@outbid@|@galáladitlá kanesdi@
+@outcast@|@agadaináda@
+@outcome@|@iyulisdodi@
+@outcry@|@datloyihá@
+@outdoors@|@doyaditlá@
+@outfit@|@utanidasdi@
+@outfits@|@unátanidasdi@
+@outhouse@|@doyaditlá adanelá@
+@outlaw@|@unegutsida@
+@outline@|@asdanáná@
+@outlined@|@asdanáhnaná@
+@outrage@|@galosástaná@
+@outright@|@duyugodá@
+@outside@|@doyaditlá@
+@outspoken@|@gilakuu iyu kanegi@
+@oven@|@digadudi@
+@over@|@gawohiládodi@
+@over there@|@gei@
+@overalls@|@duniláwisdanehá unasulo@
+@overbear@|@gáwadasotládi@
+@overburden@|@galosástaná@
+@overcharge@|@galaditlá digáwalododi@
+@overcoat@|@utana gasalena@
+@overcome@|@udatlátasdi@
+@overdose@|@galosástaná agihisdi@
+@overdue@|@ulosonáhi@
+@overflow@|@unohuganá@
+@overgrow@|@udásonáhi@
+@overhead@|@galáladitlá@
+@overhear@|@adadáganedi@
+@overload@|@kali ulosásdi@
+@overlook@|@ahiyasdodi@
+@overlooked@|@nagohána@
+@overnight@|@susáhida@
+@overpay@|@ulosásdi aguyádi@
+@overpower@|@adasegogisdi@
+@override@|@adalasdaedi@
+@overrun@|@gátsewogi@
+@oversee@|@agasesdodi@
+@overshoe@|@gadu alasulo@
+@oversight@|@nagohána@
+@overskirt@|@gadu unasano@
+@overstep@|@adawohiladisdi@
+@overstock@|@galosástaná adi@
+@overtake@|@adatlátasdi@
+@overthrow@|@dikalukuadinásdi@
+@overtime@|@udiditlá igohida@
+@overwork@|@galosástaná digaláwisdanedi@
+@owe@|@atsidugá@
+@owed@|@atsitugá@
+@owes@|@atsituga@
+@owing@|@datsituga@
+@owl@|@ugugu@
+@own@|@otseli@
+@owned@|@utseli gesá@
+@owner@|@utselii@
+@owners@|@unatselii@
+@ownership@|@nasgi utseli@
+@owns@|@tsutseli@
+@ox@|@waga eyusdi@
+@oyster@|@dagána@
+@paint@|@wadi@
+@Paint Clan@|@Aniwadi@
+@parking lot@|@dowalela tsunidi@
+@person@|@Ayáwiya@
+@plumber@|@ama tsuwedasdi osda idigánehi@
+@police officer@|@didaniyisgi@
+@Potato Clan; Wild@|@Anigatagewi@
+@potato; wild@|@gatagewi@
+@priest@|@kutani@
+@Priest Clan@|@Anikutani@
+@Principal People@|@Aniyáwiya@
+@qowi (cavy)@|@tsisdetsi iyusdi@
+@quack@|@kawonu nigawesgá@
+@quake@|@aliteláhásgá@
+@qualified@|@yelikuu iyadánehi@
+@qualify@|@tsagadanilátsá@
+@qualities@|@iga tsosda@
+@quality@|@iga osi@
+@quandary@|@udlasitáhi@
+@quantity@|@igai@
+@quarantine@|@ganásdohisdi@
+@quarrel@|@atiyosdi@
+@quarry@|@náya tsunilesdi@
+@quarter@|@ginudodi@
+@quarters@|@aniginudodi@
+@quartet@|@nági iyanii@
+@queen@|@ugáwiyu aninela@
+@question@|@adádáhásgi@
+@questionnaire@|@didádáheláasgi@
+@questions@|@didádáhásgi@
+@quick@|@ulisda@
+@quickly@|@nulisdá@
+@quiet@|@eluwei@
+@quietly@|@iyatokuu@
+@quill@|@ugidali@
+@quilt@|@ayegali@
+@quinine@|@sonela@
+@quintet@|@hisgi iyahnii@
+@quit@|@tlesdi@
+@quite@|@naánigesdodi@
+@quiver@|@owenawisgá@
+@quota@|@kaliwohi@
+@quotation@|@gilo nuiwesá@
+@quotations@|@gilo nuniwesá@
+@quote@|@kaneisdodi@
+@quoted@|@kaneistaná@
+@quoting@|@kaneisdisgá@
+@rabbi@|@tsusi alitsadohásgi@
+@rabbit@|@tsisdu@
+@raccoon@|@gáli@
+@race@|@tsunadalenáda yáwi@
+@rack@|@atlodi@
+@racket@|@unoyágá@
+@radiant@|@dulásadá@
+@radiator@|@aganawadisgi@
+@radical@|@udatsadodi@
+@radio@|@gawonisgi@
+@radish@|@galadisgi@
+@radius@|@gáwatuwidá@
+@raffle@|@ayeli igánedi@
+@rafter@|@diskuadádi@
+@rag@|@uyo anáwo@
+@rage@|@atalawohisdi@
+@ragged@|@gadoladi@
+@raid@|@adayosedi@
+@rail@|@soyasdi@
+@railroad@|@talugisgi nánohi@
+@railroads@|@talugisgi deganáná@
+@railway@|@talugisgi nánohi@
+@rain@|@agasgá@
+@rainbow@|@unágoladá@
+@rained@|@ugahnaná@
+@raining@|@agasga@
+@rains@|@digasgi@
+@rainy@|@agasgi@
+@raise@|@adáhisdodi@
+@raised@|@udáhistanági@
+@raising@|@anadáhisdisgá@
+@rake@|@gatlisododi@
+@rally@|@doidigánedi@
+@ramble@|@atsáseyeidasdi@
+@ran@|@duskualátaná@
+@ranch@|@waga didáhnadisdodi@
+@rang@|@unoyágá@
+@range@|@asdanáná@
+@rank@|@iyá anidonaá@
+@ransom@|@asasdá@
+@rap@|@gánasdi@
+@rapid@|@gatsanula@
+@rapidly@|@ulisdahige@
+@rare@|@iyudaliha@
+@rarely@|@ináhi iyudali@
+@rascal@|@utlonasdi@
+@rash@|@gásgasdagi@
+@raspberry@|@sádiwali@
+@rat@|@tsisdetsi@
+@rate@|@dagáwalodá@
+@rather@|@utli gáyeládi@
+@ratify@|@asdayidasdi@
+@rating@|@danigáwalodisgá@
+@rattlesnake@|@utsonadi@
+@raven@|@golaná@
+@raw@|@nuwanasána@
+@razor@|@alisdoyadodi@
+@reach@|@adoyanáhidisdi@
+@reached@|@wulutsági@
+@reaches@|@adoyanáhidia@
+@reaching@|@anadoyanáhidisgá@
+@read@|@ágoliyesgá, ánadoyanáhidisgá@
+@reader@|@digoliyesgi@
+@readers@|@dinigoliyesgi@
+@readily@|@iyukuu yinigalasdi@
+@reading@|@dagoliyesgá@
+@reads@|@dagoliye@
+@ready@|@adánáistanoná@
+@real@|@udohiyu nasgi@
+@reality@|@udohiyu nusdá@
+@realize@|@adelahohisdi@
+@realized@|@adelahosáhi@
+@really@|@udohiyuhi@
+@realtor@|@galitsode ale gado diganadega@
+@reap@|@agalasdi@
+@rear@|@oniditlá@
+@reason@|@adanátedi@
+@reasonable@|@nulosásdána@
+@reasonably@|@ulosásdi nigesána@
+@reasons@|@anadanátesgá@
+@rebate@|@náaguyádi@
+@rebuke@|@adawonádodi@
+@recall@|@náatsiyanodi@
+@receipt@|@kanohesgi agisá@
+@receipts@|@kanohesgi dagisá@
+@receive@|@agisdi@
+@received@|@ugisági@
+@receiver@|@tsugáwalodi agatiya@
+@receives@|@agisgoi@
+@receiving@|@agisgái@
+@recent@|@natlegá@
+@recently@|@tlayigohigi@
+@reception@|@dádadanilágá@
+@recess@|@ayohisdodi@
+@recital@|@álisinahisdisgá@
+@reckless@|@nunelána@
+@reckon@|@iyelisdi@
+@recline@|@adigaládi@
+@recognition@|@agasesdodi@
+@recognize@|@adadolisdi@
+@recognized@|@uwolatsá@
+@recollect@|@anádadisdi@
+@recollection@|@ananádadisgá@
+@recommend@|@galákuododi@
+@recommendation@|@galákuotanáhi@
+@recommendations@|@digalákuotanáhi@
+@recommended@|@galákuotaná@
+@recommending@|@anilákuodisgá@
+@recompense@|@adaguyáedi@
+@reconcile@|@tsunohisdodi@
+@record@|@gowelá@
+@recorded@|@gowelanáhi@
+@recorder@|@gowelisgi@
+@recount@|@disehisodi@
+@recourse@|@náayasdi@
+@recover@|@atlátasdi@
+@recovered@|@atlátahái@
+@recruit@|@dogatlisodi@
+@red@|@gigage@
+@redeem@|@áawasisodi@
+@redouble@|@ágágatisodi@
+@redress@|@gotláhisodi@
+@reduce@|@agayolaná@
+@reduced@|@agayoladáhi@
+@reducing@|@agayoladisgi@
+@reduction@|@agayoladisdi@
+@reef@|@náya unagasadá@
+@reel@|@gadikualeyásdodi@
+@reenter@|@náayásdi@
+@refer@|@wasesdi@
+@reference@|@waseláhi@
+@references@|@widaselái@
+@referred@|@waseláhi@
+@referring@|@wasehihái@
+@refers@|@wasehihoi@
+@refine@|@ayolige igánedi@
+@refit@|@yeli igidá igánedi@
+@reflect@|@nusdá tsádadakenedi@
+@reflection@|@nusdá dádodakanisgá@
+@reform@|@adanátisodi@
+@reformer@|@dinadanátisodisgi@
+@refrain@|@didanádisdodi@
+@refreshment@|@gohusdi agisdi@
+@refrigerator@|@unesdala galádodi@
+@refugee@|@unalidá@
+@refund@|@náadanedi@
+@refuse@|@adayasdi@
+@refused@|@udayilá@
+@regard@|@nasgi osi ayeládi@
+@regarded@|@nasgi ayeláná@
+@regarding@|@nasgi aniyelásgá@
+@regards@|@udagasesdi@
+@regenerate@|@adehisodi@
+@region@|@utanidi gadohi@
+@register@|@wakuidiyi@
+@registered@|@agowelodi@
+@registration@|@disehihi@
+@regret@|@tlakuu ayeládi@
+@regretted@|@tlakuu ayeláná@
+@regretting@|@tlakuu aniyelásgá@
+@regular@|@utloyiha@
+@regularly@|@nigadá utloyiha@
+@regulate@|@gotláhisodi@
+@regulation@|@dilasidodi@
+@regulations@|@dilasitanidasdi@
+@rehearse@|@alisinahisdodi@
+@reign@|@ugáwiyu degugodisgá@
+@reimburse@|@náaguyádi@
+@reinforce@|@alinigohisdodi@
+@reject@|@adayasdi@
+@rejoice@|@alihelisdi@
+@rejoin@|@náateladisdi@
+@relate@|@kaneisdodi@
+@related@|@gohusdi anadadáni@
+@relating@|@ganotlági@
+@relations@|@dunadadudalá@
+@relative@|@ganotlátsidohi@
+@relative; blood@|@sidanelá@
+@relatively@|@diganotlági@
+@relax@|@aliwesolásdodi@
+@release@|@tsatsiyohisdi@
+@released@|@datsiyosági@
+@reliable@|@tsuyugodiya@
+@relief@|@adasdeládi@
+@relieve@|@alisdeládodiyi@
+@relieved@|@atsisdeláhá@
+@religion@|@dineládodi@
+@religious@|@tsuneládiya@
+@relish@|@oganahisedi@
+@remain@|@nigaáedohá@
+@remainder@|@walinohiyasgá@
+@remained@|@nigayedohákuu@
+@remains@|@unalinohiyáhi@
+@remark@|@kanegá@
+@remarkable@|@uskuanigodiyu@
+@remarked@|@unetsági@
+@remarks@|@nuniwesá@
+@remedy@|@anáwodi@
+@remember@|@anádadisdi@
+@remembered@|@anádadáhi@
+@remembering@|@anádadisgi@
+@remembrance@|@anádadisdodi@
+@remind@|@adanádadisdodi@
+@reminded@|@geganádadistaná@
+@reminds@|@ananádadisgá@
+@remit@|@wadiyi@
+@remittance@|@widaneláhi@
+@remittances@|@widunineláhi@
+@remitted@|@widanáhi@
+@remitting@|@widanihásgá@
+@remorse@|@tla ayeládi@
+@remote@|@nuwadale@
+@removal@|@ahásidasdi@
+@remove@|@ahásdi@
+@removed@|@aháda@
+@removing@|@anihásgá@
+@render@|@iyadadánedi@
+@rendered@|@nunadadánelá@
+@renew@|@atsehisododi@
+@renewal@|@atsehisodiyi@
+@renewals@|@ditsehisodiyi@
+@renewed@|@atsehisotaná@
+@renounce@|@diyohisdi@
+@rent@|@atolisdi@
+@rental@|@adatolasdodi@
+@rented@|@adatolastaná@
+@repaired@|@gotláhisaná@
+@repairing@|@gotláhisisgá@
+@repairs@|@anotláhisisgá@
+@repeal@|@asehisdi@
+@repeat@|@nágágogogi@
+@repeated@|@nuwagutaná@
+@repected@|@gohiyunáhi@
+@replace@|@nágotláhisodi@
+@replaced@|@nágotláhisaná@
+@replacement@|@nágotláhisodiyi@
+@replevin@|@agisisodi@
+@replied@|@gawohiliyáda@
+@replies@|@digawohiliyásga@
+@reply@|@gawohiliyásdi@
+@replying@|@anawohiliyásgá@
+@report@|@gánigesá igánedi@
+@reported@|@gánigesá igánelá@
+@reporter@|@gánigesá igánehi@
+@reporting@|@gánigesá nanánehá@
+@reports@|@gánigesá idigánelá@
+@represent@|@iyadadánedi@
+@representation@|@iyadadánelá@
+@representative@|@digalawigi@
+@representatives@|@dinilawigi@
+@represented@|@nudadánelági@
+@representing@|@nadadánehá@
+@represents@|@nadadáne@
+@Republic@|@Ayeli Udotlá@
+@Republican@|@Uyádla@
+@Republicans@|@Uniyádla@
+@repudiate@|@adayosedi@
+@repulse@|@adatsásdodi@
+@reputation@|@nusdá agadanátedi@
+@request@|@iyadawesedi@
+@requested@|@nudaweselá@
+@requesting@|@nadawesehá@
+@requests@|@nadawesehá@
+@require@|@kanesdi iyadánedi@
+@required@|@kanetsá iyadánedi@
+@requirement@|@ulinetsá iyadánedi@
+@requirements@|@dulinetsá iyadánedi@
+@requires@|@kanega iyadánedi@
+@requiring@|@aninegáiyadánedi@
+@requisition@|@atayohihi goweli@
+@rescue@|@adasdeládi@
+@research@|@náayasdi@
+@resent@|@esga ayeládi@
+@reservation@|@kanohiyáhi@
+@reserve@|@kanohiyasdi@
+@reserved@|@kanohiyáhi@
+@reside@|@aneladisdi@
+@residence@|@owenásá@
+@resident@|@ganela@
+@resign@|@asulagoisdi@
+@resignation@|@anisulagogá@
+@resigned@|@asulagotsáhi@
+@resolute@|@digugododi@
+@resolution@|@alinegi goweli@
+@resolutions@|@dilinegi goweli@
+@resolve@|@digugododi@
+@resort@|@yáwi unedasdi@
+@resources@|@tsugáwalodi galugi@
+@respect@|@gohiyuhi@
+@respectable@|@atsilákuodi@
+@respective@|@getsilákuodi@
+@respectively@|@getsilákuodiyu@
+@respects@|@gohiyuhásga@
+@respond@|@gawohiliyásdi@
+@response@|@gawohiliyáda@
+@responsibility@|@adudaládi@
+@responsible@|@unadudalá@
+@rest@|@atsawesolásdodi@
+@rested@|@utsawesolástaná@
+@resting@|@atsawesolásdisgá@
+@restless@|@atsosesgi@
+@restore@|@náadanedi@
+@restrain@|@adayosdanedi@
+@restrict@|@adasdunedi@
+@restroom@|@doya unatsásdi@
+@result@|@nulistaná@
+@resulted@|@nulistanági@
+@results@|@nidulistaná@
+@retail@|@usdi adananá@
+@retain@|@diganiyáhi igánelá@
+@retained@|@diganiyáhi nigánelá@
+@retaurant@|@tsunalisdayádi@
+@retired@|@asulagotsáhi@
+@retrace@|@nágolunásdi@
+@retreat@|@asinásdi@
+@return@|@ágalutsá@
+@returning@|@anilugá@
+@returns@|@igaluga@
+@reunion@|@náunaligoná@
+@reveal@|@agatudesdi@
+@revelation@|@gananugowisá@
+@revenge@|@atleisdi@
+@revenue@|@olutsehi@
+@reverence@|@adalákuododiyi@
+@reverend@|@atsilákuodi@
+@reverse@|@atsásdodi@
+@revert@|@náatsásdodi@
+@review@|@nágágododi@
+@revised@|@nágágotaná@
+@revision@|@nágágotanáhi@
+@revival@|@anaalenisgái@
+@revoke@|@náasehisdi@
+@revolt@|@danigatilegá@
+@revolution@|@adeyohá@
+@revolve@|@adeyasdi@
+@reward@|@asasdá@
+@rib@|@ganulatsi@
+@ribbon@|@akuelusdi@
+@rice@|@diligwu@
+@rich@|@uwenai@
+@rick@|@gasáti@
+@rid@|@diyohisdi@
+@ride@|@agiládi@
+@rides@|@agiláásga@
+@ridiculous@|@unayehisdi@
+@riding@|@agiláásgá@
+@right@|@duyugodá@
+@rightly@|@niduyugodái@
+@rights@|@niduyugodá@
+@ring@|@aliyesustawo@
+@rings@|@diliyesustawo@
+@rip@|@gatsagaládi@
+@ripe@|@uwanasáhi@
+@rise@|@ulisaladodi@
+@rising@|@alisaladisgá@
+@risk@|@aneládodi@
+@rival@|@anadisáhihi@
+@river@|@uweyá@
+@road@|@nánohi@
+@roads@|@deganáná@
+@roam@|@edohái@
+@roan@|@gigage iyusdi@
+@roar@|@tládatsi nigawesgá@
+@roast@|@alitládodi@
+@rob@|@adanasodi@
+@robe@|@gadu anuwosdi@
+@robin@|@tsikuokuo@
+@robust@|@udalinigidá@
+@rock@|@náya@
+@rocker@|@dilugesgi@
+@rocks@|@hilásgi náya@
+@rod@|@ganáhida talugisgi@
+@rode@|@ugilánági@
+@rogue@|@digalonuhesgi@
+@role@|@adánelisgi uskualáehá@
+@roll@|@ayodáhi@
+@rolled@|@uwadakualelá@
+@rollerskate@|@tsunatsoládodi@
+@rolling@|@gasokualesgá@
+@rolls@|@diyodáhi@
+@Romanus@|@Lomi@
+@romp@|@aditlidohi@
+@room@|@kanásulá@
+@rooming@|@nidekanásulá@
+@rooms@|@dekanásulá@
+@roost@|@unagilá@
+@root@|@unasdetlá@
+@rope@|@sdeyidá@
+@rose@|@atsilásgi@
+@roses@|@anitsilásgi@
+@rosin@|@adla@
+@rostrum@|@tsuniwonihisdi@
+@rot@|@ugosá@
+@rotten@|@ugosidá@
+@rouge@|@asuwisdi@
+@rough@|@usoná@
+@round@|@gasakualá@
+@route@|@widuyugodá@
+@routine@|@uwagotilodá@
+@routing@|@waselá widuyugodá@
+@row@|@udanáná@
+@rowdy@|@nunelána@
+@royal@|@atsilákuodi yáwi@
+@rub@|@ganáliyedi@
+@rude@|@gásgasdagi@
+@ruffle@|@galuhida@
+@rug@|@yatenayesdádi@
+@rugged@|@uyatalatsá@
+@rugs@|@yateno diyesdádi@
+@ruin@|@ayosdodi@
+@ruined@|@ayostaná@
+@rule@|@asdawadásdodi@
+@rules@|@digugotaná@
+@ruling@|@dunugotaná@
+@rum@|@adayásdesgi@
+@rumble@|@onaditlá gadi@
+@rumour@|@aninohesgi@
+@run@|@diskualádodi@
+@rung@|@unoyálistaná@
+@running@|@adatlisái@
+@runs@|@daskualodi@
+@runt@|@wusdigá@
+@rural@|@asdá deganáná@
+@rush@|@gánáisdi@
+@rushed@|@uwanátsá@
+@rushing@|@uwanágá@
+@rust@|@tsudadigida@
+@rye@|@kanesga@
+@Sabbath@|@Unadodakuasgá@
+@sack@|@degalodi@
+@sacred@|@galákuodi@
+@sacrifice@|@alisgoládodiyi@
+@sad@|@uwedolisdi@
+@saddle@|@gayahulo@
+@saddlebag@|@digitsadi@
+@safe@|@niganayegána@
+@safely@|@ganayegi nigesána@
+@safety@|@nunayehisdána@
+@sag@|@unoyátsá@
+@said@|@nuwesági@
+@sail@|@aisá@
+@sailed@|@unigisá@
+@sailing@|@aisái@
+@saint@|@nasganánáa@
+@sake@|@nasgi igánisisgi@
+@salad@|@agáhaluyá agisdi@
+@salaries@|@anadatlosgá@
+@salary@|@adatlosgá@
+@sale@|@ganadinádi@
+@sales@|@diganadinádi@
+@salesman@|@ganátanidohi@
+@sallow@|@uwodalá@
+@salmon@|@semoni@
+@saloon@|@tsunaditasdi@
+@salt@|@a-ma@
+@salute@|@adayolisdi@
+@salvation@|@ádadisdeládi@
+@salve@|@ganáliyedi@
+@same@|@utloyi@
+@sample@|@ditlilosdodi@
+@samples@|@hilásgi ditlilosdodi@
+@sanctify@|@didaniláisdi@
+@sanction@|@didanilátsá@
+@sand@|@noya@
+@sandwich@|@senawitsi@
+@sandy@|@noyaha@
+@sang@|@dunogisá@
+@sanitary@|@udanágaláda@
+@sanity@|@osi udanátedi@
+@sap@|@atasgisgá@
+@sarcasm@|@adalisgananehi@
+@sardine@|@sadini@
+@sash@|@tsolaná gatinádá@
+@sassafras@|@ganasdatsi@
+@sat@|@uwolá@
+@Satan@|@tsásgina@
+@satchel@|@degalodi usdi@
+@satin@|@utsisdalugisgi anuwo@
+@satisfaction@|@tsudolatsaná@
+@satisfactorily@|@kali didolagi@
+@satisfactory@|@kali didolastaná@
+@satisfied@|@osi ayeláná@
+@satisfy@|@osi ayeládi@
+@Saturday@|@Unadodakuidena@
+@saucer@|@hawinaditlá atlodi@
+@sausage@|@hawiya asdoái@
+@savage@|@geyatahi@
+@save@|@ahiyasdi@
+@saved@|@atsisdeláhági@
+@saving@|@askuanigodisgá@
+@savings@|@getsisdeláda@
+@saviour@|@unisdelisgi@
+@saw@|@ugohági@
+@sawdust@|@usgogá@
+@sawmill@|@sákualosgi@
+@saxophone@|@atseluhisdi@
+@say@|@hinegi@
+@saying@|@kanegái@
+@says@|@adiha@
+@scab@|@utsasdalá@
+@scaffold@|@didadádi@
+@scald@|@uleyásá@
+@scale@|@digadádi@
+@scalp@|@atsisdanegaláda@
+@scandal@|@usoná adaduhisdodi@
+@scanner@|@ditlilosdisgi waskuanigodisgi, ditlilosdisgi waskuanigodisgi@
+@scant@|@galulogi@
+@scapegoat@|@atsidanelá@
+@scar@|@unelásá@
+@scarce@|@kanigági@
+@scarcely@|@naánigesdodi@
+@scare@|@asgasdi@
+@scarecrow@|@goga ditesdodi@
+@scared@|@usgasdanelági@
+@scarf@|@aliskuanosdodi@
+@scarlet@|@usgosda gigage@
+@scatter@|@adigaleyasdi@
+@scene@|@kikanodi@
+@scenery@|@dikanodiyi@
+@scenes@|@dikahnanidasdi@
+@scent@|@gawaságá@
+@schedule@|@iyu aselá@
+@scheduled@|@uselá iyui@
+@scheme@|@adanátedi@
+@scholar@|@didelokuasgi@
+@scholarship@|@dádelokuasgá@
+@school@|@didelokuasdi@
+@schoolbook@|@didelokuasdi goweli@
+@schoolboy@|@didelokuasgi atsutsa@
+@schoolgirl@|@didelokuasgi ageyutsa@
+@schoolhouse@|@tsunadelokuoasdi adanelá, tsunadelokuoasdi adanelá@
+@schooling@|@danadelokuasgá@
+@schoolmaster@|@dideyohásgi@
+@schoolmistress@|@dideyohásgi ageyá@
+@schoolroom@|@tsunadelokuasdi kanásulá@
+@schools@|@tsunadelokuasdi@
+@science@|@yáwi yunadánelisdi agaseataná@
+@scientific@|@asinasdá@
+@scissors@|@dilasdoyadi@
+@scoff@|@adalisgananedi@
+@scold@|@adasohedi@
+@scoop@|@utana godesdi@
+@scorch@|@uleyásá@
+@score@|@uskuadisdi@
+@scorn@|@uyoasedi@
+@scoundrel@|@unegutsidá@
+@scour@|@ganágalodi@
+@scout@|@ayawasdi@
+@scrap@|@agáhaláda@
+@scrape@|@asdágosdi@
+@scratch@|@didlagosdi@
+@scream@|@geluhásdi@
+@screen@|@tsolaná uyaná@
+@screened@|@uyaná gayalá@
+@screw@|@udikualádeyadá@
+@scribe@|@dinowelisgi@
+@scripture@|@galákuidowelá@
+@scrub@|@yateno ganágaládi@
+@scuffle@|@adisásdi@
+@scythe@|@agalisdodi@
+@sea@|@amekuohi@
+@seacoast@|@amayuládi@
+@seal@|@asoasdo@
+@search@|@ayasdi@
+@season@|@iyu udetiyásadisá@
+@seasons@|@adanetliyásgá sudetiyáda@
+@seat@|@gadi@
+@seats@|@digadi@
+@second@|@taline@
+@seconded@|@uwagusdáná@
+@secrecy@|@udelidá@
+@secret@|@udelida@
+@secretary@|@digowelisgi@
+@section@|@nahna gesá@
+@sections@|@nahna degesá@
+@secure@|@diganiyádi@
+@secured@|@diganiyáda@
+@securing@|@daniniyisgá@
+@security@|@gudaládo@
+@seduce@|@adatinásdi@
+@see@|@agowadádi@
+@seed@|@ugata@
+@seeing@|@ágowatisgá@
+@seek@|@ayasdi@
+@seeking@|@ugohái@
+@seem@|@igayelisdi@
+@seemed@|@igayelisá@
+@seeming@|@nanelisgá@
+@seemingly@|@iyagelisidasdi@
+@seems@|@unelisáhi@
+@seen@|@agohái@
+@sees@|@agowati@
+@seine@|@agayaludi@
+@seized@|@datsiniyáelági@
+@select@|@asuyesdi@
+@selected@|@asuyedá@
+@selecting@|@asuyesgá@
+@selection@|@asuyesdi@
+@self@|@owasá@
+@selfish@|@udalákuodi@
+@sell@|@ganadinádi@
+@selling@|@aninadegá@
+@senate@|@galáladi dinilawigi@
+@senator@|@galáladi digalawigi@
+@send@|@adanásdi@
+@sending@|@adanásgá@
+@sends@|@adanásga@
+@senior@|@diskuadisgi@
+@seniors@|@diniskuadisgi@
+@sense@|@udanátedi@
+@sensible@|@udanátehisadá@
+@sensitive@|@unetliyásati@
+@sensitivity@|@udanádá gowetadisdisgi@
+@sent@|@adanásá@
+@sentence@|@disásdodi@
+@sentiment@|@yáwi nanelisgá@
+@sentimental@|@nusdá nelisgá@
+@sentiments@|@yáwi nidanelisgá@
+@separate@|@tsudalehnai@
+@separately@|@tsudalehnaiha@
+@September@|@Dulisdi@
+@serial@|@gayaisá@
+@series@|@kanekuoái utloyiha@
+@serious@|@utláyolisdi@
+@seriously@|@utáyolistanáhi@
+@sermon@|@alitsadodi@
+@serpent@|@inadá@
+@servant@|@atsinatlai@
+@servants@|@digetsinatlai@
+@serve@|@iyadadánedi@
+@served@|@iyadadánelá@
+@service@|@nadánelá@
+@services@|@nanadánehá@
+@serving@|@nadánehái@
+@session@|@danilawiá@
+@set@|@awisádi@
+@sets@|@diwisádi@
+@setting@|@diwisdi@
+@settled@|@didadolatsedi@
+@settlement@|@didadolatselá@
+@seven@|@galikuo-gi@
+@seventeen@|@galikuadu@
+@seventeenth@|@galikuadusine@
+@seventh@|@galikuogine@
+@seventieth@|@galikuasgohine@
+@seventy@|@galikuasgohi@
+@several@|@hilásgi@
+@severe@|@ulosástanáhi@
+@sew@|@gayewisgá@
+@sewed@|@uwayewisá@
+@sewing@|@aniyewasásgá@
+@sexton@|@uhaláni ganoyálisdisgi@
+@shabby@|@gadoladi@
+@shack@|@uyo adanelá@
+@shade@|@udawadisgá@
+@shades@|@dudawadisgá@
+@shadow@|@udayáladá@
+@shake@|@adeládiyi@
+@shall@|@asei@
+@shallow@|@unáwoda@
+@shame@|@adehohisdi@
+@shape@|@udotlásái@
+@share@|@adayotaedi@
+@sharp@|@gosdaya@
+@shave@|@alisdoyadi@
+@shawl@|@asotládi@
+@she@|@nasgi ageyá@
+@shears@|@dilasdoyadi@
+@shed@|@dugatawolá@
+@sheep@|@awi unodena@
+@sheet@|@digáhida@
+@shell@|@uyasga@
+@sheriff@|@didaniyisgi@
+@shift@|@didanetliyásdi@
+@shin@|@digádageni@
+@shine@|@utsisdalugisgi@
+@shingle@|@sádalugi@
+@shining@|@utsisdalugisgá@
+@ship@|@tsiyu@
+@shipment@|@wadi gohusdi@
+@shipments@|@widadi gohusdi@
+@shipped@|@wunági@
+@shipping@|@anigosdodi@
+@ships@|@tsiyu tsutaná@
+@shirk@|@nálisdelisgána@
+@shirt@|@hawini anuwo@
+@shirts@|@hawini dinuwo@
+@shiver@|@uwanawisgi@
+@shock@|@usgasdanelá@
+@shocked@|@usgasdaneláhi@
+@shoe@|@alasulo@
+@shoes@|@dilasulo@
+@shoot@|@disdayosdi@
+@shop; gift@|@adanedi adananá@
+@shopping@|@anadananesidohá@
+@shore@|@amayuladi@
+@short@|@skualai@
+@shortage@|@skualahigesdodi@
+@shorter@|@skualihigesdi@
+@shortly@|@skualihige@
+@shot@|@disdayosdi@
+@shotgun@|@usádena@
+@should@|@iyudina@
+@shoulder@|@ganáwoi@
+@shout@|@geluhásdi@
+@shove@|@gasadoyasdi@
+@shovel@|@godesdi@
+@show@|@unadáneládi@
+@showed@|@udasehelági@
+@shower@|@agasgi@
+@showing@|@anadasehehái@
+@shown@|@unadasehelági@
+@shows@|@danadánelisgá@
+@shut@|@asdudi@
+@shy@|@udehosati@
+@sick@|@utlági@
+@sickness@|@utlátsiyesgi@
+@side@|@askuageni@
+@sides@|@diskuageni@
+@sift@|@gáwisdadi@
+@sigh@|@udanátedodi@
+@sight@|@agowadádi@
+@sign@|@gowelodi@
+@signature@|@dudoá gowelá@
+@signed@|@uwowelanági@
+@signify@|@gananugowisdi@
+@signing@|@agowelisgá@
+@signs@|@gowelia@
+@silence@|@eluwei@
+@silent@|@tonudáhna@
+@silk@|@siligi@
+@silly@|@udlasidáhi@
+@silo@|@askuanigododi@
+@silver@|@adelá unegá@
+@similar@|@utloyi@
+@simple@|@nutsosdána@
+@simplicity@|@nutsosdána golisdi@
+@simply@|@nutsosdánakuu@
+@sin@|@asgani@
+@since@|@oni tsuwagudá@
+@sincere@|@udohiyu nasgi@
+@sincerely@|@udohiyu gáyoiyu@
+@sincerity@|@udohiyu gohiyudi@
+@sing@|@kanogisdi@
+@singing@|@daninogisgá@
+@single@|@siyáwi@
+@sink@|@eladi igalisdodi@
+@sire@|@asgaya@
+@sister@|@ulá@
+@sisters@|@anadalá@
+@sit@|@uwola@
+@sitting@|@aninái@
+@situated@|@nahna gesá@
+@situation@|@nusdidaná@
+@six@|@sudali@
+@sixteen@|@daladu@
+@sixteenth@|@daladusine@
+@sixth@|@sudaline@
+@sixtieth@|@sudalisgohine@
+@sixty@|@sudalisgohi@
+@size@|@nigái@
+@sized@|@igidá nigánelá@
+@sizes@|@nidegái@
+@sizing@|@igidá nagánehá@
+@skate@|@diliyodi@
+@skating@|@atloladodiyi@
+@skein@|@asdi@
+@skid@|@didanisinegi@
+@skill@|@asinasái@
+@skillet@|@gánisdodi@
+@skin@|@ganega@
+@skip@|@adanawidádi@
+@skirt@|@asano@
+@skunk@|@dila@
+@slab@|@uyaladá@
+@slack@|@wana@
+@slander@|@uyo adaduhisdodi@
+@slang@|@itse gawonihisdi@
+@slant@|@udosati@
+@slap@|@adasidánisdi@
+@slate@|@náya digowelodi@
+@slave@|@atsinatlai@
+@slaves@|@digetsinatlai@
+@sled@|@didanasinegi@
+@sleep@|@galádi@
+@sleeping@|@galihái@
+@sleepy@|@galásgi@
+@sleet@|@ganesoasgá@
+@sleeve@|@goyadá@
+@sleeves@|@degoyadá@
+@slender@|@galádoli@
+@slept@|@ulánági@
+@slew@|@atsilá@
+@slice@|@galádaláda@
+@slick@|@dawisgage@
+@slide@|@atloladodi@
+@slim@|@galádoli@
+@smiling@|@uyetsitohá@
+@smoke@|@tsugasásdi@
+@smoking@|@gogasgá@
+@smooth@|@uwanadesgi@
+@smuggle@|@gásgalodi@
+@snag@|@utládaláda@
+@snake@|@inadá@
+@snap@|@akanesdi@
+@sneak@|@udadelisdi@
+@sneer@|@adalisgananedi@
+@sneeze@|@duyásdoyá@
+@snip@|@agalasdi@
+@snort@|@skuala kawoladesgá@
+@snow@|@unatsi@
+@snowed@|@uwutaná@
+@snowing@|@gutisgá@
+@snub@|@adadoladodi@
+@snuff@|@tsola wanige@
+@soak@|@gadulasdodi@
+@soap@|@ola@
+@sober@|@nuyásdesgána@
+@social@|@anadatlisisgá@
+@social studies@|@yáwi yunadánelisdi agaseataná@
+@society@|@unadotláhi@
+@sock@|@aliyo@
+@socks@|@diliyo@
+@soft@|@wanigei@
+@soil@|@gadohi@
+@sold@|@ganadináda@
+@soldier@|@ayawisgi@
+@soldiers@|@aniyawisgi@
+@sole@|@alasulo galisdlaá@
+@solemn@|@galákuodi adanátedi@
+@solicit@|@atayosdi@
+@soliciting@|@atayolidohá@
+@solid@|@akaliwohi@
+@solitary@|@utselidá@
+@solo@|@asiyáwi kanogisgi@
+@solution@|@goluwadáda@
+@solvent@|@yelikuu tsugáwalodi@
+@some@|@igadá@
+@somebody@|@giloi@
+@someone@|@gilo asiyáwi@
+@something@|@gohusdi@
+@sometime@|@iyukuu nigalisdi@
+@somewhat@|@nasgi yadána@
+@somewhere@|@nahna hilátlá@
+@son@|@uwetsi@
+@song@|@kanogisdi@
+@songs@|@dikanogidá@
+@sons@|@tsuwetsi@
+@soon@|@nulisdá@
+@sooner@|@tleagesdi@
+@soot@|@utsoláhida@
+@sore@|@utsisdalá@
+@sorghum@|@wadulisi@
+@sorrell@|@gigage iyusdi@
+@sorrow@|@uyayeláná@
+@sorry@|@uyo ayeládi@
+@sort@|@disuyesdi@
+@sorts@|@disuyedá@
+@sought@|@uyalági@
+@soul@|@galákuodi adanádo@
+@sound@|@unoyágá@
+@sounded@|@unoyálisági@
+@sounds@|@dunoyágá@
+@soup@|@ugama@
+@sour@|@tsunatsoyasdi@
+@source@|@didalehásgá@
+@sources@|@dotsudalená@
+@South@|@uganawu@
+@southeast@|@uganawu kalágá@
+@southern@|@uganawu iditlá@
+@sow@|@sikua agisi@
+@space@|@udlanádá@
+@spade@|@godesdi@
+@spake@|@unetsági@
+@spank@|@adasidánisdi@
+@spare@|@ahiyasdi@
+@spark@|@adawelagisgá@
+@sparse@|@anigayoli@
+@speak@|@kanegá@
+@speak; I@|@tsiwoniha@
+@speak; I not@|@yitsiwoniha@
+@speaker@|@gawonisgi@
+@speaking@|@gawonisgá@
+@speaks@|@aninega@
+@spear@|@digatisdi@
+@special@|@utselidá@
+@specially@|@utselidáha@
+@specific@|@digosgi@
+@specifically@|@kali digoáhi@
+@specified@|@digoáhi@
+@specify@|@digosdiyi@
+@specimen@|@gotsaledá digoáhi@
+@specimens@|@digotsaleda digoáhi@
+@speculate@|@awasádiyi@
+@speech@|@alitsadodi@
+@speeches@|@analitsadohásgá@
+@speed@|@gatsanula@
+@spell@|@diskueládi@
+@spelling@|@daniskueliyogá@
+@spend@|@uwasgá@
+@spending@|@uniwasgá@
+@spent@|@uniwasá@
+@spider@|@kahnanesgi@
+@spill@|@atsewasdi@
+@spin@|@adikualadeyo@
+@spinning@|@adikualadeyasdi@
+@spinning wheel@|@sdasdi@
+@spirit@|@adanádo@
+@spirits@|@didanádo@
+@spit@|@alatsigasgá@
+@spite@|@adalisgananedi@
+@spittoon@|@alatsiskuasdi@
+@splendor@|@didolagi dikanedi@
+@split@|@distluyá@
+@spoil@|@uyoasdi@
+@spoiled@|@uyotsáhi@
+@spoke@|@unetsá@
+@spoken@|@unetsági@
+@spoon@|@adidodi@
+@sport@|@dinanelohásgi@
+@sports@|@dineládiyi@
+@spot@|@udadalá@
+@sprain@|@adálesdi@
+@spread@|@ayesdádi@
+@spree@|@uyásdesgá@
+@Spring@|@Ama Ganugogá@
+@sprinkle@|@asdutlisdi@
+@sprout@|@duyitlá@
+@spur@|@ayágisdi@
+@spy@|@udelidá ugasesdi@
+@squabble@|@unisdádisdi@
+@squander@|@atsewasdi@
+@square@|@nági tsunásiya@
+@squash@|@kayásekua@
+@squat@|@degatsilugá@
+@squaw@|@ayáwiya ageyá@
+@squeak@|@unoyágá@
+@squeeze@|@adasoasdodi@
+@squire@|@atsilákuodi asgaya@
+@squirrel@|@saloli@
+@stab@|@gatisdi@
+@stable@|@sokuili uniyásdi@
+@stack@|@degasádá@
+@staff@|@analisdeláhidohi@
+@stage@|@gawonihisdi ayodadlaá@
+@stagecoach@|@yáwi ditinidohi@
+@stagger@|@dudodagadisgá@
+@stagnant@|@toganehá@
+@stain@|@asgolágá@
+@stair@|@agilosásdi@
+@stairs@|@digilosásdi@
+@stale@|@uwetatsá@
+@stamp@|@gayaládi@
+@stamped@|@gayaláná@
+@stamps@|@digayaládi@
+@stand@|@gadogá@
+@standard@|@yelikuu didolagi@
+@standing@|@anidonaá@
+@standpoint@|@nusdá dikanodi@
+@stands@|@danidoga@
+@stanza@|@dudatlugá@
+@star@|@nokuisi@
+@starch@|@disdagayadodi@
+@stars@|@aninokuisi@
+@start@|@anigisdi@
+@started@|@unigistaná@
+@starting@|@anigisdisgá@
+@starts@|@anigisdi@
+@starve@|@agona ayohuhisdi@
+@starved@|@agona uyohusá@
+@starving@|@agona igánisisgi daniyohusga@
+@state@|@kanohedi@
+@stated@|@unohelági@
+@statement@|@kanoheláhi@
+@statements@|@dikanoheláhi@
+@states@|@kanoheha@
+@stating@|@kanohelásgá@
+@station@|@ulewisdi@
+@stationary@|@igáyi gayehi@
+@stationery@|@goweli digowelodi@
+@stations@|@tsulewisdi@
+@statistics@|@iga nulistanásá@
+@status@|@nusdidaná@
+@stave@|@sádoni digotládi@
+@stay@|@edoa@
+@steadily@|@igatihai@
+@steady@|@alisinahisdi@
+@steak@|@waga hawiya@
+@steal@|@ganosgisdi@
+@steam@|@atsilá gasadoyasgi@
+@steamer@|@tsiyu utana@
+@steel@|@atsilá talugisgi@
+@steep@|@galáladi@
+@steer@|@ganali@
+@stem@|@uwanigalá@
+@stenographer@|@skuala gowelisgi@
+@step@|@alasgáda@
+@stepbrother@|@dinadanátli degegatihnaá@
+@stepchild@|@agatihnaá ayoli@
+@stepdaughter@|@utihnaá ageyutsa@
+@stepfather@|@utihna udoda@
+@stepmother@|@utihna utsi@
+@stepping@|@alasgásgá@
+@steps@|@alasgásegá@
+@stew@|@gunáhi@
+@stick@|@ganasda@
+@sticky@|@gayalági@
+@stiff@|@ganetaya@
+@stigma@|@uduhisdá@
+@still@|@toi@
+@sting@|@adatsáyasgi@
+@stir@|@asuyedi@
+@stirrup@|@alasidi@
+@stitch@|@gayewisá@
+@stock@|@unihá tsugáwalodi@
+@stockholders@|@unatseli tsugáwalodi@
+@stockings@|@anigeyá tsunaliyo@
+@stocks@|@dunihá tsugáwalodi@
+@stole@|@unosgisá@
+@stomach@|@uskuoli@
+@stone@|@náya@
+@stones@|@anináya@
+@stood@|@gadogá@
+@stool@|@gadi@
+@stop@|@alewisdodi@
+@stopped@|@ulewistaná@
+@stopping@|@alewisdisgá@
+@stops@|@analewisdisgá@
+@storage@|@askuanigododi@
+@store@|@adananá@
+@store; grocery@|@alisdayádi adananá@
+@store; music@|@dikanigisdodi adananá@
+@stores@|@dadananá@
+@stories@|@idigaláladi@
+@storm@|@ganolásgi agasgi@
+@story@|@kanohelásgi@
+@stout@|@ulinigidá@
+@stove@|@aganawohisdi@
+@straight@|@gatsinosdá@
+@straightened@|@gatsinosisaná@
+@strain@|@alinigánelá@
+@strange@|@asegi@
+@strangely@|@asegiyu@
+@stranger@|@nagoligána@
+@strap@|@galásdodi@
+@straw@|@kanesga@
+@strawberry@|@ani@
+@stray@|@ulenahidá@
+@stream@|@uweyái@
+@street@|@galanádá@
+@streets@|@degalanádá@
+@strength@|@nulinigágá@
+@strenuous@|@asdaya alinigánedi@
+@stress@|@dilasidodi@
+@stretch@|@didanesdodi@
+@strict@|@adanátehisadá@
+@strictly@|@adanátehisaná@
+@strike@|@gánasdi@
+@strikes@|@digánasdi@
+@striking@|@gánihái@
+@strip@|@igánadesdi@
+@stroke@|@gániláhi@
+@strong@|@ulanigida@
+@stronger@|@wulinigágá@
+@strongest@|@utli iyulanigida@
+@strongly@|@ulanigidiyu@
+@strop@|@gátládodi@
+@struck@|@uwetilági@
+@struggle@|@adisásdi@
+@stub@|@wagalisá@
+@stuck@|@gadilá@
+@stud@|@diganone@
+@student@|@dedelokuasgi@
+@students@|@donade lokuasgi@
+@studied@|@ugasestanági@
+@studies@|@digasesdodi@
+@studying@|@dunagasesdá@
+@stuff@|@galodi@
+@stumble@|@udanaskualosdi@
+@stump@|@unidlagá@
+@stung@|@uwetsáyá@
+@stunk@|@gawaságági@
+@stunt@|@nadásgána@
+@stupid@|@nigolagána@
+@style@|@atsanádi@
+@styles@|@tsunatsanádodi@
+@subdue@|@adasegogisdi@
+@subject@|@iyusdi kanohedi@
+@subjects@|@iyusdi dikanohedi@
+@sublet@|@wadadolasdodi@
+@sublime@|@adasaladodi@
+@submit@|@dudayohiselá@
+@submitted@|@duyosá@
+@suddenly@|@nulisdákuu@
+@suffer@|@agilyoasdi@
+@suffered@|@agiliyotsá@
+@suffering@|@anigiliyogá@
+@sufficient@|@yelikuu@
+@sufficiently@|@yelikuu igai@
+@sugar@|@kalisetsi@
+@suggest@|@kaneisdodi@
+@suggested@|@kaneistaná@
+@suggesting@|@anineisdisgá@
+@suggestion@|@kaneistaná@
+@suggestions@|@unineistaná@
+@suggests@|@anineisdi@
+@suicide@|@uwasá udahisdi@
+@suit@|@gadu dinuwo@
+@suitable@|@dinadolagi@
+@suited@|@tsunadolatsá@
+@suits@|@gadutsunanuwo@
+@sullen@|@uhisodi@
+@sum@|@igai@
+@summer@|@gogeyi@
+@summon@|@adayanádodi@
+@sun@|@nádo iga ehi@
+@Sunday@|@Unadodakuasgá@
+@sunflower@|@náda asdawadidohi@
+@sunglasses@|@tsuliniga digatinádi@
+@sunrise@|@Kalágá@
+@sunset@|@wudeligá@
+@sunshine@|@agalisgá@
+@Superintendent@|@digatiya@
+@superior@|@nugáwiyusadegi@
+@supervision@|@unigáwiyusadegá@
+@supervisor@|@nunigáwiyusá duniláwisdanehá@
+@supper@|@sáhiye alisadayádi@
+@supplement@|@akalisisanáhi@
+@supplied@|@adanelági@
+@supplies@|@dadaneha@
+@supply@|@adanedi@
+@supplying@|@dadanehái@
+@support@|@alisdeládi@
+@supported@|@ulisdeláhá@
+@suppose@|@iyálisdi@
+@supposed@|@nuwelisá@
+@supposing@|@nanelisgá@
+@suppress@|@ganahisdodi@
+@supreme@|@wutanái@
+@sure@|@udohiyui@
+@surely@|@udohiyusái@
+@surety@|@adudaládi@
+@surface@|@gadui@
+@surgeon@|@ganagati@
+@surprised@|@askuanigosá@
+@surrender@|@tsudayohisdi@
+@surrounded@|@dagatuwistaná@
+@surrounding@|@dagatuwisdisgá@
+@survey@|@atlilosdi gadohi@
+@suspect@|@adalawasedi@
+@suspected@|@atsilawiselá@
+@suspend@|@adananugowisdi@
+@suspender@|@dinotlo@
+@suspicion@|@galawasedi@
+@sustain@|@agelasdi@
+@swab@|@akayodane@
+@swamp@|@amayuládi saluyi@
+@swan@|@sasa@
+@swarm@|@aninohilidohá@
+@swear@|@aselidodi@
+@sweater@|@atsutsa unuwo@
+@sweep@|@gánosasdi@
+@sweet@|@uganasdá@
+@sweetest@|@wuganasá@
+@sweetheart@|@tsunadadatlutugi@
+@sweetness@|@yeli uganasdá@
+@swell@|@aháyolida@
+@swift@|@gatsinula@
+@swim@|@adawosdi@
+@sycamore@|@kutsunegá@
+@symbol@|@digátlilosdodi@
+@sympathetic@|@udadolitsati@
+@sympathize@|@adadolisdi@
+@sympathy@|@uwedolisdi@
+@syrup@|@wadulisi@
+@system@|@iyahdánelidasdi@
+@tab@|@gadái@
+@tabernacle@|@tsunilawilisdi galitsode@
+@table@|@gasgilo@
+@tables@|@digasgilo@
+@tablet@|@digowelodi goweli@
+@tack@|@gahadodi@
+@tackle@|@ganasanesdodi@
+@tag@|@gayaládi@
+@Tag Agency@|@Atsododi Gadádi Tsuninadinádi@
+@tail@|@ganidadá@
+@tailor@|@dinuwo digayewasgi@
+@take@|@agisdi@
+@taken@|@agisáhi@
+@takes@|@agisgoi@
+@taking@|@agisgái@
+@tale@|@adanohedi@
+@talent@|@nulinigágá@
+@talk@|@gawonisgá@
+@talked@|@uwonisági@
+@talking@|@gawonisgá@
+@talks@|@gwonisgo@
+@tall@|@iná igati@
+@tallow@|@galitsohidá@
+@tame@|@udanáti@
+@tan@|@nádo uleyátaná@
+@tangle@|@udalásdá@
+@tank@|@atlisdodi sádoni@
+@tantalize@|@adadeyatodi@
+@tap@|@agugisdi@
+@tar@|@adla@
+@tardy@|@ugoniyosdi@
+@target@|@diyosdi@
+@tariff@|@ayeli aguyádi@
+@tarnish@|@adayoasdanedi@
+@tarry@|@agatidisdi@
+@task@|@iyadánedi ahá@
+@taste@|@nusdá agisdi@
+@tattle@|@agadudesdi@
+@taught@|@dudeyonági@
+@tax@|@ayeli aguyádi@
+@Tax Commission@|@ayeli aguyádi@
+@taxes@|@ayeli diguyádi@
+@tea@|@ugalogá@
+@teach@|@dedeyodi@
+@teacher@|@dideyohásgi@
+@teachers@|@dinadeyohásgi@
+@teacher's@|@dideyohásgi utseli@
+@teaches@|@dadeyohásga@
+@teaching@|@dadeyohásga@
+@team@|@soguili tsunatsotli@
+@teapot@|@ama agododi@
+@tear@|@gatsagaládi@
+@tears@|@digasawosdi@
+@tease@|@agadeyododi@
+@teaspoon@|@usi adidodi@
+@teat@|@ganádi@
+@technical@|@utsosdi nigáhnaná@
+@technology@|@itse agadohásdi@
+@teepee@|@aniyáwiya unilatsodá@
+@teeth@|@deganádogá@
+@telegram@|@anagalataná@
+@telegraph@|@dinagoladáná@
+@telephone@|@anagalisgi asiladá@
+@telephoned@|@tsunalinohedi@
+@tell@|@dulinohelá@
+@teller@|@kanohedi@
+@telling@|@kanohesgá@
+@tells@|@uninohedi@
+@temper@|@udanátedi@
+@temperature@|@iyuyátlá@
+@temple@|@tsunilawiisdi@
+@temporarily@|@igáyikuu gayehi@
+@temporary@|@igáyi geyehi@
+@temptation@|@adagoliyesgi@
+@tempted@|@adagoliyedá@
+@ten@|@sgohi@
+@tenant@|@atsinatlai@
+@tendency@|@widuyugodá@
+@tender@|@wanai@
+@tenderfoot@|@usgaena@
+@tennis@|@asiladá unalasgaládi@
+@tenor@|@galáladi kanogisdi@
+@tent@|@galitsodadi@
+@tenth@|@sgohine@
+@term@|@alenisgá@
+@terms@|@dadalenisgá'@
+@terrapin@|@dagasi@
+@terrible@|@ulosásdi@
+@terribly@|@ulosástanáhi@
+@territory@|@nahna gesá@
+@terror@|@ganiyegá@
+@test@|@agadádi@
+@testament@|@Itse Kanohedá@
+@testify@|@kanohedi@
+@testimony@|@kanohelái@
+@tests@|@digadádi@
+@text@|@dalisdá@
+@thank you@|@waddo@
+@thanked@|@agalielitselá@
+@thanking@|@adalihelitsehá@
+@thanks@|@analiheligá@
+@Thanksgiving@|@Alihelisdi Iga@
+@thaw@|@gánawosgá@
+@theatre@|@unadáneládi@
+@their@|@unatseli@
+@theme@|@iyusdi kanohedi@
+@themselves@|@unása@
+@thence@|@yadáhna@
+@theory@|@goluwadádi@
+@there@|@nahnai@
+@thereafter@|@uwagudidisá@
+@thereby@|@naánigesdi@
+@therefore@|@nasgi igánisisgi@
+@therein@|@nahna yadána@
+@thereof@|@nidádalehásgi@
+@thereon@|@nahna iyá@
+@thereto@|@nahna iyái@
+@thermometre@|@adelohisdi nuyátlá@
+@these@|@nasgi hia@
+@thick@|@uhagedá@
+@thicket@|@saluyi@
+@thin@|@sagei@
+@thing@|@iyusdi@
+@things@|@tsudalenáda@
+@think@|@adanátesgá@
+@thinking@|@anadanátesgá@
+@thinks@|@nelisgái@
+@third@|@tsoine@
+@thirst@|@otadegisgi@
+@thirteen@|@tsogadu@
+@thirteenth@|@tsogadusine@
+@thirtieth@|@tsosgohine@
+@thirty@|@tsosgohi@
+@this@|@hia@
+@thorn@|@tsutsayosdi@
+@thorough@|@kalii@
+@those@|@nasgi@
+@though@|@unelagi nasgi naskuu@
+@thought@|@nelisá@
+@thoughtful@|@anádadisgá@
+@thoughts@|@nunelisá@
+@thousand@|@agayáli@
+@thousands@|@hilásgi iyagayáli@
+@thrash@|@agatadonadi@
+@thread@|@asdi@
+@threat@|@adananuladi@
+@three@|@tso-i@
+@threw@|@wudinásá@
+@thrift@|@gánidá@
+@thriftiness@|@alisinitanidasdi@
+@thriftness@|@alisinitanidasdi@
+@thrill@|@ulihelitsá@
+@thrilled@|@ulihelitsági@
+@thrilling@|@aliheligoi@
+@throat@|@ayátseni@
+@through@|@digáwalosá@
+@throughout@|@niganáhisá@
+@throw@|@wadinádi@
+@throwing@|@wunadegái@
+@thrown@|@wudinásági@
+@thug@|@didahihi@
+@thunder@|@ayádakualosgá'@
+@Thursday@|@Nágine Iga@
+@thus@|@hia iyá@
+@tick@|@gugu@
+@ticket@|@ayásdodi@
+@tickled@|@duyáganá@
+@tide@|@datsanegá@
+@tie@|@dakanehá@
+@tied@|@dikanelá@
+@tiger@|@tládatsi@
+@tight@|@asdaya@
+@tile@|@galatsododi@
+@till@|@gila@
+@timber@|@adohi@
+@time@|@iyuwakodi@
+@time; ample@|@yelikua atlanádadisgá@
+@times@|@itsuwakodi@
+@tiny@|@usdi@
+@tip@|@agadudesdi@
+@tiptoe@|@diniskwedáhi@
+@tire@|@adla atládi@
+@tired@|@tsuyawetsáhi@
+@tires@|@adla ditládi@
+@toad@|@walosi@
+@toast@|@galeyátaná@
+@tobacco@|@tsola@
+@today@|@gohi iga@
+@today's@|@gohi igohi@
+@toe@|@kanasadá@
+@together@|@itsula@
+@token@|@ádatinelá@
+@told@|@unohelei@
+@toll@|@atledá@
+@tomb@|@ganisahá@
+@ton@|@iyadáni@
+@tone@|@unoyágá@
+@tongue@|@ganágo@
+@tongues@|@diganága@
+@tonight@|@gohi usá@
+@tonnage@|@iga iyatni@
+@tons@|@hilásgi iyatáni@
+@took@|@ugisági@
+@tool@|@gohusdi gátanidasdi@
+@tools@|@gohyusdi digátanidasdi@
+@tooth@|@ganádogá@
+@toothache@|@uyukuadisgá@
+@top@|@gadui@
+@top coat@|@gasalena utana@
+@topic@|@iyusdi kanohedi@
+@torch@|@atsásdadodi@
+@tore@|@gatsagalisgá@
+@torn@|@gatsagaláda@
+@tornado@|@unole@
+@torture@|@adagiliyosdodi@
+@total@|@nigadá gatlisaná@
+@totally@|@gatlisanonáhi@
+@touch@|@asánasdi@
+@touched@|@usánilá@
+@touches@|@asániha@
+@touching@|@asánihái@
+@tough@|@ganetaya@
+@tournament@|@anadagonadádisgá@
+@toward@|@widuyugodá@
+@towards@|@winiduyogodá@
+@town@|@gaduhá@
+@towns@|@degaduhá@
+@township@|@sudali iyutlilodá atliloá@
+@toy@|@diniyoli tsunaneládodi@
+@tub@|@sádoni digágilosdi@
+@tubes@|@tsusádoni@
+@Tuesday@|@Taline Iga@
+@tumbler@|@ulásadá@
+@tumult@|@tsunadalenáda@
+@tune@|@unoyágá@
+@turban@|@alasdulo@
+@turkey@|@gána@
+@turn@|@agatahásdi@
+@turned@|@ugatahásá@
+@turning@|@agatahásá@
+@turnip@|@dakuasaná@
+@turns@|@agataháa@
+@turpentine@|@notsi iyusdi@
+@turtle@|@ulinawi@
+@turtledove@|@golaná@
+@Turtledove Clan@|@Anigolaná@
+@tusk@|@ganadogá@
+@tutor@|@dideyohásgi@
+@twelfth@|@taladusine@
+@twelve@|@talidu@
+@twentieth@|@talisgohine@
+@twenty@|@talasgohi@
+@twice@|@tali iyuwagudi@
+@twin@|@dinilawi@
+@twist@|@asdeyasdi@
+@two@|@talli@
+@type@|@digagodi@
+@types@|@idigagoti@
+@typewriter@|@digowelodi@
+@tyrant@|@ulisgoliya@
+@udder@|@hawinaditlá@
+@ugly@|@unegiládi@
+@ulcer@|@gawosgá@
+@ulterior@|@didalenisgá@
+@ultimo@|@soi tsikalá@
+@umbra@|@adawadisdi@
+@umbrella@|@adawadáisdi@
+@umpire@|@digugodisgi analasgalisgá@
+@unable@|@yeli nulinigágána@
+@unanimous@|@nigadá@
+@unbelief@|@nagohiyuhásgána@
+@unbeliever@|@nigohiyuhásgána@
+@unbind@|@galágisdi@
+@unbutton@|@dikaneyádi@
+@uncertain@|@nuwolisdána@
+@unchristian@|@asgana@
+@uncivilized@|@geyatahi@
+@uncle@|@edutsi@
+@unclean@|@gadaha@
+@unconcertn@|@nugasesdána@
+@unconscious@|@nadelohosgána@
+@uncork@|@asduisdi@
+@uncover@|@gustlesdi@
+@undecided@|@nidaguagadisgána@
+@under@|@hawinaditlá@
+@underclothes@|@hawini dinuwo@
+@underfeed@|@uyosisgi@
+@underground@|@hawinaditlá gadohi@
+@underhand@|@hawinaditlá gátaná@
+@undersell@|@eladitlá digáwalododi@
+@undershirt@|@hawini anuwo@
+@understand@|@golisdi@
+@understanding@|@golisdiyi@
+@understood@|@uwolatsági@
+@undertake@|@aneládodi@
+@undertaker@|@didanisisgi@
+@underwear@|@hawini dinuwo@
+@undo@|@igánadesdi@
+@undoubtedly@|@nudalulána@
+@undress@|@dinuwesdi@
+@undue@|@naskualisgána@
+@uneasy@|@udanátedisgi@
+@unequal@|@igatiha nigesána@
+@uneven@|@itsulaha nigesána@
+@unexpected@|@nágatenohána@
+@unfair@|@niduyugodána@
+@unfit@|@yeli nigána@
+@unfortunate@|@esga iyulisdanehi@
+@unfortunately@|@esgaiyunalisdanelá@
+@unfriendly@|@nunaliiyána@
+@unhappy@|@osdá nudanadána@
+@unheard@|@nadáganána@
+@unhitch@|@galisadesdi@
+@uniform@|@tsutloyiha tsunawosdi@
+@union@|@disakuu unaligohi@
+@unit@|@sakuuha@
+@unite@|@aligodi@
+@universal@|@igáwanadalegi@
+@untied@|@ududadewidá@
+@unworthy@|@uyeliti nigesána@
+@up@|@galáladitlá@
+@uphill@|@kanalusgá@
+@upland@|@gadusi@
+@upon@|@nasgi@
+@upper@|@galáladitlá@
+@upright@|@galáladi agati@
+@uproar@|@unoyáláásgá@
+@uproot@|@kanasdeládi@
+@upset@|@tsulukuadinádi@
+@upstairs@|@galáladi kanásulá@
+@urge@|@ganiladisdi@
+@urged@|@ganiladái@
+@urgent@|@uduladi@
+@urine@|@adikada@
+@us@|@itsula ayá@
+@use@|@gádodi@
+@used@|@gátanáhi@
+@useful@|@ulisgeda@
+@useless@|@nulisgediyána@
+@uses@|@gátanidasdi@
+@usher@|@disehehi@
+@using@|@gádisgái@
+@usual@|@utloyi@
+@usually@|@utloyiha@
+@usury@|@galáladitlá digáwalododi@
+@utensil@|@adasdayadodi@
+@utilize@|@ulisgedá igánedi@
+@utmost@|@wusgoliyá@
+@utter@|@kaneisdi@
+@utterly@|@wulosásdá@
+@vacancies@|@tsusiwa@
+@vacancy@|@udlanádái@
+@vacant@|@usiwa@
+@vacation@|@unatsowesolásdá@
+@vague@|@nuwelisdána@
+@vain@|@nulisgediyána@
+@valley@|@ugedaliyá@
+@valuable@|@tsugáwalodiya@
+@valuation@|@dagáwalodá@
+@value@|@tsugáwalodi@
+@valued@|@dagáwalotaná@
+@values@|@tsugáwalodii@
+@vanity@|@nulosgediyána@
+@varied@|@dutlilostaná@
+@variety@|@tsudalenáda gatlisaná@
+@various@|@tsudalenáda@
+@vary@|@tsudalenahi@
+@velvet@|@dawisgage anuwo@
+@venture@|@aneládodi@
+@verse@|@udatlágá@
+@verses@|@dudatlugá@
+@very@|@udohiyu@
+@veterinarian@|@ganatla aganagati@
+@via@|@nahna iditlá@
+@vice@|@taline adalene@
+@vicinity@|@naánigesdodi@
+@victim@|@atsisonáná@
+@victory@|@adasegogisdi@
+@view@|@dikanodii@
+@views@|@widakanodiyi@
+@village@|@usdi gaduhá@
+@violence@|@analiteláhásgá ganeyegi@
+@violent@|@gánigalasdi ganayegi@
+@violin@|@atliyedi@
+@virtue@|@nasganána@
+@virtues@|@nanisganána@
+@visible@|@gágowadádi@
+@vision@|@agowadádi@
+@visit@|@adawadáhidasdi@
+@visited@|@udawadáhidolági@
+@visiting@|@anadawatisgi@
+@visitor@|@adawadáhidohi@
+@visitors@|@anadawadáhidohi@
+@visits@|@adawatisgi@
+@vital@|@wulisgediyái@
+@vocal@|@aholi unoyágá@
+@vocalize@|@diniholi dunoyágá@
+@voice@|@kanegá uyoyágá@
+@volume@|@gatlisaná goweli@
+@volumes@|@digatlisaná goweli@
+@voluntary@|@uwasá udanáteda@
+@vote@|@adasuyesgá@
+@voted@|@dusuyesá@
+@votes@|@dudasuyesá@
+@voucher@|@adelá digisdodi@
+@vulgar@|@unegiladi gawonihisdi@
+@what@|@gado@
+@What is your name?@|@gado detsadoa@
+@where@|@hadlá@
+@Where do you work?@|@Hadlá detsaláwisdaneho.@
+@wild potato@|@gatagewi@
+@Wild Potato Clan@|@Anigatagewi@
+@wolf@|@wahya@
+@Wolf Clan@|@Aniwahya@
+@woman@|@agehyáa@
+@work; you@|@detsaláwisdaneho@
+@yacht@|@tsiyu@
+@Yahweh (God)@|@Unelanáhi@
+@yam@|@uladáhi@
+@Yankee@|@Unilutsáhi@
+@yard@|@sutlilodá@
+@yards@|@iyutlilodá@
+@yarn@|@uwani asti@
+@yawn@|@uhalogesgá@
+@year@|@sudetiyáda@
+@yearling@|@waga agina@
+@yearly@|@nadetiyáhisâ@
+@years@|@tsudetiyâda@
+@year's@|@iyudetiyáda@
+@yeast@|@gadu asuyádi@
+@yell@|@geluhásdi@
+@yellow@|@dalonige@
+@yellow fever@|@udilehásgi@
+@yellow hammer@|@unegada@
+@yellow jacket@|@tsasgaya@
+@Yerushaláyim (Jerusalem)@|@Tsilusilami@
+@yes@|@á-á@
+@Yeshua (Jesus)@|@Tsisa@
+@yesterday@|@sáhi@
+@yet@|@gila@
+@yield@|@dudayosági@
+@yoke@|@unaliginalo@
+@yolk@|@dalonigesdá uwetsi@
+@yonder@|@nahnai@
+@you@|@nihi@
+@young@|@ayoli@
+@younger@|@ayolige@
+@youngest@|@ayoligesdodi@
+@your@|@nihi@
+@yours@|@nihi tsatseli@
+@yourself@|@tsása@
+@yourselves@|@itsása@
+@youth@|@adásgi@
+@zeal@|@udugi gádi@
+@zealous@|@udugi adadelisedi@
+@zebra@|@soguili tsuliskuadanohi@
+@zeppelin@|@alawidisgi@
+@zero@|@wulosásdá uyádla@
+@zigzag@|@didanádistanáda@
+@zinc@|@gado ulani@
+@Zion@|@Sayani@
+@Zionism@|@Sayani unohiyu@
+@zone@|@elohi asdanáná@
+@zoo@|@tsunadaleláda tsunidodi@
+

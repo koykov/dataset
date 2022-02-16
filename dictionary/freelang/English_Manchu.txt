@@ -1,0 +1,561 @@
+@English@|@Manchu@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a big arrow@|@kejfu@
+@a big monkey@|@bono, mono@
+@a bird that has lost feathers@|@Goqzhi@
+@a k. of duck@|@xongGolon, xongGon@
+@a k. of locust@|@chacharaqu@
+@a k. of oak@|@laxari@
+@a k. of salmon@|@azhin@
+@a k. of upper clothes@|@kurume@
+@a k. of weed@|@xara@
+@a k. of wild millet@|@xife@
+@a measure of weight@|@malin@
+@a poisonous plant@|@gu orxo@
+@a prohibitive particle@|@ume@
+@abstemious@|@malxun@
+@acacia@|@Goro@
+@Adam`s apple@|@boxä; boxäë, buge mongGon@
+@Adam's apple@|@Gungqan@
+@alder@|@dulgik@
+@all@|@gemu, gumä@
+@angle@|@xošo@
+@another@|@Guä, Guwa@
+@appearance@|@arävän, arävun@
+@apron@|@leleke@
+@army@|@chöxa@
+@arrow point@|@atan@
+@at once@|@daritï, dartai@
+@autumn@|@bolori@
+@back@|@dara, darama, darämä@
+@back of the nape@|@gen-dä@
+@bad@|@eru-n@
+@bait@|@be@
+@bamboo bast@|@muchixa@
+@band@|@xata@
+@bast@|@chike-ku@
+@bathe@|@ebiše-, efäsä-, efäšä-@
+@be born@|@banzhä, banzhi-@
+@be divided@|@delxe-@
+@bear@|@lefä, lefu@
+@bear eating ants@|@mochinzhi, mozhix'an@
+@beauty@|@bochä, bocho, bochu@
+@become stronger@|@masi-la@
+@bed@|@besergen@
+@belt@|@xebtexe@
+@bend@|@gexu-, mudan@
+@big@|@amba@
+@bird@|@dei, Gasähä Gasxa@
+@black heron@|@qaralzha@
+@blade of a knife@|@GarGa, Garin@
+@blue fox@|@luka@
+@boat pole@|@guwafu@
+@bon fire@|@Golon tuwa@
+@bone@|@girangä, giranggi@
+@border@|@chikin@
+@branch@|@Garähän@
+@bread worm@|@mobsexe@
+@breast@|@chezhen@
+@breast bone@|@boqšon@
+@breath@|@eräxän, ergen@
+@bridle@|@hadälä, qadälä, xadala@
+@broad@|@mila, mila-xun@
+@building@|@olen, ulen, ülen@
+@cage@|@xorin@
+@cane@|@darGan@
+@cartilage@|@buge, buxe@
+@cat@|@ninuri@
+@catch an epidemic disease@|@majla-@
+@catch fire@|@xur-še-@
+@catching thieves@|@xuzha-chi@
+@cavity@|@kumdu@
+@certainly@|@esi@
+@chimney@|@hulan, xulan@
+@clammy!@|@langaq!, langga-!, langga-langa, langGaq!, langgas!, nangga!@
+@clan@|@xala@
+@clay@|@ilban@
+@clean@|@bolähän, bolähun@
+@clear@|@bolGo@
+@clear of sky@|@GalGa@
+@cloggy@|@langga!@
+@close@|@adaki@
+@clothing@|@utuku@
+@club@|@muqäsan, muqäšan@
+@clumsy@|@lazhu@
+@coeval@|@dungGami@
+@coire@|@oxa-@
+@collar@|@xuberi@
+@cone@|@baxa@
+@convex@|@gukdu@
+@cormorant@|@qarasu@
+@couple@|@qab, qaba@
+@courtyard@|@quarän@
+@cradle made of birch bark@|@duri, durï@
+@crucian@|@monggošun@
+@cypress@|@molori@
+@Daghur@|@daxur@
+@dam@|@qaqu@
+@dark@|@dunggi, dungki@
+@day@|@inängä, inenggi@
+@deceit@|@xolo@
+@deer (3 y. old)@|@lor-bodo@
+@dense@|@loqdi, luku, luqdu@
+@dewlap@|@qanda@
+@diligent@|@qadaraqu@
+@disappear@|@maja-@
+@disorder@|@largin, laxin@
+@distance between@|@alda-, andan@
+@distant@|@g'ala-, g'alä-@
+@diver@|@aqa nexe@
+@division@|@g'alan@
+@donkey@|@eixen, ejxen@
+@don't@|@emä@
+@dragon@|@muduri@
+@drooping branches@|@lasari@
+@dust@|@buraki@
+@earth@|@bohän, bohun, boiGon, boixon@
+@edge@|@Gulaqu@
+@edict@|@xesä@
+@elder brother@|@axun@
+@elder sister's husband@|@efu, efü@
+@emeke@|@emäxä@
+@end@|@dube, duwe, duwu@
+@enmity@|@kimun@
+@esteem@|@qobto@
+@evening@|@d'ovärä, dobori@
+@every one@|@meimeni@
+@evil@|@exä, exe@
+@evil spirit@|@ari@
+@exasperated@|@lala-@
+@face@|@derä, dere@
+@falcon@|@käi@
+@fall down@|@ja-qsa@
+@far@|@Gorä, Goro@
+@fast@|@machixi@
+@fathom@|@da@
+@feather@|@detäxä, detxe@
+@female@|@enen@
+@female of a predator@|@barin, birin@
+@fence@|@biregen, bireken, quwaran@
+@ferret trap@|@dadari@
+@fine@|@keru-n@
+@finger-nail@|@k'atähun, xitaxun@
+@fir cone@|@xuri@
+@firewood@|@Goldon, Golton@
+@first@|@azhi@
+@fish@|@nimaxa@
+@fish glue@|@amdun@
+@flame@|@gulgin@
+@flower button@|@gubsu@
+@fly@|@derxuwe, duräwë, duruwü@
+@fool@|@debse@
+@foot@|@betxe@
+@forehead of an animal@|@doqzhix'an@
+@form@|@durun@
+@fortune@|@xuturi@
+@foster-mother@|@meme@
+@four@|@duin, dujn@
+@fox@|@dobi, dovi@
+@frame@|@beren@
+@friend@|@anda@
+@friendly@|@keb, keo@
+@frozen soil@|@batun@
+@full@|@barun@
+@fur@|@Gatxuwa@
+@furrow@|@irun, jurun@
+@gad-fly@|@bekto@
+@give out a smell of burning@|@xaqsa-@
+@gland@|@chilchin@
+@go along the shore@|@chiki-ra-@
+@goby@|@laqachan nisixa, laqcha nimaxa@
+@grape@|@muchu@
+@green@|@n'owangg'an, n'ung'an, ningän'an@
+@grinder@|@mose-la-qu@
+@gripe@|@xafiraqu@
+@groan@|@en seme@
+@grown-up@|@chiqsin@
+@gruel@|@lala@
+@handsome@|@aj-lungGa@
+@hanger@|@lak'aqu@
+@hard@|@mangGa, mengge@
+@hare@|@Gulmaxun@
+@hasty@|@xaxi@
+@hawk@|@g'ahun, g'axun@
+@head@|@uzhu@
+@head kerchief@|@qamtun@
+@heart@|@naman@
+@heavy@|@niša@
+@hem@|@delbin, zhilbi, zhilbin@
+@herd@|@adu, adun, maru@
+@heron@|@kilaxun@
+@hole@|@qobi@
+@horn foundation@|@zhili@
+@husband's younger brother@|@ina@
+@i@|@bi, bï@
+@in a row@|@doran@
+@in the direction of@|@baru@
+@in-law@|@danchan@
+@inside@|@d'o- do, do-@
+@island@|@buqsa@
+@kidney@|@bosxo@
+@kidneys@|@bosäqu, bošäqu@
+@kneel@|@jaqurä-, jaquru-, n'aqura-@
+@knucklebone@|@baqalazhi@
+@lake@|@omä, omo@
+@large@|@amä@
+@law@|@doron@
+@lean@|@gebsexun@
+@leather sole@|@dabgnaxan@
+@leek@|@ulu@
+@leg@|@betäkä, betäxä@
+@leisurely@|@eläxä, elxe@
+@leopard@|@jarGa, jarxa, jerxe@
+@let into the house@|@xalbu-@
+@lie low@|@keb, keo@
+@lift@|@xete-@
+@loop@|@Gulzharxan@
+@male sable@|@lungga, lunggu@
+@mallet@|@muqšan@
+@man@|@hahä, xaxa@
+@Manchu bread@|@efän, efen@
+@mane@|@delän, delun, dulun@
+@many@|@baran, gerän, geren@
+@marten@|@xarsa@
+@mercy@|@bajli@
+@merely@|@damä, damu@
+@mettled of a horse@|@dabdali, dabduri@
+@moderation@|@xibcha-n@
+@monkey@|@moni@
+@moon@|@biä, bija@
+@mother-in-law@|@emäxä, emeke@
+@mountain@|@alin@
+@mountain peak@|@hadä@
+@mountain ridge@|@zhidun@
+@mouth@|@anga, angä, angga@
+@multitude@|@bazha, buzhu@
+@music@|@kumun@
+@name@|@gebu, gevä@
+@name of a tree@|@mojoro, mujari@
+@name of an edible plant@|@k'ök'ön@
+@near@|@daläfä, dalävä, hanchi, xanchi@
+@neck@|@meifen, mifin, monggon@
+@net@|@alGan@
+@noise@|@quwas@
+@not@|@aqu@
+@nut@|@xusixa@
+@oar@|@melbiku@
+@oats@|@arfa@
+@obey@|@daxa-@
+@obtain@|@bahä-, baxa-@
+@official rank@|@dorän@
+@old@|@duru-@
+@one of a pair@|@Gaqda, Gaqta@
+@oneself@|@meni meni@
+@onion@|@elu@
+@opposite@|@baqchin, bazhi-la@
+@order@|@idu, xese@
+@orphan@|@anaqu@
+@pale@|@gelfen@
+@partition@|@chaxin@
+@pea@|@boxori@
+@peaceful@|@bezhig'e-@
+@pelvis@|@du, dü@
+@penis@|@chocho@
+@pestle@|@mala@
+@picture@|@duru-Gan@
+@pike@|@xoro@
+@pimple@|@buturi@
+@place@|@ba, baa@
+@plant oil@|@malangGu@
+@plenty@|@labdu@
+@plough@|@anzha@
+@plough thills@|@Goqchi@
+@pluck out@|@isi-@
+@power@|@xusun@
+@precipice@|@boran@
+@predilection@|@dalxi@
+@proposed for marriage@|@ba-chixi@
+@puppy@|@deväräxän@
+@quickly@|@ebuxu, qas, sabuxu@
+@rabbit@|@Gulämahun@
+@rain@|@aGa@
+@rebuke@|@dangsi-@
+@reed@|@Gurbin@
+@regulate@|@dasa-, dasä-@
+@relative-in-law@|@keli@
+@remember@|@ezhe-, kidu-@
+@return@|@mari-@
+@ring@|@muxi@
+@ringing sound@|@qonggir@
+@river@|@bira, biraa@
+@rock@|@xada@
+@roe@|@g'o@
+@rook@|@qaraki@
+@room space@|@g'alän@
+@roomy@|@delfin@
+@root@|@da, daa@
+@row@|@girin@
+@sabre@|@loxo@
+@salmon@|@k'ata@
+@scarcely@|@aräqän, arqan@
+@scoundrel@|@kesemburu@
+@scrape@|@quwa-fixa-@
+@shadow@|@xelme@
+@shape@|@arbun@
+@sharp@|@da-chun, dachun@
+@shavings@|@chikiri@
+@she@|@ï@
+@sheath@|@xomxon@
+@shell@|@qaiqari@
+@shine@|@gilta-@
+@shore@|@girin@
+@shortcoming@|@eden@
+@short-tailed mouse@|@muqtun@
+@side@|@dalba@
+@silly@|@beli@
+@sinker@|@ilmen@
+@sister's son@|@inä@
+@skin clothes@|@qachiki@
+@sky@|@abqa@
+@slope of a mountain@|@antu@
+@small boat@|@weiku@
+@small child@|@azhi-ge, azhigä@
+@small wave@|@dol-chin@
+@snare@|@dan@
+@soldier@|@chuahä@
+@soon@|@da-rtaj@
+@soot@|@xosori, xusuri@
+@sour@|@Gosähun, Gosi-xon@
+@sow@|@mahätä-, maqätä-, maqta-@
+@spider@|@xelmeku, xelmexen@
+@spot@|@mersen@
+@spring@|@biraGa, birGan, birxa@
+@squeeze in arms@|@chechere-@
+@stake@|@bon@
+@steep bank@|@mudun@
+@steppe@|@biGan, bihan, bixan, detu@
+@steppe hare@|@malaxi@
+@stern@|@xude@
+@stick to@|@dalu-@
+@stomach@|@xefali, xefeli@
+@stout@|@zhiraxun@
+@stove@|@Guwa-xan@
+@straight road@|@doqo@
+@string@|@Guran@
+@stroke@|@bilu-@
+@stump@|@mukdexen@
+@stupid@|@dulba@
+@suspect@|@kenexunzhe-@
+@swallow@|@chibin@
+@swamp@|@johärän, johurun, jöxon, lebenggi@
+@swan@|@Garu@
+@sword@|@lohä@
+@tag of boots@|@derde-xun@
+@take@|@ali-, iali-@
+@tall@|@den, Godo-xon@
+@teethless@|@mentexe@
+@that@|@cha-@
+@the same@|@ineku@
+@thick@|@zhiramä, zhiramin@
+@thigh@|@n'ungï@
+@this@|@erä, ere@
+@thorn@|@bälaa@
+@three@|@ilan@
+@thresh@|@du-, dü-@
+@throat@|@bilähaa, bilxa, mungan@
+@time@|@erin@
+@to agree@|@chixala-@
+@to agree upon time@|@bila-@
+@to arrange in order@|@idure-, idure-@
+@to attack@|@afa-@
+@to be@|@bi-@
+@to be ashamed@|@jerte-@
+@to be bashful@|@irätä-@
+@to be beaten@|@mekere-@
+@to be enough@|@iši-@
+@to be fond of@|@chixa@
+@to be frightened@|@quli-@
+@to be in time@|@amächä-@
+@to be inimical@|@kimu-le-@
+@to be possessed@|@Gajla-@
+@to be sad@|@gila-, gilacha-, gilazha-, gingGa-, gingqa-@
+@to be satiated@|@ebi-@
+@to be tired@|@abuliqabi@
+@to become blunt@|@mufujen@
+@to become dizzy@|@maqa-@
+@to become exhausted@|@absa-@
+@to bend@|@boqto, buqda-, buqtu@
+@to bend over@|@mita-@
+@to bend upwards@|@xotoro-@
+@to bite@|@kemki-@
+@to bow one's head@|@xuzhu-@
+@to burn@|@dejzhi-, dezhi-, dizhi-, lur lur@
+@to carve@|@g'a-, geje-@
+@to check@|@kimächi-, kimchi-@
+@to choke@|@chili-, xaGa-@
+@to close@|@dali-@
+@to come near@|@ibe-@
+@to congeal@|@melme-@
+@to contain@|@am-si-da-lar, hu-xun-mij, uk-, ukulï-, uxil-, uxu-@
+@to contest@|@Galgi-@
+@to cover@|@dasi-, elbe-@
+@to creep@|@m'uchi-, michu-, mizhi-, muchi-@
+@to cross a river@|@dau-, dö-@
+@to curse@|@esuk'e-, Gasähä-@
+@to cut@|@choli-@
+@to dampen@|@derbe-@
+@to deceive@|@xolto-, xoššo-@
+@to decrease@|@eke-, eki-@
+@to delve@|@qori-@
+@to delve with a stake@|@bo-@
+@to die@|@buche- bechä-@
+@to dig@|@matala-@
+@to disappear@|@burubu-@
+@to disgrace@|@Gutubu-@
+@to doubt@|@buxe-@
+@to enclose@|@quwara-@
+@to enter@|@ji-be-@
+@to escape@|@bojxolo-@
+@to explain@|@g'angna-@
+@to fall@|@guku-@
+@to fine@|@keru-le-@
+@to flap wings@|@debdere-, debsi-@
+@to fly@|@dei-, deje-, dii-@
+@to follow@|@dara-@
+@to form@|@bulzha-@
+@to form of pimples@|@busxe-ne-@
+@to freeze@|@beje-@
+@to gallop@|@g'axala-cha-@
+@to gather in herds@|@xanchi-la-@
+@to get accustomed@|@dubi-@
+@to give@|@bu-@
+@to glue@|@bilcha-@
+@to grind@|@mose-la-@
+@to grip with claws@|@chamna-@
+@to guard@|@qarma-, xarša@
+@to hang@|@laka-@
+@to harm@|@bele-@
+@to have enough@|@ele-@
+@to hear@|@donzhi-@
+@to incline@|@chuqu-@
+@to indulge@|@Gajsilabu-@
+@to kick@|@bašila-@
+@to knock@|@kete-qata@
+@to land@|@kude-@
+@to laugh@|@inzhä-, inzhi-@
+@to lean@|@daja-@
+@to lick@|@ile-@
+@to lie@|@dedu-, dudu-@
+@to look down on@|@qasana-@
+@to lose weight@|@machä-, machu-@
+@to make@|@ara-@
+@to make facing@|@zhilbi-@
+@to massage@|@m'onzhi-@
+@to measure@|@mali-@
+@to memorize@|@ezhä-@
+@to move forward@|@ivenä-@
+@to neigh@|@ilcha-, incha-@
+@to open@|@li-, nej-@
+@to paw@|@ekte-@
+@to peck@|@chonggi-, chongki-@
+@to perish@|@guku-@
+@to pick out seeds@|@ib'axala-, ibaxa zhafa-@
+@to pierce through@|@kejfule-@
+@to play of animals@|@Guja-@
+@to pour@|@dö-la-, dolä-, dolu-@
+@to press@|@qamni-, xafira-@
+@to prick@|@nuqa-@
+@to put on@|@etu-, utu-@
+@to raise hands@|@lebkide-@
+@to reach@|@am-bu-, am-cha-, isi-@
+@to reel@|@xerchi-, xergi-@
+@to reflect light@|@gelmarche-, gelmerzhe-@
+@to refuse@|@mara-@
+@to regret@|@ala-@
+@to rest@|@erge-@
+@to roll@|@xorgi-, xurgi-@
+@to row@|@melbi-@
+@to run@|@Garda-@
+@to run quickly@|@aja-@
+@to sacrifice@|@diovi-, dobo-@
+@to save@|@aj-sila-@
+@to set fire@|@dobu-@
+@to shiver@|@dergi-@
+@to sing@|@leje-@
+@to sing a song@|@iräxävä-, irgebu-@
+@to sing obscene songs@|@jeke-@
+@to slander@|@achuxa-da-, achuxan@
+@to sleep@|@amga-, amxa-@
+@to smear@|@ilba-, lifa-@
+@to speak@|@xendu-@
+@to splash@|@bulxu-@
+@to split@|@dendä-, dende-@
+@to sprinkle with wine@|@gile-@
+@to sprout@|@chiq-zhala-@
+@to squeeze@|@monzhi-@
+@to stand@|@ila-, ili-@
+@to start@|@zhura-@
+@to stick into@|@choki-@
+@to stretch@|@dara-@
+@to stuff@|@chibu-@
+@to swallow@|@nungämä, nungäumä nunggi-, nungge-@
+@to sway@|@dergiše-@
+@to swear@|@gasxu-@
+@to take@|@Gaj-, Gia-@
+@to tell@|@alä, ala-@
+@to think@|@Goni-, Guni-@
+@to tie up@|@boxi-@
+@to touch@|@xisxa-@
+@to unite@|@ada-@
+@to untie@|@uxulï-, xuku-, xuku-, xukulitchi-@
+@to wake up@|@getä-@
+@to walk round@|@g'ari-@
+@to weaken@|@k'atu-@
+@to wish@|@buje-@
+@to worry@|@esäxinä-, isixinä-@
+@to wrap@|@xuku-@
+@to wrap up@|@machi-@
+@together@|@h'avirähun, havirähun@
+@top@|@de-le, de-n@
+@tough@|@zhuktu@
+@tree@|@mö, moo@
+@trot@|@nolxu-@
+@troublesome@|@larixin@
+@trout@|@marma nisixa@
+@tune@|@dejenggu@
+@uneasiness@|@kušu-n@
+@unripe@|@usäxän, usuxun@
+@unsuccessful@|@laqu, laxu@
+@upper clothes@|@etuku@
+@upper short clothes@|@cheke@
+@uvula@|@ilmaxa@
+@valley@|@golo@
+@vein@|@kuxen@
+@velvet@|@chekemu@
+@vertical@|@Godoxon@
+@voice@|@zhilGan@
+@wadded coat@|@xubtu@
+@warm cotton trousers@|@laqu@
+@we@|@be, bö, mesä, muse@
+@weak@|@ebe-ri, ebi-lun@
+@well@|@xuchin@
+@wet@|@derbe-xin, derbu-xun@
+@white@|@gilätärä-@
+@whitebaits@|@mungku@
+@whole@|@gulxun, mujaxun@
+@wholely@|@bilchi, bulzhi@
+@wife@|@asä, ašä@
+@wild boar@|@dorGori@
+@wild duck@|@luxu@
+@wish@|@chihalä-@
+@woman@|@xexä, xexe@
+@woodpecker@|@kurexu@
+@worn out@|@mana-, manä-@
+@write@|@juru-, niru-@
+@year@|@ana, ani@
+@year of the monkey@|@boni@
+@young of badger@|@jandachi@
+@young of birds@|@deberen, xojxo@
+@young pig@|@mihan, mixachan, mixan@
+

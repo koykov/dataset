@@ -1,0 +1,4567 @@
+@English@|@Polish@
+@Author name@|@Maciej Cz.@
+@Font@|@Arial\12\Arial\12@
+@-@|@myślnik@
+@!@|@wykrzyknik@
+@(stone) mason@|@kamieniarz@
+@.@|@kropka@
+@0@|@sto@
+@00@|@tysiąc@
+@00000@|@milion@
+@1@|@one@
+@2@|@dwa@
+@3@|@trzy@
+@4@|@cztery@
+@9@|@dziewięć@
+@a certain@|@jakiś@
+@a freak of nature@|@wybryk natury@
+@a year ago@|@rok temu@
+@A.D.@|@Roku Pańskiego@
+@a.m.@|@przed południem, rano@
+@A.M.@|@przed południem, rano@
+@aback@|@być zaskoczonym@
+@abacus@|@abakus@
+@abacuses@|@abakusy@
+@abandon@|@opuścić, porzucić@
+@abandon all hope@|@porzucić całą nadzieję, porzucić wszelką nadzieję@
+@abandoned@|@opuszczony, porzucony@
+@abandoner@|@porzucający@
+@abandoning@|@porzucanie, porzucenie@
+@abandonment@|@opuszczenie, porzucenie, zaniechanie@
+@abase@|@poniżać się, upokarzać się@
+@abased@|@poniżony, upokorzony@
+@abasement@|@poniżenie, upokorzenie@
+@abasements@|@poniżenia, upokorzenia@
+@abash@|@speszyć się, zawstydzić się, zmieszać się@
+@abashed@|@speszony, zmieszany@
+@abashing@|@peszący, speszenie, zawstydzający, zawstydzenie@
+@abashment@|@speszenie, zawstydzenie, zmieszanie@
+@abate@|@osłabnąć, zelżeć@
+@abatement@|@obniżka, zniżka@
+@abatements@|@obniżki, zniżki@
+@abater@|@obniżający, zniżający@
+@abates@|@obniża, zniża@
+@abating@|@obniżanie, zniżanie@
+@abatis@|@zasieki@
+@abattis@|@zasieki@
+@abattoir@|@rzeźnia@
+@abbess@|@matka przełożona@
+@abbey@|@opactwo@
+@abbeys@|@opactwa@
+@abbot@|@opat@
+@abbots@|@opaci@
+@abbreviate@|@skracać@
+@abbreviated@|@skrócony@
+@abbreviates@|@skraca@
+@abbreviating@|@skracający@
+@abbreviation@|@skrót@
+@abbreviations@|@skróty@
+@abdicate@|@abdykować, zrzekać się@
+@abdicate the throne@|@zrzec się tronu@
+@abdication@|@abdykacja, zrzeczenie się@
+@abdomen@|@brzuch@
+@abdomens@|@brzuchy@
+@abdominal@|@brzuszny@
+@abduct@|@porwać, porywać, uprowadzać, uprowadzić@
+@abducted@|@porwany, uprowadzony@
+@abduction@|@porwanie, uprowadzenie@
+@abductions@|@porwania, uprowadzenia@
+@abductor@|@porywacz@
+@abductors@|@porywacze@
+@abducts@|@porywa, uprowadza@
+@abed@|@w łóżku@
+@aberration@|@aberracja, odchylenie@
+@aberrational@|@odchylający@
+@aberrations@|@odchylenia@
+@abet@|@nakłaniać do przestępstwa@
+@abetment@|@nakłonienie do przestępstwa@
+@abets@|@nakłania do przestępstwa@
+@abetted@|@nakłoniony do przestępstwa@
+@abetter@|@nakłaniający do przestępstwa@
+@abetting@|@nakłanianie do przestępstwa@
+@abettor@|@nakłaniający do przestępstwa@
+@abeyance@|@stan zawieszenia@
+@abhor@|@brzydzić się, czuć odrazę, czuć wstręt@
+@abhorrence@|@odraza, wstręt@
+@abhorrent@|@odrażający, wstrętny@
+@abhorrer@|@czujacy odrazę, czujący wstręt@
+@abhorring@|@czując odrazę, czując wstręt@
+@abhors@|@czuje odrazę, czuje wstręt@
+@abidance@|@tolerowanie, wytrzymywanie, znoszenie@
+@abide@|@tolerować, wytrzymywać, znosić@
+@abide by@|@przestrzegać (coś)@
+@abided@|@tolerowany, znoszony@
+@abides@|@toleruje, wytrzymuje, znosi@
+@abiding@|@stały, trwały@
+@abidingly@|@stale, trwale@
+@abilities@|@umiejętności, zdolności@
+@ability@|@umiejętność, zdolność@
+@abject@|@nędzny, podły, skrajny@
+@abject conditions@|@nędzne warunki@
+@abject imitation@|@nędzna imitacja@
+@abjection@|@nędza@
+@abjections@|@nędze@
+@abjectly@|@nędznie, podle@
+@abjectness@|@nędza@
+@abjuration@|@wyparcie się@
+@abjure@|@wypierać się (czegoś), wyrzekać się (czegoś)@
+@abjured@|@wyparty, wyrzeknięty@
+@abjurer@|@wypierający się, wyrzekający się@
+@abjuring@|@wypierając się, wyrzekając się@
+@ablaze@|@rozświetlony, w płomieniach@
+@able@|@będący w stanie coś zrobić, utalentowany, zdolny@
+@able-bodied@|@silny, zdrowy@
+@abloom@|@kwitnący@
+@ablution@|@obmycie, umycie@
+@ablutions@|@obmycia@
+@ably@|@sprawnie, zręcznie@
+@abnegate@|@wyrzekać się (czegoś)@
+@abnegated@|@wyrzeczony@
+@abnegation@|@abnegacja, wyrzeczenie się@
+@abnormal@|@nienormalny, nieprawidłowy@
+@abnormalities@|@nienormalności@
+@abnormality@|@nienormalność, nieprawidłowość@
+@abnormally@|@nienormalnie, nieprawidłowo@
+@aboard@|@na pokład, na pokładzie@
+@abode@|@miejsce zmieszkania, sadyba@
+@abolish@|@obalać, znieść@
+@abolish slavery@|@znieść niewolnictwo@
+@abolished@|@obalony, zniesiony@
+@abolisher@|@obalający, znoszący@
+@abolishers@|@obalajacy, znoszący@
+@abolishes@|@obalenia, znoszenia@
+@abolishing@|@obalając, znosząc@
+@abolishment@|@obalenie, zniesienie@
+@abolishments@|@obalenia, znoszenia@
+@abolition@|@obalenie, zniesienie@
+@abolitionism@|@abolicjonizm@
+@abolitionist@|@abolicjonista@
+@abolitionists@|@abolicjoniści@
+@abominable@|@obrzydliwy, wstrętny@
+@abominably@|@obrzydliwie, wstrętnie@
+@abominate@|@czuć wstręt (do kogoś/czegoś)@
+@abomination@|@obrzydzenie, wstręt@
+@aboriginal@|@pierwotny, początkowy@
+@aborigine@|@Aborygen@
+@aborigines@|@Aborygeni@
+@abort@|@przerwać, zaniechać, zrezygnować@
+@abort a pregnancy@|@przerwać ciążę@
+@aborted@|@przerwany, zaniechany@
+@aborting@|@przerywając, zaniechując@
+@abortion@|@aborcja@
+@abortions@|@aborcje@
+@abortive@|@nieskuteczny, nieudany@
+@abortively@|@aborcyjnie@
+@aborts@|@przerywa@
+@abound@|@być w obfitości, obfitować@
+@abounding@|@obfitujący@
+@abounds@|@obfituje@
+@about@|@dookoła, o, około, prawie, w pobliżu@
+@about-turn@|@zwrot o 180°@
+@above@|@nad, ponad, powyżej, powyżej, wyżej, wyżej@
+@above all@|@ponad wszystko, przede wszystkim@
+@aboveboard@|@legalny, uczciwy@
+@above-mentioned@|@wyżej wymieniony@
+@abrade@|@otrzeć (skórę), przetrzeć się@
+@abrasion@|@otarcie (skóry)@
+@abrasive@|@szorstki, ścierny@
+@abreast@|@obok siebie, ramię w ramię@
+@abridge@|@skracać@
+@abridged@|@skrócony@
+@abridgement@|@wersja skrócona@
+@abroad@|@za granicą, za granicę@
+@abrupt@|@nagły, obcesowy, raptowny@
+@abruptly@|@nagle, obcesowo, raptownie@
+@abruptness@|@nagłość, obcesowość@
+@abscess@|@ropień, wrzód@
+@abscond@|@uciec, zbiec@
+@absence@|@nieobecność@
+@absent@|@nieobecny@
+@absentee@|@nieobecny@
+@absenteeism@|@absencja@
+@absently@|@bezmyślnie, nieuważnie@
+@absent-minded@|@roztargniony@
+@absent-mindedly@|@w roztargnieniu@
+@absent-mindedness@|@roztargnienie@
+@absolute@|@absolutny, całkowity@
+@absolutely@|@absolutnie, całkowicie, oczywiście@
+@absolution@|@rozgrzeszenie@
+@absolve@|@przebaczać, rozgrzeszać@
+@absorb@|@absorbować, przyswajać, wchłaniać@
+@absorbed@|@pochłonięty@
+@absorbent@|@wchłaniający@
+@absorbing@|@absorbujący, pasjonujący@
+@absorption@|@przyswajanie, wchłanianie@
+@abstain@|@powstrzymywać się, wstrzymywać się@
+@abstemious@|@wstrzemięźliwy@
+@abstention@|@wstrzymywanie się od głosu@
+@abstinence@|@abstynencja, wstrzemięźliwość@
+@abstract@|@abstrakcyjny, abstrakcyjny, skrót, wyciąg, wyciągać (coś z czegoś), wydobyć@
+@abstract2@|@skrót, wyciąg@
+@abstract3@|@wyciągnąć (coś z czegoś), wydobyć@
+@abstracted@|@roztargniony@
+@abstractedly@|@w roztargnieniu@
+@abstraction@|@abstrakcja@
+@abstruse@|@niezrozumiały, zawiły@
+@absurd@|@absurdalny, niedorzeczny@
+@absurdity@|@absurd, niedorzeczność@
+@abundance@|@obfitość@
+@abundant@|@obfity@
+@abundantly@|@obficie@
+@abuse@|@maltretować, nadużywać, wykorzysywać, znęcać się@
+@abuse2@|@nadużycie, nadużywanie, obrażać, znieważać@
+@abuse3@|@maltretowanie, obelgi, znęcanie się@
+@abusive@|@obelżywy, obraźliwy@
+@abusively@|@obelżywie, obraźliwie@
+@abut@|@graniczyć (z czymś), stykać się@
+@abysmal@|@beznadziejny, fatalny@
+@abysmally@|@beznadziejnie, fatalnie@
+@abyss@|@otchłań, przepaść@
+@acacia@|@akacja@
+@academic@|@akademicki, naukowy, teoretyczny@
+@academic2@|@nauczyciel akademicki, naukowiec@
+@academically@|@naukowo@
+@academy@|@akademia, uczelnia@
+@accede@|@przychylic się, zgodzić się@
+@accelerate@|@przyspieszać@
+@acceleration@|@przyspieszenie@
+@accelerator@|@akcelerator, gaz (w samochodzie), pedał gazu@
+@accent@|@akcent, nacisk@
+@accent2@|@akcentować@
+@accentuate@|@podkreślać, uwypuklać@
+@accentuation@|@nacisk, podkreślenie@
+@accept@|@pogodzić się, przyjmować, zaakceptować@
+@acceptability@|@możliwość przyjęcia@
+@acceptable@|@do zaakceptowania, możliwy do przyjęcia@
+@acceptance@|@akceptacja@
+@access@|@dojście, dostęp@
+@access road@|@droga dojazdowa@
+@accessible@|@dostępny, przystępny@
+@accession@|@dojście (do czegoś)@
+@accessory@|@akcesoria, dodatek (do ubioru), współsprawca, wyposażenie@
+@accident@|@wypadek@
+@accidental@|@przypadkowy@
+@accidentally@|@przypadkowo@
+@accident-prone@|@podatny na wypadki@
+@acclaim@|@przyjmować z uznaniem, uznanie@
+@acclamation@|@aklamacja@
+@acclimatization@|@aklimatyzacja@
+@acclimatize@|@aklimatyzować się@
+@accolade@|@pochwała, uznanie@
+@accommodate@|@dostosować, przystosować, ulokować, zakwaterować@
+@accommodating@|@uczynny@
+@accommodation@|@nocleg, zakwaterowanie@
+@accompaniment@|@akompaniament, dodatek@
+@accompanist@|@akompaniator@
+@accompany@|@akompaniować, towarzyszyć@
+@accomplice@|@współsprawca, współwinny@
+@accomplish@|@dokonać, osiągnąć@
+@accomplishment@|@dokonanie, osiągnięcie, umiejętność, uzdolnienie@
+@accord@|@być w zgodzie, porozumienie, uzgodnienie, zgadzać się@
+@accordance@|@zgoda, zgodność@
+@according to@|@według, zgodnie z@
+@accordingly@|@odpowiednio, stosownie do@
+@accordion@|@akordeon@
+@accost@|@zaczepić, zagadnąć@
+@account@|@konto, kredyt, rachunek (w banku), relacja, sprawozdanie@
+@account for@|@wyjaśniać, wyliczać się (z czegoś), wytłumaczyć się (z czegoś)@
+@accountability@|@odpowiedzialność@
+@accountable for (sth)@|@odpowiedzialny (za coś)@
+@accountable to (sb)@|@odpowiedzialny (przed kimś)@
+@accountancy@|@księgowość@
+@accountant@|@księgowy@
+@accounting@|@księgowość, rachunkowość@
+@accountrements@|@ekwipunek, wyposażenie@
+@accounts@|@księgowość, rachunkowość@
+@accredit@|@akredytować@
+@accreditation@|@akredytacja@
+@accredited@|@akredytowany@
+@accretion@|@narastanie@
+@accrue@|@narastać, wzrastać@
+@accumulate@|@gromadzić się@
+@accumulation@|@nagromadzenie@
+@accuracy@|@dokładność@
+@accurate@|@dokładny@
+@accurately@|@dokładnie@
+@accusation@|@oskarżenie@
+@accusatory@|@oskarżycielski@
+@accuse@|@oskarżać (kogoś o coś)@
+@accused@|@oskarżony@
+@accuser@|@oskarżyciel@
+@accusing@|@oskarżycielski@
+@accusingly@|@oskarżycielsko@
+@accustom@|@przyzwyczajać@
+@accustomed@|@przyzwyczajony@
+@ace@|@as@
+@acerbic@|@cierpki, zgryźliwy@
+@acerbity@|@cierpkość, zgryźliwość@
+@acetone@|@aceton@
+@ache@|@boleć, ból@
+@aching@|@bolesny@
+@achivably@|@osiągalny@
+@achive@|@osiągnąć@
+@achivement@|@osiągnięcie@
+@achy@|@obolały@
+@acid@|@kwas, kwaśny@
+@acidify@|@zakwaszać@
+@acidity@|@kwasowość@
+@acknowledge@|@potwierdzić, uznać, wyrazić podziękowanie@
+@acknowledgement@|@podziękowanie, potwierdzenie odbioru, uznanie@
+@acme@|@szczyt@
+@acne@|@trądzik@
+@acorn@|@żołądź@
+@acoustic@|@akustyczny@
+@acoustics@|@akustyka@
+@acquaintance@|@znajomość, znajomy@
+@acquainted@|@zapoznany, zaznajomiony@
+@acquiesce@|@przyzwalać, zgadzać się@
+@acquiescence@|@przyzwolenie, zgoda@
+@acquiescent@|@przyzwalający, zgodny@
+@acquire@|@nabyć, zdobyć@
+@acquired@|@nabyty@
+@acquisition@|@nabycie, nabytek@
+@acquisitive@|@zachłanny@
+@acquit@|@uniewinniać@
+@acquittal@|@spłacenie, uniewinnenie@
+@acre@|@akr@
+@acreage@|@areał, powierzchnia@
+@acrid@|@gryzący, kwaskowaty, ostry@
+@acridity@|@cierpkość, kwaskowatość@
+@acrimonious@|@cierpki, zaciekły, zażarty, zgorzkniały@
+@acrimoniously@|@zaciekle, zawzięcie@
+@acrimony@|@cierpkość, zażartość@
+@acrobat@|@akrobata, akrobatka@
+@acrobatic@|@akrobatyczny@
+@acrobatics@|@akrobatyka@
+@acronym@|@akronim@
+@across@|@po drugiej stronie, poprzez, przez, wszerz@
+@act@|@akt, czyn, działać, gra, grać (w teatrze), uchwała@
+@acting@|@aktorstwo, pełniący obowiązki@
+@action@|@akcja, działanie, postępowanie sądowe@
+@activate@|@uruchamiać, wzbudzać@
+@active@|@aktywny, czynny@
+@actively@|@aktywnie, czynnie@
+@activist@|@działacz@
+@activity@|@czynność, działalność, ożywienie, zajęcie@
+@actor@|@aktor@
+@actress@|@aktorka@
+@actual@|@faktyczny, rzeczywisty@
+@actuality@|@ralizm, rzeczywistość@
+@actualize@|@urzeczywistnić, zrealizować@
+@actually@|@faktycznie, rzeczywiście@
+@actuate@|@pobudzić, uruchomić@
+@acuity@|@ostrość@
+@acumen@|@bystrość, wnikliwość@
+@acupuncture@|@akupunktura@
+@acute@|@bystry, dotkliwy, ostry, wnikliwy@
+@acuteness@|@bystrość, ostrość, wnikliwość@
+@ad@|@ogłoszenie, reklama@
+@ad infinitum@|@w nieskończoność@
+@ad lib@|@bez przygotowania, impromizowany, improwizować@
+@ad nauseam@|@do znudzenia@
+@adage@|@maksyma, przysłowie@
+@adamant@|@nieugięty, niewzruszony@
+@adamantine@|@nieugięty, twardy@
+@adamantly@|@nieugięcie@
+@Adam's apple@|@grdyka@
+@adapt@|@adaptować, dostosować (się), przystosować (się)@
+@adaptability@|@zdolność przystosowania się@
+@adaptable@|@łatwo przystosowujący się@
+@adaptation@|@adaptacja, przystosowanie się@
+@adapter@|@przejściówka, rozgałęziacz@
+@adaptor@|@rozgałęziacz@
+@add@|@dodawać@
+@addendum@|@dodatek, uzupełnienie@
+@adder@|@żmija@
+@addict@|@nałogowiec, narkoman@
+@addicted (to sth)@|@uzależniony (od czegoś)@
+@addiction@|@nałóg, uzależnienie@
+@addictive@|@uzależniający@
+@adding@|@dodawanie@
+@addition@|@dodatek, dodawanie@
+@additional@|@dodatkowy@
+@additionally@|@dodatkowo@
+@additive@|@dodatek, przyprawa@
+@addle@|@nieświeży, przyćmiony, zepsuty@
+@addled@|@nieświerzy, otumaniony, zepsuty@
+@address@|@adres, adresować, przemawiać, przemówienie@
+@addressee@|@adresat, adresatka@
+@adduce@|@powoływać się@
+@adenoids@|@trzeci migdał, wyrośle adenoidalne@
+@adept@|@biegły@
+@adept (at/in sth)@|@biegły (w czymś)@
+@adequacy@|@adekwantność@
+@adequate@|@dostateczny, odpowiedni, właściwy, wystarczający@
+@adequately@|@dostatecznie, odpowiednio, wystarczająco@
+@adhension@|@aprobata, poparcie@
+@adhere@|@przylegać, stosować się@
+@adherence@|@lgnięcie, przyleganie, przywieranie@
+@adherence (to sth)@|@przestrzeganie (czegoś), stosownie (do czegoś)@
+@adherent@|@przylegający, stronnik@
+@adhesion@|@przyleganie@
+@adhesive@|@lepki, lgnący, przylegajacy, substancja klejąca@
+@adhesive tape@|@przylepiec, taśma klejąca@
+@adieu@|@pożegnanie@
+@adit@|@dostęp@
+@adj@|@przymiotnik@
+@adjacency@|@graniczenie, przyleganie@
+@adjacent@|@przyległy, sąsiedni@
+@adjectival@|@przymiotnikowy@
+@adjective@|@przymiotnik@
+@adjoin@|@przylegać (do czegoś), sąsiadować@
+@adjoining@|@przyelgły, sąsiedni@
+@adjourn@|@odraczać@
+@adjournment@|@odroczenie@
+@adjudge@|@rozstrzygać@
+@adjudicate@|@rozsądzać, rozstrzygać@
+@adjudication@|@osąd, werdykt, wyrok@
+@adjudicator@|@juror, sędzia@
+@adjunct@|@pomocnik, przydawka@
+@adjust@|@dostosować (się), nastawić, wyregulować@
+@adjustable@|@regulowany@
+@adjustment@|@dostrojenie, poprawka, regulacja@
+@administer@|@aplikować, dawać, zarządzać@
+@administration@|@administracja, zarządzanie@
+@administrative@|@administracyjny@
+@administrator@|@administrator@
+@admirable@|@godny podziwu, wspaniały@
+@admirably@|@wspaniale@
+@admiral@|@admirał@
+@admiralty@|@admiralicja@
+@admiration@|@podziw@
+@admire@|@podziwiać@
+@admirer@|@wielbiciel@
+@admiringly@|@z podziwem@
+@admiriring@|@pełen podziwu@
+@admissibility@|@dopuszczalność@
+@admissible@|@dopuszczalny@
+@admission@|@opłata za wstęp, przyznanie się, wstęp@
+@admit@|@przyznać się (do czegoś), przyznać że@
+@admittance@|@wstęp@
+@admitted@|@uznany@
+@admittedly@|@bezsprzecznie, co prawda, niewątpliwie, trzeba przyznać że, wprawdzie@
+@admixture@|@domieszka@
+@admonish@|@karcić, upominać@
+@admonition@|@upomnienie@
+@admonitory@|@ostrzegawczy, upominający@
+@ado@|@zamieszanie@
+@adolescence@|@wiek dojrzewania@
+@adolescent@|@młodociany, nastolatek, nieletni@
+@adopt@|@adoptować, przyjmować@
+@adopted@|@adoptowany@
+@adoption@|@adopcja@
+@adoptive@|@przybrany@
+@adorable@|@cudowny, godny podziwu, rozkoszny, uroczy@
+@adoration@|@adoracja, uwielbienie@
+@adore@|@uwielbiać@
+@adorer@|@wielbiciel@
+@adorn@|@ozdabiać, zdobić@
+@adornment@|@ozdoba, zdobienie@
+@adrenalin@|@adrenalina@
+@adrift@|@dryfować, na fali@
+@adroit@|@pomysłowy, sprytny, zręczny@
+@adroitly@|@sprytnie, zręcznie@
+@adroitness@|@pomysłowość, spryt, zręczność@
+@adsurdly@|@absurdalnie, niedorzecznie@
+@adulate@|@przypochlebiać się, schlebiać@
+@adulation@|@pochlebstwo, przypochlebianie się, schlebianie@
+@adulator@|@pochlebca@
+@adulatory@|@schlebiający@
+@adult@|@dojrzały, dorosły@
+@adulterate@|@fałszować, oszukiwać@
+@adulteration@|@fałszowanie@
+@adulterer@|@cudzołożnik@
+@adultery@|@cudzołóstwo@
+@adulthood@|@dorosłość@
+@adultress@|@cudzołożnica@
+@adumbrate@|@naszkicować, zapowiedzieć@
+@adumbration@|@szkic, zapowiedź@
+@adv@|@przyszłówek@
+@advance@|@awansować, posuwać się naprzód, robić postępy@
+@advanced old age@|@późna starość@
+@advance-guard@|@straż przednia@
+@advancement@|@posunięcie naprzód@
+@advantage@|@korzyść, przewaga, zaleta@
+@advantageous@|@korzystny@
+@Advent@|@Adwent@
+@adventitious@|@przygodny, przypadkowy@
+@adventure@|@przygoda@
+@adventurer@|@awanturnik, poszukiwacz przygód@
+@adventuress@|@awanturnica@
+@adventurous@|@awanturniczy, ryzykowny, śmiały@
+@adverb@|@przysłówek@
+@adverbial@|@przysłówkowy@
+@adversary@|@przeciwnik@
+@adverse@|@niechętny, przeciwny@
+@adversity@|@niepomyślność, nieszczęście@
+@advertise@|@obwieszczać, ogłaszać, reklamować@
+@advertisement@|@obwieszczenie, ogłoszenie, reklama@
+@advertising@|@reklama, reklamowanie@
+@advice@|@rada@
+@advisable@|@roztropny, słuszny@
+@advise@|@radzić@
+@advised@|@przemyślany, rostropny@
+@advisedly@|@mądrze, roztropnie@
+@adviser@|@doradca@
+@advisory@|@doradczy@
+@advocacy@|@obrona@
+@advocate@|@adwokat, orędownik@
+@aegis@|@egida@
+@aeon@|@eon, wieczność@
+@aerate@|@gazować (wodę), wietrzyć@
+@aerial@|@powietrzny@
+@aerie@|@orle gniazdo@
+@aerobatics@|@akrobatyka (powietrzna), ewolucje@
+@aerobics@|@aerobik@
+@aerodrome@|@lotnisko@
+@aerodynamics@|@aerodynamika@
+@aeronautic(al)@|@aeronautyczny@
+@aeronautics@|@aeronautyka@
+@aeroplane@|@samolot@
+@aerostatics@|@aerostatyka@
+@aery@|@orle gniazdo@
+@aesthete@|@esteta@
+@aesthetics@|@estetyka@
+@afar@|@w oddali@
+@affability@|@uprzejmość@
+@affable@|@grzeczny, uprzejmy@
+@affair@|@interes, przedsięwzięcie, sprawa@
+@affect@|@dotyczyć, oddziaływać, pzować, udawać@
+@affectation@|@afektacja, pozowanie, sztuczność, udawanie@
+@affected@|@afektowany, sztuczny, usposobiony@
+@affecting@|@wzruszający@
+@affection@|@afekt, miłość, przywiązanie, schorzenie, uczucie@
+@affectionate@|@kochajacy, przywiązany@
+@affectionately@|@czule, tkliwie, z miłością@
+@affiliate@|@przyjmować w poczet członków@
+@affiliation@|@przynależność@
+@affinity@|@pokrewieństwo, powinowactwo@
+@affirm@|@twierdzić, utrzymywać, zaręczać@
+@affirmation@|@oświadczenie, twierdzenie@
+@affirmative@|@twierdzący@
+@affix@|@dodać, dołączyć@
+@afflict@|@dotknąć (chorobą), zesłać (nieszczęście)@
+@afflicted@|@chory, dotknięty (nieszczęściem)@
+@afflicting@|@bolesny, zasmucajacy@
+@affliction@|@nieszczęście, schorzenie@
+@affluence@|@dostatek@
+@affluent@|@dostatni, zasobny@
+@afflux@|@napływ, przypływ@
+@afford@|@dostarczyć, pozwolić sobie@
+@afforest@|@zalesiać@
+@affranchise@|@wyzwolić@
+@affray@|@awantura, burda@
+@affront@|@obraza, zniewaga, znieważyć@
+@affrucate@|@afrykatka@
+@afloat@|@na morzu, na okręcie, na statku, na wodzie@
+@afoot@|@piechotą, pieszo@
+@afore@|@na dziobie@
+@afore-mentioned@|@wyżej wymieniony@
+@afore-thought@|@ukartowany@
+@afraid@|@przestraszony, w strachu@
+@afresh@|@na nowo@
+@African@|@Afrykanin, afrykański@
+@aft@|@na rufie@
+@after@|@po, za@
+@after-crop@|@poplon@
+@after-deck@|@rufa@
+@after-effects@|@konsekwencje, następstwa@
+@aftermath@|@następstwa@
+@after-mentioned@|@wymieniony poniżej@
+@afternoon@|@popołudnie@
+@after-taste@|@posmak@
+@afterthought@|@namysł, zastanowienie@
+@afterward(s)@|@następnie, potem, później@
+@afterwards@|@potem@
+@again@|@ponownie, znowu@
+@against@|@przeciw@
+@agape@|@z otwartymi ustami@
+@agate@|@agat@
+@agave@|@agawa@
+@age@|@wiek@
+@aged@|@sędziwy@
+@ageing@|@podstarzały, starzenie się@
+@agency@|@agencja, filia, oddział, pośrednictwo@
+@agenda@|@porządek dzienny, program@
+@agent@|@agent, pośrednik, przedstawiciel@
+@agglomerate@|@aglomerat, nagromadzić@
+@agglomeration@|@aglomeracja, nagromadzenie@
+@agglutinate@|@zlepić@
+@agglutination@|@zlepienie@
+@aggrandize@|@powiększyć, przesadzić@
+@aggrandizement@|@powiększenie, przesada, przesadzenie@
+@aggravate@|@pogorszyć, zdnerwować, zirytować@
+@aggravation@|@irytacja, pogorszenie, zdenerwowanie@
+@aggregate@|@połączyć, zebrać@
+@aggregation@|@skupienie, skupisko@
+@aggression@|@agresja, napaść@
+@aggressive@|@agresywny, napastliwy@
+@aggressor@|@agresor, napastnik@
+@aggrieve@|@zasmucać@
+@aghast@|@osłupiały, zdumionym przerażony@
+@agile@|@zręczny, zwinny@
+@agility@|@zręczność, zwinność@
+@agitate@|@agitować, poruszać, wstrząsać@
+@agitated@|@poruszony, wstrząśnięty, wzruszony@
+@agitating@|@podniecający, wstrząsający, wzruszający@
+@agitation@|@agitacja, poruszenie, wzruszenie@
+@agitator@|@agitator@
+@aglow@|@płonący, promieniejący, rozpalony, w ogniu@
+@agnostic@|@agnostyk@
+@agnosticism@|@agnostycyzm@
+@ago@|@...temu, przed@
+@agog@|@w napięciu@
+@agonise@|@cierpieć męczarnie@
+@agonize@|@cierpieć męczarnie@
+@agonizing@|@bolesny, dręczący@
+@agony@|@agonia, katusze, męczarnie@
+@agrarian@|@agrariusz, agrarny@
+@agree@|@podzielać zdanie, zgodzić się@
+@agreeable@|@zgodny@
+@agreed@|@uzgodniony@
+@agreement@|@porozumienie, układ, umowa@
+@agression@|@agresja@
+@agricultural@|@rolniczy@
+@agriculture@|@rolnictwo@
+@agronomist@|@agronom@
+@agronomy@|@agronomia@
+@ah@|@ach!@
+@ahead@|@na czele, na przodzie, z przodu@
+@aid@|@pomagać, pomoc, pomóc@
+@aide-de-camp@|@adiutant@
+@ail@|@dolegać@
+@aileron@|@lotka@
+@ailment@|@dolegliwość@
+@aim@|@cel, celować@
+@aimless@|@bezcelowy@
+@air@|@aria, melodia, mina, postawa, powietrze@
+@air raid@|@nalot bombowy@
+@air-base@|@baza lotnicza@
+@air-bladder@|@pęcherzyk powietrza@
+@air-borne@|@transportowany drogą lotniczą@
+@air-brake@|@hamulec pneumatyczny@
+@air-brick@|@pustak@
+@air-bump@|@dziura powietrzna, pompa powietrzna, próżnia@
+@air-cell@|@pęcherzyk powietrza@
+@air-chamber@|@dętka rowerowa@
+@air-conditioned@|@klimatyzowany@
+@air-conditioning@|@klimatyzacja@
+@air-cooled@|@chłodzony powietrzem@
+@aircraft@|@samolot@
+@air-cushion@|@poduszka powietrzna@
+@air-defense@|@obrona przeciwlotnicza@
+@airfield@|@lotnisko@
+@air-gun@|@wiatrówka@
+@air-hole@|@otwór wentylacyjny@
+@airiness@|@bestroska, dobra wentylacja, niedbałość@
+@air-lift@|@most powietrzny@
+@air-line@|@linia lotnicza@
+@airly@|@beztrosko, lekko, niedbale@
+@airman@|@lotnik@
+@air-passages@|@drogi oddechowe@
+@airplane@|@samolot@
+@airport@|@aeroport, lotnisko@
+@airscrew@|@śmigło@
+@air-shaft@|@szyb wentylacyjny@
+@air-sickness@|@choroba powietrzna@
+@air-tight@|@hermetyczny@
+@airy@|@beztroski, niedbały, przewiewny@
+@aisle@|@nawa boczna@
+@aitchbone@|@kość krzyżowa, krzyżówka@
+@ajar@|@uchylony@
+@akin@|@pokrewny@
+@alabaster@|@alabaster@
+@alacrity@|@gotowość@
+@alarm@|@alarm, sygnał ostrzegawczy@
+@alarm-clock@|@budzik@
+@alarming@|@zatrważający@
+@alarmist@|@panikarz@
+@alas@|@niestety@
+@alb@|@komża@
+@Albania@|@Albania@
+@Albanian@|@Albańczyk, albański@
+@albatross@|@albatros@
+@albeit@|@aczkolwiek, chociaż@
+@albino@|@albinos@
+@album@|@album@
+@albumen@|@albumina, białko@
+@alchemist@|@alchemik@
+@alchemy@|@alchemia@
+@alcohol@|@alkohol@
+@alcoholic@|@alkoholik, alkoholowy@
+@alcoholism@|@alkoholizm@
+@alcoholize@|@alkoholizować@
+@alcove@|@alkowa, altanka@
+@aldehyde@|@aldehyd@
+@alder@|@olcha@
+@alderman@|@radny miejski@
+@ale@|@piwo (angielskie)@
+@ale-house@|@piwiarnia@
+@alert@|@alarm, czujny@
+@alertness@|@czujność@
+@alfalfa@|@lucerna@
+@alfresco@|@na świeżym powietrzu@
+@alga@|@alga, wodorost@
+@algebra@|@algebra@
+@algebraic@|@algebraiczny@
+@Algerian@|@Algierczyk, algierski@
+@alias@|@pseudonim, vel@
+@alibi@|@alibi@
+@alien@|@cudzoziemski, obcy, odmienny@
+@alienate@|@zrazić@
+@alienation@|@alienacja, odstręczenie, zrażenie@
+@alienist@|@psychiatra@
+@alight@|@płonący, zapalony, zeskakiwać, zsiadać@
+@align@|@ustawiać w szeregu, wyrównywać@
+@alignment@|@ustawienie w szeregu, wyrównanie@
+@alike@|@jednakowy, podobny@
+@aliment@|@pokarm, pożywienie@
+@alimentary@|@odżywczy, pożywny@
+@alimentation@|@pożywienie, wyżywienie@
+@alimony@|@alimentacja, alimenty@
+@aliquot@|@podzielnik@
+@alive@|@żyjący, żywy@
+@alkali@|@zasada@
+@alkaline@|@alkaliczny, zasadowy@
+@alkaloid@|@alkaloid@
+@all@|@cały, wszyscy, wszystko@
+@allay@|@uciszyć, uśmierzyć@
+@allegation@|@twierdzenie, zarzut@
+@allege@|@powoływać się, twierdzić@
+@alleged@|@domniemany, przypuszczalny, rzekomy@
+@allegiance@|@posłuszeństwo, wierność@
+@allegoric(al)@|@alegoryczny@
+@allegory@|@alegoria@
+@allergic@|@alergiczny@
+@allergy@|@alergia, uczulenie@
+@alleviate@|@ulżyć@
+@alleviation@|@ulga, złagodzenie@
+@alley@|@aleja, uliczka, zaułek@
+@alliance@|@przymierze, sojusz@
+@allied@|@pokrewny, sprzymierzony@
+@alligator@|@aligator@
+@all-important@|@nader ważny, ogromnej doniosłości@
+@all-in@|@globalny, łączny, ogólny@
+@alliteration@|@aliteracja@
+@allocate@|@alokować, umieszczać@
+@allocation@|@przeznaczenie, przydział, umieszczenie@
+@allocution@|@przemówienie@
+@allot@|@przeznaczyć, rozdzielić, wyznaczyć@
+@allotment@|@działka, podział, przydział@
+@all-out@|@całkowity, rozpaczliwy, totalny, zdecydowany@
+@allow@|@pozwolić@
+@allowable@|@dopuszczalny, dozwolony@
+@allowance@|@przydział, tolerowanie, zasiłek@
+@alloy@|@stapiać, stop@
+@all-purpose@|@uniwersalny@
+@all-round@|@wszechstronny@
+@all-rours@|@na czworakach@
+@allude@|@napomknąć, robić aluzje@
+@allure@|@zwabić@
+@allurement@|@nęcenie, wabienie@
+@alluring@|@nęcący, ponętny@
+@allusion@|@aluzja, napomknienie@
+@allusive@|@aluzyjny@
+@alluvial@|@aluwialny, napływowy@
+@alluvion@|@namuł@
+@alluvium@|@aluwium, holocen@
+@ally@|@sojusznik, sprzymierzeniec, sprzymierzyć@
+@almanac@|@almanach@
+@almighty@|@wszechmocny, wszechmogący@
+@almond@|@migdał, migdałek@
+@almoner@|@jałmużnik@
+@almost@|@niemal, o mało, prawie@
+@alms@|@jałmużna@
+@almshouse@|@przytułek@
+@aloe@|@aloes@
+@aloft@|@do góry, w górę, w górze@
+@alone@|@sam, w pojedynkę@
+@along@|@dalej, naprzód@
+@alongshore@|@wzdłuż brzegu@
+@alongside@|@obok, wzdłuż@
+@aloof@|@na boku, z dala, z daleka@
+@aloofness@|@powściągliwość, rezerwa@
+@aloud@|@głośno, na głos@
+@alp@|@hala (górska), turnia@
+@alpaca@|@alpaga, alpaka@
+@alpha@|@alfa@
+@alphabet@|@abecadło, alfabet@
+@alphabetic(al)@|@alfabetyczny@
+@Alpine@|@alpejski@
+@Alpine combined@|@kombinacja alpejska@
+@alpinist@|@alpinista@
+@already@|@już, poprzednio, przedtem, uprzednio@
+@Alsatian@|@wilczur@
+@also@|@również, także, też@
+@altar@|@ołtarz@
+@altar-piece@|@rzeźba nad ołtarzem@
+@alter@|@przemienić, zmienić@
+@altercate@|@pokłócić@
+@altercation@|@kłótnia, sprzeczka, zwada@
+@alternate@|@następować kolejno, zmieniać kolejno@
+@alternately@|@kolejno na przemian@
+@alternating@|@kolejny, zmienny@
+@alternation@|@kolejna zmiana, kolejne następstwo, odmiana, przemiana@
+@alternative@|@alternatywa, inny, wybór@
+@although@|@chociaż, choć, mimo że@
+@altimeter@|@wysokościomierz@
+@altitude@|@wysokość@
+@alto@|@alt, kontralt@
+@altogether@|@całkiem, całkowicie, ogółem, razem, zupełnie@
+@altruism@|@altruizm@
+@altruist@|@altruista@
+@altruistic@|@altruistyczny@
+@alum@|@ałun, ałunować@
+@aluminium@|@aluminiowy, aluminium@
+@alumna@|@wychowanka@
+@alumnus@|@wychowanek@
+@alveolar@|@dziąsłowy, zębodołowy@
+@always@|@ciągle, stale, wciąż, zawsze@
+@amalgam@|@amalgamat@
+@amalgamate@|@zamalgamować@
+@amalgamation@|@fuzja, połączenie@
+@amaranth@|@amarant@
+@amass@|@gromadzić@
+@amateur@|@amator, dyletant@
+@amateurish@|@amatorski, dyletancki@
+@amateurishness@|@amatorstwo, dyletantyzm@
+@amative@|@kochliwy@
+@amatory@|@miłosny@
+@amaze@|@wprawiać w zdumienie, zdumiewać@
+@amazed@|@odłupiały, zdumiony@
+@amazement@|@osłupienie, zdumienie@
+@amazing@|@zdumiewający@
+@Amazon@|@Amazonka@
+@ambassador@|@ambasador@
+@ambassadress@|@ambasadorowa@
+@amber@|@bursztyn@
+@ambergris@|@ambra@
+@ambidexterous@|@oburęczny, włądający obiema rękami@
+@ambient@|@otaczający@
+@ambiguity@|@dwuznaczność, niejasność@
+@ambiguous@|@dwuznaczny, niejasny@
+@ambit@|@obręb, obwód, okręg@
+@ambition@|@ambicja@
+@ambitious@|@ambitny@
+@ambivalent@|@ambiwalentny@
+@amble@|@kłus, kłusować, spokojny krok@
+@ambrosia@|@ambrozja@
+@ambulance@|@ambulans, karetka@
+@ambulatory@|@arkady klasztorne, krużganki, wędrowny@
+@ambush@|@czaty, zaczaić się, zasadzka@
+@ameliorate@|@udoskonalić, ulepszyć@
+@amelioration@|@udoskonalenie, ulepszenie@
+@amenable@|@odpowiedzialny, podlegajacy, posłuszny@
+@amend@|@naprawić, poprawić@
+@amendment@|@naprawa, poprawa, poprawka@
+@amends@|@odszkodowanie, rekompensata@
+@amenity@|@grzeczność, łagodnosć, uprzejmość@
+@American@|@Amerykanin, amerykański@
+@Americanism@|@amerykanizm@
+@Americanize@|@zamerykanizować@
+@amethyst@|@ametyst@
+@amiability@|@grzeczne słowa, uprzejmość@
+@amiable@|@miły, sympatyczny, uprzejmy@
+@amicable@|@przyjacielski, przyjazny@
+@amid(st)@|@pomiędzy, pośród, wśród@
+@amidships@|@w śródokręciu@
+@amino acid@|@aminokwas@
+@amiss@|@na opak, niefortunnie, niepomyślnie, źle@
+@amity@|@dobre stosunki@
+@ammeter@|@amperomierz@
+@ammonia@|@amoniak@
+@ammoniac@|@amoniakalny@
+@ammonium@|@amon@
+@ammunition@|@amunicja@
+@amnesia@|@amnezja, utrata pamięci@
+@amnesty@|@amnestia@
+@amoeba@|@ameba@
+@amok@|@amok@
+@among@|@pomiędzy@
+@among(st)@|@pomiędzy, pośród, wśród@
+@amoral@|@amoralny@
+@amorous@|@kochliwy, zakochany@
+@amorousness@|@kochliwość@
+@amortization@|@zamortyzacja@
+@amortize@|@zamortyzować@
+@amount@|@ilosć, kwota, liczba, znaczenie@
+@amour@|@miłostka, romans@
+@ampere@|@amper@
+@amphibia@|@gady@
+@amphibian@|@amfibia@
+@amphibious@|@ziemnowodny@
+@amphitheatre@|@amfiteatr@
+@amphora@|@amfora@
+@amphorous@|@bezpostaciowy, niewyraźny@
+@ample@|@dostatni, obfity, obszerny, suty, wystarczający@
+@ampleness@|@dostatniość, obfitosć, obszernosć, sutość@
+@amplification@|@rozszerzenie, rozwinięcie, wzmocnienie@
+@amplifier@|@amplifikator, wzmacniacz@
+@amplify@|@rozszerzyć, rozwinać, wzmocnić@
+@amplitude@|@amplituda, obfitość@
+@ampoule@|@ampułka@
+@amputate@|@amputować, odciąć@
+@amputation@|@amputacja@
+@amuck@|@amok@
+@amulet@|@amulet@
+@amuse@|@rozerwać, rozweselać, ubawić@
+@amusement@|@rozwywka, zabawa@
+@amusing@|@zabawny@
+@anachronism@|@anachronizm@
+@anaemia@|@anemia@
+@anaemic@|@anemiczny@
+@anaesthesia@|@narkoza@
+@anaesthetic@|@narkoza, znieczulajacy@
+@anaesthetist@|@anestetysta@
+@anaesthetize@|@dawać narkozę, usypiać, uśpić@
+@anagram@|@anagram@
+@analgesic@|@przeciwbólowy, uśmierzający ból@
+@analogical@|@analogiczny@
+@analogize@|@objaśniać przez analogię, rozumować przez analogię@
+@analogous@|@analogiczny, zbieżny@
+@analogy@|@analogia@
+@analyse@|@analizować@
+@analysis@|@analiza, rozbiór@
+@analythical@|@analityczny@
+@anamalous@|@nieprawidłowy@
+@anarchic(al)@|@anarchiczny@
+@anarchism@|@anarchizm@
+@anarchist@|@anarchista@
+@anarchy@|@anarchia@
+@anathema@|@klątwa@
+@anathematize@|@rzucić klątwę, wyklnąć@
+@anatomic(al)@|@anatomiczny@
+@anatomize@|@zanalizować, zbadać, zrobić sekcję@
+@anatomy@|@anatomia@
+@ancestor@|@przodek@
+@ancestral@|@dziedziczny, rodowy@
+@ancestry@|@antenaci, przodkowie, ród@
+@anchor@|@kotwica, zakorzeniać się@
+@anchorage@|@kotwiczne, miejsce zakotwiczenia@
+@anchorite@|@anchoreta, odludek, pustelnik@
+@anchovy@|@sardela@
+@ancient@|@sędziwy, starodawny, starożytny@
+@ancillary@|@podrzędny, podwładny@
+@and@|@i@
+@anecdotal@|@anegdotyczny@
+@anecdote@|@anegdota@
+@anemometer@|@anemometr, wiatromierz@
+@anemone@|@anemon, zawilec@
+@aneurism@|@anewryzm, tętniak@
+@aneurysm@|@anewryzm, tętniak@
+@anew@|@jeszcze raz, na nowo, od nowa, od początku, znowu@
+@angel@|@anielski, anioł@
+@angelic@|@anielski@
+@angelica@|@dzięgiel@
+@angelus@|@Anioł Pański@
+@anger@|@gniew, zlość@
+@angina@|@angina@
+@angle@|@haczyk, kąt, łowić na wędkę, punkt widzenia@
+@angler@|@rybak, wędkarz@
+@Anglican@|@anglikański@
+@anglicist@|@anglista@
+@angling@|@wędkarstwo@
+@anglistics@|@anglistyka@
+@anglophile@|@anglofil@
+@Anglo-Saxon@|@Anglosas, anglosaski@
+@angora@|@angora@
+@angrily@|@gniewnie, w gniewie, w złości@
+@angry@|@zły@
+@anguish@|@boleść, ból, udręczenie, udręka@
+@angular@|@kanciasty, kątowy, narożny@
+@anhydride@|@bezwodnik@
+@aniline@|@anilina@
+@animadversion@|@krytyka@
+@animadvert@|@krytykować@
+@animal@|@zwierzę, zwierzęcy@
+@animalcula@|@drobnoustroje@
+@animalism@|@zwierzęcość@
+@animate@|@ożywiać, ożywiony, pobudzać, żywy@
+@animated@|@ożywiony@
+@animation@|@animacja, ożywienie@
+@animosity@|@animozja, uraza@
+@anise@|@anyż@
+@aniseed@|@anyż (nasienie)@
+@ankle@|@kostka@
+@annalist@|@kronikarz@
+@annals@|@kronika@
+@annex@|@aneks, dołączyć, łączyć, zaaneksować@
+@annexation@|@aneksja@
+@annihilate@|@anihilować, zniszczyć, zniweczyć@
+@annihilation@|@anihilacja, unicestwienie, zniszczenie@
+@anniversary@|@rocznica@
+@Anno Domini@|@Roku Pańskiego@
+@annotate@|@zaopatrzyć@
+@annotation@|@adnotacja, przypis@
+@announce@|@ogłosić, zapowiedzieć, zawiadomić@
+@announcement@|@ogłoszenie, zapowiedź, zawiadomienie@
+@announcer@|@konfenansjer@
+@annoy@|@dokuczać, dokuczyć, naprzykrzać się, niepokoić@
+@annoyance@|@dokuczanie, kłopot, przykrość, zmartwienie@
+@annoyed@|@strapiony, zirytowany@
+@annoying@|@dokuczliwy, irytujący, przykry@
+@annual@|@coroczny, doroczny, roczny@
+@annuitant@|@rencista@
+@annuity@|@dożywocie, renta@
+@annul@|@anulować, skasować, unieważnić@
+@annulment@|@anulowanie, skasowanie, unieważnienie@
+@Annunciation@|@Zwiastowanie@
+@anode@|@anoda@
+@anoint@|@namaścić@
+@anomaly@|@anomalia, nieprawodłowość@
+@anon@|@niebawem@
+@anonym@|@anonim@
+@anonymity@|@anonimowość@
+@anonymous@|@anonimowy@
+@another@|@inny, jeszcze jeden, kolejny@
+@answer@|@odpowiadać, odpowiedź, rozwiązanie@
+@answerable@|@odpowiedzialny@
+@ant@|@mrówka@
+@antagonism@|@antagonizm@
+@antagonist@|@oponent, przeciwnik@
+@antagonistic@|@antagonistyczny, nieprzyjazny, wrogi@
+@antagonize@|@sprzeciwiać się, wzbudzać wrogość@
+@antarctic@|@antarktyczny@
+@ante meridiem@|@przed południem, rano@
+@ant-eater@|@mrówkojad@
+@antecedent@|@poprzedni, uprzedni@
+@antecenence@|@pierwszeństwo, starszeństwo@
+@antechamber@|@poczekalnia, przedpokój@
+@antedate@|@antydatować@
+@antediluvian@|@przedpotopowy@
+@antelope@|@antylopa@
+@antemeridian@|@przedpołudniowy@
+@antenna@|@antena, czułek, macka@
+@anterior@|@poprzedni, uprzedni, wcześniejszy@
+@anteriority@|@pierwszeństwo@
+@anteroom@|@poczekalnia, przedpokój@
+@anthem@|@hymn@
+@ant-hill@|@mrowisko@
+@anthology@|@antologia@
+@anthracite@|@antracyt@
+@anthropological@|@antropologiczny@
+@anthropology@|@antropologia@
+@anthropophagi@|@ludożercy@
+@anti-aircraft@|@przeciwlotniczy@
+@antibiotic@|@antybiotyk@
+@anticipate@|@oczekiwać, przewidzieć, uprzedzić, wyprzedzić@
+@anticipation@|@oczekiwanie, przewidywanie, wyprzedzenie@
+@anticipatory@|@wyczekiwania, wyczekujący@
+@anticlerical@|@antyklerykalny@
+@anticlimax@|@rozczarowanie, zawód@
+@antidote@|@antidotum, odtrutka@
+@antimacassar@|@pokrowiec (na meble)@
+@antimony@|@antymon@
+@antinomy@|@antynomia, sprzeczność@
+@antipathy@|@antypatia, niechęć@
+@antipodes@|@antypody@
+@antipoison@|@odtrutka@
+@antiquarian@|@antykwarski@
+@antiquary@|@antykwariusz, zbieracz antyków@
+@antiquated@|@przestarzały, staroświecki@
+@antique@|@antyczny, antyk, starożytny, zabytek@
+@antiquity@|@starożytność@
+@antirrhinum@|@lwia paszcza@
+@anti-Semitism@|@antysemityzm@
+@antiseptic@|@antyseptyczny@
+@anti-tank@|@przeciwczołgowy, przeciwpancerny@
+@antithesis@|@antyteza@
+@antitoxic@|@antytoksyczny@
+@antitoxin@|@antytoksyna@
+@antler@|@róg jeleni@
+@antonym@|@antonim, przeciwieństwo@
+@antypyrin(e)@|@antypiryna@
+@anus@|@odbytnica@
+@anvil@|@kowadełko, kowadło@
+@anxiety@|@niepokój, obawa, trwoga@
+@anxious@|@niepokojący, niespokojny, pragnący@
+@anxiously@|@a niepokojem, z lękiem, z obawą, z trwogą@
+@any@|@jakikolwiek, jakiś, każdy, którykolwiek@
+@anybody@|@ktokolwiek, ktoś@
+@anyhow@|@byle jak, w każdym razie@
+@anyone@|@ktokolwiek, ktoś@
+@anything@|@cokolwiek, coś@
+@anyway@|@byle jak, w każdym razie@
+@anywhere@|@byle gdzie, gdziekolwiek, nigdzie@
+@anywise@|@jakkolwiek, jakoś, w jakikolwiek sposób@
+@aorta@|@aorta@
+@apache@|@apasz, chuligan@
+@Apache@|@Apacz@
+@apart@|@na boku, od siebie, osobno@
+@apartment@|@apartament, mieszkanie, pokój@
+@apathetic@|@apatyczny@
+@apathy@|@apatia@
+@ape@|@małpa@
+@aperient@|@środek przeczyszczający@
+@aperture@|@otwór, szczelina@
+@apex@|@szczyt, wierzchołek@
+@aphis@|@mszyca@
+@aphorism@|@aforyzm@
+@apiarist@|@pszczelarz@
+@apiary@|@pasieka@
+@apices@|@szczyt, wierzchołek@
+@apiculture@|@przczelarstwo@
+@apiece@|@na osobę, po, za sztukę@
+@apish@|@małpi@
+@apishness@|@małpowanie@
+@apocalypse@|@apokalipsa@
+@apogee@|@apogeum, punkt kulminacyjny@
+@apologetic@|@pokorny, przepraszający, skruszony@
+@apologise@|@przepraszać@
+@apologize@|@przeprosić@
+@apology@|@przeprosiny, przeproszenie, zadośćuczynienie@
+@apopletic@|@apoplektyczny@
+@apoplexy@|@apopleksja, udar@
+@apostate@|@apostata, odstępca@
+@apostolic(al)@|@apostolski@
+@apostrophe@|@apostrof, apostrofa@
+@apothecary@|@aptekarz@
+@apotheoses@|@apoteoza@
+@apotheosis@|@apoteoza@
+@appal@|@przerazić, zatrwożyć@
+@appaling@|@przerażający, zatrważający@
+@apparel@|@strój, szaty@
+@apparent@|@jawny, oczywisty, widoczny@
+@apparently@|@najwidoczniej, najwyraźniej, widocznie@
+@apparition@|@duch, ukazanie się, widmo, zjawa@
+@apparitor@|@woźny@
+@appartus@|@aparat, narząd, organ, przyrząd@
+@appeal@|@apel, odwoływać się, spodobać się, urok@
+@appealing@|@błagalny, pociągający@
+@appear@|@okazywać się, ukazać się, wydawać się@
+@appearance@|@powierzchowność, wygląd, zjawianie się@
+@appease@|@uciszyć, ukoić, uspokoić, zaspokoić@
+@appeasement@|@uciszenie, udobruchanie, zaspokojenie, złagodzenie@
+@appellation@|@nazwa, określenie, termin@
+@append@|@dodawać, dołączyć@
+@appendix@|@ślepa kiszka, wyrostek robaczkowy@
+@apperception@|@percepcja, postrzeganie@
+@appertain@|@być stosownym, należeć@
+@appetite@|@apetyt, żądza@
+@appetizing@|@apetyczny, smakowity@
+@applaud@|@bić brawo, klaskać, oklaskiwać@
+@applause@|@aplauz, aprobata, oklaski, pochwała@
+@apple@|@jabłko@
+@apple tree@|@jabloń@
+@apple-pie@|@szarlotka@
+@apple-tree@|@jabłoń@
+@appliance@|@akcesoria, przybory, przyrząd, urządzenie@
+@applicable@|@dający sie zastosować, odpowiedni@
+@applicant@|@kandydat, zgłaszajacy się@
+@application@|@podanie, prośba, przyłożenie, zastosowanie@
+@applied@|@stosowany@
+@apply@|@posmarować, przyłożyć, zastosować@
+@apply to@|@dotyczyć@
+@appoint@|@mianować, wyznaczyć, zarządzić@
+@appointed@|@urządzony, ustalony, uzgodniony, wyznaczony@
+@appointment@|@mianowanie, randka, umówiony termin, wyznaczenie@
+@apportion@|@podzielić, rozłożyć, wyznaczyc@
+@apportionment@|@podział, rozłożenie@
+@apposite@|@stosowny, trafny, właściwy@
+@appositeness@|@stosowność, trafność@
+@appraisal@|@ocena, oszacowanie@
+@appraise@|@ocenić, oszacować@
+@appraisement@|@ocena, oszacowanie@
+@appreciable@|@dostrzegalny, pokaźny, znaczny@
+@appreciate@|@docenić, ocenić, oszacować, podwyższyć wartość@
+@appreciation@|@ocena, oszacowanie, podwyżka (wartości), uznanie@
+@appreciative@|@doceniający@
+@apprehend@|@aresztować, przytrzymać, uchwycić sens, zrozumieć@
+@apprehensible@|@dostrzegalny@
+@apprehension@|@aresztowanie, przytrzymanie, zrozumienie@
+@apprehensive@|@lękliwy, spostrzegawczy@
+@apprentice@|@terminator, uczeń@
+@apprenticeship@|@nauka rzemiosła, praktyka, termin@
+@apprise@|@powiadomić@
+@approach@|@podejście, zbliżyć się@
+@approachable@|@dostępny, przystępny@
+@approbation@|@aprobata, pochwała@
+@appropriate@|@odpowiedni, stosowny, właściwy@
+@appropriateness@|@odpowiedniość, stosowność@
+@appropriation@|@przeznaczenie, przywłaszczenie@
+@approval@|@aprobata, pochwała, zatwierdzenie@
+@approve@|@pochwalić, zatwierdzić@
+@approvingly@|@na znak aprobaty, z aprobatą@
+@approximate@|@przybliżony, zbliżony, zbliżyć@
+@approximately@|@około, w przybliżeniu@
+@approximation@|@bliskość@
+@approximative@|@przybliżony@
+@appurtenant@|@przynależny, zależny@
+@apricot@|@morela@
+@apricot-tree@|@morela (drzewo)@
+@April@|@kwiecień@
+@April-fool-day@|@prima aprilis@
+@apron@|@fartuch@
+@aproned@|@w fartuchu@
+@apropos@|@odnośnie, stosowny, trafność, trafny@
+@apse@|@apsyda@
+@apt@|@skłonny, szczęśliwie dobrany, trafny, uzdolniony@
+@aptitute@|@uzdolnienie@
+@aptly@|@stosownie, trafnie, zgrabnie, zręcznie@
+@aptness@|@sklonność, stosownosć, trafność, uzdolnienie@
+@aquarium@|@akwarium@
+@aquatic@|@wodny@
+@aqueous@|@wodnisty, wodny@
+@Arab@|@Arab, arab (koń)@
+@arabesque@|@arabeska@
+@Arabic@|@arabski, język arabski@
+@arable@|@orny@
+@arachnid@|@pajęczak@
+@arbiter@|@arbiter, sędzia@
+@arbitral@|@arbitrażowny, polubowny@
+@arbitrary@|@arbitralny, samowolny@
+@arbitrate@|@być sędzią, rozsądzać, rozstrzygać, sądzić@
+@arbitration@|@arbitraż@
+@arbitrator@|@arbiter, sędzia rozjemca@
+@arbor@|@altanka, maszyny@
+@arboreal@|@drzewny@
+@arborescent@|@drzewiasty, rozgałęziony@
+@arboriculture@|@uprawa drzew@
+@arbour@|@altana@
+@arc@|@łuk@
+@arcade@|@arkada@
+@arch@|@archi-, arcy-, figlarny, łuk, sklepienie łukowe@
+@archaeologic(al)@|@archeologiczny@
+@archaeologist@|@archeolog@
+@archaeology@|@archeologia@
+@archaic@|@archaiczny@
+@archaism@|@archaizm@
+@archangel@|@archanioł@
+@archbishop@|@arcybiskup@
+@archduchess@|@arcyksiężna@
+@archduke@|@arcyksiążę@
+@archer@|@łucznik@
+@archery@|@łucznictwo@
+@archetype@|@pierwowzór, prototyp@
+@archipelago@|@archipelag@
+@architect@|@architekt, budowniczy, twórca@
+@architecture@|@architektura@
+@archives@|@archiwa, archiwum@
+@archivist@|@archiwista@
+@archly@|@figlarnie@
+@archway@|@brama, sklepione przejście@
+@arctic@|@arktyczny@
+@ardent@|@gorejący, płonący, żarliwy@
+@ardour@|@gorliwość, ogień, zapał, żar@
+@arduous@|@ciężki, żmudny@
+@arduousness@|@uciążliwość, żmudność@
+@are@|@są@
+@area@|@obszar, okolica, powierzchnia, teren@
+@arena@|@arena, dziedzina@
+@argentine@|@srebrny, srebrzysty@
+@Argentinean@|@Argentyńczyk, argentyński@
+@argillaceous@|@gliniasty@
+@argon@|@argon@
+@arguable@|@sporny@
+@argue@|@dowodzić, dyskutować, przekonywać@
+@argument@|@argument, debata, dowód, spór@
+@argumentation@|@argumentowanie, dowodzenie@
+@argumentative@|@lubiący dyskutować, przemyślany, rzeczowy@
+@aria@|@aria@
+@arid@|@jałowy, spieczony, wypalony@
+@aridity@|@brak wody, jałowość@
+@Aries@|@Baran (zodiak)@
+@aright@|@dobrze, poprawnie, właściwie@
+@arise@|@pojawić się, powstać, wyniknąć@
+@aristocracy@|@arystokracja@
+@aristocrat@|@arystokrata@
+@aristocratic@|@arystokratyczny@
+@arithmetic@|@arytmenyka@
+@arithmetic(al)@|@arytmetyczny@
+@ark@|@arka@
+@arm@|@broń, herb, konar, odnoga, poręcz, ramię, ręka@
+@armament@|@uzbrojenie, zbrojenia@
+@armature@|@armatura, pancerz, uzbrojenie@
+@armchair@|@fotel, krzesło@
+@armed@|@uzbrojony, zbrojny@
+@armful@|@naręcznie@
+@armhole@|@pacha@
+@armistice@|@rozejm, zawieszenie broni@
+@armlet@|@opaska@
+@armor@|@zbroja@
+@armorial@|@herbowy@
+@armorial bearings@|@herb, herbarz@
+@armour@|@opancerzenie, pancerz, zbroja@
+@armour-bearer@|@giermek@
+@armoured@|@opancerzony@
+@armoured train@|@pociąg pancerny@
+@armourer@|@płatnerz, zbrojmistrz@
+@armour-plating@|@opancerzenie@
+@armoury@|@fabryka broni, zbrojownia@
+@armpit@|@pacha@
+@arms@|@broń@
+@army@|@armia@
+@Army@|@Wojsko@
+@aroma@|@aromat, woń, zapach@
+@aromatic@|@aromatyczny@
+@around@|@dokoła, dookoła, naokoło, wkoło, wokoło@
+@arouse@|@obudzić, przebudzić@
+@arrack@|@arak@
+@arraign@|@postawić w stan oskarżenia, skrytykować@
+@arraignment@|@napaść, ostra krytyka@
+@arrange@|@rozmieścić, ułożyć, ustawić, zaplanować@
+@arrangement@|@porządek, rozmieszczenie, ustawienie. układ@
+@arras@|@gobelin@
+@array@|@szyk@
+@arrear@|@zaległość@
+@arrest@|@areszt, aresztować, wstrzymać, zatrzymać@
+@arresting@|@frapujący, przyciągający uwagę@
+@arrival@|@nadejście, przybycie, przyjazd@
+@arrive@|@przybyć, przyjechać, przyjść@
+@arrogance@|@arogancja@
+@arrogant@|@hardy@
+@arrogate@|@rościć prawo@
+@arrogation@|@roszczenie praw@
+@arrow@|@strzała@
+@arrow-head@|@grot, ostrze (strzały)@
+@arrythmia@|@arytmia@
+@arrythmy@|@arytmia@
+@arse@|@dupa, tyłek@
+@arsenal@|@arsenał, zbrojownia@
+@arsenic@|@arsen, arsenowy@
+@arson@|@podpalenie@
+@art@|@jesteś (archaizm), sztuka@
+@arterial@|@tętnicowy, tętniczy@
+@artery@|@arteria, tętnica@
+@artesian@|@artezyjski@
+@artful@|@chytry, pomysłowy, przebiegły, zręczny@
+@artfulness@|@chytrość, pomysłowość, przebiegłość, zręcznosć@
+@arthritic@|@artretyczny@
+@arthritis@|@artretyzm@
+@artichoke@|@karczoch@
+@article@|@artykuł, przedmiot@
+@articulate@|@artykułować, artykułowany, wyraźny@
+@articulation@|@artykulacja@
+@artifice@|@fortel, podstęp, sztuczka@
+@artificer@|@rzemieślnik, sprawca, twórca, wynalazca@
+@artificial@|@symulowany, sztuczny@
+@artificiality@|@sztuczność@
+@artillery@|@artyleria@
+@artillery-man@|@artylerzysta@
+@artisan@|@rzemieślnik@
+@artist@|@artysta@
+@artiste@|@artysta (estradowy)@
+@artistic@|@artystyczny@
+@artistry@|@mistrzostwo, sztuka@
+@artless@|@naturalny, szczery@
+@artlessness@|@naturalnosć, szczerość@
+@Aryan@|@Aryjczyk, aryjski@
+@as@|@gdy, jak, równie@
+@as soon as@|@jak tylko@
+@asbestos@|@azbest@
+@ascend@|@podnosić, wstępować (np. na tron), wznosić@
+@ascendancy@|@panowanie, przewaga, wpływ@
+@ascendant@|@panujący, wschodzący@
+@ascendency@|@panowanie, przewaga, wpływ@
+@ascendent@|@panujący, wschodzący@
+@ascension@|@podniesienie, wschodzenie@
+@Ascension Day@|@Wniebowstąpienie@
+@ascent@|@wchodzenie, wspinanie się@
+@ascertain@|@stwierdzić, upewnić się@
+@ascertainment@|@stwierdzenie, upewnienie się@
+@ascetic@|@asceta, ascetyczny@
+@asceticism@|@asceza@
+@ascorbic@|@askorbinowy@
+@ascribe@|@przypisywać@
+@ascription@|@przypisywanie@
+@aseptic@|@aseptyczny@
+@asexual@|@bezpłciowy@
+@ash@|@jesion, popiół@
+@ashamed@|@zawstydzony@
+@ash-bin@|@skrzynia na popiół@
+@ashen@|@jesionowy, popielaty@
+@ashore@|@na brzeg, na lad@
+@ashtray@|@popielniczka@
+@ash-tray@|@popielniczka@
+@Ash-Wednesday@|@Popielec, Środa Popielcowa@
+@ashy@|@szary@
+@Asia@|@Azja@
+@Asian@|@Azjata, azjatycki@
+@aside@|@na bok, na boku, na uboczu@
+@asinine@|@głupi, idiotyczny@
+@ask@|@poprosić, zaprosić, zapytać@
+@askance@|@ukośnie, z boku@
+@askew@|@krzywo@
+@aslant@|@na ukos, ukośnie@
+@asleep@|@pogrążony w śnie, śpiący@
+@aslope@|@pochyło, pochyły@
+@asp@|@osika, żmija@
+@asparagus@|@szparag@
+@aspect@|@aspekt, mina, wygląd@
+@aspen@|@osika, osikowy@
+@asperity@|@chropowatość, ostrość. szorstkość@
+@aspersion@|@obmowa, oszczerstwo@
+@asphalt@|@asfalt, wyasfaltować@
+@asphyxia@|@uduszenie się@
+@aspirant@|@aspirant, kandydat, starający się@
+@aspirate@|@aspirować, wdychać@
+@aspiration@|@aspiracja, dążenie, wdychanie@
+@aspirator@|@aspirator, pochłaniacz@
+@aspire@|@mieć aspiracje@
+@aspirin@|@aspiryna@
+@aspostle@|@apostoł, orędownik, wyznawca@
+@ass@|@dupa, osioł, tyłek, tyłek@
+@assail@|@atakwoać, napadać, zasypywać@
+@assailant@|@napastnik@
+@assassin@|@morderca, zabójca, zamachowiec@
+@assassinate@|@dokonać zamachu, zamordować@
+@assassination@|@morderstwo, zamach@
+@assault@|@atak, napaść@
+@assay@|@próba, spróbować@
+@assegai@|@dzida, włócznia@
+@assemblage@|@nagromadzenie, zgromadzenie, zmontowanie@
+@assemble@|@zebrać, zgromadzić, złożyć, zmontować@
+@assembly@|@agromadzenie, apel, montaż, zbiórka, zebranie@
+@assent@|@usankcjonować, wyrzić zgodę, zatwierdzenie@
+@assert@|@twierdzić, utrzymywać, zapewniać@
+@assertion@|@twierdzenie, zapewnienie@
+@assertive@|@stanowczy@
+@assess@|@nałożyć, oszacować, wymierzyć@
+@assessment@|@opodatkowanie, oszacowanie, wymierzenie@
+@assessor@|@taksator@
+@assets@|@aktywa@
+@asseverate@|@oświadczyć, zapewnić@
+@asseveration@|@oświadczenie, zapewnienie@
+@assiduity@|@pracowitość, wysiłki, wytrwałość@
+@assiduous@|@pilny, pracowity, wytrwały@
+@assign@|@przydzielić, wydzielić, wyznaczyć@
+@assignation@|@przydział, wydzielenie, wyznaczenie@
+@assimilate@|@przswoić, zasymilować@
+@assimilation@|@asymilacja, przyswojenie@
+@assist@|@pomagać, wspierać@
+@assistance@|@pomoc@
+@assistant@|@pomocnik, zastępca@
+@assize@|@sąd przysięgłych@
+@associate@|@dołaczyć, towarzysz, współpracownik@
+@association@|@połaczenie, skojarzenie, stowarzyszenie, związek@
+@assonance@|@asonans@
+@assort@|@dobierać, klasyfikować@
+@assortment@|@asortyment, dobór, wybór@
+@assuage@|@łagodzić, uspokajać, uśmierzać@
+@assuagement@|@uspokojenie, uśmierzenie, złagodzenie@
+@assumable@|@przypuszczalny@
+@assume@|@przyjmować, przypuszczać@
+@assuming@|@zarozumiały@
+@assumption@|@przybranie, przypuszczenie, założenie@
+@assurance@|@pewność, upewnienie, zapewnienie@
+@assure@|@ubezpieczyć, zabezpieczyć, zapewnić@
+@assuredly@|@niezawodnie, zapewne@
+@assymetry@|@asymetria@
+@aster@|@aster@
+@asterisk@|@gwiazdka@
+@astern@|@na rufie, z tyłu@
+@asthma@|@astma@
+@astigmatism@|@astygmatyzm@
+@astir@|@ożywiony, podniecony, w ruchu@
+@astonish@|@zadziwiać@
+@astonishing@|@zadziwiający@
+@astonishment@|@zdziwienie@
+@astound@|@zdumiewać@
+@astounding@|@zdumiewający@
+@astraddle@|@okrakiem@
+@astrakhan@|@karakuł@
+@astral@|@astralny@
+@astray@|@zabłąkać się, zaginąć@
+@astride@|@okrakiem@
+@astringent@|@środek ściągajacy@
+@astrologer@|@astrolog@
+@astrologic(al)@|@astrologiczny@
+@astrology@|@astrologia@
+@astronomer@|@astronom@
+@astronomic(al)@|@astronomiczny@
+@astronomy@|@astronomia@
+@astute@|@bystry, przebiegły, wnikliwy@
+@astuteness@|@bystrosć, przebiegłość, wnikliwosć@
+@asunder@|@od siebie, w oddaleniu@
+@asylum@|@przytułek, schronienie@
+@asymmetric(al)@|@asymetryczny@
+@asymptote@|@asymptota@
+@at@|@na, przy, w@
+@at once@|@naraz, natychmiast@
+@at the house of@|@w domu u@
+@at the same time@|@w tym samym czasie@
+@at the side of@|@po stronie@
+@at the very@|@Na samą myśl o czymś@
+@at times@|@czasami@
+@atavism@|@atawizm@
+@atavistic@|@atawistyczny@
+@atheism@|@ateizm@
+@atheist@|@ateista@
+@Athenian@|@Ateńczyk, ateński@
+@athlete@|@atleta@
+@athletic@|@atletyczny@
+@athwart@|@poprzecznie, w poprzek@
+@atilt@|@ukośnie, ukośny@
+@Atlantic@|@atlantycki@
+@atlas@|@atlas@
+@atmosphere@|@atmosfera@
+@atmospheric(al)@|@atmosferyczny@
+@atmospherics@|@zakłócenia atmosferyczne@
+@atoll@|@atol@
+@atom@|@atom@
+@atom(ic) bomb@|@bomba atomowa@
+@atomic@|@atomowy@
+@atomization@|@atomizacja@
+@atomize@|@rozpylać@
+@atomizer@|@rozpylacz@
+@atone@|@pokutować@
+@atonement@|@pokuta@
+@atonic@|@atoniczny@
+@atony@|@niedowład@
+@atrabilious@|@melancholijny@
+@atrocious@|@ochydny, okropny@
+@atrociousness@|@ohyda, okropnosć, okrucieństwo@
+@atrocity@|@ohyda, okropność, okrucieństwo@
+@atrophy@|@atrofia, zanik@
+@atropine@|@atropina@
+@attach@|@przyczepić, przymocować, przywiązać@
+@attache-case@|@skórzany kuferek, walizeczka@
+@attached@|@przydzielony, przywiązany@
+@attachment@|@przywiązanie, uwiązanie, więź@
+@attack@|@atak, atakować, napadać, napaść@
+@attain@|@dojść, przybywać, zdobywać@
+@attainable@|@osiagalny, osiągalny@
+@attainment@|@osiągnięcie, zdobycie@
+@attar@|@olejek@
+@attempt@|@próba, spróbować@
+@attend@|@służyć, towarzyszyć, uczęszczać@
+@attendance@|@dozór, obsługa@
+@attendant@|@dozorujący, towarzyszący@
+@attention@|@baczność, opieka, troska, uwaga@
+@attentive@|@dbały, pilny, usłużny, uważny@
+@attenuate@|@osłabiać@
+@attest@|@poświadczyć, zaświadczyć@
+@attestation@|@świadectwo, zaświadczenie@
+@attic@|@poddasze, strych@
+@Attic@|@attycki@
+@attire@|@strój, ubiór, ubrać, ustroić@
+@attitude@|@nastawienie, stusunek@
+@attitudinize@|@pozować, zachowywać sie nienaturalnie@
+@attorney@|@adwokat, prawnik@
+@attract@|@pociągać, przyciągać@
+@attraction@|@atrakcja, powab, przyciąganie, urok@
+@attractive@|@atrakcyjny, pociągający, ponętny@
+@attribute@|@atrybut, przymiot, przypisywać, właściwość@
+@attribution@|@kompetencja, przypisywanie, zakres@
+@attributive@|@określający@
+@attrition@|@ścieranie się@
+@attune@|@dostroić, nastroić@
+@auburn@|@kasztanowaty@
+@auction@|@aukcja, licytacja, licytować@
+@auctioneer@|@licytator@
+@audacious@|@śmiały, zuchwały@
+@audacity@|@śmiałość, zuchwalstwo@
+@audibility@|@dosłyszalność, możność usłyszenia@
+@audible@|@dosłyszalny@
+@audibly@|@donośnym głosem, wyraźnie@
+@audience@|@audiencja, publiczność, widownia@
+@audit@|@rewidować księgi, rewizja ksiąg@
+@audition@|@próba (głosu), słuch@
+@auditor@|@rewident księgowy, słuchacz@
+@auditorium@|@audytorium, sala@
+@auditory@|@słuchowy@
+@auger@|@świder@
+@aught@|@cokolwiek, coś@
+@augment@|@powiększyć@
+@augmentation@|@powiększenie, wzrost@
+@augmentative@|@zgrubiały@
+@augur@|@augur, przepowiadać, wróżbita, wróżyć@
+@augury@|@wróżba, zapowiedź@
+@august@|@czcigodny, dostojny@
+@August@|@czcigodny, dostojny, sierpień@
+@aunt@|@ciotka@
+@aural@|@słuchowy, uszny@
+@aureola@|@aureola@
+@auricle@|@małżowina uszna, przedsionek serca@
+@auricular@|@słuchowy, uszny@
+@aurist@|@otolog@
+@aurochs@|@żubr@
+@aurora@|@jutrzenka, zorza@
+@auscultation@|@osłuchiwanie@
+@auspices@|@auspicje@
+@auspicious@|@dobrze wróżący, pomyślny@
+@austere@|@srogi, surowy@
+@austereness@|@skromność, srogość, surowość@
+@austerity@|@skromność, srogość, surowość@
+@Australian@|@Australijczyk, australijski@
+@Austrian@|@austriacki, Austriak@
+@authentic@|@autentyczny@
+@authenticate@|@poświadczyć, zalegalizować@
+@authentication@|@poświadczenie, zalegalizowanie@
+@authenticity@|@autentycznosć@
+@author@|@autor@
+@authoress@|@autorka@
+@authoritative@|@autorytatywny, miarodajny@
+@authority@|@autorytet, powaga@
+@authorization@|@autoryzacja, upoważnienie, uprawnienie@
+@authorize@|@upoważnić@
+@authorshop@|@autorstwo, zawód pisarza@
+@autobiographic(al)@|@autobiograficzny@
+@autobiography@|@autobiografia@
+@autochthon@|@autochton, tubylec@
+@autochthonous@|@autochtoński, tubylczy@
+@autocracy@|@autokracja@
+@autocrat@|@autokrata, samowładca@
+@autocratic@|@autokratyczny@
+@autograph@|@autograf@
+@automata@|@automat@
+@automatic@|@automatyczny, machinalny, mechaniczny@
+@automation@|@automatyzacja@
+@automaton@|@automat@
+@automobile@|@auto, samochód@
+@autonomous@|@autonomiczny@
+@autonomy@|@autonomia, samorząd@
+@autopsy@|@autopsja@
+@autotype@|@fototypia, światłodruk@
+@autumn@|@jesień@
+@autumnal@|@jesienny@
+@auxiliary@|@pomocniczy@
+@avail@|@korzyść, pożytek, przynieść pożytek@
+@availability@|@dostępność, możność znalezienia@
+@available@|@dostępny, osiągalny@
+@avalanche@|@lawina@
+@avarice@|@skąpstwo@
+@avaricious@|@skąpy@
+@avenge@|@pomścić@
+@avenger@|@mściciel@
+@avenue@|@aleja, droga (np. do sławy), ulica@
+@averment@|@dowód, oświadczenie, twierdzenie@
+@averruncator@|@sekator@
+@averse@|@przeciwny czemuś@
+@averseness@|@awersja, niechęć, wstręt@
+@aversion@|@awersja, niechęć, wstręt@
+@avert@|@oddalić, odwrócić, uniknać@
+@aviary@|@ptaszarnia@
+@aviation@|@lotnictwo@
+@aviator@|@lotnik@
+@avid@|@chciwy@
+@avidity@|@chciwość@
+@avitaminosis@|@awitaminoza@
+@avocation@|@hobby@
+@avoid@|@uchylać się, unikać@
+@avoidance@|@stronienie, uchylanie się, unikanie@
+@avouch@|@ręczyć@
+@avow@|@przyznawać, wyznawać@
+@avowal@|@przyznanie się, wyznanie@
+@avowedly@|@jawnie, otwarcie@
+@await@|@czekać, oczekiwać@
+@awake@|@obudzić, wzbudzić, zbudzić@
+@awaken@|@obudzony, przebudzony, zbudzony@
+@awakening@|@nudzący się, przebudzenie@
+@award@|@nagradzać, nagroda, przyznawać@
+@aware@|@powiadomiony, świadomy@
+@awareness@|@świadomość@
+@away@|@a dala@
+@awe@|@groza, strach@
+@awesome@|@przeraźliwy, straszliwy, wzbudzający grozę@
+@awe-stricken@|@przejęty grozą, przerażony@
+@awe-stuck@|@przejęty grozą, przerażony@
+@awful@|@okropny, straszliwy, straszny@
+@awfully@|@okropnie, straszliwie, strasznie@
+@awhile@|@chwilę, króciutko@
+@awkward@|@niezdarny, niezgrabny, niezręczny, skrępowany@
+@awkwardly@|@niezdarnie, niezdranie, niezgrabnie@
+@awkwardness@|@niezdarność, niezgrabność, zakłopotanie@
+@awl@|@skrzydło@
+@awning@|@markiza, zasłona@
+@awry@|@krzywo, krzywy, opacznie, opaczny@
+@axe@|@siekiera, topór@
+@axial@|@osiowy@
+@axiom@|@aksjomat, pewnik@
+@axis@|@oś@
+@axle@|@oś (koła)@
+@axle-tree@|@oś (wozu)@
+@ay(e)@|@tak!@
+@azalea@|@azalia@
+@azimuth@|@azymut@
+@azote@|@azot@
+@azure@|@błekitny, błękit, lazur, lazurowy@
+@back@|@plecy@
+@backslash@|@ukośnik wsteczny@
+@bacon@|@bekon@
+@badger@|@borsuk@
+@bag@|@worek@
+@baker@|@piekarz@
+@bakery@|@piekarnia@
+@balance@|@saldo@
+@ball@|@bal, piłka@
+@baloon@|@balon@
+@Baltic@|@Bałtyk@
+@banana@|@banan@
+@band@|@taśma@
+@bandit@|@bandyta@
+@bank@|@bank@
+@barbecue@|@grill@
+@barber@|@fryzer@
+@barman@|@barman@
+@barrier@|@przeszkoda@
+@barrister@|@adwokat@
+@base@|@baza@
+@basket@|@kosz@
+@bathroom@|@łazienka@
+@battle@|@bitwa@
+@battle array@|@szyk bojowy@
+@be@|@być@
+@be afraid@|@bać się@
+@be astonished@|@dziwić się, zdziwić się@
+@be hungry@|@być głodnym@
+@be lacking@|@brakować@
+@be over@|@minąć@
+@beach@|@plaża@
+@beans@|@fasola@
+@bear@|@nosić@
+@beard@|@broda@
+@beast@|@bestia@
+@beat@|@bić@
+@beautiful@|@piękny@
+@because@|@bo, gdyż, ponieważ@
+@because of@|@z powodu@
+@become deaf@|@ogłuchnąć@
+@bed@|@łożko, łóżko@
+@beef@|@wołowina@
+@beer@|@piwo@
+@beetroot@|@burak@
+@before@|@przed, zanim@
+@beige@|@beż@
+@Beirut@|@Bejrut@
+@Belfast@|@Belfast@
+@Belgium@|@Belgia@
+@Belgrade@|@Belgrad@
+@belly ache@|@ból brzucha@
+@belongings@|@manatki@
+@beloved@|@drogi@
+@belt@|@pasek@
+@bench@|@ławka@
+@bend@|@zakręt@
+@Bermuda@|@Bermudy@
+@Bern@|@Berno@
+@besides@|@oprócz, ponadto@
+@best@|@najlepszy@
+@big@|@duży@
+@bigot@|@dewotka@
+@bird@|@ptak@
+@birth certificate@|@akt urodzenia@
+@birthday@|@urodziny@
+@bishop@|@biskup@
+@bitch@|@dziwka***@
+@bitter@|@gorzki@
+@bitterness@|@gorycz@
+@bivouac@|@biwak@
+@black marketeer@|@paser@
+@blackness@|@czerń@
+@blank cheque@|@czek in blanco@
+@blank form@|@blankiet@
+@blanket@|@koc@
+@blessed@|@błogosławiony@
+@blessing@|@błogosławieństwo@
+@blind drunk@|@pijany jak bela@
+@blockade@|@blokada@
+@blonde@|@blondyn, włosy blond@
+@bloodless@|@bezkrwawy@
+@bloom@|@kwiat, kwitnąć@
+@blotting paper@|@bibuła@
+@blouse@|@bluzka@
+@blue@|@niebieski@
+@bluff@|@blef@
+@boat@|@łódka, łódź@
+@bobbin@|@cewka@
+@body@|@ciało@
+@bodyguard@|@goryl@
+@boiler@|@bojler@
+@bomber@|@bombowiec@
+@book@|@książka@
+@bookshop@|@księgarnia@
+@boorish@|@grubiański@
+@border@|@granica@
+@both@|@oba@
+@bottle@|@butelka@
+@bottom@|@dno@
+@bough@|@konar@
+@bow@|@łuk@
+@bowl@|@waza@
+@box@|@pudełko@
+@boy@|@chłopiec@
+@boycott@|@bojkot@
+@boyfriend@|@przyjaciel@
+@branch@|@gałąż, konar@
+@bread@|@chleb, chłeb@
+@breakdown@|@awaria@
+@breakfast@|@śniadanie@
+@breast@|@pierś@
+@breasts@|@piersi kobiece@
+@breath@|@oddech@
+@brick@|@cegła@
+@brickyard@|@cegielnia@
+@bridge@|@most@
+@briefcase@|@aktówka, teka@
+@briefs@|@slipy@
+@bring@|@przynosić@
+@brisk@|@rześki, skoczny@
+@British@|@brytyjski@
+@broad bean@|@bób@
+@brood@|@wyląg@
+@brother@|@brat@
+@brow@|@brew@
+@bud@|@pączek, pąk@
+@build@|@budować@
+@bulb@|@cebulka@
+@bull@|@byk@
+@bullet-proof vest@|@kamizelka kuloodporna@
+@bumpy@|@wyboisty@
+@bureaucrat@|@biurokrata@
+@burn@|@palić@
+@bus@|@autobus@
+@businessman@|@przedsiębiorca@
+@busy@|@zajęty@
+@but@|@ale, zaś@
+@butler@|@kamerdyner@
+@butter@|@masło@
+@button@|@guzik, przycisk, zapinać@
+@buy@|@kupuwać@
+@buyer@|@kupiec@
+@buzz@|@bzykać@
+@by accident@|@przypadkiem@
+@cabin@|@chata, kajuta@
+@cable@|@kabel@
+@cabman@|@dorożkarz@
+@cacophony@|@kakofonia@
+@cactus@|@kaktus@
+@cafe/@|@kafejka@
+@Cairo@|@Kair@
+@cake@|@ciasto@
+@calculation@|@kalkulacja@
+@calculator@|@kalkulator@
+@calendar@|@kalendarz@
+@calendar month/year@|@rok/miesiąc kalendarzowy@
+@calibre@|@kaliber@
+@California@|@Kalifornia@
+@calligraphy@|@kaligrafia@
+@calm@|@spokojny, spokój@
+@caloric@|@kaloryczny@
+@calorie@|@kaloria@
+@Cambodia@|@Kambodża@
+@camcorder@|@kamera wideo@
+@camera@|@kamera@
+@Cameroon@|@Kamerun@
+@camouflage@|@kamuflaż@
+@camp@|@obóz@
+@campfire@|@ognisko@
+@campsite@|@pole biwakowe@
+@Canada@|@Kanada@
+@Canadian@|@Kanadyjczyk, kanadyjski@
+@canary@|@kanarek@
+@candidate@|@kandydat@
+@canned food@|@konserwy@
+@cannibal@|@kanibal@
+@cannon@|@armata@
+@canon law@|@prawo kanoniczne@
+@canonical@|@kanoniczny@
+@canyon@|@kanion@
+@capacitor@|@kondensator@
+@capital (Paris@|@stolica@
+@car@|@auto, samochód@
+@care@|@piecza@
+@carry@|@roznosić@
+@case@|@obudowa@
+@cash shortage@|@manko@
+@castle@|@zamek@
+@cat@|@kot@
+@catfish@|@sum@
+@cathedral@|@katedra@
+@cattle@|@bydło@
+@cauliflower@|@kalafior@
+@ceiling@|@sufit@
+@cellulair@|@komórka (ż)@
+@Celtic@|@celtycki@
+@cent@|@cent@
+@centre@|@środek@
+@century@|@wiek (100 lat)@
+@certainly@|@na pewno@
+@Ceylon@|@Cejlon@
+@chains@|@pęta@
+@chalk@|@kreda@
+@chamber music@|@muzyka kameralna@
+@chancellor@|@kanclerz@
+@chanson@|@piosenka@
+@chaos@|@chaos@
+@charming@|@ujmujący@
+@chat@|@rozmowa@
+@cheap@|@tani@
+@check@|@sprawdzać@
+@cheese@|@ser@
+@chemist's@|@apteka@
+@chest@|@kufer@
+@chicken@|@kurczak, kurczę@
+@chief@|@naczelnik@
+@child@|@dziecko@
+@chin@|@broda@
+@choice@|@gatunkowy@
+@cholelithiasis@|@Kamica pęcherzyka żółciowego@
+@choosy@|@wybredny@
+@christening@|@chrzciny@
+@Christmas@|@Boże Narodzenie@
+@church@|@kościół@
+@cigarette@|@papieros@
+@cinema@|@kino@
+@circle@|@koło@
+@circulation@|@obieg@
+@circus@|@plac@
+@city@|@miasto@
+@city hall@|@ratusz@
+@civil war@|@wojna domowa@
+@class@|@gromada@
+@classroom@|@praca klasowa@
+@clean@|@czysty@
+@clear@|@jasny@
+@climate@|@klimat@
+@cloakroom@|@szatnia@
+@clock@|@zegar@
+@clog@|@chodak@
+@close@|@Blisko, zamykać@
+@clothes@|@ubranie@
+@cloud@|@chmura@
+@cloudless@|@bezchmurny@
+@coast@|@wybrzeże@
+@cocoa@|@kakao, kakaowy@
+@cocoon@|@oprzęd@
+@coffee@|@kawa@
+@colander@|@cedzak@
+@cold@|@chłód, zimny@
+@coldly@|@zimno@
+@collar@|@kołnierz@
+@collection@|@zbiór@
+@colour@|@barwa@
+@combat@|@bój@
+@command@|@kazać, nakazać@
+@commander-in-chief@|@naczelny wódz@
+@common@|@zwykły@
+@communal@|@gminny@
+@compass@|@obręb@
+@complain@|@narzekać@
+@completion@|@ukończenie@
+@composition@|@skład@
+@computer graphics@|@grafika komputerowa@
+@concentrate@|@koncentrat@
+@concentration camp@|@obóz koncentracyjnjy@
+@conception@|@koncepcja@
+@concern@|@koncern@
+@concrete@|@beton@
+@condenser@|@kondensator@
+@condolences@|@kondolencje@
+@condom@|@kondom@
+@condor@|@kondor@
+@confederation@|@konfederacja@
+@conference@|@konferencja@
+@congratulatory@|@gratulacyjny@
+@conjunction@|@spójnik@
+@conman@|@naciągacz@
+@connoisseur@|@koneser@
+@conscious@|@przytomny@
+@construction@|@budowa@
+@contact@|@stykać się z@
+@contract@|@kontrakt@
+@contradict@|@przeczyć@
+@converse@|@rozmawiać@
+@copy@|@kopia@
+@cordially@|@serdecznie@
+@cork@|@korek@
+@corner@|@róg@
+@correct@|@prawidłowo@
+@correctly@|@poprawnie@
+@corrupt@|@skazić@
+@cost@|@koszt@
+@couch@|@kanapa@
+@counsel@|@porada@
+@counter@|@żeton@
+@country@|@kraj@
+@countryside@|@wieś@
+@couple@|@para@
+@courage@|@odwaga@
+@course@|@kurs@
+@court@|@dwór, sąd@
+@covered@|@nakryty@
+@cow@|@krowa@
+@CPU@|@procesor@
+@crank@|@korba@
+@crap@|@srać***@
+@cream@|@krem@
+@credit card@|@karta kredytowa@
+@cripple@|@kaleka@
+@crippled@|@kaleki@
+@crown@|@korona@
+@crumb@|@okruch@
+@crust@|@skórka@
+@cry@|@plakać@
+@cry-baby@|@beksa@
+@crying@|@płacz@
+@cucumber@|@ogórek@
+@cup@|@filiżanka, kubek@
+@cupboard@|@sklep@
+@customs@|@cło@
+@cute@|@ładny@
+@cycle@|@cykl@
+@Czech@|@czeski@
+@daddy@|@tatuś@
+@dagger@|@sztylet@
+@daily@|@dziennik@
+@damn***@|@cholera***@
+@dark@|@ciemny@
+@darn@|@cerować@
+@date@|@data@
+@daub@|@mazać@
+@daughter@|@córka@
+@day@|@dzień@
+@dead@|@martwy@
+@dean@|@dziekan@
+@dean's office@|@dziekanat@
+@death@|@śmierć@
+@death cetificate@|@akt zgonu@
+@decade@|@dziesięciolecie@
+@December@|@grudzień@
+@decimal@|@dziesiętny@
+@deep@|@głebokie, głębokie@
+@defective@|@wybrakowany@
+@defend@|@bronić, obronić@
+@deficiency@|@brak@
+@degree@|@stopień@
+@delicious@|@wyborny@
+@delighted@|@zachwycony@
+@demand@|@domagać się@
+@dentist@|@dentysta@
+@department@|@wydział@
+@departure@|@odjazd@
+@depend on@|@zależeć od@
+@dependence@|@zależność@
+@dependent@|@zależny@
+@desert@|@pustka, pustynia@
+@design@|@zamysł@
+@desktop@|@pulpit@
+@despite@|@mimo@
+@despot@|@despota@
+@dessert@|@deser@
+@diaphragm@|@przepona@
+@dictionary@|@słownik@
+@different@|@inny, odrębny, różny@
+@difficulty@|@trudność@
+@dining room@|@pokój jadalny@
+@dinner@|@obiad@
+@dioxide@|@dwutlenek@
+@diphtheria@|@błonica@
+@dirty@|@brudny@
+@disability@|@kalectwo@
+@discontented@|@niezadowolny@
+@discount@|@bonifikata@
+@dish@|@danie@
+@diskette@|@dyskietka@
+@dispute@|@spór@
+@distinguished@|@dystyngowany@
+@divide@|@dzielić@
+@division@|@dzielenie@
+@division sign@|@znak dzielenia@
+@do wonders@|@działać cuda@
+@docker@|@doker@
+@doctor@|@doktor@
+@dog@|@pies@
+@dog's life@|@psie życie@
+@domain@|@dziedzina@
+@domino@|@domino@
+@doomsday@|@sądny dzień@
+@door@|@drzwi@
+@dough@|@forsa@
+@dove of peace@|@gołąbek pokoju@
+@downpour@|@ulewa@
+@dozen@|@tuzin@
+@dragon@|@smok@
+@dragonfly@|@ważka@
+@drain@|@ściek@
+@drake@|@kaczor@
+@dress@|@sukienka, suknia@
+@drink@|@napój, pić@
+@drink one's fill of@|@napić się@
+@drive out@|@wygnać@
+@drug abuser@|@lekoman@
+@dry@|@suchy@
+@duck@|@kaczka@
+@dummy@|@smoczek@
+@during@|@podczas@
+@e.g.@|@np.@
+@eagle@|@orzeł@
+@ear@|@ucho@
+@early@|@wczesny@
+@easily@|@łatwo@
+@east@|@wschód@
+@easy@|@łatwy@
+@eat one's fill of@|@najeść się@
+@edict@|@edykt@
+@edition@|@nakład@
+@editor-in-chief@|@redaktor naczelny@
+@edma@|@obrzęk@
+@egg@|@jajko@
+@egoist@|@egoista@
+@eight@|@ósemka@
+@either .... or@|@albo .... albo@
+@elegant@|@elegancki@
+@element@|@żywioł@
+@elevator@|@winda@
+@eloquence@|@swada@
+@elsewhere@|@gdzie indziej@
+@embassy@|@ambasada@
+@embroider@|@oszyc@
+@emphasis@|@emfaza@
+@employee@|@pracownik@
+@employment policy@|@polityka kadrowa@
+@enemy@|@wróg@
+@engine@|@silnik@
+@English@|@angielski@
+@Englishman@|@Anglik@
+@enough@|@dosyć, dość@
+@entire@|@całkowity@
+@entirety@|@ogół@
+@epidermis@|@naskórek@
+@epilepsy@|@padaczka@
+@especially@|@specjalnie, zwłaszcza@
+@Europe@|@Europa@
+@evasion@|@wybieg@
+@even@|@nawet, parzysty, równy@
+@evening@|@wieczór@
+@everyone@|@każdy@
+@everywhere@|@wszędzie@
+@evidently@|@oczywiście@
+@exactly@|@dokładnie, właśnie@
+@examination@|@egzamin@
+@example@|@przykład@
+@except@|@z wyjątkiem@
+@excess@|@wybryk@
+@excusable@|@wybaczalny@
+@excuse me@|@przepraszam@
+@exercise@|@ćwiczenia, zadanie@
+@exercise-book@|@zeszyt@
+@existence@|@byt@
+@expect@|@oczekiwać@
+@expected@|@oczekiwany@
+@expel@|@wygnać@
+@explosion@|@wybuch@
+@explosive@|@wybuchowy@
+@extinct@|@wymarły@
+@eyes@|@oczy@
+@fable@|@bajka@
+@fabric@|@materiał@
+@face@|@twarz@
+@factory@|@fabryka@
+@fade@|@blaknąć@
+@faeces@|@kał@
+@faint@|@ulotny@
+@fall@|@padać@
+@false@|@fałszywy, obłudny@
+@family vault@|@grobowiec rodzinny@
+@famous@|@słynny@
+@fan@|@wentylator@
+@faovrite@|@ulubienica@
+@far from@|@daleko od, z dala od@
+@farewell@|@pożegnanie@
+@farmer@|@chłop, rolnik@
+@fashion@|@moda@
+@fat@|@tłusty@
+@father@|@ojciec@
+@fatso@|@grubas@
+@fatty@|@grubas@
+@fault@|@wada@
+@faultless@|@bezbłędny@
+@fauna@|@fauna@
+@favourite@|@ulubienica, ulubiony@
+@fear@|@obawa@
+@feather@|@pióro@
+@feathers@|@pierze@
+@February@|@luty@
+@feeding@|@żywienie@
+@feeling@|@uczucie@
+@feezer@|@lodówka@
+@female@|@(ż)@
+@fertile@|@żyzny@
+@few@|@kilka, mało@
+@field@|@pole@
+@fight@|@walka@
+@file@|@rząd@
+@filling station@|@stacja benzynowa@
+@film@|@film@
+@final@|@ostatni@
+@finally@|@wreszcie@
+@finances@|@finanse@
+@find out@|@dowiedzieć się, odszukać@
+@finished@|@skończony@
+@fire@|@ogień, ognisko@
+@fire-extinguisher@|@gaśnica@
+@firmly@|@mocno@
+@first@|@pierwszy@
+@first aid@|@pierwsza pomoc@
+@fish@|@ryba@
+@flag@|@flaga@
+@flash@|@błysnąć@
+@flat@|@mieszkanie@
+@flattered@|@pochlebiony@
+@flaw@|@skaza@
+@flexible@|@gibki@
+@flight@|@lot@
+@float@|@bujać@
+@floor@|@podłoga@
+@flower@|@kwiat@
+@fly@|@latać, mucha@
+@FM frequency modulation@|@UKF ultrakrótkie fale@
+@food@|@jedzenie, żywność@
+@food stamp@|@kartka żywnościowa@
+@foot@|@stopa@
+@for@|@aby, ażeby, dla, na@
+@forensic@|@medycyna sądowa@
+@forest@|@bory, las@
+@forgiveness@|@wybaczenie@
+@fork@|@widelec@
+@formality@|@formalność@
+@fortunately@|@na szczęście@
+@fountain@|@fontanna@
+@four@|@cztery@
+@frame@|@kadr@
+@France@|@Francja@
+@frankly@|@po prostu@
+@freckle@|@pieg@
+@free@|@wolny@
+@French@|@francuski@
+@frequent@|@częsty@
+@fresh@|@świeży@
+@Friday@|@piątek@
+@frigid@|@oziębły@
+@frock@|@habit, sukienka@
+@from@|@od@
+@from a long way away@|@z dala@
+@front@|@front@
+@fruit@|@owoc@
+@fruit-growing@|@sadownik@
+@fuck***@|@kurwa***@
+@fuel@|@paliwo@
+@fugitive@|@zbieg@
+@full@|@pełny@
+@funeral procession@|@kondukt żałobny@
+@furnished@|@umeblowany@
+@fuselage@|@kadłub samolotu@
+@fussy@|@wybredny@
+@galley@|@kambuz@
+@game@|@zabawa@
+@gamme@|@gram@
+@garden@|@ogród@
+@garden shears@|@sekator@
+@gas@|@benzyna@
+@gas pipeline@|@gazociąg@
+@gas-meter@|@gazomierz@
+@gate@|@wrota@
+@gay@|@radosny@
+@genealogy@|@genealogia@
+@general@|@generał@
+@generally@|@na ogół@
+@generation@|@generacja, pokolenie@
+@generous@|@szczodry@
+@gentleman@|@pan@
+@Georgia@|@Gruzja (in Europe/not in USA)@
+@Germany@|@Niemcy@
+@ghost@|@upiór@
+@gibberish@|@bełkot@
+@gift@|@dar@
+@girl@|@dziewczyna@
+@girlfriend@|@przyjaciółka@
+@girlish@|@dziewczęcy@
+@give@|@dać, dawać@
+@give as a gift@|@darować, podarować@
+@give back@|@oddać@
+@gladly@|@chętnie@
+@gland@|@gruczoł@
+@glare@|@blask księżyca, blask słońca@
+@glass@|@szkło@
+@glassy@|@szklisty@
+@glazier@|@szklarz@
+@glitter@|@blask klejnotów, błyszczeć@
+@glorious@|@wspaniały@
+@gloves@|@rękawiczki@
+@go@|@chodzić@
+@goalless draw@|@bezbramkowy@
+@God@|@Bóg@
+@gong@|@gong@
+@good@|@dobre, dobry@
+@good morning@|@dzień dobry@
+@goodbye@|@do widzenia@
+@gooseberry@|@agrest@
+@gorilla (animal)@|@goryl@
+@gourd@|@tykwa@
+@Gouvernment Security Office@|@Biuro Ochrony Rządu@
+@grain@|@zboże@
+@grandma@|@babcia@
+@grandmother@|@babka@
+@grandpa@|@dziadek@
+@granite@|@granit@
+@granulated@|@ganulowany@
+@graphite@|@grafit@
+@graphologist@|@grafolog@
+@grass@|@trawa@
+@gravel@|@żwir@
+@gravitation@|@grawitacja@
+@gray@|@szary@
+@great@|@wielki@
+@Grecce@|@Grecja@
+@Greek@|@grecki, Grek@
+@green@|@zielony@
+@green peas@|@zielony groszek@
+@Greenland@|@Grenlandia@
+@Greenlandic@|@grenlandzki@
+@greet@|@witać@
+@grey@|@siwy@
+@grief@|@smutek@
+@grocer@|@sklepikarz@
+@ground@|@masa, plac@
+@group@|@gromada@
+@grow@|@rosnąć@
+@guess@|@domyślac, domyślić się@
+@guitar@|@gitara@
+@gunpowder@|@proch@
+@hair@|@włosy@
+@hall of residence@|@dom akademicki@
+@ham@|@szynka@
+@hand@|@ręka@
+@hand-cart@|@wózek@
+@handcuffs@|@kajdanki, kajdany@
+@handful@|@garstka@
+@handicapped@|@ułomny@
+@handkerchief@|@chustka@
+@handle@|@uszko@
+@happiness@|@szczęście@
+@hard@|@twardy@
+@harp@|@harfa@
+@harvest@|@żniwo@
+@hat@|@kapelusz@
+@have@|@mieć@
+@HDD@|@twardy dysk@
+@he@|@on@
+@he took@|@wziął@
+@head@|@głowa, głowica@
+@headache@|@ból głowy@
+@head-office@|@centrala@
+@health@|@zdrowie@
+@healthy@|@zdrowy@
+@hear@|@słyszeć@
+@hearing@|@słuch@
+@heart@|@serce@
+@hearth@|@ognisko@
+@heat@|@upał@
+@heavy@|@ciężki@
+@heavy machine gun@|@cekaem@
+@height@|@wysokość@
+@hell@|@piekło@
+@hello@|@słucham@
+@help@|@pomoc@
+@helpless@|@bezbronny@
+@herd@|@stado@
+@here@|@tu, tutaj@
+@hereditary@|@dziedziczny@
+@heresy@|@herezja@
+@hero@|@bohater@
+@high@|@wysoki@
+@high calibre person@|@człowiek wielkiego kalibru@
+@highlander@|@góral@
+@hill@|@pagórek, wzgórze@
+@Hindu@|@Hindus@
+@hiss@|@bzykać@
+@historic@|@dziejowy@
+@history@|@dzieje@
+@holiday@|@ferie, święto, wczasy@
+@holy@|@święty@
+@homage@|@hołd@
+@homeless@|@bezdomny@
+@homework@|@praca domowa@
+@honestly@|@szczerze mówiąc@
+@hoop@|@obręcz@
+@hope@|@nadzieja@
+@horse@|@koń@
+@hot@|@gorący@
+@hotel manager@|@kierowniczka@
+@hour@|@godzina@
+@hourlong@|@godzinny@
+@house@|@dom@
+@housekeeper@|@gosposia@
+@housework@|@prace domowe@
+@how@|@jak@
+@how many@|@ile@
+@however@|@jednak@
+@hull@|@kadłub statku@
+@husband@|@mąż@
+@hyena@|@hiena@
+@hygiene@|@higiena@
+@hymen@|@błona dziewicza@
+@hypnosis@|@hipnoza@
+@hypocrisy@|@obłuda@
+@hypothesis@|@hipoteza@
+@I@|@ja@
+@I am@|@jestem@
+@i don't think so@|@nie sądzę@
+@I have@|@mam@
+@i have a headache@|@boli mnie głowa@
+@I love@|@kocham@
+@i miss you@|@brak mi ciebie@
+@I suppose@|@chyba@
+@ice cream@|@lody@
+@idyll@|@idylla@
+@if@|@czy, jeśli@
+@ignition@|@zapalenie@
+@ill@|@chory@
+@illiterate@|@analfabeta@
+@illness@|@choroba@
+@illusion@|@ułuda@
+@imagine@|@wyobrazić sobie@
+@impinge@|@rzutować@
+@imploring@|@błagalny@
+@improvement@|@ulepszenie@
+@in@|@w@
+@in a hurry@|@w pośpiechu@
+@in a low@|@po cichu@
+@in abundance@|@pod dostatkiem@
+@in addition@|@w dodatku@
+@in advance@|@z góry@
+@in full armour@|@w pełnej zbroi@
+@in order to@|@aby@
+@in the middle of@|@w środku@
+@in the nude@|@na golasa@
+@inaccurate@|@niedokładny@
+@incense@|@kadzidło@
+@inch@|@cal@
+@inclination@|@nachylenie@
+@infertility@|@bezpłodność@
+@inform@|@dawać znać@
+@informed@|@poinformowany@
+@ink-bottle@|@kałamarz@
+@inside of@|@wewnątrz@
+@inspect@|@oglądać@
+@integral@|@całka@
+@integrity@|@prawość@
+@intention@|@zamiar@
+@interest@|@zainteresowanie@
+@interesting@|@interesujący@
+@interview@|@wywiad@
+@intimate@|@kameralny@
+@is@|@jest@
+@island@|@wyspa@
+@issue@|@wypływ@
+@it@|@ono@
+@it goes without saying@|@To się rozumie samo przez sie@
+@Italian@|@Włoch@
+@Italy@|@Włochy@
+@it's not worth my while@|@to mi się nie kalkuluje@
+@ivy@|@bluszcz@
+@jab@|@dźgać, dźgnięcie, szturchać, szturchnięcie@
+@jabber@|@bełkot, paplać, trajkotać@
+@jabot@|@żabot@
+@jacinth@|@hiacynt@
+@jack@|@kontakt, lewarek, podnośnik, walet@
+@jack-a-dandy@|@dandys, strojniś@
+@jackal@|@szakal@
+@jackanapes@|@zarozumialec@
+@jackass@|@bałwan, osioł@
+@jack-boot@|@but rybacki@
+@jackdaw@|@kawka@
+@jacket@|@kurtka, marynarka, osłona, płaszcz@
+@jack-knife@|@scyzoryk@
+@jack-o-lantern@|@błędny ognik@
+@jack-plane@|@hebel, strug@
+@jaconet@|@ceratka, żakonet@
+@jade@|@babsko, nefryt, szkapa@
+@jaded@|@sterany@
+@jag@|@biba, iglica, popijawa, postrzępić, występ@
+@jagged@|@postrzępiony, strzępiasty@
+@jaguar@|@jaguar@
+@jail@|@uwięzić, więzienie@
+@Jakobin@|@dominikanin, jakobin@
+@jam@|@konfitura, korek, ścisnąć, zablokować, zator@
+@jamb@|@ościeże@
+@jamboree@|@jamboree, zlot skautów@
+@jam-jar@|@słoik (na konfitury)@
+@jam-nut@|@przeciwnakrętka@
+@jangle@|@brzęczeć, brzęczenie, dzwonić, dzwonienie@
+@janitor@|@dozorca, odźwierny, portier@
+@January@|@styczeń@
+@Japan@|@Japonia@
+@Japanese@|@Japończyk, japoński@
+@jar@|@kłótnia, słoik, wstrząs, zgrzyt@
+@jargon@|@gwara, żargon@
+@jasmin(e)@|@jaśmin@
+@jasper@|@jaspis@
+@jaundice@|@zawiść, żółtaczka@
+@jaunt@|@przejażdżka, wycieczka@
+@jauntily@|@beztrosko, ochoczo, wesoło, żwawo@
+@jaunty@|@beztroski, wesoły@
+@javelin@|@oszczep@
+@jaw@|@gadać, ględzić, imadła, szczęka@
+@jaw-bone@|@kość szczękowa@
+@jaw-breaker@|@wyraz trudny do wymówienia@
+@jay@|@gaduła, pleciuga, sójka@
+@jay-walker@|@nieuważny przechodzień@
+@jazz@|@jazz, muzyka jazzowa@
+@jealous@|@zawistny, zazdrosny@
+@jealousy@|@zawisć, zazdrość@
+@jean@|@drelich, dżinsy@
+@jeep@|@dżip, łazik@
+@jeer@|@drwina, kpina, szydrestwo, wyśmiać@
+@jejune@|@jałowy, nieciekawy, nieurodzajny, nudny@
+@jelly@|@galaretka, kisiel@
+@jelly-fish@|@meduza@
+@jemmy@|@łom@
+@jenny@|@oślica@
+@jeopardize@|@narazić na niebezpiecześńtwo@
+@jeopardy@|@niebespieczeństwo@
+@jeremiad@|@jeremiada@
+@jerk@|@odruch, targnięcie@
+@jerky@|@nagły, nierówny@
+@jerry can@|@kanister@
+@jerry-building@|@tandetne budownictwo@
+@jerry-built@|@tandetnie zbudowany@
+@jersey@|@sweter@
+@jessamine@|@jaśmin@
+@jest@|@dowcip, żart@
+@jester@|@błazen, żartowniś@
+@Jesuit@|@jezuita@
+@Jesuitic(al)@|@jezuicki@
+@jet@|@gagat, odrzutowiec, rozpylacz, wytrysk@
+@jet-black@|@czarny jak smoła@
+@jet-propelled@|@odrzutowy@
+@jetsam@|@towar wyrzucony za burtę@
+@jettison@|@wyrzucenie towaru za burtę@
+@jetty@|@falochron, molo, nadbrzeże@
+@Jew@|@Żyd@
+@jewel@|@klejnot@
+@jewel(le)ry@|@biżuteria, klejnoty@
+@jeweller@|@jubiler@
+@Jewess@|@Żydówka@
+@Jewish@|@żydowski@
+@Jewry@|@getto, Żydzi@
+@jew's-harp@|@drumla@
+@Jezebel@|@nierządnica@
+@jib@|@kliwer, opierać się, wysięgnik@
+@jib-boom@|@sztenga dziobruka@
+@jibe@|@drwina, kpić, kpina@
+@jiffy@|@chwilka, moment@
+@jig@|@tańćzyć@
+@jigsaw@|@laubzega, wyrzynarka@
+@jilt@|@kokietka, uwodzicielka@
+@Jim Crow@|@Murzyn@
+@jingle@|@brzęk, dzwonić, dźwięcznie@
+@jingo@|@szowinista@
+@jingoism@|@szowinizm@
+@jinricksha@|@riksza@
+@jinrikicha@|@riksza@
+@jitney@|@moneta pięciocentowa (US)@
+@job@|@dźgnięcie, praca, robota, robota, ukłucie, zadanie@
+@jobber@|@makler, pośrednik@
+@jobbery@|@machinacje, szachrajstwo@
+@jockey@|@okpić, oszukać@
+@jocose@|@dowcipkujący, wesoły@
+@jocularity@|@żartobliwość@
+@joculary@|@żartobliwy@
+@jocund@|@pogodny, wesoły@
+@jocundity@|@pogodne usposobienie, wesołość@
+@jodhpurs@|@bryczesy@
+@jog@|@szturchnięcie, trącać@
+@joggle@|@potrząsanie, wpust, wstrząsać@
+@jog-trot@|@trucht, wolny kłus@
+@johnny@|@facet, frant@
+@join@|@połaczenie, połączyć, przyłaczyć, spojenie@
+@joiner@|@stolarz@
+@joinery@|@stolarstwo@
+@joint@|@połaczenie, styk, wspólny, złącze@
+@jointer@|@gładzik, strug@
+@joint-stock company@|@towarzystwo akcyjne@
+@jointure@|@wdowie dożywocie@
+@joist@|@legar@
+@joke@|@dowcip, żart@
+@joker@|@dowcipniś, joker, żartowniś@
+@joking@|@żartobliwy@
+@jokingly@|@żartem, żartobliwie@
+@jollify@|@zabawić się@
+@jollity@|@zabawa@
+@jolly@|@bardzo, przyjemny, strasznie, wesoły@
+@jolly-boat@|@szalupa@
+@jolt@|@szarpnięcie, trząść się, wstrząs@
+@jonquil@|@żonkil@
+@jorum@|@czara, puchar@
+@joss stick@|@kadzidełko@
+@jostle@|@potrącać, rozpychać się, szturchnięcie@
+@jot@|@odrobina, zapisywać@
+@journal@|@dziennik, pamiętnik, żurnal@
+@journalism@|@dziwnnikarstwo@
+@journalist@|@dziennikarz@
+@journey@|@podróż, przejażdżka@
+@journeyman@|@czeladnik@
+@joust@|@potykać się (w turnieju)@
+@jovial@|@jowialny@
+@joviality@|@jowialność@
+@jowl@|@policzek, szczęka@
+@joy@|@radość@
+@joyful@|@radosny, uradowany@
+@joyless@|@smutny@
+@joyous@|@radosny, uradowany@
+@joy-ride@|@przejażdżka cudzym samochodem@
+@joystick@|@drążek sterowy, joystick@
+@jubilant@|@pełen triumfu, uradowany@
+@jubilate@|@radować się, triumfować@
+@jubilation@|@radowanie, triumfowanie@
+@jubilee@|@jubileusz@
+@Judaic@|@judejski, żydowski@
+@Judaism@|@judaizm@
+@judas@|@judasz@
+@judge@|@osądzać, sądzić, sędzia, znawca@
+@judgement@|@opinia, sąd, sądzenie@
+@judicature@|@wymiar sprawiedliwości@
+@judicial@|@sądowy, sędziowski@
+@judiciary@|@ogół sędziów w kraju@
+@judicious@|@rozsądny, rozumny@
+@jug@|@dzbanek, garnek, kubek@
+@juggins@|@dureń, głupek@
+@juggle@|@żonglerka, żonglować@
+@juggler@|@kuglarz, oszust@
+@Jugoslav@|@Jugosłowianin, jugosłowiański@
+@jugular@|@szyjny@
+@juice@|@sok@
+@juicy@|@soczysty@
+@julep@|@ulepek@
+@Julian@|@juliański@
+@July@|@lipiec@
+@jumble@|@mieszanina, pomieszać@
+@jumbo@|@kloc, kolos@
+@jump@|@skok, wyskok@
+@jumper@|@bluza, skoczek@
+@jumpy@|@nerwowy@
+@junction@|@połączenie, złącze@
+@juncture@|@połączenie@
+@June@|@czerwiec@
+@june bug@|@chrząszcz@
+@jungle@|@dżungla, gąszcz@
+@jungle fever@|@malaria, zimnica@
+@junior@|@junior, młodszy, podwładny@
+@juniper@|@jałowiec@
+@junk@|@rupieć, złom@
+@junket@|@hulanka, legumina, zabawa@
+@junta@|@junta, klika, rada@
+@Jupiter@|@Jowisz@
+@jupiter lamp@|@jupiter@
+@Jurassic@|@jurajski@
+@juridical@|@jurydyczny, prawniczy@
+@jurisconsult@|@prawik@
+@jurisdiction@|@jurysdykcja@
+@jurisprudence@|@prawoznawstwo@
+@jurist@|@jurysta, prawnik@
+@juristic(al)@|@naukowo-prawniczy@
+@juror@|@juror@
+@jury@|@jury, prowizoryczny, przysięgli@
+@jury-box@|@ława przysięgłych@
+@juryman@|@przysięgły@
+@just@|@rzetelny, słuszny, sprawiedliwy, ściśle, tylko@
+@justice@|@sprawiedliwość@
+@justifiable@|@słuszny@
+@justification@|@justowanie, usprawiedliwienie@
+@justify@|@justować, usprawiedliwić@
+@justness@|@słuszność@
+@jut@|@sterczeć, wystająca część, wystawać, występ@
+@jute@|@juta@
+@juvenescence@|@okres dorastania@
+@juvenile@|@małoletni, nieletni, wyrostek@
+@juvenility@|@młodzieńczość@
+@juxtapose@|@zestawić@
+@juxtaposition@|@zestawienie@
+@kaftan@|@kaftan arabski@
+@kale@|@kapusta włoska@
+@kaleidoscope@|@kalejdoskop@
+@kangaroo@|@kangur@
+@kaolin@|@kaolin@
+@kapok@|@kapok@
+@kayak@|@kajak@
+@kayaker@|@kajakarz@
+@keel@|@kil, stępka, wywrócić@
+@keelboat@|@kuter rybacki@
+@keen@|@cięty, ostry, przenikliwy@
+@keen-edged@|@tnący@
+@keenness@|@ciętość, ostrość, przenikliwość@
+@keep@|@przestrzegać, utrzymywać, zachowywać@
+@keeper@|@dozorca, kurator, kustosz, opiekun@
+@keeping@|@harmonia, opieka, zgoda@
+@keepsake@|@pamiątka, upominek@
+@keg@|@beczułka@
+@kelt@|@łosoś@
+@Keltic@|@celtycki@
+@ken@|@zakres, zasięg@
+@kennel@|@psia buda, psiarnia, rynsztok, ściek@
+@kerb@|@krawężnik@
+@kerchief@|@chustka (na głowę)@
+@kerf@|@nacięcie, przecięcie@
+@kermess@|@kiermasz@
+@kermis@|@kiermasz@
+@kern(e)@|@chłop, irlandzki żołnierz piechoty@
+@kernel@|@jądro, sedno@
+@kerosene@|@nafta@
+@kestrel@|@pustułka@
+@ketch@|@kecz@
+@ketchup@|@ketchup@
+@kettle@|@imbryk, kociołek@
+@kettle-drum@|@kocioł@
+@key@|@klucz, kluczowy, wysepka@
+@keyboard@|@klawiatura@
+@keyhole@|@dziurka od klucza@
+@keynote@|@myśl przewodnia, nuta kluczowa@
+@key-stone@|@myśl przewodnia, podstawa, zwornik@
+@khaki@|@khaki@
+@khamsin@|@chamsyn@
+@khan@|@chan@
+@kibe@|@odmrożenie@
+@kick@|@kopać@
+@kick-off@|@rozpoczęscie meczu@
+@kid@|@dzieciak, koźlę, nabierać, smyk@
+@kidnap@|@powrać, uprowadzić@
+@kidnapper@|@porywacz@
+@kidney@|@nerka@
+@kidney-bean@|@fasola@
+@kilderkin@|@baryłka@
+@kill@|@zabić, zamordować@
+@killer@|@morderca, zabójca@
+@killing@|@morderczy, śmiertelny, zabójczy@
+@killjoy@|@psujący innym zabawę@
+@kiln@|@pieco do wypalania@
+@kilogram(me)@|@kilogram@
+@kilometre@|@kilometr@
+@kilowatt@|@kilowat@
+@kilt@|@kilt@
+@kimono@|@kimono@
+@kin@|@krewny, ród, spokrewniony@
+@kind@|@gatunek, łagodny, miły, rodzaj, uprzejmy, życzliwy@
+@kindergarten@|@przedszkole@
+@kind-hearted@|@dobrotliwy, życzliwy@
+@kindle@|@rozpalać, zapalić, zapłonąć@
+@kindliness@|@dobroć, życzliwość@
+@kindling-wood@|@drewno na podpałkę@
+@kindly@|@dobrotliwy, łaskawie, uprzejmie, życzliwy@
+@kindness@|@dobroć, uprzejmość, życzliwość@
+@kindred@|@pokrewieństwo, pokrewny@
+@kine@|@bydło@
+@kinetic@|@kinetyczny@
+@kinetics@|@kinetyka@
+@king@|@król@
+@kingcraft@|@sztuka panowania@
+@kingcup@|@kaczeniec, kaczyniec@
+@kingdom@|@królestwo@
+@kingfisher@|@zimorodek@
+@kinglet@|@królewiątko, mysikrólik@
+@kingly@|@królewski@
+@king-pin@|@grupa ryba, król@
+@king-post@|@wieszak@
+@kingship@|@królewskość, panowanie@
+@kink@|@bzik, skręt, supeł, węzeł@
+@kinsfolk@|@krewni, rodzeństwo@
+@kinship@|@pokrewieństwo@
+@kinsman@|@krewny@
+@kinswoman@|@krewna@
+@kiosk@|@kiosk@
+@kipper@|@łosoś w okresie tarła, śledź wędzony@
+@kirk@|@kościół@
+@kiss@|@całować, całus, pocałunek@
+@kit@|@cebrzyk, kubeł, plecak, wyposażenie@
+@kitchen@|@kuchnia@
+@kitchenette@|@kuchenka@
+@kite@|@kania, latawiec@
+@kith@|@znajomi@
+@kitten@|@kociak@
+@kitty@|@kiciuś, koteczek@
+@kiwi@|@kiwi@
+@kleptomania@|@kleptomania@
+@kleptomaniac@|@kleptoman@
+@knack@|@talent, zręczność@
+@knag@|@sęk@
+@knaggy@|@sękaty@
+@knap@|@potłuc, rozbijać@
+@knapsack@|@plecak, tornister@
+@knapweed@|@bławatek, chaber@
+@knar@|@narośl (na pniu)@
+@knave@|@kanalia, łotr, szelma, walet@
+@knavery@|@łotrostwo@
+@knead@|@gnieść, masować@
+@kneading-trough@|@dzieża@
+@knee@|@kolano@
+@knee-breeches@|@krótkie spodnie@
+@knee-cap@|@rzepka kolanowa@
+@knee-deep@|@po kolana@
+@knee-high@|@sięgający po kolana@
+@kneel@|@klęczeć@
+@knell@|@dzwonienie po umarłym@
+@knicker-bockers@|@krótkie spodnie, pumpy@
+@knickers@|@majtki po kolana@
+@knick-knack@|@cacko@
+@knife@|@nóż@
+@knife-grinder@|@szlifierz@
+@knight@|@kawaler, rycerz@
+@knight-errant@|@błędny rycerz@
+@knighthood@|@bractwo rycerskie, rycerstwo, tytuł szlachecki@
+@knightly@|@rycerski@
+@knit@|@robić na drutach@
+@knitter@|@dziewiarz, trykotarz@
+@knitting@|@dzianie, trykotarstwo@
+@knives@|@noże@
+@knob@|@gałka, guz, guzik, wupykłość@
+@knobby@|@gałkowaty, guzowaty@
+@knock@|@kołatka, stukać, stuknięcie, uderzenie, uderzyć, wybić@
+@knock-about@|@błazeński, hałaśliwy@
+@knock-down@|@ogłuszający@
+@knocker@|@człowiek pukający, kołatka@
+@knock-out@|@nokaut, nokautowy@
+@knoll@|@kopiec, pagórek@
+@knot@|@sęk, supeł, trudność, węzeł@
+@knot-grass@|@rdest ptasi@
+@knotty@|@węzłowaty, zawiły@
+@know@|@wiedzieć, znać@
+@know-how@|@znajomość rzeczy@
+@knowing@|@rozumny, wprawny@
+@knowingly@|@świadomie, umyślnie@
+@knowledge@|@wiedza, znajomość@
+@knowledgeable@|@dobrze poinformowany@
+@known@|@znany@
+@knuckle@|@klykieć, kostka, staw, szturchać@
+@knur(r)@|@guz (na pniu drzewa), sęk@
+@kodak@|@kodak@
+@kohl-rabi@|@kalarepa@
+@kolkhoz@|@kołhoz@
+@koncentration@|@koncentracja@
+@Korean@|@Koreańczyk, koreański@
+@kosher@|@koszerny@
+@kotow@|@kłanianie się w pas, płaszczenie się@
+@koumiss@|@kumys@
+@kromesky@|@krokiet@
+@krone@|@korona@
+@ladies and gentlemen@|@panśtwo@
+@lady@|@dama, pani@
+@lamp@|@lampa@
+@landlord@|@właściciel kamienicy@
+@language@|@język@
+@lash@|@smagać@
+@late@|@późny@
+@later@|@póżniej@
+@laughter@|@śmiech@
+@law@|@prawo@
+@law and order@|@praworządność@
+@law-abiding@|@prawomyślny, praworządny@
+@lawsuit@|@proces sądowy@
+@lawyer@|@prawnik@
+@lazy@|@leniwy@
+@lead@|@ołów, smycz@
+@leaflet@|@ulotka@
+@leek@|@por@
+@leg@|@noga@
+@legally valid@|@prawomocny@
+@legislation@|@prawodawstwo@
+@legislative@|@prawodawczy@
+@legislator@|@prawodawca@
+@legitimate@|@prawowity@
+@lemon@|@cytryna@
+@less@|@mniej@
+@lesson@|@leckja, lekcja@
+@letter@|@list, pismo@
+@lettuce@|@sałata@
+@liar@|@kłamca@
+@licence@|@samowola@
+@license@|@koncesja@
+@life@|@życie, żywot@
+@lift@|@podnosić@
+@light@|@światło@
+@like@|@podobny@
+@likely@|@pewnie, prawdopodobnie@
+@linen@|@pościel@
+@lips@|@usta@
+@listen@|@słuchać@
+@little@|@mały@
+@little bridge@|@mostek@
+@little mug@|@garnuszek@
+@live@|@mieszkać@
+@live to see@|@doczekać, doczekiwać, dożyć@
+@lively@|@fabuła@
+@living room@|@pokój dzienny@
+@load@|@załadować@
+@Lodz@|@Łódź@
+@loincloth@|@biodra@
+@lok after@|@pilnować@
+@London)@|@stolica@
+@loner@|@samotnik@
+@long@|@długi@
+@long johns@|@kalesony@
+@long time@|@długo@
+@look@|@patrzeć@
+@look after@|@upilnować@
+@look for@|@szukać@
+@look-out (in forest)@|@ambona@
+@lorry@|@cieężarówka@
+@loss@|@strata@
+@lost property office@|@biuro rzeczy znalezionych@
+@lot@|@plac@
+@loudly@|@głośno, głośny@
+@loundry@|@brudna bielizna@
+@love@|@kochać, miłość@
+@low@|@niski@
+@luggage@|@bagaż@
+@lump@|@guz@
+@lunatic asylum@|@zakład dla obłąkanych@
+@lunch@|@posiłek południowy@
+@lych law@|@samosąd@
+@magazine@|@czasopismo@
+@maid@|@panna, służąca@
+@mail@|@poczta@
+@mainboard@|@płyta główna@
+@majority of@|@większość@
+@make use of@|@korzystać@
+@maker@|@twórca@
+@malt@|@słód@
+@mammal@|@ssak@
+@man@|@człowiek@
+@manner@|@sposób@
+@many@|@bardzo, dużo, wiele@
+@map@|@mapa@
+@March@|@marzec@
+@mark@|@marka@
+@market@|@bazar, rynek@
+@maroon@|@bordowy@
+@marriage cerificate@|@akt ślubu@
+@marsh@|@błoto@
+@master@|@władca@
+@match@|@zapałka@
+@matter@|@rzecz@
+@mattress@|@materac@
+@May@|@maj@
+@meal@|@posiłek@
+@means@|@środki@
+@meanwhile@|@tymczasem@
+@meat@|@mięso@
+@meeting@|@zebranie@
+@membrane@|@błona@
+@memory@|@pamięć@
+@mental aberration@|@zaburzenie umysłowe@
+@mere thought of sth@|@Na samą myśl o czymś@
+@metal strip@|@blaszka@
+@Mexico@|@Meksyk@
+@micro-wave oven@|@mikrofalówka@
+@military@|@wojskowy@
+@milk@|@mleko@
+@mine@|@moje, mój@
+@miner@|@górnik@
+@minister@|@minister@
+@mirror@|@lustro@
+@miser@|@skąpiec@
+@miss@|@panna, rozminać się@
+@missile@|@rakieta@
+@mistake@|@bład, błąd@
+@moan@|@jęk@
+@modern@|@nowoczesny@
+@mole@|@kret, pieprzyk@
+@moment@|@chwila@
+@money@|@pieniądz@
+@month@|@miesiąc@
+@mood@|@samopoczucie@
+@more@|@bardziej@
+@more or less@|@mniej więcej@
+@moth@|@ćma@
+@mother@|@matka@
+@mountain@|@góra, górski, góry@
+@mouse@|@mysz@
+@moustache@|@wąs@
+@move@|@ruszać@
+@mucous membrane@|@błona śluzowa@
+@mudguard@|@błotnik@
+@musician@|@muzyk@
+@muzzle@|@kaganiec@
+@nab@|@capnąć, przydybać@
+@nacre@|@masa perłowa@
+@nadir@|@nadir, najniższy poziom@
+@nag@|@dokuczać, gderać, kucyk@
+@naiad@|@najada, nimfa wodna@
+@nail@|@gwóźdź, paznokieć, pazur, szpon, złapać@
+@naive@|@naiwny@
+@naivete@|@naiwność@
+@naivety@|@naiwność@
+@naked@|@nagi, obnażony@
+@naked person@|@golas@
+@nakedness@|@golizna@
+@name@|@imię, nazwisko, nazywać@
+@name day@|@imieniny@
+@name-day@|@imieniny@
+@nameless@|@bezimienny, niesłychany, nieznany@
+@namely@|@mianowicie@
+@namesake@|@imiennik@
+@nankeen@|@nankin@
+@nanny@|@niania@
+@nanny-goat@|@koza@
+@nap@|@drzemka, meszek, zdrzemnąć się@
+@napalm@|@napalm@
+@nape@|@kark@
+@napery@|@bielizna stołowa@
+@naphtha@|@ropa naftowa@
+@naphthaline@|@naftalina@
+@napkin@|@serwetka@
+@napoleon@|@napoleonka (ciasto)@
+@narciouss@|@narcyz@
+@narcosis@|@narkoza@
+@narcotic@|@narkotyczny, narkotyk@
+@narcotize@|@narkotyzować@
+@narg(h)ile(h)@|@nargile@
+@narrate@|@opowiadać@
+@narration@|@opowiadanie@
+@narrative@|@gawędziarski@
+@narrow@|@ciasny, wąski@
+@narrow-minded@|@ograniczony@
+@narwhal@|@narwal@
+@nasal@|@nosowy@
+@nasalize@|@mówić przez nos, nazalizować@
+@nascent@|@powstający, rodzący się@
+@nasturtium@|@nasturcja@
+@nasty@|@groźny, nieprzyjemny, paskudny, wstrętny@
+@natal@|@rodzinny@
+@natality@|@przyrost naturalny, współczynnik urodzeń@
+@natation@|@pływanie@
+@nation@|@naród, państwo@
+@national@|@narodowy@
+@national team@|@kadra narodowa@
+@nationalism@|@nacjonalizm@
+@nationalist@|@nacjonalista, nacjonalistyczny@
+@nationality@|@narodowość, obywatelstwo@
+@nationalization@|@nacjonalizacja@
+@nationalize@|@nacjonalizować, nadawać obywatelstwo, upaństwawiać@
+@native@|@krajowy, miejscowy, ojczysty, rodzimy, tubylczy@
+@nativity@|@horoskop, narodzenie@
+@natty@|@czysty, schludny, staranny@
+@natural@|@dziki, naturalny, pierwotny, wrodzony@
+@naturalism@|@naturalizm@
+@naturalize@|@aklimatyzować, naturalizować@
+@naturally@|@naturalnie@
+@nature@|@natura, przyroda, rodzaj, usposobienie@
+@naught@|@zero@
+@naughty@|@niegrzeczny, nieprzyzwoity@
+@nausea@|@mdłości, nudności@
+@nauseate@|@dostawać mdłości@
+@nauseating@|@obrzydliwy@
+@nautical@|@morski, żeglarski@
+@naval@|@marynarki wojennej, morski, okrętowy@
+@nave@|@nawa@
+@navel@|@pępek@
+@navel-string@|@pępowina@
+@navigable@|@spławny, żeglowny@
+@navigate@|@pilotować, sterować, żeglować@
+@navigation@|@nawigacja, żegluga@
+@navigator@|@nawigator@
+@navvy@|@kopacz, robotnik drogowy@
+@navy@|@flota, marynarka wojenna@
+@nay@|@ba, mało tego, nie, powiem nawet@
+@naze@|@cypel, przylądek@
+@Nazi@|@hitlerowski, nazista, nazistowski@
+@neap@|@mały@
+@near@|@bliski, Blisko, okok, opodal, w pobliżu@
+@nearby@|@pobliski@
+@nearing completion@|@być na ukończeniu@
+@nearly@|@Blisko, niemal, prawie, z bliska@
+@neat@|@bydło, czysty, schludny, staranny@
+@neatness@|@gustowność, porządek, schludność@
+@nebula@|@mgławica@
+@nebulous@|@mglisty, zamglony@
+@necessary@|@konieczny, potrzebny@
+@necessitarian@|@determinista@
+@necessitate@|@czynić koniecznym, wymagać@
+@necessitous@|@w biedzie, w potrzebie@
+@necessity@|@konieczność, potrzeba@
+@neck@|@kark, kołnierz, szyja@
+@neck-cloth@|@krawat@
+@necking@|@kolumny, szyjka@
+@necklace@|@naszyjnik@
+@necklet@|@naszyjnik, wisiorek@
+@neck-tie@|@krawat@
+@neckwear@|@kołnierzyki, krawaty, szaliki@
+@necrology@|@nekrolog@
+@necrosis@|@martwica, obumarcie@
+@nectar@|@nektar@
+@nectarine@|@nektarynka@
+@need@|@musieć, potrzeba, potrzebować@
+@needful@|@konieczny, niezbędny, potrzebny@
+@needle@|@igła@
+@needle-case@|@igielnik@
+@needless@|@niepotrzebny, zbędny@
+@needlewoman@|@szwaczka@
+@needle-work@|@robótki@
+@needy@|@potrzebujący@
+@negation@|@negacja, odmowa, zaprzeczenie@
+@negative@|@negatywny, odmowny, przeczący, ujemny@
+@neglect@|@zaniedbywać@
+@neglectful@|@niedbały, niestaranny@
+@neglige@|@negliż, szlafrok@
+@negligence@|@lekceważenie, niedbalstwo, zaniedbywanie@
+@negligent@|@niedbały, opieszały@
+@negligible@|@bez znaczenia, niestotny@
+@negotiable@|@sprzedażny@
+@negotiate@|@omawiać warunki, pertraktować@
+@negotiation@|@pertraktacje, sprzedaż@
+@Negress@|@Murzynka@
+@Negro@|@Murzyn, murzyński@
+@neighbour@|@sąsiad, sąsiadować@
+@neighbourhood@|@sąsiedzi, sąsiedztwo@
+@neighbouring@|@sąsiadujący, sąsiedni@
+@neighbourly@|@przyjazny, życzliwy@
+@neight@|@rżenie, zarżeć@
+@neither@|@ani jeden ani drugi, też nie, żaden@
+@nenuphar@|@lilia wodna, nenufar@
+@neolithic@|@neolityczny@
+@neologism@|@neologizm@
+@neology@|@neologizm@
+@neon@|@neon@
+@neophyte@|@neofita@
+@nephew@|@bratanek, siostrzeniec@
+@nephrite@|@nefryt@
+@nephritis@|@zapalenie nerek@
+@nepotism@|@nepotyzm@
+@nerve@|@czelność, nerw, tupet@
+@nerveless@|@bez energii, bez sił, blady, mdły, słaby@
+@nervine@|@środek uspokajający@
+@nervous@|@nerwowy, niespokojny@
+@nervy@|@energiczny, niespokojny@
+@nescient@|@nieświadomy@
+@nest@|@gniazdo, zagnieździć@
+@nestle@|@przytulić, skulić się@
+@nestling@|@pisklę@
+@net@|@netto, sieć@
+@nether@|@dolny@
+@netting@|@siatka, sieć@
+@nettle@|@pokrzywa, sparzyć pokrzywą, zirytować@
+@nettle-rash@|@pokrzywka@
+@network@|@sieć@
+@neuralgia@|@nerwoból, newralgia@
+@neurasthenia@|@neurastenia@
+@neuritis@|@zapalenie nerwu@
+@neurologist@|@neurolog@
+@neurology@|@neurologia@
+@neurosis@|@nerwica@
+@neurotic@|@nerwowo chory@
+@neuter@|@bezpłciowy, bezstronny, rodzaju nijakiego@
+@neutral@|@bezstronny, neutralny, obojętny@
+@neutrality@|@neutralność@
+@neutralize@|@neutralizować, zobojętniać@
+@neutron@|@neutron@
+@never@|@nigdy@
+@nevermore@|@nigdy więcej@
+@nevertheless@|@niemniej jednak, pomimo tego@
+@new@|@nowy@
+@newcomer@|@przybysz@
+@new-fangled@|@nowomodny, świeżo wprowadzony@
+@newly@|@niedawno, ostatnio@
+@news@|@aktualności, nowiny, wiadomości@
+@news-agent@|@właściciel kiosku z gazetami@
+@news-boy@|@gazeciarz@
+@newsmonger@|@plotkarz@
+@newspaper@|@dziennik, gazeta@
+@newsreel@|@kronika filmowa@
+@news-room@|@czytelnia czasopism@
+@newt@|@traszka, tryton@
+@next@|@najbliższy, następnie, następny, potem, sąsiedni@
+@next-door@|@najbliższy, sąsiedni@
+@nib@|@stalówka@
+@nibble@|@ogryzać, skubać@
+@nice@|@grzeczny, ladny, miły, przyjemny@
+@nice-looking@|@ładny, przystojny@
+@nicely@|@grzecznie, przyjemnie, uprzejmie@
+@nicety@|@delikatnosć, dokładność, precyzja, subtelność@
+@niche@|@nisza, wnęka@
+@nick@|@nacięcie, szczerba, zdążyć@
+@nickel@|@nikiel, niklować@
+@nickname@|@przezwisko, przydomek@
+@nicotine@|@nikotyna@
+@nictate@|@mrugać@
+@nidus@|@gniazdo, siedlisko@
+@niece@|@bratanica, siostrzenica@
+@niello@|@czarna emalia@
+@nigard@|@skąpiec, sknera@
+@niggard@|@skąpiec@
+@niggardly@|@skąpy@
+@nigger@|@Murzyn@
+@niggle@|@tracić czas na drobiazgi@
+@niggling@|@drobiazgowy@
+@night@|@noc, nocny@
+@night-club@|@nocny lokal@
+@night-dress@|@koszula nocna@
+@nightfall@|@zmrok@
+@nightgown@|@koszula nocna@
+@nightingale@|@słowik@
+@nightjar@|@kozodój@
+@nightly@|@co noc, nocny, wieczorny@
+@nightmare@|@koszmar@
+@night-school@|@szkoła wieczorowa@
+@night-time@|@nocna pora@
+@night-walker@|@lunatyk@
+@night-walking@|@somnambulizm@
+@nighty@|@dziecinna koszula nocna@
+@nihilism@|@nihilizm@
+@nihilistic@|@nihilistyczny@
+@nil@|@zero@
+@nimble@|@lekki, szybki, zwinny, żwawy@
+@nimbus@|@chmura deszczowa, nimb@
+@niminy-piminy@|@afektowany, sztuczny@
+@nincompoop@|@ciamajda, głupiec, małolatek@
+@nine@|@dziewięć@
+@ninefold@|@dziewięciokrotny@
+@ninepins@|@kręgle@
+@nineteen@|@dziewiętnaście@
+@nineteenth@|@dziewiętnasty@
+@ninetieth@|@dziewięćdziesiąty@
+@ninety@|@dziewięćdziesiąt@
+@ninny@|@ciamajda, fujara, głupiec@
+@ninth@|@dziewiąty@
+@niobium@|@niob@
+@nip@|@łyk, uszczypnąć@
+@nipper@|@chłopiec, młodzik, ulicznik@
+@nipple@|@pagórek, sutek, wzniesienie@
+@nippy@|@mroźny, szczypiący@
+@nit@|@gnida@
+@niticeable@|@dostrzegalny, godny uwagi, widoczny@
+@nitrate@|@azotan@
+@nitre@|@saletra@
+@nitric@|@azotowy@
+@nitrify@|@nitryfikować@
+@nitro-compound@|@nitrozwiązek@
+@nitrogen@|@azot@
+@nitrogenous@|@azotowy@
+@nitro-gliycerin(e)@|@nitrogliceryna@
+@nitwit@|@bałwan, tuman@
+@niviciate@|@nowicjat@
+@nix@|@duch wodny, nic, wodnik@
+@no@|@nie@
+@no later than@|@nie później niż@
+@no.@|@nr@
+@nob@|@głowa, lepszy gość, pałą@
+@nobby@|@elegancki, szykowny@
+@nobility@|@arystokracja, szlachetność, szlachta@
+@noble@|@imponujący, szlachecki, szlachetny, wielkoduszny@
+@nobleman@|@pan wielkiego rodu@
+@nobody@|@nikt@
+@nocturnal@|@nocny@
+@nod@|@kiwnąć głową, kiwnięcie, skinąć głową, skinienie@
+@noddle@|@głowa, pałą@
+@nodle@|@węzeł@
+@nodule@|@guzek, węzełek@
+@nodus@|@kolanko, węzeł@
+@nog@|@klin, klocek@
+@noggin@|@kubek@
+@nohow@|@w żaden sposób@
+@noise@|@hałas, szum, zakłócenia, zgiełk@
+@noiseless@|@bezszmerowy, cichy@
+@noisome@|@cuchnący, niezdrowy, szkodliwy, szkodliwy@
+@noisy@|@hałaśliwy, krzykliwy@
+@nomad@|@koczownik, nomad@
+@nomadic@|@koczowniczy, wędrowny@
+@nomenculature@|@nomenklatura@
+@nominal@|@nominalny, symboliczny@
+@nominate@|@mianować, obierać@
+@nomination@|@nominacja@
+@nominative@|@mianownik@
+@nominee@|@wyznaczony kandydat@
+@non-@|@bez-, nie-@
+@nonage@|@małoletność, niepełnoletność@
+@non-appearance@|@niestawiennictwo@
+@non-attendance@|@absencja, nieobecność@
+@nonce@|@na razie@
+@nonchalant@|@lekceważący, niedbały, nonszalancki@
+@non-claim@|@przedawnienie@
+@non-com@|@podoficer@
+@non-commissioned@|@bez rangi oficerskiej@
+@non-committal@|@wymijający@
+@non-conducting@|@nieprzewodzący@
+@nonconformist@|@nonkonformista@
+@nondescript@|@nieokreślony@
+@none@|@nikt, żaden@
+@nonenity@|@niebyt@
+@nonessential@|@nieistotny@
+@non-feasance@|@niespełnienie obowiązku@
+@nonpareil@|@niezrównany@
+@non-party@|@bezpartyjny@
+@nonplus@|@zaklopotanie, zażenować@
+@non-resident@|@dojeżdżający, zamiejscowy@
+@nonsencial@|@niedorzeczny, nonsensowny@
+@nonsense@|@absurd, niedorzeczność@
+@non-smoker@|@niepalący@
+@non-stop@|@bez przerwy@
+@nonsuch@|@lucerna@
+@nonsuit@|@odrzucenie powództwa@
+@non-union@|@nie zrzeszony@
+@noodle@|@głuptas, kluska, makaron, prostaczek@
+@nook@|@zakątek@
+@noon@|@południe@
+@noonday@|@południe@
+@noontide@|@południe@
+@noose@|@lasso, matnia, sidła, stryczek, usidlić, złapać@
+@nor@|@ani...ani, też nie@
+@Nordic@|@nordycki, nordyczny@
+@norm@|@norma@
+@normal@|@normalny, normaly, prawidłowy@
+@normality@|@normalność@
+@normalization@|@normalizacja, normalizowanie@
+@normalize@|@normalizować@
+@Norman@|@Norman, Normandczyk, normandzki, normański@
+@Norse@|@język norweski, nordycki, norweski@
+@north@|@ku północy, na północ, północ@
+@north-east@|@północno-wschodni, północny-wschód@
+@north-easter@|@wiatr północno-wschodni@
+@north-eastern@|@północno-wschodni@
+@northener@|@mieszkaniec północy@
+@northerly@|@północny@
+@northern@|@północny@
+@northward@|@ku północy, na północ@
+@northwards@|@ku północy, na północ@
+@north-west@|@północno-zachodni, północny-zachód@
+@north-wester@|@wiatr północno-zachodni@
+@north-western@|@północno-zachodni@
+@Norwegian@|@język norweski, Norweg, norweski@
+@nose@|@nos@
+@nose-bag@|@obroczniak, worek na obrok@
+@nose-dive@|@nurkowanie, pikowanie@
+@nosegay@|@bukiet@
+@nosing@|@nosek stopnia schodowego@
+@nostalgia@|@nostalgia, tęsknota za krajem@
+@nostalgic@|@nostalgiczny, tęskny@
+@nostril@|@nozdrze@
+@nostrum@|@zachwalane lekarstwo@
+@nosy@|@wścibski, z wielkim nosem@
+@not@|@nie@
+@not even@|@ani@
+@notability@|@rozgłos, sława, znakomitość@
+@notable@|@sławny, wybitny, znakomity@
+@notably@|@znacznie, znakomicie@
+@notarial@|@notarialny, rejentalny@
+@notary@|@notariusz, rejent@
+@notation@|@notacja, znaki umowne@
+@notch@|@nacięcie, wycięcie, ząb (koła zębatego)@
+@note@|@nuta@
+@notebook@|@notatnik, notes(ik)@
+@noted@|@wybitny, znakomity, znany@
+@notepad@|@notatnik, notes@
+@note-paper@|@papier listowy@
+@noteworthy@|@godny uwagi, osobliwy, wybitny@
+@nothing@|@nic@
+@nothingness@|@nicość@
+@notice@|@spostrzec, zauważyć, zawiadomienie@
+@notice-board@|@tablica ogłoszeń@
+@notify@|@powiadomić, zawiadomić@
+@notion@|@pojęcie, wyobrażenie, zamiar@
+@notoriety@|@rozgłos@
+@notorious@|@głośny, powszechnie wiadomy, znany@
+@notwithstanding@|@jednakże, mimo wszystko, niemniej jednak@
+@noun@|@rzeczownik@
+@nourish@|@dawać pożywienie, karmić, żywić@
+@nourishment@|@pokarm, pożywienie, żywienie@
+@novel@|@nowatorski, osobliwy, powieść@
+@novelette@|@nowela, opowiadanie@
+@novelist@|@powieściopisarz@
+@novelity@|@innowacja, nowość, oryginalność@
+@November@|@listopad, listopadowy@
+@novice@|@nowicjusz@
+@novitiate@|@nowicjat@
+@now@|@obecnie, teraz@
+@nowadays@|@obecnie, teraz, w dzisiejszych czasach@
+@nowhere@|@nigdzie@
+@nowise@|@w żaden sposób@
+@noxious@|@niezdrowy, szkodliwy@
+@nozzle@|@dyszka, dzióbek@
+@nuance@|@niuans, odcień@
+@nubile@|@dojrzały@
+@nuclear@|@jądrowy, nuklearny@
+@nucleus@|@jądro, zaczątek@
+@nude@|@akt, goły, nagi, obnażony@
+@nudge@|@trącenie łokciem@
+@nudist@|@nudysta@
+@nugget@|@bryłka, samorodek@
+@nuisance@|@nieprzyjemność@
+@null@|@nieważny@
+@nullify@|@anulować, uniewżnić@
+@numb@|@ścierpły, zdrętwiały@
+@number@|@ilość, liczba, liczyć, numer@
+@numberless@|@niezliczony@
+@numeral@|@cyfra, cyfrowy, liczbowy, liczebnik@
+@numerator@|@licznik@
+@numerical@|@cyfrowy, liczbowy@
+@numerous@|@liczny@
+@numismatic@|@numizmatyczny@
+@numismatics@|@numizmatyka@
+@numskull@|@dureń, głupiec, osioł@
+@nun@|@mniszka, zakonnica@
+@nuncio@|@nuncjusz@
+@nunnery@|@klasztor (żeński)@
+@nuptial@|@małżeński, ślub, ślubny, wesele, weselny@
+@nurs(e)ling@|@osesek@
+@nurse@|@niańka, pielęgniarka, siostra@
+@nursery@|@pokój dziecinny, żłobek@
+@nursery-garden@|@szkółka (drzew)@
+@nursing@|@pielegniarstwo, pielęgnacja@
+@nut@|@dziwak, orzech, orzech alskowy@
+@nut-brown@|@brązowy, orzechowy (kolor)@
+@nut-cracker@|@dziadek do orzechów@
+@nut-gall@|@galasówka@
+@nutmeg@|@gałka muszkatułowa@
+@nutria@|@nutria@
+@nutrient@|@odżywczy, pożywny@
+@nutriment@|@środek odżywczy@
+@nutrition@|@odżywianie@
+@nutritious@|@odżywczy, pożywny@
+@nutshell@|@łupinka orzecha@
+@nut-tree@|@leszczyna@
+@nutty@|@o zmaku orzechów, pomylony, zwariowany@
+@nuzzle@|@węszyć, wsadzić nos@
+@nyclatopia@|@kurza ślepota@
+@nylon@|@nylon, pończochy nylonowe@
+@nymph@|@nimfa@
+@oaf@|@idiota, niezdara@
+@oak@|@dąb, dębina, dębowy@
+@oak-apple@|@galas@
+@oaken@|@dębowy@
+@oakum@|@pakuły@
+@oar@|@wiosło, wiosłować, wioślarz@
+@oarsman@|@wioślarz@
+@oarswoman@|@wioślarka@
+@oasis@|@oaza@
+@oat@|@owies@
+@oaten@|@owsiany@
+@oath@|@przekleństwo, przysięga@
+@oatmeal@|@mąka owsiana@
+@obdurate@|@nieczuły, nieubłagany@
+@obedience@|@posłuszeństwo@
+@obedient@|@posłuszny@
+@obeisance@|@pokłon@
+@obelisk@|@obelisk@
+@obesity@|@otyłość@
+@obey@|@być posłusznym, usłuchać@
+@obituary@|@pośmiertny@
+@object@|@obiekt, przedmiot, zaprotestować@
+@object-glass@|@obiektyw@
+@objection@|@przeszkoda, sprzeciw, zarzut@
+@objectionable@|@niewłaściwy@
+@objective@|@cel, obiektyw, obiektywny@
+@objectivism@|@obiektywizm@
+@objectivity@|@obiektywność@
+@object-lens@|@obiektyw@
+@object-lesson@|@lekcja poglądowa@
+@oblate@|@spłaszczony@
+@obligation@|@obowiązek, zobowiązanie@
+@obligatory@|@obowiązkowy, obowiązujący@
+@oblige@|@zobowiązać@
+@obligee@|@wierzyciel@
+@obliging@|@grzeczny, oprzejmy@
+@oblique@|@pochyły, skośny@
+@obliquity@|@nachylenie, pochyłość@
+@obliterate@|@wymazać@
+@oblivion@|@niepamięć, zapomnienie@
+@oblivious@|@niepomny@
+@oblong@|@pociągły, podłużny@
+@obloquy@|@obmowa, oszczerstwo@
+@obnoxious@|@przykry@
+@oboe@|@obój@
+@obolescent@|@zanikający@
+@obscene@|@nieprzyzwoity, sprośny@
+@obscenity@|@nieprzyzwoitość, sprośność@
+@obscurant@|@obskurant, wstecznik@
+@obscuration@|@zaciemnienie@
+@obscure@|@ciemny, niejasny, ponury@
+@obscurity@|@ciemność, mrok, niejasność@
+@obsequies@|@egzekwie@
+@obsequious@|@służalczy@
+@observance@|@postrzeganie@
+@observant@|@przestrzegający, uważny@
+@observation@|@obserwacja, spostrzegawczość@
+@observatory@|@obserwatorium@
+@observe@|@obserwować, spostrzegać@
+@observer@|@obserwator@
+@obsess@|@opętać, prześladować@
+@obsession@|@obsesja@
+@obsidian@|@obsydian@
+@obsolete@|@przestarzały, szczątkowy@
+@obstacle@|@przeszkoda@
+@obstetric(al)@|@położniczy@
+@obstetrician@|@położnik@
+@obstetrics@|@położnictwo@
+@obstinacy@|@upór, zawziętość@
+@obstinate@|@trwały, uparty, zawzięty@
+@obstipation@|@zatwardzenie@
+@obstreperous@|@hałaśliwy, oporny@
+@obstruct@|@tamować, tarsować@
+@obstruction@|@zatamowanie, zator@
+@obstructive@|@tamujący, zawadzajacy@
+@obtain@|@otrzymać, uzyskać@
+@obtainable@|@do nabycia@
+@obtainment@|@nabycie, uzyskanie@
+@obtrude@|@narzucić@
+@obtrusive@|@natrętny@
+@obtuse@|@rozwarty, tępy@
+@obverse@|@licowany, zewnętrzny@
+@obviate@|@zapobiec@
+@obvious@|@jasny, oczywisty@
+@ocarina@|@okaryna@
+@occasion@|@okazja, sposobność@
+@occasional@|@okolicznosciowy, przypadkowy@
+@occasionally@|@od czasu do czasu, przypadkowo@
+@occiput@|@potylica@
+@occult@|@okultystyczny, tajemny@
+@occultism@|@okultyzm@
+@occupant@|@lokator, miszkaniec, okupant@
+@occupation@|@okupacja, zajęcie, zajmowanie, zawód@
+@occupational@|@zawodowy@
+@occupier@|@dzierżawca, lokator, posiadacz@
+@occupy@|@okupować, zajmować@
+@occur@|@pojawić się, trafić się, wystapić@
+@occurrence@|@wypadek, występowanie, zdarzenie@
+@ocean@|@ocean@
+@oceanic@|@oceaniczny@
+@oceanography@|@oceanografia@
+@ocelot@|@ocelot@
+@ochre@|@ochra@
+@octagon@|@ośmiobok, ośmiokąt@
+@octane@|@oktan@
+@octant@|@oktant@
+@octave@|@oktawa@
+@October@|@pażdziernik@
+@octopus@|@ośmiornica@
+@octosyllabic@|@ośmiosylabowy@
+@ocular@|@naoczny, oczny@
+@oculist@|@okulista@
+@odd@|@dziwny, nieparzysty, pozostały@
+@oddity@|@dziwaczność, osobliwość@
+@odd-looking@|@dziwny@
+@oddly@|@dziwnie, osobliwie@
+@oddments@|@resztki, rupiecie@
+@odds@|@nierówność, sprzeczność, szanse powodzenia@
+@ode@|@oda@
+@odious@|@odpychający, wstrętny@
+@odium@|@nienawiść, odium@
+@odoriferous@|@pachnący, wonny@
+@odorous@|@pachnący, wonny@
+@odour@|@reputacja, woń, zapach@
+@oecumenical@|@ekumeniczny, powszechny@
+@oedma@|@obrzęk@
+@oesophagus@|@przełyk@
+@oestrum@|@bodziec, giez, podnieta@
+@of course@|@owszem@
+@office@|@biuro@
+@oil@|@olej, oliwa@
+@old@|@stary@
+@oldest@|@najstarszy@
+@omelette@|@omlet@
+@omen@|@wróżba@
+@on the edge of@|@na krawędzi@
+@one@|@jedno@
+@one more@|@jeszcze jeden@
+@onion@|@cebula@
+@open@|@otwierać@
+@operator@|@operator@
+@optician@|@optyk@
+@or@|@albo, lub@
+@orange@|@pomarańcz, pomarańcza@
+@orbit@|@orbita@
+@orchard@|@sad@
+@orcharding@|@sadownik@
+@ordinary@|@zwyczcajny@
+@organ@|@organ, organy@
+@organism@|@organizm@
+@Orthodox@|@prawosłowny@
+@OS@|@system operacyjny@
+@out-patients' clinic@|@ambulatorium@
+@outside@|@zewnątrz@
+@ovary@|@jajnik@
+@overcoat@|@płaszcz@
+@oxygen@|@tlen@
+@packet@|@paczka@
+@page@|@strona@
+@pain@|@ból (fizyczny)@
+@painful@|@bolesny@
+@painless@|@bezbolesny@
+@painting@|@malowidło@
+@pale@|@blady@
+@palette@|@paleta@
+@palm@|@dłoń@
+@pansy@|@bratek@
+@panther@|@pantera@
+@pantry@|@spiżarnia@
+@paper@|@papier@
+@paradise@|@raj@
+@parasite@|@pasożyt@
+@parcel@|@przesyłka@
+@parent@|@rodzic@
+@parents@|@rodzice@
+@Paris@|@Paryż@
+@parity@|@równość@
+@park@|@park@
+@parliamentary@|@sejmowy@
+@part@|@część@
+@passion@|@namiętność@
+@passport@|@paszport@
+@pastry shop@|@cukiernia@
+@path@|@dróżka, ścieżka@
+@patient@|@pacjent@
+@patrol@|@patrol@
+@pavement@|@chodnik@
+@pea soup@|@grochówka@
+@peace on the world@|@pokój na świecie@
+@peach@|@brzoskwinia@
+@pear@|@gruszka@
+@peas@|@groszek@
+@pebble@|@kamyk@
+@pedal@|@pedał@
+@pen@|@długopis@
+@penalty@|@kara@
+@pencil@|@ołówek@
+@penny@|@grosz@
+@pensioner@|@emeryt@
+@pepper@|@pieprz@
+@perfect@|@doskonały@
+@perhaps@|@być może, może@
+@perk@|@ożywiać@
+@person@|@osoba@
+@pest@|@zaraza@
+@petition@|@petycja@
+@picture@|@obraz@
+@pier@|@molo@
+@pig@|@świnia@
+@pike@|@pika@
+@pillbox@|@bunkier@
+@pillow@|@poduszka@
+@pilot@|@pilot@
+@pipette@|@pipeta@
+@place@|@miejsce, sadowić@
+@plait@|@pleść@
+@planet@|@planeta@
+@plasma@|@plazma@
+@platform@|@peron@
+@play@|@grać@
+@pleased to meet you@|@bardzo mi miło@
+@pleasure@|@przyjemność@
+@pledge@|@zastaw@
+@pleface@|@blada twarz@
+@pliers@|@obcęgi@
+@plot@|@spisek@
+@ply@|@wykonywać@
+@pocket@|@kieszeń@
+@pointless@|@bezcelowy@
+@Poland@|@Polska@
+@pole@|@biegun@
+@police@|@policja@
+@police station@|@posterunek policji@
+@policeman@|@policjant@
+@Polish@|@polski@
+@politeness@|@grzeczność@
+@pollution@|@zanieczyszczenia@
+@poor@|@biedny, ubogi@
+@popcorn@|@prażona kukurydza@
+@population@|@populacja@
+@portly@|@pełen@
+@post ofice@|@urząd pocztowy@
+@postage stamp@|@znaczek pocztowy@
+@postmaster@|@naczelnik poczty@
+@pot@|@garnek@
+@potato@|@ziemniak@
+@potent@|@silny@
+@potter@|@garncarz@
+@pottery@|@garncarstwo@
+@pound@|@funt@
+@power@|@moc@
+@power station@|@elektrownia@
+@power supply@|@zasilacz@
+@practical@|@praktyczny@
+@pray@|@prosić@
+@precious@|@drogocenny@
+@pregnancy@|@ciąża@
+@premise@|@przesłanka@
+@president@|@prezydent@
+@press conference@|@konferencja prasowa@
+@pressure@|@nacisk@
+@price@|@cena@
+@price-list@|@cennik@
+@pride@|@duma@
+@primary@|@główny@
+@prince@|@książe@
+@print@|@drukować, dzieło@
+@printer@|@drukarka@
+@prior@|@poprzedni@
+@prison@|@więźienie@
+@prisoner@|@więzień@
+@probable@|@prawdopodobny@
+@probation@|@staż@
+@proclamation@|@odezwa@
+@produce@|@wydawać@
+@profile@|@profil@
+@programme@|@program@
+@promotion@|@awans@
+@pronoun@|@zaimek@
+@propeller@|@śmigło@
+@pros and cons@|@blaski i cienie@
+@proud@|@dumny@
+@pssessive@|@dzierżawczy@
+@puddle@|@kałuża@
+@pull out@|@wyciągać@
+@pulpit (in church)@|@ambona@
+@pun@|@kalambur@
+@pupil@|@uczeń@
+@purchuase@|@zakup@
+@purge@|@czystka@
+@purse@|@portmonetka, torebka@
+@pushy@|@nachalny@
+@put away@|@chować@
+@quack@|@kwakanie, szarlatan, znachor@
+@quackery@|@szarlataństwo, znachorstwo@
+@quadrangle@|@czworobok, czworokąt, dziedziniec@
+@quadrangular@|@czworoboczny, czworokątny@
+@quadrant@|@kwadrant@
+@quadrat@|@kwadrat@
+@quadrilateral@|@czteroboczny, czterostronny@
+@quadrille@|@kadryl@
+@quadruped@|@czworonożny, czworonóg@
+@quadruple@|@czterokrotny, poczwórny@
+@quadruplets@|@czworaczki@
+@quaff@|@pić łapczywie@
+@quag@|@bagno, kłopot, trzęsawisko@
+@quagmire@|@bagno, kłopot, trzęsawisko@
+@quail@|@lękać się, przepiórka@
+@quaint@|@ciekawy, oryginalny, osobliwy@
+@quake@|@drżeć, drżenie, trząść się, trzęsienie@
+@Quaker@|@kwakier@
+@quakerish@|@kwakierski@
+@qualification@|@kompetencja, kwalifikacja, warunek, zastrzeżenie@
+@qualified@|@dyplomowany, kwalifikujący się, wykwalifikowany@
+@qualify@|@łagodzić, ograniczać, określać@
+@qualifying@|@eliminacyjny, kwalifikacyjny@
+@qualitative@|@jakościowy@
+@quality@|@gatunek, jakość, zaleta@
+@qualm@|@mdłości, nudności, skrupuły, wyrzuty@
+@quandary@|@kłopot@
+@quantitative@|@ilościowy@
+@quantity@|@ilość, liczba, wielkość@
+@quantum@|@kwant, kwota@
+@quarantine@|@kwarantanna@
+@quarrel@|@kłocić się, kłótnia, sprzeczka@
+@quarrelsome@|@kłótliwy@
+@quarry@|@kamieniołom, wydobywać, zdobycz@
+@quart@|@kwarta@
+@quarter@|@ćwiartka, kwadrans, kwartał, kwatery, stacjonować@
+@quarter-deck@|@nadbudówka@
+@quarter-final@|@ćwierćfinał@
+@quarterly@|@kwartalnik, kwartalny@
+@quartermaster@|@kwatermistrz, sternik@
+@quartet(te)@|@czwórka, kwartet@
+@quarto@|@format ćwiartkowy@
+@quartz@|@kwarc@
+@quash@|@stłumić, uniważnić, zduciś@
+@quasi@|@niemal, prawie@
+@quaternary@|@czwartorzędowy, poczwórny@
+@quatrain@|@czterowiersz@
+@quaver@|@drgać, drżeć, drżenie głosu, wibrować@
+@quay@|@nadbrzeże@
+@queasy@|@przyprawiający o mdłości, skłonny do mdłości@
+@queen@|@królowa@
+@queenly@|@królewski, po królewsku@
+@queer@|@dziwaczny, dziwny, podejrzany@
+@quell@|@zdławić, zdusić@
+@quench@|@ostudzić, stłumić, ugasić@
+@quern@|@młynek do pieprzu, żarna@
+@querulous@|@narzekający, zrzędny@
+@query@|@pytać, zapytanie@
+@quest@|@poszukiwanie, szukać@
+@question@|@kwestia, pytać, pytanie, sprawa, zastrzeżenie@
+@questionable@|@niepewny, sporny, wątpliwy@
+@question-mark@|@pytajnik, znak zapytania@
+@questionnaire@|@kwestionariusz@
+@queue@|@kolejka, stać w kolejce, warkocz@
+@quibble@|@gra słów, kalambur@
+@quick@|@porywczy, skory, szybki, szybko, żwawo@
+@quicken@|@ożywiać, pobudzić, przyśpieszyć@
+@quick-firing@|@szybkostrzelny@
+@quicklime@|@niegaszone wapno@
+@quickly@|@prędko, szybko@
+@quicksand@|@grząski piasek@
+@quickset@|@żywopłot@
+@quicksilver@|@żywe srebro@
+@quick-tempered@|@porywczy@
+@quick-witted@|@bystry, rozgarnięty@
+@quid@|@funt szterling, prymka@
+@quiescence@|@bezruch, spoczynek, spokój@
+@quiescent@|@cichy, nieruchomy, spokojny@
+@quiet@|@cisza, łagodny, skromny, spokojny, spokój@
+@quietude@|@spokój@
+@quill@|@dutka, kolec (np. jeża), lotka@
+@quill-driver@|@gryzipiórek@
+@quilt@|@kołdra, wywatować@
+@quince@|@pigwa@
+@quinine@|@chinina@
+@quiniquina@|@chinowiec@
+@quint@|@kwinta@
+@quintal@|@centar, kwintal@
+@quintessence@|@kwintesencja@
+@quintet(te)@|@kwintet, piątka@
+@quintuple@|@pięciokrotny@
+@quintuplets@|@pięcioraczki@
+@quip@|@żart, żartować@
+@quire@|@chór, libra@
+@quirk@|@gra słów, kalambur@
+@quit@|@opuścić, przestać, wyjechać@
+@quitch@|@perz@
+@quite@|@całkowicie, raczej, wcale, zupełnie@
+@quits@|@skwitowany@
+@quittance@|@odwet, pokwitowanie, uwolnienie@
+@quiver@|@drganie, drżenie, trzepotanie, zadrżeć@
+@quiz@|@kpiarz, quiz, test@
+@quizzical@|@dziwaczny, kpiarski, żartobliwy@
+@quoin@|@kąt, klin, narożnik, węgieł@
+@quondam@|@były@
+@quorum@|@kworum@
+@quota@|@kontyngent, udział@
+@quotable@|@godny zacytowania@
+@quotation@|@cytat, zacytowanie@
+@quotation-marks@|@cudzysłów@
+@quote@|@prztoczyć, zacytować@
+@quoth@|@rzekłem@
+@R.A.@|@kontradmierał@
+@rabbit@|@królik@
+@radiator@|@kaloryfer@
+@radio@|@radio@
+@radish@|@rzodkiewka@
+@rail@|@szyna@
+@railroad@|@kolej@
+@railway porter@|@bagażowy@
+@rain@|@deszcz@
+@rainbow@|@tęcza@
+@raincoat@|@deszczowiec@
+@rainstorm@|@ulewa@
+@raise@|@podnosić@
+@rake@|@grabie@
+@rapid@|@wartki@
+@rasp@|@tarka@
+@rather@|@raczej@
+@raven@|@kruk@
+@ravine@|@jar@
+@raw@|@surowy@
+@read@|@czytać@
+@ready-to wear clothes@|@konfekcja@
+@red@|@czerwony@
+@registration number@|@numer rejestracyjny@
+@reign@|@panować@
+@remainder@|@pozostałość@
+@remember@|@pamiętać@
+@rent@|@wypożyczać@
+@reptile@|@gad@
+@rescue@|@ratować@
+@research@|@prace badawcze@
+@resistance@|@opór@
+@respect@|@respekt@
+@rest@|@odpoczynek@
+@rested@|@wypoczęty@
+@result@|@wynik@
+@ribbon@|@tasiemka@
+@rich@|@bogaty@
+@ridge@|@skiba@
+@right-hand@|@prawostronny@
+@right-handed@|@praworęczny@
+@rise@|@ryż@
+@river@|@rzeka@
+@road@|@droga@
+@roll@|@bułka@
+@Roman@|@rzymski@
+@romantic@|@romantyczny@
+@Rome@|@Rzym@
+@roof@|@dach@
+@room@|@pokój@
+@route@|@trasa@
+@row@|@szereg@
+@RP@|@Rzeczpospolita Polska@
+@rub@|@trzeć@
+@rudder@|@ster@
+@ruddy@|@rumiany@
+@rule@|@reguła@
+@rump@|@zad@
+@run@|@biec, gnać@
+@rye@|@żyto@
+@sack@|@worek@
+@sacred music@|@sakralna muzyka@
+@sadly@|@smutno@
+@safe@|@bezpieczny@
+@salad@|@sałatka@
+@sale@|@sprzedawać@
+@salt@|@sól@
+@salty@|@słony@
+@salute@|@salutować@
+@salver@|@tacka@
+@Samaritan@|@Samarytanin@
+@samba@|@samba@
+@samovar@|@samowar@
+@samurai@|@samuraj@
+@sandwich@|@kanapka@
+@sanitary towel@|@podpaska@
+@sardine@|@sardynka@
+@Saturday@|@sobota@
+@sauce@|@sos@
+@save@|@zapisać@
+@savior@|@wybawca@
+@saviour@|@wybawca@
+@saw@|@piła@
+@sawmill@|@tartak@
+@Saxon@|@saski@
+@scallion@|@zielona cebulka@
+@scanty@|@lichy@
+@scar@|@blizna@
+@scent@|@wąchać@
+@school@|@szkoła@
+@scissors@|@nożyce, nożyczki@
+@Scotch kale@|@kapusta czerwona@
+@screen@|@ekran@
+@screw@|@śruba@
+@script@|@skrypt@
+@scythe@|@kosa@
+@sea@|@morze@
+@seam@|@szew@
+@season@|@sezon@
+@seated@|@siedzący@
+@second@|@drugi@
+@secretary@|@sekretarz@
+@see@|@widzieć@
+@seedling@|@sadzonka@
+@seismic@|@sejsmiczny@
+@seismograph@|@sejsmograf@
+@seismological@|@sejsmologiczny@
+@select@|@gatunkowy@
+@self-governing@|@samorządny@
+@selfish@|@samolubny@
+@self-propelled@|@samobieżny@
+@seller@|@sprzedawca@
+@semidetached house@|@domek@
+@Semitic@|@semicki@
+@senate@|@senat@
+@send in@|@przysyłać@
+@senior@|@senior@
+@sense@|@sens, zmysł@
+@separate@|@oddzielny@
+@September@|@wrześien@
+@sequin@|@cekin@
+@serious@|@poważny@
+@service station@|@warsztat samochodowy@
+@servile@|@niewolniczy@
+@settings@|@ustawienia@
+@settler@|@osadnik@
+@sew together@|@zszyć@
+@sewage pipe@|@rura kanalizacyjna@
+@sewage system@|@kanalizacja@
+@sexologist@|@seksuolog@
+@sexual@|@seksualny@
+@sexy@|@seksowny@
+@shadow@|@cień@
+@shallow@|@płytki@
+@shame@|@wstyd@
+@sharesholder@|@akcjonariusz@
+@sharp@|@ostry@
+@shaving cream@|@krem do golenia@
+@she@|@ona@
+@shed@|@szałas, szopa@
+@sheep@|@owca@
+@sheet@|@kartka, prześcieradło@
+@sheet metal@|@płyta metalowa@
+@shelter@|@budka@
+@shift@|@przesuwać@
+@shiny@|@błyszczący@
+@shirt@|@koszula@
+@shit@|@srać***@
+@shoe@|@but@
+@shop@|@warsztat@
+@shop window@|@wystawa sklepowa@
+@shore@|@brzeg@
+@short@|@krótki@
+@shot@|@strzał@
+@shower@|@prysznic@
+@shrub@|@krzak@
+@shun@|@unikać@
+@shutter@|@okiennica@
+@side@|@strona@
+@sieve@|@sito@
+@sigh@|@wzdychać@
+@sign@|@znaczek@
+@silent@|@cichy@
+@silicon@|@krzem@
+@silly@|@głupi@
+@silo@|@silos@
+@silver@|@srebny@
+@sincere@|@szczery@
+@sing@|@śpiewać@
+@singing@|@śpiew@
+@siren@|@syrena@
+@sister@|@siostra@
+@sit down@|@siadać@
+@size@|@rozmiar@
+@skin@|@skóra@
+@skinny@|@chudy@
+@skunk@|@kanalia@
+@sky@|@niebo@
+@slang@|@gwar@
+@slash@|@ukośnik@
+@slaugther@|@ubój@
+@sledge@|@sanki@
+@sleep@|@spać@
+@sleeve@|@rękaw@
+@sleigh@|@sanie@
+@slowly@|@powoli, wolno@
+@sluggish@|@ospały@
+@slut@|@dziwka***@
+@smell@|@odór@
+@smile@|@uśmiech@
+@smock@|@kaftan roboczy@
+@smoke@|@dym@
+@smooth@|@gładki@
+@snout@|@ryj@
+@snow@|@śnieg@
+@snow-storm@|@śnieżyca@
+@snuff@|@tabaka@
+@so@|@dlatego, wieę@
+@so many@|@take wiele@
+@so much@|@tak dużo, tyle@
+@so that@|@aż@
+@soaked@|@zmokły@
+@soap@|@mydło@
+@sock@|@skarpetka@
+@socket@|@złącze@
+@soft@|@delikatny, miękki@
+@solace@|@ukojenie@
+@sold@|@sprzedany@
+@soldier@|@żołnierz@
+@some or other@|@któryś@
+@somebody@|@ktoś@
+@somebody's@|@czyjś@
+@something@|@coś@
+@son@|@syn@
+@song@|@pieśń, śpiew@
+@soon@|@wkrótce@
+@sooner@|@wcześniej@
+@sooner or later@|@prędzej czy później@
+@soot@|@sadza@
+@sore throat@|@ból gardła@
+@sorrow@|@smutek@
+@sorter@|@brakarz@
+@soul@|@dusza@
+@sound@|@dźwięk@
+@sound barrier@|@bariera dźwięku@
+@soup@|@zupa@
+@south@|@południe@
+@sowing@|@siew@
+@Spain@|@Hiszpania@
+@Spaniard@|@Hiszpan@
+@spasm@|@drgawka@
+@speaker@|@głośnik@
+@spear@|@włócznia@
+@specific@|@dokładny@
+@spectacles@|@okulary@
+@speed@|@prędkość, szybkość@
+@spinach@|@szpinak@
+@spit@|@pluć@
+@spoiled@|@zepsuty@
+@spontaneous@|@samozapłon, żywiołowy@
+@spoon@|@łyżka@
+@spring@|@wiosna@
+@spruce@|@świerk@
+@sqr@|@pierwiastek kwadratowy@
+@squid@|@kałamarnica@
+@staff@|@kadra@
+@stage@|@faza@
+@staircase@|@klatka schodowa, schody@
+@stake@|@pal@
+@stamp@|@stempel@
+@star@|@gwiazda@
+@Star Wars@|@Gwiezdne Wojny@
+@static@|@statyczny@
+@station@|@dworzec, stacja@
+@stay@|@pobyt@
+@steam@|@para@
+@stench@|@smród@
+@step@|@krok@
+@steppe@|@step@
+@stern@|@surowy@
+@stick@|@pałka, tkwić@
+@sticker@|@naklejka@
+@stink@|@odór@
+@stir@|@bełtać@
+@stock@|@zasób@
+@stockholder@|@akcjonariusz@
+@stoic@|@stoik@
+@stole@|@podzelować@
+@stomach@|@ból brzucha, żołądek@
+@stone@|@kamień, pestka@
+@stone pottery@|@naczynia kamionkowe@
+@stoneware clay@|@kamionka@
+@stool@|@stołek@
+@storey@|@kondygnacja@
+@storm@|@burza@
+@stove@|@piec@
+@straight@|@prosty@
+@strain@|@rasa@
+@strainer@|@cedzak@
+@straitjacket@|@kaftan bezpieczeństwa@
+@strawberries@|@truskawki@
+@street@|@ulica@
+@strength@|@siła@
+@stretcher@|@nosze@
+@striking@|@uderzający@
+@strip@|@pasek@
+@strong man@|@siłacz@
+@strum@|@rzępolić@
+@stub@|@niedopałek@
+@student@|@student, studentka@
+@stump@|@pniak@
+@submissive@|@uległy@
+@suburbs@|@przedmieście@
+@subway@|@kolejka podziemna, metro@
+@successor@|@dziedzic@
+@such@|@taki@
+@suck@|@ssać@
+@suddenly@|@nagle@
+@suffering (from pain)@|@obolały pacjent@
+@sugar@|@cukier@
+@suicide@|@samobójca@
+@suit@|@być do twarzy, garnitur@
+@sulphur@|@siarka@
+@summer@|@lato@
+@sun@|@słońce@
+@Sunday@|@niedziela@
+@supervision@|@dozór@
+@Supreme Administrative Court@|@Naczelny Sąd Administracyjny@
+@sure@|@pewny@
+@surface@|@powierzchnia@
+@surrounded@|@otoczony@
+@sweatshirt@|@bluza sportowa@
+@sweet@|@cukierek@
+@sweetheart@|@ukochona@
+@swim@|@pływać@
+@swimming pool@|@basen pływacki@
+@swindler@|@szalbierz@
+@swollen@|@opuchły@
+@synagogue@|@synagoga@
+@table@|@stoł, stół@
+@tail@|@ogon@
+@take@|@brać@
+@take a seat@|@sadowić się@
+@take away@|@odebrać@
+@talkative@|@gadatliwy@
+@tank@|@czołg@
+@taste@|@smak@
+@tax@|@podatek@
+@taxi@|@taksówka@
+@tea@|@herbata@
+@teacher@|@nauczyciel@
+@tear up@|@podrzeć@
+@tease@|@dociąć, docinać@
+@telephone@|@telefon@
+@television@|@telewizja@
+@tenement (house)@|@kamienica@
+@tenfold@|@dziesięciokrotny@
+@tenth@|@dziesiąty@
+@text@|@tekst@
+@thank@|@dziękować, podziękować@
+@thank God@|@Bogu dzięki@
+@that@|@ten, to@
+@that over there@|@tamto@
+@the Canary Islands@|@Wyspy Kanaryjski@
+@The German Democratic Repulic@|@NRD Niemiecka Rep. Demokrat.@
+@The Middle East@|@Bliski Wschód@
+@the President himself was there@|@prezydent tam był@
+@the sentence is final and binding@|@wyrok jest prawomocny@
+@theatre@|@teatr@
+@theft@|@kradzież@
+@then@|@wtedy@
+@there@|@tam@
+@therefore@|@więc@
+@there's no doubt ...@|@nie ulega wątpliwości ...@
+@these@|@ci@
+@they@|@one, oni@
+@third@|@trzeci@
+@thou@|@ty@
+@threaten@|@grozić, zagrozić@
+@three@|@trzy@
+@thrill@|@dreszcz@
+@throat@|@gardło@
+@through@|@przez@
+@throw@|@rzucać@
+@thug@|@zbój@
+@Thursday@|@czwartek@
+@ticket@|@bilet, numerek (w szatni)@
+@ticket inspector@|@konduktor@
+@ticket window@|@kasa biletowa@
+@tights@|@rajstopy@
+@tiled stove@|@piec kaflowy@
+@till@|@orać@
+@till now@|@dotąd@
+@tillage@|@orka@
+@timber@|@drewno@
+@time@|@czas@
+@time bomb@|@bomba zegarowa@
+@tint@|@zabarwienie@
+@tired@|@zmęczony@
+@to@|@aby, do@
+@to absolve sb from guilty@|@oczyszczać kogoś z winy@
+@to appease@|@ułagodzić@
+@to be about to die@|@być bliskim śmierci@
+@to be absent from school@|@być nieobecnym w szkole@
+@to be absorbed in work@|@być pochłoniętym pracą@
+@to be in a good mood@|@mieć dobre samopoczucie@
+@to be in one's element@|@być w swoim żywiole@
+@to be near@|@być na ukończeniu@
+@to be out of work@|@być bez pracy@
+@to be rampant@|@grasować@
+@to be troubled by@|@boleć nad@
+@to become acquaited@|@zaznajomić się@
+@to better@|@ulepszać@
+@to campaign for ...@|@prowadzić kampanię na rzecz...@
+@to chide@|@besztać@
+@to complete@|@ukończyć@
+@to concentrate on's attention on sth@|@koncentrować uwagę na czymś@
+@to condense@|@kondensować@
+@to congratulate@|@gratulować@
+@to crucify@|@ukrzyżować@
+@to crumple@|@giąć@
+@to damage@|@zniszczyć@
+@to decimate@|@dziesiątkować@
+@to differ@|@różnić@
+@to disappear into thin air@|@jak kamień w wodę@
+@to engrave@|@grawerować@
+@to find solace in sth@|@znaleźć ukojenie w czymś@
+@to finish school@|@ukończyć szkołę@
+@to flash one's torch@|@błyskać latarką@
+@to get accustomed@|@przyzwyczajać się (do czegoś)@
+@to get sb out of trouble@|@wybawiać kogoś z kłopotu@
+@to give sb an ultimatum@|@postawić komuś ultimatum@
+@to goggle@|@wybałuszać oczy@
+@to hit the bull's@|@trafić w dziesiątkę@
+@to hold@|@dzierżyć@
+@to incise@|@nacisnąć@
+@to join@|@zespalać@
+@to keep abreast@|@być na bieżąco (z czymś)@
+@to knock down@|@wyburzać@
+@to lern sth by rote@|@wykuć coś na blachę@
+@to look askance at sb@|@patrzeć na kogoś z ukosa@
+@to offer one's condolences to sb@|@składać komuś kondolencja@
+@to petrify@|@kamienieć@
+@to place@|@umieszczać@
+@to play tag@|@grać w berka@
+@to plot@|@ukartować@
+@to portray@|@ukazywać@
+@to rent@|@dzierżawić@
+@to rock a baby to sleep@|@ukołysać dziecko do snu@
+@to scold@|@besztać@
+@to share out@|@rozdawać@
+@to stand (for Parliament)@|@kandydować (do parlamentu)@
+@to steer@|@ukierunkowywać@
+@to stone to death@|@ukamienować@
+@to throw money down the drain@|@wyrzucać pieniądze w błoto@
+@to transform@|@przeobrazić@
+@to wash one's dirty linen in public@|@prać swoje brudy publicznie@
+@tobacco@|@tytoń@
+@today@|@dzisiaj, dziś@
+@toil@|@trud@
+@toilet@|@toaleta@
+@tomato puree@|@koncentrat pomidorowy@
+@tombstone@|@kamień grobowy@
+@tomorrow@|@jutro@
+@tonic@|@tonik@
+@tonight@|@dziś wieczór@
+@too much@|@za wiele@
+@tooth@|@ząb@
+@toothache@|@ból zęba@
+@touch@|@dotknąć, dotyk, dotykać@
+@tour@|@podróż@
+@towards@|@w kierunku do@
+@toy@|@zabawka@
+@tracing paper@|@kalka techniczna@
+@tractor@|@traktor@
+@train@|@pociąg@
+@translate@|@tłumaczyć@
+@translation@|@tłumaczenie@
+@translator@|@tłumacz@
+@trash@|@śmietnik@
+@travel agency@|@biuro podróży@
+@traveller@|@podróżnik@
+@tray@|@taca@
+@treasure@|@skarb@
+@tree@|@drzewo@
+@tremendous@|@potężny@
+@trick@|@fortel@
+@trillion@|@trylion@
+@trousers@|@spodnie@
+@truck@|@ciężarówka@
+@true@|@prawdziwy@
+@truly@|@prawdziwie@
+@trumpet@|@trąbka@
+@trunk@|@pień@
+@truth@|@prawda@
+@try@|@próbować@
+@tube@|@tuba@
+@tuberculosis@|@gruźlica@
+@Tuesday@|@wtorek@
+@tunic@|@bluza (część munduru)@
+@TVP@|@Telewizja Polska@
+@two@|@dwa@
+@two days later@|@dwa dni później@
+@two-edged@|@obosieczny@
+@two-piece dress@|@garsonka@
+@ugly@|@brzydcy, brzydki@
+@UK@|@Wielka Brytania@
+@Ulster@|@Ulster@
+@ultimatum@|@ultimatum@
+@ultrasonic@|@ultradźwiękowy@
+@ultrasound@|@ultradźwięk@
+@ultrasound scanner@|@ultrasonograf@
+@ultraviolet@|@ultrafiolet, ultrafioletowy@
+@ultre-high frequency waves@|@ultrakrótkie fale@
+@umbrella@|@parasol@
+@unbeatable@|@bezkonkurencyjny@
+@uncared@|@samopas@
+@unceremonius@|@bezceremonialny@
+@under@|@pod, poniżej@
+@under threat@|@pod groźbą kary@
+@undisputed@|@bezdyskusyjny@
+@unforgettable@|@niezapomniany@
+@unforgivable@|@nie do wybaczenia@
+@unfortunately@|@na nieszczęście, niestety@
+@ungodly@|@bezbożny@
+@uniform@|@mundur@
+@unique@|@unikat@
+@unproductive@|@bezproduktywny@
+@unselfish@|@altruistyczny@
+@until@|@aż do@
+@uphill@|@górka@
+@upper@|@górny@
+@USA@|@Stany Zjednoczone@
+@use@|@używać@
+@vacation@|@wakacje@
+@valuation@|@wycena@
+@value@|@wartość@
+@various@|@rozmaity@
+@veal@|@cielęcina@
+@vegetable@|@jarzyna@
+@vegetarian dishes@|@dania bezmięsne@
+@veil@|@welon@
+@venom@|@jad@
+@verb@|@czasownik@
+@villa@|@willa@
+@vinegar@|@ocet@
+@viola@|@altówka@
+@violin@|@skrzypce@
+@vision@|@wizja@
+@visit@|@odwiedzać, wizyta, zwiedzać@
+@visitor@|@gość@
+@Vistula@|@Wisła@
+@vodka@|@wódka@
+@voice@|@głos@
+@volume@|@głośność@
+@vulture@|@sęp@
+@waddle@|@kaczy chód@
+@waffle@|@gofr@
+@waistcoat@|@kamizelka@
+@wait@|@czekać@
+@wait for@|@czekać na@
+@walk@|@iść@
+@wall@|@mur@
+@wallet@|@portfel@
+@walrus@|@mors@
+@wanderer@|@tułacz@
+@want@|@chcieć, zechcieć@
+@war@|@wojna@
+@war craft@|@sztuka wojny@
+@Warsaw@|@Warszawa@
+@watch@|@zegarek@
+@water@|@woda@
+@watering can@|@konewka@
+@we@|@my@
+@weakly@|@słabo@
+@Wednesday@|@środa@
+@week@|@tydzień@
+@weigh@|@waga@
+@weir@|@jaz@
+@weird@|@dziwny, niesamowity@
+@weld@|@spajać@
+@well@|@dobrze@
+@wellingtons@|@kalosz@
+@west@|@zachód@
+@what@|@co@
+@what do you think (of that)?@|@co o tym sądzisz?@
+@what like@|@jaki@
+@when@|@kiedy@
+@where@|@gdzie@
+@which@|@które, który@
+@whiskers@|@wąsy@
+@white@|@biały@
+@white as a sheet@|@blady jak ściana@
+@who@|@kto@
+@whose@|@czyj@
+@why@|@dlaczego@
+@width@|@szerokość@
+@wife@|@żona@
+@wig@|@peruka@
+@window@|@okno@
+@wine@|@wino@
+@wing@|@skrzydło@
+@winter@|@zima@
+@wise@|@mądry@
+@with@|@z@
+@with a heavy heart@|@z bólem serca@
+@with difficulty@|@trudno@
+@with emphasis@|@z naciskiem@
+@without@|@bez@
+@without doubt@|@śmiało@
+@wood@|@drewno@
+@wool@|@wełna@
+@word@|@słowo@
+@worker@|@robotnik@
+@world@|@świat@
+@World War@|@Wojna Światowa@
+@worm@|@robak@
+@worthy@|@godny@
+@WP@|@Wojsko Polskie@
+@write@|@pisać@
+@writer@|@pisarz@
+@writing table@|@biurko@
+@wrong@|@źle@
+@xebec@|@szebeka@
+@xenon@|@ksenon@
+@xenophobia@|@ksenofobia@
+@Xmas@|@Boże Narodzenie@
+@x-ray@|@rentgenowski@
+@x-ray examination@|@prześwietlenie@
+@x-ray picture@|@rentgenogram@
+@xylograph@|@srzeworyt@
+@xylography@|@drzeworytnictwo@
+@xylonite@|@celuloid@
+@xylophone@|@ksylofon@
+@yacht@|@jacht, pływać jachtem@
+@yachting@|@jachting, żeglarstwo@
+@yachtsman@|@żeglarz@
+@yaffil@|@zielony dzięcioł@
+@yahoo@|@człowiek-bestia@
+@yak@|@jak@
+@yam@|@ignam, słodki ziemniak@
+@Yank@|@Amerykanin, amerykański, Jankes@
+@Yankee@|@Amerykanin, amerykański, Jankes@
+@Yankee Doodle@|@amerykański hymn narodowy@
+@yap@|@szczekać, trajkotać@
+@yarborough@|@mizeria, plaża@
+@yard@|@dziedziniec, jard, podwórze@
+@yarn@|@historyjka, opowiadanie, przędza, włókno@
+@yarrow@|@krwawnik pospolity@
+@yashmak@|@jaszmak@
+@yaw@|@zboczyć@
+@yawl@|@jolka@
+@yawn@|@ziewać, ziewanie, ziewnięcie@
+@yawning@|@ziejący, ziewajacy, ziewanie, ziewnięcie@
+@yaws@|@frambezja@
+@ye@|@wy@
+@yea@|@tak, zaiste, zaprawdę@
+@yean@|@okocić się, urodzić@
+@yeanling@|@jagnię, koźlę@
+@year@|@rok@
+@year-book@|@rocznik@
+@yearling@|@jednoroczne zwierzę, roczniak@
+@yearly@|@całoroczny, coroczny, doroczny, roczny@
+@yearn@|@tęsknić, współczuć@
+@yearning@|@tęsknota, tęskny@
+@yeast@|@drożdże@
+@yeast-powder@|@proszek do pieczenia, suche drożdże@
+@yeasty@|@pienisty, spieniony@
+@yell@|@ryk, ryknąć, wrzask, wycie, wyć@
+@yellow@|@żólty, żółty@
+@yellow metal@|@mosiądz@
+@yellow-hammer@|@trznadel@
+@yellowish@|@żółtawy@
+@yelp@|@skamleć, skamplenie, skowyczeć, skowyt@
+@yen@|@jen@
+@yeoman@|@gospodarz średniorolny@
+@yeomanry@|@klasa gospodarzy@
+@yep@|@tak@
+@yes@|@owszem, tak, tak ejst@
+@yesterday@|@wczoraj, wczorajszy dzień@
+@yesternight@|@ubiegłej nocy@
+@yester-year@|@zeszłego roku@
+@yet@|@do tej pory, dotychczas, jeszcze@
+@yew@|@cis@
+@Yiddish@|@język nowohebrajski@
+@yield@|@plon, wydawać z siebie, wydobycie@
+@yielding@|@ustępliwy, wydajność@
+@yodel@|@jodlować, jodlowanie@
+@yoga@|@jogizm@
+@yoghourt@|@jogurt@
+@yogi@|@joga@
+@yogurt@|@jogurt@
+@yoicks@|@bierz go!@
+@yoke@|@jarzmo, niewola, ujarzmiać@
+@yoke-fellow@|@współtowarzysz@
+@yokel@|@kmieć, kmiotek, wieśniak@
+@yolk@|@źółtko@
+@yon@|@ów, tam, tamten, ten@
+@yonder@|@ów, tam, tamten, ten@
+@yore@|@dawniej, niegdyś, ongiś@
+@you@|@pan, pani, państwo, ty, wy@
+@you are welcome@|@proszę bardzo@
+@young@|@młody, potomstwo@
+@young lady@|@młoda panna@
+@youngling@|@dziecko, młodzieniec@
+@youngster@|@chłopak, dziecko@
+@your@|@pani, pański, pańtwa, twój, wasz@
+@Your Honour!@|@Wysoki sądzie@
+@yours@|@pański, twój, wasz@
+@yourself@|@osobiście, sam, siebie, się, sobie, włąsnoręcznie@
+@yourselves@|@osobiście, siebie, się, sobie@
+@youth@|@młodosć, młodzieniec, wczesny okres@
+@youthful@|@młodociany, młody, młodzieńczy@
+@ytterbium@|@iterb@
+@yttrium@|@itr@
+@yucca@|@juka@
+@yuft@|@jucht, skóra juchtowa@
+@Yugoslav@|@Jugosłowianin, jugosłowiański@
+@Yule@|@Boże Narodzenie@
+@Yuletide@|@Boże Narodzenie@
+@zany@|@głupek, pomocnik błazna, półgłówek@
+@zareba@|@zasiek z cierni, zeriba@
+@zariba@|@zasiek z cierni, zeriba@
+@zeal@|@gorliwość, zapał@
+@zealot@|@gorliwiec, zagorzalec, zelant@
+@zealous@|@gorliwy, zagorzały, zapalony, żarliwy@
+@zeast@|@drożdże@
+@zebra@|@pręgowany, zebra@
+@zebu@|@zebu@
+@zenith@|@szczyt (np. sławy), zenit@
+@zephyr@|@wietrzyk, zefir@
+@Zeppelin@|@sterowiec, zepelin@
+@zero@|@zero, zerowy@
+@zest@|@dodać smaku, pikanteria, smak, uprzyjemniać@
+@zibet@|@cybet@
+@zigzag@|@zygzak@
+@zincography@|@chemigrafia, cynkografia@
+@zink@|@cynk@
+@zinnia@|@cynia@
+@Zion@|@Syjon@
+@Zionism@|@syjonizm@
+@Zionist@|@syjonista@
+@zip@|@świst@
+@zip-fastener@|@zamek błyskawiczny@
+@zipper@|@zamek błyskawiczny@
+@zircon@|@cyrkon@
+@zirconium@|@cyrkon@
+@zither@|@cytra@
+@zloty@|@złoty (polska waluta)@
+@zodiac@|@zodiak@
+@zonal@|@strefowy@
+@zone@|@pasmo, podzielic na strefy, strefa@
+@zoo@|@ogród zoologiczny, zoo@
+@zoological@|@zoologiczny@
+@zoologist@|@zoolog@
+@zoology@|@zoologia@
+@zoom@|@buczeć, powiekszenie, warkotać, zbliżenie@
+@zoophagous@|@mięsożerny@
+@zoophyte@|@zoofit@
+@zootechnic@|@zootechniczny@
+@zoster@|@półpasiec@
+@zouave@|@żuław@
+@zounds@|@na Boga!@
+@Zulu@|@język zuluski, Zulus@
+@zygote@|@zygota@
+@zymotic@|@fermentacyjny@
+

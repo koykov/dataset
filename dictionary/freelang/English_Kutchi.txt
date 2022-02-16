@@ -1,0 +1,497 @@
+@English@|@Kutchi@
+@Author name@|@Burhan Khamisa@
+@Font@|@Arial\12\Arial\12@
+@african female@|@goli@
+@african male@|@golo@
+@africans@|@golaa@
+@after@|@pacchi@
+@afternoon@|@sanjo@
+@air@|@havaa@
+@alarm@|@gantri@
+@alcohol@|@daaru@
+@alone@|@ekhli@
+@anger@|@gusso@
+@animal@|@jaanwar@
+@anus@|@pootth@
+@apple@|@sayb@
+@armpit@|@bagal@
+@ashamed@|@saram@
+@ass@|@gaan@
+@ate@|@khaado@
+@ate (female)@|@khaadi@
+@attitude@|@mijaaj@
+@awake@|@utthelo@
+@awaken@|@utthanjo@
+@awoke@|@utthyo@
+@bachelor@|@qwaaro@
+@back@|@vaaso@
+@bad@|@kharaab@
+@bag@|@choro, kothri@
+@bald@|@ganjo@
+@banana@|@kero@
+@bastard@|@haraami@
+@bat (mammal)@|@andho cchaapo@
+@bath@|@angor@
+@bathing@|@angoreto@
+@bathroom@|@baaf@
+@beard@|@daarhi@
+@beatings@|@maaru@
+@bed@|@palang@
+@beetlenut@|@sopaari@
+@big@|@vaddo@
+@bird@|@chikli@
+@bitch@|@kutti@
+@bite@|@batko@
+@bitter@|@khaaro@
+@black@|@kaaro@
+@blind@|@andho@
+@bogeys@|@goonga@
+@bone@|@haddo@
+@bones@|@haddaa@
+@bra@|@choli@
+@brain@|@bhejo@
+@bride@|@laadi@
+@broke@|@tooti vyo@
+@broom@|@saaveni@
+@brother@|@bhaa@
+@brother in-law@|@derr, saalo@
+@bucket@|@baaldi@
+@bullet@|@gori@
+@burning@|@bharanjo@
+@burp@|@ograai@
+@butter@|@ghee@
+@buttock@|@dheko@
+@buttocks@|@dheka@
+@cage@|@pinjro@
+@cap@|@topi@
+@capsule@|@gori@
+@car@|@ghadi@
+@carrot@|@gajar@
+@cats@|@minna@
+@chair@|@kursi@
+@chameleon@|@kaakindo@
+@chest@|@chhaati@
+@chicken@|@murgo@
+@childish@|@bachaamat@
+@chillies@|@mirchaa@
+@cigarette@|@beeri@
+@clap@|@taari@
+@clock@|@garyaal@
+@closed@|@bandh@
+@cloth@|@loogro@
+@clothes@|@lugraa@
+@cock@|@kukro@
+@cockroach@|@cchipo@
+@cockroaches@|@cchipaa@
+@come@|@ach, hal@
+@coming@|@acheto@
+@cow@|@ghai@
+@cream@|@malaai@
+@crispy@|@kurkuryo@
+@crotch@|@jholo@
+@crying@|@rweto@
+@crying (female)@|@rweti@
+@cucumber@|@kaakri@
+@curtain@|@pardaa@
+@darkness@|@andhaaro@
+@daughter in-law@|@vaww@
+@day@|@dih@
+@deaf@|@bero@
+@deep@|@oondo@
+@die@|@marr@
+@died@|@marivyo@
+@difficulty@|@takleef@
+@do@|@kar@
+@dog@|@kutto@
+@done@|@thai vyo@
+@door@|@darwaajo@
+@dove@|@ollo@
+@down@|@neeche@
+@drink@|@pee@
+@dropped@|@cchanyo@
+@droppings@|@chirak@
+@drums@|@tablaa@
+@drunk@|@peedho, pidhelo@
+@dumb@|@goongo@
+@dust@|@mittee@
+@dustpan@|@soopri@
+@ear@|@kan@
+@earth@|@jameen@
+@eat@|@khaa@
+@eating@|@khai to@
+@eating (female)@|@khai ti@
+@egg@|@bedo@
+@eggplant@|@ringraa@
+@eggs@|@beda@
+@eight@|@atth@
+@elephant@|@haathi@
+@entered@|@goosi vyo, goosyo@
+@erect@|@ubbho@
+@eye@|@akh@
+@eyebrow@|@nerr@
+@eyes@|@akhyu@
+@face@|@muh@
+@faeces@|@goo@
+@faggot@|@paalyo@
+@fan@|@pankho@
+@fart@|@paad, phoos@
+@farted@|@paadyo@
+@fast@|@jaldi, phataaphat@
+@fat@|@jaado@
+@fat (female)@|@jaadi@
+@father@|@pe@
+@fear@|@beek@
+@fell@|@cchanyo, paivyo@
+@female cat@|@minni@
+@female goat@|@bakri@
+@fever@|@taaw@
+@field@|@kheti@
+@finger@|@aangri@
+@fingers@|@aangaryu@
+@finished@|@patyo@
+@fire@|@jero@
+@fish@|@macchi@
+@five@|@panj@
+@flat@|@cchipatro@
+@flower@|@phool@
+@fly@|@makkh@
+@food@|@anaaj, khenjo@
+@forehead@|@pesaani@
+@forgive@|@maaf@
+@four@|@chaar@
+@fourty@|@chaari@
+@fragrance@|@soram@
+@frog@|@dedhko@
+@gear@|@perwaas@
+@gentle@|@bhoro@
+@girl@|@cchokri@
+@gizzard@|@ojri@
+@glass@|@kacch@
+@go@|@vin@
+@goat@|@bakro@
+@goats@|@bakraa@
+@going@|@vineto@
+@good@|@saaro@
+@gourd@|@doodhi@
+@green@|@leeli@
+@grief@|@dookh@
+@groundnuts@|@maandwi@
+@gun@|@bandhook@
+@hair@|@mwaara@
+@hammer@|@hatthori@
+@hand@|@hatth@
+@hard@|@katthan@
+@head@|@mattho@
+@heart@|@dil@
+@heated@|@tapelo@
+@heel@|@peni@
+@hen@|@murgi@
+@here@|@hidaa@
+@hit@|@maar@
+@hole@|@phaako@
+@honey@|@maddh@
+@honeybee@|@maddh makkhi@
+@horse@|@ghoro@
+@hospital@|@davaa khaanu@
+@house@|@ghar@
+@human being@|@insaan@
+@hunger@|@bhookh@
+@husband@|@dhani@
+@I@|@aaw@
+@impurities@|@ghandgi@
+@inbetween@|@vich me@
+@inside@|@andar@
+@intestines@|@aatera@
+@inverted@|@oondho@
+@iron@|@istree@
+@is awake@|@jaageto@
+@is burning@|@bhareto@
+@is taking@|@gineto@
+@is taking (female)@|@gineti@
+@juice@|@ras@
+@key@|@chaavi@
+@kiss@|@boso, chum@
+@knife@|@cchuri@
+@knot@|@gatth@
+@lady fingers@|@bhindaa@
+@latch@|@staapri@
+@laugh@|@khil, khileto@
+@laugh (female)@|@khileti@
+@leaf@|@pannu@
+@leaves@|@pannaa@
+@leg@|@pagg@
+@lemmon@|@limboo@
+@liar@|@khotta bolo@
+@lid@|@dhaknu@
+@lieing down@|@lotanjo@
+@lies@|@khotta@
+@light@|@baar, batti@
+@like@|@gameto@
+@like (female)@|@gameti@
+@line@|@leeti@
+@lips@|@chap@
+@listen@|@sun@
+@listening@|@suneto@
+@liver@|@kaleji@
+@lizard@|@chichi@
+@made@|@banaayo@
+@maggot@|@ier@
+@maggots@|@eeru@
+@magic@|@jaadu@
+@maid@|@kamvaari@
+@make@|@banaawat@
+@male cat@|@minnu@
+@man@|@maarhu@
+@mango@|@keri@
+@maternal aunt@|@maasi@
+@maternal grandfather@|@naana@
+@maternal grandmother@|@naani@
+@maternal uncle@|@mama@
+@me@|@aaw@
+@meat@|@boti@
+@medicine@|@davaa@
+@metal@|@loh@
+@metal rod@|@seeryo@
+@milk@|@kheer@
+@millipede@|@jaanjhro@
+@mind@|@magaj@
+@mine@|@minjo@
+@mirror@|@aariso@
+@mistake@|@daar@
+@mole@|@til@
+@money@|@paisaa@
+@monkey@|@vaandro@
+@moon@|@chaand@
+@morning@|@savaar@
+@mosquito@|@macchar@
+@mother@|@maa@
+@mountain@|@pahaar@
+@moustache@|@mwucchyu@
+@mouth@|@muh@
+@mucus@|@sedaa@
+@my@|@minjo@
+@nail(s)@|@nakh@
+@napkins@|@baarotia@
+@navel@|@dooti@
+@neck@|@dok@
+@needle@|@swee@
+@net@|@jaari@
+@news@|@khabar@
+@night@|@raat@
+@nine@|@nu@
+@no@|@naa@
+@noise@|@avaaj@
+@noon@|@bipor@
+@nose@|@nak@
+@nostril@|@phoinu@
+@nostrils@|@phoinaa@
+@now@|@hane@
+@oil@|@tel@
+@ok@|@haa@
+@one@|@hakro@
+@open@|@khullo@
+@opened@|@kholyo@
+@our (for 2)@|@paanjo@
+@our (multiple)@|@asaanjo@
+@outside@|@baare@
+@owner@|@maalik@
+@pain@|@dukhaawo@
+@paining@|@dukheto@
+@paper@|@kaagaryo@
+@papers@|@kaagarya@
+@paternal aunt@|@fui@
+@paternal grandfather@|@daado@
+@paternal grandmother@|@daadi@
+@paternal uncle@|@kaakaa@
+@pawpaw@|@papiyo@
+@phlegm@|@barkhaa@
+@pictures@|@fotaa@
+@pig@|@suwar@
+@pigeon@|@kabootar@
+@pillow@|@takyo@
+@place@|@jagaa@
+@play@|@ramanjo, vagaai@
+@playing@|@rameto@
+@playing (female)@|@rameti@
+@plough@|@kheti@
+@pocket@|@khiso@
+@pole@|@dando@
+@police@|@sipaai@
+@ponytail@|@chotee@
+@position@|@darjo@
+@potato@|@bataato@
+@power@|@jhor@
+@pregnant@|@gabri@
+@pride@|@ghamand@
+@punch@|@tthoso@
+@purposely@|@jaani ne@
+@quarterpin@|@taachni@
+@quickly@|@jaldi@
+@quiet@|@choop@
+@rain@|@mee@
+@raised@|@charhayo@
+@rat@|@oondero@
+@rats@|@oonderaa@
+@raw@|@katcho@
+@red@|@ratto@
+@remember@|@yaad kar@
+@rememberance@|@yaad@
+@remove@|@kaddh@
+@rice@|@khaawo@
+@ripened@|@pakyo@
+@road@|@rasto@
+@robe@|@jabbo@
+@rooster@|@tambhaaro@
+@roots@|@jharr@
+@round@|@gol@
+@run@|@bhagg@
+@sand@|@dhoor@
+@scarf@|@gaaj@
+@scent@|@soogandh@
+@scream@|@raaru@
+@screaming@|@raaru paareto@
+@send@|@mokal@
+@sending@|@moklaaito@
+@servant@|@kamvaaro@
+@seven@|@satt@
+@shameless@|@be-saram@
+@sharp@|@tej@
+@sheep@|@ghetaa, gheto@
+@shoes@|@jhoraa@
+@shop@|@dukaan@
+@short@|@batko@
+@sick@|@beemaar@
+@sieve@|@sefaa@
+@sight@|@nijar@
+@silly@|@charat@
+@sister@|@baai@
+@sister in-law@|@bhaabhi@
+@sit@|@veh@
+@sitted@|@vetthi@
+@six@|@ccho@
+@skin@|@chamri@
+@sky@|@aasmaan@
+@slap@|@tamaacho@
+@sleep@|@sum, sumanjo@
+@sleeping@|@sumeto@
+@sleeping (female)@|@sumeti@
+@slept@|@sootto@
+@slipper@|@champal@
+@slowly@|@aaste@
+@small@|@nindho@
+@smell@|@gandh@
+@smelling@|@ghandaito@
+@smoke@|@dhwaaro@
+@sneeze@|@cchik@
+@soap@|@saabu@
+@soft@|@pocho@
+@son@|@cchokro@
+@son in-law@|@jamaai@
+@sound@|@avaaj@
+@soup@|@saainu@
+@sour@|@khatto@
+@speak@|@bol@
+@spectacle@|@chasmaa@
+@speech@|@boli@
+@spicy@|@tikkho@
+@spider@|@kiroryo@
+@stand@|@ubbh@
+@standing@|@ubbho@
+@star@|@sitaaro, taaro@
+@stick@|@chotaai@
+@stomach@|@pett@
+@stone@|@paanhu@
+@stones@|@paanha@
+@straight@|@seedho@
+@strong@|@majboot@
+@stubborn@|@nakto@
+@stuck@|@chotelo@
+@study@|@parh@
+@stung@|@kayiryo@
+@sustenance@|@roji@
+@sweet@|@mittho@
+@sweet melon@|@taryo@
+@take it@|@gin@
+@talk@|@gaal@
+@tamarind@|@aamli@
+@tasteless@|@moro@
+@tea@|@chaa@
+@tears@|@aasoora@
+@teeth@|@dandh@
+@telegram@|@taarh@
+@ten@|@dow@
+@termites@|@ooddhi@
+@then@|@pacchi@
+@there@|@udaa@
+@thigh@|@satthar@
+@thin@|@sannu@
+@thin (female)@|@sanni@
+@thirty@|@ttri@
+@thorn@|@kando@
+@thread@|@doro@
+@three@|@ttre@
+@thumb@|@aanguttho@
+@tie@|@bandh@
+@tied@|@bandhelo@
+@time@|@vakhat@
+@tin@|@dabbo@
+@tired@|@ttakhyo@
+@tiredness@|@ttakaan@
+@to bath@|@angoraanjo@
+@to cry@|@roonjo@
+@to fast@|@rojo@
+@to laugh@|@khilanjo@
+@to run@|@bhaganjo@
+@to send@|@moklaanjo@
+@toilet@|@sanaas@
+@tongue@|@jib@
+@tooth@|@dand@
+@top@|@matthe@
+@tree@|@jhaar@
+@trouble@|@sataap@
+@troubling@|@sataapeto@
+@troubling (female)@|@sataapeti@
+@twenty@|@vi@
+@two@|@bo@
+@underwear@|@chaddi@
+@unripe@|@katchi@
+@urine@|@pesaab@
+@useless@|@bekaar@
+@veil@|@pardo@
+@vest@|@ganji@
+@vomit@|@oolti@
+@waist@|@kamar@
+@want@|@khhape@
+@watch@|@garyaal@
+@water@|@paani@
+@wear it@|@peri gin@
+@wearing@|@peranjo@
+@wedding@|@saadi@
+@went@|@vyo@
+@wet@|@leelo@
+@what?@|@kuro@
+@when?@|@kade@
+@where?@|@kidaa@
+@whip@|@soti@
+@whistle@|@sisori@
+@white@|@accho@
+@white female@|@dhoiri@
+@white male@|@dhoryo@
+@whites@|@dhoryaa@
+@wife@|@baairi@
+@wild@|@jungli@
+@will cry@|@roonu@
+@will cry (female)@|@rooni@
+@wind@|@pawan@
+@window@|@baari@
+@work@|@kam@
+@world@|@dunya@
+@wrist@|@kaando@
+@yawn@|@bagaaso@
+@yellow@|@peero@
+@yes@|@haa, jee@
+@yoghurt@|@dayyh@
+@you@|@tu@
+@you (elder)@|@aayi@
+@your@|@tojo, toke@
+

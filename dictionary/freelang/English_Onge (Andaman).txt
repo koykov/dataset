@@ -1,0 +1,527 @@
+@English@|@Onge (Andaman)@
+@Author name@|@Estevao Cogoy@
+@Font@|@Arial\12\Arial\12@
+@"DIRECTIVE"@|@-te-@
+@1st PERSON PL.@|@et-(i-) / ekw-(i-)@
+@1st PERSON SING.@|@ma-/e-@
+@2nd PERSON PL.@|@ni-yoga-@
+@2nd PERSON SING.@|@ni-@
+@3rd PERSON PL.@|@gi-yoga-/ono-@
+@3rd PERSON SING.@|@gi-/-@
+@abdomen@|@benege, (-io-)benege@
+@ABLATIVE@|@-kata@
+@above@|@-onola@
+@again@|@ange@
+@also@|@eta@
+@and@|@eta@
+@arm@|@(ön-)i-bi-le@
+@arrive@|@enya-me@
+@arrow@|@te@
+@ARTICLE@|@-g-(i-), -i-@
+@ashes@|@tongkute@
+@at@|@-angka, -onta@
+@at me@|@m-angka@
+@away [from]@|@-ejeka@
+@back@|@(ön-)o-none@
+@backbone@|@(ön-)i-renya-bo, (ön-)o-nono da kwai@
+@bad@|@-ibiti, etate?ke@
+@bark@|@(ön-)a-ti@
+@bark (dog)@|@-egatekke-@
+@bark strip@|@chibabe@
+@bathe@|@-i-?nde-@
+@be@|@tulelela-kwe@
+@be burned@|@emame@
+@beat@|@-iekwe@
+@become@|@(a-)mame@
+@before@|@boaleta@
+@belly@|@-io--, -io-me, (ön-)a-n(g)ange@
+@big@|@-ue, dalu(-dalu), nade uye, u?yebe@
+@big; much@|@-i-kutu@
+@bind@|@(g-)a-i-kwe@
+@bird@|@bonge, tuge, umuge@
+@bite@|@-i-kue-baga, -i-te, (ön-)i-baga-@
+@bitten (be ~)@|@-ubaga@
+@bitter@|@-ibiti@
+@black@|@-i-kiu, be@
+@bleed@|@gogogo@
+@blood@|@(ön-)a-chenge@
+@blow (v.)@|@a-kwö-bö-, a-ku-@
+@blow (wind)@|@-akwela@
+@blue@|@-i-ela@
+@body hair@|@-ukokonore@
+@body of water@|@kwa, koa, kuai@
+@bone@|@(ön-)i-dange@
+@both@|@wayea@
+@bowels@|@(ön-)i-bane@
+@bowstring@|@ebe@
+@breast@|@(ön-)a-gage@
+@breath@|@kwae, kwai@
+@breathe (deeply)@|@kwae-ue-@
+@brown@|@gero, geru, giru@
+@bucket@|@ukuanna@
+@burn (intr.)@|@etota-@
+@burn (trans.)@|@yama, yame@
+@bury@|@g-i-kute@
+@by@|@-angka, -ge-1, -ga@
+@call@|@-ayewa-@
+@called (to be ~)@|@-a-ti-be@
+@canoe@|@da?nge@
+@carry pork [in the basket]@|@-i-chwe@
+@catch@|@ko?@
+@child@|@debaye, echele@
+@child (VOC.)@|@ale@
+@chilly@|@-ajomo, -anajomo@
+@chop@|@ire-kweta-@
+@clay@|@we@
+@cloth@|@kwelabo@
+@clothes@|@kwelabo@
+@cloud (rainy ~)@|@beja, baije@
+@cloud (white ~)@|@tekala@
+@coconut@|@nariele@
+@cold@|@-ajomo, -anajomo@
+@come@|@-ijye, (ön-)a-yo-, bujyö-, bujeye, i-nai öba-@
+@communal hut@|@beyra, bera@
+@cough (v.)@|@uruge, uduge@
+@crab@|@jiwaye@
+@crammed full@|@geje-bute@
+@cry@|@oana, wana, wanai@
+@crying@|@wabe@
+@cub (dog)@|@ue-n-tay(e)-ra@
+@cut@|@(ön-)a-kwa-nge, i-te-kwa-te, ire-kweta-@
+@cut [with knife]@|@ekwe@
+@cut into pieces@|@ijiba-@
+@dance@|@onol-abe@
+@dark@|@be, ichu@
+@daughter@|@-aye mi@
+@daughter (VOC.)@|@debaye@
+@daughter-in-law@|@-ulitange@
+@daylight@|@ekue@
+@dig [up]@|@bene@
+@dig up@|@-ibue@
+@dog@|@ueme@
+@dog (female)@|@-ginyegewa@
+@dog (male)@|@-gakwarewa@
+@dove@|@umuge@
+@drink@|@-i(n)jo-@
+@drop@|@bini@
+@drown@|@-etabe-te-@
+@ear@|@(ön-)i-kwa-ge@
+@ear canal@|@-otikkale@
+@earlier@|@boaleta@
+@earlobe@|@(ön-)i-kwa-tt-o-jime@
+@earth@|@totan(g)-a-nge, tutano@
+@eat@|@-i-lo-kwa-le-, -ira, (ön-)a-da-, (ön-)i-da-, (ön-)i-da-be, gie-e@
+@egg (of turtle)@|@gwagane@
+@elbow@|@-i-tokwage@
+@emotion@|@wabe@
+@end (v.)@|@aki-bo-ki-@
+@etc.)@|@teikkee, ukittee@
+@evening@|@boykwe@
+@eye@|@(ön-)e-, (ön-)e-je-, (ön-)e-je-bo, e-je-boi@
+@eyeball@|@(ön-)e-je-bo-awakiu, (ön-)e-je-bo-totirangga, (ön-)e-je-bo-wataykala@
+@eyebrow@|@(ön-)e-t-o-mun-t-o-de@
+@eyelashes@|@(ön-)e-je-bo-tugetore@
+@eyelid@|@(ön-)e-je-bo-t-a-ti@
+@face@|@-ejale@
+@fall@|@-i-teka@
+@far@|@-inora@
+@fasten@|@(g-)a-i-kwe@
+@fat@|@-ireame@
+@fat [of pig]@|@g-a-kwe-nge@
+@father@|@-inenare, ume@
+@father (VOC.)@|@ume-ri@
+@father-in-law@|@-obeletange@
+@feather@|@g-a-de@
+@feel cold@|@-anangane, -angane@
+@feeling@|@wabe@
+@female@|@-angabe@
+@fight (v.)@|@(ön-)u-kwe-, kuge@
+@fill with water@|@otanale@
+@finger@|@(ön-)o-bo-tabe@
+@fingernail@|@(ön-)o-bedunge, (ön-)o-bo-range, (ön-)o-bo-da@
+@finish@|@aki-bo-ki-@
+@fire@|@bonee, mone, tuke@
+@fish@|@choge@
+@fist@|@(ön-)o-bi-kwe@
+@flat (to be ~)@|@bebe@
+@flea@|@nganage@
+@flesh@|@(ön-)i-bo, (ön-)i-boi, g-e-bo@
+@float (vessel)@|@giberuge@
+@flower@|@gite, okwottireye@
+@fly@|@-ugi?kei@
+@fly away@|@-ugi?kete@
+@foot@|@(ön-)u--, (ön-)ul, (ön-)u-ge, (ön-)u-t-t-i-none@
+@foot sole@|@(ön-)u-(k)-t-t-a-game, (ön-)u-k-t-a-game@
+@for@|@-uku-eta@
+@foreigner@|@kwentale@
+@foreigner (male)@|@inene@
+@forest@|@gaibora-le@
+@forest dweller@|@önge-a-kwe (='eremtaga')@
+@from@|@-ejeka, -teta@
+@from [inside]@|@-irannante-kata, -irannebota@
+@from me@|@m-angka@
+@fruit@|@-oto@
+@fruit (pl.)@|@wa@
+@full@|@geje-bute@
+@fur@|@-ukokonore@
+@FUTURE@|@-ba-1, -kaka@
+@gales@|@-akwela@
+@genital covering for females@|@nakuinyage@
+@GENITIVE@|@-ijai, -ko@
+@GENITIVE-Poss.(w/ alienable noun)@|@-a-1@
+@get dark@|@boykwe-le@
+@get going@|@ingkö-@
+@get off@|@-ejeka ingkö-@
+@girl (young ~)@|@ebara@
+@give@|@-ite, bele, gite?, ka?@
+@go@|@(ön-)i-bujyö-, bete-, bujyö-, bujeye, e-(n)t-ukwa-nge(-me), ingkö-@
+@go [nearby]@|@etuche@
+@go away from@|@-ejeka ingkö-@
+@good@|@-i-baro, gajabe, i-wado@
+@grandmother@|@kakoddi@
+@grass@|@tikuongöye@
+@green@|@-i-ela, totan-dange@
+@guide@|@mela-me@
+@gun@|@kubara-ne, kubura-ne@
+@guts@|@(ön-)i-bane@
+@hair@|@(ön-)o-de, (ön-)o-re, g-a-de, m-a-de@
+@hand@|@(ön-)o-bi, (ön-)o-me, (ön-)o-be-, (ön-)o@
+@hand (back of -)@|@(ön-)o-bi-none@
+@hand (palm of -)@|@(ön-)o-bi-ngane@
+@harpoon@|@kö, köye, ke, keye@
+@have@|@genene@
+@head@|@(ön-)o-ta-be, (ön-)o-ti-chu, (ön-)o-to-l-a-ji-be@
+@hear@|@ye(h)ye?@
+@heart@|@(ön-)u-kuk-o-ta-be@
+@heavy@|@-i-dubagu, g-atu-kwa-be, geduba@
+@heed@|@ye(h)ye?@
+@heel@|@(ön-)u-kwo-chane@
+@here@|@iche, li-chune, li-oya, li-wai@
+@hey! (INTERJ.)@|@abu@
+@hit@|@-i-te-kwa-, -iekwe, ota-kwe@
+@hoe@|@wagili@
+@hold@|@cha, genene, ko?@
+@hole@|@nange@
+@honey@|@le, tangja@
+@hot@|@-i-kulu, jonjome-be@
+@house@|@beyra, bera@
+@how@|@kwa-che@
+@huge@|@dalu(-dalu)@
+@husband@|@-agichebe, öngagi, unyagi-le@
+@husband [with no child] (VOC.)@|@tingde-me@
+@hut (small temporary ~)@|@kora-le@
+@I@|@mi@
+@I am an Onge (=man)@|@m-öng(e)-bi@
+@ignite@|@eje-bo@
+@IMPERATIVE@|@-nene@
+@INDICATIVE MODE@|@-ge-2, -gi@
+@inhale@|@g-en-te-kwanene@
+@inner bark@|@gito@
+@inside@|@-iram-angka@
+@INSTRUMENTAL@|@-a-3, -ba-2, -(g-)a-@
+@iris@|@(ön-)e-je-bo-tikiu@
+@keep@|@belakwe-@
+@kernel@|@tange@
+@kick@|@-i-te-kwa-@
+@kidney@|@-achinge@
+@kill@|@ala laji-be, ota-kwe@
+@knee@|@(ön-)o-la-ge@
+@kneecap@|@(ön-)o-lotawage@
+@know@|@-ilinge@
+@knowledge@|@ebebaro@
+@land@|@gea, göbe, gwabe@
+@later@|@cheta@
+@laugh@|@enyi, g-enge-ma-@
+@leader@|@mela-me@
+@leaf@|@bebe, gele@
+@leg@|@(ön-)i-chige@
+@lid@|@geja@
+@lie (=be stretched)@|@tulelela-kwe@
+@lie (face down)@|@okotamoi-@
+@lie down@|@g-a-i-nyi-, tule@
+@light@|@bonee, dolakambey, gotite-be@
+@light (sun/moon)@|@-ome@
+@listen@|@ye(h)ye?@
+@little@|@-i-tay, baiai@
+@liver@|@(ön-)o-achu@
+@LOCATIVE@|@-mma@
+@loin@|@(ön-)e-to-range@
+@long@|@jagai, oi-jagai@
+@look@|@-a-ti-iebe@
+@look at@|@(g-)a-j-ebe, gawale-te@
+@look like@|@abe-moi-be@
+@look similar@|@abe-moi-be@
+@loosen@|@-ilebu, ilebu@
+@lower back@|@(ön-)e-to-range@
+@make fire@|@name-@
+@male@|@olonga@
+@man@|@öngagi, önge@
+@many@|@-ilake, wange, wo-tangabe@
+@match-box@|@angibete@
+@me@|@mi@
+@meat@|@(ön-)a-bo, (ön-)a-boi@
+@moon@|@chileme, chilome, dabe-komimmele, teikkee, ukittee@
+@morning@|@gegariko-@
+@mother@|@-uteddi, ete@
+@mother (VOC.)@|@kay, -kay(a)-ri@
+@mouse@|@choybo@
+@mouth@|@(ön-)a--, (ön-)a-lange@
+@mouth roof@|@(ön-)a-gabinege, (ön-)a-game@
+@much@|@wange@
+@mug@|@longo-@
+@murder@|@ala laji-be@
+@muscle@|@(ön-)i-bo, (ön-)i-boi@
+@music@|@onol-abe@
+@my@|@m-, ma@
+@naked@|@tooga@
+@name@|@-a-ti-be@
+@nape@|@(ön-)o-chane@
+@near@|@-ib?ute, -itetto@
+@neck@|@(ön-)a-ndeena, (ön-)a-ngito@
+@NEGATIVE SING. (infix)@|@-ebogil-/-egi-@
+@NEGATIVE VERBAL Plural (infix)@|@-otot-@
+@night@|@tongki@
+@nipple@|@(ön-)a-gaykota@
+@no@|@ebau-be, ma, narema@
+@NOMINAL SINGULAR (optional)@|@-ra@
+@NOMINAL/VERBAL PLURAL@|@-lle@
+@NOMINATIVE/VOCATIVE@|@-gi@
+@nose@|@(ön-)i-ngai-bo, i-ngai-boi, (ön-)o-dang-nange,o-ran-nange@
+@nostril@|@(ön-)o-dang-nange,o-ran-nange@
+@not@|@ma, narema@
+@not to go@|@-otolo@
+@now@|@iche@
+@OBJECTIVE@|@-a-2, -li, -gai@
+@observe@|@gawale-te@
+@occiput@|@(ön-)o-chane@
+@off@|@-ejeka@
+@old@|@öngge-e@
+@on@|@-angka, -onta@
+@one@|@a?anda, iwaiya@
+@other(s) OR beyond@|@-onola@
+@our@|@eta-@
+@outer skin/bark@|@gibo, gibo-le@
+@palate@|@(ön-)a-gabinege, (ön-)a-game@
+@palm of hand@|@(ön-)-o-ban(g)-nange@
+@patella@|@(ön-)o-lotawage@
+@path@|@-i-chele, i-chule@
+@pee (v.)@|@ejelee@
+@peep@|@gawale-te@
+@peirce@|@-antite-, i-te-kwa-te@
+@perspire@|@(ön-)o-tagilelem@
+@pig@|@kue@
+@pigeon@|@umuge@
+@pipe@|@takoddo@
+@place@|@oya@
+@plant (Orphea katshalica)@|@tonjoge@
+@pork@|@kue@
+@pour@|@-ibu-@
+@prawn@|@nganga@
+@PREFIX: 'head@|@(ön-)o-@
+@PREFIX: 'lower limb'@|@(ön-)u-@
+@PREFIX: 'peripherical part'@|@(ön-)i-@
+@PREFIX:'eye; front part'@|@(ön-)e(i)-@
+@PREFIX:'mouth; fleshy part'@|@(ön-)a-@
+@PRESENT@|@-a@
+@PRESENT CONT. negative@|@-otatek@
+@PRESENT CONT. positive@|@-jo, -njo@
+@PRET.@|@-be@
+@pubic hair@|@-ukokonore@
+@puff@|@g-en-te-kwanene@
+@puke@|@öbulö-be@
+@pull@|@tötö-be@
+@pulp@|@g-e-bo@
+@puppy@|@ue-n-tay(e)-ra@
+@QUESTION MARKER@|@kwa-@
+@rain@|@(g-)ujönge@
+@rat@|@choybo@
+@red@|@-o(u)-geru, ala-me, gero, geru, giru@
+@rescend@|@-ija@
+@rest@|@belakwe-@
+@rise (sun@|@ukittee@
+@river@|@kwa, koa, kuai@
+@road@|@-i-chele, i-chule@
+@rock@|@taiyi@
+@rope@|@a?-echuge, koyage, kwarage, kwalage, kwege@
+@rub@|@ebele-@
+@run@|@-a-k(w)o-be-la-@
+@saliva@|@-a-kwe-nge, in-a-kwe-nge@
+@salt@|@inje@
+@sand@|@-a-ga-nge, -a-ge-nge, belai@
+@scold@|@alabuke@
+@scratch@|@akwe ö-@
+@sea@|@(d)etale, balame, inge, kwa-tan(g)-na-nge, ngele@
+@see@|@-a-ti-iebe, -iaba, -iebe@
+@send@|@tuche-@
+@set (sun@|@teikkee@
+@set fire to@|@yama, yame@
+@sharp@|@gie chare@
+@sharpen@|@tota-kwe-@
+@shave the head@|@-orale-@
+@shell (of egg)@|@todandui@
+@shoot@|@-ilowa@
+@shoot with arrow@|@-antite-@
+@shore dweller@|@em-be-l-a-kwe (='Aryoto')@
+@short@|@-u-dantano@
+@sibiling (elder ~)@|@-ete-l-angka@
+@sibiling (younger ~)@|@-oykuta@
+@sight@|@ebebaro@
+@sing@|@gögaba-@
+@singe@|@gochega-@
+@sister-in-law@|@-ulitange@
+@sit@|@(ön-)a-ntökö-@
+@skin@|@(ön-)a-ti, gangwi@
+@skull@|@(ön-)o-dange@
+@sky@|@be-n(g)a-nge@
+@slacken@|@-ilebu@
+@slap@|@-obelo@
+@sleep@|@(ön-)i-omoka-@
+@sleep (n.)@|@-omoka@
+@small@|@-i-tay, baiai, dolakambey@
+@smell [bad] (v.)@|@-ibe, (g-)ibe-kutu@
+@smell [good] (v.)@|@-ija@
+@smoke@|@eno taboi, gango-t-a-benene, gotabe, tuke-gotabe@
+@smoke (n.)@|@beleme@
+@smoke (v.)@|@g-en-te-kwanene@
+@smooth@|@giligilie@
+@snake@|@dobo, koong(e), tomogwi@
+@snake (big ~)@|@koong-ue-ra@
+@son@|@-aye mi, debaye@
+@spark@|@gela-öbe, ngema@
+@speak@|@bini@
+@spear@|@tukiri-@
+@spirit@|@eeka@
+@spit@|@-a-kwe-nge, in-a-kwe-nge, uruge, uduge@
+@spittle@|@-a-kwe-nge, in-a-kwe-nge@
+@split@|@(ön-)a-kwa-nge@
+@squat@|@laja@
+@stab (v.)@|@i-te-kwa-te@
+@stand@|@doka-@
+@star@|@chileme, chilome, köye köye@
+@stay@|@belakwe-@
+@stepfather@|@-echaikwe@
+@stepmother@|@etukete@
+@stick@|@gange@
+@stink (v.)@|@-ibe, (g-)ibe-kutu@
+@stomach@|@-io-nge, (ön-)i-o-nge@
+@stone@|@taiyi, uli@
+@stranger@|@inene@
+@stream@|@gidele, kwa, koa, kuai@
+@strike@|@kuo ke-@
+@string@|@ebe, koyage, kwarage, kwalage@
+@suck@|@-gatob-kwajo-@
+@suck[from breast]@|@nyonyo@
+@suckle@|@nyonyo@
+@sun@|@eke, i-koi, marechengkwe, narechengkwe, tobile-be, tongkulu@
+@swallow@|@-gatob-kwajo-, -i-lo-kwa-le-, -ijegalo@
+@sweat (v.)@|@(ön-)o-tagilelem@
+@swim@|@kwa(n)e-@
+@swim (turtle)@|@-ibolo@
+@swine@|@kue@
+@tail@|@(ön-)u-kichele@
+@take@|@ko?@
+@talk@|@chenene-ue-@
+@talk (aloud)@|@eningal-ue-@
+@tall@|@jagai, oi-jagai@
+@taste (v.)@|@gie-e@
+@tell off@|@alabuke@
+@tell one's name@|@gatibenene@
+@that (far)@|@lua@
+@that (near)@|@la@
+@their@|@ekwa@
+@there@|@li-goreta, lö-chune@
+@there (far)@|@lua-oya, lua@
+@there (near)@|@lö-oya, la-wai@
+@they@|@ekwi, n-@
+@thick@|@-ireame@
+@thin@|@-irola@
+@thing@|@-ka-@
+@think@|@-inya-i-boa-la@
+@this@|@li@
+@thou@|@ngi@
+@three@|@-irejidda@
+@through@|@-ge-1, -ga@
+@throw@|@bini, wötaykwa-@
+@throw into fire@|@enane@
+@thy@|@nga@
+@tick@|@nganage@
+@tie@|@(g-)a-i-kwe@
+@tip'@|@(ön-)o-@
+@to@|@-ota, -uku-eta, -ukw-angka@
+@to (dative aspect)@|@-teta@
+@to (obj.)@|@-ejeka@
+@to be cold@|@ugi-te-be@
+@to breathe@|@kwae- (ö-), kwai- (ö-)@
+@to die@|@be(n)cha-me-@
+@to eat meat@|@tawa, toe@
+@to fall@|@-i-wabe@
+@to flow@|@-o-ba-kwela, k-o-ba-kwela@
+@to give@|@-gabe-, -yabe-@
+@to go@|@(ön-)i-tötö-, le ga-n-le, une?@
+@to hear@|@-ko?-la-kwe@
+@to heed@|@-ko?-la-kwe@
+@to hit@|@kwo ke-@
+@to lick@|@g-itome-@
+@to listen@|@-ko?-la-kwe@
+@to observe@|@getebe-@
+@to paint@|@eu-@
+@to peer@|@getebe-@
+@to squeeze@|@unege-@
+@to stand@|@kwa-chwa-be, kwa-cwa-la-kwe@
+@to watch@|@getebe-@
+@to wipe@|@getekwene@
+@toast (v.)@|@gochega-@
+@tobacco@|@juka@
+@toenail@|@(ön-)u-k-u-borange, u-burenge@
+@tomorrow@|@geakaba, gegariko-@
+@tongue@|@(ön-)a-lan(g)-dange@
+@too@|@eta@
+@tooth@|@-ku, (ön-)a-kwe@
+@tooth (molar)@|@-otakuinge@
+@torch@|@gotite-be@
+@towards@|@-ota, -ukw-angka@
+@trailblazer@|@mela-me@
+@travel@|@e-(n)t-ukwa-nge(-me)@
+@tree@|@da?nge@
+@tree (species of ~)@|@dangkale@
+@tuber@|@-chendalu@
+@tusk of pig@|@g-a-kie@
+@two@|@-dena, a?an-dena, inaga@
+@untie@|@-ilebu, ilebu@
+@up to@|@-ukw-angka@
+@upon@|@-onta@
+@urinate@|@ejelee@
+@VERBAL PLURAL (infix)@|@-og-, -eg(i)-@
+@vomit@|@öbulö-be@
+@walk@|@bujyö-, bujeye, etuche@
+@want (v.) OR ask@|@onne@
+@warm@|@jonjome-be@
+@wash@|@(in-)a-kwö-teta kwöne@
+@watch@|@gawale-te@
+@water@|@inge@
+@we@|@eti@
+@we all@|@et-a-kotalota@
+@well (n.)@|@inge-ga onokwe@
+@what@|@kwa-che@
+@what; how@|@one-nare@
+@where@|@ko, kwa, nya-kang, nya-ka-, nya-ga-, onea@
+@which@|@one@
+@white@|@-o-kalai, we-kala@
+@white clay@|@we-kala@
+@white pigment@|@tongkute@
+@who@|@nya-kai@
+@why@|@onereta@
+@wife@|@-angachebe, joke-nyabe, öngabe, unyao-le@
+@wife [with no child] (VOC.)@|@nyabe@
+@wind@|@totote, totete, totate@
+@wisdom@|@ebebaro@
+@with@|@-angota, -ongota@
+@woman@|@öng-a-lle, öngabe@
+@woods@|@gaibora-le@
+@yesterday@|@tongkita@
+@you@|@ngi@
+@you(pl.)@|@ni@
+@young man (unmarried ~)@|@entoge@
+@young of animal@|@-tara-ra, -taye-ra, -tay-ra, -teba-ra@
+@your@|@na, nga@
+

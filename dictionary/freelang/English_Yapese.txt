@@ -1,0 +1,209 @@
+@English@|@Yapese@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@above@|@dakean@
+@all@|@gubiin@
+@and@|@ma, ngea@
+@ash@|@qawaat@
+@at@|@u@
+@back@|@keeruq@
+@bad@|@kireeb@
+@belly@|@nae-g, yi-n@
+@below@|@taan@
+@big@|@gaaq, gaqgaaq@
+@bird@|@qarcheaq@
+@black@|@rungduq@
+@blood@|@rachaq@
+@bone@|@yil@
+@branch@|@paaq@
+@breast@|@thuth@
+@child@|@btiir@
+@cloud@|@maagooleng@
+@cold@|@gärbeab, qulum@
+@correct@|@piluw, riyuul'@
+@day@|@raraan@
+@dirty@|@qaliit@
+@dog@|@kuus, pilis@
+@dry@|@malik'@
+@dull@|@boqogol, muqgug@
+@dust@|@qaab@
+@ear@|@lii-g, teel@
+@earth@|@buut'@
+@egg@|@faak@
+@eye@|@miit, qawochean@
+@far@|@maal'aaf, qureel@
+@fat@|@maam, mam@
+@father@|@chii-tam-ngiin@
+@feather@|@wul@
+@fire@|@nifiy@
+@fish@|@niig@
+@five@|@lal'@
+@flower@|@mak'uuf@
+@four@|@qanngeeg@
+@fruit@|@qamngii-n, waqamngii-n@
+@good@|@feal', maenigiil@
+@good afternoon@|@Fal'e misii@
+@good evening@|@Fal'e baleyal@
+@good morning@|@Fal'e kadbul@
+@goodbye@|@Kafel, Kefel@
+@grass@|@paan@
+@green@|@giriin@
+@hair@|@piy@
+@hand@|@paaq, rifrif@
+@he@|@qiir@
+@head@|@chug, lalug@
+@heavy@|@toomaal@
+@hello@|@Mogethin@
+@house@|@naqun@
+@how?@|@bidqiy@
+@husband@|@figir@
+@I@|@gaeg@
+@if@|@faqan, fäqän@
+@in@|@laan@
+@intestines@|@t'aay@
+@lake@|@lipäth, lupäth@
+@leaf@|@yuuw@
+@left@|@gilaey'@
+@leg@|@qaay, rifrif@
+@lightning@|@quluch@
+@liver@|@qaed@
+@long@|@n'uw@
+@louse@|@thiil@
+@man@|@moqon@
+@meat@|@qufin@
+@moon@|@puul@
+@mosquito@|@neeng@
+@mother@|@chii-tin-ngiin@
+@mouth@|@l'igi-n, l'ugu-n, langaa-n@
+@my name is@|@Fithngag ea@
+@name@|@ngachol, nguchol@
+@narrow@|@wiqinqin, wuqinqin@
+@near@|@chuuchguur@
+@neck@|@nguroeq@
+@needle@|@raasam, thuuk@
+@new@|@biqech@
+@night@|@neap'@
+@no@|@daangaaq, daangaay, danga@
+@nose@|@p'eethnguu-n@
+@old@|@labthir@
+@one@|@reeb, taqreeb@
+@other@|@thiil, thilthiil@
+@painful@|@m'aar, muqbich@
+@person@|@giidiiq, giirdiiq@
+@rain@|@n'uw@
+@rat@|@boroq@
+@red@|@roowroow@
+@right@|@mat'aaw@
+@road@|@woq@
+@root@|@lik'@
+@rope@|@gof, tael@
+@rotten@|@buuy', meal@
+@salt@|@sool@
+@sand@|@yaan'@
+@sea@|@madaay, riguur@
+@sharp@|@m'uthm'uuth, m'uuth@
+@she@|@qiir@
+@short@|@ngochngooch, ngooch@
+@shoulder@|@poe-n, puu-n@
+@shy@|@taamraq@
+@skin@|@doew, yalach, yarooch@
+@sky@|@laang@
+@small@|@qachiig@
+@smoke@|@qaath@
+@snake@|@parchooyog@
+@spider@|@goenöw@
+@star@|@t'uuf@
+@stick@|@leak'@
+@stone@|@malaang@
+@tail@|@buuk'@
+@thank you@|@Kammagar@
+@that@|@neam, niir@
+@thatch@|@chig@
+@they@|@yow@
+@thick@|@dibqäg@
+@thin@|@guulfith@
+@this@|@neey@
+@thou@|@guur@
+@three@|@dalip@
+@thunder@|@dirraq@
+@to bite@|@k'aad@
+@to blow@|@thoow@
+@to breathe@|@pagoofaan@
+@to burn@|@qörfeeg, qurfeeg@
+@to buy@|@chuwaey'@
+@to chew@|@langad@
+@to choose@|@meel'eeg@
+@to climb@|@foor@
+@to come@|@yib@
+@to cook@|@liith, luum@
+@to count@|@maathqëg@
+@to cry@|@yoer@
+@to cut@|@doedöy@
+@to die@|@yiim'@
+@to dig@|@keer, kerkeer@
+@to dream@|@lik'aey, malik'aey@
+@to drink@|@qunum, quun@
+@to eat@|@kaay, qabiich@
+@to fall@|@muul@
+@to fear@|@magar, rus@
+@to flow@|@luul'@
+@to fly@|@changëg@
+@to grow@|@tugiil, tuguul@
+@to hear@|@rungqag@
+@to hide@|@miith@
+@to hit@|@guul@
+@to hold@|@koel@
+@to kill@|@liiq@
+@to know@|@naang@
+@to laugh@|@minmin@
+@to live@|@fas@
+@to open@|@biing@
+@to plant@|@miyuuq, yuung@
+@to pound@|@pardëq@
+@to say@|@yoeg@
+@to scratch@|@guruuy, keer, kerkeer@
+@to see@|@guy@
+@to sew@|@yip'@
+@to shoot@|@yiin'@
+@to sit@|@paer@
+@to sleep@|@mool@
+@to sniff@|@faraay@
+@to spit@|@thuw, thuwaeg@
+@to split@|@masëy@
+@to squeeze@|@qudiy@
+@to stab@|@rugöy@
+@to stand@|@saak'iy@
+@to steal@|@qirqiring. qiring, saath@
+@to suck@|@fil, filfil, pining, pinpining@
+@to swell@|@mathow@
+@to swim@|@noeng@
+@to think@|@leam@
+@to throw@|@muun, paag@
+@to tie up@|@m'aag@
+@to turn@|@cheleeg, piig@
+@to vomit@|@suull'ugun@
+@to walk@|@yaen@
+@to work@|@märweel@
+@to yawn@|@nguluq@
+@tongue@|@balwoth, yimnoon@
+@tooth@|@nguwol@
+@two@|@l'agruw@
+@water@|@daay, rawn@
+@we@|@gadow, gamow@
+@wet@|@gardaq, mäyguq, meyguq@
+@What is your name?@|@Minii fithngam?@
+@what?@|@maang@
+@when?@|@wiqin, wuqin@
+@where?@|@quw@
+@white@|@weachweach@
+@who?@|@miniiq@
+@wide@|@raad@
+@wife@|@lëq@
+@wind@|@nifeeng@
+@woods@|@lawaay@
+@worm@|@qäloelaey@
+@year@|@duw@
+@yellow@|@maegchoel@
+@yes@|@ea@
+@you@|@gimeew@
+

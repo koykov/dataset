@@ -1,0 +1,191 @@
+@English@|@Afar@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@arm@|@dharaa@
+@armpit@|@dabce@
+@arrive@|@gay-@
+@attach camels in Indian file@|@dhidd-@
+@back@|@gerbat, irö, sàrra@
+@bald spot@|@booka@
+@band@|@boor@
+@basket@|@dambiil@
+@bastard@|@ilimo@
+@be able@|@dac-, dhac-@
+@be bent@|@guub@
+@be born@|@bak@
+@be dark@|@dum@
+@be extinguished@|@baad-@
+@be numerous@|@mag-@
+@beat@|@dibe@
+@belly@|@garbaa, gudee, gudee, wadanaa@
+@billy goat@|@dabeèla@
+@blood@|@bil, cabal@
+@bone@|@lafa@
+@bug@|@tek'an@
+@bull@|@abur, aburwa, baceraa@
+@burn@|@ur-@
+@bury@|@gac@
+@calf of leg@|@sarba@
+@call@|@dac@
+@camel@|@gälä@
+@cat@|@dumoo@
+@cattle@|@lä, saac@
+@chickpea@|@sabbar-ë@
+@climb@|@fär@
+@clothes@|@halago, sara@
+@colt@|@'ellü@
+@come@|@ma@
+@corn@|@iláu@
+@cow@|@lä@
+@crocodile@|@ulum@
+@cut@|@garac-@
+@day@|@lälä@
+@descend@|@oob-, raad-@
+@descendant@|@raddi@
+@destroy@|@bak@
+@do@|@is-@
+@Don't touch me there!@|@Akke yok maxagin!@
+@dream@|@sonoo@
+@drink@|@acab-, acub-@
+@drive away@|@dacar@
+@eagle@|@guma@
+@ear drum@|@dhaaga@
+@egg@|@gelelo@
+@elephant@|@dakaano@
+@enter@|@hal, sau@
+@excrements@|@haraa@
+@eyebrow@|@dambar@
+@eyes@|@intit@
+@face@|@neef@
+@father@|@bal@
+@father-in-law@|@ballaa@
+@finger@|@feera, fera@
+@fire@|@giraa@
+@fish@|@kulluum@
+@flower@|@ambaab, anboob@
+@foal@|@'ellü@
+@foot@|@tibic@
+@give birth@|@dhal@
+@glean@|@arar@
+@go@|@gal@
+@go away@|@ba-@
+@goat@|@eráy-taa, ra'y, reeta, wadär@
+@gorge@|@anqára, gürdumë@
+@groin@|@bálac-ä@
+@hand@|@gaba, gabaa, genac@
+@head@|@hangal@
+@heart@|@garbaa, lubbi@
+@heavy@|@cilsi@
+@heel@|@tibic@
+@hen@|@dorrahe@
+@hides@|@àdda, àddoy@
+@hip@|@lak@
+@hippopotamus@|@gümärï, ilmaa@
+@hornbill@|@gugga@
+@horse@|@farar, faras@
+@illness@|@biyak@
+@interval@|@faan@
+@intestine@|@garbaa@
+@iron@|@birtaa@
+@jump@|@perr@
+@kind of loin-cloth@|@booruu@
+@knee@|@gulub@
+@know@|@dac-, dag, dag, dhac-, dhag@
+@lamb@|@lagaddo, lagàddu@
+@learn@|@bar, dag, dhag@
+@leg@|@lak@
+@lion@|@lubaak@
+@live@|@hay@
+@liver@|@tiroo@
+@lizzard@|@mulluc-it@
+@long@|@adar, dhäl, dhëri@
+@look@|@ilal-@
+@make@|@is-@
+@man@|@bara, heyoo, lab, nuum, nuumuu@
+@mane@|@gamma@
+@march@|@cath-@
+@mare@|@bädirä@
+@mead@|@mudhi@
+@middle@|@faanta@
+@morning@|@beeraa@
+@mouse@|@andawaa@
+@mouth@|@af@
+@mule@|@badkela@
+@name@|@migac@
+@navel@|@hondub@
+@necklace@|@bilica@
+@nose@|@san@
+@old man@|@dacayna@
+@open@|@fak@
+@ox@|@abur, aburwa@
+@pain@|@biyak@
+@palate@|@anqára@
+@penis@|@buddaa@
+@perish@|@baad-@
+@place@|@kee@
+@plenty@|@mangoo@
+@pot@|@buti@
+@rag@|@halago@
+@rain@|@roob@
+@rain-cloud@|@darur@
+@ram@|@id@
+@rat@|@andawaa@
+@raven@|@kaakoo@
+@rear@|@sàrra@
+@road@|@darib@
+@run@|@-erd-, rad-@
+@run away@|@kuud-@
+@sand@|@sadhlyta@
+@sandal@|@kabel@
+@say@|@-kal-, iiy-@
+@scratch@|@hakuk@
+@seed@|@diriyi, ibid@
+@sew@|@rib-, tartar-@
+@sheep@|@ïdä@
+@she-goat@|@alaa, laah, ree-ta@
+@she-lamb@|@amac-to@
+@shoe@|@kabel@
+@shoulder@|@senk'uu@
+@side of back@|@gabbe@
+@side of the body@|@lab-@
+@skins@|@àdda, àddoy@
+@sleep@|@diin@
+@small cattle@|@illi@
+@soft part@|@lubbi@
+@soul@|@lubbi@
+@spend a night doing something@|@áhddera, áhedera, hadar@
+@spleen@|@aleefu@
+@stick@|@ciloo@
+@stir@|@-idrig-@
+@stomach@|@garbaa@
+@stone@|@dhä@
+@strike@|@-ootok-, tak-@
+@swalow@|@madac-@
+@tear@|@katäf-@
+@testicle@|@bálac-ä@
+@thigh@|@lak@
+@think@|@-kal-@
+@throat@|@anqára, endkaraa, endkaraa, garac, gürdumë@
+@tick@|@kilim@
+@to come@|@-mat-@
+@to hunt@|@adm-is@
+@to reap@|@arar@
+@town@|@budlaa@
+@tread@|@cat-@
+@village@|@budlaa@
+@vulture@|@guma@
+@vulva@|@bus, busuu@
+@wall@|@sabsab@
+@wasp@|@diidaaleyta@
+@water@|@lay, le@
+@wheat@|@sirräy@
+@Where is my room?@|@Yi qari annih kaay?@
+@Where is the bar?@|@Baar annih kaay?@
+@Where is the beach?@|@Baddaf annih kaay?@
+@whisk@|@dibe@
+@witch-doctor@|@buda@
+@wolf@|@dalehö@
+@wood@|@bahoo@
+@yolk@|@lubbi@
+@zebra@|@daami@
+

@@ -1,0 +1,1751 @@
+@English@|@Gagauz@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a beauty@|@dilber@
+@a fine@|@ceremä@
+@a little@|@az@
+@a man's wife's younger sister@|@baldysqa@
+@a mass of hair@|@japä@
+@a pinch@|@chimdik@
+@a relative by marriage@|@dünür@
+@abandon@|@qoj-@
+@abhor@|@ïren-@
+@above@|@juqar, juqary, yukari@
+@absolute@|@mutlak@
+@abundant@|@bol@
+@acid@|@aži@
+@acrobat@|@cambaz@
+@across@|@capraz@
+@add to@|@daq-@
+@additionally@|@tä@
+@admonition@|@nasaat, tembih@
+@advance@|@pesin@
+@after@|@sonu@
+@again@|@genä@
+@aged@|@kart@
+@aim of a gun@|@këz@
+@air@|@hava@
+@Albanian@|@arnaut@
+@alive@|@diri@
+@all@|@hep@
+@almond@|@badem@
+@alone@|@yalniz@
+@also@|@-jlan@
+@amber@|@kehlibar@
+@amble@|@ieš-@
+@an ending of the 2d person@|@-n@
+@ancient@|@ieski@
+@and@|@hem@
+@anecdote@|@fikra@
+@angel@|@melek@
+@anger@|@üfkä, üfke@
+@angle@|@bužaq@
+@animal@|@hayvan@
+@ankle-bone@|@topuq@
+@answer@|@cuvap@
+@ant@|@karimca, qarymže@
+@anvil@|@örs@
+@apple@|@alma@
+@approximative@|@kadar@
+@area@|@alan@
+@arm@|@kol, qol@
+@armpit@|@koltuk@
+@arrange@|@jap-@
+@arrogance@|@kurum@
+@arrow@|@ok, oq@
+@ash@|@kül@
+@ashes@|@kül@
+@attention@|@smirna@
+@August@|@avgust@
+@autumn@|@güz@
+@aware@|@saq@
+@awl@|@biz@
+@axis@|@dingil@
+@axle@|@dingil@
+@baby@|@yavru@
+@back@|@ärd, arka, arqa, geeri, gëri, kic@
+@back of the neck@|@jensä@
+@backside@|@göt, ters@
+@bad@|@bet, fena, kötü@
+@bag@|@canta, cual, sumka@
+@balance@|@terezä@
+@bald@|@kel@
+@ball of wool@|@jumaq@
+@band@|@tayfa@
+@barber@|@berber@
+@bare@|@yalin@
+@bark@|@kabuk@
+@barley@|@arpa@
+@barn@|@ambar, dam@
+@barren@|@kisir@
+@barren cow@|@qysyr@
+@barren mare@|@qysyraq@
+@basket@|@sepet@
+@bat@|@jarasa@
+@bath@|@baya, hamam@
+@bayonet@|@süngü@
+@be brought together@|@qauš-@
+@be similar@|@benze-@
+@beads@|@bonžuq@
+@beam@|@kiris, mertek@
+@bean@|@fasülä@
+@bear@|@ayi@
+@beard@|@sakal@
+@beautiful@|@gözäl@
+@beaver@|@kunduz@
+@because@|@cünkü, icin@
+@bed@|@pat, yatak@
+@bedding under the saddle@|@chapraq@
+@bed-sheet@|@carsaf@
+@bee@|@ari, ärÿ, kuan@
+@beetle@|@böcek@
+@belief@|@inan@
+@bell@|@can@
+@bellows@|@corner, körük@
+@belly@|@qaryn@
+@below@|@asaa@
+@belt@|@kusak@
+@bend@|@qajyr-@
+@benefit@|@fayiz@
+@bent@|@iiri@
+@berry@|@dut, emis@
+@big@|@bük, büük@
+@bile@|@öt@
+@bird@|@kus, kuš, quš@
+@bitter@|@aci, ïši@
+@black@|@kara, qara@
+@bladder@|@qawuq@
+@blade@|@chalym@
+@blanket@|@jorhan@
+@blind@|@köör@
+@blood@|@kan, qan@
+@blue@|@çakir, gök, maavi@
+@board@|@tafta@
+@boat@|@gemi, kayik@
+@bobbin@|@makara@
+@body@|@boj, ten@
+@bone@|@kemik@
+@book@|@kitap@
+@boot@|@cizmä@
+@booty@|@chapanaq@
+@bosom@|@koynu, qojnu@
+@bottle@|@sisä@
+@bottom@|@alt, dip@
+@bow@|@jaj, jajy, yay@
+@boy@|@cocuk, oglan@
+@bracelet@|@bilezik@
+@brain@|@imik, mozak@
+@brake@|@tormoz@
+@bran@|@kepek@
+@branch@|@budak, budaq, chybyq, dal@
+@brass@|@pirinc@
+@brave man@|@ït@
+@bravo@|@aferim@
+@bread@|@çörek, ekmek, iekmek, iekmek@
+@breast@|@güs, güüs, mämä, memä@
+@brick@|@tula@
+@bride@|@gelin@
+@bridegroom@|@güvää@
+@bridge@|@köprü@
+@bridle@|@yular@
+@bright@|@aydin, sili@
+@bristle@|@citina@
+@brittle@|@gevrek@
+@broad@|@engin, jalpaq@
+@brother@|@aga, batü, kardas, kardaš@
+@brother-in-law@|@kayin@
+@brow@|@kas@
+@brown@|@esmer, jäz, qula@
+@brush@|@cetka@
+@buck@|@tekä@
+@buckle@|@toqa@
+@buffalo@|@manda@
+@building@|@bina@
+@bull@|@bua, buha@
+@bunch@|@salkim@
+@bush@|@andyz@
+@but@|@meer@
+@butcher@|@kasap@
+@butterfly@|@kelebek@
+@buttocks@|@göt@
+@button@|@kopca@
+@cadaver@|@les@
+@cage@|@kafes@
+@calculation@|@esap@
+@calf@|@buzä, buzaa, dana@
+@calf of leg@|@baldir, baldyr@
+@camel@|@devä@
+@candle@|@mum@
+@cannon@|@top@
+@cap@|@sapka@
+@carp@|@sazan@
+@carpenter@|@dülger@
+@carry on back@|@ärt-@
+@cart@|@araba@
+@case@|@sandik@
+@cask@|@fici@
+@cat@|@kedi@
+@cattle@|@siir@
+@cave@|@in@
+@center@|@merkez@
+@century@|@asir@
+@chain@|@sincir@
+@chalk@|@tebesir@
+@character@|@tabeet@
+@charcoal@|@mangal@
+@chase@|@av, qü-@
+@cheek@|@janaq, yanak@
+@cheek-pouch@|@aurt@
+@cheese@|@piinir@
+@cherry@|@kirez@
+@chick@|@pilic@
+@child@|@chožuq, gench-, genž-, usak, ušak@
+@children@|@evlad@
+@chimney@|@baca@
+@chin@|@çenä@
+@chisel@|@dalta@
+@church@|@klisä@
+@claim@|@alacak@
+@claw@|@tyrnaq@
+@clay@|@kil@
+@cloud@|@bulut@
+@clover@|@jonža, yonca@
+@coagulated milk@|@jürt@
+@coal@|@kömür@
+@cock@|@horoz@
+@cocoon@|@koza@
+@coffin@|@tabut@
+@cold@|@süq, suuk@
+@collar@|@yaka@
+@color@|@renk@
+@comb@|@tarak@
+@come out@|@chyq-@
+@command@|@emir@
+@commentary@|@yorum@
+@community@|@toj@
+@companion@|@yoldas@
+@company@|@dernek@
+@compass@|@pergel@
+@complete@|@taman@
+@completely@|@top@
+@concord@|@ahenk@
+@condition@|@hal, sart@
+@cone@|@fistik@
+@confession@|@itraf@
+@conform@|@uj-@
+@continuation@|@devam@
+@contrary@|@aykiri@
+@convoy@|@katar@
+@copper@|@bakir, baqyr@
+@coral@|@mercan@
+@corn@|@misir@
+@corridor@|@hayat@
+@cottage@|@cardak@
+@cotton@|@pamuk@
+@countenance@|@surat, süret@
+@country@|@iel@
+@couple@|@es@
+@courage@|@jürek@
+@course@|@mürür, sefer@
+@court@|@aul, sud@
+@cover@|@kapak, örtü, yorgan@
+@cow@|@inek, siir@
+@crab@|@engec@
+@craftsman@|@uz@
+@crane@|@turna@
+@crazy@|@alyq@
+@cream@|@kaymak@
+@crest@|@ibik@
+@crippled@|@cholaq@
+@cross@|@stavroz@
+@crow@|@garga@
+@crowd@|@alay, choju, kalaba@
+@crystal@|@bülür@
+@cup@|@canak, filcan, stakan@
+@cupboard@|@dolap@
+@curiosity@|@merak@
+@curtain@|@ješik@
+@custom@|@vama@
+@cut in slices@|@dil-@
+@cycle@|@devre@
+@damage@|@zän, zarar@
+@daring@|@metin@
+@dark brown@|@qomur@
+@dates@|@hurma@
+@daughter@|@kiz@
+@daughter-in-law@|@gelin@
+@dawn@|@safk@
+@day@|@gün@
+@daybreak@|@dan@
+@dead@|@ölü@
+@deaf@|@saar@
+@death@|@ecel, ölüm@
+@debt@|@borc@
+@deceit@|@fent@
+@December@|@dekabri@
+@decision@|@karar@
+@deed@|@iš@
+@deep@|@derin@
+@deer@|@karaca@
+@defect@|@kusur@
+@delve@|@chuqur@
+@demon@|@dev@
+@dense@|@gür, koyu@
+@deposit@|@sklad@
+@design@|@resim@
+@desire@|@havez, raabet@
+@destiny@|@kismet@
+@destroy@|@boz-@
+@devil@|@seytan@
+@dew@|@cii@
+@diamond@|@almaz@
+@difference@|@fark@
+@difficulty@|@zor@
+@diligent@|@seremet@
+@dill@|@kopar@
+@director@|@müdür@
+@dirt@|@kir@
+@dirty@|@chepel, kirli, mindar, mindar, pis@
+@distant@|@jyraq@
+@ditch@|@hendek@
+@dog@|@köpek@
+@donkey@|@ešek, iešek@
+@Don't touch me there!@|@Bana diimä!, bana dokunmal!@
+@door@|@kapu@
+@dough@|@hamur@
+@down payment@|@pey@
+@dragon@|@ajder@
+@dream@|@düš, uyku@
+@dress@|@fistan, giiyim@
+@drill@|@burgu@
+@drizzle@|@cisenti@
+@drop@|@dam-na, damna@
+@drum@|@daul@
+@drunk@|@maamur@
+@dry@|@kurak, kurak, kuru, quru@
+@duck@|@jördek, ördek@
+@dung@|@bok, boq, gübür, tezek@
+@dust@|@toz, töz@
+@dwarf@|@cücä@
+@dye@|@boja@
+@eagle@|@kartal@
+@ear@|@kulak, qulaq@
+@early@|@erken@
+@earring@|@küpä@
+@earth@|@er, toprak@
+@earthenware pot@|@güvech@
+@earth-worm@|@solužan@
+@ease@|@sefa@
+@East@|@jilk@
+@easy@|@kolay@
+@echo@|@avaz@
+@edge@|@kenar, kiyi, uch@
+@edge of cloth@|@ietek@
+@effort@|@savas@
+@egg@|@jymyrta, yimirta@
+@eight@|@sekiz@
+@eighty@|@seksän@
+@elbow@|@dirsek@
+@elder brother@|@aha@
+@elegant@|@zarif@
+@elephant@|@fil@
+@email@|@sir@
+@ember@|@koor@
+@embrace@|@kucak@
+@emerald@|@zümrüt@
+@empty@|@boš, kof@
+@end@|@son, uc@
+@enemy@|@dusman, dušman@
+@enormous@|@azman@
+@envoy@|@elci@
+@envy@|@haseet@
+@epoch@|@devir@
+@equal@|@denk, esit@
+@error@|@yannis@
+@evening@|@avsam, avšam@
+@every@|@her@
+@excellent@|@fazli@
+@exchange@|@diis, dïš@
+@exile@|@gurbet@
+@expenses@|@harc@
+@external cover@|@qaby, qap@
+@eye@|@göz@
+@eye pus@|@chapaq@
+@eyelash@|@kirpik@
+@fabric@|@dokuma@
+@face@|@beniz, jüz, üz@
+@factory@|@fabrika, zavod@
+@faith@|@iman@
+@falcon@|@duan@
+@fall@|@güz@
+@family@|@aylä, senselä@
+@fan@|@elpezä@
+@far@|@uzak@
+@fat@|@jä, yaa@
+@father@|@ata, boba@
+@father-in-law@|@kaynata@
+@fathom@|@qolach@
+@fatty@|@semiz@
+@fear@|@korku@
+@feast@|@bajram, yortu@
+@feather@|@tüj, tüü@
+@February@|@fevral@
+@feed@|@bes@
+@female@|@disi, diši@
+@fetters@|@kelepcä, köstek@
+@few@|@az@
+@field@|@tarla@
+@fiery snake@|@ievrem@
+@fifty@|@elli@
+@fig@|@incir@
+@fight@|@düüs, güres, savaš-@
+@file@|@ija, törpü@
+@finger@|@parmak@
+@finger ring@|@jüzük, üzük@
+@fire@|@ates, ateš, yangin@
+@fireplace@|@ocak@
+@firewood@|@odun@
+@firm@|@kaavi@
+@first@|@ilk@
+@fish@|@balik, balyx@
+@fissure@|@yarik@
+@fist@|@musta, yumuruk@
+@fit into@|@sý-@
+@fitting@|@uygun@
+@five@|@bes@
+@flag@|@bajraq, bayrak@
+@flame@|@jalyn@
+@flank@|@büür, yan@
+@flat@|@düz, yasi@
+@flat and broad@|@jasy@
+@flax@|@keten@
+@flea@|@pirä, pire@
+@flee@|@kacmaa, qach-@
+@float@|@jüz-@
+@floor@|@dösemä, tavan@
+@flour@|@un@
+@flower@|@chichek, çiçek@
+@fluid@|@akar@
+@flute@|@kaval@
+@fly@|@sinek, uch-@
+@foal@|@tay@
+@foam@|@köpük@
+@fodder@|@alaf, em@
+@fog@|@bü@
+@food@|@as@
+@foot@|@ajaq, ayak@
+@for@|@deyni@
+@for the sake of@|@ichin@
+@forbidden@|@haram@
+@forearm@|@bilek@
+@forehead@|@anni, anny@
+@foreign@|@el@
+@forest@|@daa@
+@fork@|@catal, diiren@
+@former@|@evel@
+@fort@|@kalä@
+@forty@|@kirk, qyrq@
+@forward@|@ileri@
+@four@|@dört@
+@fowl@|@tauq@
+@fox@|@tilki@
+@frame@|@cercevä, kasnak@
+@freckle@|@cil@
+@free@|@azat, serbest@
+@free of charge@|@caba@
+@frequent@|@sik@
+@fresh@|@taazä@
+@Friday@|@cumaa@
+@friend@|@arkadas, dost@
+@frog@|@kurbaa, qurbä@
+@front@|@jön, ön@
+@frost@|@ajaz, ayaz, don@
+@fruit@|@meyva@
+@fruit stone@|@chekerdek@
+@fry@|@qa'ur-@
+@full@|@byq-, doj-, dolu@
+@fundament@|@temel@
+@funnel@|@funi@
+@fur@|@kürk@
+@fur hat@|@kalpak@
+@furnace@|@firin@
+@furuncle@|@chyban@
+@gag in a barrel@|@chep, chöp@
+@gall@|@jöt@
+@garden@|@baa, bašça@
+@garlic@|@sarmisak, sarmusaq@
+@generous@|@cömert@
+@Georgian@|@gürcü@
+@get to know@|@tany-@
+@gift@|@baasis@
+@girdle@|@kemer, qušaq@
+@girl@|@qyz@
+@gland@|@bez@
+@glass@|@cam@
+@glue@|@chiriš, ciris@
+@go beyond the range of vision@|@aš-@
+@goat@|@keci, keçi@
+@god@|@allaa@
+@gold@|@altin@
+@golden thread@|@sirma@
+@good@|@hayir, ii, islää@
+@goods@|@mal@
+@goose@|@kaaz, qäz@
+@grandchild@|@unuka@
+@grape@|@jüzüm, üzüm@
+@grape juice@|@sira@
+@grapevine@|@chepkä@
+@grass@|@ot@
+@gravel@|@moloz@
+@greed@|@tamah@
+@Greek@|@urum@
+@green@|@ješil@
+@greeting@|@seläm@
+@grey@|@boz, böz@
+@greyhound@|@tazi@
+@greyish blue@|@chaqyr@
+@grief@|@kahir@
+@grind@|@ü-@
+@groove@|@centik@
+@grouse@|@toy@
+@guard@|@karaul@
+@guest@|@konak, musaafir@
+@gulp@|@judum@
+@gum@|@sakiz@
+@Gypsy@|@cingenä@
+@habit@|@adet@
+@hail@|@tolu@
+@hair@|@kil, qyl, sac, saç@
+@hair of head@|@sach@
+@hair-lock@|@zülüf@
+@half@|@bucuk, yari, yarim@
+@halter@|@jular@
+@hammer@|@cekic, chekich@
+@hand@|@el, jel@
+@handful@|@auch@
+@handle@|@kulp, sap@
+@hand-saw@|@testerä@
+@hangman@|@cellat@
+@happiness@|@baht, kut@
+@happy@|@mutlu@
+@hard@|@cetin@
+@hare@|@tawšan@
+@harvest@|@bereket@
+@hat@|@qalpaq@
+@hatchet@|@nacak@
+@hazelnut@|@funduk@
+@he@|@o@
+@head@|@bas, baš, kafa@
+@healthy@|@sä@
+@heap@|@tepä@
+@heart@|@kalp, ürek, yürek@
+@hearth@|@vatra@
+@heat@|@alif@
+@heavy@|@aar@
+@hedgehog@|@kirpi@
+@heel@|@jökchä, ökcä@
+@he-goat@|@teke@
+@height@|@boy@
+@hell@|@cendem@
+@help@|@imdat, yardim@
+@hemp@|@kenevir@
+@hen@|@tauk@
+@henna@|@kina@
+@herd@|@sürü@
+@here@|@bura, burda@
+@hero@|@pelivan@
+@high@|@üüsek@
+@highway@|@sösä@
+@hinge@|@rezä@
+@hit@|@jitir-@
+@hoar@|@kraa@
+@hoar-frost@|@qrä@
+@hole@|@delik@
+@holiday@|@bayram@
+@honey@|@bal@
+@honor@|@namuz@
+@hoof@|@nal@
+@hook@|@cengel, kanca, olta@
+@hoop@|@cember@
+@hope@|@umut@
+@horn@|@bujnus, buynuz@
+@hornbeam tree@|@gürgen@
+@horse@|@at, beygir@
+@hose@|@tulum@
+@hour@|@saat@
+@house@|@ev, jev@
+@how@|@nasil, nicä@
+@how much@|@kac@
+@howl@|@ulu-@
+@huge@|@ulu@
+@human being@|@adam, insan, kishi@
+@hump@|@kambur@
+@hundred@|@üz@
+@Hungarian@|@macar@
+@hunger@|@aaçlik, äch@
+@hungry@|@aac@
+@hunt@|@av@
+@husband@|@koca@
+@husbands of sisters@|@bažanaq@
+@hyacinth@|@zümbül@
+@I@|@bän, ben@
+@ice@|@buz@
+@ice-cream@|@dondurma@
+@idiot@|@ahmak@
+@idiotic@|@bunak@
+@if@|@eer@
+@ill@|@hasta@
+@immediately@|@demin@
+@importance@|@önem@
+@inch@|@karis@
+@inflammation@|@uchuq@
+@influence@|@nüfiz@
+@information@|@spravka@
+@in-law@|@bacanak@
+@insect@|@böžek@
+@inside@|@icindä@
+@insipid@|@javan@
+@insufficient@|@kit@
+@intention@|@murat, neet@
+@interior@|@ic@
+@interpreter@|@talmac@
+@interrogative particle@|@-mi@
+@interval@|@ara@
+@iris@|@zambak@
+@iron@|@demir, ütü@
+@irritable@|@büš-, dargin@
+@island@|@ada@
+@January@|@yanvar@
+@jar@|@testi@
+@jaw@|@chenä@
+@Jew@|@cifit@
+@July@|@iyül@
+@June@|@iyün@
+@kerchief@|@jälyq@
+@kettle@|@kazan@
+@kidney@|@böbrek@
+@kidney(s)@|@börek, bür, bürek@
+@kin@|@hisim@
+@kind@|@cesit, türlü@
+@kitchen@|@kufnä@
+@knee@|@dis, diz@
+@knife@|@biçak@
+@knot@|@dü-m-ük, düünük@
+@ladder@|@merdiven@
+@lake@|@göl@
+@lamb@|@kuzu, quzu@
+@lamb (6m. old)@|@toqlu@
+@lame@|@colak, topal@
+@lamp-shade@|@abajur@
+@land@|@jer@
+@language@|@dil@
+@lantern@|@fener@
+@large bovine@|@sýr@
+@lasso@|@urhan@
+@last year@|@bildir, byldyr@
+@late@|@gec@
+@lathe@|@stanok, tezgä@
+@laundry@|@camasir@
+@laurel@|@dafin@
+@law@|@zakon@
+@lawn@|@cim, cimen@
+@lawsuit@|@daava@
+@layer@|@kat@
+@lazy@|@dembel, haylaz@
+@lead@|@kursum@
+@leaf@|@japraq, yaprak@
+@leather belt@|@qajyš@
+@leather strap@|@tasma@
+@leech@|@japyšqan, sülük@
+@left@|@sol@
+@leg@|@ayak, bacak@
+@lentil@|@mercimek@
+@letter@|@mektup@
+@letter (mail)@|@mektup@
+@level@|@düz-@
+@lie@|@jalan, yalan@
+@life@|@ömür@
+@light@|@jilin, nur@
+@light of weight@|@ilin@
+@lightning@|@cimcirik, yildirim@
+@like@|@gibi@
+@lilac@|@ergivan, lüläka@
+@lime@|@kirec@
+@lining@|@astar@
+@lion@|@aslan@
+@lip@|@dudak, dudaq@
+@liquor@|@raki@
+@list@|@spisok@
+@little@|@küchük, küžük@
+@liver@|@barsak, ceer@
+@lizard@|@guster@
+@load@|@ük@
+@lock@|@kilit@
+@locksmith@|@cilingir, slesar@
+@locust@|@cekirgä@
+@loin@|@kasik@
+@lonely@|@jalnyz@
+@long@|@uzun@
+@longing@|@hasret, sefk@
+@look@|@nazar@
+@loose@|@gevsek@
+@loss@|@kayip@
+@louse@|@bit@
+@love@|@sevgi@
+@lover@|@yär@
+@low@|@alcak@
+@lower side@|@alt@
+@luggage@|@göch@
+@lunch@|@ün@
+@mace@|@topuz@
+@mad@|@deli, quduz@
+@magic@|@büü@
+@magpie@|@saqsan, saqsän@
+@maize@|@papsoy@
+@male@|@erkek@
+@malice@|@kin@
+@mallet@|@toqmaq@
+@man@|@adam, erif, erkek, insan@
+@mane@|@elä, jelä@
+@many@|@cok@
+@March@|@mart@
+@mare@|@baytal@
+@market@|@carsi, panayir@
+@marsh@|@bataq@
+@mast@|@direk@
+@master@|@usta@
+@mat@|@hasir@
+@matchmaker@|@dünür@
+@mate@|@paydas@
+@mattress@|@döšek@
+@May@|@may@
+@meadow@|@cayir, chimen@
+@means@|@arac@
+@measles@|@kizamak@
+@meat@|@et, jet', jet', yaani@
+@medicine@|@ilac@
+@melon@|@kaun@
+@member@|@aza@
+@membrane@|@zar@
+@memory@|@hatir@
+@mercy@|@aman, raamet@
+@merry@|@sen@
+@metal tray@|@tepsi@
+@method@|@usul@
+@middle@|@orta@
+@might@|@kudret@
+@mild@|@jymyšaq@
+@milk@|@süt@
+@millet@|@dari, dary@
+@millstone@|@kaya@
+@mine@|@maadem, sahta@
+@minister@|@bakan@
+@mint@|@naanä@
+@mirror@|@ayna@
+@mistake@|@jannyš@
+@mister@|@efendi@
+@model@|@örnek@
+@moisture@|@nem@
+@mold@|@kalup, küf, pas@
+@mole on the face@|@ben, benek@
+@Monday@|@pazertesi@
+@money@|@para@
+@monkey@|@maymun@
+@month@|@aj, ay@
+@mood@|@gön, kef@
+@moon@|@ay@
+@morning@|@järin, sabaa@
+@mosque@|@cami@
+@moth@|@güvä@
+@mother@|@ana@
+@mother-in-law@|@kaynana@
+@motherland@|@vatan@
+@mother-of-pearl@|@sedef@
+@mountain@|@bajyr, bayir, dä@
+@mouse@|@sican, sychan@
+@moustache@|@byjyq@
+@mouth@|@aaz, äs@
+@move down@|@düš-@
+@mud@|@camur, cepel@
+@mule@|@katir@
+@mushroom@|@mantar@
+@must@|@sira@
+@mute@|@mutu@
+@nail@|@chivi, civi, enser, mih, tirnak@
+@naked@|@ciplak, jalyn, jalyn@
+@name@|@ad, ät, nam@
+@namesake@|@adas@
+@nape@|@ensä@
+@narrow@|@dar@
+@nation@|@millet@
+@native land@|@yurt@
+@nature@|@tabeet@
+@naughty@|@afecän@
+@navel@|@göbek@
+@near@|@jaqyn, yakin@
+@necessary@|@lääzim@
+@necessity@|@gerek@
+@neck@|@bojun, boynu@
+@needle@|@iinä, ïnä@
+@negation@|@ret@
+@neighbor@|@komsu@
+@neighbour@|@komshu, qomšu@
+@nest@|@juwa, yuva@
+@net@|@mräja, plasa@
+@new@|@eni, jeni, yeni@
+@new-born@|@körpe@
+@news@|@haber@
+@next@|@ertesi@
+@night@|@gecä, gežä@
+@nightingale@|@bülbül@
+@nine@|@dokuz@
+@ninety@|@doksan@
+@nit@|@sirkä@
+@no@|@yok@
+@none@|@hic@
+@noon@|@üülen@
+@north@|@poyraz@
+@nose@|@burnu@
+@not@|@-ma-, diil@
+@November@|@noyabri@
+@now@|@sindi@
+@number@|@nomer@
+@nut@|@ceviz@
+@oar@|@qajyq@
+@oat@|@yulaf@
+@oath@|@emin@
+@occasion@|@ür@
+@October@|@oktäbri@
+@odd@|@tek@
+@offended@|@küs-@
+@offense@|@azar@
+@oil@|@neft, yaa@
+@old@|@eski, qary@
+@old (not new)@|@eski@
+@old (not young)@|@kart@
+@old man@|@ihtär@
+@olive@|@zeytin@
+@one@|@bir@
+@onion@|@suan, suvan@
+@only@|@ancak, salt@
+@opposite@|@karsi@
+@orchard@|@basca@
+@order@|@nizam, tertip@
+@orphan@|@üüsüz@
+@other@|@baska@
+@outer side@|@dyšar@
+@outside@|@dis, disanda@
+@over there@|@ötää@
+@overthrow@|@jyq-@
+@owner@|@saabi@
+@ox@|@jöküz, öküz@
+@pain@|@aari, dert, syzy@
+@paint@|@boya@
+@pair@|@cift@
+@palate@|@damak@
+@palm of the hand@|@auc@
+@palsy@|@felc@
+@pan@|@teknä@
+@pants@|@don@
+@paper@|@kiyat@
+@paradise@|@cennet@
+@parcel@|@chyqy@
+@pardon@|@af@
+@parsley@|@maydanoz@
+@pea@|@borchaq, mazare@
+@peaceful@|@uslu@
+@peach@|@sefteli, shefteli@
+@peacock@|@paun@
+@peanut@|@pindik@
+@pear@|@armut@
+@pearl@|@boncuk@
+@peat@|@tezek@
+@pebble@|@cakil@
+@pedestrian@|@yayan@
+@peel@|@soj-@
+@peel off@|@syjyr-@
+@peg@|@qazyq@
+@people@|@halk, kiši@
+@pepper@|@biber@
+@perforated@|@sïrek@
+@permission@|@izin@
+@permitted@|@helal@
+@perpendicular@|@dik@
+@person@|@kisi@
+@petroleum@|@neft@
+@phlegm@|@balgam@
+@pickle@|@tursu@
+@piece@|@dilim, parca@
+@pig@|@domuz@
+@pigeon@|@güvercin@
+@pilgrim@|@haci@
+@pillow@|@jastyq, yastik@
+@pine@|@cam@
+@pine cone@|@tömruq@
+@pine tree@|@cham@
+@pink@|@karanfil, pembä@
+@pipe@|@düdük, lülä@
+@pit@|@cukur, kuyu@
+@pith@|@öz@
+@plain@|@yavan@
+@plane@|@jon-, rendä@
+@plant@|@bitki@
+@plate@|@cini@
+@play@|@ojun, oyun@
+@pleasant@|@hos@
+@plough@|@puluk, saban@
+@pluck@|@jol-@
+@plum@|@erik, ierik, ierik@
+@pocket@|@cöp@
+@point@|@nokta@
+@poison@|@zihir@
+@pole@|@herek, syryq@
+@Pole@|@läh@
+@pomegranate@|@nar@
+@poor@|@fakir, zavalli@
+@popcorn@|@kauk@
+@poplar@|@kavak@
+@poppy@|@mak@
+@porridge@|@bulgur@
+@port@|@liman@
+@porter@|@hamal@
+@possess. suffix (3d person)@|@-sy@
+@possible@|@mümkün@
+@pot@|@cölmek@
+@pouch@|@kesä, punga@
+@power@|@güch@
+@prayer@|@dua@
+@pregnant@|@gebä@
+@press in@|@tyqa-@
+@price@|@paa@
+@prison@|@ceza, kapan@
+@prisoner@|@esir@
+@produce@|@maasul@
+@projectile@|@snaräd@
+@property@|@mülk@
+@prophecy@|@fal@
+@proposal@|@teklif@
+@protect@|@qoru-, saqyn-@
+@pumpkin@|@kabak@
+@puppet@|@kukla@
+@pure@|@pak, temiz@
+@pus@|@irin, jirin@
+@quarrel@|@cekismäk, kavga@
+@quarter@|@maalä@
+@quick@|@cabuk, cevik, tez@
+@quiet@|@javaš, raat, yavas@
+@rabbi@|@haham@
+@rabbit@|@tavsam@
+@rabies@|@kuduz@
+@radish@|@trup@
+@rag@|@bez@
+@rain@|@jämur, yaamur@
+@raise@|@götür-@
+@ram@|@koc, qoch@
+@rapeseed@|@hardal@
+@rasp@|@törpü@
+@rat@|@patkan@
+@ravine@|@yar@
+@raw@|@cii, jaš@
+@reading@|@okumaa@
+@ready@|@hazir@
+@real@|@gercek@
+@rear@|@ard@
+@reason@|@sebep@
+@reception@|@kabul@
+@recite@|@oqu-@
+@red@|@kirmizi, kizil, qyzyl@
+@reddish@|@al@
+@reed@|@kalem, kamis, kiliz, saaz@
+@regiment@|@polk@
+@religion@|@din@
+@rent@|@kira@
+@repetition@|@tekrar@
+@resin@|@saqyz@
+@respect@|@ikram@
+@rib@|@iyä@
+@ribbon@|@sirit@
+@rich@|@baj, zengin@
+@ridge@|@sirt@
+@rifle@|@tüfek@
+@right@|@hak@
+@right (correct)@|@dooru@
+@right away@|@hemen@
+@right hand@|@saa@
+@ring@|@halka, üzük@
+@ripe@|@olgun, piš-@
+@river@|@derä@
+@road@|@jol, yol@
+@roast@|@süüs@
+@robber@|@haydut@
+@robust@|@dinc@
+@rock@|@qaja@
+@rock crystal@|@syrcha@
+@rocket@|@fisek@
+@rod@|@dayak, dayak, sirik@
+@roe of fish@|@halver@
+@roll together@|@dür-@
+@room@|@oda@
+@root@|@kök, tüp@
+@rope@|@cati@
+@rope harness@|@chaqyldaq@
+@rose@|@bullet, gül@
+@rotten@|@cürük@
+@round@|@chevrä, dolay, tombarlaq, yuvarlak@
+@round thing@|@top@
+@row@|@sira@
+@rub@|@üt-@
+@rudder@|@kürek@
+@ruler@|@padisaa@
+@rye@|@cavdar@
+@sable@|@samur@
+@sack@|@qap, torba@
+@sacrifice@|@kurban@
+@saddle@|@er, jër@
+@saddlegirth@|@qolan@
+@sail@|@elken@
+@saint@|@ay@
+@salt@|@tuz@
+@sand@|@kum, qum@
+@sated@|@razi, tok@
+@satisfaction@|@kanaat@
+@saturated@|@qoju@
+@Saturday@|@cumartesi@
+@sausage@|@sucuk@
+@scabbard@|@qyn@
+@scales@|@kantar@
+@scarlet@|@al@
+@school@|@shkola, skola@
+@scoop@|@susaq@
+@scrape@|@qyrq-@
+@screen@|@perdä@
+@scrotum@|@tašaq@
+@scythe@|@tirpan@
+@sea@|@deniz@
+@seal@|@foka@
+@seam@|@etek@
+@seed@|@tenä, toom@
+@select@|@sech-@
+@self@|@kendi@
+@senile person@|@bunaq@
+@sense@|@akil, maana@
+@separate@|@ayiri, böl-@
+@September@|@sentäbri@
+@service@|@izmet@
+@set@|@takim@
+@seven@|@edi, jedi@
+@seventy@|@etmis@
+@severe@|@sert@
+@shade@|@gölgä@
+@shadow@|@gölge@
+@shake@|@depre-, tepre-@
+@shallow@|@sua@
+@shame@|@ayip@
+@share@|@pay@
+@sharp@|@sivri@
+@sharp-edged@|@sivri@
+@shave@|@tras@
+@shears@|@makaz@
+@sheath@|@kina@
+@sheep@|@koyun@
+@shepherd@|@coban@
+@shift@|@smena@
+@shin@|@qych@
+@ship@|@gemi@
+@shirt@|@gölmäk@
+@shoe@|@kundura@
+@shoot@|@at-, filiz@
+@shop@|@tükän@
+@short@|@kisa, qysa@
+@short-legged@|@bodur@
+@shoulder@|@omuz@
+@shoulderblade@|@kebze@
+@shovel@|@kürek@
+@shy@|@utancak@
+@sickle@|@orak@
+@side@|@jan, taraf@
+@side of a mountain@|@jamach@
+@sieve@|@elek, ielek, kalbur@
+@sign@|@nisan@
+@signature@|@imza@
+@silence@|@sus@
+@silk@|@ipek@
+@silver@|@gümüs, gümüsh@
+@similar@|@benzär@
+@sin@|@günaa, jazyq@
+@sinew@|@sinir@
+@sister@|@kizkardas, kizkardash@
+@six@|@alti@
+@sixty@|@altmis@
+@skewer@|@sis@
+@ski@|@kayak@
+@skin@|@deri@
+@skull@|@kellä@
+@sky@|@gök@
+@slave@|@kölä@
+@sleeve@|@en, jen@
+@slight@|@ufak@
+@slipper@|@papuc@
+@slope@|@yamac@
+@sly@|@siret@
+@small@|@kücük, ušaq@
+@small town@|@kasaba@
+@smear@|@sürüt-@
+@smell@|@koku@
+@smith@|@kovac@
+@smoke@|@duman, tütün@
+@snack@|@mezä@
+@snake@|@jylan, yilan@
+@snot@|@sümük@
+@snow@|@kaar, qär@
+@so@|@tölä@
+@so much@|@bunca@
+@soap@|@sabun@
+@soil@|@topraq@
+@soldier@|@asker@
+@sole@|@taban@
+@someone@|@filan@
+@son@|@öl, ool@
+@son-in-law@|@güvä@
+@soot@|@kurum, qurum@
+@sorrow@|@gam, kasavet, kasavet, keder@
+@sorry@|@yazik@
+@sort@|@cins, soy, türlü@
+@soul@|@can, gönül@
+@sound@|@ses@
+@soup@|@corba@
+@sour@|@iisi@
+@source@|@cösmä@
+@sow@|@sach-@
+@space between@|@ära@
+@spade@|@bel@
+@span@|@qaryš@
+@span between the fingers@|@serä@
+@spare@|@zapas@
+@spear@|@sünggü@
+@speech@|@laf, söz@
+@speed@|@hiz@
+@spider@|@örümcä@
+@spindle@|@ï@
+@spirit@|@ruh@
+@spleen@|@dalak, dalaq@
+@sponge@|@sünker@
+@spoon@|@kashik, kasik@
+@spring@|@ilkyaz@
+@spring(time)@|@ilkyaz@
+@square@|@meydan@
+@squirrel@|@sincap@
+@stable@|@ahir, pek@
+@staff@|@deynek, kazik@
+@stain@|@benek, lekä@
+@stalk@|@kocan@
+@stallion@|@haygir@
+@stamp@|@damga, mühür@
+@star@|@jyldys, yildiz@
+@starling@|@sýržyq@
+@state@|@devlet@
+@station@|@menzil@
+@steel@|@çelik@
+@steep bank@|@jar@
+@step@|@adim@
+@step-@|@üvä@
+@steppe@|@kir, qyr@
+@stick@|@sopa@
+@stick to@|@japyš-@
+@still@|@henez@
+@stir up@|@bula-@
+@stirrup@|@özengi@
+@stocking@|@corap@
+@stomach@|@karni, qursaq@
+@stone@|@taš@
+@stork@|@lelek@
+@storm@|@boran, furtuna@
+@stove@|@soba@
+@straight@|@uz@
+@strained@|@gergin@
+@strap@|@kayis@
+@straw@|@saman@
+@strawberry@|@cilek@
+@street@|@sokak@
+@strength@|@güc, kuvet@
+@strike@|@doqun-, greva@
+@string@|@buqaa, byqaa@
+@strong@|@dinch@
+@stud@|@hergelä@
+@stupid@|@budala, deli@
+@submerge@|@sin-@
+@subvert@|@devir-@
+@such@|@bölä, ölä, sölä@
+@suffering@|@bun@
+@sugar@|@seker, sheker@
+@suitcase@|@camadan@
+@sulfur@|@kükürt@
+@summer@|@jäz, yaz@
+@sun@|@gün, güneš@
+@Sunday@|@pazar@
+@support@|@dayak, direk, sövä, süvä, süvän@
+@surrender@|@teslim@
+@suspicion@|@süpä@
+@swaddle@|@kundak@
+@swaddlingclothes@|@qundaq@
+@swallow@|@kirlangac@
+@swamp@|@balta, batak@
+@swan@|@kuu@
+@swear@|@sü-@
+@sweat@|@ter@
+@sweet@|@datly, tatli@
+@swelling@|@ciban, šiš@
+@sword@|@kilic, qylych@
+@table@|@masa, sofra@
+@tail@|@kuyruk, qujruq@
+@tailor@|@terzi@
+@tale@|@masal@
+@tar@|@katran, zift@
+@tassel@|@püskül@
+@taste@|@dat, dat-1a@
+@tax@|@nalog@
+@tea@|@çay@
+@tear@|@jir-, qaq-@
+@tear apart@|@sök-@
+@ten@|@on, uon@
+@tendon@|@sinir@
+@tent@|@cadir, oda@
+@thank@|@sükür@
+@that@|@ki, o@
+@that there@|@te o@
+@the essential part@|@jöz@
+@the most@|@en@
+@the other@|@öbür@
+@the whole@|@cümlä@
+@then@|@sora@
+@there@|@ora@
+@there is@|@var@
+@there is not@|@joq@
+@they@|@onnar@
+@thick@|@balaban, gür, kalin@
+@thigh@|@but, steam@
+@thin@|@incä, inžä, užüs, yufka@
+@thirty@|@otuz@
+@this@|@bu@
+@this here@|@su, te bu@
+@thorn@|@cali, chaly, tiken@
+@thou@|@sän@
+@thought@|@fikir@
+@thousand@|@bin@
+@thread@|@ip, jip, sümek@
+@three@|@üc@
+@threshold@|@esik@
+@throat@|@buaz, buwaz, girtlak@
+@thumb@|@parmaq@
+@Thursday@|@persembä@
+@tick@|@kenä, saqyrha@
+@tiger@|@kaplan@
+@time@|@vakit, zaman@
+@times@|@kerä@
+@tin@|@kalay, teneki@
+@tired@|@jorhun, jorul-, yorgun@
+@to adhere@|@yapismaa@
+@to appear@|@chybar-@
+@to arrange@|@dizmää, düzmää@
+@to ask@|@jalvar-, sor-, sormaa@
+@to be@|@i-, ir-, olmaa@
+@to be afraid@|@jürük-@
+@to be ashamed@|@ut-an-@
+@to be beneficial@|@jara-@
+@to be born@|@duumaa@
+@to be cooked@|@pismää@
+@to be defeated@|@syn-@
+@to be ended@|@bit-@
+@to be enough@|@etmää@
+@to be fed up@|@bikmaa@
+@to be filled@|@dolmaa@
+@to be frightened@|@ürkmää@
+@to be full@|@doymaa@
+@to be in surplus@|@artmaa@
+@to be remembered@|@anilmaa@
+@to be sated@|@kanmaa@
+@to be sour@|@ïši-@
+@to be squeezed@|@ezdirmää@
+@to be suitable@|@yarasmaa@
+@to be tired@|@bun-@
+@to bead@|@diz-@
+@to beat@|@ur-@
+@to become@|@ol-@
+@to become accustomed@|@dadanmaa@
+@to become pregnant@|@gebe@
+@to beg@|@dilenmää, yalvarmaa@
+@to begin@|@baslamaa@
+@to belch@|@gïr-@
+@to bend@|@bükmää@
+@to bind@|@bä-la-, bag-la-@
+@to bind around@|@chal-@
+@to bite@|@dala-, dislemää@
+@to bite into@|@dalamaa@
+@to blow@|@üflemää@
+@to blow of wind@|@esmää@
+@to blow one's nose@|@sümkür-@
+@to boil@|@kaynamaa, qajna-@
+@to bore through@|@del-@
+@to braid@|@örmää@
+@to break@|@kirmaa, qyr-@
+@to breathe@|@solumaa@
+@to breathe heavily@|@solu-@
+@to brew@|@haslamaa@
+@to bring@|@getirmää@
+@to build@|@kurmaa@
+@to burn@|@jan-, jaq-, yakmaa, yakmaa, yanmaa@
+@to bury@|@göm-, gömmää@
+@to call@|@caarmaa@
+@to carry@|@tasimaa@
+@to carve@|@oymaa@
+@to catch@|@kapmaa@
+@to cease@|@dinmää@
+@to change@|@aktarmaa, diismää, dïš-@
+@to chew@|@chïne-, gevše-@
+@to choose@|@secmää@
+@to close eyes@|@jum-@
+@to close the eyes@|@yummaa@
+@to collect@|@jyv-, toplamaa@
+@to comb@|@taramaa@
+@to come@|@gel-, gelmää@
+@to come near to each other@|@jaqyš-@
+@to come to an end@|@tüken-@
+@to consider@|@saj-, sanmaa@
+@to consult@|@danismaa@
+@to cook@|@pisirmää@
+@to cough@|@üsür-, üüsürää@
+@to count@|@saymaa@
+@to cover@|@jört-, örtmää@
+@to cover up@|@bürü-@
+@to crawl@|@mekle-@
+@to create@|@yapmaa, yaratmaa@
+@to curl@|@kivirmaa@
+@to curve@|@bük-@
+@to cut@|@bich-, kesmää@
+@to cut branches@|@buda-@
+@to cut in small pieces@|@qyj-@
+@to cut into slices@|@dora-@
+@to cut up@|@dooramaa@
+@to dare@|@qyj-@
+@to dawn@|@at-@
+@to dazzle@|@kamasmaa@
+@to deceive@|@aldatmaa, aut-@
+@to decrease@|@jisil-@
+@to defecate@|@sych-@
+@to descend@|@inmää@
+@to destroy@|@bozmaa@
+@to die@|@jöl-, ölmää@
+@to die out@|@süünmää@
+@to dig@|@kazmaa, qaz-@
+@to dislocate@|@bertmää@
+@to divide@|@bölmää@
+@to do@|@etmää@
+@to donate@|@adamaa@
+@to draw@|@chiz-, cizmää@
+@to draw together@|@kasmaa@
+@to dress@|@giimää@
+@to drink@|@ich-, icmää@
+@to drive@|@ajda-, hajda-@
+@to drive away@|@sür-@
+@to drizzle@|@cisemää@
+@to earn wages by labour@|@qazan-@
+@to eat@|@i-, imää@
+@to end@|@tükenmää@
+@to enter@|@gir-, girmää@
+@to erect a building@|@qur-@
+@to examine@|@yoklamaa@
+@to exist@|@bulunmaa@
+@to explode@|@patlamaa@
+@to fade away@|@bajyl-@
+@to fall@|@düsmää@
+@to fear@|@korkmaa@
+@to feel@|@duymaa@
+@to fight@|@buusmaa, güresmää@
+@to find@|@bul-, bulmaa@
+@to finish@|@bitirmää, bitmää@
+@to fit@|@uymaa@
+@to fit in@|@siymaa@
+@to flow@|@akmaa, aq-@
+@to fly@|@ucmaa@
+@to forget@|@unut-, unutmaa@
+@to freeze@|@donmaa, üšü-@
+@to gather@|@choq-la-n-@
+@to get accustomed@|@dad-a-n-@
+@to get cold@|@suumaa@
+@to get hot@|@kizmaa@
+@to get offended@|@küsmää@
+@to get tired@|@farimaa@
+@to give@|@ver-, vermää@
+@to give water@|@sulamaa@
+@to gnaw@|@kemir-@
+@to go@|@gecmää, gitmää@
+@to go astray@|@äz-@
+@to go away@|@get-@
+@to go mad@|@kudurmaa@
+@to go out@|@cikmaa@
+@to go round@|@dolasmaa@
+@to grasp@|@kavramaa, tut-@
+@to graze@|@güt-@
+@to grind@|@kiymaa, üütmää@
+@to grow@|@bitmää, büümää@
+@to growl@|@hirlamaa@
+@to guard@|@kollamaa@
+@to hang@|@as-, asmaa, asmaa, dart-, ger-@
+@to hear@|@išit-@
+@to herd@|@gütmää, sürmää@
+@to hit@|@düümää@
+@to hold@|@tutmaa@
+@to hop@|@hoplamaa@
+@to hope@|@ummaa@
+@to hope for@|@um-@
+@to howl@|@ulumaa, üürümää@
+@to hunt@|@avlamaa@
+@to inflate@|@sisirmää@
+@to insert@|@tikamaa@
+@to keep@|@saklamaa@
+@to kick@|@tepmää@
+@to kill@|@öldür-, öldürmää@
+@to kindle@|@yandirmaa@
+@to kiss@|@öpmää@
+@to knead@|@ez-, jur-, yuurmaa@
+@to kneel down@|@chök-@
+@to knock@|@carpmaa, kakmaa@
+@to know@|@bil-, bilmää, tanimaa@
+@to laugh@|@gülmää@
+@to lean@|@dajan-@
+@to learn@|@üürenmää@
+@to leave the way@|@sap-@
+@to lick@|@jala-, yalamaa@
+@to lie down@|@yatmaa@
+@to lift@|@götürmää@
+@to like@|@beenmää@
+@to live@|@yasamaa@
+@to look@|@bakmaa@
+@to lose@|@kaybetmää@
+@to love@|@sev-, sevmää@
+@to make a mistake@|@yanilmaa@
+@to make holes@|@deš-@
+@to make noise@|@gürlemää@
+@to measure@|@jölch-, ölcmää@
+@to meet@|@üra-@
+@to melt@|@erimää, jeri-@
+@to migrate@|@göch-@
+@to milk@|@sä-, saamaa@
+@to miss@|@sasirmaa@
+@to mix@|@karmaa, katmaa@
+@to moan@|@innemää@
+@to move@|@göcmää@
+@to mow@|@bicmaa@
+@to ooze@|@sizmaa, syz-@
+@to open@|@ach-, acmaa@
+@to oppress@|@sataš-@
+@to order@|@bujur-@
+@to overflow@|@taš-, tasmaa@
+@to overthrow@|@yikmaa@
+@to overturn@|@devirmää@
+@to paint@|@boja-@
+@to pamper@|@simarmaa@
+@to pass@|@asmaa, sauš-@
+@to patch@|@jama-, yamamaa@
+@to pay@|@ödemää@
+@to peel@|@soymaa@
+@to perceive@|@duj-@
+@to perforate@|@delmää@
+@to pick@|@oj-@
+@to plait@|@jör-@
+@to plant out seedlings@|@haš-la-@
+@to plant vertically@|@dik-@
+@to play@|@ojna-, oynamaa@
+@to pluck@|@koparmaa, yolmaa@
+@to pound@|@dü-@
+@to pour@|@dökmää@
+@to pour out@|@dök-@
+@to pour over@|@kotarmaa@
+@to press@|@bas-, syq-@
+@to prop@|@daja-@
+@to pull@|@cekmää@
+@to push@|@itirmää@
+@to put@|@koymaa, sal-@
+@to quarrel@|@cekismää@
+@to rain@|@jä-@
+@to rake@|@kürü-@
+@to reach@|@di-, ermää, jet-@
+@to read@|@okumaa@
+@to remember@|@anmaa@
+@to renounce@|@vazgecmää@
+@to resemble@|@andirmaa, benzemää@
+@to rest@|@din-ne-n-@
+@to revolve@|@ajla-, ajlan@
+@to rise@|@kalkmaa, üsel-@
+@to rize@|@pin-@
+@to roll up@|@dürmää@
+@to rub@|@uumaa@
+@to say@|@de-, demää@
+@to scatter@|@daalmaa, sacmaa@
+@to scrape@|@esmää, kazimaa@
+@to scratch@|@kasimaa@
+@to see@|@gör-, görmää@
+@to sell@|@sat-, satmaa@
+@to send@|@göndermää, yollamaa@
+@to separate@|@ajyr-@
+@to set off@|@ceketmää@
+@to sew@|@dikmää@
+@to shake@|@silk-, silkmaa@
+@to sharpen@|@bile-@
+@to shiver@|@teprenmää, titirämää@
+@to shout@|@baarmaa@
+@to show@|@göstermää@
+@to sift@|@iele-@
+@to sigh@|@oflanmaa@
+@to sing of birds@|@ötmää@
+@to sink@|@bat-, batmaa, dal-, dalmaa@
+@to sit@|@otur-, oturmaa@
+@to sit down@|@konmaa@
+@to skin@|@jüz-@
+@to sleep@|@jat-, uju-, uyumaa@
+@to slide@|@kaymaa@
+@to smear@|@bulamaa, suamaa, suwa-@
+@to smell@|@kokmaa@
+@to smell badly@|@qoq-@
+@to smoke@|@tüt-, tütmää@
+@to snatch@|@qap-@
+@to sow@|@ek-, ekmää@
+@to speak@|@konusmaa, söle-, sölemää@
+@to spend@|@harcamaa@
+@to spit@|@tükürmää@
+@to split@|@catlamaa, jar-, yarmaa@
+@to spread@|@dösemää, jaj-, ser-, žaz-@
+@to spread out@|@döše-, sermää@
+@to squat@|@cömelmää@
+@to squeeze@|@ezmää, sikmaa@
+@to stand@|@dur-, durmaa@
+@to stay@|@kalmaa@
+@to steal@|@calmaa@
+@to steal away@|@sausmaa@
+@to stick@|@dikmää@
+@to stick into@|@dürtmää@
+@to stiffen@|@ujvaš-@
+@to stop@|@durmaa@
+@to strain@|@germää, süz-, süzmää@
+@to strangle@|@bü-, buumaa@
+@to strike@|@urmaa@
+@to strike fire@|@cakmaa, chaq-@
+@to strive@|@calismaa, didin-@
+@to struggle@|@cirpinmaa@
+@to suck@|@emmää@
+@to suit@|@yaramaa@
+@to support@|@dayamaa@
+@to suppurate@|@azmaa@
+@to swallow@|@jut-, yutmaa@
+@to sweep@|@süpür-, süpürmää@
+@to swell@|@kabarmaa, šiš-, sismää@
+@to swim@|@üzmää@
+@to swing@|@sallamaa@
+@to take@|@al-, almaa@
+@to take out@|@cikarmaa@
+@to taste@|@datmaa@
+@to tear@|@kopmaa, yirtmaa@
+@to think@|@düsünmää@
+@to threaten@|@jän-@
+@to throw@|@atmaa, saurmaa@
+@to thrust in@|@sokmaa@
+@to tie@|@baalamaa, catmaa@
+@to touch@|@diimää@
+@to trample@|@ciinemää@
+@to transport@|@asirmaa@
+@to tread@|@basmaa@
+@to try@|@denemää@
+@to tuck up@|@sua-, suva-@
+@to tumble@|@cökmää@
+@to turn@|@döndürmää, dönmää@
+@to turn in a direction@|@uuramaa@
+@to turn over@|@cevirmää@
+@to twist@|@burmaa, chevir-, sarmaa@
+@to understand@|@annamaa@
+@to undo@|@sökmää@
+@to unite@|@ulamaa@
+@to untie@|@cözmää, ditmää@
+@to use@|@kullanmaa@
+@to vanquish@|@enmää@
+@to vaporize@|@ä-@
+@to vomit@|@kusmaa, qus-@
+@to wait@|@beklemää@
+@to wake up@|@uyanmaa@
+@to wake up (intr.)@|@ujan-@
+@to walk@|@jörü-, var-@
+@to wander@|@gezmää@
+@to want@|@istemää@
+@to wash@|@yikamaa@
+@to watch@|@korumaa@
+@to weave@|@dokumaa, doqu-@
+@to weep@|@aalamaa@
+@to whet@|@bilemää@
+@to win@|@jen-, kazanmaa@
+@to wind around@|@sar-@
+@to wipe@|@sil-, silmää@
+@to wish@|@dilemää@
+@to withdraw@|@cekilmää@
+@to wither@|@solmaa@
+@to wonder@|@sasmaa@
+@to work@|@islemää@
+@to write@|@jaz-, yazmaa@
+@tobacco@|@tütün@
+@today@|@büün@
+@together@|@barabar, bilä@
+@toilet@|@kenef@
+@tomb@|@mezar@
+@tomorrow@|@yaarin@
+@tongue@|@dil@
+@tooth@|@dis, diš@
+@top@|@üst@
+@top of head@|@tepe@
+@top(s) of boots@|@qonch@
+@towel@|@peskir@
+@tower@|@burgas, kulä@
+@town@|@kasaba@
+@trace@|@jiz@
+@track@|@iz@
+@traction@|@gergi@
+@tramp@|@tep-@
+@treasure@|@hazna@
+@tree@|@äch, fidan@
+@tripod@|@sažaq@
+@troop@|@cata@
+@trouble@|@bela, zaamet@
+@troubled water@|@cirkef@
+@trough@|@teknä, yalak@
+@trump@|@koz@
+@trumpet@|@boru@
+@trunk@|@cotuk, kütük@
+@truth@|@ger-chek, hakikat@
+@Tuesday@|@sali@
+@tulip@|@laalä@
+@turban@|@chalma@
+@turf@|@chim@
+@Turkish@|@türk@
+@twenty@|@irmi@
+@twin@|@ikiz@
+@two@|@iki@
+@tyrannical@|@zulum@
+@udder@|@elin, jelin@
+@ugly@|@cirkin@
+@unbroken of a horse@|@tor@
+@understand@|@düšün-@
+@unemployed@|@ajlaq, hajlaq@
+@unfortunate@|@garip@
+@unique@|@tek@
+@unite@|@qoš-@
+@unrelated@|@jüvä@
+@unripe@|@esil@
+@unsubstantial@|@jufqa, jyfqa@
+@until@|@taa@
+@up to@|@chaq, chäq@
+@urine@|@cis@
+@use@|@fayda@
+@valley@|@uva, yalpi@
+@value@|@kiymet@
+@variegated@|@ala-ža, alaca@
+@vegetables@|@zarzavat@
+@veil@|@duak@
+@vein@|@damar@
+@velvet@|@kadifä@
+@vertical@|@dik@
+@very@|@heng, pek@
+@vessel@|@kap@
+@village@|@küü@
+@vinegar@|@sirkä@
+@violent person@|@zorba@
+@violet@|@menevsa@
+@voice@|@oy, ses@
+@waist@|@bel@
+@walk through@|@gez-@
+@wall@|@duar@
+@wall panel@|@pervaz@
+@war@|@cenk@
+@wardrobe@|@skaf@
+@warm@|@sicak, yly@
+@watch@|@baq-@
+@water@|@su@
+@watermelon@|@karpuz@
+@watery@|@sulu@
+@wave@|@dalga, talaz@
+@wax candle@|@mum@
+@we@|@bis, biz@
+@weak@|@argin, baygin, zayif@
+@weather@|@hava@
+@wedding@|@düün@
+@wedge@|@kama@
+@wedge between trouser legs@|@ä@
+@Wednesday@|@carsamba@
+@week@|@hafta@
+@weep@|@inne-@
+@weight@|@ceki@
+@well@|@pinar, quju@
+@west@|@bati@
+@wet@|@chij, yas@
+@wether@|@toklu@
+@what@|@ne@
+@wheat@|@booday@
+@wheel@|@cark, cikrik, tekerlek@
+@whelp@|@enik@
+@when@|@nezaman@
+@where@|@hani, nerdä, nere@
+@Where is my room?@|@Benim içerim nerede?, Nända benin içerim?@
+@Where is the bar?@|@bar nerede?, Nända bar?@
+@Where is the beach?@|@Nända bulunär plaj?, plaj nerede?@
+@whetstone@|@bilä@
+@which@|@angi@
+@whip@|@kamci@
+@whirlpool@|@oban@
+@whistle@|@düdük@
+@white@|@ak, aq, biyaz@
+@who@|@kim@
+@whole@|@bütün@
+@wick@|@fitil@
+@wide@|@genis@
+@widow@|@dul@
+@widower@|@dul@
+@wife@|@avrad, kari@
+@wild@|@ham, tor@
+@wild onion@|@kömüren@
+@wilderness@|@yaban@
+@willow@|@qavaq, süt, süt, süüt@
+@wind@|@lüzgär@
+@wind round@|@bur-@
+@window@|@pencerä@
+@wine@|@sarap, sharap@
+@wing@|@kanat, qanat@
+@winter@|@kis, kiš, qyš@
+@wire@|@tel@
+@wise@|@aarif@
+@witch@|@cadi@
+@wither@|@sol-, solu-@
+@without saddle@|@jalburdaq@
+@wizard@|@bü@
+@wolf@|@canavar@
+@woman@|@kari@
+@wood@|@aac, aac, daa@
+@wooden fork@|@jaba@
+@wool@|@jün, ün, yapaa@
+@word@|@söz@
+@work@|@is@
+@worker@|@cirak@
+@world@|@dünnää@
+@worm@|@kurt, qurt@
+@wormwood@|@pelin@
+@wound@|@bert-, jara, yara@
+@wreath@|@celek@
+@wrestle@|@güreš-@
+@wrist@|@bilek@
+@year@|@jaš, jyl, yil@
+@yeast@|@maya@
+@yellow@|@sari, sary@
+@yesterday@|@dün@
+@yoghurt@|@yuurt@
+@you@|@sän, siz@
+@young@|@genç, körpä@
+@young cow@|@düvä@
+@young man@|@ergen@
+@young of a wild animal@|@jenik@
+@young of birds and animals@|@javru@
+

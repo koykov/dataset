@@ -1,0 +1,1437 @@
+@Arabic (romanized)@|@English@
+@Author name@|@Tercüman / Ken Chase@
+@"^"@|@vowel lengthener sign@
+@"3"@|@signifier for "ayn", glottal "a"@
+@"D"@|@heavy "d", like in "duh"; letter "dhad"@
+@"dh"@|@"dh", transcription of the arabic letter "dhî"@
+@"H"@|@aspirated "h" for "ha", also transcribed with "7"@
+@"kh"@|@transcription of the letter "khâ"@
+@"T"@|@heavy "t", stands for the arabic letter "Tî"@
+@"th"@|@read "th" as in "thin" or sometimes as in "they"@
+@*note: for exact pronunciation@|@consult the original arabic script.@
+@...ajal?@|@is it so? (as a question word)@
+@?abara / ya?buru @|@ to cross@
+@?abd (?abīd, ?ibād) @|@ slave@
+@?abr @|@ across@
+@?āda / ya?ūdu @|@ to return@
+@?adad (’a?dād) @|@ number@
+@?ādatan @|@ usually@
+@?adda / ya?uddu @|@ to count@
+@?ādil @|@ just, fair@
+@?adl @|@ justice@
+@?ahd (?uhūd) @|@ contract, promise@
+@?ajīb @|@ marvellous@
+@?ajiba / ya?jabu @|@ to be astonished@
+@?alā @|@ on@
+@?ālaja (III) @|@ to deal with@
+@?ālam (?awālim) @|@ world@
+@?alāqa @|@ relation(ship)@
+@?ālim (?ulamā’) @|@ scholar@
+@?alima / ya?lamu @|@ to learn, to know@
+@?allama (II) @|@ to teach@
+@?allaqa (II) @|@ to comment, to hang@
+@?ām (’a?wām) @|@ year@
+@?amal (’a?māl) @|@ work@
+@?āmala (III) @|@ to deal with@
+@?amila / ya?malu @|@ to do, to work@
+@?amīq @|@ deep@
+@?āmm @|@ general@
+@?an @|@ about, from@
+@?anā / ya?nī @|@ to mean@
+@?anīf @|@ violent@
+@?aqada / ya?qidu @|@ to tie, to contract@
+@?āqil @|@ intelligent@
+@?aql (?uqūl) @|@ intelligence@
+@?arab @|@ Arab@
+@?araDa / ya?riDu @|@ to offer, to show@
+@?arafa / ya?rifu @|@ to know@
+@?ashā’ (’a?shiya) @|@ dinner@
+@?askarī @|@ soldier@
+@?aSrī @|@ modern@
+@?āTā (III) @|@ to give@
+@?awā’id @|@ profits@
+@?ayn (?uyūn) @|@ eye, spring@
+@?aZīm (?uZamā’, ?iZām) @|@ great@
+@?azīz (’a?izzā’, ’a?izza) @|@ dear@
+@?īd (’a?yād) @|@ festival@
+@?idda @|@ a number (of)@
+@?ilm (?ulūm) @|@ science@
+@?imāra @|@ building@
+@?inda @|@ at, near@
+@?indamā @|@ when@
+@?uDw (’a?Dā’) @|@ member@
+@?umr (’a?mār) @|@ age@
+@`@|@hamza / glottal stop@
+@’a @|@ (question particle)@
+@’a?jaba (IV) @|@ to surprise@
+@’a?lana (IV) @|@ to advertise, to announce@
+@’abadan @|@ always, forever@
+@’abdā (IV) @|@ to show@
+@’ablagha (IV) @|@ to inform@
+@’abū @|@ father (of)@
+@’aDāfa (IV) @|@ to add@
+@’adāra (IV) @|@ to administer, to manage@
+@’aDraba (IV) @|@ to go on strike@
+@’adraka (IV) @|@ to realize@
+@’afTara (IV) @|@ to breakfast@
+@’aHabba (IV) @|@ to love@
+@’ahammiyya @|@ importance@
+@’aHdatha (IV) @|@ to create, to cause@
+@’ahl (’ahālin) @|@ people, family@
+@’aHmar (Humr) @|@ red@
+@’aHyānan @|@ sometimes@
+@’ajnabī (’ajānib) @|@ foreign@
+@’ajrā (IV) @|@ to carry out@
+@’akala / ya’kulu @|@ to eat@
+@’akh (’ikhwa, ’ikhwān) @|@ brother@
+@’akhadha / ya’khudhu @|@ to take, to begin@
+@’akhbara (IV) @|@ to inform@
+@’akhDar (khuDr) @|@ green@
+@’akhīr @|@ last, latest@
+@’akhīran @|@ finally@
+@’allafa (II) @|@ to compose, to write@
+@’amāma @|@ in front of@
+@’amara / ya’muru @|@ to order@
+@’amīn (’umanā’) @|@ faithful; secretary@
+@’amina / ya’manu @|@ to be safe, to be secure@
+@’amīr (’umarā’) @|@ emir, prince@
+@’amkana (IV) @|@ to be possible@
+@’ammā @|@ but, as to, as for@
+@’amn @|@ security@
+@’amr (’awāmir) @|@ order@
+@’amr (’umūr) @|@ matter, affair@
+@’ams @|@ yesterday@
+@’an @|@ that, to@
+@’anā @|@ I@
+@’anna @|@ that@
+@’anshā’a (IV) @|@ to establish@
+@’anta, ’anti @|@ you@
+@’antaja (IV) @|@ to produce@
+@’antum @|@ you (m pl)@
+@’antunna @|@ you (f pl)@
+@’aqāma (IV) @|@ to set up, to raise@
+@’arāda (IV) @|@ to wish@
+@’arD @|@ earth@
+@’arsala (IV) @|@ to send@
+@’aruzz @|@ rice@
+@’asas (’usus) @|@ foundation@
+@’aSbaHa (IV) @|@ to become@
+@’ashā? (IV) @|@ to disseminate@
+@’aSl (’usūl) @|@ origin@
+@’aSlaHa (IV) @|@ to reform@
+@’aSlī @|@ original@
+@’asmā (IV) @|@ to name@
+@’asra?a (IV) @|@ to hurry@
+@’assasa (II) @|@ to found@
+@’aswad (sūd) @|@ black@
+@’atāHa (IV) @|@ to permit@
+@’atamma (IV) @|@ to complete@
+@’athara (’āthār) @|@ trace, antiquities@
+@’athnā’a @|@ during@
+@’aththara (II) @|@ to influence@
+@’atla?a (IV) @|@ to inform of@
+@’aw @|@ or@
+@’awqafa (IV) @|@ to stop@
+@’awsaT @|@ middle@
+@’awwal @|@ first@
+@’ay @|@ that is, i.e.@
+@’ayDan @|@ also@
+@’ayna @|@ where?@
+@’ayyi @|@ which? what?@
+@’aZhara (IV) @|@ to show@
+@’azma (’azamāt) @|@ crisis@
+@’azraq (zurq) @|@ blue@
+@’idāra @|@ administration@
+@’idhā @|@ if, when@
+@’Ifrīqiyā @|@ Africa@
+@’ilā @|@ to, towards@
+@’illā @|@ except@
+@’in @|@ if@
+@’insān (nās) @|@ person, human@
+@’islām @|@ Islam@
+@’ukht (’akhawāt) @|@ sister@
+@’ūlā @|@ first (f)@
+@’umma (’umam) @|@ nation@
+@’umūmī @|@ public, general@
+@’urūba @|@ Europe@
+@’ustādh (’asātidha) @|@ teacher, professor@
+@3âdat@|@returned (female)@
+@3âdatan athhab ilal-madrasa.@|@I'm used to going to the school.@
+@3adatan kuntu af3al shay...@|@I used to do something...@
+@3âdatan...@|@used to...@
+@3adham Allah ajrakum.@|@my condolences.@
+@3adhrâ@|@maiden@
+@3âdiyan@|@ordinary@
+@3afwan@|@you're welcome@
+@3afwan!@|@I'm sorry(if u dont hear smth)@
+@3alâ fikra@|@by the way@
+@3alâ qalbak!@|@(in reply to "bless you")@
+@3alâ sâ3a....@|@at.......o'clock.@
+@3alâ Tûl.@|@straight ahead.@
+@3alal `aqall@|@at least@
+@3amal@|@work@
+@3amaltu sâdiq al-yawm.@|@I made a friend today.@
+@3amma@|@aunt@
+@3ammati@|@my aunt@
+@3ashan@|@because of@
+@3ashan al 3amal@|@because of my job@
+@3ashan al baHr@|@because of the sea@
+@3ibâra@|@phrase@
+@3indamâ adkhul al jâmi3a...@|@when I enter the university...@
+@3indamâ...@|@when... (used for future events)@
+@3indî faslun al-yawm.@|@I have class today.@
+@3ishrîn@|@twenty@
+@3ishrîn sana.@|@20 years.@
+@3udtu@|@I returned.@
+@3umrî 3ishrîn sana.@|@I'm 20 years old.@
+@3umrihâ 3ashira sanawât.@|@she is 10 years old. (num. plural)@
+@3uyûn@|@eyes@
+@a3îshu...@|@I live...@
+@a3mal asdiqâ kathîr hunâ.@|@I make a lot of friends here.@
+@a3taqid@|@I believe, I suppose@
+@a3ûd@|@I return@
+@abadan@|@always@
+@abawayn@|@parents@
+@abb@|@father@
+@abî@|@my father@
+@abkî@|@I cry@
+@abqa hunâ.@|@I stay here.@
+@adab 3âlamî@|@world literature@
+@adab il-amrikî@|@american literature@
+@adab-il-faransî@|@french literature@
+@adhûn thâlik.@|@I think so.@
+@adhûn...@|@I think...@
+@adrusu@|@I study@
+@aflâm@|@movies (pl.)@
+@aHsan/afDal@|@better@
+@ahtâj an athhab@|@I need to go@
+@aHyânan@|@sometimes@
+@aiDan@|@also, too@
+@ajal@|@(yes)it is so.@
+@akaltu al-3ashâ.@|@I had dinner.@
+@akaltu al-ghadâ.@|@I had lunch.@
+@akaltu al-ifTâr.@|@I had breakfast.@
+@akaltu Ta3âman yâbâniyya.@|@I ate a japanese food.@
+@akh@|@brother@
+@akhadha/kâna yaf3al...@|@he was doing...@
+@akhâfu min an-natîjah!@|@I'm afraid of the result!@
+@ākhar (’ukhrā’) @|@ other, another@
+@akhi@|@my brother@
+@akhî asghar minnî.@|@my brother is younger than me.@
+@ākhir (’awākhir) @|@ last@
+@akhruju ilal riyâDat kul yawm@|@I go out to do sports every day.@
+@akhuk@|@your brother@
+@akîd@|@of course@
+@akmil (or ukmil)@|@I finish@
+@akrahu aflâm faransiyya.@|@I dislike french movies.@
+@akrahu...@|@I dislike..@
+@al- @|@ the@
+@āl @|@ family, house@
+@al 2ân salât ad-dhuhr.@|@it's time for noon prayer now.@
+@al khassa bi ramaDân.@|@special to Ramadan.@
+@al yawm@|@today@
+@al-3ashâ@|@dinner@
+@al-adab@|@literature@
+@al-aghâni@|@songs@
+@al-akalu Lubnân aSluhu Turkiya@|@the source of Lebanese food is Tr.@
+@al-alsun@|@languages@
+@al-ān @|@ now@
+@al-aSl@|@source@
+@alaysa kethalik?@|@isn't it?@
+@al-barad@|@snow@
+@al-bāriH @|@ yesterday@
+@al-baTal@|@hero@
+@al-dajaj@|@chicken@
+@al-faSl@|@lesson, class@
+@al-fîl@|@elephant@
+@al-ghâba@|@forest@
+@al-ghadâ@|@lunch@
+@al-Halîb@|@milk@
+@al-Hâsûb / kompyûter@|@computer@
+@al-Huqûq@|@Law@
+@al-Huzn@|@sorrow@
+@al-jam3@|@plural@
+@aljaza`irî@|@Algerian (person)@
+@al-jughrâfiya@|@geography@
+@al-khidr@|@tent@
+@al-khuDâr@|@vegetables@
+@al-kimyâ@|@chemistry@
+@al-kull@|@everyone, all@
+@al-kull yafham inglizî hunâ.@|@everyone understands english here.@
+@al-lafath@|@pronunciation@
+@allāh @|@ God@
+@al-lawn@|@colour@
+@al-lughz@|@mystery@
+@al-malâl@|@boredom@
+@al-maTar@|@rain@
+@al-matbakh@|@kitchen@
+@al-mufred@|@singular@
+@al-muHît@|@ocean@
+@al-riwâya@|@novel@
+@al-safHa@|@page@
+@al-sukûn@|@silence@
+@al-thanawiyya@|@high school@
+@al-ughniya@|@song@
+@al-yawm kâna mumill.@|@today was boring.@
+@am / aw@|@or@
+@amrikiy@|@american (person)@
+@ams@|@yesterday@
+@ams kâne yawman mushmisa.@|@yesterday was sunny.@
+@amzaH faqaT.@|@I am just joking.@
+@ana@|@I@
+@Ana 3aTshân.@|@I'm thirsty.@
+@Ana a3îshu fi Turkiyya.@|@I live in Turkiye.@
+@ana a3rafhâ min zamân.@|@I know it (or her) for a long time.@
+@ana abHath 3an 3amal.@|@I am looking for a job.@
+@ana adrus al-alsun.@|@I study linguistics.@
+@ana âsaf.@|@I'm sorry.@
+@ana ash3ur bil-malâl.@|@I am bored. (lt. "I feel boredom")@
+@ana astami3u li...@|@I'm listening to...@
+@ana dâiman hunâ.@|@I'm always here.@
+@ana ghaDbân.@|@I'm angry.@
+@ana jâ`i3.@|@I'm hungry.@
+@ana la a3raf ghayr IsTanbûl.@|@I don't know except for Istanbul.@
+@ana lâzim an anâm.@|@I need to sleep.@
+@ana masrur@|@I'm glad@
+@ana mutashawwiq ilal aflâm.@|@I'm interested in movies.@
+@ana na3san.@|@I'm sleepy.@
+@ana qultu hâthâ sâbiqan.@|@I had said this already.@
+@ana rayeH (mid.east)@|@I go.@
+@ana sâ`im@|@I'm fasting.@
+@ana sa3îd bi ma3rifatik@|@nice to meet you@
+@ana sirtu Sherlock Holmes.@|@I became Sherlock Holmes.@
+@ana sirtu...@|@I became...@
+@ana ta3ban(m)/ta3bana (fm)@|@i'm tired@
+@ana tafshan.@|@I'm bored.@
+@ana tfasht mn almadrasah(sla.)@|@i'm bored of the school.@
+@ana ufaDDil al-riwâyât.@|@I like novels.@
+@ana uHibbu as-safar.@|@I like travelling.@
+@ana urîd an abkî.@|@I want to cry.@
+@ana yaqdhân.@|@I'm awake.@
+@anâm@|@I sleep@
+@anjaH@|@I succeed@
+@an-natîja@|@result@
+@anta@|@you(m)@
+@Anta fil-3utla?@|@Are you on holiday?@
+@anta maHdhûdh.@|@you're lucky.@
+@anta rayeH (mid.east)@|@you go@
+@antadhiru@|@I am waiting (I wait)@
+@anti@|@you(f)@
+@antum@|@you(pl.m.)@
+@antunna@|@you(pl.fm.)@
+@aqsad...@|@I mean...@
+@ar-raz@|@rice@
+@asâfar@|@I travel@
+@asdiqâ@|@friends@
+@asdiqâî@|@my friends@
+@aSfar (Sufr) @|@ yellow@
+@ash3aru bil-Huzn.@|@I feel sorrowful.@
+@asHâb@|@friends@
+@ashtarî@|@I buy@
+@aSlan (in tr. "aslen")@|@in reality, essentially@
+@asmar (sumr) @|@ brown@
+@as-Saf@|@class@
+@as-safar@|@journey@
+@as-sayf@|@summer@
+@as-sayyaH@|@traveler@
+@as-suyyaH@|@travelers@
+@asta3milu@|@I use@
+@astakhdimu@|@I use@
+@astaTi3u@|@I can@
+@aT3ima al khassa bi ramaDân.@|@foods special to ramadan.@
+@atâ@|@he came@
+@atamanna lak al-tawfîq.@|@I wish you success.@
+@atamanna...@|@I wish...@
+@atathakkar.@|@I remember@
+@atayta/ti@|@you came (he/she)@
+@ataytu@|@I came@
+@ataytu huna li at3allam 3arabî@|@I came here to learn arabic.@
+@aTfâl@|@children@
+@athnâ@|@during@
+@athnâ al munâqasha@|@during the discussion@
+@aT'ima@|@foods@
+@atrâk@|@Turks@
+@atruk...@|@I leave...@
+@at-taqs@|@weather@
+@at-televizyoon@|@TV@
+@at-Tfoolah@|@childhood@
+@attî@|@I come, I get connected (comp.)@
+@attî@|@I come@
+@at-Tifl@|@child@
+@at-tilfâz@|@TV@
+@aturîd an tashrib shay`an?@|@do you want to drink something?@
+@awstraliy@|@Australian@
+@awwal marra@|@for the first time@
+@ayya naw3 ?@|@what kind of ?@
+@ayya naw3 min alkutub tfaDDil?@|@what kind of books do you like?@
+@bā?a / yabī?u @|@ to sell@
+@ba?d @|@ after@
+@ba?D @|@ some@
+@ba?īd @|@ far@
+@ba3an an tadrus kul yawm@|@by studying (you) everyday@
+@ba3D al-aHyân@|@sometimes@
+@ba3D an-nâs@|@some people@
+@ba3da qalîl@|@soon / in a short time@
+@ba3îd@|@far@
+@bāb (’abwāb) @|@ door, gate@
+@badā / yabdā @|@ to seem@
+@bada"at al-maTar.@|@it started to rain.@
+@bada`a(t)@|@started/began@
+@bada`at al-maTar.@|@it started to rain.@
+@bada`tu ata'allam hâthihissana@|@I started learning this year.@
+@bada’a / yabda’u @|@ to start@
+@badawī (badw) @|@ nomad, bedouin@
+@bādiya @|@ desert@
+@baHatha@|@to look for, he looked for@
+@bāHatha (III) @|@ to discuss@
+@baHatha / yabHathu @|@ to study, to discuss@
+@baHathtu al kalima fi al-qâmûs@|@I looked for the word in the dictionary.@
+@baHr (buHūr, biHār) @|@ sea@
+@baHr (m.)@|@sea@
+@baHr-il-aswad@|@Black Sea@
+@bal @|@ but@
+@balad (bilād) @|@ town@
+@baladiyya @|@ municipality@
+@balāgh (balāghāt) @|@ report@
+@balagha / yablughu @|@ to reach, to amount to@
+@banā / yabnī @|@ to build@
+@bank (bunūk) @|@ bank@
+@baqara (baqarāt) @|@ cow@
+@baqaytu fil manzil.@|@I stayed at home.@
+@barâmij@|@programs (plural)@
+@bard@|@cold@
+@bârid@|@cold (adj.)@
+@bārid @|@ cold@
+@barīd @|@ post@
+@barlamān @|@ parliament@
+@barnâmaj@|@program (TV)@
+@barnâmaj (f.)@|@program@
+@bas (mid.east)@|@but@
+@bas (mid.east)@|@enough@
+@basīT (busaTā’) @|@ simple@
+@baTal al-qissa ismuhû Majid.@|@the hero of the story is called Majid.@
+@bayān (bayānāt) @|@ statement@
+@bayD (buyūD) @|@ eggs@
+@bayna @|@ between, among@
+@baynamā @|@ while@
+@bayt (buyūt) @|@ house@
+@bi- @|@ with, by@
+@bi nafsî@|@on my own@
+@bi sabab il wad@|@because of the condition@
+@bi sabab...@|@with the reason/because of...@
+@bi’l-qurbi min @|@ near@
+@biD? @|@ a few@
+@bi-ddabt@|@exactly@
+@bikhuSūsi @|@ concerning@
+@bilâd@|@countries@
+@bilād (buldān) @|@ country@
+@bilâd il-ukhra@|@other countries@
+@bil-iDhâfati ilâ hâthâ@|@in addition to this@
+@bi-nniyâbati@|@instead of@
+@bi-nniyâbati 3an..@|@in place of, instead of..@
+@bi-nniyâbati 3annî.@|@instead of me.@
+@bint, ibna (banāt) @|@ girl, daughter@
+@birka (birak) @|@ pool@
+@bisababi @|@ because@
+@bittakîd@|@of course@
+@bit-tawfîq!@|@good luck!@
+@bukra (mid.east)@|@tomorrow@
+@bulīs @|@ police@
+@burtuqâl@|@orange@
+@bustān (basātīn) @|@ orchard@
+@da?ā / yad?ū @|@ to pray, to invite@
+@Da?īf (Du?afā’, Di?āf) @|@ weak@
+@dā’iman @|@ always@
+@dā’ira (dawā’ir) @|@ office@
+@DābiT (DubbāT) @|@ officer@
+@dāfa?a (III) @|@ to defend@
+@dakhala / yadkhulu @|@ to enter@
+@dākhil @|@ inside@
+@dākhilī @|@ interior, internal@
+@dalla / yadullu @|@ to point@
+@daqīq (diqāq) @|@ accurate, fine, thin@
+@daqīqa (daqā’iq) @|@ minute@
+@Daraba / yaDribu @|@ to strike, to beat@
+@daraja @|@ step, degree@
+@darasa / yadrusu @|@ to study@
+@Darastu al-adab 3arba sanawat.@|@I studied Lit. for four years.@
+@darrasa (II) @|@ to teach@
+@dars (durūs) @|@ lesson@
+@Darūra @|@ need@
+@Darūrī @|@ necessary@
+@dawla (duwal) @|@ state@
+@Day3a@|@village@
+@Dayf (Duyūf) @|@ guest@
+@Dayyiq @|@ narrow@
+@dhahaba / yadhhabu @|@ to go@
+@dhakara / yadhkuru @|@ to mention@
+@dhakī (’adhkiyā’) @|@ clever@
+@dhakî (zekî)@|@clever@
+@dhālika @|@ that@
+@dhanantu...@|@I thought...@
+@dhanna...@|@he thought...@
+@dhannat...@|@she thought...@
+@di?āya @|@ propaganda@
+@difā? @|@ defense@
+@dimâgh@|@brain@
+@dirāsa @|@ study@
+@dukkān (dakākīn) @|@ shop, store@
+@dumya@|@doll@
+@dūna @|@ without@
+@duwalī @|@ international@
+@every day@|@kulli yawm@
+@every week@|@kulli usbu3@
+@fa- @|@ and@
+@fa?ala / yaf?alu @|@ to make, to do@
+@fa`r@|@mouse, rat@
+@fā’ida (fawā’id) @|@ benefit@
+@fahima / yafhamu @|@ to understand@
+@faj`atan@|@suddenly@
+@fākiha (fawākih) @|@ fruit@
+@fakkara (II) @|@ to consider@
+@fakkartu@|@I thought@
+@fallāH @|@ peasant@
+@fannī @|@ artistic, technical@
+@faqaT@|@only, merely@
+@faqaT @|@ only@
+@faras (’afrās) @|@ horse, mare@
+@farīq (furaqā’) @|@ team@
+@faSl (fuSūl) @|@ chapter@
+@fâsûlyâ@|@bean@
+@fataHa / yaftaHu @|@ to open, to conquer@
+@fātiH @|@ light-colored@
+@fattasha (II) @|@ to inspect@
+@fawq @|@ over, above, on@
+@fī @|@ in@
+@fi al-mustaqbal qarîb@|@in the near future@
+@fi al-wasat@|@in the middle@
+@fî mâ ba3d@|@later@
+@fî nafs al waqt@|@at the same time@
+@fikra (’afkār, fikar) @|@ idea@
+@fi-l bidâya@|@at the beginning@
+@film@|@movie@
+@fils (fulūs) @|@ money@
+@finjān (finājīn) @|@ cup@
+@firāsh (furush, ’afrisha) @|@ bed@
+@fi-s-sabâH@|@in the morning@
+@fiTr @|@ breakfast@
+@funduq (fanādiq) @|@ hotel@
+@furSa (furaS) @|@ occasion@
+@ghā’ib @|@ absent@
+@ghadā’ @|@ lunch@
+@ghadan @|@ tomorrow@
+@ghaDiba / yaghDabu @|@ to be angry@
+@ghalaT (adj.)@|@wrong@
+@ghālin @|@ expensive@
+@ghanam (’aghnām) @|@ sheep@
+@ghanī (’aghniyā’) @|@ rich@
+@gharb @|@ west@
+@gharîb@|@strange@
+@gharīb (ghurabā’) @|@ strange@
+@ghayr @|@ non-, un-@
+@ghurfa (ghuraf) @|@ room@
+@Hā’iT (HiyāT, Hawā’iT) @|@ wall@
+@HaDara / yaHDuru @|@ to be present@
+@Hadath@|@happened@
+@Hādatha (III) @|@ to converse@
+@Hadatha / yaHduthu @|@ to happen@
+@Hadd (Hudūd) @|@ frontier, limit@
+@Haddada (II) @|@ to (de)limit@
+@hādhā @|@ this@
+@hādhihi @|@ this (f)@
+@Hadīqa (Hadā’iq) @|@ garden@
+@HâDir@|@ready@
+@HāDir @|@ present@
+@Hadīth @|@ modern, new@
+@Hadīth (’aHādīth) @|@ talk, Tradition@
+@Hādith (Hawādith) @|@ event, accident@
+@HafiZa / yaHfaZu @|@ to protect@
+@Hafla (Hafalāt) @|@ party (social)@
+@Hāja @|@ thing, necessity@
+@hākadhā @|@ in the same way@
+@Hakama / yaHkumu @|@ to rule@
+@Hākim (Hukkām) @|@ ruler@
+@hal @|@ (question particle)@
+@Hāl (’aHwāl) @|@ condition, situation@
+@hal akalti al-ghadâ?@|@have you had lunch?@
+@hal lâ + verb past tense@|@could you +verb@
+@hal lâ katabta hâthâ?@|@could you write it down?@
+@hal lâ tarjamta hâthâ?@|@could you translate this?@
+@hal tuHibbu an...@|@would you like to...@
+@hal zurta Lubnân?@|@have you visited Lebanon?@
+@Hāla @|@ situation@
+@Hālan @|@ at once@
+@Hālī @|@ present (adj.)@
+@Halla / yaHullu @|@ to solve@
+@Hamā / yaHmī @|@ to protect@
+@Hamala / yaHmilu @|@ to carry@
+@Hamd @|@ praise@
+@Hamla (Hamalāt) @|@ attack@
+@hāmm @|@ important@
+@handasa @|@ engineering@
+@Haqīqa (Haqā’iq) @|@ truth@
+@Haqq (Huqūq) @|@ truth, right@
+@Haqqan?@|@really?@
+@Haqqaqa (II) @|@ to achieve@
+@Haraka @|@ movement@
+@harâra@|@heat@
+@harâra murtafi3a@|@high temperature@
+@Harb (Hurūb) @|@ war@
+@harr@|@hot@
+@Harr @|@ heat, warmth@
+@Harrara (II) @|@ to liberate, to edit@
+@Hasaba / yaHsubu @|@ to calculate@
+@HaSala / yaHSulu @|@ to happen@
+@Hasan @|@ good, handsome@
+@Hasiba / yaHsabu @|@ to regard@
+@Hassana (II) @|@ to improve@
+@hâthâ ghalaTa.@|@this is wrong.@
+@hâthâ shay nâdir.@|@this is a rare thing.@
+@hâthâ shay râi' !@|@this is wonderful!@
+@hâthâ yakfî.@|@that's enough.@
+@Hattā @|@ until@
+@HaTTa / yaHuTTu @|@ to put down@
+@hawā’ @|@ air, wind@
+@Hawālā @|@ about, approximately@
+@Hāwala (III) @|@ to try, to attempt@
+@Hawla @|@ about, around@
+@Hayât@|@life@
+@Hayawān (Hayawānāt) @|@ animal@
+@Haythu @|@ since, whereas@
+@Hayy (’aHyā’) @|@ alive@
+@Hayya / yaHyā @|@ to live@
+@Hāza / yaHūzu @|@ to get, to obtain@
+@hazîn(m) hazîna(fm)@|@sad@
+@Hīn (’aHyān) @|@ time@
+@Hīna @|@ when@
+@Hisāb (Hisābāt) @|@ account@
+@HiSān (’aHSina, HuSun) @|@ horse@
+@hiwâyat@|@hobbies@
+@hiya @|@ she@
+@hiya sawfa tarji3.@|@she will return.@
+@Hizb (’aHzāb) @|@ party, group@
+@Hubb @|@ love@
+@Hukm (’aHkām) @|@ order@
+@Hukūma @|@ government@
+@Hulw @|@ sweet@
+@hum@|@them(m)@
+@hum @|@ they@
+@hum al-aHsan.@|@they're the best.@
+@hunā @|@ here@
+@hunak farq.@|@There's a difference.@
+@hunāka @|@ there@
+@hunna @|@ they (f)@
+@hurûf il-3arabî@|@arabic letters@
+@Husn @|@ goodness@
+@hutayl @|@ hotel@
+@huwa @|@ he@
+@hwa/hya sâkit/a. (male/female)@|@he/she is silent.@
+@i?taqada (VIII) @|@ to believe@
+@i?tazala (VIII) @|@ to retire@
+@ibn (’abnā’, banūn) @|@ son (of)@
+@ibtada’a @|@ to start@
+@ibtidâî@|@elementary school@
+@iHtāja (VIII) @|@ to need@
+@iHtimâl@|@perhaps@
+@ijâza@|@vacation@
+@ijâzati usbu'ayn faqaT.@|@my vacation is only two weeks.@
+@ijtahada (VIII) @|@ to work hard@
+@ijtama?a @|@ to meet@
+@ijtimā? @|@ meeting@
+@ijtimā?ī @|@ social@
+@ila@|@to; so that@
+@ila an ata'allam@|@so that I learn@
+@imra’ | al-mar’ @|@ man, person@
+@imra’a | al-mar’a @|@ woman@
+@imshî !@|@go away!@
+@imshû!@|@go away! (plural)@
+@imtalaka (VIII) @|@ to possess, to own@
+@inkasara (VII) @|@ to be broken@
+@innahâ al-'ashira.@|@It's 10 o'clock.@
+@insâ dhâlik.@|@forget it.@
+@intadhir hunâ!@|@wait here!@
+@intaZara (VIII) @|@ to wait (for)@
+@iqtiSād @|@ economy@
+@irtafa?a (VIII) @|@ to rise@
+@ishtaghala (VIII) @|@ to work@
+@ishtarā (VIII) @|@ to buy@
+@ishtaraka (VIII) @|@ to share, to participate@
+@ism (’asmā’) @|@ name@
+@ista?mala (X) @|@ to use@
+@istafāda (X) @|@ to benefit@
+@isTanbûl@|@Istanbul@
+@istaqbala (X) @|@ to receive@
+@istaykathtu fi-ssabâH.@|@I woke up in the morning.@
+@istayqadh@|@to wake up, he woke up@
+@istayqadhtu@|@I woke up@
+@istiqlāl @|@ independence@
+@ithâ@|@when (used for past events)@
+@itha bi trîd(slang)@|@please;as you like@
+@ithâ dakhaltu al-jâmi'a...@|@when I entered the university.@
+@ithâ... (for past actions)@|@when...@
+@ithan@|@then, in that case@
+@ithnayn@|@both of you@
+@ittajih li yamîn.@|@turn right.@
+@ittajih li yasâr.@|@turn left.@
+@izâ bitrîd (lebanese dialect)@|@please.@
+@jā’a / yajī’u @|@ to come@
+@jabal (jibāl) @|@ mountain@
+@jadd@|@grandfather@
+@jadda@|@grandmother@
+@jadīd (judud) @|@ new@
+@jalasa / yajlisu @|@ to sit@
+@jalīl (’ajillā’, ’ajilla) @|@ great, important@
+@jam?īyya @|@ association@
+@jam3@|@plural@
+@jama?a / yajma?u @|@ to gather@
+@jamâl@|@beauty@
+@jamal (jimāl) @|@ camel@
+@jamâl-ud-dâkhilî@|@inner beauty@
+@jamī? @|@ all, every, whole@
+@jamīl @|@ beautiful@
+@jānib (jawānib) @|@ side@
+@janûb@|@south@
+@janūb @|@ south@
+@jarā / yajrī @|@ to happen, to run, to flow@
+@jarīda (jarā’id) @|@ newspaper@
+@jaw@|@weather@
+@jāwaba (III) @|@ to answer@
+@jāwara (III) @|@ to adjoin@
+@jaww (’ajwā’) @|@ air, weather@
+@jaysh (juyūsh) @|@ army@
+@jayyid (jiyād) @|@ good, fine@
+@jazīlan @|@ very much@
+@jazīra (juzur, jazā’ir) @|@ island, peninsula@
+@jiddan @|@ very@
+@jubn @|@ cheese@
+@jum?a (juma?) @|@ week@
+@jumhūr (jamāhīr) @|@ crowd, public@
+@jumhūriyya @|@ republic@
+@jumla@|@phrase, sentence@
+@ka- @|@ like, as@
+@ka’s (ku’ūs) @|@ glass, cup@
+@kabīr (kibār, kubarā’) @|@ big, large@
+@kadhālika @|@ so@
+@kaif al jaw hunâk?@|@how's the weather there?@
+@kaifak/kaifik?@|@How are you?@
+@kalām @|@ talk, discourse@
+@kalima @|@ word@
+@kalima khâTi`a@|@wrong word@
+@kallama (II) @|@ to speak@
+@kallama (II) @|@ to speak (to)@
+@kam @|@ how much?@
+@kam 3umrak?@|@how old are you?@
+@kam as-sâ3a?@|@what's the time?@
+@kam is-sâ3a hunâk?@|@what time is it there?@
+@kam muddat@|@how long (time)@
+@kamā @|@ as, like@
+@kamâ turîd@|@as you wish.@
+@kamaltu hâthal kitâb.@|@I finished this book.@
+@kamân@|@also, too@
+@kāna / yakūnu @|@ to be@
+@kâna 3inda ukhtî...@|@my sister had...@
+@kâna 3indak...@|@you had...@
+@kâna 3indî imtiHân ams.@|@I had an exam yesterday.@
+@kâna 3indî sulHufât.@|@I had turtles@
+@kâna 3indî...@|@I had...@
+@kâna yaf3al...@|@he was doing...@
+@kâna'l-yawma mashghûl.@|@I was busy today.@
+@Kânat tushâhid barnâmaj âkhar.@|@She was watching another program.@
+@karīm (kiram, kuramā’) @|@ noble@
+@kasabtu sâdiq al yawm.@|@I made a friend today.@
+@kātaba (III) @|@ to correspond with@
+@kataba / yaktubu @|@ to write@
+@kathîr@|@much, many@
+@kathīr (kithār) @|@ many@
+@kayfa @|@ how@
+@khabar (’akhbār) @|@ news@
+@khabīr (khubarā’) @|@ expert@
+@khadama / yakhdimu @|@ to serve@
+@khādim (khadam, khuddām) @|@ servant@
+@khāfa / yakhāfu @|@ to fear@
+@khafīf (’akhfāf, khifāf) @|@ light (weight)@
+@kharaja / yakhruju @|@ to leave, to go out@
+@khārij @|@ outside@
+@khārijī @|@ exterior, external@
+@khāSS @|@ special@
+@khaTar (’akhTār) @|@ danger@
+@khâTi`a@|@wrong@
+@khawafta at-Tifl.@|@you frightened the child.@
+@khayl @|@ horses@
+@khayr @|@ better@
+@khayr @|@ good@
+@khibra (khubr) @|@ experience@
+@khidma (khadamāt) @|@ service@
+@khilāla @|@ during@
+@khubz @|@ bread@
+@khusûsan@|@especially@
+@khuSūSan @|@ especially@
+@khuSūSī @|@ special, private@
+@kîf (mid.east)@|@how@
+@kitāb (kutub) @|@ book@
+@kitâba@|@writing@
+@kull @|@ all, every@
+@kulli sayf@|@every summer@
+@kulli wâHid@|@everyone@
+@kunnâ namzaH.@|@we were joking.@
+@kuntu urîdu an as2alak.@|@I was planning to ask you.@
+@kursî@|@chair@
+@lā @|@ no, not@
+@la a3raf biddabt.@|@I don't know exactly.@
+@lâ adrî ba3d.@|@I don't know yet.@
+@Lâ adrî.@|@I have no idea.@
+@lâ aHad@|@noone@
+@lâ aHad yatakallam hunâ.@|@noone speaks here.@
+@lâ akhâfu min'l imtiHân!@|@I don't fear the exam!@
+@lâ aqsad thâlik.@|@I don't mean that.@
+@lâ ba`s.@|@never mind.@
+@lâ budda an athhab.@|@I have to go.@
+@lâ budda an...@|@I must...@
+@lâ shay mu3yan@|@nothing in particular.@
+@lâ shukra 3ala wâjib.@|@it's nothing (no need to thank).@
+@labisa / yalbasu @|@ to wear@
+@ladā @|@ at, near, by@
+@laHm (luHūm, liHām) @|@ meat@
+@laHZa @|@ moment@
+@lailek@|@lilac@
+@lākin @|@ but@
+@lam @|@ (+jussive) did not@
+@lam af'al.@|@no, I haven't. (in reply to any question)@
+@lam ajidhû.@|@I haven't found it (yet).@
+@Lam azûrhâ.@|@I haven't visited there.@
+@lam ukmil al qissa ba'd.@|@I haven't finished the story yet.@
+@lammā @|@ when@
+@lan @|@ (+subjunctive) will not@
+@lan tastajib li su`âlî.@|@she wouldn't answer my question.@
+@laTīf (liTāf, luTfā) @|@ pleasant, kind@
+@lâtînî@|@Latin (language)@
+@law @|@ if@
+@law samaHt (esp. in Jordan)@|@please@
+@lawn (’alwān) @|@ color@
+@layla (layāl) @|@ night@
+@laysa @|@ is not@
+@laysa ba'd@|@not yet.@
+@lazima / yalzamu @|@ to be necessary@
+@leymûn@|@lemon@
+@li- @|@ to, for, because of@
+@li hâdhâ@|@for this (reason).@
+@li hâdhâ-ssabab.@|@for this reason.@
+@li`annî / li`annak@|@because@
+@li’anna @|@ because@
+@lidhālika @|@ so, therefore@
+@likay@|@in order to@
+@li-kay @|@ in order to@
+@likay tanjaH yajib an tadrus.@|@you must study in order to succeed.@
+@lil-asaf@|@unfortunately@
+@limā @|@ why?@
+@lisān (’alsina, ’alsun) @|@ tongue@
+@lu`lu`@|@pearl@
+@lu3ba@|@toy, game@
+@lugha @|@ language@
+@mā @|@ not; what@
+@mâ ra`yak?@|@what's your opinion?@
+@ma?a @|@ with, in spite of@
+@ma?qūl @|@ intelligent@
+@ma?rifa (ma?ārif) @|@ (field of) knowledge@
+@mā’ (miyāh) @|@ water@
+@ma3karûna@|@macaroni@
+@mablagh (mabāligh) @|@ amount@
+@madanī @|@ civil, civilian@
+@mādda (mawādd) @|@ substance@
+@madda / yamuddu @|@ to spread@
+@madīna (mudun) @|@ city@
+@madkhal (madākhil) @|@ entrance@
+@madrasa (madāris) @|@ school@
+@mâfish (mid.east)@|@no, isn't@
+@mâfish mushkilah (mid.east)@|@no problem.@
+@maftūH @|@ open@
+@maHabba @|@ love@
+@maHall (maHāll, maHallāt) @|@ place@
+@maHaTTa @|@ shop, station@
+@maHdhûdh (mahzûz in mid. east@|@lucky@
+@maHkama (maHākim) @|@ court@
+@majlis (majālis) @|@ council, board@
+@makān (’amākin, ’amkina) @|@ place@
+@makâtib@|@libraries@
+@makhraj (makhārij) @|@ exit@
+@maktab@|@library@
+@maktab (makātib) @|@ office@
+@maktaba @|@ library, bookstore@
+@malaka / yamliku @|@ to own, to possess@
+@malik (mulūk) @|@ king@
+@malika @|@ queen@
+@malisya@|@malaysia@
+@mamlaka (mamālik) @|@ kingdom@
+@mamnū? @|@ forbidden@
+@mamnû3@|@forbidden@
+@man @|@ who?@
+@mana?a / yamna?u @|@ to prohibit@
+@mandūb @|@ delegate@
+@maraD (’amrāD) @|@ illness@
+@marīD (marDa) @|@ sick@
+@markab (marākib) @|@ ship@
+@markaz (marākiz) @|@ center, headquarters@
+@marra@|@once@
+@marra @|@ time, once@
+@marra / yamurru @|@ to pass, to cross@
+@marra ukhra@|@again@
+@mas’ūl @|@ responsible@
+@masā’ (’amsīya) @|@ evening@
+@mashā / yamshī @|@ to walk@
+@mashghūl @|@ busy@
+@mashhūr @|@ famous@
+@mâshi (contraction of lâ shay)@|@nothing@
+@mâshi (mid.east)@|@OK@
+@mashriq @|@ east@
+@maskan (masākin) @|@ dwelling@
+@maSlaHa (maSāliH) @|@ welfare, interest@
+@maSna? (maSāni?) @|@ factory@
+@maSrūf @|@ expenditure@
+@maT?am (maTā?im) @|@ restaurant@
+@matā @|@ when?@
+@māta / yamūtu @|@ to die@
+@maT'am@|@restaurant@
+@maTar (’amTār) @|@ rain@
+@maTara / yamTuru @|@ to rain@
+@maTbakh (maTābikh) @|@ kitchen@
+@matha ba3d?@|@what else?@
+@mâthâ fî thâlik?@|@what is wrong with it?@
+@matha?@|@what?@
+@mathal (’amthāl) @|@ proverb@
+@mathalan @|@ for instance@
+@maththala (II) @|@ to represent@
+@maw3id@|@appointment, time and place (of smth.)@
+@mawbayl@|@mobile phone@
+@mawDhû3@|@topic@
+@mawDhu3 lil munâqasha@|@a topic for discussion@
+@mawDi? (mawāDi?) @|@ place@
+@mawDū? (mawāDi?) @|@ subject@
+@mawqî3@|@site (website)@
+@mawqif (mawāqif) @|@ situation, position, stand@
+@mawsim (mawāsim) @|@ season@
+@mawt @|@ death@
+@mawz@|@banana@
+@mayyit (mawtā, ’amwāt) @|@ dead@
+@maza7at@|@she joked@
+@mazaHna@|@we joked@
+@mazaHtu.@|@I joked.@
+@mazra?a (mazāri?) @|@ farm, plantation@
+@milH @|@ salt@
+@min @|@ of, from@
+@min ajl...@|@for / for the sake of (smb.)@
+@min ajli sâdiqî@|@for the sake of my friend@
+@min jadîd@|@once again@
+@min qabl@|@before@
+@min yawmayn@|@two days ago@
+@min zamân@|@for a long time@
+@minTaqa (manāTiq) @|@ district@
+@minTiqa@|@region@
+@mish (mid.eastern dialects)@|@not@
+@mish shughlak!(mid.east)@|@it's not your business!@
+@miskîn@|@poor, in poor condition@
+@miSr @|@ Egypt@
+@mithāl (’amthila) @|@ example@
+@mithl (’amthāl) @|@ similarity, resemblance@
+@mizâH@|@joke@
+@mu?allim @|@ teacher@
+@mu?āSir @|@ contemporary@
+@mu`annath@|@feminine@
+@mu3tadil@|@normal@
+@mu3yan@|@specific, certain@
+@mubakkir@|@early@
+@mudda (mudad) @|@ period@
+@mudīr @|@ manager@
+@mufīd @|@ useful@
+@mufred@|@singular@
+@muhandis @|@ engineer@
+@muhimm @|@ important@
+@muHît il-atlas@|@atlas ocean@
+@mujtahid @|@ industrious@
+@mukallif@|@expensive@
+@mukhtalif@|@different@
+@mumârasât@|@practice@
+@mumayyas@|@special@
+@mumill@|@boring@
+@mumkin @|@ possible@
+@mumtâz@|@great.@
+@mumTir@|@rainy@
+@mundhu@|@since@
+@mundhu @|@ since@
+@mundhu shahr.@|@since a month@
+@murr @|@ bitter@
+@murtafi3@|@high@
+@musalsal (see tr. "silsile")@|@series (on TV)@
+@mushâbih@|@similar@
+@mushkila (mashākil) @|@ problem@
+@mushmis@|@sunny@
+@muslim @|@ Muslim@
+@mustaqbal@|@future@
+@mustaqbil @|@ future@
+@muta`akhhir@|@late@
+@mutawâdhi3@|@modest, humble@
+@muthakkar@|@masculine@
+@muwaZZaf @|@ employee@
+@muzdaHim@|@crowded@
+@na?am @|@ yes@
+@nā’ib (nuwwāb) @|@ deputy@
+@nā’ib (nuwwāb) @|@ deputy@
+@na2am.@|@sleep. (imperative)@
+@nāba / yanūbu @|@ to represent, to substitute@
+@naDīf (niDDāf) @|@ clean@
+@nâdir(a) (adj)@|@rare@
+@nâdiran@|@rarely@
+@naffadha (II) @|@ to carry out@
+@nafs@|@same@
+@nafs (nufūs, ’anfās) @|@ self@
+@nafs al-ma3na@|@the same meaning@
+@nafs al-shay@|@the same thing@
+@nafs al-su`al@|@the same question@
+@nafT @|@ petroleum@
+@nahār @|@ daytime@
+@naHnu@|@we@
+@naHnu @|@ we@
+@nahr (’anhur, ’anhār, nuhūr) @|@ river@
+@naHwa @|@ towards, about@
+@najâH@|@success, salvation@
+@nakhl @|@ palm trees@
+@naqala / yanqulu @|@ to transport@
+@nār (nīrān) @|@ fire@
+@Nasa`tu an aghayyarhû.@|@I forgot to change it.@
+@Nasa`tu mâthâ kuntu sa-aqûl.@|@I forgot was I was going to say.@
+@nasha’a / yansha’u @|@ to grow@
+@nashara / yanshuru @|@ to publish@
+@nashīT @|@ active@
+@nashra (nasharāt) @|@ publication@
+@nashtarîha.@|@we buy it.@
+@natâ`ij@|@results@
+@natâ`ij Hasana@|@good results@
+@nataja / yantiju @|@ to result@
+@natīja (natā’ij) @|@ result@
+@natruk al fursa lil âkharîn.@|@we leave the chance to the others.@
+@natruk al-fursa lil qâdimîn.@|@We let the new comers use the opportunity.@
+@natruk...@|@we leave...@
+@naw? (’anwā?) @|@ sort, type@
+@nazala / yanzilu @|@ to descend@
+@naZara / yanZuru @|@ to look (at)@
+@nejâH@|@success@
+@nikammal.@|@go on.@
+@nimtu@|@I slept@
+@nisbiyyan@|@relatively@
+@niSf (’anSāf) @|@ half@
+@niZām (’anZima) @|@ system, order@
+@nuHâDhiru@|@we prepare@
+@nūr (’anwār) @|@ light@
+@qā’id (qāda, quwwād) @|@ general, leader@
+@qā’ima (qāwā’im, qā’imāt) @|@ list@
+@qābala (III) @|@ to meet@
+@qabila / yaqbalu @|@ to accept@
+@qabl @|@ before@
+@qabla qalîl@|@not long ago, a short time ago@
+@qad @|@ (past particle)@
+@qadam (’aqdām) @|@ foot@
+@qadara / yaqdiru @|@ to be able to@
+@qādim @|@ next@
+@qadīm (qudamā’) @|@ old@
+@qadima / yaqdamu @|@ to come, to arrive@
+@qahwa (qahāwī) @|@ coffee@
+@qāla / yaqūlu @|@ to say@
+@qalam (’aqlām) @|@ pen@
+@qalb (qulūb) @|@ heart@
+@qalīl (qilāl) @|@ few, little@
+@qāma / yaqūmu @|@ to rise, stand up@
+@qamar (’aqmār) @|@ moon@
+@qānūn (qawānīn) @|@ law@
+@qara’a / yaqra’u @|@ to read@
+@qari`a@|@village@
+@qarīb (’aqribā’) @|@ near (to), related (to)@
+@qarîban@|@soon@
+@qarrar an...@|@he decided to...@
+@qarrara@|@to decide/he decided@
+@qarrara (II) @|@ to decide@
+@qarya (quran) @|@ village@
+@qasam@|@oath@
+@qasama / yaqsimu @|@ to divide@
+@qaSīr (qiSār) @|@ short@
+@qaSr (quSūr) @|@ palace, fort@
+@qaTa?a / yaqTa?u @|@ to cut@
+@qātala (III) @|@ to fight@
+@qatala / yaqtulu @|@ to kill@
+@qatīl (qatlā) @|@ killed@
+@qawī (’aqwiyā’) @|@ strong@
+@qawm (’aqwām) @|@ race, people, nation@
+@qawmī @|@ nationalistic@
+@qira`ah@|@reading@
+@qisâs@|@stories@
+@qisas bolisiyya@|@detective stories@
+@qism (’aqsām) @|@ part@
+@qissa@|@story@
+@qiSSa (qiSaS) @|@ story@
+@qiT?a (qiTa?, qiT?āt) @|@ piece@
+@qurra@|@villages@
+@qursân@|@pirate@
+@quwwa @|@ strength@
+@ra`îs@|@president@
+@ra`y@|@opinion@
+@ra’ā / yarā @|@ to see@
+@ra’īs (ru’asā) @|@ leader, president@
+@ra’īsī @|@ principal, leading@
+@ra’y (’arā’) @|@ opinion@
+@radda / yaruddu @|@ to return, to reply@
+@radī’ (’ardiyā’) @|@ bad@
+@rafa?a / yarfa?u @|@ to raise@
+@raHâlât@|@travelling@
+@râi3@|@wonderful@
+@raja?a / yarji?u @|@ to return@
+@raja3tu / 3udtu.@|@I returned.@
+@rajul (rijāl) @|@ man@
+@rakhîS@|@cheap@
+@rakhīS @|@ cheap@
+@rākib (rukkāb) @|@ passenger@
+@rakiba / yarkabu @|@ to ride@
+@raml (rimāl) @|@ sand@
+@raqm (’arqām) @|@ number@
+@rasîm@|@painting@
+@rasm@|@drawing@
+@rasmī @|@ official@
+@rasūl (rusul) @|@ messenger, apostle@
+@raz bil-laHm@|@rice with meat@
+@rijl (’arjul) @|@ leg@
+@risāla (rasā’il, risālāt) @|@ letter@
+@risâlah@|@letter@
+@riyâDa@|@sport(s)@
+@riyâDat >< riyaDiyat@|@sport(s) >< mathematics@
+@riyâDiyat@|@math@
+@riyâDiyât@|@math@
+@riyāl (riyālāt) @|@ riyal@
+@rubbamâ@|@maybe, perhaps@
+@rusûm (mutaharrika)@|@cartoon(s)@
+@sā?a @|@ hour, clock@
+@Sa?b (Si?āb) @|@ difficult@
+@sa’ala / yas’alu @|@ to ask@
+@sâ3a wa niSf@|@one and a half hour@
+@sa3ât (pl.)@|@hours@
+@Sa3b@|@hard, difficult@
+@sa-abqa.@|@I will stay.@
+@sabab (’asbāb) @|@ reason@
+@SabāH @|@ morning@
+@sabâHan / fissabâH@|@in the morning@
+@sabaqa / yasbaqu @|@ to precede@
+@Sabī (Sibya, Sibyān) @|@ boy@
+@sābiq @|@ previous@
+@sâbiqan@|@already@
+@Sadara / yaSduru @|@ to go out@
+@SaDDara (II) @|@ to export@
+@Sadīq (’aSdiqā’) @|@ friend@
+@Sādir (Sādirāt) @|@ export@
+@safar (’asfār) @|@ journey@
+@sāfara (III) @|@ to travel@
+@safHât@|@pages@
+@safīna (sufun) @|@ ship@
+@Saghīr (Sighār) @|@ small, little@
+@SāHa / yaSīHu @|@ to call out@
+@saHâ"if@|@newspapers@
+@saHHa!@|@Bless you! (atchoo!)@
+@SāHib (’aSHāb) @|@ owner@
+@saHib/saHibti(f)(mid.east)@|@friend@
+@saHîfa@|@newspaper@
+@SaHīH (SiHāH, ’aSiHHā’, ’aSiHHa) @|@ healthy, right@
+@sāHil (sawāHil) @|@ coast, shore@
+@sahl@|@easy@
+@sahl (suhūl) @|@ easy@
+@sākin (sukkān) @|@ inhabitant@
+@sâkit@|@silent@
+@salām @|@ peace@
+@SāliH @|@ sound, honest@
+@sālim @|@ safe, secure@
+@salīm (sulamā’) @|@ safe, secure@
+@SallaHa (II) @|@ to repair@
+@sallama (II) @|@ to preserve, to hand over, to greet@
+@sâma@|@he fasted@
+@sâma@|@he fasted@
+@samaHa / yasmaHu @|@ to permit, to grant@
+@samak (’asmāk) @|@ fish@
+@sâmat@|@she fasted@
+@sami?a / yasma?u @|@ to hear@
+@sana (sinūn, sanawāt) @|@ year@
+@Sāna / yaSūnu @|@ to protect@
+@sana sa3îda!@|@happy new year!@
+@Sana?a / yaSna?u @|@ to make, to manufacture@
+@sanatil qâdim@|@next year@
+@sanawī @|@ annual@
+@sāqa / yasūqu @|@ to drive@
+@sāra / yasīru @|@ to go, to travel, to happen@
+@Sarafa / yaSrifu @|@ to spend@
+@sarī? (sur?ān, sirā?) @|@ quick@
+@saTH (suTūH, ’asTiHa) @|@ surface@
+@sawda usâ3id ummî@|@I will help my mother.@
+@sawfa a3ûd.@|@I will return.@
+@sawfa anthur fil-qâmûs.@|@I will look up in the dictionary.@
+@sawfa arji3u.@|@I will return.@
+@Sawt (’asWāt) @|@ voice, vote@
+@sawwat@|@to vote, he voted@
+@sawwata@|@you voted (m.)@
+@sawwati@|@you voted (f.)@
+@sawwatu@|@I voted@
+@sayyāra @|@ automobile@
+@sayyid (sāda) @|@ mister, gentleman@
+@sayyida @|@ Mrs., lady@
+@sha?b (shu?ūb) @|@ people@
+@shā’a / yashā’u @|@ to wish@
+@sha’n (shu’ūn) @|@ thing, matter@
+@shabâb@|@youth@
+@shabâb al-yawm@|@young ppl of today@
+@shabb (shabāb, shubbān) @|@ young man@
+@shābba @|@ young woman@
+@shadīd (shidād) @|@ strong@
+@shahada@|@to watch@
+@shahadtu@|@I watched@
+@shahr@|@(one) month@
+@shahr (’ashhur, shuhūr) @|@ month@
+@shahrayn@|@two months@
+@shahrayn@|@two months@
+@shajar (’ashjār) @|@ tree@
+@shakara Allah sa2yakum.@|@said in reply to "my condolences"@
+@shakhS (’ashkhāS) @|@ someone, person@
+@shakhSiyya @|@ personality@
+@shakka / yashukku @|@ to doubt@
+@shakl (’ashkāl) @|@ form, shape@
+@shams (shumūs) @|@ sun@
+@shāri? (shawāri?) @|@ road, street@
+@shariba / yashrabu @|@ to drink@
+@sharika @|@ company@
+@sharq @|@ east@
+@sharT (shurūT) @|@ condition@
+@shāy @|@ tea@
+@shay’ (’ashyā’) @|@ thing@
+@shidda @|@ strength@
+@shimâl@|@north@
+@shimāl @|@ north@
+@shlawnak? (syrian)@|@how are you?@
+@short@|@qasîr@
+@shû (lebanese dialect)@|@what@
+@shughl@|@job, business@
+@shughl (’ashghāl) @|@ work@
+@shuhûr@|@months@
+@shukran li...@|@thanks to... (smb.)@
+@shurTa @|@ police@
+@SiHāfa @|@ press, journalism@
+@SiHHa @|@ health, rightness@
+@Sinā?a @|@ industry@
+@Sinā?ī @|@ artificial@
+@sinemâ@|@cinema@
+@Sîniy@|@Chinese (person)@
+@siyāsa @|@ politics@
+@siyāsī (sāsā) @|@ political, politician@
+@sleepy@|@naîman@
+@Su?ūba @|@ difficulty@
+@su’āl (’as’ila) @|@ question@
+@SubH (’aSbāH) @|@ morning@
+@suhūla @|@ ease@
+@sulaHfâ@|@turtle@
+@sulHufât@|@turtles@
+@sullam@|@stairs@
+@sullam@|@stairs@
+@sumtu@|@I fasted@
+@sūq (’aswāq) @|@ market@
+@sur?a @|@ speed@
+@Sūra (Suwar) @|@ picture@
+@ta?allama (V) @|@ to learn@
+@Ta?ām (’aT?ima) @|@ food@
+@ta?ashshā (V) @|@ to dine@
+@ta?bān @|@ tired@
+@ta’rīkh (tawārīkh) @|@ date, history@
+@ta2ûd@|@you return, she returns@
+@ta3abtu@|@I got tired@
+@ta3âla ma3î!@|@come with me!@
+@ta3îsh@|@lives (female)@
+@ta3raf...@|@you know (what)...@
+@Tabbākh @|@ cook@
+@Tabīb (’aTibbā’) @|@ doctor@
+@tabkî@|@you cry/she cries@
+@tafaDDal / tafaDDalî (m./f.)@|@here you are/ please@
+@tafarrajtu 3alâ film.@|@I watched a movie.@
+@taghaddā (V) @|@ to take lunch@
+@taghayyar (intransitive)@|@to change@
+@taHassana (V) @|@ to improve@
+@taHt @|@ under, below@
+@ta'îshu...@|@You live...@
+@tājir (tujjār) @|@ merchant@
+@takallama (V) @|@ to speak@
+@takallamta/ti@|@you talked (he/she)@
+@takallamtu@|@I talked@
+@Tala?a / yaTlu?u @|@ to go out, to go up@
+@Talaba / yaTlubu @|@ to request@
+@Tālib (Tullāb, Talaba) @|@ student@
+@tamâman@|@completely@
+@tamma / yatimmu @|@ to be complete@
+@tamr@|@dates@
+@tamr (tumūr) @|@ date (fruit)@
+@tanâm@|@you sleep@
+@tanawwa?a (V) @|@ to be varied@
+@tantadhiru@|@you wait@
+@tanwîr@|@enlightment@
+@taqrīban @|@ almost@
+@taqsīm @|@ division@
+@Tāra / yaTīru @|@ to fly@
+@taraka / yatruku @|@ to leave@
+@Tarīq (Turuq) @|@ way, road@
+@Tarīqa (Tarā’iq, Turuq) @|@ way, manner@
+@tarji3@|@you return/she returns@
+@tashtarî@|@you buy, she buys@
+@taSrīH (taSrīHāt) @|@ permission, declaration@
+@taTawwara (V) @|@ to develop (vi)@
+@tawajjaha (V) @|@ to go towards@
+@tawîl@|@long@
+@Tawīl (Tiwāl) @|@ long, tall@
+@tawîlan@|@long (adverb)@
+@tawîlan@|@long (adverb)@
+@tawîlan@|@long (adverb)@
+@Tawwara (II) @|@ to develop (vt)@
+@Tayr (Tuyūr) @|@ bird@
+@Tayyib @|@ excellent@
+@Tayyib (mid.east)@|@OK@
+@tâzaja@|@fresh (fruits etc.)@
+@tazawwaja (V) @|@ to marry@
+@Tfûlatî@|@my childhood@
+@thalâtha sanawât (plural)@|@three years@
+@thalâtha wa niSf@|@three and a half (hours)@
+@thalâthîn@|@thirty@
+@thaqīl (thuqalā’, thiqāl) @|@ heavy@
+@thawb (thiyāb, ’athwāb) @|@ robe@
+@thawra @|@ revolution@
+@thumma @|@ then@
+@Tifl (’aTfāl) @|@ child@
+@tikram (mid.east)@|@you're welcome.@
+@tilka @|@ that (f)@
+@timsâH@|@crocodile@
+@timthâl@|@statue@
+@tuffaH@|@apple@
+@tuffāH @|@ apples@
+@tughayyar@|@you change@
+@tughayyar (transitive)@|@you change, she changes@
+@tuHâDiru@|@you prepare@
+@tujāha @|@ in front of@
+@tukmil@|@you finish@
+@turabbî@|@you keep (a pet etc.)@
+@turba/turâb@|@soil@
+@turîd an taHkum al 3âlam.@|@she wants to rule the world.@
+@turkî@|@turkish@
+@tusawwit@|@she votes, you vote@
+@tushâhid@|@she watches/you watch (m.)@
+@ufaDDilu aflâm amrikiyya.@|@I like American films.@
+@ufaDDilu..@|@I like...@
+@ughayyar@|@I change@
+@ughayyar@|@I change@
+@ukhriju ilal-riyâDat kull yawm@|@I go out to do sports everyday.@
+@ukhtî akbar minnî.@|@my sister is older than me.@
+@ukhtî saghîr@|@my younger sister@
+@ukmil@|@I finish@
+@ulâika@|@they@
+@umm@|@mother@
+@umm (ummhāt) @|@ mother@
+@ummî@|@my mother@
+@urabbî@|@I keep (a pet etc.)@
+@usâ3id@|@I help@
+@usawwit@|@I vote@
+@usbu3@|@week@
+@uslûb@|@manner@
+@wa @|@ and@
+@wa ana aiDan.@|@same here.@
+@wa anta aiDan.@|@so do I.@
+@waD? (’awDā?) @|@ situation@
+@wāDih @|@ clear@
+@wāfaqa (III) @|@ to agree@
+@wafd (wufūd, ’afwād) @|@ delegation@
+@waffaqa (II) @|@ to help@
+@waHda (waHadāt) @|@ unity@
+@waHHada (II) @|@ to unify@
+@wāHid @|@ one@
+@wajaba / yajibu @|@ to be mandatory@
+@wajada / yajidu @|@ to find@
+@wājaha (III) @|@ to meet, to face@
+@wajh (’awjuh, wujūh) @|@ face, surface@
+@wājib (wājibāt) @|@ duty@
+@wājid @|@ much, very@
+@wakīl (wukalā’) @|@ deputy, agent@
+@walad (’awlād) @|@ son, child, boy@
+@walāsiyyamā @|@ especially@
+@wālid @|@ father, parent@
+@wālin (wulāt) @|@ governor@
+@waqa?a / yaqa?u @|@ to happen, to fall@
+@waqafa / yaqifu @|@ to stop@
+@waqt (awqāt) @|@ time@
+@warā’a @|@ behind@
+@waraq (’awrāq) @|@ paper, card@
+@waraqa @|@ piece of paper@
+@waSala / yaSilu @|@ to arrive (at)@
+@wasat@|@middle@
+@wasaT (’awsāT) @|@ middle@
+@wāsi? @|@ wide@
+@wasi?a / yasa?u @|@ to be wide, to be possible@
+@wasikh @|@ dirty@
+@wāsiTa (wasā’iT) @|@ means@
+@wassa?a @|@ to widen@
+@waTan@|@homeland@
+@waTan (’awTān) @|@ homeland@
+@waTanī @|@ national@
+@waTaniyya@|@patriotic@
+@wathiqa / yathiqu @|@ to trust@
+@wazīr (wuzarā’) @|@ minister@
+@wikāla @|@ agency@
+@wilāya @|@ province@
+@wizāra @|@ ministry@
+@wsh sawaiti fil madrasa?(mid.e@|@how was it at school?@
+@wsh tabeni agûl? (mid.east)@|@what do you want me to say?@
+@wsh tsawîn? (f)@|@how's it going?@
+@yâ salâm 'alayk!@|@wow! (idiomatic exp. lit: "peace be on you")@
+@yâbânî@|@japanese@
+@yabdû jayyid.@|@it seems good.@
+@yabdû na3san.@|@he seems sleepy.@
+@yabdû...@|@it seems....@
+@yabdû....@|@it seems...@
+@yad (’aydin) @|@ hand@
+@yadawī @|@ manual@
+@yaghayyar (intransitive)@|@it changes (i.e. the weather)@
+@yaHkum...@|@he rules@
+@yajb@|@must/should@
+@yajb3alayka an tadrusu durusak@|@you have to study your lessons.@
+@yajib 3alayka@|@you have to@
+@yajib 3alayya@|@I have to@
+@yamîn@|@right@
+@yamīn @|@ right@
+@yanâm@|@he sleeps@
+@yanzul al maTar al-yawm.@|@it is raining today.@
+@yaqadha@|@awakening@
+@yaqdhân@|@awake@
+@yarji3@|@returns@
+@yasâr@|@left@
+@yasār @|@ left@
+@yasmîn@|@jasmine@
+@yathhab al-kibâr ilal 3amal.@|@the older ones go to work.@
+@yathhab as-sighâr ilal madrasa@|@the little ones go to school.@
+@yawm (’ayyām) @|@ day@
+@yawmayn faqaT!@|@only two days!@
+@yawmî kâna 3âdî(yan).@|@today was an ordinary day.@
+@yughayyar (transitive)@|@he changes@
+@yumkin an...@|@I can/it is possible...@
+@yusâ3idûn@|@they help@
+@yusâ3idûnnî bil 'arabî.@|@they help me with arabic.@
+@yushâhid@|@he watches@
+@zāda / yazīdu @|@ to increase@
+@Zahara / yaZharu @|@ to seem@
+@zāla / yazālu @|@ to stop@
+@zamān (’azmina) @|@ time@
+@zamîl@|@classmate@
+@Zanna / yaZunnu @|@ to think, to suppose@
+@zāra / yazūru @|@ to visit@
+@zara?a / yazra?u @|@ to cultivate@
+@Zarf (Zurūf) @|@ circumstance@
+@zawāj @|@ marriage@
+@zawj (’azwāj) @|@ husband@
+@zawja @|@ wife@
+@zayt (zuyūt) @|@ (edible) oil@
+@zirā?a @|@ agriculture@
+@zubda @|@ butter@
+@Zuhr (’aZhār) @|@ midday@
+@zujāj @|@ glass (substance)@
+

@@ -1,0 +1,372 @@
+@English@|@French (Botanics)@
+@Author name@|@Freelang@
+@Font@|@Arial\12\Arial\12@
+@acacia@|@acacia@
+@acanthus@|@acanthe@
+@acarpous@|@acarpe@
+@achene@|@akéne@
+@aconite@|@aconite@
+@acorn-bearing@|@balanifère@
+@acotyledonous (adj)@|@acotylédone@
+@adnate@|@adné@
+@adonis@|@adonide@
+@agar-agar@|@agar-agar@
+@agaric@|@agaric@
+@agave@|@agave@
+@agrimony@|@aigremoine@
+@ailanthus@|@ailante@
+@alaternus@|@alaterne@
+@alberge-tree@|@albergie@
+@alburnum@|@aubier@
+@alder-tree@|@aulne, aune@
+@alga@|@algue@
+@almond-tree@|@amandier@
+@aloe@|@aloès@
+@aloes@|@aloès@
+@alpine (adj)@|@alpicole@
+@alyssum@|@alysse@
+@amanite@|@amanite@
+@amaranth@|@amarante@
+@amaryllis@|@amaryllis@
+@amber-seed@|@ambrette@
+@american aloe@|@agave@
+@amigdalaceae@|@amygdalacée@
+@amphigamous (adj)@|@amphigame@
+@amphigenous (adj)@|@amphigène@
+@amplexicaul@|@amplexicaule@
+@amyris@|@baumier@
+@ananas@|@ananas@
+@anatropous@|@anatrope@
+@ancipital@|@ancipaté-e (adj)@
+@ancipitous@|@ancipaté-e (adj)@
+@anise@|@anis@
+@anona@|@anone@
+@anthemis@|@anthémis@
+@anthere@|@anthère@
+@antheridium@|@anthéridie@
+@antiare@|@antiar@
+@apetalousness@|@apétale (adj)@
+@aphyllous@|@aphylle@
+@apocynum@|@apocin, apocyn@
+@appalachian tea@|@apalachine@
+@apterous@|@aptère@
+@aquatil@|@aquatile@
+@aquifoliaceae@|@aquifoliacées@
+@arachis@|@arachide@
+@arboricole@|@arboricole@
+@arbutus-berry@|@arbouse@
+@areca@|@arec, aréquier@
+@areca-nut@|@arec, aréquier@
+@arnica@|@arnica@
+@artemisia@|@armoise@
+@arum@|@arum@
+@asperula@|@aspérule@
+@asphodel@|@amaryllis, asphodèle@
+@aspidistra@|@aspidistra@
+@aster@|@aster@
+@athaea@|@athaea@
+@averrhoa@|@carmabolier@
+@azarola@|@azerole@
+@azarole-tree@|@azerolier@
+@bachelor's button@|@jauneau@
+@baciferous@|@bacifère (adj)@
+@bacteriacea@|@bactériacées@
+@balsam-tree@|@baumier, clusie@
+@bamboo@|@bambou@
+@banana@|@banane@
+@banana-tree@|@bananier@
+@barabry-oak@|@bellotte@
+@barberry@|@berbéris@
+@basella@|@baselle@
+@bastard-senna tree@|@baguenaudier@
+@bead-tree@|@azédarac@
+@beam-tree berry@|@alise@
+@bean-caper@|@fabagelle@
+@bean-trefoil@|@anagyk@
+@bedeguar@|@bédegar@
+@beech@|@hêtre@
+@beech-grove@|@hêtraie@
+@beech-nut@|@faîne@
+@beech-tree@|@hêtre@
+@beet@|@belte@
+@beetroot@|@betterave@
+@begonia@|@bégonia@
+@belladonna@|@belladone, belle-dame@
+@ben-tree@|@ben@
+@berberis@|@berbéris@
+@bergamot orange@|@bergamote@
+@bergamot pean@|@bergamote@
+@bergamot-orange tree@|@bergamotier@
+@berry@|@baie@
+@berry-bearing@|@bacifère (adj)@
+@betel@|@bétel@
+@betony@|@bétoine@
+@bigaroon-tree@|@bigarreautier@
+@bignoniacea@|@bignoniacées@
+@bilberry@|@airelle@
+@birch-tree@|@bouleau@
+@bistort@|@bistorte@
+@bitter orange@|@bigarade@
+@bitter-orange tree@|@bigaradier@
+@bladder-nut@|@baguenaude@
+@bladder-nut tree@|@baguenaudier@
+@boletus@|@bolet@
+@bon-chrétien pear@|@bon-chrétien@
+@bracteole@|@bractéole@
+@bread-fruit tree@|@artocarpe@
+@breadfruit-tree@|@jaquier@
+@bryony@|@bryone@
+@bugwort@|@cimicaire@
+@burdock@|@bardane@
+@bush@|@arbre en buisson, arbuste@
+@buttercup@|@bouton d'or, jauneau@
+@cacao@|@cacao@
+@cacao-tree@|@cacaotier, cacaoyer@
+@cacdeciduous@|@caduc@
+@cactacea@|@cactacées, cactées@
+@cactus@|@cactus@
+@cade@|@cade@
+@caducous@|@caduc@
+@caladium@|@caladion, caladium@
+@calamint@|@calament@
+@calceolaria@|@calcéolaire@
+@caliatourwood@|@caliatour@
+@callose@|@calleuse, calleux@
+@calycanthus@|@calycanthe@
+@calycle@|@calicule@
+@calycled@|@caliculé (adj)@
+@calyculate@|@caliculé (adj)@
+@cambium@|@cambium@
+@camomille@|@camomille@
+@campana@|@campagne@
+@camphor-tree@|@camphrier@
+@canary-grass@|@alpiste@
+@canna@|@balisier, canna@
+@canna-seed@|@balise@
+@caper@|@câprier@
+@capitulum@|@capitule@
+@carambola@|@carmabolier@
+@carapa@|@carapa@
+@caraway@|@carvi@
+@cardamine@|@cardamine@
+@cardamon@|@cardamone@
+@cardoon@|@cardon@
+@carob@|@caroubier@
+@carob-tree@|@caroubier@
+@carola-bean@|@carouge, caroulbe@
+@carpel@|@carpelle@
+@carthamus@|@carthame@
+@carya@|@carya, caryer@
+@caryophyllaceous@|@caryophyllé@
+@cascarilla@|@cascarille@
+@cashew nut@|@noix d'acajou@
+@cashew-nut tree@|@anacarde@
+@cassia@|@casse@
+@catalpa@|@catalpa@
+@catkin@|@chaton@
+@catmint@|@cataire, chataire@
+@celandine@|@chélidoine@
+@cereus@|@cierge@
+@chaff@|@bale, balle@
+@cheese rennet@|@caille-lait@
+@chelone@|@chélone@
+@cherimoya@|@chérimolier@
+@chervil@|@cerfeuil@
+@chestnut-tree@|@châtaignier@
+@chibol@|@ciboule@
+@chives@|@ciboulette, cive, civette@
+@chlorophyll@|@chlorophylle@
+@chromule@|@chromulr@
+@chrysantenum@|@chrysanthème@
+@cibol@|@ciboule@
+@cilia@|@cil@
+@cimifuga@|@cimicaire@
+@cineraria@|@cinéraire@
+@cinerary@|@cinéraire [adj]@
+@cinnamon-tree@|@canniever@
+@cirrus@|@cirre, cirrhe@
+@citron-tree@|@citronnier@
+@clabash-tree@|@calebassier@
+@clavaria@|@clavaire [adj]@
+@clematis@|@clémature@
+@clingstone@|@brugnon@
+@clove@|@clou@
+@club-shaped fungus@|@clavaire [adj]@
+@clusia@|@clusie@
+@clusiacea@|@clusiacées@
+@cobaea@|@cobé [adj]@
+@coca@|@coca@
+@cochineal plant@|@cochenellier@
+@cochleria@|@cochleria@
+@coconut-palm@|@cocotier@
+@coffee-tree@|@caféier@
+@cola@|@kola@
+@cola-nut@|@noix de kola@
+@colchicum@|@colchique@
+@columbine@|@ancolie@
+@convolvulus tricolor@|@belle de jour@
+@cornflower@|@bleuet, jacinthe des blés@
+@cos lettuce@|@chicon@
+@costmary@|@balsamite@
+@cowbeb-like@|@arachnoïdien-ne (adj)@
+@cow-parsnip@|@berce@
+@coxcomb@|@amarante@
+@crabwood@|@carapa@
+@crimson-clover@|@farouch@
+@crowberry@|@camarine@
+@cuckoopint@|@arum@
+@custard-apple@|@anone@
+@dame's violet@|@cassolette@
+@darnel@|@ivraie@
+@daylily@|@hémécoralle@
+@dioecious@|@dioïque@
+@dionea@|@dionée@
+@dittany@|@dictame@
+@dog-bane@|@apocyn gobemouches@
+@dog-bane family@|@apoxynacées@
+@dog-rose@|@égalntine@
+@dragon-tree@|@dragonnier@
+@duckweed@|@canillée@
+@dwarf-tree@|@arbre nain@
+@earth-nut@|@arachide@
+@east-india wood sorrel@|@carmabolier@
+@ebenaceae@|@ébénacées@
+@ebony-tree@|@ébenier@
+@edelweiss@|@edelweiss@
+@emarginate@|@emarginé-e [adj]@
+@emetic holly@|@apalachine@
+@enchanter's nightshade@|@circée@
+@epyginous-part@|@épigyne@
+@evergreen@|@arbre vert@
+@fabago@|@fabago@
+@fibert@|@aveline@
+@field-daisy@|@bellis@
+@filamentous@|@arachnoïdien-ne (adj)@
+@filbert-tree@|@avelinier@
+@flower-head@|@capitule@
+@forest-tree@|@arbre de haute futaie@
+@garden balsam@|@balsamine@
+@garlic@|@ail@
+@glume@|@bale, balle@
+@goat fig-tree@|@caprifiguier@
+@goose-foot@|@ansérine@
+@ground-nut@|@cacahuète@
+@growing near rivers@|@amnicole (adj)@
+@hair-grass@|@canche@
+@hautboy strawberry@|@capron@
+@hautboy strawberry plant@|@capronier@
+@hawk-weed@|@épervière@
+@heath@|@bruyère@
+@heather@|@bruyère@
+@heawort@|@cinéraire@
+@helianthus@|@hélianthe@
+@hemecorallis@|@hémécoralle@
+@hemp@|@chanvre, chénevis@
+@hepatgynous@|@heptagyne (adj)@
+@heptagynian@|@heptagyne (adj)@
+@heptandrian@|@heptandre (adj)@
+@heptandrous@|@heptandre (adj)@
+@herb bennet@|@benoîte@
+@hollyshock@|@alcée@
+@honeysuckle@|@chèvrefeuille@
+@horse-thistle@|@cirse@
+@husk@|@bale, balle@
+@hyacinth@|@jacinthe@
+@indian shot@|@canna@
+@iridaceae@|@iridées@
+@iris@|@iris@
+@ixia@|@ixia@
+@japanese persimmon@|@kaki@
+@kaki@|@kaki (fruit)@
+@karatas@|@karatas@
+@ketmia@|@ketmier@
+@kola@|@kola@
+@laciferous@|@laccifère (adj)@
+@lantana@|@lantanier@
+@larch-tree@|@larix@
+@larkspur@|@éperonnière@
+@lemon-tree@|@citronnier@
+@lily@|@amaryllis@
+@lime-tree@|@citronnier@
+@mahogany@|@acajou@
+@malabar nightshade@|@baselle@
+@mangel-wurzel@|@betterave fourragère@
+@mangold-wurzel@|@betterave fourragère@
+@marsh-mallow@|@athaea@
+@marvel of Peru@|@belle de nuit@
+@meadow-cress@|@cardamine@
+@molucca bean@|@bonduc@
+@monkey-bread tree@|@baobab@
+@morel@|@cerisette@
+@mushroom@|@agaric@
+@neapolitan medlar@|@azerole@
+@nectarine@|@brugnon@
+@nicker-tree@|@bonduc@
+@nopal@|@cochenellier@
+@pasque-flower@|@campagne@
+@pea-nut@|@arachide@
+@pertaining to bushes@|@arbustif-e (adj), arbustive (adj)@
+@peruvian custard-apple@|@chérimolier@
+@pheasant's eyes@|@adonide@
+@pickled nasturium seed@|@câpre, capucine@
+@pine-apple@|@ananas@
+@platomaceae@|@diatomées@
+@quince@|@coing@
+@ragwort@|@jacobée@
+@rainbow@|@iris@
+@rose-gall@|@bédegar@
+@rye-grassy@|@ivraie@
+@safflower@|@carthame@
+@saltwort@|@kali@
+@sapwood@|@aubier@
+@sea-weed@|@algue@
+@sheating@|@engainant-e [adj]@
+@shoot@|@bion@
+@shrub@|@arbuste@
+@silver-weed@|@argoutine@
+@skirret@|@berle, chervis@
+@snail-flower@|@caracolle@
+@snake-weed@|@bistorte@
+@sorb-aplle@|@alise@
+@southernwood@|@citronnelle@
+@spike-lavander@|@aspic@
+@sporangium@|@archégone@
+@spruce@|@épicéa@
+@St John's bread@|@carouge@
+@St.John's bread@|@carouge@
+@star-thiste@|@chausse-trape@
+@starwort@|@aster@
+@sundew@|@drosère@
+@sunflower@|@hélianthe@
+@sweet-basil@|@basilic@
+@tare@|@ivraie@
+@teasel@|@cardère@
+@tendril@|@cirre, cirrhe@
+@thistle@|@cirse@
+@tip@|@anthère@
+@tree@|@arbre@
+@tree of heaven@|@ailante@
+@tree-moss@|@brion, bryon@
+@upas-tree@|@antiar@
+@venus's fly-trap@|@dionée@
+@vetch@|@jarosse@
+@water-hemlock@|@cicutaire [adj]@
+@water-plantain@|@alisme@
+@wax-myrthe@|@cirier-ière@
+@welsh onion@|@ciboule@
+@whitebeam@|@alisier@
+@whortle-berry@|@airelle@
+@wild chicory@|@barbe-de-capucin@
+@wild fig-tree@|@caprifiguier@
+@wild quince@|@cognasse@
+@wild sage@|@lantanier@
+@wild spinach@|@ansérine@
+@wild-rose@|@égalntine@
+@William@|@bon-chrétien@
+@winter-sherry@|@alkékenge@
+@woodruff@|@aspérule@
+@wood-sorrel@|@acétoselle, alléluia@
+@wormwood@|@armoise@
+@yam@|@igname@
+@yellow water-lily@|@jauneau d'eau@
+

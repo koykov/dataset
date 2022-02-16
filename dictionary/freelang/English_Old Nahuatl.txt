@@ -1,0 +1,1916 @@
+@English@|@Old Nahuatl@
+@Author name@|@Manuel Rodríguez Villegas@
+@Font@|@Arial\12\Arial\12@
+@a little bit@|@achitzin@
+@a little tall@|@cuauhticatontli@
+@a short while ago@|@quin axcan@
+@abaft@|@acalcuexcochtli@
+@abdomen@|@cuitlatecomatl@
+@aboard a ship (to)@|@tlaacalaquia@
+@academy@|@toltecalli@
+@Acalan@|@Acallan (Land of ships)@
+@Acapulco@|@Acapolco (Land of big canes)@
+@accident@|@cocoliztli@
+@accompany (to)@|@teaxiltia@
+@accordion@|@acordioni, tepozcuicacaxitl@
+@achropolis@|@acopaltepetl@
+@acolyte@|@acolitoni, tlamazteocaltoni@
+@adobe@|@xacamitl, xamitl@
+@adobe house@|@xamixcalli@
+@advance@|@acoquitzaliztli@
+@advance (to)@|@acoquitza@
+@Africa@|@African@
+@African@|@africanecatl, africatl@
+@African language (Afrikaans)@|@africantlahtolli, africatl@
+@afternoon@|@teotlac@
+@afterwards@|@niman, quin tepan@
+@again@|@occepa@
+@aged man@|@huehuetlacatl@
+@agile@|@acocqui@
+@agitate (to)@|@acomana@
+@agitating@|@acomanani@
+@agitation@|@acomanaliztli@
+@Agustinian monk@|@Agustín teopixqui@
+@ahead@|@ocachinepan, ocnepan@
+@Ahuitzotl@|@Ahuitzotl (Otter)@
+@air@|@ehecatl@
+@airplane@|@acalpatlani, tepozpatlanqui, tepoztototl@
+@airport@|@ehecaquixoayan@
+@all@|@ixquich, mochi@
+@all (plural)@|@mochintin@
+@all night@|@cenyohual@
+@all people@|@mochitlacatl@
+@all right@|@ca yeh cualli@
+@alligator@|@acatetepontli, cuetzpalin@
+@also@|@no, nohuican, noihuan, noyuhqui@
+@also book shelf@|@amoxcalli@
+@altar boy@|@acolitoni, tlamazteocaltoni@
+@always@|@cemiac, mochipa@
+@amaranth@|@huauhtli@
+@amen@|@amen, mayuhmochihua@
+@American@|@ixachitecatl, ixachitlacatl@
+@American lion@|@miztli (felis concolor)@
+@American ostrich@|@tlacatototl (rhea americana)@
+@Anahuac@|@Anahuac (Land near the water), Mexico, Yancuic Caxtillan@
+@ancestor@|@achtontli@
+@anchor@|@acachicolli@
+@and@|@auh@
+@and (&)@|@ihuan@
+@angel@|@anxelin, anxelli@
+@Anglican@|@inglatecatl, inglatl@
+@Anglosaxon@|@inglatecatl, inglatl@
+@angry@|@aacqui@
+@animal@|@yolcatl@
+@animal arm@|@matli@
+@another@|@oc cequi, occe, occequin@
+@anothers@|@oc cequin, occequintin@
+@answer (to)@|@nanquilia@
+@ant@|@azcatl (formica terrestris)@
+@anthill@|@azcapotzalli@
+@antler@|@cuacuahuitl@
+@appear materialize (to)@|@neci@
+@apple@|@mantzanatl@
+@apricot@|@chahuacatl@
+@april@|@abrilli, hueytozoztli, toxcatl@
+@aquatic quail@|@azolin@
+@aquatic reed@|@aacatl@
+@aquatic snake@|@acoatl@
+@architect@|@calmanani@
+@architectonic@|@calmanayo@
+@architecture@|@calmanayotl@
+@arm@|@acolmaitl, macolli, matzopaztli@
+@arm band@|@matemecatl@
+@armpit@|@ciyacatl@
+@arrive (to)@|@aci@
+@arrow@|@acatl, mina, mitl@
+@art@|@toltecayotl@
+@artesian@|@amantecatl@
+@artesian well@|@atiacuihuayan@
+@artifial satellite@|@tepozcitlalcalli@
+@artist@|@tocatzahualli, toltecatl@
+@as@|@in yuh@
+@as soon as@|@in oyuh@
+@Asia@|@Axian@
+@Asian@|@axiatecatl, axiatl@
+@Asiatic@|@axiatecatl, axiatl@
+@ask (to)@|@tlatlani@
+@astro@|@citlalli, ilhuicatlamatli@
+@astrologist@|@citlaltlamatini@
+@astrology@|@citlaltlamatiliztli@
+@astronaut@|@citlaltepozacalteyacanqui, ilhuicanemini@
+@astronomical observatory@|@tzacualilhuicalli@
+@astronomy@|@ilhuicatlamatiliztli@
+@at@|@in canin@
+@at dawn@|@oc yohuatzinco@
+@at heaven@|@ilhuicac@
+@at night@|@yohuac, yohualtica@
+@at or on the Earth@|@tlalticpac@
+@at the city@|@altepepan@
+@at the hill@|@tepepan@
+@at the hospital@|@cocoxcalpan@
+@at the sky@|@ilhuicac@
+@atmosphere@|@ehecaliztli@
+@atole@|@atolli@
+@aubergine@|@camohtomatl@
+@aunt@|@ahuitl@
+@auto@|@tepozmalacatl@
+@autumn@|@tonalco@
+@avocado@|@ahuacatli@
+@awake (to)@|@tecochehua@
+@awesome@|@teocuitlamatemecatl@
+@axolote@|@axolotl (ambystoma mexicanum)@
+@Aztec@|@aztecatl, mexicatl, nahuatl@
+@Aztec bed@|@petlatl@
+@Aztec language@|@mexicatahtolli, mexicatl, nahuatl, nahuatlahtolli@
+@baby@|@conenetl, conetzintli, piltontli@
+@back@|@cuetlapantli, elcomalli@
+@back animal leg@|@icxitl@
+@bacon@|@coyamenacahuaztli@
+@bad@|@acualli, amo cualli@
+@bad breath@|@camapotoniliztli@
+@bag@|@tanatl, topcotl, xiquipilli, xiquipiltontli@
+@bagpipes@|@ehuatlapitzalli@
+@ballast@|@acaltetlalincateconi@
+@banana@|@tzapalolli, tzapalotl@
+@banner@|@pamitl, pantli@
+@banner boat@|@acalcuachpamitl@
+@bar@|@ocnamacoyan@
+@barn owl@|@ahuatecolotl, chihtitl (asio flammeus), tolchicuatli@
+@base@|@nelhuayotl@
+@basquet@|@chiquihuitl@
+@basquetball@|@chiquiuhtapayoliztli@
+@bat@|@tzinacantli@
+@bathroom@|@alticalli, axixcalli, nealtimaloyan@
+@battle rations@|@yaoitacatl@
+@bawl (to)@|@choquilitzatzi@
+@bay@|@anepalco@
+@be (to)@|@ca@
+@be afraid (to)@|@imacaci@
+@be African (to)@|@africa@
+@be American (to)@|@ixachitlaca@
+@be Asian (to)@|@axia@
+@be Aztec (to)@|@azteca, mexica, nahua@
+@be born (to)@|@hualnemi@
+@be Chihuahuan (to)@|@chihuahua@
+@be Cuban (to)@|@copa@
+@be dying of hunger (to)@|@apizmiqui@
+@be European@|@eutlocpa@
+@be French@|@franzia@
+@be frightened (to)@|@momauhtia@
+@be happy (to)@|@paqui, yolpaqui@
+@be hungry (to)@|@mayana@
+@be Italian (to)@|@italia@
+@be Korean (to)@|@coreya@
+@be Latino (to)@|@latina@
+@be Lebanese (to)@|@libanoya@
+@be Mexican (to)@|@azteca, mexica, nahua@
+@be Nahuatl (to)@|@azteca, mexica, nahua@
+@be New Mexican (to)@|@yancuic mexica, yancuic nahua@
+@be placed at (to)@|@motlalia@
+@be sad@|@tlaocoya@
+@be scared to death (to)@|@aaxixa@
+@be shipwrecked (to)@|@acallapani@
+@be sick (to)@|@mococoa@
+@be sleepy (to)@|@cochmiqui@
+@be something (to)@|@moyetztica@
+@be South African (to)@|@africahuitztlalia@
+@be Swedish (to)@|@zueca@
+@be thirsty (to)@|@amiqui@
+@be Tlaxcaltecan (to)@|@tlaxcala@
+@be Utan (to)@|@yuta@
+@beach@|@atentli, xaltentli@
+@bead@|@cozcatl@
+@bean@|@etl (phaseolus vulgaris)@
+@beautiful@|@chichipaltic, cualtzin, quetzaltic, yectli@
+@beaver@|@atuzan (castor canadensis)@
+@because@|@ca, ic, pampa@
+@become (to)@|@mochihua@
+@become new (to)@|@yancuiya@
+@become soft (to)@|@yemania@
+@become white (to)@|@iztaya@
+@bed@|@pechtli@
+@bedroom@|@cochiantli, cochihuayan@
+@bee@|@pipiyolin (apis mellifica), pipiyolli@
+@beef@|@cuacuauhnacatl@
+@beetle@|@atetepitztli, pinacatl@
+@begin@|@pehua@
+@behind@|@icuitlapan@
+@belly@|@ititl@
+@below@|@tlani@
+@benign@|@tlatlacatl@
+@berry@|@acecexocotl@
+@berth@|@acalcochihuayan@
+@between@|@intzalan@
+@biceps@|@acolnacayotl@
+@big@|@huei, huey@
+@big basquet@|@cacaxtli@
+@big sapota@|@cuatzapotl@
+@bikini@|@maxtli@
+@bile@|@chichicatl@
+@bilge@|@acallayayaliztli@
+@bilingual@|@ometlahto@
+@bill@|@amatomin@
+@bird@|@tototl@
+@black (colour)@|@tliltic@
+@black ant@|@tlilazcatl@
+@black bear@|@tecuanotl (ursus americanus)@
+@black beetle@|@pinacatl@
+@black corn@|@yahuitl@
+@black man (African people)@|@cacatzac, catzahuac@
+@black people@|@cacatzactic, catzahuac@
+@blackberry@|@amacapolin (morus nigra)@
+@bless (to)@|@yectenehua@
+@blood@|@eztli, yeztli@
+@blossom@|@xochitl@
+@blown up@|@aatenqui@
+@blue@|@texotic, texotli@
+@boat@|@acalli, acaltontli@
+@boatman@|@acalhuacaquixtini@
+@bobcat@|@ocomiztli (felis silvestris)@
+@body@|@nacayotl@
+@bold@|@acanixmauhqui@
+@bone@|@omitl@
+@book@|@amoxtli@
+@bookshop@|@amoxtlatiloyan@
+@border@|@tentli@
+@born (to)@|@tlacati@
+@bow@|@acalyacatl@
+@bowl@|@caxitl@
+@bowl stone@|@molcaxitl@
+@boy@|@pilli, piltontli, telpochtli@
+@bracelet@|@matemecatl@
+@branch@|@cuauhmaitl@
+@bread@|@tlaxcalli@
+@break (to)@|@tlapana@
+@breakfast (to)@|@teniza@
+@bridge@|@ohatl, panoayan, tenolli@
+@brief@|@maxtli@
+@bring (to)@|@hualhuica@
+@bring down (to)@|@tlaza@
+@bring near (to)@|@teacitlania@
+@broad and thick@|@patlahuacatilahuac@
+@broccoli@|@cuauhtontzin@
+@broom (to)@|@tlachpana@
+@brother@|@icniuhtli, temini@
+@brown@|@camiltic, tlaltic@
+@bubble (to)@|@aapopoti@
+@buffalo@|@tlacaxolotl (bison bison)@
+@building@|@calli@
+@bull@|@oquichcuacuahue (bos taurus)@
+@bumblebee@|@cuaxicotli (apis bombus), xicotli@
+@bungalow@|@xacalli@
+@burn (to)@|@tlatla@
+@bury (to)@|@toca@
+@bus@|@calmimilolli@
+@bussinesman@|@pochtecatl@
+@but@|@auh, tel@
+@butter@|@cuacuahuececeyotl@
+@butterfly@|@papalotl@
+@buy (to)@|@cohua@
+@bye@|@ane, cualohtli@
+@cabin@|@acalcochihuayan@
+@cabinboy@|@acallanelotl, acalticapanoni@
+@caffee (beverage)@|@cafetzin@
+@caffee tree@|@cafecuahuitl (caffea arabica)@
+@cake@|@necuhpantzin, tlaoyotlaxcalli@
+@calendary@|@tonalamatl, tonalpohualli@
+@Californian condor (vulture)@|@cozcatzopilotl@
+@call someone (to)@|@hualmonochilia, notza@
+@came@|@ohualla@
+@camel@|@cameyotl (camelus bactrianus)@
+@candy@|@xochitlacualiztli@
+@cane@|@acatl@
+@cane basquet@|@acachiquihuitl@
+@cane box@|@acachiquihuitl@
+@cane glue@|@acachauhtli@
+@cane thicket@|@acatlan@
+@cane tobacco@|@acayetl@
+@canoe@|@acalpechtli, acaltontli@
+@capitan of ship@|@acaltepachoani@
+@capsicum@|@chilli (capsicum annuum)@
+@car@|@tepozmalacatl@
+@carrot@|@caxtilcamohtli, xochicamohtli@
+@carry (to)@|@itqui@
+@castle@|@caxtilcalli@
+@cat@|@mixin (felis domestica), mizton@
+@cataract@|@ixchichiticahuiliztli, ixtotolicihuiztli@
+@catch up (to)@|@teaci@
+@caterpillar@|@chiahuitl, tomaocuilin, tomaocuilli@
+@Catholic@|@quixtiani, tlalticpacayo, tlalticpaquixtiani@
+@Catholic church@|@tlalticpaquixtianayotl@
+@cauliflower@|@xochiquilitl@
+@cave@|@oztotl@
+@cave-in@|@acoyoctli@
+@celestial heaven@|@ilhuicatl@
+@center@|@tlahco@
+@centipede@|@petlazolcoatl@
+@centre@|@tlahco@
+@centzontli (Mexican nightingale)@|@centzontli (mimus polyglottos@
+@chair@|@icpalli@
+@Chalcan rulers@|@chalcatlatoque@
+@chayote@|@chayotli (sechium edule)@
+@cheer (to)@|@acohuetzi@
+@cheerful@|@aahuiani@
+@cheese@|@tlatetzauhtli@
+@cherry@|@capolin, capolli, chilcapolin@
+@chest@|@elpantli, tlacalaquilli@
+@chestnut@|@cacahuacomitl@
+@chick@|@piotl, pipiolotl@
+@chicken@|@piotl, pipiolotl@
+@chicken soup@|@totolayotl@
+@Chihuahuan dog@|@tetlamichichi@
+@child@|@conetl@
+@children@|@cocone@
+@chilli@|@chilli (capsicum annuum)@
+@chilli pepper@|@chilli (capsicum annuum)@
+@chin@|@camachalli@
+@chipmuck@|@mototli@
+@chocolate@|@xocolatl@
+@choko@|@chayotli (Sechium edule)@
+@Christian@|@quixtiani@
+@Christian calendary@|@tonalpohualquixtiani@
+@church@|@teocalli, teopantli@
+@cirrostratus@|@tonatiuhcalli@
+@citizen@|@altepehuatl, altepetlacatl@
+@city@|@altepetl@
+@clean@|@chipahuac@
+@clean (to)@|@chipahua@
+@clear@|@chipahuac@
+@cliff@|@acuezcomatl@
+@climb (to)@|@tleco@
+@close (to)@|@tzacua@
+@clothes@|@tlaquemitl@
+@cloud@|@mixtli@
+@coarseness@|@acualtlahtolli@
+@cob@|@centli@
+@cobweb@|@tocatzahualli@
+@cock@|@caxtotolin (gallus domesticus, caxtotolli@
+@cocoa@|@cacahuatl@
+@coconut@|@cocotl@
+@codex@|@amoxtli@
+@collar bone@|@omicuicatl@
+@college@|@telpochcalli@
+@color@|@tlapalli@
+@colour@|@tlapalli@
+@come (to)@|@hualehua@
+@come closer (to)@|@maxitia@
+@come in (to)@|@calaqui@
+@comet@|@citlalmina@
+@command (to)@|@nahuatia@
+@commoner@|@macehualli@
+@completely@|@cenquizca@
+@comprehend (to)@|@yeccaqui@
+@computer@|@chiuhpohualhuaztli@
+@conception@|@tlacatilia@
+@concubinage@|@nemecatiliztli@
+@cone@|@acalton@
+@confortable@|@acohuetziqui@
+@conforting@|@acohuetziqui@
+@conquistador@|@tepehuani@
+@consolation@|@acohuetziliztli, acotlazaliztli@
+@console (to)@|@acohuetzi@
+@consoling@|@acohuetziqui@
+@constellation@|@centzonhuitzahuac@
+@contemplation@|@acohuehuetiliztli, acoyaliztli@
+@contemplative@|@acoyani@
+@continent@|@hueytlahtocayotl, hueytlalpan@
+@cooking fire@|@tlecuilli@
+@cooking pot@|@comitl@
+@cookware@|@comalli@
+@copy@|@neixcuitilli@
+@cord@|@mecatl@
+@corn@|@centli@
+@corn cob@|@centli@
+@corn mass@|@nextamalli@
+@corn paste@|@nixtamalli@
+@corn pop@|@achipotzacellotl@
+@corn stalk@|@elozacatl@
+@corn straw@|@elozacatl@
+@corner@|@calnacaztli@
+@corsair@|@acalteichtecamictini@
+@cosmic energy@|@teotiliztli@
+@cosmo@|@ilhuicatl@
+@cosmonaut@|@citlaltepozacalteyacanqui, ilhuicanemini@
+@cotton@|@ichcatl@
+@cougar@|@ocelotl@
+@could it be@|@cuix@
+@could water@|@acecec@
+@count (to)@|@pohua@
+@country@|@tlahtocayotl, tlalpan@
+@country laborer@|@millacatl@
+@courgette@|@ayoconetl@
+@cousin@|@teixoyuhtli@
+@cover@|@netlaquentiliztli@
+@cow@|@cuacuahue, cuacue, huacaxi (bos domesticus)@
+@coward@|@mauhcatlacatl, mauhcatlayecoani@
+@cowardly person@|@mauhcatlacatl@
+@cowboy@|@cuacuahueni@
+@coyote@|@coyotl (canis latrans)@
+@coyote-colored cotton@|@coyoichcatl@
+@crab@|@atecuicitli, atecuiztli (grapsus grapsus)@
+@craftsman@|@toltecatl@
+@crate@|@cacaxtli@
+@crater@|@axalapazco@
+@cream@|@itlaixochichihualayotl, tlachichihualiztli@
+@creature@|@yolcatl@
+@cricket@|@chopilin, chopilli@
+@cross@|@cuauhtollo@
+@cry  (to)@|@choca@
+@cry much (to)@|@choquilitzatzi@
+@Cuba@|@Copan@
+@Cuban@|@copanecatl, copatl@
+@cucumber@|@ayoxoxouhcatl@
+@cultural legacy@|@huehuetlahtolli@
+@culture@|@huehuetlahtolli@
+@cure (to)@|@patia@
+@curse@|@acualitiliztli@
+@cut (to)@|@cotona@
+@cylindrical@|@acatic@
+@daily@|@cecemilhuitica, momoztlae@
+@damnation@|@acualitiliztli@
+@dark@|@catzactic, catzahuac@
+@dark blue@|@matlaltic@
+@dark green@|@matlactic@
+@dart@|@mitl@
+@dattel@|@zoyacapolin@
+@daughter@|@cihuaconetl@
+@dawn@|@tlaneci@
+@day@|@ilhuitl@
+@day (morning)@|@tonalli@
+@day after tomorrow@|@huiptla@
+@deal by ship (to)@|@teacalhuia@
+@dear father@|@tahtzintli@
+@dear mom@|@nantzintli@
+@dear son@|@piltzintli@
+@dear teacher@|@temachticatzintli@
+@death evening@|@acochiztlamicqui@
+@deceitful word@|@iztlacatlatolli@
+@deep@|@huehcatlan@
+@deer@|@mazatl (cervus communis)@
+@deformed@|@amocualneci@
+@delicate@|@celic, chipahuac@
+@delouse (to)@|@acelana@
+@demolish (to)@|@cocotona@
+@demon@|@tzitzimitl@
+@depart (to)@|@onehua@
+@departure@|@quizaliztli@
+@depth@|@huehcatlan@
+@descend (to)@|@temo@
+@desire (to)@|@eiehuia@
+@desk@|@acopechtli@
+@destroy (to)@|@cocotona@
+@devil@|@acualli, tlacatecolotl@
+@devil’s doing@|@tlacatecoloyotl@
+@devils@|@tlatlacatecolo@
+@diabolical@|@atlacatl@
+@dictionary@|@tlahtolamoxtli@
+@die (to)@|@miqui@
+@dine (to)@|@mocochcayotia@
+@diner@|@tlacualoyan@
+@dining room@|@tlacualoyan@
+@dinner@|@cochcayotl@
+@dinosaur@|@hueycuetzpalin@
+@dirty@|@catzactic, catzahuac@
+@dirty black@|@catzahuac@
+@dirty-colored@|@catzahuac@
+@diseased@|@cocoxqui@
+@dish@|@caxpechtli@
+@dismember (to)@|@cocotona@
+@distant@|@huehca@
+@ditch@|@acopinalli@
+@do (to)@|@chihua@
+@do someone (to)@|@chihuilia@
+@dock@|@acalco, acaltecoyan@
+@doctor@|@tepatiani, ticitl@
+@dog@|@chichi (canis familiaris), itzcuintli (canis mexicanus)@
+@dog meat@|@chichinacatl, itzcuinnacatl@
+@dogs@|@itzcuintin@
+@don’t@|@macamo@
+@don’t worry@|@macamo xitequipacho@
+@done@|@yeh@
+@donkey@|@axnotl (equus asinus)@
+@door@|@calacoayan, caltentli, tlatzacuillotl@
+@dove@|@huilotl@
+@down@|@temo, tlani@
+@dragonfly@|@apipiyalotl, tlacocotl@
+@dream (to)@|@cochitlehua@
+@dream mystic visions@|@cochitta@
+@drink (to)@|@coni, oni@
+@drink water (to)@|@atli@
+@drone@|@oquichpipiyolli@
+@drowsy@|@cochmiqui@
+@drugstore@|@pacalli@
+@drunk@|@ihuintic@
+@drunkenness@|@neihuintiliztli@
+@dry cough@|@huaccatlatlaciztli@
+@duck@|@canauhtli (anas sibilatrix)@
+@duck egg@|@canauhtetl@
+@dung ant@|@cuitlazcatl@
+@during the afternoon@|@teotlac@
+@eagle@|@cuauhtli (aquila chrysaetos)@
+@eagle meat@|@cuauhnacatl@
+@ear@|@nacaztli@
+@earth@|@cemanahuactli, cemtalticpac@
+@earth red@|@achiotic@
+@earthquake@|@ollin, techicuacentecac, tlalollin, tzintzincaliztli@
+@easily@|@ayohui@
+@easy@|@ayohui@
+@eat (to)@|@tlacua@
+@edge@|@tentli@
+@egg@|@atetl, totoltetl@
+@eggplant@|@camohtomatl@
+@eight@|@chicueyi@
+@eighteen@|@caxtolli huan yei, caxtolyei@
+@eighty@|@nauhpoalli@
+@either@|@nozo@
+@elbow@|@molictli@
+@elephant@|@elepantli (elephas maximus)@
+@eleven@|@matlacce, matlactli huan ce@
+@elk@|@temazatl (rangifer tarandus)@
+@embark (to)@|@acalaquia@
+@embark on high sea (to)@|@tlaacallaza@
+@enchantment@|@tlacatecolotlahtolli@
+@England@|@Inglatlalpan@
+@English@|@inglatecatl, inglatl@
+@English language@|@inglatlahtolli@
+@enjoice@|@aaquiliztli@
+@enjoice (to)@|@aaqui@
+@enjoy@|@aaquiliztli@
+@enjoy (to)@|@aaqui@
+@esteemed noble person@|@tlazotitlacatl@
+@euro@|@euro@
+@Europe@|@Eutlocpan@
+@European@|@eutlocpatl, eutloctecatl@
+@evening@|@yoalli, yohualli@
+@every@|@ixquich@
+@every day@|@cecemilhuitica, momoztlae@
+@everyone@|@mochitlacatl@
+@everything@|@ixquich, mochi@
+@example@|@tezcatl@
+@excite (to)@|@acomana@
+@excrement@|@cuitlatl@
+@exterior space@|@ilhuicalli@
+@extract (to)@|@copina@
+@eye@|@ixtelolotl, ixtelotli@
+@face@|@ixtli, xayacatl@
+@fail@|@acanoyehui@
+@fair person@|@melahuacatlacatl@
+@falcon@|@tohtli (falco communis)@
+@fall down (to)@|@huetzi@
+@falls (autumn)@|@tlahuetzico, tonalco@
+@false god@|@iztlacateotl@
+@falsehood@|@iztlacatiliztli, iztlacatlatolli@
+@family@|@cenyeliztli@
+@famine@|@apizmiqui@
+@fan@|@aaquetzalli@
+@fan (to)@|@tlaaquetza@
+@far@|@huehca@
+@farewell@|@ma xipatinemi@
+@farm@|@axcatl@
+@farmer@|@millacatl@
+@fast@|@iciuhcan@
+@fast food@|@tlacatlacualli@
+@fasting food@|@tlacatlacualli@
+@fat@|@tomahuac@
+@father@|@tahtli@
+@fathers@|@tahtin@
+@fatigued@|@ciciamicqui@
+@fax@|@faxi@
+@fear (to)@|@imacaci@
+@fearful person@|@mauhcatlacatl@
+@feed (to)@|@tlacua, tlacualtia@
+@feel good (to)@|@mohuelmati@
+@female@|@cihuatic, cihuatl@
+@ferryman@|@acalhuacaquixtini@
+@fetch (to)@|@hualhuica@
+@fever@|@atonahui, comitl@
+@fifteen@|@caxtolli@
+@fifty@|@ompoalomatlactli@
+@fig@|@hicox@
+@finally@|@zatlatzonco@
+@finger@|@mapilli@
+@fingernail@|@iztetl@
+@finish (to)@|@tlami, tlatzopa, tlayacauhqui@
+@fir@|@ozocotl (abies religiosa)@
+@fire@|@tletl@
+@firefly@|@copitl (neotragus pygmaeus), icpitl@
+@firewood@|@tlecuahuitl@
+@firmament@|@ilhuicalpan@
+@firm-fleshed@|@nacatetic@
+@firtly@|@achtopa@
+@firts@|@acattopa, achto@
+@fish@|@michin@
+@fishing@|@michmaliztli@
+@fishing rod@|@acacuextli@
+@five@|@macuilli@
+@flag@|@pantli@
+@flame@|@tletl, tlexiuhtic@
+@flamingo@|@quecholli@
+@flat pan@|@comalli@
+@flay (to)@|@tlaxipehua@
+@flea@|@tecpintli@
+@flee (to)@|@choloa@
+@flesh@|@nacatl@
+@flesh of cattle@|@cuacuauhnacatl@
+@flesh of men@|@tlacanacatl@
+@flesh of pig@|@pitzonacatl@
+@flesh of the ankle@|@quequeyolnacatl@
+@flesh of the calf@|@cotznacatl@
+@flesh of the chest@|@elnacatl@
+@flesh of the face@|@ixnacatl@
+@flesh of the finger@|@mapilnacatl@
+@flesh of the head@|@cuanacatl@
+@flesh of the knee@|@tlancuanacatl@
+@flesh of the leg@|@cotznacatl@
+@flesh of the lips@|@tennacatl@
+@flesh of the navel@|@xicnacatl@
+@flesh of the neck@|@quechnacatl@
+@flesh of the palm of the hand@|@macpalnacatl@
+@flesh of the sole of the foot@|@xocpalnacatl@
+@flesh of the thigh@|@metznacatl@
+@flesh of the toe@|@xopilnacatl@
+@flesh penis@|@nacatepolli@
+@flesh-like@|@nacatic@
+@flower@|@xochitl@
+@flower cord@|@xochimecatl@
+@flower necklace@|@xochicozcatl@
+@flower song@|@xopancuicatl@
+@flute of pan@|@acatlapitzalli@
+@fluted@|@acaltic@
+@fly@|@zayolin (musca domestica), zayolli@
+@fly (to)@|@patlani@
+@follow someone (to)@|@hualtepotztoca@
+@font@|@acaxtontli@
+@food@|@tlacualli@
+@food for the road@|@itacatl@
+@foot@|@xotl@
+@for a while@|@huehcauhtica@
+@for ever@|@cemiac@
+@for some time short@|@huehcauhtica@
+@foreface@|@ixcuaitl@
+@forest@|@cuauhtlan@
+@forgive (to)@|@mopopolhuilia, tlapopolhuia@
+@forward@|@ocachinepan, ocnepan@
+@foundation@|@nelhuayotl@
+@founder (to)@|@tlaacana@
+@fountain@|@ameyalli@
+@four@|@nahui@
+@four reed@|@nahuacatl@
+@fourteen@|@matlacnahui, matlactli huan nahui@
+@fourty@|@ompoalli, ompohualli@
+@France@|@Franzitlan@
+@free (to)@|@momaquixtilia@
+@French@|@franzitecatl, franzitl@
+@French language@|@franzitl, franzitlahtolli@
+@frequently@|@achi miecpa@
+@fresh@|@celic, chipahuac@
+@fresh water@|@chipahuacatl@
+@fresh water prawn@|@acamayatl (penaeus riveti)@
+@friday@|@macuililhuitl@
+@friend@|@icniuhtli@
+@frigate@|@acalli teyaochihuani@
+@frog@|@cueyatl, milcacalatl (rana pipens)@
+@from@|@ihuicpa, in ihuicpa@
+@front animal leg@|@matli@
+@frontier@|@calixcuatl, panohco@
+@fruit@|@cuitlaxocotl, xochicualli@
+@fulfill (to)@|@tlaaxiltia@
+@full bodied@|@nacatic@
+@furious@|@aacqui@
+@furniture@|@nealtimaloyan@
+@galaxy@|@citlalpopocac@
+@garbage@|@tlazolli@
+@garden@|@xochitlan@
+@garland of flowers@|@xochicozcatl@
+@garlic@|@coznacatl (allium sativum)@
+@gather (to)@|@mocentlalia@
+@gay man@|@huilontli, tecuiloni@
+@gentle@|@tlatlacatl@
+@gentle person@|@yamancatlacatl@
+@gentleman@|@tlacatzintli@
+@geography@|@cemanahuactiliztli@
+@German@|@teutontecatl, teutontlacatl, teutotl@
+@German language@|@teutontlahtolli, teutotl@
+@Germany@|@Teutotitlan@
+@get closer (to)@|@maxitia@
+@get dressed (to)@|@motlaquentia@
+@get in!@|@¡ xoncalaqui !@
+@get inside (to)@|@calaqui@
+@get pregnant (to)@|@tlacatilia@
+@get tired (to)@|@ciyahui@
+@get up (to)@|@mehua@
+@girl@|@cihuatontli@
+@give (to)@|@maca, momaquilia@
+@give food (to)@|@tlacualtia@
+@give pleasure (to)@|@pactia@
+@glad@|@aahuiani@
+@gladly@|@ica paquiliztli@
+@gloworm@|@copitl (neotragus pygmaeus), icpitl@
+@glue@|@acatzacuiztli@
+@go down (to)@|@temo@
+@go out (to)@|@hualquiztia, quiza@
+@go to greet someone (to)@|@tlapalotiuh@
+@go up (to)@|@tleco@
+@goat@|@tentli, tentzontli@
+@god@|@teotl@
+@God@|@teocuitlamatemecatl@
+@God father@|@Diotzin, moyocoyani, teyocoyani@
+@god of the heavens@|@ilhuicateotl@
+@gods’ song@|@teocuicatl@
+@gold@|@teocuitlatl, teocuitlatl (Au)@
+@gold arm band@|@teocuitlamatemecatl@
+@gold necklace@|@teocuitlacozcatl@
+@golden@|@teocuitlatic@
+@golden arm band@|@teocuitlamatemecatl@
+@golden bracelet@|@teocuitlamatemecatl@
+@golden necklace@|@teocuitlacozcatl@
+@golf@|@golfiztli@
+@good@|@cualli, cualli ic, huelic, yectli, yectli@
+@good afternoon@|@cualli teotlactin@
+@good bye@|@ane, cualohtli, ichquixca moztla@
+@good evening@|@cualli teotlac, cualli teotlactin, cualli yohualtin@
+@good morning@|@cualli tonally, cualli tonaltin, panolti@
+@good night@|@cualli yohualli, cualli yohualtin@
+@goodness@|@cuallotl@
+@goods@|@yeyectin@
+@goose@|@tlalalacatl (anser anser)@
+@gossip@|@tlacatlahtolli@
+@gossip (to)@|@teaachcui@
+@governor@|@tlahtoani@
+@grab (to)@|@ana@
+@grandfather@|@colli, huehuetahtli@
+@grandfathers@|@coltin@
+@grandmother@|@cihtli, ilamanantli@
+@grandmothers@|@cicihtin@
+@grapefruit@|@hueylalaxtli, hueyxocotl@
+@grapes@|@xocomecatl (vitis uvifera)@
+@grass@|@acaxacahuitztli, zacatontli@
+@grasshopper@|@chapolin@
+@gray@|@nextic@
+@great-grandfather@|@achtontli@
+@green@|@xoxoctic, xoxoctli@
+@green beans@|@exotl@
+@green lizard@|@cuauhcuetzpalin, ozohuitli (iguana iguana)@
+@green stone necklace@|@chalchiuhcozcatl@
+@green tomato@|@miltomatl, tomatl (physalis ixocarpa)@
+@greet (to)@|@tlapaloa@
+@Gregorian calendary@|@tonalpohualquixtiani@
+@grey@|@nextic@
+@grind (to)@|@teci@
+@grinding stone@|@metlatl@
+@grow (to)@|@cueponi@
+@guava@|@chalxocotl, xaxocotl@
+@guava tree@|@xaxocuahuitl@
+@gulf@|@anepantlan@
+@gull@|@atototl@
+@guts@|@cuitlaxcolli@
+@guy@|@telpocatl, telpochtli@
+@hair@|@tzontli@
+@hand@|@maitl@
+@happen an event (to)@|@mochihua@
+@harbour@|@acalquixoayan@
+@hard@|@chicahuac@
+@hard-fleshed@|@nacatetic@
+@hards@|@chicahuaque@
+@hare@|@citli (lepus callotis)@
+@have children (to)@|@tlacachihua@
+@have dinner (to)@|@mocochcayotia@
+@have the need to go to the restroom (to)@|@axixmiqui@
+@He@|@yeh-, yehuatl@
+@head@|@cuaitl, tzontecomatl@
+@healer@|@tepatiani, ticitl@
+@health resort@|@acaxotlan@
+@healthy@|@chicahuac@
+@hear (to)@|@caqui@
+@heart@|@yollotl@
+@heaven@|@ilhuicalpan, ilhuicatl@
+@heavy@|@yetic@
+@heavy fleshed@|@nacateton@
+@heavy rope@|@huepanmecatl@
+@heel@|@chocholli, icxitl@
+@hell@|@tlacanacatl@
+@hello@|@hao, niltze@
+@hells@|@tlatlacatecolo@
+@helmsman@|@acalhueltecani@
+@help (to)@|@palehuia@
+@hen@|@cuanacatl, totolin, totolli (gallus domesticus)@
+@herb@|@xihuitl@
+@here@|@nican@
+@here is@|@izcatqui@
+@heron@|@aztatl (ardea herodias)@
+@hi@|@hao@
+@high@|@aco@
+@highway@|@huei ohtli, hueyohtli, ohtli@
+@Hispanic@|@caxtiltecatl, caxtitl@
+@hispanity@|@caxtilcayotl@
+@honey@|@necuhtli, neuctli@
+@honey ant@|@necuhazcatl@
+@horn@|@cuacuahuitl@
+@horned owl@|@tecolotl (buho virginianus)@
+@horrible@|@temamauhtic@
+@horribles@|@temamauhtique@
+@horse@|@cahuayo, cahuayotl@
+@hospital@|@cocoxcacalli@
+@hot@|@totonqui@
+@hot chocolate@|@xocolatzin@
+@hot water@|@atotonqui@
+@hotel@|@axihuayan@
+@house@|@calli, chantli@
+@how@|@in quenin, quenin@
+@How did it go?@|@¿quenin otimohuicac?@
+@How many?@|@quezqui@
+@How much?@|@quezqui@
+@human@|@tlacatl@
+@human body@|@nacayotl, tonacayotl@
+@human flesh@|@tlacanacatl@
+@human leg@|@icxitl@
+@humble person@|@icnotlacatl@
+@hummingbird@|@huitzilin@
+@hundred@|@macuilpoalli@
+@hunger (to)@|@mayana@
+@hunt (to)@|@ma@
+@hunter@|@amini@
+@hurry (to)@|@tlaacaninotlalia@
+@hurt (to)@|@tonehua@
+@hurt suffer pain (to)@|@cocoa@
+@husband@|@namictli@
+@hut@|@xacalli@
+@I@|@neh-, nehuatl@
+@I had seen you@|@onimitzittacca@
+@I saw you@|@onimitzittac@
+@I’ll see you@|@nimitzittaz@
+@ice@|@cetl, itzcatqui@
+@ice cream@|@cepayolli@
+@ignorant@|@acuayollo@
+@iguana@|@cuauhcuetzpalin, ozohuitli (tenosaura iguana)@
+@immediately@|@zan niman@
+@impetuous person@|@iciuhcatlacatl@
+@in a moment@|@aocmo huecauh@
+@in Aztec language@|@nahuatlahtoltica@
+@in front of someone’s home@|@icalixpan@
+@in Nahuatl@|@nahuatlahtoltica@
+@in Nahuatl language@|@nahuatlahtoltica@
+@in someone’s home@|@ichantzinco@
+@in the cave@|@oztoc@
+@in the firts place@|@acattopa, achtopa@
+@in the mud@|@zoquipan@
+@in the wilderness@|@tepepan@
+@incite (to)@|@acomana@
+@inconsiderate person@|@ilihuiztlacatl@
+@India@|@Indiyan@
+@Indian (native)@|@macehualli@
+@Indian bread@|@tlaxcalli@
+@Indian fig@|@nopalli (opuntia ficus indica@
+@Indian fig (fruit)@|@nochtli@
+@indigent person@|@icnotlacatl@
+@ingeneer@|@cuayolloni@
+@inhuman@|@acualli, atlacatl@
+@inhuman person@|@atlacatl@
+@iniquein@|@these@
+@iniqueon@|@those@
+@initially@|@acattopa@
+@inn@|@axihuayan@
+@inon@|@that@
+@inprudent@|@acanixmauhqui@
+@insanity@|@yollotlahuelilocatiliztli@
+@insecs@|@yolcatzitzintin@
+@insect@|@yolcatzin@
+@inside the house@|@itech calli@
+@inssufficient@|@acanoyehui@
+@insult (to)@|@tlatlacalhuia@
+@inteligent@|@cuayollo@
+@intia@|@if@
+@intoxicated@|@ihuintic@
+@intoxication@|@neihuintiliztli@
+@invite someone (to)@|@panoltia@
+@iris@|@acococo@
+@irrigation ditch@|@acalohtli@
+@island@|@anepantlalpan, tlalhuac@
+@isle@|@anepantlalpan, tlalhuac@
+@Israel@|@Israellan@
+@Israelian@|@israelnecatl, yodiotlacatl, yudiotl@
+@It@|@yeh-, yehuatl@
+@it is written that@|@ihcuilotic@
+@It’s late@|@yeh tlaca, yetiayohuac@
+@It’s necessary@|@inech monequi@
+@It’s night@|@yetiayohuac@
+@It’s said@|@quilmach@
+@It’s said that@|@mihtoa@
+@Italian@|@italotl, italtecatl@
+@Italy@|@Itallan@
+@jaguar@|@ocelotl (panthera onca)@
+@jaguars@|@oocelo@
+@Japan@|@Xapontlan@
+@Japanese@|@xaponecatl, xapotl@
+@jetplane@|@acalpatlani, tepozpatlanqui, tepoztototl@
+@jewel@|@cozcatl@
+@joke (to)@|@camanallahtoa@
+@Jordan@|@xordanecatl, xordaniatl@
+@Jordania@|@Xordantlan@
+@judo@|@xudoliztli@
+@juice@|@(to), ayotl@
+@jungle@|@aahuatlan, ahuacuauhtlan@
+@Jupiter@|@tezcatlipoctli@
+@just a little@|@zan tepitzin@
+@just a moment@|@aocmo huecauh@
+@kayac@|@acalpechtli@
+@kernel@|@elotl@
+@kettledrum@|@teponaztli@
+@kid@|@conetl, conetontli, piltontli@
+@kids@|@cocone, piltontin@
+@kill (to)@|@mictia@
+@king@|@tlahtoani@
+@kingdom@|@tlahtocayotl@
+@kings@|@tlahtoanimeh@
+@kinky hair@|@acopaitztiuhtzontli@
+@kiss (to)@|@tennamiqui@
+@kitchen@|@tlacualcalli, tlacualchihualoyan@
+@knee@|@tlancuaitl@
+@knight@|@calpanpilli@
+@knock down (to)@|@tlaza@
+@know@|@mati@
+@know (to)@|@ixmati@
+@knowledgeable@|@tocatzahualli@
+@Korean@|@coreyanecatl, coreyatl@
+@Korean language@|@coreyantlahtolli, coreyatl@
+@labor (to)@|@tequipanoa@
+@lack (to)@|@acocholoa@
+@lackluster@|@aatenqui@
+@lacklustre@|@aatenqui@
+@lady@|@cihuatlacatzintli, ichpocacihuatl@
+@ladybird@|@micazoyolin@
+@ladybug@|@micazoyolin@
+@lagoon@|@amaitl, amictlan@
+@lake@|@atezcatl@
+@lamb@|@ichcaconetl@
+@land@|@tlalli@
+@language@|@tlahtolli@
+@lapwing (bird)@|@acitli@
+@large earthen vat@|@acomitl@
+@larva@|@tlalomitl@
+@lastly@|@zatlatzonco@
+@Late@|@tleca@
+@later@|@niman, quin tepan, zatepan@
+@Latin (language)@|@latinatl, latintlahtolli@
+@Latino@|@latinatl, latintecatl@
+@leading@|@acamapilli@
+@leaf@|@xihuitl@
+@leave something (to)@|@mocahuilia@
+@Lebanese@|@libanoyatecatl, libanoyatl@
+@Lebanon@|@Libanoyan@
+@leech@|@acuecueyachin@
+@left@|@opoch, opochtli@
+@leg@|@metztli@
+@lemon@|@limoni, xoxocotl@
+@lemon tree@|@limoncuahuitl (citrus limonum@
+@lenght@|@acaltepiton@
+@let sleep (to)@|@cochcahua@
+@liar@|@iztlacatini@
+@liberate (to)@|@momaquixtilia@
+@librery@|@amoxcalli, amoxtlatiloyan@
+@lie@|@iztlacatiliztli, iztlacatlatolli@
+@light@|@tlahuilli@
+@light (no heavy)@|@acocqui@
+@light blue@|@xoxouhtic@
+@light green@|@quilitic@
+@light yellow@|@iztacoztic@
+@like@|@in yuh@
+@like a spiral@|@ilacatziuhqui@
+@like that@|@acantetlanehui@
+@like this@|@yuhquin@
+@lime@|@limaxocotl@
+@lime green@|@tlaxocotic@
+@lime tree@|@limacuahuitl (citrus limetta)@
+@limpid@|@chipahuac@
+@lion (African)@|@molotl (panthera leo)@
+@lip@|@tentli@
+@liquor store@|@ocnamacoyan@
+@little animal@|@yolcatzintli@
+@little more@|@oc achi@
+@live (to)@|@yoli@
+@live at (to)@|@mochantia@
+@live. (to)@|@nemi@
+@Liverpool@|@Liverpol@
+@lizard@|@cuexin@
+@loading platform@|@acalco@
+@lodging@|@axihuayan@
+@log@|@cuahuitl@
+@loincloth@|@maxtlatl@
+@London@|@Londin@
+@look (to)@|@tlachia@
+@look for (to)@|@temoa@
+@looker@|@aacini@
+@lord@|@tecuhtli, tlacatzintli@
+@love@|@tlahzotlaliztli@
+@love (to)@|@tlatlahzotla, tlazohtla@
+@low (to)@|@tlaactica@
+@lunar eclipse@|@metztli icualocatl@
+@macula@|@acantachini@
+@maggot@|@nacaocuilin, nacaocuilli@
+@main drain@|@acoyoctli@
+@main sewer@|@acoyoctli@
+@maize (corn plant)@|@tlayolli (zea mays)@
+@maize plantation@|@tlayoltlan@
+@maize stalk@|@elozacatl@
+@maize straw@|@elozacatl@
+@make (to)@|@chihua@
+@make bread (to)@|@tlaxcalmana@
+@make laugh (to)@|@huetzquitia@
+@make new (to)@|@yancuilia@
+@make soft (to)@|@yemanilia@
+@make someone cry (to)@|@choquiltia@
+@make tortillas (to)@|@tlaxcalchihua@
+@malacate@|@malacatl@
+@male@|@oquichtli@
+@malice@|@acuallotl@
+@man@|@oquichtli, tlacatl@
+@man of the water@|@atlacatl@
+@mango@|@manilatzapotl@
+@mango squash@|@chayotli (Sechium edule)@
+@mansion@|@acocalli@
+@mantle@|@netlaquentiliztli@
+@many@|@miec@
+@map@|@amatohtli@
+@map of the world@|@cemanahuactli machioyotl@
+@maple tree@|@ahuachichitl (acer rubum)@
+@marble@|@achalchihuitl@
+@marine blue@|@poxauhtic@
+@maritim@|@apancayotl@
+@marrow@|@alacatl@
+@marry (to)@|@monamictia@
+@Mars@|@Chichilhuitztli@
+@marten@|@ocotochin, ocotochtli@
+@marten skin@|@ocotochehuatl@
+@marygold@|@tzompanxochitl@
+@mask@|@xayacatl@
+@massage (to)@|@momotzoa@
+@mass-produce (to)@|@tlaai@
+@mast@|@acalcuachpancuahuitl@
+@mat cord@|@petlamecatl@
+@may you be well@|@ma xipatinemi@
+@maybe@|@azo zan, cuix@
+@maybe don’t be@|@acazoyemo@
+@me@|@ni-@
+@meal@|@tlacualli@
+@meat@|@nacatl@
+@meat tamale@|@nacatamalli@
+@medic@|@tepatiani, ticitl@
+@medicine@|@patli@
+@medium yellow@|@cozauhqui, cozauhtic@
+@melon@|@ayotetl (cucumis melo)@
+@men@|@oquichtin, tlacah@
+@meow@|@tlatzomia@
+@merchant@|@pochtecatl@
+@Mercury@|@painaltli@
+@mermaid@|@acihuamichtli@
+@Mexican@|@aztecatl, mexicatl, nahuatl@
+@Mexican dog@|@itzcuintli (canis mexicanus)@
+@Mexican language@|@mexicatlahtolli, nahuatl, nahuatlahtolli@
+@Mexican nightingale@|@centzontli (mimus polyglottos@
+@Mexican pink@|@tlatzalehualtic@
+@mexicanity@|@mexicayotl@
+@Mexicans@|@mexicah@
+@Mexico City@|@Altepetl Mexico, Mexico Tenochtitlan@
+@migration@|@quizaliztli@
+@milk@|@chichihualatl, chichihualayotl@
+@milky way@|@citlalcueyitl, ilhuicapopocac@
+@mineral@|@oztoyotl@
+@mineral water@|@ameyalatl@
+@mirror@|@tezcatl@
+@mirror of the noblemen@|@tecpiltezcatl@
+@mirror of the ruler@|@tlatocatezcatl@
+@mirror-head@|@cuatezcatl@
+@mirror-stone@|@tezcatl@
+@mirrow@|@tezcatl@
+@miserable@|@icnotlacatl@
+@miserable man@|@icnotlacatl@
+@miserable person@|@icnotlacatl@
+@misshapen@|@amocualneci@
+@model@|@tezcatl@
+@monday@|@ceilhuitl@
+@monkey@|@ozomatli (ateles geoffroyi)@
+@monster@|@atlacatl@
+@month@|@metzpohualli, metztli@
+@moon@|@metztli@
+@more@|@oc achi@
+@morning@|@tonalli@
+@morning star@|@tonquitl, tonquitli@
+@mosquito@|@moyotl (anophes maculipensis)@
+@mother@|@nantli@
+@mothers@|@nantin@
+@motorway@|@hueyi ohtli, hueyohtli, ohtli@
+@mountain@|@tepetl@
+@mountain cat@|@ocomiztli (felis silvestris)@
+@mountain lion@|@miztli (felis concolor)@
+@mountain range@|@tepetlan@
+@mountainous region@|@acacalocuauhtlan, tepetlan@
+@mouse@|@quimichin@
+@moustache@|@tentzontli@
+@mouth@|@camactli, camatl@
+@mu lord@|@tecuhtzintli@
+@much@|@huel, miec@
+@mud@|@zoquitl@
+@muddy@|@zoquiyo@
+@museum@|@tlaquitcalli@
+@mushroom@|@nanacatl@
+@music@|@cuicatl@
+@music (art)@|@cuicayotl@
+@my family@|@nocenyeliz@
+@my head@|@notzontecon@
+@my lady@|@amehuatzin@
+@my lord@|@amehuatzin@
+@my majesty@|@amehuatzin@
+@Nahuatl (people)@|@aztecatl, mexicatl, nahuatl, nahuatlacatl@
+@Nahuatl language@|@mexicatlahtolli, nahuatlahtolli@
+@nail@|@iztetl@
+@name@|@tocaitl@
+@nasal mucus@|@yacatolli@
+@nation@|@tlahtocayotl, tlahtocayotl@
+@native language@|@macehualtlahtolli@
+@navigation@|@acalticaneminiliztli@
+@navigator@|@acalticanemini@
+@navy@|@apancayotl@
+@navy blue@|@poxauhtic@
+@nebulous@|@mixcoatl@
+@neck@|@quechtli@
+@neck band@|@cozcatl@
+@necklace@|@cozcatl@
+@need (to)@|@acocholoa@
+@needy person@|@icnotlacatl@
+@nephew@|@machtli@
+@Neptune@|@tlaloctli@
+@nevel@|@xictli@
+@never@|@aic@
+@new@|@yancuic@
+@New Leon@|@Yancuic Leon@
+@New Leonese@|@yancuic leoni@
+@New Mexican@|@tancuic nahuatl, yancuic mexicatl@
+@New Mexico@|@Yancuic Mexico@
+@New Spain@|@Anahuac, Mexico, Yancuic Caxtillan@
+@New York City@|@Manhatitlan@
+@nice@|@yectli@
+@niece@|@cihuamachtli@
+@night@|@yoalli, yohualli, yohualotl@
+@nimble@|@acocqui@
+@nine@|@chicnahui@
+@nineteen@|@caxtolli huan nahui, caxtolnahui@
+@ninety@|@nauhpoalomatlactli@
+@nit@|@acelin, acelli@
+@nitter@|@aceloni@
+@no@|@a-, amo@
+@noble@|@pilli@
+@noble old woman@|@ilamatlacatl@
+@noble person@|@tlacatl@
+@nobles@|@tlahtoque@
+@nod (to)@|@ixcueloa@
+@nonetheless@|@yeceh@
+@north@|@ayamictlan@
+@North Korea@|@Coreyan Ayamictlan@
+@nose@|@yacatl@
+@not@|@a-, amo@
+@not any more@|@aocmo@
+@not but@|@amozan@
+@not yet@|@ayamo@
+@nothing@|@amitla, amotlein@
+@now@|@axcan, nimanic@
+@nowhere@|@acan@
+@number@|@tlapoalli, tlapohualli@
+@nut@|@cacahualotl@
+@obedience@|@tlacamatli@
+@obey (to)@|@tlacamati@
+@obsidian@|@itztli@
+@obsidian chip@|@itztapalcatl@
+@obsidian necklace@|@itzcozcatl@
+@ocean@|@ailhuicatl, hueyatl@
+@octapus@|@atocatl (octappus communis)@
+@of@|@copa, ic, ihuic, ihuicpa, mani@
+@offense@|@tlahtlacolli@
+@offense (to)@|@tlatlacalhuia@
+@oil@|@chiahuicayotl, chiahuitli@
+@OK@|@ca yeh cualli@
+@okey@|@ca yeh cualli@
+@old@|@zolli, zotl@
+@old man@|@huehue, huehuetlacatl@
+@old paper@|@amazolli@
+@old woman@|@ilamatl, ilamatlacatl@
+@old word@|@huehuetlahtolli@
+@older brother@|@tiachcauhtli@
+@older sister@|@hueltiuhtli@
+@olds@|@huehuetque@
+@olimpic@|@olimpiyo@
+@olive nut@|@cuilotl@
+@olive tree@|@cuilocuahuitl (olea europea)@
+@on@|@ipan@
+@on the stove@|@tlecuilco@
+@on top of@|@ipan@
+@once that@|@in oyuh@
+@one@|@ce@
+@one hundred@|@macuilpoalli@
+@one more thing@|@occe tlamantli@
+@one’s name (to)@|@motenehua@
+@onion@|@xonacatl (allium cepa)@
+@only@|@zan@
+@open (to)@|@tlapoa, tlapohua, tlaxapotla@
+@open one’s mouth (to)@|@camachaloa@
+@opuntia@|@nopalli (opuntia ficus indica@
+@or@|@nozo@
+@orange@|@chilcoztic@
+@orange (fruit)@|@lalaxtli@
+@orchid flower@|@acatzahuixochitl@
+@order (to)@|@nahuatia@
+@orphan@|@icnotl, icnotlacatl@
+@ostrich@|@tlacatototl@
+@Otomian song@|@otoncuicatl@
+@otter@|@ahuitotl (myocastor coypus)@
+@overcoat@|@netlaquentiliztli@
+@owl@|@tecolotl@
+@ox@|@cuacuahueyotl (bos taurus)@
+@oyter@|@amatzcalli@
+@Paiute@|@yutatl@
+@palm@|@zoyatl@
+@papaya@|@ochonetli@
+@paper@|@amatl@
+@paradise@|@xochitlalpan@
+@parents@|@tetahnantli@
+@park@|@aahuilpan@
+@parrot@|@alotl (aratinga leucophtalmus@
+@partner@|@icniuhtli@
+@pass (to)@|@nalquiza@
+@pass by (to)@|@nalquiza@
+@passanger by ship (to)@|@acallaneloani@
+@path@|@ohpitzactli@
+@patrimony@|@tlatquitl@
+@PC@|@chiuhpohualhuaztli, PC@
+@peaceful person@|@yocoxcatlacatl@
+@peach@|@yolloxocotl@
+@pear@|@atzapotl@
+@pearl@|@acitlalin, acitlalli@
+@peninsula@|@cemacoltlalpan@
+@penis@|@tepolli@
+@pennant boat@|@acalcuachpamitl@
+@people@|@tlacatl@
+@pepper@|@caxtilchilli (piper nigrum)@
+@pepper bell@|@chiltomatl@
+@perfectly@|@cenquizca@
+@perhaps@|@azo zan@
+@person@|@tlacatl@
+@Peru@|@Incatlan@
+@pestilence@|@temoxtli ehecatl@
+@pharmaceutic man@|@patiani@
+@pharmacy@|@pacalli@
+@pheasant@|@coxolitli@
+@pick up (to)@|@cocui@
+@pie@|@necuhpantzin, tlaoyotlaxacalli@
+@pier@|@acalco@
+@pig@|@pitzotl (porcinus domesticus)@
+@pigeon@|@huilotl@
+@pillar@|@acaxtontli@
+@pine@|@ocotl (pinus communis)@
+@pine flower@|@ocoxochitl@
+@pine grass@|@ocozacatl@
+@pine needle@|@ocozacatl@
+@pineapple@|@matzatli (pinea ananas)@
+@pink@|@tlatalehualtic, xochipaltic@
+@pirate@|@acalteichtecamictini@
+@piss@|@aaxiliztli@
+@planet@|@citlaltzitzimitl@
+@planetarium@|@ilhuicatlayocan@
+@plate@|@caxpechtli@
+@play (to)@|@ahuiltia@
+@please (to)@|@pactia@
+@pleasure song@|@ahuilcuicatl@
+@plum@|@mazaxocotl@
+@Pluto@|@Ahuatetztli@
+@poem@|@in xochitl in cuicatl@
+@poetry@|@in xochitl in cuicatl@
+@polar lights@|@mixcoatl@
+@pole@|@cuahuacatl@
+@pole boat@|@acalcuachpancuahuitl@
+@pollen@|@xochimeyallotl@
+@pollution@|@temauhtiliztli, tlalpopochtli@
+@pomegranate@|@ezxocotl@
+@pond@|@atezcatl@
+@pool@|@acaxitl@
+@pool table@|@acopechpatolli@
+@poor@|@icnotl@
+@poor man@|@icnotlacatl@
+@poor person@|@icnotlacatl@
+@pork@|@pitzonacatl@
+@porpoise@|@acuacuahue (phocoena sinus)@
+@port@|@acaltecoyan@
+@Portugal@|@Portocallan@
+@Portuguese@|@portocaltecatl, portocatl@
+@Portuguese language@|@portocaltlahtolli, portocatl@
+@potato@|@camohtli (solanum tuberosum)@
+@prawn@|@chacalin (penaeus cammarus), chacalli@
+@precious necklace@|@tlazocozcatl@
+@Prehispanic temple@|@teopantli, tzacualli@
+@preserved tejocotes@|@texocotzopellotl@
+@president@|@tlahtoani@
+@pretty@|@yectli@
+@prickly pear@|@nopalli (opuntia robusta)@
+@prickly pear fruit@|@nochtli, tenochtli@
+@priest@|@teopixqui@
+@priests@|@teopixque@
+@prince@|@pilli, piltecuhtli@
+@princess@|@cihuapilli@
+@proa@|@acalyacatl@
+@procreate (to)@|@tlacachihua@
+@producer@|@tlacatini@
+@producer of runners@|@moyacatlazani@
+@progress@|@acoquitzaliztli@
+@progress (to)@|@acoquitza@
+@pronoun@|@achcaitl@
+@provision for war@|@yaoitacatl@
+@provition@|@itacatl@
+@puma@|@miztli (felis concolor)@
+@pumkin@|@ayotli (cucurbita pepo)@
+@pupil@|@tlamachtilli@
+@pupils@|@tlamachtiltin@
+@purchase (to)@|@cohua@
+@pure@|@chipahuac@
+@purple@|@camohpaltic@
+@purple gallinule@|@cuatezcatl@
+@put (to)@|@tlalia@
+@put shoes on (to)@|@mocactia@
+@quail@|@zolin (colinus virginianus)@
+@quail egg@|@zoltetl@
+@quail meat@|@zolnacatl@
+@queen@|@cihuapillahtocatzintli, cihuatlahtoani@
+@queen bee@|@cuauhzayolli, necuhzayolli@
+@quetzal@|@quetzalli, quetzaltototl@
+@quickly@|@iciuhcan@
+@rabbit@|@tochin (oryctolagus cuniculus, tochtli@
+@rabbit meat@|@tochnacatl@
+@rabbit song@|@tochcuicatl@
+@raccoon@|@mapachtli (procyon lotor)@
+@radio@|@radiotl@
+@radio telescope@|@radioilhuicalli@
+@rain@|@quiahuitl, quiyahuitl@
+@rain (to)@|@quiyahui@
+@rainbow@|@cozamalotl@
+@ranch@|@axcatl@
+@rat@|@altepetuzan, xaltuzan@
+@rather long@|@huiacatontli@
+@rattlesnake@|@coacuechtli@
+@reach (to)@|@teaci@
+@read@|@(to)@
+@reader@|@amoxpoani@
+@ready@|@yeh@
+@recently@|@quin axcan@
+@recreate (to)@|@aana@
+@red@|@chichiltic, chiltic@
+@red corn@|@achichilyahuitl@
+@red tomato@|@xitomatl@
+@red wine@|@tlapaloctli@
+@reed@|@acatl@
+@reed flute@|@acatlapitzalli@
+@reed-like@|@acatic@
+@refined@|@chipahuac@
+@refuge@|@axihuayan@
+@regent of ship@|@acalnemachiliani@
+@release (to)@|@maquixtia@
+@repeat (to)@|@tlaai@
+@reservoir@|@acaxitl@
+@reside (to)@|@mochantia@
+@residence@|@acocalli@
+@respond (to)@|@nanquilia@
+@rest (to)@|@mocehuia@
+@restless@|@acatcani@
+@restroom@|@axixcalli@
+@reunite (to)@|@mocentlalia@
+@right@|@huel, yec, yectli@
+@right away@|@nimanic, zan niman@
+@ring@|@cozcatl@
+@river@|@apan, atoyatl@
+@river mosquito@|@acuilotl@
+@river prawn@|@acuitzilli@
+@river shrimp@|@acuitzilli@
+@road@|@chiapopohtli, ohtli@
+@rock@|@tetl, texcalli@
+@Roman Catholic@|@quixtiani, tlalticpacayo, tlalticpaquixtiani@
+@Roman Catholic church@|@tlalticpaquixtianayotl@
+@Rome@|@Roma@
+@rooster@|@caxtotolin (gallus domesticus, caxtotolli@
+@root@|@nelhuayotl@
+@rope@|@mecatl@
+@roughness@|@acualtlahtolli@
+@rub (to)@|@momotzoa@
+@rudder@|@acalimachoni@
+@rudeness@|@acualtlahtolli@
+@rue@|@acuatzin (ruta graveolens)@
+@ruler’s cape@|@tlatocatilmatli@
+@ruler’s word@|@tlatocatlahtolli@
+@rulers of Anahuac@|@anahuacatlatoque@
+@run (to)@|@motlatoa@
+@run away (to)@|@choloa@
+@sacred song@|@teocuicatl@
+@sacrifice@|@tlamanaliztli@
+@sad@|@tlaocoyac@
+@sail@|@acalcuachpantli@
+@sailing (sport)@|@acalpantiliztli@
+@sailor@|@acallachiani, tlaneloqui@
+@salamander@|@axolocuetzpalin@
+@salesperson@|@pochtecatl@
+@salmon pink@|@xochipaltic@
+@salt@|@iztatl@
+@salt cake@|@iztatapalcatl@
+@salt marsh@|@iztaquixlitoyan, iztatlalli@
+@sanctify (to)@|@yectenehua@
+@sanitary@|@axixcalli@
+@saturday@|@chicuaceilhuitl@
+@Saturn@|@Cozcatecuhtli@
+@savage@|@atlacatl@
+@savanna@|@zacatlan@
+@save (to)@|@maquixtia@
+@say@|@ihtoa@
+@scary@|@temamauhtic@
+@scattered@|@tzetzeliuhqui@
+@school@|@nemachtiloyan@
+@science man@|@tocatzahualli@
+@scorpion@|@colotl (buthus occitanus)@
+@scream (to)@|@tzatzi@
+@sea@|@ailhuicatl, hueyiatl@
+@sea iguana@|@topilin, topilli (iguana iguana)@
+@sea lizard@|@topilin, topilli (iguana iguana)@
+@sea otter@|@acoyotl (enhydra lutris)@
+@sea route@|@acalohtli@
+@seal@|@amiztli@
+@seaport@|@acalquixoayan@
+@seashell necklace@|@chipolcozcatl@
+@secret@|@ichtacatlatolli@
+@see (to)@|@itta, tlachia@
+@see cow@|@acuacuahue (phocoena sinus)@
+@seed@|@xinachtli@
+@sell (to)@|@namaca@
+@send (to)@|@titlani@
+@set free (to)@|@maquixtia@
+@seven@|@chicome@
+@seventeen@|@caxtolli huan ome, caxtolome@
+@seventy@|@yempoalomatlactli@
+@shake (to)@|@papatlaca@
+@shampoo@|@amolayotl@
+@shark@|@ocelomichin (corcharios lamia@
+@She@|@yeh-, yehuatl@
+@sheep@|@ichcatl (ovis aries)@
+@ship@|@acalli@
+@ship crew@|@acalli pepexocatihuitztli@
+@ship fleet@|@acalli cemantihuitztli@
+@ship ticket@|@acalpatiotl@
+@shipwreck@|@acallapanaliztli@
+@shipwrecked@|@acallapanani@
+@shiver (to)@|@papatlaca@
+@shoe@|@cactli@
+@shoes@|@cactin@
+@shore@|@anahuatl, axochtli, ayahualolco@
+@short@|@ahuatetztli@
+@shoulder@|@acolli@
+@shoulder blade@|@acolchimatli@
+@shout (to)@|@tzatzi@
+@show@|@machtia@
+@shrimp@|@chacalin (penaeus cammarus), chacalli@
+@sick@|@cocoxqui@
+@signal@|@machiotli@
+@silver@|@iztateocuitlatl (Ag)@
+@silver (colour)@|@iztateocuitlatic@
+@similar@|@acantetlanehui@
+@sing@|@cuicatl@
+@sing (to)@|@cuica@
+@singer@|@cuicani@
+@singing@|@cuicatl@
+@singing (to)@|@cuicoa@
+@sinking@|@actitlazatiliztli@
+@sister@|@hueltiuhtli@
+@sit on (to)@|@motlalia@
+@six@|@chicuace@
+@sixteen@|@caxtolce, caxtolli huan ce@
+@sixty@|@yempoalli, yempohualli@
+@skin@|@cuetlaxtli, ehuatl@
+@skin (to)@|@tlaxipehua@
+@skirt@|@cueitl@
+@skull@|@cuacalaccantli, tzontecomatl, tzontecotl@
+@skunk@|@epatl (mophetis macroaura)@
+@sky@|@ilhuicatl@
+@sleep (to)@|@cochi@
+@sleepy@|@cochmiqui@
+@slip (to)@|@maiahua@
+@slowly@|@ayaxcanyotica@
+@small and long@|@huiacatontli@
+@small animal@|@yolcatzintli@
+@small animals@|@yolcatzitzintin@
+@small insect@|@yolcatontli@
+@small lazard@|@cuexin (sceloporus tenosauria@
+@small reed basket@|@acatanatli@
+@smell bad (to)@|@potoni@
+@smoke@|@poctli@
+@smoke (to)@|@popoca@
+@snail@|@cilin, cilli, cuachalolotl@
+@snake@|@coatl@
+@snatch (to)@|@acitihuetzi@
+@snoring@|@icotocatoc@
+@snow@|@cepayahuitl@
+@snow (to)@|@cepayohui@
+@snow water@|@acetl@
+@soap@|@amolli@
+@sofa@|@tzatzazicpalli@
+@soft@|@celic@
+@solar eclipse@|@tonatiuh icualocatl@
+@solder@|@teyaotlani, yaoquizqui@
+@some@|@achi@
+@somebody@|@aca@
+@someone@|@aca@
+@something@|@achi@
+@something else@|@occe tlamantli@
+@son@|@conetl, pilli@
+@song@|@cuicatl@
+@song of debauchery@|@ahuilcuicatl@
+@song of the sick@|@cococuicatl@
+@song of vice@|@ahuilcuicatl@
+@song with the timbale drum@|@teponazcuicatl@
+@songwriter@|@cuicatlaliani@
+@sour@|@xococ@
+@source@|@ameyalli@
+@south@|@huitztlan@
+@South Africa@|@African Huitztlan@
+@South African@|@africanhuitztlaltecatl@
+@South Korea@|@Coreyan Huitztlan@
+@sow@|@coyametl (porcinus domesticus@
+@sow (to)@|@toca@
+@sow cane tobacco (to)@|@acayoa@
+@sow sugar cane (to)@|@acaixoa@
+@spa@|@acaxotlan@
+@space@|@ilhuicatl@
+@space probe@|@tepozcitlalcalli@
+@Spain@|@Caxtillan@
+@Spaniard@|@caxtiltecatl, caxtiltlacatl, caxtitl@
+@Spanish@|@caxtiltecatl, caxtiltlacatl, caxtitl@
+@Spanish language@|@caxtiltlahtolli, caxtitl@
+@speak (to)@|@tlahtoa@
+@speech@|@tlahtolli@
+@speed up (to)@|@tlaacaninotlalia@
+@spicy@|@cococ@
+@spider@|@tocatl@
+@spider web@|@tzahualli@
+@spiderweb@|@tocatzahualli@
+@spinal column@|@acolchimalli, tepotzotl, tepotzotli@
+@spindle@|@malacatl@
+@spindle whorl@|@malacatl@
+@spine@|@acolchimalli@
+@spinning whorl@|@malacatl@
+@spiraled@|@ilacatztic@
+@spring@|@xopan, xopanitztempan@
+@spring water@|@ameyalatl@
+@springs hot@|@tonalli@
+@squash@|@ayotli (cucurbita pepo)@
+@squeeze (to)@|@patzca@
+@squirrel@|@techalotl (sciurus poliopos)@
+@stalacmite@|@achichipictli@
+@stalactite@|@achichipictli@
+@stand up@|@mehua@
+@stand up (to)@|@moquetza@
+@star@|@citlalin, citlalli@
+@starfish@|@acitlalmichin@
+@start@|@pehua@
+@state@|@tlahtocayotl, tlahtocayotl@
+@steam bath@|@tematzcalli@
+@steppe@|@zacatlan@
+@stern@|@acalcuexcochtli@
+@still@|@oc@
+@stink (to)@|@potoni@
+@stomach@|@ititl, totlatlacuayan@
+@stone@|@tetl@
+@stool@|@icpalli@
+@story@|@zazanilli@
+@stove@|@tlecuilli@
+@straight@|@melahuac@
+@straw@|@zacatl@
+@strawberry@|@chilxocotl (fragaria vasca)@
+@street@|@ohcalli, ohtli@
+@strength@|@chicactli, chicauhtiliztli@
+@strewn@|@tzetzeliuhqui@
+@striate (to)@|@acaloa@
+@striated@|@acaltic@
+@strong@|@chicahuac@
+@stubbornness@|@aquimamatcayotl@
+@such@|@acantetlanehui@
+@suddenly@|@atenemachpan@
+@suffer pain (to)@|@tonehua@
+@sugar@|@chiancacatl@
+@sugar cane@|@acaitetl, ohuatl (sacharum officinarum)@
+@sugar cane plantation@|@acatlan@
+@summer@|@xopan, xopantlan@
+@sun@|@tonatiuh@
+@sunday@|@chicomeilhuitl, domingo, teoilhuitl@
+@sunflower@|@chimalxochitl@
+@sunflower (plant)@|@acahualli (helianthus annuus), chimalacahualli@
+@sunflower plantation@|@acahuallan@
+@sunshine@|@tonamitl@
+@swallow@|@cuicuitzcatl@
+@swallowing@|@acocotli@
+@Sweden@|@Zuecapan@
+@Swedish@|@zuecatecatl, zuecatl@
+@Swedish language@|@zuecatl, zuecatlahtolli@
+@sweep (to)@|@tlachpana@
+@sweet@|@tzopelic@
+@sweet corn@|@elotl, xilotl@
+@sweet pepper@|@chiltomatl@
+@sweet potato@|@tlalcamohtli (ipommea batatas@
+@swim (to)@|@tlamaneloa@
+@swimming pool@|@acaxitl@
+@table@|@acopechtli@
+@tadpole@|@atepocatl@
+@take (to)@|@ana, itqui@
+@take off (to)@|@cocui@
+@take something (to)@|@huica@
+@tale@|@zazanilli@
+@talk (to)@|@ihtoa, tlahtoa@
+@talk with someone (to)@|@notza@
+@talker@|@tlacatlahtoani@
+@tall@|@cuauhtic@
+@tamale@|@tamalli@
+@tanga@|@maxtli@
+@tasty@|@huelic@
+@tea (beverage)@|@xihuatl@
+@teach@|@machtia@
+@teach (to)@|@nemachtia@
+@teacher@|@nemachtiani, temachtiani@
+@teachers@|@temachtianimeh@
+@teeth@|@tlantin@
+@tejocote@|@texocotl@
+@tejocote jam@|@texocotzopellotl@
+@tell (to)@|@ilhuia@
+@tempe@|@canahuacantli@
+@temple@|@teocalli, teopantli@
+@temptation@|@teneyeyecoitiliztli@
+@ten@|@matlactli@
+@tender@|@celic@
+@terrifying@|@temamauhtic, teocuitlamatemecatl@
+@testicle@|@ahuacatl@
+@testimony@|@tlacatlahtolli@
+@thank you@|@tlazohcamati@
+@Thank you@|@tlazohcamati@
+@thanks@|@tlazohcamati@
+@Thanks@|@tlazohcamati@
+@that has branches@|@cuauhmayoh@
+@that’s why@|@ic@
+@the@|@in@
+@the one that@|@in tiein@
+@the one which@|@in tiein@
+@the one who@|@in aquin@
+@the smallest@|@xocoyotl, xocoyotzin@
+@the youngest@|@xocoyotl, xocoyotzin@
+@there@|@ompa@
+@they@|@anehuan-, anehuantin@
+@They@|@yehuan, yehuantin@
+@they (very polite)@|@amehuan-, amehuantin@
+@they say@|@quilmach@
+@thick@|@tomahuac@
+@thick-fleshed@|@nacatilahuac@
+@thin@|@pitzahuac@
+@thin stick@|@acazacatl@
+@thins@|@pitzahuaque@
+@thirsty@|@amiqui@
+@thirteen@|@matlactli huan yei, matlacyei@
+@thirty@|@cempoalomatlactli@
+@this@|@inin@
+@this is it@|@izcatqui@
+@this way@|@yuhquin@
+@thong@|@mecatl@
+@though@|@yeceh@
+@three@|@yei@
+@three winds@|@yehecatl@
+@throat@|@tozquitl@
+@throw oneself (to)@|@momayahui@
+@thursday@|@nauhilhuitl@
+@tick@|@chayoyatl, mazatemitl@
+@time@|@cahuitl@
+@tired@|@ciciamicqui@
+@to be called (to)@|@motenehua@
+@to come closer@|@axitia@
+@to complete (to)@|@tlaaxiltia@
+@to get close@|@axitia@
+@to laugh@|@huetzca@
+@to me@|@nech-@
+@to someone’s home@|@ichantzinco@
+@to us@|@tech-@
+@to you@|@mitz-@
+@toad@|@tamazolin, tamazolli (bufo vulgaris)@
+@tobacco@|@yetl@
+@today@|@ilhuitl@
+@toe@|@xopilli@
+@toesday@|@omeilhuitl@
+@Toltec@|@toltecatl@
+@tomato@|@tomatl@
+@tomorrow@|@moztla@
+@tongue@|@nenepilli@
+@too@|@nohuican, noihuan, noyuhqui@
+@tooth@|@tlantli@
+@torch for singing@|@cuicatlahuilli@
+@tortilla (Mexican bread)@|@tlaxcalli@
+@tortoise@|@ayotl@
+@touch (to)@|@aaci@
+@tough@|@chicahuac@
+@town@|@altepetl@
+@toy@|@ahahuilli, ahuitzonxoloni, xolotl@
+@track (path)@|@ohpitzactli@
+@tradition@|@huehuetlahtolli@
+@trail@|@ohtli@
+@tranquil person@|@matcatlacatl@
+@transform oneself (to)@|@mocuepa@
+@travel ration@|@itacatl@
+@tree@|@cuahuitl@
+@tree ant@|@cuauhazcatl@
+@tree cotton@|@cuauhichcatl@
+@tremble (to)@|@papatlaca@
+@trench@|@acopinalli@
+@tribe@|@calpolli@
+@triumph (to)@|@nicpehua, teaaci@
+@tropical forest@|@ahuacuauhtlan@
+@trot@|@aactiliztli@
+@trot (to)@|@aactia@
+@troublemaker@|@acomanani@
+@trout@|@atoyamichin, xohuilin, xohuilli@
+@Turkey@|@Turquitlan@
+@turkey hen@|@cihuatotolin@
+@turkey meat@|@totolnacatl@
+@Turkish@|@turquiatl, turquitecatl@
+@Turkish language@|@tuquitlahtolli, turquiatl@
+@turn into (to)@|@mochihua, mocuepa@
+@turquoise (colour)@|@xiuhtic@
+@turquoise serpent mask@|@xiuhcoaxayacatl@
+@turtle@|@ayotl@
+@tutor@|@temachtiani@
+@twelve@|@matlacome, matlactli huan ome@
+@twenty@|@cempoalli, cempohualli@
+@twisted@|@ilacatziuhqui@
+@two@|@ome@
+@ugly@|@amocualneci@
+@ugly mirror@|@tlaeltezcatl@
+@UK@|@(Tlahtocayotl in Cepanca), Inglatlalpan@
+@uncle@|@tlahtli@
+@uncultured@|@acuayollo@
+@underpants@|@maxtli@
+@understand (to)@|@acicamati, yeccaqui@
+@understood@|@acicamatilli@
+@underwear for man@|@maxtlatl, maxtli@
+@undeveloped@|@tzotzocatic@
+@uneducated@|@acuayollo@
+@United Kingdom@|@(Tlahtocayotl in Cepanca), Inglatlalpan@
+@universe@|@cemanahuac, cemanahuatl@
+@university@|@telpochcalli@
+@unstick (to)@|@cocui@
+@up@|@aco@
+@up (to)@|@acohui@
+@up-bringing@|@izcatiloni@
+@uproar@|@acomanaliztli@
+@Uranus@|@Tetzcantzontli@
+@urinate by fear (to)@|@aaxixa@
+@urine@|@axiliztli@
+@us@|@ti-@
+@Utah (state)@|@Yutan@
+@Utan@|@yutatl@
+@Ute@|@yutatl@
+@valley@|@ixtlahuac, tepetzalan@
+@vat@|@acomitl@
+@vegetable pear@|@chayotli (Sechium edule)@
+@veined marble@|@achalchihuitl@
+@venison@|@mazanacatl@
+@Venus@|@Tonquitl, Tonquitli@
+@vermilion@|@tlatlauhtic@
+@vermillion flycatcher@|@tlapaltototl@
+@very@|@cenca@
+@very early@|@oc yohuatzinco@
+@very poor person@|@icnotlacatzintli@
+@very well@|@cenca cualli@
+@vessel@|@acalli@
+@video@|@videotl@
+@vigil song@|@tozozcuicatl@
+@vigilant ship@|@acalpixqui@
+@violet (colour)@|@poxtic@
+@violin@|@violin, violli@
+@volcano@|@tletepetl@
+@vulgarity@|@acualtlahtolli@
+@waist@|@topitzahuayan@
+@wait (to)@|@chia@
+@wake@|@acochiliztli@
+@walk (to)@|@nenemi@
+@want (to)@|@nequi@
+@war@|@yaoyotl@
+@warlock@|@nahualli@
+@warrior@|@teyaochihuani, teyaotlani@
+@was@|@catca@
+@wash (to)@|@paca, papaca@
+@wash one’s hands (to)@|@momatequia@
+@wash one’s mouth (to)@|@camapaca@
+@wasp@|@etzatl (vespa vulgaris)@
+@waste@|@tlazolli@
+@water@|@atl@
+@water fly@|@axayacatl@
+@water gen@|@acitotolin@
+@water quail@|@azolin@
+@water snake@|@acoatl@
+@water squirrel@|@ahuitzotl@
+@watermelon@|@hueleyatl@
+@wave@|@acueyotl@
+@way@|@ohtli@
+@we@|@tech-, tehuan-, tehuantin@
+@we have arrived@|@otiacicoh@
+@we need@|@totech monequi@
+@wednesday@|@yeilhuitl@
+@weed@|@acahuatl@
+@week@|@cemanilhuitl@
+@weekend@|@huehca cemanilhuitl@
+@weep (to)@|@choca, choquilia@
+@well@|@cualli, huel@
+@were@|@catca@
+@wet@|@paltic@
+@whale@|@hueymichin@
+@wharf@|@acalco@
+@what@|@tlein@
+@what kind@|@quenamicatzintli@
+@what sort@|@quenamicatzintli@
+@when@|@ihcuac@
+@When@|@itquin@
+@where@|@campa, canin, in canin@
+@while@|@ihcuac, in oquic@
+@whiskers@|@tentli@
+@white@|@iztac, iztatic@
+@white (clean)@|@chipahuac@
+@white fir@|@acxoyatl (pinus lambertiana)@
+@white wine@|@iztaoctli@
+@whiten (to)@|@iztalia@
+@who@|@aquin@
+@whos@|@aquique@
+@Why@|@tleica@
+@Why not?@|@¿tle inic amo?@
+@Why?@|@¿tle ipampa?, ¿tleca?@
+@wickedness@|@acuallotl@
+@wife@|@namictli, zohuatl@
+@wild beast@|@tecuani@
+@wild beast flesh@|@tecuannacatl@
+@wild boar@|@coyametl, cuapitzotl (pecari tajacum)@
+@wild grass@|@acacahuaztli@
+@wild turkey@|@palachtli@
+@will@|@tlanequiliztli@
+@willpower@|@tlanequiliztli@
+@win (to)@|@nicpehua@
+@wind@|@ehecatl@
+@window@|@tlachialoyan, tlanexillotl@
+@windsurf table@|@acalpantli@
+@windy place@|@ehecatlan@
+@wine@|@octli@
+@wineyard@|@xocomecamilli, xocomecamilpan@
+@winter@|@tlaceceyan@
+@wisdom@|@tlamatini@
+@wise one@|@toltecatl@
+@wise person@|@tlamatini@
+@wish (to)@|@eiehuia@
+@witch@|@cihuanahualli@
+@with@|@ica@
+@with me@|@nohuan@
+@wives@|@zohuah@
+@wizard@|@nahualli@
+@wolf@|@cuetlachtli, nexcoyotl (canis lupus)@
+@woman@|@cihuatl@
+@women@|@cihuah@
+@women’s song@|@cihuacuicatl@
+@wonderful@|@teotl@
+@wonderfully@|@hueitlamahuizoltica@
+@wood@|@cuahuitl@
+@wood (forest)@|@cuauhtlan@
+@woodlouse@|@nochiztli (caccus cacti)@
+@woodsman@|@cuauhtlacatl@
+@word@|@tlahtolli@
+@words of wizardry@|@tlacatecolotlahtolli@
+@work (to)@|@tequipanoa@
+@work of the devil@|@tlacatecoloyotl@
+@world@|@cemanahuatl, cemtlalticpac@
+@worm@|@ocuilin, ocuilli@
+@worry (to)@|@tequipachoa@
+@wrist band@|@matemecatl@
+@write (to)@|@ihcuiloa@
+@wrong@|@acualli, amo cualli@
+@xylophone@|@cuicacuauhhuehuetl@
+@year@|@xihuitl, xihuitl@
+@yellow@|@coztic@
+@yellow spoom@|@atoyaxocotl (spondias mombin)@
+@yes@|@quemah@
+@yesterday@|@yalhua@
+@yet@|@oc@
+@yogurt@|@xocochichihualayotl, xocoqui@
+@yolk@|@atecoztic@
+@yonger brother@|@teicauhtli@
+@you@|@mitz-, teh-, tehuatl@
+@you (prefix)@|@ti-@
+@you (very polite)@|@ameh-, amehuan@
+@young man@|@telpocatl, telpochtli@
+@young men@|@telpopochtin@
+@young turkey@|@alatl (gallopavus dosmesticus@
+@young woman@|@ichpocatontli, ichpochtli@
+@young women@|@ichpopochtin@
+@younger sister@|@cihuatemini@
+@zapote (Mexican fruit)@|@tzapotl@
+@zebra@|@ocelocahuayotl@
+@zero@|@amopohualli, xictli@
+@zucchini@|@ayoconetl@
+

@@ -1,0 +1,742 @@
+@English@|@Kott@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a k. of berry@|@šulpan, šulpán, šulpi@
+@a k. of duck@|@aganga, agangan, akänga, althax, fur, fur, phur, phur@
+@a k. of duck (1)@|@althagan, althakng@
+@a k. of fish@|@thatn, thit@
+@a k. of salmon@|@pat, patn@
+@a k. of wood grouse@|@hupan, hupi@
+@a small inset@|@dera, derán, detn, dira, dirä, direi, ditn@
+@above@|@ujal@
+@acroos@|@thëta@
+@alive@|@éditu, ëtang, ëti, ëtï, etutu@
+@angry@|@haipicháng@
+@animal hole@|@kurup@
+@ankle-bone@|@kächoga@
+@ant@|@althïtekan@
+@arm@|@kenar@
+@arrow@|@hatagëm, khem, tem, tym, xamang, xem@
+@ashes@|@fenang, fenangan, finang, funang, phenang@
+@at home@|@hüchapeang@
+@aunt@|@häja, häjan, häjei@
+@autumn@|@höran, hörang, höri, hörï@
+@away@|@üša, ušfe, ušfoattang, ušpe, ušpoattang@
+@awl@|@tüt, tütn@
+@back@|@hapar, hapar, haparang, kogar, xabar@
+@backwards@|@šuga, šúka, šúxa@
+@backwater@|@hautan, hautu@
+@badger@|@haš@
+@barking@|@cham, chamáng@
+@bat@|@tagalá, tagála@
+@bathing@|@ul-šui@
+@be born@|@anigej, anigejang@
+@bear@|@šajang@
+@beard@|@gulub, halüp, halupang, hulup, hulüpang, xlup, xulup, xulüp@
+@bearing@|@anagejang, anei, šigei@
+@beater of the shaman drum@|@faitung, faitungán, phaitung@
+@beaver@|@uršä, urše@
+@beetle@|@xon@
+@behind@|@tugalin@
+@being there@|@ínej, ïng, ínij@
+@bellow@|@ïtal@
+@belly@|@thalok, thalox, tulók@
+@below@|@ganala, hänal, thegal, thegalchang, thigal@
+@belt@|@hïtakng, hïtëg, hïtëx, thakng, thég, théx, xitej@
+@bench@|@jáfolang@
+@bent@|@fiafui, phiafui@
+@berry@|@chamar šulpi, fi, figan, figang, phi, šulpi@
+@big@|@fachä, pacha, páchaga, phachä@
+@big mountain@|@pachai, pachaji, zii@
+@bind@|@öngang@
+@birch@|@üca, ücan, ucha, ycha@
+@birch bark@|@qy'j@
+@bird@|@nenašili@
+@bitch@|@penga-alchip@
+@black@|@thum@
+@blackly@|@tuma@
+@blood@|@šur, šürang@
+@blow@|@bafujang@
+@blue@|@urekbas@
+@bluely@|@šuenga@
+@board@|@däfal, däfalang, däfol, däful@
+@boat@|@khep, xajp, xapang, xep, xëp@
+@body@|@hitag, hitagan, hitax@
+@bone@|@arang, arangan, qagal, xagal, xakal@
+@bow-string@|@gijtu, the, thekng, thi, thikng@
+@boy@|@jali@
+@brain@|@-nang, kö-nang, kö-nang@
+@branch@|@ogán, ogé, öge, ogei, okan, öke@
+@breast@|@fa, fai, fajikng, pa, pha@
+@bred@|@harai, herai@
+@broad@|@qïl@
+@brook@|@šëtög, šëtögan, šëtök, šëtökan, šëtökng@
+@brother@|@pop-, popëš@
+@brother-in-law@|@pateg@
+@bubble@|@üluk@
+@burning coal@|@kuvulán@
+@butter@|@kir@
+@by foot@|@bulang@
+@by the side of@|@ulai@
+@calling@|@ache, achi@
+@catching@|@achang@
+@cedar@|@fei, fen, pei@
+@cheap@|@thui, tujga@
+@cheeks@|@hol, höl, hólan, hölang, punchola@
+@child@|@dakat, dal@
+@children@|@kat@
+@chin@|@pinj'ólan, púnchol, púnj'ol@
+@clay@|@tagar, thagar, thu, tu@
+@cleaning@|@ši-pi@
+@clear@|@fur, phur@
+@clever@|@anangaja@
+@clothes@|@gej, hei, hëi, hëjang@
+@clothing@|@toragen@
+@cloud@|@ašpar, ašparang, ašpor, ašpórang@
+@coal@|@hupöi, hupöjang@
+@coat@|@hejang@
+@cold@|@chal, chalá, chálang, chaltu, choltu, choltui@
+@coldly@|@ciltu@
+@collar@|@-tanang, agantán, agántan@
+@comb@|@thun, thunang@
+@come here@|@ota@
+@coming from upstream@|@ty@
+@copper@|@šur@
+@cough@|@hatam, hatamang@
+@cow@|@thi'ä, thigä, thigän, thikng, tyg, tyk@
+@cradle@|@ajan, ui@
+@crane@|@imi, kurïragan, kurïrakng, kurïrax@
+@creek@|@hütn, hütnang@
+@crooked@|@kamur@
+@crookedly@|@kamura@
+@cross-bow@|@hï, hii, hijan, hïjang, huj, xii@
+@crow@|@hïla@
+@crucian@|@šat, šatan, šatn@
+@crust on snow@|@šag, šak, šax@
+@cunning@|@aru@
+@cunnus@|@kar@
+@dandruff@|@fin, finang, fini@
+@dark@|@hön@
+@darkly@|@hontu, xóna, xonšu@
+@daughter@|@fun, fünan, pun@
+@daughter-in-law@|@anan, aneä, aneä, anëgan, annëan@
+@dawn@|@knik@
+@day@|@eäkng, i, ïg, ïx, y@
+@dead@|@anxa, exá, hou, onka, onxa, onxa, onxajang@
+@death@|@kha, onxa, xa, xajikng@
+@deception@|@arupi@
+@deer@|@hui, huj, huján, kója@
+@defecate@|@faguäkng@
+@depth@|@fozbag@
+@dew@|@uran, urán, uranang@
+@direct@|@thát-ógan, thatá déginang, thateng átha@
+@dirt@|@fago, phago, taran@
+@dish@|@ham, hama, hämang@
+@dividing@|@tak, tax@
+@dog@|@alchip, alšáp, alšip@
+@door@|@athol, athöl, athölang, atol, átöl, atül@
+@down@|@häna@
+@downwards@|@thïga@
+@dream@|@chagal, šame@
+@drink@|@ulabungái, ulapungai@
+@drinking@|@alchep@
+@drive@|@danche, donage, dönajang@
+@dry@|@hujtu, šïgal, xújga@
+@drying@|@šïgalaichei@
+@duck@|@patn, pin, pyn@
+@dung@|@fögan, fogar, fök, fökan, föx, ohög, phogar, phök@
+@durch@|@oš@
+@eagle@|@tagá, tagé, take, takng@
+@eagle-owl@|@kénga-fuj@
+@earlier@|@ögai@
+@earth@|@pak, pan, pang@
+@eat@|@grajalí, rajalí, töpäkng@
+@eating@|@töp@
+@eel@|@hol-pei@
+@elbow@|@kenar-xatken@
+@elk@|@köja@
+@elsewhere@|@pegai, pëgai@
+@empty@|@hui@
+@enough@|@šëp@
+@ermine@|@hulup, hulupán, xulup@
+@even@|@ülan@
+@evening@|@pichiga, pij'iga, pïš@
+@exactly@|@höpal@
+@expelling@|@dax, thalche, thëlujang@
+@extinguishing@|@šifi@
+@eye@|@teš, tiš, tïš@
+@face@|@farpag, farpagan, farpax, hóhuj, pichal, pichalang@
+@fanthon@|@hen, hënang@
+@far@|@pil, pïl, pilä@
+@fastening@|@da'ut@
+@fat@|@fäle, fäli, kïr, kïrang, phäli@
+@father@|@öan, ob, öb, op, öp, öpang@
+@fatly@|@karatu@
+@feather@|@ichan, ichang, iche, ichi, ichï@
+@feeding@|@herajang@
+@feet@|@puláng@
+@felt@|@hatal@
+@female@|@feng, pheng@
+@field@|@hïp-ëg, hïpëang, hïpëx@
+@finger@|@thog, thogan, thogei, thogi, thok, thox@
+@fir@|@tunu@
+@fir tree@|@tin, tïnangan, tini, tïni, tïní@
+@fire@|@hat, hatan, hati, het, xat@
+@firewood@|@ak@
+@fish@|@teg, tëg, tëgan, tëx, tyg, tyk@
+@fish scales@|@ëchang, ëchi@
+@fisher net@|@fukng, fung, pun@
+@fishing rod@|@tupunang, tupung@
+@fist@|@hangkan, hankanang@
+@five@|@géjang, kega, kejche, khëga, qaga, xëga@
+@flaying@|@thax@
+@flea@|@imgara@
+@flour@|@uxei, uxëi@
+@flower@|@ešalyky-tan@
+@foam@|@hapar, haparang, hapur@
+@fog@|@tipar, tïpar@
+@food@|@raj@
+@foot@|@pul, pulang@
+@foot sole@|@hachar, hacharang@
+@footwear@|@gechan@
+@forehead@|@pichal@
+@forgetfulness@|@ënšekng, enuaiše, enunguiše@
+@forging@|@afu@
+@four@|@šagä, šega, šëgä, šegang, šeggiang, šejche@
+@fox@|@agan, ägan, aganan, ägatn, šumarch-ögana@
+@free@|@ipal, ïpal@
+@fright@|@amalang@
+@from a different side@|@fulit, phulit@
+@from here@|@in-chang@
+@fur from reindeer's legs@|@šatang, šët@
+@ghost@|@ul-is, ulise, ulisi, ulisin@
+@girdling@|@fatax@
+@girl@|@alit-äli, daleä@
+@go away@|@ijang@
+@go give@|@hilen, hilipënang, hipënang@
+@goat@|@eg@
+@going in@|@hichak, huchax@
+@good@|@hag-ši@
+@goose@|@camii, šaman, šame, šáme@
+@grand-daughter@|@alitpuga@
+@grandson@|@puga@
+@grass@|@keri, tönaful, tönapul, tönapulang@
+@grave@|@ol, ölang@
+@green@|@oreäk, ureäk@
+@ground@|@šu@
+@grouse@|@šu, šuá, šuan@
+@guest@|@chang@
+@guilty@|@aske, askei, askejing, aski, askijang. askö@
+@hail@|@kójbaten, kojpat, kójpat@
+@hair@|@ëk, ëkán, ëkng, hengai@
+@half@|@halap, halapang, šúšig@
+@hammer@|@ful, fülang, phul, phülang@
+@hand@|@kë'är, këgar@
+@hard@|@šagar@
+@hardly@|@šakaryga@
+@hare@|@pachan, peš@
+@harrier@|@hïgar@
+@hat@|@te, tei, tekng, ti, tï@
+@haunch@|@anar, ánar@
+@he@|@bari@
+@he stands@|@jatýkendon@
+@head@|@tagai, takai@
+@healthy@|@apang@
+@hearing@|@atpi@
+@heavily@|@šïkng, šuoga@
+@heel@|@-'ichan, šuga'ichi, šukaichi@
+@here@|@ini@
+@herself@|@minta@
+@hewing@|@agat@
+@hill@|@amar@
+@himself@|@mintu@
+@hip@|@pul-gatken@
+@hoar-frost@|@theang, theäng, theängan@
+@hole@|@huk, hünáng@
+@hoof@|@halchig, halchikng, halchix, xalchik@
+@hook@|@šúlán, šúlang, šúle, šúli@
+@hoop@|@thápora, thápotn, thápura, thápuran, thápurán, tháputn@
+@horn@|@hau, hau'i, hökng@
+@hornet@|@pachem@
+@horse@|@guš, huchan, huš, pen-kuš, penguš@
+@hot@|@fal, palá, paltu, pfóltu, phal@
+@hotness@|@pala@
+@house@|@hush, xysh@
+@how much@|@bilipei, bilipëi@
+@hundred@|@alchin-tamši, alchin-tamšu, alt-tamši, aštamše@
+@hunger@|@kajante@
+@hungry@|@kajajnan, kajauinan@
+@hurry@|@hichïn@
+@husband@|@had-kip, hatkït, hatkïtn@
+@husk@|@tagechen@
+@I@|@ai, aj, ajong, ja@
+@I am lying down@|@itenang@
+@I beat@|@elota@
+@I become@|@d-äja-ng@
+@I buy@|@xapitan@
+@I condone@|@tarababa@
+@I cut@|@tonoopatyk@
+@I dress myself@|@dašiang@
+@I forget@|@enoši@
+@I know@|@ngäliga@
+@I laugh@|@chakaigán, chakälche, chakälchi, chakölajang@
+@I press@|@hachapitang@
+@I rub it@|@bachengang@
+@I see@|@thangang@
+@I sell@|@xabak@
+@I shall enter@|@dächokng@
+@I shall overtake@|@thachapilang@
+@I shall pour@|@at-p-akng@
+@I shoot@|@fotekng@
+@I sleep@|@alat, alatan, alatang, dagat@
+@I stand@|@dachakngang, játyken@
+@I stick into@|@barttajang@
+@I tear out@|@döšiang@
+@I think@|@angajak@
+@I turn round@|@ikajang@
+@I wait@|@bafot, baot@
+@I weep@|@echen, jacheenon@
+@ice hole@|@ulapthai, ulapthäi, ulapthäjang@
+@if@|@šum@
+@illness@|@hö, xou@
+@in front@|@ogaj-bónga@
+@in vain@|@üt-pang@
+@inside@|@fui, füi, füjang, phui@
+@intestine thin@|@thutul, thutulang, thutuli@
+@intestines@|@tululáng, tutula@
+@iron@|@thip, thipang, tip@
+@iron nail@|@išthip, išthipang@
+@is heard@|@höti@
+@is white@|@tekam@
+@island@|@hau-, hau-tu@
+@it is heard@|@atpoa@
+@jump@|@tox@
+@jumping@|@altok, altökng, tökng@
+@kidney@|@koipala, koipalei, koipatn@
+@killing@|@okchex, oxchex@
+@knee@|@aran-šan@
+@knife@|@ton@
+@lake@|@oltegan, ürtakng, urtég, ürtëg, urtek, ürtëx@
+@larch@|@chet, šat, šet, šët@
+@lashing@|@anathi, anathijang, anthi, athijang, dathi@
+@laugh@|@chake@
+@leaf@|@dipang, dipi, dipï, gipan, iban, jipán@
+@learning@|@šitäti@
+@left@|@thul@
+@leg@|@pul@
+@legs@|@pulan, puláng@
+@light@|@kining, kinïx, linïgän, taganang, takantu, tegan, tekán, tyganá@
+@lightning@|@kanan-a žujban, kanan-ichiban, kananggichiban, kanángichibàn@
+@linx@|@šumurch-ögana, šumurch-ögatn@
+@lip@|@dan, dán, dánang@
+@lips@|@anag@
+@little@|@imirangága, imyrangága@
+@live@|@alaujang, alek, jan@
+@liver@|@šichil@
+@log@|@pëg, pëx@
+@long@|@ui, ujga@
+@look there@|@hätola@
+@louse@|@ikáng, iki@
+@low@|@hánala, tugiga, túgiga@
+@lungs@|@šichátang, šichátn, šišatyn@
+@lying on one's face@|@hïpa@
+@make@|@bapajang@
+@male@|@ig, igíg@
+@male dog@|@alšip, iga-alchip@
+@male of a wild goat@|@pién-ki@
+@man@|@fan, fï, fïa, het, hit, hyt, il-it, pijal, xit@
+@many@|@pajang@
+@meadow@|@ögang, öx@
+@meat@|@ich, ïchang, ichi, ïchi@
+@metatarsus@|@pulpatap@
+@midday@|@al-ïg, al-ïx@
+@middle@|@haptu, tagar-fui@
+@midge@|@althïtega, althïtegan, althiteka, šun@
+@midnight@|@šúšig@
+@milk soup@|@uk, ukan@
+@milled boot@|@hëchang, hëchi@
+@mitten@|@pagan, pagang@
+@month@|@chuj, cuj, šuj@
+@moon@|@qi:n, qïp, šui, šüjang@
+@mosquito@|@-langan, ëmpul, šui, šun, ujampolangan, ujampolo, ujempol, ujempolang, ujempul, ujempulang, ujompal@
+@moss@|@digen@
+@mother@|@ama, áma, aman, ami@
+@mountain@|@dï, dïan, gijlin, ij, jii, khei, khëlëx, xei, xëjang, xëlëtn, xëlëx@
+@mountain valley@|@uruk@
+@mouse@|@duta, düta, dütä, dütn, juda@
+@mouth@|@höpang, höpi, xoboj@
+@mushroom@|@uchaptanang, uchaptar, uchatapitaran@
+@my@|@m-inšo@
+@naked@|@ol, öl, thapalö@
+@name@|@eäkng, ekng, ïkng, ix, ïx@
+@narrow@|@tháge@
+@near@|@ïmang, imanga@
+@neck@|@fuimur, phuimur, phuimurang@
+@needle@|@in, ïn, inang, ïnang@
+@nephew@|@fu, fuan, phu@
+@nest on earth@|@gachaj, hachej, hachejang@
+@new@|@ki@
+@niece@|@alippugi, alït fua, alït phua@
+@night@|@šang, šig, šïg, šïx@
+@nipple@|@tanang, ten@
+@nit@|@doga@
+@nomadizing@|@a-ith-ox@
+@nose@|@ang, äng, ängán, ängi, ängie@
+@not@|@mon, mön@
+@not long ago@|@hönang@
+@not loud@|@un@
+@now@|@eanga@
+@nut@|@im, ïm, ïman, ïmang@
+@once@|@alšin@
+@one@|@hucha, xanchi-xit@
+@oneself@|@mintiäng@
+@opening@|@ušfauk, ušpauk@
+@orphan@|@paš-üp-še@
+@other@|@pei, pëi@
+@otter@|@thé'är, thégär@
+@outside@|@hili@
+@owl@|@hikei-še, hikei-ši, kéngafuj@
+@paint@|@suk@
+@palm of hand@|@fatap, fatapang, phatap@
+@penis@|@puš@
+@people@|@cheang, cheäng, cheängan@
+@perch@|@tua, túga, tugan@
+@pike@|@guja, húja, hüja, hüjä, hükng@
+@pine@|@ei, ej, en@
+@plait@|@šugai, šukai@
+@pole of the tent@|@hagïnangan, hagine, hagïni@
+@price@|@këjang, ki@
+@prince@|@hii, hïjan, hïje, hïji, hïkng, hu, huj@
+@prohibitive particle@|@bö@
+@pulling@|@šipu@
+@pus@|@takng@
+@putting to bed@|@ucha, utcha@
+@quickly@|@harä@
+@rain@|@ur, ür, ürang, uraš, urax, urthekng@
+@rainy@|@üra@
+@reading@|@kachei@
+@red@|@šur, šurama@
+@releasing@|@anšët, onšëtang, šichët@
+@resin@|@chïk, chïkan@
+@returning@|@kai@
+@rib@|@ulái, ulajang@
+@ride on horse@|@anu, uijang, ujáha@
+@right@|@pagai@
+@river@|@kang, kem, šati, šati, sating, šet, šët, šët, šétagai, xángen-by@
+@road@|@hek, hik@
+@rock@|@chingjan@
+@roe@|@ánang, änu, danan@
+@root@|@ichichan, thempul, thémpul, thépulang, tybúl@
+@root (1)@|@kempala, tujbúl@
+@rotten@|@age, ake, bar-ak, thalaga@
+@rotten wood@|@thalagan, thalak, thalakng, thalax@
+@rough cloth@|@tarei, tarëi@
+@round@|@ëper@
+@rowing@|@šigiš@
+@rubbing@|@thaläkït, thalakïtang, thalkït@
+@running@|@chag-anthak@
+@rust@|@šurakng@
+@sable@|@ija, íja, yja@
+@sack@|@falanch-ag, falanch-ak, falanchagan, falanchkng@
+@saddle@|@ägatal, ägatálang, atakal@
+@saliva@|@tuk@
+@salt@|@-chëtang, ci-nžet, ši-nchët, šincet, tinžet@
+@sand@|@thagan, thakan@
+@scraping@|@šicher@
+@searching@|@sigit@
+@secret@|@ütö@
+@seeing@|@thang@
+@sending@|@thax@
+@separate@|@palakng@
+@servant@|@harangat, haranget, xáranget@
+@sewing@|@falanche@
+@shaking@|@šitar@
+@shaman@|@šënang@
+@shaman's drum@|@fëchang, feš, pheš@
+@sharp@|@ëtang, ëti, ëtï@
+@sharp edge@|@šal, šalang, šálang, šali@
+@shoe@|@hen-chrang@
+@shooting@|@het-cha, hit-cha@
+@shore@|@pangutu@
+@short@|@thüki@
+@shoulder@|@xenar@
+@shoulder blade@|@achar@
+@shoulder joint@|@hënar, hënarang, hinar@
+@shouting@|@hujei@
+@shovel@|@kulep, kulëp, kulëpang@
+@side@|@ulär@
+@sinew@|@tal, tálang@
+@sister@|@popëcha@
+@sister-in-law@|@patega, pategapun@
+@sitting@|@ung@
+@sky@|@ëchán, eš, ëš@
+@slave@|@aryn-gyt@
+@sleeve@|@haipanang, haipen@
+@sleigh@|@funchálang, funchol, phunchol@
+@small@|@imgara@
+@small bird@|@altumä, altüma, altüman@
+@small pit@|@amar@
+@small sleigh@|@funchálang@
+@smearing@|@thakït@
+@smell@|@ït, ïtn, king@
+@smelling@|@ïta@
+@smith@|@afu-het@
+@smoke@|@tu, tuan, tug, tui@
+@snake@|@angxoi, angxon, angxotn, onxoi@
+@snow@|@thïk, thïkan, thïki, tik, tyg, tyk@
+@soap@|@urkälcek, urkiše, urkolökng@
+@soft@|@fügam, fükam, phügam@
+@softly@|@pugama@
+@sole of foot@|@pulap, pulapang@
+@son@|@fup, fupan, pup@
+@song@|@ulai, ulajang@
+@son-in-law@|@ana, anan, ane, ani@
+@soon@|@et-pang@
+@sound@|@ei, ëjang@
+@source@|@aléten@
+@sowing@|@achö'uk@
+@speaking@|@cagar, dili@
+@spending the night@|@šagal@
+@spit@|@hupanga@
+@spitting@|@hujung@
+@spleen@|@tebolä@
+@splinter@|@šëkan, šëki, šëkng@
+@spool@|@fölachagarang@
+@spoon@|@xalpen@
+@spring@|@iij, ïjän, ïjang, ïji, ïjï, šinakng, šinang@
+@squirrel@|@šaga, šagá, šága, šagán, šaha, šaxa@
+@staff@|@thapui, thapujang@
+@star@|@alaga, alagan, alagei, alak, alakan, alakng, aláx@
+@star (1)@|@alagan, alák@
+@stealing@|@üti@
+@steed@|@huš, hyš@
+@steppe@|@karad, karang@
+@stepson@|@pašup jali@
+@step-son@|@jali in pašup jali@
+@sterlet@|@hola@
+@stick@|@hupuchang, hupuš@
+@stick into@|@axchex, axtacheang, axtalchex, axtölacheang, battajang@
+@stone@|@pl. šeng, šin, šingeäkng, šingeäng, šiš, šïš@
+@storm@|@taibii, tajbej@
+@strap@|@küra, kürakng, kürei@
+@string@|@anag, kúra, ölang, olangan, olange@
+@stump@|@šagale, šagali, šagalikng, šakali@
+@sucking@|@šiut@
+@suede@|@tarup, tarüp@
+@summer@|@šelpan, šilpakng, šilpang, šilpangán@
+@sun@|@ega, éga, ëga, ëgä, ëgang, ëgei, öga@
+@swamp@|@oltakng, oltëg, oltex, oltëx@
+@swan@|@šïgán, šïgi@
+@sweat@|@apïkng, apïkngán@
+@sweet@|@falang, fil, filang, phalang@
+@sweetly@|@palanga@
+@tail@|@fugai, fugaj, fugajang, fukai, fukajang, phugai, pis, pugáj@
+@temple@|@axšei hengai@
+@ten@|@haga, hágiang, xaha@
+@tent@|@hung, hus@
+@testiculi@|@kanchal@
+@that@|@ujöm@
+@then@|@hem@
+@they stand@|@jatyken@
+@thick@|@hagal, hakal, puchar@
+@thigh@|@fëpar, phëpar@
+@thin@|@fachan, phachan, theür@
+@think@|@anangajakng@
+@thirty@|@-thukng, tön-thikng, tontuku@
+@this@|@inu@
+@thou@|@au, auong@
+@three@|@tonchi, tongä, tönga@
+@throat@|@kankoi, konkoj@
+@thunder@|@ajak, aják, ajakan@
+@tin@|@ymatyp@
+@to ask@|@tivíj@
+@to bark@|@alacamang, alcam, dachamang, dächamang@
+@to bathe@|@ulšujakng, ulšujáthákng@
+@to be born@|@igejang@
+@to be covered@|@dugöttang@
+@to be silent@|@atpifunakng@
+@to bear@|@agejang@
+@to become fat@|@fäligäkng@
+@to bend@|@daki, danki, dökiang, dönaki, dönakiang@
+@to bind@|@šigang, šingang@
+@to blow@|@alfu, baláfu, balafujang@
+@to boil@|@auganang@
+@to burn@|@chaiganang, hat akfätekng@
+@to buy@|@kapäkng@
+@to call@|@axha'ajang@
+@to catch@|@achangakng, achangälchek, achangökng, achanthäkng, achanthälchek, achantholä'uki, achantholölng@
+@to clean@|@ölapajang, öläpi, öpajang@
+@to climb@|@hantïng, he'ütang, hëna'ütang, hëncut@
+@to come@|@itöj-@
+@to conjure sorcery@|@šënangäkng@
+@to cover@|@dagei, degeä, dugoättang@
+@to deceive@|@arathachapajang, arathala, arathalapajang, aruthalapi@
+@to die@|@daxajang@
+@to dig into@|@kalpi ëštajang@
+@to divide@|@takthäkng, taxthäkng@
+@to drink@|@olapang, öpang@
+@to dry@|@äšïgalang, ušigalang@
+@to dry out@|@ïgalaichejákng@
+@to expel@|@adajang, dajang@
+@to extinguish@|@alfi, öfiang, ölafi, ölafiang@
+@to fasten@|@do'ütang@
+@to find@|@bapukng, mampukng@
+@to flay@|@thagakng, thanax, thönage, thönakng@
+@to fly@|@anthax, anthikng@
+@to forge@|@afu-akng@
+@to forget@|@ënengaiše@
+@to frighten@|@acha'athakng, achenchagan@
+@to girdle@|@fantax, fónatákng, fótákng@
+@to glue@|@fit öginang@
+@to go@|@hejang, pulanajáha, pulánujáha@
+@to grind@|@hienligit, hiensigit, hingit@
+@to hack@|@agathakhang, agathakng, agathalcek, agtholökng, háran-chex, hárangálchex, hárangöcheang@
+@to hang@|@feštajang, fötajang@
+@to hold@|@-boq, -doq, -roq, duotebaq, duoteberaq, uotegdaq, ut-ax@
+@to hunt@|@apëj-@
+@to jump@|@aštökng, ithakng@
+@to kill@|@oga'acheang@
+@to lash@|@dalathi, dalthi, dölathiang, dothiang@
+@to laugh@|@chakajang@
+@to learn@|@šitätiákng, šitätigákng@
+@to leave@|@-aq, aq, d-á-v-aq@
+@to lie@|@datang@
+@to lie down@|@uchäkng, utchäkng@
+@to make@|@si-cei@
+@to make noise@|@kuterei@
+@to make sour@|@aragejang, aregen, barage-jang, dagejang@
+@to milk@|@hipit, thapit@
+@to nomadize@|@aitho-l-ökng, aithog-äkng@
+@to open@|@ušföttang, ušpöttang@
+@to paint red@|@šurumaichei@
+@to play@|@-an, ajang@
+@to plug@|@hachïp, halchïp@
+@to press@|@hapit@
+@to pull@|@bapujang, buipujang, bujäpui@
+@to read@|@kacheithákng@
+@to release@|@ašetang@
+@to roast@|@chalaugan, chalauganang@
+@to rot@|@b-age-jang@
+@to row@|@alagïchang, alchiš, dagichang, dägichang@
+@to run@|@chäganthagäkng, ïchökng, ïchöx@
+@to scoop@|@ul-tëj@
+@to scrape@|@alšer, balašer, balašërang, bašërang@
+@to scratch@|@eang-alaše, eang-alše, eang-alši, eang-olaši, eang-ölašiang, eang-öšiang@
+@to search@|@alcët, bagitang, bagïtang, balägit, balagïtang@
+@to send@|@a-thajang, athalche, athölajang, thajang, thalche, thechujang, tholagi, thölajang@
+@to sew@|@falangälše, falangoläši, falangölašiang, falangöšiang@
+@to shake@|@althar, balatharang, batharang@
+@to shoot@|@hit-cha-kng@
+@to shout@|@acha'alagi, acha'alajang, acha'alchex, huje-äkng@
+@to sing@|@ulailökng, ulajakng, ulajalchek@
+@to sit@|@anïgpan, anygpanang, daujang@
+@to sit down@|@ïgpanang@
+@to sleep@|@aláten, jáhatan, uchälchek, ucholökng@
+@to slide@|@funchol, phunchol@
+@to smear@|@thachakïtang@
+@to sow@|@achö'ukng, pichiga@
+@to speak@|@alácaga, alacagarang, alcagar, dacagarang, dilakng, dillökng@
+@to spend the night@|@hachágal, halachágal@
+@to spin@|@hi-tafujäkng@
+@to spit@|@hujungakng@
+@to stand@|@aletekng, altek, datekng, dätekng@
+@to stand up@|@falta, faltajang, fatagákng@
+@to stay@|@thaligai, thaligajang, thïgajang@
+@to steal@|@ütakng, ütholökng@
+@to stick into@|@astatajang, asthan, asthorïtei, asthütajang@
+@to suck@|@alchut, ba'ütang, balä'ut, bala'ütang@
+@to swallow@|@dekngai battang, dekngai ëštajang@
+@to sweat@|@apïkng uganang@
+@to think@|@anangaithakng, anangaj, anangajalcek, anangajang, anangajolökng@
+@to think (1)@|@-thalc'ek, -thola'uki, -tholökng@
+@to throw@|@achalchuk, achö'la'ukng, achöla'uki@
+@to trade@|@hapälchek, hapölökng@
+@to twirl@|@öfülang@
+@to urinate@|@chachuákng, chaš@
+@to vlow@|@sifu@
+@to wait@|@aläföt, alföt, bafötang, balafötang@
+@to walk@|@pulan-ajáha, pulán-ujáha@
+@to warm@|@hukai bättang@
+@to wash@|@urökiang@
+@to wash oneself@|@uralki, uralkie, urkäkng, uroläki, urölakiang@
+@to weep@|@alachenang, alchen, dachënang@
+@to wet@|@uta-tër@
+@to whet@|@anšal, onäšal, önašalang, öšalang@
+@to wind@|@fanfui, föchagarang, fofüjang, fönafüjang@
+@to wound@|@ápajang, šei, šeja@
+@to write@|@eangalche, eangöjang, eangölagi, eangölajang, enguigen@
+@to yawn@|@honangäkng@
+@tongue@|@-ang, alup, alüp@
+@tooth@|@itang, ite, iti, itï@
+@top of tree@|@achi-xap, hupár, hupárang@
+@towards here@|@utiga@
+@towards outside@|@hiliga@
+@towards there@|@hatung@
+@towards where@|@bilthung@
+@track@|@hajang@
+@trade@|@hapi@
+@trap@|@qatn, xatn, xatnang@
+@tree@|@ach, aci, atche, atchi, ïpal, ïpatn@
+@tree bark@|@farpakan@
+@tree fungus@|@pol-šoja@
+@tree root@|@achigan@
+@tree trunk@|@chan, chi@
+@trees@|@ag, agan, ax@
+@trousers@|@alang@
+@twenrty@|@intuk@
+@twice@|@-fa, -pa, ïn-fa, ïn-pa@
+@twirling@|@anäful, anful, ölafülang, önafülang, šiful@
+@two@|@ina, ïna, incha, ine, inee, inéje, yna, ynä@
+@uncle@|@hai, hajan@
+@unripe@|@thu@
+@up along the stream@|@ujä@
+@wagtail@|@chichaba, chichipa, chichipan@
+@waiting@|@suföt@
+@war@|@hali@
+@warning@|@hukaichei@
+@was@|@hichoga@
+@washing@|@ur-ki@
+@water@|@ul, ül@
+@wave@|@en, ën, ënang@
+@way@|@itik@
+@we@|@ajun@
+@wedge@|@kaltap-anang, kaltap-en@
+@wetly@|@urá, uran, urtu@
+@what@|@bilituise, šena, šina, šinai@
+@what for@|@balomacan@
+@whence@|@bilchang@
+@where@|@bili@
+@whetting@|@šichal@
+@which@|@ašix, balomas, biläng, biläng, bilomaca, bilomas@
+@white@|@tegama, thégam, thékam, tiekama@
+@white-fish@|@althai, althájan, altháján@
+@wholly@|@ütam, üti@
+@wife@|@alit@
+@wild animal@|@-ša, -šïn, achangši, achánše, šelä, šele, šele, šeli, šetn@
+@wild onion@|@hagá, hagán@
+@willow@|@tïlangan, tïle, tïli@
+@wind@|@bej, ja-pej, pëi, pej@
+@winding@|@fachagar@
+@window@|@tamú, tamuk, tamünang, tuma@
+@wing@|@keang, kei, kej, ken@
+@winter@|@këtän, këtang, kete, këti, këtï, tonog@
+@witchcraft@|@šënang@
+@without@|@-fun, -phun@
+@wolverine@|@feštap, fëštap, fëštapan, fëštapang, pestáp, pheštap@
+@woman@|@alat, alit, alït, alitn, alïtn@
+@wonder@|@alpeš@
+@wood@|@ag, ax, farán, faránang, pharan@
+@woodcock@|@fëncera, fëncerá, fëncerai, fëncetn, phëncera, phëncerá, phëncerai, phëncetn@
+@word@|@khëg, xëg, xëgan@
+@worm@|@hoi, hon@
+@wound@|@šei@
+@wounding@|@šeipi@
+@writing@|@eangöx@
+@yarn@|@hi-tafui@
+@yawning@|@honang@
+@year@|@šëga@
+@yellow@|@šui@
+@yesterday@|@honchig, xónži@
+@you become@|@d-ä-u@
+@you stand@|@jatyxu@
+

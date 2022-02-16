@@ -1,0 +1,928 @@
+@English@|@Mingrelian@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@3rd person pronoun@|@mu-@
+@a crack@|@zior-@
+@a dull thud@|@dgvap-@
+@a k. of berry tree@|@kuc-@
+@a k. of broadleaf plant@|@burg-@
+@a k. of cherry tree@|@cqe-, cqi-, cqol-@
+@a k. of fruit@|@'omur-@
+@a k. of gourd@|@qoqore@
+@a k. of wine dipper@|@kop-a@
+@a little@|@chicha, chiche@
+@a non-piercing hole@|@xwemur-@
+@a plot of land@|@psua, sua@
+@a tall field plant@|@di'-@
+@a toponym@|@lia@
+@above@|@ži@
+@abundant@|@do-jonj-il-@
+@abyss@|@ckurum-@
+@accustom@|@nchq-@
+@acorn@|@kä-, ki-@
+@acquire@|@jin-, pa-l-@
+@adolescent@|@ninnua@
+@affirmative particle@|@ko@
+@afterwards@|@u-kul-i@
+@alder@|@txom-u, txum-u@
+@all@|@'ir-, ir-@
+@allergic rash on body@|@tom-a, tum-a@
+@ambush@|@ragv-@
+@among@|@xol-@
+@angle@|@kuntx-u, kurtx-u@
+@angry@|@chqor-, nchqor-@
+@animal cub@|@kik-o@
+@ant@|@chkichk-it-ia, pska-, ska, zhgizhg-it-ia@
+@anvil@|@kulamor-, kulamur-@
+@apple@|@uškur-@
+@apple of the eye@|@gug-ar, gwigw@
+@arm@|@'vil-e@
+@armpit@|@gia, rgia@
+@arrange@|@ncq-, ncqv-@
+@arrive@|@ch-, chap-, chu-, nch- nchap-, nchu-, rt-@
+@ash@|@tuta@
+@ashes@|@gvelp-@
+@asp@|@verxv-, vex-@
+@attain@|@nchud@
+@back of head@|@kop'e, kope@
+@badger@|@munchkv-@
+@barn@|@bag-u@
+@bast@|@lipon-@
+@be joyful@|@xi-ol-@
+@be quiet@|@šuš-@
+@be scared@|@rskin-, skin-@
+@be thirsty@|@'um-en-@
+@be torn@|@gilat-, gilit-, girt-@
+@beak@|@nichkv-, nijgw, ninjgw-@
+@bear@|@tunt-@
+@beard@|@cvand-, cvanzh-@
+@beat@|@txiraš-, txiriš-, txiroš-@
+@become silent@|@'urs-@
+@beech@|@cipur-@
+@befoul@|@cik-, cikw-@
+@bell@|@zor-@
+@below@|@gäm-e, gim-e@
+@belt@|@o-rtq-apu@
+@besom@|@chorchx-@
+@bifurcated twig@|@škurd-on-@
+@big@|@did-@
+@big stick@|@biga@
+@big wooden vessel@|@kotxo@
+@birch tree@|@bul-@
+@bird faeces@|@ckintil-@
+@bitter@|@chor-, cutx-e@
+@bitter gourd@|@kolo-chura@
+@blackberry@|@mu'-@
+@blackbird@|@zeskv-, zhgirzhg-, zhgorzhg-@
+@bloat@|@ši-n-, šišin-@
+@blood@|@zisxär-, zisxer-, zisxir-@
+@blow up@|@mbar-@
+@blunt of person@|@lug-a@
+@boat@|@chaka@
+@boil@|@pupul-@
+@bony@|@zhizhgv-@
+@borther-in-law@|@sinda-, sinzha-, sizha-@
+@bosom@|@läba, luba, uba@
+@boss@|@surs-u@
+@bottom@|@zhin-, zhinzh-@
+@bow@|@škvil-, škvin-@
+@brain@|@tven-, tvin-@
+@branchy@|@picha-, pircha-@
+@bread@|@xoz-o@
+@break@|@kak-@
+@breast@|@kädär-, kidir-@
+@breast of woman@|@juju@
+@bridge@|@xinzh-@
+@brood-hen@|@kux-@
+@brother@|@zhima@
+@brother-in-law@|@kviš-il-, oxora-skil-@
+@buckthorn@|@lekuxa, lukumxa@
+@buffalo calf@|@gogo@
+@bull@|@xozh-@
+@butterfly@|@papralia-, parpal-, parpalia-@
+@button@|@kwikwil-@
+@calf of leg@|@cämort-, cimort-@
+@cancer@|@kibo-, kiboia-@
+@cane@|@kop-ul-@
+@cartilage@|@xäntkir-, xintkir-@
+@chaff@|@gurjul-@
+@chain@|@jejgv-, zhockv- zheckv- jeckv-@
+@cheese@|@'wal-@
+@chestnut@|@chub-ur-@
+@chin@|@nik-u@
+@clay pan@|@kic-@
+@clean up@|@kos-@
+@clothes@|@kun-@
+@cloud@|@grubel-@
+@clumsy@|@zirg-a, zirg-al@
+@coal@|@nošker-, noškver-@
+@cobweb@|@bondg-@
+@cold@|@chxur-@
+@comb@|@robu@
+@common aid@|@nod-@
+@conceal@|@kval-@
+@cook@|@dug-@
+@copper@|@linzh-@
+@corn hair@|@pimp-@
+@cornfield@|@'ona-, 'wana-@
+@cowberry@|@cäm'va, cämva@
+@cradle@|@o-nc-e@
+@crane@|@charo@
+@creep@|@choch-@
+@crooked@|@gord-a, gula@
+@cross-bar@|@däre@
+@crow@|@kvar-ia, qvar-ia@
+@crumb@|@chach-@
+@crumple@|@guch-@
+@crust on cauldron bottom@|@na-xvac-a@
+@cuckoo@|@gugul-@
+@cut off@|@kirach-, kirch-, kirich-@
+@damp@|@šim-e@
+@dandruff@|@kerca, kirca@
+@daughter@|@osurskua@
+@day@|@dga@
+@deaf@|@qr-u@
+@deceive@|@tqu-@
+@decline@|@dirak-, dirik-, dirk-@
+@deep of water@|@tob-a, tob-o@
+@deictic stem@|@e-, i-@
+@deposition@|@cämu-, cimu-@
+@dirt@|@cida@
+@dog@|@pin-, zhogor-@
+@Don't touch me there!@|@Tek va mobtxa xe!@
+@dough@|@com-@
+@down@|@bumbul-, burdga, ca-le, co-@
+@down over a surface@|@do-@
+@drawers@|@kurt-a@
+@dregs from young wine@|@txol-o@
+@drop of dew@|@cund-, cunzh-@
+@dry firewood@|@perchx-, pichx-@
+@duck@|@ixvinzh-, sind-, sinzh-@
+@dull rumble@|@burgon-@
+@dung@|@kund-@
+@ear@|@qur-@
+@ear of a needle@|@qurc-@
+@earth@|@dexa, dixa@
+@Echinochloa crus galli@|@burchxi@
+@edge@|@pizh-@
+@eight@|@bruo, ruo@
+@elbow@|@chqärta, chqirta@
+@elder tree@|@inchär-i, inchir-i@
+@elm@|@cä, ci@
+@emaciate@|@l-@
+@embrace@|@sxup-@
+@empty@|@put?-ur-el-@
+@entrails@|@chä, chi@
+@envy@|@škur-@
+@excavate@|@ntxor, txo@
+@extinguish@|@nkir-@
+@eye@|@tol-@
+@eyebrow@|@chob-@
+@eyelets around the tambourine@|@birbil-@
+@fall over@|@xu-, xv-@
+@family@|@ti-@
+@fat@|@kon-@
+@female@|@dadul-, zhua, zur-a@
+@female buffalo@|@puzh-@
+@fern@|@gvimora@
+@field@|@we-, wel-@
+@fig@|@lug-@
+@find@|@gor-@
+@finger@|@kint-, kit-@
+@fire@|@dachxir-, danchxir-@
+@fire-brand@|@kanchx-, na-kwachx-ir-@
+@fireplace@|@'ebur-, kebur-, qebur-@
+@firewood@|@cxwek-, diška@
+@first@|@privel-@
+@fir-tree@|@nuju, nuzu@
+@fish@|@chxom-@
+@fishing pole@|@ankes-@
+@fist@|@likv@
+@fistful@|@zhix-@
+@five@|@xut-@
+@five fingers@|@tko-u, tku@
+@flat@|@partqia@
+@flat and round@|@birtqa@
+@flax@|@psu, su@
+@flea@|@cqär-, cqir@
+@flour@|@k-, k-ir-, kv-, kv-ir-@
+@flow@|@chvarchval@
+@flower@|@tata@
+@fly@|@buz-, chand-, chanzh-@
+@foam@|@perož-, žwepur-@
+@fool@|@rintu@
+@foot@|@polo@
+@forehead@|@'va@
+@fork@|@chkip-, zhga@
+@fortress@|@zhixa@
+@four@|@otx-@
+@fox@|@mela-@
+@frog@|@žvabu-@
+@garden@|@dobira@
+@gather@|@chop-@
+@gemo@|@gemo, gimo@
+@Georgian@|@kort-u, kort-ul-@
+@get cold@|@'in-@
+@gg left in nest@|@zhal-@
+@girl@|@cir-a@
+@give a beating@|@bax-@
+@gnat@|@kinkil@
+@gnaw@|@gach-, xichon-, xichor-@
+@go first@|@nzhgv-, zh-@
+@goat@|@kvic-, txa-@
+@gobble@|@šlip-@
+@God@|@goront-@
+@goitre@|@chiqwaqw-@
+@gomi a k. of millet@|@gumu@
+@good-for-nothing@|@lala@
+@goose@|@gorgonzh-@
+@grace@|@mard-@
+@grain@|@cka, kaka, xinchkv-@
+@grandfather@|@baba-, papu@
+@grandson@|@mot-a@
+@grey@|@pär-w@
+@grindstone@|@skib-u@
+@grow up@|@chiš-@
+@gums@|@zhirgil-@
+@hail@|@kärcx-, kircx-@
+@hair@|@do-pachv-, pachv-, pichu@
+@half the length of the thumb@|@cid-a, cind-a@
+@hammer@|@burg-@
+@hand@|@tot-, twatw-, xe, xu@
+@haunch@|@boqv-@
+@have a need@|@chkär-, chkir-@
+@hawk@|@kor-@
+@hay@|@tip-@
+@head part of bed@|@ortumel-@
+@healthy@|@tar-i@
+@heart@|@gur-@
+@heat@|@chx-, nchx-@
+@heavy@|@moka, monka@
+@hedge@|@gober-@
+@heel@|@kur-, kurc-, kurs-@
+@hen@|@kotom-@
+@herdsman@|@chqeš-, chqiš-@
+@hey look!@|@hait, hat@
+@hide@|@tqeb-@
+@hillock@|@gola-, gwala-@
+@hit@|@batk-, tkach-, tox-, tox-, tox-un-, tox-un-@
+@hoe@|@tox-@
+@holler@|@zärzän-, zirzin-@
+@hollow@|@pug-u@
+@honey@|@topur-@
+@hoof@|@chirk-@
+@hook@|@konk-@
+@hoopoe@|@opop-@
+@hornbeam@|@cxemur-, cximur-@
+@hornless@|@dulu, tulu@
+@house@|@'ude@
+@howl@|@kum-in-, kumin-@
+@hump@|@pugu, puxu@
+@hundred@|@oš-@
+@hunt@|@txoz-in-@
+@husband@|@komonzh-, komozh-@
+@husk@|@kurch-, purcha@
+@I@|@ma@
+@if@|@-da, do@
+@illegal fighting@|@burs-@
+@impotent@|@chut-@
+@in-law@|@-ntil-, -ntir-@
+@inside@|@ša-@
+@iron@|@kina-, rkina-@
+@it concerns you@|@go-x-u@
+@jaybird@|@chxvik-@
+@joint@|@ocxond-, oncxond-@
+@keep warm@|@täb-, tib-@
+@key@|@käla, kila@
+@kindling@|@no-te@
+@king@|@ma-p-a@
+@kite@|@zhazh-a@
+@knee@|@muxur-@
+@lamb@|@kärib-, kirib-@
+@landfall@|@no-'ur-@
+@last year@|@go-co-s@
+@laughter@|@xorxoš-@
+@lay@|@d-, dv-@
+@lay down@|@rg-@
+@leather bag@|@guda-@
+@leech@|@curvel-@
+@left@|@kwarchxan-@
+@leg@|@bork, kuchx-@
+@let go@|@ta-l-@
+@lime tree@|@cucxv-at-, cxacxu@
+@link@|@cx-, rcx-, rsx-, sx-@
+@little@|@pic-@
+@little finger@|@nak-u@
+@little stick@|@chxinzh-, ckir-@
+@liver@|@qwižil-@
+@lizard@|@xol-ar-, xvel-ar-, xvi-ar-, xvil-ar-@
+@locative stem@|@-k-@
+@locust@|@kol-@
+@loft@|@cxven-, cxvend-, cxvin-, cxvind-@
+@louse@|@ti, tišon-@
+@lowland@|@nog-a, nog-o@
+@luck@|@u-bad-o@
+@lungs@|@pirtv-, pižv-@
+@made deep@|@eno-rgoma@
+@maggot@|@muntur-@
+@make a hole@|@rxu-, rxv-, xur-, xvir-, xvir-at-, xvir-it-@
+@make noise@|@ckir-@
+@male@|@koch-, muma-, mumul-, xod-@
+@mane@|@popor-@
+@maple@|@lakinchxa-@
+@marten@|@kvinor-@
+@meat@|@xorc-@
+@medlar@|@ckimuntur-, cxumuntur-, cxumutur-@
+@Megrel@|@m-arg-al-@
+@meskh@|@mosx-@
+@middle@|@ška-@
+@milk@|@bža-@
+@mill gutter@|@gore@
+@millet@|@pat-@
+@millet bread@|@chkid-@
+@mineral spring@|@menzh-@
+@Mingrelian@|@margal-i@
+@misfortune@|@kwarchx-@
+@mist@|@närs-, nirs-@
+@mix@|@tkvap-@
+@mixed with water@|@ako-cqor-ua, cqor-il-@
+@moisture@|@mere@
+@moon@|@tuta-@
+@morning@|@chume, ordo-@
+@mosquito@|@kogo-, kogona-, kogunia-@
+@moth@|@kikil-, kirkil-@
+@mother@|@dida, nana@
+@mountain goat@|@erckem, erskem@
+@mourn@|@rg-, rgw-@
+@murmur@|@burdgin-, dgirdg-, dgirdg-in-@
+@mushroom@|@soko-@
+@my@|@chkim-@
+@naked@|@tutel-@
+@name@|@zhox-, zhoxo-@
+@navel@|@chapan-, chip-, chipe-, ompa@
+@neck@|@kind-ir-@
+@needle@|@lepš-, leš-, liš-@
+@nest@|@bude-@
+@net@|@mos-a@
+@night@|@ser-@
+@nightshade@|@od@
+@nine@|@chxoro@
+@nit@|@chkir-@
+@noise@|@dgir-, dgur-@
+@nose@|@chxind-, chxvind-, mi-švit-ia@
+@not@|@nämä, nu; numu, var@
+@notice@|@tqu-, tqv-@
+@now@|@ac, aci, anc-, anci-@
+@oak@|@chqon-@
+@oatmeal@|@kum-u@
+@obey@|@rchk-@
+@occur@|@xvad-@
+@old@|@zhv-eš-@
+@older@|@uchaš-, unchaš-@
+@one@|@art-@
+@one time@|@švan-@
+@only@|@xwale@
+@orphan@|@ombol-@
+@other@|@šxva-@
+@our@|@chkän-, chki-, chkin- chkä-@
+@overfill@|@jgib-, ziz-in-@
+@owl@|@gu@
+@pack@|@xva-@
+@paddock@|@boga@
+@palisade@|@masar-@
+@pan@|@kwib-@
+@part@|@cal-@
+@partridge@|@kokob-e@
+@pear@|@sxul-@
+@penis@|@'ol-e@
+@pestle@|@chax-, chaxw-@
+@pharynx@|@xorxota@
+@pierce@|@kirt-on-@
+@pig@|@gezh-@
+@pigeon@|@toronzh-@
+@pigling@|@tu-, tul-ep-@
+@pigsty@|@o-askwu, o-sk-u@
+@pile of stones@|@xorg-@
+@pit@|@duru@
+@plait@|@chimoš-, chumoš-@
+@plane@|@tol-@
+@possess@|@gw-@
+@pretty@|@sk'vam-, skvam-@
+@prick@|@lekal-@
+@prop@|@o-bax-e@
+@pubes@|@chem-, rchem-@
+@pull@|@zind-@
+@puppy@|@lakv-@
+@pus in eye@|@chirp, cirp@
+@pussywillow@|@chichon-, zichon-@
+@put@|@dg-, dgim-, dgin-, dgum-@
+@quail@|@chqor-@
+@raft@|@tiw-@
+@ram@|@erzh-, och-@
+@rank@|@juge@
+@ravine@|@xab-o@
+@raw@|@ladär-, ladir-@
+@recite@|@kitx-@
+@recognize@|@chin-@
+@reed@|@lar-cham-, lar-chem-, larcham-, larchem-@
+@report@|@c-, ci-, co-, cu-@
+@rhododendron@|@pšker-, šker-@
+@right@|@marjgw-an-@
+@ring@|@marckind-@
+@river@|@gal-@
+@road@|@o-rz-ol-, za@
+@roar@|@gärin-, girin-, gum-@
+@rock@|@kärda, kärde, kirda, kirde@
+@roebuck@|@skver-@
+@roll@|@bur-, murgr-@
+@root@|@pos-, posv-@
+@rough@|@zhgvizhgv-in-@
+@round@|@kwar-, kwarkwal-ia@
+@sacred object@|@o-xom-al-a@
+@saliva@|@lerchqva@
+@salive@|@ležv-a@
+@salt@|@zhimu@
+@salty@|@cqät-ä@
+@sand@|@psila-, sila-@
+@scare@|@kut-@
+@scent@|@šur-@
+@scowl@|@brdgven-@
+@scythe@|@cal-@
+@sea@|@zgw-a@
+@season@|@zo-tonzh-@
+@second@|@cum-, cun-@
+@sedge@|@isir-, lisir-@
+@segment@|@kvet-, na-kvet-@
+@separate@|@zoxo@
+@seven@|@škvit-@
+@shallow@|@marchxa@
+@sharpen@|@chak-@
+@shirt@|@o-sar-e@
+@short@|@kule@
+@shoulder@|@xuzh-@
+@sigh@|@kus-, kus-an-@
+@silver@|@warchxil-@
+@simple@|@jak-@
+@sinew@|@zhergw-@
+@sing@|@gargal-, gor-, gwar-@
+@sink@|@'urš-@
+@sister@|@da@
+@six@|@amšw-@
+@skin of sheep@|@montqor-@
+@sky@|@ca-@
+@slave@|@chkor-@
+@sleep@|@lur-, rul-@
+@slobbery@|@ležv-am@
+@small@|@chik-u, chuk-, kuch-, kut-, kut-@
+@small nut@|@txir-@
+@small pomegranate@|@burcumel-@
+@smoke@|@bol-, kum-a, lol-, lul-@
+@snake@|@gver-, ngver-@
+@snake cartilage@|@xa-@
+@snow@|@tir-, tu-@
+@so@|@a-š-i, e-š-i, ta-š-i, te-š-i@
+@soak@|@gvar-@
+@soft@|@butqu, chkächkä-, chkichk-, lib-, lib-u@
+@son@|@skua@
+@sour@|@kox-a, kox-u@
+@spare@|@cqolop-@
+@speak@|@tk-, tkum-, tkw-@
+@speckle of dust@|@twer-@
+@spider@|@bobolia, borbolia@
+@spikes in cereals@|@ocxvacxvinaia@
+@spines of chestnut@|@bujga@
+@spleen@|@tqip-@
+@splinter@|@no-xap-ul-e@
+@split@|@tkic-@
+@spoon@|@käz-, kiz-, kowz-@
+@sprinkle@|@chkap, mchkap@
+@squeeze@|@chqachq-, chqanchq-, jgajg-, jgajg-, jgazhg-, z-, zal-, zu-@
+@stagger@|@qunt-al-@
+@stake@|@borzhg-, bozhg-@
+@steep@|@sol-@
+@sterile@|@burch-@
+@stick@|@chort-@
+@stone@|@kua@
+@stone wall@|@'or-@
+@stout@|@šxu, šxul-ep-i@
+@straight@|@ckvent-er-e@
+@strap@|@gwed-@
+@straw@|@cu@
+@string@|@g-@
+@stump@|@buk-, zhik-, zhirk-@
+@sturdy@|@mangar-, mangar-@
+@sturgeon@|@zäntx-, zuntx-, zutx-@
+@successful@|@morjgw-@
+@suitable time@|@e-dor-ia@
+@summit@|@konchx-@
+@sun@|@bža, mža@
+@supporting post@|@zhgunzhg-@
+@Svan@|@šon-@
+@swallow@|@ma-chirx-ol-, ma-rchix-ol-@
+@sweat@|@up-, upu@
+@tail@|@kud-el-, zhu-a@
+@take care of@|@chu-, chv-@
+@tar@|@dgwindgw-@
+@tear@|@chilamur-, zhgäzhg-on-, zhgizhg-on-@
+@ten@|@vit-@
+@term@|@rdo@
+@thin@|@chkol-a@
+@this@|@a-@
+@this year@|@cä, ci@
+@thistle@|@burd@
+@thorn@|@jig-ir-@
+@thorny bush@|@zhagv@
+@thorny plant@|@burjg-@
+@thou@|@si-@
+@three@|@sum-@
+@throat@|@'al-, qorq-el-, qorqont-, qurq-el-@
+@thumb@|@chanzh-i-kit-@
+@tick@|@girzhgibe@
+@tinder@|@obed-@
+@tip@|@dud-@
+@to ache@|@cq-in-, cq-un-@
+@to acquire@|@'id-, g-@
+@to appear@|@chkind-, rchkind-@
+@to attach@|@pon-@
+@to be@|@or-, r-@
+@to be appropriate@|@škid-@
+@to be at leisure@|@chol-@
+@to be awake@|@kurcx-@
+@to be droughty@|@gol-@
+@to be dry@|@skär-, skir-, xom-, xum-, xum-@
+@to be eaten away@|@xichon, xichor@
+@to be enough@|@bag-@
+@to be filled@|@pš-, š-@
+@to be first@|@cor-@
+@to be hungry@|@škär-, škir-@
+@to be late@|@cxad-@
+@to be long@|@gänj-, gärj-, ginj-, girj-@
+@to be round@|@mo-rgv-, rgval-@
+@to be satiated@|@rjg-@
+@to be satisfied@|@rxin-@
+@to be scared@|@gal-@
+@to be seen@|@ton-@
+@to be sterile@|@cud-@
+@to be surprised@|@oc-, orc-@
+@to be thin@|@txitx-u@
+@to be ugly@|@zhog-@
+@to be useful@|@rg-@
+@to be willing to@|@zozh-@
+@to beat@|@žaž-@
+@to befoul@|@gingol-@
+@to begin@|@chq-, rt-@
+@to believe@|@rcum-@
+@to bend@|@gun-@
+@to bind@|@kär-, kir-@
+@to block@|@kid-@
+@to blow@|@bar-@
+@to boast@|@purx-on-@
+@to boil@|@gib-, pu-, škušk-@
+@to break@|@ckack-, sip-, škil-, škil-, sp-, tax-, tex-@
+@to break apart@|@chkachk-@
+@to break in pieces@|@chxink-ol@
+@to brust (1)@|@xerck-, xirck-@
+@to burn@|@ch-, chw-, tkutk-@
+@to burst@|@ntker-, ntkir-, ntkor-, pašk-, pešk-, xarck-@
+@to buzz@|@zu-, zu-l-, zv-, zv-il-@
+@to cackle@|@karkal-@
+@to call@|@xäma, xoma, xum-, xuma@
+@to caress@|@sirs-@
+@to castrate@|@'var- v., 'vazh- n.@
+@to catch one's breath@|@kal-, nkal-@
+@to chaw@|@dgrap-, tkvap-@
+@to chew@|@ckack-, ckanck-, kank-@
+@to chirrup@|@chirx-@
+@to choke@|@xup-@
+@to chop@|@chig-, chigon-@
+@to chop branches@|@cxont-, cxot-@
+@to churn@|@pint-@
+@to clean@|@xinc-@
+@to clean of dregs@|@ckond-@
+@to close the eyes@|@ckur@
+@to collect tribute@|@zär-, zir-@
+@to comb the hair@|@rcxon-@
+@to contain@|@ntir-, ti-, tr-@
+@to coo of dove@|@gugin-@
+@to cool down@|@kir-@
+@to cough@|@xval-@
+@to count@|@ko-rocx-@
+@to cover@|@por-, rt-, rtv-@
+@to crack a nut@|@tkvar-@
+@to crackle@|@tkarch-@
+@to creep@|@xox-@
+@to creep up@|@bac-, cac-@
+@to cry of cock@|@'i-@
+@to cry piercingly@|@rchxi-@
+@to curse@|@chq-, chqu-@
+@to cut@|@chkär-, chkir-@
+@to cut branches@|@rsxil-, sxil-@
+@to cut in little pieces@|@chkachk-, ckep@
+@to cut with a dull knife@|@girjg-on-@
+@to dance@|@chak-@
+@to darn@|@bur-@
+@to decay@|@xichon-@
+@to deceive@|@gor-@
+@to decorate@|@skv-@
+@to defecate@|@jgv, njg-, njg-um-, njgv@
+@to define@|@rchkin-@
+@to descend@|@cur-@
+@to destroy@|@cq-, ncqv-, šär-, šir-@
+@to die@|@gur-@
+@to dig@|@chkichkon-@
+@to dip@|@c-, cu-@
+@to dirty@|@txip-, txitx-on-@
+@to dirty oneself with clay@|@lip-@
+@to do@|@gol-, kim-@
+@to draft@|@cärid-, cird-, cirid-@
+@to drag@|@ntir-, tir-@
+@to dream@|@zim-@
+@to drink@|@šu-, šu-m-, šv-@
+@to drive@|@lol-, lol-, ra'-@
+@to drop@|@chvat-, chvet-@
+@to drop in water@|@dgwab-@
+@to eat@|@chkom-, chkum-@
+@to eat a lot@|@qaq-@
+@to eliminate bitterness@|@gito-chor-ap-@
+@to embrace as a bear@|@gurž-, gurzh-@
+@to entice@|@bir-@
+@to expand@|@pipin-@
+@to exterminate@|@zgod-, zgvind-@
+@to extinguish@|@škirat-, škirit-, škirt-@
+@to exuviate@|@rxin, xin@
+@to fall@|@ntx-, tx-@
+@to fall on@|@ntx-@
+@to fart@|@tqor-in-@
+@to fight@|@burzh-, xich-@
+@to fill up@|@kvax-@
+@to flap the wings slowly@|@porpot-@
+@to fly@|@pur-in-@
+@to fold@|@käch-, kich-@
+@to forge@|@chkad-@
+@to forget@|@chqolad-, chqolid-, chqord-@
+@to fuss@|@poc-, puc-@
+@to gather@|@kat-, korob-, korop-@
+@to get bright@|@tan-@
+@to get dark@|@rum-@
+@to get used to@|@g-, gu-, rchkv-@
+@to get wet@|@cump-@
+@to gird@|@rtq-@
+@to give@|@ch-, ch-am-@
+@to give a good beating@|@baz-@
+@to glide@|@cxilat-, cxilit-, cxirt-, zirt-@
+@to glitter@|@rckin, wal-@
+@to glue@|@chab-@
+@to gnash the teeth@|@gärck-, gärckin-, girck-, girckin-@
+@to gnaw@|@garg-, girg-on-, xirx-on-@
+@to go@|@id-, ol-, ul-, ur-@
+@to gobble@|@lekw-, räskon-, riskon-, rtkap-, tkvap-@
+@to gobble down@|@bu`on@
+@to graft@|@'on-@
+@to grin@|@ginzhg-in-, granzh-@
+@to grind roughly@|@chkarchk-@
+@to grow@|@chan-, rd-@
+@to grunt@|@dgur-, gvint-, ndgur-@
+@to guffaw@|@xwixwin-@
+@to gurgle@|@rachx-@
+@to hack@|@tqiraš-, tqiriš-@
+@to hang@|@kid-@
+@to hang of a multitude@|@šx-, šx-äm-, šx-im-@
+@to harm@|@n-@
+@to have@|@'-, 'u-, 'v-@
+@to hear@|@säm-, sim-@
+@to hiccup@|@šik-in-@
+@to hide@|@pul-@
+@to hit@|@rag-, ragv-@
+@to hoe@|@barg-, berg-, xachk-@
+@to howl@|@'ur-@
+@to huddle@|@xut-ol-@
+@to insert@|@s-, sv-@
+@to instruct@|@zokul-@
+@to invite@|@chan-@
+@to jog@|@jvanjval-@
+@to join@|@rt@
+@to jump@|@cor-, ncor-@
+@to knead@|@cax-@
+@to know@|@chkun-@
+@to laugh@|@jäc-, jic-, jicin-@
+@to laugh and blab@|@gizhg-@
+@to lay down@|@pin-, pin-, rch-@
+@to lay eggs@|@sku-@
+@to lean on@|@bizhg-@
+@to leave@|@šk-, škv-@
+@to lick@|@lok-, lontk-, lotk-, sirk-, tirk-@
+@to lie@|@j-, jä-, ju-@
+@to loan@|@rsx-, sx-@
+@to look@|@jin-, jir-@
+@to lop off branches@|@sxip-@
+@to lose@|@dän-, din-@
+@to love@|@'or-@
+@to make a nest@|@bondg-@
+@to make a sound@|@burch-in-, gar-, ngar-, purch-in-@
+@to make an error@|@chil-, chir-@
+@to make fire@|@rz-@
+@to make war@|@li-m-@
+@to make warm@|@gvigv-@
+@to make way in the snow@|@xar-@
+@to marry@|@tx-, txw-@
+@to masticate@|@chix-@
+@to measure@|@rcq-, zäm-, zim-@
+@to meet@|@xv-al-, xvamil-@
+@to melt@|@gvant-, ndgul- dgul-@
+@to milk@|@chval-@
+@to mill@|@gorgol-@
+@to moan@|@kut-@
+@to move in@|@xor-ua-@
+@to move in rows@|@svar-@
+@to move swiftly@|@sxap-@
+@to mow@|@gun-@
+@to need@|@kor-@
+@to nibble@|@ckäckon-, ckickon-@
+@to ooze@|@cär-, cir-@
+@to pack tightly@|@chqilat-, chqilit-, cqip-@
+@to paint@|@gap-@
+@to pass over with the hand@|@s-, sum-, sv-@
+@to peck@|@kik-on-@
+@to peel@|@rc-, rcw-@
+@to perk up the ears@|@ckv-ir-@
+@to pick@|@chxirk-@
+@to pile up@|@xut-@
+@to pinch@|@bick-on-, bisk-on-@
+@to pinch softly@|@ckäckon-, ckickon-@
+@to plait@|@gob-, tux-@
+@to plait a fence@|@chxvak-@
+@to plane@|@xvat-@
+@to plough@|@xon-@
+@to pluck@|@cil, jgijg-on-, puton-@
+@to pluck a bird@|@burtq-@
+@to pour@|@b-@
+@to pour down@|@zgval-, zgvar-zgval-, zgwal@
+@to press@|@chinax-, cqacq-, rsxip-, sirot-@
+@to push@|@bijg-@
+@to quiver@|@partk-, partx-, prtx-, tirt-ol-@
+@to rain@|@chvem-, chven-, chvim-, chvin-@
+@to rake@|@bucx-@
+@to rave@|@bordiš-@
+@to redden@|@chit-@
+@to refuse@|@xintk-@
+@to remain@|@skäd-, skid-@
+@to remember@|@šä-, šu-@
+@to remind@|@šin-@
+@to resemble@|@g-, gu-, gur-@
+@to ripen@|@chiš@
+@to rob@|@rch-, rchu-, rchv-@
+@to rock@|@'ar-@
+@to rot@|@putur-ua@
+@to rub with the hand@|@puch-on-@
+@to run@|@nt-@
+@to run away quickly@|@tik-on-, tirk-on-@
+@to run nimbly@|@chvirt@
+@to rush@|@chorop@
+@to save@|@chxo-, chxo-n, r-@
+@to saw@|@xorx-@
+@to scale@|@purchon-, purckon@
+@to scatter@|@gv-, rgv-@
+@to scrape@|@xak-, xoc-@
+@to scratch@|@bircx-, chxot-, pucxol-, pucxon-@
+@to see@|@orcq-@
+@to seem@|@con@
+@to send@|@chk-, chkw-@
+@to sew with a big needle@|@njgilua, zhgvil-@
+@to shake@|@nc-, partx-@
+@to shake out@|@bartq-@
+@to shave@|@xok-@
+@to shear@|@xotor-, xuchor-, xutor-@
+@to shoot@|@i-sänd-@
+@to shout@|@rchx-, rki-@
+@to sift@|@cir-@
+@to sing@|@bir-@
+@to sink@|@'vint-@
+@to skin@|@tqab-@
+@to sleep@|@nzhir-, zhir-@
+@to smear@|@gilos-, lip-@
+@to smell@|@šur-@
+@to snore@|@xirx-in-, xurx-in@
+@to sow@|@tas-@
+@to spawn@|@ntop-, top-@
+@to speak@|@tqu-@
+@to spill@|@c-, ci-@
+@to spin@|@rt-@
+@to spit@|@purt-in-@
+@to splash@|@chxap-al-@
+@to split@|@xap-ul-@
+@to squeak@|@ci-@
+@to squeal@|@chqiap- chqi-, zum-in-@
+@to stand on end@|@bijg-@
+@to stand upon hind feet@|@'uc-@
+@to stick in@|@cik-@
+@to stink@|@'or-@
+@to stretch@|@rtx-, tx-, tx-äm-, tx-im-, zik@
+@to strike out fire@|@kvas-@
+@to string@|@chach@
+@to string on@|@cu-n-@
+@to strive@|@gunch-@
+@to stuff@|@titin-@
+@to submerge@|@cac-@
+@to suck@|@cov-, cuc-, curc-, gan-, gen-, gin-@
+@to swallow@|@qulip-@
+@to swear@|@puch-@
+@to swim@|@nchur- chur-@
+@to swing@|@kion-@
+@to tear@|@biric-, buric-, chqwad-, chqwid-, gurzh-on-@
+@to tear (1)@|@gurzh-@
+@to tear apart@|@chkol-@
+@to tear out by stretching@|@cic-, cwicw-@
+@to tear roughly@|@dgiraz-, dgiriz-@
+@to ted@|@rzhgim-@
+@to think@|@gon-@
+@to throttle@|@gurzholua, škvid-@
+@to throw@|@tur-in-@
+@to thunder@|@gurgin-, gwirgwin-@
+@to tickle@|@xicin-@
+@to tie@|@b-, s'k-, sk'u-, sku-, skv-, skv-@
+@to trample@|@bak-@
+@to tremble@|@žarž-al-, zhg-al-, zhg-ar-@
+@to turn to coal@|@xirak-, xirik-, xirk-, xirok-@
+@to tweet@|@chkärchk-än-, chkirchk-in-@
+@to twine@|@cirax-, cirix-@
+@to uncover@|@pach-@
+@to understand@|@gän-, gin-@
+@to urinate@|@ps-, psm-@
+@to wait@|@chod-, l-@
+@to wash@|@bon, rchx-@
+@to wave@|@ka-, kirin-@
+@to weave@|@girax-, girix-, girox-, rš-, š-@
+@to weigh@|@con-@
+@to wet@|@rt-, rtw-, šä-, šo-l-@
+@to whet@|@chvar-@
+@to whet the scythe@|@pir-@
+@to whine@|@ckum-@
+@to whirl@|@rs-@
+@to whisper@|@purck-in@
+@to whistle@|@ršw-in-, šwit-in-@
+@to whiten@|@rch-@
+@to win over@|@r-@
+@to wish@|@ko-, nite, note@
+@to wither@|@bžgär-, bžgir-, žgär-, žgir-@
+@to wobble of teeth@|@bandal-@
+@to wound@|@chqol-@
+@to wrap@|@x-@
+@to wrinkle@|@ginzhg-, xuch-@
+@to write@|@char-, nchar-@
+@to yawn@|@kil-, kir-@
+@tongue@|@nina-@
+@tooth@|@kib-, kib-ir-@
+@tortoise@|@ku@
+@trail@|@tintol-@
+@trap@|@ranchk-, renchk-@
+@tree@|@zha, zhal-@
+@twenty@|@ech-@
+@twig@|@chänä?-, chin-, chinu-, ckapul-@
+@twins@|@tkub-, tqup-@
+@twist@|@girak-, girik-, girk-@
+@two@|@žär-, žir-@
+@udder@|@tä, tu@
+@unit@|@kakal-@
+@unripe@|@chqint-u@
+@vegetable garden@|@o-rtil-, o-rtwin-@
+@vegetables@|@xul-@
+@vessel@|@chkud-, chkuzh-@
+@vinegar@|@zhum-or-@
+@vineyard@|@binex-@
+@vulva@|@chur-@
+@wall@|@kädala, kida@
+@water@|@cqar-@
+@wax@|@chir-@
+@wear out@|@cirac-, circ-, ciric-, ciroc-@
+@wears out@|@janj-, njanj-@
+@weep@|@gi-@
+@wheat@|@irk-@
+@where@|@so@
+@Where is my room?@|@So re chkimi otaxi?@
+@Where is the bar?@|@So re bari?@
+@Where is the beach?@|@So re zgvapiji?@
+@whet@|@las-@
+@which@|@mu-@
+@white@|@ch-e@
+@white of egg@|@cila-@
+@who@|@mi-n@
+@wife@|@chil-, chir-, osur-@
+@wild strawberry@|@murg-@
+@wine@|@gwin-@
+@wink@|@pachk-, pachkv-@
+@winter@|@tonzh-@
+@winter wheat@|@ndolo@
+@wish@|@pian-@
+@without one hand@|@xe-kule@
+@wolf@|@ger-@
+@wonder at@|@kvir-@
+@wood@|@tqa-, tqal-@
+@wooden vessel@|@kod-@
+@woodpecker@|@kädä-, kida, kidu@
+@woven@|@bond-@
+@yell@|@berzhg-el@
+@yesterday evening@|@guma@
+@yet@|@od-o@
+@yoke@|@ug-u@
+@your@|@sk'an-, skan-, tkwa, tkwan@
+

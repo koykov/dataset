@@ -1,0 +1,774 @@
+@English@|@Komi@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a back body part@|@puli-pom@
+@a certain quantity@|@ko-min@
+@a curved body part@|@miš, mišk-@
+@a felled tree@|@lep, lúp@
+@a k. of berry@|@mir-pon, mol, nur-mir, nur-mol, pelij, pelis@
+@a k. of berry (1)@|@turi-mol@
+@a k. of bird@|@chakchej, colca, covca, gada, tovta@
+@a k. of bird of prey@|@chikchi, suz, zus, zuz@
+@a k. of brew@|@laz, lazj-@
+@a k. of cereal@|@šobdi, šogdi, šu.gdi@
+@a k. of disease@|@miž, miža@
+@a k. of duck@|@sul-cež, sul-cëž, sulka, sult-cež, ves, vez@
+@a k. of fir-tree@|@nil, niv, nøl@
+@a k. of fish@|@gic, ke.lci, kelci, mik, sin@
+@a k. of fish trap@|@kolas@
+@a k. of grass@|@nach@
+@a k. of illness@|@nora vije@
+@a k. of insect@|@ocher@
+@a k. of metal@|@ez-is@
+@a k. of pallet@|@žež-i.v, žož, žož-ul, žuž@
+@a k. of plant@|@zer, zür@
+@a k. of salmon@|@uj@
+@a k. of thin meal@|@šid, šød@
+@a k. of tree@|@sir-pu@
+@a k. of trout@|@kom@
+@a k. of vessel@|@doz, duz@
+@a k. of vessel made of birch@|@lanes@
+@a k. of wild duck@|@gorda, kereg@
+@a k. of willow@|@bad@
+@a k. of woodpecker@|@kir, kir, sed-kir@
+@a large animal@|@vel, vev, vól@
+@a round vessel@|@kejnes@
+@a small bird@|@žiž, žïž@
+@a small fish@|@gurina@
+@a small fly@|@nom, nom-, nomj-, num@
+@a water bird@|@kosis@
+@across@|@kechcheb@
+@air@|@sinad, sined, sined, sinëd, sinëd, sinöd@
+@alder@|@lol-pu, lom-pu, lopu, vov-pu@
+@all@|@bid@
+@alt@|@važ@
+@an onion-like plant@|@komij, ku.mic@
+@and@|@da, i@
+@angel@|@andel, idög@
+@animal@|@pemös, poda@
+@annual ring@|@si@
+@ant@|@kodzivkot, kojul, kójul, kojul-kot, kožul-kot@
+@ant (1)@|@kejiv@
+@apple@|@iablöis, ulmö@
+@arm@|@ki, soi@
+@armpit@|@konuvt, konvos, kumlés, kunles, kunul@
+@arrow@|@n'öv, nev, nil, núl@
+@ash@|@kin', pöim@
+@ashes@|@pejim, po.im@
+@asp@|@pi-pu@
+@autumn@|@ar@
+@axe@|@cher@
+@axle@|@dod-vož, ož, vož@
+@back@|@mak@
+@back side of a knife@|@tiš, tišk-, tøš@
+@bad@|@lök@
+@bald@|@kuš@
+@bark@|@keja, kirs, kor, ku@
+@barley@|@chuž, chužj-, cuž, cuž-, cužj-, id@
+@basket@|@kuda@
+@bast@|@kaj@
+@be born@|@sod-, su.d-@
+@be suffocated@|@ped-, pud-@
+@bear@|@oš@
+@beard@|@toš@
+@beaver@|@moj@
+@become@|@vel-, vev-, vo.l-@
+@bed@|@krövat@
+@bee@|@maliamuch, maliazi, mazi, moš, muš@
+@beer@|@sur@
+@behind@|@kaj@
+@belly@|@kine.m, kinem, kot-ku@
+@bend@|@siger, sigër@
+@bent@|@kichil, kichol@
+@berry@|@oz, pul, uz@
+@bifurcation@|@vož@
+@big@|@idjid, idžid, un-aj, una, una.@
+@birch bark@|@toj@
+@birch tree@|@kij, køj@
+@bird@|@kai, lebach, pötka@
+@birdcherry@|@lem, lemj-@
+@bitter@|@kuj, kurid, kurit, kurø.t, vel-k.-turun@
+@black@|@s'öd, sim, sim-@
+@black-cock@|@cukci, tar@
+@blackjack@|@neš, nešk-@
+@blood@|@gird, vip, vir@
+@blue@|@löz@
+@blunt@|@niž, nøž@
+@board@|@pel, pelj-, pev, pevj-, pul@
+@boat@|@piž@
+@body@|@mig, migör, tucha, vivtir@
+@boil@|@pu- puv-@
+@bone@|@li, lø, ly@
+@book@|@kniga, nebög@
+@box@|@burna@
+@boy@|@pi, pia.n@
+@brain@|@vem, vim@
+@branch@|@vos, vosk-@
+@bread@|@keriš, kó.riš, nian'@
+@bread insipid@|@këd, keld@
+@breast@|@pi, pij@
+@bridge@|@pos@
+@bristle@|@su, zu@
+@brook@|@šor@
+@brother@|@vok@
+@brown@|@perkal'@
+@bull@|@eš, ešk-, eška, o.ška, öch@
+@burden@|@nop@
+@butter@|@öl@
+@butterfly@|@bobuv@
+@calf of leg@|@cer, ceres, cúrös@
+@carry@|@nu-, vaj-@
+@carving@|@lu@
+@cavity@|@guran, lažgedci-, lažmid@
+@cereal@|@nur, nurj-@
+@chase@|@voj-@
+@chew@|@seski-@
+@chin@|@an@
+@chop@|@ca.pki-, capki-, o.kti-, okti-, oktï-@
+@circle@|@kich, kor@
+@clay@|@soj, suj, sun, sun-soj@
+@clean@|@pelk, sej, só.j-, soj sež-@
+@closed@|@ob, ob-@
+@cloth@|@dera, derem, dóra@
+@cloud@|@kime.r, kimed-, kimer, pil, piv@
+@cold@|@kin, køn@
+@colour@|@rem, remid, róm@
+@comrade@|@jort@
+@conifer@|@po.žøm, požem, poži.m, požu.m@
+@cook@|@pež-, pú.ž-@
+@copper@|@irgen@
+@cover@|@ped-@
+@crane@|@turi, turi.@
+@creek@|@šor@
+@cross@|@kusk@
+@cross-beam@|@tik, tikj-@
+@crowd@|@juk, jukert-@
+@crust@|@komel, komil@
+@currant@|@se.tør, sete.r, seter@
+@curved@|@nuk, nukis@
+@curved wood@|@letsan-vuž, vuž@
+@cut@|@vundi'-, vundi-@
+@damn@|@jor-, jor-kiv, jord-@
+@dark@|@pemid, pemit, pi.møt@
+@darken@|@sasti-@
+@daughter@|@nil, niv, nøl@
+@daughter-in-law@|@mon, mun@
+@day@|@lun@
+@deep place in water@|@jir, jør@
+@dense@|@top@
+@dew@|@puž, pužim, pužma.l-@
+@dig@|@mudji-@
+@dirty@|@ses@
+@diver@|@tokti@
+@divide@|@šer-, šir-, šo.røt-, šør-@
+@dog@|@pon, pun@
+@door@|@ez-es, ib-es, úz-øs@
+@dream@|@on, onm-, un@
+@drinking vessel made of birch@|@cib@
+@dry@|@kes, kos, kos, kos, kos, kós, kosmi-, kosmï-, kus, surem, surmem, surø.m@
+@dry branch@|@šeg@
+@dull@|@niž@
+@eagle@|@kuch@
+@ear@|@pel@
+@early@|@oz, uz, voz@
+@earth@|@mu@
+@edge@|@berd, dor@
+@edge of shoe@|@pichin@
+@eight@|@kekjamys@
+@elbow@|@gir, girja, girja., pije.s, pijes, pijø.s, pižes@
+@elbow (1)@|@gøriža.@
+@elder@|@žo-pu, žu@
+@elder female relative@|@ob@
+@elevation@|@kir@
+@end@|@vijes, vijna, vijt, vijta, vijtas@
+@end of trunk@|@din, dïn@
+@engrave@|@chup-@
+@even@|@volk@
+@evil spirit@|@kul@
+@external@|@ile, ilin, ive, ivi.n, øla., øla.n, ølø., ølø.n@
+@eye@|@sin, sinm-@
+@fang@|@vojir@
+@farrow@|@murka@
+@fat@|@sil, vi, vij@
+@father@|@ai, aj@
+@fathom@|@sil, siv@
+@feel@|@mod, mojd-kil@
+@female@|@nin@
+@fence@|@vož@
+@few@|@etcha, ic-mo.n@
+@fifty@|@kvajti-min, kvati-min@
+@fight@|@durski-@
+@find place@|@ter-, tor-@
+@fine snow@|@kid@
+@finger knuckle@|@cun, cún@
+@fir@|@kez, koz, kuz@
+@fir tree@|@pomol, ponel, ponu.l@
+@fire@|@bi, bia, bija, til-kert, tila@
+@fish gills@|@šel@
+@fish scales@|@sem, sum@
+@fist@|@mižik@
+@five@|@vit@
+@flabby@|@len, li.cøt, lic, licid, licit, lonid, lun-, ven@
+@flame@|@imirt-, imral-, lum@
+@flank@|@ord-l'i, ord-li, ord-vi@
+@flat@|@pan-lop, pelis-lop, pevis-vop@
+@flesh@|@jaj@
+@float@|@bi-pur, pes-pur, pur@
+@floor@|@pid, pød, sod@
+@floppy@|@liškid@
+@flour@|@piz, pïz, piza.v-, pizal-, piznal-, piznav-@
+@fly@|@le.bal-, leb-, lej, luj, veb-, vej@
+@fog@|@ru@
+@folk@|@goz, guz@
+@follow@|@vet-@
+@forty@|@veti-min@
+@four@|@nel@
+@fox@|@ruc, rúc@
+@fragile@|@raš, reš, riš@
+@fringe@|@tug@
+@front part@|@oj, uj, voj@
+@frozen@|@tural-@
+@frozen snow@|@ca.røm, care.m, carem@
+@full@|@dela, dol, tir, tir-, tirmi-, tør, tør-@
+@gall@|@sep, sop@
+@gather@|@vot-@
+@gills@|@lokcim, nekcim, nokcim@
+@girdle@|@ji, jï, jú, ven, von, von, vun@
+@girl@|@nyv@
+@glitter@|@juljal-, jullal-@
+@glue@|@lem, leme.t-, lemed-@
+@gnaw@|@gechki-@
+@god@|@jen, jenm-@
+@good@|@bur@
+@grain@|@jiki@
+@green@|@turun bij@
+@grey@|@jor@
+@gudgeon@|@jir, jør@
+@gums@|@an, pin-an@
+@hairless skin@|@nar@
+@half@|@pel, pev, pól@
+@halter@|@sermëd@
+@hand@|@ki, kørø.m, ti@
+@handful@|@gabir, kabir, kirim@
+@handle of vessels@|@öhr', vug@
+@hang up@|@okta, okti-, öktï-, oktim-@
+@hard@|@corid, corit, cu.røt, lö, loled-, naj, naž-@
+@hard snow surface@|@juž@
+@hare@|@nima.l@
+@hat@|@uz@
+@hay@|@turin, turø.n, turu.n, turun@
+@hazelnut@|@pachkan, paškan@
+@he@|@si@
+@head@|@pom, pon@
+@healthy@|@šan@
+@heap@|@much@
+@heart@|@selem, seve.m, soløm@
+@heat@|@ed, ru@
+@heaven@|@jen-ež@
+@hemp@|@ken-, ko.n-@
+@herd@|@cuker@
+@here@|@ati, tani@
+@high water@|@it-va@
+@hit@|@ke.ral-, kera.v-, keral-@
+@hoar-frost@|@gier@
+@hole@|@em, kiš, pa.skøt, roz, um, vem, vom@
+@hollow@|@girk, gørk@
+@hollow hand@|@soj@
+@hollow of hand@|@kamir@
+@hollow vessel@|@gir, gør@
+@horn@|@sur@
+@hot@|@pym@
+@house@|@ke.r-ku, ker-ka, ker-ku, ko.r-ku, vic-ko, vic-ku@
+@how@|@kiden@
+@how much?@|@mij-minda, munda@
+@hundred@|@se, so, sö@
+@hut@|@ma.tø, mate@
+@I@|@me@
+@ice@|@in, ji, jï, jú@
+@illness@|@kiž@
+@incantation@|@cornit, sorni, sornit@
+@inflammable material@|@is-te.g, is-teg, is-tøg, teg@
+@inside@|@pelsin, pich@
+@interrogative particle@|@-e, -ja@
+@interval@|@kolas, kos, kos, kova.s, vež- vi.ž-, vežli-, vis@
+@intestinal worm@|@kol, kolj-, kov, kov-gag, kovj-, škol@
+@intestine@|@sita.n-su, sul@
+@invite@|@kesji-, kosji-@
+@iron@|@kert, kórt@
+@island@|@di@
+@it@|@si, si.da, sija, sije@
+@juniper@|@kach-pomel@
+@jutting out@|@mo.røs@
+@kidney@|@verk@
+@king@|@eksy@
+@knot@|@kiz, kíz@
+@lake@|@ty@
+@land@|@mu@
+@language@|@kil, kiv, køl@
+@lap@|@elej, ol-voj, volej@
+@larch@|@neja-pu, nia, nia-pu@
+@large@|@giris, gris@
+@lattice@|@raj@
+@leaf@|@kor, kur@
+@leaf of a conifer@|@lis, lisk-, list-, løs, vis@
+@lichen@|@j.-nich, jal, jala, jala-nich, nich@
+@lid@|@sin-kud@
+@limb@|@jez, jez-vij@
+@lime bast@|@nin@
+@little finger@|@cal, cal-, calj-, call-@
+@lively@|@perid, perit@
+@liver@|@mus, musk, muskis@
+@lizard@|@cojul, cujøl, joji.v, jojuv@
+@lobby@|@kum@
+@long@|@kuz, kúz@
+@look@|@azzed-, azzi-, àzzi-, vidli-, viz-@
+@loss@|@chik-, chike.t-, chiked-, chøk-, chøkø.t-@
+@louse@|@toj, túj@
+@lowland@|@lud, son, vud@
+@lung@|@ti@
+@lust@|@kam@
+@lye@|@kun@
+@male@|@kir, kir-pon, kør@
+@man@|@mort@
+@many@|@yna@
+@marten@|@niz@
+@mead@|@ma@
+@meadow@|@gid@
+@meat@|@nir silan@
+@membrane@|@ken, kil@
+@method@|@kod, kojd, kud@
+@midday@|@lun, vun@
+@midge@|@nom, num@
+@mitten@|@ke-pis, ki-pis, te-pis@
+@morning dawn@|@kia@
+@moss@|@roj@
+@mother@|@en@
+@mould@|@bag, bak, buk@
+@mountain@|@göra, ver, vúr@
+@mouse@|@šir, šør@
+@mouth@|@s-kës, su-kes, su-kese kosme@
+@much@|@una, una.@
+@mushroom@|@gob@
+@muzzle@|@tirp, tørp@
+@nail@|@giž@
+@name@|@nim@
+@narrow@|@me-ser, me-ser, me-ser, me-ser, me-ser, me-ser, mu-sur, mu-sur, mu-sur, šog, šog, sopid, vesni 'dünn@
+@narrow (1)@|@sopal-, sopkal-@
+@nasty@|@pež@
+@near@|@matin@
+@neck@|@si-kech, si-kech, si-kej, si-kež, sijes, sili, silï, siø.s, sivi., sjes, søli.@
+@needle@|@im, jem@
+@negative particle@|@e-, i-, o-@
+@nest@|@poz@
+@net@|@kulem, kuve.m, til, til@
+@net trap@|@kaz@
+@new@|@vil@
+@night@|@oj, új, voi, voj@
+@nine@|@ekmys@
+@nits@|@seral, sere.v, serol, serov@
+@not@|@ni-nem@
+@number@|@lid, lidji-, løddi-, vid, viddi-@
+@oak@|@tu-pu@
+@oats@|@pane.v, panö, panol, panov@
+@oblique@|@tuj-vež, túj-viž, vežen munni, viž@
+@odor@|@is, isk-@
+@old@|@peris, perïs, važ, vener@
+@on top@|@vil, vile, vilin, viv, vive, vivin, vøl, vølø@
+@one@|@et-pir, ëti-k, etik, ëtik, ëtïk, ot-pør eti@
+@open stone oven@|@gor@
+@order@|@ser@
+@other@|@nuimp, nuimpe, nuipp, nump@
+@part@|@rec@
+@part of shoe@|@dod-sul, dojd-suv@
+@patch@|@dem-, dem-, dema.s, demed, dü.mas@
+@peg@|@cheges, tul, tuv@
+@perch@|@jokiš, jokuš@
+@person@|@ko.mi, komi, mort@
+@piece@|@tor, tör@
+@piglet@|@pors@
+@pike@|@sir@
+@pine@|@sus, sus-, sus-pu, susk-@
+@pine forest@|@jag@
+@pine-tree@|@pozhem@
+@place@|@-in, in, pen-@
+@place behind something@|@mij, mis, mist, misti@
+@place for lying@|@vol@
+@plait@|@ki-, kij-, ku.-, pin-@
+@pole@|@jal, jav, sor, žal@
+@pole with shortly hewn boughs@|@sirs, sirsa@
+@pond@|@ti, tø@
+@porridge@|@rok, rök, ruk@
+@post@|@i, ï@
+@present@|@kozin, kú.zin, ni, nin, nin, nïn@
+@price@|@artal-, don@
+@prince@|@ozir, özïr@
+@prop@|@myž@
+@pull out@|@sez-@
+@push@|@kut-@
+@quiet@|@tehän, tewän@
+@raise@|@teral, tersi-, ve.rd-, verd-@
+@ram@|@mež@
+@rapids@|@kos, kosh, kosk, kosk-, kost@
+@raspberry@|@emij@
+@raven@|@kirni.š, kirniš, kørni.š@
+@reason@|@avja, mil-kid, miv-kid@
+@red@|@görd@
+@region@|@kos vijez, mij-vijez, mij vijen, šer-vij, vijes@
+@release@|@lej-, vej-@
+@revolve@|@be.rgal-, berga.v-, bergal-@
+@ring@|@jer, jor, meg@
+@rip@|@kos, kos-, ku.sølt-, nec-, nech-, or-, u.r@
+@river@|@ju, kom-mu@
+@road@|@tuj, túj@
+@root@|@vuž, waas@
+@root end@|@jur@
+@rope@|@kel, kev@
+@rotate@|@kež-, kiž-@
+@rotten@|@sysj, žoz, žoza, žozmi-@
+@row@|@piš, pøš@
+@rub@|@vušši-, vušti-@
+@rudder@|@mal@
+@rump@|@kos@
+@run away@|@pišjen, pïšjen, pišji-, pøšši-, pøššji-@
+@running@|@cual-, cued-, cula.l-, cuvav-@
+@rust@|@sa@
+@sack@|@sepis@
+@salt@|@sol, söl, sov, sul@
+@sand@|@kež, keža, kú.ja, kúža., lia, liva@
+@scab@|@lem, lemjes@
+@scoop@|@koj, kój, koj-@
+@scrape@|@niral-@
+@seed@|@kid@
+@sell@|@med@
+@separate@|@juk, juk-, juka.l-, juken-, pucha.v-@
+@seven@|@sizi.m, sizim@
+@shadow@|@a.cim, acim, saj, saje@
+@shaft@|@nud@
+@sharpen@|@kesli-, kesvi-@
+@shave@|@velal-, vo.lal-, vova.v-@
+@she@|@si@
+@sheep@|@iž, iž-ku, øž@
+@shine@|@volal-, volk, vollal-@
+@ship@|@piž, pižj-, pøž@
+@shit@|@sit, sita.n, sitan@
+@shoe@|@kem@
+@shoot@|@li-, lij-, ner, núr, vij-@
+@shore@|@kan@
+@shoulder@|@voch-li@
+@shy@|@vej@
+@side@|@ked-vi, ked-viez, šor-viø, šór-viø.n, viø.n viø.z@
+@side (1)@|@berdin@
+@sieve@|@pož, puž@
+@sinew@|@sen@
+@sister@|@sozor@
+@sister of father@|@soc@
+@sister-in-law@|@kel, kelj-, kelja, kevja@
+@sitzen@|@puk-@
+@six@|@kvait, kvajt, kvat, kvat'@
+@sixty@|@ki-min@
+@ski@|@kies@
+@skin@|@ež, ëž, kil, kin@
+@skin from the paws of animals@|@kis, køs@
+@slave@|@ver@
+@sleeve@|@ki-soj, soj, söj@
+@sleigh@|@nork, nort@
+@slippery@|@gilid@
+@slow@|@než, neže, nežje@
+@small@|@cir, cirj-, ic-aj, ic-in, ic-mon, nan-c., ženid, ženid, ženit, ži.nøt@
+@small river@|@vel, vol, vol-ju@
+@smell@|@koches-duk, kochis@
+@smoke@|@chin, chón, chøn, tchin@
+@smoke hole@|@reped@
+@snot@|@ziri.m, zirim, zørø.m@
+@snout@|@nir, nør@
+@snow@|@lim, løm, lym, vim@
+@snowstorm@|@pira, pirzi-, pørzø.t-@
+@soar@|@šilgi-, šivgi-@
+@soft@|@läpkä, lewe, liwä, lüpka, sez@
+@some@|@neuna@
+@something elevated@|@mores, moros@
+@something protruding@|@toš, toš-, tošk-, tuš@
+@something slippery@|@nila vilin@
+@sorrow@|@sumal-@
+@soul@|@lol, lul, vov@
+@soul of a dead@|@šen@
+@soup@|@lem@
+@sour cream@|@nek@
+@space below something@|@-iv, -ul, ul, ulin, ulø.n, uvin, žež-iv, žož-ul@
+@spark@|@bi-ken, bi-kin, kin@
+@speak@|@šu-, šuv-@
+@spear@|@jos@
+@spend a night@|@oj-kev uz-, voj-kol uz-, voj-kolav-@
+@spit@|@es-, ú.søt-, vos-@
+@spleen@|@lop, lopj-@
+@splinter@|@pirig, pirig@
+@split@|@pas mun-, paska.v-, paskal-, paskid, paskit@
+@spoon@|@pan@
+@spring@|@tu-, tuli- tulis, tulø.s, tuvi.s@
+@squeeze@|@picki-, pïcki-@
+@squirrel@|@ur@
+@stake@|@poch, sevin@
+@stalk@|@bed@
+@stallion@|@can 'id., už@
+@star@|@keji.v, kojul, köjul@
+@stay@|@kol-, ku.l-@
+@steam@|@mël-këd, mil-kid@
+@steep@|@nï@
+@stem@|@za@
+@step@|@oskel, oskev, oslal-, u.skøl, voskol, voslal-@
+@step (1)@|@osjkõl@
+@stick@|@zib, zibj-@
+@stick into@|@toj-, toj-, tu.j-, tu.j-@
+@stiff@|@tural-, turdi-@
+@stifle@|@ža.gal-, žag-gered, žaga.v-, žagal-, žaget, žagged@
+@stomach@|@kok-pek, pek, pók@
+@stone@|@iz-ki@
+@stop@|@dugdy-@
+@straight@|@vesykid@
+@strew@|@kiski-@
+@strike@|@caš, cašji-, cašmun-@
+@striving@|@zil@
+@stroke@|@zira.v-, ziral-@
+@strong@|@cjorid, jon, jonmed-, jonmet-@
+@stump@|@žek@
+@submerge@|@sun-, suna.v-@
+@support@|@mij@
+@surface@|@vøløn@
+@swallow@|@pisci, pisti@
+@swamp@|@jegir, jëgïr, nur, pereb@
+@swampy sea@|@ti-kela@
+@swan@|@jus, jusk-@
+@sweat@|@pes@
+@sweet@|@jum@
+@swelling@|@mil@
+@tail@|@bež, buž, pola@
+@tar@|@sir, sør@
+@taste@|@zin@
+@temporary shelter@|@com, cöm, cum@
+@ten@|@das@
+@tent@|@en, un, von, vonj-@
+@tent roof made of birch bark@|@tisa, tiska@
+@testicle@|@'ei, kolk, kul'k@
+@testicles@|@kel@
+@that@|@ata, ena, med, múd, na, naja, naje, to, to-lun, to-taj, tu.taj@
+@that (1)@|@ti, tin, to-lun, tu, tu.nji@
+@there@|@seni@
+@they@|@naiö@
+@thick@|@chek, iži.t, ižid, kiz, køz, øžø.t, suk@
+@thick end of tree@|@dinin, dinø.n@
+@thin@|@ve.kni, ve.knit, vekni, veknid, veknit@
+@thin fibre@|@sej@
+@thing@|@maj, mij, møj, muj, tark@
+@thirst@|@sima.l-, sima.v-, sumal-@
+@thirty@|@nela-min@
+@this@|@e.na, nija, nije, ta, ta-vun, taja, taje, te-rit@
+@this (1)@|@e.na, eta, etaja, etaje, te-lun, ten, ten-lun, ton@
+@thou@|@te@
+@thousand@|@sjurs, surs@
+@three@|@kuim, kuji.m, kujim, kvim@
+@threshing-floor@|@rimiš, riniš@
+@throat@|@gorš@
+@thumb@|@pel, pev@
+@time@|@kad, pel, pev, pir, pør, púl, si kade@
+@tip@|@cup, ši@
+@tired@|@ruj mun-, vis-@
+@titmouse@|@zojna@
+@to ask@|@jua.l-, jual-, juval-, juváv-, kor-, koras-@
+@to ask (1)@|@kora.s-@
+@to bark@|@ut-, ut.-, uvt-@
+@to be@|@lo-, lu.-, vijim, vo-@
+@to be able@|@vinol, vinov@
+@to be afraid@|@pol-, pov-, pu.l-@
+@to be forgotten@|@vun-, vune.t-, vuned-, vunsi.-@
+@to be stretched@|@nuž@
+@to be warm@|@pim, pøm@
+@to become cold@|@kezid, kezit@
+@to become dry@|@kosti-, ku.sti-, sur-@
+@to become free@|@min-@
+@to become numb@|@po.žal-, pojal-, poza.v-, pozal-@
+@to become sour@|@nan-šem, šom, šúm@
+@to become wet@|@sez-@
+@to believe@|@eski-, je.ski-@
+@to bind@|@it-, jit-, jït-, ker-, kërt-@
+@to bite@|@kurca.l-, kurcci-, pur-@
+@to blow@|@puški-@
+@to bore@|@pir-nol, pir pirij, pired-@
+@to bow@|@tuj-@
+@to break@|@ceg-, ci.g-, sered-@
+@to bring@|@no.t-, nuø.t-@
+@to burn@|@in, inal-, ined-, purd-@
+@to catch with a net@|@-vo.tan, ce.ran-vo.tan, vetes ceran-vetes@
+@to chew@|@remij@
+@to chop@|@les-, lesal-, lesji-, vesji-@
+@to climb@|@kaj-@
+@to close eyes@|@kun-, kún-@
+@to comb@|@sin-, sina.v-, sinal-, sinan, sønal-, sønan, sors@
+@to come@|@šerged-, vo-, vo.lli-, vu-@
+@to come in@|@pir-, pør-, sun-@
+@to conjure@|@vomiz@
+@to cough@|@kiz-, kizet-, køzø.t-@
+@to cover@|@leb, léb, lep@
+@to curve@|@kirišci-, kirišen@
+@to cut@|@celal-, celan, celes, vez-@
+@to dance@|@jekti-, jokti-@
+@to devour@|@palak@
+@to die@|@kul-, kuv-@
+@to dig@|@kir-, kire.t-, kørøšt-@
+@to diminish@|@cin-@
+@to drink@|@ireš, ju-, juktal-, ørø.š@
+@to dry@|@šupa.v-, šupal-, šura.v-, šural-, šure.t-, šured-@
+@to eat@|@sod-, soj-, soved-, su.j-@
+@to enter@|@pir-@
+@to exchange@|@ve.šti-, vešti-, vežti-@
+@to extinguish@|@kus-, kus.-@
+@to fall@|@us-, ús-@
+@to fall apart@|@gilal-@
+@to fall down@|@per-, pú.r-@
+@to feel@|@ted, ted-, tidal-, tidav-, tod-, tuda.l-@
+@to fish with a net@|@kelt-, kevt-@
+@to follow@|@kij-, kijed-, køj.-@
+@to ford@|@kel-, ko.l-@
+@to frazzle@|@raz-@
+@to get accustomed@|@tun, tunal-@
+@to give@|@ud-@
+@to gnaw@|@jar-, jár-, jär-, jir-, jør-@
+@to go@|@mun-@
+@to go away@|@lak-, lakt-, lok-, lokt-@
+@to grow@|@cuž-@
+@to hack@|@kok-@
+@to hang@|@kiš-, kišal-, tak, taked-@
+@to have time@|@ešti-, je.šti-, ješti-@
+@to hear@|@kil-, kiv-, køl-@
+@to heat@|@ezji-@
+@to hit@|@pes-@
+@to kill@|@vi-, vij-@
+@to knead@|@loj-, voj-@
+@to laugh@|@sera.v-, seral-@
+@to lick@|@nul-, nuv-@
+@to lie@|@kujli-, kujvi-, kulli-@
+@to limp@|@co.t-, cot-@
+@to live@|@o.l-, ol-, ov-@
+@to mate@|@koj-, kut@
+@to measure@|@murtal-@
+@to meet@|@pan-@
+@to melt@|@sil, siv, søl@
+@to milk@|@listi-, visti-@
+@to obtain@|@su-@
+@to open@|@taral-@
+@to order@|@lesal-, vesav-@
+@to peel@|@kul-, kúl-@
+@to peel bark@|@ül-, vo.l-, vol, wül-@
+@to pierce@|@bichki-, bøchki.-@
+@to pinch@|@cepe.l, cepel@
+@to plait@|@puchki-, puchkï-, sekta.v, sektal-@
+@to point@|@suj-@
+@to pour out@|@bujdi-, buždi-, buždi-, buždï-, bužed@
+@to praise@|@oški-, u.ški-@
+@to press@|@licki-, nir-, pijirt-, pijørt-, pižirt-, pontal-@
+@to press (1)@|@ichki-@
+@to press together@|@namilt-, namlav-, numir-namir ker-@
+@to pull out@|@celt-, cevt-@
+@to reach@|@suj-@
+@to rest@|@šocci-, šocci.s-, šojcci-, šucci-@
+@to ripen@|@kismi-, kismi.-@
+@to rot@|@sis@
+@to row@|@sin-, søn.-@
+@to run@|@koter-@
+@to scatter@|@kundi-@
+@to scrape@|@kural-, kurav-@
+@to search@|@košji-, košši-@
+@to see@|@ka-zal-, kaza.v-, kazal-@
+@to sew@|@vur-, vuris@
+@to shake@|@piški-@
+@to sink@|@vej-, vu.j-@
+@to sit down@|@sel-, sev-@
+@to slough@|@gilal-@
+@to snuff@|@nisti-@
+@to sour@|@šuj-, šuz-@
+@to spawn@|@kulmi-@
+@to spit@|@selal-, seva.v-, so.lal-@
+@to split@|@kik pele jukni, peld-@
+@to spread@|@venged-, venjav- vengis-@
+@to spring up@|@cecci-@
+@to sprout@|@pušji-@
+@to stamp with feet@|@tap-tap kar-, tapki-@
+@to stand@|@sij-, sula.l-, sulal-, suva.v-@
+@to step over@|@vuž-@
+@to suckle@|@njimnji@
+@to swallow@|@nil-, nøl-@
+@to sweep together@|@mic, mica@
+@to swell@|@dundi-, tundi-@
+@to swim@|@uj-, új-@
+@to tear@|@reza.v-, rezal-@
+@to throw@|@koj-, koj-, kój-, led-, šet-@
+@to tickle@|@gila.l-, gila.v-, gilal-, gile.t-, giled-, gilø.t-@
+@to touch@|@kochki-@
+@to understand@|@alji-, avji-, kuž-, velal-, veva.v-, vó.lal-@
+@to urinate@|@kuj, kúj, kúja.l-, kujal-, kujav-@
+@to wash@|@miska.l-, miski-@
+@tongs@|@bi-peš, peš, peša@
+@tongue@|@kyv@
+@tooth@|@pin@
+@top@|@cuk@
+@touch@|@ma.lal-, malal-, mava.v-@
+@trade@|@vuz@
+@trap@|@ri, rinalk@
+@tread@|@tal-@
+@tree bark@|@sol-kor@
+@tree juice@|@li@
+@tree sap@|@jel, jev, jól@
+@tree stump@|@gid@
+@tuber@|@bugil@
+@turned over@|@kime.s, kimes, kimi.n, kimin, kømø.s, sin-kim@
+@turned over (1)@|@kim-, køma.l-, kømi.n@
+@twenty@|@kiz@
+@two@|@kik, køk, kyk@
+@unbind@|@juski-, juski.-@
+@uncle@|@chož, což, cozh@
+@understanding@|@al, av, vežer, vi.žør@
+@urge@|@va.šøt-, vaše.t-, vašed-@
+@valley@|@aj@
+@variegated@|@koch, kocha, kucha@
+@vessel made of birch bark@|@pert, purt@
+@vicinity@|@do-rø, do.ris, do.røn, dore, dorin, doris, dorïs@
+@vomit@|@gorji-, gorze.t-, gu.rzøt-@
+@walk@|@kilal-, kiva.v-@
+@want@|@bur-si-, si-@
+@warm@|@regid, šo.nal-, šona.v-, šonal-@
+@warmth@|@go.žøm, gož, gožem, gožim@
+@wash@|@pilsi-, pivsi-, pu.lsi-@
+@water@|@va@
+@wave@|@gi, gï, gib-, gibad, gibal-, gibed, gøba.l-, gubad@
+@wax@|@sis, sis-, sisk-, sist-@
+@we@|@mi, mije@
+@weak@|@lam mun-@
+@wet@|@ul, úl, ul'@
+@wet place@|@sul, zila, zilk, zilkja@
+@wetness@|@lapid, lapmi-@
+@what@|@myi@
+@when@|@kor@
+@where@|@kij, köni, kuj@
+@which@|@ken, kite.n, kiten, køtø.n@
+@while@|@cež, chež, lun-c.@
+@white@|@cockem, cockom@
+@who@|@ked, kiche-m, kin, kod, kodi, ku.dik, kuchem, kut@
+@whole@|@cil, vac@
+@wife of an elder relative@|@ena, ene@
+@wild@|@vúj@
+@wild animal@|@ser@
+@wild duck@|@cež, chež@
+@willow@|@paca@
+@wind@|@tel, tev, túl@
+@wing@|@til, tiv, tøl@
+@winter@|@tel, tev, tëv, tol@
+@wood@|@pu@
+@wood grouse@|@ba.duk, bajdeg@
+@woodpecker@|@siz@
+@worm@|@kej, perk@
+@yarn@|@šert, šort, suni.s, súni.s, sunis@
+@year@|@ar, ares, mejm-u@
+@yellow@|@kolk vik@
+@you@|@te, ti, tije@
+@young bird@|@kaj@
+@young grass@|@od@
+

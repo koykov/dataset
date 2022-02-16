@@ -1,0 +1,358 @@
+@English@|@Bonan@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1st Sg. ps. pronoun obl. case@|@näd-@
+@above@|@de-Gong@
+@afternoon@|@udu@
+@agreement@|@ganžëng@
+@all@|@hane@
+@anger@|@hor@
+@animals@|@žinžiGë@
+@arm@|@xar@
+@armpit@|@soxo@
+@arrow@|@sëmong@
+@ashes@|@homsong@
+@awl@|@sebgu, sëbkë@
+@bare@|@niskong@
+@be heated@|@he-@
+@be located@|@bei-, va-, vi-@
+@beautiful@|@sexang@
+@become cold@|@där-@
+@below@|@doGong@
+@belt@|@se@
+@besom@|@sir, šire-@
+@between@|@žabte@
+@big span@|@te@
+@black@|@xera@
+@blind@|@soxor@
+@blood@|@chisong@
+@bone@|@jasong@
+@breast@|@kugo@
+@bucket@|@solGë, sulGe@
+@buttocks@|@boGor@
+@button@|@tobchi@
+@chute@|@gëbi@
+@clay@|@hbar, šbar@
+@clean@|@arung@
+@close@|@xä-@
+@cloud@|@ölong, ulong@
+@collect@|@Gorudë-@
+@coral beads@|@sirë@
+@cow@|@unang@
+@crops@|@tarang@
+@crosswise@|@guandëlang@
+@cup@|@(a)jiGë@
+@daughter@|@oken@
+@daughter-in-law@|@vere@
+@dawn@|@or@
+@day@|@udër@
+@deep@|@gung@
+@descendant@|@fëre, fure@
+@difficult@|@kunte, kuntë@
+@direct@|@durë-@
+@direction@|@soG@
+@dissolve@|@šëngë-@
+@donkey@|@nžige@
+@door@|@ndang@
+@ear@|@chixang, chixong@
+@early@|@ete@
+@earth@|@širo, siru@
+@edge@|@nžor, užir@
+@egg@|@ndegi@
+@elbow@|@toxui@
+@employ@|@žare-@
+@end@|@sanchig, šienchix@
+@enjoy@|@bese-@
+@excrements@|@basong@
+@eye@|@nedong@
+@face@|@nor, nör, nur@
+@family@|@kete, kute@
+@far@|@Golo, xolo@
+@fart@|@-song, hongGë-@
+@fat@|@gum, šgum@
+@father@|@äbe, abo@
+@fathom@|@aldë@
+@feather@|@hotong@
+@few@|@chong@
+@finger-nail@|@Gomsong@
+@fire@|@xal@
+@fish@|@žil(G)asong@
+@fist@|@nëdërGa@
+@flea@|@bërgë@
+@floor@|@holër@
+@fly@|@mësë-, mose-@
+@food@|@badang@
+@foot@|@kul, kuol@
+@four@|@derang, derong@
+@fragile@|@kurëg@
+@friend@|@noker@
+@front of cloth@|@ënggër@
+@gall@|@selsong@
+@glue@|@žulsë@
+@good@|@sang@
+@grass@|@vësong@
+@grasshopper@|@žaGžaG@
+@green@|@koge, kugo@
+@guard@|@säGe-@
+@hair@|@sung@
+@hand@|@xar@
+@hard@|@batë, xotong@
+@hare@|@toli@
+@he@|@noge@
+@head@|@terong@
+@headstall@|@loxtë@
+@heart@|@žirge@
+@hen@|@texa, tëxa@
+@high@|@onder, under@
+@hold@|@vär(ë)-@
+@hole@|@nëkung@
+@hollow@|@xosong@
+@horn@|@ver@
+@horse@|@more@
+@horse(s)@|@asong@
+@house@|@gar, ger@
+@hundred@|@žong@
+@I@|@be, mene (gen.)@
+@ice@|@menšu, minsëu@
+@insect@|@GorGei, GorGi@
+@inside@|@dorë@
+@intestines@|@Gažisong@
+@join@|@žalxë-@
+@juice@|@šile@
+@jujube@|@chimxang@
+@kettle@|@tuGung@
+@knead@|@noGë-@
+@knee@|@ebdëg, vedeg@
+@lamb@|@GorGang@
+@land@|@Gachir, Gažir@
+@language@|@kalang, kelang@
+@large@|@ü@
+@larva@|@hodëg@
+@late@|@x-, xoro@
+@leaf@|@labchong@
+@light@|@singgang@
+@light (not heavy)@|@kungkang@
+@little@|@žigang@
+@liver@|@helgë, xelge@
+@long@|@fdu, ftë@
+@louse@|@bosong, bosung@
+@lungs@|@osgi@
+@magpie@|@sažiGi@
+@man@|@ere@
+@many@|@olong@
+@meat@|@meGa@
+@molar tooth@|@arë@
+@moon@|@sare, sera@
+@more than@|@silu, šilu, xelu@
+@mount@|@fune-, honë-@
+@mountain@|@öle, ulë, xi@
+@mouth@|@amang@
+@mow@|@chëbchi-@
+@nail@|@Gadasong, Gasong@
+@name@|@nare, nere@
+@navel@|@kisong@
+@neck@|@gužung@
+@needle@|@žung@
+@nest@|@hor, xor@
+@new@|@šine@
+@night@|@sone@
+@nose@|@xor@
+@not@|@le, se@
+@notice@|@sere-@
+@nourish@|@chiže-@
+@oath@|@andërëG@
+@obtain@|@ol-, olë-@
+@on this side@|@näna, näša@
+@one@|@nege@
+@one of two@|@reji@
+@palm of hand@|@halgë@
+@part@|@xua-@
+@pea@|@pëžaG@
+@person@|@kung@
+@pheasant@|@golGor@
+@plough@|@anžasun, anžisong@
+@poorly grown@|@alër, arën@
+@pregnancy@|@kele@
+@press@|@šixa-@
+@press into@|@chixë-@
+@pull@|@chirgë-@
+@rabid@|@Ganžir-@
+@rain@|@Gora, Gura@
+@rapid@|@Gordong@
+@ready@|@balang@
+@red@|@felang, fulang@
+@rib@|@xalGë@
+@river@|@morong@
+@robber@|@Golai@
+@rope@|@desong@
+@rush@|@Golsong@
+@sack@|@fda, fuda@
+@saddle@|@emel@
+@salt@|@dabsong@
+@say@|@ge-@
+@scissors@|@xichi@
+@shave@|@xasë-@
+@short@|@Gor@
+@shoulderblade@|@dali@
+@sickle@|@Gadër@
+@side@|@sëbdë@
+@similar@|@adali, adëli, mëtgo@
+@skin@|@arsong@
+@sleep@|@nor@
+@slice@|@segë-@
+@small@|@bežiGën@
+@smoke@|@fënë@
+@snake@|@moGui@
+@snow@|@chabsong, chasong@
+@sole of foot or footwear@|@la@
+@son@|@kü, kung@
+@song@|@dong, dun@
+@son-in-law@|@kurkang@
+@South@|@mëlë, mëltë, sang@
+@spark@|@oken@
+@star@|@xodong@
+@stem@|@jesi@
+@strand rope@|@mësGë-@
+@strike@|@ki-@
+@sun@|@narang@
+@table@|@šele, sile@
+@taste@|@amtëg@
+@ten@|@habran, harwang@
+@that@|@ter@
+@thick@|@beidong, žižang@
+@thin@|@narong, ninggang@
+@thirst@|@ndas-@
+@thirty@|@Gob-arang@
+@this@|@ene, ine@
+@thou@|@chase (Abl.), chë(chi), chënë (gen.), chose@
+@thread@|@ndasong@
+@three@|@Gorang@
+@to ask@|@asGë-, asxë-@
+@to attack@|@bël-, bula-@
+@to be able to cut@|@da-@
+@to be afraid@|@hergë@
+@to be ashamed@|@šiche-, že-@
+@to be full@|@dürge- (caus.)@
+@to be hungry@|@olës-, olos-@
+@to become@|@ol-@
+@to become acid@|@xošal-@
+@to bend backwards@|@gëtëgulë-@
+@to bite@|@kamel-, žëu-@
+@to break@|@vete-@
+@to burn@|@tule-@
+@to change@|@anžë-, anži-@
+@to chew@|@žežal-@
+@to chop@|@hdolë-@
+@to cling to@|@žira-@
+@to close eyes@|@hani-@
+@to clothe@|@mësë-@
+@to come@|@re-@
+@to come back@|@xärë-@
+@to complain@|@ža-@
+@to cover@|@nambëžo-@
+@to curse@|@xëra-@
+@to defecate@|@ba-@
+@to die@|@fgu-, hgude-@
+@to divide@|@Gua-@
+@to drink@|@ö-, u-, ü-@
+@to eat@|@nde-@
+@to embrace@|@tere-@
+@to enter@|@orë-@
+@to fall@|@na-, nä-@
+@to follow@|@daGa-, degë-@
+@to forget@|@martë-@
+@to freeze@|@gondë-@
+@to gape@|@angGi-@
+@to get drunk@|@soxte-@
+@to give@|@oke-@
+@to go out@|@xär-, xarë-@
+@to have a dream@|@žodele-@
+@to heat@|@xalë-, xalGë-@
+@to herd@|@adal-, adëlë-@
+@to invite@|@ure-@
+@to kill@|@ale-, alë-@
+@to know@|@made-, mede-@
+@to lay@|@desë-@
+@to lead@|@kutel-@
+@to let loose@|@andaGa-@
+@to lick@|@dolë-@
+@to listen@|@chonglë-@
+@to make@|@gië-, ke-@
+@to milk@|@sä-@
+@to mix@|@doGë-@
+@to move@|@gudal-, gudel-@
+@to mow@|@Gadë-@
+@to nail@|@Gadë-@
+@to open@|@ne-@
+@to pierce@|@cholë-, chorë-@
+@to pinch@|@chongGë-@
+@to pound@|@nëdë-@
+@to prepare@|@bëldë-@
+@to press down@|@da(r)-@
+@to pull@|@dë-@
+@to reach@|@kur-@
+@to rest@|@hamër-, hamera-@
+@to rot@|@hu-@
+@to saddle@|@toxë-@
+@to say@|@kele-@
+@to search@|@Gui-@
+@to see@|@nže-@
+@to shoot from a bow@|@xurë-@
+@to sit@|@seu-, sü-@
+@to sleep@|@tera-@
+@to smell@|@hun-de-@
+@to sneeze@|@nitë-@
+@to spin@|@tomël-@
+@to stamp@|@chixë-@
+@to step@|@bu-, bü-, halGolë-, xalGë-@
+@to swallow@|@žalxë-@
+@to take@|@ab-, an, apë-@
+@to trot@|@žongdong, žudong@
+@to tuck up@|@surë-@
+@to urinate@|@šie-@
+@to wait@|@säGe-@
+@to walk@|@hže-, ju-, šže-@
+@to walk submerging into water@|@mba-@
+@to wash@|@Gua-@
+@to wish@|@kuse-@
+@to wrap@|@horë-@
+@toe@|@Gor, xur@
+@together@|@hamdë@
+@tooth@|@(š)dong, hdong@
+@top of head@|@xoro@
+@track@|@mor@
+@trade@|@dandë-@
+@tree@|@mortong, mutong@
+@trousers@|@mëdong@
+@twenty@|@xorong@
+@two@|@Guar@
+@upwards@|@odë@
+@urine@|@šiesong@
+@vacant@|@sëla@
+@variegated@|@alëG@
+@vegetables@|@noGong@
+@wall@|@Ganžong@
+@warm@|@xolong@
+@wart@|@xëuzy@
+@water@|@se@
+@we@|@bede, man-@
+@weak@|@žulang@
+@weep@|@la-, lä-@
+@what@|@jang@
+@whip@|@mela@
+@white@|@chixang@
+@who@|@ha-, kang@
+@wind@|@ki@
+@winter@|@nggong, nggung@
+@without@|@gi@
+@wolf@|@china, chyna@
+@woman@|@eme@
+@wool@|@noGosung, noxsong@
+@work@|@le@
+@woven basket@|@arGong, aroG@
+@year@|@hong, xong@
+@year of life@|@nasong@
+@yellow@|@šira@
+@you (pl.)@|@ta@
+@younger sibling@|@dëu, du@
+

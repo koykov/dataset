@@ -1,0 +1,5150 @@
+@English@|@Papiamento@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@´drop@|@gota, kai@
+@a@|@den, na, un, un hende@
+@a few@|@algun@
+@a little@|@krenchi, poko@
+@a lot of@|@muchu@
+@abacus@|@teleram, tèlram@
+@abatement@|@rebaha@
+@abattoir@|@abatuar, matansia@
+@abbreviation@|@abreviashon@
+@ABC@|@alfabèt@
+@abdcation@|@abdikashon@
+@abdication@|@abdikashon@
+@abdomen@|@abdómen, bariga, barika@
+@aberration@|@eror, fayo, fout, kibokashon, kibukashon@
+@abet@|@asistí, yuda@
+@abhorrence@|@debòr@
+@abhorrent@|@abominabel@
+@abide@|@spera, sufri, warda@
+@abiding@|@durabel@
+@ability@|@kualifikashon, poder@
+@abject@|@baho, despresiabel, miserabel@
+@abnormal@|@apnormal, iregular@
+@abode@|@kas@
+@abolition@|@abolishon, anulashon@
+@abominable@|@abominabel@
+@abomination@|@debòr@
+@abort@|@faya@
+@abortion@|@aborto, frakaso@
+@about@|@aprokisimadamente@
+@above@|@ariba@
+@above-board@|@honesto@
+@abrasion@|@huñá@
+@abridgement@|@resúmen@
+@abroad@|@pafó, pafor, pafór@
+@abrogation@|@abolishon@
+@abrupt@|@abrupta, inesperá@
+@absence@|@manko, ousensia@
+@absent@|@ousente@
+@absent onself@|@sali@
+@absolute@|@apsoluto, ilimitá, kompleto@
+@absolute power@|@outokrasia@
+@absolutely@|@apsolutamente, efektivamente@
+@absolution@|@piedat, pordon@
+@abstract@|@apstrakto, kita, konklú, resúmen, teorétiko@
+@abstraction@|@apstrakshon, robo@
+@absurd@|@apsurdo@
+@abundance@|@abundansha, abundansia, rikesa@
+@abuse@|@abuso, insulto, maluzá, ofensa@
+@abysmal@|@feros, feroso, horibel, teribel@
+@abyss@|@abismo, precipicio@
+@Abyssinia@|@Etiopia@
+@academic@|@akadémiko, studiante, univèrsitario@
+@academy@|@akademia@
+@accent@|@aksènt@
+@acceptable@|@akseptabel, aseptabel@
+@access@|@ataka@
+@accessible@|@alkansabel@
+@accession@|@atkisishon@
+@accidence@|@kasualidat, koinsidensia@
+@accident@|@aksidente, desgrasia, kasualidat@
+@accidental@|@aksidental@
+@acclaim@|@aploudí, aplouso, aprobashon@
+@acclamation@|@aplouso@
+@accodionist@|@akordeonista@
+@accomodate@|@akomodá, asistí, finalisá, kaba, terminá, yuda@
+@accomodation@|@akomodashon, kas@
+@accompaniament@|@kompañamento, kompañamentu@
+@accompanist@|@kompaña@
+@accompany@|@kompañá@
+@accomplish@|@cumpli@
+@accomplishment@|@akshon, akto, echo@
+@accord@|@akuerdo@
+@accordance@|@akuerdo@
+@accordion@|@akordeon@
+@accordionist@|@akordeonista@
+@account@|@aklarashon, faktura, kuenta, motibu@
+@account (1)@|@deskripshon, informashon, kere@
+@account book@|@regester@
+@accountable@|@eksplikabel, responsabel@
+@accountrement@|@ekipahe@
+@accredit@|@kere@
+@accretion@|@kresemento, kresementu@
+@accumulation@|@akumulashon, monton@
+@accumulator@|@bateria, kolekshonista@
+@accuracy@|@presishon@
+@accurate@|@presis@
+@accure@|@krese@
+@accusal@|@akusashon@
+@accusation@|@akusashon@
+@accusative@|@akusativo@
+@accuse@|@kulpa@
+@accused@|@akusado@
+@accuser@|@akusadó@
+@accustom@|@kostumbrá@
+@accustomed@|@gewon, hewon, komun, usual@
+@accustumed@|@gewon@
+@ace@|@as@
+@acerbic@|@marga@
+@acerbity@|@amargura@
+@acetous@|@ásido@
+@ache@|@anhelá, doló, dolór, due@
+@achievable@|@realisabel@
+@achieve@|@cumpli, haña, hasi, haya@
+@achievement@|@akshon, akto, echo, èksito@
+@acid@|@ásido@
+@acidness@|@sarkasmo@
+@acknoledgement@|@konfeshon, recibu@
+@acolyte@|@miembro@
+@acquaintance@|@konosemento, konosementu@
+@acquire@|@atkirí, haña, haya, kumpra, optené@
+@acquisition@|@atkisishon, kompra@
+@acrobat@|@akrobat@
+@across@|@enfrente, horizòntalmente@
+@across from@|@antes cu, anti, kontra@
+@act@|@akshon, akto, aktua, echo, hasi@
+@action@|@akshon, akto, bataya, echo, proseso@
+@action(1)@|@brigamentu, influensha, pelea, peleya@
+@activate@|@aktivá, kousa@
+@active@|@aktivo@
+@activity@|@akshon, aktividat, ánimo, okupashon@
+@actor@|@aktor@
+@actress@|@aktris@
+@actual@|@efektivo@
+@actuality@|@realitad@
+@actually@|@efektivamente@
+@actuate@|@move, muf@
+@acuity@|@atenshon@
+@acute@|@intenso@
+@ad@|@anunsio, atvertensia, aviso@
+@ad infinuitum@|@infinitamente@
+@adage@|@proverbio@
+@adaptation@|@adaptashon@
+@add@|@agregá, añadí@
+@adder@|@vibora@
+@addition@|@agregashon@
+@additional@|@èkstra@
+@addled@|@bobo, bubè, chambòn, sokete@
+@address@|@adrès@
+@adept@|@maestro@
+@adieu@|@ayo, so long, tanten@
+@adjectival@|@athetivo@
+@adjective@|@athetivo@
+@adjudication@|@sentensha, sentensia@
+@adjunct@|@agregashon@
+@adjustment@|@adaptashon@
+@administration@|@atministrashon, gobernashon@
+@administrative@|@atministrativo@
+@administrator@|@atministradó@
+@admirable@|@atmirabel@
+@admiral@|@atmiral@
+@admiration@|@atmirashon@
+@admirer@|@atmiradó, atmiradora@
+@admissible@|@permitibel@
+@admission@|@konfeshon@
+@admonition@|@aanmaning@
+@ado@|@babel, bagamunderia, beheit, bochincha@
+@ado(1)@|@bòmbòshi, boroto, desòrden@
+@adoption@|@adoptashon@
+@adorable@|@adorabel@
+@adorer@|@adoradó@
+@adress@|@adrès@
+@adroit@|@hèndi@
+@adult@|@adulto@
+@advance@|@progreso@
+@advancement@|@progreso@
+@advantage@|@benefishi, benefisio, bentaha, utilidat@
+@advantageous@|@faborabel, útil@
+@adventitious@|@aksidental@
+@adventure@|@aventura@
+@adventurer@|@aventurero@
+@adventurous@|@aventurá@
+@adverb@|@atverbio@
+@adverbial@|@atverbial@
+@adversary@|@enemigo, enemigu@
+@adverse@|@desbentahoso, kontrali, kontrario@
+@advertence@|@atenshon@
+@advertency@|@atenshon@
+@advertisement@|@anunsio, atvertensia, aviso@
+@advice@|@konseho@
+@advisable@|@konsehabel@
+@advocate@|@abogado@
+@aerial@|@aério, antèna@
+@aerodynamics@|@airodinámika@
+@aeronaut@|@aironauta@
+@aeronautics@|@aviashon@
+@aeroplane@|@airoplano, avion@
+@aesthetic@|@estétiko@
+@aesthetics@|@estétika@
+@affable@|@afabel@
+@affair@|@afèr, asuntu, kaso, kestion, kos@
+@affecting@|@emoshonal@
+@affection@|@afecto, amor, stimashon@
+@affirm@|@sigurá@
+@affirmation@|@promesa@
+@affirmative@|@afirmativo@
+@affliction@|@aflikshon@
+@affluence@|@rikesa@
+@affluent@|@riko, riku@
+@Afghanistan@|@Afganistan@
+@afraid@|@miedoso@
+@afresh@|@atrobe, trobe@
+@Africa@|@Afrika@
+@African@|@afrikanu@
+@African marigold@|@afrikanchi@
+@after@|@despues, tras di@
+@afternoon@|@atardi, tramerdia@
+@again@|@atrobe, trobe@
+@against@|@anti, kontra@
+@agave@|@kukuisa@
+@age@|@edat, époka@
+@agency@|@agensia@
+@agenda@|@agènda@
+@agent@|@agente, representante@
+@aggresive@|@agresivo@
+@aggression@|@agreshon, ataka@
+@aggressive@|@agresivo@
+@aggressor@|@agresor, atakadó@
+@aggro@|@agreshon@
+@agitated@|@intrankil, nervioso@
+@agitation@|@agitashon@
+@agog@|@kaweta, niuskir@
+@agony@|@agonia@
+@agrarian@|@agrario, agrikultor@
+@agreeable@|@agradabel@
+@agreement@|@akuerdo@
+@agricultural@|@agrario@
+@agriculture@|@agrikultura@
+@ague@|@keintura@
+@ahead@|@antes, dilanti@
+@aid@|@aistensia, aistènt, asistensia, ayuda, yuda, yudadó@
+@aid(1)@|@aistí, ayudo, ousilio@
+@ailment@|@malesa@
+@aim@|@meta, mik@
+@air@|@aira, aire, airu@
+@air conditioning@|@erko@
+@air hostess@|@stiwardès@
+@aircraft@|@aeroplanu, avion@
+@airplane@|@avion@
+@airport@|@airopuerto@
+@ais conditioning@|@erko, erkondenshon@
+@alabaster@|@alabaster@
+@alarm@|@alarm, konsternashon, wèker@
+@alarmclock@|@wèker@
+@alarming@|@alarmante@
+@alas@|@lamentablemente, lástimamente@
+@Albania@|@Albania@
+@album@|@albem@
+@alcohol@|@alkohòl@
+@alcoholic@|@alkohóliko, alkoholista, buraché@
+@alcoholism@|@alkoholismo@
+@ale@|@serbes@
+@Alexandria@|@Aleksandria@
+@algebra@|@álgebra@
+@algebraic@|@algebráiko@
+@Algeria@|@Algeria@
+@alien@|@abominabel, estranhero, kontrario, strañu@
+@alimony@|@alimentashon@
+@all about@|@tur camina@
+@All Hallows@|@Día di tur Santu@
+@all of a sudden@|@direpente, direpentemente@
+@all over again@|@atrobe, trobe(1)@
+@All Saints' Day@|@Día di tur Santu@
+@All Soul's Day@|@Día di tur Difuntu@
+@all the@|@kada@
+@all the time@|@den esei, mientrasanto, mientrastanto, mientrastantu@
+@all the while@|@dem esei@
+@allergic@|@alérgiko@
+@alley@|@hanchi@
+@alliance@|@aliansa@
+@alliteration@|@aliterashon@
+@allow@|@laga@
+@almanac@|@almanak@
+@almond@|@almender, almendra, amandel@
+@almost@|@era, kasi@
+@alms@|@limosna@
+@aloe@|@aloé, álue, halué, sentebibu@
+@alone@|@so@
+@alphabet@|@alfabèt@
+@alphabetical@|@alfabétiko@
+@already@|@ya@
+@also@|@tambe@
+@altar@|@altá, altar@
+@alternative@|@alternativo@
+@although@|@anke, aunke, maske@
+@altitude@|@altura, haltura@
+@alum@|@alein@
+@aluminium@|@aluminio@
+@always@|@semper, sèmper@
+@Amarican Indian@|@indjan@
+@amateur@|@amatùr@
+@amazing@|@asombroso@
+@Amazon@|@amazona@
+@ambassador@|@embahadó, embahador@
+@ambition@|@ambishon, aspirashon@
+@ambitious@|@ambisioso@
+@ambrace@|@brasa@
+@ambulance@|@ambulans@
+@amen@|@amèn@
+@American@|@merikano@
+@ammonia@|@amoniak@
+@among@|@entre@
+@amount@|@konta@
+@amphitheater@|@anfiteatro@
+@amputation@|@amputashon@
+@amusing@|@chaskero, chistoso, dibertido@
+@anaemia@|@anemia@
+@analogous@|@analógiko@
+@analogy@|@analogia@
+@analysis@|@análisis@
+@analytic@|@analítiko@
+@analytical@|@analítiko@
+@anarchic@|@anarkia@
+@anarchism@|@anarkismo@
+@anarchist@|@anarkista@
+@anatomical@|@anatómiko@
+@anatomy@|@anatomia@
+@anche@|@anhelá@
+@anchor@|@anke, hankro@
+@ancient@|@antik@
+@and@|@i@
+@anedocte@|@anedókta@
+@anew@|@trobe@
+@angel@|@angel@
+@angelic@|@angelikal@
+@angle@|@skina@
+@Anglican@|@anglikano@
+@Angola@|@Angola@
+@angry@|@krou, rabia@
+@animal@|@animal, bestia@
+@anise@|@anis@
+@annotation@|@anotashon, komentario, not@
+@announce@|@anuncía@
+@annual@|@anual@
+@Annunciation@|@Anunsiashon@
+@anonymous@|@anónimo@
+@another@|@otro@
+@anpathy@|@apatia@
+@answer@|@kontesta, kontestashon, respondé, respondi, rospondi@
+@ant@|@fruminga, vruminga@
+@antenna@|@antèna@
+@anthem@|@himno@
+@anthology@|@antologia@
+@anthropologist@|@antropólogo@
+@anthropology@|@antropologia@
+@antibiotic@|@antibiótika@
+@Antigua@|@Antigua@
+@Antilles@|@Antia@
+@Antillian@|@antiano@
+@antique@|@antik@
+@antiseptic@|@antiséptiko@
+@anxious@|@intrakil@
+@any@|@algun, un hende@
+@anybody@|@un hende@
+@anything@|@algu, un cos@
+@apart@|@apart@
+@apart from@|@ademas di, eksepshonalmente@
+@apartment@|@apartamento@
+@apathetic@|@apátiko@
+@apathy@|@apatia@
+@ape@|@makako, makaku@
+@aperture@|@apertura@
+@apostle@|@apòstel@
+@apostolic@|@apostóliko@
+@apostrophe@|@apostròf@
+@apparatus@|@aparato@
+@apparently@|@aparentemente, evidentemente@
+@apparise@|@taksa@
+@appariser@|@taksatùr@
+@appartment@|@flèt@
+@appeal@|@apelashon@
+@appear@|@aparesé, parce@
+@appear to be@|@parce@
+@appearance@|@aparensia, aparishon, aspekto@
+@appellation@|@nòmber, nòmbro@
+@appendicitis@|@apèndisítis@
+@appetite@|@apetit@
+@apple@|@apel, aplo@
+@apple-sauce@|@apelmus@
+@application@|@aplikashon@
+@appointment@|@deit@
+@appointment book@|@agènda@
+@appraise@|@taksa, takser@
+@appraiser@|@taksador, taksatùr@
+@approval@|@aplouso, aprobashon@
+@approximately@|@aproksimadamente@
+@apricot@|@aprikòt@
+@April@|@aprel, april@
+@aptitude@|@talento@
+@aquarium@|@akuario@
+@aqueduct@|@akuedukto@
+@Arab@|@arabir@
+@Arabia@|@Arabia@
+@Arabian@|@árabe, arabir@
+@Arabic@|@árabe, arabir@
+@arboriginal@|@indígena, original@
+@arc@|@bog@
+@archaeological@|@arkeológiko@
+@archaeologist@|@arkeólogo@
+@archaeology@|@arkeologia@
+@archaism@|@arkaismo@
+@archangel@|@arkangel@
+@archbishop@|@arsobispu@
+@archipelago@|@archipiélago@
+@architect@|@arkitekto, arshitèkt@
+@architectonic@|@arkitetóniko@
+@architecture@|@arkitetura@
+@archive/s@|@argif@
+@archives@|@argif@
+@are@|@grupo, kuadria@
+@area@|@área@
+@arena@|@arena@
+@Argentine@|@Argentina, argentinero@
+@argument@|@argumento@
+@argumentation@|@argumentashon@
+@arise@|@nase@
+@aristocracy@|@aristokrasia@
+@aristocrat@|@aristokrat@
+@aristocratic@|@aristokrátiko@
+@arithmetic@|@aritmétika@
+@arm@|@arma, brasa@
+@armpit@|@kòkòdèk, sobako@
+@army@|@ehérsito@
+@aroma@|@aroma, sabor@
+@aromatic@|@aromátiko@
+@arouse@|@spierta@
+@arrival@|@binimentu, yegada@
+@arrive@|@yega@
+@arrogant@|@arogante@
+@arrow@|@flecha@
+@arsenic@|@arséniko@
+@art@|@arte@
+@artery@|@arteria@
+@article@|@koroto, opheto@
+@artificial@|@artifisial, innatural@
+@artist@|@artista@
+@Aruba@|@Aruba, Ruba@
+@Aruban@|@arubano, arubiano, rubiano@
+@as@|@aisna, komo, komokiera, kon, pasó, pasobra@
+@as soon as possible@|@masha liher!@
+@asbestos@|@asbèst, asbèstro@
+@Ascencion@|@Asunshon@
+@ascend@|@subi@
+@Ascension@|@Asenshon@
+@ash@|@shinishi@
+@ashamed@|@bergonoso@
+@ashtray@|@asbak, shinishero@
+@Asia@|@Asia@
+@Asian@|@asiátiko@
+@Asiatic@|@asiátiko@
+@ask@|@pidi, puntra@
+@aspect@|@aspekto@
+@asphalt@|@asfalt@
+@aspiration@|@aspirashon@
+@aspirin@|@aspirin@
+@ass@|@buriko, buriku, buro@
+@assailant@|@agresor, atakad, atakadó@
+@assault@|@ataka@
+@assent@|@afirmashon@
+@assimilation@|@asimilashon@
+@assist@|@yuda@
+@assistant@|@asistènt, yudadó@
+@associate@|@djòin@
+@asthma@|@asma@
+@asthmatic@|@asmátiko@
+@astonishing@|@asombroso@
+@astonishment@|@asombro@
+@astrology@|@astrologia@
+@astronomic@|@astronómiko@
+@astronomical@|@astronómiko@
+@astronomy@|@astronomia@
+@Asunshon@|@Asia@
+@asylum@|@asil@
+@at@|@na@
+@at home@|@na cas@
+@at last@|@alafin, porfin@
+@at least@|@por lo menos@
+@at long last@|@alafin, porfin@
+@at night@|@anochi@
+@at once@|@inmediatamente, mesora, umbé, umbes@
+@at present@|@awó, awor@
+@at that place@|@aya, ei@
+@atheism@|@ateismo@
+@athetic@|@atlétiko@
+@athlete@|@atleta, atlétiko@
+@athletic@|@atlétiko@
+@athletics@|@atletismo@
+@Atlantic@|@Atlántiko@
+@Atlantic Ocean@|@Osean Atlántiko@
+@atlas@|@atlas@
+@atmosphere@|@atmosfer@
+@atmospheric phenomenon@|@meteor@
+@atom@|@atom@
+@atom bomb@|@atombòm@
+@atomic@|@atómiko@
+@atruggle@|@bringamentu@
+@attack@|@ataka@
+@attacker@|@agresor, atakadó@
+@attain@|@optene@
+@attempt@|@esfuerso, intento@
+@attend@|@lidia@
+@attention@|@atenshon@
+@attentive@|@atento@
+@attic@|@zolder@
+@attitude@|@aktitut@
+@attractive@|@atraktivo@
+@attribute@|@atributo@
+@auction@|@finsishi@
+@augment@|@amplia, oumenta@
+@August@|@agosto, augustus, ougùstùs@
+@aunt@|@tanta, tia, tía@
+@aunthentic@|@outéntiko@
+@Australia@|@Oustralia@
+@authentic@|@outéntiko@
+@author@|@autor, eskritor, outor@
+@authoress@|@autora, eskritora@
+@authority@|@ezagèber, outoridat@
+@autobus@|@bùs, konvoi@
+@autocracy@|@outokrasia@
+@automatic@|@outomátiko@
+@automoton@|@outomat@
+@autonomia@|@outonomia@
+@autonomy@|@outonomia@
+@autopsy@|@outopsia@
+@autumn@|@herfst@
+@avaiable@|@disponibel@
+@avalanche@|@lawina@
+@avenge@|@venga@
+@aversion@|@antipatia@
+@aviation@|@aviashon@
+@await@|@spera, warda@
+@awaken@|@spierta@
+@aware@|@konsiente@
+@away@|@leu@
+@axe@|@hacha@
+@baboon@|@babun@
+@baby@|@bebi, beibi@
+@Babylonia@|@Babilonia@
+@bacause@|@pasobra@
+@bachelor@|@soltero@
+@back@|@lomba@
+@backside@|@kul@
+@bacterium@|@bakteria@
+@bad@|@malo, malu@
+@bad luck@|@malora@
+@badly@|@malu@
+@bag@|@tas@
+@baggage@|@ekipahe@
+@bairn@|@yiu, yiu(1), yu@
+@bait@|@as@
+@baker@|@panadero@
+@bakery@|@panaderia@
+@balance@|@zoya@
+@balcony@|@balkon@
+@ball@|@bailamentu, baile, bala, globo@
+@ballast@|@balaster@
+@ball-bearing@|@globo@
+@ballet@|@balèt@
+@ball-frame@|@teleram, tèlram@
+@ballon@|@balon@
+@balloon@|@balon@
+@balm@|@balsem@
+@balsam@|@balsem@
+@bamboo@|@bambu@
+@banana@|@bacoba@
+@band@|@konhunto@
+@bandit@|@bandidu@
+@bank@|@banko, klef, ref@
+@bank clerk@|@bankero@
+@bank official@|@bankero@
+@bankrupt@|@bankrut@
+@bankruptcy@|@fayit@
+@banner@|@bandera@
+@baptism@|@boutismo@
+@baptismal font@|@pila@
+@bar@|@shap@
+@Barbados@|@Barbados@
+@barbaric@|@bárbaro@
+@barber@|@barbero@
+@bare@|@sunú@
+@barely@|@apenas@
+@bark@|@grita, ladra@
+@barn@|@barak@
+@barometer@|@barometer@
+@baron@|@baron@
+@baroness@|@baronesa@
+@barony@|@baronia@
+@barrack@|@barak@
+@barracks@|@kazèrne@
+@barrel@|@barí, drùm, pipa@
+@barricade@|@barikada, barikadiá@
+@base@|@baho@
+@basement@|@bodega@
+@basin@|@kònchi@
+@basket@|@dakue@
+@basketball@|@basketbòl@
+@bat@|@raton di anochi@
+@bath@|@baño@
+@bathe@|@dal un baño, tuma un bañu@
+@bathroom@|@baño@
+@baton@|@baston, bastòn, takon, takòn@
+@battalion@|@batayon@
+@battery@|@bateria@
+@battle@|@bataya, brigamentu, pelea, peleya@
+@bauxite@|@bouksit@
+@bayonet@|@bayonèt@
+@bazaar@|@bazar@
+@bbot@|@lars@
+@be able to@|@por@
+@be alive@|@biba@
+@be ashamed@|@tin bergwensa@
+@be asleep@|@drumi@
+@be bold@|@dùrf, tribi@
+@be bored@|@maha@
+@be born@|@nase@
+@be called@|@yama@
+@be detained@|@resta@
+@be encamped@|@kampa@
+@be hungry@|@tin flakesa@
+@be in command@|@komanda, manda@
+@be kept in@|@resta@
+@be lacking@|@falta@
+@be married@|@kasa@
+@be missing@|@falta@
+@be similar@|@liga, parse@
+@be tired of something@|@maha@
+@be willing to@|@ke, kiè, kier@
+@beach@|@playa@
+@beak@|@boka@
+@beam@|@balki, biga, rayo@
+@bean@|@bonchi@
+@bear@|@ber, bersufri, produsí@
+@beard@|@barba@
+@beast@|@animal, bestia@
+@beat@|@bati, dal, gòlpi@
+@beautiful@|@bunita, kiut@
+@beauty@|@beyesa@
+@because@|@como, komo, komokiera, pasó, pasobra@
+@because of@|@a kousa di, debí na@
+@become@|@bira@
+@bed@|@kama@
+@bedroom@|@kamber@
+@bee@|@abeha, bei@
+@beefsteak@|@bifstek, bistek@
+@beer@|@serbes@
+@beetle@|@tòr@
+@before@|@antes cu, pa, promer cu@
+@beg@|@pusta, suplicá@
+@beggar@|@pober@
+@beginning@|@cuminsamentu@
+@behavior@|@komportashon, kondukta@
+@behind@|@atras, patras, patras di, tras di@
+@behold@|@ata@
+@Belgian@|@belga@
+@Belgium@|@Bélgika@
+@belief@|@fe, kreensha, kreensia@
+@believe@|@kere@
+@belly@|@abdómen, bariga, barika@
+@below@|@abou di, bou di, den(1)@
+@belt@|@faha@
+@bench@|@banki, stal@
+@bend@|@birada, dobla, lorada@
+@beneath@|@abou di, bou di, den(1)@
+@benefit@|@benefishi, benefisio, bentaha, ganashi, utilidat@
+@Berlin@|@Berlin@
+@berry@|@beishi, bèshi@
+@beseech@|@roga@
+@besides@|@ademas di@
+@bessech@|@roga@
+@bet@|@bèt, pusta@
+@Bethlehem@|@Bètlehèm@
+@betrayal@|@traishon@
+@betrothal@|@kompromisso@
+@better@|@mehor, mihó@
+@between@|@entre@
+@beverage@|@bebida@
+@bewitch@|@tover@
+@beyond@|@enfrente@
+@bible@|@beibel@
+@bicycle@|@bais, baiskel@
+@biding@|@bant@
+@big@|@grandi@
+@bike@|@bais, baiskel@
+@bikini@|@bikini@
+@bile@|@hal@
+@bill@|@boka, faktura, tíket@
+@billiards@|@biar@
+@binding@|@bant@
+@biologist@|@biólogo@
+@bird@|@para, parha@
+@birth@|@nasemento, nasementu, nasimento, nasimentu@
+@birthday@|@cumpleaño@
+@bishop@|@obispo, obispu@
+@bison@|@bison@
+@bite@|@morde, mordé, mordí@
+@bitter@|@marga@
+@bitterness@|@amargura@
+@black@|@preto, pretu@
+@blame@|@kulpa@
+@blank@|@blanko, blanku, formulario@
+@blanket@|@dekel, deklo@
+@bleak@|@friu, tristu@
+@bleed@|@sandra, sangra@
+@blend@|@meks, meskla@
+@bless@|@bendishoná@
+@blessing@|@bendishon@
+@blind@|@blent@
+@blister@|@blar@
+@block@|@blòki@
+@block of flats@|@flèt@
+@blockade@|@blokeo@
+@blond@|@blònt@
+@blood@|@sanger, sangro@
+@bloom@|@flor@
+@blotter@|@vluipapir@
+@blotting paper@|@vluipapir@
+@blouse@|@blusa@
+@blow@|@blas, supla@
+@blue@|@blau, blou@
+@blunt@|@bòt, stòmpi@
+@blushing@|@kòrá@
+@board@|@bòrchi@
+@boast@|@blòf@
+@boat@|@boto@
+@body@|@bòdi, kurpa@
+@bold@|@diki, gordo@
+@Bolivia@|@Bolivia@
+@Bolivian@|@boliviano@
+@Bolshevik@|@bolcheviki@
+@bomb@|@bòm@
+@bondwoman@|@kabito, kabitu@
+@bone@|@weso, wesu@
+@book@|@buki@
+@bookshop@|@libreria@
+@bookstore@|@libreria@
+@boon@|@bendishon@
+@boot@|@bota, lars@
+@boozer@|@buraché@
+@border@|@rant@
+@bore@|@bor, bora@
+@borrow@|@fia@
+@boss@|@bòs, chif, hefe@
+@botany@|@botánika@
+@both@|@ambos@
+@bottle@|@bòter, bòtro@
+@bottom@|@bòm, fòndo@
+@bough@|@rama@
+@bouillon@|@buyon@
+@boulder@|@manga@
+@boulevard@|@bulevar@
+@boullion@|@buyon@
+@bound@|@bandona@
+@boundary@|@frontera, limite@
+@boutique@|@tienda@
+@bow@|@bog@
+@box@|@caha, doshi, kaha, pòchi@
+@boxer@|@bòksdó@
+@boy@|@chabalito, chabalitu, kriá, mucha homber@
+@bra@|@brazièr@
+@brace@|@kram@
+@bracelet@|@armbant, pulsera@
+@brag@|@blòf@
+@braid@|@flèktu, vlèkt, vlèktu@
+@brain@|@selebre, selebro@
+@brake@|@brek, rèm@
+@branch@|@rama, vak@
+@brandy@|@koñak@
+@brass@|@koper hel@
+@brave@|@brio, wapu@
+@Brazil@|@Brasil@
+@Brazilian@|@brasileño@
+@bread@|@pan@
+@break@|@bres, kibra@
+@breakable@|@bros, fofo, kibrabel@
+@breakfast@|@desayuno@
+@breast@|@pechu, tete@
+@breath@|@aliento, rosea, roseya@
+@breathe@|@hala rosea@
+@breed@|@rasa@
+@breeze@|@brisa@
+@bribe@|@brùit, korompi@
+@brick@|@klenko, klenku@
+@bride@|@brùit, komprometida@
+@bridegroom@|@brùidehòm@
+@bridge@|@brùg@
+@brief@|@corticu@
+@brigade@|@brigada@
+@brim@|@rant@
+@brimming@|@pestá@
+@bring@|@hiba, trese@
+@bring away@|@hiba@
+@brink@|@rant@
+@brittle@|@bros, fofo, kibrabel@
+@broad@|@anchu@
+@bronze@|@bròns, di bròns@
+@broom@|@basora@
+@brother@|@bruder, ruman, ruman homber, ruman hòmber@
+@brother-in-law@|@kuñá, sua@
+@brow@|@seha@
+@brown@|@brùin, maron@
+@brownie@|@kabouter@
+@brush@|@bòrstel, bròsh@
+@bucket@|@èmer, hèmber, hèmchi@
+@buckle@|@gespu, hèspu@
+@bud@|@kònòpi@
+@Buddha@|@Buda@
+@Buddhism@|@budismo@
+@Buddhist@|@budista@
+@buddy@|@kompai, kompañero@
+@buffalo@|@bison@
+@bug@|@insekto@
+@build@|@konstruí@
+@building@|@edifisio, konstrukshon@
+@Bulgar@|@búlgaro@
+@Bulgaria@|@Bulgaria@
+@Bulgarian@|@búlgaro@
+@bulk@|@tamaño@
+@bull@|@toro@
+@bulldozer@|@katapila@
+@bullet@|@bal@
+@bulletin@|@boletin@
+@bungalow@|@búngalo@
+@buoy@|@bui@
+@burden@|@karga@
+@burial@|@deramento, entiero@
+@burn@|@kima@
+@bury@|@dera@
+@bus@|@bùs, konvoi@
+@business@|@afèr, asuntu, kaso, kestion, komersio, kos@
+@businessman@|@negoshante@
+@but@|@eksepshonalmente, ma, pero@
+@butcher@|@slakter@
+@butter@|@manteka@
+@butterfly@|@barbulèt, barbulète, barbulètè@
+@buttom@|@fòndo@
+@button@|@boton, kònòpi@
+@buy@|@kompra, kumpra@
+@buyer@|@kumpradó@
+@by@|@desde, di, dor, pa medio di@
+@by accident@|@aksidentalmente, insidentalmente, kasualmente@
+@by means of@|@pa medio di@
+@by now@|@ya@
+@bye@|@asta la vista, ayo, so long, tanten@
+@bye!@|@te aworo!@
+@byname@|@beinam@
+@cabbage@|@kol, kolo@
+@cabel@|@kabel@
+@cabinet@|@kabinèt, kashi@
+@cable@|@kabel@
+@cadaver@|@kadaver@
+@cadger@|@parasit@
+@cadre@|@kader@
+@café@|@botikin@
+@cage@|@houla, kouchi@
+@cake@|@kuki@
+@calculate@|@rek@
+@calendar@|@kalèndar@
+@calf@|@bisé, bishé@
+@calibre@|@kaliber@
+@call@|@yama@
+@call me@|@bel mi@
+@calm@|@trankilo@
+@calorie@|@kaloria@
+@camel@|@kamel@
+@camp@|@kampa@
+@camp out@|@kampa@
+@can@|@bleki@
+@can opener@|@habridó di bleki@
+@Canada@|@Kanada@
+@canal@|@kanal@
+@canary@|@kanari@
+@candidate@|@kandidato@
+@candle@|@bela@
+@cane@|@baston, bastòn, kabana, takon, takòn@
+@cannibal@|@kanibal@
+@cannon@|@kayon@
+@canoe@|@kanoa@
+@cap@|@bonèchi, pèchi@
+@cape@|@cabo@
+@capital@|@kapital@
+@capital city@|@kapital@
+@capitalist@|@kapitalista@
+@caprice@|@capricho@
+@Capricorn@|@Kaprikornio@
+@captain@|@kapitain, kapitan@
+@capture@|@fango, fangu, kèch@
+@car@|@outo@
+@caravan@|@karavana@
+@carburettor@|@karbureter@
+@card@|@karchi, karta@
+@cardiac@|@kordial@
+@care@|@sòru@
+@care for@|@karisia, kura@
+@career@|@karera@
+@careless@|@deha@
+@caress@|@karisia, karisiá@
+@Caribbean@|@karibe@
+@Caribbean Sea@|@Lamá Karibe, Laman Karibe@
+@carnation@|@klavel@
+@carnival@|@karnaval@
+@carpenter@|@karpinté@
+@carpet@|@tapeit@
+@carrier@|@transportadó@
+@carrot@|@karòt@
+@carry away@|@hiba@
+@cart@|@garoshi@
+@cartridge@|@kartuchi, katuchi@
+@case@|@afèr, asuntu, kaso, kestion, kos@
+@cash@|@kèsh@
+@cashier@|@kahero@
+@casino@|@kasino@
+@cassette@|@kasét@
+@Castile@|@Kastia@
+@Castillian@|@kastiano, kastiliano@
+@castle@|@kastel, kastio@
+@cat@|@pushi@
+@catalogue@|@katalòk@
+@catastrophe@|@desaster, kalamidat, katástrofe@
+@catastrophic@|@desastroso@
+@catch@|@fango, fangu, kèch, raka@
+@catechism@|@katisashi@
+@category@|@kategoria@
+@caterpillar@|@bichi@
+@cathedral@|@katedral@
+@Catholic@|@katóliko@
+@Catholisism@|@katolisismo@
+@cause@|@causa, kousa@
+@caution@|@kuidou@
+@ceiling@|@blafon, plafon@
+@celebrate@|@fiesta@
+@celebration@|@fiesta, selebrashon@
+@celery@|@sèlder, sèldu@
+@cell@|@sèl@
+@cellar@|@bodega@
+@cement@|@semènt@
+@cemetery@|@graf, santana@
+@censure@|@desaprobashon@
+@cent@|@sèn@
+@centimeter@|@séntimeter, sèntimetro@
+@centipede@|@lisinbein, risinbèn@
+@central@|@sentral@
+@centrimeter@|@sèntimetro@
+@ceremony@|@seremonia@
+@certain@|@sigur@
+@certainly@|@ciertamente@
+@certanly@|@ciertamente@
+@chage@|@yag@
+@chain@|@kadena@
+@chair@|@stul@
+@chairman@|@presidente@
+@chalk@|@kreit@
+@chamber@|@kuartu, kuatro, luarto@
+@champagne@|@shampaña, zjampaña@
+@champion@|@kampion@
+@chance@|@akontesimentu, aksidental, chèns, kasualidat@
+@change@|@cambia@
+@channel@|@kanal, pipa@
+@chaos@|@babel, bochincha, desòrden, kaos@
+@chaotic@|@kaótiko@
+@chapter@|@kapítulo@
+@character@|@karakter, seña, señal@
+@charcoal@|@karbon@
+@chariot@|@garoshi@
+@charity@|@limosna@
+@chase@|@yag@
+@chasm@|@abismo precipicio@
+@chauffer@|@chufùr@
+@chauffeur@|@chufùr@
+@cheap@|@barata@
+@cheat@|@desgraciado, desgrasiadu, kanaya@
+@check@|@chèk@
+@checker@|@chèkdó, chèker@
+@cheerful@|@alegre@
+@cheese@|@keshi@
+@chemist@|@botikario, kimíko@
+@chemist' shop@|@botika@
+@chemistry@|@kímika@
+@cheque@|@chèk@
+@cherch@|@iglesia@
+@cherry@|@chèri@
+@chest@|@caha, pechu@
+@chew@|@kou@
+@chewing-gum@|@bals@
+@chick@|@puítu@
+@chicken@|@galiña, puítu@
+@chief@|@bòs, chif, hefe@
+@chief of police@|@komisario@
+@child@|@yiu, yu@
+@childish@|@infantil@
+@Chile@|@Chili@
+@Chilean@|@chileno@
+@chilli@|@promèntè@
+@chilly@|@friu@
+@chimpanzee@|@chimpansé@
+@chin@|@kachete@
+@China@|@China@
+@Chinese@|@chines@
+@chisel@|@beitel@
+@chlorine@|@klòròks@
+@chocolate@|@chukulati@
+@choice@|@chòis@
+@choke@|@choka@
+@cholera@|@kólera@
+@choose@|@kis, shohe@
+@chop@|@kap@
+@chord@|@akuerdo@
+@chorus@|@kor@
+@chrestomathy@|@antologia@
+@Christ@|@Kristo, Kristu@
+@christening@|@boutismo@
+@Christian@|@kristan, kristian@
+@Christianity@|@kristianismo@
+@Christmas@|@Pasko, Pasku@
+@chronicle@|@krónika@
+@chuck@|@karisia@
+@church@|@iglesia@
+@cinder@|@shinishi@
+@cinema@|@cine@
+@circle@|@serkel@
+@circunstances@|@situacion@
+@circus@|@circo@
+@city@|@playa, siudad, stat@
+@citzien@|@ciudadanu@
+@clamp@|@kram@
+@class@|@klas, klase@
+@classic@|@klásiko@
+@claw@|@pata@
+@clay@|@klei@
+@clean@|@limpi, limpia@
+@cleanliness@|@limpiesa, puresa@
+@cleanly cut@|@nèt, nèta@
+@cleanse@|@purifiká@
+@clear@|@kla@
+@clever@|@bispou, djispou, hèndi@
+@client@|@kliente, kumpradó@
+@climate@|@klima@
+@climb@|@subi@
+@clinic@|@klínika@
+@clip@|@corta@
+@cloak@|@mantel@
+@clock@|@oloshi, ora@
+@close@|@cera, íntimo@
+@closed@|@cerá@
+@closet@|@kashi@
+@clothe@|@bisti@
+@clothes@|@paña@
+@clothing@|@paña@
+@cloud@|@nubia@
+@clown@|@payaso@
+@club@|@klup@
+@cluster@|@cachu@
+@coach@|@trein, tren@
+@coast@|@costa@
+@coat@|@bachi, yas@
+@cocaine@|@kokaina@
+@cock@|@gai@
+@cockroach@|@kakalaka, kalakala@
+@cocktail@|@kòktel@
+@cocoa@|@kakou, kòkou@
+@coconut@|@koko@
+@cod@|@bakalou, bakiou@
+@codfish@|@bakalou, bakiou@
+@coffee@|@kòfi@
+@coffee-house@|@botikin@
+@cognac@|@koñak@
+@coir@|@kor@
+@cold@|@ferkout, frialdat, friu, verkout@
+@collar@|@krag, kueyo@
+@colleague@|@kolega@
+@collection@|@kolekshon@
+@collony@|@kolonia@
+@Colombia@|@Kolombia@
+@Colombian@|@colombianu, kolombiano@
+@colonel@|@kolonél@
+@colonial@|@kolonial@
+@colony@|@kolonia@
+@color@|@koló@
+@column@|@rúbro@
+@comb@|@peña@
+@come@|@bin, bini@
+@come about@|@bira@
+@come across@|@topa@
+@come back@|@bin bek, bolbe@
+@come into@|@drenta@
+@come to a halt@|@para@
+@come to an end@|@caba@
+@come together@|@djòin@
+@comedy@|@komedia@
+@comet@|@kometa@
+@comfortable@|@kómodo, konfortabel@
+@comic@|@kómiko@
+@comical@|@kómiko@
+@comma@|@kòma@
+@command@|@manda, mando@
+@commander@|@komandante@
+@commencement@|@cuminsamentu@
+@commend@|@gaba@
+@commerce@|@komersio@
+@committee@|@komishon@
+@common@|@komun@
+@communism@|@komunismo@
+@communist@|@komunista@
+@compact@|@kompakto@
+@companian@|@kompaña@
+@companion@|@kompai, kompañero@
+@company@|@firma@
+@comparison@|@komparashon@
+@compartment@|@vak@
+@compass@|@kompas, kòmpas@
+@compassion@|@kompashon, kondolensia, piedat@
+@compatriot@|@kompatriota, paisano@
+@compel@|@forsa, fòrsa@
+@compensation@|@rekompensa@
+@competition@|@konkurensia, konkurso@
+@compile@|@kompilá@
+@complain@|@keha@
+@complaint@|@keho@
+@complete@|@kompletá, kompleto, yen@
+@completely@|@kompletamente@
+@complex@|@kompleho@
+@compliment@|@kòmplimènt@
+@compose@|@komponé@
+@composer@|@komponista, kompositor@
+@compulsory@|@obligatorio@
+@computer@|@kòmpiuter@
+@comrade@|@kompai, kompañero@
+@comunication@|@comunicacion@
+@conceive@|@priña@
+@concept@|@konsepto@
+@concern@|@importansia@
+@concert@|@kònsèrt@
+@conclusion@|@konklushon@
+@concord@|@akuerdo@
+@concrete@|@betòn, konkret, konkreto@
+@concurrence@|@akuerdo@
+@condemnation@|@desaporbashon@
+@condition@|@kondishon, kondishon@
+@condom@|@kòndòn, konshon@
+@conduct@|@komportashon, kondukta@
+@confession@|@konfeshon@
+@confide@|@konfia@
+@confidence@|@fe, konfiansa@
+@confirmation@|@konfirmashon@
+@conflict@|@konflikto@
+@confortable@|@kómodo, konfortabel@
+@confuse@|@konfundí@
+@confusion@|@konfushon@
+@congratulation@|@felisitashon@
+@congress@|@kongreso@
+@conjunction@|@konhunshon@
+@connect@|@dì@
+@connection@|@konekshon@
+@conscious@|@konsiente@
+@conservative@|@konservativo@
+@conserve@|@wak, weita, weta@
+@considerable@|@konsiderabel@
+@consist@|@kosistí@
+@consolation@|@konsolashon, konsuelo@
+@consonant@|@kosonante@
+@conspiracy@|@kòmplòt@
+@constant@|@konstante@
+@constantly@|@konstantemente, kontinuamente@
+@consternation@|@konsternashon@
+@constitution@|@konstitushon@
+@consul@|@kònsel@
+@consulate@|@konsulado@
+@consultation@|@konsulta@
+@contact@|@kontakto@
+@container@|@póchi@
+@contempt@|@despresio, menospresio@
+@contented@|@kontento, kontentu@
+@contents@|@kontakto, kontenido@
+@contest@|@konkurso@
+@continent@|@kontinente@
+@continual@|@konstante@
+@continue@|@dura@
+@contraband@|@kontrabanda@
+@contract@|@kontrakto, kontrato@
+@contrary@|@kontrali, kontrario@
+@control@|@reina@
+@controller@|@chèkdó, chèker@
+@convention@|@kongreso@
+@conversation@|@kobersashon@
+@cook@|@kòki, kushiná, kushna@
+@copper@|@koper@
+@copy@|@kopia@
+@corckscrew@|@kos di saka kòrki@
+@cord@|@kabuya, liña@
+@cordial@|@kordial@
+@cork@|@kòrki@
+@corkscrew@|@kos di saka kòrki@
+@corn@|@kayo, mainshi@
+@corner@|@skina@
+@corpse@|@kadaver@
+@corpulent@|@diki, gordo@
+@correct@|@korekto@
+@cost@|@bal, kosta@
+@Costa Rica@|@Kosta Rika@
+@Costa Rican@|@kostarikeño@
+@costly@|@kostoso@
+@costumary@|@hewon, usual@
+@costume@|@bistí, flus@
+@cottage@|@kasita@
+@cotton@|@katuna@
+@cough@|@tosa@
+@counsel@|@abogado, konseho@
+@counsellor@|@konsehero@
+@count@|@conta, konde, rek@
+@counting-frame@|@teleram, tèlram@
+@countless@|@inkontabel@
+@country@|@kampo, pais@
+@countryside@|@kampo@
+@courage@|@kurashi@
+@courageous@|@wapu@
+@course@|@plato@
+@court@|@curá@
+@courteous@|@galante, gentil@
+@courtyard@|@curá@
+@cousin@|@prima, primu@
+@cousine@|@prima@
+@cover@|@kubri@
+@cow@|@baka@
+@crab@|@kangreu@
+@crawl@|@gatia@
+@craziness@|@lokura@
+@crazy@|@loko@
+@cream@|@krem, krèm, krema@
+@create@|@krea@
+@credit@|@kredit@
+@creep@|@gatia@
+@crew@|@tripulashon@
+@crime@|@krimen@
+@criminal@|@kriminal@
+@crisis@|@krisis@
+@criticism@|@krítika@
+@crockery set@|@servisio@
+@crocodile@|@krokodel@
+@crook@|@desgrasiado, desgrasiadu, kanaya@
+@cross@|@krou, krus, rabia@
+@crossword puzzle@|@krusigrama@
+@crowd@|@monton, multitut@
+@crude@|@krudo@
+@cruel@|@kruel@
+@crumbs@|@wiriwiri@
+@cry@|@grito, gritu, yora@
+@crystal@|@kristal@
+@Cuba@|@Kuba@
+@Cuban@|@kubano, kúbiko@
+@cubic@|@kubano, kúbiko@
+@cucumber@|@kònkòmber@
+@cultivation@|@kultivo, kultivo@
+@culture@|@kultura@
+@cunning@|@bispou, djispou@
+@cunt@|@blònchi, doshi, tonto@
+@cup@|@kòpi@
+@cupboard@|@kashi@
+@Curaçao@|@Kòrsou@
+@cure@|@kura@
+@curious@|@kaweta@
+@current@|@aktual, koriente@
+@currently@|@awendía, awor@
+@curry@|@kòri@
+@curtain@|@kòrtina@
+@curve@|@birada, lorada@
+@custom@|@bisio, kostumber, kutumber@
+@customary@|@usual@
+@customer@|@kliente@
+@customs@|@duana@
+@cut@|@corta, kap@
+@cycle@|@bais, baiskel@
+@Czech@|@checo@
+@dad@|@pai, papá, papi@
+@daddy@|@pai, papá, papi@
+@dagger@|@puñá, puñal@
+@dahlia@|@dalia@
+@daily@|@diariamente@
+@daily paper@|@diario@
+@dainty@|@amabel, delikado, delikadu@
+@damage@|@daña, daño, defekto, fayo@
+@dance@|@balia, baliamentu@
+@dancer@|@bailadó, bailarina@
+@danger@|@peliger, peligro@
+@dangerous@|@peligroso@
+@Danish@|@danes@
+@dare@|@dùrf, tribi@
+@dark@|@skur@
+@darkness@|@skuridat@
+@dark-room@|@kámara@
+@darn@|@karacho, karaho, karai, karamba, kariso, kónchale, kónfiro, koño@
+@darn(1)@|@kariso, kónchale, kónfiro, koño@
+@date@|@deit, fecha@
+@daughter@|@yiu mohé, yiu muhé@
+@daugther@|@yiu muhé@
+@dawn@|@amanesé@
+@day@|@dia@
+@daybreak@|@amanesé@
+@dazzle@|@blèndu, blènt@
+@de ashamed@|@tin bergwensa@
+@de luxe@|@luhoso@
+@deadly@|@mortal@
+@deaf@|@sordo@
+@deaf with@|@trata@
+@deaft@|@derota, vense@
+@deal with@|@trata@
+@dear@|@apreciado, estimado, karo, karu@
+@dear(1)@|@kostoso, stimá@
+@death@|@morto@
+@death throes@|@agonia@
+@debt@|@debe@
+@decameter@|@decameter@
+@deceitful@|@engañoso@
+@December@|@december, desèmber@
+@decimeter@|@desimeter, desimetro@
+@decision@|@desishon@
+@decisive@|@desisivo@
+@deck@|@dèk@
+@declaration@|@deklarashon@
+@declaration of policy@|@program@
+@decree@|@dekreto@
+@deem@|@kere, opiná, wak, weita, weta@
+@deep@|@profundo@
+@deer@|@biná@
+@defeat@|@derota, vense@
+@defecate@|@kaka, pupu@
+@defence@|@defensa@
+@defendant@|@akusado@
+@definitely@|@definitivamente@
+@definition@|@definishon@
+@definitive@|@definitivo@
+@degree@|@grado, título@
+@delegate@|@delegado@
+@delegation@|@delegashon@
+@delicate@|@delikado, delikadu@
+@delight in@|@djòdjò, gosa@
+@deluxe@|@luhoso@
+@democracy@|@demokrasia@
+@democrat@|@demokrat@
+@democratic@|@demokrátiko@
+@demon@|@demoño@
+@den@|@neishi@
+@Denmark@|@Dinamarka@
+@dentist@|@dentista@
+@deny@|@minti, nenga@
+@depart@|@sali@
+@department@|@vak@
+@dependence@|@dependensia@
+@dependent@|@dependiente@
+@deportment@|@komportashon, kondukta@
+@depressed@|@depresivo@
+@depression@|@krisis@
+@depth@|@profundidat@
+@desappearance@|@desaparishon@
+@descend@|@baha, bai abou@
+@description@|@deskripshon@
+@desert@|@desierto, wustein@
+@design@|@diseño, pinta, tek@
+@desire@|@antoho, deseo@
+@despair@|@desesperashon@
+@despite@|@apesar@
+@despotic@|@despótiko@
+@destine@|@destiná@
+@destiny@|@destinashon, destino, destinu@
+@destruction@|@destrukshon@
+@detail@|@detaya@
+@detrimental@|@desbentahoso@
+@device@|@aparato@
+@devil@|@diabel, djabel, djablo, satanas@
+@devilish@|@diabóliko@
+@dexterous@|@hèndi@
+@diabetes@|@diabetes@
+@diabolical@|@diabóliko@
+@diagram@|@figura@
+@dial@|@disko@
+@dialect@|@dialekto@
+@dialogue@|@diálogo@
+@diameter@|@diameter@
+@diamond@|@djamanta@
+@diarrhoea@|@kram@
+@dictator@|@diktadó, diktador@
+@dictatorship@|@diktadura@
+@dictionary@|@diksionario@
+@die@|@dou, muri@
+@diet@|@diet, dieta, diete@
+@difference@|@diferensha, diferensia@
+@different@|@desigual, diferente, distinto@
+@difficult@|@dificil, difísil@
+@dig@|@koba@
+@digestion@|@digestion@
+@diligent@|@brio@
+@dim@|@skur@
+@dimension@|@tamaño@
+@diminutive@|@chikí, chikito, chikitu@
+@din@|@babel, bagamunderia, beheit, bochincha@
+@din(1)@|@bòmbòshi, boroto, desòrden@
+@dining-room@|@komedó@
+@diploma@|@akto, diploma@
+@diplomat@|@diplomátiko@
+@direct@|@stür@
+@direction@|@direkshon, rumbo@
+@director@|@direktor@
+@directory@|@katalòk@
+@dirty@|@fis, sushi@
+@disabled@|@inválido@
+@disadvantage@|@desbentaha@
+@disappear@|@somentá@
+@disappearence@|@desaparishon@
+@disappointment@|@desepshon, desilushon@
+@disapprobation@|@desaprobashon@
+@disapproval@|@desaprobashon@
+@disaprove@|@desaprobá@
+@disc@|@disko@
+@discipline@|@disciplina@
+@discontented@|@malkontento, malkontentu@
+@discount@|@rebaha@
+@discovered@|@discubri@
+@discovery@|@descubriniento@
+@discrimination@|@diskriminashon@
+@disease@|@malesa@
+@disgust@|@debòr, desgusto, disgusto, disgustu@
+@disgusting@|@abominabel@
+@dish@|@plato@
+@dislike@|@antipatia@
+@dismal@|@desagradabel, miserabel, tristu@
+@disobedient@|@desobediente@
+@displeased@|@malkontento, malkontentu@
+@dispose of@|@bende@
+@disposition@|@talento@
+@dissatisfied@|@malkontento, malkontentu@
+@dissemble@|@fingi@
+@distance@|@distansha, distansia@
+@distant@|@leu@
+@distinct@|@kla@
+@distinction@|@distinshon@
+@distribution@|@distribushon@
+@district@|@bario, distrikto@
+@dive@|@sambuyá@
+@divine@|@dibino@
+@divorce@|@diborsio@
+@do@|@hasi@
+@Do you go to school@|@Abo ta bai skol?@
+@doctor@|@dòkter, dòkto, doktor@
+@document@|@dokumento@
+@dog@|@cacho, cachó, kachó@
+@dogma@|@dògma@
+@doll@|@pòpchi@
+@dollar@|@dòlò@
+@dolphin@|@dòlfein@
+@domedary@|@dromedario@
+@domestic@|@indígena@
+@Dominican Republic@|@Dominikano, Repúblika Dominikano, Repúblika Dominikanu@
+@dominion@|@dominio@
+@donkey@|@buriko, buriku, buro@
+@Don't forget!@|@No lubidá!@
+@don't touch me there!@|@no mishi kumi eynan!@
+@door@|@porta@
+@dot@|@punto@
+@double@|@dòbel@
+@doubt@|@duda@
+@doubtful@|@dudoso@
+@dovepigeon@|@palomba@
+@down@|@abou@
+@dozen@|@dosein, dozèn, dòzen@
+@drag@|@hala, trèk@
+@dragon@|@dragon@
+@dram@|@aperitivo@
+@drama@|@drama@
+@drastic@|@drástiko@
+@draw@|@hala, igualdat, pinta, tek, trèk@
+@drawer@|@lachi@
+@drawers@|@djòki, karson di abou, karsonsio@
+@drawing@|@diseño@
+@dreadful@|@feros, feroso, horibel, teribel@
+@dream@|@soña, soño@
+@dreary@|@desagradabel, tristu@
+@dress@|@bisti, shimí, shimis@
+@drill@|@bor, bora@
+@drink@|@bebe, bebida@
+@drinkable@|@bebibel@
+@driver@|@chufùr@
+@driving-licence@|@reibewijs@
+@driving-license@|@reibewijs@
+@dromedary@|@dromedario@
+@drop@|@gota@
+@drop of water@|@gota@
+@drug@|@remedi@
+@drugstore@|@botika@
+@drum@|@tambòr, tambora, tambú@
+@drunk@|@fuma@
+@drunkenness@|@buracheria@
+@dry@|@seka, seko, seku@
+@dryness@|@sekura@
+@dual@|@dòbel@
+@duck@|@pato@
+@duckduck@|@patu@
+@duke@|@duke@
+@dumb@|@mudo, mudu@
+@dung@|@pupu@
+@during@|@durante, miéntras@
+@during the night@|@anochi@
+@dust@|@puiro, puiru@
+@Dutch@|@holandes, hulandes, ulandes@
+@Dutchman@|@makamba@
+@duty@|@deber@
+@dwarf@|@enano@
+@dwarft@|@enano@
+@dwell@|@biba@
+@dwelling@|@kas@
+@dye@|@koló@
+@dynamite@|@dinamit@
+@each@|@kada, tur@
+@eagle@|@águila@
+@ear@|@horeya, orea, oreya@
+@earl@|@konde@
+@early@|@tempran@
+@earn@|@gana@
+@earnest@|@serio@
+@earring@|@renchi di horeya, renchi di orea, renchi di oreya@
+@earth@|@tera@
+@earthquake@|@temblor@
+@easel@|@stal@
+@easily@|@fásilmente@
+@east@|@oost, pariba@
+@Easter@|@Pasko Grandi, Pasku Grandi@
+@eastern@|@oriental@
+@easy@|@fásil@
+@ecclesiastic@|@eklesiástiko@
+@economical@|@ekonómiko@
+@economics@|@ekonomia@
+@economy@|@ekonomia@
+@Ecuador@|@Ekuador@
+@Ecuadorian@|@ekuatoriano@
+@edge@|@rant@
+@edible@|@komibel@
+@edition@|@edishon@
+@education@|@edukamentu, edukashon@
+@eelements@|@alfabèt@
+@eerring@|@orea, oreya, renchi di horeya@
+@effort@|@esfuerso@
+@egg@|@webo, webu@
+@Egypt@|@Egipto@
+@eight@|@ocho@
+@eight hundred@|@ochoshen@
+@eighteen@|@djesocho@
+@eighty@|@ochenta@
+@elbow@|@èlebog@
+@election@|@chòis@
+@electric@|@eléktriko@
+@electric fan@|@fén, vèn@
+@electric torch@|@flèshlait, foks@
+@electricity@|@elektrisidat@
+@elegant@|@elegante@
+@element@|@elemento@
+@elemental@|@elemental@
+@elementary@|@elemental@
+@elephant@|@elefante, olefante, olifant, olifante@
+@eletric fan@|@vèn@
+@eleven@|@diesun, djesun@
+@else@|@otro@
+@embassy@|@embahada@
+@emblem@|@emblema@
+@embrance@|@brasa@
+@emerald@|@esmeralda@
+@emergency@|@kresis, krisis@
+@emmet@|@fruminga, vruminga@
+@emotion@|@emoshon@
+@emperor@|@emperadó, emperador, imperiadó@
+@empire@|@imperio@
+@employ@|@usa, uza@
+@employee@|@empleado@
+@employment@|@aplikashon@
+@empress@|@emperador, emperadora@
+@empty@|@bashí@
+@en the right@|@drechi@
+@enchanter@|@tovenar@
+@encounter@|@topa@
+@encyclopaedia@|@ensiklopedia@
+@end@|@caba, fin, kaba, terminá@
+@end up@|@caba, yega@
+@ending@|@fin@
+@endlessly@|@infinitamente@
+@endorse@|@gira@
+@endorsement@|@giro@
+@endure@|@dura, sufri@
+@enemy@|@enemigo, enemigu@
+@energy@|@energia@
+@engagement@|@kompromisso@
+@engine@|@mashin, motor@
+@engineer@|@ingeniero@
+@England@|@Inglatera@
+@English@|@ingles@
+@enigma@|@charada, misterio, púzel@
+@enjoy@|@djòdjò, gosa@
+@enjoyable@|@agradabel@
+@enlarge@|@amplia, oumentá@
+@enmity@|@enemistat@
+@enormous@|@enorme@
+@enough@|@basta, bastante, sufisiente@
+@entangle@|@impliká@
+@enter@|@drenta@
+@entertaining@|@chaskero, chistoso, dibertido@
+@entire@|@enté, enter, henté, henter, hèntèr, tur@
+@entirely@|@kompletamente@
+@entomb@|@dera@
+@entrance@|@drentada, entrada@
+@entrust@|@konfia@
+@envelope@|@ènvelop@
+@envious@|@kudisioso@
+@envy@|@envidia, kodishi, kodisia@
+@epilepsy@|@epilepsia@
+@episcopal@|@episkopal@
+@epoch@|@époka@
+@equal@|@igual, pareu@
+@equality@|@igualdat@
+@equilibrium@|@balansa@
+@equipment@|@ekipahe, ekipo@
+@era@|@époka@
+@erect@|@funda@
+@erotic@|@erótiko@
+@err@|@kiboká, kibuká@
+@errand@|@mensahe@
+@error@|@eror, fayo, fout, kibokashon, kibukashon@
+@escape@|@hui@
+@escort@|@kompañamento, kompañamentu, kompañero@
+@eskimo@|@èskimo@
+@Esperantist@|@esperantista@
+@Esperanto@|@esperanto@
+@esposo@|@casá@
+@establish@|@funda@
+@estimate@|@taksa, takser@
+@ethical@|@étiko@
+@Ethiopia@|@Etiopia@
+@Ethiopian@|@etiópiko@
+@Europe@|@Oropa@
+@European@|@oropeano, oropeo@
+@evangelic@|@evangéliko@
+@even@|@asta, igual, pareu, regular@
+@evening@|@nochi@
+@event@|@akontesimentu@
+@ever@|@semper, sèmper@
+@everlasting@|@infinito, interminabel@
+@every@|@kada, tur@
+@every one@|@kada@
+@everybody@|@kada, tur@
+@everything@|@tur cos@
+@everything is good@|@tur cos ta bon@
+@everywhere@|@tur camina, tur caminda@
+@evoke@|@sklama@
+@exact@|@exacto@
+@exactness@|@presishon@
+@examination@|@èksamen, investigashon@
+@example@|@ehèmpel, ehemplo@
+@excced@|@bit@
+@exccedingly@|@èkstraordinariamente@
+@exceed@|@bit@
+@exceedingly@|@èkstraordinariamente@
+@except@|@ademas di, eksepshonalmente@
+@except for@|@ademas di@
+@exception@|@eksepshon@
+@exceptional@|@eksepshonal@
+@exchange@|@interkambio@
+@excise@|@akseins@
+@excitement@|@agitashon@
+@exclusively@|@djis, solamente@
+@excrement@|@pupu@
+@excuse me@|@èkskius@
+@execise-duty@|@akseins@
+@executioner@|@burdugu@
+@exercise@|@ehesisto@
+@exercise-book@|@skref, skreft@
+@exhibition@|@eksibishon@
+@exhortation@|@aanmaning@
+@exist@|@eksistí, salida@
+@existence@|@eksistensia@
+@exit@|@salida@
+@expect@|@spera, warda@
+@expensive@|@karo, karu, kostoso@
+@experiment@|@eksperimento@
+@expert@|@baké, bakiá, bakianu@
+@expire@|@caba, fayesé, muri@
+@explanation@|@aklarashon@
+@explosion@|@eksploshon@
+@exposition@|@eksibishon@
+@expression@|@ekspreshon@
+@extend@|@tamaño@
+@extension@|@sufiho@
+@external@|@eksterno@
+@extra@|@èkstra@
+@extraordinarily@|@èkstraordinariamente@
+@extraordinary@|@èkstraordinario@
+@extreme@|@ekstremo@
+@eye@|@wowo@
+@eyebrow@|@seha@
+@fabric@|@tela@
+@face@|@kara@
+@facile@|@fásil@
+@faction@|@partida, partido@
+@factory@|@fábrika@
+@faculty@|@fakiltat, fakultat@
+@fail@|@faya@
+@failure@|@fayit, frakaso@
+@faint@|@debil, desmaña, suak@
+@fair@|@bazar, blònt, husto, hustu, marshe@
+@fairy tale@|@fábula@
+@faith@|@fe@
+@faithful@|@fiel@
+@falcon@|@falki@
+@fall@|@kai, kaí, kaída@
+@false@|@falso, falsu@
+@fame@|@gloria@
+@family@|@famia@
+@fancier@|@amatùr@
+@fancy@|@figurá, imaginá, imahiná@
+@fantasy@|@fantasia@
+@far@|@leu@
+@farewell@|@ayo, despedida, so long, tanten@
+@farm@|@agrario@
+@farmer@|@agrikultor, kunukero@
+@farming@|@agrikultura@
+@fashion@|@moda@
+@fast@|@lihe, rápidamente, rápido@
+@fat@|@diki, gordo, sebu, vèt@
+@fate@|@destinashon, destino, destinu@
+@fateful@|@fatal@
+@father@|@papa, tata@
+@father-in-law@|@suegro, suegru@
+@fatherland@|@patria@
+@fatty@|@vèt@
+@faucet@|@kranchi@
+@fault@|@kulpa@
+@favor@|@fabor@
+@favourable@|@faborabel@
+@fear@|@ansia@
+@February@|@februari, febrüari@
+@federal@|@federal@
+@federation@|@federashon@
+@feel@|@fula, helful, sentimento, sentimentu, sinti@
+@feeling@|@helful, sentimento, sentimentu@
+@felling@|@sentimento@
+@fellow@|@hòmber@
+@female@|@embra, femenino@
+@female admirer@|@atmiradora@
+@female cat@|@pushi@
+@female cock@|@kòki@
+@female martyr@|@mártir@
+@female singer@|@kantante@
+@female slave@|@katibo, katibu@
+@female student@|@studiante@
+@female teacher@|@maestra@
+@feminine@|@embra@
+@ferry@|@fèril@
+@fertile@|@fértil@
+@fertilizer@|@mèst@
+@fervor@|@fervor@
+@festival@|@festival, fiesta@
+@fetch@|@hiba, trese@
+@feudal@|@feodal@
+@fever@|@keintura@
+@fewer@|@menos@
+@fiancé@|@komprometido@
+@fiancée@|@komprometida@
+@fiasco@|@frakaso@
+@fiction@|@fikshon@
+@field@|@kunuku, vèlt@
+@field hospital@|@ambulans@
+@fifteen@|@diescincu, djessinko, djessinku@
+@fifty@|@cincuenta@
+@fight@|@bringa@
+@figure@|@figura, rek@
+@fiil in@|@yena@
+@file@|@feilo, feilu, fila, rek, turno, veila, veilo, veilu@
+@files@|@argif@
+@fill@|@yena@
+@fill up@|@yena@
+@filling station@|@gasolinsteishen@
+@film@|@pelíkula@
+@filter@|@felter, filtra, filtro@
+@filthy@|@fis, sushi@
+@fin@|@ala@
+@final@|@fini@
+@financial@|@finansiero@
+@fine@|@bunita, ekselemtemente, ekselente, kiut@
+@fine(1)@|@delikado, delikadu@
+@finger@|@dede@
+@finish@|@finalisá, kaba, terminá@
+@finished@|@kla@
+@Finland@|@Finnlandia@
+@fire@|@kandela@
+@firm@|@firma@
+@first@|@di promer, promer@
+@fish@|@piska@
+@fisherman@|@piskadó@
+@fist@|@kònòpi, moketa, mokete@
+@five@|@cincu, sinku@
+@fix@|@drecha@
+@flag@|@bandera@
+@flame@|@vlam@
+@flamingo@|@chògògò, flamingo@
+@flat@|@apartamento@
+@flat tire@|@flet tair@
+@flatter@|@chifla, chula, chulia, labia@
+@flattery@|@chuliamento, chuliamentu@
+@flavour@|@aroma, sabor@
+@flea@|@pruga@
+@flee@|@hui@
+@flesh@|@karni@
+@flexible@|@doblabel, flèksibel@
+@flight@|@huimento, huimentu@
+@float@|@drift, landa, landra@
+@floor@|@piso, suela@
+@flour@|@ariña, hariña@
+@flower@|@flor@
+@flowerpot@|@pòchi@
+@flu@|@grip@
+@fluor@|@ariña@
+@flute@|@flùit@
+@flutter@|@agitashon@
+@fly@|@muska, muskita@
+@flying fish@|@bulladoé@
+@foam@|@skuma@
+@fold@|@dobla@
+@folder@|@skreft@
+@foliage@|@foyo@
+@folk@|@pueblo@
+@folklore@|@folklor@
+@follow@|@sigui@
+@font@|@pila@
+@food@|@alimento, kuminda@
+@fool@|@chambòn, chiflá, lolas, lolo, sokete@
+@foolish@|@bobo, bubè, chambòn, sokete@
+@foot@|@pia@
+@football@|@futbòl@
+@for@|@durante, miéntras, pa@
+@for example@|@por ehempel@
+@for mi@|@pa mi@
+@for sale@|@bendibel@
+@for the reason that@|@como@
+@for the time being@|@temporalmente@
+@for(1)@|@komo, komokiera, pasó, pasobra@
+@forbid@|@taha@
+@force@|@forsa, fòrsa, fortalesa@
+@forehead@|@frenta, frente@
+@foreign@|@estranhero, strañu@
+@foreign country@|@eksterior, taira@
+@foreigner@|@strañero, stranhero@
+@foreing country@|@taira@
+@forest@|@mondi@
+@forgetfull@|@lubidadó@
+@fork@|@fòrki, hòrkèt, orketa@
+@form@|@fasun, forma, formulario@
+@formerly@|@antes, dilanti@
+@formidable@|@èkstraordinario@
+@formula@|@fòrmula@
+@forse@|@fortalesa@
+@fortunate@|@felis@
+@fortune@|@destino, fortuna@
+@forty@|@kuarenta@
+@found@|@funda@
+@foundation@|@bòm, fòndo@
+@fountain@|@fòntein, fuente@
+@four@|@cuater, kuater, kuatro, kwater@
+@fourteen@|@diescuater, djeskuater@
+@fourty@|@cuarenta@
+@fowl@|@galiña@
+@fraction@|@frakshon@
+@fragant@|@aromátiko@
+@fragile@|@bros, fofo, kibrabel@
+@frame@|@kader, kosein, kosèn@
+@framework@|@kader@
+@France@|@Fransha, Fransia@
+@free@|@gratis@
+@freedom@|@libertat@
+@French@|@frances, franses@
+@frequently@|@cu frecuencia@
+@fresh@|@fresku@
+@Friday@|@diabièrne, djabèrna, djabièrnè@
+@friend@|@amiga, amigu, gayo, kompai, sosio, tersio@
+@friend (man)@|@amigu@
+@friend (woman)@|@amiga@
+@friendly@|@afabel, amikal@
+@friendship@|@amistat@
+@fright@|@miedo, miedu@
+@frigid@|@friu@
+@fringe@|@rant@
+@frog@|@dori, sapu@
+@from@|@desde, di@
+@from here@|@di aki@
+@from where@|@di únda@
+@frontier@|@frontera, limite@
+@froth@|@skuma@
+@fruit@|@fruta@
+@fry@|@hasa@
+@fuck@|@hunga, kue, limpia@
+@full@|@yen@
+@full-grown@|@adulto@
+@fun@|@delisia, prèt@
+@function@|@puesto@
+@funeral@|@deramento, entiro@
+@fungus@|@djipopo@
+@funny@|@chaskero, chistoso, dibertido, kómiko@
+@furious@|@furioso, hostiná, koñá, rabiá, raso, rasu@
+@furniture@|@mueble@
+@future@|@benidero, futuro, porvenir@
+@gag@|@broma, chasko, chiste@
+@gain@|@atkisishon, gana, ganashi@
+@Galicia@|@Galisia@
+@gall@|@hal@
+@gallery@|@galeria@
+@gallop@|@alòp, alopiá, galòp@
+@game@|@wega@
+@gammer@|@biehita@
+@gaol@|@piskalat, prison, prizon, prizòn@
+@garage@|@garashi@
+@garden@|@hardin, hòfi@
+@gardener@|@hardinero@
+@garlic@|@konofló, konoflok@
+@garss@|@yerba@
+@gas@|@gas@
+@gasoline@|@gasolin@
+@gate@|@porta@
+@gateway@|@porta@
+@gather@|@kolektá, konklú@
+@gaunt@|@flako, flaku, tristu@
+@gay@|@alegre, mariko, mariku@
+@gazelle@|@gazè@
+@gazzette@|@korant@
+@general@|@general, univèrsal@
+@generally@|@generalmente@
+@generation@|@generashon@
+@generative@|@seksual@
+@gentle@|@dushi@
+@gentleman@|@kabayero, señor@
+@genuine@|@outéntiko@
+@genuinely@|@realmente@
+@geographer@|@geógrafo@
+@geographic@|@geográfiko@
+@geography@|@geografia@
+@geology@|@geologia@
+@geometry@|@geometria@
+@geranium@|@geranium@
+@germ@|@mikrobio@
+@German@|@aleman@
+@Germanic@|@germániko@
+@Germany@|@Alemania@
+@gesture@|@gesto@
+@get angry@|@rabia@
+@get married@|@kasa@
+@get off@|@baha, bai abou@
+@get tired@|@kansa@
+@get wet@|@muha@
+@ghastly@|@desagrababel@
+@ghost@|@beako, fantasma, spirito, zumbi@
+@giant@|@gigante@
+@gift@|@opsekio, regaldo@
+@gin@|@yanefer, zjenever@
+@ginger@|@ehèmber, gèmber@
+@giraffe@|@ziraf@
+@girdle@|@faha@
+@girl@|@chek, mucha mohé, mucha muhé@
+@give oo an odour@|@hole, ole@
+@give rise to@|@kousa@
+@glad@|@alegre@
+@gladness@|@alegria, alegría@
+@glass@|@glas@
+@glasses@|@brel, brel di bista@
+@globe@|@globo@
+@globet@|@beker, bokal, kùp@
+@glory@|@gloria@
+@glove@|@anskun, hanskun, wante@
+@glue@|@leim@
+@gnome@|@kabouter@
+@go away@|@sali@
+@go back@|@bolbe@
+@go down@|@baha, bai abou@
+@go in@|@drenta@
+@go up@|@subi@
+@goal@|@meta@
+@goat@|@kabrito, kabritu@
+@goblet@|@bokal, kùp@
+@goblin@|@kabouter@
+@God@|@Djos@
+@God's acre@|@graf, santana@
+@gold@|@oro@
+@goldsmith@|@platé@
+@good@|@bon@
+@good afternoon@|@bon tardi, bontardi@
+@good day@|@bon dia@
+@good evening@|@bon tardi, bonochi@
+@Good Friday@|@Biernasanto, Biernèsanto, Biernèsantu@
+@good morning@|@mòro, mòru@
+@Good morning@|@Bon dia!@
+@good night@|@bon nochi@
+@goodbye@|@asta la vista, ayo, ayo!, so long, tanten@
+@goodmorning@|@mòru@
+@goodness@|@bondad@
+@goose@|@gans@
+@gorilla@|@gorila@
+@gospel@|@evangelio@
+@gossip@|@klèts@
+@gourd@|@pampuna@
+@govern@|@reina@
+@government@|@gobernashon@
+@gown@|@bistí, shimí, shimis@
+@grab@|@kohe, koi@
+@grade@|@grado@
+@gram@|@gram@
+@grammar@|@gramátika@
+@grammer@|@biehita@
+@grandchild@|@ñetu@
+@granddaughter@|@bisanieta, nieta@
+@grandfather@|@padú, padushi, tawela@
+@grandmother@|@madú, madushi, wela@
+@grandson@|@bisañetu, bisanieto, nieto@
+@granite@|@granit@
+@grape@|@drùif@
+@grapple@|@fango, fangu, kèch@
+@grasp@|@hoke@
+@grass@|@yerba, yerbé@
+@grasshopper@|@dalakochi@
+@graveyard@|@graf, santana@
+@gravy@|@sous@
+@grease@|@sebu, vèt@
+@greasy@|@vèt@
+@great@|@ekselente, grandi@
+@great-grandfather@|@bisabuelo, bisawelo@
+@great-grandmother@|@bisawela, wela grandi@
+@Greecce@|@Gresia@
+@Greece@|@Gresia@
+@Greek@|@griego@
+@green@|@berdè, bèrdè@
+@greeting@|@kumindamento, kumindamentu, saludo@
+@greographic@|@geográfiko@
+@grey@|@shinishi@
+@grip@|@grip, kohe@
+@grisly@|@desagradabel@
+@grope@|@fula@
+@ground@|@bòm, fòndo, tereno@
+@grounds@|@tereno@
+@group@|@grupo, kuadria@
+@grow@|@bira, krese@
+@growth@|@kesementu, kresemento, kresementu@
+@grub@|@koba, larva@
+@gruel@|@papa@
+@gruesome@|@feros, feroso, horibel, teribel@
+@guard@|@konduktor, vigiladó, wardadó, wardadór, wòchmèn@
+@Guatemala@|@Guatemala@
+@guess@|@rei@
+@guilder@|@eldu, florin, heldo, heldu@
+@guilt@|@kulpa@
+@guiltless@|@inkulpabel, inosente@
+@guilty@|@kulpabel@
+@guitar@|@guitara, kitara@
+@gulden@|@eldu, florin, heldo, heldu@
+@gulf@|@abismo, precipicio@
+@gum@|@ensia@
+@gun@|@skòpet@
+@gusto@|@ánimo@
+@gymnastics@|@genastik@
+@gypsy@|@gitano@
+@habit@|@bisio, kostumber, kutumber@
+@hack@|@kap@
+@haemorhoids@|@ambei@
+@hail@|@hagel@
+@hair@|@kabei@
+@hairdresser@|@barbero@
+@hairpiece@|@peluka@
+@Haiti@|@Haiti@
+@half@|@mitá, mitar@
+@halt@|@para, stòp@
+@ham@|@ham@
+@hammcock@|@hamaka@
+@hammer@|@martin, martiu@
+@hammock@|@amaka, hamaka@
+@hand@|@man, obrero, trahadó@
+@handicraft@|@fish, ofishi@
+@handkerchief@|@lensu@
+@handle@|@trata@
+@handlebars@|@stür@
+@handsome@|@kiut, nunita@
+@hang@|@horka@
+@hang onto@|@nister, tene@
+@hangman@|@burdugu@
+@happiness@|@felididat, sueltu, suertè, suèrte@
+@happy@|@alegre, felis, kontentu@
+@Happy Birthday!@|@Pabien!@
+@Happy Easter!@|@Bon Pasco!@
+@Happy New Year!@|@Bon Aña!@
+@harbor@|@haf@
+@hard@|@difísil, duru, fregá@
+@hardly@|@apenas@
+@hardworking@|@brio@
+@haricot@|@bonchi@
+@harm@|@hùrt@
+@harmonious@|@armonioso, harmonioso@
+@harmony@|@armonia, harmonia@
+@harp@|@arpa, harpa@
+@harvest@|@kosecha, kosechá@
+@hashish@|@hèsh@
+@hat@|@sombre, sombré@
+@hate@|@odia, odio@
+@haul@|@hala, trèk@
+@have@|@akohé, haña, haya@
+@have a bath@|@dal un baño@
+@have compassion on@|@duele@
+@have confidence in@|@konfia@
+@have got@|@tin(1)@
+@have sex@|@hunga, kohe, koi, kue, limpia@
+@have to@|@mester@
+@hazard@|@kasualidat, koinsidensia, rísiko, riska@
+@he@|@e@
+@head@|@kabes@
+@header@|@rúbro@
+@heading@|@título@
+@health@|@salú@
+@healthy@|@salú, saludabel@
+@heap@|@grupo, kuadria, monton@
+@hear@|@tende@
+@heart@|@kordial, kurason@
+@heat@|@kalor, kayente@
+@heathy@|@salú@
+@heaven@|@shelo, shelu@
+@heavy@|@pisá@
+@Hebrew@|@hudiu@
+@hectoliter@|@hèktoliter@
+@hectometer@|@hèktometer@
+@heel@|@hilchi@
+@he-goat@|@chubatu@
+@height@|@altura, haltura@
+@heir@|@eredero, heredero@
+@hell@|@fierno, fiernu@
+@hello@|@cunbai, hallo, halo, kí tal@
+@helm@|@stür@
+@helmet@|@hèlm, hèlmu@
+@help@|@asistensia, ayuda, ayudo, ousilio, yuda@
+@helper@|@asistent, asistènt, yudadó@
+@hence@|@di aki@
+@her@|@e, nan, su@
+@herb@|@yerba, yerbè@
+@herd@|@grupo, kuadria@
+@here@|@aki@
+@here is the...@|@ata aki@
+@here is/are@|@ata@
+@heroin@|@eorina, heroina@
+@herself@|@mes(1)@
+@hesitate@|@duda, titubiá@
+@hibiscus@|@kayena@
+@hiccup@|@hik@
+@high@|@altu, halto, haltu@
+@hill@|@sero, seru@
+@him@|@e@
+@himself@|@mes(1)@
+@hinder@|@impidí@
+@hip@|@hep, kustia@
+@hire@|@hür@
+@his@|@nan, su, su@
+@history@|@historia@
+@hit@|@bati, dal, gòlpi, raka@
+@hither@|@aki@
+@hoarse@|@hers@
+@hobby@|@hòbi@
+@hog@|@hochi, hochino, porko@
+@hoist@|@hisa, isa@
+@hoist up@|@isa@
+@hold@|@nister, tene@
+@hole@|@goera, gohera@
+@Holland@|@Hulanda, Ulanda@
+@holy@|@dibino, sagrado, santo, santu@
+@homosexual@|@mariko, mariku@
+@Honduran@|@hondureño@
+@Honduras@|@Honduras@
+@honest@|@honesto@
+@honor@|@honor, honra@
+@honorary@|@honorabel@
+@hoof@|@pata@
+@hook@|@anzué, hanzué@
+@hooker@|@mohen di bida, muhé di bida, puta@
+@hooter@|@kacho, kachu@
+@hope@|@spera, speransa@
+@horizon@|@hórizòn@
+@horizontal@|@horizòntal@
+@horn@|@kachu, kaco@
+@horoscope@|@horoskop@
+@horribel@|@teribel(1)@
+@horrible@|@desagradabel, feros, horibel@
+@horror@|@debòr@
+@horse@|@kabai@
+@hospital@|@hòspital@
+@hospitality@|@hospitalidat@
+@hot@|@kaloroso, kayente@
+@hotel@|@hotèl@
+@hour@|@ora@
+@house@|@kas@
+@housefly@|@muska, muskita@
+@how@|@cón, kon@
+@how are you?@|@con ta bai?, cón ta bai?@
+@how do you do?@|@cón ta bai?@
+@how is your life?@|@con ta cu bida?@
+@How is your name?@|@Con ta bo nomber?@
+@how many@|@cuántu@
+@how much?@|@kuanto, kuantu@
+@How much?@|@Cuanto?@
+@hug@|@brasa@
+@huge@|@grandísimo@
+@human@|@humano@
+@human being@|@hende@
+@human race@|@humanidat@
+@humble@|@humilde@
+@humility@|@humulidat@
+@hummingbird@|@blenchi@
+@humour@|@humor@
+@hundred@|@cien, shen@
+@hundred thousand@|@shen mil@
+@hunger@|@flakesa, hamber@
+@hunt@|@yag@
+@hunter@|@yagdó@
+@hurricane@|@horkan, orkan@
+@hurt@|@hùrt@
+@husband@|@esposo, kasá@
+@hyaena@|@hiena@
+@hygiene@|@higiena@
+@hygienic@|@higieniko@
+@hymn@|@himno@
+@hypnotist@|@hipnotisadó@
+@hypnotize@|@hinotisá@
+@hypocrite@|@farizeo, hipokrit@
+@hypothesis@|@hipótesis@
+@hysteria@|@histeria@
+@hysterical@|@histériko@
+@I am coming from...@|@Mi ta bini di...@
+@I am fine thanks@|@mi ta bon danki@
+@I am hungry@|@mi tin hamber@
+@I am thirsty@|@mi tin sed@
+@I go to school@|@mi ta bai skol@
+@I love you@|@mi ta stimado@
+@I missi you@|@mi ta sintibo falta@
+@I read the book@|@ma lesa e buki, mi a lesa e buki@
+@I want to eat[@|@mi ke kome@
+@I went to school@|@mi a bai skol@
+@I will go to school@|@lo mi bai skol@
+@ice@|@eis@
+@icecream@|@eiskrim@
+@idea@|@idea, konsepto@
+@ideal@|@ideal@
+@identical@|@idéntiko@
+@identity@|@identidat@
+@ideology@|@ideologia@
+@idiotic@|@idiot@
+@idol@|@ídolo@
+@if@|@en caso cu, si@
+@iguana@|@yuana@
+@ill@|@malu@
+@ill-fatade@|@fatal@
+@illiterate@|@analfabétiko, analfabeto@
+@illness@|@malesa@
+@illusion@|@ilushon@
+@illustration@|@ilustrashon@
+@ilusion@|@ilushon@
+@image@|@figura@
+@imagination@|@imágen, imáhen@
+@imitation@|@imitashon@
+@immediate@|@inmediato@
+@immediately@|@inmediatamente, umbes@
+@immidiately@|@inmediatamente, mesora, umbé@
+@immune@|@imün@
+@impartial@|@neutral@
+@imperialism@|@imperialismo@
+@important@|@grave, importante@
+@impossible@|@imposibel@
+@in@|@den, na@
+@in action@|@aktivo@
+@in cash@|@kèsh@
+@in fact@|@efektivamente@
+@in front of@|@pa@
+@in great shape@|@den grand forma@
+@in spite of@|@apesar@
+@in the evening@|@anochi@
+@in the meantime@|@den esei, mientrastanto, mientrastantu@
+@in the morning@|@maínta@
+@in what way@|@cón, kon@
+@inch@|@dùim@
+@incomplete@|@inkompleto@
+@inconceivable@|@inkomprendibel@
+@inconvenient@|@difisil, fregá@
+@increase@|@amplia@
+@incredible@|@inkreibel@
+@incubate@|@brui@
+@indeed@|@realmente@
+@independant@|@independiente@
+@index@|@tabèl@
+@India@|@India@
+@Indian@|@indjan@
+@Indian chief@|@cacique@
+@indian corn@|@mainshi@
+@indicate@|@munstra, mustra@
+@indication@|@indikashon@
+@indicative@|@indikativo@
+@indicative mood@|@indikativo@
+@individual@|@individual@
+@indivisible@|@individibel@
+@Indonesia@|@Indonesia@
+@Indonesian@|@indones@
+@industrial@|@industrial@
+@industrious@|@brio@
+@industry@|@industria@
+@inebriety@|@buracheria@
+@inexpensive@|@barata@
+@inexplicable@|@ineksplikabel@
+@infant@|@yiu, yiu(1), yu@
+@infection@|@infekshon@
+@infer@|@konklú@
+@inference@|@konklushon@
+@inflamation@|@inflamashon@
+@inflammation@|@inflamashon@
+@inflation@|@inflashon@
+@influence@|@influensha, influenshá, influensia, influensiá@
+@influenza@|@grip@
+@information@|@informashon@
+@inhabitant@|@habitante@
+@inherit@|@eredá, heredá@
+@inhibit@|@impidí@
+@initial@|@inisial@
+@injection@|@inyekshon@
+@injury@|@erida, herida@
+@ink@|@enk@
+@inner@|@interno@
+@innocent@|@inkulpabel, inosente@
+@inquisitive@|@kaweta, niuskir@
+@insane@|@loko@
+@insane asylum@|@montekristo, montekristu@
+@insanity@|@lokura@
+@inscription@|@inskripshon@
+@insect@|@insecto, insekto@
+@inside@|@aden, den, interno, na, na (1), paden@
+@insignificant@|@insignifikante@
+@insist@|@insistí@
+@inspection@|@inspekshon@
+@inspector@|@inspektor@
+@inspiration@|@inspirashon@
+@instant@|@instante, momento, momentu@
+@instead of@|@na lugar di@
+@instinct@|@instinto@
+@institute@|@instituto@
+@instruction@|@instrukshon@
+@instructor@|@instruktor@
+@instrument@|@instrument@
+@insubordinate@|@desobediente@
+@insult@|@insulto@
+@intellectual@|@intelektual@
+@intelligence@|@inteligensia@
+@intelligent@|@inteligente@
+@intend@|@mik@
+@intense@|@intenso@
+@intensive@|@intenso@
+@intention@|@intenshon@
+@inter@|@dera@
+@intercessor@|@abogado@
+@interest@|@interes@
+@interesting@|@interesante@
+@interjection@|@interhekshon@
+@interment@|@deramento, entiero@
+@internal@|@interno@
+@international@|@internashonal@
+@interpreter@|@intérprete@
+@interruption@|@interupshon@
+@intervene@|@intervení@
+@interview@|@entrevista@
+@intestines@|@mondongo, shirishiri, tripa@
+@intimate@|@íntimo@
+@into@|@den, na (1)@
+@intolerant@|@intolerante@
+@intoxicated@|@fuma@
+@intreview@|@entrevista@
+@invasion@|@invashon@
+@invencible@|@inkonkistabel, invensibel@
+@invention@|@invashon, invenshon@
+@inverted comma@|@komia@
+@investigation@|@èksamen, investigashon@
+@invincible@|@inkonkistabel, invensibel@
+@invitation@|@invitashon, kombidashon@
+@invoice@|@faktura@
+@iodine@|@yodi@
+@Iran@|@Iran@
+@Iraq@|@Irak@
+@iron@|@eru, hero, heru, strika@
+@iron clothes@|@strika@
+@irony@|@ironia@
+@island@|@isla@
+@Israel@|@Israel@
+@it@|@e@
+@Italian@|@italiano@
+@Italy@|@Italia@
+@itch@|@grawatamento, grawatamentu, grawatashi, kishiki, kishikishi@
+@itch(1)@|@grawatá, kishikí@
+@its@|@nan, su@
+@itself@|@mes(1)@
+@ivory@|@ivor, márfil@
+@jail@|@piskalat, prison, prizon@
+@jam@|@marmelada, mermelada@
+@Jamaica@|@Hamaika@
+@Januari@|@yanuari@
+@January@|@january, yanüari@
+@Japan@|@Hapon@
+@Japanese@|@hapones@
+@Java@|@Yava@
+@jaw@|@kakumbein@
+@jealous@|@yalurs, yalus@
+@Jehovah@|@Yehova@
+@Jerusalem@|@Yerusalèm@
+@jest@|@chansa@
+@Jesus Christ@|@Hesukristo, Hesukristu@
+@Jevovah@|@Yehova@
+@Jew@|@hudiu@
+@jewel@|@hoya@
+@job@|@labor, obra, puesto, trabou@
+@join@|@djòin@
+@joint@|@komun@
+@joke@|@broma, chansa, chasko, chiste@
+@jounal@|@diario@
+@journalist@|@periodista@
+@journey@|@bia, biaha@
+@joy@|@alegria, alegría@
+@jubilee@|@hubileo@
+@jubille@|@hubileo@
+@judge@|@hues, husga, huzga@
+@judgment@|@huisio@
+@jug@|@pòchi@
+@juice@|@djus@
+@July@|@juli, yüli@
+@jump@|@bula, bulada, bulamento, bulamentu, salta@
+@June@|@juni, yüni@
+@Jupiter@|@Yupiter@
+@jury@|@hurado@
+@just@|@djis, hustamente, husto, hustu, solamente, umbé, umbes@
+@just now@|@hustamente@
+@just(1)@|@hustamente, immediatamente, mesora, umbes@
+@jute@|@yute@
+@Jutlander@|@yute@
+@kaughter@|@harimento@
+@kave sex@|@koi@
+@keep@|@cumpli, rasa, salba@
+@keep on@|@dura@
+@Kenya@|@Kenia@
+@key@|@yabi@
+@kidney@|@nir, riñon@
+@kill@|@mata@
+@kilo@|@kilo, kilogram@
+@kilometer@|@kilometer, kilometro@
+@kind@|@afabel, amabel, sorto@
+@kindness@|@afabilidat@
+@king@|@rei@
+@kingdom@|@reino@
+@kiss@|@kusinchi, sunchi@
+@kitchen@|@kushina@
+@klaxon@|@kacho, kachu@
+@knee@|@rudia@
+@knife@|@kuchiu, kuchú@
+@knot@|@konopá, kònòpi@
+@know@|@sa, sabi@
+@know how@|@sabi@
+@knowledge@|@konosemento, konosementu@
+@kompañá@|@to accompany@
+@konfia@|@trust@
+@konstante@|@permanent@
+@korant@|@periodical@
+@Korea@|@Korea@
+@Korean@|@koreano@
+@kostumbrá@|@to accustom@
+@kreibel@|@plausible@
+@kuadro@|@picture@
+@laboratory@|@laboratorio@
+@laborer@|@obrero, trahadó@
+@lack@|@manko@
+@lacking@|@falta@
+@lad@|@chabalito, chabalitu@
+@ladder@|@trapi@
+@lady@|@dama, señora@
+@Lady Day@|@Anunsiashon@
+@lake@|@lago@
+@lamb@|@lamchi, lanchi@
+@lame@|@koho, manká@
+@lamp@|@lampi@
+@lance@|@lansa@
+@land@|@pais, tera@
+@landscape@|@paisahe@
+@lane@|@hanchi@
+@language@|@abla, idioma, lengua@
+@large@|@grandi@
+@large ant@|@badjaga, bashaka@
+@larva@|@larva@
+@lass@|@chek, mucha muhé@
+@last@|@delaster, dura, último@
+@lasting@|@durabel@
+@late@|@laat, lat@
+@Latin@|@latin, latino@
+@laud@|@alabá, gaba@
+@laugh@|@hari@
+@laughter@|@harimento, harimentu@
+@lava@|@lava@
+@law@|@lei@
+@lawsuit@|@proseso@
+@lawyer@|@abogado@
+@lay down@|@buta, pone@
+@laziness@|@flohedat, flohera@
+@lazy@|@floho@
+@lead@|@chumbo, chumbu@
+@leader@|@bòs, hefe, lider@
+@leaf@|@blachi@
+@leaflet@|@foyeto@
+@lean@|@flako, flaku, len, lèn, stet@
+@leap@|@bula, bulada, bulamento, bulamentu, salta@
+@leap-year@|@aña bisiesto@
+@leather@|@kuero, kueru@
+@leave@|@laga, sali@
+@leek@|@konofló, konoflok@
+@left@|@robes@
+@leg@|@pia@
+@legal@|@legal@
+@legend@|@leyenda@
+@legible@|@lesabel@
+@lemon@|@lamunchi@
+@lemonade@|@limonada@
+@lend@|@fia@
+@lenght@|@largura@
+@length@|@largura@
+@lens@|@lens@
+@leprosy@|@lepra@
+@less@|@menos@
+@lesson@|@lès@
+@let@|@hür, laga@
+@Let's go out@|@laga nos ban sali!@
+@letter@|@karta, lèter@
+@lettuce@|@salada@
+@level@|@horizòntal, igual, nivel, pareu@
+@lever@|@hisa, subi@
+@liberal@|@liberal@
+@librarian@|@bibliotekario@
+@library@|@biblioteka@
+@lick@|@lek@
+@lie@|@gaña, mentira@
+@lie encamped@|@kampa@
+@life@|@bida@
+@lift@|@hisa, subi@
+@light@|@debil, lihé, lus, suak@
+@lighthouse@|@faro@
+@lightning@|@lamper, lampro@
+@like@|@gusta, kon@
+@like that@|@asina@
+@likewise@|@tambe@
+@lila@|@purple@
+@limb@|@miembro@
+@lime@|@kalki@
+@limit@|@frontera, limite@
+@line@|@fila, kareda, turno@
+@lineage@|@orígen, oríhen, prosedensia@
+@lineseed oil@|@linolio@
+@linguistic@|@lingwístiko@
+@lion@|@leon@
+@lip@|@leap@
+@liqueur@|@likùr@
+@liquid@|@líkido@
+@liquidate@|@mata@
+@list@|@leishi, leshi, lista@
+@listen@|@scucha@
+@liter@|@liter, litro@
+@literature@|@literatura@
+@little@|@chikí, chikito, chikitu@
+@live@|@biba@
+@liver@|@higra, igra@
+@living-room@|@hadrei@
+@lizard@|@lagadishi@
+@load@|@karga@
+@loaf@|@pan@
+@loan@|@fia@
+@lobster@|@kref@
+@local@|@lokal@
+@location@|@logá@
+@locust@|@dalakochi@
+@lofty@|@altu, halto, haltu@
+@logic@|@lógika@
+@logical@|@lógiko@
+@long@|@largu@
+@long for@|@anhelá@
+@longing@|@anhelo@
+@look@|@aspekto, ata, mirada, wak, weita, weta@
+@look at@|@wak, weita, weta@
+@look for@|@buska, rista@
+@looking-glass@|@spil@
+@lord@|@kabayero, señor@
+@lorry@|@camion@
+@loss@|@pérdida@
+@lottery@|@loteria@
+@lounge@|@sal, sala@
+@louse@|@pieu@
+@love@|@amor, kariño, ke, kiè, kier, stimashon@
+@lovely@|@agradabel, bunita, kiut, stimá@
+@lover@|@amante@
+@low@|@baho@
+@lower part of the body@|@adbómen@
+@luck@|@chèns, destino@
+@luggage@|@ekipahe@
+@lukewarm@|@lou, tibia@
+@lunacy@|@lokura@
+@lunch@|@almuerso@
+@lung@|@pulmon@
+@lust@|@pashon@
+@luxurious@|@luhoso@
+@luxury@|@lucha@
+@lyceum@|@liseo@
+@lyric@|@teksto@
+@machine@|@mashin@
+@mackerel@|@makré, makrel, mekré@
+@mad@|@loko@
+@Madam@|@señora@
+@madness@|@lokura@
+@maestro@|@maestro@
+@magazine@|@korant, revista@
+@magic@|@mágiko@
+@magician@|@tovernar (1)@
+@magnet@|@magnet@
+@magnetic@|@magnétiko@
+@magnetism@|@magnet, magnetismo@
+@maid@|@kriá@
+@mail@|@pòst@
+@mainland@|@kontinente@
+@maintain@|@argumentá, konservá@
+@maize@|@mainshi@
+@major@|@mayor@
+@majority@|@mayoria@
+@make love@|@kohe, koi@
+@make up@|@méikep, rushi@
+@make use of@|@usa, uza@
+@malaria@|@malaria@
+@male coock@|@kòki@
+@mam@|@mai, mama@
+@man@|@hèmber, hende, homber, hòmber, tripulá@
+@management@|@atministrashon@
+@manager@|@atministradó, direktor@
+@mango@|@mango@
+@mankind@|@humanidat@
+@manner@|@manera, moda, modo@
+@mantel@|@mantel@
+@mantle@|@mantel@
+@manufacture@|@fabriká@
+@manure@|@mèst@
+@manuscript@|@manuskripto@
+@map@|@karchi, karta, mapa@
+@marble@|@marmer@
+@march@|@camna, cana@
+@March@|@maart, mart@
+@margarine@|@margarina@
+@marijuana@|@mariwana@
+@mark@|@marca, seña, señal@
+@market@|@bazar, marshe, merkado, plasa@
+@marketplace@|@marshe, plasa@
+@marmelade@|@marmelade, mermelada@
+@marry@|@kasa@
+@Mars@|@Mars@
+@martyr@|@mártir@
+@mask@|@antifas, maskarada@
+@mass@|@misa, monton, multitut@
+@massage@|@masashi@
+@massive@|@masif@
+@mast@|@mast, master@
+@master@|@doktorandus, maestro@
+@match@|@lusafè, suafel, suaflo@
+@mathematical@|@matemátiko@
+@mathematician@|@matemátiko@
+@mathematics@|@matemátika@
+@matter@|@afèr, asuntu, kestion, kos, materia@
+@mattress@|@kolchon, matras@
+@mature@|@berdè, echu, hecho, hechu@
+@Maundy Thursday@|@Huebes santu@
+@May@|@mei@
+@maybe@|@kisas, podisé, talbes@
+@mayhap@|@kisas, podisé, talbes@
+@me@|@mi@
+@meager@|@delegá, flako, flaku, miserabel@
+@meal@|@ariña, komemento, komementu, kuminda@
+@mealies@|@mainshi@
+@mean@|@nifiká@
+@meaning@|@intenshon, nifikashon, sentido@
+@meanwhile@|@den esei, mientranstantu, mientrastanto@
+@measure@|@midi@
+@measurement@|@midí@
+@medicine@|@remedi@
+@meet@|@kontra, topa@
+@melody@|@melodia@
+@melon@|@milon@
+@member@|@miembro@
+@member of parliament@|@parlamentario@
+@member of the parliament@|@parlamentario@
+@memory@|@memoria@
+@menace@|@amenasa, menasá@
+@mental@|@mental@
+@menu@|@karchi, karta@
+@merchant@|@komersiante, negoshante@
+@mercury@|@kuek@
+@merit@|@mérito@
+@merry@|@alegre@
+@mess@|@papa@
+@message@|@mensahe@
+@metal@|@metal@
+@meter@|@meter, metro@
+@method@|@metodo@
+@metropolis@|@kapital@
+@Mexican@|@mèksikano@
+@Mexico@|@Mèksiko@
+@microbe@|@mikrobio@
+@microphone@|@mikrofon@
+@microscope@|@mikroskop@
+@midget@|@enano@
+@midwife@|@partera, vrumun@
+@mile@|@mia@
+@milk@|@hala lechi, lechi@
+@millimeter@|@milimeter@
+@million@|@mion@
+@mind@|@mente@
+@mine@|@mina@
+@mineral@|@mineral@
+@mingle@|@meks, meskla@
+@minimum@|@mínimo@
+@minister@|@minister@
+@minority@|@minoria@
+@minute@|@minüt@
+@minutes@|@protokol@
+@miracle@|@milager, milagro, mirakel, miraklo@
+@miraculous@|@milagroso@
+@mirror@|@spil@
+@miscarriage@|@aborto@
+@miscarry@|@faya, frakasá@
+@miserable@|@desastroso, malo, malu, miserabel, pober, tristu, tristu(1)@
+@Miss@|@Jufrow, señorita, yefrou, yufrow@
+@mistake@|@eror, fayo, fout, kibokashon, kibukashon@
+@mister@|@señor@
+@Mister@|@Mener@
+@mitten@|@anskun, hanskun, wante@
+@mix@|@meks, meskla@
+@mobile@|@movibel@
+@mockingbird@|@chuchubi@
+@mode@|@manera, moda, modo@
+@model@|@modelo@
+@modern@|@moderno, modernu@
+@mold@|@beskein, beskem@
+@molecule@|@molekül@
+@mom@|@mai, mama@
+@moment@|@instante, momento, momentu@
+@momeny@|@sèn@
+@mommy@|@mai, mama@
+@monastery@|@kombento, kombentu@
+@Monday@|@dia luna, djaluna@
+@money@|@plaka, sèn@
+@monkey@|@makako, makaku@
+@monster@|@mònster@
+@month@|@mes@
+@mood@|@humor@
+@moon@|@luna@
+@moped@|@bròmer@
+@more@|@mas@
+@morning@|@amanesé, mainta, maínta, maishi, manita@
+@Moroccan@|@marokano@
+@Morocco@|@Maroko@
+@mortage@|@hipotek@
+@mosque@|@moskei@
+@mosquito@|@sangura@
+@mother@|@mama@
+@mother-in-law@|@suegra@
+@motion picture@|@pelíkula@
+@motive@|@motibu@
+@motor@|@motor@
+@motor road@|@outopista@
+@motorcycle@|@motosaikel@
+@motorist@|@outomobilista@
+@motorway@|@outopista@
+@mould@|@beskein, beskem@
+@mountain@|@sero, seru@
+@mouse@|@raton@
+@moustache@|@bigoti, mustashi@
+@mouth@|@boka@
+@move@|@move, muf@
+@movement@|@moveshon, movishon@
+@movie@|@pelíkula@
+@movie theater@|@cine@
+@moving@|@emoshonal@
+@Mrs@|@señora@
+@much@|@muchu@
+@mud@|@chèpèchèpè, lebelebe, lèbèlèbè, lodo, pèchèpèchè, pòchòpòchò@
+@mud (1)@|@chèpèchèpè, pòchòpòchò@
+@multitude@|@monton, multitut@
+@mummy@|@mama@
+@murder@|@asesino@
+@murderer@|@asesino@
+@murk@|@skuridat@
+@muscle@|@múskulo@
+@museum@|@museo@
+@mush@|@papa@
+@mushroom@|@djipopo@
+@music@|@músika@
+@musical@|@musikal@
+@musician@|@músiko, tokadó@
+@must@|@mester@
+@mute@|@mudo, mudu@
+@mutton@|@karni di karné@
+@my@|@mi@
+@my name is...@|@ami yama...@
+@my phone number is...@|@mi nomber di telefon ta...@
+@mythology@|@mitologia@
+@nail@|@klaba, klabo, klabu, uña@
+@naked@|@sunú@
+@name@|@nomber, nòmber, nòmbro@
+@nameless@|@anónimo@
+@namesake@|@tokai@
+@narrate@|@conta@
+@nastay (1)@|@baho, desagradabel, mahoso, malo, malu@
+@nasty@|@antipátiko, desonesto, feu, mahos@
+@nation@|@nashon, pueblo@
+@national@|@nashonal@
+@nationality@|@nashonalidat@
+@native@|@indígena, outóktono@
+@natural@|@natural@
+@naturally@|@naturalmente@
+@naturaly@|@naturalmente@
+@nature@|@karakter, naturalesa@
+@nausea@|@debòr, desgusto, disgusto, disgustu@
+@nauseous@|@abominabel@
+@navigashon@|@nabegashon@
+@navigation@|@nabegashon@
+@navigator@|@navegante@
+@navy@|@marina@
+@ncessary@|@nodo@
+@near@|@cerca@
+@nearby@|@aserka@
+@nearly@|@era, kasi@
+@neat@|@nèt, nèta@
+@necessary@|@nesesario, nodi, nodo@
+@necktie@|@dashi@
+@need@|@mesté, mester@
+@needle@|@angua, hangua@
+@needlewoman@|@kosedó, kosturerá@
+@negative@|@negativo@
+@negligent@|@deha@
+@negro@|@neger, negro@
+@neighbour@|@bisiña@
+@neighbourhood@|@bario@
+@neither@|@ni, ningun@
+@nephew@|@sobrino, sobrinu, subrino@
+@nerve@|@nervio@
+@nervous@|@nervioso@
+@nest@|@neishi@
+@net@|@nèt, nèta@
+@neutral@|@neutral@
+@never@|@hamas, nunka@
+@new@|@nobo@
+@new clothes@|@paña nobo@
+@New Year's Day@|@Día di Aña Nobo@
+@news@|@nobedat, notisia@
+@newspaper@|@diario, korant@
+@Nicaragua@|@Nikaragua@
+@Nicaraguan@|@nikaragueño@
+@nice@|@agradabel, amabel, bon@
+@nickel@|@nickel@
+@nickname@|@beinam@
+@niece@|@subrina@
+@Nigeria@|@Nigeria@
+@Nigerian@|@nigeriano@
+@night@|@nochi@
+@nightmare@|@pesadía@
+@nine@|@nuebe@
+@nine thousend@|@nuebe mil@
+@nineteen@|@djesnuebe@
+@ninety@|@nobenta@
+@nip@|@aperitivo@
+@nitrogen@|@nitrógeno@
+@no@|@no, nò@
+@no doubt@|@indudabelmente@
+@nobody@|@ningun, ningun hende@
+@node@|@kònòpi@
+@noise@|@babel, bagamunderia, beheit, bochincha, bòmbòshi, boroto@
+@noise(1)@|@bòmbòshi, desòrden@
+@non attendance@|@ousensia@
+@none@|@ningun@
+@nonsense@|@nònsèns@
+@noon@|@merdía@
+@no-one@|@ningun@
+@nor@|@ni@
+@norm@|@norma@
+@normal@|@normal@
+@north@|@nòrt@
+@Norway@|@Noruega@
+@Norwegian@|@noruechi@
+@nose@|@nanishi@
+@not@|@no@
+@not yet@|@ainda no@
+@notary@|@notario@
+@note@|@anotashon, komentario, not, nota, tíket@
+@notebook@|@skref@
+@noteworthy@|@notifikabel, riparabel@
+@nothing@|@nada@
+@notwithstanding@|@apesar@
+@nought@|@sero@
+@noun@|@sustantivo@
+@nourishment@|@alimento@
+@novel@|@nobo, novela@
+@November@|@november, novèmber@
+@now@|@awó, awor@
+@nowadays@|@awendía, awor@
+@nuclear@|@nuklear@
+@nucleous@|@nukleo@
+@nucleus@|@nukleo@
+@nude@|@sunú@
+@number@|@konta, number@
+@numeral@|@number@
+@nun@|@sùr@
+@nurse@|@lidia, nùrs@
+@nursery school@|@bewarskol@
+@nut@|@nòt@
+@nuts@|@loko@
+@nutty@|@aromátiko@
+@nylon@|@nailen@
+@obedient@|@obedesido, obedesidu@
+@object@|@koroto, kos, opheto@
+@obligation@|@deber@
+@observation@|@observacion, opservashon@
+@observe@|@cumpli@
+@obstacle@|@opstákulo@
+@obstetrician@|@partera, vrumun@
+@obtain@|@haña, haya@
+@obtainable@|@optenibel@
+@obviously@|@evidentemente@
+@occasion@|@be, bes@
+@occupation@|@fishi, ofishi, okupashon@
+@occurence@|@akontesimientu@
+@ocean@|@osean@
+@o'clock@|@ora@
+@October@|@october, òktober@
+@oculist@|@okulista@
+@odd@|@strabagante, straño@
+@odor@|@holó, oló@
+@of@|@di@
+@of use@|@adaptabel, adekuá, usabel@
+@of which@|@kén su@
+@office@|@kantor, ofisina, puesto@
+@officer@|@amtenar@
+@official@|@amtenar, ofisial@
+@offset@|@distansha, distansia@
+@offspring@|@yiu@
+@oil@|@zeta@
+@okay@|@bon@
+@okra@|@yambo@
+@old@|@bieu@
+@old fashioned@|@antiguo, antikuá, antikuado, antiwa@
+@old man@|@biehito@
+@old woman@|@biehita@
+@olive@|@aseituna, oleifi@
+@omnibus@|@bùs, konvoi@
+@on@|@ariba, den, na (1), pa medio di, riba@
+@on account of@|@a kousa di, debí na@
+@on that account@|@p'esei, pa esei@
+@on the left@|@robes@
+@on the other side@|@enfrente@
+@on the right@|@drechi@
+@on top@|@ariba@
+@once more@|@atrobe, trobe(1)@
+@one@|@un, un hende, unu@
+@one hundred@|@shen@
+@one thousand@|@mil@
+@onerous@|@pisá@
+@onion@|@ciboyo@
+@only@|@djis, so, solamente@
+@only just@|@apenas@
+@open@|@habri@
+@open up@|@habri@
+@opening@|@apertura@
+@openly@|@públikamente@
+@opera@|@òpera@
+@operation@|@operashon@
+@operative@|@obrero, trahadó@
+@ophtalmologist@|@okulista@
+@opinion@|@huisio, opinion@
+@opium@|@opio@
+@opportunist@|@oportunista@
+@opportunity@|@akontesimientu@
+@opposed to@|@anti, kontra@
+@opposite@|@anti@
+@oppress@|@primi@
+@optimism@|@optimismo@
+@optimist@|@optimista@
+@option@|@alternativo@
+@optitism@|@opitimismo@
+@optmist@|@optimista@
+@or@|@o, òf@
+@orange@|@apelsina, apusina, orañe, oraño@
+@orchestra@|@orkestra@
+@order@|@manda, pedido@
+@ordinarily@|@normalmente@
+@organism@|@organismo@
+@oriental@|@oriental@
+@origin@|@orígen, oríhen, prosedensia@
+@original@|@original@
+@orphan@|@wérfano@
+@ortography@|@ortografia@
+@ostrich@|@abestrus@
+@other@|@otro@
+@other than@|@eksepshonalmente@
+@ougth to@|@mester@
+@our@|@nos@
+@out@|@pafó, pafor, pafór@
+@out of date@|@antiguo, antikuá, antikuado, antiwa@
+@outer@|@eksterno@
+@outfit@|@bistí, flus@
+@outside@|@eksterno, pafó, pafor, pafór@
+@oval@|@oval@
+@over@|@ariba, riba@
+@over there@|@aya@
+@overall@|@enté, enter, henté, henter, hèntèr, total, tur@
+@overcoat@|@bachi, yas@
+@overground@|@aério@
+@overhead@|@aério, ariba@
+@owe@|@debe@
+@owing to@|@a kousa di, debí na@
+@own@|@propio, tin(1), tini@
+@owner@|@doño, proprietario@
+@oxygen@|@zürstòf@
+@oyster@|@uster@
+@pace@|@paso@
+@pacifist@|@pasifista@
+@package@|@empaketá, paketá@
+@packet@|@paki@
+@pad@|@blòki@
+@pagan@|@pagano@
+@paganism@|@paganismo@
+@page@|@página@
+@pail@|@èmer, hèmber, hèmchi@
+@pain@|@doló, dolór, due@
+@painful@|@doloroso@
+@paint@|@ferf@
+@painter@|@ferfdó, pintor@
+@painting@|@kuadro@
+@pair@|@duo, par@
+@pal@|@kompai, kompañero@
+@palace@|@palasio@
+@pale@|@blek@
+@palm@|@palma@
+@palmtree@|@palma@
+@pamphlet@|@foyeto, pamfleta@
+@Panama@|@Panamá@
+@panties@|@djòki, karson di abou, karsonsio@
+@pants@|@karson, karson largo, karson largu, kashon, kashon largo@
+@papaya@|@papaya@
+@paper@|@documento, papel@
+@paperback@|@foyeto@
+@paper-basket@|@prùlebak@
+@paprika@|@promenton, promèntòn@
+@parachute@|@parashüt@
+@paradise@|@paradiso@
+@paraffin-oil@|@zeta@
+@parafin-oil@|@petroleo, zeta@
+@paragraph@|@paragraf@
+@Paraguay@|@Paraguai@
+@parallel@|@paralèl@
+@paralyse@|@paralisá@
+@parasite@|@parasit@
+@parcel@|@paki@
+@pardon@|@piedat, pordon@
+@parent@|@ruman@
+@parenthesis@|@kram@
+@parents@|@mayónan, mayornan, mayórnan@
+@parents-in-law@|@suegronan, suegrunan@
+@parish@|@parokia@
+@park@|@park, parker, parki@
+@parliament@|@parlamento@
+@parlour@|@sal, sala@
+@parrot@|@papagai@
+@part@|@parti, ròl@
+@partially@|@parsialmente@
+@particular@|@apart, espesial, speshal, spesial@
+@partly@|@parsialmente@
+@party@|@fiesta, partida, partido@
+@pass away@|@muri@
+@passenger@|@pasahero@
+@passer-by@|@transeunte@
+@passion@|@pashon@
+@passionate@|@pashonal@
+@passport@|@pasport@
+@pastor@|@domi@
+@pate@|@kabes@
+@patience@|@parenshi@
+@patient@|@enfermo, pashènt@
+@patrol@|@patruya@
+@pavement@|@alsera, asera, stupi, tròtuar@
+@pawn@|@sòldá@
+@pay@|@paga@
+@payment@|@pago@
+@peace@|@pas, sosiegu@
+@peacock@|@pòwis@
+@pear@|@per, pera@
+@pearl@|@perla@
+@peculiar@|@strabagante, straño@
+@pedal@|@pedal@
+@peel@|@kaska, pela@
+@peg@|@aperitivo@
+@pelican@|@ganshi, pelikan@
+@pencil@|@pòtlot@
+@penicilin@|@penisilin@
+@penicillin@|@penisilin@
+@peninsula@|@península@
+@penis@|@kolochi, patin@
+@pen-knife@|@sambèchi@
+@penny@|@dòsplaka@
+@Pentecost@|@Pentekòste@
+@people@|@pueblo@
+@pepper@|@peper@
+@per@|@den, na (1), pa@
+@perchance@|@kisas, podisé, talbes@
+@perfect@|@perfekto@
+@perform@|@cumpli, drenta, hasi@
+@perfume@|@perfume@
+@perhaps@|@kisas, talbes, talbes(1)@
+@peril@|@peliger, peligro@
+@period@|@periodo, punto@
+@periodical@|@korant, revista@
+@permanent@|@konstant@
+@permission@|@permiso@
+@persecution@|@persekushon@
+@persia@|@Iran@
+@persist@|@persistí@
+@person@|@persona@
+@personal@|@persona, propio@
+@personality@|@karakter@
+@perspective@|@perspektiva@
+@perspiration@|@sodó, transpirashon@
+@Peru@|@Perú@
+@Peruvian@|@peruano@
+@pessimism@|@pesimismo@
+@pessimist@|@pesimista@
+@petrol@|@gasolin@
+@petroleum@|@petroleo, zeta@
+@phantom@|@beako, fantasma, spirito, spiritu, zumbi@
+@pharmaceutical@|@remedi@
+@phase@|@fase@
+@phenomenon@|@fenómeno@
+@Philippines@|@Filipina@
+@philosopher@|@filósofo@
+@philosophy@|@filosofia@
+@phonetic@|@fonétiko@
+@phonetics@|@fonétika@
+@phonograph@|@pikòp, tokadisko@
+@phosphorus@|@fòsfòr@
+@photograph@|@foto@
+@photographer@|@fotógrafo@
+@photography@|@fotografia@
+@photoprint@|@fotokopia@
+@physical@|@físico, sísiko@
+@physician@|@dòkter, dòkto@
+@physicist@|@físiko@
+@physics@|@física@
+@pianist@|@pianista@
+@piano@|@piano@
+@pick out@|@kis, skohe@
+@picnic@|@piknik@
+@picture@|@figura, kuadro@
+@pie@|@bolo, tént, tèrt@
+@piece@|@parti@
+@piece of furniture@|@mueble@
+@piece of music@|@piesa@
+@pig@|@hochi, kochino, porko@
+@pigeon@|@paloma, palombra@
+@pigeonhole@|@vak(1)@
+@pile@|@monton@
+@pill@|@pilder, pildo, píldora@
+@pilot@|@pilot@
+@pincess@|@prensès@
+@pinch@|@kinipí@
+@pineaplle@|@anasa@
+@pineapple@|@anasa@
+@pink@|@klavel, ros@
+@pioneer@|@pionero@
+@pionner@|@pionero@
+@pious@|@deboto, religioso@
+@pipe@|@pipa@
+@pirata@|@piramida@
+@pirate@|@pirata@
+@pitch black@|@djuku@
+@pity@|@duele, kompashon, kondolensia, piedat@
+@place@|@adaptá, buta, logá, pone@
+@plain@|@kla@
+@plait@|@flèkt, vlèkt, vlèktu@
+@plan@|@intenshon, proyekto@
+@plane@|@airoplano, avion, planeta@
+@planet@|@planeta@
+@plank@|@bòrchi@
+@plant@|@plachi, planchi, planta@
+@plataform@|@podium, programa, waf@
+@plate@|@plato, tayó@
+@platinum@|@platina@
+@platter@|@plato@
+@plausible@|@kreibel@
+@play@|@hunga komedia@
+@plea@|@argumento@
+@pleasant@|@agradabel@
+@please@|@por fabor@
+@pleased@|@kontento, kontentu@
+@pleasure@|@bich, delisia, prèt@
+@plenty@|@abundansia, abunsansha@
+@plot@|@kòmplòt@
+@plough@|@ara, plug@
+@plug@|@sparplùk@
+@plum@|@preimu, prùim@
+@plunder@|@roba@
+@plunge@|@sambuyá@
+@pocket@|@sacu@
+@podium@|@podium@
+@poem@|@poesia@
+@poet@|@poeta@
+@poetry@|@poesia@
+@point@|@punto@
+@point out@|@munstra, mustra@
+@poise@|@zoya@
+@poison@|@veneno, venenu@
+@poisonous@|@venenoso@
+@Poland@|@Polonia@
+@pole@|@bara, palo, palu@
+@policeman@|@polis@
+@policy@|@polítika@
+@polish@|@pòlesh, pòlshi@
+@Polish@|@polako@
+@polite@|@galante, gentil@
+@politeness@|@gentilesa@
+@politician@|@polítiko@
+@politics@|@polítika@
+@polítiko@|@polítika@
+@pool@|@djòin, pul, zuèmpul@
+@poor@|@malo, malu, pober@
+@popular@|@popular@
+@population@|@populashon@
+@porch@|@veranda@
+@pork@|@carni'porco, porco@
+@pornography@|@pòrno, pòrnografia@
+@porperty@|@propiedat@
+@port@|@haf, puerto@
+@portable@|@pòrtebel@
+@portal@|@drentada, entrada, porta@
+@portrait@|@portrèt, portrèt, potrèt@
+@Portugal@|@Portugal@
+@Portuguese@|@portugues@
+@position@|@posishon@
+@positive@|@pósitivo@
+@positively@|@definitivamente@
+@possess@|@poseé, tin(1), tini@
+@possession@|@propiedat@
+@possibility@|@oportunidat, posibilidat@
+@possible@|@posibel@
+@possibly@|@kisas, podisé, talbes(1)@
+@post@|@palo, pòst, puesto@
+@post office@|@pòstkantor@
+@postage stamp@|@stampia@
+@postcard@|@pòstkart@
+@postman@|@brievenbesteller, pòsterei@
+@pot@|@pòchi@
+@potato@|@batata@
+@pound@|@liber@
+@pour@|@basha@
+@pour out@|@drama@
+@poverty@|@pobresa@
+@powder@|@pòlbu, pòlvo@
+@power@|@poder, potensia@
+@powerful@|@poderoso, potente@
+@practical@|@práktiko@
+@practice@|@ehersisto, práctica@
+@praise@|@alabá, alabansa, gaba, gabamento, gabamentu@
+@prawn@|@kabaron@
+@pray@|@resa@
+@prayer@|@orashon@
+@preacher@|@predikant@
+@precipice@|@abismo, precipicio@
+@precise@|@nèt, nèta, presis@
+@precision@|@presishon@
+@prefix@|@prefiho@
+@pregnan@|@dek@
+@pregnant@|@dek, ku bariga, ku barika, na estado, priñá@
+@prejudice@|@prehuisio@
+@premium@|@premio@
+@preparation@|@praparashon@
+@preposition@|@preposishon@
+@presence@|@presensia@
+@present@|@aktual, opsekio, presente, regaldo@
+@presentation@|@presentashon@
+@present-day@|@aktual@
+@presentiment@|@presentimentu@
+@president@|@presidente@
+@press@|@primi@
+@pretext@|@preteksto@
+@pretty@|@amabel, bunita, nèchi@
+@previous to@|@antes cu, promer cu@
+@previously@|@antes, dilanti@
+@price@|@preis@
+@pricey@|@kostoso@
+@pride@|@orguyo@
+@primitive@|@primitivo@
+@princess@|@prensès, prinsesa@
+@principle@|@prinsipio@
+@print@|@imprenta, imprimi@
+@printed matter@|@imprenta@
+@prison@|@piskalat, prison, prizon, prizòn@
+@private@|@privá@
+@privilege@|@privilegio@
+@prize@|@premio@
+@probable@|@probable@
+@probably@|@probablemente@
+@problem@|@labatida, problema@
+@procedure@|@prosedimento@
+@process@|@prosedimento@
+@proclamation@|@deklarashon, proklamashon, publikashon@
+@produce@|@produsí@
+@product@|@produkto@
+@production@|@produkshon@
+@profession@|@profeshon@
+@professor@|@profesor@
+@profit@|@ganashi@
+@profound@|@profundo@
+@programme@|@programa@
+@progress@|@mehorashon, progresá, progreso@
+@prohibit@|@prohibí, taha@
+@project@|@proyekto@
+@projector@|@proyèktòr@
+@prologue@|@prólogo@
+@promise@|@promesa@
+@pronounciation@|@pronunshashon, pronunsiashon@
+@proof@|@preba, proba, prueba@
+@propaganda@|@porpaganda, propaganda@
+@property@|@kalidat, propiedat@
+@prophet@|@profeta@
+@prostitute@|@mohé di bida@
+@prostitution@|@prostitushon@
+@protection@|@protekshon@
+@protein@|@proteina@
+@protest@|@protesta, protestá@
+@Protestant@|@protestant@
+@protocol@|@protokól@
+@proud@|@orguyoso, tribí@
+@prove@|@preba, proba@
+@proverb@|@proverbio@
+@provided that@|@en caso cu, si@
+@province@|@provinsia@
+@provisional@|@temporal@
+@psalm@|@psalm@
+@public@|@públiko@
+@publication@|@publikashon@
+@publicity@|@propaganda@
+@publisher@|@editor@
+@pudding@|@pudin@
+@puechaser@|@kompradó@
+@puge@|@limpia, purifiká@
+@pull@|@hala, trèk@
+@pulley@|@katròl@
+@pulse@|@pòls@
+@pump@|@pòmp@
+@pumpkin@|@pampuna@
+@punishment@|@kastigo, kastigu@
+@puppet@|@pòpchi@
+@purchase@|@kompra, kumpra@
+@pure@|@puro, puru@
+@purity@|@limpiesa, puresa@
+@purple@|@püs@
+@purpose@|@meta@
+@purse@|@pòtmòni@
+@pursuit@|@persekushon@
+@pus@|@pus@
+@push@|@pusha, stot@
+@pussy@|@blònchi, doshi, tonto@
+@put@|@buta, pone@
+@put down@|@buta, pone@
+@put up with@|@sufri@
+@putrefy@|@putri@
+@puzzle@|@charada, misterio, pùzel@
+@pyjamas@|@pidjama@
+@pyramid@|@piramida@
+@Pyrenees@|@Pirineo@
+@quadrangle@|@virhuk@
+@qualification@|@kualifikashon@
+@quality@|@kalidat@
+@quantity@|@kantidat@
+@quarrel@|@helengue, pleita, pleito, pleitu, tròbel@
+@quarter@|@bario@
+@quay@|@waf@
+@queen@|@reina@
+@question@|@pregunta@
+@question mark@|@komia@
+@quick@|@ráoido, rápido@
+@quickly@|@rápidamente@
+@quicksilver@|@luek@
+@quik@|@rapido@
+@quinine@|@kinina@
+@quite@|@altamente, basta, bastante, hopi, marsha, mashá@
+@quiver@|@trel@
+@quote@|@komia@
+@rabbit@|@konèchi, koneu@
+@race@|@rasa@
+@radical@|@radikal@
+@radio@|@radio@
+@raffle@|@loteria@
+@rain@|@yobe@
+@rain season@|@tempu di awaceru@
+@rainy season@|@tempu di awaceru@
+@raise@|@hisa, rasa, subi, takser@
+@rake@|@haladó, harka@
+@rand@|@rant@
+@random@|@aksidental@
+@rank@|@fila, grado, kareda, turno@
+@rapid@|@rápido@
+@rat@|@djaka@
+@rate@|@grado, taksa, takser@
+@rather@|@basta, bastante, krenchi, poko@
+@raw@|@krudo, kurú@
+@ray@|@rayo, strepi@
+@razor@|@blet, nabaha@
+@reaction@|@reakshon@
+@read@|@lesa@
+@reader@|@lesado@
+@ready@|@kla@
+@real@|@efektivo@
+@realist@|@realista@
+@reality@|@berdá, berdat@
+@realize@|@kèch@
+@really@|@realmente@
+@rear@|@rasa@
+@reason@|@causa, motibu@
+@reasonable@|@moderá@
+@rebate@|@rebaha@
+@rebel@|@rebelde@
+@rebellion@|@rebelion@
+@receipt@|@recibu@
+@receive@|@haña, haya@
+@recent@|@fresku@
+@recognizable@|@rekonosibel@
+@recollection@|@memoria@
+@recommendation@|@rekomendashon@
+@record@|@disko, regester@
+@record-player@|@pikòp, tokadisko@
+@rector@|@rèktòr@
+@red@|@còrá, kòrá@
+@red indian@|@indjan@
+@redords@|@argif@
+@reed@|@kabana@
+@reek@|@hole, ole@
+@refrigerator@|@frishidèr@
+@refuse@|@nenga@
+@regal@|@real@
+@regard@|@wak, weita, weta@
+@register@|@regester@
+@regrettable@|@deplorabel, lamentabel@
+@regrettably@|@lamentabelmente, lástimamente@
+@regular@|@regular@
+@regularly@|@regularmente@
+@regulary@|@regularmente@
+@regulation@|@regla@
+@reign of terror@|@teror@
+@reject@|@nenga@
+@relate@|@conta@
+@relative@|@miembro di famía, relativo@
+@release@|@laga, libra@
+@religion@|@religion@
+@religious@|@religioso@
+@remaider@|@resto, restu@
+@remain@|@keda, resta@
+@remainder@|@restu@
+@remark@|@observacion@
+@remarkable@|@notifikabel, riparabel@
+@remote@|@leu@
+@rendezvous@|@deit@
+@renown@|@distinshon, gloria@
+@rent@|@hür@
+@renter@|@hürdó@
+@repair@|@drecha@
+@replete@|@pestá@
+@reply@|@kontesta, kontestashon, respondi@
+@repose@|@deskanso@
+@representation@|@figura@
+@representative@|@representante@
+@reproach@|@reproche@
+@reproduction@|@reprodukshon@
+@republic@|@repúblika@
+@republican@|@republikano@
+@require@|@mester@
+@rescue@|@salba@
+@resemble@|@liga, parse@
+@reservoir@|@kònchi@
+@residence@|@kas@
+@resist@|@risinbèn@
+@respect@|@rèspèt@
+@respiration@|@aliento@
+@responsible@|@responsabel@
+@rest@|@deskanso, resto, restu@
+@restaurant@|@restorant@
+@restrain@|@goberná, reina@
+@result@|@resultado@
+@resumé@|@resúmem@
+@return@|@bolbe, regreso@
+@revenge@|@revancha@
+@revolt@|@rebelion@
+@revolution@|@revolushon@
+@revolver@|@revòlver@
+@revue@|@revista@
+@reward@|@rekompensa@
+@rheumatism@|@reumatismo@
+@rhyme@|@reim@
+@rhythm@|@ritmo@
+@rhythmic@|@rítmiko@
+@rice@|@aros@
+@rich@|@riko, riku@
+@riddle@|@charada, misterio, puzzle@
+@ridiculous@|@ridíkulo@
+@rifle@|@skòpet@
+@right@|@korekto, rason@
+@right away@|@inmediatamente, mesora, umbé, umbes@
+@right now@|@umbé@
+@righteous@|@husto, hustu@
+@rigid@|@steif@
+@rigour@|@severidat@
+@rim@|@rant@
+@ring@|@renchi@
+@ripe@|@berdè, echu, hecho, hechu, schu@
+@ripen@|@hecha@
+@risk@|@rísiko, riska@
+@rival@|@rival@
+@river@|@riu@
+@ro conduct oneself@|@komportá@
+@road@|@kaminda, karetera@
+@roast@|@rosti, rosto, tost@
+@rob@|@roba@
+@robe@|@bistí, shimí, shimis@
+@rock@|@baranka@
+@rod@|@bara@
+@rogue@|@desgrasiado, desgrasiadu, kanaya@
+@rôle@|@ròl@
+@role/roll@|@ròl@
+@roll@|@ròl@
+@roman@|@novela@
+@Romania@|@Rumania@
+@Romanian@|@rumano@
+@romantic@|@romántiko@
+@Rome@|@Roma@
+@room@|@karto, kuartu@
+@rooster@|@gai@
+@root@|@rais@
+@rope@|@kabuya, liña@
+@ros@|@pink@
+@rose@|@rosa, roza@
+@rostrum@|@tribuna@
+@rot@|@puti, putri@
+@rough@|@krudo@
+@round@|@rondó, rònt@
+@route@|@kaminda, karetera, trevesia@
+@routine@|@rutina@
+@row@|@fila, kareda, rema, turno@
+@royal@|@real@
+@rub@|@frega@
+@rubber@|@kondon, kòndòn, rùber@
+@ruby@|@rubí@
+@rudder@|@stür@
+@rude@|@grosero@
+@rudiments@|@alfabèt@
+@ruin@|@ruina@
+@rule@|@regla, reina@
+@ruler@|@gobernadó, gobernador, liñal, linial@
+@rum@|@ròm@
+@rumor@|@rumor@
+@rump@|@kul@
+@run@|@huimento, huimentu, kore@
+@run across@|@raka@
+@run away@|@hui@
+@run for election@|@solicitá@
+@run up@|@hisa, isa@
+@Russia@|@Rusia@
+@Russian@|@ruso@
+@rust@|@frus, frusa, frustia, frusto@
+@Sabbath@|@djasabra@
+@sack@|@tas@
+@sacred@|@dibino, sagrado, santo, santu@
+@sad@|@tristu(1)@
+@sadism@|@sadismo@
+@sadist@|@sadista@
+@sadness@|@disgustu, ferdrit@
+@safety@|@seguridat@
+@safety pin@|@frèkè, prèkè@
+@sagacious@|@inteligente@
+@Sahara@|@Sahara@
+@sail@|@zeilo, zeilu@
+@sailor@|@marinero, nabegante@
+@salad@|@salada@
+@salary@|@ganamentu, salario, sueldo@
+@sales activity@|@merkado@
+@salesman@|@bendedó@
+@saleswoman@|@bendedora@
+@saliva@|@baba@
+@salivate@|@baba@
+@sallow@|@blek@
+@salmon@|@salmou@
+@salon@|@sal, sala@
+@salt@|@salga, salo, salu@
+@salt water@|@awasá@
+@salty@|@salu@
+@sample@|@muestra@
+@sand@|@santo, santu@
+@sandal@|@sandalia@
+@sandbank@|@klef, ref@
+@sandwich@|@sèntuich@
+@sap@|@djus@
+@sarcasm@|@sarkasmo@
+@satellite@|@satelit@
+@satisfied@|@kontento, kontentu@
+@Saturday@|@dia sabra, djasabra@
+@Saturn@|@saturno, sturno@
+@sauce@|@sous@
+@saucer@|@skotter@
+@sausage@|@wòrs, wòrst@
+@savage@|@brabu@
+@saw@|@za, zag@
+@saxophone@|@saksofon@
+@say@|@bisa@
+@scales@|@balansa@
+@scarcely@|@apenas@
+@scatter@|@basha@
+@scene@|@esena@
+@scenery@|@paisahe@
+@scent@|@holó, oló@
+@scheme@|@proyekto@
+@school@|@skol@
+@scorpion@|@alakran, lakran, skòrpion@
+@scratch@|@huña, huñá@
+@scream@|@grita, gritu@
+@screen@|@pantaya@
+@screw@|@hunga, kohe, koi, kue, limpia, skruf@
+@screwdriver@|@skrufdrai@
+@scuffle@|@bataya, brigamentu, pelea, peleya@
+@sculptor@|@eskultor@
+@sea@|@lamá, laman@
+@sea turtle@|@tortuga di laman@
+@seamstress@|@kosedó, kosturerá@
+@seaside@|@kosta@
+@season@|@temporada@
+@second@|@di dos@
+@secret@|@misterio, secretu, sekreto@
+@secretary@|@sekretaria, sekretario@
+@section@|@vak(1)@
+@security@|@seguridat@
+@see@|@kontra, mira, sorù, topa@
+@see you later@|@te awero, te otro biaha@
+@see you later!@|@te despues!@
+@see you!@|@te mañan@
+@seek@|@buska, rista@
+@seem@|@parce@
+@seemingly@|@aparentemente@
+@seize@|@kohe, koi@
+@self@|@mes(1)@
+@selfinterest@|@egoismo@
+@selfshness@|@egoismo@
+@sender@|@afzènder@
+@sensation@|@heful, sentimento, sentimentu@
+@sense@|@sinti@
+@sentence@|@frase, sentido, zin@
+@sentido@|@to adjudicate@
+@separate@|@apart@
+@sepia@|@sekat@
+@September@|@september, sèptèmber@
+@serenade@|@serenata@
+@series@|@seri@
+@serious@|@grave, importante, serio@
+@sermon@|@predikashi@
+@servant@|@kriá@
+@serve@|@sirbi@
+@set@|@aparato, grupo, kuadria, seri@
+@settlement@|@kolonia@
+@seven@|@shete, siete@
+@seventee@|@djashete@
+@seventeen@|@djeshete@
+@seventy@|@setenta@
+@several times@|@akaso, tia bia, tin bia@
+@severity@|@severidat@
+@sew@|@kose@
+@sewer@|@riol@
+@sex@|@sèks@
+@sexual@|@seksual@
+@shack@|@barak@
+@shade@|@sombra@
+@shame@|@bergwensa@
+@shampoo@|@shampu, zjampo@
+@shanty@|@barak@
+@shape@|@fasun, forma@
+@share@|@parti, sher@
+@shark@|@tribon@
+@shave@|@feita@
+@shawl@|@shal@
+@she@|@e@
+@shear@|@barak, basha@
+@sheep@|@karné@
+@sheet@|@blachi, laker, laker di kama@
+@she-goat@|@cabritu@
+@shell@|@kaska, kokolishi, pela@
+@shelling@|@bombardeo@
+@shine@|@bria, brilia@
+@shinishi@|@grey@
+@ship@|@bapor@
+@shirt@|@kamisa@
+@shiver@|@trel@
+@shoe@|@sapato, sapatu@
+@shoe-lace@|@feter, veter@
+@shoemaker@|@sapaté@
+@shoes@|@sapato, sapatu@
+@shomaker@|@sapaté@
+@shop@|@tienda@
+@shore@|@kosta@
+@short@|@corticu@
+@shortage@|@manko@
+@shortcoming@|@manko@
+@shorten@|@abreviá@
+@shorthand@|@stenografia@
+@shortness of breath@|@asma@
+@shorts@|@karson, karson di kòrtiko, karson kòrtiko, karson kòrtiku@
+@should@|@mester@
+@shoulder@|@skouder@
+@shout@|@grita, grito, gritu@
+@show@|@munstra, mustra@
+@shower@|@ducha, dush@
+@shuffle@|@meks, meskla@
+@shut@|@cera@
+@sick@|@malu@
+@side@|@banda, kanchi, partida, partido@
+@sideboard@|@kashi@
+@sideline@|@hòbi@
+@sidewalk@|@alsera, asera, stupi, tròtuar@
+@sieve@|@koladó, sefta, seftu, tefi@
+@sift@|@kola, sefta, skuri@
+@sight@|@aspekto, bista@
+@sign@|@firma, preba, proba, prueba, seña, señal@
+@signal@|@seña, señal@
+@signature@|@firma@
+@sill@|@drèmpi@
+@silver@|@plata@
+@sin@|@piká@
+@since@|@desde, di, dor, komo, komokiera, pasobra@
+@sing@|@kanta@
+@singer@|@kantante@
+@sink@|@zink@
+@sir@|@Mener, señor@
+@sister@|@ruman, ruman mohé, ruman muhé@
+@sister-in-law@|@kuñá@
+@sit@|@brui@
+@sitting room@|@hadrei@
+@sitting-room@|@hadrei, sal, sala@
+@situation@|@situacion@
+@six@|@seis@
+@sixteen@|@djesseis@
+@sixty@|@sesenta@
+@sizable@|@konsiderabel@
+@size@|@grandura, tamaño@
+@skillful@|@hèndi@
+@skimpy@|@delegá, flako, flaku@
+@skin@|@kueo, kuero, kueru@
+@skinny@|@delegá, flako, flaku@
+@skirt@|@saya@
+@sky@|@shelo, shelu@
+@slaughterhouse@|@matansia@
+@slaugtherhouse@|@abatuar, matansia@
+@slave@|@katibo, katibu@
+@slay@|@mata@
+@sleep@|@drumi@
+@sleeve@|@manga@
+@slender@|@flako, flaku@
+@slice@|@corta@
+@slipper@|@slòf@
+@Slovakian@|@eslovako@
+@sly@|@bispou, djispou@
+@small@|@chikí, chikito, chikitu@
+@small room@|@kámara@
+@smart@|@bispou, djispou@
+@smell@|@hole, holó, ole, oló@
+@smile@|@sonrisa@
+@smoke@|@huma@
+@smuggler@|@kontrabandista@
+@snack@|@almuerso@
+@snail@|@slak@
+@snare@|@trampa@
+@sneeze@|@nister, nistro@
+@snifter@|@aperitivo@
+@snore@|@ronka@
+@snorter@|@aperitivo@
+@snow@|@sneu@
+@so@|@asina, pa@
+@so long@|@asta la vista@
+@so that@|@pa@
+@soap@|@habon@
+@sober@|@burachi@
+@sobriquet@|@beinam@
+@soccer@|@futbòl@
+@social@|@soshal, sosial@
+@socialism@|@soshalismo, sosialismo@
+@socialist@|@soshalista, sosialista@
+@society@|@klup, sociedad@
+@sociologist@|@sosiólogo@
+@sociology@|@sosiologia@
+@sock@|@mea, meña, meya@
+@sofa@|@sofa@
+@soft@|@dushi, moli, suabe@
+@soften up@|@molia@
+@soil@|@susha, tera@
+@soiled@|@fis, sushi@
+@soldier@|@sòldá@
+@sole@|@so@
+@solicitor@|@abogado@
+@solitary@|@so@
+@solution@|@solushon@
+@somber@|@tristu(1)@
+@some@|@algun, un hende@
+@somebody@|@un hende@
+@someone@|@un hende@
+@something@|@algu, un cos@
+@something new@|@nobedat, notisia@
+@sometimes@|@akaso, tia bia, tin bia@
+@son@|@yiu homber@
+@song@|@kansion@
+@soon@|@pronto@
+@sorcerer@|@tovernar (1)@
+@sorcery@|@bruheria, magia@
+@sorrow@|@disgustu, ferdit@
+@sort@|@sorto@
+@soul@|@alma@
+@sound@|@zona, zonido, zonidu@
+@soup@|@sòpi@
+@sour@|@ásido@
+@source@|@fuente@
+@south@|@sur, zuid@
+@South Africa@|@Sur-Afrika@
+@South Afrika@|@Sur-Afrika@
+@sow@|@sembra@
+@spade@|@koba@
+@Spain@|@Spaña@
+@Spanish@|@spañó@
+@Spanish (person)@|@spañó@
+@spare time@|@fakansi, vakashon@
+@spark@|@chispa@
+@spark plug@|@sparplük@
+@speak@|@papia@
+@speaker's plataform@|@tribuna@
+@spear@|@lansa@
+@special@|@apart, espesial, speshal, spesial@
+@specialist@|@baké, bakiá, bakianu@
+@speciality@|@vak(1)@
+@specific@|@spesífiko@
+@specimen@|@muestra@
+@spectacles@|@brel, brel di bista@
+@speechless@|@mudo, mudu@
+@speedy@|@rápido@
+@sperm@|@djus, spechi@
+@spider@|@araña, haraña@
+@spiderweb@|@spenderá@
+@spinach@|@spinazi@
+@spinster@|@soltera@
+@spiral@|@spiral@
+@spirit@|@ánimo, spiritu@
+@sponger@|@parasit@
+@spoon@|@kuchara@
+@sport@|@deporte@
+@spot@|@logá, punto@
+@spouse@|@esposa@
+@spring@|@bula, fer, fuente, salta, sprin@
+@spy@|@spion@
+@square@|@firkant, kuadrá, kuadrat@
+@square decameter@|@grupo, kuadria@
+@squash@|@pampuna@
+@squeeze@|@primi@
+@ssummon@|@yama@
+@stable@|@stabil@
+@stage@|@etapa, fase, stashon@
+@staid@|@serio@
+@staircase@|@trapi@
+@stairs@|@trapi@
+@stake@|@palo, palu@
+@stallion@|@cabai muchu@
+@stamp@|@stampia@
+@stanchion@|@palo, palu@
+@standard@|@norma@
+@staple@|@kram@
+@star@|@strea, streya@
+@star fish@|@strea di laman@
+@start@|@cuminsamentu@
+@statement@|@deklarashon@
+@statement of policy@|@programa@
+@station@|@stashon@
+@statistics@|@statistik@
+@statue@|@estatua@
+@stay@|@estadía, keda@
+@stay on@|@resta@
+@stay over@|@keda@
+@steak@|@bifstek, bistek@
+@steal@|@hòrta, roba@
+@steamship@|@bapor@
+@steel@|@stal@
+@steer@|@stür@
+@stenography@|@stenografia@
+@step@|@paso@
+@sterile@|@steril@
+@sterness@|@severidat@
+@stewardess@|@stiwardès@
+@stick@|@baston, bastòn, leim, palu, takon, takòn@
+@stiff@|@steif@
+@still@|@aínda@
+@stipulation@|@kondishon@
+@stir@|@ánimo, emoshoná@
+@stock@|@stòk@
+@stocking@|@mea, meña, meya@
+@stomach@|@stoma@
+@stone@|@pieda, piedra@
+@stop@|@para, stashon, stòp@
+@storage battery@|@bateria@
+@store@|@tienda@
+@storey@|@piso@
+@stork@|@oyevar@
+@storm@|@skual@
+@story@|@historia, piso@
+@strabger@|@strañero@
+@straightahead@|@liñal, linial@
+@strange@|@strabagante, straña, straño, strañu@
+@stranger@|@strañero@
+@strangle@|@choka@
+@stream@|@roi@
+@street@|@kaya@
+@streetcar@|@trèm@
+@strength@|@forsa, fortalesa@
+@stress@|@aksènt@
+@stretcher@|@brankar@
+@stride@|@paso@
+@strike@|@bati, dal, gòlpi, raka, straik, welga, wèlga@
+@string@|@kabuya, liña@
+@strip@|@bant, streip@
+@stripe@|@strepi@
+@stroke@|@karisia@
+@strong@|@duru, fuerte, sterki@
+@strongly@|@fuertemente@
+@structure@|@struktura@
+@struggle@|@bataya, bringa, bringamentu, lucha, pelea, peleya@
+@student@|@studiante@
+@study@|@estudio, studia@
+@stupid@|@bobo, bubè, chambòn, sokete@
+@sty@|@chiké@
+@style@|@estilo@
+@subscriber@|@abonado@
+@subscription@|@abono@
+@substantive@|@substantivo@
+@subterfuge@|@triki@
+@succeed@|@logra@
+@success@|@èksito@
+@such@|@asina@
+@such a@|@kon@
+@suck@|@chupa@
+@sudden@|@abrupta@
+@suddenly@|@direpiente, direpientemente@
+@suffer@|@sufri@
+@sufficient@|@sufisiente@
+@sufficiently@|@basta, bastante@
+@suffix@|@sufiho@
+@sugar@|@suku@
+@suit@|@bistí, flus@
+@suitable@|@adaptabel, adekuá, usabel@
+@suitcase@|@falis@
+@summery@|@resúmen@
+@summon@|@yama@
+@sun@|@solo@
+@Sunday@|@dia domingo, djadomingo, djadumingu@
+@sunflower@|@zòneblum@
+@sun-glasses@|@brel di solo@
+@superstition@|@superstishon@
+@superstitious@|@supersticioso@
+@superstitous@|@supersticioso@
+@support@|@stet@
+@supporter@|@miembro@
+@suppose@|@ideá@
+@supposed to@|@supposed di@
+@sure@|@sigur@
+@surface@|@superficie@
+@surgical operation@|@oprashon@
+@Surinam@|@Sürnam@
+@surname@|@fam@
+@surpass@|@bit@
+@surprise@|@asombro, sorprendé, sorpresa, sorpresá, sùrprais@
+@suspicion@|@deskonfiansa, sospecho@
+@sustain@|@stet@
+@sustained@|@konstante@
+@swallow@|@souchi@
+@swan@|@zwan@
+@swear@|@hura@
+@sweat@|@sodó, transpirashon@
+@sweep@|@bari@
+@sweet@|@dushi@
+@swell@|@hincha@
+@swift@|@rápido@
+@swiftly@|@rápidamente@
+@swim@|@landa, landra@
+@swimming pool@|@pul@
+@swimming trunks@|@batbruk, zuèmbruk@
+@swimming-bath@|@zuèmpul@
+@swimming-pool@|@pul, zuèmpul@
+@swindle@|@desengaño, engaño@
+@swine@|@hochi, hochino, porko@
+@Swiss@|@suiso@
+@Switzerland@|@Suisa@
+@swoon@|@desmaña, desmañá@
+@syrup@|@stropi@
+@table@|@mesa, tabèl@
+@tablet@|@tabèl@
+@tabulation@|@tabèl@
+@tactic@|@táktika@
+@tactics@|@táktika@
+@tail@|@rabo, rabu@
+@tailor@|@sastre@
+@take away@|@kita@
+@take care@|@sòru@
+@taking@|@kompra@
+@taking over@|@kompra@
+@talent@|@talento@
+@talk@|@papia@
+@tall@|@altu, halto, haltu@
+@tame@|@manso, mansu@
+@tangle@|@babel, bochincha, desòrden, kaos@
+@tango@|@tango@
+@tap@|@kranchi@
+@tape@|@bant@
+@tardly@|@lat@
+@target@|@meta@
+@tart@|@ásido, bolo, tént, tért@
+@taste@|@gusto, gustu, sabor@
+@tax@|@belasting@
+@taxi@|@taxi@
+@teacher@|@instuktor, maestra, maestras, maestro@
+@tear@|@lágrima@
+@teat@|@tete@
+@technics@|@téknika@
+@technology@|@teknologia@
+@telegram@|@telegram@
+@telephone@|@bèl, telefon, telefòn@
+@telescope@|@teleskop@
+@television@|@televishon@
+@tell@|@bisa, conta@
+@tell a lie@|@gaña@
+@temper@|@humor@
+@temperature@|@temperatura@
+@temple@|@tèmpel@
+@temporarily@|@temporalmente@
+@temporary@|@temporal@
+@ten@|@dies, djes@
+@tenant@|@hürdó@
+@tender@|@dushi, proposishon@
+@tennis@|@tènes@
+@tent@|@tènt@
+@term@|@término@
+@terminate@|@finalisá, kaba, terminá@
+@termite@|@kemehein, komehèn@
+@terms@|@kondishon@
+@terrain@|@tereno@
+@terrible@|@feros, feroso, horibel, teribel(1), terible@
+@territory@|@teritorio@
+@terror@|@teror@
+@terrorism@|@terorismo@
+@terrorist@|@terorista@
+@test@|@èksamen, esfurso, intento, investigashon@
+@testament@|@téstamènt@
+@text@|@teksto@
+@textile@|@tela@
+@thamkful@|@gradisidu@
+@thank@|@gradisí@
+@thank you@|@danki@
+@thank you very much@|@masha danki@
+@thankful@|@agradesidu, gradisido, gradisidu@
+@thankless@|@desagradesido@
+@thanks@|@danki@
+@that@|@asina, ken, kende, ki, kiko, kua@
+@that way@|@asina@
+@the@|@e@
+@the day after tomorrow@|@otro mañan@
+@the day before yesterday@|@antaeyra@
+@The Netherlands@|@Hulanda, Ulanda@
+@theater@|@teater@
+@theater play@|@komedia@
+@theft@|@robo@
+@their@|@nan, su@
+@then@|@anto@
+@theologian@|@teólogo@
+@theology@|@teologia@
+@therapy@|@terapia@
+@there@|@ata, aya, ei@
+@there are@|@tin@
+@there is@|@tin@
+@therefore@|@p'esei, pa esei@
+@these days@|@awendía, awor@
+@they@|@anan, nan@
+@thick@|@diki, gordo@
+@thickness@|@diki@
+@thief@|@hòrtadó, ladron@
+@thigh@|@bel, bèl@
+@thimble@|@vringud@
+@thin@|@delegá, flako, flaku@
+@thing@|@koroto, kos, opheto@
+@think@|@pensa@
+@third@|@di tres@
+@thirst@|@sede, sedu, set@
+@thirteen@|@diestres, djestres@
+@thirty@|@trinta@
+@this way@|@aki@
+@thorn@|@spiña, sumpiña@
+@thou@|@abo, aboso, bo@
+@though@|@anke, aunke, maske@
+@thought@|@pensamento, pensamentu@
+@thousand@|@mil@
+@thread@|@hilo, hilu@
+@threat@|@amenasa@
+@three@|@tres@
+@threshold@|@drèmpi@
+@throat@|@garganta@
+@throne@|@trono@
+@through@|@kla, kompletamente, pa medio di@
+@through (1)@|@a kousa di, debí na@
+@throw@|@benta, tira@
+@throw up@|@arohá, saka@
+@Thrusday@|@djaweps@
+@thrust@|@pusha, stot@
+@thumb@|@dùim@
+@thunder@|@bos, dònder@
+@Thursday@|@diaweps@
+@thus@|@asina@
+@ticket@|@tíket@
+@ticket-window@|@lokèt@
+@tie@|@dashi@
+@tiger@|@tiger, tigro@
+@tilde@|@tilde@
+@till@|@te@
+@tillage@|@agrikultura, kultivo@
+@timber@|@palo, palu@
+@time@|@be, bes, ora, tempo, tempu@
+@time off@|@fakansi, vakashon@
+@timid@|@miedoso@
+@tin-opener@|@bleki@
+@title@|@título@
+@to@|@na, pa, sentenshá@
+@to abbreviate@|@abreviá@
+@to abdicate@|@abdiká@
+@to abduct@|@sekuestrá@
+@to abdust@|@sekuestrá@
+@to abide@|@persistí@
+@to abjure@|@anulá, kanselá@
+@to abolish@|@abolí, anulá, kanselá@
+@to abort@|@abortá, frakasá@
+@to abridge@|@limitá@
+@to abrogate@|@abolí, anulá, kanselá@
+@to absorb@|@disponé@
+@to abstract@|@resumí@
+@to abuse@|@insultá, ofendé@
+@to accede@|@konsentí@
+@to accept@|@akseptá, aseptá@
+@to acclimatize@|@aklimatisá@
+@to accomplish@|@alkansá@
+@to accord@|@armonisá, harmonisá, permití@
+@to account@|@konsiderá, opiná@
+@to account for@|@aklará@
+@to accumulate@|@akumulá@
+@to accuse@|@akusá, denunsiá@
+@to accustom@|@kostumbrá@
+@to achieve@|@alkansá, atkirí, optené@
+@to acknowledge@|@confirmá, rekonosé@
+@to acquaint@|@informá@
+@to act@|@influenshá, influensiá@
+@to act for@|@representá@
+@to adapt@|@adaptá@
+@to add@|@agregá@
+@to address@|@adresá@
+@to adjourn@|@aplasá@
+@to adjudicate@|@sentenshá, sentensiá@
+@to adjust@|@adaptá@
+@to ad-lib@|@improvisá@
+@to administer@|@atministrá@
+@to admire@|@atmirá@
+@to admit@|@permití, rekonosé@
+@to adopt@|@adoptá@
+@to adore@|@adorá@
+@to adress@|@adresá@
+@to advance@|@acercá, progresá@
+@to advertise@|@anuncía, propagá@
+@to advice@|@consehá, konsehá@
+@to advise against@|@deskonsehá@
+@to affect@|@influenshá, influensiá@
+@to affirm@|@afirmá, sigurá@
+@to afflict@|@afligí@
+@to afford@|@permití, produsí@
+@to aggrandize@|@oumentá@
+@to agree@|@konsentí@
+@to alarm@|@alarmá@
+@to amputate@|@amputá@
+@to analise@|@analisá@
+@to analyse@|@analisá@
+@to answer@|@kontestá@
+@to apologize@|@despensá, diskulpá@
+@to appeal@|@apelá@
+@to appear@|@aparesé@
+@to applaud@|@aploudí@
+@to apply@|@adaptá, apliká@
+@to appraise@|@balorá, balotá@
+@to appreciate@|@apreciá, gusta@
+@to approve@|@aprobá@
+@to arrest@|@arestá@
+@to arrive@|@yega@
+@to ascertain@|@konstatá@
+@to ask@|@pidi, suplicá@
+@to ask for@|@suplicá@
+@to asphalt@|@asfaltá@
+@to aspire@|@aspirá@
+@to assimilate@|@asimilá@
+@to assist@|@asistí@
+@to assure@|@sigurá@
+@to atract@|@atraé@
+@to attack@|@ataká@
+@to attain@|@atkirí@
+@to attend@|@bishitá, presensiá@
+@to attest@|@testiguá@
+@to attract@|@atraé@
+@to audit@|@chèk@
+@to automate@|@outomatisá@
+@to avail@|@probechá@
+@to avoid@|@evitá@
+@to bake bread@|@traha pan@
+@to bar@|@impidí@
+@to be@|@ta@
+@to be acquainted with@|@konosé@
+@to be born@|@nasé@
+@to be different@|@diferenshá, diferensiá@
+@to be envy@|@envidiá@
+@to be in habit of@|@kostumbrá@
+@to be interested@|@interesá@
+@to be present@|@presensiá, sistí@
+@to be sorry about@|@deplorá, lamentá@
+@to bear witness of@|@testiguá@
+@to become engaged@|@komprometé@
+@to begin@|@cuminsá, inisiá, kuminsá@
+@to behave@|@komportá@
+@to betray@|@traishoná@
+@to bid@|@ofrecé, suplicá@
+@to bite@|@mordé@
+@to blame@|@escargá, reprochá@
+@to bombard@|@bombardiá@
+@to breed@|@eduká@
+@to bring@|@tresa@
+@to bring up@|@eduká@
+@to burdensome@|@pisá@
+@to buy@|@kumpra@
+@to calculate@|@calculá, kalkulá@
+@to call@|@yama@
+@to call on@|@bishitá@
+@to cancel@|@kanselá@
+@to care for@|@karisiá@
+@to cause@|@causa@
+@to caution@|@avisá@
+@to celebrate@|@selebrá@
+@to censure@|@kritiká@
+@to change@|@cambiá@
+@to chase@|@persiguí@
+@to check@|@kontrolá@
+@to check up on@|@chèck, kontrolá@
+@to choose@|@eligí, eskohé@
+@to clap@|@aploudí@
+@to clarify@|@aklará@
+@to clean@|@purifiká@
+@to close@|@cerá@
+@to collect@|@kolektá@
+@to combine@|@kombiná@
+@to come@|@bini@
+@to come about@|@akontesé, sosedé@
+@to come close@|@acercá@
+@to come on@|@acercá@
+@to comfort@|@konsolá@
+@to command@|@komandá@
+@to commence@|@cuminsá, iniciá, kuminsá@
+@to commend@|@alabá, rekomendá@
+@to comment on@|@komentá@
+@to communicate@|@komuniká@
+@to compare@|@igualá, igualé, kompará@
+@to compel@|@obligá@
+@to compensate@|@rekompensá@
+@to compile@|@kompilá@
+@to compose@|@komponé@
+@to comprise@|@kontené@
+@to condemn@|@kondená@
+@to confess@|@konfesá@
+@to confine@|@limitá@
+@to confirm@|@confirmá@
+@to confiscate@|@konfiská@
+@to congratulate@|@felisitá@
+@to conjugate@|@konhugá@
+@to connect@|@konektá@
+@to connect up@|@konektá@
+@to conquer@|@konkistá@
+@to consent@|@konsentí@
+@to conserve@|@konservá@
+@to consider@|@konsiderá@
+@to consist@|@konsistí@
+@to console@|@konsolá@
+@to conspire@|@konspirá@
+@to construct@|@konstruí@
+@to consult@|@konsultá@
+@to contain@|@kontené@
+@to continue@|@kontinuá@
+@to control@|@goberná@
+@to converse@|@kembersá@
+@to convert@|@kombertí@
+@to convince@|@konvensé@
+@to cooperate@|@kolaborá, koperá@
+@to correct@|@korigí@
+@to correspond@|@korespondé@
+@to corroborate@|@confirmá@
+@to counsel@|@konsehá@
+@to create@|@inventá@
+@to criticize@|@kritiká@
+@to cry out@|@grita@
+@to cultivate@|@kultivá, kultivá@
+@to decide@|@disidí@
+@to declaim@|@deklamá@
+@to declare@|@deklará@
+@to defeat@|@derotá@
+@to defend@|@defendé@
+@to define@|@definí@
+@to degenerate@|@degenerá@
+@to degrade@|@degradá@
+@to delay@|@aplasá@
+@to deliver@|@entregá@
+@to demand@|@eksibí, eksigí, eksihí@
+@to denounce@|@denunsiá@
+@to deny@|@desmintí, nenga@
+@to depend@|@dependé@
+@to deposit@|@deponé, depositá@
+@to describe@|@deskribí@
+@to desire@|@deseá@
+@to despair@|@desesperá@
+@to desperate@|@desesperá@
+@to despise@|@despresiá, menospresiá@
+@to destroy@|@destrosá, destruí@
+@to determine@|@definí@
+@to die@|@fayesé, muri@
+@to differ@|@diferenshá, diferensiá@
+@to difficult@|@fregá@
+@to disapear@|@desaparesé@
+@to disappear@|@desaparesé, somentá@
+@to disappoint@|@desapuntá, desepshoná, desilushoná@
+@to disapprove@|@desaprobá@
+@to discover@|@deskubrí@
+@to discuss@|@diskutí@
+@to dissolve@|@solushoná@
+@to dissuade from@|@deskonsehá@
+@to distil@|@destilá@
+@to distinguish@|@distinguí@
+@to distribute@|@distribuí@
+@to distrust@|@deskonfiá@
+@to divide@|@apartá, dividí, separá@
+@to do@|@haci@
+@to double@|@dupliká, redupliká@
+@to draw@|@atraé@
+@to dress@|@bistí@
+@to drink@|@bebe@
+@to duplicate@|@multipliká@
+@to earmark@|@destiná@
+@to earnearn@|@gana@
+@to eat@|@come, kome@
+@to educate@|@eduká@
+@to elect@|@eligí, eskohe, eskohé, kis@
+@to embalm@|@balsemá@
+@to emerge@|@aparecé@
+@to emigrate@|@emigrá@
+@to encourage@|@apoyá@
+@to end@|@finalisá@
+@to endure@|@soportá, tolerá@
+@to enlighten@|@iluminá@
+@to enter@|@drenta@
+@to envy@|@envidiá, kodisiá@
+@to establish@|@kosntatá@
+@to estimate@|@balorá, balotá, baluá, taksa, takser@
+@to evacuate@|@evakuá@
+@to evade@|@evitá@
+@to exaggerate@|@eksagerá, eksaherá@
+@to exaggetare@|@eksagerá, eksaherá@
+@to examine@|@èksaminá, investigá@
+@to excced@|@superá@
+@to exceed@|@superá@
+@to excuse@|@diskulpá@
+@to exert@|@praktiká@
+@to exhibit@|@eksibí@
+@to exist@|@eksistí@
+@to experiment@|@eksperimentá@
+@to explain@|@aklará@
+@to exploit@|@eksplotá@
+@to export@|@eksportá@
+@to express@|@ekspresá@
+@to fabricate@|@fabriká@
+@to fail@|@frakasá@
+@to faint@|@desmañá@
+@to fascinate@|@fasiná@
+@to feed@|@alimentá@
+@to figure@|@kalkulá@
+@to find@|@haña@
+@to finish@|@finalisá@
+@to fish@|@piská@
+@to fit together@|@armonisá@
+@to fly@|@bula@
+@to fold@|@doblá@
+@to fondle@|@karisiá@
+@to forbid@|@prohibí@
+@to force@|@obligá@
+@to forget@|@lubidá@
+@to forgive@|@pordoná@
+@to function@|@funshoná@
+@to furnish@|@entregá@
+@to gallop@|@galopiá@
+@to gaunt@|@delegá@
+@to get@|@atkirí, haya, optené, yega@
+@to get (1)@|@akohé, alkansá, bira@
+@to get used@|@kustumá@
+@to give@|@duna@
+@to give notice@|@anuncía@
+@to go@|@bai@
+@to go on@|@kontinuá@
+@to go through@|@experimentá@
+@to govern@|@goberná@
+@to greet@|@kumindá, saludá@
+@to grieve@|@afligí@
+@to guard@|@vigilá@
+@to guess@|@ideá@
+@to hang onto@|@tene@
+@to happen@|@akontesé, sosedé@
+@to harmonize@|@armonisá, harmonisá@
+@to harmonze@|@harmonisá@
+@to have@|@tin@
+@to have a bath@|@dal un baño@
+@to have at one's disposal@|@disponé@
+@to have compassion on@|@duele@
+@to have hungry@|@hambrá@
+@to heap@|@akumulá@
+@to help@|@asistí@
+@to hold@|@tene@
+@to hold back@|@retené@
+@to hope@|@spera@
+@to hope for@|@aspirá@
+@to hungry@|@hambrá@
+@to hurt@|@eridá, heridá@
+@to identify@|@identifiká@
+@to illuminate@|@iluminá@
+@to illustrate@|@ilustrá@
+@to imagine@|@figurá, imaginá, imahiná@
+@to imitate@|@imitá@
+@to immigrate@|@imigrá@
+@to implicate@|@impliká@
+@to imply@|@nifiká@
+@to import@|@importá@
+@to impress@|@imponé@
+@to include@|@kontené@
+@to increase@|@oumentá@
+@to indicate@|@indiká@
+@to induce@|@konklú@
+@to inform@|@informá@
+@to inject@|@inyektá@
+@to inspect@|@inspektá@
+@to inspire@|@inspirá@
+@to install@|@instalá@
+@to insult@|@insultá, ofendé@
+@to interest@|@interesá@
+@to interpret@|@interpretá@
+@to interrupt@|@interumpí@
+@to intervene@|@intervení@
+@to interview@|@entrevistá@
+@to intreview@|@entrevistá@
+@to invent@|@inventá@
+@to invest@|@imbertí@
+@to investigate@|@investigá@
+@to invite@|@invitá, kombidá@
+@to issue@|@editá, proklamá@
+@to join@|@kombiná@
+@to jump@|@bulá@
+@to keep@|@konservá, opservá, vigilá@
+@to know@|@konosé@
+@to laugh@|@hari, harí@
+@to lean@|@apoyá, respaldá, sostené@
+@to leap@|@bulá@
+@to lenghten@|@prolongá@
+@to lengthen@|@prolongá@
+@to lie@|@gaña@
+@to limit@|@limitá@
+@to live@|@biba@
+@to live to see@|@experimentá@
+@to look after@|@vigilá@
+@to lose@|@perde, perdè@
+@to make@|@hasi@
+@to make a contract@|@kontratá@
+@to make a mistake@|@kiboká, kibuká@
+@to make a note@|@nota@
+@to make an offer of@|@orecé@
+@to make clean@|@limpia, purificá@
+@to manage@|@atministrá, stür@
+@to marry@|@casá, kasa@
+@to marvel@|@asonbrá@
+@to mean@|@nifiká@
+@to measure@|@midí@
+@to meditate@|@meditá@
+@to menace@|@amenasá@
+@to mention@|@menshoná, mensioná@
+@to mind@|@opservá@
+@to moderate@|@moderá@
+@to modernize@|@modernisá@
+@to move@|@emoshoná@
+@to multiply@|@multipliká@
+@to murder@|@asesiná@
+@to negociate@|@negoshá@
+@to notice@|@ripará@
+@to nounrish@|@alimentá@
+@to obey@|@obedesé@
+@to observe@|@opservá@
+@to obtain@|@atkirí, optené@
+@to occupy@|@okupá@
+@to occur@|@akontesé, sosedé@
+@to offend@|@insultá, ofendé@
+@to offer@|@ofrecé, proponé@
+@to open@|@habrí@
+@to operate@|@funshoná, operá@
+@to opine@|@opiná@
+@to ordain@|@destiná@
+@to order@|@komandá@
+@to organize@|@organisá@
+@to orient@|@orientá@
+@to own@|@poseé@
+@to pack@|@empaketá, paketá@
+@to pardon@|@pordoná@
+@to park@|@stashoná@
+@to participate@|@partisipá@
+@to pass away@|@fayesé@
+@to patrol@|@patruyá@
+@to peefume@|@perfumá@
+@to penetrate@|@penetrá@
+@to perform@|@aparesé, presentá@
+@to permit@|@permití@
+@to persecute@|@persiguí@
+@to perservere@|@persistí@
+@to persevere@|@persistí@
+@to persuade@|@konvensé@
+@to philosophize@|@filisofá@
+@to pick out@|@eligí, eskohé@
+@to pick up@|@kolektá@
+@to pile up@|@akumulá@
+@to plug in@|@konektá@
+@to poison@|@venená@
+@to postpone@|@aplasá@
+@to postulate@|@eksigí, eksihí@
+@to practice@|@adaptá, praktiká@
+@to praise@|@alabá@
+@to preach@|@prediká@
+@to prefer@|@preferá@
+@to prepare@|@prepará@
+@to present@|@presentá@
+@to present with@|@presentá@
+@to preserve@|@konservá@
+@to preside@|@presidiá@
+@to presume@|@ideá@
+@to prevent@|@impidí, prevení@
+@to proceed with@|@kontinuá@
+@to proclain@|@proklamá@
+@to produce@|@produsí, realisá@
+@to profess@|@rekonosé@
+@to programme@|@programá@
+@to project@|@proyktá@
+@to promise@|@primintí@
+@to pronounce@|@pronunshá, pronunsiá@
+@to prosecute@|@persiguí@
+@to protect@|@protehá@
+@to protest@|@protestá@
+@to publicize@|@propagá@
+@to publish@|@editá, publiká@
+@to punish@|@kastigá@
+@to pursue@|@persiguí@
+@to push@|@pushá@
+@to put up with@|@soportá, tolerá@
+@to puzzle@|@konfundí@
+@to qualify@|@kualifiká@
+@to quash@|@destrosá, destruí@
+@to raise@|@eduká@
+@to raise the alarm@|@alarmá@
+@to rate@|@balorá, balotá, baluá, kalkulá@
+@to reach@|@alkansá@
+@to react@|@reakshoná@
+@to read@|@lesa@
+@to realize@|@komprendé@
+@to rebuke@|@desaprobá, reprochá@
+@to recall@|@rekordá@
+@to recapture@|@rekonkistá@
+@to receive@|@akohé, akseptá, aseptá@
+@to recite@|@deklamá@
+@to recognize@|@rekonosé@
+@to recollect@|@rekordá@
+@to recommend@|@rekomendá@
+@to record@|@registrá@
+@to reelect@|@reeligí@
+@to refine@|@rafiná@
+@to reform@|@reformá@
+@to register@|@consehá, registrá, rekomendá@
+@to regret@|@deplorá, lamentá@
+@to remember@|@corda, rekordá@
+@to remit@|@anulá@
+@to repeat@|@ripití@
+@to replace@|@remplasá, substituí@
+@to reply@|@kontestá, respondé@
+@to report@|@informá, komuniká@
+@to repose@|@deskansá@
+@to represent@|@representá@
+@to reproach@|@reprochá@
+@to request@|@suplicá@
+@to require@|@eksisí, mesté@
+@to research@|@investigá@
+@to resign@|@abdiká@
+@to resist@|@resistí@
+@to respect@|@respetá@
+@to respond@|@kontestá, reakshoná, respondé@
+@to rest@|@descansá, deskansá@
+@to restrict@|@limitá@
+@to return@|@debolbé, regresá@
+@to reveal@|@publiká@
+@to reward@|@rekompensá@
+@to rouse@|@stimulá@
+@to ruin@|@ruiná@
+@to rule@|@goberná@
+@to run@|@funshoná@
+@to salute@|@kumindá, saludá@
+@to save@|@salba@
+@to say goodbye@|@despedí, dispidí@
+@to say goodbye to@|@despedí, dispidí@
+@to say yes@|@afirmá@
+@to scold@|@reprochá@
+@to scratch@|@huñá@
+@to search@|@ristra@
+@to see@|@bishitá, mira@
+@to sell@|@bende@
+@to sentence@|@kondená@
+@to separate@|@apartá, dividí, separá@
+@to set straight@|@desapuntá, desepshoná@
+@to share@|@dividí, partisipá@
+@to shut@|@cerá@
+@to signify@|@nifiká@
+@to sing@|@canta@
+@to sleep@|@drumi@
+@to slender@|@delegá@
+@to smile@|@smail, sonreí@
+@to smoke@|@huma@
+@to solve@|@solushoná@
+@to sound the alarm@|@alarmá@
+@to spend@|@gasta@
+@to spy@|@spioná@
+@to stack@|@akumulá@
+@to stand up@|@lanta@
+@to start@|@aktivá, cuminsá, inisiá, kuminsá@
+@to state@|@deklará@
+@to stimulate@|@stimulá@
+@to stir up@|@stimulá@
+@to stop@|@para, stashoná@
+@to strike@|@imponé@
+@to stroke@|@karisiá@
+@to substitute@|@remplasá, substituí@
+@to suggest@|@indiká@
+@to summarize@|@resumí@
+@to supervise@|@chèk, kontrolá@
+@to supply@|@entregá@
+@to support@|@apoyá, respaldá, sostené@
+@to surmise@|@ideá@
+@to surpass@|@superá@
+@to surprise@|@sorprendé@
+@to suspect@|@deskonfiá, sospechá@
+@to sustain@|@apoyá, respaldá, sostené@
+@to sweat@|@transpirá@
+@to swin@|@landa@
+@to swoon@|@desmaná@
+@to swotch on@|@aktivá@
+@to take@|@akseptá, aseptá, okupá@
+@to take an interest@|@interesá@
+@to take apart@|@demontá, desarmá@
+@to take away@|@hiba@
+@to take in@|@akseptá, aseptá@
+@to take into account@|@konsiderá@
+@to take leave@|@despedí, dispidí@
+@to take note@|@konstatá@
+@to take over@|@kumpra@
+@to take part@|@partisipá@
+@to teach@|@instruí@
+@to tender@|@presentá, proponé@
+@to test@|@intentá, ristra@
+@to testify@|@testiguá@
+@to think@|@opiná@
+@to think to oneself@|@meditá@
+@to threaten@|@amenasá, menasá@
+@to throw up@|@arohá@
+@to tired@|@kansá, molestiá, morchá@
+@to tolerate@|@soportá, tolerá@
+@to touch@|@toca@
+@to trade@|@negoshá@
+@to transform@|@transformá@
+@to translate@|@tradusí@
+@to transport@|@transportá@
+@to try@|@intentá@
+@to turn@|@desviá@
+@to turn around@|@drai@
+@to turn over@|@aktivá@
+@to understand@|@komprendé, komprondé@
+@to unemployed@|@desempleá@
+@to unite@|@kombiná@
+@to urinate@|@oriná@
+@to utilize@|@eksplotá@
+@to verify@|@chèk, kontrolá@
+@to visit@|@bishitá@
+@to want@|@ke@
+@to warn@|@avisá@
+@to wash@|@laba@
+@to waste@|@malgastá@
+@to watch over@|@vigilá@
+@to wet@|@muhá@
+@to win over@|@derotá, vense@
+@to wish@|@deseá@
+@to withstand@|@resistí@
+@to witness@|@asistí, presensiá@
+@to wonder@|@asombrá@
+@to work@|@funshoná, traha@
+@to work out@|@kalkulá@
+@to worship@|@adorá@
+@to wound@|@eridá@
+@to wrap up@|@empaketá, paketá@
+@to write@|@skribi@
+@toad@|@dori@
+@toast@|@rosti, rosto, tost@
+@tobacco@|@tabako, tabaku@
+@today@|@awe@
+@together@|@hunto, huntu@
+@token@|@preba, proba, prueba, seña, señal@
+@tomato@|@tomati@
+@tomorrow@|@mañan@
+@tone@|@tono@
+@tongue@|@abla, idioma, lenga, lnga@
+@tonsil@|@amandel@
+@too@|@muchu, tambe@
+@too much@|@muchu@
+@tooth@|@djente@
+@toothpick@|@tutpek@
+@topical@|@aktual@
+@topicality@|@aktualidat@
+@torch@|@antorcha, flameu@
+@torpedo@|@torpedo@
+@torture@|@tortura@
+@total@|@total@
+@touch@|@mishi@
+@touching@|@emoshonal@
+@tourism@|@turismo@
+@tourist@|@turista@
+@toward@|@na@
+@towards@|@na@
+@towel@|@sarbètè@
+@town@|@playa, stat@
+@tractor@|@traktor@
+@trade@|@fishi, komersio, ofishi@
+@tradition@|@tradishon@
+@traditional@|@tradishonal@
+@traffic@|@tráfiko@
+@tragedy@|@tragedia@
+@tragic@|@trágiko@
+@train@|@trein, tren@
+@tram@|@trèm@
+@tranquil@|@trankilo@
+@transgression@|@piká@
+@transistor@|@transester@
+@transitive@|@transitivo@
+@translation@|@tradukshon@
+@transparant@|@transparante@
+@transport@|@transpòrt@
+@transporter@|@transportadó@
+@trap@|@trampa@
+@travel@|@bia, biaha@
+@treacherous@|@traidó@
+@treachery@|@traishon@
+@treasure@|@tesoro@
+@treat@|@kura, trata@
+@tree@|@palo, palu@
+@tremble@|@trel@
+@tressle@|@stal@
+@triangle@|@triángulo@
+@tribe@|@tribu@
+@trick@|@triki@
+@trifle@|@bagatèl@
+@trip@|@bia, biaha@
+@triple@|@tribel@
+@troop@|@tropa@
+@tropical@|@tropikal, trópiko@
+@trouble@|@labatiba, problema@
+@troupe@|@tropa@
+@trousers@|@karson, karson largo, karson largu, kashon@
+@truck@|@camion@
+@true@|@rason@
+@truly@|@realmente@
+@trumpet@|@trompet@
+@trunk@|@baúl, maleta@
+@trust@|@fe, konfia@
+@truth@|@berdá, berdat@
+@T-shirt@|@tíshert@
+@tube@|@pipa, vèntil@
+@Tuesday@|@dia mars, djamars@
+@tug@|@hala, trèk@
+@tummy@|@bariga, barika@
+@tuna@|@tunafesh@
+@tuna fish@|@tunafesh@
+@Tunisia@|@Tunesia@
+@tunnel@|@tùnel@
+@tunny@|@tunafesh@
+@turkey@|@kalakuna@
+@Turkey@|@Turkia@
+@Turkish@|@turko@
+@Turksih@|@turko@
+@turn@|@drai, fila, kareda, turno@
+@turn around@|@drai@
+@turn round@|@drai@
+@twelve@|@diesdos, djesdos@
+@twenty@|@binti@
+@twig@|@rama@
+@twine@|@flèktu, vlèkt, vlèktu@
+@two@|@dos@
+@two hundred@|@doshen@
+@type@|@taip, tipo@
+@typewriter@|@taipraiter@
+@typhus@|@tífes@
+@typical@|@típiko@
+@typist@|@tipista@
+@udder@|@tete@
+@ugly@|@feu, mahos, mahoso@
+@ultimatum@|@ultimatum@
+@umbrella@|@paraplü@
+@unbearable@|@intolerabel@
+@uncle@|@omo, tío@
+@unclean@|@fis, sushi@
+@uncover@|@deskubrí@
+@under@|@abou di, bou di, den(1)@
+@underneath@|@abou di, bou di, den(1)@
+@underpants@|@djòki, karson di abou, karsonsio@
+@understand@|@kèch@
+@understandable@|@komprendibel@
+@unemployment@|@desempleo@
+@unexpectedly@|@inesperadamente@
+@unfaithful@|@infiel@
+@unfortunately@|@desafortunadamente, felismente, lástimamente@
+@unfortunately(1)@|@felismente, lamentabelmente, ungrateful@
+@unfortunately(2)@|@desagradecido, ingrato@
+@ungrateful@|@ingrato@
+@unhappy@|@infelis@
+@uniform@|@unifòrm@
+@unintelligible@|@inkomprendibel@
+@union@|@union@
+@unique@|@úniko@
+@United States@|@Merka@
+@unity@|@unidat@
+@universal@|@univèrsal@
+@universe@|@universo@
+@university@|@univèrsidat@
+@unknown@|@deskonosí@
+@unmarried woman@|@soltera@
+@unthankful@|@desagradesido, ingrato@
+@until@|@te@
+@upon@|@anti, ariba, kontra, riba@
+@upsilon@|@igrèk@
+@upstairs@|@ariba@
+@up-to-date@|@aktual@
+@urinate@|@pishi@
+@urine@|@orina@
+@Uruguay@|@Uruguai@
+@us@|@anos, nos@
+@use@|@aplikashon, usa, uso, uza, uzo@
+@used to@|@gewon, hewon, komun, usual@
+@useful@|@útil@
+@useless@|@inútil@
+@usual@|@general, gewon, hewon, komun, usual@
+@usually@|@normalmente@
+@usualy@|@normalmente@
+@vacation@|@fakansi, vakashon@
+@vaccum cleaner@|@stòfzùiger@
+@vagina@|@burako di tonto, buraku di tonto, vágina@
+@valiant@|@brio, wapu@
+@valise@|@falis@
+@valuable@|@karo, karu@
+@value@|@baló, balor, kariño@
+@valve@|@vèntil@
+@vampire@|@vampir@
+@vanilla@|@vania@
+@varnish@|@fernis, vernis@
+@vase@|@vas@
+@vaseline@|@vaselin@
+@Vatican@|@Vatikano@
+@vegetable@|@berdura@
+@vehicle@|@vehíkulo@
+@veil@|@wal@
+@vein@|@ader, bena@
+@vend@|@bende@
+@Venezuela@|@Benezuela@
+@Venezuelan@|@benesolanu, venezolana@
+@vengeance@|@revancha@
+@ventilator@|@fèn, vèn@
+@venture@|@riska@
+@Venus@|@Venus@
+@veranda@|@veranda@
+@verb@|@verbo@
+@verdict@|@sentensha, sentensia@
+@vermmouth@|@vermut@
+@vermouth@|@vermut@
+@vertical@|@vertikal@
+@very@|@altamente, hopi, marsha, mashá@
+@very big@|@grandísimo@
+@very good@|@hopi bon, tremendo, tremiento@
+@very hot@|@hopi calor@
+@very much@|@altamente, hopi, marsha, mashá@
+@very old lady@|@mai@
+@very rich@|@riquísimo@
+@very warm@|@hopi caliente@
+@very well@|@ekselentemente@
+@vessel@|@bapor, pòchi, vas@
+@veteran@|@veterano@
+@vibrate@|@vibra@
+@victim@|@víktima@
+@victory@|@viktoria@
+@Vienna@|@Viena@
+@Vietnam@|@Viètnam@
+@view@|@aspekto, bista, panorama, wak, weita, weta@
+@vigour@|@aktividat, forsa, fortalesa@
+@vile@|@baho@
+@villa@|@kinta, vila@
+@village@|@pueblo@
+@vinegar@|@binager@
+@violet@|@lila@
+@violin@|@fió@
+@viper@|@vibora@
+@virgin@|@bírgen, señorita, vírgen@
+@virility@|@hòmbresa@
+@virus@|@virus@
+@visa@|@visa@
+@visé@|@visa@
+@visible@|@visibel@
+@visit@|@bishita@
+@vitamin@|@vitamina@
+@vocabulary@|@dikshonario@
+@voice@|@bos, boto, vos, voto@
+@void@|@bashí@
+@volcano@|@volkan@
+@Volt@|@volt@
+@volume@|@volüm@
+@voluntary@|@boluntariamente@
+@vomit@|@arohá, saka@
+@vote@|@bos, bota, vota@
+@vowel@|@bokal, vokal@
+@voyage@|@bia, biaha@
+@wage@|@ganamentu, salario, sueldo@
+@wager@|@bèt, pusta@
+@wages@|@ganamentu, salario, sueldo@
+@waist@|@taya@
+@waistline@|@taya@
+@wait@|@spera, warda@
+@wait for@|@warda@
+@waiter@|@weiter, weter@
+@wake@|@spierta@
+@wake up@|@spierta@
+@walk@|@camna, cana@
+@wall@|@muraya@
+@wallet@|@pòtmòni@
+@walrus@|@walrús@
+@want@|@antoho, deseo, kiè, kier@
+@war@|@guera@
+@warlock@|@tovernar (1)@
+@warm@|@kayente, kordial@
+@warmth@|@kayente@
+@warrior@|@guerero@
+@wart@|@frèt@
+@wasp@|@maribomba@
+@waste@|@drispidí@
+@watapana tree@|@dididivi@
+@watch@|@oloshi, wak, weita, weta@
+@water@|@awa@
+@water-melon@|@patia@
+@watt@|@watt@
+@wave@|@ola@
+@wax@|@was@
+@way@|@bisio, kostumber, manera, modo@
+@way (1)@|@kaminda, karetera, moda@
+@way out@|@salida@
+@we@|@anos, nos@
+@weak@|@debil, suak@
+@wealth@|@rikesa@
+@wealthy@|@riko, riku@
+@weather@|@tempu@
+@Wednesday@|@dia rason, djarason@
+@week-end@|@wikènt@
+@weep@|@yora@
+@weight@|@peso@
+@weiter@|@weter@
+@welcome@|@Bon bini@
+@Welcome!@|@bonbini!@
+@well@|@bon, salú, saludabel@
+@well-known@|@konosí@
+@well-mannered@|@galante, gentil@
+@well-off@|@riko, riku@
+@wench@|@check, mucha mohé@
+@west@|@oksidente@
+@western@|@oksidental@
+@wet@|@muha, muhá@
+@whale@|@bayena@
+@wharf@|@waf@
+@what@|@kí, kíko@
+@what a@|@kon@
+@what for@|@di cón, pakíko@
+@what kind of@|@kí@
+@what sort of@|@kí@
+@What?@|@kiko@
+@What's your name?@|@con yama bo?@
+@wheel@|@rim, wil@
+@wheeziness@|@asma@
+@wheezy@|@asmátiko@
+@when@|@ki aña, ki día, ki ora, ki tempu@
+@where@|@na únda, unda@
+@Where do you come from?@|@di unda bo ta bini?@
+@where is my room?@|@Unda mi kamber ta?@
+@Where is the bar?@|@Unda e bar ta?@
+@Where is the beach?@|@Unda e playa ta?@
+@where to@|@na únda, unda@
+@whereas@|@durante, miéntras@
+@which@|@cuá, ken, kende, ki, kua@
+@Which?@|@Cua?@
+@while@|@tempo, tempu@
+@whilst@|@durante, miéntras@
+@whim@|@zuip@
+@whip@|@zuip@
+@whiskey@|@wiski@
+@whisper@|@kuchikuchi@
+@white@|@blancu, blanko, blanku@
+@white person@|@makamba@
+@whither@|@na únda, unda@
+@Whitsunday@|@Pentekòste@
+@who@|@cuá, kén, kénde@
+@whole@|@enté, enter, hende, henté, hèntèr, tur@
+@whore@|@mohé di bida, mohen dibida, puta@
+@why@|@di cón, pakiko, pakíko@
+@why?@|@dikon@
+@Why?@|@di cón, pakiko@
+@widow@|@biuda@
+@widower@|@biudo@
+@width@|@anchura, hanchura@
+@wife@|@esposa, kasá, señora@
+@wig@|@peluka@
+@wild@|@brabu@
+@will@|@boluntat, téstamènt@
+@willingly@|@gustosamente@
+@willingness@|@boluntat@
+@win@|@gana@
+@win over@|@vense@
+@wind@|@biento, bientu@
+@wind up@|@hisa, isa@
+@window@|@bentana, lokèt@
+@window-frame@|@kosein, kosèn@
+@wine@|@biña@
+@wing@|@ala@
+@winter@|@invierno, tempu di friu@
+@wire@|@waya@
+@wireless@|@radio@
+@wish@|@antoho, boluntat, deseo, ke, kiè, kier@
+@with@|@cu, ku, pa medio di@
+@with me@|@cu mi@
+@with the exception of@|@eksepto@
+@with young@|@dek@
+@within@|@den, na (1)@
+@without@|@sin@
+@without a name@|@anónimo@
+@witness@|@testigo, testigu@
+@wizard@|@tovernar (1)@
+@wolf@|@lobo, wòlf@
+@woman@|@mohé, muhé, muher@
+@wonder@|@asombro@
+@wonted@|@gewon, hewon, komun, usual(1), uza@
+@wood@|@palo, palu@
+@woods@|@mondi@
+@wool@|@lana@
+@word@|@palabra@
+@work@|@labor, obra, trabou, traha@
+@work hard@|@puluwé@
+@work out@|@rek@
+@workbench@|@stal@
+@worker@|@obrero, trahadó@
+@working man@|@trahadó(1)@
+@workman@|@obrero, trahadó(1)@
+@world@|@mundo, mundu@
+@worldwide@|@univèrsal@
+@worm@|@bichi@
+@worry@|@sorù@
+@worshiper@|@adoradó@
+@worth@|@baló, balor, kariño@
+@wound@|@erida, herida, heridá, hùrt@
+@wrangle@|@pleita@
+@wreathe@|@flèktu, vlèkt, vlèktu@
+@wrench@|@yabi@
+@wrestle@|@lucha@
+@wretched@|@miserabel@
+@write down@|@nota@
+@Write me soon!@|@Corda skribi mi bek!@
+@writer@|@autor, eskritor@
+@writer (woman)@|@eskritora@
+@yak@|@yak@
+@yard@|@curá, yarda@
+@yatch@|@yate@
+@yawn@|@hao, hap@
+@ye@|@abo, aboso, bo@
+@year@|@aña@
+@yearly@|@anual@
+@yearn@|@anhelá@
+@yell@|@grita@
+@yellow@|@geel, gel, hel@
+@yes@|@si, sí@
+@yesterday@|@ayera@
+@yet@|@aínda, ya@
+@yoga@|@yoga@
+@yoke@|@yugo@
+@yon@|@aya@
+@yonder@|@aya@
+@you@|@abo, aboso, bo@
+@you gave me the book@|@bo a dunami e buki@
+@young@|@hoben, yiu, yòn@
+@young man@|@hobensito@
+@young woman@|@hobensita@
+@youngster@|@hoben, hobensito, hobensitu@
+@your@|@bo, boso@
+@you're welcome@|@di nada@
+@youth@|@hoben, hobensito, hobensitu, hubentut@
+@yule@|@Pasko, Pasku@
+@Zambia@|@Zambia@
+@zeal@|@fervor@
+@Zealand@|@Zelandia@
+@zebra@|@zebra@
+@zero@|@sero, zero@
+@zest@|@ánimo@
+@zinc@|@zim@
+@zipper@|@zip, ziper@
+@zodiac@|@zodiak@
+@zone@|@zona@
+@zoo@|@hardin zoológiko@
+@zoology@|@zoologia@
+

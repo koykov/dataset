@@ -1,0 +1,468 @@
+@English@|@Phoenician@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@'@|@'ayin@
+@A war@|@Wage@
+@abundance@|@cabax quot, paqta quot, quot@
+@accountant@|@mhecib quot@
+@achievement@|@Xišmat@
+@Adam@|@Edam@
+@adjacent@|@ašl@
+@aid@|@xazar, xezrat@
+@all@|@Kil@
+@alone@|@'hd@
+@altar@|@Mazbah@
+@ancestor@|@ab@
+@and@|@ww@
+@anoint@|@macah@
+@antimony@|@khl, khl@
+@architect@|@baxel heric@
+@arm@|@yad@
+@army@|@Mhannat, šaba, sb'@
+@arrowhead@|@hoš@
+@artisan@|@emmen@
+@Arwad Island@|@aynook@
+@ask@|@arac@
+@associate@|@habr@
+@avenge@|@naqam@
+@b@|@beet@
+@back@|@šohr@
+@barber@|@jilleb@
+@battle@|@Malhamit@
+@be@|@bšy, ken@
+@be lost@|@y'bd@
+@be small@|@s'r@
+@bear (children)@|@yolod@
+@beard@|@zaqn, zkn@
+@Beirut@|@Bi'rut@
+@belly@|@bat'n, kirc@
+@bless@|@berak@
+@blessing@|@barkit@
+@blood@|@damm, dume@
+@bone@|@sm@
+@border@|@gbl@
+@bowl@|@ibsit, Ijjen, jolon@
+@box@|@arn, urnit@
+@brother@|@ah, ah', hay@
+@build@|@bini@
+@Build@|@našab@
+@builder@|@binne@
+@building@|@bena, mabnat, maqarr@
+@bury@|@qabar@
+@butcher@|@t'abah'@
+@Byblos@|@Jbeil@
+@calf@|@xijil@
+@calf'@|@gl@
+@calling birds@|@syprm 'rrm@
+@carpenter@|@nujjar@
+@cart@|@xajlit@
+@cast@|@nasak@
+@caster@|@nissek@
+@cattle@|@baqar, bkr@
+@child@|@yalad@
+@citizen@|@ec@
+@clan@|@dar@
+@cloth@|@kisy@
+@coal@|@phm@
+@coffin@|@h'allit, urn, urnit@
+@colleague@|@h'abr@
+@collect@|@asop@
+@color of lapis lazuli@|@'kn'@
+@column@|@xamud@
+@come@|@b'e, hlk@
+@coming@|@yerid@
+@confiscate@|@jazal@
+@consecrate@|@qaddac@
+@consume@|@akal@
+@corn@|@dgn@
+@cost@|@taman@
+@countrymen@|@bin xam@
+@cover@|@kisi@
+@craftsman@|@emmen, heric@
+@cumin@|@kammum@
+@cup@|@nebel@
+@cure@|@isi@
+@custodian@|@xurrab@
+@custody@|@h'rz, mexrab@
+@d@|@daalet@
+@daughter@|@bitt@
+@day@|@yawm@
+@death@|@mot@
+@defeat@|@Nasah'@
+@deliver@|@callam@
+@depart@|@berah'@
+@descend@|@yarad@
+@destroy@|@abed@
+@devastate@|@abed@
+@died@|@met@
+@dirt@|@xapar@
+@disturb@|@xakkar@
+@disturbance@|@xakrate@
+@dog@|@kalb@
+@dogs and whelps@|@klbm wgrm@
+@door@|@dalet, dlt@
+@drag@|@shb@
+@drayman@|@Sih'h'eb@
+@each@|@Kil@
+@ear of corn@|@abiib@
+@earth@|@'rs', arš, erš, urš@
+@eat@|@'kl, akal@
+@enclose@|@h'ajr, h'ašr@
+@enemy@|@ib@
+@engineer@|@pilles@
+@enlarge@|@rah'h'ab@
+@enter@|@b'@
+@era@|@dor@
+@erase@|@mih'iq, mih'y@
+@erect@|@bini@
+@every@|@Kil@
+@excavate@|@naqab@
+@excellent@|@naxxum@
+@expel@|@jarac@
+@face@|@pn@
+@family@|@ahel, dr, ozrat@
+@farm@|@mazrax@
+@fat@|@hlb, tbrt@
+@father@|@ab@
+@fathership@|@abat@
+@fear@|@jar@
+@fee@|@ujrat@
+@feel@|@h'iss@
+@fellow wife@|@srt@
+@female@|@acta@
+@field@|@cadd, šd@
+@fill@|@mala@
+@finished@|@tm@
+@fire@|@'s, ec@
+@firstborn@|@beker@
+@fish@|@noon, nun@
+@flesh@|@š'r, Sha'ur@
+@foot@|@pim@
+@for@|@la@
+@for a lamb@|@b'mr 'm bgd@
+@for burning@|@m-'šn 'urn@
+@form@|@kirc@
+@fortress@|@h'amet, hemyet@
+@fourty@|@arbxiim@
+@fraternity@|@ahiim@
+@friendship@|@daxt@
+@from@|@bid, min@
+@fruit@|@pr@
+@fulfill@|@pajax@
+@g@|@giimel@
+@game wild@|@sayd@
+@gate-keeper@|@cexer@
+@gather@|@asop@
+@gentleman@|@adon, malik@
+@gift@|@nixmat@
+@Gift@|@barky@
+@give@|@yaton@
+@go@|@ruh@
+@goat@|@gd', jady, xazzi@
+@goblet@|@qabux@
+@god@|@Iil@
+@goddess@|@Iylit@
+@good@|@mniih@
+@grace@|@hin@
+@gracious@|@hanun@
+@grandson@|@bin bin@
+@grave@|@qabr@
+@great@|@adiir@
+@great father@|@ab adiir@
+@greedy@|@jajax@
+@group@|@surby@
+@guard@|@nsr@
+@h@|@hë@
+@h'@|@hët@
+@half@|@Mhos@
+@hand@|@yad, yd@
+@happiness@|@acar@
+@hawk@|@sus@
+@head@|@r'š, ra'c@
+@heal@|@rapa'@
+@healthy@|@šlm@
+@hear@|@cmax@
+@heart@|@lb, lib, lib@
+@heavens@|@camiim@
+@help@|@xazar@
+@herd@|@edr@
+@here@|@han@
+@hero@|@gbr@
+@hole@|@b'r@
+@holy@|@quddoc@
+@hook@|@waw@
+@horn@|@krn@
+@horse@|@sys@
+@house@|@bet, byt@
+@human@|@Edam@
+@hundred@|@mi'at@
+@hurry@|@mhur@
+@husband@|@bal@
+@I@|@'nk, ana@
+@if@|@ima@
+@in@|@b@
+@infantary@|@darak@
+@inherit@|@nahal@
+@inscribe@|@racam@
+@inside@|@bjuwwa, juwwa@
+@intact@|@celim@
+@interpreter@|@mullas@
+@island@|@ay@
+@joiner@|@milhim@
+@joint@|@yslt@
+@journey@|@dariik@
+@k@|@kaf@
+@kind of vessel@|@sp@
+@king@|@adon@
+@kitchen@|@matbah@
+@know@|@yd', yidxe@
+@l@|@laamed@
+@lady@|@dt, iddet@
+@lamb@|@'mr@
+@lamplighter@|@Miqdeh@
+@land@|@dmt@
+@language@|@lasoun@
+@large@|@kbiir@
+@Lebanon@|@Libnen@
+@left@|@berah@
+@letter@|@ktebit@
+@light@|@qadah, ur@
+@like@|@kama@
+@linen@|@pasht@
+@lion whelp@|@gr@
+@list of duties@|@mšrt@
+@live@|@hiwi, hiyi@
+@long@|@'rk@
+@lord@|@'d@
+@love@|@hob@
+@lover@|@mhib@
+@m@|@meem@
+@maid@|@'mt@
+@male@|@ec, jeber@
+@Malta@|@Aynun@
+@man@|@'dm, Edam@
+@many@|@rb, šgy, šgy-t@
+@mash@|@balal@
+@master craftsman@|@Baxlheric@
+@meat@|@caxur@
+@merchant@|@seher@
+@might@|@jabrut, xizz@
+@milk@|@haliib@
+@mind@|@lib@
+@month@|@yerih@
+@moon@|@yerih@
+@mosquito@|@parxac@
+@mother@|@imm@
+@mouse@|@xakbur@
+@mouth@|@p-y@
+@move@|@rajal@
+@my brother is exalted@|@Hiram@
+@myrrh@|@murr@
+@n@|@nun@
+@nail@|@summar@
+@name@|@šm@
+@nation@|@xamm@
+@netherworld@|@xapriit@
+@new@|@hadiic, hdš@
+@night@|@leil, ll@
+@no@|@la@
+@not@|@'l, 'y@
+@offering@|@minhit@
+@offspring@|@zarex@
+@oil@|@camn, šmn@
+@old@|@qadiim@
+@olive@|@zet@
+@on@|@xi@
+@one@|@'hd@
+@onion@|@basal@
+@open@|@patah@
+@opening@|@patha@
+@orphan@|@yatiim@
+@own@|@bint@
+@owner of large cattle@|@bil bk'r@
+@owner of small cattle@|@bil idr@
+@ox@|@alep@
+@p@|@pee@
+@pair@|@ta'im@
+@passage@|@maxbar@
+@pasture@|@r'@
+@pave@|@rabad@
+@peace@|@calem@
+@people@|@edamim, gooy@
+@person@|@napac@
+@physician@|@rippe@
+@pitcher@|@zabr@
+@place@|@maqam@
+@plant@|@Matxum@
+@plaster@|@tih@
+@plasterer@|@Mutah@
+@plastering@|@matuh@
+@ploughing@|@hrace@
+@poor@|@maskiin@
+@possess@|@malak@
+@powder@|@diq@
+@power@|@jabrut@
+@powerful@|@'dr@
+@priest@|@khn, kmr@
+@Priest@|@Kehin@
+@Priestess@|@Kehinit@
+@Province@|@Orsit@
+@pull@|@shb@
+@Pure@|@taher@
+@q@|@qoof@
+@r@|@reeš@
+@Raid@|@Ijdi@
+@Ram@|@Ayyil, Yibil@
+@Razor@|@Mijleb@
+@Reign@|@malak@
+@Relative@|@Xammi@
+@Remember@|@Yoskor, Yzkur@
+@Renovate@|@haddac@
+@request@|@Ca'al@
+@Request@|@arac@
+@Rescue@|@hallas@
+@Resemblance@|@Micl@
+@Rest@|@Cakab@
+@Restore@|@haddac@
+@ribs@|@ksrt@
+@Righteous@|@siddiq@
+@Rise@|@Qam@
+@road@|@drk@
+@Road@|@dariik@
+@Rob@|@Janab@
+@Roof@|@Jej@
+@root@|@šrš@
+@Root@|@Ciric@
+@Rule@|@malak@
+@run away@|@brh@
+@s@|@saadee, saamek, sin@
+@š@|@šin@
+@Sacrifice@|@Izram, Zabah, Zabeh@
+@Sailor@|@hebil@
+@Sale@|@Bayxat@
+@Salesman@|@Mekir@
+@Sanctuary@|@Ocrit@
+@Sawyer@|@Jurrar@
+@say@|@Dabar, mr@
+@Say@|@Amr, Dabar@
+@Scent@|@Roh@
+@Scrape@|@Jarad@
+@Scraper@|@Majrud@
+@Sea@|@Yam@
+@Seal@|@hatm, tabxat@
+@Sealer@|@hetim@
+@see@|@'mr, hzy, hzy, r'y@
+@seed@|@zrx@
+@Seed@|@zarex@
+@Seedling@|@Catle@
+@Seek@|@Baqqac@
+@self@|@npš@
+@Sell@|@Makar@
+@Senate@|@Adyriim, Ra'ciim@
+@Servant@|@Amat, Xabd@
+@Servant of Adon@|@Xabdo@
+@Shake@|@Racac@
+@Shear@|@Jalam@
+@Sheep@|@sa'n@
+@Shield@|@Mjann@
+@Silver@|@Kesep@
+@Sister@|@Iht@
+@sit@|@yšb@
+@Skillful@|@Mehir@
+@slaughter@|@zbh@
+@Slaughter@|@tabah@
+@slaughterer@|@tbh@
+@Slave (Female)@|@Amat@
+@sleep@|@škb@
+@Smell@|@Roh@
+@son@|@bir@
+@Son@|@Bin@
+@Sonship@|@Baniim@
+@Sound@|@Qawl@
+@sowing@|@zri@
+@speak@|@dbr@
+@Spirit@|@napac@
+@Spring@|@Xayn@
+@Stamp@|@tabax@
+@star@|@kbkb@
+@Stay@|@Bqy@
+@Steal@|@Janab@
+@Stele@|@Nasob@
+@stone@|@'bn@
+@Stone@|@Ibben, sur@
+@Strangler of the lamb@|@hnkt 'mr@
+@Strength@|@Xizmat@
+@Strong@|@xizz@
+@subordinate@|@mhyr@
+@Sun@|@Camc@
+@sunset@|@rb@
+@t@|@taaw@
+@t'@|@teet@
+@Tax Collector@|@Nijic@
+@Tell@|@Dabar@
+@Temple@|@Maqdac, Ocrit@
+@the one who builds@|@fillec@
+@Then@|@Iz@
+@These@|@Awl@
+@Thin@|@Qoton@
+@thou@|@'t@
+@Thousand@|@Elep@
+@throw@|@dhy@
+@Tiger@|@Nimr@
+@till@|@hrš@
+@Time@|@dor@
+@Time of@|@yawm@
+@to gather@|@iry@
+@to grow ripe@|@abiib@
+@Tomb@|@Birr@
+@Tongue@|@Lcen@
+@Tower@|@Mijdil@
+@Trader@|@Mekir@
+@Trans@|@Xabr@
+@Translator@|@mullas@
+@Triumph@|@Nahar, Nsoor@
+@Trust@|@Btah@
+@Tunic@|@Kitten@
+@two@|@šnm@
+@type of sacrifice@|@bšr@
+@Under@|@Taht@
+@understand@|@bn@
+@Valley@|@Xammiq@
+@Vessel@|@Mi'en@
+@Village@|@hawta, Kapr@
+@Vineyard@|@Karm@
+@voice@|@kol@
+@Vow@|@Nadar, Nidir@
+@Voyage@|@dariik@
+@w@|@waaw@
+@Wage@|@Ijdi@
+@Wagon@|@xajlit@
+@Wall@|@Jdar@
+@War@|@Malhamit@
+@Warrior@|@Jabbur@
+@Water@|@Miim@
+@we@|@'nhn@
+@We@|@Nihna@
+@Wealth@|@Anim@
+@what?@|@m@
+@Wheel@|@Jiljol@
+@Where@|@ay@
+@white@|@lbn@
+@White@|@Laban@
+@Who@|@Ici@
+@who?@|@mii@
+@Wife@|@Ecta@
+@Wine (Red)@|@hamr@
+@Wisdom@|@hikmat@
+@Without@|@Dool@
+@woman@|@'št@
+@Woman@|@Ecta@
+@Word@|@Umer@
+@work@|@p'l@
+@Write@|@hatt, Katab@
+@Writing@|@ktebit@
+@y@|@yood@
+@yard@|@hsr@
+@You@|@Itta@
+@z@|@zayin@
+

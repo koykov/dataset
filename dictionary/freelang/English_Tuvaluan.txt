@@ -1,0 +1,465 @@
+@English@|@Tuvaluan@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@125@|@se lau lua ngafulu ma lima@
+@a direction@|@take@
+@a good canoe@|@se vaka lelei@
+@a stick@|@Te lakau@
+@A very big man indeed@|@Te tangata tomua i te lasi@
+@a village@|@fakakai@
+@about what?@|@Ki te a?@
+@above@|@lunga, maua, maualunga, naua lunga@
+@all@|@katoa@
+@an@|@a, se@
+@and@|@maa, mo@
+@at@|@a, ana, i@
+@at what time?@|@a fea?@
+@at what time? (past)@|@ana fea?@
+@belly@|@alo, kona, koopuu, manava@
+@below@|@lalo@
+@big@|@lahi@
+@bird@|@manu lele@
+@blood@|@toto@
+@boar@|@puaka tangata@
+@bone@|@ivi@
+@branch@|@aakau, laalaa@
+@breast@|@uu@
+@bring me a drinking nut for me@|@Aumai se pi maku@
+@bring me a green coconut@|@Aumai se pi moku inu ake@
+@Bring me a piece of pearl shel@|@Aumai se potu tifa@
+@child@|@tamaliki@
+@cold@|@moko, mokotia@
+@correct@|@tonu@
+@daughter@|@tamafine@
+@day@|@aho, ao@
+@dirty@|@palapala@
+@dog@|@kulii@
+@don't give...@|@Sa tuku@
+@Don't touch me there!@|@Se puke aku!@
+@dry@|@maloo@
+@dust@|@efu, pa@
+@E a ai lakau konei?@|@Whose is the stick?@
+@E oti mafea?@|@when will it be finished?@
+@E vau a fea tou taina?@|@when is your sister coming?@
+@each separately@|@Takitasi@
+@ear@|@taliga@
+@earth@|@kele@
+@egg@|@fua@
+@eight@|@valu, valu@
+@eleven@|@angafulu ma tasi, sefulu tasi@
+@every single child@|@Tamaliki takitokotasi@
+@eye@|@mata@
+@far@|@mama`o@
+@fat@|@hinu@
+@father@|@tama, tana@
+@feather@|@fulu@
+@female@|@-fine, fafine@
+@fire@|@afi@
+@fisk@|@ika@
+@five@|@lima@
+@for@|@ma, mo@
+@for Penaia@|@Mo Penaia@
+@for the comparative degree@|@aka, ake, atu@
+@for the superlative degree@|@ki, sili, tomua@
+@for what is that house?@|@Mo a te fale na?@
+@for what?@|@I te a?, Mo a?, mo te a?@
+@four@|@fa, faa@
+@fourty@|@fa ngafulu@
+@from@|@mai@
+@from upon@|@mai lunga i@
+@fruit@|@fua@
+@full@|@nui@
+@give@|@Tuku@
+@give it to him@|@Tuku ki a ia@
+@Give it to Penaia@|@Tuku ki a Penaia@
+@grass@|@mauku@
+@green@|@moto@
+@growth@|@tupunga@
+@hair@|@fulu, lauulu@
+@hand@|@lima@
+@have you a paddle there?@|@E isi sau foe na?@
+@have you come?@|@Ko vau koe?@
+@he@|@ia@
+@he gave@|@Ne tuku ne ia@
+@he gives@|@A ia ko tuku, E tuku ne ia@
+@He is extremely stupid@|@A ia e supa ki@
+@He is the strongest man of all@|@Sei se tangata mafl pela@
+@he will give@|@Ka tuku ne ia@
+@he/she@|@ia@
+@head@|@ulu@
+@heavy@|@mamafa@
+@his@|@ana, hna, ona, tena, tona@
+@his hat@|@Tona pulou@
+@his hats@|@Ona pulou@
+@his land@|@Tona manafa@
+@his leg@|@Tona vae@
+@his legs@|@ona vae@
+@his name is Penaia@|@Ko Penaia tona ingoa@
+@hose are those houses?@|@E o ai fale kola?@
+@house@|@hale@
+@how did he do it?@|@Ne fai pefea ne ia?@
+@How many people?@|@Tokofla tino?@
+@How many?@|@E fia?@
+@husband@|@aavaga@
+@I@|@-ku, au, kau@
+@I am extraordinarily happy@|@Sei soku fiafia pela@
+@I did not give@|@Seki (or siki) tuku ne au@
+@I do not give@|@Se tuku ne au@
+@I gave@|@Ne tuku ne au@
+@I give@|@E tuku ne au@
+@I shall give@|@Ka tuku ne au@
+@I shall not give@|@A au ka se tuku@
+@I should not give@|@Mana se tuku ne au@
+@if@|@ehe, me, me ehe, mea, meehe@
+@if he should give@|@Ma tuku ne ia@
+@if I had given@|@Moi tuku ne maua@
+@if I had not given@|@Moi se tuku ne@
+@if I have given@|@Moi tuku ne au@
+@if I should give@|@Ma tuku ne au@
+@if I should not give@|@Ma se tuku ne au@
+@If it rains we shall get wet@|@Kafai e to te ua ka siu tatou@
+@if they should give@|@Ma tuku ne latou@
+@if we should give@|@Ma tuku ne matou, Ma tuku ne maua, Ma tuku ne taua@
+@if we should give (1)@|@Ma tuku ne tatou@
+@if you should give@|@Ma tuku ne koe, Ma tuku ne koulua@
+@if you should give (1)@|@Ma tuku ne koutou@
+@in your childhood@|@I tau tamalikinga@
+@inland@|@ngauta, uta@
+@intestines@|@vava@
+@is there any water in that cup@|@E iai ne vai i te ipu na?@
+@lake@|@namo@
+@large@|@fuaefa@
+@left@|@maui@
+@leg or foot@|@vae@
+@lightining@|@lapa@
+@liver@|@ate@
+@long@|@loa@
+@louse@|@kutu@
+@male@|@tangata@
+@man@|@taane, Tangata@
+@meat@|@kanofi@
+@men@|@tangata@
+@mine@|@aku, taku@
+@moon@|@masina@
+@mosquito@|@namu@
+@mother@|@maatua@
+@my@|@aku, oku, taku, toku@
+@my ancestors@|@Oku tupuna@
+@my canoe sheds@|@Oku fale vaka@
+@my child@|@Taku tama@
+@my father@|@Toku tamana@
+@my hat@|@Toku pulou@
+@my leg@|@Toku vae@
+@my sandals@|@Oku taka@
+@name@|@igoa@
+@narrow@|@lau, lau liki, lauliki, liki@
+@near@|@pili@
+@neck@|@kaakii, uà@
+@needle@|@pakau, paki@
+@new@|@foou@
+@night@|@poo, poouli@
+@nine@|@iva@
+@Ninety@|@Tino iva@
+@no@|@hee@
+@nose@|@ihu@
+@of@|@a, o@
+@old@|@matua@
+@one@|@tahi, tasi@
+@one canoe@|@E tasi te vaka@
+@one hundred@|@rau, se lau@
+@one person@|@tokotasi@
+@one thousand@|@afe, mano@
+@our@|@a matou, a maua, a tatou, a taua, ta, te ma, te motou, tou@
+@our actions@|@Ta faifainga@
+@our ancestors@|@Tou tupuna@
+@our canoe@|@Te ta vaka@
+@our canoes@|@Ta vaka@
+@our children@|@Ma tama@
+@our homecountry@|@Te tou fenua@
+@our homeland@|@Te fenua o tatou@
+@our stone@|@Te ta fatu@
+@our trick@|@Te ma tonganti@
+@painful@|@mahaki, mamae, usu@
+@Penaia gives@|@Ko tuku ne Penaia@
+@people@|@tino@
+@person@|@tagata@
+@place it inside the house@|@Tuku ki loto i te fale@
+@put it there@|@Tuku i kona@
+@quick@|@vave@
+@rain@|@ua@
+@rat@|@kimoa@
+@red@|@kula, mea, meamea, mmelo@
+@right@|@matau@
+@road@|@tuu@
+@root@|@aka@
+@rope@|@maea@
+@rotten@|@popo@
+@salt@|@miti@
+@sand@|@fuu@
+@sea@|@moana, vaha@
+@seven@|@fitu, fitu@
+@sharp@|@kai@
+@She is the most beautiful girl@|@Sei se tamaflne ngali pela@
+@short@|@pukupuku@
+@shy@|@maa, mamaa@
+@six@|@ono@
+@sky@|@lagi@
+@small@|@liki, pukupuku@
+@smoke@|@au@
+@some@|@ne, ni@
+@son@|@tamatangata@
+@sow@|@puaka fafine@
+@space between two things@|@va@
+@spider@|@leveleve, pogaa, pogaaleveleve@
+@star@|@fetuu@
+@sticks@|@lakau@
+@stone@|@fatu@
+@strong@|@mafi@
+@tail@|@velo@
+@teeth marks@|@tunga nifo@
+@ten@|@angafulu, gafulu, sefulu@
+@that away from us@|@tela@
+@that house yonder is theirs@|@Te lotou fale tela@
+@that I may not give@|@Ke se tuku ne au@
+@that is Luao's father@|@Tena te tamana o Luao@
+@that is my house@|@Ko toku fale tena@
+@that near you@|@na, tena@
+@thatch@|@ato@
+@the@|@a, te@
+@the bottom@|@lalo@
+@the brother of my father@|@Te taina o toku tamana@
+@the canoe house@|@te fale vaka@
+@the first born@|@Te toekimua@
+@the first item@|@Te mea mua@
+@the fish@|@te ika@
+@the front@|@mua@
+@the inside@|@loto@
+@the large house@|@te fale lasi@
+@the outer side@|@tua@
+@the outside@|@fafo, fofo@
+@the present@|@nei@
+@the quickness@|@te vave@
+@the rear@|@muli@
+@the sea shore@|@tai@
+@the second@|@Te lua@
+@the sound@|@te ngangana@
+@the strength@|@te mali@
+@the third@|@Te tolu@
+@the third person@|@Te tokotolu o tangata@
+@the top@|@lunga@
+@The wife (husband) of whom?@|@Te avanga o ai?@
+@their@|@a latou, a laua, te la, te lotou@
+@their children@|@La tama@
+@their house@|@Te lotou fale@
+@their houses@|@Olotou fale@
+@their land@|@Te la manafaa@
+@their lands@|@La manafa@
+@their stick@|@Te la lakau@
+@There are not any long sticks@|@Se ai ne lakau loa i konei@
+@these are my children@|@Konei aku tama@
+@These hats-whose are they?@|@A pulou konei-e o ai?@
+@these houses@|@te fale nei@
+@These lands-whose are they?@|@A manafa konei-e o ai?@
+@these near me@|@nei@
+@they@|@latou, laua@
+@They are mine@|@E a aku@
+@they gave@|@Ne tuku ne latou@
+@they give@|@E tuku ne latou@
+@they shall give@|@Ka tuku ne latou@
+@thick@|@maatolu@
+@thin@|@manifi, pakapaka@
+@thirteen@|@angafulu ma tolu, sefulu tolu@
+@thirty@|@tolu ngafulu@
+@this house@|@te fale nei@
+@this is a good house@|@Se fale lelei tenei@
+@this is he@|@Ko ia tenei@
+@this near me@|@tenei@
+@This stick is longer@|@E loa aka (ake) te lakau nei@
+@those away from us@|@kola@
+@Those canoes-whose are they?@|@A vaka kola-e o ai?@
+@Those gardens-whose are they?@|@A umanga kola-e o ai?@
+@those near you@|@kona@
+@thou@|@ke, koe@
+@three@|@tolu, tolu@
+@Three@|@E tokotolu@
+@three canoes@|@Vaka e tolu@
+@three each@|@Takitolu@
+@thunder@|@fatitili@
+@thy@|@au, tau@
+@thy canoes@|@Ou vaka@
+@thy wife@|@Tou avanga@
+@to blow@|@agi, puhi@
+@to breathe@|@maanava@
+@to burn@|@tutu, tuugina@
+@to chew@|@lamu@
+@to choose@|@fili@
+@to cook@|@tunu@
+@to count@|@lau, tau@
+@to creep@|@o totolo@
+@to cut@|@he, hele, ihi, motu, talai@
+@to die@|@mate@
+@to dig@|@keli, kenu@
+@to dream@|@miti@
+@to drink@|@inu@
+@to eat@|@kai@
+@to fall@|@higa, too@
+@to fear@|@mataku@
+@to fly@|@eva, kopa@
+@to grow@|@homo, tupu@
+@to happen@|@O tupu@
+@to hide@|@mmuni@
+@to hit@|@paa, patu, taa, tuki@
+@to hold@|@puke, tago@
+@to hunt@|@tu, tuli@
+@to know@|@iloa, kkafi, matau@
+@to laugh@|@kata@
+@to lie@|@o pepelo@
+@to live@|@ola@
+@to open@|@ta, tala@
+@to place@|@O tuku@
+@to pound@|@tuki@
+@to scratch@|@alati@
+@to sew@|@tui@
+@to shoot@|@fana@
+@to sit@|@nofo@
+@to sleep@|@moe@
+@to snif@|@hohongi@
+@to spit@|@anu, puaki@
+@to split@|@faa, ma@
+@to stab@|@ho, hoka, huki@
+@to stand@|@tuu@
+@to steal@|@kaiaa, kamo@
+@to stick@|@aakau@
+@to suck@|@miti@
+@to sueeze@|@kukumi, tau@
+@to swell@|@fe, fete, fu, fula@
+@to swim@|@kakau@
+@to the top of@|@ki lunga ki@
+@to think@|@manatu@
+@to throw@|@pei, tupe@
+@to tie up@|@fa, fau, lii, noa@
+@to turn@|@ui@
+@to vomit@|@lua@
+@to walk@|@saale@
+@to what are you listening?@|@E fakalongo koe ki te a?@
+@to whom did you give it?@|@Ne tuku ne koe ki ai?@
+@to whom?@|@Ki ai?@
+@to wipe@|@o sosolo@
+@to work@|@haga, O ngalue@
+@to yawn@|@maavava@
+@tongue@|@alelo@
+@tooth@|@nifo@
+@twelve@|@angafulu ma lua, sefulu lua@
+@twenty@|@Iua ngafulu, lua sefulu@
+@two@|@lua@
+@two canoes@|@Vaka e lua@
+@two persons@|@tokolua@
+@upon@|@i lunga, i lunga i@
+@warm@|@fana, ma@
+@water@|@vai@
+@we@|@maa, maa, matou, maua, t, tatou, taua, tou@
+@we gave@|@Ne tuku ne matou, Ne tuku ne maua, Ne tuku ne taua@
+@we gave (1)@|@Ne tuku ne tatou@
+@we give@|@E tuku ne maua@
+@we give (dual inclusive)@|@E tuku ne taua@
+@we give (pl. exlusive)@|@E tuku ne matou@
+@we shall give@|@Ka tuku ne matou, Ka tuku ne maua, Ka tuku ne tatou, Ka tuku ne taua@
+@wet@|@hihiu, siiu, sisiu@
+@what are you running for?@|@E tele koe.i te a?@
+@what are you speaking about?@|@E faipati koe ki te a?@
+@what is that lime for?@|@E fai mo te a te lase na?@
+@What is the name of that?@|@Se a te ingoa o te mea na?@
+@What is your name?@|@Ko ai tou ingoa?@
+@what is your opinion?@|@Se a tou taofl?@
+@what place?@|@fea?@
+@what?@|@aa@
+@What?@|@Se a?, te a?@
+@when?@|@aafea@
+@Where is my canoe?@|@Te fea toku vaka?@
+@Where is my room?@|@Tefea taku "room"?@
+@Where is the bar?@|@Tefea te "bar"?@
+@Where is the beach?@|@Tefea te laukele?@
+@where?@|@fea@
+@which is the canoe he built?@|@fea te vaka ne ta ne ia?@
+@Which?@|@Te fea?@
+@white@|@tea@
+@Who are banded here above?@|@Koi kautia mai lunga nei?@
+@who is that person?@|@Ko ai te tama tena?@
+@who is there?@|@Ko ai na?@
+@who?@|@ai@
+@Whosc homeland is it?@|@E o ai te fenua?@
+@Whose actions?@|@Faifainga a ai?@
+@Whose adzes?@|@Toki a ai?@
+@Whose ancestors?@|@Tupuna o ai?, Tupuna o ai?@
+@Whose are those canoes?@|@E o ai vaka kola?@
+@Whose are those children?@|@E a ai tamaliki kola?@
+@Whose are those coconut shells@|@E a ai a fangongo kona?@
+@Whose are those houses?@|@E o ai fale kola?@
+@Whose canoe?@|@Te vaka o ai?@
+@Whose canoes?@|@Vaka o ai?@
+@Whose child?@|@Tama a ai?@
+@Whose children are those?@|@E a ai tamaliki kola?@
+@Whose children?@|@Tamaliki a ai?@
+@Whose departure?@|@Te olonga a ai?@
+@Whose father?@|@Te tamana o ai?@
+@Whose fish are these?@|@E a ai ika konei?@
+@Whose flight?@|@Te teleatunga a ai?@
+@Whose garden?@|@E o ai te umanga?@
+@Whose hat is this?@|@E o ai te pulou nei?@
+@Whose homeland?@|@Te fenua o ai?@
+@Whose is that canoe?@|@E o ai te vaka na?@
+@Whose is that food?@|@E a ai te meakai na?@
+@Whose is the adze?@|@E a ai te toki?@
+@Whose is the fish?@|@E a ai te ika?@
+@Whose is the house?@|@E o ai te fale?@
+@Whose is the land?@|@E o ai te manafa?@
+@Whose is the stick?@|@E a ai te lakau?@
+@Whose is the work?@|@E a ai te ngaluenga?@
+@whose is this hat?@|@E o ai te pulou nei?@
+@Whose is this thing?@|@E a ai te mea nei?@
+@Whose stick?@|@Te lakau a ai?@
+@Whose stone is that?@|@E a ai te fatu na?@
+@Whose things?@|@Mea a ai?@
+@Whose trick?@|@Te tongaflti a ai?@
+@Whose visits?@|@Omamainga a ai?@
+@whose?@|@a ai?, O ai?@
+@why did you run?@|@A koe ne tele aia?@
+@wide@|@efa, lafalafa, lau, lauefa@
+@wife@|@ama@
+@wind@|@matagi@
+@wing@|@kapakau@
+@with whom are you eating?@|@E kai koe i ai?@
+@with whom?@|@I ai?@
+@woman@|@Fafine@
+@women@|@faafine@
+@woods@|@ulu, vao@
+@work@|@ngaluenga@
+@worm@|@kelemutu@
+@year@|@naga, tau, tau naga, taunaga@
+@yellow@|@fefelo, felo, hega, hegahega@
+@yonder place@|@ko@
+@you@|@ke@
+@you (dual)@|@koulua@
+@you (more than two)@|@koutou@
+@you (pl)@|@koutou@
+@you gave@|@Ne tuku ne koe, Ne tuku ne koulua, Ne tuku ne koutou@
+@you give@|@E tuku ne koe@
+@you give (dual)@|@E tuku ne koulua@
+@you give (pl.)@|@E tuku ne koutou@
+@you have come@|@Ko vau koe@
+@you shall give@|@Ka tuku ne koulua, Ka tuku ne koutou@
+@you two@|@koulua@
+@you will give@|@Ka tuku ne koe@
+@your@|@au, ou, tau, tou@
+@your (pl)@|@a koutou, te otou@
+@your coconut shells@|@Lu fangongo@
+@your departure@|@Te lu olonga@
+@your food@|@Tau meakai@
+@your garden@|@Te otou umanga@
+@your gardens@|@Otou umanga@
+@your grandfather@|@Tou tupuna@
+@your house@|@Te lu fale@
+@your houses@|@Lu fale@
+@your small canoe@|@Tou paopao@
+@your weight@|@Tou mafa@
+

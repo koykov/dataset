@@ -1,0 +1,7135 @@
+@English@|@Ligurian@
+@Author name@|@GENOVES.com.ar@
+@Font@|@Arial\12\Arial\12@
+@a (f)@|@unna, 'na, ina@
+@a (m)@|@un, 'n, in@
+@a bit@|@un pö, un pitìn, pöco, 'n pö, pöc'asæ@
+@a bit more@|@un pö de ciù@
+@a bit of@|@un pö de@
+@a little piece@|@un tochetìn@
+@a lot@|@un mùggio@
+@a lot of@|@un mùggio de, un sàcco de@
+@a pair of@|@un pâ de@
+@a piece@|@un tòcco@
+@a quarter (fraction)@|@un quàrto@
+@abacus@|@abachìn@
+@abandon@|@abandón@
+@abbess@|@abadéssa@
+@abbey@|@abaçîa@
+@abbot@|@abòu@
+@abbreviation@|@abreviaçión@
+@abnormal@|@anormâle@
+@about@|@cìrca@
+@above@|@sciù@
+@abroad@|@a l'estranxêo@
+@Abruzzi (Italian region)@|@Abrùzzo@
+@absolute@|@asolûto@
+@absolutely@|@asolutaménte@
+@absorbed@|@asòrto@
+@absurd@|@asùrdo@
+@abundance@|@abondànsa@
+@abundant@|@abondànte@
+@abuse@|@abûzo@
+@abusive@|@abuxîvo@
+@academy@|@académia@
+@accent@|@açénto, acénto@
+@access@|@acèsso@
+@accident@|@açidénte@
+@accommodation@|@alögio@
+@accomodation@|@albèrgo@
+@accompaniment@|@aconpagnaménto@
+@accordeon@|@fizarmònica@
+@according to@|@segóndo@
+@account@|@cónto@
+@accumulate@|@amugiâ@
+@accurate@|@menuçiôzo@
+@accusative@|@acuzatîvo@
+@accustomed@|@asoefæto@
+@ace@|@àsso@
+@ache@|@dô, mâ (nm)@
+@acquaintance@|@conoscénsa@
+@across@|@a travèrso@
+@act@|@àtto@
+@acting (theatre)@|@réçita@
+@action@|@açión@
+@active@|@atîvo@
+@activity@|@ativitæ@
+@actor@|@atôre, atô@
+@actress@|@atrîxe (nf)@
+@acute@|@agùsso@
+@Adam@|@Adàmmo@
+@Adam's apple (throat)@|@pómmo d'Adàmmo@
+@addiction@|@dipendénsa@
+@addition@|@azónta@
+@address@|@adrésso (pop.)@
+@adhesive@|@adexîvo@
+@adjective@|@agetîvo@
+@adjoining@|@anésso@
+@admirable@|@amirévole@
+@admiral@|@amiràggio@
+@adolescence@|@adolescénsa@
+@Adolph@|@Dórfo@
+@adoption@|@adoçión@
+@Adriatic@|@adriàtico@
+@adult@|@adùlto@
+@advance@|@antìçipo@
+@advantage@|@vantàggio, pró (nm)@
+@advertisement@|@publiçitæ, publicitæ@
+@aerial@|@aèreo@
+@aeronautical@|@aeronòutico@
+@affair@|@facénda@
+@affectedness@|@riçercatéssa@
+@affection@|@afétto, afeçión@
+@affectionate@|@amôzo, afetôzo@
+@affirmation@|@afermaçión@
+@affirmative@|@afermatîvo@
+@afflicted@|@aflîto@
+@afloat@|@a gàlla, a nêuo@
+@Africa@|@Àfrica@
+@African@|@africàn@
+@aftcastle (nautical)@|@càsou@
+@after@|@aprêuvo a, dòppo@
+@after all@|@in fóndo, in fìn di cónti@
+@after that@|@dapeu, apeu, peu@
+@afternoon@|@dòpoprànso, depoidirnâ, séia, dòpodisnâ@
+@afterwards@|@aprêuvo@
+@again@|@tórna@
+@against@|@cóntra@
+@against time@|@cóntra o ténpo@
+@agave@|@èrba spâ (nf)@
+@age@|@etæ@
+@agency@|@agensîa@
+@agile@|@lèsto@
+@ago@|@són (v), fa@
+@agony@|@angonîa@
+@agreement@|@acòrdio@
+@agriculture@|@agricoltûa@
+@ailment@|@mâ (nm), magàgna, malatîa (it.), moutîa@
+@air@|@âia (nf)@
+@aircraft carrier@|@pòrtarioplàn (nm)@
+@aired@|@ventilòu@
+@airplane@|@avión, aèreo@
+@airport@|@aeropòrto@
+@airscrew@|@élice (nf), èliçe (nf)@
+@alarm clock@|@resvegìn@
+@Alassio (SV)@|@Aràsce, Aràsci@
+@Albania@|@Albanîa@
+@Albanian@|@albanéize@
+@Albenga (SV)@|@Arbénga@
+@Albert@|@Bertìn, Òbèrto, Bèrto@
+@Albisola (SV)@|@Arbisêua@
+@album@|@àlbon (nm)@
+@Alessandria (Piedmont)@|@Lisciàndria@
+@Alexander@|@Lisciàndro@
+@Alexandria@|@Lisciàndria@
+@alfalfa@|@èrba mêga (nf)@
+@Alfred@|@Alfrêdo@
+@Algeria@|@Algerîa@
+@Algerian@|@algerìn@
+@Alghero (Sardinia)@|@L'Arghê@
+@Alice@|@Lîce@
+@alien@|@foestê, forèsto@
+@alive@|@vîvo@
+@all@|@tùtto@
+@all (fpl)@|@tùtte (fpl)@
+@all (fsing)@|@tùtta@
+@all (mpl)@|@tùtti (mpl)@
+@all (msing)@|@tùtto@
+@all at the same time (m)@|@tùtti inte 'na vòtta@
+@all the time@|@pe de lóngo, de lóngo@
+@alley@|@caróggio, carogìn@
+@allied@|@aleòu@
+@alligator@|@aligatô@
+@ally@|@aleòu@
+@almond@|@amàndoa@
+@almond tree@|@èrbo d'amàndoe@
+@almost@|@quæxi, squæxi@
+@alms@|@limöxina@
+@aloe@|@èrba spâ (nf)@
+@alone@|@sôlo@
+@along with@|@insémme a@
+@alphabet@|@arfabêto@
+@Alpine@|@alpìn@
+@already@|@za@
+@alright@|@tùtto a pòsto, tùtto bén@
+@Alsace@|@Arzàçia@
+@Alsatian@|@arzaçiàn@
+@also@|@ànche, ascì@
+@altar@|@artâ (nm)@
+@Altare (SV)@|@Artâ@
+@alteration@|@alteraçión@
+@altitude@|@ertéssa@
+@altogether@|@tùtt'insémme@
+@always@|@sénpre, de lóngo, pe de lóngo@
+@amazed@|@stupîo@
+@amazement@|@stupô@
+@amber@|@ànbra@
+@amen@|@amén, âmen@
+@America@|@América@
+@American@|@americàn@
+@American aloe@|@èrba spâ (nf)@
+@Americans@|@americhén (mpl)@
+@among@|@tramêzo a, fra, de tramêzo a, tra@
+@amount@|@quöta@
+@amusement@|@divertiménto@
+@amusing@|@diverténte@
+@an hour@|@unn'ôa, 'n'ôa@
+@analysis@|@anàlixi (nf)@
+@anatomy@|@anatomîa@
+@anchovy@|@anciôa@
+@ancient@|@antîgo@
+@and@|@e@
+@and so on@|@e vîa dixéndo, e vîa discorìndo@
+@Andalusian@|@andalûzo@
+@Andes@|@Ande (fpl)@
+@Andora (SV)@|@Andêua@
+@Andrew@|@Andrîa, Drîa@
+@angel@|@àngjo@
+@anger@|@fótta, ràggia@
+@angler (monkfish)@|@bùdego@
+@Anglo-Saxon@|@anglosàsone@
+@angry@|@aragiòu@
+@aniline@|@anelìnn-a@
+@animal@|@béstia, animâle@
+@animation@|@animaçión@
+@anise@|@ànixe (nf)@
+@aniseed@|@ànixe (nf)@
+@anisette@|@ànixe (nf)@
+@Anne@|@Nìnna, Netìn, Netìnn-a, Ninìn, Nétta, Ànna@
+@annexed@|@anésso@
+@announcement@|@anónçio@
+@annoyance@|@despêto@
+@annoyed@|@stùffo@
+@annoying@|@ascidiôzo, ròuzo@
+@anonimity@|@anonimâto@
+@anonymous@|@anònimo@
+@another (f)@|@unn'âtra, 'n'âtra@
+@another (m)@|@'n âtro, un âtro@
+@another half hour@|@unn'âtra mêz'ôa@
+@another time@|@unn'âtra vòtta@
+@answer@|@rispòsta@
+@ant@|@formìgoa@
+@Anthony@|@Tögno@
+@antiquary@|@antiquâio@
+@antique@|@antîgo@
+@antiquity@|@antighitæ@
+@Antoinette@|@Tognêta@
+@ant's nest@|@tànn-a de formîgoe@
+@anulled@|@anulòu@
+@anvil@|@anchîze@
+@anxious@|@ansiôzo, anscetôzo@
+@any@|@quàrche, quarsevéuggia@
+@anybody@|@quarchedùn@
+@anybody (f)@|@quarchedùnn-a@
+@anyone@|@quarchedùn@
+@anyone (f)@|@quarchedùnn-a@
+@anything@|@quarcösa@
+@Aosta Valley@|@Vàlle d'Aòsta@
+@apart@|@a pàrte@
+@apart from that@|@do rèsto@
+@Apennines@|@Apenìn@
+@aperture@|@avertûa@
+@apparatus@|@apægio@
+@apparently@|@a l'aparénsa@
+@appetite@|@apetìtto@
+@apple@|@méi (nm)@
+@apple tree@|@èrbo de méie@
+@appointment@|@apontaménto@
+@appropriate@|@adegoòu@
+@approximate@|@aproscimatîvo@
+@approximately@|@sciù pe zu, cìrca@
+@apricot@|@apricòtta, bricòcalo, armognìn, ramognìn@
+@April@|@arvî@
+@apron@|@scösâ (nm), scösæn@
+@Apulia (Puglia)@|@Pùggia@
+@aquiline nose@|@nâzo a-a becûa@
+@Arab@|@àrabo@
+@Arabia@|@Aràbia@
+@Arabian@|@àrabo@
+@arbitrarily@|@a rêo, abrétio@
+@arcade@|@pòrtego@
+@arch@|@èrco, àrco@
+@archduke@|@arçidùcca (nm)@
+@ardour@|@ardô, fervô@
+@Arenzano (GE)@|@Arensén, Rensén, Insén@
+@Argentina@|@Argentìnn-a@
+@Argentine@|@argentìn@
+@Argentinean@|@argentìn@
+@Argentinian@|@argentìn@
+@argument@|@lîte (nf), ratélla, barùffa, arguménto, bæga@
+@aridity@|@sechêa@
+@Aries@|@æo@
+@ark@|@àrca@
+@arm@|@bràsso@
+@armament@|@armaménto@
+@armaments@|@armaménto@
+@armchair@|@pötrónn-a@
+@armour@|@armatûa@
+@arms@|@bràsse (fpl)@
+@army@|@ezèrcito, armâ (nf)@
+@around@|@in gîo a@
+@around the world@|@pe-o móndo@
+@arquebus@|@archebûxo@
+@arquebusier@|@archebuxê (nm)@
+@arrival@|@arîvo, vegnûa@
+@arrogance@|@supèrbia@
+@arrogant@|@supèrbo, supèrbio@
+@arrow@|@saétta, fréccia@
+@art@|@àrte (nf)@
+@artichoke@|@ardiciòcca@
+@article@|@artìcolo@
+@artisan@|@artexàn@
+@artist@|@artìsta@
+@as ... as possible@|@o ciù ... poscìbile@
+@as desired@|@a piaxéi@
+@as far as I know@|@pe quànte ne sò@
+@as soon as@|@apénn-a@
+@as well@|@pe de ciù@
+@ascent@|@montâ (nf)@
+@ash@|@çénia@
+@Asian@|@aziàtico@
+@aside@|@arénte@
+@asininity@|@âzenàia@
+@askew@|@goèrso@
+@asphyxia@|@asfixîa@
+@asphyxiation@|@asfixîa@
+@ass@|@panê (nm), cû@
+@assassin@|@asascìn@
+@assassination@|@asascinaménto, asascìnio@
+@assistant@|@ascisténte@
+@associate@|@sòccio@
+@association@|@sodalìçio, asociaçión@
+@asthma@|@àxima@
+@astonished@|@stupefæto, stupîo@
+@astonishment@|@stupô@
+@at a good price@|@a bón mercòu, a bón pàtto, a bón prêxo@
+@at a guess@|@a éuggio@
+@at a low price@|@a pöco prêxo@
+@at all@|@pe nìnte@
+@at breakneck speed@|@a rótta de còllo@
+@at dawn@|@a-o fâ do giórno, a-o levâ do sô@
+@at daybreak@|@a-o fâ do giórno, a-o levâ do sô@
+@at dusk@|@in sciô fâ da séia@
+@at first@|@in scê prìmme@
+@at home@|@in cà, a cà@
+@at least@|@a-o mêno, armêno, quantomêno@
+@at night@|@de néutte@
+@at nightfall@|@in sciô fâ da séia@
+@at once@|@in sce doî pê@
+@at one o'clock@|@a 'n'ôa@
+@at random@|@a câxo, a rêo, abrétio@
+@at sunset@|@in sciô fâ da séia@
+@at the back@|@derê, inderê@
+@at the bottom@|@in fóndo@
+@at the end@|@infìn@
+@at the same time@|@a-o mæximo ténpo@
+@at worst@|@a-a pêzo, a-o pêzo, a-o pêzo andâ@
+@atheist@|@àteo@
+@atom@|@àtomo@
+@attached@|@alegòu@
+@attempt@|@tentatîvo@
+@attention@|@atençión, cûa@
+@attentive@|@aténto@
+@attorney@|@procuòu, avocâto@
+@attractive@|@atraénte, seduxénte@
+@attribute@|@atribûto@
+@aubergine@|@meizànn-a@
+@auction@|@subàsta@
+@audio@|@òudio@
+@audition@|@oudiçión, udîo@
+@auditive@|@ouditîvo@
+@August@|@agósto@
+@aunt@|@làlla@
+@Australia@|@Oustràlia@
+@Australian@|@oustraliàn@
+@authentic@|@outéntico, sccétto@
+@authenticity@|@sccetéssa@
+@author@|@aotô, outô@
+@authoress@|@outrîxe (nf)@
+@autobus@|@àotobos@
+@autograph@|@outògrafo@
+@automobile@|@outomòbile@
+@autonomous@|@outònomo@
+@autonomy@|@outonomîa@
+@autumn@|@outùnno@
+@auxiliary@|@ouxiliâ@
+@available@|@disponìbile@
+@avalanche@|@valànga@
+@avarice@|@avarìçia@
+@avaricious@|@avâro, pignavèrde, avâo@
+@Avegno (GE)@|@Avêgno@
+@aviary@|@öxelêa@
+@aviation@|@aviaçión@
+@aviator@|@aviatô@
+@avidity@|@aviditæ@
+@awake@|@adéscio@
+@away@|@a-a làrga@
+@awkward@|@descòmodo, scòmodo@
+@awl@|@ponsón@
+@axe@|@picòsso, picòssa@
+@baby@|@banbìn, figeu picìn, garsonìn@
+@baby carriage@|@pasegìn@
+@Baby Jesus@|@Gexù Banbìn@
+@bachelor party@|@adîo a-o fantinægo@
+@bachelorhood@|@fantinægo@
+@back@|@inderê, aprêuvo, derê@
+@back (animal)@|@lónbo@
+@back (body part)@|@schénn-a@
+@back of the neck@|@nùcca, copùsso@
+@back tooth@|@mêua@
+@backbone@|@fî da schénn-a (nm)@
+@backhander@|@sberlendón@
+@backwards@|@a-a revèrsa, a-o contrâio, inderê@
+@bad@|@mâ (av.), catîvo@
+@bad breath@|@tufâ (nf)@
+@badger@|@tàscio@
+@badly@|@malaménte, mâ (av.)@
+@bad-mannered@|@maleducòu, mæducòu@
+@bad-tempered@|@stondâio@
+@bag@|@sàcco@
+@Bagnara (GE)@|@Bagnæa@
+@Bagnaria (Lombardy)@|@Bagnæra@
+@bait (fishing lure)@|@brumézzo@
+@baker@|@panetê, fornâ (nm), fainòtto@
+@baking pan@|@tésto@
+@baking pot@|@tiàn (nm)@
+@baking tin@|@tésto@
+@baking tray@|@tiàn (nm)@
+@balance@|@equilìbrio@
+@balcony@|@pigiölo, pogiölo@
+@bald@|@ch'o l'à pèrso i cavélli@
+@balding@|@ch'o pèrde i cavélli@
+@Balestrino (SV)@|@Balestrìn@
+@ball@|@bàlla@
+@ball (football)@|@balón@
+@ball (function for dancing)@|@festón@
+@ball of wool@|@remescéllo@
+@ball of yarn@|@rumescéllo@
+@ballast@|@sòura@
+@ballot box@|@ùrna@
+@ballroom dances (North Italy)@|@bàllo lìscio@
+@banana@|@banànn-a@
+@bandit@|@baràbba (nm)@
+@banisters@|@ringhêa@
+@bank@|@bànco@
+@banker@|@banchê@
+@bankers@|@banchê@
+@banknote@|@palànca, bigétto de bànca@
+@bankruptcy@|@bancarótta@
+@bannister@|@ringhêa@
+@baptism@|@batêximo@
+@bar@|@bàr (nm)@
+@Barbara@|@Bàrboa@
+@barbarian@|@bàrbaro@
+@barbaric@|@bàrbaro@
+@barbarism@|@barbarìsmo, barbaritæ@
+@barbarity@|@barbarìsmo, barbaritæ@
+@barbarous@|@bàrbaro@
+@Barcelona@|@Barçelónn-a@
+@barefoot@|@scâso, a pê nûi, descâso@
+@barely@|@a fadîga, a îsa a îsa, a malapénn-a@
+@bargain@|@sbaràsso@
+@bark (tree)@|@scòrsa@
+@barley@|@òrsio@
+@barn@|@granâio@
+@barn owl@|@òuco giànco, barbagiànni (nm)@
+@Baroque@|@baròcco@
+@barracuda (fish)@|@lùsou@
+@barrel@|@bótte (nf), barî (nm)@
+@barter@|@bâto, càngio@
+@base@|@bâze@
+@basil@|@baxaicö, baxeicö@
+@basilica@|@baxìlica@
+@basket@|@cavagnìn (nm), cavàgno@
+@Basque@|@bàsco@
+@bass@|@bàsso@
+@bassoon@|@fagòtto@
+@bastard@|@bastàrdo@
+@bat@|@ràtto pernûgo, ràtto penûgo@
+@bather@|@bagnànte@
+@bathroom@|@bàgno@
+@battery@|@baterîa@
+@battle@|@batàggia@
+@Bavari (GE)@|@Bâvai@
+@bay@|@bâia@
+@bay (reddish brown)@|@bàio (cavàllo)@
+@bay mare@|@bàio (cavàllo)@
+@be quiet!@|@tâxi!, stànni sìtto!@
+@beach@|@mænn-a, làssa, spiâgia, ciàzza@
+@beads@|@margaitìn (nmpl)@
+@bean@|@faxeu, fâva, bazànn-a@
+@bear@|@órso@
+@beard@|@bàrba (nf)@
+@bearded@|@barbûo@
+@bearer@|@portòu@
+@beast@|@béstia@
+@beating@|@bòtta@
+@beauty@|@beléssa@
+@beaver@|@castöro@
+@because@|@perché, scicómme@
+@because of@|@a còuza de@
+@bed@|@létto@
+@bedcover@|@creuvilétto@
+@bedroom@|@stànsia, dormitöio, stànsa@
+@bedside table@|@ghirindón@
+@bedspread@|@creuvilétto@
+@bee@|@âva, àvia@
+@beer@|@bîra@
+@beet@|@giærâva, giæa@
+@beet sugar@|@sùcou de giærâve@
+@beetroot@|@giærâva, giæa@
+@before@|@prìmma@
+@Begato (GE)@|@Begæ@
+@beginner@|@prinçipiànte@
+@beginning@|@inìçio, prinçìpio@
+@behaviour@|@condûta@
+@behind@|@inderê, aprêuvo a, derê a, derê@
+@Belgian@|@bélga@
+@Belgium@|@Bélgio@
+@bell ringing@|@bonbón@
+@bellows@|@màntexo, sciuscétto@
+@belly@|@pànsa@
+@beloved@|@câo (ag.)@
+@below@|@zu@
+@belt@|@çénta@
+@belt (man's)@|@corezìn (nm)@
+@benefit@|@pró (nm)@
+@bent@|@stòrto@
+@Berber@|@bèrbero@
+@Bernard@|@Benàrdo@
+@beside@|@acànto a, acànto, arénte a, da arénte a@
+@besides@|@a pàrte, in ciù@
+@best@|@mêgio@
+@bet@|@scomìssa@
+@better@|@mêgio@
+@between@|@fra, de tramêzo a, tramêzo a, tra@
+@Bevera (IM)@|@Bévera@
+@beverage@|@bevànda@
+@beware!@|@stànni a l'éuggio!@
+@bib@|@bavæn (nm)@
+@bible@|@bìbia@
+@bicycle@|@biciclétta, bîci (nf)@
+@big@|@gròsso, grànde@
+@big nose@|@nàpia (pop.), nazàsso@
+@big quantity@|@slèrfa@
+@bike@|@bîci (nf), biciclétta@
+@bilberry@|@poelétta@
+@bill@|@cónto@
+@billhook@|@penàcco@
+@billiards@|@biliàrdo@
+@billion@|@miliàrdo@
+@bin@|@rumentêa, panê (nm)@
+@binge@|@scianpràdda, ribòtta@
+@biography@|@biografîa@
+@biology@|@biologîa@
+@bird@|@öxéllo@
+@birth@|@nàscita, nasciménto@
+@Bisagno (Genoese river)@|@Bezàgno@
+@bishop@|@vésco, véscovo@
+@bit@|@pésso, pitinìn, pitìn, petìn (Savona)@
+@bite@|@ponzigiâ (nf), morscelâ@
+@bitt@|@bìtta@
+@bitter@|@amâo@
+@bittersweet@|@ægrodôçe, âgrodôçe@
+@black@|@néigro@
+@black pudding@|@berödo@
+@black scorpionfish@|@scórpena@
+@blackberries@|@béusai (mpl)@
+@blackberry@|@béusou@
+@blackbird@|@mèrlo@
+@blackish@|@negràstro@
+@blacksmith@|@ferâ (nm)@
+@bladder@|@vescîga@
+@bland@|@fàtto@
+@bleach@|@lescîa, poligrìnn-a, lescìvia@
+@blessing@|@benediçión@
+@blind@|@òrbo@
+@blind (outside window)@|@persiànn-a@
+@blister@|@vescîga@
+@blockade@|@blòcco@
+@blockhead@|@sucón@
+@blocking@|@blòcco@
+@blonde@|@bióndo@
+@blood@|@sàngoe (nm)@
+@blood sausage@|@berödo@
+@bloodsucker (fig.)@|@sangoétta@
+@bloody@|@sangoinôzo@
+@blow@|@pàtta, córpo@
+@blow from a stone@|@prionâ (nf), sasciâ (nf)@
+@blow of stick@|@bacâ (nf)@
+@blow on the face@|@grignòtto@
+@blow with a shoe@|@scarpâ (nf)@
+@blowlamp@|@sciusción@
+@blown up@|@ìnscio@
+@blowtorch@|@sciusción@
+@blow-up (n)@|@esploxón@
+@blue@|@bleu@
+@blue (colour)@|@turchìn@
+@blueberry@|@poelétta@
+@blunder@|@stranbòtto, sgoarón@
+@blunt@|@mùtto@
+@Boasi (GE)@|@Boâxi@
+@boastful@|@fanfarón, falànpi, spanpanón@
+@boasting@|@vànto@
+@boat@|@bàrca, batéllo, gósso@
+@boat (small)@|@barcàssa@
+@boat hook@|@mezomainâ (nm)@
+@boatman@|@barcaieu@
+@Bobbio (Emilia)@|@Béubbi, Bòbio@
+@Boccadasse (GE)@|@Bocadâze@
+@body@|@còrpo@
+@bodyguard@|@goardaspàlle (nm)@
+@Bogliasco (GE)@|@Bogiàsco@
+@boiled@|@bogîo@
+@boiled chestnuts with shell@|@balétti (nmpl)@
+@boiling@|@bogénte@
+@Boissano (SV)@|@Boisàn@
+@Bolìvia@|@Bolivia@
+@Bolivian@|@boliviàn@
+@Bollano (SP)@|@Bolàn@
+@bollard@|@bìtta@
+@Bolzaneto (GE)@|@Bösanæo, Bösanêo@
+@bomb@|@bónba@
+@bombing@|@bonbardaménto@
+@bombshell@|@bónba@
+@bonbon@|@bonbón@
+@bone@|@òsso@
+@bones@|@òsse (fpl)@
+@bonfire@|@fogoâ (nm)@
+@book@|@lìbbro@
+@bookseller@|@librâ (nm)@
+@bookshelf@|@libràia@
+@booming voice@|@tìbba, voxón@
+@boorish@|@vilàn@
+@boot@|@béuilo, stivâ (nm)@
+@bootblack@|@decreteur@
+@boots@|@stivæ (nmpl)@
+@Bordighera (IM)@|@Bordighêa@
+@Borghetto Santo Spirito (SV)@|@Borghétto@
+@Borgomaro (IM)@|@Borgomâ@
+@Borgonuovo (GE)@|@Borgonêuvo@
+@born@|@nasciûo@
+@Borzonasca (GE)@|@Borzonàsca@
+@Borzone (GE)@|@Borzón@
+@Bosnia@|@Bòsnia@
+@Bosnian@|@bosnìaco@
+@boss@|@padrón, bacàn, càppo@
+@botched@|@ciapùsso@
+@both (f)@|@tùtte e dôe@
+@both (m)@|@tùtti i doî@
+@bottle@|@botìggia@
+@bourgeois@|@borghéize@
+@bourgeoisie@|@borghexîa@
+@bow@|@àrco, èrco@
+@bow (movement)@|@squacìn (nm)@
+@bow (nautical)@|@prôa@
+@bowel@|@intestìn@
+@bower (arbour)@|@bersò (nm)@
+@bowl@|@xàtta@
+@bowls@|@bòcce (nfpl)@
+@box@|@càscia, scàtoa@
+@box (tree)@|@bùscio@
+@boxwood@|@bùscio@
+@boy@|@figeu, pivéllo@
+@boyfriend@|@galànte (nm)@
+@boys@|@figeu@
+@braces@|@bertèlle (fpl)@
+@bragging@|@vànto@
+@braid@|@tréssa@
+@brain@|@çervéllo@
+@branch@|@ràmmo@
+@bravery@|@valentîxe (nf)@
+@bray@|@râgno@
+@braying@|@râgno@
+@Brazil@|@Brazî@
+@Brazilian@|@braziliàn@
+@bread@|@pàn@
+@breadstick@|@grisìn@
+@break@|@intervàllo@
+@break (rest)@|@ripözo@
+@breakfast@|@colaçión@
+@breakwater@|@scugêa@
+@bream (fish)@|@sâgou@
+@breast@|@pétto, sén (mpl)@
+@breastbone@|@òsso do pêto@
+@breath@|@sciùscio, respîo, sciòu@
+@breathing@|@respiaçión@
+@breeder@|@alevatô@
+@breeding@|@alevaménto, alevéuia@
+@breeze@|@ventixeu, brîxa@
+@Breton@|@brétone@
+@bridge@|@pónte (nm)@
+@bridle path@|@crêuza@
+@briefly@|@a-e cùrte@
+@bright (adj.)@|@brilànte@
+@brightness@|@barlùmme@
+@brilliant@|@brilànte@
+@brine@|@sarmoîa@
+@British@|@britànico@
+@Brittany@|@Bretàgna@
+@broad bean@|@fâva, bazànn-a@
+@broad bean (dried up)@|@bacìllo@
+@broccoli@|@bertoêlo@
+@broken@|@rótto@
+@broken in pieces@|@in menisétti, in menìssi@
+@Bromia (GE)@|@Bréumia@
+@bronze@|@brónzo@
+@broom (plant)@|@zenèstra@
+@brothel@|@ciavòtto (fig.), cazìn (nm), bordèllo@
+@brother@|@fræ (nm)@
+@brotherhood@|@fradelànsa, fraternitæ@
+@brown@|@marón, möo, cô de castàgna@
+@Brugnato (SP)@|@Brignæ@
+@brush@|@penéllo@
+@buck@|@frànco (nm)@
+@bucket@|@bolàcco@
+@bud@|@zermóggio@
+@buffalo@|@bùfou@
+@buffet@|@rinfrésco@
+@buffoon@|@xànno@
+@buffoonery@|@xanâta@
+@build@|@tàggia@
+@building@|@palàçio@
+@building worker@|@masacàn@
+@bulb@|@bùrbo@
+@Bulgaria@|@Bulgâia@
+@Bulgarian@|@bùlgaro@
+@bull@|@töo@
+@bully@|@magnæro (nm), malémmo (nm), squarsón (nm)@
+@bumblebee@|@gravalón@
+@bunch@|@scciànco, màsso, ràppo, sccianchétto@
+@bunch of keys@|@màsso de ciâve@
+@buoy@|@böa@
+@bureau de change@|@bancòuto@
+@burial@|@seportûa@
+@burn@|@scotatûa, bruxéuia@
+@burner@|@fornéllo@
+@burning smell@|@ödô de bruxòu@
+@burp@|@réuito@
+@burrow@|@tànn-a@
+@bus@|@òutobo@
+@business@|@negòçio, afâre (nm), comèrçio@
+@Busonengo (GE)@|@Buzonéngo@
+@Bussana (IM)@|@Busànn-a@
+@bustle@|@borbóggio@
+@busy@|@afacendòu, òcupòu@
+@but@|@ma@
+@butcher@|@maxelâ (nm)@
+@butter@|@bitîro@
+@butterfly@|@parpagión (nm), parpelétta@
+@buttery tea biscuits (Liguria)@|@canestrélli (nmpl)@
+@buttock@|@næga, scciàppa@
+@buttocks@|@næghe (fpl), scciàppe (fpl)@
+@button@|@poméllo@
+@buzzard@|@àgogia@
+@by chance@|@pe câxo@
+@by foot@|@a pê@
+@by heart@|@a memöia@
+@by himself/herself@|@da pe lê@
+@by myself@|@da pe mi@
+@by nightfall@|@in sciô fâ da séia@
+@by oneself alone@|@pe cónto pròpio@
+@by the (fpl)@|@da-e@
+@by the (fsing)@|@da-a@
+@by the (mpl)@|@da-i@
+@by the (msing)@|@da-o@
+@by the moment@|@intànto@
+@by the wagonload@|@a caræ@
+@by the way@|@a propòxito@
+@by themselves@|@da pe liâtri@
+@by throwing stones@|@a prionæ, a sasciæ@
+@by yourself@|@da pe ti@
+@byebye!@|@ciâo!@
+@Byelorussia@|@Bielorùscia@
+@Byelorussian@|@bielorùscio@
+@cabbage@|@garbûxo@
+@Cadibona (SV)@|@Cadebónn-a@
+@Cadimare (SP)@|@Cademâ@
+@Caesar@|@Césare@
+@cage@|@gàggia@
+@Cagliari (Sardinia)@|@Càgge@
+@Cairo Montenotte (SV)@|@Càiri, Càiro@
+@cake@|@tórta@
+@cake pan@|@tiàn (nm)@
+@Calasetta (Sardinia)@|@Câdezédda@
+@calculation@|@cónto@
+@calendar@|@lunâio, calendâio@
+@calf@|@vitéllo, pórpa da gànba, porpàsso@
+@Calizzano (SV)@|@Calisàn@
+@call@|@ciamâta@
+@called...@|@dîto...@
+@calm@|@tranquìllo, sén (ag.)@
+@Calvari (GE)@|@Càlvai@
+@camel@|@caméllo@
+@camera@|@càmera@
+@Camminata (SP)@|@Caminâ (Spézza)@
+@Camogli (GE)@|@Camóggi@
+@camp bed@|@brànda (nf)@
+@campaign@|@canpàgna, spediçión@
+@Campegli (GE)@|@Canpêgi@
+@camphor@|@cànfora@
+@camphor tree@|@èrbo da cànfora@
+@camping@|@canpùccio@
+@Campochiesa (SV)@|@Canpogêxa@
+@Campoligure (GE)@|@Cànpo@
+@Camporosso (IM)@|@Canporósso@
+@Canada@|@Cànada@
+@Canadian@|@canadéize@
+@Canale (GE)@|@Canâ@
+@cancelled@|@anulòu@
+@candle@|@candêia@
+@Candlemas@|@Candiêua@
+@candlewick@|@stopìn (nm)@
+@candy@|@dôçùmmi (nmpl)@
+@cane@|@cànna@
+@canned food@|@arbanèlla@
+@cap@|@scufiêta, capùsso@
+@cap (garment)@|@berétto@
+@cape@|@câo (nm)@
+@caper@|@tàpano@
+@Capo Mele (SV)@|@Câo de Méie@
+@capon (castrated cockerel)@|@capón@
+@Capraia (island)@|@Caprâia@
+@caprice@|@scrìpixi (nmpl), caprìçio@
+@capricious@|@capriçiôzo@
+@Caprile (GE)@|@Cræn@
+@captain@|@capitànio@
+@captivated@|@asòrto@
+@capture@|@catûa@
+@car@|@outomòbile, màchina@
+@Carasco (GE)@|@Caràsco@
+@Carcare (SV)@|@Càrcae@
+@cards (playing)@|@càrte (fpl)@
+@care@|@cûa@
+@carelessly@|@a-a bagàrda, a-a biscanbìggia, a-a biscöchìnn-a, a-a buzarónn-a, a-a carlónn-a@
+@carelessness@|@pöca cûa@
+@caress@|@fràsca@
+@caretaker@|@goardiàn@
+@Carignano (GE)@|@Caignàn@
+@Carloforte (Sardinia)@|@Carlofòrte@
+@carnival@|@carlevâ (nm), carliâ (nm)@
+@carob@|@caróbba@
+@Carpasio (IM)@|@Carpâxe@
+@Carpe (SV)@|@Càrpe@
+@Carpeneto (GE)@|@Carpinêio@
+@carpenter@|@bancâ@
+@carpenters@|@bancæ@
+@carpet@|@tapêto@
+@carriage@|@caròssa, vagón@
+@carrier@|@portòu@
+@Carro (SP)@|@Câro (Spézza)@
+@Carrodano (SP)@|@Caròdan, Careu@
+@Carsi (GE)@|@Càrsci@
+@cart@|@câro@
+@Cartagenova (GE)@|@Cartazêna@
+@Casale (GE)@|@Cazâ@
+@Casalino (GE)@|@Cazaìn@
+@Casanova (SV)@|@Cazanêuva@
+@case@|@stùccio@
+@cash@|@a dinæ contànti, in contànti, contànti (nmpl)@
+@cashier@|@cascê (nm)@
+@Cassano Spinola (Piedmont)@|@Casciàn@
+@casserole@|@casiòula, pignàtta, pugnàtta, tiàn (nm)@
+@Castagnola (GE)@|@Castàgnoa@
+@castanets@|@gnàchere (nfpl)@
+@Castiglione (GE)@|@Castigión@
+@cat@|@gàtto@
+@Catalan@|@catalàn@
+@Catalonia@|@Catalógna@
+@catapult@|@fiónda (it.), caciafrùsto@
+@catechism@|@catechîximo@
+@Catherine@|@Catainìn, Catænn-a, Catæn@
+@cattle@|@vàcca, bestiàmme (nm)@
+@cause@|@càoza@
+@caution@|@cûa, precaoçión@
+@cavalry@|@cavalerîa, cavagerîa@
+@cave@|@gròtta@
+@cavity@|@cavitæ, crêuzo@
+@ceiling@|@téito@
+@celebration@|@festivitæ@
+@celery@|@sélou, xéllo (Savona)@
+@cell@|@çélula@
+@cell phone@|@telefonìn@
+@Celle Ligure (SV)@|@Çélle@
+@cement@|@betón@
+@cemetery@|@çimitêio@
+@Cengio (SV)@|@Céngio@
+@censorship@|@censûa@
+@censure@|@censûa@
+@centenary@|@çentenâio@
+@centennial@|@çentenâio@
+@center@|@çéntro, céntro@
+@centipede@|@scolopéndra@
+@Cento Croci (SP)@|@Çentocrôxi@
+@centre@|@çéntro, céntro@
+@centurion@|@çenturión@
+@ceramic@|@ceràmica@
+@Ceriale (SV)@|@O Çeiâ@
+@Cerri (SV)@|@Særo@
+@certain@|@çèrto@
+@Cervo (IM)@|@Çèrvo@
+@Ceva (Piedmont)@|@Cêva@
+@chain@|@cadénn-a@
+@chair@|@carêga@
+@chamber pot@|@vâzo de néutte, oinâ (nm)@
+@chamois@|@camóscio@
+@champion@|@canpionéssa (f), canpión@
+@chance@|@azàrdo, òportunitæ, ventûa@
+@change@|@càngio@
+@changing@|@cangiànte@
+@chant@|@cànto@
+@chapter@|@capìtolo@
+@character@|@personàggio@
+@chard/spinach sauce@|@zemìn (nm)@
+@charge@|@càrega (nf)@
+@charity@|@caitæ@
+@charm@|@sconzûo@
+@chart@|@tabèlla@
+@chatterbox@|@ciarlón, ciaciarón, bacaión@
+@chauffeur@|@sciafeur@
+@cheap@|@a bón mercòu, a bón pàtto, a bón prêxo, a pöco prêxo@
+@cheap wine@|@cancarón@
+@cheaper@|@ciù a bón prêxo, a mêno prêxo, ciù a prêxo@
+@cheat@|@intrîgo@
+@check@|@verìfica@
+@checking@|@revixón@
+@checkmate (chess)@|@scàcco màtto@
+@cheek@|@màsca@
+@cheerful (f)@|@alêgra@
+@cheerful (m)@|@alêgro@
+@cheese@|@formàggio@
+@chemical@|@chìmico@
+@cherry@|@çêxa@
+@cherry tree@|@èrbo de çêxe@
+@chess@|@scàcchi (mpl)@
+@chess set@|@scachêa@
+@chessboard@|@scachêa@
+@chestnut@|@castàgna@
+@chestnut tree@|@èrbo de castàgne@
+@chestnuts (boiled peeled)@|@piæ (nfpl), pelæ (nfpl)@
+@chestnuts (boiled unpeeled)@|@balétti (nmpl)@
+@chestnuts (dried peeled boiled)@|@réboe (nfpl)@
+@chestnuts (dried unpeeled boiled)@|@vegétte (nfpl)(castàgne)@
+@chestnuts (roasted)@|@rostîe (nfpl)@
+@Chiappa (IM)@|@A Ciàppa@
+@chic@|@scìcche (ag.)@
+@chicken@|@pòllo, polàstro@
+@chicken (diminutive)@|@polìn@
+@chicken pox@|@voiêue xoatìnn-e (nfpl), vêuxoatìnn-e (nfpl)@
+@chick-pea@|@çéixo@
+@chickpea-flour cakes (Liguria)@|@panìssa@
+@chick-peas@|@çéixai (mpl)@
+@chicory@|@risétto, radìccia@
+@chief@|@càppo, padrón@
+@child@|@bagarìllo, popón, figeu@
+@Child Jesus@|@Gexù Banbìn@
+@children@|@figeu@
+@Chile@|@Cîle@
+@Chilean@|@cilén@
+@chimney@|@fumaieu@
+@chin@|@ménto@
+@China@|@Cìnn-a@
+@Chinese@|@cinéize@
+@chink@|@avenéuia, crepatûa@
+@chipped@|@scamoròu@
+@Chiusànico (IM)@|@Ciusànego@
+@Chiusavecchia (IM)@|@Ciugiavéia@
+@chivalry@|@cavalerîa, cavagerîa@
+@chloride@|@clorûro@
+@choice@|@scèlta, çèrnia@
+@chopping board@|@tagiòu (nm)@
+@choppy (sea)@|@bolezùmme@
+@choral chant typical of Genoa@|@tralalêro@
+@chord@|@acòrdio@
+@Christ Child@|@Gexù Banbìn@
+@Christian (adj.)@|@crestiàn@
+@Christianism@|@crestianêximo@
+@Christine@|@Cristìnn-a@
+@Christmas@|@dênâ (nm), denâ (nm), natâle (nm)@
+@Christmas bonfire in Liguria@|@Confêugo@
+@Christopher@|@Cristòffa@
+@chubby@|@pacialàn@
+@church@|@gêxa@
+@Cicagna (GE)@|@Cicàgna@
+@circle@|@çèrcio, rêuo@
+@circle dance@|@riónda@
+@circumlocution@|@rebîgo@
+@cither@|@çìtara@
+@city@|@çitæ@
+@clandestine@|@clandestìn@
+@clandestinity@|@clandestinitæ@
+@classification@|@clascìfica@
+@clay pot@|@tiàn de tæra (nm)@
+@clay roaster@|@tiàn de tæra (nm)@
+@clean@|@polîto (it.), nétto, polîo@
+@cleaning@|@polixîa, netézzo@
+@clear soup@|@bròddo@
+@clergymen's collar@|@colæn di prævi (nm)@
+@clever@|@aspèrto, bìccio, fùrbo, asbriòu@
+@client@|@cazànn-a (f)@
+@climbing plant@|@ranpicànte (nm)@
+@clinic@|@clìnica@
+@clipping (press)@|@retàggio de giornâle@
+@clock@|@relêuio@
+@clockmaker@|@releuiâ (nm)@
+@clonation@|@clonaçión@
+@close (near)@|@vixìn@
+@closed@|@seròu@
+@closeness@|@vixinànsa@
+@closet@|@armâio@
+@cloth@|@pànno, péssa, tesciûo@
+@clothes@|@röba, vestî (nm)@
+@clothes line@|@atacapànne (nm)@
+@clothing@|@vestî (nm)@
+@cloud@|@nûvia@
+@cloudburst@|@ramâ d'ægoa (nf)@
+@cloudy@|@nûvio@
+@clove of garlic@|@gælo d'àggio, spîgo d'àggio@
+@clover@|@quadriféuggio, triféuggio@
+@clown@|@pagiàsso, xànno@
+@clowning@|@xanâta@
+@clumsy@|@gòffo@
+@coach@|@vagón@
+@coal@|@carbón@
+@coal merchant@|@carbonê@
+@coarse@|@òrdenâio, sgréuzzo@
+@coast@|@còsta@
+@coaster@|@pòrtagòtti (nm)@
+@coat@|@pelìssa@
+@cobweb@|@tâgnâ (nf)@
+@cock (vulg.)@|@zóbbo (volg.), belìn (volg.)@
+@cockroach@|@bagón@
+@cocoa@|@cacàvou@
+@cod@|@bacalà (nm)@
+@cod (small and tender)@|@bertagnìn@
+@coffee@|@cafè (nm)@
+@coffee maker@|@cafetêa@
+@coffee pot@|@cafetêa@
+@coffee with milk@|@cafè e læte@
+@coffin@|@bâra@
+@Cogoleto (GE)@|@Cogoeu, Cogoêuo, Coghêuo@
+@coherent@|@coerénte@
+@coin@|@monæa@
+@colander@|@cóìn@
+@cold@|@fréido (nm)@
+@cold (f)@|@fréida@
+@cold (m)@|@fréido (ag.)@
+@cold (n)(illness)@|@rafreidô, costipaçión, refreidô@
+@cold meat vendor@|@salumê (nm)@
+@cold meats@|@salùmmi (nmpl)@
+@colic@|@còlica@
+@collar@|@colæn (nm)@
+@collarbone@|@apendicàsse@
+@collection@|@recugéita, arecugéita@
+@collision@|@scóntro@
+@colour@|@cô, colôro@
+@colours@|@coî (mpl)@
+@Columbus@|@Colónbo@
+@comb@|@pêtene (nm), pêtenìn (nm)@
+@comber (fish)@|@bolâxo@
+@come on!@|@îsa!, sciù!@
+@comediant@|@comediànte@
+@comedy@|@comédia@
+@comfort@|@confòrto@
+@comfortable@|@còmodo, móscio@
+@comical@|@còmico@
+@coming@|@vegnûa@
+@commandment@|@comandaménto@
+@commentary@|@coménto@
+@commission@|@comisción@
+@commotion@|@calabâ@
+@compact@|@scciàzzo@
+@comparison@|@paragón@
+@compass card/rose@|@Rêuza di vénti@
+@compatible@|@conpatìbile@
+@compilation@|@recugéita@
+@complaint@|@rangógno, làgna, mogógno@
+@complete@|@conplêto@
+@comprehensible@|@conprenscìbile@
+@compromise@|@conpromìsso@
+@compulsory@|@d'òbligo, òbligatöio@
+@Comuneglia (SP)@|@Comunêgia@
+@concave@|@câo (ag.)@
+@conceit@|@vanitæ@
+@conceited@|@pìn de sósta@
+@conception@|@conceçión@
+@concern@|@cûa, pròcupaçión@
+@concert@|@conçèrto@
+@concrete (n)@|@betón@
+@condemnation@|@censûa@
+@conditional@|@condiçionâle@
+@condom@|@gondón@
+@confidence@|@confidénsa@
+@confirmation@|@confèrma@
+@Congolese@|@congoléize@
+@congratulation@|@congratulaçión@
+@congressman@|@deputòu@
+@consignment@|@spediçión@
+@consolation@|@confòrto@
+@contempt@|@desprêxo@
+@continuation@|@continoaçión, ségoito@
+@continuous@|@contìnoo@
+@continuously@|@de lóngo, pe de lóngo@
+@contract@|@contràtto@
+@contracted@|@agrepîo@
+@contrarily@|@a l'òpòsto@
+@contrariwise@|@a-o contrâio@
+@controlled@|@controlòu@
+@conveniently@|@a l'òcaxón@
+@cook@|@chêugo@
+@cooked@|@chéutto@
+@cooking@|@cotûa@
+@cool (f)@|@fréida@
+@cool (m)@|@fréido (ag.)@
+@copper@|@ràmmo@
+@copper cauldron@|@lavézzo@
+@copy@|@còpia@
+@Coreglia Ligure (GE)@|@Coêgia@
+@cork@|@nàtta@
+@corner@|@recànto, cànto@
+@Cornigliano (GE)@|@Cornigén@
+@Coronata (GE)@|@Cônâ@
+@correct@|@corètto@
+@corruption@|@coruçión@
+@corsair@|@làddro de mâ@
+@Corvara (SP)@|@Crovæa@
+@Cosio di Arroscia (IM)@|@Côxe@
+@Cosseria (SV)@|@Coscéria@
+@cost@|@cósto@
+@costum@|@uzànsa@
+@costumes@|@ûxi (mpl)@
+@cot bed@|@brànda (nf)@
+@cottage@|@cascìnn-a@
+@cough@|@tóssa@
+@count@|@cónto@
+@country@|@pàize (nm), naçión@
+@country house@|@cà de canpàgna@
+@countryman@|@paizàn@
+@countryside@|@canpàgna@
+@countrywoman@|@paizànn-a@
+@county@|@contêa@
+@courgette@|@suchìn (nm)@
+@court@|@córte@
+@court (law)@|@pretûa@
+@cousin (f)@|@cugìnn-a, coxìnn-a@
+@cousin (m)@|@cugìn, coxìn@
+@cow@|@vàcca@
+@cowbell@|@sunàggio@
+@crab@|@fòulo@
+@crack@|@avenéuia, crepatûa@
+@cracked@|@sciardîo@
+@cradle@|@cùnn-a, cùnn-a@
+@craft@|@mestê@
+@crag@|@magheu, brìcco@
+@crammed@|@strapìn@
+@crammed with people@|@gremenîo@
+@cramp@|@grànfio@
+@cramped@|@agrepîo@
+@crash@|@scóntro@
+@craving@|@bezéugno@
+@crazy@|@màtto@
+@cream@|@crémma, pànna@
+@credible@|@versocìmile@
+@credit@|@crénsa@
+@creeper@|@ranpicànte (nm)@
+@Crevari (GE)@|@Crêvai@
+@crib@|@prezépio@
+@criminal@|@legêra (nm)@
+@crimping (pastry)@|@oêxìn@
+@crisis@|@crîxi@
+@criss-cross@|@fæto a ræ@
+@Croatia@|@Croàçia@
+@Croatian@|@croâto@
+@Crocefieschi (GE)@|@Crôxe di Fiéschi@
+@crockery@|@teràggia@
+@crocodile@|@aligatô@
+@croissant@|@chìfaro@
+@crook@|@rabêlo, vincàstro, legêra (nm)@
+@crooked@|@stòrto@
+@crosier@|@vincàstro@
+@cross@|@crôxe (nf)@
+@cross-eyed@|@goèrso, lùrcio, sbrìncio, straléuggio, strànbo@
+@crow@|@cornàggia@
+@crowd@|@scciumæa, sciumæa@
+@crowded@|@gremenîo@
+@cruel@|@crudêle@
+@cruelty@|@crudeltæ@
+@cruise@|@croxêa (nf)@
+@crumb@|@mòula, fregóggia@
+@crusade@|@croxâ (nf)@
+@Crusades@|@Croxæ (fpl)@
+@crushed shipbiscuits@|@masamôro, morêua, moréuia@
+@crutch@|@scròsoa@
+@cry@|@crîo@
+@Cuban@|@cubàn@
+@cube@|@cùbbo@
+@cuckoo (bird)@|@cùcco@
+@cucumber@|@chighéumou@
+@culture@|@coltûa@
+@cunning@|@scavìsso, bagàrdo@
+@cunt@|@móssa (volg.)@
+@cup@|@tàssa@
+@curd (Ligurian)@|@prescinsêua@
+@cured (food)@|@afumegòu@
+@curiosity@|@coixitæ@
+@curious@|@coiôzo@
+@curl@|@rixétto, rìsso@
+@curled up@|@arensenîo, inscrocognîo@
+@current@|@atoâle@
+@current affairs@|@atoalitæ@
+@currently@|@a-a giornâ d'ancheu, a-o dì d'ancheu, atoalménte@
+@curse@|@malefìçio@
+@curtain (theater)@|@scipâio@
+@curve@|@cùrva, scivertòu@
+@curved@|@cùrvo@
+@cushion@|@cuscìn@
+@custodian@|@goardiàn, custöde@
+@custody@|@cûa@
+@customs@|@dugànn-a@
+@cut@|@tàggio@
+@cutting-edge@|@a l'ùrtima mòdda@
+@cylinder@|@cilìndro@
+@cypress@|@çiprèsso@
+@dad@|@papà (nm)@
+@daisy@|@margàita@
+@dam@|@dîga, préiza@
+@damage@|@mâ (nm)@
+@damn it!@|@dàgghe di nómmi!@
+@damnation@|@danaçión@
+@dance@|@bàllo@
+@danger@|@perìcolo, peîgo (pop.)@
+@dangerous@|@pericolôzo@
+@Danish@|@danéize@
+@daring@|@desgaginòu@
+@dark@|@scûo (ag.)@
+@dark blue@|@bleu scûo@
+@darkness@|@scûo (nm)@
+@dark-skinned@|@möo@
+@darnel@|@léuggio@
+@dart@|@saétta@
+@date@|@dæta, apontaménto@
+@date (fruit)@|@dàtou@
+@daughter@|@fìggia@
+@daughter-in-law@|@nêua@
+@day@|@giornâ (nf), giórno@
+@dead@|@mòrto@
+@deaf@|@sórdo@
+@deafness@|@sorditæ@
+@dear@|@câo (ag.)@
+@death penalty@|@pénn-a de mòrte@
+@death throes@|@angonîa@
+@debris@|@zétto@
+@debt@|@póffo@
+@debtor@|@ciantapóffi (nm)@
+@deceit@|@regîo@
+@December@|@dexénbre@
+@decent@|@decénte, dégno@
+@decided@|@decîzo@
+@decision@|@decixón@
+@deck (ship)@|@pónte de bàrche (nm)@
+@deck of playing cards@|@màsso de càrte da zêugo@
+@decline@|@deschinâ@
+@decoction@|@dechéutto@
+@decrepit@|@decrépito, rinbanbîo@
+@deep@|@profóndo@
+@deer@|@çèrvo@
+@defect@|@difètto@
+@defense@|@diféiza@
+@defiance@|@desprêxo@
+@deficiency@|@deficénsa@
+@Dego (SV)@|@O Dé@
+@dejected@|@abatûo@
+@delay@|@ritàrdo@
+@delayed@|@in ritàrdo@
+@deliberately@|@apòsta@
+@delicate@|@ùmio@
+@delicious@|@squizîo@
+@delight@|@delìçia, lecàia@
+@delinquent@|@mandilâ (nm), legêra (nm)@
+@deluge@|@derûo, dilûvio@
+@demand@|@reciàmmo@
+@democratic@|@democràtico@
+@demonstrative@|@dimostratîvo@
+@demoralisation@|@demoralizaçión@
+@demoralised@|@demoralizòu@
+@demoralization@|@demoralizaçión@
+@demoralized@|@demoralizòu@
+@den@|@tànn-a@
+@Denmark@|@Danemàrca@
+@dense@|@scciàzzo@
+@departure@|@parténsa@
+@dependence@|@dipendénsa@
+@dependency@|@dipendénsa@
+@depending@|@dipendénte@
+@depot@|@antrepö@
+@depressed@|@avilîo, intristîo@
+@depth@|@profonditæ@
+@deputy@|@deputòu@
+@descent@|@deschinâ@
+@desert@|@dezèrto@
+@desk@|@scrivanîa@
+@desolate@|@scamoròu@
+@despair@|@sconfòrto@
+@despatch@|@spediçión@
+@desperate@|@despiòu, desperòu@
+@desperately@|@a-a despiâ@
+@desperation@|@desperaçión@
+@despite@|@invêce de, a despêto de@
+@dessert@|@dôçe (nm)@
+@destiny@|@destìn, sòrte (nf)@
+@destitute@|@zenzìggio@
+@destruction@|@distruçión, sconquàscio@
+@development@|@svilùppo@
+@device@|@dispoxitîvo@
+@devil@|@diâo@
+@dew@|@rozâ (nf)@
+@dialect@|@dialétto@
+@diamond@|@diamànte@
+@diapers@|@patæli (nmpl)@
+@diarrhea@|@scorentìnn-a@
+@diarrhoea@|@scorentìnn-a@
+@dice@|@dàddo@
+@dice (pl)@|@dæ (nmpl)@
+@dick (vulg.)@|@belìn (volg.), zóbbo (volg.)@
+@dictation@|@detatûa@
+@dictatorship@|@ditatûa@
+@dictionary@|@diçionâio, vocabolâio@
+@didactics@|@didàtica@
+@diet@|@diêta@
+@difference@|@diferénsa@
+@different@|@despægio, divèrso@
+@difficult@|@difìçile@
+@dining room@|@salamanxê (nf)@
+@dinner@|@çénn-a@
+@diplomatic@|@diplomàtico@
+@direct@|@dirètto@
+@direction@|@direçión@
+@director@|@diretô@
+@dirt@|@brutô, porcàia@
+@dirtiness@|@brutô@
+@dirty@|@sùcido@
+@disadvantageous@|@sconveniénte@
+@disappearance@|@sconpàrsa@
+@disarrangement@|@confuxón@
+@disaster@|@dizàstro, squàscio, sconquàscio@
+@discarding@|@scàrto@
+@disclosure@|@rivelaçión@
+@discouraged@|@avilîo@
+@discovery@|@scovèrta@
+@disdain@|@desprêxo@
+@disease@|@mâ (nm), malatîa (it.), moutîa@
+@disgust@|@àfou (ant.), schìnfio, schîfo@
+@disgusting@|@schifôzo, schinfiôzo@
+@dish@|@piâto@
+@dish rack@|@vascelæa, bascelæa@
+@dishcloth@|@picagétta@
+@disheartened@|@avilîo@
+@dishware@|@teràggia@
+@disorder@|@confuxón@
+@dispirited@|@avilîo@
+@displeasure@|@despiaxéi, dispiaxéi@
+@disproportionate@|@sproporçionòu@
+@disregard@|@desprêxo@
+@distance@|@distànsa@
+@distant@|@lontàn@
+@distress@|@angóscia, crùçio, magón@
+@distressed@|@amagonòu, angosciòu, sciâtòu@
+@distribution@|@distribuçión@
+@distributor@|@distributô@
+@district@|@rión, borgâ, quartê@
+@diver@|@magrón@
+@diversity@|@diverscitæ@
+@divided@|@divîzo@
+@division@|@divixón@
+@do it slowly!@|@dàgghe cianìn!@
+@do you speak English?@|@ti pàrli l'ingléize?@
+@do you speak Genoese?@|@ti pàrli o zenéize?@
+@do you speak Ligurian?@|@ti pàrli o zenéize?@
+@dock@|@barchìnn-a, dàrsena@
+@dockworker@|@portoâle@
+@doctor@|@dotô, mêgo@
+@doctrine@|@dotrìnn-a@
+@dog@|@càn@
+@dog collar@|@colæn do càn (nm), goìggio do càn (nm)@
+@dog lead@|@strilæn (nm)@
+@dogfish@|@squæo@
+@Dolceacqua (IM)@|@Dosàiga, Dôsàiga@
+@Dolcedo (IM)@|@Dolcêo@
+@doll@|@banbòccia, popón, popónn-a@
+@dollar@|@dòlaro@
+@dolphin@|@derfìn@
+@domestic@|@domèstico@
+@donkey@|@âze@
+@don't bother@|@no stâ a sciugâ (pop.)@
+@don't worry!@|@làscia pèrde!@
+@doodle@|@scarabòccio@
+@door@|@pòrta@
+@doorkeeper@|@goardiàn@
+@doorman@|@portê@
+@dormouse@|@gî (nm)@
+@dose@|@préiza@
+@double@|@dópio@
+@doubt@|@dùbio@
+@doubtful@|@vacilànte@
+@doubts@|@dùbbi (mpl)@
+@dough@|@màssa, pàsta@
+@down@|@in zu, zu@
+@down the street@|@pe stràdda@
+@down there@|@lazù@
+@downhearted@|@abatûo@
+@downhill@|@in deschinâ@
+@download@|@descaregaménto@
+@downpour@|@ramâ d'ægoa (nf), ægoàssa, sgoasón@
+@downtown@|@céntro, çéntro@
+@downward@|@in deschinâ@
+@downward slope@|@deschinâ@
+@dozen@|@dozénn-a@
+@draft@|@abòsso@
+@dragonfly@|@masapræve (nm)@
+@drama@|@dràmma@
+@dreadful@|@pèscimo@
+@dreggy@|@stórbio@
+@dressed@|@vestîo (ag.)@
+@dribble@|@sbavatûa, bâva@
+@dried@|@sécco@
+@dried cod@|@stochefìsce (nm)@
+@dried cod in a sauce@|@stochefìsce acomodòu@
+@dried salt-cured cod@|@bacalà (nm)@
+@drill@|@verìnn-a@
+@driver@|@sciafeur@
+@drizzle@|@sprùzzo, baixìnn-a, sproìn (nm)@
+@dromedary@|@dromedâio@
+@drop@|@stìssa, góssa@
+@drop by drop@|@a góssa a góssa@
+@drought@|@sésia@
+@drowsy@|@adormîo, adormigiòu@
+@drug@|@dröga@
+@drug addict@|@drogòu@
+@drug addiction@|@dipendénsa da dröga@
+@drug-addicted@|@drogòu@
+@drum@|@tanbûo@
+@drunk@|@inbriægo, inbriægòu, inbrægo, inbriegón@
+@dry@|@sécco, sciûto@
+@dry climate@|@sciughêa@
+@dryness@|@sechêa@
+@dry-stone wall@|@miâgia a sécco@
+@duck@|@ània, ànitra@
+@ducked@|@quàccio@
+@duke@|@dùcca (nm)@
+@dumb@|@abelinòu, babilàn, bertoêla (nf), tanacùcco, tanàrdo, tanberlàn@
+@dumbed@|@aloòu@
+@dummy@|@benàrdo (ag.), panisón, panpalûgo, tarlùcco@
+@during@|@durànte@
+@dusk@|@fâ da séia (nm)@
+@dust@|@pûa@
+@dustman@|@rumentâ (nm)@
+@duty@|@dovéi (nm)@
+@duvet@|@ciumìn@
+@dwarf@|@nâno@
+@each@|@ògni@
+@each one (f)@|@ògnidùnn-a@
+@each one (m)@|@ògnidùn, ògnùn@
+@eagerness@|@aviditæ@
+@eagle@|@àgogia, àquila@
+@ear@|@oêgio@
+@earflap@|@creuvioêge (nm)@
+@early@|@présto, de bon'ôa, fîto@
+@earring@|@oêgìn (nm), pendìn@
+@earth@|@tæra@
+@earthenware pitcher@|@àmoa@
+@earthenware pot@|@tiàn de tæra (nm)@
+@earthquake@|@teremöto, sìsma, scìsma (nm), teramòtto@
+@earthworm@|@lonbrîgo@
+@earwax@|@porcàia de oêge (nf)@
+@ease@|@façilitæ@
+@easiness@|@façilitæ@
+@East@|@levànte, est, Oriénte@
+@Easter@|@Pàsqua@
+@easy@|@fàçile@
+@easy-minded@|@benàrdo (ag.), panisón, panpalûgo, tarlùcco@
+@eaves@|@canâ (nm), grónda@
+@ebony@|@ébano@
+@echo@|@reciòcco, êco@
+@ecology@|@ecologîa@
+@economical@|@econòmico@
+@economy@|@economîa@
+@ecstasy@|@èstaxi (nf)@
+@ecstatic@|@infervoròu@
+@Ecuador@|@Equadòr@
+@Ecuadorean@|@equatoriàn, equadorégno@
+@Ecuadorian@|@equatoriàn, equadorégno@
+@edging@|@oêxìn@
+@edition@|@ediçión@
+@editor@|@editô, stanpòu (nm)@
+@educated@|@istroîo@
+@education@|@educaçión@
+@educational@|@educatîvo@
+@educator@|@educatô@
+@Edward@|@Doàrdo@
+@eel@|@anghìlla@
+@effect@|@efètto@
+@effective@|@efetîvo@
+@effeminate@|@aboliciòu, adonetòu, efeminòu@
+@egg@|@êuvo@
+@eggplant@|@meizànn-a@
+@eggs@|@êuve (fpl)@
+@Egoli (GE)@|@Êgoi@
+@Egypt@|@Egìtto@
+@Egyptian@|@egiçiàn@
+@eiderdown@|@ciumìn@
+@eight@|@éutto@
+@eighteen@|@dixéutto@
+@eighteenth@|@deximotâvo, dixeutén@
+@eighth@|@òtâvo@
+@eighty@|@òtànta@
+@elastic@|@elàstico@
+@elbow@|@gómio@
+@elder@|@magiô, magiôre@
+@elder (Botanical)@|@sanbûgo@
+@elder man@|@ansiàn@
+@eldest son@|@primogénito@
+@election@|@eleçión@
+@elector@|@eletô@
+@electrical@|@elétrico@
+@electricity@|@eletricitæ@
+@elegance@|@gàibo, elegànsa@
+@elegant@|@elegànte@
+@element@|@eleménto@
+@elementary@|@elementâ@
+@elephant@|@elefànte@
+@eleven@|@ùnze@
+@eleventh@|@deximoprìmmo, unzén@
+@Elisabeth@|@Zabélla@
+@elm tree@|@órmo@
+@embroiderer@|@recamadô (nm), recamadôa (nf)@
+@emergency@|@emergénsa@
+@emetic@|@vomitîvo@
+@emigrant@|@emigròu@
+@emigration@|@emigraçión@
+@emotion@|@emosción@
+@emperor@|@inpeatô, inperatô@
+@emphasis@|@énfaxi (nf)@
+@empire@|@inpêro, inpêo@
+@employed@|@dipendénte@
+@employee@|@dipendénte, inpiegòu@
+@employer@|@bacàn@
+@employment@|@inpiêgo@
+@empty@|@véuggio (Savona), vêuo@
+@encyclopaedia@|@ençiclopedîa@
+@end@|@fìn (nf), pónta, finâ (nm), finâle@
+@endive@|@risétto@
+@enemy@|@nemîgo@
+@energy@|@asbrîo, energîa@
+@engineer@|@inzegnê@
+@England@|@Inghiltæra@
+@English@|@ingléize@
+@English (pl)@|@ingléixi@
+@Englishmen@|@ingléixi@
+@enjoy your meal!@|@bón apetìtto!@
+@enjoyment@|@gödiménto@
+@enough@|@abàsta, abastànsa@
+@entertaining@|@diverténte@
+@entire@|@intrêgo@
+@entourage@|@ségoito@
+@entrance@|@intrâ (nf)@
+@envelope@|@anvelóppe, bùsta (nf)@
+@envious@|@invidiôzo@
+@environment@|@anbiénte@
+@envy@|@invìdia@
+@epidemic@|@epidemîa, pèsta@
+@Epiphany@|@Pasquêta@
+@equal@|@egoâle, pægio@
+@equation@|@equaçión@
+@Equator@|@Equadòr@
+@erection@|@ereçión@
+@Ernest@|@Nèsto@
+@error@|@erô@
+@eruption@|@eruçión@
+@escape@|@scapaménto, fûga@
+@escarole@|@scaròlla, risétto@
+@especially@|@tànto ciù@
+@essence@|@esénsa@
+@essential@|@esensiâle@
+@established@|@stabilîo@
+@establishment@|@stabiliménto@
+@Estonia@|@Estònia@
+@Estonian@|@èstone@
+@estuary@|@fôxe (nf)@
+@eternally@|@in etèrno@
+@Ethiopia@|@Etiòpia@
+@Ethiopian@|@etîope, etiòpico@
+@Eugene@|@Génio@
+@euro@|@éoro@
+@Europe@|@Ouröpa@
+@European Union@|@Unión Ouropêa@
+@Eusebius@|@Zéuggio@
+@even@|@adreitûa, mîga@
+@even if@|@quend'ànche@
+@even so@|@ànche coscì, epûre@
+@even though@|@benché, scibén che, ànche se@
+@even when@|@quend'ànche@
+@evening@|@séia, seiànn-a@
+@event@|@evénto@
+@eventually@|@se mâi@
+@ever@|@mâi@
+@every@|@ògni@
+@every now and then@|@ògni tànto@
+@every time@|@ògni vòtta@
+@everybody (f)@|@tùtte (fpl)@
+@everybody (m)@|@tùtti (mpl)@
+@everything@|@tùtto@
+@everywhere@|@dapertùtto@
+@evil@|@mâ (nm)@
+@exact@|@ezàtto@
+@exaggerated@|@ezageròu@
+@exaggeration@|@ezageraçión@
+@exam@|@verìfica@
+@example@|@ezénpio@
+@excavation@|@scâvo@
+@excellence@|@ecelénsa@
+@excellent@|@ecelénte@
+@except@|@ecétto, levòu, ecètto@
+@exception@|@eceçión@
+@exceptional@|@eceçionâle@
+@excercise@|@ezercìçio@
+@excess@|@ecèsso@
+@excessive@|@ecesîvo@
+@exchange@|@càngio, scàngio, tràfego@
+@excited@|@sciâtòu@
+@exclamation@|@esclamaçión@
+@exclusive@|@escluxîvo@
+@exclusively@|@escluxivaménte@
+@excommunication@|@scomìniga@
+@excuse@|@scûza, perdón@
+@excuse me! (formal)@|@scia me scûze!@
+@excuse me! (pl.)@|@scuzæme!@
+@excuse me! (sing.)@|@scûzime!@
+@exhaust pipe (vehicle's)@|@canâ da màchina (nf)@
+@exhausted@|@derenòu@
+@exhaustion@|@giamìn@
+@exit@|@sciortîa@
+@exotic@|@ezòtico@
+@expansion@|@espansción@
+@expedition@|@spediçión@
+@expenditure@|@spéiza@
+@expensive@|@câo (ag.)@
+@expert@|@aspèrto@
+@expertise@|@aspertîxe (nf)@
+@expiration@|@scadénsa@
+@exploration@|@esploraçión@
+@explosion@|@esploxón@
+@explosive@|@esploxîvo@
+@explosive (n)@|@bónba@
+@export@|@esportaçión@
+@express@|@esprèsso@
+@exquisite@|@squizîo@
+@extended@|@destéizo@
+@extension@|@estensión@
+@external@|@estèrno@
+@extreme@|@estrêmo@
+@eye@|@éuggio@
+@eyeglasses@|@spegétti (mpl)@
+@eyelash@|@séggia, çéggia@
+@eyelashes@|@ségge (nfpl), çégge (nfpl)@
+@eyelid@|@parpélla@
+@eyesight@|@vìsta, vixón@
+@fable@|@föa@
+@fabric@|@tesciûo, têia@
+@fabulous@|@fantàstico@
+@face@|@fàccia@
+@fact@|@fæto (nm)@
+@factory@|@fàbrica@
+@faculty@|@facoltæ@
+@fag-end@|@cû de sigâro@
+@failure@|@insucèsso@
+@fair@|@fêa, giùsto@
+@fair price@|@prêxo raxonòu@
+@fairy@|@fâta (it.), foæ (nf)@
+@faith@|@créddo, fêde (nf)@
+@falcon (bird)@|@farchétto@
+@fall@|@chéita, outùnno@
+@false@|@postìsso, fâso, fâsci (mpl), fâse (fpl)@
+@false note (sound)@|@stonatûa@
+@family@|@famìggia@
+@famous@|@famôzo@
+@fan@|@ghìndou@
+@fantastic@|@fantàstico@
+@far@|@lontàn@
+@far out at sea@|@a-o làrgo@
+@farmer@|@alevatô@
+@farmworker@|@manénte (nm)@
+@fart@|@pêto@
+@fascinating@|@afascinànte@
+@fashion@|@mòdda@
+@fast@|@velôce, fîto, spedîo (ag.), présto, svèlto, spedîo@
+@fasting@|@zazùn@
+@fat@|@gràsso@
+@fat (n)@|@gràscia (nf)@
+@father@|@poæ (nm)@
+@Father (religious)@|@pàddre@
+@father-in-law@|@sêuxoo@
+@faucet@|@robinétto (it.), bronzìn, rubinétto (it.)@
+@fault@|@difètto@
+@favour@|@favô, piaxéi (nm), servîxo@
+@favourite@|@preferîo, favorîo@
+@fear@|@poîa@
+@feast day@|@festivitæ@
+@feather@|@pénna@
+@February@|@frevâ@
+@feeble@|@rinbanbîo@
+@feeble-minded@|@deficénte@
+@feet@|@pê@
+@female@|@feminîle@
+@feminine@|@feminîle, feminìn@
+@fencing@|@scrìmma@
+@fennel@|@fenôgio@
+@Fereggiano (river of Genoa)@|@Fêuxàn@
+@fern@|@frêxa@
+@fertility@|@fertilitæ@
+@fervour@|@fervô@
+@festivity@|@festivitæ@
+@festoon (decoration)@|@festón@
+@few@|@ræo, pöco@
+@fibrous@|@stopôzo (o mangiâ)@
+@fife@|@pìnfou, pìfero@
+@fifteen@|@chìnze@
+@fifteen hours@|@chìnz'ôe@
+@fifteen years@|@chìnz'ànni@
+@fifteenth@|@deximochìnto, chinzén@
+@fifth@|@chìnto, quìnto@
+@fifty@|@çinquànta@
+@fig tree@|@èrbo de fîgo@
+@fight@|@lótta, rìscia@
+@figurehead@|@prestanómme@
+@file@|@archìvio@
+@filled meat rolls (Liguria)@|@tomaxèlle (fpl)@
+@film@|@fìlm (nm), filmòu (nm), cîne (nm)@
+@filthy@|@schinfiôzo, schifôzo@
+@fin@|@âa (nf)@
+@finally@|@a-a fìn, infìn, in sciâ fìn, finarménte, finalménte@
+@fine (f)@|@fìnn-a (ag.f)@
+@fine (m)@|@fìn@
+@fine (n)@|@mùrta, mùlta@
+@finger@|@dîo (nm)@
+@Finland@|@Finlàndia@
+@Finnish@|@finlandéize@
+@Finocchiara (Genoese river)@|@Fenogiæa@
+@fire@|@fêugo@
+@fire shovel@|@pæta@
+@firecracker@|@fùrgou (ant.), petàrdo, trichetràcche (nm)@
+@firefighter@|@ponpê@
+@firefly@|@ciæbèlla@
+@fireman@|@ponpê@
+@firewood@|@légna@
+@first@|@prìmmo@
+@first of all@|@prìmma de tùtto@
+@firstborn@|@primogénito@
+@fish@|@péscio@
+@fish dealer@|@pesciâ (nm), pesciaieu@
+@fish dealer (f)@|@pesciæa@
+@fish shop@|@pescherîa, peschêa@
+@fishbone@|@rèsca@
+@fisherman@|@pescòu@
+@fisherwoman@|@peschéuia, peschêuia@
+@fishing rod@|@çiméllo@
+@fishmonger@|@pesciâ (nm), pesciaieu@
+@fishmonger (f)@|@pesciæa@
+@fishmonger's@|@peschêa, pescherîa@
+@fissure@|@avenéuia, crepatûa@
+@fit@|@scciupón@
+@fit of rage@|@scciupón de fótta@
+@five@|@çìnque@
+@fizz (drink)@|@vìn ch'o scciùmma, vìn co-o raspànte@
+@flag@|@bandêa@
+@flail@|@vèrga, verzélla@
+@flame@|@fiàmma, sciàmma@
+@flank@|@fiànco, sciànco (pop.)@
+@flash of lightning@|@lànpo@
+@flask@|@flacón@
+@flattery@|@luxìnga@
+@flatware@|@teràggia@
+@flavour@|@savô@
+@flea@|@prûxa@
+@flick (with finger)@|@micelâ (nf)@
+@flight@|@sghêuo, vöo (Savona), xòu, xêuo@
+@flip-flop@|@sciarbèlla, savàtta@
+@flirtation@|@amoezaménto@
+@flock@|@sciàmmo@
+@flock of birds@|@sciàmmo d'öxélli@
+@flock of sheep@|@màndra de pêgoe@
+@flooding@|@inondaçión@
+@Florentine (from Florence)@|@fiorentìn@
+@flour@|@fænn-a@
+@flower@|@fiôre (it.)(nm), sciô (nf), sciôa (Savona)@
+@flower (diminutive)@|@scioétta, scioetìnn-a@
+@flowering@|@in sciô (av.)@
+@flowerpot@|@vâzo@
+@flowers@|@scioî (nfpl)@
+@flu@|@infloénsa@
+@fluff@|@ciumìn@
+@flute@|@flòuto, flàoto@
+@fly (n)@|@mósca@
+@fly of trousers@|@sportigêua@
+@foam@|@scciùmma@
+@Foce (GE)@|@Fôxe@
+@fog@|@néggia@
+@folder@|@cartélla@
+@folding@|@cegæso, da serâ@
+@folding bed@|@brànda (nf)@
+@following@|@segoénte@
+@following each other@|@de fîa@
+@Fontanigorda (GE)@|@Fontanegórda@
+@food@|@pìtto, nutriménto, aliménto, mangiâ (nm)@
+@fool@|@balórdo, bertoêla (nf)@
+@foolish@|@balórdo, bödisón@
+@foolishness@|@âzenàia, nesciàia, bàciara, mincionàia@
+@foot@|@pê@
+@footlocker@|@bàilo@
+@footstep@|@órma@
+@for@|@pe@
+@for a long time@|@a lóngo@
+@for all the worth@|@a ciù no pòsso@
+@for example@|@per ezénpio, prezénpio@
+@for God's sake@|@pe amô de Dîo@
+@for hours@|@pe de ôe@
+@for nothing@|@pe nìnte@
+@for now@|@pe òua, pe-o moménto@
+@for pity's sake@|@pe cortexîa@
+@for sure@|@pe fòrsa, segûo@
+@for the (fpl)@|@pe-e@
+@for the (fsing)@|@pe-a@
+@for the (mpl)@|@pe-i@
+@for the (msing)@|@pe-o@
+@for the best@|@in mêgio@
+@for the moment@|@pe òua, pe-o moménto@
+@for the rest@|@pe-o rèsto@
+@for the time being@|@pe òua, pe-o moménto@
+@forbidden (f)@|@vietâ (ag.f)@
+@forbidden (m)@|@vietòu@
+@force@|@fòrsa@
+@forecast@|@previxón@
+@foregoer@|@precorsô@
+@forehead@|@frónte (nf)@
+@foreigner@|@forèsto, foestê@
+@forest@|@forèsta, bòsco@
+@forest region@|@zèrbo@
+@forever@|@pe de lóngo, pe sénpre@
+@forgive me!@|@perdónime!@
+@forgive me! (polite)@|@scia me perdónn-e!@
+@forgiveness@|@perdón@
+@forgotten@|@ascordòu@
+@fork@|@forçìnn-a@
+@formerly@|@'n'òtta (pop.), 'na vòtta, unna vòtta@
+@formula@|@fórmola@
+@fort@|@fortéssa@
+@forth@|@avànti@
+@forthright@|@drîto (ag.)@
+@fortnight@|@chinzénn-a@
+@fortress@|@fortéssa@
+@fortunately@|@ancoasæ che, ancón d'asæ che@
+@fortune@|@fortùnn-a, ventûa@
+@forward@|@davànti, avànti@
+@fountain@|@róggio@
+@four@|@quàttro@
+@fourteen@|@quatòrze@
+@fourteen hours@|@quatòrz'ôe@
+@fourteen years@|@quatòrz'ànni@
+@fourteenth@|@quatorzén, deximoquàrto@
+@fourth@|@quàrto@
+@fourty@|@quarànta@
+@fox@|@vórpe (nf)@
+@fraction@|@fraçión@
+@fragment@|@pestùmmo@
+@fragrance@|@fragrànsa@
+@fragrant@|@fragrànte@
+@frame@|@cornîxe (nf)@
+@France@|@Frànsa@
+@franchise@|@franchîxe (nf)@
+@Francis@|@Françésco, Césco, Chécco@
+@Frank@|@Frànco@
+@fraud@|@fròuxo, gazìbba, sfròuxo, trùffa (it.)@
+@free@|@lìbero@
+@free (costing nothing)@|@gratoîo, de bàdda, a-a giàbba@
+@freedom@|@libertæ@
+@freight@|@spediçión@
+@French@|@franséize@
+@frenum@|@filétto da léngoa@
+@frequent@|@frequénte@
+@fresh@|@frésco@
+@Friday@|@venardì, venerdì@
+@fried@|@frîto@
+@fried chickpea-flour cakes (Liguria)@|@fétte (nfpl)@
+@fried food@|@fritùmme (nm)@
+@frieght@|@nöo, nölo (it.)@
+@friend@|@amîgo@
+@friendliness@|@scinpatîa@
+@friendship@|@amicìçia@
+@fright@|@resâto, spavénto, poîa@
+@Frisian@|@frizón@
+@fritter@|@frisceu@
+@Friulian@|@furlàn@
+@frog@|@rànn-a, ræna@
+@from@|@da@
+@from (high place)@|@d'in sce@
+@from Barcelona (Catalonia)@|@barçelonéize@
+@from Bargaggi (GE)@|@bargagìn@
+@from Bordighera (IM)@|@bordigòtto@
+@from Camogli (GE)@|@camogìn@
+@from Chiavari (GE)@|@ciavaìn@
+@from Cicagna (GE)@|@cicagnìn@
+@from Cogorno (GE)@|@cogornìn@
+@from Cornigliano (GE)@|@cornigiòtto@
+@from Dolceacqua (IM)@|@dosaighìn, dôsaighìn@
+@from Foce (GE)@|@foxàn@
+@from inside...@|@d'inte...@
+@from La Brigue (in France after WWII)@|@brigàsco@
+@from La Spezia (SP)@|@spezìn@
+@from Milan (Lombardy)@|@milanéize@
+@from Nice (France)@|@nisàrdo@
+@from Pentema (GE)@|@pentemìn@
+@from Pisa (Tuscany)@|@pizàn@
+@from Portoria (GE)@|@portoliàn@
+@from Pra (GE)@|@praìn@
+@from Recco (GE)@|@rechelìn@
+@from Sampierdarena (GE)@|@sanpedænìn@
+@from San Remo (IM)@|@sanremàsco@
+@from Savona (SV)@|@savonéize@
+@from Seborga (IM)@|@seborghìn@
+@from Sessàrego (GE)@|@sesægo (ag.)@
+@from Sestri (GE)@|@sestrìn@
+@from Tabarka (Tunisia)@|@tabarchìn@
+@from the (fpl)@|@da-e@
+@from the (fsing)@|@da-a@
+@from the (mpl)@|@da-i@
+@from the (msing)@|@da-o@
+@from time to time@|@ògni tànto@
+@from Torriglia (GE)@|@torigìn@
+@from Turin (Piedmont)@|@torinéize@
+@from where@|@da dôve, dónde@
+@frost@|@brìnn-a, zêo@
+@frozen@|@ziòu@
+@fruit@|@frûta, frûto@
+@fruit bowl@|@piâto da frûta@
+@fruit worm@|@zânéllo@
+@fruiterer (f)@|@regatónn-a@
+@fry-up@|@fritùmme (nm)@
+@frying pan@|@poêla@
+@fuck! (vulg.)(excl.)@|@belìn! (volg.)@
+@fugue@|@fûga@
+@full (fpl)@|@pìnn-e@
+@full (fsing)@|@pìnn-a@
+@full (mpl)@|@pìn@
+@full (msing)@|@pìn@
+@full moon@|@lùnn-a pìnn-a@
+@Fumeri (GE)@|@Fumæri@
+@fun@|@demôa, divertiménto, scianpràdda, ribòtta, axìllo@
+@function@|@fonçión, fonsión@
+@funeral@|@funerâle@
+@funnel@|@tortaieu@
+@funny@|@diverténte@
+@fur@|@pelàmme@
+@fur coat@|@pelìssa@
+@furniture@|@mobìlia (nf)@
+@furrow-weed@|@léuggio@
+@furthermore@|@pe de ciù@
+@fusion@|@fuxón@
+@Gallaneto (GE)@|@Galanæo@
+@Gallinara (island)@|@Galinæa@
+@gallop@|@galòppo@
+@galloping up@|@a-o galòppo@
+@gallows@|@fórca@
+@galore@|@a batagión, a bezèffe, a dezêuvio, a mùggi, a rêo@
+@game@|@partîa, zêugo@
+@game of chance@|@zêugo d'azàrdo@
+@gang@|@cabìrda@
+@garage@|@remìssa@
+@garbage@|@ruménta@
+@garbage collector@|@rumentâ (nm)@
+@garbage room@|@rumentêa@
+@garden@|@giardìn@
+@garden cress@|@cresción@
+@gardener@|@giardinê@
+@Garibaldo (GE)@|@Gaibâdo@
+@garlic@|@àggio@
+@garlic and vinegar sauce@|@agiàdda@
+@garment@|@vestî (nm)@
+@gas@|@gàzzo@
+@gate@|@portón, portâ (nm)@
+@gathered@|@acugéito@
+@Gattorna (GE)@|@Gatórna@
+@Gavi (Piedmont)@|@Gâvi@
+@Gazzolo (GE)@|@Gazeu@
+@gendarme@|@xandàrme (nm)@
+@general@|@generâle@
+@generation@|@generaçión@
+@generosity@|@generozitæ@
+@generous@|@generôzo@
+@Genoa (GE)@|@Zêna@
+@Genoese@|@zenéize@
+@Genoese spirit@|@zeneixitæ@
+@genre@|@génere (nm)@
+@gentleman@|@gentilòmmo, scignôro@
+@gently@|@cianìn, adâxo@
+@genuine@|@sccétto@
+@genuineness@|@sccetéssa@
+@George@|@Zòrzo@
+@German@|@tedésco@
+@German measles@|@rosàzze (fpl)@
+@Germany@|@Germània@
+@gerund@|@gerùndio@
+@gesture@|@ségno@
+@gewgaw@|@ciaràffo, fociâra@
+@giant@|@gigànte@
+@gift@|@regàllo@
+@gigolo@|@xatâ (nm)@
+@gimlet@|@verìnn-a@
+@ginger@|@zénzou@
+@Gioventina (GE)@|@Zoentìnn-a@
+@girl@|@pivélla@
+@girl of marrying age@|@fìggia da màio@
+@girlfriend@|@galànte (nf)@
+@give me!@|@dàmme!@
+@giveaway (sale)@|@sbaràsso@
+@glad (f)@|@alêgra@
+@glad (m)@|@alêgro@
+@glare@|@risblandô@
+@glass (for liquid)@|@gòtto@
+@glass (material)@|@véddro, vréddo@
+@glass canning jar@|@arbanèlla@
+@glass of water@|@gòtto d'ægoa@
+@glasses (eye)@|@spegétti (mpl)@
+@glazier@|@vedrâ (nm)@
+@gleam@|@barlùmme, risblandô@
+@gleaming@|@lùstro (ag.), brilànte@
+@globe@|@glöbo@
+@gloomy@|@lùvego, intristîo@
+@glorious@|@gloiôzo@
+@glory@|@glòria@
+@glove@|@goànto@
+@glow@|@barlùmme@
+@glutton@|@ghiòtto@
+@go away! (you)@|@vàtene vîa!@
+@Go figure!@|@amîa 'n pö!, mîa 'n pö!, pénsa 'n pö!, chi l'aviéiva mâi dîto?@
+@go slowly!@|@dàgghe cianìn!@
+@go! (you)@|@vànni!@
+@goat@|@crâva@
+@God@|@Dîo, Dê@
+@goddaughter@|@figiòssa@
+@godfather@|@poìn@
+@godmother@|@moìnn-a@
+@godson@|@figiòsso@
+@going for a stroll@|@a spàsso, in gîo, a babà@
+@gold@|@öo@
+@golden@|@d'öo@
+@golden eagle@|@àquila reâ@
+@goldfinch@|@cardænn-a@
+@goldsmith@|@fràvego@
+@good (fpl)@|@bónn-e@
+@good (fsing)@|@bónn-a@
+@good (mpl)@|@boìn@
+@good (msing)@|@bón@
+@good afternoon!@|@bónn-a séia!@
+@good evening!@|@bónn-a séia!@
+@good humour@|@giromîa@
+@good luck!@|@bónn-a fortùnn-a!@
+@good man@|@brâv'òmmo@
+@good manners (pl)@|@bèlle mainêe (fpl)@
+@good morning!@|@bongiórno!@
+@good night!@|@bónn-a néutte!@
+@good sense@|@sæximo@
+@good will@|@bónn-a voentæ@
+@goodbye@|@adîo@
+@goodbye!@|@ciâo!@
+@goodbye! (respectful)@|@scignorîa!@
+@good-for-nothing@|@pöco de bón (nm)@
+@good-humoured@|@de giromîa@
+@goods@|@mèrçe (nf)@
+@goose@|@öca@
+@gooseberry@|@ûga spìnn-a@
+@gorgeous@|@stupéndo@
+@gorilla@|@gorìlla@
+@Gorra (SV)@|@Gôra@
+@Gorreto (GE)@|@O Gorêio@
+@gospel@|@vangêlo@
+@gossip@|@ciæti@
+@gout@|@podrâga@
+@government@|@govèrno@
+@governor@|@governatô@
+@grace@|@gàibo@
+@grain@|@grànn-a@
+@granary@|@granâio@
+@granddaughter@|@néssa@
+@grandfather@|@mesiâvo, nònno@
+@grandfather clock@|@relêuio a péndolo@
+@grandmother@|@nònna, madonâva, madonâ@
+@grandson@|@nêo, nêvo@
+@grandson (diminutive)@|@neétto, nevétto@
+@grape@|@ûga@
+@grape harvest@|@vendégna@
+@grapefruit@|@ponpélmo@
+@grapes@|@ûghe (fpl)@
+@grappa@|@ràppa@
+@gratefulness@|@ringraçiaménto@
+@grater@|@gratænn-a@
+@gratitude@|@riconoscénsa@
+@grave@|@tónba, seportûa@
+@gravedigger@|@becamòrto, becalìn@
+@gravel@|@pôvìn (nm)@
+@grazing land@|@schéussa (nf)@
+@greasing@|@vontùmme (nm)@
+@greasy@|@gràsso@
+@greasy hair@|@cavélli gràsci (mpl)@
+@great@|@bonìscimo, magnìfico@
+@Great Britain@|@Gràn Bretàgna@
+@greater@|@magiôre, magiô@
+@greatest@|@màscimo@
+@Greece@|@Grêcia@
+@greedy@|@avâro, avâo, ghiòtto, pignavèrde@
+@greedy man@|@arpagón, avarón, pìgna (fig.), pìtima (nm)@
+@Greek@|@grêgo@
+@green@|@vèrde@
+@greengrocer@|@bezagnìnn-a@
+@greengrocer (f)@|@regatónn-a@
+@greenish@|@verdàstro@
+@greeting@|@salûo@
+@greetings@|@salûi (nmpl)@
+@Gregory@|@Grigheu@
+@grey@|@grixofæro, grîxo@
+@grief@|@crepacheu (nm), magón, sconfòrto, angóscia@
+@grill@|@grixélla@
+@Grondona (Piedmont)@|@Grondónn-a@
+@groping around@|@a l'atàsto@
+@gross@|@òrdenâio@
+@gross mistake@|@stranbòtto, sgoarón@
+@grotto@|@gròtta@
+@ground@|@tæra@
+@group@|@insémme (nm), grùppo@
+@grudge@|@rouxîa@
+@guard@|@cantonê@
+@guardian@|@goardiàn@
+@guardian angel@|@àngiou custöde@
+@guest@|@invitòu, òspite (nm)@
+@guide@|@goìdda@
+@guitar@|@chitâra@
+@gulf@|@górfo@
+@gull (bird)@|@öchìn, gabiàn, öchìn de mâ (nm)@
+@gum@|@gómma@
+@gum (in mouth)@|@zenzîa@
+@gunpowder@|@pôvie (nfsing)@
+@gurnard (fish)@|@capón@
+@gust@|@ràfega@
+@gut@|@intestìn@
+@guts@|@ventràggi (nmpl)@
+@Gypsies@|@sìngai (mpl)@
+@Gypsy@|@sìngou@
+@habit@|@àndio, abitùdine@
+@Hadrian@|@Adriàn@
+@hail@|@gragnêua@
+@hair dryer@|@sciugacavélli (nm)@
+@hair loss@|@pèrdia di cavélli (nf)@
+@hairdresser@|@peruchê, pêtenæa@
+@hairstylist@|@peruchê, pêtenæa@
+@hale@|@regagîo@
+@half@|@meitæ, a meitæ, mêzo@
+@half-dead@|@mêzo mòrto@
+@ham@|@xanbón, prezùtto@
+@hamlet@|@vilàggio, paizìn, borgàdda@
+@hand@|@màn@
+@handful@|@magnâ@
+@handkerchief@|@mandìllo@
+@handle@|@manéggia, mànego@
+@handmade@|@artexanâle, fæto a màn@
+@handrail@|@ringhêa@
+@hands@|@màn, moén (fpl)@
+@hanging@|@apéizo@
+@haphazardly@|@a-a rinfûza, a-a sbæra@
+@happily@|@alegraménte@
+@happy (f)@|@alêgra@
+@happy (m)@|@alêgro@
+@happy Easter!@|@Bónn-a Pàsqua!@
+@harbor@|@pòrto@
+@harbor (diminutive)@|@portixeu@
+@hard@|@dûo, difìçile@
+@hard worker@|@laboriôzo@
+@hardly@|@a fadîga, a îsa a îsa, a malapénn-a, apénn-a@
+@hardship@|@sténto@
+@hare@|@lêvre (nf)@
+@harlot@|@scorlùsoa, scorlùssa (Savona)@
+@harm@|@mâ (nm)@
+@harmony@|@armonîa@
+@harquebus@|@archebûxo@
+@harquebusier@|@archebuxê (nm)@
+@harsh@|@rùstego, rùdego@
+@haste@|@asbrîo@
+@hastily@|@de premûa, de spréscia@
+@hate@|@òdio@
+@hateful@|@odiôzo@
+@hatred@|@òdio@
+@hatter@|@capelâ (nm)@
+@haughtiness@|@alteréssa, supèrbia@
+@haughty@|@supèrbo, àltero, supèrbio@
+@haul@|@resagiâ (nf)@
+@haunt@|@tànn-a@
+@having a cold@|@acostipòu, rafreidòu, refreidòu@
+@hawk@|@farchétto@
+@hay@|@fén@
+@hazelnut@|@ninsêua (Savona), nisêua@
+@hazy@|@vâgo@
+@he@|@lê@
+@he does@|@lê o fa@
+@he idles@|@lê o l'òçia@
+@he is@|@lê o l'é, o l'é@
+@he knows@|@lê o sà@
+@he puts@|@lê o métte@
+@he says@|@lê o dîxe@
+@he seems@|@lê o pâ@
+@he varies@|@lê o vària@
+@he will be worth@|@lê o variâ@
+@he would do@|@lê o faiéiva/faiæ@
+@he would seem@|@lê o pariéiva/pariæ@
+@head@|@tésta@
+@headache@|@mâ de tésta (nm)@
+@headmaster@|@retô@
+@headphones@|@scófie (nfpl)@
+@heads and tails (on coins)@|@grìffo e crôxe (in scê monæe)@
+@healer@|@mêgón@
+@health@|@salûte (nf)@
+@healthy@|@sàn, in gànba@
+@healthy (f)@|@sànn-a (ag.f)@
+@hearing@|@oêgio@
+@heartburn@|@ardô@
+@heat@|@câdo (nm)@
+@heat (summer)@|@câdûa@
+@heat wave@|@câdûa@
+@heating@|@rescâdaménto@
+@heaven@|@çê (m), paradîzo@
+@heavy@|@pezànte@
+@heavy rain@|@derûo, dilûvio@
+@heavy shower@|@ramâ d'ægoa (nf)@
+@Hebrew@|@ebràico, ebrêo@
+@hedgehog@|@riseu@
+@heel (of shoes)@|@tàcco@
+@height@|@ertéssa, statûa@
+@heir@|@erêde@
+@Helen@|@Élena@
+@hell@|@infèrno@
+@hell! (vulg.)(excl.)@|@belìn! (volg.)@
+@hello!@|@ciâo!, alêgri!@
+@hello! (respectful)@|@scignorîa!@
+@help@|@agiùtto@
+@helter skelter@|@a-a rinfûza, a-a sbæra@
+@hemisphere@|@emisfêro@
+@hen@|@galìnn-a@
+@hen do@|@adîo a-o fantinægo@
+@hen night@|@adîo a-o fantinægo@
+@hen party@|@adîo a-o fantinægo@
+@Henry@|@Rîco@
+@her (f)@|@a seu, a sò@
+@her (m)@|@o seu, o sò@
+@herb@|@èrba@
+@here@|@chi@
+@here and there@|@de sa e de la, in sa e in la@
+@here it is@|@écco@
+@heritage@|@patrimònio@
+@hermit@|@ermìtto@
+@hermitage@|@ermitàggio@
+@hernia@|@èrnia@
+@hero@|@eröe (nm)@
+@Herod@|@Eröde@
+@heron@|@airón@
+@herring@|@ængo@
+@hesitant@|@vacilànte@
+@hesitation@|@ezitaçión@
+@hi!@|@alêgri!, ciâo!@
+@hiccup@|@scingùlto, crescentìn@
+@hidden@|@ascôzo@
+@hide-and-seek@|@scondilô@
+@hiding@|@bòtta@
+@high@|@èrto@
+@high tide@|@èrta marêa, âta marêa@
+@higher@|@magiô, magiôre@
+@high-pitched@|@agùsso@
+@highway@|@outostràdda@
+@Hilarius@|@Ilâio@
+@Hilary (f)@|@Ilâia@
+@Hilary (m)@|@Ilâio@
+@hill@|@zerbìn@
+@Hillary (f)@|@Ilâia@
+@Hillary (m)@|@Ilâio@
+@hillock@|@costigeu@
+@hindrance@|@òstàcolo@
+@hinge@|@màppa (da pòrta), gàngou@
+@hinterland@|@entrotæra (nm)@
+@hip@|@sciànco (pop.), fiànco@
+@his (f)@|@a sò, a seu@
+@his (m)@|@o seu, o sò@
+@historical@|@stòrico@
+@hit@|@córpo@
+@hither@|@in sa@
+@hoarse@|@röco, rantegôzo@
+@hobby@|@pasaténpo@
+@hoe@|@vànga@
+@hole@|@gàrbo, béuggio, pertûzo@
+@holiday@|@fèsta@
+@holidays@|@vacànse (nfpl)@
+@hollow@|@câo (ag.)@
+@hollow (n)@|@cavitæ@
+@holy (f)@|@sànta@
+@holy (m)@|@sâcro, sànto@
+@Holy Land@|@Tæra Sànta@
+@Holy Week@|@Setemànn-a Sànta@
+@homage@|@omàggio@
+@home@|@câza, cà@
+@homeland@|@pàtria@
+@homemade@|@cazængo, de câza@
+@homemade pasta@|@pàsta de câza@
+@homesickness@|@nostalgîa@
+@homosexual@|@òmosesoâle@
+@honest@|@ònèsto@
+@honesty@|@ònestæ@
+@honey@|@amê (nm)@
+@honeycomb@|@brìsca@
+@honour@|@önô@
+@honourable@|@decénte, dégno@
+@hood@|@capùsso@
+@hoof (horse)@|@séucou@
+@hoofs (horse)@|@séucai (mpl)@
+@hook@|@gàncio, làmmo@
+@hooves (horse)@|@séucai (mpl)@
+@horizon@|@orizónte (nm)@
+@horizontal@|@orizontâle@
+@horn@|@còrno@
+@horns@|@còrne (fpl)@
+@horrible@|@òrìbile, òrido, òréndo@
+@horror@|@òrô@
+@horse@|@cavàllo@
+@hospital@|@uspiâ (nm)@
+@hot (m)@|@câdo@
+@hot pepper@|@pevionòtto@
+@hot weather@|@câdo (nm)@
+@hotel@|@albèrgo@
+@hot-tempered@|@nevrasténico@
+@hour@|@ôa (nf)@
+@hours@|@ôe (fpl)@
+@house@|@cà, câza@
+@household@|@domèstico@
+@housekeeper@|@cazænga@
+@housewife@|@cazænga@
+@how@|@cómme@
+@how are you? (formal)@|@comme sciâ sta?@
+@how are you? (informal)@|@comme ti stæ?@
+@how many (f)@|@in quànte, quànte@
+@how many (m)@|@in quànte, quànte@
+@how much@|@quànte@
+@how much (f)@|@quànte@
+@how much does it cost?@|@quànt'o vêgne?, quànt'o vâ?@
+@how much is it worth?@|@quànt'o vâ?@
+@however@|@però@
+@howl@|@lûo@
+@hubbub@|@ramadàn, sciâto, tramelêuio@
+@hug@|@abràsso@
+@huge@|@inménso@
+@Hugh@|@Ûgo@
+@human@|@umàn@
+@human being@|@êse umàn (nm)@
+@humanism@|@umanêximo@
+@humanity@|@umanitæ@
+@humble@|@ùmile, ùmio@
+@humbleness@|@umiltæ@
+@humbug@|@móssa@
+@humid@|@ùmido (ag.)@
+@humidity@|@umiditæ@
+@humiliating@|@umiliànte@
+@humility@|@umiltæ@
+@humour@|@umô@
+@hump@|@regnòcco@
+@hunchbacked@|@zénbo, ghéubbo@
+@hundred@|@çénto, çentanâ (nm)@
+@hundred thousand@|@çénto mìlle@
+@hundreds@|@çentanæa (fpl)@
+@hunger@|@fàmme@
+@hungry@|@afamòu@
+@hunter@|@caciòu@
+@hunter (f)@|@cacéuia@
+@hunting@|@càccia@
+@hurray!@|@sciàlla!, sciàlla sciàlla!@
+@hurricane@|@uragàn, oragàn@
+@hurriedly@|@de premûa, de spréscia@
+@hurry@|@sbrigativitæ, premûa, fûga, coìnta, spréscia@
+@hurry up!@|@sbrîghite!@
+@hurt@|@inciagòu, ferîo@
+@husband@|@marîo, màio@
+@husky@|@rantegôzo@
+@hustle and bustle@|@borbóggio@
+@hut@|@cabànna@
+@hyena@|@iêna@
+@hymn@|@ìnno@
+@hypnosis@|@ìpnoxi (nf)@
+@I@|@mi@
+@I am@|@mi stàggo, mi són@
+@I am sore@|@mi me dêuo@
+@I am sorry for that!@|@me dispiâxe!@
+@I arrive@|@mi arîvo@
+@I avoid@|@mi évito@
+@I await@|@mi aspêto, mi spêto@
+@I bear@|@mi pòrto@
+@I beg your apologies!@|@gh'aciàmmo scuze!@
+@I believe@|@mi créddo@
+@I boil@|@mi bóggio@
+@I build@|@mi costroîscio@
+@I buy@|@mi acàtto@
+@I can@|@mi pòsso@
+@I cannot@|@mi no pòsso@
+@I choose@|@mi çèrno@
+@I close@|@mi særo@
+@I come@|@mi vêgno@
+@I complain@|@mi mogógno@
+@I compose@|@mi conpónn-o@
+@I cover@|@mi crêuvo@
+@I delete@|@mi scancèllo@
+@I destroy@|@mi destrûo@
+@I destroyed@|@mi ò destrûto@
+@I did@|@mi fâva/fâvo@
+@I do@|@mi fàsso@
+@I don't know what it is (f)@|@mi no sò cös'a ségge@
+@I draw (money)@|@mi schêuvo@
+@I drink@|@mi béivo@
+@I educate@|@mi éduco@
+@I embroider@|@mi recàmmo@
+@I empty@|@mi vêuo@
+@I enjoy@|@mi gödo@
+@I existed@|@mi són existîo@
+@I fell@|@mi són chéito@
+@I fill@|@mi ìnpo@
+@I find@|@mi trêuvo, mi atrêuvo@
+@I finish@|@mi finìscio@
+@I fly@|@mi xêuo@
+@I get dressed@|@mi me vésto@
+@I get married@|@mi me màio@
+@I give@|@mi dàggo@
+@I go@|@mi vàddo@
+@I go out@|@mi sciòrto@
+@I had done@|@mi avéiva fæto@
+@I hate@|@mi òdio@
+@I have (possess)@|@mi gh'ò@
+@I have awaited@|@mi ò aspêtòu, mi ò spêtòu@
+@I have done@|@mi ò fæto@
+@I idle@|@mi òçio@
+@I insert@|@mi inséiscio@
+@I keep silent@|@mi tâxo@
+@I know@|@mi sò@
+@I laugh@|@mi rîo@
+@I like...@|@me piâxe..., m'é câo...@
+@I meditate@|@mi médito@
+@I miss her@|@a me mànca@
+@I miss him@|@o me mànca@
+@I miss it (f)@|@a me mànca@
+@I miss it (m)@|@o me mànca@
+@I must@|@mi dêvo, mi gh'ò da@
+@I need...@|@mi gh'ò bezéugno de...@
+@I offer@|@mi òffro@
+@I owe@|@mi dêvo@
+@I peel@|@mi péio@
+@I pick up@|@mi arechéuggio@
+@I prefer...@|@m'é ciù câo...@
+@I put (present)@|@mi métto@
+@I read (present)@|@mi lêzo@
+@I run@|@mi côro@
+@I say@|@mi dìggo@
+@I seem@|@mi pâo, mi pàggio@
+@I speak@|@mi pàrlo@
+@I swim@|@mi nêuo@
+@I tolerate@|@mi tòlero@
+@I translate@|@mi tradûo@
+@I turn on@|@mi açéndo@
+@I turned on@|@mi ò açéizo@
+@I used to do@|@mi fâva/fâvo@
+@I vary@|@mi vàrio@
+@I visit@|@mi vìxito@
+@I wait for@|@mi aspêto, mi spêto@
+@I want@|@mi véuggio@
+@I was@|@mi êo/êa@
+@I whistle@|@mi scigôo@
+@I will do@|@mi faiö@
+@I will go@|@mi aniö@
+@I will have@|@mi aviö@
+@I will have done@|@mi aviö fæto@
+@I will say@|@mi diö@
+@I would do@|@mi faiéiva/faiæ@
+@I would have done@|@mi aviéiva fæto@
+@I yawn@|@mi bâgio@
+@ibex@|@crâva sarvæga@
+@ice@|@giàsso@
+@ice cream@|@mantecâto@
+@Iceland@|@Islànda@
+@Icelandic@|@islandéize@
+@I'd rather...@|@m'é ciù câo...@
+@idea@|@idêa@
+@ideal@|@ideâle@
+@identical@|@idéntico@
+@identity@|@identitæ@
+@idiot@|@belinón, belinâio, scémmo, lappasùcche, tarlùcco@
+@idle@|@òçiôzo@
+@idleness@|@dezàndio, òçio@
+@idler@|@perdigiórni, pelandrón, bìndolo@
+@if@|@se@
+@Iglesias (Sardinia)@|@Igrêxi@
+@ignorance@|@ignorànsa@
+@ignorant@|@ignorànte@
+@Il Pero (SV)@|@Péi@
+@ill@|@infèrmo, mòuto, maròtto@
+@illegal@|@ilegâle@
+@illicit@|@iléçito@
+@illness@|@infermitæ, mâ (nm), malatîa (it.), moutîa@
+@illumination@|@inluminaçión, iluminaçión@
+@illusion@|@inluxón, iluxón@
+@I'm hungry@|@gh'ò fàmme@
+@I'm thirsty@|@gh'ò sæ@
+@image@|@figûa@
+@imbecile@|@deficénte@
+@imitation@|@imitaçión@
+@imitator@|@imitatô@
+@immediately@|@sùbito@
+@immense@|@inménso@
+@immigrant@|@imigròu@
+@immigration@|@imigraçión@
+@immortalized@|@inmortalòu@
+@impatience@|@inpaçiénsa@
+@impetuously@|@d'asbrîo@
+@import@|@inportaçión@
+@important@|@inportànte@
+@impossible@|@inposcìbile@
+@imprecise@|@vâgo@
+@impression@|@inpresción@
+@improvement@|@megioraménto@
+@impulse@|@asbrîo@
+@in@|@inte, in@
+@in a big mess@|@a foticû@
+@in a few words@|@a-e cùrte, in pöche paròlle@
+@in a good mood@|@de giromîa@
+@in a good state@|@in gànba, in tràppa@
+@in a hurry@|@a-a córsa@
+@in a jumble@|@a-a rinfûza, a-a sbæra@
+@in a moment@|@inte 'n moménto, inte 'n amén, inte 'n étte@
+@in abundance@|@a mùggi, a dezêuvio, a bezèffe, a batagión@
+@in advance@|@in antìçipo@
+@in all truth@|@a dîla sccétta, a dîla comm'a l'é, a dî o vêo, a dî a veitæ, sccetaménte@
+@in an instant@|@inte 'n sciòu, inte 'n nìnte, inte 'n âmen@
+@in another place@|@da unn'âtra pàrte@
+@in bad condition@|@malandæto@
+@in bloom@|@in sciô (av.)@
+@in blossom@|@sccioîo (ag.)@
+@in cash@|@a dinæ contànti, in contànti@
+@in darkness@|@a-o scûo@
+@in fact@|@in efètti, difæti@
+@in flower@|@in sciô (av.)@
+@in force (law)@|@vigénte@
+@in front of@|@davànti a, in fàccia a@
+@in general@|@pe-o ciù@
+@in great quantity@|@a mùggi, a dezêuvio, a bezèffe, a batagión@
+@in half@|@a-a meitæ@
+@in haste@|@de premûa, de spréscia@
+@in installments@|@a tànto a-o méize@
+@in instalments@|@a tànto a-o méize@
+@in less than no time@|@inte 'n âmen, inte 'n moménto, inte 'n étte@
+@in Liguria@|@inta Ligùria, in Ligùria@
+@in my house@|@in cà mæ@
+@in my opinion@|@a mæ giudìçio, a mæ pài@
+@in no rush@|@sénsa spréscia@
+@in order to@|@afinché@
+@in pieces@|@a tòcchi@
+@in plenty@|@a mùggi, a dezêuvio, a bezèffe, a batagión@
+@in risk@|@a réizego@
+@in spite of@|@invêce de@
+@in such a way that@|@de mòddo che, in mòddo che@
+@in surplus@|@de sorveciù@
+@in the (fpl)@|@inte@
+@in the (fsing)@|@inta@
+@in the (mpl)@|@inti@
+@in the (msing)@|@into@
+@in the (msing)(fsing)@|@inte l'@
+@in the dark@|@a-o scûo@
+@in the evening@|@de séia@
+@in the latest fashion@|@a l'ùrtima mòdda@
+@in the middle@|@into mêzo, in mêzo@
+@in the middle of@|@in mêzo a@
+@in the morning@|@de matìn@
+@in those days@|@alantôa@
+@inactive@|@inatîvo@
+@incense@|@incénso@
+@incidentally@|@a propòxito@
+@income@|@réndia, rédito@
+@incomplete@|@sconplêto, sconpîo@
+@incomprehensible@|@inconprenscìbile@
+@inconvenient@|@scòmodo, descòmodo, sconveniénte@
+@incorrect@|@scorétto@
+@increase@|@ouménto@
+@incredible@|@incredìbile@
+@indeed@|@pe in davéi, davéi, pe 'n davéi@
+@independence@|@indipendénsa@
+@independent@|@indipendénte@
+@index@|@ìndiçe@
+@India@|@Ìndia@
+@Indian@|@indiàn@
+@indicative@|@indicatîvo@
+@indigent@|@zenzìggio@
+@indigo@|@éndego@
+@indirect@|@indirètto@
+@individual (adj.)@|@individoâle@
+@individual (n)@|@indivìdoo@
+@ineffective solution@|@tapóllo@
+@inevitably@|@pe fòrsa@
+@infamous@|@infâme@
+@infection@|@infeçión@
+@inferior@|@inferiô@
+@infinite@|@infinîo@
+@infirmary@|@infermàia@
+@inflated@|@bezìggio@
+@influence@|@infloénsa@
+@information@|@informaçión@
+@informer@|@sciusción@
+@ingenuity@|@ingenoitæ@
+@ingenuous@|@ingénoo@
+@inhabitant@|@abitànte@
+@injury@|@lexón@
+@ink@|@inciòstro@
+@ink stain@|@spegàsso@
+@inkwell@|@câmâ (nm)@
+@insatiable hunger@|@bràsca@
+@inside@|@drénto a, drénto@
+@insipid@|@fàtto@
+@insolvent@|@ciantapóffi (nm)@
+@inspector@|@inspetô@
+@installment@|@râta@
+@instalment@|@râta@
+@instantly@|@in sce doî pê@
+@instead@|@in càngio, invêce@
+@instep@|@tomæa@
+@instinct@|@istìnto@
+@institute@|@istitûto@
+@instruction@|@istroçión, istruçión@
+@instructor@|@istrutô@
+@instrument@|@struménto@
+@instrumentalist (music)@|@sunòu@
+@insufficient@|@deficénte@
+@insulin@|@insulìnn-a@
+@insult@|@poulàssa@
+@intected@|@infetòu@
+@intellectual@|@inteletoâle@
+@intelligence@|@inteligénsa@
+@intelligent@|@inteligénte@
+@intense@|@inténso@
+@intensity@|@intenscitæ@
+@intention@|@intençión@
+@interest@|@interèsse (nm)@
+@interested@|@interesòu@
+@interesting@|@interesànte@
+@interjection@|@interieçión, esclamaçión@
+@internal@|@intèrno@
+@international@|@internaçionâle@
+@Internet@|@ræ (nf)@
+@interpreter@|@intèrprete@
+@intertwining@|@intrésso@
+@interval@|@intervàllo@
+@intervention@|@intervénto@
+@intestine@|@intestìn@
+@intimacy@|@intimitæ@
+@intimate@|@ìntimo@
+@into@|@drénto a@
+@into pieces@|@in menisétti, in menìssi@
+@intolerant@|@intolerànte@
+@intonation@|@intonaçión@
+@intricate@|@ingarbugiòu@
+@introduction@|@introduçión, prezentaçión@
+@invalid@|@nùllo@
+@invasion@|@invaxón@
+@inverted@|@invèrso@
+@Ireland@|@Irlànda@
+@Irish@|@irlandéize@
+@iron@|@færo@
+@irony@|@ironîa@
+@irregular@|@iregolâre@
+@irritating@|@iritànte@
+@irritation@|@iritaçión@
+@Isidore@|@Xidöo@
+@Islamic@|@islàmico@
+@island@|@ìzoa@
+@islet@|@izoöto@
+@isn't it so?@|@vêa?@
+@Isola del Cantone (GE)@|@Ìzoa do Cantón@
+@isolated@|@izolòu, izoòu@
+@Isoverde (GE)@|@Izovèrde@
+@Israeli@|@isræliàn@
+@issue@|@emisción, facénda@
+@it@|@lê@
+@it hurts!@|@me fa mâ!@
+@it is (f)@|@a l'é@
+@it is (m)@|@o l'é@
+@it is necessary to...@|@bezéugna...@
+@it rained@|@l'é ciuvûo@
+@Italian@|@italiàn@
+@Italy@|@Itàlia@
+@it's about time@|@l'êa l'ôa@
+@it's been a long time...@|@l'é ànni e ànni...@
+@it's like that@|@l'é coscì@
+@ivory@|@avòrio@
+@ivy@|@léloa@
+@İzmir (Turkey)@|@Smìrna@
+@jackdaw (bird)@|@cornagétta@
+@Jacob@|@Giacomìn, Giàcamo, Iàcopo@
+@jail@|@prexón, galêa@
+@James@|@Iàcopo, Giàcamo, Giacomìn@
+@January@|@zenâ@
+@Japan@|@Giapón@
+@Japanese@|@giaponéize@
+@jar@|@caràffa@
+@jaw@|@mascèlla@
+@jay (bird)@|@gazànn-a@
+@jealous@|@giôzo, ingiöxîo@
+@jerk (vulg.)@|@tarlùcco, belinón, lappasùcche, gondón (volg.), gondonàsso (volg.)@
+@Jerusalem@|@Geruzalémme@
+@Jesus@|@Gexû@
+@jewel@|@gioièllo@
+@jeweler@|@gioielê (nm), gioielâ (nm)@
+@Jewish@|@giudêo, ebrêo@
+@job@|@inpiêgo, lòu@
+@John@|@Zâne, Gioâne, Vànni, Zânìn, Gioanìn, Giànni, Giàn@
+@John Baptist@|@Bacìccia@
+@joke@|@barselétta, schèrso@
+@joker@|@xànno@
+@joking@|@burlón@
+@jolly (cards)@|@xòlli (nm)@
+@Joseph@|@Béppe@
+@journey@|@viàggio, gîo, viâgio@
+@joy@|@giöia, axìllo@
+@jubilee@|@giubilêo@
+@judge@|@giùdiçe@
+@judicious@|@pìn de sæximo, giudiçiôzo@
+@juice@|@sûgo@
+@jujube (fruit)@|@zìzoa@
+@July@|@lùggio@
+@jump@|@sâto@
+@June@|@zûgno@
+@jungle@|@forèsta@
+@juniper (plant)@|@zenéivio@
+@just@|@sôlo, pròpio, solaménte@
+@justice@|@giustìçia@
+@jute@|@iôta@
+@keel@|@chìggia@
+@keeper@|@custöde, goardiàn@
+@kerosene@|@petròlio@
+@kestrel (bird)@|@çivétoa, çivétta, çiétoa@
+@key@|@ciâve@
+@key (on a keyboard)@|@tàsto@
+@key chain@|@pòrtaciâve (nm)@
+@key ring@|@pòrtaciâve (nm)@
+@keyboard@|@tastêa@
+@keyhole@|@ciavéuia, pertûzo da ciavéuia@
+@kick@|@câso, pesâ (nf), sanpâ, pê, pontapê (nm), pàtta@
+@kick in the ass@|@pê into cû (nm)@
+@kid@|@popón, bagarìllo@
+@kidney@|@rén (nm)@
+@kilometre@|@chilòmetro@
+@kind@|@génere (nm), ménn-a, tîpo@
+@kindness@|@gentiléssa, bonarietæ@
+@king@|@rè (nm)@
+@kingdom@|@régno@
+@kiss@|@bâxo@
+@kitchen@|@cuxìnn-a@
+@kneading trough@|@méizoa, méizia@
+@knee@|@zenóggio@
+@kneecap@|@roêta@
+@knees@|@zenógge (nfpl)@
+@knickers@|@braghétte (fpl)@
+@knickknack@|@angæzo, ravàtto@
+@knick-knack@|@angæzo, ravàtto@
+@knife@|@cotéllo, cotêlo (Savona)@
+@knight@|@cavaliêre, cavagêo@
+@knob@|@pómmo@
+@knock@|@pàtta@
+@knoll@|@costigeu@
+@knot@|@gróppo@
+@knowledge@|@conoscénsa@
+@known@|@conosciûo@
+@knuckle@|@zonchétto@
+@Korea@|@Corêa@
+@Korean@|@coreàn@
+@Kosovo@|@Còsovo@
+@La Brigue (in France after WWII)@|@Brîga@
+@La Doria (GE)@|@A Döia@
+@La Spezia (SP)@|@A Spézza, Spézza@
+@label@|@etichétta@
+@labor union@|@scindacâto@
+@laboratory@|@louêio, laboratöio@
+@labour (force)@|@mandêuvia@
+@lace@|@strìnga@
+@lacquer@|@vernîxe (nf)@
+@lady@|@dàmma, scignôa@
+@ladybug@|@galinétta do Segnô, dêdê (nf), dædæ (nf)@
+@ladyfinger (biscuit)@|@caporâle (nm), savoiàrdo (nm)@
+@lagoon@|@lagùnn-a@
+@laic@|@làico@
+@laical@|@làico@
+@Laigueglia (SV)@|@Lengoéggia@
+@lair@|@tànn-a@
+@lake@|@lâgo@
+@lamb@|@bæ (nm)@
+@lamp@|@fanâ (nm), lùmme, lànpa, lanpión@
+@lance@|@lànsa@
+@land@|@terén (nm), tæra@
+@landlord@|@bacàn@
+@landscape@|@paizàggio@
+@landslide@|@frànn-a@
+@landslip@|@frànn-a@
+@lane (in the countryside)@|@crêuza@
+@language@|@lìngoa, léngoa@
+@lantern@|@fanâ (nm)@
+@lap@|@gîo@
+@lap (on thighs)@|@scöso@
+@lark@|@lödoa@
+@Larvego (GE)@|@Làrvego@
+@lasagna@|@lazàgna@
+@lash@|@vergàdda@
+@last@|@pasòu, ùrtimo@
+@last month@|@o méize pasòu@
+@late (adj.)@|@tardîo (ag.), tàrdo (ag.)@
+@late (adv.)@|@tàrdi (av.)@
+@lately@|@urtimaménte@
+@later@|@apeu, dapeu, peu, dòppo, pöi@
+@Latin@|@latìn@
+@Latium@|@Làçio@
+@Latvia@|@Letònia@
+@Latvian@|@létone@
+@laughter@|@rizâta, rîe (nm)@
+@laundress@|@bugàixe@
+@Laura@|@Làora@
+@laurel@|@ouféuggio, öféuggio@
+@Lavagnola (SV)@|@Lavagnêua@
+@Lavanestra (river of Savona)@|@Lavanèstra@
+@lavender@|@lavànda@
+@law@|@lézze@
+@Lawrence@|@Loénso@
+@lawyer@|@avocâto, procuòu@
+@layabout@|@bìndolo@
+@laziness@|@pigrìçia@
+@lazy@|@pötrón, schénn-a drîta, schénn-a da violìn@
+@lazybones@|@perdigiórni, pelandrón@
+@leaf@|@féuggia@
+@Leamara (GE)@|@Loâmâ@
+@lean@|@arénbo@
+@leather@|@chêuio@
+@leave me!@|@làscime stâ!@
+@Lecco (mount)@|@Lêco@
+@leech@|@sangoétta@
+@leek@|@porìn@
+@leerfish@|@léccia@
+@left@|@mancìnn-a, scinìstra@
+@leftovers (food)@|@rozìggi (mpl)@
+@leg (animal)@|@sànpa@
+@legal@|@legâle@
+@legend@|@legénda, lezénda, lezéndia@
+@legendary@|@legendâio, lezendâio@
+@Legino (SV)@|@Lêze@
+@legion@|@legión@
+@legislation@|@legislaçión@
+@legitimate@|@legìtimo@
+@leisure@|@recreaçión, òçio@
+@lemon@|@limón@
+@lemon squeezer@|@spremmilimoìn (nm)@
+@length@|@longhéssa@
+@Lent@|@quarêxima, quaîxima, quæîxima@
+@lentil@|@lentìggia@
+@Leonard@|@Lonàrdo@
+@leopard@|@liopàrdo@
+@leprosy@|@lêpra@
+@leprous@|@leprôzo@
+@Lerici (SP)@|@Lèrxi@
+@less@|@mêno@
+@lesson@|@leçión@
+@Letimbro (river of Savona)@|@Letìnbro@
+@let's go!@|@alê!, anémmo!, andémmo!@
+@let's see!@|@vedémmo!@
+@letter@|@létia, létera@
+@lettuce@|@leitûga@
+@level@|@livéllo@
+@lever@|@lêva@
+@lexicon@|@léscico@
+@liar@|@böxàrdo@
+@liberty@|@libertæ@
+@licorice@|@reganìsso, recanìsso@
+@lie@|@böxîa, móssa@
+@life@|@vìtta@
+@life preserver@|@sarvagénte@
+@light@|@lùmme, scioòu@
+@light (n)@|@lûxe@
+@light blue@|@bleu ciæo, celestìn, celèste@
+@light bulb@|@lanpadìnn-a@
+@lighthouse@|@fâro, lantèrna@
+@Liguria@|@Ligùria@
+@Ligurian@|@lìgure@
+@Ligurian language@|@zenéize, lìgure@
+@likable@|@scinpàtico@
+@likely@|@probàbile@
+@liking@|@scinpatîa@
+@lilac@|@lilà@
+@limit@|@lìmite@
+@limousine@|@limoxìn@
+@limp@|@ràngo (ag.)@
+@limping along@|@in galisòppo@
+@line@|@lìnea, rîga, lìnia@
+@linen@|@lìn, giancàia@
+@link@|@colegaménto@
+@lion@|@lión@
+@lip@|@lèrfo, lâpro@
+@lips@|@lèrfe (fpl), lâpri (mpl)@
+@liquor@|@licôre@
+@liquorice@|@recanìsso, reganìsso@
+@lira@|@lîa@
+@Lisbon@|@Lisbónn-a@
+@list@|@lìsta, listìn (nm)@
+@listen to me!@|@stàmme a sentî!@
+@listener@|@uditô@
+@lit@|@açéizo@
+@literally@|@a-a létia@
+@literary@|@leterâio@
+@Lithuania@|@Litoània@
+@Lithuanian@|@litoàn@
+@litre@|@lîtro@
+@little@|@stisìn (nm)@
+@little bit@|@pitinìn, pitìn, petìn (Savona), stisinìn (nm)@
+@little boy@|@figìn (nm)@
+@little by little@|@a pitìn a pitìn, a pöco a pöco@
+@little finger@|@marmelìn, dîo marmelìn@
+@little hand@|@magnìnn-a@
+@little owl@|@çiétoa, çivétoa, sbràzoa, çivétta@
+@little piece@|@pestùmmo, tochetìn, tochétto@
+@liver@|@figæto, fêgheto (Savona)@
+@livestock@|@bestiàmme (nm)@
+@lizard@|@lagheu@
+@load@|@caregaménto, fràcco@
+@loaded@|@càrego@
+@Loano (SV)@|@Lêua@
+@lobe@|@pêxìn de l'oêgia@
+@lobster@|@gànbou@
+@local@|@locâle@
+@lock@|@ciavéuia@
+@lodging@|@alögio@
+@log@|@strónscio@
+@log-fired oven@|@ronfò (nm)@
+@Lombard (from Lombardy)@|@lonbàrdo@
+@Lombardy@|@Lonbardîa@
+@London@|@Lóndra@
+@Londoner@|@londinéize@
+@lonely@|@solitâio@
+@lonesome@|@solitâio@
+@long@|@lóngo@
+@longing@|@dexiderôzo@
+@longline (fishing)@|@pâmito@
+@loom@|@teâ (nm)@
+@loose thread@|@fiàrsoa@
+@looting@|@sachézzo@
+@loquat@|@néspoa@
+@loquat tree@|@èrbo de néspoe@
+@Lorsica (GE)@|@Lórsega@
+@loss@|@pèrdia@
+@loss of time@|@perditénpo (nm)@
+@lost@|@pèrso, perdûo@
+@lost soul@|@ànima danâ@
+@lottery@|@lòtto, semenâio@
+@loud voice@|@tìbba, voxón@
+@louse@|@pighéuggio@
+@lout@|@vilàn@
+@lovable@|@amàbile@
+@love@|@amô@
+@lover@|@amànte@
+@loving@|@amôzo@
+@low@|@bàsso@
+@low tide@|@bàssa marêa (f)@
+@low wall@|@miâgétta@
+@lower@|@minô, minôre@
+@lucerne@|@èrba mêga (nf)@
+@luck@|@fortùnn-a, sòrte (nf)@
+@luckily@|@ancón d'asæ che, ancoasæ che@
+@lucky@|@fortunòu@
+@luggage@|@bagàggio, bagàggi (mpl)@
+@Luke@|@Lùcco, Luchìn@
+@Lumarzo (GE)@|@Lumàrso@
+@lump@|@bernòcolo (it.), bòrlo@
+@lunatic@|@stondâio@
+@lunch@|@prànso@
+@lung@|@pormón, polmón@
+@luster@|@lùstro (nm)@
+@Lutheran@|@luteràn@
+@luthier@|@chitarâ (nm)@
+@Luxembourg@|@Lusenbùrgo@
+@Luxembourgish@|@lusenburghéize@
+@luxury@|@lùsso@
+@lying down@|@acoêgòu@
+@lynx@|@lìnce (nf)@
+@lyrics@|@tèsto@
+@machine@|@màchina@
+@mackerel@|@laxèrto@
+@made@|@fæto@
+@magazine@|@revìsta@
+@Magliolo (SV)@|@Mageu@
+@Magnone (SV)@|@Magnón@
+@magpie (bird)@|@bèrta@
+@mail@|@pòsta, pòste (fpl)@
+@mailing@|@spediçión@
+@mailman@|@postìn (nm)@
+@Mainetto (GE)@|@Mainétto@
+@maintenance@|@mantegniménto, manutençión@
+@maize@|@mélica@
+@majesty@|@mâestæ@
+@major@|@magiô, magiôre@
+@majority@|@magiorànsa@
+@male@|@maschîle, màsccio@
+@malicious@|@astriòu@
+@mallard (bird)@|@còllovèrde (nm)@
+@Mallare (SV)@|@Màlle, Màlae, E Màlle@
+@mallow@|@màlva, vàrma@
+@man@|@òmmo@
+@Manarola (SP)@|@Manaæa@
+@Mandarin@|@mandarìn@
+@mandoline@|@amandoìn (m)@
+@Manesseno (GE)@|@Manesén@
+@mange@|@rógna@
+@mangy@|@rognôzo@
+@mania@|@manîa@
+@manner@|@mainêa@
+@Mantova@|@Màntoa, Màntova@
+@manufacturer@|@fabricànte (nm)@
+@manure@|@liàmme (nm)@
+@many@|@bén de@
+@many (f)@|@tànte (fpl)@
+@many (m)@|@tànti (mpl)@
+@map@|@màppa@
+@Marassi (GE)@|@Maràsci@
+@marble@|@màrmo@
+@march@|@màrcia@
+@March@|@màrso@
+@Marianne@|@Mariànn-a@
+@Marina (district of Genoa)@|@A Mænn-a (Zêna)@
+@marinated@|@a scabéccio, fròllo@
+@marinated fish@|@péscio a scabéccio@
+@marine@|@marìn@
+@marionette@|@marionétta@
+@maritime pine@|@pìn marìtimo@
+@marjoram@|@pèrsa (nf)@
+@mark@|@màrca@
+@Mark@|@Màrco@
+@market@|@fêa, mercòu@
+@market gardener@|@ortoàn@
+@marmelade@|@marmelâta@
+@marmot@|@marmòtta@
+@marquis@|@marchéize@
+@marriage@|@matrimònio@
+@married@|@spozòu@
+@Mars@|@Màrte@
+@Marseille@|@Marsìggia@
+@marshall@|@maresciàllo@
+@Marsiglia (GE)@|@Marséggia@
+@marten@|@foìn, màrtoa@
+@marvel@|@mâvéggia@
+@Mary@|@Marinìn, Maiolìn, Màia, Maiétta@
+@masculine@|@maschîle@
+@mask@|@màschera@
+@mason jar@|@arbanèlla@
+@Masone (GE)@|@Mazón@
+@mass@|@méssa@
+@Masso (GE)@|@Màsso (Zêna)@
+@mat@|@stêua@
+@match@|@partîa@
+@match (for lighting fire)@|@sofranìn, brichétto@
+@matches (for lighting fire)@|@brichétti (mpl)@
+@maternity@|@maternitæ@
+@Mathilda@|@Metìrde@
+@Mathilde@|@Metìrde@
+@Matilda@|@Metìrde@
+@Matilde@|@Metìrde@
+@matrimony@|@matrimònio@
+@matter@|@questión, afâre (nm)@
+@Matthew@|@Matê@
+@mattress@|@strapónta@
+@mature@|@méuio@
+@Maxena (GE)@|@Maxénn-a@
+@maxim@|@màscima@
+@maximum@|@màscimo@
+@May@|@màzzo@
+@maybe@|@peu dâse, fòscia, magâra, chisà@
+@mayor@|@scìndaco, scìndico@
+@me@|@mi@
+@meadow@|@pròu@
+@meagre (fish)@|@fîgou@
+@meal@|@prànso@
+@mean@|@catîvo, gràmmo, exôzo, ezôzo@
+@meanness@|@viltæ@
+@meanwhile@|@into méntre, intànto, fra tànto, in tànto@
+@meat@|@càrne@
+@meatball@|@porpétta@
+@mechanical@|@mecànico@
+@medal@|@medàggia@
+@mediator@|@mediatô@
+@medical@|@mêgo, médico@
+@medicine@|@meixìnn-a, mêxìnn-a@
+@meditation@|@meditaçión@
+@Mediterranean@|@Mediterànio@
+@medlar@|@néspoa@
+@medlar tree@|@èrbo de néspoe@
+@meeting@|@incóntro, riunión, rionión@
+@Megli (GE)@|@Mêgi@
+@melancholic@|@trìsto@
+@Mele (GE)@|@Mê@
+@melody@|@melodîa@
+@melon@|@meión, melón@
+@member@|@ménbro, sòccio@
+@memory@|@ricòrdo, memöia, aregòrdo, regòrdo@
+@mend@|@péssa@
+@mention@|@mensión@
+@menu@|@menù@
+@Mercury@|@Mercûio@
+@merry (f)@|@alêgra@
+@merry (m)@|@alêgro@
+@Merry Christmas!@|@Bon Dênâ!@
+@mess@|@mastrùsso, inciàstro, paciûgo, inbréuggio, calabâ@
+@mess tin@|@lavezìnn-a@
+@message@|@mesàggio@
+@messenger@|@mesagê@
+@messy@|@ingarbugiòu, inciastrón, invexendòu@
+@metal@|@metàllo@
+@metal wire@|@fî ferétto@
+@metallic@|@metàlico@
+@metaphore@|@metàfora@
+@metaphoric@|@metafòrico@
+@meter@|@mêtro@
+@meticulous@|@meticolôzo, menuçiôzo@
+@meticulous person@|@peizafùmme@
+@metre@|@mêtro@
+@Mexican@|@mescicàn@
+@Mexico@|@Méscico@
+@Mezzànego (GE)@|@Mezànego@
+@mezzanine floor@|@mezanìn@
+@Michael@|@Michê@
+@midday@|@mêzogiórno@
+@middle@|@mêzo, meitæ@
+@Middle Ages@|@Mediêvo@
+@middle finger@|@dîo do mêzo, dîo longâ (nm)@
+@midnight@|@mêzanéutte@
+@Mignanego (GE)@|@Mignànego@
+@Milan@|@Milàn@
+@mile@|@mìggio@
+@miles@|@mìgge (fpl)@
+@militia@|@milìçia@
+@milk@|@læte (nm)@
+@milk jug@|@leitêa@
+@milkman@|@leitâ (nm)@
+@Millesimo (SV)@|@Milêximo (Sànn-a), Merêxo@
+@milling@|@mötûa@
+@million@|@milión@
+@mind@|@ménte (nf)@
+@mine (f)@|@a mæ@
+@mine (m)@|@o mæ@
+@mineral@|@minerâle@
+@mineral water@|@ægoa minerâle@
+@minimum@|@mìnimo@
+@ministering angel@|@àngiou custöde@
+@minor@|@minôre, minô@
+@minority@|@minorànsa@
+@minute@|@menûto@
+@miracle@|@miâco@
+@miracles@|@miâcoi (mpl)@
+@mischievous@|@bagàrdo, scavìsso@
+@miser@|@avâo, pignavèrde, avâro@
+@miserly@|@avâro, avâo@
+@misery@|@bôra, mizêia@
+@missile@|@mìscile@
+@missionary@|@miscionâio@
+@mist@|@brùmma@
+@mistake@|@erô@
+@mistletoe@|@vìsco@
+@mix@|@mescciûa, meschìggia, mescùggio@
+@mixed@|@mésccio@
+@mixing@|@meschìggia, mescùggio@
+@mixture@|@mescciûa@
+@mizzen@|@èrbo de mezànn-a@
+@mizzenmast@|@èrbo de mezànn-a@
+@mobile phone@|@telefonìn@
+@mockery@|@bùrla@
+@mocking@|@bùffo, burlón@
+@mode@|@manêa@
+@moderate@|@moderòu@
+@modern@|@modèrno@
+@modest@|@ùmile, ùmio@
+@moisture@|@umiditæ@
+@molar@|@mêua@
+@Molare (Piedmont)@|@Morêre@
+@mole@|@meu, tàrpa@
+@Molini di Triora (IM)@|@Moìn de Triêua@
+@Molini di Voltaggio (Piedmont)@|@Moìn d'Ötàggio@
+@mom@|@mamà@
+@moment@|@moménto, àtimo@
+@Monaco@|@Mónego@
+@monarch@|@monàrca@
+@monarchy@|@monarchîa@
+@Monday@|@lunedì, lunesdì@
+@Monegasque@|@monegàsco@
+@Moneglia (GE)@|@Monêgia@
+@monetary@|@monetâio@
+@money exchange office@|@bancòuto@
+@Monferrato (Piedmont)@|@Monferâ@
+@Mongol@|@mongòlico, mòngolo@
+@Mongolia@|@Mongòlia@
+@Mongolian@|@mongòlico, mòngolo@
+@monkey@|@scìmio, macàcco, scìmia, mìcco@
+@Montalto Ligure (IM)@|@Montâto@
+@Montànesi (GE)@|@Montànexi@
+@Montarsolo (Emilia)@|@Montarseu@
+@Montebruno (GE)@|@Montebrùn@
+@Monterosso al Mare (SP)@|@Monterósso@
+@Montesignano (GE)@|@Montezignàn@
+@Montessoro (GE)@|@Montesciöo@
+@month@|@méize@
+@months@|@méixi (mpl)@
+@Monticelli (GE)@|@Montexéllo@
+@Montoggio (GE)@|@Montéuggio@
+@monument@|@monuménto@
+@moon@|@lùnn-a@
+@mooring buoy@|@gaitéllo@
+@moorings@|@òrmézzi (mpl), òrmézzo, parmæa@
+@mop of hair@|@pelàmme@
+@moral@|@morâle@
+@Moranego (GE)@|@Moànego@
+@more@|@ciù@
+@more and more@|@sénpre ciù@
+@more often@|@ciù spésso@
+@more or less@|@sciù pe zu, lìcche làcche, ciù ò mêno@
+@Morego (GE)@|@Méurgo@
+@morello cherry@|@vìscioa@
+@moreover@|@in ciù, pe de ciù@
+@Morigallo (GE)@|@Moîgàllo@
+@Mornese (Piedmont)@|@Mornéize@
+@morning@|@matìn (nm)@
+@Moroccan@|@marochìn@
+@Morocco@|@Maròcco@
+@mortar@|@mortâ (nm)@
+@mortgage@|@ipotêca@
+@Mortola (IM)@|@Mórtoa@
+@mosque@|@moschêa@
+@most@|@a ciù pàrte, a magiorànsa, o ciù@
+@most of the time@|@o ciù do ténpo@
+@mostly@|@pe-o ciù@
+@mother@|@moæ (nf)@
+@mother superior@|@superiôa, màddre superiôa@
+@mother-in-law@|@sêuxoa@
+@motion picture@|@fìlm (nm), filmòu (nm), cîne (nm)@
+@motor@|@motôre, motô@
+@motorway@|@outostràdda@
+@mount@|@mónte, péuzzo@
+@mountain@|@montàgna@
+@mountain dweller@|@montagnìn@
+@mountaineer@|@montagnìn@
+@mourning@|@desmûo, lùtto@
+@mouse@|@ràtto@
+@mouth@|@bócca@
+@mouth (river)@|@fôxe (nf)@
+@mouthful@|@bocón, morscelâ@
+@move (house)@|@stramûo@
+@move! (you)@|@méscite!@
+@Mr@|@sciô..., præ...@
+@Mrs@|@sciâ...@
+@much@|@tànto, bén bén@
+@mud@|@pâtàn, bràtta, bratùmme, pâta, fàngo@
+@muddle@|@paciûgo, inbréuggio, mastrùsso@
+@muddy@|@fangôzo@
+@muggy weather@|@macàia@
+@Muhammad@|@Momâ@
+@mule (f)@|@mûa@
+@mule (m)@|@mû@
+@mule track@|@crêuza@
+@Mulinetto (Genoese river)@|@Moînétto@
+@mullet (fish)@|@mûzou@
+@Multedo (GE)@|@Murtiòu@
+@multiplication@|@moltiplicaçión@
+@mum@|@mamà@
+@murder@|@asascinaménto, asascìnio@
+@murderer@|@asascìn@
+@Murta (GE)@|@Mùrta (Zêna)@
+@muscle@|@mùscolo@
+@muse@|@mûza@
+@museum@|@muzêo@
+@mush@|@bernìsso, potìggio@
+@mushroom@|@fónzo@
+@music@|@mûxica@
+@music piece@|@pésso de mûxica@
+@musician@|@muxicìsta, muxicànte@
+@Muslim@|@maometàn@
+@must@|@avéighe da, dovéi (v), avéi da@
+@mustard@|@mostàrda@
+@mute@|@mùtto@
+@mutton@|@æo@
+@mutually@|@l'ùn a l'âtro@
+@muzzle@|@moriâgio@
+@my (f)@|@a mæ@
+@my (m)@|@o mæ@
+@myth@|@mîto@
+@nag (horse)@|@ròsoa@
+@nail (metal)@|@ciödo, ciöo@
+@nail (on finger)@|@óngia@
+@nails (on fingers)@|@ónge (fpl)@
+@naive@|@ingénoo@
+@naked@|@nûo@
+@name@|@nómme (nm)@
+@nap@|@pizàggia@
+@napkin@|@tovageu, sarviétta@
+@Naples@|@Nàpoli@
+@narcotic@|@narcòtico@
+@narrow@|@stréito@
+@narrow street@|@caróggio, carogìn@
+@Nasche (GE)@|@Nàsche@
+@nasty@|@exôzo, ezôzo, catîvo, gràmmo@
+@nation@|@naçión@
+@national@|@naçionâ, naçionâle@
+@native@|@òriginâio, natîvo@
+@native of the Riviera@|@riveàsco@
+@natural instinct@|@istìnto de natûa@
+@naturally@|@naturalménte@
+@naughty@|@scavìsso, bagàrdo@
+@nautical@|@mainaésco, nàotico@
+@navel@|@onbrisàllo@
+@navigation@|@mainàia, navegaçión@
+@navigator@|@navegatô@
+@Ne (GE)@|@Ne (Zêna)@
+@Neapolitan@|@napolitàn@
+@near@|@arénte a, vixìn@
+@nearby@|@arénte, vixìn@
+@Nebbiolo (grape/wine)@|@nebieu@
+@necessary@|@necesâio@
+@necessity@|@bezéugno@
+@neck@|@còllo@
+@necklace@|@colànn-a@
+@neckline@|@scòllo, schinfitûa, scolatûa@
+@need@|@bezéugno, necescitæ@
+@needle@|@agóggia@
+@negation@|@negaçión@
+@negative@|@negatîvo@
+@negotiation@|@negoçiaçión@
+@neighborhood@|@rión, borgâ, quartê@
+@neighbour (f)@|@vexìnn-a@
+@neighbour (m)@|@vexìn (nm), vixìn (nm)@
+@neighbours@|@vexìn (nmpl)@
+@Neirone (GE)@|@Neión@
+@neither@|@ni, né@
+@Nepalese@|@nepaléize@
+@nephew@|@nêvo, nêo@
+@Neptune@|@Netùn@
+@Nervi (GE)@|@Nèrvi@
+@Nervia (valley)(IM)@|@Nèrvia@
+@nervous@|@nervôzo@
+@nest@|@tànn-a, nîo@
+@net@|@nétto, ræ (nf)@
+@nettle (stinging)@|@òrtîga@
+@neurasthenia@|@nevrastenîa@
+@neurasthenic@|@nevrasténico@
+@neurotic@|@nevròtico@
+@neutral@|@noutrâle@
+@never@|@mâi@
+@never again@|@mâi ciù@
+@new@|@nêuvo@
+@newborn baby@|@figeu de nasción@
+@newspaper@|@giornâle@
+@next@|@intrànte, pròscimo, chi vêgne@
+@next month@|@o méize pròscimo, o méize chi vêgne@
+@next to@|@arénte a@
+@next year@|@l'ànno pròscimo, l'ànno intrànte@
+@nice@|@bèllo@
+@Nice (France)@|@Nìssa@
+@niche@|@nicétta@
+@nickname@|@nomiâgio, sorvenómme (nm)@
+@niece@|@néssa@
+@niff@|@spùssa@
+@night@|@seiànn-a, séia, néutte (nf), notoànn-a@
+@nightingale@|@roscigneu@
+@nightmare@|@pezón, pezô@
+@nimble@|@svèlto@
+@nine@|@nêuve@
+@nineteen@|@dixinêuve@
+@nineteenth@|@deximonêuno, dixineuvén, deximonöno@
+@ninety@|@novànta@
+@ninth@|@nöno, nêuno@
+@nipple@|@gælo do tetìn@
+@nitrogen@|@azöto@
+@no@|@no@
+@no one@|@nisciùn@
+@no one (f)@|@nisciùnn-a@
+@no way!@|@mànco pe schèrso!, mànco pe rîe!@
+@no wonder@|@pe fòrsa@
+@nobility@|@nobiltæ@
+@noble@|@nóbile@
+@nobody@|@nisciùn@
+@nobody (f)@|@nisciùnn-a@
+@nobody else@|@ciù nisciùn@
+@Noceto (GE)@|@Noxòu@
+@noise@|@sciâto, fô (nm), tramelêuio, rumô@
+@noisy@|@rumôzo@
+@Noli (SV)@|@Nöi@
+@nomad@|@nòmado@
+@nomadic@|@nòmado@
+@nomenclature@|@nomenclatûa@
+@none@|@nisciùn@
+@none (f)@|@nisciùnn-a@
+@nonsense@|@stranbòtto, spropòxito, strepéllo, sgoarón, móssa, âzenàia@
+@noodles@|@tagén (nmpl), fidê (mpl)@
+@noon@|@mêzogiórno@
+@no-one else@|@ciù nisciùn@
+@nor@|@né@
+@norm@|@nórma@
+@normal@|@normâle@
+@normally@|@normalménte@
+@North@|@tramontànn-a, nòrd@
+@Norway@|@Norvêgia@
+@Norwegian@|@norvegéize@
+@nose@|@nâzo@
+@nostalgia@|@nostalgîa@
+@nostril@|@nàixa@
+@nostrils@|@pertûxi do nâzo (nmpl)@
+@not@|@no@
+@not even@|@mànco, mîga@
+@not to give a damn@|@bàtisene e bàlle (volg.)@
+@not to have to (impersonal)@|@no bezéugna...@
+@note@|@apónto@
+@notebook@|@quadèrno, tacoìn (nm), quintèrno@
+@nothing@|@pésso, nìnte, nìbba@
+@nothing at all@|@un bèllo nìnte@
+@nothing else@|@nìnte ciù, ciù nìnte@
+@noun@|@nómme (nm), sostantîvo@
+@nourishment@|@aliménto, nutriménto@
+@novel@|@romànso@
+@novelty@|@novitæ@
+@November@|@novénbre@
+@now@|@òua, za@
+@nowadays@|@a giornâ d'ancheu, a-a giornâ d'ancheu, a-o dì d'ancheu@
+@Nozarego (GE)@|@Noxægo@
+@nuisance@|@scrocón, inbrùmme, despiaxéi@
+@numb@|@abesîo, abrenzoîo, rédeno, réuido@
+@number@|@nùmero@
+@nun@|@mónega@
+@nursemaid@|@màmma@
+@nurturance@|@alevaménto, alevéuia@
+@nut@|@nôxe (nf)@
+@nutcracker@|@sciacanôxe (nm)@
+@nutmeg@|@nôxe moscâ@
+@nutritive@|@nutritîvo@
+@nuts (vulg.)@|@bàlle (fpl)(volg.)@
+@oak@|@rôe (nf)@
+@oar@|@rémmo@
+@oath@|@zuaménto@
+@oats@|@avénn-a@
+@obbligation@|@dovéi (nm)@
+@object@|@ògétto@
+@obligation@|@òbligo@
+@obliged@|@òbligòu@
+@obscure@|@inconprenscìbile@
+@obsessed@|@invazòu@
+@obstacle@|@inbaràsso, inbrùmme, òstàcolo@
+@obvious@|@òvio@
+@obviously@|@òviaménte@
+@occasion@|@òcaxón@
+@occupation@|@mestê, òcupaçión@
+@occupied@|@òcupòu@
+@ocean@|@oçêano@
+@October@|@òtôbre@
+@octopus@|@pórpo@
+@oculist@|@mêgo di éuggi@
+@odd job@|@tapóllo@
+@odious@|@odiôzo@
+@odour@|@ödô@
+@of@|@d', de@
+@of age@|@magiôre, magiô@
+@of course@|@naturalménte@
+@of one's choice@|@a piaxéi@
+@of one's choosing@|@a piaxéi@
+@of the (fpl)@|@de-e@
+@of the (fsing)@|@da@
+@of the (mpl)@|@di@
+@of the (msing)@|@do@
+@off@|@stacòu@
+@offence@|@oféiza@
+@offensive@|@ofenscîvo@
+@offer@|@òfèrta@
+@office@|@ofìçio, scàgno@
+@official@|@ofiçiâ@
+@off-key@|@stonòu@
+@offshore@|@a-o làrgo@
+@often@|@spésse vòtte@
+@oil@|@êuio@
+@oiled@|@euiòu@
+@oiling@|@vontùmme (nm)@
+@ointment@|@pomâ, ingoénto@
+@Olba (SV)@|@Órba@
+@old@|@vêgio@
+@old age@|@veciàia, vegiàia, ansianitæ@
+@Old Harbour (in Savona)@|@Cû de Beu (Savona)@
+@old man@|@ansiàn@
+@older@|@magiôre, magiô@
+@old-fashioned@|@a l'antîga@
+@olive@|@òiva, öia, oîva@
+@olive tree@|@èrbo d'oîva@
+@Olmo (SV)@|@Órmo@
+@olympic@|@olìnpico@
+@Olympic Games@|@Zêughi Olìnpichi@
+@on@|@indòsso, adòsso@
+@on a straight line@|@drîto (av.)@
+@on behalf of@|@a nómme de@
+@on foot@|@in pê, a pê@
+@on his/her own@|@da pe lê@
+@on my own@|@da pe mi@
+@on one's knees@|@in zenógge, in zenogión@
+@on one's own@|@pe cónto pròpio@
+@on purpose@|@apòsta@
+@on the (fpl)@|@in scê@
+@on the (fsing)@|@in sciâ@
+@on the (mpl)@|@in scî@
+@on the (msing)@|@in sciô@
+@on the contrary@|@a l'òpòsto, a-o contrâio, pe cóntra, pe cóntro@
+@on the floor@|@pe tæra@
+@on the ground@|@pe tæra@
+@on the high seas@|@a-o làrgo@
+@on the left@|@a-a mancìnn-a, da-a mancìnn-a@
+@on the other hand@|@a l'òpòsto, d'âtra pàrte, pe cóntra, pe cóntro@
+@on the right@|@a-a drîta, da-a drîta@
+@on the way down@|@in deschinâ@
+@on their own@|@da pe liâtri@
+@on top@|@indòsso@
+@on your own@|@da pe ti@
+@once@|@'na vòtta, 'n'òtta (pop.), unna vòtta@
+@once again@|@ancón ina vòtta, ancón unna vòtta, tórna, unn'âtra vòtta@
+@once more@|@unn'âtra vòtta@
+@one (f)@|@ùnn-a@
+@one (m)@|@ùn@
+@one after another@|@ùn dòppo l'âtro@
+@one after the other@|@ùn dòppo l'âtro, de fîa@
+@one another@|@l'ùn a l'âtro@
+@one by one@|@ùn dòppo l'âtro@
+@one hour@|@unn'ôa, 'n'ôa@
+@one hundred and one@|@çentùn@
+@one per person@|@ùn p'éun@
+@one-eyed@|@strànbo@
+@Oneglia (IM)@|@Onêgia, Inêia@
+@only@|@sôlo, solaménte@
+@only (adj.)@|@ùnico@
+@only child@|@fìggio sôlo@
+@only once@|@unna vòtta tànto@
+@onze@|@ónsa@
+@open@|@avèrto@
+@open account@|@cónto avèrto@
+@open legs@|@gànbe sciaræ (fpl)@
+@open-handed@|@generôzo@
+@open-handedness@|@generozitæ@
+@opening@|@avertûa, inaoguraçión@
+@opera@|@òpera@
+@operation@|@òperaçión@
+@operative@|@òperatîvo@
+@opinion@|@òpinión@
+@opium@|@òpio@
+@opportunely@|@a l'òcaxón@
+@opportunity@|@òportunitæ@
+@opposite@|@òpòsto@
+@opposition@|@òpoxiçión@
+@oppositor@|@òpoxitô@
+@oppression@|@òpresción@
+@optical@|@òtico@
+@option@|@òpsión@
+@or@|@òpûre, òpû, ò@
+@oral@|@orâle@
+@orange (colour)@|@cô de çetrón@
+@orange (fruit)@|@çetrón@
+@orange blossom@|@sciô de çetrón@
+@orange blossom water@|@ægoa de sciô de çetrón@
+@orange slice@|@gælo de çetrón@
+@orange tree@|@èrbo de çetroìn@
+@orangutan@|@rangotàn@
+@oratory@|@outöio@
+@orchard@|@òrto@
+@orchestra@|@òrchèstra@
+@order@|@órdine (nm)@
+@ordinary@|@ordenâio@
+@oregano@|@còrnabùggia@
+@Orero (GE)@|@Oê@
+@organ@|@òrgano@
+@origin@|@òrìgine (nf)@
+@original@|@òriginâle@
+@orthography@|@grafîa@
+@Ortonovo (SP)@|@Òrtonêuvo@
+@Ortovero (SV)@|@Ortoê@
+@ostensibly@|@veroscimilménte@
+@ostrich@|@strùsso@
+@other@|@âtro@
+@otherwise@|@se dónque, do rèsto, se dónca@
+@otter@|@lùdria@
+@our (fpl)@|@e nòstre@
+@our (fsing)@|@a nòstra@
+@our (mpl)@|@i nòstri@
+@our (msing)@|@o nòstro@
+@ours (fpl)@|@nòstre@
+@ours (fsing)@|@nòstra@
+@ours (mpl)@|@nòstri@
+@ours (msing)@|@nòstro@
+@out@|@fêua@
+@out (switch)@|@asmòrto@
+@out in the open@|@a l'avèrto@
+@out of tune@|@stonòu@
+@outburst@|@esploxón, scciupón@
+@outburst of anger@|@scciupón de fótta@
+@outdoors@|@a l'avèrto@
+@outline@|@sàgoma, abòsso@
+@out-of-door(s)@|@a l'avèrto@
+@outside@|@fêua@
+@outspread@|@destéizo@
+@outstretched@|@destéizo@
+@Ovada (Piedmont)@|@Òvâda, Goâ@
+@oval plate@|@fiamenghìlla@
+@ovary@|@oæa (nf), òvâia@
+@oven@|@fórno@
+@over@|@adòsso, indòsso@
+@over... (quantity)@|@e pàssa (quantitæ)@
+@overcrowded@|@strapìn@
+@overloaded@|@stracàrego@
+@overseas@|@a l'estranxêo@
+@overwrought@|@sciâtòu@
+@owl@|@cravâ (nm), dûgo@
+@own (f)@|@pròpia@
+@own (m)@|@pròpio@
+@owner@|@propiêtâio, posesô, padrón@
+@ox@|@beu (nm)@
+@oyster@|@òstrega@
+@pacifist@|@paxifìsta@
+@pack@|@pàcco@
+@packaging@|@inbalàggio, inbalatûa@
+@packed@|@strapìn@
+@packed with people@|@gremenîo@
+@pact@|@pàtto@
+@pad@|@tacoìn (nm)@
+@Padanian (relating to river Po)@|@padàn@
+@paddle@|@rémmo@
+@pagan@|@pagàn@
+@pain@|@mâ (nm), despiaxéi, dô@
+@paint@|@pitûa, vernîxe (nf)@
+@painter@|@pitô@
+@painting@|@pitûa@
+@pair@|@pâ (nm)@
+@Pakistani@|@pachistàn@
+@palace@|@pâxo@
+@pale@|@fûto, pàlido@
+@Palermo (Sicily)@|@Palèrmo@
+@palm@|@pàrma@
+@Palmaria (island)@|@Parmæa (A Parmæa)@
+@pan@|@pignàtta, pugnàtta, casiòula, tésto@
+@Panama@|@Pànama@
+@Panamanian@|@panaménse@
+@panic@|@pànico@
+@Pannesi (GE)@|@Pànexi@
+@panties@|@braghétte (fpl)@
+@pants@|@brâghe (fpl)@
+@pants (men's)@|@miànde (fpl)@
+@pants (women's)@|@braghétte (fpl)@
+@paper@|@papê@
+@parade@|@paràdda, sfilâ (nf)@
+@paradise@|@paradîzo@
+@paradox@|@paradòsso@
+@Paraguayan@|@paragoaiàn@
+@parallel@|@paralêlo@
+@parasite@|@parascîto@
+@parents@|@genitoî (mpl)@
+@parents-in-law@|@sêuxoi (mpl)@
+@Pareto (GE)@|@Paæo@
+@parfum@|@profùmmo@
+@Paris@|@Parìggi@
+@parish church@|@paròchia@
+@parish priest@|@pàreco@
+@park@|@pàrco@
+@parking@|@parchézzo@
+@parlour@|@salòtto@
+@Parmesan@|@parmixàn@
+@Parmesan cheese@|@formàggio piaxentìn, formàggio parmexàn@
+@parody@|@parodîa@
+@parpagliola (Genoese coin)@|@parpagêua@
+@parrot@|@papagàllo@
+@parsley@|@porsémmo@
+@parson@|@pàreco@
+@part@|@pàrte@
+@partial@|@parçiâle@
+@participation@|@partiçipaçión, parteçipaçión@
+@particle@|@partìcola@
+@particular@|@particolâre@
+@particularity@|@particolaritæ@
+@partridge@|@pernîxe (nf)@
+@party@|@fèsta@
+@party (diminutive)@|@festétta@
+@party (politics)@|@partîo@
+@pass@|@pàsso@
+@passing@|@sconpàrsa@
+@passion@|@pasción (nf)@
+@passionate@|@apascionòu@
+@passport@|@pasapòrto@
+@password@|@paròlla d'órdine@
+@past@|@pasòu@
+@pasta@|@pàsta@
+@pastry chef@|@pastiçê@
+@patch@|@tapóllo, péssa@
+@patent@|@brevétto@
+@paternity@|@paternitæ@
+@path@|@camìn@
+@patience@|@paçiénsa@
+@patient@|@paçiénte@
+@patrimony@|@patrimònio@
+@patriotic@|@patriòtico@
+@patrol@|@patùggia@
+@Paul@|@Poulìn, Pòulo@
+@pause@|@pàoza, pösa@
+@pavement@|@marciapê (nm)@
+@Paveto (GE)@|@Pavê@
+@pavilion@|@padigión@
+@paw@|@sànpa@
+@pawn (chess)@|@pedón, pedìnn-a@
+@pay attention!@|@fànni atençión!@
+@payment@|@pagaménto@
+@pea@|@poiscétto, poîscio, poéixo@
+@peace@|@pâxe (nf)@
+@peaceful@|@paxìfico@
+@peach@|@pèrsego, pèrsiga (Savona), pèrsega@
+@peach tree@|@èrbo de pèrseghe, pèrsego@
+@peak (of a cap)@|@padelétta@
+@peanut@|@pistàccio@
+@pear@|@péi (nm)@
+@peasant@|@vilàn, paizàn@
+@peasant (f)@|@paizànn-a@
+@Pedemonte (GE)@|@Pedemónte@
+@pedestal@|@pedestàllo@
+@pedestrian@|@pedón@
+@pee@|@pìscio@
+@peel@|@scòrsa@
+@peeled boiled chestnuts@|@pelæ (nfpl), piæ (nfpl)@
+@Pegazzano (SP)@|@Pegasàn@
+@Pegli (GE)@|@Pêgi@
+@pen@|@pénna@
+@penalty@|@pénn-a@
+@penance@|@peniténsa@
+@pencil@|@làppi (nm)@
+@pendulum@|@péndolo@
+@peninsula@|@penìzoa@
+@pension@|@pensción@
+@pensioner@|@penscionòu@
+@Pentema (GE)@|@Péntema@
+@people@|@génte (nf), persónn-e (nfpl), pòpolo@
+@pepper (fruit)@|@peverón, pevión@
+@pepper (spice)@|@péivie (nm)@
+@perfect@|@perfètto@
+@perfection@|@perfeçión@
+@perfectly@|@a-a perfeçión@
+@perfume@|@fragrànsa@
+@perfumed@|@fragrànte@
+@perhaps@|@fòscia@
+@Perinaldo (IM)@|@Preinàodo@
+@period of five years@|@lùstro (nm)@
+@permission@|@permìsso@
+@perpetual@|@perpétoo@
+@persecution@|@persecuçión@
+@person@|@persónn-a@
+@personal@|@personâle@
+@personality@|@personalitæ@
+@perturbation@|@confuxón@
+@Peru@|@Perù@
+@Peruvian@|@peruviàn@
+@perversion@|@dezàndio, perversción@
+@perverted@|@pervèrso@
+@pest@|@scrocón@
+@pestle@|@pestéllo@
+@pesto (Ligurian basil sauce)@|@pésto@
+@petard@|@fùrgou (ant.), petàrdo, trichetràcche (nm)@
+@Peter@|@Pê (nómme), Pedrìn, Pêo@
+@petrol@|@petròlio@
+@pharmacy@|@farmacîa, speçiàia@
+@pheasant@|@faxàn@
+@phenomenon@|@fenòmeno@
+@philately@|@filatelîa@
+@Philip@|@Pìppo@
+@Philippines@|@Filipìnn-e (fpl)@
+@philosopher@|@filòzofo@
+@philosophy@|@filozofîa@
+@phlegm@|@flémma, paciòrnia@
+@phone@|@teléfono@
+@phone call@|@telefonâ (nf)@
+@phonetics@|@fonética@
+@photograph@|@fotografîa@
+@photographer@|@fotògrafo@
+@phrase@|@frâze@
+@physical@|@fîxico@
+@physicist@|@fîxico@
+@physics@|@fîxica@
+@Pian Carnese (GE)@|@Ciàn Carnéize@
+@Pian dei Preti (GE)@|@Ciàn di Prævi@
+@Pian di Latte (IM)@|@Ciàn de Làite@
+@pianist@|@pianìsta@
+@piano@|@pianofòrte@
+@pickling brine@|@scabéccio@
+@pickpocket@|@tîabórsa, borsaiòllo, borsaieu, mandilâ (nm)@
+@picture@|@figûa@
+@picturesque@|@pitorésco@
+@pie@|@bonétto@
+@pie dish@|@tésto@
+@piece@|@pestùmmo, pésso, tòcco@
+@piece of furniture@|@mòbile (nm)@
+@piece of gossip@|@ciæto@
+@piece of junk@|@ravàtto, angæzo@
+@Piedmont@|@Piemónte@
+@Piedmontese (from Piedmont)@|@piemontéize@
+@pier@|@banchìnn-a, meu@
+@Pietra Ligure (SV)@|@A Prîa@
+@Pietrabissara (GE)@|@Prîa Bisciæa@
+@Pieve di Sori (GE)@|@Céive de Söi@
+@Pieve di Teco (IM)@|@Cêve@
+@Pieve Ligure (GE)@|@Céive@
+@pig@|@maiâle (nm), pòrco@
+@pigeon@|@cónbo, cónba@
+@piggy bank@|@biscioêta@
+@pigheaded@|@sucón@
+@pigsty@|@stàggio@
+@pike pole@|@mezomainâ (nm)@
+@pile@|@sàcco@
+@pilgrim@|@pelegrìn@
+@pilgrimage@|@pelegrinàggio@
+@pill@|@pìloa@
+@pillow@|@oêgê (nm), cuscìn@
+@pilot@|@pilöta (nm)@
+@pimp (n)@|@xatâ (nm)@
+@pimple@|@brìgoa@
+@pin@|@pontaieu@
+@pinch@|@spelinsigâ (nf)@
+@pine@|@pìn@
+@pine cone@|@pìgna@
+@pine kernel/nut@|@pigneu@
+@pinkie@|@dîo marmelìn@
+@pinwheel@|@ventoêla@
+@pip@|@axinélla, seménsa@
+@pipe (to smoke)@|@pìppa@
+@pirate@|@làddro de mâ@
+@pirouette@|@piroétta@
+@Pisa (Tuscany)@|@Pîza@
+@pistachio@|@festécco@
+@pistol@|@masagàtto (nm), pistòlla@
+@pistol (small)@|@masagàtto@
+@piston@|@stantùffo@
+@pit@|@armélla@
+@pitch (substance)@|@péixe (nf)@
+@pitted@|@camoòu@
+@pity@|@pénn-a@
+@pizza@|@pìssa@
+@pizzeria@|@piserîa@
+@place@|@pòsto@
+@plague@|@pèsta@
+@plain (n)@|@cianûa@
+@plain-spoken@|@sccétto@
+@planet@|@planêta@
+@planetary@|@planetâio@
+@plant@|@ciànta@
+@plant pot@|@vâzo, vâzo de ciànte@
+@plate@|@tóndo, piâto@
+@platform@|@tribùnn-a@
+@plausible@|@versocìmile@
+@player@|@zugòu@
+@players@|@zugoéi (nmpl)@
+@playing card@|@càrta da zêugo@
+@pleasant@|@amàbile@
+@please@|@pe cortexîa, pe piaxéi@
+@pleasure@|@piaxéi (nm)@
+@plein-air@|@a l'avèrto@
+@plentiful@|@abondànte@
+@plenty@|@abondànsa@
+@plough@|@arâtro, aò@
+@plum@|@brìgna, brigneu, brignón@
+@plumber@|@latonê (nm), stagnìn (nm)@
+@plural@|@plurâle@
+@Pluto@|@Plutón@
+@pocket@|@stàcca@
+@pocket/fob watch@|@relêuio da stàcca@
+@podesta' (medieval magistrate)@|@poistæ@
+@poet@|@poêta@
+@poet (f)@|@poetéssa@
+@poetry@|@poexîa@
+@Pogliasca (SP)@|@Pogiàsca@
+@point@|@pónta@
+@poison@|@venìn, velêno (it.)@
+@poisoned@|@inveninòu@
+@poisonous@|@velenôzo@
+@Poland@|@Pològna@
+@Polcevera (GE)@|@Ponçéivia@
+@Polcevera (Genoese river)@|@Ponçéivia@
+@pole@|@pölo@
+@polecat@|@gàtto spùsso@
+@police@|@poliscîa@
+@police commissioner@|@questô@
+@police headquarters@|@questûa@
+@policeman@|@carbinê, carabinê@
+@Polish@|@polàcco@
+@political@|@polìtico@
+@politician@|@polìtico@
+@politicians@|@polìtichi (mpl)@
+@politics@|@polìtica@
+@pollack@|@rætìn (nm)@
+@Pollanesi (GE)@|@Polànexi@
+@pollock@|@rætìn (nm)@
+@polluted@|@inquinòu@
+@pollution@|@inquinaménto@
+@Pontedecimo (GE)@|@Pontedêximo@
+@Ponticello (square)(GE)@|@Pontexéllo (Zêna)@
+@pony@|@polêo@
+@Ponzano (SP)@|@Ponsàn@
+@pool@|@póssa@
+@poor@|@desperòu, despiòu, meschìn, meschinétto, mìscio, pövio, pövou@
+@poor me!@|@ahimì!, ahimè mi!@
+@poppy@|@papàveo@
+@poppycock@|@móssa@
+@popular@|@popolâre@
+@popular lyric@|@stornéllo@
+@population@|@popolaçión@
+@porcelain@|@porçelànn-a@
+@porch@|@pòrtego@
+@porcupine@|@riseu@
+@pornography@|@pornografîa@
+@port@|@pòrto@
+@port worker@|@portoâle@
+@porter@|@portê@
+@portico@|@pòrtego@
+@portion@|@porçión, quöta@
+@Portofino (GE)@|@Pòrtofìn@
+@Portoria (GE)@|@Portöia@
+@Portovenere (SP)@|@Pòrtovénere@
+@portrait@|@ritræto@
+@Portugal@|@Pòrtogàllo@
+@Portuguese@|@pòrtoghéize@
+@position@|@poxiçión@
+@positive@|@poxitîvo@
+@possesion@|@posèsso@
+@possessive@|@posescîvo@
+@possibility@|@poscibilitæ@
+@possible@|@poscìbile@
+@post@|@pòste (fpl), pòsta@
+@postage@|@spediçión@
+@postcard@|@cartolìnn-a@
+@posting@|@spediçión@
+@postman@|@postìn (nm)@
+@potato@|@patàtta@
+@potato masher@|@sciacapatàtte (nm)@
+@potato sprout@|@nàscio de patàtta@
+@poultry farmer@|@polaieu (nm)@
+@poultry shop@|@bitêga da polaieu (nf)@
+@pound@|@lìbbra@
+@poverty@|@bezéugno, povertæ@
+@powder@|@pûa@
+@powder magazine@|@poviêa@
+@power@|@poéi (nm), poténsa@
+@Pra (GE)@|@Prà@
+@practical@|@pràtico@
+@practically@|@praticaménte@
+@practice@|@pràtica@
+@prairie@|@cianûa@
+@pram@|@pasegìn@
+@prawn@|@grìtta@
+@pray@|@preghêa@
+@precious@|@preçiôzo@
+@precipice@|@derûo, preçipìçio@
+@precipitous@|@a pìcco@
+@precise@|@precîzo, menuçiôzo@
+@precision@|@precixón, precizûa@
+@precocious@|@tenpoîo@
+@prediction@|@prediçión@
+@prefix@|@prefìsso@
+@pregnant@|@incìnta, grâvia (ag.f)@
+@preliminary@|@preliminâre@
+@prelude@|@prelùdio@
+@preparation@|@preparaçión@
+@presence@|@prezénsa@
+@present@|@regàllo, prezénte@
+@present time@|@atoalitæ@
+@presentation@|@prezentaçión@
+@presidence@|@prescidénsa@
+@president@|@prescidénte@
+@pressure@|@presción@
+@prevention@|@prevensión@
+@preview@|@anteprìmma@
+@previous@|@anteriôre@
+@price@|@prêxo, préixo (Savona)@
+@prick@|@pontûa@
+@pride@|@supèrbia, orghéuggio@
+@priest@|@præ, præve (nm)@
+@primitive@|@òriginâio@
+@prince@|@prìnçipe@
+@princess@|@prinçipéssa@
+@principal@|@préscide@
+@Principality of Monaco@|@Principâto de Mónego@
+@principle@|@prinçìpio@
+@printed@|@stanpòu (ag.)@
+@printer@|@stanpànte (nf), stanpòu (nm)@
+@prisoner@|@prexonê@
+@private@|@privòu@
+@probably@|@probabilménte@
+@problem@|@problêma, goâio@
+@procedure@|@procedûa@
+@process@|@procèsso@
+@procession@|@procesción, proçesción@
+@prodigy@|@prodìggio@
+@product@|@prodûto@
+@production@|@produçión@
+@productor@|@produtô@
+@profession@|@mestê, òcupaçión@
+@professor@|@profesô@
+@professor (f)@|@profesoréssa@
+@profile@|@sàgoma@
+@profit@|@goâgno, goadàgno@
+@programme@|@progràmma@
+@progress@|@progrèsso@
+@prohibition@|@proibiçión@
+@projector@|@proietô@
+@promiscuous woman@|@scixerboétta@
+@promise@|@promìssa@
+@promoción@|@promoxón@
+@pronoun@|@pronómme@
+@proof@|@prêuva@
+@propeller@|@élice (nf), èliçe (nf), èrbo de l'élice@
+@property@|@propiêtæ@
+@proportion@|@proporçión@
+@prosperous@|@pròspero@
+@prostitute@|@bagàscia@
+@prostitute (augmentative)@|@bagasciónn-a@
+@protected@|@protezûo@
+@protection@|@proteçión@
+@protector@|@protetô@
+@protest@|@protèsta@
+@protuberance@|@bernòcolo (it.), bòrlo@
+@proud@|@supèrbio, supèrbo, orgogiôzo@
+@Provence@|@Provénsa@
+@province@|@provìnsa@
+@prune@|@brìgna sécca@
+@pruning hook@|@penàcco@
+@pruning shears@|@poænn-a@
+@Prussia@|@Prùscia@
+@psalm@|@sàlmo@
+@psychologist@|@psicòlogo@
+@psychology@|@psicologîa@
+@psychopath@|@psicopàtico@
+@psychopathic@|@psicopàtico@
+@public@|@pùblico, pùbrico@
+@published@|@édito@
+@publishing company@|@editrîce@
+@pudding@|@bonétto@
+@puddle@|@póssa@
+@puff@|@sciùscio@
+@puff pastry@|@pàsta sféuggia@
+@pulley@|@poêza, tàggia@
+@pulp@|@pórpa@
+@pulse@|@pôso@
+@pumpkin@|@sùcca@
+@pumpkinhead@|@sucón@
+@punch@|@zonchetâ (nf), ponsón@
+@puncture@|@pontûa@
+@punishment@|@puniçión@
+@pupil@|@scolâio, aliêvo, alêvo@
+@pupil (f)@|@studentéssa@
+@pupil (m)@|@studénte@
+@puppet@|@buratìn (nm), marionétta@
+@pure@|@pûo@
+@pure wine@|@vìn sccétto@
+@purgatory@|@purgatêuio@
+@purity@|@puréssa@
+@purple@|@moêlo, amoelòu@
+@purpose@|@propòxito@
+@purposely@|@apòsta@
+@purse@|@pòrtamonæe (nm)@
+@pursuit@|@persecuçión@
+@push@|@ùrto, ronsón@
+@quack@|@mêgón@
+@quail@|@quâgia@
+@quality@|@qualitæ@
+@quantity@|@quantitæ@
+@quantity of fifteen items@|@chinzénn-a@
+@quarrel@|@lîte (nf), ratélla, barùffa, bæga@
+@quarter@|@quàrto@
+@Quarto dei Mille (GE)@|@Quàrto (Zena)@
+@quay@|@banchìnn-a, meu@
+@queen@|@regìnn-a@
+@question@|@questión, domànda@
+@queue@|@côa@
+@Quezzi (GE)@|@Quéssi@
+@quick@|@svèlto, spedîo (ag.), spedîo@
+@quickly@|@a-a spedîa, spedîo (av.), fîto@
+@quiet@|@sìtto@
+@Quiliano (SV)@|@Cugén@
+@quince@|@méi cotógno (nm)@
+@Quinto al Mare (GE)@|@Quìnto (Zêna)@
+@quite many@|@bén de@
+@quite much@|@asæ@
+@quota@|@quöta@
+@quotation@|@quòtaçión@
+@rabbit@|@conìggio@
+@race@|@ràzza@
+@Rachel@|@Racæle@
+@racism@|@razìsmo@
+@racist@|@razìsta@
+@racket@|@calabâ, reciòcco@
+@radar@|@ràdar@
+@radicchio@|@radìccia@
+@radio@|@ràdio@
+@radish@|@ravanéllo, ravanétto, armoasétta@
+@raftsman@|@barcaieu@
+@rag@|@picagétta@
+@rag-and-bone man@|@repesìn@
+@rage@|@fótta, ràggia@
+@ragged@|@rebelón, strasón@
+@rags@|@stràsse (nfpl)@
+@railing@|@ringhêa@
+@rails (train)@|@rotâie (fpl)@
+@railway@|@stràdda ferâ (nf), stràdda ferâ, ferovîa@
+@rainbow@|@archinçê (nm), arcobalén (nm)(it.), èrco in çê@
+@raisin@|@ûga pàssa@
+@raising@|@alevaménto, alevéuia@
+@rake@|@rastéllo@
+@ram@|@æo@
+@rancid@|@stantîo, rànçio, pöso@
+@rancour@|@rouxîa@
+@randomly@|@a câxo, a-a rinfûza, a-a sbæra, abrétio@
+@range@|@ràngo (nm)@
+@ranging rod@|@xalón@
+@ranking@|@clascìfica@
+@Rapallo (GE)@|@Rapàllo@
+@Raphael@|@Rafaêle@
+@rarely@|@raraménte@
+@rareness@|@raritæ@
+@rarity@|@raritæ, stranéssa@
+@rash (n)@|@zèrbia@
+@rashly@|@de premûa, de spréscia@
+@rat@|@ràtto@
+@rather@|@tòsto@
+@raven@|@crövo@
+@ravioli@|@raieu, ravieu@
+@raw@|@crûo@
+@ray@|@ràggio@
+@razor@|@razô@
+@reach@|@portâ (nf)@
+@reader@|@letô@
+@ready@|@prónto@
+@real@|@reâle@
+@reality@|@realtæ@
+@really@|@pe in davéi, pe 'n davéi, davéi, in realtæ@
+@reason@|@raxón@
+@reasonable@|@raxonòu@
+@reasonable charge@|@prêxo raxonòu@
+@reasonable price@|@prêxo raxonòu@
+@reasoning@|@raxonaménto@
+@rebel@|@ribèlle@
+@rebellion@|@ribelión@
+@receiver@|@reçetô@
+@recent@|@reçénte@
+@recently@|@pöco fa, da no goæi, reçenteménte, da pöco@
+@recipe@|@riçètta@
+@recipient@|@reçetô@
+@recollection@|@ricòrdo@
+@recommendation@|@racomandaçión@
+@recording@|@registraçión@
+@recovery@|@repìggio@
+@recreation@|@ricreaçión@
+@rector@|@préscide@
+@red@|@rósso@
+@red porgy (fish)@|@pâgou@
+@red wine@|@vìn rósso@
+@redcurrant@|@rîbe (nf), rîbes (nf)@
+@reduction@|@riduçión@
+@reed@|@cànna@
+@reeds@|@zónchi (nmpl)@
+@reef@|@mùggio de schéuggi, scugêa, schéuggio@
+@reference@|@riferiménto@
+@refined@|@rafinòu@
+@refined (f)@|@fìnn-a (ag.f)@
+@refined (m)@|@fìn@
+@refinement@|@riçercatéssa@
+@reflect@|@riflèsso@
+@reflection@|@riflesción@
+@reflexion@|@riflesción@
+@reform@|@refórma@
+@refraction@|@refraçión@
+@refrain@|@ritornéllo@
+@refreshment@|@rinfrésco@
+@refuge@|@pòrtopighéuggio, rifûgio@
+@refusal@|@refûo@
+@refuse@|@ruménta@
+@regard@|@salûo@
+@regarding...@|@rigoàrdo a..., a propòxito de@
+@regards@|@salûi (nmpl)@
+@regatta@|@regàtta@
+@regime@|@regìmme (nm)@
+@region@|@región@
+@regional@|@regionâle@
+@register@|@regìstro@
+@registration@|@registraçión@
+@regret@|@laménto@
+@regretful@|@pentîo@
+@regular@|@regolâre@
+@rein@|@brìlla@
+@rejection@|@refûo@
+@relationship@|@relaçión, rapòrto@
+@relative@|@relatîvo@
+@relative (n)@|@parénte@
+@releif@|@ripözo@
+@reliance@|@dipendénsa@
+@relic@|@relìquia@
+@relief@|@recûvio, soliêvo@
+@religion@|@religión@
+@religious@|@religiôzo@
+@reluctantly@|@mâvoentêa@
+@remark@|@riflesción@
+@remorse@|@rimòrscio@
+@removal (house)@|@stramûo@
+@renewal@|@renovaçión@
+@renowned@|@rinomòu@
+@rent@|@afìtto, noêzo, nölo (it.), nöo, pixón (nf)@
+@repair@|@riparaçión@
+@repeat@|@ripetiçión@
+@repentant@|@pentîo@
+@repertoire@|@repertöio@
+@replacement@|@rinpiàsso@
+@reply@|@rispòsta@
+@report@|@ripòrto@
+@repose@|@ripözo@
+@reproduction@|@riproduçión@
+@reptile@|@retîle, rétile@
+@republic@|@repùbrica, repùblica@
+@Republic of Genoa@|@Repùblica de Zêna@
+@repugnance@|@schîfo, schìnfio@
+@reputation@|@reputaçión@
+@request@|@petiçión@
+@requirement@|@requixîto@
+@requisite@|@requixîto@
+@rescue@|@sarvatàggio@
+@research@|@riçèrca, investigaçión@
+@reserve@|@risèrva@
+@residence@|@rescidénsa, rexidénsa@
+@resident@|@rescidénte@
+@resignation@|@rasegnaçión@
+@resin@|@rexìnn-a@
+@resinous@|@rexinôzo@
+@resistance@|@rexisténsa@
+@resolution@|@risoluçión, resoluçión@
+@resource@|@risórso@
+@respect@|@rispètto@
+@respectful@|@rispetôzo@
+@respectfully@|@rispetozaménte@
+@respiration@|@respiaçión@
+@responsibility@|@responsabilitæ@
+@responsible@|@responsàbile@
+@rest (relax)@|@ripözo@
+@rest (what remains)@|@rèsto@
+@restart@|@repìggio@
+@restaurant@|@ristorànte (nm), restoràn (nm)@
+@restless@|@inquiêto@
+@restoration@|@repìggio@
+@restriction@|@restriçión@
+@resurgence@|@risorgiménto@
+@retail@|@in detàlio, a-o menûo@
+@retard@|@deficénte@
+@rethoric@|@retòrica (nf)@
+@rethorical@|@retòrico@
+@reticulated@|@fæto a ræ@
+@retinue@|@ségoito@
+@retirement@|@pensción@
+@return@|@ritórno, rédito@
+@revelation@|@rivelaçión@
+@revenge@|@vendétta@
+@reverse side@|@revèrso@
+@revision@|@revixón@
+@revitalization@|@rilàncio@
+@revival@|@rilàncio, risorgiménto@
+@revolting@|@vomitîvo@
+@revolution@|@revoluçión@
+@revolver@|@revòlvero@
+@reward@|@tagión@
+@Rezzoaglio (GE)@|@Rezoâgio@
+@rheumatism@|@reuimatìsmo, réuima@
+@rhinoceros@|@rinoçerónte (nm)@
+@rhombus@|@rónbo@
+@rhyme@|@rìmma@
+@rhythm@|@rìtmo@
+@ribbon@|@picàggia@
+@ribbon (silk)@|@frexétto@
+@rice@|@rîzo@
+@rice field@|@rizêa@
+@rich@|@rìcco@
+@Richard@|@Ricàrdo@
+@rift@|@avenéuia, crepatûa@
+@right (adj.)@|@giùsto, corètto@
+@right (n)@|@dirìtto (it.), drîto (nm)@
+@right after@|@sùbito dòppo@
+@right before@|@sùbito prìmma@
+@right-side@|@drîto (ag.)@
+@rigid@|@réncio, réuido@
+@rigor@|@rigô@
+@rigorous@|@rigôzo@
+@rim@|@zìnn-a, oêxìn, òrlo@
+@rind@|@scòrsa@
+@ring (burner)@|@fornéllo@
+@ring finger@|@dîo anulâre, dîo spozanéllo@
+@ring of a bell@|@bonbón@
+@rinsing@|@aruxentâ (nf)@
+@Riomaggiore (SP)@|@Rimazô@
+@ripe@|@méuio@
+@rise@|@montâ (nf), ouménto@
+@risk@|@réizego@
+@risky@|@reizegôzo@
+@rite@|@rîto@
+@rival@|@rivâle@
+@rivalry@|@rivalitæ@
+@Rivarolo (GE)@|@Rieu, Roieu@
+@river@|@sciùmme (nm)@
+@Riviera@|@rivêa@
+@road@|@vîa@
+@roar@|@reciòcco@
+@roasted meat@|@ròsto@
+@robber@|@làddro@
+@robbery@|@fùrto, rapìnn-a@
+@robin (bird)@|@pecétto@
+@rock@|@magheu, ròccia, rócca@
+@rocking@|@vànni e vêgni (nm)@
+@rod@|@trapétta, bachétta@
+@roe deer@|@craieu@
+@rogue@|@rufiàn@
+@roll@|@ròtolo (it.), rolò (nm)@
+@Romairone (GE)@|@Romaión@
+@Roman@|@romàn@
+@Romania@|@Romanîa@
+@Romanian@|@romêno@
+@Romansh@|@romàncio@
+@Rome@|@Rómma@
+@Romeo@|@Romê@
+@roof@|@téito@
+@room@|@sâla, stànsia, stànsa@
+@root@|@réixe (nf)@
+@rose@|@rêuza@
+@Rose (name)@|@Rêuzo, Rozìnn-a, Rozìn, Rozétta, Rozinìn@
+@rosemary@|@rosmanìn, romanìn@
+@rotten@|@màrso@
+@rotter@|@baràbba (nm)@
+@rough@|@sgréuzzo@
+@rough throat@|@ràntega@
+@roughly@|@a-a bagàrda, a-a biscanbìggia, a-a biscöchìnn-a, a-a buzarónn-a, a-a carlónn-a@
+@round (adj.)@|@rióndo@
+@round Ligurian pasta in soup@|@scocozó (nm)@
+@route@|@percórso@
+@Rovereto (GE)@|@Roveòu@
+@roving@|@bìndolo@
+@row (argument)@|@bæga@
+@rubber@|@gómma@
+@rubbish@|@ruménta@
+@rubble@|@zétto@
+@ruby@|@rubìn@
+@rude@|@mæducòu, sgréuzzo, maleducòu@
+@Rudolph@|@Rodórfo@
+@ruin@|@rovìnn-a@
+@rule@|@rêgola, rêgoa, nórma@
+@rung@|@scæn@
+@ruse@|@manézzo@
+@rush@|@premûa, spréscia@
+@rushing@|@a-a córsa@
+@Russia@|@Rùscia@
+@Russian@|@rùsso@
+@rust@|@rùzene (nf), rùzze (nf)@
+@rusty@|@ruzenénto@
+@Ruta (GE)@|@Rûa, A Rûa@
+@saber@|@sciàbbra@
+@saber slash@|@sciabrâ (nf)@
+@sacrifice@|@sacrifìçio@
+@sad@|@intristîo, trìste, trìsto@
+@safe@|@sàn, segûo@
+@safe (f)@|@sànn-a (ag.f)@
+@safety@|@seguéssa@
+@safety belt@|@çénta de seguéssa@
+@saffron@|@safràn@
+@sage (herb)@|@sàrvia@
+@sail@|@véia@
+@sail boat@|@bàrca a véia@
+@sailor@|@navegatô, mæn (nm), mainâ (nm), marìn (nm)@
+@sailors (pl)@|@mainæ (mpl)@
+@saint (f)@|@sànta@
+@saint (m)@|@sànto@
+@Saint Peter@|@Sàn Pê@
+@salad@|@insalàtta@
+@salami@|@salàmme (nm)@
+@sale@|@véndia@
+@sale (cut price)@|@sbaràsso@
+@Salema porgy (fish)@|@sàrpa@
+@salesman@|@venditô@
+@saline@|@salìn@
+@saliva@|@spûo@
+@salt@|@sâ (nf)@
+@salt shaker@|@salìn@
+@saltcellar@|@salìn@
+@salted fish@|@pésci sæ (nmpl)@
+@Salto (GE)@|@Sâto (Zêna)@
+@saltpeter@|@salìn@
+@salty@|@salòu, salìn, savoîo@
+@salty (pl)@|@salæ (mfpl), sæ (ag.mfpl)@
+@salutation@|@salûo@
+@same@|@egoâle, mæximo, pægio@
+@Sampierdarena (GE)@|@Sàn Pê d'Ænn-a@
+@sample@|@canpión@
+@San Biagio (IM)@|@Sàn Giâxo@
+@San Cipriano (GE)@|@Sàn Çepriàn@
+@San Colombano (GE)@|@Sàn Conbàn@
+@San Francesco d'Albaro (GE)@|@Sàn Françésco d'Arbâ, Arbâ@
+@San Fruttuoso (GE)@|@Sàn Frutôzo@
+@San Marino@|@Sàn Marìn@
+@San Quirico (GE)@|@Sàn Chîgo@
+@San Salvatore dei Fieschi (GE)@|@Sàn Sarvòu@
+@San Teodoro (GE)@|@Sàn Tiodöo@
+@sanctuary@|@santoâio@
+@sand@|@ænn-a, sàbia (it.)@
+@sanity@|@sanitæ@
+@Sanremo (IM)@|@Sanrémmo@
+@Santa Giustina (SV)@|@Sànta Giustìnn-a@
+@Santa Margherita Ligure (GE)@|@Sànta Margàita@
+@Sant'Antioco (Sardinia)@|@Sant'Antiòcco@
+@Sant'Apollinare (GE)@|@Sàn Poinâ@
+@Sant'Eusebio (GE)@|@Sànto Zéuggio@
+@Sant'Ilario Ligure (GE)@|@Sant'Ilâio@
+@santity@|@santitæ@
+@Santo Stefano d'Aveto (GE)@|@Sàn Stêva d'Avêto@
+@Saorge (now France)@|@Savórgio, Saórgio@
+@Sardinia@|@Sardégna@
+@Sardinian (from Sardinia)@|@sàrdo@
+@Sarissola (GE)@|@Saisêua@
+@Sarzana (SP)@|@Sarzànn-a@
+@Sarzano (hill of Genoa)@|@Sarzàn@
+@Sassello (SV)@|@Sascéllo, Sascê@
+@Satan@|@Sàtana@
+@satiety@|@saçietæ@
+@Saturday@|@sàbbo@
+@sauce@|@bagnétta, sàrsa, tócco, ùmido (nm)@
+@sausage@|@sâsìssa@
+@saving@|@rispàrmio@
+@savings@|@rispàrmi (mpl)@
+@saviour@|@sarvatô@
+@Savona (SV)@|@Savónn-a, Sànn-a@
+@Savonese (from Savona)@|@savonéize@
+@Savoy cabbage@|@cöo garbûxo, garbûxo@
+@saw@|@særa@
+@sawdust@|@seréuia@
+@say yes!@|@dìnni de sci!@
+@scabies@|@rógna@
+@scabious@|@rognôzo@
+@scald@|@scotatûa, bruxéuia@
+@scale@|@bànsa@
+@scale (of fish)@|@scàggia@
+@scalpel@|@scöpelìn, scöpéllo@
+@scam@|@fròuxo, gazìbba, sfròuxo, trùffa (it.)@
+@scandal@|@scàndalo@
+@Scandinavia@|@Scandinàvia@
+@Scandinavian@|@scandìnavo@
+@scapula@|@pæta da spàlla@
+@scarce@|@scàrso@
+@scarcely@|@a fadîga, a îsa a îsa, a malapénn-a@
+@scare@|@poîa, resâto@
+@scarf@|@sciàllo, sciàrpa@
+@scene@|@scenâio, scêna@
+@scenery@|@scenâio@
+@scholar@|@scensiòu@
+@school@|@schêua@
+@science@|@scénsa@
+@scissors@|@tezoîe (fpl)@
+@Scoffera (GE)@|@Scofæra@
+@score@|@pontézzo@
+@score (music)@|@partitûa, spartîo@
+@scorn@|@desprêxo@
+@scorpion@|@tàncoa@
+@Scotland@|@Scòçia@
+@Scottish@|@scoçéize@
+@scoundrel@|@rufiàn@
+@scrap merchant@|@freciamìn (nm)@
+@scratch@|@granfignâ (nf), granfignéuia@
+@scrawl@|@scarabòccio@
+@screen@|@schèrmo@
+@screw@|@vîa@
+@screw (nautical)@|@élice (nf), èliçe (nf)@
+@screwdriver@|@cacciavîe (nm)@
+@scribble@|@scarabòccio@
+@sculptor@|@scultô@
+@sculpture@|@scultûa@
+@scurvy@|@scorbûto@
+@sea@|@mâ (nm)@
+@sea bass (fish)@|@loàsso@
+@sea urchin@|@zìn@
+@sea-blue@|@bleu maræn@
+@seafaring (adj.)@|@mainaésco@
+@seagull@|@gabiàn, öchìn de mâ (nm)@
+@seal (animal)@|@vitéllo marìn, föca@
+@seamanship@|@mainàia@
+@seamen's beret with pompom@|@camogìn@
+@search@|@riçèrca, çèrca@
+@seas@|@mâ (nmpl)@
+@seashore@|@mænn-a@
+@seaside@|@mænn-a@
+@season@|@stagión@
+@seat belt@|@çénta de seguéssa@
+@seaward@|@a-o làrgo@
+@seaweed@|@æga@
+@sebaceous cyst@|@lùggia@
+@Seborga (IM)@|@Sebórga@
+@second (n)@|@segóndo@
+@second (number)@|@segóndo (ag.)@
+@secondary@|@segondâio@
+@secrecy@|@clandestinitæ@
+@secret@|@segrêto@
+@secretary@|@segretâio, segretâia (f)@
+@section@|@gælo, seçión@
+@secular@|@làico@
+@security@|@seguéssa@
+@security guard@|@cantonê@
+@seducer@|@sedutô@
+@seduction@|@seduçión@
+@seductive@|@seduxénte@
+@see you!@|@se vedémmo!, a rivédise!, a revéise!@
+@seed@|@seménsa, axinélla@
+@seedy@|@malandæto@
+@segment@|@gælo@
+@seism@|@teremöto, scìsma (nm)@
+@seldom@|@raraménte@
+@selection@|@çèrnia, seleçión@
+@selective@|@seletîvo@
+@self-determination@|@outodeterminaçión@
+@self-portrait@|@outoritræto@
+@Semorile (GE)@|@Semorî@
+@senator@|@senatô@
+@Senegalese@|@senegaléize@
+@seniority@|@ansianitæ@
+@sensation@|@sensaçión@
+@sense@|@sénso@
+@senselessly@|@a-a rinfûza, a-a sbæra@
+@sensitive@|@senscìbile@
+@separation@|@separaçión@
+@September@|@seténbre@
+@Serbia@|@Sèrbia@
+@Serbian@|@sèrbo@
+@Serravalle Scrivia (Piedmont)@|@Saravàlle@
+@serum@|@schéuggia@
+@service@|@servìçio@
+@servitude@|@servitù@
+@Sessàrego (GE)@|@Sesægo@
+@seven@|@sètte@
+@seven hundred@|@sèteçénto@
+@seventeen@|@dîsètte@
+@seventeenth@|@deximosétimo, disetén@
+@seventh@|@sétimo@
+@seventy@|@setànta@
+@several@|@bén de@
+@sexy@|@seduxénte@
+@shabby@|@malandæto@
+@shack@|@cabànna@
+@shade-fish@|@fîgou@
+@shadow@|@ónbra@
+@shady@|@stórbio@
+@shaggy hair@|@cavélli sciâtæ (mpl), cavélli sparpagiæ (mpl)@
+@shaken@|@sciâtòu@
+@shakes@|@tremaxón@
+@shaking@|@tremaxón@
+@shame@|@verghéugna@
+@shameful@|@vergognôzo@
+@shamrock@|@triféuggio, quadriféuggio@
+@shape@|@fórma@
+@share@|@quöta@
+@shark@|@pesciocàn, squæo@
+@sharpened@|@agùsso@
+@shaver@|@razô@
+@shavings@|@rasccêuia, rascciatûa@
+@she@|@lê@
+@she is@|@a l'é, lê a l'é@
+@sheep@|@pêgoa@
+@sheet (bed)@|@lenseu@
+@sheet music@|@partitûa, spartîo@
+@sheet of paper@|@féuggio@
+@shelf@|@sganzîa, scansîa, scafâle (nm)(it.)@
+@shelter@|@rifûgio, pòrtopighéuggio@
+@she-wolf@|@lôa@
+@shield@|@scùddo@
+@shilling@|@scilìn@
+@shine@|@lùstro (nm)@
+@shining@|@brilànte@
+@shiny@|@brilànte, lùstro (ag.)@
+@ship@|@bàrco, nâve (nf)@
+@shipment@|@spediçión@
+@shipowner@|@armatô@
+@shipwreck@|@noufrâgio, naofrâgio@
+@shirt@|@camîxe (nf)@
+@shit@|@cagàdda, mèrda (volg.)@
+@shock@|@resâto@
+@shoe@|@scàrpa@
+@shoe upper@|@tomæa@
+@shoelace@|@strìnga de scàrpe@
+@shoemaker@|@savatìn, scarpâ (nm), caigâ@
+@shoeshine boy@|@decreteur@
+@shoestring@|@strìnga de scàrpe@
+@shoot (of plant)@|@zermóggio@
+@shop@|@bétoa, negòçio, bitêga@
+@shop window@|@vedrìnn-a@
+@shopkeeper@|@bitegâ (nm)@
+@shopping@|@spéiza@
+@shore@|@zìnn-a, rivêa, rîva@
+@short@|@cùrto@
+@short & twisted Ligurian pasta@|@tròfie (nfpl)@
+@short cut@|@strazétto@
+@shortage@|@scarscitæ@
+@shortcut@|@scorsaieu@
+@short-sighted@|@òrbixàn@
+@shot@|@spâro, córpo@
+@shotgun@|@sccéuppo, scciupétta@
+@shoulder@|@spàlla@
+@shoulder blade@|@pæta da spàlla@
+@shout@|@ùrlo, crîo, sbràggio@
+@shove@|@ùrto, ronsón@
+@shovel@|@pâa, pâla@
+@shovelful@|@paâ (nf)@
+@shower@|@dóssa@
+@shower (rain)@|@sgoasón, ægoàssa@
+@shred@|@menìsso@
+@shrew@|@mezengón, muzangón@
+@shriek@|@lûo@
+@shrimp@|@grìtta@
+@shut up!@|@no silâ!@
+@Siberia@|@Scibêia@
+@Siberian@|@sciberiàn@
+@Sicilian (from Sicily)@|@siciliàn@
+@Sicily@|@Sicìlia@
+@sick@|@infèrmo, mòuto, maròtto@
+@sickle@|@mesoîa@
+@sickness@|@mâ (nm), malatîa (it.), moutîa@
+@side@|@löo, sciànco (pop.), fiànco@
+@sideboards@|@bazètte (fpl)@
+@sideburns@|@bazètte (fpl)@
+@sidewalk@|@marciapê (nm)@
+@sieve@|@siâso, vàllo@
+@sight@|@vìsta, vixón@
+@sign@|@ségno@
+@signal@|@ségno, segnâle (nm)@
+@signature@|@fìrma@
+@silence@|@scilénsio@
+@silent@|@scilensiôzo@
+@silhouette@|@sàgoma@
+@silk@|@sæa@
+@silliness@|@âzenàia, nesciàia, bàciara, mincionàia@
+@silver@|@argénto@
+@silverside (fish)@|@chéunou@
+@similar@|@scìmile@
+@Simon@|@Scimón@
+@simple@|@séncio@
+@simpleton@|@benàrdo (ag.), panisón, panpalûgo, tarlùcco@
+@simultaneously@|@a-o mæximo ténpo, tùtti inte 'na vòtta@
+@sin@|@pecòu@
+@since@|@zaché@
+@since (because)@|@scicómme@
+@since (time)@|@scìn da@
+@since then@|@da alôa@
+@sincere@|@sccétto@
+@sincerity@|@sccetéssa@
+@sinewy@|@stopôzo (o mangiâ)@
+@singing@|@cànto@
+@single@|@fantìn@
+@single state@|@fantinægo@
+@singular@|@singolâre@
+@sink (n)@|@lavéllo@
+@sinner@|@pecatô@
+@sinner (f)@|@pecatôa@
+@Sir@|@scignôro@
+@siren@|@scirénn-a@
+@sirocco (wind)@|@sciròcco@
+@Sirs@|@scignôi (mpl)@
+@siskin (bird)@|@lùgou@
+@sister@|@seu (nf)@
+@sit down here!@|@asétite chi!@
+@site@|@scîto@
+@sitting@|@asetòu@
+@situation@|@scitoaçión@
+@six@|@sêi@
+@sixteen@|@sézze@
+@sixteenth@|@deximosèsto, sezén@
+@sixth@|@sèsto@
+@sixty@|@sciusciànta@
+@size@|@tàggia@
+@skates@|@pàtini (mpl)@
+@skeleton@|@schelêtro@
+@sketch@|@abòsso@
+@ski@|@scî (nm)@
+@skier@|@scjatô@
+@skill@|@aspertîxe (nf)@
+@skillet@|@poêla@
+@skin@|@pélle (nf), scòrsa@
+@skirt@|@fâdìn (nm), fâda@
+@skittle@|@sbìggia@
+@sky@|@çê (m)@
+@sky blue@|@bleu do çê@
+@skylight@|@luxernâ (nm), lumetâ (nm)@
+@slap@|@sberlendón, lerfón, scciàffo, mascón, mascâ (nf)@
+@slap on the back of the head@|@scopelòtto@
+@slapdash@|@strofogión, ciapùsso@
+@slate tile@|@abæn (nm)@
+@slave@|@scciâvo@
+@slavery@|@scciavitû@
+@sleep (in the eyes)@|@scràpoa@
+@sleepy@|@adormîo, adormigiòu@
+@slice@|@fétta, gælo@
+@slide@|@scugiæla@
+@slightly@|@legerménte@
+@sling@|@caciafrùsto, fiónda (it.)@
+@slingshot@|@fiónda (it.), caciafrùsto@
+@slip@|@scugiæla@
+@sloppy@|@inciastrón, strofogión@
+@Slovakian@|@slovàcco@
+@slowly@|@cianìn, adâxo@
+@slut@|@scorlùssa (Savona), scorlùsoa@
+@small (diminutive)@|@picinìn@
+@small (fpl)@|@picìnn-e@
+@small (fsing)@|@picìnn-a@
+@small (mpl)@|@picìn@
+@small (msing)@|@picìn@
+@small buttery tea biscuits (Liguria)@|@canestrelétti (nmpl)@
+@small knife@|@cotelìn@
+@small peppers@|@pevionétti (mpl)@
+@small room@|@stansìn@
+@small town@|@paizìn, vilàggio@
+@small tree@|@erboetìn, erboêto@
+@small village@|@borgàdda@
+@smart@|@svèlto@
+@smashed to bits@|@in menisétti, in menìssi@
+@smear@|@inciàstro@
+@smell@|@ödô, anàsto, spùssa@
+@smells (pl)@|@ödoî (mpl)@
+@smile@|@fatorîzo, rîzo, sorîzo@
+@smock@|@scösâ (nm)@
+@smoke@|@fùmme (nm)@
+@smoked@|@afumegòu@
+@smokey smell@|@ödô de bruxòu@
+@smoking (adj.)@|@fumànte@
+@smooth@|@lìscio@
+@Smyrna (Turkey)@|@Smìrna@
+@snail@|@lumàssa@
+@snake@|@bìscia, serpénte (nm)@
+@sneeze@|@stranûo@
+@sniffy young person@|@peteu@
+@snitch@|@sciusción@
+@snitcher@|@scipatô@
+@snot@|@sbrùggio (Savona), sbróggio@
+@snotty@|@sbrogiôzo, sbrugiôzo (Savona)@
+@snow@|@néie (nf), néive (nf)@
+@so far@|@fìn òua@
+@so that@|@afinché, de mòddo che, in mòddo che, perché@
+@soap@|@savón@
+@soap dish@|@pòrtasavón@
+@social@|@sociâle@
+@society@|@socjêtæ@
+@sockets@|@câse (fpl)@
+@socks@|@scapìn (nmpl)@
+@sofa@|@divàn, sofà (nm)@
+@soft@|@mòllo, sciòcco, ùmio@
+@soil@|@tæra@
+@sole@|@ùnico, ciànta do pê@
+@sole (of shoe)@|@sêua@
+@solemn@|@solénne@
+@Somali@|@sòmalo@
+@Somalia@|@Somàlia@
+@some@|@quàrche@
+@some more@|@un pö de ciù@
+@some...@|@un pö de@
+@somebody@|@quarchedùn@
+@somebody (f)@|@quarchedùnn-a@
+@someone@|@quarchedùn@
+@someone (f)@|@quarchedùnn-a@
+@something@|@quarcösa@
+@something like@|@ciù ò mêno@
+@sometimes@|@de-e vòtte@
+@somewhere else@|@da unn'âtra pàrte@
+@son@|@fìggio@
+@son of a bitch (vulg.)@|@fìggio de 'na bagàscia (volg.)@
+@son-in-law@|@zéneo, zénne (nm), zénou@
+@sonnet@|@sunétto@
+@soon@|@tra no goæi, sùbito@
+@sophistication@|@riçercatéssa@
+@sore throat@|@mâ de gôa (nm)@
+@Sori (GE)@|@Söi@
+@sorrow@|@despiaxéi, pénn-a@
+@sorry! (formal)@|@scia me scûze!@
+@sort@|@tîpo, génere (nm), ménn-a@
+@soul@|@ànima@
+@sound@|@són (n)@
+@soup@|@menestrón, menèstra, sùppa@
+@soup dish@|@xàtta@
+@sour@|@ægro, âgro@
+@sour cherry@|@amarêna@
+@source (of water)@|@vivàgna@
+@South@|@sùd@
+@South Africa@|@Sudàfrica@
+@South African@|@sudafricàn@
+@South America@|@Sudamérica@
+@South American@|@sudamericàn@
+@Southern redneck@|@gabìbbo@
+@sowthistle@|@scixèrboa@
+@spade@|@sàppa@
+@Spain@|@Spàgna@
+@spark@|@zìmma@
+@sparkling wine@|@vìn ch'o scciùmma, vìn co-o raspànte@
+@sparrow (bird)@|@pàsoa, pasoêta@
+@sparrowhawk@|@fàrco frengoelâ (nm), sparvê@
+@speak!@|@dìnni!@
+@speaker@|@parlànte@
+@speaking of@|@a propòxito de@
+@speech@|@pàrla (nf), parlâ (nf)@
+@speed@|@velocitæ, rapiditæ@
+@spell@|@malefìçio@
+@spell (n)@|@malefìçio, incantêximo, sconzûo, perlenghéuia@
+@spelling@|@grafîa@
+@spendthrift@|@stralatón, spedagión, sgreión, stragión@
+@sperm whale@|@coadéuggio@
+@spider@|@âgna, ràgno@
+@spider's web@|@tâgnâ (nf)@
+@spike heel@|@tàcco a spìllo@
+@spinal column@|@fî da schénn-a (nm)@
+@spine@|@fî da schénn-a (nm)@
+@spinning top@|@ziàrdoa@
+@spinsterhood@|@fantinægo@
+@spit@|@spûo, scràcou@
+@spitefulness@|@rouxîa@
+@spittoon@|@spuêa@
+@splinter@|@buscàggia@
+@split peas@|@poîsci sécchi scciapæ (mpl)@
+@spokesperson@|@pòrtavôxe@
+@sponge@|@spûgna@
+@spoon@|@cugiâ (nm)@
+@spot (skin)@|@brìgoa@
+@Spotorno (SV)@|@Spötórno@
+@spread@|@propagaçión@
+@sprightly@|@regagîo@
+@spring (of water)@|@vivàgna@
+@spring (season)@|@primavéia@
+@springy@|@sciòcco@
+@spry@|@regagîo@
+@spunk (fire)@|@ésca@
+@spurt@|@róggio@
+@squanderer@|@sgreión, stralatón, stragión, spedagión@
+@square@|@quàddro, ciasâ (nm), quadrâto@
+@squid@|@câmâ (nm)@
+@squirrel@|@vinværa, sciórnia@
+@stable@|@stàlla@
+@stable (adj.)@|@stàbile@
+@stadium@|@stàdio@
+@stag do@|@adîo a-o fantinægo@
+@stag night@|@adîo a-o fantinægo@
+@stag party@|@adîo a-o fantinægo@
+@stage (theatre)@|@parcoscénico@
+@Staglieno (GE)@|@Stagén@
+@stain@|@màccia@
+@stained@|@amaciòu@
+@stairs@|@scâa, scâe (fpl)@
+@stale@|@pöso@
+@stale bread@|@pàn pöso@
+@stale smell@|@relénto (nm)@
+@stalk@|@peigóllo@
+@stammerer@|@barbòtto@
+@stamp@|@francobóllo@
+@standing@|@in pê@
+@star@|@stélla@
+@starling (bird)@|@stórno@
+@start@|@inìçio, prinçìpio@
+@starved to death@|@mòrto da-a fàmme@
+@starving@|@alupòu@
+@state@|@stâto@
+@statement@|@afermaçión@
+@station@|@staçión@
+@statue@|@stàtoa@
+@statute@|@statûto@
+@steady@|@stàbile@
+@steam@|@vapô@
+@steamboat@|@vapô@
+@steamed up@|@apanòu@
+@steel@|@açâ (nm)@
+@steep@|@rédeno, ràpido@
+@Stella (SV)@|@Stêia@
+@stench@|@spùssa@
+@step@|@pàsso@
+@step (stairs)@|@scæn@
+@step by step@|@a pasétto a pasétto@
+@stepdaughter@|@figiàstra@
+@stepfather@|@poiégno@
+@stepmother@|@moiégna@
+@stepped (adj.)@|@fæto a scæn@
+@stepson@|@figiàstro@
+@sterling@|@sterlìnn-a@
+@stern@|@póppa@
+@sternum@|@òsso do pêto@
+@Steven@|@Stevìn, Stêva, Stêa@
+@stick@|@bachetìnn-a, bàcco, bastón, bachétta, pâlo@
+@sticky@|@lepegôzo@
+@stiff@|@abesîo, rédeno, réncio, réuido@
+@still@|@ancón@
+@still (adj.)@|@fèrmo@
+@stimated@|@estimòu@
+@sting@|@ponzigiâ (nf), ansùlla, ponzigión@
+@stink@|@spùssa, tufô, tànfo, refrescùmme (nm)@
+@stink coming from the sea@|@refrescùmme (nm)@
+@stink of dirty dishware@|@refrescùmme (nm)@
+@stink of fish@|@refrescùmme (nm)@
+@stinky@|@spusoénto, spusolénto, spusolénte (it.)@
+@stirrup leather@|@stafî (nm)@
+@stockfish@|@stochefìsce (nm)@
+@stomach@|@stêumago@
+@stone@|@sàscio, rócca, ròccia, prîa@
+@stone (of fruit)@|@armélla@
+@stool@|@scanbéllo, scanbelétto@
+@stop@|@fermâ (nf)@
+@stopper@|@busción@
+@store@|@bitêga@
+@storekeeper@|@bitegâ (nm)@
+@stork@|@çighéugna@
+@storm@|@tenpèsta, tenporâle (nm)@
+@stove@|@stùffa, fogoâ (nm), stîva@
+@straight@|@rétto, drîto (ag.)@
+@straight ahead@|@drîto (av.)@
+@strait@|@stréito@
+@strange@|@strànio, strâno@
+@stranger@|@forèsto, strànio@
+@straw@|@pàggia@
+@strawberry@|@meréllo@
+@stream@|@rianétto, riâ (nm), riàn (nm)@
+@street@|@stràdda, vîa@
+@street child@|@batôzo@
+@street children@|@batôxi (mpl)@
+@street urchin@|@batôzo@
+@street urchins@|@batôxi (mpl)@
+@streetlight@|@lanpión@
+@strength@|@fòrsa@
+@stress (accent)@|@acénto, açénto@
+@strike@|@sciòpero@
+@string@|@rèsta@
+@string of garlic@|@rèsta d'àggio@
+@stroke@|@córpo@
+@stroll@|@pasegiâ (nf)@
+@strong@|@fòrte (ag.)@
+@struggle@|@barùffa, lîte (nf)@
+@Struppa (GE)@|@Strùppa@
+@student@|@scolâio, alêvo@
+@student (f)@|@studentéssa@
+@student (m)@|@studénte@
+@study@|@stùdio@
+@stupid@|@sciòllo, scémmo, ascemelòu, minción, tàngou@
+@stupidity@|@sciolâia@
+@sturdy@|@robùsto@
+@Sturla (GE)@|@Stùrla@
+@sty@|@orzeu@
+@style@|@stîle (nm)@
+@stylish@|@scìcche (ag.)@
+@subject@|@afâre (nm)@
+@submission@|@sotomisción@
+@subordinate@|@dipendénte@
+@subsidy@|@suscìdio@
+@suburb@|@sobórgo@
+@success@|@sucèsso@
+@successor@|@sucesô@
+@such (pl.)@|@tæ@
+@such (sing.)@|@tâ@
+@Sudanese@|@sudanéize@
+@sudden@|@inprovîzo@
+@suddenly@|@tùtt'asémme@
+@sufficient@|@suficénte@
+@suffocation@|@asfixîa@
+@sugar@|@sùcou@
+@sugar cube@|@mòtto de sùcou@
+@sugar lump@|@mòtto de sùcou@
+@suitable@|@adatòu, adàtto, adegoòu@
+@suitcase@|@valîxa, valîxe (nf)@
+@sulfur@|@sórfo@
+@sultan@|@surtàn@
+@sultry weather@|@macàia@
+@summer@|@estæ (nf), stæ (nf)@
+@sun@|@sô@
+@Sunday@|@doménega (nf)@
+@sundial@|@reléuio a sô@
+@sunny@|@asoigiòu@
+@sunrise@|@levâ do sô (nm)@
+@sunset@|@fâ da séia (nm)@
+@superior@|@supeiô, superiô@
+@supermarket@|@supermercòu@
+@supper@|@çénn-a@
+@sure@|@segûo@
+@sure!@|@segûo!@
+@surely@|@seghiaménte, seguaménte@
+@surname@|@cognómme, pæntòu, cazàdda, nómme de famìggia@
+@surprise@|@sorpréiza@
+@Susan@|@Suzànn-a@
+@suspenders@|@bertèlle (fpl)@
+@swallow@|@rondanìnn-a@
+@swan@|@çìgno@
+@swap@|@càngio, scàngio@
+@swarm@|@sciàmmo@
+@sweat@|@suô (nm)@
+@Swede@|@svedéize@
+@Sweden@|@Svéçia@
+@Swedish@|@svedéize@
+@sweet@|@dôçùmmi (nmpl), dôçe@
+@sweetbread@|@lacétto@
+@sweetened@|@adôçîo@
+@sweet-toothed@|@golôzo@
+@swelling@|@bòrlo, bernòcolo (it.)@
+@swift (bird)@|@sbîro@
+@swimming pool@|@piscìnn-a@
+@swine@|@baràbba (nm)@
+@swing (n)@|@bansîgo, basîgo@
+@swinging@|@vànni e vêgni (nm)@
+@Swiss@|@svìsero@
+@Switzerland@|@Svìsera@
+@swollen@|@ìnscio, bezìggio@
+@swordfish@|@péscio spâ@
+@syllable@|@scìlaba@
+@Sylvester@|@Silvèstro@
+@symbol@|@scìnbolo@
+@symmetry@|@scimetrîa@
+@synagogue@|@scinagôga@
+@syntax@|@scintàsci@
+@synthesis@|@scìntexi (nf)@
+@syrup@|@sciöpo@
+@system@|@scistémma@
+@Tabarka (Tunisia)@|@Tabàrca@
+@table@|@töa, tòua@
+@table linen@|@giancàia da töa@
+@tablecloth@|@tovàggia@
+@tableware@|@teràggia@
+@tadpole@|@bageu, rænétta@
+@Taggia (IM)@|@Tàggia (Inpéria)@
+@tagliatelle@|@tagén (nmpl)@
+@tail@|@côa@
+@tailor@|@sàrto, cuxòu@
+@take!@|@têgni!@
+@takings@|@ricavæ (mpl)@
+@talc@|@tàlco@
+@talcum@|@tàlco@
+@talent@|@talénto@
+@talented@|@talentôzo@
+@talk@|@ciàciara@
+@talk!@|@dìnni!@
+@talking@|@parlànte@
+@tall@|@èrto@
+@tangerine@|@mandarìn@
+@tangle@|@intrésso, intrîgo@
+@tank (military)@|@câro armòu@
+@tap@|@robinétto (it.), bronzìn, pregìn (Savona)@
+@tar@|@péixe (nf)@
+@tarantella@|@tarantélla@
+@tarragon@|@estragón, astragón@
+@task@|@facénda@
+@taste@|@gùsto, savô@
+@tasty@|@gustôzo, savoîo, gustéive@
+@tattletale@|@sciusción@
+@tawny owl@|@alòcco, òuco@
+@tax@|@tàscia@
+@taxes@|@tàsce (fpl)@
+@taxi@|@tascì (nm)@
+@taxi driver@|@tascìsta@
+@tea@|@tè (nm)@
+@tea strainer@|@cóìn@
+@teacher (f)@|@méistra@
+@teacher (m)@|@méistro@
+@team@|@squàddra@
+@tear@|@làgrima@
+@technical@|@técnico@
+@technology@|@tecnologîa@
+@teetotaller@|@astémio@
+@telephone@|@teléfono@
+@television@|@televixón@
+@tell me!@|@dìmme!@
+@tell!@|@dìnni!@
+@telltale@|@sciusción@
+@temperature@|@tenpiatûa@
+@ten@|@dêxe@
+@tender@|@ùmio@
+@tender (adj.)@|@ténio, téneo@
+@tender (adj.mpl)@|@ténei (mpl)@
+@tenderness@|@teniéssa@
+@tenpin@|@sbìggia@
+@tent@|@téndia, ténda@
+@tenth@|@dexén, dêximo@
+@terrain@|@terén (nm)@
+@terrible@|@terìbile, pèscimo@
+@terrified@|@terorizòu@
+@territory@|@teritöio@
+@terrorism@|@terorìsmo@
+@terrorist@|@terorìsta@
+@test@|@prêuva@
+@testicles@|@bàlle (fpl)(volg.)@
+@text@|@tèsto, scrîto@
+@textile@|@tesciûo@
+@thaler@|@tàlou@
+@thank goodness!@|@mànco mâ!, ancoasæ!, ancón d'asæ!, mêno mâ!@
+@thank you!@|@gràçie!@
+@thankfulness@|@ringraçiaménto@
+@thanks!@|@gràçie!@
+@that (conj)@|@che@
+@that (f)@|@quélla@
+@that (m)@|@quéllo@
+@that over there (f)@|@quélla li@
+@that over there (m)@|@quéllo li@
+@that's the way it is@|@l'é coscì@
+@the (fpl)@|@e (fpl)@
+@the (fsing)@|@a (fsing)@
+@the (mpl)@|@i (mpl)@
+@the (msing)@|@o (msing)@
+@the are (f)@|@liâtre són@
+@the best (f)@|@a mêgio@
+@the best (m)@|@o mêgio@
+@the best thing@|@o mêgio@
+@the contrary@|@o contrâio@
+@the day after@|@l'indomàn, a l'indomàn@
+@the day after tomorrow@|@dòpodimàn, dòpodomàn@
+@the day before yesterday@|@vantêi, vêi l'âtro@
+@the following day@|@a l'indomàn@
+@the last (f)@|@l'ùrtima@
+@the last (m)@|@l'ùrtimo@
+@the majority@|@a ciù pàrte, a magiorànsa@
+@the next day@|@a l'indomàn@
+@the other (f)@|@l'âtra@
+@the other (m)@|@l'âtro@
+@the other way about@|@o contrâio@
+@the others@|@i âtri@
+@the same@|@o mæximo@
+@the same (f)@|@a mæxima@
+@the same thing@|@o mæximo@
+@theatre@|@teâtro, tiâtro@
+@theft@|@fùrto, ladronàia@
+@theme@|@têma (nm)@
+@then@|@dapeu, pöi, alôa, apeu, peu, alantôa@
+@theory@|@tiorîa, teorîa@
+@there@|@li, la@
+@there above@|@lasciù@
+@there are not...@|@no gh'é...@
+@there are...@|@gh'é...@
+@there below@|@lazù@
+@there is no more@|@no ghe n'é ciù@
+@there is no need to...@|@no bezéugna...@
+@there is not@|@no ghe n'é@
+@there is not...@|@no gh'é...@
+@there is...@|@gh'é...@
+@there to be@|@êsighe@
+@Therese@|@Têxo, Térre, Têxìnn-a, Têxìn@
+@these (f)@|@ste, quéste@
+@these (m)@|@quésti, sti@
+@these ones (f)@|@ste chi, quéste chi@
+@these ones (m)@|@sti chi, quésti chi@
+@thesis@|@têxi (nf)@
+@they@|@lô@
+@they (f)@|@liâtre@
+@they (m)@|@liâtri@
+@they are (m)@|@liâtri són@
+@they know (m)@|@liâtri sàn@
+@they put@|@liâtri métan@
+@thick@|@gròsso@
+@thickness@|@denscitæ@
+@thief@|@scipatô, mandilâ (nm), làddro@
+@thigh@|@chéuscia@
+@thimble@|@diâ (nm)@
+@thin@|@stìggio, mâgro, sécco@
+@thing@|@röba, cösa@
+@things@|@cöse (nfpl)@
+@thinness@|@magréssa@
+@third@|@tèrso@
+@thirst@|@sæ (nf)@
+@thirsty@|@ch'o l'à sæ@
+@thirteen@|@tréize@
+@thirteen hours@|@trézz'ôe@
+@thirteenth@|@trezén, deximotèrso@
+@thirty@|@trénta@
+@this (f)@|@quésta, sta@
+@this (m)@|@quésto, sto@
+@this afternoon@|@staséia@
+@this evening@|@staséia@
+@this morning@|@stamatìn@
+@this one (f)@|@quésta chi, sta chi@
+@this one (m)@|@quésto chi, sto chi@
+@this side@|@in sa@
+@Thomas@|@Maxìn, Tomaxìn, Mâxo, Tomâxo@
+@thong@|@savàtta, sciarbèlla@
+@thorough@|@meticolôzo@
+@those (f)@|@quélle@
+@those (m)@|@quélli@
+@those over there (f)@|@quélle li@
+@those over there (m)@|@quélli li@
+@though@|@benscì, scibén che@
+@thought@|@penscêo@
+@thousand@|@migiâ (nm), mìlle@
+@thousands@|@migiæa (fpl)@
+@thousandth@|@milêximo@
+@thread@|@fî (nm)@
+@three (f)@|@træ@
+@three (m)@|@tréi@
+@thresher@|@verzélla@
+@throat@|@gôa@
+@through@|@tràmite, a travèrso@
+@throw of a stone@|@sasciâ (nf), prionâ (nf)@
+@thrust@|@asbrîo@
+@thumb@|@dîo gròsso@
+@thunder@|@trón@
+@Thursday@|@zéuggia (nf)@
+@thyme@|@tùmou@
+@ticket@|@bigétto@
+@tickling@|@bolìtigo@
+@tie@|@strìnga, ligatûa@
+@tightfisted man@|@arpagón, avarón, pìgna (fig.), pìtima (nm)@
+@tile@|@énbrexo, cóppo, ciapélla (nf)@
+@time@|@ôa (nf), ténpo@
+@time (occasion)@|@òtta (pop.), vòtta@
+@timetable@|@orâio@
+@tin@|@làmma@
+@tiniest@|@mìnimo@
+@tip@|@pónta@
+@tip (money)@|@mància@
+@tired@|@stànco (ag.), afadigòu, stràcco@
+@tiredness@|@stanchéssa@
+@tissue@|@tesciûo@
+@tit@|@tetìn (nm)@
+@tit (bird)@|@parisêua@
+@titan@|@titàn@
+@titanic@|@titànico@
+@title@|@tìtolo@
+@to@|@a@
+@to (purpose)@|@pe@
+@to abandon@|@abandonâ@
+@to abate@|@amainâ@
+@to abbreviate@|@abreviâ@
+@to abolish@|@abolî@
+@to abuse@|@abuzâ@
+@to accept@|@acetâ, gradî@
+@to accommodate@|@acomodâ@
+@to accomodate@|@alögiâ@
+@to accompany@|@aconpagnâ@
+@to achieve@|@ariescî, riescî@
+@to act (theatre)@|@reçitâ@
+@to activate@|@ativâ@
+@to adapt@|@adatâ@
+@to adapt oneself@|@agiustâse@
+@to add@|@azónze@
+@to add sugar to@|@insucâ, métte o sùcou@
+@to adjust@|@agiustâ@
+@to adjust oneself@|@agiustâse@
+@to administer@|@aministrâ@
+@to admira@|@amirâ@
+@to admire@|@amiâ@
+@to admit@|@amétte@
+@to adopt@|@adotâ@
+@to advance@|@avansâ@
+@to affect@|@incìdde, afetâ@
+@to afflict@|@aflìzze@
+@to aggrieve@|@amagonâ@
+@to agree@|@êse d'acòrdio@
+@to air@|@ventilâ@
+@to allow@|@permétte@
+@to amuse onself@|@divertîse@
+@to analyze@|@analizâ@
+@to animate@|@animâ@
+@to announce@|@anonçiâ@
+@to annoy@|@stufâ@
+@to annul@|@anulâ@
+@to anoint@|@ónze@
+@to answer@|@rispónde@
+@to apologise@|@ciamâ scûze, aciamâ scûze@
+@to apologize@|@domandâ scûza, ciamâ scûze, aciamâ scûze@
+@to applaud@|@aploudî@
+@to apply@|@aplicâ@
+@to appreciate@|@stimâ@
+@to argue@|@litigâ, ratelâ@
+@to arm@|@armâ@
+@to arm-wrestle@|@zugâ a-o pasagìn@
+@to arrange@|@òrganizâ@
+@to arrive@|@rivâ (Savona), arivâ, zónze, ariâ (pop.)@
+@to ask@|@domandâ@
+@to ask for@|@domandâ@
+@to assault@|@agredî@
+@to assemble@|@armâ@
+@to assent@|@afermâ@
+@to assume@|@asùmme@
+@to attach@|@alegâ@
+@to attach importance to...@|@tegnîghe a...@
+@to attack@|@atacâ@
+@to attend@|@ascìste@
+@to attend to@|@ascìste@
+@to attract@|@atirâ@
+@to auction@|@subastâ, vénde a l'àsta@
+@to audit@|@ascìste@
+@to authorize@|@abilitâ@
+@to avoid@|@scanpâ, evitâ@
+@to await@|@aspêtâ, spêtâ@
+@to award@|@premiâ@
+@to babble@|@barbotâ, chechezâ@
+@to back up@|@reculâ@
+@to badmouth (somebody)@|@dî mâ de (quarchedùn)@
+@to balance out@|@alivelâ@
+@to balk@|@dâ besténto, bestentâ@
+@to ballast@|@sourâ@
+@to ban@|@blocâ@
+@to bang one's head@|@aciapâ unna testâ@
+@to baptize@|@batezâ@
+@to bargain@|@tiâ in sciô prêxo@
+@to bark@|@baiâ@
+@to barter@|@bâtâ@
+@to be@|@êse, stâ@
+@to be about to@|@êse in scî pìssi de@
+@to be accustomed to@|@aviâ@
+@to be affectionate@|@afeçionâse@
+@to be afraid@|@témme, atrovâse poîa@
+@to be alert@|@stâ a l'èrta, stâ a l'éuggio, stâ aténto, stâ in sce l'averténsa@
+@to be alike@|@asomegiâ@
+@to be ashamed@|@vergognâse@
+@to be at home@|@êse in cà@
+@to be at risk@|@êse a réizego@
+@to be balding@|@pèrde i cavélli@
+@to be between the devil and the deep blue sea (fig.)@|@êse tra o màrco e l'anchîze, êse fra l'anchîze e o martéllo@
+@to be born@|@nàsce@
+@to be called@|@ciamâse@
+@to be confused@|@êse into balón@
+@to be crazy@|@dâ i nùmeri@
+@to be disoriented@|@êse into balón@
+@to be earlier@|@fâ prìmma@
+@to be enough@|@bastâ, êse abastànsa@
+@to be fashionable@|@andâ de mòdda, êse de mòdda@
+@to be heavy@|@pezâ@
+@to be hot because of alcohol@|@avéi i fumàsci@
+@to be hungry@|@avéi fàmme@
+@to be in a hurry@|@avéi spréscia@
+@to be in danger@|@êse a réizego@
+@to be in fashion@|@andâ de mòdda, êse de mòdda@
+@to be late@|@êse in ritàrdo, fâ tàrdi, tardâ@
+@to be left@|@arestâ@
+@to be liked@|@piaxéi (v)@
+@to be missing@|@mancâ@
+@to be named@|@ciamâse@
+@to be necessary@|@voéighe, òcôre, òcorî@
+@to be on the alert@|@stâ a l'èrta, stâ a l'éuggio, stâ aténto@
+@to be on the lookout@|@stâ a l'èrta, stâ a l'éuggio@
+@to be on the watch@|@stâ a l'èrta, stâ a l'éuggio@
+@to be opposed@|@òpónise@
+@to be out of tune@|@stonâ@
+@to be paid@|@schêuve@
+@to be quiet@|@taxéi@
+@to be ready@|@êse a tîo@
+@to be reborn@|@renàsce@
+@to be right@|@avéi raxón@
+@to be running a fever@|@scotâ da-a frêve@
+@to be scarce@|@scarsezâ@
+@to be sore@|@doîse@
+@to be sorry@|@rincrésce@
+@to be starving@|@avéi unna fàmme da lô@
+@to be sweaty@|@êse tùtto inte 'n'ægoa@
+@to be thirsty@|@avéi sæ@
+@to be unemployed@|@êse a tòrsio@
+@to be useful@|@zovâ, servî@
+@to be worth@|@vài@
+@to be wrecked@|@naofragâ, noufragâ@
+@to be wrong@|@erâ@
+@to bear@|@arêze, portâ, rêze@
+@to beat@|@picâ@
+@to beat (heart)@|@parpitâ@
+@to become@|@scangiâ in@
+@to become better@|@vegnî mêgio@
+@to become contracted@|@agrepîse@
+@to become crazy@|@vegnî màtto@
+@to become familiar@|@familiarizâse@
+@to become rich@|@inrichîse@
+@to become sad@|@intristîse@
+@to beg@|@instâ, pregâ, sconzuâ, suplicâ@
+@to begin@|@prinçipiâ, iniçiâ, comensâ@
+@to believe@|@crédde, créi@
+@to bellow@|@sbruzî@
+@to belong@|@apartegnî@
+@to bend@|@stòrçe@
+@to bestow@|@concêde@
+@to bet@|@scométte, zugâghe@
+@to betray@|@tradî@
+@to beware@|@stâ aténto@
+@to bite@|@adentâ, mòrde, abocâ, dâ de dentæ@
+@to bite (insect)@|@ponzigiâ (v)@
+@to bleed@|@sangoinâ, sccioî sàngoe@
+@to blend@|@remesciâ@
+@to blind@|@inorbî, ingoersî@
+@to blink@|@parpelâ@
+@to block@|@blocâ@
+@to blossom@|@scioî, sccioî@
+@to blow@|@sciusciâ@
+@to blow up@|@gonfiâ, insciâ, scciupâ@
+@to boil@|@bogî@
+@to bomb@|@bonbardâ@
+@to book@|@riservâ@
+@to boom@|@reciocâ@
+@to borrow@|@fâse prestâ@
+@to bray@|@râgiâ, râgnâ@
+@to break@|@scciapâ, ronpî@
+@to break into pieces@|@stocâ@
+@to break up@|@sconquasciâ@
+@to breastfeed@|@dâ o læte, dâ o tetìn, aleitâ@
+@to breath@|@respiâ@
+@to breed@|@alevâ@
+@to bright@|@luxî@
+@to bring about@|@acaxonâ@
+@to bring good luck@|@portâ fortùnn-a@
+@to bring up@|@alevâ@
+@to broadcast@|@trasmétte@
+@to build@|@costroî, edificâ, costrûe@
+@to burn@|@dâ fêugo, scotâ, bruxâ@
+@to burp@|@reuitâ@
+@to burst@|@scciatâ, scciupâ@
+@to bury@|@seportâ@
+@to buy@|@acatâ, catâ@
+@to call@|@ciamâ@
+@to can@|@poéi@
+@to cancel@|@anulâ, scancelâ@
+@to capsize@|@inbösâ@
+@to capture@|@caturâ@
+@to caress@|@caezâ, cæzâ@
+@to carry@|@portâ, acamalâ, camalâ, caregâ@
+@to carve@|@intagiâ, incìdde@
+@to cast a spell@|@perlengoâ@
+@to castrate@|@acrastâ, incrastâ@
+@to catch a cold@|@acostipâse, rafreidâse, refreidâse@
+@to cause@|@acaxonâ@
+@to censor@|@censurâ@
+@to censure@|@censurâ@
+@to change@|@scangiâ, cangiâ@
+@to chase@|@persecutâ, scorî, persegoitâ@
+@to chat@|@fâ de ciàciare@
+@to cheat@|@fregâ, frouxâ, sfrouxâ, marmelâ@
+@to check@|@rivédde@
+@to cheer@|@tegnî pe@
+@to cheer up@|@ralegrâ, axilâ, recilâ, scialâ, animâ@
+@to chew@|@giasciâ, mastrogâ, giasciogâ@
+@to choose@|@çèrne@
+@to chop@|@menisâ@
+@to circle@|@çerciâ@
+@to clap@|@ciocâ e màn, ciocâ e moén, aploudî@
+@to classify@|@clascificâ, qualificâ@
+@to clean@|@polî, netezâ@
+@to clear the table@|@levâ de töa@
+@to climb@|@montâ sciù, montâ@
+@to cling@|@agoantâse@
+@to clonate@|@clonâ@
+@to close@|@serâ@
+@to coil@|@intortignâ, atortignâ@
+@to collaborate@|@tegnî màn@
+@to collect@|@ricavâ, achéugge@
+@to collocate@|@colocâ@
+@to comb@|@pêtenâ@
+@to come@|@vegnî@
+@to come back@|@vortâ, tornâ, tornâ inderê, ritornâ@
+@to come back home@|@tornâ a cà@
+@to commission@|@comiscionâ@
+@to compare@|@paragonâ@
+@to compete@|@garezâ@
+@to complain@|@lagnâse, mogognâ@
+@to complete@|@conpletâ@
+@to condemn@|@censurâ, desprexâ@
+@to confess@|@confesâ@
+@to confide@|@confiâse@
+@to confide to@|@confiâ@
+@to confine@|@mandâ a-o confìn@
+@to confirm@|@confermâ, ribadî, dâ confèrma@
+@to confuse@|@invexendâ (v)@
+@to conjure up@|@tiâ fêua@
+@to connect@|@conétte, colegâ@
+@to consolidate@|@asödâ@
+@to consume@|@lanbicâ@
+@to continue@|@continoâ@
+@to contract@|@agrepîse@
+@to control@|@controlâ@
+@to convert@|@rénde@
+@to cook@|@chêuxe, fâ de cuxìnn-a@
+@to cool@|@scioâ, rafreidâ, refreidâ@
+@to copy@|@pigiâ còpia, copiâ@
+@to correct@|@corêze@
+@to cost@|@vegnî (fig.), costâ@
+@to cough@|@toscî@
+@to count@|@contâ@
+@to cover@|@crêuve@
+@to cover a distance@|@percorî@
+@to cramp@|@agrepîse@
+@to crash@|@urtâ, scontrâ@
+@to crawl@|@rebelâse@
+@to creak@|@petî, scroscî@
+@to crease@|@strofogiâ@
+@to create@|@creâ@
+@to cripple@|@stropiâ@
+@to crush@|@pestâ, tritolâ@
+@to cry@|@ciànze@
+@to cry out for help@|@ciamâ agiùtto@
+@to cultivate@|@coltivâ@
+@to cure@|@fâ goarî@
+@to cut@|@tagiâ@
+@to cut into pieces@|@fâ a tòcchi@
+@to cut into slices@|@tagiâ a fétte@
+@to cut short@|@abreviâ@
+@to damage@|@danezâ@
+@to dance@|@balâ@
+@to dare@|@incalâse, azardâse, òzâ@
+@to darn@|@repesâ@
+@to dawn@|@arbezâ@
+@to daydream@|@fantastegâ@
+@to dazzle@|@abarlugâ@
+@to deceive@|@inganâ, inverdugâ, sfrouxâ@
+@to decide@|@decìdde@
+@to declare@|@afermâ@
+@to declare war@|@diciarâ a goæra@
+@to decorate@|@adornâ@
+@to deduce@|@dezùmme@
+@to defeat@|@sconfìzze@
+@to defend@|@difénde@
+@to define oneself@|@definîse@
+@to deject@|@abàtte@
+@to delete@|@suprìmme, eliminâ, scasâ, scancelâ@
+@to demand@|@reciamâ@
+@to demonstrate@|@dimostrâ@
+@to demoralise@|@demoralizâ@
+@to demoralize@|@demoralizâ@
+@to dent@|@rumâ@
+@to deny@|@refuâ@
+@to depart@|@partî@
+@to depend on@|@dipénde da@
+@to depict@|@ritrâe@
+@to depress@|@intristî@
+@to deserve@|@meitâ, meritâ@
+@to design@|@disegnâ@
+@to despatch@|@spedî@
+@to despise@|@desprexâ@
+@to destroy@|@destrûe@
+@to develop@|@svilupâ@
+@to dice@|@zugâ a-i dæ@
+@to die@|@moî@
+@to die down@|@amainâ@
+@to dig@|@scavâ@
+@to dig out@|@destanâ@
+@to dillydally@|@dâ besténto, bestentâ@
+@to dip@|@bagnâ@
+@to disappear@|@scentâ, sconparî@
+@to disassemble@|@desmontâ@
+@to disavow@|@sconfesâ@
+@to discard@|@scartâ, caciâ@
+@to disconnect@|@scolegâ, sconétte@
+@to discover@|@scrovî@
+@to discuss@|@discùtte@
+@to disdain@|@desprexâ@
+@to disembark@|@sbarcâ@
+@to disentangle@|@desbrogiâ@
+@to disentangle one's hair@|@desbrogiâse i cavélli@
+@to dishearten@|@abàtte@
+@to dismantle@|@desmontâ@
+@to dismiss@|@scartâ, mandâ vîa, licensiâ@
+@to display@|@desccegâ@
+@to disregard@|@desprexâ@
+@to dissolve@|@deslengoâ@
+@to distress@|@strénze o cheu, amagonâ, angosciâ@
+@to distribute@|@repartî, distriboî@
+@to disturb@|@ronpî (fig.)@
+@to dive in@|@bolâse sott'ægoa@
+@to diversify@|@diverscificâ@
+@to divulge@|@scciatelâ@
+@to do@|@fâ@
+@to do business@|@comerçiâ@
+@to do good@|@fâ bén@
+@to dodge@|@evàdde@
+@to domesticate@|@adomestegâ@
+@to doodle@|@scribasâ, scarabociâ@
+@to doubt@|@dubitâ@
+@to download@|@scaregâ, descaregâ@
+@to drag@|@rebelâ@
+@to drag along@|@agoantâ@
+@to drag on@|@andâ in lóngo, tiâ in lóngo@
+@to drag up@|@tiâ fêua@
+@to drain@|@coâ@
+@to draw@|@disegnâ@
+@to draw (money)@|@schêuve@
+@to dream@|@asunâse@
+@to dream about@|@asunâse@
+@to dream up@|@fantastegâ@
+@to dress@|@vestî (v)@
+@to dribble@|@sbavâ@
+@to drink@|@béive@
+@to drink a lot@|@trincâ@
+@to drip@|@coâ@
+@to drive@|@goidâ@
+@to drizzle@|@sprînâ, bæxinâ, sproinâ, spruzâ@
+@to drown@|@negâ@
+@to drowse@|@adormîse@
+@to dry@|@secâ, scioâ@
+@to dunk@|@bagnâ@
+@to dye@|@ténze@
+@to earn@|@goâgnâ, goadagnâ@
+@to ease@|@façilitæ@
+@to eat@|@mangiâ@
+@to eat hurriedly@|@mangiâ de strangosción, mangiâ de strangogión@
+@to eat like a horse@|@mangiâ a crepapànsa, mangiâ a quàttro ganàsce, mangiâ a scciatapànsa, mangiâ a scciàttapànsa@
+@to eat one's fill@|@mangiâ a crepapànsa, mangiâ a scciatapànsa, mangiâ a scciàttapànsa@
+@to eavesdrop@|@stâ a sentî d'arescôzo@
+@to echo@|@reciocâ, resunâ@
+@to edit@|@editâ@
+@to educate@|@educâ@
+@to embrace@|@abrasâ@
+@to embroider@|@recamâ@
+@to emigrate@|@emigrâ@
+@to empty@|@vuâ, veuâ@
+@to encircle@|@çerciâ@
+@to end@|@finî, finalizâ@
+@to end it all@|@fâla finîa@
+@to engrave@|@incìdde@
+@to enjoy@|@gödî@
+@to enter@|@intrâ (v)@
+@to entitle@|@intitolâ@
+@to envy@|@invidiâ@
+@to erase@|@scasâ, scancelâ@
+@to escape@|@scapâ@
+@to establish@|@stabilî, prefìzze@
+@to esteem@|@stimâ, astimâ@
+@to evade@|@evàdde@
+@to evaporate@|@svanpî@
+@to exaggerate@|@ezagerâ@
+@to examine in minute detail@|@frigognâ@
+@to exceed@|@ecêde@
+@to exchange@|@scangiâ@
+@to excite@|@ecitâ@
+@to exclaim@|@esclamâ@
+@to excommunicate@|@scominigâ@
+@to excuse@|@scuzâ@
+@to exhaust@|@derenâ@
+@to exist@|@exìste@
+@to exit@|@sciortî@
+@to expire@|@scàzze@
+@to explain@|@spiegâ@
+@to explode@|@scciupâ@
+@to explore@|@esplorâ@
+@to export@|@esportâ@
+@to express an opinion@|@òpinâ@
+@to extract@|@estrâe@
+@to facilitate@|@façilitæ@
+@to fade@|@svanî@
+@to fall@|@càzze@
+@to fall in love@|@inamoâse@
+@to fall over@|@dâ unna pàtta in tæra@
+@to fancy@|@sâtâ i scrìpixi@
+@to fart@|@scorezâ@
+@to fast@|@zazunâ@
+@to fatten (animals)@|@ingösciâ@
+@to favour@|@favorî@
+@to feed@|@dâ da mangiâ, alimentâ@
+@to feel@|@sentî@
+@to feel like ...ing@|@avéi coæ de...@
+@to fetch@|@achéugge@
+@to fight@|@litigâ@
+@to fill@|@farçî, inpî@
+@to find@|@atrovâ, trovâ@
+@to find it hard to@|@stentâ a@
+@to find oneself@|@atrovâse@
+@to finger@|@remenâ@
+@to finish@|@finalizâ, finî@
+@to fire from a job@|@licensiâ@
+@to fish@|@pescâ@
+@to fit loosely@|@stâghe o pöco e l'asæ@
+@to fit together@|@conbaxâse@
+@to fix@|@fisâ, agiustâ, riparâ@
+@to fix one's gaze/eyes on@|@ciantâ i éuggi adòsso a@
+@to flash@|@lanpezâ@
+@to flatter@|@luxingâ@
+@to flirt@|@amoezâ@
+@to flood@|@inondâ@
+@to fly@|@sgheuâ, voâ (Savona), xoâ, sghêuâ@
+@to fly around@|@xoatâ@
+@to fly away@|@xoâ vîa@
+@to follow@|@sucêde, segoî@
+@to forbid@|@vietâ, proibî@
+@to force@|@forsâ@
+@to forecast@|@pronosticâ@
+@to foresee@|@prevédde@
+@to foretell@|@predî@
+@to forget@|@ascordâ, scordâse, scordâ, ascordâse@
+@to forgive@|@scuzâ, perdonâ@
+@to form@|@formâ@
+@to fracture@|@fracasâ (v)@
+@to fray@|@sfiarsoâ, sfiarsoâse@
+@to free@|@liberâ@
+@to freeze@|@ziâ, zeâ@
+@to frighten@|@métte poîa, fâghe atrovâ 'n resâto@
+@to frown@|@fâ e grónde@
+@to fry@|@zemî@
+@to fuck@|@beciâ (volg.)@
+@to fumble@|@andâ a l'atàsto@
+@to gather@|@rionî, riunî, dezùmme, arechéugge, achéugge@
+@to generate@|@generâ@
+@to get@|@aciapâ, zónze, riescî@
+@to get accustomed@|@aviâse@
+@to get angry@|@aragiâse@
+@to get anxious@|@sciâtâse@
+@to get back@|@tornâ, ritornâ@
+@to get bored@|@anoiâse@
+@to get dark@|@inbrunî@
+@to get down@|@chinâ@
+@to get dressed@|@vestîse@
+@to get drunk@|@inbriægâse@
+@to get frightened@|@sciâtâse@
+@to get going@|@inandiâse@
+@to get goose bumps@|@fâse vegnî a pélle de galìnn-a@
+@to get goose pimples@|@fâ acaponâ a pélle, acaponâse (a pélle)@
+@to get in@|@intrâ (v)@
+@to get late@|@fâse tàrdi@
+@to get lost@|@pèrdise@
+@to get married@|@maiâse@
+@to get married (woman)@|@pigiâ màio@
+@to get nervous@|@sciâtâse@
+@to get on@|@montâ@
+@to get out@|@sciortî@
+@to get out of the way@|@levâse d'inti pê, levâse da mêzo@
+@to get passionate@|@apascionâse@
+@to get shortened@|@acurtîse@
+@to get sick@|@amarotîse@
+@to get sleepy@|@adormîse@
+@to get some (fresh) air@|@pigiâ de l'âia@
+@to get something dirty@|@inciastrâ@
+@to get surprised@|@stupîse@
+@to get tired@|@stancâse@
+@to get to know@|@conósce@
+@to get to...@|@riescî a...@
+@to get up@|@îsâse, îsâ@
+@to get up from the table@|@levâse da töa@
+@to get used to@|@abitoâse@
+@to get worse@|@pezoâ@
+@to give@|@pòrze@
+@to give a kick@|@dâ un câso@
+@to give a lot of trouble@|@dâ da fiâ, dâ do fî da tòrçe@
+@to give as a present@|@regalâ@
+@to give back@|@dâ inderê, rénde, restitoî@
+@to give birth@|@apartoî@
+@to give oneself airs@|@dâse de âie@
+@to give preference to@|@antepónn-e (a)@
+@to give profit@|@dâ do goâgno@
+@to give thanks@|@ringraçiâ@
+@to give up@|@renonçiâ@
+@to glance at@|@amiâ co-a côa de l'éuggio@
+@to gleam@|@brilâ, luxî@
+@to glisten@|@luxî@
+@to glitter@|@luxî@
+@to gnaw (at)@|@röde, rozigiâ@
+@to gnew (at)@|@rogiâ@
+@to go@|@andâ, anâ@
+@to go away@|@anâsene vîa, partî, andâ vîa, anâ vîa@
+@to go back@|@tornâ, vortâ, ritornâ@
+@to go backwards@|@tornâ inderê@
+@to go bald@|@pèrde i cavélli@
+@to go bankrupt@|@dâ do cû in ciàppa@
+@to go by foot@|@andâ a pê@
+@to go down@|@chinâ, chinâ zu, anâ zu@
+@to go home@|@andâ a cà@
+@to go out@|@sciortî@
+@to go out partying@|@scianpradâ, fâ ribòtta@
+@to go through@|@traversâ@
+@to go up@|@montâ@
+@to gossip@|@ciætezâ@
+@to govern@|@governâ@
+@to grab@|@pigiâ@
+@to graduate@|@pasâ dotô@
+@to graduate from university@|@pasâ dotô@
+@to grant@|@concêde@
+@to grate@|@gratâ@
+@to graze@|@pàsce, schêuve@
+@to grease@|@vónze@
+@to greet@|@saluâ@
+@to grieve@|@intristî@
+@to grind@|@tritolâ@
+@to grope for@|@andâ a l'atàsto@
+@to grow old@|@invegî, vegnîse vêgio, invegiâ@
+@to grow up@|@scrichî, crésce, vegnî sciù@
+@to guard@|@fâ a goàrdia@
+@to guess@|@indovinâ@
+@to guide@|@goidâ@
+@to haggle@|@tiâ in sciô prêxo@
+@to hand@|@pòrze@
+@to handcuff@|@métte e manétte@
+@to hang@|@apénde@
+@to happen@|@capitâ, sucêde@
+@to harmonize@|@armonizâ@
+@to hate@|@òdiâ@
+@to have@|@avéi, posêde@
+@to have (auxiliary)@|@êse, avéi@
+@to have breakfast@|@fâ colaçión@
+@to have dinner@|@çenâ@
+@to have fun@|@axilâ, demoâse, divertîse@
+@to have hiccups@|@avéi o crescentìn@
+@to have it out@|@dâghe 'n ciànto li, fâla finîa@
+@to have palpitations@|@avéi o baticheu@
+@to have sex@|@fâ sésso, beciâ (volg.)@
+@to have to@|@avéi da, avéighe da, dovéi (v)@
+@to have to do with@|@intrâghe@
+@to have to... (impersonal)@|@bezéugna...@
+@to heal@|@fâ goarî, goarî, goæî@
+@to hear@|@sentî@
+@to heat@|@rescâdâ, ascâdâ@
+@to help@|@agiutâ, ascìste@
+@to hesitate@|@vacilâ, dâ besténto, bestentâ@
+@to hide@|@ascónde@
+@to hide oneself@|@ascóndise@
+@to hiss@|@siâ@
+@to hit one's head@|@aciapâ unna testâ@
+@to hitch up@|@redogiâ@
+@to hoist@|@îsâ@
+@to hold@|@agoantâse, arêze, arêzise, rêze, rêzise@
+@to hold a wake@|@vegiâ@
+@to hold out@|@pòrze a màn, pòrze@
+@to hold up@|@arêze, rêze@
+@to hop@|@botezâ@
+@to hospitalize@|@ricoverâ@
+@to house-train@|@adomestegâ@
+@to howl@|@luâ@
+@to hug@|@abrasâ@
+@to humiliate@|@umiliâ@
+@to hunt@|@cacezâ@
+@to hunt out@|@destanâ@
+@to hurry@|@sbrigâ@
+@to hurry up@|@aspresciâ, sbrigâse, fâ fîto, fâ présto@
+@to hurt@|@doî (v), fâ mâ, ferî@
+@to idle@|@stâ a pèrde o ténpo, òçiâ, ciömâ@
+@to illuminate@|@iluminâ, inluminâ@
+@to imitate@|@imitâ@
+@to immigrate@|@imigrâ@
+@to impede@|@inpedî@
+@to implore@|@sconzuâ@
+@to import@|@inportâ@
+@to impose@|@inpónn-e@
+@to improve@|@megiorâ, vegnî mêgio@
+@to incite@|@açiâ@
+@to include@|@inclùdde@
+@to inconvenience@|@descomodâ, scomodâ@
+@to increase@|@oumentâ@
+@to indulge@|@concêde@
+@to infect@|@infetâ@
+@to infer@|@dezùmme@
+@to inflate@|@insciâ, gonfiâ@
+@to inform@|@informâ@
+@to inhabit@|@abitâ, vîve@
+@to inhale@|@aspirâ@
+@to insinuate@|@inscinoâ@
+@to insist@|@inscìste, rebàtte, instâ@
+@to insist on@|@inscìste into@
+@to install@|@instalâ@
+@to instruct@|@istroî@
+@to intend@|@inténde@
+@to interpose@|@interpónn-e@
+@to interrupt@|@interónpe@
+@to intertwine@|@intresâ@
+@to interweave@|@intresâ@
+@to intimidate@|@intimidî@
+@to invade@|@invàdde@
+@to invalidate@|@invalidâ@
+@to invent@|@inventâ@
+@to invert@|@invertî@
+@to invest@|@investî@
+@to investigate@|@indagâ, investigâ@
+@to invite@|@invitâ@
+@to invoke@|@invocâ@
+@to iron@|@stiâ@
+@to irritate@|@iritâ@
+@to isolate@|@izoâ, izolâ@
+@to issue@|@emétte, rilasciâ@
+@to join@|@unî@
+@to joke@|@barseletâ, schersâ@
+@to judge@|@giudicâ@
+@to jump@|@sâtâ, botezâ@
+@to keep@|@agoantâ, restâ, tegnî, tegnîse@
+@to keep a vigil@|@vegiâ@
+@to keep an eye on@|@vigilâ@
+@to keep on@|@continoâ@
+@to keep on doing@|@continoâ a fâ@
+@to keep one's word@|@stâ a-i pàtti@
+@to keep silent@|@taxéi@
+@to keep watch@|@invigilâ@
+@to keep watch on@|@fâ a goàrdia@
+@to kidnap@|@sequestrâ, rapî@
+@to kill@|@amasâ@
+@to kiss@|@baxâ@
+@to kneel down@|@inzenogiâse@
+@to knit@|@tésce@
+@to knock@|@batâ, picâ@
+@to knock the door@|@sunâ, picâ a pòrta@
+@to know@|@conósce, savéi@
+@to know a lot@|@savéila lónga@
+@to know by heart@|@savéi a memöia@
+@to labour@|@fadigâ, sgobâ@
+@to laugh@|@rîe (v)@
+@to laugh at@|@rîise de@
+@to launch (a ship)@|@avâ@
+@to laze around@|@sciarbelâ@
+@to laze in bed@|@quâgiâ@
+@to leak@|@coâ@
+@to lean@|@arenbâ@
+@to leap@|@botezâ@
+@to leap up@|@botezâ@
+@to learn@|@inprénde, inparâ@
+@to leave@|@levâ, partî, lasciâ@
+@to leave table@|@levâse da töa@
+@to lend@|@prestâ, inprestâ@
+@to let@|@lasciâ@
+@to level out@|@alivelâ@
+@to lick@|@lanbî, lecâ@
+@to lie@|@mentî@
+@to lie down@|@acoêgâse@
+@to light@|@açénde@
+@to like@|@gradî, piaxéi (v), piaxéighe, gustâghe@
+@to like very much@|@piaxéi tànto@
+@to limp@|@ranghezâ@
+@to linger@|@zinzanâ@
+@to link@|@colegâ@
+@to listen@|@sentî@
+@to listen carefully@|@stâ in oegión@
+@to live@|@stâ de cà, stâ de câza, vîve@
+@to live in@|@abitâ@
+@to live off someone@|@scrocâ@
+@to load@|@caregâ@
+@to loaf around@|@sciarbelâ@
+@to lock@|@alugâ@
+@to look at@|@védde, miâ, amiâ@
+@to look for@|@çercâ@
+@to look up@|@çercâ@
+@to loosen@|@deslengoâ@
+@to loot@|@sachezâ@
+@to lose@|@pèrde@
+@to lose one's time@|@pestâ l'ægoa into mortâ@
+@to love@|@voéi bén, amâ@
+@to maintain@|@mantegnî, tegnî@
+@to make@|@fâ@
+@to make (somebody) feel unconfortable@|@scomodâ, descomodâ@
+@to make (somebody) happy@|@rénde felîçe@
+@to make a ball@|@amalocâ@
+@to make a fool of oneself@|@fâ unna brùtta figûa@
+@to make a mess@|@fâ di pastìssi, fâ do cazìn@
+@to make a question@|@pónn-e unna domànda@
+@to make clear@|@métte in ciæo, rescciaî@
+@to make fun of@|@pigiâ in gîo@
+@to make holes in@|@pertuzâ@
+@to make love@|@fâ l'amô@
+@to make mistakes@|@erâ@
+@to make money@|@fâ di dinæ@
+@to make noise@|@fâ calàdda, fâ do sciâto@
+@to make progress@|@progredî, avansâ@
+@to make unhappy@|@scontentâ@
+@to make war@|@goerezâ@
+@to make wet@|@scoâ@
+@to manage@|@aministrâ, manezâ@
+@to manage to@|@arangiâse@
+@to maneuver@|@manovrâ@
+@to marinate (food)@|@métte a scabéccio@
+@to mark@|@marcâ, segnâ@
+@to marry@|@maiâ, spozâ@
+@to marvel@|@mâvegiâ@
+@to massacre@|@masacrâ@
+@to mean@|@scignificâ, voéi dî@
+@to measure@|@meziâ, mezuâ@
+@to medicate@|@mêgâ@
+@to meditate@|@meditâ@
+@to mellow@|@adôçî@
+@to melt@|@deslengoâ@
+@to mend@|@repesâ, sarçî@
+@to mention@|@nominâ, mensionâ@
+@to mess up@|@ingarbugiâ, invexendâ (v)@
+@to miaow@|@râgnâ@
+@to milk@|@mónze, lætâ, aleitâ@
+@to mimic@|@imitâ@
+@to misappropriate@|@uzurpâ@
+@to mislead@|@invexendâ (v)@
+@to miss@|@rinciànze@
+@to mist up@|@apanâ@
+@to mistake@|@pigiâ bìsce pe bàggi (fig.)@
+@to misunderstand@|@inténde mâ@
+@to mix@|@mescciâ, remesciâ@
+@to mix up@|@invexendâ (v)@
+@to moan@|@zimî, zemî@
+@to mock@|@pigiâ in gîo@
+@to moderate@|@moderâ@
+@to modify@|@modificâ@
+@to monitor@|@invigilâ, vigilâ@
+@to moo@|@sbruzî@
+@to moor@|@òrmezâ@
+@to mortgage@|@ipotecâ@
+@to move@|@mesciâ, spostâ, trasportâ, mêuve@
+@to move (away)(home)@|@stramuâ@
+@to move away@|@apartâse@
+@to move back@|@reculâ@
+@to muddle up@|@fâ do cazìn, fâ di pastìssi@
+@to multiply@|@moltiplicâ@
+@to nail@|@inciödâ@
+@to navigate@|@navegâ@
+@to need...@|@avéi bezéugno de...@
+@to negotiate@|@negoçiâ@
+@to notify@|@notificâ@
+@to numb@|@abrenzoî@
+@to nurture@|@alevâ@
+@to obey@|@ubidî@
+@to object@|@òpónn-e@
+@to obtain@|@ariescî@
+@to occupy@|@òcupâ@
+@to offend@|@ofénde@
+@to offer@|@òfrî@
+@to omit@|@òmétte, tralasciâ@
+@to one's taste@|@a piaxéi@
+@to open@|@arvî@
+@to open up@|@desténde@
+@to operate@|@manezâ@
+@to oppose@|@urtâ, òpónn-e, refuâ@
+@to order@|@ordinâ, ordenâ@
+@to organize@|@scistemâ, òrganizâ@
+@to overturn@|@inbösâ@
+@to owe@|@dovéi (v)@
+@to own@|@posêde@
+@to pack@|@inbalâ@
+@to paddle@|@vogâ@
+@to paint@|@piturâ@
+@to palpate@|@atastâ, parpezâ@
+@to paralyze@|@paralizâ@
+@to park@|@parchezâ@
+@to participate@|@ascìste, parteçipâ, partiçipâ@
+@to pass away@|@sconparî, êse mancòu@
+@to pass exams@|@pasâ a-i ezàmmi@
+@to paste@|@incolâ, aderî@
+@to pasture@|@schêuve, pascolâ@
+@to patch@|@repesâ@
+@to pay@|@abonâ, pagâ@
+@to pay attention@|@dâ a ménte, stâ aténto@
+@to pay attention to@|@fâ câxo a@
+@to peck@|@pitâ@
+@to pee@|@pisciâ@
+@to peek@|@agoeitâ@
+@to peek (into)@|@goersezâ@
+@to peel@|@mondâ, peâ, pelâ, piâ (v)@
+@to peel off@|@piâ (v)@
+@to peep@|@agoeitâ@
+@to peep (into)@|@goersezâ@
+@to penalize@|@biaximâ@
+@to perfect@|@perfeçionâ@
+@to perish@|@perî@
+@to permit@|@permétte@
+@to persecute@|@persegoitâ, persecutâ, scorî@
+@to persist@|@perscìste@
+@to persuade@|@persoâde@
+@to pervert@|@pervertî@
+@to phone@|@telefonâ (v)@
+@to pick up@|@arechéugge, achéugge, rechéugge@
+@to pieces@|@a tòcchi@
+@to pierce@|@pertuzâ@
+@to pinch@|@spelinsigâ (v)@
+@to pit@|@camoâ@
+@to place@|@pónn-e@
+@to plan@|@planezâ, òrganizâ@
+@to plant@|@aciantâ, semenâ@
+@to play@|@zugâ@
+@to play (musical instrument)@|@sunâ@
+@to play ball/football@|@zugâ a-o balón@
+@to play blind man's buff@|@zugâ a l'òrbétto@
+@to play bowls@|@zugâ a-e bòcce@
+@to play cards@|@zugâ a-e càrte@
+@to play checkers/draughts@|@zugâ a-a dàmma@
+@to play chess@|@zugâ a scàcchi@
+@to play hide-and-seek@|@zugâ a scondilô@
+@to play lottery@|@zugâ in sciô semenâio@
+@to play tag@|@zugâ a l'êua@
+@to play truant@|@folâse a schêua@
+@to please@|@agradî@
+@to point@|@segnâ, segnalâ@
+@to point out@|@apontâ@
+@to poison@|@inveninâ, avelenâ@
+@to poke fun on@|@pigiâ in gîo@
+@to polish@|@lustrâ, polî@
+@to populate@|@popolâ@
+@to portray@|@ritrâe@
+@to pose@|@pösâ@
+@to postpone@|@rimandâ@
+@to pour@|@versâ@
+@to praise@|@lödâ@
+@to pray@|@pregâ@
+@to preach@|@predicâ@
+@to precede@|@precêde@
+@to predict@|@predî@
+@to prefer@|@preferî@
+@to prepare@|@preparâ@
+@to present@|@prezentâ@
+@to preserve@|@avardâ, preservâ@
+@to press@|@sciacâ@
+@to pressure@|@instâ@
+@to pretend@|@fâ fìnta de, fâ móstra, scimulâ@
+@to prevail@|@prevài@
+@to prevent@|@prevegnî@
+@to prick@|@pónze@
+@to primp@|@incinbriciâse@
+@to print@|@stanpâ@
+@to proceed@|@procêde@
+@to produce@|@prodûe@
+@to prohibit@|@proibî, vietâ@
+@to promise@|@inprométte, prométte@
+@to propagate@|@propagâ@
+@to propose@|@propónn-e@
+@to protect@|@protêze@
+@to provoke@|@açimentâ, provocâ@
+@to prune@|@poâ@
+@to pull along@|@agoantâ@
+@to pull down@|@caciâ zu@
+@to pull out@|@strepâ, stacâ@
+@to pulverize@|@polverizâ@
+@to pump@|@ponpâ@
+@to puncture@|@pónze@
+@to purchase@|@catâ, acatâ@
+@to purify@|@purificâ@
+@to pursue@|@persecutâ, scorî, persegoitâ@
+@to put@|@métte, pónn-e, metî (Savona)@
+@to put at stake@|@métte a réizego@
+@to put before (something)@|@antepónn-e@
+@to put down@|@pösâ@
+@to put in order@|@ordenâ@
+@to put off@|@rimandâ@
+@to put oneself@|@métise@
+@to put someone in a life-or-death situation@|@métte cû e spàlle a-a miâgia@
+@to put sugar in@|@insucâ, métte o sùcou@
+@to qualify@|@qualificâ@
+@to quarrel@|@abarufâse@
+@to quit@|@smétte, renonçiâ, lasciâ@
+@to quote@|@quòtâ@
+@to rain cats and dogs@|@vegnî zu l'ægoa a mazétte@
+@to raise@|@alevâ, alsâ, arsâ@
+@to raise one's voice@|@alsâ a vôxe@
+@to rake@|@rastelâ@
+@to ratify@|@ribadî@
+@to reach@|@aciapâ, razónze@
+@to react@|@reagî@
+@to read@|@lêze@
+@to realize@|@réndise cónto@
+@to reap@|@segâ@
+@to reappear@|@risórge@
+@to reason@|@raxonâ@
+@to rebel@|@ribelâse@
+@to rebuild@|@riedificâ@
+@to receive@|@riçéive@
+@to recognize@|@riconósce@
+@to recommend@|@racomandâ@
+@to record@|@incìdde, registrâ@
+@to recover@|@repigiâ@
+@to recruit@|@reclutâ@
+@to redirect@|@radrisâ@
+@to redo@|@rifâ, refâ@
+@to reduce@|@restrìnze, redûe, ridûe@
+@to reemerge@|@risórge@
+@to refer@|@riferî@
+@to refine@|@rafinâ@
+@to reflect@|@reflètte@
+@to refrain@|@avardâ@
+@to refuse@|@refuâ@
+@to refuse to do@|@refuâse@
+@to register@|@registrâ@
+@to regret@|@rincrésce, pentîse, mangiâ de repentîo, lamentâ@
+@to reign@|@regnâ@
+@to reimburse@|@rifónde@
+@to reject@|@refuâ@
+@to rejuvenate@|@rinzovenî@
+@to relax@|@rilasâ, quetâ, queitâ, ripozâ@
+@to relieve@|@rescioâ@
+@to reload@|@recaregâ@
+@to remain@|@restâ, arestâ@
+@to remember@|@ricordâ, vegnî in cheu, aregordâ, aregordâse@
+@to renew@|@renovâ@
+@to renounce@|@renegâ@
+@to rent@|@afitâ, apixonâ@
+@to repair@|@riparâ, agiustâ@
+@to repeat@|@ripête@
+@to replace@|@rinpiasâ@
+@to reply@|@rispónde@
+@to report@|@riportâ@
+@to represent@|@raprezentâ@
+@to reproach@|@rinfaciâ@
+@to reproduce@|@riprodûe@
+@to resell@|@revénde@
+@to reserve@|@riservâ@
+@to resign@|@dimétise@
+@to resign oneself@|@rasegnâse@
+@to resist@|@rescìste@
+@to resound@|@resunâ, reciocâ@
+@to respect@|@rispetâ, portâ rispètto@
+@to rest on@|@arêzise, rêzise@
+@to restore@|@rénde, recuveâ, ricoverâ, restitoî@
+@to restrict@|@restrìnze@
+@to resume@|@repigiâ@
+@to retail@|@vénde in detàlio@
+@to retain@|@agoantâ@
+@to retake@|@repigiâ@
+@to rethink@|@repensâ@
+@to return@|@tornâ, ritornâ, vortâ, recangiâ@
+@to reveal@|@rivelâ@
+@to revere@|@reveî, riveî, venerâ@
+@to reverse@|@ribaltâ, reculâ@
+@to ride@|@montâ@
+@to rinse@|@aruxentâ, ruxentâ@
+@to rip off@|@strepâ@
+@to ripple@|@ondezâ@
+@to rise@|@oumentâ@
+@to risk@|@areizegâ, arischiâ, métte a réizego@
+@to roast@|@rostî, brostolî, bristolî@
+@to rob@|@raspusâ, röbâ, aröbâ@
+@to rock@|@ninâ@
+@to roll up@|@redogiâ@
+@to roll up one's sleeves@|@revertegâse@
+@to root (pig)@|@rumâ@
+@to rot@|@marçî@
+@to row@|@vogâ@
+@to ruin up@|@aroinâ, rovinâ, arovinâ@
+@to rule@|@regnâ, governâ@
+@to rule out@|@scartâ@
+@to ruminate@|@rumegâ@
+@to run@|@filâ, corî@
+@to run (nose)@|@coâ (o nâzo)@
+@to run short@|@scarsezâ@
+@to rush@|@sbrigâ@
+@to sacrifice@|@sacrificâ@
+@to sadden@|@intristî@
+@to saddle@|@inselâ@
+@to salt (down)@|@saâ@
+@to salute@|@saluâ@
+@to sanction@|@biaximâ@
+@to satiate@|@saçiâ@
+@to satisfy@|@fâ pró@
+@to save@|@sarvâ, avardâ@
+@to save (money)@|@risparmiâ@
+@to saw@|@segâ@
+@to say@|@dî, dîxe@
+@to say hello@|@dâ o bón giórno@
+@to say hello (to)@|@saluâ@
+@to scare@|@fâ poîa, fâghe atrovâ 'n resâto@
+@to scold@|@dâ (fig.), castigâ, insprîtâ@
+@to scorch@|@strinâ@
+@to scrape@|@raspâ, rascciâ@
+@to scratch@|@granfignâ (v), gratâ, rascciâ@
+@to scratch oneself@|@gratâse@
+@to scrawl@|@scribasâ, scarabociâ@
+@to scream@|@strilâ@
+@to screech@|@strilâ@
+@to scribble@|@scarabociâ, scribasâ@
+@to scrounge@|@mangiâ o pàn a petón, mangiâ o pàn a pitón (Savona)@
+@to sculpt@|@scolpî, scorpî@
+@to search@|@çercâ@
+@to search thoroughly@|@frigognâ, lanbicâse o çervéllo (fig.)@
+@to seduce@|@sedûe@
+@to see@|@védde@
+@to see again@|@revédde, rivédde@
+@to seem@|@paî, pài@
+@to seize@|@uzurpâ, inposesâse@
+@to select@|@seleçionâ@
+@to sell@|@vénde@
+@to sell on hire purchase@|@vénde a respîo@
+@to sell on installments@|@vénde a respîo@
+@to send@|@inviâ, mandâ, spedî@
+@to send back@|@rimandâ@
+@to separate@|@separâ@
+@to serve@|@servî@
+@to set@|@stabilî, inpostâ@
+@to set fire@|@dâ fêugo@
+@to set free@|@liberâ@
+@to set sail@|@sarpâ@
+@to set traps for@|@inscidiâ@
+@to set up@|@formâ@
+@to settle@|@agiustâ@
+@to sew@|@cuxî@
+@to shake@|@tremâ, scrolâ@
+@to sharpen@|@afiâ, agusâ@
+@to shatter@|@sconquasciâ@
+@to shell@|@destegâ, mondâ, piâ (v)@
+@to shine@|@brilâ, luxî@
+@to shine out@|@luxî@
+@to ship@|@spedî@
+@to shit@|@cagâ@
+@to shoot@|@schitâ, sparâ@
+@to shorten@|@acurtî@
+@to shorten (sails)@|@amainâ a véia@
+@to shout@|@caciâ di crîi, mandâ di crîi, sbragiâ, criâ, urlâ@
+@to shove@|@urtâ@
+@to show@|@fâ védde, mostrâ@
+@to shred@|@tritolâ@
+@to shrink@|@astrénze@
+@to shudder@|@resâtâ@
+@to shut@|@serâ@
+@to shut up@|@no silâ@
+@to sieve@|@valâ@
+@to sift@|@valâ@
+@to sign@|@firmâ@
+@to sing@|@cantâ@
+@to singe@|@strinâ@
+@to sip@|@sciorbî@
+@to sit@|@asetâse@
+@to sit down@|@asetâse@
+@to sit down at the table@|@métise a töa@
+@to situate@|@scitoâ@
+@to ski@|@scjâ@
+@to skin@|@piâ (v)@
+@to slap@|@scciafezâ@
+@to sleep@|@dormî@
+@to sleep like a log@|@dormî cómme 'n çéppo@
+@to slip@|@scugiâ, sgrugiâ@
+@to smear@|@inciastrâ@
+@to smell@|@anaixâ, naixâ (v)(pop.), ödoâ@
+@to smile@|@fâ o fatorîzo, sorîde@
+@to sneeze@|@stranuâ@
+@to snitch@|@scipâ, xatâ (v)(pop.)@
+@to snore@|@ronfâ@
+@to snuff (out) (candle)@|@amocâ o lùmme@
+@to soak@|@asmugiâ, métte a bàgno@
+@to soften@|@adôçî@
+@to soil@|@inciastrâ@
+@to solve@|@risòlve@
+@to solve a debt@|@pagâ 'n débito@
+@to soothe@|@adôçî@
+@to sort it out@|@arangiâse@
+@to sound a death knell@|@sunâ e pöse@
+@to spark@|@fâ e zìmme@
+@to sparkle@|@brilâ, luxî@
+@to spatter@|@sproinâ, schitâ@
+@to speak@|@parlâ (v)@
+@to speak evil of (somebody)@|@dî mâ de (quarchedùn)@
+@to speak ill of (somebody)@|@dî mâ de (quarchedùn)@
+@to speak nonsense@|@dâ i nùmeri, dî de mósse (volg.)@
+@to specify@|@prefìzze@
+@to spend@|@goastâ@
+@to spin@|@fiâ@
+@to spit@|@spuâ, scracâ@
+@to splash@|@sproinâ, schitâ@
+@to splash around@|@sciabordâ@
+@to spread@|@desténde, propagâ@
+@to spread out@|@desccegâ@
+@to spread the word@|@gjâ a vôxe@
+@to spy@|@agoeitâ@
+@to squander@|@asgreiâ, stralatâ, sgreiâ, dezurpâ, stragiâ@
+@to squeeze@|@astrénze, spelinsigâ (v)@
+@to stagger@|@lociâ@
+@to stammer@|@chechezâ, barbotâ@
+@to stand@|@arêzise, rêzise@
+@to stand out@|@stacâ@
+@to start@|@prinçipiâ, iniçiâ, comensâ, inandiâ@
+@to start up@|@insâ@
+@to state@|@afermâ@
+@to stay@|@arestâ, restâ@
+@to stay at home@|@restâ in cà@
+@to stay awake@|@vegiâ@
+@to stay away@|@stâ a-a làrga@
+@to steal@|@marmelâ, aröbâ, röbâ@
+@to steal (fig.)@|@sciacâ@
+@to steam up@|@apanâ@
+@to step down@|@dimétise@
+@to step forward@|@fâse avànti@
+@to stick@|@atacâ@
+@to sting@|@ponzigiâ (v), pesigâ (insètti), ponzigiâ@
+@to stink@|@spusâ@
+@to stir up@|@sciâtâ@
+@to stitch@|@cuxî@
+@to stop@|@fermâ, smétte@
+@to strain@|@coâ@
+@to strangle@|@strangoâ@
+@to strengthen@|@rinforsâ@
+@to stretch@|@desténde@
+@to strip down@|@desmontâ@
+@to stroll@|@pasegiâ (v)@
+@to study@|@studiâ@
+@to stuff@|@farçî@
+@to stutter@|@chechezâ, barbotâ@
+@to subdue@|@adomestegâ@
+@to subsidise@|@suscidiâ@
+@to subsidize@|@suscidiâ@
+@to succeed@|@riescî, fâghela@
+@to suck@|@susâ@
+@to suck (baby/raising)@|@pigiâ o tetìn@
+@to suck in@|@aspirâ@
+@to suck up@|@sciorbî@
+@to suffer@|@subî, patî@
+@to sugar@|@adôçî, insucâ, métte o sùcou@
+@to suggest@|@sugerî@
+@to summon@|@indî@
+@to support@|@arêze, rêze@
+@to support (a team)@|@tegnî pe@
+@to suppose@|@supónn-e@
+@to surprise@|@stupî@
+@to swallow@|@colâ, mandâ zû@
+@to swap@|@bâtâ@
+@to swear@|@zuâ@
+@to sweat@|@suâ@
+@to sweeten@|@adôçî@
+@to swim@|@nuâ@
+@to swindle@|@marmelâ@
+@to switch off@|@asmortâ@
+@to switch on@|@açénde@
+@to take@|@pigiâ, portâ@
+@to take a breath@|@pigiâ sciòu@
+@to take a fancy@|@sâtâ i scrìpixi@
+@to take a nap@|@pizagiâ@
+@to take a rest@|@ripozâ@
+@to take a short time@|@fâ fîto, fâ présto@
+@to take a shower@|@fâ a dóssa@
+@to take advantage of@|@aprofitâ@
+@to take away@|@portâ vîa@
+@to take back@|@portâ inderê@
+@to take care@|@dâ a ménte@
+@to take care of@|@ascìste@
+@to take no notice@|@fâ o ghéubbo, fâ da ghéubbo@
+@to take no notice (of something)@|@fâ o ghéubbo, fâ da ghéubbo@
+@to take notice of@|@fâ câxo a@
+@to take one's time@|@tenpoezâ@
+@to take out@|@levâ, tiâ fêua@
+@to take possession@|@inposesâse@
+@to take revenge on@|@vendicâse de@
+@to take root@|@areixâ@
+@to take turns@|@dâse o càngio@
+@to take... into account@|@tegnî cónto de...@
+@to talk@|@conversâ, parlâ (v)@
+@to talk nonsense@|@stralabiâ, straparlâ@
+@to talk on the phone@|@sentîse a-o teléfono@
+@to tame@|@adomestegâ@
+@to taste@|@gustâ, tastâ, asazâ@
+@to tattle@|@sciusciâ (fig.)@
+@to tax@|@tasciâ@
+@to teach@|@mostrâ@
+@to tear@|@scciapâ@
+@to tear down@|@abàtte@
+@to tear out@|@scciancâ, strepâ@
+@to tear to pieces@|@fâ a tòcchi@
+@to tease@|@pigiâ in gîo@
+@to tell@|@contâ@
+@to tell fabrications@|@avéi ciù mósse che mandìlli@
+@to tell on@|@sciusciâ (fig.)@
+@to terrify@|@aterî, terorizâ@
+@to test@|@provâ@
+@to thank@|@rénde gràçie, ringraçiâ@
+@to the (f)@|@a-a@
+@to the (m)@|@a-o@
+@to the left@|@a-a mancìnn-a, da-a mancìnn-a@
+@to the max@|@a ciù no pòsso@
+@to the right@|@a-a drîta, da-a drîta@
+@to thieve@|@scipâ@
+@to think@|@pensâ@
+@to think carefully@|@raxonâ@
+@to throb@|@parpitâ@
+@to throttle@|@strangoâ@
+@to throw@|@caciâ, asbriâ@
+@to throw away@|@caciâ vîa@
+@to thunder@|@tronâ@
+@to tidy up@|@dâ recàtto@
+@to tie@|@agropâ@
+@to tighten@|@astrénze@
+@to tip@|@dâ a mància@
+@to tip over@|@ribaltâ@
+@to tire@|@stancâ@
+@to toast@|@bristolî, brostolî@
+@to toil@|@sgobâ, fadigâ@
+@to tolerate@|@tolerâ@
+@to torment@|@cruçiâ@
+@to touch@|@tocâ, atastâ@
+@to touch up@|@remenâ@
+@to tour@|@percorî@
+@to tow@|@remorcâ@
+@to trade@|@comerçiâ, trafegâ@
+@to train@|@alenâ@
+@to transfer@|@trasferî, versâ@
+@to translate@|@volgarizâ, tradûe, rénde@
+@to transport@|@trasportâ@
+@to travel@|@viagiâ@
+@to treat@|@mêgâ@
+@to tremble@|@tremâ@
+@to tremble with fear@|@tremâ da-a poîa@
+@to trim@|@tagiâ@
+@to triturate@|@tritolâ@
+@to triumph@|@trionfâ@
+@to trot@|@trotâ@
+@to trust@|@confiâ@
+@to trust to luck@|@andâ a-a ventûa@
+@to try to@|@çercâ de@
+@to tug@|@remorcâ@
+@to tumble@|@tonbigiâ@
+@to turn@|@reversâ, gjâ, vortâ, regjâ@
+@to turn around@|@gjâse@
+@to turn into@|@scangiâ in@
+@to turn off@|@stacâ, asmortâ@
+@to turn on@|@açénde@
+@to turn over@|@ribaltâ, reversâ@
+@to twine@|@intortignâ, atortignâ@
+@to twinkle@|@brilâ@
+@to twirl@|@intortignâ, atortignâ@
+@to twist@|@stòrçe, intresâ, strosciâ, intortignâ, atortignâ@
+@to ululate@|@luâ@
+@to unbutton@|@despomelâ@
+@to understand@|@capî, acapî@
+@to unfasten@|@desligâ@
+@to unfold@|@desccegâ@
+@to unhook@|@desligâ@
+@to unravel@|@desbrogiâ@
+@to untangle@|@desbrogiâ@
+@to untie@|@desligâ, desnuâ, stacâ@
+@to update@|@agiornâ@
+@to upset somebody@|@sciâtâ@
+@to urge@|@instâ@
+@to use@|@adêuviâ, dêuviâ, utilizâ, uzâ, manezâ@
+@to usurp@|@uzurpâ@
+@to vacate@|@dimétise@
+@to vacillate@|@dâ besténto, bestentâ@
+@to value@|@valuâ, valutâ@
+@to vanish@|@svanî@
+@to vary@|@variâ@
+@to venerate@|@venerâ@
+@to ventilate@|@ventilâ@
+@to vibrate@|@vibrâ@
+@to visit@|@vixitâ@
+@to vomit@|@veumitâ, caciâ, vomitâ@
+@to vote@|@votâ@
+@to wag@|@scrolâ@
+@to wag its tail@|@lociâ a côa@
+@to wag one's tail@|@lociâ a côa@
+@to wait for@|@aspêtâ, spêtâ@
+@to wake (somebody) up@|@adesciâ@
+@to wake up@|@adesciâse@
+@to walk@|@caminâ@
+@to wander@|@vagâ@
+@to want@|@voéi@
+@to ward off@|@sconzuâ@
+@to warn@|@avertî@
+@to wash@|@lavâ@
+@to waste@|@asgreiâ, goastâ, stragiâ, stralatâ, sgreiâ@
+@to watch@|@védde@
+@to weaken@|@debilitâ, indebolî@
+@to wear out@|@derenâ@
+@to weave@|@intresâ, tésce@
+@to weed@|@scerbâ@
+@to weep@|@ciànze@
+@to weigh@|@pezâ@
+@to weigh anchor@|@sarpâ l'àncoa, sarpâ@
+@to wet@|@bagnâ@
+@to whisper@|@mormoâ, susurâ@
+@to whistle@|@scigoâ, siâ@
+@to whiten@|@ingiancâ, ingianchî@
+@to win@|@goadagnâ, goâgnâ, trionfâ, vìnçe, vìnse@
+@to wind into a ball@|@arêlâ@
+@to wink@|@sciacâ de l'éuggio@
+@to winter@|@svernâ@
+@to wish@|@dexiderâ@
+@to withdraw@|@ritrâe, levâ, retiâ, trâ@
+@to withstand@|@arêze, rêze@
+@to womanize@|@andâ a dònne@
+@to work@|@travagiâ, louâ@
+@to work hard@|@fadigâ, sgobâ@
+@to work out@|@alenâ@
+@to worry@|@cruçiâ, preòcupâse, pròcupâse@
+@to wound@|@ferî@
+@to wrinkle@|@strofogiâ@
+@to write@|@scrîve, scrîe@
+@to write under dictation@|@scrîve sótta detatûa@
+@to yawn@|@bagiâ@
+@to yearn for@|@rinciànze@
+@to yell@|@mandâ di crîi, caciâ di ùrli, caciâ di crîi, criâ@
+@toast (drink)@|@brìndixi@
+@tobacco@|@tabàcco@
+@tobacconist@|@stànco (nm), tabacànte (nm)@
+@today@|@ancheu@
+@together@|@insémme@
+@toilet@|@lêugo, bàgno, lêugo cómodo@
+@tomato@|@tomâta@
+@tomb@|@tónba, seportûa@
+@tomorrow@|@domàn@
+@tomorrow evening@|@domàn a séia@
+@tone-deaf@|@stonòu@
+@tongs@|@tenàgge (fpl)@
+@tongue@|@léngoa, lìngoa@
+@tongue-twister@|@desligaléngoa (nm)@
+@tonight@|@stanéutte, staséia@
+@too@|@goæi, ascì, ànche@
+@too much@|@goæi, fìnn-a tròppo@
+@tooth@|@dénte@
+@toothpick@|@frugadénti (nm)@
+@top@|@çìmma, somitæ@
+@topic@|@têma (nm)@
+@tornado@|@côa d'âia@
+@Torriglia (GE)@|@Torìggia@
+@tortoise@|@tartarûga@
+@torture@|@tortûa@
+@total@|@totâle@
+@tough@|@dûo@
+@toughie@|@magnæro (nm), malémmo (nm), squarsón (nm)@
+@tourism@|@turìsmo@
+@tourist@|@turìsta@
+@tournament@|@tornêo@
+@towards@|@vèrso@
+@towboat@|@rimorchiatô@
+@towel@|@macramê (nm), picagétta@
+@towel with macramé trim@|@macramê (nm)@
+@tower@|@tôre (nf)@
+@town@|@pàize (nm)@
+@toxic@|@téuscego@
+@trade@|@comèrçio, mestê, negòçio, tràfego@
+@trade fair@|@fêa@
+@trade union@|@scindacâto@
+@traditional@|@tradiçionâ@
+@traffic@|@tràfego@
+@tragedy@|@tragédia@
+@tragical@|@tràgico@
+@trail@|@scîa@
+@train@|@trêno, trén@
+@trainer@|@alenatô@
+@traitor@|@treitô@
+@trajectory@|@percórso@
+@tramp@|@rabêlo, barbón@
+@tramway@|@tranvài (nm)@
+@transfer@|@trasferiménto@
+@transition@|@transciçión@
+@translated@|@tradûto@
+@translation@|@traduçión@
+@translator@|@tradutô@
+@transport@|@traspòrto@
+@trap@|@fròuxo, gazìbba, intrésso, rataieu (nm), sfròuxo, trùffa (it.)@
+@trash@|@ruménta@
+@Traso (GE)@|@Trâxo@
+@tray@|@pòrtagòtti (nm)@
+@treasure@|@tezöo@
+@treatment@|@cûa@
+@treble@|@agùsso@
+@tree@|@èrbo@
+@trees@|@èrboi (mpl)@
+@tremble@|@tremaxón@
+@Trensasco (GE)@|@Trensàsco@
+@tribe@|@tribû@
+@Tribogna (GE)@|@Tribéugna@
+@tribune@|@tribùnn-a@
+@tribute@|@omàggio, tribûto@
+@trick@|@fròuxo, gazìbba, intrîgo, manézzo, sfròuxo, trùffa (it.), zughétto@
+@trifle@|@picinéssa@
+@trinity@|@trinitæ@
+@Triora (IM)@|@Triêua@
+@trip@|@viàggio, viâgio@
+@triple@|@tréggio@
+@tripod@|@treipê@
+@triumph@|@triónfo@
+@triumphal@|@trionfâle@
+@triumphal arch@|@èrco trionfâle@
+@trouble@|@pastìssi (nmpl), goâio, problêma, dispiaxéi@
+@troublesome@|@descòmodo, scòmodo@
+@trousers@|@brâghe (fpl), pantalón, pantaloìn (mpl)@
+@trout@|@trûta@
+@truck farmer@|@ortoàn@
+@true@|@vêo, viâxo, vertadêo@
+@truly@|@pe 'n davéi@
+@trunk@|@strónscio, bàilo, béuilo@
+@truth@|@veitæ@
+@truth be told@|@a dîla sccétta, a dîla comm'a l'é, a dî o vêo, a dî a veitæ, sccetaménte@
+@truthfully@|@a dîla sccétta, a dîla comm'a l'é, a dî o vêo, a dî a veitæ, sccetaménte@
+@T-shirt@|@mariölo, magétta@
+@tsunami@|@maremòtto@
+@Tuesday@|@martedì, matesdì@
+@tugboat@|@rimorchiatô@
+@tulip@|@tolipâno@
+@tulle@|@tùllo@
+@tumble@|@tonbæla@
+@tumbling@|@a tonbolón@
+@tumor@|@tumôre (it.), tumô@
+@tuna@|@tónno@
+@Tunisia@|@Tùnixi, Tùnexi@
+@turbid@|@stórbio@
+@turbot@|@rónbo@
+@Turkey@|@Turchîa@
+@turkey (bird)@|@bibìn@
+@Turkish@|@tùrco@
+@turn@|@gîo@
+@turned-up nose@|@nâzo rebechîo@
+@turnip@|@râva@
+@turpentine@|@ægoa râxa@
+@turps@|@ægoa râxa@
+@turquoise (colour)@|@bleu turchìn@
+@turtle@|@tartarûga@
+@turtle dove@|@tórtoa@
+@Tuscan@|@toscàn@
+@Tuscany@|@Toscànn-a@
+@twelfth@|@dozén, deximosegóndo@
+@twelve@|@dózze@
+@twelve hours@|@dózz'ôe@
+@twenty@|@vìnti@
+@twenty-first@|@vintunêximo@
+@twenty-one@|@vintùn@
+@twin@|@binéllo@
+@twinning@|@fradelànsa, fraternitæ@
+@twisted@|@stòrto, strosciòu@
+@twister@|@côa d'âia@
+@two (f)@|@dôe@
+@two (m)@|@doî@
+@two billion@|@doî miliàrdi@
+@type@|@ménn-a, tîpo@
+@typhoon@|@proìn@
+@typhus (fever)@|@tîfo@
+@Tyrolean@|@tiroléize@
+@Tyrolese@|@tiroléize@
+@Tyrrhenian@|@Tirén@
+@ugliness@|@brutéssa@
+@ugly@|@brùtto@
+@Ukraine@|@Ucraìnn-a@
+@Ukrainian@|@ucraìn@
+@umbrella@|@parægoa (nm), pægoa (nm)@
+@unbearable@|@insoportàbile@
+@unbecoming@|@sconveniénte@
+@unchanged@|@invariòu@
+@uncle@|@bàrba (nm)@
+@uncomfortable@|@scòmodo, descòmodo@
+@under@|@zu a@
+@under age@|@minôre, minô@
+@underbrush@|@erbàsci (nmpl)@
+@undergrowth@|@erbàsci (nmpl)@
+@underpants (men's)@|@miànde (fpl)@
+@underpants (women's)@|@braghétte (fpl)@
+@undershirt@|@camixêua@
+@understandable@|@conprenscìbile@
+@underwear@|@miànde (fpl)@
+@undoubtedly@|@adreitûa, sens'âtro@
+@uneasy@|@anscetôzo@
+@unexpected@|@inprovîzo, inaspêtòu@
+@unexpectedly@|@a l'inprovîzo@
+@unfortunately@|@purtròppo@
+@unfriendly@|@refiôzo@
+@unhappiness@|@sconténto, infeliçitæ@
+@uniform@|@divîza (nf)@
+@unintelligible@|@inconprenscìbile@
+@union@|@unión@
+@unique@|@ùnico@
+@united@|@unîo@
+@United States@|@Stâti Unîi (mpl)@
+@unity@|@unitæ@
+@universal@|@universâle@
+@universe@|@univèrso@
+@university@|@universcitæ@
+@unkempt@|@alandronòu@
+@unknown@|@sconosciûo@
+@unpleasant@|@refiôzo@
+@unpublished@|@inédito@
+@unselfish@|@generôzo@
+@unselfishness@|@generozitæ@
+@unsettling@|@inquetànte@
+@untidily@|@a-a rinfûza, a-a sbæra@
+@untied@|@desligòu@
+@until@|@fìn a, scìn a, fìnn-a (av.), scìnn-a@
+@until now@|@fìn òua@
+@until tomorrow!@|@a domàn!@
+@unusual@|@insòlito@
+@unvaried@|@invariòu@
+@up@|@sciù, in sciù@
+@up there@|@lasciù@
+@upbringing@|@alevaménto, alevéuia@
+@update@|@agiornaménto@
+@upkeep@|@manutençión@
+@upright@|@rétto, drîto (ag.)@
+@upset@|@aragiòu@
+@upset (n)@|@dispiaxéi@
+@upside down@|@a-a revèrsa@
+@upstream@|@controcorénte@
+@upto@|@scìn a, fìn a, fìnn-a (av.), scìnn-a@
+@up-to-date@|@agiornòu@
+@uranium@|@urànio@
+@Uranus@|@Uràn@
+@urban@|@urbàn@
+@urgence@|@urgénsa@
+@urgent@|@urgénte@
+@urine@|@oénn-a@
+@urn@|@ùrna@
+@usage@|@utilìzzo@
+@usages@|@ûxi (mpl)@
+@Uscio (GE)@|@Ùsci@
+@use@|@utilìzzo, ûzo@
+@useful@|@ùtile@
+@uselessness@|@inutilitæ@
+@user@|@uténte (nm), utilizatô@
+@usufruct@|@uzufrûto@
+@usurer@|@uzurâio@
+@usurper@|@uzurpatô@
+@usury@|@uzûa@
+@uterine@|@uterìn@
+@uterus@|@ùtero@
+@utility@|@utilitæ@
+@Utopia@|@utopîa@
+@Utopian@|@utòpico@
+@vacations@|@vacànse (nfpl)@
+@vacuum cleaner@|@sciorbipûa (nm), aspirapûa (nm)@
+@Vado Ligure (SV)@|@Voæ@
+@vagina@|@goèrsa (volg.), móssa (volg.), vagìnn-a@
+@vagrant@|@barbón, vagabóndo@
+@vague@|@vâgo@
+@vainilla@|@vainìlia@
+@Valdipino (SP)@|@Valdepìn@
+@valerian@|@valeriànn-a@
+@valid@|@vàlido@
+@validity@|@valénsa, validitæ@
+@validness@|@valénsa, validitæ@
+@Vallepiana (GE)@|@Valeciànn-a@
+@Valleregia (GE)@|@Voiæ@
+@valley@|@valàdda, vàlle (nf)@
+@value@|@valûa, valô@
+@vanity@|@vanitæ@
+@Vara (SP)@|@Vâ@
+@Varazze (SV)@|@Vâze@
+@Varese Ligure (SP)@|@Vàize@
+@variation@|@variaçión@
+@variety@|@varietæ@
+@Varigotti (SV)@|@Varigòtti@
+@various@|@vàrie (fpl), vàrri (mpl), vàrio@
+@varnish@|@vernîxe (nf)@
+@vase@|@vâzo@
+@vast@|@vàsto@
+@veal@|@scotónn-a@
+@vegetable@|@verdûa, òrtàggio@
+@vegetables@|@òrtàggi (mpl)@
+@vegetation@|@vegetaçión@
+@veil@|@véllo@
+@vein@|@vénn-a@
+@Venetian@|@veneçiàn@
+@Veneto@|@Véneto@
+@Venezuela@|@Venezoêla@
+@Venezuelan@|@venezoelàn@
+@Venice@|@Venéçia, Venêxa (ant.)@
+@ventilated@|@ventilòu@
+@ventilation@|@ventilaçión@
+@ventilator@|@ventilatô@
+@Ventimiglia (IM)@|@Vintimìggia@
+@Venus@|@Vénere@
+@verification@|@verìfica@
+@vernacular@|@vernàcolo@
+@Vernazza (SP)@|@Vernàssa@
+@verse@|@vèrso (nm)@
+@version@|@versción@
+@vertebral column@|@fî da schénn-a (nm)@
+@vertical@|@verticâle, drîto (ag.)@
+@vertically@|@drîto (av.)@
+@vertigo@|@barlugón@
+@very@|@bén bén@
+@very dear@|@stracâo@
+@very good@|@benìscimo@
+@very important@|@inportantìscimo@
+@very much@|@tànto, bén bén@
+@very well@|@benìscimo@
+@Vesima (GE)@|@Vêxima@
+@vest@|@camixêua@
+@veterinary@|@veterinâio@
+@Vezzano (SP)@|@Vesàn@
+@Via del Colle (in Genoa)@|@Chéulia@
+@vibration@|@vibraçión@
+@vice@|@vìçio@
+@vice-chancellor@|@préscide@
+@victim@|@vìtima@
+@victory@|@vitöia@
+@video@|@vìdeo@
+@Vienna@|@Viénna@
+@view@|@vedûa, vedûta (it.), vìsta@
+@vigour@|@vigô@
+@Viking@|@vichìngo@
+@villa@|@vìlla@
+@village@|@paizìn, vilàggio@
+@villainous@|@vilàn@
+@Vincent@|@Censìn, Cê, Viçensìn, Viçénso@
+@vine arbor@|@angiòu, téupia@
+@vinegar@|@axòu@
+@vineyard@|@vìgna@
+@vintner@|@vinacê, vinatê, vendivìn (nm)@
+@violet@|@viovétta@
+@violet (colour)@|@viovétto@
+@virgin@|@vèrgine@
+@Virgin@|@Madónn-a@
+@virginity@|@verginitæ@
+@virtue@|@virtû@
+@visa@|@vìsto@
+@vision@|@vixón, vìsta@
+@visionary@|@vixonâio@
+@visit@|@vìxita@
+@visitor@|@vixitatô@
+@visor (of a helmet)@|@padelétta@
+@vitamin@|@vitamìnn-a@
+@vitriol@|@vetrieu@
+@vivacity@|@vivaçitæ@
+@vocabulary@|@vocabolâio@
+@voice@|@vôxe@
+@voice (diminutive)@|@voxìn (nm), voxétta, voxìnn-a, voxetìnn-a@
+@void@|@nùllo@
+@volatile@|@volàtile@
+@volcano@|@volcàn@
+@volcanoes@|@volchén (mpl)@
+@Volpedo (Piedmont)@|@Vorpéi@
+@Voltri (GE)@|@Vôtri, Ôtri@
+@volume@|@volùmme@
+@volunteer@|@volontâio@
+@vomit@|@vomitêuia@
+@voracious@|@abrascòu@
+@voraciousness@|@bràsca@
+@voracity@|@bràsca@
+@vote@|@vôto@
+@vowel@|@vocâle@
+@vulgar@|@volgâre@
+@vulture (bird)@|@grifón@
+@wafer@|@nêgia@
+@wage@|@salâio@
+@waged@|@dipendénte@
+@wagon@|@vagón@
+@wait!@|@aspêta!, spêta!@
+@waiter@|@camê@
+@waitress@|@camêa@
+@wakefulness@|@vegêa, véggia@
+@Wales@|@Gàlles@
+@walking stick@|@bàcco, bastón@
+@wall@|@miâgia@
+@wall lizard@|@sgrìgoa@
+@wallet@|@pòrtaféuggio@
+@walnut tree@|@èrbo de nôxe@
+@waltz@|@vàlser (nm)@
+@wandering@|@bìndolo@
+@war@|@goæra@
+@wardrobe@|@armâio@
+@warehouse@|@magasìn, antrepö@
+@warm@|@calorôzo, tiépido@
+@warning@|@averténsa, avîzo@
+@warp@|@ordîo@
+@wart@|@porìn@
+@washbasin@|@baçî, lavéllo@
+@washerwoman@|@bugàixe@
+@wasp@|@vèspa@
+@waste@|@refûo, rexìdoo, ruménta@
+@waste paper@|@papê de stràssa (nm)@
+@watch (n)@|@relêuio@
+@watching@|@avistaménto@
+@watchmaker@|@releuiâ (nm)@
+@watchman@|@cantonê@
+@water@|@ægoa@
+@watering can@|@stagnón@
+@watermelon@|@patêca@
+@wave@|@ónda@
+@waves@|@ónde (nfpl)@
+@wax@|@çéia@
+@wax candle@|@ofiçieu@
+@way@|@camìn, mainêa, manêa, stràdda, vîa@
+@way back@|@ritórno@
+@way out@|@sciortîa@
+@WC@|@lêugo, bàgno, lêugo cómodo@
+@we@|@niâtri@
+@we are@|@niâtri sémmo@
+@we find@|@niâtri trovémmo, niâtri atrovémmo@
+@we know@|@niâtri sémmo@
+@weak@|@scernîo, débole@
+@weakness@|@deficénsa@
+@wealth@|@richéssa@
+@weaponry@|@armaménto@
+@weariness@|@stanchéssa@
+@weasel@|@bèloa@
+@weather@|@ténpo@
+@weathercock@|@banderòlla@
+@weathervane@|@banderòlla@
+@weaving@|@tesciûo@
+@wedding@|@maiézzo, nósse (fpl), spozalìçio@
+@wedge@|@gælo@
+@Wednesday@|@mercoledì, mâcordì@
+@weeds@|@erbàsci (nmpl)@
+@week@|@setemànn-a@
+@weight@|@péizo@
+@weird@|@strâno@
+@welcome@|@benvegnûo@
+@well (adv.)@|@a pòsto, bén@
+@well (n)@|@pósso@
+@well done@|@bén fæto@
+@we'll see!@|@vediêmo!@
+@well-known@|@rinomòu@
+@well-liked@|@bén vosciûo@
+@well-off@|@móscio@
+@West@|@ponénte, Oçidénte, òvest@
+@wet@|@bagnòu, scôo, ùmido (ag.)@
+@wet-nurse@|@màmma@
+@wet-nurse's husband@|@tàtta (nm)@
+@whale@|@balénn-a@
+@wharf@|@meu@
+@what@|@che, cöse@
+@what a nice!@|@mâi bèllo!@
+@what do you do?@|@cöse ti fæ?@
+@what do you say?@|@cöse ti dîxi?@
+@what do you say? (formal)@|@cöse sciâ dîxe?@
+@what do you want?@|@cöse ti veu?@
+@what do you want? (formal)@|@cöse sciâ veu?@
+@what else?@|@che ciù?@
+@what for@|@percöse@
+@what is the time?@|@che ôa l'é?@
+@what is your name?@|@cómme ti te ciàmmi?, cómme ti t'aciàmmi?@
+@what time is it?@|@che ôa l'é?@
+@what you want@|@quéllo che ti veu@
+@what's up?@|@cöse gh'é?@
+@wheel@|@rêua@
+@when@|@quànde@
+@where@|@ónde, dôve@
+@where are you?@|@dôve ti ê?, ónde t'ê? (pop.)@
+@which@|@quæ@
+@which (f)@|@a quæ@
+@which (m)@|@o quæ@
+@whichever@|@quæ se sæ@
+@whiff@|@naixâ (nf)(pop.), piscioelâ (nf), schisâ (nf)@
+@while@|@méntre@
+@whilst@|@méntre@
+@whim@|@scrìpixi (nmpl), caprìçio@
+@whimsical@|@capriçiôzo@
+@whiner@|@mogognón, rangognón@
+@whisper@|@susûro@
+@whistle@|@scigoêlo, pelêuia, scìgoa, scigoelétto@
+@whistleblower@|@sciusción@
+@white@|@giànco@
+@white wine@|@vìn giànco@
+@who@|@chi@
+@who knows@|@chisà@
+@whoever@|@chiónque, chi se ségge, chi se sæ@
+@whole@|@intrêgo@
+@whore@|@scàia (volg.), bagàscia@
+@whore (augmentative)@|@bagasciónn-a@
+@whoremonger@|@bagascê (nm)@
+@why@|@perché@
+@wide@|@vàsto, làrgo, àncio@
+@wide road@|@stradón@
+@widespread@|@destéizo@
+@widow@|@vìdoa@
+@widower@|@vìdoo@
+@wife@|@mogê@
+@wig@|@perùcca@
+@wild@|@sarvægo@
+@wild boar@|@pòrco sarvægo, zavalî (nm)@
+@wildcat@|@gàtto sarvægo@
+@wildly hungry@|@abrascòu@
+@will (n)@|@coæ (nf), voentæ@
+@willingly@|@voentêa@
+@willow@|@sâxo@
+@wind@|@vénto@
+@windmill@|@ventoêla@
+@window@|@barcón@
+@window (small)@|@barconétto@
+@windscreen@|@parabréssa (nm)@
+@windshield@|@parabréssa (nm)@
+@windy@|@ventôzo@
+@wine@|@vìn, scàbio (pop.)@
+@wing@|@âa (nf)@
+@winkle@|@lumàssa@
+@winter@|@invèrno@
+@wire@|@câo (nm), fî (nm)@
+@wisdom tooth@|@dénte do giudìçio@
+@wise@|@giudiçiôzo, pìn de sæximo@
+@wish@|@coæ (nf)@
+@wishful@|@dexiderôzo@
+@wit@|@inzégno@
+@witch@|@strîa@
+@witch doctor@|@mêgón@
+@witchcraft@|@malefìçio@
+@with@|@con@
+@with all one's strength@|@a ciù no pòsso@
+@with an empty stomach@|@a zazùn@
+@with the (fpl)@|@co-e@
+@with the (fsing)@|@co-a@
+@with the (mpl)@|@co-i@
+@with the (msing)@|@co-o@
+@without@|@sénsa, sénsa de@
+@without rule@|@abrétio@
+@witty@|@inzegnôzo@
+@woe@|@mâ (nm)@
+@wolf@|@lô@
+@woman@|@dònna@
+@woman's veil (ancient)@|@méizou@
+@womb@|@ùtero@
+@wonder@|@mâvéggia@
+@wonderful@|@mâvegiôzo, fantàstico@
+@wood@|@légna, légno@
+@wood stove@|@ronfò (nm)@
+@woodcock@|@becàssa@
+@woodpecker (great spotted)@|@pìcco, picónso@
+@woodpecker (lesser spotted)@|@piconsìn@
+@wool@|@lànn-a@
+@wool merchant@|@lanê@
+@woollen cloth@|@pànno@
+@word@|@paròlla, pòula@
+@word game@|@regîo de paròlle@
+@words@|@paròlle (fpl)@
+@work@|@êuvia, òpera, òpea, lòu, travàggio@
+@worker@|@travagiatô, louànte@
+@worker (factory/construction)@|@òperâio@
+@workshop@|@òfiçìnn-a, fuxìnn-a@
+@worm@|@vèrme (nm)@
+@worm-eaten@|@camoòu@
+@worn out@|@derenòu@
+@worry@|@crùçio, pròcupaçión@
+@worrying@|@inquetànte@
+@worse@|@pêzo@
+@worsening (n)@|@pezoaménto@
+@worst@|@pêzo@
+@wound@|@ferîa@
+@woven@|@tesciûo@
+@wrath@|@fótta, îra@
+@wrinkle@|@rûga, strofóggio, ràppa@
+@wrist@|@pôso@
+@writer@|@scritô@
+@writing@|@scritûa, grafîa@
+@Xavier@|@Xavêio@
+@xebec (sailing ship)@|@sciabécco@
+@yawning@|@bâgio@
+@year@|@ànno@
+@yearning@|@dexiderôzo@
+@yeast@|@leòu (nm)@
+@yell@|@crîo@
+@yellow@|@giâno@
+@yes@|@scì@
+@yesterday@|@vêi@
+@yesterday evening@|@vêi séia@
+@yesterday night@|@stanéutte, vêi séia@
+@yet@|@ancón@
+@yield@|@rédito, réndia@
+@yoke@|@zô@
+@yolk@|@rósso d'êuvo (nm), zôvo@
+@you (fpl)@|@viâtre@
+@you (mpl)@|@viâtri@
+@you (polite)@|@vosciâ@
+@you (sing.)@|@ti@
+@you (sing.)(formal)(particle)@|@scia@
+@you all (f)@|@viâtre@
+@you all (m)@|@viâtri@
+@you are (fpl)@|@viâtre séi@
+@you are (mpl)@|@viâtri séi@
+@you are (sing.)@|@ti ti ê, ti t'ê@
+@you know (mpl)@|@viâtri séi@
+@you know (sing.)@|@ti ti sæ@
+@you put (pl.)@|@viâtri metéi@
+@you put (sing.)@|@ti ti métti@
+@you say (sing.)@|@ti ti dîxi@
+@young@|@zoêno@
+@young (f)@|@zóvena@
+@young (m)@|@zóveno@
+@young guy@|@bagarìllo, bardasciàmme, pivétto@
+@young man@|@zoênetìn, zoênétto, zoênòtto, pivéllo, zóveno@
+@young woman@|@zóvena, zoênòtta@
+@younger@|@minô, minôre@
+@your (you all)(fpl)@|@e vòstre@
+@your (you all)(fsing)@|@a vòstra@
+@your (you all)(mpl)@|@i vòstri@
+@your (you all)(msing)@|@o vòstro@
+@yours (you all)(fpl)@|@vòstre@
+@yours (you all)(fsing)@|@vòstra@
+@yours (you all)(mpl)@|@vòstri@
+@yours (you all)(msing)@|@vòstro@
+@youth@|@zoentû, zoventû@
+@zabaglione (culinary)@|@sabaión@
+@Zachary@|@Zacàia@
+@zeal@|@fervô@
+@zebec (sailing ship)@|@sciabécco@
+@zed bed@|@brànda (nf)@
+@Zignago (SP)@|@Zignægo@
+@zinc (metal)@|@zìngo@
+@Zinola (SV)@|@Zinòua@
+@zip@|@sportigêua@
+@zipper@|@sportigêua@
+@Zita (name)@|@Zìtta@
+@Zoagli (GE)@|@Zoâgi@
+@zone@|@zöna@
+@Zuccarello (SV)@|@Sucælo@
+@zucchini@|@suchìn (nm)@
+

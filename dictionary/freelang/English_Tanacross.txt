@@ -1,0 +1,3122 @@
+@English@|@Tanacross@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a ball is rolling@|@ch'ukeg almeth@
+@a bow@|@ts'ehtii@
+@a bridge crosses the water@|@yaanâan xtsiil kenin'ah@
+@a comb@|@tthixuuseel@
+@a creek@|@ch'endá', ndîig, tlandíig@
+@a crippled person@|@ts'idint'eh@
+@a cup of tea is on the table@|@ldîil k'ech'ii'aadl k'et eekaa@
+@a dance@|@ch'edzes@
+@a different direction@|@ch'ítduug@
+@a different manner@|@ch'ít-tsedz@
+@a different person@|@ch'ítshuun@
+@a different thing@|@ch'ítshuuy@
+@a dog is growling@|@lii ch'utnehxonh@
+@a dog is harnessed@|@lii dadíndah@
+@a drunk person@|@neexel@
+@a file@|@ch'iik'agh@
+@a fishnet is set@|@tee'ehndiik@
+@a flock of birds flew up@|@naadóg tsúgaay yaníshaa@
+@a frog is hopping@|@naaxey atkek@
+@a gap in something@|@nilk'ée xúu'aa@
+@a herd is moving@|@naltl'éy ná'al'és@
+@a hide@|@ch'ethéth@
+@a hole in something@|@xdú@
+@a kind of bug@|@ts'aketl'aag@
+@a knot in wood@|@ch'ethuch'enn'@
+@a lamp@|@neldzeey@
+@a little farther@|@xnihk'ôdl@
+@a lot of caribou are moving@|@wudzih ndlaan xúh ah'és@
+@a mammal@|@nûun@
+@a mushroom@|@ch'eneyy'@
+@a needle for sewing cloth@|@ulsûud@
+@a new thing@|@k'ah dú' éltsiin@
+@a nice person@|@mesuuxúht'eey@
+@a paddle@|@taat'ôgh@
+@a partition@|@xdanint'eey@
+@a place for fun@|@dexos k'ée@
+@a portion of@|@ch'ehlaad@
+@a pounding noise@|@xdeldón'@
+@a pregnant animal@|@wugaay xtéelé'@
+@a scent marking@|@wuk'eh@
+@a short while ago@|@k'adídá'a@
+@a situation@|@tidaxghintthet@
+@a small creek@|@hên@
+@a steep river bank@|@dzendaax@
+@a stump is drifting along@|@ch'aachenn' tadahtiil@
+@a tanned skin@|@ch'ethéth tatnit-tthogh@
+@a ticklish feeling@|@exeedh@
+@a tree fell over@|@ts'ôgh xúninxées@
+@a tree is slanted@|@nak'áay ts'í' dídétaan@
+@a tree stump is floating down@|@ch'achenn' tadaatiil@
+@a while ago@|@k'adîidá'a@
+@abandonded@|@kón' k'ée@
+@about@|@gha@
+@above me@|@shtthíit'aag@
+@abrasive@|@ch'et-ts'iits@
+@according to@|@gha@
+@according to what he said@|@xutney gha sítnih@
+@across toward@|@yaanáan'@
+@actually@|@lá'a ch'e le', xúu' ch'e le'@
+@added on@|@wuk'et deetaan@
+@adipose fin@|@wut'ogh'@
+@adolescents@|@ch'ilkeey@
+@adult@|@ch'endëddh'@
+@afraid@|@naljet, negjet, neljet, niljet, ts'eneljet@
+@after@|@yik'eh@
+@after a time@|@xtéetthet dé'@
+@after a while I'm going home@|@k'adíidé' tâatihdaal@
+@afterbirth@|@ts'enîin él'@
+@again@|@tëyy'@
+@ahead@|@yittheh@
+@ahead of me@|@shttheh@
+@ahead of you all@|@nuhttheh@
+@ailment@|@ts'iik@
+@alder@|@k'ets@
+@all@|@xunelt'eey@
+@all day@|@dzeen uudíh@
+@all done@|@xúu' shée'@
+@all of us@|@xuts'enelt'eh@
+@alltime@|@nén' tenh k'edz'@
+@almost@|@k'áhjîil@
+@alone@|@shée'@
+@already@|@k'ôd@
+@also@|@chích'ah, chíh@
+@always@|@shée'@
+@amazing to me@|@shaa xdint'eh@
+@American kestrel@|@tsúugaay eldîil@
+@American wigeon@|@shahsey@
+@ammunition@|@k'áatthé'@
+@among it@|@wutah@
+@an acquaintance of mine@|@me'ishdey@
+@an animal's gall bladder@|@ch'etl'éts@
+@an auger@|@êy él xghádeldêddh@
+@an awl@|@tthel@
+@an axe@|@chín'êy@
+@an echo@|@wudadehshiig@
+@an eddy in water@|@ok@
+@an egg@|@ch'exlez'@
+@an excellent place@|@lá'a xúnsuu@
+@an excellent thing@|@lá'a nsuu@
+@an obedient person@|@ch'ek'éetáa xáhthed@
+@an old@|@kón' k'ée@
+@an old dog@|@lii shaan'@
+@an orange and white bug@|@tehk'aay@
+@an unmarried person@|@dish_ée' éedaay@
+@ancestors@|@tsíyûul@
+@and@|@él@
+@and you all; how are you?@|@nuhxon dú' nst'é t'áht'eh?@
+@and you; how are you?@|@nen dú'; nst'é t'ínt'eh?@
+@angry@|@ts'ani'alt'eh, ts'ani'egt'eh, ts'ani'elt'eh, ts'ani'ilt'eh, ts'anits'elt'eh, ts'anixelt'eh@
+@animal@|@ts'idint'eh@
+@animal den@|@wu'enh@
+@animal hair@|@ch'exá'@
+@animals are moving around@|@nûun natel'és@
+@animal's head@|@ch'etthí'@
+@animals move@|@ah'és@
+@ant@|@kelahdôdz@
+@antlers@|@ch'edé'@
+@any kind of necklace@|@then senélshaay@
+@anyone@|@dóo t'êey@
+@anything@|@díi t'êey@
+@anything at all@|@díi t'êey ch'e le'@
+@apple@|@aames@
+@approach@|@yits'í' xáhtseyh@
+@April@|@Ch'etthaayh Säa'@
+@arctic loon@|@ts'êlméet@
+@are you sleepy?@|@mel ndehtlaa?@
+@area@|@xt'een@
+@area above tree line@|@xdaagh@
+@area across@|@yandâaz@
+@area around my eye@|@shnahts'ehgeey'@
+@area down below@|@xahshóg@
+@area where moose regularly go@|@ch'endaag k'ée@
+@around@|@kendah@
+@around it@|@wughandah@
+@arrive@|@nahdeetl, nihshah, ninshah, ts'enindeetl@
+@arrow for waterfowl@|@tuuk'á'@
+@arrowhead for blunt arrow@|@ch'edé' tes chiid@
+@arrowhead for water fowl arrow@|@tuuk'á' chiid@
+@artic ground squirrel@|@tthel@
+@as for you?@|@nen dú'?@
+@as for?@|@dú'@
+@ashes@|@kón' lëdz'@
+@ashes chew@|@lts'iis@
+@ask him@|@wudihket@
+@at@|@tah@
+@at last@|@sâan tah@
+@aurora@|@yadíimeey@
+@autumn@|@noxluu@
+@avoid@|@wuch'aa énn'@
+@away from@|@ch'aa@
+@away from us@|@neeyahch'á'@
+@away from you@|@nyahch'á'@
+@axe handle@|@ch'ín'êy tíi'@
+@baby@|@ts'enîin gaay@
+@baby animal@|@ch'egaay@
+@baby animal month@|@Ch'egaay Saa@
+@baby basket@|@k'ii tth'áatl, k'ii tth'áatl@
+@baby strap@|@ts'enîin tl'ul'@
+@bachelor@|@wu'aat kôl@
+@back of the body@|@shnén'@
+@back to where it was@|@k'éetah@
+@backwards@|@chenent'aagh@
+@bald@|@tthí' kedz@
+@bald eagle@|@tuud@
+@ball@|@ch'ukêg@
+@bandana@|@k'onit'êey@
+@bannock@|@léets éet'eey@
+@barefoot@|@kentsiith ehdenh@
+@bat@|@xéltsedz@
+@bat for hitting@|@dechenh xel'@
+@batter@|@léets néltsel@
+@be careful carrying the water@|@ts'edogh nih há' tuu ghinkaal@
+@be on alert@|@súu' dáhthenh@
+@be quiet!@|@dádhíiney@
+@beach@|@taamâagh@
+@beads@|@nat-tl'êdz@
+@beak@|@wudá'@
+@bear@|@shos@
+@Bear Creek@|@Sht'ey Ndiig, Sht'ey Teyy' Nda'@
+@bearberry@|@dendéyh, jîiz ndaagh'@
+@beat them@|@xuu'éch'éhtl'eth@
+@beaver@|@tsá'@
+@beaver arranged his house@|@tsá' nixunin'aa@
+@beaver lodge@|@tsá' këe'@
+@beavers are swimming together@|@tsá' íin xaa'ól@
+@became smaller@|@natelts'uuts@
+@becoming@|@ts'í' xáatthel@
+@bed@|@dahdzel@
+@bee@|@ch'elahdziid@
+@beehive@|@ch'elahdziid t'ox@
+@before@|@ch'et-ttheh@
+@behind@|@nandîidz@
+@bell@|@delttheel@
+@belongings@|@xuudlaay@
+@below@|@daashez'@
+@belt@|@théth@
+@bent@|@ch'eexót@
+@berries@|@jêg@
+@berries are mixed together@|@jêg niltah net-tsiin sínt'eh@
+@berries in general@|@jêg@
+@Berry Creek@|@Wudzih Ddhel' Ndiig'@
+@besides@|@k'eddh@
+@between@|@daateg@
+@beyond@|@naattheh@
+@beyond him@|@wunaattheh@
+@big@|@chox@
+@big berry@|@jêg chox@
+@big bull moose@|@ch'eshiidz@
+@Big Dipper@|@k'eltah@
+@big game arrow@|@k'á'@
+@binoculars@|@wushíi xnél'en'@
+@birch@|@k'ii@
+@birch bark basket@|@k'ii tth'áak@
+@birch bark canoe@|@k'ii ts'eyh@
+@birch bolete@|@k'ii neyy'@
+@birch catkins@|@dahshú'@
+@birch leaf@|@k'ii t'aa'@
+@birch sap@|@k'iil@
+@birch tree@|@k'ii@
+@bird nest@|@tsúgaay t'ox@
+@bits and pieces@|@ch'edüul'@
+@black and blue mark@|@tsetl@
+@black bear@|@shos sey@
+@black birch fungus@|@tl'eel@
+@black fox@|@naageddh sey@
+@blackberry@|@naht'êez, naht'êez@
+@blacked out@|@shél nátl'ets dálneyh@
+@blanket@|@ts'ëd'@
+@blanket is spread out flat@|@téel xédétmets@
+@bleed@|@del xúnlee@
+@blister@|@tuulot@
+@blister appeared on his hand@|@minlá' k'et tuulot nídélneyh@
+@blood@|@del@
+@bloodsucker@|@ts'aadihttheeg@
+@blouse@|@ch'esek@
+@blue@|@deldlêedz@
+@blueberry@|@ch'inluut, nit-sii'@
+@bluff@|@dzendaax@
+@blunt arrow for small game@|@ch'edé' tes@
+@bog@|@xaalel@
+@boiled blood@|@ch'inkaay@
+@Bonaparte's gull@|@tthí' tsaan@
+@bone@|@tth'enh@
+@boot laces@|@kentl'uul@
+@border@|@mâagh@
+@boreal owl@|@thuulshiid, tthi'dzaadz gaay@
+@botfly@|@ch'egú'@
+@bow string@|@ts'ehtii' tl'uul'@
+@bowl@|@tutiil xeez'@
+@boy@|@tsiil@
+@braid@|@nahtl'uul, nektl'uul, nihtl'uul, ts'enehtl'uul, xyinehtl'uul, yinehtl'uul@
+@brave@|@k'á niljéd@
+@bread@|@leedón'@
+@break@|@dedhahxol, dedhekxol, dedhihxol, dzehxol, xiydehxol, yidehxol@
+@break-up@|@téedéek@
+@breast milk@|@ch'et'úu'@
+@breathe@|@atsheyh, etsheyh, ishsheyh, itsheyh, ts'etsheyh@
+@bridge@|@xtsiil@
+@bridge of my nose@|@shinchedl'@
+@bring those things with you@|@xûuy iin él taghinleel@
+@brisket@|@ch'eyutth'enn'@
+@brittle@|@det-thayh@
+@broke to pieces@|@latnaldox@
+@broken up@|@latnetxotl@
+@broom@|@wu'él jet-thîid, wu'él ts'axuthîid@
+@broth@|@tuuthel@
+@brown bear@|@ch'éliitthogh'@
+@browsing@|@ch'eldiil@
+@bruised@|@iltúuts@
+@brush@|@ts'étl@
+@Brush Indian@|@guu@
+@brushbow@|@xeth daamaath@
+@brushes are bent over@|@nanalxót@
+@brushman ridge@|@Guu Sheddh'@
+@bubble@|@taxunxos@
+@bubbling@|@xashotl@
+@buckbrush@|@luudh@
+@bucket@|@nadh'aay@
+@bufflehead@|@k'élttheel, tleettheedl@
+@bull caribou@|@deek'el@
+@bull moose@|@ninchûun@
+@bullet@|@k'áatthé'@
+@bumblebee@|@ch'elahdziid@
+@bumping objects@|@xdel'uutl@
+@bunting@|@wugaal sey@
+@burbot@|@ts'aan@
+@burl@|@dechenh ch'etxeez@
+@bush@|@ts'étl@
+@busy@|@ts'axahsaas, xahsaas, xahsaas, xoksaas, xuhsaas@
+@but@|@t'o@
+@but it's cloudy now@|@t'o k'ahdú' k'oth xu1nle@
+@butter@|@basdlah@
+@butterfly@|@laalêel@
+@button@|@ch'etsol'@
+@buy@|@ughihkéet, ughinkéet, yughinkéet, yuts'ughinkéet@
+@buy (1)@|@u'ihkéet, u'inkéet, ughahkéet, xyughinkeet@
+@buy (2)@|@u'ahkéet, xiyukéet, yits'ukéet, yuukéet@
+@by@|@ghá'@
+@by the fire@|@kón' ts'í'@
+@cabin@|@ts'ôgh shax@
+@cable@|@ts'íitsiy tl'uul@
+@cache is packed full of stuff@|@dahtsaa shíi dách'étnéldok@
+@cache up above ground@|@dahtsaa@
+@cackle@|@del'ek@
+@cackling Canada goose@|@daaxed@
+@calf@|@detsîig@
+@calf moose@|@detsîig@
+@calico@|@detl'uun@
+@Calico Point@|@Detl'uun Xe'etcheth@
+@camp@|@kón' k'ée@
+@camping site@|@níndeyh k'ée@
+@camprobber@|@jîiz@
+@can@|@ch'etiil@
+@Canada goose@|@xah@
+@candle@|@neldzeey@
+@candled ice@|@luut elsuus@
+@cane@|@tétth@
+@canine teeth@|@ch'inch'etl xú'@
+@canoe@|@k'ii ts'eyh, ts'eyh@
+@canvasback@|@naltthogh, ndzel@
+@canyon@|@ch'etl'aa@
+@cap of a mushroom@|@ch'eneyy' tthishuuz'@
+@car@|@natet-leg@
+@carcass@|@ch'enaltee'@
+@careful@|@ts'edoghnih@
+@caregiver@|@ch'ek'ánehtá'a@
+@caribou@|@wudzih@
+@caribou antler club@|@wudzih dé' xél@
+@caribou calf@|@dahtsîig@
+@caribou corral@|@dádhtaan@
+@caribou fence@|@tthek@
+@caribou leg skin@|@ch'edzaa théth@
+@caribou legging mukluks@|@ch'edzaa théth kench'odl'@
+@caribou moss@|@ch'inshl', ch'inshu'@
+@caribou skin blanket@|@ch'ets'iiz ts'ed', wudzih théth ts'ed'@
+@caribou skin boat@|@wudzih theth ts'eyh@
+@caribou snare@|@míil@
+@carry@|@ghah'aal, ghih'aal, ghin'aal, ts'aa'aal, yaa'aal@
+@carving knife@|@seey saagh@
+@casket@|@chenhtiil@
+@caterpillar@|@k'éy' guu@
+@cave@|@ch'e'enh@
+@ceiling@|@taandîidz deenii'aay@
+@cellar@|@tsaak'ée@
+@cemetery@|@tth'enk'ée@
+@center@|@taandîidz@
+@chain@|@ts'íitsiy tl'uul@
+@chair@|@k'étl'ádíidaay@
+@charcoal@|@t'ées@
+@chases them away@|@stâaxuneshók@
+@ch'eduul' én' íntthet@|@sweep those pieces out@
+@cherish@|@dint'eyh@
+@chew@|@xatnégdeetl, xatníldeetl, xats'enáldeetl@
+@chew (1)@|@xatnáldeetl, xaxeyináldeetl, xaytnáldeetl@
+@chickadee@|@ts'egaag@
+@chief@|@xáxkeh@
+@Chief Creek@|@Tthee Xaaddh' Ts'edeniiley@
+@child@|@ts'enîin@
+@childhood@|@ntsûudl dá'a@
+@children@|@ts'ínkeey iin@
+@child's parka@|@ch'egaay eek@
+@chimney@|@let daak'ée, let xádétjuut deh@
+@chink@|@ts'axnehtthúuk, xnahtthúuk, xnektthúuk, xnihtthúuk@
+@chink (1)@|@xahnehtthúuk, xnehtthúuk@
+@chinking@|@wu'él xnéltthûug@
+@chinook wind@|@tsaal@
+@chips@|@ch'ettheel'@
+@choke@|@tnédhegdék, tnédhildék, yitnelndék, yits'etnelndék@
+@choke (1)@|@tnédhaldék, xiytnelndék@
+@choose@|@ch'etah@
+@chop@|@ahddhel, ihddhel, inddhel, ts'eddhel, xiyeddhel, yeddhel@
+@chox herring gull@|@mehk'âay@
+@cigarette@|@dek'enn'@
+@circular@|@ch'elmaath@
+@clamp@|@wu'él ch'údeltl'êd@
+@clan@|@Alts'í' Dendeey, Ch'aadz, Ch'echeelyu, Dik'aagyu, Naltsiin, Niisaas, Taandîidz Altsiil, Tsesyu@
+@clap@|@lach'ahkét, lach'axekét, lach'ekét, lach'ihkét, lach'inkét, layts'ekét@
+@clear@|@tth'úu'@
+@clear water@|@tuu kón', tuu thúu'@
+@clever@|@xunshaa@
+@close@|@aaxá'@
+@close the window@|@sits'enal'iin nildâatnintiiyh@
+@clot@|@del lót@
+@cloth blanket@|@ts'ed'@
+@clothing@|@ch'el'@
+@cloud@|@k'oth@
+@clouds are floating by@|@k'oth xeta'ulee@
+@clowning around@|@tsaa'el'ee@
+@club@|@xél@
+@coat@|@eek@
+@cobweb@|@kelahdzeey gaal'@
+@coffee@|@goheey@
+@coffin@|@chenhtiil@
+@cold!@|@elih!@
+@collapsed from top to bottom@|@náninkáatl@
+@comb@|@nahseel, nekseel, nihseel, ts'enehseel, xiynehseel, yenehseel@
+@come along; lets go@|@âan; k'exahtseyh@
+@come in!@|@dánínhaay@
+@come on!@|@aan@
+@commander@|@xiyk'ée táaxáhthed@
+@common loon@|@taadziil@
+@compact object@|@ee'aa@
+@companion@|@shehleg'@
+@compel@|@xunihshok@
+@compress@|@daxnelt'enh@
+@cone@|@ch'elahdzol@
+@conscious@|@xól@
+@constructing it@|@yehtseyh@
+@container@|@ch'etiil@
+@cook something!@|@ch'ihmeets!@
+@cooked meat@|@nleen@
+@cooking stick@|@ch'ejog@
+@cool@|@nánink'é'@
+@copper@|@ttheetsáa'@
+@Copper River@|@nilk'odl, Taatl'oxt'een@
+@corner@|@ts'axk'éetl'áa@
+@corpse@|@ch'etheeg'@
+@cotton@|@ch'etl'aa@
+@cottonwood@|@t'aath@
+@cough@|@dalkoth, degkoth, delkoth, dilkoth, dzelkoth, xdelkoth@
+@country@|@nén'@
+@cover@|@meth théth@
+@covered myself with a blanket@|@ts'ed' dék'et degchúuth@
+@cow moose@|@deshaaz@
+@cracker@|@léegeyh@
+@cranberries are red@|@ntl'ét delt'el@
+@crane@|@deel@
+@crawl@|@aaduuth, ghahduuth, ghihduuth, ghinduuth, ts'aaduuth, xaaduuth@
+@Creator@|@T'axdíht'êey@
+@creek@|@hên, ndiîig@
+@cricoid cartilage@|@shcholk'ee@
+@crisp it by the fire@|@kón' keddh ihtsétl@
+@croak@|@delxiy'@
+@crooked willow@|@k'éy' net-tth'aagh@
+@cross fox@|@wumét ts'edet-sey@
+@cross wind@|@tth'iináan' ts'í' éhts'eyh@
+@crossbill@|@tsidaanbiidh@
+@crouching@|@ch'exeesdhek-'aa@
+@crow@|@taatsáa'@
+@crowberry@|@naht'êez@
+@crust@|@xluu@
+@cry@|@ahtsax, etsax, ihtsax, intsax, ts'etsax, xetsax@
+@cry all the time@|@nedhiltú'@
+@crying uncontrollably@|@shíineltséex@
+@cup@|@tuutii@
+@curious person@|@la'a díht'eh@
+@current@|@deninleeyh@
+@curved knife@|@seey saagh@
+@cut@|@iht'aatth, int'aatth, ts'eht'aatth, xiyeht'aatth, yet'aatth@
+@cut fish and then made it dry@|@luug ehk'áayh ts'í' maa exaa@
+@Dall sheep@|@demee@
+@dance@|@ch'aldzes, ch'egdzes, ch'eldzes, ch'exeldzes, ch'ildzes, yits'eldzes@
+@dancing stick@|@ganhook@
+@dark@|@tl'és@
+@dark clouds@|@k'oth dat-sey@
+@darkness@|@xél@
+@dawn@|@xútgaay@
+@day@|@dzeen@
+@day after tomorrow@|@k'ahdâan xú' k'ahdâadé'@
+@day before yesterday@|@k'ahdâan xú' k'ahdáa' daa'@
+@daylight@|@xútgaay@
+@dead body@|@ch'etheeg'@
+@deadfall trap@|@dechenh éel@
+@deaf person@|@wudzii kôl@
+@December@|@wunenh nach'ehjedh@
+@dedzaagh' xáningéet@|@she pierced her own ear@
+@dees shallows in creek@|@shallows@
+@den@|@ch'e'enh@
+@dentalium necklace@|@ch'ink'ón'@
+@depression in ground@|@nadaxnink'odl, nadaxninthaat@
+@dets'inkeey gha dach'udelkét@|@she's praying for well-being@
+@devil@|@ttheedzaa@
+@dexos k'ée@|@a place for fun@
+@diaper@|@tth'áatl@
+@die@|@dhektee, dhintee, ehtee, ghahlaak, tsinlaak, xghinlaak@
+@difficult@|@tsadaxudít'eh@
+@difficult to handle@|@mexuntsaath@
+@dig@|@ahgot, egot, ihgot, ingot, ts'egot, xegot@
+@dipnet@|@éth@
+@dipnet needle@|@éth wu'él éhtl'uun@
+@dipnetting place@|@éth k'ée@
+@dipper (bird)@|@tuu ch'iishel@
+@direction@|@ndíig@
+@dirt in the house@|@ch'eduul'@
+@dirty@|@gés@
+@disease@|@ts'iik@
+@dish@|@tth'áak@
+@distant area above@|@yandóg@
+@do@|@t'ahde'e, t'ihde'e, t'inde'e, tde'e, xetde'e, xode'e@
+@do not be afraid@|@sú'u nuljed@
+@do you hear me?@|@shde'intth'ek?@
+@do you really mean it?@|@la'a lah diiney@
+@do your part of the fish dryin@|@shxáan' ts'í' luug ihma'@
+@dog@|@lii@
+@dog house@|@lii shax@
+@dog is sitting in its house@|@lii deshax shíi éedah@
+@dog is sitting on its house@|@lii deshax k'et di'eedah@
+@dogs@|@lii iin@
+@dog's sitting behind its house@|@lii deshax nandîidz eedah@
+@dog's tail@|@lii ché'@
+@don't@|@sú'u@
+@don't bother it@|@sú'u wu'él nách'úhlaay@
+@don't cheat me@|@su'u nashtnun'aag@
+@don't do that again@|@sú'u xú' dîighutdé'e@
+@don't do that!@|@éna' sú'u xu'dighunde'e@
+@don't fall off the cliff@|@sú'u dzendaax ghultthiid@
+@don't go to Tok@|@sú'u Tok ts'í' tunsha'a@
+@don't say that!@|@éna' sú'u xu'duu ni'ih@
+@don't say that; it's taboo@|@sú'u xú' duníi; injih ha'@
+@door@|@ldadíntaan@
+@doorway@|@kón'teg@
+@Dot Lake@|@Kelt'áaddh Menn'@
+@dough@|@léets nanéltsel@
+@down (close by)@|@nahsheg'@
+@down (from a distant)@|@yaasheg'@
+@down a slope@|@daatthén'@
+@down feather@|@chuyh@
+@dragonfly@|@tthedlch'og@
+@drank it quickly@|@tédheggóts, tédhilgóts@
+@dress@|@na'at-tl'uh, na'et-tl'uh, na'ishtl'uh, na'it-tl'uh, nats'et-tl'uh, naxet-tl'uh@
+@dried fish@|@má'@
+@dried out leaves@|@ch'et'aa deshaag@
+@drifting along@|@tadaaleel@
+@driftwood@|@tahdeddh@
+@drill a hole through it@|@wuchaa dihtáath@
+@drink@|@atnaa, etnaa, ghatná', ghishná', ghitná', ishnaa, itnaa, ts'atná', ts'etna, xetnaa, xiyaatná', yaatná'@
+@drink it up before it cools@|@natnatk'êddh tth'eh tilgots!@
+@drink it up!@|@títs'eex@
+@drinking it quickly@|@tilgóts@
+@dripping@|@del'éetl@
+@drive@|@ch'ahlel, ch'ahlel, ch'axahlel, ch'eklel, ch'ihlel, yits'ahlel@
+@drive for me@|@shaa ch'ihlel@
+@drop it!@|@medintsiit!@
+@drudge@|@eldaax@
+@dry@|@ahgeyh, ekgeyh, geyh, ihgeyh, ts'ehgeyh, yehgeyh@
+@dry (1)@|@xiyehgeyh@
+@dry alder@|@k'aaz tsets@
+@Dry Creek@|@Gah Tsoghk'ah Ndiig@
+@dry fish@|@má'@
+@dry meat@|@shí' geyh@
+@dry meat mixed with moose fat@|@nanehdlaad'@
+@drying rack@|@dáhdzel@
+@dung@|@duuts@
+@during@|@tah@
+@dust@|@léemah@
+@dust devil@|@ehts'eyh mâay, xaghints'eyh mâay@
+@dwarf birch@|@luudh@
+@dwelling@|@shax@
+@dzéex tl'ey'@|@soft white sticky pitch@
+@each other@|@nil'él@
+@Eagle@|@Ttheet'oodlely@
+@ear wax@|@dziit'úudz@
+@early in the morning@|@saachaa@
+@earring@|@dzaatl'uul'@
+@earthquake@|@nén' étndah@
+@easily@|@shée' k'et'êey@
+@eat@|@nach'ah'áatl, nach'axghin'áatl, nach'e'áal, nach'ih'áal, nach'ih'áatl, nach'in'áal, nach'in'áatl, nach'in'áatl, nayits'e'áal, nayts'in'áatl@
+@eat (1)@|@nach'ah'áal, nach'exen'áal@
+@edge@|@mâagh, wuk'á'@
+@edge of a cliff@|@xdáag@
+@edge of a fire@|@kón' mâagh@
+@egg yolk@|@ch'exeestthiig'@
+@eggshell@|@ch'exeestth'en'@
+@eight@|@nilk'eden@
+@elastic@|@neduuth@
+@elder@|@ch'endeddh'@
+@eleven@|@ts'ehleg wuk'et@
+@embarrassed@|@ts'unítshá', unatshá', uníshshá', unítshá', unítshla', xunítshá'@
+@embers@|@thiit@
+@end of an island@|@wuchíi taanduu xuu'aa@
+@enjoy@|@shaa nsúu@
+@enough@|@k'ôd@
+@enough already!@|@k'ôd xúu' shee'@
+@entire@|@uudíh@
+@entrance@|@dahxultsii deh@
+@equal@|@nilk'e' nel'aa@
+@erase it@|@nanin'ét@
+@ermine@|@nihmaay@
+@Eskimo@|@Ch'enaakeey@
+@especially modern sled@|@xetl@
+@evaporated@|@tuu natet-tseth@
+@evening@|@xel tah@
+@every now and then I drink tea@|@xaatêg tah ldîil ishdíix@
+@everything@|@xunelt'eh@
+@everything is lost@|@xunelt'eh ts'í meexushaak@
+@excrement@|@wutsáa@
+@exercise@|@atk'aatth, etk'aatth, ishk'aatth, itk'aatth, ts'etk'aatth, xetk'aatth@
+@exit@|@tixúltsii deh@
+@fall (season)@|@noxluu@
+@fall down@|@xu'altth'et, xughahdéek, xughegtth'et, xughiltth'et, xuts'indéek, xuxghindéek@
+@falling star@|@sén' tsáan'@
+@famine@|@detsenh@
+@fangs@|@ch'inch'etl xú'@
+@far away place@|@xnintháat deh@
+@fart@|@tl'ét@
+@fast@|@xen@
+@fat@|@alk'aax, ch'ek'ah, egk'aax, elk'aax, ilk'aax, ts'elk'aax, xelk'aax@
+@fat around moose stomach@|@ch'echaashu'@
+@fat is greasy@|@ch'ekaa elxee@
+@favored child@|@dzuug@
+@feather@|@t'aa'@
+@February@|@ldíikeey saa'@
+@feel this@|@jâan edildeyh@
+@fell@|@nághindéek@
+@fell down@|@nadalneyh@
+@fell in the water@|@tuu shíi tádálneyh@
+@fell over@|@tnéekáatl, xudalneyh, xúninxéets@
+@female dog@|@lii ts'é'e@
+@fermented fish@|@dzenax@
+@fermented whitefish@|@dzenax@
+@few@|@ntsîin@
+@fill it all the way up@|@datnindiil@
+@fill it up@|@na'itdek@
+@fill it up with water@|@tuu shíi na'itdek@
+@fill the dirt in here@|@léemah jâan shíi na'itdek@
+@fin@|@wut'egh'@
+@finally I arrived@|@sâan tah nihshah@
+@fire@|@kón'@
+@fire ignited@|@diil'aa@
+@fire is flaming@|@kón' dét-tthuul@
+@firedrill@|@tl'eel@
+@fireplace@|@kón' dak'ée@
+@fireweed@|@gúuth@
+@first@|@ch'et-ttheh@
+@firstborn@|@ch'et-ttheen@
+@fish are running@|@luug teeleek@
+@fish baling pole@|@wu'el ch'ettsol@
+@Fish Creek@|@Dihthâad Ndiig@
+@fish cutter@|@meetsel@
+@fish drying rack@|@dahdzel@
+@fish fence@|@xtsiil@
+@fish gills@|@wuk'es@
+@fish grease@|@luug xee'@
+@fish guts@|@luug ts'íig'@
+@fish knife@|@meetsel@
+@fish meat@|@ch'indaat, mindaat@
+@fish scales@|@luug gludh'@
+@fish slime@|@luug tl'ëey'@
+@fish spear@|@tiigóg'@
+@fish stringer@|@ch'e'es@
+@fish tail@|@wuchoel@
+@fish trap@|@tedh'aan@
+@fish trap funnel@|@tedh'aan dzeey'@
+@fishhook@|@lox@
+@fishing@|@nach'ahlóx, nach'ehlóx, nach'eklóx, nach'exehlóx, nach'ihlóx, nayts'ehlóx@
+@fishing pole@|@yi'él nách'éhlôgh@
+@five@|@álts'êy@
+@flame@|@kón' tthúul'@
+@flapped its wings@|@ts'enh détxaat@
+@flat foot@|@wuké' étmedz@
+@fleas@|@tl'eg'@
+@flesh@|@tthíi@
+@flesh (a skin)@|@ahttheyh, ekttheyh, ihttheyh, xiyehttheyh, yehttheyh, yits'ehttheyh@
+@fleshing knife@|@ch'iijeey@
+@flint@|@mehts'eyh@
+@flooded@|@níihaa@
+@floor@|@chenhteel@
+@flour@|@léemah, léets@
+@flour is disappearing@|@léets extehkôtl@
+@flower of blueberry@|@ch'indaay'@
+@fly@|@dey'@
+@fly eggs@|@nindáa@
+@flying creatures have feathers@|@naxnetdêg wut'aa' xoleex@
+@foam@|@xunxos@
+@food in animal's stomach@|@wutsaag'@
+@food is customarily divided@|@shí' nildze'elsheeg síxúnt'eh@
+@food is there@|@ehchuut@
+@foot@|@-ké'@
+@for@|@gha, ghah@
+@for me@|@shaa@
+@for no reason@|@shée' t'êey@
+@for them@|@xuugha@
+@for you@|@naa@
+@forbidden@|@injih@
+@forefathers@|@tsíyûul@
+@forelegs@|@ch'egáan'@
+@forest@|@nduu, taachenn'@
+@fork@|@ch'iigod@
+@forked@|@delges@
+@Fortymile River@|@Ch'edzagh' Ndîig@
+@forward@|@tth'iindeddh'@
+@four@|@den@
+@foxes are clever@|@naagêddh xunshaa@
+@frame of dipnet@|@éth dámaadh@
+@freshly cut fish@|@luug eltsel@
+@freshly cut meat@|@shí' éhtsel@
+@friend@|@tlee@
+@fringe@|@nat-'êl@
+@fringe on clothing@|@ch'etheth nat-'êl@
+@frogberry@|@naaxey jêg@
+@from@|@ts'enh@
+@from downriver@|@yandâadz@
+@from here on out@|@dandedh' uud1ih@
+@from me down@|@shghahshóg@
+@from us@|@neets'enh@
+@frost@|@sóx@
+@frost on trees@|@dahxotl'uh@
+@frozen meat@|@shí' nelts'íi'i@
+@frozen overflow@|@geetth@
+@frozen puddle with no water in@|@nateldliih@
+@fry@|@aht'éeth, ekt'éeth, iht'éeth, xiyeht'éeth, yeht'éeth, yits'eht'éeth@
+@frybread@|@léets éet'eey@
+@frying pan@|@ch'ikemen@
+@frying pan's sitting on fire@|@ch'ikémen kón' k'et didéetaa@
+@full moon@|@gheldzeey k'énélshaa'@
+@fungus@|@lts'iis@
+@funny person@|@tsaa diht'eey@
+@fur coat@|@daa eek@
+@fur pants@|@daa thetl@
+@gaff hook@|@sáx@
+@general term@|@dets'ên, jêg@
+@general term for any bug@|@guu@
+@general term for birds@|@tsúgaay@
+@general term for caribou@|@wudzih@
+@general term for fish@|@luug@
+@general term for food@|@shí'@
+@general term for moose@|@dendîig@
+@George Creek@|@Nxaal Ndiig@
+@Gerstle River@|@Ts'iitsiiy Ndiig@
+@get dressed!@|@naghut-tl'uh de'!@
+@get out of here!@|@én' tîinindaayh@
+@get some from it@|@nâan ts'enh ch'unindiyh@
+@get up@|@dég déníltsiit@
+@get up!@|@dëg' ni'ídhínhaayh@
+@gifts given at potlatch@|@jaa'@
+@gillnet@|@tehmíil@
+@give it to me@|@nde'@
+@give me the baby@|@ts'enîin gaay shtl'á'íhteeyh@
+@give me the dry fish@|@má' shtl'á'íhchuut@
+@give me the gun@|@k'á' shtl'á'íntiiyh@
+@give me the knife@|@seey nde'@
+@give me the plate@|@tth'áak n1de'@
+@give me the shirt@|@eek shtl'á'íhchuuth@
+@give me the small rock@|@tthee gaay shtl'ánín'aayh@
+@give me the water@|@tuu shtl'á'ínkaayh@
+@glacier@|@luut ddhel@
+@Glaman Lake@|@Dlaa Menn'@
+@glued on@|@xetnelt'etth@
+@go@|@aahaal, ghahdél, ghihhaal, ghinhaal, tedhahdeetl, tedhihshah, tedhinshah, teeshah, ts'aadél, ts'eedeetl, xaadél, xteedeetl@
+@go away@|@én'@
+@go away!@|@én' stâanindaay!@
+@go get food!@|@hí' ka'inhá'@
+@God@|@T'axdíht'eey@
+@golden eagle@|@ch'eshaan'@
+@goldeneye@|@tthí'k'âay@
+@good@|@ahsuu, ihsuu, insuu, nsuu, ts'insuu, xinsuu@
+@good luck@|@ghalíi'@
+@Goodpaster River@|@Jîiz Ndiig@
+@goshawk@|@jîiz chox@
+@got better@|@naghishshé@
+@grab@|@ídhahchúut, ídhekchúut ts'íhchúut, ídhihchúut, xiyíhchúut, yíhchúut@
+@grass@|@tl'ox@
+@grass growing out of water@|@taaguuth@
+@grave@|@tth'enh k'ée@
+@gravel@|@thaayh@
+@gravel bar in river@|@thaayh ts'enin'ah@
+@gravel creek@|@Niithaayh Ndiig@
+@gray-haired@|@tthí' geyh, tthiitnitgaay@
+@grayling@|@seejel@
+@grease@|@xee@
+@greasy@|@elxee@
+@great grey owl@|@nahdaax@
+@great person@|@diichâagh@
+@green wood@|@tsets dehtsel@
+@green wood is heavy@|@tsets dehtsel dindaath@
+@green-winged teal@|@tuhtsêdl, tuhtsêdl@
+@grey jay@|@jîiz@
+@grizzly bear@|@ch'eliitthogh'@
+@grizzly bears are brown@|@ch'eliitthogh' déltthox@
+@grosbeak@|@kelahtuud@
+@ground@|@nén'@
+@ground hog@|@k'aay@
+@ground squirrel@|@tthel@
+@group@|@dendeey iin@
+@grouse@|@deyh@
+@grow@|@nesheex@
+@guide@|@wuk'éetáa ch'eltsîig@
+@gum@|@dzéex@
+@gun@|@k'á'@
+@gunny sack@|@tl'ox saak, tl'ox théth@
+@gunsite@|@k'á' k'iig@
+@gyrfalcon@|@jîiz chox, tantsiil@
+@hairy caterpillar@|@guu detshos@
+@half@|@ch'exaan@
+@hammer@|@ch'iitth'ed@
+@hand it to me fast@|@shtl'adintsiit@
+@handkerchief@|@k'onit'êey@
+@handle@|@wutii'@
+@handle of dipnet@|@éth tii'@
+@handsaw@|@ch'itl'ey'@
+@hard outer spruce pitch@|@dzéex kón'@
+@hardship@|@méxúntsaaddh, shaa medaxdíitsáath@
+@harlequin@|@ddhel tox dets'énn'@
+@has cooled off@|@náxnink'é'@
+@hat@|@tthíishúus@
+@hat with a visor@|@tthíishúus mintaak'ey xunlee@
+@haul@|@ká'aahá', ká'ahhá', ká'ihhá', ká'inhá', ká'xéhá', káts'éhá'@
+@have@|@ch'axeedlah, ch'edhahdlah, ch'eedlah, dhihdlah, dhindlah, yits'eedlah@
+@have a pain@|@chetkeyh@
+@hawk owl@|@tthí'dzaadz@
+@he (baby) is crawling@|@natetges@
+@he admires him@|@maa yidint'eh@
+@he adopted him@|@yitnelshaa@
+@he also carries his blanket@|@dets'ëd' in'él áaxeel@
+@he always acts that way@|@xúu' xditndeyh@
+@he arrived@|@ninshah@
+@he asks her@|@yudehket@
+@he beat him@|@laydehney@
+@he became smart@|@ndaxdinshá'@
+@he blacked out@|@xtnat-tl'éts@
+@he blamed him@|@yits'í' xédadéníhtset@
+@he brought a hat@|@tthíish_úus nin'aa@
+@he brought him@|@xaghíhtee@
+@he brought it@|@yinin'aa@
+@he brought it here@|@jah yinin'aa@
+@he brought it in@|@dayinintaa@
+@he came from far away@|@xnintháat deh ts'enh ninshah@
+@he came from his house@|@deshax ts'enh ninshah@
+@he came into the house@|@ch'enäasheg tah daaninshah@
+@he camped@|@néeháal@
+@he carried him in@|@dayiníhtee@
+@he caught@|@dayíidzek@
+@he caught it@|@da'úndíik@
+@he caught up with the boat@|@ts'eyh kétl'á'eeláat@
+@he changed clothes@|@ch'ít-shûuy nâadalshah@
+@he chased me away@|@stâashnéninshúut@
+@he cheated him@|@naynin'aak@
+@he cheated me@|@nashnin'aak@
+@he chewed it up@|@aytnáldeetl@
+@he chinking the house@|@shax xnehtthúuk@
+@he choked on it@|@yitnelndék@
+@he chose him@|@ch'etah xayíhtee@
+@he claimed it@|@dayudétdíik@
+@he closed his eyes@|@nelts'étl@
+@he clubbed it with a club@|@dechenh xel' él yéhxel@
+@he compressed it@|@sheg niht'enh@
+@he cut fish@|@luug ehk'aayh@
+@he deceived me@|@nashtnin'áayh@
+@he descended@|@xdaghinshah@
+@he descended from inland@|@ya'andêdz xdaghinshah@
+@he devoured it@|@thayaldeek@
+@he did something funny@|@tsaa t'etshaak@
+@he died@|@ehtee@
+@he drowned@|@lanintthet@
+@he entered@|@daninshah@
+@he escaped@|@statthinihshah@
+@he fainted@|@wu'él nátl'ets dálneyh@
+@he fell asleep@|@xaamel yihtee@
+@he fooled me@|@nashtnin'aayh@
+@he gained weight@|@na'alk'ax@
+@he gave her the small rocks@|@tthee gaay yitl'áníndlah@
+@he gave me a hug@|@leeshnintset@
+@he goes away often@|@nilxen stâa'etdaak@
+@he got a glimpse of him@|@yitdéh-'ee@
+@he got addicted to it@|@yexnílts'et@
+@he got lost in the woods@|@taachenn' tah tanetshah@
+@he got revenge@|@nilk'éh dínlaak@
+@he grabbed it@|@yihchúut@
+@he grew up@|@néeshaa@
+@he habituated to it@|@yexnílts'et@
+@he had a premonition@|@wuts'í' xáxáltsii@
+@he had a sign of something@|@wuts'í' xáxáltsii@
+@he has a cold@|@koth t'iyíláak@
+@he has a grudge against him@|@yets'ídél'ah@
+@he has an earache@|@wudzíi' xuhts'iik@
+@he has bad breath@|@wutaatthíi@
+@he has butterfingers@|@mintl'ách'étdaax@
+@he has confidence in him@|@yit'adíht'êeyh@
+@he has excellent eyesight@|@wudaagh' dehk'eyh@
+@he has left@|@natétshah@
+@he helped me cut it up@|@shxaan ts'í' yint'áath@
+@he hoisted it up@|@teelúu'@
+@he inhaled@|@nilshíi atshíits@
+@he insists@|@dách'údetgék@
+@he invited him@|@yukah nídajénín'aa@
+@he is a friendly person@|@mésúxúht'eey@
+@he is a glutton@|@wumét maa dint'eh@
+@he is a mean person@|@medats'axdihthen sínt'eh, mets'adaxdiht'eey@
+@he is acting@|@cheejelde'e'@
+@he is acting silly@|@tsáa'el'ee@
+@he is afraid@|@niljet@
+@he is alive@|@xondéyh@
+@he is always working@|@etndah shée'@
+@he is amazed@|@maa ch'á' xdiht'eh@
+@he is assisting her@|@yi'él dé'eh@
+@he is awake@|@xólxatndéyh@
+@he is bathing@|@k'éch'eltsél@
+@he is beating it@|@ch'ehxel, yi'él ch'enehtthék@
+@he is being funny@|@datnet-ttheey@
+@he is blackening it@|@nayitnet@
+@he is blind@|@wudaagh' kól@
+@he is blowing on it@|@yehshok@
+@he is boiling it@|@yehmeets@
+@he is bored@|@ts'axnintthenh@
+@he is bragging about him@|@dach'áa' dadetdlíh@
+@he is butchering it@|@nayeh'ol@
+@he is calling my name@|@shuusih@
+@he is calm@|@dadehxeetl@
+@he is carrying a rope@|@tl'uul natneleek@
+@he is carrying firewood@|@tsiil gaay tsets dâadelsheek@
+@he is catching a ball@|@ch'ukeg' dá'ehshél@
+@he is chipping@|@ehjek@
+@he is cleaning up@|@xasaxo'aayh@
+@he is climbing out the canyon@|@ch'etl'aa dég' téeshah@
+@he is clowning around@|@tsaa el'eh@
+@he is coloring it@|@yitnemenh@
+@he is cooking bannock@|@léets eht'éeth@
+@he is crippled@|@shaatth nlee@
+@he is crunching it@|@yidehk'on@
+@he is dancing@|@h'eldzes@
+@he is delirious@|@wu'él staxúníntthet@
+@he is dizzy@|@wu'él náxdéltheeyh@
+@he is doing@|@tde'e@
+@he is doing it like me@|@shk'eh sitde'e@
+@he is dozing@|@xamelyeltéek@
+@he is drinking cold water@|@tuu k'etth etnaa@
+@he is drunk@|@nexel@
+@he is enjoying it@|@maa xníndíik, maa xunétdíik@
+@he is enraged@|@wushíi xnét-tthet@
+@he is envious of him@|@yuunit-lé'@
+@he is feeding us@|@nee'ech'eh'aal@
+@he is fetching animals@|@nûun ká'ehá'@
+@he is fleshing it@|@yehttheyh@
+@he is folding it@|@ehxol@
+@he is following behind him@|@yik'eh aahaal@
+@he is friendly@|@xunsuu nt'eh@
+@he is frightening him@|@yech'enehjet@
+@he is frying@|@yeht'éeth@
+@he is gasping for breath@|@shiits úkah etsheyh@
+@he is giggling@|@nadlokdach'etnel'iik@
+@he is going to get something@|@nahdëg' ts'enh ch'uténdíik@
+@he is going to sleep@|@tneetee@
+@he is guarding him@|@nayudah'ée'@
+@he is guiding him around@|@nayitne'aax@
+@he is handicapped@|@shaath nlee@
+@he is handsome@|@ninsuu@
+@he is hauling water@|@tuu ká'ahá'@
+@he is helping me@|@shxaan ts'í' dé'e@
+@he is hooking@|@ehsáx@
+@he is in a very bad mood@|@miiní' shíi tnáalttthet, ts'ant'êey wushíi tnáaltthet@
+@he is inexperienced with s.t.@|@ts'axnindîig@
+@he is insane@|@miini' exuushak@
+@he is insulted@|@xiynixtét-thet@
+@he is intimidated@|@xáních'ulnih@
+@he is jealous of him@|@yuhts'ee@
+@he is jumping rope@|@tl'uul él yá'etshék@
+@he is kicking it@|@yeké'éhkeyh@
+@he is leading him@|@nayitne'áak@
+@he is leaning against it@|@yikeneltaa@
+@he is limping around@|@nach'etnet-'étth@
+@he is looking@|@xneh'eh@
+@he is making@|@shax xahtseyh@
+@he is making medicine@|@etshen@
+@he is making them@|@yexaa@
+@he is measuring it@|@xech'udehsá'@
+@he is mischievous@|@et-súuk@
+@he is moving about@|@ya'ehaak@
+@he is mumbling@|@deljók@
+@he is mumbling angrily@|@dadeljók@
+@he is naked@|@ch'ut-'ehdenh@
+@he is not being careful@|@k'á súu el'én@
+@he is packing water@|@tuu na'atkaal@
+@he is paddling a boat@|@taat'ogh él áakeel@
+@he is paddling boat@|@taachet'ogh wu'él ch'áakeel@
+@he is peeling it@|@yehts'el@
+@he is pleading@|@dach'udelkét@
+@he is pleading with him@|@nadayutnelsú'@
+@he is pointing at me@|@mets'u'inttheyh@
+@he is precious to me@|@shaa xdint'eh@
+@he is recording@|@nik'édajeeeyh@
+@he is rendering fat@|@ch'ek'ah ehchees@
+@he is replying to me@|@sts'í' naxundeyh@
+@he is requesting it@|@yukah ch'udéhket@
+@he is restless@|@mech'etnehlah k'eh shée' dé'e@
+@he is returning@|@na'itshah@
+@he is rolling it up@|@yehtth'aax@
+@he is rubbing it@|@yeshes@
+@he is sane@|@xunsuu nanich'etthet@
+@he is scolding him@|@yédadée'ah@
+@he is scraping it@|@yehjeeyh@
+@he is sharpening it@|@nak'á'éhtseyh@
+@he is shaving@|@xa'etnet-t'aath@
+@he is sick@|@ehts'iik@
+@he is skating@|@nátéljeyh@
+@he is skipping@|@yajehchék@
+@he is slapping him@|@yinekét@
+@he is sleeping@|@eetee@
+@he is walking down@|@naasheg' aahaal@
+@he is walking forward@|@tth'iindeddh' áahaal@
+@he is without necessities@|@ch'ehdenh détlee@
+@he is yawning@|@etháat@
+@he jerked on the rope@|@tl'uul etéetset@
+@he kicked me@|@sheké'ehkéyh@
+@he lives alone@|@dishée' éedah@
+@he loves me@|@shaa nts'íi'@
+@he made gloves for him@|@jeyh êy gha ehtsii@
+@he made it@|@yíhtsii@
+@he made them@|@yinxaa@
+@he married her@|@yundíik@
+@he moved away@|@stanindah@
+@he must have gotten lost@|@mexushâag gha lé'e ch'e wukól@
+@he owns the house@|@shax xúudé'e@
+@he poked it@|@yihts'ok@
+@he pounded it in@|@nítthéynintthéet@
+@he praised him@|@daydihcháax@
+@he pried it@|@yihtl'ek@
+@he promised him@|@yidátl'áxdin'aa@
+@he raised it above@|@dayidíi'aa@
+@he raised it from below@|@níyidíi'aa@
+@he received it@|@maa yínindéek@
+@he regularly goes to Mansfield@|@dihthâad na'eltey xdiitndeyh@
+@he released it@|@yedindíik@
+@he revived him@|@nayihsuu@
+@he said it like that@|@xúu' díinii@
+@he says to her@|@yehnih@
+@he scratched me@|@shits'ét@
+@he sees his reflection@|@tuu shíi t'êey deshïig' neh'eh@
+@he sewed around it@|@wughandah nach'enehtl'ú'@
+@he sipped it@|@nach'elts'eex@
+@he slammed the door@|@ldatneninshel@
+@he sleeps during the day@|@dzeen tah eetee@
+@he smeared him@|@yinech'aak@
+@he stepped over it@|@yiteth ghin'éetth@
+@he was born in Ketchumstuk@|@Saagescheeg deh ch'e mexunleen@
+@he was fortunate@|@maa nitjelneyh@
+@he went bald@|@wutthí' xághíntleek@
+@he went home@|@âatétshah@
+@he went to Fairbanks@|@Fairbanks ts'í' téeshah@
+@he will return in the future@|@xtéetthet dé' tah nataadaal@
+@headache@|@tthí' ts'iik@
+@headache is killing me@|@tthí' ts'iik shdhéhxee@
+@headwaters@|@ch'etl'aa@
+@Healy Lake@|@Menhdeescheeg@
+@heap@|@xatnaldók@
+@heat it up!@|@naníhthii@
+@heat up your house@|@nshax naxníhthii@
+@heaven@|@yaak'et@
+@heel of my foot@|@shkeetétl@
+@her bedding@|@wutéel' nádhékxol@
+@her birthday@|@mexunleey dzêenn'@
+@her blamed him@|@yits'í' xédaxdéníhtset@
+@her dog@|@wuliig'@
+@her dog is walking ahead him@|@wuliig' wunaattheh aahaal@
+@her feelings were hurt@|@xenitet-tthet@
+@her hair is curly@|@wutth'í' tth'eg@
+@her husband bought a gun@|@wukey' k'á' ughinkéet@
+@her name is Elsie@|@Elsie miisí@
+@her name was@|@mighinsí'@
+@her whole body@|@wushenh@
+@herd of animals@|@naltl'éy@
+@herd of animals moves quickly@|@altl'eel@
+@herd of caribou's moving quick@|@wudzih naltl'éy áltl'eel@
+@here@|@jah@
+@here and there@|@niichiduug@
+@he's angry@|@ts'ani'elt'eh@
+@he's bothering it@|@yi'él nách'éhlaay@
+@he's chopping wood with an axe@|@chín'êy él tsets etthéel@
+@he's cooling it off@|@náynehk'é'@
+@he's drinking@|@ch'etnaa@
+@he's drinking water@|@tuu etnaa@
+@he's frowning@|@nanelch'éex@
+@he's going downriver@|@yaadáa téeshah@
+@he's hunting@|@na'elséex@
+@he's laughing@|@edlóx@
+@he's laying down@|@tth'í'elt'éeyh@
+@he's living@|@eedah@
+@he's loading the boat@|@ts'eyh shíi xóleeyh@
+@he's lucky@|@daydelshaak, wuts'í' xu' dee'aa@
+@he's making fun of himself@|@tsaa etnel'ee@
+@he's packing water@|@tuu na'atkaal@
+@he's playing with cards@|@galdás él nach'ehleek@
+@he's resting@|@na'elshéyh@
+@he's returning from downriver@|@nahdáa naghindaal@
+@he's slicing off a piece of it@|@yits'enh xach'éhtsaat@
+@he's smiling@|@tsaayinehthenh@
+@he's surrounded by his belongs@|@wughandá' xúudlaay@
+@he's walking along the edge@|@menh mâagh lo'aahaal@
+@he's watching over it@|@yik'ánehtá'@
+@hide it!@|@tneedhih'ii@
+@high bush cranberry@|@tsaanttheetl@
+@high up@|@yatthiidóg@
+@hill@|@teyh@
+@hill with very few trees@|@teyh kedl@
+@hillside@|@xeekeeyh@
+@hind legs@|@ch'exol'@
+@his boat capsized@|@ts'eyh wu'él nákédéexel@
+@his dog@|@wullig'@
+@his face is scarred@|@wunée' k'et shétth ée'aa@
+@his grandmother is sewing@|@wutsuu nâach'enetl'ú@
+@his granny is threading beads@|@wutsuu náatl'êts ne'ées@
+@his name os Silas@|@Silas miisí'@
+@his packsack is lying at side@|@wuxëel' xah'áa' ée'aa@
+@his penis@|@wutsóg'@
+@his saliva@|@wusêeg'@
+@his younger sister is sleeping@|@wudéedz' éetee@
+@hissing noise of fire@|@kón' deltl'ét@
+@hit me for no reason at all@|@shetédhihgót@
+@hobbled by old injury@|@sháath@
+@hoist down@|@daalúu'@
+@hold@|@ts'uutón', u'ahtón', u'ihtón', u'intón', xiyuutón', yuutón'@
+@hold it down with your foot@|@sheg' údin'éetth@
+@hold it tight!@|@wudihtl'et@
+@hole@|@xosk'ée@
+@hole in the ground@|@tsaak'ée@
+@hollow shale ice@|@tenh ch'ethuul'@
+@hoof@|@ch'ekelaagey'@
+@hoof of moose@|@ch'ekelaagey'@
+@horizon@|@yaamâgh@
+@horn@|@ch'edé'@
+@horrible@|@ts'áxuntleeg@
+@horsefly@|@ch'ut'aaddh@
+@hospital@|@ts'iik shax@
+@hot water@|@tuu néethel@
+@housepit@|@nihtsiil@
+@house's shaking from the dance@|@ch'edzes él shax detndiiyh@
+@how@|@nts'é'@
+@how are you going home?@|@nts'é' tâatindaal?@
+@How are you?@|@Ntse' t'int'eh?@
+@how did you all get here?@|@nts'é él jah nínáhdeetl?@
+@how does it look to you?@|@nts'é' k'eh naxúltsii?@
+@how long have you lived here?@|@ndók'ee jah dhindah@
+@how much@|@ndóxk'ee@
+@how old are you?@|@ndóxk'ee n'él xáthel?@
+@howl@|@tsaxdelxos@
+@hump on a moose's back@|@ch'inxaann'@
+@hungry@|@dahtsii, dihtsii, dintsii, dintsii, dzintsii, xdintsii@
+@hunt@|@na'alséex, na'egséex, na'elséex, na'ilséex, nats'elséex, naxelséex@
+@hunter@|@na'elsêegh@
+@hurry up@|@xánteyy'@
+@I@|@shih@
+@I admire him@|@shaa dint'eh@
+@I advised him@|@wuts'í' xghihhá'@
+@I almost caught a cold again@|@k'áhjiîl t'êey koth t'íshíláak@
+@I am@|@ihlee, t'iht'eh@
+@I am accompanying him@|@mee'u'egtón'@
+@I am accompanying you@|@nee'u'egtón'@
+@I am acquainted with him@|@me'ishdeyh@
+@I am alone@|@shih shée'@
+@I am amazed@|@shaa ch'á' xál'eh, shaa ch'á' xdiht'eh@
+@I am baling fish@|@ihtsol@
+@I am bathing@|@dêech'egtsél@
+@I am bending it@|@nanekxót@
+@I am bent over@|@xanén' xúghék-'ah@
+@I am blowing my nose@|@chiitah ish-thíith, stsii ch'ishxíith@
+@I am blowing on it@|@ekshok@
+@I am bored@|@ts'ondéh shédhéhxee@
+@I am bouncing it@|@yadegket@
+@I am braiding it@|@nektl'uul@
+@I am braiding my hair@|@shtthí' néktl'uul@
+@I am breathing@|@ishsheyh@
+@I am butchering it now@|@na'ek-'ol@
+@I am calling your name@|@nu'ihsih@
+@I am carrying it@|@ghih'aal@
+@I am carrying it animate obj@|@ghekteel@
+@I am carrying it flexible obj@|@ghekcheth@
+@I am carrying it s.t. in box@|@ghihkaal@
+@I am chinking the cache@|@dahtsáa xnektthúuk@
+@I am chipping ice@|@luut ekch'ek@
+@I am chipping it@|@ekch'ék@
+@I am chopping it@|@ihddhel, ihtthéel@
+@I am clapping@|@lach'ihkét@
+@I am climbing@|@ké'íhhaal@
+@I am cold@|@dhihdlih@
+@I am comfortable with him@|@nâan sudé'égthenh@
+@I am conscious@|@xól xghushndéyh@
+@I am counting it@|@dihtiil@
+@I am counting the money@|@lsaaz dihtiil@
+@I am crawling@|@ghihduuth@
+@I am crying@|@ihtsax@
+@I am cussing@|@dihtsíix@
+@I am cutting@|@ch'eníhtthek@
+@I am demonstrating s.t. to him@|@mech'axdekdiix@
+@I am digging@|@ihgot, xaxuhleeyh@
+@I am doing beadwork@|@ch'enih'ées@
+@I am dragging it back@|@naghishluuth@
+@I am dreaming@|@ná'ihté'@
+@I am dreaming about you@|@naa ná'ihté'@
+@I am drifting along@|@tashahteel@
+@I am drilling@|@dektáath@
+@I am drinking@|@ishnaa@
+@I am driving a car@|@naxetltihtiik@
+@I am driving a sled@|@naxetltihtiik@
+@I am drying it@|@ekgelyh@
+@I am eating@|@nach'ih'áal@
+@I am eating fast@|@tthadegneyh@
+@I am eating fish@|@luug ih'áal@
+@I am enjoying it@|@shaa xníndíik@
+@I am enraged@|@shshíi xnét-tthet@
+@I am exercising@|@ishk'aatth@
+@I am famished@|@lá'a t'êey dihtsii@
+@I am feeding the dogs@|@lii ech'ek-'aal@
+@I am feeling it@|@medegdeyh@
+@I am fetching firewood@|@tsets ká'íhá'@
+@I am filing it@|@ihk'aax@
+@I am filling it@|@de'egtl'ek@
+@I am fishing@|@éth k'ée dhíhdah@
+@I am floating around@|@natashtehteek@
+@I am following you@|@nantnihdaak@
+@I am gambling@|@nachihleek@
+@I am getting dressed@|@na'ishtl'uh@
+@I am giving it to you@|@ntl'á'ih'aayh@
+@I am going to dive@|@tetishdetth@
+@I am going to do my part@|@nxáan' ts'í' t'uhdé'e@
+@I am grateful@|@tsíná'ee de'ishlee@
+@I am hacking@|@dekkeyh@
+@I am hacking it@|@ihdzonh@
+@I am hanging up coats@|@eek dádzeldíhleeyh@
+@I am happy about it@|@shaa xunsuu@
+@I am having a hard time@|@shaa xéxúntsáath@
+@I am hoarse@|@degthéek@
+@I am ill@|@ts'iik t'ishíláak@
+@I am imitating someone@|@sh'ek'éh dé'e@
+@I am itchy@|@hxeeth@
+@I am joking with him@|@wu'el tsáa didihdlih@
+@I am keeping this one@|@jâan dhihdlah@
+@I am knapping rock@|@tthee ledekneyh@
+@I am kneeling@|@xnigótdhek-'ah@
+@I am knitting@|@ch'ihtl'uh@
+@I am knitting a dipnet@|@éth íhtl'uh@
+@I am knocking@|@xdekt'enh@
+@I am ladling water@|@tuu tach'ihkaayh, tuu tach'ishttheyh@
+@I am leaning against@|@xékéxét'anédhégtee@
+@I am leaning against something@|@xét'anédhégtee@
+@I am leaning on my elbow@|@xets'és'údék-'aa@
+@I am learning@|@xdegdíix@
+@I am listening@|@dziitédhék-'ah@
+@I am listening to him@|@wuts'í' dzíitédhék-'ah@
+@I am loading it@|@xuhleeyh@
+@I am making batter@|@léets néltsel ektseyh@
+@I am making dry fish@|@luug ekmá'@
+@I am making kindling@|@dekjáayh, dekjáayh@
+@I am married@|@xuht'ee@
+@I am measuring it@|@mech'unéedhék-'aa@
+@I am melting snow for water@|@tuu gha shétth na'ekxee'@
+@I am nibbling@|@wuk'et xoksók@
+@I am nibbling on bone marrow@|@ch'eshaaddh' k'et xoksók@
+@I am okay; not bad@|@sôgh t'íht'eh@
+@I am out of breathe@|@negshúuts@
+@I am paddling fast and smooth@|@ghegdzél@
+@I am painting it@|@xnihtseyh@
+@I am peeling birch@|@dekts'ek@
+@I am peeling it@|@wuk'et naxokch'uul@
+@I am planting a garden@|@xt'ach'ihleeyh@
+@I am plucking it@|@ihdots@
+@I am pointing at it@|@wuts'í' ts'utédhék-'ah@
+@I am popping@|@dzéex nekk'éts@
+@I am pretending to eat@|@cheejish'áal@
+@I am pulling it@|@ghihluuth@
+@I am punishing him@|@ekts'eth@
+@I am punishing the naughty dog@|@lii ch'udelneey ekts'eth@
+@I am pushing it@|@me'ektset@
+@I am pushing it away@|@én' mé'éktset@
+@I am pushing it forward@|@ndêddh me'ektset@
+@I am reading@|@tách'údegsí'@
+@I am really angry@|@shshíi xnét-tthet@
+@I am related to him@|@wude'egken@
+@I am reluctant to start@|@mets'udegnih@
+@I am requesting her@|@miikah ch'udékket@
+@I am rolling it up@|@ihtth'aax@
+@I am running fast@|@xen ghegtthet@
+@I am running quickly@|@xen ghegtthel@
+@I am rushed@|@sh'él xáttlet@
+@I am scaling fish@|@luug ekguuth@
+@I am scared of it@|@menegjet@
+@I am scraping it@|@ihtthox@
+@I am searching@|@mikah naxtegsheek@
+@I am separating it@|@ekketl@
+@I am sewing@|@nâach'enihtl'ú'@
+@I am shaking from fright@|@nejet ts'enh xadishndiiyh@
+@I am shaking it (blanket) out@|@dihxaat@
+@I am shaking water@|@tuu ihtl'ek@
+@I am sharpening my knife@|@seey k'á' na'ihk'aax@
+@I am shaving@|@xa'etnisht'aath@
+@I am shivering@|@dissiis@
+@I am shouting to him@|@wuts'í' ihsek@
+@I am showing it to you@|@nech'axnek-'eh@
+@I am shrieking@|@dihtl'iis@
+@I am singeing porcupine@|@ts'iit eklet@
+@I am singing@|@ch'edilih@
+@I am sipping it@|@nategts'áax@
+@I am sitting@|@didhihdah@
+@I am sitting in the dark@|@tl'és shíi dhíhdah@
+@I am sitting near him@|@maaxáh dídhíhdah@
+@I am skinning a muskrat@|@gah nat'u'ekte'@
+@I am skinning it@|@nat'u'ekte'@
+@I am sleepy@|@mel shdehtlaa@
+@I am slicing it@|@ektsaat@
+@I am spearing@|@tihgok@
+@I am telling you all about long ago@|@yaniidá'a gha nuh'él naxghog@
+@I am traveling around@|@ghihndel@
+@I am tying a rope@|@tl'uul dinekcheth@
+@I am tying rope tightly@|@tl'uul dinek-tsón'@
+@I am walking with one foot@|@nachegt'úu'@
+@I argued angrily with him@|@medatdédhihmáak@
+@I ask you@|@nudekket@
+@I ate before them@|@ch'et-ttheh nach'ih'áatl@
+@I bit it@|@dhih'él@
+@I bought it@|@ughihkéet@
+@I broke it apart@|@xátnekxótl@
+@I bumped it@|@mech'edhektés@
+@I bumped my elbow@|@xets'ésdhektés@
+@I bumped my knee@|@xegótdhektés@
+@I cache food for winter@|@xey de'ukah shíi nîinekchuut@
+@I came in first@|@ch'et-ttheh nihshah@
+@I cannot hear you@|@k'á ndíhtthég@
+@I caught a fish@|@luug dheklóx@
+@I caught it in mid-air@|@da'ídhekshél, da'ú'dhihdíik@
+@I cherish him@|@shaa dint'eyh@
+@I cherish my grandchildren@|@shchâay iin shaa dint'eyh@
+@I choked@|@ch'etnédhegshíits@
+@I chose these from among them@|@ch'etah ts'enh xaghíhdlah@
+@I clapping for him@|@maa lach'ihkét@
+@I climbed@|@ké'ídhíhshah@
+@I climbed the mountain@|@ddhel ké'ídhíhshah@
+@I climbed up a tree@|@ts'ôgh ké'ídhíhshah@
+@I colored it@|@xnihmenh@
+@I couldn't fall asleep@|@shch'aa mel delneyh@
+@I covered it@|@wuk'et jekchúuth@
+@I covered something@|@wunách'udédhekchúuth@
+@I cramped up@|@níxeeldégneyh@
+@I crawled out@|@xághíhduuth@
+@I cussed at him@|@dektsíix@
+@I deceived you@|@nantnih'áayh@
+@I did not go to Tok@|@k'á Tok na'íhháal@
+@I did something to brag about@|@dach'áa' ég'eh@
+@I don't know@|@lé'e@
+@I don't know it@|@k'á medadíshdéy, xets'í'ishdíig@
+@I dove@|@teenishdetth@
+@I dragged it back@|@nanishluuth@
+@I dreamt@|@nághihté'@
+@I drink a little bit of soup@|@tuuthel ntsîin ghishna'@
+@I dropped it@|@naghekxel, shintl'adalneyh, shintl'aghinxel@
+@I dropped it somewhere@|@xúh ts'í' dedhekneyh@
+@I dropped them@|@shintl'aghindéek@
+@I feel sad@|@ts'axokdeyh@
+@I fell down@|@xughegtth'et@
+@I fell down flat@|@xededhishmets@
+@I fired a gun@|@ká' tedhekdeyh@
+@I fixed it@|@nadhektsii@
+@I fixed it the way it was@|@nilk'etah nadhektsii@
+@I forgave him@|@wuts'í' xtédhíh'aa@
+@I forgot@|@xedhegndax@
+@I forgot it@|@medhegndax@
+@I found it@|@mexdhek-'aa@
+@I found part of a snowshoe@|@aayh xáan' éxdék-'aa@
+@I gave her the small rocks@|@tthee gaay wutl'á'níhdlah@
+@I gave them the small rocks@|@tthee gaay xuutl'áníhdlah@
+@I gave you the baby@|@ts'enîin gaay ntl'ághéktee@
+@I gave you the coats@|@eek ntl'á'ghíhdlah@
+@I gave you the dry fish@|@má' n1tl'ághekchúut@
+@I gave you the gun@|@k'á' n1tl'ághíhtaa@
+@I gave you the little rock@|@tthee gaay ntl'á'ghíh'aa@
+@I gave you the shirt@|@eek ntl'ághékchuuth@
+@I gave you the water@|@tuu ntl'ághíhkaa@
+@I glad she did that@|@shaa suú' delsháak@
+@I glanced at him@|@ldatédhék-'ee@
+@I got a glimpse of him@|@tdédhék-'ee@
+@I got a scratch@|@shk'ech'itxuts@
+@I got hurt@|@shexdéghindíik@
+@I got injured@|@shexdéghindíik@
+@I got my feelings hurt@|@xenitédhíshthet@
+@I grabbed my clothes@|@shch'el' ídhekchúut@
+@I grew up@|@nédhíhshaa@
+@I had a nightmare@|@ts'étthínegthét@
+@I have a cold@|@koth t'ishíláak@
+@I have a headache@|@shtthí' éhts'iik, shtthí' shíi chétkeyh@
+@I have a lot of hats@|@tthíshúus dhíhdlah@
+@I have a pain in my chest@|@sdzehchíi chetkeyh@
+@I have a stomachache@|@shshíi chétkeyh@
+@I have a taste for dry fish@|@má' edektlaa@
+@I have heartburn@|@tuutthox shdatnénínts'iik@
+@I have it ready@|@sudektthenh@
+@I have my gun ready@|@shk'áa' u'ekshuu@
+@I have nothing to eat to give@|@ts'iidee ntl'ádhékchuud há'@
+@I have pain in my legs@|@shxól' tah chetkeyh@
+@I have the hiccups@|@shdatch'iltthet@
+@I have them@|@dhihdlah@
+@I hear him@|@de'ihtth'ek@
+@I hear something@|@je'ihtth'ek@
+@I hear them@|@xuude'ihtth'ek@
+@I hear you@|@nde'ihtth'ek@
+@I hit him@|@metnedhegshos, nédhekgót@
+@I hit him with a stick@|@dhektl'eth@
+@I hugged him@|@meghíshdek@
+@I jumped down@|@nâagheksháatl@
+@I just remembered@|@naa dendeh meghegndíik@
+@I keep matches way up@|@yatthiidóg tah kón' dí'ihdláx@
+@I kicked it@|@mekédhekkéyh@
+@I know him@|@me'ishdeyh@
+@I know it@|@xe'ishdéyh@
+@I know our language@|@nee'andeeg' édadishdéyh@
+@I leapt over it@|@wuteth tédheksháatl@
+@I like dried meat@|@shí' eegeyh shaa nsúu@
+@I like soup@|@tuuthel shaa nsúu@
+@I live across the river@|@yandaas ts'ey dhihdah@
+@I live in the bush@|@ts'étl tah dhihdah@
+@I lost@|@ladedhegneyh@
+@I lost it@|@mexudheksháak@
+@I lost my money@|@shlsaaz' ladedhekneyh@
+@I love him@|@maa ihts'íi@
+@I made a fist@|@dadhihndíik@
+@I made them haul wood@|@tsets ts'í' xúníhshok@
+@I mended it@|@mech'edhekkáa, nadhektsii@
+@I miss him@|@wuk'et ts'axokdeyh@
+@I nodded my head@|@tthi'ish-'aak@
+@I only see him@|@xatáatah shée' naneg'íik@
+@I owe you@|@nts'í' xéjihdéyh@
+@I own it@|@ihdé'e@
+@I paid him@|@mexughihkéet@
+@I patched it@|@mejédhekkáa@
+@I peeled it@|@wuk'et nách'ekt'áatth@
+@I peeled them@|@wuk'et nâach'ekt'áatth@
+@I peeling bark@|@ch'elaat'ûudz dekt'uuts@
+@I picked it up@|@nidih'aa@
+@I picked it up something long@|@niditaa@
+@I picked them up@|@nidihdlah@
+@I pretended I said that@|@cheejegnih@
+@I pulled it out of the water@|@xaalúughíh'aa@
+@I punctured it@|@wuch'anekch'etth@
+@I put away food@|@nínekchúut@
+@I put away food for the winter@|@xey de'ukah shí' nínekchúut@
+@I put it away from him@|@wuch'aa yidhihdlah@
+@I put it down@|@nádíh'aa, nádíhtaa, nádíkaa@
+@I put it down again@|@nâadih'aa@
+@I put it in slanted@|@k'áay ts'í' táxk'éghíh'aa@
+@I put my hand down@|@nashég' nálághék-'ah@
+@I put my hand in the mittens@|@jeyh shíi degndíik@
+@I put my hand in water@|@tuu shíi táládhég'aa@
+@I put on lipstick@|@shdaamel natnihmenh@
+@I put them down@|@nádekchúuth, nádíhdlah@
+@I quit chewing tobacco too@|@lesgih chih edihtset@
+@I raised my hand@|@yetálághíhttheyh@
+@I realized it@|@wuk'anegndíik@
+@I received a blessing@|@shaa nítjélneyh@
+@I received it@|@shaa nindéek@
+@I refused it@|@éna' medíhnih@
+@I released it@|@medihndíik@
+@I rely on him@|@wut'adekt'eh@
+@I remember@|@me'egndéyh@
+@I remember it@|@me'egndéyh@
+@I remembered putting it there@|@eshëg' níníh'aan me'egndéyh@
+@I repaid him@|@mêexughihkéet@
+@I replaced them@|@wuk'éetáa ních'éníhdlah@
+@I respect him@|@dekcháax@
+@I said 'no'@|@éna' dedíhnih@
+@I sat back down@|@dítl'ádédhishttháat@
+@I sat for a long time@|@dítl'ádédhíshdah@
+@I saved him@|@dheksheyh@
+@I saw him way behind the trail@|@yaadíi tah nek-'ée'@
+@I saw it at that place there@|@na'atthíi esheg' deh nek-'ée@
+@I saw just a few caribou@|@wudzih ntsîin shée' nek-'ée@
+@I say to her@|@medíhnih@
+@I scared you@|@nnekjíit@
+@I scratched myself@|@edishts'ét@
+@I see@|@nek-'eh@
+@I see a bear cub@|@shos gaay nek-'eh@
+@I see a big moose@|@dendîig chox nek-'eh@
+@I see it@|@nek-'eh@
+@I see lots of caribou@|@wudzih ndlâan nek-'eh@
+@I see you@|@nnek-'eh@
+@I sensed its presence@|@wuk'éníghíhthet@
+@I sent it@|@níníh'aa@
+@I separated them@|@nilk'exughihdlah@
+@I served him food@|@wutl'ách'ekchuut@
+@I set traps on the island@|@taanduu k'et éel dhíhdlah@
+@I shoot and missed it@|@maydegdék@
+@I shot it@|@dedhehk'ax, dhekdeyh@
+@I showed him my house@|@shshax meech'axnek-'ee'@
+@I sipped it@|@tedhegts'eek@
+@I slapped him@|@nédhihkét@
+@I slept well@|@xunsuu ghihté'@
+@I sliced it in half@|@wuk'enektset@
+@I slipped on the ice@|@luut k'et keech'édhekjaak@
+@I smashed it@|@xatnekxotl@
+@I smell it@|@ektsenh@
+@I sold it@|@én' tedhihdlah@
+@I spent the night there@|@teddh dá'a shég' nédhihháal@
+@I took care of him@|@wuk'ánédhéktaa@
+@I took it away from him@|@wuch'aa stáyídhihdlah, wuch'aa yudhihdiik@
+@I traveled with my companion@|@shehleg' él lóníhshah@
+@I turned it inside out@|@nakededhihhuuth@
+@I usually peel it@|@nat'u'ekt'ii@
+@I usually spend the night@|@Tok nihhaak@
+@I was afraid so I escaped@|@negjed él tthítédhékshah@
+@I was born@|@shexunlee@
+@I was born in Fairbanks@|@Fairbanks deh ch'e shexunleen@
+@I was dozing all day long@|@dzeen uudíh xámélsheltéek@
+@I was fortunate@|@shaa nítjélneyh@
+@I was going around the house@|@shax kendah tedhíhshah@
+@I was harmed@|@shexdéghindíik@
+@I went away from him@|@wuch'áa stánegkáak@
+@I went through the brush@|@ts'étl tah nihshah@
+@I will do that with you@|@n'él tihdíil@
+@I will take care of it@|@wuk'átnektá'@
+@I wish you good luck@|@naa su'eg'eh@
+@I woke up way before you all@|@nuhttheh da'a tah ts'enihthet@
+@I worked the entire night@|@teddh uudíh ghishndah@
+@ice@|@luut@
+@ice crystals in the air@|@dahsógh'@
+@ice is jammed up@|@luut nilká'etdéek@
+@if@|@dé'@
+@if he asks you@|@nudehket dé' k'á éna' díndíil@
+@ignore him@|@sú'u naa wudeghuníi'i@
+@I'll be leaving here@|@natihdaal@
+@I'll go there for that@|@xúu' gha' esheg' ts'í' tíhhaal@
+@I'll probably go back to F.B.@|@ts'í' natihdaal@
+@illness@|@ts'iik@
+@I'm boating across@|@yaanáan' ts'eyh shíi tihkeel@
+@I'm boating back@|@naghishkeel@
+@I'm boiling it@|@ahmeets, ekmeets, ihmeets, xiyehmeets, yehmeets, yits'ehmeets@
+@I'm broke@|@shlsaaz' kôl@
+@I'm carrying a gun@|@k'á' ghíhtiil@
+@I'm carrying it sticklike obj.@|@ghihtiil@
+@I'm carrying them multiple obj@|@ghihleel@
+@I'm chinking it@|@xnektthúuk@
+@I'm cleaning the house@|@shax naxoksú'@
+@I'm coughing@|@degkoth@
+@I'm crying@|@ihtsax@
+@I'm cutting it@|@ekdóts@
+@I'm driving@|@h'eklel@
+@I'm embarrassed@|@uníshshá'@
+@I'm fine@|@shih dú' sôgh t'iht'eh, Sogh' t'iht'eh@
+@I'm fishing@|@nach'eklóx@
+@I'm from Mansfield@|@Dihthâad xt'een ihlee@
+@I'm frying it@|@ekt'éeth@
+@I'm getting ready for an event@|@súxúkleex@
+@I'm going by boat@|@ghihkeel@
+@I'm going down that way@|@ya'én' tíhhaal@
+@I'm going home@|@tâatihdaal@
+@I'm going to Mansfield@|@Dihthâad ts'í' ghíhhaal@
+@I'm going to pay you@|@nexuteghihkéet@
+@I'm holding it@|@u'ihtón'@
+@I'm hot!@|@elok!@
+@I'm hungry@|@dihtsii@
+@I'm in a hurry@|@xen eg'eh@
+@I'm living in Tok@|@Tok dhihdah@
+@I'm looking@|@nek'eh@
+@I'm melting snow in the bucket@|@nadh'âay shíi shétth ékchees@
+@I'm packing@|@ghihxeel@
+@I'm paddling@|@tach'iht'ox@
+@I'm picking berries@|@jêg nektseyh@
+@I'm pointing at it@|@mets'u'ihttheyh@
+@I'm pouring@|@de'ihdiil@
+@I'm really telling you truth@|@lá'a sitdíhnih@
+@I'm rendering it@|@ekchaats@
+@I'm rolling up my sleeves@|@shmäad' xanektaa@
+@I'm running@|@ghegtthel@
+@I'm shouting@|@ihsek@
+@I'm sitting between my friends@|@shtlee iin daateg didhihdah@
+@I'm sitting here comfortably@|@xunsuu deh didhihdah@
+@I'm skinning it@|@nat'udhekch'el@
+@I'm slurping@|@nach'egts'eex@
+@I'm taking care of them@|@xuuk'ánektá'@
+@I'm telling you@|@nedíhnih@
+@I'm walking back@|@yandêdz naghihdaal@
+@I'm wearing a coat@|@eek nádédhégshah@
+@immediately@|@k'ah dú' t'êey@
+@in@|@shíi@
+@in a little while@|@nihk'odl dé' tah@
+@in a while@|@k'adíidé'@
+@in front@|@nandêddh@
+@in front of a house@|@kón'teg@
+@in front of me@|@shnandeddh@
+@in it@|@wushíi@
+@in motion@|@deltheeyh@
+@in search of@|@de'ukah@
+@in summer the grass is green@|@sheen tah tl'ox deldléets@
+@in the direction of@|@ts'í'@
+@in the past@|@dá'a@
+@include this one too@|@jâan ch'íh wu'él@
+@Indian potato@|@tsaath@
+@infant@|@ts'enîin gaay@
+@inland area@|@nahdóg@
+@inside@|@shíi@
+@instead@|@naadley@
+@invited potlatch guest@|@soojee@
+@Irene; cook the cranberries@|@Irene; ntl'ét níhchees@
+@irresponsible@|@wudzii xninkol@
+@is@|@nt'eh, t'aht'eh, t'iht'eh, t'int'eh, ts'int'eh, xint'eh@
+@is all used up@|@wuk'ét'áxdálneyh@
+@is chapped@|@net-ts'iits@
+@is cold@|@néek'etth@
+@is crowded@|@xaltl'ét@
+@is crushed@|@xátnalch'úutl@
+@is deep here@|@jan teexdinthaat@
+@is gripping with its claw@|@xuudzek@
+@is hot@|@néethel@
+@is rotten@|@ghihjet@
+@is running@|@tdetth@
+@is this yours?@|@jâan ch'e ntsen?@
+@island@|@taanduu@
+@it (area) is slippery@|@xultlet@
+@it (living being) fell@|@na'altth'et@
+@it (weather) is calm@|@xdeexeetl@
+@it (weather) is cold@|@xnéek'etth@
+@it accidentally exploded@|@xá'altál@
+@it airplane landed@|@nanint'ek@
+@it appears to be that way@|@xúu' k'éxúltsii@
+@it bark@|@naxáh'enh@
+@it became dark@|@naghíhxeetl@
+@it boiled over@|@dátl'ánélxots@
+@it buries@|@taatsah@
+@it buries it's food@|@deshí'i' taatsah@
+@it burst@|@eltétl@
+@it came back exhausted@|@wushíits shée' dálílthet@
+@it capsized@|@nákédéexel@
+@it collapsed@|@naninkaatl@
+@it didn't snow yet@|@k'á tth'ihtah ihsháddh@
+@it disappeared@|@mexusháak, wuk'exdalneyh@
+@it dissolved@|@a'udeelet@
+@it doing@|@nts'é tde'e@
+@it dripped@|@del'éetl@
+@it escaped@|@nedagh ghinshah@
+@it exploded@|@teltétl@
+@it fits him@|@meghíhchaagh@
+@it flew away@|@stâanet-t'ak@
+@it flooded@|@tuu níihaa@
+@it foamed up@|@xatnalxots@
+@it formed into that shape@|@xú' nínalk'áas@
+@it getting on toward dark@|@xél t'aagh ts'í' xáathel@
+@it has no edge@|@wuk'á' kól@
+@it has pock marks on it@|@wuk'et xdetgú'u@
+@it hatched@|@xaghih'aats@
+@it is@|@sínt'eh@
+@it is a good thing@|@nsuu@
+@it is abstract concept@|@síxúnt'eh, xúnlee@
+@it is adhered to it@|@xetnelts'étl@
+@it is any single object@|@sínt'eh@
+@it is apart@|@nilts'edíndlah@
+@it is attached to it@|@yedeet'eyh@
+@it is autumn@|@noxluu xúnlee@
+@it is bandaged@|@wuk'éch'údet-tl'ûun@
+@it is barking@|@ehttheh@
+@it is being cut@|@et-t'aatth@
+@it is being discussed@|@xighaxunhéeyh@
+@it is being protective@|@ch'udelnih@
+@it is being silent@|@daadehxetl@
+@it is better than that one@|@êy tth'íh shíi nsuu@
+@it is big@|@ncháax@
+@it is bitter@|@tnínts'íik@
+@it is black@|@dat-seyh@
+@it is blocked@|@wudaxdéltsii@
+@it is boiling@|@tnelxots@
+@it is bouncing@|@yach'ehdeth@
+@it is bouncing up and down on@|@shég yik'et ts'í' yach'ehdeth@
+@it is bright@|@xdelgeyh@
+@it is broken down@|@detxotl@
+@it is brown@|@deltthox@
+@it is bubbling up@|@xashotl edeex@
+@it is burning@|@deek'én'@
+@it is cawing@|@delgax@
+@it is cloudy@|@k'oth xúnlee@
+@it is crooked@|@xútgétth@
+@it is curved@|@nanughalgót@
+@it is dark@|@xnat-tl'éts@
+@it is deep@|@dinchaax@
+@it is dented@|@yunítnalch'úutl@
+@it is dirty@|@gés nlee@
+@it is disappearing@|@mextehkôtl@
+@it is dislocated@|@nilghadalket@
+@it is divided@|@nildze'elsheek@
+@it is dry@|@nelgeyh@
+@it is drying@|@nadeltthayh@
+@it is expensive@|@diitl'eddh@
+@it is fall time@|@noxluu xúnlee@
+@it is far away@|@xnithaat@
+@it is flat and wide@|@ch'etmets@
+@it is flimsy@|@dzet-lon@
+@it is floating@|@dataya'aal@
+@it is flowing@|@ninleyh@
+@it is flying@|@natnet-t'ax@
+@it is folded@|@elxol@
+@it is fresh@|@k'ah dú'u sínt'eh@
+@it is frosty@|@naxúlsóx@
+@it is frosty this morning@|@k'áhmén' tah naxúlsóx@
+@it is frozen@|@et-tenh@
+@it is frozen solid@|@nelts'íi'@
+@it is full@|@datnel'aa@
+@it is furry@|@detshos@
+@it is getting colder@|@naxtnétk'etth@
+@it is giving a warning bark@|@ch'ée'aldíik@
+@it is gnawing a bone@|@tth'enh dehk'on@
+@it is gnawing its teeth@|@dexú' déhchiits@
+@it is gnawing on it@|@yidehk'on@
+@it is golden colored@|@delmeets@
+@it is good a good place@|@xunsuu@
+@it is gray@|@delmaa@
+@it is hailing@|@ch'inluut e'ehchaa@
+@it is hanging@|@naghint'eyh@
+@it is heavy@|@ndaath@
+@it is hide@|@ch'ethéth@
+@it is hiding behind the house@|@shax nandîidz ch'etnél'ii@
+@it is hopping around@|@natjehchéek@
+@it is hot outside@|@nah'ôg xnéethel@
+@it is howling@|@etsax@
+@it is inside out@|@nilk'edet-huudh@
+@it is jumping around@|@ya'etkeyh@
+@it is large@|@ncháax@
+@it is laying eggs@|@etxees@
+@it is licking it@|@yehtth'eex@
+@it is lightweight@|@ntsûudl ts'í' ndzâag@
+@it is long@|@ndéeth@
+@it is loud@|@xunchâagh xedaxdetndeyh@
+@it is moldy@|@u'atxáa'@
+@it is molting@|@etchetth@
+@it is murky@|@najalt'enh@
+@it is not good for me@|@k'á shaa ihsúuy@
+@it is not raining@|@k'á éhcháan@
+@it is now night time@|@k'ôd nághíhxeetl@
+@it is numb@|@iithúu'@
+@it is old@|@atshaa@
+@it is open@|@nilk'e tnintaa@
+@it is packed@|@datneldok@
+@it is partitioned@|@xdanint'eeyh@
+@it is partly cloudy@|@xá'xuh k'oth xúnlee@
+@it is peaceful@|@súu' xúu'aa@
+@it is pitch black@|@natl'esaldox@
+@it is pretty@|@ninsuu@
+@it is put aside@|@yenínihdíik@
+@it is quiet@|@daxdéexeetl@
+@it is ragged@|@wugha dach'inch'el@
+@it is raining@|@ehchaa@
+@it is really horrible@|@lá'a él ts'áxuntleeg@
+@it is really nice outside@|@loot'ëeyy' nah'óg xúnsuu, nah'ôg loot'êe' xunsuu@
+@it is red@|@delt'el@
+@it is ringing@|@delttheel@
+@it is rotten@|@ghilhjet@
+@it is rotting@|@ehjet@
+@it is rough@|@xulxos@
+@it is round@|@ch'etxees@
+@it is rusty@|@wughatl'iits@
+@it is scarce@|@nintsîin@
+@it is scratching an area@|@xoots'ét@
+@it is separated@|@nilts'edíndlah@
+@it is shaking@|@detndiiyh@
+@it is shaking from the cold@|@dlih ts'enh detndiyh@
+@it is sharp@|@dehk'eyh@
+@it is shining@|@neldzeeyh@
+@it is shy@|@nee'exúhshaa@
+@it is simple for him@|@shée' k'et'êey maa t'iyíit'eh@
+@it is skinny@|@nelgeyh@
+@it is slanted@|@naxk'áay tah di'ee'aa@
+@it is slushy@|@naxnit-seex@
+@it is small@|@ntsûudl@
+@it is snowing and windy@|@xats'í'áldox@
+@it is sown along the edges@|@wumâagh nanettl'uun sínt'eh@
+@it is starting to freeze@|@xtét-tenh@
+@it is summer@|@sheen xúnlee@
+@it is there@|@ee'aa, ee'aa, eekaa, eetaa, ehchúuth@
+@it is turning over and over@|@nilkedalmeth@
+@it is very interesting to me@|@shaa ch'áa' díht'eh@
+@it is winter@|@xey síxúnt'eh@
+@it is yellow@|@deltthox@
+@it is yelping@|@xedettsax@
+@it looks opposite opposite@|@nilchitsedz' eltsii@
+@it ran away@|@sta'ilthet@
+@it really hard@|@yinelshos@
+@it really is so@|@lá'a ch'e le'@
+@it sank@|@tetayinin'aa@
+@it smells@|@mexaltsen@
+@it turned cold@|@xníik'aatth@
+@it was born@|@mexunlee@
+@it was delivered to him@|@maa yínindíik@
+@it was raining@|@ghihchaa@
+@it was sunny this morning@|@k'áhmén dá'a xesadin'á'@
+@it was windy last night@|@teddh dá'a ghihts'eyh@
+@it went back to where he was@|@yaandíi k'éetah nîi'itshah@
+@it went out@|@natnétdek@
+@it will rain@|@tahchaa@
+@itch@|@ahxeeth, exeeth, ihxeeth, inxeeth, ts'exeeth, xexeeth@
+@it's a beaver cap@|@tsá tthíshúuz sínt'eh@
+@it's a little cold@|@xá' xuh xnéek'etth@
+@it's always like that@|@nt'o xúu' dínt'êey sínt'eh@
+@it's bad; not safe@|@ts'axuntleeg@
+@its beak@|@wudá'@
+@it's becoming winter@|@xey ts'í' xáatthel@
+@it's bladder@|@wuluthéth@
+@it's bottom@|@wukeetl'aa@
+@its claw@|@wukelagey'@
+@it's cold outside@|@nah'og' xnéek'etth@
+@it's drying up outside@|@nah'og xdet-tsets@
+@its eyes are sharp@|@mindaagh' déhk'eyh@
+@its fleas@|@wutl'eg'@
+@its flesh@|@wutthíi'@
+@it's foggy@|@nátsí'áldox@
+@its footprint@|@ch'eké' k'ee@
+@it's getting to be fall time@|@nah'ôg naxtnéek'áatth@
+@it's hair@|@wuxá'@
+@its lodge@|@wukée'@
+@its marrow@|@wushlagh'@
+@it's muddy outside@|@nah'ôg léech'aak xúlee@
+@its nest@|@ch'et'ox@
+@it's nice outside@|@nah'ôg xunsuu@
+@its nose cartilage@|@minjîidz@
+@it's not morning@|@k'á k'áhmén' xúuléey@
+@it's not sharp@|@k'á dihk'éy@
+@it's paw@|@wuké'@
+@its pelt@|@ch'ethéth@
+@it's raining outside@|@nah'ôg ehchaa@
+@it's shadow@|@wushïig', wushlig'@
+@its skin is yellow@|@wuthéth deltthox@
+@it's slippery because snowed@|@ghihshâaddh él xúltlet@
+@it's slippery outside@|@nah'og xúltlet@
+@January@|@saa xts'i'indeex de'@
+@jay@|@jîiz@
+@jelly@|@ch'inchees@
+@jelly-like@|@det-lot@
+@jerky@|@shí' geyh@
+@Jesus@|@T'axdíht'eey Ts'eníin'@
+@Johnson River@|@Ts'eethaay Ndiig@
+@joint@|@nilxadintaa@
+@Joseph Village@|@Tehluug Ninhdeex Ndiig@
+@juice@|@jêg tú'@
+@July@|@saa dze'edeex dé'@
+@jump@|@tédhahsháatl, tédheksháatl, tédhihsháatl, téhsháatl, ts'éhsháatl, xtéhsháatl@
+@junco@|@ts'est'ûud@
+@June@|@wunenh ch'et'aa' nesheegh@
+@keep it for good luck@|@ghalíi' il'eh@
+@keep it secret@|@daxtneedhih'ii@
+@keeping me company@|@shshíi dilhshaa@
+@keepsake@|@käay'@
+@Ketchumstuck people@|@Yaadóg Xt'een Iin@
+@Ketchumstuck Village@|@Saagéscheeg@
+@key@|@meldlíi'@
+@kidney beans@|@ch'ets'edz gaay@
+@kill more than one@|@ghinxaa@
+@kill one@|@dhehxee@
+@kindling@|@ch'elasées, tsets dintsuudl@
+@King Bolete mushroom@|@t'aath neyy'@
+@king salmon@|@luug chox@
+@kingfisher@|@taach'aa@
+@kneel@|@xnigót-'áah-'ah, xnigót-ts'aah-'ah, xnigótdháh-'ah, xnigótdhék-'ah, xnigótdhíh-'ah, xnigótxáah-'ah@
+@knife@|@seey@
+@knitted cap@|@tthíishúus ét-tl'uun@
+@knitted hat@|@tthíishúus ét-tl'uun@
+@knuckles@|@shinlaatthishuus my knuckles@
+@Labrador tea@|@ch'elaak'éy'@
+@laces made from scraps of hide@|@ch'egêddh' tl'ûul'@
+@ladder@|@xkédíi'aay@
+@ladybug@|@ts'axt'een@
+@lake@|@menh, menh@
+@lake clam@|@tl'aas@
+@Lake George@|@Nxaal Menn'@
+@Lake Mansfield@|@Dihthâad Menn'@
+@lake outlet@|@k'eetthiig'@
+@lake shore@|@menh mâagh@
+@lamb@|@demee gaay@
+@land@|@nén'@
+@large skin boat@|@lxodz'@
+@largest bull caribou@|@dzih chox@
+@larynx@|@shchol'@
+@last night@|@teddh dá'a@
+@last summer it flooded@|@sheen dá'a tuu níihaa@
+@laugh@|@ahdlóx, edlóx, ihdlóx, indlóx, ts'edlóx, xedlóx@
+@lay down@|@tth'í'elt'éeyh, tth'ídhalt'éeyh, tth'ídhegt'éeyh, tth'ídhilt'éeyh, tth'íxelt'éeyh, tth1'its'elt'éeyh@
+@lazy@|@ts'axdetdiig@
+@leader@|@ch'enaatthí'@
+@leaf@|@ch'et'aa'@
+@learn@|@dzeldíix, xaxdeldíix, xdaldíix, xdegdíix, xdeldíix, xdildíix@
+@leave@|@natédhíshshah, natédhítshah, natétshah@
+@leave (1)@|@natédhátdeetl, nats'étdeetl, naxtétdeetl@
+@leave!@|@tîinindaayh@
+@leaves@|@ch'et'äa'@
+@leaves are starting to fall@|@ch'et'äa natéedéek@
+@leech@|@ch'iit'ûud@
+@left side@|@tl'ah ts'ey@
+@left-handed@|@tl'axaas@
+@leftover pieces of moose@|@ch'egëddh'@
+@leftovers@|@ch'e'aa teedeeg@
+@lesser scaup@|@naltthogh@
+@let me repay him@|@mêexughuhkêed@
+@let me to take your picture@|@ch'ekanuhghuhlêel@
+@liar@|@loch'ene'aag@
+@lice@|@shá'@
+@lid@|@ch'edaadîid@
+@lie@|@dadalshék, dadegshék, dadelshék, dadilshék, dats'elshék, daxdelshék@
+@lift yourself up@|@dég déníltsiit@
+@light@|@dahk'aayh, dekk'aayh, dihk'aayh, dzihk'aayh, xiydih'aayh, yidihk'aayh@
+@light blinks off and on@|@naneldzeyh@
+@light brown mushroom@|@luudh neyy'@
+@light rain@|@chaa ttheg@
+@light visual@|@yitehkaa@
+@lightning@|@nahtên kónn'@
+@lightning strikes@|@nahtên nanint'ek@
+@like@|@k'eh@
+@like that@|@xúu'@
+@lily water@|@kelt'addh, naxey tth'áadl'@
+@line@|@tl'uul@
+@lingcod@|@ts'aan@
+@liquid is murky@|@tanát-t'uut@
+@liquids are blended@|@niltah nenínhaa@
+@little berry@|@jêg gaay@
+@Little Gerstle River@|@Shos Ddhel Ndîig@
+@little maggots@|@nindaa gaay@
+@Little Tanana Slough@|@Tth'iitú' Gaay@
+@little thunder@|@nahtên gaay@
+@live@|@dédhaltth'ih, deghaltth'i, dhihdah, dhindah, dzaltth'ii, dzéltth'ih, eedah, ghihdá', ghindá', ghindá', xdalttth'ii, xdélttth'ih@
+@liver@|@dhet, thét@
+@loan it to me@|@shaa dhindlah@
+@loan me your gloves@|@njeyy' shaa dhindlah@
+@lock@|@ch'eldlíi'@
+@long hair@|@tthiixá' ts'eeg xúnlee@
+@long johns@|@ch'et'aathétl@
+@long knife@|@wushuu@
+@look at this@|@jâan nih'eh@
+@look for it@|@mikah xnih'eh@
+@looked it over@|@lokexdenindlah@
+@lookout place@|@ndaxk'ée@
+@lopsided@|@k'aay' ts'í' ée'aa@
+@lots@|@ndlâan@
+@lots of people@|@ndlâan iin@
+@lots of something@|@ndlâan@
+@low bush cranberry@|@ntl'ét@
+@low clouds along mountains@|@ch'ets'étl@
+@lynx@|@níidûuy@
+@lynx have long legs@|@niidûuy xol' ndéeth@
+@macaroni@|@gah ts'iig'@
+@made it like that one@|@yik'eh yíhtsii@
+@maggot@|@nindaagh, nindáayh@
+@magpie@|@saxatnéy, tsaxatndiik@
+@major river@|@tth'iitú'@
+@make@|@ahtseyh, ektseyh, ghahxaa, ghihxaa, ghinxaa, ihtseyh, its'ehtseyh, ts'inxaa, xeyinxaa, xiyehtseyh, yehtseyh, yinxaa@
+@make it like this@|@wuk'éetáa ch'íhtseeyh@
+@make short pieces of sinew@|@tth'éex nink'odl ts'í' inxaa@
+@making a commotion@|@shaxeh'aa@
+@making each other laugh@|@nilxa tsadaxdetdlii@
+@mallard@|@t'aay chox@
+@mammal@|@nûun@
+@man@|@dendeh@
+@man's daughter-in-law@|@shtthûuy@
+@Mansfield area people's lang.@|@Dihthâad Xt'een Iin aandeg'@
+@Mansfield Hill@|@Mesiin Tsiits'iig@
+@Mansfield People@|@Dihthâad Xt'een Iin@
+@Mansfield Village@|@Dihthâad@
+@manure@|@tsáa'@
+@March@|@Ch'eshaan' Saa'@
+@marmot@|@k'aay@
+@marsh hawk@|@gah daxeel, nah daax@
+@marshhawk@|@gah daaxeel@
+@marten@|@tsûug@
+@mat@|@téel@
+@mattress@|@téel@
+@maybe@|@súle'@
+@me too@|@shint'ah@
+@me too; I'm fine@|@shint'ah; ihsuu@
+@meat@|@shí'@
+@meat is par-boiled@|@xiyikadameets dehneyh@
+@medicine@|@ch'óndéyh@
+@melt@|@na'elxee@
+@memento@|@kaay'@
+@memento from a potlatch@|@kaay'@
+@merganser@|@tsoth@
+@messenger@|@xdek nadatde'aag@
+@messy@|@xnetjak@
+@metal@|@ts'íitsiy@
+@meteor@|@sén' tsáan'@
+@mew gull@|@mehk'âay@
+@mice are small@|@teltsedz ntsûudl@
+@midday@|@dzeen taatl'ed@
+@middle@|@taandîidz@
+@Midway Lake@|@Tohchenh Menh@
+@minister@|@giihii@
+@mink@|@tehts'uudz@
+@minnow@|@luug shíig'@
+@mischievous person@|@et-sûug@
+@mittens@|@jeyh@
+@mixed together@|@niltah net-tsii@
+@moccasin@|@kentsiith@
+@moccasin tops@|@ch'ekent'aag'@
+@modern boat@|@ts'eyh@
+@modern gloves with fingers@|@laajeyh@
+@modern house@|@shax@
+@modern shoes@|@nondlêed@
+@modern things@|@k'ah dú' xá'áltsiin@
+@moist@|@elsox@
+@mold@|@xáa'@
+@molting duck@|@etchot@
+@molting ducks@|@chetth@
+@mommy@|@shnaa@
+@money@|@lsaaz@
+@month@|@saa@
+@moon@|@gheldzeey@
+@Moon Lake@|@Taaxod@
+@moonlight@|@ch'aldzeey@
+@moose@|@dendîig@
+@moose "bell"@|@wutthéet'aag'@
+@moose and caribou@|@dendîig él wudzih iin él@
+@moose antlers@|@dendîig dé'@
+@more@|@teey'@
+@morning@|@k'áhmén'@
+@mosquito@|@tth'êy@
+@mosquito hawk@|@tth'êy chox@
+@moss@|@dlaat@
+@moss covered house@|@dlaat shax@
+@mother@|@shnaa@
+@mother-in-law@|@stsuu@
+@motion to him@|@nâan ts'í' tthí'ít-'aak@
+@Mount Neuberger@|@Naaxey Xú'@
+@mountain@|@ddhel@
+@mountain pass@|@teth@
+@mountain peak@|@ddhel tthit'aag@
+@mountain range@|@luu ddhel@
+@mountain top@|@ddhel tthiit'aag@
+@mountain willow@|@luudh@
+@mouse@|@teltsêdz@
+@mouse with long tail@|@ché' ndeedh@
+@mouth of a river@|@taacheeg@
+@move the cup aside!@|@naa tuutiil nanéníhtsiit@
+@move the cup there!@|@naa tuutii? stádénín'aay@
+@mud@|@léech'aak@
+@mukluks@|@kench'odl'@
+@murky@|@leech'aak tanát-t'uut@
+@muscle@|@wutth'ee'@
+@muskrat@|@dzenh@
+@muskrat buries food for winter@|@dzenh deshí'i xey ukah etsah@
+@muskrat food@|@níhts'îil@
+@muskrat has a narrow tail@|@dzenh wuché' dínts'eeg@
+@muskrat lodge@|@dzenh kee'@
+@muskrat tunnel@|@dzenh tedz'@
+@mussel@|@tl'aas@
+@mute person@|@wutháa kôl@
+@my abdomen@|@stsäadl'@
+@my Adam's apple@|@shchöl'@
+@my ankle@|@shkeechënn'@
+@my anus@|@shtthel@
+@my arm@|@shgáan'@
+@my arm is broken@|@shgáan' étxol@
+@my arm is dislocated@|@shgáan' nilghadalket@
+@my armpit@|@shk'éhts'ax@
+@my aunt@|@shaak'ey, stsuu@
+@my backbone@|@shinchenn'@
+@my bag@|@ssaag'@
+@my beard@|@shdaaxá'@
+@my belly@|@stsladl'@
+@my belly-button@|@sts'uuk'ée@
+@my bicep@|@shgaanluudh'@
+@my bloody nose@|@shintsii del@
+@my bones are creaking@|@degk'ek@
+@my brain@|@shtthiixaa'@
+@my breast@|@sht'úu'@
+@my breastbone@|@shyuutth'enn'@
+@my breath@|@shdaasheey'@
+@my brother-in-law@|@shlenh, shxeh@
+@my butt@|@shtl'á'@
+@my calf@|@sts'edh'@
+@my cheek@|@shintl'ahmét@
+@my cherished ones@|@shaa dint'eey@
+@my chest@|@sdzehchíi@
+@my chest area@|@sdzehtah@
+@my chin@|@shdá'@
+@my clothes fit me@|@shch'el' sheghíhchaagh@
+@my collarbone@|@sht'ek tth'en'@
+@my cousin@|@shtlee@
+@my daughter@|@shtthé'e, shyaats'é'e@
+@my dog@|@shlïig'@
+@my dog is panting@|@shliig' éhtthek@
+@my dog is scratching over@|@shlïig' nah'âaz xoots'ét@
+@my ear@|@sdzaagh'@
+@my elbow@|@sts'és@
+@my esophagus@|@shthéeg'@
+@my eye@|@shdaagh'@
+@my eyebrow@|@shnaxdzaaxá'@
+@my eyelash@|@shnaxts'eh xá'@
+@my eyes are bloodshot@|@shdaagh' t'êl@
+@my eyes are wide open@|@dhegket@
+@my face@|@shnée@
+@my family@|@shehlâad@
+@my father@|@shtá'@
+@my father-in-law@|@stsêey@
+@my father's name is Charley@|@shtá' Charley miisí'@
+@my favorite@|@shaa dint'eh@
+@my finger@|@shinlaats'ógh'@
+@my finger poked through it@|@shinlaats'ógh maa ittets@
+@my fingernail@|@shinlagey'@
+@my foot@|@shké'@
+@my foot cramped up@|@shké' níxeeldélneyh@
+@my forearm@|@shtth'íil'@
+@my forehead@|@shintaagez, shints'etadaag@
+@my friend@|@shtlee@
+@my friend has left@|@shtlee natétshah@
+@my friend is entertaining me@|@shtlee shnidilhshaa@
+@my gall bladder@|@shtl'éts@
+@my girlfriend@|@wu'él natihdaag@
+@my gloves disappeared@|@shjeyy' k'éxdálneyh@
+@my grandchild@|@shchâay, shtthûuy@
+@my grandmother@|@stsuu@
+@my grandmother lost it@|@stsuu yexúhshaak@
+@my grandpa's name's Charley@|@stsey Charely mighinsí'@
+@my gums@|@shxutthen'@
+@my hair@|@shtthixá'@
+@my hand@|@shinlá'@
+@my hands are dirty@|@shinlá' gés nlee@
+@my head@|@shtthí@
+@my hearing@|@sdzii@
+@my heart@|@sdzeey'@
+@my hip@|@shk'eyy'@
+@my house@|@shshax@
+@my husband@|@shkéy'@
+@my incisor@|@shinchetthxú'@
+@my inner ear@|@sdzii@
+@my intestines@|@shts'iig'@
+@my jaw@|@shyeetth'enn'@
+@my jugular@|@shk'oth tth'éegh'@
+@my kidney@|@sts'edz@
+@my knee@|@shgót@
+@my kneecap@|@stsídahgót@
+@my land@|@shnénn'@
+@my lap@|@sdzehdíi@
+@my leg@|@shxol'@
+@my life@|@shsheey'@
+@my lips@|@shdaamel'@
+@my liver@|@shthét@
+@my lower leg@|@sdzaad'@
+@my lungs@|@sdzehdóg'@
+@my maternal great uncle@|@stsêey@
+@my mind@|@shiiní'@
+@my molar@|@shxostl'axú'@
+@my mother@|@snaa@
+@my mother-in-law@|@shkéy' wunaa@
+@my mother's mother@|@laan él stsuu@
+@my mouth@|@shthaa@
+@my mustache@|@shdaayáan'@
+@my name is@|@shuusí'@
+@my navel@|@sts'uuk'ée@
+@my neck@|@shk'oth@
+@my nephew@|@shhaaz@
+@my nose@|@shintsii@
+@my nose is bleeding@|@shintsii del@
+@my nose is frozen@|@shintsii et-tenh@
+@my nostril@|@shindíig@
+@my older brother@|@shundaagh@
+@my older sister@|@shaadeh@
+@my older sister's boiling rice@|@shaadeh sâay ehmeets@
+@my own@|@stsen@
+@my palm@|@shintl'áa'@
+@my pants@|@shehtlé'@
+@my parents@|@shchox iin, shnaa iin@
+@my pelvic bone@|@shk'éyy' tth'en'@
+@my pelvis@|@shk'éyy'@
+@my pinky finger@|@shinlaats'ógh' gáay'@
+@my pubic hair@|@shtl'exxá'@
+@my pupil@|@shnaxtl'ëdz@
+@my rations@|@ch'ekéen' ég'eh@
+@my rectum@|@shtthel@
+@my relative@|@shudelken@
+@my relatives@|@shehlâad@
+@my ribs@|@shshäaddh'@
+@my scalp@|@shtthits'ëdl'@
+@my shin@|@sdzaad'@
+@my shoulder@|@shxëddh'@
+@my shoulder blade@|@shgaanchënn'@
+@my siblings@|@sh'él ts'enindêg iin@
+@my sinus@|@shinchit'ah@
+@my sister in-law@|@shxeh@
+@my sister-in-law@|@shtlee@
+@my skin@|@shthéth@
+@my skin is chapped@|@shthéth dét-ts'iits@
+@my skull@|@shtthitth'en nn'@
+@my sleeve@|@shmäad'@
+@my spinal cord@|@shnehts'uu@
+@my spouse@|@wu'él dhíhdaay@
+@my upper back@|@shinxaan'@
+@my younger brother is playing@|@shchel lii chox él délxos@
+@my younger sister@|@shdéedz'@
+@nagoonberry@|@naaxeey jêg@
+@nail@|@ch'etsol'@
+@narrow@|@dints'eeg@
+@Native people@|@Dendeey Shuh Iin@
+@Native person@|@Dendeh Shuh@
+@near me@|@shaaxáh@
+@nearby area above@|@nandóg@
+@needle for beading@|@natl'és tl'ankaan@
+@neighbors@|@aasheg' deltth'îiy iin@
+@net@|@tehmíil@
+@never@|@k'á@
+@next door@|@na'asheg'@
+@next to@|@k'eddh@
+@night@|@teddh@
+@nine@|@nilk'eden wuk'et@
+@nipple@|@sht'uutthí'@
+@no@|@éna'@
+@no one@|@ch'ekól, kól@
+@no one around me@|@shxghendah ch'ekól@
+@noise is being made@|@shaxeh'aa@
+@noon@|@dzeen taandîidz, dzeen tl'êd@
+@northern flicker@|@ntsiil@
+@northern harrier@|@kechents'êeg@
+@northern lights@|@yaadiimeey@
+@northern pike@|@uljaaddh@
+@northern pintail@|@dzehndeedh@
+@northern shoveller@|@daaleel@
+@northern shrike@|@jîiz maay@
+@Northway Village@|@K'ehtthîig@
+@no-see-um@|@ch'etjog, xolgodz@
+@not heavy@|@ndzâag@
+@not in a good mood@|@tnetgetth@
+@not long@|@k'á níntthógh@
+@not very long ago@|@xnihk'ôdl dá'a@
+@not yet@|@k'á tth'ihtáh@
+@nothing at all@|@ts'iidee@
+@nothing bothers him@|@shée' k'et'êey maa xúltsii@
+@nothing there@|@díi t'êey kól@
+@November@|@Demee Sa'@
+@now@|@k'ah dú'@
+@now he can light his fire@|@k'ôd ch'ah dekónn' dáhk'aal@
+@oar@|@tach'íit'ôgh@
+@obey him!@|@wuk'éetáa xghúhthet dé'@
+@obsidian@|@mehts'eyh@
+@occasionally@|@xatáatah@
+@ocean@|@yaatuu chox@
+@ochre@|@tseyh@
+@October@|@nén' tenh k'et@
+@old man@|@ch'etey@
+@old Mansfield Village@|@Ch'enaa Ndêdh@
+@old moose with curved horns@|@tl'ach'aakáal@
+@old person@|@ch'endaaddh'@
+@old time bark house@|@ch'elahts'eyh shax@
+@old time fur coat@|@daa eek@
+@old time mittens with fur in@|@deshoz jeyh@
+@old time potlatch tripod@|@leghaas neltl'uun@
+@old time skin pants@|@ch'ethéth thetl@
+@old time willow ball@|@ch'uxeel@
+@old time women's skin bag@|@tthel théth@
+@old time wooden ladle@|@ts'ekaal@
+@old woman@|@ts'est'é'@
+@olden days@|@yaniidá'a@
+@older boy@|@tsiil@
+@oldsquaw@|@haháalá'@
+@old-time stone adze@|@ttheetthil@
+@on@|@k'et@
+@on the land@|@nén' k'et@
+@once@|@ts'ehlóx@
+@one@|@ts'éhlêg@
+@only@|@shée'@
+@only one@|@ts'éhlêg shée@
+@only that@|@êy shée'@
+@open your mouth@|@thaaxdédhílts'aax@
+@opening@|@ndú'@
+@opposite@|@nilchitsedz'@
+@orphan@|@tiitaay@
+@osprey@|@xtth'ek@
+@other person@|@nâan@
+@otter@|@ntsíith@
+@ouch@|@amah@
+@our firewood is used up@|@neetsëdz' k'ét'áxdálneyh@
+@our language@|@aòneg, nee'aandeg, neò@
+@ours@|@neetsen@
+@outdoors@|@nah'ôg@
+@outer bark@|@ch'elaht'ûudz@
+@outer birch bark@|@k'ii ts'edl'@
+@outhouse@|@tsáa' shax@
+@outside@|@nah'ôg@
+@outside surface@|@wuk'et@
+@over@|@wuteth@
+@over there@|@ya'én'@
+@overflow ice@|@geetth@
+@overflow on ice@|@takaatú'@
+@owl@|@mesiin, ts'uudzaagh@
+@pacifier@|@ch'etsídáhk'ah@
+@pack@|@ghahxeel, ghihxeel, ghinxeel, ts'axeel, xiyaxeel, yaaxeel@
+@packsack@|@xeel@
+@paddle@|@taat'ôgh, tach'et'ox, tach'iht'ox, tach'int'ox@
+@paddle (1)@|@tach'aht'ox, tach'axet'ox, tayits'et'ox@
+@padlock@|@ch'eldlíi'@
+@pail@|@nadh'aay@
+@paint@|@tseyh@
+@pants@|@ch'ehtlé, thetl@
+@pants pocket@|@ch'etlé' t'ah@
+@pants pockets@|@ch'etlé' t'ah@
+@paper@|@dináhtl'aa@
+@parka@|@xey eek@
+@part of@|@xáan'@
+@partly cloudy@|@xah xú' k'oth xúnlee@
+@partly dried meat@|@wuká'éegey@
+@partner@|@nehlég'@
+@pass mountain@|@teth@
+@pass trail@|@laateth Tey@
+@patchy fog over water@|@taashíits@
+@path@|@tey@
+@peak of a house@|@shax tthit'aag@
+@pear@|@ch'edzaagh'@
+@peeled birch bark@|@ch'elaats'eyh@
+@pencil@|@ch'etnetl'edz'@
+@peninsula@|@ldaa@
+@people@|@dendeey, dendeey iin, koxt'een, koxt'een iin, koxt'een iin@
+@people are gathered together@|@nilshíixatdeetl@
+@person@|@dendeh@
+@personal potlatch gift@|@jáay'@
+@photograph@|@ch'eshïig'@
+@pick@|@nahtseyh, nehtseyh, nektseyh, nihtseyh, ts'enehtseyh, xnehtseyh@
+@pick out only short wood@|@tsets dink'odl shee t'ih'eh@
+@pick up@|@ni'idháhdlah, ni'idhíhdlah, ni'idhíndlah, nidáh'a, nidahchúuth, nidáhkaa, nidáhtaa, nidáhtee, nidéedlah, nidekchúuth, nidéktee, nidíh'aa, nidihchúuth, nidíhkaa, nidíhtaa, nidín'aa, nidínkaa, nidíntaa, nidzihchúuth, nidzíhtee, nidzíi'aa, nidzíidlah, nidzíikaa, nidzíitaa, nixiydihch, nixiydíhtee, nixiydíi'aa, nixiydíidlah, nixiydíikaa, nixiydíitaa, niydihchúut, niydíhtee, niydíikaa, niydíitaa, niyidín'aa@
+@picked it up something flat@|@nidekchúuth@
+@picked up it a living animal@|@nidektee@
+@picked up s.t. in a container@|@nidihkaa@
+@picture@|@ch'eshiig'@
+@pitch@|@dzéex@
+@pity@|@teejuh@
+@place is bad@|@tidaxdintthet@
+@placenta@|@ts'enîin él'@
+@planning wood@|@eksees@
+@plants@|@nesheegh@
+@plants are growing@|@tl'ox nesheegh@
+@plate@|@tth'áak@
+@play@|@dalxos, degxos, delxos, dilxos, dzelxos, xdelxos@
+@playing cards@|@galdás@
+@please remind me of it@|@meshexghuhndéyh de'@
+@pliers@|@ch'iitl'eg@
+@plover@|@theen ch'enelzhaay@
+@pocket@|@ch'et'ah@
+@pocket knife@|@seey tsêdl@
+@point@|@ldaachíi@
+@point of an island@|@ldaachíi@
+@poke@|@ahts'ok, ekts'ok, ihts'ok, ts'ehts'ok, xiyehts'ok, yihts'ok@
+@pole that skin is held@|@ch'ejeeyh@
+@poles@|@dints'eeg@
+@police@|@nach'udah'é'e@
+@pond@|@menh@
+@pool@|@tl'aas k'ée@
+@poor quality@|@ts'antleeg@
+@poor thing!@|@teejuh@
+@poplar@|@t'áath@
+@popped@|@deltétl@
+@poque@|@shos tsaadh'@
+@porcupine@|@ts'iit@
+@Porcupine Creek@|@Ts'induul Ndiig@
+@porcupine quill@|@ch'ox@
+@porcupine quills are sharp@|@ts'iit ch'ox dehk'e@
+@possessions@|@xuudlaay@
+@possible@|@súle'@
+@pot@|@ts'íitsiy tth'áak@
+@potato@|@tsaath@
+@potato chips@|@tsaath ttheel'@
+@potatoes@|@teediiz@
+@potlatch@|@xtíitl@
+@potlatch food@|@ch'aa@
+@pour@|@de'ihdiil, de'indiil, dedhahdiil, dets'indiil, dexiyindiil, deyindiil@
+@pour the tea into the cup@|@ldîil tuutiil shíi dé'índiil@
+@pray@|@xets'axnindeyh, xexaxnindeyh, xexnahdeyh, xexnedeyh, xexnihdeyh, xexnindeyh@
+@preacher@|@giihii@
+@prepared@|@u'ekshuu@
+@prepared to act@|@u'egshuu@
+@probably@|@êy gha súu', k'ént'eh, súle'@
+@proud@|@daa súu' él'eh@
+@prune@|@jêg chox@
+@puddle@|@tuu tl'adéedlah@
+@pull@|@ghahluuth, ghihluuth, ghinluuth, ts'aaluuth, xiyaaluuth, yaaluuth@
+@punched through it@|@wuch'anekch'etth@
+@punk@|@lts'iis@
+@puppy@|@liigaay@
+@puppy is walking ahead of him@|@lii gaay yittheh aahaal@
+@pus@|@xeth@
+@push@|@me'ektset, me'ihtset, yi'ehtset, yits'ehtset@
+@push (1)@|@me'ahtset, xiye'ehtset@
+@pussy willow@|@dahliigaay@
+@put down@|@nádáh'aa, nádih'aa, nadin'aa, nádzín'aa, náydín'aa@
+@put down (1)@|@nádíhtaa, nádíntaa, náxíydín'aa, náydíntaa@
+@put down (2)@|@nádáhtaa, nádíhkaa, nádzíntaa, náxíydíntaa@
+@put down (3)@|@nádáhkaa, nádínkaa, nádzínkaa, náydínkaa@
+@put down (4)@|@naadindlah, nádíhdlah, náxíydínkaa, náydídlah@
+@put down (5)@|@nádáhdlah, nádekchúuth, nádzíndlah, náxíydíndlah@
+@put down (6)@|@nádahchúut, nádichúuth, nádzinchúuth, náydinchúuth@
+@put down (7)@|@nádektee, nádiltee, náxíydinchúuth, náydintee@
+@put down (8)@|@nádahtee, nádzintee, náxíydintee@
+@put it away@|@staninleeyh@
+@put it out@|@nayitnéhdek@
+@put it there!@|@naa nínínleeyh@
+@put on your clothes@|@na'it-tl'uh@
+@put out the fire@|@kón' natnihdeex@
+@put that stuff away right away@|@k'ah du t'êey stâninleeyh@
+@quickly@|@xaltey, xen@
+@quicksand@|@leet'ot@
+@quills@|@ch'ox@
+@quiver@|@k'aath@
+@rabbit@|@gah@
+@rabbit snare@|@gah gaal@
+@rabbits are easily frightened@|@gah sh_ée' t'êey neljíit@
+@rack@|@dahdzel@
+@rack poles@|@dints'eeg@
+@raft@|@xïith@
+@rain@|@chaa@
+@rain water@|@chaa tü'@
+@rain water is dripping@|@chaa tú' dél'eetl@
+@rainbow@|@saamíil@
+@raised him@|@yitnelshaa@
+@raisins@|@jêg gaay@
+@rapidly moving water@|@tanint'eyh@
+@rare@|@shí' éltel@
+@rare (hard to find)@|@mexuntsîin@
+@raspberry@|@danch'ög'@
+@rations@|@xkéen'@
+@raven@|@taatsáa'@
+@raw meat@|@shí' éhtsel@
+@rawhide stripes@|@xeyh@
+@reach for it@|@unindiiyh@
+@really@|@lá'a@
+@really?@|@lá'á@
+@rear@|@nandîidz@
+@receded@|@tuu natet-tseth@
+@recently it rained@|@xnihk'ôdl dá'a ghihchaa@
+@red currant@|@daníhdûuy@
+@red fox@|@naageddh@
+@red necked grebe@|@ts'el@
+@red-breasted merganser@|@tsoth@
+@redpoll@|@diits ney@
+@red-throated loon@|@ttheechaagh@
+@regularly@|@xdiitndeyh@
+@relative@|@wude'egken@
+@relatives of mine@|@xuu'ude'egken iin@
+@religious cross@|@jeliis@
+@remember@|@me'aldéyh, me'egndéyh, me'ilndéyh, mets'elndéyh, xiy'e'eldéyh, ye'eldéyh@
+@remove it@|@staninleeyh@
+@rendered fat@|@ch'echaadz'@
+@rendering@|@echees@
+@rennet@|@wutsäag@
+@resemble@|@eltsii@
+@respected person@|@diichâagh@
+@rest@|@na'alshéyh, na'egshéyh, na'elshéyh, na'ilshéyh, nats'elshéyh, naxelshéyh@
+@return@|@na'ithshah, nanatdeetl, nanishshah, nanitshah, nats'itdeetl, naxitdeetl@
+@rice@|@nindaa gaay, saay@
+@rich@|@elxee@
+@ridge@|@xak'íig@
+@ridge pole@|@taandîidz deenii'aay, tthiindîidz denin'aay@
+@ridge-line on mountain@|@ch'aak'iig@
+@rifle@|@k'á'@
+@right away@|@k'ah dú' t'êey@
+@right here@|@jah deh@
+@right side@|@xunsuu ts'ey@
+@right there@|@esheg' deh@
+@ring@|@laatth'aax@
+@ring around sun@|@kelahdzemiil@
+@ripe berries@|@nit-sii'@
+@ripe blueberries@|@nit-síi'@
+@ripples made by fish@|@luug täaddh'@
+@river bank@|@meth@
+@river mouth@|@taacheeg@
+@road@|@tey@
+@robber@|@ch'ene'îiy@
+@Robertson River@|@Nihtsiil Ndiig@
+@robin@|@súus@
+@rock@|@tthee@
+@rock outcrop@|@tthee dzönn'@
+@rock ptarmigan@|@ddhel k'aal@
+@rocks are laying down there@|@tthee xahshóg eedlah@
+@roe@|@luug k'úu'@
+@rom inland@|@yandêdz@
+@roof@|@shax tthit'aag@
+@roots@|@tsaath@
+@rope@|@tl'uul@
+@rope is coiled@|@tl'uul nétxots@
+@rosehip@|@nchuuth@
+@rotten ice@|@luut el'uh@
+@rotten spruce@|@tatníitthôgh@
+@rough and dry@|@det-ts'iits@
+@round "hoop" of dipnet@|@éth dámaadh@
+@round whitefish@|@xeltii@
+@round-the-world man@|@yaamaagh telch'eegh@
+@ruffed grouse@|@tsáa' ts'uug@
+@rump@|@ch'inchenn'@
+@rusted metal@|@ts'íitsiiy wu'at-tl'iidz@
+@rusty blackbird@|@ch'ak ney@
+@sack@|@saak@
+@Salcha@|@Sahcheeg@
+@saliva@|@séek@
+@salmonberry@|@nkáatl@
+@salt@|@lsel@
+@saltshaker@|@lsel tiil@
+@Sam Creek on the south side@|@Taak'etth Ndiig@
+@Sam Lake@|@Ch'inchedl Mënn'@
+@same amount@|@nilk'enel'aa@
+@sand@|@thaayh@
+@sandbar@|@thaayh téel@
+@sandhill crane@|@deel@
+@satisfied@|@ts'anedhegtek@
+@saucer@|@ch'eketl'aagh'@
+@save it until later@|@tthé' de'ukah xúh dhíndlah@
+@saw the firewood@|@tsets intl'eyh@
+@Sawmill Creek@|@Maa Ch'et-tl'eeg Ndîig@
+@say it again@|@tëyy' xú' dínih@
+@scarf@|@ttheet'aal@
+@scattered about@|@nilch'edûug tah@
+@scaup@|@naltthogh@
+@school@|@xáxdeldiix shax@
+@scissors@|@létdeldôdz@
+@scorching it@|@ekts'étl@
+@scraped skin ready for tanning@|@ghinttháa'a@
+@scraper rock@|@tthee ch'ithogh@
+@scraper tool for removing@|@náhtthel@
+@scraper tool for tanning skins@|@ch'itthogh'@
+@scraps of food@|@shí' duul'@
+@screaming@|@ihsel@
+@screams@|@delts'ux@
+@seam in sewing@|@ch'ekáa' k'ée@
+@Sears Creek@|@T'ees K'en' Chox Ndiig@
+@seed@|@natnalsheegh, wunihtth'eey'@
+@seldom@|@nilch'eduug tah, xaatáa tah@
+@semipalmated plover@|@theen ch'enelzhaay@
+@September@|@wunenh ch'et'äa' dit-tsiig@
+@settled@|@nixunin'aa@
+@settlement@|@keey@
+@seven@|@nilk'etaag wuk'ed@
+@sew quickly but be careful@|@xaltey na'it-tl'úh sudélgha@
+@sewing kit@|@t'ahxúdlâay@
+@sewing needle@|@tl'ankaan@
+@shade from the sun@|@saa naat'aagh@
+@shadow of the sun@|@saa naat'aagh@
+@shale@|@tthee ch'ithogh@
+@shallow hole in the ground@|@xosk'ée@
+@shaman@|@deshen@
+@share it@|@nilts'i'alsheeyh@
+@sharp-shinned hawk@|@keech'otl@
+@sharp-tailed grouse@|@ch'ehtêeg@
+@shavings@|@ch'esees@
+@she asks you@|@nudehket@
+@she cherishes him@|@maa yidint'eyh@
+@she cuts the fish@|@luug et'aatth@
+@she definitely said that@|@lá'a ch'e le' sítnih@
+@she dressed expensive clothes@|@ch'el' diitl'eddh shíi ét-tluu@
+@she drove me crazy@|@sh'él stadaxdénín'aa@
+@she dug it out of the ground@|@xáyelé'@
+@she fixed it@|@shaa tth'iitaxdéníneeyh@
+@she had a baby@|@ts'enîin nadihtee@
+@she has a fire burning@|@kón' déhk'én'@
+@she hit him@|@yíhgót@
+@she ignores me@|@shch'áa tét-taatth@
+@she is@|@sínt'eh@
+@she is angry with me@|@sts'í' ts'ani'elt'eh@
+@she is bashful@|@unétshaa@
+@she is begging for food@|@shí' gha dach'udelkét@
+@she is carry around her sewing@|@nâynettl'ú'u nateleek@
+@she is chipping it@|@yehch'ék@
+@she is conscious@|@xó xatndéyh@
+@she is drifting along@|@tayahteel@
+@she is jumping up and down@|@ya'ehshék@
+@she is lying@|@dadelshék@
+@she is making him@|@yech'ehdlox@
+@she is mean@|@wushíi xnét-thet@
+@she is pointing at me@|@sts'í' ts'utéh'ah@
+@she is pregnant@|@ts'enîin él nt'eh@
+@she is present@|@jah deh na'ethet@
+@she is pretty@|@ninsuu@
+@she is putting on make-up@|@na'etnetmenh@
+@she is raising him@|@yetnelsheex@
+@she is scattering it@|@naytetdek@
+@she is scraping a hide@|@ch'ethéth étthox@
+@she is separating the stomach@|@ch'emet ehketl@
+@she is sewing moccasins@|@kentsiith nâanetl'ú@
+@she is Silas' younger sister@|@Silas wudéedz' sínt'eh@
+@she is skating on the ice@|@luu k'et nátéljeyh@
+@she is sliding down@|@xda'eljeyh@
+@she is smart@|@ndaxdinshaa@
+@she is standing right here@|@jah deh na'ethet@
+@she is too lazy to bring@|@tsets ts'í' ts'axdetdîig@
+@she is walking backwards@|@chenent'aagh ts'í' áahaal@
+@she is walking slowly@|@xá' tah aahaal@
+@she left in a huff@|@stá'etdzá'@
+@she moves@|@nindah@
+@she overslept@|@xeelach'uhté'@
+@she pointed at him@|@yits'í' tsutéh'ah@
+@she prayed@|@xexnindeyh@
+@she prays for the well-being@|@dets'inkeey gha dach'udelkét@
+@she promised him@|@yidátl'áxdin'aa@
+@she pulled a rope@|@tl'uul teelúunin'aa@
+@she pulled it out@|@xáyínluuth@
+@she raised her grandchild@|@dechâay nelshaa@
+@she rasied him@|@yinelshaa@
+@she respects my grandfathers@|@stsey iin dihcháax@
+@she rushed at him@|@yits'í' tét-tets@
+@she scorched it@|@laadéluut@
+@she seldom visits me@|@xaatáa tah shee sh'él éedaax@
+@she shrieked away from me@|@shch'áa ésel@
+@she slapped me@|@shneekét@
+@she stayed with us@|@nee'él ghindá'@
+@she walked around on the hill@|@xak'íig lóoníhshah@
+@she went away in ange@|@stá'ilch'éex@
+@she went away in anger@|@stá'ilch'éex@
+@she went to a place@|@xuts'í' téeshaay nídét-'ii@
+@Sheep Creek@|@Demee Ndaag@
+@she's combing it@|@yenehseel@
+@she's digging in the ground@|@nén' egot@
+@she's going to make a potlatch@|@ldîil téhtsii, xtéetíitl@
+@she's skinny because he's sick@|@ehts'iik dá'a ts'enh nelgeyh@
+@shí' gha dach'udelkét@|@she is begging for food@
+@shine the light on me@|@shenihdzeeyh@
+@shiny beads@|@nat-tl'êdz nihkón'@
+@shirt@|@dlaat eek, eek@
+@shock@|@edzíi'@
+@shooting star@|@sén' tsáan'@
+@shore@|@taamâagh@
+@short@|@dink'odl, nink'odl@
+@short distance@|@xnink'odl@
+@short time ago@|@nihkodl dáa'@
+@short-eared owl@|@ch'enishchek@
+@shortening@|@xee@
+@shoveler@|@daaleel, daalemets@
+@shrew@|@tsudaakeey@
+@shrike@|@jîiz maay@
+@sickness@|@ts'iik@
+@side@|@wuts'ey@
+@side by side@|@nilk'eddh@
+@Silas at home@|@Silas shax gha naxaldek@
+@Silas' dog is sleeping too@|@Silas lïig' chí eetee@
+@silverberry@|@nihmá'@
+@similar@|@k'eh@
+@similar to each other@|@nilk'eh@
+@simple@|@shée' k'et'êey@
+@sinew@|@tth'éex@
+@sister's child@|@sh'aaz@
+@sit beside me@|@shk'eddh didhindah@
+@sit by the edge of the cliff@|@xdáag dídhíndah@
+@six@|@nilk'etaag@
+@skeleton@|@dendeh tth'ënn'@
+@skin blanket@|@ch'ethéth ts'ed'@
+@skin stretcher@|@ch'eshítadi'aay@
+@skirt@|@ch'etl'áh théth@
+@sled brake@|@kexnats'él@
+@sled cover@|@xetl théth@
+@sled handlebars@|@xetl tíi@
+@sled runner@|@xetl keetl'aad@
+@sled stanchion@|@xetl dzaad'@
+@sleet@|@ch'et-suux@
+@slept deeply@|@shíi nehté'@
+@slippers@|@kentsiith@
+@slope of a hill@|@teyh k'iig@
+@sloping ridge@|@xuk'iig@
+@slowly@|@xá' tah@
+@small@|@gaay@
+@small amount@|@xá' xuh@
+@small creek@|@ndá'@
+@small falcon that flies fast@|@ttheetsen@
+@snow fleas@|@shétth kadel@
+@snow is slushy@|@shétth nitdzeex@
+@snow on trees fell off@|@dahshêddh na'ál'uuk@
+@snowshoe@|@aayh, ch'ed@
+@snowshoe awl@|@ch'ed@
+@snowshoe drill@|@xnídeltâadh@
+@snowy owl@|@shétth ch'emaa@
+@soaked through with grease@|@xee tlok@
+@sockeye salmon@|@luug delt'el@
+@soft mud@|@leet'ot@
+@soft white sticky pitch@|@dzéex tl'ey'@
+@solar halo@|@kelahdziimiil@
+@sole of my foot@|@shkeetl'áa'@
+@somebody gave him@|@wudaagh' tsetl ni'it-'aa@
+@someone home alone@|@kón' k'ée éedah@
+@someone who looks pitiful@|@teejuh kadilht'eh@
+@someone will bury something@|@chaatsah@
+@something cheap@|@diitlog@
+@something fell in a gap@|@nilk'ée dálneyh@
+@something fermented@|@nit-tsiidl@
+@something funny is happening@|@maa tsaa xal'eh@
+@something inexpensive@|@diitl'og@
+@something is disliked@|@shaa ts'í' néet'ey@
+@something is making noise@|@xédáxdetdéyh@
+@something really crooked@|@net-tth'aagh@
+@something slimy@|@ch'etl'ëey'@
+@something which is divided@|@nildze'alshaay@
+@sorry song sung at potlatch@|@dzeteex ch'eliik@
+@sour@|@tnít-tthúuk@
+@sour fish@|@luug nitsidl'@
+@space between my fingers@|@shinlaagez@
+@spewed out@|@xá'átshos@
+@spherical object@|@ch'exëez'@
+@spirit of someone deceased@|@mink'âadz@
+@split and dried whitefish@|@tsalkeyh@
+@sprout@|@xanihshaa@
+@spruce bark house@|@ch'elaats'eyh shax@
+@spruce roots@|@xeyh@
+@squirrel@|@dlêg@
+@star@|@sén'@
+@start the car up@|@natet-leg nadihk'aayh@
+@starting it up@|@dekk'aayh@
+@stay away from him@|@wuch'á' énn' xedilda'@
+@steel@|@ch'itsiy@
+@stepped in the ditch and fell@|@xosk'ée xu'éddh él xu'althet@
+@stern of a boat@|@ts'eyh tl'á'@
+@stick used for stirring fire@|@gés@
+@stinging nettles@|@guu xoz'@
+@stored my food@|@nîinekchúut@
+@straighten up@|@naxahsú'@
+@strips of meat@|@nat-ttheg@
+@strong (bitter) tea@|@ldîil tatnínts'îig@
+@stuffed it in@|@yeltthúux@
+@stump of branch@|@ch'ethuchenn'@
+@sucker fish@|@tats'aht'ôl@
+@summer@|@sheen@
+@sun@|@saa@
+@sun is shining@|@xesadin'aa@
+@surf scoter@|@taatsáa' ndêl, taatsáa' ndêl@
+@t is rancid@|@tnít-tthúuk@
+@table knife@|@seey tthí'@
+@take a sip from this@|@wuts'enh ch'ilts'eex@
+@take care of it@|@wuk'ánihtá'@
+@take only that one@|@êy shée' unindiih@
+@take some rations along@|@xkéen'@
+@talk a little bit@|@xá' xuh xunhéeyh@
+@talk slowly@|@xá' tah xninhéeyh@
+@Tanana River@|@Tthiitú'@
+@tea pot lid@|@ldîil tiil daadîid@
+@teapot@|@ldîil tiil@
+@telling a joke@|@tsáa dadedlih@
+@tent@|@taathéth@
+@that boat is ours@|@naa ts'eyh neets'en sínt'eh@
+@that dog of ours is old@|@nâan neeliig' átshaan sínt'eh@
+@that is a shirt@|@êy eek sínt'eh@
+@that is enough@|@k'ôd xúu' shee@
+@that one@|@nâan@
+@that one too@|@êy chíh chích'ah le'@
+@that sound is bothering me@|@sh'él nádájéhlaay@
+@that way is okay@|@xú' dé' t'êey@
+@that which is divided@|@nildze'elsheeg@
+@that which is struck@|@ch'elxel@
+@that's actually what I said@|@xúu' ch'e lé' díhney@
+@that's adequate@|@êy t'o xúu' shee'@
+@that's all now@|@k'ôd xú'ushee@
+@that's correct@|@láan ch'e lé'@
+@that's fine@|@dú' kah@
+@that's it!@|@xúu shee!@
+@that's my relative@|@wude'egken sínt'eh@
+@that's okay@|@êy t'o@
+@that's right@|@xú' ch'e le'@
+@that's the way we came@|@xuhndíig ch'e ts'enindedl@
+@thawing@|@ta'udeelet@
+@the baby is crying@|@ts'enîin gaay etsax@
+@the baby is sleeping@|@ts'enîin eeteen gha dadehxeetl@
+@the bank is crumbling@|@meth níideex@
+@the bannock really tastes good@|@léets xunsúu t'êey mexaldéyh@
+@the berries shriveled up@|@jêg natelts'uuts@
+@the best@|@ch'etth'íh shíi nsuu@
+@the bird flew away@|@tsuugaay stanínínt'ek@
+@the black one@|@dat-sey@
+@the boat landed@|@ts'eyh kétl'á'eeláat@
+@the bottom of my moccasin@|@shkentsiith keetl'aa@
+@the boy is dragging wood@|@tsiil tsets nadatluuth@
+@the boy is gathering wood@|@tsiil tsets nehtseyh@
+@the brown one@|@deltthogh@
+@the cache is completely empty@|@dahtsaa shíi díi t'êey kól@
+@the car is broken down@|@aalel etxotl@
+@the car is running@|@natet-leg deek'én'@
+@the caribou are eating moss@|@wudzih ch'inshu' eldiil@
+@the clothes are drying@|@ch'el' nadeltthayh@
+@the cup is empty@|@tuutii wushíi ch'ekôl@
+@the dog bit me@|@lii shíi'él@
+@the dog is jumping around@|@lii ya'etkeyh@
+@the dog is licking its plate@|@lii detth'áag' éhtth'eex@
+@The dog is running@|@lii atdetth@
+@the dogs are barking@|@lii iin xehttheh@
+@the dogs are fighting@|@lii iin le'etxaa@
+@the door is closed@|@nidátníntaa@
+@the duck is flying around@|@dets'ên xâanit-t'ax@
+@the duck is laying eggs@|@dets'ên etxees@
+@the fire started@|@kón' diik'aa@
+@the fire went out@|@kón' natnétdek@
+@the goose is walking around@|@xah natedaak@
+@the gray one@|@delmaay@
+@the ground is bumpy@|@nén' xánéltók@
+@the ground is completely dry@|@xdéeshaak@
+@the handle is curved@|@wutíi' ch'eexót@
+@the house feels cold@|@shax elíh xúnlee@
+@the house is crowded@|@shax shíi xaltl'ét@
+@the house is large@|@shax xuncháax@
+@the ice dissolved in my mouth@|@luut shthaa ta'udeelet@
+@the ice is breaking up@|@luut téedéek@
+@the ice is ready to move@|@tenh téedéek@
+@the ice on the lake shattered@|@menh k'et luut latnaldox@
+@the inside of my check@|@shxostl'aa@
+@The kids are outside shouting@|@Nah'ög ts'inkeey iin xesek@
+@the lake is frozen@|@menh neltenh@
+@the little girl is bashful@|@ts'éhxeh gaay unétshaa@
+@the man is carrying his pack@|@dendeh dexeel' áaxeel@
+@the meat became moldy@|@shí' u'alxáa'@
+@the meat is frozen solid@|@shí' nelts'íi'@
+@the meat is undercooked@|@shí' éltel@
+@the moccasins were resoled@|@wukéjelkáa'@
+@the moose is big@|@dendîig ncháax@
+@the moose ran away from him@|@dendîig yich'á' sta'itdetth@
+@the moss is really dry@|@dlaat deshaak@
+@the old man is bald@|@ch'etey wutthí' kedz xúnlee@
+@the puppy is following him@|@lii gaay yik'eh aahaal@
+@the puppy is running around@|@lii gaay nah'og xa'atdetth@
+@the red one@|@delt'el@
+@the river bank is eroding@|@taxnetlox@
+@the road is bad@|@tey ts'axuntleeg@
+@the rope broke@|@tl'uul k'enéldox@
+@the sewing@|@nanihtl'ú'u@
+@the sky is clear@|@shaa k'et cheltsonh@
+@the snow is deep@|@shéth dínchaax@
+@the snow is melting@|@shétth na'elxee@
+@the soup is cooled off@|@tuuthel nánink'é'@
+@the soup is cooling@|@tuuthel natnetk'é'e@
+@the streams all flow together@|@leeke'udit-leyh@
+@the sun came up the wrong way@|@tadasaaghin'aa@
+@the water is boiling@|@tuu tnelxots@
+@the water is clear@|@tuu nihkón'@
+@the water is cold@|@tuu néek'etth@
+@the water is hot@|@tuu néethel@
+@the wolves are howling@|@tiikâan iin shaxeh'aa@
+@the woman is drying fish@|@ts'éhxeh má' éhgeyh@
+@the wood is crooked@|@tsets détgétth@
+@them@|@xunelt'eh@
+@there are lots of Fairbanks@|@Fairbanks xt'een iin xghindláa@
+@there are many@|@xindláa@
+@there are only men around@|@dendeh saay xúnlee@
+@there are stars in the sky@|@sén shaak'et xúnlee@
+@there is a crunching sound@|@ch'etnelk'on@
+@there is a hill above here@|@yandóg dashée' teyh tée'ah@
+@there is a knocking@|@xdeldón'@
+@there is a lunar halo@|@gheldzeey nakech'etneet'eyh@
+@there is a ring around moon@|@gheldzeey nakech'eneet'eyh@
+@there is foam on the water@|@tuu k'et xunxos xúnlee@
+@there is forest fire@|@nén' díik'aa@
+@there is news about it@|@maa xdek xúnlee@
+@there is no one@|@dendeey kól@
+@there is nothing around me@|@shxghendah ch'ekô1@
+@there was a mud slide@|@léech'aak na'alják@
+@there's nobody at home@|@neeshax dóo t'êey kól@
+@there's nothing@|@ch'ekól@
+@they aer sitting togheter@|@nil'el dixdéltth'ii@
+@they also carry guns@|@k'á' chíh naxtelshíik@
+@they are@|@sínánt'eh@
+@they are afraid@|@xneljet@
+@they are against each other@|@lét'axnéltee@
+@they are already married@|@k'ôd nilxútdíik@
+@they are assembled@|@nilshíi'álsheeyh@
+@they are braiding each other's@|@niltthí' xnéltl'uul@
+@they are busy@|@xaxahsaas@
+@they are crowded in@|@daxnet-t'ots@
+@they are drinking tea@|@ldîil xetnaa@
+@they are eating@|@nach'exe'áal@
+@they are insulted@|@xeenixtétdeek@
+@they are living in Fairbanks@|@Fairbanks xdélttth'ih@
+@they are making baskets@|@k'ii tth'áak xéxaa@
+@they are moving from place@|@naxtetndeek@
+@they are playing@|@xdelxos@
+@they are pointing at you@|@nets'uxettheyh@
+@they are similar in appearance@|@nilts'í' at-t'ee@
+@they are sitting@|@xdélttth'ih@
+@they are standing side-by-side@|@nilk'eddh náxedéex@
+@they are talking to each other@|@nilts'í' xaxat.heeyh.@
+@they are there@|@eedlah, xúh éedlah@
+@they arrived@|@xnindeetl@
+@they breathe@|@xetsheyh@
+@they camped@|@xnéeháal@
+@they carry@|@xiyaa'aal, xiyaakaal, xiyaaleel, xiyaatiil@
+@they gave me the small rocks@|@tthee gaay shtl'áxníndlah@
+@they harnessed up the dogs@|@lii keey iin daxdíndlah@
+@they live away from us@|@neeyaach'á' xdéltth'ih@
+@they look alike@|@nilk'eh eltsii@
+@they look different@|@nilch'ítsédz xélts'ii@
+@they made a potlatch@|@xaxotíitl@
+@they passed each other@|@nilk'etsixghitdeetl@
+@they put the food in center@|@taandîidz tah shí' níxníndlah@
+@they rushed to help him@|@xe'édáldek@
+@they say it is forbidden@|@lá'a ch'e injih xendiix@
+@they scattered@|@stanilxnetdeetl@
+@they're gossiping about s.o.@|@ch'aghaxunheeyh@
+@they're kissing each other@|@nanilxnelts'ú'@
+@they're offering him something@|@daxiyudetken@
+@they're playing@|@xdelxos@
+@they're sleeping@|@xehteets@
+@thigh@|@shxothchonn'@
+@thighbone@|@shxoltth'ann'@
+@thin snowshoe webbing@|@ch'enxet@
+@thin willow stick@|@tedenin'aay@
+@things fall out of his hand@|@mintl'ách'étdaagh@
+@this belongs to her@|@wutsen sínt'eh@
+@this is a brown coat@|@jâan eek deltthogh sínt'eh@
+@this is a kind of mukluk@|@keechotl k'ent'eey sínt'eh@
+@this is a sharp knife@|@jah seey dehk'eyh@
+@this is a young boy@|@jâan tsiil gaay sínt'eh@
+@this is boiling water for tea@|@ldîil gha tuu tnelxodz sínt'eh@
+@this is his@|@wutsen sínt'eh@
+@this is mine@|@jâan ch'e stsen@
+@this is Silla's grandmother@|@Silas wutsuu sínt'eh@
+@this morning@|@k'áhmén' dá'a@
+@this morning it was sunny@|@k'áhmén' dá'a xesaghin'aa@
+@this one is cheap@|@jâan diitlog sínt'eh@
+@this one is mine too@|@jâan ch'e sts'en sínt'eh@
+@this surface is hard@|@jah wuk'et detgek@
+@this way@|@jah dée' suu@
+@thorns@|@xos@
+@those are shirts@|@êy eek sínánt'eh@
+@thoughtful person@|@teejuh ch'uuney@
+@thre is@|@ahlee, ihlee, inlee, nlee, ts'inlee, xinlee@
+@three cornered needle@|@kâay tl'ankaan, natnatk'aay@
+@thunder is rumbling@|@nahten xunheeyh@
+@tie a knot!@|@wuchíi ch'etxêez ihtseyh, wuchii dinihtl'uh@
+@tied it together@|@mech'ekcheth@
+@tip@|@wuchíi@
+@tip of his tail is completely@|@wuche' chíi shée' xdát-seyh@
+@tip of something@|@wuchíi@
+@to camp@|@nédhihháal, nédhinháal, néeháal, ts'enéeháal@
+@to carry@|@ghahtiil, ghihtiil, ghintiil, ts'aatiil, yaatiil@
+@to carry (2)@|@ghekcheth, ghihcheth, ts'aacheth, yaacheth@
+@to carry (3)@|@ghahkaal, ghihkaal, ghinkaal, ts'aakaal, yaakaal@
+@to carry (4)@|@ghahleel, ghihleel, ghinleel, ts'aaleel, yaaleel@
+@toboggan style sled@|@meth@
+@tomorrow morning@|@k'áhmén' dé'@
+@too@|@chích'ah@
+@tool for digging roots@|@chinxos@
+@tool for removing flesh@|@náhtthel@
+@top of my foot@|@shkeet'aag@
+@torso@|@-sék@
+@toward downriver@|@yanadá'a@
+@toward evening@|@xel ts'í'@
+@toward the back@|@yaandíi@
+@toward the fireplace@|@kón' ndêedz@
+@towards noon@|@dzeen ts'í' deg@
+@traditional skin house@|@niimaal shax@
+@traditional stick@|@nach'imaal@
+@trap@|@éel@
+@tree bark@|@ch'elaats'eyh@
+@tree branch@|@ch'elaa'el@
+@Ts'egâag collects dry branches@|@Ts'egâag tth'êy nehtseyh@
+@Ts'egãag has found his matches@|@Ts'egâag dekónn' éxdíh'aa@
+@Ts'egâag is carrying is pack@|@Ts'egâag dexëel' áaxeel@
+@Ts'egâag is eating now@|@ts'sgâag k'ôd nach'e'áal@
+@ts'egâag is hungry now@|@Ts'egâag k'ôd dintsii@
+@Ts'egâag is sleeping@|@Ts'egâag eetee@
+@ts'egâag is smilling@|@ts'egâag tsaaynihthenh@
+@Ts'egâag is thinking@|@Ts'egâag naních'ethet@
+@Ts'egâag kneels on the ground@|@Ts'egâag nén' k'et gót-éh'ah@
+@Ts'egâag puts rocks togheter@|@Ts'egâag tthee ahlet nídéleeyh@
+@Ts'egâag smells the bannock@|@Ts'egâag léets éhtsenh@
+@Ts'egâag walks along the river@|@Ts'egâag tth'iitú' mâagh aahal@
+@Ts'egâagis really hungry@|@ts'egâag loot'ëeyy' díntsii@
+@Ts'egâag's Story@|@Ts'egâag ghah nats'axaldek@
+@turned around@|@xâanitshah@
+@twilight@|@xel t'aagh@
+@type of something@|@k'ent'eey@
+@uncomfortable for me@|@shaa tsadaxudínt'eh@
+@under part of my upper arm@|@shgaantthíi'@
+@underground fish cache@|@tsaa k'ée@
+@underground food cache@|@tsaak'ée@
+@undershirt@|@ch'et'aa eek@
+@uneven@|@xulxos@
+@unforested area@|@chenh@
+@uninhabited village@|@kón' k'ée@
+@unpleasant manner@|@ts'adaxdintleg@
+@unripe@|@ch'inluut@
+@unripe berries@|@ch'inluut@
+@until later@|@tthé' de'ukah@
+@upper body@|@ssék@
+@vagina@|@wutsénn'@
+@velvet on antlers@|@ch'edé' théth@
+@very@|@loot'êe'@
+@walk on this side@|@dists'ey taghinhaa, wusts'ey taghinhaal@
+@walking around beside the lake@|@menh k'eddh lóoghihhaal@
+@waning moon@|@gheldzeey nâa'at-'aa@
+@wash basin@|@taatleex tth'áak@
+@watch out!@|@súu' de'@
+@water@|@tuu@
+@water bug that can fly in air@|@tehtsá'a@
+@water disappeared@|@tuu natét-tsetth@
+@water flooded@|@tuu níihaa@
+@water flows over shallows@|@dees k'et dehleeyh@
+@water is deep@|@texninthaat@
+@water is overflowing@|@tuu na'ílgok@
+@water is shallow@|@texnihk'ôdl@
+@water leaked into the boat@|@ts'eyh shíi tuu níihaa@
+@waxing moon@|@gheldzeey na'ít-'aa@
+@way of talking about potlatch@|@this is a metaphorical@
+@we accidentally met@|@nilts'í' xâats'atdeetl@
+@we are arguing with each other@|@ledadzetxaa@
+@we are descended from them@|@wuts'enh xáts'áltsii@
+@we are eating berries@|@jêg ts'eneldiil@
+@we are fighting@|@lets'etxaa@
+@we are going to the store@|@ch'utkeet shax ts'í' ts'aadél@
+@we are learning our language@|@nee'aandeg' dadzeldíix@
+@we are pointing at it@|@mets'u'ts'ettheyh@
+@we are related to each other@|@nilts'udelken@
+@we are searching@|@mikah nats'eneta'@
+@we are skipping rocks@|@tthee ts'ehk'eeyh@
+@we ask her@|@ts'udehket@
+@we brought him back@|@neeshax nîits'iltee@
+@we camped overnight@|@kón' k'ée ts'enéeháal@
+@we carry@|@ghahcheth, xiyaacheth@
+@we divided them@|@nilk'édzálsh_ah@
+@we gave him the small rocks@|@tthee gaay wutl'áts'enindlah@
+@we killed a moose@|@dendîig ts'edhehxee@
+@we killed caribou@|@wudzih ts'inxaa@
+@we will meet again@|@nanilts'étnal'íil@
+@we will meet again tomorrow@|@k'ahdaadé' nanilts'étnal'íil@
+@weather is hot@|@xnéethel@
+@well cooked meat@|@shí' tnetlog@
+@went off@|@k'á' téldek@
+@we're hunting for caribou@|@wudzih de'ukah nats'elséex@
+@we're telling each other story@|@nil'él nats'exaldek@
+@what a small amount!@|@díi gaay ch'e t'ih'en!@
+@what are they doing?@|@nts'éxéde'e?@
+@what are you cooking?@|@díi ch'e ihmeedz?@
+@what are you doing?@|@nts'é t'inde'e?@
+@what are you going to do with@|@nts'é' tedhih'e'?@
+@what are you going to do?@|@nts'é' tedhindé'?@
+@what are your plans?@|@nts'é' tindii?@
+@what area are you from?@|@ndée xt'een inlee?@
+@what do you do all day?@|@dzeen uudíh nts'é t'índe'e?@
+@what do you see?@|@díi níh'eh?@
+@what does it look like to you?@|@nts'é ná'éltsii?@
+@what does your shirt look like@|@n'ëeg' nts'é éltsii?@
+@what else do you see?@|@díi chíh níh'eh?@
+@what else do you want?@|@díi chíh eyninthenh?@
+@what happened to you?@|@nts'é t'ítshaak?@
+@what happened?@|@nts'é' xútshaak@
+@what is he cooking?@|@díi ch'e eht'êedh?@
+@what is his name?@|@nâan nt'sé miisí'?@
+@what is Silas doing?@|@Silas nts'étde'e?@
+@what is that person's name?@|@naan nt'sé miisí'?@
+@what is that plant called?@|@naa nesheegh, nsts'é xiyusiix?@
+@what size is it?@|@ndóxk'e ghihchaax?@
+@what were you doing@|@nts'é' t'índe'@
+@What you see in the sky?@|@díi yaa k'et níh'eh?@
+@what's his grandmother doing?@|@wutsuu nts'étde'e?@
+@what's the boy doing?@|@tsiil gaay nts'étde'e?@
+@what's your name?@|@nts'é nuusi'?@
+@when are you returnin@|@ndée dé' jah nîitindaal@
+@when are you returning here?@|@ndée dé' jah nîitindaa?@
+@when did you arrive here?@|@ndée dá'a jah nininshah?@
+@where are my matches?@|@shkónn' nt'ïh?@
+@where are you from?@|@ndée xt'een inlee?@
+@where could I get dry spruce?@|@ndéeg ts'enh tth'êy ughuhdiih?@
+@where did you put the box?@|@chenhtiil ndée nínín'aa?@
+@where do you usually stay?@|@ndée índaax?@
+@where is your belt?@|@nthédh' nt'ih?@
+@whiskers@|@minchedl' xá'@
+@white-winged scoter@|@ndêl@
+@who all is sitting next to you@|@dóo iin nk'eddh dixdéltth'ih?@
+@who are these people?@|@jâan dóo in ch'ent'eey?@
+@who is this?@|@jâan dóo ch'ent'eey?@
+@Who put this sand here?@|@Dóo ch'e thaayh jah di'endel?@
+@why did you ask me?@|@díi gha shúdihkét@
+@wild rose@|@xos t'äa'@
+@will go@|@taahaal, tahdel, tihhaal, tinhaal, ts'aadel, xtaadel@
+@willow branches@|@k'aaz tsets@
+@willow ptarmigan@|@k'étmah@
+@willow roots@|@k'éy xêyy'@
+@willow stick@|@tedenin'aay@
+@wind comes and goes@|@xâa'elts'eyh@
+@winter coat@|@xey eek@
+@wolves are crying@|@tiikâan iin tsaxdelxos@
+@wolves look like dogs@|@tiikaan lii k'eh t'êey eltsii@
+@women wear dresses@|@ts'éhxeey iin eek naxdelshax@
+@women's daughter-in-law@|@shchâay@
+@wood@|@tsets@
+@wood chips@|@tsets ttheel'@
+@wood frog@|@naaxey@
+@wood is drifting along@|@tsets tadaaleel@
+@wood is heaped up@|@tsets xatnaldók@
+@wood os laying beside fire@|@tsets kón' mâagh déedlah@
+@wooden club@|@dechenh xel'@
+@worm@|@guu@
+@worn out@|@wugha dach'inch'el@
+@wounded animal@|@nahkaay@
+@woven basket@|@tth'áak ét-tl'uun@
+@write@|@ch'etnetl'éts, ch'etnihtl'éts, ch'etnintl'éts@
+@write (1)@|@ch'axtnetl'éts, ch'etnahtl'éts, ts'eytnetl'éts@
+@wrong way!@|@k'á xúu'@
+@xdelxos@|@they're playing@
+@xosk'ée@|@a hole in the ground@
+@yawm@|@xetháat@
+@yawn@|@ahtháat, etháat, ihtháat, intháat, ts'etháat@
+@yellow@|@deltthogh@
+@yellow warbler@|@k'elaxdihtsogh@
+@yellow-jacket@|@ch'elahdziid@
+@yellowlegs@|@dees ney@
+@Yerrick Creek@|@Dachi'1ndêedl Ndiig@
+@yes@|@aa@
+@yesterday@|@k'ahdaa dá'a@
+@yolk@|@ch'exeestthiig'@
+@you@|@nen@
+@you (more than one)@|@nuhxon@
+@you all are pointing at it@|@mets'u'ahttheyh@
+@you all sit here around me@|@jah shghendah didédhaltth'ih@
+@you are bending it@|@nanihxót@
+@you are bending over@|@xanén' inttheyh@
+@you are conscious@|@xól xghutndéyh@
+@you are filing your fingernail@|@ninlagey' ínk'aax@
+@you are jumping up and down@|@ya'ihshek@
+@you are making a dipnet@|@éth íntl'uh@
+@you are pointing at it@|@mets'u'inttheyh@
+@you ask me@|@shudihket@
+@you build a fire@|@kón' nádíhk'aayh@
+@you camped (pl)@|@nédhaháal@
+@you can never say that@|@k'á t'êey xú' tdíndíil@
+@you feed all of those people@|@xunelt'êey iin ech'ih'aal@
+@you found it for yourself@|@mexdil'aa@
+@you gave us the small rock@|@tthee gaay neetl'áníndlah@
+@you give me the coats@|@eek shtl'á'indlah@
+@you go home!@|@tâaghindaal@
+@you guys be quiet!@|@dádháhne?y@
+@you have a cold@|@koth t'iníláak@
+@you hit me@|@shídhiihgót@
+@you keep@|@dhindlah@
+@you knock@|@xdihdón'@
+@you light a fire@|@kón' nádíhk'aayh@
+@you mended them@|@wukéjédhihkáa'@
+@you poor thing!@|@te'injuh@
+@you probably won't see me@|@k'á shníh'îil súle'@
+@you refuse it@|@wuts'í' tnin'en@
+@you say@|@diinih@
+@you say to him@|@medíinih@
+@you say to me@|@shedíinih@
+@you say to them@|@xuu'edíinih@
+@you scratched me@|@nihts'ét@
+@you see me@|@shnih'eh@
+@you should remember this@|@jâan eghuldéyh de'@
+@you sound funny@|@tsaa dadiht'eh@
+@you sound funny to me@|@shaa tsaa dadindlih@
+@young@|@gaay@
+@young boy@|@tsiil gaay@
+@young girl@|@ts'éxeh gaay@
+@young growth@|@k'éy' jiits@
+@young people@|@ch'ilkeey@
+@younger@|@ch'ek'eetl'aan@
+@youngest in the family@|@ch'etl'aataay@
+@your house@|@nshax@
+@you're sitting near your mate@|@ntlee aaxáh dídhíndah@
+@yours@|@ntsen@
+

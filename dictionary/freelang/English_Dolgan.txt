@@ -1,0 +1,440 @@
+@English@|@Dolgan@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a little@|@bosko@
+@a man's wife's younger sister@|@balys@
+@about@|@haga@
+@above@|@örüte@
+@acid@|@ahý@
+@additionally@|@ebï@
+@all@|@bar, bary@
+@amble@|@is-@
+@an ending of the 2d person@|@-ng@
+@angle@|@mung, munnuk@
+@archness@|@tüökün@
+@ashes@|@kül@
+@autumn@|@kühün@
+@back@|@köksü@
+@barren@|@kytarak@
+@be helpful@|@tuha-lä-@
+@beetle@|@komurduos@
+@before@|@iligine@
+@belt for fastening loads@|@ötü@
+@berry@|@ahylyk@
+@big@|@ulakan, ulü@
+@birch bark@|@tuos xä@
+@birch tree@|@katyng@
+@bird-seed@|@menge@
+@black@|@kara@
+@blood@|@kän@
+@blue@|@küök@
+@bone@|@onguok@
+@bosom@|@konnok@
+@bow@|@hä, sä@
+@branch@|@mutuk, talak@
+@break into small pieces@|@kakryj-@
+@breast@|@tüös@
+@breast (fem.)@|@emij@
+@burn@|@ubaj-@
+@butter@|@arý@
+@button@|@timek, timëk@
+@camping-site@|@hurt@
+@cap@|@bergehe@
+@cape@|@tumus@
+@carry on back@|@yrdä-@
+@cheek@|@hyngäk@
+@claw@|@tyngyrak@
+@cloud@|@bylyt@
+@coal@|@kömör@
+@cold@|@tymný@
+@compassionate@|@amarak@
+@courage@|@hürek@
+@craftsman@|@üs@
+@crush@|@ogus-@
+@curse@|@kyrä-@
+@deep into@|@batary@
+@deer@|@taba@
+@dew@|@hïk@
+@different@|@egin-egin@
+@distant@|@yräk@
+@distribute@|@üllehin-@
+@diverse@|@engin-engin@
+@dog@|@yt@
+@drag out@|@orö-@
+@drill@|@ieregej@
+@dry@|@kuränak@
+@duck@|@kus@
+@ear@|@kulgäk@
+@earth@|@buor@
+@edge@|@kyrý, uhuk@
+@egg@|@hymýt@
+@elder brother's wife@|@hangas@
+@enemy@|@östök@
+@evening@|@kiehe@
+@everything old@|@ötök@
+@evil@|@aný@
+@eye@|@karak@
+@eyebrow@|@käs@
+@fat@|@emis, hya@
+@father@|@aga@
+@feather@|@tü@
+@file@|@igï, igï@
+@fire@|@uot@
+@fish@|@balyk@
+@flour@|@burduk@
+@fly@|@haksyrga@
+@foal@|@tugut@
+@foot@|@atak, halbax@
+@for the sake of@|@ihin@
+@forehead@|@hüs@
+@foundation@|@törüt@
+@four@|@tüört@
+@freeze@|@tong-@
+@frozen@|@tong@
+@full@|@toloru, tot-, tuol-@
+@gather@|@terij-@
+@gift@|@belek@
+@girl@|@kýs@
+@glowing coals@|@huos@
+@glue@|@hilim@
+@go astray@|@mun-@
+@god@|@tangara@
+@good@|@ötüö@
+@good fortune@|@kut@
+@goose@|@käs@
+@grandfather@|@ehe@
+@grass@|@ot@
+@hail@|@tolot@
+@hair@|@as@
+@handle@|@up@
+@handsome@|@üchügej@
+@happen@|@uobu@
+@hard@|@kytänak@
+@have compassion@|@ahyn-@
+@hawk@|@kýrt@
+@he@|@gini@
+@head@|@menï@
+@head of an arrow@|@bürges@
+@head of reindeer@|@bas, battak@
+@heat@|@kunäs@
+@heavy@|@yara-kan@
+@help@|@kömö@
+@herd@|@üör@
+@high above@|@ühe, üöhe@
+@high wind@|@tibï@
+@hill@|@kyrdal@
+@hit@|@it-, üt-@
+@hoar-frost@|@kyrya@
+@hole@|@ana, anak@
+@hoof@|@tunak@
+@horn@|@muos@
+@horse@|@at@
+@host@|@ichchi@
+@howl@|@uluj-@
+@hundred@|@hüs@
+@hungry@|@ach-chyk@
+@I@|@min@
+@ice@|@büs@
+@in the direction of@|@kotun@
+@interior of smth.@|@is@
+@joint@|@hühüök@
+@knee@|@tobuk@
+@knife@|@bï@
+@knot@|@tümük@
+@ladle@|@komuos@
+@lair@|@ïn@
+@lake@|@küöl@
+@land@|@hir@
+@language@|@tyl@
+@larch-tree@|@tït@
+@last year@|@bylyr@
+@leaf@|@hebirdek@
+@lips@|@uos@
+@little@|@kuchchuguj, küchchügüj@
+@liver@|@byar@
+@long@|@uhun@
+@long of time@|@ör@
+@lower side@|@alyn@
+@make@|@ongor-@
+@male@|@irgek@
+@male reindeer@|@bür@
+@many@|@ügüs@
+@marrow@|@hünnü@
+@meal@|@as@
+@meat@|@et@
+@metaphor@|@tüngehe@
+@mighty@|@bert@
+@mild@|@hymna-gas@
+@mole on the face@|@meng@
+@morning@|@harsyn@
+@morning and evening dawn@|@im@
+@mother@|@ine@
+@mountain@|@kaja@
+@mountain forest@|@his@
+@moustache@|@bytyk@
+@move down@|@tüs-@
+@naked@|@hygynnak@
+@name@|@ät@
+@near@|@chugas, hugas@
+@necessity@|@kerek@
+@neck@|@muoj@
+@needle@|@ine, ingne, inne@
+@nest@|@uja@
+@net@|@ilim@
+@night@|@tün@
+@nomadizing@|@kös@
+@nose@|@munnu@
+@not to reach@|@ärä-@
+@not yet@|@ilik, ilin@
+@now@|@any@
+@on the other bank@|@onguor@
+@one@|@bir, bïr@
+@one of a pair@|@angar@
+@opposite@|@utary@
+@originate@|@törö-@
+@orphan@|@tuläjak@
+@other@|@atyn@
+@outer side@|@tas@
+@own@|@gien@
+@ox@|@ogus@
+@path@|@orok@
+@peg@|@erbek, erbek@
+@pellicle@|@harý@
+@people@|@kihi@
+@permission@|@köngül@
+@picture@|@ojü@
+@pike@|@hordong@
+@pillow@|@hyttyk@
+@place@|@onnu@
+@plain@|@alý, alyn@
+@plait@|@örü@
+@plane@|@huor-@
+@play@|@ya-hak@
+@poem@|@kohön@
+@pop up@|@köbüj-@
+@power@|@küs@
+@pregnant of animals@|@buos@
+@pus@|@irenge@
+@rain@|@hamýr@
+@red@|@kyhyl@
+@relatives@|@urü@
+@remain@|@käl-@
+@resin@|@yas@
+@retaliation@|@kar-da@
+@rich@|@bäj, bäjdak, bäjdyk@
+@rise@|@ün-@
+@road@|@huol@
+@roe@|@istek@
+@rope@|@bya@
+@run@|@hür-@
+@sable@|@kïs, üs-kis@
+@saddle@|@yngýr@
+@salt@|@tüs@
+@sand@|@kumak@
+@satiated@|@bögök@
+@scissors@|@kyptyj-@
+@scraper@|@kyhyak@
+@sealine@|@kyl@
+@servant@|@kulut@
+@seven@|@hette@
+@shadow@|@külük@
+@sharp@|@hytý@
+@shoot@|@yt-@
+@short@|@kylgas@
+@shoulder@|@kol@
+@side@|@örüt, öttü, tus@
+@signed@|@imnëk@
+@sin@|@hýs-@
+@sinew@|@ingïr@
+@skin@|@tirï@
+@skis@|@kanyhar, känyhar, xähar@
+@sky@|@kallän@
+@sleeve@|@hiek, hien@
+@small@|@kyra@
+@smell@|@hyt@
+@smoke@|@buruo, ýs@
+@snow@|@kär@
+@son@|@uol@
+@song@|@yrya@
+@son-in-law@|@kütüö@
+@sorrow@|@kyhalga@
+@sound@|@hanga@
+@South@|@sogurü@
+@sow@|@ys-@
+@speech@|@ös@
+@spirit@|@týn@
+@split@|@sar-käk@
+@spring@|@häs@
+@squirrel@|@tïng@
+@stable@|@bige@
+@star@|@hulus@
+@steep bank@|@hýr@
+@stir up@|@bulkuj-@
+@stone@|@täs@
+@store-room@|@arangas@
+@strong@|@tyng@
+@strong wind@|@tyal@
+@stump@|@töngürges@
+@suffering@|@mung@
+@summer@|@hajyn@
+@sun@|@kün@
+@swan@|@kuba@
+@swear@|@üök-@
+@swelling@|@is@
+@swift@|@tehï@
+@swim@|@karbä-, uhun-@
+@that@|@ol@
+@the essential part@|@üös@
+@there is@|@bär@
+@there is not@|@huok@
+@thigh@|@büt@
+@thin@|@hinniges@
+@thirty@|@otut@
+@this@|@bu, i-ti, mun-@
+@thou@|@en@
+@tie to@|@kat-@
+@to annoy@|@kyjnga-@
+@to ask@|@yjyt-@
+@to bathe@|@hötüölë-, hütöl-@
+@to be@|@e-, er-@
+@to be lost@|@hüt-@
+@to be satisfied@|@kan-@
+@to be seen@|@köhün-@
+@to bead@|@tis-@
+@to become@|@buol-@
+@to become old@|@kyryj-@
+@to bend@|@iek-@
+@to bind@|@bä-j-, hü-lä-@
+@to bite@|@ystä-, ytyr-@
+@to blow@|@ür-@
+@to blow of a snowstorm@|@tip-@
+@to boil@|@kyjnar-, kýjnar-@
+@to bow@|@ököj-@
+@to breathe@|@týn-@
+@to bury@|@köm-@
+@to come@|@kel-@
+@to cover@|@hap-, kappaktä-@
+@to cut@|@bys-@
+@to dawn@|@hyrdä-@
+@to die@|@öl-@
+@to dig@|@kas-@
+@to drag@|@hohun-@
+@to draw near@|@hugahä-@
+@to dream@|@tühë-, tül@
+@to drink@|@is-@
+@to drive away@|@ür-@
+@to dry off@|@uol-@
+@to eat@|@as-, hie-@
+@to embrace@|@küs-@
+@to end@|@büt-@
+@to enter@|@kïr-@
+@to fight@|@karys-@
+@to find@|@bul-, taptar-@
+@to fly@|@köt-@
+@to forget@|@umun-@
+@to frighten@|@ürg-üt-@
+@to give@|@bier-@
+@to go apart@|@targat-@
+@to go away@|@ära-k-@
+@to go by@|@äs-@
+@to go through@|@tobul-@
+@to grasp@|@tut-@
+@to grow@|@ït-, ït-@
+@to hang@|@tart-@
+@to harness@|@kölüj-@
+@to hear@|@ihilin-, ihit-@
+@to hide@|@kistë-@
+@to imitate@|@ütügün-@
+@to jump@|@atyllä-, ekkirë-, oj-@
+@to kill@|@kyj-, ölör-@
+@to know@|@bil-@
+@to lean@|@tajan-@
+@to let@|@byrak-@
+@to lick@|@halan-@
+@to look out@|@byk-@
+@to love@|@tap-tä-@
+@to make@|@gyn-@
+@to make holes@|@tes-@
+@to melt@|@ir-@
+@to migrate@|@kös-@
+@to overpower@|@kot-@
+@to pacify@|@buoj-@
+@to patch@|@hamä-@
+@to pick out@|@ong-@
+@to play@|@önnö-@
+@to pour out@|@tok-@
+@to press@|@battä-@
+@to prop@|@öjön-@
+@to push@|@kep-@
+@to put on@|@tang-@
+@to rake@|@kürt-@
+@to reach@|@hit-, tïj-@
+@to read@|@äk-@
+@to rejoice@|@itiriktë-, üör-@
+@to remember@|@ahyn-@
+@to revive@|@tillij-@
+@to rize@|@mïn-@
+@to roast meat@|@üöl-@
+@to run away@|@kürë-@
+@to say@|@die-, et-@
+@to scratch with a hoof@|@tabyn-@
+@to see@|@kör-@
+@to sell@|@at-@
+@to send@|@ýt-@
+@to sew@|@tik-@
+@to shamanize@|@algä-, kamnä-@
+@to shame smb.@|@hätynnar-@
+@to shear@|@kyryj-@
+@to sit@|@olor-@
+@to skin@|@kastä-@
+@to sleep@|@hyt-, utuj-@
+@to smear@|@bis-@
+@to stand@|@tur-@
+@to steal@|@uor-@
+@to stick into@|@katä-@
+@to swim@|@hü-j-@
+@to take@|@yl-@
+@to tear off@|@hül-@
+@to turn round@|@tier-@
+@to wait@|@küt-@
+@to walk@|@bar-, hyryt-@
+@to wipe out@|@hot-@
+@tooth@|@tïs@
+@top of head@|@töbö@
+@touch@|@týt-@
+@towards@|@dieri@
+@tramp@|@tep-@
+@tree@|@mas@
+@truth@|@kirdik@
+@tundra@|@tya@
+@turn one's back towards smb.@|@arga-lä-@
+@two@|@ikki@
+@upper rib@|@ojogos@
+@uproot@|@kongor-@
+@urine@|@ïk@
+@use@|@tuhan-@
+@vein@|@tymyr@
+@walk@|@käm-@
+@warm@|@hyläs, ichiges, itï@
+@water@|@ü@
+@we@|@bihigi@
+@which@|@kaja@
+@while@|@sagyna@
+@white@|@ürüng@
+@who@|@kim@
+@wide@|@kieng@
+@willow@|@üöt@
+@window@|@tünnük@
+@wing@|@kynat@
+@winter@|@kyhyn@
+@wolf@|@börö@
+@wolverine@|@hiegen@
+@woman@|@tyhy@
+@wound@|@bäs@
+@X times@|@kat@
+@year@|@hyl@
+@yellow@|@haha-r-@
+@young@|@hanga, hingil@
+@young of a wild animal@|@ünüges@
+@younger brother@|@ini-bï@
+

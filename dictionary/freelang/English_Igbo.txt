@@ -1,0 +1,619 @@
+@English@|@Igbo@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@100@|@nari@
+@1000@|@puku@
+@200@|@nari ibua@
+@21@|@ogu na ofu@
+@22@|@ogu na abua@
+@23@|@ogu na ato@
+@24@|@ogu na ano@
+@25@|@ogu na ise@
+@26@|@ogu na isii@
+@27@|@ogu na asaa@
+@28@|@ogu na asato@
+@29@|@ogu na itenani@
+@30@|@ogu na ili@
+@300@|@nari ato@
+@31@|@ogu na ili na ofu@
+@32@|@ogu na ili na abua@
+@33@|@ogu na ili na ato@
+@34@|@ogu na ili na ano@
+@35@|@ogu na ili na ise@
+@36@|@ogu na ili na isii@
+@37@|@ogu na ili na asaa@
+@38@|@ogu na ili na asato@
+@39@|@ogu na ili na itenani@
+@40@|@ogu abua@
+@400@|@nari ano@
+@50@|@ogu abua na ili@
+@500@|@nari ise@
+@60@|@ogu ato@
+@600@|@nari isii@
+@70@|@ogu ato na ili@
+@700@|@nari asa@
+@80@|@ogu ano@
+@800@|@nari asato@
+@90@|@ogu ano na ili@
+@900@|@nari itenani@
+@a car@|@ugbo ala@
+@a lot of rain will fall@|@nnuku mmiri ga-ezo@
+@a past continuous action@|@-bu, -bü@
+@about@|@maka@
+@action in the past@|@-ra, -re, -tara, -tere@
+@add@|@tinye@
+@adding up@|@mgbakö@
+@addition@|@mgbakö@
+@aeroplane@|@ugbo elu@
+@afternoon@|@ehihie@
+@airplane@|@ügbö elu, ügbö elu@
+@all@|@dum, ncha, niile@
+@alphabet@|@onwu@
+@also@|@-kwazi, kwaa@
+@and@|@nà@
+@and is cold in the night@|@ma na-adï oyi na abalï@
+@anglican@|@onye anglican, onye anglican@
+@animal@|@anü@
+@April@|@onwa-iri@
+@arm@|@agbe aka@
+@as@|@ka@
+@as well@|@-kwazi@
+@at@|@n', na@
+@at the office@|@na ülö ölü@
+@August@|@onwa-abö@
+@bad@|@njö, öjöö@
+@bag@|@akpa@
+@banana@|@ogede@
+@be@|@bü@
+@be present in location@|@nö@
+@be tasty@|@törö ütö, törö ütö@
+@beans@|@agwa@
+@beautiful@|@mma, öma@
+@bed@|@akwa@
+@bedroom@|@obu@
+@beer@|@mmanya@
+@below@|@n'okpuru@
+@beside@|@n'akükü@
+@big@|@ukwu@
+@billion@|@ijeri@
+@black@|@oji, ojii@
+@black man@|@onye ojii@
+@bless@|@gözie@
+@blue@|@atülü, blu@
+@boat@|@ügbö mmiri, ügbö mmiri@
+@body@|@ahü@
+@book@|@akwukwo ogugu@
+@book seller@|@ore akwükwö@
+@boss@|@oga, onye isi@
+@brain@|@uvuru íshì@
+@breakfast@|@nrï ütütü@
+@bring@|@kpörö@
+@Bring garri worth of 7 naira@|@Weta garri naira asaa@
+@bring in@|@weta, weta@
+@Bring more soup@|@Tinyekue ofe@
+@Bring your plate@|@Weta afere@
+@brings an action to completion@|@-ta@
+@broom@|@azïza@
+@brother@|@nwa nne nwoke, nwa nne nwoke, nwannam, nwannem, nwannenwoke@
+@bury@|@ili@
+@bush@|@ohia@
+@bush animal@|@anü öhïa@
+@bush meat@|@anü öhïa@
+@but@|@mana@
+@buy@|@gota, züö, züö@
+@buyer@|@özü ahïa, özü ahïa@
+@bye@|@kodi@
+@bye-bye@|@kodi@
+@car@|@ügbö ala@
+@carry@|@buru, buru@
+@carry on one's back@|@kwö@
+@cassava@|@jiakpu@
+@catholic@|@onye catholic@
+@ceiling@|@silin@
+@center@|@etiti@
+@chair@|@oche@
+@chew@|@ta, ta@
+@chicken@|@okuko, ökükü@
+@child@|@nwa, nwanta kïrï, nwatakiri@
+@children@|@umu aka, umuaka@
+@chop house@|@ülö oriri@
+@christian@|@onye üka@
+@church@|@üka, ulo uka@
+@clay pot@|@ìte ája@
+@clean@|@öcha, ücha@
+@clock@|@elekere@
+@close@|@nso@
+@close to home@|@ndiuno@
+@cloth@|@akwa@
+@clothes@|@akwa, uwe@
+@cloud@|@urukpu, urukpu@
+@coconut@|@aku oyibo@
+@cocoyam@|@ede@
+@cold@|@oyi, oyi@
+@come@|@bïa@
+@come from@|@si@
+@Come inside customer@|@Bata n'ime onye ahïa@
+@completed action@|@-la, -le@
+@completed the action@|@-go@
+@completing the action@|@-bago@
+@conumdrum@|@gwámgwàmgwám@
+@cook@|@sie@
+@corn@|@öka@
+@count@|@ögügü@
+@cow@|@ehi@
+@crawfish@|@àyiyà@
+@cray fish@|@okporo@
+@cry@|@bee@
+@cupboard@|@akpatï nrï@
+@customer@|@onye ahïa, onye ahïa@
+@dawn@|@ütütü@
+@day@|@üböchï@
+@daytime@|@ehihie@
+@December@|@onwa-asaa, onwa-isii@
+@denomination@|@okpukpe@
+@development agency@|@ndï mmepe obodo@
+@dismiss@|@gbasaa@
+@disturbance@|@nsogbu@
+@Do you have beans?@|@I were agwa?@
+@do you speak english?@|@ï na-asü bekee?@
+@Do you want meat?@|@Ï chörö anü?@
+@doctor@|@dibïa oyibo@
+@dog@|@nkita@
+@Don't touch me there!@|@E metu nam ebe ahu!@
+@don't worry@|@esogbuna@
+@Don't worry; bring the garri@|@Esogbuna; weta garri@
+@door@|@akwü, uzo@
+@down the road@|@ndïda@
+@drink@|@mmanya@
+@driv@|@nyaa@
+@drive@|@nyaa@
+@dry season@|@ököchï@
+@duck@|@öbögwü@
+@each@|@dum, niile@
+@early dawn@|@üzö@
+@ears@|@nti@
+@earth@|@ajali, ala@
+@edge@|@akükü@
+@education@|@mmuta akwukwo@
+@eight@|@asato@
+@eighteen@|@ili na asato@
+@electricity@|@ökülatrïk, vökülatrïk@
+@elephant@|@enyi@
+@eleven@|@ili na ofu@
+@English@|@bekee@
+@enter@|@bata@
+@europe@|@obodo bekee@
+@every@|@dum, niile@
+@expect@|@lee anya@
+@expensive@|@oke ölü@
+@eyes@|@anya@
+@fall ill@|@rïa örïa@
+@family@|@ezi n'ülö, ndï be@
+@far from home@|@ndiagu@
+@father@|@nna@
+@February@|@onwa-asatö@
+@female child@|@nwá nwányi@
+@fetch@|@kuta@
+@fifteen@|@ili na ise@
+@finger@|@mkpisi aka, mkpuru aka@
+@fire@|@ökü@
+@first@|@mbü@
+@fish@|@azü@
+@five@|@ise@
+@floor@|@ala@
+@food@|@nri@
+@foot@|@okpa@
+@fork@|@mkpisi@
+@four@|@ano@
+@fourteen@|@ili na ano@
+@friend@|@ényì@
+@future action@|@ga@
+@garden egg@|@áñàra@
+@garden eggs@|@afüfa@
+@genuine@|@ezi@
+@girl@|@nwata nwanyi@
+@give@|@nye@
+@Give me water@|@Nye m mmiri.@
+@go@|@gaa, gaba@
+@go early@|@ma üzö@
+@goat@|@ewu@
+@god@|@chukwu@
+@God@|@Chi@
+@good@|@mma, öma@
+@good afternoon@|@ehihie öma, ezigbo efife, imela efife@
+@good behaviour@|@ezi omume@
+@good day@|@ezigbo ubosi, ubosi oma@
+@good evening@|@ezigbo mgbede@
+@good man@|@ezigbo nwoke@
+@good morning@|@ezigbo ututu, isala chi, ütütü öma@
+@good night@|@anyasi oma, ezigbo anyasi@
+@goodbye@|@ka omesia or ka odi@
+@good-bye@|@ka e mesïa@
+@Good-bye; till next time@|@Ka e mesïa; ka odi oge özö@
+@good-evening@|@abalï öma@
+@good-morning@|@ï bölachï, ütütü öma@
+@good-morning to you@|@ütütü öma nke gï.@
+@goodnight@|@ka chi foo@
+@grade@|@clasï@
+@green leaves@|@akwukwo ndu@
+@ground@|@ala@
+@group@|@ndï@
+@hair@|@ntutu@
+@half@|@ökara@
+@hand@|@obo aka@
+@handbag@|@àkpa nseláka@
+@handwriting@|@áka ákwukwo@
+@happy@|@anülï@
+@happy easter@|@añuli easter@
+@happy new year@|@añuli arö öfüü@
+@harmattan period@|@oge ugürü@
+@Have it@|@Were ya@
+@have the quality of@|@dï, dï be@
+@hawk@|@egbe@
+@he@|@o, ö, ya@
+@he saw a cup@|@o huru iko@
+@head@|@isi@
+@head-ache@|@isi mgbu@
+@hear@|@nü@
+@height@|@elu@
+@help@|@nye aka@
+@her@|@ya@
+@her husband@|@di ya@
+@herbs@|@akwükwö ögwü@
+@here@|@ebea@
+@hill@|@ugwu@
+@his@|@ya@
+@hold@|@jide@
+@home@|@uno@
+@hospital@|@ülö ögwü@
+@hot@|@ökü, ökü, vökü@
+@hotel@|@ülö oriri@
+@hour@|@elekere@
+@house@|@ulo@
+@how@|@kedu, olee@
+@how are you?@|@kedu@
+@How do you sell meat?@|@Olee etu i si ere anü?@
+@How is the weather today@|@Olee maka üböchï taa@
+@how is the weather today?@|@olee maka üböchï taa?@
+@how many@|@alo, ole, one@
+@how much@|@ego ole@
+@How much do I owe you@|@Ego ole ka m ji gï@
+@How much?@|@Ego ole?@
+@hundred@|@narï@
+@husband@|@di@
+@I@|@m, mü@
+@i am fine@|@ö dï mma, odi mma@
+@i am going to work@|@ana m aga ölü@
+@i am working in gra@|@ana m alü ölü na gra@
+@i come from europe@|@esi m na obodo bekee@
+@i have come to work@|@abïara m ïlü ölü@
+@I live@|@ebi m@
+@Igbo@|@Asusu Igbo@
+@igbo man@|@onye igbo@
+@ìgbo world@|@uwa ndi ìgbo@
+@in@|@n', na@
+@inside@|@n'ime@
+@instead of@|@kama@
+@intend to@|@chörö@
+@intensification of the action@|@-lu@
+@interior@|@ime@
+@iron@|@igwe@
+@it@|@o, ö, ya@
+@it is a bed@|@o bu akwa@
+@it is a cup@|@o bu iko@
+@it is a monkey@|@o bu engwe@
+@it is a pot@|@o bu ite@
+@it is a rat@|@o bu oké@
+@it is an egg@|@o bu akwá@
+@it is hot in the day@|@ö na-adï ökü na oge ehihie@
+@it is rainy season@|@ga-bü udu mmiri@
+@it will be the dry season@|@mesïa; aga-ewe ököchï@
+@January@|@onwa-asaa@
+@jesus christ@|@jesu kristi@
+@join@|@nonye@
+@journey@|@njem@
+@July@|@onwa-mbu@
+@June@|@onwa-iri na atö@
+@kerosine@|@nmanü-ökü@
+@key@|@igodo@
+@kill@|@gbu@
+@kind@|@üdï@
+@kind of fruit@|@àhu ényi, udarà@
+@king@|@eze@
+@kitchen@|@usekwu@
+@kolanut@|@öjï igbo@
+@leaf@|@akwukwo@
+@learn@|@müö@
+@left@|@ekpe@
+@leg@|@ukwu@
+@lesson one@|@íhe omum nké mbu@
+@library@|@ülö akwükwö@
+@life@|@ndu@
+@like@|@ka so@
+@lion@|@agu@
+@little girl@|@nwata kïrï nwanyi@
+@live@|@bi, bi@
+@living-room@|@mbara@
+@location@|@ebe@
+@long@|@ogologo@
+@long time no see@|@ote kwana@
+@lord@|@chineke@
+@lot@|@nnuku@
+@madam@|@nne@
+@make@|@mee@
+@make a plea@|@kpee@
+@man@|@nwoke@
+@manner@|@etu@
+@many@|@nnuku@
+@March@|@onwa-itolu@
+@market@|@ahia@
+@market day@|@nkwo@
+@master@|@oga@
+@May@|@onwa-iri na otu@
+@maybe@|@ike kwe@
+@me and you carry him@|@mü na gï buru ya@
+@meat@|@anü@
+@medicine dealer@|@onye na ere ögwü@
+@medicine man@|@dibïa@
+@medicines@|@ögwü@
+@meet@|@izute@
+@merchandise@|@ngwa ahia@
+@merry@|@añülï@
+@merry christmas@|@añuli ekeresimesi@
+@million@|@nde@
+@money@|@ego@
+@monkey@|@enwe@
+@moon@|@önwa, önwa@
+@morning@|@ütütü@
+@mother@|@nne@
+@motor@|@ügbö@
+@motor-cycle@|@ogbatumtum@
+@motorpark@|@ödü ügbö ala@
+@mouth@|@onu@
+@mud@|@potopoto@
+@my child@|@nwa m@
+@my friend@|@enyi m@
+@my husband@|@di m@
+@my name is emeka@|@aha m bü emeka@
+@nail@|@mbo@
+@name@|@afa, aha, aha@
+@nearby@|@nso@
+@next@|@özö@
+@next period@|@oge özö@
+@Next period; it is rainy@|@Oge özö; ga-bü udu mmiri@
+@nice seeing you again@|@anya m ji fu gi egbulam@
+@night@|@abalï@
+@nine@|@itenani, itolu, tógholu@
+@nineteen@|@ili na itenani@
+@no@|@mba@
+@no; i speak igbo@|@mba; ana m asü igbo@
+@nose@|@imi@
+@nothing more@|@onwerozi@
+@November@|@onwa-ise@
+@now@|@ugbua, ugbua@
+@now it is harmattan period@|@ugbua bü oge ügürü@
+@number@|@ole@
+@occasion@|@oge@
+@October@|@onwa-anö@
+@of which@|@nke@
+@office@|@ülö ölü@
+@oil@|@mmanü@
+@on@|@n'@
+@on top@|@n'enu@
+@one@|@ofu@
+@onion@|@alïbasa@
+@operator@|@opareto@
+@our@|@anyï@
+@our child@|@nwa anyi@
+@owe@|@ji@
+@pain@|@mgbu@
+@palm kernel@|@áku nkwu@
+@paper@|@akwukwo edemede@
+@passport@|@akwukwo eji eje ije@
+@past completed action@|@-ri@
+@pay@|@kwüa, kwüö ügwö@
+@pear@|@ube@
+@people@|@ndï@
+@pepper@|@ose@
+@perambulation@|@gámgàmgám@
+@period@|@oge, oge ugürü@
+@pig@|@ezi@
+@place@|@ebe@
+@plate@|@afere@
+@play football@|@gbaa bölü@
+@please@|@biko@
+@possess@|@jide@
+@pot@|@ite@
+@prayer@|@ekpere@
+@present@|@nye@
+@present continuous action@|@-re@
+@present in location@|@nö@
+@price@|@önü@
+@pride@|@úrè@
+@primary school@|@elementrï@
+@printed money@|@akwukwo ego@
+@pumpkin@|@ügü@
+@pupil@|@nwata akwükwö@
+@purchase@|@gota@
+@put@|@tinye@
+@Put one meat worth of 3 naira@|@Tinye otu anü naira atö@
+@race for life@|@oso ndu@
+@rain@|@mmiri, mmiri-ozuzo, zoo@
+@rain is not falling@|@mmiri anaghï ezo@
+@rainy season@|@udu mmiri@
+@reading@|@ögügü@
+@red@|@mme@
+@red earth@|@ajali@
+@rescue@|@zöpüta@
+@rice@|@osikapa@
+@richness@|@ubá égo@
+@right@|@nrï@
+@riverbank@|@ikpere mmiri@
+@room@|@mgbe@
+@roots@|@mgbörögwü osisi@
+@save@|@zöpüta@
+@say@|@kwuo@
+@school@|@ulo akwukwo@
+@secretary@|@onye-ode akwükwö@
+@see@|@hü, léelè@
+@sell@|@ire, ree@
+@seller@|@ore ihe@
+@September@|@onwa-atö@
+@seven@|@asaa@
+@seventeen@|@ili na asaa@
+@she lives@|@o bi@
+@shoes@|@akpukwu@
+@sickness@|@örïa@
+@since@|@ka mgbe@
+@sister@|@nwa nne nwanyï, nwánne, nwannenwanyi@
+@sit down@|@nödü anï@
+@six@|@isii@
+@six pence@|@shishi@
+@sixteen@|@ili na isii@
+@small@|@obele@
+@snake@|@agwö, agwö@
+@so@|@maka@
+@soft and tender@|@fulifuli@
+@somebody@|@onye@
+@something@|@ihe@
+@son@|@nwa nwoke@
+@sort@|@üdï@
+@soup@|@ofe@
+@speak@|@süö@
+@spoon@|@ngazi@
+@stampede@|@íze gìrigiri@
+@stand up@|@kunie@
+@starting an action@|@-ba@
+@stew@|@ofe@
+@stick@|@osisi@
+@stockfish@|@okporoko@
+@stomach@|@afo@
+@straight@|@oto@
+@strength@|@ike@
+@student@|@nwata akwükwö@
+@sun@|@anwu, anyanwü@
+@Sunday@|@üböchï üka@
+@sweep@|@zaa@
+@swim@|@gwuo mmiri@
+@swimming-pool@|@ndörö mmiri@
+@tablets@|@ögwü@
+@take@|@kpörö, wèré@
+@Take it@|@Were ya@
+@Take the money@|@Were ego@
+@teach@|@kuzie@
+@teacher@|@onye nkuzi@
+@teeth@|@eze@
+@tell@|@gwá@
+@ten@|@ili, iri@
+@thank you@|@dalu, imela@
+@thank you very much@|@ekele dili gï@
+@that@|@ihe ahü, nke ahü, otu@
+@That is 12 naira@|@Ha ncha bü naira iri na abüö@
+@the ìgbo people@|@ndi ìgbo@
+@The soup is tasty@|@Ofea törö ütö@
+@then@|@e, e mesïa, e mesïa, mgbe ahü@
+@there@|@ebe ahü@
+@there is a lot of wind@|@ana-ewe nnuku ikuke@
+@there will be many clouds@|@ana-ewe nnuku urukpu.@
+@there'll be sun and it'll hot@|@anwü ga-dï; ma ö ga-dï ökü@
+@these@|@ndïa@
+@they@|@fa, ha@
+@think@|@che@
+@thirteen@|@ila na ato@
+@this@|@a, ihea, nkea@
+@those@|@ndi ahü@
+@thought@|@úchè óbì@
+@thousand@|@puku@
+@three@|@ato@
+@thunder@|@égbè éluigwe, egbe igwe@
+@to come@|@ibia@
+@to come from@|@si@
+@to drive@|@nyaa@
+@to tell@|@gwa@
+@today@|@taa, tata@
+@today's weather is fine@|@üböchï taa dï mma@
+@Today's weather is fine@|@Üböchï taa dï mma@
+@toe@|@mkpisi okpa, mkpisi ukwu, mkpuru okpa@
+@toilet@|@ülö mposi@
+@tomorrow@|@echi@
+@tongue@|@ire@
+@too@|@kwaa@
+@top@|@enu@
+@town@|@obodo@
+@train@|@ugbo igwe@
+@travel@|@jee, njem@
+@truth@|@ezi okwu@
+@turkey@|@tolotolo@
+@turn in bed@|@ígha mghigha@
+@twelve@|@ili na abua@
+@twenty@|@ogu@
+@two@|@abua, abüö@
+@umbrella@|@nche anwu@
+@underside@|@okpuru@
+@university@|@mahadüm@
+@until@|@tupu@
+@vegetable leaves@|@akwukwo nri@
+@vehicle@|@ugbo@
+@village@|@ime obodo@
+@village square@|@mbára ámà@
+@wait@|@chere@
+@want@|@chö@
+@war@|@agha@
+@water@|@mmiri@
+@water leaves@|@gbörödi@
+@water pot@|@ùdu mmiri@
+@water yam@|@mbala ji@
+@we@|@anyi@
+@we carry you@|@anyï buru gï@
+@weather@|@üböchï@
+@weeping@|@akwa@
+@welcome@|@nno@
+@well@|@öfüma@
+@Well done@|@Da alü@
+@what@|@gïnï@
+@what about tomorrow's weather?@|@olee maka üböchï echi?@
+@what have you come to do?@|@gïnï ka ï bïara ime?@
+@what is your name?@|@olee aha gï?@
+@What kind of food do you have?@|@Olee üdï nrï unu were?@
+@when@|@olee oge@
+@where@|@ebee@
+@where are you going?@|@olee ebe ï na-aga?@
+@where do you come from@|@olee ebe i si?@
+@where in gra?@|@ebee na gra?@
+@Where is my room?@|@Kedu ebe mme laru ula?@
+@Where is the bar?@|@Kedu ebe a ne re mmanya?@
+@Where is the beach?@|@Kedu oshimili?@
+@where?@|@ebee?@
+@whether@|@mana@
+@which@|@kedu, olee@
+@which place@|@ebee@
+@white@|@öcha@
+@white man@|@onye öcha@
+@white man; how are you@|@onye öcha; olee ka i mere@
+@who@|@onye@
+@whose@|@nke@
+@why@|@maka gini@
+@wife@|@nwuye@
+@wind@|@ikuke@
+@window@|@windo@
+@wine@|@mmanya@
+@within@|@na@
+@woman@|@nwanyi@
+@word of mouth@|@ókwu onu@
+@work@|@ölü@
+@worker@|@onye ölü@
+@workers@|@ndï ölü@
+@writing@|@édemede@
+@yam@|@ji@
+@year@|@ahö, arö@
+@yellow@|@edo@
+@yes@|@e-e, eee, ehe, eyi@
+@you@|@gi, i@
+@you (pl)@|@unu@
+@you are welcome@|@nnöö@
+@you carry me@|@unu buru mü@
+@you live@|@i bi@
+@you need to bring an umbrella@|@i kwesiri iweta nche anwü@
+@your@|@gï@
+@your husband@|@di gï@
+

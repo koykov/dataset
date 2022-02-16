@@ -1,0 +1,1815 @@
+@English@|@Oriya@
+@Author name@|@Renato B. Figueiredo / Sujit Patnaik@
+@Font@|@Arial\12\Arial\12@
+@a@|@goeta@
+@a.m.(ante meridien)@|@madhyaanna purbaru@
+@abandon@|@parityaga@
+@abandoned@|@pareetyakya@
+@abash@|@apadasta@
+@abate@|@hraasa@
+@abbattoir@|@kanseikhana@
+@abdicate@|@pareehaara@
+@abdomen@|@talipeta@
+@abduct@|@apaharana@
+@aberrant@|@bipathagaami@
+@abeyance@|@mulatabee@
+@abhorent@|@ghrunya@
+@abhorrence@|@ghrunaa@
+@abide@|@paalana karibaa@
+@ability@|@sambala, sambala / saamarthya@
+@able@|@samartha/sakhyama@
+@ablution@|@nityakarma@
+@abnormal@|@aswaabhaabika /asaadhaarana@
+@abode@|@basagruha@
+@abolish@|@bilopana@
+@abominable@|@bibhatsajanaka / ghrunya@
+@abortion@|@garbhapaata@
+@abound@|@prachura bhabe upalabdha@
+@above@|@uparakta@
+@abrasion@|@aanchudaa@
+@abroad@|@bidesh@
+@abrogate@|@pratyahaara@
+@abrupt@|@aakasmika / atarkita@
+@abscond@|@feraar@
+@absconder@|@palataka@
+@absence@|@anupastithee@
+@absent mind@|@anyamanaska@
+@absolute@|@charama@
+@absolute majority@|@sampurna sankhyagarishtataa@
+@absolutely@|@sampurna bhabe@
+@absolve@|@dosha mukta@
+@absorb@|@aubososhana@
+@absorbent@|@aubososaka@
+@absorption@|@aubososana@
+@abstain@|@nibruta@
+@abstract@|@bhautika sangyaaheena@
+@absurd@|@ajauktika@
+@accept@|@grahana@
+@acceptable@|@grahaneeya@
+@access@|@saanidhyalaabha@
+@accession@|@adhisthita hebaa@
+@accident@|@durghatana, durghatana / aakasmika@
+@accidental@|@aupratyaashit / daibaat@
+@acclaim@|@abhinandana / prashansaa@
+@accolade@|@prashansaa@
+@accomodating@|@saujanya pradarshana@
+@accomodation@|@aabaasa sthaana@
+@according@|@anujayee@
+@account@|@hisaab@
+@accountable@|@kayeefeeyatjogya@
+@accountancy@|@hisaab bidyaa@
+@accountant@|@hisaabrakhyaka@
+@accumen@|@shukhshyamadarshitaa@
+@accumulate@|@sangraha / aaharana kareebaa@
+@accurate@|@satheek@
+@accursed@|@abhisapta@
+@accuse@|@doshaarop@
+@accused@|@abhijukta@
+@accustomed@|@abhyasta@
+@acerbic@|@katu@
+@ache@|@byathaa@
+@achieve@|@haasala kareebaa@
+@achievement@|@lakhyasiddhee@
+@achromatic@|@barnaheena@
+@acknowledge@|@sweekaar / sweekrutee@
+@acme@|@charama utkarsha@
+@acquaint@|@abagata@
+@acquaintance@|@parichita@
+@acquire@|@dakhala@
+@acquisition@|@sangruhita / arjita / praaptee@
+@acquisitive@|@aaharanapreeya@
+@acquit@|@nirdosh ghosita@
+@acting@|@abhinaya@
+@action@|@kreeyaa@
+@activity@|@kaarjyakalaap@
+@actor@|@abheenetaa@
+@actual@|@prakruta / baastaba@
+@actually@|@prakrutare / prakruta pakhyare@
+@acute@|@prakhara / prabala@
+@adage@|@prabaada / prabachana@
+@adapt@|@khapa khuaaibaa, khara khuaaeebaa@
+@add@|@sanjukta / sanjog@
+@addict@|@nisa pratee aasakti@
+@additional@|@atirikta@
+@address@|@thikanaa / sambodhana@
+@advance@|@agrasara, agrasara / agreema@
+@advertisement@|@bigyapana@
+@advice@|@upadesh@
+@advise@|@paraamarsha@
+@affection@|@sneha, sneha / anooraaga, sneha / anooraaga/ mamataa@
+@affectionate@|@snehi@
+@afraid@|@bhayabheeta@
+@against@|@birudhha@
+@age@|@bayasa@
+@agency@|@sanstha@
+@agree@|@sanmmata / sammatee@
+@agreement@|@chuktee@
+@aim@|@lakshya@
+@alert@|@satarka@
+@aligator@|@kumbheera@
+@alight@|@olhaaeebaa@
+@alike@|@samaan bhaabare@
+@alimentary@|@prusteesaadhana sambandheeya@
+@alimentary canal@|@khaadyanali@
+@alimony@|@poshana bhatta@
+@all@|@samasta, samasta / samooha@
+@All purpose flour Maida@|@Maida@
+@allegation@|@aarop@
+@allege@|@aarop / abheejog@
+@allegiance@|@aanugatya / aasakti@
+@allergic@|@asahisthutaa@
+@alleviate@|@upasama / laaghaba / hraasa@
+@alley@|@sankeerna patha@
+@alliance@|@bandhutaa sthaapana@
+@allied@|@ekatrita / milita@
+@allmighty@|@sarvashaktimaan@
+@allmost@|@praaye@
+@allocate@|@bantana karibaa@
+@allow@|@aumatee debaa@
+@allowance@|@nidhista bhatta@
+@alloy@|@misra dhaatu@
+@allude@|@parokhyare ullekh kareebaa@
+@allure@|@pralobhana dekhaaibaa@
+@alluring@|@manohara@
+@ally@|@sahajogee@
+@almond@|@baadaam@
+@Almonds@|@Badam@
+@almoner@|@swaasthya samaajsebaka@
+@alms@|@bhikshyaa@
+@aloft@|@urdhare / uchare@
+@alone@|@ekaanta, ekaanta / ekaaki@
+@along@|@sungare@
+@alongside@|@paarsware@
+@alongwith@|@sameta@
+@aloof@|@durei rahiba@
+@also@|@aau madhya@
+@altar@|@bedee@
+@altercation@|@kalaha@
+@alternate@|@ekaantareeka@
+@alternative@|@bikalpa@
+@although@|@jadeeo@
+@altitude@|@ucchhataa@
+@altogether@|@sampoorna bhaabare@
+@altruism@|@niswarthaparataa@
+@always@|@sarbadaa, sarbadaa / sadaabele / sadayba@
+@amalgamate@|@misrana karibaa@
+@amass@|@ekatra / sangraha kareebaa@
+@amateur@|@anabhignya / dakshyataahina@
+@amazed@|@bismita@
+@amazing@|@bismayakara / chamakprada@
+@ambassador@|@raashtradoota@
+@ambidextrous@|@sabyasaachi@
+@ambiguous@|@ekaadhika artha thibaa@
+@ambit@|@parisara@
+@ambitious@|@ucchhabhilaashee@
+@amble@|@dheere suste chaalibaa@
+@ambush@|@ghaata@
+@amenities@|@subidhaajanaka baisistasamuha@
+@amenity@|@suvidhaa sujog@
+@amiable@|@bandhu bhabapanna@
+@amicable@|@bandhutwapurna@
+@amid@|@madhyare@
+@amity@|@bandhutwa / mitrataa@
+@amnesia@|@smrutee haraaibaa@
+@amnesiac@|@smaranasakti bihina byaktee@
+@amok@|@unmata@
+@among@|@gahanare@
+@amoral@|@naiteekataa baheerbhuta@
+@amount@|@pareemana@
+@amour@|@gupta pranaya@
+@ample@|@prachura@
+@analysis@|@bislesana@
+@analyst@|@bislesaka@
+@analytical@|@bislesana sankraantiya@
+@anarchy@|@araajakataa@
+@anathema@|@ghrunya bastu@
+@ancestor@|@purbapurusha@
+@anchor@|@langara@
+@ancient@|@puratana, puratana / ateeta sambandheeya@
+@anciliary@|@sahaayaka@
+@and@|@ebanm@
+@anecdote@|@kshyudra upaakhyaana@
+@anew@|@punaray / aau thare@
+@angel@|@paree / debadoota@
+@angelic@|@debataa sadrushya@
+@anger@|@krodha@
+@angrily@|@krodhaanwita@
+@animal@|@pasu / jantu@
+@Aniseed@|@Pana Mahuri@
+@ankle@|@paadaganthee@
+@anklet@|@paaunjee@
+@annihilate@|@dhwansa / nischinha kareebaa@
+@announcement@|@ghoshanaa@
+@annual@|@baarsika@
+@annuity@|@baarsika bhatta@
+@anomaly@|@neeyamara byateekrama@
+@anonymity@|@naama biheenataa@
+@anonymous@|@benaami@
+@answer@|@uttara@
+@answerable@|@uttaradayee@
+@antagonism@|@satrutaa@
+@antecedent@|@purba parichaya@
+@antelope@|@krusnasaara mruga@
+@anthill@|@uee hunkaa@
+@antic@|@haasyajanaka kaarjya@
+@anticipate@|@purba anumaan@
+@anticlimax@|@nairaasyajanaka parinatee@
+@antique@|@puraatana bastu@
+@antisocial@|@asamaajika@
+@antisocial element@|@durbuta@
+@antithesis@|@sampurna biparita@
+@anxiety@|@utkanthaa@
+@any@|@jekaunasee@
+@apart@|@alagaa bhaabare@
+@apartheid@|@barna bidwesh@
+@apparel@|@poshaka@
+@appear@|@prakata@
+@appease@|@saanta kareebaa@
+@Apple@|@Seoo@
+@appliance@|@upakarana@
+@applicable@|@prayogyajogya@
+@applicant@|@prarthee@
+@appraisal@|@abodhaarana@
+@approval@|@anumodana / sammatee@
+@approve@|@anumodana@
+@area@|@kshetra, kshetra / anchala@
+@argument@|@jukti@
+@aristocracy@|@aabheejatiya@
+@aristocrat@|@samvraanta byaktee@
+@arm@|@baahu@
+@arrangement@|@byabastaa@
+@arrival@|@aagamana@
+@arrived@|@pahanchibaa@
+@artificial@|@kutrima@
+@Asafoetida@|@Hengu@
+@ascend@|@aarohana@
+@ash@|@paaunsa@
+@ask@|@pachaara@
+@aspect@|@drushteekona@
+@aspersion@|@apabaad / durnaama@
+@aspirant@|@ichhuka@
+@aspiration@|@abheelasha / aakanksha@
+@aspire@|@abhilaash@
+@assault@|@aakramana@
+@assent@|@sammatee@
+@assert@|@drudhokti@
+@assess@|@nirdhaarana kareebaa@
+@asset@|@mulyabaan sampatee@
+@assiduity@|@pragaadha parisrama, pragadha pareesrama@
+@assign@|@daaeetwa debaa@
+@assistant@|@sahaayaka@
+@assure@|@nischita kareebaa@
+@astray@|@bipathare@
+@astrology@|@jyotishasaastra@
+@at once@|@abilambe, abilambe / turanta@
+@athlete@|@khelaalee@
+@atom@|@paramaanu@
+@atrocity@|@nrusansa kaarjya@
+@attach@|@salagna@
+@attack@|@aakramana@
+@attitude@|@aabhimukhya@
+@attract@|@aakrushta@
+@attraction@|@aakarshana@
+@attractive@|@aakarshaniya@
+@auction@|@nilaam@
+@audacious@|@uddhata / nirllaja@
+@augur@|@purba aavaas debaa@
+@auspicious@|@subha, subha / anukula@
+@authorise@|@kshyamataa nyasta karibaa@
+@authority@|@prabhutva@
+@autobiography@|@aatmajeebanee@
+@automatic@|@swayan chaleeta@
+@available@|@upalabhdha@
+@avarice@|@utkata dhanalobha@
+@avenge@|@prateesodh@
+@aviator@|@bimaanachalaka@
+@avoid@|@upeksha /prataranaa@
+@awake@|@jagrata@
+@award@|@oopadhi /bidhan, pradaan@
+@aware@|@sachetana@
+@awareness@|@sachetanata@
+@away@|@duraku / durare@
+@awl@|@phodani@
+@axle@|@akshya danda@
+@azure@|@gaadh neela@
+@baby@|@sishu@
+@bachelor@|@abibaahita purusha@
+@back@|@pachha bhaaga@
+@back and forth@|@aaga pachha@
+@back out@|@oharijeebaa@
+@back seat@|@nikrusta sthaana@
+@backbone@|@merudanda@
+@backbreaking@|@atee kathina@
+@backyard@|@baari@
+@Bad@|@Kharaap@
+@bad blood@|@satrutaa@
+@bad egg@|@duschartra byaktee@
+@bad temper@|@badmijaaj@
+@badge@|@soochaka phalaka@
+@badger@|@odho@
+@badinage@|@kautuleeyaa pareehaas@
+@badtemper@|@tikta manobhaava@
+@baffle@|@kinkartavyabimudha@
+@bag@|@tholi@
+@baggage@|@aasabaab patra@
+@bait@|@thopa@
+@balance@|@bharasaamya@
+@balderdash@|@baaje katha / arthaheena katha@
+@balm@|@suraveeta malam@
+@balmy@|@sugandhajukta@
+@bamboo@|@baaunsa@
+@bamboozle@|@bibhraanta kareebaa@
+@ban@|@nisedh kareebaa / nisedhaadesh@
+@banal@|@tuccha / saamaanya@
+@Banana@|@Kadali@
+@bandit@|@dasyu@
+@bandy@|@aaghaat pratyaaghaat@
+@bane@|@durjoga@
+@banish@|@nirbaasana / desaantikarana@
+@bankrupt@|@debaaliyaa@
+@banner@|@patakaa@
+@banquet@|@aadambarapurna bhojee@
+@banter@|@pareehaasa@
+@barb@|@muno / tikhyana ansa@
+@barbarian@|@nrusansa@
+@barber@|@baarika@
+@bard@|@gaayaka@
+@barefaced@|@asishta / uddhata@
+@barefoot@|@khali paadare@
+@barely@|@kwocheet@
+@bargain@|@mulachaala karibaa@
+@bark@|@bakkala / bhukeebaa@
+@barmaid@|@madasaalaara parichaarikaa@
+@barrier@|@prateebandha@
+@bated@|@utkantheeta@
+@bath@|@snaana / gaadhoeebaa@
+@bathroom@|@gadhuaaghara@
+@batter@|@baarambaar aaghaat kareebaa@
+@battle@|@juddha / rana / samara@
+@battle dress@|@juddha poshaaka@
+@battlefield@|@juddha khetra / rana khetra@
+@batty@|@ardha paagala@
+@bauble@|@mulyanaheena alankaara@
+@bawdy@|@haasyatmaka o asleela@
+@bawdy house@|@besyaalaya@
+@bawl@|@chitkaar kareebaa@
+@beach@|@samudra tata@
+@beady@|@khudra o ujwala@
+@beak@|@thanta@
+@beam@|@sikhha@
+@bear@|@bahana karibaa / bhaaloo@
+@bear hug@|@nibeeda aaleengana@
+@bearable@|@sahaneeya@
+@beard@|@daadhee@
+@beast@|@pasu@
+@beastly@|@pasu aacharana@
+@beautiful@|@sundara@
+@beauty@|@saundarjya@
+@beauty spot@|@sundara sthaana@
+@because@|@jehetu@
+@beckon@|@sanketare daakeebaa@
+@bed@|@khata / palanka, khata / palanka /sajya@
+@bed sore@|@sajyaa ghaa@
+@bedevil@|@bisrunkhalita karibaa@
+@bedlaam@|@kolaahalapurna abastaa@
+@bedraggled@|@apareechanna / lochaa kochaa@
+@bedspread@|@bichhonaa chaadara@
+@bee@|@birudi, birudi / mahumachhi@
+@beef@|@GOMANSA@
+@beehive@|@mahufenaa@
+@beeline@|@sidhhaasalakha jeebaa@
+@beer@|@mada@
+@befall@|@ghateebaa@
+@before@|@purbaru@
+@beforehand@|@aaguaa / purbaru@
+@befriend@|@bandhutaa kareebaa@
+@befuddle@|@hattabudhhi kareebaa@
+@beget@|@janaka kimbaa baapaa hebaa@
+@beggar@|@bhikaari@
+@begin@|@aarambha@
+@beginner@|@anabhignya byaktee@
+@begrudge@|@eershyaa / dwesha kareebaa@
+@beguile@|@thakeebaa@
+@behalf@|@pakhyaru@
+@behave@|@aacharana pradarshana@
+@behaviour@|@chaaleechalana / aacharana@
+@behead@|@mundakaat@
+@behemoth@|@vishaala praanee / padartha@
+@behest@|@aadesh / anurodh@
+@behind@|@pachhare@
+@beholden@|@krutagnya@
+@behove@|@aabasyaka hebaa@
+@being@|@steethhee / abastithhee@
+@belated@|@beelambeeta@
+@belch@|@heudee maaribaa@
+@beleaguer@|@utpeedana kareebaa@
+@belie@|@bhool dhaaranaa debaa@
+@belief@|@dhaaraana / biswaas@
+@beligerence@|@kalahapriya aacharana@
+@belittle@|@nyuna kareebaa@
+@bellow@|@radee chhadeebaa@
+@belly@|@peta@
+@belly button@|@naavee@
+@bellyache@|@petara jantranaa@
+@belongings@|@jinisapatra / aasabaabpatra@
+@beloved@|@priyajana@
+@below@|@nimnare / taule@
+@bemoan@|@bilaap karibaa@
+@bemuse@|@bivraanta@
+@benchmark@|@maanabindoo@
+@bend@|@nuaaeenbaa / bakra karibaa@
+@beneath@|@taule@
+@benediction@|@subhakaamana@
+@benefaction@|@daana@
+@benefactor@|@hitakaaree@
+@beneficial@|@hitakaara@
+@beneficial work@|@bikaasa mulaka kaarjya@
+@beneficiary@|@upakruta byaktee@
+@benefit@|@upakaar@
+@Bengal gram@|@Buta@
+@Bengal gram (Split)@|@Buta dali@
+@benighted@|@agyna@
+@benign@|@dayaalu@
+@bequest@|@ichhapatra sampattee@
+@bereave@|@shokaatura / shoka santapta@
+@bereft@|@bancheeta@
+@berry@|@kolee@
+@beseech@|@prarthanaa / nibedana kareebaa@
+@beside@|@pakhare / sangare@
+@besiege@|@abarodh kareebaa@
+@besotted@|@moheeta@
+@bespectacled@|@chasamaajukta@
+@best@|@sarvottama / shreshtha@
+@best use@|@sadupajog@
+@best wishes@|@suvechha@
+@betray@|@biswasghaat@
+@better@|@uttama@
+@between@|@madhyare@
+@betwixt@|@madhyama maarga@
+@beverage@|@suswaadu paaneeya@
+@beware@|@saabadhaan / satarka@
+@bewitch@|@sammohita baa mantramugdhha@
+@beyond@|@aara paakhare / anya pate@
+@bias@|@purba matara pravaab@
+@biceps@|@dueesirista pesee / baaku pesi@
+@bicker@|@chota bisayare kalaha karibaa@
+@bid@|@nilaam karibaa@
+@bide@|@apekhya karibaa@
+@big@|@bada@
+@bigamy@|@duee patnee grahana@
+@bigheaded@|@garbee@
+@bighearted@|@udaara@
+@bigot@|@andhabiswaasee@
+@bigshot@|@pradhana byaktee@
+@bilateral@|@duee pakhya bisista@
+@bile@|@pitta@
+@bilingual@|@dueebhaasee@
+@bind@|@bandheebaa@
+@binder@|@bandhaalee@
+@binding@|@bandhana@
+@binocular@|@durabikhsyana jantra@
+@binomial@|@dueepada@
+@biodiversity@|@jaibabibhinnataa@
+@biological@|@jeeba sambandheeya@
+@bipartite@|@duiansa bisista@
+@bipolar@|@dueemeru / dueedhruba@
+@bird@|@pakhi@
+@birth@|@janma / utpattee@
+@birthright@|@janmagata adhikaar@
+@bison@|@maeensee@
+@bit@|@chota khanda@
+@bit by bit@|@tanna tanna kari@
+@bitchy@|@aakrosha paraayana@
+@bite@|@kamudeebaa@
+@bitter@|@peetaa / tikta@
+@bizarre@|@advoota@
+@blab@|@anyatha gapibaa@
+@black@|@kala@
+@black and blue@|@aaghaat jogu bibarna@
+@Black gram@|@Biri dali@
+@Black gram (whole)@|@Biri@
+@blackboard@|@kalaa pattaa@
+@blackguard@|@neecha / khala loka@
+@blackmail@|@bhaya dekhaai artha aadaay@
+@blacksheep@|@baalungaa@
+@blacksmith@|@kamaara@
+@blame@|@dosha debaa / aarop karibaa@
+@blanch@|@sweta padibaa@
+@bland@|@durbala@
+@blandish@|@khusamad@
+@blanket@|@kambala / ghodei debaa@
+@blare@|@uchha sabda karibaa@
+@blase@|@udaasina@
+@blast@|@bisforana@
+@blast off@|@utkhepana@
+@blatant@|@lajyaahina@
+@blaze@|@ujuala agnisikhaa@
+@bleak@|@rangaheena / neerasa@
+@blemish@|@trutee@
+@blend@|@misrana karibaa / misijeebaa@
+@bless@|@aashirvaad@
+@blighter@|@ghrunya byaktee@
+@blind@|@drushteeheena / andha@
+@blind alley@|@eka muhaan gali@
+@blindspot@|@drushtee parisara bahaare@
+@blister@|@photokaa@
+@blitz@|@prabala bimaana aakramana@
+@blizzard@|@prabala tushaarpaat@
+@bloat@|@phulibaa@
+@blob@|@eka topaa@
+@block@|@abarodh karibaa@
+@blockhead@|@nirbodha@
+@blood@|@rakta@
+@blood poisoning@|@rakta bisaakteeekarana@
+@blood pressure@|@raktachaapa@
+@blood relation@|@rakta samparka@
+@bloodcurdling@|@bhayaanaka@
+@bloom@|@prasfutita / phuteebaa@
+@blossom@|@unnateera prathamaabstaa@
+@blot@|@kalaa daaga@
+@blow@|@phunkeebaa / pabana kareebaa@
+@blunt@|@spastabaadee / daadhabihina@
+@blur@|@aspasta@
+@body@|@deha@
+@boil@|@SIJHA@
+@book@|@pustaka / bahi@
+@border@|@seemaanta@
+@bow&arrow@|@dhanu sara@
+@boy@|@baalaka@
+@bread@|@PAUNRUTI@
+@break@|@bhaangiba / ulanghana@
+@breast@|@chaatee@
+@breathless@|@aunaniswaasee@
+@bribe@|@utkocha@
+@brothel@|@besyaalaya@
+@brought forward@|@aagata@
+@bucket@|@baaltee@
+@building materials@|@nirmaana saamagree@
+@burning@|@jwalanta@
+@bus@|@bus@
+@business@|@byabasaaya@
+@bussinessman@|@byabasaayee@
+@busy@|@byasta@
+@butter@|@ghee@
+@butterfly@|@prajapati@
+@buy@|@kraya@
+@buyer@|@kreta@
+@by hook or by crook@|@kala bala kausale@
+@Cabbage@|@Bandha Kobi@
+@cable@|@taara guchha@
+@cache@|@gupta jineesha baa dhana@
+@cachet@|@praved karutheebaa chinha@
+@cackle@|@kukudaa paree bobaaibaa@
+@cacophony@|@karkasa swara baa sabda@
+@cactus@|@naagapheni@
+@cad@|@asaadaachaaree@
+@cadaverous@|@saba sadrushya@
+@caddish@|@neecha / asista@
+@cadre@|@senaara mula srenee@
+@cage@|@pinjaraa@
+@cagey@|@satarka bhaabare@
+@cahoots@|@gopana chukteere samprukta@
+@cajole@|@phusulaaeebaa@
+@calculation@|@hisaaba@
+@calculative@|@hisaabi@
+@calf@|@baachhuree@
+@calloused@|@badhira charma@
+@calm@|@nischala / saanta@
+@camaraderie@|@bandhutwa@
+@came@|@asila@
+@camel@|@oto@
+@camp@|@sibira@
+@campaign@|@abheejaan@
+@camphor@|@karpoora@
+@campus@|@hataa@
+@Can you lift the box?@|@Tume bax ti ku athai paribaki@
+@cancel@|@radda@
+@cancelled@|@baatil@
+@cancer@|@karkata roga@
+@candid@|@nishkapata / spastavadee@
+@candidate@|@praarthee@
+@candidature@|@prartheepatra@
+@candle@|@mahambatee@
+@candy@|@misiree@
+@cane@|@beta@
+@cannon@|@topa@
+@canoe@|@sarua haalukaa dongaa@
+@capacity@|@kshyamataa, kshyamataa / saamarthya@
+@capsize@|@olateebaa@
+@captivated@|@mugdha@
+@captivating@|@mantramugdhhakaari@
+@capture@|@kabjaa@
+@Cardamom@|@Gujurati@
+@care@|@jatna@
+@carefully@|@jatnataara  sahita@
+@caring@|@jatnabaan@
+@Carrot@|@Gajar@
+@cartridge@|@kaartoos@
+@Cashew nut@|@Kaju@
+@caste@|@jaatee@
+@cat@|@bilei@
+@Cauliflower@|@Phool Kobi@
+@centre@|@kendra@
+@ceremony@|@utsava@
+@chair@|@chowkee@
+@challenge@|@aawhaana@
+@chance@|@soojog@
+@change@|@paribartana@
+@character@|@charitra@
+@character building@|@charitra gathana@
+@characterless@|@durachaari / lampata@
+@charming@|@kamaneeya@
+@check@|@nirdhaarana, nirdhaarana / tadarakh@
+@cheese@|@CHHENA, GHEEAA@
+@chemical@|@raasaayanika@
+@Chick Peas@|@Buta@
+@chicken@|@KUKUDA@
+@child@|@santaana@
+@Chinese@|@China@
+@choice@|@pasanda@
+@church@|@girijaghara@
+@Chutney@|@Khatta@
+@cime@|@aparaadh@
+@Cinnamon@|@Dalchini@
+@Cinnamon leaf@|@Teja Patra@
+@clap@|@karataali@
+@clean@|@safaa@
+@clear@|@nirmala / swacha@
+@clever@|@chatura@
+@climb@|@aarohana / chadhiba@
+@closed@|@nibuja@
+@closing@|@udjaapita@
+@Cloves@|@Labanga@
+@coal@|@koeelaa@
+@coastal@|@tateeya@
+@coastal area@|@upakulabarti anchala@
+@Coconut@|@Nadia@
+@collect@|@sangatheeta, sangatheeta / sangraha@
+@collection@|@sangraha / sambhaara@
+@collectively@|@samabeta@
+@colour@|@ranga@
+@colourless@|@barnaheena@
+@comb@|@paaniyaa@
+@come@|@aasa@
+@come in contact@|@sansparsha@
+@common@|@saadhaarana@
+@common sense@|@saadharana gyana@
+@compare@|@tulana@
+@competitor@|@pratijogi, pratijogi / pratidwandee@
+@complaint@|@abheejog@
+@complete@|@sampoorna@
+@compliant@|@kathaa rakheebaa@
+@complicated@|@jatila@
+@compromise@|@samaadhaana@
+@concentration@|@ekaagrataa@
+@conclude@|@nirupana@
+@conclusion@|@siddhanta@
+@condition@|@abastaa / paristithee@
+@condolence@|@samabedana@
+@confine@|@aabadhha karibaa@
+@confusion@|@dwanda@
+@connection@|@sambandha@
+@connection fail@|@samparka bichhinna@
+@consecutive@|@kramaagata@
+@conservative@|@rakshyanasheela@
+@consider@|@bichaara@
+@construction@|@nirmaana@
+@consumer@|@graahaka / upabhoktaa@
+@contact@|@sansparsha@
+@context@|@sandharva@
+@continuously@|@nirantara@
+@control@|@niyantrana@
+@cook@|@rosei / raandhibaa@
+@cooked rice@|@bhata@
+@cooperative society@|@samabaaya samity@
+@copy@|@nakala@
+@Coriander leaves@|@Dhania Patra@
+@Coriander powder@|@Dhania Gunda@
+@Coriander seeds@|@Dhania@
+@correction@|@sansodhana@
+@corruption@|@durneeti, durneeti / bhrashtaachaar@
+@cotton@|@tulaa@
+@counter attack@|@pratiaakramana@
+@counting@|@gananaa@
+@court@|@kutchery@
+@courtyard@|@agana@
+@covered@|@aabruta@
+@cow@|@gaai / gomata@
+@cowshed@|@guhala@
+@create@|@srustee@
+@creativity@|@srujjanasheelata@
+@crime@|@aparaadh@
+@criminal@|@aparaadhee@
+@critical@|@sochaniya@
+@criticize@|@samaalochanaa@
+@critisize@|@samaalochana@
+@cross@|@ateekrama@
+@cruel@|@nisthura@
+@crumble@|@bhusudibaa@
+@cultivation@|@chaasa@
+@cultural@|@saanskrutika@
+@culture@|@sanskruti@
+@Cumin@|@Jeera@
+@Cumin seeds@|@Jeera@
+@cunning@|@dhoorta, dhoorta / chatura@
+@curd@|@Dahi@
+@Curry@|@Tarkari@
+@cursed@|@abhisapta@
+@cursed life@|@abhisapta jeebana@
+@curt@|@rukshya@
+@customer@|@graahaka@
+@cut@|@kaatibaa@
+@daily@|@dainika@
+@daily use@|@nitya byabahaara@
+@danger@|@bipada@
+@dark@|@andhaara@
+@Dates@|@Khajoor@
+@daughter@|@Kanya / putree@
+@Daughter@|@Kanya@
+@day@|@dina@
+@day after tomorrow@|@paaradina@
+@day dream@|@dibaswapna@
+@death@|@marana /mrityu@
+@decide@|@nirdharita, nirdharita / nispati@
+@decide / decision@|@nispati@
+@decision@|@nirdharjya /, nirdharjya / nirnaya@
+@decisive@|@nirnaayatmaka@
+@declaration@|@ghosanaa@
+@declared@|@ghoseeta@
+@decorative@|@saundarjya bardhaka@
+@decrease@|@hraasa@
+@deep@|@gabheera@
+@defeat@|@parajeeta, parajeeta /parasta@
+@demand@|@daabi / chaahidaa@
+@dense@|@ghana@
+@department@|@bibhaga@
+@departure@|@pratyaabartana@
+@depend@|@nirvara@
+@dependable@|@nirvarjogya@
+@dependent@|@nirvarasheela@
+@depressed feeling@|@abasaada@
+@deprive@|@banchita@
+@depth@|@gabheerataa@
+@descend@|@abarohana / olei, abarohana / olheiba@
+@describe@|@barnanaa@
+@description@|@barnanaa@
+@desire@|@kaamana / ichha@
+@dessert@|@MIHTA@
+@destination@|@gantabyasthala@
+@destiny@|@karmaa / karmafala@
+@destroy@|@dhwansa@
+@destruction@|@binaasha@
+@development@|@bikaasha@
+@deviate@|@bahirbhuta@
+@devotee@|@upasaka@
+@devotion@|@bhakti@
+@dew@|@kaakara@
+@dictionary@|@sabdakosha@
+@Did you have your lunch?@|@Tu madhyana bhojana kal ki?@
+@difference@|@paarthakya, paarthakya / prabheda@
+@difference of opinion@|@mataved@
+@different@|@bhinna@
+@difficult@|@kathina, kathina / kashta@
+@direction@|@deega@
+@director@|@nirdeshaka@
+@discipline@|@anusashana@
+@discover@|@aavishkaara@
+@discuss@|@aalochana@
+@discussion@|@aalochanaaa@
+@disease@|@byadhee@
+@distant@|@samparkaheena bhaabare@
+@distribute@|@bitarana@
+@district@|@zilla@
+@disturbance@|@bibhraata@
+@divide@|@bibhakta@
+@division@|@harana@
+@Do you love me?@|@Tume mote bholapao ki?@
+@Do you speak...@|@Kana aapana kahi paribe?@
+@doctor@|@doctor@
+@dog@|@kukura@
+@doubt@|@sankaa@
+@doubtful@|@sandehajanaka@
+@dress@|@poshaaka@
+@Drink@|@Peeba@
+@drinking water@|@paaneeya jala@
+@drown@|@budibaa@
+@Drum Stick@|@Sajana Chuin@
+@drunk@|@maataal@
+@dry@|@sukhila@
+@dull@|@neerasa@
+@duplicate@|@nakala@
+@dynamic@|@tejaswi@
+@eager@|@aagraha@
+@eagerness@|@tatparataa@
+@earned@|@arjana@
+@earnest@|@aantarika, aantarikataa@
+@earnestness@|@aantarikataa@
+@earning@|@rozgaara / arjita@
+@earth@|@bhoomi, bhoomi / pruthivy@
+@earthquake@|@bhoomikampa@
+@east@|@poorba@
+@east coast@|@purbatata@
+@easy@|@sahaja@
+@Eat@|@Khaiba@
+@education@|@sikshya@
+@effect@|@prabhaav@
+@eight@|@aath@
+@electricity@|@bidyut@
+@elephant@|@haatee@
+@embarrassed@|@lajjita@
+@embrace@|@aaleengana@
+@emergency@|@jarureekaaleena@
+@emotional@|@bhaavaprabanata@
+@empowerment@|@sasaktikarana@
+@emptiness@|@shunyata@
+@empty@|@khali@
+@empty hands@|@soonyahasta@
+@enchant@|@mugdhha karibaa@
+@enchanted@|@mantramughdhha@
+@enclose@|@gheraaibaa@
+@encourage@|@protsaahana, protsaahana / utsaahita@
+@encroach@|@jabardakhal@
+@encroacher@|@jabardakhalkaari@
+@end@|@samaapta@
+@endurable@|@sahaneeya@
+@enemy@|@shatru@
+@English@|@Engrazi@
+@engrossed@|@mugdha@
+@engrossing@|@manohara@
+@enough@|@jathesta, jathesta / paryaapta@
+@enter@|@prabesha@
+@entice@|@pralobhana dekhaaibaa@
+@environment@|@pareebesha@
+@establish@|@sthhaapana@
+@established@|@sthhaapita@
+@estimate@|@nirupana@
+@evening@|@sandhyaa@
+@every@|@pratyek, pratyek / prati@
+@everybody@|@samaste@
+@exact@|@abikala@
+@examination@|@pareekshyaa@
+@examine@|@anudhyana, anudhyana / tadarakh@
+@example@|@udaaharana / namunaa@
+@excess@|@atee@
+@excite@|@utyakta, utyakta / uttejeeta@
+@excited@|@utyakta heba, utyakta heba/uttejeeta@
+@excitement@|@utejana, utejana / udbega@
+@Excuse me@|@Khyama karibe@
+@existence@|@astitva@
+@exit@|@prasthaan@
+@expansion@|@samprasaarana@
+@expenditure@|@kharcha@
+@experience@|@abheegnyataa@
+@expert@|@nipuna / dakshya, nipuna / dakshya / dhurandhara@
+@expertise@|@nipunata / dakshyataa@
+@explanation@|@kayeefeeyat@
+@exploit@|@soshana@
+@explosion@|@bisforana@
+@extinct@|@bilupta@
+@extra@|@atirikta@
+@extraordinary@|@asaadhaarana@
+@eye@|@aakhi / chakhyu@
+@face@|@sammukheen@
+@fact@|@baastaba@
+@factory@|@kaarkhanaa@
+@failed@|@bifala@
+@faith@|@bharosaa@
+@false@|@mithhyaa@
+@false promise@|@michha pratisrutee@
+@fame@|@prasiddhhee, prasiddhi /pratishthaa@
+@family@|@parivaara@
+@family-head@|@murabee@
+@famous@|@prasiddhha@
+@far@|@dura@
+@fast@|@drutta, upaasa@
+@fatal@|@ghaatak@
+@Father@|@Bapa@
+@fatherly@|@pitrutva@
+@fault@|@dosha / trootee, dosha /trootee@
+@favour@|@anugraha, anugraha / krupaa@
+@favourable@|@anookula@
+@fear@|@bhaya / dar@
+@fearless@|@nirbhaya@
+@feast@|@bhojee@
+@fed up@|@ateesta@
+@feeble@|@durbala@
+@feel@|@anoobhava@
+@Fenugreek@|@Methi@
+@Fenugreek seeds@|@Methi@
+@fertiliser@|@saara@
+@fervent@|@aakula@
+@fever@|@jwara@
+@fill up@|@poorna@
+@finance@|@artha@
+@financial@|@aarthika@
+@finish@|@samapta@
+@fire@|@niaa@
+@firm@|@drudha@
+@firm determination@|@drudha sankalpa@
+@first@|@prathama@
+@Fish@|@Machha@
+@fist@|@muthaa@
+@fistful@|@purna muthhaa@
+@five@|@paanch, paanjch@
+@flag@|@patakaa@
+@flatter@|@khusaamad karibaa@
+@flaw@|@trutee@
+@float@|@bhaaseebaa@
+@flour@|@Maida / ata@
+@Flour@|@Maida@
+@flow@|@sanchaara@
+@flower@|@phula@
+@foe@|@shatru@
+@fog@|@kuhudee@
+@follow@|@abalambana, abalambana / anukarana@
+@food@|@khaadya / aahaara@
+@for a moment@|@kshyanika@
+@forehead@|@kapaala@
+@formula@|@sutra@
+@fortune@|@bhagya@
+@forty@|@chalees@
+@four@|@chaari@
+@fragrance@|@sugandha@
+@French@|@Pharsi@
+@friday@|@shukrabaara@
+@Friend@|@Bandhu, Saanga@
+@Fries@|@Bhaja@
+@front door@|@daanda dwaara@
+@fry@|@Bhaja@
+@full@|@poorna@
+@funny@|@haasyaspada@
+@furtively@|@luchee chapee@
+@gap@|@byabadhaana@
+@Garlic@|@Rasuna@
+@gas@|@gaseau /baaspa@
+@gather@|@saaunteebaa / ekatrita@
+@gathering@|@samaagam@
+@generous@|@udaara@
+@gentle@|@bhadra@
+@gentleman@|@bhadraloka@
+@German@|@German@
+@get@|@praapta@
+@ghost@|@bhoota@
+@Ginger@|@Adaa@
+@girl@|@baalika@
+@girl wellwishes two families@|@duhitaa duikulaku hitaa@
+@Go@|@Jeeba@
+@goat@|@CHHELI@
+@gold@|@sunaa@
+@golden@|@soonelee@
+@Good@|@Bhala@
+@Good evening@|@Subha sandhya@
+@Good morning@|@Suprabhat@
+@Good night@|@Subha ratri@
+@Goodbye@|@Bidaay namaskar@
+@government@|@prasasana, prasasana, prasasana@
+@Gram flour@|@Besan@
+@grasp / hold@|@dharibaa@
+@grateful@|@kruttagnya@
+@great@|@bheesana / atee, bheesana / atee /prabala@
+@great speed@|@prabala bega, prabala bega@
+@greatly@|@atyaadhika@
+@green@|@sabuja@
+@Green chili pepper@|@Kanchaa Lanka@
+@Green gram (Split)@|@Muga dali@
+@Green gram (whole)@|@Muga@
+@greeting@|@abhinandana@
+@griefstricken@|@marmaahata@
+@guard@|@prahari@
+@guess@|@anumaan@
+@habit@|@abhyaas@
+@ham@|@ham@
+@hand@|@baahu / haata@
+@handicapped@|@bikalaanga / bhinnakshyama@
+@handicraft@|@hastasilpa@
+@hapiness@|@sukha@
+@happiness@|@prasannata@
+@happy@|@prasanna, prasanna / prafullita@
+@hard@|@kathina@
+@hard work@|@katheena parisrama@
+@harmony@|@samannaya@
+@he@|@say@
+@He ate an apple@|@Say seo khaila@
+@He eats an apple@|@Say seo khaye@
+@He goes@|@Say Jaye@
+@He had come@|@Say aasithila@
+@He had eaten@|@Sa khai thilla@
+@He had gone@|@Say jaithilla@
+@He has eaten@|@Say khaichi@
+@He is eating an apple@|@Say seo khauchi@
+@He slept the whole night@|@Say rati sara soithila@
+@He will come@|@Say aasiba@
+@He will eat@|@Say khaiba@
+@He will go@|@Say jiba@
+@He wrote well in the exame@|@Say pariksha bhala karichi@
+@headache@|@mundabindhhaa@
+@healthy@|@susthha@
+@heart@|@hrudaya@
+@heaven/ sky@|@aakasha@
+@hello@|@NAMASKAR@
+@help@|@SAHAJYA, sahajya / sahaayataa@
+@helpless@|@nirupaay / laachaara@
+@helpless look@|@kaatara drushtee@
+@heritage@|@ayiteehya@
+@hesitation@|@dooveedhaa@
+@hide@|@aatmagopana@
+@high@|@uchha@
+@hinted@|@ingeeta kareebaa@
+@hippopotamus@|@jalahasti@
+@hole@|@randhra@
+@holy@|@pabitra@
+@honest@|@sachot@
+@hope@|@aashaa@
+@hope and despair@|@aashaa o niraashaa@
+@horizon@|@diganta@
+@horse@|@ghoda@
+@hospital@|@daktarkhana@
+@hostility@|@birodhitaa@
+@hot@|@utapta@
+@house@|@ghara@
+@How are you?@|@Tume kemiti achha?, Tume kipari acha?@
+@How did you come?@|@Tume kemiti asila?@
+@How did you drive?@|@Tume kemiti chaleila?@
+@How did you sleep?@|@How did you sleep?@
+@How did you write?@|@Tume kemiti lekhila?@
+@How many apples are in my hand@|@Mo hatare ketoti seo achhi?@
+@How many did you take?@|@Tume ketoti nela?@
+@How much did he pay you?@|@How much did he pay you?@
+@how much does this cost@|@E HA RA DAM KETE@
+@How was the journey yesterday?@|@Gat kali jatra kemiti thilla?@
+@huge@|@bishaala@
+@human@|@maneesa@
+@humanity@|@manisatwa@
+@humble@|@namra@
+@hunger@|@kshudhha@
+@Husband@|@Bara, Pati, Swami@
+@I@|@mu, mun@
+@I am fine@|@Mu bhal achhi@
+@I do not understand@|@Mun bujhi paru nahin@
+@I go@|@Mu jaye@
+@I shall come with you@|@Mu tum sahita jibi@
+@identity@|@parichaya@
+@importance@|@gurutwa, praadhaanya@
+@impossible@|@asambhava, assambhava@
+@impress@|@prabhaabeeta@
+@impudent@|@abhadra@
+@in bad books@|@manda drushteere@
+@in front off@|@samakshya / sanmukha@
+@in short@|@sankshepare@
+@In which room did you sleep?@|@Kyon bakhara re tume soiba?@
+@inappropriately@|@asangata bhaabare@
+@incapable@|@asamartha@
+@incident@|@ghatana@
+@include@|@antarbhukta@
+@incognito@|@agnyaata@
+@income@|@aaya@
+@incorporate@|@sammilita@
+@increase@|@bruddhee, brudhee@
+@increase in prices@|@daradaam bruddhee@
+@indecent@|@asleela@
+@Indian Zucchini@|@Jahni@
+@indigenous@|@swadeshee@
+@industrious@|@udyamee@
+@industry@|@udyoga, udyoga / shilpa@
+@inflict@|@graasa@
+@inflicted@|@graasita@
+@influence@|@prabhaabeeta@
+@influential person@|@musthhimeya byaktee@
+@information@|@soochana@
+@innocence@|@nireehataa@
+@innocent@|@nirdosh, nirdosh / nireeha@
+@inside@|@bhitara@
+@insignificant@|@tuchha@
+@inspect@|@anudhyaana@
+@inspection@|@anudhyaana@
+@inspiration@|@preranaa@
+@inspite@|@satwe@
+@instigate@|@prabartaaeebaa@
+@insult@|@apamaan@
+@intense@|@prakhara@
+@intention@|@abhipraya@
+@interest@|@aagraha, aagraha / sudha, aagraha / sudha / ruchee@
+@interest rate@|@sudha haara@
+@intimate@|@antaranga@
+@invention@|@udbhaavana@
+@investigation@|@anusandhaana@
+@investigative@|@anusandhaanamulaka@
+@invitation@|@nimantrana@
+@invite@|@nimantrana@
+@invitee@|@nimantrita@
+@involve@|@samprukta@
+@irregularity@|@aniyamitataaa@
+@irrigation@|@jala sechana@
+@irritate@|@birakta@
+@Is@|@Ate@
+@Is it a book?@|@Aha gote bahi ki?@
+@it@|@eita@
+@It is a book@|@Aha gote bahi@
+@it is nice to meet you@|@APANANKU DEKHI KHUSI HELI@
+@Jack Fruit@|@Panasha@
+@Jaggery@|@Guda@
+@jewellery@|@gahanaa@
+@join@|@jodibaa@
+@jump@|@deinbaa / lampa@
+@jurisdiction@|@parisarabhukta@
+@just@|@uchit@
+@justification@|@jathaarthataa@
+@keep@|@rakha@
+@key@|@chaabee@
+@kidnap@|@apaharana@
+@kidnapper@|@apaharanakartaa@
+@kill@|@hatyaa@
+@king@|@raja@
+@kitchen@|@roseighara@
+@knee@|@aanthoo@
+@knife@|@chhoori@
+@know@|@gnyata@
+@knowledge@|@gnyatasaara@
+@lacking@|@oona@
+@lady@|@bhadramahila@
+@lake@|@hrada@
+@lamb@|@CHELI, MENDHA@
+@language@|@bhasa@
+@last@|@sesha / anteema@
+@laugh@|@haseebaa@
+@laughter@|@hasa@
+@law@|@aaeen@
+@law breaker@|@aaeen ulanghanakaari@
+@layer@|@stara@
+@leaf@|@patra@
+@Leafy Vegetables@|@Saga@
+@left@|@BAMA@
+@legal proceeding@|@aaeengata karjyanushthaana@
+@legend@|@kimbadanti@
+@Lentils@|@Dali@
+@lesson@|@sikhyaa@
+@letter@|@patra@
+@life@|@jibana@
+@lift irrigation@|@uthaa jalasechana@
+@light@|@aaloka@
+@light beam@|@rashmi sikha@
+@lightning@|@beejuli, beejuli / bajrapaat@
+@limit@|@seemaa@
+@lion@|@singha@
+@liquid@|@tarala@
+@list@|@suchipatra / bibaranee@
+@litigation@|@bibaada@
+@loan@|@runa@
+@lock@|@taalaa@
+@lodgings@|@aabaasa sthaana@
+@long@|@lambaa@
+@loss@|@kshyetee@
+@lost@|@hareibaa@
+@lost everything@|@sarbaharaa@
+@lost in thought@|@chintaamagna@
+@love@|@bhala paaeebaa, bhala paaeebaa / prema@
+@low grade@|@nimna maana@
+@luck@|@bhaagya@
+@lucky@|@bhaagyawaan@
+@mad@|@paagala@
+@madness@|@paagalaami@
+@magic@|@jadu@
+@maid@|@dhayee@
+@maintain@|@paalana@
+@make@|@karibaa@
+@Mango@|@Amba@
+@manners@|@aacharana, aacharana / sishtaachaar@
+@market@|@bajaara@
+@matchbox@|@diaasili@
+@matchstick@|@diasili kathi@
+@material@|@saamagree@
+@maternal uncle@|@mamu@
+@matter@|@padartha@
+@May I come in?@|@mu bhitaraku aasi paare ki?@
+@maybe@|@sambhavata / bodhhuey@
+@me@|@mu@
+@meaning@|@artha / bhaabartha, artha / bhaabartha@
+@Meat@|@Mansa@
+@mechanical@|@jaantrika@
+@mechanical fault@|@jaantrika trootee@
+@medicine@|@ausadhha@
+@medicine shop@|@aushadhaalaya@
+@medium@|@madhyam/ maadhyama@
+@meet@|@sakshyat@
+@meeting@|@sammilanee / baithaka@
+@memento@|@santaka@
+@memory@|@smrutee, smrutee / smaranashaktee@
+@mental@|@manasika@
+@merciless@|@nirdayee / nirmama@
+@mercy@|@anukampaa, dayaa@
+@merge@|@misaaeebaa@
+@middle@|@maadhyamika, MAHJI@
+@midget@|@baamana@
+@might@|@pratapa@
+@mighty@|@prataapi@
+@military@|@samarika@
+@milk@|@DUDHA@
+@mine@|@khani, moro@
+@mingle@|@misrita hebaa@
+@Mint leaves@|@Podina@
+@mirage@|@mrugatrushna@
+@miserable@|@sochaneeya@
+@mist@|@tushara@
+@misutilisation@|@durupayog@
+@Mixure Cumin@|@Punch Phutana@
+@modern@|@aadhunika@
+@moment@|@kshyana@
+@monday@|@somabaara@
+@monetary@|@aarthika@
+@monthly@|@maasika@
+@moon@|@chandra@
+@Mooong@|@Mooga@
+@more@|@adheeka@
+@mosque@|@masjid@
+@Mother@|@Putra@
+@mother toungue@|@maatrubhaashaa@
+@motherly@|@maatrutva@
+@motive@|@udeshya@
+@muddy water@|@goliaa paani@
+@multiplication@|@gunana@
+@Mustard@|@Sorisa@
+@Mustard Paste@|@Beasara@
+@Mustard seeds@|@Rai, Sorison@
+@myself@|@nijaku@
+@Name@|@Nama@
+@narrowminded@|@sankeerna manabruti@
+@natural@|@praakrutika@
+@nature@|@prakrooti/aacharana@
+@nearby@|@nikatare@
+@need@|@aabasyakataa@
+@needed@|@loda, loda / aabasyaka@
+@neglect@|@abahelaa / oopekshaa@
+@neglected@|@abahelita / oopekshita@
+@neice@|@bhaanijee@
+@nephew@|@bhanaja / puturaa@
+@new@|@nuaa@
+@news@|@khabara@
+@Nice to meet you@|@Aapananku mili bhala laagila@
+@night@|@raati@
+@nine@|@na'a@
+@No@|@Naa@
+@non violence@|@ahimsaa@
+@normal@|@swabhaavik@
+@north@|@uttara@
+@note-book@|@khaataa@
+@nude@|@nagna / bibastra@
+@Nutmeg@|@Jaiphala@
+@oar@|@aahulaa@
+@object@|@birodh, birodh / bastu, birodh /aapatti / bastu@
+@objection@|@aapattee@
+@oblige@|@anugraha@
+@obliging@|@saujanya pradarshana@
+@obstacle@|@prateebandhhaka@
+@obstruction@|@baadhaa@
+@occassion@|@muhurta@
+@occur@|@ghatibaa@
+@ocean@|@saagara@
+@of course@|@abasya / nischay@
+@offer@|@arpana@
+@offer oneself@|@samarpana@
+@official@|@karmachaari@
+@old@|@purunaa@
+@on no account@|@kaunasi paristitheere nuhen@
+@once@|@thare@
+@once again@|@puni thare@
+@once more@|@punee thare@
+@one@|@ek@
+@one after another@|@gotie pare gote@
+@Onion@|@Piaja@
+@Onion Seeds@|@Nigella Kala jira@
+@open@|@khola@
+@opened@|@kholiba@
+@opening@|@udghaatana@
+@opinion@|@mata@
+@opponent@|@prateedwandee@
+@opportunity@|@sujog@
+@opposition@|@prateepakshyataa@
+@or@|@kimba@
+@orange@|@naarangi@
+@oratory skill@|@baakchaaturi@
+@order@|@aadesha / nirdesha@
+@ordinary@|@saadhaarana@
+@orphan@|@anaatha@
+@orthodox@|@rakshyanasheela@
+@ours@|@aamara@
+@out of order@|@achala@
+@outside@|@baahaara@
+@overtake@|@ateekrama@
+@own@|@nijara@
+@paddy@|@dhaana@
+@pain@|@jantranaa@
+@painful@|@kashtadaayaka@
+@particular@|@nirdhishta@
+@partner@|@saathi@
+@passage of time@|@kaalakrame@
+@paternal uncle@|@peesa@
+@patient@|@rogi@
+@peace@|@shaanti@
+@Peanuts@|@China Badam@
+@Pearl Onion@|@Gundi Piaja@
+@people@|@loka@
+@Pepper corns@|@Golmaricha@
+@permanent@|@sthhaayee@
+@permission@|@anumatee@
+@perplexed@|@kinkartavyabimudha@
+@perseverance@|@pragaadha parisrama@
+@personality@|@byakteetva@
+@petal@|@paakhuda@
+@pharmacy@|@AUSADHA@
+@phase@|@parjyaay@
+@philosopher@|@daarshanika@
+@philosophy of life@|@jeebana darshana@
+@physically@|@shaaririka@
+@picture@|@chitra / chabee@
+@Pinto Beans@|@Rajama@
+@pirate@|@jaladasyu@
+@Pistachio@|@Pesta bada@
+@pity@|@dayaa /anukampaa@
+@place@|@sthana@
+@plan@|@upaaya@
+@planet@|@graha@
+@plant@|@kaarkhaana@
+@plantain@|@banana@
+@player@|@khelali@
+@pleasant news@|@khusee khabar@
+@please@|@DAYA KARI@
+@Please@|@Dayakari@
+@plenty@|@prachoora@
+@pluck@|@toleebaa@
+@point of view@|@drushteekona@
+@poison@|@bisa@
+@police@|@police@
+@pond@|@pokharee@
+@poor@|@nirdhana@
+@Poppy Seed@|@Posta@
+@Poppy seeds@|@Posto@
+@popular@|@lokapreeya@
+@pork@|@GHUSURI@
+@port@|@bandara@
+@porter@|@coolie@
+@possibility@|@sambhaavana@
+@possible@|@sambhava, sambhava@
+@post@|@padabee@
+@postoffice@|@daakaghara@
+@postponed@|@sthagita@
+@potato@|@ALU@
+@Potato@|@Aloo@
+@potter@|@kumbhaara@
+@practice@|@abhyaas@
+@Prawn@|@Chungudi@
+@precarious@|@sankataapanna@
+@precarious condition@|@sankatamaya paristithee@
+@prejudice@|@pakhyapaat@
+@premonition@|@aashanka@
+@prepared@|@prastuta@
+@presence@|@upastithee@
+@presence of mind@|@upastithee buddhee@
+@preservation@|@sanrakhyana@
+@pressure@|@chaapa@
+@prestige@|@sanmaana@
+@price@|@mulya@
+@pride@|@abhimaan@
+@priest@|@pujaka / purohita@
+@prince@|@raajkumaar@
+@princess@|@raajkumari@
+@principle@|@aadarsha@
+@private@|@byaktigata@
+@prize@|@pooraskaar, puraskaar@
+@probability@|@sambhaavnaa@
+@problem@|@samasyaa@
+@proceedure@|@paddhatti@
+@process@|@pranaalee, pranaalee / prakreeyaa@
+@production@|@utpaadana@
+@profit@|@laabha@
+@programme@|@kaarjyakrama@
+@prohibited@|@nishedh@
+@project@|@prakalpa, prakalpa@
+@prolong@|@abirata@
+@prominent@|@bikasita@
+@promise@|@pratisrootee@
+@promise / vow@|@sapath / prana@
+@proper@|@upajukta@
+@proportion@|@anupaat@
+@proposal@|@prastaaba@
+@protection@|@sanrakshyana@
+@proud@|@garba / garbita@
+@public@|@loka, loka / janata@
+@public platform@|@jana mancha@
+@publication@|@prakaashana@
+@punishment@|@danda@
+@purified water@|@MINERAL WATER@
+@push@|@theliba@
+@qualification@|@jogyataa@
+@qualified@|@jogya@
+@quality@|@maana@
+@quantity@|@parimana/matraa@
+@queen@|@raani@
+@quick@|@sheegra / chanchala@
+@rainbow@|@indradhanu@
+@Raisin@|@Kishmish@
+@ray@|@kirana@
+@reaction@|@prateekreeyaa@
+@real@|@prakruta, prakruta / baastaba@
+@realise@|@upalabhdha@
+@reason@|@kaarana@
+@reckoning@|@dhaarana@
+@reclaim@|@punahrudhaara@
+@recovery@|@aadaya@
+@red@|@laal@
+@Red chili pepper@|@Lanka@
+@Red chili powder@|@Lanka Gunda@
+@Red Duhulled Lentils@|@Masura dali@
+@Red kidney beans@|@Rajama@
+@Red Lentils@|@Masura@
+@Red Split Lentils@|@Masura dali@
+@refined@|@sudhheeta@
+@refuse@|@pratyaakhaana / agraahya@
+@regard@|@shraddha@
+@regret@|@anutaap@
+@regretful@|@anutapta@
+@regular@|@neeyamita@
+@reject@|@pratyakhyana@
+@relation@|@samparka@
+@released@|@chhaadibaa / mukulibaa@
+@relief@|@upasama, upasama / santosha@
+@religion@|@dharma@
+@remark/view@|@mantabya@
+@remember@|@smarana@
+@removal@|@niraakarana / nibaarana@
+@renounce@|@pareetyaga@
+@repeat@|@dohreibaa, dohreibaa / punahaabrutee@
+@repeatedly@|@baarambaara@
+@repel@|@bitaadita@
+@repent@|@paschaataap /glaanee@
+@reporter@|@saambaadika@
+@reprimand@|@bhartsanaa@
+@reputation@|@khyaatee@
+@request@|@anurodh@
+@require@|@aabasyaka@
+@requirement@|@aabasyakataa@
+@rescue@|@uddhhaara@
+@reservation@|@aarakshyana / sanrakshyana@
+@resist@|@pratirodh@
+@responsibility@|@daaitva@
+@rest@|@bisraama@
+@result@|@pareenaama@
+@revenge@|@prateeshodh@
+@rice@|@chaula, GHEEAA@
+@Rice Flour@|@Chaula Chuna@
+@right@|@DAHANA, DAHANA / adheekaar@
+@rise@|@utha / udaya@
+@rising@|@udayamaan@
+@river@|@nayee@
+@roar@|@garjjana@
+@rule@|@raajatva@
+@Run@|@Daudiba@
+@rural@|@gramya/grameena@
+@sacred@|@pabitra@
+@sacrifice@|@tyaaga / bauli@
+@safe@|@neeraapada@
+@Saffron@|@Kesara@
+@salt@|@luuna@
+@satiate@|@mentaaibaa@
+@satisfactory@|@santoshajanaka@
+@satisfied@|@santusta@
+@satisfy@|@santushta@
+@saturday@|@shanivaara@
+@saturn@|@sani graha@
+@save@|@rakhyaa / sanchaya@
+@savings@|@sancheeta, sancheeta / sanchaya@
+@say@|@kuha / kaha@
+@school@|@bidyalaya@
+@sea@|@samudra@
+@sea level@|@samudra pattana@
+@search@|@khojeebaa / sandhaana@
+@secret@|@gupta / gahana@
+@secretariate@|@sachibaalaya@
+@secretary@|@sacheeba@
+@security@|@surakhsya, urakhsya@
+@segregate@|@baad debaa@
+@selected@|@bibecheeta@
+@selection@|@chayana@
+@self repentance@|@aatma glaanee@
+@selfish@|@swarthapara@
+@selfrespect@|@swaabhimaan@
+@seller@|@bikretaa@
+@Semolina@|@Suji@
+@sensitive@|@sambedanasheela@
+@sentenced@|@danda bidhan@
+@separate@|@alagaa@
+@separation@|@bichheda@
+@serious@|@gurutara@
+@serious crime@|@jaghanya aparaadh@
+@seven@|@saat@
+@shadow@|@chaaee@
+@shameless@|@lajyaaheena@
+@shape@|@aakaara@
+@share@|@baantiba, bhaaga@
+@sharp@|@teekshyana@
+@she@|@say@
+@She came by bus yesterday@|@Say gat kali bus re asila@
+@shine@|@ujwala dekhaajibaa@
+@shop@|@dokaana@
+@short@|@gedaa@
+@shortage@|@abhaava@
+@show@|@prakasa@
+@sick@|@rugna@
+@sight@|@drushtee, drushtee / drushya@
+@sighted@|@drushteegochara@
+@sign@|@soochaka@
+@signature@|@dastakhatta@
+@significant@|@ullekhaniya@
+@silence@|@neerabataa@
+@silent@|@neerab@
+@silver@|@roopaa@
+@simple@|@sahaja / sarala@
+@Sit@|@Basiba@
+@situation@|@paristithee@
+@six@|@cha'a@
+@size@|@aakaara@
+@skin@|@chamadaa, chamadaa@
+@sleep@|@nidraa@
+@sleepless@|@anidraa@
+@small@|@chotto, chotto / laghu@
+@So long@|@Puni dekha heba@
+@So so@|@Thik thak@
+@social worker@|@samaaj sebaka@
+@society@|@samaja@
+@soft@|@naram@
+@solicit@|@aamantrana@
+@solid@|@kathina@
+@solution@|@samaadhaan@
+@some@|@kichhee@
+@son@|@Putra@
+@soothing@|@aaraamprada@
+@sorry@|@dukhitta@
+@sound@|@dhwanee@
+@sour@|@Khatta@
+@south@|@dakshina@
+@spear@|@bhaalaa@
+@spectator@|@darshaka@
+@speed@|@gati / bega@
+@spill the bean@|@gupta kathaa prakash karibaa@
+@Spinach@|@Palanga Saga@
+@spirit@|@aatmaa@
+@Split Green Peas@|@Sabuja matara dali@
+@Split horse bean@|@Biri dali@
+@Split Yellow Peas@|@Dhala matara dali@
+@sport@|@kreedaa@
+@spread@|@bistaara@
+@Spring Onion@|@Piaja Saga@
+@stale@|@baasi@
+@status@|@stithee / prateesthaa@
+@steal@|@choreibaa@
+@still then@|@tathapee@
+@stink@|@durgandha@
+@stone@|@pathara@
+@store@|@bhandaara@
+@strange@|@bichitra@
+@strategy@|@kaushala@
+@street@|@GALI@
+@strike@|@prahaara / dharmaghata@
+@strong@|@shaktishaalee@
+@struggle@|@sangharsa@
+@student@|@sishya / bidyarthee@
+@subject@|@bisaya@
+@subjects@|@praja@
+@submit@|@daakhala@
+@subway@|@subway@
+@success@|@safalataa@
+@sudden@|@akasmaata@
+@suffer@|@peedita@
+@sugar@|@cheeni@
+@sugarcane@|@aakhu@
+@sulk@|@rusibaa@
+@summary@|@sankshipta saara@
+@sunday@|@ravivaara@
+@supply@|@jogaana@
+@support@|@samarthana@
+@supporter@|@samarthaka@
+@suppress@|@damana@
+@surprise@|@aascharjya@
+@survey@|@sarbekshyana@
+@suspect@|@sandeha@
+@suspicious@|@sandigdha@
+@sweat@|@jhaala@
+@sweet@|@meethaa@
+@swim@|@pahanreebaa, pahanreebaa / santarana@
+@swimming@|@pahanraa@
+@sword@|@khandaa@
+@sympathy@|@samabedana, samabedana / sahaanubhuti@
+@symptoms@|@lakshyana@
+@take me to my hotel@|@MOTE MORA HOTELKU NEIJIBEKI@
+@take part@|@bhaaga neba@
+@taken aback@|@aachambheeta@
+@talent@|@kala@
+@talented@|@kusala@
+@tall@|@dengaa@
+@Tamarind@|@Tentuli@
+@target@|@lakshya@
+@tasteless@|@swaadaheena@
+@taxi@|@taxi@
+@tea@|@CHAHA@
+@teacher@|@guru/sikhyaka, guru/sikhyaka / adhhyaapaka@
+@teacher- female@|@adhhyaapikaa@
+@tear@|@chiribaa / chindeibaa / looha@
+@technology@|@gyaanakaushala@
+@temperature@|@taapa@
+@temple@|@mandira@
+@temporary@|@saamayeeka, saamayeeka / asthaayee@
+@ten@|@dasa, dash@
+@terrified@|@aatankita@
+@terror@|@aatanka@
+@terrorist@|@aatankabaadi@
+@testing@|@parikhya@
+@thank you@|@DHANYABAHD@
+@Thank You@|@Dhanyabad@
+@thatch@|@chaala / chhappara@
+@therefore@|@atayeb@
+@They@|@Semaane@
+@They went to the mosque@|@Saymane mandira gale@
+@thief@|@chora@
+@thing@|@jinisa / saamagree@
+@thirst@|@sosha@
+@thirty@|@tiris@
+@three@|@teeni, trini@
+@threshold@|@aerundi@
+@throw@|@phingiba / nikshep@
+@thunder@|@ghadaghadee@
+@thursday@|@gurubaara@
+@tiger@|@baagha@
+@time@|@samaya@
+@time limit@|@samaya seema@
+@time-saving@|@samyara sadupajog@
+@tiny@|@kshyudra@
+@to stop@|@prateerodh@
+@tolerate@|@sahya@
+@tomorrow@|@asanta kaali@
+@Toor Lentil@|@Harad Dali@
+@topic@|@bisayabastu@
+@torment@|@jaatanaa@
+@total@|@samudaya@
+@touch@|@sparsa@
+@toy@|@khelana@
+@tradition@|@paramparaa@
+@train@|@raelagaadi, train@
+@training@|@prasikshyana@
+@translate@|@anubaada@
+@transmit@|@bikirana@
+@transportation@|@jaataayata@
+@triangle@|@tribhuja / trikona@
+@trivial@|@tuchha@
+@trouble@|@sankata@
+@trouble remover@|@sankata mochana@
+@trust@|@biswaas@
+@try@|@prayatna@
+@tuesday@|@mangalabaara@
+@Turmeric@|@Haladi@
+@twenty@|@kodiae@
+@twin@|@jaanla@
+@two@|@du'i@
+@unable@|@asamartha@
+@uncertain@|@anischeeta@
+@unconcerned@|@asamprukta@
+@undecided@|@anischeeta@
+@undefeatable@|@aparajeeta@
+@under@|@TALE@
+@under no circumstances@|@kaunasi paristitheere nuhen@
+@unending@|@asarantee@
+@unfortunate@|@durbaagya@
+@ungrateful@|@kruttaghna@
+@uninhabitated@|@parityakta@
+@unique@|@ananya / adwitya, ananya / adwitya / abhinabha@
+@unique plan@|@abhinabha jojanaa@
+@unity@|@ekataa@
+@unity in diversity@|@beebhinnataa re ekataa@
+@unknowing@|@ajaanata@
+@unknowingly@|@agnyaatare@
+@unnatural@|@aupraakrutika /kutrima@
+@unnecessary@|@adarkaari@
+@unnecessary expenses@|@byayabahula kharcha@
+@unpleasant@|@apreetikara@
+@unruly@|@amaania@
+@unsaid / unspoken@|@akoohaa@
+@unsuccessful@|@asafala@
+@unwanted@|@abaanchhita@
+@usage@|@upajogitaa@
+@use@|@upajoga / byabahaara@
+@useless@|@byartha@
+@utensils@|@baasana@
+@vacant@|@khaali@
+@valuation@|@moolyaankana@
+@value@|@moolya@
+@various@|@beebhinna@
+@veal@|@veal@
+@vegetable@|@PARIBA@
+@vehicle@|@gaadi, gaadi / jaana@
+@Vermicelli@|@Simaee@
+@vessel@|@paatra@
+@village@|@graama@
+@violence@|@hinsaa@
+@vogue@|@prachaleeta@
+@vulnerable@|@durbalataa@
+@wait@|@pratikshya@
+@Walk@|@Chaliba@
+@wall@|@kaanthha@
+@war@|@juddha@
+@warning@|@taageed@
+@water@|@paani / jala@
+@waterbody@|@jalaasaya@
+@waterfall@|@jharana / jalaprapata@
+@way@|@raastaa@
+@waylay@|@bata ogaalibaa@
+@we@|@Aame@
+@weak@|@durbala@
+@wealth@|@dhana@
+@wealthy@|@dhanadhya@
+@wednesday@|@budhabaara@
+@weekly@|@saaptaahika@
+@weep@|@kaandibaa@
+@welcome@|@Aasantu, swaagata@
+@well behaved@|@shaalinata@
+@well being@|@sambrudhee@
+@well to do@|@sambhraanta@
+@welloff@|@sampanna@
+@west@|@paschima@
+@wet@|@odaa@
+@What@|@Kana@
+@What are the questions?@|@Prasna sabu kana?@
+@What can I do?@|@Mu kana kari paribi?@
+@What did you do?@|@Tume kana kala?@
+@What is the last question?@|@Sesa prashna kana?@
+@What is written in the letter?@|@Chithi re kana lekha aachhi?@
+@What is your name?@|@Tuma nama kana@
+@What should I do?@|@Mu kana kariba uchit?@
+@What were the questions?@|@Prasna sabu kana thilla?@
+@What will be the answer?@|@Uttara kana heba?@
+@What you had been told?@|@Tumaku  kana kuaha jaaithila?@
+@wheat@|@gahama@
+@Wheat flour@|@Atta@
+@wheel@|@chaka@
+@when@|@kebe@
+@where@|@keunthaare@
+@Where did you come from?@|@Tume kauthu asila?@
+@Where did you sleep?@|@Tume kauthi soila?@
+@where is the bathroom@|@PA I KHANA KE UN THI@
+@Where is the bathroom?@|@Sauchalya keunthi achi?@
+@Where should I go?@|@Mu kausti ki jibi?@
+@Which is the sweetest fruit?@|@Kau phalla sabuthu mitha?@
+@Which is your favourite colour@|@Kyon ranga tumaku bhala laage?@
+@Which story did you tell?@|@Kau gapa tume kahila?@
+@Which way did you come?@|@Kyon rasta rae tume asila?@
+@white@|@dhala@
+@whole@|@randhra, sampoorna@
+@Whole Green Peas@|@Sabuja matara@
+@Whole Wheat Flour@|@Atta@
+@Whole Yellow Peas@|@Dhala matara@
+@Whom should I contact?@|@Mu kaha sahaita dekhakaribi?@
+@why@|@keunthipaain / kaanhiki@
+@Why did he bring the bag?@|@Say kauthi  paein bag anila?@
+@Why did she pay the money?@|@Say tanka kauthi paein dela?@
+@Why did you come?@|@Tume kauthi paein aasila?@
+@Why did you sleep?@|@Tume Kauthi paein soeithila@
+@Why do you drive the car?@|@Tume car kauthi paein chalao?@
+@wicked@|@anishta priya@
+@wide@|@osaara@
+@Wife@|@Bohu, Patni, Sahadharminee, Sthree@
+@wiley@|@dhoorta@
+@will@|@ichhashakti, ichhashakti / ichhapatra@
+@will come@|@aseba@
+@Will you come with me?@|@Tume mo sahita asiba ki?@
+@Will you give me your pen?@|@Tume mote tuma kalama dabaki?@
+@win@|@Jitiba / bijaya@
+@Win@|@Jetiba@
+@with@|@sahita@
+@withdraw@|@pherasta, pherasta / pratyaahaara@
+@withdrawn@|@pratyaahroota@
+@without@|@binaa@
+@without moral principles@|@neeteeheena@
+@without resources@|@sambalaheena@
+@without separation@|@bhangabiheena@
+@without wasting any time@|@kaalabilamba na kaaree@
+@without you@|@tuma binaa@
+@work@|@kaarjya@
+@worker@|@sramika@
+@world@|@biswa, biswa / sansaara@
+@worldly@|@saansaarika@
+@worried@|@chinteeta@
+@worry@|@chintaa@
+@worship@|@puja / aaraadhana@
+@wounded@|@aahata@
+@wrong@|@bhool@
+@yearly@|@baarsika@
+@yellow@|@haladia@
+@Yes@|@Han@
+@Yes; I love you@|@Han mu tumoku bhalpae@
+@Yes; of course@|@Han nischita@
+@yesterday@|@gata kaali@
+@Yogurt@|@Dahi@
+@you@|@aapana, tume@
+@You (plural)@|@Aapana sabu@
+@Your@|@Tumara@
+@You're welcome@|@Aapananku svaaagat@
+@yours@|@toro / tumbhara@
+@yourself@|@tumaku / tumbhaku@
+

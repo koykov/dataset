@@ -1,0 +1,524 @@
+@English@|@Mohawk@
+@Author name@|@Guy T. Gambill@
+@Font@|@Arial\12\Arial\12@
+@afternoon: in the ~@|@entye nikare@
+@airplane@|@tekatens@
+@Algonquin nation@|@Atirontaks@
+@allow (v.)@|@-erihenhs@
+@ankle@|@ohsinekòta@
+@apple@|@sewahyowane@
+@April@|@Onerahtokha@
+@apron@|@ateniyonta@
+@arm@|@onentsha@
+@armband@|@atenentshawi'tanha@
+@arrow@|@kayènkwire@
+@August@|@Sehskeha@
+@aunt@|@-sta'a@
+@ax@|@atoken@
+@baby@|@owira@
+@back@|@ohswa@
+@back of the neck@|@onyàra@
+@baked squash@|@watenon'onhseronte@
+@ball@|@athenno'@
+@banana@|@tyotahyàkton@
+@barn@|@tsi yetskwa'ehstha@
+@basket@|@àthere@
+@bass@|@ohskawiyak@
+@basswood tree@|@ohohsera@
+@bat@|@yakohonhtariks@
+@bathroom@|@tsi yotahshetahkwen@
+@beans@|@ohsahèta@
+@bear@|@ohkwari'@
+@beaver@|@tsyennìto@
+@bed@|@kanakta@
+@bedroom@|@tsi yonnonhwetstha@
+@beer@|@katsi'tsyakeras, onen'takeri@
+@beet@|@onekwenhtara nikatsihkòten'@
+@belt@|@atya'tanha@
+@bird@|@tsi'tenha@
+@black@|@kahòntsi@
+@black ash tree@|@ehsa@
+@black bear@|@wahkwari'tahóntsi@
+@blanket@|@ahsire@
+@blood@|@onekwenhsa@
+@blue@|@orònya@
+@boat@|@kahonweya@
+@body@|@oyàta@
+@boiled squash@|@kanon'onhsero@
+@bone@|@ohstyen'@
+@book@|@kahyatonhsera@
+@bookcase@|@yehyatonhserarahkwa@
+@bow@|@a'enna@
+@bracelet@|@atenentshanha@
+@brain@|@onònwara@
+@branch@|@o'nhahte@
+@bread@|@kanàtaronk@
+@bridge@|@wahskohon@
+@brown sugar@|@katsikhe'tahòntsi@
+@bucket@|@kanàtsyonk@
+@bush@|@okwire@
+@butter@|@owihstohsera@
+@butterfly@|@tsiktsinonnawen@
+@buttermilk@|@kanon'tihsa@
+@button@|@yetsihkotahkwa@
+@buy (v.)@|@-hninons@
+@camera@|@yontatya'tarahkwa@
+@canary@|@otyaren'ta'a@
+@candle@|@ohahsera'onwe@
+@candlestick@|@yehahserotahkwa@
+@candy@|@otsikhèta@
+@cane@|@atennits@
+@canoe@|@onake@
+@car@|@kàaere'@
+@carpet@|@kentskare@
+@carrots@|@otsinekwar ohtera@
+@cat@|@takohs@
+@caterpillar@|@kanontatsi@
+@cave@|@yonontakàronte@
+@Cayuga nation@|@Kayonkwe'hàka@
+@chair@|@ennitskwàra@
+@cheek@|@ohohkwa@
+@cherry@|@eri@
+@child@|@eksa'a@
+@children@|@eksa'okonha@
+@chin@|@ohyotsha@
+@chipmunk@|@orhyoken@
+@church@|@Ononhsatokenhti@
+@city@|@kanatowanen@
+@clay@|@o'tara@
+@clock@|@kahwihsta'eks@
+@closet@|@yohkwennyarahkwa@
+@clothes@|@ahkwennya'@
+@cloudy: it is ~@|@yorornhyòron@
+@clown@|@attsihstohkwa@
+@coat@|@atyàtawi'@
+@coffee@|@kahwe@
+@coffee pot@|@kahwetsheronnyàtha@
+@cold: it is ~@|@yothore@
+@comb@|@atkerothiya@
+@cooked squash@|@onon'onhseràri@
+@corn@|@onenhste@
+@corn seed@|@onenha@
+@corn soup@|@onenhsto@
+@couch@|@yontorihshentahkwa@
+@cough (v.)@|@-hshakha'@
+@count (v.)@|@-hseta's@
+@cow@|@tyonnhonhskwaron@
+@Cree nation@|@Ratirhakonha@
+@creek@|@nikahyonha'ah@
+@cricket@|@taraktarak@
+@crow@|@tsyòkawe@
+@cucumber@|@kanon'onhserakeras@
+@cupboard@|@tsi yeksayentahkwa@
+@dairy@|@onon'tahson'a@
+@dance@|@kanonnya@
+@dark red@|@kanekwenhtarahòntsi@
+@December@|@Tsyothorha@
+@deer@|@ohskennonton@
+@desk@|@yehyatonhstahkwa@
+@dining room@|@tsi teyontskàhons@
+@dirt@|@o'kènra@
+@dish@|@kaksa@
+@dish towel@|@yeksokewàtha@
+@dog@|@erhar@
+@doll@|@kaya'tonni@
+@domestic animal@|@kanahskwa@
+@door@|@kanhoha@
+@doorway@|@tsi kanhokàronte@
+@dough@|@ohsherha@
+@doughnuts@|@kahsherhonni@
+@downtown@|@kanathen@
+@dress@|@o'whahsa@
+@dried corn@|@yonenhstathen@
+@drink (v.)@|@-hnekirha'@
+@drive (v.)@|@-toris@
+@duck@|@sorak@
+@earth@|@onhwentsya@
+@eight@|@sha'tekon@
+@eighteen@|@sha'tekon-yawenre@
+@elbow@|@ohyohsa@
+@eleven@|@enhskat-yawenre@
+@elm tree@|@akaratsi@
+@enter (v.)@|@taweyàtha'@
+@envelope@|@watya'tarahkwa@
+@erase (v.)@|@-hyatonkwas@
+@eraser@|@tsyerakewahtha@
+@evergreen@|@onènta@
+@eye@|@okàra@
+@eyelash@|@okahrehta@
+@face@|@okonhsa@
+@fall (v.)@|@-yàten's@
+@fall: in the ~@|@kannenna'kène@
+@family@|@kahwatsire@
+@father@|@-'niha@
+@February@|@Ennihska@
+@fence@|@aten'ènra@
+@field@|@kahehta@
+@fifteen@|@wisk-yawenre@
+@fifty@|@wisk-niwahsen@
+@fifty-five@|@wisk-niwahsen-wisk@
+@find (v.)@|@-etshenryes@
+@fingernail@|@otsi'era@
+@five@|@wisk@
+@flashlight@|@yehahserenhahstha@
+@flour@|@othèsera@
+@flower@|@otsìtsya@
+@flower bed@|@katsi'tsyayenthon@
+@flowerpot@|@yetsi'tsyarahkwa@
+@fly@|@tsiks@
+@food@|@kakhwa@
+@foot@|@ohsíta@
+@forehead@|@okonkwara@
+@fork@|@ahsikwe@
+@forty@|@kayeri-niwahsen@
+@four@|@kayeri@
+@fourteen@|@kayeri-yawenre@
+@fox@|@tsitsho@
+@fresh corn@|@yonenhstase@
+@fresh meat@|@o'wahràse@
+@Friday@|@Wishkatont@
+@fried meat@|@ka'wahrakehrìta@
+@fried potatoes@|@kahnenna'takehrìta@
+@frog@|@tsikeren'tanhnyaks@
+@front of the neck@|@onyàta@
+@fruit@|@kahik@
+@fruit juice@|@wahyakeri@
+@frying pan@|@yena'tsyarahkwa@
+@game@|@okahrìtshera@
+@gas station@|@tsi kenhyenahninons@
+@gather (v.)@|@-eròroks@
+@get up (v.)@|@-tketskwas@
+@glass@|@owise@
+@glasses@|@atkahranha@
+@glue@|@teyekhahstha@
+@goat@|@kaya'takeras@
+@gold@|@ohwihstanoron@
+@goose@|@onahsakenra@
+@grain@|@enhnekeri@
+@grandfather@|@-hsotha@
+@grape@|@onenharatase@
+@grass@|@ohonte@
+@grasshopper@|@tsihstarare@
+@green@|@ohonte@
+@groceries@|@atennàtshera@
+@grocery store@|@tsi yekhwahninons@
+@gun@|@kahonre@
+@hailing: it is ~@|@tyowihsonhtyon@
+@hair@|@ononhkwise@
+@hand@|@ohsnonhse@
+@hand towel@|@yontkonhsokewahtha@
+@harvest (v.)@|@-yenthokwas@
+@hawk@|@karhakonha, karhakonha@
+@head@|@onontsi@
+@headband@|@atenonhwaranha@
+@headdress@|@kahstowa@
+@heart@|@aweryahsa@
+@heat something (v.)@|@-tarihàtha'@
+@hemlock tree@|@onen'ta'onwe@
+@heron@|@kentsyokwas@
+@hide something (v.)@|@-hsehtha'@
+@hill@|@yonontahere@
+@hockey rink@|@tsi teyonto'tsinehtahkwa@
+@hoe@|@atshòkten@
+@honey@|@ohshehs@
+@honey bees@|@kontihshehstonnis@
+@horse@|@yakohsatens@
+@hospital@|@tsi yakoheyon'tayentahkwa@
+@hot: it is ~@|@yo'tarihen@
+@hotel@|@tsi yohswen'karènton@
+@house@|@kanonhsa@
+@huckleberries@|@àyok@
+@hunt (v.)@|@-torats@
+@hunter@|@ratorats@
+@ice@|@owise@
+@ice skates@|@ato'tsinehta@
+@in the spring@|@kenhkwitène'@
+@inner ear@|@ohonhsa@
+@insect@|@otsi'nowa@
+@jackrabbit@|@toanhtaneken@
+@January@|@Tsyothorkowa@
+@jewelry@|@ohwihstanoronhson'a@
+@July@|@Ohyarihkowa@
+@June@|@Ohyariha@
+@keep (v.)@|@-terakwas@
+@kitchen@|@tsi yekhonnyàtha@
+@knee@|@okwitsha@
+@lacrosse game@|@attsihkwa'e@
+@ladder@|@kanekòta@
+@lake@|@kanyatare@
+@lamp@|@ohahsera@
+@last night@|@shiyòkarahs@
+@lawn mower@|@kahontya'ks@
+@leaf@|@onerahte@
+@learn (v.)@|@ewennahnotha'@
+@leave (v.)@|@-htentyes@
+@leg@|@ohsina@
+@lettuce@|@onerahtakate@
+@light red@|@kanekwenhtararaken@
+@lightnings: it ~@|@tewennine'karahwanyon's@
+@lip@|@ohsa@
+@liquor@|@kahneka'shatste@
+@living room@|@tsi kanonhsiyo@
+@longhouse@|@kanonhsehs@
+@loose-leaf tea@|@kanerahta'kerha@
+@lower (v.)@|@-'senhtha'@
+@lower part of the leg@|@orenhsa@
+@make (v.)@|@-nis@
+@maple syrup@|@wahtha ohshehs@
+@March@|@Ennihskowa@
+@May@|@Onerahtokkowa@
+@meadow@|@kahènta@
+@measure (v.)@|@-te'nyentenhstha'@
+@meat@|@o'wàronk@
+@metal@|@karihstatsi@
+@midnight@|@ahsonthen@
+@milk@|@onònta@
+@milk pitcher@|@yenon'tarahkwa@
+@milking cow@|@kanòntat@
+@minnow@|@kaniyonta@
+@misty: it is ~@|@tyotsha'tayenthon@
+@mittens@|@a'nyanawen'@
+@moccasins@|@ahtahkwa'onwe@
+@Mohawk nation@|@Kahnyen'kehàka@
+@Monday@|@Yawententa'onh@
+@money@|@ohwihsta@
+@monkey@|@katsi'nonhtaks@
+@moose@|@ska'nyonhsa@
+@morning: in the ~@|@orhen'kème@
+@moss@|@awerahsa@
+@mother@|@-'nihstenha@
+@mouse@|@tsinowen@
+@mouth@|@ohsakàra@
+@mud@|@onawatsta@
+@nail@|@karonware@
+@necklace@|@ennihtyakstha@
+@net@|@a'are@
+@nine@|@tyohton@
+@nineteen@|@tyohton-yawenre@
+@ninety@|@tyohton-niwahsen@
+@nose@|@o'nhonhsa@
+@November@|@Kentenhkowa@
+@nut@|@ohsòkwa@
+@October@|@Kentenha@
+@oil@|@kènye'@
+@older brother@|@-tsi'a@
+@one@|@enhskat@
+@one hundred@|@ehnskat-tewn'nyawer@
+@one thousand@|@enhskat-tewen'nyawe'ehseron@
+@Oneida nation@|@Onenyotehàka@
+@Onondaga nation@|@Ononta'kehàka@
+@orange@|@otyarènta@
+@otter@|@tawine@
+@outer ear@|@ohonhta@
+@owl@|@tsihstekeri@
+@pants@|@athahsteren'@
+@parrot@|@tekahstya'ks@
+@partridge@|@ahkwesen@
+@pear@|@katshe'kahik@
+@peas@|@onekwa@
+@pen@|@yehyatonhkwa@
+@pepper@|@tyotskara'kowa@
+@perch@|@oyenhèta@
+@person@|@onkwe@
+@photograph@|@kayàtare@
+@pick fruit (v.)@|@-hyakwas@
+@pickerel@|@skakahrakseen@
+@pig@|@kweskwes@
+@pike@|@tsikhnennàtaks@
+@pillow@|@atkònsera@
+@pine tree@|@ohnehta'kowa@
+@pink@|@wehsènrate@
+@plant (v.)@|@-kyenthos@
+@plantain@|@atenneha@
+@plate@|@akèra@
+@platter@|@kaksowanen@
+@plum@|@wihson kahik@
+@polar bear@|@wahkwari'takenra@
+@potatoes@|@ohnennàta@
+@pour (v.)@|@-werons@
+@practice (v.)@|@-teweyenhstha'@
+@pumpkin@|@onon'onhsera'kowa@
+@puppy@|@eris@
+@purple@|@oharennahta@
+@purse@|@kenhnàta@
+@quiver@|@ahtatshera@
+@rabbit@|@kwa'yenha@
+@raccoon@|@atiron@
+@radio@|@kawennokwas@
+@radish@|@yotsihkwatskàra@
+@raining: it is ~@|@yokennoren@
+@raspberries@|@skanekwenhtarati@
+@receive (v.)@|@-yenahs@
+@red@|@onekwenhtara, onekwenhtara@
+@red cedar tree@|@onen'takwenhton@
+@red oak@|@karihton@
+@refrigerator@|@kakhwawihstonhtha@
+@rest (v.)@|@-torishenks@
+@restaurant@|@tsi teyontska'honhkwa@
+@ring@|@ennihsnonhsawi'@
+@river@|@kahyonhowanen@
+@road@|@ohaha@
+@robin@|@tsihskoko@
+@rock@|@otstènra@
+@roof@|@ahskwa@
+@roots@|@ohtera@
+@rubber@|@ohnatirontha@
+@ruler@|@wate'nyentenhstahkwa@
+@salad dressing@|@yehontohseràtha@
+@salt@|@tyohyòtsis@
+@Saturday@|@Tsi yenaktohares@
+@scarf@|@teyontenyàteren'@
+@seagull@|@tsyowatstakawe@
+@see (.v)@|@-tkahthos@
+@seed@|@kanen@
+@sell (v.)@|@-tenhninons@
+@Seneca nation@|@Shotinontowane'hàka@
+@September@|@Sehske'kowa@
+@seven@|@tsyatak@
+@seventeen@|@tsyatak-yawenre@
+@seventy@|@tsyatak-niwahsen@
+@sew (v.)@|@-e'nikhons@
+@sewing machine@|@ye'nikhonhkwa@
+@shady: it is ~@|@yorahkwawerhon@
+@sheep@|@siksik@
+@shelf@|@yohswen'karohare@
+@shoes@|@ahta'@
+@shovel@|@karihstohare@
+@silk@|@kanheks@
+@silver@|@ohwihstakenra@
+@sing (v.)@|@-terennotha'@
+@sit down (v.)@|@-tyars@
+@six@|@yayak@
+@sixteen@|@yayak-yawenre@
+@sixty@|@yayak-niwahsen@
+@skirt@|@kakhare@
+@sky@|@karònya@
+@sleeting: it is ~@|@yowisarhon@
+@smell (v.)@|@-tehswàtha'@
+@snake@|@onyare@
+@snowing: it is ~@|@yo'keren'onh@
+@snowmobile@|@wahsi'kwìserehs@
+@snowshoes@|@kahwènkare@
+@snowsnake@|@aterahwènta@
+@snowstorm: there is a ~@|@tekanyen'kwatase@
+@soap@|@yenohrètha@
+@socks@|@karis@
+@soda@|@kahnekakon@
+@soft maple tree@|@kahtha'kenra@
+@son@|@-yen'a@
+@song@|@karenna@
+@soup@|@kanòntara@
+@soup bowl@|@yenon'tararahkwa@
+@speak (v.)@|@-tatis@
+@spear@|@ahsìkwara@
+@spoon@|@atokwa@
+@spouse@|@rone@
+@spruce tree@|@o'sora@
+@squash@|@onon'onhsera@
+@steel@|@yorihstahniron@
+@stomach@|@ohsyehònta@
+@stone@|@onenya@
+@store@|@tsi yontenhninontha@
+@stove@|@yekhonnya'tahkwa, yononhsa'tariha'tahkwa@
+@strawberries@|@niyohontehsha@
+@stream@|@kahyonha@
+@string@|@ahseriye'@
+@string beans@|@orhotsheri@
+@strong wind@|@kawera'shatste@
+@study (v.)@|@-terinwayenhstha'@
+@sugar bowl@|@yetsikhe'tarahkwa@
+@sugar maple tree@|@wahtha@
+@summer: in the ~@|@akennha'kène@
+@Sunday@|@Yawentatokenhton@
+@sunny: it is ~@|@yorahkite@
+@swim (v.)@|@-tawenhs@
+@table@|@atekhwàra@
+@take (v.)@|@-hnyotakwas@
+@taste (v.)@|@-tkènse's@
+@tea@|@oti@
+@tea kettle@|@yohoronte@
+@teapot@|@yotitsheronnyàtha@
+@teeth@|@onawira@
+@telephone@|@yontewennata'ahstha@
+@television@|@kaya'tarha@
+@ten@|@oyeri@
+@tent@|@atosera@
+@thirteen@|@ahsen-yawenre@
+@thirty@|@ahsen-niwahsen@
+@three@|@ahsen@
+@three hundred@|@ahsen-tewn'nyawer@
+@three thousand@|@ahsen-tewen'nyawe'ehseron@
+@throat@|@ohnyàsa@
+@thumb@|@oweyonhkara@
+@thundering: it is ~@|@yoweron@
+@Thursday@|@Kayerihatont@
+@tin@|@karihstakenra@
+@today@|@kenh wenhniserate@
+@toe@|@ohyakwira@
+@tomatoes@|@wahyakhahon@
+@tomorrow@|@enyorhenne'@
+@tongue@|@en'nahsa@
+@tornado: there is a ~@|@tekaweratase@
+@towel@|@yontya'tokewàtha@
+@town@|@kanata@
+@train@|@teyo'seretsheràka@
+@tree@|@kerhite@
+@trunk@|@karonta@
+@try (v.)@|@-te'nyentenhs@
+@Tuesday@|@Tekenihatont@
+@turkey@|@skawerowane@
+@turn around (v.)@|@-tkarhatenyes@
+@turnip@|@otsihkwa'kowa@
+@turtle@|@a'nowara@
+@twelve@|@tekeni-yawenre@
+@twenty@|@tewahsen@
+@twenty-eight@|@tewahsen-sha'tekon@
+@twenty-five@|@tewahsen-wisk@
+@twenty-four@|@tewahsen-kayeri@
+@twenty-nine@|@tewahsen-tyohton@
+@twenty-one@|@tewahsen-enhskat@
+@twenty-seven@|@tewahsen-tsyatak@
+@twenty-six@|@tewahsen-yayak@
+@twenty-three@|@tewahsen-ahsen@
+@twenty-two@|@tewahsen-tekeni@
+@two@|@tekeni@
+@two hundred@|@tekeni-tewn'nyawer@
+@two thousand@|@tekeni-tewen'nyawe'ehseron@
+@typewriter@|@tekarihstoraraks@
+@uncle@|@-noha's@
+@upper part of leg@|@ohahsa@
+@use (v.)@|@-tstha'@
+@vegetables@|@a'sehson'a@
+@vinegar@|@yoti'tsyatken@
+@wall@|@ahsonhta@
+@wallet@|@yehwihstarakhwa@
+@washcloth@|@yekonhsohare'tahkwa@
+@washing machine@|@kanohares@
+@watch (.v)@|@-teròroks@
+@water@|@ohneka, ohnekanos@
+@water pitcher@|@yehnekarahkwa@
+@watermelon@|@onon'onhserakahte@
+@Wednesday@|@Ahsenhatont@
+@weed@|@kahontaksen@
+@whale@|@ohswakaront@
+@white@|@kenraken@
+@white ash tree@|@kaneron@
+@white cedar tree@|@yonen'tòren@
+@white oak@|@otokenha@
+@white sugar@|@katsikhe'takenra@
+@wild animal@|@kario@
+@win (v.)@|@-tkwenyes@
+@window@|@tsi yohsonhtakàronte@
+@window pane@|@otsisera@
+@windy: it is ~@|@yaote@
+@winter: in the ~@|@kohsera'kène@
+@wolf@|@okwaho@
+@wood@|@oyente@
+@wrist@|@onentshawìtha@
+@wristband@|@atenentshawìtha@
+@write (v.)@|@-hyatons@
+@yeast@|@yohsherhatken@
+@yellow@|@otsinekwar@
+@yesterday@|@thetenre@
+@younger brother@|@-'kenha@
+

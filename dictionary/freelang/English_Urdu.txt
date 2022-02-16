@@ -1,0 +1,410 @@
+@English@|@Urdu@
+@Author name@|@Rush Shah@
+@Font@|@Arial\12\Arial\12@
+@a crown@|@taaj@
+@above@|@oopar@
+@absolutely@|@bilkul@
+@accident@|@sanjog@
+@accuracy@|@sach@
+@admiration@|@taareef@
+@adorning@|@tahzeeb@
+@age@|@umr@
+@agreement@|@ittefaaq@
+@aid@|@sahaaraa@
+@alive@|@zinda@
+@all@|@har@
+@ally@|@naseer@
+@always@|@hamesha@
+@anklet (gold or silver)@|@paayal@
+@any@|@har@
+@army@|@urdu@
+@arrogance@|@nashaa@
+@ashamed@|@sharmindaa@
+@assembly@|@jalsa, mefil@
+@authority@|@qudrat@
+@away from home land@|@pardesi@
+@back@|@vaapas@
+@baggage@|@rakht@
+@bank@|@pushtaa@
+@bashful@|@sharmili@
+@beauty@|@joban@
+@beggar@|@bhikari@
+@behalf of@|@waaste@
+@behind@|@vaapas@
+@beloved@|@nigaar@
+@bible of islam@|@quraan@
+@blessing@|@dua@
+@blood@|@lahoo@
+@body@|@jism, tan@
+@body and soul@|@tan man@
+@body soul and wealth@|@tan man dhan@
+@book@|@kitaab@
+@bottle@|@sheesha@
+@bottom@|@neeche@
+@bowl@|@jaam@
+@bracelet@|@kangan@
+@bravo@|@vah!@
+@broker@|@vaastaa@
+@but@|@lekin@
+@call@|@salaa@
+@camp@|@urdu@
+@candle@|@shamaa@
+@carefree@|@be-fikri@
+@chance@|@sanjog@
+@cheap@|@arzaani@
+@cheek@|@aariz@
+@chickpea@|@chanaa@
+@circumfrence@|@madaar@
+@civilization@|@tahzeeb@
+@clamour@|@saut@
+@clean@|@paakeezaa@
+@collision@|@muqaabalaa@
+@color@|@rang@
+@comfort@|@sukh@
+@common@|@rasmi@
+@compelled@|@majboor@
+@competition@|@muqaabalaa@
+@condition@|@aalam@
+@confidence@|@etebaar@
+@confusion@|@uljhan@
+@congregation@|@mefil@
+@connection@|@sanjog, vaastaa@
+@country@|@watan@
+@courage@|@jigar, yaaraa@
+@crack@|@shak@
+@cup@|@jaam@
+@cure@|@shifa@
+@curtain@|@pardaa@
+@custom@|@rasm@
+@dark complexion@|@laila@
+@date@|@taareekh@
+@day@|@din@
+@death@|@maut@
+@debt@|@udhaar@
+@deed@|@karm@
+@defeat@|@haar@
+@defender@|@naseer@
+@desire@|@armaan, niyaaz@
+@devine presence@|@laahoot@
+@devotee@|@jogan@
+@devotion@|@pujaa@
+@dialect@|@zaban@
+@difficulty@|@uljhan@
+@dignity@|@aabroo, shaan@
+@disclosure@|@izhaar@
+@dispute@|@nizaa@
+@divine love@|@ishq@
+@doomsday@|@qayaamat@
+@drunkard@|@sharaabi@
+@dyke@|@pushtaa@
+@earth@|@saraa@
+@ease@|@sukh@
+@effect@|@asar@
+@elegance@|@jamaal@
+@end@|@intehaa@
+@enjoyment@|@mazaa@
+@enough@|@bas@
+@entertainment@|@tamaashaa@
+@entire@|@tamaam@
+@equal@|@tul@
+@era@|@taareekh@
+@essential@|@zaroor@
+@estimate@|@andaaz@
+@etiquette@|@aadaab@
+@every@|@har@
+@everyday@|@roz@
+@evident@|@maaloom@
+@except@|@siwa@
+@excuse@|@bahaanaa@
+@expensive@|@giraani@
+@face@|@chehra, soorat@
+@faith@|@wafaa@
+@faithless@|@be-wafa@
+@father@|@abu@
+@fault@|@qusoor@
+@feeling@|@ehsas@
+@female friend@|@yaari@
+@field@|@khet@
+@fiery@|@naari@
+@figure@|@soorat@
+@flying@|@tag@
+@food@|@zaad@
+@foot of hill@|@daaman@
+@footstep@|@qadam@
+@forceful@|@zor@
+@forgetfulness@|@bhool@
+@form@|@soorat@
+@formal@|@rasmi@
+@fortunate@|@naseeb@
+@freedom@|@aazaadi@
+@friend@|@aashnaa, dost@
+@game@|@khel@
+@garden@|@bageecha@
+@gash@|@zakham@
+@ghost@|@bhoot@
+@gift@|@tohfa@
+@glance@|@nazar@
+@glory@|@shaan@
+@god@|@bhagwaan, khudaa@
+@god's protection upon you@|@khuda haafiz@
+@grace@|@adaa@
+@greed@|@aaz@
+@ground@|@zameen@
+@happiness@|@mangal@
+@healing@|@shifa@
+@heart@|@dil, jigar@
+@heavy@|@dushwaar@
+@hellish@|@naari@
+@help@|@sahaaraa@
+@helpless@|@be-bas, majboor@
+@hermit@|@jogan@
+@history@|@taareekh@
+@home@|@ghar@
+@house@|@ghar@
+@human@|@insaan@
+@hunger@|@bhuk@
+@hurricane@|@aandhi@
+@idle@|@be-kaar@
+@idol@|@sanam@
+@if not@|@varna@
+@impression@|@asar@
+@in that manner@|@waisa@
+@innocent@|@be-khataa, maasoom@
+@intoxication@|@nashaa@
+@inverted@|@ultaa@
+@invitation@|@bulaawaa, salaa@
+@jewel@|@ratan@
+@justice@|@insaaf@
+@key@|@chabi@
+@kind of pigeon@|@yaahoo@
+@kindness@|@karam@
+@king@|@shah@
+@kiss@|@bosaa@
+@known@|@maaloom@
+@ladies' head sheet@|@orhni@
+@lamentations@|@sog@
+@lamp@|@shamaa@
+@law@|@qaanoon@
+@left@|@chap@
+@life@|@jaan@
+@light@|@aasaan, noor@
+@lighting@|@bijili@
+@like that@|@waisa@
+@line@|@lakeer@
+@liquor@|@sharaab@
+@little@|@kam@
+@liver@|@jigar@
+@living@|@zinda@
+@loan@|@udhaar@
+@lock of hair@|@zulf@
+@look@|@nazar@
+@love@|@pyaar, ulfat@
+@lover@|@aashiq, aashnaa, saajan, sanam@
+@lower@|@neeche@
+@lunatic@|@deewana@
+@lust@|@aaz@
+@lustre@|@shaan@
+@mad@|@deewana@
+@madness@|@deewaangi@
+@magic@|@jaadoo@
+@magician@|@jaadoogar@
+@manner@|@kareena@
+@many@|@aksar@
+@mark@|@nishaanaa@
+@marriage@|@shaadi@
+@master@|@abu@
+@medium@|@vaastaa@
+@meeting@|@sangam@
+@memorial@|@yaadgaar@
+@memory@|@zikr@
+@mercy@|@maayaa@
+@mere@|@sirf@
+@message@|@paighaam@
+@minor tunes in music@|@raagni@
+@miser@|@shoom@
+@mistake@|@bhool@
+@monkey@|@bandar@
+@month@|@mahina@
+@monument@|@yaadgaar@
+@moon@|@chaand@
+@mosque@|@masjid@
+@mother@|@maadar@
+@musical tune@|@taal@
+@mystery@|@raaz@
+@naked@|@nangaa@
+@name@|@naam@
+@names@|@asmaa@
+@native place@|@watan@
+@neat@|@paakeezaa@
+@new@|@nayaa@
+@night@|@raat@
+@no@|@naa@
+@noise@|@shore@
+@not@|@naa@
+@oath@|@kasam@
+@offering@|@niyaaz@
+@on account of@|@waaste@
+@one who delivers@|@rasaan@
+@only@|@sirf@
+@opposite@|@ultaa@
+@orbit@|@madaar@
+@otherwise@|@varna@
+@outcry@|@shore@
+@pace@|@qadam@
+@pain@|@dukh@
+@peace@|@sukoon@
+@pedestrian@|@raahi@
+@pen@|@qalam@
+@perhaps@|@kaash@
+@person@|@aadmi@
+@picture@|@nigaar@
+@pinch@|@chutki@
+@pleasure@|@mangal@
+@pledge@|@iqarar@
+@portion@|@bhaag@
+@possession@|@maal@
+@power@|@qudrat, yaaraa@
+@practice@|@riyaaz@
+@praise@|@taareef@
+@precious stone@|@ratan@
+@present@|@tohfa@
+@price@|@kimat@
+@pride@|@nashaa@
+@profit@|@nafaa@
+@promise@|@vaadaa@
+@promising to sin no more@|@taubaa@
+@property@|@rakht@
+@protection@|@saayaa@
+@protector@|@parwar@
+@provision@|@zaad@
+@pupil of eye@|@ratan@
+@pure@|@paakeezaa@
+@pyramid@|@ahraam@
+@rare@|@kam@
+@real@|@sach@
+@recess in wall@|@taaq@
+@red@|@laal@
+@related@|@marwi@
+@relation@|@vaastaa@
+@reliance@|@bharosaa@
+@relief@|@chain@
+@religion@|@dharm@
+@remeberence@|@zikr@
+@rememberence@|@yaad@
+@respect@|@izzat@
+@response@|@qarar@
+@rest@|@qarar, sukoon@
+@restless@|@be-qarar@
+@returning@|@vaapas@
+@rhythmic beating of hands@|@taal@
+@right@|@rast@
+@road@|@raastaa@
+@rope@|@rasan@
+@route@|@jaadaa@
+@running@|@tag@
+@rushing@|@tag@
+@sacrifice@|@qurbaan@
+@scarf (for female)@|@chunari@
+@screen@|@pardaa@
+@secret@|@raaz@
+@sensitive flower@|@laajwanti@
+@seperate@|@juda@
+@series@|@silsilaa@
+@shade@|@saayaa@
+@shadow@|@saayaa@
+@shame@|@lajjaa, sharm@
+@shamless@|@be-sharam@
+@shape@|@soorat@
+@shelter@|@saayaa@
+@shop@|@dukaan@
+@shout@|@pukaar@
+@show@|@tamaashaa@
+@shriek of distress@|@saut@
+@side by side@|@sang@
+@sign@|@ishaaraa@
+@similar@|@tul@
+@similar to@|@aasaa@
+@skirt@|@daaman@
+@sky@|@aasmaan@
+@slowly@|@kam@
+@smoke@|@dukhaan@
+@soft@|@komal@
+@soil@|@dharti, zameen@
+@song@|@taraanaa@
+@sore@|@zakham@
+@sorrow@|@gham@
+@soul@|@jigar@
+@sound@|@awaaz@
+@south@|@dakan@
+@span of life@|@umr@
+@spring@|@bahar@
+@star@|@sitaaraa, taaraa@
+@stature@|@qaanoon@
+@step@|@qadam@
+@still@|@lekin@
+@storm@|@toofan@
+@strength@|@shakti, yaaraa@
+@stupid@|@paglaa@
+@succession@|@silsilaa@
+@suffering@|@dukh@
+@support@|@sahaaraa@
+@supreme being@|@bhagwaan, khudaa@
+@sweetheart@|@saajan@
+@target@|@nishaanaa@
+@tea@|@chai@
+@tea pot@|@chai daani@
+@tears@|@aansoo@
+@temple@|@mandir@
+@that way@|@udhar@
+@thief@|@chor@
+@this way@|@idhar@
+@this way and that@|@idhar udhar@
+@thorn@|@kaantaa@
+@tiara@|@taaj@
+@time@|@vaqt@
+@to clean@|@saaf@
+@to do@|@kar@
+@tomorrow@|@kal@
+@tooth@|@dandaan@
+@top@|@oopar@
+@tounge@|@zaban@
+@tranquility@|@shanti@
+@traveler@|@raahi@
+@truth@|@sach@
+@tumult@|@shore@
+@uncle (father's brother)@|@kaakaa@
+@ungrateful@|@be-qadar@
+@union@|@sangam@
+@universe@|@aalam@
+@unlucky@|@shoom@
+@urdu language@|@urdu@
+@utmost limit@|@intehaa@
+@vagabond@|@aawaaraa@
+@valuable present@|@yaadgaar@
+@victory@|@nusrat@
+@viel@|@pardaa@
+@village@|@qaryaa@
+@vision@|@nazar@
+@water@|@paani@
+@way@|@kareena@
+@wealth@|@maal@
+@wedding@|@shaadi@
+@wine@|@sharaab@
+@wish@|@aarzoo@
+@with@|@sang@
+@without@|@bina@
+@without fail@|@zaroor@
+@work@|@kaam@
+@world@|@duniya@
+@worship@|@pujaa@
+@worthless@|@be-qadar@
+@worthy of consideration@|@qaabil@
+@wound@|@zakham@
+@writer@|@adeeb@
+@writing@|@rasm@
+@year@|@saal@
+@yesterday@|@kal@
+@yet@|@lekin@
+@you (formal)@|@aap@
+@youth@|@joban@
+

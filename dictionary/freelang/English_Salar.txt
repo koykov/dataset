@@ -1,0 +1,313 @@
+@English@|@Salar@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a relative@|@qaryn-taš@
+@acid@|@aažy@
+@additionally@|@tähy, taxi@
+@after@|@son@
+@also@|@bile@
+@an ending of the 2d person@|@-ng@
+@anger@|@öhhen@
+@animal's hair@|@jüx, tüx@
+@ant@|@qomusqän, qumusqa@
+@arm@|@qol@
+@ashes@|@kül@
+@back@|@ardi, arGa, arxa@
+@bad@|@jaman@
+@badger@|@porsux@
+@bag@|@jenžux@
+@bald@|@taz@
+@ball of wool@|@jumax@
+@barley@|@arfa@
+@bat@|@jeresen@
+@become satiated@|@toj-@
+@bell@|@qonguraw@
+@bird@|@Guš@
+@black@|@Gara@
+@blanket@|@jorhan@
+@blood@|@Ga'n@
+@blue@|@Gux@
+@blunt@|@tombyx@
+@boat@|@kimö@
+@bone@|@senix@
+@branch@|@putax, pütax@
+@brave man@|@ixit, jihit@
+@calf@|@puzo, püzy@
+@camel@|@töje, töüvä, tüvi@
+@cat@|@mišix@
+@cheek@|@jangax@
+@claw@|@jyrna'x@
+@clay@|@palçyx@
+@cloud@|@bu'lyt@
+@cold@|@sox@
+@collide@|@toola-@
+@community@|@töj@
+@courage@|@jyrüx@
+@cow@|@kölex@
+@daughter-in-law@|@kein, kiin@
+@dew@|@çyx-çu@
+@distant@|@jyrax@
+@dog@|@išt@
+@dream@|@tel@
+@dry@|@Guru, Gury@
+@dung@|@tesex, tözex@
+@dye@|@bojax@
+@ear@|@Gulax@
+@ear-ring@|@syrha@
+@earth-worm@|@suhulžun@
+@edge@|@jaxa@
+@egg@|@jymüdda, jymürdda@
+@elder brother's wife@|@janggu, jengGo, jengko@
+@empty@|@boš@
+@eye@|@gö'z@
+@face@|@jiz, jüz@
+@far@|@uzyx@
+@fat@|@jah, semüs@
+@father@|@aba, apa@
+@fathom@|@qulaš@
+@female breast@|@göfrix@
+@fire@|@oht@
+@fish@|@balux@
+@fit into@|@syx-@
+@flower@|@çiçex@
+@foal@|@tory@
+@foot@|@aja'x@
+@forest@|@ormän@
+@forty@|@qyrx, qyryx@
+@fountain@|@jul@
+@fowl@|@tox@
+@fox@|@t'iligu, tüligu@
+@frog@|@paha@
+@front@|@aldy-@
+@full@|@doli', t'oly, töl-@
+@gall@|@öt@
+@garlic@|@samsax@
+@gate@|@qaavu@
+@gather@|@teere-@
+@get to know@|@tany-, täny-@
+@girl@|@qyz@
+@go away@|@baar-, paar-, var-@
+@god@|@tanru@
+@good@|@jaxšy@
+@grass@|@çöp@
+@green@|@jäšil@
+@gruel@|@koža@
+@hair of head@|@sach@
+@hair on back of head@|@sachyx@
+@halter@|@julur@
+@hand@|@el@
+@handful@|@už@
+@hare@|@töšen@
+@head@|@baš@
+@heavy@|@ahyr@
+@honey@|@pal@
+@hoof@|@c'ynah@
+@horn@|@mongyz@
+@horse@|@ac, at@
+@hundred@|@jüz@
+@husbands of sisters@|@paža@
+@I@|@mee, meen@
+@ice@|@muz@
+@interrogative particle@|@-mi@
+@irrational@|@munax@
+@joint@|@puhum@
+@knee@|@tizy, tüzy@
+@lamb@|@qöza@
+@land@|@jer@
+@language@|@cil@
+@large bovine@|@syxyr@
+@leaf@|@järfyx@
+@leather belt@|@qajyš@
+@lentil@|@jasmux@
+@level@|@tiz, tüz@
+@lie@|@jalhan@
+@light@|@jarux@
+@lip@|@totax, totyx@
+@little@|@kiži@
+@liver@|@bahyr@
+@long@|@uzyn@
+@louse@|@bišt@
+@magpie@|@syxsyhan@
+@mallet@|@toxmax@
+@man@|@erkek@
+@many@|@köp@
+@marrow@|@ileh@
+@matchmaker@|@söži@
+@meat@|@äht@
+@milk@|@süt@
+@millet@|@dary, qonax@
+@mole on the face@|@meng@
+@month@|@aj@
+@mood@|@göjngy@
+@mother@|@ana@
+@mountain@|@daah@
+@mouth@|@ahyz@
+@musk@|@ju'ar, juxar@
+@name@|@aat@
+@narrow@|@dar@
+@navel@|@kintix, kinžix@
+@near@|@jaxyn@
+@neck@|@bojny@
+@new@|@jangy@
+@night@|@gäži@
+@nose@|@purny@
+@not@|@-my-@
+@one@|@pir, pur, pyr@
+@onion@|@sohan, sohän@
+@outer side@|@dašy@
+@pair@|@qoš@
+@pass through@|@öt-@
+@people@|@kiši@
+@perforated@|@serex@
+@pig@|@tongas@
+@pillow@|@jastux@
+@pipe@|@tütülüx@
+@plough@|@sovan@
+@plum@|@örüx, örüx@
+@possess. suffix (3d person)@|@-sy@
+@pregnant@|@bojahyr, bojy agyr@
+@pull out@|@soxur-@
+@rafter@|@sal@
+@rain@|@jahmur@
+@ram@|@qošqor, qošqur@
+@red@|@Gyzil@
+@rich@|@bar, par@
+@right@|@sax@
+@road@|@jol@
+@roll together@|@tür-@
+@rope@|@bax, orxan, urxan@
+@round@|@gulylüx@
+@saddle@|@enger@
+@salt@|@duz, düž, tuz@
+@sand@|@Gum@
+@seed@|@aš-lyq@
+@seven@|@jitti@
+@shave@|@qyr-@
+@shin@|@inžix@
+@short@|@qysGa@
+@shoulderblade@|@jahrä@
+@side@|@jan@
+@sieve@|@elex@
+@skin@|@ciiry@
+@smoke@|@cücyn, tyssy@
+@snake@|@jilyn@
+@soil@|@to'ryx@
+@song@|@jür@
+@son-in-law@|@kui@
+@sparrow@|@sicha, sižä@
+@speech@|@söz@
+@spring@|@jaz@
+@star@|@jyldus@
+@stick in@|@çaar-@
+@stomach@|@xusax@
+@stone@|@daš@
+@submerge@|@sing-@
+@summer@|@jij@
+@sun@|@güun@
+@support@|@tiräk@
+@sweat@|@ter@
+@tail@|@Gurux@
+@tear@|@jaš@
+@that@|@an-dy (loc.), ang-a (dat.), dühü, tuu, u@
+@there is@|@baar, par, vaar@
+@there is not@|@jox@
+@thief@|@ohry@
+@thin@|@läšgi@
+@thing@|@ii@
+@this@|@bu, vu@
+@thou@|@së, sën@
+@thousand@|@ming@
+@thread@|@jip@
+@throat@|@pohtax, poxtax@
+@thumb@|@parmax@
+@to ask@|@sor-, sur-@
+@to be@|@ir-@
+@to be beneficial@|@jara-@
+@to be broken@|@sun-@
+@to beat@|@ça'-, çap-@
+@to become@|@boo-, vol-, voo-@
+@to break@|@syndyr-@
+@to bury@|@köm-@
+@to chew@|@çäinä-, çene-, küšä-@
+@to close eyes@|@jum-@
+@to collect@|@jih-@
+@to come@|@gej-, gel-@
+@to cover@|@öxt-@
+@to create@|@jasa-@
+@to curve@|@pöx-@
+@to die@|@ül-@
+@to dive@|@çöm-, çum-@
+@to drink@|@iiç-@
+@to drive away@|@sür-@
+@to eat@|@ji-@
+@to enter@|@kir-@
+@to find@|@ta'p-@
+@to fly@|@uš-@
+@to give@|@be-, ber-, ve-, vë-, ver-, vër-@
+@to go away@|@Gi-, Gii-@
+@to grasp@|@tut-@
+@to hang@|@ta't-@
+@to hear@|@išti-@
+@to hurry@|@jü'kür-, jugur-@
+@to join@|@qoš-@
+@to kill@|@üldyr-@
+@to knead@|@juhur-@
+@to kneel down@|@çök-, çöx-@
+@to know@|@bil-@
+@to lick@|@jala-@
+@to melt@|@iri-@
+@to milk@|@sax-@
+@to patch@|@jama-@
+@to pour out@|@tü'-@
+@to press@|@pas-@
+@to pull@|@sure-@
+@to put@|@sal-@
+@to rain@|@jah-@
+@to reach@|@jet-@
+@to rize@|@mim-, min-, ming-@
+@to say@|@dij-, edi-@
+@to see@|@gör-@
+@to sell@|@sat-@
+@to sink@|@pat-@
+@to sit@|@oht-, ohtyr-@
+@to sleep@|@jaht-, uxla-@
+@to smear@|@sova-, suva-@
+@to sow@|@ex-@
+@to split@|@jar-@
+@to spread@|@ser-@
+@to stand@|@dyr-@
+@to swim@|@ju-@
+@to twist@|@iher-@
+@to walk@|@a'tla-, jür-@
+@tooth@|@ciš@
+@tree@|@ahaç, ahaš, daal@
+@two@|@išky@
+@unsubstantial@|@joxba@
+@variegated@|@ala@
+@vehicle@|@hangly@
+@vein@|@tamyr@
+@voice@|@un@
+@waist@|@bil@
+@walk through@|@gez-@
+@wall@|@tam@
+@warm@|@hyssy, jili@
+@watch@|@pax-, vax-@
+@water@|@su@
+@we@|@pise, piser@
+@what@|@ne@
+@white@|@ax@
+@who@|@käm@
+@wild goat@|@kijyx@
+@wind@|@jel@
+@window@|@tümlüx@
+@wing@|@qanat@
+@wolf@|@püre@
+@wooden fork@|@jowa, jöwa@
+@wool@|@jung@
+@year@|@jaš, jel@
+@yellow@|@sary@
+@young@|@jaš@
+@young animal@|@bala@
+@young maral@|@orha@
+@younger sister@|@singil, singne, singni@
+

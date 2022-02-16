@@ -1,0 +1,3859 @@
+@English@|@Tok Pisin@
+@Author name@|@Nils R. Bull Young@
+@Font@|@Arial\12\Arial\12@
+@"born in the bush"@|@bastat@
+@"that's right!"@|@tru@
+@(+ nouns > plural sign)@|@ol@
+@(common preposition) to@|@long@
+@(comparative marker) "than" + adjective@|@long@
+@(completive aspect of verbs)@|@pinis@
+@(durative of verbs) -ing@|@stap@
+@(indirect object sign)@|@long@
+@(intentional aspect)@|@bai@
+@(mechanical) jack@|@jek@
+@(specifically Tahitian chestnut)@|@galip@
+@a@|@wanpela@
+@a few@|@wan wan, wanpela wanpela@
+@a kind of@|@samkain@
+@a little@|@liklik@
+@a long time@|@longtaim@
+@a long time ago@|@longbek@
+@a piece@|@hap@
+@abandon@|@lusim@
+@able@|@inap@
+@about@|@baut, inap, klostu, nabaut, nabaut@
+@about (a place)@|@nabautim@
+@about them@|@en (long+em)@
+@above@|@antap, antap long@
+@abscess@|@sua@
+@acacia tree@|@akas@
+@accordingly@|@olsem na@
+@accuse@|@kotim, putim hevi@
+@actually@|@tru@
+@address@|@adres, atres@
+@adhesive tape@|@plasta@
+@administrative@|@gavman@
+@admire@|@amamas long, mangalim@
+@adornment@|@bilas@
+@advance@|@goan@
+@Advent (religious season)@|@Adven@
+@advise@|@skul@
+@afraid@|@guria, pret@
+@Africa@|@Afrika@
+@after@|@behain@
+@after a while@|@bambai@
+@after sundown@|@ivening@
+@afternoon@|@apinum@
+@afterwards@|@behain@
+@again@|@gen@
+@age group@|@lain@
+@aged@|@lapun@
+@agenda@|@minits@
+@agitator@|@hambakman@
+@ago@|@bipo long, i-lus, long-bek@
+@agree@|@orait long, yes long, yesa long@
+@agreeable@|@orait, swit, switpela@
+@agreement@|@kontrak, sekan@
+@ahead@|@pas@
+@aimless@|@nabaut@
+@air@|@hava, win@
+@airplane@|@balus@
+@airport@|@ples balus@
+@alarm clock@|@klok belo@
+@albino@|@waitskin@
+@alcohol@|@alkohol, Spirit, spirit, wiski@
+@alike@|@wankain@
+@all@|@ol, olgeta, olpela@
+@all citrus fruit@|@muli@
+@all day@|@olde@
+@all kinds@|@olkain@
+@all kinds of@|@olkain@
+@all of you@|@yupela olgera@
+@all relatives from the mother's side@|@kandere@
+@all siblings@|@bratasusa@
+@all the time@|@oltaim@
+@all who live in one house@|@wanhaus@
+@allegory@|@tok bokis@
+@almost@|@klosap@
+@alone@|@tasol, wanpela, wanpis@
+@along with@|@tupela@
+@alongside@|@abris, arere, klostu long@
+@also@|@tu@
+@altar (religious)@|@alta@
+@altogether@|@olgeta@
+@always@|@oltaim@
+@amen@|@tru@
+@America@|@Amerika@
+@American@|@Amerika@
+@among@|@namel long@
+@amplifier@|@bikmaus@
+@an@|@wanpela@
+@ancestor@|@man blong bipo@
+@ancestors@|@tumbuna@
+@ancestral figures; ceremonial masks@|@tumbuan@
+@ancestral spirits@|@tambaran@
+@ancestral worship@|@tambaran@
+@ancestry@|@lain@
+@anchor@|@anka@
+@and@|@na, wantaim@
+@and so@|@na, olsem na@
+@and then@|@na@
+@angel@|@ensel@
+@anger@|@belhat@
+@angry@|@kros, pes@
+@anima@|@spirit@
+@animal@|@animal, binatang@
+@animist spirits@|@masalai@
+@announcer@|@haloman@
+@another@|@naranpela@
+@another (of a sort)@|@narapela@
+@another kind@|@narakain@
+@another kind; different@|@arakain@
+@another one@|@arapela@
+@answer@|@ansa, tokbek@
+@ant@|@anis@
+@antiseptic@|@marasin blong klinim sua@
+@anxious@|@guria@
+@anything@|@olgera samting, samting@
+@apart from@|@abrus long@
+@apostle@|@aposel@
+@appearance@|@ausait, luk@
+@apple fruit tree@|@aiai@
+@April@|@Epril@
+@areca palm@|@limbum, limbun@
+@arm@|@han@
+@armband@|@paspas@
+@army@|@ami@
+@around@|@nabaut, raun@
+@arrow@|@spia@
+@as if@|@olsem@
+@as one@|@wanlain@
+@as ples@|@home@
+@asembli@|@assembly@
+@Ash Wednesday@|@As Trinde@
+@ashamed@|@gat sem, sem@
+@aspirin@|@asprin@
+@asprin@|@aspirin@
+@assembly@|@bung@
+@assist@|@helpim@
+@associate@|@join@
+@asthma@|@sotwin, winsot@
+@astray@|@raunpela@
+@asua@|@fault@
+@at@|@long, long@
+@at first@|@pastaim@
+@at once@|@wan tu@
+@at the present time@|@nau@
+@atebrine@|@atebrin@
+@attention@|@atensan@
+@aua@|@hour@
+@auction@|@oksen@
+@August@|@Augas, Ogas@
+@aunt@|@mama, mama, smolmama@
+@ausait@|@exterior@
+@Australia@|@Ostrelya@
+@Australian@|@Ostrelya@
+@authority@|@namba@
+@auto@|@motoka@
+@auto tire@|@taia@
+@away@|@i go@
+@axe@|@akis, tamiok@
+@axle@|@sap@
+@ba@|@bar@
+@baby@|@bebi, pikinini@
+@back@|@baksait, bek@
+@back of ship@|@stan@
+@back side@|@baksait@
+@backpack@|@ruksak@
+@back-pack@|@ruksak@
+@bad@|@nogut@
+@bad language@|@tok nogut@
+@bad weather@|@taim nogut@
+@badge of rank@|@namba@
+@bag@|@bek, paus@
+@bagarap@|@damaged@
+@balanced@|@skel@
+@bald@|@het kela, kela, klia@
+@ball@|@bal@
+@ballast@|@balas@
+@bamboo@|@mambu@
+@banana@|@ananas, banana@
+@bandage@|@banis, lin, plasta@
+@bandicoot@|@mumut, mumut@
+@bang@|@bengim, pairap@
+@bank@|@beng@
+@bank book@|@sekbuk@
+@banner@|@plak@
+@baptise@|@baptais, waswas@
+@bar@|@ba@
+@barb@|@huk@
+@barbecue@|@kukim long paia@
+@barbed wire@|@kakang, nilwaia@
+@bare@|@kela, nating, skin nating@
+@baren@|@klia@
+@baren land@|@klia@
+@bark loin covering@|@mal@
+@barrel@|@kas@
+@base@|@as@
+@basin@|@dis@
+@basis@|@as@
+@basket@|@basket@
+@basketball@|@basketbal@
+@bastard@|@bastat@
+@bat (animal)@|@blakbokis@
+@battery@|@bateri@
+@battle@|@pait@
+@battleship@|@manua@
+@bay@|@pasis@
+@bayonet@|@bainat, bainet@
+@be about to@|@laik@
+@beach@|@nambis, sua@
+@beads@|@bis@
+@bean@|@bin@
+@beard@|@mausgras, usket, wiskas@
+@beautiful@|@nais@
+@because@|@bikos, long wanem@
+@because (of)@|@bikos@
+@bed@|@bet@
+@bedbug@|@musmus@
+@bedroom@|@rum slip@
+@bee@|@binen@
+@beef@|@kau@
+@beef (meat)@|@abus bulmakau@
+@been (auxilary perfective)@|@bin@
+@beer@|@bia@
+@before@|@bipo, paslain long@
+@beforehand@|@bipotaim@
+@beginning@|@het, pastaim, stat, stat@
+@behind@|@baksait, bihain, bihain long@
+@believe; to believe in something@|@bilip@
+@bell@|@belo@
+@bellows@|@belo@
+@belly@|@bel@
+@belong@|@bilong@
+@below@|@ananit, aninit, daun, daunbilo@
+@below; a long time ago@|@daunbilow@
+@belt@|@let, let@
+@bench@|@bang, bank@
+@bend@|@bautim@
+@bend or split something@|@brukim@
+@beneath@|@ananit@
+@bent@|@krungut@
+@best@|@gut olgera, gutpela tumas, nambawan@
+@betel@|@bilinat, buai, dakanat@
+@betel pepper vine@|@daka@
+@betel tree flower@|@kavang@
+@betelnut@|@buai, kawiwi@
+@betelnut (tree & fruit)@|@bilinat@
+@better@|@moa beta, moa gut, mobeta@
+@between@|@namel@
+@Bible@|@Baibel, testamen@
+@bicycle@|@baik, wilwil@
+@big@|@bikpela@
+@big-mouth@|@bikmaus@
+@bike@|@baik@
+@bird@|@kakaruk, paul, pisin@
+@bird of paradise@|@kumul@
+@birth hut@|@haus karim@
+@birthday@|@krismas@
+@biscuit@|@bisket@
+@bishop@|@bisop@
+@black@|@blak, blakpela@
+@black magic@|@posin@
+@black man@|@blakman@
+@black palm@|@limbum@
+@black pepper@|@pepa@
+@black person@|@buka@
+@blackboard@|@blakbot@
+@blackwater fever@|@pispis blut@
+@blade@|@resa@
+@blame@|@asua, hevi@
+@blanket@|@blanket@
+@bleed@|@karim blut@
+@blended@|@miks@
+@blessed@|@santu@
+@blessing@|@blesing@
+@blind@|@aipas@
+@blind (in one eye)@|@matakiau@
+@blind (window dressing)@|@blain@
+@blind in one eye@|@wanai@
+@blind person@|@aipas@
+@block (nautical)@|@blok@
+@blood@|@blad, blut@
+@blood relative@|@wanblut@
+@bloody (vulgar expletive)@|@bladi@
+@blossom@|@plaua@
+@blouse@|@siot@
+@blue@|@blu@
+@board@|@plang@
+@boastful@|@hambak@
+@boat@|@bot@
+@body@|@bodi, skin@
+@boil (sore)@|@buk@
+@boiling@|@boil@
+@bolt@|@skru@
+@bolts@|@mama@
+@bomb@|@bom@
+@bone@|@bun@
+@book@|@buk@
+@booklet@|@buk@
+@border@|@arere, lain@
+@bore@|@boa@
+@boss@|@bikbos, bos@
+@both@|@tupela@
+@both of you@|@yutupela@
+@bottle@|@botol@
+@bottom@|@as, daunbilo@
+@boundary@|@arere, lain@
+@boundary marker@|@konaston@
+@bow@|@banara@
+@bow & arrow@|@banara@
+@bow (and arrow)@|@banara@
+@bow (of ship)@|@poret, port@
+@bow of ship@|@fran@
+@bowels@|@bel@
+@bowl@|@dis, plet@
+@box@|@bokis, kalabus, kes@
+@boy@|@boi@
+@boy or girl before puberty@|@kulau@
+@brace@|@sut@
+@bracelet@|@paspas@
+@bracket@|@sut@
+@braggard@|@bikmaus, hambakman@
+@brake@|@brek, brek, kalabus bilong wil, kalabus blong wil@
+@branch@|@han@
+@branch of tree@|@han bilong diwai@
+@brass@|@bras@
+@brassiere@|@brasbel, susubanis@
+@brave@|@draipela bun, man i no save pret@
+@bread@|@bret@
+@breadfruit tree@|@kapiak@
+@breakfast@|@brekpas@
+@breast@|@bros, susu@
+@breath@|@win@
+@breeze@|@kolwin@
+@bribe@|@gris@
+@brick@|@brik@
+@bride@|@meri i marit nupela@
+@bridge@|@bris@
+@bridle@|@kopstik, stia@
+@briefcase@|@paus@
+@bright@|@tulait@
+@brightness@|@tulait@
+@Britain@|@Englan@
+@brnady@|@brandi@
+@broad@|@braitpela@
+@broadcast@|@brotkas, salim tok long wailis@
+@broken@|@bagarap, bruk, nogut@
+@broom@|@brum@
+@broom stick@|@brumstik@
+@broomstick@|@brum@
+@broth@|@sup@
+@brothel@|@haus bilong pamuk@
+@brother@|@brada@
+@brother- or sister-in-law@|@tambu@
+@brothers and sisters@|@bratasusa@
+@brown@|@braun(pela)@
+@brush@|@bras, bros@
+@bubble gum@|@abababa@
+@bucket@|@baket@
+@budget@|@baset@
+@bug@|@binatang@
+@bugle@|@biugel@
+@bulk store@|@bakstua@
+@bull@|@bulmakau@
+@bull shit (vulgar)@|@bulsit@
+@bullet@|@katres@
+@bully@|@bikhet, hambakman@
+@bundle@|@mekpas@
+@bus@|@bas@
+@bush@|@bus, liklik tri@
+@bush (forest)@|@bus@
+@bush knife@|@busnaip@
+@bushman@|@manabus@
+@business@|@bisnis, kampani@
+@business man@|@bisnisman@
+@businessman@|@kampani masta@
+@busy@|@bisi, wok@
+@but@|@mas, tasol@
+@butter@|@bata@
+@butterfly@|@bataplai, bembe@
+@buttock@|@as@
+@button@|@baten@
+@buttox@|@as@
+@by@|@long@
+@by (general preposition)@|@long@
+@by-and-by@|@baimbai@
+@bye-bye@|@baibai@
+@cabbage@|@kabis@
+@cabin@|@haus bilong sip, kebin@
+@cabinet@|@srang@
+@cable@|@waia@
+@cage@|@kalabus@
+@cake@|@kek@
+@calendar@|@kalenda@
+@calf@|@baksait bilong lek, pikinini bilong bulmakau@
+@calm@|@isi@
+@camel@|@kamel@
+@camera; to photo@|@poto@
+@camp@|@kem@
+@can@|@ken, tin@
+@can opener@|@optin@
+@candidate@|@kandidet@
+@candle@|@kandel@
+@candy@|@loli, suga@
+@cane@|@kanda, rotang, stik@
+@canned fish@|@tin pis@
+@canned sardines@|@tin talai@
+@cannon@|@bikgan, masket@
+@canoe@|@canu, kanu, por@
+@canoe without outrigger@|@mon@
+@canvas@|@sel@
+@cap@|@hat, kep@
+@cape@|@poin@
+@captain@|@kepten@
+@captive@|@kalabusman@
+@car@|@jip, ka, motoka, trak@
+@carabao@|@bikbel@
+@carbonated drink@|@loliwara@
+@cards@|@kat@
+@carefully@|@isi isi@
+@careless@|@hap hap, nabaut@
+@carelessly@|@nabaut@
+@caretaker@|@keteka@
+@cargo@|@kago@
+@cargo cult@|@kago bilong ol tumbuna@
+@carpenter@|@kamda, kamdaman, kamta@
+@carpenter's level@|@level@
+@carpenter's plane@|@hobel, plen@
+@carpenter's saw@|@so@
+@carpet@|@kapet, tepik@
+@carriage@|@karis@
+@carrier@|@kagoboi@
+@carrot@|@kerot@
+@carton@|@bokis, kes@
+@cartridge@|@katres@
+@case@|@bokis, kes@
+@cask@|@kas@
+@cassava@|@maniok, tapiok@
+@cassowary@|@muruk@
+@castor oil@|@kaswel@
+@casuarina tree@|@yar@
+@cat@|@pusi@
+@Catholic@|@katolik, popi@
+@cattle@|@bulmakau, kau@
+@cave@|@hul@
+@cedar tree@|@nakas@
+@celebration@|@krismas, pesto, singsing@
+@cement@|@simen@
+@cemetery@|@matmat@
+@cent@|@sens@
+@center@|@namel@
+@ceremony@|@lotu, lotu, tambaran@
+@certificate@|@setifiket@
+@chain@|@sen@
+@chair@|@sia, sidaun@
+@chairman@|@siaman@
+@chalk@|@kraide, pensil, sok@
+@change@|@senis@
+@chapter@|@sapta@
+@characteristics@|@mak@
+@charm@|@malera, marila, marila@
+@chastity@|@klinpasin@
+@chatter@|@toktok@
+@checkbook@|@sekbuk@
+@cheeky@|@siki@
+@cheese@|@sis@
+@chest@|@bros, bros, brus@
+@chewing gum@|@abababa@
+@chicken@|@kakaruk, paul@
+@chief@|@bikbos, hetman, kukurai, luluai@
+@chief of a tribe@|@kukurai@
+@chief steward@|@boskuk@
+@child@|@pikinini@
+@chili pepper@|@lombo@
+@chill@|@skin i kol@
+@chin@|@wasket@
+@China@|@Saina@
+@Chinaman@|@sainaman@
+@Chinatown@|@Sainataun@
+@chinese@|@kongkong@
+@Chinese@|@Saina@
+@chisel@|@kolsis (for metal), maisel (for wood), sisel@
+@chock@|@pilo@
+@choir@|@kwaia@
+@chore@|@hatwok@
+@Christ@|@Krais, Kraist@
+@Christian@|@Kristen@
+@Christmas@|@Krismas@
+@church@|@eklesia, haus lotu, sios@
+@church conference@|@sinot@
+@cigar@|@siga@
+@cigarette@|@sigaret@
+@cinema@|@muvi, piksa@
+@circle@|@raun, ring@
+@circuit@|@seket@
+@circular@|@raun, raunpela@
+@cistern@|@tang@
+@city@|@biktaun@
+@clam shell@|@kramsel@
+@clan@|@banis, bisnis, lain, lain@
+@clan brother@|@mismis@
+@clan or group; of common origin@|@wanlain@
+@class@|@fom, klas, standet@
+@classification@|@namba@
+@clay@|@graun, strongpela graun@
+@clean@|@klin, klinpela@
+@clear@|@kela, klia@
+@clerk@|@kuskus, kuskus@
+@clever@|@kleva@
+@clinic@|@dispenseri, klinik@
+@clock@|@klok@
+@close to@|@klostu@
+@closed@|@pas, pas, pas pinis@
+@cloth@|@laplap, saket@
+@clothes@|@klos@
+@clothing@|@klos@
+@cloud@|@klaut@
+@cloud burst@|@klautbruk@
+@clouds@|@sno@
+@cloudy@|@klaut i pas@
+@club@|@klap@
+@club house@|@klap@
+@clumsy@|@kranki@
+@coal tar@|@kolta@
+@coast@|@nabis, nambis@
+@coat@|@kot, saket@
+@cock@|@paul man@
+@cockatoo@|@kakatu, koki@
+@cockroach@|@kakalak, kokoros@
+@cocoa@|@kakau@
+@coconut@|@drai (ripe), kokonas@
+@coconut palm@|@kokonas@
+@coconut tree@|@kakao@
+@codpiece@|@kambang@
+@coffee@|@kopi@
+@coffee mill@|@wilwil@
+@coffee pot@|@kopipot, sospen blong kopi@
+@cognak@|@koniak@
+@coin@|@sens, siling@
+@cold@|@kol, kolpela@
+@cold (catarrh)@|@kus@
+@cold (illness)@|@kus@
+@colleague@|@wanwok@
+@collection@|@kolekta@
+@collision@|@bam@
+@color@|@kala@
+@colored@|@tulait@
+@comb@|@kom, kom@
+@committee@|@komiti@
+@common@|@wanlain@
+@common name@|@biknem@
+@communal name@|@wan nem@
+@communion@|@komunyon@
+@companion@|@pren@
+@company@|@kampani@
+@compass@|@kompas@
+@compassion@|@sori@
+@compatriot@|@wantok@
+@completely@|@olgera@
+@comrade@|@poman, pren@
+@conch shell@|@kramsel@
+@conclusion@|@pinis@
+@conference@|@konprens@
+@confirmation@|@konfemesen@
+@confused@|@longlong@
+@congregation@|@kongrigesen@
+@conscience@|@tok insait@
+@constable@|@ofisa@
+@constipated@|@bel i pas, no ken pekpek@
+@contagious disease@|@sik nogut@
+@contented@|@bel isi@
+@contest@|@resis@
+@continuous@|@oltaim oltaim@
+@continuously@|@oltaim oltaim@
+@contract@|@kontrak, pepa, pepa@
+@contrition@|@sori@
+@convict@|@kalabusman, man i gat kot@
+@cook@|@kuk, kukboi@
+@cooked@|@krungut, tan@
+@cookie@|@bisket, kuki@
+@cooking pot@|@sospen@
+@cool@|@kol@
+@copper@|@bras@
+@copper sulfate@|@bluston@
+@copra@|@kopra@
+@coral@|@rip@
+@coral gravel@|@karanas@
+@coral tree@|@palpal@
+@cord@|@rop, string@
+@core of something@|@bun@
+@cork@|@koak, kok, kok, tuptup@
+@corn@|@kon, mais@
+@corner@|@kona@
+@cornerstone@|@konaston@
+@corporal@|@kopil@
+@corpse@|@bodi bilong man i dai pinis, daiman, skin@
+@correct@|@stret, stretpela@
+@cot@|@bet sel@
+@cotton@|@kapok, katen@
+@cough@|@kus@
+@council@|@kaunsil@
+@country@|@kantri@
+@couples@|@manmeri@
+@course@|@kos@
+@course of life@|@wok@
+@court@|@kot@
+@cousin@|@kasen@
+@cousin (same sex)@|@brada@
+@cover@|@karamap, tuptup@
+@covering@|@bilum@
+@covering of buttox@|@tanget@
+@cow@|@bulmakau meri, kau@
+@co-worker@|@wanwok@
+@cowrie shell@|@komokomo@
+@cowrie shell used as decoration@|@girigiri@
+@crab@|@kindam, kuka@
+@cradle@|@sling@
+@crane@|@winis@
+@crash@|@pairap@
+@crayfish@|@kindam@
+@crazy@|@longlong, longlong@
+@creek@|@buswara@
+@crest feathers@|@kangal@
+@crew@|@boskru@
+@crocodile@|@pukpuk@
+@crook@|@krum, krungutman@
+@crooked@|@krum, krungut@
+@cross@|@diwai kros@
+@crow@|@kotkot@
+@crowbar@|@kroba@
+@crowded@|@i pas@
+@crown@|@kraun@
+@cry@|@krai@
+@cucumber@|@kukamba@
+@cup@|@kap@
+@cupboard@|@kapot, sarang@
+@current@|@tait, tait@
+@curry@|@kari@
+@custard@|@kastat@
+@custom@|@lo, pasin, pesin@
+@customs@|@takis@
+@customs house@|@kastam@
+@cut@|@kat@
+@cutting edge@|@sap@
+@cyclone@|@raunwin@
+@cylinder@|@rola@
+@daily@|@olde, olde, olgera de, wande wande@
+@damaged@|@bagarap@
+@damp@|@wet@
+@dance@|@singsing, singsing@
+@dance (ritual)@|@singsing tambaran@
+@dance (with masks)@|@singsing tumbuan@
+@dark@|@blakpela, tudak@
+@darkness@|@tudak@
+@daughter@|@pikinini, pikinini meri@
+@dawn@|@bikmoning, tulait@
+@day@|@de, san@
+@day after tomorrow@|@haptumora@
+@day before yesterday@|@asde bipo@
+@day of rest@|@sande@
+@day off@|@sande@
+@daybreak@|@tulait@
+@daylight@|@lait blong de@
+@daytime@|@san@
+@deacon@|@pris@
+@dead@|@dai, dai, i dai pinis@
+@deadman@|@daiman@
+@deaf@|@iapas, yaupas@
+@deaf-mute@|@ngong@
+@dear@|@dia@
+@death@|@indai@
+@debts@|@dinau@
+@decayed matter@|@sting@
+@December@|@Desemba@
+@deck@|@dek@
+@decoration@|@bilas@
+@deep@|@daun@
+@defeat@|@daunim@
+@delegate@|@deliget@
+@delicious@|@swit, switpela@
+@delight@|@abus, amamas@
+@denomination@|@lotu@
+@denotator@|@kep@
+@dense@|@i pas@
+@dental pain@|@mauspen@
+@dentist@|@dentis@
+@department of education@|@edukesen@
+@descendant@|@pikinini@
+@design@|@mak@
+@desire@|@lewa@
+@desk@|@desk@
+@despite@|@maski@
+@dessert@|@kaikai behain, switpela kaikai@
+@detour@|@abrisim@
+@devil@|@dewel@
+@devotion@|@divosen@
+@dialect@|@tokples@
+@diarrhea@|@pekpek wara@
+@dice@|@dais, satu@
+@dictionary@|@diksineri@
+@die@|@dai, i dai@
+@different@|@arakain, narakain@
+@different country@|@tokples@
+@difficult@|@hat, hatwok, hevi@
+@difficulty@|@trabel@
+@diligence@|@bisipasin@
+@dinner@|@kaikai long apinum, kaikai long belo@
+@diploma@|@setifiket@
+@directly@|@stret@
+@director@|@bikpos, direkta@
+@dirt@|@doti, pipia, sit, sting, sting@
+@dirty@|@dati, dotipela@
+@disagreement@|@tok pait@
+@disciple@|@skulboi@
+@disease@|@sik, sik@
+@dish@|@dis, plet@
+@disinfectant@|@pomat@
+@disliked person@|@kakalak@
+@disobedient@|@bikhet, no save harim tok@
+@dispensary@|@dispenseri@
+@display@|@so@
+@dispute@|@tok pait@
+@distance@|@longwe@
+@distance behind@|@longbek@
+@distant@|@longwe@
+@district@|@distrik@
+@ditch@|@baret@
+@diver@|@daiva@
+@divination@|@tok profet@
+@dizzy@|@raun@
+@dock-hand@|@kagoboi@
+@doctor@|@dokta@
+@document@|@pepa@
+@dog@|@dok@
+@dollar@|@dola@
+@done@|@pinis, tan@
+@donkey@|@donki, esel@
+@don't (command)@|@yu no (+verb)@
+@door@|@dua@
+@double@|@dabol@
+@dove@|@balus, balus@
+@down@|@daun@
+@downtrodden@|@rabis@
+@dozen@|@dasan@
+@drain pipe@|@paip@
+@dramatisation@|@piksa@
+@dream@|@driman@
+@dreamer@|@driman@
+@dress@|@klos, klos meri@
+@dried coconut@|@kopra@
+@dried up@|@drai@
+@drill@|@boamasin@
+@drill bit@|@boa@
+@drilling machine@|@boamasin@
+@drink@|@dring, drink, drinkim@
+@drinking coconut@|@kulau@
+@drippings (from cooked meat)@|@gris bilong bulmakau@
+@driver@|@draiva, draivaboi, stiaman@
+@drop@|@drop@
+@drowsy@|@ai i hevi, ai i slip@
+@drugs@|@marasin@
+@drum@|@garamut, kas, kundu@
+@drum (steel drum/barrel)@|@dram@
+@drunk@|@long wiski, longlong, longlong, spak@
+@dry@|@drai, nogat wara@
+@dry dock@|@draidok@
+@dry season@|@santaim@
+@duck@|@pato@
+@dugout canoe (without outrigger)@|@por@
+@dung@|@pekpek, pekpek@
+@during@|@long, long, taim bilong@
+@dush@|@das@
+@dust@|@das@
+@duster@|@brum@
+@duty@|@duti, wok@
+@dwelling@|@haus@
+@dye@|@pen, pen@
+@dynamite@|@danamat@
+@each@|@wanpela wanpela@
+@each one (of any)@|@wan wan@
+@eagerness@|@bisipasin@
+@eagle@|@taragau, tarangau@
+@ear@|@ia, yau@
+@earache@|@iapen@
+@early@|@bipotaim@
+@early afternoon@|@belo bek@
+@early in the morning@|@moningtaim@
+@early morning@|@bikmoning@
+@earring@|@bilas blilong yau, kalang@
+@earth@|@graun, graun@
+@earthen@|@blong graun@
+@earth-oven steam-cooking@|@mumu@
+@earthquake@|@graun i guria, guria, guria@
+@east@|@hap san i kamap, is@
+@East@|@sankamap@
+@Easter@|@ista@
+@easy@|@asan-asan, isi@
+@edge@|@arere@
+@edible@|@gutpela bilong kaikai@
+@educated@|@het klia@
+@educated person@|@saveman@
+@eel@|@maleo@
+@egg@|@kiau@
+@eight@|@et@
+@eight (of)@|@etpela@
+@eighteen@|@eitin, wanpela ten eit@
+@elbow@|@skru blong han@
+@elderly@|@lapun@
+@election@|@ileksin@
+@electric@|@lektrik, listrik@
+@electrical switch@|@swis@
+@electrician@|@listrik@
+@electricity@|@lektrik, listrik, pawa@
+@eleven@|@eleven, wanpela ten wan@
+@embarrass@|@semim@
+@embarrassment@|@sem@
+@emperor@|@sisa@
+@employee@|@wokboi, wokman@
+@emporer@|@kaisa@
+@empty@|@emti, nating, nating, stap nating@
+@enclosure@|@banis@
+@end@|@pinis@
+@end of a sack@|@yau@
+@end of the world@|@lasde@
+@ending@|@pinis@
+@enemy@|@birua@
+@energetic@|@hatpela@
+@engine@|@ensin, masin@
+@engineer@|@ensinia, mekanik@
+@England@|@Englan@
+@English@|@inglis, ingris@
+@enough@|@inap, skel, skel@
+@entertainment@|@pilai@
+@enthusiastic@|@hot, hot long@
+@entrails@|@bel@
+@entrance@|@dua, maus@
+@envelope@|@skinpas@
+@envy@|@mangal@
+@Epiphany@|@Epifeni@
+@epson salts@|@solmarasin@
+@equal@|@wainkain, wanmak@
+@equality@|@wantaim@
+@eraser@|@gumi@
+@essence@|@bun@
+@estate@|@plantesin@
+@eternal reward@|@kago@
+@eucalyptus tree@|@gamtri, kumurere@
+@Europe@|@Yurop@
+@European@|@waitman, waitskin@
+@European woman@|@misis@
+@European/White person@|@masta@
+@evangelist@|@evanselis@
+@even@|@stret@
+@evening@|@apinum, ivening, nait, sandaun@
+@eventually@|@baimbai@
+@ever@|@oltaim@
+@every@|@olgera, olgeta, olgeta@
+@every day@|@wande wande@
+@evil@|@nogut, samting nogut@
+@evil spirit@|@bambaran, batpela dewel, satan, Seten@
+@exact@|@stret@
+@exactly@|@stret, stret@
+@example@|@eksampel@
+@except@|@mas@
+@exclusive of audience)@|@mitupela@
+@excrement@|@pekpek@
+@executive@|@eksekutiv@
+@exercise@|@asasait@
+@exhaust of motor@|@eksos@
+@exhaust pipe@|@eramaut, mambu@
+@exiled@|@tarangu@
+@expensive@|@dia@
+@expert@|@saveman@
+@exterior@|@ausait@
+@exterior of coconut blossoms@|@galimbong@
+@extremity@|@pinga@
+@eye@|@ai@
+@eye (of needle)@|@maus blong nil@
+@eyeglasses@|@aiglas@
+@fable@|@tok bilong bipo@
+@face@|@pes@
+@factory@|@faktori@
+@fair@|@so@
+@faith@|@bilip@
+@faithful@|@trupela@
+@fake@|@hambak@
+@false@|@giaman@
+@family@|@famili@
+@famous@|@bikpela, man i gat biknem@
+@far@|@longwe@
+@far away@|@longwe@
+@fare (ticket)@|@baiyim@
+@farm@|@gaden, stesin@
+@farm field@|@gaden@
+@farmer@|@didiman@
+@fashion@|@pasin, pesin@
+@fast@|@hariap, kwik, pas@
+@fat@|@bikbel, bikbel, gris, gris, pat, patpela@
+@fat person@|@bikbel, grisman@
+@father@|@papa@
+@father (priest)@|@padre, pater@
+@fault@|@asua, rong, trabel@
+@fear@|@pret@
+@feast@|@krismas@
+@feather@|@gras blong paul, gras blong pisin, kangal@
+@feathers@|@gras@
+@February@|@Februeri@
+@feces@|@pekpek, pekpek, pekpek, sit@
+@federation@|@federesen@
+@feet (measurement)@|@fit@
+@fellow sufferer@|@wanrot@
+@fellow worker@|@wanwok@
+@fellow-traveller@|@wanrot@
+@felt@|@moson@
+@female@|@meri@
+@female genitalia@|@bokis@
+@female owner of something@|@mama@
+@fence@|@banis, palpal@
+@fester@|@stink@
+@festival@|@krismas, pesto, singsing@
+@fetus@|@pikinini i blut yet@
+@fever@|@fiva, skin hat@
+@fiery@|@hatpela@
+@fifteen@|@fiftin, wanpela ten faiv, wanpela ten faiv@
+@fifteen (15)@|@fiftin, piptin@
+@fifty@|@faipela ten, fifti@
+@fifty (50)@|@pipti@
+@fig tree@|@fiktri, piktri@
+@fight@|@pait@
+@file@|@fail, pail@
+@filled@|@pulap@
+@fin@|@pul@
+@fine gravel@|@wesan@
+@fine hair@|@moson, mosong@
+@finery@|@bilas@
+@finger@|@pinga@
+@fingernail@|@kapa@
+@finish@|@pinis@
+@fire@|@bombom, paia@
+@fireman@|@paiaman@
+@firewood@|@paiawut@
+@firm@|@pas, pas, strongpela@
+@firmly@|@pas, tru@
+@first@|@namba wan, pastaim@
+@first in line@|@paslain@
+@first-aid post@|@etpos@
+@fish@|@malambur, pis@
+@fish scales@|@grile@
+@fishing line@|@pislain@
+@fishing net@|@umben@
+@fit@|@inap@
+@fitting@|@stretpela@
+@five@|@faif, paif@
+@five (of)@|@faifpela@
+@flag@|@plak@
+@flagpole@|@mas@
+@flame@|@lait@
+@flare@|@bombom@
+@flash@|@lait@
+@flashlight@|@lam wokabaut, sutlam, tos@
+@flat@|@stretpela@
+@flatterer@|@grisman@
+@flattery@|@gris, gris, tok gris@
+@flea@|@laus, musmus@
+@flesh@|@mit@
+@flirt@|@gris@
+@flood@|@haiwara, wara tait@
+@flood tide@|@tait@
+@flour@|@plaua@
+@flower@|@plaua@
+@flute@|@mambu@
+@fly@|@laus@
+@fly (insect)@|@lang@
+@flying fox (bat)@|@blakbokis@
+@foam@|@spet@
+@fodder@|@gras@
+@fog@|@smok, smok blong bus, sno@
+@food@|@gaikai, kaikai@
+@fool@|@ful, hambakman, krankiman, longlongman@
+@foolishness@|@hambak, hambak, longlong, longlong@
+@foot@|@fut, lek@
+@foot ball@|@futbal@
+@foot path@|@busrot@
+@football@|@kikbal@
+@footprint@|@lek, mak@
+@for (possesive marker; purpose)@|@bilong@
+@forbidden@|@tambu@
+@forearm@|@han@
+@forehead@|@pes, pes@
+@foreleg (of animals)@|@han@
+@forest@|@bus@
+@forever@|@blong oltaim@
+@foreword@|@tok igo pas@
+@Forget about it.@|@maski@
+@fork@|@pok@
+@forlorn@|@taronggu@
+@form@|@klas@
+@form (in British schools)@|@fom@
+@formerly@|@bipo@
+@fortnight; pay-day@|@potnait@
+@forty@|@fopela ten, forti, porti@
+@forty (40)@|@foti@
+@forward@|@poret@
+@foster father@|@smolpapa, waspapa@
+@foster mother@|@wasmama@
+@fouled up@|@paul@
+@fountain pen@|@fauntenpen@
+@four@|@foa@
+@four (of)@|@foapela@
+@fourteen@|@foatin, foatin, wanpela ten foa, wanpela ten foa@
+@fourteen (14)@|@fotin@
+@fowl@|@paul@
+@fragrance@|@smel@
+@framework@|@bun@
+@free@|@fri@
+@free time@|@malolo@
+@french@|@frenis, prenis@
+@frequently@|@plenti taim@
+@fresh@|@grin, grinpela, kol, nupela, yang, yangpela@
+@Friday@|@Fraide@
+@friend@|@pren, wanrot, wantok@
+@friend of other sex & approx same age@|@susa@
+@fright@|@pret@
+@fringes@|@purpur@
+@frog@|@krokrok, prok, rokrok@
+@from the same place@|@wanples@
+@front@|@fran, paslain, pes, poret@
+@front man@|@pasman@
+@front part@|@poret@
+@frost@|@sno@
+@froth@|@spet@
+@frown@|@tudak@
+@fruit@|@prut@
+@fruit of Areca palm@|@buai@
+@frying pan@|@praipan@
+@full@|@pulap@
+@fun@|@pilai@
+@fur@|@gras@
+@fuse@|@pius@
+@fuzz@|@moson, mosong@
+@galvanized roofing@|@kapa@
+@game@|@pilai, pilai@
+@garage@|@haus kar@
+@garbage@|@rabis@
+@garden@|@gaden, wok@
+@gardening@|@wok@
+@gasoline@|@bensin@
+@gasping for breath@|@sotwin@
+@gate@|@dua@
+@gear@|@gia@
+@gecko@|@palai@
+@genitalia@|@sem@
+@gentle@|@isi, isipasin@
+@gentle person@|@isipasin@
+@genuine@|@tru, trupela@
+@germ@|@jem@
+@German@|@Jeman@
+@get@|@kisim@
+@ghost@|@dewel@
+@ghost of the deceased@|@dewel bilong man i dai@
+@giddy@|@raun@
+@gift@|@belgut, presen@
+@girl@|@gel, meri@
+@gladness@|@amamas@
+@glass@|@glas@
+@glory@|@glori@
+@glue@|@bulit@
+@gnat@|@natnat@
+@goal@|@gol@
+@goat@|@meme@
+@god@|@God, got@
+@God@|@anutu@
+@gold@|@gol@
+@good@|@gud, gut, gutpela, orait, trupela@
+@good afternoon@|@apinun!@
+@good behavior@|@stretpasin@
+@good day@|@gude@
+@good evening@|@gut apinun@
+@Good Friday@|@gut fraide@
+@good morning@|@gut monin@
+@good weather@|@gutpela taim@
+@good-bye@|@baibai, gutbai@
+@good-for-nothing@|@baga@
+@gospel@|@gutnius@
+@gossip@|@toktok@
+@gourd@|@kambang@
+@government@|@gavman@
+@government official@|@kiap@
+@grace@|@marimari@
+@grade@|@klas@
+@graduate (from school)@|@kisim pepa blong skul, winim skul@
+@grandfather@|@lapun papa, tumbuna@
+@grandmother@|@lapun mama, mama, mama@
+@grass@|@gras, kunai@
+@grass seed@|@bis@
+@grass skirt@|@purpur@
+@grasshopper@|@grasop@
+@grassland@|@alang-alang, kunai, ples kunai@
+@grate@|@skirapim@
+@grater@|@skirap@
+@grave@|@hul, hul blong matmat, matmat@
+@gravel@|@karanas@
+@gravy@|@grevi, ketsup, sos@
+@grease@|@gris, gris@
+@great@|@bikpela@
+@green@|@grin, grinpela@
+@green coconut@|@kulau@
+@green coconut; sprout@|@drip@
+@greens@|@sayor@
+@greeting@|@salut@
+@grinder@|@wilwil@
+@grippe@|@olgera bun i pen@
+@groove@|@baret@
+@ground@|@graun, graun@
+@group@|@kampani, lain@
+@growing into adulthood@|@wokabout@
+@guard@|@wasman@
+@guardian@|@waspapa@
+@guava@|@yambo@
+@guava tree@|@yambo@
+@guitar@|@gita@
+@gun@|@gan, gewer, masket@
+@gunpowder@|@paura@
+@gutter@|@gata@
+@hair@|@gras, gras blong het@
+@hairy@|@moson@
+@half@|@hap, hap@
+@half done@|@hap hap@
+@half-caste@|@hapkas@
+@halfway@|@long hap rot@
+@hamlet@|@hauslain@
+@hammer@|@hama@
+@hand@|@han, han@
+@handcuffs@|@hankap@
+@handkerchief@|@hankisip@
+@handle@|@han, hol@
+@handshake@|@sekan@
+@handwriting@|@hanrait, rait, rait@
+@happy@|@hepi@
+@harbour@|@pasis@
+@hard@|@hat, strongpela@
+@harmful@|@nogut@
+@harmonica@|@mausogan@
+@harsh words@|@tok kros@
+@hat@|@hat@
+@hatch (of ship)@|@hasis@
+@hatchet@|@akis@
+@haunted spirit@|@dewel@
+@haven@|@pasis@
+@hawk@|@kavivi, taragau@
+@hawser@|@baklain@
+@haze@|@smok, smok blong bus@
+@he@|@em, em, i@
+@head@|@bikbos, het@
+@head adornment@|@kangal@
+@head rest@|@kaluk@
+@headache@|@het i pen@
+@head-man@|@hetman@
+@headwind@|@hetwin@
+@healed@|@drai@
+@health education@|@haisin@
+@heap@|@hip@
+@hearing@|@ia@
+@heart@|@bel, bel, hat, lewa, lewa, pam@
+@heat@|@skin hat, tuhat@
+@heathen@|@haiden, haidenman, heden@
+@heave-ho@|@ensa op@
+@heaven@|@heven, ples antap, ples blong antap@
+@helicopter@|@helikopta@
+@hell@|@hel, ples blong bikpaia@
+@hello@|@gude@
+@hello (greeting)@|@halo@
+@helm@|@stia@
+@helmet@|@hat@
+@helmsman@|@stiaman@
+@hemp@|@mangas@
+@hen@|@paul meri@
+@her@|@em, em@
+@herdsman@|@wasman@
+@here@|@hia@
+@herring@|@malambur@
+@hex@|@marila@
+@hide@|@skin@
+@high@|@antap, hai, lonpela@
+@high country@|@hailans@
+@high tide@|@haiwara, wara tait@
+@highway@|@bikrot, haiwe@
+@hill@|@buk, giri, liklik maunten@
+@him@|@em, em@
+@hinge@|@hinsis, penda, pin@
+@hinges@|@hinsis@
+@his@|@blong em@
+@historical authority@|@storiman@
+@history@|@tok bilong bipo@
+@hit@|@bam@
+@hoarder@|@mumut@
+@hoe@|@baira, hapap, rek@
+@hold@|@hasis, hol@
+@hold (of a ship)@|@bikdaunbilo@
+@hold on@|@holan@
+@hole@|@hul, lik, lik@
+@holiday@|@bikde, holide, lip, lip, pestode@
+@hollow@|@i gat hul insait@
+@holy@|@holi, santu@
+@holy day@|@holipela de@
+@holy person@|@holiman@
+@holy spirit@|@holi spirit@
+@Holy Spirit@|@Spirit@
+@home@|@as ples, haus@
+@homocide@|@virua@
+@honest@|@stret@
+@honesty@|@stretpasin@
+@honey@|@hani@
+@hoof@|@kapa@
+@hook@|@huk@
+@hope@|@hop@
+@horizontal timber in a house@|@noken@
+@horn@|@belo, biugel, wisil@
+@horn or comb of animal@|@kom@
+@hornbill bird@|@kokomo@
+@horse@|@hos@
+@hose@|@mambu gumi, slang@
+@hospital@|@haus marasin, klinik@
+@host@|@tewel@
+@hostile@|@binua@
+@hot@|@hatpela@
+@hot springs@|@hatwara@
+@hot water@|@hatwara@
+@hotel@|@haus drink, hotel@
+@hour@|@aua@
+@house@|@haus@
+@houseboy@|@kuki@
+@housemaid@|@wokmeri@
+@how@|@olsem wanem@
+@how many@|@haumani, haumas, haumeni@
+@how much@|@hamas, haumas@
+@how often@|@haumas taim@
+@however@|@tasol@
+@human@|@man@
+@humble@|@daun@
+@humbug@|@hambak@
+@humility@|@daunpasin@
+@hump@|@buk@
+@hundred@|@handet@
+@hunger@|@hangre@
+@hungry@|@hangre@
+@hunter@|@sutboi@
+@hunting net@|@umben@
+@hurricane@|@raun long win, raunwin@
+@husband@|@man@
+@husk@|@skin@
+@hut@|@haus, haus kanaka@
+@hygiene@|@haisin@
+@hymn@|@song@
+@hypocrite@|@tumaus@
+@I@|@mi@
+@ice@|@ais@
+@idea@|@ting, tingting@
+@idle talk@|@tok win@
+@if@|@sapos@
+@ignorance@|@longlong@
+@ignorant@|@ngong@
+@iguana@|@palai, parai@
+@ilimo tree@|@erima@
+@ill@|@bagarap, sik@
+@ill-humor@|@kros@
+@illicit@|@tambu@
+@illness@|@sik@
+@image@|@tewel@
+@immediately@|@nau tasol, wan tu@
+@immerse@|@waswas@
+@important date@|@bikde@
+@in@|@insait, insait long, long@
+@in case@|@sapos@
+@in front of@|@bipo long, paslain@
+@in half@|@tuhap@
+@in order to@|@baimbai, blong@
+@in spite of@|@maski, maski@
+@in the future@|@bihain@
+@in the middle of@|@namel@
+@in the west@|@sandaun@
+@in this way@|@olsem@
+@in what way@|@olsem wanem@
+@inche@|@ins@
+@incomplete@|@hap hap@
+@incorrect@|@kranki@
+@indecency@|@doti@
+@indecent@|@dotipela@
+@independence@|@independens@
+@indicted person@|@wetkot@
+@indigenous@|@blakskin@
+@Indonesian@|@malai@
+@infant@|@pikinini, pikinini i stap yet long susu@
+@inhabitants@|@wanhaus@
+@injection@|@sut@
+@injured@|@bagarap@
+@injustice@|@rong@
+@ink@|@ing@
+@innocent@|@i no gat rong@
+@insect@|@binatang, kakalak, kokoros@
+@inside@|@bel, insait@
+@inside of mouth@|@tang@
+@insight@|@insait, save@
+@insolent@|@hambak, pes, siki@
+@instructed@|@het klia@
+@instruction@|@kos@
+@integration@|@integresen@
+@interest on money@|@interes@
+@interior@|@bel, hailans@
+@interpretation@|@tanimtok@
+@interpreter@|@tultul@
+@introduction@|@tok igo pas@
+@invitation@|@tanget@
+@iodine@|@aidin, yot@
+@iron@|@ain@
+@ironwood@|@kwila, tor@
+@ironwood tree@|@kwila@
+@island@|@ailan@
+@Isn't that so? "Right?" "Eh?"@|@laka@
+@it@|@em, em, i@
+@jacaranda@|@marmar@
+@jack@|@jek@
+@jacket@|@kolsinglis, saket@
+@jail@|@kalabus@
+@jam@|@jem@
+@January@|@janyueri@
+@Japan@|@Japan@
+@jar@|@botol@
+@jaw@|@tit, wasket@
+@jeep@|@jip@
+@Jesus@|@Jisas@
+@Jew@|@juda@
+@jews-harp@|@susap@
+@job@|@wok, wok@
+@joint@|@skru@
+@joke@|@tok pilai@
+@joy@|@amamas, bel isi@
+@judge@|@bikjas, jas@
+@judgement@|@kot@
+@jug@|@jak, ken, piksa@
+@juice@|@loliwara@
+@July@|@julai@
+@June@|@jun, June@
+@jungle@|@bikbus, bus@
+@just@|@stret, stret, stretpela, tasol@
+@just like that!@|@asowei!@
+@just one@|@wanpela@
+@justice@|@stretpasin@
+@kaiser@|@kaisa@
+@kapok@|@kapok@
+@keel@|@kil@
+@kerosene@|@kerasin@
+@ketchup@|@sos@
+@kettle@|@sopen, sospen@
+@key@|@ki@
+@khakhi@|@kaki@
+@khaki@|@kaki@
+@kind@|@kain@
+@kindness@|@belgut@
+@king@|@king@
+@kiss@|@kis@
+@kitchen@|@haus kuk@
+@kitchen help@|@kukboi@
+@kitchen knife@|@naip meru@
+@kitten@|@pikinini pusi, pusi@
+@kiwi@|@kiwi@
+@knapsack@|@ruksak@
+@knee@|@skru blong lek@
+@knife@|@naip@
+@knot@|@buk@
+@knowledge@|@save@
+@knuckle@|@skru blong pinga@
+@koala@|@kapul@
+@labor@|@wok@
+@laborer@|@kagoboi, wokboi@
+@ladder@|@lata, leta@
+@ladies & gentlemen@|@manmeri@
+@lake@|@raunwara, tais@
+@lamp@|@lam, tos@
+@lamp chimney@|@glas blong lam@
+@land@|@graun@
+@language@|@toktok@
+@lantern@|@lam@
+@lard@|@gris blong pik@
+@large@|@bik, bikpela@
+@large cowrie shell@|@gam@
+@large meeting hall@|@bikrum@
+@large red ant@|@kurakum@
+@large white cockatoo bird@|@koki@
+@last@|@las@
+@last days@|@lasde@
+@late@|@bihain, bihainimtaim, let, let@
+@late at night@|@biknait@
+@later@|@bambai, behain, bihain@
+@latrine@|@haus pekpek, sithaus, smolhaus@
+@latrine outhouse@|@smolhaus@
+@laughter@|@lap@
+@launch@|@pinas@
+@law@|@lo@
+@lawn@|@gras@
+@lawsuit@|@kot@
+@lawyer@|@kuskus, loman@
+@lax@|@slek@
+@lay (egg)@|@putim kiau@
+@layabout@|@lesbaga@
+@lazy@|@les@
+@lazy person@|@lesbaga@
+@lead@|@soda@
+@leader@|@bos, hetman, mandor, pasman, siaman@
+@leaf@|@daka, lip, lip@
+@leak@|@lik@
+@leaning@|@slip@
+@leather@|@let@
+@leave@|@lip@
+@leaves used as sign of peace@|@tanget@
+@leech@|@snek@
+@left hand@|@han kais@
+@left side@|@kais, lep@
+@left-over@|@hap@
+@leg@|@fut, lek@
+@legend@|@tok kuskus@
+@legislative@|@lesislativ@
+@lemon@|@muli, muli blong dring, solmuli@
+@lemonade@|@lemanat, muliwaralemanat@
+@length@|@long@
+@Lent@|@Len@
+@leper@|@lepaman@
+@leprosy@|@lepa, lepra@
+@lesson@|@leson, skul@
+@letter@|@leta, pas, pas@
+@letter of alphabet@|@leta@
+@lettus@|@letes@
+@level@|@level, stret@
+@liar@|@giaman, man blong giaman@
+@license@|@laisens@
+@lid@|@ai, kok, tuptup@
+@lie@|@giaman, tok giaman@
+@lies@|@tok giaman@
+@life@|@laip, wokabout@
+@light@|@lait, lait@
+@light (weight)@|@i no hevi@
+@lightning@|@lait blong klaut, laitnin@
+@like@|@olsem@
+@lime@|@kambang@
+@limit@|@arere@
+@line@|@lain, rop@
+@line (ship's rope)@|@lain@
+@lint@|@lin@
+@lip@|@maus@
+@list@|@lista@
+@listen@|@harim@
+@little@|@liklik, smol, smolpela@
+@liturgy@|@litugi@
+@liver@|@lewa@
+@lizard@|@palai@
+@load@|@balas, hevi@
+@lobster@|@kindam@
+@lock@|@lok@
+@log@|@diwai@
+@loin cloth@|@laplap@
+@loincloth@|@laplap@
+@lollipop@|@loli@
+@lonely@|@wanpis@
+@loner@|@welman@
+@long@|@long, long, lonpela@
+@long off@|@longwe@
+@look out!@|@lukaut@
+@lookout@|@sentri@
+@looks@|@luk@
+@looks the same@|@wanpes@
+@loom (weaving)@|@lum@
+@loose@|@i slek@
+@looseness@|@slek@
+@loot@|@abus@
+@lord@|@masta@
+@lorry@|@lori, trak@
+@lost@|@i lus, i lus pinis@
+@loud@|@strong@
+@loud noise@|@pairap@
+@loudly@|@strong@
+@louse@|@laus@
+@love spell@|@malira@
+@love-spell@|@marila@
+@low@|@daun@
+@low tide@|@draiwara@
+@lower jaw@|@wasket@
+@lowly@|@daun@
+@lubricant@|@wel@
+@lucky@|@laki@
+@lumber@|@plang@
+@lump@|@buk@
+@lung@|@waitlewa@
+@Lutheran@|@luteran@
+@machete@|@akis, busnaip@
+@machine@|@ensin, masin@
+@magazine@|@niuspepa@
+@maggot@|@snek@
+@magic@|@majik, marila, marila, poisin@
+@magistrate@|@bikjas@
+@maid@|@wokmeri@
+@mail@|@mel, post@
+@main entrance@|@bikdua@
+@main highway@|@bikrot@
+@mainland@|@bikples@
+@maise@|@mais@
+@maize@|@mais@
+@malaria@|@malaria@
+@Malay apple tree@|@laulau@
+@Malaysian@|@malai@
+@malaysian person@|@kongkong@
+@male@|@man@
+@man@|@man@
+@manager@|@direkta@
+@mango@|@mango@
+@mango swamp@|@mango@
+@mango tree@|@mango@
+@mangrove@|@mangro@
+@manioc@|@maniok, tapiok@
+@manner@|@pasin, psin@
+@man-of-war@|@manawa@
+@manure@|@manua, pekpek@
+@many@|@planti, plenti, tumas@
+@many kinds@|@kain kain, plenti kain@
+@March@|@mas@
+@March (month)@|@mas@
+@marijuana@|@mangas@
+@mark@|@mak@
+@market@|@bung, ples bung@
+@marmalade@|@jem@
+@marmot@|@mumut@
+@marriage@|@marit@
+@married woman@|@misis@
+@mask@|@tumbuan@
+@mast@|@mas, mas@
+@master@|@bikmasta, masta@
+@mat@|@kapet, karuka, mat@
+@match@|@masis, stik masis@
+@matches@|@masis@
+@maternity ward@|@haus karim@
+@mating of birds@|@mismis@
+@matting@|@blain@
+@May@|@Mai@
+@May (month)@|@me@
+@maybe@|@ating, atink, atink, atink, i ken, i ken, i ken, natink, natink, natink@
+@me@|@mi@
+@meal@|@gaikai, kaikai@
+@meaning@|@mining@
+@measure@|@skel@
+@measurement@|@sais@
+@measuring tape@|@meta, rula@
+@meat@|@abus, gaikai, kaikai, mit@
+@mechanic@|@ensinia, mekanik@
+@mechanical parts@|@mama@
+@medal@|@medal@
+@medical@|@dokta@
+@medical assistant@|@smoldokta@
+@medicine@|@marasin@
+@meeting@|@bung, bung, kibung, konprens, miting@
+@melon@|@melen@
+@member of a group@|@memba@
+@memory@|@ting, tingting@
+@men and women@|@manmeri@
+@menstruation@|@mun@
+@mercy@|@marimari, sori@
+@message@|@tok, tok@
+@messenger@|@tultul@
+@metal@|@ain, medal@
+@metalic@|@ain@
+@middle@|@namel, namel@
+@midnight@|@biknait@
+@might@|@strong@
+@mile (unit of distance)@|@mail@
+@milepost@|@rotmak@
+@milk@|@susu@
+@mind@|@ting, tingting@
+@minute@|@minit@
+@miracle@|@mirakel@
+@mirror@|@glas, glas blong lukluk@
+@miserable@|@tarangu@
+@mission@|@misin, stesin@
+@missionary@|@misinari@
+@missionary preacher@|@misin@
+@mist@|@smok@
+@mix up@|@abusim@
+@mixed@|@miks@
+@mixed up@|@paul@
+@mixture@|@marasin@
+@mockery@|@tok bilas@
+@modify@|@senis@
+@Monday@|@Mande@
+@money@|@mani@
+@monkey@|@manki@
+@monsoon@|@taleo@
+@monsoon season@|@taim blong ren@
+@month@|@mun@
+@moon@|@mun@
+@more@|@moa, moa, moapela@
+@more (comparative of adjectives)@|@moa@
+@morning@|@monin, moning, monintaim, sankamap, sori@
+@mosquito@|@moskito, natnat@
+@mosquito net@|@klambu, taunam@
+@mother@|@mama@
+@mother of pearl@|@golip, kina@
+@mother tongue@|@as tok, tokples@
+@motion (in parliament)@|@mosen@
+@motor@|@ensin@
+@motor boat@|@pinas@
+@motorboat@|@pinas@
+@mountain@|@maunten@
+@mountain area@|@hailans@
+@mourning@|@sori@
+@mouse@|@rat@
+@moustache@|@mausgras@
+@mouth@|@maus, maus, tit@
+@move along@|@goan@
+@movies@|@muvi, piksa@
+@mower@|@mowa@
+@much@|@planti, plenti, tumas@
+@murder@|@virua@
+@murderer@|@sangumaman@
+@mushroom@|@papai@
+@music@|@musik@
+@musical instrument@|@mambu@
+@musket@|@masket@
+@muslim@|@musilim@
+@mussel@|@kina@
+@must@|@mas@
+@mustache@|@mausgras@
+@mustard@|@mastet@
+@mute person@|@mauspas@
+@My goodness! "How unfortunate!" "Well!"@|@sori!@
+@My word! "Oh boy!"@|@olaboi@
+@mystery@|@tok hait@
+@myth@|@tok bilong bipo, tok kuskus@
+@nail@|@nail, nil@
+@naked@|@nating, no gat klos, skin nating, stap nating@
+@name@|@nem@
+@narrator@|@storiman@
+@national@|@blakskin@
+@native@|@blakskin, netif@
+@native hunter@|@sutboi@
+@native language@|@as tok@
+@native overseer@|@bosboi@
+@native pillow@|@kaluk@
+@native tobacco leaf@|@brus@
+@nature spirits@|@masalai@
+@near@|@klostu@
+@nearby@|@klostu@
+@nearly@|@klosap@
+@neck@|@nek@
+@necklace@|@bis@
+@necktie@|@nektai, nektait@
+@needle@|@nil@
+@neighbor@|@wantok@
+@nest@|@haus blong pisin@
+@net@|@bilum, umben@
+@net bag@|@bilum@
+@new@|@niupela, nu, nupela, yangpela@
+@news@|@gutnius, nius@
+@newspaper@|@niuspepa@
+@next@|@nekis, neks@
+@next to@|@arere@
+@nice@|@nais, naispela@
+@night@|@nait, tudak@
+@nine@|@nain@
+@nine (of each)@|@nainpela@
+@nineteen@|@naintin, wanpela ten nain@
+@ninety@|@nainti@
+@no@|@nogat@
+@no good@|@nogut@
+@No way!@|@no ken@
+@noise@|@nois@
+@non-believer@|@haidenman, heden@
+@non-Christian@|@haiden, heden@
+@nonsense@|@giaman@
+@noon@|@belo kaikai, belo kaikai, biksan@
+@noonday sun@|@biksan@
+@noontime@|@belo@
+@north@|@not@
+@northwest monsoon@|@taleo@
+@nose@|@nus@
+@not@|@no@
+@not to have@|@no gat@
+@not yet@|@i no yet@
+@note@|@pas@
+@notebook@|@kopibuk@
+@notes@|@minits@
+@nothing@|@nating, nating, nogat@
+@November@|@Novemba@
+@now@|@dispela taim, nau@
+@now and then@|@samtaim, wande wande@
+@number@|@namba@
+@nun@|@sista@
+@nurse@|@liklik dokta, nes, sista, smoldokta@
+@nut@|@galip@
+@nuts@|@mama@
+@nylon@|@slika@
+@oar@|@pul@
+@oath@|@tok tru antap@
+@oats@|@ots@
+@obligations@|@dinau@
+@obscene@|@samting nogut i gat sem@
+@occupation@|@wok@
+@ocean@|@salwara@
+@ocean water@|@solwara@
+@October@|@Oktoba@
+@octopus@|@kurita, urita@
+@odor@|@smel@
+@of@|@bilong@
+@Of course!@|@na wanem@
+@of the same appearance@|@wanpes@
+@of the same class@|@wanlain@
+@of the same name@|@wan nem@
+@of the same size; of the same appearance@|@wanmak@
+@of the same tribe@|@wanpisin@
+@of the same village@|@wanples@
+@off duty@|@spel@
+@offense@|@rong@
+@offer@|@givim, ofa@
+@offering@|@kolekta@
+@office@|@ofis, opis@
+@officer@|@ofisa, plisman@
+@official room@|@ofis@
+@off-shore wind@|@kolwin@
+@often@|@plenti taim@
+@Oh!@|@o!@
+@oh! (exclamation)@|@a!@
+@oil@|@sanda, wel@
+@oily@|@wel@
+@ointment@|@gris@
+@OK@|@orait@
+@old@|@lapun, ol, ol, olpela@
+@old person@|@lapun@
+@old stories@|@tok bilong bipo@
+@older brother@|@bikbrata@
+@olive@|@olip@
+@on@|@long, long@
+@on the loose@|@aut@
+@on the losing side@|@daun@
+@on the right side@|@rait@
+@on top@|@antap@
+@on top of@|@antap long@
+@once@|@wande, wantaim@
+@once again@|@wantaim moa@
+@one@|@wan, wanpela, wanpela@
+@one by one@|@wanpela wanpela@
+@one day@|@wande@
+@one fine day@|@wande@
+@one of any@|@wanpela@
+@onion@|@anian, anien@
+@only@|@nating, nating, tasol, wanpela@
+@open ocean@|@biksolwara@
+@opening@|@maus@
+@opinion@|@ting, tingting@
+@opponent@|@birua@
+@opposite side@|@arasait, hapsait@
+@oppossum@|@kapul@
+@or@|@no, o, oa@
+@oracle@|@glasman@
+@orange@|@muli, switmuli@
+@order@|@oda@
+@orderly (medical)@|@doktaboi@
+@ordination@|@odinesin@
+@ornament@|@bilas@
+@orphan@|@wanpis@
+@ostrich@|@muruk@
+@other@|@arapela, naranpela@
+@other side@|@arasait@
+@our(s)@|@blong mipela, blong yumi@
+@out@|@aut@
+@outline@|@plan@
+@outpost@|@bus@
+@outrigger@|@saman@
+@outside@|@arasait, ausait, raus@
+@oven@|@stov@
+@over@|@ova@
+@over there (when pointing)@|@hap@
+@overseer@|@bos, bosboi, mandor@
+@overturn@|@kapsait@
+@owner@|@masta, papa@
+@oyster@|@kina, kina@
+@package@|@karamap, mekpas, paus@
+@pad of paper@|@blok@
+@paddle@|@pul, pul@
+@pagan@|@haiden@
+@pail@|@baket@
+@pain@|@pen@
+@paint@|@pen, pen@
+@pair@|@tupis@
+@palm tree@|@limbum@
+@pan@|@sopen, sospen@
+@pancake@|@pankek@
+@pandanus palm@|@morota@
+@pandanus tree@|@karuka@
+@papaya@|@popo@
+@papaya tree@|@popo@
+@paper@|@pepa@
+@paper money@|@konda@
+@parable@|@stori, tok bokis@
+@paradise@|@paradais@
+@paragraph@|@paragraf@
+@parakeet@|@kalangar@
+@paralyzed@|@dai@
+@paramount chief@|@waitpus@
+@parcel@|@karamap, mekpas, paus@
+@parents@|@mamapapa, papamama@
+@parrot@|@kalangar, kumul, liklik koko@
+@partition@|@rum@
+@partner@|@porman, poroman@
+@parts@|@tuhap@
+@party@|@singsing@
+@pass@|@pas@
+@passage@|@pasis@
+@passenger@|@pasindia@
+@pastor@|@pasto@
+@pastry@|@kek@
+@path@|@busrot, rot@
+@patience@|@marimari@
+@patient@|@sikman@
+@patrol (police)@|@plis, plisman@
+@pattern of designs@|@makmak@
+@pause@|@pausa@
+@pavement@|@rot@
+@pawpaw@|@popo@
+@pay@|@pe@
+@paymaster@|@peman@
+@payment@|@pe@
+@pea@|@habsen@
+@peace@|@gutpela sidaun, guttaim@
+@peace making@|@sekan@
+@peak@|@het@
+@peanut@|@kasang, pinat@
+@peanut plant@|@kasang@
+@pearl@|@kina@
+@pen@|@ingpen, pensil@
+@pen knife@|@naip skru@
+@pencil@|@pensil@
+@peninsula@|@poin@
+@penis@|@kok, kok, pekpek, pekpek@
+@people@|@pipel, pipol@
+@pepper@|@pepa@
+@pepper (plant)@|@lombo@
+@perfect@|@nambawan olgera, nambawan tumas@
+@perfume@|@sanda, santa@
+@perfumed@|@i gat smel@
+@perfumed soap@|@sop smel@
+@perhaps@|@ating, atink, i ken, natink@
+@permission@|@pas@
+@peroxide@|@proksait@
+@person@|@man@
+@person adopted into another tribe@|@hapkas@
+@person with scars@|@pukpuk@
+@perspiration@|@skinwara, tuhat@
+@petcock@|@kok@
+@petrol@|@bensin@
+@Pharisee@|@Ferisi@
+@photo@|@poto@
+@photograph@|@piksa, piksa, poto@
+@picture@|@piksa@
+@pidgin language@|@pisin@
+@piece@|@hap@
+@pier@|@bris@
+@pig@|@abus, pik@
+@pigeon@|@balus, balus@
+@pile@|@hip@
+@pilgrim@|@dripman@
+@pill@|@kiau, tablet@
+@pillar@|@pos@
+@pillow@|@hetpilo, pilo@
+@pilot@|@pailot@
+@pilot (aircraft)@|@masta, masta blong draivim balus@
+@pinchers@|@kakatu@
+@pine tree@|@paintri@
+@pineapple@|@ananas, painap@
+@pipe@|@mambu@
+@pipe (smoking)@|@paip@
+@pit@|@hul@
+@pitch@|@kolta@
+@pitcher@|@jak, piksa@
+@place@|@ples@
+@place of departed souls@|@daiman ples@
+@place of origin@|@as ples@
+@place of rest@|@pasis@
+@placenta@|@bilum@
+@plain (carpentry)@|@hobel@
+@plan@|@plan@
+@planet@|@sta@
+@plank@|@plang, plang@
+@plantation@|@lain, plantesin@
+@plastic@|@gumi, plastik@
+@plate@|@plet@
+@platform@|@bet@
+@platform; nets@|@bet@
+@platter@|@plet@
+@play@|@pilai@
+@playful words@|@tok pilai@
+@playground@|@ples pilai@
+@playing cards@|@kat@
+@pleasant@|@kol@
+@please@|@plis, plis, plisim@
+@plenty@|@planti, plenti@
+@pliers@|@plaias@
+@plumage@|@kangal@
+@pocket@|@bak, paket@
+@pocket knife@|@naip skru, poketnaip@
+@point@|@ai, poin, sap, yau@
+@pointed@|@sap@
+@poison@|@posin@
+@police@|@plis, polis@
+@political party@|@pati@
+@pond@|@raunwara, tais@
+@poor@|@rabis, tarangu@
+@poor man@|@rabisman@
+@poor woman@|@rabismeri@
+@porch@|@veranda@
+@pork@|@abus, pik@
+@porridge@|@poris@
+@port (left side of ship)@|@pot@
+@port (side of ship)@|@bakbot@
+@porter@|@kagoboi@
+@portico@|@veranda@
+@portion@|@skel@
+@possibly@|@i ken, nating@
+@post@|@mas, mel, pos, stesin@
+@post office@|@pos opis@
+@posterity@|@tumbuna@
+@pot@|@sopen, sospen@
+@potassium permanganate@|@pomat@
+@potato@|@poteto@
+@pouch@|@brasbel, paus@
+@pound (sterling) (money)@|@paun@
+@powder@|@paura@
+@power@|@lektrik, pawa@
+@praise@|@prais@
+@prayer@|@bet, prea@
+@prayer; to pray@|@beten@
+@preacher@|@evanselis@
+@preacher; protestant (church)@|@talatala@
+@precious@|@dia@
+@predecessors@|@tumbuna@
+@pregnant@|@hevi@
+@present@|@belgut, presen@
+@president@|@presiden@
+@pressure cooking@|@mumu@
+@pretty@|@nais@
+@previous@|@bipo@
+@previously@|@bipo@
+@price@|@pe, prais@
+@prideful@|@hambak@
+@priest@|@pris@
+@printing; to print@|@prin@
+@prison@|@kalabus@
+@prisoner@|@kalabusman@
+@probably@|@ating@
+@problem@|@hevi@
+@problems@|@trabel@
+@processed tobacco@|@tabak@
+@proclaim@|@bikmausim@
+@profiteer@|@mumut@
+@promiscuous woman@|@trabelmeri@
+@promise@|@promis, tok tanget, tok tru antap@
+@prone@|@slip@
+@propeller@|@karapela, koropela, propela@
+@proper@|@stret, stretpela, strongpela@
+@property@|@graun@
+@prophesy@|@tok profet@
+@prophet@|@profet@
+@prostitute@|@oksen, oksen, pamok@
+@prostitution@|@pamuk@
+@prow of ship@|@nus@
+@pub@|@hotel@
+@public servant@|@pablik seven@
+@pudding@|@puding@
+@pully; section of land@|@blok@
+@pulp of fruit@|@meme@
+@pulse@|@blut, pam@
+@pump (air or water)@|@pam@
+@pumpkin@|@pamkin@
+@punishment@|@kanda@
+@pupil@|@skulboi@
+@purity@|@klinpasin@
+@pus@|@waitpela blut@
+@pyjamas@|@klos blong slip@
+@pyrethrum plant@|@barisom@
+@python snake@|@moran@
+@quarrel@|@pait, pait long toktok@
+@queen@|@kwin, misis@
+@question@|@askim, kwesten@
+@quick@|@hariap, kwik, kwiktaim@
+@quickly@|@hariap@
+@quiet@|@isi, kwait, sarap@
+@quietly@|@isi, kwait@
+@quinine@|@kinin@
+@race@|@resis@
+@radio@|@redio, waialis, wailis@
+@rafter@|@sapnil@
+@rail@|@rel@
+@railroad@|@rel@
+@railway@|@rel@
+@railway car@|@relka@
+@rain@|@ren@
+@rain coat@|@karuka, kotren@
+@rain tree@|@marmar@
+@rainbow@|@renbo@
+@raincoat@|@kot ren@
+@raintree@|@marmar@
+@rake@|@rek@
+@rat@|@rat@
+@rattan@|@kanda@
+@rattled@|@seksek@
+@raven@|@kotkot@
+@raw@|@amat@
+@razor@|@mesin blong sev, resa@
+@razor blade@|@kaparesa@
+@reading@|@rit@
+@ready@|@redi@
+@real@|@tru@
+@rear@|@baksait@
+@recent@|@nupela@
+@recess@|@malolo, pausa, rises@
+@recording@|@tep@
+@recording tape@|@tep@
+@red@|@ret, retpela@
+@red pepper@|@lombo@
+@reef@|@rip@
+@referee@|@namelman@
+@reflection@|@tewel@
+@refrigerator@|@aisbokis, bokis ais@
+@region@|@ples@
+@register@|@lista@
+@regretful@|@bel hevi@
+@rein@|@kopstik, stia@
+@relative (by blood)@|@wanblut@
+@relief@|@bel isi@
+@religion@|@relisin@
+@religious brother (holy orders)@|@bruder@
+@religious service@|@lotu@
+@remainder@|@hap@
+@replace@|@helpim@
+@report@|@ripot@
+@reputation@|@gutnem, nem@
+@resin@|@bulit, laim@
+@response@|@tokbek@
+@responsibility@|@hevi@
+@rest@|@malolo@
+@result@|@ansa@
+@reverse@|@baksait@
+@reward@|@prais@
+@reward (expecting reciprocation)@|@presen@
+@rewards@|@pe@
+@ribs@|@banis@
+@rice@|@rais@
+@ridge@|@kil, nus@
+@ridicule@|@tok bilas@
+@rifle@|@long gan, masket, raifel@
+@right@|@inap, stret, stretpela, sut@
+@right (correct)@|@rait@
+@right away@|@kwiktaim@
+@right hand@|@han sut, rait, sut, sut@
+@right side@|@sut@
+@rind@|@skin@
+@ring@|@bilas, ring@
+@ringworm@|@grile@
+@ripe@|@mau@
+@ritual flute@|@mambu@
+@ritual murder by sorcery; telepathic sorcery@|@sanguma@
+@ritual murderer@|@sangumaman@
+@river@|@baret, riva, wara@
+@rivulet@|@buswara@
+@road@|@rot@
+@roadsign@|@rotmak@
+@robber@|@stilman@
+@robbery@|@stil@
+@rock@|@ston@
+@rod@|@stik@
+@roll@|@mekpas@
+@roll of coins@|@pius, stik@
+@roller@|@rola@
+@roof@|@rup@
+@roof beam@|@noken@
+@room@|@rum@
+@rooster@|@kakaruk@
+@root@|@daka, rop@
+@rope@|@baklain, rop@
+@rotten@|@mau@
+@rottenness@|@sting@
+@rough weather (at sea)@|@biksi@
+@round@|@raun, raun, raunpela@
+@row@|@lain@
+@rubbage@|@rabis@
+@rubber@|@gumi, plastik@
+@rubber tree@|@pikus@
+@rubbish@|@pipia, rabis@
+@rucksack@|@ruksak@
+@rudder@|@stia@
+@rug@|@kapet, mat@
+@ruined@|@bagarap@
+@rule@|@lo@
+@ruler@|@bikmasta, meta, rula@
+@rum@|@ram@
+@rumor@|@tok win, tokwin@
+@running lights on boats and cars@|@saitlam@
+@rust@|@ros@
+@rusty@|@ros@
+@sabbath@|@sabat@
+@sack@|@bek@
+@sacrament@|@sakramen@
+@sacred@|@santu@
+@sacrifice@|@ofa@
+@sad@|@bel i pas, hevi@
+@saddle@|@sadel@
+@sago palm@|@saksak@
+@sago palm leaf@|@pangal@
+@sago palm leaf roofing@|@morota@
+@sail@|@sel@
+@sailor@|@boskru, sela@
+@sailors@|@boskru@
+@saint@|@holiman, santu@
+@saliva@|@spet, spet@
+@salt@|@sol, sol@
+@salt medicine@|@solmarasin@
+@salt water@|@salwara@
+@salt; unpleasant@|@sol@
+@salty@|@i gat sol, i sol@
+@salutation@|@salut@
+@salve@|@gris@
+@same@|@olsem, seim, sem, sem, wankain@
+@same (+noun)@|@wan(+noun)@
+@same house@|@wanhaus@
+@same language@|@wantok@
+@sand@|@waitsan, wesan@
+@sap of a tree@|@blut@
+@sargent@|@saiden@
+@sargent major@|@saiden mesa@
+@satan@|@Seten@
+@Saturday@|@Sarere@
+@sauce@|@grevi, ketsup, sos@
+@saucepan@|@sopen, sospen@
+@savage@|@manabus@
+@saw (wood)@|@so@
+@sawmill@|@somil@
+@scabies@|@kaskas@
+@scale@|@skel@
+@scales (fish)@|@grile blong pis@
+@scales of fish@|@kaskas@
+@scar@|@mak@
+@scented oil@|@sanda@
+@school@|@skul@
+@school house@|@skul@
+@school-age child@|@sumatin@
+@schoolboy@|@manki@
+@scissors@|@sisis@
+@scolding@|@tok kros@
+@scraper@|@skirap@
+@scraps@|@pipia@
+@screw@|@skru@
+@screw driver@|@skru, skrudraiva@
+@screwdriver@|@skrudraiva@
+@screws@|@mama@
+@script@|@hanrait@
+@scripture@|@Baibel, buk tambu@
+@SDA@|@Sevende@
+@sea@|@salwara, si, solwara@
+@sea sick@|@sisik@
+@seaside@|@nambis@
+@season@|@de, de, taim@
+@seat@|@sidaun@
+@second (of something)@|@namba tu@
+@second (rank)@|@namba tu@
+@second (time)@|@sekon@
+@second in command@|@tultul@
+@secret@|@tok hait@
+@secretary@|@kuskus, kuskus, seketeri@
+@secretly@|@hait, stil, stil@
+@section@|@komiti, rum@
+@seduction@|@tok gris@
+@seedling@|@kru@
+@seer@|@glasman@
+@self@|@yet@
+@semen@|@melek@
+@sentence@|@sentens@
+@sentry@|@sentri, wasman@
+@September@|@Septemba@
+@servant@|@boi, mankimasta, seven@
+@service@|@sevis@
+@seven@|@seven@
+@seven (of)@|@sevenpela@
+@seventeen@|@seventin, wanpela ten seven@
+@seventy@|@seventi@
+@several@|@sampela@
+@sexual intercourse@|@puspus@
+@shade@|@tewel@
+@shadow@|@dewel, tewel@
+@shady@|@tudak@
+@shaft@|@sap@
+@shaken@|@seksek@
+@shall@|@bai, baimbai@
+@shaman@|@glasman@
+@shaman with connections to the ancestral spirits@|@tambaranman@
+@shame@|@sem, sem@
+@shark@|@sak@
+@sharp@|@sap, sap@
+@shave@|@sev@
+@she@|@em, em, i@
+@sheep@|@sipsip@
+@sheet@|@laplap blong bet, sel@
+@sheet; feces@|@sit@
+@shelf@|@bet@
+@shell@|@katres, sel@
+@shepherd@|@wasman@
+@shiny@|@tulait@
+@shiny cloth@|@slika@
+@ship@|@sip@
+@ship's cook@|@boskuk@
+@shirt@|@siot@
+@shit@|@bulsit@
+@shoe@|@su@
+@shoe polish@|@kiwi@
+@shoes@|@su@
+@shop@|@stua@
+@shopkeeper@|@stuaman@
+@shore@|@nambis, sua, sua@
+@short@|@sot@
+@short (adj)@|@sotpela@
+@shortness of breath@|@winsot@
+@shot@|@sut, sut@
+@shoulder@|@sol@
+@shout@|@singaut@
+@shovel@|@savol@
+@show@|@so@
+@shower@|@saua@
+@shredder@|@skirap@
+@shyness@|@pret@
+@sibling of opposite sex@|@susa@
+@sibling of same sex (boy's brother/girl's sister)@|@brata@
+@sick@|@sik@
+@sick person@|@sikman@
+@sickle@|@sarip@
+@sickness@|@sik@
+@side@|@sait@
+@sieve@|@strena@
+@sign@|@mak@
+@signal@|@belo@
+@silent@|@sarap@
+@silk@|@slika@
+@silver@|@silva@
+@similar@|@olsem, olsem (kain), wankaim, wantaim@
+@similar to@|@olsem@
+@similarity@|@wantaim@
+@sin@|@pekato, sin, trabel@
+@single@|@singel@
+@sinner@|@pekatoman, pekatomeri, trabelman@
+@sister@|@susa, susa@
+@six@|@sikis@
+@six (of a group)@|@sikispela@
+@sixteen@|@sikistin, wanpela ten sikis@
+@size@|@sais@
+@skeleton@|@bun, bun@
+@sketch@|@plan@
+@skillet@|@praipan@
+@skin@|@skin@
+@skin disease@|@grile@
+@skones@|@skon@
+@skull@|@het@
+@sky@|@heven, klaut, skai@
+@slack@|@slek@
+@slate@|@slet@
+@slate pencil@|@grifel, sletpensil@
+@slave@|@slev@
+@sleep@|@slip@
+@sleepy@|@ai i slip, slip@
+@sleepyhead@|@driman, slipman@
+@sling@|@sling@
+@slipperiss@|@wel@
+@slippery@|@i wel@
+@slow@|@slo@
+@slowly@|@isi isi@
+@slut@|@trabelmeri@
+@sly person@|@welman@
+@small@|@liklik, smol, smolpela@
+@small boy@|@manki@
+@small creeping thing@|@binatang@
+@small sack@|@brasbel@
+@small shell; money@|@tambu@
+@small talk@|@tok gris@
+@smart@|@kleva@
+@smash@|@bengim@
+@smell@|@smel@
+@smoke@|@smok@
+@smoking pipe@|@paip@
+@smooth@|@stret@
+@snail@|@guma@
+@snake@|@snek@
+@sneaky@|@stil@
+@snout@|@maus@
+@snow@|@ais, sno@
+@so@|@na@
+@soap@|@sop@
+@soccer@|@futbal, kikbal@
+@soccer game@|@kikbal@
+@soccer goal@|@mak@
+@socery@|@majik@
+@social custom@|@kastom@
+@society@|@sosaiti@
+@sock@|@soken, sokin@
+@sodomite@|@pakimasman@
+@sodomy@|@pakimas@
+@soft@|@malumalum, malumalum@
+@softly@|@isi-isi@
+@soil@|@graun@
+@solder@|@soda@
+@soldier@|@soldia@
+@solicitor@|@loman@
+@solid@|@strongpela@
+@some@|@sampela@
+@some kind@|@samkain@
+@some others@|@sampela@
+@someone who doesn't live in the village@|@welman@
+@something@|@samting@
+@sometime@|@samtaim@
+@sometimes@|@sampela taim, samtaim@
+@son@|@pikinini, pikinini man@
+@song@|@song@
+@soon@|@baimbai, kwiktaim@
+@sorcerer@|@sangumaman@
+@sorcery@|@papait, posin, posin@
+@sore@|@sua, sua@
+@sort of@|@kain@
+@soul@|@sol, spirit, tewel, win@
+@sound@|@strongpela@
+@sound (noise)@|@nois@
+@soup@|@sup@
+@sour@|@saua@
+@source@|@as@
+@south@|@saut@
+@southeast trade wind@|@rai@
+@sow (pig)@|@pik meri@
+@space@|@rum@
+@spade@|@spet@
+@spanner@|@spana@
+@speaker@|@haloman@
+@speaker (parliament)@|@spika@
+@spear@|@spia, supsup, waia@
+@spear or arrow with multiple points@|@supsup@
+@species of bird in New Guinea@|@kal@
+@spectacles@|@aiglas@
+@speech@|@tok, toktok@
+@spell@|@papait, spel@
+@spelling@|@speling@
+@spice@|@pepa, spais@
+@spider@|@spaida@
+@spillway@|@draidok@
+@spinach@|@kumu@
+@spinning wheel@|@spinwil@
+@spirit@|@dewel, Spirit, spirit, spirit, win, win@
+@spirit (animism)@|@masalai@
+@spirits@|@Spirit, spirit@
+@spit@|@spet@
+@spittle@|@spet@
+@spoiled@|@bagarap@
+@spokesman@|@mandor@
+@spoon@|@spun@
+@spring@|@buswara@
+@spring steel@|@spring@
+@sprout@|@kru@
+@spur of mountain@|@kil@
+@spyglass@|@glas@
+@square@|@skwea@
+@staff@|@stik@
+@staircase@|@lata@
+@standard@|@standet@
+@star@|@sta, star@
+@starboard (right side of a ship)@|@stiabot@
+@starch@|@arurut@
+@start@|@stat@
+@starvation@|@hangre@
+@station@|@stesin@
+@stealing@|@stil@
+@steam@|@smok@
+@steel@|@ain@
+@steep@|@daun, i go daun tumas@
+@steeple@|@taua@
+@steering wheel@|@stia@
+@steersman@|@stiaman@
+@stench@|@sting@
+@steps@|@lada, leta@
+@stern@|@stan@
+@stew@|@sup@
+@stick@|@kanda, pos, stik@
+@sticky sap@|@bulit, laim@
+@stiff@|@tait, taitpela@
+@still@|@yet@
+@still (yet)@|@yet@
+@stinging nettle@|@salat@
+@stocking@|@soken, sokin@
+@stomach@|@bel@
+@stomach ache@|@bel pen@
+@stone@|@ston@
+@stopper@|@koak@
+@store@|@stua@
+@store keeper@|@stuakipa@
+@storm@|@biksi@
+@stormy weather@|@taim nogut@
+@story@|@stori@
+@stout@|@pat, patpela@
+@stove@|@aven@
+@straight@|@stret@
+@straight away@|@stret@
+@strainer@|@strena@
+@stream@|@baret@
+@strength@|@bun, strong@
+@strike@|@bam@
+@string@|@rop, string@
+@strong@|@draipela, strongpela@
+@strong desire@|@mangal@
+@strong; power@|@strong@
+@strut@|@sut@
+@stubborn@|@bikhet, pes, pes@
+@stubborn person@|@bikhet, bikhet man@
+@student@|@skulboi, studen@
+@stupid@|@iapas, kranki@
+@stupidity@|@longlong@
+@substitue@|@senis@
+@such@|@olsem@
+@suddenly@|@wantu@
+@suffering@|@pen@
+@sugar@|@suga@
+@suitcase@|@paus@
+@suited for@|@inap long@
+@summer@|@hatpela taim, taim blong san@
+@sun@|@san@
+@Sunday@|@sabat, Sande, sande@
+@sunpaper@|@sanpepa@
+@sunrise@|@sankamap@
+@sunset@|@sandaun, taim san i go daun@
+@sunshine@|@san@
+@supper@|@kaikai long apinun@
+@supplies@|@kago@
+@support block@|@pilo@
+@suppose@|@ating, sapos@
+@surface@|@antap@
+@surveyor@|@masta mak@
+@suspenders@|@bresis@
+@swamp@|@malumalum, raunwara, tais@
+@sweat@|@skinwara@
+@sweat shirt@|@kolsinglis@
+@sweater@|@kolsinglis, kolsiot@
+@sweet@|@swit, switpela@
+@sweet potato@|@kaukau, yam@
+@sweetheart@|@lewa@
+@swelling@|@buk, solap@
+@swollen@|@solap@
+@sword@|@bainat, bainet@
+@symbol of impurity (religious)@|@han@
+@sympathy@|@sori@
+@table@|@tebol@
+@tablecloth@|@laplap blong tebol@
+@tablet@|@debuk, tablet@
+@taboo@|@tambu, tambu@
+@tail@|@tel@
+@tail feathers@|@kalang@
+@talcum@|@paura@
+@talk@|@maus, tok, toktok@
+@tall@|@lonpela@
+@tank@|@tang, tang@
+@tape@|@tep@
+@tape recorder@|@teprikoda@
+@tapioca@|@tapiok@
+@tar@|@kolta@
+@taro@|@taro@
+@tarpaulin@|@sel, tapulit@
+@task@|@misin, wok@
+@tasty@|@swit, switpela@
+@tatoo@|@mak@
+@taut@|@tait, taitpela@
+@tax@|@takis@
+@taxes@|@takis@
+@tea@|@ti@
+@teacher@|@tisa@
+@tear@|@aiwara@
+@teeth@|@tit@
+@telephone@|@telipon@
+@telescope@|@glas@
+@temple@|@tempel@
+@temptation@|@du@
+@ten@|@ten@
+@ten (each)@|@tenpela@
+@tender@|@malumalum@
+@terrible@|@nogut tru@
+@territory@|@teritori@
+@test@|@tes@
+@testament@|@testamen@
+@thank you@|@tankyu, tenkyu@
+@that@|@em@
+@thatch (roof)@|@morota@
+@that's all; done and over with; right here@|@em tasol@
+@the Crucifixion@|@diwai kros@
+@the day after tomorrow@|@haptumora@
+@the day before yesterday@|@hapasde@
+@the devil@|@Seten@
+@the last@|@behain tru@
+@the left@|@han kais@
+@the past; beforehand@|@bipotaim@
+@the right@|@han sut@
+@the same@|@wankain@
+@the same as@|@wankain@
+@the same kind@|@wankain@
+@the two of us@|@yumitupela@
+@the wilds@|@bikbus@
+@theatre@|@haus piksa@
+@theft@|@stil@
+@them@|@em@
+@themselves@|@ol yet@
+@there@|@long hap@
+@there is; there are@|@gat@
+@therefore@|@na, olsem na@
+@these@|@dispela@
+@thief@|@stilman@
+@thing@|@samting@
+@thinner end of something@|@tel@
+@thirsty@|@nek i drai@
+@thirteen@|@tetin, wanpela ten tri@
+@thirty@|@teti, tripela ten@
+@this@|@dispela, em, em@
+@this sort@|@diskain, dispela kain@
+@thorn@|@nil@
+@thorny@|@i gat nil@
+@thought@|@ting, tingting@
+@thousand@|@tausen@
+@thread@|@tret@
+@three@|@tri@
+@three (of each)@|@tripela@
+@throat@|@nek@
+@throughroad@|@pasis@
+@thunder@|@klaut i bruk@
+@thunderstorm@|@klautbruk@
+@Thursday@|@Fonde@
+@thus@|@olsem, olsem@
+@ticket@|@tiket@
+@tide@|@tait, tait, wara tait@
+@tight@|@tait, taitpela@
+@tiller@|@stia@
+@timber@|@plang@
+@time@|@de, taim@
+@time before WW I@|@jemantaim@
+@times (multiplying)@|@taims@
+@tin@|@kapa, kapa, tin@
+@tin can@|@tin@
+@tip@|@ai@
+@tire@|@taia@
+@tired@|@bagarap, bagarap, hevi, hevi, les, les, mauspen@
+@to@|@long@
+@to abandon@|@lusim@
+@to abduct@|@pulim@
+@to abstain@|@tambu@
+@to add@|@skruim@
+@to add spice@|@spaisim@
+@to add to@|@skruim@
+@to address@|@adresim@
+@to agree@|@sekanim, yesim@
+@to agree with@|@seken@
+@to aim at@|@makim@
+@to aim to the left@|@kaisim@
+@to allow@|@larim, let, let@
+@to ambush@|@sambai@
+@to anchor@|@ankaim@
+@to anger@|@rosim, skrapim bel@
+@to anger someone@|@krosim@
+@to anoint@|@welim@
+@to answer@|@bekim pas, bekim tok@
+@to answer someone@|@tokbekim@
+@to appear@|@kamap@
+@to apply oil@|@grisim@
+@to appoint@|@makim, putim@
+@to arrange@|@lainim@
+@to arrest@|@slip long kalabus@
+@to arrive@|@kamap@
+@to ask@|@askim@
+@to assemble@|@bung@
+@to assent to@|@yesim@
+@to assign@|@putim@
+@to assist@|@sambai@
+@to attempt@|@trai@
+@to attract@|@malen@
+@to attract attention@|@amamas(im)@
+@to avoid@|@abrusim@
+@to bag up@|@sakim@
+@to bake@|@kukim@
+@to balance out@|@skelim@
+@to bandage@|@banisim, putim banis@
+@to baptize@|@wasim@
+@to bark@|@krai, singaut@
+@to barter@|@senisim@
+@to bathe@|@waswas@
+@to be@|@stap@
+@to be able@|@save@
+@to be about to@|@laik@
+@to be afraid@|@guria, seksek@
+@to be angry@|@kirap nogut, kros@
+@to be apart from@|@abris@
+@to be asleep@|@slip@
+@to be associated with@|@prenim@
+@to be at war@|@pait@
+@to be bothered@|@wariyim@
+@to be bounced about@|@seksek@
+@to be busy@|@wok@
+@to be close@|@klostu@
+@to be concerned with@|@wariyim@
+@to be confused@|@longlong@
+@to be defeated@|@kuk@
+@to be dense@|@pas@
+@to be dependent@|@hangamap@
+@to be dirty@|@doti@
+@to be drunk@|@spak@
+@to be feverish@|@skin hat@
+@to be filled up@|@pulimap@
+@to be full@|@pulap@
+@to be furious@|@pairap@
+@to be fuzzy@|@moson@
+@to be gone@|@aut, i go pinis, lus@
+@to be hairy@|@moson@
+@to be hot@|@tuhat@
+@to be hurt@|@bagarap@
+@to be ignorant@|@longlong@
+@to be in charge@|@bosim@
+@to be in debt@|@gat dinau@
+@to be in pain@|@gat pen@
+@to be lazy@|@les@
+@to be look for@|@painim@
+@to be missing@|@lus, no gat@
+@to be noisy@|@pairap@
+@to be outside@|@rausim@
+@to be over@|@pinis@
+@to be present@|@stap@
+@to be proud of@|@amamas(im)@
+@to be proud of someone/something@|@amamasim@
+@to be ready@|@sambai@
+@to be ready to@|@laik@
+@to be ruined@|@i bagarap pinis@
+@to be sick@|@sik@
+@to be slippery@|@wel@
+@to be sly@|@wel@
+@to be standing@|@sanap i stop@
+@to be stubborn with someone@|@pesim@
+@to be stuck@|@i pas, pas@
+@to be stupid@|@longlong@
+@to be subject to@|@painim@
+@to be surprised@|@kirap nogut@
+@to be tongue-tied@|@mauspas@
+@to be tricky@|@wel@
+@to be unable@|@no ken@
+@to be unwilling@|@no ken@
+@to be willing; may (auxiliary verb)@|@ken@
+@to beat@|@kilim, paitim, sutim@
+@to beat someone@|@wipim@
+@to become@|@tanim@
+@to become numb@|@dai@
+@to become someone's partner@|@poromanim@
+@to become swollen@|@solapim@
+@to beg@|@plisim, pulim@
+@to begin@|@kamapim, kirap, kirapim, stat, statim@
+@to behave@|@mekim gutpela pasin, sidaun gut@
+@to believe@|@bilipim, holim@
+@to bend@|@krungutim@
+@to bend down@|@lindaun@
+@to bend something@|@krungutim@
+@to beware@|@lukaut@
+@to bind@|@banisim, pasim@
+@to bite@|@kaikai, paitim@
+@to bite off@|@brukim long tit@
+@to bite something@|@kaikaim@
+@to blame@|@asua trabil, putim hevi long@
+@to bleed@|@blut i-kamap, karim blut@
+@to blend@|@miksim@
+@to bless@|@santuim@
+@to bless someone/something@|@blesim@
+@to block@|@pasim@
+@to block; to raise with a pully@|@blokim@
+@to blow@|@winim@
+@to blow on@|@winim@
+@to boil@|@boil@
+@to boil something@|@boilim@
+@to bomb something@|@bomim@
+@to bother@|@trabelim@
+@to bow@|@baut@
+@to box@|@boksen@
+@to break@|@bagarapim, bruk@
+@to break apart@|@brukim@
+@to break the law@|@brukim lo@
+@to break up@|@katim@
+@to breath@|@pulim win@
+@to breath on@|@winim@
+@to breathe@|@pulim win, winwin@
+@to bribe@|@grisim@
+@to bring@|@bringim, karim, karim@
+@to bring or take something or someone@|@bringim@
+@to bring someone to court@|@kotim@
+@to brush or comb something@|@brosim@
+@to buck@|@bukim@
+@to build@|@wokim@
+@to bump@|@sakim@
+@to burn@|@kuk, kukim, paia@
+@to burn something; to charm someone@|@boinim@
+@to burst@|@bruk@
+@to bury@|@planim@
+@to buy something@|@baiyim@
+@to buy; to pay for@|@baim@
+@to call@|@kalim@
+@to call for@|@singautim@
+@to call out@|@singaut@
+@to cane someone@|@kandaim@
+@to capsize@|@kapsait@
+@to capture@|@holimpas@
+@to care for@|@lukaut@
+@to carry@|@karim@
+@to carry around@|@karkarim@
+@to carve@|@sapim@
+@to cast a spell@|@marilaim@
+@to catch fire@|@paia@
+@to catch something@|@hukim@
+@to cause@|@mekim@
+@to cease@|@dai@
+@to celebrate@|@singsing@
+@to change@|@senisim@
+@to change into@|@tanim@
+@to change someone's mind@|@tanim bel@
+@to charm@|@marilaim@
+@to chase@|@ranim@
+@to chat@|@tok gris@
+@to cheat someone@|@sitim@
+@to check out@|@luksi@
+@to chew@|@kaikai@
+@to chisel@|@siselim@
+@to chop up@|@daisim@
+@to clarify@|@toksave@
+@to clean@|@klinim, mekim klin, rausim pipia@
+@to clear away; to relieve@|@tekewe@
+@to clear off@|@kliaim@
+@to climb@|@goap@
+@to climb upon@|@goapim@
+@to close@|@pasim@
+@to coax@|@pulim@
+@to collect@|@brumim, bungim, mumutim, putim wantaim@
+@to collide@|@bengim@
+@to color@|@penim@
+@to comb@|@komim@
+@to come@|@kam@
+@to come aboard@|@kalap long@
+@to come down from@|@kam daun@
+@to come onto@|@kaman@
+@to come out@|@kamaut@
+@to come to@|@kamap@
+@to command@|@oda@
+@to compete@|@resis@
+@to complete@|@winim@
+@to conceal something@|@karamapim@
+@to conceive@|@kisim bel@
+@to condemn@|@demim, kotim@
+@to confess@|@telimautim@
+@to connect@|@joinim, jonim, pasim wantaim, skruim@
+@to consent@|@orait long@
+@to consider@|@tingim, tingting@
+@to continue@|@skruim, skruim i go@
+@to contradict@|@pesim, sakim, sakim tok@
+@to converse@|@toktok@
+@to convert@|@tanim@
+@to cook@|@kuk, kuk, kukim@
+@to cool down@|@kolim@
+@to copulate@|@puspusim, sutim@
+@to copy@|@bihainim@
+@to correct@|@raitim, skulim, stretim@
+@to cost@|@kostim@
+@to cough@|@kus, kus, kusim@
+@to count@|@kaun, kauntim@
+@to count out@|@nambaim@
+@to count up@|@kaunim@
+@to cover@|@karamapim@
+@to covet something@|@mangalim@
+@to crank@|@wilwilim@
+@to crave@|@lewa@
+@to crawl@|@wokabaut long bel@
+@to crow@|@ringaut@
+@to crowd@|@bung@
+@to crowd around@|@bungim@
+@to crush@|@krungutim, krungutim, wilwilim@
+@to cry@|@krai@
+@to cry out@|@singaut@
+@to cure@|@oraitim, oraitim@
+@to curve@|@bautim@
+@to cut@|@fail, kat, katim@
+@to cut grass@|@saripim@
+@to cut into parts@|@hap hapim@
+@to cut up@|@hap hapim, katim@
+@to damage@|@nogutim, pinisim, pinisim@
+@to dance@|@kalkalap, singsing@
+@to deal out@|@dilim, skelim, tilim@
+@to decay@|@stink, stinkim@
+@to deceive@|@giamanim, kusai@
+@to deceive someone@|@hambakim@
+@to decide@|@jasim@
+@to decorate@|@bilasim@
+@to defeat@|@brumim, daunim, kukim, win long@
+@to defend@|@sambai long@
+@to delay@|@kalabusim@
+@to demand@|@strong@
+@to desert@|@lusim, lusim, ronewe long@
+@to desire@|@dai, laik, lewa, lewa, mangal, wanim, wanim@
+@to desire something@|@laikim@
+@to despise@|@hetim, hetim, no laikim, no laikim@
+@to destroy@|@bagarapim olgera, kukim, kukim@
+@to diagnose@|@painim as blong sik, painim sik blong man@
+@to dice@|@daisim@
+@to die@|@dai@
+@to dig@|@brukim graun long spet, savolim@
+@to discover@|@luksave@
+@to discover something@|@painim@
+@to dish out@|@spunim, sutim@
+@to disobey@|@sakim, sakim tok@
+@to display at a fair@|@soim@
+@to distribute@|@dilim@
+@to disturb@|@noisim@
+@to dive@|@daivim, hetwin@
+@to dive for something@|@swimim@
+@to divide@|@brukim namel, tilim@
+@to divide in two@|@hapim@
+@to divorce@|@brukim ring@
+@to divulge@|@autim, telimautim@
+@to do@|@mekim@
+@to do good@|@mekim gut@
+@to do habitually@|@save@
+@to do laundry@|@wasim klos@
+@to double@|@dabolim@
+@to drag@|@pulim@
+@to drain@|@baretim, strenim@
+@to draw@|@pulim@
+@to draw something@|@droim@
+@to dream@|@drim@
+@to dress@|@pasim klos, putim klos@
+@to dress down@|@smokim@
+@to dress up@|@bilasim@
+@to drift@|@drip@
+@to drill@|@asasaitim, boraim@
+@to drill something@|@borim@
+@to drink@|@dring, drink, drinkim@
+@to drink something@|@dringim@
+@to drive@|@draiv, draivim, stia, stirim@
+@to drive something@|@draivim, stiaim@
+@to drop something@|@legoim@
+@to drown@|@drink wara pinis, lus long wara@
+@to dye@|@penim@
+@to eat@|@kaikai@
+@to elect@|@ilektim, vot@
+@to elect someone@|@votim@
+@to elevate@|@litimap@
+@to elevate; to raise with a jack@|@jekim@
+@to embarrass@|@semim@
+@to empty@|@kapsaitim i go, rausim i go@
+@to encourage@|@strongim@
+@to end@|@pinisim, pinisim@
+@to enjoy@|@amamas(im), hamamas(im)@
+@to enter@|@go insait, kam insait@
+@to entice@|@hukim, pulim@
+@to envy@|@mangalim@
+@to erase@|@tekewe@
+@to erect@|@sanapim@
+@to escape@|@ranawe@
+@to evade@|@abrisim@
+@to event@|@kamapim@
+@to examine@|@glasim, luksi, luksiyim, traiyim@
+@to examine medically@|@glasim@
+@to exchange@|@senisim@
+@to excite@|@kirapim bel@
+@to excrete@|@pekpek, pekpek@
+@to exercise@|@asasaitim@
+@to exist@|@stap@
+@to expand@|@swelap, swelapim@
+@to expect@|@weitim, wetim@
+@to expel@|@troim@
+@to expell@|@rausim@
+@to explain@|@het kliaim, telimautim, toksave@
+@to explode@|@bomim, pairap, pairap@
+@to express@|@telimautim@
+@to fail@|@abrisim, fel@
+@to fail something@|@felim@
+@to faint@|@dai@
+@to fall@|@podaun, pundaun@
+@to fall down@|@pundaun@
+@to fasten@|@pasim@
+@to fasten with glue@|@simenim@
+@to feed@|@givim kaikai long@
+@to feel@|@pilim@
+@to feel pain@|@sut@
+@to fence in@|@banisim@
+@to fight@|@pait@
+@to fight (with fists)@|@boksen@
+@to file@|@fail@
+@to file something@|@failim, pailim@
+@to fill@|@pulapim, pulimapim@
+@to fill partially@|@hapim@
+@to find@|@painim@
+@to find out@|@luksave@
+@to finish@|@pinis, pinis, pinisim, winim, winim@
+@to finish off@|@pinisim@
+@to fire@|@autim long wok, paia@
+@to fire (gun)@|@pairapim@
+@to fish@|@hukim pis, lukautim pis, painim pis@
+@to fix@|@oraitim, oraitim, stretim@
+@to fix to the ground@|@graunim@
+@to flatten@|@rolaim@
+@to flatter; to grease or oil@|@grisim@
+@to flirt@|@grisim long meri@
+@to float@|@swim@
+@to float something@|@swimim@
+@to flow (river)@|@ran@
+@to fly@|@flai, ran@
+@to fold@|@brukim@
+@to follow@|@bihainim, kam bihain long@
+@to fool@|@giamanim, mekim ful long, sutim nus@
+@to forbid@|@tambu, tambu, tambuim@
+@to force@|@mekim@
+@to force someone@|@duim@
+@to forfeit@|@lusim@
+@to forget@|@lusim, lusim, lusim tink@
+@to forgive@|@pogivim, tekewe@
+@to form a company@|@prenim@
+@to fornicate with someone@|@pamukim@
+@to foul@|@paulim@
+@to frighten@|@mekim pret, pretim@
+@to fry@|@praim, praiyim@
+@to gamble@|@laki, pilai laki@
+@to garnish@|@abusim@
+@to gather@|@bung, putim wantaim@
+@to gather something@|@bungim@
+@to get@|@kisim@
+@to get drunk@|@paitim@
+@to get into@|@kalap long@
+@to get married@|@kisim ring@
+@to get pregnant@|@puspusim@
+@to get ready@|@redim@
+@to get rich@|@pausim@
+@to get sick@|@kisim sik, sik i kisim@
+@to get something ready for someone@|@rediyim@
+@to get stuck@|@planim@
+@to get up@|@kirap@
+@to give@|@givim, givim, ofaim, ofaoim@
+@to give an explanation@|@toksave@
+@to give birth@|@karim@
+@to give birth to@|@karim@
+@to give enough@|@inapim@
+@to glue something together@|@bulitim, laimim@
+@to go@|@go@
+@to go around@|@raunim@
+@to go head first@|@hetwin@
+@to go off (road)@|@lusim rot, rausim long rot@
+@to go onward@|@goan@
+@to go outside@|@rausim@
+@to go to school@|@skul@
+@to go up@|@goap@
+@to grease@|@grisim@
+@to greet someone@|@salutim@
+@to grind@|@wilwilim@
+@to grind (coffee)@|@tanim (kopi)@
+@to ground@|@graunim@
+@to grow@|@go bikpela, kamap bikpela, kamapim@
+@to guard@|@sambai long, was long@
+@to guide@|@soim rot, stia@
+@to halve@|@hapim@
+@to hammar@|@hamarim, paitim long hama@
+@to hammer@|@hama im@
+@to hand back@|@bekim@
+@to handle@|@holim@
+@to hang@|@hangamap, hangamapim@
+@to hang something@|@hangamapim@
+@to hang something up@|@hangamap@
+@to harvest@|@tekimautim@
+@to harvest; to confess; to reveal@|@kamautim@
+@to hate@|@hetim, no laikim@
+@to haul in tight@|@taitim@
+@to haunt@|@masalai i gat@
+@to have@|@gat, gat, havim, havim, kisim@
+@to have fun@|@pilai@
+@to have intercourse@|@slip wantaim@
+@to have sex@|@pilai@
+@to have to@|@mas@
+@to heal@|@mekim gut gen, oraitim, stretim sik@
+@to heap@|@hipim@
+@to hear@|@harim@
+@to heat@|@hatim@
+@to heave@|@hivap@
+@to help@|@halapim, helpim@
+@to hem@|@samap@
+@to hem up@|@samapim@
+@to her@|@en (long+em)@
+@to hesitate@|@weit, wet@
+@to hex@|@marilaim@
+@to hide@|@hait, karamapim@
+@to hide something or someone@|@haitim@
+@to him@|@en (long+em)@
+@to hit@|@paitim, paitim@
+@to hoe@|@bairapim, hapapim@
+@to hoist@|@haisap@
+@to hoist up@|@hivapim@
+@to hold@|@holim, holim, kalabusim@
+@to hold back@|@surik@
+@to hold court@|@jasim@
+@to hold on@|@holimpas@
+@to hold someone back@|@pasim@
+@to hold someone in their place@|@stapim@
+@to hook@|@hukim@
+@to hop@|@kalap kalap@
+@to hope for@|@weitim, wetim@
+@to hunt@|@go lukautim abus@
+@to hurry@|@hariapim@
+@to hurt@|@bagarapim, kilim, paitim, paitim, pen, pen@
+@to imitate@|@bihainim@
+@to impregnate@|@puspusim@
+@to imprison@|@kalabusim, putim long kalabus@
+@to incite@|@du, duim@
+@to increase@|@litimap@
+@to inflate@|@pamapim, pamim@
+@to influence@|@tanim tingting/(tinktink)@
+@to inject someone@|@sutim@
+@to injure@|@bagarapim@
+@to insist on@|@strong@
+@to institute@|@kamapim@
+@to interpret@|@tanim, tanim tok@
+@to interrogate@|@kwestenim@
+@to interrupt@|@katim@
+@to invite@|@askim, salim tanget long, singautim@
+@to itch@|@skirap@
+@to join@|@join, jon, jonim@
+@to join together@|@joinim@
+@to joint@|@skruim@
+@to jostle@|@sakim@
+@to judge@|@demim, jasim@
+@to jump@|@kalap, singsing@
+@to jump over@|@kalapim@
+@to jump up and down@|@kalkalap@
+@to keep@|@holim@
+@to keep faith@|@holim@
+@to keep in mind@|@tingim@
+@to keep quiet@|@sarap@
+@to kick@|@kik, kikim@
+@to kick someone or something; to repulse@|@kikim@
+@to kill@|@kilim, mekim dai (pinis), mekim dai pinis@
+@to kindle@|@laitim paia@
+@to kneel@|@nildaun@
+@to knock@|@bamim, paitim@
+@to know@|@save@
+@to know how@|@ken, save@
+@to labor@|@wok, wokim@
+@to ladle@|@spunim@
+@to lance (a sore)@|@katim long sua@
+@to land (airplane)@|@podaun@
+@to land (come ashore)@|@kam sua@
+@to lather@|@sopim@
+@to laugh@|@lap, lap@
+@to laugh at@|@lapim@
+@to lay (down)@|@slipim long graun@
+@to lay (egg)@|@putim kiau@
+@to lay concrete@|@simenim@
+@to lay down lengthwise@|@slipim@
+@to lay in wait for@|@sambai@
+@to lay something on its side@|@saitim@
+@to lead@|@go pas long@
+@to leak@|@lik@
+@to lean@|@lindaun@
+@to leap@|@kalap@
+@to learn@|@lain@
+@to learn (with a shaman)@|@glasim@
+@to learn something@|@lanim@
+@to leave@|@larim, lusim@
+@to leave alone@|@larim i stop@
+@to leave behind@|@lusim@
+@to lengthen@|@skruim@
+@to let@|@let@
+@to let go@|@lego, tromoi@
+@to level@|@levelim@
+@to lie about something@|@giamanim@
+@to lift@|@haisapim, haisapim, haisim, lip, liptapim, pulim i go antap@
+@to lift up@|@litimap, litimapim@
+@to light up@|@lait, laitim@
+@to like@|@hamamas(im), laik@
+@to line up@|@lainim@
+@to listen@|@harim, putim yau@
+@to live@|@lip, lip, sindaun, stop@
+@to live at a place@|@stap@
+@to live with@|@i stop wantaim long (mipela, yupela &c)@
+@to lock@|@lokim, pasim@
+@to lock something up@|@lokapim@
+@to lock up@|@kalabusim, lokap@
+@to long for@|@krai, krai, sori, sori@
+@to look@|@lukluk@
+@to look after someone@|@lukautim@
+@to look at@|@luk@
+@to look for@|@lukluk, lukluk long@
+@to loose@|@lusim@
+@to loosen@|@slekim@
+@to lose@|@kuk, lus@
+@to love@|@laik, laikim@
+@to lubricate@|@grisim, welim@
+@to lull to sleep@|@slipim@
+@to lust after@|@mangal@
+@to make@|@mekim, wokim@
+@to make a bundle@|@pausim@
+@to make a contract@|@sekanim@
+@to make a noise@|@meknoise@
+@to make noise@|@noisim@
+@to make peace@|@sekanim@
+@to make public@|@telimautim@
+@to make sick@|@kilim@
+@to make someone hurry@|@hariapim@
+@to make someone sick@|@paitim@
+@to make up one's mind@|@tingting long bel@
+@to make use of@|@yusim@
+@to make wet@|@wasim, wetim@
+@to march@|@mas@
+@to mark@|@makim@
+@to marry@|@kisim ring, marit long, maritim@
+@to massage@|@rapim@
+@to mate@|@goapim, kalap@
+@to mean@|@min, minim@
+@to measure@|@metarim, saisim, skelim@
+@to measure something@|@metaim, metayim@
+@to mend@|@samap@
+@to menstruate@|@karim blut, mun i lukim meri@
+@to miss@|@abrus long, abrusim long@
+@to mix@|@abusim, mikisim, miksim@
+@to mix up@|@paulim@
+@to moan@|@krai@
+@to mock@|@makim, makim, tok bilas@
+@to moisten@|@wetim@
+@to molest@|@trabelim@
+@to mourn@|@sori long@
+@to mourn with@|@kalapa@
+@to move@|@limlimbur, surik@
+@to move away@|@surik i go@
+@to move back@|@surik, surikim@
+@to move near@|@klosapim, surik i kam@
+@to mow@|@saripim@
+@to nail@|@nilim, pasim long nil@
+@to nail something@|@nilim@
+@to name@|@givim nem, kolim nem, putim nem@
+@to narrate legends@|@tok kuskus@
+@to narrate myths@|@tok kuskus@
+@to not exist@|@no gat@
+@to notice@|@lukim, makim@
+@to notice an aroma@|@smelim@
+@to number@|@nambaim@
+@to obey@|@bihainim, harim tok@
+@to obey (law)@|@behainim lo, holim lo@
+@to observe@|@glasim@
+@to obstruct@|@blokim@
+@to obtain@|@kisim@
+@to offend@|@rongim@
+@to offer@|@mekim ofa@
+@to offer up@|@ofaim@
+@to open@|@openap, opim@
+@to open something@|@openapim@
+@to open up@|@openapim@
+@to order@|@oda@
+@to order something done@|@odaim@
+@to oust@|@rausim@
+@to overcome@|@daunim@
+@to overfill@|@kapsaitim@
+@to overflow@|@kapsait@
+@to overheat@|@tuhat@
+@to overpower@|@daunim, winim@
+@to overtake a car@|@abrusim ka@
+@to overturn & spill@|@kapsaitim@
+@to owe@|@gat dinau@
+@to own@|@gat@
+@to pacify@|@kolim@
+@to paddle a boat@|@pulim@
+@to paint@|@penim@
+@to pass a car@|@abrusim ka@
+@to pass by@|@abrisim, abrusim, go pas long@
+@to patch (tire)@|@sodarim@
+@to patch up@|@samap@
+@to pay@|@peim@
+@to pay out wages to someone@|@fotnaitim@
+@to permit@|@larim@
+@to perspire@|@skin i wara, tuhat i kamaut long skin@
+@to photograph@|@mekim poto, potoim@
+@to pick at@|@pikim@
+@to pile up@|@hipim@
+@to place@|@putim@
+@to place soil around plants@|@graunim@
+@to plane smooth@|@hobelim@
+@to plane something smooth@|@plenim@
+@to plant@|@plenim@
+@to plant something@|@planim@
+@to play@|@pilai@
+@to play a trick@|@kusai@
+@to play dice@|@satu@
+@to play soccer@|@kik@
+@to please@|@plisim@
+@to plunge@|@daivim@
+@to point@|@poin@
+@to point at@|@makim, poinim@
+@to point out@|@mekim long pinga, poin@
+@to point to@|@poinim@
+@to poke@|@sutim@
+@to polish@|@polis@
+@to polish something@|@polisim@
+@to portion out@|@dilim@
+@to possess@|@gat@
+@to pound@|@memeim@
+@to pour@|@kapsaitim long@
+@to practice@|@traim@
+@to praise someone@|@litimapim@
+@to pray@|@beten, pre, raring@
+@to prepare@|@mekim redi, redim@
+@to present@|@givim@
+@to press with iron@|@ainim@
+@to print@|@prin, printim@
+@to print something@|@prinim@
+@to prod@|@sutim@
+@to promise@|@makim, promisim@
+@to promise something to someone@|@promisim@
+@to protect@|@hait, lukaut long, sambai, sambai long@
+@to provoke@|@skirapim@
+@to publicize@|@telimautim@
+@to pull@|@pul, pulim, taitim@
+@to pull out@|@kamautim@
+@to pulverize@|@memeim@
+@to pump@|@pamim@
+@to pump up@|@pamapim@
+@to puncture@|@sutim long nil@
+@to punish@|@givim kanda, givim stik long@
+@to punish someone@|@strafim@
+@to punish with something@|@givim@
+@to purchase@|@baiyim@
+@to push@|@subim@
+@to push away@|@subim i go@
+@to push back@|@surikim@
+@to push up@|@hivap@
+@to put@|@putim, slipim long@
+@to put down@|@putim i stap@
+@to put in a sack@|@sakim@
+@to put in a sling@|@slingim@
+@to put in a wedge between things@|@kailim@
+@to put in order@|@stretim@
+@to put on a string@|@ropim@
+@to put salt into something@|@solim@
+@to put slack into@|@slekim@
+@to put up@|@stuaim@
+@to quarantine@|@karavia@
+@to question@|@askim, kwestenim@
+@to race@|@resis@
+@to raise@|@haisapim, kirapim, liptapim@
+@to raise something@|@hivapim@
+@to raise something up@|@haisim@
+@to raise up@|@apim, haisap, jekupim, litimap@
+@to raise wages@|@litimap@
+@to raise with a winch or crane@|@winisim@
+@to rattle@|@meknais@
+@to read@|@rit, ritim@
+@to read out@|@kaunim@
+@to read something@|@ritim@
+@to receive@|@kisim@
+@to recognise@|@luksave@
+@to recognize by smell@|@smelsave@
+@to recruit@|@baiyim boi@
+@to reject@|@tromoiyim@
+@to rejoice@|@amamas long@
+@to relax@|@malolo@
+@to release@|@lego@
+@to release rope@|@slekim@
+@to release something@|@legoim@
+@to remain@|@stap@
+@to remember@|@holim long tingting, ting, tingting@
+@to remove@|@tekewe, tekewe@
+@to remove bedclothes@|@brukim bet@
+@to remove something@|@kliaim, tekeweim@
+@to repair@|@mekim gut gen, oraitim, oraitim@
+@to repay@|@bekim@
+@to repeat@|@mekim gen, tokim gen@
+@to report@|@tokaut@
+@to report to someone@|@ripotim@
+@to respond to someone@|@tokbekim@
+@to rest@|@malolo@
+@to retard@|@pasim@
+@to retreat@|@surikim@
+@to return@|@bekim, kam bek@
+@to reveal@|@autim, telautim, telimaut@
+@to revenge@|@bekim@
+@to revolve@|@tantanim@
+@to reward@|@peim, peyim@
+@to reward someone@|@praisim@
+@to ring (a bell)@|@ringaut@
+@to rise@|@kirap, sanap@
+@to roast@|@kukim, kukim (long paia)@
+@to rob@|@stilim@
+@to roll@|@tantanim@
+@to roll out@|@rolaim@
+@to roll over@|@tanim@
+@to rot@|@stink@
+@to row@|@pul@
+@to rub@|@fail, rapim@
+@to rub something@|@pailim@
+@to ruin@|@bagarapim, mekim nogut, spoilim@
+@to rule over someone@|@bosim@
+@to run@|@ran@
+@to run after@|@ranim@
+@to run away@|@ranawe@
+@to run over@|@goapim@
+@to rush@|@ran@
+@to sack (from a job)@|@sakim@
+@to sack from a job@|@autim long wok@
+@to saddle up@|@sadelim@
+@to sail away@|@salim@
+@to salt@|@solim@
+@to salute@|@salutim@
+@to salvage@|@mumutim@
+@to sanctify@|@santuim, tambu@
+@to satisfy@|@inapim@
+@to saw@|@katim long so@
+@to saw in two; to show (how or a place)@|@soim@
+@to saw up@|@soim@
+@to say@|@spik, spikautim, tok@
+@to scare@|@mekim i pret, pretim@
+@to scatter@|@tromoiyim nabaut@
+@to scavenge@|@mumutim@
+@to scold@|@krosim, paia, smokim@
+@to scoop up@|@savolim@
+@to scour@|@rapim@
+@to scrape@|@fail, skirap, skirapim@
+@to scratch@|@skirap@
+@to screw down@|@skruim@
+@to search for@|@lukautim@
+@to season@|@abusim, spaisim@
+@to second (parliamentary)@|@seken@
+@to secure@|@lokap@
+@to secure something@|@lokim@
+@to seduce@|@pulim@
+@to see@|@luk, luk, lukim, lukim@
+@to seek@|@lukluk, lukluk long, painim, painim@
+@to sell@|@salim@
+@to send@|@salim, wailisim@
+@to send (by radio)@|@waialesim@
+@to send by post@|@mailim@
+@to send for@|@singaut long, singautim@
+@to send messages@|@wailisim@
+@to set@|@sidaunim@
+@to set a course@|@sut@
+@to set fire@|@laitim@
+@to set free@|@lusim@
+@to set in motion@|@statim@
+@to set straight@|@skulim@
+@to settle down@|@anka@
+@to sew@|@samap, samapim@
+@to sew up@|@samap@
+@to sew up something@|@samapim@
+@to shake@|@guria, meknais, nais, nais, sakim, seksek, seksek@
+@to shake hands@|@sekan@
+@to shake something or someone@|@seksekim@
+@to shake something out@|@naisim@
+@to share@|@givim hap long@
+@to sharpen@|@mekim sap@
+@to sharpen something@|@sapim@
+@to shave@|@katim mausgras, resaim, sevim@
+@to shave off@|@sapim@
+@to shine@|@lait, polis, polis@
+@to shine up@|@polisim@
+@to ship@|@salim, senim, senim long sip, senim long sip@
+@to shiver@|@meknais, nais@
+@to shock@|@sakim@
+@to shoot@|@sut, sut@
+@to shoot an arrow@|@spiaim@
+@to shoot at@|@sutim@
+@to shout@|@bikmausim, ringaut, singaut@
+@to shove@|@sakim, sakim, subim, subim i go@
+@to shovel@|@savolim@
+@to show@|@poinim@
+@to show off@|@soim@
+@to shun@|@abrusim, klia long, stop longwe long@
+@to shut@|@pasim@
+@to shut up@|@sarap@
+@to sign@|@makim@
+@to silence@|@sarapim@
+@to sing@|@sing, singim, singsing@
+@to single out@|@tambu@
+@to sit down@|@sidaun, sindaun@
+@to size up@|@saisim@
+@to slander@|@krungutim gutnem@
+@to slap@|@slapim@
+@to smell@|@smel@
+@to smell something@|@smelim@
+@to smoke@|@smok, smokim@
+@to sneeze@|@kus@
+@to soap up@|@sopim@
+@to solder@|@sodarim@
+@to solder something@|@sodaim@
+@to spade@|@brukim graun long spet@
+@to spank@|@givim kanda long as, paitim as@
+@to speak@|@adresim, spik, tok, tok, tokim, toktok, toktok@
+@to speak about@|@tokaut@
+@to spear something@|@spiaim@
+@to spell@|@spelim@
+@to spend@|@lusim moni, tromoi@
+@to spend (money)@|@lusim mani, tromoiyim mani@
+@to spice@|@spaisim@
+@to spill@|@kapsaitim@
+@to spit@|@spet, spet, spetim@
+@to spit out@|@spetim@
+@to spit upon@|@spetim@
+@to splice@|@balaisim@
+@to split@|@balaisim@
+@to spoil@|@nogutim, spoilim@
+@to sprain@|@tanim skru blong (+body part)@
+@to spy@|@glasim, glasim@
+@to squelch@|@sarapim@
+@to stab@|@sutim@
+@to stand@|@sanap@
+@to stand by@|@sambai@
+@to stand in cue@|@lain@
+@to stand something up@|@sanapim@
+@to stand up@|@sanap@
+@to start@|@kamap, kirap, kirapim, stat, stat@
+@to start a fire@|@laitim paia@
+@to start something@|@kirapim, statim@
+@to starve@|@dai long hangre@
+@to stay@|@anka, sindaun, stap, stap@
+@to steal@|@brumim, stil, stilim@
+@to steer@|@stia, stiaim@
+@to steer (a vehicle)@|@stirim@
+@to steer toward@|@sut@
+@to step on@|@krungutim, krungutim@
+@to stick@|@nilim@
+@to sting@|@paitim@
+@to stink@|@smel nogut, sting, stink@
+@to stir@|@miksim, tanim@
+@to stop@|@stap@
+@to stop someone@|@stapim@
+@to store away@|@stuaim@
+@to store up@|@mumutim@
+@to straighten@|@stretim@
+@to straighten out@|@levelim, oraitim@
+@to strain out@|@strenim@
+@to stretch@|@taitim@
+@to strike@|@bamim, paitim@
+@to string up@|@ropim@
+@to strip a bed@|@brukim bet@
+@to stroke@|@pul@
+@to stroll@|@limlimbur@
+@to study@|@lainim@
+@to submerge@|@daivim@
+@to subtract@|@tekewe@
+@to suffer@|@karim@
+@to surpass@|@win, win long@
+@to surround@|@banisim, raunim@
+@to swear an oath@|@tok tru antap@
+@to sweep clean@|@brumim@
+@to swell@|@solap, swelap@
+@to swell up@|@solapim@
+@to swim@|@swim@
+@to swirl@|@boil@
+@to switch on@|@swisim@
+@to switch to@|@swisim@
+@to sympathize@|@kalapa@
+@to take@|@tekim@
+@to take a bath@|@waswas@
+@to take a photograph of someone@|@potoim@
+@to take away@|@stilim, tekewe@
+@to take care of@|@lukaut long@
+@to take care of someone@|@lukautim@
+@to take one's temperature@|@glasim@
+@to take something out@|@tekimautim@
+@to take to trial@|@trai@
+@to talk@|@tok, toktok@
+@to talk about something@|@tokim@
+@to talk loudly about something@|@bikmausim@
+@to tally@|@kaunim@
+@to taste food@|@traiyim@
+@to taunt@|@skirapim@
+@to teach@|@het kliaim, lainim, lanim, skulim@
+@to teach someone@|@tisim@
+@to tear@|@bruk@
+@to tease@|@skirapim@
+@to tell@|@kalim, telimaut, telimautim, tokaut@
+@to tell a secret@|@autim@
+@to tell a story@|@tokim stori@
+@to tempt@|@du, duim, traim, traiyim@
+@to test@|@luksi, traim@
+@to thank@|@tenkim, tenkyu long@
+@to the right@|@rait@
+@to think@|@tink@
+@to think about@|@tingting@
+@to thrash@|@kandaim, smokim@
+@to thrash someone@|@solapim@
+@to threaten@|@pretim@
+@to throw@|@tromoi, tromoiyim@
+@to throw away@|@tromoi@
+@to throw up@|@hivap@
+@to tie@|@pasim@
+@to tighten@|@taitim@
+@to toss@|@bukim@
+@to touch@|@holim isi, pilim@
+@to transmit@|@wailisim@
+@to tremble@|@guria, seksek@
+@to trick@|@kusai@
+@to trick someone@|@trikim@
+@to try@|@trai, traim@
+@to turn@|@bautim, tanim@
+@to turn a crank@|@wilwilim@
+@to turn around@|@tantanim@
+@to turn over@|@ova@
+@to turn something over@|@ovaim@
+@to twist@|@krungutim, paulim@
+@to type on a typewriter@|@taipraitim@
+@to understand@|@save@
+@to understand (language)@|@harim tok@
+@to undress@|@lusim klos@
+@to unite@|@pasim wantaim@
+@to unlock@|@lusim lok, openapim lok@
+@to urinate@|@mekim pispis, pekpek, pispis@
+@to use@|@yusim@
+@to vanish@|@i lus olgera@
+@to visit@|@lukim, lukim@
+@to vomit@|@traut, trautim@
+@to vote@|@vot@
+@to wait@|@weit, wet, wet, wetim, wetim@
+@to wait for@|@weitim@
+@to wake@|@kirap long slip@
+@to wake up@|@kirap@
+@to walk@|@limlimbur, wokabaut@
+@to wall up@|@pasim@
+@to wander@|@raun nabaut@
+@to want@|@laikim, wanim, wanim@
+@to wash@|@wasim@
+@to wash something@|@wasim@
+@to watch@|@lukaut long, lukluk long, was long@
+@to watch for@|@lukaut@
+@to watch something@|@luklukim@
+@to weave@|@lumim@
+@to weigh@|@skelim@
+@to weld@|@sodaim@
+@to whip someone@|@wipim@
+@to whirl@|@raunim@
+@to whistle@|@wisil@
+@to win@|@win, winim@
+@to wink@|@brukim ai@
+@to wish@|@laikim, wanim@
+@to withdraw@|@surik@
+@to witness@|@sambai@
+@to woo@|@du@
+@to work@|@wok@
+@to worry; problems@|@wari@
+@to worship@|@lotu@
+@to worship someone@|@lotuim@
+@to wrap@|@karamapim@
+@to wrap up@|@raunim@
+@to wreck@|@bagarapim@
+@to write@|@raitim@
+@to write something@|@hanraitim@
+@to wrong@|@rongim@
+@to yearn for@|@mangal@
+@to yell@|@kalautim, singautim@
+@tobacco@|@tabak@
+@today@|@tude@
+@toe@|@pinga, pinga blong leg@
+@toenail@|@kapa@
+@together@|@tupela wantaim, wantaim@
+@together with@|@wantaim@
+@toilet@|@sithaus@
+@tomahawk@|@tamiok@
+@tomato@|@tomato@
+@tomorrow@|@tumora@
+@tongue@|@tang@
+@tongue (anatomy)@|@tang@
+@too@|@tu, tumas@
+@too much; too@|@tumas@
+@tool@|@tul@
+@tooth@|@tit@
+@top@|@antap, het, nus, tuptup@
+@torch@|@bombom, sutlam, tos@
+@tough weed@|@brumstik@
+@toward@|@long@
+@towel@|@taul@
+@tower@|@taua@
+@town@|@bikples, biktaun, ples@
+@trace@|@lek@
+@track@|@lek@
+@tractor@|@katapila@
+@trade; clan@|@bisnis@
+@trader@|@kampani masta@
+@tranquil@|@isi@
+@transgression@|@pekato@
+@transmitter@|@redio@
+@trash@|@rabis@
+@tree@|@diwai, laulau@
+@tree (leaves used for smoking)@|@mangas@
+@tree kangaroo@|@kapul@
+@tree trunk@|@stik blong tri@
+@tree with edible leaves@|@tulip@
+@tree with edible nuts@|@ton@
+@trembling@|@guria@
+@tremendous@|@draipela@
+@tremor@|@guria@
+@trial@|@kot@
+@tribal chief appointed by government@|@luluai@
+@tribal guardian@|@papa@
+@tribe@|@bisnis, lain@
+@tricky person@|@welman@
+@triune (religious concept)@|@Triwan@
+@trouble@|@binua, trabel, trabel@
+@trouble-maker@|@krungutman, trabelman@
+@troublesome person@|@trabelman, trabelmeri@
+@trough@|@karuka@
+@trousers@|@trausis@
+@tru@|@tru@
+@truck@|@ka, lori, motoka, trak@
+@true@|@trupela@
+@trumpet@|@biugel@
+@trumpet shell horn@|@taur@
+@trunk@|@bokis@
+@truth@|@tok tru@
+@t-shirt@|@singlis@
+@tube@|@mambu@
+@tuber@|@yam@
+@tuber plant@|@taro@
+@tuberculosis@|@sotwin, tibi@
+@Tuesday@|@Tunde@
+@tuna@|@atun@
+@turkey@|@pipi@
+@turn@|@bautim@
+@twelve@|@twelv, wanpela ten tu@
+@twelve (of each)@|@twelpela@
+@twenty@|@tupela ten, tweni@
+@twisted@|@krungut, krungut, paul@
+@two@|@tu@
+@two (of each)@|@tupela@
+@two halves@|@tuhap@
+@two of each; as well@|@tupela@
+@two pieces@|@tupis@
+@typewriter@|@taipraita@
+@typhoon@|@raun long win@
+@udder@|@susu@
+@ulcer@|@sua@
+@umbilicus@|@rop@
+@umbrella@|@ambrela@
+@unattractive@|@sol@
+@unchaste@|@pamuk@
+@uncivilized man (abusive)@|@buskanaka@
+@uncivilized person@|@buskanaka, kanaka@
+@uncle@|@papa, smolpapa@
+@unconscious@|@dai@
+@uncooked@|@amat@
+@under@|@ananait, ananit long, long, long@
+@underneath@|@ananit, aninit@
+@understand@|@harim@
+@understanding@|@save@
+@unemployed@|@wok i no gat@
+@unfortunate@|@tarangu@
+@unit of measure@|@ins@
+@unite@|@join@
+@unsupported@|@sanap nating@
+@until@|@inap@
+@untruths@|@tok giaman@
+@up@|@antap, apim@
+@up to@|@inap@
+@upright@|@gutpela@
+@uprightness@|@stretpasin@
+@upset@|@kapsait@
+@upwards@|@i go antap@
+@urine@|@pispis@
+@us@|@yumi, yumipela@
+@useless@|@rabis@
+@usury fee@|@interes@
+@uterus@|@bel@
+@vacation@|@lip, taim blong malolo@
+@vaccination@|@sut@
+@vain@|@hambak@
+@valet@|@mankimasta@
+@van@|@trak@
+@various@|@kain kain@
+@vase@|@botol, ves@
+@vegetable@|@kumu, sayor@
+@vegetables@|@sayor@
+@vein@|@rop blong blut@
+@vendor@|@stuakipa@
+@verse@|@ves@
+@very@|@moa, planti, plenti, tru, trupela, tumas@
+@very much@|@tumas@
+@very well@|@orait@
+@vice president@|@vaispresiden@
+@victory@|@win@
+@victory leaf@|@tanget@
+@view@|@ting, tingting@
+@village@|@hauslain, ples, viles@
+@vine@|@rop@
+@vinegar@|@esik, viniga@
+@vision quest@|@wokabout@
+@visitor@|@visita@
+@voice@|@maus, nek@
+@voodoo@|@posin@
+@voodoo (farm or animal fertility)@|@marila@
+@vulgar@|@tok nogut@
+@vulva@|@kakatu, kan@
+@wages@|@pe@
+@wagon@|@karis@
+@wait!@|@holan@
+@walk@|@wok@
+@walk-about@|@wokabout@
+@wall@|@banis, banis blong haus@
+@walls@|@blain@
+@walnut@|@laup@
+@walnut tree (New Guinea)@|@mon@
+@wanderer@|@dripman@
+@war@|@pait, woa@
+@warehouse@|@bakstua, stua@
+@warm@|@hatpela, hatpela liklik@
+@watch@|@was@
+@watch (clock)@|@was@
+@watchman@|@sentri, wasman@
+@water@|@wara@
+@water buffalo@|@bikbel@
+@water cress@|@kumu@
+@water pipe@|@mambu ain, mambu blong wara@
+@water well@|@hul wara@
+@wather@|@de@
+@wattle tree@|@akas@
+@waves@|@si@
+@way@|@pesin, rot@
+@way of life@|@wokabout@
+@WC@|@sithaus@
+@we (excludes audience)@|@mipela@
+@we (exclusive of audience)@|@mipela@
+@we (fully inclusive)@|@yumitupela@
+@we (includes audience)@|@yumipela@
+@we (including person spoken to)@|@yumi@
+@we (inclusive of others@|@mitupela@
+@we (inclusive)@|@yumipela@
+@weak@|@bagarap@
+@weakling@|@man i no gat bun@
+@weather@|@taim@
+@wedge@|@kail@
+@Wednesday@|@Trinde@
+@week@|@wik@
+@weeping@|@krai@
+@well-learned@|@het klia@
+@west@|@wes@
+@West@|@sandaun@
+@wet@|@i gat wara, wet@
+@wharf@|@bris@
+@what@|@wanem, wanim@
+@what for@|@long wanim, watpo@
+@what you say! (exclamation)@|@agai!@
+@wheel@|@taia, wil@
+@wheel barrow@|@wilbera@
+@wheelbarrow@|@supka, wil, wilka@
+@when (interrogative)@|@wataim@
+@when (relative)@|@taim, wantaim, wataim@
+@whenever@|@olgera taim, oltaim, wanem@
+@where@|@we, wea@
+@where from@|@we@
+@which@|@wanem, wanim, wanim@
+@while@|@taim@
+@whip@|@wip@
+@whiskers@|@wiskas@
+@whiskey@|@wiski@
+@whistle@|@wisil@
+@white@|@wait, waitpela@
+@white man@|@waitman@
+@white person@|@waitskin@
+@who@|@husat, wanim man@
+@who (acts as relative pronoun)@|@em i@
+@who (interrogative)@|@husat@
+@Who cares? "It doesn't matter."@|@maski@
+@whole@|@olgera@
+@whorehouse@|@haus bilong pamuk@
+@whose@|@blong huset@
+@why@|@bilong wanem@
+@why (interrogative)@|@long wanim@
+@why (interrogative) cp "olsem wanem"@|@watpo@
+@wick@|@wik@
+@wick for lamp@|@wik@
+@wicked@|@nogut@
+@wicker@|@blain@
+@wide@|@brait, braitpela@
+@width@|@brait@
+@wife@|@kuk@
+@wild@|@wail@
+@wild dog@|@weldok@
+@wild man@|@welman@
+@wild sugar cane (sprouts)@|@pitpit@
+@wild sugarcane@|@tiktik@
+@will@|@bai@
+@winch@|@winis@
+@wind@|@win@
+@wind storm; hurricane@|@bikwin@
+@winded@|@sotwin@
+@window@|@windo@
+@wine@|@wain@
+@wing@|@pul, pul blong pisin, wing@
+@winning@|@win@
+@wire@|@waia@
+@wireless@|@waialis, wailis@
+@wisdom@|@save@
+@wise@|@i save plenti@
+@wise man@|@saveman@
+@with@|@long, wantaim@
+@with &c@|@long@
+@within@|@insait@
+@without@|@i no gat@
+@woman@|@meri@
+@women's hut@|@haus blut@
+@wood@|@diwai@
+@wooden@|@diwai, plang@
+@wooden shield@|@plang@
+@wooden signal drum@|@garamut@
+@woodworker@|@kamta@
+@wool@|@wul@
+@word@|@tok@
+@work@|@wok, wok@
+@work foreman@|@bosboi@
+@worker@|@wokboi, wokman@
+@working@|@wok@
+@working girl@|@wokmeri@
+@world@|@graun, wol@
+@worldwide@|@raun long wol@
+@worm@|@snek@
+@worn out@|@olpela@
+@worship service@|@lotu@
+@wound@|@sua@
+@wound (sore)@|@sua@
+@wrapping for sorcery@|@tanget@
+@wrench@|@plaias@
+@wrist watch@|@hanwas@
+@wristwatch@|@hanwas@
+@writing@|@rait, rait, speling@
+@wrong@|@kranki, nogut, rong@
+@wrongdoing@|@trabel@
+@yam@|@mami, yam@
+@yardstick@|@meta, rula@
+@yaro root@|@arurut@
+@yaws@|@strongpela sua@
+@year@|@krismas, Krismas, yia@
+@yearning@|@mangal@
+@yeast@|@yis@
+@yellow@|@yelo@
+@yes@|@yes, yesa, yesa@
+@yes ("no" to positive question)@|@yes@
+@yes (to negative question)@|@nogat@
+@yes sir@|@yesa@
+@yesterday@|@asde@
+@yet@|@yet, yet@
+@you (dual)@|@yutupela@
+@you (plural)@|@yu, yupela@
+@you (plural/formal)@|@yupela@
+@you (singular)@|@yu@
+@you two@|@yutupela@
+@young@|@yang, yangpela@
+@younger brother@|@smalbrata@
+@zealous@|@hatpela@
+@zero@|@siro@
+@zipper@|@pulsen@
+

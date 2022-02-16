@@ -1,0 +1,513 @@
+@English@|@Aromanian@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@action@|@actsii@
+@air@|@hãvae@
+@albanian@|@arbineascâ, arbinescu@
+@all@|@tut@
+@an@|@un, unâ@
+@and@|@iarâ, shi@
+@angel@|@anghil@
+@animal@|@prãvdã@
+@ant@|@furnigã@
+@apple@|@meare@
+@arm@|@bratsã@
+@aromanian@|@armân, armâneascâ, armâneashti, armânescu, armânji@
+@Aromanian (language)@|@Armãneashce, Limba armãneascã@
+@Aromanian (person)@|@(f.) Armãnã, (m.) Armãn@
+@arrow@|@arthima@
+@as@|@cum@
+@ash@|@cinushe@
+@ash(es)@|@cinushe@
+@ask@|@ântribâ, ântribâm, ntribâ@
+@at@|@la@
+@august@|@avgustu@
+@autumn@|@tomnã@
+@axe@|@tsupatã@
+@back@|@napoi@
+@bad@|@arãu@
+@barley@|@ariz@
+@be able to@|@poati, pot, potsi@
+@bear@|@ursã@
+@beard@|@barbã@
+@because@|@cã@
+@bed@|@crivate@
+@bee@|@alghinã@
+@beer@|@birã@
+@begining@|@aparnjitâ@
+@belly@|@buric, foale@
+@below@|@-njos, ânjos@
+@big@|@mare@
+@bird@|@pulju@
+@black@|@lae, negru@
+@blood@|@sãndzã, sândze, sãndze@
+@blue@|@murnu@
+@boat@|@pãmpore@
+@body@|@corpu@
+@bone@|@os@
+@book@|@vivlie@
+@boy@|@hilj@
+@bread@|@pãne, pâni@
+@breast@|@cheptu@
+@bridge@|@punte@
+@brother@|@frate@
+@brown@|@cafiringhie@
+@bull@|@giungu@
+@burn@|@ardu@
+@but@|@am@
+@butterfly@|@fitur@
+@by@|@la@
+@Bye!@|@Ciao!@
+@camel@|@yãmilã@
+@candle@|@tser@
+@carry@|@duc@
+@cat@|@cãtushe@
+@cheek@|@budzã@
+@cheese@|@cash@
+@cherry@|@cireashe@
+@chestnut@|@câstânj@
+@child@|@fumelj@
+@chin@|@yrunj@
+@church@|@bisearicâ@
+@citizen@|@bânâtor@
+@civil@|@tsivilâ, tsivilu@
+@cloud@|@nior, nor@
+@coal@|@cãrbune@
+@coffee@|@cãfe@
+@cold@|@aratse, frigã@
+@come@|@yin, yinâ, yini, yinim, yinu@
+@copper@|@halcumã@
+@cotton@|@bumbac@
+@country@|@tsarâ@
+@cow@|@vacã@
+@crow@|@gae@
+@daughter@|@hilje@
+@day@|@dzalê, dzuã@
+@death@|@morte@
+@desert@|@disertu@
+@dictionary@|@dictsionar, dictsiunar@
+@die@|@mor@
+@dirty@|@murdar@
+@Do you speak English?@|@Zburats anglicheashce?@
+@dog@|@cãne@
+@donkey@|@yumar@
+@Don't touch me there!@|@Nu mi cartea aclo!@
+@drop@|@chicutã@
+@duck@|@patã@
+@each@|@cafi@
+@eagle@|@ornje@
+@ear@|@ureaclje, urechljã@
+@earth@|@pimintu@
+@egg@|@oao, ou@
+@elephant@|@elefan@
+@enemy@|@dushman@
+@entire@|@ânchisi@
+@equal@|@egali, egalji, egalu@
+@europe@|@evropa@
+@evening@|@searã@
+@every@|@tutâ, tuti, tuts, tutu@
+@exception@|@exceptsie@
+@eye@|@oclju@
+@face@|@fatsã@
+@family@|@familia, soia, taifâ@
+@far@|@diparte@
+@father@|@tatã@
+@fear@|@fricã@
+@feather@|@peanã@
+@few@|@putsãn@
+@find@|@afla, aflâ@
+@finger@|@dzeadzit@
+@fingernail@|@unglje@
+@fire@|@foc@
+@fish@|@pescu@
+@five@|@tsintsi@
+@flag@|@flâmburâ@
+@flea@|@biduclju@
+@flour@|@fãrinã@
+@flower@|@floare, lilice@
+@foot@|@cicior@
+@forest@|@pãdhure, pãdure@
+@four@|@patru@
+@fox@|@vulpe@
+@free@|@liberi, liberu@
+@friend@|@ospit, sots@
+@frog@|@broscã@
+@full@|@ãplinu@
+@garden@|@gãrdinã@
+@german@|@gherman, ghermanâ@
+@give@|@dau@
+@goat@|@caprã@
+@god@|@dumnidzã@
+@gold@|@amalãmã@
+@good@|@bun, bunâ@
+@Goodbye!@|@S-nã videm cu ghine!@
+@goose@|@gãscã@
+@grass@|@iarbã@
+@green@|@vearde@
+@Greetings!@|@Buna dzuã!@
+@guest@|@ospit@
+@guts@|@matsã@
+@had@|@aveam@
+@hair@|@hair, per@
+@hand@|@mãnã@
+@have@|@am@
+@he@|@elu, nãs@
+@head@|@cap@
+@hear@|@avdi, avdu, avdzâm@
+@heart@|@inimã@
+@heaven@|@tseru@
+@heavy@|@greu@
+@hen@|@gãljinã@
+@here@|@aoa, atsia, aua@
+@honey@|@njare@
+@hope@|@pistipsi, pistipsim@
+@horn@|@cornu@
+@horse@|@cal@
+@hour@|@orã@
+@house@|@casã@
+@how@|@cum@
+@How are you?@|@Cum eshci? (informal), Cum hits? (formal)@
+@human being@|@om@
+@hunger@|@foame@
+@husband@|@bãrbat@
+@I@|@io, mine@
+@I am a student@|@Mine escu studentu@
+@I don't understand@|@Nu achicãsescu@
+@I will sing@|@va s-cãntu@
+@ice@|@ãngljatsã, gljets@
+@if@|@cara, disi@
+@in@|@ãn, dit, dit, dit, pri, pri, tru, tu@
+@in order to@|@trâ@
+@iron@|@her@
+@island@|@insulã@
+@it is possible to write@|@poatâ si scrii@
+@just@|@mash@
+@key@|@cljao@
+@kidney@|@buburec@
+@king@|@amirã@
+@kitchen@|@cuinã@
+@knee@|@dzãnuclju, dzenuclju@
+@knife@|@cãtsut@
+@know@|@cunoscu, shtii, shtii, shtim, shtimu, shtiu, shtiu@
+@lake@|@lac@
+@lamb@|@njel@
+@language@|@limbã@
+@languages@|@limbi@
+@leaf@|@frãndzã@
+@left@|@stãngu@
+@leg@|@cicior@
+@letter@|@litirâ@
+@letter (alphabet)@|@literã, yramã@
+@letter (mail)@|@carte@
+@life@|@banã@
+@like@|@ca@
+@lion@|@aslan, ljundar@
+@lip@|@budzã@
+@liver@|@hicat@
+@long@|@lungu@
+@louse@|@mintsime, piduclju@
+@macedonian@|@machiduneascâ, machidunescu@
+@magazine@|@revistâ@
+@man@|@bãrbat, bârbatu, om@
+@man (adult male)@|@bãrbat, mascur@
+@man (human being)@|@om@
+@many@|@ma, ma, multâ, multi, multsã, multu@
+@marriage@|@cârunâ@
+@me@|@iou, mini@
+@meat@|@carne@
+@middle@|@mese@
+@milk@|@lapte, lapti@
+@minute@|@minutã@
+@mirror@|@yilie@
+@money@|@pãradz, platâ@
+@monkey@|@maimun@
+@month@|@mes@
+@moon@|@lunã@
+@mother@|@dadã, mamã@
+@mountain@|@munte@
+@mouse@|@shoaric@
+@mouth@|@gurã@
+@music@|@muzicã@
+@name@|@numã, nume@
+@narrow@|@strãmtu@
+@nationality@|@tsitâtsenii@
+@nature@|@naturã@
+@near@|@aproape, prochiatã@
+@needle@|@ac@
+@neighbor@|@cumshat, vitsin@
+@new@|@não@
+@night@|@noapte, noapti@
+@No@|@nu@
+@no one@|@canâ@
+@nose@|@nare@
+@not@|@nu@
+@nothing@|@nitsi@
+@number@|@numir@
+@of@|@di, ti@
+@oil@|@untulemnu@
+@old (not new)@|@veclju@
+@old (not young)@|@aush@
+@olive@|@olivã@
+@one@|@un, unâ, unu@
+@onion@|@tseapã@
+@or@|@icã@
+@other@|@altâ, alti, altsâ, altu@
+@our@|@noastrâ, nostru@
+@owl@|@buf@
+@ox@|@bou@
+@page@|@frãndzã, padzinâ@
+@pain@|@dor@
+@paper@|@carte@
+@pea@|@grãshac@
+@peace@|@irinje@
+@peach@|@zãrdeo@
+@pear@|@gortsu@
+@people@|@popul@
+@pepper@|@piper lae@
+@person@|@oaminj, om@
+@petroleum@|@petrol@
+@pig@|@porcu@
+@pigeon@|@pãrumbu@
+@place@|@loc@
+@planet@|@planetã@
+@Please@|@Ti-plãcãrsescu (informal), Vã-plãcãrsescu (formal)@
+@plum@|@purnã@
+@poison@|@fãrmatse@
+@potato@|@patatã@
+@prayer@|@plãcãrsire@
+@problem@|@prublemâ@
+@prophet@|@prufit@
+@question@|@ãntribare, ântribari@
+@rain@|@ploae@
+@red@|@arosh@
+@religion@|@relighia@
+@remain@|@armânâ, armâni, armânu@
+@right@|@ândreptu, nãndreptu, ndreptu@
+@river@|@arão, arãu@
+@road@|@cale@
+@rock@|@cheatrã@
+@roof@|@citie@
+@room@|@odã@
+@root@|@zãrtsinã@
+@rope@|@fune@
+@rose@|@trandafilã@
+@round@|@gurguljat@
+@run@|@fug@
+@salt@|@sare@
+@sand@|@arinã@
+@school@|@sculie@
+@sea@|@amare@
+@season@|@sezonã di an@
+@second@|@secundã@
+@see@|@ved@
+@seed@|@simintsã@
+@sharp@|@tãljat@
+@she had eaten@|@avea mãcatã@
+@she will sing@|@va s-cãntã@
+@sheep@|@oae, oaie@
+@ship@|@pãmpore@
+@short@|@shcurtâ, shcurtu@
+@should@|@lipseascâ, lipseashti@
+@silk@|@sirmã@
+@silver@|@asime@
+@sing@|@cânti, cãntu@
+@single@|@simplu, singuru@
+@sister@|@sorã@
+@sit@|@šedu@
+@six@|@shasi@
+@skin@|@chiale, coajã@
+@sky@|@tser@
+@small@|@njic@
+@smoke@|@fum@
+@snake@|@niparticã, sharpe@
+@snow@|@neao@
+@soap@|@sãpune@
+@some@|@nishti@
+@son@|@hilj@
+@Sorry@|@Ãnj-easte jale@
+@sound@|@son, sonuri@
+@speak@|@zburâm, zburascu, zburashi@
+@spider@|@pangu@
+@spoon@|@lingurã@
+@spring(time)@|@primuvearã@
+@star@|@steao@
+@state@|@stat, stati@
+@stay@|@armãn@
+@steel@|@cileche@
+@stick@|@virdzeao@
+@stone@|@cheatrã, chiatrã@
+@storm@|@furtunã@
+@straight@|@ãdreptu@
+@street@|@sucache@
+@sugar@|@zahare@
+@summer@|@vearã@
+@sun@|@soare@
+@swan@|@mielmã@
+@sweeten@|@îndultescu@
+@symbol@|@semnu@
+@table@|@masã, sofrã@
+@tail@|@coadã@
+@tea@|@ceae@
+@Thank you@|@Haristo@
+@that@|@atsel, câ@
+@the brother@|@frate@
+@the brothers@|@fratslji@
+@the father-in-law@|@socrulu@
+@the fathers-in-law@|@socri@
+@the girl@|@feata@
+@the son@|@hiljlu@
+@the sons@|@hiljli@
+@the star@|@steao@
+@the stars@|@steale@
+@the woman@|@muljarea@
+@there@|@aclo@
+@they@|@eali, nãsh@
+@they will sing@|@va s-cãntã@
+@thick@|@gros@
+@thin@|@subtsãre@
+@this@|@aestâ, aestu, aistu@
+@this way@|@ashi@
+@three@|@trei@
+@through@|@pisti, prit@
+@tiger@|@tigru@
+@time@|@chiro@
+@to@|@pi, si@
+@to be@|@eara, earau, easti, escu, eshti, hibâ, suntu@
+@to blow@|@suflu@
+@to burn@|@ardu@
+@to come@|@yin@
+@to count@|@numir@
+@to cut@|@talju@
+@to die@|@mor@
+@to dig@|@sapu@
+@to drink@|@beau@
+@to eat@|@mãc@
+@to fall@|@cad@
+@to fight@|@mi-batu@
+@to flow@|@cur@
+@to fly@|@azboairã@
+@to freeze@|@ãngljets@
+@to give@|@dau@
+@to have@|@ai, am, ari, au, avea, aveai, aveam, avem@
+@to have (1)@|@aibâ, avea, aveatâ@
+@to hear@|@avdu@
+@to here@|@ancoa@
+@to hit@|@agudescu@
+@to hold@|@tsãn@
+@to kill@|@nec, vatãm@
+@to know@|@shciu@
+@to laugh@|@arãdu@
+@to lie@|@mi-culcu@
+@to lie in a bed@|@stau cãlcatã@
+@to play@|@mi gioc@
+@to pull@|@trag@
+@to rub@|@frec@
+@to say@|@dzâc, dzâcâ, dzâtsemu, dzâtsi, spun@
+@to scratch@|@scarchinu@
+@to see@|@ved@
+@to sew@|@cos@
+@to sing@|@cãntu@
+@to sit@|@shed@
+@to sleep@|@dormu@
+@to smell@|@anjurdzescu@
+@to spit@|@ascuchiu@
+@to squeeze@|@stringu@
+@to stand@|@stau@
+@to suck@|@sug@
+@to swell@|@mi umflu@
+@to the brother@|@a fratelui@
+@to the brothers@|@a fratslor@
+@to the father-in-law@|@a socrului@
+@to the fathers-in-law@|@a socrilor@
+@to the girl@|@a featiljei@
+@to the son@|@a hiljlui@
+@to the sons@|@a hiljlor@
+@to the star@|@a steaoljei@
+@to the stars@|@a stealilor@
+@to the woman@|@a muljariljei@
+@to think@|@minduiescu@
+@to throw@|@aruc@
+@to tie@|@leg@
+@to turn@|@me anvãrtescu@
+@to walk@|@imnu@
+@to wash@|@spel@
+@to wipe@|@ashcergu@
+@tobacco@|@tutune@
+@today@|@adzâ, azã@
+@together@|@deadun@
+@tomato@|@dumatã@
+@tomorrow@|@mãne@
+@tongue@|@limbã@
+@too@|@shi@
+@tooth@|@dinte@
+@tower@|@culã@
+@town@|@cãsãbã@
+@tree@|@arbore, arbure, lemnu@
+@truth@|@delihea@
+@tulip@|@zãmbacã@
+@two@|@dauâ, doi@
+@under@|@dupâ@
+@university@|@universitate@
+@up to@|@pânâ@
+@us@|@noi@
+@valley@|@vale@
+@variant@|@variantã@
+@village@|@hoarã@
+@vinegar@|@puscã@
+@voice@|@boatse@
+@wall@|@stizmã@
+@want@|@vrea, vrei, vremu@
+@war@|@polim@
+@warm@|@caldu@
+@water@|@apã@
+@we@|@noi@
+@we will sing@|@va s-cãntãm@
+@weather@|@chiro@
+@week@|@stãmãnã@
+@well@|@ghini@
+@wet@|@ud@
+@what@|@tsi@
+@What are you doing?@|@Tsi fats?@
+@What's your name?@|@Cum ti chljamã?@
+@wheat@|@yiptu@
+@when@|@cãndu@
+@where@|@iu@
+@Where can I find a drink?@|@Iu potu s'aflu una beari?@
+@Where is my room?@|@Iu iasti uda a mea?@
+@Where is the bar?@|@Iu potu s'aflu una beari?@
+@Where is the beach?@|@Iu iasti mardzina di amare?@
+@Where's the bathroom?@|@Iu easte toaletlu?@
+@which@|@cari@
+@white@|@albã, albu@
+@who@|@cai, cari@
+@wide@|@largu@
+@wife@|@ãnveastã@
+@will@|@va@
+@wind@|@vimtu@
+@window@|@firidã@
+@wine@|@yin@
+@wing@|@architã, arpã@
+@winter@|@iarnã@
+@with@|@cu@
+@without@|@fârâ@
+@wolf@|@lup@
+@woman@|@muljare@
+@wool@|@lãnã@
+@word@|@zbor@
+@words@|@zboarâ@
+@work@|@lucreadzâ, lucredzu@
+@world@|@lume, lumi@
+@worm@|@yermu@
+@write@|@scriem, scrii, scriu@
+@write!@|@si scrii@
+@year@|@an, anj, anu@
+@yellow@|@galbin, galbinã@
+@Yes@|@Da@
+@yesterday@|@asearã@
+@you@|@tine, tini@
+@you (pl.) will sing@|@va s-cãntats@
+@you (plural)@|@voi@
+@you (sg.) will sing@|@va s-cãntsã@
+@you all@|@vâ, voi@
+@young@|@tinir@
+

@@ -1,0 +1,1400 @@
+@Spanish (Forestry)@|@English@
+@Author name@|@Álvaro Vallejo@
+@a la orilla del camino@|@at roadside@
+@a mano@|@by hand@
+@abarquillado@|@lumber cupping@
+@abastecimiento de madera@|@wood procurement@
+@abedul@|@birch@
+@abeja@|@bee@
+@abejorro@|@bumblebee@
+@abeto@|@fir, spruce@
+@abeto Douglas@|@Douglas-fir@
+@abono@|@fertilizer@
+@abrazadera, mordaza paralela@|@wood clamp@
+@acabado de madera@|@wood finish@
+@acahual (M)@|@high brush or scrub forest@
+@ácaro@|@mite@
+@acebolladura (M)@|@ringshake@
+@acequia@|@gully, small drainage@
+@achatadura de fuste (CR)@|@non-circular bole@
+@acículas@|@needles@
+@acidez@|@acidity@
+@ácido indol-butérico (AIB)@|@indole-buteric acid (IBA)@
+@ácidos grasos del pulpeo@|@tall oil (pulping extract)@
+@aclarar@|@clear (clarify), thin@
+@aclareo@|@thinning@
+@acodo@|@air layering@
+@acoplado (A)@|@trailer@
+@acordonar, apliar residuos (CR)@|@pile residue@
+@ACPM (C), gasoil (V)@|@diesel fuel@
+@acre (0.40 ha)@|@acre (0.40 ha)@
+@actinomicetos@|@actinomycetes@
+@áfido@|@aphid@
+@afilado, sala de@|@filing room@
+@afilar@|@file (to), sharpen@
+@agalla (en el árbol)@|@gall@
+@agricultor@|@farmer/agriculturist@
+@agro-forestería@|@agro-forestry@
+@agronomía@|@agriculture@
+@agropecuaria@|@agriculture (& animal husbandry)@
+@agua@|@water@
+@agua subterránea@|@ground water@
+@aguacero@|@storm, rainstorm@
+@águila@|@eagle@
+@aguja@|@needle@
+@AIB@|@IBA@
+@aislamiento@|@isolation@
+@al azar@|@random@
+@al borde del camino@|@at roadside@
+@al borde del camino@|@at roadside@
+@alabeos@|@lumber deformations@
+@alacrán@|@scorpion@
+@álamo@|@poplar, aspen@
+@álamo triploide@|@triploid aspen@
+@albura@|@sapwood@
+@alcalino@|@alkaline@
+@alce@|@moose@
+@alelo@|@allele@
+@alerce@|@larch@
+@alerta contra incendios@|@fire alert@
+@aletón, base del árbol@|@buttress, base of tree@
+@alicates@|@pliers@
+@aliso@|@alder@
+@alma (centro) del contraenchapado@|@plywood center (core)@
+@almácega (A) (vivero)@|@bed (nursery)@
+@aluvión@|@alluvium@
+@ambiente@|@environment@
+@amonio, amónico@|@ammonium@
+@amortiguar@|@buffer (to)@
+@análisis de suelo@|@soil analysis@
+@análisis de varianza@|@analysis of variance@
+@ancho de tablas@|@width, board@
+@anemómetro@|@anemometer@
+@angiosperma@|@angiosperm@
+@ángulo fibril@|@fibril angle@
+@anillar@|@girdle (to)@
+@anillos de crecimiento@|@annual rings@
+@aniones@|@anions@
+@anta@|@elk@
+@antecedentes genéticos@|@genetic background@
+@antílope@|@antelope@
+@antorcha (incendios)@|@drip torch@
+@antorcha montada en helicóptero@|@helitorch@
+@ANVA (análisis de varianza)@|@ANOVA (analysis of variance)@
+@aparear@|@mate, to@
+@apeo (C)@|@felling@
+@ápice@|@top@
+@apilar en trincheras ó fajas@|@windrowing@
+@aprovechamiento@|@logging@
+@aprovechamiento con cable aéreo@|@cable logging@
+@arado@|@plow@
+@arar@|@plow (to)@
+@árbol de navidad@|@Christmas tree@
+@árbol de pan@|@breadfruit tree@
+@árbol hueco@|@hollow tree@
+@árbol mástil@|@mast tree@
+@árbol padre@|@mother tree, seed tree@
+@árbol plus (superior)@|@plus tree@
+@árbol portagranos (M)@|@seed tree@
+@árbol semillero@|@seed tree@
+@arboleda@|@grove@
+@arboretum, arboreto@|@arboretum@
+@arboricultivo@|@tree breeding@
+@arboricultor@|@tree breeder@
+@arbusto@|@shrub, bush@
+@arce@|@maple@
+@arcilla@|@clay@
+@arco de arrastre@|@logging arch@
+@ardilla@|@squirrel@
+@área basal@|@basal area@
+@arena@|@sand@
+@arena francosa@|@loamy sand@
+@armadillo@|@armadillo@
+@arqueadura@|@wood warp in arch@
+@arrastrar@|@drag, skid (logging)@
+@arrastre@|@skidding@
+@arroba (@@)@|@at@
+@arroyo@|@stream@
+@ascendiendo@|@ascending@
+@ascomiceto@|@ascomycete@
+@asensor mecánico de naves@|@mechanical lift for ships@
+@aserradero@|@sawmill@
+@aserrador (insecto)@|@twig girdler (insect)@
+@aserrín@|@sawdust@
+@aserrín, silo de@|@sawdust hopper@
+@astilla@|@chip, splinter@
+@astilladora@|@chipper@
+@astilladora basta@|@hog (wood)@
+@atornillado@|@screwed@
+@aumentar@|@increase (to)@
+@autofecundación@|@inbreeding@
+@autopolinización@|@selfing, self pollination@
+@autor principal@|@senior author@
+@auxina@|@auxin@
+@avalúo@|@appraisal@
+@avispa@|@wasp@
+@azada@|@hoedad, hoe (A)@
+@azadón@|@hoe@
+@baba (V), babilla (C)@|@alligator@
+@bachaco (V)@|@leaf-cutter ants@
+@bahareque@|@adobe@
+@balancín (A)@|@scale (for weighing)@
+@balanza, pesa@|@scale (for weighing)@
+@bancal@|@nursery bed, seed bed@
+@banco de clones@|@clone bank@
+@baño antimancha@|@preservative dip@
+@baqueano@|@woods worker@
+@barbecho (CA)@|@secondary forest@
+@barlovento@|@windward, upwind@
+@barrenador (insecto)@|@borer@
+@barrenador de tallo@|@shoot borer@
+@barreno@|@auger@
+@barreno Pressler@|@increment borer@
+@barrera rompeviento@|@windbreak@
+@basa (madera aserrada) (V)@|@cant (sawn wood)@
+@báscula@|@scales for weighing@
+@batea (V)@|@semi-trailer@
+@batifuego@|@fire swatter@
+@bejuco@|@rattan, large vine@
+@berbiquí y broca@|@brace and bit@
+@bestia@|@pack horse, pack animal@
+@bifurcación@|@fork (tree)@
+@biodiversidad@|@biodiversity@
+@biósfera@|@biosphere@
+@bloques al azar@|@randomized blocks@
+@bomba de espalda@|@backpack pump@
+@bombero forestal@|@fire fighter@
+@bombero paracaidista@|@smoke jumper@
+@boro@|@boron@
+@bosque@|@forest, woods@
+@bosque alpino@|@alpine forest@
+@bosque de altura (CR)@|@upland forest@
+@bosque de bajura (CR)@|@lowland forest@
+@bosque húmedo tropical@|@tropical rain forest@
+@bosque húmedo-seco@|@wet-dry forest, monsoon forest@
+@bosque implantado (A)@|@plantation@
+@bosque pluvial@|@pluvial rain forest@
+@bosque primario, bosque virgen@|@virgin forest@
+@bosque secundario@|@second-growth forest@
+@bosque xerofítico@|@dry forest, xerophytic forest@
+@botas@|@boots@
+@botiquín de primeros auxilios first aid@|@kit@
+@brea@|@tar@
+@brigada contra incendios@|@fire brigade@
+@brinzal@|@seedling plantation, thicket@
+@brote@|@shoot@
+@brújula@|@compass@
+@bruma@|@haze, smog@
+@buey@|@ox@
+@búfalo@|@buffalo@
+@buho@|@owl@
+@caballo@|@horse (riding)@
+@caballón (C)@|@bed (site preparation)@
+@cable aéreo@|@skyline cable@
+@cable de arrastre@|@highlead cable logging@
+@cabo (herramienta)@|@handle (tool)@
+@cachicamo (V)@|@armadillo@
+@cadena@|@chain@
+@cadena de clasificación@|@green chain@
+@caducifolia@|@deciduous@
+@caiman@|@alligator@
+@caja@|@box@
+@caja corrugada@|@corrugated box@
+@caja plegable@|@folding box@
+@cajete (M)@|@scalp (for planting)@
+@cajetear(M)@|@to scalp@
+@calicata (M)@|@soil pit@
+@calidad de sitio@|@site quality@
+@calificación de madera@|@lumber grading@
+@calificación por resistencia@|@stress grading@
+@calificar@|@grade (to score)@
+@calofonia@|@resin (tree fatty acids)@
+@cámara de secado@|@dry kiln@
+@camellonador@|@bedder, bedding harrow@
+@camino de arrastre@|@skid trail@
+@camino forestal@|@forest road@
+@camión@|@truck@
+@camión articulado (M)@|@tractor-trailer truck@
+@camión bombero@|@fire truck@
+@camión de doble eje (N)@|@tandem truck@
+@camionero@|@truck driver@
+@camioneta@|@pickup truck@
+@campesino@|@peasant, farm worker@
+@canales resiníferos@|@resin canals@
+@cancro@|@canker@
+@candela@|@fire, blaze@
+@canteadora@|@skragg mill@
+@canteros de vivero (A)@|@nursery beds@
+@caoba@|@mahogany@
+@caoba filipina@|@Philippine mahogany@
+@capataz@|@foreman, field supervisor@
+@capín melao (V)@|@molasses grass@
+@capuera (A)@|@second growth, natural regeneration@
+@capullo@|@bud@
+@cara defectuosa en el fuste@|@catface@
+@carbón mineral@|@coal@
+@carbón vegetal@|@charcoal@
+@cárcava@|@gully, erosion@
+@carga@|@load@
+@carga a larga distancia@|@long haul@
+@carga en bulto@|@bulk shipment@
+@carga marítima@|@seaborne@
+@cargador@|@loader@
+@caribe (V), piraña@|@piranha@
+@carpida con azada (A)@|@scalp with hoe@
+@carpido (A)@|@weeding with hoe@
+@carpintería@|@carpentry shop, carpenter's shop@
+@carpófora@|@mushroom/toadstool@
+@carro bombero@|@fire truck@
+@cartón@|@cardboard, paperboard@
+@casa de madera@|@frame house@
+@casa prefabricada de madera@|@prefabricated wooden house@
+@cascabel@|@rattlesnake@
+@cascara (fruta)@|@peel, hull (fruit)@
+@casco de seguridad@|@hardhat@
+@cationes@|@cations@
+@caucho@|@rubber, rubber tree, banyan@
+@caucho (V)@|@tire@
+@caudal@|@stream flow@
+@cebo@|@bait@
+@cedro@|@cedar, Spanish cedar@
+@célula del parénquima@|@parenchyma cell@
+@celulosa@|@cellulose@
+@ceniza@|@ash (from burning)@
+@ceniza volcánica@|@volcanic ash@
+@centella, rayo@|@lightning, flash@
+@cepa@|@strain, line (plant)@
+@cepa criolla, cepa geográfica@|@land race@
+@cepillada (madera)@|@dressed lumber@
+@cepilladora@|@planer@
+@cepilladora de espesor@|@wood planer machine@
+@cepillar (madera)@|@plane (wood)@
+@cercha@|@roof truss@
+@cerezo@|@cherry tree@
+@cespedón (con plántula)@|@containerized seedling@
+@champiñón@|@mushroom@
+@chamuscado de follaje@|@crown scorch@
+@chancrosis, chancro@|@canker@
+@chapa desenrollada@|@veneer (rotary)@
+@chapa rebanada@|@veneer (sliced)@
+@chapa, enchapado@|@veneer, veneered@
+@chapaleta (V)@|@fire swatter@
+@chaparro@|@chaparral@
+@chapea (CR), limpieza con machete@|@brush clearing by machete@
+@chapilla@|@veneer (sliced)@
+@chapulín (CR)@|@wheel tractor, small@
+@charral (CR), rastrojo bajo@|@low brush@
+@chinche@|@stinkbug, chinch bug@
+@chipera (A)@|@chipper@
+@chiper-canter (A)@|@chip-n-saw@
+@chispa@|@spark@
+@chofer, camionero@|@truck driver@
+@chulo (C)@|@buzzard@
+@chupón (brote de raíz)@|@sucker (root sprout)@
+@chuto (V)@|@truck tractor@
+@ciclo de corte, turno@|@cutting cycle, rotation@
+@cicuta@|@hemlock@
+@ciénaga@|@swamp lake@
+@ciervo@|@deer@
+@cigoto@|@zygote@
+@cilindro de impregnación@|@pressure treatment tank@
+@cima@|@hilltop, ridge@
+@cincel@|@chisel@
+@cinta diamétrica@|@diameter tape@
+@cinturón de seguridad@|@safety belt@
+@ciprés@|@cypress@
+@clase fórmica (árbol)@|@form class (tree)@
+@clavo@|@nail@
+@clima@|@weather, climate@
+@clorofila@|@chlorophyll@
+@clorosis@|@chlorosis@
+@coa (M)@|@small shovel@
+@cobertura forestal@|@forest cover@
+@cobertura vegetal@|@ground cover@
+@cobertura vegetal (vivero)@|@cover crop (nursery)@
+@cociente@|@ratio@
+@coco@|@coconut palm, coconut@
+@cocodrilo@|@crocodile@
+@codominante@|@codominant@
+@coeficiente mórfico@|@form factor@
+@coetáneo@|@even-aged@
+@cogollo@|@sprout, terminal leader@
+@cola a base de úrea@|@formaldehyde glue@
+@cola fenólica@|@phynolic glue@
+@comadreja@|@weasel@
+@combustible@|@fuel@
+@combustión@|@combustion@
+@comején@|@termite@
+@compartimiento@|@compartment@
+@compartimiento de explotación@|@logging chance@
+@compendio@|@abstract (of a report)@
+@compensado (A)@|@plywood@
+@complejos genéticos@|@genetic complexes@
+@componente genético aditivo@|@additive genetic effect@
+@componente genético no aditivo@|@non-additive genetic effect@
+@comportamiento de fuego@|@fire behavior@
+@computadora@|@computer@
+@con corteza@|@with bark, overbark@
+@conato de incendio@|@spot fire, initial fire@
+@concha(V)@|@bark@
+@concurso (licitación del gobierno)@|@government offer to bid@
+@conejo@|@rabbit, cottontail@
+@conífera@|@conifer, evergreen@
+@cono@|@cone@
+@conocimiento de embarque@|@bill of lading@
+@consanguinidad@|@relatedness@
+@conservación@|@conservation@
+@conservacionista@|@preservationist@
+@contabilidad@|@accounting@
+@contaminación@|@pollution@
+@contenido de humedad@|@moisture content@
+@contra piso@|@subflooring@
+@contraenchapado@|@plywood@
+@contra-fuego, retroquema@|@backfire@
+@contratista@|@contractor@
+@contrato@|@contract@
+@conuco (V), minifundio@|@homestead@
+@copa (árbol)@|@crown (tree)@
+@cópice@|@coppice@
+@coquito (Ciperaceae)@|@nutgrass@
+@coquito (insecto)@|@beetle, wood borer@
+@cordillera@|@mountain range@
+@correa@|@belt (conveyor)@
+@correa de techo@|@stringers (roof)@
+@corrugado medio@|@corrugated medium@
+@corta-fuego@|@fireline@
+@cortar@|@cut@
+@corte anual@|@annual cut@
+@corte de la mejor cara@|@sound face cutting@
+@corte permisible@|@allowable cut@
+@corteza@|@bark@
+@cortina rompeviento@|@windbreak@
+@cosecha@|@harvest@
+@costanera, costero@|@slab (of log)@
+@costanero@|@slab (of log)@
+@cotización@|@bid@
+@crecimiento@|@growth@
+@criar (animales), cultivar@|@breed animals@
+@cromosoma@|@chromosome@
+@cruce entre 2 individuos@|@outcrossing@
+@cruzar, aparear@|@cross, mate@
+@cuadrado medio (CM)@|@mean square (MS)@
+@cuadrado mínimo@|@minimum square@
+@cuadrilla contra incendios@|@fire crew, fire brigade@
+@cuadro (de un informe)@|@table (in a report)@
+@cualitativo@|@qualitative@
+@cuantitativo@|@quantitative@
+@cuarzo@|@quartz@
+@cucarrón@|@beetle@
+@cuello radicular@|@root collar@
+@cuenca hidrográfica@|@watershed@
+@cuerda de madera apilada@|@cord (4'x4'x8')@
+@cuerpo fructífero@|@fruiting body@
+@cuervo@|@crow@
+@cuesta@|@slope@
+@cuidar el área después del incendio@|@mop-up, fire line control@
+@culebra venenosa@|@poisonous snake@
+@cultivar (planta)@|@breed (to), cultivate@
+@cultivo de tejidos@|@tissue culture@
+@cuña@|@wedge@
+@cursillo@|@short course@
+@curva de nivel@|@contour line@
+@D.A.P.@|@D.B.H.@
+@damping off@|@damping off@
+@DAP@|@DBH@
+@dársena@|@log pond@
+@dasonomía@|@mensuration, silviculture@
+@debobinado (A)@|@rotary veneer@
+@defecto sólido de la madera@|@sound defect in wood@
+@defoliación@|@defoliation@
+@dendrología@|@dendrology@
+@dendrómetro@|@dendrometer@
+@densidad aparente@|@wood density, bulk density@
+@densidad básica@|@wood density, oven dry@
+@densidad de madera@|@wood density@
+@densidad de plantación@|@stocking@
+@densidad real de celulosa (1.5g/cc)@|@cellulose density (1.5 g/cc)@
+@derrumbe@|@landslide@
+@desbejucar@|@vine removal@
+@descalce (CH) (vivero)@|@root wrenching (nursery)@
+@descendente (orden)@|@descending (order)@
+@descoronar (CR), destope del árbol@|@top prunning@
+@descortezadora@|@debarker@
+@descortezadora de anillo@|@ring debarker@
+@descortezadora de tambor@|@drum debarker@
+@descortezar@|@debark, peel@
+@desechos de la explotación@|@slash, logging debris@
+@desenrollado@|@veneer (rotary)@
+@desfribrado@|@defibration@
+@deshierbar@|@weed (to)@
+@deshijar (CR)@|@desprout/remove basal sprouts@
+@desmalezar@|@weed (to)@
+@desmontar@|@deforest@
+@despuntador@|@cut-off saw@
+@desramar@|@delimb (to), lop@
+@destajo@|@piece rate@
+@destopar (árbol)@|@top removal (tree)@
+@destornillador@|@screw driver@
+@destornillador de estría@|@screw driver, Phillips@
+@destornillador de pala@|@screw driver, flat blade@
+@diabasa, basalto@|@basalt@
+@diámetro@|@diameter@
+@dimensión nominal@|@nominal dimension@
+@dimensión real@|@real dimension@
+@dióico@|@dioecious@
+@diploide (2 juegos de cromosomas)@|@diploid (2 sets of chromosomes)@
+@diseño@|@design@
+@disetaneo@|@uneven-aged@
+@disminuir@|@decrease (to)@
+@disminuyendo@|@decreasing@
+@dispersar, diseminar@|@scatter@
+@distribución natural@|@natural range@
+@doble troque (C)@|@tandem truck@
+@dominancia genética@|@genetica dominance@
+@dominante@|@dominant@
+@dosel@|@canopy, overstory crown cover@
+@drenaje natural, area de@|@swail@
+@duna@|@sand dune@
+@duramen@|@heartwood@
+@durmientes@|@railroad ties, sleepers@
+@ebanistería@|@cabinet work@
+@ecología@|@ecology@
+@ecólogo@|@ecologist@
+@ecuaciones de conicidad@|@taper equations@
+@edad de turno@|@rotation age@
+@edad temprana, joven@|@juvenile@
+@edáfico@|@edaphic@
+@edafólogo@|@soil scientist@
+@efecto genético aditivo@|@additive genetic effect@
+@efecto genético no aditivo (predominancia y epistasis)@|@non-additive genetic effect (dominance and epistasis)@
+@embalajes@|@crating@
+@embarques regulares@|@regular sailings@
+@empalmadora de madera@|@joiner (wood)@
+@empernado (V)@|@bolted@
+@empresa@|@company@
+@enana (planta)@|@runt@
+@encino (CA, M, Ch)@|@oak@
+@encofrados,formaletas de concreto@|@concrete forms@
+@encolada (madera)@|@finger jointing@
+@encombado (tabla)@|@curving of boards@
+@encorvadura (V), curvatura@|@wood curve@
+@enfermedad@|@disease@
+@enfermedad de las almácegas@|@damping off@
+@enraizamiento de estacas@|@rooting of cuttings@
+@enredadera@|@vine@
+@enrollador (insecto)@|@leaf roller (insect)@
+@ensayo@|@trial, test, experiment@
+@ensayo de progenie@|@progeny test@
+@entresaca@|@thinning@
+@entresaca (huerto semillero)@|@rogue, roguing@
+@entresaca por lo bajo@|@thinning from below@
+@entresaca precomercial@|@precommercial thinning@
+@enzima@|@enzyme@
+@epidemia@|@epidemic@
+@epístasis@|@epistasis@
+@equipo (A)@|@tractor & full trailer@
+@era (vivero)@|@nursery bed@
+@erosión@|@erosion@
+@erosionar@|@erode@
+@error de muestreo@|@sampling error@
+@escalafón@|@scale, rank@
+@escama@|@scale (pine cone)@
+@escama (insecto)@|@mealy bug@
+@escardilla (V), azadón@|@hoe@
+@esciófita (especie)@|@light tolerant species@
+@escorrentía@|@runoff@
+@escotilla abierta@|@open-hatch configuration@
+@especie@|@species@
+@especies de fibra corta@|@hardwoods@
+@especies latifoliadas@|@broadleaf species@
+@especies maderables@|@sawtimber species@
+@espesor de tablas@|@board thickness@
+@espiraladas (raices)@|@spiraled (roots)@
+@espódico@|@spodic@
+@espodosol@|@spodosol@
+@espora@|@spore@
+@esquisto@|@schist@
+@estacas@|@cuttings, stakes@
+@estacas enraizadas@|@rooted cuttings@
+@estadísticamente@|@statistically@
+@estadístico@|@statistical, statistician@
+@estado cespetoso@|@grass stage@
+@estereo@|@stere (a m3 of piled wood)@
+@estiva@|@stave, dunnage@
+@estomas@|@stomates@
+@estratificación@|@stratification@
+@estrato inferior@|@understory@
+@estrato superior@|@overstory@
+@estrés ambiental@|@enviornmental stress@
+@estudio@|@study, trial@
+@estudio de tiempos y movimientos@|@time/cost study@
+@etiqueta, marca@|@tag@
+@eucaliptal@|@eucalypt forest@
+@eucalipto@|@eucalypt@
+@evaluación@|@assessment@
+@evapotranspiración@|@evapotranspiration@
+@exclusa@|@lock (ships)@
+@experto, tecnólogo forestal@|@technician, ranger@
+@explotación de madera@|@logging, harvesting@
+@extintor, extinguidor@|@fire extinguisher@
+@extracción de madera@|@logging@
+@fábrica@|@plant (manufacturing)@
+@facícula@|@fascicle@
+@factura@|@invoice@
+@factura comercial@|@commercial invoice@
+@faena (forestal)@|@task, job@
+@faja@|@strip of land, girdle@
+@fajardas, postes de mina@|@mine props@
+@fajas de enriquecimiento@|@strip plantings@
+@falla de compresión@|@compression failure@
+@faqueado (A)@|@sliced veneer@
+@fardo@|@bale, bundle@
+@fauna silvestre@|@wildlife@
+@fecundación controlada@|@crossing, breeding@
+@fenología@|@phenology@
+@fenotipo@|@phenotype@
+@feromona@|@pheromone@
+@fertilizante@|@fertilizer@
+@fibra@|@fiber@
+@fila@|@row@
+@filo@|@hilltop, ridge@
+@filodio@|@phyllode@
+@finca@|@farm@
+@finger (A)@|@fingerjoint@
+@finquero@|@farmer@
+@fisionomía@|@physiognomy@
+@floema@|@phloem@
+@flor@|@flower@
+@floramiento rocoso@|@rock outcrop@
+@flujo de caja@|@cash flow@
+@FOB carga abordo del transportador@|@FOB (freight on board)@
+@follaje@|@foliage@
+@follaje perenne@|@evergreen@
+@forcípula@|@calipers@
+@forestación (A)@|@plantation, planting@
+@formaletas@|@concrete forms@
+@formón@|@wood chisel@
+@forraje (pastizal)@|@forage (pasture)@
+@fosfato diamónico@|@diammonium phosphate@
+@fotografía aérea@|@aerial photograph@
+@fractura@|@fracture@
+@frambuesa@|@raspberry@
+@franco arcillo-arenoso@|@sandy clay loam@
+@franco arenoso@|@sandy loam@
+@franja cortafuego@|@firebreak@
+@frecuencia genética@|@genetic frequency@
+@fresno, urapán@|@ash tree@
+@friable@|@friable@
+@friso (viga de soporte)@|@head board, joist@
+@frondoso@|@broad-leaved@
+@fructificación@|@fruiting body@
+@fruto (árbol), fruta (comestible)@|@fruit@
+@fuego@|@fire@
+@fuentes genéticas@|@genetic sources@
+@fundo@|@farm@
+@fungicida@|@fungicide@
+@fustal@|@small timber stand@
+@fuste@|@bole (tree)@
+@fuste seco@|@snag@
+@gallinazo(C),zamuro(CA),zopilote(M)@|@vulture@
+@gambas (CR)@|@flutes (tree base)@
+@gameto (reproducción sexual)@|@gamete (sexual reproduction)@
+@ganadero@|@cattle rancher@
+@gandola (V)@|@tractor-trailer, trailer@
+@garlopa (V)@|@wood plane@
+@garlopa de banco@|@joiner@
+@garrapata@|@tick@
+@gasoil, ACPM (C)@|@diesel fuel@
+@gato (mecánico)@|@jack, hydraulic jack@
+@gavilán@|@hawk@
+@gene@|@gene@
+@genética forestal@|@forest genetics@
+@genotipo@|@genotype@
+@geotrópico@|@geotrophic@
+@germinación@|@germination@
+@germoplasma@|@germplasm@
+@gimnosperma@|@gymnosperm@
+@glifosato@|@glyfosate@
+@goma (A)@|@tire@
+@gorgojo@|@weevil@
+@gradiente@|@cline, gradient@
+@gradiente de humedad@|@moisture gradient@
+@grados de libertad@|@degrees of freedom@
+@gramineas@|@grasses@
+@granito@|@granite@
+@granizada@|@hail storm@
+@granizo@|@hail@
+@grano en espiral (CR)@|@spiral grain@
+@grava, gravilla, balasto@|@gravel@
+@gravedad específica@|@specific gravity@
+@gremio forestal@|@forest industry@
+@grieta@|@crack@
+@grillo@|@grasshopper@
+@grua en rieles para carga de navios@|@traveling gantry crane@
+@grua hidráulica (con plumilla)@|@knuckle-boom loader@
+@grua para carga de navios@|@gantry crane@
+@grua, grulla (C)@|@loader, crane@
+@guacamayo@|@maccaw, papagayo@
+@guadaña (C)@|@scythe, rotary mower, brush cutter@
+@gualanday (C)@|@jacaranda@
+@guañan@|@ox driver@
+@guandal (C)@|@swamp forest@
+@gubia@|@gouge (wood)@
+@guía (de camión)@|@bill of lading@
+@gusano@|@caterpillar, grub@
+@habilidad combinatoria específica@|@specific combining ability@
+@habilidad combinatoria general@|@general combining ability@
+@hacha@|@axe@
+@halcón@|@falcon@
+@haploide (1 juego de cromosomas)@|@haploid (1 set of chromosomes)@
+@hardpan, harpan@|@hardpan@
+@hato@|@cattle farm@
+@haya@|@beech@
+@hectárea@|@hectare@
+@helada@|@frost@
+@helecho@|@fern@
+@heliófita (especie)@|@shade tolerant specie@
+@hemi-celulosa@|@hemi-cellulose@
+@hendido (defecto en madera)@|@check (wood defect wood)@
+@heno@|@hay@
+@herbicida@|@herbicide@
+@herbívoro@|@herbivore@
+@heredabilidad@|@heritability@
+@herida@|@injury@
+@hermanos@|@siblings, sibs (trees)@
+@hermanos completos@|@full sibs@
+@hermanos medios@|@half sibs@
+@herramienta@|@tool@
+@heterocigosidad@|@herterozygosity@
+@heterocigoto@|@heterozygote@
+@híbrido@|@hybrid@
+@hidrología@|@hydrology@
+@hifa, hifas@|@hypha, hyphae@
+@hilera@|@row@
+@hinchazón@|@swelling@
+@hipsómetro@|@hypsometer, altimeter@
+@histosoles@|@histosols@
+@hoja@|@leaf@
+@hojarasca@|@litter, duff@
+@hojarasca de acículas@|@pinestraw@
+@hojuelas@|@leaflets (of a tree)@
+@homocigoto@|@homozygote@
+@hongo@|@fungus@
+@hongos cromógenos@|@staining fungi@
+@hongos xilófagos@|@dryrot fungi@
+@hormiga@|@ant@
+@hormiga arriera@|@leaf-cutter ants@
+@hormigón (edificio)@|@footing (building)@
+@hormona@|@hormone@
+@horno@|@oven@
+@horqueta (A)@|@fork (of a tree)@
+@huerto semillero@|@seed orchard@
+@huerto semillero clonal@|@clonal seed orchard@
+@hule (CA)@|@rubber tree@
+@humedad de equilibrio@|@equilibrium moisture content@
+@humo@|@smoke@
+@I.C.A.(Incremento Corriente Anual)@|@P.A.I. (Periodic Annual Increment)@
+@I.M.A.(Incremento Medio Anual)@|@M.A.I.(Mean Annual Increment)@
+@ignición aérea@|@aerial ignition@
+@igual@|@equal@
+@incendio a cabeza@|@head fire@
+@incendio a favor del viento@|@head fire@
+@incendio contra el viento@|@back fire@
+@incendio de copa@|@crown fire@
+@incendio de flanco@|@flank fire@
+@incendio forestal@|@forest fire, wild fire@
+@incendio superficial@|@ground fire@
+@incremento@|@increment@
+@incremento corriente anual@|@periodic annual increment@
+@incremento medio anual@|@mean annual increment@
+@índice de densidad relativa@|@stocking index@
+@índice del peligro de incendios@|@fire danger index@
+@infraestructura@|@infrastructure@
+@ingeniería de sistemas@|@computer science@
+@ingeniero forestal@|@forester@
+@ingresos@|@income@
+@injerto@|@graft@
+@intermedio@|@intermediate@
+@intolerante@|@intolerant@
+@inundación@|@flooding@
+@inventario@|@inventory, survey@
+@inventario forestal@|@timber cruise@
+@invernadero@|@greenhouse@
+@investigación forestal@|@forest research@
+@invierno@|@winter@
+@jacaranda, gualanday (C),@|@jacaranda@
+@jaguar, tigre, onza (V)@|@jaguar@
+@jefe de cuadrilla@|@crew boss@
+@jefe de incendio@|@fire boss@
+@jornada@|@work day@
+@jornal@|@laborer@
+@junco@|@rattan, large vine@
+@labranza@|@tillage@
+@ladera@|@slope@
+@lagarto@|@lizard, alligator@
+@lama (V), aserrín@|@kerf, width of sawcut@
+@lama, musgo@|@moss@
+@lámina aglomerada@|@particle board@
+@lámina prensada@|@hardboard@
+@langosta (insecto)@|@lubber grasshopper@
+@largos sorteados@|@random lengths@
+@larva@|@larva@
+@latencia, período de reposo@|@dormancy@
+@latifundio@|@large farm@
+@latizal@|@sapling stand@
+@lechuza@|@small owl@
+@leña@|@cordwood, firewood@
+@lengüeta y ranura (V)@|@tongue & groove@
+@leñoso@|@woody@
+@levantamiento topográfico@|@topographic survey@
+@levantamiento:plántulas del vivero@|@lifting (from nursery bed)@
+@libre de competencia@|@free-to-grow@
+@licitación@|@bid, international offer to@
+@liebre@|@hare, jackrabbit@
+@lignina@|@lignin@
+@lignotubérculo@|@lignotuber@
+@lijar@|@to file@
+@lima@|@file@
+@límite, lindero@|@boundary@
+@limpieza (en plantaciones)@|@weeding (in plantations)@
+@lince@|@lynx@
+@listón@|@cant, round roof stingers@
+@lixiviar@|@leach@
+@llama@|@flame@
+@llanos@|@plains@
+@llanta@|@tire@
+@llanura@|@plain@
+@llave@|@wrench, key@
+@llave ajustable@|@adjustable wrench@
+@llave de boca fija@|@open-end wrench@
+@llave de copas@|@socket wrench@
+@llovizna@|@misty rain, mist@
+@lluvia@|@rain@
+@loco, locos (genética)@|@locus, loci@
+@lodo, lodoso@|@mud, muddy@
+@logaritmo@|@logarithm@
+@logros genéticos@|@genetic gains@
+@loma@|@hill@
+@lombriz@|@earthworm@
+@longitud de rotura (pulpa, papel)@|@breaking length (pulp, paper)@
+@longitud de traqueida@|@tracheid length@
+@lora@|@parrot@
+@lugar/sitio de cromosomas@|@locus/loci@
+@machihembrado@|@tongue & groove@
+@madera@|@timber, wood@
+@madera arqueada, combada@|@bowed wood@
+@madera aserrada@|@lumber, sawn wood@
+@madera aserrada, separador@|@desticker (of lumber)@
+@madera blanda (de conífera)@|@softwood@
+@madera cepillada@|@planed lumber, dressed lumber@
+@madera de aserrío@|@sawtimber@
+@madera de pulpa@|@pulpwood@
+@madera defectuosa@|@cull@
+@madera dura (especie frondosa)@|@hardwood@
+@madera en pie@|@stumpage, growing stock@
+@madera lijada@|@sanded wood@
+@madera pulida@|@planed lumber@
+@madera rajada@|@split wood@
+@madera rolliza@|@roundwood@
+@madera secada al aire@|@air-dried lumber@
+@madera secada al horno@|@kiln-dried lumber@
+@madera tardía@|@latewood, summerwood@
+@madera temprana@|@earlywood, springwood@
+@madera trabajada@|@hewn wood@
+@maderable@|@mature stand@
+@maderero@|@logger@
+@maduro@|@mature@
+@maleza@|@weed, weeds@
+@mancha azul@|@bluestain@
+@manejo forestal@|@forest management@
+@mango (herramienta)@|@handle (tool)@
+@mano de obra@|@labor@
+@mapaná (C), mapanare (V)@|@moccasin, water moccasin (snake)@
+@máquina@|@machine@
+@máquina plantadora@|@planting machine@
+@máquina taladora-arrumadora@|@feller-buncher@
+@maquinaria@|@machinery@
+@marca, etiqueta@|@tag@
+@marcar (un árbol)@|@blaze (on a tree)@
+@marchitamiento@|@wilt, dieback@
+@marchitar@|@wilt (to), wither@
+@marcos de estructura@|@interiorinterior wall framing@
+@mariposa@|@butterfly@
+@martillo@|@hammer@
+@masa remanente@|@residual stand@
+@matarrasa (V)@|@clearcut@
+@material combustible colgado@|@draped fuel@
+@matorral (M)@|@low brush, low scrub forest@
+@mazo (V), cincel, formón@|@wood chisel@
+@mcleod (herramienta de incendios)@|@mcleod (fire tool)@
+@mechurria (V)@|@drip torch@
+@medida@|@measure, measurement@
+@medio (vivero)@|@soil medium (nursery)@
+@medio ambiente@|@environment@
+@médula@|@pith@
+@meiosis (división de cromosomas)@|@meiosis(chromosome split)@
+@mejoramiento de árboles@|@tree improvement@
+@meristema@|@meristem@
+@método, cuadrícula punteada@|@dot grid method@
+@métodos de embarque@|@liner shipping methods@
+@micelio@|@mycelium@
+@mico (C), mono@|@small monkey@
+@micorriza@|@mycorrhiza@
+@micorrizas@|@mycorrhizae@
+@micosis@|@fungal disease@
+@microfauna@|@microfauna@
+@microflora@|@microflora@
+@miera, pino (A)@|@resin, pine@
+@mil pies tablares@|@thousand board feet (mbf)@
+@minadores de hojas@|@leaf miners@
+@minifundio@|@small farm@
+@mínima labranza@|@minimum tillage@
+@mitosis@|@mitosis@
+@mobiliario@|@furniture@
+@mofeta@|@skunk@
+@moho@|@mold, mildew@
+@moho en la madera@|@must, surface fungi@
+@mojar, mojado@|@wet, soaked@
+@mojón@|@bench mark@
+@moldura@|@molding (wood trim)@
+@mono@|@monkey@
+@monóico@|@monoecious@
+@montacarga, grua@|@forklift truck@
+@monte@|@woodlands, bush, wilderness, plantation(A)@
+@montículo@|@mound@
+@mora@|@blackberry@
+@morfología@|@morphology@
+@morrocoy@|@tortoise, turtle@
+@mortajado@|@mortise@
+@mortandad (A)@|@mortality@
+@moteado, jaspeado@|@mottled@
+@motoarrastrador (A)@|@skidder@
+@motoniveladora, patrol (V)@|@motorgrader, grader@
+@motosierra@|@chainsaw@
+@muebles@|@furniture@
+@muelle de carga@|@loading dock@
+@muérdago enano; muérdago@|@dwarf-mistletoe, mistletoe@
+@muesca@|@notch@
+@muestreo por puntos@|@point sampling@
+@muestreo, muestrear@|@sample (to), sampling, survey@
+@mula@|@mule@
+@multietaneo (rodal)@|@uneven aged (stand)@
+@multiplicación agámica@|@vegetative reproduction@
+@multiplicación sexual@|@sexual reproduction@
+@musgo, lama@|@moss, peatmoss@
+@naturaleza@|@nature@
+@neblina@|@fog@
+@necrosis@|@necrosis@
+@nemátodos@|@nematodes@
+@nido@|@nest@
+@nivel@|@level@
+@nivel freático@|@water table@
+@nivel, curva de@|@contour line@
+@nocivo@|@noxious@
+@nogal@|@walnut@
+@normalización de corte@|@sustained yield@
+@normas@|@guidelines@
+@nudo@|@knot@
+@nudo fijo@|@sound knot, red knot@
+@nudo suelto@|@loose knot, black knot@
+@nudoso@|@knotty@
+@nuez@|@nut (tree)@
+@obrero, peón@|@laborer@
+@oferta financiera@|@bid, quote@
+@ojo de buen cubero, a@|@field estimate@
+@olmo@|@elm@
+@ondulado (pendiente)@|@rolling (hills)@
+@onza@|@ocelot@
+@operador de equipo pesado@|@heavy equipment operator@
+@opinión ponderada@|@educated guess@
+@orden@|@rank@
+@orden ascendente@|@ascending order@
+@orden descendente@|@descending order@
+@orillo (C)@|@slab (of logs)@
+@orteto@|@ortet@
+@oruga@|@carterpillar@
+@otoño@|@autumn@
+@óxico@|@oxic@
+@oxisoles@|@oxisols@
+@padres@|@parents@
+@paisaje@|@landscape@
+@paja@|@straw@
+@paja seca@|@dry straw@
+@pala, palendra@|@shovel, spade@
+@palma@|@palm tree@
+@palo@|@stick, tree@
+@palo de rosa@|@rosewood@
+@pantano@|@swamp, marsh@
+@papel@|@paper@
+@papel de imprenta@|@writing paper@
+@papel desperdicio@|@wastepaper@
+@papel estucado@|@coated paper@
+@papel lija@|@sandpaper@
+@papel para máquina de escribir@|@bond paper@
+@papel periódico@|@newsprint@
+@papel plegadizo@|@bleached board@
+@papel reciclable@|@wastepaper@
+@papel sin pulpa mecánica@|@wood-free paper@
+@parámetro@|@parameter@
+@páramo@|@misty rain, lands above tree line@
+@parásito@|@parasite@
+@parcela@|@plot (of land)@
+@parcela de prueba@|@sample plots@
+@parcelas pareadas@|@paired plots@
+@paredes de las células@|@cell walls@
+@parénquima (célula)@|@parenchyma (cell)@
+@parentesco@|@parentage, family relationship@
+@participación en el mercado@|@market share@
+@pasta, pulpa@|@pulp@
+@pastal@|@graze@
+@pastizal@|@pasture, meadow, grassland@
+@pasto@|@grass@
+@pasto guinea@|@Guinea grass@
+@pasturas (A)@|@pastures, grassland@
+@pata de cabra (palanca)@|@crowbar@
+@patio@|@yard@
+@patio de acopio@|@concentration yard (wood), landing@
+@patio de madera@|@woodyard@
+@patio de madera aserrada@|@lumber yard@
+@patio satélite de trozas@|@log deck@
+@patógeno@|@pathogen@
+@patrón (modelo)@|@pattern@
+@patrón (para injertar)@|@rootstock (for grafting)@
+@pautas@|@guidelines, standards@
+@pedo de bruja (C) (hongo)@|@puffball (fungus)@
+@pedregoso@|@stony, gravelly@
+@pendiente,cuesta@|@slope@
+@peón (CA, M)@|@laborer@
+@periódico@|@newspaper@
+@peritecio@|@perithecium@
+@perito@|@expert, technician@
+@perno@|@bolt@
+@perro de agua@|@mole cricket@
+@perro tensor, tensor de cadena@|@chain binder@
+@pertinente@|@relevant@
+@pesa@|@scale, balance (for weighing)@
+@peso@|@weight@
+@peso específico/anhidro@|@wood density, oven dry@
+@peste@|@pest@
+@pesticida@|@pesticide@
+@pétalo@|@petal@
+@petiolo@|@petiole@
+@pica (V)@|@cruse-line, survey line, skid trail@
+@picnido@|@pycnidium@
+@pie derecho, pilote@|@stud, upright post@
+@pie tablar@|@board foot@
+@pilote, pilotes, pilotaje@|@piling@
+@pinar@|@pine forest@
+@pino@|@pine@
+@pino oregón (A, Ch)@|@Douglas-fir@
+@piraña, caribe (V)@|@piranha@
+@pista de arrastre (CR)@|@skid trail@
+@plaga@|@pest (insect)@
+@plagiotrópico@|@plagiotrophic@
+@plan de ordenación forestal@|@forest management plan@
+@plano de construcción@|@blueprint@
+@planta@|@plant (vegetative)@
+@planta de impregnación@|@wood treatment plant@
+@planta leñosa@|@woody plant@
+@plantación@|@planting, plantación@
+@plantación en faja@|@strip planting@
+@plantación en tresbolillo (C,V)@|@triangle configuration for planting@
+@plantadora@|@planting machine@
+@plantín (A)@|@seedling@
+@plantita, plántula@|@seedling@
+@plateo, rodaja (CR)@|@scalping (for planting)@
+@playa de acopio (A)@|@woodyard, logyard, landing@
+@plegador de hojas@|@leaf roller (lepidoptera)@
+@pluviosidad@|@precipitation@
+@población arborea@|@forest population@
+@población forestal@|@stocking@
+@poda@|@prune (cut limbs)@
+@poda basal (vivero)@|@undercut (nursery)@
+@poda de calidad@|@sawtimber pruning@
+@poda de formación@|@formation pruning@
+@poda inferior (vivero)@|@undercut, root wrenching@
+@poda lateral (vivero)@|@lateral root pruning@
+@poda radicular@|@root pruning@
+@polea@|@pulley@
+@polen@|@pollen@
+@polilla@|@moth@
+@polines@|@railroad ties@
+@polinización abierta@|@open pollination@
+@polinización controlada@|@controlled pollination@
+@polinizar@|@pollinate@
+@política forestal@|@forest policy@
+@póliza de seguros@|@insurance policy@
+@poro@|@pore@
+@porra@|@sledge hammer@
+@porrón (M)@|@brush hook@
+@porta-objetos (microscopio)@|@slide (microscope)@
+@porta-trozas (tractor)@|@forwarder@
+@postes de mina@|@mine props@
+@postes de transmisión@|@poles, telephone poles@
+@postes, postes de cerca@|@fence posts@
+@pradera@|@pasture, meadow, prairie@
+@predio@|@tract@
+@predominio genético (interacción de alelos en el sitio)@|@genetic dominance (interaction among alleles at loci)@
+@preparación de sitio@|@site preparation@
+@preparación del suelo@|@site preparation@
+@presupuesto@|@budget@
+@primavera@|@spring (season)@
+@prisma@|@prism@
+@procedencia@|@provenance@
+@productos sólidos de madera@|@solid wood products@
+@prohibición de trozas@|@log ban@
+@promedio@|@mean, average@
+@promedio ponderado@|@weighted average@
+@propágulo@|@propagule@
+@propiedad@|@property, ownership@
+@propietario@|@landowner@
+@proveedor de maquinaria@|@equipment supplier@
+@proyecto@|@project@
+@prueba@|@test, trial@
+@prueba T de Student@|@T-test@
+@prueba, parcela de@|@sample plot@
+@pseudoestaca@|@stump (seedlings)@
+@pua@|@scion@
+@pudrición@|@rot, decay@
+@pudrición de la albura@|@sap rot@
+@pudrición del duramen@|@heart rot@
+@pulaski (herramienta para candela)@|@pulaski (fire tool)@
+@pulpa@|@pulp@
+@pulpa absorbente@|@fluff pulp@
+@pulpa blanqueada@|@bleached pulp@
+@pulpa kraft@|@kraft pulp@
+@pulpa kraft marrón@|@brown kraft pulp@
+@pulpa mecánica@|@mechanical pulp@
+@pulpa molida@|@groundwood pulp@
+@pulpa química@|@chemical pulp@
+@pulpa quimo-termo mecánica@|@chemi-thermal mechanical pulp@
+@pulpa rayón, para disolver@|@dissolving pulp@
+@pulpa termo-mecánica@|@thermal mechanical pulp (TMP)@
+@puma, león de montaña@|@puma, mountain lion@
+@quebrada@|@creek, brook@
+@quebrada serpentina@|@meandering stream@
+@quelates@|@chelates@
+@quema@|@burn (brush, forest fire)@
+@quema al voleo@|@broadcast burn@
+@quema controlada@|@controlled burn@
+@quema para reducción del peligro@|@hazard reduction burn@
+@quema prescrita@|@prescribed burn@
+@quemador@|@drip torch@
+@quemadura@|@burn (on skin)@
+@rabón (M)@|@truck, single axle or straight@
+@radiación solar@|@solar radiation@
+@radio-teléfono@|@two-way radio@
+@ráfaga de viento@|@gust of wind, whirlwind@
+@raicillas@|@feeder roots, root hairs@
+@raíz cuadrada@|@square root@
+@raíz desnuda@|@bare root@
+@raíz libre (A)@|@bare root@
+@raíz pivotante@|@tap root@
+@raíz principal@|@primary root@
+@raíz secundaria@|@lateral root@
+@rajadura@|@split@
+@raleo selectivo@|@selection thinning@
+@raleo sistemático@|@row thinning@
+@raleo, aclareo, entresaca@|@thinning@
+@rama@|@limb, branch@
+@rama frondosa@|@bough@
+@rameto@|@ramet@
+@ramificado@|@limby@
+@rana@|@frog@
+@raposo@|@fox@
+@rasa, area de@|@clearcut areas@
+@rasgo@|@trait (genetic)@
+@rastra y cabezal (N)@|@tractor-trailer@
+@rastra, rastrilla@|@disk, disc, harrow@
+@rastrillo@|@rake@
+@rastrillo forestal@|@fire rake@
+@rastrojo@|@brush, brushland@
+@rata@|@rat@
+@ratón@|@mouse@
+@rayo@|@lightning@
+@raza (animales)@|@breed (race)@
+@rebrotes, cópice@|@coppice, sprouts@
+@recalcitrante (semilla)@|@recalcitrant (seed)@
+@recipiente@|@container@
+@recreo@|@recreation@
+@rectitud@|@straightness@
+@recurso natural renovable@|@renewable natural resource@
+@red de caminos@|@road system, road network@
+@réditos@|@financial yields@
+@reforestador@|@tree farmer@
+@regar@|@irrigate, water (to)@
+@regeneración natural@|@natural regeneration@
+@registro@|@record (data log)@
+@regresión@|@regression@
+@regresión múltiple@|@multiple regression@
+@regruesadora@|@wood planer (machine)@
+@regulación del aprovechamiento@|@regulation of cut@
+@relámpago@|@lightning@
+@relascopio@|@relascope@
+@remate@|@auction@
+@remolino@|@whirlwind@
+@rendimiento@|@yield, gain@
+@rendimiento anual@|@annual yield@
+@rendimiento sostenido@|@sustained yield@
+@reno@|@reindeer@
+@repicar (plántulas)@|@prick out (seedlings)@
+@repuesto@|@machine part@
+@resina@|@resin@
+@restar@|@subtract@
+@resumen@|@summary@
+@retardante de fuego@|@fire retardant@
+@retoños, rebrotes@|@sprouts@
+@retroexcavadora@|@backhoe@
+@retroquema@|@backfire@
+@revestimiento@|@wall, wall covering@
+@riego@|@irrigation@
+@riostras@|@corner supports, diagonal supports@
+@roble@|@oak@
+@robledal@|@oak forest@
+@roca arenisca@|@sandstone@
+@roca caliza@|@limestone@
+@roca fosfórica@|@rock phosphate@
+@rocería, socola (CR)@|@clearing, brush cutting@
+@rociar@|@to spray@
+@rocío@|@dew@
+@rodaja (CR)@|@circle weeding@
+@rodal@|@stand of trees@
+@rodal semillero@|@seed production area@
+@rola (V)@|@log, pulpwood stick@
+@rolear (V)@|@buck, to@
+@romana (V)@|@scale for weighing trucks@
+@rompe-fuego@|@firebreak@
+@rompe-olas (carro-cisterna)@|@baffle (tanker truck)@
+@rotativa@|@rotary brush cutter@
+@roya@|@rust (fungus)@
+@sabana@|@savanna@
+@sala de afilado@|@filing room, filing shack@
+@saltahojas@|@leaf hopper@
+@saltamontes@|@cricket@
+@salvoconducto de transporte (C)@|@hauling permit@
+@sapo@|@toad@
+@sauce@|@willow@
+@savia@|@sap@
+@secamiento descendente(mortalidad)@|@dieback@
+@sección radial@|@radial cut@
+@sección tangencial@|@tangential cut@
+@sección transversal@|@cross-section or face cut@
+@seco@|@dry@
+@seco al aire, secado al aire@|@air dry, air dried@
+@seco al horno@|@bone dry@
+@sedimento@|@sediment@
+@seguridad@|@safety@
+@seguros@|@insurance@
+@selección disgénica@|@dysgenic selection@
+@sembradora@|@seed drill@
+@sembrar@|@sow, to plant@
+@semilla@|@seed@
+@semi-remolque (A)@|@tractor-trailer@
+@señalización del árbol con hacha@|@blaze (tree mark)@
+@señorita (C), tensor de cadenas@|@chain binder@
+@señorita (V), diferencial@|@chain hoist@
+@separación de los anillos anuales@|@shake, ringshake@
+@separador de madera aserrada@|@sticker (of lumber)@
+@sequía@|@drought@
+@seto@|@hedge@
+@siembra@|@sowing, planting@
+@siembra de forraje@|@cover crop@
+@siembra directa@|@direct seeding@
+@sierra@|@saw@
+@sierra de cinta@|@band saw@
+@sierra de disco@|@circular saw@
+@sierra sinfin@|@band saw@
+@SIG, (Sistema de Información Geográfica)@|@GIS, (geographic information system)@
+@significativo@|@significant@
+@sílice@|@silicon@
+@silicio@|@silicone@
+@silo de aserrín@|@sawdust hopper@
+@silvicultura@|@silviculture@
+@sin corteza (troza descortezada)@|@inside bark, underbark@
+@sindicato@|@labor union@
+@sitio, calidad de@|@site quality@
+@sobre corteza@|@overbark (E)@
+@sobremaduro@|@overmature@
+@sobrevivencia@|@survival@
+@soldador@|@welder@
+@soldadura, soldar@|@weld@
+@sombra@|@shade@
+@sompopa (CR)@|@leaf-cutter ant (Atta sp)@
+@sotavento@|@leeward, downwind@
+@sotobosque@|@understory, underbrush@
+@subsolador (campo)@|@subsoiler@
+@subsolador (vivero)@|@undercutter@
+@subsolar@|@subsoil (to)@
+@subsuelo@|@subsoil@
+@suelo de capote@|@top soil@
+@suma de cuadrados (SC)@|@sum of squares (SS)@
+@sumar@|@add@
+@superfosfato triple@|@triple superphosphate@
+@supervivencia@|@survival@
+@suprimido@|@suppressed, overtopped@
+@surco@|@bed (agriculture)@
+@tábano@|@horse fly@
+@tabique@|@wall framing, separation@
+@tabla@|@board, plank@
+@tabla de rendimiento@|@yield table@
+@tabla de volumen@|@volume table@
+@tabla ranuarada@|@grooved board@
+@tablero aglomerado@|@particle board@
+@tablero aglomerado/tiras orientadas@|@oriented strand board (OSB)@
+@tablero contraenchapado@|@plywood sheet@
+@tablero de densidad media@|@MDF - medium density fiberboard@
+@tablero de fibra@|@fiberboard@
+@tablero de partículas@|@particleboard@
+@tablero laminado@|@plywood@
+@tablilla@|@lath, half-inch boards@
+@tablón, tablones@|@thick boards, dimension stock@
+@tacotal (CA)@|@high brush, sapling forest@
+@tala dirigida@|@directional felling@
+@tala rasa, matarrasa (V)@|@clear-cut@
+@tala selectiva@|@partial cut, selective cutting@
+@taladora-arrumadora (máquina)@|@feller-buncher@
+@talador-apilador@|@feller-buncher@
+@talar@|@cut, fell@
+@taller@|@shop@
+@taller mecánico@|@machine shop@
+@tallo@|@stem@
+@tanino@|@tannin@
+@tapir@|@tapir@
+@tara@|@tare@
+@tarea, trabajo@|@task@
+@tasa@|@ratio@
+@tasa beneficio/costos@|@cost/benefit ratio@
+@tasa de actualización@|@discount rate@
+@tasa de interés@|@rate of interest@
+@tasa interna de retorno (TIR)@|@internal rate of return (IRR)@
+@tasa libor@|@prime rate@
+@taxonomía@|@taxonomy@
+@teca@|@teak@
+@técnica de quema@|@firing technique@
+@tejido de cicatrización@|@callus tissue@
+@telémetro@|@range finder@
+@tempestad@|@storm, rainstorm@
+@tenazas@|@tongs@
+@tendencia@|@trend@
+@tensión ambiental@|@environmental stress@
+@tensor de cadenas, perro tensor(V)@|@chain binder@
+@terciado (A)@|@plywood@
+@termita@|@termite@
+@terrateniente@|@landowner@
+@terreno baldío@|@wasteland, common use land@
+@terreno escabroso@|@land with escarpments@
+@terrón@|@clod of dirt@
+@terrón (con plántula) (V)@|@containerized seedling@
+@testigo@|@check (plot), witness@
+@tetraploide@|@tetraploid@
+@tigre, jaguar@|@jaguar@
+@tigrillo@|@bobcat@
+@tiras (de corteza)@|@strips (of bark)@
+@tizón@|@blight@
+@tocón@|@stump@
+@toma de nutrientes@|@uptake of nutrients@
+@topadora (A)@|@crawler tractor@
+@torcedura@|@warp, twist, crookedness@
+@torcido@|@crooked@
+@tormenta@|@storm, rainstorm@
+@tornillo de tuerca@|@bolt@
+@tornillo goloso, barrenador@|@screw@
+@torno@|@lathe@
+@toronto (V)@|@tandem truck@
+@torre de vigilancia@|@fire tower@
+@torrero@|@tower operator@
+@torton (M)@|@tandem truck@
+@tortuga@|@turtle, tortoise@
+@traba (diente de sierra)@|@set (saw tooth)@
+@traba por triscado@|@alternate set (of saw teeth)@
+@trabajabilidad de la madera@|@wood workability@
+@trabajo de campo@|@field work@
+@tractomula (C)@|@tractor-trailer@
+@tractor articulado con tenazas@|@grapple skidder@
+@tractor articulado, de arrastre@|@articulated skidder@
+@tractor de oruga@|@crawler tractor@
+@transplante@|@transplant, outplant@
+@transportador (aprovechamiento)@|@forwarder@
+@transportador (carga)@|@shipper@
+@transportador (correa)@|@conveyor@
+@transportador principal@|@leading shipper@
+@transportadores en bulto@|@bulk carriers@
+@tratamiento@|@treatment@
+@trementina@|@turpentine@
+@trepadora (planta)@|@climber, vine@
+@triángulo de combustión@|@combustion triangle@
+@trinchera@|@windrow@
+@triplex (C)@|@plywood@
+@triploide@|@triploid@
+@trocear, rolear (V)@|@buck logs (to)@
+@tronco@|@trunk (tree)@
+@troza@|@log (tree)@
+@troza inferior del fuste@|@butt log@
+@troza para pulpa@|@bolt, pulpwood stick@
+@troza superior del fuste@|@top log@
+@trueno@|@thunder@
+@tuca (CR)@|@log@
+@tuerca@|@nut (machine)@
+@tumbar@|@cut, fell@
+@tupí@|@wood shaper@
+@tupí portátil@|@portable wood shaper@
+@turba@|@peat@
+@turgidez@|@turgidity@
+@turno@|@rotation@
+@umbráculo@|@shade house@
+@umbrófila@|@shade tolerant@
+@vaina@|@sheath, bean pod@
+@vaina de la facícula@|@fascicle sheath@
+@valor de la madera en pie@|@stumpage (value)@
+@vara@|@pole@
+@variable dependiente@|@dependent variable@
+@variable independiente@|@independent variable@
+@varilla@|@wand, stick@
+@vaso (célula de madera)@|@vessel (wood cell)@
+@vástago@|@offspring@
+@veda@|@restriction, prohibition@
+@vegetación@|@vegetation@
+@venado@|@deer@
+@veneno@|@poison@
+@verano@|@summer@
+@vereda@|@trail (path), settlement@
+@verruga@|@burl@
+@vertisoles@|@vertisols@
+@veta@|@wood grain@
+@veteado@|@wood grain@
+@vía de extracción@|@skid trail@
+@viga@|@beam, joist@
+@viga cambrera@|@top roof joist@
+@viga de mina@|@pit prop@
+@viga de solua@|@outside joist@
+@viga madre@|@primary joists@
+@vigilancia aérea@|@aerial fire spotter@
+@vigilante de torre@|@tower operator@
+@vigueta@|@joist@
+@viruta@|@shavings, woodchip@
+@viverista@|@nurseryman@
+@vivero@|@nursery (tree)@
+@volcamiento de árboles@|@windthrow@
+@volqueta (C), volteo (V)@|@dump truck@
+@volumen@|@volume@
+@volumen comercial con corteza@|
+@volumen comercial sin corteza@|
+@volumen en pie@|@standing volume@
+@volumen total con corteza@|@total overbark volume@
+@volumen total sin corteza@|@total underbark volume@
+@winche@|@winch@
+@xilema@|@xylem@
+@yaraguá melao (C)@|@molasses grass@
+@yema del árbol@|@scion (tree)@
+@yema terminal@|@leader (tree)@
+@yunta de bueyes@|@ox team@
+@zacatal (M)@|@tall grassland@
+@zacate (M)@|@tall grass@
+@zanja@|@ditch@
+@zanjadora contra incendios@|@fire plow@
+@zenit; cenit@|@zenith@
+@zona@|@zone@
+@zoología@|@zoology@
+@zorrillo@|@skunk, opossum@
+@zorro@|@fox@
+

@@ -1,0 +1,1287 @@
+@English@|@Moksha@
+@Author name@|@Numulunj Piljgae@
+@Font@|@Arial\12\Arial\12@
+@(in the) last year@|@melae@
+@(in) this year@|@taeddae@
+@abbreviation@|@kirjvtavks@
+@abdomen@|@pekae, pekpaelj@
+@about@|@langa@
+@above@|@vaerae, velxjkssa@
+@abroad@|@ombamastarsa@
+@access@|@suvaf@
+@ache@|@saeraedjks@
+@across@|@turks@
+@action@|@tev@
+@actor@|@nalxkij@
+@addition@|@poladks@
+@adjective@|@lemvaksstanjval@
+@affair@|@tev@
+@again@|@taga@
+@agency@|@jotka jakama@
+@agent@|@jotka jakaj@
+@air@|@kozhv@
+@airplane@|@menaelaenj venaezh@
+@alarm clock@|@staevtijsj@
+@alcohol@|@saepivedj@
+@alive@|@shisa@
+@all@|@sembae@
+@alone@|@sjkamanj@
+@alum@|@lambamsal@
+@always@|@falu@
+@ambassador@|@mastaranj kuchf@
+@anarchy@|@azurksftumashi@
+@angel@|@angulj@
+@angle@|@uzha@
+@angry@|@kaezhi@
+@anniversary@|@ila@
+@another@|@omba, ombatsae@
+@apiary@|@neshkaeperae@
+@apple@|@marj@
+@application@|@veshvks@
+@Aquarius@|@Vedjkannij@
+@arc@|@jonga@
+@arch@|@nilxjks@
+@Aries@|@veruz@
+@arm@|@kaedj@
+@army@|@ushma@
+@around@|@perjf@
+@arrival@|@sama@
+@artist@|@arxtij@
+@ash@|@kula@
+@Asian@|@Azijanj@
+@assault@|@virjgaetaema@
+@assembly@|@purumks@
+@attack@|@virjgaetaema@
+@aunt@|@aka@
+@authority@|@koshardumvij@
+@authorization@|@koshardumviijavtuma@
+@autumn@|@sjoksae@
+@awareness@|@jozha@
+@axe@|@uzaerj@
+@back@|@kopurj, mekpaeli@
+@back and forth@|@mekaevasu@
+@back part@|@vtal@
+@backward@|@meki, mekpaeli@
+@bad@|@kaljdaev, osal@
+@bag@|@kaeskav@
+@baker@|@kishi panij@
+@ball (game)@|@kov@
+@balloon@|@ufam@
+@bank@|@turva@
+@bat@|@venjtiraev@
+@battle@|@tjuraema@
+@battlefield@|@tortingae@
+@beam@|@tsiljf@
+@bear@|@ovta@
+@beard@|@sakal@
+@bedroom@|@uduma vasta@
+@bee@|@mesh@
+@beer@|@shuzvedj@
+@beetle@|@unzha@
+@beggar@|@anaj@
+@beginning@|@ushaedks@
+@being@|@ulaema@
+@bell@|@pajgae@
+@below@|@ala@
+@beneath@|@ala@
+@benefit@|@ulaejotka@
+@bicycle@|@esjardij krandazkae@
+@big@|@otsu@
+@birch@|@kelu@
+@bird@|@narmunj@
+@bird cherry@|@lajmae@
+@bitter@|@saepi@
+@black@|@ravzha@
+@bladder@|@ufam@
+@blame@|@muvur@
+@bleech@|@akshamtumat@
+@blue@|@saengaerae, senaem@
+@blunt@|@noshka@
+@boat@|@venaezh@
+@body@|@ronga@
+@bomb@|@bomba@
+@bone@|@pakarj@
+@book@|@kiniga, kitap@
+@bottle@|@sjuleka@
+@bough@|@morga@
+@bow@|@sjuk@
+@bowl@|@shava@
+@box@|@parga, potmar@
+@boy@|@tsora@
+@brains@|@uj@
+@branch@|@tarad@
+@bread@|@kishi@
+@bridge@|@sedj@
+@bright@|@valda@
+@broom@|@taeljmae@
+@brother (older)@|@aljnaeka@
+@brother (younger)@|@tugan@
+@brotherhood@|@aljnaekaksshi@
+@bug@|@kelda@
+@bus@|@kigarnaema@
+@butter@|@skalvaj@
+@butterfly@|@melav@
+@button@|@punae@
+@by@|@koraez@
+@cabbage@|@kapsta@
+@cable@|@usjkae@
+@cafe@|@jarxtsama vasta@
+@calculator@|@luvaemka@
+@calendar@|@kovkaerjks@
+@calf@|@vaz@
+@camel@|@ishaem@
+@Cancer@|@Potanzha@
+@Capricorn@|@Saevsjura@
+@car@|@avtokrandaz@
+@carbon@|@sedaelj@
+@carrot@|@purxjkae@
+@cart@|@krandaz@
+@case@|@potmar@
+@cat@|@kata@
+@catastrophe@|@zijan@
+@celebration@|@ila@
+@cemetery@|@kalmalanga@
+@centre@|@kuchka@
+@cereal@|@jam@
+@cereals@|@jamks@
+@ceremony@|@ila@
+@chain@|@shaekae@
+@chalk@|@pur@
+@changeling@|@polavks@
+@charge@|@muvur@
+@cheek@|@shamapaeljks@
+@cheese@|@michkae@
+@cherry@|@ataemarj@
+@child@|@shaba@
+@chin@|@ulal@
+@choice@|@kochkama@
+@chokolate@|@shokolad@
+@Christmas@|@Roshtuva@
+@church@|@ozkskud@
+@cinciput@|@kasum@
+@circle@|@sharum@
+@city@|@osh@
+@city square@|@oshkuzha@
+@clean@|@aru@
+@clear@|@mani@
+@clock@|@ojxtj@
+@clothes@|@scham, schambaelj@
+@coach@|@anuklaj@
+@coal@|@sedj@
+@coast@|@turva@
+@cock@|@ataeksh@
+@cockroach@|@ki@
+@coffee@|@kofe@
+@coffin@|@lazks@
+@cold@|@jakshama, keljmae@
+@collection@|@kochkama@
+@cologne@|@shara@
+@colour@|@tjus@
+@column@|@orva@
+@comb@|@sehtaem@
+@combatant@|@pukshturdij@
+@coming@|@sama@
+@commander@|@ushman otsu@
+@community@|@tinal@
+@computer@|@komputer@
+@concord@|@lad@
+@cook@|@pidij@
+@copper@|@serae@
+@core@|@tov@
+@corpse@|@lovazha@
+@costellation@|@sisaemtaeshttj@
+@counter-clockwise@|@mekishit@
+@country@|@mastar@
+@court@|@muvurgavtuma-aralama vasta@
+@cover@|@tavadks@
+@cow@|@traks@
+@crayfish@|@vardish@
+@Creator@|@Shkaj@
+@crop@|@sjora@
+@cross@|@sinae@
+@crossing road@|@ki rashka@
+@crowd@|@mar@
+@crude@|@veruk@
+@cucumber@|@kujar@
+@cukoo@|@kuku@
+@cup@|@shavanae@
+@curds@|@michkae@
+@dancer@|@kishtij@
+@dancing hall@|@kishtima vasta@
+@danger@|@peljks@
+@dark@|@shobda@
+@dawn@|@varxjmudaema@
+@day@|@shi@
+@dear (address)@|@keljgaema@
+@death@|@kuluma@
+@debt@|@shuma@
+@debtor@|@shumu@
+@decency@|@tsurbarunj sodama@
+@dependent@|@kaedjala@
+@desease@|@urma@
+@dictionary@|@valks@
+@direction@|@jon@
+@director@|@otsunae@
+@directory@|@adresvalks@
+@dirty@|@urdazu@
+@dish@|@lapushavanae@
+@district@|@peraevks@
+@doctor@|@pichkavtij@
+@dog@|@pinae@
+@donkey@|@ishmae@
+@dose@|@virj@
+@dough@|@shapaks@
+@dove@|@mechae@
+@down@|@alu@
+@downward@|@alu@
+@dream@|@maelj, on@
+@drink@|@simaembaelj@
+@driver@|@arvtij@
+@dry@|@kosjkae@
+@duration@|@kuvalma@
+@eagle@|@kutskan@
+@ear@|@pilae@
+@earth@|@moda@
+@Easter@|@Otsushi@
+@easy@|@tjozhdae@
+@edifice@|@jurxt@
+@egg@|@al@
+@eight@|@kavksa@
+@eighty@|@kavksakemaenj@
+@elbow@|@kenaerjpakarj@
+@elections@|@kochkamat@
+@electricity@|@elektrashi@
+@elephant@|@virjvarda@
+@eleven@|@kevikiae@
+@elm@|@ushtur@
+@emergency@|@zijan@
+@employee@|@sivaedjf@
+@employment office@|@sivaedaema vasta@
+@empty@|@shava@
+@end@|@pe@
+@enemy@|@dushman@
+@energy@|@erjgae@
+@English@|@Anglanj@
+@entrance@|@suvama@
+@entry@|@suvaf@
+@envy@|@seljmaedaema@
+@equality@|@vtilma@
+@error@|@eljbaedjks@
+@escape@|@vorjgaedaema@
+@eternal@|@pevtuma@
+@eternity@|@pevtumashi@
+@Europe@|@Jevrop@
+@even@|@nuljnae@
+@evening@|@ilaedj@
+@evil@|@kaezh@
+@example@|@kepaedjks@
+@except@|@bashka@
+@excrement@|@vatae@
+@exit@|@lisaema@
+@expert@|@sodaj@
+@explosive@|@saezaema@
+@extra@|@uskula@
+@eye@|@seljmae@
+@eyebrow@|@seljmaekaba@
+@face@|@shama@
+@factory@|@fabrik@
+@falcon@|@saezaeka@
+@fall@|@prams@
+@family@|@tinal@
+@far@|@ichkaezae@
+@fat@|@echkae@
+@father@|@alae@
+@father-in-law@|@ataevuzj@
+@fear@|@pelaema@
+@feast@|@ila@
+@fence@|@peraevks@
+@few@|@kirzha@
+@fifty@|@vetaekemaenj@
+@fighter@|@tjurij@
+@finger@|@sur@
+@fir@|@kuz@
+@fire@|@tol@
+@fire-arm@|@laetsaema@
+@first@|@vasaensae@
+@fish@|@kal@
+@fisherman@|@kalunj kuntsij@
+@five@|@vetae@
+@flag@|@sodavks@
+@flat (surface)@|@lapush@
+@flock@|@polga@
+@flour@|@pochf@
+@flower@|@panzhf@
+@flute@|@njudi@
+@fly@|@karu@
+@fog@|@suv@
+@folk@|@kalk@
+@food@|@jarxtsampaelj@
+@food stuff@|@anuks@
+@foot@|@piljgae@
+@footprint@|@piljgaeki@
+@for them (Dative)@|@sinjteezt@
+@for you@|@tonjteetj@
+@forehead@|@konae@
+@forest@|@virj@
+@forever@|@jala@
+@fork@|@tsaenjganae@
+@forty@|@niljkemaenj@
+@forward@|@ingaeli@
+@founder@|@ushaedij@
+@four@|@nilae@
+@fox@|@kelazj@
+@France@|@Krantsmastar@
+@freedom@|@esj otaem@
+@French@|@Krantsunj@
+@Frenchman@|@Krantsalae@
+@Friday@|@sjukshi, shumurdamashi@
+@friend@|@jalga@
+@frog@|@vatraksh@
+@from (the surface of)@|@langsta@
+@front@|@ingaelj@
+@frying pan@|@pachkalga@
+@fugitive@|@vorjgaej@
+@funeral@|@kalmama@
+@fur@|@pona@
+@future@|@saj pingae@
+@gambler@|@nalxkij@
+@gap@|@jotka@
+@garden@|@perae@
+@garlic@|@pejshurxjkae, pengiae@
+@gather together@|@purumums@
+@gathering@|@purumks@
+@gauge@|@unkstambaelj@
+@Gemini@|@kavtastj@
+@German@|@Germananj@
+@Get out!@|@Vorxtj!@
+@giant@|@otsup@
+@giraffe@|@olgasaeldaz@
+@girl@|@stirj@
+@glade@|@kuzha@
+@glasses@|@seljmaevanumat@
+@glossary@|@valks@
+@glue@|@kaljmae@
+@glutton@|@kunae@
+@goat@|@saeva@
+@God@|@Shkaj@
+@gold@|@zirnae@
+@good@|@para, tsebaerj@
+@good (adv)@|@lads@
+@Good bye!@|@Naeimazanak!@
+@goose@|@matsi@
+@gossip@|@kulae@
+@grape@|@vinamarj@
+@grapefruit@|@vinamarj imuzh@
+@grass@|@tishae@
+@grave@|@kalma@
+@great@|@inae@
+@greed@|@kirma@
+@greedy@|@kirma@
+@green@|@pizhae, saengaerae@
+@grouse@|@shurman@
+@growth@|@kasum@
+@guard@|@vanij@
+@guest@|@inzhi@
+@guilt@|@shuma@
+@guilty person@|@shumu@
+@gun@|@laetsaema@
+@hack@|@sivaedjf@
+@hail@|@tsaerahman@
+@hair@|@shaeaerj@
+@hammer@|@shavaema@
+@hand@|@kaedj@
+@happiness@|@pavaz@
+@happy@|@pavazu@
+@Happy Christmas!@|@Roshtuva marxta!@
+@Happy New Year!@|@Od Kiza marxta!@
+@hard@|@kalguda, staka@
+@hare@|@numul@
+@harvest@|@sjora@
+@hatch@|@tavadks@
+@hawk@|@karxjtsaegan@
+@he@|@son@
+@head@|@prae@
+@headman@|@praevt@
+@health@|@shumbrashi@
+@healthy@|@shumbra@
+@heart@|@sedi@
+@heat@|@pisi@
+@heavy@|@staka@
+@hedgehog@|@seelj@
+@height@|@serae@
+@helicopter@|@sharumka@
+@hello@|@shumbra shi@
+@Hello!@|@Shumbrat!@
+@helmet@|@lifuzh@
+@help@|@lezks@
+@hen@|@saraz@
+@her@|@sonj@
+@here is; that is@|@vaga@
+@hero@|@batur@
+@him@|@sonj@
+@hip@|@sjuruk@
+@hippopotamus@|@vedjlishmae@
+@his@|@sonj@
+@hole@|@varae@
+@holy wood@|@repaeshtae@
+@hop@|@komlae@
+@hord@|@ushma@
+@horn@|@sjura, torama@
+@horrifying@|@kazh@
+@horror@|@kazh@
+@horse@|@lishmae@
+@hospital@|@pichkavtuma vasta@
+@hot@|@pisi@
+@hour@|@oj@
+@house@|@kud@
+@how@|@koda@
+@How are your things getting on?@|@Koda tevtnae molixtj?@
+@how long@|@maezaera@
+@How lovely!@|@Mezaenj vajmae!@
+@how many@|@maezaera@
+@how much@|@maezaera@
+@human@|@lomanj@
+@humid@|@letjkae@
+@hundred@|@sjada@
+@husband@|@mirjdae@
+@hush!@|@kasht!@
+@hydrogen@|@vedaelj@
+@I@|@mon@
+@I don't know@|@af sodasa@
+@I don't understand@|@af sharxjkadjsa@
+@I love you@|@keljgtae@
+@ice@|@aej@
+@ice-cream@|@aejnae@
+@icy@|@aei@
+@illness@|@saeraedaema@
+@in accordance@|@koraez@
+@in the morning@|@shobdava@
+@in the year previous to the last@|@mana@
+@in vain@|@abun@
+@income@|@ulaejotka@
+@infant@|@idj@
+@insane@|@paelaez@
+@inside@|@potma@
+@instructor@|@anuklaj@
+@intellectual@|@praevij@
+@interior@|@potma@
+@interior (house)@|@kudpotma@
+@investigation@|@penzama@
+@iron@|@kishni@
+@island@|@tsonga@
+@it@|@son@
+@it is not known@|@kati@
+@its@|@sonj@
+@job@|@pokama@
+@judge@|@kirjdij@
+@juice@|@vedj@
+@juniour@|@vaezhae@
+@jurisdiction@|@kondan@
+@just@|@vidae@
+@kattle@|@kiljdaem@
+@kernel@|@tov@
+@kidney@|@pichaemarj@
+@kind@|@tsebaerj@
+@king@|@otsazur@
+@kitchen@|@murga@
+@kite@|@kaval@
+@knife@|@peelj@
+@lake@|@aerjxkae@
+@lamb@|@veruz@
+@language@|@kaelj@
+@last@|@mekaelsae@
+@later@|@melae@
+@law@|@kondan@
+@lead@|@kivi@
+@leaf@|@lopa@
+@leave@|@tuma@
+@left@|@kerzhi@
+@leg@|@piljgae@
+@length@|@kuvalma@
+@Leo@|@orksovta@
+@less@|@saeda@
+@letter@|@sjorma@
+@Libra@|@unks@
+@lier@|@kaeljgun@
+@light@|@tjozhdae, tol, valda@
+@linden@|@paeshae@
+@line@|@kitjks@
+@lion@|@orksovta@
+@lip@|@turva@
+@literacy@|@sjormas sodama@
+@little@|@jombla@
+@liver@|@maksa@
+@living being@|@eraej vajmae@
+@lizard@|@nedjkaz@
+@locomotive@|@uskaembaelj@
+@long@|@kuvaka@
+@loud@|@seri@
+@love@|@keljgaema@
+@lynx@|@kazhmaruzh@
+@mad@|@paelaez@
+@magnet@|@imanj@
+@mail@|@sjormavaetaema@
+@mailbox@|@sjormanj parga@
+@malicious@|@kaezhi@
+@mammoth@|@varda@
+@man@|@alae, lomanj@
+@mansion@|@jurxt@
+@many@|@lama@
+@mask@|@shamavks@
+@mass@|@ozks ila@
+@mast@|@venaezholga@
+@master@|@azur@
+@May God speed you!@|@Shangadaeza!@
+@maybe@|@ulaema@
+@me (Dative)@|@minjteenae@
+@mead (drink)@|@purae@
+@meadow@|@lajmae@
+@meal@|@jarxtsampaelj@
+@meat@|@pal, sivaelj@
+@mediation@|@jotka jakama@
+@mediator@|@jotka jakaj@
+@merchant@|@mishaenjdij@
+@mercury@|@aeraeksija@
+@middle@|@kuchka@
+@mile@|@vajgaeljpe@
+@military@|@tjuraemanj@
+@milk@|@lovtsa@
+@millet@|@sura@
+@mind@|@maelj@
+@mine@|@shuvaempanda@
+@mink@|@pacha@
+@minus@|@uskula@
+@minute@|@fav, minut@
+@mirror@|@vanuma@
+@mist@|@shinjf@
+@mistake@|@eljbaedjks@
+@mister@|@azur@
+@mixture@|@shara@
+@moisture; urine@|@nachka@
+@Mokshan@|@Mokshanj@
+@monday@|@ataenjshi@
+@money@|@jarmak@
+@month@|@kov@
+@mood@|@maelj@
+@morass@|@taerij shaej@
+@more@|@saeda@
+@morning@|@shobdava@
+@moth@|@ki@
+@mother@|@taedae@
+@mother-in-law@|@avazj@
+@motherland@|@mastarava@
+@mound; heap@|@mar@
+@mountain@|@panda@
+@mouse@|@sheer@
+@much@|@lama@
+@mushroom@|@panga@
+@my@|@monj@
+@name@|@lem@
+@nation@|@lomanjtinal@
+@near@|@mala@
+@nest@|@piza@
+@nettle@|@palaks@
+@new@|@od@
+@news@|@odnae@
+@newspaper@|@kulaelopa@
+@night@|@ve@
+@nightingale@|@tsovks@
+@nine@|@vejxksa@
+@ninety@|@vejxksakemaenj@
+@no@|@ash@
+@norm@|@virj@
+@nose@|@shalxka@
+@not@|@af, apak@
+@noun@|@lemval@
+@nuclear@|@tovunj@
+@nucleus@|@tov@
+@number@|@luvks@
+@nut@|@paeshtae@
+@oak@|@tuma@
+@oar@|@milae@
+@occupation@|@tev@
+@officer@|@kuchaem@
+@oil@|@vaj@
+@old@|@sirae@
+@old man@|@atae@
+@on@|@langa@
+@one@|@vikae@
+@onion@|@shurxjkae@
+@onward@|@langs@
+@order; row@|@luv@
+@ore@|@shaemaenj@
+@other@|@ilae, ombatsae@
+@our@|@minj@
+@over@|@velxjkssa@
+@owl@|@koruzh@
+@owner@|@kirjdij@
+@pain@|@saeraedjks@
+@paint@|@arxtuma@
+@pancake@|@pacha@
+@paper@|@kagad@
+@Paradise for slain warriors@|@Usija@
+@part@|@paelj@
+@passer-by@|@jotaj@
+@past@|@jotaj pingae@
+@path@|@jan@
+@peninsula@|@naerjmastar@
+@people@|@lomattj@
+@performance@|@naevtaema@
+@perhaps@|@shaetj@
+@period@|@jotka@
+@phone@|@telefon@
+@phone call@|@kajgstuma@
+@pie@|@paeraeka, peraeka@
+@piece@|@paksh@
+@pig@|@tuva@
+@pigeon@|@mechae@
+@piglet@|@purxts@
+@pike@|@vedjkaz@
+@pillar@|@orva@
+@pine@|@pichae@
+@pine cone@|@pichaemarj@
+@pipe@|@kaerjgae@
+@Pisces@|@Kalxt@
+@pixy@|@kujkoruzh@
+@place@|@vasta@
+@planet@|@sharij taeshtae@
+@plate@|@lapushavanae@
+@player@|@nalxkij@
+@please@|@enaeljdaen@
+@poem@|@valmora@
+@pole@|@orva@
+@poor@|@ashu@
+@post office@|@sjormavaetaema vasta@
+@potatoe@|@modamarj@
+@pound@|@unks@
+@poverty@|@ashushi@
+@powder@|@pochf@
+@power@|@azurksshi, vij@
+@president@|@otsunae@
+@priest@|@ozksvaetij@
+@prince@|@shiraez@
+@printer@|@vachkadaembaelj@
+@printing@|@vachkadaema@
+@product@|@noldavks@
+@production@|@noldama@
+@pronoun@|@lemsaezaemsval@
+@prosecutor@|@muvurgavtij@
+@publishing@|@vachkadaema@
+@publishing house@|@vachkadaema kud@
+@puppet@|@naeka@
+@put@|@putums@
+@quantity@|@luvks@
+@quarry@|@shuvaempanda@
+@queen@|@otsazurava@
+@question@|@kizaevks@
+@quick@|@kuruk@
+@radio@|@radiva@
+@rain@|@pizaem@
+@rainbow@|@ataemjonga@
+@raven@|@kranch@
+@raw@|@ishae, veruk@
+@ready@|@anuk@
+@reality@|@eraeshi@
+@rear@|@vtal@
+@red@|@jakstaerae@
+@refrigerator@|@aejpotmar@
+@reign@|@azurksshi@
+@relative@|@malaviks@
+@relatives@|@esjtnae@
+@release@|@noldama@
+@representative@|@kuchf@
+@request@|@veshvks@
+@rib@|@irjdaez@
+@rich@|@kozae@
+@rider@|@lastae@
+@rifle@|@sanapal@
+@rifleman@|@laetsaenjdij@
+@right@|@vidae@
+@ring@|@surks@
+@river@|@laej@
+@road@|@ki@
+@rope@|@piks@
+@rule@|@koj@
+@rumour@|@kulae@
+@Russian@|@Ruzunj@
+@rust@|@shaemaenj@
+@sacking@|@palaks kodf@
+@saddle@|@kambraz@
+@safe@|@potmar@
+@Sagittarius@|@laetsaenjdij@
+@saint@|@inaearu@
+@salmon@|@akshakal@
+@sample@|@kepaedjks@
+@sand@|@shuvar@
+@school@|@tonavtnaema vasta@
+@science@|@tonaduma@
+@scientist@|@tonavtf@
+@scissors@|@vasunjpeelxtj@
+@Scorpio@|@skorpijon@
+@scorpion@|@skorpijon@
+@screen@|@langa@
+@scythe@|@peelaem@
+@sea@|@inaevedj, otsuvedj@
+@search@|@veshvks@
+@second@|@ombatsae, sekund@
+@selection@|@kochkama@
+@self@|@esj@
+@seller@|@mishaendij@
+@sentry@|@vanij@
+@service@|@kuchaema@
+@set@|@kochkama@
+@seven@|@sisaem@
+@seventy@|@sisaekaemanj@
+@sewer@|@lozaevks@
+@shade@|@eshks@
+@shadow@|@tsiljf@
+@sharp@|@orzha@
+@she@|@son@
+@sheath@|@torkud@
+@sheep@|@ucha@
+@shield@|@vaksar@
+@shop@|@mishaenjdaema vasta@
+@short@|@njurxjkaenae@
+@shoulder@|@lavtu@
+@silence@|@setjmae@
+@silent@|@setjmae@
+@silver@|@sija@
+@simple@|@tjozhdae@
+@sin@|@pezhae@
+@sincerely@|@kudprae@
+@Sincerely@|@sedi vakska@
+@singer@|@moraj@
+@sister (older)@|@aka@
+@sister (younger)@|@sazur@
+@six@|@kota@
+@sixty@|@kotkemaenj@
+@skeleton@|@shota@
+@skin@|@kedj@
+@skinny@|@osal@
+@skull@|@kavuzj@
+@sky@|@menaelj@
+@slag@|@vatae@
+@slave@|@urae@
+@slave woman@|@uraenj@
+@sleet@|@ir@
+@slippery@|@valazae@
+@small@|@jombla@
+@smart@|@praevij@
+@smell@|@shinae@
+@smelly@|@shini@
+@snout@|@zurna@
+@snow@|@lov@
+@soap@|@sapunj@
+@society@|@lomanjtinal@
+@soft@|@laepae@
+@softly@|@laepaesta@
+@soldier@|@ushman@
+@song@|@mora@
+@son-in-law@|@ov@
+@soul@|@vajmae@
+@soup@|@shongarjam@
+@sour@|@shapama@
+@souvenir@|@ilaedvtnaempaelj@
+@special@|@bashka@
+@specialist@|@sodaj@
+@speed@|@vishkae@
+@sphere@|@kov@
+@spinner@|@kishtirj@
+@spoon@|@kutsu@
+@springtime@|@tunda@
+@square@|@kuzha@
+@squirrel@|@ur@
+@stalk (plant)@|@pochka@
+@star@|@taeshtae@
+@state@|@mastar@
+@steam@|@shinjf@
+@steed@|@raksha@
+@step@|@asjkulks@
+@stick (sth to)@|@pedvtams@
+@stomach@|@lekshav, pekae@
+@stone@|@kev@
+@stop@|@lotkama@
+@store@|@kav@
+@straw@|@shuzhaerj@
+@stream@|@shudaema@
+@street@|@kura@
+@strength@|@erjgae@
+@student@|@tonavtnij@
+@suburb@|@oshturva@
+@sugar@|@zahar@
+@summer@|@kiza@
+@Sunday@|@targshi, nedlaeshi@
+@super@|@veljf@
+@supermarket@|@mishaenjdaema vasta@
+@sure@|@nama@
+@surface@|@langa@
+@swamp@|@shaej@
+@swarm@|@puvuz@
+@sweet@|@lambama@
+@sword@|@tor@
+@syringe@|@pochka@
+@table@|@morksh, shra@
+@Take care!@|@Ulxtj shumbra!@
+@tall@|@seri@
+@tar@|@kaeshae@
+@taste@|@tanjf@
+@tasty@|@tansti@
+@Taurus@|@vaz@
+@taylor@|@staj@
+@tea@|@chaj@
+@teacher@|@tonavtij@
+@tears@|@seljmaevedj@
+@ten@|@kemaenj@
+@terror@|@kazh@
+@that@|@sae@
+@that (far)@|@tona@
+@the Moon@|@kov@
+@the same (as that one)@|@saeka@
+@the same (as this one)@|@taeka@
+@The Sun@|@shi@
+@their@|@sinj@
+@them@|@sinj@
+@these@|@nae, naet@
+@they@|@sinj@
+@thick@|@echkae@
+@thin@|@osal, shuvanae@
+@thirty@|@kolmakaemanj@
+@this (close)@|@tae@
+@those@|@nae, naet, saet@
+@those (far)@|@nona, nonat@
+@thousand@|@tjozhaenj@
+@three@|@kolma@
+@thunder@|@ataem@
+@Thursday@|@shuvalanae@
+@tiger@|@babri@
+@time@|@pingae@
+@tin@|@kivi@
+@tin plate@|@kosjkae kivi@
+@tiredness@|@sizaema@
+@tiresome@|@sizaevtij@
+@to accuse@|@muvurgavtums@
+@to add@|@poladums@
+@to address@|@pishkaedaems@
+@to aid@|@lezdums@
+@to allow@|@maerjgaems@
+@to answer@|@azums, pishkaedaems karshas, pishkaedaems@
+@to apologize@|@vidaekstams@
+@to argue@|@paeljkstams@
+@to arise@|@staems@
+@to arrange@|@ladaems@
+@to ask@|@kizaevtaems@
+@to assault@|@virjgaetaems@
+@to attack@|@virjgaetaems@
+@to authorize@|@koshardumviijavtums@
+@to avoid@|@vorjgaedaems@
+@to bake@|@panaems@
+@to bathe@|@eshaelaems@
+@to be@|@ulaems@
+@to be able@|@mashtums@
+@to be anxious@|@kavtuldams@
+@to be bewildered@|@abundums@
+@to be ill@|@saeraedaems@
+@to be pleased@|@kenaerjdaems@
+@to be reduced@|@kiraems@
+@to be resurrected@|@veljmaems@
+@to bear@|@kirjdaems@
+@to beat; to kill@|@shavaems@
+@to become@|@arams@
+@to bedevil@|@aravtums@
+@to beg@|@anams@
+@to begin@|@ushaedums@
+@to bellow@|@rangums@
+@to bite@|@pupams@
+@to blame@|@shumijavtums@
+@to blow@|@ufams@
+@to blow (horn)@|@torams@
+@to boil@|@lakams@
+@to break@|@sinjdaems@
+@to breed@|@kasvtums@
+@to bring@|@kandums@
+@to bring (sth)@|@tums@
+@to bring in@|@suvavtums@
+@to bring relief@|@potavtums@
+@to bring up@|@jozhijavtums@
+@to burn@|@palums@
+@to burn (sth)@|@pulxtams@
+@to bury@|@kalmams@
+@to call@|@serjgaedaems, terjdaems@
+@to calm (sb)@|@setjmaevtaems@
+@to calm down@|@setjmaems@
+@to carry@|@uskaems@
+@to catch@|@kundams@
+@to change@|@polavtums@
+@to charge@|@petaems@
+@to charge (with)@|@muvurgavtums@
+@to chase@|@pantsaems@
+@to cheat@|@vasjkams@
+@to cite as an example@|@kepaedaems@
+@to close@|@sjolgums@
+@to come@|@sams@
+@to come in@|@suvams@
+@to come out@|@lisaems@
+@to command@|@koshardums@
+@to compare@|@paeljkstavtums@
+@to compete@|@paeljkstams@
+@to complete@|@shumurdams@
+@to concord@|@ladaems@
+@to conduct@|@vaetaems@
+@to confuse@|@abundvtums@
+@to consider@|@luvaems@
+@to contract@|@kiraems@
+@to cook@|@pidaems@
+@to correct@|@ladsaems@
+@to count@|@luvaems@
+@to cover@|@tavadums@
+@to create@|@shkams@
+@to crush@|@tapams@
+@to cry@|@avarjdaems@
+@to cultivate@|@kasvtums@
+@to cure@|@pichkavtums, potavtums@
+@to cut@|@kerums@
+@to dance@|@kishtims@
+@to defeat@|@tapams@
+@to defend@|@aralams@
+@to demand@|@veshaems@
+@to depend@|@aschaems@
+@to descend@|@valgaems@
+@to desire@|@jorams@
+@to destroy@|@mashtums@
+@to die@|@kulums@
+@to dig@|@shuvaems@
+@to disappear@|@jumams@
+@to distil@|@panaems@
+@to distinguish@|@javaems@
+@to disturb@|@shoraems@
+@to divide@|@javaems@
+@to divorce@|@javaems@
+@to do@|@tiaems@
+@to dominate@|@azurundams@
+@to draw@|@targams@
+@to dress@|@schams@
+@to dress (sb)@|@schavtums@
+@to drill@|@paelaems@
+@to drink@|@simaems@
+@to drive@|@uskaems@
+@to drive (out)@|@panaems@
+@to drive (vehicle)@|@arvtums@
+@to drown@|@vajams@
+@to eat@|@jarxtsams@
+@to eat (up)@|@sivaems@
+@to edit@|@ladsaems@
+@to educate@|@jozhijavtums@
+@to embroider@|@sjormadums@
+@to employ@|@sivaedaems@
+@to endure@|@kirjdaems@
+@to enter@|@suvams@
+@to envy@|@seljmaedaems@
+@to erase@|@nardams@
+@to escape@|@vorjgaedaems@
+@to establish@|@aravtums@
+@to exhale@|@targams vajmae ushu@
+@to exist@|@aschaems@
+@to explain@|@sharxjkadvtaems@
+@to explode@|@saezaems@
+@to expound@|@sharxjkadvtaems@
+@to exterminate@|@mashvtums@
+@to fear@|@pelaems@
+@to feel disgust@|@niljgaedaems@
+@to find@|@mums@
+@to finish@|@adelams, shumurdams@
+@to fire@|@kirjvaeztaems@
+@to flow@|@shudaems@
+@to flower@|@panzhaems@
+@to fly@|@liaems@
+@to forbid@|@kardams@
+@to forget@|@jukstams@
+@to foster@|@tiraems@
+@to fry@|@raestams@
+@to get sober@|@jangams@
+@to get tired@|@sizaems@
+@to give@|@maksums@
+@to gnaw@|@poraems@
+@to go to bed@|@madums@
+@to go; to walk@|@jakams@
+@to greet@|@shumbrakstums@
+@to grow@|@kasums@
+@to grow (sth)@|@kasvtums@
+@to grow wiser@|@jozhijams@
+@to grunt@|@rohams@
+@to happen@|@lisaems@
+@to hear@|@kulaems@
+@to help@|@lezdums@
+@to her@|@sonjteenza@
+@to hijack@|@vorjvtaems@
+@to him@|@sonjteenza@
+@to hire@|@sivaedaems@
+@to hold@|@kirjdaems@
+@to hop@|@komotaems@
+@to hunt@|@pantsaems@
+@to inhale@|@targams vaimae potmu@
+@to interfere@|@shoraems@
+@to introduce@|@sodavtums@
+@to investigate@|@penzams@
+@to invite@|@terjdaems@
+@to it (Dative)@|@sonjteenza@
+@to jump@|@jupadaems@
+@to justify (oneself)@|@vidaekstams@
+@to keep@|@vanvtums@
+@to kidnap@|@vorjvtaems@
+@to kiss@|@palams@
+@to know@|@sodams@
+@to land@|@valgaems@
+@to laugh@|@rahams@
+@to lead@|@vaetaems@
+@to learn@|@tonadums@
+@to leave@|@kadums, tums@
+@to lie@|@kaeljgaetnaems@
+@to lift@|@kepaedaems@
+@to light@|@kirjvaeztaems@
+@to listen@|@kulxtsundums@
+@to live@|@eraems@
+@to load@|@marams@
+@to look@|@vanums@
+@to lose@|@jumavtums@
+@to love@|@keljgaems@
+@to make@|@tiaems@
+@to make mistakes@|@eljbaedaems@
+@to manage@|@azurundams@
+@to measure@|@unkstams@
+@to meet@|@vasaedaems@
+@to meet (sb)@|@vasjvtaems@
+@to melt@|@shaenaems@
+@to miss (sb)@|@lazhadums@
+@to mix@|@shoraems@
+@to modify@|@ilaekstumtums@
+@to multiply@|@lamakstams@
+@to nibble@|@poraems@
+@to nourish@|@tiraems@
+@to object@|@troksams@
+@to open@|@panzhaems@
+@to own@|@kirjdaems@
+@to pack@|@marams@
+@to paint@|@arxtums@
+@to pass@|@jotams, potams@
+@to pave@|@sedaems@
+@to pay@|@pandums@
+@to phone@|@kajkgstums@
+@to play@|@nalxkums@
+@to play (instrument)@|@sedaems@
+@to prepare@|@anuklams@
+@to print@|@vachkadaems@
+@to produce@|@noldams@
+@to prohibid@|@kardams@
+@to protect@|@aralams@
+@to punish@|@pezaems@
+@to put@|@aravtums@
+@to put on@|@schams@
+@to quarrel@|@saelundums@
+@to quarter@|@valgaems@
+@to rain@|@pizaems@
+@to rattle@|@torams@
+@to reduce (sth)@|@kirjvtams@
+@to regenerate@|@veljmaems@
+@to reimburse@|@murdavtums@
+@to rejoice@|@kenaerjdaems@
+@to release@|@noldams@
+@to relieve@|@potams@
+@to remain@|@ilaedums@
+@to remember@|@maelaevtums@
+@to repair@|@petaems@
+@to return@|@murdams, murdavtums@
+@to revive@|@eraeklams, eraeklavtums@
+@to ride@|@ardums@
+@to roar@|@rangums@
+@to rotate@|@sharums@
+@to rotate (sth)@|@sharvtums@
+@to run@|@lasjkaems@
+@to sail@|@uaems@
+@to save@|@idaems@
+@to say@|@azums, maerjgaems@
+@to season@|@petaems@
+@to see@|@naeims@
+@to seek@|@veshaems@
+@to seize@|@saevaems@
+@to sell@|@mims@
+@to send@|@kuchaems@
+@to settle@|@ladsaems@
+@to sew@|@stams@
+@to shave@|@narams@
+@to shift@|@polavtums@
+@to shoot@|@laetsaems@
+@to shorten@|@kiraems@
+@to shout@|@seraems@
+@to show@|@naevtaems@
+@to shut@|@pandums@
+@to sing@|@morams@
+@to sleep@|@udums@
+@to smell (sth)@|@niksams@
+@to smelt@|@shaenaevtums@
+@to smoke@|@targams@
+@to speak@|@korxtams@
+@to spin@|@kishtirjdaems@
+@to split@|@lazums@
+@to stand@|@arams@
+@to stand up@|@staems@
+@to start@|@ushaedums@
+@to stay@|@aschaems@
+@to steal@|@salams@
+@to step@|@asjkuldams@
+@to stick (to)@|@pedaems@
+@to sting@|@pupams@
+@to stir@|@shoraems@
+@to stop@|@lotkams@
+@to stream@|@shudaems@
+@to strike@|@vachkadaems@
+@to study@|@tonavtnaems@
+@to suffer@|@kirjdaems@
+@to swallow@|@nilaems@
+@to swim@|@uaems@
+@to take@|@saevaems@
+@to take off@|@lijkstams@
+@to teach@|@tonavtums@
+@to tear@|@saezaems@
+@to tell@|@azundums@
+@to terminate@|@adelams@
+@to the left@|@kerzhi@
+@to the right@|@vidi@
+@to them@|@sinjteezt@
+@to think@|@arjsaems@
+@to trade@|@mishaenjdaems@
+@to train@|@anuklams@
+@to transfer@|@jotavtums@
+@to translate@|@jotavtums@
+@to transport@|@uskaems@
+@to treat@|@pichkavtums@
+@to tremble@|@tarums@
+@to trow (away)@|@jordams@
+@to turn@|@sharums, sharvtums@
+@to understand@|@sharxjkadaems@
+@to undertake@|@kundams@
+@to urinate@|@saeraems@
+@to us@|@minjteenaek@
+@to vary@|@ilaekstumums@
+@to wait@|@uchaems@
+@to wake@|@staems@
+@to wake up (sb)@|@staevtums@
+@to warm@|@ezhdaems@
+@to wash@|@shtams@
+@to wash hair@|@pezaems@
+@to weigh@|@unkstams@
+@to weld@|@shaenaevtums@
+@to win@|@saesjkaems@
+@to wipe@|@nardams@
+@to wish (sth)@|@arjsaems@
+@to work@|@pokams@
+@to worry@|@kavtuldams@
+@to write@|@sjormadums, taeshtaems@
+@to you@|@tonjteetj@
+@to you (pl)@|@tinjteentj@
+@toad@|@lengaerj@
+@toe@|@piljgaesur@
+@together@|@marsa@
+@tomorrow@|@vandi@
+@tongue@|@kaelj@
+@too much@|@veljf@
+@tool@|@kaedjonks@
+@tooth@|@pej@
+@tower@|@palmanj@
+@toy@|@nalxksh@
+@trace@|@ki@
+@trader@|@mishaenjdij@
+@trainer@|@anuklaj@
+@traitor@|@mij@
+@transportation@|@uskaema@
+@tree@|@shuvta@
+@trolleybus@|@kigaelj@
+@truth@|@vidaeshi@
+@tube@|@pochka@
+@Tuesday@|@shavshi@
+@twelve@|@kemkavtuva@
+@twenty@|@komsj@
+@twins@|@kavtastj@
+@two@|@kavta@
+@uncooked@|@veruk@
+@under@|@ala@
+@unemployment@|@pokamavtumashi@
+@up@|@vaeri@
+@upstairs@|@vaeri@
+@us@|@minj@
+@utensil@|@kaedjonks@
+@vain@|@ishae@
+@vault@|@nilxjks@
+@verb@|@tevval@
+@vertical@|@seri@
+@very@|@paek@
+@vessel@|@kaedjgae@
+@victim@|@laeba@
+@village@|@velae@
+@violin@|@karjzi@
+@Virgo@|@stirj@
+@visitor@|@saf@
+@voice@|@vajgaelj@
+@Volga@|@Rava@
+@volume@|@serae@
+@vowel@|@vajgaeljks@
+@war@|@torpingae@
+@wardrobe@|@schambaelj@
+@warm@|@laembae@
+@wasp@|@kenjdae@
+@watch@|@ojxtj@
+@water@|@vedj@
+@we@|@minj@
+@weapon@|@laetsaema@
+@weather@|@usha@
+@wednesday@|@jotkshi@
+@weel@|@shari@
+@welder@|@shaenaevtij@
+@well@|@eshae@
+@wet@|@letjkae@
+@whale@|@otsukal@
+@what@|@maezae, mezae@
+@What happened?@|@Mezae lissj?@
+@what kind@|@kodama@
+@what kind of@|@mezaenj@
+@when@|@maezaerda@
+@where@|@kosa@
+@where (to)@|@koza@
+@which@|@kona@
+@whip@|@loksha@
+@white@|@aksha@
+@who@|@kiae@
+@whose@|@kinj@
+@why@|@maez@
+@wide@|@kelae, keli@
+@width@|@kelae@
+@wife@|@urjvae@
+@will@|@esj otaem@
+@willow@|@kalj@
+@wind@|@varma@
+@window@|@valjmae@
+@wine@|@vina@
+@wing@|@patsae@
+@winner@|@saesjkij@
+@winter@|@taela@
+@wire@|@usjkae@
+@wise man@|@sodaj lomanj@
+@wish@|@maelj@
+@wolf@|@virjgaz@
+@woman@|@ava@
+@woodpecker@|@shaekshata@
+@word@|@val@
+@work@|@pokama, tev@
+@worker@|@pokaj@
+@workplace@|@pokamavasta@
+@world@|@mastarlanga@
+@worship@|@ozks ila@
+@writer@|@sjormadij@
+@yard@|@karda@
+@year@|@kiza@
+@yellow@|@tjuzhae@
+@yes@|@ina@
+@you@|@tinj, ton@
+@younger@|@vaezhae@
+@your@|@tonj@
+@your (pl.)@|@tinj@
+

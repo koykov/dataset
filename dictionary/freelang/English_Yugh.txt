@@ -1,0 +1,509 @@
+@English@|@Yugh@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a delved boat@|@dyltij@
+@a device for catching fish@|@be, bë@
+@a k. of bird@|@chogula@
+@a k. of boots@|@ki'n, kineng@
+@a k. of duck@|@fl'n, fl'r, tamat, ulan, ulan, ulanyng@
+@a k. of fish@|@de:, dei@
+@a k. of grey duck@|@kyksi, kyksin@
+@a k. of net@|@u:n@
+@a k. of salmon@|@b'tn, b'tnäng@
+@a k. of tubular plant@|@e:ht, eding@
+@a k. of vessel@|@u'n@
+@a k. of wild duck@|@blntän@
+@a large boat@|@aso:r, asoryng, asour, asouryng@
+@a musical instrument@|@kãchi@
+@a piece of fish@|@bin@
+@a pit@|@ky'l, ky:hl, ky:l@
+@a small bird@|@bã, ba:, ba:n@
+@a wood bird@|@olang, olangyn@
+@Adam's apple@|@klgyr, klgyryng@
+@afterwards@|@ke@
+@alive@|@e:ht, eting@
+@all@|@bylla@
+@along@|@a:hs@
+@an agglomeration of worms@|@kin@
+@an anthropomorphic idol@|@àllál@
+@arm@|@klgdat@
+@arrow@|@dlambok, dlmbokng, dlmok@
+@asp tre@|@yfyl, yfyling@
+@awl@|@du't, dutyng@
+@axe@|@cho:hk, chok@
+@axe-handle@|@chogul, choguläng@
+@bachelor@|@lfyl@
+@bark@|@y:n@
+@be born@|@si-g-ba-ta:hx@
+@be in debt@|@argit@
+@beach@|@igdéj@
+@beads@|@klnyng@
+@beard@|@kül, küläng@
+@beater of the shaman drum@|@fadbyl@
+@being there@|@ïng@
+@belch@|@klngej, ky'ng@
+@bellows@|@afe:j, ãfej, ãfejeng@
+@belt@|@eaqta, eaqtãn, extangyn@
+@berry of currant@|@ljfy@
+@between@|@ba'r, bar@
+@bifurcation@|@ábys@
+@bird@|@dyl-tym. dyl-tymyn@
+@bird-cherry@|@banyr, banyryng@
+@black woodpecker@|@kyrym, kyrymyng@
+@blind@|@útpang@
+@blue-berry@|@efyr@
+@bone@|@a't, adyng@
+@boot made of deer skin@|@che:hs, chesyng@
+@bosom@|@ofyj, ofyjeng@
+@braid of hair@|@blbylyng, bljbyl@
+@brain@|@do'ng, do'ng, ko'@
+@branch@|@'b:x, lxyn@
+@bread@|@ne'n@
+@brother@|@bise'p@
+@burbot@|@kasn, kes@
+@calf of an elk@|@ollás@
+@calf of leg@|@kíladyng, kílat@
+@callosity@|@uraj, urajäng@
+@catch@|@atanüarget, datanüabet, datanuörbet@
+@cedar@|@fa'j, fing@
+@chain@|@e, eg e:hng, ej@
+@child@|@dyl@
+@children@|@kitej, kl't@
+@chipmunk@|@ko'p, kofyn@
+@churn@|@falgufyn, falgup@
+@claw@|@i:hn, ining@
+@clear@|@e:ht@
+@cloggy@|@a:l, a:le@
+@coal@|@kufyl, kufylchang, kufylchi, kufylyng@
+@coffin@|@atou, atoung@
+@coire@|@aja, ajga@
+@collect@|@ig-e:ht@
+@come and bring@|@igbes@
+@cone of a coniferous tree@|@emchangyn, emchi@
+@covetous@|@ïsal@
+@cradle@|@u'j, ungneng@
+@creaky@|@alät@
+@crooked@|@kA'l@
+@crow@|@ky:l, kyl@
+@crust on snow@|@t'-tik, t'u-tik@
+@cup@|@e'l, e:l@
+@curse@|@di:hs, dy:hs@
+@curved@|@u't@
+@daughter-in-law@|@e:hn, e:hnem, ejnem, enin@
+@dawn@|@k'bn@
+@dead man@|@bong, bonge:ng@
+@different@|@be'l@
+@dog@|@cha'p, chip@
+@don't'@|@ata@
+@door@|@erfox, erfoxn@
+@dough@|@kisla@
+@dragon-fly@|@dlnablj, dlnabljeng@
+@dressed off@|@olyt@
+@dried fish@|@itn, itnäng@
+@drink@|@dof, dop, udop´@
+@duck@|@bl'n, bln-git@
+@eagle@|@di', dinyng@
+@ear@|@oxtyng, oxtyngyn@
+@ear rings@|@ogdoning@
+@earth@|@ba'n@
+@edge@|@d-ítol, ítyl@
+@egg@|@eng, engän@
+@elbow@|@ulgit@
+@ermine@|@kulafyn, kulep@
+@even@|@ëm, u:l@
+@evening@|@bis@
+@exactly@|@f', fãp@
+@expiration@|@i:hp, i:p@
+@eye@|@des@
+@face@|@ba:t, battat, battatyng@
+@far@|@bi:hr, bi:hre@
+@fat@|@ky't@
+@father@|@obe:ng, op@
+@feather@|@a:hs, aseng, asyng@
+@female@|@fanggy, fanggyn@
+@female puppy@|@fáng-gy-la@
+@fir tree@|@dyn, dynäng@
+@fire@|@bo'k@
+@fire-brand@|@bog-dejt, bog-detn@
+@fish@|@ïs@
+@fish bladder@|@flryng@
+@fish scales@|@ise, isyng@
+@fish spear@|@e:hl, eläng, elingyn@
+@fisher net@|@fl'ng, flngyn@
+@fishing rod@|@du'p, dufyn@
+@fish-trap@|@bo'x, boqng@
+@fist@|@ku:hx, kuxän@
+@flying squirrel@|@e:hm, emn@
+@foal@|@kujgit@
+@foot@|@bul, bul, buling, ki's, kisyng@
+@forth@|@kAmej@
+@fox@|@klxyn, klxynyng@
+@from the river to the shore@|@ltej@
+@full@|@üt, uting@
+@future@|@ongty:r, ongtyr@
+@get up@|@chös@
+@gills@|@ilej, ilejäng@
+@girdle@|@axta:hng, axtang, axtangyn, exta:hng, extang@
+@give!@|@lgéj@
+@glitter@|@i:hn@
+@go away@|@ko:ng@
+@good@|@ax-ta@
+@goose@|@cham-git, chem, chemyn@
+@grass@|@daxän@
+@grave@|@ol, ölang@
+@gudgeon@|@udim, udimyng@
+@hair@|@ch'ng@
+@half@|@a'l, al, dala, dalla@
+@hand@|@bi'ng, bingyn@
+@handful@|@fAllaqng, fAllax@
+@hard@|@bydam, byt@
+@hare@|@ak, be's, besn@
+@harlot@|@be'l@
+@hat@|@dy', dyneng@
+@haunch@|@an@
+@hawthorn@|@fAlchi@
+@he eats@|@düp@
+@head@|@chy'@
+@healthy@|@ofyng@
+@helminth@|@dopsi, dopsin@
+@hence@|@kin, kin':r@
+@hind@|@ongtä@
+@hip@|@fã:hp, fafyng, fap@
+@hole@|@ka'ng, kangyn@
+@horse@|@ku's, kusn@
+@hot@|@afyng@
+@hotly@|@ãfe, ãp@
+@hull@|@óling@
+@hundred@|@ki', kise@
+@hunt@|@kl'j@
+@hunting path@|@ka:hng, kangyn@
+@hunting spear@|@atta:hs, attas, attasn@
+@i@|@at@
+@i bore@|@t-kAgy-sej@
+@I buckle@|@d-enti-b-ong@
+@I buy it@|@di-kéx-tiskit@
+@I eat@|@dïp@
+@i extinguish@|@dúchcch-fy', dúchchy-n-fy'@
+@I hear@|@d-äxti-sax, d-exti-sax@
+@I shout@|@de:hsi@
+@I shouted@|@desori@
+@icon@|@ejsküs, ku:s, küsin@
+@idol@|@dosset@
+@in old days@|@lxaj@
+@in order to climb down@|@atei-sesang@
+@in order to kill@|@e:hj, eje-sang@
+@in order to put@|@esie-sang@
+@in order to take@|@kasna@
+@in order to tell@|@kyje-bedesang@
+@in that direction@|@kl'@
+@in vain@|@ut@
+@iron string@|@eg ãng@
+@is treated@|@honchig@
+@island@|@ëj@
+@jiggle@|@dl:hj, nl:hj@
+@kiddle@|@dupchi@
+@kidney@|@bajbyl, bajbylyng@
+@knee@|@ba't, batpyl, batpylyng@
+@knife@|@do'n, donyng@
+@knot@|@bonggyl, bonggylyng@
+@lake@|@de', deng@
+@leaf@|@l:hp, lfyng@
+@leech@|@urol@
+@let enter@|@-e:ht@
+@lid@|@kulam@
+@light@|@bejing, kl'n@
+@log@|@bãk@
+@long@|@ug-dä@
+@long ago@|@i:hn@
+@loon@|@bikng, bit@
+@loop trap@|@l'k, lgding@
+@louse@|@l:hk, lgyn@
+@mad@|@do'x, doxsi@
+@male@|@y'k, yksi@
+@mammoth@|@chekng, chel, cheläng@
+@man@|@ke't@
+@many@|@o:hn@
+@martlet@|@bi:l, bi:leng, bïleng@
+@meadow@|@ögang, öx@
+@meat@|@kït@
+@middle@|@ky:kx@
+@mind@|@anyng@
+@mitten@|@boxon, boxonyng@
+@mix up@|@atchej@
+@mole animal@|@uja@
+@morpheme of the 2d plur.@|@keng-@
+@morpheme of the 2d sing@|@k-, ku-@
+@mother@|@am, ame:ng, amyng@
+@mouse@|@u:ht, utn@
+@mushroom@|@bolba, bolba:n, bolban@
+@muzzle@|@kufyn, kup@
+@my@|@ap@
+@naked@|@o'l, olyng, oul@
+@name@|@e'ng, i@
+@near@|@ugl, utis@
+@neck@|@k'xty, klxtynyng@
+@needle@|@enyng, i'n@
+@neighbourly@|@ongbar@
+@nenets@|@dljgit@
+@nest on earth@|@fãrsej@
+@nettle@|@kitn@
+@next year@|@dynas@
+@nit@|@etring-lk@
+@nose@|@olän, olyn, olynyng@
+@not at all@|@tãngä b's@
+@not to touch@|@ej...cha@
+@notch@|@cho's, chosyng@
+@now@|@en@
+@nut@|@im, mam-ät@
+@oar@|@fa:hj, faj@
+@old@|@ka't, kateng@
+@old man@|@baxat, baxatyng, chatn, chet, xa-chit, xeng-chatn@
+@old woman@|@baxam, baxamyng@
+@on one's feet@|@dygej@
+@one more time@|@faj, fas@
+@one time@|@fa, fas@
+@opening of a sack@|@ku, kunyng@
+@otherwise@|@bik, bik-sou@
+@our@|@'btna@
+@outside@|@lréj, lrgej@
+@part of the house before@|@atnto, atnton@
+@peg@|@esyng, i's@
+@penis@|@by's, by:hs@
+@pimple@|@bokse:j, bokse:n, boksej, boksin@
+@pine@|@'en, ej@
+@place@|@úsating@
+@podex@|@ko't, kodyng@
+@pole of the tent@|@lngning, lngningyn@
+@powder@|@dl:hr@
+@price@|@keding, ki't@
+@puppy@|@y:chap, y:nchip@
+@pus@|@do'n@
+@put down@|@dida:hb-di, didábyr-di@
+@quickly@|@dlxty@
+@quietly@|@albät@
+@quiver for arrows@|@l't, ltn@
+@release@|@k..et@
+@rib@|@ulading, ulat@
+@river bend@|@kAlang, kAlgit@
+@rock@|@chlnga:n@
+@rod@|@ulan, ulanäng, úllan@
+@roe@|@ongning@
+@roe egg@|@ong-dis@
+@root@|@ti:ht, tiding@
+@ruff@|@falgy, falgyn@
+@rump@|@u't, uding@
+@rust@|@aul, aul?, kü@
+@sack@|@a:hj, ajeng@
+@saliva@|@uryng@
+@salt@|@chl'@
+@sand@|@fAnyng@
+@scoop@|@chappäm@
+@separately@|@benyng@
+@seven@|@o'n@
+@shaft@|@dül, dülingyn, ül, üleng@
+@shaman's drum@|@fa:hs, fas@
+@sharp@|@ejt, ët, eting@
+@sharpen@|@i:@
+@sheath@|@döndi, döndin@
+@showel@|@e'p, efyng@
+@silver@|@che:, che:hk, chekng@
+@simple@|@u't@
+@sinew@|@da'r, daryng@
+@sinuous shore@|@kAlgej@
+@six@|@ã, a', a:h, a:hs, a:hse@
+@ski@|@asil, asil'ing, asl, asling@
+@skin@|@igol, ijol, inggolyng@
+@ski-strap@|@e:hs, esyng@
+@sky@|@es, ese:ng@
+@sleeve@|@bengonyng, bengou, bengoun@
+@sleigh bow@|@exab-ax, exab-oksy@
+@sleigh detail@|@bu:l, bul, bulyng@
+@sleigh runner@|@y'n, yneng@
+@sludge@|@u'l@
+@small@|@f'nna@
+@small pine@|@en-git@
+@smell@|@ït@
+@smoke@|@du', dunyng@
+@snake@|@chi:hk, chigyn@
+@snow@|@be't@
+@son-in-law@|@be'p, bebäng@
+@soon@|@a't@
+@soot@|@k'x@
+@sorry@|@áng-bet@
+@soup@|@u'k@
+@spirit@|@eräng, eryng, ïr@
+@split@|@ilbet@
+@sterlet@|@ok, oksin@
+@stick@|@äbyl@
+@stick into@|@lxandou@
+@stone@|@chl'ng, chy's@
+@store@|@e'ng, i'@
+@strength@|@u@
+@string@|@ãng@
+@strong@|@aling@
+@stump@|@ko'l, ko:l@
+@suddenly@|@lxpes@
+@suffusion@|@o'l@
+@swan@|@chigyn, chík@
+@take!@|@ma@
+@tasty@|@dang@
+@tear out@|@-chej@
+@that@|@ka-da, kã-t@
+@the inside@|@koxty@
+@thence@|@kan':r@
+@there@|@kan@
+@there is@|@üse@
+@thick bushes@|@fa:ht@
+@thick of paper@|@blsi@
+@thin@|@cha:ng, chang, faksim@
+@think@|@anyngbet@
+@this@|@kida, kisóng, kït@
+@thorny@|@'lmasing@
+@thou@|@u@
+@three@|@do'ng, do:hng, dong, donge, dongeng@
+@throat@|@kAladyng, kAlat@
+@thunder@|@ekng@
+@tie@|@íksing@
+@to be@|@ahbda@
+@to be ill@|@a:ht, adade@
+@to be left@|@a:hgh-bet, a:hx@
+@to be visible@|@lxa-@
+@to become@|@-e-@
+@to bend@|@-geding, falget, ke:ht@
+@to boil@|@lxan@
+@to call@|@és-tej@
+@to catch@|@tofyng-tet, tópfyt@
+@to count@|@ký-bet@
+@to crawl@|@ki:ht@
+@to cry@|@düg@
+@to cut@|@fag-ej, fage:j@
+@to damn@|@ájeng@
+@to deceive@|@ar-bet, aratanlãx, arbe:ht, daratãx, daratonãx, diratonãx, klm-bet@
+@to dig@|@ug-dij@
+@to dig into@|@kyjät, kylät@
+@to dress off@|@olyngxät@
+@to drink@|@dúrop@
+@to eat@|@do'x, dox, iring@
+@to extinguish@|@dutenfë, dutsefë, utenfë@
+@to fall@|@dl:hx, dlkng, dlqng, t-dax@
+@to find@|@bl:hk@
+@to fly@|@do:hx@
+@to forget@|@en-suk@
+@to frighten@|@diba-choreng, dibãcheng@
+@to gather@|@a:j@
+@to give@|@-t...a:hx, d-a-b-a:hx@
+@to go@|@-den, -te, -ten, ejing@
+@to go out@|@ax@
+@to go round@|@-ge, dich´j-ge, dicho:hr-ge@
+@to hear@|@áx-tax@
+@to hold@|@u:skát@
+@to jump@|@ajgufyng, e'ng@
+@to jump up@|@-ch-e'ng@
+@to kiss@|@chokkej@
+@to know@|@ít-pade@
+@to lick@|@e:hj, ej, ej-git@
+@to live@|@dl'q, dl'x@
+@to load off@|@d-exa-b-di@
+@to make sour@|@áqchij@
+@to moan@|@ojinget@
+@to moor@|@ltsej@
+@to nomadize@|@íchang@
+@to notch@|@ittou@
+@to play@|@afynyng@
+@to pour@|@achej, atax, atchej@
+@to pray@|@barbet@
+@to press@|@ugyt@
+@to procure firewood@|@ax-at@
+@to pull@|@cha:hng@
+@to pull out@|@ch-dax@
+@to put@|@di, di', ušating@
+@to remember@|@d-éntykng@
+@to rest@|@-úgu-@
+@to roll down@|@kúl-fun, kúlej@
+@to rot@|@áqchij@
+@to row@|@y:hs@
+@to rub@|@oxtet@
+@to salt@|@clgit@
+@to scrape@|@ãtet, chet, dãbetet, döbertet, tkãbi@
+@to scratch@|@ang-gät, d-eng-abïrti, d-eng-ãbti, eng-ati@
+@to search@|@a:t, dïberget, dïbget, ïdet, ïdget@
+@to search and gather@|@a:t@
+@to send@|@d-ë-dajit, d-ë-done, dejchone, ë-dane, ej-chij@
+@to sew@|@fAlsej@
+@to shoot@|@d-estäu@
+@to sing@|@i'r@
+@to singe@|@bogdiräng@
+@to sit@|@k-a:hp, káfyng@
+@to sleep@|@dittoghoat, tarroat, töroghoat@
+@to smear@|@ki:t, kït, tabgït@
+@to smell@|@ittej@
+@to smell of@|@dit, dït@
+@to smoke@|@duget@
+@to spin@|@kif', kifl@
+@to stay behind@|@t...eit@
+@to steal@|@ud-de:ng@
+@to steer@|@kitating@
+@to stop still@|@ifyn, tífyng, tïp@
+@to suck breast@|@ma'm, mamät, mamn@
+@to sweat@|@abbataghan@
+@to tell@|@ky:hj@
+@to throw@|@esy'@
+@to tie@|@ulingtet@
+@to trot@|@chat-tat@
+@to warm up@|@afynget@
+@to weave@|@kãp@
+@tooth@|@ä, är, i:ht, iteng@
+@top of head@|@fãt, fattat, fattatyng, fatyngen@
+@towards the shore@|@agéj@
+@towards there@|@kane:hš@
+@toy@|@afynyngsi@
+@trap@|@ki, ki'ng@
+@tree@|@oksy@
+@trousers@|@aling, alyngyn@
+@Tungus@|@fAmba, fAmban@
+@tussock@|@flryng, fyhš@
+@twenty@|@e'k, eksy@
+@twins@|@yn 'bringgisi@
+@upon@|@lxat@
+@upwards@|@cho'j, chosej@
+@vagina@|@faran, faranyng@
+@vessel made of birch bark@|@y:t, ydeng@
+@wagtail@|@chichik, chichikan@
+@war@|@ka:hr@
+@water spirit@|@urgus@
+@we@|@'btn@
+@weak@|@e:h@
+@wear@|@-dyr, x-ir@
+@wedge@|@en, enyng@
+@well@|@axte@
+@wesp@|@bysset, bysseyn@
+@wet@|@uttá-diding@
+@what a@|@ases, assa@
+@what?@|@assa@
+@when@|@ãskej, ãskejsit@
+@which@|@asejs@
+@whirlwind@|@ulbej, ulgit@
+@whistle@|@kucharéj, kuchiréj@
+@white moss@|@chadyng, tãdeng, tãdengen@
+@who@|@anet, asera@
+@whole@|@e:hf, e:hp, efyng@
+@why@|@aj, asejsang, asesang@
+@widow@|@blssem@
+@wild animal@|@atöe:hr, atöen@
+@wilderness@|@a:hr@
+@willow@|@d'l-git, d'lfat@
+@willow bark@|@d'neng, dl:hn@
+@wind@|@bej@
+@wind from the river source@|@ud-bej, útej@
+@window@|@xamgok@
+@wing@|@ke'j, kejadyng, kejäng, kejat@
+@winter@|@k't@
+@wolverine@|@ku:hn, kunyn@
+@wood spirit@|@xajgus@
+@woody hill@|@parämpãs@
+@worm@|@iolyn, o'l, ollä@
+@writing@|@iding engning, idingej@
+@you@|@'kng, k'kng@
+@your@|@uk@
+@Yugh@|@du:hk, dugn@
+

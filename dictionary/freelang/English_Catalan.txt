@@ -1,0 +1,1022 @@
+@English@|@Catalan@
+@Author name@|@Jose Soriano@
+@Font@|@Arial\12\Arial\12@
+@a@|@un, una@
+@abandon@|@abandonar@
+@ability@|@habilitat@
+@able@|@capaç@
+@abort@|@abortar@
+@about@|@mes o menys@
+@above@|@damunt, sobre@
+@abrasive@|@abrasiu@
+@absolutely@|@absolutament@
+@abstract@|@abstracte@
+@accept@|@acceptar@
+@add@|@sumar@
+@adjective@|@adjectiu@
+@advance@|@per avançat@
+@adverb@|@adverbi@
+@advert@|@anunci@
+@advice@|@consell@
+@aeroplane@|@avió@
+@afraid@|@asustat@
+@after@|@despres@
+@afternoon@|@tarda@
+@again@|@un altra vegada@
+@agent@|@agent@
+@ago@|@fa molts anys@
+@agree@|@estar d'acord, estar d'acord@
+@air@|@aire@
+@airmail@|@correu aeri@
+@airplane@|@avió@
+@airport@|@aeroport@
+@alarm clock@|@despertador@
+@alarm-clock@|@despertador@
+@almost@|@quasi@
+@along@|@al llarg de@
+@also@|@també@
+@although@|@encara que@
+@always@|@sempre@
+@among@|@entre@
+@and@|@i@
+@angry@|@enfadat@
+@animal@|@animal@
+@another@|@un altre@
+@answear@|@resposta@
+@answer@|@resposta@
+@apple@|@poma@
+@approximately@|@aproximadament@
+@april@|@abril@
+@April Fool's Day@|@dia dels innocents@
+@arm@|@braç@
+@armchair@|@silló@
+@army@|@armada, ejercit@
+@arrive@|@arribar@
+@arrow@|@fletxa@
+@art@|@art@
+@as@|@com@
+@as...as@|@tant com@
+@aspirin@|@aspirina@
+@at@|@en, per@
+@august@|@agost@
+@autonomy@|@autonomia@
+@autumn@|@tardor@
+@avenue@|@avinguda@
+@away@|@lluny@
+@awful@|@horrible@
+@baby@|@nadó@
+@back@|@darrere, esquena@
+@bad@|@dolent@
+@bag@|@bossa@
+@ball@|@pilota@
+@bank@|@banc@
+@barn@|@establa, estable@
+@bath@|@bany, banyar@
+@be@|@estar, ser@
+@beach@|@platja@
+@bear@|@os@
+@because@|@perque@
+@become@|@convertirse en@
+@bed@|@llit@
+@bedroom@|@habitació@
+@bedside lamp@|@lampareta@
+@bee@|@abella@
+@beer@|@cervessa@
+@before@|@abans@
+@believe@|@creure@
+@below@|@sota@
+@belt@|@cinturó@
+@best@|@millor@
+@better@|@el millor@
+@big@|@gran@
+@bike@|@bici, bicicleta@
+@bin@|@papelera@
+@biology@|@biologia@
+@black@|@negre@
+@bless@|@beneir@
+@blond@|@rubia/o@
+@blood@|@sang@
+@blue@|@blau@
+@board@|@pissarra@
+@boat@|@vaixell@
+@body@|@cos@
+@bone@|@hos@
+@book@|@llibre, reservar@
+@bookcase@|@estanteria per a llibres@
+@bookshop@|@llibreria@
+@boots@|@botes@
+@bore@|@aborriment@
+@both@|@tots dos@
+@bottle@|@botella@
+@bought@|@comprat@
+@bowl@|@bol@
+@boyfriend@|@novio@
+@brain@|@cervell@
+@bravest@|@el mes valent@
+@bread@|@pa@
+@break@|@trencar@
+@breakfast@|@desdejuni@
+@bride@|@novia@
+@bridge@|@pont@
+@bring@|@portar@
+@broke@|@trencar@
+@brother@|@germà@
+@brought@|@portat@
+@brown@|@marró@
+@brush@|@pentinarse@
+@building@|@edifici@
+@bulb@|@bombeta@
+@bus@|@autobus, bus@
+@bus station@|@estació d'autobusos@
+@business@|@negocis@
+@busy@|@ocupat@
+@but@|@però@
+@butcher@|@carnicer@
+@butter@|@mantega@
+@butterfly@|@papallona@
+@buy@|@comprar@
+@buying@|@comprant@
+@by@|@en@
+@calendar@|@calendari@
+@call@|@trucar@
+@camel@|@camell@
+@can@|@poder@
+@capital@|@capital@
+@captain@|@capità@
+@car@|@cotxe@
+@car park@|@parking@
+@carefully@|@amb compte@
+@carpet@|@catifa@
+@carrot@|@carlota@
+@cassette@|@caset@
+@cat@|@gat@
+@catalan@|@català@
+@cave@|@cova@
+@celebrate@|@celebrar@
+@century@|@segle@
+@certificate@|@certificat@
+@chain@|@cadena@
+@chair@|@cadira@
+@chance@|@oportunitat@
+@change@|@cambiar@
+@cheap@|@barat@
+@cheese@|@formatge@
+@chemistry@|@quimica@
+@chess@|@escacs@
+@chest@|@pit@
+@chicken@|@pollastre@
+@child@|@nen@
+@chocolate@|@chocolata@
+@church@|@esglesia@
+@circus@|@circ@
+@cities@|@ciutats@
+@city@|@ciutat@
+@class@|@clase@
+@climate@|@clima@
+@clock@|@rellotge@
+@close@|@tancar@
+@closed@|@tancat@
+@cloud@|@núvol@
+@cloudy@|@nuvolat@
+@club@|@club@
+@coat@|@abric@
+@cocoa@|@cacau, cacauer@
+@coffe@|@café@
+@coffee@|@cafe@
+@coffee maker@|@cafetera@
+@cold@|@constipat, fred, gelat@
+@comb@|@peine@
+@combination@|@combinació@
+@come@|@venir, vindre@
+@communication@|@comunicació@
+@complete@|@completar@
+@composition@|@composició@
+@computer@|@ordinador@
+@confirm@|@confirmar@
+@control@|@control@
+@convenient@|@convenient@
+@cook@|@cuinar, cuiner@
+@cooker@|@cuina, cuiner@
+@copy@|@copiar@
+@corner@|@cantó@
+@countries@|@paisos@
+@country@|@pais@
+@countryside@|@camp@
+@cow@|@vedella@
+@cowboy@|@vaquer@
+@crazy@|@boig@
+@cross@|@creu, creuar@
+@crossing@|@creuant@
+@crossroad@|@encreuament de camins@
+@cry@|@plorar@
+@crying@|@plorant@
+@cup@|@taça@
+@cupboard@|@armari@
+@dance@|@ball, ballar@
+@danger@|@perill@
+@dangerous@|@perillos@
+@dark@|@fosc@
+@day@|@dia@
+@dead@|@mort@
+@dear@|@benvolgut@
+@december@|@decembre@
+@degree certificate@|@diploma@
+@dentist@|@dentista@
+@desk@|@taula@
+@dialogue@|@diàleg@
+@dictionary@|@diccionari@
+@die@|@morir@
+@difference@|@diferencia@
+@different@|@diferent@
+@difficult@|@dificil@
+@dinner@|@sopar@
+@dinning-room@|@mentjador@
+@dinosaur@|@dinosaure@
+@direcció@|@adress@
+@directions@|@instruccions@
+@disagree@|@no estar d'acord@
+@discotheque@|@discoteca@
+@discover@|@descobrir@
+@discovering@|@descobrint@
+@discovery@|@descobriment@
+@doctor@|@metge@
+@dog@|@gos@
+@dolphin@|@dofí@
+@door@|@porta@
+@down@|@baix, sota@
+@downstairs@|@el pis de sota@
+@drank@|@begut@
+@drawing pin@|@xinxeta@
+@dress@|@tratge de dona@
+@drink@|@beure@
+@dry@|@sec@
+@during@|@mentres, mentrestant@
+@dying@|@morint@
+@each@|@cadascú, cadascun@
+@ear@|@orella@
+@early@|@aviat, d'hora, pronte@
+@earth@|@la Terra@
+@easily@|@fàcilment@
+@easy@|@fàcil@
+@education@|@educació@
+@egg@|@ou@
+@eight@|@vuit, vuité@
+@eighteen@|@divuit@
+@eighth@|@vuité@
+@eighty@|@vuitanta@
+@elephant@|@elefant@
+@eleven@|@once@
+@elm@|@om@
+@emergency@|@emergencia@
+@empty@|@buit@
+@endless@|@sense fi@
+@engineer@|@enginyer@
+@English@|@anglés@
+@entries@|@entrades@
+@even@|@encara que@
+@evening@|@nit, tarda@
+@events@|@succesos@
+@every morning@|@tots els matins@
+@everybody@|@tothom, tots@
+@everything@|@tot@
+@everywhere@|@per tot arreu@
+@exam@|@examen, examinació@
+@example@|@exemple@
+@excellent@|@excellent@
+@exciting@|@emocionant@
+@exercise@|@exercisi@
+@exist@|@existir, ser@
+@expensive@|@car@
+@explorer@|@explorador@
+@export@|@exportar@
+@eye@|@ull@
+@factory@|@fabrica@
+@fail@|@fallar@
+@fall@|@caure@
+@false@|@fals@
+@fan@|@vano, ventall@
+@far@|@lluny@
+@far away@|@lluny@
+@farm@|@granja@
+@farmer@|@granjer@
+@fast@|@ràpid@
+@fast food@|@mentjar ràpid@
+@father@|@pare@
+@favourit@|@favorit@
+@fear@|@por@
+@february@|@febrer@
+@feel@|@sentir@
+@feet@|@peus@
+@field@|@camp@
+@fifteen@|@quinze@
+@fifth@|@cinqué@
+@fifty@|@cinquanta@
+@fight@|@lluitar@
+@file@|@arxiu@
+@fill up@|@omplir, plenar@
+@film@|@pelicula@
+@finally@|@finalment@
+@find@|@trobar@
+@fine@|@be@
+@finger@|@dit@
+@fire@|@foc@
+@first@|@primer@
+@fish@|@peix, pescar@
+@fit@|@estar en forma@
+@five@|@cinc@
+@flight@|@vol@
+@fly@|@volar@
+@flying saucer@|@ovni@
+@fog@|@boira@
+@folder@|@carpeta@
+@follow@|@seguir@
+@food@|@mentjar@
+@fool@|@boig, tonto@
+@foot@|@peu@
+@forest@|@bosc, bosc@
+@forget@|@oblidar@
+@forgot@|@oblidat@
+@fork@|@forquilla, tenedor@
+@form@|@formulari@
+@found@|@trobat@
+@four@|@quatre@
+@fourteen@|@catorze@
+@fourth@|@quart@
+@fourty@|@quaranta@
+@fox@|@llop@
+@freezer@|@congelador@
+@Friday@|@divendres@
+@fridge@|@nevera@
+@frog@|@granota@
+@fruit@|@fruta@
+@fruit juice@|@suc de frutes@
+@frying pan@|@paella@
+@funeral@|@funeral@
+@furniture@|@mobles@
+@galaxy@|@galaxia@
+@garage@|@garatge@
+@garlic@|@all@
+@gave@|@va donar@
+@geography@|@geografia@
+@ghost@|@fantasma@
+@giraffe@|@girafa@
+@girl@|@noia@
+@girlfriend@|@novia@
+@give@|@donar@
+@glass@|@cristall, got@
+@glasses@|@ulleres@
+@gloves@|@guants@
+@goat@|@cabra@
+@gold@|@or@
+@grammar@|@gramàtica@
+@grapes@|@raïm@
+@great@|@gran@
+@Greece@|@Grecia@
+@green@|@verd@
+@grey@|@gris@
+@groom@|@novio@
+@ground@|@terra@
+@group@|@grup@
+@guess@|@endevinar@
+@gun@|@pistola@
+@gym@|@gimnas@
+@haidresser@|@perruquer/a@
+@hair@|@monyo, pel@
+@hairbrush@|@cepillo@
+@half@|@mig@
+@hamburger@|@hamburgesa@
+@hand@|@ma@
+@happen@|@ocorrer, pasar@
+@happily@|@alegrement@
+@happiness@|@alegria, felicitat@
+@happy@|@content, feliç@
+@hard@|@dur@
+@hardly ever@|@quasi mai@
+@hat@|@barret@
+@hate@|@odi@
+@have@|@tenir@
+@have a shower@|@dutxarse@
+@head@|@cap@
+@headache@|@mal de cap@
+@heal@|@curar@
+@hear@|@escoltar@
+@heart@|@cor@
+@heavy@|@pesant@
+@height@|@altura@
+@helicopter@|@helicopter@
+@hello@|@hola@
+@help@|@ajuda@
+@hen@|@gallina@
+@her@|@ella@
+@here@|@ací, aqui@
+@herself@|@ella mateixa@
+@hide@|@amagarse@
+@high school@|@institut@
+@higway@|@autopista@
+@hill@|@pujol@
+@him@|@ell@
+@himself@|@ell mateix@
+@his@|@seu@
+@history@|@història@
+@hole@|@forat@
+@holiday@|@festa@
+@homework@|@deures@
+@honeymoon@|@lluna de mel@
+@horror@|@horror@
+@horse@|@cavall@
+@hot@|@calent@
+@hour@|@hora@
+@how@|@com@
+@hundred@|@cent@
+@hungry@|@famolenc@
+@hurt@|@fer mal@
+@I@|@jo@
+@icecream@|@gelat@
+@idea@|@idea@
+@if@|@si ...@
+@ill@|@malalt@
+@illness@|@enfermetat@
+@immediately@|@de seguida, inmediatament@
+@important@|@important@
+@in@|@en@
+@independence@|@independencia@
+@individual@|@individual@
+@information@|@informació@
+@ingredients@|@ingredients@
+@inside@|@dintre, dins@
+@instructions@|@instruccions@
+@instructor@|@instructor@
+@intelligent@|@intelligent@
+@interesting@|@interesant@
+@international@|@internacional@
+@into@|@dintre, dins@
+@invent@|@inventar@
+@inventing@|@inventant@
+@is@|@estar, ser@
+@it@|@aixó@
+@jacket@|@chaqueta@
+@january@|@gener@
+@jeans@|@vaquers@
+@job@|@feina, treball@
+@joke@|@acudit@
+@journey@|@viatge@
+@juice@|@suc@
+@july@|@juliol@
+@jump@|@saltar@
+@jumping@|@saltant@
+@june@|@juny@
+@just@|@just, només@
+@keep@|@mantindre@
+@key@|@clau@
+@keyboard@|@teclat@
+@kid@|@nen@
+@King@|@rei@
+@kitchen@|@cuina@
+@knee@|@genoll@
+@knife@|@ganivet@
+@lake@|@llac@
+@lamb@|@ovella@
+@lamp@|@lampara@
+@land@|@aterrar, terra@
+@language@|@llenguatge@
+@languages@|@llengues@
+@last@|@últim@
+@late@|@tard@
+@later@|@mes tard@
+@laundry@|@bugada@
+@leaf@|@fulla@
+@learner@|@aprenent@
+@leather@|@cuir@
+@leave@|@deixar, sortir@
+@left@|@esquerra@
+@leg@|@cama@
+@let@|@deixar@
+@letter@|@carta@
+@lettuce@|@enciam@
+@librarian@|@bibliotecari@
+@library@|@biblioteca@
+@life@|@vida@
+@light@|@llum@
+@light switch@|@interruptor@
+@lightning@|@llam@
+@like@|@agradar, pareixer@
+@line@|@linia@
+@lion@|@lleó@
+@lip@|@llabi@
+@lips@|@llavis@
+@liquid@|@liquid@
+@listen@|@escoltar@
+@live@|@viure@
+@long@|@llarg@
+@long for@|@enyorar@
+@look@|@mirar@
+@lottery@|@loteria@
+@loud@|@molt alt@
+@love@|@amor@
+@luck@|@sort@
+@luggage@|@equipatge@
+@lunch@|@esmorssar@
+@lung@|@pulmó@
+@made@|@fet@
+@madness@|@bogeria@
+@mail@|@correu@
+@main@|@principal@
+@make@|@fer@
+@man@|@home@
+@many@|@molts@
+@map@|@mapa, plànol@
+@march@|@març@
+@maths@|@matemàtiques@
+@may@|@maig, poder@
+@me@|@jo@
+@meal@|@mentjar@
+@mean@|@voler dir@
+@meaning@|@significat@
+@means@|@mitjà@
+@meat@|@carn@
+@mechanic@|@mecanic@
+@Mediterranean@|@Mediterrani@
+@medium@|@medi@
+@meet@|@coneixer@
+@meeting@|@reunió@
+@men@|@homes@
+@microwave@|@microones@
+@middle@|@mig@
+@milion@|@milió@
+@milk@|@llet@
+@mind your own business@|@no et posis on no et demanen@
+@mine@|@meu@
+@mineral@|@mineral@
+@mineral water@|@aigua mineral@
+@minute@|@minut@
+@mirror@|@mirall@
+@miss@|@errar, fer de menys@
+@mix@|@mesclar, remenar@
+@mixer@|@batedora@
+@model@|@model@
+@modem@|@mòdem@
+@modern@|@modern@
+@Monday@|@dilluns@
+@money@|@diners@
+@monitor@|@monitor@
+@monkey@|@mico, mono@
+@month@|@mes@
+@moon@|@lluna@
+@more@|@mes@
+@morning@|@matí@
+@mosquito@|@mosquit@
+@most@|@el que mes@
+@mother@|@mare@
+@motor@|@motor@
+@motorbike@|@moto@
+@mountain@|@muntanya@
+@mouse@|@ratolí@
+@mouth@|@boca@
+@museum@|@museu@
+@music@|@musica@
+@nail@|@ungla@
+@nature@|@natura@
+@near@|@prop@
+@neck@|@coll@
+@need@|@necesitar@
+@never@|@mai@
+@new@|@nou@
+@news@|@noticies@
+@nice@|@maco@
+@night@|@nit@
+@nine@|@nou@
+@nineteen@|@dinou@
+@ninety@|@noranta@
+@ninth@|@nové@
+@nobody@|@ningu@
+@noise@|@soroll@
+@nose@|@nas@
+@note@|@nota@
+@notebook@|@bloc de notes@
+@nothing@|@res@
+@notice board@|@tauler d'anuncis@
+@noun@|@nom@
+@november@|@novembre@
+@nurse@|@infermera@
+@oak@|@roure@
+@ocean@|@oceà@
+@o'clock@|@en punt@
+@october@|@octubre@
+@of@|@de@
+@of course@|@per supost@
+@office@|@oficina@
+@OHP@|@retroprojector@
+@oil@|@oli@
+@old@|@vell@
+@olive@|@oliva@
+@one@|@u@
+@onion@|@ceba@
+@only@|@només, sol, solament@
+@open@|@obert, obrir@
+@option@|@opció@
+@or@|@o@
+@orange@|@taronja@
+@our@|@nostre@
+@outside@|@fora@
+@oven@|@forn@
+@own@|@propi@
+@package@|@paquet@
+@paint@|@pintar@
+@painting@|@pintant, quadre@
+@panther@|@pantera@
+@paper@|@paper@
+@paper clip@|@clip@
+@parade@|@desfilada@
+@paragraph@|@paràgraf@
+@parents@|@pares@
+@park@|@parque@
+@parrot@|@lloro@
+@part@|@part@
+@participant@|@participant@
+@party@|@festa@
+@pass@|@aprobar@
+@passport@|@pasaport@
+@pasta@|@pasta@
+@path@|@camí@
+@pay@|@pagar@
+@pea@|@pésol@
+@pear@|@pera@
+@pen@|@boli, boligraf@
+@pencil@|@llapis@
+@penguin@|@pingüí@
+@people@|@gent@
+@perhaps@|@potser@
+@person@|@persona@
+@petrol@|@gasolina@
+@pharmacy@|@farmacia@
+@phisical education@|@gimnastica@
+@phone@|@teléfon@
+@photograph@|@foto, fotografia@
+@phrase@|@frase@
+@physics@|@fisica@
+@piece@|@tros@
+@piece of paper@|@paper@
+@pig@|@cerdo, porc@
+@pine@|@pi@
+@pineapple@|@pinya@
+@pink@|@rosa@
+@pint@|@pinta@
+@pizza@|@pizza@
+@place@|@lloc@
+@plane@|@avió@
+@plant@|@planta@
+@plate@|@plat@
+@play@|@jugar, obra de teatre@
+@please@|@donar plaer, per favor@
+@pleasure@|@plaer@
+@plural@|@plural@
+@point@|@punt@
+@policeman@|@policia@
+@politics@|@politica@
+@poor@|@pobre@
+@popular@|@popular@
+@population@|@població@
+@port@|@port@
+@positive@|@positiu@
+@post office@|@correus@
+@potato@|@quereguilla@
+@pound@|@lliura@
+@power@|@poder@
+@prehistoric@|@prehistoric@
+@preposition@|@preposició@
+@price@|@preu@
+@prize@|@premi@
+@procedure@|@procediment@
+@process@|@procés@
+@profession@|@professió@
+@project@|@projecte@
+@property@|@propietat@
+@proud@|@estar orgullos@
+@pub@|@pub@
+@pull@|@estirar@
+@pumpkin@|@carbassa@
+@puncture@|@burxada, punxada@
+@purest@|@el mes pur@
+@push@|@empenyer@
+@put@|@colocar, posar@
+@pyjamas@|@pijama@
+@pyramid@|@piràmide@
+@Queen@|@reina@
+@question@|@pregunta@
+@quiet@|@callat, tranquil@
+@quietly@|@silenciosament@
+@radio@|@radio, radio@
+@railway station@|@estació de trens@
+@rain@|@plutja@
+@rainbow@|@arc de sant martí@
+@raincoat@|@impermeable@
+@read@|@llegir@
+@really@|@de debó@
+@recipe@|@recepta@
+@red@|@roig@
+@redistribution@|@redistribució@
+@relax@|@relax@
+@remote@|@remot@
+@remote control@|@comandament a distancia@
+@rest@|@la resta@
+@restaurant@|@restaurant@
+@return@|@tornar@
+@rice@|@arros@
+@ride@|@montar@
+@right@|@dreta@
+@ring@|@anell, sonar@
+@rise@|@aixecarse@
+@river@|@riu@
+@road@|@carretera@
+@rock@|@roca@
+@rocket@|@coet@
+@room@|@habitació@
+@round@|@redó@
+@rubber@|@goma d'esborrar@
+@rule@|@regla@
+@ruler@|@regla@
+@run@|@correr@
+@runner@|@corredor@
+@running@|@corrent@
+@sad@|@trist@
+@sadness@|@tristor@
+@said@|@dit@
+@saint@|@sant@
+@salt@|@sal@
+@Saturday@|@dissabte@
+@sauce@|@salsa@
+@saucer@|@plat de taça@
+@save@|@guardar, salvar@
+@say@|@dir@
+@scaner@|@scànner@
+@scarf@|@bufanda@
+@school@|@colatge@
+@science@|@ciencia@
+@sea@|@mar@
+@season@|@estació del any@
+@seat@|@seient@
+@second@|@segon@
+@secretary@|@secretaria@
+@see@|@mirar, vore@
+@self@|@propi@
+@sell@|@vendre@
+@send@|@enviar@
+@sentence@|@frase@
+@september@|@setembre@
+@seven@|@set@
+@seventeen@|@diset@
+@seventh@|@seté@
+@seventy@|@setanta@
+@sex@|@sexe@
+@shadow@|@ombra@
+@shampoo@|@champú@
+@shark@|@tauró@
+@sheep@|@ovella@
+@shelf@|@estanteria@
+@shelter@|@refugi@
+@ship@|@vaixell@
+@shirt@|@camisa@
+@shoe@|@sabata@
+@shoe shop@|@sabateria@
+@shop@|@tenda@
+@short@|@curt@
+@shorts@|@pantalons curts@
+@shoulder@|@braç@
+@show@|@enseyar, mostrar@
+@shower@|@dutxa@
+@side@|@costat@
+@silly@|@tonto@
+@silver@|@plata@
+@simple@|@sencill@
+@singular@|@singular@
+@sink@|@pica@
+@sir@|@senyor@
+@sister@|@germana@
+@sit@|@sentarse@
+@six@|@sis@
+@sixht@|@sis, sisé@
+@sixteen@|@setze@
+@sixty@|@seixanta@
+@skin@|@pell@
+@skirt@|@falda@
+@slap@|@donar una bofetada@
+@sleep@|@dormir@
+@sleeping bag@|@sac de dormir@
+@slow@|@lent@
+@slowly@|@lentament@
+@small@|@petit@
+@smith@|@ferrer@
+@snake@|@serp@
+@snow@|@neu@
+@so@|@per tant@
+@soap@|@sabó@
+@social@|@social@
+@socks@|@calcetins@
+@sofa@|@sofà@
+@soft@|@moll@
+@solid@|@solid@
+@someone@|@algú@
+@something@|@algo, alguna cosa@
+@sometimes@|@de vegades@
+@son@|@fill@
+@song@|@cançó@
+@soon@|@pronte@
+@soul@|@anima@
+@space@|@espai@
+@spaghetti@|@espaguetis@
+@speak@|@parlar@
+@speaking@|@parlant@
+@special@|@especial@
+@speed@|@velocitat@
+@spice@|@especia@
+@spider@|@aranya@
+@spoon@|@cullera@
+@spring@|@primavera@
+@square@|@quadrat@
+@squid@|@calamar@
+@stadium@|@estadi@
+@stairs@|@escales@
+@stand@|@estar dret@
+@star@|@estrella@
+@stars@|@estrelles@
+@steal@|@robar@
+@stone@|@pedra@
+@story@|@història@
+@straight ahead@|@tot recte@
+@strawberry@|@fresa@
+@street@|@carrer@
+@student@|@estudiant@
+@study table@|@taula d'estudi@
+@suburb@|@suburbi@
+@sugar@|@sucre@
+@suit@|@tratge@
+@summer@|@estiu@
+@sun@|@sol@
+@Sunday@|@diumentge@
+@sunglasses@|@ulleres de sol@
+@sunny@|@solejat@
+@supermarket@|@supermercat@
+@sure@|@segur@
+@surprised@|@sorpres@
+@sweater@|@jersey@
+@swim@|@nadar@
+@swimmer@|@nadador@
+@switch off@|@desendollar@
+@switch on@|@endollar@
+@table@|@taula@
+@tail@|@cua@
+@take off@|@despegar@
+@talk@|@parlar@
+@tall@|@alt@
+@tap@|@aixeta@
+@tape@|@cinta@
+@tape recorder@|@grabadora@
+@taxi@|@taxi@
+@tea@|@te@
+@teacher@|@mestre@
+@teapot@|@tetera@
+@technical drawing@|@dibuix tecnic@
+@technology@|@tecnologia@
+@teeth@|@dents@
+@telegram@|@telegrama@
+@television@|@televisió@
+@tell@|@dir@
+@temperature@|@temperatura@
+@ten@|@deu@
+@tenth@|@decé@
+@term@|@termini@
+@than@|@que@
+@the@|@el, la@
+@their@|@seu@
+@them@|@ells, ells@
+@then@|@a llavorens, entonces@
+@there@|@allí@
+@thing@|@cosa@
+@third@|@tercer@
+@thirsty@|@tenir sed@
+@thirteen@|@tretze@
+@thirty@|@trenta@
+@this@|@aquest/a@
+@thousand@|@mil@
+@three@|@tres@
+@thumb@|@polse@
+@thunder@|@tro@
+@Thursday@|@dijous@
+@tie@|@corbata@
+@tiger@|@tigre@
+@tights@|@mitges@
+@time@|@temps@
+@timetable@|@horari@
+@tin@|@llauna@
+@tin can@|@llauna@
+@tip@|@consell@
+@tired@|@cansat@
+@to@|@a, cap a@
+@today@|@avui@
+@toe@|@dit gros del peu@
+@toilet@|@vater@
+@tomato@|@tomacat@
+@tomorrow@|@demà@
+@tonight@|@aquesta nit@
+@too@|@també@
+@tooth@|@dent@
+@toothpaste@|@pasta de dents@
+@tortoise@|@tortuga@
+@towel@|@estoballa, tovallola@
+@town@|@poble@
+@town hall@|@ajuntament@
+@traffic@|@trafic@
+@traffic lights@|@semafor@
+@train@|@tren@
+@trainers@|@bambes@
+@tree@|@arbre@
+@triangle@|@triangle@
+@trip@|@viatje@
+@trouble@|@preocupació, problema@
+@trousers@|@pantalons@
+@true@|@veritat@
+@T-shirt@|@camiseta@
+@Tuesday@|@dimarts@
+@TV@|@televisió@
+@twelve@|@dotze@
+@twenty@|@vint@
+@two@|@dos@
+@ufo@|@ovni@
+@ugly@|@lleig@
+@unbind@|@alliberar@
+@under@|@a sota@
+@underground@|@metro@
+@university@|@universitat@
+@unsafe@|@poc segur@
+@up@|@amunt, dalt@
+@upset@|@preocupat@
+@upstairs@|@el pis de dalt@
+@use@|@utilitzar@
+@useful@|@util@
+@useless@|@inutil@
+@usually@|@normalment@
+@vegetables@|@verdures@
+@verb@|@verb@
+@version@|@versió@
+@video recorder@|@video@
+@village@|@poble@
+@vinegar@|@vinagre@
+@waist@|@cintura@
+@wait@|@esperar@
+@waiter@|@cambrer@
+@wake up@|@llevarse@
+@walk@|@caminar@
+@wall@|@mur@
+@want@|@voler@
+@wardrobe@|@armari@
+@warm@|@calent@
+@warrior@|@guerrer@
+@washing machine@|@rentadora@
+@wastebin@|@papelera@
+@watch@|@rellotge de pulsera@
+@water@|@aigua@
+@way@|@camí@
+@wedding@|@boda@
+@Wednesday@|@dimecres@
+@week@|@setmana@
+@weekend@|@cap de setmana@
+@weight@|@pes@
+@welcome@|@benvingut@
+@wet@|@mullat@
+@whale@|@balena@
+@wheel@|@roda, volant@
+@when@|@quant@
+@where@|@on@
+@which@|@quin@
+@white@|@blanc@
+@who@|@qui@
+@why@|@per que@
+@widow@|@vidua@
+@wild@|@salvatge@
+@wildlife@|@vida salvatge@
+@win@|@guanyar@
+@wind@|@vent@
+@window@|@finestra@
+@windy@|@ventos@
+@wine@|@vi@
+@winter@|@hivern@
+@with@|@amb@
+@woman@|@dona@
+@women@|@dones@
+@wonderful@|@meravellos@
+@wondrous@|@fantàstic@
+@wood@|@bosc, llenya@
+@wool@|@llana@
+@word@|@paraula@
+@word processor@|@procesador de textos@
+@work@|@treball, treballar@
+@worker@|@treballador@
+@worry@|@preocupació@
+@worst@|@pitjor@
+@wrong@|@erroni@
+@year@|@any@
+@yellow@|@groc@
+@yesterday@|@ahir@
+@you@|@tu@
+@your@|@el teu@
+

@@ -1,0 +1,397 @@
+@English@|@Kashubian@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a bath@|@kapnica@
+@a boat@|@bôt@
+@a cup of coffee@|@kawã@
+@a cup of tea@|@arbatã@
+@a glass of apple juice@|@jabkòwi sok@
+@a glass of beer@|@piwò@
+@a glass of orange juice@|@apfelzynòwi sok@
+@a glass of red wine@|@czerzwioné wino@
+@a glass of white wine@|@biôlé wino@
+@a glass of wine@|@wino@
+@a shower@|@prisznic@
+@all@|@kòzdi@
+@and@|@ë@
+@animal@|@zwiérz@
+@April@|@lzëkwiôt@
+@are you in high-school?@|@të jes w òglowém liceum?@
+@art@|@kùnszt@
+@ash@|@pòpiól@
+@at@|@kòl, kòle, przë@
+@August@|@Zélnik@
+@back@|@plecë@
+@bad@|@lëchi, zli@
+@bark@|@kóra@
+@because@|@bò, ga, kò@
+@belly@|@brzëch, zot@
+@Berlin@|@Berlinë@
+@big@|@wiôldzi@
+@bird@|@ptôch@
+@black@|@czôrny@
+@blood@|@krew@
+@bone@|@gnôt@
+@breast@|@piers@
+@chemistry@|@chemijã@
+@child@|@dzeckò@
+@cloud@|@blóna@
+@cold@|@zëmny@
+@correct@|@bezzmilkòwi@
+@could you please repeat that?@|@czë mòzesz pòwtórzëc?, pòwtórzë!@
+@could you please speak slowly@|@czë mòzesz gadôc pòmalu?@
+@danish@|@dënskù@
+@day@|@dzén, dzén@
+@December@|@Gòdnik@
+@dirty@|@brëdny, nielusy@
+@Do you live here?@|@Mieszkósz tu?@
+@do you speak ..... ?@|@gôdósz gôdajã pò ... ?@
+@do you understand me?@|@rozmiôsz mje?@
+@do you understand?@|@rozmiôsz?@
+@dog@|@pies@
+@Don't touch me there!@|@Nie doteko mie tam!@
+@don't understand what you say@|@nje rozmjejã cëz gôdôsz@
+@dry@|@sëchi@
+@dull@|@tãpi@
+@dust@|@pich@
+@dutch@|@holandskù@
+@ear@|@ùchò@
+@earth@|@zemia@
+@economics@|@ekònomijã@
+@egg@|@jajco@
+@english@|@anielskù@
+@excuse me@|@przeprôszajã, przeprôszóm, wëbaczë@
+@eye@|@òkò@
+@far@|@daleczi@
+@fat@|@sadlo, tlëst@
+@father@|@òjc@
+@feather@|@pióro@
+@February@|@Gromicznik@
+@few@|@malo@
+@fingernail@|@nokc, paznokc@
+@fire@|@òdzin@
+@fish@|@rëba@
+@five@|@piãc@
+@flower@|@kwiat@
+@fog@|@dôka@
+@foot@|@stopa@
+@forest@|@las@
+@four@|@sztërë@
+@France@|@Francëskô@
+@french@|@francëskù@
+@Friday@|@piatk@
+@fruit@|@brzôd@
+@full@|@fùl@
+@german@|@miemieckù@
+@Germany@|@Miemieckô@
+@good@|@dobri@
+@good bye!@|@do ùzdrzeniô!, do ùzdrzonka!@
+@good evening!@|@dobri wieczórk!@
+@good morning!@|@dzén dobri!@
+@good night!@|@dobri noce@
+@grass@|@trôwa@
+@green@|@zelony@
+@guts@|@brzëchòwina, flaczi, watpia@
+@hair@|@wlosë@
+@hand@|@rãka@
+@have a good trip!@|@snôzi wanodzi!@
+@he@|@òn@
+@he can't breathe@|@òn nié mòze òddëchac@
+@he can't move@|@òn nié mòze sã rëszac@
+@he did not stop@|@òn sã nié zatrzimôl@
+@head@|@glowa@
+@heart@|@serce@
+@heavy@|@cãzczi@
+@hello@|@witce!, witéj!, witéjzhe!@
+@here@|@tu@
+@Here you are@|@Proszã@
+@horn@|@róg@
+@how@|@jak@
+@how do you pronounce that?@|@jak to wëmówic?@
+@how do you say that in ......@|@jak to rzec po...@
+@how do you write that?@|@jak to napjisac?@
+@How much is it per night?@|@Wiele to przi?dze za noc?@
+@how old are you?@|@jak stôri jes të?@
+@How old is he?@|@Jak stôri je?@
+@How old is she?@|@Jak stôra je?@
+@human being@|@czlowiek@
+@husband@|@chlop, slëbny@
+@i@|@jô@
+@i am .... years old@|@jô móm ... lat@
+@I am .......@|@Jô jem...@
+@I am a student@|@Jô jem sztudéra, Jô jem sztudérka@
+@I am a teacher@|@Jô jem szkólna, Jô jem szkólny@
+@i am afraid@|@bòjã sã@
+@I am an engineer@|@Jô jem inzeniéra@
+@i am angry@|@jem zli@
+@i am cold@|@zëmno mie@
+@i am free today@|@jem dzys wòlny@
+@I am from .....@|@Jô jem z...@
+@i am happy@|@jem szczestlëwi@
+@I am here alone@|@Jô jem tu sóm@
+@i am hungry@|@jô jem glodni@
+@i am in high-school@|@jô jem w òglowém liceum@
+@i am tired@|@jem zmãczony@
+@i am warm@|@gòraco mie@
+@i don't know@|@nje wiém@
+@i don't know how to say that@|@nje wiém jak to rzec@
+@i don't like that@|@jô tegò nie lëdajã@
+@I don't like this@|@jô tegò nie lëdajã@
+@i don't speak .....@|@nié gôdajã pò...@
+@i don't understand@|@nje rozmjejã@
+@i don't understand you@|@nje rozmjejã ce@
+@I have a car@|@Móm auto@
+@I have one child@|@Móm le ...@
+@I like hard rock@|@Lubiã hard rock@
+@i like it@|@to mie sã widzy@
+@I like jazz@|@Lubiã jazz@
+@I like techno@|@Lubiã techno@
+@I like to play chess@|@Lubiã grac w@
+@I like to play the guitar@|@Lubiã grac na...@
+@I like to play the piano@|@Lubiã grac na..pianino@
+@I like to sing@|@Lubiã spiéwac@
+@I like to surf the internet@|@Lubiã jinternet@
+@I like to travel@|@Lubiã pòdrózowac@
+@I like to watch TV@|@Lubiã òbzerac zdrzélnik@
+@I live close to ......@|@Mieszkóm kòl...@
+@I live far from ......@|@Mieszkóm dôlek òd...@
+@I live in London@|@Mieszkóm w Londonë@
+@I prefer@|@Wòlã@
+@i speak .....@|@gôdajã pò...@
+@i speak a little .....@|@gôdajã kask pò...@
+@i study ......@|@jô sztudérëjo...@
+@i study at ......@|@jô sztudérëjô na...@
+@i understand@|@rozmjejã@
+@i understand you@|@rozmjejã ce@
+@I work in a restaurant@|@Robiã w gòscyncu@
+@I work in a shop@|@Robiã w krómë@
+@ice@|@lód@
+@if@|@jezlë, zelë@
+@i'm fine@|@dobrze@
+@I'm looking for@|@Szëkôm..@
+@i'm not so well@|@nje za dobrze@
+@i'm ready@|@jem gòtów, jem gòtowô@
+@i'm sorry@|@przeprôszajã, przeprôszóm@
+@in@|@w@
+@informatics@|@infòrmatikã@
+@Is that close to ...... ?@|@Czë to kòl do...?@
+@Is that far from ....... ?@|@Czë to dôlek òd...?@
+@italian@|@italskù@
+@It's raining@|@Padô deszcz@
+@It's snowing@|@Padô sniég@
+@It's too short@|@krótczi@
+@January@|@Stëcznik@
+@July@|@Lëpinc@
+@June@|@Czerwinc@
+@Kashubian@|@kaszëbsczi jãzëk, kaszëbskò-slowinskô mòwa, pòmòrsczi jãzëk@
+@knee@|@kòlano@
+@lake@|@jezero@
+@languages@|@jãzëki@
+@Last month was ...@|@Ùszli miesac bël...@
+@law@|@prawò@
+@leaf@|@lëst@
+@left@|@lewi@
+@leg@|@noga@
+@linguistics@|@lingwistikã@
+@liver@|@watroba@
+@long@|@dludzi@
+@louse@|@wsza@
+@man@|@chlop@
+@many@|@wiele@
+@March@|@Strumiannik@
+@mathematics@|@matematikã@
+@May@|@Môj@
+@meat@|@miãso@
+@medicine@|@medicënã@
+@Monday@|@pòniedzôlk@
+@moon@|@miesadz@
+@mother@|@mëma@
+@mountain@|@góra@
+@mouth@|@flaba, gãba, munia@
+@My name is .....@|@Jô sã zwiã…, Móm na miono…, Nazéwóm sã...@
+@near@|@blëzny, blisczi, krótczi@
+@neck@|@szëja@
+@new@|@nowi@
+@night@|@noc@
+@no@|@nié@
+@norwegian@|@norweskù@
+@nose@|@cnik, nos@
+@not@|@ni, nie, nié@
+@November@|@Lëstopadnik@
+@October@|@Rujan@
+@old@|@stôri@
+@one@|@jeden@
+@one daughter@|@sëna@
+@one son@|@jednégò@
+@other@|@jinszi, jiny@
+@Paris@|@Parizù@
+@perhaps@|@mòzhe@
+@physics@|@fizykã@
+@please@|@Proszã@
+@polish@|@pòlskù@
+@portuguese@|@portugalskù@
+@rain@|@deszcz@
+@red@|@czerwòny@
+@right@|@prawi@
+@river@|@rzéka@
+@road@|@darga, droga@
+@root@|@kòrzén, kùrdzel@
+@rope@|@lina, sznur@
+@rotten@|@zgniti@
+@round@|@òkrãgli@
+@Russia@|@Rëskô@
+@russian@|@ruskù@
+@salt@|@sól@
+@sand@|@piôsk@
+@Saturday@|@sobòta@
+@sea@|@mòrze@
+@seed@|@semiã, semiónkò@
+@September@|@Séwnik@
+@sharp@|@òstri@
+@she's (very) pretty@|@òna je (baro) snôlô@
+@short@|@krótczi@
+@skin@|@skóra@
+@sky@|@niebò@
+@small@|@môli@
+@smoke@|@dim@
+@smooth@|@glôdczi, równy@
+@snake@|@waz@
+@snow@|@sniég@
+@some@|@czile@
+@Spain@|@Szpanskô@
+@spanish@|@szpanskù@
+@star@|@gwiôzda@
+@stick@|@czij@
+@stone@|@kam@
+@straight@|@prosti@
+@sun@|@slunce@
+@Sunday@|@niedzela@
+@swedish@|@szwédzkù@
+@tail@|@ògón, trëpa@
+@Thank you@|@Dzãczi, Dzãka, Dzãkùjã@
+@that@|@tam to@
+@the United Kingdom@|@Wiôlgô Britanijô@
+@there@|@tam@
+@there's a fire!@|@palë sã@
+@they@|@òni@
+@thick@|@gãsti@
+@thin@|@cenczi@
+@this@|@to@
+@This is my daughter@|@Òna je moja córka@
+@This is my father@|@Òn je mój tatk (òjc)@
+@This is my friend@|@Òn je mój drëch, Òna je moja drëchna@
+@This is my mother@|@Òna je moja nënka@
+@This is my son@|@Òn je mój syn@
+@This is my wife@|@Òna je moja bialka@
+@three@|@trzë@
+@Thursday@|@czwiôrtk@
+@to bite@|@grëzc@
+@to blow@|@dic@
+@to breathe@|@òddichac@
+@to burn@|@pôlëc@
+@to come@|@przëchôdac@
+@to count@|@rechòwac@
+@to cut@|@cac, cyc, rznac, sekac@
+@to die@|@ùmierac@
+@to dig@|@kòpac, rëc@
+@to drink@|@pic@
+@to eat@|@jesc@
+@to fall@|@pôdac@
+@to fear@|@bòjec sã@
+@to fight@|@biôtkòwac@
+@to float@|@plëwac@
+@to flow@|@plënac@
+@to fly@|@lôtac@
+@to freeze@|@miarznac@
+@to give@|@dôwac@
+@to hear@|@czëc@
+@to hit@|@ùderzëc@
+@to hold@|@trzëmac@
+@to hunt@|@jachtowac@
+@to kill@|@zabijac@
+@to know@|@wiedzec@
+@to laugh@|@smiac sã@
+@to lie@|@lezec@
+@to live@|@zëc@
+@to play@|@grac@
+@to pull@|@cygnac@
+@to push@|@pchac@
+@to rub@|@trzéc@
+@to say@|@gôdac@
+@to scratch@|@drapac, skrobac@
+@to see@|@widzec@
+@to sew@|@szëc@
+@to sing@|@spiéwac@
+@to sit@|@sadac@
+@to sleep@|@spac@
+@to smell@|@cknac@
+@to spit@|@plëwac@
+@to split@|@rozdzelac, rozparlãczac@
+@to squeeze@|@scëskac@
+@to stab@|@kolnac, pchnac, seknac@
+@to stand@|@wstawac@
+@to suck@|@cëcac@
+@to swell@|@pùchnac@
+@to swim@|@plëwac@
+@to think@|@dëdac, mëslëc@
+@to throw@|@cëskac@
+@to tie@|@rzeszëc@
+@to turn@|@skrãcac@
+@to vomit@|@blékac, wonôtowac, wracac@
+@to walk@|@jic@
+@to wash@|@mëc@
+@to wipe@|@wëcerac@
+@Tomorrow will be .....@|@Witro badze...@
+@tongue@|@jãzëk@
+@tooth@|@zab@
+@tree@|@drzéwiã@
+@Tuesday@|@wtórk@
+@two@|@dwa@
+@warm@|@cepli@
+@water@|@wòda@
+@we@|@ma, më@
+@we like it here@|@nóm sã baro widzy, to nama@
+@Wednesday@|@strzoda@
+@welcome!@|@witôj! (sing.), witôjtaz! (plur.)@
+@wet@|@mòkri@
+@what@|@co@
+@What a lovely day!@|@Dzysô je baro fejn dzen@
+@What awful weather!@|@Dzysô je lëché wiodro@
+@What city do you live in?@|@Dze mieszkôsz?@
+@what did you say?@|@co jes rzek?@
+@What do you do for a living?@|@Jaka môsz robòtã?@
+@what do you study?@|@co sztudérëjôsz?@
+@What is the name of that bird?@|@Jak sã nazéwô nen ptôch?@
+@What is the name of that build@|@Jak sã nazéwô...@
+@What is the name of that river@|@Jak sã nazéwô... rzéka?@
+@What is the name of that tree?@|@Jak sã nazéwô ... drzéwò?@
+@What is your name?@|@Jak sã nazéwôsz?, Jakù? sã zwiész?@
+@What time is it?@|@Jaczi mómë czas?, Jakô (terô) je gòdzëna?@
+@What's the name of that animal@|@Jak sã nazéwô...@
+@What's the name of that flower@|@Jak sã nazéwô nen kwiôt?@
+@when@|@czedë@
+@where@|@dze@
+@Where are you from?@|@Skadka(z) te jes?@
+@Where do you work?@|@Gdzez të robisz?@
+@Where is my room?@|@Gdze je moja izba?@
+@Where is the airport?@|@Dze je latawiskò?@
+@Where is the bar?@|@Gdze je bar?@
+@Where is the beach?@|@Gdze je sztrand?@
+@Where is the bus stop?@|@Dze je autobùsów przestónk?@
+@Where is the railway station?@|@Dze je banowô stacëjô?@
+@white@|@biôli@
+@who@|@chto@
+@wide@|@szeroczi@
+@wife@|@bialka, slëbnô@
+@wind@|@wiater@
+@wing@|@skrzidlo@
+@with@|@z@
+@woman@|@bialka@
+@worm@|@robôk@
+@year@|@rok@
+@yellow@|@zôlti@
+@yes@|@jo@
+@you@|@të, wë@
+@you (plural)@|@wa, wë@
+@You're welcome@|@Baro proszã@
+

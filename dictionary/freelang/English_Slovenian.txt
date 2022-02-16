@@ -1,0 +1,5149 @@
+@English@|@Slovenian@
+@Author name@|@Stan Sraka@
+@Font@|@Arial\12\Arial\12@
+@(eg. 5 ur hoje - 5 hours of walking)@|@hoja@
+@(high voltage)@|@napetost (visoka napetost)@
+@(infinitive)@|@-či, -ti@
+@(to..) pardon (to..)@|@oprostiti@
+@(to..) question (to..)@|@vprašati@
+@(to...) disconnect (to...)@|@izklopiti@
+@.. not service station)@|@garaža@
+@0@|@nič@
+@10@|@deset@
+@100@|@sto@
+@1000@|@tisoč@
+@1000000@|@milijon@
+@11@|@enajst@
+@12@|@dvanajst@
+@13@|@trinajst@
+@14@|@štirinajst@
+@15@|@petnajst@
+@16@|@šestnajst@
+@17@|@sedemnajst@
+@18@|@osemnajst@
+@19@|@devetnajst@
+@2@|@dva@
+@20@|@dvajset@
+@21@|@enaindvajset@
+@3@|@tri@
+@3 prong connector@|@3 polni konektor@
+@3 speed automatic@|@tristopenjski avtomatik@
+@30@|@trideset@
+@4@|@štiri@
+@4 cylinder inline@|@4 valji v vrsti@
+@40@|@štirideset@
+@5@|@pet@
+@5 speed transmission@|@petstopenjski menjalnik@
+@50@|@petdeset@
+@6@|@šest@
+@60@|@šestdeset@
+@7@|@sedem@
+@70@|@sedemdeset@
+@8@|@osem@
+@9@|@devet@
+@90@|@devetdeset@
+@a bargain@|@ugoden@
+@a great distance@|@daleč@
+@a little@|@malo@
+@a lot@|@mnogo, precej, veliko@
+@a man's..@|@moški@
+@a take@|@povzetek@
+@abdomin@|@trebuh@
+@aboard@|@na krovu@
+@abominable@|@ogaben@
+@abonnement@|@abonma@
+@about@|@o, okoli, približno@
+@above@|@zgoraj@
+@above all (things)@|@predvsem@
+@abroad@|@tujina@
+@abrubt@|@strm@
+@ac current@|@izmenični tok@
+@acceleration@|@pospešek@
+@accent@|@naglas, poudarek@
+@accept (to..)@|@sprejeti@
+@accessibility@|@dostop@
+@accessible@|@dostopen@
+@accessories@|@pripomočki@
+@accessory@|@pripomoček@
+@accident@|@nesreča@
+@accomodation@|@prenočišče@
+@accomodation (s)@|@nastanitev@
+@accompaniment (music)@|@spremljava@
+@accord@|@dogovor@
+@accordance@|@soglasje@
+@accordance ...in ..with@|@skladen@
+@accordion@|@harmonika@
+@accountant@|@knjigovodja@
+@accountant (f)@|@računovodkinja, računovodkinja@
+@accountant (m)@|@računovodja@
+@accuracy@|@natančnost@
+@accusative@|@tožilnik@
+@achievement@|@dosežek@
+@acquirement@|@pridobitev@
+@across from@|@nasproti@
+@act@|@dejanje@
+@act (to...)@|@igrati@
+@active matrix@|@aktivna matrika@
+@activity@|@aktivnost, dejanje, dejavnost@
+@actor@|@igralec@
+@actrice@|@igralka@
+@adapt (v)@|@prilagoditi, prilagoditi se@
+@adaptable@|@prilagodljiv@
+@add@|@dodati@
+@add up to (v)@|@znašati@
+@addition@|@dodatek@
+@additional@|@dodaten@
+@address@|@naslov@
+@address book@|@imenik@
+@address book (pc)@|@adresar@
+@address in the familiar form (to..)@|@tikati@
+@addressing using the polite form of 'you'@|@vikati@
+@adequately@|@primerno@
+@adjust (v)@|@prilagoditi, uravnavati@
+@adjustable dash lighting@|@nastav. osvet armaturne plošče@
+@administration@|@administracija, uprava@
+@admit@|@priznati@
+@adopt (v)@|@privzeti@
+@adult@|@odrasel@
+@advance party (army)@|@predhodnica@
+@advanced@|@napreden@
+@advancement@|@napredek@
+@advent@|@nastanek@
+@advertisement@|@oglas, razpis, reklama@
+@advice@|@nasvet@
+@advise (to..)@|@svetovati@
+@advocate@|@advokat, odvetnik@
+@after@|@po, za@
+@after (colloq-lju)@|@pol@
+@afternoon@|@popoldan@
+@again@|@še, spet, spet, znova, zopet@
+@against@|@proti, zoper@
+@agency@|@agencija, organ@
+@agile@|@okreten@
+@agreable@|@prijeten@
+@agree with (to..)@|@prijati, strinjati se@
+@agreement@|@dogovor, sporazum@
+@agression@|@agresija@
+@ahead@|@naprej@
+@aid@|@pomoč@
+@air@|@napev, zrak@
+@air brake@|@pnevmatična zavora@
+@air filter@|@zračni filter@
+@aircraft@|@letalo@
+@aire@|@vzduh@
+@airplane@|@letalo@
+@airport@|@aerodrom, letališče@
+@alarm clock@|@budilka@
+@Albania@|@Albanija@
+@albeit@|@naj bo...@
+@albeit for his own pleasure@|@naj bo za lastno zabavo@
+@alcohol@|@alkohol@
+@alcoholic@|@alkoholik@
+@alive@|@živ@
+@all@|@cel, ves, vse@
+@all (f)@|@vsa@
+@all at once@|@nenadoma@
+@all week@|@ves teden@
+@allow (to..)@|@dovoliti@
+@allow (v)@|@dopuščati@
+@allow me to introduce..(pol.frm)@|@naj vam predstavim@
+@allow me to introduce.....@|@naj ti predstavim@
+@allowance@|@žepnina@
+@allowed ( or to be..)@|@smeti@
+@allows@|@dopušča@
+@almost@|@skoraj@
+@alone@|@sam@
+@alphabet@|@abeceda@
+@alpine skiing@|@alpsko smučanje@
+@already@|@že@
+@also@|@tudi@
+@altar boy@|@ministrant@
+@altar girl@|@ministrantka@
+@alternator@|@alternator@
+@although@|@čeprav@
+@always@|@vedno, zmeraj@
+@America@|@Amerika@
+@American (female)@|@Američanka@
+@American (male)@|@Američan@
+@amicable@|@prijazen@
+@amount@|@vsota@
+@amount to (v)@|@znašati, znesti@
+@ampere@|@amper@
+@amplification@|@ozvočenje@
+@amplify (v)@|@ojačiti, ozvočiti@
+@amplitude modulation@|@amplitudna modulacija@
+@amuse (v)@|@razvedriti@
+@and@|@in, pa@
+@anew@|@spet, znova, zopet@
+@anger@|@jeza@
+@angle@|@kot@
+@angled@|@poševno@
+@animal@|@žival@
+@animal droppings@|@živalski iztrebki@
+@animal park@|@živalski vrt@
+@Ankara@|@Ankara@
+@ankle@|@gleženj@
+@announcement@|@obvestilo@
+@annual@|@letni@
+@annuals@|@enoletnice@
+@anode (elec)@|@anoda (elek)@
+@answer@|@odgovor@
+@answer (to..)@|@odgovoriti@
+@answer (v)@|@ustrezati@
+@ant@|@mravlja@
+@ant hill@|@mravljišče@
+@antagonism@|@nasprotovanje@
+@antenna@|@antena@
+@anti glare mirror@|@ogledalo s priklop. prot blešč@
+@antibiotic@|@antibiotik@
+@any@|@poljuben@
+@anything@|@karkoli@
+@anyway@|@vsekakor@
+@anyways@|@vseeno@
+@apartment@|@apartma, stanovanje@
+@apartment building@|@blok@
+@ape@|@opica@
+@ape (coloq)@|@afna@
+@apologize (to..)@|@opravičiti se@
+@apparant@|@navidezen@
+@appeal@|@pritožba@
+@appearance@|@nastop, videz@
+@appease (v)@|@nasititi@
+@appetizers@|@predjed@
+@applaude (to..)@|@ploskati@
+@apple@|@jabolko@
+@apple tree@|@jablana@
+@application@|@obrazec, prošnja@
+@appraisal@|@ocena@
+@approach@|@dostop@
+@approach (v)@|@približati se@
+@approaching (is) (v)@|@bližati se@
+@appropriate@|@pristojen@
+@approval@|@odobritev@
+@approved@|@opravičen@
+@approximately@|@približno@
+@apricot@|@marelica@
+@april@|@april@
+@arbitrary@|@poljuben@
+@arch (bow)@|@razpon@
+@architect@|@arhitekt@
+@area@|@področje@
+@area (the..)@|@okolica@
+@argument@|@utemeljitev@
+@ark@|@barka@
+@arm@|@roka@
+@arm pit@|@pazduha@
+@armchair@|@naslanjač@
+@armoir@|@omara@
+@army@|@vojaški, vojska@
+@army term@|@vojaški rok@
+@aromatic@|@dišeč@
+@around@|@okoli@
+@arrival@|@prihod@
+@arrive (to..)@|@prispeti, priti@
+@arriving (to be..)@|@prihajati@
+@art@|@umetnost@
+@arthritis@|@artritis@
+@article@|@člen@
+@artificial@|@umeten@
+@artist@|@umetnik@
+@artist (painter)@|@slikar@
+@as@|@kakor, kot@
+@as a result...@|@torej@
+@as a rule@|@praviloma@
+@as well@|@tudi@
+@ascend (to...)@|@iti gori@
+@ascend (v)@|@vzpeti@
+@ascent@|@vzpon@
+@ascertain (v)@|@ugotoviti@
+@ash tray@|@pepelnik@
+@ashes@|@pepel@
+@ask@|@vprašati@
+@ask a question (v)@|@zastaviti vprašanje@
+@ask for (to..)@|@prositi@
+@asparagus@|@beluš@
+@asphalt@|@asfalt@
+@aspirin@|@aspirin@
+@ass@|@osel@
+@ass (vulg)@|@rit@
+@assemble (to..)@|@sestaviti@
+@assembling@|@sestavljanje@
+@assembly area (factory)@|@montaža@
+@assembly line@|@tekoči trak@
+@assert@|@uveljaviti@
+@assess (v)@|@oceniti, ugotoviti@
+@assessment@|@ocena, ocenjevanje@
+@assign to (v)@|@dodeliti@
+@assigned to@|@razporejen@
+@assistance@|@pomoč@
+@assistant (f)@|@asistentka@
+@assistant (m)@|@asistent@
+@association@|@pridruževanje@
+@assume (v)@|@privzeti@
+@assumption of duties@|@nastop@
+@assure v.@|@zagotoviti@
+@astrology@|@astrologija@
+@astronaut@|@astronavt@
+@at@|@ob, pri@
+@at least@|@najmanj@
+@at midnight@|@opolnoči@
+@at noon@|@opoldne@
+@at that time@|@takrat@
+@at the bottom of (eg. mountain)@|@vznožje@
+@at the embassy@|@na veleposlaništvu@
+@at the helm@|@biti pri krmilu@
+@at the same time@|@hkrati, istočasno@
+@at the train station@|@na železniški postaji@
+@atelier@|@delavnica@
+@Athens@|@Atena@
+@atmosphere@|@vzduh, vzdušje@
+@attache case@|@aktovka@
+@attached@|@priložen@
+@attachment@|@priloga@
+@attack@|@napad@
+@attacker@|@napadalec@
+@attend (school)@|@obiskovati@
+@attention!@|@pozor!@
+@attentive@|@pazljiv@
+@attic@|@podstrešje@
+@attract (v)@|@privlačiti@
+@attractive@|@privlačen@
+@attribute@|@lastnost@
+@au revoir@|@na svidenje, nasvidenje@
+@aubergine@|@melancana@
+@audience@|@občinstvo, publika@
+@audio@|@avdio@
+@august@|@avgust@
+@aunt@|@teta@
+@Australia@|@Avstralija@
+@Austria@|@Avstrija@
+@Austrian (f)@|@Avstrijka@
+@Austrian (m)@|@Avstrijec@
+@author (f)@|@avtorica@
+@author (m)@|@avtor@
+@authority@|@organ@
+@authorization@|@dovoljenje@
+@authorize@|@dovoliti@
+@authorized@|@pooblaščen@
+@autobody@|@karoserija@
+@automatic@|@avtomatičen@
+@automobile@|@avto@
+@autoroute@|@avtocesta@
+@autumn@|@jesen@
+@avantageous@|@ugoden@
+@avenue@|@ulica@
+@avoid (v)@|@izmikati se@
+@avoid v.@|@izogibati@
+@awake@|@buden@
+@aware of (to be..)@|@vedeti@
+@awkward position or state@|@zadrega@
+@awning@|@nadstrešek@
+@ax (e)@|@sekira@
+@baby@|@dojenček@
+@back@|@hrbet, nazaj@
+@back rest (car)@|@naslonjalo (avto)@
+@backbone@|@hrbtenica@
+@backdrop@|@ozadje@
+@background@|@ozadje@
+@backpack@|@nahrbnik, nahrbtnik@
+@bacon@|@slanina@
+@bad@|@slab, zlo@
+@bag@|@torba, vreča@
+@bag (little..)@|@vrečka@
+@baggage@|@prtljaga@
+@bagpipe@|@duda@
+@bagpiper@|@dudar@
+@bake (to..)@|@peči, speči@
+@bake shop@|@pekarna@
+@baked@|@pečen@
+@baked goods@|@pecivo@
+@bakery@|@pekarna@
+@balcony@|@balkon@
+@ball@|@krogla, žoga@
+@ball joint@|@končnik, kroglasti sklep, kroglični spoj@
+@ball of yarn or wool@|@klobčič volne@
+@banana@|@banana@
+@band@|@trak@
+@band (music)@|@godba@
+@bang@|@treska@
+@bank@|@banka@
+@bank (of a river)@|@obrežje@
+@bank account@|@bančni račun@
+@banknote@|@bankovec@
+@banner@|@zastava@
+@bar@|@bar@
+@bar (steel)@|@drog@
+@barber@|@brivec@
+@bark (v)@|@lajati@
+@barn@|@skedenj@
+@barracks@|@vojaščina@
+@barrier@|@pregraja, prepreka@
+@bars (music)@|@črtovje (glazba)@
+@base@|@baza, podlaga@
+@basement@|@klet@
+@basic@|@osnoven@
+@basis@|@podlaga@
+@basket@|@jerbas, koš, košara@
+@basketball@|@košarka@
+@basoon@|@fagot@
+@bass@|@kontrabas@
+@bath tub@|@kad@
+@bathroom@|@kopalnica@
+@baton@|@palica@
+@battery (car@|@akumulator@
+@battery (electric)@|@baterija@
+@battery pole@|@polova sponka@
+@battle@|@bitka@
+@be (to be)@|@biti@
+@be able to (to..)@|@uspeti@
+@be against@|@nasprotovati@
+@be angry with someone (v)@|@hudovati se@
+@be capable of (v)@|@premorati, zmorati@
+@be fragrant@|@dišati@
+@be it@|@bodisi@
+@be late for (to..)@|@zamuditi@
+@be painful@|@boleti@
+@be pushing off (v)@|@odrivati@
+@be trained for (v)@|@usposobiti se@
+@be valid (v)@|@veljati@
+@be worth (v)@|@veljati@
+@beach@|@plaža@
+@beam@|@gred@
+@beam (construction)@|@tram@
+@beam (of light)@|@žar@
+@bean@|@fižol@
+@bean pole@|@fižolovka, prekla@
+@bear@|@medved@
+@beard@|@brada@
+@beat (music)@|@ritem (glasba), takt (glasba)@
+@beat (police)@|@območje@
+@beat (to..)@|@biti, tolči@
+@beat around@|@otepati se@
+@beat around the bush (v)@|@izmikati se@
+@beat up (v)@|@pretepsti@
+@beaten up@|@pretepen@
+@beautiful@|@krasen, lepo@
+@beauty@|@lepota@
+@because@|@ker, zato, zato ker@
+@because of@|@zaradi@
+@become (to..)@|@postati@
+@become light (v)@|@bledeti@
+@become pale (v)@|@bledeti@
+@bed@|@postelja@
+@bedroom@|@spalnica@
+@bee farm@|@čebelnjak@
+@beef@|@govedina, goveji@
+@beer@|@pivo@
+@beet@|@pesa@
+@beetle@|@hrošč@
+@before@|@pred, preden, prej, prejšnji@
+@begin (to..)@|@začeti@
+@beginner@|@začetnik@
+@beginning@|@začetek@
+@begins (he/she/it )@|@začne@
+@begonia@|@begonija@
+@behind@|@za, zadaj, zadnjica@
+@being still@|@mirujoč@
+@Belgium@|@Belgija@
+@belief@|@vera@
+@believe (to..)@|@verjeti@
+@bell (small)@|@zvonec, zvonček@
+@bell hop@|@postrešček@
+@belly@|@trebuh@
+@belly button@|@popek@
+@belt@|@pas@
+@bench@|@klop@
+@bend down (v)@|@Skloniti se@
+@beneath@|@pod@
+@benefit@|@dajatev@
+@Berlin@|@Berlin@
+@beside@|@ob, poleg, zraven@
+@best (the..)@|@najbolje, najboljši@
+@best before@|@uporabno do@
+@best before date@|@rok trajanja@
+@bet@|@stava@
+@better@|@bolje@
+@better than@|@bolje kot@
+@between@|@med@
+@between (in..)@|@vmesen@
+@bi-annuals@|@dvoletnice@
+@bicycle@|@kolo@
+@bidder@|@ponudnik@
+@big@|@velik@
+@bike@|@kolo@
+@bill@|@račun@
+@bird@|@ptica, ptič@
+@bird egg laying area@|@ptičja valilnica@
+@bird feed@|@piča@
+@bird feeder@|@ptičja krmilnica@
+@birth@|@izvor, poreklo, rojstvo@
+@birthday@|@rojstni dan@
+@biscuit@|@keks@
+@bite (insect)@|@pičiti@
+@bitter@|@grenak@
+@bitumen@|@asfalt@
+@black@|@črn@
+@blackberry@|@robidnica@
+@blackbird@|@kos@
+@blackboard@|@tabla@
+@blade@|@bilka@
+@blade (razor)@|@klina@
+@blade of grass@|@bilka@
+@blank page-sample@|@predloga@
+@blanket@|@deka@
+@bleat (v)@|@meketati@
+@bleeding@|@krvav@
+@blind@|@slep@
+@blind man@|@slepec@
+@blindworm@|@slepec@
+@blinking@|@utripajoč@
+@block (bldg)@|@blok@
+@block (eng)@|@blok@
+@block letters (printing)@|@tiskane črke@
+@block or prop up (v)@|@zastaviti@
+@blood@|@kri@
+@blood donor@|@krvodajalec@
+@bloody@|@krvav@
+@blossom@|@cvesti, cvet@
+@blossom vb.@|@cveteti@
+@blouse@|@bluza@
+@blow@|@odarec@
+@blow (to..)@|@pihati@
+@blow (v)@|@zaveti@
+@blue@|@moder, sinje@
+@blueberries@|@borovnice@
+@board@|@deska@
+@boat@|@akumulator, barka, ladja@
+@boat (oceanliner)@|@brod@
+@body@|@telo@
+@body (car)@|@karoserija@
+@body side moulding@|@bočne varovalne letve@
+@bodz@|@trup@
+@boletus (mushroom)@|@goban@
+@bolt (to lock door)@|@zapah@
+@bolt out (v)@|@zbežati@
+@bone@|@kost@
+@bone frame@|@okostje@
+@book@|@knjiga@
+@bookstore@|@knjigarna@
+@boot@|@škorenj@
+@boots@|@škornji@
+@border@|@meja@
+@boring@|@dolgočasen@
+@borrow (to...)@|@izposoditi si@
+@boss@|@delodajalec, gospodar, šef@
+@bossom@|@prsi@
+@both@|@oba@
+@bottle@|@steklenica@
+@bottom@|@dno, rit, spodaj@
+@bottom plate (pc)@|@podstavek@
+@bouquet of flowers@|@šopek@
+@boutique@|@prodajalna@
+@bow@|@lok@
+@box@|@škatla, skrinjica@
+@boxcar@|@vagon@
+@boy@|@fant@
+@boyfriend@|@fant@
+@bra@|@modrček@
+@bracing@|@vezi@
+@brake caliper@|@zavorna čeljust@
+@brake fluid reservoir@|@rezervoar zavorne tekočine@
+@brake lines@|@zavorne cevi@
+@brake pads@|@zaviralniki, zavorne ploščice@
+@brake pedal@|@zavorni pedal@
+@brake piston@|@zavorni valj@
+@brake shoes@|@zavorni čeveljci@
+@braking system@|@zavorni sistem@
+@bran@|@otrobi@
+@branch@|@enota, veja@
+@brass@|@medenina@
+@brass type@|@medeninast@
+@brassier@|@modrček@
+@Bratislava@|@Bratislava@
+@bread@|@kruh@
+@break@|@zavora@
+@break (to..)@|@zlomiti@
+@break (v)@|@počiti@
+@break a rule or law (v)@|@kršiti@
+@break in half (v)@|@prelomiti@
+@break off (v)@|@odkrušiti@
+@break through (v)@|@prebijati@
+@break up (v)@|@prekiniti@
+@breakfast@|@zajtrk@
+@breakfast (to be having..)@|@zajtrkovati@
+@breaks@|@zavore@
+@breast@|@dojka, prsi@
+@breast feed - to ...@|@dojiti@
+@bridge@|@kobilica (kitara), most, most@
+@briefcase@|@aktovka@
+@bring (to..)@|@prinesti@
+@bring (v)@|@dovajati@
+@bring in (v)@|@uvesti@
+@bring to one's attention (to..)@|@obvestiti@
+@bringing in (v)@|@uvajati@
+@brisk@|@okreten@
+@Britain@|@Britanija@
+@broadcast@|@oddaja@
+@broccoli@|@brokoli@
+@brochure@|@brošura@
+@broken (to pieces)@|@razbit@
+@broken down@|@pokvarjen@
+@bronze@|@bron, bronast@
+@brother@|@brat@
+@brother-in-law@|@svak@
+@brown@|@rjav@
+@brush@|@čopič, krtača, ščet@
+@brush (little)@|@ščetka@
+@brush (v)@|@skrtačiti@
+@Brussels@|@Bruselj@
+@Bucarest@|@Bukarešta@
+@buck (deer)@|@srnjak@
+@buck (young)@|@srnjaček@
+@bucket seats@|@školjkasti sedeži@
+@Budapest@|@Budimpešta@
+@buffet@|@bife@
+@bugle@|@rog@
+@build (to..)@|@graditi@
+@building@|@poslopje, sestavljanje, zgradba@
+@Bulgaria@|@Bolgarija@
+@bull@|@bik@
+@bullet@|@krogla, naboj@
+@bum@|@zadnjica@
+@bump@|@grba@
+@bumper@|@odbijač@
+@bun@|@krof, žemlja@
+@bunch themselves@|@košatiti se@
+@bureau@|@biro@
+@bureau of....@|@pisarna@
+@burn@|@opeklina@
+@burn (to..)@|@zažgati@
+@burnt smell@|@smod@
+@burst (v)@|@počiti@
+@bus@|@avtobus@
+@bus or train stop@|@postaja@
+@bus stop@|@avtobusna postaja, postajališče@
+@bush@|@grm@
+@bushes@|@grmovje@
+@bushings@|@bužirke, distančniki@
+@business card@|@vizitka@
+@bust@|@kip@
+@busy@|@zaposlen, zaseden@
+@but@|@a, ampak, toda@
+@butcher's shop@|@mesnica@
+@butter@|@maslo@
+@butterfly@|@metulj@
+@button@|@gumb@
+@button or snap@|@zaponka@
+@buy (to..)@|@kupiti@
+@buying (to be..)@|@kupovati@
+@buzz (v)@|@brencati, brenčati@
+@buzzard@|@kanja@
+@by@|@po@
+@by air@|@letalski@
+@by day@|@podnevi@
+@by heart@|@na pamet@
+@by law@|@zakonodaja@
+@by night@|@ponoč@
+@by plane@|@letalski@
+@by the way@|@mimogrede@
+@bye@|@ciao@
+@cabbage@|@zelje@
+@cable entry@|@dovod@
+@cablecar@|@žičnica@
+@café@|@kavarna@
+@café (lieu)@|@bar@
+@cake@|@torta@
+@cake shop@|@slaščičarna@
+@calculate (v)@|@računati@
+@calculation@|@račun@
+@calculator (colloq)@|@digitronček@
+@calendar@|@koledar@
+@calf@|@tele, teliček@
+@caliper@|@čeljust@
+@call (to..)@|@poklicati@
+@call (to...)@|@klicati@
+@calling card@|@vizitka@
+@calm@|@tih@
+@camel etc.)@|@jahati@
+@camera@|@aparat@
+@camera (pix)@|@fotoaparat@
+@camp@|@kamp@
+@camping@|@kamping@
+@can@|@konzerva, piksna, škatla@
+@can (v)@|@znati@
+@Canada@|@Kanada@
+@cancel (to..)@|@odpovedati@
+@cancel (v)@|@preklicati@
+@cancellation@|@odpoved@
+@cancer@|@rak@
+@candle@|@sveča@
+@candle (little )@|@svečka@
+@candy@|@bonbon@
+@canned food@|@konzerva@
+@canon (warfare etc.)@|@top@
+@canvas@|@platen, platno@
+@cap@|@čepica, kapa@
+@capable of doing@|@lahko@
+@capital letters@|@velike črke@
+@capricorn@|@kozorog@
+@car@|@avto@
+@caravan@|@prikolica@
+@carburant@|@gorivo@
+@carcase@|@trup@
+@card reader@|@čitalec kartic@
+@care@|@skrb@
+@care for (to..)@|@skrbeti@
+@care for (v)@|@poskrbeti@
+@carefully@|@pazljivo@
+@carriage@|@voz@
+@carrier frquency@|@nosilna frekvenca@
+@carrots@|@korenje@
+@carrry (to..)@|@nositi@
+@carry (to..)@|@nesti@
+@carry out (v)@|@izvajati@
+@carrying case@|@kovček@
+@carrying out (v)@|@izvrševati, opravljati@
+@carrying out of@|@opravljanje@
+@cars@|@dren@
+@cart@|@voz@
+@cartoon@|@risanka@
+@case@|@primer@
+@case (pillow..)@|@prevleka@
+@cash@|@blagajna@
+@cash money@|@gotovina@
+@cash register@|@blagajna@
+@cashier@|@blagajnik@
+@cassette@|@kaseta@
+@cast (for an injury)@|@mavec@
+@castele owner@|@graščak@
+@castle@|@grad@
+@cat@|@muca@
+@cat (f)@|@mačka@
+@cat (m)@|@maček@
+@catch (to..)@|@loviti, ujeti, uloviti@
+@catch fish (to..)@|@loviti ribe@
+@caterpillar@|@gosenica@
+@cathode (elec)@|@katoda (elek)@
+@caught@|@ujet@
+@Cauliflower@|@cvetača@
+@cause@|@razlog, vzrok@
+@cause of death@|@vzrok smrti@
+@caution!@|@pozor!@
+@cave@|@jama@
+@cave people@|@jamski ljudje@
+@cd rom drive@|@cd pogon@
+@cd rom drive (pc)@|@optična enota@
+@ceiling@|@strop@
+@celebrated@|@slaven, z bogato preteklostjo, zelo znan in cenjen@
+@celebration@|@praznovanje@
+@celesta@|@celesta@
+@cell phone@|@mobilni telefon, mobitel@
+@cell phone (colloq)@|@regla (pogov.)@
+@cemetary@|@pokopališče@
+@center@|@center, središče@
+@center circle@|@središčni krog@
+@centifugal force@|@centifugalna sila@
+@central (heating)@|@centralna@
+@century@|@stoletje, vek@
+@cereal@|@žitarica@
+@ceremony@|@obred@
+@cerials@|@žito@
+@certain@|@prepričan@
+@certainly@|@gotovo@
+@certificate@|@potrdilo@
+@cessation@|@prenehanje, ustavitev@
+@chain@|@veriga@
+@chair@|@stol@
+@chairlift@|@sedežnica@
+@challenge@|@izziv@
+@championship@|@prvenstvo@
+@chance@|@priložnost@
+@chandelier@|@lestenec@
+@change@|@sprememba@
+@change (money)@|@drobiž@
+@change (to..)@|@spremeniti, zamenjati@
+@change a child's diaper (to..)@|@previti@
+@change colour (v)@|@obarvati@
+@changing@|@spreminjanje@
+@channel@|@kanal, uzvod@
+@channel (TV)@|@program@
+@character (pc)@|@znak (PC)@
+@character set@|@nabor znakov@
+@characteristic@|@lastnost, značilnost@
+@charcoal@|@oglje@
+@charge (v)@|@naelektriti@
+@chase (v)@|@gnati@
+@chassis@|@ogrodje, šasija@
+@château@|@grad@
+@cheap@|@poceni, skop, škrt@
+@cheaper@|@ceneje@
+@check in@|@prijava@
+@check out@|@odjava@
+@checkup@|@pregled@
+@cheese@|@sir@
+@chello (music)@|@čelo (glasba)@
+@cheque@|@ček@
+@cherry@|@češnja@
+@chest@|@prsi, skrinjica@
+@chestnut@|@kostanj@
+@chew up@|@odžirati@
+@chewing gums@|@žvečilni gumi@
+@chickadee@|@sinica, sinička@
+@chicken@|@kokoš, piščanec@
+@chicken (colloq)@|@piška@
+@chicken coop@|@kurnik@
+@chief@|@poglavar@
+@child@|@otrok@
+@child seat restraint (tether hook)@|@varovalo za prevoz otroka@
+@children@|@otroci@
+@chimney@|@dimnik@
+@chin@|@brada@
+@chipset@|@čipovje@
+@chocolate@|@čokolada@
+@chocolate for drinking@|@kakav@
+@choice@|@izbira, izbor@
+@choke (elec)@|@dušilka (elek)@
+@choose (to...)@|@izbrati@
+@chord@|@akord@
+@chosen@|@izbran@
+@christmas@|@božič@
+@church@|@cerkev@
+@chute@|@jašek@
+@cicada@|@škržat@
+@cigar@|@cigara@
+@cigarette@|@cigareta@
+@cigarette (colloq)@|@čik@
+@cigarettes@|@cigarete@
+@cinders@|@pepel@
+@cinéma@|@kino@
+@circle@|@krog@
+@circling in flight (v)@|@obletavati@
+@circuit@|@tokokrog@
+@circuit board@|@vezje@
+@circumstances@|@okoliščine, razmere@
+@cite (v)@|@navesti@
+@cities@|@mesta@
+@citizen@|@državljan@
+@citizenship@|@državljanstvo@
+@citronelle@|@roženkraut@
+@city@|@mesto@
+@claim@|@zahtevek@
+@claimant@|@zavarovanec@
+@clap (to..)@|@ploskati@
+@clarinet@|@klarinet@
+@class@|@razred, razred, stan@
+@classroom@|@učilnica@
+@clean@|@čist@
+@clean (to..)@|@umiti@
+@clean oneself (to..)@|@umiti se@
+@cleanliness@|@čistoba@
+@clear@|@jasen, svetel, vedro@
+@clear (v)@|@izbrisati, narediti jasen..čisto, odpraviti@
+@clearance@|@razprodaja@
+@clef@|@ključ (glasba)@
+@click on (v)@|@klikniti@
+@climb (v)@|@plezati@
+@climbing geranium@|@bršljanka@
+@clip@|@sponka@
+@cloakroom@|@garderoba@
+@clock@|@ura@
+@close@|@blizu@
+@close (to..)@|@zaključiti, zapreti@
+@closed@|@zaprt, zaprto@
+@closed circuit@|@sklenjen krog@
+@cloth@|@blago@
+@cloth seat upholstery@|@sedežne prevleke iz blaga@
+@clothes@|@oblačila, oblačilo, obleka@
+@clothes (to be washed)@|@perilo@
+@clothes or shoe size@|@številka@
+@clothes pin@|@klinček@
+@cloud@|@oblak@
+@cloudiness@|@oblačnost@
+@cloudy@|@oblačen, oblačno@
+@clue@|@namig@
+@clutch@|@sklopka@
+@coal@|@oglje, premog@
+@coast@|@obala@
+@coastline@|@obala@
+@coat@|@sloj, sukno@
+@coat-of arms@|@grb@
+@coco@|@kakav@
+@coffee shop@|@kavarna@
+@cofffee (drink)@|@kava@
+@coil@|@tuljava@
+@coil springs@|@vijačne vzmeti@
+@coin@|@kovanec@
+@cold@|@hladen@
+@cold (in general)@|@mrzel@
+@cold (temp.)@|@mraz@
+@collar@|@ovratnik@
+@collect (to..)@|@nabirati@
+@collector (elec)@|@kolektor@
+@color@|@barva@
+@colour@|@barva, barvati@
+@colour (v)@|@obarvati@
+@colt@|@žrebe@
+@comb@|@češelj, glavnik@
+@come (to..)@|@priti@
+@come about (to..)@|@zgoditi se@
+@come back@|@priti nazaj@
+@come back (to..)@|@priti nazaj@
+@come to (v)@|@znašati@
+@comedian@|@humorist@
+@comes in affect@|@nastati@
+@comes to be@|@nastati@
+@comfort (v)@|@tolažiti@
+@comical@|@smešen@
+@coming (to be..)@|@prihajati@
+@comma@|@vejica@
+@command@|@naročilo@
+@command (army)@|@povelje@
+@command line (pc)@|@ukazni poziv@
+@commander@|@poveljnik@
+@commanding bridge@|@poveljniški most@
+@commence (to..)@|@začeti@
+@commerce dept.@|@trgovina@
+@commercial (rad/TV)@|@reklama@
+@commission@|@komisija@
+@commit to memory@|@zapomniti si@
+@commitment@|@obveznost@
+@commune@|@občina@
+@communications@|@komunikacije@
+@compact construction@|@kompaktna zgradba@
+@company@|@firma, podjetje@
+@compas@|@kompas@
+@compas (geometrical)@|@šestilo@
+@compete (v)@|@tekmovati@
+@competition@|@tekma, tekmovanje@
+@complaint@|@pritožba@
+@complete@|@cel@
+@complete v.@|@izpolniti@
+@complexity@|@zaguljenost, zapletenost@
+@compose (v)@|@sestaviti, skladati@
+@composer@|@skladatelj@
+@composition@|@kompozicija, prosti spis, skladba@
+@compote@|@kompot@
+@comprehension@|@obseg@
+@compress (v)@|@kompresirati, zgostiti@
+@compulsory@|@obvezen@
+@computer@|@računalnik@
+@concerned@|@zaskrbljen@
+@concert@|@koncert@
+@conclude (to..)@|@zaključiti@
+@conclusion@|@sklep, zaključek@
+@concordance@|@soglasje@
+@condition@|@pogoj@
+@conditionally released@|@pogojno odpuščen@
+@condo@|@apartma@
+@conduct (v)@|@dovajati@
+@conductor (elec)@|@dovod (elek)@
+@conductor (music)@|@dirigent@
+@conduit@|@dovod@
+@cone@|@stožec@
+@cone shaped@|@stožčasti@
+@confectionary@|@slaščičarna@
+@confirm@|@potrditi@
+@confirmation@|@potrdilo@
+@confiscate (v)@|@odvzeti@
+@confortable@|@udoben@
+@congradulate@|@čestitati@
+@connect (v)@|@povezati, priklopiti@
+@connected@|@spojen@
+@connection@|@povezava, priklop, zveza@
+@connectors@|@priključki@
+@conscript@|@vojaški obveznik@
+@consensus@|@soglasje@
+@consequence@|@posledica@
+@consientious objection@|@ugovor vesti@
+@consist of (v)@|@obsegati@
+@consolation@|@tolažba@
+@console (in center)@|@sredniška konzola@
+@console (v)@|@tolažiti@
+@constantly@|@stalno@
+@construct (to..)@|@graditi@
+@construction@|@konštukcija, sestavljanje@
+@consulate@|@konzulat@
+@contageous@|@nalezljiv@
+@contemporary@|@sodoben@
+@content@|@vesel@
+@continuation@|@nadaljevanje@
+@continue serving@|@doslužiti@
+@contrabass@|@kontrabas@
+@contradict (v)@|@nasprotovati@
+@contrary@|@nasproten@
+@control@|@krmilo, nadzor@
+@control grid@|@krmilna mrežica@
+@control panel (pc)@|@nadzorna pločša@
+@controller@|@kontrolnik@
+@conversation@|@pogovor@
+@conversations@|@pogovori@
+@conversion@|@pretvorba@
+@convert (v)@|@pretvarjati, pretvoriti@
+@convertor@|@pretvornik@
+@convertor tube@|@mešalna elektronka@
+@convey (v)@|@dovajati@
+@conveyor belt@|@tekoči trak@
+@convinced@|@prepričan@
+@cook (f)@|@kuharica@
+@cook (m)@|@kuhar@
+@cook (to..)@|@kuhati@
+@cooked@|@kuhan@
+@cookies@|@pecivo@
+@cooling fan (pc)@|@ventilator@
+@Copenhagen@|@Kopenagen@
+@copper@|@baker@
+@copy@|@kopiraj@
+@copybook@|@zvezek@
+@coq@|@petelin@
+@cord@|@vrv@
+@core@|@jedro@
+@cork@|@zamašek@
+@corn@|@koruza@
+@corn (calice)@|@kurje oko@
+@cornet@|@kornet@
+@correct (to..)@|@popraviti@
+@correction@|@popravek@
+@correspond (v)@|@ustrezati@
+@correspondence@|@dopis@
+@corridor@|@hodnik@
+@corrupt@|@pokvarjen@
+@cost@|@cena@
+@cotton@|@bombaž@
+@couch@|@kavč@
+@cough@|@kašelj@
+@cough (to...)@|@kašljati@
+@could@|@lahko@
+@Could I.. ?@|@kaj lahko... ?@
+@counciling@|@nasvet@
+@count (royalty)@|@grof@
+@count (to..)@|@šteti@
+@counted as@|@šteje se@
+@country@|@dežela, dežela, država@
+@couple@|@par@
+@course@|@pouk, tečaj@
+@course (meal)@|@obrok@
+@court@|@dvorišče, sodišče@
+@cousin (f)@|@sestrična@
+@cousin (m)@|@bratranec@
+@cover@|@ovoj, pokrov@
+@coverage of costs@|@pokritje stroškov@
+@covered@|@pokrit@
+@covering@|@prevleka@
+@cow@|@krava@
+@crab@|@rak@
+@crack (v)@|@počiti@
+@cracker@|@keks@
+@cracking (v) (start cracking)@|@zapokljati@
+@cracklings@|@ocvirek@
+@crane@|@žerjav@
+@crash@|@treska@
+@crawl (v)@|@plaziti@
+@crazy@|@nor, zmešan@
+@cream@|@smetana@
+@credit card@|@kreditna kartica@
+@crepe@|@palačinka@
+@crew@|@posadka@
+@crime story@|@kriminalka@
+@criminal@|@kriminalec@
+@criminal act@|@kaznivo dejanje@
+@cringe (v)@|@prihuliti se@
+@crocus (wild)@|@podlesek@
+@croissant@|@rogljiček@
+@crop@|@letina@
+@crops@|@pridelki@
+@cross@|@križ@
+@cross strut@|@prečni opornik@
+@crossing@|@križišče, prečkanje@
+@crosswalk@|@prehod za pešce@
+@crossword puzzel@|@križanka@
+@croud@|@gneča@
+@crow@|@vrana@
+@crowd@|@dren@
+@cruise control@|@regul. in omejevalnik hitrosti@
+@crumb@|@drobtina@
+@cry (to...)@|@jokati@
+@crypt@|@grobnica@
+@ctrl@|@krmilni znak@
+@cub@|@mladič@
+@cucumber@|@kumara@
+@cuisine@|@kuhinja@
+@cultivate (to..)@|@obdelovati@
+@culture@|@kultura@
+@cup@|@skodelica@
+@curb@|@škarpa@
+@curb to curb turning circle@|@obračalni krog, rajdni krog@
+@cure@|@zdravljenje@
+@curious@|@radoveden@
+@currency (convertable)@|@deviza@
+@current@|@tok@
+@curtain@|@zavesa@
+@cushion (coloq)@|@pošter@
+@custom@|@navada@
+@custom (culture)@|@običaj@
+@customs@|@carinarnica@
+@cut@|@izreži@
+@cut (to..)@|@rezati@
+@cut grass (to..)@|@kositi@
+@cut in (conver.)(v)@|@vpasti@
+@cutaway@|@prerez@
+@cutlery@|@jedilni pribor@
+@cutlet@|@zrezek@
+@cycle (to..)@|@kolesariti@
+@cylinder@|@cilinder@
+@Czech Republic@|@Češka@
+@dailey@|@dneven@
+@damage@|@poškodba, škoda@
+@damage (v)@|@poškodovati@
+@damp@|@vlažen@
+@dance@|@ples@
+@dance (v)@|@plesati@
+@danger@|@nevarnost@
+@dangerous@|@nevaren@
+@dark@|@temen@
+@dark red wine@|@črnina@
+@dash@|@pomišljaj@
+@dash (car)@|@armatura (avto)@
+@date@|@datum, sestanek, zmenek@
+@daughter@|@hčerka, hči@
+@daughter-in-law@|@snaha@
+@day@|@dan@
+@dc adapter@|@usmernik@
+@dc current@|@enosmerni tok@
+@dead@|@mrtev@
+@dead-bolt@|@zapah@
+@deadly@|@smrten@
+@deaf@|@gluh@
+@dear@|@drag@
+@death@|@smrt@
+@death certificate@|@potrdilo o smrti@
+@debate@|@debata@
+@debt@|@dolg@
+@debutant@|@začetnik@
+@decay (v)@|@prepereti@
+@decayed@|@preperel@
+@december@|@december@
+@decide (v)@|@odločiti se@
+@decision@|@odlocitev@
+@deck (ship)@|@paluba@
+@declare@|@izjaviti, prijaviti@
+@declare (to..)@|@prijaviti@
+@decrease@|@vpad@
+@decrease (to..)@|@zmanjšati@
+@dedicate (v)@|@posvečati@
+@deep@|@globok@
+@deepened@|@podolgovat@
+@deer@|@srna@
+@default setting@|@privzeta nastavitev@
+@default to (v)@|@privzeti@
+@defeat@|@poraz@
+@defeat (v)@|@premagati@
+@defence@|@obramba@
+@defence studies@|@obramboslovje@
+@defend (to...)@|@braniti@
+@defender@|@branilec@
+@defer (v)@|@odlagati@
+@deficiency@|@primankljaj@
+@deficit@|@primankljaj@
+@define v.@|@določiti@
+@definition@|@opredelitev@
+@defy@|@izziv@
+@degradation@|@poslabšanje@
+@delay@|@zamuda@
+@delay (v)@|@odlagati@
+@delayable@|@odložljiv@
+@delete@|@počisti@
+@delete (to...)@|@izbrisati@
+@delicatessen@|@delikatesa@
+@delivery@|@dostava@
+@demand@|@zahteva@
+@demand (v)@|@zahtevati@
+@demanded@|@zahtevano@
+@demodulator@|@usmernik@
+@demonstrate (to...)@|@izkazati@
+@Denmark@|@Danska@
+@dense@|@gost@
+@dentist@|@zobozdravnik@
+@deny@|@zanikati@
+@depart from (to...)@|@izhajati@
+@department@|@oddelek@
+@department head@|@vodja@
+@department store@|@veleblagovnica@
+@departure@|@odhod@
+@depend on (v)@|@zaviseti@
+@deposit@|@polog, usedlina@
+@depth@|@globina@
+@derivation@|@izvor@
+@derive@|@izvajati@
+@derived...is@|@izvira se@
+@derriere@|@rit, zadnjica@
+@descend (to...)@|@iti doli@
+@describe (v)@|@opisati@
+@description@|@opis@
+@desert@|@pušcava, sladica@
+@designate@|@določiti@
+@desire@|@želim, želja@
+@desire (to...)@|@hoteti@
+@desktop (pc term)@|@namizje@
+@destination@|@cilj@
+@destiny@|@usoda@
+@destroy@|@uničiti@
+@destroy (v)@|@rušiti@
+@detail (v)@|@navesti@
+@details@|@podrobnosti@
+@detector@|@usmernik@
+@detector tube@|@usmerjevalka@
+@deterioration@|@poslabšanje@
+@determination@|@opredelitev@
+@determine (to..)@|@ugotoviti@
+@determine v.@|@določiti@
+@development@|@napredek, razvoj@
+@deviation@|@odstopanje@
+@device@|@naprava@
+@devil@|@hudič@
+@devistate@|@uničiti@
+@devote@|@posvečati@
+@devotedness@|@zvestoba@
+@diabled person@|@invalid@
+@diagram@|@šema, shema@
+@dialect@|@narečje@
+@dialogue@|@pogovor@
+@dialogues@|@pogovori@
+@diarrhea@|@driska@
+@diary@|@dnevnik@
+@dictionary@|@slovar@
+@did you understand? (polite)@|@ste razumeli?@
+@diesel@|@dizel@
+@diet@|@dijeta, prehrana@
+@differ (v)@|@razlikovati se@
+@difference@|@razlika@
+@different@|@drugačen, različen@
+@differential@|@diferencial@
+@differentiate@|@razlikovati@
+@differently@|@drugače@
+@difficult@|@težek@
+@difficulty@|@zadržek@
+@dig (to..)@|@kopati@
+@digestion@|@prebava@
+@diliberation@|@premislek@
+@dimenions@|@mere@
+@dining room@|@jedilnica@
+@dinner@|@večerja@
+@dinner roll@|@žemlja@
+@diode@|@dioda@
+@dipstick (car)@|@merilna palica@
+@direct@|@neposreden@
+@direction@|@napotek, smer@
+@direction to@|@napotitev@
+@directly@|@direktno, naravnost, neposredno@
+@director@|@direktor@
+@directory@|@direktorij@
+@dirty@|@umazan@
+@disable (v)@|@onesposobiti@
+@disappear (v)@|@izginiti@
+@disappointed@|@razočaran@
+@disbursement@|@izplačevanje@
+@disbursements@|@izplacila@
+@disc@|@plošča@
+@discharge (v) (elec)@|@izprazniti (elek)@
+@discharge ones magnetic energy (v)@|@razmagnetiti se@
+@discipline (uni)@|@smer@
+@discount@|@popust@
+@discriminate against@|@razlikovati@
+@discuss (to..)@|@govoriti@
+@discuss (v)@|@obravnavati@
+@discussion@|@razgovor@
+@disease@|@bolezen@
+@dish@|@krožnik, posoda@
+@dish (culinary)@|@jed@
+@dishes@|@posoda@
+@dishwasher (mach.)@|@pomivalni stroj@
+@disk@|@koluta@
+@disk brakes@|@diskaste zavore@
+@disk drive@|@disketna enota, disketnik@
+@disorder@|@nered@
+@disorderly@|@neurejen@
+@dispair@|@obup@
+@dispair (v)@|@obupati@
+@display@|@monitor, zaslon@
+@display window/case@|@izložba@
+@displaying (tv or pc)@|@prikazovati@
+@dissapate (to..)@|@tratiti@
+@distance@|@daljava, razdalje@
+@distasteful@|@ogaben@
+@distinguish@|@razlikovati@
+@distributor (car)@|@razdelilnik@
+@ditch@|@jarek@
+@divide (v)@|@deliti, razdeliti@
+@divided by@|@delejeno z@
+@division@|@oddelek@
+@division (millitary)@|@rod@
+@divison@|@pregraja@
+@do (to..)@|@narediti, storiti@
+@do speak to me using the polite form@|@ne me vikati@
+@do you... (in asking a question)@|@ali@
+@do you? (colloq)@|@a@
+@doctor (man)@|@zdravnik@
+@doctor (woman)@|@zdravnica@
+@document@|@dokument@
+@doe@|@srna@
+@dog@|@pes@
+@dog house@|@pasja uta, uta@
+@doggy@|@kužek, psiček@
+@dollar@|@dolar@
+@domain@|@področje@
+@dome light (car)@|@notranja luč (avto)@
+@domesticated rabbit@|@kunec@
+@domicile@|@dom@
+@dominating (v)@|@prevladovati@
+@done@|@storjen@
+@donkey@|@osel@
+@donut@|@krof@
+@door@|@duri, vrata@
+@door handle (car)@|@kljuka (avto)@
+@door knob@|@kljuka@
+@doorman@|@vratar@
+@doormouse@|@polh@
+@double@|@dvojen@
+@double bass@|@kontrabas@
+@doubly@|@dvakrat@
+@doubt@|@dvom@
+@doubt (to)@|@dvomiti@
+@dough@|@testo@
+@dove@|@golob@
+@down@|@dol@
+@downpipe@|@žleb@
+@downwards@|@dol, navzdol@
+@drag@|@poteg@
+@drag (v)@|@povleči@
+@draw (eg. attention or looks)@|@pritegniti@
+@draw (to..)@|@risati@
+@draw (v)@|@žrebati@
+@draw out@|@cuzati@
+@drawer@|@predal, predal@
+@drawn up (contract)@|@sklenjeno@
+@dreams@|@sanje@
+@dress (to..)@|@obleči@
+@dress oneself (to..)@|@obleči se@
+@dresser@|@omara@
+@dressing@|@ovoj@
+@dribble@|@preigravanje@
+@drifter@|@potepuh@
+@drifting@|@zanašanje@
+@drill@|@vaje@
+@drill (to..)@|@vrtati@
+@drill sargent@|@rekrutni podčastnik@
+@drink@|@pijača@
+@drink (to..)@|@piti@
+@drive (to..)@|@peljati, voziti@
+@drive (v)@|@gnati@
+@drive gear@|@zobnik zaganjač@
+@driver@|@šofer@
+@driver's licence@|@vozniško dovoljenje@
+@driving rod@|@pogonska gred@
+@drop@|@kaplja, kapljica@
+@drop (v)@|@spustiti dol@
+@droppings@|@iztrebki@
+@drought@|@suša@
+@drug addict@|@narkoman@
+@drug store@|@lekarna@
+@drugs@|@mamila@
+@drum breaks@|@bobnaste zavore@
+@drunk@|@pijanec@
+@dry@|@suh@
+@dry (to..)@|@posušiti@
+@dual@|@dvojina@
+@dual exhaust@|@dvojna izpušna cev@
+@Dublin@|@Dublin@
+@duck@|@raca@
+@dumb@|@nem@
+@dumb person@|@neumnež@
+@dummy@|@neumnež@
+@dump (v)@|@stresti@
+@duration@|@preostali čas, trajanje@
+@duration (music)@|@dolžina tona@
+@during@|@med@
+@dusk@|@mrak@
+@dust@|@prah@
+@duty@|@carina@
+@dvd player@|@dvd predvajalnik@
+@dvd recorder@|@dvd rekorder, dvd snemalnik@
+@dwarf@|@pritlikavec@
+@dwelling@|@bivališce@
+@dynamic@|@dinamika@
+@dynamical@|@dinamičnost@
+@dynamo@|@dinamo@
+@eagle@|@orel@
+@ear@|@uhelj, uho@
+@earing@|@uhan@
+@earlier@|@prej, prejšnji@
+@early@|@zgodaj@
+@earth (planet or soil)@|@zemlja@
+@earthworm@|@deževnik@
+@ease (v)@|@lajšati@
+@east@|@vzhod@
+@Easter@|@Velika noč@
+@easy@|@lahek@
+@eat (to...)@|@jesti@
+@eavestrough@|@žleb@
+@economic@|@gospodarsko@
+@economical@|@varčen@
+@economy@|@gospodarstvo@
+@edge@|@rob@
+@edible@|@užiten@
+@edit@|@urejanje@
+@edit (nespaper) (v)@|@urejevati@
+@editing@|@urejanje@
+@editing program (PC)@|@urejevalnik (pc)@
+@editor@|@urejevalnik@
+@editor (pc)@|@urejevalnik (pc)@
+@education@|@izobrazba, šolanje@
+@educational@|@izobraževalen@
+@effect@|@vpliv@
+@efficiency@|@učinkovitost@
+@efficient@|@učinkovit@
+@effort@|@napor, trud@
+@egg@|@jajce@
+@egg white@|@beljak@
+@eggplant@|@jajčevec, melancana@
+@eight@|@osem@
+@eighteen@|@osemnajst@
+@eighteenth@|@osemnajsti@
+@eighth@|@osmi@
+@eighty 80@|@osemdeset@
+@Eire@|@Irska@
+@either...or@|@bodisi@
+@elastic@|@prožen@
+@elbow@|@komolec@
+@elder tree@|@bezeg@
+@elect. board@|@kartica@
+@electric@|@električen@
+@electrically controlled mirrors@|@električ. nastavljiva ogledal@
+@electrician@|@električar@
+@electricity@|@elektrika@
+@electrify (v)@|@naelektriti@
+@electrolytic capacitor@|@elektrolitski kondenzator@
+@electronic fuel injection@|@elektro. central. vbrizgavanje@
+@element@|@element@
+@elementary@|@osnoven@
+@elevator@|@dvigalo@
+@eleven@|@enajst@
+@eleventh@|@enajsti@
+@ellipse@|@elipsa@
+@embarassment@|@zadrega@
+@embassy@|@veleposlaništvo@
+@emblem@|@grb@
+@embody@|@izraziti, utelesiti@
+@embrasse (to..)@|@poljubiti@
+@emergency@|@urgenca@
+@emigrants@|@izseljenci@
+@emitter@|@emitor@
+@emotion@|@čustvo@
+@emphasis@|@poudarek@
+@employ (to..)@|@zaposliti@
+@employed@|@zaposlen@
+@employer@|@delodajalec@
+@employment@|@služba, zaposlitev@
+@emptiness@|@praznina@
+@empty@|@prazen@
+@empty out (v)@|@izprazniti@
+@enclosed@|@priložen@
+@enclosure@|@priloga@
+@encourage (to...)@|@hrabriti@
+@end@|@cilj, konec@
+@endless@|@neskončno@
+@enemy@|@sovražnik@
+@energy@|@energija@
+@engage@|@vklopiti@
+@engaged (to be married)@|@zaročen@
+@engagement@|@obveznost, zaroka@
+@engineer@|@inženir@
+@England@|@Anglija@
+@english horn@|@angleški rog@
+@english language@|@angleščina, angleško@
+@English woman@|@Angležinja@
+@Englishman@|@Anglež@
+@enhance@|@izboljšati, izpopolniti, izpopolnjevat, stopnevati@
+@enjoyment@|@užitek@
+@enlistment@|@nabor@
+@enough@|@dovolj, zadosti@
+@enrich@|@izpopolniti, obogatiti@
+@ensure (v)@|@zagotoviti@
+@enter (to..)@|@vstopiti@
+@enter!@|@vstopi!@
+@entertain@|@razvedriti@
+@entertaining@|@zabaven@
+@entertainment@|@zabava@
+@entire@|@cel@
+@entrance@|@vhod@
+@entrance pass@|@vstopnica@
+@entreprise@|@firma@
+@entry@|@vstop@
+@entry (data)@|@vnos@
+@envelope@|@kuverta, ovojnica@
+@environment@|@okolje@
+@equal@|@enak, enako@
+@equaled@|@izenačen@
+@equally@|@enakomerno@
+@equipment@|@oprema@
+@equivalent to@|@izenačen@
+@erase (to...)@|@izbrisati@
+@eraser@|@radirka@
+@error@|@napaka, pomota@
+@esc@|@ubežni znak@
+@escargot@|@polž@
+@especially@|@zlasti@
+@establish v.@|@določiti@
+@estate@|@posestvo@
+@etc)@|@dren@
+@etc.)@|@akumulator, blisk, bliskanje, tipka@
+@evade@|@izmikati se@
+@even@|@raven@
+@even though@|@kljub@
+@evening@|@večer, zvečer@
+@evenly@|@enakomerno@
+@event@|@dogodek, prireditev@
+@every@|@vsak@
+@everyone@|@vsakdo@
+@everywhere@|@povsod@
+@evil@|@zlo@
+@exact@|@točen@
+@exactly@|@natančno, točno@
+@exam@|@izpit@
+@examination@|@pregled, preiskava@
+@example@|@primer@
+@excede (v)@|@presegati@
+@excellant@|@sijajen@
+@excellent@|@odličen@
+@except@|@razen@
+@exchange (to..)@|@zamenjati@
+@exchange office/booth@|@menjalnica@
+@exchange rate@|@tečaj@
+@excited@|@vznemirjen@
+@excitement@|@vznemirjenost@
+@exciting@|@napet, razburljivo@
+@excluding@|@razen@
+@excretion@|@iztrebek@
+@excuse (to..)@|@oprostiti@
+@excuse oneself (to..)@|@opravičiti se@
+@excuse-me@|@dovolite mi, oprosti@
+@excuse-me (polite)@|@oprostite@
+@execute (v)@|@izvrševati@
+@executive council@|@izvršni svet@
+@exempt@|@prost (takse ali obveznosti)@
+@exercise@|@vaja@
+@exercise book@|@učbenik@
+@exercises@|@vaje@
+@exhaused@|@izčrpan@
+@exhaust pipe@|@izpušna cev@
+@exhibit@|@raztava@
+@exhibit (v)@|@kazati, narediti viden ali očiten@
+@existing@|@obstoječ@
+@exit@|@izhod@
+@exit (a vehicle)@|@izstopiti@
+@expansion port@|@razširitvena vrata@
+@expect (to..)@|@pričakovati@
+@expedite (to..)@|@odpremiti@
+@expedition@|@odprema@
+@expense@|@strošek@
+@expensive@|@drag@
+@experience@|@izkušnja@
+@experiment@|@poskus@
+@expiration@|@pretek@
+@expiry@|@pretek@
+@explain@|@obrazložiti@
+@explain (to..)@|@pojasniti@
+@explode (v)@|@počiti@
+@exposition@|@razstava, sejem@
+@expression@|@fraza, izraz@
+@extend@|@dalšati@
+@extending@|@podaljšanje@
+@extension@|@podaljšanje@
+@extent@|@obseg@
+@exterior features@|@zunanja oprema@
+@extinguish (to..)@|@ugasniti@
+@extinguish something (to...)@|@gasiti@
+@extract@|@izvleček@
+@extremely slanted@|@strm@
+@eye@|@oko@
+@eye lash@|@trepalnica@
+@eyebrow@|@obrv@
+@eyelid@|@veka@
+@eyes@|@oči@
+@f)@|@stanujejo, stanujemo, stanujemo, začnejo@
+@f....dual)@|@sta@
+@F.A.Q.@|@pogosto zastavljena vprašanja@
+@fabric@|@blago@
+@face@|@obraz@
+@fact@|@dejstvo@
+@factory@|@tovarna@
+@faculty@|@fakulteta@
+@fair@|@sejem@
+@faithful@|@zvest@
+@faithfulness@|@zvestoba@
+@fall@|@vpad@
+@fall (to..)@|@pasti@
+@fall apart (v)@|@rušiti@
+@fall in love (v)@|@zaljubiti se@
+@fallen pieces@|@odpadki@
+@falling (to be..)@|@padati@
+@false@|@napačen@
+@family@|@družina@
+@family (old exp.)@|@rodbina@
+@family name@|@priimek@
+@famous@|@slaven@
+@fan@|@ventilator@
+@fan belt@|@ventilacijska jerma@
+@fantasy@|@fantazija@
+@far@|@daleč@
+@farm@|@kmetija@
+@farm (adj)@|@kmečki@
+@farm yard@|@kmečko dvorišče@
+@farmed@|@gojen@
+@farmer@|@kmet@
+@fashion@|@moda@
+@fast@|@brzo, hitro@
+@fast (from food)@|@post@
+@fast forward@|@hitro navijanje naprej@
+@fasten@|@pritrditi@
+@fat heavy or big@|@debel@
+@fate@|@usoda@
+@father@|@ata, oče@
+@father christmas@|@božiček@
+@father-in-law@|@tast@
+@favorable@|@ugoden@
+@favorites@|@priljubljene@
+@favourite@|@priljubljen@
+@feable@|@šibek@
+@feather@|@pero@
+@features@|@lastnosti, oprema@
+@february@|@februar@
+@fee@|@taksa@
+@feeble@|@krhek@
+@feed@|@piča@
+@feed (to...)@|@hraniti@
+@feeding@|@hranjenje@
+@feel (to..)@|@počutiti se@
+@feeling@|@čustvo@
+@felt@|@baršun, žamet@
+@female...@|@ženski@
+@fence@|@ograja, plot@
+@fern@|@praprot@
+@ferry@|@trajekt@
+@ferry-boat@|@trajekt@
+@fertilize (v)@|@oploditi@
+@fertilizer@|@gnojilo@
+@festival@|@festival@
+@few (a..)@|@par@
+@fiber@|@vlakno@
+@fidelity@|@zvestoba, zvočna natancnost@
+@field@|@njiva, polje@
+@fifteen@|@petnajst@
+@fifteenth@|@petnajsti@
+@fifty@|@petdeset@
+@fig@|@figa@
+@fight@|@bitka, pretep@
+@figure@|@postava@
+@figure skating@|@umetnostno drsanje@
+@figurene@|@figura@
+@file@|@datoteka@
+@file system@|@datotečni sistem@
+@fill in (v)@|@zasipati@
+@fill v.@|@izpolniti@
+@film@|@film@
+@finacial@|@denaren@
+@finacial hardship@|@težak materijalni položaj@
+@finances@|@finance@
+@find@|@najdi@
+@find (to..)@|@najti@
+@fine@|@kazen@
+@fine gravel@|@pesek@
+@finger (prst na roki)@|@prst@
+@finish@|@konec@
+@finish - to...@|@dovršiti@
+@finish (to..)@|@končati, zaključiti@
+@Finland@|@Finska@
+@fir tree@|@jelka@
+@fire@|@ogenj@
+@firefighter@|@gasilec@
+@firefighters@|@gasilci@
+@fireman@|@gasilec@
+@fireplace@|@kamin@
+@firm@|@čvrst, firma, podjetje@
+@first@|@prvi@
+@first aid@|@prva pomoč@
+@first gear@|@prva prestava@
+@first of all@|@predvsem@
+@first time@|@prvič@
+@fish@|@riba@
+@fish (to..)@|@ribariti@
+@fish farm@|@ribogojnica@
+@fisherman@|@ribič@
+@fishing@|@ribolov@
+@fishtailing@|@zanašanje@
+@five@|@pet@
+@five spd. transmission@|@petstopenjski menjalnik@
+@flag@|@zastava@
+@flame@|@plamen@
+@flap@|@loputa@
+@flashing (lightening@|@bliskanje@
+@flat@|@ploskev, stanovanje@
+@flat (colloq)@|@flah@
+@flat (music)@|@glas za pol ton znižan@
+@flawlessly@|@brezhibno@
+@flea@|@bolha@
+@flexible@|@fleksibilen, prilagodljiv, prožen@
+@flight@|@polet@
+@float@|@plovec (pri ribolovu), zračni mehur@
+@float (v)@|@plavati na vrhu@
+@flood@|@poplava@
+@floor@|@nadstropje, pod, poden, tla@
+@floor mats@|@talne obloge (avto)@
+@floppy disk@|@gibki disk, mehki disk@
+@flour@|@moka@
+@flourist@|@cvetličarna@
+@flow@|@tok@
+@flower@|@cvet, roža@
+@flower (to)@|@cveteti@
+@flower bud@|@popek@
+@flower honey@|@medičina@
+@flower shop@|@cvetličarna@
+@flower shop sales lady@|@cvetličarka@
+@flower vb.@|@cveteti@
+@flows (v)@|@steči@
+@flute@|@flavta, piščalka@
+@fly (insect)@|@muha@
+@fly (to..)@|@leteti@
+@fly off (v)@|@vzleteti@
+@fly to or on (v)@|@prileteti@
+@flying around@|@poletavati@
+@fog@|@megla@
+@fog lights@|@meglenke@
+@foggy@|@meglen, megleno@
+@fold@|@pregib@
+@folders@|@mape@
+@follow (to..)@|@slediti@
+@following@|@naslednji@
+@font@|@pisava@
+@food@|@hrana, jedilo, prehrana, živilo@
+@fool@|@bedak@
+@foolish@|@nor@
+@foot@|@noga, stopalo@
+@football (eng)@|@nogomet@
+@footwear@|@obutev@
+@for@|@za@
+@for impartial reasons@|@iz objektivnih razlogov@
+@for this reason@|@zato@
+@for tomorrow@|@za jutri@
+@forbid (to..)@|@prepovedati@
+@forbidden@|@prepovedan, prepovedano@
+@forcast@|@napoved@
+@forcasted@|@napovedan@
+@forcefull@|@močan@
+@forehead@|@čelo@
+@foreign land@|@tujina@
+@foreign word@|@tujka@
+@foreigner@|@tujec@
+@forerunner@|@predhodnica@
+@foreseeable@|@dogleden@
+@forest@|@gozd@
+@forget (to..)@|@pozabiti@
+@forgive@|@oprostiti@
+@fork (dining)@|@vilice@
+@fork (for hay)@|@vile@
+@form@|@obrazec@
+@forty@|@štirideset@
+@foster care@|@reja@
+@foster parent@|@rejnik@
+@foundation@|@fundacija, podlaga, temelj, utemeljitev@
+@foundation of@|@ustanovitev nečesa@
+@founder@|@ustanovitelj, utemeljitelj@
+@fountain@|@vodnjak@
+@fountain pen@|@nalivno pero@
+@four@|@štiri@
+@four corners@|@križišče@
+@fourteen@|@štirinajst@
+@fourteenth@|@štirinajsti@
+@fourth@|@četrti@
+@fox@|@lisica@
+@fragile@|@krhek@
+@fragrant@|@dišeč@
+@frame@|@ogrodje@
+@France@|@Francija@
+@frankfurter@|@hrenovka@
+@frase@|@fraza@
+@free@|@brezplačen, prost, prosto@
+@free shot@|@prosti strel@
+@free time@|@prosti čas@
+@freeze (v)@|@zmrzniti@
+@freezer@|@zmrzovalnik@
+@french horn@|@francoski rog@
+@french man@|@Francoz@
+@french woman@|@Francozinja@
+@frequency modulation@|@frekvenčna modulacija@
+@frequent@|@pogost, pogosto@
+@frequently asked questions@|@pogosto zastavljena vprašanja@
+@fresh@|@svež@
+@fret@|@prečka (kitara)@
+@fret board@|@ubiralka@
+@fretting@|@prečkanje@
+@friday@|@petek@
+@fridge@|@hladilnik@
+@fried@|@ocvrt, pražen@
+@fried lard pieces@|@ocvirek@
+@friend (f)@|@prijateljica@
+@friend (m)@|@prijatelj@
+@frigid@|@hladen@
+@frog@|@rega, žaba@
+@from@|@iz, od@
+@from where@|@od kod@
+@front seat@|@prednji sedež@
+@front wheel drive@|@pogon spredaj@
+@frontier@|@meja@
+@fruit@|@plod, sadje@
+@fruit juice@|@sadni sok, sok@
+@fruit stew@|@kompot@
+@frying pan@|@ponev@
+@fuchsia@|@fuksija@
+@fuel@|@gorivo@
+@fuel consumption@|@poraba goriva@
+@fuel injection@|@centralno vbrizgavanje@
+@fulfil (v)@|@uresničiti@
+@full@|@poln, sit@
+@fumes@|@dim@
+@funcionality@|@funcionalnost@
+@fundamentally@|@načelno@
+@fundamentaly@|@načeloma@
+@funds@|@izplacila@
+@funny@|@smešen@
+@fur@|@kožuh@
+@furnace@|@peč@
+@furniture@|@pohištvo@
+@fuse@|@varovalka@
+@fuselage@|@trup, trup letala@
+@future (adj)@|@bodoč@
+@gain@|@pridobitev@
+@gain (to..)@|@pridobiti@
+@gall@|@šiška@
+@gall nut@|@šiška@
+@gallery@|@galerija@
+@game@|@igra@
+@game (sport)@|@tekma@
+@garage (at home or private@|@garaža@
+@garbage@|@odpadki, smeti@
+@garbage can@|@smetnjak@
+@garden@|@vrt@
+@garlic@|@česen@
+@garment@|@oblačilo@
+@gas@|@bencin, plin@
+@gas station@|@črpalka@
+@gas tank@|@plinski rezervoar, posoda za gorivo, rezervoar za gorivo@
+@gasket@|@tesnilo@
+@gatehouse guard@|@vratar@
+@gaze at (to..)@|@zreti@
+@gear@|@zobato kolo@
+@gear shift@|@prestavna ročica@
+@gear wheel@|@zobato kolo, zobnik@
+@gender@|@spol@
+@general@|@splošen@
+@general call@|@splošni poziv@
+@generator@|@dinamo@
+@geometry@|@geometrija@
+@geranium@|@pelargonia@
+@german language@|@nemščina, nemško@
+@german man@|@Nemec@
+@german woman@|@Nemka@
+@Germany@|@Nemčija@
+@get@|@dobiti@
+@get bigger (to..)@|@rasti@
+@get married (to)..@|@poročiti se@
+@get near to (v)@|@približati se@
+@get started (v)@|@zaženiti@
+@gets stuck@|@zatika se@
+@gift@|@darilo@
+@girafe@|@žirafa@
+@girl@|@dekle@
+@give (to...)@|@dati@
+@give off a pleasant scent@|@dišati@
+@give up hope (v)@|@obupati@
+@given@|@naveden@
+@giving back@|@vračanje@
+@glass@|@šipa, steklo@
+@glass (adj)@|@stekleno@
+@glass (to drink)@|@kozarec@
+@glass of water@|@kozarec vode@
+@glasses (reading)@|@naočniki, očala@
+@glimpse@|@pregled@
+@glove@|@rokavica@
+@glove box@|@predal za rokavice@
+@glove compartment@|@predal za rokavice@
+@gloves@|@rokavice@
+@go@|@pojdi@
+@go (to..)@|@hoditi@
+@go (to...)@|@iti@
+@go ahead@|@kar!@
+@go cheap (v)@|@škrtariti@
+@go down@|@iti dol@
+@go for a walk (to..)@|@sprehajati se@
+@go up@|@iti gor@
+@goal@|@gol@
+@goal line@|@golova črta@
+@goaler (sport)@|@vratar@
+@goat@|@koza@
+@goat calling (mahhh) (v)@|@meketati@
+@goat's dung or stall@|@kozjak@
+@god@|@bog@
+@gold@|@zlat@
+@gold (metal)@|@zlato@
+@golden@|@zlat@
+@golf@|@golf@
+@gondola@|@vlečnica@
+@good@|@dober, dobro, priden@
+@good day@|@dober dan@
+@good evening@|@dober večer@
+@good morning@|@dobro jutro@
+@good night@|@lahko noč@
+@goods@|@blago@
+@goose@|@gos, goska@
+@government@|@vlada@
+@grade@|@razred, razred@
+@gradient@|@vzpon@
+@grain@|@zrno@
+@grains@|@žito, zrnje@
+@gram@|@gram@
+@grand-daughter@|@vnukinja@
+@grandfather@|@ded@
+@grandfather ...in casual language@|@dedek@
+@grandmother@|@babica@
+@grand-son@|@vnuk@
+@grape@|@grozd@
+@grapes@|@grozdje@
+@graphics@|@grafika@
+@graphics card@|@grafična kartica@
+@grass@|@trava@
+@gratis@|@brezplačen@
+@gratuity@|@napitnina@
+@grave@|@grob@
+@graveyard@|@pokopališče@
+@gravity@|@težnost@
+@gravy@|@omaka@
+@gray@|@siv@
+@graze (v) (animal)@|@pasti se@
+@grease with something@|@namazati@
+@greasy@|@masten@
+@Great Britain@|@Velika Britanija@
+@Greece@|@Grčija@
+@green@|@zelen@
+@greenish@|@zelenkast@
+@greet (v)@|@pozdraviti@
+@greeting@|@pozdrav@
+@greetings@|@pozdravi@
+@greetings!@|@pozdravljen!@
+@greetings! (colloq actually austr.)@|@servus@
+@greetings! (polite)@|@pozdravljeni!@
+@grid (elec)@|@mrežica (elek)@
+@grill@|@žar@
+@grip@|@gripa@
+@grommet@|@gumijasti ležaj@
+@gross@|@ogaben@
+@grotto@|@jama@
+@ground@|@zemlja@
+@ground (elect)@|@masa@
+@ground (outside)@|@pod@
+@ground meat@|@mleto meso@
+@groundwork@|@podlaga@
+@group@|@skupina@
+@grow (to..)@|@rasti@
+@growing area@|@rastišče@
+@growing spot@|@rastišče@
+@growing up@|@odraščanje@
+@growl (v)@|@renčati@
+@grown@|@gojen@
+@grown-up@|@odrasel@
+@grub@|@ličinka@
+@guarantee@|@garancija@
+@guarantee (v)@|@zagotoviti@
+@guard@|@čuvaj@
+@guard dog@|@čuvaj@
+@guard duty@|@stražiranje@
+@guess (to..)@|@uganiti@
+@guess (v)@|@uganiti, ugibati@
+@guest@|@gost@
+@guest-house@|@gostilna@
+@guide@|@vodnik@
+@guitar@|@kitara@
+@guitar pick@|@trzalica@
+@guitar side@|@obod@
+@gun@|@pištola@
+@gutter@|@jarek@
+@guuter@|@žleb@
+@habit@|@navada@
+@habitually@|@običajno, ponavadi@
+@Hague ...the@|@Hag@
+@hail@|@toča@
+@hair (arm-leg etc not head)@|@dlaka@
+@hair (one)@|@las@
+@hair (plural)@|@lasje@
+@hair dresser@|@frizer@
+@hair dryer@|@fen@
+@hairy@|@kosmat@
+@half@|@pol, polovica@
+@half note@|@pol ton@
+@hall@|@hodnik@
+@ham@|@šunka@
+@hammer@|@kladivo@
+@hand@|@roka@
+@hand brake@|@ročna zavora@
+@hand grips (car)@|@držala (avto)@
+@handbook@|@priročnik@
+@handed over@|@vročen@
+@handicaped@|@invalid@
+@handkerchief@|@robček@
+@handle@|@kljuka@
+@handle roughly@|@grob@
+@handsome@|@lep@
+@handwriting@|@pisava@
+@handy@|@priročen@
+@hang (pc) (v)@|@zazankati se (pc)@
+@hang (to..)@|@obesiti, viseti@
+@hang (v) (pc)@|@obesiti se (pc)@
+@hanger@|@obešalnik@
+@hanging ornament@|@obesek@
+@hanging plant@|@obešanka@
+@happen (to..)@|@zgoditi se@
+@happiness@|@sreča@
+@happy@|@vesel, zadovoljen@
+@harbour@|@luka, pristanišče@
+@hard@|@čvrst, trd, trden@
+@hard disk@|@trdi disk@
+@hardware@|@strojna oprema, železnina@
+@harken (to..)@|@slišati@
+@harmony@|@harmonija, skladnost@
+@harp@|@harfa@
+@harpsichord@|@čembalo@
+@harvest@|@žetev@
+@has@|@ima@
+@hat@|@klobuk@
+@have (to...)@|@imeti@
+@have a look at (v)@|@ogledati si@
+@have lunch (to..)@|@kositi@
+@have reached@|@dopolniti@
+@have to (do something vb.)@|@morati@
+@having tendency to@|@nagnjen@
+@having to do with@|@o@
+@hawk@|@kanja@
+@hay@|@seno@
+@hazelnut@|@lešnik@
+@hazelnut tree@|@leska@
+@he@|@on@
+@he works@|@dela@
+@head@|@glava@
+@head (v)@|@voditi@
+@head judge@|@glavni sodnik@
+@head of something@|@poglavar@
+@head out (to..)@|@odpremiti@
+@headache@|@glavobol@
+@headlight (car)@|@žaromet@
+@healing@|@zdravljenje@
+@health@|@zdravje@
+@healthy@|@zdrav@
+@hear (to..)@|@slišati@
+@hear (to...)@|@čuti@
+@hearken (v)@|@prisluhniti@
+@heart@|@srce@
+@heart beat@|@srčni utrip@
+@heartedness@|@srčnost@
+@heat sink (pc)@|@hladilnik@
+@heater@|@grelec@
+@heating@|@kurjava@
+@heating element@|@grelec@
+@heaven@|@nebesa@
+@heavy@|@težek@
+@heel@|@koren (kitara), peta@
+@height@|@višina@
+@Hello!@|@živio@
+@helm@|@krmilo@
+@helmet@|@čelada@
+@help@|@pomoč@
+@help (to..)@|@pomagati@
+@Helsinki@|@Helsinki@
+@hen@|@kura@
+@here@|@tu, tukaj@
+@here is@|@tukaj je@
+@here!@|@izvoli!@
+@here! (polite form)@|@izvolite!@
+@here-under@|@spodaj@
+@hero@|@junak@
+@heroin@|@heroin@
+@herring (salted)@|@slanik@
+@hesitate (v)@|@obirati se, obotavlajti@
+@Hi!@|@živio@
+@hidden@|@skrit@
+@hide@|@koža, kožuh@
+@hide (to..)@|@skriti@
+@hide (v)@|@skriti, skrivati@
+@high@|@visok@
+@high fidelity (Hi Fi)@|@zelo natančno podajanje@
+@high frequency@|@visokofrekvenčno@
+@high school@|@gimnazija@
+@high voltage@|@visoka napetost@
+@highway@|@avtocesta@
+@hill@|@grič, hrib, klanec@
+@hindrance@|@prepreka, zadržek@
+@hint@|@namig, praktičen nasvet@
+@hip@|@kolk@
+@history@|@zgodovina@
+@hit@|@odarec@
+@hit (to..)@|@suniti@
+@hit (v)@|@udariti@
+@hitch@|@zadržek@
+@hobby@|@konjiček@
+@hobo@|@potepuh@
+@hokey@|@hokej@
+@hold@|@drža@
+@hold - to...@|@držati@
+@hold true (v)@|@veljati@
+@hole@|@luknja@
+@holiday@|@dopust, praznik@
+@holidays@|@počitnice@
+@hollow@|@votel@
+@holy@|@svet@
+@home@|@dom, domek@
+@home (at home)@|@doma@
+@home work@|@naloga@
+@homeland@|@domovina@
+@homelet@|@domek@
+@homemaker@|@gospodinja@
+@homesickness@|@domotožje@
+@honest@|@pošten@
+@honey@|@med@
+@honey bee@|@čebela@
+@honoured@|@časten@
+@hood (car)@|@havba@
+@hook (to hang clothes)@|@obešalnik@
+@hope@|@up, upanje@
+@hope (to..)@|@upati@
+@horizontal@|@vodoraven@
+@horizontaly@|@vodoravno@
+@horoscope@|@horoskop@
+@horror film@|@grozljivka@
+@hors d'œuvre@|@predjed@
+@horse@|@konj@
+@horse fly@|@brencelj, obad@
+@horse power@|@konjska sila@
+@hospital@|@bolnica, bolnišnica@
+@hot@|@vroč@
+@hot (neuter)@|@vroče@
+@hot air exchange@|@toplotni menjalnik@
+@hot dog@|@hrenovka@
+@hotel@|@hotel@
+@hour@|@ura@
+@house@|@hiša@
+@household@|@gospodinjstvo@
+@housewife@|@gospodinja@
+@housing@|@ohišje@
+@hovercraft@|@hidrogliser@
+@how@|@kako@
+@how are things going?@|@kako gre?@
+@how are you?@|@kako se imaš?, kako si?@
+@how are you? (polite form)@|@kako se imate?, kako ste?@
+@how is it going?@|@kako ti gre?@
+@how is it going? (polite form)@|@kako vam gre?@
+@how long@|@kako dolgo@
+@how many@|@koliko@
+@how much@|@koliko@
+@how much does it cost@|@koliko stane@
+@how to you say that in slovenian?@|@kako se to reče po slovensko?@
+@however@|@ampak, vendar@
+@however possible@|@kakorkoli@
+@hub cap@|@platišče@
+@hub caps@|@okrasna platišča@
+@hull@|@trup@
+@hum@|@šum@
+@humble@|@skromen@
+@humid@|@vlažen@
+@humorist@|@humorist@
+@hump@|@grba@
+@hunched over@|@zgrbljen@
+@hungarian (lady)@|@Madžarka@
+@Hungarian (man)@|@Madžar@
+@hungarian language@|@madžarščina, madžarsko@
+@Hungary@|@Madžarska@
+@hunger@|@glad, lakota@
+@hungry@|@lačen@
+@hunt (to..)@|@loviti@
+@hurry (to be in a..)@|@mudi se@
+@hurt (to..)@|@boleti@
+@hurt (v)@|@poškodovati@
+@husband@|@mož, soprog@
+@hydroplane@|@hidrogliser@
+@hyphen@|@pomišljaj, vezaj@
+@I@|@jaz@
+@I am@|@sem@
+@I am buying@|@kupujem@
+@I am in need of@|@potrebujem@
+@I am not@|@nisem@
+@I am shopping@|@kupujem@
+@I begin@|@začnem@
+@I chose@|@izberem@
+@I desire@|@želim@
+@I don't have@|@nimam@
+@I don't have any money@|@nimam denarja@
+@I go@|@grem@
+@I have@|@imam@
+@I have to@|@moram@
+@I like a lot@|@zelo mi je všeč@
+@I like it@|@mi je všeč@
+@I live@|@stanujem@
+@I must@|@moram@
+@I search@|@iščem@
+@I speak@|@govorim@
+@I speak slovenian@|@govorim slovensko@
+@I stand@|@stojim@
+@I stay@|@stanujem@
+@I think@|@mislim@
+@I too@|@jaz tudi@
+@I understand@|@razumem@
+@I wish@|@želim@
+@I work@|@delam@
+@I would like (f)@|@rada bi@
+@I would like (m)@|@rad bi@
+@I would like to reserve (f)@|@rada bi rezervirala@
+@I would like to reserve (m)@|@rad bi rezerviral@
+@ice@|@led@
+@ice box@|@zmrzovalnik@
+@ice cream@|@sladoled@
+@icebreaker@|@ledolomilec@
+@icon@|@ikona@
+@icy@|@leden@
+@idea@|@ideja, zamisel@
+@identity card@|@izkaznica@
+@idiotic@|@neumen@
+@if@|@če, ko@
+@ignition solenoid@|@vžigalna tuljava@
+@ile@|@ostrov, otok@
+@illness@|@bolezen@
+@illustrate (v)@|@kazati@
+@illustration page@|@slikovna stran@
+@I'm cold@|@zebe me@
+@I'm sorry@|@žal mi je@
+@I'm thirsty (f)@|@žejna sem@
+@I'm thirsty (m)@|@žejen sem@
+@imagination@|@domišljija@
+@imagine (v)@|@zamisliti si@
+@immediate@|@takojšnji@
+@immediate family@|@ožja družina@
+@immediately@|@takoj@
+@impartial@|@objektiven@
+@impatient@|@nepotrpežljiv@
+@impediment@|@ovira@
+@implement (v)@|@izvajati@
+@importance@|@pomembnost@
+@important@|@pomemben, važen@
+@impose (v)@|@obremeniti@
+@impossible@|@nemogoč@
+@impregnate (v)@|@oploditi@
+@impregnation@|@oploditev@
+@improved@|@izboljšan, izpopolnjen@
+@improved recognition@|@izpopolnjena prepoznava@
+@in@|@v@
+@in a row@|@zapored@
+@in accordance with@|@skladen, v skladu@
+@in advance@|@naprej@
+@in any case@|@kakorkoli@
+@in Berlin@|@v Berlinu@
+@in debt@|@dolžan@
+@in face of@|@spričo@
+@in front of@|@pred, spredaj@
+@in general@|@sploh@
+@in his or her or it's own way@|@po svoje@
+@in Ljubljana@|@v Ljubljani@
+@in need of@|@potreben@
+@in no way@|@nikakor@
+@in or at the bank@|@na banki@
+@in parallel@|@vzporedno@
+@in presence of@|@spričo@
+@in series@|@zaporedno@
+@in sight of@|@dogleden@
+@in Slovenia@|@v Sloveniji@
+@in slovenian@|@po slovensko@
+@in spite of@|@kljub@
+@in the centre@|@v centru@
+@in the employ of@|@v delovnem razmerju@
+@in the evenings@|@zvečer@
+@in the morning@|@dopoldne, zjutraj@
+@in the summer@|@poleti@
+@in the winter@|@pozimi@
+@in view of@|@spričo@
+@in vogue@|@priljubljen@
+@inaccessibility@|@nedostopnost@
+@inch@|@palec, sol@
+@incline@|@klanec@
+@included@|@vključen@
+@income@|@dohodek, dohodnina@
+@incorrect@|@napačen, nepravilen, sfaljen@
+@increase (to..)@|@povečati, rasti@
+@indeed@|@res@
+@independant@|@samostojen@
+@independantly@|@samostojno@
+@India@|@Indija@
+@indispensible@|@nepogrešljiv, nujno@
+@individual@|@posamezen, pozamičen@
+@individual (he)@|@posameznik@
+@induce (v)@|@inducirati@
+@induction circuit@|@induktivni sklop@
+@industry@|@industrija@
+@inebriating@|@opojen@
+@inexperienced person@|@zelenec@
+@infectious@|@nalezljiv@
+@infinite@|@neskončno@
+@infinity@|@neskončnost@
+@influence@|@vpliv, vplivati@
+@inform (to..)@|@obvestiti@
+@inform v.@|@obveščati@
+@information@|@informacija, informacije, novice, podatki@
+@infrared@|@infrardeč@
+@infringement@|@prekršek@
+@injection@|@injekcija@
+@injury@|@poškodba@
+@ink@|@črnilo, tinta@
+@inner tire tube (car)@|@zračnica@
+@innovation@|@inovacija, novotarija, prenovitev@
+@input (elect)@|@vhod@
+@input accessories (pc or electr.)@|@vhodne enote@
+@input and output devices@|@vhodne in izhodne naprave@
+@inquest@|@preiskava@
+@inscription@|@napis@
+@insect@|@žuželka@
+@insert (v)@|@vstaviti@
+@inside@|@noter, notri@
+@installation@|@nameščanje, namestitev, napeljava@
+@installing@|@nameščanje@
+@instant@|@trenutek@
+@instead of@|@namesto@
+@institute@|@zavod@
+@instruction@|@inštrukcija, napotek, učenje@
+@instructions@|@navodila@
+@instructor (f)@|@učiteljica@
+@instructor (m)@|@učitelj@
+@instrument@|@inštrument@
+@instrument like sm piano (celesta)@|@celesta@
+@instruments (musical)@|@glasbila@
+@insurance@|@zavarovanje@
+@insured person (m)@|@zavarovanec@
+@intelligence@|@pamet@
+@intelligent@|@bister, umen@
+@interconnection@|@povezava@
+@interest@|@zanimanje@
+@interest (eg. on money)@|@obresti@
+@interest one (to..)@|@zanimati@
+@interesting@|@zanimiv@
+@interface@|@vmesnik@
+@interior features@|@notranja oprema@
+@intermediate@|@vmesen@
+@intermediate frequency (IF)@|@vmesna frekvenca@
+@intermit@|@prekiniti@
+@intermittent setting@|@intervalna nastavitev@
+@international@|@mednaroden, mednarodni@
+@internet@|@medmrežje@
+@interpret (v)@|@prevesti, tolmačiti@
+@interpreter@|@tolmač@
+@interpreter (pc)@|@razlagalec (pc)@
+@interrogate (to..)@|@spraševati, vprašati@
+@interrupt@|@vpasti@
+@interrupt (v)@|@prekinitev, prekiniti@
+@intersection@|@križišče@
+@interview@|@razgovor@
+@intimate@|@intimen@
+@into@|@v@
+@intonation@|@intonacija, modulacija, poudarek@
+@intoxicating@|@opojen@
+@introduce (ing) (v)@|@predstavljati@
+@introduce (v)@|@predstaviti@
+@introduce something (v)@|@uvesti@
+@introducing something (v)@|@uvajati@
+@introduction@|@uvedba, uvod@
+@introductory message@|@uvodno sporočilo@
+@invalid@|@invalid@
+@inventory@|@evidenca@
+@invest@|@vložiti@
+@investigation@|@preiskava@
+@invitation@|@povabilo, vabilo@
+@invite (to..)@|@povabiti@
+@invitee@|@gost@
+@invoice@|@račun@
+@inwards@|@navznoter@
+@Ireland@|@Irska@
+@Irish (f)@|@Irka@
+@Irish (m)@|@Irec@
+@iron@|@železo@
+@iron (to iron clothes)@|@likalnik@
+@iron clothes (to..)@|@likati@
+@is@|@je@
+@is needed@|@treba@
+@is not@|@ni@
+@is pleasing to@|@pasati@
+@island@|@ostrov, otok@
+@isolating washers (hw)@|@izolacijski položniki@
+@issue@|@izdati@
+@issued@|@izdan@
+@issuing of rank@|@podelitev čina@
+@it - works/operates@|@dela@
+@it (n)@|@ono@
+@it is hot@|@je vroče@
+@it pleases me@|@mi je všeč@
+@it rains@|@dežuje@
+@it was nothing (in regards to thankfulness)@|@ni za kaj@
+@Italian (f)@|@Italijanka@
+@Italian (m)@|@Italijan@
+@italian language@|@italijanščina, italijansko@
+@Italy@|@Italija@
+@item@|@točka@
+@ivy@|@bršljan@
+@jabb (v)@|@kljuvati@
+@jacket@|@jakna, jopič@
+@jail@|@ječa@
+@january@|@januar@
+@jaw@|@čeljust@
+@jealous@|@ljubosumen@
+@jealousy@|@ljubosumje@
+@jeans@|@kavbojke@
+@jet (water/air)@|@šoba@
+@job@|@opravilo, služba@
+@jogging clothes@|@trenirka@
+@join (v)@|@povezati@
+@joined@|@spojen@
+@joining@|@pridruževanje@
+@joint (eg. finger)@|@pregib@
+@joint (in body)@|@sklep@
+@joke@|@šala@
+@journalist@|@novinar@
+@joyous@|@vesel@
+@joystick@|@igralna palica@
+@judge@|@sodnik@
+@judge (to..)@|@soditi@
+@jug@|@vrč@
+@juice@|@sok@
+@july@|@julij@
+@jump@|@odriv@
+@jump (on)@|@naskakovati@
+@jump (to..)@|@skočiti@
+@jumping (to be..)@|@skakati@
+@jumping off (v)@|@odskakovati@
+@june@|@junij@
+@just@|@samo@
+@just a moment@|@samo trenutek@
+@justice of the peace@|@matičar za poroke@
+@kapljica@|@drop@
+@kar!@|@go ahead@
+@karkoli@|@anything@
+@kartica@|@elect. board@
+@kaseta@|@cassette@
+@kasneje@|@later@
+@kasno@|@late@
+@keeping@|@hranjenje@
+@keeping quiet (v)@|@mirovati@
+@keks@|@biscuit@
+@ker@|@because@
+@kerchief@|@ruta@
+@kerosene@|@kerosin@
+@kettledrum@|@pavka@
+@key@|@dur, ključ, ključ na klavirju, ključ za strune@
+@key (on a keyboard@|@tipka@
+@keyboard@|@tastatura, tipkovnica@
+@keyboard (computer...)@|@tipkovnica@
+@kick@|@brcati@
+@kidney@|@ledvica@
+@kidneys@|@ledvice@
+@kindness@|@dobrota@
+@king@|@kralj@
+@kingdom@|@kraljevstvo@
+@kino@|@movie-house@
+@kiosk@|@trafika@
+@kiss@|@poljub@
+@kiss (to..)@|@poljubiti@
+@kissing (v)@|@poljubjati@
+@kissing like birds@|@kljunčkati@
+@kitara@|@guitar@
+@kitchen@|@kuhinja@
+@kitchen utensil@|@kuhalnica@
+@kitty@|@muca@
+@knee@|@koleno@
+@knife@|@nož@
+@knit (v)@|@plesti, štrikati@
+@knob@|@gumb@
+@know (to..)@|@poznati, vedeti@
+@know how to (to..)@|@znati@
+@knowledge@|@znanje@
+@known@|@znan@
+@labour@|@delo@
+@lace@|@vezalka@
+@ladder@|@lestev@
+@lady@|@gospa@
+@lady bird (UK)@|@pikapolonica@
+@lady bug@|@pikapolonica@
+@Laibach@|@Ljubljana@
+@laid@|@položen@
+@lake@|@jezero@
+@lamb@|@jagnje@
+@lamp@|@svetilka@
+@land (to..)@|@pristati@
+@lane@|@proga@
+@lane (hwy)@|@pas@
+@language@|@jezik@
+@laptop@|@notesnik, prenosnik@
+@laquer@|@lak@
+@large@|@velik@
+@large basket@|@škaf@
+@larva@|@ličinka@
+@lash (lightening@|@blisk@
+@last@|@zadnji@
+@last (to last ....duration)@|@trajati@
+@late@|@kasno, pozen, pozno@
+@later@|@kasneje, pozneje@
+@latest@|@najdlje@
+@laugh@|@smeh@
+@laugh (v)@|@smejati se@
+@launch@|@zaženi@
+@launch (v)@|@zaženiti@
+@laundry@|@pranje@
+@lavish (to..)@|@tratiti@
+@law@|@zakon@
+@law by-@|@zakonodaja@
+@lawful@|@pravomočen@
+@lawyer@|@odvetnik, pravnik@
+@lay@|@položiti, postaviti@
+@lay an egg@|@znesti jajce@
+@lay an egg (v)@|@znesti@
+@lay eggs (chickens)@|@zleči@
+@layer@|@plast, sloj@
+@lazy@|@len@
+@lead@|@svinec@
+@lead (elec)@|@vodnik (elek)@
+@lead (v)@|@voditi@
+@lead someone (to..)@|@peljati@
+@leader@|@vodnik@
+@leading role@|@vodilna vloga@
+@leaf@|@list, loputa@
+@leaf springs@|@listnate vzmeti@
+@lean (v)@|@nagniti@
+@leaned@|@nagnjen@
+@leaning@|@nagnjen@
+@learn (to..)@|@učiti se@
+@leather@|@koža@
+@leave (to..)@|@oditi, pustiti@
+@leaves@|@listje@
+@left@|@levo@
+@leg@|@noga@
+@legal recourse@|@pouk o pravnem sredstvu, pravni pouk@
+@legislative@|@zakonodajen@
+@legumes@|@zelenjava@
+@lemon@|@limona@
+@lend (to..)@|@posoditi@
+@lend an ear (v)@|@prisluhniti@
+@length@|@dolžina@
+@length of term@|@rok trajanja@
+@lengthened@|@podolgovat@
+@less@|@manj@
+@lessons@|@pouk@
+@let do -@|@dovoliti@
+@let someone know v.@|@sporočiti@
+@lethal@|@smrten@
+@letter@|@dopis, pismo@
+@letter (in alphabet)@|@črka@
+@letter box@|@nabiralnik, poštni nabiralnik@
+@lettuce@|@solata@
+@leukemia@|@levkemija@
+@level@|@nivo, raven@
+@liability@|@obveznost@
+@liason form@|@obrazec za zvezo@
+@library@|@knjižnica@
+@lice@|@ušice@
+@lick (v)@|@polizati@
+@life@|@življenje@
+@life certificate@|@potrdilo o živetju@
+@lift@|@dvigalo, vlečnica@
+@light@|@lahek, luč@
+@light (to.. a cigarette)@|@prižgati@
+@light bulb@|@žarnica@
+@light fixture@|@luster@
+@light up (v)@|@obsijati@
+@lighter (cigarette)@|@vžigalnik@
+@likable@|@simpatičen@
+@like (f)@|@rada@
+@like (m)@|@rad@
+@like (to ...coloq)@|@dopasti se@
+@like (to..)@|@prijati@
+@like (v)@|@pasati@
+@like someone/something (vb. m)@|@rad imeti@
+@like this@|@tako@
+@likely@|@verjetno@
+@lilac tree@|@španski bezeg@
+@lillies of the valley@|@šmarnice@
+@lime@|@apno@
+@limit@|@meja, omejitev@
+@limiter (elec)@|@omejevalnik (elek)@
+@line@|@vrstica@
+@line along@|@vzdolžna črta@
+@linen@|@platno@
+@linesman@|@stranski sodnik@
+@lineup (people@|@dren@
+@link@|@člen, povezava@
+@lion@|@lev@
+@lip@|@ustnica@
+@liquid@|@tekočina@
+@Lisbon@|@Lizbona@
+@list of service centres@|@spisek servisnih delavnic@
+@listen (to..)@|@poslušati@
+@listen up (v)@|@prisluhniti@
+@little@|@mali@
+@little candles@|@svečke@
+@little dog@|@psiček@
+@little garden (flowers)@|@gredica@
+@little man@|@pritlikavec@
+@little one@|@malček@
+@live@|@živ@
+@live (to..)@|@stanovati, živeti@
+@lively@|@živahen@
+@lively (music)@|@poskočen@
+@liver@|@jetra@
+@living room@|@dnevna soba@
+@lizard@|@kuščar@
+@lizard (green)@|@zelenec@
+@lizard (small)@|@martinček@
+@Ljubljana@|@Ljubljana@
+@load@|@breme, obremenitev@
+@load (v)@|@naložiti, obremeniti@
+@load a program into a pc@|@naložiti program v pc@
+@loading@|@obremenitev@
+@loaf@|@hlebec@
+@loaf of bread@|@hleb@
+@loan@|@posojilo@
+@lock@|@ključavnica@
+@locking arm (pc socket)@|@nogica za ležišče@
+@locking clip (pc mem)@|@zaklop@
+@lodging@|@prenočišče@
+@log@|@deblo, evidenca@
+@logically@|@smiselno@
+@lollypop@|@lizika@
+@London@|@London@
+@loneliness@|@osamljenost@
+@lonely@|@osamljen@
+@long@|@dolg@
+@long time - a...@|@dolgo@
+@longer@|@daljši@
+@longest@|@najdlje@
+@look@|@pogled@
+@look (to ...)@|@gledati@
+@looking glass@|@ogledalo, zrcalo@
+@looks like@|@podoben@
+@lorry@|@kamion@
+@lose (to..)@|@gubiti@
+@lose (to...)@|@izgubiti@
+@lose weight (v)@|@shujšati@
+@loss@|@izguba@
+@lost@|@izgubljen@
+@loud sound@|@glasen@
+@louse@|@uš@
+@louvre@|@loputa@
+@love@|@ljubezen@
+@love (to..)@|@ljubiti@
+@love song@|@ljubezenska pesem@
+@low@|@nizek@
+@low frequency@|@niskofrekvenčno@
+@lower case@|@male črke@
+@loyal@|@zvest@
+@loyalty@|@zvestoba@
+@luck@|@sreča@
+@lukewarm water@|@mlaka@
+@lunch@|@kosilo@
+@lunch (old slovene)@|@obed@
+@lung@|@pljuča@
+@lupus@|@luskavica@
+@lute@|@lutnja@
+@luxury@|@raskošje@
+@lying down (to be..)@|@ležati@
+@lynx@|@ris@
+@lyrics@|@besedilo (glasba), tekst (glasba)@
+@machine@|@aparat, mašina, stroj@
+@mad at someone (v)@|@hudovati se@
+@made up of (v)@|@obsegati@
+@Madrid@|@Madrid@
+@magazine@|@revija@
+@maggot@|@ličinka@
+@magician@|@čarovnik@
+@magistrate@|@matičar@
+@magnetic field@|@magnetno polje@
+@magnification@|@povečava@
+@magnificent@|@krasen@
+@magnifying glass@|@povečevalno steklo@
+@magpie@|@sraka@
+@mail@|@pošta@
+@mail box@|@nabiralnik, poštni nabiralnik@
+@main@|@glavni@
+@main board@|@osnovna pločša@
+@main board (pc)@|@osnovna plošča (pc)@
+@main floor@|@pritličje@
+@maintenance@|@vzdrževajne@
+@maïs@|@koruza@
+@major@|@dur (glasba), major, pomemnejši, večji@
+@major (army)@|@major (vojska)@
+@major (music)@|@dur (glasba)@
+@majority@|@večina@
+@make (to..)@|@narediti@
+@make a contract (v)@|@skleniti pogodbo@
+@make a decision (v)@|@odločiti se@
+@make a hole (to..)@|@luknjati@
+@make a mistake  (v)@|@zmotiti se@
+@make a step (to..)@|@stopiti@
+@make acquaint.@|@spoznati@
+@make an effort (v)@|@potruditi se@
+@make come true (v)@|@uresničiti@
+@make mistakes (v)@|@falirati@
+@make ones way (to..)@|@ubrati jo@
+@make possible (v)@|@omogočati@
+@make stronger (v)@|@ojačiti@
+@make use of@|@izkoristiti@
+@maker@|@izdelovalec@
+@making longer@|@podaljšanje@
+@making note of (v)@|@zapisovati@
+@malce@|@malce@
+@mama@|@mama@
+@mamal family@|@sesalec@
+@man@|@moški, mož@
+@manage (v)@|@voditi@
+@management@|@uprava@
+@manager@|@direktor@
+@managing authority@|@upravni organ@
+@manufacture@|@tovarna@
+@manufacturer@|@izdelovalec, proizvajalec@
+@manufacturing@|@proizvodnja@
+@manure@|@gnojilo@
+@manure pile@|@gnojišče@
+@many@|@mnogi@
+@map@|@karta, načrt, zemljevid@
+@map pocket (car)@|@žep za karte (avto)@
+@march@|@marec@
+@march (to..)@|@korakati@
+@mare@|@kobila@
+@marette (housewiring)@|@sponka (hišna elek)@
+@margarine@|@margarina@
+@mariage@|@možitev, poroka, zakon, ženitev@
+@mark@|@oznaka@
+@mark (school)@|@ocena@
+@Mark my word!@|@zapomnite si!@
+@market@|@trg, tržnica@
+@marmelade@|@marmelada@
+@marry (to..)@|@poročiti se@
+@marvelous@|@čudovit@
+@masculin@|@moški@
+@masive@|@masivno@
+@mast@|@jambor@
+@master (v)@|@obvladati@
+@match@|@tekma@
+@material@|@blago@
+@material heap@|@gmota@
+@mathematics@|@matematika@
+@mats (car)@|@talne obloge (avto)@
+@matter@|@predmet, zadeva@
+@mature@|@odrasel, zrel@
+@mature (to..)@|@zoriti@
+@mature (v)@|@zoreti@
+@maximum@|@maksimalen@
+@may@|@maj@
+@may I help you?@|@prosim?@
+@maybe@|@mogoče, morda@
+@McPherson struts@|@McPhersonove noge@
+@me@|@me, mene@
+@me (dativ)@|@mi@
+@me neither@|@jaz tudi ne@
+@me too@|@jaz tudi@
+@meadow@|@loka, travnik@
+@meal@|@obrok@
+@mean v.@|@pomeniti@
+@meaning@|@smisel@
+@measure@|@mera, poteza, ukrep@
+@measure (music)@|@takt (glasba)@
+@measure (v)@|@meriti@
+@meat@|@meso@
+@meat shop@|@mesnica@
+@mechanic@|@mehanik@
+@media@|@medija@
+@medical@|@medicinski@
+@medical fitness@|@zdravstvena sposobnost@
+@medication@|@zdravilo@
+@medicine@|@zdravilo@
+@Mediterranian@|@Sredozemsko morje@
+@medium waves@|@srednji valovi@
+@meet (to..)@|@spoznati, srečati@
+@meet (v)@|@ustrezati@
+@meeting@|@sestanek@
+@melody@|@melodija, napev@
+@melon@|@melona@
+@member@|@član@
+@memorize@|@zapomniti si@
+@memory@|@spomin@
+@memory (pc)@|@pomnilnik@
+@memory bank@|@pomnilnik@
+@mens toilet@|@moško stranišče@
+@mens washroom@|@moško stranišče@
+@mentioned@|@omenjen@
+@menu@|@jedilni list@
+@merchandise@|@blago@
+@merchant@|@trgovec@
+@merchant (f)@|@trgovka@
+@mess@|@godja, nered@
+@message@|@sporočilo@
+@metal@|@kovina, kovinski@
+@metal base@|@kovinska podloga@
+@method@|@metoda@
+@microphone@|@mikrofon@
+@middle@|@sredina, srednji@
+@midget@|@pritlikavec@
+@midnight@|@polnoč@
+@military@|@vojska@
+@military term@|@vojaški rok@
+@milk@|@mleko@
+@milk (v)@|@molsti@
+@milking cow@|@mlekarica@
+@mill@|@mlin@
+@million@|@milijon@
+@millitary service@|@vojaščina@
+@mineral water@|@mineralna voda@
+@minimally@|@najmanj@
+@ministry@|@ministrstvo@
+@minor (music)@|@mol (glasba)@
+@minute@|@minuta@
+@miracle@|@čudež@
+@mirror@|@ogledalo, zrcalo@
+@mislead (v)@|@zavajati@
+@miss@|@gdč (gospodična), gospodična@
+@miss (to..)@|@zamuditi@
+@missed@|@sfaljen@
+@misses@|@gospa@
+@misses)@|@ga (gospa)@
+@mistake@|@napaka, pomota@
+@mister@|@gospod@
+@misunderstanding@|@nesporazum@
+@mittens@|@palčniki@
+@mix (to..)@|@mešati@
+@mixed up@|@zmešan@
+@mixer@|@mešalec@
+@mixer stage@|@mešalna stopnja@
+@mixer tube@|@mešalna elektronka@
+@mobile phone@|@mobilni telefon, mobitel@
+@mobile phone (colloq)@|@regla (pogov.)@
+@mode@|@način@
+@modem@|@modem@
+@modern@|@modern, sodoben@
+@modest@|@preprost, skromen@
+@module@|@modula@
+@moist@|@moker@
+@mom@|@mama@
+@moment@|@moment, trenutek@
+@momentarily@|@trenutno@
+@mommy@|@mama@
+@monastary@|@samostan@
+@monday@|@ponedeljek@
+@monetary@|@denaren@
+@money@|@denar@
+@monitor@|@monitor@
+@month@|@mesec@
+@monument@|@spomenik@
+@mood@|@vzdušje@
+@moon@|@luna, mesec@
+@more@|@bolj, več@
+@morel@|@mavrah@
+@morning@|@jutro@
+@mortgage@|@hipotek@
+@mosquito@|@komar@
+@mosquito plant@|@roženkraut@
+@most@|@večina@
+@most (the..)@|@najbolj@
+@most often@|@najpogosteje@
+@mother@|@mati@
+@motherboard@|@matična plošča@
+@mother-in-law@|@tašča@
+@motor block@|@motorni blok@
+@mountain@|@gora@
+@mouse@|@miš, miška@
+@mouse pad (pc)@|@mišna podloga (pc)@
+@mouth@|@usta@
+@mouth wash@|@ustna voda@
+@move@|@premik@
+@move (to other accom. or city)@|@seliti (se)@
+@move (v)@|@premikati se@
+@movement@|@gibanje, premik@
+@mr. (mister)@|@g. (gospod)@
+@mrs. (madame@|@ga (gospa)@
+@much@|@mnogo, veliko@
+@mud@|@blato@
+@muffler@|@izpušni lonec@
+@multi outlet (elec)@|@razdelilnik@
+@multiply@|@krat, množiti, razmnožiti@
+@multipoint@|@večtočkovno@
+@municipal office@|@občina@
+@municipality@|@občina@
+@muscle@|@mišica@
+@muscular@|@čvrst@
+@museum@|@muzej@
+@mushroom@|@goba@
+@music@|@glasba, muzika@
+@musical instrument@|@glasbilo@
+@musical instruments@|@glasbila@
+@musician@|@glasbenik, muzikant@
+@mustard@|@gorčica@
+@mute@|@nem@
+@mutter (to..)@|@žlobodrati@
+@my@|@moj@
+@my name@|@ime mi@
+@my name is@|@ime mi je@
+@nail@|@žebelj@
+@nail (finger- or toe)@|@noht@
+@nail polish@|@lak@
+@naked@|@gol@
+@name@|@ime@
+@namely@|@namreč, sicer@
+@napkin@|@prtiček, servieta@
+@narrow@|@ozek@
+@nation@|@ljudstvo, narod@
+@national@|@naroden@
+@national costume@|@noša@
+@nationality@|@narodnost@
+@nature@|@narava@
+@navel@|@popek@
+@near@|@ob, pri@
+@necessary@|@nepogrešljiv, potreben, potrebno, treba@
+@necessity@|@potreba@
+@neck@|@vrat@
+@neck-tie@|@kravata@
+@need@|@potreba, treba@
+@needing (to be..)@|@potrebovati@
+@needle@|@igla@
+@neighbour@|@sosed@
+@neighbourhood (the..)@|@okolica@
+@neither....nor@|@ni@
+@nephew@|@nečak@
+@nervous@|@nerven, živčen@
+@nest@|@gnezdo@
+@net@|@mreža@
+@Netherlands (The..)@|@Nizozemska@
+@nettles@|@kopriva@
+@network@|@omrežje@
+@networking card@|@mrežna kartica@
+@neuter@|@srednji@
+@never@|@nikar, nikdar, nikoli@
+@new@|@nov@
+@new thing@|@novost@
+@New Zeland@|@Nova Zelandija@
+@news@|@novica, novice, poročila@
+@newspaper@|@dnevnik, časopis@
+@next@|@naslednji@
+@next to@|@blizu, poleg, zraven@
+@nice@|@lep, lepo@
+@niece@|@nečakinja@
+@night@|@noč@
+@nimble@|@okreten@
+@nine@|@devet@
+@nineteen@|@devetnajst@
+@nineteenth@|@devetnajsti@
+@nineth@|@deveti@
+@ninety@|@devetdeset@
+@nipple (on a bottle)@|@cucelj@
+@nipple on breast@|@prsna bradavica@
+@niveau@|@nivo@
+@no@|@ne@
+@no one@|@nihče@
+@no way@|@nikak@
+@no where@|@nikamor@
+@noble@|@plemenit@
+@nod (v)@|@kimati@
+@noise@|@šum@
+@noisey@|@hrupen@
+@nomenclature@|@kosovnica@
+@non.deferrable@|@neodložljiv@
+@non.delayable@|@neodložljiv@
+@none@|@nič, nikak, noben@
+@none-the-less@|@vseeno@
+@non-smokers@|@nekadilci@
+@noon@|@opoldan, poldan, poldne@
+@north@|@sever@
+@north (adj)@|@severen@
+@Northern Ireland@|@Severna Irska@
+@Norwegian@|@Norveška@
+@nose@|@nos@
+@not (eg. ne morem... I can not)@|@ne@
+@not available@|@ni na voljo@
+@not bad@|@ni slabo@
+@not expensive@|@poceni@
+@not like@|@ne marati@
+@not occupied@|@prost@
+@not to care for@|@ne marati@
+@not until@|@šele@
+@not very reliable@|@ne najbolj zanesljiv@
+@not yet@|@ne še@
+@notary@|@notar@
+@notation@|@notni zapis@
+@note@|@beležka, beležnica@
+@note (music)@|@nota@
+@note making (music)@|@notiranje@
+@notebook@|@beležka, beležnica, zvezek@
+@noted@|@zabeležen@
+@nothing@|@nič, ničesar@
+@nothing but@|@samo@
+@notice@|@razpis@
+@notice (v)@|@opaziti@
+@notification@|@obvestilo, sporočilo@
+@notify v.@|@obveščati@
+@noun case@|@sklon@
+@nourish (to...)@|@hraniti@
+@nourishing@|@hranjenje@
+@nourishment@|@hrana@
+@novelty@|@novost@
+@november@|@november@
+@now@|@sedaj@
+@nozzle (gas station)@|@polnilna pištola@
+@nucleus@|@jedro@
+@nudge (v)@|@poriniti (rahlo)@
+@null (v)@|@razveljaviti@
+@nullify@|@uničiti@
+@number@|@številka, število@
+@number of cylinders@|@število valjev@
+@nurse@|@medicinska sestra, sestra@
+@nut@|@matica, vijak (kitara)@
+@nutrition@|@prehrana@
+@oat(s)@|@oves@
+@object@|@predmet@
+@objection@|@ugovor@
+@objective@|@cilj, objektiven@
+@obligated@|@dolžan@
+@obligation@|@obveznost@
+@obligatory@|@obvezen@
+@obliquely@|@indirektno, nagnjeno, poševno@
+@oboe@|@oboa@
+@obscure@|@temen@
+@observing (to be..)@|@opazovati@
+@obstacle@|@prepreka, zadržek@
+@obstruct (v)@|@preprečiti@
+@obstruction@|@ovira, prepreka@
+@obtain@|@dobiti@
+@occasion@|@priložnost@
+@occasionally@|@včasih@
+@occupied@|@zaposlen, zaseden@
+@ocean@|@morje@
+@oceanliner@|@ladja@
+@october@|@oktober@
+@odometer@|@merilec vrtljajev, števec kilometrov@
+@oesophagus@|@požiralnik@
+@of course@|@seveda@
+@of ones own accord@|@samovoljno@
+@of what@|@česar@
+@of which@|@česar@
+@off@|@sfaljen@
+@off side (sports)@|@ofsajd@
+@offence (minor)@|@prekršek@
+@offer@|@ponudba@
+@offer (to..)@|@ponuditi@
+@offerer of goods@|@ponudnik@
+@office@|@biro, organ, pisarna, urad@
+@officer (commissioned)@|@častnik@
+@officer (non commissioned)@|@podčastnik@
+@official gazette@|@uradni list@
+@official holiday@|@praznik@
+@officially revised text@|@uradno prečiščeno besedilo@
+@often@|@često, pogost, pogosto@
+@oh!@|@joj!@
+@ohm@|@ohm@
+@oignon@|@čebula@
+@oil@|@olje@
+@oil dipstick@|@merilna palica za olje@
+@oil filter@|@oljni filter@
+@oil pan@|@korito za olje@
+@ointment@|@mazilo@
+@ok@|@prav@
+@old@|@star@
+@old man@|@starček@
+@olive@|@oliva@
+@olive tree@|@oljka@
+@omelette@|@omleta@
+@on@|@na, po@
+@on a trip@|@na izletu@
+@on board@|@na krovu@
+@on business@|@službeno@
+@on foot@|@peš@
+@on ones feet (to be..)@|@stati@
+@on principle@|@načelno, načeloma@
+@on the recommendation of@|@na predlog@
+@on the way@|@mimogrede@
+@on vacation@|@na dopustu@
+@once@|@enkrat@
+@one@|@eden@
+@one (f)@|@ena@
+@one (m)@|@en@
+@one after the other@|@zapored@
+@one hundred@|@sto@
+@one quarter@|@četrt@
+@one-pot@|@enolončnica@
+@one-way ticket@|@enosmerna vozovnica@
+@only@|@le, samo, šele@
+@opcijsko@|@optional@
+@open@|@odprt, odprto@
+@open (to..)@|@odpirati, odpreti@
+@opener@|@odčepnik@
+@opener (can/bottle)@|@odpirač@
+@opening@|@reža, uzvod@
+@opera@|@opera@
+@operating-  to be ...@|@delovati@
+@operating system (pc)@|@operacijski sistem@
+@operation (pc)@|@opravilo@
+@opinion@|@mnenje@
+@opponent@|@nasprotnik@
+@opportunity@|@priložnost@
+@oppose (v)@|@nasprotovati@
+@opposite@|@nasproten, nasprotje@
+@opposition@|@ugovor@
+@oppostion to@|@nasprotovanje@
+@optical drive@|@optični pogon@
+@optimize (v)@|@optimizirati@
+@option@|@možnost@
+@optional@|@poljuben@
+@or@|@ali@
+@or circuit)@|@krmiti@
+@orange@|@oranžen, pomaranča@
+@orange colour@|@oranžna barva@
+@orbit@|@krožnica@
+@orchestra@|@orkester@
+@order@|@nalog, naročilo, red@
+@order (army)@|@povelje@
+@order (v)@|@naročiti@
+@orderer@|@naročnik@
+@ordinary@|@navaden, preprost@
+@organ (body)@|@organ@
+@organ (music)@|@orgle (glasba)@
+@organisation@|@organizacija@
+@organize (v)@|@razvrstiti@
+@organize according to@|@razvrstiti glede na..@
+@orientation (politics)@|@opredelitev@
+@origin@|@izvor, poreklo, rod@
+@original@|@prvobiten@
+@originates from@|@izhajati@
+@oscillate@|@nihati@
+@oscillator@|@oscilator@
+@Oslo@|@Oslo@
+@other@|@drugi@
+@out@|@avt@
+@out (outwards)@|@ven@
+@out of@|@iz@
+@out of bounds@|@avt@
+@outpost@|@predstavništvo@
+@output (elect)@|@izhod@
+@output amplifier stage@|@končna ojačevalna stopnja@
+@outside@|@ven, zunaj@
+@outskirts (of a city)@|@predmestje@
+@outwards@|@navzven@
+@oven@|@peč, pečica@
+@over there@|@tja@
+@overcoat@|@plašč@
+@overflowing@|@bujen@
+@owing@|@dolgovati, dolžan@
+@owing someone something - to be.....@|@dolgovati@
+@owner@|@gospodar, lastnik@
+@ox@|@vol@
+@package@|@zavitek@
+@page@|@list, stran@
+@pail@|@vedro@
+@pain@|@bolečina@
+@paint (car)@|@lak@
+@paint (to ...)@|@barvati@
+@painting@|@slika@
+@pair@|@par@
+@palace@|@palača@
+@palette@|@paleta@
+@palm (of hand)@|@dlan@
+@palm tree@|@palma@
+@pancake@|@palačinka@
+@pane@|@šipa@
+@pants@|@hlače@
+@paper@|@papir@
+@paper shop@|@papirnica@
+@paper tray@|@kaseta za papir@
+@paragraph@|@odstavek@
+@parallel port@|@paralelni vhod@
+@parasites@|@paraziti, zajedalci@
+@pardoned@|@oproščen@
+@parents@|@roditelji, starši@
+@Paris@|@Pariz@
+@parish@|@fara@
+@park@|@park@
+@parket flooring@|@parket@
+@parsley@|@peteršilj@
+@part@|@del@
+@participate (v)@|@udejstvovati se, udeležiti se@
+@participation@|@udeležba@
+@particular@|@poseben@
+@party@|@zabava@
+@pass on something@|@podaja@
+@passage@|@prehod@
+@passenger (f)@|@potnica@
+@passenger (m)@|@potnik@
+@passport@|@potna listina, potni list@
+@password@|@geslo@
+@pasta@|@testenine@
+@paste@|@prilepi@
+@paste (v)@|@prilepiti@
+@pasture@|@pašnik@
+@pate@|@pašteta@
+@path@|@pot, steza@
+@patriot@|@državljan@
+@pattern (tailoring)@|@kroj@
+@pause@|@pavza, počitek@
+@pay@|@plača@
+@pay (to..)@|@plačati@
+@pay attention to (to..)@|@poslušati@
+@pay out (to...)@|@izplačati@
+@payment@|@izplačevanje, plačilo@
+@payout@|@dajatev@
+@payouts@|@izplacila@
+@pea (s)@|@grah@
+@peace@|@mir@
+@peach@|@breskev@
+@peach tree@|@breskev@
+@peach(fruit)@|@breskev@
+@peacock@|@pav@
+@peacock butterfly@|@pavlinček@
+@pear@|@hruška@
+@peasant@|@kmet@
+@pedagogy@|@pedagogika@
+@pedal@|@pedal@
+@pedestrian@|@pešak, pešec@
+@pedestrian crossing@|@prehod za pešce@
+@peel (to..)@|@olupiti@
+@pen@|@pero@
+@penalty@|@kazen@
+@penalty box@|@kazenski prostor@
+@penalty shot@|@kazenski strel@
+@pencil@|@svinčnik@
+@pendant@|@obesek@
+@pension@|@pokojnina, upokojnina@
+@pensioned@|@upokojen@
+@pensioner@|@upokojenec@
+@pensioner (f)@|@upokojenka@
+@people@|@ljudje, ljudstvo@
+@peoples@|@narod@
+@pepper@|@poper@
+@pepper (garden grn@|@paprika@
+@peppy@|@poskočen@
+@perch@|@gred@
+@perculiar@|@čuden@
+@percussion@|@tolkala@
+@perennials@|@trajnice@
+@perfect@|@odličen, perfekten, popoln@
+@perfected@|@dokončal, izpilil do konca, popolnoma izblikovan@
+@perform (v)@|@izvajati@
+@performance@|@predstava, učinkovitost, učinkovitost delovanja@
+@performing@|@opravljanje@
+@perfumed@|@dišeč@
+@perhaps@|@morda@
+@permanent residence@|@stalno prebivališče@
+@permission@|@dovoljenje@
+@permit@|@dovoliti@
+@permit me@|@dovolite mi@
+@perpendicularly@|@navpično, pravokotno@
+@person@|@oseba@
+@person in receipt of...@|@uživalec@
+@personal@|@oseben@
+@personal names@|@osebna imena@
+@pet@|@domača žival@
+@pet (v)@|@pobožati@
+@petrol@|@bencin@
+@pharmacist@|@lekarnar@
+@pharmacy@|@lekarna@
+@phase@|@faza@
+@phone (to..)@|@telefonirati@
+@photo@|@fotografija@
+@photocopy (to...)@|@fotokopirati@
+@photograph@|@fotografija@
+@photograph (to...)@|@fotografirati@
+@photographer@|@fotograf@
+@photography@|@fotografija@
+@phrase@|@besedna zveza, izraz, stavek@
+@physics@|@fizika@
+@piano@|@klavir@
+@piano keyboard@|@tabulatura@
+@piccolo@|@pikolo@
+@pick (guitar)@|@trzalica@
+@pick (v)@|@kljuvati@
+@pick up (to..)@|@nabirati@
+@picking (up) (v)@|@pobirati@
+@pickled cucumber@|@kumarica@
+@picnic@|@piknik@
+@picture@|@slika@
+@pie@|@pita@
+@piece@|@kos@
+@pig@|@prašič, pujs, svinja@
+@pigeon@|@golob@
+@pijamas@|@pižama@
+@pill@|@tableta@
+@pillow@|@vzglavje@
+@pin stripe (car)@|@poudarjena proga (avto)@
+@pine tree@|@bor@
+@pineapple@|@ananas@
+@pink colour@|@roza@
+@pipe@|@cev, cev, dovod@
+@pirate@|@gusar, pirat@
+@pistol@|@pištola@
+@pitch (music)@|@višina tona (glasba)@
+@pitch pipe@|@uglaševalec@
+@pitcher@|@vrč@
+@pity@|@škoda@
+@pixel@|@slikovna pika, slikovna točka@
+@place@|@kraj@
+@place (eg. my spot or place)@|@mesto@
+@place (to..)@|@postaviti@
+@place (v)@|@zastaviti@
+@place where parts touch@|@stično mesto@
+@places@|@mesta@
+@plain@|@preprost, travnik@
+@plain (land)@|@ravnina@
+@plan@|@načrt@
+@plan (v)@|@načrtovati@
+@plan to (v)@|@načrtovati@
+@plane@|@letalo@
+@plane (wood?)@|@rezkalnik@
+@plane ticket@|@letalska karta@
+@planet@|@planet@
+@plant@|@rastlina, tovarna@
+@plant (to..)@|@sejati, zasaditi@
+@planted@|@gojen@
+@plaque@|@plošča@
+@plastic@|@plastičen@
+@plate@|@krožnik, plošča@
+@plate (elec)@|@anoda (elek)@
+@platform@|@peron@
+@play (to...)@|@igrati@
+@player@|@predvajalnik@
+@playground@|@igrišče@
+@playing@|@predvajanje@
+@pleasant@|@prijazen, prijeten@
+@please@|@prosim@
+@pleased to meet you@|@me veseli@
+@pleasure@|@užitek@
+@pledge@|@polog@
+@plenty@|@pretek@
+@pliers@|@klešče@
+@plow@|@plug@
+@plow (to..)@|@orati@
+@plum@|@sliva@
+@plural@|@množina@
+@pneumatic brake@|@pnevmatična zavora@
+@pocket@|@žep@
+@pocket (adj)@|@žepni@
+@pocket handkerchief@|@žepni robec@
+@pocket money@|@žepnina@
+@pocket-book@|@denarnica@
+@poem@|@pesem@
+@poet@|@pesnik@
+@point@|@špica, točka@
+@point of view@|@mnenje@
+@poison@|@strup@
+@poisonous@|@strupen@
+@Poland@|@Poljska@
+@pole ( N or S)@|@tečaj@
+@pole (elec)@|@pol (elek)@
+@pole contact@|@polova sponka@
+@police@|@policija@
+@polite@|@vljuden@
+@politics@|@politika@
+@pool@|@kopališče@
+@poor@|@slab, ubog@
+@poor man@|@revež@
+@poor thing@|@revež@
+@poorly (adv.)@|@slabo@
+@popular@|@popularen, priljubljen, razširjen, slaven@
+@popularity@|@popularnost, razširjenost, slavnost@
+@pork@|@svinjina@
+@port@|@kanal, luka, pristanišče@
+@port! (boat)@|@krmilo levo@
+@portable@|@prenosen, priročen@
+@portable typewriter@|@priročni pisalni stroj@
+@porter@|@postrešček@
+@portion@|@povzetek@
+@Portugal@|@Portugalska@
+@pose a question (v)@|@zastaviti vprašanje@
+@position@|@lega, položaj@
+@possession@|@posest@
+@possibility@|@možnost, varianta@
+@possible@|@možen@
+@possibly@|@mogoče@
+@post@|@kol, pošta@
+@post office box (postni-)@|@predal@
+@postal code@|@poštna številka@
+@postcard@|@razglednica@
+@postgraduate studies@|@podiplomski študij@
+@posting@|@znak@
+@pot@|@lonec@
+@potage@|@juha@
+@potatoe@|@krompir@
+@potentiometer@|@potentiometer@
+@potted flower@|@lončnica@
+@poweful@|@močan@
+@power@|@moč@
+@power dual diagonal@|@diag. dvokrožni zavor. sistem@
+@power locks@|@centralno zaklepanje@
+@power steering@|@servo volan@
+@power supply@|@napajalnik@
+@power windows@|@električni dvig stekel, električni pomik stekel@
+@power-up@|@vklop@
+@practicing ones faith@|@izpovedovanje vere@
+@Prague@|@Praga@
+@preceding@|@prej, prejšnji@
+@precise@|@precizen@
+@precisely@|@natančno@
+@precursor@|@predhodnica@
+@prediction@|@napoved@
+@predominating (v)@|@prevladovati@
+@prelude@|@predigra, preludij, uvod@
+@prematurely@|@predčasno@
+@preparation@|@priprava@
+@prepare (to..)@|@pripraviti@
+@preparedness@|@pripravljenost@
+@preposition@|@predlog@
+@prescribe (v)@|@predpisati@
+@prescribed@|@predpisan@
+@prescription@|@recept@
+@present@|@darilo@
+@presentation@|@predstava@
+@president@|@predsednik@
+@press at the same time@|@sočasen pritisk@
+@press the on button@|@stisni tipko za vklop@
+@pressing@|@nujen, nujno@
+@pressure@|@pritisk@
+@pressure release valve@|@ventil za zmanjšvanje pritiska@
+@prevailing (v)@|@prevladovati@
+@prevent (v)@|@preprečiti@
+@preview@|@predogled@
+@price@|@cena@
+@price list@|@cenik@
+@priest@|@duhovnik@
+@primary@|@prvobiten@
+@primary winding@|@primarno navitje@
+@principal@|@glavni@
+@principle@|@načelo@
+@print@|@natisni, tisk@
+@print (to..)@|@natisniti, tiskati@
+@print out (v)@|@izpisovati@
+@print preview@|@predogled tiskanja@
+@printed matter@|@tiskovina@
+@printer@|@tiskalnik@
+@printer (tradesman)@|@tiskar@
+@printing (to be..)@|@natiskati@
+@printing speed@|@hitrost tiska@
+@printing technology@|@tehnologija tiska@
+@printout@|@izpis@
+@prison@|@ječa, zapor@
+@private@|@zaseben@
+@prize@|@nagrada@
+@probably@|@verjetno@
+@probation period@|@pripravniška doba@
+@problem@|@problem@
+@procedure@|@postopek@
+@process@|@postopek@
+@processing@|@predelava@
+@processor@|@procesor@
+@procurement@|@pridobitev@
+@producer@|@izdelovalec@
+@product@|@izdelek@
+@productivity@|@produktivnost@
+@profession@|@poklic, stan@
+@profile@|@profil@
+@profit@|@pridobitev@
+@profound@|@globok@
+@program@|@program@
+@prohibited@|@prepovedan, prepovedano@
+@projecting roof@|@nadstrešek@
+@prong (elec)@|@pol (elek)@
+@pronoum@|@zaimek@
+@proof@|@utemeljitev@
+@propell (v)@|@gnati@
+@proper@|@pristojen@
+@proper authority@|@pristojni organ@
+@properly@|@primerno@
+@property@|@lastnina, lastnost, posestvo@
+@proposal@|@predlog@
+@proprieter@|@gospodar@
+@prosciutto@|@pršut@
+@protect (v)@|@zaščititi@
+@protected@|@zaščiten@
+@proteins@|@beljakovine@
+@protest@|@ugovor@
+@provision@|@določba, odločba@
+@provoke@|@izziv@
+@prowled demonstrate@|@košatiti se@
+@prudent@|@umen@
+@psychiatrist@|@psihiater@
+@psychologist@|@psiholog@
+@pub@|@gostilna@
+@public@|@javen, javnost@
+@publicity@|@reklama@
+@publish (to...)@|@izdati@
+@published@|@izdan@
+@published v.@|@izhajati@
+@puddle@|@luža@
+@pull@|@poteg@
+@pull (to..)@|@vleči@
+@pull (v)@|@potegniti, povleči@
+@pull oneself together in a ball@|@prihuliti se@
+@pulling (car)@|@radiranje@
+@pullover@|@pulover@
+@pulsating@|@utripajoč@
+@pulse@|@impulz, utrip@
+@pump@|@črpalka@
+@pumpkin@|@buča@
+@punishment@|@kazen@
+@pup@|@mladič@
+@pupil@|@učenec@
+@purple@|@vijoličen@
+@pursuant to@|@na podlagi@
+@pushing off (v)@|@odrivati@
+@put (to..)@|@postaviti@
+@put aside (to..)@|@shraniti@
+@put away (to..)@|@shraniti@
+@put in@|@vložiti@
+@put out (to..)@|@ugasniti@
+@put out a fire (to..@|@gasiti@
+@put to cook (to..)@|@skuhati@
+@put together (to..)@|@sestaviti@
+@pygmy@|@pritlikavec@
+@qualification@|@kvalifikacija@
+@quality@|@kakovost, kvaliteta@
+@queen@|@kraljica@
+@question@|@vprašanje@
+@questionnaire@|@anketa@
+@queue@|@vrsta@
+@quick@|@brzo, hiter@
+@quickly@|@hitro@
+@quiet@|@tih@
+@quilt@|@koter@
+@quite@|@precej@
+@quote@|@navesti@
+@rabbit@|@kunec, zajec@
+@rabbit house@|@zajčnica@
+@race@|@dirka, rod@
+@race - to....@|@dirkati@
+@race around - to...@|@dirjati@
+@racket@|@lopar@
+@radiate (v)@|@sevati@
+@radiation@|@sevanje@
+@radiator (car)@|@hladilnik (avto)@
+@radio@|@radio@
+@radio waves@|@radijski valovi@
+@radish@|@redkev, redkvica@
+@raffle (v)@|@žrebati@
+@ragoût@|@enolončnica@
+@railroad@|@železnica@
+@railroad station@|@železniška postaja@
+@rain@|@dež@
+@rain coat@|@dežni plašč@
+@rainbow@|@mavrica@
+@raison@|@rozina@
+@ram@|@ram (delovni spomin)@
+@range@|@območje, obseg, področje, razpon@
+@rank@|@čin@
+@rapid@|@brzo, hiter@
+@rapidity@|@hitrost@
+@rarely@|@izjemoma, redko, redkokdaj@
+@rasberry patch@|@malinjak@
+@raspberry@|@malina@
+@raspberry juice@|@malinovec@
+@rat@|@podgana@
+@rate (financial)@|@višina@
+@rate of exchange@|@menjalni tečaj@
+@raw@|@surov@
+@razporejen@|@divided into@
+@read@|@brati@
+@read (to...)@|@čitati@
+@read over (v)@|@prebrati@
+@read through@|@prebrati@
+@readiness@|@pripravljenost@
+@ready to use@|@pripravljen za delo@
+@realize (v)@|@uresničiti@
+@really@|@zares@
+@rear end (od device)@|@zadek@
+@rear light@|@zadnja luč@
+@rear panel of pc@|@zadnja stran pc-ja@
+@rear wheel drive@|@pogon zadaj@
+@rear-view mirror@|@vzvratno ogledalo@
+@reason@|@razlog, utemeljitev, vzrok@
+@reasonable@|@smiselno, ugoden, ugoden@
+@reasoning@|@utemeljitev@
+@reassign (v)@|@redefinirati@
+@receipt@|@potrdilo@
+@receive (to..)@|@prejeti, pridobiti, sprejeti@
+@receiver@|@sprejemnik@
+@reception@|@recepcija@
+@receptionist@|@receptor@
+@recipe@|@recept@
+@recognition@|@prepoznava@
+@recognize (a doc. or qualifications)@|@priznati@
+@recognize (to..)@|@spoznati@
+@recognize (v)@|@zaznavati@
+@recognizes@|@zazna@
+@recommend (v)@|@predpisati@
+@recommendation@|@predlog@
+@record@|@plošča@
+@record (to..)@|@posneti@
+@recorded@|@posnet, zabeležen@
+@recorder@|@blok-flavta, rekorder, snemalnik@
+@recruit@|@nabornik@
+@rectangle@|@pravokotnik@
+@rectifier@|@usmernik@
+@red@|@rdeč@
+@red card@|@rdeči karton@
+@red)@|@paprika@
+@redeem@|@uveljaviti@
+@redefine (v)@|@redefinirati@
+@redhead@|@rdečeglav@
+@reduce@|@pomanjšava@
+@reduce (to..)@|@zmanjšati@
+@reduction@|@pomanjšava, popust@
+@referee@|@stranski sodnik@
+@reference book@|@priročnik@
+@reflect (to..)@|@premisliti@
+@reflection@|@razmišljanje@
+@refresh (v)@|@obnoviti@
+@refrigerator@|@hladilnik@
+@refuge@|@zavetje@
+@refuse (to..)@|@odkloniti@
+@refuse (v)@|@odpovedati, odreči@
+@régime@|@dijeta@
+@region@|@območje@
+@registered trade mark@|@zaščitena blagovna znamka@
+@regret@|@žal@
+@regular@|@reden@
+@regularly@|@enakomerno@
+@regulate (v)@|@uravnavati@
+@regulation@|@določba, predpis@
+@reinforce (v)@|@ojačiti@
+@relates to (v)@|@nanašati se@
+@relative@|@sorodnik@
+@release@|@odpust@
+@released from@|@oproščen@
+@reliable@|@zanesljiv@
+@reliance@|@zanašanje@
+@religion@|@vera@
+@remaider@|@preostalo@
+@remember (to..)@|@spomniti se@
+@Remember this! (polite or plural)@|@zapomnite si!@
+@rememberance@|@spomin@
+@reminice (to..)@|@spomniti se@
+@remote (mech.) trunk release@|@odpiranje prtljažnka iz kabine@
+@remote fuel filler door release@|@odpir. (gas) pokrova iz kabine@
+@removable media (pc)@|@izmenljiva medija@
+@removal@|@odvzem@
+@remove@|@odstrani@
+@remove (v)@|@odstraniti@
+@remuneration@|@plača@
+@rendez-vous@|@zmenek@
+@renesance@|@renesančna@
+@rent (to..)@|@najeti@
+@rent fee@|@najemnina@
+@repair@|@popravilo@
+@repair (to..)@|@popraviti@
+@repair shop@|@servis@
+@repeat (polite)@|@ponovite@
+@repeat (to..)@|@ponoviti@
+@repetition (music)@|@ponavljaj (glasba)@
+@replace someone@|@nadomestiti koga@
+@replacement@|@nadomestilo@
+@reply@|@odgovor@
+@report@|@poročilo@
+@report to (v)@|@priglasiti se@
+@reporter@|@novinar@
+@reports@|@poročila@
+@represent (ing) (v)@|@predstavljati@
+@represent (v)@|@predstaviti@
+@representative@|@predstavništvo@
+@request@|@prošnja, zahteva, zaprosilo@
+@request (v)@|@prositi@
+@requestor@|@prosilec@
+@rescue@|@reševanje@
+@rescue (v)@|@rešiti@
+@rescuing@|@reševanje@
+@reservation@|@rezervacija@
+@reserve (to..)@|@rezervirati@
+@reserved@|@rezervirano@
+@reset@|@vroč zagon@
+@reset (v. pc)@|@resetirati@
+@reside (to..)@|@stanovati@
+@residence@|@bivanje, prebivališče@
+@residence for seminarians@|@semenišče@
+@resignation@|@odpoved@
+@resist (v)@|@nasprotovati@
+@resolution@|@ločljivost@
+@resonant circuit@|@nihajni krog@
+@respond (to..)@|@odgovoriti@
+@responsibility@|@odgovornost@
+@responsible@|@odgovoren@
+@rest@|@odmor@
+@rest (music)@|@pavza (glasba)@
+@restaurant@|@restavracija@
+@resting (to be..)@|@počivati@
+@resting place@|@ležišče@
+@restriction@|@omejitev@
+@result@|@rezultat@
+@resulted@|@je končal, je pripeljalo do@
+@results (medical)@|@izvidi (zdr)@
+@retaining wall@|@škarpa@
+@rethinking of something@|@razmišljanje@
+@retired@|@upokojen@
+@return (to..)@|@priti nazaj@
+@return ticket@|@povratna vozovnica@
+@returning@|@vračanje@
+@reverse@|@nasprotje@
+@reverse (car gear)@|@vzvratna prestava (avto)@
+@revert (v)@|@preklapljati, priklopiti@
+@review@|@pregled@
+@reward@|@nagrada@
+@rewind@|@hitro vrtenje nazaj@
+@re-wrap (to..)@|@previti@
+@rheumatism@|@revma@
+@rhythm@|@ritem@
+@rich@|@bogat@
+@ride a bike (to..)@|@kolesariti@
+@ride an animal (to...) ( horse@|@jahati@
+@rifle@|@puška@
+@right@|@desno, pravica@
+@right away@|@takoj@
+@right!@|@prav@
+@rim@|@rob@
+@ring@|@prstan@
+@ring a bell (to..)@|@zvoniti@
+@ripe@|@zrel@
+@ripen (to..)@|@zoriti@
+@ripen (v)@|@zoreti@
+@risk (v)@|@tvegati@
+@risky@|@tvegano@
+@river@|@reka@
+@road@|@cesta@
+@roast@|@pečenka@
+@roasted@|@pečen@
+@robe@|@halja@
+@robin (bird)@|@taščica@
+@robust@|@čvrst@
+@rock@|@skala@
+@rock goat@|@kozorog@
+@rocking chair@|@gugalnik@
+@roll up (v)@|@zavihati@
+@rom@|@rom (bralni spomin)@
+@romance language@|@romanski jezik@
+@Romania@|@Romunija@
+@Rome@|@Rim@
+@roof@|@krov, streha@
+@room@|@prostor, soba@
+@rooster@|@petelin@
+@root@|@koren@
+@rope@|@vrv@
+@rose@|@roza, vrtnica@
+@rosehip (bot.)@|@šipek@
+@rosette@|@roseta@
+@rot (v)@|@prepereti@
+@rotation@|@krožnica@
+@roten@|@preperel@
+@round@|@okrogel@
+@route@|@cesta, pot@
+@row@|@vrsta@
+@row of trees@|@drevored@
+@rub@|@mazilo@
+@rubber@|@guma@
+@rubber (for erasing)@|@radirka@
+@rubber bearing@|@gumijasti ležaj@
+@rubber grommet@|@gumijasti ležaj@
+@rubbish@|@smeti@
+@rucksack@|@nahrbnik@
+@rudder@|@grednica, krmilo@
+@rug@|@preproga@
+@rule@|@načelo, pravilo@
+@ruler@|@ravnilo@
+@ruling@|@odločba@
+@ruminate on@|@razmišljati@
+@run (to..)@|@teči@
+@run away (v)@|@zbežati@
+@runs out (v)@|@steči@
+@Russia@|@Rusija@
+@russian (f)@|@Rusinja@
+@russian (m)@|@Rus@
+@russian language@|@ruščina, rusko@
+@rust@|@rja@
+@rust proofing warranty@|@garancija proti rji@
+@rye@|@rž@
+@sachel@|@aktovka@
+@sack@|@torba, vreča@
+@sacristy@|@zakristija@
+@sad (m)@|@žalosten@
+@sadness@|@žalost@
+@safe@|@varen@
+@safe house@|@varna hiša@
+@safety@|@varnost@
+@safety belt@|@varnostni pas@
+@safety pin@|@varnostna sponka@
+@saffron (meadow type)@|@podlesek@
+@safron@|@žafran@
+@sail@|@jadro@
+@sail (v)@|@pluti@
+@sailboat@|@jadrnica@
+@salad@|@solata@
+@salamander@|@močerad@
+@sales@|@prodaja@
+@sales associate@|@prodajalec@
+@saleslady@|@trgovka@
+@salesperson@|@trgovec@
+@salesperson (f)@|@prodajalka@
+@salesperson (m)@|@prodajalec@
+@salmon@|@losos@
+@salon@|@dnevna soba@
+@salt@|@sol@
+@salty@|@slan@
+@salutations@|@pozdravi@
+@same@|@isti@
+@sand@|@pesek@
+@sandals@|@sandali@
+@sandwich@|@sendvič@
+@santa claus@|@božiček@
+@sardine@|@sardina@
+@sargent@|@narednik@
+@satisfied@|@zadovoljen@
+@satisfy ones hunger (v)@|@nasititi@
+@saturate (v)@|@nasititi@
+@saturated@|@sit@
+@saturday@|@sobota@
+@sauce@|@omaka@
+@sausage@|@hrenovka, klobasa@
+@save (to..)@|@shraniti@
+@save (v)@|@prihraniti, rešiti@
+@save as@|@shrani kot@
+@saw@|@žaga@
+@saxophone@|@saksofon@
+@say (to..)@|@praviti, reči@
+@says (he/she/it)@|@reče@
+@scale@|@lestvica@
+@scan (v)@|@preleteti z očmi, skenirati@
+@scarf@|@šal@
+@scheduled to@|@določen za@
+@schematic@|@šema, shema@
+@school@|@šola@
+@schooling@|@izobrazba, šolanje@
+@science@|@znanost@
+@scientific@|@znanstveni@
+@scissors@|@škarje@
+@scoop@|@lopatica, zajemalka@
+@score@|@partitura@
+@Scotland@|@Škotska@
+@scott (man)@|@Škot@
+@scott (woman)@|@Škotinja@
+@scoup of ice cream@|@kepa@
+@screen saver@|@ohranjevalnik zaslona@
+@screw@|@vijak@
+@screw in (v)@|@priviti@
+@screwdriver@|@izvijač@
+@screwed on to@|@privit@
+@screwed to@|@zvijačen@
+@scrub (to..)@|@ribati@
+@sculptor@|@kipar@
+@sea@|@morje@
+@Sea@|@Sredozemsko morje@
+@sea shells@|@školjke@
+@seam@|@šiv@
+@search@|@iskanje, preiskava@
+@search (to...)@|@iskati@
+@searching@|@iskanje@
+@season@|@letni čas, sezona@
+@seat (car/bus/etc)@|@sedež@
+@second@|@drugi@
+@second (eg. 60 sec = 1min)@|@sekunda@
+@secondary winding@|@sekundarno navitje@
+@secretary (f)@|@tajnica@
+@secretary (m)@|@tajnik@
+@section@|@del, oddelek@
+@secure to@|@pritrditi@
+@security@|@varnost@
+@sediment@|@usedlina@
+@see (to..)@|@videti@
+@seed@|@seme@
+@seed factory@|@semenarna@
+@seed plant@|@semenarna@
+@seem (v)@|@zdeti@
+@seldom@|@redkokdaj@
+@select (v)@|@izbrati@
+@select all@|@izberi vse@
+@selected for@|@določen za@
+@selectivity@|@selektivni učinek@
+@self@|@samostojno@
+@self (reflexive component)@|@se@
+@self-serve@|@samopostrežba@
+@sell (to..)@|@prodati@
+@sell out@|@razprodaja@
+@selling (to be..)@|@prodajati@
+@semenarian@|@bogoslovec@
+@semi@|@pol@
+@seminarian@|@semeniščnik@
+@send (to..)@|@poslati@
+@sense@|@smisel@
+@sensible@|@smiselno@
+@sent off to@|@napotitev@
+@sentence@|@stavek@
+@separate (v)@|@razmakniti@
+@september@|@september@
+@sepulchre@|@grobnica@
+@sequence@|@red@
+@serial port@|@serijski vhod@
+@series@|@nabor@
+@serious@|@resen@
+@serious illness@|@huda bolezen@
+@serpent@|@kača@
+@serve out (v)@|@odslužiti@
+@serve to the end@|@doslužiti@
+@service@|@postrežba@
+@serviette@|@prtiček, servieta@
+@sess pool@|@gnojnica@
+@set (pc)@|@nabor (pc)@
+@set on fire (to..)@|@zažgati@
+@seven@|@sedem@
+@seventeen@|@sedemnajst@
+@seventeenth@|@sedemnajsti@
+@seventh@|@sedmi@
+@seventy@|@sedemdeset@
+@sever@|@strežnik@
+@sew (to..)@|@šivati@
+@sew something on (to..)@|@prišiti@
+@sewing needle@|@šivanka@
+@sex@|@spol@
+@shaft@|@gred, jašek@
+@shallow@|@plitev@
+@shaped@|@oblikovan@
+@sharp@|@oster@
+@sharp (music)@|@glas za pol tona povišan@
+@shave (to...)@|@briti@
+@shave (v)@|@briti se@
+@she@|@ona@
+@she works@|@dela@
+@sheep@|@ovca@
+@sheet (on a bed)@|@rjuha@
+@sheet of paper@|@list@
+@shelf@|@polica@
+@shelter@|@zavetje@
+@shield (v)@|@zaščititi@
+@shift (car)@|@ročni menjalnik@
+@shift (work)@|@izmena@
+@shine (v)@|@svetiti@
+@shine on (v)@|@obsijati@
+@ship@|@brod@
+@shirt@|@srajca@
+@shock (car)@|@amortizer@
+@shock absorber@|@amortizer, blažilnik@
+@shock absorber (auto)@|@blažilec@
+@shoe@|@čevelj@
+@shoes@|@čevlji@
+@shone upon@|@obsijan@
+@shop@|@prodajalna, trgovina@
+@shopping@|@kupovati@
+@shopping (good buy..bargain)@|@nakup (dober nakup)@
+@shore@|@obala@
+@short@|@kratek@
+@short (colloq)@|@kurcšlus@
+@short (elec)@|@kratek stik (elek)@
+@short pants@|@kratke hlače@
+@short waves@|@kratki valovi@
+@shortage@|@primankljaj@
+@short-cut@|@bližnjica@
+@shotgun@|@puška@
+@shoulder@|@rama@
+@shove outwards@|@odriv@
+@shovel@|@lopata@
+@show@|@predstava@
+@show (to..)@|@pokazati@
+@show (v)@|@kazati@
+@show off@|@košatiti se@
+@show off (to...)@|@izkazati@
+@shower@|@tuš@
+@showing@|@predvajanje, prikazovati@
+@shrewmouse@|@rovka@
+@shrub@|@grm@
+@shut off@|@izklopiti@
+@sick@|@bolan@
+@sick leave@|@bolniško@
+@sickness@|@bolezen@
+@side air bag@|@stranska varnostna blazina@
+@side-car@|@prikolica@
+@sidewalk@|@pločnik@
+@sideways@|@poševen@
+@sign@|@oznaka, tabla, znak@
+@sign in@|@prijava@
+@sign in (v)@|@prijaviti@
+@sign out@|@odjava@
+@signal light@|@smerokaz@
+@signal to turn off@|@izklopni signal@
+@signature@|@podpis@
+@signification@|@smisel@
+@silence@|@tišina@
+@silk@|@svila@
+@silver (metal)@|@srebro@
+@silverware@|@jedilni pribor@
+@similar@|@podoben@
+@simple@|@enostavno, preprost@
+@simultaneously@|@istočasno@
+@since@|@odkar@
+@sincere@|@iskren@
+@sing (to..)@|@peti@
+@singer (f)@|@pevka@
+@singer (m)@|@pevec@
+@single@|@enojen, osameli, pozamičen, samski@
+@singular@|@ednina@
+@sink@|@korit@
+@sink (bath or kitchen)@|@umivalnik@
+@sister@|@sestra@
+@sister in law@|@svakinja@
+@sit (v)@|@sedeti@
+@sitting room@|@dnevna soba@
+@situation@|@lega@
+@six@|@šest@
+@sixteen@|@šestnajst@
+@sixteenth@|@šestnajsti@
+@sixty@|@šestdeset@
+@size@|@obseg, velikost@
+@skate (to ...)@|@drsati@
+@skating@|@drsanje, drsanje@
+@skating rink@|@drsališče@
+@skeleton@|@okostnjak@
+@ski (to..)@|@smučati@
+@ski jacket@|@bunda@
+@skier@|@smučar@
+@skimp (v)@|@škrtariti@
+@skin@|@koža@
+@skirt@|@krilo@
+@skis@|@smuči@
+@skull@|@lobanja@
+@skunk@|@dihur@
+@sky@|@nebo@
+@skyscraper@|@nebotičnik, stolpec, stolpnica@
+@slanted@|@poševen@
+@slap@|@klofuta@
+@sleep (to..)@|@spati@
+@sleeping (the..)@|@speči@
+@sleeping bag@|@spalna vreča@
+@sleepy@|@zaspan@
+@sleeve@|@rokav@
+@sleeves (components)@|@bužirke@
+@slice@|@kos, rezina@
+@sliding@|@drsenje@
+@sliding contact@|@drsni kontakt@
+@slightly@|@narahlo@
+@slipper@|@copat@
+@slippers@|@copati@
+@slope@|@vzpon@
+@slot@|@reža@
+@Slovakia@|@Slovaška@
+@Slovenia@|@Slovenija@
+@slovenian language@|@slovenščina, slovensko@
+@Slovenian man@|@Slovenec@
+@Slovenian role cake@|@potica@
+@Slovenian woman@|@Slovenka@
+@slow@|@počasen@
+@slowly@|@počasi, počasno@
+@slowworm@|@slepec@
+@slug@|@polž@
+@smack (to..)@|@suniti@
+@small@|@majhen, mali@
+@small branch@|@vejica@
+@small butterfly@|@metuljček@
+@small horse@|@konjiček@
+@small letters@|@male črke@
+@small mountain@|@gorica@
+@smart@|@pameten@
+@smart card@|@pametna karica@
+@smart fretting@|@pametno prečkanje@
+@smell (v)@|@vohati@
+@smell of burning@|@smod@
+@smile@|@nasmeh@
+@smile (v)@|@nasmehniti se@
+@smock@|@halja@
+@smoke@|@dim@
+@smoke (to...)@|@kaditi@
+@smoked@|@prekajen@
+@smoking@|@kajenje@
+@snack-bar@|@bife@
+@snail@|@polž@
+@snake@|@kača@
+@snare@|@zanka@
+@sneak up on (v)@|@plaziti@
+@sneak up to (v)@|@priplaziti@
+@sneeze@|@kih@
+@sneeze (to...)@|@kihati@
+@snow@|@sneg@
+@snow (to..)@|@snežiti@
+@snow storm@|@snežni metež@
+@snowball@|@kepa@
+@snug@|@tesen@
+@so many@|@toliko@
+@so much@|@toliko@
+@soap@|@milo@
+@soccer@|@nogomet@
+@soccer field@|@nogometno igršče@
+@soccer player@|@nogometaški igralec@
+@soccer shoe@|@nogometni čevelj@
+@soccer sock@|@nogometna nogavica@
+@social security@|@socialna varnost@
+@social worker@|@socialni delavec@
+@sock@|@nogavica@
+@socket@|@ležišče, reža@
+@sofa@|@kavč@
+@Sofia@|@Sofija@
+@soft@|@mehek@
+@software@|@programska oprema@
+@soirée@|@večer@
+@solar cell@|@sončna celica@
+@solder@|@cin@
+@soldering iron@|@spajkalnik@
+@soldier@|@vojak@
+@sole (shoe)@|@podplat@
+@sole income earner@|@edini hranilec@
+@soley@|@le, samostojno@
+@solice@|@tolažba@
+@solid@|@čvrst, trden@
+@solution@|@rešitev@
+@solving@|@reševanje@
+@some@|@kakšen, nekaj@
+@some person@|@neki@
+@some thing@|@neki@
+@someone@|@nekdo@
+@someone's holiday@|@praznik@
+@sometimes@|@včasih@
+@son@|@sin@
+@song@|@pesem@
+@son-in-law@|@zet@
+@soon@|@kmalu@
+@soother@|@duda@
+@sorry@|@oprosti, žal@
+@sorry (polite)@|@oprostite@
+@sound@|@zvok@
+@sound board@|@resonančni pokrov@
+@sound hole@|@zvočna luknja@
+@soup@|@juha@
+@sour@|@kisel@
+@source@|@izvir, izvor@
+@south@|@jug@
+@south wind@|@jugo@
+@souvenir shop@|@spominki@
+@souvenirs@|@spominki@
+@sow (to..)@|@sejati@
+@space@|@mesto, praznina, prostor, vesolje@
+@spacioiusness@|@prostornina@
+@Spain@|@Španija@
+@span@|@razpon@
+@spare actor@|@reservni igralec@
+@spare parts@|@rezervni deli@
+@spare player@|@reservni igralec@
+@spare time@|@prosti čas@
+@spare tire@|@rezervno kolo@
+@spark plug@|@svečka@
+@spark plugs@|@svečke, vžigalne svečke@
+@sparrow@|@vrabec@
+@speak (to..)@|@govoriti@
+@speak to me in the familiar form (non-polite)@|@tikaj me@
+@speak unclearly (to..)@|@žlobodrati@
+@speaker (person)@|@govornik@
+@speaks@|@govori@
+@spear@|@bilka@
+@special@|@poseben@
+@specification@|@predpis@
+@specifications@|@tehnični podatki@
+@specify@|@obrazložiti@
+@speech@|@govor@
+@speed@|@hitrost@
+@speed boat@|@hidrogliser@
+@spell (to...)@|@črkovati@
+@spend time (v)@|@prebijati@
+@sperm@|@sperma@
+@sphere@|@krogla@
+@spice@|@začimba@
+@spicy@|@pikanten@
+@spider@|@pajek@
+@spider (common)@|@križevec@
+@spin (to..)@|@vrteti@
+@spinach@|@špinača@
+@spine@|@hrbtenica@
+@spirit@|@vzdušje@
+@splendid@|@sijajen@
+@split@|@presek@
+@split (v)@|@presekati@
+@split fold down seat@|@deljeno prekucljiva klop@
+@split rear seat@|@deljena zadnja klop@
+@spoiled@|@pokvarjen@
+@spoiler (car)@|@spojler@
+@sponge@|@goba@
+@spoon (desert)@|@žlička@
+@spoon (soup)@|@žlica@
+@sport@|@šport@
+@sport enthusiast@|@športnik@
+@spot welding@|@točkovno varjenje@
+@spouse@|@soprog, soproga, žena@
+@spread (v)@|@namazati, natrositi@
+@spring@|@pomlad, spomladanski, vzmet@
+@springy@|@poskočen@
+@sprinkle (v)@|@natrositi@
+@spruce tree@|@smreka@
+@square@|@kvadrat, štirioglaten, trg@
+@square (in shape)@|@kvadraten@
+@squeal (v)@|@cviliti@
+@squirrel@|@veverica@
+@stabilizer bar@|@osna opora@
+@stable@|@hlev, štala@
+@stadium@|@stadion@
+@staff@|@notno črtovje, osebje, perzonal@
+@staggering@|@zanašanje@
+@staircase@|@stopnice, stopnišče@
+@stairs@|@stopnice@
+@stairway@|@stopnice@
+@stall@|@hlev, štala@
+@stand (to..)@|@stati@
+@standard transmission@|@ročni menjalnik@
+@standardize@|@standardizirati@
+@standing quietly (v)@|@mirovati@
+@standoffs@|@distančniki@
+@stands firmly@|@trdno stoji@
+@stap@|@pas@
+@staple@|@sponka@
+@stapler@|@spenjač@
+@star@|@zvezda, zvezdnik@
+@star player@|@zvezdnik@
+@starboard ! (boat)@|@krmilo desno!@
+@start@|@začetek@
+@start (v)@|@zaženiti@
+@start blowing@|@zaveti@
+@start of a process@|@uvedba@
+@starter@|@začetnik, zaganjač@
+@starter motor@|@zaganjač@
+@state@|@država, stan@
+@state (v)@|@navesti@
+@state of emergency@|@izredno stanje@
+@stated@|@naveden@
+@statement@|@izjava@
+@station@|@postaja@
+@stationary@|@mirujoč@
+@stationary supply shop@|@papirnica@
+@statue@|@kip@
+@statuette@|@figura@
+@stay@|@bivanje@
+@stay (to..)@|@ostati, stanovati@
+@stay sitting (to..)@|@ždeti@
+@stays (he/she/it)@|@stanuje@
+@steadily@|@enakomerno@
+@steak@|@zrezek@
+@steal (v)@|@ukrasti@
+@steamship@|@brod, ladja@
+@steel@|@jeklo@
+@steel factory@|@jeklarna@
+@steel plant@|@jeklarna@
+@steep@|@strm@
+@steering wheel@|@volan@
+@steering wheel (boat)@|@kolo krmila@
+@step@|@ukrep@
+@step (for ladder)@|@klin@
+@step (on a staircase)@|@stopnica@
+@step (to..)@|@stopiti@
+@step beside/with@|@sestopiti@
+@step by step@|@korak za korakom@
+@step porch@|@prag@
+@stepfather@|@očim@
+@stepmother@|@mačeha@
+@steps@|@stopnice@
+@sterio radio (technology)@|@radijska steriofonija@
+@stick@|@palica@
+@stick shift@|@prestavna ročica@
+@still@|@mirujoč@
+@sting@|@pik@
+@sting (v)@|@pičiti@
+@stingy@|@skop, škrt@
+@stipulation@|@določba@
+@stitch@|@šiv@
+@stock@|@zaloga@
+@Stockholm@|@Štokholm@
+@stolen@|@ukraden@
+@stomach@|@želodec@
+@stone@|@kamen@
+@stop@|@ustavitev@
+@stop (to..)@|@ustaviti@
+@stopper@|@zamašek@
+@stopping@|@ustavitev@
+@storage@|@shranjevanje@
+@storage area@|@skladišče@
+@store@|@trgovina@
+@storing@|@hranjenje, shranjevanje@
+@storm@|@nevihta, vihar@
+@story@|@zgodba@
+@story - floor (bldg.)@|@nadstropje@
+@stove@|@štedilnik@
+@straight ahead@|@naravnost@
+@strain@|@napor@
+@strange@|@čuden@
+@stranger@|@neznanec, tujec@
+@stratum@|@sloj@
+@straw@|@slama@
+@straw (drinking)@|@slamica@
+@straw (grasping for)@|@bilka@
+@strawberry@|@jagoda@
+@strechable@|@prožen@
+@street@|@ulica@
+@streetcar@|@tramvaj@
+@strength@|@jakost, moč@
+@stretch (v)@|@raztegniti, zlekniti@
+@stretch ones legs (v)@|@zlekniti se@
+@stretch out (v)@|@iztegniti@
+@stretching (v)@|@pretegovati@
+@strike (v)@|@stavkati, udariti@
+@string@|@vrv, vrvica@
+@string (series)@|@niz@
+@string of characters@|@znakovni niz@
+@stringed instruments@|@godala@
+@strings (music)@|@godala@
+@strip off (v)@|@osmukati@
+@stripe@|@proga@
+@stripping@|@odvzem@
+@stripping of rank@|@odvzem čina@
+@stroke@|@infarkt, udarec@
+@stroll@|@sprehod@
+@stroll (to..)@|@sprehajati se@
+@strong@|@čvrst, močan@
+@strudel (jabolcni...)@|@zavitek@
+@strumming with fingers@|@ubirati s prsti@
+@stubborn@|@trmast@
+@student  (m)@|@študent@
+@student (f)@|@študentka@
+@student card@|@študentska izkaznica@
+@student's....@|@študentski@
+@study (to..)@|@učiti se@
+@stuffs@|@blago@
+@stupid@|@neumen@
+@stupid things@|@neumnost@
+@stupidity@|@neumnost@
+@style@|@moda@
+@subject@|@predmet@
+@sublet tenant@|@podnajemnik@
+@subletee@|@podnajemnik@
+@submit@|@predložiti, vložiti@
+@submitted@|@predložen@
+@subscriber@|@naročnik@
+@subscription@|@abonma, naročnina@
+@substitute@|@nadomestilo@
+@substitute teacher@|@suplenčni profesor@
+@subtract (v)@|@odšteti, odvzeti@
+@suburb@|@predmestje@
+@subway (passage)@|@podhod@
+@succcessful@|@uspešen@
+@success@|@uspeh@
+@successful (to be..)@|@uspeti@
+@suck@|@cuzati@
+@suck (v)@|@srkati@
+@sucker@|@lizika@
+@suddenly@|@nenadoma@
+@sugar@|@sladkor@
+@suggestion@|@predlog@
+@suit@|@obleka@
+@suit (v)@|@ustrezati@
+@suitably@|@primerno@
+@suitcase@|@kovček@
+@sulphur@|@žveplo@
+@sum@|@vsota@
+@summary@|@pregled@
+@summer@|@poletje@
+@summit@|@vrh@
+@sun@|@sonce@
+@sun flower@|@sončnica@
+@sun glasses@|@sončna očala@
+@sun screen@|@mleko za sončenje@
+@sunday@|@nedelja@
+@sunken wipers@|@ugreznjeni bisalci@
+@sunny@|@sončen, sončno@
+@suntan lotion@|@mleko za sončenje@
+@superabundance@|@pretek@
+@superheterodine receiver@|@superheterodinski sprejemnik@
+@supervise (v)@|@nadzorovati@
+@supervision@|@nadzor@
+@supervisor@|@šef, vodja@
+@supper@|@večerja@
+@supplement@|@dodatek@
+@supplementary@|@dodaten@
+@supplier@|@ponudnik@
+@supply (v)@|@dovajati@
+@support@|@nosilec, podpora@
+@supposedly@|@baje@
+@sure@|@prepričan@
+@surf (v)@|@deskati@
+@surgeon@|@kirurg@
+@surname@|@priimek@
+@surprise@|@presenečenje@
+@surprise (to..)@|@presenetiti@
+@surprised@|@začuden@
+@surprisingly@|@presenečeno@
+@surrender (v)@|@predložiti@
+@surrounded@|@obdan@
+@survey@|@anketa@
+@suspension@|@vzmetenje@
+@swallow@|@lastovica, lastovka@
+@swallow.s nest@|@lastovičje gnezdo@
+@sweat pants & top@|@trenirka@
+@sweater@|@pulover@
+@sweatshirt@|@pulover@
+@Swede  (m)@|@Šved@
+@Swede (m)@|@Švedinja@
+@Sweden@|@Švedska@
+@swedish language@|@švedščina, švedsko@
+@sweep up (v)@|@pomesti@
+@sweet@|@sladek@
+@sweet shop@|@slaščičarna@
+@sweets@|@sladica@
+@swift@|@okreten@
+@swim@|@plavati@
+@swim (to..)@|@kopati se@
+@swimming area@|@kopališče@
+@swimming suit@|@kopalke@
+@swing@|@gugalnica@
+@switch@|@šalter, stikalo@
+@switch on (v)@|@vključiti@
+@switch to@|@priklopi v@
+@Switzerland@|@Švica@
+@sword@|@sabla@
+@symbol@|@oznaka, simbol@
+@symphony@|@simfonija@
+@synchronised@|@sinhroniziran@
+@synchronize@|@sinhroniziraj@
+@syncopated@|@sinkopa@
+@table@|@miza@
+@table (chart)@|@tabela@
+@tablecloth@|@prt@
+@tablet@|@tableta@
+@tackle (v)@|@lotiti se@
+@tail@|@rep@
+@take (to..)@|@vzeti@
+@take a look (to..)@|@pogledati@
+@take away@|@odstrani@
+@take away (v)@|@odstraniti@
+@take away(v)@|@odvzeti@
+@take in (v colloq)@|@ogledati si@
+@take off (to..)@|@posneti@
+@take off (v) (plane)@|@vzleteti@
+@take on (v)@|@lotiti se@
+@take over (v)@|@prevzeti@
+@taken@|@zaseden@
+@taking up office@|@nastop@
+@talent@|@pamet@
+@talk@|@razgovor@
+@talk (to..)@|@govoriti@
+@tall@|@visok@
+@tall building@|@nebotičnik, stolpnica@
+@tamed@|@udomačen@
+@tape@|@trak@
+@tape recorder@|@kasetofon@
+@tardiness@|@zamuda@
+@tardy@|@pozen, pozno@
+@tariff@|@taksa@
+@tarmac@|@asfalt@
+@tart@|@pita@
+@task@|@naloga, opravilo@
+@taste@|@okus@
+@tax@|@davek@
+@tax v.@|@obdavčiti@
+@taxi@|@taksi@
+@taxi station@|@postajališče taksijev@
+@tea@|@čaj@
+@tea pot@|@čajnik@
+@tea with lemon@|@čaj z limono@
+@tea with milk@|@čaj z mlekom@
+@teach (to..)@|@učiti@
+@teacher (f)@|@učiteljica@
+@teacher (m)@|@učitelj@
+@teaching@|@šolanje@
+@teaching (to be..)@|@poučevati@
+@teachings@|@pouk@
+@team@|@ekipa, moštvo@
+@tear@|@solza@
+@technical details@|@tehnični podatki@
+@technician@|@tehnik@
+@technique@|@metoda@
+@technology@|@tehnologija@
+@teenager@|@najstnik@
+@teeth@|@zobje@
+@telephone@|@telefon@
+@telephone (to..)@|@telefonirati@
+@telephony@|@telefonija@
+@television@|@televizija@
+@tell (to..)@|@povedati@
+@tell me@|@povej mi@
+@tell on some one@|@izdati@
+@temperature@|@temperatura@
+@tempest@|@nevihta, vihar@
+@template@|@predloga@
+@temporary@|@začasno@
+@temporary residence@|@začasno prebivališče@
+@ten@|@deset@
+@tenant@|@najemnik@
+@tenderer@|@ponudnik@
+@tennis@|@tenis@
+@tense@|@napet, napetost (visoka napetost)@
+@tent@|@šotor@
+@tenth@|@deseti@
+@term@|@rok@
+@terminate (to..)@|@končati@
+@terrasse@|@terasa@
+@test@|@izpit, poskus@
+@textbook@|@učbenik@
+@than@|@kakor, kot@
+@thank (to..)@|@zahvaliti se@
+@thank you@|@hvala, hvala ti@
+@thank you (polite form)@|@hvala vam@
+@thank you very much@|@najlepša ti hvala@
+@thank you very much (polite form)@|@najlepša vam hvala@
+@thanks@|@hvala@
+@thanks a lot@|@najlepša hvala@
+@that@|@da, kar, kateri, ki@
+@that one@|@tisti@
+@that's the way@|@tako@
+@the day after tomorrow@|@pojutrišnjem@
+@the day before yesterday@|@predvčerajšnim@
+@the french language@|@francoščina, francosko@
+@the man@|@gospod@
+@the movie-house@|@kino@
+@the outdoors@|@narava@
+@the same@|@enak, enako@
+@the two of them@|@onadva@
+@the two of us@|@midva@
+@theatre@|@gledališče@
+@theme@|@tema@
+@therapy@|@zdravljenje@
+@there@|@tam@
+@therefore@|@torej@
+@thermostat@|@termostat@
+@they (m)@|@oni@
+@they are (m@|@sta@
+@they are (m&f)@|@so@
+@they are not@|@niso@
+@they begin (m@|@začnejo@
+@they have@|@imajo@
+@they speak@|@govorijo@
+@they stay (m@|@stanujejo@
+@they understand@|@razumejo@
+@thickest@|@najdebelejši@
+@thief@|@tat@
+@thin@|@tanek@
+@thinest@|@najtanjši@
+@thing@|@stvar@
+@things@|@reči@
+@think (to..)@|@misliti@
+@think about or over@|@razmišljati@
+@think over (to..)@|@premisliti, razmisliti@
+@thinking@|@premislek@
+@third@|@tretji@
+@thirst@|@žeja@
+@thirsty (m)@|@žejen@
+@thirteen@|@trinajst@
+@thirteenth@|@trinajsti@
+@thirtieth@|@trideseti@
+@thirty@|@trideset@
+@this@|@ta, to@
+@this is@|@to je@
+@this is why@|@zato@
+@this year@|@letos@
+@thorn@|@trn@
+@thorns@|@trnje@
+@thought@|@misel@
+@thousand@|@tisoč@
+@thrash (to...)@|@biti@
+@thread@|@nit@
+@three@|@tri@
+@three spd. automatic@|@tristopenjski avtomatik@
+@thriller@|@grozljivka@
+@throat@|@grlo@
+@through@|@skozi@
+@throughout@|@od prvega do zadnjega, širom, ves čas@
+@throw (to..)@|@vreči@
+@throwing (to be..)@|@metati@
+@thrush (bird)@|@drozd, drozg@
+@thumb@|@palec@
+@thunder@|@grom, treska@
+@thunder (to...)@|@grmeti@
+@thursday@|@četrtek@
+@thwart (v)@|@preprečiti@
+@ticket@|@karta, kartica, vstopnica@
+@ticket to ride@|@vozovnica@
+@tie@|@krvata, zavezati (v)@
+@tied@|@zavezan, zvezan@
+@tiger@|@tiger@
+@tight@|@skop, škrt, tesen@
+@tighten@|@pritrditi@
+@tightened on to@|@privit@
+@tile@|@plošča, ploščica@
+@tilt steering@|@volan nastavljiv po višini@
+@timber@|@les@
+@time@|@čas@
+@time consuming@|@zamudno@
+@timpani@|@pavka@
+@timps@|@pavka@
+@tin@|@pločevina@
+@tip@|@napitnina@
+@tire@|@guma, pnevmatika@
+@tire tread@|@profil@
+@tired@|@izčrpan, utrujen@
+@title@|@naslov@
+@to@|@do, na, ob, v@
+@to be@|@biti@
+@to be used to@|@navajen@
+@to beat or thrash@|@biti@
+@to count (v)@|@računati@
+@to defend@|@braniti@
+@to doubt@|@dvomiti@
+@to feed (animal@|@krmiti@
+@to flower@|@cvesti@
+@to give@|@dati@
+@to hurt@|@boleti@
+@to like (colloq - hrv)@|@dopasti se@
+@to paint@|@barvati@
+@to skate@|@drsati@
+@to take a photo@|@fotografirati@
+@to tell (a story or tale or an experience)@|@pripovedovati@
+@to there@|@tja@
+@to you@|@vam@
+@toad@|@krastača@
+@tobacconist@|@trafika@
+@toboggan@|@sanke@
+@today@|@danes@
+@toe (prst na nogi)@|@prst@
+@together@|@skupaj@
+@toilet bowl@|@školjka@
+@toilette@|@stranišče@
+@toilettes@|@stranišča, wc@
+@tomato@|@paradižnik@
+@tomato sauce@|@paradižnikova omaka@
+@tomorrow@|@jutri@
+@tongs@|@klešče (za prijeti)@
+@tongue@|@jezik@
+@too@|@preveč@
+@too bad! (remorsefully)@|@škoda!@
+@too high@|@previsok@
+@too late@|@prepozno@
+@too low@|@prenizek@
+@too much@|@preveč@
+@tool (s)@|@orodje@
+@toolbar@|@orodna vrstica, orodnjarna@
+@tools (pc)@|@orodja@
+@tooth@|@zob@
+@toothbrush (zobna)@|@ščetka@
+@toothpick@|@zobotrebec@
+@top@|@vrh@
+@torquing shaft@|@kardanska gred@
+@torso@|@trup@
+@tortious@|@kornjača@
+@touf of hair@|@šop@
+@tough@|@čvrst@
+@tour (concert)@|@turneja@
+@towards@|@proti@
+@towel@|@brisača@
+@tower@|@stolp@
+@tower (bldg.)@|@stolpec@
+@township@|@občina@
+@toxic@|@strupen@
+@track@|@proga, trak@
+@tracks (car)@|@koloteki@
+@tractor@|@traktor@
+@trade show@|@sejem@
+@tradition@|@običaj@
+@traffic@|@promet@
+@traffic light@|@semafor@
+@trail@|@pot, proga, steza@
+@trailer@|@prikolica@
+@train@|@vlak@
+@train (series)@|@niz@
+@train (to... in a sport)@|@trenirati@
+@train for (v)@|@usposobiti se@
+@train station@|@kolodvor, železniška postaja@
+@trainer@|@trener@
+@traitor@|@izdajalec@
+@tram@|@tramvaj@
+@tramp@|@kurba, potepuh, vlačuga@
+@tramway@|@tramvaj@
+@tranquille@|@tih@
+@transcription@|@transkripcija@
+@transformer@|@transformator@
+@translate (to..)@|@prevesti@
+@translating@|@prevajanje@
+@translation@|@prevod@
+@transmission@|@menjalnik@
+@transmission (car)@|@prenos moči (avto)@
+@transmission antenna@|@oddajna antena@
+@transmittal@|@dostava@
+@transmittal of information@|@dostava podatkov@
+@transmitter@|@oddajnik@
+@transparent@|@prosojen@
+@transportation@|@prevoz@
+@transposition@|@transpozicija@
+@transposition according to key@|@transpozicija po ključu@
+@trap@|@past@
+@trapdoor@|@loputa@
+@trash@|@smeti@
+@trash bin@|@smetnjak@
+@travel (to..)@|@potovati@
+@travelers cheques@|@potovalni čeki@
+@traveller@|@popotnik@
+@treatment (med.)@|@zdravljenje@
+@tree@|@drevo@
+@trespass@|@prekršek@
+@trial@|@poskus@
+@triangle@|@trikotnik@
+@tribe@|@pleme@
+@trick@|@podtveza@
+@trick photography@|@foto montaža@
+@trim (v)@|@obrezati@
+@trimmer capacitor@|@trimerski kondenzator@
+@trimming (eg. a hedge)@|@obrezovati@
+@trimmings (food)@|@priloga@
+@trip@|@izlet, potovanje@
+@trip odometer@|@dnevni števec kilometrov@
+@triple@|@trojen@
+@trombone@|@pozavna@
+@troubleshooting@|@odpravljanje težav@
+@trough@|@korit@
+@trout@|@postrv@
+@truck@|@kamion@
+@truly@|@res, zares@
+@trumpet@|@trobenta@
+@trunk@|@trup@
+@trunk coverings@|@obloge prtljažnega prostora@
+@trust@|@zaupanje@
+@trust (to..)@|@zaupati@
+@truth@|@resnica@
+@try (to..)@|@poskusiti@
+@try (v)@|@potruditi se@
+@t-shirt@|@majica@
+@tu as@|@imaš@
+@tub@|@škaf@
+@tube@|@cev, tuba (na pr. od zobne paste)@
+@tuesday@|@torek@
+@tuna@|@tuna@
+@tune@|@napev@
+@tuned@|@uglašen@
+@tuned radio freq. receiver (TRF)@|@neposrednji sprejemnik@
+@tuning knob@|@uglaševalni gumb@
+@tunnel@|@predor, tunel@
+@turist@|@turist@
+@Turk (f)@|@Turkinja@
+@Turk (m)@|@Turek@
+@Turkey@|@Turčija@
+@turkey (f)@|@pura@
+@turkey (m)@|@puran@
+@turkish language@|@turščina, turško@
+@turn@|@zasuk@
+@turn (coil)@|@ovoj (elek)@
+@turn (to..)@|@vrteti@
+@turn (v)@|@sukati@
+@turn off (to..)@|@ugasniti@
+@turn on@|@vklopiti@
+@turn on (to..a light)@|@prižgati@
+@turn on (v)@|@vključiti@
+@turn someone in (v)@|@prijaviti koga@
+@turn to v.@|@obrniti se@
+@turning circle (min. dimen.)@|@obračalni krog@
+@turning lathe@|@stružnica@
+@turn-off@|@izklop@
+@turn-on@|@vklop@
+@turtle@|@želva@
+@turtle dove@|@grlica@
+@tutor@|@inštruktor za enega, inštuirati, profesor za enega@
+@twelve@|@dvanajst@
+@twelveth@|@dvanajsti@
+@twentieth@|@dvajseti@
+@twenty@|@dvajset@
+@twenty-first@|@enaindvajseti@
+@twenty-one@|@enaindvajset@
+@twice@|@dvakrat@
+@twilight@|@mrak@
+@twins@|@dvojcka@
+@twist@|@zasuk@
+@twist (v)@|@sukati@
+@two@|@dva@
+@two times@|@dvakrat@
+@type@|@vrsta@
+@type (to..)@|@tipkati@
+@type (v)@|@tipkati@
+@type of fuel@|@vrsta goriva@
+@typewriter@|@tipka@
+@U.S.A.@|@Amerika@
+@ugly@|@grd@
+@ulser@|@čir@
+@ultimate@|@prvobiten@
+@umbrella@|@dežnik@
+@unapproachability@|@nedostopnost@
+@unbelievable@|@neverjeten@
+@unbiased@|@objektiven@
+@uncle@|@stric@
+@uncle (to one's sisters children)@|@ujec@
+@unclear fact@|@nejasnost@
+@unconscious@|@nezavesten@
+@under@|@pod, spodaj@
+@undercarriage@|@podvozje@
+@underpass@|@podhod@
+@undershirt@|@majica@
+@undersigned the-@|@podpisani@
+@understand (to..)@|@razumeti@
+@understands (he or she or it)@|@razume@
+@understood as@|@šteje se@
+@underwear (spodno)@|@perilo@
+@undetaking@|@podvig@
+@undo@|@razveljavi@
+@undo (pc)@|@razveljaviti@
+@unemployed@|@nezaposlen@
+@unexpected@|@nepričakovan@
+@unfavourable@|@neugoden@
+@unfortunate@|@nesrečen@
+@unfortunately@|@žal@
+@unhappy@|@nesrečen@
+@unibody (car)@|@samonosilna karoserija, samonosna karoserija@
+@unification@|@pridruževanje@
+@union@|@zveza@
+@unique@|@enkraten@
+@unit@|@enota@
+@United States of America@|@Združene Države Amerike@
+@universal joint@|@kardanski zgib@
+@university@|@univerza@
+@university department@|@fakulteta@
+@unkindness@|@neprijaznost@
+@unknowingly@|@nehote@
+@unleaded gas@|@neosvinčen bencin@
+@unlimited@|@neskončno@
+@unspoilt@|@nepokvarjen@
+@untamed@|@neukročen@
+@until@|@do@
+@until we meet again@|@na svidenje, nasvidenje@
+@untouched nature@|@neokrnjena narava@
+@unused space@|@nezasedani prostor@
+@unwillingly@|@nehote@
+@up@|@gor, pokonci@
+@up there@|@zgoraj@
+@up to@|@do@
+@up to date@|@sodoben@
+@up top@|@zgoraj@
+@upgrade@|@nadgradnja@
+@upper arm@|@laket@
+@upper case@|@velike črke@
+@upright@|@pokonci@
+@upset@|@razburjen@
+@upset (v)@|@razburiti@
+@upwards@|@navzgor@
+@urgent@|@nujen, nujno@
+@urgent letter@|@urgenca@
+@USA@|@ZDA@
+@usage of@|@koriščenje@
+@use@|@korist, uporabiti@
+@use up@|@odžirati@
+@used as "you re welcome" following thanks@|@prosim!@
+@used to@|@navajen@
+@useful@|@koristen@
+@user friendly@|@uporabniku prijazen@
+@user name@|@uporabniško ime@
+@usually@|@navadno, običajno, ponavadi@
+@utilise@|@uporabiti@
+@vacant@|@prosto@
+@vacation@|@dopust, počitnice@
+@vacuum cleaner@|@sesalnik@
+@vacuum machine@|@sesalec@
+@vagabond@|@potepuh@
+@valley@|@dolina@
+@valve@|@ventil@
+@valve cover@|@okrov ventilov@
+@variable@|@spremenljivka@
+@variable capacitor@|@vrtljivi kondenzator@
+@vase@|@vaza@
+@vast@|@širok, velik@
+@vaulted tomb@|@grobnica@
+@veal@|@teletina@
+@vegetables@|@zelenjava@
+@vehicle@|@vozilo@
+@velocity@|@brzina, hitrost@
+@velour@|@baršun, žamet@
+@vendor@|@prodajalec, prodajalka, trgovec@
+@vendress@|@trgovka@
+@Venice@|@Benetke@
+@ventilated discs@|@prezračevani diski@
+@verb@|@glagol@
+@verification@|@preverjanje@
+@verify@|@preveriti@
+@verifying@|@preverjanje@
+@version@|@različica@
+@vertical@|@navpičen@
+@vertically@|@navpično@
+@very@|@precej, zelo@
+@very good@|@zelo dobro@
+@very little@|@zelo malo@
+@very well thank you!@|@hvala dobro!@
+@vest@|@jopič@
+@vestabule@|@garderoba@
+@victorious  (to be..)@|@zmagati@
+@victory@|@zmaga@
+@Vienna@|@Dunaj@
+@view@|@pogled, razgled@
+@villa@|@vila@
+@village@|@vas@
+@vinager@|@jesih, kis, ocet@
+@violence@|@nasilje@
+@violet@|@vijoličast, vijoličen@
+@violin@|@violina@
+@visit@|@obisk, obiskovati@
+@visit (to..)@|@obiskati@
+@voditi@|@lead (v), manage (v)@
+@voice@|@glas@
+@void (v)@|@razveljaviti@
+@voilà!@|@izvoli!, izvolite!@
+@volleyball@|@odbojka@
+@volt@|@volt@
+@volume@|@obseg@
+@voluntarily@|@prostovoljno@
+@voyage@|@izlet, potovanje@
+@vulture@|@jastreb@
+@wages@|@plača@
+@wagon@|@vagon, voz@
+@wait (to....)@|@čakati@
+@waiter@|@natakar@
+@waiting room@|@čakalnica@
+@waitress@|@natakarica@
+@waived from@|@oproščen@
+@wake up@|@zbuditi@
+@walk@|@hoja, sprehod@
+@walk (to..)@|@hoditi@
+@walk (v)@|@pešačiti@
+@walker@|@pešak@
+@wall@|@stena@
+@wall (outside)@|@zid@
+@wallet@|@denarnica@
+@walnut@|@oreh@
+@walrus@|@mrož@
+@want (to..)@|@želeti@
+@want (to...)@|@hoteti@
+@war@|@vojna@
+@war memorial@|@vojni spomenik@
+@warehouse@|@skladišče@
+@warm@|@topel, toplo@
+@warning@|@svarilo@
+@warrant@|@nalog@
+@warranty@|@garancija@
+@Warsaw@|@Varšava@
+@wash@|@pranje@
+@wash (to..)@|@prati, umiti@
+@wash oneself (to..)@|@umiti se@
+@wash up (v)@|@pomivati@
+@washing@|@pranje@
+@washing (to be..)@|@umivati@
+@washing machine@|@pralni stroj@
+@washroom@|@stranišče, stranišče, wc@
+@washrooms@|@stranišča@
+@wasp@|@osa@
+@waste (to..)@|@tratiti@
+@waste basket@|@koš@
+@watch@|@ura@
+@watch (to ...)@|@gledati@
+@watching (v)@|@opazovati@
+@water@|@voda@
+@water (v)@|@zaliti, zalivati@
+@water cooled@|@vodno ohlajen@
+@watercraft@|@plovilo@
+@watering (v)@|@zalivati@
+@watering can@|@škropilnica@
+@watermelon@|@lubenica@
+@watt@|@watt@
+@wave@|@val@
+@wave (v)@|@mahati@
+@wax@|@vosek@
+@way out@|@izhod@
+@wc@|@wc@
+@we@|@mi@
+@we are@|@smo@
+@we are (two)@|@sva@
+@we are not@|@nismo@
+@we begin@|@začnemo@
+@we don't have@|@nimamo@
+@we have@|@imamo@
+@we live (m@|@stanujemo@
+@we stay (m@|@stanujemo@
+@we understand@|@razumemo@
+@weak@|@šibek, slab@
+@wealthy@|@bogat@
+@weapons@|@orožje@
+@wear (to..)@|@nositi@
+@weather@|@vreme@
+@weather report@|@vremenska napoved@
+@weave (v)@|@plesti@
+@web page@|@spletna stran@
+@wednesday@|@sreda@
+@week@|@teden@
+@week-end@|@konec tedna@
+@weigh down (v)@|@obremeniti@
+@weight@|@teža@
+@welcome@|@dobrodošli@
+@weld (colloq)@|@švasati (pogov.)@
+@weld (v)@|@variliti@
+@welding@|@varjenje@
+@welding aparatus@|@varilni aparat@
+@well mannered@|@priden@
+@well yes...@|@saj@
+@west@|@zahod, zapad@
+@wet@|@moker@
+@what@|@kaj, kar@
+@What could I.. ?@|@kaj lahko... ?@
+@what do you do for a liv@|@kaj si po poklicu?@
+@what is your family name?@|@kako se pišeš?@
+@what is your name?@|@kako ti je ime?@
+@what is your profession?@|@kaj si po poklicu?@
+@what is your profession? (polite form)@|@kaj ste po poklicu?@
+@what kind@|@kakšen@
+@what you do for a living@|@poklic@
+@whatever@|@karkoli@
+@wheat@|@pšenica, žito@
+@wheel cap@|@platišče@
+@wheel covers@|@okrasna platišča@
+@wheel well@|@blatnik@
+@wheelbase dimensions@|@medosna razdalja@
+@wheelchair for a handicaped@|@invalidski voziček@
+@when@|@kdaj, ko@
+@when exposed to@|@ob izpostavljenosti@
+@when in the meantime@|@med tem ko@
+@where@|@kje, kjer@
+@where do you come from? (polite)@|@od kod prihajate?@
+@whereas@|@med tem ko@
+@which@|@kateri, ki@
+@which one@|@kateri@
+@while@|@med@
+@whip@|@bič@
+@whistle@|@piščalka@
+@white (f)@|@bela@
+@white (m)@|@bel@
+@who@|@kdo@
+@whore@|@kurba, vlačuga@
+@whose  ...?@|@čigav ...?@
+@why@|@zakaj@
+@wick (candle)@|@stenj@
+@wide@|@širok@
+@widow@|@vdova@
+@widower@|@vdovec@
+@width@|@širina@
+@wife@|@soproga, žena@
+@wild boar@|@merjasec@
+@wilderness@|@divjina@
+@win@|@zmaga@
+@win  (to..)@|@zmagati@
+@win over (v)@|@premagati@
+@wind@|@veter@
+@wind from the sea@|@burja@
+@wind instrument@|@trobilo@
+@winding (elec)@|@navitje, ovoj (elek)@
+@window@|@okno@
+@window (eg. at bank or city hall)@|@šalter@
+@windscreen@|@vetrobran, vetrobransko steklo@
+@windshield@|@vetrobran, vetrobransko steklo@
+@windshield washer@|@naprava za pranje stekel@
+@windy@|@vetrovno@
+@wine@|@vino@
+@wine growing area@|@gorica@
+@winner@|@zmagovalec@
+@winter@|@zima@
+@winter coat@|@bunda@
+@wipe (v)@|@brisati@
+@wire@|@žica@
+@wise@|@moder@
+@wish@|@želja@
+@wish for (to..)@|@želeti@
+@with@|@pri, s, z@
+@with family@|@z družino@
+@with permission of@|@z dovoljenjem@
+@with surprise@|@presenečeno@
+@with/at one family@|@pri eni družini@
+@without@|@brez, ob@
+@without a hitch@|@brezhibno@
+@wizard@|@čarovnik@
+@wolf@|@volk@
+@woman@|@žena@
+@woman's@|@ženski@
+@women@|@ženske@
+@womens washroom@|@ženske@
+@women's washroom@|@ženske@
+@wonderous@|@čudovit@
+@wood@|@les@
+@wood shed@|@drvarnica@
+@wooden mixing spoon@|@kuhalnica@
+@woods@|@gozd, gozd@
+@wool@|@volna@
+@word@|@beseda@
+@work@|@delo, služba, zaposlitev@
+@work (to.. it)@|@obdelovati@
+@work (vb.)@|@delati@
+@work plan@|@delovni načrt@
+@work prelated@|@službeno@
+@worked up@|@vznemirjen@
+@worker@|@delavec@
+@working - to be ..@|@delovati@
+@working for@|@v delovnem razmerju@
+@workshop@|@delavnica@
+@world@|@svet@
+@world cup@|@svetovno pokal@
+@worried@|@zaskrbljen@
+@worry@|@skrb@
+@worry (to..)@|@skrbeti@
+@worsening@|@poslabšanje@
+@worth the effort@|@izplačati se@
+@worth the pain@|@izplačati se@
+@wrapping paper@|@ovojni papir@
+@wrinkle (to..)@|@gubiti@
+@write (to..)@|@napisati, pisati@
+@write down (to..)@|@napisati@
+@writer@|@pisatelj@
+@writing to disk or cd@|@zapisovati@
+@written order@|@odločba@
+@wrong@|@napačen, nepravilen@
+@xylophone@|@ksilofon@
+@yacht@|@jahta@
+@yard@|@dvorišče@
+@yarn@|@volna@
+@year@|@leto@
+@yearly@|@letni@
+@yeast@|@kvas@
+@yellow@|@rumen, žolt@
+@yes@|@da, ja@
+@yesterday@|@včeraj@
+@yogurt@|@jogurt@
+@you@|@ti@
+@you (polite - accus)@|@vas@
+@you (polite)@|@vi@
+@you are@|@si@
+@you are (polite)@|@ste@
+@you are not@|@nisi@
+@you are not (polite form)@|@niste@
+@you are right@|@prav imaš@
+@you are travelling (polite)@|@potujete@
+@you begin@|@začneš@
+@you begin (plural or polite)@|@začnete@
+@you have (polite form)@|@imate@
+@you live@|@stanuješ@
+@you live (polite)@|@stanujete@
+@you speak@|@govoriš@
+@you stay@|@stanuješ@
+@you stay (polite)@|@stanujete@
+@you two@|@vidva@
+@you understand@|@razumeš@
+@young@|@mlad, mladič@
+@young offenders detention centre@|@mladoletniški zapor@
+@young one@|@malček@
+@your@|@tvoj@
+@your (polite)@|@vaš@
+@youth@|@mladost@
+@zebra@|@zebra@
+@zel@|@paprika@
+@zero@|@nič, nula@
+@zinc@|@cink@
+@zip code@|@poštna številka@
+@zoo@|@živalski vrt@
+@zuchinni@|@buča@
+

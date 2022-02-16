@@ -1,0 +1,568 @@
+@English@|@Tsakhur@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1st (masc.) class marker@|@0@
+@1t class marker (suff.)@|@-r@
+@2d class marker@|@j, r@
+@4th class marker@|@d, j@
+@a common word for sheep@|@nabag@
+@a prohibitive particle@|@m-@
+@a small thing@|@kerket@
+@above@|@ali-d@
+@Adam's apple@|@xyrtam@
+@adverbial suffix@|@b, w@
+@affective@|@-kle@
+@an intoxicating liquor@|@wyxIna@
+@anger@|@qIal@
+@ant@|@semsälä@
+@apple@|@ech@
+@arm@|@guch@
+@ashes@|@jyqI, sera@
+@ass@|@aImale@
+@autumn@|@cuwul, cywyl@
+@autumn wool@|@arxl@
+@awn@|@gam@
+@axe@|@jakw@
+@back@|@jyqI@
+@bag@|@xab-gä@
+@barberry@|@syna@
+@barefooted@|@xyl'-cejr@
+@barley@|@xyta@
+@bear@|@=uxa-, so@
+@bed-bug@|@šin@
+@bee@|@tot@
+@belly@|@wuxun@
+@big@|@xIe-r-na@
+@bind@|@i=tal-@
+@birch@|@woxI@
+@birch bark@|@lukon@
+@bird@|@šit@
+@birth-mark@|@kuda@
+@bitch@|@gože@
+@black@|@kary-n@
+@blind@|@byrqIy-na@
+@blood@|@e-b, eb@
+@boar@|@wok@
+@board@|@quwa@
+@boiled fat@|@jyxI@
+@bone@|@barkw@
+@bottom@|@kan, xane@
+@boundary@|@gor@
+@bracelet@|@läxa@
+@brain@|@mahI@
+@bread@|@kuka@
+@break@|@eta-@
+@bride@|@sos@
+@bride-groom@|@cuma@
+@bridge@|@jyghI@
+@brook@|@goma@
+@brother@|@cho-ž@
+@brothers' wives@|@qIa-jam-ar@
+@bunch@|@cec@
+@burdock@|@meg@
+@burn@|@q-oka-s@
+@butter@|@kamu, xynál@
+@buttock@|@xIydyxI@
+@button@|@kych@
+@calf@|@qyka@
+@cane@|@nac@
+@caraway@|@cant:araj ješ@
+@cat@|@bis:i@
+@cattle-shed@|@jica, maxi@
+@cauldron@|@kunkum@
+@cavern@|@wuqna@
+@ceiling@|@qurek@
+@ceiling planking@|@rak@
+@chaff@|@coqI, naqw@
+@charcoal@|@gadyr@
+@cheek@|@dan@
+@cheese@|@nis:e@
+@chin@|@qac@
+@choose@|@ghI-a=x:Ia-@
+@clean@|@maIt:y-n@
+@cliff@|@qul@
+@clitoris@|@kachani@
+@close@|@gas:an-@
+@cloud@|@gumyl'@
+@coagulate@|@qlyqla-@
+@cock@|@dadal@
+@cold@|@mykana@
+@collar@|@xIow@
+@colostrum@|@da@
+@conditional@|@-e, -xe@
+@conjunctive@|@-xi@
+@copper@|@jux:wa@
+@corner@|@wut@
+@cornfield@|@nek@
+@cow's dung@|@xIyn@
+@crow@|@qIan@
+@crumb@|@xIywa@
+@crumple@|@g-oqIa-@
+@cuckoo@|@guk:i, guk:y@
+@cut@|@ga=axa-@
+@dark@|@mycha-x-yn@
+@dative@|@-s@
+@daughter@|@jyš@
+@day@|@jygh@
+@deaf@|@boš-na@
+@deictic (emphatic) stem@|@ha-man@
+@demonstrative pronoun@|@i-n, ma-n@
+@denominative nominal@|@-alla, -walla@
+@dense@|@ryš:y-n@
+@desiderative@|@-ji@
+@diarrhea@|@arxw@
+@dig@|@kakan-@
+@dog@|@xwa@
+@door@|@ak:a@
+@dream@|@nak@
+@dried snot in nose@|@suInt@
+@drop@|@tank@
+@dry@|@q:urna@
+@dumpling@|@gyrc, xink-ar@
+@ear@|@kyry@
+@ear of corn@|@gyt@
+@earth@|@chije, jil, naqw@
+@earthenware stove for baking@|@xar@
+@egg@|@quq@
+@eight@|@moli-llä@
+@elative@|@-e@
+@empty@|@qIara-n@
+@enclosure for heifers@|@wuche, wyche@
+@end@|@siv@
+@ergative@|@-e@
+@essive@|@-a@
+@evening@|@ex:a@
+@eye@|@ul'@
+@eye secretion@|@chuqI@
+@fat@|@ma'@
+@fat crease@|@xymyl'@
+@feather@|@kukra, wysyn@
+@felt cloak@|@qyry@
+@female@|@xywyl'na@
+@female breast@|@muxu@
+@finger@|@tub@
+@finger nail@|@xyvna@
+@fire@|@ca@
+@five@|@xo-llä@
+@flea@|@chin@
+@flour from young sprouts@|@uq-un@
+@flour made of roasted wheat@|@gurguma@
+@flower@|@tet@
+@fly@|@byzbyza@
+@foam@|@xurt@
+@foreleg@|@gyvy@
+@four@|@joqu-lle@
+@fox@|@syIwa@
+@fright@|@gich@
+@fruit stone@|@tilik@
+@full@|@gacyn@
+@furrow@|@mac@
+@gall bladder@|@ky-zej@
+@general verbal prefix@|@s-@
+@genitive@|@-n, -na, -ni@
+@genitive plural@|@-da, -di@
+@gerund past@|@-0, -u, -y@
+@gerund present@|@-0, -i@
+@get cold@|@q-i=ghar-@
+@girl@|@ichi@
+@give@|@hi=le-@
+@goat@|@cë, muswa, myswa@
+@goat's wool@|@jis@
+@good@|@jugna@
+@gooseberry@|@ghIabriš@
+@grandfather@|@didi@
+@grandmother@|@anaj@
+@grape@|@tumyl'@
+@grass@|@ok@
+@grasshopper@|@cit@
+@graze@|@uxïxe-@
+@green@|@chiIwan@
+@grey@|@choru-n@
+@grindstone@|@jaxal@
+@grub@|@kok@
+@gullet@|@ghIot, sur-tuli@
+@gum@|@xyn@
+@hair@|@chaIr@
+@hammer@|@kaš@
+@hand@|@xil@
+@handful@|@mex@
+@handsome@|@batra-jyn@
+@hank@|@cikw@
+@hard@|@coba-n@
+@hare@|@ghIyje@
+@haystack@|@gate@
+@head@|@wuqul@
+@heart@|@jik@
+@heavy@|@jyqIy-n@
+@heel@|@myqIly@
+@hen@|@kate@
+@high@|@ax-ty-n@
+@hill slope@|@chum@
+@hit@|@yxIa-@
+@hive@|@tapan@
+@hoof@|@korch@
+@hooked@|@qy-chotkyri-n@
+@horn@|@gach@
+@horse@|@balkan@
+@house@|@xaw@
+@humming-top@|@korca-ni@
+@hundred@|@waIš@
+@hungry@|@mys:y-n@
+@I@|@zu@
+@ice@|@myk@
+@icicle@|@sursul@
+@imperative sing@|@-e@
+@imperative sing.@|@-jin@
+@in filled series@|@egh-, igh-@
+@in front@|@hï-d@
+@iron@|@jywa@
+@iterative prefix@|@q-@
+@juniper@|@cib@
+@kid@|@bycyc@
+@kidney@|@kutun@
+@kill@|@q-e=ke-@
+@kiss@|@uba, ubba@
+@knee@|@qaraca@
+@knife@|@chyka@
+@knuckle-bone@|@kunu@
+@ladder@|@mygyr@
+@lamb@|@gew, urg@
+@lateral series@|@'-kwa instrum., -k-e abl. III, -k ess. III@
+@lative@|@-nch-@
+@leaf@|@tele@
+@lean@|@joxara-n@
+@leather sack@|@qusur@
+@leather strip@|@chuwa@
+@leg@|@q:el@
+@lentil@|@hIywa@
+@linden@|@xid@
+@liquid@|@ximaI-n@
+@liver@|@kyl'kam@
+@load@|@xew@
+@locative suffix@|@-k@
+@lock@|@'kuklak@
+@long@|@xyli-na@
+@long stick@|@dal@
+@loop@|@'Ium@
+@louse@|@vix@
+@magpie@|@q:Iaraq:Ian@
+@male@|@wygyli-n@
+@malt@|@ky@
+@manger@|@tyna@
+@manure@|@xid@
+@many@|@ge-d@
+@mark@|@iž@
+@marten@|@sulec-man@
+@masdar@|@-i@
+@mason's hammer@|@sant@
+@mattock@|@bix, byx, gazaj@
+@meat@|@churu@
+@milk@|@nak@
+@mill@|@jox:Ia@
+@millet@|@dik@
+@mint@|@mije@
+@mirror@|@naxwari@
+@mitten@|@xaxali@
+@month@|@waz@
+@moth@|@sus@
+@mother@|@jed@
+@mould@|@xywa@
+@mountain@|@sywa@
+@mountain goat@|@wis@
+@mouse@|@qIow@
+@moustache@|@muchru@
+@mouth@|@gal@
+@muzzle@|@bok@
+@naked@|@cele-n@
+@name@|@do@
+@narrow@|@hyIk:e-n@
+@navel@|@dan@
+@near@|@dülesyn@
+@nephew@|@xydyl@
+@nettle@|@magha@
+@new@|@cedyn@
+@night@|@xIam@
+@night cap@|@qIapa@
+@nine@|@jichu-lle, juchu-@
+@nipple@|@mit@
+@nit@|@nat@
+@nominative@|@-0@
+@nose@|@quš@
+@nostril@|@baIže@
+@not@|@d-@
+@oak-tree@|@moqI@
+@oat flour@|@su@
+@oats@|@gargar@
+@obl. stem of adj. plur.@|@-miš-@
+@obl. stem of adj. sing. 3d cl.@|@-ch-@
+@obl. stem of adject. sing.@|@-q:-@
+@obl. stem plural@|@-š-@
+@odour@|@ewa@
+@old@|@jis:e-jin@
+@one@|@sa@
+@oneself@|@=ij@
+@oven for baking bread@|@lax:a@
+@overtake@|@aw-a=qar-@
+@ox@|@jac@
+@palm of hand@|@qonak, qonek@
+@part@|@sura@
+@pass@|@qIach@
+@passage@|@kac@
+@past contin@|@-ni@
+@past perf. II@|@-sa+CM+ni@
+@past perfect@|@-n, -ni@
+@paternal uncle@|@emi@
+@pea(s)@|@xara@
+@pear@|@jyxIá@
+@pigeon@|@nuraj, nurxa@
+@pillow@|@ghunelek@
+@pimple@|@tix, tur@
+@pine-tree@|@kunax@
+@pitchfork@|@xewa@
+@plait@|@qamchele@
+@planking poles@|@chil@
+@ploughshare@|@magh@
+@plural@|@-ar, -är, -er@
+@pod@|@kacha@
+@pole@|@hala-x:war@
+@prayer@|@kub@
+@pregnant@|@q:Ian-na@
+@preverb "above"@|@-l-e (abl. II), -l-qa (all. II), -l (ess. II), al-@
+@prick@|@zaza@
+@pus@|@maš@
+@quince@|@šum@
+@ram@|@gharg@
+@ramson@|@suwï@
+@raspberry@|@xura@
+@rennet@|@wëg@
+@river@|@dama@
+@road@|@jaqI@
+@road-metal@|@xIaxIa@
+@roast@|@q-e=c-@
+@roll@|@h-a=t:al-@
+@rolling-pin@|@chiq@
+@rook@|@chyghIa@
+@rope@|@to'Ia@
+@round@|@gyrgyra-n@
+@rye@|@sykyl'@
+@salt@|@qew@
+@saw@|@ajxá@
+@say@|@ihe-@
+@see@|@ghažes@
+@self@|@chi-n, chi-na@
+@seven@|@jigy-lle@
+@sheaf@|@jol@
+@sheath@|@ghag@
+@sheep@|@nušej, woqIa@
+@sheep-flock@|@baIki@
+@sheep's fat tail@|@jy-kry@
+@sheepskin coat@|@qarqw@
+@shelf for dishes@|@qas@
+@shin-bone@|@com@
+@shirt@|@gurt@
+@short@|@'jita-na@
+@sickle@|@chin@
+@side of body@|@mygyl'@
+@sieve@|@wex:wa@
+@sister@|@juchy@
+@sit down@|@g-i-'ar@
+@six@|@jixy-llä@
+@skin@|@ghekwa, le-kwa@
+@sky@|@xIav@
+@slide@|@git:-i=gan-@
+@slime@|@xirxi-man@
+@small@|@ky-lin@
+@small axe@|@kera@
+@small beam@|@qat@
+@small stone@|@kakalaj@
+@smell@|@ni'i@
+@smoke@|@kuma@
+@snake@|@xoche@
+@snot@|@qIymyt@
+@snow@|@jiz@
+@some locative series@|@-s:-@
+@son@|@dix, dux@
+@song@|@juše@
+@sound@|@on@
+@soup@|@jyq@
+@sour@|@chyrchyma-n@
+@sour cream@|@aqwa, gyžywa@
+@span@|@chiIm, chuIm@
+@sparrow@|@kycacaj@
+@spider's web@|@xawsi@
+@spine@|@jyqIana sini@
+@spit@|@tu@
+@spittle@|@rix@
+@spleen@|@zylzam@
+@squeeze@|@ho=chan-@
+@stalk@|@ghur@
+@star@|@xIane@
+@stench@|@nï@
+@step of stairs@|@qIyt@
+@stick@|@tata@
+@stone for watering cattle@|@lat@
+@stone pillar@|@xIyje@
+@stop up@|@q-eše-@
+@straw@|@som@
+@strawberry@|@niq:äj@
+@strip of leather@|@qošä@
+@suffix of a locative case@|@-qa@
+@suffix of containers@|@-gan@
+@suffix of profession@|@-q-än@
+@summer@|@ghIyl@
+@summit@|@qom@
+@sun@|@virygh@
+@sweet@|@ut:u-n@
+@sweetbrier@|@kaškale@
+@tail@|@byIt@
+@tear@|@nagh@
+@temple@|@kutel@
+@ten@|@jicy-llä@
+@that@|@šen@
+@thimble@|@tul-ung@
+@thin@|@kyIwaIn@
+@thou@|@ghu, wu@
+@thread@|@uxara@
+@three@|@xeby-llä@
+@threshing-floor@|@at:a@
+@time@|@chaIw@
+@tinder@|@cimis@
+@to bake@|@k-e=že-@
+@to bark@|@y=xIa-@
+@to be@|@a, wo@
+@to beat@|@g-e=ta-@
+@to become@|@=ixe-@
+@to bite@|@aca=kwan-@
+@to boil@|@k-o=xar-@
+@to break@|@ha=qwar-@
+@to burn@|@g-o=x:an-@
+@to burst@|@ghu-to=kal-@
+@to buy@|@al-iš:e-@
+@to comb@|@giw-a=xa-@
+@to come@|@q-ale-@
+@to come in@|@ik-e=che-@
+@to compel@|@al-ik:a-@
+@to copulate@|@hi-ik:a-s@
+@to die@|@ha=ata-@
+@to dig@|@h-i=kwar-@
+@to drink@|@il'-o=ghIa-@
+@to drip@|@o=tal-@
+@to empty@|@hach-a'as@
+@to fall@|@highlakar-, q:a'-axa-@
+@to find@|@áke-@
+@to flow@|@o=ca-@
+@to fly@|@al-ixas@
+@to forget@|@kile=xan-@
+@to get lost@|@a=gwal-@
+@to gnaw@|@s-a=che-@
+@to go@|@=ör-a, =yq:Ia-, hakan-@
+@to go away@|@q-y=xe-@
+@to go out@|@ka-aqIa-s@
+@to guard@|@huw-a=ž-@
+@to hang@|@gi=axa-@
+@to hear@|@q:-a=xe-@
+@to hurt@|@=ykar-@
+@to knit@|@ho'o=xar-@
+@to know@|@=axI:a-, aca-@
+@to leave@|@h-a=s:ar-@
+@to let@|@gha=jk:a-@
+@to lie@|@ghal-i=xa-@
+@to make@|@h-a'a-, h-aa-@
+@to melt@|@al-e=xa-@
+@to milk@|@gaz@
+@to open@|@aqa-@
+@to paint@|@q-i=xar-@
+@to plane@|@heçw@
+@to play@|@aga-@
+@to plough@|@eza-@
+@to polish@|@h-e=že-@
+@to put@|@g-ixe-@
+@to rain@|@g'-ogha-s@
+@to roar@|@myrgh ás@
+@to roll@|@alikaras@
+@to rot@|@qI-y=che-@
+@to run away@|@a=xwan-, h-i=xwa-@
+@to scrape@|@chirxam a'a-@
+@to scratch@|@k-ega-, q-e=ga-@
+@to sell@|@mas:a heles@
+@to sew@|@i=xwa-@
+@to shoot@|@aha-@
+@to show@|@hagwa-@
+@to sift@|@gy-ce=x:wa-@
+@to sing@|@e=kwa-s@
+@to sleep@|@q:-a=san-@
+@to smear@|@qaghwa-@
+@to spin@|@il-e=t:a-@
+@to stand@|@ul'-o=zar-@
+@to stay@|@a=x:wa-@
+@to stir@|@i=kar-@
+@to suck@|@g-o=qa-@
+@to swallow@|@o=qIa-@
+@to sweep@|@saxwa-@
+@to swell@|@alt-a=x:Ia-@
+@to take@|@aq:a-@
+@to take away@|@sa=che-@
+@to tear@|@q-o=da-@
+@to tear off@|@q-o=x:a-@
+@to throw@|@a=ga-@
+@to turn to ice@|@ajcar-as@
+@to waddle@|@kána@
+@to want@|@=yk:an-@
+@to wash@|@gi-ža=xIa-, h-o=ghal-@
+@to weave@|@q-e=xa-@
+@to weep@|@g-e=š:e-@
+@to write@|@o=kan-@
+@tongue@|@miz@
+@tooth@|@sili@
+@top of head@|@kunt@
+@tower@|@gim@
+@trap@|@chank@
+@tree@|@jyv@
+@trousers@|@bada@
+@tubular bone@|@ad@
+@twenty@|@q:a-llä@
+@two@|@qIo-llä@
+@udder@|@xIu@
+@upper part of shin@|@kyca@
+@urinary bladder@|@parax:Iaj@
+@urine@|@zej@
+@variegated@|@qIarchy-n@
+@warm@|@ghIuma-n@
+@wasp@|@nož@
+@water@|@xan@
+@water jug@|@parch@
+@wax@|@mox@
+@we@|@ši@
+@weasel@|@sok, sok:a-@
+@what@|@hijo, ni-še@
+@when@|@musa, musana@
+@whey@|@arxIane@
+@which@|@hi-jo, hi-šu@
+@whip@|@chuImk@
+@white@|@jagwara-n@
+@who@|@hi-šu@
+@wide@|@aqI-n@
+@wild turkey@|@sole@
+@willow@|@chow@
+@wind@|@kulak, myc@
+@window@|@ghul@
+@wineskin@|@qoche@
+@winter-supply of dried meat@|@gon-na@
+@wither@|@sa-chy=xIar-@
+@wolf@|@umul@
+@woman@|@xuna-š:e@
+@woman's adorned belt@|@cura@
+@wood@|@os@
+@woodpecker@|@taqtaqaj@
+@wool@|@xa@
+@worm@|@aIbra-wuche, myqI@
+@yarn@|@mysyl@
+@year@|@sen@
+@yellow@|@qI:ybyna@
+@yesterday@|@s:an-ghi@
+@yoke@|@oIk, ok@
+@you@|@šu@
+@young goat@|@kuwar@
+@young he-goat@|@myxIywa, wudra, wydra@
+@young of domestic animals@|@kurij, kurukaj@
+

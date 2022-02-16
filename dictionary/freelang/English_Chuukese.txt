@@ -1,0 +1,225 @@
+@English@|@Chuukese@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@above@|@wóó-@
+@all@|@meyinisin@
+@and@|@me, mé ngé, nge@
+@ash@|@fanang@
+@at@|@i-, nee-, ree-@
+@back@|@sékúr, sékúrú-@
+@bad@|@ngngaw@
+@belly@|@saa, wupwa-(n), wuupw@
+@below@|@faa-@
+@big@|@nap, napanap, nnap, watte@
+@bird@|@maan, mach-chang, nikááp@
+@black@|@chóchchón, chón@
+@blood@|@chcha, chchaa-@
+@bone@|@chúú, chúú-@
+@branch@|@ráá, ráá-n@
+@breast@|@ttú-, ttú-(n)@
+@child@|@naaw, néwú-, néwú-n, se-miriit@
+@cloud@|@kuchu, kuchuu-(n)@
+@cold@|@ffééw@
+@correct@|@pwúngu-, pwúúng@
+@day@|@ráán, rááni-@
+@dirty@|@pwpún@
+@dog@|@konaak@
+@dry@|@pwas@
+@dull@|@kkopw, kkopwu-@
+@dust@|@fanang@
+@ear@|@senig@
+@earth@|@pwpwún, pwpwúnú, sóón@
+@egg@|@sókkun, sókunnu-(n), sókuun@
+@eye@|@maas, masa-(n), mese-(n)@
+@far@|@too-(w), too-(waaw), toow@
+@fat@|@kiriis@
+@father@|@saam, seme-(n)@
+@feather@|@úún, wúne-(n), wúne-(n), wúún, wúún@
+@fire@|@ááf, efi-@
+@fish@|@iik@
+@flower@|@péé-, péé-n@
+@four@|@fa-, faa-, faan, fáán@
+@fruit@|@wuwa, wuwaa-(n)@
+@good@|@eech, mwirinné, ris@
+@Good afternoon@|@Neekkunuion annim@
+@Good evening@|@Neepwong annim@
+@good morning@|@Neesor annim@
+@Good night@|@Neepwong annim@
+@Goodbye@|@Kene nom@
+@grass@|@fetin, fetini-(n)@
+@green@|@araw, arawaraw@
+@hair@|@wúne-(n), wúún@
+@hand@|@kumwuch, paaw, péwú-(n)@
+@he@|@-a-, -n, e, iiy, iiy@
+@head@|@wúnú-(n), wúnúún wúnúúnú-(n), wúnúúne-(n), wúún@
+@head (1)@|@mékúr@
+@heavy@|@ch-chow, chchow, chchowu-@
+@hello@|@Ran annim@
+@house@|@iimw, imwa-(n)@
+@how?@|@ifa@
+@husband@|@pwúnú-wa-(n)@
+@I@|@-ey, -y, ngaang nganga, wú@
+@if@|@are, ika@
+@in@|@nnó-, nnó-(n), nóó-(n)@
+@intestines@|@aff, taa, taa-(n)@
+@leaf@|@chéé, chéé-@
+@left@|@-feefin, -mééng, -mmééng@
+@leg@|@peche, pechee-(n)@
+@lightning@|@fi, fiifi@
+@liver@|@áá-yá, yááyá@
+@long@|@áney, áneyi-(n), ánney, nááney@
+@louse@|@kúú, kúú-(n), kúúwe-(n)@
+@man@|@mwáán, wono-@
+@meat@|@futuk, futuke-n, futukotuk@
+@moon@|@ma-ram, maram@
+@mosquito@|@-nómwu-(n), (towu)-nómw, nöömw@
+@mother@|@iin, ina-(n)@
+@mouth@|@aaw, awa-(n), awe-(n)@
+@My name is@|@Itei@
+@name@|@iit, ita-, ite-@
+@narrow@|@chéé-mwakkún@
+@near@|@a-rap, a-rapa-(kkan), akka-rap, akka-rap, arapa-@
+@neck@|@wúú, wúwa-(n)@
+@needle@|@tikek@
+@new@|@fé, ffé@
+@night@|@pwiin, pwini-, pwongú-@
+@no@|@-se, aapw, sa-, se-@
+@No@|@Aapw@
+@nose@|@pwéét, pwéétú-@
+@old@|@chiin-nap@
+@one@|@e-, eet, i-, se-@
+@painful@|@metek, meteki-, sa-mwaaw, sa-mwaawe-(n)@
+@person@|@ara-mas, ara-mase-(n), aramas@
+@rain@|@wúte-(n), wúút@
+@rat@|@(na)-kkich, (naa)-kkich, nakkich@
+@red@|@par, parapar@
+@right@|@-mwáán@
+@ro walk@|@fátán, fátánátán@
+@road@|@aan, ane-(n)@
+@root@|@waar, waara-(n)@
+@rope@|@sáán, seni-(n)@
+@rotten@|@mach, mammach, mmach, pwa, pwaa-, tomwun@
+@salt@|@sóón@
+@sand@|@ppi@
+@sea@|@ma-taw, sáát@
+@sharp@|@kken@
+@she@|@iiy@
+@short@|@mwoch, mwochomwoch@
+@shoulder@|@afar, afara-, afara-(n)@
+@shy@|@ma, sááw, sááwá-ási-ni@
+@skin@|@siin, sini@
+@sky@|@nááng, nengi-@
+@small@|@-chik, -chis, -sich, chikichiiki-, nginingiin@
+@small (1)@|@-ngin, chiki-, nginingin@
+@smoke@|@éét, ét, étú-(n), étúwét@
+@spider@|@nittopwuráán@
+@stand@|@ppi@
+@star@|@fúú, fúú-(n), fúúwe-(n), ichchi-, iich@
+@stick@|@eyi-, irá, ráá, ráá-n@
+@stone@|@faaw, féwú-@
+@tail@|@wúkú-, wúkú-(n), wúúk@
+@thacht@|@óós, ósu-(n)@
+@Thank you@|@Kinissow@
+@that@|@(e)-kke-mwuu-n, (e)-mwuu-n, e-na, een, een@
+@thatch@|@óós@
+@they@|@-:r, -ur, iir, ra-, re, re-, ró-@
+@thick@|@ma-anúún, maanúún@
+@thin@|@chách-cháák@
+@this@|@e-ey, een@
+@thou@|@-k, -mw, een, ka-, ká- kó-, ke-, ké-, ko, ko-, wo@
+@three@|@één, wúnú-@
+@thunder@|@chopwunap, ménúng, paach@
+@to bite@|@k-kúú-w@
+@to blow@|@pé, péé-ni, péépé, wuki@
+@to breathe@|@ngas, ngasangas@
+@to burn@|@kkar, kúú-ri@
+@to buy@|@méé-ni@
+@to chew@|@ngngúúng, ngú-ti, ngúti, núúnú, núúnúú-(w)@
+@to choose@|@(ni)-finifin, fini@
+@to climb@|@téé-(tá), tééki@
+@to come@|@pwer, pwere-, too-@
+@to cook@|@moot, mwoot, mwooto-(mmang)@
+@to count@|@ánná-(ya), ánná-(yaa-ni), ánná-yaa-ni, ánne-(ya), ánne-(yaa-ni)@
+@to count (1)@|@ánnáyá@
+@to cry@|@kkechiw@
+@to cut@|@kupii-y, sepe-si@
+@to die@|@má, máá-, pe, pee-(nó)@
+@to dig@|@s-sin, sin-ni, sini-ni, ssin, ttu, ttu, tuutu@
+@to dream@|@ttan, ttana@
+@to drink@|@wún, wúnúmi@
+@to ear@|@sening, seninga(n)@
+@to eat@|@áni eni, eni, mwéngé, mwéngéé-(n)@
+@to fall@|@mwmwor, mwor, mworo-(tiw), púngú-@
+@to fear@|@mé-sék, mésék@
+@to flow@|@pwu, pwuu-@
+@to fly@|@áás, chang@
+@to grow@|@ffóón, nimwmwukonó, teriwi@
+@to hear@|@(o)-ronga, rong, ronge-(e-ya), rongorong@
+@to hear (1)@|@rongo-rong@
+@to hide@|@ó-mwóna, wop@
+@to hit@|@wech, wechee-(y), wópwu-wópw@
+@to hold@|@(é)-mwéchú, é-mwéchú@
+@to hunt@|@chee-y@
+@to kill@|@ninni, nnii-y@
+@to know@|@sine, sineëy@
+@to laugh@|@-ffas, (turu-nu)-ffas, kekkey, kkey, kkeyi-si-ni@
+@to laugh (1)@|@kkey, takir@
+@to lie down@|@eyi-wen, won, wonowut, wúnú-@
+@to live@|@ma-naw, manaw@
+@to open@|@suuki, wá@
+@to plant@|@f-fót, ffót, fóto-@
+@to pound@|@pwpwo, pwpwoo-ni, wúsi, wúsú-ús, wúsúús@
+@to say@|@áá-, érá@
+@to scratch@|@(a)-kéttú, (é)-kéttú, (fa)-ariker, erikeri, kkéét@
+@to scratch (1)@|@eri-ker@
+@to see@|@kúna, weri@
+@to sew@|@tee-te, tee-yi, teete@
+@to shoot@|@pekki@
+@to sit@|@mómmóót, móót, móót-(tiw), mót-(tiw)@
+@to sleep@|@méwúr, méwúrú-@
+@to sniff@|@tini, ttin@
+@to spit@|@me-ttip, memme-ttip, ó-ttif, ótiffa-(n), óttif@
+@to split@|@pékúú-w, tin, tine-ni, tinetin@
+@to squeeze@|@fi, fiye-e-(y), fiyee-y, fiyefi@
+@to stab@|@t-tuu-, ttu@
+@to stand@|@wú, wúú-, wúú-(tá)@
+@to steal@|@mwócho@
+@to suck@|@t-tumw, ttúút, túttú-@
+@to swell@|@pwo@
+@to swim@|@á@
+@to think@|@áák, áák, eki-(n), eki-yek, ekin-, neme-ni@
+@to thow@|@áche-e-(y)@
+@to throw@|@a-kka-ch@
+@to tie up@|@féé-ti, rii-ti@
+@to tie-up@|@féé-ti, fééfé@
+@to turn@|@rik, sap, sáp, sor@
+@to vomit@|@mwmwus@
+@to walk@|@fátán, fátánátán, fetán, nó@
+@to work@|@angaang@
+@to yawn@|@m-maw, mmaw@
+@tongue@|@chénn-aaw@
+@tooth@|@-ngi, -ngú, ngii, ngii-(n), nii, nii-(n)@
+@two@|@(é)-rúú, (é)-rúúw, rúwa-@
+@warm@|@pwichi-kkar, rar, rarrar@
+@water@|@chaan, chénú-, kkónik@
+@we@|@-ch, -kich, áám, áyi-, kich, kiich, si@
+@wet@|@chécho-chén@
+@What is your name?@|@Ifa itom?@
+@what?@|@meeta@
+@when?@|@(i)-nee-t, ineet@
+@where?@|@i-fa, i-fa-a, iiya, iya, iyaa-(n)@
+@white@|@pwecha-@
+@who?@|@(i)-yé, (i)-yéé-(n), iyé@
+@wide@|@chéé-, chéé-nap, chéé-watte@
+@wife@|@pwúnú-wa-(n)@
+@wind@|@ásápwán, eni-, eniyen@
+@wing@|@paaw@
+@woman@|@-pwute-(n), chóó-pwut, feefin, fiin, niya-, niye-@
+@woods@|@irá-nnap, wén-nap, wénúwén@
+@worm@|@nikénúúnúpwpwún@
+@year@|@iyér, séé@
+@yellow@|@ón, óneyón, óno-, ónoyón@
+@Yes@|@Ewer@
+@you@|@-kemi, -mi, áámi, éwú-, owu, wo-@
+@You're welcome@|@Kote puan afani@
+

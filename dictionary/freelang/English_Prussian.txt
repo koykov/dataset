@@ -1,0 +1,1908 @@
+@English@|@Prussian@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@A carter drives here@|@Kellewesze perioth@
+@abandon@|@PAWÊRPT, powiêrpt@
+@about@|@EZE@
+@abstains@|@ETLÂIKÂ SI@
+@abundant@|@laimiskan@
+@abundantly@|@laimintiskai, LÂIMÎNTISKÂI@
+@abuse@|@EBKEKAN, EBKEKTWEÎ, epkieckan, epkieckan@
+@accuse@|@niwinûton, WINÛTWEÎ@
+@accused@|@ebwinûts, EBWINÛTS, niebwinûts@
+@accustom to@|@iaukint, JÂUKÎNT@
+@ache@|@Gulsennin, GULTWEÎ@
+@acorn@|@GILÊ@
+@acquires@|@ÊNGAÛNÂ@
+@acre@|@MÂRGS, Moargis@
+@activities@|@SEGÊSNÂ, segisna@
+@Adam@|@ADAMAS@
+@addresses@|@ÊNWAÎTJÂI, WÂRTINÂ, wartinna sin@
+@adieu@|@Sanday, SÂNDÊI@
+@admonish@|@PASKÂLÊTUN, paskulîton@
+@adze@|@WEDIGÂ, Wedigo@
+@affair@|@ASTIS@
+@after@|@PÂ, PÂ, PAS, po, po, poskails@
+@aftermath@|@ATÂLS, Attolis@
+@again@|@ETKÛMPS@
+@against@|@ÊMPRÎKI, preiken, preiken, preiken, PREÎKIN, PREÎKIN, PREÎKIN, PRÎKI, PRÎKI, prîkin@
+@aged@|@Urs, WÂRAS, WÂRS@
+@alder-tree@|@ALISKÂNS, ALISKNAS@
+@alienate@|@aupaickêmai, ÂUPÂIKÊIMAÎ@
+@allots@|@PALÎKIJ, polijcki@
+@almighty@|@WISAMÂKJAS, WISAMÂZÎNGIS, Wissemusîngis, wyssen mukis@
+@already@|@iau, JÂU@
+@altar@|@ALTARÊS, Altari@
+@although@|@IKÂI@
+@alumina@|@LÂISÂ, Layso@
+@always@|@Ainat, AÎNAT, KADAN, WISADAN@
+@amber@|@glaesum, GLÊSÎS@
+@ambler@|@Wilenikis, WINENÎKS@
+@amiably@|@mijlan, MÎLAN, Mîls@
+@amulet@|@GÎNTÂRS@
+@and@|@BE@
+@angel@|@ÊNGÊLS@
+@animals@|@swîrins, ZWÊRINS@
+@ankle-bone@|@Kulnis, KÛLNIS@
+@another@|@KITAN, kittan@
+@answer@|@ETRÂTWEÎ@
+@ant@|@Saugis, ZÂNGÎS@
+@anvil@|@PRÊIKALAS, PRÊIKÂLS@
+@anybody@|@AÎNUNTS@
+@apple@|@ÂBLÊ@
+@apple-tree@|@abâlnê wobalne@
+@Aral asp@|@Rapis@
+@ark@|@Arcan, ÂRKAN@
+@arm@|@IRMÂ, Irmo@
+@arm-chair@|@Creslan, KRÊSLAN@
+@armour@|@SARWAS, Sarwis@
+@arms of the cart's pole@|@Slaune, SLÂUNÊ@
+@army@|@KARÎS, Kragis@
+@around@|@surgi, ZÛRGI@
+@arrangement@|@TEÎKÂSNAN, teikûsnan@
+@as if gave@|@daits, DÂITS, Dâtwei@
+@as if thanked@|@dînkauts, DÎNKAÛTS@
+@ashes@|@GARÂ, PELANÊ, Pelanne@
+@ash-tree@|@ÂSIS@
+@ass@|@ASÎLS@
+@assign@|@ÊNSADÎNTWEÎ@
+@assistant@|@TÂLKINÎKS, Tallokinikis@
+@at@|@prei@
+@at last@|@ÊNWANGAN, ÊNWANGISKAN@
+@atheism@|@NÊDÊIWISKAN, nideiwiskan@
+@aunt@|@MÂSÂ, Moazo@
+@aurochs@|@Tauris, TÂURS@
+@authorities@|@aucktimmisikai, aucktimmiskû, AÛKTIMISKÂ, AÛKTIMISKÂI@
+@autumn@|@ASANIS@
+@avengeress@|@TRINTAWINÎ, Trintawinni@
+@awake (watching)@|@budê, BUDÊI@
+@away@|@WINÂI, winna@
+@awl@|@ÎLÂ@
+@awn@|@AKÂNS@
+@axe@|@bile, BÎLÊ@
+@axle@|@ASIS@
+@back of the body@|@Rikisnan, RITÎZNAN@
+@back of the head@|@Pergalwis@
+@bad@|@wargs@
+@badger@|@ÂBZDUS@
+@bake-house@|@Umnode, UMNUDÊ@
+@baker@|@Peccore, PEKÂRÊ@
+@ball of the toe@|@Spertlan@
+@banns@|@PAWAKÊSNÂ, Powackîsna@
+@baptism@|@Crixtissennien, KRIKSTÎSENJAN@
+@baptize@|@Crixtitwi, KRIKSTÎTWEÎ@
+@baptizer@|@Crixtnix, KRIKSTENÎKS@
+@baptizing@|@Crixtisnâ, KRIKSTÎSNÂ@
+@baptizing book@|@Crixtisnâlaiskas, KRIKSTÎSNÂLÂISKAS@
+@barber-surgeon@|@STUBENÎKS, Stubonikis@
+@barley@|@MÂIZÎS, moasis@
+@barm@|@Dragios, DRAGJÂS@
+@barn@|@Calene, KALENÊ@
+@barrel@|@KANAWÊ, Kanowe@
+@barrier@|@Korto, KÛRTÂ@
+@basin@|@MÎNSÂWÊ, Mynsowe@
+@bast@|@LUNKAN@
+@bath@|@Specte, SPÊKTÊ@
+@bath by whipping with a brush@|@TWAKTWEÎ, Twaxtan@
+@bathing@|@spagtas, SPAKTÂS, SPÊGSNÂ, Spigsnâ@
+@bathing-sheet@|@KEKULAS, Kekulis, KEKÛLS@
+@bay@|@MARÎ@
+@be@|@boût, BÛT@
+@be able@|@epwarîsnan, WARÊTWEÎ@
+@be afraid@|@biâtwei, BIJÂTWEÎ@
+@be awake@|@budê, BUDÊTWEÎ@
+@be born@|@GÎMTUN@
+@be mistaken@|@kurteiti, KÛRTÊJITÊ, KÛRTÊTWEÎ@
+@be occupied@|@dîseitiskan, DÎZÎTWEÎ@
+@beagle@|@Scalenix, SKALENÎKS@
+@bean@|@BABÂ, Babo@
+@bear@|@KLÂKÎS@
+@beard@|@BÂRDÂ, Bordus@
+@beast@|@Alne, ALNÊ@
+@beautiful@|@Grasuthe, GRAZUS@
+@beaver@|@Bebrus@
+@because@|@beggi, BEGI@
+@because of@|@PAGAN@
+@become@|@PASTÂTWEÎ, postâtwei@
+@become flooded@|@Knipaw, KNIPTWEÎ@
+@become heated@|@ÂISTWEÏ@
+@bed@|@Lasto, LAZTÂ@
+@bee@|@BITÊ, Bitte@
+@beech@|@Bucus, BUKS@
+@beech acorn@|@Buccareisis, BUKAREÎSS@
+@beehive@|@Caltestis, KALTISKÎS@
+@been come driven home@|@periot, PÊRJÂT@
+@been helped@|@PAGALBTAN, pogalbton@
+@beer@|@ALU, Piwis, PÎWS@
+@beetle@|@GRÂMBÂLÊ, Gramboale@
+@before@|@pirsdau, PIRZDAU@
+@beg@|@madlitwei@
+@behind@|@PÊR PETÂS, perpettas@
+@being hungry@|@ALKÎNISKÂ, Alkînisquai@
+@being present@|@ÊMPRÎKISÊNS@
+@belief@|@Druwin, DRÛWIN, Druwis, DRÛWÎS@
+@believe@|@drowy, DRUWÊT, DRUWIJ, druwît@
+@believer@|@Druwîngin, DRÛWÎNGIN@
+@bellows@|@MÂISS, moasis@
+@belongs@|@perlânkei, PÊRLÂNKJÂ@
+@below@|@semmai, ZEMÂI@
+@bench@|@SÂSTÂ, Sosto@
+@bend@|@Dangus, DÊNGTWEÎ@
+@benediction@|@EBZIGNÂSNAN@
+@beneficence@|@LABASEGÊSNAN, labbasegîsnan@
+@benevolence@|@LABAPADÎNGAÛSNAN, labbapodingausnan@
+@benevolent@|@KWÂITÎNGIS@
+@beside@|@pagâr@
+@betray@|@PÊRKLÂNTAMAÎ, perklantemmai@
+@betrayed@|@PRAWILÂ, prowela@
+@bette@|@walnennien, WALNS@
+@better@|@WALNANJAN, walnennien, Walns@
+@between@|@sirsdau, SIRZDAU@
+@billet firewood@|@Luckis, LUKIS@
+@binding strap@|@TARKINÊ, Tarkue@
+@birch@|@Berse, BERZÊ@
+@bird@|@Pepelis, PIPELIS@
+@bird-cherry@|@SMÂRDÊ, Smorde@
+@birds@|@PIPALENS, Pippalins@
+@birth@|@GÎMSENJAN@
+@bishop@|@Bîskopins, Bîskops, BÎSKUPANS, Bîskups@
+@bison@|@Wissambs', ZAMBRAS, ZAMBRUS@
+@bit of a bridle@|@KAMANÂS, kampnit, Slango, ZABANGÂ@
+@biting caustic@|@GRÊUZÎNGIS@
+@bitter@|@kârtai, KÂRTÂI@
+@bitter plums@|@Crichaytos, KRÎKAÎTÂS@
+@black@|@KÎRSNAN@
+@black grouse@|@TATÂRWAS, Tatarwis@
+@blackbird@|@Seese, SÊSÊ@
+@bladder@|@Dumsle, DUMSLÊ@
+@blanket@|@LÂZÊ, Loase@
+@bleeder@|@KRÂUJÂWÎRPS@
+@bless@|@Signât, ZIGNÂT@
+@blessed@|@DÊIWÂTS, Deiwuts, EBZIGNÂTS@
+@blessing@|@signassen, ZIGNÂSNAN@
+@bliss@|@DÊIWÂTISKÂ, DÊIWÂTISKAN, Deiwutiskai, Deiwûtiskan@
+@blissful@|@DÊIWÂTISKAN, Deiwûtiskan@
+@blissfully@|@DÊIWÂTÂI, DÊIWÂTISKÂI, deiwûtai, Deiwutskai@
+@blood@|@Crauyo, KRÂUJÂ@
+@blot@|@MÊLINAN, mîlinan@
+@blow@|@KÎRTÎS@
+@blue@|@MÊLINS, mîlinan@
+@bluish@|@GALÎMBAN@
+@boar@|@KÛILÎS@
+@board of a ceiling@|@LUBÂ@
+@bodily@|@KÊRMENENISKAN, KÊRMENISKÂ, Kêrmeniskai@
+@body@|@KÊRMENS@
+@bold@|@Dirsos, DÎRSUS@
+@bolter@|@baytan, SAÎTAN@
+@bone@|@Caulan, KAÛLAN@
+@book@|@LÂISKAS@
+@boot@|@Pusne@
+@bootmaker@|@Schuwikis, ŠUWIKS@
+@bore@|@Granstis, GRÂNZTWEÎ@
+@borer@|@Granstis, GRÂNSTIS@
+@both@|@ABÂI@
+@bound@|@senrists, SÊNRISTS@
+@box-room@|@Kamerco, KAMÊRKÂ@
+@boy@|@WÂIKLÎS, Wayklis@
+@brain@|@MAZGENÂ, Mulgeno@
+@bran@|@KLÊNÊS@
+@branch@|@Wipis@
+@brass@|@KASÂJS@
+@bread@|@GEÎTIKÂ, GEÎTIS@
+@bread of coarse-ground flour@|@SÂMPISINÎS, Sompisinis@
+@break@|@lembtwey, LEMTWEÎ, Luse, LÛZÎS@
+@break through@|@KÎNTWEÎ@
+@bream@|@Blingis, BLÎNGÎS, Locutis, LUKUTÎS@
+@breast@|@KREKLAN@
+@breast-leather for a horse@|@Pagrimis, PAGÛRNÎS@
+@breast-piece@|@Pleske, PLÊSKÊ@
+@bribe@|@BALWÂ, Balwe@
+@bride@|@Mârtin, MÂRTJAN@
+@bridge@|@TILTAN@
+@bridle@|@Brisgelan, BRIZGILAN@
+@bright@|@Laukappe, LÂUKS@
+@bring@|@PRÊIPÊST, preipîst@
+@brings@|@PÊRPÊDÂ, perpîdai@
+@brome grass@|@Pure@
+@brook rill@|@Salus@
+@broom@|@KLEKSTÂ@
+@broth@|@Juse, JÛSÊ@
+@brother@|@BRÂTÊ, Brote@
+@brothers@|@bratrîkai, BRATRÎKÂI@
+@brought up@|@auginnons, AÛGINUNS, PAAÛGÎNTS, poaugints@
+@brown@|@Bruneto, BRÛNS@
+@brownish@|@Cucan, KUKAN@
+@bruise@|@MÊLINÊ, Melne@
+@brush@|@Coestue, KÂISTWÊ@
+@brushwood@|@TWAKSTAN, Twaxtan@
+@buckle@|@Sagis, SAGS@
+@bulb@|@KÛGÎS@
+@bull@|@LÂNIKS, Lonix@
+@bullock@|@KURWAS@
+@bumble-bee@|@Camus, KAMUS@
+@bung-hole@|@Dulsis, DULZÎS@
+@bunting@|@Sixdre, ZIGZDRÊ@
+@burbot@|@Wilnis@
+@burdened@|@PABRANDÎNTS, pobrendints@
+@burdening@|@PABRANDÎNSNAN, pobrandisnan@
+@burdock@|@KLETÂI@
+@buried@|@ÊNKAPTS@
+@burning kindling wood@|@KNÂISTIS@
+@but@|@ABER, ADER, schlâit, schlâit, schlâits, ŠLÂIT, ŠLÂIT, ŠLÂITS@
+@butter@|@Anctan, ÂNKTAN@
+@buttocks@|@Pomnan, PUNINAN@
+@by according to@|@PÂ, po@
+@cake@|@LÛGÎS@
+@calf@|@WÊRSÎS, Werstian, Werstian, WÊRSTJAN@
+@call@|@wackîtwei, WAKÊTWEÎ@
+@calls on@|@kâimaluke, KÂIMALÛKÊI@
+@calves@|@IKRÂI@
+@candle@|@lickte, LIKTÊ@
+@cap@|@Kelmis, KÊLMS@
+@capercailye@|@MEDENÎKS TATÂRWAS, Medenixtaurw'@
+@caressed@|@PAGLABÂI, poglabû@
+@carp@|@Sarote, ZARÂTÊ@
+@carry@|@PÊST, pijst@
+@carry out@|@LÂIKÂT, laikût@
+@cart@|@ABAZUS@
+@cart wheels' binder@|@Arwarbs, ÂRWARBS@
+@carter@|@KELAWEZÎS, Kellewesze@
+@cartilage@|@Gremsde, GREMZDÊ@
+@casing of a mill-wheel@|@Surturs, ZÛRTURAS, ZÛRTÛRS@
+@castle@|@PILIS, Sassenpile@
+@cat@|@KATÂ@
+@cattle@|@EKAN, Peckan, Pecku, PEKU@
+@cattle-shed@|@STALDAS, Staldis@
+@cauldron with legs@|@NAGÂTÎS, Nagotis@
+@celebrate@|@SWINTÎNTWEÎ, swintintwey@
+@celestial@|@Dengenennis, DÊNGININÎS@
+@celestial (heavenly)@|@Dengenneniskans, DÊNGININISKANS, DÊNGINISKAS, Dengniskas@
+@chaff@|@PÊLWÂ, Pelwo, PÊRWÊJÂS, Perwios@
+@chain@|@Ratinsis, RATÎNZÎS@
+@chain link@|@Grandis, GRÂNDIS@
+@change@|@KITAWÎDÎNTUN@
+@chapter@|@PALAZÎNSNAN, polasînsnan@
+@chargeably@|@EBWINÛTÂI, ebwinûtei, Ebwinûts, niebwinûtei@
+@cheek@|@LEÎKNAN@
+@cheese@|@Suris@
+@cherries@|@WÎSNÂITÂS, Wisnaytos@
+@chicken@|@GERTISTJAN@
+@child@|@malnijks, MÂLNÎKS@
+@chimney@|@Kamenis, KAMINAS, KAMÎNS@
+@chin@|@Scalus, SKALAS, SKÂLS@
+@chisel@|@Dalptan, DALPTAN@
+@chopper@|@KALÂPÊILÎS, Kalopeilis@
+@Christ@|@Chricstus, Christus, KRIKSTUS, KRISTS, KRISTUS@
+@Christian@|@Cristiâniskas, KRIKSTJÂNISKAS@
+@Christianity@|@Crixtiâniskun, KRIKSTJÂNISKAN@
+@Christians@|@Crixtianai, Crixtiânimans, KRIKSTJÂNÂI, KRIKSTJÂNIMANS@
+@chub@|@DUBELAS, Dubelis, DUBÊLS@
+@church@|@KÎRKÂ, KÎRKÊS, kîrkis, kirko@
+@climbs@|@LÊZJÂ@
+@clothes dress@|@Rûkai@
+@cloud@|@UPJAN, Wupyan@
+@clover@|@ÂBÎLS@
+@coal@|@ANGLIS@
+@cock@|@GERTÎS@
+@codfish@|@Sweikis, ZUWÊIKÎS@
+@co-heir@|@draugiwaldûnen, DRÂUGIWELDÛNAN@
+@coheirs@|@sendraugiwêldnikai, SÊNDRÂUGIWÊLDNÎKÂI@
+@coin@|@KALTÊ@
+@cold@|@Salta, SALTAN@
+@cold in the head@|@Welgen, WILGAN@
+@collar@|@Paddis, PADÎS@
+@colt@|@Maldian, MÂLDJAN@
+@comb@|@Coysnis, Coysnis, KÂISNIS, KÂISTWEÎ@
+@come@|@PARÊISEÎ, Pareysey, perêit, PÊRÊIT@
+@comfort@|@glandint, GLANDÎNT@
+@commanded@|@ÊNLÂIPÎNTS@
+@commandment@|@PALÂIPS, pallaips@
+@commission@|@PALÂIPINÂ, polaipinna@
+@common@|@draugiwaldûnen, DRÂUGS, PERÔNEN, PERÔNEN, perônin, perônin, PERÔNISKÂ, perônisku@
+@community@|@PÊRAN, PERÔNÊ, perôni, PERÔNISKAN, perôniskan, pijrin@
+@comprehensibly@|@issprettîngi, IZPRETÎNGI@
+@condemnation@|@PÊRKLÂNTÊSNAN, perklantîsnan@
+@condemned@|@PÊRKLÂNTÊT, perklantît, PRÔKLÂNTÊTS, proklantitz@
+@confess@|@GRÊKAÛT, Grikaut@
+@confession@|@GRÊKAÛSNÂ, Grikausna@
+@confessor@|@KLÂUSÊWENÎKI, KLÂUSÊWÎNGIS, Klausîweniki, Klausîwings@
+@confidence@|@PADRUWÊSNAN, podruwîsnan@
+@confirm@|@PADRÛKTINÂ, Podrûktinai@
+@conjugal@|@Sallûbiskan, SALÛBISKAN@
+@conjugally@|@Salûbiskai, SALÛBISKÂI@
+@conjure@|@WAÎDILÊIMAÎ, waidleimai@
+@conscience@|@PAWAÎSENJAS, Powaisennis@
+@consecratable@|@LÂNKINAN@
+@consolably@|@GLANDAWÎNGJÂI@
+@consolation@|@GLANDS@
+@consolidated@|@ÊMPÊRÎNT@
+@conversion@|@PAWÂRTÎSNAN, powartîsnan@
+@cook@|@ÂUBÎRGÂ, Aubirgo, ÂUBÎRGTWEI, KUKÂRÎS, Kukore@
+@cooking woman@|@KUKÂRÊ, Kukore@
+@coot@|@GJÂURÎS@
+@copper@|@Warene, Wargien, WARJAN@
+@copper basin@|@Medinice, MEDINÎTÊ@
+@cord knitted bag@|@KÂRBS@
+@cordially@|@SÊRISKÂI, sîrisku@
+@corn@|@Syrne, ZIRNÊ@
+@corn sheaf@|@Curcho, KURKÂ@
+@corn-cockle@|@KÛNKALÎS@
+@corner@|@LUNKIS@
+@corpse@|@NÂWIS, Novis@
+@correct@|@tickars, TIKÂRS, TIKRAS, tikrômiskan@
+@cough@|@KÂSÊTWEÎ@
+@could@|@MAZÊLAÎ, musîlai@
+@country@|@TÂUTÂ, Tauto@
+@court of justice@|@LÎGAN@
+@cover (pall)@|@Drimbis, DRÎMBÎS@
+@cow@|@KLENTÊ@
+@crackle@|@PRESKÊTWEÎ, Prestors@
+@crane@|@GÊRWÊ@
+@crayfish@|@RÂKS, Rokis@
+@create@|@teickut, TEÎKÂT@
+@created@|@patickots, PATIKÂTS@
+@creation@|@TEÎKÂSNAN, Teikûsnâ@
+@creature@|@TEÎKÂSNAN, teikûsnan@
+@creatures@|@PÊRGIMANS, pêrgimmans@
+@credulous@|@Lângiseilingins@
+@creek@|@Allenstein, TEÎNÊ@
+@crib@|@ABARÂS@
+@crib for fodder@|@RÎNDÂ, Rindo@
+@crops@|@ARJAN, arrien@
+@cross@|@Scrijsien, SKRÎZJAN@
+@cross-beam over the axle@|@KALPUS@
+@crow@|@Warne@
+@crucified@|@Skrîsits, SKRÎZÎTS@
+@cruise@|@ARTUWÊS, Artwes@
+@crumble@|@TRUSTWEÎ@
+@crupper@|@Pastagis@
+@cry@|@Wackis, WAKS, WEKTWEÎ@
+@cubit@|@ÂLTIS@
+@cuckoo@|@GEGUZÊ@
+@cupping-horn@|@RAGÛSTÂ, Ragusto@
+@curdled milk@|@SULÂ, Sulo@
+@curse@|@KEKTWEÎ@
+@cursing@|@KLÂNTÊSNAN, klantîsnan@
+@curved@|@Claywio, KLÊIWS@
+@dagger@|@Stakamecczer', STAKAMESERÎS@
+@daily@|@DÊININISKAS, dineniskas@
+@dairyman of the king's@|@DWARENÎKS, dwarniken@
+@dam@|@Takes, TAKISS@
+@dam up@|@Tuwangste, TWÊNKTWEÎ@
+@damage@|@PAGADÎNT, pogadint@
+@damned@|@PÊRKLÂNTÊTS, perklantîts@
+@damp@|@Welgen, WILGS@
+@dark@|@TIMÂRS@
+@darkness@|@TIMRAN, tymmer@
+@daughter@|@Duckti, DUKTÊ@
+@daughter-in-law@|@Mârtin, MÂRTJAN@
+@daw@|@DÂKÊ, Doacke@
+@day@|@deinan, DÊINAN@
+@day-labourers@|@Deinâalgenikamans, DÊINÂALGENÎKAMANS@
+@days@|@DÂIS@
+@dean@|@Paps@
+@dear@|@têmpran@
+@death@|@GÂLS@
+@debtors@|@ÂUŠAÛTENÎKAMANS, auschautenîkamans@
+@debts@|@ÂUŠAÛTINS, âuschautins@
+@deceive@|@PÂIKAMAÎ, paikemmai@
+@deceives@|@PAPÂIKÂ, popaikâ@
+@decency@|@KÂNKSTIN, Kânxtin@
+@decently@|@KÂNKSTÂI, kânxtai, PRÊISTALÊWÎNGI, preistallîwingi@
+@deceptive@|@REDAN, reddau, reddisku, REDISKAÎ@
+@deceptively@|@REDAWÎNGI, reddewingi, reddi, REDI@
+@decision@|@PRÂTAN, prâtin@
+@decorous@|@KÂNKSTÂ, kanxta@
+@decree@|@ÊNSADÎNSNAN@
+@deep@|@GILJAN@
+@deer@|@Ragingis, RAGÎNGIS@
+@defame@|@EBMÊNTIJMAÎ, ep mêntimai@
+@defence fencing@|@PIRÂ, Prio@
+@defend@|@GÎNTWEÎ@
+@degree@|@MATS, mattei@
+@dejection@|@perdwibugûsnan, PÊRDWIGUBÂSNAN@
+@deliver@|@PRÊISTATINIMAÎ, preistattinnimai@
+@delivers up@|@ÊNDÂST@
+@demonstrates@|@waidinna@
+@dense smoke@|@KÔDS@
+@descendant@|@PANZDAUNÎK@
+@deserve@|@PÊRÐLÛZIJMAÎ, perschlûsimai@
+@desire@|@PAKWÂITÊSNAN, poquoitîsnau@
+@desires@|@ÊNLÂIPINÂ@
+@despond@|@ÂUMINÊTWEÎ@
+@despondent@|@ÂUMINÊWUNS, auminius@
+@devil@|@KAÛKS, KUKS, Pickûls, PIKULAS, PIKÛLS@
+@devoutness@|@SEÎLISKÂ, Seilisku@
+@die@|@aulâut, ÂULAÛT@
+@different@|@KITAWÎDS, kittawidin@
+@differently@|@KITAWÎDISKÂI, kittewidiskai@
+@diligence@|@SEÎLEN, seilin@
+@diligent@|@niseilewingis, seilewingis, SEÎLEWÎNGIS@
+@dill@|@KAMATÂ, Kamato@
+@dipper@|@Birgakarkis, BÎRGAKÂRTIS@
+@direct@|@wartint@
+@dirt floor@|@TÂLS, TALUS@
+@discipline@|@KÂNKSTÎNSNÂ, KÂNKSTÎNTWEÎ, kanxtinsna@
+@discipline (1)@|@KÂNKSTISKÂ, Kanxtisku@
+@disgrace@|@NÊETNÎSTIS, nieteîstis@
+@dish@|@WÂGÂNS, Wogonis@
+@disobedient@|@NÊPAKLUSMÎNGIS, nipoklusmings@
+@ditch@|@RAWAS, Rawys@
+@diver@|@GEGÂLS@
+@diver bird@|@KÊRKÂ, Kerko@
+@diversely@|@WISAWÎDÂI, WISAWÎDI, wissaweidin, wissawidei@
+@divertibly@|@ÊNWÊRTINEWÎNGI@
+@divide@|@DELIJAÎS, DELÎTWEÎ, dellieis, dellieis@
+@divinely@|@Deiwiskai, DÊIWISKÂI@
+@do@|@SEGÊT, seggît@
+@Do you speak English?@|@Biläi tü ëngliskan?@
+@doe@|@GLUMBÊ@
+@dog@|@PISS, Pistwis, Sunis@
+@dogwood@|@Sidis, SÎNDS@
+@door(s)@|@WARTÂ, Warto@
+@doorstep@|@PAKÛRTÂ, Pocorto@
+@double@|@dwigubbus, DWIGUBS@
+@double-edged axe@|@KÊRSLÊ@
+@doubt@|@dwibugût, DWIGUBÂT@
+@dough@|@Singslo, ZÎNGSLÂ@
+@dove@|@PÂLÎS, Poalis@
+@drag@|@entênsîts, TÊNSÎTWEÎ, tiênstwei@
+@draught horse@|@ARWÂIKS, Arwaykis@
+@draw in@|@ÊNTÊNSÎTWEÎ@
+@draws@|@KNÊIPJÂ@
+@drew on shut@|@PÊRTRAÛKÊ, pertraûki@
+@drink@|@PÔTWEÎ, poutwei@
+@drink (beverage)@|@poûis, PÔWÎS@
+@drive@|@guntwei, GÛNTWEÎ@
+@driving belt@|@Aclocordo, AKLAKÂRDÂ@
+@drizzle@|@Mercline, MÎRKLÎNÊ@
+@drowned@|@auskandinnons, auskandints, ÂUSKANDÎNTS, ÂUSKANDINUNS@
+@drowning@|@auskandinsnan, ÂUSKANDÎNSNAN@
+@drunkard@|@rundijls, RÛNDILAS, RÛNDÎLS@
+@dry@|@sausâ, sausai, SÂUSÂI, SÂUSAN@
+@duck@|@Antis@
+@dung@|@GÂZÊS@
+@duty (customs)@|@TULAS, TÛLS@
+@dwell@|@BUWINAÎTÊ, buwinanti@
+@dye@|@WÂPS, Woapis@
+@dying@|@ÂULAÛSENJAN, aulausennien@
+@each of both@|@abajan abbaien@
+@eagle@|@Arelie, ARELÎS@
+@eagle-owl@|@Iwogarge, ÎWS@
+@ear@|@WÂLTÎ, Wolti@
+@early@|@ÂNKSTÂI@
+@ears@|@ÂUSINS, âusins@
+@earth@|@semmê, ZEMÊ, zemë@
+@earth-swallow@|@KRÎKSTÊNÂ, Krixtieno@
+@earthworm@|@SLAÎKS, Slayx@
+@ear-wax@|@Dmskins, TRUSTINS@
+@eat@|@ÊSTWEÎ@
+@edge of an acre@|@AZÎ@
+@eel@|@Angurgis, ANGURÎS@
+@egg@|@paute, PÂUTS@
+@eighth@|@ASMAS, ASMUS@
+@elbow@|@Alkunis, ÂLKÛNS@
+@elk@|@BRAÎDÎS, braydis@
+@elm@|@Skerptus, SKÎRPTUS, Wimino, WINKSNÂ@
+@embankment@|@SUPÎS, Suppis@
+@embodied@|@ÊNKÊRMENÎNTS@
+@embraces@|@EBIMÂ, ebimmai@
+@emperor@|@Keiserin, KÊIZERJAN@
+@encampment@|@Liscis, LISKAS@
+@enclosure@|@Korto, KÛRTÂ@
+@end@|@wangan@
+@enemy@|@PRÊISIKS, prêisiks@
+@enough@|@SÛIT@
+@entire@|@PASTIPAN, postippin@
+@entirely@|@PASTIPAN, postippan@
+@entrance@|@ÊNÊISENJAN@
+@ermine@|@GÂILUKS@
+@especially@|@schklâits, ŠKLÂITS@
+@essence@|@ASTIS@
+@eternal@|@PRÂBÛTISKAS@
+@eternity@|@PRÂBÛTISKAN, prâbutskan@
+@evangelists@|@EWÂNGELISTÂI@
+@even@|@ÎR@
+@evening@|@BÊTAS, bîtas@
+@every day@|@deineniskai, DÊININISKÂI@
+@everyday@|@deininan, DÊININAN@
+@everyone@|@ERAÎNS@
+@evil@|@wargan@
+@exalts@|@ÊRLÂNGJÂ@
+@examples@|@perwaidinsnans, PÊRWAÎDÎNSNANS@
+@excellent@|@RÎKIJISKÂ, Rikijiskai@
+@except@|@schlâits, ŠLÂITS@
+@exit@|@iseisennien, IZÊISENJAN@
+@expectation@|@NADRUWÊSNAN, nadruwîsnan@
+@expensively@|@têmprai@
+@extort@|@auschpândimai, ÂUŠPÂNDIMAÎ, ÊRKÎNÎNTWEÎ@
+@extort (1)@|@erkînina, KÎNÎNTWEÎ@
+@eyeball@|@WEÎDÛLS, Weydulis@
+@eyebrow@|@BRUWÎ, Wubri@
+@eyelash@|@BRUWÎ, Wubri@
+@eyes@|@Ackis, AKÎS@
+@face@|@prusnas@
+@faith@|@Droeffs, DRÛWIS@
+@falcon@|@FALKS@
+@fall@|@KRÛT, KRÛWÎS@
+@fallen deeply asleep@|@ÊNMIGUNS@
+@family together with servants@|@Seimîns@
+@farm@|@burwalkan, BÛRWALKAN@
+@farm-hand@|@WÂIKS, waix@
+@fast@|@Pastauton, PASTAÛTUN@
+@fasting@|@Pastenick, PASTENÎKS@
+@father@|@Taws@
+@father-in-law@|@Tisties, TISTÎS@
+@fatling hog@|@NÔMÂITS, Nomaytis@
+@favour@|@PADÎNGAN, podîngan@
+@fear@|@biâsnan, BIJÂSNAN@
+@feather@|@PLÂUGZDÂ, Plauxdine@
+@feather-bed@|@PLÂUGZDINÊ, Plauxdine@
+@feed@|@MÂITÂTUN, maitâtunsin, PAMÂITÂT, pomaitat@
+@feeding@|@maitâsnan, MÂITÂSNAN@
+@fell asleep@|@ismigê, IZMIGÊI@
+@felt@|@TÛBÂ, Tubo@
+@female@|@GENENISKAN@
+@fence-pole@|@KWÊKÊ, Queke@
+@ferment@|@RAÛGAS, Raugus, RAÛGUS@
+@fern@|@Paparthen, PAPARTÎS@
+@fetter@|@PANTÂ, Panto@
+@fever@|@ÊNÂISS@
+@fewer@|@massais, MAZÂIS@
+@field@|@laucks, LAÛKS@
+@fifth@|@PÊNKTS, Piêncts@
+@fight@|@ûlint, WÂLINT@
+@fill@|@ÊRPILNINAÎTÊ@
+@filtering pot@|@Siduko, ZIDUKÂ@
+@finally@|@ÊNWANGISKAN@
+@finch@|@Swibe, ZWILÊ@
+@finds@|@ÂUPALÂ, aupallai@
+@finger@|@PÎRSTAN, Pirsten@
+@finger-nail@|@Nagutis@
+@finger-rings@|@prêipîrstans, PRÊIPÎRSTANS@
+@finish@|@wangint@
+@fire@|@Panno, PANU@
+@firewood@|@MALKÂ, Malko@
+@firm@|@drûktai, DRÛKTS@
+@firmly@|@drûktai, DRÛKTÂI@
+@first@|@Pirmas@
+@fir-tree@|@ADLÊ@
+@fish@|@Suckis, ZUKS@
+@fishing rod@|@dalkis, DALKÎS@
+@fist@|@KUNTIS@
+@five@|@PÊNKJÂI, Piêncts@
+@flag@|@cinyangus, KARJANGUS@
+@flake-ashes@|@PLÊNIS, Plieynis@
+@flame@|@LÂPS, Lopis@
+@flank@|@Claywio, KLÊIWIJÂ@
+@flat-bottomed barge@|@WÎTINÊ, Witinne@
+@flax@|@LINAN, lino@
+@flea@|@BLUSÂ, Bluskaym@
+@flesh@|@MÊNSÂ@
+@flint@|@Nagis, NAGS@
+@flitch@|@Saltan@
+@floor boards of a bridge@|@GRÎNDÂS, Grindos@
+@flounders@|@SKRÂISLÊS, Stroysles@
+@flour meal@|@Meltan, MILTAN@
+@flow@|@Takes, TEKTWEÎ@
+@flow run@|@LÎTWEÎ@
+@fly@|@MÛSÂ, muso, PISEWÎS, Pistwis, SKREÎTWEÎ, Skrelle@
+@foal@|@Maldian, MÂLDJAN@
+@foam@|@SPÂINÂ, Spoayno@
+@fodder@|@PÊRDAN, pêrdin@
+@folded@|@SÊNDÊTANS, SÊNDÊTIMAÎ, senditans, senditmai@
+@follow@|@RÊPJAÎTÊ, rîpaiti@
+@food@|@ÊDÂ, ÊSTÂ@
+@foot@|@PÊDÂ, Pedan@
+@for@|@per@
+@for ever@|@PRÂBÛTISKÂI, prâbutskai@
+@for whisking out@|@Smicuto, SMIT@
+@forbad@|@driâudai, DRJÂUDÊI@
+@forbid@|@driâudai, DRJÂUDÊTWEÎ@
+@ford@|@Balkombrastum, BRASTAN@
+@forearm@|@ÂLTIS@
+@forehead@|@Cacto, KAKTÂ@
+@forest@|@Grauden, GRAÛDENES, MEDJAN@
+@forge (smithy)@|@Antre, ÂUTRÊ@
+@forging furnace@|@Kamenis, KAMINAS, KAMÎNS@
+@forgive@|@ETWÊRPT, ETWINÛT@
+@forgiven@|@ETWÊRPTAN@
+@forgiveness@|@ETWÊRPSENJAN@
+@forgiving@|@ETWÊRPSNÂ@
+@form@|@Teîks@
+@found@|@aupallusis, ÂUPALUSÎS@
+@four@|@Kettwirts, KETURJÂI@
+@fourth@|@Kettwirts, KETWÎRTS@
+@fox@|@LAPÊ@
+@free@|@PAWÎRPÎNGIN, PAWÎRPS, powîrpingin, powîrps@
+@frequent@|@DEZNIMAS, DEZNÎMS, kodesnimma@
+@freshly mown grass@|@ŠÂKS, Schokis@
+@Friday@|@Pentinx, PÊNTNÎKS@
+@friend@|@GINÊ, GINÎS, GINÎTÎ@
+@friendly@|@GINEWÎNGIS, GINEWÎNGISKAN@
+@friends@|@GINÊS@
+@friendship@|@GINISKAN@
+@frighten@|@BÂIJINTWEÎ@
+@frog@|@KRUPEÎLÊ, Trupeyle@
+@from@|@EZE, is, IZ@
+@from outside@|@iswinadu, IZWINANDAU@
+@from there@|@isstwendan, ISTWENDAU@
+@frost@|@PASALAS, PASÂLS, Passalis@
+@fruit@|@Wêisin@
+@fruitfully@|@weijsewingi, WÊISEWÎNGI@
+@full@|@pilnan, PILNAN@
+@full of grace@|@ETNÎSTISLÂIMS@
+@full up@|@sâtuinei, SÂTUS@
+@funeral repast@|@SÂRMENES, Zarm@
+@fur coat@|@KIZÊS, Lactye, LAKTIS@
+@furrow@|@RÊDÂ, Redo@
+@further@|@tâlis@
+@future@|@pareiîngiskai, PAREJÎNGIS@
+@gall@|@GALU@
+@garden-bed@|@LÎSÂ, Lyso@
+@garner@|@KLÊTIS@
+@gate@|@Dauris, DWARÎS@
+@gathers@|@senrînka, SÊNRÎNKÂ@
+@generality@|@ÊMPÊRINISKÂ, empijreisku@
+@generation@|@streipstan@
+@gentle@|@PRÊILÂNGUS, preitlângus@
+@German@|@MIKSISKÂI, Mixkai@
+@get hot@|@ÊNÂISTWEÎ@
+@get smth. awaited@|@sengidaut@
+@get to know@|@ÊRZINÂT@
+@gets smb. by calling@|@preiwackê, PRÊIWAKÊI@
+@gets smth. awaited@|@SÊNGÎDIJ, sengijdi@
+@ghost@|@Naseilis, NÂSEÎLJAS, Noseilis@
+@gift@|@Dâiai, DÂJÂ@
+@girder binding the sledge@|@STIBINAS, Stibinis, STIBÎNS@
+@girdle@|@Saninsle, SÂWINZLÊ@
+@girl@|@MÊRGÂ, Mergo@
+@given away@|@PADÂTAN, podâton@
+@gives himself up@|@PADÂST, podâst@
+@gives pain@|@wargê, WÂRGÊI@
+@glade@|@LÊNDÎS, lindan, WANGAS, Wangus@
+@glass@|@GLASÂ, GLASÂ, glasso, Sticlo, STIKLÂ@
+@glitter@|@LÂUKSTÊTWEÎ@
+@glittering@|@LÂUKSTÊTS, Lochstete@
+@glorify@|@smunintwey, ZMÂNÎNTWEÎ@
+@glory@|@smûnin, ZMÂNJAN@
+@glue@|@MÂSLAN@
+@gnat@|@KUSÎS@
+@gnaw@|@KRÂMSTWEÎ, KRÊMSTWEÎ@
+@goat@|@ÂZÊ, ÂZUKS@
+@goatling@|@ÂZISTJAN@
+@goblet@|@KÊLKÎS, KÊLKS, KJÂSÎ@
+@God@|@Deiwas, DÊIWAS@
+@godfather@|@KAMATERS, KAMATRAS, Komaters@
+@goes@|@ÊIT@
+@gold@|@Ausis, AÛSS@
+@goldfinch@|@Singuris, ZINGURÎS@
+@good@|@LABS@
+@Good morning@|@Kaïls Anksteïnai@
+@Good-bye@|@ërdiw@
+@goose@|@Sansy, ZÂNSÎ@
+@Gospel@|@EWÂNGELIJAN@
+@government@|@aucktimmisikai, aucktimmiskû, AÛKTIMISKÂ, aûktimiskâi, AÛKTIMISKÂI, rickaûsnan, RÎKAÛSNAN@
+@grab (catcher)@|@Pagaptis@
+@grace@|@ETNÎSTIS@
+@gracious@|@ETNÎWÎNGIS@
+@graciously@|@ETNÎWÎNGISKÂI@
+@granary@|@KLÊNAN@
+@grandfather@|@TÊTÎS, Thetis@
+@grandmother@|@Ane, ANÊ@
+@grandson@|@NEPÔTIS, nepuotis@
+@grape@|@WÎNJAGÂ, WINJAGAWAS, WÎNJAGAWUS, Woragowus@
+@grass@|@Soalis, ZÂLÎS@
+@grass-snake@|@ANGZDRÎS@
+@grave@|@KAPS@
+@gravel@|@ZWÎRKSTAN@
+@grease@|@INSTRAN, mynsis, SMARSAS, tankis, TAÛKS@
+@Great Master@|@Mistran@
+@green@|@saligan, ZALJAN@
+@green woodpecker@|@Melato, MELETÂ@
+@grey@|@SÎWAN, Sywan@
+@greyhound@|@KURTS@
+@griddle@|@PANEWKÂ, Pantwcko@
+@griffon@|@Aukis, AÛKS@
+@grind@|@Tackelis, TAKÎTWEÎ@
+@grindstone@|@Tackelis, TAKELÎS@
+@ground@|@gruntan, GRUNTAN@
+@grow deaf@|@KÛRSTWEÎ, kurteiti@
+@guardian@|@Rapa, RAPS@
+@guards@|@KÛNTJÂ@
+@gudgeon@|@GRUNDALAS, Grundalis, GRUNDÂLS@
+@guides@|@PÊRSTALÊI, perstallê@
+@gums@|@DANTIMAKS, Dantimax@
+@gut intestine@|@GRÂBS, Grobis@
+@gutter@|@Auwirpis, ÂUWIRPS@
+@hail@|@KÊITARÂ@
+@hair@|@Scebelis, SKEBELÎS@
+@half@|@Possissawaite, PUSIS@
+@hammer@|@KÛJS@
+@hamster@|@DUKÎS, Dutkis@
+@hand@|@ranco, RÂNKÂ@
+@handicraft@|@dîseitiskan, DÎZÎTISKAN@
+@handle@|@DÎGNÂ, Digno@
+@hang down@|@DRIBTWEÎ, Drimbis@
+@happen@|@ÂUDÂT SI@
+@hare@|@Sasnis@
+@harm damage@|@schkûdan, ŠKÂDAN@
+@harrow@|@Aketes, AKÊTÊS@
+@has blessed@|@EBZIGNÂI@
+@has created@|@KÛRÂ@
+@hates@|@dergê, DÊRGÊI@
+@haughty@|@LABATÎNGINS, labbatîngins@
+@have@|@TURÊTWEÎ, turrîtwei@
+@have mercy@|@ÊNGRAÛDÎS@
+@have thought@|@PAMÊRÎT, pomîrit@
+@hawk@|@GERTÂWANAGS@
+@hay@|@KRAÎSS@
+@hay oat@|@craysewesen, KRAÎSAWIZÊ@
+@hayloft@|@TWÂRIS@
+@hazel-bush@|@LAGZDÊ, Laxde@
+@hazel-hen@|@BRÛNETÂ, Bruneto@
+@he@|@tâns, täns, tenan, tenans, tenei, tenëimans, tenëisan, tenese, tenese, tenesmä, tenesmä@
+@head@|@GALWÂ@
+@head of shoe@|@GALWÂ@
+@head of the family@|@BUTANTÂWS, BUTASTÂWS, BUTATÂWAS, BUTITÂWS, Butta Tawas, Buttantâws, Buttastaws, Butti Tâws@
+@health@|@KAÎLÛSTISKAN, Kailûstiskun@
+@hear@|@KÎRDÊTWEÎ@
+@hearing out@|@PAKLÂUSÊSNAN, poklausijsnan@
+@heart@|@SÊR, SÊRAN, Seyr, sijran@
+@hearth@|@PELANÂ, Pelanno@
+@heat@|@GÂRMÊ@
+@heath@|@Palwe@
+@heathen priest@|@Criwe, KRIWÎS@
+@heaven@|@Dangus, DÂNGUS@
+@heavenly (celestial)@|@DÊNGININÎSIS, Dengnennissis@
+@heavy@|@brendekermnen, BRENDUS@
+@heel@|@Pentis@
+@hell@|@PIKULAS, PIKÛLS, Pyculs@
+@Hello@|@Kaïls@
+@Hello our friend!@|@Kails naussen gnigethe@
+@hello!@|@kails, KAÎLS@
+@helmet@|@Salmis, SALMS@
+@help@|@GALBIMAÎ, PAGALBAN, pogalban@
+@helper@|@PAGALBAN, pogalban@
+@hemp@|@Caneips, KANAPIS, KANAPJÂS, Knapios@
+@hemp-seed@|@KANAPSÊMEN@
+@hen@|@GERTÂ@
+@hence@|@TÊTET, titet@
+@henceforth@|@EZTEÎNÛ@
+@her@|@din@
+@here@|@ŠÂI, schai, STWI, stwi@
+@heron@|@GÊISÊ@
+@herring@|@SILIKÊ, Sylecke@
+@hidden@|@auklipts, ÂUKLIPTS@
+@high@|@Aucktimmien, AÛKTS@
+@hill@|@Caporne, KAPURNÂ@
+@him@|@din@
+@hinder@|@KÛMPÎNT@
+@hinders@|@ÂUDÊJÂNTS@
+@hip thigh@|@Slaunis@
+@hit (bang)@|@pertincktan, TRÎNKTWEÎ@
+@hoar-frost@|@GRÂISS, Grosis@
+@holiness@|@Swintiskan@
+@hollow@|@Dambo, DÂUBÂ@
+@hollow of a tree@|@DRAWÊ, Drawine@
+@hollow tub@|@Drawine, DRAWINÊ@
+@honesty@|@TEÎSÊWÎNGISKAN, teisîwingiskan@
+@honey@|@Meddo, MEDU@
+@honour@|@TEÎSÊ, teisi@
+@honourable@|@niteisîngiskan, niteisîwingins, TEÎSÊWÎNGINS, TEÎSÎNGISKAN, teisîwingins@
+@honourably@|@teisîngi@
+@hook@|@ÂNSIS@
+@hoop@|@DÂNGÂ, dongo@
+@hoopoe@|@PÂRPALAS, PÂRPÂLS@
+@horn@|@Ragis, RAGS@
+@hornbeam@|@SKÂBERWÎS, Stoberwis@
+@hornet@|@SIRSILAS, Sirsilis, SIRSÎLS@
+@hornless@|@GLUMBS, KAMAS, KÂMS@
+@horse@|@KAMNÎTÎS, kampnit, kampnit, RUSS, Russis@
+@horse halter@|@Auclo, ÂUKLÂ@
+@horseshoe@|@LATAKÂ, Lattako@
+@hospitable@|@RÊIDEWÂISINÊJS, Reidewaisines@
+@hot@|@GARAWÎNGI, GARAWS@
+@house@|@BUTAN, Buttan@
+@house-owners@|@BUTARÎKIJANS, Butta Rikians@
+@house-watchman@|@BUTASARGS, Butsargs@
+@how@|@kai, KÂIGI@
+@How much?@|@Kelli?@
+@how often@|@kodesnimma, KÔDEZNIMA@
+@hub@|@Nabis@
+@hub-shaft@|@NABETÂ, Nawetto@
+@human@|@smûnenisku, ZMÂNENISKAN@
+@human being@|@Smonenawîs, Smoy, smunents, ZMÂNENAWINS, ZMÂNÊNTS, ZMÔ@
+@humble@|@LÂUSTINAÎTÊ SI, LÂUSTÎNGINS@
+@humility@|@LÂUSTÎNGISKAN@
+@hunder@|@GRUMÊTWEÎ, Grumins@
+@hungry@|@Alkîns, ALKÎNS@
+@hunter@|@MEDÎS@
+@hunting@|@Medione, MEDJÂNÊ@
+@hymn@|@GRÊMIKAN, grîmikan@
+@I@|@as, mäise, men, menei@
+@ice@|@Ladis, LEDS@
+@if@|@IK@
+@improve@|@walnint@
+@in@|@ÊN@
+@in general@|@ÊMPÊRINISKÂI@
+@in heaven@|@dangonsuen, DÂNGUNSU@
+@in the evening@|@BÊTÂI, Bîtai@
+@in the morning@|@Angstainai, ÂNKSTÂINÂI@
+@in the same way@|@ainawîdai, AÎNAWÎDÂI, AÎNAWÎDAN, AÎNAWÎDI, AÎNAWÎDISKÂI, ainawidisku, ainawijdi, ainawydan@
+@in vain@|@ensus, UMZUS@
+@included@|@ÊNTÊNSÎTS@
+@increase@|@TÛLNINÂ, tûlninai@
+@indecent@|@NÊKÂNKSTS, nikanxts@
+@indeed@|@Perarwi, PÊRARWI, perarwiskai, PÊRARWISKÂI@
+@infidel@|@NÊDRUWÊJNTIN@
+@inflict a penalty@|@SÛNDÎTWEÎ, sûnndintwti@
+@inheritance@|@WELDÊSNAN, weldîsnan@
+@innocence@|@NÊWINÛTISKAN, niwinûtiskau@
+@innocent@|@NÊWINÛTAN, niwinûton@
+@instrument@|@DÊLAPAGAPTIN, dijlapagaptin, PAGAPTIS@
+@intellection@|@isspresnan, IZPRESNAN@
+@intercession@|@Pra madlin, PRAMADLAN@
+@intestines@|@TÛLAWÂRTÊS, Tusawortes@
+@invokes@|@ÊNWAKÊI@
+@iron@|@GELZÂ@
+@irreligious@|@NÊDRÛWÎNGJÂI, nidruwîngi@
+@irritate@|@ÊRNÊRTÎMAÎ@
+@is liked@|@PADÎNGÂ, podingai@
+@it@|@DÎ, tenan, tenan, tenese, tenesmä@
+@jackdaw@|@KÂTÊ@
+@jacket@|@Wilnis@
+@jar@|@ZWÎRKSTÎS@
+@jay@|@Bucawarne, BUKAWARNÊ@
+@Jesus@|@Isus, JÊZUS@
+@jointly@|@sendraugiwêldnikai@
+@joist@|@SANDÂ, Sando@
+@Jordan@|@JURDÂNAN@
+@joviality@|@WESELISKAN, wesliskan@
+@joy@|@tuldîsnan@
+@judge@|@LÎGÎNTWEÎ@
+@jug pitcher@|@Kragis, KRAGS@
+@jump@|@SÂKTWEÎ, Soakis@
+@juniper@|@Kadegis, KADEGS@
+@junk (stump)@|@Trupis, TRUPS@
+@keep from@|@ETLÂIKÂ@
+@keep silence@|@TUSÊSEÎ, tussîse@
+@kettle@|@KATILAS, KATÎLS@
+@kid@|@malnijkiks, MÂLNÎKIKS@
+@kidney@|@INKSTÊ, Inxcze@
+@kind@|@labbîngs, LABÎNGIS@
+@kindling-wood@|@PRÂGLÎS, Proglis@
+@kindness@|@LABAN, Labas, labban, labbisku, LABISKÂ@
+@king@|@KUNEGS@
+@kiss@|@PAMÎLÊIS, pomeleis@
+@kitchen@|@KUKÂRÊ, Kukore@
+@knead@|@GNÂSTWEÎ@
+@kneading-trough@|@GNÂTÊ, Gnode@
+@knee@|@KLUPSTIS@
+@kneeling@|@PAKWÊLPTAN, poquelbton@
+@knife@|@peile, PÊILÎS@
+@knight@|@Waldwico, WÂLDWIKÂ@
+@knocks at@|@KLUMSTINÂ, klumstinai@
+@know@|@waist@
+@knowledge@|@waisnan@
+@knuckle of finger@|@Krumstus, KRÛMSTUS@
+@labour@|@DÊLAS, dîlas@
+@labourer@|@DÊLÂNTS, dîlants@
+@lady@|@Supûni, ZUPÛNÎ@
+@laid@|@lasinna, LAZINÂ@
+@lake@|@Assaran, AZARAN@
+@lamb@|@ÊRISTJAN@
+@lance@|@Kelian, KELJAN@
+@landowner@|@Laukinikis, LAÛKINÎKS@
+@landrail@|@DRÂNZÊ, Droanse@
+@large@|@debîkan@
+@larger@|@Debîks, MÂISESAN, muisieson@
+@last@|@pansdaumannien, PANZDAUMANJAN@
+@lasts@|@wêraui@
+@lead@|@westwei@
+@lead plumbum@|@ALWAS, Alwis@
+@lead smb. here and there@|@perweddâ, WADÂTWEÎ@
+@leadership@|@PÊRSTALÊSNÂS, perstallîsnas@
+@leaf@|@LAPAN@
+@leather@|@NÂGNAN, Nognan@
+@leather apron@|@Kymis, TÎMS@
+@leather of a shoe@|@Keuto, KJAÛTÂ@
+@leather strap of a top-boot@|@Paccaris, PAKARAS, PAKÂRS@
+@leg@|@Nage@
+@leg (boot's top)@|@Aulinis, AÛLINÎS@
+@legacy@|@PALAÎDÂ, polayde@
+@lentil@|@LÎKUTKEKERAS, LÎKUTKEKÊRS, Lituckekers@
+@let@|@Dâtwei, DÂTWEÎ@
+@let have@|@KAKÎNT@
+@let him drown@|@ÂUSKÊNDLAÎ, auskiêndlai@
+@Leucaspius delineatus@|@BLÎNGÂ, blingo@
+@levy of money@|@perlencke, PÊRLÊNKÎS@
+@liberate@|@ÊRKÎNÎNTWEÎ@
+@liberates@|@ÊRKÎNINÂ@
+@lid of a cask@|@APSTÂKTAN@
+@lid of a pot@|@APSTÂKLÊ@
+@lie@|@MÊNTIJMAÎ, mêntimai@
+@life@|@gijwan, GÎWAN, GÎWATÂ, GÎWÊ@
+@light@|@swâigstan, SWÂIKSTAN@
+@light (not heavy)@|@Lângiseiliskan, LÂNGUS@
+@lightning@|@Mealde, MÊLDÊ@
+@lights up@|@ÊRSWÂIKSTINÂ@
+@like@|@PALÎGU, polîgu@
+@liking@|@PADÎNGAÛSNAN, podingausnan@
+@linden@|@LÎPÂ, Lipe@
+@lip@|@Wârsas, Warsus@
+@listen@|@KLÂUSÊTUN, klausiton@
+@listenable@|@PAKLÂUSÎMINÂS, poklausîmanas@
+@Lithuanian@|@Leitike, LEÎTIKS@
+@little@|@Likuts@
+@little dog@|@SKANUS, Stanulonx@
+@little fire@|@PANIKAN, Pannike@
+@live@|@gijwans, GÎWANS, GÎWÎT@
+@live coals@|@Sari, ZARÎ@
+@live in poverty@|@wargs, WÂRGTWEÎ@
+@liver@|@JAKNÂ@
+@living@|@GÎWÂNTJÂI@
+@lizard@|@ÊSTURÊITÂ@
+@loach@|@Smerlingis@
+@loft@|@Riclis, RÎKLÎS@
+@log-bed under the anvil@|@curpis, KURPÎS@
+@loins@|@STRANÂI, Straunay@
+@lonely@|@ainaseilingi, AÎNASEÎLÎNGI@
+@long@|@Ilgenpelke, ILGIMAS, ILGÎMS, ILGS@
+@long (time)@|@ILGI, ILGIMI, stuilgimi@
+@long time@|@ilga, ILGÂI, ILGIMÂI, kuilgimai@
+@look@|@dereis, DÎRÊJIS, PAPEKÂT, popekût@
+@look for@|@LAÛKÎT@
+@lord@|@Rikis@
+@loud@|@KÂLSÊWÎNGISKAN, kalsîwingiskan@
+@loudly@|@KÂLSÊWÎNGISKÂI, kaltzîwingiskai@
+@love@|@mijlan, Mijlis, MÎLAN, MÎLEN, MÎLÊT, milijt, MÎLÎS@
+@lovely@|@mijls, MÎLS@
+@lungs@|@Plauti@
+@lye@|@SIRMAS, Sirmes, SIRMUS@
+@lynx@|@LUISIS, Luselauke, LÛSIS, Luysis@
+@magpie@|@Sarke@
+@maid@|@MÊRGÂ, Mergu@
+@maidservant@|@merguß, MÊRGUZÊ@
+@mail@|@BRUNJÂS, Brunyos@
+@main point@|@GALWÂSDELÎKS@
+@maintain@|@Islâika, IZLÂIKÂ, PALÂIKÂT, polaikût@
+@majesty@|@RÎKÎJIWISKAN, Rikijwiskan@
+@make (cause)@|@DÊLÎNTWEÎ, Dîlinai@
+@make smb. blissful@|@EBDÊIWÂTÎNT, epdeiwûtint@
+@makes (causes)@|@DÊLINÂ, Dîlinai@
+@male@|@wijrikan, WÎRIKAN@
+@maliciously@|@WÂRGÂI, wargu@
+@malt@|@Piwamaltan, PÎWAMÂLTAN@
+@malt draff@|@PÎWENÎKS, Piwenitis@
+@man@|@smunentinan, wijrs, WÎRS, ZMÂNÊNTINAN@
+@mangle@|@NÔPLÂSS, Noploz@
+@maple@|@SKUTÎS, Stuckis@
+@Marcus@|@MÂRKS, Marx@
+@mare@|@KAÎWÊ, Kaywe@
+@Mare milk@|@ASWINAN@
+@Maria@|@Marîan, MARÎJAN@
+@marrow@|@STRIGENÂ, Strigeno@
+@marsh@|@PELKÎ, Pelky@
+@marsh tea@|@WISENÊ, Wissene@
+@marten@|@KÂUNÊ@
+@master of the house@|@LÛDIS@
+@matrimony@|@PATINISKAN, pattiniskun, Salaûbai, sallaûbiskan, SALÛBÂ, Salûban, SALÛBISKAN@
+@mattress@|@PABÂLZÂ, Pobalso@
+@meadows@|@WAJÂS, Wayos@
+@meal@|@ÊDÎS@
+@mean@|@BILÊTWEÎ, billê@
+@meandrous@|@WANGÂRS, Wangrapia, WANGRAS@
+@meanwhile@|@Stankîsman@
+@meat@|@MÊNSÂ, Menso@
+@meek@|@Râms@
+@meeting@|@WÂITJAN, wayden@
+@menaces@|@trinie, TRINJÂ@
+@meninx@|@PLÊNIS, Pleynis@
+@mention@|@menentwey, MINÎTWEÎ@
+@mentioning@|@minisnan, MINÎSNAN@
+@merciful@|@ÊNGRAÛDÎWÎNGIS@
+@mercy@|@ENGRAUDÎSNAS@
+@merit@|@PÊRÐLÛZÎSNAN, perschlûsisnan@
+@merrily@|@WESELÎNGI, wesselingi@
+@merry@|@WESELAS, WESÊLS@
+@mezereon@|@SKANULUNKS, Stanulonx@
+@mighty@|@warewingin@
+@mildew@|@Mercline, MÎRKLÎNÊ@
+@military campaign@|@KARJAGÂ, Karyago@
+@military conference@|@KARJAWÂITÎS@
+@milk@|@Dadan@
+@milk fresh@|@Poadamynan, PÔTAMINAN@
+@mill@|@Malunis, MALÛNS@
+@millet@|@PRASAN, Prassan@
+@millstone@|@MALÛNASTABS Malunastâ@
+@millstone handle@|@Mandiwelis@
+@mill-wheel@|@Malûakela, MALÛNAKELAN@
+@mine@|@MÂIS, MÂISE@
+@miserable@|@PAWÂRGEWÎNGISKAN, powargewingiskan@
+@miserly@|@ÂNGUS@
+@misleads@|@PÊRWEDÂI, perweddâ@
+@mist@|@KUPSÎNS@
+@mistletoe@|@EMÊLNÂ@
+@mistress@|@waispattin@
+@mistress of the house@|@LÛDINÎ@
+@mixed@|@MÂISÂTAN, Maysotan@
+@mock@|@bebbint, BEBÎNT@
+@moderate@|@ÂULÂIKÎNGIS, Aulâikings@
+@mole-cricket@|@PÂRÎS, Poaris@
+@moment@|@stûndicks, STÛNDIKÂ@
+@Monday@|@PANADÊLÊ, Ponadele@
+@money@|@pênega, PENÎNGÂ, PENÎNGANS, penningans@
+@monk@|@MINKUS, mynkus@
+@moon@|@Menig, MÊNIKS@
+@more@|@toûls, TÛLS@
+@more kindly@|@MÎLIS@
+@morning star@|@DÊINÂINÂ, Deynayno@
+@morocco@|@Kymis, TÎMS@
+@most@|@ucka, UKA@
+@mother@|@MÂTÊ, Mothe@
+@mouldboard@|@Glenptene, GLJÂUPTINÊ@
+@mountain@|@GÂRBS@
+@mouse@|@PELÊ, Pelemaygis@
+@moustache@|@WÂNSÂ, Wanso@
+@mouth@|@ÂUSTÂ, Austo@
+@move by touching@|@ÊNKÂUSÎNT@
+@mow@|@skuna, SKÛNÊ@
+@much@|@tûlan@
+@mule@|@Weloblundis, WELUBLÛNDS@
+@murder@|@GALÎNTWEÎ@
+@muscles of the upper arm@|@Peles@
+@mustard@|@GÂRKÎTÎ@
+@name@|@EMENS@
+@nape of the neck@|@Passoles, PAZULIS@
+@nature@|@PÊRGIMÊS, pêrgimnis, PRÊIGIMÊS, prêigimnis@
+@navel@|@NABÎS@
+@necessaries@|@PRAWERÊSNAN, PRAWERÎNGISKAN, prewerîngiskan, prewerîsnan@
+@neck@|@winsus, WINZUS@
+@neck artery@|@Stroio, STRUJÂ@
+@needle@|@AÎKULÂ, Ayculo@
+@neighbour@|@kaimînan, KÂIMÎNAN@
+@neither@|@neggi, NEGI@
+@nephew@|@SÛNAWÎS, Sunaybis@
+@net (meshes)@|@Sasintinklo, TÎNKLAN@
+@nettle@|@NÂTIS, Noatis@
+@never@|@NÊKWÊIGI, niqueigi@
+@new@|@nauns, NAWAN, nawans@
+@new-born@|@NÂUNAGÎMTAN, naunagimton@
+@newcomer@|@NÂUNÎNGIS, naunîngs@
+@night@|@nackt, NAKTIS@
+@nightingale@|@SALAWÎS, Salowis@
+@ninth@|@Newînts@
+@nipple@|@Spenis@
+@No@|@Ni@
+@no more@|@NÊJÂU@
+@nobility (aristocracy)@|@Aucktairikijskan, AÛKTÂIRÎKÎSKAN@
+@nobody@|@NÊAÎNUNTS, niainonts@
+@none@|@NÊAÎNS, niains@
+@noose@|@Sasintinklo, SASNITÎNKLÂ@
+@nose@|@NÂSÎ, Nozy@
+@nostril@|@NÂSIPRÂLÎ, Noseproly@
+@not@|@NÊ, Ni@
+@not speaking@|@ÂUBILÊJÎNTIS, niaubillîntis@
+@notice@|@ÊNDÎRÊTWEÎ@
+@nourishes@|@maitâ, MÂITÂI@
+@nourishment@|@LÂNDAN@
+@now@|@teinû, tênti@
+@nowhere@|@NÊKWÊI, niquei@
+@number@|@GÎRBJAN@
+@nurse@|@Dadan, DASTWEÎ@
+@nut@|@Buccareisis, REÎSS@
+@nut-cracker@|@Sarpis@
+@nymph@|@LAÛMÂ, Laumygarvis@
+@oak-tree@|@Ansonis, ANZÂNS@
+@oak-wood@|@Damerouwe, DAMRAWÂ@
+@oat@|@WIZÊ, Wyse@
+@obedient@|@PAKLUSMÂ, PAKLUSMÎNGINS, poklûsmai, Poklusmingins@
+@obediently@|@Paklusmâ, PAKLUSMÂI, PAKLUSMAN, PAKLUSMÎNGI, PAKLUSMÎNGISKAN, poklusmai, poklusman, poklusmingi, poklusmingiskan@
+@obligation@|@SKALÊSNAN, skallîsnan@
+@obtain@|@augaunimai, ÂUGAÛNIMAÎ@
+@obtained@|@augauuns, ÂUGAÛWUNS@
+@obtuse@|@KAMAS, KÂMS@
+@obvious@|@ackewijstin, AKIWÎSTIN@
+@obviously@|@ackijwistu, akiwijsti, AKIWÎSTÂI, AKIWÎSTI@
+@of a glade@|@LÊNDIMAS, LÊNDÎMS@
+@of him@|@Tâns, TENESAN@
+@off@|@preipaus, PRÊIPÂUS@
+@Oh my dear holy fire!@|@O hoho Moi mile swente Pannike, O mues miles schwante Panick, Ocho moy myle schwante panicke@
+@on@|@NA, NÔ@
+@once@|@ainawârst, AÎNAWÂRST@
+@one@|@AÎNS@
+@one who has assigned@|@ÊNSADINUNS@
+@one who has awaked@|@ETBÂUDINUNS@
+@one who has blessed@|@EBZIGNÂWUNS@
+@one who has borne@|@PÂDÂWUNS@
+@one who has called (smb.) here@|@PÊRWÂKAWUNS, perwûkauns@
+@one who has calumniated@|@nowaitiâuns, NÔWÂITJÂWUNS@
+@one who has cleaned@|@SKÎSTINUNS@
+@one who has connected@|@sendâuns, SÊNDÂWUNS@
+@one who has created@|@PATÊIKÂWUNS, poteikûuns@
+@one who has cursed@|@KLÂNTÊWUNS, klantîwuns@
+@one who has got@|@GAÛWUNS@
+@one who has led@|@prawedduns, PRAWEDUNS PRA@
+@one who has lingered@|@PÊRTENÊWUNS, pertennîuns@
+@one who has made@|@PATIKINUNS, potickinnuns@
+@one who has marked@|@ebsentliuns, EBZENTLÎWUNS@
+@one who has moved@|@PABÂNGINUNS, pobanginnons@
+@one who has murmured@|@MURAÛWUNS, murrawuns@
+@one who has obtained@|@PELDÊWUNS, peldîuns@
+@one who has promised@|@PATÂUKINUNS, potaukinnons@
+@one who has purified@|@Skijstinnons@
+@one who has sent here@|@pertengginnons, PÊRTÊNGINUNS@
+@one who has shown@|@ÊNWAÎDINUNS@
+@one who has sold@|@perdauns, PÊRDÂWUNS@
+@one who has suffered@|@Stenuns, STÊNUNS@
+@one who has sung@|@GRÊMUNS@
+@one who has written@|@PAPÊISÂWUNS, popeisauns@
+@one-horse sledge@|@WAZÎS, Wessis@
+@only@|@AÎNS, AÎNS, ter@
+@only begotten@|@AÎNANGAMÎNTAN, ainangeminton@
+@openest@|@ETWERJÂ@
+@open-handed@|@DEÎGISKAN, dêigiskan@
+@opening@|@PRÂLÎ@
+@order@|@ÊNTEÎKÂSNÂ, PALÂIPÎNSNAN, polaipînsnan@
+@order (regulate)@|@ÊNTEÎKÂTWEÎ@
+@ordered@|@LÂIPINÂ, laipinna@
+@oriole@|@Sealtmeno, ZÊLTMENÂ@
+@osier willow@|@APÊWÎTWÂ, Apewitwo@
+@otherwise@|@KITAWÎDÂI, KITAWÎDI, kittawidin, kittewidei@
+@otter@|@ÛDRÂ, Udro@
+@our@|@nousâ, NÛSÂ@
+@oven@|@Stabni, UMNAS, umpîs@
+@oven peel@|@Pectis, PETIS@
+@oven prongs@|@LÂNKTIS@
+@over@|@KÊRSAN, kêrschan, KÎRSA, KÎRSAN, kirschan@
+@overcoat@|@Pelkis@
+@overcome@|@EBWARÊTWEÎ, epwarîsnan@
+@owing@|@schkellânts, Skelânts, SKELÂNTS, ŠKELÂNTS, skellânts@
+@owl's tree@|@ÎWAGARJAN, Iwogarge@
+@own's own@|@swais, SWÂISE@
+@padlock@|@Somukis, ZÂMUKS@
+@paganism@|@PAGÂNIBÊ, Pagonbe@
+@pagans@|@PAGÂNANS, poganans@
+@pail@|@WÛMBARAS, Wumbaris, WÛMBÂRS@
+@pain@|@GULSENJAN, Gulsennien@
+@palate@|@Dangus, DÂNGUS@
+@pancake@|@KALSÂ, Kalso@
+@paper (letter)@|@PÊISÂLÊ, peisâlei@
+@parents@|@Uraisins, WÂRÂISINS@
+@part@|@DELÎKS, Dellijcks@
+@particular@|@schklâitewingiskan, schklâits, ŠKLÂITEWÎNGISKAN, ŠKLÂITS@
+@partridge@|@Laucagerto, LÂUKAGERTÂ@
+@pasture@|@PASTÎ, Posty, SPARJUS, Sparyus@
+@paternal@|@Tawiskan, TÂWISKAN@
+@path@|@Lonki, LUNKÎ@
+@Paul@|@PÂULÊ, Pauli@
+@paunch@|@Drastus, DRASTUS@
+@pay@|@plateis, PLATIJAÎS@
+@pea@|@Keckers, KEKERAS, KEKÊRS@
+@peace@|@packaien, Packan, PAKAJAN, PAKAN@
+@peaceful@|@packîwingiskan, PAKÎWÎNGISKAN@
+@peacefully@|@packawingi, PAKAWÎNGI@
+@pears@|@KRÂUŠÂS@
+@pear-tree@|@KRÂUSÎ@
+@peasant@|@KUMETÎS@
+@peculiarity@|@schlaîtiskai, ŠLÂITISKÂI@
+@peep@|@Picle, PÎKTWEÎ@
+@peewit@|@Peempe, PÊMPÊ@
+@pen enclosure@|@Sardis, ZÂRDÎS@
+@penalty@|@SÛNDAS, sûndis@
+@people@|@amsis, AMZIS@
+@perch@|@Assegis, AZEGÎS, KARTANÂ, Kartano@
+@period of time@|@KÊSMAS, KÊSMUS, kîsman@
+@Perkuno@|@Perkuno, PÊRKÛNS@
+@persistent@|@dîrstlan, DÎRZLAN@
+@person@|@Lûbeniks, LÛBENÎKS@
+@petty@|@Malkis, MALKS@
+@pickaxe@|@KÊRSLÊ@
+@picket stake@|@KALAS, KÂLS@
+@pig@|@PÂRSISTJAN, Prastian@
+@piggery@|@Seweynis, SUWEÎNS@
+@pike@|@LÎDÊ, Liede@
+@pike-perch@|@Starkis, STÂRKS@
+@pillow@|@Balsinis, BÂLZINÎS@
+@pine-tree@|@Peuse, PJÂUSÊ@
+@pizzle@|@Papinipis, PÎMPÂ@
+@place@|@deicktan, DEÎKTAN@
+@plait@|@KEKSTÎ@
+@plank@|@Grandico, GRÂNDIKÂ@
+@pleasantly@|@ÊNIMAMNI, ÊNIMEWÎNGI@
+@Pleiades@|@PÂITÂRAN, Paycoran@
+@pliers@|@Raples@
+@plot of land@|@GASTÂ@
+@plough@|@Plugis, PLÛGS@
+@ploughing horse@|@SWÊIKÎS, Sweykis@
+@plough-knife@|@Preartue, PRÊIARTUWÊ, wagnis@
+@ploughman@|@ARTÂJS, Artoys@
+@ploughshare@|@Pedan@
+@plough-tail@|@LÂIPTÂ, Laipto@
+@plover@|@SÊMENÂ, Semeno@
+@plums@|@SLÎWÂITÂS, Sliwaytos@
+@pointer dog@|@Slidenikis, SLÎDENÎKS@
+@poison@|@DÊRGTWEÎ, erdêrkts@
+@poisoned@|@ÊRDÊRGTS@
+@poke in@|@BASTWEÎ, boadis, embaddusisi@
+@poker@|@KRÛMPSTIS, Passortis, PAZÂRTIS, Trumpstis@
+@pole@|@Teausis, TÊNSÎS@
+@polecat@|@Naricie, NARIKÎS@
+@Ponarth@|@PANARTÎS, Ponarthen@
+@pond@|@Tuwangste, TWÂNKSTÂ, ÛRS, Wurs@
+@poor@|@GURÎNS@
+@poppy@|@MÂKÊ, Moke@
+@possible@|@MAZÎNGI, musîngin@
+@post pole of a hut@|@SULAS, Sulis, SÛLS@
+@pot@|@PÂDALÎS, Podalis@
+@Potollo@|@PATALAS, PATÂLS@
+@pouch@|@KULIKS, KULÎS@
+@pour out@|@GÂZTWEÎ@
+@poured out@|@PRALÊITAN, pralieiton@
+@power@|@WAREN, warrien@
+@praise@|@GIRSNAN, girsnan, PAGIREN, Pogirrien@
+@praising@|@girtwei, GIRTWEÎ, PAGIRSNAN, pogirsnan@
+@prayer@|@madlikan@
+@praying@|@madlisna@
+@preachers@|@Predickerins, PREDIKERJANS@
+@pregnant@|@brendekermnen, BRENDJAKÊRMENEN@
+@prepare@|@PAGATAWÎNT, pogattawint@
+@preserve@|@ÊRLÂIKÂT@
+@preserved@|@ÊRLÂIKÂT@
+@prickles@|@KÂULÊS@
+@principal@|@Aucktimmien, AÛKTIMJAN@
+@produce@|@tickint, TIKÎNT@
+@prominent@|@Aucktimmien, AÛKTIMAS, AÛKTÎMS@
+@promise@|@PATÂUKÎNSNÂS, potaukinsnas, PRÊBILÊSNÂ, preibillîsnâ, tankinne, TAÛKINÂ@
+@promises@|@PRÊIGÊRDAÛI, preigerdawi@
+@promote@|@BREWINIMAÎ, brewinnimai@
+@promoting@|@brewingi, BREWÎNGI@
+@prospectively@|@pareiîngiskai, PAREJÎNGISKÂI@
+@protect@|@pakûnst, SARGÂSEÎ, Warbo Say@
+@protection@|@absergîsnan, EBSÊRGÊSNAN@
+@provides@|@persurgaui, PÊRZÛRGAÛI@
+@Prussia@|@Prusa, PRÛSÂ, Prussenland@
+@Prussian@|@Prûsiskai, PRÛSISKÂI, Prûsiskan@
+@Prussian language@|@Prüsiskan@
+@puckering@|@senskrempûsnan, SÊNSKRÊMPÛSNAN@
+@punish@|@PABÂIJÎNT, pobaiint@
+@pupil of the eye@|@WEÎDÛLS, Weydulis@
+@pure@|@skijstan, SKÎSTAN@
+@purely@|@skijstan, skijstan, skîstai, SKÎSTAN, SKÎSTAN@
+@purity@|@skîstieskan, SKÎSTISKAN@
+@push away@|@KÛMPÎNT@
+@quag@|@BÂLTAN@
+@quail@|@PÊNPALÂ, Penpalo@
+@quern@|@GÎRNAWÎS, Girnoywis@
+@quern box@|@Carbio, KÂRBIJÂ@
+@quick@|@DÎWS, Dywans@
+@quick person@|@DÎWANAS, DÎWÂNS, Dywans@
+@quite@|@GÂNCÂI@
+@rafter@|@SPARAS, Sparis, SPÂRS@
+@rage@|@NÊRTJÂS, nierties@
+@rain@|@Suge, SÛJÊ@
+@rain in torrents@|@AGLÂ@
+@ram@|@dîseitiskan, DÎZTWEÎ@
+@ram (he-sheep)@|@AWINAS, Awins, AWÎNS@
+@rascal@|@MÂITARAS, MÂITÂRS, Maiters@
+@raven@|@Warnis@
+@ready@|@GATAWS@
+@real@|@isarwis, IZARWIS@
+@really@|@isarwi, isarwiskai, IZARWI, IZARWISKÂI@
+@realm@|@RÎKÊ, Rîki@
+@rebirth@|@ÂNTARSGÎMSENJAN, ântersgimsennien@
+@receive@|@ÊNÎMT, PAGAÛT, pogaût@
+@reckon with settle accounts@|@reckenausnan, REKENAÛTWEÎ@
+@recognize@|@PAZINÂT, posinnat@
+@recount@|@preigêrbt, PRÊIGÊRBT@
+@red@|@Warmes, WÂRMÎS, WÂRMJAN, wormyan@
+@reed@|@Drogis, DRUGÎS@
+@refuse@|@PÊRBILÊTUN, perbillîton@
+@regret@|@pawargan@
+@regulated@|@ÊNTEÎKÂTAN@
+@reigns@|@rickawie, RÎKAÛJÂ@
+@rein@|@NÔLINGÂ, Nolingo@
+@relative@|@GINTUS@
+@reliable@|@ÂUŠAÛDÊWÎNGIS, auschaudîwings@
+@remain@|@PALÂIKT, polâikt@
+@remains@|@PALÎNKÂ, polînka@
+@remembrance@|@PAMINÎSNAN, pominîsnan@
+@renewal@|@ÊRNÂUNÎNSNAN@
+@request@|@Maddla, MADLÂ@
+@rescued@|@isrankît, Izrânkîlaî, IZRÂNKÎT@
+@rescues@|@isrankinna, IZRÂNKINÂ@
+@rescuing@|@Isranckîsnan, IZRÂNKÎSNAN@
+@resin@|@Sackis, SAKS@
+@resistance@|@ÊMPRÎKISTALÊSNAN@
+@respect@|@teisint@
+@respectability@|@Teisiskan@
+@resti base of the foot's sole@|@PLASMENÂ, Plasmeno@
+@restrained@|@ÂULÂIKÎNGIS, Aulâikings@
+@resurrection@|@ETSKÎSNÂ@
+@revival@|@ETGÎMSENJAN@
+@revolve@|@Walis, Walis, WELTWEÎ, WILTWEÎ@
+@rib@|@Grabwe, GRAWÊ, KRÊIWAKAÛLJAN@
+@rich@|@laeims, LÂIMS@
+@right@|@tickrômai, TIKRÔMAÎ@
+@right side@|@tickrômien, TIKRÔMEN@
+@rightness@|@tickrômiskan@
+@rigid@|@Stûrintickrôms, STÛRNAS, stûrnawiskan, STÛRNAWS@
+@rigorous@|@Stûrintickrôms, STÛRNITIKRÔMS@
+@rim@|@Scritayle, SKRITAÎLÊ@
+@rind@|@SAKSTIS, Saxtis@
+@ring of a tree@|@Winis@
+@ring-tail@|@Pele@
+@river@|@Alna, ALNÂ, APÊ@
+@river-bed@|@WAGÂ, Waghine@
+@roach@|@brunse, BRÛNSÊ@
+@roasting-jack@|@AÎSMUS Aysmis@
+@rock@|@Passupres, Passupres, PASUPTWEÎ, SUPTWEÎ@
+@roe-deer@|@Sirwis@
+@roll of bread@|@TRÂSKEÎLÎS, troskeilis@
+@Romowe sanctuary@|@RÂMAWÂ, Romow@
+@roof@|@STÂGS, Steege, STEGTWEÎ, Stogis@
+@roof-ridge@|@PELEKS, Pellekis@
+@rook@|@Colwarnis, KÂLWÂRNÎS@
+@room@|@STUBÂ, Stubo@
+@root@|@Sagnis, SAKNIS@
+@rope@|@Wirbe, WÎRBÊ@
+@row (pull)@|@ERTWEÎ@
+@rowan-tree@|@Karige, KARÎGÊ@
+@ruined@|@ismaitint, IZMÂITÎNT@
+@run@|@BÊGAÎTÊ, begeyte@
+@Run; run; devils!@|@Beigeite beygeyte peckolle@
+@runner of a sleigh@|@SLAJAN, Slayan@
+@rush (reed)@|@Bleusky, BLJÂUSKÎ@
+@rye@|@Rugis@
+@sack@|@saika, ZAKS@
+@sacrament@|@Sacramênts, SAKRAMÊNTS@
+@sacred@|@SWENTAN, swente, swints@
+@sacredly@|@Swintai@
+@saddle@|@BÂLGNAN@
+@saddle-bow@|@BUGÂ, Bugo@
+@saddle-maker@|@BÂLGNINÎKS, Balgninix@
+@saddle-rug@|@Papinipis@
+@said desiring@|@PAKWÂITÊITS, poquoitêts@
+@said to be@|@ASTITS@
+@saints@|@Swintickens, SWINTIKANS@
+@salmon@|@Lalasso, LASASÂ@
+@salt@|@Sali, SÂLIS@
+@salutary@|@RETÎWENISKAN, RETÎWÎNGISKAN, Rettîweniskan, rettîwingiskan@
+@salvation@|@DÊIWÂTISKÂ, Deiwûtisku@
+@Samland@|@Samblandia, SEMBÂ@
+@sand@|@Sixdo, ZIGZDÂ@
+@sapling@|@AÛGÎS@
+@satiate@|@sâtuinei, SÂTWINEÎ@
+@Saturday@|@Sabatico, SABATIKÂ@
+@sausage@|@LÂITJAN@
+@Saviour@|@PAGALBENÎKS, pogalbenix, Retenîkan, RETENÎKAN@
+@saw@|@WÎDÂI, widdai@
+@say@|@bilîtwei@
+@saying expression@|@BILÊSNÂ, billîsna@
+@scabbard@|@SÂRKSTÊS, Sarxtes@
+@scale@|@MATÂI, mattei@
+@scatter@|@Suppis, SUPTWEÎ@
+@scissors@|@Scrundos, SKRUNDÂS@
+@scold@|@wertemmai, WÊRTJAMAÎ@
+@scone@|@PLÎNKSNÊ, Plinxne@
+@scorn@|@perweckammai, PÊRWEKAMAÎ@
+@scythe@|@DÂLGIS, Doalgis@
+@sea@|@iûrin, JÛRJÂI, JÛRJAN@
+@seam@|@Widus@
+@seats@|@SÂDINÂ, sadinna@
+@second@|@Antars, ÂNTARS, ÂNTRAS@
+@section@|@sklaitinsnan@
+@secular@|@SWÊTEWISKAN, Swîtewiskan@
+@securely@|@SÊN PAKAÎ, senpackai@
+@seed@|@Semen, SÊMEN@
+@seethe@|@Birgakarkis, BÎRGTWEÎ@
+@self@|@sebei, sen, sin, subs, swäise@
+@separate@|@sklaitint@
+@separated@|@isklaitints, IZSKLÂITÎNTS@
+@separately@|@schlâitiskai, ŠLÂITISKÂI@
+@seriously@|@STÛRNAWÎNGISKÂI, stûrnawingisku@
+@seriousness@|@stûrnawiskan@
+@sermon@|@preddikausnan, PREDIKAÛSNAN@
+@servant@|@schlûsnikan, ŠLÛZENÎKAN@
+@servant (maid)@|@schlûsnikai, schlûsnikin, ŠLÛZENÎKÂ, ŠLÛZENÎKEN@
+@serve@|@schlûsitwei, ŠLÛZÎTWEÎ@
+@service@|@schlusien, schlusisnas, ŠLÛZEN, ŠLÛZÎSNÂS@
+@serviceably@|@schlusingisku, ŠLÛZÎNGISKÂI@
+@set forth@|@PRÊILAIKÂT, preilaikût@
+@set with feet against@|@Spertlan, SPERTWEÎ@
+@settlement@|@WÂISIS, waispattin@
+@seventh@|@Septmas@
+@several@|@DELI, Delli@
+@shaft of a cart@|@SKAÎDÎ@
+@shaft of a wooden plough@|@Wadule, WADULÊ@
+@shame@|@GÊDAN@
+@shameless@|@NÊGÊDÎNGIS, nigîdings@
+@shawl@|@PASTÂ, Pasto@
+@shawl of married woman@|@abglâbtê abklopte@
+@she@|@tenä, tenan, tenans, tenäs, tenei, tenëimans, tenëisan, teneses@
+@sheat-fish@|@KALAS, Kalis, KÂLS@
+@sheath@|@MAKS@
+@shed@|@Ilmis, ÎLMS@
+@shed (mow)@|@Steege, STÊGÊ@
+@sheep@|@Camstian, KAMISTJAN@
+@sheet@|@PLÂSTÊ, Ploaste@
+@sheet-lightning@|@Mercline, MÎRKLÎNÊ@
+@shelf@|@Passupres, PASUPRÊS@
+@shield@|@SKAÎTAN, Staytan@
+@shin bone@|@Aulis, AÛLS@
+@shine@|@erschwâistiuns, SWÂIKSTÊTWEÎ@
+@shines@|@PASWÂIKSTINÂ, poswâigstinai@
+@shirt@|@Nurtue, NURTWÊ@
+@shiver@|@Spelanxtis, SPELAÛKSTIS@
+@shoe@|@kurp, KURPÊ, kurpi@
+@shoe-tree@|@KURPELÎS@
+@short@|@ÎNSAN@
+@shoulder@|@PETÊ, Pette@
+@shoulder artery@|@PETÊGÎSLÂ, Pettegislo@
+@shoulder-blade@|@PETIS, Pettis@
+@shoulder-joint@|@Caymoys, KAMÂISS@
+@shout@|@Aukis, Aukis, AÛKTWEÎ, KRÎKSTWEÎ, Krixtieno@
+@show@|@PAWAÎDÎNT, Powaidint@
+@shows@|@WAÎDINÂ@
+@shrewish@|@nirîgewings, RÊKEWÎNGIS, rîgewings@
+@shrike@|@Warnaycopo, WARNJAKAPÂ@
+@shrub@|@KÎRNÂ, Kirno@
+@shrubbery@|@Gudde, GUDÊ@
+@shrubby birch@|@Kerberse, KÊRBERZÊ@
+@sickle@|@Piuclan, PJÛKLAN@
+@side@|@Grauwus, GRAWAS, pausan@
+@side-board@|@GRAWINÊ, Grawyne@
+@sighing@|@nâdewisin, NÂDWISJAN@
+@silent@|@tusnan@
+@silk@|@SÎLKAS, Silkasdrûb'@
+@silver@|@SIRABLAS, Siraplis@
+@similar@|@PALÎGUN, polîgun@
+@similarly@|@ÊMPALÎGU@
+@sin@|@GRÊKAS, GRÊKIMAÎ, grîkas, grîkimai@
+@sing@|@GREMTWEÎ, grîmikan@
+@single born@|@ainangimmusin, AÎNANGIMUSIN@
+@sinner@|@GRÊKENÎKS, Grîkenix@
+@sins@|@GRÊKIJ, grîkisi@
+@siskin@|@CÎZIKS@
+@sister@|@SESTRÂ, Swestro@
+@sitting down@|@SÎNDÂNTS, Sindats@
+@situation@|@bousennis, BÛSENÎS@
+@sixth@|@USTS@
+@skin@|@KJAÛTÂ@
+@skin with hairs@|@SKÂRDÂ, Stordo@
+@skull@|@KÊRPETIS@
+@skylark@|@Werwirsis@
+@slag@|@Auwerus, ÂUWIRAS, ÂUWÎRS@
+@sleep@|@MÂIGAN, maiggun, meicte, MEÎGTWEÎ@
+@sleigh@|@SLAJÂ, Slayo@
+@slow-worm@|@GLÔSANÂ, Glosano@
+@smell@|@SMÂRDS, Smorde@
+@smell of@|@SMÎRDÊTWEÎ, Smorde@
+@smelt@|@Malkis@
+@smith@|@UTRÎS, Wutris@
+@smoke@|@Dumis, DÛMS@
+@smoking gap@|@ATKÔDÎS@
+@snake@|@Angis, ÂNGIS@
+@snipe@|@GÊSNÎS@
+@snort@|@SNÂKSTWEÎ, Snoxtis@
+@snot@|@SNÂKSTIS, Snoxtis@
+@snout@|@âustin, ÂUSTJAN@
+@snow@|@SNÂIGS, Snaygis@
+@socks@|@Peadey, PÊDJÂI@
+@soil@|@ÊRDÊRGTWEÎ@
+@soil (earth)@|@Samye, Zamê, ZAMEN@
+@sole of a shoe@|@Pamatis@
+@sole of the foot@|@Pamatis, PAMATS@
+@some@|@AÎNUNTS@
+@son@|@Soûns, SÛNUS@
+@son (a boy)@|@WÂIKLÎS, Wayklis@
+@song@|@GRÊMIKÂ, grîmikan@
+@soothe@|@Patols, TALÎTWEÎ@
+@soul@|@Dusi, DÛSÎ@
+@souls' guardians@|@Dûsaisurgawingi, DÛSAÎZÛRGAWÎNGINS@
+@sounds@|@KÂLSÂI, kaltzâ@
+@sour@|@Ructandadan, RÛGTS@
+@sour milk@|@Ructandadan, RÛGTAN DADAN@
+@sovereign@|@WÂLDNÎKÂ, Waldniku@
+@sow@|@Skewre, SKJÂURÊ@
+@spade@|@LÂPTÂ, Lopto@
+@spalten@|@Spelanxtis, SPELAÛTWEÎ@
+@spark@|@Soanxti, SPÂNKSTÎ@
+@sparrow@|@SPURGLAS, Spurglis@
+@sparrow-hawk@|@SPURGLAWANAGS@
+@speak@|@BILÊTWEÎ, billîtwei, GÊRBT, waitiât, WÂITJÂT@
+@spigot@|@WINIS@
+@spilled@|@PALÊITAN@
+@spin@|@Spanstan, SPENSTWEÎ@
+@spindle@|@Spanstan@
+@spindle-tree@|@ÂZIGRABS@
+@spiritual@|@Noseilewingiskan@
+@spit@|@WEMS, WEMTWEÎ, wimbmis@
+@spleen@|@Blusne, BLUZNÊ@
+@spoon@|@LAPINÎS@
+@spouse@|@Grandan, GRÂNDAN, Salaûbaigannan, Salaûbaigannan, sallûban, SALÛBÂGANAN, SALÛBÂGANAN, SALÛBAN@
+@spouses@|@Sallûbaiwîrins, Sallûbi gennâmans, SALÛBÂWÎRANS, SALÛBIGENÂMANS@
+@spring@|@APUS, WASARÂ@
+@spring of a lock@|@Sbeclis, ZABEKLÎS@
+@spring wheat@|@DAGAGÂIDÎS, Dagagaydis@
+@sprinkle@|@SPÊGTWEÎ, Spigsnâ@
+@squirrel@|@Weware, WÊWERÊ@
+@stab@|@BÂDÎS@
+@stable@|@Darge, DARGS@
+@stable box@|@LÎSÎTJÂS, Lisytyos@
+@staff@|@Criwe, KRIWÊ@
+@stallion@|@Sirgis, Sweriapis, SWERJAPS, ZIRGS@
+@stanchion of cart's@|@KELARÂNKÂ, Keleranco@
+@stand@|@STALÊT, stallit@
+@stand up@|@ETSKÎMAÎ@
+@standest up@|@ETSKÎSEÎ@
+@standing@|@STALÊSNAN, stallîsnan, stânintei, stâninti, STÂNÎNTJÂI@
+@stands@|@STALIJ, stalli@
+@stands up@|@ÊMPRÎKISTALÊI@
+@stars@|@LÂUKSNÂS, Lauxnos@
+@starve@|@ALKTWEÎ@
+@steal@|@Rânctwei, RÂNGTWEÎ@
+@steam@|@PÂRÊ, Pore@
+@steel@|@Panustaclan, PLÂINS, Playnis, STAKLAN@
+@steel fire-striker@|@Panustaclan, PANUSTAKLAN@
+@step@|@trapt, TREPT@
+@stepdaughter@|@PADUKRÊ, Poducre@
+@stepfather@|@PATÂWELÎS, Patowelis@
+@stepmother@|@PAMÂTRÊ, Pomatre@
+@steps over@|@ÊRTREPÂ@
+@stepson@|@Passons, PASÛNS@
+@stern@|@drûctawingiskan, DRÛKTAWÎNGISKAN@
+@stick@|@Kellaxde, LAGZDÊ@
+@stick fast@|@strigli, STRIGTWEÎ@
+@stick into@|@BASTWEÎ, boadis, embaddusisi@
+@stirrup@|@LÎNGÂ, Lingo@
+@stirrup-leather@|@Largasaytan, LÎNGASÂITAN@
+@stoke@|@Passortis, ZÂRTWEÎ@
+@stomach@|@WÊDERAS, Weders@
+@stone@|@Stabis, Stabs@
+@stool@|@Clumpis, KLÛMPIS@
+@storehouse@|@KARWAN@
+@stork@|@GÂNDÂRS@
+@straight@|@ÊNTIKRISKÂI@
+@straw@|@KRAÎSÎ, SALMÂ, Salme@
+@strength@|@spartin, SPARTISKÂ, spartisku@
+@strengthen@|@PASPARTÎNT, pospartint, spartint@
+@strike@|@Brokis, BRUKTWEÎ, DALBTWEÎ, Dalptan@
+@strike a blow@|@KÎRTAÎS, kyrteis@
+@striped@|@RÂIBAN, Roaban@
+@stroke@|@Brokis, BRUKÎS@
+@strong@|@sparts@
+@stub@|@KALMAS, KALMUS@
+@stubble (in field)@|@STRÂMBÂ, Strambo@
+@stubborn@|@pertrinctan, PÊRTRÎNKTAN@
+@sturgeon@|@ESKETRAS@
+@subordinate@|@PAMESTAN, Pamests, pomeston, pomests@
+@subordinately@|@PAMETEWÎNGI, PASEGÎWÎNGI, pomettewingi, poseggîwingi@
+@suburb@|@burwalkan, BÛRWALKAN@
+@such@|@stawîds@
+@suffering@|@STÊNSENJAN, Stinsennien@
+@summer@|@Dagis, DAGS@
+@summer sprout@|@DAGÂUGÎS, Dagoaugis@
+@sun@|@Saule, SAÛLÊ@
+@Sunday@|@Nadele, NADÊLÊ@
+@support@|@ÊNLÂIKÂMAÎ, Stacle, STAKLÊ@
+@suppress@|@Sbeclis, ZABÂTWEÎ@
+@swallow@|@Smicuto, SMITUKÂ@
+@swamp@|@BÂLTAN, RÂISTAN@
+@swampy small woods@|@Pânean, PANJAN@
+@swan@|@Gulbis, GÛLBÎS@
+@swarm@|@PÂITÂ, Paytoran@
+@swear an oath@|@KLÂNTAMAÎ, klantemmai@
+@sweat@|@Pracartis, PRAKÂRTS@
+@swelling@|@Gunsix, Gunsix, GÛNZIKS, GÛNZIS@
+@swindle@|@wîngriskan@
+@swine@|@SWINISTJAN, Swintian@
+@swingletree@|@WALAS, WÂLS@
+@switch rod@|@Riste@
+@sword@|@Kalabian, KALABIJAN@
+@table@|@STALAS, Stalis, STÂLS@
+@table (plate)@|@TAPALÊ, Tapali@
+@tail@|@Pastagis, STAGS@
+@tailor@|@Scrutele, SKRÛTELÊ@
+@take@|@ÎMT@
+@take care of@|@surgaut, ZÛRGAÛT@
+@taking into account@|@ÊNDÎRÊSNÂ@
+@tall person@|@Aucktimmien, AÛKTUMÎS@
+@tallow@|@LAJÂ@
+@tanner@|@MINIKS, mynix@
+@tanning rind@|@DÛMBAS, DÛMBUS, Dumpbis@
+@Tapiau@|@Tapiow, TAPJAWÂ@
+@tart bitter@|@KARAS, KÂRS@
+@tavern@|@KÂRCEMÂ, Karczemo@
+@tax for military service@|@Slusim, SLÛZIMAS, SLÛZÎMS@
+@teach@|@ismukint, IZMÂKÎNT, MÂKÎNT@
+@teached@|@PAMÂKÎNTS@
+@teacher@|@MÂKINEWÎS, MÂKINEWÎS, Mukinewis, Mukinewis@
+@teachers@|@MÂKINEWÎNGINS@
+@teaching@|@MÂKÎNSNAN, mukînsnan@
+@tear@|@Drastus, DRAZTWEÎ, DREZTWEÎ@
+@tell@|@ÊNGÊRDAÛS, GÊRDAÛT@
+@tells of@|@PAGÊRDAÛJÂ, pogerdawie@
+@temptation@|@perbandan, perbandâsnan@
+@tempted@|@ÊNKÂITÎTÂI@
+@tempts@|@perbânda, PÊRBÂNDÂ@
+@ten@|@DESÎMTAN, DESÎMTIS, dessempts, Dessimton@
+@tench@|@Linis@
+@tens@|@Desîmtan, DESÎMTANS, Dessimtons@
+@tenth@|@DESÎMTS, Dessîmts@
+@tern@|@Stamite, STARNÎTÊ@
+@testament@|@testamentan@
+@than@|@NÊKÂI, nikai@
+@thank@|@dînkaut, DÎNKAÛT@
+@Thank you@|@Dïnka@
+@thanking@|@dinckausnan, DÎNKAÛSNAN@
+@thanks@|@dînckun, DÎNKAN@
+@thanksgiving@|@Dînkausegîsnan, DÎNKAÛSEGÎSNAN@
+@that@|@kâi, kâi, stäi, stan, stas, stesmu, stesse, stessei, stesses@
+@that (1)@|@sta, stan, stans, stëisan, stesmä, stesmu, stessei@
+@that (2)@|@stai, stans, stäs, stëimans@
+@that way@|@TÊT, tît@
+@that which has hung@|@KABÊWUNS, kabîuns@
+@the only@|@AÎNUNTS@
+@then@|@KADAN, pansdau, PANZDAU, STADAN@
+@there@|@stwen@
+@thief@|@Wagipelki, WAGIS@
+@thigh@|@Culczi, KULSÎ@
+@thing@|@PAWÎSTIN, powijstin@
+@think@|@MÊRÎTWEÎ@
+@think up@|@ÊRMÊRÎT@
+@third@|@Tîrts@
+@this@|@šäi, šäimans, šäisan, šin, šins, šis, šise, šismä@
+@this (1)@|@šan, šans, šäs, šëimans, šëisan, šï, šisei, šises@
+@this (2)@|@Schis, ŠIS@
+@thistle@|@kaâubri, KÂUBRÊ, KÂUBRÊ, strigli@
+@thorn@|@KÂUBRÊ@
+@those who have@|@EMBADUSÎS SI@
+@thoughts@|@PAMÊRÎSNANS, pomijrisnans@
+@thousands@|@TÛSIMTANS, tûsimtons@
+@thread@|@ÂUWÎLKS, Awilkis, Schutuan, ŠÛTWAN@
+@threatening@|@TRÊNEN@
+@three@|@TRIJAN@
+@threshes@|@TÂLKÂ@
+@threshing-floor@|@PLÂNS, plonis@
+@thrive@|@enterpon, TÊRPTWEÎ@
+@throat@|@Gurcle, GÛRKLÊ@
+@through@|@pra, pro@
+@throw@|@Metis@
+@thrush@|@Picle, Picle, PÎKLÊ, TRAZDÊ, Tresde@
+@thumb@|@ÎNSTIKS@
+@thunder@|@GRUMINAS, GRUMÎNS, Percunis, PÊRKÛNS@
+@Thursday@|@KETWÎRTIKS, Ketwirtire@
+@tie up@|@perrêist, PÊRRÊIST@
+@timber@|@SAKSTÂ, Saxsto@
+@time@|@Ansalgis, ANZALÎS, KÊRDÂ, KÊRDAN@
+@timorous@|@dûrai, DÛRÂI@
+@timorously@|@bûrai, DÛRÂI@
+@tin@|@SKÂRSTIS, Starstis@
+@tinder@|@PINTIS, Pintys@
+@tirednes@|@PAWÂRGSENJAN, powargsennien@
+@tithe@|@Dassumptin, DESUMPTINÊ@
+@titmouse@|@Sineco, SÎNIKÂ@
+@to@|@PRÊI@
+@to be@|@PÊR@
+@to hammer in nail@|@Cramptis, KRÂMPTÎS@
+@to here@|@ŠAN, schan@
+@to the right@|@tickray, TIKRAÎ@
+@toad@|@GABAWÂ@
+@today@|@ŠANDÊINAN, schindeinan@
+@toe@|@Nagepristis@
+@together@|@DRÂUGAN, drâugs, drâugs, ÊMPÊRI, sêndrâugi@
+@toils@|@GEWINÂ@
+@tongue@|@INZUWIS@
+@too@|@dîgi@
+@too many@|@per@
+@tool to dent millstones@|@SKÛRDÎS, Sturdis@
+@tooth@|@DANTIS@
+@torture@|@lailîsnan, LÂILÎSNAN@
+@town@|@Mestan@
+@trace@|@SÊRRÊPIMAÎ, serrîpimai@
+@trade@|@KÂUPISKAN@
+@trash@|@GÂZÊ@
+@treat to a meal@|@Reidewaisines, WÂISÎNTWEÎ@
+@tree@|@GARJAN, GARJAN@
+@trembling@|@DRIBÎNSNAN@
+@tribute@|@KASÎS@
+@trouble@|@nautei@
+@trough@|@GALDÂ@
+@trousers@|@Broakay, BRÔKÂI, Lagno, LAKNÂ@
+@trout@|@Palasallis, PALASASÎS@
+@true@|@ARWI, ARWIS, isarwiskas, IZARWISKAS@
+@truly@|@arwiskai, ARWISKÂI@
+@trust@|@ÂUŠAÛDÊSNAN, ÂUŠAÛDÊTWEÎ, auschaudîsnan, auschaudîtwei@
+@trustfully@|@lângewingiskai, lângewingiskân@
+@trustfulness@|@Lângiseiliskan@
+@tub cone-shaped vat@|@STÂNDAS, Standis@
+@Tuesday@|@WISASÊDÎS, wissaseydis@
+@turn time@|@reisan, RÊIZAN@
+@turns into@|@wîrst@
+@twig tie@|@Greauste, GRÊNZTÊ@
+@twitter@|@DÂKTWEÎ, Doacke@
+@two@|@dwai, DWÂI@
+@tyre of a wheel@|@NUSKILAS, nuskils@
+@unbelief@|@NÊDRÛWJAN, nidruwien@
+@uncle@|@Awis, AWS, TÊWS, Thewis@
+@under@|@PÂ, po@
+@under the nose@|@PANASÊ, Ponasse@
+@understand@|@issprestun, IZPRESTUN, PAPRESTAMAÎ, poprestemmai@
+@understanding@|@isspresennien, IZPRESENJAN@
+@uniform@|@ainawidiskan, AÎNAWÎDISKAN@
+@unprepared@|@NÊPAGATAWÎNTS, nipogattawints@
+@upwards@|@unsei, ÛNZÂI@
+@use (profit)@|@enterpon, TÊRPÂ@
+@useful@|@PRAWERÎNGIS, prewerîngiskan, TÊRPINAS, TÊRPÎNS@
+@usefully@|@ÊNTÊRPAN, ÊNTÊRPISKAN@
+@usual@|@iaukint, JÂUKUS@
+@utter@|@târin, TARÎTWEÎ@
+@vagina@|@peisda, PÎZDÂ@
+@vainly@|@NÊ ENBÂNDAN, ni enbândan@
+@valley@|@LÎNDAN, PADÂUBÎS, Pandaubis@
+@valuability@|@wertîngiskan@
+@value@|@WÊRTÊ, Wertîwings@
+@various@|@WISAWÎDISKAN, wissawidiskan@
+@Varmia@|@WÂRMÊ, Wormeland@
+@vein@|@GÎSLÂ@
+@vengeance@|@trinsnan@
+@vertex@|@Arglobis, ÂRKLUBÎS@
+@very@|@sparts@
+@very piously@|@Deiwa deiwûtskai, DÊIWADÊIWÂTISKÂI@
+@vetch@|@Wickis, WIKÎS@
+@victory@|@EBWARÊSNAN, epwarîsnan@
+@village@|@KÂIMS@
+@vimba@|@Seabre, ZÊBRÊ@
+@Virgin@|@Jumprawan, JUMPRAWAN@
+@Vistula@|@WÎKSLÂ, Wixla@
+@vociferates@|@WÂKAÛI, wûkawi@
+@voice@|@TÂREN, târin@
+@vomit@|@pluã, spïaut, spjauti, SPJAÛTWEÎ, vamiti, vemti, wimbmis@
+@Wachthund@|@WÛIZAS, WÛIZUS, Wuysis@
+@wages@|@âlgas, ÂLGÂS@
+@waging war@|@kariausnan, KARJAÛSNAN@
+@wagtail@|@KÎLÂ, Kylo@
+@waits@|@GÊIDJÂ@
+@walk@|@neikaut@
+@wall@|@Seydis, ZÊIDS@
+@wantest@|@KWÂITÊI@
+@wares@|@PÊRDÂSÂ, perdâsai@
+@warm@|@Tapiow, TAPÎS@
+@wart@|@GABU@
+@wash off@|@aumûsnan, aumûsnan, ÂUMÛTWEÎ, ÂUMÛTWEÎ@
+@washing off@|@aumûsnan, ÂUMÛSNAN@
+@wasp@|@WAPSÊ, Wobse@
+@waste@|@Pausto, PÂUSTS@
+@waste after winnowing@|@ÂUKLEKSTÊS, Auklextes@
+@waste land@|@SILÂ, Sylo@
+@watchman@|@Butsargs, SARGS@
+@water@|@UNDAN, Wundan@
+@water-hen@|@WÎTWAGÂ, Witwago@
+@water-meadow@|@Treonkaymynweisigis, WÊISIJAS, WÊISÎS@
+@watery beer@|@Scinkis, SKÎNKÎS@
+@wax-end@|@Schumeno, ŠÛMENÂ@
+@way@|@Pintis@
+@we@|@mans, mes, nümans, nüsan@
+@weaker@|@kuslaisin, KUSLÂISJAN@
+@wealth@|@LABAS, Labbas@
+@wealthy@|@Laimiskai@
+@weasel@|@MAZUKÂ, Mosuco@
+@weather@|@WINAS, wins@
+@weathercock@|@GERTÎS@
+@weaver@|@Tuckoris, TUKÂRÎS@
+@wedding@|@Sallûbs, SALÛBÎS@
+@wedding ceremony@|@SALÛBÎSNÂ, Salûbsna@
+@Wednesday@|@Possissawaite, PUSISAWÂITÊ@
+@week@|@SAWAÎTÊ, Sawayte@
+@well@|@APUS, LABÂI, LABAN, labbai, labban, Labs@
+@west wind@|@Aûlaukis, ÂULÂUKÎS@
+@wet@|@Markelauke, MÂRKS@
+@wether@|@SKAPS, Stabs@
+@what@|@KAWÎDS@
+@wheat@|@GÂIDÎS@
+@wheat bread@|@SÂLTÊ, Solthe@
+@wheel@|@KELAN@
+@when@|@KADAN, KÂI@
+@where@|@KWÊI, quei@
+@where from@|@ISKWENDAU, isquendau@
+@Where is the bathroom?@|@Kwëi ast Spektästuba?@
+@whet@|@GLÂSTWEÎ, Glosto@
+@whether@|@ANGA@
+@whetstone@|@GLÂSTÂ, Glosto@
+@whey@|@SÛRISTJÂ, Sutristio@
+@while@|@IKÂI, kîsms@
+@whip@|@Brusgis, BRÛZGAS@
+@white@|@GÂILS@
+@white-throat@|@SÂKÎS, Soakis@
+@who@|@KAS@
+@who has poured out@|@islîuns, IZLÊWUNS@
+@whole@|@GÂNCAS, WISÂ, wissa@
+@whore@|@Manga@
+@wicket-gate@|@LAPIWARTÂ, Lapiwarto@
+@wide-bladed axe@|@RAMESTUWÊ, Romestue@
+@widow@|@WIDAWÂ, widdewû@
+@wild@|@PÂUSTÂ, Pausto@
+@wild horse@|@PÂUSTAKÂIKAN, Paustocaicâ@
+@wilderness@|@Paustre, PÂUSTRÊ@
+@will@|@KWÂITS, quâits@
+@willingly@|@reide@
+@willow@|@GLÔSÎS@
+@willow-tree@|@Witwan@
+@wind@|@WÊTRÂ, Wetro@
+@windhover@|@PELÊMAÎGÎS, Pelemaygis@
+@window@|@LANGSTÂ@
+@windpipe@|@KÂSÎ@
+@wine@|@Winis, WÎNS@
+@wing@|@SKREÎLÎS, Skrelle@
+@winnow@|@ÂUKLEKSTWEI, Auklextes@
+@winter@|@Semo, ZÊIMÂ@
+@winter crops@|@Seamis, ZÊIMÎS@
+@wish@|@KWÂITÊSNAN@
+@wishes@|@KWÂI, KWÂITÂI, KWÂITÊI@
+@wishest@|@KWÂI@
+@with one's people@|@SÊN SWAJÂIS, sen wissan swaieis@
+@without@|@BE, BE, schlâit, ŠLÂIT@
+@witness@|@weydikausnan, weydikausnan, WÎDIKAÛTWEÎ, WÎDIKS@
+@witnessing@|@weydikausnan, WÎDIKAÛSNAN@
+@witting@|@weiting, WÎTÎNGÎS@
+@wizard@|@Waidel, WAÎDILS@
+@wolf@|@Wilkis, WÎLKS@
+@woman@|@GENÂ, GENIKAN@
+@woodcock@|@Slanke, SLÂNKÊ@
+@woodman@|@MEDENÎKS, Medenixtaurw'@
+@woodpecker@|@AÎTAGENÎS, Aytegenis, GENIKS, Kracto, KRAKTÂ@
+@wood-pigeon@|@Keutaris, KJÂUKARAS, KJÂUKÂRS@
+@wool@|@WILNÂ, Wilnis@
+@woollen@|@Wilnis, WILNÎS@
+@woollen cloth@|@milan, PASTÂWS, Pastowis@
+@word@|@wîrds@
+@work@|@DÊLÂTWEÎ, dîlants@
+@worker@|@GEWINÊJS@
+@workers@|@DÊLINÎKANS, Dîlnikans@
+@world@|@SWÊTÂI, Swetan, SWÊTAN, switai@
+@worm@|@KÎRMIS@
+@worth@|@werts, WÊRTS@
+@worthy@|@WÊRTÎNGIS, wertîngs, Wertîwings@
+@would save@|@isrâikilai, IZRÂNKÎLAÎ@
+@wound@|@ÊIZWÂ@
+@wren@|@PRESKARAS, PRESKÂRS, Prestors@
+@wrinkle@|@senskrempûsnan, SKRÊMPÂ@
+@writes@|@peisâi, PÊISÂI@
+@year@|@METAN, Mettan@
+@yellow@|@GÊLTÂINAN@
+@yelp@|@SKENÊTWEÎ, Stanulonx@
+@yes@|@JÂ@
+@Yes@|@Jä@
+@yet@|@dabber, DABER@
+@yew-tree@|@Iuwis, IWS@
+@yoke@|@Pede, PÊDÊS@
+@you@|@ioûs, JÛS, tebei, ten, tü, twäise@
+@youl (pl)@|@jümans, jüs, jüsan, wans@
+@young@|@Maldai, MÂLDÂI@
+@young and black@|@RAPENÂ, Rapeno@
+@younger@|@MÂLDÂISEN, maldaisin@
+@your@|@JÛSS, TWÂIS, TWÂISE@
+@youth@|@MÂLDÛNEN, Maldûnin@
+

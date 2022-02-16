@@ -1,0 +1,2541 @@
+@English@|@Scottish Gaelic@
+@Author name@|@Reji Martin@
+@Font@|@Arial\12\Arial\12@
+@(+ dat & len) of  / off@|@de  (prep) dhe / dh' / dhe dh'@
+@(indicates the opposite) 'in-' or 'un-'@|@mì- (pref. neg)@
+@(will) come@|@thig   (irreg v)@
+@... has a quandry (mainland Gaelic)@|@Trioblaid aig am/an ... (phr)@
+@... per cent@|@... sa cheud@
+@{faigh} Shall get.@|@gheibh (fut aff of irr v)@
+@{of faigh} we would get@|@gheibheamaid (1st/pl/pst sub)@
+@£ / quid / note (written)@|@not(a)  (m)  -ichean@
+@a little while ago@|@o chionn ghoirid (phr)@
+@a person@|@fear (m) fir  (fem = té-)@
+@abbr of 'de' / also found as "a dh'"@|@a (prep)@
+@Aberdeen@|@Obar Dheathain@
+@Abernethy@|@Obar Neithich@
+@abet / cheer / incite / kindle / rouse /stir /urge@|@brosnaich (v) -achadh@
+@abide / live /remain /stay / reside@|@fuirich (v) -each -eachd@
+@able to work / executive / powerful / mighty@|@gnìomh-chomasach (adj) -aiche@
+@abode / accommodation / accomodation / quarters@|@aite-fuirich (m)@
+@abominable / disgusting /horrid / loathsome /nasty@|@sgreataidh (adj) -e@
+@aborigines@|@luchd-gnè-àite (m)@
+@abounding in ale@|@leannach (adj) -adh@
+@abounding with hairy caterpillars@|@bratagach (adj) -aiche@
+@about@|@an cuairt (adv), gu timcheallach (adv)@
+@about / around@|@mun cuairt (prep)@
+@about / used where Eng. uses (pers pron)@|@deidhinn / mu dheidhinn (prep+@
+@above@|@os cionn (prep + g)@
+@abroad@|@thall thairis (phr)@
+@abroad / overseas@|@thall thairis (adv)@
+@absolutely@|@mòr-chuid (f)@
+@absorb / lap / suck@|@sùgh (v) -adh@
+@accept / have / receive / take@|@gabh  (v)  -ail@
+@acceptable@|@furasta gabhail ris (adv phr)@
+@access / path / walk / way@|@rathad (m) -aid -aidean@
+@accord / assent / will / purpose@|@deòin (f) -e@
+@according to@|@a-réir (prep), an rèir (prep)@
+@according to  / in proportion to / proportion@|@réir (prep+gen) a / do rèir@
+@accuracy / exactness / nicety / punctuality@|@pongalachd (f)@
+@accurate / punctual / exact / concise / pointed@|@pongail (adj) -e@
+@across / beyond / over@|@thar  (prep + gen) -is@
+@act of arranging / setting in order@|@eagarachadh (m) - aidh@
+@act of feeling / perceiving / attending@|@mothachadh (m) -aidh@
+@act of seasoning with pepper or spices /irritating@|@peabrachadh (m) -aidh@
+@act of settling / appointing / planning /arranging@|@suidheachadh (m) -aidh -an@
+@act of teaching / instruction@|@teagaisg (gen sing of teagasg)@
+@active / dexterous / nimble / swift@|@cliste (adj)@
+@active / nimble / prompt / eager@|@èasgaidh (adj)@
+@actress@|@bana-chleasaiche (f)@
+@actually / indeed / genuine / serious / truly@|@da-rìribh (adv) da-rìreadh@
+@acute accent@|@stràc gheur (f)@
+@acute angle@|@geur-oisinn (f)@
+@adage / phrase / proverb / by-word  / saw@|@gnàth-fhacal@
+@adaptable / suitable / adequate / applicable / fit@|@freagarrach (adj) -aiche@
+@address (postal)@|@seòladh (m) -aidhean@
+@addressing person / thing / etc@|@a (part) beore nouns - voc@
+@adjacent / near / close / exclusive@|@dlùth (adj + do/ri/air) dlùthe@
+@adjective / epithet@|@buadhair (m) -ean@
+@administration / management@|@rianachd (f)@
+@administrator@|@rianaire (m) -ean@
+@advance / attack / charge / inroad / onset / shock@|@ionnsaigh (f) -e -ean@
+@adversity / danger / difficulty / emergency / hard@|@cruaidh-chàs (m)@
+@advice@|@comhairle (f)@
+@advice / council / caution@|@chomhairle (f)@
+@affair / errand / job / thing / transaction@|@gnothach (m)@
+@affectation / liking / regard / esteem / fondness@|@spèis (f)@
+@affirm / assure /  confict / prove@|@dearbh (v) -adh@
+@after / behind / wishing for / fond of@|@an déidh (prep) às déidh@
+@after / on@|@an dèidh  (prep+gen)  às dèidh@
+@after / on (an dèidh / as a dhèidh)@|@déidh (prep)@
+@after all (adv phr)@|@an dèidh a h-uile rud (adv)@
+@after all / at long last / eventually / finally@|@mu dheireadh thall (adv)@
+@again / anew / afresh / 2nd time@|@a-rithist (adv)@
+@against / in opposition@|@aghaidh (prep) (an aghaidh)@
+@against / in opposition /@|@an aghaidh (prep)@
+@age@|@aois (f) -e -ean@
+@age / oldness / eldest@|@sìne (f)@
+@age / time / duration / period@|@ùine (f) / ùineachan@
+@aged / old / elderly / stale / former@|@sean[n] (adj) sine@
+@aggrievance / crime / damage / injustice / wrong@|@eucoir (f)@
+@aggrieve@|@eucoirich (v)@
+@ago / back / fro@|@ais (adv)@
+@agree / concede / concur / unite / consent@|@aontaich (v) -achadh@
+@agree with / please / suit / on good terms with@|@còrd (v) -adh@
+@agreement / agreeing / congruence@|@còrdadh (m) -aidh@
+@ahead / first@|@air thoiseach (adv)@
+@aid /resource / facility / apparatus / convenience@|@goireas (m) eis -an@
+@ailing / sick / ill / exhausted@|@tinn (adj)@
+@aim / destination / gaol / objective / terminus@|@ceann-uidhe (m)@
+@airplane / aeroplane@|@itealan (m)@
+@alcohol@|@deoch làidir (f)@
+@ale / beer@|@leann (m) -a -tan@
+@alertness / care / caution / discretion / watchful@|@faiccall   (f)  -ill@
+@alien / foreigner / stranger@|@coigreach (m) -ich@
+@alive / active / alert / lively / fervent /zealous@|@beòthail (adj) -e@
+@alive / quick / living / sprightly@|@beò (adj)@
+@all / every / whole / entire / total@|@uile (adj)@
+@all day@|@fad an là (phr)@
+@all over / length / during / throughout@|@feadh (m)@
+@allow / grant / permit / license / let@|@ceadaich (v) -achadh (+do)@
+@almost@|@ach beag, cha mhór nach (phr), ionns (adv), is beag nach (adv)@
+@along with / in company with / as well as@|@còmhla ri (prep)@
+@along with / with / as well as@|@cuide ri (prep)@
+@alphabet@|@aibidil (f) -ean@
+@already@|@mu tràth (adv)@
+@alright / comfortable / well-off@|@dòigheil (adj) -e@
+@also@|@cuideachd (adv)@
+@also / likewise / too@|@mar an ceudna (adv.phr)@
+@altogether@|@còmhla ri chèile (adv phr)@
+@altogether / completely@|@gu léir (adv)@
+@always / at every time@|@'s gach àm@
+@always / continual / habitually / incessant@|@daonnan (adv)@
+@amazed@|@fo iongnadh@
+@amazing / wonderful / marvellous@|@mìorbhaileach (adj) -eiche@
+@amazing / wonderful / surprising / extraordinary@|@iongantach (adj) -aiche@
+@ambition / desire / wish / propensity@|@déidh (f) -e@
+@America@|@Ameireaga (f) -nach@
+@American@|@Ameireaganach (m) -aich@
+@amiss / false / wrong / left / wrong@|@cearr (adj)@
+@among / amongst@|@am measg (prep)@
+@amusing / comical / funny@|@èibhinn (a) -e@
+@an artist / engineer / ingenious person@|@fear-innleachd (m) / fir-@
+@ancestor / forefather@|@sinnsear (m) -sir -sirean@
+@ancestry / decendents@|@sinsearachd (f)@
+@anchor@|@cruaidh (f) cruadhach -aichean@
+@and@|@agus (conj) also is & 's@
+@and a half@|@gu leth (adv)@
+@animator@|@beothaichear (m) -eir -an@
+@anniversary / birthday@|@co-là / co-làtha (m)@
+@annoyance / mischief / trouble / tribulation@|@trioblaid (f)@
+@annoyed / displeased / dissatisfied / indignant@|@diombach (adj) -aiche@
+@anns (in some areas)@|@as (abbr of)@
+@annually@|@gach bliadhna (adv.phr)@
+@annually / yearly /@|@bliadhna (f) -achan -aichean@
+@another one (female)@|@tèile (pron)@
+@answer / cope with / suit /  be sufficent@|@dèan an gnothach (phr)@
+@answer / reply@|@freagair (v) -airt@
+@anticipate / expect@|@sùilich (v) -eachadh@
+@any (in existence)@|@sam bith@
+@any / anyone / anything@|@gin (pron)@
+@anyone at all@|@duine sam bith@
+@anything / iota / jot / thing@|@dad (f)@
+@anything at all / with neg. (nothing at all)@|@rud sam bith@
+@anything to do (with)@|@dad sam bith (phr)@
+@anytime@|@àm sam bith@
+@apart@|@gu taobh (adv)@
+@apology / defence / evasion / excuse / plea@|@leisgeul (m) -eil -an@
+@appeal / desire / appetite / appearance@|@càil (f) -e -ean@
+@appeal / drag / haul / incite / shuffle@|@tarraing (v)@
+@appear / discover / show / reveal / present@|@nochd (v)@
+@appearance / form / likeness / interpretation@|@riochd (m)@
+@appetite / desire / longing / wish@|@miann (m/f) -an -tan@
+@apple@|@ubhal (m) / ùblan -ail@
+@apprehend / bag / catch / capture / grasp / trap@|@glac (v) -adh -ail@
+@approach / draw near / join / adhere@|@dlùthaich (pr pt)@
+@approaching / joining / gluing / pressing@|@dlùthachadh (m) -aidh@
+@April@|@Giblean (m)@
+@aquaintance / experience / knowledge / familiarity@|@eòl (m) -ais -as@
+@aquaintance / expert / knowledgeable / familiar@|@eòlach (m) -aich@
+@aquaintance / knowledge / ken / discernment@|@aithne (f)@
+@archive@|@tasglann (f)@
+@archive library@|@tasg-lann (f)@
+@archives / archive library@|@tas-glann (f)@
+@are you certain?@|@bheil thu beachdaidh? (phr)@
+@area / district / quarter / region / part@|@ceàrn (f) -a -an@
+@around / aroundabout / concerning@|@mu thimcheall (prep)@
+@around / round / about@|@timcheall (adv)@
+@arrive / attain / reach / extend@|@ruig (irreg v) -sinn -hinn@
+@arse / backside / bum / bottom / buttock / rump@|@màs (m) -àis@
+@article@|@artaigil (m) / airteagal -ail@
+@article (clothing etc) / limb / rope / cord / spot@|@ball (m) / buill@
+@article / essay / composition@|@aiste (f) -ean@
+@article in grammar@|@puncar (m) -air@
+@articulate / fluent / racy / flowing@|@siùbhlach (adj) -aiche@
+@artificer / artisan@|@ealantair (m) -ean@
+@artist / carver / sculptor@|@snaidheadair (m) -eachd@
+@as ... as ... {e.g.cho cruaidh ris an...}@|@cho ... ris ...@
+@as / how@|@mar (conj) / man@
+@as / so / such@|@cho (adv)@
+@as a  consequence of / on account of@|@tàille (+ gen) air tàille@
+@as much as@|@ùiread agus@
+@as you ought@|@mar bu chòir dhut@
+@ascend / clamber / scale / scramble@|@streap (v) -adh@
+@ascend / climb / mount@|@dìrich (v) a'dìreadh -eachadh@
+@asking / questioning / inquisitiveness@|@faighneachd (f)@
+@asparagus@|@creamh-mac-féidh (f)@
+@at / also used with possession@|@aig  (prep)  + dat@
+@at all hours@|@moch is anmoch (adv.phr)@
+@at any time / ever@|@aig àm sam bith (adv)@
+@at her@|@aice  (prep pron)  aicese@
+@at hin@|@aige  (prep pron)  aigesan@
+@at his / her / it  (is ~ lenites ..)@|@'ga  (pron) aig + a@
+@at last / at length / finally@|@mu dheireadh (adv)@
+@at last/ finally /after all/ at length /ultimately@|@fa-dheòigh (adv)@
+@at least / at the very least@|@char as lugha@
+@at length / at last / ultimately / finally@|@fa-dheòidh (adv)@
+@at me@|@agam  (prep pron)  agamsa@
+@at night / of a night@|@a dh'odhche (adv)@
+@at them@|@'gan / 'gam (pron) aig + am/an, aca  (prep pron)  acasan@
+@at this time@|@an tràth seo@
+@at us@|@'gar  (pron) aig + ar, againn  (prep pron)  againne@
+@at you@|@'gad  (pron) aig + an, agad  (prep pron) agadsa@
+@at you  (plr)@|@agaibh  (prep pron)  agaibhse@
+@at you (plr)@|@'gur  (pron) aig + ur@
+@atempt / effort / endeavour / initiative@|@oidhirp (f) -ean@
+@atop / on top (of)@|@air muin (compound prep)@
+@attend / wait upon / minister / serve / abide@|@fritheil (v) a' frithealadh@
+@attending / waiting / ministering@|@frìthealadh (m) -aidh@
+@attention@|@aidh@
+@attention / thought / intention / observation@|@aire   (f)@
+@attentively@|@gu dùr (adv)@
+@attribute / virtue / faculty /  talent@|@buadh -adh (plr) -annan (gen)@
+@audience@|@luchd-èisteachd (m)@
+@audience / assembly@|@luchd-amais  (m)@
+@audio files@|@faidhlean-fuaim@
+@audit / examine / review / inspect / look over@|@sgrùd (v) -adh@
+@August@|@Lùnasdal (m)@
+@austere / hardy / difficult / rigorous / ruthless@|@cruaidh (adj) -e@
+@author / composer (of writing)@|@ùghdar (m) -air -an@
+@autumn / fall / harvest@|@foghar (m) -air@
+@avoid / dodge / elude / miss / shirk / shun@|@seachain (v) -nadh also -ainn@
+@await / wait (for)@|@feith (v) -eamh (+air or +ri)@
+@awake / arouse / awake@|@mosgail (v)@
+@awakening / revival /@|@dùsgadh (m&vn) -aidh -aidhean@
+@aware / learned  / informed / knowledgable@|@fiosrach (adj) -aiche@
+@away / begone@|@gabh bhuam! (phr)@
+@aye / yes / indeed / yes it is@|@seadh  (m)@
+@baby / child / infant@|@leanabh (m) -aibh -an@
+@back@|@cùil (adj)@
+@back / back part of anything@|@cùlaibh (m)@
+@back / back side / back of anything@|@cùl (m) cùll -tean@
+@back room@|@seòmar-cùil (m)@
+@backward@|@an comhair a' chùil@
+@bad / evil@|@droch (adj)@
+@bad / evil / contemptible@|@dona (adj)@
+@bad beer@|@amhlaisg (f)@
+@bad news@|@abrann (m)@
+@bag@|@baga (m) or poca@
+@bake bread / knead@|@fuin (v)@
+@baker@|@fuineadair  (m)@
+@bakery / bakehouse@|@taigh-fuine (m)@
+@baking / act of baking@|@fuineadh (m) -rich@
+@bald  / blunt / dense@|@maol (adj) -ile@
+@bandage / strap / still / whisky pot@|@stail (f) -e -ean@
+@banner / flag / colours / ensign@|@bratach (f) -aich -aichean@
+@barber / clipper@|@bearradair (m) -ean@
+@bare / plain / defenceless / destitute / nude@|@lom (a)  / luime@
+@barking / howling / wailing / yell@|@donnalaich (f)@
+@barley@|@eòrna (m)@
+@barn@|@sabhal (m) -ail -an / sabhlean@
+@base / basis / footing / foundation / ground@|@stéidh (f) -e -ean@
+@base / establish / found / ground@|@stéidhich (v) -eachadh@
+@based / established / founded /@|@séidhichte (pp)@
+@bashful / diffident / shy / timid / backward@|@diùid (adj)@
+@bask in the sun / expose to the sun@|@grian (v)@
+@basket@|@basgaid (f)@
+@basketball@|@ball-basgaid (m)@
+@batch / crowd / group / number@|@grunn (m) -a -an@
+@be accustomed / exercise / practice / use@|@cleachd (v) -adh@
+@be in want of / need / must@|@feum (v)@
+@be off / leave my presence@|@gabbh chun an dorais! (phr)@
+@beach / shore / seabeach@|@tràigh -e / tràghad (f)@
+@beach the boat@|@cuir an t-eathar air (idiom)@
+@beak / nib@|@gob (m)@
+@bear@|@math-ghamhainn (m) -mhna -ean@
+@bear / brown bear@|@mathan (m) -ais@
+@bear / give birth to / bring forth / lay / litter@|@beir (irreg v) -sinn / breith@
+@beard / whisker@|@feusag (f) -aige -an@
+@beast / animal@|@beathach (m) -aich@
+@beast / brute / brutal person@|@brùid (v) -e -ean@
+@beautiful / comely / handsome / stately@|@eireachdail  (adj) -e@
+@beautiful / lovely@|@àlainn (a) -e / àille / àilne@
+@beautiful / pretty / bonnie@|@bòidheach (adj) -bòidhche@
+@beauty / comeliness@|@bòidhchead (f) -chid@
+@because / since@|@airson gu (conj)@
+@because / since / seeing / that / whereas that@|@a chionn 's gu / gum / gur@
+@because /for that reason@|@a chionn (adv & conj)@
+@because of / on account of@|@sailleabh (prep+gen)@
+@because that@|@a chionn gu@
+@become / grow / develop / accrue@|@fàs (v)@
+@become / grow / spring / thrive / turn@|@cinn (v) -tinn@
+@become grey / pale or green@|@glas (adj) glaise@
+@bed@|@leabaidh / leapa / leabadh (f)@
+@bed & breakfast@|@lìte 'is leabaidh@
+@bedroom@|@seòmar-cadail (m)@
+@been a long time!@|@fada bhon uair sin@
+@before@|@fa chomhair (prep+gen), ro  (prep)  roimh@
+@before / formerly@|@roimhe (adv)@
+@before / in case / lest@|@mus (conj) / mun / mum@
+@before her@|@roimhpe  (roimhpese)@
+@before him@|@roimh  (roimhesan) -e@
+@before him or it  / opposite to / in anticipation@|@fa-chomhair (prep+gen)@
+@before me@|@romham  (romhamsa)@
+@before the@|@ro'n (def art) ro+an@
+@before them@|@romhpa  (romhpasan)@
+@before us@|@romhainn  (romhainne)@
+@before you@|@romhad  (romhadsa)@
+@before you (plr)@|@romhaibh  (romhaibhse)@
+@begone!@|@gabh romhad! (phr)@
+@behind@|@air chùl (prep), air cùlaibh (compound prep)@
+@behind / back@|@air ais  (adv)@
+@behind / late / last@|@air deireadh (adv)@
+@being so ... as@|@leis cho ... 's (conj)@
+@belief / creed / faith / religion@|@creideamh (m) -eimh -an@
+@believe / credit / feel convinced / trust@|@crèid (v) -sinn@
+@bell@|@clag (m) cluig@
+@below@|@gu h-ìosal (adv)@
+@below / under / beneath / underneath@|@fo (prep. + dat) {lenite}@
+@bend / twist / make crooked / pervert / go astray@|@fiar (v) a' fiaradh@
+@bending / a squint / slant / at an angle@|@fiaradh (m) /fiariadh@
+@benefit / advantage / gain / profit / aquisition@|@buannachd (f)@
+@benefit / advantage / good / interest / welfare@|@leas (m)@
+@bent / crooked@|@fiar (adj)@
+@besides / over & above / either@|@a bharrachd (prep)@
+@best@|@rogha (m)@
+@betray / decieve / spy / inform@|@brath (v) a'brathadh@
+@better / more fitting@|@càra (comp form of còir)@
+@big / ample / bulky / grand / large / strapping@|@mór (m) motha@
+@bigger picture@|@dealbh nas motha (phr)@
+@billiards / pool@|@bòrd-chluich (m)@
+@biography@|@beò-eachdraidh (f)@
+@bird / fowl@|@eun (m) eòin@
+@biscuit@|@briosgaid (f) -e -ean@
+@bison@|@bó alluidh (f)@
+@bit / fragment / piece / particle /@|@mìr (m) -e -ean@
+@bit / morsal / piece / splinter / crust@|@crioman (m) -ain -an@
+@black@|@dorch (adj) / dorcha@
+@black / inky / profound (heavy)@|@dubh (adj) -e@
+@blame / default / transgression / guilt / sin@|@ciont (m) -a@
+@blamy / calm / delicate / soft / lukewarm@|@tlàth (adj) tlàithe@
+@blast / destroy / demolish@|@sgrios (v)  -a -an@
+@blessing / farewell / greeting / goodbye /@|@beannachd (f) -an@
+@blethering / chatter / prattle@|@cabadaich (f)@
+@blindman@|@dall (m) doill@
+@blow / pant / puff / inflate / swell by flattery@|@séid (v) -idh@
+@blowing / inflating / etc@|@séideadh (m+vn) -idh@
+@blown / puffed / inflated@|@séidte (prep pst) -eadh@
+@blue / verdant@|@gorm (a) guirme@
+@bluster / menace / threaten@|@bagair (v) -airt / bagradh@
+@boar@|@torc (m), tuirc (plr) torc@
+@board / table [chart] / record / CD / list@|@clàr (m) -àir@
+@boat / barge / craft (ship) /@|@bàta (m)@
+@body / corpse@|@corp (m) cuirp@
+@bog / fen / marsh / level plain@|@currach (m) -aich -an@
+@bog / fen / marsh / quagmire@|@fèithe (f) -eachean@
+@boil / seethe@|@goil (v)@
+@bold / adventurous / intrepid / presumptuous@|@dàna (adj)@
+@bold / daring / impudent / shameless / loquacious@|@ladarna (adj) -airne@
+@bone@|@cnàimh (m)@
+@bonny / beautious / lovely / comely@|@maiseach (adj) -siche@
+@book / volume@|@leabhar (m)-air / leabhrachan@
+@border / extremity / limit / rim / verge@|@iomall (m) -aill -an@
+@born@|@rugadh (pst tns ~ beir)@
+@borrower@|@fear gabhail iasaid@
+@both / each other / together / one another@|@chèile (adv / indef pron)@
+@both / soup@|@brot (m) -a@
+@bottle@|@botal (m) -ail@
+@bound / spring / jump / leap / skip / prance@|@sùrdag (f) -aige -an@
+@box@|@bogsa (m) -ichean@
+@boxing@|@bogsadh (m) bocasadh -aidh@
+@branch / bough@|@geug (f) -an / gèige@
+@bravery / confidence / courage / fortitude /moral@|@misneachd (f)@
+@brawl / quarrel / fight / fray / row@|@sabaid (f) -e -ean@
+@break / smash / fracture / exclaim@|@bris(t) (v) -eadh@
+@breath / pause / rest / wind / respite@|@anail (f) analach / anailean@
+@breeding / teaching / lore / nuture / training@|@oilean (m) -ein@
+@brewer / distiller@|@grùdair (m) -aire@
+@brewery@|@taigh-grùide (m)@
+@brewing@|@grùdaireachd (f)@
+@bridge@|@drochaid  (f)@
+@brief / brusque / short@|@goirid (f) / giorra@
+@brightness/ radiance / shining / glare / shine@|@deàrrsadh (m/vn) -aidh@
+@broken / bankrupt / insolvent@|@briste (adj)@
+@brother@|@bràthair  (m) bràthar -ean@
+@brown / brown-coloured / brunette / russet@|@donn (adj) duinne@
+@brown / make brown@|@donn (v) -adh@
+@brutal / violent / creul / brutish@|@brùideil (adj) -e@
+@bu mhi / tu / etc.  it was I / you / etc@|@bu (IND pst tnse of 'is')@
+@bucket / pail / churn@|@cuinneag (f) -eige@
+@building / construction / edifice / erection@|@togalach   (m) -aich  -aichean@
+@bun@|@buna (m) -aichean@
+@burden / encumber / load@|@luchaich (v) -achadh@
+@burn@|@losgadh  (m)@
+@burn / brand / cremate / sear@|@loisg  (v) losgadh@
+@burnt@|@loisgte (adj) -eadh -adh@
+@bury / inter@|@tiodhlaic (v) tiodhlacadh@
+@busy / busier@|@trang (adj) / traing / trainge@
+@but (after neg.) only@|@ach (conj)@
+@but this won't do@|@ach cha dèan seo an gnothach@
+@butcher@|@bùidsear  (m)@
+@butterfly@|@dearbadan-dé (m) -ain@
+@button / toggle@|@putan (m) -ain -an@
+@by a great deal / more / a lot@|@móran (adv)@
+@by now@|@roimhe seo (adv)@
+@cabbage@|@càl (m)@
+@Caithness@|@Gallaibh@
+@cake@|@cèic (f) -e -ean@
+@calf@|@laogh (m) laoigh@
+@calf-skin@|@miniceann-laoigh (m)@
+@call / cry / shout@|@éigh (f) / éibh -e -eachan@
+@call / shout@|@glaodh (v) -ach -aich@
+@call / visit / haunt@|@tadhail (pres part)@
+@calligraphy@|@ealdhain-sgrìobhaidh (f), grinn-sgrìobhadh (m)@
+@calling / visiting / frequenting / resort@|@tadhal (m) -ail -aichean@
+@calm / gentle / mild / peaceful / serene / soft@|@ciuin (adj) -e -a' ciùineadh@
+@came@|@thàinig (pst) thig@
+@candle@|@coinneal (m) / coinnle -an@
+@capable of / able to@|@mòrach (adj)@
+@Capital letter@|@ceann-litir (f) ceaun-litreach, ceann-litreachan (f)@
+@capture / captivate / take prisoner@|@beò-ghlac (v) -adh@
+@car / automobile@|@càr (m) -àir -aichean@
+@care / attention / power / neatness / decency@|@sgoinn (f) -e@
+@care / worry / trust / anxiety / responsibility@|@cùram (m) -aim -an@
+@careful / attentive / neat / tidy / decent@|@sgoinneil (adj) -e@
+@careful / responsible / anxious@|@cùramach  (adj)  -aiche@
+@careless / immateral / uncaring / indifferent@|@coma (adj)@
+@cargo / freight / load@|@luchd (m) -a -an@
+@carpenter / cabinet maker@|@saor (m)@
+@carried / changed / altered / wielded@|@imrichte (pt pt of imrich)@
+@carrot@|@curran (m) -ain@
+@carry / bear / remove / change / alter@|@imrich (v) ag imrich /ag -d@
+@carry / transport / bear / act / behave /@|@giùlain (v) giùlan@
+@carry on / din / fuss / commotion / confusion@|@ùpraid (f) -e -ean@
+@carry on you@|@cum ort@
+@cartoon@|@cartùn / dealbh-èibhinn (m)@
+@castle@|@caisteal (m) -eil -an@
+@catholic / general / public / universal / standard@|@coitcheann (adj) -a@
+@cause / reason / subject / matter@|@adhbhar (m) -air -airean@
+@cavern / hole / sponge / recess / den@|@còs (m)@
+@CD / compact disc@|@clàr-cruinne (m)@
+@cease / nonsense@|@Tog dheth!@
+@celery@|@lis na smàileag (m), seilearaidh (m)@
+@centimeter@|@ciadameatair (m) -ean@
+@centre / middle joint@|@ceart-làr (m)@
+@certain / particular / special / proper  expedient@|@àraidh (adj)@
+@certain / specfic / notable / particular /positive@|@sonraichte (adj)@
+@certain / sure / observant / watchful / meditative@|@beachdaidh (adj) /beachdail@
+@chair / bench / throne / town / city@|@cathair (f) -rach -raichean@
+@chairlift / elevator / lift@|@àrdaichear (m)@
+@challenge / problem /@|@dùbhlan (m) -ain -an@
+@chamber / room@|@seòmar (m) -air -mraichean@
+@chance / oppourtunity / catch / access@|@cothrom (m) -uim -an@
+@change / alteration / modification / conversion@|@atharraich / atharrachadh (v)@
+@change / exchange@|@iomlaid (f) -e -ean@
+@changing / change / death / decrease@|@caochladh (m) -aidh - aidhean@
+@chapter@|@cabideal (m) -il -ean, caibideil (m) -il -ean@
+@character (person)@|@caractar (m)@
+@charity@|@carthannachd (f)@
+@cheerer / inciter / encourager / abettor@|@brosnachair (m)@
+@cherry@|@siris (f) -ean / sirist@
+@Chief of clan or tribe@|@toiseach (m) -ich -ichean@
+@child / infant / baby@|@pàist (m+f) -e -ean@
+@children / progeny@|@clann (f) / cloinne@
+@chip / carve / hew / whittle / sculpt / -ing@|@snaigh (m) -eadh@
+@chip / split@|@sgealb (v) -adh@
+@chisel@|@sgeilb (f) -e -ean@
+@choice / option / preference / selection /choosing@|@roghainn (m/f) -ean@
+@choose / elect / select / pick@|@tagh (pr pt) a' taghadh (v)@
+@chosen / choice / select / elect@|@taghta (adj+ of tagh)@
+@cinema@|@taigh-dhealbh (m)@
+@circle  / hoop / ring / zone / gyre@|@cearcall  (m) -aill@
+@circle / trip / circuit / cicumference / zone@|@cuairt (f) -e -ean@
+@claim / maintain@|@cùm a-mach@
+@clan / kin / kindrid / nation / race / surname@|@cinneadh (m) -idh -idhean@
+@class (course@|@clas (m) -aichean@
+@claw / club-foot / paw /@|@spàg (f)@
+@clay / dust / body / being@|@crèadh (f) /crè /criadh -a@
+@clean / pure / fine / grand / bright@|@glan (v) -aine@
+@clean sweep /@|@lom-sgrios (m)  -sguabadh@
+@clear / bright@|@soilleir (adj)  -e@
+@cleft / fissure / gash / rift@|@sgor (m) -oir -an@
+@clever / brave / heroic / active / hardy@|@tapaidh (adj) -e@
+@climbing / ascending@|@dìreadh (m+vn) -idh (dìrich)@
+@climbing / scaling / strife / labouring /struggle@|@streapadh (m) -aidh@
+@clink / tinkling / motion / tick@|@gliog (m) -a -an@
+@clip / crop / cut / detruncate / shave / shear@|@beàrr (v) bearradh@
+@clipping / cutting / cropping / shaving / shearing@|@bearradh (m+vn)-aidh - aidhean@
+@clock@|@gleoc (m) -a -an@
+@clockwork@|@obair-uaireadair (f)@
+@close / shut@|@dùin (v) dùnadh@
+@cloth / tweed / press (prnt) / print / type@|@clò (m) -tha -thean -itean@
+@clothes@|@aodach (m)@
+@cloud@|@riolainn (f) -e -ean, sgòth (f)@
+@cloud / cloudy@|@sgòth (f) -ach -achan@
+@cloud / hue@|@neul / neòil (m)@
+@cloud / hue / faint@|@neul (m) neòil@
+@cloudy@|@roilinneach (adj), sgòthach (adj)@
+@clutch / hold / custody / grasp / gripe@|@greim (m) -e -eannan@
+@cock / cockeral@|@coileach (m) -ich@
+@cogent / strong / robust / stalwart / substantial@|@làidir (adj) -e@
+@coil / halo / reel@|@cuibhle (f)@
+@cold / coldness@|@fuachd (m)@
+@college@|@colaiste (f)@
+@colour@|@dath (m)@
+@colour / hue / tincture@|@lì (f) / lìthe / lìthean@
+@column / pillar / reed / stalk / sceptre@|@colbh (m) /cuilbh -an@
+@comb / cud / jaw@|@cìr  (f) -e -ean@
+@come / come along with me / come to me@|@trobhad (thig+you)@
+@come here@|@thigibh an-seo! (sing) w/ tu@
+@come now! / now! now! / tut! tut!@|@ud! ud! (interj)@
+@comedy@|@comadaidh (m) -ean@
+@comfort@|@cofhurtachd (f)@
+@comfort / joy / light / delight@|@sòlas (m)@
+@comfortable@|@cofhurtail (adj) -e@
+@comfortable /@|@comh-fhurtachail (adj) -e@
+@comfortable / cosy / secure / snug@|@seasgair (adj) -ar -e@
+@comfortable / easily / accomplished@|@cothromach (a) aiche@
+@comfortably@|@gu cothromach@
+@coming / arrival@|@teachd (m)@
+@coming / arriving@|@tighinn (irr v) see thig@
+@commander / chief / head / leader /principal /bos@|@ceannard (m) -aird - an@
+@comment / word / remark / phrase@|@facal (m) -ail / faclan@
+@commitment / eagerness / warmth / zeal@|@dealas (m) -ais@
+@commoner@|@ìslean (m)@
+@company / firm@|@companaidh (f) e -ean@
+@competition@|@co-fharpais (f)@
+@complainer / mourner / wailer@|@acainear (m) -ir@
+@complaining / grumble / moaning@|@gearan (m) -ain -an@
+@complaint / accusation / grumbling@|@casaid (f) -e -ean@
+@computer@|@coimpiutair (m) -air -an@
+@computing@|@coimpiutaireachd (f)@
+@conceal / hide / veil@|@ceil (v) ceiltinn@
+@concealment / secrecy / residence / waulking board@|@cleith (f) -e -ean@
+@concerning  her@|@m' a déidhinn (phr)@
+@concerning him@|@m' a dhéidhinn (prep)@
+@concerning them@|@m' an déidhinn (phr)@
+@concerning this@|@mu mo dhéidhinn (phr)@
+@concerning us@|@m' ar déidhinn (phr)@
+@concerning you (plr/frml)@|@m' ur déidhinn (phr)@
+@concert@|@cuirm-chùil (f)@
+@confess@|@dh' aidich (past aff)@
+@confess / admit / acknowledge / registration@|@aidich (v) -eachadh@
+@confess / own / acknowledge / admit@|@aidich (v) ag aideachadh@
+@confidence / hope / trust / reliance@|@earbsa (f)@
+@congratulations (sing / plr)@|@meal do/ ur naidheachd@
+@conquer / success / victory@|@buaidh (v) -e -ean -dheanan@
+@conservationists@|@luchd-glèidhteachais (m)@
+@conserve /  deposit / hoard / stow / treasure@|@taisg (f) tasgadh@
+@considered / observed / watched / ascertained@|@beachdaichte (adj)@
+@constant / punctual / precise / minute /@|@mionaideach (adj) -eiche@
+@contain / confine@|@cúm a-staigh@
+@content / drift / essence / meaning / purport@|@brigh (f)@
+@continual@|@daonnanach  (adj) -aiche@
+@continuing / following / succeeding@|@leantainn (m) / leantail@
+@convention / custom / practice / usage@|@gnàth (m) -an -annan@
+@conversation / chat / discourse / discussion@|@comhradh (m) -aidh@
+@conversation / company@|@conaltradh (m) -aidh@
+@conversation / interview / speech@|@agallamh (m) -aimh -adh@
+@cook@|@còicaire (m) -an@
+@cool@|@direach sgoinneil@
+@cool (temp) / crisp / fresh@|@fionnar (a) -aire -a@
+@copy /@|@lethbhreac (m) -an@
+@corner@|@oisean (m) oisinn -ein -an@
+@corporation / society / company@|@cullach (f) -aich@
+@correct / rectify / put right / mark@|@ceartaich (v)@
+@correcting / correction (act of ...) rectifying@|@ceartachadh (m) -aidh -aidhean@
+@corrections@|@ceartaichean (plr)@
+@costly / expensive / dear@|@daor (adj) daoire@
+@council@|@comhairle (f)@
+@counsel@|@comhairle (f)@
+@count /  calculate / number / enumerate@|@cunnt (v) -adh  -as -ais@
+@counter@|@bhathar-bhog (m) -bhùird@
+@counting / act of accounting / reckoning /@|@cunntas (m) -ais -an@
+@countless / innumerable / unnumbered@|@dha-rireamh (neg pref)@
+@country / countryside@|@dùthaich (f) dùthcha / -nnan@
+@cousin (f)@|@nighean-piuthair-athair (f)@
+@cover / cloak / sheet / mat@|@brat (m) -a -an@
+@cover / clothe / dress / shelter@|@còmhdach (m) -aich -aichean@
+@covered / clothed / dressed / sheltered@|@còmhdaichte (pst tns)@
+@covering / shading / obscuring / sprinkling@|@sgàileadh (m) -eidh@
+@cow@|@bó / bà (f)@
+@cow / steer@|@mart (m) / mairt@
+@cowboy@|@balach-cruidh (m), cuallaiche (m)@
+@cracked / crazy@|@craicte@
+@crawl / sneak / grovel / creep@|@snàig (v)@
+@creation / creature / forming / inventing@|@cruthachadh (m) -aidh@
+@credence / credit / trust@|@creideas (m) -eis@
+@credit / character / praise / respect / fame@|@cliù  (m)@
+@creel / basket (lrg) / chest@|@cliabh (m) clèibh@
+@crest / apex / crown / summit / tip / zenith@|@bàrr / barra / barran (m)@
+@criterion / standard / yardstick@|@slatan-tomhais (f)@
+@crofter / peasant@|@croitear (m) -eir -an@
+@crooked / curved / bent / not straight / wicked@|@fiar (adj) -a@
+@crossword@|@tòimhseachan-tarsainn (m)@
+@crude / raw / uncooked@|@amh (adj) aimhe@
+@cry / call /shout@|@glaodh (m) -oidh -an@
+@cry to stop horse / incite dog to chase@|@ios! (int)@
+@cup / vial / bowl@|@cupa (m) -ain -an, cupan (m) -ain -an@
+@curling (game)@|@crolaidh (m)@
+@curmudgeon@|@sprainear (m)@
+@curran dearg (m)@|@radish@
+@curtain@|@cùirtear (m) / cùrtair@
+@customary / usual / habitual@|@cleachdadh (a+vn) -aiche / a'@
+@cut@|@geàrr, gearradh (v)@
+@cutting / paring / slice (shaving)@|@sliseag (f) -eige -an@
+@damnable@|@damaichte (adj)@
+@damp / marsh / swamp / bog@|@bog (m) buig@
+@danger / peril / crisis / jeopardy@|@gàbhadh (m) -aidh -aidhean@
+@dangerous / doubtful / hazardous@|@cunnartach (adj) -aiche@
+@dangerous / fearful / terrible / severe / perilous@|@gàbhaidh (adj) -e@
+@dark@|@dorch (adj) / dorcha@
+@darkness@|@dorchadas (m) -ais@
+@dastardly / mean-spirited /cowardly /mean/ miserly@|@spìocach (adj) -aiche@
+@daughter-in-law@|@nighean-cèile (f)@
+@dawn / early / soon@|@moch (m)@
+@day@|@dé (m)@
+@dead /@|@marbh (m) -irbh@
+@deaf person@|@bodhar (m) -air@
+@deal with / negotiate with /transact business with@|@dean gnothach ri (phr)@
+@death@|@bàs (m) bàis@
+@debate / dispute / argument / discussion@|@deasbad (m) -aid -an@
+@deceit / fraud / treachery / wrong@|@foill (f) -e@
+@deceit / treachery / wiles@|@cealg (f) -an ceilge@
+@deceive / abuse / delude / disappoint / charm@|@meall (v) -adh -aidh@
+@December@|@Dùbhlachd (f)@
+@declare / inform / relate / recount / tell@|@innis  (v)  innse@
+@decline / bend / deflect / droop / incline / tilt@|@aom (v) -adh@
+@deed / action / act@|@gniomh (m) -a -an -annan@
+@deed / action / office / work@|@gnìomh (m) -a -an -anan mharan@
+@deep / profound@|@domhainn (adj) -ne@
+@deep sigh or sob@|@osann (m) -ainn@
+@deer@|@fiadh / fèidh (m)@
+@deficiency / flaw / fault / lack / need@|@easbhaidh (f) -e -ean@
+@degree (temp.) / point / dot@|@puing (f) -e -ean@
+@delay / finished  / meeting / attempt / delay@|@dàil (f) dàlach / dàlaichean@
+@delay / hinder / rest / respite / want / trouble@|@éis (f) -e -an@
+@delegation / candidate@|@luchd-tagraidh (m)@
+@deliberate / by design / on purpose@|@a dh'aon(a) air gnothach (phr)@
+@demonstration@|@fios-dhearbhadh (m) -aidh@
+@dentist@|@fiaclair (m)@
+@depart / leave@|@imeachd / imich (v)@
+@deplorable / miserable / abject / poor / sad@|@truagh (adj) -aighe@
+@depositor@|@taisger (m) -eir -an@
+@desert / abandon / come to nothing / fail@|@diobair  (v)  -bradh@
+@desire / inclination/ pleasure / will / wish@|@toil (f) -e@
+@desire / will / pleasure@|@àill (f)@
+@desire / will / pleasure / inclination / gout@|@togar (m) -air@
+@desire / wish / passion / coveting / desiring@|@togradh (m) -aidh -aidhean@
+@desiring / eagerly wishing@|@togairt (f) a' togairt@
+@desirous / fond of / addicted to / enthusiastic@|@déidheil (adj) -eala@
+@desisting / ceasing / leaving off / stopping@|@sgur (m)@
+@despite@|@a dh'aindeoin (compound prep)@
+@despite / in spite of / irrespective of@|@aindheoin (prep gen) dh'-@
+@destiny / fate / providence@|@dàn (m) dàin@
+@destroyer / demolisher@|@sgriosadair (m) -ean@
+@destroying / ruining / pillaging@|@sgriosadh (m) -aidh -aidhean@
+@destructive / ruinious / wasteful / slippery@|@sgrìosail (adj) -e@
+@detect / find out / get out /@|@faigh a-mach@
+@devise / invent / cntrive / frame@|@a' tùradh (v)@
+@devising / inventing / turning / returning@|@tionnsgnadh (m) -aidh@
+@dew / fog / mist@|@cruinneach (f)@
+@dialect / brogue /@|@dualchainnt (f) -e -ean@
+@dialogue / conference / symposium@|@co-lahairt (f)@
+@diarrhoea@|@Galar-buinneach@
+@die / expire@|@eug (v) / eugh / eugadh@
+@die / expire / pass away / wither@|@bàsaich (v) a'bàsachadh@
+@difference / discrepency /@|@diofar (m) -air@
+@difference / divorcing / distance / separating@|@eadar-dhealachadh (m) -aidh@
+@different / differentiated / variegated@|@diofraichte (adj) -@
+@difficult@|@cur (adj)@
+@difficult / complicated / arduous / hard / sorry@|@duilich (a) duilige / dorra@
+@difficult / dogged / hard / intolerable / gruff@|@doirbh (adj) / dorra -e@
+@difficulty@|@doribheachd (f / ind)@
+@difficulty / dilemma / hardship /@|@càs (m) -àis -an@
+@difficulty / entreaty / narrowness / distress@|@cuinge (f)@
+@dig / bore / excavate / quarry /@|@cladhaich (v) -ach -achadh@
+@digger@|@cladhaichear (m)@
+@digital clock@|@gleoc figearail (m)@
+@diligent / industrious / perservering / pushing@|@oidhireach (adj)@
+@diligent searching / act of searching diligently@|@geur-rannsachadh (m) -aidh@
+@dingy / dirty / filthy / foul / soiled / sordid@|@salach (adj) -aiche@
+@dining room@|@seòmar-biadhtachd (m)@
+@dinner@|@dìnnear (f) -ier -an@
+@direct / exactly / just / straight@|@direach (adv)@
+@direct / steer / lead / conduct@|@stiùir (v) a'stiùireadh@
+@dirgest / set in order / arrange@|@eagaraich (v) ag eagarachadh@
+@dis / de  (eng. equiv)@|@dì / di@
+@disappointment@|@mealladh-dùil (m)@
+@discipline / learn / examine / learning /educating@|@foghlam (m) -aim@
+@disconsolate / miserable / sad / sorrowful /rueful@|@brònach (adj) -aiche@
+@discovery / appearance / exposure / showing@|@nochdadh (m) -aidh@
+@disease / distemper / malady@|@galar (m) -air -an sm@
+@disencumber / unload@|@dì-luchdaich (v)@
+@display / disclose / publish / show / unfold@|@foillseach (v) -eachadh@
+@displease/ dissatisfy@|@mì-thoilich (v)@
+@displeased / dissatisfied@|@mì-thoilichte (adj)@
+@displeasure / grudge / indignant@|@diomb (m)@
+@dispraise / abusing / disparaging / slander@|@di-moladh (m) -aidh@
+@dispute / confusion@|@upraid (f) -e -ean@
+@disrespectful / ill-bred / unmannerly@|@mì-mhodhail(adj) -e@
+@dissatisfaction / discontentedness@|@mì-tholeachas (m) -ais@
+@dissolve / melt / thaw / fuse / run / smelt@|@leagh (v) -adh@
+@distance / duration / all of / the length of@|@fad (m) / faide@
+@distance / journey / tour / speed@|@astar (m) -air -an@
+@distillery@|@taigh-staile (m)@
+@distinguished / famous / illustrious / notable@|@ainmeil (adj) -e@
+@distorting / act of distorting@|@spàgadh (m) -aidh@
+@distress / oppression / outrage / bother@|@sàrachadh (f) -aidh -aidhean@
+@distrust / suspicion / jealousy / non-reliance@|@an-earbsa (f)@
+@ditch / moat / trench / insurmountable /difficulty@|@staing (f) -e -ean@
+@diversion / wit / joking (ri fearas-cuideachd)@|@fearas-chuideachd (f)@
+@do / make@|@dèan (v) -amh@
+@do / make / carry out / construct / produce@|@dèan (irreg vrb) / dèanamh@
+@doctrine / teaching@|@oileanachd (m) -aich@
+@dog-tired@|@cho sgìth ris a' chù (phr)@
+@don’t mention it@|@’s e do bheatha (phr)@
+@donate@|@thoir tabhartas (v)@
+@door / door valve / shutter@|@còmhla (f) -aichean@
+@doubt / uncertainty / hesitation / suspense@|@teagamh (m) aimh -an@
+@doubtful / doubting / uncertain / suspicious@|@teagamhach (adj) -aiche@
+@down / downwards@|@sios  (adv)@
+@dozen / certain quantity of yarn@|@dusan (m) -ain@
+@drag / tug / pull@|@dragh (v) -adh@
+@draught beer@|@lean-baraille@
+@draw@|@dèan dealbh@
+@drawn / pulled / enticed / distilled@|@tarraingte (pt pt of tarraing)@
+@dreadful / unbecoming / uncomely / unseemly@|@mì-chiatach (a)@
+@dream / reverie / vision@|@bruadar (m) -air -an, bruadar (v) a'bruadair -daradh@
+@dreaming / act of dreaming@|@brudarach (m) -aidh@
+@dress@|@dreasa (f) -aichean@
+@dress / clothe / adorn / dress up / embellish@|@sgeadaich (m) -achadh@
+@dressed / adorned@|@sgeadaichte (pp)@
+@drink / booze / imbibe / lap@|@òl (v)@
+@drink / draught / liquor / potion / refreshment@|@deoch (f) -an dighe@
+@drive@|@draibh (v) -eadh@
+@drive / propel@|@iomain (v)@
+@driving / shinty@|@iomain (f) -e@
+@drop@|@boinne (f) -ean@
+@drop / fall  / lapse / tumble / sag@|@tuit (v) -eam@
+@drown / immerse / quench / extinguish / slake@|@bàth (v)@
+@drunk@|@air mhisg@
+@drunken / intoxicated / drunk@|@misgeach (adj) -eiche@
+@drunkeness / inebriation / intoxication@|@daorach (f) - aich@
+@due / worth / value / rate@|@fiach (m) fèich / fiachan@
+@due to / since / during@|@ri linn (conj)@
+@dull / stupid / stubborn / cold / attentive /surly@|@dùr (adj) -ùire@
+@dulse@|@duileasg (m) -isg / fithreach@
+@dumb / mute / quiet / speechless@|@balbh (adj) bailbhe@
+@dumb / mute / silent / quiet / speechless@|@balbh (adj) -ailbhe@
+@during / throughout@|@rè (prep + gen)@
+@during / when@|@linn (prep+g) ri linn@
+@dusky@|@dorch (adj) / dorcha@
+@dust@|@dus (m) duis / dust@
+@dust / fine particles@|@dust (m)@
+@dust / ground / earth@|@dùslach (m) -aich@
+@dwarf / leprechaun / pigmy@|@luchorpan (m) -ain@
+@each / every@|@gach (adj)@
+@each hour@|@gach uair den ghleoca@
+@ear@|@clua(i)s (f) -e -ean@
+@early@|@madainneach (adj) -eiche, tràth (adj/adv)@
+@early ripeness / prematurity@|@moch-abachd (f)@
+@early rising@|@moch-éirigh (f)@
+@earn / win / gain / acquire@|@coisinn (v) a' cosnadh@
+@earnest expectation / hope / longing@|@fiughair (f) -e@
+@earning / purchasing / hoarding / pondering@|@cnuasach  (m) -aich@
+@earnings / work / employment@|@cosnadh (m) -aidh -aidhean@
+@earth / and / soil@|@talamh (m) -an -nan -anta@
+@earth / beginning / bottle@|@ùrach (m) -aich@
+@earth / mould / soil@|@ùir (f) -e ùireach / ùirach@
+@earth-nut  {talmhainn} / peanut@|@cnò-thalmhainn (f) -than@
+@east@|@ear (f)@
+@Easter@|@càisg (f) -e / càsg@
+@Easter Sunday@|@Dòmhnas Càsg@
+@easy / facile / simple / of easy accomplishment@|@furasta (adj) / fasa@
+@eat@|@ith (v) -e -eadh@
+@echo@|@mac talla (m)@
+@ecouragement / inducement / incentive / stimulus@|@brosnachadh (m) -aidh -aidhean@
+@edge / border / brink / fringe / ledge / periphery@|@oir (f) -e -ean@
+@edited / ordered@|@eagaraichte (pp)@
+@edition@|@eagran (m) -ain@
+@educating / educated / instructing / well-bred@|@oileanach (adj) -aiche@
+@effect / avail / consequence / efficacy@|@éifeachd (f)@
+@effectual / efficient / of avail@|@éifeachdach (adj) -aiche@
+@egg@|@ugh (m) uighe -ean@
+@eight people@|@ochdnar@
+@either / more@|@nas motha@
+@either way / whatever the case@|@co-dhuibh (cmpnd)@
+@elbow@|@uilnich (v) -eachadh@
+@electricity / latch@|@dealan (m) -ain@
+@elegant / neat@|@snasail (a) -e / snasmhor@
+@elevate / raise aloft / heighten / increase /exalt@|@àrdaich (v) -achadh@
+@elk / deer / stag@|@os-allaidh (m)@
+@eloquence / elocution / phraseology / terminology@|@briathrachas (m) -ais@
+@e-mail@|@post-dealain (m)@
+@emphasis / importance / weight / pressure@|@cudrom (m) -oim@
+@empty / void  / poor / in want  / unoccupied@|@falamh (adj) -aimhe@
+@end / conclusion / limit / boundary / border@|@crìoch / crìche (f) -an@
+@end / rear / stern / finish / conclusion@|@deireadh  (m) -ridh -ridhean@
+@end-of-term@|@deireadh-teirme (m)@
+@enemy / adversary / foe / antagonist@|@nàmhaid (m) -imhdean / nàimhad@
+@engineer@|@einnseanair (m) -ean@
+@engineer / mechanic@|@innleadair (m)@
+@engineering (mechanical)@|@einnseanaireachd (f)@
+@enigma / puzzle / parable / riddle@|@tòimhseachan (m)@
+@enjoy / relish@|@meal (v) -tainn -adh@
+@enjoying / enjoyment / possessing /act of enjoying@|@mealtainn (m) (pr pt of meal)@
+@enjoyment / pleasure / relish@|@tlàchd (f)@
+@enough@|@gu leòr (adv)@
+@enough / more / surplus / preponderence@|@barrachd (f)@
+@enough/ sufficient / too much / superfluity@|@cus (m) / cuis@
+@enslavement / servitude / servility / addiction@|@tràillealachd (f) -achd@
+@enter / begin@|@inntrig (v) -eadh@
+@entirely / altogether@|@gu tur (adv)@
+@envy / grudge at another's success@|@farmad (m) gabh farmad ri@
+@equal to un / in@|@dha (neg pref)@
+@error / inaccuracy / mistake / lapse / wrong /slip@|@mearachd (f) -an@
+@essence / juice / substance /meaning / energy@|@blàdh (m) -aidh@
+@estimation / opinion / surmise / conjecture@|@barail (f) -e@
+@etc)@|@clas (m) -aichean@
+@event / occurance / happening / adventure@|@tachartas (m) -ais -an@
+@ever / never@|@riamh / a-riamh (adv) pst tns@
+@evil / wickedness@|@olc (m) uilc@
+@examine / explore / look / search / research@|@rannsaich  (v) -achadh@
+@examining / review / study / inquest / research@|@sgrùdadh (m+vn)- aidh -aidhean@
+@example / instance / precendent / sample@|@eisimpleir (f) -ean@
+@excellent / very good@|@math dha-rìribh (phr)@
+@excuse me@|@gabh mo leisgeul (phr), gabhaibh mo leisgeul (phr)@
+@exhausted / frustrated / beaten / conquered@|@sàraichte (pt) / sàraich@
+@exhausted / wearied / worn / fatigued@|@claoidhte (adj/pst tns)@
+@exhibition / display / show@|@taisbeanadh (m) -aidh -aidhean@
+@existence / life / being@|@bith (f) -e@
+@expect / hope@|@dùil (f) -e -ean@
+@expectant@|@fiughaireach@
+@expensive / extravagant / profuse / prodigal@|@cosgail (adj) costail / -e@
+@experience / fashion / usage / practice@|@cleachdadh (m) -aidh -aidhean@
+@experiencing / dossier / facts / information@|@fiosrachadh (m & vn) -aidh@
+@expert / clever / smart@|@innidh (adj)@
+@explain / account for / annalyse / interpret@|@minich (v) -eachadh@
+@extent / grade / position / degree / stage@|@ìre (f) ìrean / ìreachan@
+@extinguish / quench@|@smàl (v) -adh@
+@exuberant / hasty / rapid / rash / impetuous@|@bras (adj) -aise@
+@eye / look / glance / expect@|@sùil (f) sùla / sùilean@
+@eyelash / eyelid / prose / exposition@|@rosg (m) ruisg / roisg / -an@
+@fable / legend / story / tale / yarn@|@sgeulachd (f) -an@
+@face / countenance / appearance / aspect / favour@|@gnùis (f) -e -ean@
+@face / facade / countenance / front / cheek(y)@|@aghaidh (f) -e -ean@
+@facility / facilitation / easiness / ease (doing)@|@furasachd (f)@
+@faggot (wood bundle)@|@cual (f) -ail -tan -tean@
+@faint / fainting / weary / fatigue / languid@|@fannachadh (m) -aid@
+@faint / languid / weak / feeble / helpless /infirm@|@fann (adj) fainne -a -aich@
+@fair / dry weather@|@turadh (m) -aidh@
+@fairy / elf@|@sìthiche (m) -ean@
+@faithful / saunch / devout / loyal / true@|@dìleas (adj)@
+@falling / fall / degeneracy / laspe / tumble@|@tuiteam (m)@
+@fare / freight / carriage@|@faradh (m) -aidh -aidhean@
+@farinaceous /mealy@|@mineach (adj)@
+@farmer@|@tuathanach (m)@
+@fat / plump / fleshy / greasy / gross / great@|@reamhar (adj) -mhra@
+@fat / plumpness / fatness / mirth / joy / jest@|@sult (m) -uilt@
+@father / sire / progeniator@|@athair (m) /athar /athraichean@
+@Father Christmas / Santa Clause@|@Bodach na Nollaig@
+@fault / blame / wrong doing@|@coire (f) -eannan@
+@fault / harm@|@cron (m) -oin@
+@favour / grace@|@fàbhar (m) -air -an@
+@favourable / kind / disposed to befriend@|@fàbharach (adj) -aiche@
+@fear / fright@|@eagal (m) -ail@
+@feast / banquet / treat / reception@|@cuirm (f) -e -ean@
+@feather / fin@|@ite (f) -an@
+@February@|@Gearran (m)@
+@feeble / frail / weak /faint / defenceless@|@lag (adj)@
+@feeding / nourishing / fattening@|@biadhadh (m) -aidh@
+@feel / sense@|@fairich (v) -achadh -eachdainn@
+@feeling / sense / sensation@|@faireachdainn (f) -aidh@
+@fellowship / assemblage / friendship / intercourse@|@caidreabh (m) -reibh@
+@fem. person or object@|@tè (ind pron f)@
+@female / spawning fish@|@ban-iasg (f)@
+@female / woman / feminine@|@boireann (m) -ach -aich@
+@fence / hedge / partition@|@callaid (f) -e -ean@
+@festival@|@fèis (f) -e -ean@
+@festival / market / fair / sale@|@féill (f) -e -ean - tean@
+@field / battlefield@|@blàr (m) -air -an@
+@fifth / province@|@còigeamh (m)@
+@file@|@faidhl (m) -ichean@
+@file / papers / meeting@|@còmhlachadh (m)@
+@fill / replenish@|@lìon (m) -adh@
+@filling / act pf filling / replenishing / rising@|@lìonadh (m) -aidh@
+@finally / at last@|@deòidh (adv)/fa /fa dheaghaidh@
+@find / discover / trace / search@|@lorg (v)@
+@finding / getting@|@faotainn (f) alternate ver. fa@
+@fine / good / grand / well / pretty@|@deagh (adj)@
+@fine / splendid / decent / excellent@|@gasda (adj) gasta, gasta (adj) gasda@
+@finger / digit / branch / knot@|@meur (m) meòir -an@
+@fir / pine forest@|@giùthsach (f) -aich@
+@fir / pine tree@|@craobh-ghiuthais (f)@
+@fire escape@|@tèarnadair bho theine (m)@
+@firefighter@|@smàladair (m) -ean@
+@first / primary / initial / principal@|@ciad (a)@
+@first time@|@a' chiad uine@
+@fish@|@iasg (m) èisg@
+@fisherman / angler@|@iasgair (m) -ean@
+@fishing rod@|@slat-iasgaich (f)@
+@five people@|@còignear@
+@fix / repair / mend@|@càir (v) càradh -ich@
+@flake / splinter / forefinger / index finger@|@sgealbag (f) -aige -an@
+@flashback@|@ais-shealladh (m)@
+@flax / lint@|@lìon (m) lìn@
+@flesh / meat@|@feòil (f) feòla@
+@flich / steal / pilfer / thieve@|@goid (v)@
+@floating / buoyancy@|@fleòdradh (m) -aidh@
+@flood / deluge / heavy rain / torrent@|@tuil (m) -eim -an@
+@flower / blossom / bloom / foliage / hue@|@blàth (m) -aith -a@
+@flying / act of flying / fluttering@|@itealaich  (f)@
+@fold / plait@|@fill (f) -ean@
+@Fold of the leaf of a book / Distortion of a shoe@|@spàg (f)@
+@folded / plaited / implied / plied@|@fillte (a)@
+@folder / bundle / parcel / pack@|@pasgan (m) -ain@
+@folk / kindred / people@|@muinntir (f) -e -ean@
+@follow / dog / ensue / continue / pursue /@|@lean (v) -tainn -mhainn -tail@
+@follow / pursue / chase / adhere / trace@|@a' leanmhainn (pr pt of lean)@
+@following / pursuing / act of following@|@leanmhainn (m)@
+@fond of ease / effeminate / unmanly@|@soisealta (adj)@
+@food / meal@|@biadh (m) / bidh -an@
+@fool / clown / idiot / loony / mug@|@amadan (m) -ain@
+@foolish / silly / daft / stupid@|@gòrach (a) -aiche@
+@foolish person / imperfect speaker@|@glaomar (m) -air -an@
+@foolish woman / silly goose / harlot / idiot (fem)@|@òinseach (f) -ich -ichean@
+@foot (body & length)@|@troigh (f) -e- ean@
+@for  / towards / till / in order that@|@chum (prep) / a chum@
+@for (the) reason@|@do bhrìgh 's (conj)@
+@for / because@|@oir (conj)@
+@for / because / for the sake of / wanting to /@|@airson (prep)@
+@for / because of  / on account of@|@son (prep.impr/adv) air son@
+@for / for the sake (of)@|@air son (compound prep)/airson@
+@for / in order that/ for the purpose of /therefore@|@a chum (prep)@
+@for / to / unto@|@do (prep+)@
+@for / to her or to it@|@dhì (prep pron) -ìse@
+@for / to him or to it@|@dha (prep pron) -àsan@
+@for / to me@|@dhomh (prep pron) -sa@
+@for / to them@|@dhaibh  (prep pron) -san@
+@for / to us@|@dhuinn (prep pron) -e@
+@for / to you@|@dhuibh (prep pron) -se, dhut / dhuit (prep pron) -sa@
+@for fear / lest@|@air eagal 's (conj)@
+@for heaven's sake {on what you ever saw}@|@ach na chunnaic thu riamh (phr@
+@for myself / for my own part / as for me@|@air mo shon fhéin (phr)@
+@for the sake (of) / because (of)@|@air sgàth (compound prep)@
+@for the sake of@|@air sgàth 's (prep)@
+@force / violence / compulsion / hardship@|@éiginn (f)@
+@forest@|@coille  (f)@
+@forever / ever@|@gu bràth (adv)@
+@forget (about)@|@dìochuimhnich (v) -eachadh@
+@forgetful / absentminded / unmindful@|@dìochuimhneach (adj)@
+@forgetfulness@|@dìochuimhe (f)@
+@form / fashion / manner / usage / ceremony@|@furm (f) -e -ean@
+@form / figure / appearance / effigy / shape / mold@|@cruth (m) -a -an -annan@
+@form / figure / image / shape@|@dreach (m) -a -an@
+@formed from bean / female@|@ban- / bana- (pref)@
+@fort / fortress / heap@|@dùn (m) dùin@
+@forth / out / forwards@|@a-mach (adv)@
+@fortnight@|@ceala-deug (f), cola-deug (f) /ceala-@
+@fortunate / lucky@|@fortanach (adj) -aiche@
+@fortunate / lucky / prosperous@|@sealbhach (adj) -aiche@
+@forty (new style of counting)@|@ceathrad (m) -aid -an@
+@forward@|@air adhart (adv)@
+@forward(s) / onward(s) / forth@|@adhart (adv) / air adhart@
+@foundation / base / authority / confidence / trust@|@bunachar (m) -air -an@
+@fourth@|@ceathramh (a)@
+@fragrant@|@cùbhraidh (adj)@
+@free / gift / for nothing / without payment@|@asgaidh (adv) an-asgaidh@
+@frequently / often@|@gu tric (adv)@
+@fresh / new / recent / vigorous / youthful / novel@|@ùr (adj) / uire@
+@fresh water@|@bùrn (m)@
+@Friday@|@Dihaoine (m)@
+@friend / kinsmen / ally / couple@|@caraid (m) càirdean -e -ean@
+@friendly / kind / tender / related@|@càirdeil (adj) -e@
+@friendship / kinship / relationship@|@càirdeas (m) càirdeis@
+@from / from off / down from@|@bhàrr (prep) /far@
+@from / of / off / out of@|@à  (prep) /às@
+@from A  B  C {the 1st 3 letters}see aibidil@|@aibirsidh@
+@from early to dark@|@bu moch gu dubh (phr)@
+@from early to late@|@bho mhoch gu anmoch (phr)@
+@from her / it@|@'uaipe (prep pron) bhuaipe, bhuaipe (prep pron)@
+@from him@|@bhuaithe (prep pron) -san@
+@from him / it@|@'uaithe (prep pron) bhuaithe@
+@from me@|@'uam (contr) bhuam, bhuam (prep pron) -sa@
+@from them@|@'uapa (prep pron) bhuapa, bhuapa (prep pron)@
+@from time to time / intermittent(ly)@|@bho àm gu àm (adv) /o àm gu àm@
+@from us@|@'uainn (prep pron) bhuainn, bhuainn (prep pron)@
+@from you@|@'uat (prep pron) bhuat, bhuat (prep pron) -ithe@
+@from you  (plr/fml)@|@bhuaibh (prep pron)@
+@from you (plr/fml)@|@'uaibh (prep pron) bhuaibh@
+@front room / ante-chamber@|@seòmar-aghaidh (m)@
+@frosty@|@reòta (adj) -aidh@
+@frown / sullen look / knock / sudden shove@|@gnog (m) -oig -an@
+@frowning / sulky / gloomy@|@gnoigeach (adj) -eiche@
+@fulfilled / performed / completed@|@comhailteach (adj)@
+@full / complete@|@làn (adj)  làine@
+@full / roomy / capacious@|@luchdmhor (a) -oire@
+@full-time@|@làn-ùine (adj)@
+@fun / jest / joke / joking@|@fealla-dhà (m)@
+@funeral / burial@|@tiodhlacadh (m) -aidh@
+@future-tense@|@trath-teachdail@
+@Gaelic spelling of bucket / pimple / blotch@|@bucaid (f) -ean@
+@Gaelic spelling of snack@|@snaoic (f)@
+@gaff / hip-bone / hoe@|@croman (m) -ain@
+@Gàidlig music & Arts Festival@|@Mòd  (m)@
+@gain / profit / win / aquire@|@buannacih (pr pt) a'buannachd@
+@gallery@|@sràid-sheòmar (m)@
+@gamble@|@dèan cèarrachas@
+@gambler@|@cèarraiche (m) -ean@
+@gaming@|@cèarrachd (f)@
+@gaming / gambling@|@cèarrachas (m) -ais@
+@garden / habitation / court / stall@|@lios (f) / lise -a -an@
+@garden / yard / enclosure@|@garradh (m) -aidh-aidhean@
+@gardening@|@a’ gàirnealaireachd@
+@garlic@|@creamh (m) -a@
+@gate / port@|@geata   (m)  -aichean  -chan@
+@gathering / collection / meeting / cluster@|@cruinneachadh (m) -aidh /-ean@
+@gathers / collects / ruminates / investigates@|@cnuasach (adj) -aiche@
+@gave / brought@|@thug (past/indep.) / thoir, tug (pst tns/dep.) / thoir@
+@gen sing of bean@|@mnà (gen sing) mnatha -of bean@
+@gentleman / nobleman@|@uasal (m)@
+@gently@|@gu foighidneach (adv)@
+@Germany@|@Germailt (f) A' Ghermailt@
+@get / obtain / receive / fetch / find / procure@|@faigh (v) -inn -eadh@
+@get better soon@|@faigh na's fearr (phr)@
+@get lost / go astray@|@rach air chall (v) dol air ...@
+@giant / champion / mole catcher@|@famhair (m) -ean@
+@gift / offering / tribute / remittance / present@|@tabhartas (m) -ais@
+@give / bestow / grant / take away@|@tabhair (v. irreg) of thoir@
+@give / bestow / take / bring@|@thoir (irrg v) / toirt@
+@giving / taking / bestowing@|@toirt  (f &vn) thoir@
+@glacier@|@déigh-shiubhail (f)@
+@glad / joyful / festive / hospitable / lively@|@meadhrach (adj) -aiche@
+@glass@|@glainne (f) -achan -nichean@
+@glen@|@gleann  (m)@
+@gloomy / sad@|@dùdlaidh (adj) -e@
+@glove / mitten@|@miotag (f) -aige -an@
+@glove / mitten / gauntlet@|@làmhainn (f)  -ean@
+@glue@|@glaodh (m) -oidh@
+@go@|@téid (fut dep form) rach@
+@go  (past irreg. & neg)@|@deach (pst tnse rach) -aidh@
+@go  / walk / stroll / depart / fly / vanish@|@suibhail (v) a' siubhal@
+@go (imper only)@|@theirig (def v)  theirig@
+@go (will)@|@thèid (fut tns) of rach@
+@go / begone / depart / retire@|@falbh  (v) a' falbh@
+@go / depart / depart@|@imich (v) imeachd@
+@go / go away@|@thalla (def v) imperative only@
+@go / proceed@|@rach   (irrg v)  dol@
+@go on / come on / come along@|@suithad!@
+@go round@|@gabh mun cuairt air (phr)@
+@go up@|@gabh suas  (phr)@
+@going / leave / motion / departing / walking@|@falbh  (m)@
+@going / travelling / proceeding / distance@|@dol (m)@
+@going to nought@|@a' dol mu làr (phr)@
+@gold@|@òr (m)@
+@gold / golden@|@òir  (adj)@
+@good luck@|@Gur math a thèid leat / leibh@
+@good-humoured / good-humouredly@|@gu sunndach (adv)@
+@goods / any stuff / substance/ matter/or body@|@stuth (m) -uith -uithe@
+@goose@|@gèadh (m+f) -eòidh@
+@gospel@|@soisgeul (m) -eil@
+@government@|@riaghaltas (m)@
+@government / sovereignty / principality / domain@|@uachdaranachd (f)@
+@governor / rule / landlord / chief / superior@|@uachdaran (m)@
+@graduate / take a step@|@ceumnaich (v) -achadh@
+@grandchild@|@ogha (m) -ichean / -chan@
+@grandfather clock@|@gleoc àrd (m)@
+@grandmother@|@seanmhair (f) -an -ean@
+@graphic display@|@taisbeanadh graificeach   (m)@
+@grasp / bore /@|@rug (pst tns) beir@
+@gratis / free / as a present@|@an-asgaidh (adv)@
+@gratuity / present / donation / gift / boon@|@tiodhlac (m) -aic -an@
+@grave accent@|@sràc-mhall (m)@
+@gravel / grit@|@grinneal (m) -eil@
+@great-grandfather@|@sinn-seanair (m) -ar -ean@
+@great-grandmother@|@sinn-seanmhair (f) -ar -ean@
+@greens / vegetables / pot-herbs@|@glasraich (f)@
+@greeting / salutations / welcome@|@fàilte (f)@
+@grey / grey-haired / blue (silvery)@|@liath (v) -adh@
+@greyhound@|@mial-chù (m) -choin@
+@griddle@|@greideal (m)@
+@grimness@|@gruamachd (f)@
+@grin / gape / yawn@|@braoisg (f) -e@
+@grizzly bear@|@mathan molach (m)@
+@ground (floor & earth) / centre@|@làr (m) -àir -a@
+@ground / bottom of sea / land@|@grian (m) grein@
+@ground floor / earth / ground / motif@|@ùrlar (m) -air -an@
+@group / band / company / staff / body@|@còmhlan (m) -ain@
+@group / band / organization / agency@|@buidhean (f) duidhe -dhinn@
+@guestbook@|@leabhar-aoighean@
+@guilty / at fault / sinful / convict / offender@|@ciontach (adj)@
+@gullet / neck of a bottle /gorge / pit@|@slugan (m) -ain -an@
+@gulp / sip / mouthful of any liquid@|@balgam (m) -aim@
+@gun@|@gunna (m)@
+@habitation / abode / mark / site / ruin@|@làrach (f)@
+@hag / old woman@|@calleach (f) -iche -an@
+@haggis / meat pudding / big-bellied / scrotum@|@taigeis (f) -e -ean@
+@haggis / meat-pudding@|@marag-ghallda (f)@
+@haggis-like / big-bellied@|@taigeiseach (adj) -ean@
+@hail@|@clach-sneachd@
+@half-hour@|@lethuair (f)@
+@hammer@|@òrd (m) ùird -an@
+@hand / handle@|@làmh (f) làimh -an@
+@handiwork@|@obair-làimhe (f)@
+@handsome / lovely / pretty / good-looking@|@brèagha@
+@handy / helpful / of use / beneficial@|@feumail  (adj)@
+@hank / skein@|@iarna (f) -aichean@
+@happen (to) / befall / chance / fall again@|@tuit (do)@
+@happen / come to pass / meet {with} / find@|@tachair (v) a' tachairt@
+@harbour / haven / port@|@cala (m) -achan -aichean@
+@hard-hearted  / callous / stern@|@cruaidh-chridheach  (adj)@
+@hart / stag / buck@|@damh-féidh (g / pl)@
+@harvest-time@|@deireadh-buana@
+@hat@|@ad (f) aide / adan / adaichean@
+@haunch / quarter / quadrant@|@ceathramh (m) -aimh -an@
+@have been (for a long time)@|@air a' bhith@
+@have nothing to do with him@|@na biodh gnothach agad ris (ph@
+@having bad habits / mischievious / vicious@|@droch-àbhaisteach (adj) -iche@
+@head /@|@ceann (m) cinn@
+@headache@|@galar-chinn@
+@headlong@|@an comhair a' chinn (phr)@
+@healthy / sound / unhurt / unbroken  / whole@|@slàn (adj) -àine@
+@heap / mass / flock / pile / rick@|@tòrr (m) -a -an@
+@heap of stones / cairn@|@càrn (m) càirn / cùirn@
+@hear / harken@|@cluinn / cluinntinn (irrg v)@
+@heard (pst tns of cluinn)@|@chuala / cuala (irrg v)@
+@hearing / listening / harkening@|@éisteachd (f)@
+@heart@|@cridhe (m)@
+@hearty / cheerful / courageous / bold@|@cridheil (ad) -eile -eala@
+@heat / hotness@|@teas (m)@
+@heather / heath / ling@|@fraoch  (m) -aoich@
+@heaven / firmament / the skies@|@nèamh (m) -an nèimh@
+@heavy / labourious / difficut / fatiguing@|@trom (adj) truime@
+@heavy / ponderous / weighty / important /momentous@|@cudthromach (adj) -aiche@
+@help / aid / relief@|@cobhair (f) cobhraic@
+@help / assistance / aid@|@cuideachadh   (m)  -aidh@
+@helpful / subsidiary / supportive / ancillary@|@cuideachail (adj)@
+@hen@|@cearc (f) circ / circe -an@
+@hence / out of this@|@ás an seo (adv)@
+@her / it's@|@a (poss adj)@
+@herb / plant / weed / flower@|@lus (m) -uis  -a  -an@
+@herding / tending of cattle /@|@cullach (m) -aich@
+@herdsman / shepherd / cowherd@|@buachaille (m) -ean@
+@here / hither@|@an-seo (adv)@
+@here / this / these@|@seo (pron+int)@
+@hereditary right / imitation of ancestors / nature@|@dualchas (m)@
+@heritage / inheritance / tradition / disposiotion@|@dualchas (m) -ais@
+@hermit crab@|@partan-tuathal (m)@
+@hero / champion / warrior /used to applaud a youth@|@laoch (m) -aoich@
+@herring@|@sgadan (m) -ain@
+@hide / go into hiding@|@rach am falach (int.v)/ dol am@
+@Highlands@|@Gaidhealtachd  (f)@
+@hill / knol / hillock / enimence@|@cnoc (m) cnuic / cnoic@
+@history / chronicle / record / tale / narrative@|@eachdraidh (f) -e -ean@
+@hit / mark / aim / chance / find@|@amais (v) amas / amasadh@
+@hit / strike / beat / crash (into)@|@buail (v) -adh@
+@hoarding / deposit / horde / investment / reserve@|@tasgadh (m+vn) -aidh -aidhean@
+@hobby / past-time / activity / recreation@|@cur-seachad (m) -an@
+@hold / guard / celebrate / keep / maintain@|@glèidh (v) -eadh -eil@
+@holding / witholding / restraining / refraining@|@cumail (f) cumalach@
+@hole / bore / perforate / orifice@|@toll (m) tuill@
+@hollow / dale / narrow valley / dell@|@glac (f) / flaice -an@
+@home (building a ../ he went ..)@|@dachaigh  (adv)@
+@home /@|@dachaigh  (f)  -e  -an@
+@homework@|@obair-dachaigh (f)@
+@honey@|@mil (f) -an / meala (gen)@
+@honeysuckle@|@uillean (f) -inn@
+@honourable / noble / esteemed / respected /fond of@|@miadhail (adj) -e@
+@hope / expectency@|@dòchas (m) -ais -an@
+@hopeful / expectant / sanguine / prespective@|@dòchasach (a) -aiche@
+@horizon / sky line@|@fàire (f)@
+@horn / sounding horn@|@adharc (f) -airc -ean@
+@hospital / infirmary@|@taigh-eiridinn (m)@
+@hotdog@|@ceapaire-isbein (m)@
+@hour / time@|@uair (f) uarach - ean@
+@hour of time@|@uair a thìde@
+@hovercraft@|@bàta-foluaimein (m)@
+@how do you say ...@|@ciamar a tha thu ag ràdh ...@
+@howl /  complaint / loud cry@|@donnal (m)@
+@human@|@daonna (adj)@
+@human hair / locks / ringlets@|@falt (f) fuilt / fuiltean@
+@humidity@|@taisead (m) -eid@
+@humidty@|@bruthainneachd (f)@
+@humourist / joking / joke / jest /@|@àbhachd (adj) -e -ean@
+@hundred / century@|@ceud (m) -an@
+@hunt@|@sealg (f) -an / seilge@
+@hurried / hasty / impatient@|@cabhagach (a) -aiche@
+@hurry / haste@|@cabhag (f) -aig@
+@hurt / act of hurting /@|@goirteachadh (m) -aidh@
+@hurt / pain / cause pain / become or make sour@|@goirtich (v) a'goirteachadh@
+@husk / shel / pod  / outer peel or skin / shell@|@plaosg (m)@
+@I advise / recommend / etc.@|@mholainn (pers.prn)@
+@I am / you are@|@tha ... orm/ort (v phr)@
+@I am afraid (of)@|@tha an t-eagal ort (ro)(v phr)@
+@I am much obliged to you@|@tha mi fada 'nad chomain@
+@I am quite certain@|@tha mi gl'e beachdaidh (phr)@
+@I am quite well / alright@|@is beag tha a'cur orm (idiom)@
+@I beg pardon@|@b' àill leibh? (for bu àill)@
+@I care litte for / it@|@is beag agam / leam (phr)@
+@I consider it a desirable thing@|@is miann leam (phr)@
+@I didn’t understand@|@cha do thuig mi (phr)@
+@I dislike@|@is beag orm (phr)@
+@I do not like him@|@cha chaomh leam e@
+@I don’t know@|@chan eil fios agam (phr)@
+@I don’t remember@|@chan eil cuimhne agam (phr)@
+@I don’t understand@|@chan eil mi a’ tuigsinn )phr)@
+@I don't care@|@tha mi coma (phr)@
+@I have a desire@|@tha toil agam (phr)@
+@I know that / I am sure of that@|@is beachdaidh leam gu (phr), is mi beachdaidh gu (phr)@
+@I missed that (ie - I didn't get/hear that ... et)@|@Dè b’àill leibh? (phr)@
+@I ought to be@|@bu choir dhomh a bhi@
+@I try@|@feuchaidh mi@
+@I would consider it a desire@|@bu thoil leam   (phr)@
+@I would consider it a pleasure@|@b'aill leam  (phr)@
+@I would get@|@gheibhinn (1st singl/past sub)@
+@I would take@|@ghabhainn (sing past of gabh)@
+@I’m not sure@|@chan eil mi cinnteach (phr)@
+@I’m sorry (usually just duilich)@|@tha mi duilich (phr)@
+@ice@|@deigh (f) -e (Colin Mark)@
+@iceberg@|@cnoc_déigh (f)@
+@ice-cream@|@reòiteag (f)@
+@ie; to a close@|@crìch (dat. sing) of crìoch@
+@if@|@ma (conj), nan / nam (conj)@
+@if so / then@|@ma tha (conj) / ma tà@
+@if you want ...@|@ma thogras tu ... (phr)@
+@imaginable@|@cruth-inntinneach (adj) -eiche@
+@imaginary / imaginative@|@mac-meanmnach@
+@imagination@|@mac-meanmna (m) -inn@
+@imagine / consider / fancy / reflect / think@|@smaoinich (v) -eachadh@
+@immaterial / inconsiderable / insignificant@|@neonitheachd (f) -aiche@
+@impatient@|@mì-fhoighidneach (a) -niche@
+@implies purpose or nearly@|@gu (before vn)@
+@importance / value@|@toirt (f) -e@
+@important / key / serious@|@cudromach (a) -aiche@
+@imprint / impression / mark / ruin (bldg)@|@làraich (f) -aich -ean@
+@improvise@|@ocàidich (v) -eachadh@
+@in / in the (used before def noun)@|@anns (prep) +an@
+@in / into@|@'sna (contraction), ann (prep) of ann@
+@in- / mis- / un- etc@|@mì (neg pref)@
+@in a reasonable (space of) time@|@ann an ùine chothromaich@
+@in a short time / presently / soon / shortly@|@a dh' aithghearr@
+@in advance / previously@|@roimh làimh@
+@in defiance of@|@gun taing@
+@in each / in every@|@'s gach@
+@in early dawn@|@anns a' mhoch (phr)@
+@in earnest / seriously@|@da-rìreadh (adv)@
+@in front (of)@|@air beulaibh (prep)@
+@in front (of) / before (place)@|@fa comhair (prep)@
+@in her@|@na (poss adj + ann)@
+@in her (no lenition)@|@'na  (prep poss)@
+@in her / it@|@innte (prep pron) of ann@
+@in him@|@ann (prep pron) of ann@
+@in his@|@na (poss adj + ann)@
+@in his (lenites ..)@|@'na  (prep poss)@
+@in me@|@annam (prep pron)@
+@in my@|@'nam  (prep poss), nam (poss adj + ann)@
+@in my/ your/ his/ her favour@|@nam chomain (v phr) nad/na/etc@
+@in our@|@'nar  (prep poss), 'nar (poss adj + ann)@
+@in so far as (provided)@|@cho fad 's a (tha) (adv phr)@
+@in spite of@|@a dh'aindeoin (adv)@
+@in spite of / despite@|@a dh'aindeoin  (adv)@
+@in the@|@'sa (cont) 4 anns an@
+@in the direction (of)@|@an comhair (prep)@
+@in the hereafter / in the future@|@san àm ri teachd (adv)@
+@in their@|@'nan  (prep poss), nan / nam (poss adj + ann)@
+@in them@|@annta (prep pron) of ann@
+@in this / that manner / in this / that direction@|@mar seo / sin (adv)@
+@in us@|@annainn (prep pron) of ann@
+@in you@|@annad (prep pron) of ann@
+@in you (plr+pol.)@|@annaibh (prep pron) of ann@
+@in your@|@'nad  (prep poss), nad (poss adj + ann), nur (poss adj + ann)@
+@in your (plr)@|@'nur (prep poss)@
+@inactive / wanting energy / silly / careless@|@mi-sgoinneil (adj) -e@
+@inch@|@òirlich (f) -each@
+@inclement weather / tempest / hurricane@|@doineann (f) -inn@
+@inclination / interest / hope / desire@|@ùidh (f) -e -ean@
+@inclination / leaning / descending / bending@|@aomadh  (m) -aidh@
+@incline / like / want / wish@|@thogair (v)-gairt -gradh -gras, togair (v) -airt -radh@
+@increase / multiply / add to / augment@|@meudaich (v) a' meudachadh@
+@indeed / certainly / sure / truly@|@gu dearbh@
+@indetermination@|@an-suidheachadh  (m)@
+@indicates excellence  / very good@|@sàr (pref)@
+@indifferent / not caring / regardless@|@coma (adv)@
+@individually / apart / one by one / separately@|@fa leth (adv)@
+@inefficiency / incapacity@|@neo-éifeachd (f)@
+@inefficiency / insufficiency / ineffectualness@|@mi-éifeachd (f ind)@
+@inexperience / bad habit or custom / abuse@|@ana-cleachdadh (m) -aidh -ean@
+@inflating@|@gaothachadh (adj) -aidh@
+@inhabitants@|@luchd-àiteachaidh  (m)@
+@inhabitants / residents\@|@luchd-tuineachaidh (m)@
+@inky@|@dorch (adj) / dorcha@
+@inn / pub / brewery /@|@taigh-seinnse (m)@
+@innuendo@|@fiar-rabhadh (m)  -aidh -aidhe@
+@inordinate wish / unreasonable desire / ambition@|@an-togar (m) -air@
+@inscrutable / unsearchable@|@do-rannsachaidh (adj)@
+@insomnia@|@dìth-cadail (m)@
+@instance / place / location / position / space@|@àite (m) -can -cachan@
+@instantaneous(ly) / just in time / in the nick of@|@sa cheart àm (adj/adv)@
+@instead (of) / in place (of)@|@an àite (prep)@
+@instructional / teaching / training@|@ionnsachaidh (a)@
+@instructive / tutorial / admonitory@|@teagasgach (adj)@
+@instrument / engine / means / cause@|@sàs (m) -ais -an@
+@instrument / state / condition / implement / tool@|@inneal (m) -il -an@
+@interesting / encouraging / positive-minded@|@inntinneach (a) -niche@
+@interface@|@eadar-aghaidh (v)@
+@international@|@eadar-nàiseanta@
+@internet@|@eadar-lìon (m)@
+@intoxicant@|@deoch mhisgeil (f)@
+@investigated / pondered / ruminated / gathered@|@cnuasaichte (pt pt)@
+@invitation@|@fiathachadh (m) -aidh@
+@iron@|@iarnaich (v) -achadh, iarnaig (v) -eadh@
+@is mi / is tu / is e / etc@|@is (ind. v. def. & irreg)@
+@island /@|@eilean (m) -ein -an@
+@isn’t it?@|@tha e deagh / droch shìde nach@
+@it doesn’t matter@|@chan eil e gu diofar (phr)@
+@it will do@|@Ni e 'n gnothach (phr)@
+@it will not annoy him@|@cha cuir e air (idiom)@
+@It’s good/bad weather@|@tha e deagh / droch shìde nach@
+@Italian language@|@Eadailteis@
+@item / thing / point (in argument)@|@nì (m) nithean@
+@ivory@|@cnàimh-deud (m)@
+@janitor / porter@|@dosair (m) -ean@
+@January@|@Faoilleach (m), Faoilleach (m)@
+@jet-set@|@luchd strodhail (m)@
+@jewel / lily@|@leug (f)@
+@job / twist / cheat / bend / delude@|@car (m) cuir caran -an@
+@jockey / horse-dealer@|@cobair (m)@
+@joker / humourist@|@àbhachdach (adj)  -iche@
+@jot / note / period@|@pong (m) puing / puingean@
+@judge / umpire / judgment / sentence@|@breitheamh (m) -eimh -a -an@
+@judgement / information / knowledge / betrayal@|@bràth (m) -a@
+@juice / essence / sap@|@sùgh (m) -a / sùigh@
+@July@|@Iuchar (m) -air@
+@June@|@An t-Og-mhios (m)@
+@jury@|@luchd-deuchainn (m), luchd ceart-dheuchainn  (m)@
+@just a minute@|@dà mhionaid (phr)@
+@just a sec (lit: 2 mins)@|@dà mhionaid (phr)@
+@just now / immediately / the present time@|@an ceartuair (adv)@
+@just so!@|@seadh dìreach!@
+@keen / desirous / willing / animated / cheerful@|@togarrach (adj) -aiche@
+@keep / retain / support / hold / contain@|@cùm  (pr pt) a' cumail@
+@keep going@|@cùm a' dol!, cùmaibh a' dol! (plr)@
+@keep in with / keep on good terms@|@cùm a-staigh air@
+@keep up maintain@|@cùm suas@
+@kettle / cauldron / corrie@|@coire (m) -achan@
+@kick / prance / spurn / anger@|@breab (m) -a -an@
+@kicking / prancing / stamping / spurning / kick@|@breabadh (m) -aidh@
+@kickstart@|@breab-tòiseachaidh (m)@
+@kid-skin@|@miniceann (m) -inn -an@
+@kind / meek / gentle / mild / tender@|@caomh (adj) -a (& caoimhe)@
+@kind / type / species / brand / sort@|@seòrsa (m) -chan -ichean@
+@kind/ charitable/ affectionate / friendly / polite@|@carthannach (adj) -aiche@
+@kindliness@|@carthannas (m) /coibhneas@
+@kindness / generosity@|@coibhneas (m) coibhneis@
+@kingdom@|@rìoghachd  (f)@
+@kinswoman / female relative@|@bana-charaid (m) / bàn-@
+@kipper@|@sgadan rèisgte@
+@kiss@|@pòg (v)@
+@kitten / young cat@|@piseag (f) -eig -eigean@
+@knit / weave / braid / twist / plait@|@fìgh (v)  fighe@
+@know / recognise@|@aithnich (v) -eachadh@
+@knowledge / information / notice@|@fios  (m) -a@
+@Kyle of Lachalsh@|@Caol Loch Allise (m)@
+@labour / toil / work / service / work / drudgery@|@saothair (f) -rach@
+@lacking / minus / without@|@aonais / às aonais (prep + ge@
+@lacking / without / absence of / devoid of@|@às eugmhais (prep+gen)@
+@lady (gentlewoman)@|@bana-mhorair (m)@
+@lake /@|@loch (f) -a -an -annan@
+@lament / mourn / weep / wail@|@caoidh (v) a' caoidh@
+@land / country / territory@|@tìr (f) -e -ean@
+@land / earth / plain@|@fonn (m) fuinn@
+@landscaping@|@maiseachadh-tìre (m)@
+@lass / girl@|@caileag (f) -eige -an@
+@last / endure@|@mair (v) -sinn@
+@last year@|@an-uiridh ('n uiridh)@
+@late (in arriving)@|@fadalach  (a)  -aiche@
+@late /unseasonable@|@anmoch (adj) -ioche@
+@laugh / laughter / smile@|@gaire (f)@
+@law@|@lagh (m/f) -a -an@
+@lay a bet@|@cur geall@
+@laziness / sloth@|@leisg (f) -e@
+@leaflet / blade@|@bileag (f) -eig(e) -an@
+@leap / bound / spring / start / shake@|@leum (m) léim / leuma -mannan@
+@learn / teach / coach / instruct@|@ionnsaich (v) -achadh@
+@learner-(person) / student-(person)@|@neach-ionnsachaidh@
+@learners@|@luchd-ionnsachaidh@
+@learning / art / felicity / skill / trade@|@ealain (f) -e -ean@
+@leave / depart / go@|@fàg (v) -ail@
+@leave / permission / license@|@cead (m)@
+@lecher / dotard@|@déidh-bhodach (m)@
+@leek / chive@|@creamh-gàraidh (m)@
+@left hand@|@cearrag (f) -aige@
+@leg / foot@|@cas (f) coise -an@
+@lend (to)@|@thoir air iasad (do) (int.v), toirt air iasad (do) (int.v)@
+@lenite / calm@|@sèimhich (v) -eachadh@
+@lenited / calm@|@seimhichte (prep. pron)@
+@lesson@|@leasan (m) -ain@
+@let / permit / allow@|@leig (v)@
+@letter / epistle@|@litreach (gen sing) litir@
+@letter / letter (note) / epistle / literal / educa@|@litir (f) litreach -trichean@
+@lettered@|@litreach (adj)@
+@library@|@leabharlann (m)@
+@lie@|@laigh (v)@
+@lie / decieve / fib / falsehood /untruth@|@brueg (f) / brèige -an@
+@lie / untruth@|@breug (f) -an brèige@
+@life / existence / livelihood@|@beatha (f) -annan@
+@light / minor / petty / puny / slender@|@beag / bige@
+@light / not heavy / giddy / agog@|@aotrom (adj) -uime@
+@light blue / light blue colour@|@gorm-aotrom (m)@
+@like / similar / typical / probable / alike@|@coltach   (adj)@
+@line@|@loidhne (f) -nichean@
+@link / bond / bandage / fastening / restraint@|@ceangal (m) -ail -aichean@
+@lion@|@leòmhann (m)@
+@list@|@liosta (f) -aichean@
+@listen / hear / harken /@|@éist (v) / èisd@
+@little by little@|@beag air beag@
+@little hollow / crevice@|@còsan (m) -ain -an@
+@little jewel / charm / excellence@|@seudag (f) -aig -an@
+@little pettish female / sulky female@|@gnogag (f) (dim. of gnog)@
+@littleness / smallness@|@bìdeachd (m)@
+@Live long and prosper!@|@Sonas 'is fad saoghail leibh@
+@lively feeling / lively perception\@|@geur-mhothachadh (m)-aidh -ean@
+@living / livelyhood@|@beòthachd (f)@
+@load / burden@|@luchdaich (v) a'luchdaich@
+@loaded@|@luchdaichte@
+@loan / advantage / credit@|@iasad (m) -aid -an@
+@loathe / less / least / more or most disagreeable@|@lugha  (irreg comp of beag)@
+@lock / secure / embrace@|@glas (v) a' glasadh -adh@
+@locomotive / mobile / motive@|@guasadach (a) -aiche@
+@loft / floor / gallery / storey@|@lobht (m) -a -achan -aichean@
+@look / appearance / likelihood / similarity /@|@coltas (m) -ais@
+@look / request / probe / seek@|@sir (v) sireadh@
+@look / see / show@|@seall (v) -tainn@
+@look / watch / regard / observe@|@coimhead (v) +air  or  +ri(s)@
+@look into@|@dàn sgrùdadh air (v phr)@
+@loose / free@|@fa-sgaoil (adv) mu-sgaoil@
+@loose / untie / unlock / liberate / relieve@|@fuasgail (v)@
+@lose / forfeit /miss /  emasculate@|@caill (v)@
+@losing / dropping / loss / damage / calamity@|@call (m) -a@
+@lost / astray\@|@air chall (adv)@
+@lost / undone@|@caillte (prs pst)@
+@loud laughter / laughing loudly@|@lasganaich (f)@
+@loudness / noise / percussion@|@faram (m) -aim -an@
+@love@|@gaol (m), gràdh (m)@
+@low / base / lowly@|@ìsle (a) / ìseal / ìosal@
+@low / not high /@|@ìosal (adj) ìsle@
+@lowness@|@ìsleachd (m)@
+@lowness of spirits / dispiritedness@|@tad (m)@
+@lubricate / oil@|@ùillich (v) -eachadh@
+@lubrication@|@ùilleachadh (m&vn) -aidh@
+@luck / fortune / possession / providence@|@sealbh  (m) /  seilbh@
+@luckily@|@gu sèamhasar (adv)@
+@lucky / fortunate / prosperous / possesive@|@sealbach (adj) -aiche@
+@lullaby / soothing / caressing@|@tàladh (m)@
+@lump / round hill /@|@meall (m) mill@
+@lunch@|@biadh meadhan-latha (m)@
+@lunch time@|@àm a bhìdh (m)@
+@machine / engine / loom / frame / sheath@|@beairt (f) beart@
+@made close / glued / pressed / approached@|@dlùthaichte (adj)@
+@magazine / periodical / assignation / description@|@iris (f) -e -ean@
+@make awry / distort anything@|@spàg (v)@
+@make chatter@|@dèan cabaireachd (v.phr)@
+@make into tufts or bunches / separate / prune@|@bad (v)@
+@make the ship lie-to@|@cuir air laidhe thuige (idiom)@
+@male@|@fireann (a)@
+@manly / brave / courageous / mighty@|@fearail (adj) -ala@
+@manner / method / content / good / order / pleased@|@dòigh (f) -e -ean@
+@mannerly / well-bred / well principled / polite@|@modhail (adj)@
+@many / a lot@|@cus (adj) -ain -an@
+@many / numerous@|@iomadach (adj)@
+@many / numerous / various@|@iomadach (m+vn) -aidh / iomadh@
+@many / numerous / various / several@|@iomadh (m) -aidh@
+@many a (precedes noun)@|@iomadh  (adj)@
+@March@|@Màrt (m) / Màirt@
+@marijuana@|@smùid-ghòrach (f)@
+@mark / impression / token / sign / point out@|@comharradh (f) -aidh -aidhean@
+@mark / spot / stain@|@smal (m) -ail@
+@marking / aiming / hitting / binding /@|@amas (m) -ais@
+@marry@|@pòs (v) -adh@
+@Martinmas (preceded by 'An Fhèill-Martinmas')@|@Fèill Màrtainn (f)@
+@mathematics@|@matamataic (adj)@
+@matter / affair / cause / object / thing@|@cùis (f) -e -ean@
+@May@|@Cèitean / A Mhàigh (f), Cèitean / A Mhàigh (f)@
+@may / can / must@|@faod   (v) -aidh@
+@may / can / must (neg only)@|@feud (v)@
+@may happen / shall happen / met@|@thàrlas (fut / pst-v)@
+@maybe@|@feudaidh e a bhith (adv)@
+@meadow / island@|@innis  (f) -innse  -an -achan@
+@mean / intend / signify / allude / interpret@|@ciallaich (v) -achadh@
+@meaning / signification / interpretation@|@ciallachadh (m) -aidh@
+@meanness / baseness@|@an-uaisle (f)@
+@meanwhile@|@rè na h-uine (adv), rè na h-ùine seo@
+@meddling with@|@a' gabhail gnothaich ri (phr)@
+@media@|@meadhanan (pl)@
+@medicine (science)@|@eòlas-leighis (m)@
+@medicine / salve@|@cungaidh-leighis@
+@meet (with)@|@coinnich (v) -eachadh (ri)@
+@meeting / appointment / religious service@|@coinneamh (f) -eimh -an@
+@melancholy / sorrow / sadness / homesickness@|@cianalas (m) -ais@
+@melodious / musical / tuneful@|@seirmeach (a) -iche@
+@memorial / remembrance / commemoration@|@cuimhneachan (m) -ain@
+@memorize@|@cùm air mheomhair (v. phr)@
+@memory@|@meomhair (f)@
+@memory / remembrance@|@cuimhne (f)@
+@mend / repair / plight / state@|@càraich (v) / càrach -aidh@
+@mending / repairing / adjusting.@|@càradh (m) -aidh@
+@mental reservation / dissimulation@|@cleith-inntinn (f)@
+@mention / comment / hint / description / reference@|@iomradh (m) -aidh -aidhean@
+@merry / cheerful / lively / good-humoured / joyful@|@sunndach (adj) -aiche@
+@message / dispatch / communication@|@teachdaireachd (f)  -an@
+@meter@|@inneal-tomhais (m)@
+@middle / average / centre / heart / waist@|@meadhan (m) -ain -an@
+@mild / placid / smooth / tranquil@|@sèimh (adj) -e@
+@mind / intellect@|@inntinn (f) -e -ean@
+@minus / without / lacking@|@às aonais (adv.phr)@
+@minute /@|@mionaid (f) -e -ean@
+@miracle / wonder / prodigy / phenomenon@|@mìorbhail (f) -e -ean@
+@mirror / looking glass / reflector@|@sgàthan (m) -ain -an@
+@misfortune@|@mì-fortan (m)@
+@misfortune / mischance / mishap / calamity@|@tubaist (f) -e -ean@
+@miss / long@|@ionndrainn (v)@
+@missing@|@a dh' easbhaidh (adv)@
+@modern / brand-new@|@ùr-nodha (a)@
+@moistness / softness@|@taise (f)@
+@momentary / temporary / transitory@|@sealach (adj) -aiche@
+@Monday@|@Diluain (m)@
+@money / silver / riches /@|@airgead (m) -id@
+@monster / wild beast / lamprey@|@uile-bheist (m) -ean@
+@mood / humour / good-humour / joy@|@sunnd (m) -ach@
+@moor / hill@|@monadh (m) -adh -aidhean@
+@morale / spirit@|@spiorad (m) -aid -an@
+@more / extra / addition / excess@|@tuilleadh (m)@
+@more fit@|@deigh (adj)  (Dwelly's)@
+@more often / as often as not@|@mar is trice (phr)@
+@more than enough@|@barrachd air@
+@morning dram@|@maideannas (m) -ais@
+@mother@|@màthair (f) -ar -thraichean@
+@mountain@|@beinn  (f)@
+@mountain / hillside / moor@|@sliabh (m) slèibh(e) -tean@
+@mouse@|@luch  (f)@
+@moustache@|@feusag-bheòil (f)@
+@mouth / opening@|@beul (m) beòil@
+@move / budge / agitate / excite / prompt@|@gluais (v) gluasad@
+@moving / action / agitation / gesture / movement@|@gluasad (m+vn) -aid -an@
+@moving / departing / motion / searching@|@siubhal (m)siùbhailchean -ail@
+@multitude / crowd / great number@|@sgròl (m)@
+@murky@|@dorch (adj) / dorcha@
+@muscians  (plr. fear-ciuìl)@|@luchd-ciuìl (m)@
+@music@|@ceòl (m) ciùil, ciùil (gen sing) ceòl@
+@musical instrument@|@inneal-ciùil (m)@
+@muskrat@|@radan molach (m)@
+@mussel / shelelfish / limpets@|@maorach (m) -aich@
+@must (is fheudar do)@|@fheudar (feudar)@
+@my / used before vowels & fh@|@m' (poss pron)@
+@my darling!@|@mo chiall! (phr)@
+@my dear!@|@a chiallain! (phr)@
+@my heart's darling!@|@a chiall mo chridhe! (phr)@
+@mystery / cell@|@dìomhran (m) -ain@
+@nailed / fixed with nails@|@tàirngte (pt pt of tàirng), tarraingte (pt pt of tàirng)@
+@name / denomination / figurehead / title@|@ainm   (m) -e -ean -nan@
+@named /@|@ainmich (v)@
+@nasty / filthy / slovenly / drivelling@|@rapach (adj) -aiche@
+@native / natural / indigenous / hereditary@|@dùthchasach (adj) -aiche@
+@nearly / missed doing@|@theab (v)@
+@neat / make tidy / adjusted@|@sgioblaich (v) a' sgioblachadh@
+@neat / tidy / decent / pretty / nice@|@laghach (adj) -aiche@
+@necessary / indespensable / essential@|@riatanach (adj) -aiche@
+@neck@|@amhach (f) -aich -aichean@
+@need / use / usefulness / worth /@|@feum (m) -a féim@
+@neighbour@|@nàbaidh (m) -ean@
+@nephew (brother/sister's son)@|@mac-bràthair/peathar (m)@
+@nest@|@nead (m) nid@
+@net / web@|@lìon (m) -tan lìn@
+@never@|@a-riamh (adv)@
+@never mind@|@coma leat (phr)@
+@New Year's Day@|@Caillainn (f) /Cailluinn -e@
+@newspaper@|@pàipear-naidheachd (m)@
+@next time / second time@|@ath-uair (f) -e -ean@
+@next week@|@ath-sheachdain, seachdainn 'sa tighinn@
+@next year@|@ath-bliadhna@
+@nickname@|@far-ainm (m)@
+@niece (sister/brother's daughter)@|@nighean-peathar/bràthair (f)@
+@night-watch@|@luchd na h-ionnairidh   (m)@
+@nine people@|@naoinear@
+@no matter how ...@|@ge b'e cho ... 's (conj)@
+@no worries!@|@na gabh dragh!@
+@nobility / gentility / high birth / manners@|@uaisle (f)@
+@noisy / accoustic /  echoing@|@fuaimneach (adj) -aiche@
+@nook / corner / niche / recess@|@cùil (f) -e -tean (plr)@
+@normal / usual / custom / habit@|@àbhaist (f)@
+@north@|@tuath (m)@
+@nose / ridge of a hill / point of plough@|@sròn (f) -òine -a@
+@not as often as@|@chan eil a cheart cho tric@
+@not yet@|@cha’n’eil fhathast@
+@note (written)@|@nòta (f) -aichean@
+@nothing for it but (v phrs)@|@chan eil càil air a shon ach@
+@noun / substantive@|@ainmear (m)@
+@novel /@|@nobhail (f) -ean@
+@November@|@An t-Samhain@
+@now@|@san àm, san àm seo (adv)@
+@now / at this time / therefore@|@a-nis (adv) a-nist -e@
+@now / present time / at this time@|@dràsta (adv) an-dràsda@
+@now / this present time / at this time@|@an-dràsta (adv) dràsda@
+@nurse@|@ban-altram (f) -aim -an@
+@nut@|@cnò (f) -tha -than@
+@object / point / subject / theme / topic@|@cuspair   (m)   -ean@
+@obligation / recompense / gratuity@|@comain (f) -e -ean@
+@observe / stare / consider / meditate / review@|@beachdaich (v) a' beachachadh@
+@occassion / cause@|@adhbharaich (v) -achadh@
+@occassion / trip / journey / expedition / tour@|@turas (m) / tursan -ais@
+@October / rutting time@|@Dàmhair (f) (m)@
+@odds / excess / surplus / remainder / snout@|@còrr (m)@
+@of  weather (sian)@|@sìne (gen/sing)@
+@of / about / concerning@|@mu dhéidhinn (prep)@
+@of / off / out of@|@à (prep)@
+@of a hole / holes / caves@|@tuill (gen + plr of toll)@
+@of age@|@a dh'aois (adv)@
+@of faod@|@faoidte (imperf cond-tnse)@
+@of her / off her@|@dhith (prep pron) -se@
+@of me / off me or from me@|@dhiom (prep pron)  -sa@
+@of necessity / glad to / had to@|@buidhe (part)@
+@of the / of their@|@den / dhen (with /def art)@
+@of the sea@|@mara (gen ~ muir)@
+@of time /@|@a thìde (adv)@
+@of us / from us / concerning us / from amongst us@|@dhinn  (prep pron) -e@
+@of you / off you or from you@|@dhìot (prep pron)  -sa@
+@off / out / out of@|@às (à before a def noun)@
+@off him / off it / of it@|@dheth  (prep pron) -se@
+@off them@|@dhiubh  (prep pron) -san@
+@off you  (pol & form)@|@dhibh  (prep pron) -sa@
+@office /@|@oifis (f) / oifig -e -ean@
+@officer / official@|@oifigeach (m) -ich@
+@often / frequent@|@tric (adv) -e@
+@oil@|@ùill (v) -idh -eadh@
+@old / aged@|@aost (adj) -a@
+@old / withered / wrinkled / meagre /thin /niggarly@|@sgruiteach (adj) -eiche@
+@old man / oldster / bogey / changling@|@bodach (m) -aich@
+@old saying / proverb / adage@|@seanfhacal (m) -ail -an@
+@olden times@|@àm bho aois@
+@on / by / about /@|@air (prep)@
+@on condition that / so that@|@air chor 's (conj)@
+@on her@|@oirre (prep prn ~ air) oirrese@
+@on him@|@air  (prep pron)  / airsan@
+@on loan@|@air iasad (adv)@
+@on me@|@orm  (prep prn ~ air)  ormsa@
+@on the other sise / beyond / yonder@|@thall (adv)@
+@on them@|@orra (prep prn ~ air) orrasan@
+@on this side@|@an taobh a-bhos (phr)@
+@on us@|@oirnn (prep prn ~ air) oirnne@
+@on you@|@ort  (prep pron ~ air) ortsa@
+@on you (plr)@|@oirbh  (prep pron)  oirbhse@
+@once@|@trup (adv)@
+@one / one person@|@aon (m) / aonan@
+@one who is too ready to speak / sharp or snappish@|@gab-èasgaidh (m) gaib-èasgaidh@
+@onion@|@uinnean (m) -ein -an@
+@online@|@air-loidhne (m)@
+@only@|@amhàin (adv), aon (adj)@
+@only / alone / merely / soley@|@a-mhain (adv)@
+@open@|@fosgail (v)@
+@openness / publicity / evidentness / clearness@|@follais (f)@
+@opinion / attitude / idea / notion / theory@|@beachd (m) -a -an@
+@opinion / supposition / theory@|@soilneas (m)@
+@opposite@|@mu choinneimh (prep)@
+@opposite / over / against@|@mu choinneamh (prep)@
+@opposition (party)@|@luchd an agaidh (m)@
+@oppressing or harrassing me@|@'gam sharachadh (adj)@
+@or@|@no (conj) /neo@
+@order / condition / degree / gradation /generosity@|@ordan (m) -ain@
+@order / decree / command / array@|@òrdugh (m) -uigh -uighean@
+@order / formation / array@|@eagar (m) -air@
+@organize@|@cruth-shuidhich (v)@
+@originally / front@|@beulaibh (m)@
+@ostrich (struthio camelus)@|@struth (f) -a -an@
+@other@|@eile  (adj)@
+@otherwise / else@|@air neo (conj)@
+@ought / should /@|@bu choir@
+@ounce@|@ùnnsa (m) -chan -ihean@
+@out / outside@|@a-muigh (adv)@
+@out of her / out of it@|@aiste (prep pron) -se@
+@out of his sense /  mad@|@às a chiall (phr)@
+@out of you / from you / in you / on you@|@asad (prep pron) ás + tu, asaibh (prep pron) ás + sibh@
+@outburst / laughter@|@lasgan (m) -ain@
+@outdoor(s) / al fresco@|@blàr-a-muigh@
+@outside@|@taobh a-muigh (m)@
+@oven / furnance@|@àmhain (f) -e -ean@
+@over (to other side)@|@a-null (adv)@
+@over / above@|@os cionn (adv)@
+@over / above (old dat. of ceann)@|@os cionn (prep + gen)@
+@over- / ultra- / used to intensify statements@|@seachd (adv) / seach / seachad@
+@over her / it@|@thairte (prep pron)@
+@over him@|@thairis air (prep pron)@
+@over me@|@tharam (prep pron)@
+@over them@|@tharta (prep pron)@
+@over this side@|@a bhos (adv)@
+@over you@|@tharad (prep pron)@
+@over you (/frml / plr)@|@tharaibh (prep pron)@
+@owners@|@luchd-seilbhe (m)@
+@pacify  becalm / quiet / reconcile / grow calm@|@sithich (pr pt) a' sìtheachadh@
+@pacify / soothe@|@breug (v) -adh@
+@paint / colour@|@lì-dhealbh (v) -adh -aidh@
+@painted@|@lì-dhealbta (pst tns)@
+@painter@|@lì-dhealbadair (m) -ean@
+@painting / sketch / draught / map@|@clàr-dhealbh (m) -a -an@
+@pale / white / pallid / fair /@|@bàn (m) -ain@
+@palm (hand)@|@bas (f) boise -an@
+@pancake / little cake /@|@foileag (f) -eige -an@
+@paper@|@pàipear  (m) -eir -an@
+@parallel / agree@|@co-shìnte (pp)@
+@pardon? (thu / sibh)@|@b’aill leat/leibh? (phr)@
+@parent@|@pàrant (m) -aint -an@
+@parentage@|@pàrantachd (f)@
+@parental@|@pàrantach (adj)@
+@parish / district / locality@|@sgìre (f) -ean@
+@parting / separating / division /divorce /farewell@|@dealachadh (m) -aidh@
+@parting drink@|@deoch-an-dorais (f)@
+@pas on / go forward@|@gabh air d'agaidh  (phr)@
+@pass by@|@gabh seachad (phr)@
+@passengers@|@luchd-aiseig  (m)@
+@past /@|@seachad   (adv)@
+@pasture / grazing / feeding@|@ionaltradh (m) -aidh@
+@patience / forebearance@|@foighidinn (f)@
+@patient / enduring / forebearing / long-suffering@|@foighidneach (adj) -aiche@
+@pavement / paved floor@|@leac-ùrlar (m) -air@
+@paw / claw / seize upon@|@spòg (f) a' spògadh@
+@peaceful / tranguil / silent / charmed@|@sitheil (adj) -e@
+@peat / moss / bog / turf / mossy place@|@mòine (f) mòna / mònach@
+@peat / of peat@|@mònadh (gen sing ~mòine)@
+@peat-moss / moor / moorland@|@mòinteach (f) -ich -ichean@
+@penny@|@sgillinn (f) -e -ean@
+@people / community / folk / public / population@|@sluagh (m) -aigh@
+@people / folk@|@luchd (m)@
+@people / folk / (usually) some /@|@feadhainn (f)@
+@pepper / spicery@|@peabar (m+f) -brach -aichean@
+@perceive / observe / feel / know / understand@|@mothaich (v) a' mothachadh@
+@performing / execution /@|@gnìomhadh (m) -aidh@
+@perhaps@|@ma dh'fhaoidte (adv)@
+@perhaps / mayhap@|@theagamh (adv)@
+@perhaps / most likely / possibly / presumably@|@'s dòcha gu / gum / gur@
+@person (any gender) / man / husband / anyone@|@duine (m) /daoine@
+@person / (functions same as) fear / bean@|@neach (m)@
+@personnel management@|@rianachd luchd-obrach (f)@
+@phone@|@fòn (v)@
+@phonograph /@|@fuaim-sgrìobhair (m)@
+@piano@|@piàna (m) -than (piàno)@
+@picnic@|@cuirm-chnuic (f)@
+@picture / illustration / photo / draw / design@|@dealbh (f) -an -annan deilbh@
+@piece / clout / rag / patch@|@pìseag (f- dim of pìos)@
+@piece / morsal / fragment / patch@|@pìos (m) -a -an@
+@piece of bread / sandwich@|@ceapaire (m) -an@
+@pigsty / sty@|@fàil (f) -e -ean@
+@pillow / pin-cushion@|@cluasag (f) -aig -an@
+@pinch / sprinkle@|@craiteachan (m)@
+@pine / The Scots fir (pinus sylvestris)@|@giuthas (m)@
+@pit / den / hollow / gutter / dell / hole@|@sloc (m) -aidh -an@
+@pity / compassion / wretchedness / poverty@|@truas (m) -ais@
+@pity / woe / regret / folly@|@mairg (f)@
+@place / quarter / scene / substitute@|@ionad (m) -aid -an@
+@place / spot / tuft /  cluster / bunch / thicket@|@bad (m) -aid -an@
+@plan@|@plana (m) -aichean@
+@plant potatoes@|@cuir a' bhuntàta  (idiom)@
+@play@|@cluich (m) -e -eadh@
+@play / ply / use@|@iomair / iomairt (v)@
+@playing / enterprise / employing / exercising@|@iomairt (f - vn) -ean@
+@pleasant / agreeable / dear / loved@|@toigh (adj) -e@
+@pleasant / delightful / fascinating / agreeable@|@taitneach (adj) -aiche@
+@pleasant / delightful / lovely / becoming /fitting@|@tlachdmhor (adj) -oire@
+@pleasant / pleasing@|@tleachdmhor (adj)@
+@pleasure@|@tleachd (f)@
+@pledge / mortgage / promise / desire / bet / wager@|@geall (m) gill@
+@plenty / enough / galore@|@go lèor (adv)@
+@plunder / raid / destruction@|@creach (f) -an creiche@
+@plunders@|@luchd nan creach  (m)@
+@pocket@|@pòcaid  (f)@
+@pocket watch@|@uaireadair-pòca (m)@
+@poem / verse / destiny / fate / luck@|@dàn (m) dàin {plr}@
+@poet / rhymer / bard@|@bàrd  (m)@
+@poetical / satirical@|@bàrdail (adj)@
+@poetry / rhyming / satire / lampooning / sarcasm@|@bàrdachd (f)@
+@poised / ready / prepared@|@deiseil (a) -e@
+@poison / venom@|@puinnsean (m) -in -an@
+@polar bear@|@mathan bàn (m)@
+@policeman / notary public / policeman@|@earraid (m) -ean@
+@politic / prudent / sage / shrewd / wise@|@glic (adj) -e@
+@politician@|@luchd-poileataig (m)@
+@ponder / chew / reflect / review / gather /collect@|@cnuasaich (v) a' cnuasachadh@
+@port / harbour / strait / firth / bay@|@puirt (m) -uirt -an@
+@possess / luck / acquire@|@sealbhaich (m) -achadh@
+@pot@|@poit  (f) -e -ean@
+@potato(es)@|@buntàta (m)@
+@potter@|@crèadhadair (m)@
+@pottery@|@crèadhadaireachd (f)@
+@pound@|@punnd / puinnd (m)@
+@power / authority / might / strength / ability@|@cumhachd (m) -an@
+@power / virility / weariness  / defeat@|@chur (m) -air@
+@praise / applaud / eulogise@|@moladh (m) -aidh a' moladh@
+@praise / recommend / advise / exalt@|@mol (v) a' moladh@
+@pray / entreat / beseech / wish earnestly@|@guidh (v+n) -e a' guidhe@
+@prayer / petition / entreaty / request@|@athchuinge (f)-ean /ath+cuinge@
+@precocious / immature / apprehensive /quick-witted@|@luath-aireach (adj) -eiche@
+@precociousness / immaturity@|@luath-aireachd (f)@
+@prefix that creates (plr forms)@|@luchd- (compnd nouns)@
+@prepare@|@ullaich (v)@
+@prepare / get ready /@|@deasaich (pr pt) deasachadh@
+@prepared / made ready /@|@deasaichte (pt pt of deasaich)@
+@preparing / making ready / accommdation@|@ullachadh (m) -aidh@
+@Presence / existence / company / sight@|@làthair (f) -e@
+@present time / surety / pledge@|@cur (m)@
+@presently / instantly@|@air an uair (adv)@
+@present-tense@|@trath-lathaireach@
+@pretty / elegant / beautiful / charming@|@grinn (adj)@
+@prevail / molest / beach@|@cuir air (idiom)@
+@price@|@prìs (f)@
+@prime / chief / principal / first@|@prìomh (adj)@
+@printing / stamping / typography@|@clòdh-bhualadh (m) -aidh@
+@prison / gaol@|@prìosan (m) -ain -an@
+@prison / place of confinment / gaol / jail@|@gainntir (f) -eir -ean@
+@private@|@prìobhaideach (adj)@
+@private / mysterious / secret@|@dìomhair (adj) -e@
+@private detective@|@lorgaire prìbheideach (m)@
+@private grudge@|@cleith-mhiosgais (f)@
+@prize / reward / wages@|@duais (f) -e -ean@
+@problem /snag / difficulty@|@duilgheadas (m) -ais -an@
+@prodigal@|@dìobhlach@
+@profile / about me /@|@clàr-aithne (m)@
+@project@|@pròiseact (m) -eict -an@
+@pronounce / pronouncing / pronounciation@|@fuaimnich (v) -eachadh@
+@proof-reader@|@leughadair-dearbhaidh@
+@protection / shelter / refuge / shadow / fold@|@fasgadh (m) -aidh -aidhean@
+@pruning knife / razor@|@beàrr-sgian (f)@
+@public / conspicuous / clear / evident@|@follaiseach (adj) -siche@
+@public forum@|@co-labhairt fhosgailte@
+@publish / disclosure / display / publishing /@|@foillseachadh (m) -aidh@
+@publish / reveal / show / unfold / divulge@|@foillsich (v) -eachadh@
+@publisher@|@foillsichear (m) - eir -an@
+@pudding@|@marag (f) -aig -an -e@
+@punctuation / punctuate@|@puingeachadh (m) -aidh@
+@punishment / correction / chastisement@|@peanas (m) -ais -an@
+@purchase / buying@|@ceannach (m + vn) -aich@
+@purple@|@purpaidh  (adj)@
+@purse@|@sporan (m) -ain@
+@pursuit / search / chase /@|@tòir (f) -e -each -ichean@
+@push / thrust / jostle@|@put (v) a' putadh@
+@put / plant / place@|@cuir (v) cur@
+@put down@|@cuir a-bhàn (idiom)@
+@put on (clothes)@|@cuir air (v phr)  cur air@
+@putting / setting / sending / sowing / planting@|@cur (m) -uir@
+@quarter@|@cairteal (m)@
+@quartet(te) / 4 persons / quadruplets@|@ceathrar (m)@
+@queen@|@ban-rìgh (f) -inn@
+@question / ask / enquire /@|@faighnich (v) -neachd@
+@quick / active  / clever / agile@|@sgiobalta (adj) -ailte@
+@quiescent / quiet / peaceful / restful / still@|@sàmhach (adj) -aiche@
+@quiet / calm / secure / safe / gentle / tranquil@|@suaimhneach (adj) -eiche@
+@quite full / absolutely full / full to brim@|@loma-làn (a)@
+@quite so!@|@dìreach sin!@
+@rabble / mob / little people@|@pràbar (m) -air -an@
+@race / offspring /generation /pedigree / genealogy@|@ginealach (m) -aich -aichean@
+@radiator@|@teasadair (m)@
+@radish@|@curran-dearg (m)@
+@rainbow@|@bogha-froise (m)@
+@rainy / showery / dropping / distilling@|@sileadh (adj)@
+@raise / build / lift /contruct / brew / distill@|@tog (v) -ail@
+@raisin@|@fìon-dhearc chaoinichte (f)@
+@ramp / decline / inclination / tendency@|@aomadh (m) -aidh -aidhean@
+@raor / bellow / belching noise@|@raoic (f) -eadh / a' raoiceadh@
+@rare / strange / delightful / unusual / dainty@|@annasach (adj) -aiche@
+@rat / cunning person /@|@radan (m) -ain -an@
+@raven@|@fitheach (m) -ich@
+@reached@|@ràinig (IND-pst) ruig@
+@read@|@leugh (v) -adh@
+@reader@|@leugadair (m) -ean@
+@reading / a reading@|@leughadh (m&vn) -aidh -aidhean@
+@reaping / cutting down / harvest / mowing@|@buain (f) buana@
+@rear / bring up / educate / maintain / support@|@araich (v) / àrach@
+@rearing a child / fostering / nursing@|@macaladh (m) -aidh@
+@reason /  ground / occassion / cause / purpose@|@cionn (m ind)@
+@reason / cause / matter / object / purpose / topic@|@adhbhar (m) -air -an@
+@rebellious / sedtious / insubordinate / mutinous@|@ceannairceach (adj) -eiche@
+@receptive@|@gabhail (adv)@
+@red pine@|@piuthas-dearg (m)@
+@redness / ruddiness@|@deirge (f)@
+@refreshing / renewal / modernisation@|@ùrachadh (m)@
+@refrigerator@|@fuaradair (m) -ean@
+@refuse / deny@|@diùlt (m) -aidh@
+@regarding / according@|@a' thaobh (prep)@
+@regarding / with regard to@|@a thaobh (prep)@
+@regarding / with regard to / according@|@a thaobh (compound prep)@
+@rejoicing / joy@|@gàirdeachas (m) -ais@
+@relationship / connection / relevance@|@buinteanas (m) -is@
+@relevance / connection(s) by family@|@buinteanas (m) -ais@
+@remain / stay / wait@|@fan (v) a'fantainn -ail -tail@
+@remark / statement / saying / proverb@|@ràdh (m)@
+@removal / changing of residence / emigration@|@imrich (f) -e -ean@
+@rent / tribute  tax / subsidy@|@màl (m) -ail@
+@repair / mend / affix /@|@càirich (v) a'caradh@
+@repeat / say again@|@can a-rithist@
+@repentance / penitence / regret@|@aithreachas (m) -ais@
+@repetition / corresponds with re-@|@ath- (prefix)@
+@reset /  re-appoint@|@ath-shuidhich (v)@
+@respectively@|@fa-leth (adv) mu-leth@
+@rest / leisure / tranquility@|@fois (f) -e@
+@rest yourself@|@gabh fois (phr)@
+@restore / deliver / give back@|@aisig (v) / aiseag@
+@retinue@|@luchd-airde  (m)@
+@return / ferry / deliverance / vomit@|@aiseag (m) -eig -an@
+@return / returning / coming back@|@ath-thilleadh (m) -lidh@
+@return / reverse / come back / go back@|@till (v) -eadh@
+@return / turn again@|@ath-thill (v)@
+@reveal / show / present / manifest@|@taisbean (v)@
+@revealing / act of revealing / showing /presenting@|@taisneannadh (m) -aidh@
+@review / critique@|@léirmheas (m)@
+@review / reconsider /@|@ath-breithnich@
+@rib@|@aisean (f) -aisne -aisean@
+@riddle / enigma / puzzle / parable@|@toimhseachan (m) -ain -an@
+@riding / equestrianism / horsemanship@|@marcachd (f)@
+@right / correct@|@ceart (adj)@
+@right / just / worthy / (ought)@|@còir (f) -e (+do)@
+@righteous man / gentleman@|@firean (m) -an@
+@ring / circle@|@fàinne (f) -achan -an@
+@ring / music (sound)@|@seirm (v)@
+@rise@|@èirich (v)@
+@river / stream / torrent / brook@|@sruth (m) -a -uith -an -anna@
+@road / way / path / passage / inlet@|@slighe (f) -an -achan@
+@road accident@|@tubaist-rathaid (f)@
+@rock / crag / cliff / precipice@|@creag (f) -an creige@
+@rock / stone@|@clach (m) -adh@
+@rod / twig / wand / yard@|@slat (f) -an / slaite@
+@Rome@|@Ròimh (f) An Ròimh@
+@rook / crow@|@ròcas (m) -ais -an@
+@rope / cord / string / line / twine@|@còrd (m) -ùird@
+@rose@|@ròs (m)@
+@round / circular / collected / neat@|@cruinn (adj) -e@
+@roundabout / traffic circle@|@cearcall an rathaid  (m)@
+@row / series@|@sreath (m)@
+@rubbish / trash / garbage / litter / refuse@|@sgudal (m) -ail@
+@run / flee / dash / flow@|@ruith (v)@
+@ryhme / stanza / verse@|@rann (m) -ainn -an@
+@sable@|@dorch (adj) / dorcha@
+@sad / sorrowful / mournful / melancholy@|@tùirseach (adj) -aiche@
+@sadness / melancholy@|@gruaman (m) -ain@
+@sadness / sorrow / grief@|@mulad (m) -aid@
+@safe@|@sàbhailte (pp)@
+@safety@|@sàbhailteachd  (f)@
+@safety / security@|@tèarainteachd (f)@
+@said (past tense only)@|@arsa (def v)@
+@sail@|@seòl (m) /siùil@
+@sake / account / cause /@|@son (m)@
+@sale@|@reic  (m)@
+@sand@|@gainmheach (f)@
+@satiety / fill / adequate /@|@leòr (f)@
+@satirical / disgusting /comely /using severe words@|@sgreamhail (adj) -e@
+@Saturday@|@Disarthairne (m)@
+@sauntering aout the hillocks / walking idly abroad@|@cnocaireach (f)@
+@save / guard / observe / guard / maintain / tend@|@glèidh (v) -eidheadh -eidhheil@
+@save / rescue@|@sàbhail  (v) -aladh@
+@saving / redemption@|@sàbhaladh (m & vn)   -aidh@
+@saviour / healer@|@Slànaighear (m) -air@
+@saw@|@sàbh  (v)  -adh@
+@say (you - plr  used in 2nd pers pl imp)@|@siuthadaibh (v def)@
+@say / speak / tell / utter@|@abair (irreg v) ràdh@
+@say away / begin / go on / help yourself@|@siuthad (v) -aibh@
+@say that again@|@can sin a-rithist (phr)@
+@scarecrow@|@bodach-rocais (m)@
+@scholar / school-boy / student / man of learning@|@sgoilear (m) -eir -an@
+@school@|@clas (m) -aichean@
+@school / academy / education / seminary@|@sgoil (f) -tean@
+@school teacher@|@bean-teagaisg (f)@
+@schoolmaster@|@maighistir-sgoile (m)@
+@score (music & sport)@|@sgòr (m) -oir - an@
+@Scotland@|@Alba (f)@
+@scrapbook@|@leabhar-mhìr   (m)@
+@screte / hide / make private@|@dìomhairich (v)@
+@sculptor@|@deilbhear (m) -eir -an@
+@sculptor / photographer / designer@|@dealbhair (m) -ean@
+@sculpture / carving@|@snaigheadh (m) -ghidh /-ean@
+@sea-chart / map / compass@|@cairt-iùil (f)@
+@seafarer / sailor / seaman@|@maraiche (m)@
+@search / track / trail / mark@|@lorg (f) / luirge -an@
+@searching / act of confusing things in searching@|@rùdhrachadh (m) -aidh@
+@searching / scrambling / groping / straight@|@rùdhrach (adj)@
+@searching / scrutinizing / enquiring / reviewing@|@rannsachadh (v) -aidh@
+@searching diligently@|@a’ geur-rannsachadh (pr.pt.)@
+@season / time / tense@|@tràth (m) -an@
+@seat / formula /@|@foirm (m)@
+@second@|@dàrna / dara (adj)@
+@second (time) / tick (of clock)@|@diog (m) -an@
+@second coming / next coming@|@ath-thighinn (m) idh@
+@secret / privacy / secrecy@|@priobhaid (f)@
+@see / behold / show / taste / try / give@|@a' feuchainn (v)(pr pt feuch)@
+@see / look / behold / observe / show@|@faic (irr v) -inn@
+@see bi@|@a bheil (v) interr@
+@seed / sperm / progeny@|@sìol (m) sìl@
+@seldom / rare / scarce / curious@|@ainneamh (adv) -eimhe@
+@sell@|@reic  (v)@
+@seller / salesman / vendor / auctioneer@|@reicadair  (m) -ean@
+@send for@|@cuir a dh'iarraidh  (idiom)@
+@sense / reason / understanding@|@ciall (f) -tan cèille@
+@sense / understanding / intelligence /common sense@|@tùr (m) -ùir@
+@sensible@|@toimhseil (adj)@
+@sentence@|@rosg-rann (m)@
+@sentence (grammar)@|@seantans (m)@
+@separate / part / divide / distinguish / divorce@|@eadar-dhealaich (v)@
+@September@|@An t-Sultain@
+@sermon@|@searmon (m) -an -oin@
+@service / employment@|@muinntireas (m) -eis@
+@set crying@|@cuir a ghal (idiom)@
+@settle / appoint / arrange / to let  / betrothe@|@suidhich (v) a' suidheachadh@
+@seven (a seachd  - noun) dict./C Mark@|@seachd   (adj)@
+@seven people@|@seachdnar@
+@several / many / frequent / so many@|@lithad (adj/adv)@
+@sew / stitch / knit / connect@|@fuaigh (v) a' fuaigheal@
+@sewing / stitching@|@fuaigheal (m) -eil@
+@shall or will be {Preceded by a subj part as 'ma'}@|@bhitheas (fut. sub of bi)@
+@shall or will do / make / equal /@|@nì (fut tns of dean)@
+@shall reach@|@ruigidh (IND-fut) ruig@
+@share / property / belongings / resources@|@cuid (f) / codach -ean@
+@sharp / keen / or penetrating eye@|@geur-shùil (f)@
+@sharpener@|@geuradair (m) -ean@
+@sharp-sighted / clear-sighted@|@geur-sheallach (adj), geur-sheallach (adj)@
+@shaving mirror@|@sgàthan-bearraidh (m)@
+@sheep@|@caor (f) / caorach -aich@
+@sheet@|@site (f) / sitichean@
+@shelf /@|@sgeilp (f) -e -ean@
+@shelter / protection / covert / fence@|@dìon (m) -a@
+@shine / beam / dazzle / flare / radiate@|@dearrs (vn) -adh@
+@shine / beam / gleam / radiate@|@deàrrs (v) a'deàrrsadh@
+@shining / glare / shine@|@deàrrsadh (m+vn) -aidh@
+@shirt / smock / shift@|@lèine (f) lèintean@
+@shoe / foot / hoof@|@bròg (f) -òige -an@
+@shoemaker / cobbler-fish / lump-fish / chub@|@greusaiche (m) -an@
+@shop / booth /@|@bùth (f)-a -an -annan -ainnean@
+@short@|@goirid (adj)@
+@shortly / soon / anon / presently / by 'n by@|@dh' aithghearr (adv)@
+@shovel@|@sluasaid (f) -ean@
+@shovelling@|@sluaisdeach (vn)@
+@shower@|@fras (f) -adh froise / frasan@
+@shower / rain@|@sil (f) -e -a' sileadh@
+@shriek@|@sgriach (m)@
+@side / flank@|@taobh (m) -ibh -an@
+@sigh / groan / sob@|@osna (f) -ai@
+@silence / tranquility / repose / peacefulness@|@sàmhchair (f) -e@
+@simultaneous@|@a dh' aon àm (adj)@
+@sin / trespass@|@peacadh (m) -aidh -aidhean@
+@since@|@on (conj) / bhon@
+@since / ago@|@(bh)o chionn (adv), bho chionn (prep phr), o chionn (prep+gen)@
+@sincerity / wish / easrnestness / good-will@|@dùrachd (f) -an@
+@sing@|@seinn (v)@
+@singer@|@neach-seinn (m), seinneadair (m)@
+@sir@|@uasail!@
+@sister@|@piuthar (f) peathar -hraichean@
+@six people@|@sianar@
+@size@|@meud (m)@
+@sky@|@speur  (m)@
+@skylark@|@uiseag  (f) -eig  -an@
+@sleep@|@cadal (v) caidail -an@
+@sleep / slumber / repose@|@caidil (v) / a'cadal@
+@sleepy@|@cadalach (a)@
+@sleet@|@fliuch-sneachd@
+@slice / shavings / paring / cutting@|@sliseag (f) -aige -an@
+@slow / at ease / quiet / tranquil / comfortable@|@socair (a) -e -aiche@
+@slow / deliberate / delay@|@mall (f) -aille@
+@slowly / slower@|@na bu mhaille (adv)@
+@small bit / fragment / tid-bit / mouthful@|@cromag (f) -aige -an@
+@small draught / gulp / mouthful@|@strùbag (f) -aig -an@
+@small portion / small effects /@|@cuideag (f) -eig -an@
+@smell / scent / odour@|@fàile (m) see fàileadh, fàileadh (m) -idh -idhean@
+@smile / quick smile@|@snodha-gàire (m) snodhan-@
+@smoke / reek / steam@|@toit (f) e@
+@smùid ghòrach@|@marjuana@
+@snake@|@nathair (f)@
+@snow@|@sneachd (m) -a@
+@snowy@|@sneachdach (adj)@
+@snug / fond of ease@|@sois (adj)@
+@so ... that@|@cho ... 's (conj)@
+@so be it / so let it be@|@mar sin bitheadh (phr)@
+@so much / as much / equal quintity@|@uiread (m)@
+@so that / in order that / that@|@a chum 's (conj)@
+@society / association / company / guild@|@comann (m) -ainn -an@
+@socket / hollow / cavity@|@lag (m) (luig & laig) -an@
+@soft drink@|@deoch-lag (f)@
+@somber@|@dorch (adj) / dorcha@
+@some / few / some people@|@feadhainn (f) feadhna -nach@
+@some / portion / share@|@cuid (pron)@
+@somebody / someone@|@cuideigin (indef pron)@
+@somehow or other@|@air choireigin (adv)@
+@something@|@rudegin (ind pron), rudeigin (indef pron)@
+@something {pos} / particle / nothing {neg}@|@sìon (m)@
+@son@|@mac (m) mic@
+@song / poem@|@oran (m) -ain -an@
+@son-in-law@|@mac chéile@
+@soon / abrupt / quick / short@|@aithghearr (adj)@
+@soon / by-and-by / anon@|@a dh-aithghearr (adv)@
+@soon / quickly / early@|@luath (adv)@
+@sore / painful / grevious / excruitiating@|@cràidhteach (adj)-aidh -teach@
+@sore / sour@|@goirt (adj) -e@
+@sound / noise@|@fuaim (f) -e -ean@
+@soup / broth@|@eanraich (f) -e -ean@
+@south /  eady@|@deas (f)@
+@space / time / season /@|@tac (f)@
+@spawner / female fish@|@bean-iasg (f)@
+@speak@|@bruidhinn (v)@
+@speak to / address@|@bruidhinn ri (v)@
+@speaking / talking / oration / conversation@|@labhairt (f)@
+@spearation / detach / part with / insulate@|@dealaich (v) -achadh@
+@spectacles@|@speuclair (m) -ean@
+@spectacles / glasses /@|@glainnichean (f - plr)@
+@spell@|@speilig (v) -eadh@
+@spell / while & (a little while)@|@greis (f) -eag -eige@
+@spelling@|@speiligeadh (m) -idh (& vn)@
+@spelling / orthography@|@litreachadh (m) -aidh@
+@spend (time) / wear@|@caith (v) -eamh@
+@spend time@|@cuir seachad (v) /cur seachad@
+@spider@|@breabadair-ladhrach (m)@
+@splinter / flake / chip@|@sgealb (f) -eilbe -an@
+@spoil / abuse@|@cuir a dholoaidh  (idiom)@
+@spoil / mar / injure / destroy / abuse / ruin@|@mill (v) a' milleadh@
+@spoon@|@spàin (f)-e -ean -tean -eachan@
+@spoonful@|@làn-spàin (m)@
+@spouse / partner / wife / husband@|@céile (m)@
+@spring (season)@|@earrach (m) -aich@
+@St Andrew's Day@|@Fèill Anndrais@
+@St. Andrews@|@Cill Rìmhinn (f)@
+@stair@|@staidhre (f) -richean@
+@stallion / stable@|@stal (m) -ail (see stalc)@
+@stamp@|@stàmpadh (m) a' stàmpadh@
+@stand /@|@seas (v) -amh@
+@stark / absolute / entire / complete /@|@tur (adj)@
+@start (to) / beginning / front / genesis / start@|@tòisich (v) -eachadh (air)@
+@start / skip / frisk / hop@|@leum (v) a' leumadh@
+@steer / instruction@|@stiùireadh (m)@
+@step / pace / grade / phase / stride@|@ceum (m) cèim -a -an -annan@
+@stern / rudder / helm@|@stiùir (f)-e -each -ean-ichean@
+@stewardess@|@bana-stiùbhard (f)@
+@stick / baton / cane / staff / truncheon@|@bata (m)@
+@still (whiskey)@|@poit-dhubh  (f)@
+@stimulant@|@deoch-bheòthachaidh (f)@
+@stir about / mix@|@measg (v)@
+@stitched / nailed / sewn / pegged / attached@|@fuaighte  (adj)@
+@stop@|@stad (v)@
+@stop / cease / terminate / desist / leaving off@|@sguir (v) a' sgur /a' sgurachd@
+@stop / restrain / wean / quell / quench@|@casg (v) a' casg / a' cosgadh@
+@store (to store)@|@stòir (v) -eadh@
+@stored@|@taisgte (pp)@
+@storing@|@stòireadh (m+vn of stòir) -idh@
+@storm@|@stoirm (f) -e -ean@
+@stormy / gusty / boisterous@|@stoirmeil (a) -e@
+@stormy / wintry / gloomy / dismal / dark /December@|@dùdlach (adj) -aich@
+@story@|@stòiridh (f) -ean@
+@story / tale / information@|@sgeul (m + f) -an / sgeòil@
+@stove@|@stobha (m) -aichean@
+@strange / unusual / curious / peculiar / weird@|@neònach (a) -aiche@
+@stranger / guest / traveller /skilful person /hero@|@aoigh (m) -e -ean -eanna@
+@stream / burn@|@allt (m) uillt@
+@street / lane / walk / promenade / row@|@sràid (f) -e -ean@
+@strength / energy / might@|@neart (m) neirt -an@
+@stretching  act of stretching / extending@|@sìneadh (m) -idh@
+@strongly-worded warning@|@garbh-rabhadh (m)@
+@student / learner / pupil / scholar /@|@oileanach (m) -aich -aichean@
+@studying@|@a' sgrùdadh, ris an sgoil (adv.phr)@
+@stumble / slip / fall / mistake /@|@tuisleadh (m) -lidh -lidhean@
+@substance / property / wealth / goods / gear@|@maoin (f) -e -ean@
+@such a thing@|@leithid de rud (phr)@
+@sudden / rush /hasty / unexpected@|@obann (a)@
+@suffer / endure / permit / allow / bear@|@fuiling (pr pt+v) a'fulaing@
+@sugar@|@siùcar (m)@
+@sulky / sullen@|@sliopair (m) -e -ean@
+@sullen / gloomy / morse / shy / dark / sorrowful@|@gruamach (adj) -aiche@
+@summer@|@samhradh (m) -aidh -aidhean@
+@sunburn@|@losgadh na grèine (m)@
+@Sunday@|@Didòmhnaich (m)@
+@Sunday (Day of the Sabbath)@|@Latha/Là na Sàbaid (m)@
+@sunrise@|@èirigh na grèine (f)@
+@supper@|@biadh-feasgar@
+@support / dependence / prop (see Dwelly's)@|@taic (f) -e@
+@suppressing@|@cùm fodha@
+@sure / certain / accurate / positive / decisive@|@cinnteach (adj) -iche@
+@surface / roof / top / upside@|@uachdar (m)@
+@surly frown / gloomy / sulky look@|@gnoig (f) -e -ean@
+@surname / bestow a surname / trace one's pedigree@|@sloinn (v)@
+@surprise / wonder / marvel@|@iongnadh (m) -aidh -aidhean@
+@surrender / giving up / extreme fatigue or despair@|@toirt-thairis (f)@
+@sweat / perspiration@|@fallas (m) -ais@
+@sweater / jersey@|@geansaidh (m)@
+@sweet /@|@mìlsean (m) -ein -an@
+@sweet / sweetness / confection@|@mìlse (f) -eachd -ag@
+@sweetheart / lover / paramour@|@leannan (m)@
+@sweetness / delcacy@|@mìlseachd (f)@
+@sweltry / humid / sultry@|@bruthainneach@
+@swim@|@snàmh (v)@
+@table / board / plank / Board of Dir.@|@bòrd  (m) bùird@
+@tadpole@|@òs-losgann (m) -ainn -an@
+@tail@|@earball (m)@
+@tailor@|@taillear (m) -eir -an@
+@take / hold@|@gabhar (fut pass ~gabh)@
+@taking / seizing / grasping / snatching / catching@|@glachadh (m) -aidh@
+@talent@|@tàlant (m)@
+@talk about / discuss / go on about@|@bi a-mach air@
+@talker / cracker / knocker@|@cnacair (m)@
+@tall / chief / high / great / loud / superior@|@àrd / àraide (adj)@
+@tape cassette@|@cèiseag (f) -eige -an@
+@taste / accent@|@blas (m)@
+@tattoo@|@tatù  (m) -ùthan@
+@tax / tribute / oblation / homage / submission@|@cìs (f) -e -ean@
+@tea@|@tì (m)@
+@tea pot@|@poit-teatha  (f)@
+@teacher@|@tidsear (m) -eir -an@
+@teachers / teaching staff@|@luchd-teagaisg (m)@
+@teaching / act of teaching / instructing@|@tegasg (m) -aisg@
+@teaching / instructing / education@|@teagasg (m) -aisg@
+@teacsa (f)@|@text@
+@team / crew /@|@sgioba (m) -n@
+@tear /  rend / cut asunder / rob / spoil / plunder@|@srac (v)/sraic /a' sracadh -an@
+@tear / teardrop@|@deur (m) deò@
+@tearing / rendering / rent / fissure / cutting@|@sracadh (v + n) -aidh@
+@television@|@telebhisean (m)@
+@telling / relating / recounting / version@|@innse (m+vn) of innis@
+@temperate / moderate / sober / bashful / modest@|@stauma (adj) -aime@
+@temperature@|@cuimheasachd (f)@
+@tempt / allure / provoke / annoy / disturb /madden@|@buair (v) a' buaireadh@
+@ten people@|@deichnear@
+@tenant / sojourner / darkening /  gloomy@|@rùdhrach (m) -aich@
+@text@|@teacs (f) -a -aichean@
+@text-book@|@teacs-leabhar (m)@
+@textual@|@teacsail (adj)@
+@than / (used to compare)@|@na (conj)@
+@thankful / pleased / satisfied@|@buidheach (adj) -iche@
+@thanks / gratitude / obligation@|@taing (f) -e@
+@that@|@gur (intro before nouns & adj)@
+@that / to that end@|@gu (conj)@
+@that / who / which is@|@as (rel form of ass v) a + is@
+@that / yonder@|@ud (demon. pronoun)@
+@that will do@|@ni sin an gnothach (phr)@
+@That's sad indeed@|@is truagh sin gu dearbh@
+@the bigger of / greater@|@mòid (adj) -e / mò + de@
+@the future@|@an t-àm ri teachd@
+@the last time@|@an uair mu dheireadh (phr)@
+@the other day@|@an latha roimhe@
+@the past-tense@|@an trath-caithte@
+@the rest  / the others@|@càch (indef pron) càich@
+@The Sabbath@|@Sàbaid (f) -e -ean@
+@The Scottish Historical Society@|@Comann Eachdraidh na h-Alba (m@
+@the sea / sea / ocean@|@muir (f)@
+@the summer season@|@àm an t-samhraidh@
+@the sun set@|@Chaidh a' ghrian fodha (phr)@
+@the teeth / set of teeth /@|@deudach (m) -aich@
+@there / thither / then@|@an-sin (adv)@
+@there it is / that's it@|@sin agad sin! (phr)@
+@these times@|@an h-amanna seo@
+@they were drunk (the drunk was on them)@|@bha an deoch orra (phr)@
+@thick / not slender /@|@garbh (adj) gairbh@
+@thick / not slender / dense@|@tighe (adj)@
+@thief / robber / rebel@|@mèirleach (m) -ich@
+@thin / lean / narrow / slim / lanky@|@caol (adj) caoil -tean@
+@thing@|@rud (m) -an / ruid@
+@think@|@smaointinn (v) tich -tinn@
+@think (about) / suppose / imagine / conceive@|@saoil (v) -sinn -tinn@
+@thinking / considering / reflecting / meditation@|@smaoineachadh (m) -aidh@
+@thinking / suppose / imagine@|@saoilsinn (f) a' saoiltinn@
+@thirst@|@pathadh (m) -aidh@
+@thirty@|@trihead (dec.)@
+@this year@|@a' bhliadhna seo, am bliadhna@
+@thong / strap / lace / leash@|@iall (f) -an èill@
+@though / although@|@ged (conj)@
+@though / however / no matter how (before adj)@|@ge (conj) see ged@
+@thought / cogitation /notion / reflection@|@smaoin (f) -e -tean (smuain)@
+@thousand / mile@|@mìle / mìltean (f)@
+@three people@|@triùir@
+@throne@|@cathair-rìoghail (f) -thrach@
+@through / by@|@trìd (prep + gen)@
+@through / by means of@|@tre (prep)@
+@through / by means of /@|@trò (m)@
+@through / throughout / among / during@|@air fad (prep)@
+@through me@|@troimham (prep proun) of (tro)@
+@through my / through their@|@trom (aug prep)@
+@through you@|@tromhad (prep proun)@
+@throughout@|@air feadh (compound prep)@
+@throw@|@tilg (v)@
+@thrush / mavis@|@smeòrach (f) -aich -aichean@
+@Thursday@|@Diardaoin (m)@
+@ticket@|@ticead (f) /tiocaid e -ean@
+@tie / unite / connect / bind / link@|@ceangal (adj) -ail@
+@tied up / connected / united / married@|@ceangailte (adj)@
+@till@|@ach am / an (adv)@
+@time@|@tìde / tìdeachan (f)@
+@time / occasion / era / season@|@àm (m) /amannan -a@
+@time / proper or fit time / season@|@mithich (f)@
+@timekeeper / clock / observer of seasons@|@tràthadair (m) -ean@
+@times /@|@amannan (plr) of àm@
+@tingling sound / report / noise@|@glaoim (f) glaomadh@
+@tinker / smith / brazier / mechanic@|@ceàird (m) ciùird (pl) ceàrdan@
+@to /  in order to {that} / before / until@|@gus (prep +conj)@
+@to / against / towards / unto@|@ri  (prep)  + dat@
+@to / for the / their@|@dhan (aug prep)@
+@to / til / until / unto@|@gu (prep +) / gus@
+@to her@|@thuice (gu+her) -se@
+@to her / to it@|@rithe  (prep pron)  riutese@
+@to him@|@thuige (gu+he) -san@
+@to him / to it / to the@|@ris  (prep pron)  ris-san@
+@to me@|@rium  (prep pron)  riumsa, thugam (gu+mi) -sa@
+@to the face@|@as an aghaidh (adv)@
+@to the point@|@chun a' ghnothaich@
+@to their / to the@|@gu 'm (gu + an), gu 'n (gu + an)@
+@to them@|@riutha  (prep pron)  riuthsan, thuca (gu+they) -san@
+@to us@|@ruinn (prep pron)  ruinne, thugainn (gu+we) -e@
+@to you@|@riut  (prep pron)  riutsa, thugad (gu+you) -sa@
+@to you  (plr)@|@riubh  (prep pron)  riubhse@
+@to you (plr)@|@thugaibh (gu+you plr) -se@
+@toad / frog / wretch@|@losgann (f/m) -ainn -an@
+@toast (proposal of health)@|@deoch-shlàinte (m)@
+@tobacco@|@tombaca (m)@
+@together / along with / simultaneously@|@còmhla (adv)@
+@together / cement / compose / consrtuct / join@|@rì chèile@
+@tomorrow / next day@|@màireach (m) a-@
+@tonight / this evening /@|@a-noch (m) -oich@
+@too / very@|@ro (adv +len)@
+@too much@|@thar na còrach@
+@tool / instrument / medicine / stuff / assortment@|@cungaidh (f) -ean@
+@tooth / ivory@|@deud (m)@
+@toothache@|@dèideadh (m) -idh@
+@top / crest / summit / height / peak / lid / roof@|@mullach  (m) -aich -aichean@
+@torn / spoiled / robbed@|@sracta (pt) of srac@
+@towards@|@a dh'ionnsaidh (compound prep)@
+@tower / fortification / turret / fort@|@tùr (m) -ùir@
+@toy / pebble@|@dèideag (f)  -eig -an@
+@trade / business / office / duty@|@dreuchd (f)@
+@trade / profession / occupation / art / skill@|@ceàird (f) -e -ean@
+@trailing / dragging / drawing / pulling@|@slaodach (adv) -aiche@
+@train (railway)@|@trèan (f) -adh -aichean@
+@tranquil / peaceful@|@sàmhchaireach (adj) -aiche@
+@translating / translation@|@eadar-theangachadh (m) -gaich@
+@translator@|@eadar-theangair (m)@
+@trap@|@inneal-glacaidh (m)@
+@travel / journey / stroll / roam / move / traverse@|@siubhal (m) -ail@
+@travel agency / center@|@ionad-siubhail@
+@travelling@|@luchd-falbhainn (m)@
+@treasure / hoard@|@tasgaidh (f) -e -ean@
+@tree@|@craobh (f) -oibhe -an@
+@trial / hardship / attempt / endeavour / essay@|@deuchainn (f) -e -ean@
+@tribe / people / folk / family / company / band@|@dream (m)@
+@tribute / fine / tax / toll@|@càin (f) cànach / càine -tean@
+@trifling /@|@leasach (adj) -aiche@
+@trout / salmon@|@breac (m) brice -ean@
+@truly / actually  indeed  seriously / certainly@|@rìreadh (adv) a-rìreadh@
+@truth /verity / faithfulness / righteousness@|@fìrinn (f) -ean@
+@try / test / attempt / feel / prove / taste@|@feuch (v) -ainn -(ai) or (ri)@
+@trying / seeing / disclosing / attempting / trial@|@feuchainn (f)@
+@Tuesday@|@Dimàirt (m)@
+@turn off@|@cuir dheth (v) cur dheth@
+@turn on@|@cuir air (v) cur air@
+@tusk@|@sgor-fhiacail (f)@
+@two (only of persons)@|@dithis (adj)@
+@type / like / such / the like@|@leithid (f) -e -ean ( de rud)@
+@ugly@|@grànnda (adj) gràinnde@
+@umbrella@|@sgàil-uisge (f) -ean, sgàilean-uisge (m)@
+@un- / dis- / etc@|@eu- (pref)@
+@under@|@fon (+ an (sing. dat)@
+@under consideration / observation  / awareness@|@fa-near (adv) from {fo'n aire}@
+@under her / under it@|@foipe (fo + i)@
+@under him / under it@|@fodha (fo + e) -san@
+@under me@|@fodham (fo + mi) -sa@
+@under them@|@fopa / fodhpa (fo + iad) -asan@
+@under us@|@fodhainn (fo + sinn ) -e@
+@under you@|@fodhad (fo + thu)@
+@under you (plr) (polite)@|@fodhaibh (fo + sibh) -se@
+@understand / assume / descern / comprehend@|@tuig (v) a' tuigsinn@
+@understood  {will be}@|@tuigear (fut of tuig )@
+@unfortunate@|@mì-fhortanach (a)@
+@unfriendly@|@eu-càirdeil (adj)@
+@unhappy@|@mì-shona (conj)@
+@university@|@oilthigh (m) -ean@
+@unless / if not@|@mur (conj) / mura@
+@unpleasant / distasteful@|@mì-chàilear (adj)@
+@unthankful / ungrateful / not easily pleased@|@mi-thaingeil (adj) -e@
+@unthankfully@|@gu mi-thaingeil (adj)@
+@until / to / towards / unto@|@chun (prep +) variation {gu}@
+@unusual@|@neo-àbhaisteach (adj)@
+@unwearied / unfatigued / willing@|@neo-sgìth (adj)@
+@up / upwards@|@suas  (adv)@
+@used (f) nouns beginning with b/ m/ p/ c/ & g@|@a' (def art)@
+@usual / habit / customary /@|@àbhaisteach (adj) -tiche@
+@vacation / holidays@|@saor-làithean (m) plr@
+@value estimation@|@tach (m)@
+@van / vehicle@|@bhan (f) -aichean@
+@veal@|@laoigh-fheòil (f)@
+@vegetable@|@luiseanachd (f)@
+@vein / sinew / muscle@|@fèith (f) -e -ean@
+@venison@|@féidh-fheiol (f)@
+@very / actual / pure / authentic@|@fìor (adv)@
+@very / extremely / true / perfect / ideal@|@sàr (adj) precedes & lenites@
+@very / same@|@ceudna (adj) preceded by 'an'@
+@very great@|@gu ro mhór (phr)@
+@vessel / dish /@|@soitheach (m) -ich -ichean@
+@video@|@bhidio (m) -othan@
+@view / sight / show / vision / spectacle@|@sealladh (m) -aidh -aidean@
+@vineyard@|@fion-lios (m) -an, garradh-fìona (m)@
+@visible / clear / plain / obvious / evident@|@lèir (adj)@
+@visit / ceilidh / sojourning / pilgrimage@|@céilidh (f) -ean@
+@visual arts@|@ealdhainean lèirsinneach (pl)@
+@vital spark (West coast of Ross)@|@ràbhadh (m) -aidh@
+@voice / word / mention@|@guth (m)@
+@volunteer@|@saor-thoileach (m) -ich@
+@vote@|@bhòt (f) -aichean@
+@wage / salary / hire / stipend@|@tuarastal (m) -ail -an@
+@wages / reward / fee / hire / salary / stipend@|@tuarastal (m) -ail -an@
+@wait a minute@|@fuirich mionaid (phr)@
+@waiting /  remaining / staying / attending@|@feitheamh (vn)@
+@waiting / remaining / staying /  attending@|@a' fèitheamh (pr pt)@
+@waiting for@|@air chionn (prep)@
+@waken / arouse / raise / rouse@|@dùisg (v) dùsgadh@
+@walk@|@coisich  (v)  coiseachd@
+@walker / pedestrian@|@coisiche  (m)@
+@wall / bulwark / shield@|@balla (m) -achan@
+@wand / yard-measure / measurement@|@slat-thomhais (f)@
+@wandering / going astray / transgression@|@seachran (m) -ain -an@
+@want / deficiency@|@iùnais (f)@
+@want / request / seek@|@iarr (v) -aidh@
+@war / warfare / fighting@|@cogadh (m) -aidh -aidhean, cognadh (m) -aidh -aidhean@
+@wares / merchandise / goods / whisky@|@bathar (m) -air@
+@warm / heat / kindliness/ affectionate disposition@|@blàths (adj) -aiths@
+@warm / warm-hearted / pleasant / kind@|@blàth (a) -aithe@
+@warning / alarm / hue / cry / advice / caution@|@rabhadh  (m) -aidh@
+@was seen@|@chunnacas (pst aff.) faic@
+@wash / cleanse / bathe / purify@|@nigh (v) -e a' nigheadh@
+@watch / clock / timepiece@|@uaireadair (m)@
+@watch / observe / be vigilant@|@deàrrsaich (adj) a' dearrsaich@
+@waulk / waulking / fulling / fuller /@|@luadh (m) -ach -adh -adair@
+@wave@|@tonn (m) -an / tuinne@
+@way / manner / apearance / likeness@|@ludh (m)@
+@we / us@|@sinn (prep pron) -e@
+@We are proud of you@|@Tha sinn pròiseil asad (phr)@
+@wealthy / rich@|@beartach (adj) -aidh@
+@weary / oppress / exhaust / fatigue@|@claoidh (v) -eadh@
+@weary / tired / fatigued / labourous /@|@sgìth (adj) -e@
+@weather / time / era@|@aimsir (f) -e -ean@
+@weather {rough} / storm / blast / elements@|@sian (f) sìne / siantan@
+@weaver / one who kicks@|@breabadair (m) -ean@
+@weaving / knitting@|@figheadh (m) -idh / a' fighead@
+@website@|@làrach-lìn (f)@
+@wedding / nupitals@|@banais (f) -nse -nsean@
+@wedding anniversary@|@fèill-bhliadhnail (f)@
+@wedding ring@|@fàinne-pòsaidh (m)@
+@Wednesday@|@Diciadain (m)@
+@week@|@seachdain (f) -e -ean@
+@weekend@|@ceann-seachdain (m), deireadh-seachdainn (m)@
+@weep / deplore / wail@|@caoin (f) a' caoineadh@
+@well@|@uill (interj)@
+@well / spring / fountain@|@fuaran (m) -ain -an@
+@well done yourself!@|@sin thu fhein! (phr)@
+@went@|@chaidh (irr. v) rach@
+@west@|@siar (adj)@
+@wet one's whistle@|@fliuch do shlugan (v phr)@
+@whack / drivel / saliva / snot / thump / slap@|@sgleog (f) -oig -an@
+@what / all that /@|@na (rel)@
+@what a funny fellow you are@|@is éibhinn an gille thu ...@
+@what did you say?@|@dè thuirt thu? (phr)@
+@what does that mean?@|@dè tha sin a’ ciallachadh? (ph@
+@what is the use of it?@|@Dé is feum dha? (phr)@
+@what?@|@ciod (interr), dé (int pron)@
+@whatever / whatever / at least / at any rate@|@co-dhiù (adv)@
+@whatever / whatsoever@|@as bith (oron)@
+@wheelchair@|@cathair-cuibhle (f)@
+@when / at what time@|@cuin (interr pron) -e@
+@when / while / as / seeing that@|@nuair (conj)@
+@when you want to ...@|@nuair a thogras tu ...(phr)@
+@where / wherein@|@far (conj / rel pron)@
+@which@|@creud (interr)@
+@Which is correct?@|@Cò aca tha ceart? (interr.phr)@
+@which?@|@cia (interr)@
+@while@|@fhads (conj)@
+@while / spell (greis)/ distance of place@|@treis (f) -e@
+@whisper / advice / notice / knowledge / etymology@|@sanas (m) -ais -an@
+@who / which / that@|@a (rel pron), mar (rel pronoun)@
+@who?@|@có (interr)@
+@wholesale@|@slàn-reic (f)@
+@why@|@carson (adv)@
+@wide valley / vale / valley@|@srath  (m)  -a  -an@
+@widow / widower@|@banntrach (f) -aic -aichean@
+@wife / matron / woman@|@bean (f) / mnatha / mnaol@
+@wild / untamed / savage@|@fiadhaich (adj) -e@
+@wild / untamed / savage / sour@|@fiadhain (adj) -e@
+@will be@|@bidh (irreg v)@
+@will happen / befall / meet@|@tàrladh (fut-v) -aidh@
+@will see / can see@|@chì (irr v) see faic@
+@willing / spontaneous / agreeable / granting@|@deònach (adj) -aich@
+@willing / voluntary / desirous / glad@|@toileach (adj) -eiche@
+@willingly@|@a dheòin@
+@will-power@|@neart-toil@
+@win / achieve / gain / profit@|@buidhinn (f)@
+@wind@|@bad (f)@
+@wind / flatulence@|@gaoth (f) -aoithe -ean@
+@window@|@uinneag (f) -eige -an, uiread (m)@
+@windy /  stormy / blowing loudly@|@àrd-ghaothach (adj) -aiche@
+@winter@|@geamhradh (m) -idh -achadh@
+@wish / hope@|@dùraig (v) -eadh@
+@wishing / desire / inclination@|@togradh (m+vn) -aidh -aidhean@
+@wishing for / desirous@|@an geall (adv)@
+@wishing well / beseeching / praying / wish@|@guidhe (m) -achan@
+@witch / sorceress@|@bana-buidhseach (f)@
+@with / in company with / by / by means of@|@le  (prep)@
+@with every good wish/intention@|@leis gach deagh dhùrachd (phr)@
+@with her@|@leatha  (prep pron)@
+@with him / with it@|@leis (prep pron)  leis-san@
+@with me@|@leam  (prep pron)  leamsa@
+@with them (aka - leotha)@|@leò   (prep pron)  le@
+@with us@|@leinn  (prep pron)  leinnse@
+@with you@|@leat   (prep pron)  leatsa@
+@with you  (plr)@|@leibh  (prep pron)@
+@within  / inside@|@am broinn (prep)@
+@without@|@às aonais (prep), às eugmhais (prep), gun a bhith (phr)@
+@without / want / lack / deficiency / need@|@dhìth (adj) -e@
+@wizard@|@buidsear  (m)@
+@wonder / surprise / astonishment / miracle@|@iongantas (m) -ais -an@
+@wood / timber@|@fiodh  (m) -a@
+@woodwind instrument@|@gaoth-ionnstramaid (f)@
+@wordy / verbose / talkative / loquacious@|@briathrach (adj) -aiche@
+@work / actitivity / job / labour / profession@|@obair (f) /obrach -aichean@
+@work force / labourers@|@luchd-obrach (m)@
+@working@|@obrach (a+gen sing obair)@
+@workshop@|@bùth-obrach (m/f)@
+@world / life / span@|@saoghal (m) -ail -an@
+@worry / annoyance / bother / trouble /@|@dragh (m) -a@
+@worse@|@miosa (v)@
+@worth / wothy / estimable@|@fiù (m)@
+@worthless / trivial / trash@|@gun fiù@
+@worthy / deserving / entitled (to)@|@àiridh (adj) -e@
+@would /would I /... you / ... etc@|@b' àill (bu àill) /leam /leat@
+@would be said@|@theirtheadh (pst sub of abair)@
+@would get@|@gheibheadh (2nd/3rd sing)faigh@
+@woven / twisted  twined / wreathed@|@fighte (pt pt) of figh@
+@wringing / squeezing / pressing@|@fàsgadh (m) -aidh@
+@wrinkle / plait / old man@|@rug (m) -a -uig -annan@
+@wrong / awkward / unlucky /@|@cearr (adj) -a / ciorra@
+@wrongful@|@eucoireach   (adj)@
+@yarrow  (achillea millefolium)@|@cathair-thalanda (f)@
+@year-old calf / young bullock / yearling deer@|@gamhainn (m) -aimhne -amhna@
+@yellow colour@|@buidhe (m)@
+@yes@|@tha mi gl'e beachdaidh (phr)@
+@yet / nevertheless / though / although@|@gidheadh (conj)@
+@yet / still@|@fhathast (conj)@
+@yon / that / there@|@siud (dem pron)@
+@you are quite useless@|@is beag feum a tha ort (phr)@
+@you needn't bother@|@cha leig thu leas@
+@you’re welcome@|@’s e do bheatha (phr)@
+@young / youthful@|@òg (a) òige@
+@young fellow / boy /@|@balach  (m) -aich@
+@your (+ n- before vowel)@|@'ur (contraction) / bhur, bhur (poss.adj) / 'ur@
+@you're welcome@|@'s e do bheatha@
+@youth / youngster@|@òganach (m) -aich@
+@youthful / young@|@ògail (adj) -e@
+@zero / nothing / naught / nil /@|@neoni (f)@
+

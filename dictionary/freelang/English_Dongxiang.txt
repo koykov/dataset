@@ -1,0 +1,485 @@
+@English@|@Dongxiang@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1st Sg. ps. pronoun obl. case@|@ma-, nama-, nami@
+@a k. of grass@|@xanxou@
+@above@|@žiedu, žierë@
+@abrasion@|@daru-san@
+@adze@|@uali@
+@afternoon@|@dur@
+@age@|@nasun@
+@anger@|@ür, xö@
+@animals@|@žunžuha@
+@apple@|@pingo@
+@arm@|@qa@
+@armpit@|@suhë, sunGo@
+@art@|@uran@
+@ashes@|@funiesun@
+@ask@|@Goji-@
+@aspen@|@xulasun@
+@awl@|@sumeGe, sumëhë@
+@bad@|@mau, mou@
+@bag@|@fuda@
+@bare@|@muchuhun, nuchugun@
+@barley@|@apa@
+@be heated@|@šie-@
+@be wet@|@noro-@
+@beak@|@qušun@
+@beautiful@|@saiGan@
+@become cold@|@daGara-@
+@bell@|@GongGon@
+@below@|@daura, dëura, dodu, doura@
+@belt@|@pišie@
+@besom@|@šiu-, šu@
+@big@|@fugie@
+@bitter@|@qëšun, qyšun@
+@black@|@qara@
+@blanket@|@guanžulie@
+@blind@|@suGo@
+@blood@|@chusun@
+@bone@|@jasun@
+@book@|@shu@
+@border@|@Gyža@
+@bosom@|@echen@
+@bridle@|@Gada, qata@
+@brown@|@boro@
+@bushes@|@puda@
+@buttock@|@bugsu, burse, bursu@
+@buttocks@|@boGo@
+@button@|@tedzhu, tyžy@
+@calf@|@tuGun@
+@carrot@|@tuma@
+@cheek@|@qycha, qyža@
+@chest@|@xazy@
+@chute@|@gobi@
+@clay@|@šuva@
+@clean@|@arun@
+@close@|@qa-@
+@cloth for cleaning@|@anchu@
+@cloud@|@olien@
+@cold@|@kuichien@
+@collect@|@Gura-@
+@colour@|@ungie@
+@conceal@|@niu-@
+@corner@|@golo@
+@cow@|@fugie@
+@crack@|@žava@
+@crops@|@taran@
+@cross a mountain@|@dava-@
+@crumple@|@fungu-@
+@cup@|@iha, jiGa@
+@danger@|@ajiGu@
+@daughter@|@ochin@
+@daughter-in-law@|@bieri@
+@day@|@udu@
+@deaf@|@dulei@
+@deep@|@gun@
+@defect@|@gën, gien@
+@descendant@|@fure@
+@desert@|@gobi@
+@different@|@donië@
+@dirt@|@basun@
+@distinguish@|@(j)inGara-, inGërë-@
+@dog@|@noGi, nohëi@
+@Dongxiang people@|@sarta@
+@donkey@|@enžehe@
+@door@|@vižien@
+@downwards@|@furu@
+@dream@|@žöžin@
+@ear@|@chëGën, chëqeng, chyGyn@
+@early@|@echie@
+@earth@|@šëura, tura@
+@edge@|@užu@
+@egg@|@endeGi@
+@elbow@|@tohëi@
+@elder brother@|@aha@
+@elder sister@|@eGechë@
+@employ@|@žaru-@
+@enclosure@|@Goron, Goruan, qorong@
+@end@|@šian, šien@
+@enjoy@|@bajasu-@
+@enthusiasm@|@uruma@
+@eye@|@-n, nudung@
+@eyelash@|@somosun@
+@face@|@niu, nu@
+@family@|@kide@
+@fan@|@shendzw@
+@far@|@golo@
+@fart@|@-sun, hunGu-@
+@fat@|@fugun@
+@father@|@aba, apa, avi@
+@fathom@|@anda, anda-la-@
+@feast@|@bajasu@
+@feather@|@xodun@
+@file@|@chireu@
+@finger-nail@|@Gëmusun, Gymusun@
+@fire@|@qan@
+@fish@|@žaGasun@
+@five@|@tavuan, tawun@
+@floor@|@širo@
+@flour@|@Gurung, qurung@
+@fly@|@misë-, musë-@
+@food@|@budan@
+@foot@|@kon, kuan, šëGara@
+@forehead@|@manlëu@
+@fountain@|@bula@
+@four@|@žieron, žieruan@
+@friend@|@nokië@
+@front of cloth@|@engie@
+@fry@|@kuru-@
+@fumigate@|@fudu-@
+@fur hat@|@maGala@
+@get oedema@|@chyla-@
+@goat@|@Goni@
+@good@|@gau, sain@
+@grass@|@osun@
+@green@|@kugie@
+@grey@|@boro(ng)@
+@guard@|@saGi-, sahëi-@
+@hail@|@mandëu, mensun@
+@hair@|@usun, usung@
+@hard@|@putu, qydun, qytun@
+@hare@|@taolëi, taulei@
+@he@|@tere@
+@head@|@chiaurun, chiërun@
+@headstall@|@loto@
+@hear@|@sonosu-@
+@heart@|@žuGe, žuhë@
+@hearth@|@žiëwë, žowo@
+@heavy@|@gundu@
+@hero@|@inshin@
+@high@|@undu@
+@hold@|@bari-@
+@hole@|@nokien@
+@hollow@|@qosun@
+@home@|@gie@
+@hook@|@sojë@
+@horn@|@eve, uve@
+@horse@|@mori@
+@horse(s)@|@asun@
+@host@|@ežen@
+@I@|@bi, mini (gen.)@
+@inside@|@sudoro, tudoro@
+@instigate@|@uduru-@
+@intelligent@|@tsunmin@
+@intestines@|@kižesun qyžësun, kižiësun@
+@island@|@aran@
+@join@|@žanha-@
+@juice@|@šulie@
+@jujube@|@chuchuga@
+@junior nephew@|@hachë, hachy@
+@kettle@|@tuG(u)an@
+@knead@|@žuwa-@
+@knee@|@odëu@
+@knife@|@qudoho@
+@lamb@|@Guhan, quhan@
+@land@|@Gaža@
+@larva@|@xodëu@
+@leaf@|@lachën@
+@lean on@|@tulu-@
+@life@|@amin@
+@light@|@gieren, šëngan@
+@light (not heavy)@|@gongen, kongen@
+@lip@|@furëu, furun, furung@
+@long@|@fudu@
+@louse@|@bënhë, bosun@
+@lung@|@fei@
+@maggot@|@xodeu@
+@magpie@|@sažëGi, sažyhëi@
+@man@|@ere, kun@
+@many@|@olon@
+@marrow@|@nurun@
+@marrow-bone@|@chumeGe@
+@meagre@|@turi-@
+@meat@|@miGa, miha@
+@medical doctor@|@ishun@
+@medicine@|@je@
+@method@|@fanfa, raG@
+@middle@|@dunda@
+@milch cow@|@nainiu@
+@money@|@dzhiatshien@
+@Mongol@|@mungu@
+@moon@|@sara@
+@more than@|@siliu, šiliu@
+@mother@|@a'na@
+@mount@|@huntra-, unu-@
+@mountain@|@ula@
+@mouth@|@aman, amang@
+@mow@|@chyžy@
+@nail@|@Gadasun@
+@name@|@niere@
+@navel@|@kuisun@
+@near@|@uira@
+@neck@|@Gužun@
+@needle@|@žun@
+@nephew@|@žë@
+@nest@|@xo@
+@new@|@šëni, šyni@
+@night@|@šieni@
+@nipple@|@gogo@
+@northwards@|@qui-na@
+@nose@|@qava@
+@not@|@ese, ulie@
+@notice@|@šieri-@
+@oath@|@andaha(n)@
+@obtain@|@olu-@
+@old man@|@ochien@
+@one@|@nie(kie)@
+@onion@|@sunguna@
+@open wide@|@jara-@
+@orphan@|@oniechyn@
+@other@|@puse@
+@ox@|@fugie(r)@
+@palm (of hand)@|@hanGa@
+@pea@|@pucha, puža@
+@people@|@zhnmin@
+@person@|@beije, kun@
+@pestle@|@mudn@
+@pine@|@sunshu@
+@pipe@|@Golei@
+@plait@|@GëžëGi@
+@plough@|@anžasun, nžasë@
+@plug@|@buhun@
+@pregnancy@|@kieli@
+@press into@|@chëqi-, chyGëi-@
+@rain@|@Gura@
+@raise@|@uGu-@
+@ram@|@quža@
+@rapid@|@Gudun, Gužin@
+@ready@|@bëlian, belien@
+@red@|@xulan@
+@relative by marriage@|@Gadun@
+@relative-in-law@|@Gudahi, gugahi@
+@rib@|@qaruGa, qaruha@
+@right@|@žo@
+@river@|@moran, moren@
+@river valley@|@Gon@
+@robber@|@GuGi, Guhëi, Gulahëi@
+@rock@|@Gada@
+@root@|@undusun@
+@rope@|@žiesun@
+@rush@|@Gulusun@
+@sack@|@fuda@
+@saddle blanket@|@tohun@
+@salt@|@dansun@
+@scholarly educated@|@unmo@
+@scissors@|@qaichy@
+@scoop@|@šynaga@
+@secretly@|@siëmë@
+@seed@|@fure@
+@sharp-shooter@|@merhen@
+@shave@|@Gëha-@
+@ship@|@tshon@
+@shirt@|@shen'dzw@
+@shoe@|@gudusun@
+@shore@|@qecha@
+@short@|@oqo@
+@shoulderblade@|@dale, daleu, taleu@
+@sickle@|@Gadu@
+@silhouette@|@barä@
+@similar@|@adali, mutu@
+@sinew@|@sudan, sydasun@
+@skin@|@arasun@
+@sleep@|@no@
+@sleeve@|@Ganžun@
+@small (in number)@|@chohuan, chueGuan@
+@smell@|@funi@
+@smoke@|@funie@
+@snake@|@moGi, mohëi@
+@snow@|@chasun, žansun@
+@son@|@këvan, këwon@
+@son-in-law@|@kuhan@
+@soot@|@guë-mëi@
+@south@|@nafan@
+@South@|@melie@
+@spark@|@ochin@
+@spy@|@tanži-@
+@star@|@xodun@
+@stick to@|@niaha-@
+@stitch@|@šyri-@
+@stop up@|@buhulie-@
+@strength@|@kuchie@
+@sugar@|@kan@
+@sun@|@na'ran, na'ran, naran@
+@surplus@|@fëilië-@
+@swallow@|@qarancha@
+@swell up@|@ko-, kue-@
+@table@|@šëre, sirë, šyrë@
+@take responsibility@|@da-@
+@tasty@|@anda-tu@
+@ten@|@haran, haron, haruan@
+@testicle(s)@|@bore, boro@
+@they@|@terela@
+@thick@|@biedun, žužan@
+@thick (of liquids)@|@ochehan@
+@thin@|@narunni, ninkian, ninkien@
+@thirst@|@undasu-@
+@this@|@e'ne, ene@
+@this is red@|@ene shw xulanni wo@
+@thousand@|@tshien@
+@thread@|@udasun@
+@three@|@Guran, Guron@
+@time@|@cha@
+@tired@|@heche-@
+@to add@|@nime-@
+@to ask@|@asa-@
+@to attack@|@bili-@
+@to bark@|@quža-@
+@to be@|@bi-, vei-@
+@to be able@|@šyda-@
+@to be afraid@|@aji-@
+@to be ashamed@|@šëže-, šyžë-@
+@to be full@|@duru-@
+@to be hungry@|@oliesu-@
+@to be ill@|@otu-@
+@to be old@|@ochielu-@
+@to be sick@|@giemere-@
+@to become@|@bolu-, olu-, volu-@
+@to become murky@|@pugutu-@
+@to bite@|@Gaža-, qaža-, žao-, žau-@
+@to blow@|@fëilië-, fulie-@
+@to boil@|@buchula-@
+@to burn@|@tulie-@
+@to catch fire@|@šëtara-, šidaraha-, šydëra-@
+@to change@|@arunža-@
+@to chew@|@žažulu-@
+@to choose@|@sunhu-@
+@to chop@|@otolu-@
+@to clean@|@achi-@
+@to clothe@|@musy-@
+@to come@|@ire-@
+@to come back@|@qari-@
+@to count@|@tolu-@
+@to cover@|@quchy-@
+@to curse@|@qara-@
+@to defecate@|@ba-@
+@to die@|@fugu-@
+@to dig@|@manta-@
+@to divide@|@Guha-@
+@to drink@|@o-@
+@to eat@|@ižie-@
+@to embrace@|@chiaoru-, chieru-@
+@to enter@|@oro-@
+@to fall@|@una-@
+@to flow@|@urusu-, usuru-@
+@to follow@|@daGa-@
+@to forget@|@mata-@
+@to freeze@|@guanžie-@
+@to gape@|@anGëi-@
+@to get drunk@|@sodo-, sudo-@
+@to give@|@ogi-@
+@to glue@|@niaha-@
+@to go out@|@qeri-, qyri-@
+@to grow@|@osë-, osy-@
+@to guess@|@ta-@
+@to herd@|@adula-@
+@to hope@|@naita-@
+@to kill@|@ala-@
+@to know@|@meižie-, mežie-@
+@to laugh@|@šinie-@
+@to lick@|@dolu-@
+@to lie@|@kižie-@
+@to listen@|@chanlie-, chenlie-@
+@to make@|@kie-@
+@to milk@|@sa-@
+@to mix@|@quduhu-@
+@to move@|@gožielu-@
+@to mow@|@Gadu-@
+@to nail@|@Gada-@
+@to open@|@nie-@
+@to pound@|@mudu-@
+@to pray@|@uanšë-@
+@to press@|@šyGa-@
+@to press down@|@daru-@
+@to put@|@tai-@
+@to quilt@|@xudu-@
+@to reach@|@kuru-@
+@to rest@|@hamura-@
+@to roast@|@šëra-@
+@to rot@|@fu-@
+@to rub off@|@elie-@
+@to saddle@|@tohu-@
+@to say@|@kielie-@
+@to see@|@uže-@
+@to sew with wide stitches@|@šižie@
+@to sit@|@sau-@
+@to sleep@|@huntura-@
+@to smear@|@šuva-@
+@to sneeze@|@naita-@
+@to spread@|@patara-@
+@to stamp@|@chyGëi-@
+@to stand@|@bai-, vai-@
+@to steal@|@Gula-@
+@to step@|@hanku@
+@to step down@|@bao-, bau-@
+@to stretch out@|@sumu-@
+@to stumble@|@bužiri-@
+@to swallow@|@žanqëi-@
+@to swell@|@qajatu-@
+@to take@|@ali@
+@to taste@|@amusa-@
+@to think@|@bodo-@
+@to twist@|@muturë-@
+@to urinate@|@še-@
+@to walk@|@echy-, javu-@
+@to walk submerging into water@|@umba-, unba-@
+@to wear@|@musu-@
+@to weave@|@nokie-@
+@to wrap@|@xoro-@
+@toe@|@Gurun@
+@tongue@|@kielien@
+@tooth@|@šëdun@
+@track@|@mo@
+@trade@|@Gudandu-@
+@transport@|@chue-, žo-, žue-@
+@tree@|@mutun@
+@trough@|@onGocho@
+@trousers@|@mëdun@
+@turn upside down@|@komoru-@
+@two@|@Gua@
+@udder@|@žielien@
+@upwards@|@ožie@
+@urine@|@šesun@
+@vegetables@|@noGon, nohon@
+@vehicle@|@chiege@
+@voice@|@don, duan@
+@warm@|@qalun@
+@wart@|@xeuzy@
+@water@|@u'su, usu@
+@way@|@mo@
+@we@|@bižien, ma-@
+@we (exc.)@|@bidzhien@
+@we (inc.)@|@matan@
+@weak@|@sula, žolien@
+@weep@|@uila-@
+@well@|@ža@
+@west@|@shi@
+@West@|@borun@
+@what@|@jan@
+@whip@|@mina@
+@white@|@chëGan@
+@who@|@kien, qa-@
+@wide@|@aGui, ahui, uida@
+@wife of the elder brother@|@beGen@
+@will@|@duran@
+@willow@|@xon@
+@wind@|@kei@
+@wine@|@dara'sun@
+@without@|@ui@
+@woman@|@eme@
+@wood@|@xoj@
+@wool@|@noGosun@
+@work@|@uilië@
+@woven basket@|@areu, arëu@
+@wrong@|@buru@
+@year@|@xon@
+@year of life@|@nasun@
+@yellow@|@šëra, šyra@
+@yesterday@|@fucuhudu, uchuGudu@
+@you (pl)@|@ta@
+@you (pl.)@|@chë (chy), chëji (gen.), chëni@
+@you (sg)@|@tshw@
+@young@|@žalao, žalau@
+@young of dog@|@kižëu@
+@younger sibling@|@žiao, žiau@
+

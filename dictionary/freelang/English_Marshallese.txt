@@ -1,0 +1,459 @@
+@English@|@Marshallese@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@A little@|@jirik@
+@A lot@|@elong@
+@A love story@|@juõn bwebwenato in yokwe@
+@A quarter past three@|@jongouljilu jen jilu@
+@A quarter till two@|@ongoullalem ngan ruo@
+@above@|@ioo, löng@
+@Airport@|@erpoot, jikin kelok@
+@all@|@aolep@
+@All@|@aoleb@
+@America@|@Hamedkah@
+@and@|@im, yem, yim@
+@April@|@Epril@
+@Arrival@|@ien ketok@
+@ash@|@(wi)-pahaj, melkwaarar@
+@at@|@i, yi-, yiy@
+@at sea@|@lometo@
+@atoll@|@aelön@
+@August@|@Aokej@
+@back@|@äliki-, jak'ir@
+@bad@|@nana@
+@Bad@|@enana@
+@Bank@|@beng@
+@beat@|@jukjuk@
+@Beef@|@kanniek in kau@
+@Beer@|@bia@
+@belly@|@(law)-jéy, (law)-jiye, jéy, jiye-, wéb', wib'e-@
+@belly (1)@|@je@
+@below@|@lal@
+@Beverage@|@ren@
+@big@|@lap, laplap, llap@
+@Bikini atoll@|@Pikinniy@
+@bird@|@bao@
+@Birthday@|@Raan in kemeem@
+@black@|@dawal, ditöb@
+@blood@|@da, dah, ddah@
+@bomb@|@baham'@
+@bone@|@di, diy, diyi-@
+@branch@|@ra, rah@
+@Bread@|@Bilawe@
+@Breakfast@|@monge in jibbon@
+@breast@|@ittüt, tittit, yitti-, yittit@
+@Bridge@|@brij@
+@Bus@|@baj@
+@Bus station@|@jikin baj@
+@Car rental agency@|@jikin reen wa@
+@Cheers!@|@Cheers!@
+@child@|@(ha)-jriy, ajri, hajriy, naji-, néji-@
+@Chinese@|@Jeina@
+@Church@|@mon jar@
+@Closed@|@Ekilek@
+@cloud@|@kedaw, ködQ@
+@coconut (drinking)@|@ni@
+@coconut (mature)@|@waini@
+@Coffee@|@kuobe@
+@cold@|@(pi)-yaw, (pi)-yawyéw, méd, mölomöleQ@
+@correct@|@jejjet@
+@Could you help (me)?@|@Kwo maron ke jiban?@
+@cry for someone@|@jangi-t@
+@Daughter@|@neju lerik@
+@day@|@rahan, rahani-@
+@Day@|@raan@
+@December@|@Tiijemba@
+@Departure@|@ien jeblaak@
+@Dessert@|@kamao lal@
+@Dinner@|@monge in jota@
+@dirty@|@ttoon@
+@Do you accept credit cards?@|@Kwoj ke ebbok kretet kaat?@
+@Do you have..@|@Ewor ke......@
+@Do you speak English?@|@Kwo jela ke kajin Pälle?@
+@Do you speak...@|@Kwoj ke kajin...@
+@Do you want to...?@|@Kwo konan ke...?@
+@dog@|@kidu@
+@Don't touch me there!@|@Jab jibwe iö!@
+@Down@|@lallok@
+@drink@|@idaak@
+@dry@|@jejjat@
+@dull@|@bwijil, kkéb'@
+@dust@|@büngal@
+@ear@|@(law-)jilng(iy)@
+@earth@|@bwidej@
+@eat@|@mönä@
+@Ebeye atoll@|@Yepjay@
+@egg@|@lep@
+@eight@|@rualitok@
+@eighteen@|@jongoulrualitok@
+@eighty@|@rualitokngoul@
+@eleven@|@jongouljuon@
+@Eleven thirty@|@jongouljuon jimettan@
+@English@|@Belle@
+@English language@|@kajin Pälle@
+@Eniwetok atoll@|@Yan'yweytak@
+@excuse me@|@Jolok bwid@
+@Excuse me@|@Jolok bwir@
+@eye@|@maj, mäj, meja-@
+@Fall@|@Fall@
+@far@|@leelle, ttew-(lak')@
+@Far@|@ettolok@
+@fat@|@küriij@
+@father@|@jema-@
+@Father@|@jema@
+@feather@|@kool@
+@February@|@Peppore@
+@fifteen@|@jongoullalim@
+@fifty@|@lemengoul@
+@fire@|@kijeek@
+@fish@|@ek, yapil@
+@five@|@lalim@
+@flower@|@ut@
+@fog@|@tab@
+@foreigner@|@ri-Likin@
+@forty@|@engoul@
+@four@|@-yang, emän, emen@
+@fourteen@|@jongoulemen@
+@French@|@Branij@
+@Friday@|@Balaire@
+@Friend@|@motta@
+@fruit@|@kwöle, wiwah@
+@Fruit@|@leen wijki@
+@German@|@Jepene@
+@good@|@mman@
+@Good@|@Emman@
+@Good afternoon@|@Iakwe in raelep@
+@Good evening@|@Iakwe in jota@
+@Good morning@|@Iakwe in jibbon@
+@Good night@|@Bar iakwe@
+@goodbye@|@yokwe@
+@Goodbye@|@Bar iakwe@
+@grass@|@wüjooj@
+@green@|@-mahrew, küriin, mahrewrew@
+@hair@|@kool@
+@Half past eleven@|@jongouljuon jimettan@
+@hand@|@pä, pay, peyi-@
+@Happy Birthday!@|@Jeramon ilo rainin am!@
+@he@|@e, yéy, yéy@
+@head@|@pet@
+@heavy@|@ddew, ddo@
+@Hello@|@Iakwe, yokwe, Yokwe yok@
+@Hill@|@Hill@
+@Hospital@|@jikin ejmour, mon rinanginmej@
+@Hotel@|@otel@
+@house@|@em, m'e-(n), yém', yim'e-@
+@How are you?@|@Ej et am mour?@
+@How much does this cost?@|@Jete wonen men in?@
+@How much is the fare?@|@Jete wonen uwe?@
+@how?@|@ia@
+@husband@|@pälee-, paleye-, riyi@
+@Husband@|@leo belele@
+@I@|@nga, ngah@
+@I do not understand@|@Ijjab melele@
+@I don't know@|@ijaje@
+@I need a doctor@|@Iaikwöj jion tokta@
+@I would like to buy...@|@Ikonaan wiaiki...@
+@Ice cream@|@aij kuriim@
+@if@|@elangnge@
+@I'll buy it@|@Ij wiaiki@
+@I'm going to Ailinglaplap@|@Ij etal ñan Ailinglaplap@
+@I'm going to Jaluit@|@Ij etal ñan Jaluit@
+@I'm hungry@|@Ikwöle@
+@I'm thirsty@|@Imaro@
+@in@|@(i)-lew, (i)-lewah, ilo@
+@intestines@|@m'ajngal, majngal@
+@Is there vacancy for tonight?@|@Elong ke bellok bong in in?@
+@January@|@Jenore@
+@Juice@|@juij@
+@July@|@Julae@
+@June@|@Juun@
+@Kosher@|@Kosher@
+@Kwajalein atoll@|@Kiwajleyen@
+@lagoon@|@ar@
+@lake@|@lam@
+@Lake@|@Lake@
+@leaf@|@bölök@
+@left@|@(han)-miying, anbwijban@
+@Left@|@animiing@
+@leg@|@ne, ney, neye-(n)@
+@lightning@|@jarom@
+@liver@|@aj, yaj@
+@long@|@aetok, leyelley@
+@Long@|@aitok@
+@louse@|@kij@
+@Lunch@|@monge in raeleb@
+@Majuro (the capital)@|@Majr'w@
+@man@|@m'm'ahan, mmaan@
+@Map@|@Map@
+@March@|@Maaj@
+@Marshall Islands@|@M'ahjel@
+@Marshallese@|@ri-Majöl@
+@Marshallese language@|@kajin Majöl@
+@May@|@Mei@
+@meat@|@kanniök, yitek'@
+@Meat@|@kanniek@
+@Monday@|@Manre@
+@Month@|@alling@
+@moon@|@allöng@
+@mosquito@|@jokwajok, naw'@
+@mother@|@jine-@
+@Mother@|@jinno@
+@Mountain@|@tol@
+@Museum@|@miujiem@
+@My name is...@|@Eta in...@
+@name@|@ät, yat@
+@narrow@|@aining@
+@near@|@tir'i-, tir'i- (yi)-@
+@Near@|@epaak@
+@neck@|@(ken)wa(ha)-, könwa@
+@needle@|@iie@
+@new@|@kääl@
+@Nice to meet you@|@Iakwe@
+@night@|@b'éng', bong@
+@nine@|@ruatimjuon@
+@nineteen@|@jongoulruatimjuon@
+@ninety@|@ruatimjuon-ngoul@
+@no@|@jaab, jab, yahab'@
+@No problem@|@Ejjelok inebata@
+@No vacancies@|@Ejelok bellok@
+@nose@|@b'awat(iy), boti@
+@not good@|@enana@
+@November@|@Nobomba@
+@ocean@|@lik@
+@Ocean@|@lojet@
+@October@|@Oktoba@
+@okay@|@ebwe@
+@old@|@rütto@
+@one@|@ji-(wen), juon@
+@One forty-five@|@juon engoul-lalim@
+@one hundred@|@jibuki@
+@one million@|@juon millien@
+@one thousand@|@juon taujin@
+@One ticket to...please@|@Juon tuket ngan...@
+@one way@|@juõn wõt ial!@
+@Open@|@Ebellok@
+@other@|@bar jet@
+@painful@|@metak, wita-m'éy@
+@Parking@|@jikin paak@
+@Passport@|@peejpoot@
+@Pepper@|@peppa@
+@person@|@armej, harméj@
+@Pharmacy@|@jikin uno@
+@please@|@jouj@
+@Please@|@Jouij@
+@Please bring the bill@|@Jouij im boktok bil eo@
+@Please come inside@|@Jouj im drelon@
+@Please say it again@|@Bar ba mok.@
+@Please sit down@|@Jouj im jijet@
+@Police station@|@mon piliijmeen@
+@Pork@|@kanniek in piik@
+@Post office@|@pooj tobiij@
+@Postcard@|@poujkaat@
+@Potato@|@biteto@
+@Poultry@|@bao@
+@rain@|@wét, wit, witey, wöt@
+@rat@|@kij-dik, kijdik@
+@red@|@bürörö@
+@Reservation@|@rejepejen@
+@Restaurant@|@mon monge@
+@Restrooms@|@em jirikrik, mon keppojak@
+@right@|@anbwijmarong@
+@Right@|@anemaon@
+@River@|@reba@
+@road@|@ial, yiyal, yiyyal@
+@Room@|@ruum@
+@root@|@okar, wekar@
+@rope@|@jaliy, jaljél, to@
+@rotten@|@köt@
+@Salad@|@jalat@
+@salt@|@jQQl@
+@Salt@|@saol@
+@sand@|@bok, piyépéy, ppéy@
+@Saturday@|@Jarere@
+@School@|@jikuul, mon jikuul@
+@sea@|@lQjet, lQmeto, me-tew@
+@September@|@Jeptemba@
+@seven@|@jiljimjuon, jimjuon@
+@Seven thirteen@|@jimjuon jongouljilu@
+@seventeen@|@jongouljimjuon@
+@seventy@|@jimjuon-ngoul@
+@sharp@|@kkang@
+@short@|@kadu@
+@Short@|@karu@
+@shoulder@|@aerä, hayer, hayeray@
+@shy@|@abje@
+@six@|@jijino, jiljino@
+@sixteen@|@jongouljijino@
+@sixty@|@jijinongoul@
+@skin@|@kil@
+@sky@|@lang@
+@small@|@(wi)-ddik, dik, ning@
+@smoke@|@(b'a)-hathat, atiti, baat@
+@snake@|@jabön@
+@So long@|@Bar iakwe@
+@So so@|@ebwe@
+@somebody loves me@|@eor juõn ej yokwe iõ@
+@Son@|@neju larik@
+@Spanish@|@Jipein@
+@spider@|@kadeQeo@
+@Spring@|@Spring@
+@Square@|@jukwea@
+@Stamps@|@jitaam@
+@star@|@iju, yijiw@
+@stick@|@alal, rah, rah@
+@stone@|@dekä, hajji-(kad)@
+@Store@|@mon wia@
+@Straight@|@jimwe@
+@Street@|@ial@
+@Subway@|@Subway@
+@Subway station@|@Subway station@
+@Summer@|@Summer@
+@Sunday@|@Jabot@
+@Swimming Pool@|@juwimmiing pul@
+@tail@|@lokwa-@
+@tatch@|@äj, haj@
+@Tea@|@tii@
+@ten@|@jonoul@
+@Thank you@|@Kommol@
+@Thank you very much@|@Kommol tata@
+@that@|@en/engne, yen@
+@the crisis@|@inebata eo elap@
+@the visitors@|@ro dri lotok@
+@they@|@re-, yer, yér@
+@They@|@Er, rej@
+@thick@|@mi-jel, mi-jeljel, mijel@
+@thin@|@ma-niy, mäni@
+@thirteen@|@jongouljilu@
+@thirty@|@jillinguul@
+@this@|@iiöin, yéy@
+@this was your life@|@e kar ein drein mour eo am!@
+@thou@|@eok, k'e-, k'ey@
+@three@|@jili-w, jilu@
+@Three fifteen@|@jilu jongoullalim@
+@thunder@|@jourur@
+@Thursday@|@Taije@
+@Ticket@|@tuket@
+@to bite@|@ki-jiy, kik, kkij@
+@to blow@|@määnän, wiwik, wiwiki-(y)@
+@to breathe@|@menono@
+@to burn@|@ttil@
+@to buy@|@wia@
+@to chew@|@kömat, meme@
+@to choose@|@(kka)-yalyél, jedkä@
+@to climb@|@wanlöng@
+@to come@|@atok@
+@to cook@|@mat@
+@to count@|@bénbén, bönbön, wate-k, watwat@
+@to cry@|@jang@
+@to cut@|@jay, jekjek, jepak@
+@to die@|@mej, méj@
+@to dig@|@köb, tiwij(iy), ttéw@
+@to dream@|@ttena-k, ttönak@
+@to drink@|@idaak, imim, li-me-, ni-me-@
+@to eat@|@kaikai, kang, m'engay@
+@to fall@|@bung@
+@to fear@|@mi-jak, mijak@
+@to flow@|@eQQl, hel@
+@to fly@|@kä-@
+@to grow@|@dedek@
+@to hear@|@reng', rong@
+@to hide@|@(til)-yékyék, kaattilöklök@
+@to hit@|@manman@
+@to hold@|@kukuul@
+@to kill@|@manman@
+@to know@|@(j)-ahjéy, jelä@
+@to laugh@|@kajji-réyréy, lelejkakkak, réyréy@
+@to lie down@|@ellok@
+@to live@|@méwir, mour@
+@to open@|@erlok@
+@to plant@|@kallib@
+@to pound@|@jik'jik, jik'jik'iy, nin@
+@to pund@|@jik'jik'iy@
+@to say@|@b'ah, ba@
+@to scratch@|@jukkwe, kar@
+@to see@|@lale, lew-(ey), llew@
+@to sew@|@keke@
+@to shoot@|@lippon@
+@to sit@|@jijet@
+@to sleep@|@majir', mäjur@
+@to sniff@|@(ya)-tentng', könämnäm@
+@to spit@|@iadatöltöl@
+@to split@|@b'el-ngak, börrä@
+@to squeeze@|@kkeene@
+@to stab@|@bwiär@
+@to stand@|@jiw-(tak), jutak@
+@to steel@|@koot@
+@to suck@|@minnin@
+@to swell@|@b'b'ej, böbok@
+@to swim@|@aö, haheh@
+@to think@|@lömnak, mang@
+@to throw@|@kad, kadey, kadkad@
+@to tie up@|@köbobo, pawpéw, yawyéw@
+@to turn@|@jeor@
+@to vomit@|@m'm'éj, mömöj@
+@to walk@|@etetal, yetal@
+@to work@|@jerbal@
+@to yawm@|@mebböla@
+@Today@|@Rainin@
+@Tomorrow@|@Ilju@
+@tongue@|@lew, lewe-, lo@
+@tooth@|@ngi, ngiy@
+@Tourist Information@|@jikin an turij bok melele@
+@Tower@|@Tower@
+@Train@|@turein@
+@Train station@|@jikin turein@
+@trust territory@|@tiraj teyr'yt'wr'y@
+@Tuesday@|@Juje@
+@twelve@|@jongoulruo@
+@twenty@|@rongoul@
+@twenty one@|@rongouljuon@
+@two@|@riwe-, ruo@
+@Up@|@lenglok@
+@Valley@|@Valley@
+@Vegetable@|@bejtobol@
+@Vegetarian@|@armij en ejjab monge kanniek@
+@water@|@dan, dän, dandan@
+@Water@|@aiboj, ren@
+@we@|@kém, kém', kim, köj, köj, köm@
+@Wednesday@|@Wonje@
+@Week@|@wiik@
+@wet@|@nok@
+@What is this?@|@Ta e?, Ta in?@
+@What time is it?@|@Jete awa?@
+@What would you like to drink?@|@Kwoj idaak ta?@
+@What would you like to eat?@|@Kwoj mönä ta?@
+@what?@|@ta, tah@
+@What's your name?@|@Etam?@
+@When did you come?@|@Kwaar itok näät?@
+@when?@|@ne, ngaya-t@
+@Where are you going?@|@Kwoj etal naan ia?, Kwoj etal nan ia?@
+@Where did you come from?@|@Kwoj itok jän ia?@
+@Where do you live?@|@Kwoj jokwe ia?@
+@Where is my room?@|@Ewi room eo aö?@
+@Where is the bar?@|@Ewi mön idaak eo?@
+@Where is the bathroom?@|@Ewi em jirikrik in?@
+@Where is the beach?@|@Ewi jikin tutu iar eo?@
+@Where is...?@|@Ia in...?@
+@where?@|@ewi, yi'yah@
+@white@|@mouj@
+@wide@|@de-(pakpak), depakpak@
+@wife@|@pälee-, paleye-, riyi, riyi@
+@Wife@|@lio belele@
+@wind@|@ang, hang@
+@Wine@|@wain@
+@wing@|@pä@
+@Winter@|@Winter@
+@woman@|@körä, liye-@
+@woods@|@bulön mar@
+@worm@|@majkadäl@
+@year@|@iïo@
+@Year@|@yio@
+@yellow@|@ialo, yiyaléw@
+@yes@|@aet@
+@Yesterday@|@Inne@
+@you@|@k'ém', kemiy, kom, Kwe@
+@You (plural)@|@Kwom@
+@You (singular; formal)@|@Kwo@
+@You're welcome@|@Kin jouj@
+@zero@|@uwao@
+

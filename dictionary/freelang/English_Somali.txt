@@ -1,0 +1,5517 @@
+@English@|@Somali@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1st letter of Arabic alphabet@|@alif@
+@2nd month in Muslim's calendar@|@safar@
+@4th letter of Arabic alphabet@|@deel@
+@a@|@mid@
+@a beer please@|@Beer, min fadlak@
+@a familiar person@|@aqoonni@
+@a little@|@biid, iniq@
+@a Muslim pilgrim@|@xaaj, xaaji@
+@a unit@|@mid, xabbo@
+@abaad@|@last@
+@abandon@|@caalgas@
+@abandoning@|@deyn, hollasho@
+@abbreviation@|@koobid@
+@abdomen@|@uur@
+@abduction@|@afduub@
+@ability@|@karaan, karasho, karriimo, karti, tahlid, tarid@
+@ability (1)@|@maaro, qaddar, qudrad, taag, tabaro@
+@above@|@kor@
+@above average@|@ka sarreeya@
+@above the norm@|@ka sarreeya caadiga@
+@abrod@|@qurbe, qurbo@
+@absence@|@maqnaan, maqnaansho@
+@absent-mindedness@|@dhoohanaan, khaafsanaan@
+@abstain@|@caag@
+@abundance@|@heeshi, macandi@
+@abuse@|@caay, jurxee, jurxo@
+@abusive speech@|@jurxo@
+@acacia tree@|@maraa, qurac@
+@academy@|@akademiye@
+@accent marker@|@fidhig@
+@accept@|@aqbal, guddoon, ijaab, qabbil, rillee@
+@acceptance@|@ijaabo@
+@accident@|@shil@
+@accomodate@|@hoyi@
+@accomodation@|@dejin, waafajin@
+@accompany@|@raac, weheli@
+@accountant@|@xisaabiye@
+@accounting@|@xisaabaad@
+@accumulate@|@dhoob@
+@accumulation@|@biiris, biiro, hilasho@
+@accusation@|@eed, hanaayo, haydaarto, heydaaro, muddac@
+@accuse@|@eedee, garran, hiif, muddac@
+@accuse falsely@|@muusaw@
+@ache@|@dhuuri@
+@achieve@|@kasbo, qunso@
+@achieve by force@|@muquunso@
+@achievement@|@gaarnin, kasab@
+@achieving@|@qunsasho@
+@achilles tendon@|@fayl@
+@achivement domanin@|@fahmada maskaxda@
+@acid@|@aashito@
+@acknowledgement@|@oqoonsasho@
+@acquire@|@yeelo@
+@acquire a skill@|@riigbax@
+@acre@|@akar@
+@across@|@dabhan@
+@act@|@jil@
+@act deliberately@|@bareer@
+@act disgracefully@|@jiciiroob@
+@act half-heartedly@|@hagro@
+@act of  being victorious@|@guuleysasho@
+@act of accepting blame@|@garawsho@
+@act of approaching@|@dhowaad@
+@act of arguing@|@cilaaqtamid, dood@
+@act of attaining@|@qunsasho@
+@act of banishing@|@miidaamis@
+@act of beating@|@garaacis@
+@act of being a spy@|@jaajuusnimo@
+@act of being entertained@|@madadaalad@
+@act of belittling@|@quursasho@
+@act of blessing@|@barakayn@
+@act of blinking@|@libiqsi@
+@act of breaking@|@jebis@
+@act of breathing@|@neefsasho, neefsi@
+@act of bringing@|@keenis@
+@act of buying@|@iibsasho@
+@act of capturing@|@halqaf@
+@act of carrying@|@gaadiidsi@
+@act of catching for oneself@|@qabsad, qabsasho@
+@act of causing@|@halrarasho@
+@act of choosing@|@xulasho@
+@act of cobbling@|@jaansaar@
+@act of collapsing@|@habsasho@
+@act of collecting@|@gurasho@
+@act of counseling@|@hanuunis@
+@act of cutting@|@jarriin@
+@act of dangling down@|@laallaad@
+@act of detaining@|@qabad, qabasho@
+@act of digging@|@qoddo@
+@act of enquiring@|@waris@
+@act of feeling@|@haabasho@
+@act of filling@|@buuxin@
+@act of fishing@|@kalluumaysash, kalluumaysi@
+@act of flying@|@heehaab@
+@act of folding@|@duubis, laabis, laabniin@
+@act of following@|@dabasocod, dabasocosho@
+@act of gaping@|@hamaansasho@
+@act of gathering up@|@gurubsasho@
+@act of gazing@|@jeedaalo@
+@act of getting lost@|@hallaw@
+@act of getting married@|@guursasho@
+@act of getting sick@|@jirrasho@
+@act of getting up@|@kacaan@
+@act of getting up early@|@hiireysasho@
+@act of going astray@|@khaddif@
+@act of going to and for@|@laablaabasho@
+@act of going towards@|@jahasho@
+@act of greeting@|@nabdaddis, nabdaysasho@
+@act of grilling@|@halaammacays@
+@act of guarding@|@ilaalis, ilbaadsasho@
+@act of halting@|@hogasho, hojis@
+@act of having a rest@|@nasasho@
+@act of hiding@|@qarsad, qarsasho@
+@act of hiding behind something@|@hullasho@
+@act of holding@|@hayn@
+@act of hopping@|@lukowle@
+@act of imitating@|@jilays@
+@act of increasing@|@kororsasho, kororsi@
+@act of killing@|@ajalid@
+@act of leaving@|@reebis@
+@act of limping@|@hetis@
+@act of looking after@|@korsasho@
+@act of looking at@|@fiirsad@
+@act of lying down@|@jiifsasho@
+@act of opening@|@furitaan@
+@act of ordering@|@habays@
+@act of passing over@|@dhaafin@
+@act of peering at@|@hinbiriirsasho@
+@act of possession@|@haysasho@
+@act of postponing@|@kaadsasho@
+@act of prayer@|@duceysasho, duceysi@
+@act of pulling@|@jiidis@
+@act of pushing@|@ansac@
+@act of putting@|@dhig@
+@act of putting in a place@|@meelaysasho@
+@act of reaching@|@hirasho@
+@act of reaching a decision@|@guddoonsasho@
+@act of regaining consciousness@|@miyirsasho@
+@act of repairing@|@kab@
+@act of resting@|@daaltirasho, nasniin@
+@act of returning@|@noqosho@
+@act of ruining@|@kharrib@
+@act of saying@|@iraahid@
+@act of scaring@|@cabsiin@
+@act of scolding@|@hifasho@
+@act of scooping up@|@darsi@
+@act of sending@|@diris@
+@act of shining@|@nawir@
+@act of shouting@|@tannaagood@
+@act of showing kindness@|@naxariisasho@
+@act of spelling out@|@higgaadis@
+@act of spending the night@|@hoyasho@
+@act of spoiling@|@kharrib@
+@act of spying@|@ilbaadsi, jaasuusnimo@
+@act of standing up@|@hinqad, istaag, joogis, taagnaasho@
+@act of starting@|@gundhigasho@
+@act of stealing@|@halabaysasho@
+@act of stretching@|@jiidasho@
+@act of stretching oneself@|@jimicsasho, jimicsi@
+@act of striving@|@dadaal@
+@act of studying@|@dhigad@
+@act of swinging@|@laalac, laalacshow@
+@act of takign for oneself@|@qaadasho@
+@act of taking part@|@qaybgal@
+@act of tearing@|@jeexis@
+@act of transporting@|@gaadiidsi@
+@act of trembling@|@jarco@
+@act of trying to get up@|@hinqasho, holis@
+@act of turning@|@leexasho, majiir@
+@act of turning aside@|@jeensasho@
+@act of uniting@|@midow@
+@act of waiting@|@joogis@
+@act of walking gracefully@|@laafyood@
+@act of watching@|@daawad, daawasho@
+@act of weighing down@|@habbis@
+@act of winning@|@adkaansho@
+@act of working for oneself@|@shaqaysad@
+@act of wounding@|@hummaajis@
+@act of writing@|@dhigis, qoris@
+@act of yawning@|@hamaansasho@
+@act with carefully@|@miyiri@
+@act with deliberation@|@miyiri@
+@act without hesitating@|@haliil@
+@acting@|@jil@
+@acting half-heartedly@|@hagrasho@
+@acting out@|@arbushid, istusid@
+@activity@|@dhaqdhaqaaq, qalaanqal@
+@actor@|@jile@
+@acute adjective@|@Aad u culus ama u adag@
+@adaptation@|@La qabsi@
+@adaptative behavior@|@Dabeecad la qabsi leh@
+@adaptative physical@|@fududeynta jimicsiga@
+@add@|@dar, jimlee, lar, siyaadi@
+@add scoop@|@dar@
+@add total@|@jimlee@
+@add up@|@xisaab@
+@adding@|@darid@
+@addition@|@iskuddar, isugayn, jimlo, siyaado@
+@address@|@adrees, cinwaan, jeedi, jeediyey@
+@adhere@|@dheg@
+@adjective@|@tilmaame@
+@administration@|@daawo siin, gun, maamul@
+@administrator@|@maamule, maamuliye, maareeye@
+@admire@|@qushuuc@
+@admit@|@qiro@
+@adopt@|@korso@
+@adorn@|@shaqal@
+@adress@|@adrees, cinwaan, jeedi, jeediyey@
+@adverb@|@falkaab@
+@advertisement@|@iidheh@
+@advice@|@hanuun, naseexo, nasteexo, talo, talo, waano@
+@advise@|@naseexee@
+@advocate@|@afhayeen, u doode@
+@affect@|@saameyn@
+@affection@|@gacaltooyo, jeclaan@
+@affective disorder@|@linta la xidhiida xaga fahmada@
+@affirmation@|@muujin@
+@after@|@dib, ka dib@
+@afterlife@|@aakhiro@
+@afternoon@|@casar, galab, galabnimo@
+@against@|@diran@
+@age@|@cimri, cumri, dhallin, fac, facaad, fil, gabownimo@
+@age equivalent@|@fil u dhig, la fac ah, La fil ah@
+@agency@|@wakaalad@
+@agenda@|@ajenda@
+@aggression@|@colaad@
+@agitation@|@welwel@
+@agree@|@heshii, qabbil@
+@agreement@|@cahdi, heshiis, itifaaq, muwaafaqo, oggolaan@
+@agreement (1)@|@hallayeelo, heemasho, israac@
+@aid@|@kaali@
+@aide@|@kaaliye@
+@ailemt@|@bugto, cudur@
+@ailment@|@bugto, cudur@
+@aim@|@himilo, micne, mishaab, qasad, quluud, ujeeddo@
+@aim (1)@|@ulajeedo@
+@aim at@|@abbaar@
+@aiming@|@nishaabid@
+@air@|@hawo, laydh, neecaabi, ur@
+@air conditioning@|@hawaqaboojiye@
+@aircraft@|@diyaarad@
+@airless place@|@huur@
+@airplane@|@dayuurad, diyaarad@
+@airport@|@Gegida Dayuuradaha@
+@ajar@|@bashiic@
+@alcohol@|@aalkol, aalkolo, khamri@
+@alert@|@digniin@
+@alertness@|@firfircooni, indhafirqoonaan@
+@all@|@dhammaan, dhan@
+@all non-Arab people@|@cajam@
+@all of you are@|@tihiin@
+@all things@|@kawn@
+@all this@|@intaas@
+@alley@|@luuq@
+@alliance@|@gaashaanbuur@
+@allot@|@muquuni@
+@allotted task@|@kaalin@
+@allow@|@jidee, jidee, oggoloow@
+@allowance@|@sarraafad@
+@almond tree@|@gud@
+@alone@|@muddug, waaxid@
+@alphabet@|@alifba@
+@alter@|@doori@
+@alternate@|@gafootan@
+@alternation@|@gafootan@
+@alternative@|@cigasho@
+@although@|@in kastaoo@
+@Am I going to be alright?@|@Saw ma bogsan doono?@
+@amaze@|@fajici@
+@amazement@|@amakaag, fajac@
+@amazing someone@|@fajicin@
+@ambassador@|@danjire, safiir@
+@ambition@|@han, quluud, quluud@
+@ambulance@|@bukaanqaad@
+@ambush@|@gaad, rogaal@
+@amen@|@aammiin@
+@ammunition@|@rasaas@
+@amount a vessel can contain@|@mug@
+@amplification@|@cod baahiye@
+@amulet@|@xirsi@
+@amuse@|@dheeldheeli@
+@amusement@|@dhayal@
+@an@|@mid@
+@An old wound will not go away@|@Nabar doogi ma haro@
+@analize@|@falanqeey, qeex@
+@analysis@|@baaritaan, qeexid@
+@analyze@|@falanqeey, qeex@
+@ancestors@|@ab, absaxan@
+@ancestry@|@isir@
+@and@|@iyo, oo@
+@and then@|@markaasna@
+@angel@|@malaa'ig@
+@anger@|@caro, cartan, gedaad, geyr, gidaad, juuqjuuq, umal@
+@anger (1)@|@cadheysii, dhirfi, dhirif, gadood@
+@anger management:@|@Iscelinta marka la xanaaqo@
+@angle@|@isukeen, kalaggoys, kalaggoys, koone, laabato@
+@anihilation@|@halaag@
+@animal@|@nafley, xayawaano@
+@animal hide@|@saan@
+@animal skin@|@saan@
+@animals@|@dunqaaro, xayawaanku@
+@aniversary@|@minguuro@
+@ankle@|@boqon, canqaw, majin@
+@annihilation@|@halaag@
+@anniversary@|@minguuro@
+@annoucement@|@ogeysiis@
+@announce@|@awaaji, naadi@
+@announcement@|@iclaan@
+@announcing@|@ogaysiin@
+@annoy@|@adyadee, caddib, caddib, caddib, cadheysii, khashkhash, khashkhash@
+@annoyance@|@caddib, caddib, dhiidhi, khashkhash@
+@annoyed@|@dhiidhiy@
+@annoying@|@daardaar@
+@annual conference@|@kalfadhi@
+@annul@|@buri@
+@another@|@kale@
+@answer@|@jawaab@
+@ant@|@qudhaanjo@
+@antecedent@|@ka hor dhac@
+@antecipating@|@maleewaalid@
+@antecipation@|@farammaggaadho, yididdiilo, yididdiilo@
+@anticipation@|@yididdiilo@
+@antilope@|@bayr@
+@antiquity@|@qadduun, qadiim@
+@anus@|@futo@
+@anxiety@|@ciilcun, kurbo, murugo, sakati, wahan, wahan, welwel, welwel@
+@anxiety (1)@|@caloolyow, tawal, uurkutaallo@
+@anything@|@waxna@
+@anything wide-spread@|@nashir@
+@ape@|@daayeer@
+@apology@|@afeefasho@
+@appeal@|@codasho, codsasho, codsi, rafcaan@
+@appear@|@muuqo@
+@appearence@|@bidhaan, hannaan, muuq, muuqaal@
+@appease@|@raalligeli@
+@applaud@|@sacabdar@
+@applause@|@sacabdarid@
+@apple@|@tufaax@
+@apply@|@hirgeli@
+@apply for a job@|@dalbo@
+@apportion@|@muquuni@
+@appraise@|@tammin@
+@appreciate@|@guux, meelmar, qushuuc, qushuuc@
+@apprentice@|@barad@
+@appropriate@|@meelmar@
+@appropriateness@|@habboonaan@
+@approve@|@akid, ayid@
+@Are the snakes here dangerous?@|@Masaska halkaan khatar miyaa?@
+@Are you constipated?@|@Miyaad dhigtay saxaro madaw?@
+@Are you pregnant?@|@Miyaad uur leedahay?@
+@Are you short of breath?@|@Miyay neeftu ku qabataa?@
+@area of wekness@|@gol daloolo@
+@area surrounding a house@|@sabab@
+@area underneath the chin@|@jaqal@
+@argue@|@akeekan, cilaaq, cilaaqtan, dabeebo, hagag, muran@
+@argue (1)@|@cilaaq, cilaaq, dirir, jaarri, jactad, jactad, jikaar, jikaar, jiriibban@
+@argue against@|@jikaar@
+@arguing@|@dabeebad, dabeebasho@
+@argument@|@akeekan, dabeeb, duluc, jactad, muran, muran, murmid@
+@argument (1)@|@asaraar, bocoolaggurad, cilaaq, dabuub, khilaaf@
+@argument (2)@|@doodis, hagag, jaarri, xaajo@
+@argument(1)@|@asaraar, bocoolaggurad, cilaaq, khilaaf@
+@arm@|@gacan@
+@armed forces@|@jundi@
+@arousal of emotion@|@hiyikac@
+@arrange@|@aloosi, ballan, habee, qalqaal@
+@arrange a marriage@|@guuri@
+@arranging@|@habays@
+@arrival@|@imaansho, imaatin@
+@arrive@|@gaadh@
+@arrogance@|@amarti, kibir, qabweyni@
+@arrow@|@fallaar@
+@arson@|@gubid@
+@article@|@shey@
+@article in a newspaper@|@maqaalad@
+@artist@|@sawiraale@
+@as ... as@|@sida@
+@ascending@|@korid, korrimaad@
+@ascension@|@korrimaad@
+@ascent@|@korrimaad@
+@ash@|@dambas@
+@ashes@|@oog@
+@ask@|@warayso, weydii@
+@ask questions@|@tooyo@
+@asking@|@tooyasho, waraysad@
+@aspect@|@dir, dir, ged, ged, muug@
+@ass@|@dameer@
+@assemble@|@kulan, rakib, shir, urur@
+@assembly@|@urur@
+@assertion@|@dammaanad@
+@assessment@|@qalabka qiimeynta@
+@assist@|@caawin, kaali, taageer@
+@assistance@|@kaalmo, tammiin@
+@assistant@|@gacanyare@
+@assisting@|@caaqibee@
+@asthma@|@xiiq, xoqad@
+@astonishiment@|@yaab, yaabi@
+@astonishment@|@yaab, yaabi@
+@at@|@ku@
+@athlete@|@bardooddame@
+@athletics@|@atleetiko, bardooddan@
+@atmosphere@|@jawi@
+@atom@|@atam@
+@attach@|@niibo@
+@attack@|@dagaal, hujuum, jalaalaqee, jalaalaqo@
+@attain@|@qunso@
+@attention@|@dhugmo@
+@attraction@|@illaacdo@
+@auction@|@xaraash@
+@audiologist@|@maqal haye@
+@auditory@|@maqal sooc@
+@aunt@|@eddo@
+@author@|@dhige, musannif@
+@autobiography@|@iskawarramid@
+@automibile@|@fatuurad@
+@automobile@|@baabuur, baabuur, fatuurad@
+@autumn@|@dayr@
+@autumn rains@|@dayr@
+@availability@|@helloonaan@
+@aviability@|@helloonaan@
+@axe@|@faas, gudimo, gudin, jidib@
+@baboon@|@daayeer@
+@baby@|@sebi@
+@bachelor@|@doob@
+@back@|@daban, dhabar, dib, gadaal, garab, jirjir, zaban@
+@back of the neck@|@qadaad@
+@bad@|@calafka@
+@bad luck@|@naxsi@
+@bad manners@|@anshaxxumo, basarxumo@
+@bad mistake@|@qanbarac@
+@bad news@|@dhiillo@
+@bad smell@|@qadhmuun@
+@bad strategy@|@basarxumo@
+@bad temper@|@camalxumo@
+@badger@|@xoor@
+@bag@|@gunnad, jawaan, jiraab, kiisad@
+@Baghdad@|@dhoweeyey@
+@bail@|@damaanad@
+@bait@|@callaafad@
+@baker@|@rootile@
+@balashi@|@feast@
+@bald@|@baso, bidaar@
+@bald person@|@basole@
+@bald spot@|@galahi, golax@
+@baldness@|@galahi, golah, salax@
+@bale@|@bundad@
+@ball@|@kankoon, kubbad, toon@
+@banana@|@muus@
+@banck check@|@jeeg@
+@bandage@|@bandheys@
+@banishment@|@miidaamo@
+@bank@|@bangi@
+@banner@|@bandiirad@
+@banquet@|@loog@
+@barbarian@|@jengeli@
+@bargain@|@baayac, gorgori, gorgoro@
+@bargaining@|@gorgortan@
+@bark@|@qolof@
+@barren she-camel@|@koron@
+@barrier@|@qoqob@
+@base@|@gundhigo, gundho, qoto, sal, unnug, unnug@
+@basis@|@tiirmud, unnug@
+@basket@|@dambiil, quffo@
+@bastard@|@wacal@
+@bathe@|@maydho, mayro@
+@bathing@|@mayrasho@
+@battery@|@bateri@
+@battle@|@xarbi@
+@bay@|@khoori@
+@bayonet@|@beynaad@
+@be@|@gir@
+@be a companion@|@wehelyeel@
+@be a fool@|@nacasoob@
+@be a guest@|@marti@
+@be a joker@|@jaajaalee@
+@be a light@|@shidan@
+@be able@|@garo, kar, tahli@
+@be about to rain@|@guulaamee@
+@be absent@|@maqnoow@
+@be afraid@|@baq, baqayya@
+@be agreeable@|@cuntan@
+@be alert@|@feeyignoow@
+@be amazed@|@fajac, fajic@
+@be angry@|@cadhood, carood, dhiidhiy, dhirif, gedaad, gidaad@
+@be annoyed@|@dhiidhiy@
+@be anxious@|@murugood@
+@be aroused@|@hiyikac@
+@be arranged@|@qaaban@
+@be arrogant@|@kibir@
+@be ashamed@|@xishood@
+@be astonished@|@amakaag@
+@be at a place@|@taalla@
+@be aware@|@ogoow@
+@be aware of@|@ogsoonoow@
+@be barefoot@|@cagaag@
+@be be frightened@|@nax@
+@be below@|@hoosee@
+@be bent@|@loodsan, qalloocan, qallooco@
+@be beside@|@baallee@
+@be bewitched@|@falan@
+@be blessed@|@dhuroob@
+@be blind@|@indhabbeel@
+@be born@|@dhal, dhalo@
+@be brave@|@kelyaciirso@
+@be broken to bits@|@jajab@
+@be buried@|@qallooco@
+@be burried@|@aasan@
+@be burst open@|@dhanbalan@
+@be certain@|@sug, xaqiiji@
+@be changed@|@beddelan, qayiran@
+@be cheap@|@raqiis@
+@be clear headed@|@fahmayso@
+@be closed@|@xiran@
+@be concerned about@|@aabayeel@
+@be confused@|@gedmo, qasan@
+@be connected@|@xiriir@
+@be constructed@|@dhisan@
+@be convinced@|@qanac@
+@be correct@|@qun@
+@be corrupt@|@musuqmaasuq@
+@be created@|@uuman@
+@be critically ill@|@barood@
+@be crooked@|@janjeer, maroor, qallooco, qallooco@
+@be dazzled@|@indhasarcaad@
+@be deceived@|@khatalan@
+@be delayed@|@caddilan@
+@be destroyed@|@dum@
+@be disappointed@|@hankaag, hungoob, khushuuc@
+@be dissolved@|@milan@
+@be dizzy@|@wareer@
+@be doubtful@|@shaki@
+@be drenched@|@caac@
+@be drunk@|@sakhraan@
+@be dry@|@dowr@
+@be dying@|@sakaraad@
+@be elegant@|@mardaaddi, shoob@
+@be eliminated@|@baaba@
+@be embarrassed@|@ilfashaq, islayaab@
+@be enamelled@|@dheehan@
+@be engaged in sports@|@jimjimicso@
+@be enough@|@kafee@
+@be entertained@|@madadaalo@
+@be evident@|@muuqo@
+@be excited@|@dherer@
+@be expensive@|@qaalisanoow@
+@be extinguished@|@dan@
+@be far off@|@shishee@
+@be filled to the rim@|@ceegaag@
+@be finished@|@maro@
+@be first@|@horree@
+@be fitting@|@meelmar@
+@be fragrant@|@caraf@
+@be frightened@|@nax@
+@be frightened of@|@maarso@
+@be full@|@buux@
+@be full of holes@|@daldalool@
+@be full to overflowing@|@hirqo@
+@be full up@|@jilaysan@
+@be gathered together@|@tuuro@
+@be happy@|@arwaax, faarax, mustareex, naallood, riyaaq@
+@be happy (1)@|@badhaadh@
+@be hungry@|@gaajood@
+@be impatient@|@badhaadh, koranwaay, raagso@
+@be in a difficult situation@|@iiqo@
+@be in a place@|@ool@
+@be in a tight place@|@iiqo@
+@be in debt@|@qaamoob@
+@be in error@|@khatalan@
+@be in mourning@|@tacsi@
+@be in pain@|@xanuun@
+@be in suffer@|@balanbal@
+@be in the middle@|@dhexee@
+@be in tight place@|@iiqo@
+@be in trouble@|@balanbal@
+@be incomplete@|@qabyoob@
+@be increased@|@biiraan@
+@be interested in@|@muraad@
+@be jealous@|@masayr@
+@be joyful@|@farax@
+@be kind to@|@arxan, naxariiso@
+@be kindled@|@hulkan@
+@be lacking@|@moog@
+@be last@|@dambee@
+@be late@|@baad, daah@
+@be lazy@|@caajis@
+@be loosened@|@ruxan@
+@be lost@|@dhun, habaab, hallaab, hallaw, halloob@
+@be lucky@|@naallood@
+@be lying down@|@jiif@
+@be occupied@|@hawshood@
+@be of service@|@ciidan@
+@be offend@|@khasiyadee@
+@be offensive@|@khasiyadee@
+@be on guard@|@irdhoob@
+@be on top@|@korreev, korreev, sarrey@
+@be out of breath@|@haftood@
+@be partial@|@hiili@
+@be patient@|@dulyeelo, sabir, samir@
+@be permanent@|@waar@
+@be permanet@|@waar@
+@be permited@|@jidoob@
+@be permitted@|@jidoob@
+@be persistent@|@haar@
+@be pleased@|@arwaax@
+@be pleased with@|@guux@
+@be possible@|@suuraggal, suurtoob@
+@be pregnant@|@riman, rimay@
+@be present@|@joog@
+@be prosper@|@badhaadh@
+@be put into effect@|@hirgal@
+@be quick@|@dhakhso@
+@be rebellious@|@caasiy@
+@be reduced@|@dhiman@
+@be related to@|@qareen@
+@be responsible@|@isqaan@
+@be restless@|@dhaqdhaqaaq, kirtan@
+@be rounded@|@kuusan@
+@be ruined@|@ibtiloob@
+@be sad@|@caloolxumow@
+@be safe@|@badbaad@
+@be scared@|@naxsanoow@
+@be shaken@|@musuraar@
+@be shocked@|@musuraar, qarracan@
+@be shy@|@ajood, ilfashaq@
+@be sick@|@buko, bukood@
+@be silent@|@aammus@
+@be slaughtered@|@qalan@
+@be spoiled@|@ba@
+@be started@|@bilaaban@
+@be startled@|@hanfad, nax@
+@be straight@|@qun@
+@be stretched@|@jiidan, togan@
+@be stunted@|@dhar@
+@be sufficient@|@kafee@
+@be suitable@|@habboonoow@
+@be superior@|@korreev@
+@be sure@|@hub, hubso, sug@
+@be surprised@|@abyan, layaab, yaab, yaab@
+@be suspended@|@lalmo@
+@be sympathetic@|@garaab@
+@be tardy@|@baad@
+@be tempted@|@laabraac@
+@be terrified@|@guulan@
+@be the cause of death@|@sabab@
+@be thirsty@|@harraad, oon@
+@be threaded@|@taxan@
+@be threatened@|@hanfad@
+@be thrifty@|@cuquulee@
+@be tied@|@xiran@
+@be tied by the leg@|@heegan@
+@be tied up@|@xiran@
+@be tired@|@daal, noog@
+@be unprofitable@|@khasaar@
+@be unstable@|@kadaalli@
+@be upright@|@qoton@
+@be useful@|@anfac, waxtar@
+@be victorious@|@guuleyso, libayso@
+@be weak@|@liido@
+@be well@|@faay@
+@be well cared for@|@dhaqan@
+@be win@|@guuleyso@
+@be wounded@|@heeran@
+@be wrapped@|@duuban@
+@be zealous@|@haar@
+@be!@|@ahaw, jir@
+@be/exist@|@jir@
+@bead@|@bead, kuul@
+@bean@|@digir@
+@beans@|@digir@
+@bear@|@oorso@
+@bear interest@|@ribxi@
+@beard@|@gad, gar, gar@
+@beat@|@garaac, ree, tun, xaawi@
+@beat thoroughly@|@jafjaf@
+@beat to remove dust@|@jaf@
+@beating@|@dhabaandhaw, jaf@
+@beautiful appearance@|@haashaar@
+@beautiful object@|@ilwaad@
+@beautiful person@|@maandeeq@
+@beautify@|@qurxi@
+@beauty@|@ilqabato, luuli, qaabsanaan, qurux, sharaf, siinad@
+@beauty (1)@|@heemaal, toolmoonaan@
+@beauty goodness@|@toolmoonaan@
+@beauty style@|@heemaal@
+@because@|@maxaa yeelay, sababta@
+@become@|@garoob, noqo@
+@become a christian@|@nasaaroob@
+@become a friend@|@saaxiib@
+@become a Muslim@|@islaam, muslin@
+@become adult@|@barbaar@
+@become angry@|@cartan@
+@become bankrupt@|@musallif@
+@become broken@|@burbur@
+@become civilized@|@ilbax@
+@become cold or cool@|@qaboob@
+@become comfortable with@|@qalaggooy@
+@become confused@|@mashaqoob@
+@become crippled@|@curyaan@
+@become dessicated@|@jawrar@
+@become dirty@|@najaasee@
+@become emotional@|@hiyikac@
+@become equal@|@masoob@
+@become expensive@|@qaaliyoob@
+@become extra@|@saayid@
+@become faint@|@diq@
+@become fat@|@buurnoow@
+@become green@|@laac@
+@become ifnected@|@hurgun@
+@become ill@|@buk@
+@become impure@|@najaasee@
+@become loose@|@khalkhal@
+@become one@|@midoob@
+@become or be bankrupt@|@musallif@
+@become overheated@|@huur@
+@become poor@|@cayrtoobo@
+@become possible@|@suuroob@
+@become real@|@dhaboob@
+@become related@|@bahoob@
+@become related by marriage@|@xidid@
+@become rich@|@hodan@
+@become rusty@|@mirir@
+@become small@|@yaroow@
+@become soft@|@jilicsan@
+@become spoiled@|@kharaab@
+@become strong@|@quwoob@
+@become stuffy@|@huur@
+@become white@|@caddow@
+@become worn@|@duugoob@
+@become worn out@|@kharaab@
+@becoming angry@|@carood@
+@becoming lost@|@lumid@
+@becoming short@|@gaabin@
+@becoming strong@|@taagsasho@
+@bed@|@dargad, sariir, sariir@
+@bedbug@|@kutaan@
+@bedroom@|@shamrad@
+@bee@|@shinni@
+@beer@|@biir@
+@bees@|@shinni@
+@before@|@awal, horteeda, hortiis@
+@beg@|@tuugso@
+@beget@|@dhal@
+@begging@|@baryo@
+@Begging the clouds to rain@|@Daruuro usoo sasabay@
+@begin@|@biloow@
+@begin to shine@|@kaah@
+@begin with a blessing@|@bismillee@
+@beginning@|@bilaabasho, bilaw, biloow, gundhig, horraan@
+@behavior@|@basar, baxaalli, camal, dabac, dabeecad, saansaan@
+@behavior (1)@|@akhlaaq, dabicad, guuhaad, guuhaad, sansaan@
+@behind@|@dabadeed, dabo@
+@beign upright@|@taagnaan@
+@being overwhelmed@|@hafad@
+@being safe@|@caymasho@
+@being short@|@cedhiidhi@
+@being warm@|@diirsi@
+@being worse@|@darnaan@
+@belch@|@daac@
+@belief@|@ictiqaad, iimaan@
+@belittle@|@quurso@
+@belly@|@ffic, uur@
+@beloved@|@xabiib@
+@beloved female@|@gacaliso@
+@beloved male relative@|@gacaliye@
+@beloved person@|@gacal@
+@below@|@hoos@
+@belt@|@seeb@
+@bend@|@god, hogoggoli, nadooci, qallooco, qallooco, qoolaab, tiic@
+@bend (1)@|@liic, qallooci@
+@bend by force@|@loodi@
+@bend oneself@|@qoox@
+@bend over something@|@gowriir@
+@bending over@|@gowriir@
+@benefit@|@dheef, nacfi@
+@benefit from@|@aayo, nafacso@
+@benefiting@|@nafacsasho@
+@bentness@|@gurrac, nadoocsanaan, qallooc@
+@berate@|@hangaggurree@
+@beside@|@dhinac, gebi@
+@bet@|@sharad, shardi@
+@betray@|@hod, khayaan, mardabee@
+@betrayl@|@mardabo@
+@between@|@dhexdood, dhexdooda@
+@beyond@|@shishe@
+@bias@|@eexasho@
+@bicycle@|@baskiil, baskiilad@
+@big@|@weyn@
+@big eater@|@cunaa@
+@big white cloud@|@dhot@
+@bigness@|@weynaan@
+@biid@|@morsel@
+@bile@|@leex@
+@bill@|@biil@
+@billion@|@bilyan@
+@bind@|@xirxir@
+@binding@|@jilid@
+@biology@|@bayooloji@
+@bird@|@shimbir, shinbir@
+@birds@|@haad@
+@birth@|@dhalasho@
+@birthday@|@dhallaanciil@
+@biscuit@|@buskud@
+@bit@|@biid, kis, kis, xabbo@
+@bite@|@cantuugo, gurbo, qaniin, qaniin@
+@bits@|@jaabo@
+@bitter stuff@|@dacar@
+@bitterness@|@hinaayo, kharaar, xaraar@
+@black@|@madaw@
+@black ant@|@midh@
+@black color@|@sugul@
+@blame@|@eed, haaraan, hanaayo, haydaarto, hiif, saarso@
+@blame (1)@|@aano@
+@blanket@|@buste, laxaaf@
+@blast@|@qarax@
+@blaze@|@belbel@
+@bleed@|@dhiigaab, dhiigbax, goror@
+@bleeding@|@dhiijis@
+@bless@|@barakee, ducee@
+@blessing@|@ajar, dhurwaa, falli, falli, wacays@
+@bliking@|@bilig, libiqsasho@
+@blind person@|@indhoole@
+@blindfold@|@indhadduub@
+@blindness@|@indhabbeel@
+@blink@|@birbir, libiqso@
+@blister@|@ciir@
+@blodness@|@boorrin@
+@blood@|@dhiig@
+@blood relations@|@qaraabo@
+@blood relatives@|@hilbawadaag@
+@blow@|@afuuf, feer, garaacid@
+@blow dust@|@habaasi@
+@blue@|@buluug, buluuki@
+@bluntness@|@afdarro, guxuun@
+@blurred vision@|@malluug@
+@boar@|@khansiir@
+@boast@|@faan@
+@boasting@|@dhood@
+@boat@|@doon@
+@bodily organ@|@qaaro@
+@body@|@jidh, jir, kor, oogo@
+@body-hair@|@xaad@
+@bomb@|@bam, bambo, jaliilad@
+@bone@|@laf@
+@bone of the back of the jaw@|@jiriid@
+@bonus@|@gunno@
+@book@|@buug, buuga, kitaab, kitab, kutub@
+@books@|@kutub@
+@boom@|@jibindhaw@
+@border@|@geftin, xad@
+@bore@|@boor@
+@boredom@|@hadarinan@
+@borrow@|@amaaho, caariyeyso, daynso, deeyno, deyn qab@
+@borrowing@|@caariyeysasho, caariyeysi@
+@boss@|@jammaamuur@
+@both@|@labada@
+@bother@|@arbush, khashkhash, khashkhash, rabbash@
+@bottle@|@qarshad, qarsho, qaruurad, quraarad@
+@bottom@|@gundho@
+@bottom vertebra@|@dhumuc@
+@boulder@|@dhadhaab@
+@boundary@|@soohdin, xad@
+@bourgeois@|@burjuwaasi@
+@bourgeoisie@|@burjuwaasiyad@
+@bow@|@qaanso, qoolaab@
+@bowl@|@baaquli@
+@box@|@baaquli@
+@boy@|@inan, shaab, wiil@
+@boycott@|@qaadacaad@
+@brackets@|@bilo@
+@brain@|@maskax@
+@brake@|@joojiye@
+@branch@|@baadisooc, faraca, laan@
+@brave man@|@geesi, hoodaar@
+@bravery@|@geesinnimo, kelyaciirsasho@
+@breach of promise@|@ballanbaajis@
+@bread@|@kibis, kidaar, kimis, rooti@
+@breadth@|@ballaadh, qiro, weyso@
+@break@|@jab, jabniin, nasiino@
+@break a date@|@googooy@
+@break a promise@|@ballanbaaji@
+@break in pieces@|@jejebi@
+@break something@|@kharaabi@
+@break to bits@|@break to bits@
+@breakfast@|@afbilaw, foolbaxsi, hamuuntirasho, quraac@
+@breaking@|@jebin, joojin@
+@breast@|@laab, sakaar, sarrax, sarrax, shaf, shaf, xabad@
+@breasts@|@caanaggaleen@
+@breath@|@afuufo, naf, neef, ruux@
+@breathe@|@neefso@
+@breathlessness@|@hafto@
+@breeze@|@layr, neecaw@
+@bribe@|@callaal, laaluush@
+@bribery@|@laaluush@
+@brick@|@matooni@
+@bride@|@aroosad@
+@bride price@|@yarad@
+@bridge@|@buunto, kaabad@
+@brief news@|@jus@
+@brim@|@afmeer, looli@
+@bring@|@keen@
+@bring back@|@labakaclee@
+@bring home@|@hooyi@
+@bring into accordance@|@waafaji@
+@bring to destruction@|@halaaji@
+@bring together@|@jiinguuri@
+@bring up@|@barbaari@
+@broad road@|@haloosi@
+@broadcast@|@idaacad@
+@broaden@|@ballaadhi@
+@broom@|@minfiiq, salabo@
+@brother@|@walaal@
+@brotherhood@|@walaalnimo, walaaltinnimo@
+@brown@|@ciid@
+@bruise@|@jug@
+@brush@|@buraash, minfiiq, salabo, tirtire@
+@brushwood fence@|@ooda@
+@buck@|@dabuula@
+@bucket@|@kolay, koley@
+@buckle@|@qadhabi@
+@bud@|@man@
+@budget@|@miisaaniyad@
+@build@|@dhis, dhiso@
+@build a partition@|@qoqob@
+@builder@|@fuundi@
+@building@|@daar, dhisid@
+@building material@|@looxaan@
+@building of stone@|@sar@
+@bull@|@haramcas, he-camel@
+@bullet@|@afrid, xabbad@
+@bump@|@jibindhaw@
+@bunch@|@rucub@
+@bundle@|@bundad, bundad, guntin@
+@burden@|@hagardaamo@
+@burial@|@aas, duug, duugis@
+@burn@|@cuudi, gub, gubo, holac@
+@burnt food@|@gubnood@
+@bury@|@aas, duug@
+@bus@|@bas@
+@bush@|@kayn@
+@bushes@|@ay@
+@business@|@biic, maslaxad@
+@businessman@|@geddisley@
+@but@|@laakiin, laakiinse@
+@butter@|@burcad@
+@butterfly@|@balanbaalis@
+@buttermilk@|@ciir@
+@buttock@|@dool@
+@buttocks@|@bari, dabo, dib@
+@button@|@guluus, qaluus@
+@buy@|@iibso@
+@buying@|@gadasho, gado, iibis@
+@cage@|@qafas@
+@cairn@|@taallo@
+@calamity@|@belaayad@
+@calculation@|@xisaab@
+@calf@|@dibi, qaalin@
+@calf of leg@|@sibir@
+@caliph@|@khaliif@
+@call@|@yeedh, yeer, yeer@
+@call for help@|@muusaannaab@
+@Call him (a name)@|@Isaga ku sheeg@
+@call out@|@tannaagood@
+@call to prayer@|@aadaan, aadan, addin@
+@calm@|@degganaan@
+@camel@|@awr, geel@
+@camels@|@geel@
+@campaign@|@olole@
+@can@|@daasad@
+@can I come in?@|@hooddi@
+@Can you write it in English?@|@Ma ku qori kartaa af ingriisi?@
+@canal@|@khoori@
+@cancellation@|@tiraan@
+@candle@|@shumac@
+@cane@|@ul@
+@cannibal@|@dadqalato@
+@cannon@|@madfac@
+@canteen@|@buraashad@
+@capability@|@awood, hawlkarnimo, hawlkarnimo, tabaro@
+@capable person@|@hawlkar@
+@capacity@|@qaad, qaatin@
+@capacity of the stomach@|@cir@
+@capital@|@lafo@
+@capital (money)@|@raasumaal@
+@capital city@|@caasimadda@
+@capitol city@|@magaalmadax@
+@captain@|@dhamme@
+@captive@|@boojimo@
+@capture@|@boojin, halqafi@
+@car@|@fatuurad, gaadhi, gaari@
+@carbon@|@kaarbon@
+@card@|@kaarto@
+@care@|@xannaanad, xannaano@
+@care into the shade@|@hari@
+@carefulness@|@feejigaan, feeyigaan, feeyignaan@
+@careless@|@laahi@
+@carelessness@|@laahinnimo, layac@
+@caress@|@maraac, maraaci, salaax@
+@cargo@|@shixnad, xamuul@
+@carpenter@|@najaar@
+@carpet@|@qadiifad@
+@carry@|@sid@
+@carry into the shade@|@hari@
+@carry out@|@hawlgeli@
+@carry things one by one@|@gurgur@
+@cartridge@|@saanad@
+@case@|@xaajo@
+@cash@|@naqad, naqdi@
+@cash flow@|@naqadsoogal@
+@cashier@|@khasnaji, qasnaji, qasnaji@
+@castrated camel@|@koron@
+@casualities@|@khasaare@
+@cat@|@bisad, dinad, dummad@
+@catch@|@qab@
+@catch fire@|@daaran@
+@catch for oneself@|@qabso@
+@catch hold of@|@qabo@
+@category of stock@|@meesi@
+@caterpillars@|@diir@
+@caucasian@|@caddaan@
+@cause@|@dhali, halraro@
+@cause difficulties@|@qahar@
+@cause hardship@|@silci@
+@cause to dangle@|@raarici@
+@cause to descend@|@deji@
+@cause to disappear@|@libdhi, libqi, libri@
+@cause to eat@|@cunsii@
+@cause to expand@|@maaxi@
+@cause to forget@|@sahwisii@
+@cause to hate@|@nacsii@
+@cause to meet@|@kulmi@
+@cause to miss@|@ilduufi@
+@cause to miss out@|@sahwisii@
+@cause to pass over@|@dhaafi@
+@cause to run@|@orodsii@
+@cause to run dry@|@guri@
+@cause to sit crouched@|@kuududi@
+@cause trouble@|@leelleel@
+@cause worry@|@murji@
+@causing@|@dhalin@
+@causing difficulties@|@caddibaad@
+@ccoperative@|@danwadaag@
+@ceiling@|@saqaf@
+@celebrate@|@ciid, dabaaldeg, dabbaaldeg@
+@celebration@|@dabbaaldeg, nabdaad@
+@census@|@tirakoob@
+@center@|@badhtan, bartame, bartan@
+@center of emotion@|@hiyi@
+@centipede@|@farabbadan@
+@cents@|@sent@
+@century@|@qarni@
+@cereal@|@daafi@
+@ceremony@|@xaflad@
+@certainty@|@hubanti, sugnaan, xaqiiq, xaqiiqo@
+@certanty@|@hubanti@
+@chain@|@silsilad@
+@chair@|@kursi@
+@chairman@|@guddoomiye, guddoonshe@
+@challenge@|@biime@
+@champion@|@halaqdile@
+@chance@|@baddal, beddel, beddelaad, bilkeedo, fursad, kaayeysi@
+@chance (1)@|@isbeddel, qayir, qayiran@
+@change@|@baddal, beddel, beddelaad, isbeddel, qayiran@
+@changed@|@geddis@
+@chant@|@ori@
+@character@|@dabci, dabeec, dhalan, gaado, gaado, ged, qurjad@
+@characteristics@|@saansaan, saansaan, saansaan, sansaan@
+@charge@|@korsaar@
+@charity@|@faxdi, sadaqad@
+@charm@|@jamaad, xirsi@
+@chase@|@buubso, C, cagaaji, ceerso, ceyri, ceyro, eri, raac@
+@chasing@|@buubsad@
+@chat@|@haasaawi, tororog, tororog, tororoglee, tororoglee@
+@chat pleasantly@|@jalbeebtan@
+@chatter@|@booyaan, nacna, nacnaclee, tororog, tororoglee@
+@cheapness@|@rakhiis@
+@cheat@|@khatal, khayaamee, khayaamee, khayaan, khiyaanadee@
+@cheater@|@khaayin@
+@cheating@|@cawarid, khayaano, khiyaano@
+@cheek@|@dhaban@
+@cheer@|@bogaad@
+@cheerful conversation@|@bulxan@
+@cheerful person@|@fallaax@
+@cheese@|@farmaajo, gubun, jiss@
+@chemistry@|@kiimika, kiimikada@
+@cherry@|@midho@
+@chest@|@B, gaaddo, hanqal, laab, sakaar, sakaar, sarrax, shaf, shaf, xabad@
+@chestnut horse@|@xamar@
+@chew@|@calali, hiig, qawsho@
+@chewing@|@baryaqaad, caanyeys@
+@chicken@|@diyaad, dooro, jiddu duuri@
+@chief@|@ammiir, beeldaaje, beeldaaje, caaqil, jammaamuur, maqaddin, maqaddin@
+@chief (1)@|@duubis, odey, qaafo@
+@child@|@canug, caruur, ilmo, wiil@
+@childbirth@|@foolad@
+@childhood@|@ciyaalnimo@
+@children@|@carruur, ciyaal, mahayammoog, wasiir@
+@children (1)@|@gurbood, hoomo, manqo, ubad, yaryar@
+@chili pepper@|@basbaaska@
+@chill@|@gabaddano@
+@chilliness@|@gabaddanaysnaan@
+@chilling@|@qaboojis@
+@chilly@|@gabaddano@
+@chin@|@gad, gar, gar@
+@chink@|@hul@
+@choice@|@doorad, doorasho, gaadasho, ikhtiyaar, khushi@
+@choke@|@saxo@
+@cholera@|@daacuun@
+@choose@|@calmo, door, dooro, dooro, gaado, gaado, togo, xul, xulo@
+@chop@|@goon, jarjar, xaf@
+@chop up@|@kidif@
+@chopping@|@jar, jiifin@
+@chorus of a dance-song@|@jiib@
+@christians@|@nasaaro@
+@chromosome@|@koroomasoomka@
+@church@|@kaniisad@
+@cigar@|@burri@
+@cigarette@|@sakareed, sigaar@
+@cinema@|@shineemo@
+@circle@|@dadab, gedef, goobo, heereyn, maageer, qooqaar@
+@circle (1)@|@goobaab, lucuun@
+@circuit@|@meegaar@
+@circular@|@wareegto@
+@circulation@|@wareeg@
+@circumstance@|@wadci@
+@city@|@magaalo, xaafad, xaafad@
+@civil@|@madani@
+@civilian people@|@raaciye@
+@civilization@|@ilbaxnimo, xadaarad@
+@civilize@|@ilbixi@
+@civilized person@|@ilbax@
+@claim a debt@|@qaandheb@
+@claim for oneself@|@sheego@
+@clan@|@dhulbahante, reer@
+@clan family@|@daarood@
+@clap@|@sabci@
+@clarification@|@fasirid@
+@clarity@|@bayaan, qaddacnaan@
+@class@|@dabaqad@
+@clay soil@|@dhoobey@
+@clay vessel@|@dheeri@
+@clean@|@nadiif, nadiif, nadiifi, saafi, safee, safeyn, sifee, xal@
+@clean (1)@|@huf@
+@cleaned@|@hufnaan@
+@cleaner@|@safeeye@
+@cleanliness@|@nadaafo, nadiifnimo@
+@clear a path@|@bannee@
+@clearing@|@bannaan@
+@cleft@|@hul@
+@cleverness@|@fiicnaan@
+@client@|@kiliyente@
+@cliff@|@daan, looli@
+@climb@|@taf@
+@close@|@xidh, xir, xiro@
+@cloth@|@kharqad, maro@
+@clothes@|@dhar, hu, kiswad, marriin@
+@cloud@|@caad, ciiryaamo, curasho, daruur@
+@clouds@|@ceeryaamo@
+@clown@|@jaajaale@
+@club@|@naadi@
+@clutch at@|@halqaf@
+@coal@|@dhuxul@
+@coat@|@koodh, laxaaf@
+@cobble up@|@jansaar@
+@cockroach@|@barambaro@
+@coerce@|@khasab@
+@coffee@|@bun, qahwe@
+@coffee pot@|@maxmaas@
+@coincide@|@beegan@
+@cold@|@deddo, dhaxan, gabaddanaysnaan, gabaddanaysnaan, jacjuun, qabow@
+@cold season@|@qabooba@
+@cold weather@|@diilalyo, gabaddano@
+@cold winter@|@qabooba@
+@collaborate@|@kaashi@
+@collaboration@|@kaashi@
+@collapse@|@habso, saxuug@
+@collateral@|@curaar@
+@colleague@|@rafiiq@
+@collect@|@gur, gurbi, qaaran, shamuun, ururi@
+@collect together@|@jabqi@
+@collecting@|@ururin@
+@college@|@kolej, kulliyad@
+@colonel@|@kornayl@
+@colonialism@|@isticmaar@
+@colonialist@|@gumeyste@
+@colonialization@|@gumeysad@
+@colonizing@|@gumeysasho@
+@color@|@giirbaq, midab, midabeey, namuun, namuuno, sabbikh@
+@color (1)@|@renji@
+@combustion@|@hurid@
+@come home@|@hooyo@
+@come into being@|@uuman@
+@come near@|@kuuri@
+@come to a successful end@|@liibaan@
+@come untied@|@furfuro@
+@come!@|@kaalay@
+@comfort@|@raaxaysasho@
+@coming home@|@hooyasho@
+@coming or going home@|@hooyasho@
+@comma@|@fidhig, fidi, hakad@
+@command@|@amar, horseed, xukun, xukuumad@
+@commander@|@abbaanduule, horseed@
+@commemoration@|@xus, xusid@
+@commend@|@faani@
+@commentary@|@faallo, tacliiq@
+@commerce@|@bucshiro@
+@commit a crime@|@danbaab@
+@commit aggression@|@weerar@
+@commit suicide@|@isdil@
+@commitment@|@ballangal@
+@committee@|@guddi@
+@committing suicide@|@isidilid@
+@communications@|@isgaarsiin@
+@community@|@cid, ummad, ummad@
+@companion@|@lammaan, wehel@
+@companionship@|@wehelyeel@
+@company@|@kambani, sharikad, shirkad@
+@compare@|@barbardhig@
+@compassion@|@jimic, jirnax, jixinjix, jixinjix@
+@compel@|@bad, dirqi, kallif, khasab, khasab, muquuri, sallid@
+@compensatory payment@|@xaal, xaalad@
+@compete@|@bedertan, halgan, tartan@
+@compete with@|@looltan@
+@competing@|@tartamid@
+@competition@|@dhaqtan, taraddan@
+@competitor@|@tartame@
+@complain@|@ashtakood, cabo, calaacal, cataab, tawaawac@
+@complaining@|@cabasho, tawaawacid@
+@complaint@|@cabatin, cataw@
+@complete@|@ebi, idlee, kaammil, muul@
+@completeness@|@waafi@
+@completion@|@dhamaad, dhammeyn, ebyoonaan, ebyoonaansho, idlaad@
+@completion (1)@|@sammaad@
+@complex@|@cuqdad@
+@composition@|@sannif@
+@compound@|@iskudhis@
+@compression@|@jiiqo@
+@compulsion@|@dirqi, hawaan, kallif, khasab, muquuno@
+@comrad@|@rafiiq@
+@comrade@|@jaalle@
+@comradeship@|@jaalnimo, rafiiqnimo@
+@concave@|@guho@
+@conceal@|@kaay, qari, qarso@
+@concealment@|@maldahnaan@
+@concern@|@khuseey, tacalluq@
+@conclude@|@dhammaystir, dhammeey, gabagabee, khatin@
+@conclusion@|@gabaggabo, gebaggebo, khaatimo, khatin@
+@concord@|@bax@
+@condemn@|@cambaareey@
+@conditions@|@axwaal, duruuf, shuruud@
+@conduct@|@anshi, guuhaad@
+@conference@|@fadhdhi, fadhi@
+@confidence@|@kalsami, kalsoonaan, kalsooni, qaneecaad@
+@confort@|@hortag, qaabbil@
+@confuse@|@khawaysii, qas@
+@confused@|@kharaf, miryaad@
+@confusion@|@iskuddar, iskuddar, wareer@
+@congratulate@|@bishaaree, hambalyee, hanbalyee@
+@congratulations@|@hambalyo, hanbalyo, tahniyad@
+@congratutalion@|@bishaaro@
+@congregate@|@bannaanbax@
+@congregation@|@jameecaad, jameeco@
+@connect in a series@|@xiriiri@
+@connection@|@iskuxidhnaan@
+@connections@|@cilaaqaad@
+@consciousness@|@miyir, xis@
+@consent@|@heemasho, heemasho, ijaab, ijaabo@
+@conservation@|@hawal@
+@consider@|@aabayeel, talagal, talajir, tasho@
+@considering@|@tasasho, tashad@
+@consist of@|@kooban@
+@consolation@|@qaboojin@
+@conspiracy@|@shirqool@
+@conspire@|@shirqool@
+@constitution@|@distuur@
+@constrain@|@khasab@
+@construct@|@ratib@
+@construction@|@dhismo, dhisnaan@
+@consulation@|@tashi@
+@consume@|@laaso@
+@contagion@|@afro@
+@container@|@gal, jalxad@
+@contempt@|@ihaano@
+@contentment@|@mabsuud@
+@contents of the stomach@|@uus@
+@continent@|@qaarad@
+@continuation@|@iskubbixis@
+@continue@|@wad@
+@contract@|@kog, qandaraas@
+@contradiction@|@ilaaq, iskhilaaf@
+@contrary@|@cagsi, caksi@
+@contribution@|@kaal@
+@control@|@kontorool@
+@conversation@|@haasaawe@
+@converse@|@haasaw, sheekeyso, xaal@
+@converse in sign language@|@midaar@
+@convey@|@geey@
+@convince@|@qanci@
+@convince onself@|@isdhacsii@
+@convincing@|@garansiin@
+@cook@|@kari, kuug@
+@cookie@|@buskud@
+@cooking stove@|@birjiko@
+@cooking vessel@|@digsiga@
+@cool wind@|@walwal@
+@coop@|@qafas@
+@cooperate@|@kaashi@
+@cooperation@|@daawo, iskaashad, iskaashi, kaashi, kaashi@
+@co-operative@|@iskaashato@
+@cooperatives@|@iskaashatooyin@
+@co-ordination@|@iskuagaasimid@
+@copper@|@maar, naxaas@
+@copulate@|@was@
+@copy@|@naqal, nuqul@
+@cord@|@xarig@
+@core@|@nas@
+@core of fruit@|@dibudday@
+@cork@|@fur@
+@corn@|@hadhud, saren, sorghum@
+@corner@|@kalaggoys, koone, koone, laabato@
+@correct@|@sax@
+@correcting@|@qumin@
+@correctness@|@habbanaan, qummaati, qummanaan@
+@corrupt@|@kharrib@
+@corruption@|@musuqmaasuq@
+@cotton@|@cudbi@
+@cough@|@jibaax, qufac@
+@council@|@golo, shir@
+@counsel@|@hanuuni, naseexee, naseexo, nasteexo@
+@counselor@|@lataliye@
+@count@|@kowkabi@
+@counter-argument@|@jikaar@
+@countries@|@dalal, waddamo@
+@country@|@arlo, bilaad, bilaad, dal, dhul, gayi, gayi, giyi@
+@countryside@|@baadiye@
+@courage@|@boorrin, dhiirranaan, dhiirrasho, dhiirri, kelyaciirsasho@
+@court of law@|@maxkamad@
+@courting@|@shukaansi@
+@couscous@|@furfur, gashiisho@
+@cousin@|@inaabti, inaadeer@
+@cover@|@aabbur, dabool, galeen, habar, jallaad, jilid, jilid@
+@cover up@|@dad@
+@cover with a cloth@|@huwi@
+@cow@|@sac@
+@cows@|@loc@
+@crack@|@dillaac, hul, tarrar@
+@crack between teeth@|@fanax@
+@crack repeatedly@|@jeexjeex@
+@cracker@|@buskud@
+@crackling@|@qajajac@
+@cracks in trees@|@faraq@
+@crane@|@wiish@
+@crave@|@buseel@
+@craving@|@buseel, haalaati, jamasho, jamasho@
+@crawl@|@cagaf, gurguurad@
+@crawling@|@guurguurasho@
+@crazy person@|@kharaf@
+@cream@|@labeen@
+@create@|@ahaysii, curi, khalaq, uun@
+@creation@|@abuuris, kawn, khalqi, makhluuq, sannif, unug, unug, uun@
+@credit@|@amaah, ereg@
+@creek@|@khoori@
+@creeping plant@|@faalal@
+@crime@|@danbaab, dembi@
+@criminal@|@mujrim@
+@cripple@|@curyaami@
+@critically ill person@|@barood@
+@criticism@|@dhaleeco, munaaqashaad@
+@criticize@|@dhaleecee@
+@crockodile@|@yexaas@
+@crocodile@|@yaxaas@
+@crookedness@|@janjeersi, maroor@
+@crookedness (physical/moral)@|@qallooc@
+@cross@|@gudub@
+@crossing@|@babac@
+@crouching position@|@kuudud@
+@croup of a horse@|@fan@
+@crowd@|@ciriiri, cuur@
+@crowd of people@|@gguto@
+@crowd together@|@shamuun@
+@crown@|@boqor@
+@crown of the head@|@baso, kug@
+@crumble@|@burburi@
+@crumpledness@|@jactadnaan@
+@crush@|@buusbuus@
+@cry@|@ci, ciyy, ilmee, naado, ooy@
+@cry in heat@|@qalaad@
+@crying@|@ciyid@
+@cucumber@|@qajaar@
+@cudgel@|@qaar@
+@cultivate@|@khasif, khasif, lim@
+@cultivation@|@khasif@
+@culture@|@dhaqan, hidde, murti@
+@cunning@|@xeel, xeelad, xeelo@
+@cup@|@fujaan, koob, toob@
+@cupboard@|@armaajo, kabar@
+@cuquul@|@wise men@
+@cuquule@|@wise men@
+@cure@|@caafimaadi@
+@current@|@xiisad@
+@curse@|@cuqubo, habaar@
+@curtain@|@daaho@
+@curtainless@|@koobid@
+@curve@|@laab, qallooci, qallooci@
+@custom@|@alab, caado, curuf, hidde@
+@customer@|@dalbade, kiliyente@
+@customs operations@|@furdad@
+@cut@|@gooy, gur, jar, sar@
+@cut back@|@naaqis@
+@cut off@|@goy, gud@
+@cut up small@|@jarjar@
+@cuteness@|@jamaad@
+@cutting@|@jar@
+@cyclone@|@cirboor@
+@dagger@|@amley@
+@daily bread@|@calaf@
+@dairy-cattle@|@irmaan@
+@dam@|@badxir, biyaxir, moos@
+@damage@|@hargaamo, iimee, iin, iin, khasaaro, khasaaro, qoon, xumi, xumi@
+@damp@|@laadqoyan@
+@dampness@|@qoyaan@
+@dance@|@bardooddan, ciyaar@
+@dancing@|@dheelis@
+@danger@|@halis, khatar@
+@dangerous person@|@laayaan@
+@dangle@|@laalaco@
+@dangle down@|@laallaad@
+@dangling@|@lulmasho@
+@darkness@|@gudcur, habeennimo, higil, mugdi@
+@dark-skinned@|@gibilmadow@
+@daughter@|@gabadh, inan@
+@daugther@|@gabar, inan@
+@dawn@|@aroor, barii, fajar, waabari, waabberi@
+@day@|@ayaan, casho, dharaar, maalin@
+@day before yesterday@|@darraad, dorraad@
+@daylight@|@gabbal, iftiino@
+@daytime@|@dharaarin, iftiino@
+@dazzlement@|@indhasarcaad@
+@dead creature@|@dhimaad@
+@dead person@|@dhimaad@
+@deal@|@beec@
+@death@|@geeri, kaw, meleg, mowd, umasho, wad@
+@death (1)@|@ajalid, dhimasho, hadimo, mawd, tahluuko@
+@death pangs@|@sakaraad@
+@debate@|@dood@
+@debater@|@doodaa@
+@debris@|@qashin@
+@debt@|@abbaar, deyn, qaan@
+@decay@|@bolol@
+@deceased person@|@marxuum@
+@deceit@|@khayaano, khiyaanad, laqdabo@
+@deceitful person@|@khaatir, khatal@
+@deceive@|@dag, dhagar, dhagar, khayaamee, khayaamee, khiyaan, qataysii, sir@
+@deceive (1)@|@ajar, khatal, khatal, khiyaanadee, sab@
+@deceiver@|@khiyaanadle, khiyaanadlow@
+@deception@|@afjuxuunsi, dagniin, dhagar, khiyaane, khiyaano@
+@decide@|@garqaybi, tali@
+@decision@|@guddoon, qaraar, talo@
+@decision makers@|@ishaafalato@
+@decorate@|@dahaar, dahaar, naqshadee, qurxi, sharrax, siinee@
+@decoration@|@dahaar, naqash, naqshad, qurxin, sharrax@
+@decrease@|@dhinmow, isdhin, naaqis@
+@deed@|@fal@
+@deep breath@|@neefneefsi@
+@deep hole@|@booraan@
+@deep sleep@|@saq@
+@defeat@|@guuldarrayso@
+@defecate@|@xaar@
+@defect@|@iin, iin, nuqsaan@
+@defend@|@raw@
+@defend onself@|@gaashaandhig@
+@defense@|@daafac, difaac, gaashaandhig@
+@defiance@|@cisyaan@
+@deficiency@|@calaal, maahsanaan@
+@delay@|@caddil, daahi, daahir, raagid, raagsiinyo, raaji@
+@delay (1)@|@daahid@
+@delegation@|@wafdi@
+@delegations@|@wufuud@
+@deliberation@|@bareer@
+@democracy@|@dimoqraadi, dimoqraadinimo@
+@demonstration@|@banbax, dibadbax@
+@demote@|@shar@
+@denial@|@duudsi, inkir@
+@denominator@|@hooseeye@
+@dent@|@buusbuus@
+@dents@|@buusbuus@
+@deny@|@duudsi@
+@departure@|@ambabbax, anbabbax, bixitin, dhoofid, dhoofniin@
+@dependency@|@dabajoognimo@
+@dependents@|@hoomo, maato@
+@deposit@|@carbuun, deebaaji@
+@depreciation@|@isgurid@
+@depressed@|@khushuuc@
+@depression@|@qulub, qulub, urugo@
+@depth@|@mulli@
+@dervishes@|@daraawiish@
+@descend@|@deg, dego@
+@descendant of Mohamed@|@shariif@
+@descent@|@sinji@
+@describe@|@fasir@
+@desert@|@bataax, hannas, kax@
+@deserter@|@khaayin@
+@deserve@|@istaahil, mudo, mutayso@
+@design@|@falsami, falsami, hindis, jangooy, jangooy@
+@desire@|@haweysi, haweyso, hawood, lahan, lahasho, rab, rab@
+@desire (1)@|@damac, mohasho, muho, niyood, rabitin, rabniin@
+@desire (2)@|@doonasho, jamasho, lubbi, muhasho, ubbaahasho@
+@despair@|@quuso@
+@despise@|@ihaanee, karah@
+@destination@|@masaafo@
+@destiny@|@kadbasho@
+@destitute person@|@dibjir@
+@destroy@|@caro@
+@destroying@|@kharribid@
+@destruction@|@halaag, hallig, laystaan@
+@detailed explanation@|@tifaftirid@
+@details@|@tafaasiil@
+@detain@|@daahi@
+@deter@|@waab@
+@determination@|@harjad@
+@determined effort@|@mintid@
+@develop@|@kor@
+@development@|@feeraarin, horumar, horumarin@
+@devil@|@shayddaan@
+@dhaayo@|@knowledge@
+@dhiirri@|@motivate@
+@diagnosis@|@cudursheeg@
+@diagonal@|@babac@
+@dialect@|@afguri, lahjad@
+@diarrhea@|@ban@
+@dictate@|@yeeri@
+@dictionary@|@qaamuus@
+@Did you lose consciousness?@|@Miyaad miyir beeshay?@
+@die@|@dhimo, mod, mot, qudhbax, qurbax@
+@diesel oil@|@naafta, nafto@
+@difference@|@farqi, sarwacnaan@
+@difficulty@|@belaayo, ciriir, eedaad, kadeed, qahar, tabaalo@
+@difficulty (1)@|@harreef@
+@dig@|@khasif, qod, qodo@
+@digging@|@khasif@
+@dim sight@|@indhahabeeno@
+@dime@|@kumi@
+@diminishing@|@isdhimid@
+@dimness@|@hagabsi@
+@diplomat@|@diblomaasi@
+@direct@|@jihee@
+@direction@|@dhan, gees, jaho, tusmo, xag@
+@directions@|@talo@
+@dirt@|@carro, ciid, dhusuq, khashin, najaaso, uskag@
+@disagree with each other@|@iskhilaaf@
+@disagreement@|@khilaaf@
+@disagreements@|@mukhaalafo@
+@disappear@|@libidh@
+@disappointment@|@qoonsimaad@
+@disapprove of@|@dhaliil@
+@disaster@|@aafo, ibtilo, tacaddi@
+@discharge@|@gudo@
+@disconnect something@|@kharaabi@
+@discount@|@kadhimid@
+@discourage@|@dacdarree@
+@discouragement@|@hadaadun, quus@
+@discouraging@|@boholaddumin@
+@discovery@|@helitaan@
+@discuss@|@haasaw@
+@discussion@|@dood@
+@disease@|@jirro, shuush, taws@
+@disease of camels@|@dhug@
+@disease of stock@|@tu@
+@disembowel@|@doox@
+@disengage@|@furayya@
+@disgrace@|@jiciir, jiciiree@
+@disguise@|@doori@
+@disgust@|@qashafee, qashafo@
+@dish@|@saxan, sixni@
+@dishonesty@|@daallinimo@
+@dishonor@|@jiciiree, xil, xishood@
+@disinfection@|@shiilayn@
+@dislike@|@karaahiyo, karah@
+@disobedience@|@caasinimo@
+@disorder@|@habdarro, habdarro, nidaamdarro, qaabdarro, qaabxumo@
+@display@|@bandhaw, bandhig, muuji@
+@disposition@|@gaal@
+@dispute@|@ilaaq, jaarri@
+@dissolving@|@shubmid@
+@distance of a journey@|@marxalad@
+@distinction@|@baxsanaan@
+@distinguished person@|@baxsi@
+@distress@|@wahan@
+@distribution@|@qaybin@
+@distributor@|@faafiye@
+@district@|@xaafad@
+@disturb@|@caddib, caddib, ciil, dhabqi, khashkhash, qalalaas@
+@disturbance@|@caddib, caddib, khashkhash, khashkhash, qalalaas@
+@ditch@|@bohol, hataq@
+@dive@|@quus@
+@divergence of opinion@|@ikhtilaaf@
+@divert@|@leexi@
+@divide@|@badh, kalabbayr, kalabbayr@
+@divide into groups@|@hormee@
+@divide into shares@|@qaybi@
+@divide up@|@jaad@
+@dividing@|@qaybsad, qaybsasho@
+@divine favor@|@falli@
+@division@|@isuqaybin, qayb@
+@divorce@|@furriin, isfur@
+@dizziness@|@daandaan, wareer@
+@do@|@fal, muquunso, sallax, samee, tacab, yeel@
+@do for oneself@|@samayso@
+@do good@|@shafeec@
+@do harm to@|@xumee@
+@do in kindness@|@samafal@
+@Do it at home!@|@Guriga ku samee!@
+@Do it with him!@|@Isaga la samee!@
+@Do not be afraid@|@Ha baqin@
+@Do not eat or drink anything@|@Waxna ha cunin waxna ha cabin@
+@do something carefully@|@farayarayso@
+@do something deliberately@|@ulakac@
+@do something to@|@do wrong, intimidate@
+@do spoil@|@xumee@
+@do wrong@|@gardarrayso@
+@Do you cough anything up?@|@Miyay qufaca wax soo raacaan?@
+@Do you have a cough?@|@Miyaad qufacdaa?@
+@Do you have any valuables?@|@Wax qiimo leh ma sidataa?@
+@Do you smoke?@|@Miyaad sigaarka cabtaa?@
+@Do you speak English?@|@Ma taqaan Ingiriisiga?@
+@Do your ankles swell?@|@Boqnuhu miyay ku bararaan?@
+@dock@|@deked@
+@doctor@|@dabiib, dhaktar, dotoor, takhtar@
+@doctors@|@takhaatiir@
+@doer of good@|@samafal, samantar@
+@does it come and go?@|@Mise marmar ayuu ku qabtaa?@
+@dog@|@eey, ey@
+@dogmatic@|@jaaxid@
+@doing@|@samays, suubbis@
+@dollar@|@doollar@
+@dolphing@|@khoobar@
+@domestic animal@|@neef@
+@donkey@|@dameer@
+@don't know@|@Ma Aqaanno@
+@Don't touch me there!@|@Ha i taaban!@
+@door@|@albaab, albaab, irrid@
+@doorway@|@afaaf, kaad@
+@dot@|@dhibiq@
+@doubt@|@shaki@
+@dough@|@cajiin@
+@dove@|@qoolleey@
+@dowry@|@dhibaad@
+@dozen@|@darsan@
+@drag@|@jiid@
+@drama@|@ruwaad@
+@drape around oneself@|@hullaabo@
+@draw@|@xarriiq@
+@draw near@|@dhoweey@
+@draw water@|@aroor, tix@
+@drawer@|@khaanad@
+@dream@|@alalad, dhadhab, hawaawi, hawaawi, riyo, riyood@
+@dress@|@hu@
+@dress onself@|@labbiso@
+@dress onself up@|@lebbiso@
+@dress someone else@|@lebbis@
+@dried-out land@|@xaaluf@
+@dried-out-land@|@xaaluf@
+@drill@|@boor, loolib@
+@drills@|@icraab@
+@drink@|@cab, cabb@
+@drink (milk)@|@dhan@
+@drink broth@|@fuud@
+@drip@|@dhibic, hibitiq@
+@dripping@|@dharer@
+@drive away@|@dayri, dir, miidaami@
+@drive for oneself@|@wado@
+@driver@|@kaxeeye, kexeeye, shufeer, wade@
+@drool@|@cay@
+@drop@|@dhibic, tifiq@
+@drops@|@hoor@
+@drought@|@abaar@
+@drown@|@hafo@
+@drown someone@|@hafi@
+@drowning@|@hafad@
+@drowsiness@|@lulmo@
+@drum@|@durbaan, gurbaan@
+@drunkard@|@khamriyacab@
+@drunken person@|@sakhraan@
+@dry@|@dowr, engeg, engeji, kawrixi, qallal@
+@dry oneself@|@addadi@
+@dry up@|@bas, qalal, qallaji@
+@drying@|@qallajin@
+@dryness@|@qallallaan, qallayl@
+@dryness of the throat@|@jidiinqallal, kawrax@
+@duck@|@bolobolo, booloboolo@
+@dune@|@burco@
+@duplicating machine@|@badiye@
+@dusk@|@fiidnimo@
+@dust@|@boodh, boor, bootaan, fidh, habaas, mirif, siiso@
+@dust storm@|@leexo@
+@dwarf@|@guuyo@
+@dye@|@asal, guduudi, sabbakh, sabbikh@
+@eagle@|@gorgor@
+@ear@|@dheg@
+@earlobe@|@dacal@
+@early evening@|@cishe@
+@early morning@|@hiir@
+@earrings@|@dhego@
+@earth@|@burco, koon@
+@ease@|@sahal@
+@easing@|@fududeyn@
+@east@|@bari@
+@easy work@|@laarri@
+@easy-going person@|@nastahnaan@
+@eat@|@cun, jidiimo, quudo@
+@eat breakfast@|@quraaco@
+@eating@|@quudasho@
+@eavesdrop on someone@|@kuurgal@
+@eavesdropping@|@kuurgal@
+@economize@|@tashiil@
+@economy@|@dhaqaale, dhaqaalo, iqtisaad, kaydsi@
+@ecstacy@|@jidbo@
+@edge@|@cirif, dacal, geftin, hareer, looli, looli, qurqur, serji@
+@edge (1)@|@caarad, cidhif, cidhif@
+@editorial@|@dhambaal@
+@educate@|@jaahilbixi, rabbee@
+@education@|@galtibbax, rabbeyn, tacliin, tacliin, waxbarasho@
+@effect@|@saamays@
+@effort@|@istiil, tabcid@
+@egg@|@beed, ugax, ukhan, ukun@
+@Egyptians@|@masaari@
+@eight@|@siddeed@
+@eighteen@|@siddeed iyo toban@
+@eighth@|@siddeedaad@
+@eightieth@|@siddeetanaad@
+@eighty@|@siddeetan@
+@elbow@|@ogaden ciqil, xusul@
+@elder brother@|@abboowe, boowe@
+@elders@|@cuquul, cuquule, gargeyr, maqaawiir@
+@eldest son@|@ugaas@
+@elect@|@gaado@
+@election@|@dorrad, intikhaab@
+@electric light@|@nal@
+@electricity@|@jac, koronto@
+@elegance@|@mardaaddi, shoob, xarrago@
+@element@|@curiye@
+@elephant@|@maroodi@
+@elevator@|@koruqaade@
+@eleven@|@koob iyo toban, koobiyotoban@
+@elimination competition@|@isreebid@
+@eloquence@|@aftahmo, ciraab@
+@eloquent person@|@aftahan@
+@embarrass@|@fagaaree, jiciiree@
+@embarrassment@|@ilfashaq, islayaab, jaciir@
+@embassy@|@safaarad@
+@embezzlement@|@xatooyo@
+@emblem@|@calaamo@
+@embroider@|@daabac@
+@emergence@|@caadbax@
+@emergency assistance@|@birmad@
+@emergency force@|@gurmad@
+@emigrate@|@haajir, haayir@
+@emptiness@|@eber, hungo, marasho, marnaan, marnaasho@
+@empty@|@daleel, hunqee, madhi@
+@empty country@|@hannas@
+@empty field@|@barxad@
+@encircle@|@jitee@
+@encite@|@guubaabi@
+@enclose@|@jitee@
+@enclose with a brushwood fence@|@ood@
+@enclosure for stock@|@albaab, xero@
+@encounter@|@muqaabalo@
+@encourage@|@caraadi, dhiirigeli, dhiirri, guubaabi, guubaabi@
+@encouragement@|@dhiirrin@
+@encyclopedia@|@qaamuus@
+@end@|@aakhir, dabaadi, dabayaaqo, khatin, laaso@
+@ending@|@dhambeys@
+@endure@|@abaad@
+@enemy@|@cadaawe, cadaw, cadow, col@
+@energy@|@nashaaddo, shidaal@
+@englightenment@|@dhaayo@
+@English language@|@ingiriis@
+@Englishman@|@ingiriis@
+@enjoy@|@led@
+@enjoyment@|@bogaad, raaxaysasho@
+@enlarge@|@nud, weynee@
+@enlighten@|@jaahilbixi@
+@enough@|@bes@
+@enquire@|@haybi@
+@enquiry@|@hayb@
+@enrollment@|@qorid@
+@enslaving@|@gumeysasho@
+@ensue@|@dhexmar@
+@enter@|@gal, gel@
+@entertain@|@cayaari, maaweeli, madaddaali, sooryee@
+@entertain a child@|@dheeldheeli@
+@entertainment@|@maaweelo@
+@enthusiasm@|@hawood, nashaaddo@
+@entrails@|@lid@
+@entrance@|@albaab, albaab, illinka, irrid@
+@entreat@|@bari@
+@entrust@|@dhiibo@
+@entry@|@gelid@
+@envelope@|@bukhshad, buqshad@
+@envy@|@kuuni@
+@epoch@|@sabaan, waa, xilli@
+@equal@|@eyni, iskummid, iskummid, qayr@
+@equality@|@gudboonaan@
+@equalization@|@filaysasho, filaysi@
+@equate@|@isbarbardhig@
+@equator@|@dhulbar@
+@equip@|@qalabee@
+@equipment@|@gash, gesh, qalab, yeel, yeel@
+@equity@|@xaq@
+@era@|@casri, sabaan, seben, waa@
+@eradicate@|@ciribtir@
+@eradication@|@ciribtir@
+@erase@|@masax@
+@erasing@|@tirtirid@
+@err@|@gaf@
+@error@|@meelkadhac@
+@escape@|@baxsasho, baxso, carar, qax@
+@escape narrowly@|@dago@
+@essence@|@nas@
+@establish@|@aasaas@
+@esteem@|@ciseyn, xushmad@
+@estimate the value of@|@qaddar@
+@ethics@|@anshax@
+@Ethiopian@|@xabashi@
+@Europe@|@yurub@
+@European@|@yurub@
+@European person@|@faranji, ferenji@
+@evacuate@|@daadguree, qaxi@
+@evacuation@|@qax@
+@evaluate@|@qiimee@
+@evaporation@|@oomaarbaxsi@
+@evening@|@caweysin, fiid, gabbalgaab@
+@evening meal@|@fiidimo@
+@evenness@|@cuddoonaan@
+@every@|@kasta@
+@everything@|@wax kasta@
+@Everything will be all right@|@Wax waliba way hagaagi doonaan@
+@evil@|@baaddil, baadil, shar, xumaan, xumaan, xumaato, xumi, xumi@
+@evil person@|@khasiis@
+@exactness@|@hubaal@
+@examination@|@imtixaan, qaadaadhig@
+@examine@|@baar, fiirfiiri, imtixaan, qaadaadhig@
+@example@|@balki, bilmatal, masal, misaal, tusaale@
+@excellence@|@baxsanaan, wacnaan@
+@except@|@maahane@
+@excess@|@talaxtag@
+@exchange@|@beddel, beddelo, dhaafsasho, dhaafso, geddiso@
+@exchange (1)@|@dhaafsad, dhaafsi, doorsi, rogrogo, talantaalli, talantaalli@
+@excitement@|@soos@
+@excrements@|@haar, xaar@
+@excuse@|@afeef, baraar, cudurdaar, marmarsiinyo@
+@excuses@|@baarrimasho@
+@executive@|@guddoomiye@
+@exercise@|@laylis@
+@exercises (grammar)@|@icraab@
+@exhibition@|@bandhig, macrad@
+@exhilaration@|@arwaax@
+@exist@|@bax, gir@
+@existence@|@jiraal, jiritaan, jirniin@
+@exit@|@irrid@
+@expand@|@baah, bulaal@
+@expansion@|@baah@
+@expect@|@dhowr, filo, jarree, meehaalo, quudarree, shinso@
+@expect (1)@|@awaal, awaal, bidaal, bidaal, bidaal, doorbid@
+@expectance@|@dhawrid@
+@expectation@|@filasho, jarraysimo, meehaalad, sugaal, yididdiilo, yididdiilo@
+@expectation (1)@|@filad, hididdiilo, miihallad, quuddarro, shinsasho@
+@expectation (2)@|@awaal@
+@expel from the body@|@jiiro@
+@expenditure@|@kharash@
+@expense@|@kharaj, qaaraamo@
+@expensiveness@|@qaali, qaaliga@
+@experience@|@khibrad, khibro, toodoobid, waaya-arag@
+@experienced person@|@mujarrab@
+@experiment@|@sharrib, tijaab, tijaabi@
+@expert@|@caarif, farsamayaqaan, khaasiyo, khabiir, ogeys@
+@explain@|@macnee, micneey, sharax, tafsiir@
+@explain in detail@|@tifaftir@
+@explaining@|@fasirid@
+@explanation@|@faahfaahin, falanqo, fasir, tafaasiir, tifaftir, tifaftir@
+@explanation (1)@|@afeefasho@
+@explode@|@qarxi@
+@exploding@|@qarxin@
+@exploitation@|@iskudulnoolaan@
+@explosion@|@qarax, qarxad, qarxasho@
+@exporter@|@dhoofiye@
+@exporting@|@dhoofin@
+@expose@|@ceebee@
+@exposure@|@ceebeeyn@
+@extinguish@|@bakhtii@
+@extra@|@saayid, talaxtag@
+@extravagance@|@baatul@
+@eye@|@il, indo@
+@eye disease@|@cagaarshow@
+@eyeball@|@gurux@
+@eyebrow@|@diil@
+@eyebrows@|@sunnayaal@
+@eyes@|@indho@
+@fabric@|@kharqad, maro@
+@face@|@fool, jaah, jaah, jabhad, jeeso, weji@
+@face towards@|@jeediyey@
+@facist@|@fashiiste@
+@factory@|@warshad, wershed@
+@fail@|@ilduuf, waay@
+@fail to do@|@gab@
+@fail to get@|@hanqaaran@
+@fail to get what one expects@|@qad@
+@fail to give someone expects@|@qadi@
+@failure@|@hadaf, ilduuf, nasiibdarro@
+@failure to find something@|@hanqaaran@
+@failure to fulfill a promise@|@ballandarro@
+@faith@|@ictiqaad, millad, qaneecaad, qaneecaad@
+@faithlessness@|@iimaandarro@
+@fall@|@dhac, kuf, nitaaqo@
+@fall over@|@barriqo@
+@falling face-down@|@dug@
+@falling star@|@jibin@
+@fame@|@caan, caannimo, magacadheerid, sumcad@
+@familiar environment@|@baro@
+@family@|@dhalyo, qoys, raas, xaas@
+@family household@|@reer@
+@family quarrel@|@colguri@
+@fan@|@marwaxo@
+@fare@|@nooli@
+@farewell@|@wadaac@
+@farm@|@Beer, beero@
+@farmers@|@beeraley@
+@fascination@|@xiiso@
+@fasting@|@hamuumanaan@
+@fat@|@cadiin@
+@fat of the meat@|@darab@
+@fat she-camel@|@gool@
+@fat tailed sheep@|@lax@
+@fate@|@qadan@
+@father@|@aaba, aabba, aabbe, aba, abbo, adoo, aw@
+@father's heir@|@ugaas@
+@fatigue@|@curuq, daal, dhacsaal, diif, noog@
+@fatness@|@cayil, karaar@
+@fatten@|@cayili, naaxi@
+@fatty piece of meat@|@lud@
+@favor@|@fadli, ixsaan, macruuf, shafeeco, xurmo@
+@favoritism@|@eexaysi@
+@favour@|@gallad@
+@fear@|@baqasho, baqdin, baqo, cabsasho, cabsi, cabso@
+@fear (1)@|@kurbood@
+@feast@|@balashi, karan@
+@feces of newborns@|@mal@
+@feed@|@nafaqee, quudi, soor@
+@feed a baby@|@hab@
+@feed and entertain@|@martiqaad@
+@feel@|@toodoob@
+@feel a sudden pain@|@kaar@
+@feel anxious@|@ciilcun@
+@feel awkward@|@qalood@
+@feel dizzy@|@daandaan@
+@feel drowsy@|@lulmood@
+@feel emotion@|@qiiroon@
+@feel fatigue@|@curuq@
+@feel for something one cannot@|@haabo@
+@feel full@|@dhereg@
+@feel lonely@|@cidlood@
+@feeling@|@dareen, dareensad, lubbi, lubbi, toodoobid@
+@feeling bad@|@qoonsimaad@
+@feelings@|@shucuur@
+@feet@|@manjo@
+@fellowship@|@jaalnimo@
+@felon@|@daallin@
+@female@|@dheddig@
+@female slave@|@biddad@
+@femaleness@|@dheddignimo@
+@fence@|@daarad, deyd, deyr, heeraar@
+@fenced yard@|@daash@
+@fermented juice@|@dhiinto@
+@fertile land@|@bacrin@
+@festival@|@damaashaad, mahaarjan, mahrajaan, mahrajaan@
+@festivity@|@dheelaas@
+@fetch for self@|@doono@
+@feudalism@|@dhulgoosi@
+@fever@|@qandho@
+@few@|@yar@
+@fewer@|@ka yar@
+@fewest@|@ugu yar@
+@fiancee@|@alkun@
+@fiasco@|@qanbarac@
+@fidget@|@kuurkuurso@
+@fidgeting@|@kuurkuursasho, riiqriiqsi@
+@field@|@ban, garoon, xag@
+@fifteen@|@shan iyo toban@
+@fifth@|@shanaad@
+@fifthieth@|@kontonaad@
+@fifty@|@konton@
+@fight@|@dagaalan, dagaallan, dirir, jilibdhig@
+@fight playfully@|@hurdan@
+@figure@|@dir, muug@
+@fill@|@kiis, shammir@
+@fill to the brim@|@jilee@
+@fill up@|@cabbee, kiis@
+@film@|@filim, filin@
+@filter@|@miir@
+@filth@|@dhusuq@
+@finance@|@maal@
+@find fault@|@ilaaq@
+@fine@|@cisaaro, cisaaro, ganaax, kallifaad, kallifaad, tacsiir@
+@finery@|@xarrago@
+@finger@|@far@
+@finger tip@|@ciddikujoog@
+@fingernail@|@ciddi@
+@fingers@|@faro/@
+@finish@|@bog, bogo, duji, idlaw, khatin, laaso, marnoow@
+@finishing@|@sammaad@
+@Finland@|@finland@
+@fire@|@dab, oog@
+@firewood@|@jabo, shidaal, xaabo@
+@firing@|@qarxin@
+@first@|@horaad, koowaad, kowaad@
+@first born@|@curad@
+@first glimmer of light@|@kaah@
+@first month of the Gu season@|@fushade@
+@first-born son@|@ugaas@
+@fish@|@jillaabo, kallumayso, kallumayso, kaluun, mallaay, sharookhm@
+@fish (1)@|@foolxun, guduudo, jillaab, qafish, silqo, sumaan@
+@fish (2)@|@kalluumo@
+@fisherman@|@baddhac, kalluunle@
+@fishermen@|@kalluumaysato@
+@fishhook@|@jillaab@
+@fishing@|@dhammaad, jillaab, jillaabasho@
+@five@|@shan@
+@fix@|@dhiddib@
+@flag@|@bandiirad, calan@
+@flame@|@belbel, halow, holac, holoc, olol@
+@flash@|@big, birbir, hillaac@
+@flashing@|@bilig, libqin@
+@flask@|@buraashad@
+@flat@|@canjeero@
+@flat rock@|@sallax@
+@flatter@|@sab@
+@flea@|@boodo@
+@flee@|@baqad@
+@flee from danger@|@baqo@
+@flesh-and-blood@|@insi@
+@flicker@|@birbir@
+@flier@|@duule@
+@flight@|@dulitaan, duulimaad, qax@
+@float@|@sabbee@
+@flock of sheep@|@ido@
+@flood@|@daad@
+@floor@|@dabaq@
+@flour@|@budo, bur, daqiiq, gashiisho@
+@flow of water@|@daad@
+@flow out of the ground@|@muus@
+@flower@|@fiid, ubax@
+@fly@|@diqsi, duqsi, haad, heehaab, lal@
+@foal@|@qayl@
+@fog@|@carceero, ciiryaamo@
+@fold@|@duub, laab@
+@fold in a dress@|@gol@
+@fold many times@|@laalaab@
+@follow@|@dabaggal, raac@
+@follow ignorantly@|@gurdanraac@
+@follower@|@raacsane@
+@following@|@dabaggal, taabac, xigeen@
+@food@|@cuno, cunto, dheef, nafac, nafci, oon, quud, soor@
+@food (1)@|@cunno, cuno, dhuuni, gasiin, gesiin, irsaaq, oomati@
+@food and hospitality for guest@|@martiqaad, martisoor@
+@food supplies for a journey@|@jidmar@
+@fool@|@axmaq, caaq, face, nacas, safiih@
+@foolery@|@jeesjees@
+@fooling@|@dheeldheel@
+@foolishness@|@nacasnimo@
+@foot@|@cag, cumaacun, lug, majin, ogaden ciqil, ogaden ciqil@
+@footprint@|@raad@
+@footprints@|@janqaad, raad@
+@for@|@u@
+@for (distance)@|@u@
+@for (duration)@|@u@
+@for the sake of@|@aawadeed, aawadiis@
+@forbid@|@maanic@
+@force@|@dirqi, hawaan, khasab, khasab, muquuri, qasab, sallid@
+@force (1)@|@tabar, xoog@
+@ford (a river)@|@dabbaan@
+@forearm@|@curcur, ogaden ciqil@
+@forefinger@|@murugsato@
+@forehead@|@biriir, food, gebi, jaah, jaah@
+@foreign land@|@qurbe, qurbo@
+@foreign lands@|@doolaalo@
+@foreigner@|@ajnebi, dool, galti, qariib@
+@foreigners@|@aqraab@
+@foreleg@|@jeeni@
+@foreskin@|@buryo, qolof@
+@foresse@|@maleewaal@
+@foresseing@|@maleewaalid@
+@forest@|@deegaan, gaaroodi, hawd, hawd, hinni, juq, juq, kayn, xir@
+@forest (1)@|@duud, hirrig@
+@foretelling@|@maleewaalid@
+@forget@|@haf, helman, hilmaan, illaaw, illoow, sahwi@
+@forgetfulness@|@illow@
+@forgetting@|@halmaan, illow@
+@forgive@|@masaamax, saamax@
+@fork@|@kalabbayr@
+@fork in a road@|@kalabbayr@
+@fork in the road@|@isgoyska@
+@form@|@foom, tatab@
+@fortieth@|@afartanaad@
+@fortune@|@qadan@
+@forty@|@afartan@
+@forward push@|@hanboorri@
+@found@|@gundhigo@
+@foundation@|@gundho, unnug@
+@four@|@afar@
+@fourteen@|@afar iyo toban@
+@fourth@|@afaraad, afraad@
+@fourth child@|@afarran@
+@fox@|@dawaco@
+@fracture@|@jabniin@
+@fragment@|@jajab@
+@fragmentation@|@jajabnaan@
+@fragments@|@burbur, jaabo@
+@frankincense@|@foox@
+@frankness@|@badheedh, daacad@
+@fraud@|@khayaano, khayaano, khiyaanad, khiyaanadlow, khiyaane@
+@fraudulent@|@khiyaanadlow@
+@free@|@bilaash, fur, xor@
+@freedom@|@ikhtiyaar, xornimo, xorriyad@
+@freedom seekers@|@gobannimadoon@
+@freeze@|@barafood, kag@
+@frequency@|@firikuwansi@
+@frequent@|@gaafo@
+@fresh air@|@naacaw@
+@fresh growth of grass@|@naq@
+@fresh meat@|@dubaax@
+@friction@|@ixkuxoqid@
+@Friday@|@jamce, jimce@
+@friend@|@rafiiq, saaxiib@
+@friendship@|@jaalnimo, jaalnimo, rafiiqnimo, rafiiqnimo, saaxiibnimo, waal@
+@fright@|@hinfiriir, jeefaaf, naxdin@
+@frighten@|@cabsigeli, cabsii, has, kurbee@
+@frightening@|@hasid@
+@frog@|@rah@
+@from@|@ka@
+@from (origin)@|@ka@
+@front@|@hor, horay, qaabbil@
+@frontier@|@xad@
+@fruit@|@midho, miro@
+@fruit of cactus@|@tin@
+@fruits@|@khudaar, khudrad, khudro@
+@frustration@|@qatooyo@
+@frwon@|@huruuf@
+@fry@|@shiil@
+@fuel@|@fuyuul, shidaal@
+@fulfill@|@caaji, fuli@
+@fulfillment@|@fulin@
+@full@|@muul@
+@full moon@|@caddo@
+@fullness@|@buux, dhereg, dheregsanaan, kafuufo, waafi@
+@full-stop@|@joogsad@
+@full-term baby@|@dhammays@
+@fun@|@jeesjees, manqax@
+@furniture@|@saabaan, saamaan@
+@future@|@aayatiin, aayo, mustaqbal@
+@gagging@|@laqanyo@
+@gain@|@macaash@
+@gamble@|@khamaar@
+@game@|@bardooddan, cayaar@
+@game animals@|@ugaadh, ugaar@
+@garage@|@garaash, geeresh@
+@garden@|@Beer, bustaan@
+@garlic@|@toon@
+@gas@|@gaas@
+@gasp@|@haftood, hinraaq@
+@gather@|@dhiib, ururi@
+@gather up@|@gurubso@
+@gatherine@|@mahaarjan@
+@gathering@|@mahrajaan@
+@gaze@|@arkid, jeedaali, jeeqaaq@
+@gazed-out@|@xaaluf@
+@gazelle@|@awlkii, eelo@
+@geenery@|@laac@
+@gelded camel@|@korodh@
+@general@|@jeneraal@
+@generation@|@waaye@
+@generosity@|@deeq, sikhinnimo@
+@generous person@|@sikhi@
+@geography@|@juqraafi@
+@geometry@|@jimeteri@
+@germ@|@jeermi@
+@gestation period@|@sid@
+@get@|@hel@
+@get accustomed to@|@caadeyso@
+@get better@|@caafimaad, ladnaw@
+@get excited@|@welwel@
+@get fat@|@cayil@
+@get hot@|@kululow@
+@get lost@|@dhun@
+@get married@|@guurso, meherso@
+@get on top of@|@fuul@
+@get sick@|@jirro@
+@get started@|@bilaabo@
+@get to the bottom of a matter@|@jibakeen@
+@get to the bottom of a problem@|@jibaggaar@
+@get up@|@kac@
+@get up early@|@hiireyso@
+@getting lost@|@anbasho@
+@getting married@|@guursad@
+@getting strength for something@|@tabaraysasho@
+@gibberish@|@deelqaaf@
+@gift@|@diiqo, hadaayad, hado, hayaayad, hibo, hoo, siin@
+@gift (1)@|@faxdi, hadiyad@
+@giraffe@|@geri@
+@girl@|@cadrad, gabadh, gabar, inan@
+@girlhood@|@gabarnimo@
+@girls@|@gabdho, hablo@
+@give@|@dhiib, hur, sellin, sii@
+@give a decision@|@guddoomi@
+@give a speech@|@baan@
+@give advice to@|@caqliceli@
+@give as a gift@|@hibee@
+@give back@|@dab@
+@give birth@|@dhal, ummul@
+@give chance@|@sarrif@
+@give existence@|@jirsii@
+@give extra@|@buraddee@
+@give leave@|@fasax@
+@give light@|@if, iftiin, nuur@
+@give medical treatment@|@daaweyn@
+@give medicine@|@daawee@
+@give news@|@warran@
+@give off a smell of cooking@|@sanuun@
+@give off smoke@|@qiiqaab@
+@give permission@|@idan@
+@give pleasure@|@raawis@
+@give thanks@|@mahdi@
+@give trouble@|@shiidaad@
+@give up@|@caalgas@
+@give victory@|@libee@
+@giver of good advice@|@naseex@
+@giving a gift of charity@|@hidin@
+@giving up@|@caloolduubasho@
+@glance@|@daymo, dey, dhugasho, dhugo, dhugo, ollog@
+@gland@|@qanjir@
+@glass@|@galaas, galaas, muraayad@
+@glasses@|@indhaggashi@
+@glitter@|@halalaac@
+@gloom@|@qulub@
+@glory@|@muuno@
+@glutton@|@qaaley@
+@gnaw@|@ruug@
+@go@|@tag, teg@
+@go after@|@dabasoco@
+@go after something to get it@|@higso@
+@go around@|@kalah@
+@go around the edge@|@afmeer@
+@go bad@|@faad@
+@go fishing@|@kallumayso@
+@go for a walk@|@mushaax@
+@go home@|@hooyo@
+@go home for the night@|@hoyo@
+@go in single file@|@isdabajoog@
+@go out@|@bax@
+@go somewhere@|@aad-@
+@go straight ahead@|@hagaag@
+@go to and for@|@laablaabo@
+@go to bed@|@seexo@
+@go to each other@|@isutag@
+@go to sleep@|@hurud@
+@go together@|@raac@
+@go towards@|@jaho@
+@goal@|@faad, toogo@
+@goat@|@ari, eri, ri'ari@
+@goats and sheep@|@ari@
+@God@|@alla, allah, alle, bend, eebbe, ilaah, waaq@
+@going@|@bixid, tegid, tegis@
+@going home@|@hooyasho@
+@gold@|@dahab@
+@good (thing)@|@dhurwaa@
+@good afternoon@|@Galab wanaagsan@
+@good day@|@Maalin wanaagsan@
+@good deed@|@shafeeco@
+@good evening@|@Habeen wanaagsan@
+@good fortune@|@cawo, khayr, sareedo@
+@good health@|@fayo, fayoobi@
+@good heartedness@|@caloolsami@
+@good housewife@|@gaari@
+@good luck@|@sanac@
+@good manners@|@anshax, edeb, ikhyaarnimo, shalaabad@
+@good morning@|@Subax wanaagsan@
+@good news@|@abshir@
+@good order@|@habsami@
+@good person@|@fariid@
+@good prediction@|@saad@
+@good thing@|@naruuro, salaax@
+@goodbye@|@Nabad gelyo, Nabadeey@
+@good-health@|@jarreero@
+@goodness@|@caaqibo, caaqibo, samaan, sami, samo, toolmoonaan, wanaag@
+@goodness (1)@|@khayr, wanaagsanaan@
+@goods@|@agab@
+@goose@|@shimbir badeed@
+@gossip@|@dhegbas@
+@government@|@dawlad, talis, xukuumad@
+@governmental@|@dawli@
+@governor@|@barasaab@
+@grace@|@xurmo@
+@graceful walk@|@laafyo@
+@graduation@|@qalinjebin@
+@graft@|@laaluush@
+@grain@|@badar@
+@grain-measure@|@kiil@
+@gram@|@garaamme@
+@grammar@|@naxwe@
+@grandfather@|@abkoow, awoowe, awow@
+@grandmother@|@abooto, ayeeyo, macooyo@
+@grapes@|@canab@
+@grasp@|@dab, taab@
+@grass@|@caws, dhabcan, geedo@
+@gratitude@|@gallad, gallad, shugri@
+@grave@|@bud, qabri@
+@gray@|@beey, bey@
+@gray hair@|@cirro@
+@graze@|@daaq@
+@grazed-out@|@xaaluf@
+@grazing@|@daaqa@
+@grazing area@|@daaqsin@
+@great beauty@|@quruxsami@
+@great effort@|@fantatiir, hagarbax@
+@greatness@|@weynaan@
+@greed@|@kamiin@
+@green@|@akhdar, cagaar@
+@green grass@|@cagaar@
+@greenery@|@laac@
+@greet@|@baaq, bariidi, nabdaadi, nabdayso, salaan@
+@greeting@|@baaq, bariido, nabdaad, nabdaadi, salaan@
+@grief@|@ciil, ciilcun, hinaayo@
+@grievance@|@walbahaar@
+@grill@|@halaammacoodi@
+@grind@|@budee@
+@groan@|@jibaad@
+@grocery store@|@daaska baadka@
+@groin@|@sarac@
+@groping@|@haabasho@
+@groping about@|@haabhaabasho, haabhaabo@
+@group@|@cuur, hormo, tarab, tarabtarab@
+@group of four@|@afarran@
+@group of people@|@firqo@
+@group of students@|@ardo@
+@group of wells@|@daw@
+@grow@|@kor@
+@grow fat@|@naax@
+@grow green@|@naqayso@
+@grow old@|@gaboob@
+@grow sideways@|@faalal@
+@growl@|@gunuus, gurxan@
+@gruge@|@hiijo@
+@grumble@|@gunuunuc, gunuus@
+@grumbling@|@gunuunuc@
+@grunt@|@guux@
+@guard@|@ilaal, ilaali, saan@
+@guess@|@awaal, bidaal@
+@guest@|@marti@
+@guests@|@marti, socoto, socoto@
+@guidance@|@hanuun@
+@guide@|@horkace@
+@guide a blind person@|@had@
+@guile@|@xeel, xeelad, xeelo@
+@guinea-fowl@|@digiiran@
+@guitar@|@kaman@
+@gulf@|@badyaro, khaliij@
+@gullet@|@jiddin@
+@gum@|@cirrid, xabag@
+@gush@|@butaaco@
+@gymnastics@|@jinaastiko@
+@haad@|@insecure place@
+@haajir@|@imigrate@
+@haayir@|@imigrate@
+@haggard appearance@|@jaynaf@
+@hail@|@baraf@
+@hair@|@gas, timo@
+@half@|@badh, bar, nus@
+@half of day@|@gelin@
+@half of night@|@gelin@
+@halt@|@hogo, hogo, hoji, hoji, sheel@
+@halter@|@jaar, jare, jiide@
+@halva (sweet made from sugar)@|@xalwad@
+@halve@|@bar@
+@hammer@|@burris, cuddad@
+@hand@|@gacan@
+@handbag@|@gunnad@
+@handle@|@siddo@
+@handle of shield@|@mayalka@
+@handshake@|@midigsaar@
+@handwoven bag@|@dambiil@
+@handwoven mat@|@derin, dermo@
+@hang@|@laalaco, laallaad@
+@hang down from@|@isasur@
+@hang up@|@laallaadi@
+@happiness@|@farax, farxad, mustareex, naallo, riyaaq@
+@harass@|@cadaadin@
+@harassment@|@cadaadis@
+@hardness@|@adayg, adkaan, qalleyf@
+@hardship@|@eedid, eel, ilxumo, leelleel, silic@
+@hard-working@|@hawlkar@
+@hard-workingness@|@hawlkarnimo@
+@harm@|@ajar, ajar, godob, waxyeel, waxyeellee, waxyeello, xumi, xumi, xumi@
+@harm (1)@|@hargaamo, khasaaro, xumaan@
+@hashish@|@hashish, xashiish@
+@haste@|@degdegid, degdegsiinyo, degdegsiinyo@
+@hasty action@|@karkabad@
+@hat@|@koofiyad@
+@hate@|@nac@
+@hatred@|@nac, nac, nacayb, nacdiir, nebcaan@
+@have@|@hay, hay, hayso, qab@
+@have a cold@|@hargab@
+@have a dry throat@|@jiniinqallal@
+@have a family@|@xaas@
+@have a khat-chewing session@|@qayil@
+@have a nightmare@|@sas@
+@have a rest@|@naso@
+@have a stiff neck@|@barkadhac@
+@have breakfast@|@hamuuntiro@
+@have confidence@|@kalsoon@
+@have evening meal@|@cashee@
+@have fun@|@istareex, tumo@
+@have in mind@|@maami@
+@have lunch@|@qadee@
+@have many offspring@|@farcan@
+@Have you any bleeding?@|@Miyuu dhiig kaa yimi?@
+@Have you any diarrhoea?@|@Miyuu shuban ku hayaa?@
+@Have you any pain?@|@Miyuu xanuun ku hayaa?@
+@Have you ever had an operation@|@Miyaa marna lagu qalay?@
+@Have you had an accident?@|@Ma shil baa kugu dhacay?@
+@Have you vomited blood?@|@Miyaad dhiig matagtay?@
+@Have you vomited?@|@Miyaad matagtay?@
+@having little capacity@|@cuqdad@
+@having patience@|@dulyeelasho@
+@hawk@|@dafo, huf@
+@haze@|@carceero@
+@he@|@isaga, uu@
+@he came@|@yimi, yimid@
+@he comes@|@yimaadaa@
+@he is coming@|@imaneyaa@
+@he is not@|@aha@
+@he is saying@|@oraneyaa@
+@he knew@|@yiqiin@
+@he knows@|@yahay, yahay, yaqaan@
+@he said@|@hadlay, yidhi, yiri@
+@he says@|@yiraahdaa@
+@he was@|@imanayey@
+@head@|@kur, madax, maqaddin, sarreeye@
+@head cold@|@hargab@
+@head of a household@|@abbaanwarre@
+@headband@|@cigaal@
+@headship@|@madaxnimo@
+@heal@|@bogso, caafimaadi, caafimaadi, kaban@
+@healing@|@bogsasho@
+@health@|@caafiyad, cafimaad, jarreero, ladnaansho, sixo@
+@health (1)@|@ladnaan@
+@hearing@|@maqalka@
+@heart@|@hiyi, hiyi, laab, qalbi, wab, wadna, wadne@
+@heart attack@|@wadnegariir@
+@hearth@|@danbaysaal@
+@heat@|@danbaysaal, danbaysaal, kul, kulayl, kulayli, kuleel, kululaan@
+@heat conductor@|@kulgudbiye@
+@heat of the day@|@harsimo@
+@heat up@|@kululow@
+@heaven@|@janno@
+@heavy@|@culus@
+@heavy bleeding@|@honog@
+@heel@|@cedhib, cirib, heelad@
+@heifer@|@dabuula@
+@height@|@dherer, joog@
+@heir@|@dhaxle@
+@hell@|@cadaab, jahannamo, naar@
+@hello@|@Haye, Iska warran, Ma nabad baa?, Mahaa la sheegay@
+@help@|@adeegso, daryeel, gargaar, macaawino, miciin@
+@help (1)@|@caawi, caawimo, kalkaal, mucaawino, saacid, waxtar@
+@help (2)@|@itataabee, itataabo, midiidin, midiidin, taakulee, taakulee, tagaabo@
+@help (3)@|@hinaaso, taageer, taageero@
+@help another to be patient@|@samri@
+@helping@|@caaqibee@
+@hen@|@digaagad, dooro, dooro, jiddu duuri, luki@
+@hepatitis@|@beer xanuun@
+@her@|@ay, iyada@
+@herd@|@wagan@
+@here@|@halkan@
+@herritage@|@hidde@
+@hers@|@iyadale@
+@herself@|@is@
+@hesitate@|@walaac@
+@hesitation@|@jigo, laballaabow, tallan@
+@hesitation from fear@|@habrasho@
+@hiccough@|@higgo@
+@hiccup@|@qiixdheer@
+@hidden thing@|@cillanaad@
+@hide@|@gabbo, kaay, maado, maldah, qari, qarso@
+@hide behind something@|@hullo@
+@hide oneself@|@dhuumo@
+@high blood pressure@|@dhiig kar@
+@high ground@|@jiir@
+@high mountain@|@qar@
+@high-caste person@|@aji@
+@high-status person@|@lafti@
+@hilarity@|@manqax@
+@hill@|@burshaan, curcur@
+@hillock@|@kood@
+@him@|@isaga, uu@
+@himself@|@is@
+@hinder@|@daahi@
+@hint@|@guudmar@
+@hip@|@bacudo, lug, sin@
+@hippopotamus@|@jeer@
+@hire@|@ijaaro, kiree, kireysasho@
+@his@|@isagale@
+@history@|@taariikh@
+@hit@|@dhab, dharbaax, dhaw, jugee, makal@
+@hitting@|@jaf@
+@hobble@|@dabar@
+@hold@|@qab@
+@hold a festival@|@damaashaad@
+@hold divergent opinions@|@ikhtilaaf@
+@hold in the ground@|@hataq@
+@hold on deposit@|@rukun@
+@holding a reception@|@martisoorid@
+@hole@|@bahol, bahu, dalool@
+@hole in the ground@|@god, hog, lun@
+@holy war@|@jahaad, jihaad@
+@home@|@hooy, rug, ruun@
+@homecoming@|@hooyad@
+@honest person@|@aammin@
+@honesty@|@miigganaan@
+@honey@|@malab, sur@
+@honor@|@heybad, muunad, muuno, xurmee, xurmo, xurmo, xushmad@
+@honor (1)@|@cees, cisee, ciso@
+@honorable woman@|@marwo@
+@hoof@|@qoob@
+@hope@|@doorbid, rajo@
+@hope for@|@rajeey@
+@horizontal@|@dadab@
+@horn@|@buun, gees@
+@horse@|@ashkir, bullaale, bullaale. faraw, bullaale. faraw, faras, fardo@
+@hospital@|@cisbitaal, cusbataal, isbitaal@
+@hostile person@|@nacab@
+@hot@|@hah, kulul@
+@hot desert@|@qafro@
+@hot season@|@hogo@
+@hotel@|@hoteel@
+@hot-tempered person@|@dabbaraale@
+@hour@|@saac, saacad@
+@house@|@aqal, beyd, darar, guri, miin, min, min@
+@household@|@maacuun, raas@
+@how@|@sida, sidee@
+@how are you?@|@Iska warran?, Sidee tahay?@
+@How often a trivial theme@|@Waxaan duluc sii ridnayn@
+@How old are you?@|@Imisa jir baad tahay?, Imisaad jirtaa?@
+@however@|@hase@
+@huddled@|@kuudud@
+@human@|@insi@
+@human being@|@aadame, aadane, dad@
+@humaneness@|@dadnimo@
+@humanity@|@aadami, insaaniyo@
+@humidity@|@qoyaan@
+@humiliation@|@liidniin@
+@humility@|@khushuuc@
+@hundred@|@boqol@
+@hundreds@|@boqollaal@
+@hundredth@|@boqolaad@
+@hunger@|@aq, baahi, gaajaysnaan, gaajo, hammuun, haqab@
+@hunger (1)@|@hamuumanaan, hamuun@
+@hunt@|@ugaad, ugaar@
+@hunter@|@yahan@
+@hurry@|@degdeg, degdegid, dhaqsad, dhaqso@
+@hurt@|@iimee, makal@
+@hurt caused by a fall@|@hantaaqo@
+@hurt oneself@|@isyeel@
+@hurting oneself@|@isyeel@
+@husband@|@abbaanwarre, abbaanwarre, say@
+@husbandry@|@xannaanad, xannaano@
+@husk@|@qolof@
+@hut@|@beni, beni, bul, buul, min, min@
+@hyaena@|@warab@
+@hybrid@|@muqshabeel@
+@hydrogen@|@haydarojiin, hidrojin@
+@hyena@|@waraabe@
+@I@|@aan, aniga, i@
+@I am@|@ahay@
+@I am called@|@Magacaygu waa ___@
+@I am coming@|@imaneyaa@
+@I am from New York@|@Wahaan ka imid New York@
+@I am not@|@ihi@
+@I am saying@|@oraneyaa@
+@I and@|@anoo@
+@I came@|@idhi, imid@
+@I come@|@imaaddaa@
+@I don't understand@|@Maan fahmin@
+@I embraced falsehood@|@Intaan isku duubay been@
+@I feel bad@|@Waan yara bukaa@
+@I knew@|@iqiin@
+@I know@|@aqaan@
+@I love you@|@waan ku jecelahay@
+@I 'm__-years old@|@Waaxaan ahay ... jir@
+@I must operate on you@|@Waa inaan ku qalaa@
+@I often read a simple matter@|@Maxaan arrin dawlis dhow@
+@I said@|@iri@
+@I say@|@iraahdaa@
+@I strengthened@|@adeygey@
+@I was@|@ahaa@
+@I was located at@|@iil@
+@I won't hurt you@|@Waxba kuu dhimi mayo@
+@ice@|@baraf@
+@idle chatter@|@guryan@
+@if@|@haddii@
+@if (condition)@|@haddii@
+@ignition@|@daarid@
+@ignorance@|@jaahilnimo, jahli, moogaan@
+@ignorant person@|@jaahil@
+@ignore@|@tasee@
+@ignoring@|@tasayn@
+@illiterate@|@caamo@
+@illness@|@jirro, shuush@
+@illusion@|@khayaali@
+@illustration@|@taswiir@
+@I'm fine@|@Fiicaan, Waan ladnahay@
+@image@|@taswiir@
+@imitate@|@canjil, dhaaji, jil, kuddayo@
+@imitation@|@dhaajin, dheegasho, jil, jil, kuddayasho, taqliid@
+@imitator@|@jile@
+@immigrants@|@koyto@
+@immigrate@|@haayir@
+@impartial person@|@caaddil, duur@
+@impassable place@|@jiqjiq@
+@impatience@|@bayr, dulxumo, farammaggaad, farammaggaadho, kadaalli, koranwaa@
+@imperialism@|@imberiyaali@
+@impersonation@|@taqliid@
+@importance@|@muhimnimo, qaaya@
+@imposition@|@kallif@
+@improve@|@horumari, islaax, ray, roonee, roonee@
+@improvement@|@dibuhabeyn, kaskaasbax, kororsad, roonaan@
+@improving@|@suubbis@
+@impure@|@nejis@
+@impurity@|@najaaso@
+@in@|@ku@
+@in (through)@|@ku@
+@In a dim ailse@|@Ku daawaday meel qarsoon@
+@in front of@|@hortiisa@
+@in the morning@|@subaxnimo@
+@inarticulate person@|@afgarooc@
+@incapability@|@cabbanaan@
+@incapacitate@|@naafee@
+@incendiary speeches@|@guubaabo@
+@incention@|@unug@
+@incompleteness@|@qabyo@
+@increase@|@badi, bado, biir, kordhi, korodh, koror, koror, kororso@
+@increase (1)@|@kor, koror, korudhig@
+@increasing@|@kordhin@
+@increment@|@koror@
+@incubation@|@cuq@
+@indecision@|@walaac@
+@indentations@|@buusbuus@
+@independence@|@istiqlaal, madaxbannaani@
+@index finger@|@murdiso@
+@India@|@hindiya@
+@indication@|@daliil, ishaaro@
+@indigestion@|@laabjeex@
+@indiscretion@|@haldhac, haldhacsasho@
+@indispensable thing@|@lamahuraan@
+@induce someone to talk@|@hadli@
+@industry@|@sancad@
+@infant@|@cunug, dhalad, sebi@
+@infect@|@hurgumi@
+@infection@|@caabuq, hurgumo, hurgun@
+@inferior rank@|@gunnimo@
+@inflamation@|@ololid@
+@inflating@|@neefayn@
+@inflicting@|@gaarsii@
+@inform@|@ogeysii, wargeli@
+@information@|@dooc, macluumaad, wacaal, warfaafin, warran@
+@information (1)@|@khabaar@
+@informing@|@ogaysiin@
+@ingratitude@|@jasaarnimo@
+@inherit@|@dhaxal@
+@inherit livestock@|@dhaxlo@
+@inheritance@|@dhaxal@
+@inject@|@irbadee@
+@injection@|@mudnaan@
+@injure@|@wiiq@
+@injury@|@dhaawac, dhimaal, godob, jug, lafajebis@
+@injustice@|@dawdarro, gardarro@
+@inlet@|@khoori@
+@inner feeling@|@kash@
+@inquire@|@wareyso@
+@inquiry@|@sheegsi@
+@insanity@|@waalli@
+@insatiable hunger@|@hamuungorgor@
+@insecting@|@gelin@
+@insects@|@cayayaan@
+@insecure place@|@haad@
+@insertion@|@gelis@
+@inside@|@gude, gudihiisa, gudo@
+@inspect@|@baaro, qaadaadhig@
+@inspection@|@qaadaadhig@
+@instability@|@kadaalli, qalalaas@
+@instruction@|@barid@
+@insubordination@|@amardiidnimo@
+@insult@|@afxumo, deedifee, dhabbaqo, dhabdarro, fadeexee@
+@insult (1)@|@aflaggaaddo, aflaggaaddo, cay, caytan, fuxshi, gur@
+@insurance@|@caymis@
+@insurrection@|@inqilaab@
+@integration@|@iskuddar@
+@intelligence@|@caqli, fahmad, fahmo, habi, kas, kasmo, khabaar, khabaar@
+@intelligent person@|@caqlilow@
+@intend@|@damacsanoow@
+@intensification@|@badasho@
+@intention@|@faad, haayid, niyeysasho, niyeysasho, qasad, qasad, qasad, ujeeddo, ujeeddo, ujeeddo, ulajeedo@
+@interest@|@dan, danee, himmad, korsocod, ribo@
+@interfere@|@farageli@
+@interference@|@faragelin@
+@interpret@|@afceli@
+@interpreter@|@afceliye, afhaye, afnaqe@
+@intervene@|@luggeli@
+@intervention@|@luggelis@
+@intestines@|@guudo@
+@intimidate@|@gardarrayso@
+@intimidation@|@cabsigelin, gardarraysasho, gardarro@
+@into@|@ku@
+@into (fraction)@|@ku@
+@intoxication@|@sakhramid@
+@introduction@|@arar, hordhac, istus@
+@introductions@|@gogoldhig@
+@invent@|@alkun, amaamud, hindis, mala-awaal@
+@invention@|@ahaysiin, alkun, amaamud, hindiso, sannif@
+@inventor@|@mala-awaal@
+@investigate thoroughly@|@niibkeen@
+@investigation@|@baadidoon, baarid, hubsado, hubsasho, mandaq@
+@investiment@|@maalgelin@
+@invitation@|@casuumad@
+@invite@|@casum@
+@inviting@|@casumid@
+@Iraq@|@ciraaq@
+@iron@|@bir, biro, xadiid@
+@irrigation@|@waraabin@
+@Is anyone there?@|@hooddi@
+@is it constant?@|@Ma isdaba-joog baa?, Xanuunku@
+@Islan@|@islaamka@
+@island@|@gasiirad, jasiirad@
+@islands@|@jasaair@
+@isolated settlement@|@jees@
+@Israeli@|@yuhuudi@
+@it is located at@|@yaal@
+@it is not@|@maaha, maahee@
+@it was at@|@yiil@
+@it was not@|@yiil@
+@itch@|@cuncun@
+@itching@|@cuncunid@
+@item@|@shey@
+@itself@|@is@
+@jackal@|@dawaca, dawaco, dayo@
+@jacket@|@garbaggale, gashi, jubbad@
+@jar@|@agaan@
+@jaw@|@fuq, qal@
+@jealous person@|@masayrrow@
+@jealousy@|@masayr@
+@jerk@|@gundhi@
+@Jew@|@yuhuudi@
+@jewel@|@jowhar@
+@jewelry@|@siyaakhad, suuqad@
+@jiggle@|@nuuxnuuxi, nuuxnuuxso, nuuxsasho, nuuxso@
+@jihad@|@jahaad, jihaad@
+@jihad (holy war)@|@jahaad@
+@jilid@|@wrapper@
+@job@|@guclee@
+@John went out@|@John ayaa baxay, John baa baxay, Waxaa baxay John@
+@join@|@daran@
+@joint@|@kalaggoys, laabato@
+@joint (of the body)@|@kalaggoys@
+@joke@|@dheeldheel, kaftan, kajan, maad@
+@joking@|@likaaco, majaajillo@
+@jouney@|@safar@
+@journalist@|@saxafi@
+@journey@|@safar@
+@journey to a distant place@|@jadeerwac@
+@Juba river@|@jubba@
+@judge@|@garnaqe, garsoor, garsoore, qaaddi, qaalli@
+@judgement@|@gayood@
+@judging@|@garqayb@
+@juice@|@juus@
+@jump@|@bood, handad, hanfaf, hanfaf, rabbaas@
+@jumping@|@booddo, bootin@
+@jungle@|@duur@
+@just@|@caaddil@
+@justice@|@caddaalad, garsoor, xaq@
+@justification@|@baarrimasho, cudaddaar, cudaddaarasho, qalladasho@
+@karaar@|@plumpness@
+@karan@|@feast@
+@keen-sightedness@|@indhafirqoonaan@
+@keep@|@hay@
+@keep accounts with pebbles@|@quruurux@
+@keep on folding@|@laablaab@
+@keep on passing@|@marmar@
+@keep on pulling@|@jiidjiid@
+@keep on shaking@|@ruxrux@
+@keeping@|@keydin@
+@keeping the peace@|@nabadsugid@
+@Kenya@|@kiinya@
+@kettle@|@ibriiq, kidhli@
+@key@|@fure@
+@kick@|@cagcagee, karaati, laad@
+@kidding@|@dheeldheel@
+@kidnap@|@afduub, qafaal@
+@kidnapping@|@qafaal@
+@kidney@|@kali, kelli@
+@kill@|@bakhtii, dil, kanbal, laa, laay@
+@killer@|@dilaan, qaati@
+@killing@|@baqtiin, dil, layn@
+@kind@|@caynad, eyni, jinsi, jinsi@
+@kind of acacia@|@sogsog@
+@kind of aloe@|@xig@
+@kindle@|@huri@
+@kindle several fires@|@daardaar@
+@kindling@|@jabo, lul@
+@kindness@|@naxariis, same@
+@kinds@|@anwaac@
+@king@|@boqor, malaakh, malig@
+@kingdom@|@boqortooyo@
+@kinky hair@|@jareer@
+@kinship@|@gacalnimo, jinsiyad@
+@kis@|@small amout@
+@kiss@|@shummee@
+@kitchen@|@jiko, madbakh@
+@knee@|@jilib, low, ruug@
+@knife@|@mindi@
+@knock@|@jugee@
+@knot@|@guntin, gunud@
+@know@|@beeq, garo, garo, qaan, qiin@
+@know how@|@garo@
+@know it!@|@oqoow@
+@knowledge@|@aqoon, aqoonsi, macrufad, ogaal, ogaan, tacliin@
+@knowledge (1)@|@dhaayo, macrifo, ogaansho, oqoon, tacliin, tacliin@
+@Koran@|@quraan@
+@kudu antelope@|@aderio@
+@label@|@taarga@
+@labor@|@hawl, muruqmaal, shaqeeysi, tabcid, tabcid@
+@labor in vain@|@tafantoof@
+@laboratory@|@shaybaar@
+@labour pains@|@fool@
+@lack@|@darro, naaqis@
+@lack of@|@darri@
+@lack of compassion@|@jimicdarro@
+@lack of energy@|@itaaldarro@
+@lack of success@|@guuldarrayso@
+@ladle@|@gure@
+@lady@|@afo, mimsaab@
+@lake@|@badyaro, haro@
+@lamb@|@baraar, hilib ido@
+@lament@|@calaacal@
+@lamentation@|@tawaawac@
+@lamp@|@misbaax, siraad@
+@land@|@arlo, bilaad, geyi, giyi@
+@land (as opposed to sea)@|@birri@
+@land conservation@|@dhuldhaqasho@
+@landing@|@degid@
+@language@|@af, luqad@
+@lap@|@dhab, liq@
+@large bowl@|@adar@
+@large enemy force@|@haayir@
+@large group of warriors@|@gaas@
+@large needle@|@maxaad@
+@large number@|@wadar@
+@large spear@|@teeri@
+@largeness@|@weynaan@
+@larvae of mosquitos@|@luluno@
+@last@|@abaad@
+@last child of a family@|@guruddanbays@
+@last night@|@xalay@
+@late afternoon@|@galabgaad@
+@late in the afternoon@|@casarliiq@
+@late morning@|@barqin, barqo@
+@lateness@|@daahid, dibudhac@
+@latrine@|@musqul@
+@laugh@|@qosol@
+@laughter@|@qosol@
+@lava@|@caad@
+@law@|@qaynuun, qeydo, xeer@
+@lawsuit@|@dacwad, gar@
+@lawyer@|@garyaqaan@
+@lay a foundation@|@tiirmud@
+@lay down@|@jiifi@
+@laziness@|@caajis, cajis@
+@lead a horse by a rope@|@taxaab@
+@lead in single file@|@horkac@
+@leader@|@beeldaaje, duubis, hoggaamiye, sayid, taliye@
+@leader (1)@|@horfiiq, horkac, hormuud, horyaal, jammaamuur@
+@leader (2)@|@abbaan, duubis, qaafo@
+@leaders@|@maqaawiir@
+@leadership@|@hoggaan, horyaalnimo, madaxtinnimo@
+@leading@|@hoggaamin@
+@leading an animal by a rope@|@sandulle@
+@leading warrior@|@halaqdile@
+@leaf@|@caleen@
+@league@|@jamciyad@
+@leak@|@daroor, dindin, habay@
+@leakage@|@daroor@
+@leaky vessel@|@habayo@
+@lean@|@liic@
+@lean meat@|@burunji, jiidh@
+@learn@|@abab, baro, deris@
+@learn by heart@|@qayb@
+@learning@|@barasho, cilmi, dhigasho@
+@leather@|@cukad, idiin@
+@leather strap@|@seeb, sheep-ako@
+@leather water-vessel@|@wadaan@
+@leave@|@anbabbax, dhaaf, reeb@
+@leave alone@|@daay@
+@leave for@|@aad-@
+@leave open to the air@|@haawo@
+@leave unguarded@|@halladaadi@
+@leaving@|@bixitin@
+@lecture@|@dersid, meeris@
+@lectures@|@duruus@
+@leech@|@colaacol@
+@left hand@|@gur@
+@left side@|@bidix@
+@left-handed person@|@gurey@
+@left-handedness@|@gurranaan@
+@leftover@|@baaqi, daalaca@
+@leftovers@|@hambo, hanbo@
+@leg@|@lug@
+@legal matter@|@xaajo@
+@legal rights@|@xuquuq@
+@legs@|@manjo@
+@lemon@|@liimo@
+@lemonade@|@liimonaato@
+@lend@|@amaahi, daymi@
+@length@|@dheeri@
+@lengthen@|@dheeree, nud@
+@leopard@|@shabeel@
+@less@|@ka yar@
+@lesson@|@cashar, daras, dersi, meeris@
+@let air out of@|@neefi@
+@let go@|@daa@
+@let out a secret@|@haldhacso@
+@letter (alphabet)@|@xaraf@
+@letter (mail)@|@dhambaal@
+@lettuce@|@saladh@
+@level ground@|@baarax@
+@liar@|@baaayir@
+@liberate@|@xoreey@
+@liberation@|@xorayn@
+@liberation front@|@gobannimadoon@
+@librarian@|@buugaghaye@
+@library@|@maktabad@
+@lick@|@leef@
+@lid@|@dabool@
+@lie@|@been, inkir@
+@lie down@|@jiifso@
+@lie with@|@was@
+@life@|@cumri, dhuun, naf, nolol, noolaad@
+@lift@|@dandaami, gundhi, koruqaade, riddaami@
+@light@|@daar, feynuus, if, iftiin, ilays, khafiif, nuur@
+@light work@|@hawlyari@
+@lightness@|@fududaan@
+@lightning@|@biriq, hillaac@
+@light-skinned@|@gibilcad@
+@like@|@calmo, jecloow, jeclow, sida@
+@like that@|@sah@
+@likeableness@|@jacsanaan@
+@likeness@|@ekaansho@
+@liking@|@xiiso@
+@limb@|@mujin, xubin@
+@lime@|@liimo, liin@
+@limestone@|@xaraar@
+@limit@|@cidhif@
+@limp@|@heeti@
+@line@|@daliig, dildil, mardin, xarig@
+@line up@|@saf@
+@linkage@|@iskuxiriir@
+@lion@|@ar, bahal, libaax, maroodi@
+@lip@|@bishin, bushin, dibin, faruur@
+@liquefied butter@|@ghee@
+@list@|@liis@
+@listen@|@dhegeyso@
+@listen to@|@maqal@
+@listen to each other@|@ismaqal@
+@listening@|@maqlid@
+@liter@|@litir@
+@literacy@|@farbarasho@
+@literature@|@suugaan@
+@little@|@yar@
+@little boy@|@kimiscun@
+@littleness@|@yaraan@
+@live animals as food-supply@|@wareego@
+@liver@|@Beer, tiro, traw@
+@liverstock@|@nool@
+@livestock@|@maal, nool, nool, xoolo@
+@livestock market@|@seylad@
+@living@|@dhaqaaqil, noolaan, noolaasho@
+@living being@|@nooli@
+@living creature@|@sankunneefle@
+@lizard@|@muluca@
+@load@|@rar, shixnad, shixnad, tuul, xamuul, xamuul@
+@loading@|@rarid@
+@loan@|@caariyo, ereg@
+@location@|@oollaan@
+@lock@|@qafil, qataar@
+@log@|@ruud@
+@long@|@dheer@
+@long for@|@majeero, xiisee@
+@long for in vain@|@hunguriyee@
+@long period@|@keni@
+@longing@|@hiddiwaale, jamasho, jamasho, jimiimic, majeerasho, xiiso@
+@look@|@arkid, arkid, eeg, ilaali@
+@look after@|@korso@
+@look at@|@day, dhugo, fiiri, hoomaay, jeeqaaq, ollog@
+@Look before you leap@|@Intaadan falin ka fiirso@
+@look down on@|@quudhso@
+@look for@|@baadiggoob, baadiggoob, dagaal, doon, look for@
+@look haggard@|@jaynaf@
+@looking@|@dayasho@
+@looking for help@|@ciidansi@
+@loose@|@khalkhal@
+@loosen@|@rux@
+@looseness@|@jimcoonaan@
+@loquacity@|@hadaltiro@
+@lose@|@beel, lumi@
+@lose its newness@|@carjab@
+@lose money@|@khasaari@
+@losing@|@beelid, hallayn@
+@loss@|@beel, khasaaro@
+@loss of consciousness@|@diid@
+@losses@|@khasaare@
+@lost person@|@habaw@
+@loud noise@|@dayaan, qablan@
+@louse@|@injir@
+@love@|@caashaq, calmo, calmo, jacayl, jeceyl, macaan, maxabbo@
+@love (1)@|@caashaq, jan, jecloow, jeclow@
+@lover@|@gacalo, gashaan@
+@low caste people@|@boon@
+@lower jaw@|@daan@
+@lower part@|@hoos@
+@loyalty@|@heellanaan@
+@luck@|@ayaan, buruud, doobir, hoodo, nasiib, qadan@
+@luck (1)@|@kadbasho@
+@lump@|@fud, kuus@
+@lunch@|@harimo, qado@
+@lung@|@sambab@
+@lungs@|@sambab@
+@machine@|@makiinad, mishiin@
+@machine gun@|@bamban, banban@
+@madman@|@majnuun@
+@magazine@|@magaasin@
+@magnet@|@birdanab@
+@magnetism@|@maqnaaddiis@
+@mahrajaan@|@gathering@
+@maid@|@adeegto@
+@maidservant@|@jaariyad@
+@maintenance@|@dayactir@
+@maize@|@galley@
+@majin@|@majin@
+@major@|@gaashaanle@
+@majority@|@badi, qaalib@
+@make@|@fal, saamee, samee, tacab, tacab@
+@make a circle@|@meegaar@
+@make a decision@|@arrimi, ishaafalo@
+@make a loud noise@|@dayaan, qablan@
+@make a mistake@|@khatalan, qalad@
+@make a noise@|@shanqar@
+@make a noise of footsteps@|@janqaad@
+@make a place stuffy@|@huuri@
+@make a plan or decision@|@haami@
+@make a poicy@|@ishaafalatee@
+@make a profit@|@macaash@
+@make a speech@|@khudbee@
+@make a will@|@dardaaran@
+@make an apology@|@afeefso@
+@make an error@|@gef@
+@make an excuse@|@marmarsiinyood@
+@make an uproar@|@salow@
+@make angry@|@caree@
+@make arrangements@|@ballami@
+@make better@|@roonee@
+@make blunt@|@guxuun@
+@make clever@|@fiicnee@
+@make dizzy@|@daandaami@
+@make dough@|@cajiin@
+@make drunk@|@sakhraami@
+@make easy@|@fududee, sahal@
+@make empty@|@hungee@
+@make even@|@iniif, itaal@
+@make great@|@weynee@
+@make happy@|@farxi, mustareexi@
+@make into brothers or sisters@|@walaalee@
+@make it in time@|@haleel@
+@Make it of wood!@|@Qori ka samee!@
+@make it real@|@dhabee@
+@make jealous@|@masayri@
+@make kind@|@boqor@
+@make last@|@gaadhsii@
+@make nice or good@|@wanaaji@
+@make noise@|@buuq@
+@make oneself close to@|@xigto@
+@make pass@|@mari@
+@make peace@|@nabadsii@
+@make possible@|@suuraggeli@
+@make preparations@|@qaanqaan@
+@make progress@|@horumar, horummar@
+@make reach@|@gaarsii@
+@make someone laugh@|@qosli@
+@make someone Muslim@|@Muslimiinta@
+@make something round@|@hunbul@
+@make sure of@|@hubi@
+@make thirsty@|@oomi@
+@make trouble@|@dhib, kadeed, make trouble@
+@make use of@|@intifaac, isticmaal@
+@make war@|@xarbi@
+@make well@|@ladnee@
+@make white@|@caddee@
+@making@|@samays@
+@making it in time@|@haleel@
+@mal@|@feces of newborns@
+@male@|@mun@
+@male camel@|@rati@
+@male cat (tomcat)@|@curre, curri@
+@male slave@|@bidde@
+@malnutrition@|@nafaqodarro@
+@man@|@nin, war@
+@man of religion@|@wadaad@
+@manage@|@agaasin, dhabiil, farsamee@
+@management@|@agaasin, maamul@
+@manager@|@agaasime, maamuliye@
+@mane@|@gama, guud@
+@manhood@|@ragannimo@
+@manjo@|@legs@
+@manner@|@dabac@
+@manners@|@asluub@
+@many@|@badan@
+@many cracks@|@jeexjeex@
+@many splits@|@jeexjeex@
+@map@|@khariidad, khariiddo@
+@marble@|@marmar@
+@march@|@dhacdhac@
+@mare@|@geenyo@
+@mark@|@baadisooc, tilmaan@
+@market@|@suuq@
+@market-trader@|@warato@
+@marriage@|@aroos, guur, guursasho, mehersasho, tag, tagsi@
+@married woman@|@arad, bilcan@
+@marry@|@aroos, guurso@
+@marrying@|@dhaxsad, dhaxsasho@
+@marvel@|@cajab, cajiib@
+@master@|@farsameeye@
+@mat@|@darin@
+@material@|@kharqad, maro@
+@maternal aunt@|@habaryar@
+@maternal uncle@|@abti@
+@matter@|@ammuur, amuur, arrin, wax@
+@matters@|@arrimaha@
+@mattress@|@joodari@
+@may@|@maajo@
+@me@|@aan, aniga, i@
+@meal eaten in sunset of Ramad@|@affur@
+@mean@|@jeed@
+@meaning@|@macne@
+@meaningless chatter@|@nacnac@
+@meaningless talk@|@booyaan@
+@measure@|@cabbir, dhereri, jimee, kiil, qayd@
+@measure out@|@miis@
+@measurement@|@cabbir, qiyaas@
+@meat@|@cooddi, hilib, soc@
+@medal@|@billad@
+@mediate@|@dhexdhexaadi@
+@mediation@|@dhexdhexaadin, dhexgalka, garqayb@
+@mediator@|@garnaqe@
+@medical treatment@|@daawadhigasho, daaweysad, daaweysasho@
+@medicine@|@daawo, daawooyin, dawo@
+@meet@|@kulan@
+@meeting@|@kulan, kulanti, lajnad, madar, qabbilaad, qabbilaad, urur@
+@meeting place@|@madal, majlis@
+@melody@|@hees@
+@melt@|@dhalaal@
+@melting@|@shubmid@
+@membership@|@xubininimo@
+@membership of a group@|@xubin@
+@memory@|@cululbad, cululubasho, xusuus@
+@men@|@dad, rag@
+@mend@|@kab@
+@mending@|@humasho, hun@
+@mental confusion@|@miryaad@
+@mention@|@xus@
+@merchandise@|@badeecad@
+@merchant@|@baayacmushtari, ganacsade, iibiye, iibiye@
+@mercifulness@|@raxmad@
+@mercy@|@jimic, jixinjix@
+@mess@|@qaabdarro@
+@message@|@daliigmo, farriin@
+@metal@|@bir@
+@metallic thread@|@tel@
+@meter@|@mitir@
+@method@|@hab@
+@midday@|@duhur@
+@middle@|@badhtan, bartame, dhex@
+@midget@|@guuyo@
+@midnight@|@saqbadh@
+@midwife@|@dhaliye, ummuliso@
+@migrate@|@guur@
+@migration@|@guurid, guuris@
+@migration to a distant place@|@hiilgurasho@
+@mile@|@mayl, miil@
+@military@|@ciidammo@
+@milk@|@caano, leben, maal@
+@milk jar@|@aagaan@
+@milking@|@maal@
+@million@|@malyuun, milyuun@
+@mince@|@cadee, jarjar, jarjar, kidif@
+@mind@|@dhimir, maan, niyad, niyo@
+@mine@|@anigale@
+@minerals@|@macdan@
+@minister@|@wasiir@
+@ministry@|@wasaarad@
+@minus@|@naaqus@
+@minute@|@daqiiqad, daqiiqo@
+@mirage@|@dhalanteed@
+@mirror@|@biladdaye, muraayad@
+@misbehavior@|@basarxumo@
+@miscarry@|@dhici@
+@misery@|@eel, ilxumo@
+@misfortune@|@hoog@
+@misinterpretation@|@taxriif, taxriifi@
+@misinterpreting@|@taxriifin@
+@mislead@|@habaabi, khawaysii, luggooy@
+@miss@|@ilduuf, seeg, xiisee, xiisee@
+@miss each other@|@isgaf@
+@mission@|@ergo@
+@mist@|@ciryaamo, oomaar@
+@mistake@|@gef, laxni, meelkadhac, meelkadhac@
+@misunderstand@|@maandhaaf@
+@misunderstanding@|@durqun, sarqaalibasho@
+@mix@|@lab@
+@mix milk with water@|@xarimay@
+@mix something for self@|@qaso@
+@mixing@|@labid@
+@mixture@|@dhafdhaf, iskuddar, iskuddar, iskudhaf, lufluf, qoosh@
+@mixture (1)@|@iskujir, murug, murugsanaan@
+@moan@|@talal@
+@moaning@|@guhaad, muusannaw@
+@mobilization@|@kiin@
+@modesty@|@khushuuc@
+@Mogadishu@|@mogadisho, mogadishu, Muqdisho, xamar@
+@moisture@|@qoyaan@
+@monday@|@isniin@
+@money@|@lacag@
+@monkey@|@daanyeer, daayeer, daayeer@
+@month@|@bil, shahar@
+@moon@|@bil, dayax@
+@moonlight@|@circaddaa@
+@more@|@ka badan@
+@morning@|@barii, foog, subax@
+@morning walk@|@kalah@
+@Morocco@|@marooko@
+@morsel@|@biid, biid, kidif@
+@mosque@|@masaajid@
+@mosquito@|@dhilmaanyo, kaneeco@
+@most@|@ugu badan@
+@mother@|@habar, hiindo, hooyo@
+@motherless boy@|@rajay@
+@motion@|@dhaqdhaqaaq@
+@motivate@|@dhiirri@
+@motor@|@fatuurad, matoor@
+@mountain@|@buur, taag@
+@mountain pass@|@karin@
+@mountain peak@|@qar@
+@mountain top@|@duud@
+@mourn@|@barooro@
+@mouse@|@walo@
+@mouth@|@af@
+@mouthful@|@luqmad@
+@move@|@dhaqaaji, dhaqaaq, rar@
+@move a little@|@nuuxi@
+@move apart@|@feeraari@
+@move at night@|@dheelan@
+@move forward@|@horummari@
+@move slightly@|@siki@
+@movement@|@dhabasho, dhaqaaq, dhaqdhaqaaq@
+@movement forward@|@hormarid@
+@Mozambique@|@moosambiik@
+@mud@|@dhiiqo, dhoobo, libiq@
+@mud hut@|@cariish@
+@muddy water@|@calas@
+@Mudug (region in Somali)@|@mudug@
+@mug@|@fujaan@
+@mule@|@baqal, genyo@
+@multiplication@|@badasho, badnaan, iskudhufasho@
+@multiply@|@bulaal, bulaal, taran@
+@murderer@|@qaati@
+@murmur@|@gunuunuc, gunuunuc, hugan, hunnuhunnu, nuunaas, nuunaas, nuxnuxlee@
+@murmur (1)@|@nuxnux@
+@muscle@|@muruq, xubin@
+@museum@|@matxaf@
+@music@|@muusiik, muusika@
+@musk deer@|@bayr@
+@Muslim@|@islaan@
+@Muslim call to prayer@|@addan@
+@Muslim law@|@sharci@
+@Muslim regular prayers@|@salaad@
+@Muslim statement of faith@|@shahaado@
+@mutter@|@gunuunuc, hugan, nuunaas, nuunaas@
+@muttering@|@hugun, nuunaas, nuunaas@
+@mutual love@|@isjeclaan@
+@mutual understanding@|@ismaqal@
+@muzzle@|@gafuur@
+@My eyes owe-inspired did shine@|@Indhuhu ku daraaandareen@
+@My name is Joseph@|@Yuusuf baa la i yiraahdaa@
+@myself@|@is@
+@mystery@|@qarsoodi, qarsoonaan@
+@na@|@khashiin@
+@nail@|@musbaar, musmaar, qodob@
+@naivety@|@khashiinnimo@
+@nakedness@|@qaawanaan@
+@name@|@isim, magac, magacaab@
+@name as representative@|@wakiilo@
+@nap@|@laamaddood, sardho@
+@nape@|@sagan@
+@narrow place@|@huluul@
+@nation@|@qaran, umad, ummad, ummad@
+@nationalization@|@tolayn@
+@nationalize@|@tolee@
+@nationhood@|@dawladnimo, qaranimo@
+@native land@|@waddan@
+@natural resource@|@nicmo, nimco@
+@nature@|@dabeec, dabeecad, qurjad, qurjad, siiro@
+@nausea@|@laballabo, lallabo, mantag, mantag, matag@
+@navel@|@xuddun@
+@near@|@ag, agtiisa, caw, gebi, kuur, xigeen@
+@nearness@|@ag, dhowaan@
+@necessity@|@lagamamaarmaan@
+@neck@|@luqun, qoor, sur@
+@necklace@|@bead, kuul@
+@need@|@baahi, ceednaan, jeel, ubbaahasho, ubbaahasho@
+@needing help@|@ciidanxumo@
+@needle@|@irbad@
+@needy person@|@muxtaaj@
+@negative@|@diiddoley@
+@neglect@|@gab, gab, haawasho, hawir@
+@neglect of responsibility@|@hagar@
+@neglected@|@layic@
+@negligence@|@dayac@
+@negociate@|@xaal@
+@neighborliness@|@jaarnimo, jiiraannimo@
+@neighbour@|@deris, jaar, jaaraan, jiiraan@
+@neighbourhood@|@agaag, xaafad@
+@neo-colonialism@|@gumeysi@
+@nest@|@buul@
+@neutral@|@dhexdhexaad@
+@new@|@cusub@
+@new grass@|@doog@
+@new moon@|@bilad@
+@new thing@|@cusayb@
+@newborn child@|@muluq@
+@newly-kindled fire@|@hulkan@
+@newness@|@cusboonan@
+@news@|@dooc, dooc, khabaar, khabaar, khabaar, qiso, war@
+@newspaper@|@jariidad, jeriida, wargeys@
+@next@|@xigeen@
+@next to@|@gebi@
+@nice to meet you@|@Barasho wacan@
+@niceness@|@wanaagsanaan@
+@nickname@|@koofaar, naanays, naynaas, neenaas@
+@night@|@cawo, habeeb, habeen, habeennimo@
+@nightmare@|@sas@
+@nighttime travel@|@guuree@
+@nine@|@sagaal@
+@nineteen@|@sagaal iyo toban@
+@ninetieth@|@sagaashanaad@
+@ninety@|@sagaashan@
+@ninth@|@sagaalaad@
+@nipple@|@cib@
+@no@|@maya@
+@no one@|@ninna, qofna@
+@nobility@|@nasabnimo@
+@noble@|@lafti, nasab@
+@nobody@|@cidna@
+@noise@|@buuq, shanqar@
+@noise of a crowd@|@or@
+@noise of footsteps@|@jaldhaf@
+@nomination@|@magacaabid@
+@non-Arab person@|@cajami@
+@non-living property@|@mood@
+@non-Muslim@|@gaal@
+@non-practicing a religion@|@caasimadda@
+@nonsense talk@|@bulaan@
+@noon@|@qorraxdheere@
+@norm@|@ged, ged, tastuur@
+@normal@|@caadi@
+@normalcy@|@caadinimo@
+@north@|@waqooyi, woqooyi@
+@nose@|@san@
+@nostril@|@dul@
+@not so good@|@Aad uma rooni@
+@notebook@|@gaayimad@
+@nothing@|@waxna@
+@notice@|@ogeysiis@
+@noun of the feminine gender@|@waalan@
+@nourishment@|@dhuuni, nuxrur, urshi@
+@now@|@cagi, eeg@
+@nuisance@|@lur, qulqulad, rabshad@
+@number@|@cadad, lambar, lanbar, lanbari, nambar, nambar, tiro@
+@nurse@|@gargaarto, kalkaaliso@
+@nursing@|@xannaanad, xannaano@
+@nurturing@|@xannaanad, xannaano@
+@nutrient@|@nafaqo@
+@nutrition@|@gashin, geshin@
+@nutritious food@|@baan@
+@oath@|@nidar, wacad@
+@obedience@|@heellanaan, okobbanaan, raallinnimo, raallinnimo@
+@obesity@|@buurnaan@
+@obey@|@addeec, fartoon@
+@object@|@lafale, layeele@
+@objective@|@ahmiyad, dan, toogo, ujeeddo, ujeeddo, ujeeddo, ulajeedo, ulajeedo@
+@objects@|@alaab@
+@obligation@|@abbaar@
+@obligingness@|@okobbanaan@
+@observation@|@arkid@
+@observe@|@beeq, indhoindhee, indhoindhee@
+@observer@|@muraaqib@
+@obstinacy@|@canaad, jaguugnimo, macangagnimo@
+@obstinate person@|@jaaxid, jaguug, macangag@
+@obtain@|@hel, xigo@
+@occasion@|@milay, moogaan, munaasabad, waa@
+@ocean@|@badweyn, baxar@
+@of serpent@|@abeso@
+@offend@|@juljul@
+@offense@|@gardarra, gardarro, gardarro, juljul@
+@office@|@xafiis@
+@officer@|@alifle, sarkaal@
+@offspring@|@durriyad, manqo@
+@offsrping@|@dhal@
+@off-white@|@cawiif@
+@oil@|@saliid@
+@ok@|@bal@
+@old@|@boos, cutush@
+@old (not new)@|@kabax@
+@old (not young)@|@gabow@
+@old age@|@duqnimo, gabow, gabownimo, oday@
+@old bachelor@|@guumeys@
+@old bit of cloth@|@hun@
+@old hag (derogatory)@|@cajuusad@
+@old maid@|@guumeys@
+@old man@|@cajuus, duq, oda, odey, sheyb@
+@old person@|@jaxeer, waayeel@
+@old ugly man@|@guumeys@
+@old woman@|@cajuusad, duq@
+@old women@|@islaan@
+@olive@|@saytuun@
+@Olympic@|@olombig@
+@omen@|@faal, ishaaro, ishaaro, saadaal@
+@on@|@ku@
+@one@|@hal, koow, kow, mid, waaxid, xabbo@
+@one half of the jaw@|@daan@
+@one hundred@|@boqol@
+@one who cleans@|@safeeye@
+@one who puts in order@|@hagagaajiye@
+@one who studies hard@|@mujtahid@
+@one who works@|@mujtahid@
+@onion@|@basal@
+@onlooker@|@daawade@
+@open@|@fur, furayya@
+@open itself@|@furan@
+@open space@|@ban, gegi, goob@
+@open wide@|@ballaq@
+@opening in enclosure@|@oodafo@
+@openness@|@furnaan@
+@opinion@|@afti, mooddo@
+@oppose@|@khilaaf@
+@opposite@|@cagsi, caksi, lid, liddi@
+@opposition@|@hortag, iskahorjeed@
+@oppresion@|@eedid@
+@oppression@|@dacdarro@
+@option@|@khiyaar, khushi@
+@or@|@ama@
+@oranges@|@liinxaali@
+@orator@|@afmaal, codkar@
+@oratory@|@afmaalnimo@
+@order@|@amar, habee, hannaansho@
+@ordinary@|@caadi@
+@organization@|@abaabul, hannaansho, jamciyad, tabaabulyo, tabaabusheeyn, urur@
+@organize@|@agaasin, aloosi, dunmi, qabanqaabi, tabaabulyee@
+@organize (1)@|@haalhee, habayso, tabaabushee@
+@organize animals in groups@|@hor@
+@organizer@|@tabaabusheeye@
+@organizing@|@tabaabusheeyn@
+@origin@|@asal, asli, cunsur, sinji, tawl@
+@orphan@|@agoon@
+@ostracize@|@fiindhee@
+@other@|@kale@
+@ours@|@annagale@
+@ourselves@|@is@
+@out of@|@ka@
+@outgoing@|@bashaash@
+@outside@|@dibad, dibadda, dibed@
+@overflowing@|@heeshi@
+@overheated@|@huuri@
+@overnight stop@|@hoyaad, hoyaatin@
+@overpower@|@xoog@
+@overrun@|@jiir@
+@overthrow@|@afgensi@
+@owl@|@guumees, guumeys@
+@own@|@hanti@
+@owner@|@ciddale@
+@ownership@|@mulki@
+@ox@|@dibi@
+@oxygen@|@ogsajiin@
+@pack up@|@gur@
+@padlock@|@qafil, qataar@
+@page@|@bog@
+@pain@|@caradhaban, damqasho, danqadaan, keylli, xanuun@
+@pain (1)@|@kaylli, mammanaan, xanuun@
+@pain from old wound@|@doog@
+@pain in the side@|@qaarjeex@
+@paint@|@guduudi, ranji, renji, sabbakh, sabbakh@
+@painter@|@ranjiye@
+@pajamas@|@bijaama@
+@palm of the hand@|@calaacal, sacab@
+@palm tree@|@baar@
+@pan@|@birtaawo@
+@panic@|@cabsigal@
+@pant@|@hinraaq, neeftuur@
+@panting@|@hinraag, xiiq, xoqad@
+@pants@|@targal@
+@paper@|@qardaas, warqad, xaashi@
+@parallel lines@|@barbarro@
+@parallelness@|@cuddoonaan@
+@parasitic plant@|@saar@
+@parcel@|@buqshad@
+@pardon@|@cafi, masaamax, saamax@
+@parenthood@|@waalidnimo@
+@parents@|@waalid@
+@park@|@bustaan@
+@part@|@cad, cad, gow, gow, jab, jar, qaar, qayb, qeyb, xag@
+@part (1)@|@badh@
+@part of a hut@|@dhig@
+@part of a nomadic hut@|@lool@
+@part of the leg@|@dhaad@
+@partial baldness@|@hiiro@
+@partiality@|@eexasho@
+@participate@|@qeybgal@
+@particular (thing or person)@|@khaas@
+@partition@|@qoqob@
+@partner@|@shurug@
+@pass beside@|@dhinacee@
+@pass by@|@mar@
+@passenger@|@cabbiri@
+@passing through@|@dhexmar@
+@passion@|@hawood@
+@passport@|@baasaboor@
+@paste on@|@nab@
+@pasture@|@baad@
+@patch@|@jansaar@
+@patch ragged clothing@|@humo@
+@paternal aunt@|@eddo@
+@paternal uncle@|@adeer@
+@path@|@dariiq, tub@
+@patience@|@dul, dulbadi, dulqaad, sabir, samir@
+@patriotism@|@waddaninnimo@
+@patron@|@abbaan@
+@pause@|@hakad, haki, hako, nasiino@
+@pausing@|@hakasho@
+@pay attention@|@aabayeel@
+@pay for@|@siiso@
+@pay in part@|@gabar@
+@pay living expenses@|@masruuf@
+@payment@|@hawl, jiso@
+@payment of a debt@|@gudaal@
+@pea@|@digir@
+@peace@|@ammaan, nabaaddiino, nabad, sulux@
+@peach@|@farsung@
+@peak@|@deg@
+@pear@|@midho@
+@peck@|@gurbo@
+@peddler@|@iibshe@
+@pedestrian@|@laballugood@
+@peel@|@diir@
+@peer@|@eyni, laag, qayr, qayr, qeyr@
+@peer at@|@hinbiriirso@
+@pen@|@qalin@
+@penalty@|@cisaaro, kallifaad@
+@pencil@|@laabis@
+@penis@|@qoodho, qoodo@
+@penny@|@beni@
+@people@|@dad, dad, duul, khalqi, khalqi, qaran, shacbi, shicbi, ummad, ummad@
+@people (1)@|@cid, qoon, shacab, war@
+@people living together@|@wadataal@
+@pepper@|@basbaas@
+@percent@|@boqolkiiba@
+@performance of an obligation@|@gudasho@
+@perfume@|@barafuun, cadar, udgoon@
+@period@|@ammin, dhibiq, dhibiq, seben, semen@
+@permission@|@idan, ijaaso@
+@permit@|@jidee, oggoloow, shati@
+@persistence@|@haar@
+@persitence@|@haar@
+@person@|@axad, nafar, qof@
+@person dividing@|@qaybshaa@
+@person in difficulty@|@qahraan@
+@person of evil character@|@qafalmardax@
+@person on foot@|@laballugood@
+@person watering animals@|@hore@
+@personality@|@gaado@
+@perspiration@|@dhididkii@
+@pester@|@hagardamo, hagardamo, jirrab, jitaabi, lur, lur@
+@pestering@|@hagardamo, hagardamo, nicid@
+@pestle@|@kal@
+@petition@|@arji@
+@petrol@|@batrool@
+@petrol consumption@|@batroolbax@
+@petroleum@|@betrool@
+@pharmacy@|@farmashiye@
+@Philippine@|@Filibiin@
+@philology@|@baarista@
+@philosophy@|@falsafad@
+@phobia@|@cuqdad@
+@photograph@|@masawir, sawir@
+@photographer@|@masawirle, sawiraale@
+@physics@|@fisigis@
+@pick for oneself@|@guro@
+@picture@|@taswiir@
+@piece@|@xabbo@
+@pier@|@gebi@
+@pierce@|@dalooli, mudbixi@
+@pierced@|@mudbax@
+@piercing@|@mudbax@
+@pig@|@doofaar, khansiir@
+@pigeon@|@qoolleey@
+@pile up@|@hilo, tub@
+@pilgrims@|@xujaaj@
+@pill@|@kiniini@
+@pillow@|@barkin@
+@pit@|@bahol, bahu, boor@
+@placatory sweet-talk@|@afgobaadsi@
+@place@|@jago, kob, makaan, meel, meelee@
+@place cleared for people sit@|@guro@
+@place face down@|@anbo, babac@
+@place of pilgrimage@|@xarun@
+@place of put for oneself@|@saaro@
+@place to spend the night@|@hoyad@
+@placing@|@saarid@
+@plain@|@baarax, ban@
+@plaintiff@|@muddaci@
+@plaited case@|@sab@
+@plan@|@habee, jaangooyo, nidaam, qorshe, tadbiir, talajir@
+@plan (1)@|@habayso, hindis, jangooy, khariidad, khariiddo@
+@plan (2)@|@taawi, taawi, taawo, tallan@
+@plan out@|@qorshee@
+@planet@|@meere, xiddig@
+@planks@|@loox@
+@planning@|@qorshayn@
+@plant@|@abuur, warshad, wershed@
+@plant with edible fruit@|@gaad@
+@plants@|@dhir@
+@plaster bandage@|@kabidda@
+@plate@|@saxan, sixni@
+@play@|@bardooddan, cayaar, dhayal, dheel, laacdan, ruwaad@
+@play (theatrical)@|@riwaayad@
+@play-fighting@|@hurdan@
+@playing@|@dheelis@
+@playing piece in a Somali game@|@irmaan@
+@plead@|@abhi@
+@pleasant chat@|@jalbeeb@
+@pleasant chatting@|@jalbeebtan@
+@pleasantness@|@jacsanaan@
+@please@|@baryo, Fadlan@
+@Please write your address@|@Min-fadlak qor cinwaanka@
+@pleasure@|@raaxo@
+@plenty@|@gaafo, kafuufo@
+@pliers@|@qabato@
+@plot of land@|@buqcad@
+@plowing@|@falasho@
+@plug@|@aabbur, aabbur, cuf, cufee, guf, gufee, jilay, joogajooge, joogajooge@
+@plumpness@|@karaar@
+@plunge@|@ruub@
+@plural@|@jamac@
+@ply between two places@|@gosh@
+@pneumonia@|@jeeniwareen, wareento@
+@pocket@|@jeeb@
+@poem@|@diiwaan, gabay, gabey, maanso@
+@poet@|@gabayaa, gabyaa@
+@poetry@|@suugaan@
+@point@|@qor@
+@point out@|@ishaar, tus@
+@Point where@|@Tilmaan meesha@
+@poison@|@sun, waabay@
+@poke@|@juqee@
+@pole@|@cidhif, udub@
+@police@|@booliis, boolis@
+@policeman@|@ilaalo@
+@policy@|@ishaafalad, siyaasad@
+@political party@|@xisbi@
+@politician@|@siyaasi@
+@politics@|@siyaasad, siyasso@
+@pond@|@balli, dar, jidhaan, war@
+@ponder@|@maami, taraddan@
+@pondering@|@tashad@
+@pool@|@dar, jidhaan@
+@poor@|@mahaysato, miskiin@
+@poor people@|@haadun@
+@poor person@|@cayr, sabool@
+@portable@|@aqal@
+@portion@|@cad, cad, daardhuuq, gabal@
+@portrait@|@sawir@
+@position@|@haal, mawqif, mowqifka@
+@possess@|@hanti@
+@possession@|@juno, qabid@
+@possessions@|@hanti@
+@possibility@|@suuraggal, suuro@
+@post@|@tiir@
+@post office@|@boosto@
+@postpone@|@akhir, baajiyo, dabammari, irko, madli@
+@postponement@|@dibdhac, kaadsiinyo, madlin, raagid, raagsiinyo@
+@postponement (1)@|@dibudhac@
+@pot@|@adar, dheri@
+@potato@|@badhadho, bataato@
+@potatos@|@baradhdho@
+@potponing@|@irkasho@
+@poultry@|@digaag@
+@pound@|@budee, budee, rodol, tum@
+@pour@|@shub, shuban@
+@pour for oneself@|@shubo@
+@poverty@|@busaarad, caydnaan, saboolnimo@
+@powder@|@budul, jariir@
+@power@|@maaro, qaddar, qudrad, tabar, tabar, xubin@
+@power of choise@|@khiyaar@
+@power of hearing@|@maqal@
+@praise@|@ammaan, faan, sado, sedo@
+@pray@|@ducee, duraamo, tuko@
+@pray for oneself@|@duceyso@
+@prayer@|@duco, tuki@
+@prayer for a sick person@|@jibaalgaabis@
+@predator@|@horor@
+@predict@|@awaal, kuhaan, saraad@
+@prediction@|@awaal, awaal, awaal, maleewaalid, maleewaalid, saadsasho, saraad@
+@pregnancy@|@caloolgal@
+@pregnant@|@riman, rimay@
+@prejudice@|@nacayb@
+@preparation@|@darab, tabaabusheeyn@
+@prepare@|@abaabul, darbi, diyaari, gaafo, tabaabushee@
+@preposition@|@meeleeye@
+@presence@|@joogid@
+@present@|@faxdi, hadiyad@
+@preservation@|@hawal, kaydin@
+@preserve@|@habal, kaydi@
+@preserving@|@kaydsi@
+@presidency@|@madaxtooyo@
+@president@|@madaxwayne, madaxweyne@
+@press down@|@habbi@
+@pressing@|@nabid@
+@pressure@|@baari@
+@prestige@|@haybad, sharaf, sumcad@
+@pretense@|@isyeelyeel@
+@prettiness@|@bilic@
+@prevent@|@maadi, waab@
+@prey on@|@horor@
+@price@|@beec, beec, beec, ganac, qiimad, sicir, sinaad, sinni, temmin@
+@price (1)@|@qiime, tammin, xarrago@
+@prices@|@ascaarta@
+@prick@|@irbadee@
+@prickly plant@|@cagaag@
+@pride@|@han, han, qab, qiiro, xarrago, xarrago@
+@primary@|@horrayn@
+@prime minister@|@ra'iisul wasaare@
+@principle@|@ishaafalad@
+@print@|@daabac@
+@printing@|@daabac@
+@printing-press@|@madbacad@
+@priority@|@horrayn@
+@prison@|@killaal, xabsi@
+@prisoner@|@lahaye@
+@problem@|@baas, hammi, masalo, mixnad, mushkilad, qahar@
+@professor@|@brofessoor@
+@profit@|@korsaar, korsocod, ribix@
+@program@|@barnaamij@
+@progress@|@horukac, horusocod@
+@prohibit@|@mamnuuc@
+@project@|@falsami, falsami, mashruuc@
+@projects@|@mashaariic@
+@promise@|@axdi, ballan@
+@promote@|@bil@
+@promptness@|@halhaleel@
+@pronoun@|@magacuyaal@
+@pronounciation@|@dhawaaq@
+@proof@|@caddeyn@
+@propaganda@|@boroobagando, dacaayad@
+@property@|@hanti, lihi@
+@prophet@|@nebi@
+@proportion@|@isuqiyaas@
+@proposal@|@iqtiraax@
+@prosper@|@badhaadh@
+@prospering@|@hanasho@
+@prosperity@|@aaran, baqas, baraare, bararo, barwaaqo, bashbash@
+@prosperous person@|@hantile@
+@prostitute@|@qabxad@
+@protect@|@dhawr, raw, raw@
+@protecting@|@daafacid@
+@protection@|@turriimo@
+@protection money@|@baad@
+@protector@|@abbaan@
+@protest@|@dacwood@
+@protocol@|@habmaamuus@
+@proverb@|@maahmaah@
+@province@|@gobel@
+@provisions@|@sad@
+@provisions for a journey@|@jicsin@
+@provocation@|@aabi, daandaansasho, daandaansi, maag@
+@provoke@|@adyadee, daandaanso, gardarrayso, gardarrayso, maag@
+@proximity@|@abbaaro, agaag@
+@public@|@dadweyne@
+@puddle@|@qay@
+@pull@|@jiid, jiido@
+@pull up@|@siib@
+@pulley@|@cayaari@
+@punch@|@feer, gujee, gujo@
+@pungent taste@|@hah@
+@punish@|@cadaab, ciqaab, ganaax, qisaas, tacsiir@
+@punishment@|@ciqaab, qisaas, tacsiir@
+@puntuation@|@astaan@
+@pupil@|@barad@
+@pupil of the eye@|@bir@
+@pure@|@nadiif@
+@purify@|@cul@
+@purple@|@carwaajiis@
+@purpose@|@faad, muraad, qasad, qasad@
+@purse@|@abxad, boorso@
+@pursue@|@raac, raacdee@
+@pursuit party@|@raacdo@
+@pus@|@maal@
+@push@|@ansac, durk, durug, riix@
+@push down@|@diis, dum@
+@push forward@|@harbi, hataaqo, hataqee@
+@push forwards@|@hanboorri@
+@push through@|@huluulo@
+@pushing@|@jiirid@
+@put a border on@|@daruur@
+@put a fringe on@|@farqi@
+@put a high price on@|@qaaliyee@
+@put a number on@|@nambari@
+@put a roof on@|@jibaal@
+@put a turban on@|@cigaal@
+@put behind@|@dambeysii@
+@put down@|@dhig@
+@put down a deposit@|@carbuun@
+@put down mats@|@gogol@
+@put for oneself@|@dhigo@
+@put in@|@geli@
+@put in order@|@haaneedi, hagagaaji, nidaami@
+@put into a difficult situation@|@iiqee@
+@put into confusion@|@mashaqee@
+@put into effect@|@hawlgeli@
+@put kohl on eyes@|@kuul@
+@put out to dry@|@war@
+@put salt on@|@cusbee@
+@put side by side@|@barbardhig@
+@put someone on his guard@|@irdhee@
+@put something in a place@|@meelayso@
+@Put your hands over your head!@|@Gacmaha madaxa saar!@
+@putting in order@|@hagaajin, hagagaajin@
+@python@|@good, jebis@
+@quantity@|@caddad@
+@quarrel@|@jaarri, jiriibban@
+@quarter@|@xaafad@
+@queen@|@boqorad@
+@quenching of thirst@|@oonbeel@
+@question@|@su'aal, weyddiin@
+@questioning@|@tooyasho@
+@quibble@|@jiriibban@
+@quiet walk@|@hunbaalle@
+@quietness@|@xasillooni@
+@quintal@|@kiintaal@
+@qunjuraaf@|@scraps@
+@qurqur@|@rim@
+@rabbee@|@train@
+@rabbit@|@bakayle@
+@race@|@beder, bedertan, beretan@
+@racism@|@midabkalasooc@
+@radar@|@raadar@
+@radio@|@raadiyo@
+@rage@|@dabbar, kushad, umal@
+@rags of dawn@|@sagal@
+@raid@|@duul, jalaalaqee, jalaalaqo, jalaalaqo@
+@rain@|@bokk, bokk, dac, hoor, roob@
+@rain cloud@|@hogol@
+@rainbow@|@mood@
+@rainy season@|@gu@
+@raise@|@barbaari, barbaari, dhaqo, gundhi, saar, taag@
+@raising@|@dhaqasho, kicin@
+@raisins@|@sabiib@
+@Ramadan@|@ramadaan@
+@rambling talk@|@hantaatac@
+@rank@|@dabaqad, darajo@
+@rare (thing)@|@naadir@
+@rareness@|@dhif@
+@rat@|@jiir@
+@ratel@|@xoor@
+@rations@|@raashin@
+@ravaging@|@burburin@
+@raw food@|@ceeriin@
+@reach@|@gaar@
+@reach the age@|@qaangaar@
+@reaching a decision@|@guddoonsad@
+@reaching out for something@|@tiigsad@
+@reaction@|@dibusocod, rajciyad@
+@read@|@akhri@
+@readiness@|@diyaar@
+@real Muslim@|@muumin@
+@realization@|@toodoobid@
+@realization of a loss@|@abaaji@
+@realize@|@ogoow@
+@realize one has lost something@|@abaaji@
+@rear@|@barbaari, danbeed, kori@
+@reason@|@ajli, ajli, dar, milgee, milgo@
+@reason by analogy@|@qiyaas@
+@reason logically@|@murtiyee@
+@reasonableness@|@garawsasho@
+@reasons@|@asbaaba@
+@rebuke@|@cataabid, jalaal@
+@receive advice@|@hanuun@
+@receive help@|@miciinso@
+@receive nourishment@|@irsaaqo@
+@receiving information@|@khabarsi@
+@receiving news@|@khabarsi@
+@reception@|@qabbilaad, xaflad@
+@reciprocation@|@talantaalli@
+@recitation of Koran to death@|@gunaanad@
+@recite@|@geeraar, naq@
+@recite a poem@|@gabay@
+@recite a poetry@|@gabey@
+@reckless person@|@irtid@
+@recklessness@|@irtidnimo@
+@recognition@|@ictiraaf@
+@recognize@|@garo, ictiraaf@
+@recompense@|@abaalgud@
+@reconcile@|@maslax, maslax, raalligeli@
+@reconciliation@|@maslax@
+@recover@|@kabo@
+@rectangle@|@afargeesle@
+@rectangular house@|@cariish@
+@recurrence@|@labakacle@
+@recurrent pains@|@qabatoon@
+@red@|@cas, casiin@
+@red crescent@|@laanqayr@
+@red earth@|@bakool@
+@redness@|@casaan@
+@reduce@|@naaqis, naaqus, yaree@
+@reflect@|@taraddan@
+@reflection@|@feker@
+@refrain@|@dhexyaallo@
+@refrigerator@|@qaboojiye, talaajad@
+@refuge@|@magan@
+@refugee@|@laaji, qaxooti@
+@refusal@|@diiddo, diidmo@
+@refuse@|@diid@
+@refutation@|@duudsi@
+@refute@|@beenee, duudsi, duudsi@
+@regain consciousness@|@miyirso@
+@regard@|@tacalluq@
+@region@|@gobel, gobol, waax@
+@regret@|@hifo@
+@regularity@|@joogto@
+@regulate@|@hagagaaji@
+@regulation@|@xeer@
+@reinstate@|@labakaclee@
+@reject@|@dhasiig, dhasiig, nac@
+@rejection@|@dhasiig@
+@rejoice@|@abshir@
+@relations@|@cilaaqaad, xiriir@
+@relative@|@ehel, lammaan, qareen, tol@
+@relatives@|@casabo, cashiiro, rixin@
+@relax@|@boji@
+@relaxation@|@bojiino@
+@release@|@cayrin@
+@release from debt@|@qaanbax@
+@reliability@|@miigganaan@
+@reliable@|@rasmi@
+@relieve@|@nasi@
+@relieve responsibility@|@hagarbixi@
+@religion@|@diin, millad@
+@religious festival@|@iid@
+@religious principle@|@caqiido@
+@religious scholar@|@buuni@
+@rely on@|@ciirso@
+@remaider@|@caymad, caymo, hambo@
+@remainder@|@baaqi@
+@remember@|@cululubo, garwaaqso, xasuus@
+@remembrance@|@gocasho@
+@remind@|@xusuusi@
+@reminding@|@garansiin@
+@remoteness@|@fogaan@
+@remove@|@tirtir@
+@renew@|@cusboonee@
+@rent@|@ijaar, ijaaro, ijaaro, kiree, kireysasho@
+@rent out@|@ijaar@
+@reoccur@|@labakaclee@
+@repatriation@|@dalkucelin@
+@repeat@|@naqnaq@
+@repeated fastening@|@xirxir@
+@repeated typing@|@xirxir@
+@repent@|@hifo@
+@repetance@|@ciilkaanbi, hisasho@
+@repetition@|@celcelis, naqtiin, sheelsheel@
+@report@|@warbixin@
+@reporter@|@wariye@
+@reporting@|@kawarramid@
+@reports@|@warar@
+@representative@|@ergey, wakiil@
+@repressing@|@cadaadin@
+@reprimand@|@canaan@
+@reproduction@|@tarmid@
+@reproof@|@haaraan, haaraan, jalaal@
+@reprove@|@haaraan@
+@reptile@|@halaq@
+@republic@|@jamhuuriyad@
+@Republic of Somalia@|@Jamhuriyadda Soomaaliya@
+@repudiate@|@dafir@
+@repugnance@|@qashafo@
+@reputation@|@sumcad@
+@request@|@codasho, codso, dabel, dalab@
+@rescue@|@birmasho, ciidami, ciidanso, tacaal@
+@research@|@baaris, salgaar@
+@resemble@|@ekow@
+@resentment@|@aano, kahasho@
+@reserve@|@kaydi@
+@reservoir@|@jaabbiyad, keli@
+@reside among@|@dhexdeg@
+@reside in@|@degganahay@
+@resin@|@xabag@
+@resistance@|@suti@
+@resolution@|@qaraar@
+@resort to law@|@sharci@
+@resource@|@intifaac@
+@resources@|@khayraad, kheyraad@
+@respect@|@cis, ixtiraam, qaddari, tixgeli, tixgelis, xurmo, xurmo@
+@respect (1)@|@cees, cisee, ciseyn, darajee, maamuus, xushmad@
+@respect on another@|@isdhawr@
+@respectability@|@casiis, casiisnimo@
+@responsabilities@|@waajibaad@
+@responsability@|@haal, waajib@
+@responsible person@|@isqaan, xildhibaan, xilkas@
+@responsibleness@|@xilkasnimo@
+@rest@|@boji, bojiino, daaltiro@
+@rest head@|@barko@
+@restaurant@|@makhaayad@
+@restlessness@|@kirtan@
+@result@|@ciribdanbeed, natiijo@
+@result in@|@aay@
+@retain@|@habal@
+@retirement@|@hawlgab@
+@return@|@noqo@
+@return a favor@|@abaalgud@
+@returning@|@labakacle@
+@reveal@|@muuji@
+@reveal talk in confidence@|@xogwarran@
+@revenge@|@aar, aarsasho@
+@revenue@|@dakhli@
+@review@|@naqtiin@
+@revive@|@noolee@
+@revolution@|@iskuwareegsi, isrog, tawrad@
+@revolutionary@|@tawri@
+@reward@|@abaal, abaalmari, faraggubyo, jaasee, jaaso, jiso@
+@reward (religious)@|@fadli@
+@rhinoceros@|@wiyil@
+@rhythm@|@qaafiyo@
+@rib@|@feer@
+@rice@|@bariid, bariis@
+@rifle@|@bunt@
+@right@|@xaq@
+@right hand@|@midig@
+@right moment@|@munaasabo@
+@rim@|@afmeer, looli, qurqur@
+@ring@|@duub@
+@rinse out@|@dhaqdhaq@
+@rinsing out@|@dhaqdhaq@
+@riot@|@qalalaas@
+@rip@|@jeeb@
+@ripe@|@bisayl@
+@ripen@|@batiikhoob, biskood@
+@rise@|@korudhig@
+@risk@|@halis@
+@rival@|@looltamayaa, looltan@
+@river@|@haro, webi@
+@river palm@|@baar@
+@riverbank@|@gebi@
+@road@|@addo, daliig, hilin, jid, marin, waddo@
+@roar@|@diyaan, jibaad@
+@roasting@|@halaammacays@
+@rob@|@boob, booli, furo, hoosh, mooradduug, mooradduug, xoog@
+@robbery@|@boob, dhaca, hoosh, kabasiib, mooradduug@
+@rock@|@dhadhaab@
+@role@|@dawr, door, jar@
+@roll@|@maraabo@
+@roll into a ball@|@kuus@
+@roof@|@jibaal, saqaf@
+@room@|@min, min, min, nefis, qawlad, qol, qoolad@
+@root@|@xidid@
+@rope@|@dabniin, xarig@
+@rose@|@ubax@
+@rot@|@qurun@
+@rotten@|@baas@
+@rough@|@jafjaf@
+@round@|@dadab@
+@round space@|@jaan@
+@roundabout speech@|@sarbeeb@
+@rounded shape@|@glungulco@
+@rouse@|@kici@
+@route@|@isumar, mareen@
+@rub@|@xaadh@
+@rub out@|@nasakh@
+@rubber@|@banbiiro, cinjir@
+@rug@|@qadiifad@
+@ruin@|@ibtilee@
+@ruins@|@berrin@
+@rule@|@asuul, qaanuun, xeer, xukun@
+@rumble@|@diyaan, diyaan, hugun@
+@rump of animal@|@dib@
+@run@|@durdur, kabti, ord, orod, roor, roor@
+@run away@|@baqad, baqad, kud, qax, qax, yaac@
+@run here and there@|@kalah@
+@run loose@|@gefer@
+@run slowly@|@guclee@
+@running@|@kabti, orod, roor@
+@running away@|@cararid@
+@rush@|@abraar, roor@
+@rushing@|@roor@
+@rust@|@mirir@
+@rustling@|@daro@
+@ruuin@|@kharrib@
+@sack@|@ceemad, jawaan, jiraab, jiraab, joonyad, kiish, mandad@
+@sack (1)@|@kiish@
+@sacrifice for a sick person@|@jibaalgaabis@
+@sadness@|@caloolxumo, tiiraanyo@
+@safe@|@khasnad@
+@safeguard@|@dayactir@
+@safekeeping@|@amaano@
+@safety@|@badbaado, bariin, bed, kabaro, samatabbax@
+@safety (1)@|@sabatabbax@
+@saint@|@weli@
+@sake@|@ajli, dar, daraad@
+@salary@|@mushaaharad, mushaar@
+@sale@|@beec, beec, iibin@
+@saliva@|@balqan, calyo@
+@salt@|@cusbo, milix@
+@same@|@iskummid@
+@sample@|@sambal@
+@sand@|@bacaad, ciid, cirid@
+@sand dune@|@bacad@
+@sandal@|@kab@
+@sandals@|@dacas@
+@sandal-strap@|@yeelin@
+@sandy hill@|@burco@
+@sap@|@faleen@
+@sapace@|@ballaadh@
+@sarcasm@|@jareexo@
+@satan@|@ibliis@
+@satirize@|@jareexee@
+@satisfaction@|@kifaayo@
+@satisfaction of hunger@|@haqabbeel@
+@satisfaction of need@|@jeelbax@
+@satisfy@|@bogaad, caaji, caaji, raalligeli@
+@sauce@|@sanuunad@
+@save@|@nabadgeli, tashiil@
+@save remains of food@|@hanbee@
+@saving@|@caymi, kaydsi@
+@saw@|@arkay@
+@say@|@dhah, dhi, dhih, hay, ii, yeedh, yeedh, yeer, yeer, yeer@
+@say it!@|@dheh@
+@say prayers@|@tuko@
+@saying@|@qowl@
+@scales@|@miisaan@
+@scandal@|@bayuur@
+@scar@|@haar@
+@scarcity of water@|@biyayarood@
+@scare@|@baji, bardad@
+@scatter@|@biliq@
+@scholar@|@abwaan, aqoonyahan, aqoonyahanka, caalin@
+@scholarship@|@abwaanimo, boorso@
+@school@|@dugsi, iskuul, malcaamad@
+@science@|@saynis@
+@scissors@|@manqas@
+@scolding@|@hangaggurro@
+@scole@|@hangaggurree@
+@scoop@|@dar, darso, gure, gure@
+@scorch@|@halwi@
+@scrap of cloth@|@furin@
+@scrape away@|@fadh@
+@scraps@|@qunjuraaf@
+@scratch@|@fiiq, hoq@
+@scream@|@cabaad@
+@screen@|@daah@
+@screw on@|@wareeji@
+@sea@|@bad, baxar@
+@sea weed@|@kuukiyaan@
+@sealing wax@|@xabag@
+@search@|@baadh, eegeeg, faaqidaad, fennid, raadgoob, raadin@
+@search (1)@|@baadiggoob@
+@search for@|@goob, jeri, raadi@
+@season@|@nur, shin, xilli@
+@seat@|@saldhig@
+@second@|@labaad, seken, sugundo@
+@secrecy@|@qarsoodi, qarsoonaan@
+@secret@|@xog@
+@secret meeting@|@faq@
+@secretary@|@Xooghayuhu@
+@sect@|@dariiqo@
+@section@|@fasal, gow@
+@security@|@amaan, nabaaddiino, sabatabbax, sabatabbax, samatabbax, samatabbax@
+@see@|@arag, areg, qollaali@
+@see off@|@sagootiyay@
+@see you soon@|@Is arag dambe@
+@seed@|@shuni@
+@seek help@|@ciidanso@
+@seeking@|@doonasho@
+@segregation@|@kalasoocid@
+@selection@|@gaadasho@
+@self@|@duunyo, is, qudh, qudha, qur@
+@self-sacrifice@|@huraal@
+@self-sufficiency@|@iskufilnaansho@
+@sell@|@biici, gad@
+@sell by auction@|@xaraash@
+@seller@|@gade, iibiye, kabadhe@
+@selling@|@iibis@
+@send@|@dayri, dir, dir@
+@send a message@|@far@
+@send across@|@gudbi@
+@send after@|@dabadir, raaci@
+@senior man@|@mudane@
+@sense@|@hiyi, maan@
+@sent to hell@|@naar@
+@sentence@|@hawraar, tix@
+@separate@|@faquuq, feeraari, fiindhee, kalasooc, sooc@
+@separateness@|@fiindho@
+@separation@|@feeraar, feeraaris, kaladhig, kalasooc, kalasoocid, kalasoocid@
+@separation (1)@|@kalabax@
+@serious illness@|@qaarqaad@
+@serious trouble@|@ildarro, qawaacid@
+@sermon@|@khudbo@
+@servant@|@khaaddin, midiidin, qabbaan, qabbaan, shaaqi@
+@serve@|@adeeg, midiidin, qabbaan@
+@service@|@adeeg, ciidamin@
+@set alight@|@ololi@
+@set apart@|@takoor@
+@set in order@|@hannani@
+@set out on a journey@|@kicitin@
+@set up@|@qotomi@
+@set upright@|@joogtee@
+@settle@|@garqaybi@
+@settlement@|@beel, degaan, degmo, duddo@
+@seven@|@toddoba@
+@seventeen@|@toddoba, toddoba iyo toban@
+@seventh@|@toddobaad@
+@seventieth@|@toddobaatanaad@
+@seventy@|@toddobaatan@
+@several@|@dhowr@
+@severe drought@|@gasariir@
+@severe harm@|@halako@
+@severe hunger@|@mamac@
+@severily@|@halakee@
+@severity@|@kulkulan@
+@sew@|@qodob, tol@
+@sewing machine@|@harqaan@
+@sexual intercourse@|@galmo@
+@shade@|@hadh, har, hoos@
+@shadow@|@higil@
+@shake@|@liglig, liilliiji, lul, lulo, riirriiji, rux, rux, ruxo@
+@shake (1)@|@jarcee@
+@shake out@|@hurguf@
+@shakiness@|@lalleemo@
+@shaking@|@ruxasho, ruxitaan@
+@Shall I call a taxi for you?@|@Tagsi ma kuugu yeedhaa?@
+@shallow water@|@dabbaan@
+@shame@|@ceeb, ceebaal, jiciir, jiciiree, xil, xishood@
+@shame (1)@|@ilfashaq@
+@shape@|@dir, hannaan, muug, qaab, qaabi, tatab@
+@sharad@|@wager@
+@share@|@moogtan, qayb, saami, sed, wadaag@
+@shareholder@|@saamile@
+@sharing@|@ciyi, qaybsasho, qaybsasho, wadaag@
+@sharp@|@qor@
+@sharp pain@|@kaar@
+@sharpen@|@afee, fiiq, looli@
+@shave@|@xiir@
+@shave oneself@|@xiiro@
+@she@|@ay, iyada@
+@she comes@|@timaadda@
+@she is at a place@|@taal@
+@she is not@|@aha@
+@she says@|@tiraahdaa@
+@she-camel@|@hal@
+@sheep@|@ido, wan@
+@sheep and goats@|@adhi@
+@she-goat@|@rih@
+@Sheikh -- man of religion@|@sheekh, shiikh@
+@shelter@|@dug, duggaal, gabbaad@
+@sheltered place@|@marso@
+@shepherdess@|@adhijir@
+@shield@|@gaashaan@
+@shift@|@dirgasho, durk, durug, nuuxi, nuuxi@
+@shilling@|@shilin@
+@shin@|@xog@
+@shine@|@dhalaal, halaalac@
+@ship@|@markab@
+@shipping@|@khashabad@
+@shirking@|@hodaddaabo@
+@shirt@|@garbaggale, gashi, gashi, shaadh, shaar, shaati@
+@shiver@|@jarcee, qarqar@
+@shivering@|@qarqaryo@
+@shock@|@musuraar, qarracan@
+@shoe@|@kab@
+@shoes@|@kabo@
+@shop@|@daas, dukaan@
+@shopkeeper@|@dukaanle@
+@shore@|@dukaanle, xeeb@
+@short@|@gaab@
+@short sleep@|@laamaddood@
+@short while@|@cabbaar@
+@shortage@|@naaqis@
+@shortcut@|@bogdoox@
+@shorten@|@koob@
+@shortening@|@koobid@
+@shot@|@qarxin@
+@shoulder@|@barbar, garab@
+@shout@|@dhawaaq, qaylo, sooyaan, tannaagood, yeedh, yeer@
+@shout (1)@|@ii, qabqab@
+@shout caused by grief@|@dhawaaq@
+@shouting@|@salow, sooyaan@
+@shove@|@hataaqo, riix@
+@show@|@muuji, tilmaan, tus@
+@show compassion@|@jixinjix@
+@show disrespect@|@quur@
+@show longing@|@jimiimic@
+@shower of rain@|@sayn@
+@shred@|@saaf@
+@shrink@|@kog, qonbob@
+@shrinking@|@qonbob@
+@shy person@|@ilgiir@
+@siblings@|@bah, walaalo@
+@siblings having the same mom@|@habarwadaag@
+@sick person@|@bukaan, jirroole@
+@sickness@|@bushi@
+@side@|@barbar, bog, caw, caw, dhinac, dhinic, gees, jiha, xag@
+@side (1)@|@barbar@
+@side of the body@|@oof@
+@side with@|@hinaas@
+@sides@|@barbarro@
+@sideways look@|@ollog@
+@sideways of backward glance@|@jalleeco@
+@siding with@|@ficil@
+@sigh@|@eedaad@
+@sight@|@arag, fiiro@
+@sign@|@calaamad, ishaaro, saxiix@
+@sign language@|@midaar@
+@signature@|@saxiix@
+@silence@|@aammus, shib@
+@silk@|@xariir@
+@silver@|@fiddo, maar@
+@similarity@|@caadinimo, ekaan, ekaansho@
+@since@|@ilaa, intii@
+@sincerity@|@lillaahi@
+@sing@|@hees, laaqi@
+@singe@|@halwi@
+@singer@|@heesaa@
+@singing@|@aleeggad@
+@singularity@|@gaar@
+@sink@|@hafo@
+@sink something@|@hafi@
+@sip@|@kabbayso, kabbo@
+@sister@|@huunno, walaal@
+@sit@|@fadhi@
+@sit and do nothing@|@cuskug@
+@sit crouched@|@kuudud@
+@sit down@|@fadhiiso, saldhig@
+@situation@|@wadci@
+@situations@|@axwaal@
+@six@|@lix@
+@sixteen@|@lix iyo toban@
+@sixth@|@lixaad@
+@sixtieth@|@lixdanaad@
+@sixty@|@lixdan@
+@size@|@baaxad, jurmi, qan@
+@skeleton@|@lafallafo@
+@skill@|@farshaxan@
+@skilled person@|@fiic, saanac@
+@skilled player@|@laacib@
+@skin@|@dub, harag, maqaar@
+@skin of fruit@|@diir@
+@skirt@|@googgarad@
+@skull@|@lafmadax@
+@sky@|@cir, samo@
+@skyness@|@shiix@
+@slackness@|@jimcoonaan@
+@slander@|@hitee, hito, xan@
+@slap@|@bog, bug, dharbaaxo@
+@slash@|@xaf@
+@slaughter@|@dabaax, gawrac, qalliin@
+@slave@|@addoon@
+@slavery@|@addoonsi@
+@sleep@|@hurdo@
+@sleepiness@|@hurdo@
+@sleeping@|@seexasho@
+@sleet@|@baraf@
+@slice@|@jar@
+@slide@|@dhiigo@
+@slight limp@|@muurin@
+@slight movement@|@sikasho@
+@sling to carry baby@|@furaad@
+@slip@|@barriqo, dhiigo, kuf, sisibo@
+@slit@|@sar@
+@slope@|@babac@
+@sloughed skin of snake@|@xuub@
+@slow@|@ciddijiid, huddan@
+@slow pace@|@hadaaf@
+@slow running@|@bucle@
+@slow walk@|@hudeec@
+@small@|@diq@
+@small amount@|@kis, waxoogaa@
+@small bag@|@adab@
+@small boy@|@yaraan, yaraan@
+@small change@|@sarrif@
+@small children@|@dhallaan, loomataliye@
+@small group@|@cuntub, cutub@
+@small hut@|@waab@
+@small matter@|@hadur@
+@small monkey@|@kore@
+@small movement@|@dirgasho@
+@small number@|@dhawr@
+@small pieces@|@jarjar@
+@small spear@|@hooto@
+@small tick@|@shax@
+@smallpox@|@furuqa, fuuruq@
+@smash@|@jebi@
+@smell@|@sanin, suun, ur@
+@smell of cooking@|@sanuun, siniin@
+@smell strongly@|@kankan@
+@smile@|@dhoolbir, muusaab, muusood@
+@smoke@|@qaac, qaaci, qiic, qiiq@
+@smooth@|@sin@
+@smoulder@|@hulaaq@
+@smouldering@|@hulaaq@
+@snake@|@halaq, mas@
+@snatch@|@hoosh@
+@sneeze@|@hindhis, hindhiso@
+@sniff@|@cabburi@
+@snore@|@khuuri, khuuro@
+@snoring@|@khuuro@
+@snow@|@baraf@
+@so@|@sah@
+@so (result)@|@sidaas darteed@
+@soak@|@qoosh@
+@so-and-so@|@hebel@
+@soap@|@saabuun@
+@sobbing@|@hiqhiq@
+@sobs@|@hiqhiq@
+@sociability@|@bulshannimo@
+@socialize@|@bulshee@
+@society@|@bulsho, mujtamac@
+@socks@|@sharaabad@
+@soft sand@|@ruub@
+@soften@|@jilci@
+@softness@|@jileec, nugeyl, nuglaan@
+@soldier@|@dagaalame, daljir@
+@soldier with firearms@|@dable@
+@soldiers@|@askar, jeysh@
+@solid@|@qarad@
+@solution@|@shubmid, shubmid, xallin@
+@solve@|@xalli@
+@Somali@|@soomaali@
+@Somali (language)@|@Soomaaliga@
+@Somali epic poem@|@geeraar@
+@somersault@|@qaalmarrogasho@
+@something@|@walax, wax, wax@
+@something apparent@|@qaddac@
+@something avoidable@|@hurti@
+@something bad of its kind@|@juuri@
+@something bent@|@guho@
+@something burning@|@gubad@
+@something clear@|@qaddac@
+@something desiccated@|@jawrar@
+@something flat@|@jinaad@
+@something hard to obtain@|@farkuddoon@
+@something impressive@|@qowjad@
+@something inevitable@|@huriweyto@
+@something made of clay@|@dhoob@
+@something messy@|@jacbur@
+@something of the same type@|@maar@
+@something pure@|@khaalis@
+@something round@|@hunbul@
+@something spoiled@|@jacbur@
+@something stored@|@kayd@
+@something stuck firmly@|@niibaati@
+@something that is chopped@|@jaran@
+@something that is confused@|@qasnaan@
+@something that is untidy@|@qasnaan@
+@something tied@|@guntin@
+@something unexpected@|@cirkasoodhac@
+@something unmixed@|@khaalis@
+@something very strong@|@xaddi@
+@something very useful@|@barkhad@
+@something worn in the shoulder@|@jeeniqaar@
+@something wrapped@|@guntin@
+@son@|@iman, wiil@
+@song@|@gabey, halaanhal, hees, laaq@
+@song sung at watering animals@|@jawaab@
+@soon@|@ilmo@
+@sort@|@caynad, jinsi, jinsi, naqee@
+@sort out@|@sooc@
+@soul@|@cabdo, laab, ruux@
+@sound@|@shanqar@
+@sour milk@|@jaan@
+@sourness@|@xaraar, xaraar@
+@south@|@koofur, koonfur@
+@sovereignty@|@xuquuq@
+@space@|@firaaqo, nefis@
+@spark@|@big, dhinbil@
+@sparkle@|@birbir, halaalac, jalanqe@
+@speak indirectly@|@guudmar@
+@speak nonsensically@|@bulaan@
+@spear@|@ciise, teeri, waran@
+@special@|@khaas@
+@specialists@|@khubaro@
+@specialization@|@takhasus@
+@speck@|@bar@
+@spectacles@|@indhaggashi, mandarad@
+@speech@|@baarran, eeray, khudbad, khudbo, oroh, oroh, qowl, qowl, Y@
+@speed@|@degdeg, degdegsiinyo, degdegsiinyo, halhaleel@
+@spell out@|@higgaaddi@
+@spelling@|@higgaad@
+@spend@|@khasir@
+@spend extravagantly@|@baatul@
+@spend night at watering place@|@guul@
+@spending the evening@|@caweys@
+@sphere@|@kankoon, kuryo, lucuun@
+@spider@|@caaro@
+@spill@|@balqo, qub@
+@spine@|@lafdhabar, lafduud, xanjaad@
+@spirit@|@laab@
+@spit@|@tuf@
+@splendor@|@xarrago@
+@splint@|@jiil@
+@splinter@|@falliir@
+@split@|@dhantaal@
+@split repeatedly@|@jeexjeex@
+@spoil@|@ajeey, hallee, kharrib@
+@spoiled@|@baas, kharaab@
+@spoiling of milk@|@baq@
+@spoon@|@malqacad@
+@sport@|@bardooddan, bardooddan, isboorti, laacdan, laacdan@
+@sports@|@jimjimicsi@
+@sports ground@|@fagaare@
+@sportsman@|@cayaaryahan, laacib, laacib@
+@spot@|@gabbal@
+@spotted thing@|@madmad@
+@sppedometer@|@orodbeege@
+@spray@|@bilbil, rushee@
+@spraying@|@bilbil@
+@spread@|@faaf@
+@spread about@|@nashir@
+@spread news@|@shaac@
+@spread out@|@baah@
+@spreading@|@faaf@
+@spreading of news@|@shaac@
+@spring of water@|@maax@
+@sprinkle@|@rushee@
+@sprout@|@magool@
+@sprouting@|@magool@
+@spy@|@basaas, jaajuus, jaasuus@
+@square@|@afargees, murabbac@
+@squeezing@|@jiiqo@
+@squirrel@|@dabaggaalle@
+@squirrel-like animal@|@kadaf@
+@sringtime@|@gu'@
+@stack@|@rasee@
+@staff@|@ul@
+@stage@|@heer@
+@stagger@|@ciir@
+@stain@|@sabbikh@
+@stain brown@|@guduudi@
+@stain red@|@guduudi@
+@staircase@|@jaranjaro@
+@stairs@|@jaranjaro@
+@stalk@|@gaad@
+@stampede@|@abraar, roor, roor@
+@stand firm@|@mintid@
+@stand in line@|@safo@
+@stand still@|@hogo, hoji@
+@stand up@|@istaag, taagnoow@
+@standing@|@taagnaan@
+@star@|@xiddig@
+@stare at@|@hoomaay@
+@start@|@bilaab, biloow, biloow, gundhig, handad, handad, hanfad, hanfaf, hanfaf, hanfaf@
+@startle@|@hanfadi@
+@startled@|@baraarug@
+@state@|@dowlad@
+@state of anxiety@|@kurbood@
+@state of becoming black@|@madoobaad@
+@state of being aromatic@|@udgoonaan@
+@state of being bent@|@qooxnaan@
+@state of being biased@|@eexasho@
+@state of being broken@|@jabnaan@
+@state of being busy@|@hawshood@
+@state of being different@|@duwanaan@
+@state of being entwined@|@iskudhoon@
+@state of being folded@|@duubnaan@
+@state of being kindled@|@shidnaan@
+@state of being left handed@|@gurranaansho@
+@state of being lined up@|@safnaa@
+@state of being locked@|@qafilnaan@
+@state of being long@|@dheeraan@
+@state of being lost@|@hallow@
+@state of being mixed@|@labnaan@
+@state of being placed@|@meelaysnaan@
+@state of being responsible@|@isxilqaan@
+@state of being stretched@|@jiidnaan@
+@state of being tied@|@xirnaan@
+@state of being tired@|@jirrabnaan@
+@state of being turned towards@|@leexanaan@
+@state of being without food@|@qadoodi@
+@state of being written@|@dhignaan@
+@state of completeness@|@jeenicalaf@
+@state of dangling@|@lalmasho@
+@state of defeat@|@guuldarraysasho, guuldarro@
+@state of desire@|@damacsanaan@
+@state of fasting@|@hamuun@
+@state of fullness@|@hirqasho@
+@state of having@|@lahaan, lahaansho@
+@state of longing@|@hiyiwaale@
+@state of losing heart@|@quusasho@
+@state of lying down@|@jiif@
+@state of shaking@|@lulasho@
+@state of suffering hardship@|@leelleelsanaan@
+@statehood@|@dawladnimo@
+@statement@|@caddayn@
+@stay@|@har@
+@stay out@|@dhax@
+@staying@|@joogid@
+@steal@|@xad@
+@steal animals@|@halabayso@
+@steam@|@hugaar, hunri, oomaar, qiiqbiyood@
+@steel@|@bir, birlab@
+@step@|@tallaab, tallaabo, tallaabso@
+@stepmother@|@aayo@
+@stick@|@dheji, niibo, ul@
+@stick firmly@|@niib@
+@stick on@|@nab@
+@sticking something to place@|@niibasho@
+@stiff neck@|@barkadhac@
+@stiffle@|@ceeji@
+@sting@|@qaniin@
+@stink@|@qurmuun, shiir, shuruf@
+@stir@|@laan@
+@stir a pot@|@laami@
+@stir up@|@guubaabi@
+@stirrup@|@rakaab@
+@stitch@|@lifaaq@
+@stock@|@duunyo@
+@stolen animals@|@halabo@
+@stolen goods@|@booli@
+@stomach@|@ubuc, uur@
+@stomach hemorrhage@|@dabadhiig@
+@stone@|@dhagax, mad@
+@stong box@|@khasnad@
+@stony ground@|@jafjaf@
+@stooge@|@dabadhilif@
+@stoop@|@qoox@
+@stop@|@celi, sheel@
+@stop up@|@aabbur@
+@stopper@|@guf, jilay, joogajooge@
+@stopping@|@cakis@
+@store@|@daas, istoodh, kaydi@
+@store away (for oneself)@|@kaydso@
+@storeroom@|@bakhaar@
+@storm@|@canbaar, duufan@
+@storm clouds@|@guulaamo@
+@story@|@qiso@
+@straggler@|@haraag@
+@straighten@|@qumi@
+@straightening@|@qumin@
+@straightness@|@hagaag, qummaati, qummanaan, toos@
+@strain@|@miir@
+@strangeness@|@sillanaan@
+@stranger@|@qariib@
+@strangers@|@aqraab@
+@strangle@|@bakhtii, bakhtii, ceeji@
+@strangulation@|@ceego, ceejo@
+@strap@|@liglig, yeel, yeel@
+@strategy@|@istaraatiiji, istaraatiijiyad@
+@stratum@|@lakab@
+@street@|@addo, dhabbe, jid, waddo@
+@strenght (1)@|@daaqo, laxaad, lihiin, lixaad, taag, tabar, tabaro@
+@strenghten@|@adkeey, quwee@
+@strenghtening@|@xoojin@
+@strength@|@caarranaan, gaan, itaal, lexaad, quwo, tamar, xoog@
+@stretch@|@fid, soog, tog@
+@stretching@|@fidin@
+@strictness@|@kulkulan@
+@strife@|@dirir@
+@strike@|@hummaaji, jugee, jugee, tun@
+@string@|@xarig@
+@stripe@|@dildil@
+@strips that make a body cloth@|@qeyb@
+@strive@|@dadaal, harjad@
+@stroll@|@mushaax, tamashle@
+@strong man@|@jafaal@
+@strong smell@|@kankan@
+@structure@|@dhis@
+@struggle@|@halgamid, halgan, loollan, loollan@
+@sttoping@|@qooxnaan@
+@stubbornness@|@cinaad@
+@student@|@arday, ardey@
+@students@|@xer@
+@study@|@baadidoon, baadidoon, baro, daras, deres@
+@stuff@|@cub, cuf, cufee@
+@stuffing@|@cub@
+@stuffy@|@huur@
+@stumbling@|@nitaaqo@
+@stupid@|@doqon, habilaawe, maangaab@
+@stupid person@|@ardaal, dabbaal@
+@stupidity@|@ardaalnimo, caaqnimo, maangaabi@
+@sturdiness@|@miigganaan@
+@style@|@heemaal@
+@substance@|@wax@
+@substitute@|@bedli, cawil, cigasho, sharmuuto@
+@substract@|@naaqus@
+@succeed@|@aflax, ray@
+@success@|@guul, guul, nasri, taabbaggal@
+@suck@|@jaq, muudso@
+@sudden pain@|@qabatin@
+@suddenness@|@kedo@
+@suffer hardship@|@silic@
+@suffer misfortune@|@hoog@
+@suffering@|@arami@
+@sufferings@|@ilxumo@
+@suffice@|@deeq@
+@sufficiency@|@fillaan@
+@sugar@|@sonkor@
+@suicide@|@isdil@
+@suit of clothes@|@lebbis@
+@summer@|@xaggaa@
+@summit@|@qar@
+@summit conference@|@shirweyne@
+@summons@|@dacwo@
+@sun@|@cadceed, qorrax, qundhac@
+@sunlight@|@shucaac@
+@sunrise@|@qorrax baxa@
+@sunset@|@gabaldhac, gabbaldhac, gabbaldhacsi, qorrax dhaca@
+@sunset (1)@|@dhalco, maqrib@
+@superiority@|@korreyn@
+@supernatural@|@karaamo@
+@supervise@|@kormeer@
+@supervision@|@kormeer@
+@supervisor@|@horjooge@
+@supper@|@casho@
+@supply@|@bixin, keenij, keyd@
+@support@|@hiil, kalkaal, miciin, miciinso, miciinso, taakulee, tabiino@
+@support (1)@|@garabsasho, hinaas, itataabo, kaasho, tammiin@
+@support (2)@|@ayid, hinaaso, itataabee, taageero, tagaabo@
+@supporter@|@kaaliye@
+@suppose@|@naawil@
+@sura of the Koran@|@jus@
+@surgeon@|@lafaggure, lafogure@
+@surgery@|@lafogur@
+@surplus@|@dheeraad@
+@surprise@|@abyan, diimid, kedis, layaab, qaflad, yaab, yaab, yaabi, yaabi@
+@surprise (1)@|@kedo@
+@surrender@|@caalin, dhiib@
+@surroundings@|@agagaar, dagaan, hareero@
+@survey@|@sahan@
+@suspect@|@dareen, tuhun@
+@suspend@|@laallaadi, laallaadi, lalmi@
+@suspicion@|@minfilaad@
+@suuraggelin@|@feasibility@
+@swalloing@|@waxliquida@
+@swallow@|@dhunji, juq, laq, liq@
+@swallowing@|@jug@
+@swear as a threat@|@jibo@
+@swearing an oath@|@jibasho@
+@sweat@|@dhidid@
+@sweater@|@funaanad, garan@
+@sweep@|@xaadh@
+@sweep up@|@gurbi@
+@sweet@|@daallan@
+@sweet odor@|@caraf@
+@sweetness@|@jamaad@
+@sweets@|@macaan@
+@swell@|@barar, maax@
+@swelling@|@barar, caabuq@
+@swim@|@dabaalo@
+@swimming@|@dabaal@
+@swing@|@laal, laalaco@
+@sympathy@|@arxan, kalgacal@
+@syphilis@|@waraabow@
+@system@|@gosido@
+@table@|@miis, miisad@
+@tablet@|@kiniini@
+@tactics@|@tabo@
+@tactlessness@|@haldhacsasho@
+@tag@|@taarga@
+@tail@|@dabo, dib@
+@tail (animal)@|@sayn@
+@take@|@geey, hooy, qaad, qalaaf@
+@take a bite@|@rud@
+@take a bite of@|@cantuug@
+@take a break@|@naso@
+@take a nap@|@sardhee@
+@take a vacation@|@carraggeddiso@
+@take anger out on@|@carabbaabba@
+@take counsel@|@hanuun@
+@take home@|@hooyi@
+@take interest@|@ribix@
+@take offense@|@qoonso@
+@take out@|@bixi@
+@take refuge@|@caymo@
+@take responsibility@|@isxilqaan@
+@take responsibility (for)@|@haalhee@
+@take revenge@|@aar, aarbax, aarso@
+@take sides@|@cugtan@
+@take someone lightly@|@sahlo@
+@take something lightly@|@sahlo@
+@take turns@|@gafootan@
+@taking sides@|@hiillo@
+@taking turns@|@gaafeysi@
+@talent@|@hadaayad, hado, hayaayad@
+@talk@|@baarran, hadal, tiraab, wadahadal@
+@talk cheerfully@|@bulxan@
+@talk secretly@|@faq@
+@talk with hidden meaning@|@madaar@
+@talkativeness@|@hadaltiro@
+@tall@|@dheer@
+@tamarind@|@xamar@
+@tame@|@barbaari, barbaari, carbi, rabbee@
+@taming@|@rabbeyn@
+@tan color@|@cawl@
+@tanned skin@|@idimo, idin@
+@tarmac@|@laami@
+@task@|@hawl@
+@tassel@|@bul@
+@taste@|@dhadhan, dhedhemi, dooq, lasow@
+@tautness@|@liilan@
+@tax@|@baad, canshuur, cashuur, gabbaro, jisyo@
+@taxi@|@taksi@
+@tea@|@shaah@
+@teach@|@bar, dhig@
+@teach manners@|@edbi@
+@teacher@|@astaad, bare, macallin@
+@teacherhood@|@macallinnimo@
+@teaching@|@ababid, baris@
+@team@|@koox, tarab, tarabtarab, tiim@
+@team mate@|@jaal@
+@tear@|@ilmo, jeeb, jeex@
+@tear off@|@mudhax@
+@tear open@|@dillaacso@
+@tears@|@illinka@
+@tease@|@kajan@
+@technique@|@farsamo@
+@technology@|@teknolooji, teknoolajiyad@
+@telephone@|@taleefan, telefoon@
+@telescope@|@biladdaye@
+@television@|@telefishin, telefisyoon@
+@tell@|@sheeg@
+@tell a story@|@sheekee@
+@Tell about him@|@Isaga ka sheeg@
+@Tell it to him@|@Isaga u sheeg@
+@tell news@|@waran@
+@tell stories@|@haasaawi@
+@temperature@|@hugaar, hugaar, kuldiir@
+@temple@|@dhafoor@
+@temptation@|@laabraac@
+@ten@|@toban@
+@ten cents@|@kumi@
+@tend@|@korso@
+@tender-hearted person@|@laabqoyan@
+@tennis@|@teenis@
+@tent@|@taanbuug@
+@tenth@|@tobanaad, tobnaad@
+@tenuous@|@diq@
+@termites@|@aboor@
+@terrified@|@argagax@
+@terrify@|@bardad@
+@terror@|@bardad, dhawr@
+@terrorize@|@guulguul@
+@test@|@jirrab, jitaabi, sharrib, tijaabi, tijaabo@
+@testicles@|@xeeniin@
+@thank@|@mahadi, mahadnaq, shugri@
+@thank you@|@Mahadsanid, Waan yara bukaa@
+@thanks@|@mahad@
+@that@|@kaas, taas@
+@that time@|@markaa, markaas@
+@the@|@ka, kii, ta, tii, tu@
+@the act of doing@|@qabsi@
+@the act of folding@|@laalaab@
+@the air@|@hawada@
+@the amount@|@inta@
+@the color red@|@guduud@
+@the countryside@|@miyi@
+@the cry of billy goat in heat@|@qalaad@
+@the dry season@|@jiilaal@
+@the five pillars of Islam@|@arkaan@
+@the Koran@|@jaamac@
+@the leadership@|@hogaanka@
+@the least@|@ugu yar@
+@the lesser dry season@|@xagaa@
+@the Lord God@|@rabbi@
+@the month@|@bisha@
+@the most@|@ugu badan@
+@the night before last@|@habeen hore@
+@The pain@|@Ma isdaba-joog baa?, Xanuunku@
+@the people@|@dadyow@
+@the pilgrimage to Mecca@|@xaj@
+@the planet Jupiter@|@mushtar@
+@the planet Mars@|@raage, saxal@
+@the planet Neptune@|@netuun@
+@the planet Venus@|@sahra@
+@the poor@|@caydh, haadun, haawey@
+@the public@|@dadweynaha@
+@the sea@|@badda@
+@the Somali language@|@soomaali@
+@the sun@|@libdho@
+@the things@|@arrimaha@
+@the time@|@marka@
+@the time between meals@|@qatin@
+@the work@|@hawsha@
+@theft@|@xatooyo@
+@theirs@|@iyagale@
+@them@|@ay, iyaga@
+@then@|@markaa, markaas@
+@theory@|@qaacido@
+@these@|@kuwan, tuwan@
+@they@|@ay, iyaga@
+@they are@|@yihiin@
+@they are coming@|@imaneyaan@
+@they are located at@|@yaalliin@
+@they are saying@|@oranayaan, oraneyaan@
+@they came@|@yimaadeen@
+@they come@|@yimaadaan@
+@they knew@|@yiqiinneen@
+@they know@|@yaqaanniin@
+@they said@|@yidhaahdeen, yiraahdeen@
+@they say@|@yiraahdaan@
+@they were@|@ahaayeen@
+@they were at@|@yiilleen@
+@they were coming@|@imanayeen@
+@thick forest@|@jiq@
+@thicket@|@kayn@
+@thickness@|@jurmi, qan, qiro@
+@thieves@|@burcad@
+@thigh@|@bawdo, cajar, tar@
+@thimg@|@wax@
+@thin@|@caato@
+@thin person@|@jay@
+@thing@|@shay, shey, shey, walax, walax@
+@things@|@agab, waxyaabo, waxyaalo@
+@think@|@bidaal, feker, fikir, maleey, mood, taawi, tallan@
+@think about@|@maami@
+@think over@|@taraddan@
+@thinking@|@federid, tashad, tashad@
+@thinness@|@jaynnimo, weyd@
+@third@|@saddexaad@
+@thirst@|@harraad, oommanaan, oon@
+@thirteen@|@saddex iyo toban@
+@thirtieth@|@soddonaad@
+@thirty@|@soddon@
+@this@|@kan, tan@
+@this evening@|@caawey@
+@thorough enquiry@|@jibaggar@
+@those@|@kuwaas, tuwaas@
+@though@|@in kastaoo@
+@thought@|@danni, fikrad, habi, habi, male, taawo@
+@thoughtfulness@|@aabo@
+@thousand@|@kun@
+@thousands@|@kumaankun, kumanyaal@
+@thousandth@|@kunaad@
+@thread@|@lifaaq, tax, tolan@
+@threat@|@gooddi, guulguul, haddiddaad, hanfad, hanjabo@
+@threaten@|@cagajuglee, gooddi, guulguul, hanfadi, hanjab@
+@three@|@saddex@
+@thrive@|@beekhaan@
+@throat@|@booc, cune, gawra, haan, hunguri, jiddin, rubad@
+@throw@|@filiq, halgaad, halgaad, lali, rid, tuur@
+@throwing@|@ridasho@
+@thumb@|@suul@
+@thunder@|@danabnimo, diyaan, diyaan, guguc, hanqar, onkod, onkod@
+@thunderbolt@|@danab@
+@thursday@|@khamiis@
+@tick@|@shilin@
+@tidy@|@haaneedi@
+@tie@|@xir@
+@tie a knot@|@gunud@
+@tie by the leg@|@dhaad@
+@tie round oneself@|@gunto@
+@tie up@|@xir@
+@tiger@|@shabeel@
+@tight passage@|@huluul@
+@tilt@|@dhalleexsi, liic@
+@timber@|@qor@
+@time@|@had, jeer, kal, keni, keni, mar, moog, muddo, wakhti@
+@time (1)@|@beri, goor, kol, samaan, waa, wakhti, waqti, xilli@
+@time (2)@|@miile, milay, milay, moogaan, seben, seben, semen, semen@
+@times@|@marar@
+@timid@|@ilgiir@
+@tin@|@daasad@
+@tinder@|@lul@
+@tip@|@caarad, cidhif@
+@to@|@u@
+@to aim@|@dan@
+@to be@|@ahay, ahi, ahow, yahay, yahay@
+@to be in a place@|@oolli@
+@to become@|@ahaan@
+@to bite@|@qanïn@
+@to cause doubt@|@dareensii@
+@to change@|@qayir@
+@to chase@|@raacdee@
+@to collect@|@ururi@
+@to come@|@iman@
+@to copulate@|@was@
+@to defecate@|@xaar@
+@to desire@|@himmad, jamo, niyeysasho, niyeysasho, niyeyso, niyeyso, niyeyso, niyeyso, quudarree@
+@to disturb@|@rabbash@
+@to dream@|@dhadhab@
+@to dust@|@bus@
+@to end@|@marnoow@
+@to expect@|@fil@
+@to gather@|@ururi@
+@to have@|@lahaydeen, lahayn, leedahay, leedihiin, leenahay@
+@to have (1)@|@laha, lahaa, lahaayeen, lahay, leeyahay, leeyihiin@
+@to have (2)@|@lihid@
+@to insult@|@jurxee, qadaf@
+@to intend@|@niyeyso@
+@to know@|@aqoonsan, naqaan, oqoon@
+@to llok@|@arki@
+@to number@|@caddad@
+@to plug@|@cub@
+@to respect@|@ciso@
+@to say@|@odhan, oran@
+@to see@|@arki@
+@to shout@|@qayli@
+@to silence someone@|@afjig@
+@to sleep@|@hurd@
+@to support@|@taageer@
+@to think@|@naawil@
+@to travel@|@saafir@
+@to try@|@sharrib@
+@to wound@|@hummaaji@
+@tobacco@|@buuri, tubaako@
+@today@|@maanta@
+@toe@|@far@
+@toes@|@faro@
+@togetherness@|@wadajir@
+@toilet@|@beytalmay@
+@tolerance@|@raalli, raallinnimo, raallinnimo@
+@tolerate@|@rillee@
+@tomato@|@tamaandho@
+@tomatoes@|@tamaandho@
+@tomb@|@qabri@
+@tom-cat@|@cumi@
+@tomorrow@|@aroor, berri, berrito, foog, subax@
+@ton@|@tan@
+@tone@|@sawd@
+@tongue@|@carrab@
+@tonight@|@caawa@
+@tonsil@|@xiiq, xoqad@
+@tooth@|@ilig@
+@top@|@kur, kur, saraar@
+@topic@|@waayo@
+@torment@|@murug@
+@tornado@|@cirboor@
+@torn-off piece@|@jeex@
+@torso@|@qaaxo@
+@total@|@jimlee@
+@tottering walk@|@huddan@
+@touch@|@taabo@
+@tourist@|@dalxiise@
+@tournament@|@tartan@
+@towards@|@u@
+@towel@|@gacantir, taweel, tuweel@
+@tower@|@kuud@
+@town@|@beled, magaalo, magaalo@
+@Track down a spectre@|@Ruuxaan jirin raad ku doon@
+@trade@|@baayac, biic, bucshiro, ganacso, iib, mushtar@
+@trade (1)@|@rogrogo@
+@trader@|@ganacsato, ganacsi, geddisley@
+@train@|@layli, rabbee, tababbar, tareen@
+@train a horse@|@jaree@
+@trainee@|@barad@
+@training@|@agabar, layli@
+@training a horse@|@jaraysad@
+@traitor@|@khaayin@
+@trample@|@dhacdhac@
+@trance@|@jidbo@
+@transform@|@qayir@
+@transformation@|@qayir@
+@translate@|@macnayso, tarjim, tarjum@
+@transplanting@|@abaqaal@
+@transport@|@geey@
+@transportation@|@gaadiid@
+@transporting@|@geeyn@
+@trap@|@cimil, dab, dabin, qab@
+@trasfer@|@daadguree@
+@trash@|@khashin, kuddaafad@
+@trasurer@|@khasnaji@
+@travel@|@dalxiis, dhoof, masaafee, masaafir, socdaal@
+@travel abroad@|@dhoof@
+@travel to a distant place@|@jadeerwaco@
+@travelers@|@socoto@
+@traveller@|@masaafir@
+@travelling to a distant place@|@jadeerwacasho@
+@treasure@|@kansi, kensi@
+@treasurer@|@qasnaji@
+@treaty of alliance@|@isbahaysi@
+@tree@|@baar, geed@
+@tree bark@|@jilif@
+@tree-trunk@|@kurtun@
+@tremble@|@jarcee@
+@trembling@|@cariir, gariir, keyrkeyr, qarqaryo@
+@triangle@|@saddexagal@
+@tribal chief@|@ugaas@
+@tribalism@|@qabyaalaad@
+@tribalist@|@qabiili@
+@tribe@|@qabiil, qolo@
+@tribute@|@baad@
+@trick@|@khiyaamo@
+@tried@|@mujarrab@
+@trip someone up@|@kufi@
+@triviality@|@hadur@
+@trolley@|@tar@
+@trouble@|@hagardaamo, hagardaamo, jirrab, jitaabi, lur, mashaqo, tabaalo, tabaalo@
+@trouble (1)@|@arbush, darxumo, dhib, dhibaato, harreef, rabbash@
+@trouble (2)@|@hargaamo, khasiyad, qulqulad, rabshad, tacaddi@
+@trouble making@|@qalalab@
+@troubled@|@miryaad@
+@troublemaker@|@namiin@
+@truce@|@waanwaan@
+@trunk@|@jirrid@
+@trust@|@aammin@
+@truth@|@dhab, run, xaqiiq, xaqiiqo@
+@try@|@hol, holli, holliin, iskudey, jirrab, jirrab, jitaabi, jitaabi@
+@tuesday@|@salaasa, talaada@
+@tumbler@|@galaas@
+@turban@|@duub@
+@turn@|@baydh, dhalleexsi, jeeso, kaaye, kaayeysi, leexo@
+@turn a somersault@|@qaalmarrogo@
+@turn around@|@jalleec, jinbac, jinbaco, rog, rogi@
+@turn aside@|@jeenso, leexi@
+@turn back@|@laabo@
+@turn down a request@|@webi@
+@turn off@|@demi@
+@turn on water@|@dhaami@
+@turn over@|@rog@
+@turn towards oneself@|@leexso@
+@turn upside down@|@afgembi@
+@turning back@|@laabasho@
+@turtle@|@diinceelaad@
+@twelve@|@laba iyo toban@
+@twentieth@|@labaatanaad@
+@twenty@|@labaatan@
+@twickle@|@halalaac@
+@twin@|@mataan@
+@twinckling@|@halaalac@
+@twinkle@|@bilig, birbir, birbir, jalanqe, jalanqe@
+@twinlight@|@fiid, himhimmow@
+@twist@|@maroori@
+@twisting@|@maroorin@
+@twitch@|@dubaaxi@
+@two@|@labba, labo@
+@type@|@cayn, caynad, eyni, jaad, jinsi, jinsi, kaan, nooc, tayo@
+@type of animal@|@malo@
+@type of cloth@|@khayli@
+@type of crab@|@qabaanqab@
+@type of dance@|@batar@
+@type of fatal disease@|@kuududshe@
+@type of fish@|@carabi@
+@type of goat@|@hir@
+@type of incense@|@cuud, jaawe@
+@type of incense-bearing tree@|@xiji@
+@type of mat@|@raar@
+@type of palm-tree@|@mayro@
+@type of plant@|@daran, hayn@
+@type of plant used to make dye@|@jawdheer@
+@type of poem@|@jiifto@
+@type of ship@|@jaalabbuud, kuutiyad@
+@type of small bird@|@faa@
+@type of team-game@|@laal@
+@type of tree@|@canjeel, daray, shey, shillin@
+@type of vessel made of fibre@|@qabay@
+@type of water vessel@|@naar@
+@type of white cloth@|@maxamuudi@
+@type of wild berry@|@quulle@
+@types@|@anwaac@
+@tyranny@|@jawr@
+@uganda@|@ugaandha@
+@ugliness@|@foolxumo@
+@ugly person@|@jafaliil, jafaliille@
+@ugly thing@|@jafaliil@
+@ulcer@|@boog@
+@uncle@|@adeer@
+@under (less than)@|@ka yar@
+@underground@|@bakaar@
+@undermine@|@manjaxaab@
+@understand@|@daay, fahan, garo, garo, garo, had, kas, toodoob@
+@understanding@|@afgarad, dhimir, garaad, garansho, garasho@
+@uneducated person@|@caamo@
+@unemployed@|@hawllaawe@
+@unexpected thing@|@lamafilaan@
+@unforgettable event@|@hibasho@
+@unfriendly person@|@jacjuun@
+@ungrateful person@|@jasaar@
+@unification@|@midayn@
+@uninhabited place@|@lamaddegaan@
+@unintelligent person@|@habilaawe, maangaab@
+@unite@|@midee@
+@unity@|@itixaad, midnimo@
+@universal@|@caalami@
+@universe@|@caalami, gayi@
+@university@|@jaamacad@
+@unmarried girl@|@bikrad@
+@unprotectedness@|@halladaado@
+@unrelated person@|@shisheeye@
+@unrest@|@looyaan@
+@unripe fruit@|@gahayr@
+@unsafe place@|@aftoolin@
+@unsteadiness@|@sahasho@
+@untidiness@|@habdarro@
+@untie@|@fur, furayya@
+@until@|@ilaa@
+@unwell feeling@|@juuc@
+@up@|@kor@
+@upper arm@|@cudud, jiniinqallal@
+@upper back@|@dabo@
+@upper part of camel's hind leg@|@sibir@
+@upright@|@lig@
+@uprightness@|@qoton@
+@uproar@|@sooyaan@
+@urge on@|@magmakee@
+@urinate@|@kaadi@
+@urine@|@kaadi@
+@urine of cattle@|@faanto@
+@us@|@aannu, annaga, na@
+@use@|@isticmaal, manfac@
+@used@|@carjab@
+@usefulness@|@agab, anfac, caaqibo@
+@useless@|@hulqe@
+@uterus@|@riman, rimay@
+@utter a proverb@|@maahmaah@
+@utterance@|@hawraar, qowl@
+@vacate@|@cidlee@
+@vaccinate@|@tallaal@
+@vague@|@hantaatac@
+@vagueness@|@habagsi@
+@valley@|@dooxo, hogob@
+@value@|@istaahil, qaymi, qiime, tammin, tammin, temmin, temmin@
+@vanish@|@libir@
+@vegetables@|@khudaar, khudrad, khudro@
+@vegetation@|@nabaad@
+@veil@|@indhashareer@
+@vendor@|@gade@
+@verdict@|@guddoomi@
+@verification@|@hubsasho@
+@verify@|@hubi@
+@vertebra@|@ricir@
+@vessel@|@jalxad, weel@
+@vessel for oil@|@dobi@
+@viability@|@suuraggelin@
+@vicinity@|@abbaaro, kaabi@
+@victim@|@dillaan@
+@victoriousness@|@libaysasho@
+@victory@|@guul, lib, libin@
+@view@|@aragti, daawo, indhoindhee@
+@village@|@buulo, khal, qaryad, tuulo@
+@violence@|@dibindaabyo@
+@virgin@|@bikrad@
+@visibility@|@qaddacnaan@
+@visit@|@booqasho, booqo, siyaaro@
+@visitors@|@socoto@
+@vitamin@|@fiitamiin@
+@voice@|@cod, luuq, sawd@
+@void@|@hungee@
+@volley@|@tacshiirad@
+@volume@|@qaatin@
+@vomit@|@hunqaac, hunqaaco, mantag, matag@
+@vomiting@|@mantag@
+@vote@|@soot@
+@vow@|@nidar@
+@vowel@|@shaqal@
+@vulva@|@futo, futo, siil@
+@wage war@|@weerar@
+@wager@|@sharad@
+@wait@|@dawir@
+@waiting@|@sugaal@
+@wake (someone)@|@kicin, toosi@
+@wake someone@|@kicin, toosi@
+@wake up@|@baraaruji@
+@walk@|@leegleegso, lugee, soco@
+@walk around@|@wareeg@
+@walk in succession@|@habqan@
+@walk quietly@|@hunbaallee@
+@walk slowly@|@cagajiid, ciddijiid, hadaaf, huddan@
+@walk slowly and dejectedly@|@huleel@
+@walking@|@leegleegsasho, socod, socodka@
+@walking back and forth@|@dabandeeb@
+@wall@|@derbi, gidaar, guuri@
+@wander@|@wareeg@
+@wander about@|@miraaf@
+@wandering@|@miraaf@
+@wandering man@|@wareege@
+@want@|@doon, hawo, jamo, rab@
+@war@|@dagaal, dagal, xarbi@
+@wardrobe@|@kabar@
+@wariness@|@irdho@
+@warm@|@diiri@
+@warm liquid@|@kuljiir@
+@warm nights@|@kaad@
+@warm oneself@|@kulaal@
+@warm self@|@diirso@
+@warm up@|@diirri, kululee@
+@warming oneself@|@diirsasho@
+@warmth@|@diirsimaad, kuldiir, kuleel, uumi@
+@warning@|@dardaarweris, garansiin@
+@wars@|@warar@
+@was not@|@ahayn@
+@wash@|@maydho, nadiifi, nadiifi, qasaal, qasaalo, xal@
+@wash (1)@|@hal@
+@wash something@|@mayr@
+@washing@|@mayrasho, qasaal, qaslad@
+@waste of money@|@khasir@
+@watch@|@ilaali@
+@watching@|@sugid@
+@water@|@biyo@
+@water channel@|@doox, laag@
+@water jar@|@jalxad@
+@water jug@|@kuusad@
+@water pipe@|@dhuun@
+@water vessel@|@haan@
+@watering trough@|@kaalin@
+@water-jar made of clay@|@aashuun@
+@waterless place@|@omos@
+@wave@|@haati, hir, lul, mawjad, mowjad@
+@waves@|@hirar, maskar@
+@way@|@daw@
+@way of life@|@dhaqmaad@
+@we@|@aannu, anaga, na@
+@we are@|@nahay@
+@we are coming@|@imaneynaa@
+@we are not@|@ihin@
+@we are saying@|@oranaynaa, oraneynaa@
+@we came@|@nimid@
+@we knew@|@niqiin@
+@We must bury her@|@Waa inaan duugnaa isaga@
+@we said@|@nidhi, niri@
+@we were at@|@niil@
+@we were coming@|@imanayney@
+@weak person@|@cutush@
+@weak sight@|@indhahabeeno@
+@weaken@|@dabci, jilci@
+@weakness@|@cabbanan, calaal, calaal, liidasho, tabaryari, uduufo@
+@weakness (1)@|@diif@
+@weal@|@haar@
+@wealth@|@bayddi, cood, hodantooyo, maaliyad, qabno, xoolo, xoolo@
+@wealth (1)@|@guuyo, hanti@
+@wealthy man@|@maalqabeen@
+@wealthy person@|@hodan, hodon, qani@
+@wean@|@abaydi@
+@weaning@|@abab@
+@weapon@|@aalad@
+@weapons@|@hub, salab, silaax@
+@wear@|@sido@
+@wear out@|@kharrib@
+@wearing@|@xirasho@
+@weather@|@cimilo, dabayl, hawada@
+@weave@|@falki@
+@wedding@|@aroos@
+@week@|@toddobaad, usbuuc@
+@weep@|@ilmee@
+@weeping@|@oohin@
+@weigh@|@miisaan@
+@weigh down@|@habbi@
+@weight@|@culaab, culays, habbiso@
+@welcome@|@nabdaadi@
+@welding@|@alxanka@
+@welfare@|@khayr@
+@well@|@bahol, bahu, ceel@
+@well-being@|@bararo, ladnaan@
+@well-mannered person@|@ikhyaar@
+@well-to-do people@|@hantiqabeen@
+@west@|@bugux, galbeed, qorraxsin@
+@weynaan@|@largeness@
+@weynee@|@make great@
+@what@|@maxay, wax@
+@What is your name?@|@Waa maxay magacaagu?@
+@what's prohibited (Muslim law)@|@xaaraan@
+@What's your name?@|@Magacaa?@
+@wheat@|@bur, qamadi, sareen@
+@when@|@goorta, gorma, markii@
+@When did you become ill?@|@Goorma ayaad xanuunsatay?@
+@When need denied@|@Markay dani maaha tidhi@
+@When need required@|@Markay dani meeday tidhi@
+@when?@|@goorma?@
+@where@|@xagga, xaggee@
+@Where are you from?@|@Hagaad ka timid?@
+@Where is my room?@|@Away makhsinkeygu?@
+@Where is the bar?@|@Away barku?@
+@Where is the beach?@|@Away xeebtu?@
+@Where is the telephone?@|@Halkuu telefoonku ku yaal@
+@where?@|@xaggee?@
+@which@|@maxay@
+@while@|@intii@
+@whimper@|@luul@
+@whip@|@jeedal@
+@whirlpool@|@mid@
+@whisper@|@gunuunuc, gunuunuc, koodi, nuxnux, nuxnuxlee@
+@whispering@|@gunuunuc@
+@white@|@caddaan, cadiin@
+@white cotton cloth@|@maraykaan@
+@whitten@|@boodeen@
+@who@|@yaa@
+@whole@|@dunji, giddi@
+@whom@|@yaa@
+@why@|@sidaas darteed@
+@why?@|@maxaa@
+@wick@|@liifad@
+@wickedness@|@baaddil, baaddil, xumaato@
+@widen@|@ballaadhi, ballaari@
+@width@|@baaxad, ballaadh, ballaar, ballac, weyso@
+@wife@|@afo, maranti, oori, reer, xilo@
+@wife and family@|@xaas@
+@wild animal@|@bahal, banjoog, dugaag, fiigtaal@
+@wild dog@|@yeey@
+@will@|@dardaaran@
+@win@|@foor, guuleyso, ree@
+@wind@|@dabayl, leexleexo, riix, xiisad, xiisad@
+@window@|@daaqad, khalfad, shabaako, shubaako@
+@wine@|@dhiinto, khamri@
+@wing@|@baal, baalal@
+@winning@|@foorad@
+@winnow@|@huf@
+@winter@|@jiilaal@
+@wipe off@|@nasakh@
+@wipe out@|@masax@
+@wiping@|@tiris@
+@wire@|@silig@
+@wisdom@|@abwaanimo, caaqilnimo, garasho, garasho@
+@wise men@|@cuquul, cuquule, guurti@
+@wise old man@|@ruugcadde@
+@wish@|@doonid, hawo@
+@wishing@|@saadin@
+@witch-doctor@|@bida@
+@with (accompaniment)@|@la@
+@withdrawal@|@kasaarid@
+@witness@|@marag, markhaati, shaahid@
+@wobble@|@nuuxnuuxi, nuuxnuuxso, nuuxsasho, nuuxso@
+@wobbling@|@halwad, nuuxnuuxsasho@
+@wolf@|@yey@
+@woman@|@haweeney, naag@
+@womanhood@|@naagnimo@
+@womankind@|@dumaashi@
+@womb@|@dhali, riman, rimay@
+@women@|@dheddigood, dumaashi, dumar, ganbooley, haween@
+@wonder@|@cajiib@
+@wood@|@alwaax, hawd, juq, juq, kayn, qori@
+@wood for smoking milk vessels@|@qadiid@
+@wool@|@suuf@
+@word@|@eray, erey, kelmad, kelmed, oroh, qowl@
+@work@|@hawl, shaqeey, shaqeeysi, shaqeeysi, shaqo, shuqul, tacab@
+@work clothes@|@dharran@
+@work quickly@|@hulbi@
+@worker@|@shaaqi, shaqaale@
+@workforce@|@ciidan@
+@working@|@shaqeyn@
+@workshop@|@hooso@
+@work-team@|@golongol@
+@world@|@adduun, adduunyo, arlo, arlo, caalami, caalami, duni, gayi, gayi, koon@
+@worm@|@dixiri, gooryaan, midh@
+@worn@|@duug@
+@worn out object@|@lufan@
+@worn out thing@|@kharaab@
+@worry@|@caloolyoob, murugsanaan, sakati, tawal, welwel, welwel@
+@worry (1)@|@caloolyow, hammi, murji, murug, tawal, uurkutaallo@
+@worry (2)@|@murugood, urugo@
+@worrying@|@nicid@
+@worship@|@cibaadeysi, cibaadeyso, cibaado@
+@worshipper@|@caabid@
+@worst (thing)@|@darnayd@
+@worth@|@istaahil@
+@wound@|@dhaawac, dhibbaan, halakee, heer, nabar, qoon@
+@wrap round oneself@|@gunto@
+@wrapper@|@jilid@
+@wrath@|@umal@
+@wring out@|@majuuji@
+@wrist@|@cukur, jalaqley@
+@write@|@qor, qorid@
+@write down for oneself@|@qoro@
+@write on@|@dhigee@
+@writer@|@dhige, musannif, musannif@
+@writing@|@dhigasho, dhigid, dhigmo, qoraal@
+@written document@|@dhigaal@
+@Written with compulsion@|@Madiiddo lasoo qorqoray@
+@wrong@|@dulmi, gardarro, juljul, khatal, khatal@
+@wrong doing@|@juljul@
+@year@|@sannad@
+@yearning@|@jimiimic@
+@yell@|@qayli@
+@yellow@|@jaalle@
+@Yemen@|@yemen@
+@yes@|@haa@
+@yesterday@|@shalay@
+@you@|@aad@
+@You may get up now@|@Waad kici kartaa iminka@
+@young@|@dhallinyar@
+@young bull@|@dibi@
+@young female camel@|@qaalimo, qaalin@
+@young man@|@gorom-saa@
+@Yugoslavia@|@yuguslaafiya@
+@zeal@|@haar, harjad@
+@zebra@|@faraw@
+@zero@|@goobaab, sufur@
+@zigzag@|@leexleexo@
+@zionism@|@sahyuuniyad@
+

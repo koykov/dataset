@@ -1,0 +1,597 @@
+@English@|@Haida@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@A needle is sharp@|@Stlán-gyaa uu k'igáng@
+@A red cedar tree is tall@|@Ts'úu kíidaay jánggang@
+@add on@|@waak@
+@Albert is singing@|@Albert k'ajúugang@
+@and@|@gyaan, isgyáan@
+@And you?@|@Dáng sán?@
+@Ankle bone@|@Duméi@
+@Are you drying fish?@|@Chíin dáng xiláadaa us?@
+@Are you hungry?@|@Dáakw k'ut us?@
+@Are you sick?@|@Dáakw st'i us?@
+@Are you telling the truth?@|@Yank'ein guu dang súu?@
+@Arm@|@Xyáay@
+@Arm muscle@|@Xyáay káw@
+@Ask anyone@|@Kyáanang hlaa@
+@Ask him/her@|@'Láa hl kyáanang@
+@Asking for anything@|@Gináng hlaa@
+@ate@|@táagaan@
+@Baby is crawling around@|@Nang ts'úujuus án tluu'únggang@
+@Baby is drinking@|@Nang ts'úujuus gin nílgang@
+@Back@|@Sgwáay@
+@Back of hand@|@Stláay ún@
+@bark@|@k'uts@
+@bathing@|@gáadanggang@
+@be greedy@|@hlgúujuu@
+@be plenty@|@kwáan@
+@be unable to@|@jagíyaa@
+@be very sick@|@st'i'áwyaa@
+@Bears like berries@|@Táan uu gáan guláagang@
+@Bears like crab@|@Táan uu k'ust'áan guláagang@
+@Bears like fish too@|@Táan uu chíin háns guláagang@
+@beaver@|@Ts'áng@
+@became sick@|@st'igáalaan@
+@Because I'm sick@|@Díi st'is eihl@
+@Big toe@|@St'ak'wáayaa@
+@Black@|@Hlgahls@
+@blue herron@|@k'yaal uu@
+@Blueberries are good to eat@|@Hldáan-gyaa uu táa an 'láagang@
+@Body@|@Hlúu@
+@boiled@|@ts'asláangaan@
+@Bones@|@Skuts@
+@Brain@|@Káts ts'áng@
+@Buttocks@|@Gut@
+@Calf@|@K'yaal káw@
+@Charlie is the one seining@|@Charlie uu aadáang@
+@Cheek@|@Ts'at@
+@Chest@|@Kan@
+@Chin@|@Hl káay@
+@Clams are good to eat@|@K'yúugyaa táa an 'láagang@
+@Come in@|@Káts hláa@
+@coming in@|@kats'áang@
+@cooking@|@kúugaagang@
+@couldn't@|@jagíyaayaan@
+@Count with me@|@Díi ahl k'weiyandaa@
+@Curly hair@|@Kats Ts'ilaa@
+@day@|@sáng@
+@different@|@gut'iláa@
+@Do that@|@'Wáajii isdáa@
+@Do you want some food?@|@Táawk dáng sdahláa?@
+@Dog@|@Xa@
+@drank@|@néilaan@
+@Dried fish is good food@|@Chíin xiláa uu táaw'láa íijang@
+@Ear@|@Gyúu@
+@Eat@|@Táagang@
+@eating@|@gatáagang@
+@Edible bark is good@|@Xikgyáa uu 'laagang@
+@Eight@|@Sdáansaangaa@
+@Eighteen@|@Tláahl wáak sdáansaangaa@
+@Elbow@|@Xik'usíi@
+@elder@|@k'wáayaa@
+@Eleven@|@Tláahl wáak sgwáansang@
+@entering (pl.)@|@ists'áang@
+@eye@|@Xang'ii@
+@Eyebrow@|@Xáng sk'yáats@
+@Eyelashes@|@Xáng hl t'áaguts@
+@Eyelids@|@Xáng un@
+@Father (of a female) is building a boat@|@Tlúugyaa uu hadáa tlaahláang@
+@Father (of a female) is eating seaweed@|@Hadáa uu sgíw táagang@
+@Father (of a female) is picking fish eggs@|@K'áaw uu hadáa isdáang@
+@Father (of a female) is sitting@|@Hadáa k'áw-aang@
+@Father (of a female) will fish on the boat@|@Tluwáay gwaa hadáa xáawsaang@
+@feels cold@|@xwíigang@
+@female breast@|@Tl'ánuu@
+@Fifteen@|@Tláahl wáak tléihl@
+@Fingers-all together@|@Stlak'ángii@
+@finished@|@gíihlgiigang@
+@fish@|@chíin@
+@Fish eggs are delicious@|@K'áawgyaa uu xáwl xusdliyéi@
+@Fish eggs are good food@|@K'áawgyaa uu táaw 'láa íijang@
+@Fish is good food@|@Chíin uu táaw 'láa íijang@
+@Five@|@Tléihl@
+@flew@|@xitgwáangaan@
+@flying@|@xitgáay@
+@focus marker@|@uu@
+@Foot@|@St'áay@
+@Foot sole@|@St'aka'án@
+@for food@|@táawk@
+@Forehead@|@Kul@
+@Four@|@Stánsang@
+@Fourteen@|@Tláahl wáak stánsang@
+@Frank is the one who is in a hurry@|@Frank uu hlkwiidáang@
+@Frankie is sick@|@Frankie st'igáng@
+@From where do people get fish eggs?@|@Gíijiist uu k'áaw tl' isdáang?@
+@Get up@|@K'áahluu hláa@
+@Glands@|@Dláan@
+@Go to sleep@|@K'adii hláa@
+@going to sleep (pl.)@|@k'asdláang@
+@going to sleep (sg.)@|@k'adíigang@
+@Good people@|@Xaada 'láa isis@
+@got full from eating@|@sk'ísdlaayaan@
+@got well@|@'lagáalaan@
+@Grandmother is sewing@|@Náanaa tatl'íigang@
+@Gums@|@Ts'áng K'ul@
+@Haida@|@Xaat Kíl@
+@Hair@|@Kats@
+@Hand@|@Stláay@
+@he@|@'láa, hal@
+@He eat a lot of berries@|@Hldáan kwáan uu hal táagang@
+@He eats a lot of fish@|@Chíin kwáan uu hal táagang@
+@He is chopping wood@|@Kuk íik hal sginanánggang@
+@He is digging@|@'Láa uu hlgáygang@
+@He is fishing@|@'Láa uu xáawgang, Hal xáwgang@
+@He is harvesting@|@'Láa uu tahlgáygang@
+@He is learning@|@'Láa uu gin sk'at'áang@
+@He is listening@|@'Láa uu gyúujuugang@
+@He is lying down@|@'Láa uu dluudáang@
+@He is my brother@|@Díi dáa uu íijang@
+@He is my grandfather@|@Díi chán uu íijang@
+@He is my uncle@|@Díi káa uu íijang@
+@He is playing with a cat@|@Dúujaay eihl uu hal náanggang@
+@He is sailing@|@'Láa uu xukáagang@
+@He is sick@|@'Láa uu st'igáng@
+@He is singing@|@Hal k'ajúugang@
+@He is smiling@|@'Láa uu án dánggiidang@
+@He is thinking@|@'Láa uu gut'gúnggang@
+@he was very sick@|@hal st'i'áwyaagaan@
+@He will build a fire with the wood@|@Kugáay eihl hal ts'áanuusaang@
+@Head@|@Kats@
+@Heart@|@K'úuk@
+@Her baby is a girl@|@Hal git jáadaagang@
+@Hips@|@K'wáay@
+@His wife is happy@|@Hal jáa gudangáay 'láagang@
+@How are you?@|@Gasán uu dáng gíidang?, Sánuu dáng gíidang?@
+@How much?@|@Gíisdluu@
+@How old are you?@|@Gíis dluu dáng tadáay gíidang?@
+@How?@|@Gasán uu, Sán uu@
+@Hurry up or let's go@|@Háakwsdaa@
+@I@|@díi, hl, hláa@
+@I am ____@|@__Janáas uu díi íijang@
+@I am also fine@|@Díi sán 'láagang@
+@I am coming in@|@Hl kats'áang@
+@I am drying some seaweed@|@Sgíw uu hl xiláadaang@
+@I am eating@|@Hláa uu gatáagang@
+@I am from the ___House@|@____duu díi íijang@
+@I am going to sleep@|@Hl k'adíigang@
+@I am happy@|@Díi gudangáay 'láagang@
+@I am knitting@|@Hláa uu taxáygang@
+@I am not fine@|@Gam díi 'láa'angang@
+@I am praying@|@Sanhlgáang hl gúusuugang@
+@I am sad@|@Díi gudangáay st'igáng@
+@I am sewing@|@Hláa uu tatl'íigang@
+@I am singing@|@Hl k'ajúugang@
+@I am sleeping@|@Hláa uu k'adáang@
+@I am the one cooking@|@Hláa uu kúugaagang@
+@I am the one who is going to sleep@|@Hláa uu k'adíigang@
+@I am the one who is sick@|@Díi uu st'igáng@
+@I am thinking@|@Hl gut'gwíinggang@
+@I am walking@|@Hl káa'unggang@
+@I am well@|@Díi 'láagang@
+@I am working@|@Hláa uu hlgángulaang@
+@I am writing@|@Hl tak'áalanggang@
+@I am_____@|@____Laanáas uu díi íijang@
+@I don't want to@|@Díi gwáwang@
+@I got it from the swamp@|@K'algáayst uu hl istgán@
+@I have plenty of wood@|@Kugáay díinaa kwáan-gang@
+@I like octopus@|@Núugyaa díi guláagang@
+@I like to eat bread@|@Sablíi táagei díi guláagang@
+@I like to take a bath@|@Gáadangei díi guláagang@
+@I want some food@|@táawk díi sdahláang?@
+@I will bake some bread@|@Sablíi hl kúugaasaang@
+@I will boil some fish@|@Chíin-gyaa hl ts'aslángsaang@
+@I will boil the fish@|@Chíinaay hl ts'aslángsaang@
+@I will braid my hair@|@Kajáng hl k'índaasaang@
+@I will chop down the tree@|@Kíidaay hl sgik'áasaang@
+@I will clean the house@|@Náay hl tlaskúnaasaang@
+@I will cook some seaweed@|@Sgíw hl kúugaasaang@
+@I will dig some clams@|@K'yúugyaa hl hlgáysaang@
+@I will dry a lot of fish@|@Chíin kwáan hl xiláadaasaang@
+@I will dry fish@|@Chíin hl xiláadaasaang@
+@I will dry some halibut@|@Xákwgyaa hl xiláadaasaang@
+@I will dry some seal meat@|@Xúut ki'íi hl xiláadaasaang@
+@I will dry some seaweed@|@Sgíw hl xiláadaasaang@
+@I will eat an apple@|@K'áygyaa hl táasaang@
+@I will get it for Mother@|@Awáa an uu hl isdáasaang@
+@I will get some edible bark@|@Xikgyáa hl dúusaang@
+@I will get some water@|@Gántlgyaa hl dúusaang@
+@I will go fishing@|@Hláa uu xaw'ínsaang@
+@I will help Father@|@Hadáa-t hl tláaytsaang@
+@I will help Mother@|@Awáa-k hl tláaytsaang@
+@I will salt some fish@|@Chíin hl tangdáasaang@
+@I will sew a dress@|@Hlk'itgáa hl tl'íisaang@
+@I will shell the clams@|@K'yuwáay hl k'ats'íisdaasaang@
+@I will take a bath@|@Hl gáadangsaang@
+@I will take a walk@|@Hl stáwjaawaasaang@
+@I will trap for mink@|@Ts'uwúlkw hl skamdáasaang@
+@I will trap for wolf@|@Gúutsgyaa hl skamdáasaang@
+@I will wash my hair@|@Kajáng hl dlánsaang@
+@I will wash the dishes@|@Kíihlgaay hl dlánsaang@
+@I will whip up some soapberries@|@Xakwtl'íit aa hl xit'asáang@
+@ill@|@st'igáng@
+@I'll see all of you tomorrow@|@Adáahl dláng hl kíngsaang@
+@I'll see you again@|@haws dáng hl kíngsaang@
+@I'll see you tomorrow@|@Adáahl dáng hl kíngsaang@
+@I'm cooking@|@Hl kúugaagang@
+@I'm drinking Hudson Bay tea@|@Xíl kagan uu hl nílgang@
+@I'm eating some meat@|@Kyaa uu hl táagang@
+@I'm feeling low@|@Xíit díi íijang@
+@I'm fine@|@Díi 'láagang@
+@I'm not drying fish@|@gám chíin hl xiláat-'ang@
+@I'm not hungry@|@gám díi k'ut-'ánggang@
+@I'm really telling the truth@|@Yank'ein hl súugang@
+@I'm sick@|@díi st'igáng@
+@I'm the one who is hungry@|@Díi uu k'wíidang@
+@I'm working here@|@Áatl'an uu hlgángulaang@
+@in@|@aa@
+@Inside of head@|@Kats Kaahlii@
+@Inside of stomach@|@Dal@
+@is good@|@'láa'anggang, 'láagang@
+@Is Hudson Bay tea good?@|@Xíl kagankw 'láa us?@
+@is hungry@|@k'wíidang@
+@is in a hurry@|@hlkwiidáang@
+@is sleepy@|@kangáagang@
+@It has sharp needles on it@|@Gíi gin k'i k'áwgang@
+@It is a big oar@|@Áalaang í'waan uu íijang@
+@It is a black bear@|@Táan-gyaa uu íijang@
+@It is a brown bear@|@Xúutsgyaa uu íijang@
+@It is a deer@|@K'áatgyaa uu íijang@
+@It is a dog@|@Xagyáa uu íijang@
+@It is a dog salmon@|@Sk'akgyáa uu íijang@
+@It is a duck@|@Xit'íit uu íijang@
+@It is a fishnet@|@Aatgyáa uu íijang@
+@It is a hook@|@T'áawulgyaa uu íijang@
+@It is a house@|@Nagyáa uu íijang@
+@It is a rock@|@Kwaagyáa uu íijang@
+@It is a seagull@|@Sk'ín-gyaa uu íijang@
+@It is a seal@|@Xúutgyaa uu íijang@
+@It is a star@|@K'aayhlt'áagyaa uu íijang@
+@It is a totem pole@|@Gyáa'aang uu íijang@
+@It is a tree@|@Kíitgyaa uu íijang@
+@It is an egg@|@K'áawgyaa uu íijang@
+@It is full of berries@|@Gáan eihl uu st'aagáagang@
+@It is full of blueberries@|@Hldáan eihl uu st'aagáagang@
+@It is fun to dig clams@|@K'yúu 'wáan-gei gulgáagang@
+@It is good to eat@|@Táa an 'láagang@
+@It is made out of red cedar@|@Ts'úu iist uu tlaawhlgáagang@
+@It is some seaweed.@|@Sgíwgyaa uu íijang@
+@It is the moon@|@Kungáay uu íijang@
+@It is the sun@|@Xuuyáay uu íijang@
+@It's deer meat@|@K'áat ki'íi uu íijang@
+@it's very good@|@'láa áwyaagang@
+@Knee@|@K'ulúu kats@
+@Language Project@|@Xaad Kihl Guusuu@
+@Lay down@|@Tii hláa@
+@leg@|@K'ulúu, k'yaal@
+@less@|@guu@
+@Lips@|@K'ut@
+@looked@|@diyáangaan@
+@made@|@tlaahláayaan@
+@Man@|@Íihlangaa@
+@medicine@|@xíl@
+@Moon@|@Kúng@
+@Mother is cooking@|@Awáa kúugaagang@
+@Mother is drying some seaweed@|@Sgíwgyaa uu awáa xiláadaang@
+@Mother will cook the halibut@|@Awáa xagwáay kúugaasaang@
+@Mother will dry the seaweed@|@Awáa sgíiwaay xiláadaasaang@
+@Mouth-inside@|@Xahlíi@
+@my aunt@|@díi skáan@
+@my brother@|@díi dáa@
+@my child@|@díi git@
+@My child is playing@|@Díi git náanggang@
+@My child is the one singing@|@Díi git uu k'ajúugang@
+@my daughter@|@díi git jáadaas@
+@My daughter is pregnant@|@Díi git dahlgiyáagang@
+@my father@|@díi gung@
+@my father (of a female)@|@díi xáat@
+@My father (of a female) made the oar@|@Díixáat áalaangwaay tlaawhlgán@
+@My father (of a male) is the one smoking fish@|@Díi gung uu táanaang@
+@My father is _____@|@______díi xung uu íijang@
+@My father is _____(female)@|@____díi xaad uu íijang@
+@My father is singing@|@Díi gung k'ajúugang@
+@My father is the one singing@|@Díi gung uu k'ajúugang@
+@my grandchild@|@díi t'ak'an@
+@my granddaughter@|@díi t'ak'an jáadaas@
+@my grandfather@|@díi chan@
+@my grandfather and the children@|@díi chan isgyáan gaagáay@
+@My grandfather is ____@|@_____díi chin uu íijang@
+@My grandfather was ___@|@______díi chin uu íijan@
+@my grandmother@|@díi náan@
+@My grandmother gave it to me@|@Díi náan díik istgán@
+@My grandmother is ___@|@_____díi naan uu íijang@
+@My grandmother is singing@|@Díi náan k'ajúugang@
+@My grandmother was____@|@____díi naan uu íijan@
+@my grandson@|@díi t'ak'an íihlangaas@
+@My hair is long@|@Díi kats jánggang@
+@my husband@|@díi tláal@
+@my mother@|@díi aw@
+@my mother and my grandmother@|@díi aw isgyáan díi náan@
+@My mother is writing@|@Díi aw tak'áalanggang@
+@My mother is_____@|@_____díi aw uu íijang@
+@My name is Joe@|@Joe hínuu díi kya'áang@
+@My name is_____@|@______hín uu díi kya'áan@
+@my nephew@|@díi náat íihlangaas@
+@my nephew or niece@|@díi náat@
+@my niece@|@díi náat jáadaas@
+@my older sibling of the same sex@|@díi k'wáay@
+@my sister@|@díi jáas@
+@my son@|@díi git íihlangaas@
+@My son is the one smoking the fish@|@Díi git íihlangaas uu táanaang@
+@my thoughts@|@díi gudangáay@
+@my uncle@|@díi káa/@
+@my uncle's wife@|@díi káa jáa@
+@my wife@|@díi jáa@
+@My wife is the one who is sick@|@Díi jáa uu st'igáng@
+@my younger sibling of the same sex@|@díi dúun@
+@Neck@|@Xil@
+@Nine@|@Tláahl sgwáansang guu@
+@Nineteen@|@Tláahl wáak tláahl sgwáansang@
+@No@|@Ge'é@
+@No I'm not drying fish@|@Ge'é gám chíin hl xiláat-'ang@
+@Nose@|@Kún@
+@not@|@gám@
+@Now@|@'Wáayaat@
+@Octopus is good to eat@|@Núugyaa uu táa an 'láagang@
+@Oh really?@|@Yank'ein gwaa@
+@on top@|@un@
+@One@|@Sgwáansang@
+@Our aunt is in a hurry@|@Íitl' skáan hlkwiidáang@
+@Our aunt is the one who feels cold@|@Íitl' skáan uu xwíigang@
+@our child@|@íitl' git@
+@Palm of hand@|@Stlak'áan@
+@Paul's wife@|@Paul jáa@
+@people@|@tl', tl'áa@
+@people (in general)@|@tl'áa@
+@People are singing@|@Tl' k'ajúugang@
+@People are well@|@Tl' 'láagang@
+@People catch fish with a net@|@Chíin uu aat eihl tl' isdáang@
+@People get fish eggs from the herring@|@Íinaang-st uu k'áaw tl'isdáang@
+@People use it in a canoe@|@Tlúu gwaa uu tl' gya'ándaang@
+@planting a garden@|@táwk'aang@
+@playing@|@náanggang@
+@Raven@|@yáahl@
+@Raven got sick@|@Yáahl uu st'igáalaan@
+@Red@|@Sgíidang@
+@rested@|@sáanjuudaayaan@
+@Sea cucumbers look different from one another@|@Gut iláa yáanuu xangáagang@
+@see me again@|@háws hl díi kíng@
+@seining@|@aadáang@
+@Seven@|@Jagwaa@
+@Seventeen@|@Tláahl wáak jagwaa@
+@Shadow@|@Xants@
+@she@|@'láa, hal@
+@She is a good babysitter@|@Hal git káyts'iit gáayaagang@
+@She is babysitting@|@Hal git káyts'iidang@
+@She is crying@|@'Láa uu sgáyhlaang@
+@She is eating@|@'Láa uu gatáagang@
+@She is laughing@|@'Láa uu k'ahgán@
+@She is my aunt@|@Díi skáan uu íijang@
+@She is my older sister (female)@|@Díi k'wáay uu íijang@
+@She is my younger sister@|@Díi dúun uu íijang@
+@She is packing her baby@|@Git'áang hal dlagánggang@
+@She is planting@|@'Láa uu táwk'aang@
+@She is sitting down@|@Hal k'áw-aang@
+@she is the one cooking@|@'Láa uu kúugaagang@
+@she is the one who feels cold@|@'Láa uu xwíigang@
+@She is walking@|@'Láa uu káa'unggang, Hal káagang@
+@She is washing dishes@|@Káyhlgaa hal dlán-gang@
+@she is well@|@Hal 'láagang@
+@She likes fried bread@|@Sablíi gaalángaa hal guláagang@
+@She will fry some bread@|@'Láa uu sablíi gaaláangsaang@
+@Shin bone@|@Skuts tl'ijuwaay@
+@Shoulder@|@Skál@
+@Side of face@|@K'ánts'at@
+@simply@|@hingáan@
+@singing@|@k'ajúugang@
+@Sit Down@|@K'áw hláa@
+@Sixteen@|@Tláahl wáak tla'únhl@
+@Skeleton-animal@|@Gin tíiga skuts@
+@Skeleton-human@|@Xaat'áa skuts@
+@Skin on face@|@Xang k'al@
+@Skin-of anything@|@K'al@
+@Skull@|@Kats skuts@
+@smoking fish@|@táanaang@
+@So then he just rested@|@Wáadluu hingáan an sáanjuudaan@
+@Soapberries are red@|@Xakwtl'íit sgíidang@
+@Soapberries taste good@|@Xakwtl'íit xáwlaang@
+@Some anchors are big@|@T'áahlaay t'íits í'waandaang@
+@Some anchors are small@|@T'áahlaay t'íits ts'úudalaang@
+@Some are red@|@T'íits sgíidang@
+@Some are white@|@T'íits gadáang@
+@Someone who likes to gossip@|@Guusuwáa@
+@spherical thing@|@sk'áswan@
+@Stand up@|@Gyáa hláa@
+@Sun@|@Juuyáay@
+@Take good care of yourself@|@Dámaan agang hl kínggang@
+@Take good care of yourselves@|@Dámaan agang hl kíngwang@
+@Take half of this@|@Áajii inwáay hl isdáa@
+@Take this@|@Áajii hl isdáa@
+@taking a bath@|@gáadanggang@
+@Tears@|@Xang Xaw@
+@Ten@|@Tláahl@
+@Thank you@|@Háw'aa@
+@That's fine or that's good@|@Huu 'láagang@
+@that's why@|@ahljíihl@
+@The basket is nice to look at (pretty)@|@Kigwáay kyahtsgat 'láagang@
+@The baskets are pretty@|@Kigwáay kyahtsgat 'láagang@
+@The bear cubs are hungry@|@Táanaay gíit'ii k'wíidang@
+@The bread tastes good@|@Sablíigaay xáwlaang@
+@The broom is big@|@Hlk'yáawdaalwaay í'waan-gang@
+@The canoe is big@|@Tluwáay uu í'waan-gang@
+@The chair is small@|@Guhlga'áangwaay ts'úujuugang@
+@The chair is white@|@Guhlga'áangwaay gadáang@
+@the children@|@gaagáay@
+@The children are sick@|@Gaagáay st'igáng@
+@the creek@|@gándlaay@
+@The cup is small@|@Sk'atl'áangwaay ts'úujuugang@
+@The dog is eating@|@Xáay uu gatáagang@
+@The dress is blue@|@Hlk'itgáay guhlálgang@
+@The dress is pretty@|@Hlk'itgáay kyahtsgat 'láagang@
+@The duck is flying@|@Xit'adáay xíidang@
+@The fishhok is sharp@|@T'áawulaay uu k'igáng@
+@The gas boat is fast@|@Ts'áan tluwáay xangaláang@
+@The gas boat is red@|@Ts'áan tluwáay sgíidang@
+@The girl is walking up the stairs@|@Nang jáadaas uu sáa-k kahláang@
+@the man@|@nang íihlangaas@
+@The man is eating@|@Nang íihlangaas gatáagang@
+@The man is running@|@Nang íihlangaas dlayáandaalgan@
+@The man is tall@|@Nang íihlangaas ts'uwiijáñgang@
+@The man is the one coming in@|@Nang íihlangaas uu kúugaagang@
+@the man's wife@|@nang íihlangaas jáa@
+@The meat tastes good@|@Kya'áay k'utsgat 'láagang@
+@the men@|@íihlaants'daay@
+@The pencil is red@|@K'áalaangwaay sgíidang@
+@The porpoise like to play@|@Skuláay náanggei guláagang@
+@The raven is black@|@Yáalaay hlgálgan@
+@The raven is flying@|@Yáalaay xíidang@
+@The seal is eating@|@Xúudaay gatáagang@
+@The seaweed is black@|@Sgíiwaay hlgálgang@
+@The starfish is good for fertilizer@|@Chánxaa an sk'áamaay 'láagang@
+@The tree is tall@|@Kíidaay jánggang@
+@the woman@|@nang jáadaas@
+@the woman and Lenny@|@nang jáadaas isgyáan Lenny@
+@The woman is sick@|@Nang jáadaas st'igáng@
+@the women@|@jaatgáay@
+@The women are the ones who are sleepy@|@Jaatgáay uu kangáagang@
+@The world is big@|@Hlanggwáy tlagáay í'waang-gang@
+@their child@|@hal git@
+@then@|@'wáadluu@
+@Then he made some medicine@|@'Wáadluu xíl hal tlaahláayaan@
+@There are different kinds of fish@|@Gut iláa chíin-gyaa íijang@
+@These are blueberries@|@Hldáan-gyaa uu íijang@
+@These are fish eggs@|@K'áawgyaa uu íijang@
+@These are some skookum roots@|@Gwáayk'aagyaa uu íijang@
+@These are some soapberries@|@Xakwtl'íitgyaa uu íijang@
+@These are spruce roots@|@K'áang k'úl uu íijang@
+@Thigh@|@Tíl@
+@Thirteen@|@Tláahl wáak hlgúnhl@
+@This is a basket@|@Kikwgyáa uu íijang@
+@This is a berry basket@|@K'íit'aasgyaa uu íijang@
+@This is a blanket@|@Gínt'asgyaa uu íijang@
+@This is a brailer@|@Xatúugyaa uu íijang@
+@This is a broom@|@Hlk'yáawdaalw uu íijang@
+@This is a canoe@|@Tlúugyaa uu íijang@
+@This is a chair@|@Guhlga'áangw uu íijang@
+@This is a clam@|@K'yúugyaa uu íijang@
+@This is a crab@|@K'ust'áan-gyaa uu íijang@
+@This is a cup@|@Sk'atl'áangwgyaa uu íijang@
+@This is a dress@|@Hlk'itgáagyaa uu íijang@
+@This is a fish@|@Chíin-gyaa uu íijang@
+@This is a fishhook.@|@T'áawulgyaa uu íijang@
+@This is a gas boat@|@Ts'áan tluwáay uu íijang@
+@This is a girl@|@Nang jáadaa uu íijang@
+@This is a halibut@|@Xakwgyáa uu íijang@
+@This is a man@|@Nang íihlangaa uu íijang@
+@This is a needle@|@Stlán-gyaa uu íijang@
+@This is a paper bag@|@Kugíin gwáahl uu íijang@
+@This is a pencil@|@K'áalaangwgyaa uu íijang@
+@This is a porpoise@|@Skúlgyaa uu íijang@
+@This is a raven@|@Yáahl uu íijang@
+@This is a red cedar tree@|@Ts'úugyaa kíidaay uu íijang@
+@This is a sea cucumber@|@Yáanuugyaa uu íijang@
+@This is a sea urchin@|@Stáwgyaa uu íijang@
+@This is a smokehouse@|@Táanaa náay uu íijang@
+@This is a starfish@|@Sk'áamgyaa uu íijang@
+@This is a wooden brailer@|@Xut'úugyaa uu íijang@
+@This is an abalone@|@Gúlaagyaa uu íijang@
+@This is an adze@|@Xat'áagyaa uu íijang@
+@This is an alder tree@|@Kálgyaa uu íijang@
+@This is an anchor@|@T'áahlgyaa uu íijang@
+@This is an axe@|@K'yúutl'ajaawgyaa uu íijang@
+@This is an iron@|@Tak'íinaan uu íijang@
+@This is an oar@|@Áalaang uu íijang@
+@This is an octopus@|@Núugyaa uu íijang@
+@This is an ooligan@|@Sáawgyaa uu íijang@
+@This is cedar bark@|@Giit uu íijang@
+@This is my____(body)@|@Díi uu íijang@
+@This is some edible bark@|@Xikgyáa uu íijang@
+@This is the world@|@Hlanggwáay tlagáay uu íijang@
+@Three@|@Hlgúnahl@
+@Throat-inside@|@Kagánjuu@
+@Thumb@|@Stlak'wáay@
+@to@|@an@
+@To lie@|@Kihlgadáng@
+@Toes-all together@|@St'ak'ángii@
+@Tongue@|@T'áangal@
+@Top of head@|@Tl'aats@
+@tree@|@k'íit@
+@Twelve@|@Tláahl wáak sdáng@
+@Twenty@|@Tláalaay sdáng@
+@Two@|@Sdáng@
+@Wait@|@K'waay@
+@was very sick@|@st'i'áwyaagaan@
+@Watch me@|@Díi aahl gats'aa@
+@Water@|@Gántl@
+@we@|@íitl', t'aláng@
+@We are coming in@|@T'aláng ists'áang@
+@We are singing@|@T'aláng k'ajúugang@
+@We are the ones cooking@|@T'aláng uu kúugaagang@
+@We are the ones who are sleepy@|@Íitl' uu kangáagang@
+@We are well@|@Íitl' 'láagang@
+@We're working@|@T'aláng hlgánggulaang@
+@What are you drinking?@|@Gúusuu dáng nílgang?@
+@What are you drying then?@|@Gúus tl'aa dáng xiláadaang?@
+@What are you eating?@|@Gúusuu dáng táagang?@
+@What color is seaweed?@|@Sán uu sgíw xanáagang?@
+@What else is Father (of a female) doing?@|@Gúus háns hadáa isdáang?@
+@What is Baby doing?@|@Gúus uu nang ts'úujuus isdáang@
+@What is Father (of a female) doing?@|@Gúus uu hadáa isdáang?@
+@What is Grandmother doing?@|@Gúus uu náanaa isdáang?@
+@What is Mother doing?@|@Gúus uu awáa isdáang?@
+@What is she doing?@|@Gúus uu hal isdáang?@
+@What is the deer doing?@|@Gúus uu k'áadaay isdáang?@
+@What is the dog doing?@|@Gúus uu xáay isdáang?@
+@What is the duck doing?@|@Gúus uu xit'adáay isdáang?@
+@What is the seal doing?@|@Gúus uu xúudaay isdáang?@
+@What is this girl doing?@|@Gúus uu nang jáadaas isdáang?@
+@What is this?@|@Gúusgyaa uu íijang?@
+@What kind of meat is this?@|@Sán kyaa git uu íijang?@
+@What?@|@Gúus uu@
+@What's your name?@|@Sánuu dáng kya'áang?@
+@When?@|@Gíisand uu@
+@Where are you working?@|@Tl'áanuu dáng hlgángulaang?@
+@Where did you get it?@|@Gíijiist uu dáng isdáayaa?@
+@Where is your _______?@|@Gitl'áan uu dáng íijang?@
+@Where?@|@Gitl'aan úu, Tl'áan uu@
+@White@|@Gadáang@
+@Who (one person) is singing?@|@Gíist uu k'ajúugang?@
+@Who (pl.) is coming in (pl.)?@|@Gíisgaay uu ists'áang?@
+@Who (pl.) is coming in (sg.)?@|@Gíisgaay uu kats'áang?@
+@Who (pl.) is going to sleep?@|@Gíisgaay uu k'asdláang?@
+@who (pl.)?@|@gíisgaay@
+@Who (sg.) is coming in (pl.)?@|@Gíist uu ists'áang?@
+@Who (sg.) is coming in (sg.)?@|@Gíist uu kats'áang?@
+@Who (sg.) is going to sleep?@|@Gíist uu k'adíigang?@
+@Who (two or more people) is singing@|@Gíisgaay uu k'ajúugang?@
+@Who gave it to you?@|@Gíist uu dángk isdáayaa?@
+@Who is smoking the fish?@|@Gíist uu táanaang?@
+@Who is this?@|@Gíist uu íijang?@
+@who?@|@gíist@
+@Who?@|@Giist úu?@
+@Why are you drinking it?@|@Sántl'aa dáng nílgang?@
+@Why?@|@Gasántlaa uu, Sántlaa uu@
+@Woman@|@Jáadaa@
+@working@|@hlgánggulaang@
+@Write it@|@K'áalang hláa@
+@writing@|@tak'áalanggang@
+@y'all@|@daláng@
+@Y'all are singing@|@Daláng k'ajúugang@
+@Y'all are the ones cooking@|@Daláng uu kúugaagang@
+@Y'all are the ones who are hungry@|@Daláng uu k'wíidang@
+@Y'all are well@|@Daláng 'láagang@
+@y'all's child@|@daláng git@
+@Yellow@|@Kuntlutl@
+@Yes@|@Áang@
+@Yes it's very good@|@Áang 'láa áwyaagang@
+@Yes see me again@|@Áang háws hl díi kíng@
+@you@|@dáa, dáng@
+@You are singing@|@Dáng k'ajúugang.@
+@You are the one cooking@|@Dáa uu kúugaagang@
+@You are the one who is in a hurry@|@Dáng uu hlkwiidáang@
+@You are well@|@Dáng 'láagang@
+@You do it@|@Dáakw hl isdáa@
+@You too@|@Dáng sán@
+@your child@|@dáng git@
+@Your sister is sleepy@|@Dáng jáas kangáagang@
+

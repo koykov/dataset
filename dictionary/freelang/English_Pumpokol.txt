@@ -1,0 +1,360 @@
+@English@|@Pumpokol@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a k. of fish@|@len@
+@alder@|@šujgin@
+@alive@|@atie, ätie, átodu, etgeg@
+@arm@|@qínang@
+@armour@|@jexat@
+@army@|@kel@
+@arrow@|@damóng tim, timym@
+@ashes@|@finang, finnang, phinang@
+@autumn@|@kute@
+@back@|@akop, qop@
+@backwards@|@ogoš, tuk@
+@badly@|@sel, selem, selem@
+@bat@|@dágo-úte@
+@be without hearing@|@atpifunãkng@
+@bear@|@kibä, kip, qip, xánki@
+@beard@|@koólep, korürub, xlépuk@
+@beaver@|@kurpäs@
+@belly@|@phorga@
+@below@|@xamartu@
+@berry@|@šulpä@
+@big@|@berga-, bergar-, xääse, xaese, xäese, xeem@
+@birch@|@uta@
+@bird@|@išila-@
+@birdcherry@|@pa@
+@bitch@|@pin-bilšaba, pinbilšaba@
+@blackly@|@túma, tüma@
+@bladder@|@leo-xóxar@
+@blood@|@sur@
+@blue@|@bis, itima@
+@boat@|@taj, tyg@
+@boots@|@qísyng@
+@bow-string@|@kej-tu@
+@boy@|@bi-kal, falla, phálla@
+@branch@|@kéding jaxi@
+@breast@|@apijen, phiáng, tike@
+@brother@|@amagel, bamagál@
+@bubble@|@leo-xóxar, ólau@
+@burning coal@|@kuburúng@
+@calf@|@tugal@
+@cedar@|@im-phaj, py@
+@cheek@|@pindalin@
+@cheeks@|@by-qolong, byqolung@
+@chicken@|@išila-kelä@
+@child@|@alpolát, kalqóna, kalqóna, ol-polat, xilúngla@
+@chin@|@pinét, pinzhal@
+@circle@|@fylym@
+@clay@|@tu, tubúrun, tuburung, tülpenem@
+@clothes@|@kaj, kal, qaj@
+@cloud@|@esperang@
+@coal@|@búchkete@
+@cold@|@sólonga@
+@coldly@|@šilt, šiltü@
+@comb@|@ten@
+@cow@|@tügal, tüja@
+@crane@|@kem@
+@crookedly@|@kamaringa@
+@cross-bow@|@kaj, koi, qoj@
+@crucian@|@sãt@
+@cunnus@|@ken, lat@
+@darkly@|@bonosot-xomšümä, kónchidin@
+@daughter@|@akelä, bikala@
+@daughter-in-law@|@bonä@
+@day@|@ha, xang?gachedin@
+@deer@|@sálat, sin, xáju@
+@depth@|@fozbag@
+@devil@|@lycy, lycy@
+@dew@|@kurlo@
+@directly@|@tedenga@
+@dirt@|@tyk@
+@dog@|@ílchap, ilchep@
+@door@|@ejt'ol, ejt'ol, ejtol, ejtol, éjtol, éjtöl, éjtöl, elxan, élxan, itel@
+@dry@|@ich-kój-nga, qoija@
+@duck@|@ban, pona, ponä, punä@
+@ear@|@átkin, uskuj, utqönong@
+@ears@|@utkenóng@
+@earth@|@bing, pem, peng, pieng@
+@egg@|@ang, tanáng@
+@eggs@|@agen@
+@eighty@|@kina-manchau thüng@
+@elbow@|@karam-pat@
+@elder sister@|@akil@
+@eleven@|@koo-kinä, kova@
+@elk@|@oka-ši, okä-ši, oqaj-ši@
+@embouchure@|@hütn, hütnang@
+@ermine@|@kuleb, kulep@
+@evening@|@bich-idin, pis@
+@eye@|@dat, ti-eng@
+@far@|@pata@
+@father@|@ab, ajap, bap, ipa@
+@father-in-law@|@apati@
+@fatly@|@ki@
+@feather@|@isen@
+@feet@|@pil@
+@field@|@ála, eol, kaba, kaba, qabi, qiabi@
+@fifteen@|@qoa-kala@
+@finger@|@tlghyn@
+@fingers@|@qólpas, tok@
+@fir@|@istigen, phaj-da, phajda@
+@fire@|@buch, kot, kõt, qot, qott@
+@firewood@|@oo@
+@fir-tree@|@kongongho, kongongho@
+@fish@|@gíte, híte, íl-ti, ilta, ilti@
+@fisher net@|@pen@
+@five@|@kala, qaga, qala, xala, xej-lang@
+@foot@|@apil@
+@footwear@|@kyzin@
+@forehead@|@upusyr@
+@forest@|@ena-háj@
+@four@|@cía-ng, šaga, šaja@
+@frog@|@kere@
+@frost@|@šiltu, solma@
+@gad-fly@|@šun@
+@girl@|@biqala, pí-kola@
+@God@|@ech, eg@
+@good@|@bergar-yktu, ekte-ket, ektem@
+@goose@|@sam, samran, xam@
+@grass@|@chüju, jújung@
+@grasshopper@|@lamši, lamxuja@
+@green@|@itimatko, kómulsi, kómulzi@
+@greyly@|@tümä@
+@gun@|@kede-düm@
+@hail@|@polpiéng, xoxdámon@
+@hair@|@qagang, xynga@
+@half@|@qubur-, qubur-saj, qurbur-, qurbur-saj@
+@hand@|@phiaga, upega@
+@hardly@|@berik sagara@
+@hare@|@but, saj-pich@
+@hat@|@taj-s, teu, tügn@
+@haunch@|@an@
+@hawk@|@kak, xagám-kolka@
+@hay@|@chüinboson@
+@he@|@á-du, au, xa-tu@
+@head@|@ke-dake, kolka, kolkã@
+@heart@|@pfu@
+@heat@|@kuburung@
+@heavily@|@šoga@
+@heel@|@ižegen@
+@height@|@birchoj@
+@high@|@barchoj, tokar-du@
+@hole@|@kan@
+@hoof@|@kalys@
+@horse@|@kus@
+@hot@|@kúši, útty-chidín, uttychi@
+@hotness@|@pentu@
+@house@|@hu, hu-kút, kus@
+@how@|@bižg@
+@hundred@|@útamsa@
+@hunger@|@kogodinko, xagdi-din, xaldi-din@
+@hungry@|@qogat@
+@husband@|@kintej@
+@husk@|@iltegu@
+@I@|@ä, ad, aj@
+@I beat@|@ajete@
+@I buy@|@kobolsom@
+@I condone@|@türenkem@
+@I cut@|@it-päk-uju@
+@I forget@|@anchi-gytpuju@
+@I give@|@koja-penä@
+@I hear@|@utäutü-m@
+@I laugh@|@jai-chi-du, sója-keang@
+@I live@|@akume@
+@I make@|@ša-pi-te@
+@I search@|@unagutu@
+@I see@|@ja-xa-ldi, ja-xa-ldi@
+@I sell@|@ulkobu@
+@I sing@|@arabidu@
+@I sit@|@akum@
+@I sleep@|@áqodong, kuspaja@
+@I smell@|@ban-tibi-tälim@
+@I stick into@|@tontasala@
+@I think@|@anypänun@
+@I throw@|@s-og-ontem@
+@I wait@|@uapüte@
+@I weep@|@äšinang, chíin-du, esende@
+@in front@|@ójgaj@
+@intestine@|@šintrun@
+@intestines@|@kang, šodorong@
+@iron@|@ag, tep@
+@is white@|@tama@
+@kettle@|@a-tin@
+@knee@|@patas@
+@knife@|@togon, ton@
+@lake@|@dánning, kur-tú, kur-tük@
+@larch@|@chit, tšit@
+@leaf@|@ipóng, xógon-dypun@
+@legs@|@aning@
+@life@|@atje@
+@light@|@xeg, xog, xok@
+@lightly@|@tütelä@
+@lip@|@diana, e-tán, pingáing@
+@lips@|@pynej@
+@liver@|@sal@
+@long@|@u-ta@
+@lord@|@berkekej, bikhej, birkej@
+@low@|@fidam-du, xámartu@
+@lungs@|@šišali@
+@male dog@|@araulšeb@
+@man@|@pa-nalikip@
+@manus@|@ton@
+@mare@|@kut, pinü-kuche, pinü-kuche, qus, quše@
+@meat@|@is, iži@
+@midge@|@sün@
+@midnigh@|@tú-töl@
+@milk@|@den, téngul@
+@mittens@|@koro-nun@
+@month@|@ešhuj, išuj@
+@moon@|@éšuj, tuj@
+@morning@|@cyl-paga@
+@mosquito@|@usläp@
+@mother@|@ajame, am, amä, bama@
+@mountain@|@kar, kónnong@
+@mouse@|@úte@
+@mushroom@|@pen-betu@
+@my@|@bi-@
+@my servant@|@bi-pas, bi-pašša@
+@name@|@i@
+@neck@|@pemä@
+@needle@|@in@
+@nephew@|@amagildu, mamagil@
+@nest@|@išila-kejchi@
+@niece@|@mamagili@
+@night@|@saj, tech, tõl@
+@nine@|@kusamanchau@
+@noon@|@túha@
+@nose@|@árquj, hang@
+@not@|@a-mút, amut@
+@not long ago@|@hönang@
+@not loud@|@kuncho@
+@now@|@en'@
+@nut@|@im@
+@one@|@khuzej, kuisa, kus-ket, qúsej, xúta@
+@owl@|@phié@
+@penis@|@kutte, poš@
+@perch@|@tóu@
+@person@|@k'it, kit, qit@
+@pike@|@kódu, kuj, quj@
+@pine@|@aja@
+@rain@|@kur, kuraasa, ur-áit, ur-it, ures@
+@red@|@tgura, túlsi, túlzi, türa@
+@redly@|@tula@
+@ring@|@tãdap@
+@river@|@ikai, sat, tatang, töm, xang@
+@road@|@kat, koat, kol-kut, kut@
+@roe@|@ujnún@
+@root@|@keding, kéding, tëmbirang, tëmbirgang, tenbir@
+@rotten@|@bar-oje@
+@rowan berry@|@šulbo@
+@sable@|@hijú@
+@saddle@|@oxor@
+@sand@|@pínning, tanen@
+@sea@|@pachá-in, pachá-ul@
+@seed@|@chüinurlga, chüinurlyga@
+@seven@|@ón'ang, una, yn'a@
+@seven days@|@un-jink@
+@seventeen@|@qoa-ún'a@
+@sharply@|@etykup@
+@ship@|@jasoru@
+@short@|@kamara@
+@shoulder@|@xin, xinang@
+@sister@|@bamagalã, bamagel, bamagel, bich@
+@sit@|@tyt-kódu@
+@six@|@aggang ögga, ággiang, ege, yga@
+@sixty@|@ög-thüng, uj-tung@
+@sky@|@ech, ejš parang, es, eš@
+@slave@|@pas@
+@sleigh@|@cel, šal@
+@small@|@fynem, kalhona, xilungdu@
+@smoke@|@dúkar, tu@
+@snake@|@ankoj@
+@snow@|@bech, te, të, te-ustna, tyg@
+@softly@|@puma@
+@son@|@akel, bikál, fala, falla, phála@
+@son-in-law@|@b-än, biba, bibacha, bibpa@
+@soon@|@aty@
+@source@|@tájal@
+@spear@|@kus@
+@spleen@|@tabre@
+@spoon@|@hápi, kylphan@
+@spring@|@atékul, kej@
+@spruce@|@dýne, tin@
+@squirrel@|@sava, sova, tak, žoua@
+@star@|@il-koj, ilkoj, ilxok, káken@
+@steed@|@kus@
+@sterlet@|@ot@
+@stone@|@chys, kes, kit@
+@storm@|@chibaj, chiebaj@
+@strawberry@|@sülpe, túrchari@
+@stump@|@teksulchi@
+@sturgeon@|@hek@
+@summer@|@šil@
+@sun@|@ega, éga, éja, hixem, xagaly@
+@superior@|@kej@
+@swamp@|@laj@
+@sweetly@|@kulun-pala@
+@tail@|@isbugej, phugáj@
+@take@|@kasna@
+@ten@|@hioga, qoa, xajáng, xajjang@
+@there is not@|@bon@
+@they@|@itang@
+@thirty@|@tün-tüga@
+@thou@|@au, úe@
+@thousand@|@kog-jus, qo-jus@
+@three@|@dónga, tentä, tentär, tonga, tunga, tünga@
+@throat@|@u-kurij@
+@to be silent@|@hiti-fún, hitifún@
+@to drink@|@hokoj@
+@to eat@|@šau, sogo@
+@to give@|@koja-pena@
+@to go@|@bulún, dangkájkit, únkut@
+@to sing@|@ichir@
+@to sleep@|@axot, kus, útu, xotyk@
+@to sow@|@kónchadin, pis@
+@to speak@|@kalú, qedylchi@
+@to stand@|@icha-@
+@to stick into@|@d-ont-gyn@
+@today@|@ingni@
+@tongs@|@tep, tëp@
+@tongue@|@aj, álap, elep@
+@tooth@|@itin@
+@top of tree@|@aša-pok@
+@tree@|@hóxon, kus-ošche, otšil@
+@tribute@|@ma@
+@trousers@|@hep, kot, qot, xep@
+@twenty@|@kin-tüga, kin-tung, qin-thjung, qin-thjüng@
+@two@|@híneang, kin, kinä, kína, nineang@
+@very@|@berga, bergar@
+@vessel@|@kultëj@
+@warmly@|@kuzetü@
+@water@|@kul, ul@
+@we@|@ádyng, aing@
+@weak@|@t-erma@
+@week@|@-jing:, ji, un-jing@
+@wetly@|@kur, kuräba, tujem, urga@
+@white@|@tam-xo, tãma@
+@whitely@|@tamo@
+@wife@|@biqam-al, biqam-álte, byqam álte, ilsém, ilzem, kekm-elte@
+@wild goat@|@au@
+@willow@|@tal-set@
+@wind@|@baj, paj@
+@window@|@dámkuk, timkuj, timquj@
+@wing@|@lan-puj, lan-tüng@
+@winter@|@lot'@
+@with dissimilation@|@hõng-ang@
+@wolf@|@kot, kut, küt, xótu@
+@wolverine@|@kun, phjástap@
+@woman@|@biqam-álte, byqam-álte@
+@wood@|@ošche, otši@
+@wood devil@|@lytys@
+@wool@|@išila-igy@
+@yard@|@kun-kus@
+@year@|@ciku, šhej@
+@yellow@|@ittima, túl-si@
+@Yenisey@|@jikhuj@
+@yesterday@|@kanzhi, qánzhi@
+@you@|@ajang@
+@young@|@katygast@
+

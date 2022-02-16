@@ -1,0 +1,2812 @@
+@English@|@Yoruba@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a@|@enikan, kan@
+@a little@|@dí@
+@a name@|@òjó@
+@abandon@|@fí sílê, kõ sílê@
+@abbreviation@|@àkékúrú, àkõmõnà, ìgékúrú, ìÿëkù@
+@abdomen@|@ikùn@
+@abduction@|@àgbésálô, ìrélô@
+@aberration@|@àsìse@
+@abide@|@dè@
+@ability@|@agbára, óye@
+@ablaze@|@gbiná, jó-wòwò@
+@able@|@lágbára, le@
+@abnormal@|@àbàmì, ÿàÿèjì@
+@aborigine@|@ômô-ìbílê, onílê@
+@abortion@|@ìÿënú, ìÿëyún, ÿíÿë oyún@
+@about@|@létí, ní pasê, nípa ti, nítòsí, yíká@
+@above@|@ga jùlô, lérí, põ jìlô@
+@abroad@|@dálê, kale, lëhìn odi, lóde@
+@abrupt@|@láìmõtëlê, lójijì@
+@abscess@|@àléfö, eéwo, ìkójopõ, ôyún@
+@absence@|@àìsi, plé@
+@absent@|@kò sí, kò wá, ÿàìwá@
+@absolutely@|@pátápátá@
+@abstract@|@àfòyemõ@
+@absurd@|@ÿàìbögbönmu@
+@abundance@|@õpõ@
+@abundant@|@jiwinni, löpõlôpõ@
+@abuse@|@àbùkù, èébu, ìlò lönà àìtö, ìlòkulò@
+@abusive@|@èébú, ti èébú@
+@academic@|@àjemö akadá@
+@academy@|@ilê êkö gíga, ilé êkö ìjìnlê@
+@acceleration@|@àyára@
+@accelerator@|@ohun ìmúyára@
+@accent@|@àmì ohùn@
+@acceptable@|@gbígbà, títëwögbà@
+@acceptance@|@ìtëwögbà@
+@access@|@àyè, õnà@
+@accessible@|@fún láyè@
+@accessories@|@àwôn èròjà@
+@accessory@|@èròjà@
+@accident@|@àdébá, àgbákó, bá, èÿì, já@
+@accidental@|@bá, jà, kíkàgbákò@
+@accidentally@|@láìròtëlê@
+@accomodation@|@àyè, ilé gbígbé@
+@accompaniment@|@àjôrìnpõ, ìbánikëgbë@
+@accompany@|@bá, bá-këgbë, bá-lô, bá-rìn@
+@accomplish@|@ÿe-tán, ÿe àÿepé, ÿe parí@
+@accomplishment@|@àÿetán, ìÿeparí, ìÿepé@
+@according@|@bí, gëgëbí  (gë-gë bí)@
+@accordingly@|@bëê gëgë, nítorínáà@
+@accordion@|@dùrù  àfôwölé, dùrù àfôwötê@
+@account@|@àlàyé, àlàyé, ìkàsí, ìÿirò, owó àpamö@
+@accountable@|@dálëbi, ÿe ìkàsí@
+@accountant@|@akõwé owó, oníÿirò@
+@accrue@|@dá-lé, èlé, èrè@
+@accumulate@|@dá-lé, kójô@
+@accumulation@|@àdálé, àkànmö, ìkójôpõ@
+@accuracy@|@ìÿedédé, ìÿegëgë@
+@accurate@|@dédé, pé, ÿánsán@
+@accure@|@dá-lé, èlé, èrè@
+@accusation@|@êsùn, ìbáwí, ìfisùn@
+@accusative@|@irú èlò gírámà kan@
+@accuse@|@fisùn, kà sí lörùn@
+@accused@|@arúfin@
+@ache@|@fí-fö, ríro@
+@achieve@|@ÿe-parí, ÿe-tán@
+@achievement@|@àÿeparí, àÿetán, oríre@
+@acid@|@kan, kíkan, mú@
+@acknowledge@|@gbà, jêwö@
+@acknowledgement@|@gbígbà ìjúbà, ìjêwô@
+@acne@|@eéwo êrêkë@
+@acorn@|@ìrúgbìn igi óákù@
+@acquaint@|@báló bíi ojúlùmõ, fi-hàn, mú-yé, sô-fún@
+@acquaintance@|@ìfihàn ojúlùmõ, õrë@
+@acquire@|@dé ibê, jèrè, rà@
+@acquisition@|@èrè, ohun ìní@
+@acquit@|@dá láre, dásílê, jö-löwö@
+@acquittal@|@ìdáláre, ìdásílê, ìjõlöwö@
+@acrobat@|@alágèéré, eléré ìtàkìtì@
+@acrobatics@|@eré ìtàkìtì@
+@across@|@láti êgbë kan dé èkejì, níbubu, rékôjá lórí@
+@act@|@ìÿe, ÿeré@
+@action@|@ìpè-lëjö, ìwà, ìÿe@
+@active@|@lakanloju, lápôn, nítara, yára, ÿìÿe ÿaápôn@
+@activist@|@alámúÿe@
+@activity@|@aápôn, akán, àmúÿe-iÿê ìyára, àmúÿêÿe@
+@actor@|@òÿeré@
+@actress@|@eléré, òÿeré@
+@actual@|@àtôwödá, gangan@
+@actually@|@gan-an, nítòótö, pàápàá@
+@acunpuncture@|@ìfi abërë gún ní lára, irú ìwòsàn ìlù ìwõ- oòrùn@
+@acute@|@lóró, mímú le@
+@adamant@|@lórí-kunkun, ní dandan@
+@adapt@|@mú bádögba, mú ye@
+@adaptable@|@ní mímúye@
+@adapter@|@alámùúye, ohun tí mú bádögba@
+@add@|@bùkún, bùsí, fi-sí, fikún, ròmö@
+@add to this food@|@bù sí oúnje yìí@
+@add two plus two@|@ro eéjì põ mö eéjì@
+@addict@|@enití ó fëràn ñýkan láfêëjù@
+@addiction@|@àfësódì, ìfë ìpanilára, ìfëkúfêë@
+@addition@|@àrolu, àròpõ, ìfikún, ìròpõ, ìÿirò@
+@additional@|@àfikún, rírolu, ríròpõ@
+@additive@|@àfikún, àlùmö@
+@addled@|@g@
+@address@|@ìbá-sõrõ, ibi ìkõwé sí, kõwé-sí, õrõ sísô@
+@adequate@|@tó-fún@
+@adhesive@|@àlêmö, ìlêmö, ohun tí a lè fi le nkan@
+@adjacent@|@lágbègbè, lëêbá, nítòsí@
+@adjective@|@õrõ àpéjúwe@
+@adjourn@|@sísún ìpàdé síwájú, yíyê sí àkókò mìíràn@
+@adjust@|@tò-lësese, tún ÿe@
+@adjustable@|@títò-lësese, títún ÿe@
+@adjustment@|@ìtòlêsese, ìtúnÿe@
+@administer@|@pín-fún, ÿe ìpínfúnni@
+@advice@|@ìm ràn@
+@ailment@|@àìsàn àrùn@
+@air@|@òfúrufú; aféfé; ojú sánmà@
+@alarm@|@àfòiyà@
+@alien@|@àjèjì, àjòjì@
+@alive@|@ààyè@
+@also@|@w@
+@American Indian@|@àwôn onílë ìlú Amêríkà Índìànì@
+@an inheritance@|@ogún@
+@and@|@àti@
+@angel@|@ángèlì@
+@animal@|@eran; édá elèémí@
+@answer@|@dáhùn, èsi, fèsì@
+@ant@|@èèrà@
+@antelope@|@àgb nrín@
+@any@|@enìkan@
+@anybody@|@enìkan@
+@apple@|@èso òro òyìnbó@
+@arm@|@apá@
+@arrival@|@àb@
+@arrow@|@ofà@
+@article of clothing@|@aso@
+@as@|@bí@
+@ash@|@eéru@
+@ask@|@b@
+@ask for@|@b@
+@assemblage@|@àwùjo@
+@at that place@|@ib@
+@average@|@àárín@
+@await@|@dè@
+@axe@|@àáké@
+@baboon@|@ìnàkí, iro, õbô lágídò@
+@baby@|@ômô, ômô-jòjòló, ômô-ôwö@
+@baby (1)@|@nígbàtí mo wà ní ômô-ôwö, ômô kékeré jòjòló@
+@bachelor@|@àpön@
+@back@|@êhìn, êhìn ôgbà, lëhìn, têhìn@
+@back(1)@|@põn sëhìn, ràn löwö, tìlëhìn@
+@backbone@|@egungun êhìn@
+@background@|@ìpìlê, ipó êhìn  ìpilê@
+@backpack@|@àpamö ìwé ômô iléwèé, àpò@
+@backwards@|@ìfàsëhìn, padàsëhìn@
+@bacon@|@eran ara elëdê tí a fi iyö sí@
+@bacteria@|@kòkòrò àìsàn  afàìsàn@
+@bad@|@burú, burúkú, ÿàìdára  búburú@
+@badge@|@àmì@
+@baffle@|@dà-rú, sô-dasán, tàn-je@
+@bag@|@àpò, àpò, õkë@
+@baggage@|@erù@
+@baggy@|@ÿíÿò, ÿò@
+@bail@|@adúrófúnni, ìdúró-fúnni, ìgbowó, onigbowó@
+@bailiff@|@ìjòyè, ológò, ôlöpàá, onídàájö@
+@bait@|@ìde, ìjë, ìwõ@
+@bake@|@dín, sè, yan@
+@baker@|@adín-ýkan, adínkàrà, alásè@
+@bakery@|@ilé alákàrà, ilé àsè, ilé ìse àkàrà@
+@balance@|@ìyókù, ôgbôgba, wön lögbôgba@
+@balcony@|@àgbàlá, õdê, òde lókè ilé pêtësì, õdêdê@
+@bald@|@àìnírunlórí, àìÿelöÿõö, apárí, pípárí@
+@ball@|@böõlù, ìÿù, ohun ìÿeré ômôdé@
+@balloon@|@ôkõ ófúrufú aláfëfë gbígbóná@
+@ballot@|@ìbò, ìwé ìdìbò@
+@bamboo@|@eìko, õpá, ôparun, pàko@
+@ban@|@dádúró, fi-bú, ìfilö ní gbañgba, ìfòfin dè, ìgégùn@
+@banana@|@õgêdê-weeré, õgêdê were@
+@band@|@èdìdì, egbë onílù tàbí bëmbê òyìnbó, ìgbánú, õjá@
+@band (1)@|@egbê, ìpéjô õpõ ènìyàn@
+@bandage@|@ìrépé aÿô ìfi di ôgbë@
+@bandit@|@aláìlófin, alönilöwögbà, olè, ôlôÿà@
+@banish@|@lé kúrò ní ìlú, lé lô, rán jáde@
+@bank@|@bánkì, bèbè, etí odò, ilé ìpamö owó@
+@banker@|@õgá ilé ìfi owó pamö sí@
+@bankrupt@|@ajigbèsè, enití owó bàjê mö löwö@
+@bankruptcy@|@ìbàjë owó@
+@baptism@|@gbígba ènìyàn sínú ìjô krístì, ìrísínú omi@
+@baptize@|@rì-sínú omi, rì bô omi, sàmì sí lí orúkô Mêtalôkan@
+@bar@|@ìfilô ni, ilé  ôtí títàilé  ôtí, irin tàbi igi gbô@
+@barbarian@|@aláìgbédè, aláìmòye, ènìyànkénìyàn@
+@barbaric@|@ìwà-àìmòye, ìwà àìlajú, ìwà ará oko@
+@barber@|@afárí, afárun, agerun, fárífárí, onígbàjámõ, oníwòlímõ@
+@bare@|@láìbò, níhòhò@
+@barefoot@|@láìníbàtà, lësê lásán, lësê òfìfo@
+@barely@|@agbára-káká, eku-káká, káká@
+@bargain@|@ìdùná-dùrà, ìpínhùn, pànpá@
+@barge@|@ôkõ ìgbájá@
+@bark@|@èpo igi, gbígbó bí ajá, gbó bí ajá@
+@barley@|@irú ôkà kán@
+@barn@|@abà, àká@
+@barracks@|@ilé àwôn ômô-ogun@
+@barrel@|@àgbá@
+@barren@|@yàgàn, ÿáláìléso@
+@barricade@|@ìdínàìsagbáradìagbàrà@
+@barrier@|@ìdínàagbáraalà@
+@barrister@|@agbçjörò, amòfin, löyà@
+@bartender@|@ôlötí, òÿìÿë ilé ìmutí@
+@barter@|@ÿe pàÿípàrõ@
+@base@|@ibi àkójô ohun ogun, ilé àwôn ômô-ogun, ìpìlê, ìsàlê@
+@basement@|@ìpìlë ilé ìsàlë@
+@bashful@|@lójútì, nítìjú@
+@basic@|@ìpìlê@
+@basically@|@nípa ìpìlê@
+@basin@|@awo kòtòadógun omi@
+@basis@|@ìpìlê@
+@basket@|@agb n, agbõn, apêrê@
+@bat@|@àdán ode@
+@bath@|@ìwê@
+@bathdrobe@|@aÿô ìbora àwölékè aÿô ìwösùn@
+@bathe@|@wê@
+@bathroom@|@balùwê@
+@bathtowel@|@aÿô ìnura@
+@battle@|@ìjà, ogun@
+@battlefield@|@ogun, ojú ogun@
+@battleship@|@ôkõ ogun@
+@bay@|@ìyàwö omi òkun sínú ilé@
+@bazaar@|@ôjà gbàngbàn@
+@be@|@sí, wá@
+@be afraid of@|@b rù@
+@beach@|@etí òkunêbá òkun@
+@beak@|@enu eye ìmú agogo eye@
+@beam@|@ìtànsan òòrùn, ìtí igi@
+@bean@|@eèré, êwà àwùjê@
+@bear@|@eranko nlá ní ilê òtútù, gbê  bí  rôjú faradájìyàs@
+@bearable@|@ìfaradàìrôjú@
+@beard@|@irùngbõn@
+@bearing@|@èlò onírin nínú ërô@
+@bearings@|@ìmönàmímönà@
+@beast@|@eranko elësê mërin, eranko ènìà@
+@beast (1)@|@ènìà tí nhùwà eranko@
+@beat@|@fô borí, ìnà, lílù, lù, nà@
+@beating@|@lílùnínà@
+@beautiful@|@arewà, dídáralêwàelêwàrewàarewà, lëwà (ní ewà), rewà@
+@beauty@|@dídára, ewà, õÿö@
+@beaver@|@éranko bíì öyà@
+@because@|@nítorí, nítorítí@
+@become@|@bádé-sídídárayesô-di@
+@bed@|@ìbùsùn, ìrögbökúàkétépèpèlé, ìsalê odò@
+@bedding@|@aÿô ibùsùn@
+@bedroom@|@iyàrá ìbùsùn, iyêwu, yàrá@
+@bedtime@|@àkókò sísùn alêìgbà orun@
+@bee@|@kòkòrò oyin, oyin@
+@beef@|@eran-màlúù@
+@beehive@|@ilé-oyinafárá oyin@
+@beer@|@ôtí àgbàdo, ôtí òyìnbó, ÿêkêtê@
+@beet@|@ohun ögbìn òyìnbó kan@
+@beetle@|@öböunbôùn@
+@before@|@kí ó tó, lójú, níwájú, níwájú, ÿíwájú@
+@beg@|@b, bêbê, tôrô, ÿagbe@
+@beggar@|@alágbe, atôrôje, atúlêje, oní-bárà@
+@beginner@|@alákõöbêrê@
+@beginning@|@àkôbërë, àtètèkôÿe, ìbërë nkan, ìpilëÿe, ìÿëdálë@
+@behave@|@hùwàlò@
+@behavior@|@ìhùwàsíìwàìwá-ayéìbêwôsí@
+@behind@|@lëhìn@
+@bicycle@|@básíkùlù@
+@bid@|@b@
+@big@|@nlá; tóbi; gbórin@
+@bind@|@dì@
+@bird@|@eiye, eye@
+@blank@|@funfun@
+@blind@|@af jú@
+@blood@|@êjê, j@
+@blue@|@èjè, òféfeàwò. ojú òrun@
+@body@|@ara@
+@bone@|@eegun@
+@book@|@ìwé@
+@boot@|@bàtà@
+@boss@|@baba, ìjòyè@
+@bottle@|@ìgò@
+@box@|@àpótí@
+@bread@|@àkàrà òyìnbóonjebúrèdì@
+@bridge@|@afá, afárá@
+@brother@|@egbon@
+@brown@|@irú àwò kanàwò dúdú@
+@bull@|@ako màlúù@
+@butterfly@|@labalábá@
+@cabbage@|@êfö òyìnbó@
+@cabin@|@àgö, yàrá, yàrá inú ôkõ@
+@cabinet@|@àpótí ohun öÿô, ìgbìmõ ìjôba@
+@cable@|@okùn tàbí ëwön ìdákö dúró@
+@cactus@|@igi ôrô@
+@café@|@ilé ìjeun@
+@caffeine@|@èlò ìmu kánilára, èlò ìrúsókè, èlò kíkorò inú obì@
+@caffeine(1)@|@èlò ìrúsókè ara@
+@cage@|@àgö kuku, ilé eye@
+@cahairman@|@aláàga, olórí àjô, olórí àpéjô@
+@calculate@|@kà, ÿírò@
+@calculation@|@ìÿirò, kíkà@
+@calculator@|@ërô ìÿirò@
+@calf@|@iÿu esê, ogodo, ômô màlúù@
+@call@|@ìpè, na ohùn sí, pè, tê lágogo@
+@calm@|@ìdákê íparôrô ìrölè, rôlëdákê@
+@calmness@|@ìdákêjêjêìdákê rôrô@
+@camel@|@ràkùnmíibakasie@
+@camera@|@ërô ìyàwòrán@
+@camouflage@|@farapamôbadeni@
+@camp@|@àgö, bùdó, dó, ibùdó@
+@campaign@|@papa nlaìgbà ogunÿá ogunÿá ötë@
+@campsite@|@àgö, ibùdó@
+@campus@|@ôgbàôgbà nlá ilé ìwé@
+@can@|@agolo, lè, páánú, tanganran@
+@can opener@|@ërô tàbí öbe ìÿí agolo@
+@canal@|@odó lílà@
+@cancel@|@nù-kúròpa-ré@
+@cancellation@|@ìparêìnùkúròìsôdòfo@
+@cancer@|@akanalakasaàrùn búburú kan@
+@candid@|@dájúlótítôláìÿëtánlódodo@
+@candidate@|@ênití nfê wô inú egbê tàbí iÿê@
+@candle@|@àbëlà, fìtílà@
+@canister@|@agolo, páànù@
+@cannibal@|@ajênìyàn@
+@cannibalism@|@jíje ènìàìwà jíje ènìyàn@
+@cannon@|@ìbôn nlààgbá@
+@canoe@|@ôkö  ôkö wétèìgbájá@
+@canvas@|@aÿô aláìkúnáìgbòkun, ìgbòkun ìkun àwòrán@
+@canyon@|@ilë jíjìn láarín òkè méjì@
+@cap@|@fìlà, ìborí, ìderí, ìderíômôrí@
+@capability@|@agbáraàyè@
+@capable@|@toìlèÿelágbáralóyenípá@
+@capacity@|@agbáraipáàyè@
+@cape@|@ÿónÿó ilê tí ó yôrí sínú omi@
+@cape (1)@|@ìlékè aÿoìpèléëwù èjìká@
+@capital@|@òkòwòowó-ìlélë@
+@capitalism@|@nípa ÿíÿe òwòohun òkòwö@
+@capitalist@|@ôlörõ, olówó@
+@capsize@|@dojúbolëri ôködojúdéyípo@
+@captain@|@olórí egbêögáköögágunbalógun@
+@captive@|@elêwön, erú, ìgbèkùn, ondè@
+@captivity@|@ìkólërú, oko-erú@
+@capture@|@mú lêrúfi agbára mú@
+@car@|@ôkö aláfêkëkêmôtò òrénté@
+@caravan@|@egbê ôkö aláfê@
+@carburettor@|@ërô tí mú ôkö rìnërôìdákörìn@
+@carcass@|@òkú ènìàòkú eran@
+@card@|@ìwé pelebe   káàdì@
+@cardboard@|@páálí@
+@care@|@aájò, àbójútó, àníyàn, ìtöjú@
+@career@|@iÿé ìgbé ayé@
+@carefree@|@láìníyàn@
+@careful@|@kún fún àníyànÿôra@
+@carelessness@|@áfaraàìbìkítààìwolë@
+@caress@|@ìfàmôraìkêìgbàmôraìfôwôpalára@
+@cargo@|@erù ôkö@
+@carnation@|@irú òdòdó kan@
+@carnival@|@ibi ôjà ìdárayá@
+@carp@|@ìjiyànìríwísíìbáwíirú eja kan@
+@carpenter@|@afági, gbênàgbênà, oníÿônà igi@
+@carpentry@|@iÿê igiiÿë gbênàgbênà@
+@carpet@|@aÿô wúwo ìtêsílëaÿô ìbùsùn@
+@carriage@|@këkê elêÿinìwà  ìÿesí@
+@carriageway@|@önà têrê këkê çlêÿin@
+@carrier@|@kòkòrò tí nmú àrùn tàn@
+@carrot@|@ohun ògbìn kan@
+@carry@|@gbé rùpönkó@
+@cart@|@këkê  erù elêsë méjì@
+@cartilage@|@òkérékèré@
+@carton@|@pálí@
+@cartoon@|@àwòrán àrofö@
+@cartridge@|@àpótí ôta ìbôn@
+@carve@|@gbêfínkun@
+@case@|@àpótíàkö, ejôìbáwíjô@
+@cash@|@owó, ÿê-owólo ipò@
+@cashier@|@onítôjú owóaköwé tí nsan owó@
+@casino@|@gbàngàn tëtë@
+@casket@|@pósíàpótí kékeré@
+@cast@|@dá àgbëde@
+@castle@|@ààfinilé ìÿô@
+@castrate@|@të ní ödátë ní bààfin@
+@casual@|@alábàápàdéàìronú têlë@
+@casuality@|@ení farapaení kú lójú ìjà@
+@cat@|@ológbò, ológìnní@
+@catalog@|@ìwé orúkôìwé ìpolówó ôjà@
+@catastrophe@|@àgbo ákò@
+@catch@|@mú dá-dúrórámúhángán@
+@category@|@êyà@
+@cater@|@pèsè onje@
+@caterpillar@|@öökùnkòkòrò@
+@cathedral@|@ilé ìjôsìn nlá@
+@Catholic (1)@|@onígbàgbô ësìn ti ènìà gbogbo@
+@cattle@|@eran ösìn@
+@cauliflower@|@ohun ögbìn òyìnbó kan@
+@cause@|@dá sílëmú ÿebá wá, ìdí, ìtorí@
+@cautious@|@níÿôraníwòye@
+@cavalary@|@ogun elêÿin@
+@cave@|@ihò nínú àpátaihò inú ilë@
+@cavern@|@ihò nísàlë ilë@
+@cavity@|@ihò inú ehín@
+@cease@|@dáwôdúrówawôÿíwôdá dêkundàböyé@
+@cedar@|@igi òpepe@
+@ceiling@|@àjà ilé, òkè àjà, òkè àjààjà ilé@
+@celebrate@|@ÿèrántíkókìkíÿôdún nkanÿènáwó@
+@celebration@|@ayeye  ìnáwóìyìn ìrántíàÿà@
+@celery@|@ohun ögbìn òyìnbó kan@
+@celibacy@|@wíwà ní àpônàìyígbéyàwóÿíÿapôn@
+@cell@|@êyà-ara, ôgbà êwõn@
+@cement@|@amö líle@
+@cemetery@|@ìtê òkúibi ìsìnkúìtê@
+@censor@|@ìbáwí@
+@censure@|@bá-wí@
+@census@|@kíkaye ènìà ìlú@
+@center@|@àárínagbedeméjì@
+@centimeter@|@irú ìwön kan@
+@centipede@|@öökùntani-ÿánko@
+@central@|@láarínlágbedeméjì@
+@centralize@|@ÿe sí àárínfi sí agbedeméjì@
+@centre@|@àárín@
+@century@|@ôgôrun ôdún@
+@ceramic@|@ohun èlò amö@
+@cereal@|@irú oúnje àárö kan@
+@ceremonial@|@ÿíÿe àpéjôÿíÿe ìsìn@
+@ceremony@|@ìÿe ìsìnàmì òde ti ìsìnato@
+@certain@|@dájú@
+@certainty@|@ìdánilójúàìÿiyèméjì@
+@certificate@|@ìwé èríohun ërí@
+@certification@|@íjêërísí@
+@certify@|@jêëríròhìnmú dájú@
+@chain@|@êwõn, ìkôlura-àdëhìnbö@
+@chair@|@àga, ágaìjoökó@
+@chalk@|@efun@
+@challenge@|@ìpèníjàìfìjàlöìtôniníjàìfòláyà@
+@challenger@|@olùpeniníjàapeniníjà@
+@challenging@|@tí npèníjàtí nfì jàlö@
+@chamber@|@iyàráìyëwù@
+@champagne@|@orúkô ôtí líle kan@
+@championship@|@ìÿe ögágunÿíÿe aÿájú ìjà@
+@change@|@ìyípadàìparadà, pàrö owóìpàrö, yípadàparadà@
+@changeable@|@ti nyípadàtí nÿe pàÿípàrö@
+@channel@|@ërô àwörántelefísön@
+@chaos@|@ìdàrúdàpötëmbëlëkúnjúujùu@
+@chaotic@|@ní rúdurùdu@
+@chapel@|@ilé Ôlörun kékeré@
+@chapter@|@orí ìwéìpín ìwé@
+@character@|@ìwàorúkôènìà@
+@characteristic@|@ti ìwà@
+@charcoal@|@èédú igi@
+@charge@|@ësùnìlöìfisùn, fún-lágbára, ìdíyeléìnákúnàá@
+@charge (1)@|@díyeléÿe ìnákúnàá, ìpàÿe fún, kà sí lôrùnfisùn@
+@charity@|@ìfêniôre-àánúìyônuohun-ôre@
+@charm@|@òògùn  oñdètíràògèdèìfàyà@
+@charming@|@nífàyànífaláyàtí ó wu ni@
+@chart@|@ìwé àwòrán àpere@
+@charter@|@háyà@
+@chat@|@bá-söröwírèégbè, ìrégbèìbásörö@
+@cheap@|@pöwôpöàìwônàìníyelórí@
+@cheat@|@rë-je, tàn-je, yànje@
+@check@|@ìdádúróìkíwô, iwe ìgbowó ní bánkì@
+@checkpoint@|@ibi ìdánidúró lêëbá önà@
+@checkup@|@àtúnwòàtúnyëwò@
+@cheek@|@êrêkë@
+@cheer@|@ìmúninínúdùnayöìtúraká@
+@cheerful@|@dídárayátújúkálôyàyà@
+@cheese@|@wàràkàsì@
+@cheetah@|@eranko ìgbê kan@
+@chemical@|@èlò ìpìlë tí a finmúohun míràn, ti èlò àfôgbôn dá@
+@chemist@|@apògùn  elégbògi@
+@chemistry@|@irú ëkô kan@
+@cherry@|@irú èso òyìnbó kan@
+@chess@|@irú eré kan tí àñta lórí ôpôn@
+@chest@|@àpótí@
+@chew@|@fi ehín rúnrún lênuje@
+@chewing gum@|@ohun ìpanu aládùn@
+@chicken@|@adìye, ômô adìye.@
+@chickenpot@|@ôfà ÿöpönnáilëgbôná@
+@chief@|@aÿíwájúolóríolúögáalákò, ìjòyè, ìjòyè, ósoolóríolóyèpàtàkì@
+@chiefly@|@ní pàtàkì@
+@child@|@èwe, ômô, ômôdé@
+@childbirth@|@ìbímô@
+@childhood@|@àkókò ômôdéìgbà èwe@
+@childish@|@ìÿe ômôdébí ômôdébí èwe@
+@children@|@awon omode@
+@chimpanzee@|@irú öbô kan@
+@chin@|@àgbön, ìgbön@
+@China@|@ìlú ilê àwôn Sainí@
+@chinney@|@ihò èéfín@
+@chip@|@ërún igi, ërún òkúta, ërún wíníwíní@
+@chocolate@|@kòkó lílö tí a fí ñpanu@
+@choir@|@egbë akôrin@
+@choise@|@yíyànàÿàyànayò@
+@choke@|@fún lôrùnhá lôfun@
+@cholera@|@irú àrùn kankôlêrà@
+@choose@|@yàn ÿà@
+@chop@|@gé wêwêgé pópòpó@
+@choppy@|@àìdán@
+@chopsticks@|@igi àgúnje@
+@chord@|@okùn dùrù@
+@chorus@|@egbê orin   (ègbè orin)@
+@Christ@|@Krístì@
+@Christianity@|@ìsìn Krístì@
+@Christmas@|@ôjö ìbí Krístì@
+@chronic@|@pípê títídi àrùndi bárakú@
+@chronicle@|@ìwé ìtànìròhìn@
+@chronological@|@lêsese@
+@chunck@|@ìÿù@
+@church@|@ile Olorum@
+@churchyard@|@ôgbà ilé ìjôsìn@
+@chute@|@ihò alágolo nlá@
+@cigar@|@sìgá, tábà@
+@cigarette@|@tábà inú ewésìgá@
+@cinder@|@eérú@
+@circle@|@àyíkáòrùkaòbìrìkìtì, yíká@
+@circuit@|@ìyíká@
+@circular@|@bí òbìrìkìtìkibitikiribiti@
+@circulation@|@ìÿànyíkàÿíÿàn ëjë yíkà ara@
+@circumcise@|@kônílà kôlà-fúndákó-fún@
+@circumference@|@ìyíká@
+@circumstances@|@örànohun ÿíÿë@
+@citation@|@ìwé ìkìlö@
+@cite@|@pò-fin@
+@citizen@|@ará ìlúonílùúaráalë@
+@citizenship@|@nípa ará ìlúdídi ará ìlú@
+@city@|@ìlú, ìlú nlá@
+@civil servant@|@oníÿê ìjôba@
+@civil service@|@iÿê ìlú@
+@civil war@|@ìjà abêlëìjà-ìlúìjà ìgboro@
+@civilian@|@ará ìlú@
+@civilization@|@ìlàjú@
+@civilized@|@õlàjú@
+@claim@|@béèrè ohun tí ìÿé tçni, ìbéèrè ohun tí ìÿé tçni@
+@claimant@|@enití ó pe nkan ní tirë@
+@clamp@|@dè-môle, oñdè onírin@
+@clan@|@ëyà, ìdílé@
+@clap@|@ìró àtêwô, pàtëwö@
+@clapping@|@pípàtêwô@
+@clarification@|@ìsôdi mímöìÿelàjúÿíÿe àlàyé@
+@clarify@|@ÿàlàyésôdi mímömú kí ó mö@
+@clarity@|@dídá ÿákáÿáká@
+@clash@|@kô-lura@
+@clasp@|@dìmú ÿinÿinìdìmúìkóìwö@
+@class@|@tò lëse.@
+@classical@|@tí ó lêgbétí elêgbê gíga@
+@classification@|@ìtò lêgbegbêìtò lôwöôwô@
+@clause@|@gbólóhùnörö kan@
+@claw@|@èkánná esë eiye tàbí eranko@
+@clay@|@amö@
+@clean@|@wê-mö@
+@cleaner@|@ohun èlò wíwe èérí@
+@cleaning@|@ìtôjú@
+@cleanliness@|@ìmô-tótó@
+@clearing@|@ìpalëmôìmúkúròìkókúrò@
+@clergy@|@àlùfáà ìjô@
+@clerk@|@àk wé, àkõwé@
+@client@|@abëwë alágbàwíelêjô@
+@clientele@|@oníbàárà@
+@cliff@|@bèbè òkúta@
+@climate@|@afêfê ilëàkókòìgbà@
+@climax@|@òpinÿónÿó@
+@climb@|@gùngòkèpôn@
+@climber@|@enití ngun òkè@
+@cling@|@somôwà môfà-môrömô@
+@clinic@|@ilé ìtôjú oríÿiríÿí ààrùn@
+@clinical@|@níwà ìmôtótónípa ìtôjú ààrùn@
+@clock@|@aago, agogo@
+@clockwise@|@bí agogo@
+@close@|@nítòsílêbàáödö, padésétì, súnmô@
+@closed@|@títì pa@
+@closet@|@yàrá-ìkökökôlôfín@
+@closure@|@ìparíòpin@
+@cloth@|@aÿôaÿô wíwunaÿô ìbora@
+@clothe@|@wö-laÿôfibònà-bò@
+@clothes@|@aso@
+@clothing@|@ohun wíwöaÿô wíwö@
+@cloudy@|@gùdëgùdëÿú gùdë@
+@coal@|@eyìn ináèédú@
+@coconut@|@àgbon@
+@coffee@|@ohun mímu@
+@colour@|@àw@
+@come about@|@dé@
+@come across@|@bá@
+@concubine@|@àlè@
+@connect@|@dì@
+@copper@|@bàbàowó kobóàkàngbà@
+@corn@|@àgbàdo@
+@cotton@|@òwúéefe; òwú@
+@counsel@|@ìm ràn@
+@cow@|@abo màluu@
+@coward@|@ojo@
+@crow@|@kanna-kánná@
+@custom@|@àsà@
+@cycle@|@básíkùlù@
+@dad@|@bàbà@
+@dagger@|@idà kúkurú, õbç olójú méjì@
+@daily@|@lójojúmö, níjö gbogbo, ojojúmö@
+@dam@|@dídarí omi ÿíÿàn, ÿíÿe õnà omi@
+@damage@|@àdánù, ìbàjë, ìfarapa, jà¸bá, òfò@
+@damp@|@ìkúku, õgìnnìtìn, õririn, òtútù@
+@dance@|@ijó, jó@
+@dancer@|@oníjó@
+@danger@|@ewu, ìjàbá@
+@dangerous@|@léwu, ní ìjàbá@
+@dark@|@àìmòye, ÿókùnkùn, ÿú@
+@darken@|@ÿe àìmòye, ÿú òkùnkùn@
+@darkness@|@àìmòye, òkùnkùn@
+@data@|@àkójô èdè fáyêwò, êkö, ìwífún@
+@date@|@àkókò ôjö tí ñýkan ÿelê, èso õpe dídùn@
+@dative@|@irú ìlò gírámà kan@
+@daughter@|@ômô obìnrin@
+@daughter-in-law@|@ìyàwó ômô eni@
+@dawn@|@àárõ kùtù, àfêmöjúmö, kùtù-kùtù, ôyë@
+@day@|@ôjö, õsán@
+@dead@|@di òkú, kú, láìlëmìí@
+@deadly@|@pípani, tí mú ikú báni@
+@deaf@|@dití@
+@deal@|@ìbáÿe, ìpín, irú igi kan, ìÿòwò@
+@dealings@|@ìbálò, ìbáÿe, ìbáÿòwò@
+@dean@|@olórí ilé êkö@
+@death@|@ikú@
+@debate@|@àríyànjiyàn, ìjiyàn, iyànjíjà, jiyàn, sô àsôyé põ@
+@debris@|@pàýtí@
+@debt@|@gbèsè@
+@decade@|@ôdún mëwàá-mëwàá@
+@decay@|@ìbàjë, rírà@
+@deceased@|@àìsí, eni kòsí, enití ó ti kú, oloógbé@
+@deceit@|@àrékendá, èrú, êtàn, ìrêje, ìÿìnà, mëêwá@
+@deceitful@|@lêtànnírëêje@
+@deceive@|@tàn-jeÿì-lônàÿe-àgálámànÿà sí@
+@December@|@oÿù Kejìlá ôdúnìpárí ôdún@
+@decency@|@ìwà yíyetítô  fífínjúfónífóní@
+@decent@|@yíyeëtô ìfínjúníparamô@
+@deception@|@ëtànèrúàbòsíharamùìrêje@
+@deceptive@|@lêërúnítànjenírëje@
+@decide@|@parí rëfi ìgbà sífi òpin sí, pinnu@
+@decision@|@ìpinnuìfòpin-sí@
+@deck@|@ite apakoôkö@
+@declaration@|@ìtenumôwíwísísô@
+@declare@|@wí  sôtenumôkéde@
+@decline@|@ìdínkùìparíkíkö, kö, tê@
+@decode@|@tákáyanjúlàdí@
+@decorate@|@ÿe lôÿôwëdálôlásìwe-fúnÿelêwà@
+@decoration@|@ohun öÿô ìwë@
+@decrease@|@dínkùrëhinfà-sêhìn@
+@dedication@|@ìfisôtöìyàsímímô@
+@deduct@|@mú-kúròyô-kúròyô-jáde@
+@deduction@|@ìmúkúròìyôkúrò, ìyôjádeëkôàfàyô@
+@deed@|@ìwé ìní, ìÿeìlò@
+@deep@|@jijinjinle, jíjinlëwíwôrakárapúpö@
+@deer@|@àgbörínìgalàegbin@
+@deface@|@pa-rêbà-jêbàlójújê@
+@default@|@àbùkùìkunààìlèÿe nkan@
+@defeat@|@ìÿégunìbìÿubúìparun, ségunbì-ÿubupa-runlésá@
+@defect@|@abàwonàbùkù@
+@defective@|@níàbawônní àbùkù@
+@defence@|@àbò asà@
+@defend@|@gbèjàdábòbòÿe odi fún@
+@defendant@|@enití a pè lêjô@
+@defer@|@súnsíwájúdá-dúrófà-sêhìnfifalë@
+@deference@|@ìyìnöwö  ìböwöìforíbalëìjúbà@
+@defiance@|@ìfòlêyeìpèníjà@
+@deficiency@|@àbùkùëÿë, àìpéàbùkù@
+@deficit@|@àìpéàbùkù@
+@define@|@sô àsôyé túmökì@
+@definite@|@dájú tóyanjúpàtó pàtàkì@
+@definitely@|@adv dájúdájúpàtàkìláláìyë@
+@definition@|@ìtumö oríkì@
+@definitive@|@dájú tóyanjúpàtó pàtàkì@
+@deformed@|@lábùkùìbàlêwàjêrírô@
+@defraud@|@rê-jëtànjeÿe-èrú@
+@degree@|@ìwön òtútù tàbí oru@
+@delegate@|@aÿojú-eniaÿoju@
+@delegation@|@egbê aÿojú@
+@deliberate@|@àmöômö ÿeàgbìmöÿelétòlétò@
+@deliberately@|@àmöômö@
+@delicate@|@ÿêlêgedára@
+@delicious@|@dùnaládùn@
+@delightful@|@ládùndídùn@
+@deliver@|@gbàjö-lôwôgbà-sílëbímô, ìbôlôwô  ìjölôwôìbímô@
+@demand@|@béèrèfagbára béèrè, ìbéèrè@
+@demanding@|@líleÿíÿòroní ÿòrotí nse ìbérè@
+@demon@|@èÿùiwinabili@
+@demonstrate@|@fi hànlàdìÿe hàn@
+@den@|@ihò@
+@denial@|@sísêìfidùkíkö@
+@denounce@|@köbáwíjêrí síkìlö@
+@dense@|@kinípôndídìgö@
+@dent@|@ìtësínú@
+@dentist@|@oníÿègùn ehín@
+@deny@|@fidùsêkö fúngbónu@
+@depart@|@lôkúrò  kúkángárá@
+@department@|@apáìsösàkaaní@
+@departure@|@ilô kuròiku atilô àyún@
+@depend@|@gbêkëlêgbáralégbíyelégbójúlé@
+@dependent (1)@|@ti àgbàbônípa wíwà níkàwô@
+@deploy@|@rán lôtú-sílëse@
+@deport@|@lé kúrò ní ìlúwàlô hùwàlò@
+@deportantion@|@lílé kúrò ní ìlúwíwàlô@
+@deposit@|@fi dógófi ÿúra, ohun ìdógóàdáwin@
+@depression@|@ìrësílëìrëwësíìdorí kodò@
+@deprive@|@gbà lôwô enirô lóyègbàloyè@
+@depth@|@jíjìnìjìnlë  ìbú@
+@descendant@|@ômôàtëlé@
+@description@|@àpereìsàpereàpèjúwe@
+@desert@|@aginjùaÿálë, kö sílèfi-sílèyô sílè@
+@diary@|@ibi ìfúnwàrà@
+@disease@|@àìsàn@
+@dog@|@ajá@
+@donkey@|@ass kétékété@
+@Don't touch me there!@|@Má fowó kan ibè yen!@
+@door@|@ilekun@
+@doubt@|@àníàní@
+@dove@|@eyelé@
+@dream@|@àlá@
+@drop@|@kán; bó; rè; sòkalè@
+@drug@|@egbòogi@
+@duck@|@abo pépéye@
+@dye@|@àw@
+@each@|@õkõõkan, olúkúlùkù@
+@eager@|@nítara, níwára@
+@eagle@|@idì (eye)@
+@ear@|@etí, ÿirì-ôkà@
+@earlobe@|@etí@
+@early@|@kùtùkùtù, ní ìbêrê, tëlê@
+@earn@|@iÿê, je, pa owó, rí-gbà, tösí, ÿiÿë owó@
+@earring@|@ìyetí, òrúka etí, yerí@
+@earth@|@ayé, erùpê, il, ilê@
+@earthquake@|@ilê mímì, ìrúké ilê, ìwàrìrì ilê@
+@ease@|@àìnira, ìdêra, ìrôra@
+@east@|@gàbasì, ìlà oòrùn@
+@Easter@|@àgbèýde, ôjö àjíýde Krístì@
+@eastern@|@nílà-oòrùn@
+@eastwards@|@lônà ìlà-oòrùn, níha ìlà-oòrùn@
+@easy@|@láìnira, láìÿòro, ní-rôrùn, rôrùn@
+@eat@|@je, jeun@
+@echo@|@àpèpadà, gbohùngbohùn@
+@eclipse (1)@|@ìmúÿókùnkùn, ìÿíjibò@
+@ecology@|@êkö nípa õgbôgbà ayé@
+@economic@|@nípa ìÿúnná ôrõ-ajé@
+@economy@|@ìÿúnlò ôrõ-ajé, ìÿúnná, mímô owó töjú@
+@edge@|@etí nkan, ìgbátí, ojú õbe, ojú ohun èlò@
+@edit@|@olótùú, tún ìwé kíkô ÿe fún títà@
+@editor@|@eni tí ÿe ìwé fún títê, olótùú@
+@educate@|@kö, kö lêkõö, tö@
+@education@|@êkö, ìtö ômôdé@
+@eel@|@eja àdàgba@
+@effect@|@èrè, èso iÿë, ìyôrísí@
+@effective@|@èyí tí yóò níyôrísí, wúlò@
+@efficiency@|@agbára ìmú àÿe wá, agbára láti ÿiÿê@
+@efficient@|@ní agbára láti ÿiÿêní@
+@egg@|@eyin@
+@eight@|@êjô, mêjô@
+@eight hundred@|@ogorun mejo@
+@eighteen@|@éjìdínlógún, méjìdìnlógún@
+@eighty@|@ôgörin, õrin@
+@eigthteen@|@mejidilogun@
+@either@|@èyí tàbí èyinì, õkan nínú méjèjì, yálà@
+@eject@|@bì  jáde, jáde, ta-nù, tì sóde@
+@elaborate@|@dára púpõ, tí a fi aápôn ÿe, tí a ÿe fínnífínní@
+@elbow@|@ìgbönwö, ìgúnpá@
+@elder@|@alàgbà@
+@elder (1)@|@ëgbônàgbà  alàgbà@
+@elect@|@ÿà, yàn@
+@election@|@ìyànfë, ìÿàyàn, yíyàn@
+@electric@|@nípa iná, nípa ìtànná@
+@electricity@|@iná, ìtànná@
+@elegance@|@ewà, ìdára@
+@elegant@|@dídára, dídùn, elëwà, lëwà@
+@element@|@êfúùfú, êyà mêrin ayé, iná àti omi@
+@element (1)@|@ilê, ìpilêÿê ohun kan@
+@elephant@|@àjànàkú, erin@
+@elevation@|@ìgbéga, ìgbélékè@
+@elevator@|@êrô ìgbé nýkan sókè@
+@eleven@|@mökànlá, ókànlá@
+@eligible@|@ye ní yíyàn@
+@eliminate@|@í jáde, mú kúrò, rénù@
+@else@|@bíbëêkö, òmíì, òmíràn@
+@elude@|@fi èrú tàn sílê@
+@elusive@|@tí a fi èrú tàn sílê@
+@embargo@|@òfin ìdádúró ìÿòwò@
+@embark@|@bêrê, fi sökõ, wôkõ@
+@embarrass@|@dààmú, gõ, sú@
+@embarrassement@|@gígõ, ìdàmú owo, ìÿòro, sísú@
+@embarrassing@|@dídàmú, gígõ, sísú@
+@emblem@|@àmì, àpere@
+@embrace@|@fi apá gbà möra, fi ôwö gba ni möra, gbà  möra@
+@embryo@|@ôlê, oyún@
+@emerge@|@rú-jáde, tinú ñýkan jáde@
+@emergency@|@àìbáàmö, ójijì, pàjáwìrì@
+@emmet@|@èèrà@
+@emotion@|@ìmí-ëdùn@
+@emotional@|@níní ìmí-ëdùnìmölára@
+@emperor@|@ôba ñlá kanôba lórí àwôn ôba@
+@emphasis@|@ìtênumôàtenumô@
+@emphasize@|@tenumö@
+@empire@|@ìjôbaagbára ôbailé ôba@
+@employ@|@gbà síÿêfiÿê fún@
+@employee@|@òÿìÿêoníÿê@
+@employer@|@ògá iÿêafúnniníÿêÿe@
+@employment@|@iÿê@
+@empty@|@dà kúrògbòfo, òfoasán@
+@enable@|@rànlôwôfi agbára fúnmú ni ÿe@
+@encircle@|@yípoyíkárôgbàkà@
+@enclose@|@ká môra@
+@enclosure@|@ôgbàilé tí a sægbà yíkà@
+@encounter@|@bá, bá, ìjàogunìbápàdéìdojúkô@
+@end@|@ìgbêhìn, ìparí, ìpêkun ìdí, ìtorí, òpin@
+@end(1)@|@àtúbõtán, ìyôrísí@
+@endanger@|@fi wéwuwú léwu@
+@endless@|@láìlópinláìnípëkun@
+@endorse@|@fi ôwô sí ìwé, kô àkôlé sí ìwé@
+@endorsement@|@àkôlé inú ìwé ìgbowó, ìfôwô sí ìwé@
+@endurance@|@ìrôjúìfaradàìforítììfôkànràn@
+@endure@|@rôjúforítìfaradàpamôrafôkànràn@
+@enemy@|@ötáoníkeéta@
+@energy@|@agbáraokun-inúokunra@
+@engagement@|@ìdánaàdéhùn ìgbéyàwó@
+@engine@|@êrô, ro@
+@engineer@|@elërô@
+@engrave@|@fínÿônà fínfín sígbê@
+@enjoy@|@gbádùn, jayé, je-ìfà@
+@enjoyable@|@ohun aládùn, ohun ìfà@
+@enjoyment@|@ìgbádùnadùnìjayéìdùnnúìdùnmô@
+@enlarge@|@fëmú-tóbifikúnbùmô@
+@enlargement@|@ìmútóbifífëàfikúnìbùmô@
+@enormous@|@títóbi púpö@
+@enough@|@tótêrùn kárí@
+@ensure@|@ÿe-dájúmú dájú@
+@enter@|@wöwôléwônúkô sínú ìwébô sínú@
+@error@|@àsìse@
+@eskimo@|@ëskímò@
+@evening@|@al, ìrólè àsálèojooróalè@
+@exactly@|@déédéé@
+@expect@|@dè@
+@explanation@|@àlàyé@
+@extremely@|@gidigidi@
+@eye@|@ojú@
+@fable@|@àlö, ìtàn asán@
+@fabric@|@aÿô, ilé@
+@fabulous@|@aláìgbàgbö@
+@face@|@ojú@
+@facing@|@kôjú-sí@
+@fact@|@àsôdájú, àsôpàtó, ohun ìdájú gan-an@
+@factory@|@egbë àwôn oníÿòwò, ilé iÿë, ilé òwò@
+@faculty@|@àÿ, ìmõ, ìyè, ôgbön orí@
+@fade@|@fò, rê sílê, tí, ÿá@
+@fail@|@bàjê, bàtì, kùnà, tàsé, yê@
+@failure@|@àbùkù, àìyégé, àÿedànù, ìbàjë, ìdetì, ìkùnà@
+@faint@|@àìhàn rere, àìhàn tán, dákú, ÿàárê, ÿojo@
+@fair@|@dára, ôjà, tö@
+@fairy@|@àrõnì, egbére, iwin, kúrékùré@
+@fairytale@|@ìtàn àrõnì@
+@faith@|@ìgbàgbö, ìgbëkêlé@
+@faithful@|@olódodo, olóòótö@
+@fake@|@díbön, pa-rö, tí kíì ÿe òtítö, ÿe bí eni pé@
+@falcon@|@àÿá@
+@fall@|@bë sílê, dínkù, fà sëhìn, wó, ÿubú@
+@false@|@láìÿòótö, láìÿòtítö, ní ayédèrú@
+@fame@|@òkìkí@
+@familiar@|@dùn-jù, faramö, mímõ, mö-lára@
+@family@|@ará, ebí, ìbátan, ìdílé@
+@famine@|@ìyàn êrùn, õgbelê@
+@famous@|@lókìkí@
+@fan@|@alátìlëhìn, êrô ìfërì, êrô tí fë afëfë, ômô êhìn@
+@fanatic@|@aláragbóná nípa ìsìn, eléròkerò@
+@fang@|@èékánná, ehín, ehín ejò, ehín eranko, ÿíÿánni@
+@fantastic@|@níròkurò, ÿàìgbàgbö dídára nýkan@
+@fantastic (1)@|@ìkôja àlà dídára ohun@
+@fantasy@|@méríìrí@
+@far@|@jíjìnà, jìnà, jìnà réré@
+@fare@|@onje, owó iÿê, owó ôkö@
+@farewell@|@ìdágbére, ìkínni@
+@farm@|@oko@
+@farmer@|@àgbë, aroko, olóko@
+@farmhouse@|@abà, ahéré, iléko@
+@farming@|@dídáko, ìdáko@
+@farmland@|@oko@
+@farther@|@ÿíwájú@
+@fascinating@|@dídùn, ní ìwù, nífanimöra@
+@fascination@|@ìfanimöra@
+@fascism@|@ìjôba ìmúnisìn tipátipá, ìmúnisìn tipátipá@
+@fascist@|@amúnisìn tipátipá@
+@fashion@|@àrà, àwõ ìÿe, àÿà@
+@fast@|@àwê, gbàwê, kíákíá, yára, ÿe kíá@
+@fasten@|@dì, so@
+@fat@|@êkún, õrá, sanra@
+@fatal@|@ti ikú, tí pa ni@
+@fate@|@àbáfù, àyànmô, ìdarísí, ikú, ìpín, òpin@
+@father@|@bàbá, ÿíwájú@
+@father-in-law@|@bàbá ìyàwó, bàbá ôkô@
+@fatigue@|@àárê, agara@
+@fatty@|@tí ó ní örálôöráôlôràá@
+@faucet@|@enu ërô omi@
+@fault@|@àbùkù, àÿìÿe, êbi@
+@favor@|@ojú-rereìÿeun ìsájú, ÿe ojú rere fúnjíñkí@
+@favorable@|@lójú rerenítìlêhìndáradùnmôni@
+@favorite@|@àyànfë@
+@fawn@|@ômô àgbõnrín@
+@fear@|@êrù, ìfòyà, jênnêjênnê, rù@
+@fearless@|@láìfòyà, láìníbêrù@
+@feasible@|@ní ÿíÿeÿeéÿelágbára ÿíÿe@
+@feast@|@àjô àpèje, àsè@
+@feat@|@iÿê agbáraiÿê ìyanuitù@
+@feather@|@ìyë eye@
+@feature@|@ìwò ojúàbùdá@
+@February@|@oÿù kejì ôdún@
+@federal@|@onídàpöti egbê@
+@federation@|@ìÿökanìdàpö@
+@fee@|@owó öyàìbùlé@
+@feeble@|@láìleraláìlágbára@
+@feed@|@oúnje@
+@feel@|@möfôwôbàfôwôkàn@
+@feeling@|@ìmöìfæwôbàìfôkànmö@
+@fellowship@|@ìdàpöìkêgbê@
+@female@|@abo, obìnrin, ti ábo@
+@feminine@|@ìwà ti obìnrinti aboti obìnrin, ti abo@
+@fence@|@ôgbà ògiri@
+@fender@|@apá kan lára môtò@
+@ferry@|@ôkõ àsôdá@
+@fertile@|@elésolêtù lójúelêtùlôörá@
+@festival@|@ìgbà àsèàjödún@
+@feud@|@ìjàasöààwöèdèkòyédè@
+@fever@|@ibàòtútùìlôraìgbóná-ara@
+@few@|@díê, ÿàÿà@
+@fewer@|@níwönba@
+@fiancé/ée@|@àfësönà@
+@fiber@|@okùn igiokùn ewéko@
+@fiddle@|@dùrù ôlöwö@
+@fiddler@|@atedùrù, onífèrè@
+@fidelity@|@olóòotôìfaramô@
+@fidget@|@rúnraÿàifara-balëÿàìgbéjê@
+@field@|@gbagede erëìgbê pápá@
+@fierce@|@roròmúnágbóná@
+@fifteen@|@mêëdógú, mêëdógúnëêdógún, nëêdógún@
+@fifth@|@ìkarùn-únëkarùn-ún@
+@fifty@|@adôta@
+@fig@|@èso õpõtö@
+@fight@|@ìjà, jagun, jìjàkadì, ogun@
+@fighter@|@jagunjagun, ôkõ ìjagun òfúrufú, oníjà@
+@figure@|@àpere àwòrán, iye@
+@file@|@àpò ìtôjú ìwé, ayùn@
+@filing cabinet@|@àpótí ìto ìwé lêsese@
+@fill@|@kúntê-lôrùn@
+@filling@|@kíkúntítêlôrùn@
+@film@|@atafo ojú@
+@filter@|@asë omi, sêro@
+@filth@|@èéríëgbinöbùn@
+@filthy@|@léèérílêgbinníriraeléerí@
+@fin@|@lêbê ejaàjë eja@
+@finance@|@owó  ìnáwó@
+@financial@|@ohun tó je mô owóti ìnáwó@
+@find@|@wá ríríwá kiribá@
+@fine@|@bùléni, dára, dùn, elegë, owó ìdáràn@
+@finger@|@ika, ôwö@
+@fingernail@|@èékánná ìka ôwö@
+@fingerprint@|@àmì ìfôwôsàmìsíàfôwôsàmìsí@
+@finish@|@paríÿe-tányôrí@
+@fire@|@iná@
+@fire alarm@|@ìdágìrì ìpaná@
+@fireman@|@panápaná@
+@fireplace@|@ibi ìdáná@
+@fireworks@|@iná òtùfù tí a ñ tàn fi ÿàríyá@
+@firm@|@lágbáraledúró ÿinÿingbôingbôin@
+@fish@|@eja, eja, peja wárí@
+@fisherman@|@adëja, apeeja@
+@fishing boat@|@ôkõ apeja@
+@fishing line@|@òpó apeja@
+@fishing pole@|@òpó apeja@
+@fist@|@êÿë, ëÿê ëkëÿê ìkuùkù@
+@fit@|@ÿe ìbámu, ÿe yeÿe ìbámu@
+@fitness@|@yíyçtítôìbámu@
+@fitting@|@ìbámu rêmúrêmú@
+@five@|@árùn-ún, árùn-únmárùn-ún, márùn-ún@
+@five hundred@|@ogorun marun@
+@fix@|@fà-somú-dúrófi-bötúnÿe@
+@fixture@|@ìsomôlëohun ìmúdúró@
+@flag@|@àsíá, õpágun@
+@flap@|@ìgbôn ìyê pìpìaréhán@
+@flare@|@ohun tí ñ jó bùlàbùlà@
+@flash@|@ìkôsànìmôlë@
+@flat@|@ilé alápìín gbé, têtêjúpelebegbalajaperese@
+@flatten@|@têbeerelù môlë pelêbê@
+@flatter@|@pôntàn@
+@flavor@|@àádùnìtôwòòórùn@
+@flavoring@|@àádùn@
+@flaw@|@àbúkú, sísánìlà@
+@flawless@|@áìlábààwônaláìlábùkùn@
+@flea@|@eégbôn, ìdun, iná ara@
+@flee@|@sásá-lôbê sá kúrò nínú ewu@
+@fleet@|@egbê-ôkööwô-ækö@
+@flesh@|@eran@
+@flight@|@ìrín àjò, ìsákúrò nínú ewu, ìsákúsàá, ìsálô@
+@float@|@lóòfófó lójú omi@
+@flood@|@ëkún omi, ìkún omi, ìÿàn omi@
+@floor@|@orílëilë-ilé@
+@florist@|@olódòdó, oníÿòwò òdòdó@
+@flour@|@ìyèfun@
+@flower@|@òdòdó@
+@flshlight@|@ìmôlë iná òtùfù@
+@food@|@orunje@
+@foolish@|@g@
+@foot@|@es, esè, esê@
+@force@|@agbára@
+@foreign@|@àjèdì, àjòjì@
+@foreigner@|@àlejò@
+@forest@|@ìgb, igbó@
+@forget@|@gbàgbé@
+@four@|@merin@
+@four hundred@|@ogorun meji, ogorun merin@
+@fourteen@|@merinla@
+@fourty@|@ogoji@
+@friend@|@órèegbèenìkejì@
+@frog@|@òpòló@
+@gain@|@àýfàní, èrè, ìfà@
+@gallery@|@õdêdê àwòrán, õdêdê lókè@
+@gamble@|@ta tëtë@
+@gambler@|@atatëtë, onítëtë@
+@game@|@eye tí ôde pa, iré, ìÿiré@
+@gap@|@ihò êlà ìsán àfo@
+@garage@|@ilé àtúnÿe ôkõ ayökëlë, ilé ìpamö ôkõ@
+@garbage@|@ìdõtí@
+@garden@|@ôgbà@
+@gardener@|@aÿögbà, olóko, olùÿögbà@
+@gardering@|@dídá oko@
+@gargle@|@tu pùpù, we õnà õfun@
+@garlic@|@áyù@
+@garment@|@aso@
+@gas@|@afëfë inú, epo ôkõ, isó@
+@gasmask@|@ohun ìbomú@
+@gasoline@|@epo (mötò)@
+@gate@|@enu önà òdeìlëkùn@
+@gateway@|@àbáwôléàbáwölúìwölúojúbodè@
+@gathering@|@àwùjo@
+@gauge@|@öpá ìdíwön@
+@gear@|@ohun èlò, ohun èlò tí nmú ôkö rìn@
+@gem@|@òkúta iyebíye@
+@general@|@õgágun, olórí ogun, wôpöàníkáríti gbogbo ènìà@
+@generally@|@nígbàkúgbàlákòópölákolù@
+@generate@|@bíbërëmú jádedá sílë@
+@generation@|@ìran ìdàrô@
+@generator@|@ërô ërô ìdàrô iná mönömônô@
+@generosity@|@inú rereöÿônúìlawô@
+@generous@|@nínú rereöÿônúnílawô@
+@genitals@|@okó àti çpön@
+@genius@|@amòye, iwin, olóye@
+@gentle@|@ní ìwà pëlêÿe jêjê@
+@gentleman@|@bökìní, gbajúmö, oníwà rere@
+@genuine@|@lótìítôláìÿëtànojúlówó@
+@geography@|@ìwé ìkôni nípa àgbáyé@
+@geology@|@ëkô ohun inú ilë nísàlë@
+@germ@|@èèhùorísunìbërëkòkòrò@
+@gesture@|@ìÿesíìwö@
+@get@|@gbà, gbà, nírígbàgbà@
+@ghost@|@ëmí iwin òkú@
+@giant@|@asígbônlê, òmìrán@
+@gift@|@êbùn, ôre@
+@giggle@|@rín êrín kékeré@
+@gill@|@ërëkê eja ìjàgbön@
+@giraffe@|@àgùnfôn@
+@girl@|@ômôbìnrin@
+@girlfriend@|@õrë obìnrin@
+@give@|@fi bùn, fi fún, jìn@
+@give back@|@dá...padà@
+@glacier@|@yìnyín nlá gbalasa@
+@glad@|@yöÿe inúdídùn@
+@gladness@|@ay@
+@glamor@|@ìÿújú@
+@glamorous@|@ti ìÿújú@
+@glance@|@ìwò fírí@
+@gland@|@eÿë@
+@glare@|@ìkómönàìdánmönà@
+@glass@|@àwo onídígí, dígíìwògbéàwòjìji@
+@glasses@|@dígí ojúdígí ìríranawòìwojú@
+@glider@|@ohun ìmúni yô bere@
+@glisten@|@tan ìmôlë@
+@globe@|@ìÿù rubutu ayéayé@
+@glorify@|@yìnlógo e lógoyìn@
+@glory@|@ògoìyínælá@
+@glossary@|@ìwé ìtúmöàsôyé@
+@glossy@|@dídán@
+@glove@|@ìbôwö@
+@glow@|@gbóná janjan@
+@glue@|@àte, lê, lê-põ@
+@gnat@|@kantíkantí@
+@goal@|@òpin ìsúré ìje@
+@goat@|@ewúr, òbúkô@
+@God@|@Olódùmarè, Ôlörun@
+@goddess@|@òrìÿà obìnrin@
+@goggles@|@dígí ojúawò@
+@gold@|@góòlù, wúràìwóòrògóòlù@
+@golden@|@ti wúràoníwúrà@
+@goldfish@|@eja aláwö wúrà@
+@golf@|@irú eré òyìnbó kan@
+@golf course@|@ôgbà nla gbalasa oníkoríko@
+@golfer@|@eléré@
+@good@|@reresuwöndára@
+@good afternoon@|@ka'san, ku osan@
+@good evening@|@ku irole@
+@good morning@|@ku aro@
+@good night@|@o d'aro, o di aro@
+@goodbye@|@ìkíni ti ìpínyà, õnà re o! ódìgbòÿe o!@
+@goodbye (1)@|@òdàbö@
+@goodness@|@ohun rere@
+@goods@|@erù ohun ìníôjà@
+@goodwill@|@ìfê inú rere@
+@goose@|@abo pêpêyepêpêye nlá@
+@gooseberry@|@irú èso kan@
+@gorge@|@öfunàjefëyààjejù@
+@gorgeous@|@dídárahíhàn@
+@gorilla@|@ìnàkíöbô ìnökí@
+@government@|@ìjôbaàkóso ìlú@
+@grab@|@já  gbàjá lôwó@
+@grace@|@ore-öfêojú rereànfàní@
+@graceful@|@dídáralêwà@
+@gracious@|@olóre-öfêaláàánú@
+@grade@|@ipòìtêjúìtêbereìdôgba, mú têjúmú dôgba@
+@gradually@|@díëdíëkërëkërë@
+@graduation@|@ayeye ìparí ëkö kíkà@
+@graft@|@àlômôìlô ëka sínú igi mìíràn, lômô@
+@gram@|@irú ìwön kan@
+@grammar@|@ìmö ìlò örö dájúdájúgírámà@
+@grammatical@|@ti mímæ ìlò örö dájúdájú@
+@granddaughter@|@ômô ômô lóbìnrin@
+@grandfather@|@bàbá bàbá, bàbá ìyá, baba ñlá (bàbá), baba ñlá(ìyá)@
+@grandmother@|@ìyá bàbá çni, ìyá ñlá, ìyá ñlá (bàbá), ìyá ñlá (bàbá)ìyá ìyá eni@
+@grandmother(1)@|@ìyá ìyá çni, ìyá ñlá (ìyá)@
+@grandson@|@ômô ômô lökùnrin@
+@granite@|@òkúta akô dúdú@
+@grant@|@fi fún, fi jíýkí, gbà@
+@grape@|@èso àjàrà@
+@grapefruit@|@òrombó nlá@
+@graph@|@àwòrán ìwön@
+@grasp@|@dìmúfæwô gbá múyélóyèe rë@
+@grass@|@koríko@
+@grasshopper@|@elëgà@
+@grateful@|@löpë, moore@
+@gratitude@|@ìdúpë, ìmoore@
+@grave@|@ibojì, isà òkú@
+@gravel@|@òkúta wërë, òkúta wëwë, yanrìn@
+@gravestone@|@òkúta orí ibojì@
+@graveyard@|@ìte òkú@
+@gravity@|@ìwà àgbàìjìnlë õkanibú@
+@gravy@|@omi ôbê, omitoro@
+@graze@|@je koríko@
+@grease@|@õrá@
+@greasy@|@kún fún öráôlôràá@
+@great@|@olókìkítóbiñlápö@
+@great grandfather@|@bàba bàbánlá, bàba ìyáñlá@
+@great grandmother@|@ìya bàbánlá, ìya ìyánlá@
+@greatness@|@títóbi@
+@ground nut@|@êpá@
+@guest@|@àlejò@
+@guinea fowl@|@awó@
+@habit@|@àsà, bárakú, ìwà, ìwôÿô, ìÿe@
+@hail@|@òjò dídì yìnyín@
+@hair@|@irun ara, irun orí@
+@haircut@|@irungígë@
+@hairdresser@|@afárunonígbàjámö, onídìríonígbàjámö@
+@hairy@|@onírunyetuyçtu@
+@half@|@àböìdáméjì, ìdajìàbö@
+@hall@|@yàrá nlá@
+@hallucination@|@ìÿújú@
+@halve@|@dá sí méjìpín sí méjì@
+@ham@|@itan elêdë oníyö@
+@hammer@|@òlùômôwú@
+@hammock@|@ìbôpòìbùsùn àsôrô@
+@hand@|@ôwô@
+@handbook@|@ìwé ìtônásí@
+@handbrake@|@ërô fífà tí nmú ôkö dúró@
+@handcuffs@|@pawôpê@
+@handful@|@ìkúnwô@
+@handicapped@|@tí ÿe arô ara@
+@handkerchief@|@aÿô ìnujúgèlè@
+@handle@|@ìdìmú@
+@handshake@|@ìbôwô@
+@handsome@|@dáralêwà@
+@handwriting@|@ìköwé@
+@handy@|@rôrùnnítòsí@
+@hang@|@gbé kôfikô@
+@hangar@|@ilé ìfipamô ôkö òfúrufú@
+@hanger@|@èlò ìfigbé ëwë kô@
+@happen@|@dé, dé, ÿelëÿe@
+@happiness@|@inúdídùnàláfíaàìroraayö@
+@happy@|@lálàfiàníroranínúdídùn@
+@harass@|@pin lêëmíyô lênudá lí agara@
+@harassment@|@ìpinlêmìíìyôlênu@
+@harbor@|@èbúté ôkö@
+@hard@|@nirale  ÿòro@
+@harden@|@múle mú ÿòro@
+@hardly@|@ÿàÿàekukákáagbára-káká@
+@hardship@|@ìÿòroìnira@
+@hare@|@ehoro@
+@harem@|@ilé elêhàá@
+@harm@|@ìpaláraibiìbàjê, palára@
+@harmful@|@nípàlaára@
+@harmless@|@láìléwuláìnípalára@
+@harmony@|@ìÿedédéìrêpöìbárê@
+@harness@|@ìjánu eÿin@
+@harpoon@|@ôkö irin fún pípa erinmi@
+@harsh@|@le, líle@
+@harvest@|@ìkórè@
+@haste@|@àìfarabalê, àìgbéjë, ìkánjú, ìyára@
+@hat@|@aketê, ate@
+@hatch@|@pa ômô nínú eyin, yín, yínyínpípa ômô nínú eyin@
+@hatchet@|@àáké@
+@hate@|@ìkórira, ìrira, kórira@
+@hateful@|@kún fún ìrira@
+@haul@|@gbéfàwô@
+@have you bathed?@|@ýjë o ti wê?@
+@havoc@|@ìbàjêòfòìparun@
+@hawk@|@àwòdì, àÿá@
+@hay@|@koríko gbígbe@
+@haystack@|@abà koríko gbígbe, òkìtì koríko gbígb@
+@hazard@|@ewu, ìjàbá@
+@hazardous@|@léwunípanilára@
+@haze@|@ikúùkúù@
+@hazy@|@níkúùkúù@
+@he@|@ó, òun@
+@head@|@orí@
+@headache@|@ëförí, frí@
+@heading@|@orí õrõ@
+@headlight@|@iná ìtônisônà iwájú ôkö@
+@headline@|@örö àkôsô@
+@headquarters@|@ilé olórí egbê@
+@heal@|@wòsànmú lára dáwòjiná@
+@health@|@ìleradídá ara@
+@healthy@|@níleratagun@
+@hear@|@gbö, têtí sí@
+@hearing@|@gbígbô ejô, gbígbôràngbígbô@
+@heart@|@ôkàn@
+@heartbeat@|@ìlù ôkàn, ìlùkìkì  ôkàn@
+@heartburn@|@àyàtíta@
+@heat@|@oruìmóruìgbóná@
+@heater@|@ërô tí  fúnni lóru@
+@heating@|@mímóru@
+@heatware@|@òru àpáàdí@
+@heaven@|@òkè örunörun àláfíà@
+@heavy@|@wúwo@
+@hectic@|@hílàhílò, láìníyàn@
+@hedge@|@ôgbà@
+@hedgehog@|@öyà@
+@heel@|@gìgísë@
+@height@|@gíga@
+@heighten@|@gbéga@
+@heir@|@àróléajogúnmôgàjí@
+@heiress@|@àróléajogúnmôgàjí@
+@heirloom@|@ajogúnbá@
+@hell@|@örun àpáàdí@
+@hello@|@e pêlë, nlë o@
+@helm@|@ìtôkö@
+@helmet@|@àketë ìborùn@
+@help@|@ìrànlöwö, ràn löwö@
+@helper@|@atinilëhìn, olùrànlöwö@
+@helpful@|@ìÿe ìrànlôwô@
+@helpless@|@láìnírànlôwô@
+@hem@|@ìÿêtí aÿô@
+@hemisphere@|@àwòrán orí ëyà ayé@
+@hen@|@abo adìye, àgbébõ@
+@her@|@òun, rê, tirê@
+@herb@|@ewébë@
+@herd@|@öwô eranàgbò eran@
+@here@|@ibí@
+@hermit@|@aládàágbéàdágbáanìkanje@
+@hernia@|@ìyô ìfun@
+@hero@|@akôni, alágbára@
+@heroic@|@ìÿe akôni@
+@heroin@|@akôni obìnrin@
+@hesitation@|@iyèméjìàníàní@
+@hexagon@|@nkan onígun mêfà@
+@hibernation@|@ìdágbéàsémôraàsémô@
+@hiccup@|@òsúkèsúkèsúkè@
+@hidder@|@dá lôwô dúródíwôdí lí önà@
+@hide@|@ìpamô@
+@high@|@ga@
+@high school@|@ilé ëkô@
+@highway@|@önà gbàngbàòpópó@
+@hijack@|@dè nà dègbà ní tipá@
+@hiker@|@arìnrìn fàájì nínú aginjù@
+@hill@|@òkè kékeré@
+@hilly@|@kìkì òkè@
+@him@|@ó, òun@
+@hinderance@|@ìdínàìdádúróìdíwô@
+@Hindu@|@Hííndù@
+@Hindu(1)@|@ti ësìn Hííndù@
+@hinge@|@ohun àgbékô@
+@hint@|@ìfenulé@
+@hip@|@ìbàdí@
+@hippopotamus@|@eÿin omieÿin odòjomijoke@
+@hire@|@gbaÿê ôwôháyàgbàlôyà@
+@his@|@rê, tirê@
+@hiss@|@pòÿé@
+@historian@|@òpìtàn òkòwé ìtàn ìjôba@
+@historic@|@ti íwé itan@
+@history@|@íwé ìtàn@
+@hit@|@gbá  nàlù@
+@hitch@|@kôfi ìwo kô@
+@hoarse@|@lë@
+@hobby@|@iÿê ìdera fún ìgbádùn ara eni@
+@hoe@|@ôkö@
+@hog@|@eld@
+@home@|@ile@
+@honey@|@oyin@
+@horse@|@eÿin@
+@hour@|@wákàtí@
+@house@|@ilé@
+@how@|@bí@
+@human being@|@ènìyàn@
+@hunger@|@ebi@
+@husband@|@ôkô@
+@I@|@émi, mo@
+@ice@|@omi dídì, yìnyín@
+@ice cream@|@wàrà dídì aláàdúùn@
+@icicle@|@yìnyín têrê@
+@idea@|@ìròiyè inú@
+@ideal@|@àpere aláìlêgbê@
+@identical@|@bámubákanñà gêgê@
+@identification@|@ìdámöàmì ìdámöàmìorúkô@
+@identify@|@ÿèdámömö dájúsàmìsí@
+@idiom@|@ësô örö@
+@idiot@|@aÿiwèrèòmùgöapôdà@
+@idiotic@|@tíí hùwà aÿiwèrèbíi ti òmùgö@
+@idle@|@leáìÿiÿê@
+@idol@|@èreòrìÿà@
+@idolize@|@kêsôdòrìÿà@
+@if@|@bíbí ó bábóÿepé@
+@ignite@|@tinábökùn@
+@ignorance@|@àìmöàìlóyeòpe@
+@ignorant@|@láìmöyeláìmöòpe@
+@ill@|@ÿàìsàn@
+@illegal@|@lòdì sí òfinàìtôsófinàìbófinmu@
+@illegitimate@|@ômô àlè, õnà àìtö@
+@illiterate@|@aláìmöwéaláìköwéàìkô@
+@illness@|@àìsàn, àrùn@
+@illuminate@|@tàn ìmôlëÿe lôÿöôfi òye yé@
+@illumination@|@ìmôlëìtànòye@
+@illusion@|@ìÿìnàëtànìrújú@
+@image@|@àwòrán, àwòrán, àwòráneré@
+@imagine@|@fojú inú wò, rò gbèrò@
+@imbalance@|@àìpéàìdôgba@
+@imitate@|@tëlêÿe àfarawéfarawésínje@
+@imitation@|@àfarawéàpere  ìsínjeìÿàwòta@
+@immagination@|@ojú-inúìròòyé@
+@immaginative@|@àfojú-inú-wò@
+@immaterial@|@láìníláríÿàìtó túnòtúbántê@
+@immature@|@àìpônàìgbôàìgbôn@
+@immaturity@|@ìwà àìgbônìwà ômôdebí ômôdé@
+@immediate@|@lójúkannáàlôgánní kíá@
+@immense@|@láìníwönláìníyetítóbinlá@
+@immerse@|@tê bomi@
+@immersion@|@ìtëbomiìteríbomi@
+@immigration@|@ìÿílô sí ìlú míràn@
+@imminent@|@léwu lórísúnmô ìtòsí@
+@immortal@|@láìkútí kò lè kú@
+@immortality@|@áìkúàìdìbàjê@
+@immune@|@lánfàníní ìdásíní ìtúsílë@
+@impact@|@agbárakíkàn, ìwólù@
+@impair@|@bàjêfàsêhìn@
+@impassable@|@láìÿeé là kôjá@
+@impatience@|@àìnísùúrùìkánjúàìfarabalë@
+@impatient@|@láìnísùúrùníkàánjúláìfarabalë@
+@imperial@|@ti ìjôbati ôba@
+@implement@|@ÿemú ÿç lë@
+@imply@|@wí láìsôfà yô@
+@importance@|@ohun  pàtàkìlárí@
+@important@|@pàtàkìtóbilárí@
+@impossible@|@ÿòroláìÿeéÿe@
+@impress@|@pôntàn, të môwö lôkàntenumô@
+@impression@|@èroàfiyé, ìsàmìsítítë@
+@imprint@|@títëmôfífisí ìrántíìsàmìsí@
+@imprison@|@há môsé môtí môlé@
+@imprisonment@|@ìhámô inú túbúìfisêwön@
+@improbable@|@láìlèríbëÿàìríbë@
+@improper@|@láìtôláìye@
+@improve@|@mú sàntún ÿemú dára@
+@improvement@|@ìmúsànàtúnÿeìmúdára síwájú@
+@improvise@|@dá-sílëdá ôgbón sifi ôgbón ÿe@
+@impulse@|@agbára ìrôlùòòfà ôkàn@
+@in@|@ní, nínú@
+@in what way@|@bí@
+@inability@|@àìnípaàìlágbára@
+@inaccessible@|@láìlèsúnmôláìlèlàkôjá@
+@inaccurate@|@láìpeláìkàpéníÿìÿe@
+@inactive@|@láìÿe nkanleláìÿiÿê@
+@inadequate@|@láìtôláìtôõkan@
+@inadvertently@|@láìfiyèsíláfojú-fòdá@
+@inauguration@|@ìdásílëìbërëìpìlëìjôbaìfijôba@
+@incapable@|@láìlèÿeláìlágbára@
+@incense@|@láìlèÿeláìlágbára, òórùn tùràrí@
+@incentive@|@ìmóríyáìÿíni lórí@
+@incident@|@alábàápàdéìÿelëìtàn@
+@incidentally@|@ÿalábàápàdé@
+@incite@|@gbé dìderú ôkàn sókè@
+@inclination@|@ìtësíìfa ôkàn sí@
+@incline@|@kìkì òkèòkè@
+@include@|@kà kún fi pëlúkàmôfikún@
+@including@|@áti, pêlú@
+@inclusive@|@níti àkójôpöti ëkúnnípa kíkún@
+@income@|@èrèowó ôdúnèléowó-iÿêowó-öya@
+@incompetent@|@láìlágbáraláìtôÿàìtó@
+@incomplete@|@láìpéÿàìkún@
+@inconvenience@|@ohun àìrôrùn@
+@inconvenient@|@àìrôrùnláìye@
+@incorrect@|@láìpé@
+@increase@|@ìbísiàsunkúnìpösi@
+@increasing@|@bí si, pípõ siì@
+@incredible@|@láìÿeégbàgbô@
+@incriminate@|@fi sùnka ëÿë sí lôrùn@
+@incurable@|@láìlèwòsànjingíri@
+@indecent@|@àìtôàìwòàìye@
+@indecision@|@iyèméjìàìpinnuàníàni@
+@indeed@|@gidi, nítòótö@
+@indefinite@|@láìlópintí kò dájú@
+@indefinitely@|@láláìlópintítíláí@
+@indian corn@|@àgbàdo@
+@indicate@|@fihàn tôkasí yàn@
+@indication@|@ìfihànàpere@
+@indict@|@fi sùnka ëÿë sí lôrùn@
+@indictment@|@ìwé ësùn@
+@indigestion@|@àìda onje@
+@indirectly@|@láìÿetàrà@
+@individual@|@olúkúlùkúeni kökan@
+@industrial@|@láìsimiláápôn@
+@industry@|@aápôniÿê oníÿòwò@
+@ineffective@|@láìní àÿeláìmúrôláìlágbára@
+@inefficient@|@láìwúlò@
+@inexpensive@|@láìnì ìnáwó púpö@
+@infamous@|@burú rékôjálêgàn@
+@infant@|@ômô ôwôômô-ômu@
+@infantary@|@ômô-ogun elêsë@
+@infect@|@rán môkó ràntàn ká@
+@infection@|@ìránmôàkórànëràn@
+@infectious@|@tíí ràntí ígbéràn@
+@inferior@|@rçlë jùômô-ëhìnrëhìn@
+@ingnition@|@ìtinábökíkùn@
+@in-law@|@àna@
+@insect@|@kòkòrò@
+@iron@|@irin@
+@island@|@erékúsù@
+@jacket@|@êwù àwõlékè@
+@jail@|@ilé êwõn, ilé túbú@
+@jam@|@èso igi tí a ti sè, ìnira, ìyônu, ìÿòro@
+@jammed@|@fífún põ, títì põ@
+@janitor@|@olùtöjú ilé iÿë@
+@January@|@oÿù kìnínní ôdún@
+@jar@|@ebà, ìdê, ìgò@
+@jaw@|@egungun párí êrêkë@
+@jealous@|@olójowú, owú@
+@jealously@|@owú, owú-jíje@
+@jeep@|@irú ôkõ kan@
+@jelly@|@omi èso tí a fi iyõ òyìnbó dì@
+@jellyfish@|@irú eja kan@
+@jet@|@ìÿàn omi ìrúkè omi, ôkõ òfúrufú@
+@jetty@|@afárá tí ó yô sínú omi@
+@Jew@|@Hébérù, olùgbé Jùdéà, ômô Ísráëlì@
+@jewel@|@àlùmônì, òkúta iyebíye@
+@jeweler@|@olùtà òkúta iyebíye@
+@jewelry@|@ohun öÿô olókúta iyebíye@
+@Jewish@|@ômô Ísráëlì@
+@job@|@is, iÿë, iÿë kékeré@
+@jobless@|@láìÿeÿë@
+@join@|@dì, dì, fi kún, so mô, so põ@
+@joint@|@oríkèé@
+@joke@|@àpárá, àwàdà, àÿàyà, êfê, õrõ êrín, yêyë@
+@journal@|@ìwé ìròhìn@
+@journalism@|@iÿë kíkô ìwé ìròhìn@
+@journalist@|@akõwé ìròhìn@
+@journey@|@àjò, àjò, ìrìnàjò@
+@joy@|@ay, ayõ@
+@joyful@|@kún fún ayõ, ÿàríyá@
+@judge@|@adájö, dájö, dálëjö, fojú wõn, onídájö@
+@judgement@|@ìdájö@
+@juice@|@oje, omi inú èso@
+@juicy@|@kún fún omi, lëtù lójú, olóje, rin@
+@July@|@oÿù keje ôdún@
+@jump@|@bë, fò@
+@junction@|@ìdàpõ ìsolù, ìpàdé õnà@
+@June@|@oÿù kçfà ôdún@
+@jungle@|@aginjù, igbó@
+@junior@|@àbúrò kékeré, àtêlé@
+@juror@|@aÿegbë ìgbímõ@
+@just@|@dídúró ÿinÿinní, láìníbàáwí, olódodo, tòótö@
+@just (1)@|@gan, gêgê, nísisìyí, níwòyí kúkú, pátápátá, ÿêÿê@
+@justice@|@òtítö òdodo onídájö@
+@justification@|@ìdáláre@
+@justify@|@dá láre@
+@juvenile@|@ti èwe, ti ômôdé@
+@kangaroo@|@eranko  afikùn gbömô rê põn@
+@keep@|@fi pamö, töjú@
+@kennel@|@ilé ajá@
+@ketchup@|@onje oní tùmátì dídùn@
+@kettle@|@ìkòkò bíbô omi, ohun èlò omi@
+@key@|@ìtumõ, kökörö, ômô àgàdàgodo, ômô ìÿíkà@
+@keyboard@|@dùrù, èlò àfôwôte@
+@kick@|@ìtàpá, tàpá@
+@kidnap@|@jí ènìyàn gbé, jí ènìyàn tà, jítà@
+@kidnapping@|@ìdánà, jíjí ènìyàn gbé, jíjínità@
+@kidney@|@ere, iwe, ôlô-inú@
+@kill@|@gbé lëmìí, pa@
+@killer@|@apànìyàn@
+@kilo@|@ìwõn, kilo, òÿùwõn@
+@kilometer@|@ìjìnà, ìwõn@
+@kind@|@irù egbë õwö, nínú rere, ÿènìyàn@
+@kindness@|@inú rere ôre, ìÿeun@
+@king@|@ôba@
+@kingdom@|@ìjôba ilé ôba ìlú@
+@kiss@|@fi enu konu, ìfenukonu@
+@kitchen@|@ibi ìdáná, ilé ìseñje@
+@kitten@|@ômô ológbò, ômô ológìnní@
+@knead@|@pò@
+@knee@|@ekún, orúkún@
+@kneecap@|@egungun ekún@
+@kneel@|@kúnlê@
+@knife@|@õbç, òbe@
+@knight@|@irú olóyè kan@
+@knit@|@dàpõ, fi ôwö hun@
+@knob@|@kókó@
+@knock@|@kàn, kànkùn, lù@
+@knot@|@ìdìjú, ìsolù, kókó@
+@know@|@mõ@
+@knowledge@|@ìmõ, mímõ, ôgbön êkö, òye@
+@knuckle@|@kókó ôwö, oríìké ìka@
+@Koran@|@Àlkùránì, ìwé-mímö Ìmàle@
+@kow-how@|@ìmõ, ìmõ iÿë ônà, ôgbön ìmõ@
+@lake@|@adágún@
+@lamb@|@òdó-àgùntàn@
+@lamp@|@àtùpà@
+@land@|@il@
+@language@|@èdè@
+@lay hold of@|@gbà@
+@leader@|@ìjòyè@
+@leaf@|@ewé@
+@learned person@|@õjögbön@
+@leather@|@awo@
+@leg@|@es, esè, esê@
+@leopard@|@ekùn@
+@letter (alphabet)@|@ábídí; létà@
+@letter (mail)@|@létà; ìwé tí a ko sí ènìyàn@
+@light@|@iná@
+@like@|@bí@
+@likewise@|@w@
+@lion@|@kìnìún@
+@lip@|@ètè@
+@liver@|@êdö@
+@load@|@eru@
+@location@|@ibi@
+@locust tree@|@ìgbá@
+@long time no see@|@o t'ojo meta@
+@looking-glass@|@dígí@
+@lord@|@oluwa@
+@louse@|@iná@
+@love@|@f ràn@
+@luggage@|@eru@
+@lunatic@|@asiwèrè@
+@machine@|@êrô, ohun èlò, ro@
+@machine gun@|@ìbôn etù@
+@machinery@|@êrô, ohun èlò@
+@machinist@|@elërô@
+@mad@|@asínwín, bíbàjë orí, ÿiwèrè@
+@magazine@|@àpò etù, ìwé ìròhìn@
+@maggot@|@ìdin@
+@magic@|@idán@
+@magician@|@aláfõÿe, alálùpàyídà, onídán@
+@magistrate@|@adájö, onídàájö@
+@magnet@|@òkúta ìmúrin, òòfà@
+@magnificent@|@lógo, níyìn púpõ, tóbi@
+@magnify@|@gbé-ga, mú-tóbi, yìn lógo@
+@magnifying glass@|@dígí ìmútóbi@
+@maid@|@obìnrin, omidan, ômô-õdõ obìnrin, wúndíá@
+@mail@|@ìwé, lëtà@
+@mail box@|@àpótí tí a fi lëtà pamö sí@
+@mailman@|@òÿìÿë tí pín ìwé (lëtà) kiri@
+@main@|@olórí, pàtàkì@
+@mainland@|@ìlú gan, olú ìlú@
+@mainly@|@pàtàkì, pàtàkì jùlô@
+@maintain@|@dì mú, töjú, ÿe ìtöjú@
+@maintenance@|@ìtöjú@
+@maize@|@àgbàdo@
+@major@|@oyè õgágun àgbà@
+@majority@|@õpõ ènìyàn@
+@make@|@dá, ÿe@
+@make-up@|@fi ÿe fáàrí, ìfi àtíkè ku ojú, ìpadàbõwá ÿe parí@
+@male@|@akô@
+@malice@|@arankan, êtê, kùnrùngbùn, odì@
+@malignant@|@ní ìkà, ní ìrò búburú, ní oró nínú@
+@mammal@|@ènìyàn/eranko àfômúbömô@
+@man@|@ènìyàn, ôkùnrin@
+@manage@|@kápá, kawo, tö, ÿe àbójútó, ÿe àkóso, ÿe ìtöjú@
+@manageable@|@níkáwô, rôrùn láti tó, ÿe ìÿàkôso@
+@management@|@ìbójútó@
+@manager@|@alábójútó, olórí@
+@mandatory@|@àÿe dandan, àÿe ní túláàsì@
+@mane@|@gõgõ eÿin@
+@manhood@|@dídi ôkùnrin, ìgbà ìdôkùnrin, ìwà ôkùnrin@
+@manipulate@|@dà ríborìbo, fi ôwö ÿisë@
+@mankind@|@aráyé@
+@manner@|@irú, ìwà  ìÿe, õnà@
+@manners@|@ìhùwà@
+@manoeuvre@|@ôgbön ìlò@
+@manslaughter@|@ìpànìyàn@
+@manual@|@ìwé àpèjúwe, ìwé àÿe, ìwé ìtökasí, ìwé kékeré@
+@manual (1)@|@àfôwöÿe@
+@manufacture@|@fi ônà ÿe nýkan títà, rô, ÿe@
+@manufacturer@|@olùÿiÿë ônà títà@
+@manure@|@àtàn, ìlêdú@
+@many@|@õpõlôpõ, põ, púpõ@
+@map@|@àwòrán ayé, ìwé ìfõnàhàn@
+@marble@|@òkúta dídán@
+@march@|@oÿù kçta ôdún, rìn lësese, yan, yíyan àwôn ômô ogun@
+@mare@|@abo eÿin@
+@marginal@|@bëêbëê@
+@marina@|@òkun@
+@mark@|@àmì orin, àpá@
+@market@|@ôjà@
+@marksman@|@ayìnbôn, õta@
+@marriage@|@ìgbéyàwó@
+@marriage certificate@|@ìwé êrí ìgbéyàwó@
+@married@|@tí ó ní ôkô tàbí aya@
+@marry@|@gbé ní ìyàwó@
+@marsh@|@àbàtà, erê, erõfõ, ìrà@
+@martyr@|@ajëêríkú, jëêríkú@
+@marvellous@|@alárà, ya ni lënu@
+@masculine@|@akô, akô ôkùnrin@
+@mask@|@àgõ, ìbojú ìparadà@
+@mass@|@àkópõ, ìÿù@
+@mass(1)@|@ìsìn àdúrà ìsìnkú, oúnje alë Olùwa ní ìjô Róòmù@
+@massacre@|@àföbàjë, àpafön, àpalù, ìpakúpa, ìparun@
+@massage@|@ìpara ìtunilára, ìpara oníwòsàn, ìwöra@
+@massive@|@jõýjõn, tóbi, wúwo@
+@mast@|@òpó ôkõ@
+@master@|@alákoso, baba, baba, õgá, olórí@
+@mat@|@ení, pàkìtí@
+@match@|@bá dögba, eré ìje, ìdíje, ìdögba, ìÿáná@
+@matching@|@irúkannáà, rí bákannáà@
+@material@|@ôjàaÿônkan èlò tí a fi ÿe nkan@
+@maybe@|@b yá, bóyá@
+@mayhap@|@bóyá@
+@mealies@|@àgbàdo@
+@mean@|@àárín@
+@meat@|@eran@
+@medicine@|@egbòogi@
+@meet@|@bá@
+@meeting@|@àwùjo@
+@metal@|@irin@
+@middle@|@àárín@
+@milk@|@wàrà@
+@minute@|@ìséú@
+@mirror@|@dígí@
+@mistake@|@àsìse@
+@misunsderstand@|@èdèàìyédè@
+@money@|@owo, owó@
+@monkey@|@öbô@
+@month@|@osù, oÿù@
+@morning@|@àár@
+@mother@|@ìyá, mama@
+@mountain@|@òkè gíga@
+@mouse@|@èkúté@
+@mouth@|@enu@
+@music@|@orin@
+@nail@|@ìÿó@
+@naked@|@láìláÿô, níhòhò@
+@name@|@orúkô@
+@nap@|@ògbé, orun yë@
+@napkin@|@aÿô ìnuwöô@
+@narration@|@ìhìn, ìròhìn, ìtàn@
+@narrative@|@ìtàn@
+@narrow@|@há, híhá, tóró@
+@nasty@|@korò, léerí lëêgbin@
+@nation@|@orílê-èdè@
+@national@|@ti ilê, ti orílë-èdè@
+@nationality@|@ará ìlú, ìlú, orílê-èdè@
+@nationalize@|@sô di tì ìlú@
+@nationally@|@bí ará ìlú, nípa ti ìlú@
+@native@|@ará ìlú, ômô ìbílê, onílê, ti êdá, ti ìbí@
+@natural@|@adánidá, àìfagbáraÿe, ti ìwà ëdá@
+@naturally@|@láìfagbáraÿe, tinú-tinú@
+@nature@|@ëdá, ëdá ohunkóhun, ìwà@
+@nausea@|@èébì, ìrìndõ, ìÿu@
+@naval@|@ti ôkõ, ti ôkõ ogun@
+@navel@|@ìdodo, ìwõ@
+@navigate@|@tukõ, wa ôkõ@
+@navigation@|@ìtukõ lójú omi@
+@navy@|@õwö ôkõ-ogun@
+@near@|@ìtòsí, õdõ, súnmöra@
+@nearly@|@fërê, kù díê, kù fërë@
+@neat@|@afínjú, fífínjú, já fáfá@
+@necessary@|@laáìÿe àìní, tí kò lè rí bámiràn, tí kò lè ÿàìwà@
+@necessity@|@àìgbôdõ máÿe, àìní, õrõnyõn@
+@neck@|@êmí, ôrùn@
+@necklace@|@ìkárùn, ilêkê@
+@need@|@fë, fë kù, ní-lò@
+@needle@|@abërë@
+@needless@|@láìnílárí, ÿaláìye@
+@needy@|@aláìní, òtòÿì, tálákà@
+@negative@|@õrõ ìyàn, õrõ òdì, õrõ sísë@
+@neglect@|@àìbìkítà, àìfiyèsí, ìfojúfòdà, ìgbàgbé, ìjáfara@
+@negligence@|@ìfifalê, ìjáfara, ìwà àìfiyèsí@
+@negligent@|@aláfara, onígbàgbé@
+@negotiate@|@sô ti ìÿòwò, ÿe àdéhún@
+@negotiation@|@àdéhún ìÿòwò@
+@neighbor@|@aládúgbò, ômônìkejì@
+@neighborhood@|@àdúgbò ìlú, gbëgbëlê, sàkani@
+@neither@|@bëê ni, kì@
+@nephew@|@ômô (ôkùnrin) arábìnrin, ômô (ôkùnrin) arákùnrin@
+@nerve@|@agbára ôgbön, iÿan@
+@nervous@|@àìnídájú, tí gbõn, tí ÿara gbígbõn  àìdá-ara@
+@nest@|@ìtë eye@
+@net@|@àwõn, òbìrìkí@
+@neuter@|@àìÿe akô tàbí abo, kì íÿe akô kì íÿe abo@
+@neutral@|@láìpõ síha enìkan, láìÿe akô tàbí abo@
+@never@|@bëêkö láí, bëêkô tëlê@
+@new@|@titun àkõtun@
+@news@|@ìhìn ìròhìn ìró làbárè ìgbúùró@
+@newspaper@|@ìwè ìròhìn@
+@next@|@èkejì, elëêkejì, nítòsí@
+@nice@|@dára, dùn, sunwõn@
+@niece@|@ômô (obìnrin) arábìnrin, ômô (obìnrin) arákùnrin@
+@night@|@alë, òru@
+@nightmare@|@àlá búburú, ìhanrun@
+@nine@|@êsan, mêsàn@
+@nine hundred@|@ogorun mesan@
+@nineteen@|@mökàndílógún, ökàn-dín-lógún@
+@ninety@|@àádörun@
+@ninth@|@êkesan@
+@nipple@|@ômú ÿóÿó orí ômú@
+@no@|@agbêdö, bëê kö, rárá@
+@nobody@|@enì kankanenìkankanènìà lásán@
+@nod@|@mi orí sí@
+@noise@|@ariwoirôòkìkí àtó@
+@noisy@|@láriwonírôaláriwo@
+@nomally@|@dédéìwàwíwàbí ìlànà@
+@nominative@|@pè lórúkôyàndárúko@
+@none@|@õkankan kò sí õkan@
+@nonsense@|@õrõ ìÿôkúsôbóro-bòroörökôrö@
+@noodle@|@irú onje ìla-òrun kan@
+@normal@|@gêgê bí ìlànàgêgê bí ìwön@
+@north@|@àríwá ìhá òkè@
+@northern@|@ní àríwáníha òkè@
+@northwards@|@níha àríwá@
+@nose@|@ariwo, imú@
+@nosey@|@ÿôwòti imú bö ejôelêjô@
+@nostril@|@ihò imú@
+@notable@|@níyìnlókìkíàfiyèsí@
+@note@|@àmì orin, ìwé kúkúrú, ìwé owó, kô@
+@notebook@|@ìwé ìfiyèsíìwé ìrántí@
+@nothing@|@àìsíõkanàìsíàìwààìníláríófo@
+@notice@|@àfiyèsíìkìlöìròhìn@
+@noticeable@|@nífiyèsípeterí@
+@notification@|@ìkìlöìfihàn@
+@notion@|@ìmö ìrô@
+@notorious@|@mímö ní gbangbalókìkí@
+@nourish@|@bôfi onje fúntó-dágbakê@
+@nourishing@|@nípa ìtôdàgbàoníìkêìmárale@
+@novel@|@ìwé ìtàn@
+@novelty@|@otunìÿe titun@
+@november@|@oÿù kôkànlá ôdún@
+@now@|@ìgbà ìsisìyíwàyí@
+@nowhere@|@láìsíníbìkan@
+@nozzle@|@imúenu@
+@nude@|@níhòhòláìláÿô@
+@nuisance@|@ìyônuìriraìpaniláraèéríëgbin@
+@number@|@iye@
+@numeral@|@iye@
+@numerical@|@níye@
+@numerous@|@pölôpölôpöògidigbó@
+@nun@|@obínrin àlùfáà nínú ìjô Àgùdà@
+@nurse@|@olùtôolójöjö ômôalágbàtô@
+@nursery@|@ilé ìtôjú igioko-igi, ilé ìtôjú ômô wëwë@
+@nursery(1)@|@ilé ìtôjú  ohun ögbìnoko-ögbìn@
+@nursing@|@ìtôjúìwòsàn@
+@nut@|@kóró éso igièkùrôëpà@
+@oak@|@igi apádò, igi óàkù@
+@oar@|@àjê, òbèlè@
+@oath@|@èpè, ìbúra@
+@oats@|@ôkà@
+@obedience@|@ìforíbalê, ìgbôràn@
+@obedient@|@nígbôràn, nítçríba@
+@obituary@|@ìhìn ìsìnkú@
+@object@|@já ní koro, kõ, ohun rírí, ÿòdì sí@
+@objection@|@ìkõ, ìÿodì sí@
+@objective@|@láìní ojúsàájú  ènìyàn, láìÿègbé, láìÿõtún-láìÿòsì@
+@obligation@|@ìdè ohun ýkaÿàìÿe, igbèsè ore, õrànyàn, ore@
+@obscene@|@èríí, láìnítìjú, nírira, öbùn@
+@obscenity@|@èríí, ìrira, ohun ìtìjú@
+@observant@|@wíwòyetí ó fojúsílëÿíÿô@
+@observation@|@ìkíyèsíìfojúsílëgbólóhùn örö@
+@obsolete@|@gbó, ti àtijö, tí kò wúlò mö@
+@obssession@|@àìmökàn kúrò, ìfë àf, ìfôkànsí láìnídìí, kún lökàn@
+@obssessive@|@nífêë àfëjù@
+@obstacle@|@ìdálöwökö, ìdíwö, ohun ìdínà@
+@obstruct@|@dá dúró, dí lönà, ìdíwö@
+@obstruction@|@ìdílönà, ìdíwö@
+@obtain@|@gbà, ní, rí-gbà@
+@obtainable@|@gbígbà, rírí, rírí gbà, ÿeé gbà@
+@obvious@|@farahàn, híhàn gbañgba, láìÿòro rí@
+@obviously@|@dájúdájú, láláìÿòro rí@
+@occasion@|@àyè õnà, ìdí@
+@occasionally@|@láìÿègbàgbogbo, lëêkõõkan, nílàrenílàre@
+@occupation@|@ìbùdó, ìdawöbò, ìní, iÿë@
+@occupy@|@bùdó, dawö bò, gba ipò, gbé, ÿiÿë@
+@occur@|@dé, dé, hàn, ÿê, ÿelê@
+@occurrence@|@ìÿelê@
+@ocean@|@òkun nlàagbami òkun@
+@october@|@oÿù kçèwá ôdún@
+@octopus@|@eea elêsë mêjô@
+@odd@|@àjèjì, àjèjì, láìgún gêgêláìbámu, pandanláìbámu@
+@odor@|@òórùnokiki@
+@of@|@nípa, níti, ti@
+@off@|@pa@
+@offend@|@bà nínú-jêÿë mú kôsë@
+@offense@|@êÿê@
+@offer@|@ebô ìfilö@
+@office@|@iÿêibi iÿêipò iÿê oyè@
+@officer@|@ögágun@
+@official@|@lábê àÿçnípa agbára oyè, oníÿê@
+@often@|@nígbà-kúgbáà nígbà púpö@
+@oil@|@epoòróróörá@
+@oily@|@lépo@
+@old@|@ìdarúgbóìdàgbàgbóìhewú@
+@old man@|@arúgbó@
+@olive@|@igi òróró ní ilê àwôn Júù@
+@omit@|@fò-kôjágbàgbéfi-sílë@
+@on@|@lórí@
+@once@|@êêkan, kan, lëêkàn, nígbà kan@
+@one@|@ení, enìkan, ìkan, õkan@
+@one hundred@|@ogorun@
+@one thousand@|@egberun@
+@onion@|@àlùbösà@
+@only@|@kan, kan yoyo, nìkan, õkan yoyo, péré, péré, ÿa@
+@only (1)@|@àfi, àfibí, nìkan@
+@open@|@gbangba, ÿí ÿílëyàtúmö, yíya, ÿíÿí@
+@opening@|@ìÿínúìÿíÿílëìbërë@
+@openly@|@nígbangbagedegbekedere@
+@opera@|@eré onítàn olórin@
+@operate@|@mú ÿiÿê, ÿe iÿë abe fún@
+@operation@|@iÿë abe, ìÿiÿë@
+@operator@|@òÿìÿë@
+@opinion@|@èrò@
+@opponent@|@alátàkò, ataniláyà, aÿodì, õtá@
+@opportunity@|@alábàpàdé, àyè õnà, àyè tí ó wõ, ìgbà gan@
+@opposite@|@dojúkô, kôjú sí, õkánkán, tirísí@
+@opposition@|@àtàkò, ìdènà, ìdojúkô, ìjiyàn, ìkôjúsí, ìÿõtásí@
+@oppression@|@ìdálóró, ìnilára, ìrëje, ìtêmölê@
+@optical@|@nìpa tojú, ti ojú@
+@optician@|@aláwò@
+@optimistic@|@ti ìrètí ìdára ìgbêhìn@
+@option@|@ìfë, ìwù, ìyàn@
+@optional@|@èyí tí ó wu ni, wõfún, yíyàn@
+@or@|@àbí, tàbí@
+@oral@|@fífenusô, ti enu@
+@orange@|@bí òrobó, bí ôsàn, bó, òro, òro¸bó, ôsán, pupa bí epo@
+@order@|@ese, ìtò@
+@over there@|@ib@
+@owl@|@òwìwí@
+@ox@|@màálù màlúù@
+@pack@|@di erù@
+@package@|@èdìdì, erù@
+@packing@|@ìdi-erù, ìpalêmö, palêmö@
+@pact@|@àdéhùn, ìmùlë@
+@paddle@|@àjê, wà-jê, ÿiré nínú omi@
+@page@|@akápò, aködà, ewé ìwé, ìránÿêkùnrin@
+@pain@|@êdùn, ìrora, rírí@
+@painful@|@dídun-ni, ìrora, níròjú@
+@painless@|@àìlëdùn, àìro, ÿàìní ìrora@
+@painter@|@afõdà kun, akun-èsè, akun-õdà, apödà@
+@painting@|@àwòrán ôlödà, ìkun-õdà, kíkun-õdà@
+@pair@|@awë méjì, ènìyàn méjì põ, tôkôtaya@
+@palace@|@ààfin, ilé ôba@
+@pale@|@fúwöfúwö, jíjorò, rõndönrõndön@
+@palm@|@àtëlë ôwö, õpç@
+@palm tree@|@igi õpe@
+@palm wine@|@emu@
+@pamper@|@fi oúnje dídùn bö, je àjekì, kë, këra@
+@pamphlet@|@iwé kékeré aláìdìlù@
+@pan@|@àwo, ìkòkò, páànù@
+@paneling@|@igi ìbògiri inú yàrá@
+@panic@|@ìdágìrì, ìpààyà@
+@panther@|@akátá, àmõtëkùn@
+@pantry@|@ilé àwo oúnje, yàrá tí à þ palê oúnje mö sí@
+@pants@|@ÿòkòtò@
+@paper@|@ìwé, tákààdá@
+@paperclip@|@èlò ìdìmú ìwé@
+@parade@|@àÿehàn, fáàrí, ìfihàn, ìtòlësê omô-ogun@
+@paradise@|@ôgbà dáradára onítura, õrun rere@
+@paragraph@|@gbólóhùn õrõ, orí õtò@
+@parallel@|@lëgbêgbë, tí ó jôra, tó ÿe dédé@
+@paralysis@|@ààrún êgbà, àìní-agbára, àrùnkárùn tí gba okun ara@
+@paralyze@|@pasára, rô, sô-di òkú@
+@parasite@|@àfòmö, ajenirun-láìdáwó, apönni, onírárà@
+@parcel@|@èdìdì erù kékeré@
+@pardon@|@dáríjì, ìdáríjì, ìfijì@
+@parents@|@òbí, ôlömô@
+@parking@|@ìdá ôkõ dúró sí ojú kan@
+@parliament@|@àjô ôba, ìgbìmõ ôba@
+@parole@|@õrõ enu, õrõ ôlá@
+@parrot@|@ayékòótö@
+@parsley@|@irú ohun õgbìn kan@
+@part@|@apá kan, àràpa, ìpín, la irun orí, pín, ya@
+@partial@|@àìpé, ìÿègbé, ní ojúsàájú, ti apá kan@
+@participant@|@oníbàpín@
+@participation@|@ibápín@
+@particular@|@àfiyèsíìdí, pàtàkì, ye fún@
+@particularly@|@ní pàtàkì, pàápàá, pêlúpêlú@
+@partition@|@ìkélé, ìlà, ìpín@
+@partner@|@alábàáÿiÿë, alábàáÿiÿë, enìkejì@
+@partnership@|@àjùmõÿe, àjùmõÿepõ@
+@party@|@àjôyõ, apá kan, egbë, ôwö kan@
+@pass@|@ìwé ìjáde, ìwé ìwôlé, ìwé ìyõdà, jáde ní ìlú, kôjá, õnà àárín òkè méjì, wõlú@
+@pass (1)@|@ìwé ìjáde, ìwé ìjádelô, ìwé ìwôlé, ìwé ìwõlú, ìwé ìyõdà, jáde ní ìlú, kôjá, wõlú@
+@pass out@|@dá kú, pín@
+@passage@|@õnà  àjò lójú omi@
+@passenger@|@èrò@
+@passion@|@ìbínú, ìjánu, ìjìyà, inu ÿiÿó, inúfùfù, ìtara, ìwà@
+@passionate@|@ní inú-fùfù, nítara, rúnú, ÿónú@
+@passive@|@láìÿiÿë, nírêlê, pêlú sùúrù@
+@passport@|@ìwé ìyõdà ìwõlú tàbí ìjádelô@
+@password@|@ìwörõfún, kóòdù àwôlé, õrõ mímõ çnìkan ÿoÿo@
+@past@|@àtijô, àtijö, kôjá, lëhìn, níkehìn@
+@pastime@|@fàájì, ìdárayá, ìÿiré@
+@pastor@|@àlùfáà, olúÿöö-àgùntàn, oníwàásù@
+@pastry@|@àkàrà@
+@pasture@|@ìje eran, koríko, oko tútù, pápá@
+@pat@|@fi ôwö lù jëjë@
+@patch@|@êlê, fi aÿô túnÿe, lê@
+@patent@|@àÿe ìtösí nìkan, fihàn nígbangba@
+@paternal@|@ti bàbá@
+@paternity@|@ti bàbá@
+@patience@|@ìfôwöranú, ìröjú, sùúrù@
+@patient@|@aláìsàn, láìkánjú, ní sùúrù@
+@patriotic@|@tí ó ní ìfë ilê nìtòótö@
+@patrol@|@olùÿö@
+@pattern@|@àpere, àwòrán, àwòÿe@
+@pause@|@ìdákë, ìdúró, ìsimi@
+@pave@|@fi òkúta të, rë@
+@pavement@|@õnà àfesêrìn, õnà alámõ líle, õnà elësê@
+@paw@|@èékánná eranko, ìkùkù@
+@pay@|@owó oÿùöyà, san-wó@
+@payable@|@sísan@
+@payment@|@àdásan, ìsanwó@
+@payroll@|@ìwé ìsanwó òÿìÿë@
+@pea@|@irú êwà òyìnbó kan, pòpòndò@
+@peace@|@àlàáfíà, ìfàyà balê@
+@peaceful@|@lálàáfíà, onílàjà, onísùúrù@
+@peach@|@irú èso kan@
+@peacock@|@àgùfôn, eye ológe@
+@peak@|@orì òkè, ÿóÿó@
+@peanut@|@êpá@
+@pear@|@irú èso kan@
+@pearl@|@òkúta iyebíye@
+@peasant@|@àgbê, aroko@
+@peculiar@|@àjèjì@
+@penis@|@okó@
+@people@|@ènìyàn@
+@pepper@|@ata@
+@perchance@|@bóyá@
+@perhaps@|@b yá@
+@peril@|@ewu@
+@period@|@àsìkò@
+@person@|@ènìà@
+@petition@|@êbê@
+@petroleum@|@oil epo okò@
+@pharmaceutical@|@egbòogi@
+@piant@|@ajê, èsè, fi tìróò tàbí õdà kùn, kùn, õdà, tìróò@
+@pick up@|@gbà@
+@picture@|@àwòrán, àwòràn@
+@pig@|@el d, elede@
+@pigeon@|@eyeé@
+@place@|@ibi@
+@planet@|@ìràwò tí ñ yí oòrùn ká@
+@plate@|@àwo, àwo@
+@please@|@jo@
+@plenty@|@õpõ@
+@plum@|@èso kan bí ìyeyè@
+@pocket@|@àpò@
+@poison@|@oró; iwo; májèlé@
+@porter@|@aláarù@
+@possibly@|@bóyá@
+@potato@|@kúkún dùkú; òdùkún; ànàmó@
+@pour@|@dà@
+@power@|@agbára@
+@prodigal@|@àpà@
+@qualification@|@êrí, ìjërìí ìwà, ìmúyé@
+@qualified@|@ní ti ìmúyé, ti elêrìí, ti êyán@
+@qualify@|@múyé, yán@
+@quality@|@agbára, àwòmö, ìrí, ìwà@
+@quantity@|@ìwõn, iye, títóbi@
+@quarantine@|@ìdá ôkõ dúró nítorí àisàn, ìhámö nítorí àisàn@
+@quarrel@|@ariwo, asõ, gbólóhùn asõ, ìjà, jà, sõ@
+@quarrelsome@|@aláriwo, oníjà, tí ó lè jà@
+@quarter@|@ìdámërin ohunkóhun@
+@quay@|@èbúté, ibi ìgúnlê sí@
+@queen@|@ayaba, ôba obìnrin@
+@query@|@èrèdí, ìbéèrè, ÿe ìbéèrè@
+@quest@|@ìwákiri@
+@question@|@bi lérè, ìbéèrè, iyèméjì, ÿe ìbéèrè@
+@questionable@|@àìdánilójú, ní ìrújú@
+@questionnaire@|@ìwé ìbéèrè, ìwé ìwádìí@
+@queue@|@títò, tò@
+@quick@|@láyè, tàrà, tètè, yára@
+@quickly@|@kánkán, kíákíá, nísìsìyí, tètè, wàrawàra, yárayára@
+@quicksand@|@iyanrìn dídê@
+@quiet@|@dákë, ìdákëjë, jëjë, pêlë@
+@quit@|@fi sílê, kö sílê, lô kúrò, ÿe giri@
+@quite@|@pátápátá@
+@quiz@|@ìbéèrè, ìdánwò kúkúrú@
+@quota@|@ìpín@
+@quotation@|@àyölò@
+@quote@|@ìdíyelé ôjà@
+@rabbi@|@olùkö òfin Júù, olùköni@
+@rabbit@|@ehoro onírun@
+@rabies@|@àìsàn ìyawèrè ajá@
+@raccoon@|@eranko bí òyà@
+@race@|@eré ìje, êyà, ìdílé, ìran, iré sísá, irú, sá, sáré@
+@racetrack@|@gbàñgbà ìsúré ìjé@
+@racism@|@ìmëyà@
+@racist@|@akórira elòmíràn nítorí ìràn, amêyà@
+@radar@|@êrô ìwõn eré sísá ôkõ@
+@radiation@|@ìtànná, ríràn bí oòrùn@
+@radiator@|@êrô ìmóoru@
+@radical@|@tègbò-tìgàgaá, ti gbòýgbò, ti ìpilêÿe@
+@radio@|@êrô gbohùngbohùn, rédíò@
+@radioactive@|@èlò eléwu, ohun ìpanilára, ohun olóró@
+@radish@|@ohun õgbìn kan@
+@radius@|@ìdáméjì òbìrìkìtiì@
+@rag@|@àkísà@
+@rage@|@ìbínú, ìrunú@
+@raid@|@gbé sùnmõmí, gbógun sí, ìgbógun-tì, rölù, sùnmömí@
+@raid(1)@|@jadì@
+@rail@|@ôgbà irin/igi ojú irin rélùwé@
+@railroad@|@ôkõ ilê rélùwé@
+@rain@|@òjò@
+@rainbow@|@òÿùmàrè@
+@raindrop@|@õÿôrô òjò@
+@rainy@|@ôjô òjö, ti òjò@
+@raisin@|@èso àjara@
+@rake@|@hôlê, irin ìhôlê, kó jô@
+@ram@|@àgbò, ràgò@
+@ramp@|@õnà gêrëgêrë onípákó@
+@ranch@|@oko eran-ösìn@
+@random@|@alábáàpàdé láìròtêlë@
+@range@|@gígùn ìnà, iyeoríÿi, òkè gíga@
+@rank@|@egbë, ipò@
+@ransom@|@ìgbàsílê, ìràpadà, ìràsílê, owó ìdásílê@
+@rape@|@ìbábìnrin lòpõ ní dandan, ìbálò obìnrin nítipá@
+@rapid@|@yára kánkán@
+@rapture@|@ayö púpöayö ayöjù@
+@rare@|@aìpõ, ÿõwön@
+@rash@|@êêyièésúara sísú@
+@raspberry@|@ëyà àgbáyun kan@
+@rat@|@èkútéöfonlárìnká@
+@rate@|@iye òÿùwön@
+@rather@|@dí, dí, kúkúsànjùbókànràn@
+@ratify@|@fi ohùn sí, pinnu@
+@rational@|@ní iyè nìnúlôgbôn nìnú@
+@rationalize@|@ÿe àlàyé pëlú ôgbôn èrò orí@
+@rattle@|@pariwomí pekepekekígbe@
+@ravage@|@bàjë, fi ÿòfò, parun, sô di ahoro@
+@raven@|@eye ìwo@
+@ravine@|@àfonífojì ñlá àlàfo jíjìn@
+@raw@|@àìsè, tutù@
+@ray@|@ìtànsan ìmôlë@
+@razor@|@abë, abe ìfárí@
+@razor blade@|@abe@
+@reach@|@dé, fi-kàn, nà@
+@react@|@fèsì@
+@reaction@|@ìpadà-sêhìnàdëhìnböèsì@
+@reactor@|@afèsì@
+@read@|@kàkàwé@
+@readable@|@oníkíkàtí ó ÿeé kà@
+@reader@|@akàwé, akàwéökàwékàwékàwé@
+@reading@|@iwé kíkà@
+@readujst@|@tún túnÿe tún túntò lêsese@
+@ready@|@múraÿe tányá@
+@real@|@tòótôdájúlódodoojúlówó@
+@real estate@|@nipá ti ilé títà tàbí ríràilë@
+@realism@|@ìbáyémuòtító@
+@realist@|@ojúlówó ènìà@
+@reality@|@òdodo, òtítô@
+@really@|@dájúdájúnítòótô lódodo pàtó@
+@reappear@|@tún fara hàn tún yô@
+@rear@|@dàgbàkô lí ëkô, êhìn, lêhìn@
+@rearrange@|@tún tò lêsese@
+@reason@|@ìdíìtorínípaeredíôgbôn èrò orí@
+@reasoning@|@lílo ôgbônìlò ôgbôn èrò oríìdí@
+@reassurance@|@àtúndálójú@
+@reassure@|@tún mú dálójú@
+@rebate@|@ëbùnàõfàníìfàèrè@
+@rebel (m)@|@ölôtëaÿágun@
+@rebel(f)@|@aÿágun, ölôtë@
+@rebellion@|@ötëìÿötëtëmbëlëkún@
+@rebellious@|@ölôtëtí ó ní ötë@
+@rebuild@|@tún kô tún mö@
+@recall@|@pè padà, rántímú-wá sí ìrántí@
+@recapture@|@tún mú-lêrú@
+@recede@|@fà-sêhìnpadà sêhìn@
+@receipt@|@ìwé ìrajàìwé ìjêwôgbígbà@
+@receive@|@gbà padarí-gbàtêwôgbà@
+@recent@|@ní titunní löôlöôyi@
+@recentlty@|@ní löôlöôyiÿëÿë@
+@recess@|@àkókò ìsimi àwôn ômô ilé ëkô@
+@recession@|@ìpadà séhìnìrëhìnàínílôsíwájú@
+@recipe@|@apéjúwe@
+@recipient@|@olùgbà@
+@reciprocal@|@ÿe pàdàpàÿípàrö@
+@reciprocate@|@ÿe pàÿípàròÿe àrö@
+@red@|@pón; pupa@
+@regret@|@àbámö@
+@religion@|@ìsìn; èsìn@
+@reply@|@dáhùn, èsì, fèsì@
+@request@|@b@
+@respond@|@dáhùn, fèsì@
+@return@|@dá..padà@
+@rice@|@ìr sì@
+@river@|@odò@
+@road@|@õnà ôlödà, õnà olókúta@
+@rock@|@àpátaòkútañlá@
+@roof@|@òrùlé@
+@room@|@yàrá@
+@rose@|@òdòdó olóòrùn dídùn@
+@sack@|@àpò, nlà akalambi@
+@sacrifice@|@ebô@
+@sad@|@bínújê, fajúro@
+@saddle@|@gárìasá@
+@sadness@|@ìbànújê, ìbínújêìfajúro@
+@safe@|@láìléwulálàfíà@
+@safety@|@ibi àìléwuàìléwuìgbàlà@
+@sail@|@tàgbòkunÿíkö@
+@sailboat@|@ækö onígbòkun@
+@sailor@|@atukõ@
+@saint@|@ènìyàn mímö@
+@salary@|@owó iÿë, owó õyà, owó oÿù@
+@sale@|@ìta ôjà gbàýjo@
+@salesman@|@ôlöôjà, oníÿòwò@
+@saleswoman@|@ôlöjà, oníÿòwò@
+@saliva@|@itö enu@
+@salmon@|@irú eja nlá kan@
+@salt@|@iyõ@
+@salty@|@oníyõ, tí iyõ já@
+@salute@|@ìkíniniìkí@
+@salvation@|@ìgbàlà@
+@same@|@ìkaánnà@
+@sample@|@àpéjúwèé, àpere@
+@sanction@|@iìóhùnsíìjêwôsí ìyöda@
+@sand@|@iyanrìn, iyêpê, yanrìn@
+@sandal@|@bàtà, ìbõsê sálúbàtà@
+@sandwich@|@irú oúnje ìpanu kan@
+@sandy@|@ní iyanrìnkìkì iyanrìn@
+@sane@|@yéleratí ara rë le@
+@sanitation@|@êkö nípa ìtöjú ìlera ènìyà, ìmô ìtöjú ìlera àgbàlú@
+@santuary@|@ààbò@
+@sap@|@oje igi@
+@sapphire@|@òkúta pupa oníyebíye@
+@sarcastic@|@pêlú êgàn@
+@sardine@|@irú eja kékeré kan@
+@satellite@|@ìgbèríkoômô ëhìn@
+@satisfaction@|@àlàáfíà, ìtëlörùn@
+@satisfactory@|@nítêëlörùn, tí ó kúnni lójú@
+@satisfy@|@kún lójú, të lörùn@
+@Saturday@|@ôjö kefà õsê@
+@sauce@|@ôbê@
+@sausage@|@irú eran jíje kan@
+@savage@|@níkàrorò@
+@save@|@fi pamö, yô nínú ewu@
+@savings@|@ìfowópamö@
+@saw@|@ayùn, rê-igiyùnrí@
+@saying@|@örö sísô, sísô, wíwí@
+@scab@|@èépá, èpo@
+@scald@|@ìbu omi gbígbóná dà jó@
+@scalp@|@agbárí@
+@scandal@|@ohun ikose ëëgàn àbùkù ìsôkúsô@
+@scar@|@àpá, ojúàpá egbòàléébù@
+@scarce@|@ÿöwônàìkunàìtó@
+@scare@|@dêrùbà, ìdêrùbà, ÿöwônàìkunàìtó@
+@scatter@|@dà, dà, fúnkátúká@
+@scenery@|@àwòmôranìrí ilê yíkáìwo ilë@
+@scenic@|@ti ìran dídára@
+@scent@|@òórùn dídùn@
+@sceptical@|@oníyèméjì@
+@schedule@|@lanàèròìmò@
+@scholar (f)@|@akéköô, ôlôgbôn, ömöwé@
+@scholar (m)@|@akéköô, ôlôgbôn, ömöwé@
+@school@|@ilé ìwé àjô ìkôöwéilé ëkô@
+@schooling@|@ëkô kíkôìwé kíkô@
+@scibble@|@kô sílê@
+@science@|@ìmö  ôgbônòye ëkô ìjìnlë@
+@scientific@|@ti ôgbônti ìmö@
+@scientist@|@ôlôgbôn ìjìnlë@
+@scientist (m)@|@ôlôgbôn ìjìnlë@
+@scissors@|@àlùmögàjí@
+@scold@|@bá-sô, báwí, sasö@
+@score@|@ìÿírò@
+@scorpion@|@àkekèéàkerekèreòjögán@
+@scrape@|@hahánwàhálà tí a fi ôwô eni fà@
+@scratch@|@ìyaléèkánnáìhô@
+@scream@|@hankígbekéhan goro, igbe híhan@
+@screen@|@àbò, àte agbàwórán-tàn, ìbojú@
+@screen(1)@|@àte agbàwórán-tànojú-telifíÿàn@
+@screw@|@dè, ìdè@
+@screwdriver@|@êrô èlò fún dídè@
+@script@|@ìwé àfôwôkô@
+@scripture@|@Bíbélì Mímö, Ìwé Mímö Õrõ Ôlörun@
+@scrub@|@fö, gbo@
+@sculpture@|@ère gbígbê@
+@sea@|@òkun omi-iyö@
+@sea lion@|@kìnìún inú omi@
+@seagull@|@eye àkö@
+@seal@|@erinmi kékeré, ìwé tàbí ámì ìfìwé ránÿé@
+@seam@|@etí aÿô@
+@search@|@ìwádìí àwaárí, ÿe ìwáríwáàdíwákiri@
+@seashore@|@etí odò@
+@season@|@àkókò@
+@seasonal@|@ti ìgbà@
+@seat@|@àga, ìjokòó@
+@seaweed@|@koríko etí òkun@
+@second@|@èjìèkejì, ìÿëjú@
+@secondary@|@ti èkejì èyítí ó tëlé@
+@secrecy@|@àÿírí, ìkõkõ@
+@secret@|@àsírí, níkököl'ábêlël'áÿìríí, ohun ìkökö àÿíríabê@
+@secretary@|@akõwé@
+@secretly@|@l'ábêlë, níkökö@
+@sect@|@egbêìyàpà ìsìnaládamö@
+@section@|@apá, apákàanìpín@
+@sector@|@ìpínôwô@
+@secure@|@láìléwu@
+@security@|@ìbôlôwô ewu, onígbowó@
+@sedate@|@kùn lóorun@
+@sedation@|@ìkùn lóorun@
+@sedative@|@ohun tí kun ni lóorun@
+@sediment@|@gëdëgêdë@
+@sedregate@|@ya ara sôtöfi àlà sí@
+@seduce@|@gbàláyabà jêtàn jedewò rélô@
+@seductive@|@agbàláya dídewò@
+@see@|@bá, bá, rífojú ríríìran@
+@seed@|@irúgbìnirú-ômô@
+@seek@|@wáwá-kiribéèrè@
+@seem@|@ÿe bíenipéÿe àfihàndábíjô pé@
+@seemly@|@yetôdára@
+@segment@|@ìkékúròìrépé@
+@seize@|@fi agbára gbàgbámúmú ní ipá@
+@seizure@|@wárápá@
+@seldom@|@ní daindainlêëköökan@
+@select@|@ÿàyàn@
+@selection@|@ìÿàyàn@
+@self@|@tìkara@
+@selfish@|@tí ó mô ti ara rë nìkan@
+@serpent@|@ejò@
+@seven@|@meje@
+@seven hundred@|@ogorun meje@
+@seventeen@|@metadilogun@
+@seventy@|@adorin@
+@shade@|@ibòòji@
+@shed@|@dà@
+@sheep@|@àgùtàn@
+@sheet@|@ewé@
+@ship@|@okò@
+@shoe@|@bàta@
+@shoes@|@bata@
+@short@|@kúrú@
+@side@|@apá@
+@sightless person@|@af jú@
+@silk@|@aso sèdà@
+@silver@|@fàdákà@
+@sin@|@êÿê@
+@sister@|@aburo@
+@six@|@mefa@
+@six hundred@|@ogorun mefa@
+@sixteen@|@merindilogun@
+@sixty@|@ogota@
+@skin@|@awo@
+@sky@|@órunojú órun@
+@slave@|@erú, erú@
+@small@|@kékeré, kéré@
+@snake@|@ejò@
+@snow@|@ìrì dídìòjò dídì@
+@soap@|@oseàwénùàwéfínàwédá@
+@soil@|@il@
+@some@|@dí, enìkan@
+@somebody@|@enìkan@
+@someone@|@enìkan@
+@somewhat@|@dí@
+@son@|@omokùnrin; omo-ilé@
+@sound@|@ìró, ìró@
+@spear@|@õkõ@
+@spider@|@aláòtakùnelènà@
+@spoon@|@síbí; ìgbako.@
+@spot@|@ibi@
+@spring@|@ìgbà rírú ewé@
+@steel@|@irin@
+@stomach@|@ikun@
+@stone@|@òkò, òkúta@
+@storm@|@ìjìéfúfu líleìkolù@
+@story@|@ìtàn@
+@strange@|@àjèjì@
+@stranger@|@àlejò@
+@street@|@ónà ìgboro ìlúìtaòpópó@
+@strength@|@agbára@
+@stupid@|@g@
+@subway@|@ôkõ-abëlê rélùwe, ôkõ-ilê@
+@such a@|@bí@
+@such as@|@bí@
+@sugar@|@ìrèkéiyó òyìnbó@
+@summer@|@ìgbà érùnìgbà oru@
+@sweat@|@õgùn@
+@swine@|@el d@
+@system of pawning@|@igbà@
+@table@|@tábílì; ìtéjú; ètò@
+@tail@|@ìrú@
+@take@|@gbà, ní, rà, rí-gbà, ÿe@
+@tale@|@àlö, ìtàn@
+@talent@|@êbùn àbínibí, êbùn Ôlörun, iye òÿùwõn kan@
+@talk@|@õrõ sísô@
+@tall@|@gàgàrà, gíga, gùn@
+@tame@|@ìtùlójú, tí ojú rêmôlê, títùlójú@
+@tan@|@irú àwõ kan@
+@tank@|@àgbá nlá, àmù onírin, ìkòkò, odù þlá ìgbómi sí@
+@tanker@|@ôkõ omi@
+@tap@|@êrô omi, ìfà omi@
+@tape@|@ôjabule tínrín, okùn ìdèmölê@
+@tape (1)@|@ìgbohùn ìròhìn sórí êrô@
+@tar@|@õdà@
+@tarantula@|@aláýtakùn slá olóró@
+@target@|@àmì fún ìbôn títa, apata, asà@
+@target (1)@|@ohun tàbí enití a yàn ÿojú@
+@tariff@|@owò ôjà rírà ìdíyelé ñýkan@
+@task@|@iÿë, iÿë kàyééfì@
+@taste@|@ìtöwò@
+@tasteful@|@dùn, ládùn@
+@tasteless@|@láìládùn, të@
+@tasty@|@àdídùn, ládùn@
+@tattoo@|@àmì êÿö ara, fèrè ológun@
+@tax@|@ìbuwólé, owó-ìlú, owó-òde@
+@taxation@|@ìbuwólé, ìdáwó-òde lé owó-ìlú@
+@taxi@|@ôkõ ayökëlë agbèrò@
+@tea@|@tíì@
+@teacher@|@akönilëkõö, olùkö, olùköni@
+@teacher (m)@|@olùköolùköniakönilëkõö@
+@teamwork@|@àkójôpõ iÿë@
+@tear@|@fàyaya, ìfàya, omijeekún@
+@tease@|@töyô-lënuyô-lóhùn@
+@teat@|@ÿönÿö ômú eranko@
+@technical@|@jíjçmö iÿë ônà@
+@technicality@|@õràn tí íÿe tolófinolófin@
+@technician@|@oníÿë ônà@
+@technology(1)@|@ÿe ìfàgùn ìgbésí ayé ènìà@
+@teenager@|@õdómôbìnrinèwe, õdómôkùnrinèwe@
+@teeth@|@eyin@
+@telegram@|@ìránÿë êrô oníwáyà láti òkèrè@
+@telegraph@|@okùn êrô ìjíÿë lókèrè@
+@television@|@êrô àwòrán ìtajìtelifíÿàn@
+@temper@|@ìbínúìrunúimúyeìgbà  ipò@
+@temperamental@|@àjemö ìwà inú@
+@temple@|@ilé ìsìn ölörun tàbí òrìÿà@
+@temporary@|@wíwà fún ìgbá díê@
+@tempt@|@dánwò tán ÿe búburúwò lójú@
+@temptation@|@ìdánwòêtàn@
+@tempting@|@títan ni wíwu nidídánniwò@
+@ten@|@êwámëêwá@
+@tenant@|@ayálégbéaráálé, ayálégbéaráálé@
+@tendence@|@ìdarísíìtêsíipaõnàìtöka sí@
+@tender@|@rõtùnú@
+@tendon@|@iÿan ara@
+@tennis@|@irú eré kan@
+@tense@|@ìgbààkókò tí a ÿe nkan, líle láti têbayi@
+@tension@|@inúfu-êdõfulíleìfàleìfàgùnnínà@
+@tent@|@àgö@
+@tenth@|@êkewàákewàá@
+@term@|@àlà ìpìnlêòpin, ìgbààkókò, ìgbààkókò, õrõ@
+@terminal@|@èbúté ôkõ rélùwe@
+@terminology@|@orúkôõrõ ìperí@
+@termite@|@ikánetutu@
+@terrace@|@ibi ìtëjú ilé@
+@terrain@|@ojú ilê@
+@terrible@|@ní ìbêrùlërù banilërù@
+@terribly@|@níbanilërù@
+@terrific@|@ní ìbêrùlékè@
+@terrifying@|@bíbanilërùdídërùbà@
+@territory@|@ilê  agbègbè ìlú@
+@terror@|@êrùìpàyàìjáiyà@
+@terrorism@|@dídërùbaniìpaniláyà@
+@test@|@dán-wò, ìdánwò, ìpejöìdánwò@
+@testament@|@ìwé májêmúìwé ìhágun@
+@testemony@|@êríìjëêríìjëêrísí@
+@testicle@|@epõnkóro epõnworopõn@
+@text@|@õrõ ìwéìpilêsô õrõ@
+@textbook@|@ìwé êkö kíkà@
+@texture@|@ìwõnara aÿô@
+@than@|@ju ti ju ki ju pé@
+@thank you@|@o se@
+@thankful@|@kún fún ôpëpõ lí ôpëôlöpë@
+@thankless@|@láìlöpëláìmôreláìfôpëfún@
+@thanks@|@ìdúpëôpë@
+@that@|@èwo, èwo, yen@
+@the girl is very beautiful@|@ômôbìnrin náà lëwà púpõ@
+@there@|@ib@
+@they@|@àwon@
+@thirteen@|@metala@
+@thirty-eight@|@mejidilogoji@
+@thirty-five@|@marundilogoji@
+@thirty-four@|@merinlelogbon@
+@thirty-nine@|@mookandilogoji@
+@thirty-six@|@merindilogoji@
+@thirty-three@|@metalelogbon@
+@thirty-two@|@mejilelogbon@
+@thou@|@ìwo@
+@three@|@meta@
+@three hundred@|@ogorun meta@
+@thrirty@|@ogbon@
+@thrity-one@|@mokanlelogbon@
+@thrity-seven@|@metadilogoji@
+@tie@|@dì@
+@tie up@|@dì@
+@tiger@|@àmòtékùn@
+@timber@|@igi@
+@time@|@ìgbà@
+@to@|@bà@
+@to abbreviate@|@gé kúrú, ÿekù@
+@to abduct@|@fa juro ré lô, gbé sálô@
+@to abide@|@bágdé@
+@to abolish@|@parë, sô dasán, sô dòfo@
+@to absorb@|@fàmu, lá, mì, mu tán@
+@to abstain@|@fà sehin, së ra, takété@
+@to abuse@|@bú, lò lönà àìtö, lò nílòkulò, pè lórúKôkórúkô@
+@to accelerate@|@mú lô síwájú, mú yára@
+@to accept@|@gbà, tëwögbà@
+@to accommodate@|@fùn láyè@
+@to add@|@bù sí, fi kún, fi sí, rò põ@
+@to address@|@bá-sõrõ, sô-sí@
+@to bar@|@fi búdí-lôwô, fi opere dè@
+@to can@|@lè ÿelèlágbára@
+@to caress@|@fàmôrakíkêgbà-môrafôwô-palára@
+@to change@|@ÿê-owópàrö@
+@to check@|@dá-dúrókí-wô@
+@to chip@|@ÿe êrún igigé igi sí wêwê@
+@to dawn@|@bêrêsí fi ara hàn, molë@
+@to decay@|@bàjë, rà@
+@to default@|@ÿe àbùkù@
+@to encounter@|@dojúkôkôlùpàdégun bá pàdé@
+@to feed@|@bôfún lónjenùn@
+@to finance@|@ÿe ìnáwó@
+@to gain@|@jèrè, rí gbà, rí ÿe@
+@to go@|@lô, rìn, ýÿó@
+@to have@|@nípàlaáraní@
+@to hide@|@fipamôfara pamôlúmô@
+@to import@|@mú láti òkèrè wô ìlú@
+@to increase@|@pösidàgbàwú@
+@to mark@|@fi àmì sí, kíyèsí, sàmì sí@
+@to massacre@|@fö bàjë, pa ní ìpakúpa, parun@
+@to massage@|@pa ara fún ìwòsàn, para, wö ara@
+@to master@|@borí, kápá, káwö, kô, ÿëgun@
+@to neglect@|@gbójúfò dá, ÿe àìbìkítà, ÿe àìfiyèsí, ÿe ìgbàgbé@
+@to neglect (1)@|@gbiyèfò@
+@to notify@|@sô di mímöwí-fúnkìlö fún@
+@to obey@|@gbàgbö, gböràn, teríba@
+@to observe@|@fojú sí, rí, sô õrõ, ÿàkíyèsí, ÿö@
+@to offer@|@fí-fúnfi-lörúbô@
+@to oppose@|@dojú ìjà kô, takò, tì láyà, ÿe ìdènà, ÿòdì sí@
+@to oppose (1)@|@ÿe ôwö òdì sí@
+@to oppress@|@dálóró, ni-lára, pön-lójú, rë-je, tê mole@
+@to park@|@dá ôkõ dúró sí ojú kan@
+@to participate@|@bá-pín@
+@to quarrel@|@ÿawõ, ÿe gbólóhùn asõ@
+@to quiz@|@dánwò, ÿe ìbéèrè@
+@to quote@|@sô iye owó ohun@
+@to raise@|@gbé dúró, gbé lékè, gbé sókè@
+@to rape@|@fi ipá bá obìnrin lò@
+@to ration@|@pín kélekèle@
+@to sacrifice@|@fi sílë, rúbô ÿebô@
+@to salute@|@kí@
+@to say@|@sô, wí@
+@to scald@|@bu omi gbígbóná dà jódà jó@
+@to scratch@|@ha, hô, yún@
+@to seal@|@lê@
+@to sell@|@tà fi gbowó@
+@to some extend@|@dí@
+@to talk@|@fôhùn, sô, sõrõ, wí@
+@to tame@|@tù lójú@
+@to tattoo@|@bu-ilà sí ara, fín ara, kôlà, ÿàmì sí ara@
+@to teach@|@kö lëkõö, ÿí-níyè@
+@to tell@|@kö lëkõö, wí fúnsô fúnka iyesô@
+@to terrify@|@dërùbàpa-laíyà dá níjìjá-láyà@
+@to terrorize@|@dërùbàpa-layà  já-láyà@
+@to testify@|@ÿe ìjëêríjëêrí sí@
+@to thank@|@dúpëÿôpëfôpë fún@
+@to undertake@|@dáwölé@
+@to vacate@|@fi àyè sílë fún, parê, sô di asán ÿe òfòfi ipò síl@
+@to vaccinate@|@bupá, kô naunba@
+@to value@|@ìdíyelé@
+@to verify@|@fohùn sílêrìsííòtìtö@
+@to wait@|@dúró@
+@to walk@|@fi esê rìn, rìn@
+@to want@|@fë, fêfê-kù, ÿe àìní@
+@to warn@|@ÿe ìkìlõ fún@
+@to wash@|@fö bô, wë@
+@to watch@|@wò-ran, ÿe àkíyèsíbójútó, ÿô wò@
+@to water@|@fún ní omibomiwônbomirin@
+@to wave@|@juwó sí@
+@to yawn@|@yán@
+@to yell@|@bú, ké ramúramù, kô@
+@to yield@|@múwá, san, so, yôdà@
+@tobacco@|@ewée tábàkátabá@
+@today@|@lóòníojó? òní@
+@toe@|@omo-ese@
+@tomato@|@tùmátì@
+@tomorrow@|@òlalóòla@
+@tongue@|@ahon, èdè, èdè@
+@too@|@w@
+@tooth@|@ehínerìgiògàn@
+@tower@|@ilé ìsó gígailé èsó@
+@tree@|@igi@
+@trip@|@àjò@
+@truth@|@òdodo, òtítóòdodo@
+@tulip@|@orúko. òdòdó kan@
+@twelve@|@mejila@
+@twenty@|@ogun, õgún@
+@twenty-eight@|@mejidilogbon@
+@twenty-five@|@medogbon@
+@twenty-four@|@merinlelogun@
+@twenty-nine@|@mokandilogbon@
+@twenty-one@|@mokanlelogun@
+@twenty-seven@|@metadilogbon@
+@twenty-six@|@merindilogbon@
+@twenty-three@|@metalelogun@
+@twenty-two@|@mejilelogun@
+@two@|@eji, meji@
+@two hundred@|@ogorun meji@
+@udder@|@ômú eranko, ômú màlúù@
+@ugly@|@burëwà, lábùkù, láìlëwà@
+@ulcer@|@egbò, ojuju tí rà, ooju@
+@ultimate@|@tí ó gbêhìn, tí ó jìnnà jùlô, tí ó pin sí@
+@umbrella@|@agbòjò, agbòrùn@
+@unarmed@|@láìdi ìhámöra ogun, láìmúra ìjà, láìmúra ogun@
+@unauthorized@|@láìní àÿe, tì a kò tíì fi àÿç fún@
+@unavoidable@|@láìlèyêkúrò, láìlèyêsílê@
+@unaware@|@láìmõ, láìròtëlê, lójijì@
+@unbearable@|@tí a kò lè faradà, tí a kò lè gbà@
+@unbelievable@|@áìgbàgbö@
+@uncertain@|@láìdánilójú, láìlègbëkêlé, níyèméjì@
+@uncle@|@arákùnrin bàbá, arákùnrin ìyá@
+@unclear@|@láìdáÿáká@
+@uncommon@|@kúgbà, láìwöpõ, láìÿegbà, láìÿõpõ@
+@unconciously@|@láláìlérò, láláìmõ nínú@
+@unconditional@|@láìjëtiwíwõn, láìkayelé, ti aláìwõn@
+@unconfortable@|@láìrôrùn@
+@unconscious@|@láìlérò, láìmõ nínú@
+@uncontrollable@|@láìlèkóníjanu, tí a kò lè kó ní ìjanu@
+@under@|@lábë, nísàlê@
+@undercurrent@|@èrò àìsôtí tí darí ìpinnu@
+@underestimate@|@ÿe àìkàkún@
+@underground@|@abë ilê, ìsàlê ilê@
+@underline@|@fa ilà sí labë, sàmì ìfiyèsí õrõ@
+@undermine@|@jìn lese, pa ìpilê run, wà nísàlê@
+@underneath@|@abë, labë, nísàlê, nísàlê@
+@underpass@|@õnà abë títì@
+@understand@|@gbédè, mõ, yé@
+@understandable@|@ti mímõ, ti yíyé@
+@understanding@|@ti òye@
+@understatement@|@àìwítán@
+@undertaking@|@ohun ìdáwölé@
+@underwater@|@lábë ominínú omi@
+@underwear@|@àwõtëlê@
+@undesirable@|@àìwunití kò wunití a kò fë ní@
+@undiscovered@|@tí kò tí jágbön@
+@undivided@|@láìpín, láìyanipa, lòdidi, ní píyeàìyà@
+@undress@|@bö ÿô bö-láÿô, böra, börasílê@
+@uneasay@|@láìfôkànbalê, láìrôrùn@
+@uneducated@|@láìlëkõö@
+@unemployed@|@aláìníÿë löwöaláìníÿëlápá@
+@unemployment@|@láláìníÿë löwö@
+@uneven@|@láìtëjúláìdögba@
+@unfair@|@láìtöláìÿòótõláìÿetàrà@
+@unfauthful@|@láìÿòótõláìÿòdodo@
+@unfinished@|@láìÿetánláìparíláìÿepé@
+@unfit@|@láìyeláìtöláìwõ@
+@unfold@|@túÿí-sílê@
+@unforgettable@|@láìlègbàgbé@
+@unforgivable@|@láìlèdáríjìláìlèfijì@
+@unfortunate@|@láìlóríirelórí búburú, láìlóríirelórí búburú@
+@unfortunately@|@óÿeniláànúú@
+@ungrateful@|@láìmõreláìlöpë@
+@unhappy@|@láìnínúdídùnláìní ànfàní@
+@unhealthy@|@láìníleraláìlera láìlágbára@
+@unhermed@|@láìpaláraláìléwu@
+@unification@|@ìÿõkanìdàpõìrëpõ@
+@uniform@|@aÿô egbë kanìÿõkan@
+@unify@|@sô di õkanÿe-sökanÿe lökan@
+@unimaginable@|@tí kò ÿeé ròtí kò ÿeë gbèrò@
+@uninabited@|@láìjëgbígbé láìÿeégbé@
+@uninportant@|@láìwíwoláìÿe pàtàkì@
+@unintentional@|@àìpète, láìmõmöõÿe@
+@union@|@ìdàpõ, ìrëpõ egbëìgbëyàwóìgbépõisopo, ìÿõkan, ÿõkan@
+@unique@|@làilëgbëlàilékejì@
+@unit@|@õkanenìkan@
+@unite@|@so-põdàpõÿõkan parapörëmö@
+@united@|@áso-põìdàpõìrëmö@
+@unity@|@sísopõdìdàpõrìrëmö@
+@universe@|@ayégbogbo êdáàgbáyé@
+@university@|@ilé êkö gígayunifásítì@
+@unjust@|@láìÿòótö@
+@unjustified@|@láìnídìí@
+@unknown@|@láìmõàwámáridìí@
+@unlawful@|@lòdì sófin@
+@unless@|@bíkòÿepéàyàÿebí àfibíbóyáàfi@
+@unlikely@|@láìjëbëê@
+@unload@|@sô erù kalê@
+@unlock@|@ÿífi kökörö ÿí@
+@unlucky@|@láìlóríre@
+@unnecessary@|@láìyetí ó lè ÿe aláìní@
+@unpack@|@tú erú@
+@unpleasant@|@láìlàádùnláìwù@
+@unqualified@|@láìlóyeláìní ìmõ@
+@unreal@|@tí kì íÿe òtítöonítànjeelëtàn@
+@unreasonable@|@lòdì sí ìrònútí kò wõ lójú@
+@unrest@|@àisimi@
+@unscrew@|@ÿí@
+@unseccessful@|@láìyege@
+@unsociable@|@làíkëgbéàìtúraká sí ènìà@
+@unsuitable@|@làílyeláìbámu tí kò wõ@
+@unthinkable@|@láìÿeéròláìtöláìye@
+@untidy@|@wúru-wùru@
+@untie@|@tú@
+@until@|@títí@
+@untrue@|@irö@
+@unused@|@láìlòtí a kò ìtí lò@
+@unwritten@|@láìkõwétí a ò ko kö sílê@
+@up@|@lórí, sókèlókè@
+@upon@|@lórísórí@
+@upper@|@lókèlékègajù ní ipòní õnà@
+@uprising@|@àìsimi ìlúõtêìkõ ìsìn amõnà@
+@upset@|@dà-láàmú@
+@upstairs@|@lókè@
+@upwards@|@lókèsókè@
+@us@|@àwa@
+@vacancy@|@àyè afòòfúrufú@
+@vacant@|@lófol'ásánláìrôpòÿófo@
+@vacation@|@àyè ìsimiìdewô iÿê, ìdewô iÿêàkókò ìsimi díë lôwô@
+@vaccination@|@ìbupánaunba@
+@vaccine@|@àjerá naunba, ìbupá@
+@vacuum cleaner@|@êrô ìgbálê, ilé êrô ìfàmu ìdõtí ilé@
+@vagina@|@abë, òbò@
+@vain@|@lófolásánaláìníláríláìnídìí@
+@valiant@|@akôni, lágbára, nígbòyà@
+@valid@|@nípá@
+@validity@|@ágbáraipáágbára òfin@
+@valley@|@àárín òkè méjì, àfo ilê, àfonífojì@
+@valor@|@ìgboyà, ìwà akôni@
+@valuable@|@lérèlórí, lówólórí, níyelórí, oníyebíye@
+@valuation@|@ìdíyeléìfowólé@
+@value@|@iyeiye owórírí iyì@
+@van@|@këkê erùôkö akérò@
+@vandalism@|@ìbàjê ohun ìní láìnídìí@
+@vanity@|@asán, ládòfoìgbéraga, òfo@
+@vapor@|@oruìkúku@
+@variable@|@yíyípadàláìÿerúkannà@
+@variation@|@íyípadàìyàtö@
+@various@|@onírúurúöpölæpöláìdájú@
+@vary@|@yí-padàmú yàtöpàrö@
+@vase@|@ìgò tí a nfi òdòdó sí@
+@vast@|@tótóbití ó gbilë ñlágbòròpö@
+@vault@|@iyàrá abe ilë ilé àfowópamôsí@
+@veal@|@eran ômô màálù@
+@vegetable@|@ewékoewébë ohun ögbín@
+@vehicle@|@këkê, ôkõ@
+@veil@|@ìbojú@
+@vein@|@iÿan ëjë@
+@velvet@|@àrán@
+@vendor@|@olùtàôlôjàatajà ötà@
+@vengeance@|@ësanìgbësanìjeníyàöwun@
+@vent@|@ihòojú önà afêfêönà ìsálô@
+@verb@|@õrõ ìÿe@
+@verdict@|@ìdájôìpinnu àwæn adàjô@
+@verification@|@ìfohùnsíìjêrìsííòtìtö@
+@verrical@|@tí ó nà ró@
+@versatile@|@ípòpadàyí-padàáìdúró níbìkan@
+@verse@|@ese, ìwön tí a pín orí ìwé sí@
+@versus@|@dípò, tàbí@
+@very@|@púpönáàganjôjô@
+@veteran@|@ògbó jagunjagun@
+@veterinarian@|@oníwòsàn eranko@
+@vigour@|@agbára@
+@village@|@abúlé@
+@vinegar@|@otí kíkan@
+@voice@|@ohùn@
+@vow@|@êjë@
+@voyage@|@àjò@
+@wages@|@owó, owó iÿë, õyà@
+@wagon@|@kêkë erù@
+@waist@|@ìbàdí, ìdí@
+@wait@|@dè, dúró tì, retí@
+@wait for@|@dè@
+@waiter@|@adìgbàró, adúró tini, agbawó onje@
+@waiting room@|@àgbàlá ìdúró dè sì@
+@waitress@|@adìgbàró, adúró tini, agbawó onje@
+@wake@|@jí, tají, ÿe àìsùn@
+@walk@|@ìrìn@
+@wall@|@ìgànná, ògiri@
+@wallet@|@àpò onje, àpò owó@
+@walnut@|@àwùsá òyìnbó@
+@walrus@|@irú  eranko kan bí ìmàdò@
+@wander@|@rìn kiri, ÿáko, ÿìnà kiri@
+@want@|@àbùkù, àìní, àìtó, fífë, ìfë, òfò@
+@war@|@ìjà, ogun@
+@ward@|@wöõdù, yàrá gbañgba ilé ìwósán@
+@wardrobe@|@aÿô wíwö, ilè ìpamú aÿô@
+@warehouse@|@ilè ìpamô ôjà@
+@warm@|@gbóná lôwôwô@
+@warmth@|@ìgbónáìtaraìfê@
+@warning@|@ìkìlõ@
+@warranty@|@ìwé ìdánilójú@
+@warrior@|@jagunjagun ögajun ológun@
+@wart@|@wönwòn@
+@wash@|@ìwë fífö@
+@washable@|@ÿeé wë ÿeé fösísôdi mímô@
+@wasp@|@agb n, agbön, õde akô oyin@
+@waste@|@ahoroìdáhoroìparun ínádànù@
+@wasteful@|@ìnádànùìnákúnàáyàpà@
+@watch@|@aago, aago, agogo, agogo, ëÿô ìÿô@
+@watchful@|@níÿöôraÿíÿôtí ó fojúsílë@
+@watchman@|@olùÿôëÿôôde@
+@water@|@omi@
+@water-channel@|@ìsàlë odò@
+@waterfall@|@ìtàkìtì omi, õÿõrö òjò@
+@watermelon@|@èso bàrà@
+@watery@|@ringbindin@
+@wave@|@ìjuwô, ìrúmiìgbì omiìbilù-omi@
+@wax@|@ìdaôÿe etíìda oyinödà@
+@way@|@àsà, àsà, önà ìrònà@
+@we@|@a, àwa@
+@wealth@|@owó öröôlá@
+@wealthy@|@lówólôröôlôrölônà@
+@weapon@|@ohun-ìjàohun-ogunohun ílò@
+@wear@|@wölò@
+@weather@|@ojú ôjôojú örunafêfê@
+@weave@|@hunwunwunÿôwun-okùn@
+@web@|@ìtakùnaláõtakùn@
+@wedding@|@ìgbéyàwóìsoyigi@
+@wedding ring@|@òrùka ìgbéyàwó@
+@Wednesday@|@ôjö kerin õsê@
+@weed@|@koriko@
+@week@|@ôjö méje, õsê@
+@weekend@|@ìparí  ösë@
+@weekly@|@lôsösëlêkan lôsösë@
+@weep@|@sôkún dámijé@
+@weight@|@ìwönòÿùwönìwúwo@
+@weird@|@ÿabàmìÿàjèjì@
+@welcome@|@ìkíniàríyöìkí ayö fún àlejò@
+@well@|@köngaorísun omi@
+@west@|@ìwô-òrúnìhà yánmà@
+@western@|@níhà ìwô-òrùn@
+@westwards@|@níhà ìwô-òrùn@
+@wet@|@rin, tutù@
+@whale@|@erinmieja þlánlá@
+@wharf@|@èbúté@
+@what a@|@bí@
+@wheat@|@àlìkámàokà@
+@Where is my room?@|@Níbo ni yàrá mi wà?@
+@Where is the bar?@|@Níbo ni ilé-otí wà?@
+@Where is the beach?@|@Níbo ni etí-òkun wà?@
+@which@|@èwo@
+@while@|@ìgbà@
+@white@|@funfun@
+@white cloth@|@àlà@
+@who@|@èwo@
+@wife@|@ìyàwó@
+@wind@|@afèfèòyìéfúùfú@
+@window@|@fèrèsé@
+@wine@|@otí òyìnbóotí èso àjàràwáìn@
+@wing@|@ìyè apá@
+@winter@|@ìgbà òtútù@
+@witch@|@àjë@
+@wolf@|@ìkokò; kòrikò@
+@woman@|@arabinrin, obinrin@
+@wood@|@igbóegàn, igi@
+@woods@|@ìgb@
+@wool@|@irun àgùtànòwú@
+@word@|@órógbólóhùn kan@
+@work@|@is@
+@world@|@aiyé, il aiyé@
+@worm@|@kòkòròìdinaràn@
+@x-ray@|@àwòrán inú ara afêrô yà@
+@yard@|@àgbàlá@
+@yatch@|@ôkõ ojú omi fún fàájì@
+@yawn@|@yíyán@
+@ye@|@ìwo@
+@year@|@ôdún, oÿù méjìlá@
+@yeast@|@ìwúkàrà, õÿê@
+@yellow@|@pupa rúsúrúsú bí àwõ ìyeyè@
+@yes@|@bêë ni, en, òótö   hen-en@
+@yesterday@|@àná, lánàá@
+@yet@|@bí ó tilê rí bëê, síbê, síbêsíbê@
+@yield@|@èrè, êsan iÿë, ìkórè@
+@yogurt@|@wàrà@
+@yolk@|@pupa eyin@
+@yon@|@ib@
+@yonder@|@ib@
+@you@|@ìwo@
+@you (familiar)@|@ìwô, ô@
+@you (formal)@|@êyín, yín@
+@you (several)@|@êyin@
+@young@|@ÿômôdan, ÿômôdé, ÿõtún@
+@your (several)@|@tiyín@
+@your (to one)@|@tìre@
+@yourself@|@êyin tìkara-yín, ìwô tìkarare@
+@youth@|@èwe, õdö, õdömôdé, õpêêrê@
+@youth (time)@|@èwe@
+@youthful@|@nígbà èwe, ti õdömôdé@
+@zebra@|@këtëkëtë abilà@
+@zero@|@òfo@
+@zigzag@|@ségesège, wörôwõrô@
+@zinc@|@irin, tánganran@
+@zipper@|@ohun ìdè aÿô, síìpù, sípù@
+

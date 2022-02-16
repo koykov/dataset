@@ -1,0 +1,3326 @@
+@English@|@Slovak@
+@Author name@|@Freelang@
+@Font@|@Arial\12\Arial\12@
+@a@|@pred týždňom@
+@a bit@|@trošku@
+@a great many@|@veľmi veľa@
+@a little@|@trošku@
+@a little later@|@trochu neskôr@
+@a long time@|@dlho@
+@a long while ago@|@pekne dávno@
+@a lot of@|@veľa@
+@a week ago@|@pred týždňom@
+@A.D.@|@po Kristovi@
+@a.s.a.p.@|@čo najskôr@
+@abandon@|@opustiť@
+@abandoned@|@opustený@
+@abolish@|@zrušiť@
+@abort@|@zrušiť@
+@about@|@asi, o, okolo@
+@above@|@nažive@
+@absolute@|@absolútny, čistý@
+@absolutely@|@absolútne, naozaj, zaiste@
+@abstract@|@referát@
+@abundance of cash@|@prebytok hotovosti@
+@abusive@|@hanlivý, hrubý@
+@abusiveness@|@hanlivosť@
+@academy@|@académia@
+@accent@|@výslovnosť@
+@acceptable@|@prevziatie@
+@acceptance@|@preberanie, prevziatie@
+@access@|@prístup@
+@accident@|@náhoda, nehoda, smola@
+@accidentally@|@náhodne@
+@accommodation@|@bydlisko@
+@accomplished@|@dokonalý@
+@accomplishment@|@vykonanie@
+@account@|@konto, účet@
+@accountant@|@účtovník@
+@ace software@|@výrobca programov@
+@acne@|@trudovitosť@
+@act@|@dejstvo, konanie@
+@action@|@dej, konanie@
+@activity@|@aktivita, činnosť@
+@actually@|@Skutočne, skutočnosti (v sk.), v skutočnosti@
+@add@|@sčítať@
+@addictive@|@vytvárajúci návyk@
+@addition@|@doplnok, prídavok@
+@address@|@adresa@
+@address book@|@adresár@
+@address card@|@vizitka@
+@adhesive@|@lepidlo@
+@adjective@|@adjektívny@
+@administration@|@ministerstvo@
+@admire@|@želať@
+@adult@|@dospelý@
+@adultery@|@cudzoložstvo@
+@advance@|@zlepšenie@
+@advanced user@|@pokročilý užívateľ@
+@advanced users@|@pokročilý užívatelia@
+@advantage@|@úžitok, výhoda@
+@adventure@|@dobrodružstvo@
+@adventurous@|@dobrodružný@
+@adverb@|@príslovka@
+@advertisment@|@inzerát, oznámenie@
+@advice@|@porada@
+@advise@|@poradiť sa, radiť@
+@affair@|@obchod@
+@afflicted@|@stiesnený@
+@afford@|@dopriať si, poskytovať@
+@afraid (be a.)@|@mať strach, obávať sa@
+@after@|@po, potom@
+@after all@|@dokonca, napokon, predsa@
+@afternoon@|@odpoludnie, poobedie@
+@afternoon (in the a.)@|@popoludní@
+@afterwards@|@následne, potom@
+@again@|@ešte raz, opäť, znovu@
+@against@|@proti@
+@agenda@|@jednanie, program@
+@agent@|@sprostredkovateľ@
+@agitated@|@nekľudný@
+@ago@|@pred@
+@agree@|@slúžiť@
+@agree (upon)@|@dohodnúť sa@
+@agree to terms@|@súhlasiť s podmienka@
+@agreed@|@súhlasí@
+@agreement@|@dohoda, súhlas@
+@air@|@vzduch@
+@air mail@|@letecká pošta@
+@air mattress@|@nafukovací matrac@
+@air plane@|@lietadlo@
+@air ticket@|@letenka@
+@air-bed@|@nafukovací matrac@
+@air-hostess@|@letuška@
+@airport@|@letisko@
+@alarm@|@poplach@
+@alas!@|@bohužiaľ@
+@alcohol@|@alkohol@
+@alert@|@ostražitý, pohotovosť, poplach@
+@A-level exam@|@maturita@
+@alive@|@nažive@
+@all@|@všetci, všetko@
+@all at once@|@znenazdajky, zrazu@
+@all in all@|@celkom, celkove@
+@all in good time@|@všetko v pravý čas@
+@All Souls Day@|@Dušičky@
+@all the same@|@predsa však@
+@allowance@|@tolerancia@
+@allowed@|@dovolený, prípustný@
+@almost@|@asi, skoro@
+@alone@|@sám@
+@along@|@ďalej, pozdĺž@
+@alphabetic word@|@abecedné slovo@
+@alphanumeric word@|@alfanumerické slovo@
+@already@|@už@
+@also@|@tiež@
+@alter@|@meniť@
+@alternation@|@zmena@
+@although@|@hoci@
+@altitude@|@výška@
+@aluminium@|@hliník@
+@always@|@stále, vždy@
+@amateur@|@neodborník@
+@amateurish@|@neodborný@
+@ambulance@|@záchranka@
+@ambush@|@číhať@
+@America@|@Amerika@
+@American@|@americký@
+@amiss@|@chybne@
+@ammunition@|@strelivo@
+@amorous@|@zamilovaný@
+@amplifier@|@zosilňovač@
+@analyst@|@analytik@
+@ancestor@|@predchodca@
+@and@|@a@
+@and so forth@|@a tak ďalej@
+@and so on@|@a tak ďalej@
+@and what about@|@a čo@
+@angry@|@zlostný@
+@angry (be a. at)@|@hnevať sa na@
+@anguish@|@úzkosť@
+@animal@|@zviera@
+@Anno Domine@|@po Kristovi@
+@announce@|@oznámiť@
+@announcement@|@hlásenie@
+@annoying (how a.)@|@nepríjemné (aké n.)@
+@annual@|@výročné@
+@annual audit@|@ročné vyúčtovanie@
+@anorak@|@bunda@
+@another@|@ešte, ešte jeden@
+@answer@|@odpovedať@
+@answering@|@prihlásenie@
+@anticipate@|@tušiť@
+@antiquarian@|@antikvariát@
+@anxiety@|@úzkosť@
+@any@|@nejaký@
+@anymore@|@ešte@
+@anything else?@|@ešte niečo?@
+@apart from@|@nehľadiac na@
+@apologize@|@ospravedlniť sa@
+@apology@|@ospravedlnenie@
+@apparatus@|@prístroj@
+@apparition@|@strašidlo, zjavenie@
+@appendix@|@slepé črevo@
+@apple@|@jablko@
+@apples@|@jablká@
+@appliance@|@prístroj@
+@applicant@|@uchádzač@
+@apprehension@|@chápanie@
+@approximately@|@približne@
+@apricot@|@marhuľa@
+@April@|@apríl@
+@arcade game@|@počítačová hra@
+@architect@|@architekt, staviteľ@
+@architecture@|@architektúra@
+@argue@|@hádať sa@
+@argument@|@spor@
+@arm@|@paža, rameno@
+@armchair@|@kreslo@
+@armed@|@ozbrojený@
+@around@|@okolo, približne@
+@arrange@|@usporiadať@
+@arrest@|@uväzniť@
+@arrive@|@pricestovať@
+@arrive by air@|@priletieť@
+@art of self-defence@|@šerm@
+@article@|@článok, predmet@
+@as@|@ako, keď, pretože, tak@
+@as always@|@ako vždy@
+@as good as@|@temer, vlastne@
+@as soon as@|@čím skôr@
+@as soon as possible@|@čo najskôr@
+@as usual@|@ako zvyčajne@
+@ashtray@|@popolník@
+@ask@|@pýtať (sa)@
+@assistant@|@pomocník@
+@assume@|@domnievať sa, predpokladať@
+@assumption@|@predpoklad@
+@assurance@|@zaistenie@
+@at@|@na prvý pohľad@
+@at a@|@od tela@
+@at a blow@|@naraz@
+@at all@|@vôbec@
+@at last@|@konečne@
+@at least@|@aspoň, minimálne@
+@at once@|@hneď, naraz@
+@at one stroke@|@naraz@
+@attempt@|@pokúsiť sa@
+@attention@|@pozornosť@
+@attention!@|@pozor!@
+@attentive@|@pozorný@
+@attitude@|@postoj@
+@attractive@|@pôvabná@
+@August@|@august@
+@aunt@|@teta@
+@authentic@|@autentický, pravý@
+@autumn@|@jeseň@
+@available@|@k dispozícii@
+@average@|@priemerný@
+@away@|@preč@
+@awe@|@bázeň, úzkosť@
+@awkward@|@neohrabaný@
+@Bachelor of Arts@|@bakalár filozofie@
+@Bachelor of Medicine@|@bakalár medicíny@
+@Bachelor of Science@|@bakalár vied@
+@back@|@späť, zadok@
+@back (of body)@|@chrbát@
+@back and forth@|@hore-dolu, sem a tam@
+@background@|@výchova@
+@backhander@|@úplatok@
+@backlash@|@spätný náraz@
+@backwoods@|@zálesie@
+@bad@|@chorý, zlý@
+@bad taste@|@nevkus@
+@badge@|@odznak, označenie@
+@badger@|@jazvec@
+@bad-looking@|@škaredý@
+@badly@|@chorý@
+@baffle@|@prekaziť@
+@bafflement@|@zmarenie@
+@bag@|@peňaženka, sáčok, taška, vrece@
+@bag (leather-bag)@|@mech@
+@bagpipes@|@gajdy@
+@ball@|@lopta@
+@Baltic Sea@|@Baltické more@
+@bank@|@banka@
+@bar@|@výčap@
+@bar code@|@čiarkový kód, prúžkový kód@
+@bar(-counter)@|@pult@
+@barbecue@|@ražeň@
+@barbed wire@|@ostatný drôt@
+@bare@|@holý, prostý@
+@barn@|@stodola@
+@baroque church@|@barokový kostol@
+@basic@|@základný@
+@bask@|@opaľovať sa@
+@basket@|@košík@
+@basketball@|@basketbal@
+@bath@|@kúpať, kúpeľ@
+@bath tub@|@vaňa@
+@bathroom@|@kúpelňa@
+@be@|@byť, existovať@
+@be (imperative)@|@buď@
+@be absent@|@chýbať@
+@be asleep@|@spať@
+@be at war@|@bojovať@
+@be late@|@meškať, oneskoriť sa, zplodiť@
+@be quiet!@|@buď ticho !@
+@be short of@|@chýbať@
+@be sorry@|@ľutovať@
+@beach@|@pobrežie@
+@bear@|@medveď@
+@beard@|@brada@
+@beast@|@potvora@
+@beautiful@|@krásny, nádherný@
+@because@|@kvôli, lebo, pretože@
+@become@|@stať sa, zvyknúť si@
+@bed@|@posteľ@
+@bedside table@|@nočný stolík@
+@beer@|@pivo@
+@beer (nice b.)@|@pivečko@
+@beetroot@|@cvikľa@
+@before@|@než, pred, predtým, skôr@
+@begin@|@začať@
+@beginner@|@začiatočník@
+@beginning@|@počiatok, začiatok@
+@beginning with@|@počiatok s@
+@behaviour science@|@veda o správaní ľudí@
+@behind@|@vzadu, za@
+@beige@|@béžový@
+@being@|@tvor@
+@belch@|@grgať@
+@believe@|@domnievať sa, veriť@
+@belly@|@brucho, žalúdok@
+@beloved@|@milovaný@
+@belt@|@opasok@
+@bench@|@lavička@
+@besides@|@okrem toho@
+@best@|@najlepší@
+@better@|@lepší, lepšie@
+@between@|@medzi@
+@between countries@|@medzinárodný@
+@bias@|@záľuba@
+@bicycle@|@bicykel@
+@bid farewell@|@želať šťastnú cestu@
+@bilberry@|@čučoriedka@
+@bill@|@faktúra@
+@birch@|@breza@
+@birthday@|@narodeniny@
+@birthmark@|@materské znamienko@
+@birth-place@|@rodisko@
+@bitter@|@horký, trpký@
+@black@|@čierny@
+@black currant@|@čierna ríbezľa@
+@blackberry@|@černica@
+@blackboard@|@tabuľa@
+@blade@|@čepeľ noža, steblo, žiletka@
+@blanket@|@deka@
+@blast@|@náraz@
+@bloke@|@človek@
+@blood@|@krv@
+@blouse@|@blúza@
+@blow@|@fúkať, úder@
+@blue@|@modrý@
+@blunder@|@omyl@
+@blunt@|@tupý@
+@boat@|@čln@
+@bobby@|@strážnik@
+@body@|@telo@
+@boiled@|@varený@
+@bolt (n.)@|@závora@
+@bolt (v.)@|@ujsť@
+@bonfire@|@táborák@
+@book@|@kniha@
+@book a ticket@|@kúpiť si lístok@
+@booklet@|@brožúra@
+@bookshop@|@kníhkupectvo@
+@bookshop (second hand)@|@antikvariát@
+@booster@|@zosilňovač@
+@boot@|@vysoká topánka@
+@boot disk@|@zavádzací disk@
+@boot drive@|@zavádzací jednotka@
+@booth@|@búda, kabína@
+@boots@|@čistič obuvi, čižmy@
+@boozy@|@opitý@
+@boredom@|@nuda@
+@borrow@|@požičať si@
+@both@|@obaja, obidva@
+@both ... and@|@aj ... aj@
+@bottle@|@fľaša@
+@bottle of beer@|@fľaša piva@
+@bottom@|@dno@
+@bow@|@motýlik, stuha, ukloniť sa@
+@box@|@debna, krabica@
+@boxer shorts@|@trenírky@
+@Boxing Day@|@druhý sviatok vianoč@
+@boy@|@chlapec@
+@boy friend@|@priateľ@
+@boy!@|@chlapče !@
+@boy-friend (partner)@|@frajer@
+@bracelet@|@náramok@
+@brain@|@mozog@
+@brake@|@brzda@
+@brat@|@fagan@
+@brave@|@statočný@
+@bread@|@chlieb@
+@break@|@porušiť, prerušiť, zlomiť@
+@breakfast@|@raňajky@
+@breakfast (at b.)@|@raňajkách (pri r.)@
+@breakpoint@|@dočasne zastavený@
+@breast@|@hruď, prs, prsia@
+@breasts@|@prsníky@
+@breathe@|@dýchať@
+@breeding@|@výchova@
+@breeze@|@vetrík@
+@bribe@|@úplatok@
+@bridge@|@bridž, most, mostík@
+@briefcase@|@aktovka@
+@brightness@|@jas@
+@broke (be b.)@|@mizine (byť na m.)@
+@broker@|@sprostredkovateľ@
+@brother@|@brat@
+@brother-in-law@|@švagor@
+@brown@|@hnedý@
+@brunch@|@raňajky a obed@
+@build@|@postaviť@
+@builder@|@staviteľ@
+@building@|@budova, stavba@
+@building site@|@stavenisko@
+@burn@|@horieť, páliť@
+@bus@|@autobus@
+@business@|@obchod@
+@businessman@|@obchodník, podnikateľ@
+@businessmen@|@obchodníci@
+@but@|@ale, avšak, však@
+@butcher@|@mäsiar@
+@butler@|@lokaj, sklepník@
+@butter@|@maslo@
+@butterfly@|@motýľ@
+@buy@|@kupiť@
+@by@|@od, podľa, u, vedľa@
+@by all means@|@zaiste@
+@by name@|@menovite@
+@by no means@|@nijako, vôbec nie@
+@by the by@|@mimochodom@
+@by the way@|@mimochodom@
+@bye!@|@čau@
+@bye-bye@|@dovi, dovidenia@
+@cabbage@|@kapusta@
+@café@|@kaviareň@
+@cafeteria@|@samoobslužná jedáleň@
+@cake@|@buchta, koláč, torta@
+@calamity@|@pohroma@
+@calculator@|@počítač@
+@calendar@|@kalendár@
+@calf@|@lýtko@
+@call@|@nazývať, telefonovať, volať@
+@calm@|@ticho@
+@camera@|@fotoaparát@
+@can@|@konvica, môcť, plechovka, smieť, vedieť@
+@canalize@|@nasmerovať@
+@canary bird@|@kanárik@
+@cancel@|@zrušiť@
+@candy@|@cukrík@
+@cane@|@palica@
+@canister@|@plechovka@
+@canteen@|@jedáleň@
+@cap@|@čapica, čiapka@
+@capital@|@hlavné mesto@
+@capture@|@dobytie@
+@car@|@auto@
+@car park@|@parkovisko@
+@card@|@karta@
+@cardboard@|@lepenka@
+@careful@|@dbajúci, opatrný@
+@careful!@|@opatrne!@
+@careless@|@nedbajúci, neopatrný@
+@cargo@|@lodný náklad@
+@carp@|@kapor@
+@carpenter@|@tesár@
+@carpet@|@koberec@
+@carriage@|@koč, vagón, vozidlo, vozík@
+@carrots@|@mrkva@
+@carry@|@doviesť, niesť@
+@case@|@debna, prípad@
+@castle@|@hrad@
+@casualty@|@pohroma@
+@cat@|@mačka@
+@catalogue@|@zoznam@
+@catastrophe@|@katastrofa@
+@catch@|@chytiť@
+@catch cold@|@prechladnúť@
+@cautious@|@obozretný@
+@CD@|@kompaktná platňa@
+@celebrate@|@oslavovať@
+@cellar@|@pivnica@
+@Central European Time (C.E.T.)@|@stredoeurópsky čas@
+@certain@|@istý@
+@certainly@|@iste, samozrejme, určite, zaiste@
+@chair@|@kreslo, stolička@
+@chalk@|@krieda@
+@chance@|@možnosť, náhoda, pravdepodobnosť, udalosť@
+@change@|@meniť, zmena@
+@change (money)@|@drobné@
+@changeful@|@vrtkavý@
+@chap@|@človek, chlap@
+@chapel@|@kaplnka@
+@charade@|@šaráda@
+@charge@|@náboj, nálož, poplatok, záťaž@
+@charges@|@náklady, výdavky@
+@charm@|@pôvab@
+@chauffeur@|@šofér@
+@cheap@|@lacný@
+@cheat@|@oklamať, podviesť@
+@check out@|@odhlásiť (sa)@
+@cheek@|@líce@
+@cheer@|@ovácie@
+@cheese@|@syr@
+@cherry@|@čerešňa@
+@cherry (black cherry)@|@višňa@
+@chest@|@debna, hruď, prsia@
+@chew@|@žuvať@
+@chicken@|@kurča@
+@chief@|@šéf@
+@child@|@dieťa@
+@childish@|@ako dieťa@
+@childlike@|@ako dieťa@
+@children@|@deti@
+@chill@|@chlad@
+@chin@|@brada@
+@chip@|@trieska@
+@chocolate@|@čokoláda@
+@choice@|@voľba@
+@chopsticks@|@paličky na jedenie@
+@chorus@|@zbor@
+@Christian name@|@krstné meno@
+@Christmas@|@Vianoce@
+@Christmas Day@|@prvý sviatok vianočn@
+@Christmas gift@|@vianočný darček@
+@church@|@bohoslužba, cirkev, kostol@
+@church (parish ch.)@|@farský kostol@
+@church art@|@cirkevné umenie@
+@churchyard@|@cintorín, hroby, pohrebisko@
+@cinema@|@kino@
+@citizen@|@mešťan, občan@
+@clad@|@oblečený@
+@classes@|@radiť@
+@claw@|@pazúr, škriabať@
+@clay@|@hlina, íl@
+@clean@|@čistotný, čistý@
+@clearly@|@samozrejme@
+@clergyman@|@kňaz@
+@clerk@|@úradník@
+@clever@|@inteligentný, obratný@
+@click@|@kliknutie@
+@climb@|@šplhať@
+@close@|@blízko, blízky, zatvoriť@
+@clothing@|@oblečenie@
+@clown@|@šašo@
+@club@|@klub@
+@clumsy@|@nemotorný, neohrabaný@
+@coal@|@uhlie@
+@coal mine@|@uhoľná baňa@
+@coast@|@pobrežie@
+@coat@|@kabát, plášť@
+@code@|@kód@
+@coffee@|@káva@
+@coil@|@stočiť (sa)@
+@coincidence@|@koincidencia, náhoda@
+@cold@|@chlad, chladný@
+@cold blood@|@chladnokrvnosť@
+@collaboration@|@spolupráca@
+@collar@|@golier, límec@
+@colleague@|@kolega@
+@collect@|@zbierať@
+@collection@|@zbierka@
+@colour@|@farba@
+@combatant@|@bojovník@
+@come@|@pricestovať, prísť@
+@come (imperative)@|@poď(te)@
+@come back@|@vrátiť sa@
+@come in handy (to c.)@|@zísť sa@
+@comedy@|@veselohra@
+@comfort@|@potecha@
+@command@|@povel@
+@commerce@|@obchod@
+@commit@|@spáchať, vykonať@
+@commodity@|@tovar@
+@company@|@spoločnosť@
+@compare@|@porovnať@
+@comparison@|@prirovnanie@
+@competitor@|@sok@
+@complain@|@sťažnosť@
+@compliment@|@blahoželať@
+@computer@|@počítač@
+@computer application@|@počítačová aplikácia@
+@computer game@|@počítačová hra@
+@computer literacy@|@počítačová gramotnos@
+@computer network@|@počítačová sieť@
+@computer science@|@počítačová veda@
+@concept@|@pojem@
+@condition@|@podmienka@
+@confer@|@radiť sa@
+@conference@|@konferencia@
+@confirm@|@overiť, potvrdiť@
+@conflict@|@spor@
+@confrontation@|@spor@
+@confuse@|@pomýliť, zmiasť@
+@confused@|@zmätený@
+@confused (get c.)@|@popliesť si@
+@confusion@|@vrava, zámena, zmätok@
+@confute@|@umlčať@
+@congratulate@|@blahoželať@
+@connection@|@spojenie, súvislosť@
+@conquest@|@dobytie@
+@conscience@|@svedomie@
+@consequent@|@dôsledný@
+@considerate@|@ohľaduplný, pozorný@
+@consignment@|@dodanie@
+@consistent@|@dôsledný@
+@consolation@|@potecha@
+@conspiracy@|@sprisahanie@
+@constable@|@strážnik@
+@constancy@|@stálosť@
+@constant@|@stály@
+@constantly@|@stále@
+@constitution@|@ústava@
+@consult@|@poradiť sa, radiť sa@
+@consultant@|@konzultant, poradca@
+@consultation@|@konzultácia, porada@
+@contact@|@kontakt@
+@contemporary@|@súčasný@
+@context@|@kontext, súvislosť@
+@continue@|@pokračovať@
+@continuously@|@neprestajne@
+@contractor@|@podnikateľ@
+@contrast@|@kontrast@
+@control@|@ovládať, regulovať, riadiť@
+@conundrum@|@hádanka@
+@conversation@|@rozhovor@
+@converse@|@konverzovať@
+@cookie@|@koláčik@
+@cool@|@chladno, chladný@
+@cooperate@|@spolupracovať@
+@co-operation@|@spolupráca@
+@copper@|@meď@
+@cordless@|@bezdrôtový@
+@core@|@jadro, ohryzok@
+@correct@|@opraviť, správne, správny@
+@corridor@|@chodba@
+@corruption@|@úplatok@
+@cost@|@náklady, stáť (cena)@
+@costly@|@nákladný@
+@costs@|@náklady@
+@cottage@|@chata@
+@could I (speak with)@|@mohol/mohla by som (hovoriť s)@
+@could we (speak with)@|@mohli by sme (hovoriť s)@
+@counsel@|@porada, poradiť sa@
+@counter@|@pult@
+@country@|@krajina@
+@couple@|@dvojica, pár@
+@couple (a c.)@|@zopár@
+@courage@|@odvaha@
+@courageous@|@statočný@
+@cousin@|@bratanec, sesternica@
+@cover@|@deka (n.), prikryť, prikryť (v.)@
+@cow@|@krava@
+@coy@|@nesmelý@
+@crave@|@túžiť po (v.)@
+@craving@|@túžba (n.)@
+@crazy@|@bláznivý@
+@cream@|@smotana@
+@creation@|@tvorba@
+@creator@|@tvorca@
+@creature@|@tvor@
+@criminal@|@zločinec@
+@crisp@|@sypký@
+@crisps@|@hranolky@
+@cross@|@križovať, prekročiť@
+@crossword puzzle@|@krížovka@
+@crow@|@vrana@
+@crowd@|@množstvo, tlačenica, zástup@
+@crowded@|@napchaný, plný ľudí, preplnený@
+@crown@|@koruna@
+@crowns a month@|@korún mesačne@
+@crowns per hour@|@korún za hodinu@
+@cruel@|@hrozný, krutý@
+@crumb@|@omrvinka@
+@crush@|@drviť, rozbiť@
+@crutch@|@barla@
+@cub@|@fagan, mláďa@
+@cucumber@|@uhorka@
+@cuddle@|@hýčkať, rozmaznávať@
+@cudgel@|@palica@
+@culprit@|@páchateľ, vinník@
+@cunning@|@chytráckosť, chytrácky, chytráctvo, prefíkaný@
+@cup@|@kalich, šálka@
+@cupboard@|@skriňa@
+@curiosity@|@zvedavosť, zvláštnosť@
+@curious@|@zvedavý@
+@currant@|@ribízľa@
+@currency@|@mena, obeh, obeživo@
+@curse@|@kliatba@
+@curtain@|@záves@
+@curve@|@krivka, zákruta@
+@custard@|@vaječný krém@
+@customer@|@zákazník@
+@customers@|@zákazníci@
+@custom-made@|@zákazkový@
+@customs@|@clo@
+@cut@|@strih@
+@cutlass@|@krátka šabľa, šabľa@
+@cutlery@|@príbor@
+@cycle@|@bicyklovať sa@
+@Czechia@|@Česko@
+@dagger@|@dýka, krížik@
+@daily@|@denne@
+@dam@|@priehrada@
+@damage@|@poškodiť@
+@damaged@|@zničený@
+@dance@|@tancovať, tanec@
+@dandle@|@rozmaznávať@
+@danger@|@nebezpečenstvo@
+@dangerous@|@nebezpečný@
+@danish (adj.)@|@dánsky@
+@dare venture@|@odvážiť sa@
+@dark@|@tmavý@
+@dark red@|@tmavočervený@
+@darkroom@|@tmavá komora@
+@darling@|@miláčik, milovaný@
+@database@|@databáza@
+@date@|@dátum, rande@
+@daughter@|@dcéra@
+@daughter-in-law@|@nevesta@
+@dawn@|@brieždiť sa, úsvit@
+@day@|@deň@
+@day after tomorrow@|@pozajtra@
+@day and night@|@deň a noc@
+@day before yesterday@|@predvčerom@
+@day by day@|@denne@
+@daylight saving time@|@letný čas@
+@dead drunk@|@opitý na mol@
+@deal@|@transakcia@
+@dealing(s)@|@jednanie@
+@dear@|@drahý@
+@deary@|@miláčik@
+@death@|@smrť@
+@debate@|@diskutovať@
+@debit@|@dlh@
+@debt@|@dlh@
+@deceitful@|@klamný@
+@december@|@december@
+@decency@|@slušnosť@
+@deceptive@|@klamný@
+@decide@|@rozhodnúť@
+@decipher@|@rozlúštiť@
+@decision@|@rozhodnutie, rozhodovanie@
+@decision making@|@rozhodovanie@
+@decorate@|@ozdobiť@
+@decrypt@|@rozlúštiť@
+@dedication@|@venovanie@
+@deep@|@hlboký, priliš@
+@defamatory@|@hanlivý@
+@defeat@|@prekaziť, zmarenie, zmariť@
+@defenceless@|@bezbranný@
+@definite@|@istý@
+@definitely@|@samozrejme@
+@delay@|@meškať@
+@delete@|@zrušiť@
+@deliberate@|@radiť sa@
+@delicate@|@jemný@
+@delicious@|@chutný@
+@delightful@|@príjemný@
+@delivery@|@dodanie@
+@demand@|@požadovať@
+@Denmark@|@Dánsko@
+@dense@|@hustý@
+@density@|@hustota@
+@deparartment store@|@obchodný dom@
+@depart@|@odísť@
+@department@|@ministerstvo@
+@departure@|@odchod@
+@depend@|@závisieť@
+@dependability@|@spoľahlivosť@
+@deprive of@|@zbaviť@
+@depth@|@výška@
+@derogatory@|@hanlivý@
+@description@|@popis@
+@desert@|@opustiť, púšť@
+@deserve@|@zaslúžiť (si)@
+@design@|@vzorka@
+@design (v.)@|@rysovať@
+@designation@|@označenie, predurčenie@
+@designer@|@rysovač@
+@desire@|@túha, túžba (n.), túžiť po (v.), želať si@
+@desolate@|@opustený@
+@despairing@|@zúfalý@
+@desperate@|@zúfalý@
+@desperation@|@zúfalstvo@
+@dessert@|@zákusok@
+@destiny@|@osud@
+@destroy@|@zrušiť@
+@detail@|@detail, dielec@
+@details@|@detaily, podklady@
+@development@|@zlepšenie@
+@device@|@prístroj@
+@devil-may-care@|@bezstarostný, ľahkovažny@
+@devote@|@oddať sa, venovať@
+@dialect@|@nárečie@
+@diary@|@zápisník@
+@dictionary@|@slovník@
+@die@|@zomrieť@
+@difference@|@rozdiel@
+@different@|@rôzne@
+@difficult@|@náročný, obtiažny@
+@difficulty@|@obtiaž, ťažkosť@
+@digit@|@číslica@
+@dinner@|@obed@
+@diplomacy@|@diplomacia@
+@direction@|@smer@
+@directly@|@priamo@
+@directory@|@zoznam@
+@dirty job@|@špináva robota@
+@disadvantage@|@nevýhoda@
+@disagreement@|@spor@
+@disappear@|@zmiznúť@
+@disappointed@|@sklamaný@
+@disappointment@|@sklamanie@
+@disaster@|@katastrofa, pohroma@
+@disbursement@|@náklady@
+@discharge@|@výboj@
+@discourse@|@rozprava@
+@discover@|@objaviť@
+@disgust@|@hnus, nechuť@
+@disgusting!@|@fuj!@
+@dish@|@jedlo@
+@disk drive@|@disková jednotka@
+@disk unit@|@disková jednotka@
+@dislike@|@nechuť, nemať rád@
+@disobey@|@neposlúchať@
+@displeased@|@nespokojný@
+@dispute@|@hádať sa, hádka@
+@disregard@|@neúcta k@
+@disreputable@|@nepočestný@
+@disrespect@|@neúcta@
+@distance@|@od tela, vzdialenosť@
+@distress@|@úzkosť@
+@distressed@|@stiesnený@
+@distribution@|@rozdelenie@
+@disturb@|@vyrušovať@
+@do@|@robiť@
+@doctor@|@doktor@
+@document@|@doklad, dokument, preukaz@
+@dog@|@pes@
+@doll@|@bábika@
+@domestic@|@súkromný@
+@donkey@|@somár@
+@don't be (imperative)@|@nebuď@
+@don't be afraid@|@neboj sa@
+@don't be afraid (imperative)@|@neboj(te) sa@
+@don't be angry@|@nehnevaj sa@
+@don't be so proud@|@nebuď tak pyšný@
+@don't go there (imperative)@|@nechoď tam@
+@don't worry@|@neboj sa@
+@door@|@dvere@
+@dot@|@bodka@
+@doubt@|@pochybnosť@
+@doughnut@|@koláč@
+@dove@|@holub@
+@down@|@dole@
+@down and out@|@uštvaný@
+@down!@|@ľahni !@
+@downfall@|@lejak@
+@downpour@|@lejak@
+@dowry@|@veno@
+@dozen@|@tucet@
+@dragon@|@drak@
+@dragon-fly@|@vážka@
+@draw@|@rysovať@
+@drawing@|@výkres@
+@dread@|@strach@
+@dream@|@sen, snívať, spánok@
+@dreamer@|@snilko@
+@dress@|@odev, šaty@
+@dressed@|@oblečený@
+@dressing@|@omáčka@
+@drink@|@piť@
+@driver's licence@|@vodičský preukaz@
+@driving licence@|@vodičský preukaz@
+@drop@|@pustiť@
+@drow@|@utopiť (sa)@
+@drug@|@droga@
+@drunk@|@opitý@
+@dry@|@suchý@
+@DST@|@letný čas@
+@duckling@|@káča@
+@due@|@náležitý@
+@durability@|@trvanlivosť@
+@durable@|@trvanlivý@
+@duration@|@stálosť@
+@during@|@počas@
+@during my lifetime@|@za môjho života@
+@duty@|@poplatok@
+@each@|@každý@
+@each other@|@navzájom@
+@eager@|@dychtivý@
+@ear@|@ucho@
+@early@|@skoro, skorý@
+@earn@|@zaslúžiť (si)@
+@earnings@|@dôchodok@
+@ears@|@uši@
+@easy@|@jednoduchý@
+@eat@|@jesť@
+@Ecce Homo@|@hľa človek@
+@economy@|@ekonomika, hospodárstvo@
+@edge@|@hrana@
+@educate@|@vychovávať, vzdelávať@
+@education@|@výchova@
+@effect@|@účinok@
+@effects@|@tovar@
+@efficient@|@účinný, zdatný@
+@effort@|@úsilie@
+@egg@|@vajce@
+@egoist@|@sebec@
+@eight@|@osem@
+@eighteen@|@osemnásť@
+@eighteenth@|@osemnásty@
+@eighth@|@ôsmy@
+@eightieth@|@osemdesiaty@
+@eighty@|@osemdesiat@
+@either@|@ešte ne-, vôbec ešte@
+@either ... or@|@buď ... alebo@
+@elbow@|@lakeť@
+@elderly@|@obstarný, postarší@
+@elegant@|@elegantný, vkusný@
+@elevation@|@návršie, výška@
+@elevator@|@výťah@
+@eleven@|@jedenásť@
+@eleventh@|@jedenásty@
+@eliminate@|@vylúčiť@
+@elimination@|@vylúčenie@
+@elk@|@los@
+@eloquence@|@výrečnosť@
+@else@|@ešte, ináč, inak@
+@elsewhere@|@inam, inde@
+@email@|@elektronická pošta@
+@e-mail@|@elektronická pošta@
+@embedded@|@vložená@
+@embezzlement@|@defraudácia@
+@embracery@|@úplatok@
+@emerald@|@smaragd@
+@emergency exit@|@núdzový východ@
+@emotional@|@citový, vzrušivý@
+@empathic@|@dôrazný@
+@employ@|@zamestnať@
+@employer@|@chlebodarca@
+@employment@|@práca@
+@empty@|@hladný@
+@end@|@končiť, koniec@
+@endless@|@nekonečný@
+@endurance@|@odolnosť, stálosť, trpezlivosť, trvanlivosť@
+@endure@|@trvať, vydržať, zniesť@
+@engagement@|@jednanie@
+@England@|@Anglicko@
+@English@|@anglický@
+@enigma@|@hádanka, záhada@
+@enormous@|@mohutný@
+@enough@|@dosť@
+@enough (to be e.)@|@stačiť@
+@ensure@|@chrániť, zaručiť@
+@enter@|@vstúpiť@
+@enterprise@|@podnik@
+@entertainment@|@zábava@
+@enthusiasm@|@nadšenie@
+@enthusiastic@|@nadšený@
+@entirely@|@celkom, úplne@
+@entrance@|@prístup, vchod@
+@entrepeneur@|@podnikateľ@
+@envelope@|@obálka@
+@envious@|@závistlivý@
+@envy@|@závisť@
+@equation@|@rovnica@
+@equipment@|@zariadenie@
+@error@|@omyl@
+@escalator@|@eskalátor@
+@escape@|@únik, útek, utiecť@
+@especially@|@najmä, obzvlášť@
+@establishment@|@domácnosť, podnik, zaistenie@
+@etc@|@a tak ďalej@
+@Europe@|@Europa@
+@European Union@|@Európska únia (EÚ)@
+@even@|@dokonca@
+@even if@|@aj keby@
+@even so@|@aj tak@
+@evening@|@večer@
+@eventually@|@napokon, prípadne@
+@ever@|@stále, vôbec@
+@every day@|@každý den@
+@every time@|@v každom čase@
+@every way@|@v každom smere@
+@everybody@|@každý@
+@everyday@|@každodenný@
+@everything@|@všetko@
+@evidence@|@dôkaz@
+@evil@|@zlý@
+@exact@|@presný, rovný@
+@exactly@|@presne@
+@exam@|@skúška@
+@examination@|@skúška, vyšetrenie@
+@examine@|@skúmať@
+@example@|@príklad@
+@example (set a good e.)@|@dávať dobrý príklad@
+@examples@|@príklady@
+@excellent@|@výborne@
+@exception@|@výnimka@
+@exciting@|@napínavý, vzrušujúci@
+@exclusion@|@vylúčenie@
+@excursion@|@exkurzia@
+@excuse@|@ospravedlnenie, ospravedlniť@
+@execute@|@vykonať@
+@execution@|@vykonanie@
+@exercise@|@cvičiť@
+@exhaustion@|@únava@
+@exhibition@|@výstava@
+@exist@|@existovať@
+@exit@|@koniec, východ, výstup@
+@exotic@|@exotický@
+@expect@|@domnievať sa, predpokladať@
+@expenses@|@náklady, výdavky@
+@expensive@|@drahý, nákladný@
+@experience@|@zažiť, zážitok@
+@explain@|@vysvetliť@
+@explanation@|@vysvetlenie@
+@exploit@|@vykorisťovať@
+@express@|@vyjadriť@
+@extend@|@natiahnuť, rozšíriť@
+@extra@|@extra@
+@extreme@|@nehorázny@
+@eye@|@oko@
+@eyebrow@|@obočie@
+@eyes@|@oči@
+@eyesight@|@zrak@
+@fable@|@bájka@
+@face@|@tvár@
+@face down@|@umlčať@
+@face to face@|@tvárou v tvár@
+@fact@|@naozaj@
+@fail@|@nemať@
+@failure@|@nezdar@
+@faint@|@mdlý@
+@fair@|@jarmok, načisto@
+@fake@|@falšovať@
+@fall out (v.)@|@vypadnúť@
+@false@|@falošný, nesprávny@
+@false alarm@|@planý poplach@
+@falsify@|@falšovať@
+@family@|@rodina@
+@fancy@|@vkus@
+@fantastic@|@fantastický@
+@fantasy@|@fantázia@
+@far@|@ďaleko, ďaleký@
+@far away@|@ďaleko, veľmi ďaleko@
+@far from@|@vôbec nie@
+@farewell@|@zbohom@
+@farm@|@hospodárstvo@
+@farmer@|@farmár@
+@fashion@|@móda, módny@
+@fashionable@|@moderný, módny@
+@fast@|@chytro, rýchlo, rýchly@
+@fat@|@hrubý, tučný, tuk@
+@fate@|@osud@
+@father@|@otec@
+@father-in-law@|@svokor@
+@fatigue@|@únava, únava@
+@fatness@|@tučnosť@
+@favour@|@želať@
+@fear@|@strach@
+@feastday@|@sviatok@
+@February@|@február@
+@fee@|@plat, poplatok@
+@feel@|@cítiť@
+@feel badly@|@ľutovať@
+@feelings@|@city@
+@fellow@|@človek, chlap@
+@female@|@žena@
+@fence@|@šerm@
+@ferocity@|@divokosť@
+@ferry@|@trajekt@
+@ferryman@|@prievozník@
+@fever@|@horúčka@
+@fiancé@|@snúbenec@
+@fiancée@|@snúbenica@
+@fickle@|@vrtkavý@
+@field@|@pole@
+@field research@|@primárny výskum@
+@fifteen@|@pätnásť@
+@fifteenth@|@pätnásty@
+@fifth@|@piaty@
+@fiftieth@|@päťdesiaty@
+@fifty@|@päťdesiat@
+@fight@|@boj, bojovať@
+@fight o.'s way through@|@prebiť sa@
+@fighter@|@bojovník, stíhačka@
+@fighting@|@bojový@
+@figure@|@čislica, obrazec, obrázok, postava, tvár, značka, znak@
+@files@|@archív@
+@fill@|@plniť@
+@film@|@film@
+@finally@|@konečne, nakoniec@
+@find@|@nájsť@
+@find out@|@rozlúštiť@
+@finding@|@hľadanie@
+@fine@|@fajn@
+@fine!@|@dobre!@
+@finger@|@prst@
+@fingers@|@prsty@
+@finish@|@dokončiť, koniec, záver@
+@finished@|@hotový, ukončený@
+@fireplace@|@krb@
+@fireworks@|@ohňostroj@
+@firm@|@firma, obchod, podnik@
+@firmness@|@spoľahlivosť@
+@first@|@najskôr, prvý@
+@first name@|@krstné meno@
+@first sight@|@na prvý pohľad@
+@firth@|@morská úžina@
+@fish@|@loviť ryby, ryba@
+@fishing rod@|@udica@
+@fish-roe@|@ikry@
+@fit@|@hodiť sa, prispôsobiť@
+@five@|@päť@
+@flame@|@plameň@
+@flat@|@byt@
+@flattering@|@lichotivý@
+@flea market@|@blší trh@
+@flight@|@let@
+@flight schedule@|@letový poriadok@
+@flight ticket@|@letenka@
+@floor@|@dlážka, podlaha, poschodie@
+@florist@|@kvetinárka@
+@flower@|@kvet@
+@fly@|@let, letieť@
+@flying adder@|@vážka@
+@fog@|@hmla@
+@foil@|@prekaziť@
+@fold@|@zložiť@
+@follow@|@chápať, nasledovať@
+@folly@|@pochabosť@
+@fondle@|@hýčkať@
+@font@|@písmo@
+@food@|@jedlo, potrava@
+@food-stuffs@|@potraviny@
+@fool@|@blázon, šašo@
+@foot@|@noha@
+@football@|@fotbal, futbal@
+@footwear@|@obuv@
+@for@|@lebo, pre, pretože, za@
+@for a while@|@na chvíľu@
+@for example@|@napríklad@
+@for instance@|@napríklad@
+@for that reason@|@preto@
+@for the moment@|@zatiaľ@
+@for the sake of@|@kvôli@
+@force@|@nútiť@
+@foreign@|@zahraničný@
+@Foreign Office@|@Ministerstvo Zahrani@
+@foreigner@|@cudzinec@
+@foreman@|@predák@
+@forerunner@|@predchodca@
+@forest@|@les@
+@foreword@|@predhovor@
+@forge@|@falšovať@
+@forgery@|@falzifikát@
+@forget@|@zabudnúť@
+@forgot@|@zabudol@
+@forgotten@|@zabudnutý@
+@forlorn@|@zúfalý@
+@form@|@tvar@
+@forsaken@|@opustený@
+@forth@|@ďalej@
+@fortunately@|@našťastie@
+@fortune-teller (f.)@|@veštkyňa@
+@forward@|@dopredu, pokrokový, vpredu@
+@forwards@|@vpred, vpredu@
+@fountain@|@prameň@
+@four@|@štyri@
+@fourteen@|@štrnásť@
+@fourteenth@|@štrnásty@
+@fourth@|@štvrtý@
+@fourty@|@štyridsať@
+@fourtyth@|@štyridsiaty@
+@fox@|@líška@
+@fragrance@|@vôňa@
+@France@|@Francúzsko@
+@fraud@|@defraudácia@
+@free@|@bezplatná, neobsadený, slobodný, voľný@
+@free delivery@|@bezplatné dodanie@
+@free sample@|@bezplatná vzorka@
+@freedom@|@sloboda@
+@French@|@francúzsky@
+@fresh@|@čerstvý@
+@Friday@|@piatok@
+@fridge@|@chladnička@
+@fried@|@vyprážaný@
+@friend@|@kamarát, priateľ, priateľka@
+@friendly@|@priateľský@
+@friends@|@priatelia@
+@friendship@|@priateľstvo@
+@frock@|@šaty@
+@from@|@od, z@
+@frontier@|@hranica@
+@fruit@|@ovocie@
+@fruitless@|@márny@
+@frustration@|@nezdar, zmarenie@
+@fugitive@|@utečenec@
+@fulfilment@|@vykonanie@
+@full@|@plno, plný@
+@fun@|@veselý@
+@funny@|@smiešny, zábavný@
+@fur@|@srsť@
+@furniture@|@nábytok@
+@further@|@ďalej@
+@futile@|@márny@
+@futility@|@márnosť, ničotnosť@
+@future@|@budúcnosť@
+@gadget@|@prístroj@
+@gag@|@vtip@
+@gambado@|@čižmy@
+@gambler@|@hráč@
+@game@|@hra, vtip@
+@game room@|@herňa@
+@garden@|@záhrada@
+@gas@|@plyn@
+@gas-tank@|@plynojem@
+@gastritis@|@žalúdočný katar@
+@gate@|@brána@
+@gaudy@|@nevkusný@
+@gear@|@prístroj@
+@general@|@obyčajný, všeobecný@
+@gentle@|@jemný, láskavý, mierny@
+@gentleman@|@vzeldanec@
+@German@|@nemecký@
+@Germany@|@Nemecko@
+@get@|@dostať, stať sa, získať@
+@get a cold@|@prechladnúť@
+@get confused@|@popliesť si@
+@get hold of@|@zmocniť sa@
+@get into debt@|@robiť dlhy@
+@get on@|@nastúpiť@
+@get out@|@vystúpiť@
+@get sunburnt@|@opáliť sa@
+@get to know@|@poznať@
+@get together@|@radiť sa@
+@ghastly@|@príšerný@
+@ghost@|@strašidlo@
+@gift@|@dar@
+@gift of remembrance@|@darček na pamiatku@
+@gifts@|@nadanie@
+@giggling@|@smiech@
+@gird@|@opásať@
+@girl@|@dievča@
+@girl friend@|@priateľka@
+@girl-friend (partner)@|@frajerka@
+@give@|@dať@
+@give the game away@|@prezradiť plán@
+@give up@|@vzdať sa@
+@glacier@|@ľadovec@
+@glamorous@|@čarovný@
+@glance@|@pohľad, zbežne pozrieť@
+@glass@|@pohár@
+@glasses@|@okularie, okuliare@
+@glide@|@kĺzať (sa), plachtiť@
+@gloomy@|@chmúrny@
+@glove@|@rukavica@
+@gloves@|@rukavice@
+@glow@|@tlieť@
+@glue@|@glej, glejiť, lepidlo@
+@glue up@|@zalepiť@
+@gluttonous@|@nenásytný@
+@gnat@|@komár@
+@go@|@chodiť, ísť@
+@go (imperative)@|@choď(te)@
+@go mad@|@zblázniť sa@
+@go out@|@vyjsť@
+@goad@|@bodec, osteň@
+@goal@|@cieľ, gól@
+@goat@|@koza@
+@god@|@boh@
+@god-father@|@krstný otec@
+@god-mother@|@krstná mať@
+@gold@|@zlato, zlatý@
+@golden@|@zlatý@
+@Golden Pheasant (beer brand)@|@Zlatý Bažant@
+@goldfish@|@zlatá rybka@
+@golf@|@golf@
+@golf club@|@golfová palica@
+@good@|@dobre, dobro, dobrý, náležitý@
+@Good bye@|@dovi, dovidenia@
+@good day@|@dobrý deň@
+@good evening@|@dobrý večer@
+@good luck!@|@mnoho šťastia!@
+@good morning@|@dobré ráno@
+@good night@|@dobrú noc@
+@good-for-nothing@|@darmošľap, darmožráč@
+@good-natured fellow@|@dobrák@
+@goodness@|@dobrota@
+@goods@|@tovar@
+@goof off@|@flákať sa@
+@gooseberry@|@egreš@
+@goose-flesh@|@husia koža, zimomriavky@
+@gossip@|@klebetnica, klebety, reči@
+@goulash@|@guláš@
+@government@|@vláda@
+@grace@|@pôvab@
+@gradually@|@postupne@
+@grandchildren@|@vnúčatá@
+@granddaughter@|@vnučka@
+@grange@|@hospodárstvo@
+@grasp@|@chápať@
+@grass@|@tráva@
+@gravy@|@omáčka@
+@graze@|@pásť (sa)@
+@greasy@|@mazľavý@
+@Great Power@|@Veľmoc@
+@Greece@|@Grécko@
+@greed@|@hltavosť, hrabivosť, lakomosť@
+@greediness@|@hltavosť, hrabivosť, lakomosť@
+@greedy@|@hladný, nenásytný, pažravý@
+@green@|@zelený@
+@greet@|@pozdraviť@
+@greeting@|@pozdrav@
+@grey@|@sivý, šedivý, šedý@
+@grief@|@strasť@
+@grievance@|@sťažnosť@
+@grill@|@grilovať, ražeň@
+@grind@|@zomlieť@
+@grip@|@rúčka, stisk, uchopiť, zovrieť@
+@groan@|@stenať, ston, vzdych@
+@ground@|@dno, zem@
+@group@|@skupina@
+@grow@|@rásť@
+@guard@|@stráž, strážiť, strážnik@
+@guarded@|@obozretný@
+@guardian@|@pestún, tútor@
+@guess@|@tušiť@
+@guesswork@|@dohady@
+@guided tour@|@prehliadka@
+@guilt@|@vina@
+@guitar@|@gitara@
+@gun@|@puška@
+@gut@|@vybrať, vypitvať@
+@gym-shoes@|@cvičky@
+@habitation@|@bydlisko@
+@hag@|@bosorka, čarodejnica@
+@hailstorm@|@búrka s krúpami@
+@hair@|@chlp, srsť, vlas, vlasy@
+@half@|@polovica, polovičný@
+@hall@|@hala, sieň@
+@ham@|@šunka@
+@hand@|@ruka@
+@handball@|@hádzaná@
+@handkerchief@|@kapesník, vreckovka@
+@handle@|@držadlo@
+@hands@|@ruky@
+@hand-stand@|@stojka@
+@hang@|@obesiť, visieť, zavesiť@
+@hanger@|@vešiak@
+@haphazard@|@náhoda, náhodilý@
+@happen@|@prihodiť sa@
+@happy birthday@|@všetko najlepšie k narodeninám@
+@happy to oblige@|@rado sa stalo@
+@hard@|@tvrdý@
+@hard-disk@|@pevný disk@
+@hardness@|@odolnosť@
+@hardy@|@otužilý@
+@harmful@|@škodlivý@
+@harmless@|@neškodný@
+@harsh@|@drsný, príkry@
+@hart@|@jeleň@
+@hat@|@klobúk@
+@hate@|@nenávisť@
+@hate (v.)@|@nenávidieť@
+@hateful@|@nenávistný@
+@hatred@|@nenávisť@
+@have@|@mať@
+@have not@|@nemať@
+@have to@|@musieť@
+@hawk@|@jastrab@
+@haze@|@hmla, opar, zákal@
+@he@|@on@
+@he can@|@môže@
+@he does@|@robí@
+@he forgets@|@zabudne@
+@he goes@|@ide, on ide@
+@he has@|@má@
+@he is@|@on je@
+@He is coming here@|@Ide sem@
+@he knows@|@on vie@
+@he lives@|@býva@
+@he makes@|@robí@
+@he must@|@musí@
+@he sees@|@vidí@
+@he wants@|@chce@
+@he works@|@pracuje, robí@
+@head@|@hlava@
+@headache@|@bolenie hlavy, bolesť hlavy@
+@healthy@|@zdravý@
+@hear@|@počuť@
+@heartly@|@srdečný@
+@heavy@|@tažký@
+@height@|@výška@
+@heir@|@dedič@
+@heiress@|@dedička@
+@helicopter@|@helikoptéra@
+@hello!@|@ahoj!, haló!@
+@help@|@pomoc, pomôcť@
+@help me@|@pomôžte mi@
+@helpless@|@bezmocný@
+@her@|@jej@
+@herbal@|@herbár@
+@herdsman@|@pastier@
+@here@|@tu@
+@hereafter@|@budúcnosť@
+@hereditary@|@dedičný@
+@heredity@|@dedičnosť@
+@heresy@|@kacírstvo@
+@heretical@|@kacírsky@
+@herewith@|@týmto@
+@heritage@|@dedičstvo@
+@hero@|@bohatier, hrdina@
+@hesitation@|@váhanie@
+@hiccup@|@čkanie@
+@hide@|@skryť@
+@hide-and-seek@|@hra na schovávačku@
+@hideaway@|@úkryt@
+@hideous@|@príšerný, škaredý@
+@hill@|@kopec, návršie@
+@hillside@|@stráň@
+@him@|@jeho, jemu@
+@hip@|@bok@
+@his@|@jeho@
+@historian@|@dejepisec@
+@history@|@dejepis@
+@hit@|@udrieť@
+@hog@|@prasa@
+@hold@|@držať@
+@holder@|@držadlo@
+@holiday@|@dovolenka, sviatok@
+@home@|@domov@
+@honest@|@čestný, počestný, statočný@
+@honey@|@med@
+@honourable@|@počestný@
+@hope@|@dúfať, dúfať (v.), nádej, nádej (n.)@
+@horn@|@roh@
+@horrible@|@hrozný, strašný@
+@horror@|@des, hrôza@
+@horse@|@kôn, kôň@
+@hospital@|@nemocnica@
+@hospitalization@|@hospitalizácia@
+@hot@|@horúci@
+@hot dog@|@párok v rožku@
+@hotel@|@hotel@
+@hour@|@hodina@
+@house@|@dom@
+@household@|@domácnosť@
+@housing@|@príbytok@
+@how@|@ako@
+@how are you/You?@|@ako sa máš/máte?@
+@How do you say it in Slovak?@|@Ako sa to povie po slovensky?@
+@how long?@|@ako dlho?@
+@however@|@avšak, predsa však, však@
+@human being@|@človek@
+@humour@|@humor@
+@hundredth@|@stý@
+@hunger@|@hlad@
+@hungry@|@hladný@
+@hunt@|@lov, loviť@
+@hurry@|@ponáhľať (sa)@
+@hurt@|@raniť, zranený@
+@husband@|@manžel@
+@hush@|@umlčať@
+@I@|@ja@
+@I agree@|@dohodol som, súhlasím@
+@I am@|@ja som@
+@I am travelling@|@cestujem@
+@I believe you/him/her@|@verím ti/mu/jej@
+@I can@|@môžem@
+@I can't@|@nemôžem@
+@I disagree@|@nesúhlasím@
+@I do@|@robím@
+@I don't agree@|@nesúhlasím@
+@I drink@|@pijem@
+@I eat@|@jem@
+@I forget@|@zabudnem@
+@I forgot to bring it@|@zabudla som to prini@
+@I go@|@idem, ja idem@
+@I guess@|@hádam@
+@I have@|@mám@
+@I know@|@ja viem@
+@I live@|@bývam@
+@I love you (nice)@|@ľúbim ťa@
+@I love you (strong)@|@milujem ťa@
+@I make@|@robím@
+@I must@|@musím@
+@I must not@|@nesmiem@
+@I must not be proud@|@nesmiem byť pyšný@
+@I see@|@vidím@
+@I trust you@|@dôverujem ti@
+@I try@|@pokúsim sa@
+@I want@|@chcem@
+@I will go@|@pôjdem@
+@I wish@|@želám (si), želám si@
+@I wish you@|@želám ti, želám vám@
+@I wish you/You@|@želám ti/vám@
+@I work@|@pracujem, robím@
+@I would@|@by som@
+@I would have to@|@musel by som@
+@I would like to@|@Chcel by som@
+@ice@|@ľad@
+@ice cream@|@zmrzlina@
+@ice hockey@|@hokej@
+@ice-cold@|@ľadový@
+@ID card@|@občiansky preukaz@
+@idea@|@myšlienka, nápad, pojem@
+@ideal@|@ideálny@
+@identity@|@identita@
+@idiot@|@hlupák, idiot@
+@idle@|@nečinný, neúčinný@
+@idle time@|@prestoj@
+@if@|@ak, či, keby@
+@if appropriate@|@prípadne@
+@ignorant (of)@|@neoboznámený (s n.)@
+@ignore@|@ignorovať@
+@ill@|@chorý, škaredý@
+@I'm going home@|@Idem domov@
+@I'm going to town@|@Idem do mesta@
+@image@|@podobenstvo, prirovnanie@
+@immediate@|@okamžitý@
+@immediately@|@hneď, okamžite@
+@immigrant@|@prisťahovalec@
+@impact@|@náraz, účinok@
+@implement@|@náradie@
+@import@|@dovoz@
+@important@|@dôležitý@
+@impossible@|@nemožný@
+@impressed@|@nadšený@
+@impression@|@dojem@
+@improvement@|@zlepšenie@
+@in@|@dnu, na, v, vnútri, za@
+@in all likelihood@|@pravdepodobne@
+@in fact@|@skutočnosti (v sk.), v skutočnosti, vlastne@
+@in five weeks@|@za päť týždňov@
+@in front of@|@dopredu, vpredu@
+@in love@|@zamilovaný@
+@in my opinion@|@podľa môjho názoru@
+@in my view@|@podľa môjho názoru@
+@in the end@|@dokonca@
+@in the long run@|@napokon@
+@in the middle@|@v prostriedku@
+@in the morning@|@doobeda@
+@in tune@|@naladený@
+@in two weeks@|@za dva týždne@
+@incidentally@|@mimochodom@
+@include@|@obsahovať@
+@income@|@dôchodok, plat@
+@inconsequent@|@nedôsledný@
+@inconsistent@|@nedôsledný@
+@indeed@|@naozaj, samozrejme, skutočnosti (v sk.), v skutočnosti, však@
+@indefinite@|@nekonečný@
+@indisposed@|@chorý@
+@ineffective@|@neúčinný@
+@inelegant@|@nevkusný@
+@infinite@|@nekonečný@
+@influence@|@účinok@
+@ingenious@|@duchaplný@
+@ingenuity@|@duchaplnosť@
+@inherit@|@dediť, zdediť@
+@inheritance@|@dedičstvo@
+@inhibit@|@prekaziť@
+@initial@|@zavádzací@
+@initialization@|@zavádzací@
+@ink@|@atrament@
+@innocent@|@nevinný@
+@inoperative@|@neúčinný@
+@inquiry@|@dotaz@
+@insane@|@nepríčetný@
+@insecure@|@neistý@
+@insecurity@|@neistota@
+@inside@|@dnu, donútra, vnútri@
+@insight@|@nahliadnutie@
+@insist@|@naliehať@
+@insomnia@|@nespavosť@
+@instead of@|@namiesto@
+@insurance@|@poistenie@
+@insurance company@|@poisťovňa@
+@intact@|@nedotknutý@
+@intelligent@|@inteligentný@
+@intend@|@mať v úmysle, zamýšlať@
+@interceptor@|@stíhačka@
+@interest@|@záujem, zaujímať@
+@interesting@|@zaujímavý@
+@intermediary@|@sprostredkovateľ@
+@international@|@medzinárodný@
+@interview@|@interview, rozhovor, rozprava@
+@intimate@|@súkromný@
+@into oblivion@|@byť zabudnutý@
+@invaluable@|@neoceniteľný@
+@investigation@|@výskum@
+@invitation@|@pozvanie@
+@invite@|@pozvať@
+@invoice@|@faktúra@
+@iron@|@železo@
+@irony@|@irónia@
+@irresistible@|@neodolateľný@
+@island@|@ostrov@
+@it@|@to@
+@it has@|@ono má@
+@it is@|@ono je@
+@it pleases me (pleased to meet you)@|@teší ma@
+@italics@|@kurzíva@
+@Italy@|@Taliansko@
+@item@|@položka, prvok@
+@its@|@jeho@
+@it's necessary@|@treba@
+@jacket@|@kabát, sako@
+@jam@|@džem@
+@January@|@január@
+@Japan@|@Japonsko@
+@Japanese@|@japonec, japonka@
+@jaw@|@čeľusť, ďasno@
+@jealous@|@žiarlivý@
+@jealous (be j.)@|@žiarliť@
+@jealousy@|@žiarlivosť@
+@jeans@|@džíny@
+@jeopardy@|@nebezpečenstvo@
+@jest@|@vtip@
+@jet plane@|@tryskáč@
+@job@|@práca, zamestnanie@
+@John Doe@|@radový občan@
+@join@|@pripojiť, spojiť@
+@joint@|@výčap@
+@joke@|@vtip, žart, žartovať@
+@jotter@|@zápisník@
+@journal@|@vestník@
+@journalist@|@žurnalista@
+@journey@|@cesta@
+@joy@|@radosť@
+@joystick@|@pákový ovládač@
+@juice@|@džús, šťava@
+@juiced@|@opitý@
+@July@|@júl@
+@jump@|@skákať, skok@
+@June@|@jún@
+@just@|@práve, presne@
+@just enough@|@akurát, presne@
+@just now@|@práve teraz, pred chvíľou@
+@justification@|@ospravedlnenie@
+@keep smiling@|@vždy s úsmevom@
+@kerchief@|@šatka@
+@key@|@kľúč@
+@keyboard@|@klávesnica@
+@keypad@|@klávesnica@
+@kill@|@zabiť@
+@kilogram@|@kilo, kilogram@
+@kilometre@|@kilometer@
+@kind@|@láskavý, ohľaduplný@
+@kind of@|@druh@
+@kind-hearted@|@dobrácky@
+@kindness@|@dobrota@
+@kitchen@|@kuchyňa@
+@kite@|@drak@
+@knee@|@koleno@
+@knees@|@kolená@
+@knife@|@čepeľ, nôž@
+@knock@|@klopať@
+@know@|@vedieť@
+@laboratorium@|@laboratórium@
+@lack@|@nemať@
+@lackey@|@lokaj@
+@lad@|@chlapík@
+@lad!@|@chlapče !@
+@lady@|@dáma, žena@
+@lag@|@oneskoriť sa@
+@lament@|@bedákanie@
+@land@|@pristáť@
+@landscape@|@krajinka@
+@lang-syne@|@dávno@
+@language@|@jazyk@
+@laptop@|@zápisnikový počítač@
+@large@|@široký, veľký@
+@lark@|@vtip@
+@last@|@minulý, posledne, posledný, trvať@
+@last Sunday@|@minulú sobotu@
+@last week@|@minulý týždeň@
+@last year@|@minulý rok@
+@lastly@|@konečne@
+@late@|@neskoro, neskorý, opozdený@
+@later@|@neskôr@
+@later on@|@neskoršie@
+@Latin@|@latina@
+@laugh@|@smiať sa@
+@laugh at@|@smiať sa@
+@laughter@|@smiech@
+@launder@|@prať@
+@laundry@|@práčovňa@
+@lawyer@|@právnik@
+@lay@|@neodborný@
+@lay hands on@|@zmocniť sa@
+@layman@|@neodborník@
+@lay-off@|@vylúčenie z práce@
+@leader@|@vedúci@
+@learn@|@učiť sa@
+@learned@|@učený@
+@leather@|@koža, kožený@
+@leather jacket@|@kožené sako@
+@leave@|@odísť, opustiť, rozlúčenie@
+@lecture (n.)@|@prednáška@
+@left@|@ľavý@
+@left (to the l.)@|@doľava@
+@left-handed@|@ľavoruký@
+@legacy@|@dedičstvo@
+@legal@|@legálny@
+@legs@|@nohy@
+@lend@|@požičať, požičiavať@
+@length@|@dĺžka@
+@lesson@|@lekcia@
+@let@|@nechať@
+@let alone@|@nie to ešte@
+@letter@|@list, písmeno@
+@lettered@|@učený@
+@letters@|@písomníctvo@
+@liberty@|@sloboda@
+@librarian@|@knihovník@
+@licence@|@preukaz@
+@lie@|@ležať, ležať (v.)@
+@life@|@život@
+@lift@|@výťah (US elevator), zdvihnúť@
+@light@|@ľahký, rozsvietiť, svetlo, svetlý@
+@light blue@|@bledomodrý@
+@light yellow@|@svetložltý@
+@lighter@|@zapaľovač@
+@like@|@ľubiť, mať rád, želať si@
+@like that@|@takto@
+@likelihood@|@pravdepodobnosť@
+@likely@|@pravdepodobne, pravdepodobný, spôsobilý, vhodný@
+@limit@|@hranica, medza@
+@lip@|@pera@
+@lips@|@pery@
+@lip-stick@|@tyčinka na pery@
+@liquid@|@kvapalina@
+@list@|@zoznam@
+@literal@|@doslovný@
+@literature@|@písomníctvo@
+@litre@|@liter@
+@little@|@malý@
+@little later@|@trochu neskôr@
+@live@|@bývať, dočkať sa, žiť@
+@liver@|@pečeň@
+@living@|@súčasný, žijúci@
+@living room@|@obývačka@
+@load@|@bremeno, naklád, nálož@
+@loan@|@požičiavať, pôžička@
+@local@|@tunajší@
+@Local Area Network (LAN)@|@miestna počítačová s@
+@lock@|@stavidlo, zamknúť@
+@lodgings@|@byt v podnájme@
+@loft@|@podkrovie, povala@
+@log in@|@prihlásenie@
+@log off@|@odhlásenie (relácie)@
+@log on@|@prihlásenie@
+@log out@|@odhlásiť (sa)@
+@logistics@|@tylové zaistenie@
+@loneliness@|@osamelosť@
+@lonely@|@opustený@
+@long@|@dlho, dlhý@
+@long ago@|@dávno@
+@long before@|@dávno predtým@
+@long for@|@túžiť po (v.)@
+@long time@|@dlho@
+@longer@|@dlhšie@
+@longing@|@silne túžiaci, túha, túžba (n.)@
+@long-term@|@dlhodobý@
+@long-term loan@|@dlhodobý úver@
+@look@|@hľa, pohľad, výraz, vzhľad@
+@look at@|@pozrite si@
+@look for@|@hľadať@
+@look forward to@|@tešiť sa na@
+@look!@|@pozrite!@
+@loose@|@nepresný, voľný@
+@lose@|@stratiť@
+@lot@|@veľa@
+@love@|@láska, ľubiť@
+@love (my l.)@|@miláčik@
+@love (v.)@|@milovať@
+@love-child@|@dieťa lásky@
+@lovely@|@pôvabná@
+@lover@|@milenka@
+@love-token@|@prejav lásky@
+@low@|@nízky@
+@lowest@|@najnižší@
+@luck@|@osud, štastie@
+@luggage@|@batožina@
+@lull@|@ticho@
+@lunacy@|@pochabosť@
+@lunatic@|@blázon@
+@lunch@|@obed@
+@lure@|@lákať, pokúšať, pokušenie@
+@lurid@|@chmúrny@
+@lying@|@klamný, lživý@
+@machine@|@stroj, zariadenie@
+@machinist@|@výrobca@
+@madman@|@blázon@
+@madness@|@pochabosť@
+@magnifier@|@zosilňovač@
+@magpie@|@straka@
+@maiden name@|@dievčenské meno@
+@mailgnant@|@zlostný@
+@main@|@hlavný@
+@main road@|@hlavná cesta@
+@maintenance@|@údržba@
+@make@|@robiť@
+@maker@|@výrobca@
+@malignant@|@nenávistný@
+@man@|@človek, muž@
+@man of letters@|@vzeldanec@
+@man of property@|@boháč@
+@manage@|@dokázať, kontrolovať, ovládať, vedieť@
+@manipulate@|@falšovať@
+@mankind@|@ľudstvo@
+@manufacturer@|@výrobca@
+@many@|@mnohí, mnoho, veľa@
+@many a@|@nejeden@
+@map@|@mapa@
+@maple@|@javor@
+@margarine@|@umelý tuk@
+@marine@|@lodná, morská@
+@mark@|@krížik, označiť@
+@market@|@jarmočný, jarmok, obchod, trh@
+@market economy@|@tržné hospodárstvo@
+@market place@|@trhovisko@
+@marriage@|@manželstvo, svadba@
+@marry@|@ženiť (sa)@
+@martial@|@bojový@
+@marvel@|@div, zázrak@
+@masculine@|@mužský@
+@masculine (gram.)@|@mužského rodu@
+@masseur@|@masér@
+@mast@|@stožiar@
+@Master of Arts@|@majster slobodných um@
+@match@|@zápalka@
+@matches@|@zápalky, zhodovanie@
+@matchstick@|@drievko zápalky@
+@mate@|@chlap@
+@material@|@materiál@
+@matrimony@|@manželstvo@
+@matter@|@veci@
+@mattress@|@matrac@
+@maybe@|@azda, možno, vari@
+@may-fly@|@vážka@
+@mayonnaise@|@majonéza@
+@me@|@mňa, mne@
+@mean@|@znamenať@
+@meanness@|@lakomosť@
+@meanwhile@|@medzitým, zatiaľ@
+@measure@|@merať@
+@measurement@|@meranie@
+@meat@|@mäso@
+@meat and potatoes@|@mäso so zemiakmi@
+@medicinal herbs@|@liečivé bylinky@
+@meet@|@stretnúť@
+@meeting@|@schôdza@
+@melon@|@melón@
+@member@|@člen@
+@memory@|@pamäť, pamiatka, spomienka@
+@menace@|@hrozba@
+@mendacious@|@lživý@
+@mention@|@zmieniť sa@
+@merit@|@zaslúžiť (si)@
+@mesh@|@oko, slučka@
+@mess@|@kantína, neporiadok, zmätok@
+@message@|@hlásenie@
+@message (to give a m.)@|@odkázať@
+@metal@|@kov@
+@mettle@|@trvanlivosť@
+@mewl@|@fňukať@
+@microwave oven@|@mikrovlnná rúra@
+@midday@|@poludnie@
+@midnight@|@polnoc@
+@mild@|@jemný, lahodný, mierny@
+@military@|@bojový, vojenský@
+@milk@|@mlieko@
+@milk-tooth@|@mliečny zub@
+@mill@|@mlyn, továreň@
+@million@|@milión@
+@milt@|@mlieč@
+@mindful@|@dbajúci, pamätlivý@
+@mindless@|@nedbajúci@
+@mineral water@|@minerálka@
+@minimally@|@minimálne@
+@minister@|@kňaz, minister@
+@ministry@|@ministerstvo@
+@minority@|@menšina@
+@minute@|@minúta@
+@miracle@|@div, zázrak@
+@mirth@|@smiech@
+@miscalculation@|@nesprávny odhad@
+@miscarriage@|@nezdar@
+@miscellanous@|@rôzne@
+@mishap@|@nehoda, nešťastie@
+@misleading@|@klamný@
+@miss@|@nemať, postrádať@
+@Miss@|@slečna@
+@miss the bus@|@prísť s krížikom po@
+@mission@|@poslanie@
+@mistake@|@chyba, omyl@
+@mistake (make a m.)@|@chybiť, pomýliť sa@
+@mistletoe@|@imelo@
+@mistranslation@|@nesprávny preklad@
+@mistrust@|@nedôvera, nedôverovať@
+@misunderstanding@|@nedorozumenie@
+@mix@|@miešať@
+@mixed feelings@|@miešané pocity@
+@mixture@|@zmes@
+@moan@|@stenať, ston@
+@mobile phone@|@mobilný telefón@
+@model@|@model@
+@moderator@|@sprostredkovateľ@
+@moment@|@chvíľa, okamih@
+@Monday@|@pondelok@
+@money@|@peniaze@
+@monstrous@|@príšerný@
+@month@|@mesiac@
+@monthly@|@mesačne, mesačný@
+@montly balance@|@mesačná súvaha@
+@mood@|@nálada@
+@more@|@viacej@
+@more (like)@|@skôr@
+@more than@|@vyše@
+@moreover@|@ďalej@
+@morning@|@ráno@
+@most likely@|@najskôr@
+@mother@|@matka@
+@mother-fucker@|@naničhodník@
+@mother-fucker villain wretch@|@naničhodník@
+@mother-in-law@|@svokra@
+@motley@|@strakatý@
+@motorcycle@|@motocykel@
+@mountain@|@hora@
+@moustache@|@fúzy@
+@mouth@|@ústa@
+@move@|@pohnúť (sa), pohyb, presťahovať (sa)@
+@movement@|@pohyb@
+@moving@|@vzrušujúci@
+@Ms.@|@slečna@
+@much@|@veľa, veľmi@
+@mud@|@bahno@
+@mug@|@hrnček@
+@multitasking@|@viacúlohový@
+@multitude@|@množstvo@
+@murder@|@vražda@
+@music@|@hudba@
+@must@|@musieť@
+@must not@|@nesmieť@
+@mustard@|@horčica@
+@my@|@môj@
+@mysterious@|@tajomný, záhadný@
+@mystery@|@zázrak@
+@nail@|@nech@
+@naive@|@naivný@
+@name@|@meno@
+@name-day@|@meniny@
+@narrow@|@uzký@
+@national@|@občan@
+@naturally@|@pochopiteľne@
+@nature@|@príroda@
+@nausea@|@morská nemoc@
+@near@|@blízko@
+@nearest@|@najbližší@
+@near-sighted@|@krátkozraký@
+@neat@|@vkusný@
+@necessary@|@nevyhnutný@
+@neck@|@krk, šija@
+@necktie@|@kravata@
+@need@|@potrebovať@
+@needle@|@ihla@
+@neglect@|@zanedbať@
+@neglectful@|@nedbajúci@
+@negotiation@|@jednanie, rokovanie, vyjednávanie, zdolávanie@
+@negotiator@|@sprostredkovateľ@
+@neighbour@|@sused@
+@neighbourhood@|@susedstvo@
+@neither@|@vôbec@
+@neither ... nor@|@ani ... ani@
+@net@|@zarábať@
+@Netherlands@|@Holandsko@
+@never@|@nikdy@
+@never before@|@ešte nikdy@
+@new@|@nový@
+@New Year's Eve@|@Silvester@
+@newly@|@opäť@
+@newspaper@|@noviny@
+@next@|@ďalej, ďalší, ešte, nasledujúci@
+@next Thursday@|@budúci štvrtok@
+@next week@|@budúci týždeň@
+@nice@|@milý, ohľaduplný, pozorný, príjemný@
+@nickname@|@prezývka@
+@niece@|@neter@
+@night@|@noc@
+@nightmare@|@hrôza, príšera, strašný sen@
+@nine@|@deväť@
+@nineteen@|@devätnásť@
+@nineteenth@|@devätnásty@
+@ninetieth@|@deväťdesiaty@
+@ninety@|@deväťdesiat@
+@ninth@|@deviaty@
+@no more@|@nie viac@
+@no one@|@nikto@
+@no wonder@|@nečudo@
+@nobody@|@nikoho, nikto@
+@noiseless@|@nehlučný@
+@none the less@|@predsa však@
+@non-expert@|@neodborník@
+@non-performance@|@nevykonanie@
+@nonsense@|@hlúposť, nezmysel@
+@noon@|@poludnie@
+@normal@|@normálny@
+@northern@|@severný@
+@Norway@|@Nórsko@
+@Norwegian@|@Nór, nórsky@
+@nose@|@nos@
+@not@|@nie@
+@not at all@|@nijako, vôbec nie@
+@not just yet@|@zatiaľ ešte nie@
+@not long@|@nedlho@
+@not only@|@nielen@
+@notebook@|@zápisník@
+@notebook computer@|@vreckový počítač, zápisnikový počítač@
+@notepad@|@zápisník@
+@nothing@|@nič@
+@nothingness@|@ničotnosť@
+@notice@|@hlásenie, oznam, poznámka, všimnúť si@
+@notion@|@pojem@
+@noun@|@substantívum@
+@novel@|@neobvyklý@
+@now@|@teraz@
+@nowadays@|@v dnešnej dobe@
+@nudný@|@boring@
+@number@|@číslo@
+@nurse@|@ošetrovateľka@
+@nutt@|@orech@
+@oak@|@dub@
+@oats@|@ovos@
+@object@|@predmet@
+@oblivious@|@nedbajúci@
+@observance@|@konanie@
+@obstinate@|@tvrdohlavý@
+@occupation@|@povolanie@
+@occupied@|@obsadený@
+@occur@|@udiaťsa, vyskytovať sa@
+@ocean@|@oceán@
+@October@|@október@
+@odd@|@čudný@
+@of@|@o, od, z@
+@of course@|@pochopiteľne, samozrejme, zaiste@
+@of this place@|@tunajší@
+@offer@|@ponuka, ponúknuť, poskytovať@
+@office@|@ministerstvo, úrad@
+@often@|@často@
+@old@|@starý@
+@older@|@starší@
+@oldest@|@najstarší@
+@olive-oil@|@olivový olej@
+@omission@|@nevykonanie@
+@on@|@ďalej, na, pri, v@
+@on a par@|@naroveň@
+@on an equal footing with@|@naroveň@
+@on credit@|@na dlh@
+@on foot@|@peši, pešo@
+@on the contrary@|@naopak@
+@on the other hand@|@na druhej strane, naproti tomu@
+@on the surface@|@navonok@
+@once@|@raz@
+@once again@|@opäť@
+@once for all@|@raz navždy@
+@once more@|@ešte raz@
+@once upon a time@|@kedysi raz@
+@one@|@jeden, niekto@
+@one billion@|@miliarda@
+@one hundred@|@sto@
+@one hundred and one@|@sto jeden@
+@one million@|@milón@
+@one thousand@|@tisíc@
+@one's own@|@svoj@
+@onion@|@cibuľa@
+@only@|@iba, jediný@
+@open@|@otvoriť@
+@open sandwich@|@chlieb s maslom@
+@opening@|@otvorenie@
+@operate@|@fungovať, operovať, operovať@
+@operating system@|@systém obsluhy počítača@
+@operation@|@transakcia@
+@opinion@|@názor@
+@opportunity@|@príležitosť@
+@opposite@|@opačný@
+@or@|@alebo@
+@orange@|@pomaranč@
+@orchestra@|@orchester@
+@order@|@objednať, poriadok, povel@
+@ordinary@|@zvyčajný@
+@organization@|@organizácia@
+@origin@|@počiatok@
+@originally@|@pôvodne@
+@OS@|@systém obsluhy počítača@
+@other@|@iný@
+@other way around@|@naopak@
+@otherwise@|@ináč, inak@
+@ought@|@mať povinnosť@
+@ought to@|@mali@
+@our@|@náš@
+@out@|@von, vonku, výstup@
+@out of sight@|@zíde z očí@
+@out of work@|@nečinný, nezamestnaný@
+@outcry@|@výkrik@
+@outer wear@|@zvrchník@
+@outside@|@mimo@
+@outward@|@vonkajší@
+@over@|@ponad@
+@oversight@|@omyl@
+@owe@|@byť dlžný@
+@owl@|@sova@
+@own@|@vlastniť, vlastný@
+@pack@|@skladať, zbaliť@
+@paid@|@platil@
+@pain@|@bolesť@
+@painful@|@bolestivý, nepríjemný@
+@paint@|@maľovať@
+@paint-brush@|@štetec@
+@painting@|@maľba, pl. maľby@
+@pamper@|@hýčkať, príliš hovieť, rozmaznávať@
+@pan (frying-pan)@|@panvica, pekáč@
+@pancake@|@palacinka@
+@pander@|@hovieť@
+@panic@|@panika@
+@paper@|@papier, referát@
+@papers@|@preukaz@
+@paprika@|@paprika@
+@parable@|@podobenstvo@
+@paradise@|@raj@
+@parcel@|@balík@
+@parents@|@rodičia@
+@parliament@|@parlament@
+@parsley@|@petržlen@
+@part@|@čast@
+@party@|@oslava@
+@passenger@|@cestujúci@
+@passion@|@pašije, vášeň@
+@passive@|@trpný@
+@passport@|@pas@
+@password@|@heslo@
+@password protection@|@ochrana heslom@
+@paste@|@zalepiť@
+@pastor@|@pastier@
+@pasty@|@piroh@
+@path@|@chodníček@
+@patience@|@trpezlivosť@
+@patient@|@pacient@
+@patrolman@|@strážnik@
+@pattern@|@vzorka@
+@pavement@|@chodník@
+@pawn shop@|@záložňa, zastaváreň@
+@pawnbroker@|@záložňa, zastaváreň@
+@pay@|@dôchodok, plat, platiť@
+@payment@|@platba@
+@peach@|@broskyňa@
+@pear@|@hruška@
+@peas@|@hrach, krášok@
+@peck@|@ďobať@
+@pedagogy@|@pedagogika@
+@pellet@|@brok, gulička, tabletka@
+@pencil@|@ceruzka, tužka@
+@penguin@|@tučniak@
+@pension@|@dôchodok@
+@pensive@|@zádumčivý@
+@people@|@ľudia@
+@perfect@|@dokonalý@
+@perform@|@previesť, splniť@
+@performance@|@vykonanie@
+@perhaps@|@prípadne, vari@
+@periodical@|@časopis@
+@permanent@|@stály, trvalý@
+@permanent address@|@bydlisko@
+@permanently@|@neustále@
+@person@|@osoba@
+@personally@|@osobne@
+@personnel manager@|@personálny riaditeľ@
+@pet@|@domáce zviera@
+@petrol@|@benzín@
+@petulant@|@nedotklivý@
+@Ph.D.@|@doktor filozófie@
+@phone box@|@telefónna búdka@
+@photographer@|@fotograf@
+@picture@|@obraz@
+@pictures@|@obrázky@
+@pie@|@piroh@
+@piece@|@kus@
+@pig@|@prasa@
+@pig-headed@|@tvrdohlavý@
+@pije@|@he drinks, she drinks@
+@pijeme@|@we drink@
+@pijete@|@You drink@
+@pijú@|@they drink@
+@pile@|@hromada, kopa@
+@pillar@|@rukoväť@
+@pillow@|@vankúš@
+@PIN (personal identity number)@|@osobné identifikačné číslo@
+@pine@|@sosna@
+@pipe@|@fajka, rúra@
+@pirogue@|@piroh@
+@pistol@|@pištol@
+@pity@|@vina@
+@pixel@|@prvok na tv obraze@
+@place@|@miesto, umiestniť@
+@plant@|@podnik@
+@plastic@|@tvárny@
+@play@|@hrať (sa)@
+@player@|@hráč@
+@please@|@páčiť sa (páči sa mi), prosím@
+@pleased@|@potešený@
+@pleasure@|@radosť, rozkoš@
+@pledge@|@záväzok@
+@plot@|@sprisahanie@
+@plum brandy@|@slivovica@
+@plumb@|@olovnica@
+@pocket@|@vrecko@
+@pocket computer@|@vreckový počítač@
+@poem@|@báseň@
+@point@|@bod, ukázať@
+@point of view@|@stanovisko@
+@poison@|@jed@
+@polar bear@|@polárny medveď@
+@police@|@polícia@
+@policeman@|@policajt@
+@policy@|@konanie@
+@poor@|@chudobný, úbohý@
+@poor person@|@chudák@
+@poorly (be p.)@|@chatrný@
+@pork schnitzel@|@bravčový rezeň@
+@porter@|@vrátnik@
+@position@|@postavenie@
+@post@|@pošta@
+@post (v.)@|@aktualizovať@
+@post office@|@poštový úrad@
+@postbox@|@poštová schránka@
+@post-card@|@pohľadnica@
+@poster@|@plagát@
+@post-office@|@pošta@
+@potatoes@|@zemiaky@
+@powerless@|@bezmocný@
+@pray@|@modliť sa, prosiť@
+@preamble@|@predhovor@
+@precise@|@presný@
+@precisely!@|@práve!@
+@precursor@|@podkmit, predchodca@
+@preface@|@predhovor@
+@preferably@|@najradšej, pokiaľ možno@
+@prejudice@|@predsudok, zaujatosť@
+@premise@|@predpoklad@
+@prepare@|@pripraviť@
+@present@|@poskytovať@
+@present (n.)@|@dar, darček@
+@press@|@naliehať, stlačiť, tlač@
+@pressure@|@tlak@
+@prestige@|@prestíž@
+@presumptuous@|@drzý, trúfanlivý@
+@pretty@|@pekný@
+@price@|@cena@
+@priceless@|@neoceniteľný@
+@prickle@|@tŕň@
+@pride@|@pýcha@
+@priest@|@kňaz@
+@print@|@písanie, tlač@
+@prior to@|@pred@
+@privacy@|@súkromný@
+@private@|@súkromný@
+@probability@|@pravdepodobnosť@
+@probable@|@pravdepodobný@
+@probably@|@hádam, pravdepodobne, prevdepodobne@
+@problem@|@problém@
+@procedure@|@konanie@
+@proceeding@|@predošlý@
+@producer@|@výrobca@
+@product@|@súčin, tovar, výrobok@
+@production@|@výroba@
+@profit@|@úžitok, zisk@
+@profound@|@hlboký@
+@progenitor@|@predchodca@
+@program@|@program@
+@programme@|@program@
+@prolong@|@predĺžiť@
+@promise@|@sľúbiť@
+@promise (n.)@|@sľub@
+@promise (v.)@|@sľubiť@
+@pronounce@|@vyslovovať@
+@pronounciation@|@výslovnosť@
+@proper@|@náležitý@
+@proposal@|@návrh@
+@protect@|@chrániť@
+@protection@|@ochrana@
+@proud@|@hrdý@
+@psychology@|@psychológia@
+@public@|@verejný@
+@pull@|@ťahať@
+@pupil@|@školák, žiak@
+@pure@|@čistý@
+@purse@|@peňaženka@
+@push@|@odstrčiť, tlačiť@
+@put@|@položiť@
+@put in@|@vložiť dnu@
+@put out@|@vyložiť von@
+@pyjamas@|@pyžama@
+@pyramid@|@ihlan@
+@quadrangle@|@štvoruholník@
+@quantity@|@množstvo@
+@quarantine@|@karanténa@
+@quarrel@|@hádať sa, hádka@
+@quarter of hour@|@štvrť hodiny@
+@question@|@otázka@
+@questionnaire@|@dotazník@
+@quick@|@rýchly@
+@quickly@|@chytro, rýchlo@
+@quiet@|@kľudný, pokojný, ticho@
+@quiet!@|@čuš !@
+@quilt@|@perina@
+@quit@|@opustiť@
+@quite@|@načisto, úplne@
+@quite a lot@|@dosť veľa@
+@quite such@|@až takú@
+@radio@|@rádio@
+@railway station@|@železničná stanica@
+@rain@|@dážď, pršať@
+@rainfall@|@lejak@
+@rapacious@|@pažravý@
+@rapid@|@bystrý, prudký, rýchly@
+@rare@|@vzácny, zriedkavý, zvláštny@
+@rash fellow@|@jašo@
+@raspberry@|@malina@
+@rather@|@radšej, skôr@
+@raven@|@havran@
+@ravenous@|@pažravý@
+@ray@|@lúč, záblesk@
+@razor@|@britva, holiaci strojček, žiletka@
+@razor-blade@|@čepeľka, žiletka@
+@reach@|@dosiahnuť@
+@read@|@čítať@
+@readiness@|@pohotovosť@
+@really@|@naozaj, Skutočne, skutočnosti (v sk.), v skutočnosti@
+@reason@|@dôvod, príčina@
+@rebellion@|@vzbura@
+@receive@|@dostať, obdržať, prijať@
+@recently@|@nedávno@
+@recipe@|@recept@
+@red@|@červený@
+@refrigerator@|@chladnička, ladnička@
+@refuse@|@odmietnuť@
+@regain@|@opäť dosiahnuť@
+@regardful@|@pozorný@
+@register@|@zoznam@
+@registration@|@prihlásenie@
+@regret@|@ľutovať@
+@reindeer@|@sob@
+@relationship@|@vzťah@
+@relax@|@oddýchnuť si, uvoľniť (sa)@
+@reliability@|@spoľahlivosť@
+@reliable@|@dôveryhodný@
+@reluctance@|@nechuť, neochota@
+@reluctant@|@neochotný@
+@remain@|@zostať, zvýšiť@
+@remedy@|@tolerancia@
+@remember@|@pamätať (si)@
+@remote@|@odľahlý, vzdialený@
+@removal@|@odstránenie, sťahovanie@
+@rent@|@najať@
+@report@|@hlásenie, referát, reportáž@
+@request@|@prosba@
+@research@|@výskum@
+@resemble@|@podobať sa@
+@reservation@|@zaistenie@
+@resigned@|@rezignovaný@
+@resistance@|@odolnosť, odpor@
+@resolve@|@rozlúštiť@
+@resource@|@zaistenie@
+@rest@|@oddych, odpočívať, spať@
+@retrieval@|@hľadanie@
+@retry@|@zopakovať@
+@return@|@navrát@
+@revenge@|@pomsta@
+@revenue@|@dôchodok@
+@reversal@|@naopak@
+@review@|@referát@
+@rice@|@ryža@
+@rich@|@bohatý@
+@rich man@|@boháč@
+@riddle@|@hádanka, šaráda@
+@ride@|@riadiť@
+@ridicule@|@smiať sa@
+@rifle@|@puška@
+@right@|@náležitý, pravý, správny@
+@right (as in "ano hej" "aha right")@|@hej@
+@right (to the r.)@|@doprava@
+@ring@|@zvoniť@
+@risk@|@nebezpečenstvo@
+@rival@|@sok@
+@river@|@rieka@
+@road@|@cesta@
+@roaster@|@ražeň@
+@robustness@|@odolnosť@
+@roe@|@srna@
+@role@|@úloha@
+@roll@|@kotúľať sa, valiť sa@
+@Roman@|@rímsky@
+@roof@|@strecha@
+@room@|@izba, miestnosť@
+@round@|@okolo@
+@rude@|@hrubý@
+@ruin@|@zbúrať, zničiť@
+@ruler@|@pravítko@
+@run@|@utekať@
+@running expenses@|@bežné výdavky@
+@Russian@|@Rus, rusky@
+@rustle@|@šelest@
+@rye@|@raž, žito@
+@sabre@|@šabľa@
+@sack@|@mech@
+@sad@|@smutný@
+@safe@|@bezpečný@
+@safety@|@bezpečnosť@
+@safety-pin@|@zatvárací špendlík@
+@sage@|@mudrc@
+@sail@|@plachta@
+@salad@|@šalát@
+@salary@|@plat@
+@sale@|@predaj@
+@saliva@|@slina@
+@salmon@|@losos@
+@saloon@|@herňa, výčap@
+@salt@|@soľ, soliť@
+@salt water@|@morská voda@
+@same@|@rovnaký@
+@sample@|@vzorka@
+@sanity@|@duševné zdravie, zdravý rozum@
+@satchel@|@taška@
+@sateless@|@nenásytný@
+@Saturday@|@sobota@
+@sauce@|@omáčka@
+@sauerkraut@|@kyslá kapusta@
+@sausage@|@klobása, párok@
+@savage@|@divoch@
+@say@|@povedať@
+@scabies@|@svrab@
+@scald@|@opariť@
+@scape-goat@|@obetný baránok@
+@scar@|@jazva@
+@scare@|@strach@
+@scarecrow@|@strašiak, strašidlo@
+@scared@|@vyľakaný@
+@scarf@|@šál, šatka@
+@schedule@|@program, schéma, súpis@
+@scholar@|@vzeldanec@
+@scholarly@|@učený@
+@school@|@škola@
+@school year@|@školský rok@
+@scimitar@|@šabľa, zakrivená šabľa@
+@scone@|@čajový koláčik@
+@scrapbook@|@zápisník@
+@scream@|@kričať@
+@screw@|@skrutka@
+@script@|@písmo@
+@scuttle@|@uhliak@
+@sea@|@jazero, more@
+@Sea@|@morská@
+@seafood@|@morské ryby@
+@seal@|@pečať, tuleň@
+@seal up@|@zalepiť@
+@search@|@hľadanie@
+@second@|@druhý, sekunda@
+@secret@|@tajný, tajomstvo@
+@secretary@|@minister@
+@see@|@chápať, vidieť@
+@See you on Monday@|@dovidenia v pondelok@
+@see you tomorrow@|@dovidenia zajtra@
+@see you tonight@|@dovidenia dnes večer@
+@seed@|@počiatok@
+@seed-cake@|@koláč@
+@seek@|@hľadať, pokúšať sa@
+@seem@|@pôsobiť, zdať sa@
+@seeress@|@veštkyňa@
+@segregation@|@vylúčenie@
+@seize@|@uchopiť, zabaviť, zmocniť sa@
+@self@|@sám, seba, sebe@
+@self confidence@|@sebadôvera@
+@self-confident@|@sebavedomý@
+@self-improvement@|@zlepšenie sám seba@
+@self-preservation@|@sebazáchova@
+@sell@|@predať@
+@seminar@|@porada@
+@send@|@poslať@
+@sensational@|@vzrušujúci@
+@sense@|@zmysel@
+@sensitive@|@citový, háklivý, jemný@
+@sentence@|@veta@
+@sentimental@|@citový@
+@separation@|@rozlúčenie, vylúčenie@
+@serial@|@sériový@
+@serious@|@seriózny, vážny@
+@seriously@|@vážne@
+@set@|@dať, nastaviť, položiť@
+@setback@|@nezdar@
+@settle@|@dohodnúť sa@
+@settler@|@farmár@
+@seven@|@sedem@
+@seventeen@|@sedemnásť@
+@seventeenth@|@sedemásty@
+@seventh@|@siedmy@
+@seventy@|@sedemdesiat@
+@seventyth@|@sedemdesiaty@
+@sever@|@oddeliť, prerušiť@
+@several@|@niekoľko@
+@several times@|@niekoľko ráz, niekoľkokrát, viackrát@
+@shabby@|@chatrný@
+@shade@|@tieň@
+@shadow@|@tieň, tieniť@
+@shaft@|@drievko@
+@shake@|@triasť@
+@shape@|@tvar@
+@share (to)@|@podielať sa (na)@
+@sharp@|@krížik, ostražitý@
+@shave@|@oholiť sa@
+@shaver@|@holiaci strojček@
+@she@|@ona@
+@she can@|@môže@
+@she does@|@robí@
+@she forgets@|@zabudne@
+@she goes@|@ide, ona ide@
+@she has@|@ona má@
+@she is@|@ona je@
+@she knows@|@ona vie@
+@she lives@|@býva@
+@she makes@|@robí@
+@she must@|@musí@
+@she sees@|@vidí@
+@she wants@|@chce@
+@she works@|@pracuje@
+@sheep@|@ovca@
+@shelf@|@polica@
+@shell@|@mušľa@
+@shepherd@|@pastier@
+@shine@|@jas, svietiť, žiariť@
+@shiny@|@jasný, lesklý@
+@ship@|@loď@
+@shirt@|@košeľa@
+@shit@|@hovno@
+@shithead@|@feťák@
+@shock@|@náraz@
+@shoe@|@topánka@
+@shoes@|@obuv, topánky@
+@shoot@|@strieľať@
+@shop@|@obchod@
+@shopping@|@nákup@
+@short@|@krátky@
+@short story@|@novela@
+@shortly@|@čoskoro@
+@short-sighted@|@krátkozraký@
+@should@|@mali@
+@shoulder@|@rameno@
+@shoulders@|@plecia@
+@shout@|@kričať@
+@show@|@ukázať@
+@shower@|@sprcha@
+@shrew@|@potvora@
+@shrewd@|@obozretný@
+@shriek@|@výkrik@
+@shrimp@|@kreveta, morský rak@
+@shut up!@|@čuš !, čuš!@
+@shy@|@nesmelý@
+@side@|@strana@
+@sigh@|@vzdych, vzdychať, zatúžiť (v.)@
+@sign@|@div, podpísať, zázrak@
+@silence@|@mlčanie, ticho, umlčať@
+@silly@|@pochabý@
+@silver@|@striebro@
+@similar@|@podobný@
+@simile@|@podobenstvo, prirovnanie@
+@simple@|@jednoducho, jednoduchý@
+@simply@|@proste@
+@sin@|@hriech@
+@since@|@od, odvtedy, pretože@
+@single@|@slobodný@
+@sink@|@umývadlo@
+@sinner@|@hriešnik@
+@sister@|@sestra@
+@sister-in-law@|@švagriná@
+@situation@|@situácia, zamestnanie@
+@six@|@šesť@
+@sixteen@|@šestnásť@
+@sixteenth@|@šestnásty@
+@sixth@|@šiesty@
+@sixty@|@šesťdesiat@
+@sixtyth@|@šesťdesiaty@
+@size@|@veľkosť@
+@skating@|@korčuľovanie@
+@sketch@|@skeč, výkres@
+@sketch-book@|@náčrtník@
+@skewer@|@bodec@
+@skiing@|@lyžovanie@
+@skimpiness@|@lakomosť@
+@skirt@|@sukňa@
+@skittish@|@rozmarný@
+@sky@|@nebo@
+@slap@|@facka@
+@slasher@|@britva, meč@
+@sleazy@|@lacný@
+@sleep@|@spánok, spať, vyspať sa@
+@sleeping room@|@spálňa@
+@sleeplessness@|@nespavosť@
+@sleeve@|@obal, púzdro, rukáv@
+@slide-rule@|@pravítko@
+@slight@|@neúcta@
+@slim@|@štíhly@
+@slipper@|@papuča@
+@slippery@|@háklivý@
+@Slovak (adj.)@|@slovenský@
+@Slovak (female person)@|@Slovenka@
+@Slovak (male person)@|@Slovák@
+@Slovak language@|@slovenčina@
+@Slovakia@|@Slovensko@
+@Slovakia (in S.)@|@Slovensku (na S.)@
+@slow@|@pomalý@
+@small@|@malý, ticho@
+@small lake@|@jazierko@
+@smaller@|@menší@
+@smart@|@chytrácky@
+@smile@|@usmiať sa, usmievať sa@
+@smile (n.)@|@úsmev@
+@smirk@|@usmievať sa@
+@smoke@|@fajčiť@
+@smoker@|@fajčiar@
+@smuggle@|@pašovať@
+@smuggling@|@pašovanie@
+@snatch@|@chmatnúť@
+@sneer@|@usmievať sa@
+@snivel@|@fňukanie, fňukať@
+@snob@|@domýšľavec, snob@
+@snow@|@sneh@
+@so@|@potom, tak, teda@
+@so far@|@zatiaľ@
+@so many@|@tak veľa@
+@soap@|@mydlo@
+@sober@|@triezvy@
+@society@|@spoločnosť@
+@sock@|@ponožka@
+@socks@|@ponožky@
+@sofa@|@pohovka@
+@soft@|@jemný@
+@software@|@program@
+@soldier@|@vojak@
+@solicitor@|@právnik@
+@solid@|@masívny, pevný@
+@solitary@|@opustený@
+@solution@|@riešenie@
+@solve@|@riešiť@
+@some@|@nejaký@
+@somehow@|@nejako@
+@someone@|@niekto@
+@something@|@niečo@
+@sometimes@|@niekedy, občas@
+@somewhere@|@niekde@
+@somewhere else@|@inam@
+@son@|@syn@
+@song@|@pieseň@
+@son-in-law@|@zať@
+@sonny@|@synáčik@
+@soon@|@čoskoro@
+@sooner@|@skôr@
+@sorcerer@|@čarodejnik, strigôň@
+@sorrow@|@strasť@
+@sorry@|@ľutovať@
+@soul@|@duša@
+@soulful@|@citový@
+@sound@|@náležitý, zvuk@
+@soup@|@polievka@
+@soup-plate@|@hloboký tanier@
+@sour@|@kyslý, trpký@
+@sour cream@|@smotana@
+@source@|@prameň@
+@southern@|@južný@
+@soy@|@sójová omáčka@
+@spacious@|@priestorný@
+@Spanish@|@španielsky@
+@sparkover@|@prieraz@
+@speak@|@hovoriť, vyslovovať@
+@special@|@špeciálny, zvláštny@
+@specialist@|@odborník, špecialista@
+@specify@|@určiť@
+@speck@|@smietka@
+@spectre@|@strašidlo, zjavenie@
+@speed@|@rýchlosť@
+@spelling@|@písanie, pravopis@
+@spend the night@|@prenocovať@
+@spending@|@výdavky@
+@spider@|@pavúk@
+@spike@|@bodec@
+@spirit@|@duša@
+@spirited@|@duchaplný@
+@spit@|@ražeň@
+@splash@|@nastriekať, ostriekať@
+@splendid@|@výborne@
+@splinter@|@trieska@
+@spoil@|@hýčkať@
+@spook@|@strašidlo@
+@spoon@|@lyžica@
+@spread@|@rozširovať, rozťahovať@
+@spreadsheet@|@pracovný hárok@
+@spring@|@jar, prameň@
+@spring-time@|@jarné obdobie@
+@sprocket@|@zub kolesa@
+@spur@|@bodec, osteň@
+@sq. (square)@|@nám.@
+@square@|@námestie@
+@squeeze@|@stisk, stisnúť, zovrieť@
+@squelch@|@umlčať@
+@squirrel@|@veverica, veverička@
+@stability@|@stálosť@
+@staff@|@palica@
+@stagger@|@omráčiť@
+@staircase@|@schodisko@
+@stalk@|@stonka@
+@stamp@|@poštová známka@
+@stand@|@požičiavať, stáť@
+@standby@|@pohotovosť@
+@standpoint@|@stanovisko@
+@stand-up@|@trvanlivosť@
+@star@|@hviezda@
+@stare@|@zízať@
+@start@|@počiatok@
+@starter (food)@|@predjedlo@
+@starvation@|@hladovanie, smrť hladom@
+@starve@|@hladovať, umierať hladom@
+@statement@|@povel@
+@statue@|@socha@
+@stave off@|@zmariť@
+@stay@|@pobyt@
+@steadiness@|@spoľahlivosť@
+@steady@|@stabilný, stály@
+@steal@|@kradnúť@
+@steel@|@meč, oceľ@
+@steep@|@strmý@
+@stem@|@stonka@
+@step@|@krok@
+@step by step@|@krok za krokom@
+@sterile@|@sterilný@
+@stewardess@|@letuška@
+@stick over@|@zalepiť@
+@sticker@|@lepidlo, osteň@
+@sticky@|@mazľavý@
+@stiff@|@meravý, tuhý@
+@stiletto@|@bodec, malá dýka@
+@stiletto heel@|@ihlovitý podpätok@
+@still@|@avšak, ešte, ešte stále, kľudný, pokojný, stále, ticho, tichý@
+@sting@|@bodec@
+@stitch@|@steh@
+@stomach@|@brucho, žalúdok@
+@stone@|@kameň@
+@stop@|@zastaviť@
+@storage facilities@|@skladové hospodárstvo, sklady@
+@storm@|@lejak@
+@story@|@príbeh@
+@story plot@|@dej@
+@stove@|@kachle@
+@str. (street)@|@ul.@
+@straight@|@počestný, priamo, priamy, rovný@
+@straight on@|@rovno ďalej@
+@strange@|@cudzí, čudný@
+@strawberry@|@jahoda@
+@stray@|@zabudnutý@
+@stream@|@prúd@
+@street@|@ulica, ulička@
+@street vendor@|@pouličný predavač@
+@strength@|@sila@
+@stretch@|@napnúť@
+@strict@|@presný, prísny@
+@strike@|@radiť@
+@strong@|@silný@
+@struggle@|@boj, bojovať@
+@student@|@študent@
+@studied@|@učený@
+@study@|@študovať, výskum@
+@stun@|@omráčiť@
+@stupid@|@hlúpy, sprostý@
+@stupidity@|@hlúposť, sprostosť@
+@style@|@vkus@
+@stylish@|@vkusný@
+@subject@|@predmet@
+@such@|@taký, takýto@
+@sudden@|@náhly, nepredvídaný, znenazdajky@
+@suddenly@|@náhle, odrazu, zrazu@
+@suffer@|@trpieť@
+@sugar@|@cukor@
+@suit@|@oblek@
+@suitcase@|@kufor@
+@sullen@|@chmúrny@
+@sum@|@suma@
+@summer@|@leto@
+@summer time@|@letný čas@
+@sun@|@slnce, slnko@
+@sunbathe@|@opaľovať sa@
+@sunburnt@|@opálený@
+@Sunday@|@nedeľa@
+@sunshine@|@slnečný svit@
+@superstition@|@povera@
+@superstitious@|@poverčivý@
+@supplicate@|@naliehať@
+@supply@|@podporovať, zásobovať, zdroj@
+@suppose@|@domnievať sa, predpokladať@
+@supposition@|@predpoklad@
+@sure@|@iste, istý@
+@surface@|@hladina, povrch@
+@surfing (the internet)@|@hľadať (na internete)@
+@surgical@|@chirurgický@
+@surname@|@priezvisko@
+@surprise@|@prekvapenie, prekvapiť@
+@surroundings@|@prostredie@
+@suspect@|@podozierať@
+@suspicion@|@podozrenie@
+@suspicious@|@podozrivý@
+@swan@|@labuť@
+@sweater@|@sveter@
+@Sweden@|@Švédsko@
+@Swedish (adj.)@|@švédsky@
+@Swedish (female person)@|@Švédka@
+@Swedish (male person)@|@Švéd@
+@sweet@|@milovaný, sladký@
+@sweetheart@|@miláčik, milenka@
+@swing@|@hojdať, kolísať, mávať, otáčať@
+@Switzerland@|@Švajčiarsko@
+@sword@|@dýka, kord, meč, šabľa@
+@sword cut@|@rana mečom@
+@sword-play@|@šerm@
+@swordsman@|@šermiar@
+@syllable@|@vyslovovať@
+@systematic@|@systematický@
+@tabasco@|@papriková omáčka@
+@table@|@stôl@
+@tacky@|@lacný@
+@tact@|@vkus@
+@tail@|@chvost@
+@take@|@zobrať@
+@take care@|@starať sa@
+@take for granted@|@predpokladať@
+@take pictures@|@fotografovať@
+@talk@|@hovoriť@
+@tall@|@vysoký@
+@tan@|@opáliť sa, trieslo@
+@tan (to t.)@|@opaľovať sa@
+@tape@|@páska@
+@tap-room@|@výčap@
+@tarry@|@oneskoriť sa@
+@task@|@úloha@
+@taste@|@vkus@
+@tasteful@|@vkusný@
+@tasteless@|@nevkusný@
+@tasty@|@chutný@
+@tattoo@|@tetovanie@
+@tattoo (v.)@|@tetovať@
+@tawdry@|@nevkusný@
+@tax@|@daň@
+@tax expense@|@daňové výdavky@
+@taxi@|@taxi@
+@tea@|@čaj@
+@teacake@|@čajový koláčik@
+@teach@|@učiť@
+@teacher@|@učiteľ@
+@team-work@|@spolupráca@
+@tear@|@slza@
+@tea-room@|@cukráreň@
+@tease@|@doberať si@
+@tea-table@|@stolík@
+@technical@|@technický@
+@teeth@|@zuby@
+@television set@|@televízor@
+@tell@|@povedať, rozprávať@
+@tell (imperative)@|@povedz(te)@
+@temporary@|@dočasný@
+@tempt@|@lákať, pokúšať@
+@ten@|@desať@
+@tender@|@háklivý, nežný, pastier@
+@tentacle@|@chápadlo@
+@tenth@|@desiaty@
+@tention@|@napätie@
+@terminate@|@ukončiť@
+@territory@|@oblasť, územie@
+@terror@|@strach@
+@text@|@text@
+@than@|@než@
+@thank@|@ďakovať@
+@thank you@|@ďakujem (vám)@
+@thankless@|@nevďačný@
+@thanks for@|@ďakuje za@
+@that@|@ktorý, onen, tamten, že@
+@that is why@|@preto@
+@the .. the@|@čím ... tým@
+@the same@|@ten istý@
+@theatre@|@divadlo@
+@their@|@ich@
+@them@|@ich, im@
+@then@|@potom@
+@there@|@no tak, tam@
+@thereby@|@tým@
+@therefore@|@preto@
+@these@|@tieto, títo@
+@these two@|@títo dvaja@
+@they@|@oni@
+@they are@|@oni sú, ony sú@
+@they can@|@môžu@
+@they do@|@robia@
+@they eat@|@jedia@
+@they forget@|@zabudnú@
+@they go@|@idú@
+@they have@|@májú, oni majú, ony majú@
+@they know@|@oni vedia, ony vedia@
+@they live@|@bývajú@
+@they make@|@robia@
+@they must@|@musia@
+@they must not@|@nesmú@
+@they see@|@vidia@
+@they want@|@chcú@
+@they work@|@pracujú, robia@
+@thigh@|@stehno@
+@thin@|@chudý, tenký@
+@thing@|@vec@
+@think@|@mieniť, myslieť@
+@third@|@tretí@
+@thirst@|@smäd@
+@thirsty@|@smädný@
+@thirteen@|@trinásť@
+@thirteenth@|@trinásty@
+@thirtieth@|@tridsiaty@
+@thirty@|@tridsať@
+@this@|@tento, toto@
+@this kind of@|@takýto@
+@this time@|@tentoraz@
+@this week@|@tento týždeň@
+@thorn@|@tŕň@
+@thorough@|@dokonalý@
+@those@|@tamtí, tamtie, tie@
+@though@|@avšak, však@
+@thought@|@myšlienka@
+@thoughtful@|@ohľaduplný, zádumčivý@
+@threat@|@hrozba@
+@three@|@tri@
+@three hundred@|@tristo@
+@three times@|@trikrát@
+@thrilling@|@vzrušujúci@
+@throat@|@hrdlo, hrtan@
+@through@|@cez@
+@throw@|@hodiť@
+@thrust out@|@otáčať@
+@thunder@|@hrom@
+@Thursday@|@štvrtok@
+@thus@|@tak, takto, teda@
+@ticket@|@lístok, preukaz@
+@tight@|@napnutý, tesný@
+@till then@|@dovtedy@
+@time@|@čas@
+@timeless@|@nekonečný@
+@times@|@krát@
+@timid@|@nesmelý@
+@tin@|@plechovka@
+@tipsy@|@opitý@
+@tire@|@pneumatika@
+@tired@|@unavený@
+@to@|@do, k, ku, na@
+@to be enough@|@stačiť@
+@to combat@|@bojovať@
+@to excess@|@priliš@
+@to my knowledge@|@podľa môjho vedomia@
+@to my mind@|@podľa môjho vkusu@
+@to whom@|@komu@
+@toast@|@hrianka, opekaný chlieb@
+@today@|@dnes@
+@toe@|@prst (na nohe)@
+@together@|@dokopy, spolu@
+@tolerance@|@tolerancia, znášanlivosť@
+@tomatoes@|@paradajky@
+@tomb@|@hrobka@
+@tomorrow@|@zajtra@
+@tongue@|@jazyk@
+@tonight@|@dnes v noci, dnes večer@
+@too@|@priliš, príliš, tiež@
+@too many@|@príliš veľa, priveľa@
+@too much@|@príliš veľa, priveľa@
+@tooth@|@zub@
+@top@|@vrchol@
+@topic@|@predmet@
+@torch@|@fakľa@
+@torment@|@trýzniť@
+@torture@|@trýzniť@
+@touch@|@dotknúť (sa), dotyk, hmat@
+@touchy@|@nedotklivý@
+@tough@|@tuhý@
+@tour@|@cestovať, túra, turné@
+@tourist@|@turista@
+@towards@|@proti@
+@towards north@|@severne@
+@towel@|@uterák@
+@tower@|@veža@
+@town@|@mesto@
+@toy@|@hračka@
+@trace@|@stopa@
+@trade@|@obchodovať@
+@train@|@vlak@
+@tram@|@električka@
+@tramp@|@tulák@
+@transaction@|@transakcia@
+@transparent@|@jasný, priehľadný@
+@transport@|@transport, transportovať@
+@travel@|@cestovať@
+@travel agency@|@cestovná kancelária@
+@traveller@|@cestovateľ@
+@travelling expenses@|@cestovné výdavky@
+@treatise@|@rozprava@
+@tree@|@strom@
+@tremendous@|@nehorázny@
+@tribe@|@čelaď, kmeň@
+@trick@|@vtip@
+@trickery@|@chytráctvo@
+@trip@|@cesta@
+@triple@|@trojitý@
+@trouble@|@obtiaž@
+@trousers@|@nohavice@
+@truck@|@kamión@
+@true@|@pravda, pravdivý, Skutočne@
+@truly@|@naozaj@
+@trunk@|@kmeň, trup@
+@trust (n.)@|@dôvera@
+@trust (v.)@|@dôverovať, dufať@
+@trustworthy@|@dôveryhodný@
+@try@|@pokúsiť sa, skúsiť@
+@tub@|@kaďa@
+@Tuesday@|@utorok@
+@tug@|@ťahať@
+@tulip@|@tulipán@
+@tunnel@|@tunel@
+@turn@|@obrátiť, otáčať, otočiť@
+@tweezers@|@pinzeta@
+@twelfth@|@dvanásty@
+@twelve@|@dvanásť@
+@twenty@|@dvadsať@
+@twenty eight@|@dvadsať osem@
+@twenty first@|@dvadsiaty prvý@
+@twenty five@|@dvadsať päť@
+@twenty four@|@dvadsať štyri@
+@twenty nine@|@dvadsať deväť@
+@twenty one@|@dvadsať jeden@
+@twenty seven@|@dvadsať sedem@
+@twenty six@|@dvadsať šesť@
+@twenty three@|@dvadsať tri@
+@twenty two@|@dvadsať dva@
+@twentyth@|@dvadsiaty@
+@twist@|@stočiť (sa)@
+@two@|@dva@
+@two hundred@|@dvesto@
+@twohundred-fifty@|@dvestopäťdesiat@
+@type@|@písmo@
+@typewriter@|@písací stroj@
+@ugly@|@škaredý@
+@ulcer (stomach u.)@|@žalúdočný vred@
+@umbrella@|@dáždnik@
+@unaware@|@neočakávane@
+@unbelieveable@|@neuveriteľný@
+@uncalled for@|@nepotrebný, nežiadúci@
+@uncertain@|@neistý@
+@uncertainty@|@neistota@
+@uncle@|@strýko, ujec, ujo@
+@under@|@pod@
+@understand@|@chápať, pochopiť, rozumieť@
+@understanding@|@ohľaduplný, porozumenie@
+@unemployed@|@nezamestnaný@
+@unexpected@|@neočakávaný, nepredvídaný@
+@unfair@|@nenáležitý@
+@unforeseen@|@nepredvídaný@
+@unfortunate@|@nešťastný@
+@unfortunately@|@bohužiaľ, nanešťastie@
+@ungrateful@|@nevďačný@
+@university@|@univerzita@
+@unkind@|@nevľúdný@
+@unknown@|@neznámy@
+@unlimited@|@nekonečný, neobmedzený@
+@unlucky man@|@smoliar@
+@unmarried@|@slobodný@
+@unnatural@|@neprirodzený@
+@unoccupied@|@nečinný@
+@unpardonable@|@neodpustiteľný@
+@unpleasant@|@nepríjemný, nesympatický@
+@unplug@|@odpojiť@
+@unreal@|@neskutočný@
+@unsightly@|@škaredý@
+@unstable@|@vrtkavý@
+@until@|@až do, kým@
+@until now@|@doteraz@
+@until then@|@dovtedy@
+@untouched@|@nedotknutý@
+@untrue@|@lživý@
+@untruth@|@nepravda@
+@unused@|@nepoužitý@
+@unusual@|@neobvyklý@
+@unwilling@|@neochotný@
+@unworthy@|@nehodný@
+@up@|@hore@
+@upbringing@|@výchova@
+@update@|@modernizovať@
+@update (v.)@|@aktualizovať@
+@upkeep@|@údržba@
+@uplift@|@zlepšenie@
+@uppermost@|@najvyššie, vrchný@
+@upset@|@zmariť@
+@upside down@|@hore nohami@
+@upside-down@|@naruby@
+@urge@|@naliehať, túžba (n.)@
+@us@|@nám, nás@
+@usage@|@použitie@
+@use@|@použiť@
+@useful@|@užitočný@
+@useless@|@márny, nanič@
+@uselessness@|@márnosť@
+@usually@|@obvykle, zvyčajne@
+@utterly@|@načisto@
+@V.A.T.@|@Daň z Pridanej Hodno (DPH)@
+@vacation@|@dovolenka@
+@vagabond@|@tulák@
+@vain@|@márny@
+@valid@|@správny@
+@valuable@|@cenný@
+@vampire@|@upír@
+@vanity@|@márnosť@
+@vat@|@kaďa@
+@VAT@|@DPH@
+@vengeance@|@pomsta@
+@verb@|@sloveso@
+@verbal@|@doslovný@
+@verbatim@|@doslovný@
+@vertebra@|@stavec@
+@very@|@veľmi@
+@very much@|@veľmi veľa@
+@vice@|@neresť@
+@vicious@|@nerestný, zlostný@
+@victim@|@obeť@
+@view@|@názor, pohľad@
+@vigilant@|@ostražitý@
+@village@|@dedina@
+@violence@|@neúcta@
+@Virgin Mary@|@Panna Mária@
+@vision@|@zjavenie@
+@visionary@|@snilko@
+@visit@|@návšteva, navštíviť, navštíviť@
+@visiting card@|@vizitka@
+@vixen@|@líška@
+@voice@|@hlas@
+@void@|@márny@
+@volatile@|@rozmarný@
+@voracious@|@pažravý@
+@voraciousness@|@hltavosť@
+@vow (n.)@|@sľub@
+@vow (v.)@|@sľubiť@
+@wackiness@|@pochabosť@
+@waffle@|@oplátka@
+@wail@|@bedákanie@
+@waist@|@pás@
+@wait@|@čakať, počkaj !@
+@wait to see (something)@|@dočkať sa@
+@waiter@|@čašník@
+@waitress@|@čašníčka, servírka@
+@wake@|@nespať, zobudiť@
+@wake up@|@prebudiť sa@
+@walk@|@chodiť, chôdza, kráčať@
+@walking-stick@|@palica@
+@wall@|@stena@
+@wall paper@|@zvislý@
+@wallet@|@náprsná taška, peňaženka@
+@wand@|@palica@
+@want@|@chcieť@
+@wanted@|@hľadaný@
+@war@|@bojovať@
+@ward@|@oddelenie@
+@warn@|@varovať@
+@wary@|@obozretný@
+@wash@|@prať, umyť sa@
+@waste@|@odpad, zbytky, zbytočný@
+@water@|@voda@
+@water-colour (painting)@|@akvarel@
+@waterman@|@prievozník@
+@water-melon@|@dyňa@
+@wave@|@mávať@
+@way@|@cesta, spôsob@
+@WC@|@WC@
+@we@|@my@
+@we are@|@my sme, sme@
+@we can@|@môžeme@
+@we do@|@robíme@
+@we eat@|@jeme@
+@we forget@|@zabudneme@
+@we go@|@ideme, my ideme@
+@we have@|@máme, my máme@
+@we know@|@vieme@
+@we live@|@bývame@
+@we make@|@robíme@
+@we must@|@musíme@
+@we must not@|@nesmieme@
+@we see@|@vidíme@
+@we want@|@chceme@
+@we wish@|@želáme (si)@
+@we work@|@pracujeme, robíme@
+@weariness@|@únava@
+@weary@|@mdlý@
+@weather@|@počasie@
+@wedding@|@svadba@
+@wedding ring@|@snubný@
+@wedlock@|@manželstvo@
+@Wednesday@|@streda@
+@week@|@týždeň@
+@week (last w.)@|@minulý týždeň@
+@week (next w.)@|@budúci týždeň@
+@week (this w.)@|@tento týždeň@
+@week ago@|@pred týždňom@
+@weekday@|@všedný deň@
+@weekly@|@týždenne, týždenník, týždenný@
+@weeks@|@týždne@
+@weeks (in five w.)@|@za päť týždňov@
+@weeks (in two w.)@|@za dva týždne@
+@weeks (two weeks ago)@|@pred dvoma týždňami@
+@weeks ago (two)@|@pred dvoma týždňami@
+@weigh@|@vážiť@
+@weird@|@čudný@
+@welfare@|@dobro@
+@well@|@dobre, dobrý, no (nože)@
+@werewolf@|@vlkodlak@
+@wet@|@mokrý@
+@whale@|@veľryba@
+@what@|@čo@
+@What do you want?@|@Čo si želáte?@
+@what if@|@čo keby@
+@whatever@|@kadečo@
+@wheel@|@koleso@
+@when@|@až, keď, kedy@
+@where@|@kde@
+@where are you from?@|@odkiaľ si?@
+@Where are you going?@|@Kam ideš?@
+@whether@|@či@
+@which@|@aký, ktorý@
+@while@|@kým, zatiaľ čo@
+@whim@|@rozmar@
+@whimper@|@fňukanie, fňukať@
+@whimsical@|@čudný, rozmarný@
+@whine@|@bedákanie, fňukanie@
+@whipped cream@|@šľahačka@
+@whiskers@|@bokombrady@
+@whisky (hot whisky)@|@hriate@
+@whistle@|@pískať@
+@white@|@biely@
+@who@|@kto@
+@whole@|@celý@
+@why@|@prečo, však@
+@wide@|@široký@
+@wide open@|@dokorán@
+@wife@|@manželka@
+@wilderness@|@divočina@
+@window@|@okno@
+@wine@|@víno@
+@winter@|@zima@
+@wise@|@múdry@
+@wish@|@želať@
+@wit@|@vtip@
+@witch@|@bosorka, čarodejnica@
+@witch-hunt@|@honba za čarodejnica@
+@with@|@s, so, u@
+@with pleasure@|@s radosťou@
+@withdraw@|@odtiahnuť, vziať späť@
+@within@|@dnu@
+@witness@|@svedok@
+@wittiness@|@duchaplnosť@
+@witty@|@duchaplný@
+@wolf@|@vlk@
+@woman@|@žena@
+@wonder@|@byť zvedavý, div, zázrak@
+@wood@|@drevo@
+@word@|@slovo@
+@word-order@|@slovosled@
+@words@|@slová@
+@work@|@práca, pracovať@
+@worker@|@robotník@
+@workshop@|@výrobňa@
+@world@|@svet@
+@worthless@|@nanič@
+@would@|@by@
+@wound@|@rana@
+@wraith@|@zjavenie@
+@wrap@|@baliť, ovinúť@
+@wrathful@|@zlostný@
+@wretched@|@zúfalý@
+@wrinkle@|@vráska@
+@write@|@písať@
+@writer@|@spisovateľ@
+@writing@|@písanie@
+@writing desk@|@písací stôl@
+@wrong@|@nesprávny@
+@wrong side out (up)@|@naruby@
+@wyvern@|@drak@
+@yammer@|@fňukať@
+@yawn@|@nuda, zívať@
+@year@|@rok@
+@year (last y.)@|@vlani@
+@yearly@|@ročne@
+@yearn@|@želať si@
+@yearning@|@túžba (n.)@
+@yellow@|@žltý@
+@yeoman@|@farmár@
+@yes@|@áno@
+@yesterday@|@včera@
+@yesterday morning@|@včera ráno@
+@yet@|@avšak, až doteraz, ešte@
+@yield@|@poskytovať@
+@you@|@teba, tebe, vám, vás, vy, vy@
+@you agree@|@súhlasíš@
+@you are@|@ty si@
+@You are@|@vy ste@
+@you can@|@môžeš@
+@You can@|@môžete@
+@you can't@|@nemôžeš@
+@you do@|@robíš@
+@You do@|@robíte@
+@you drink@|@piješ@
+@you eat@|@ješ@
+@You eat@|@jete@
+@you forget@|@zabudneš@
+@You forget@|@zabudnete@
+@you go@|@ideš, ty ideš@
+@You go@|@idete@
+@you have@|@máš@
+@You have@|@máte@
+@you know@|@ty vieš@
+@You know@|@vy viete@
+@you live@|@bývaš@
+@You live@|@bývate@
+@you make@|@robíš@
+@You make@|@robíte@
+@you must@|@musíš@
+@you must not@|@nesmieš@
+@you see@|@vidíš@
+@You see@|@vidíte@
+@you want@|@chceš@
+@You want@|@chcete@
+@you wish@|@želáš (si)@
+@you work@|@pracuješ, robíš@
+@You work@|@pracujete, robíte@
+@young@|@mladý@
+@your@|@tvoj, váš@
+@zoom@|@bzučanie@
+

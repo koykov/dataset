@@ -1,0 +1,3797 @@
+@English@|@Welsh@
+@Author name@|@Robert Bassford@
+@Font@|@Arial\12\Arial\12@
+@a bad turn@|@tro sâl@
+@a bit@|@ychydig@
+@a bit of@|@mymryn@
+@a certain@|@rhyw, rhyw@
+@a considerable blow@|@yn gryn ergyd@
+@a fter@|@ar ôl@
+@a little@|@ychydig@
+@abbey@|@abaty@
+@ability@|@gallu@
+@able@|@galluog@
+@able bodied@|@abal@
+@abode@|@preswyl@
+@abolition@|@dilead@
+@about@|@am, am, tua, tua, yngl^yn â, yngl^yn â@
+@above@|@uwchlaw@
+@abruptly@|@yn swrth, yn swta@
+@absence@|@absenoldeb@
+@absent@|@absennol@
+@abundance@|@toreth@
+@academic@|@ysgolhaig@
+@accelerator@|@sbardun@
+@accent@|@acen@
+@accept@|@cymryd@
+@accident@|@damwain@
+@accompaniment@|@cyfeiliant@
+@accompany@|@hebrwng@
+@accomplish@|@cyflawni@
+@according to@|@yn ôl@
+@account@|@adroddiad@
+@accounts@|@cyfrifon@
+@accusation@|@cyhuddiad@
+@accuse@|@beio, cyhuddo@
+@ache@|@gwy^n@
+@achieve@|@cyflawni@
+@acid@|@sur@
+@acknowledge@|@cydnabod@
+@acknowledged@|@cydnabyddedig@
+@acorn@|@mesen@
+@acre@|@erw@
+@across@|@ar draws, dros, dros@
+@act@|@act, actio, gweithredu@
+@actor@|@actor@
+@actress@|@actores@
+@adapt@|@addasu@
+@add@|@adio@
+@add to@|@ychwanegu at@
+@additional@|@ychwanegol@
+@address@|@annerch, cyfeiriad@
+@adhere@|@glynu wrth@
+@adjective@|@ansoddair@
+@adjust@|@addasu@
+@administrative@|@adweinyddol@
+@admiration@|@edmygedd@
+@admire@|@edmygu@
+@admit@|@cyfadde, cyfaddef@
+@adornment@|@addurn@
+@adults@|@oedolion@
+@advantage@|@mantais@
+@advantageous@|@manteisiol@
+@adventure@|@antur@
+@adverb@|@adferf@
+@advice@|@cyngor@
+@advise@|@cynghori@
+@advisory@|@ymgynghorol@
+@aerobics@|@aerobeg@
+@affect@|@effeithio, mennu ar@
+@affectation@|@maldod@
+@affectionately@|@yn serchog@
+@affirm@|@cadarnhau@
+@affirmative@|@cadarnhaol@
+@afford@|@fforddio@
+@after@|@ar ôl, wedi@
+@after that@|@wedi hynny@
+@afternoon@|@pnawn@
+@afterwards@|@wedyn@
+@again@|@eto@
+@against@|@erbyn, yn erbyn@
+@age@|@cyfnod, cyfnod, oed, oes, oes@
+@ageing@|@heneiddiol@
+@agency@|@asiantaeth@
+@agent@|@asiant@
+@agitate@|@corddi, cynhyrfu@
+@agitation@|@cyffro@
+@agonies@|@ingoedd@
+@agree@|@cydsynio, cyfateb, cytuno@
+@agreement@|@cytundeb@
+@agricultural@|@amaethyddol@
+@agriculture@|@amaethyddiaeth@
+@aid@|@aed@
+@aim@|@anelu@
+@aim at@|@anelu at@
+@aim for@|@anelu am, anelu at@
+@aimlessly@|@yn ddiamcan@
+@alarm clock@|@cloc larwm@
+@alien@|@estron@
+@all@|@cwbl, cyfan@
+@all right@|@o'r gorau@
+@all the rage@|@yn y ffasiwn@
+@all the way@|@bob cam@
+@all this@|@hyn oll@
+@allow@|@caniatáu, gadael@
+@alloy@|@aloi@
+@almost@|@bron, bron, ymron@
+@almost ten@|@cryn ddeg@
+@already@|@eisoes@
+@also@|@hefyd, heyfd@
+@alternate@|@bob yn ail@
+@alternately@|@bob yn ail@
+@always@|@bob amser, wastad@
+@ambulance@|@ambiwlans@
+@American@|@americanwr@
+@amongst@|@ymhlith, ymysg@
+@amongst them@|@yn eu plith@
+@amusing@|@masw@
+@analysis@|@dadansoddiad@
+@anchor@|@angor@
+@ancient@|@cynoeswr, hen@
+@and@|@a, ac@
+@and so on@|@ac ati@
+@and then@|@ac eto@
+@angel@|@angel@
+@anger@|@gwy^n@
+@angry@|@blin, crac, dig, milain@
+@anguish@|@gwewyr@
+@animal@|@anifail, mil@
+@announce@|@cyhoeddi@
+@announcement@|@cyhoeddiad@
+@annoy@|@cythruddo@
+@answer@|@ateb@
+@anthem@|@anthem@
+@anvy@|@llynges, llynges@
+@anxiety@|@gofal, pryder@
+@anxious@|@pryderus@
+@any more@|@mwyach@
+@anyone@|@unrhywun@
+@anything@|@dim, unrhywbeth@
+@anyway@|@beth bynnag, ta beth@
+@ape@|@epa, simach@
+@apologise@|@ymddiheuro@
+@apparently@|@mae´n ymddangos@
+@apparition@|@drychiolaeth@
+@appeal@|@apelio@
+@appeciation@|@gwertfawrogiad@
+@appetite for@|@archwaeth at@
+@applause@|@cymeradwyaeth@
+@apple@|@afal@
+@applied linguistics@|@iethyddiaeth gymwysedig@
+@apply for@|@ceisio am@
+@apply oneself@|@ymroi@
+@appoint@|@apwyntio, penodi@
+@appointment@|@apwyntiad@
+@appreciate@|@gwerthfawrogi@
+@appreciative@|@gwerthfawrogol@
+@apprentice@|@prentis, prentisio@
+@apprenticeship@|@prentisiaeth@
+@approach@|@agosáu, nesáu, nesu, nesu at@
+@appropriate@|@priodol@
+@April@|@Ebrill@
+@archbishop@|@archesgob@
+@architect@|@pensaer@
+@area@|@ardal, ardal, rhanbarth@
+@argue@|@dadlau, dadlau@
+@argue about@|@dadlau am@
+@argue with@|@dadlau ag@
+@argument@|@dadl, dadl@
+@aristocracy@|@pendefigaeth@
+@arm@|@braich@
+@armed@|@arfog@
+@armpits@|@ceseiliau@
+@arms@|@breichiau@
+@army@|@byddin@
+@around@|@amgylch, o amgylch, o gwmpas@
+@arrange@|@lluniaethu, trefnu@
+@arrangement@|@trefniad@
+@arrest@|@arestio@
+@arrive@|@cyrraedd, cyrraedd@
+@arrogance@|@traha, trahaus@
+@arrow@|@saeth@
+@arson@|@llosg@
+@art@|@celfyddyd, celfyddyd@
+@article@|@ysgrif@
+@artificial@|@celfyddydol@
+@as@|@â, cyn, fel, wrth@
+@as a result@|@o'r herwydd@
+@as a rule@|@fel rheol@
+@as far as he knew@|@hyd y gwyddai@
+@as far as I know@|@am wn i@
+@as good@|@cystal@
+@as if it were@|@megis@
+@as large. as many@|@cymaint@
+@as little as@|@cyn lleied ag@
+@as long as@|@cyhyd ag, hyd@
+@as one ought to@|@fel y dylid@
+@as usual@|@fel arfer@
+@as well@|@yn ogystal â@
+@as well as@|@yn ogystal â@
+@ascent@|@dringfa@
+@ash trees@|@ynn@
+@ask@|@ceisio, erchi, erchi i, gofyn, gofyn, gofyn i, holi@
+@aspect@|@pryd@
+@assembly@|@cynnull@
+@assist@|@cynorthwyo@
+@associate@|@cysylltu@
+@at@|@am, am, ar@
+@at all@|@erioed, o gwbl, o gwbwl@
+@at last@|@o'r diwedd@
+@at once@|@rhag blaen@
+@at random@|@ar antur@
+@at the moment@|@ar hyn o bryd@
+@at the time of@|@adeg y@
+@at times@|@ar adegau, ar brydiau@
+@atmosphere@|@awyrgylch@
+@attack@|@cyrchu, rhuthr, rhuthro, ymosod, ymosod ar, ymosodiad@
+@attacks@|@pyliau@
+@attempt@|@antur, antur, cais, cynnig, cynnig, ymgais, ymgais@
+@attention@|@sylw@
+@attitude@|@agwedd, agwedd@
+@attorney@|@twrnai@
+@attract@|@atynnu, denu@
+@attractive@|@atyniadol, deniadol@
+@attribute@|@priodoli@
+@audible@|@clywadwy@
+@audit@|@archwiliad@
+@August@|@Awst@
+@author@|@awdur@
+@authorities@|@awdurdodau@
+@authority@|@awdurdod@
+@authorize@|@awdurdodi@
+@auxiliary@|@cynorthwyol@
+@avalanche@|@afalans@
+@avenue@|@rhodfa@
+@average@|@cyfartal@
+@aversion@|@casbeth@
+@awake@|@ar ddihun@
+@away@|@i fwrdd@
+@awful@|@enbyd, enbyd@
+@awkward@|@chwithig@
+@axe@|@bwyell@
+@babble@|@prepian@
+@back@|@cefn, yn ôl@
+@bacon@|@cig moch, cig moch@
+@bad@|@drwg, drwg@
+@bag@|@cod@
+@bagful@|@codaid@
+@baggy@|@codog@
+@bake@|@crasu@
+@balance@|@cydbwysedd, mantol, mantoli@
+@bald@|@moel@
+@bang@|@taro@
+@banish@|@alltudio@
+@bank@|@glan@
+@banquet@|@gwledd@
+@barbel@|@barfogyn@
+@barber@|@barbwr@
+@bardic@|@barddol@
+@barrel@|@casgen@
+@base@|@bôn, seilio, seilio, sylfaen, sylfaen@
+@bashful@|@swil@
+@bashfulness@|@swilder@
+@basis@|@sail@
+@basket@|@basged@
+@bathe@|@ymdrochi@
+@battle@|@brwydr, brwydyr@
+@be@|@bod, bodoli@
+@be able@|@gallu@
+@be allowed@|@cael@
+@be anxious@|@pryderu@
+@be armed@|@arfog@
+@be heated@|@poethi@
+@be lazy@|@diogi@
+@be present@|@presenoli@
+@be silent@|@tewi@
+@be sober@|@sobri@
+@be surprised@|@synnu@
+@be surprised at@|@synnu at@
+@be tired out@|@ymlâdd@
+@beach@|@traeth, traeth@
+@beam@|@dist@
+@beans@|@ffa@
+@bear@|@dal@
+@beard@|@barf@
+@bearded@|@barfog@
+@beat@|@curiad, curo, curo, tabyrddu@
+@beautiful@|@hardd, prydferth, teg, telaid@
+@beauty@|@prydferthwch, tegwch@
+@because@|@achos, achos, am, oblegid@
+@beckon@|@amneidio@
+@become@|@dod yn@
+@become mouldy@|@llwydo@
+@become night@|@nosi@
+@become pale@|@gwelwi@
+@become part@|@ymdoddi@
+@become serious@|@dwysáu@
+@become tired@|@dyddfu@
+@bed@|@gwely@
+@bedroom@|@stafell wely@
+@beef@|@cig eidion, cig eidon@
+@beer@|@cwrw@
+@bef@|@crefu ar@
+@before@|@cyn, o'r blaen@
+@before hand@|@ymlaen llaw@
+@before long@|@cyn bo hir@
+@beg@|@begio, erfyn, erfyn ar@
+@begin@|@dechrau, dechrau@
+@beginning@|@dechrau@
+@behind@|@tu cefn, tu ôl@
+@belief@|@cred@
+@believe@|@credu, credu@
+@believer@|@credadun, credwr@
+@bell@|@cloch@
+@bellow@|@rhuo@
+@belly@|@rhumen, tor@
+@belong@|@perthyn@
+@beloved@|@cun@
+@below them@|@oddi tanynt@
+@belt@|@gwregys@
+@bench@|@mainc@
+@bend@|@plygu@
+@beneficial@|@buddiol, llesol@
+@benefit@|@llesâd@
+@bent@|@crwm@
+@beside@|@wrth ochor, wrth ymyl@
+@besiege@|@gwarchae@
+@besieged@|@gwarchaeëdig@
+@best@|@gorau@
+@between@|@rhwng@
+@bewilder@|@moedro@
+@bewitched@|@witsio@
+@beyond@|@trosodd@
+@big@|@mawr@
+@big toe@|@bawd@
+@bilingual@|@dwyieithog@
+@bilingualism@|@dwyieithrwydd@
+@bingler@|@stompiwr@
+@biography@|@bywgraffiad@
+@biology@|@bywydeg@
+@birch@|@bedw@
+@birch grove@|@bedwerw@
+@bird@|@aderyn@
+@birds@|@adar@
+@birthday@|@pen blwydd@
+@biscuit@|@bisged@
+@bitter@|@chwerw@
+@bitterness@|@chwerwedd@
+@black@|@du@
+@blackbird@|@aderyn du, mwyalchen@
+@blackness@|@duedd@
+@blasphemy@|@cablair@
+@blight@|@mall, malltod@
+@bloody fool@|@baliffw^l@
+@blow@|@ergyd@
+@blows@|@dyrnodiau, ergydion@
+@blue@|@glas@
+@blue joke@|@stori faswedd@
+@blunt@|@pylu@
+@blush@|@cochi, gwrid, gwrido@
+@boar@|@baedd@
+@board@|@bwrdd@
+@boast@|@brawl@
+@boastful@|@mawreddog@
+@boat@|@bad, cwch@
+@bodies@|@cyrff@
+@body@|@corff@
+@bog@|@cors@
+@boil@|@berwi@
+@boiling@|@goferw, yn ferw@
+@bold@|@dewr, eofn@
+@bolt@|@bolltio, prenio@
+@bonfire@|@coelcerth@
+@bookshop@|@siop lyfrau@
+@booty@|@preiddin@
+@border@|@goror@
+@borders@|@ffiniau@
+@borken down@|@wedi torri lawr@
+@borrow@|@benthyg@
+@bosom@|@mynwes@
+@botch@|@stompio@
+@bother@|@o daro, trafferthu@
+@bottle@|@costrelu, potel@
+@bound@|@rhwym@
+@bout@|@pwl@
+@bout of@|@pwl o@
+@bouts@|@pyliau@
+@bowl@|@mail@
+@box@|@paffio@
+@box on the ears@|@bonclust@
+@boy@|@bachgen@
+@brain@|@ymennydd@
+@brass@|@pres@
+@brave@|@dewr, dewr, gwrol@
+@bravery@|@dewrder@
+@breach of promise@|@tor-amod@
+@bread@|@bara@
+@break@|@gwant, torri, torri@
+@break up@|@chwalu@
+@breakfast@|@brecwast@
+@breast@|@bron, bron@
+@breath@|@anadl@
+@breathe@|@anadlu@
+@breed@|@brîd, epilio@
+@Breton@|@Llydaweg@
+@brewed for the second time@|@ail-fragu@
+@brewery@|@bragdy@
+@brick@|@priddfaen@
+@bridge@|@pont@
+@bright@|@disglair@
+@bring@|@dwyn at, dyfod ag@
+@bring credit@|@dwyn clod@
+@British@|@Prydeinig@
+@brittle@|@bregus@
+@broad@|@eang@
+@broadcast@|@darllediad, darlledu@
+@broadcaster@|@darlledwr@
+@broadcasters@|@darlledwyr@
+@broad-minded@|@eangfrydig@
+@bronze@|@pres@
+@brook@|@cornant, nant@
+@brother@|@brawd@
+@brothers@|@brodyr@
+@brown@|@gwrm@
+@brownish@|@cochddu@
+@brows@|@aeliau@
+@bruises@|@cleisiau@
+@brush@|@brwrsio, brws@
+@build@|@adeiladu@
+@builder@|@adeiladwr, saer@
+@building@|@adeilad@
+@buildings@|@bildins@
+@bull@|@tarw@
+@bundle@|@cocyn, sopyn, sypyn@
+@burbot@|@llofen@
+@burden@|@baich, bwrn@
+@bureau@|@biwrô@
+@burning slowly@|@mud-losgi@
+@bury@|@claddu@
+@bus@|@bws@
+@bus stop@|@safle bysiau@
+@business@|@busnes@
+@busy@|@prysur@
+@butcher@|@cigydd@
+@butt@|@cornio@
+@butter@|@menyn@
+@buttermilk@|@enwyn@
+@buy@|@prynu@
+@buyer@|@prynwr@
+@buzz@|@suo@
+@by@|@erbyn, gan, gan, wrth, wrth@
+@by all means@|@ar bob cyfri@
+@by the way@|@gyda llaw@
+@by then@|@erbyn hynny@
+@by virtue of@|@yn rhinwedd@
+@cackle@|@cocian@
+@cahin@|@tid@
+@cairn@|@carn@
+@cake@|@teisen@
+@calendar@|@calendr@
+@calf@|@llo@
+@call@|@galw@
+@call at@|@galw yn@
+@calm@|@tawel, tawelwch@
+@calmer@|@llonyddach@
+@camera@|@camera@
+@camp@|@gwersyllu@
+@candid@|@agored@
+@candidate@|@ymgeisydd@
+@canvas@|@cynfas@
+@capable@|@abl@
+@capital@|@cyfalaf, prifddinas@
+@capitalist@|@cyfalafol@
+@captivity@|@caethiwed@
+@capture@|@cipio, cipio@
+@car@|@car@
+@carcass@|@celain@
+@card@|@cerdyn@
+@career@|@galwedigaeth, gyrfa@
+@careful@|@gofalus@
+@caress@|@anwes@
+@caretaker@|@gofalwr@
+@carp@|@carp@
+@carpenter@|@saen, saer@
+@carriage@|@cerbyd@
+@carry@|@arwain, cario@
+@case@|@achos@
+@cast@|@bwrw@
+@castle@|@castell@
+@cat@|@cath@
+@catch@|@dal@
+@catch salmon@|@eoca@
+@catfish@|@morgath@
+@catholic@|@catholig@
+@cattle@|@da, gwartheg@
+@cattle dealer@|@porthmon@
+@cause@|@achos, achosi, codi, peri i@
+@cause injustice@|@gwneud cam@
+@cave@|@ogof@
+@cease@|@peidio, peidio@
+@ceaseless@|@dibaid@
+@celebrate@|@dathlu@
+@cellar@|@seler@
+@central@|@canolog@
+@central area@|@canolbarth@
+@centre@|@canolbwyntio, canolfan, canolwr@
+@centuries@|@canrifoedd@
+@century@|@canrif@
+@certainly@|@siwr o fod@
+@certainty@|@sicrwydd@
+@chair@|@cadair@
+@challenge@|@her, herian, herio@
+@champion@|@pencampwr@
+@chance@|@cyfle@
+@change@|@cyfnewid, newid, newidiad@
+@channel@|@sianel@
+@chant@|@canu@
+@chaos@|@anhrefn, anhrefn@
+@chapter@|@pennod@
+@char@|@torgoch@
+@characterise@|@nodweddu@
+@characteristics@|@teithi@
+@charge@|@cyhuddo@
+@charm@|@swyn@
+@charming@|@swynol@
+@chart@|@siart@
+@chat@|@sgwrs, sgwrs@
+@chat with@|@cael sgwrs â@
+@chatter@|@clebran@
+@cheap@|@rhad, rhad@
+@cheeks@|@gruddiau@
+@cheese@|@caws, cosyn@
+@cheque@|@siec@
+@cheque card@|@cerdyn siec@
+@chess@|@gwyddbwyll@
+@chessboard@|@tawlbwrdd@
+@chest@|@mynwes, ysgyfaint@
+@chew@|@cnoi@
+@chicken@|@cyw iâr@
+@chief@|@brif, pennaeth, prif@
+@child@|@plentyn@
+@children@|@plant@
+@chill@|@oeri@
+@chin@|@gên@
+@chips@|@sglodion@
+@chisel@|@cy^n@
+@choice@|@dewis, dewis, dewisiad@
+@choke@|@tagu@
+@choose@|@dewis@
+@chosen@|@dewisedig, dewisol@
+@christening@|@bedydd@
+@chub@|@annog@
+@church@|@eglwys@
+@churlish@|@di-foes@
+@churn@|@corddi@
+@cinema@|@sinema@
+@cintribute@|@cyfrannu@
+@circle@|@cylcho@
+@circuit@|@amdaith@
+@citizen@|@dinesydd@
+@city@|@caer@
+@civilisation@|@gwareiddiad@
+@civilised@|@gwâr@
+@class@|@dosbarth, dosbarth@
+@classify@|@dosbarthu@
+@claw@|@crafangu, ewin, ewino@
+@clean@|@glanhau@
+@cleaning@|@glanhau, glanhau@
+@cleanse@|@puro@
+@clear@|@clir, eglur@
+@click@|@clecian, clecian@
+@cliff@|@clogwyn@
+@climax@|@uchafbwynt@
+@climb@|@dringad, dringfa, dringo@
+@climber@|@dringwr@
+@climg@|@glynu wrth@
+@cloak@|@coban, cochli@
+@clock@|@cloc, orlais@
+@clod@|@priddell@
+@close@|@agos, cau, gau@
+@clothes@|@dillad@
+@cloud@|@cwmwl@
+@club@|@clwb, cnwpa@
+@clumsily@|@yn afrwydd@
+@clumsy@|@cobleraidd@
+@cluster@|@clwstwr@
+@coaching@|@hyfforddiant@
+@coal@|@glo@
+@coal mine@|@pwll glo@
+@coal scars@|@creithiau glo@
+@coast@|@arfordir@
+@coat@|@cot@
+@coax@|@darbwyllo@
+@cobbler@|@cobler@
+@coble@|@coblera@
+@cockles@|@cocos@
+@cod@|@penfras@
+@coffee@|@coffi@
+@cognition@|@gwybyddiaeth@
+@coincidence@|@cyd-ddigwyddiad@
+@cold@|@annwyd, oer, oerfel@
+@coldish@|@oeraidd@
+@collect@|@casglu, casglu, cynnull@
+@collection@|@casgl@
+@college@|@coleg@
+@colleges@|@colegau@
+@colloquial@|@tafodieithol@
+@collwge@|@athrofa@
+@colonies@|@trefedigaethau@
+@colony@|@trefedigaeth@
+@comb@|@cribo@
+@come@|@dod@
+@come back@|@dod nôl@
+@comfort@|@cysur@
+@comfortable@|@cyfforddus@
+@coming@|@dyfodol@
+@command@|@erchi, erchi i, gorchymyn, gorchymyn@
+@commentary@|@esboniad@
+@commerce@|@cyfnewid@
+@commission@|@comisiwn@
+@commit@|@cyflawni@
+@committee@|@pwyllgor@
+@common@|@cyffredin, cyffredinol@
+@common people@|@gwrêng@
+@commotion@|@cynnwrf, cynnwrf@
+@communicate@|@cyfathrebu@
+@communication@|@cyfathreb@
+@communities@|@cymunedau@
+@community@|@cymuned@
+@companies@|@cwmnïau@
+@companions@|@cymdeithion@
+@company@|@cwmni, mintai@
+@comparative@|@cymharol, cymharol@
+@comparatively@|@cymharol@
+@compare@|@cyffelybu, cymharu@
+@comparison@|@cymhariaeth@
+@compel@|@cymell, gorfodi i@
+@competence@|@cymhwyster@
+@complain@|@achwyn, cwyno@
+@complain of@|@achwyn ar, cwyno ar@
+@complete@|@cyflawn, cyflawni@
+@completely@|@penbaladr, yn lân@
+@complex@|@cymhleth@
+@complicated@|@cymhleth@
+@compose poetry@|@prydyddu@
+@comprehend@|@amgyffred@
+@comprehensive@|@cyfun, cynhwysfawr@
+@computer@|@cyfrifadur@
+@conceal@|@cuddio@
+@concealhide@|@cuddio@
+@concentrate@|@canolbwyntio@
+@concert@|@cyngerdd@
+@condemnation@|@condemniad@
+@condition@|@amod, ansawdd, cyflwr, diwyg@
+@conditions@|@telerau@
+@conference@|@cynhadledd@
+@confess@|@cyfaddef, cyffesu@
+@confession@|@cyffes@
+@confidence@|@hyder@
+@confident@|@hyderus@
+@confuse@|@drysu@
+@confused@|@dryslyd@
+@confusion@|@dryswch@
+@conger eel@|@cyhyren@
+@congratulate@|@llongfarch@
+@conjunction@|@cysylltiad, cysylltiad@
+@connection@|@cyswllt, cysylltiad@
+@conquer@|@concro, gorchfygu@
+@conscience@|@cydwybod@
+@conscientious@|@cydwybodol@
+@conscientious objector@|@consi@
+@conscript@|@gorfodog@
+@consensus@|@consensws@
+@consequence@|@canlyniad@
+@consequences@|@canlyniadau@
+@consider@|@ystyried@
+@considerable@|@cryn@
+@consistent@|@cyson, cyson@
+@consolation@|@cysur@
+@constantly@|@byth a hefyd, yn gyson@
+@constitution@|@cyfansoddiad@
+@constructive@|@adeiladol@
+@consult@|@ymgynghori@
+@consumption@|@darfodedigaeth, traul@
+@contact@|@cysylltu â@
+@contain@|@cynnwys@
+@contempt@|@dirmyg@
+@content@|@cynnwys, cynnwys@
+@context@|@cyd-destun@
+@continent@|@cyfandir@
+@continental@|@cyfandirol@
+@continually@|@o hyd@
+@continuous@|@parhaol, parhaol@
+@contour@|@amlinell@
+@contribute to@|@cyfrannu at@
+@contribution@|@cyfraniad@
+@control@|@rheolaeth@
+@convenient@|@cyfleus@
+@conversation@|@sgwrs, ymddiddan@
+@conversion@|@troedigaeth@
+@convictions@|@arghyoeddiadau@
+@convince@|@argyhoeddi, darbwyllo@
+@convinced@|@argoeddedig@
+@cook@|@coginio@
+@cool@|@oeri@
+@cooperate@|@cydweithredu@
+@co-operate@|@cydweithio@
+@co-operation@|@cydweithrediad@
+@co-operative@|@cydweithredol@
+@cope@|@côpio@
+@copper@|@copr, pres@
+@copy@|@copi@
+@copyright@|@hawlfraint@
+@corduroy@|@melfared@
+@corn@|@^yd, corn@
+@corner@|@cornel, cornelu@
+@cornflakes@|@creision ^yd@
+@coronation@|@coroni, coroniad@
+@corporation@|@corfforaethol@
+@corpse@|@corff@
+@corpses@|@cyrff@
+@correct@|@cywir, cywiro@
+@correspond@|@cyfateb, cyfated, gohebu@
+@costs@|@costau@
+@cosy@|@clyd@
+@cottage@|@bwthyn@
+@cotton grass@|@plu gweunydd@
+@counsellor@|@cynghorwr@
+@count@|@cyfrif@
+@counter@|@cownter@
+@counter charge@|@croes achos@
+@counterproductive@|@gwrthgynhyrchol@
+@counties@|@siroedd@
+@countrified@|@gwledig@
+@country@|@gwlad, gwledig@
+@country bumpkin@|@cyntri lump@
+@countryside@|@cefn gwlad@
+@county@|@sir, swydd@
+@courage@|@dewrder, dewrder@
+@courageous@|@cefnog@
+@courses@|@cyrsiau@
+@court@|@cwrt, llys@
+@courting@|@yn canlyn@
+@covenant@|@cyfamod@
+@covered@|@yn frith@
+@cow@|@buwch@
+@coward@|@cachadur, llwfr@
+@cowardly@|@llwfr@
+@cowshed@|@beudy@
+@crab@|@cranc@
+@craft@|@celfyddyd, celfyddyd@
+@craftsman@|@crefftwr@
+@crazy@|@penwan@
+@create@|@creu@
+@creation@|@cread@
+@creative@|@creadigol@
+@creature@|@creadur@
+@credit@|@credyd@
+@creed@|@credo@
+@crew@|@criw@
+@crib@|@preseb@
+@crime@|@trosedd@
+@criminal@|@troseddol@
+@crisis@|@argyfwng@
+@crisps@|@creision@
+@critic@|@beirniad@
+@critical@|@beirniadol@
+@criticize@|@beirniadau@
+@crooked@|@cam, crwca, crwm, gogam@
+@crop@|@cnwd, cyndio@
+@cross@|@croes, croesi, crog, draws, traws@
+@crossroads@|@croesffordd@
+@crow@|@brân, brân@
+@crowd@|@haid, twrr@
+@crown@|@coron, coroni@
+@crown of the head@|@corun@
+@crowned@|@coronog@
+@crucifix@|@crog@
+@cruel@|@creulon@
+@crumb@|@briwsionyn@
+@crumble@|@malurio@
+@cry@|@crio, disgyr, dolef, llefain@
+@cry out@|@dolefain@
+@cult@|@cwlt@
+@cultivate@|@amaethu@
+@cultural@|@diwylliannol@
+@culture@|@diwylliant@
+@cultured@|@coeth, coeth@
+@cunning@|@cyfrwys, cyfrwys@
+@cup@|@cwpan@
+@cupboard@|@cwpwrdd@
+@cure@|@gwella, gwella@
+@curl up@|@crychu@
+@curriculum@|@cwricwlwm@
+@curse@|@melltith, melltithio@
+@curtly@|@yn gwta@
+@custody@|@gwarchodaeth@
+@custom@|@arfer@
+@customers@|@cwsmeriaid@
+@customs@|@arferion@
+@cut@|@briw, torri@
+@cut up@|@darnio@
+@cuts@|@briwiau@
+@daily@|@peunyddiol@
+@dam@|@argae@
+@damage@|@niweidio@
+@damp@|@gwlybyrog, llaith@
+@dance@|@dawns, dawnsio@
+@dangerous@|@enbyd, enbyd@
+@dare@|@beiddio, meiddio, mentro, mentro@
+@daring@|@eofn@
+@dark@|@tywyll@
+@dark blue@|@gwrm@
+@darkness@|@tywyllwch@
+@dash it all@|@dario unwaith@
+@date@|@dyddiad, oed@
+@daughter@|@merch, merch@
+@daunt@|@dantio@
+@dawn@|@dyddio@
+@day@|@diwrnod, dydd@
+@day dream@|@pensynnu@
+@daze@|@syfrdanu@
+@dazed@|@syfrdan@
+@deacon@|@diacon@
+@deal@|@delio, trin@
+@deal with@|@delio â@
+@dealer@|@masnachwr@
+@dear@|@annwyl, cun, drud, prid@
+@dearth@|@drudaniaeth@
+@death@|@angau, dilaith@
+@debate@|@dadl, dadl, dadlau, dadlau@
+@debris@|@malurion@
+@debt@|@dyled@
+@decade@|@degad@
+@deceit@|@twyll@
+@deceive@|@twyllo@
+@December@|@rhagfyr@
+@decisiveness@|@pendantrwydd@
+@declaration@|@datganiad@
+@declare@|@datgan@
+@decorate@|@addurno@
+@decoration@|@addurn@
+@decreed@|@actiedig@
+@dedicate@|@cyflwyno@
+@deep@|@dwfn@
+@deer@|@carw, hydd@
+@defamation@|@gogan@
+@defame@|@goganu@
+@defect@|@diffyg@
+@defend@|@amddiffyn, amddiffyn rhag@
+@defiant@|@herfeiddiol, herllyd@
+@definite@|@pendant, pendant derfynol@
+@definitely@|@yn bendant@
+@defy@|@beiddio, herfeiddio@
+@degree@|@gradd@
+@delay@|@oedi, oediad@
+@delegates@|@cynrychiolwyr@
+@delight@|@hyfrydwch@
+@deliver@|@traddodi@
+@delve@|@palu@
+@demand@|@gofyn, hawl@
+@democrat@|@gwerinwr@
+@democratic@|@gwerinaidd@
+@demonstrate@|@arddangos@
+@denounce@|@lladd ar@
+@dent@|@tolcio@
+@deny@|@gwadu@
+@depart@|@ymadael, ymado ag, ymdael@
+@department@|@adran@
+@depend@|@penderfynu@
+@depend on@|@dibynnu aar@
+@dependent@|@dibynnol@
+@deprive@|@amddifadu, difreinio@
+@depth@|@dyfnder@
+@descend@|@disgyn@
+@descendant@|@disgynnydd@
+@descent@|@disgyniad@
+@deserve@|@haeddu, haeddu@
+@design@|@bwriad, cynllun, cynllunio@
+@desire@|@awydd, dymuna, dymuniad, gofuned@
+@despair@|@anobeithio, gwanobaith, gwanobeithio@
+@despite himself@|@er ei waethaf@
+@despite that@|@serch hynny@
+@despondency@|@gwanobaith@
+@despondent@|@prudd@
+@despot@|@teyrn@
+@destroy@|@dinistro@
+@destroyer@|@dinistriwr@
+@deteriorate@|@gwaethygu@
+@deterioration@|@dirywiad@
+@determined@|@penderfynol@
+@develop@|@datblygu@
+@developmen@|@datblygiad@
+@development@|@datblygiad, datblygiad@
+@devil@|@cythraul, cythrel@
+@devout@|@duwiol@
+@dew@|@gwlith, gwlitho@
+@dewdrop@|@gwlithyn@
+@dewy@|@gwlithog@
+@dictionary@|@geiriadur@
+@die@|@marw@
+@different@|@gwahanol@
+@difficult@|@anodd@
+@difficulty@|@anhawster@
+@dig@|@cloddio, palu@
+@dignity@|@urddas@
+@din@|@trwst@
+@dining room@|@stafell fwyta@
+@dinner@|@ancwyn, ancwyn, cinio, cinio@
+@dioxide@|@deuocsid@
+@diphthong@|@deusain@
+@direct@|@cyfeirio, uniongyrchol, yn syth@
+@direction@|@cyfeiriad, cyfer@
+@directly@|@yn syth@
+@dirt@|@baw@
+@dirty@|@budr@
+@disabled@|@anabl@
+@disadvantage@|@anfantais@
+@disagreement@|@anghydfod@
+@disappear@|@diflannu@
+@discipline@|@disgyblaeth@
+@discomfort@|@anghysur@
+@discontented@|@anfoddog, anfodlon@
+@discourteous@|@anghwrtais@
+@discover@|@canfu, darganfod@
+@discuss@|@trafod, trafod, ymarwar@
+@disgrace@|@gwaradwydd, gwaradyddo, gwarth@
+@disgraceful@|@gwaradwyddus, gwarthus@
+@disgust@|@diflastod@
+@dish@|@llestr@
+@dishonest@|@anonest@
+@dismiss@|@digyflogi@
+@disobedient@|@anufudd@
+@disorder@|@anhrefn@
+@disorganised@|@anhrefnus@
+@dispute@|@amau@
+@disregard@|@diystyru@
+@distraction@|@ddifyrrwch@
+@distribution@|@dosbarthiad@
+@district@|@ardal, ardal, dosbarth@
+@districts@|@ardaloedd@
+@disturb@|@aflonyddu, aflonyddu ar, tarfu@
+@disturbance@|@styrbans@
+@disturbing@|@ystyrbiol@
+@divide@|@rhannu@
+@division@|@dosran@
+@doctor@|@meddyg@
+@document@|@dogfen@
+@dog@|@ci@
+@dogfish@|@penci@
+@dogs@|@cw^n@
+@dollar@|@doler@
+@domesticated@|@dof@
+@door@|@drws@
+@doubt@|@amau, amheuaeth, dadl, dadl@
+@doubtful@|@amheus, ansicr@
+@doubtless@|@diau@
+@dough@|@toes@
+@dove@|@colomen@
+@down@|@i lawr@
+@dowry@|@gwaddol@
+@doze@|@hepian, pendwmpian@
+@dragon@|@draig@
+@dramatist@|@dramaydd@
+@drat it@|@dario@
+@draught@|@dracht@
+@draw@|@llunio, tynnu, tynnu@
+@drawer@|@drôr@
+@dress@|@diwyg, gwisg, gwisgo@
+@drifts@|@lluwchfeydd@
+@drink@|@diod, yfed@
+@drive@|@gyrru@
+@drop@|@cwympo, diferyn, llymed@
+@drops@|@diferion@
+@drought@|@sychder@
+@drown@|@boddi@
+@drowsy@|@hepianus, swrth@
+@dry@|@sych, sychu@
+@dry land@|@sychdir@
+@dryness@|@sychder@
+@dual@|@deuol@
+@dualism@|@deuoliaeth@
+@duck@|@hwyaden@
+@dull@|@maith@
+@dumb@|@mud@
+@dun@|@gwrm@
+@during@|@yn ystod@
+@dust@|@llwch@
+@Dutch@|@Isalmaeneg@
+@duty@|@dyletswydd@
+@dwarf@|@cor, corrach@
+@dwell@|@preswylio, trigo@
+@dweller@|@preswylydd@
+@each@|@bob, yr un@
+@eager@|@awyddus@
+@eagerly@|@yn achwus@
+@eagle@|@eryr@
+@ear@|@clust@
+@earl@|@iarll@
+@early@|@cynnar@
+@earphones@|@bengornau@
+@earth@|@pridd, priddo, priddyn@
+@earthy@|@priddlyd@
+@east@|@dwyrain@
+@eastern@|@dwyreiniol@
+@easy@|@hawdd, rhwydd@
+@eat@|@bwyta@
+@ebb@|@trai, treio@
+@ebbing@|@yn treio@
+@echo@|@adlais@
+@economic@|@economaidd@
+@economical@|@rhadus@
+@ecstasy@|@gorfoledd@
+@edition@|@argraffiad@
+@educate@|@addysgu@
+@education@|@addysg@
+@educational@|@addysgiadol, addysgol@
+@eel@|@llysywen@
+@effect@|@effaith@
+@effective@|@effeithiol@
+@effects@|@effeithiau@
+@effeminate@|@merchetaidd@
+@effort@|@ymdrech, ymgais, ymgais@
+@egg@|@wy@
+@eight@|@wyth@
+@eighteen@|@deunaw@
+@eighth@|@wythfed@
+@eighty@|@pedwar ugain, wythdeg@
+@either@|@chwaith@
+@elbow@|@penelin@
+@elder@|@henuriad@
+@elect@|@ethol@
+@elected@|@etholedig@
+@election@|@etholiad, lecsiwn@
+@electrical@|@trydanol@
+@electrician@|@trydanwr@
+@electricity@|@trydan@
+@elementary@|@elfennol@
+@elephant@|@eliffant@
+@eleven@|@un ar ddeg, undeg un@
+@eligible@|@etholadwy@
+@else@|@arall@
+@emit sparks@|@gwreichioni@
+@employ@|@cyflogi@
+@emptiness@|@gwacter, gwagedd@
+@empty@|@diddim, gwag, gwagu, gwog@
+@enable@|@galluogi@
+@enclose@|@amgáu@
+@enclosed@|@amgaeedig@
+@encourage@|@calonogi, cefnogi@
+@encouragement@|@cefnogaeth@
+@encouraging@|@cefnogol@
+@end@|@diwedd, eithaf@
+@endeavour@|@anelu@
+@endow@|@donio@
+@energetic@|@egniol@
+@energetically@|@yn egniol@
+@energy@|@egni@
+@engagement@|@amod, cyfamod@
+@engagement ring@|@modrwy ddyweddio@
+@England@|@Lloegr@
+@English@|@Saesneg@
+@Englishman@|@Sais@
+@enjoy@|@mwynhau@
+@enlarge@|@ehangu@
+@enmity@|@gelyniaeth@
+@ennill@|@profit@
+@ennyd@|@moment@
+@ennyn@|@inflame@
+@enormous@|@anwedd, enfawr@
+@enough@|@digon@
+@enrich@|@cyfoethogi@
+@enryfeddwch@|@wonder@
+@ensim@|@enzyme@
+@ensnare@|@rhwydo@
+@ensure@|@sicrhau@
+@ensyniad@|@insinuation@
+@entertainment@|@adloniant@
+@enthusiasm@|@brwdfrydedd@
+@enthusiastic@|@brwd, brwdfrydig@
+@envelope@|@amlen@
+@envy@|@eiddigeddu@
+@enwad@|@denomination@
+@enwadol@|@sectarian@
+@enwebiad@|@nomination@
+@enwebu@|@nominate@
+@enwedig@|@especial@
+@enwi@|@name@
+@enzyme@|@ensim@
+@epistle@|@epistol@
+@epoch@|@epoc@
+@equal@|@cydradd, cyfartal, yn gyfartal@
+@equanimity@|@pwyll@
+@escape@|@dianc@
+@especial@|@enwedig@
+@especially@|@yn arbennig, yn enwedig@
+@esquire@|@yswain@
+@essay@|@ysgrif@
+@establish@|@sefydlu@
+@estate@|@ystad@
+@estimate@|@amcangyfrif@
+@estuary@|@aber@
+@evanescence@|@diflanrwydd@
+@even@|@hyd yn oed@
+@eventually@|@maes o law@
+@ever@|@erioed, erioed@
+@every@|@bob, pob@
+@every bit@|@pob tamed@
+@every morning@|@bob bore@
+@every now and again@|@bob hyn a hyn@
+@everybody@|@pawb@
+@everyone@|@pobun@
+@everything@|@cyfan, cyfan, popeth@
+@everywhere@|@ym mhob man@
+@evidence@|@tystiolaeth@
+@evident@|@amlwg@
+@evil@|@drwg@
+@ewe@|@mamog@
+@exactly@|@yn hollol, yn union@
+@exam@|@arholiad@
+@examine@|@archwilio, chwilio, edrych@
+@examiner@|@arholwr@
+@excellent@|@ardderchog, campus, rhagorol@
+@exceptional@|@eithriadol@
+@exchange@|@cyfnewid@
+@excite@|@cynhyrfu@
+@excitement@|@cyffro, cynnwrf@
+@exciting@|@cyffrous@
+@excuse@|@esgus, esgusodi@
+@exhortation@|@anogaeth@
+@exist@|@bodoli@
+@expect@|@disgwyl@
+@expectantly@|@yn ddisgwylgar@
+@expensive@|@costus@
+@experience@|@profiad@
+@experiment@|@arbrawf, arbrofi@
+@expert@|@arbenigwr@
+@explain@|@egluro, esbonio@
+@explanation@|@eglurhad, esboniad@
+@exploit@|@gwrhydri@
+@exploitation@|@ymelwad@
+@express@|@mynegi@
+@extend@|@ymestyn, ymestyn@
+@extensive@|@helaeth@
+@exterminate@|@difodi@
+@external@|@allanol@
+@eye@|@llygad, llygadu@
+@eyebrow@|@ael@
+@eyelid@|@amrant@
+@fabricate@|@ffabrigo@
+@face@|@wyneb@
+@facilitate@|@rhwyddhau@
+@fact@|@ffaith@
+@factor@|@ffactor@
+@factual@|@ffeithiol@
+@fail@|@ffaelu, methu, methu ag@
+@failing@|@coll@
+@faint@|@dyddfu, ffaelu@
+@fair@|@teg@
+@fairer@|@tecach@
+@fairly@|@go, go@
+@fairy@|@eirias@
+@faith@|@cred, ffydd@
+@faithful@|@ffyddlon@
+@fall@|@codwm, codymu, cwympo, syrthio@
+@false@|@anwir@
+@fame@|@enwogrwydd@
+@familiar@|@cyfarwydd@
+@family@|@teulu, teulu@
+@family tree@|@ach@
+@famish@|@llwgu@
+@famous@|@amlwg, enwog@
+@far@|@pell, ymhell@
+@farm@|@fferm@
+@farmer@|@amaethwr, ffermwr@
+@farmyard@|@buarth@
+@fast@|@cyflym, ymprydio@
+@fat@|@bras, bras, tew@
+@fate@|@tynged@
+@father@|@tad@
+@Father Christmas@|@Siôn Corn@
+@fatherly@|@tadol@
+@fathom@|@gwrhyd@
+@fault@|@ffael, ffaeledd@
+@favour@|@cymwynas, ffafr, ffafrio@
+@favourable@|@ffafriol@
+@favourite@|@ffefryn@
+@fear@|@ofn, ofni@
+@fearful@|@ofnus@
+@feast@|@gwledd, gwledd, gwledda@
+@feaster@|@gwleddwr@
+@February@|@Chwefor, Chwefror@
+@fed up with@|@syrffredu ar@
+@fee@|@tâl@
+@feeble@|@di-ffrwt, llesg, tila@
+@feed@|@porthi@
+@feel@|@teimlo, teimlo@
+@feeling@|@teimlad@
+@fellow lodger@|@cydletywr@
+@fellowship@|@cymrodoriaeth@
+@female saint@|@santes@
+@female teacher@|@athrawes@
+@feminine@|@benywaidd@
+@fen@|@cors@
+@fermaentation@|@eplesiad@
+@ferment@|@eples@
+@fern@|@rhedyn@
+@ferocity@|@anwariaeth@
+@ferry@|@porth@
+@fervent@|@gwresog@
+@fetch@|@cyrchu, nôl@
+@fever@|@twymyn@
+@few@|@ambell, ychydig@
+@fickle@|@gwantan, masw@
+@field@|@cae, maes, parc@
+@fifteen@|@pymtheg@
+@fifth@|@pumed@
+@fifty@|@deg a deugain, hanner cant, pumdeg@
+@fight@|@cwffio, ymladd@
+@filly@|@eboles@
+@finance@|@cyllid@
+@financial@|@ariannol@
+@find@|@dod o hyd i@
+@fine@|@braf, coeth, coeth, go lew, gwych, iawn, main, mân@
+@fine comb@|@crib mân@
+@finger@|@bys@
+@finished@|@ar ben, ar ben@
+@fire@|@saethu, tân, tanio@
+@fireman@|@diffoddwr tân@
+@firewood@|@cynnud@
+@first@|@cynta@
+@fish@|@pysgod, pysgota@
+@fist@|@dwrn@
+@fists@|@dyrnau@
+@fit@|@heini@
+@fitting@|@addas@
+@five@|@pump@
+@fixed@|@sefydlog, sefydlog@
+@flag@|@baner, lluman@
+@flame@|@ffagl@
+@flannel@|@gwlanen@
+@flat@|@gwastad, yn wastad@
+@flee@|@cilio rhag, ffoi@
+@flee from@|@ffoi rhag@
+@fleet@|@llynges, llynges@
+@flesh@|@cnawd@
+@flexibility@|@ystwythder@
+@flight@|@hedfa@
+@fling@|@taflu@
+@flock@|@fiadell, praidd@
+@flood@|@llifeiriant@
+@floor@|@llawr@
+@flourish@|@blodeuo@
+@flout@|@wfftio@
+@flow@|@goferu@
+@flower@|@blodeuo@
+@fluent@|@rhugl@
+@fluid@|@gwlyb@
+@flush@|@gwrid, gwrido@
+@fly@|@hedfan@
+@fo@|@gwneud@
+@foal@|@ebol@
+@fog@|@niwl@
+@foggy@|@niwliog, niwlog@
+@fold@|@corlan, corlannu@
+@folded@|@ymhleth@
+@folk@|@gwerin@
+@follow@|@dilyn@
+@following@|@canlynol@
+@following day@|@trannoeth@
+@fondle@|@anwesu@
+@food@|@bwyd@
+@foot@|@troed@
+@for@|@am, ar gyfer, er@
+@for a while@|@am gyfnod@
+@for ever@|@am byth@
+@for goodness sake@|@da chi, wir dduwc@
+@for hours@|@am oriau@
+@for how long@|@am faint, ers faint@
+@for long@|@am hir@
+@for nothing@|@am ddim@
+@for now@|@am y tro@
+@for sale@|@ar wert, ar werth@
+@for that matter@|@o ran hynny@
+@for that reason@|@o´r herwydd@
+@for the life of him@|@yn ei fyw@
+@for the sake of@|@er mwyn@
+@for years@|@ers blynyddau@
+@forbid@|@gwarafun@
+@force@|@gorfodi@
+@foreign@|@estron, tramor@
+@foreigners@|@tramorwyr@
+@foremost@|@blaen, blaen@
+@foresee@|@rhagweld@
+@foretell@|@darogan@
+@foreword@|@rhagair, rhagair@
+@forfeit@|@fforffeidio@
+@forget@|@anghofio@
+@forgive@|@maddau@
+@forgiveness@|@maddeuant@
+@forgotten@|@angof@
+@fork@|@fforch@
+@form@|@agwedd, dull, ffurf, ffurio, llunio, pryd@
+@formerly@|@gynt@
+@fortieth@|@deugeinfed@
+@fortnight@|@pythefnos@
+@forty@|@deugain, pedwardeg@
+@forward@|@blaenwr, traws@
+@foster@|@meithrin, meithrin@
+@found@|@seilio, seilio@
+@foundation@|@sylfaen@
+@four@|@pedair, pedwar@
+@fourteen@|@pedwar ar ddeg@
+@fourth@|@pedwerydd@
+@fowls@|@dofednod@
+@fragments@|@malurion@
+@frail@|@eiddil@
+@France@|@Frainc@
+@fraud@|@twyll@
+@free@|@rhad, rhydd@
+@free oneself@|@ymryddhau@
+@freedom@|@rhyddid@
+@freeze@|@rhewi@
+@freezer@|@rhewgell@
+@French woman@|@ffrances@
+@Frenchman@|@ffrancwr@
+@frequent@|@aml, mynychu@
+@fridge@|@oergell@
+@friend@|@cariad, cariad, cyfaill, ffrind@
+@friendly@|@cyfeillgar@
+@friends@|@cyfeillion@
+@friendship@|@cyfeillfarwch, cyfeillgarwch@
+@fright@|@dychryn@
+@frighten@|@codi ofn ar@
+@frightful@|@erch@
+@frog@|@broga@
+@frolic@|@pranc@
+@from@|@gan, gan, o@
+@from now on@|@o hyn ymlaen@
+@from then on@|@o hynny ymlaen@
+@frown@|@gwgu@
+@fruit@|@ffrwyth, frwythau@
+@fry@|@ffrio@
+@fuel@|@cynnud@
+@full@|@cyflawn, llawn@
+@full back@|@cefnwr@
+@fumble@|@pwtffalu@
+@fume@|@ffromi@
+@fun@|@hwyl, miri@
+@function@|@ffwythiant@
+@funeral@|@angladd@
+@furnish@|@dodrefnu@
+@furnisher@|@dodrefnwr@
+@furniture@|@dodrefn@
+@fuss@|@helynt@
+@future@|@dyfodol@
+@gain@|@elwa, ennill, ennill@
+@gallery@|@oriel@
+@game@|@chwarae@
+@games@|@chwaraeon@
+@gap@|@adwy, agendor, bwlch@
+@gaping@|@rhwth@
+@garden@|@gardd@
+@gardener@|@garddwr@
+@garret@|@croglofft@
+@gas@|@nwy@
+@gate@|@clwyd@
+@gather@|@hel@
+@gather wool@|@gwlana@
+@gathering@|@cynulliad@
+@gender@|@rhyw@
+@generals@|@cadfridogion@
+@generation@|@cenhedlaeth@
+@generous@|@hael, haelionus, yn fawrfrydig@
+@genius@|@athrylith@
+@genral@|@cyffredinol@
+@gentle@|@addfwyn@
+@gentleman@|@bonheddwr@
+@gentleness@|@addfwynder, gwarder@
+@genuine@|@diledryw@
+@German@|@Almaenwr@
+@German language@|@Almaeneg@
+@German woman@|@Almaenes@
+@gesture@|@osgo@
+@get@|@cael, ennill@
+@get angry@|@digio@
+@get from@|@cael oddi wrth@
+@get in touch with@|@cysylltu â@
+@get on with@|@cyd-dynnu@
+@get rid of@|@cael gwared ar@
+@get up@|@codi, codi@
+@get washed@|@ymolchi, ymolchi@
+@get wet@|@gwlychu@
+@giant@|@cawr@
+@giants@|@cewri@
+@gift@|@dawn, dawn, donio, rhodd@
+@gifted@|@dawnus@
+@ginger@|@sinsir@
+@gird@|@gwregysu@
+@girdle@|@gwregys, gwregysu@
+@girl@|@herlodes, merch, merch@
+@give@|@dodi, rhoi, rhoi@
+@give in@|@gildio@
+@give up@|@rhoi'r gorau i@
+@giving way@|@gwegian@
+@glade@|@llannerch@
+@glance@|@cipolwg@
+@glasses@|@sbectol@
+@glassful@|@glasied@
+@glimpse@|@cip@
+@glove@|@maneg@
+@glue@|@gludio@
+@gnats@|@gwybed@
+@go@|@mynd@
+@go home@|@mynd adre@
+@go past@|@mynd heibio i@
+@go to jail@|@mynd i'r carchar@
+@goad@|@swmbwl@
+@goat@|@gafr@
+@God@|@Duw@
+@golden eagle@|@eryr aur@
+@good@|@da, da, lles@
+@good grief@|@Diwedd mawr@
+@goodbye@|@da boch chi, hwyl@
+@goodness gracious@|@yr arswyd fawr@
+@goose@|@g^wydd@
+@gorse@|@eithin@
+@goshawk@|@gosog@
+@Gospel@|@Efengyl@
+@gossip@|@anair@
+@government@|@llywodraeth@
+@gown@|@gw^n@
+@graceful@|@bonheddig, gosgeiddig, urddasol@
+@gracious@|@rhadlon@
+@graciousness@|@rhadlonrwydd@
+@gradually@|@bob yn dipyn, yn raddol@
+@graduate@|@graddedig@
+@grandfather@|@tad-cu, taid@
+@grandmother@|@henfam, mam-gu@
+@grandson@|@^wyr@
+@grasp@|@cydio, gafael@
+@grave@|@dwys@
+@gravitation@|@disgyrchiant@
+@graze@|@pori@
+@grease@|@iro, saim@
+@great@|@cryn@
+@great desire@|@awydd ysol@
+@greed@|@gwanc@
+@Greek@|@Groeg@
+@green@|@gwyrdd@
+@greet@|@annerch, cyfarch@
+@greetings@|@cyfarchion@
+@grey@|@llwyd@
+@grief@|@dolur, gofid@
+@grieve@|@gofidio@
+@groan@|@griddfan, tuchan@
+@grope@|@ymbalfalu@
+@ground@|@seilio, seilio@
+@grouse@|@cochiad@
+@grove@|@llwyn@
+@grow@|@cynyddu, prifio, tyfu@
+@grow old@|@heneiddio@
+@grown@|@gwg@
+@growth@|@prifiant@
+@grudge@|@gwarafun@
+@grumble@|@conach@
+@guarantee@|@gwarantu@
+@guaranteed@|@gwarantedig@
+@guarantor@|@gwarantydd@
+@guard@|@gwarchadw, gwarchod@
+@guardhouse@|@gwarchodfa@
+@guardian@|@gwarcheidiol, gwarcheidwad, gwarchodwr@
+@guards@|@gwarchodlu@
+@guess@|@dyfalu, dyfalu@
+@guilt@|@euogrwydd@
+@guilty@|@euog@
+@gulp@|@llwnc@
+@gun@|@gwn@
+@had better@|@well i@
+@haddock@|@corbenfras@
+@hag@|@gwrach@
+@hair@|@gwallt@
+@hairs@|@blew@
+@hake@|@cegddu@
+@half@|@hanner@
+@hall@|@neuadd@
+@hand@|@llaw@
+@hand over@|@trosglwyddo@
+@handbook@|@llawlyfr@
+@handful@|@mawaid@
+@handle@|@carn, trafod, trin@
+@handsome@|@golygus@
+@hang@|@hongian@
+@hangman@|@crogwr@
+@happen@|@digwydd@
+@happy@|@hapus, wrth ei fodd@
+@harbour@|@llongborth, porthfa@
+@hard@|@caled@
+@hardly@|@go brin, prin@
+@hare@|@ysgyfarnog@
+@harm@|@gwneud niwed i, niwed, niweidio@
+@harmful@|@niweidiol@
+@harp@|@telyn@
+@harpist@|@telynor@
+@harvest@|@cynhaea@
+@hasten@|@prysuro@
+@hate@|@casáu@
+@hatred@|@casineb@
+@haughty@|@penuchel@
+@haulm@|@gwlydd@
+@have@|@cael, cael@
+@have to@|@gorfod@
+@hawk@|@curyll, hebog@
+@hawl@|@demand, right@
+@hawlio@|@claim@
+@hay@|@gwair@
+@hayraker@|@trowr@
+@haze@|@tawch@
+@hazel@|@cyll@
+@hazy@|@niwliog@
+@he@|@e, ef@
+@he imagined he saw@|@tybiodd weld@
+@he stopped dead@|@safodd yn stond@
+@head@|@pen, pen@
+@headmaster@|@prifathro@
+@health@|@iechyd@
+@healthy@|@iach@
+@heap of straw@|@sypyn gwellt@
+@hear@|@clywed@
+@hear about@|@clywed am@
+@hearing@|@gwrandawiad@
+@heart@|@bron, calon@
+@heartbreaking@|@torcalonnus@
+@hearth@|@aelwyd@
+@hearths@|@aelwydydd@
+@heartily@|@yn braf@
+@heat@|@gwres, gwres, gwresogi, poethi@
+@heather@|@grug@
+@heavy@|@trwm@
+@heb sôn am@|@without mentioning@
+@hedge@|@gwrych@
+@hedgehog@|@draenog@
+@heifer@|@treisiad@
+@heifers@|@heffrod@
+@height@|@taldra@
+@heir@|@etifedd@
+@heiress@|@etifeddes@
+@hell!@|@diawl@
+@hello@|@hylo@
+@help@|@cymorth, cynorthwyo, helpu@
+@her@|@ei@
+@herdsman@|@preiddiwr@
+@here@|@fan hyn, yma@
+@here and there@|@hwnt ac yma, yn y fan a'r lle@
+@here are@|@dyma@
+@here is@|@dyma, dyma@
+@heresy@|@heresi@
+@heroes@|@dewrion@
+@heroic@|@arwrol@
+@herring@|@pennog@
+@hesitantly@|@yn betrus@
+@hesitate@|@oedi, petruso@
+@hide@|@cochli, cuddio, cuddio@
+@hideous@|@erchyll@
+@hiding place@|@cuddfa@
+@high@|@uchel@
+@higher@|@uwch@
+@highest@|@ucha@
+@hill@|@bre, bryn, garth@
+@him@|@e, ef@
+@hind@|@ewig@
+@hindrance@|@nidr@
+@hire@|@cyflogi@
+@his@|@ei, ei@
+@historian@|@hanesydd@
+@historical@|@hanesyddol@
+@history@|@hanes, hanes@
+@hit@|@curo, taro@
+@hold@|@cydio, cynnal, cynnal, dal, dal, gafael@
+@hole@|@crau, twll@
+@hollow@|@pant@
+@holly@|@celyn@
+@homage@|@gwrogaeth@
+@home@|@adref, aelwyd, cartref@
+@homes@|@aelwydydd@
+@homewards@|@adre@
+@honey@|@mêl@
+@honeymoon@|@mis mêl@
+@honeysuckle@|@gwyddfid@
+@honour@|@anrhydedd@
+@hoof@|@carn@
+@hooker@|@putain@
+@hop@|@herc, hercian@
+@hopeful@|@gobeithiol@
+@hopefully@|@gobeithio@
+@hopeless@|@anobeithiol@
+@hopelessness@|@anobaith@
+@horn@|@corn@
+@horrible@|@erchyll@
+@horse@|@ceffyl@
+@hospital@|@ysbyty@
+@host@|@llu@
+@hostage@|@mach@
+@hot@|@boeth, dwym, gwresog, poeth, twym@
+@hour@|@awr@
+@house@|@t^y@
+@hover@|@hofran@
+@how@|@pa mor, sut@
+@how many@|@sawl@
+@how much@|@faint@
+@however@|@fodd bynnag@
+@howling@|@dan ubain@
+@huge@|@anferthol@
+@hum@|@suo@
+@human@|@dynol@
+@humanity@|@dynoldeb, dynoliaeth, dynoliaeth@
+@humming@|@grwnian@
+@hundred@|@cant@
+@hunger@|@newyn@
+@hunt@|@hela@
+@huntsman@|@heliwr@
+@hurricane@|@corwynt@
+@hurry@|@brysio@
+@hurt@|@brifo, dolurio@
+@husband@|@gw^r@
+@hush money@|@arian mudandod@
+@hypocrite@|@rhagrith@
+@hypocritical@|@rhagrithiol@
+@i@|@i, i@
+@I@|@fi@
+@I am engaged@|@ydw i wedi dyweddio@
+@I hope@|@gobeithio, gobeithio@
+@I must@|@rhaid i@
+@I need@|@mae arna i angen@
+@I wonder@|@sgwn i, tybed@
+@idea@|@syniad@
+@ideal@|@delfryd, delfrydol@
+@idle@|@ofer, segur@
+@if@|@ai, os@
+@if ever there was one@|@os bu un erioed@
+@if yo wish@|@os mynnwch@
+@ignorance@|@anwybodaeth@
+@ignore@|@anwybyddu@
+@ill@|@gwael, sâl, tost, tost@
+@illegal@|@anghyfreithlon@
+@illegible@|@annarllenadwy@
+@illegitimate children@|@plant siawns@
+@ill-gotten gains@|@budur-elw@
+@illness@|@afiechyd@
+@I'm sorry@|@mae ddrwg gyda fi@
+@image@|@delwedd@
+@imagination@|@dyfais@
+@imagine@|@dychmygu, dyfalu, tybio@
+@imitate@|@dynwared@
+@immature@|@anaeddfed@
+@immeasurable@|@yn ddifesur@
+@immediately@|@union@
+@immerse@|@trochi@
+@immoral@|@anfoesol@
+@immorality@|@anfoesoldeb@
+@immortal@|@anfarwol@
+@immune@|@anheintus@
+@imperfect@|@amherffaith@
+@impersonal@|@amhersonol@
+@impetuous@|@byrbwyll@
+@importance@|@pwys, pwys, pwysigrwydd@
+@important@|@pwysig@
+@impose@|@gorfodi@
+@impossible@|@amhosib, amhosibl@
+@impractical@|@anymarferol@
+@impression@|@argraff@
+@improbable@|@annhebygol@
+@improve@|@gwella, gwella@
+@improvement@|@gwellhad@
+@in a mess@|@yn gawl@
+@in all likelihood@|@yn ôl pob tebyg@
+@in case you@|@rhag iti@
+@in connection with@|@yngl^yn â, yngl^yn â@
+@in existence@|@i fodolaeth@
+@in front of@|@o flaen@
+@in good taste@|@chwaethus@
+@in order to@|@i, i@
+@in succession@|@yn olynol@
+@in tatters@|@yn yfflon@
+@in the same way@|@yn yr un modd@
+@in their wake@|@i'w canlyn@
+@in vain@|@yn ofer@
+@inborn@|@cynhenid@
+@incite@|@annog@
+@include@|@cynnwys@
+@incomprehensible@|@annealladwy@
+@inconsistent@|@anghyson@
+@inconvenient@|@anghyfleus@
+@increase@|@amlhau, cynnydd, cynyddu@
+@increasing@|@cynyddol@
+@incredible@|@anhygoel@
+@indecent@|@anweddus@
+@indeed@|@yn wir@
+@indefinite@|@amhendant@
+@independent@|@annibynnol@
+@indicate@|@arwyddocáu@
+@indifferent@|@difraw@
+@indigestion@|@diffyg treuliad@
+@indignation@|@soriant@
+@indirect@|@anuniongyrchol@
+@ineffectual@|@aneffeithiol@
+@inertia@|@trymedd@
+@inevitable@|@anochel, anorfod@
+@inexplicable@|@anesboniadwy@
+@infect@|@heintio@
+@infectious@|@heintus@
+@infer@|@casglu, casglu@
+@inferior@|@is-raddol@
+@inflame@|@ennyn@
+@inflamed@|@enynnol@
+@inflammation@|@llid@
+@influence@|@dylanwad@
+@influential@|@dylanwadol@
+@inform@|@hysbysu@
+@infrequent@|@anaml@
+@infringe@|@diddymu@
+@inhabitant@|@preswylydd@
+@inhabitants@|@trigolion@
+@inheritance@|@dreftadaeth, etifeddiaeth@
+@initial@|@cychwynnol@
+@injure@|@anafu@
+@injury@|@anaf, niwed@
+@injustice@|@anghyfiawnder@
+@inn@|@tafarn@
+@innocently@|@yn ddiniwed@
+@inquire@|@holi@
+@insatiable@|@anniwall@
+@insect@|@pryf@
+@inside@|@i mewn@
+@insinuate@|@ensynio@
+@insinuation@|@ensyniad@
+@insist@|@mynnu@
+@inspect@|@archwilio@
+@instead of@|@yn lle@
+@instructions@|@cyfarwyddiadau@
+@instrument@|@ermyg, teclyn@
+@intend@|@amcanu, bwriadu@
+@intended@|@darpar@
+@intention@|@amcan, amcan, bwriad@
+@intercourse@|@cnwch@
+@interest@|@diddordeb@
+@interesting@|@diddorol@
+@interfere@|@ymyrryd@
+@interjection@|@ebychiad@
+@intermarry@|@cydbriodi@
+@international@|@rhyngwladol@
+@interpret@|@dehongli@
+@interpretation@|@dehongliad@
+@interrogation@|@holiad@
+@interrupt@|@torri ar draws@
+@interview@|@cyfweld@
+@into@|@i mewn i@
+@intoxicating@|@yn feddwol@
+@introduce@|@rhagarwain@
+@introduction@|@cyflwyniad@
+@introvert@|@mewnblyg@
+@invention@|@dyfais@
+@investigation@|@archwiliad, ymchwiliad@
+@invitation@|@gwahoddiad@
+@invite@|@gwadd@
+@invoice@|@anfoneb@
+@Ireland@|@Iwerddon@
+@irigate@|@dyfrhau@
+@Irish@|@Gwyddeleg@
+@Irishman@|@Gwyddel@
+@irresponsible@|@anghyfrifol@
+@irrigation@|@dyfrhad@
+@irritation@|@enyniad@
+@is not@|@onid@
+@it@|@ef@
+@it seems@|@mae'n debyg@
+@itching to@|@ysu am@
+@ivory@|@morfil@
+@jail@|@dalfa@
+@January@|@Ionawr@
+@jaunt@|@sgawt@
+@jaw@|@safn@
+@jewel@|@tlws@
+@jocular@|@cellweirus@
+@joint@|@cnwch, cyd@
+@jolt@|@ysgytiad@
+@journalist@|@newyddiadurwr@
+@journey@|@teithio@
+@joy@|@llawenydd@
+@judge@|@barnu, barnwr, dyddio@
+@judge by@|@barnu wrth@
+@judgement@|@barn, barn@
+@jug@|@jwg@
+@juice@|@swdd@
+@July@|@Gorffennaf@
+@June@|@Mehefin@
+@juniper trees@|@meryw@
+@just as well@|@cystal@
+@justice@|@cyfiawnder@
+@keen breeze@|@awel fain@
+@keep@|@cadw@
+@keep from@|@cadw rhag@
+@keeper@|@gwarcheidwad, gwarchodwr@
+@kettle@|@tegell@
+@key@|@agoriad, allwedd@
+@kick@|@cicio@
+@kidney@|@aren@
+@kill@|@lladd@
+@kilo@|@kilo@
+@kind@|@caredig, math@
+@king@|@breinn@
+@kingdom@|@teyrnas@
+@kinship@|@ach, ach@
+@kiss@|@cusan@
+@kitchen@|@cegin@
+@kite@|@barcud@
+@knee@|@glin, penlin@
+@knife@|@cyllell@
+@knit@|@gweu@
+@knock@|@curo, taro@
+@knoll@|@tarren@
+@know@|@adnabod, gwybod, nabod@
+@kob@|@swydd@
+@labourer@|@labrwr@
+@lack@|@diffyg@
+@ladder@|@ysgol@
+@ladies@|@boneddigesau@
+@lady@|@boneddiges, ledi@
+@lake@|@llyn@
+@lamb@|@cig oen, oen@
+@lament@|@anafu, galaru@
+@lampoon@|@goganu@
+@lance@|@picell@
+@land@|@glanio, tir@
+@landowners@|@tir-feddianwyr@
+@landscape@|@tirlun@
+@laof@|@torth@
+@large@|@ehang@
+@lark@|@ehedydd@
+@last@|@diwetha, diwethaf, para@
+@last night@|@neithiwr@
+@last year@|@llynedd@
+@late@|@diweddar@
+@latest@|@diweddara@
+@laugh@|@chwerthin, chwerthiniad@
+@laugh at@|@chwerthin am ben@
+@laughing stock@|@priciswn@
+@law@|@cyfraith, deddf@
+@lawyer@|@cyfreithiwr@
+@lay by@|@arhosfan@
+@lay eggs@|@dodwy@
+@layer@|@haen@
+@lazily@|@yn ddioglyd@
+@laziness@|@diogi@
+@lazy@|@diog@
+@lead@|@arwain, arwain, arwein, plwm, tennyn@
+@leader@|@arweinydd@
+@leaf@|@dalen, deilen@
+@leaflet@|@taflen@
+@learn@|@dysgu, dysgu@
+@learner@|@dysgwyr@
+@leash@|@tennyn@
+@leather@|@lledr@
+@leave@|@eples, gadael, gadael, ymadael, ymado ag@
+@leaven@|@eplesu@
+@left@|@chwith@
+@leg@|@coes@
+@legible@|@darllenadwy@
+@legislation@|@deddfwriaeth@
+@legislative@|@deddfwriaethol@
+@lend@|@rhoi benthyg@
+@length@|@hyd, hyd@
+@lesson@|@gwers@
+@let go@|@ymollwng@
+@let know@|@rhoi gwybod i@
+@letter@|@llythyr@
+@level@|@gwastad@
+@levity@|@maswedd@
+@libelous@|@athrodus@
+@liberals@|@rhyddfrydwyr@
+@library@|@llyfrgell@
+@licence@|@trwydded@
+@lick@|@llyfu@
+@lie@|@anwiredd, celwydd@
+@life@|@byd, bywyd, enaid, enaid, leiff@
+@lift@|@codi, codi@
+@light@|@ysgafn@
+@lighten@|@ysgafnu@
+@like@|@fel, fel, hoffi, tebyg@
+@likelihood@|@tebygolrwydd@
+@likely@|@tebyg, tebyg@
+@limb@|@aelod@
+@limbs@|@aelodau@
+@lime@|@calch@
+@limited@|@cyfyngedig@
+@limp@|@hercian, llipa@
+@line@|@lein@
+@ling@|@honos@
+@linguist@|@ieithydd@
+@link@|@cysylltiad, cysylltu@
+@lion@|@llew@
+@lip@|@gwefus, mant@
+@lip (animal)@|@gwefl@
+@lipstick@|@minlliw@
+@liquid@|@gwlyb@
+@list@|@rhestr@
+@listen@|@gwrando@
+@listen attentively@|@clustfeinio@
+@listen to@|@gwrando ar@
+@listener@|@gwrandawr@
+@listening@|@gwrandawiad@
+@literature@|@llenyddiaeth@
+@little@|@bach, ychydig@
+@live@|@byw@
+@liver@|@afu@
+@load@|@llwyth@
+@loaf@|@troth@
+@lobster@|@cimwch@
+@logic@|@rhesymeg@
+@logical@|@rhesymegol, ymresymgar@
+@long@|@hir, maith@
+@longer@|@yn hwy@
+@look@|@cloi, edrych@
+@look after@|@gofalu am@
+@look carefully@|@craffu@
+@look for@|@chwilio am@
+@look forward to@|@edrych ymlaen at@
+@loop@|@dolen, dolennu@
+@lord@|@arglwydd@
+@lose@|@colli@
+@loss@|@coll, colled@
+@lot@|@cyfan, cyfan@
+@lounge@|@lolfa@
+@lout@|@crymffast@
+@love@|@cariad, cariad, caru@
+@lovely@|@hyfryd, hyfryd@
+@lover@|@carwr@
+@loving@|@cariadus@
+@low@|@isel@
+@lower@|@yn is@
+@lowest@|@isaf@
+@lowland@|@bro, iseldir@
+@loyal@|@cywir@
+@luck@|@lwc@
+@lucky@|@lwcus@
+@lucrative@|@enillgar@
+@lumpy@|@cnyciog@
+@lunatic@|@lloerig@
+@lunch@|@cinio@
+@lust@|@gwy^n@
+@luxuries@|@moethau@
+@luxurious@|@yn foethus@
+@lyric@|@telyneg@
+@machine@|@peiriant@
+@mackerel@|@macrell@
+@mad@|@gorffwyll, gwallgof@
+@magazine@|@cylchgrawn@
+@magazines@|@cylchgronau@
+@magic@|@dewindabaeth, dewiniaeth@
+@magic wand@|@hudlath@
+@magical@|@dewiniaidd@
+@magician@|@dewin@
+@magistrate@|@ustus@
+@magnanimous@|@mawrfrydig@
+@maid@|@morwyn@
+@maiden@|@rhiain@
+@main@|@prif, prif@
+@maintain@|@cynnal@
+@maintenance@|@cynhaliaeth@
+@majestically@|@mawreddog@
+@majority@|@mwyafrif, y rhan fwya@
+@make@|@gwneud, gwneuthuriad@
+@make a date@|@gwneud oed@
+@make a mess@|@gwneud cawl@
+@make famous@|@enwogi@
+@make one's way@|@ymlwybro@
+@make poor@|@tlodi@
+@make sure@|@sichrau@
+@maker@|@gwneuthurwr@
+@making@|@gwneuthuriad@
+@malice@|@malais@
+@malicious@|@maleisus@
+@man@|@dyn, gw^r@
+@manager@|@rheolwr@
+@mankind@|@dynoliaeth@
+@manners@|@moesau@
+@mansion@|@mansiwn, plasty@
+@mantle@|@mantell@
+@manure@|@gwrtaith, teilo@
+@manuscript@|@llawsgrif@
+@Manx@|@Manaweg@
+@many@|@llawer, pw^er@
+@March@|@Mawrth@
+@mare@|@caseg@
+@mark@|@nodi, olion@
+@married@|@priod@
+@marry@|@priodi@
+@marsh@|@mign@
+@marshland@|@corstir@
+@martyr@|@merthyr@
+@martyrdom@|@merthyrdod@
+@masculine@|@gwrywaidd@
+@masculinity@|@gwrywdod@
+@mass media@|@cyfryngau torfol@
+@master@|@meistroli@
+@masterly@|@yn feistraidd@
+@mat]@|@mat@
+@match@|@matsh, matsien@
+@material@|@defnydd, deunydd, materol@
+@materialism@|@materoliaeth@
+@mathematical@|@mathemategol@
+@mathematician@|@mathemategwr@
+@maths@|@mathemateg@
+@matter@|@deunydd, mater, pwynt@
+@mattock@|@caib, matog@
+@mattress@|@matras@
+@mature@|@aeddfed, aeddfedu, aeddfedu@
+@May@|@mai@
+@may God forgive you@|@Duw faddeuo iti@
+@me@|@fi, i, i@
+@mead@|@medd@
+@meadow@|@dôl, gwaun@
+@meal@|@pryd@
+@mean@|@golygu@
+@means@|@cyfrwng, modd@
+@measure@|@mesur@
+@meat@|@cig@
+@mechanic@|@mecanyd@
+@medal@|@tlws@
+@mediate@|@cyfryngu@
+@meditate@|@synfyfyrio@
+@medium@|@cyfrwng@
+@meekness@|@gwarder@
+@meet@|@cwrdd â, cyfarfod â@
+@meet with@|@cyfarfod ag@
+@meeting@|@cyfarfod, dadlau@
+@melody@|@peroriaeth@
+@melt@|@toddi@
+@member@|@aelod@
+@members@|@aelodau@
+@membership@|@aelodaeth@
+@memorable@|@cofiadwy@
+@memory@|@atgof, cof, cof@
+@mend@|@gwella, mendio, trwsio@
+@mental anguish@|@gwewyr meddwl@
+@mention@|@crybwyll, sôn am@
+@menu@|@arlwy, bwydlen@
+@merchant@|@masnachwr@
+@merit@|@haeddu, teilyngdod@
+@merry@|@masw@
+@mess@|@cawdel, galanas, llanast@
+@message@|@neges@
+@midday@|@hanner dydd@
+@middle@|@canol@
+@might@|@grym@
+@mildew@|@llwydni@
+@milk@|@llaeth@
+@mill@|@melin@
+@million@|@miliwn@
+@mind@|@gwarchod@
+@mint@|@mahtu@
+@minute@|@munud@
+@mirror@|@drych@
+@miser@|@cybydd@
+@miserable@|@ddiflas@
+@misery@|@diflastod@
+@misfortune@|@anffawd@
+@miss@|@colli, methu@
+@mist@|@tarth@
+@mistake@|@camgymeriad@
+@misty@|@niwliog@
+@misunderstand@|@camddeall@
+@misuse@|@camarfer@
+@mixed@|@cymysg@
+@mixture@|@cymsygedd@
+@mode@|@dull@
+@modern@|@diweddar@
+@moisten@|@gwlychu@
+@moisture@|@gwlybaniaeth, gwlybwr@
+@molten@|@tawdd@
+@moment@|@ennyd@
+@Monday@|@Llun@
+@money@|@arian, da, pres@
+@monkey@|@simach@
+@month@|@mis@
+@moods@|@hwyliau@
+@moor@|@rhos@
+@moorland@|@rhostir@
+@moral@|@moesol@
+@morality@|@moes@
+@more@|@rhagor@
+@more intense@|@yn ddwysach@
+@morning@|@bore@
+@morose@|@dreng@
+@most beautiful@|@hardda@
+@most part@|@rhan helaeth@
+@most sober@|@sobraf@
+@mostly@|@gan amla, gan fwya@
+@motivate@|@symbylu@
+@motivation@|@cymhelliant@
+@motives@|@cymhellion@
+@mould@|@pridd@
+@mountain@|@mynydd@
+@mouth@|@ceg, mant, pen, safn@
+@move@|@symud@
+@movement@|@mudiad@
+@much@|@yn fawr@
+@mud@|@llaid@
+@muddler@|@codlwr@
+@mule@|@mul@
+@mullet@|@hyrddyn@
+@multi-storey@|@aml-lawr@
+@mum@|@mam@
+@mumble@|@mwmial@
+@mumps@|@pensach@
+@murder@|@llofruddiaeth@
+@murderer@|@llofrudd@
+@muscles@|@cyhyrau@
+@museum@|@amgueddfa, amguedffa@
+@music@|@cerddoriaeth, miwsig@
+@must@|@rhaid@
+@muzzle@|@pennor@
+@myriad@|@myrdd@
+@nail@|@ewin@
+@naive@|@naif@
+@name@|@enw, enw, enwi@
+@namely@|@sef, sef@
+@nape of the neck@|@gwar@
+@narrator@|@adroddwr@
+@narrow@|@cul@
+@narrow-minded@|@cul@
+@nation@|@cenedl@
+@national@|@cenedlaethol@
+@nationalist@|@cenedlaetholwr@
+@nationalists@|@cenedlaetholwyr@
+@native@|@brodor, cartrefig@
+@natural@|@cynhenid@
+@near@|@agos, ar bwys, ger@
+@nearer@|@nes@
+@nearly@|@bron, bron, bron â@
+@necessary@|@anghenrheidiol, gofynnol@
+@need@|@angen@
+@needless@|@diachos@
+@negative@|@nacol@
+@neighbour@|@cymydog@
+@neighbours@|@cymdogion@
+@neither@|@na@
+@neither before nor after@|@na chynt nac wedyn@
+@nephews@|@neiod@
+@nerve@|@nerf@
+@nest@|@nyth@
+@net@|@rhwyd@
+@never again@|@byth eto@
+@never mind@|@na hidiwch@
+@nevertheless@|@serch hynny@
+@new@|@newydd@
+@news@|@newyddion@
+@next@|@nesaf@
+@next to nothing@|@nesaf peth@
+@nicely@|@yn dwt@
+@niece@|@nith@
+@nieces@|@nithoedd@
+@night@|@nos, noson@
+@nightingale@|@eos@
+@nightmare@|@hunllef@
+@nimble@|@sionc, ysgut@
+@nimbleness@|@sioncrwydd@
+@nine@|@naw@
+@nineteen@|@pedawr ar bymtheg@
+@ninth@|@nawfed@
+@ninty@|@nawdeg@
+@no matter@|@dim gwahaniaeth@
+@no one@|@neb@
+@nobility@|@bonedd, boneddigion@
+@noble@|@mawreddog, urddasol@
+@nod@|@amnaid@
+@noise@|@s^wn, trwst, trwyn, twrw@
+@nominal@|@enwol@
+@nominate@|@enwebu@
+@nomination@|@enwad, enwebiad@
+@nominative@|@enwol@
+@nonesense@|@codl@
+@nonsense@|@dwli, sothach, twt lol@
+@north@|@gogledd@
+@northener@|@gogleddwr@
+@northern@|@gogleddol@
+@nostrils@|@ffroenau@
+@not much@|@dim gwerth@
+@not only@|@nid yn unig@
+@not to do@|@peidio, peidio@
+@not yet@|@dim eto@
+@note@|@nodi, nodiad, nodyn@
+@notes@|@nodau@
+@nothing@|@dim, dim byd@
+@nothing better than@|@yn ddim amgen@
+@notice@|@sylw, sylwi ar@
+@notion@|@tybiant@
+@noun@|@enw, enw@
+@nourish@|@meithrin, meithrin@
+@nourishing@|@maethlon@
+@novel@|@nofel@
+@November@|@Tachwedd@
+@now@|@bellach, nawr, r^wan@
+@now then@|@nawr 'te@
+@nudge@|@pwnad, pwnio@
+@nuisance@|@casbeth, llymbar@
+@number@|@cyfrif, maint, nifer, rhif@
+@numerous@|@cryn, niferus@
+@nurse@|@mamaeth, nyrs@
+@nursery@|@meithrin@
+@nurture@|@magu@
+@nuts@|@cnau@
+@oak@|@derw@
+@oak tree@|@derwen@
+@oak trees@|@deri@
+@oar@|@rhwyf@
+@oath@|@llw@
+@obedient@|@ufudd@
+@obey@|@ufuddhau@
+@object@|@diben@
+@objectives@|@nodau@
+@objector@|@gwrthwynebydd@
+@obligation@|@dyled, rhwymedigaeth@
+@oblige@|@gorfodi i@
+@obliged to@|@dyledus@
+@oblivion@|@angof@
+@observant@|@craff@
+@obvious@|@amlwg, eglur@
+@obviously@|@yn amlwg@
+@occasions@|@achlysuron@
+@October@|@Hydref@
+@odd@|@rhyfedd@
+@of course@|@wrth gwrs, wrth reswm@
+@of every kind@|@o bob math@
+@of importance@|@o bwys@
+@of no importance@|@o ddim pwys@
+@of noble lineage@|@ucheldras@
+@of spring@|@gwanwynol@
+@off we go@|@i ffwrdd â ni@
+@Offa's Dyke@|@Clawdd Offa@
+@offend@|@tarfu@
+@offer@|@cynnig, cynnig, taclau@
+@offer to do@|@osio@
+@office@|@swyddfa@
+@official@|@swyddog, swyddogol@
+@offspring@|@epil@
+@often@|@yn aml@
+@oil@|@olew@
+@OK@|@gweddol@
+@old@|@hen@
+@old age@|@henaint, henoed@
+@old man@|@henwr@
+@old mansion@|@henllys@
+@oldness@|@hender@
+@old-womanish@|@gwrachiaidd@
+@omit@|@hepgor@
+@on@|@ar, ar, ymlaen@
+@on any account@|@ar unrhyw gyfrif@
+@on average@|@ar gyfartal@
+@on both sides@|@o'r ddeutu@
+@on his oath@|@ar ei lw@
+@on the borders@|@ar gyrion, ar gyrion@
+@on the edge of@|@ar fin@
+@on the outskirts of@|@ar gyrion@
+@on the point of@|@ar fin@
+@on the point of starving@|@ar newynu@
+@on top of@|@ar ben, ar ben@
+@once@|@ar unwaith, unwaith@
+@once in a while@|@bob hyn a hyn@
+@one@|@un@
+@one hundred and ten@|@can a deg@
+@one needs@|@rhaid wrth@
+@one to the other@|@y naill wrth y llall@
+@only@|@dim ond, unig, yn unig@
+@open@|@agor, agored@
+@open wide@|@led y pen@
+@opinion@|@barn, cyfrif@
+@opportunities@|@cyfleusterau@
+@opportunity@|@cyfle@
+@opposite@|@gyferbyn â@
+@opposition@|@gwrthwynebiad@
+@opposition party@|@gwrthblaid@
+@oppressive@|@llethol@
+@or@|@neu@
+@or not@|@ai peidio@
+@or whether@|@ynteu@
+@orange@|@oren@
+@ordained@|@actiedig@
+@order@|@archeb, archebu, cyfundrefn, cywair, gorchymyn, ordro, trefn, trefn, trefnu@
+@orderly@|@trefnus, trefnus@
+@ordinary@|@cyffredin@
+@organ@|@ermyg@
+@organis@|@cyfundrefnu@
+@organised@|@trefnus@
+@originality@|@gwreddioldeb@
+@other@|@arall@
+@otherwise@|@fel arall@
+@our@|@ein@
+@out of sight@|@o'r golwg@
+@outlaw@|@herwr@
+@outline@|@amlinellu@
+@outside@|@allan, tu allan, tu fas@
+@outside half@|@maswr@
+@outskirts@|@ffiniau@
+@oven@|@ffwrn, pobty, popty@
+@over@|@dros, drossodd@
+@over there@|@acw@
+@overalls@|@ofyrôls@
+@overcome@|@trechu@
+@overseas@|@tramor@
+@owl@|@tylluan@
+@own@|@perchenogi@
+@owner@|@perchen, perchennog@
+@ox@|@bustach, ych@
+@oyster@|@llymarch@
+@pacifist@|@heddychwr@
+@pack@|@pac, pacio@
+@page@|@tudalen@
+@pain@|@gwynio, loes, poen, poeni@
+@painful@|@poenus, tost@
+@painting@|@arlunio@
+@palace@|@blas, palas@
+@palce@|@man@
+@pale@|@llwyd@
+@palm of the hand@|@bos@
+@palm trees@|@palmwydd@
+@pamper@|@maldodi@
+@pampering@|@maldod, moethau@
+@paper@|@papur@
+@paperback@|@clawr papur@
+@paralysis@|@parlys@
+@parchment@|@memrwn@
+@parent@|@rhiant@
+@parents@|@rhieni@
+@park@|@parc@
+@parlaiment@|@senedd@
+@parliamentary@|@seneddol@
+@parlours@|@parlyrau@
+@parsley@|@persli@
+@parsnips@|@pannas@
+@part@|@rhan@
+@particle@|@geiryn@
+@particular@|@penodol@
+@partner@|@partner@
+@partnership@|@partneriaeth@
+@pass@|@pasio@
+@past@|@gorffennol, gorffenol, heibio i, wedi@
+@pasture@|@porfa, poriant@
+@pat@|@pratio@
+@patch@|@clwt@
+@patched@|@clytiog@
+@patchy@|@bratiog, bylchog@
+@path@|@llwybr@
+@patience@|@amynedd@
+@patient@|@amyneddgar, dioddefgar@
+@patriotic@|@gwlatgar@
+@patronage@|@nawdd@
+@pattern@|@patrwm@
+@patterns@|@patrymau@
+@pause@|@saib@
+@pay@|@talu@
+@pay for@|@talu am@
+@payment@|@tâl@
+@peace@|@heddwch, llonydd@
+@peace and quiet@|@distawrwydd, distawrwydd@
+@peaceful@|@heddychlon@
+@peas@|@pys@
+@peat@|@mawn@
+@peat bog@|@mawnog@
+@pebble@|@gro@
+@pedestrian@|@troediwr@
+@penalty@|@cosb, cosb@
+@penguin@|@pengwin@
+@penny@|@ceiniog@
+@people@|@pobl, pobol@
+@pepper@|@pupur@
+@perceive@|@canfod@
+@percentage@|@canran@
+@perch@|@draenogiad@
+@perhaps@|@efallai, hwyrach@
+@period@|@adeg, cyfnod, cyfnod@
+@permission@|@caniatâd@
+@perpetual@|@parhaol@
+@perplexity@|@penbleth@
+@persecution@|@erledigaeth@
+@personal organiser@|@trefniadur@
+@persuade@|@cymell, darbwyllo, perswadio@
+@pertaining to Wales or the Welsh@|@Cymreig@
+@petrified@|@stond@
+@pheasant@|@ffesant@
+@philosophy@|@athroniaeth@
+@picnic@|@picnic@
+@picture@|@darlun, llun@
+@piece@|@darn, pisin@
+@pierc@|@gwanu@
+@pig@|@mochyn@
+@pigeons@|@colomennod@
+@pike@|@penhwyad@
+@pillow@|@clustog, gobennydd@
+@pink@|@pinc@
+@pinnacles@|@pinaclau@
+@pint@|@peint@
+@pirate ship@|@herwlong@
+@pit@|@pwll@
+@pitchfork@|@picfforch@
+@place@|@blas, dodi, lle, lle, safle, taro@
+@plaice@|@lleden@
+@plait@|@plethu@
+@plan@|@amcan, amcan, cynllun@
+@plant@|@planhigyn@
+@plaster@|@plastr@
+@plate@|@plât@
+@platform@|@platfform@
+@play for@|@chwarae am, chwarae dros@
+@play tricks@|@chwarae triciau@
+@player@|@chwaraewr@
+@playful@|@cellweirus@
+@plead@|@crefu@
+@plead for@|@dadlau dros@
+@pleasant@|@anniddan, hyfryd, hyfryd@
+@please@|@os gwelwch yn dda@
+@pleased@|@yn foddhaus@
+@pleasure@|@pleser@
+@plot@|@cynllun@
+@plough@|@aredig@
+@plums@|@eirin@
+@plural@|@llusog@
+@plywood@|@pren haenog@
+@poach@|@herwhela@
+@pocket@|@poced@
+@pod@|@cod@
+@poem@|@cerdd@
+@poet@|@bardd@
+@poetry@|@barddoniaeth@
+@poets@|@beirdd@
+@point@|@blaen, blaen, pwynt, pwynt@
+@policeman@|@heddwas@
+@polished@|@graenus@
+@political@|@gwleidiadol, gwleidyddol@
+@political party@|@plaid@
+@politician@|@gwleidydd, gwleidyddwr@
+@politics@|@gwleidiadaeth, gwleidyddiaeth@
+@pony@|@merlyn@
+@pool@|@pwll@
+@poor@|@gwael, gwantan, tlawd@
+@pope@|@pab@
+@popular@|@poblogaidd@
+@popularize@|@poblogeiddio@
+@population@|@poblogaeth@
+@pork@|@cig moch@
+@porridge@|@uwd@
+@port@|@porth, porthfa@
+@porter@|@porthor@
+@portion@|@cyfran, dogn@
+@portray@|@portreadu@
+@possessions@|@meddiannau@
+@possible@|@posib, posibl@
+@possibly@|@o bosib@
+@post@|@postio, swydd@
+@post office@|@swyddfa bost@
+@postpone@|@gohirio@
+@posture@|@ystum@
+@potatoes@|@tatws@
+@potential@|@potensial@
+@pouch@|@cod@
+@poultry@|@dofednod@
+@pound@|@punt, pwys@
+@pour@|@arllwys, goferu@
+@pout@|@pwdu@
+@poverty@|@tlodi@
+@powder@|@powdr@
+@powe@|@pw^er@
+@power@|@nerth@
+@powerful@|@cadarn, grymus@
+@practise@|@ymarfer@
+@praise@|@canmol, mawl, mawlhau@
+@prank@|@pranc@
+@prawn@|@corgimwch@
+@pray@|@erfyn@
+@pray to@|@gweddïo ar@
+@pray unto@|@gweddio ar@
+@prayer@|@awr, erfyniad@
+@preach@|@pregethu@
+@precious@|@drud, gwerthfawr@
+@precipice@|@dibyn@
+@preface@|@rhagair, rhaglith@
+@prefer@|@gwell gan@
+@preference@|@blaenoriaeth@
+@prefix@|@rhagddodiad@
+@prejudice@|@rhagfarn@
+@prelacy@|@preladiaeth@
+@prelate@|@prelad@
+@preparation@|@darpariaeth@
+@prepare@|@darparu, paratoi@
+@preparers@|@darparwyr@
+@preposition@|@arddodiad@
+@presence@|@presenoldeb@
+@present@|@anrheg, cynrychiol, presennol, present@
+@presentation@|@cyflwyniad@
+@presently@|@maes o law, yn y man@
+@president@|@llywydd@
+@press@|@gwasg@
+@pressure@|@pwysedd@
+@pretend@|@cymryd ar@
+@pretext@|@esgus@
+@prevent@|@atal@
+@price@|@prid, pris@
+@pricipal@|@pennaf@
+@prickle@|@draen@
+@pride@|@balchder@
+@priest@|@offeiriad@
+@primary@|@cynradd@
+@primary school@|@ysgol gynnradd@
+@primeval@|@cynoesol@
+@prince@|@tywysog@
+@princess@|@tywysoges@
+@principles@|@egwyddorion@
+@print@|@argraffu@
+@printer@|@argraffwr, argraffydd@
+@prison@|@carchar@
+@prisoner@|@carcharor@
+@private@|@preifat@
+@privilege@|@braint@
+@prize@|@gwobr@
+@probable@|@tebygol@
+@probably@|@mae´n debyg@
+@problem@|@problem@
+@problems@|@problemau, trafferth@
+@process@|@proses@
+@procreate@|@cenhedlu@
+@procreation@|@epiliad@
+@produce@|@cynhyrchu, cynnyrch@
+@production@|@epiliad@
+@productive@|@cyndfawr, cyndiol@
+@profession@|@galwad@
+@professional@|@galwedigaethol@
+@professor@|@proffeswr@
+@proficiency@|@hyfedredd@
+@profit@|@elw, elwa, ennill, proffid, proffidio@
+@profitable@|@proffidiol@
+@programme@|@rhaglen@
+@progress@|@cynnydd@
+@prolific@|@epilgar@
+@prominent@|@blaengar@
+@promise@|@addewid, addo@
+@promising@|@addawol@
+@pronoun@|@rhagenw@
+@pronounce@|@yngannu, ynganu@
+@proofs@|@profion@
+@proper place@|@priod le@
+@property@|@eiddo@
+@proposal@|@cynigiad@
+@propose@|@cynnig@
+@prosecutor@|@erlynydd@
+@prosperous@|@llewyrchus@
+@prostitute@|@putain@
+@protect@|@amddiffyn rhag, noddi@
+@protest@|@gwrthdystiad@
+@proud@|@balch@
+@provoke@|@pryfocio@
+@provoking@|@pryfôc@
+@prowler@|@herwr@
+@prudent@|@pwyllog@
+@psychological@|@seicolegol@
+@psychology@|@seicoleg@
+@pub@|@tafarn@
+@public@|@cyhoedd, cyhoeddus@
+@publicity@|@cyhoeddusrwydd@
+@publish@|@cyhoeddi@
+@publishr@|@cyhoeddwyr@
+@pull@|@tynnu, tynnu@
+@pullover@|@pwlofer@
+@punch@|@pwnio@
+@punctual@|@prydlon@
+@punish@|@cosbi@
+@punishment@|@cosb, cosbedigaeth@
+@punitive@|@cosbol@
+@pupils@|@disgyblion@
+@purchase@|@pryniad@
+@pure@|@coeth, coeth, diledryw, pur@
+@purest@|@glanaf@
+@purgatory@|@purdan@
+@purity@|@puredd@
+@purple@|@cochlas@
+@purpose@|@amcan, arfaeth, bwriad, diben@
+@purr@|@canu grwndi@
+@purse@|@pwrs@
+@pursue@|@erlyn@
+@push@|@hergwd@
+@put@|@dodi, dodi, rhoi, taro@
+@put up with@|@dygymod@
+@quail@|@sofliar@
+@qualification@|@cymhwyster@
+@quality@|@ansawdd@
+@quarrel@|@ffrae, ffraeo@
+@quarter@|@chwarter@
+@queen@|@brenhines@
+@question@|@cwestiwn, gofyniad@
+@question mark@|@holnod@
+@quick@|@cyflym, esgud, ysgut@
+@quiet@|@tawel, tawel, tawelwch@
+@quietness@|@llonydd@
+@quite@|@eithaf@
+@quite a lot@|@cryn tipyn@
+@quite a variety of@|@cryn amrywiaeth@
+@quite heavily@|@yn drwm@
+@quite profitable@|@pur broffidiol@
+@quivering@|@cryndod@
+@quota@|@cyfran@
+@quotation@|@dyfyniad@
+@rabbit@|@cwingen@
+@race@|@hil, ras, rhedegfa@
+@racial@|@hiliol@
+@racist@|@hiliwr@
+@rack@|@rhac@
+@racket@|@mwstwr, raced@
+@radar@|@radar@
+@radical@|@gwreiddiol, rhyddfrydol@
+@radio@|@radio@
+@radioactive@|@ymbelydrol@
+@radioactivity@|@ymbelydredd@
+@radish@|@rhuddygl@
+@radius@|@radiws@
+@raffle@|@raffl@
+@raft@|@rafft@
+@rag@|@rhecsyn@
+@rage@|@dicter, ffyrnigo@
+@rags@|@rhacs@
+@raid@|@herw, herwa@
+@railway@|@rheilffordd@
+@rain@|@glaw@
+@rainy@|@glawog, gwlybyrog@
+@raisin@|@rhesin@
+@rake@|@rhaca, rhacanu@
+@ram@|@maharen@
+@rank@|@safle@
+@ransom@|@pridwerth@
+@rape@|@trais, treisio@
+@rascals@|@taclau@
+@rate@|@cyfradd@
+@rate of interest@|@cyfradd llog@
+@rather@|@yn hytrach@
+@rather than@|@yn hytrach na@
+@ration@|@dogni@
+@rattle@|@clecian, rhuglo@
+@raven@|@brân, brân@
+@ravine@|@ceunant@
+@reach@|@cyrraedd, hercyd@
+@react@|@adweithio@
+@read@|@darllen@
+@ready@|@parod@
+@realise@|@sylweddoli@
+@really@|@wir@
+@reason@|@rheswm@
+@reasonable@|@rhesymol@
+@rebellion@|@gwrthryfel@
+@rebellious@|@gwrthnysig, gwrthryfelgar@
+@rebound@|@adlam@
+@recede@|@cilio@
+@receipt@|@rysait@
+@receive@|@derbyn@
+@receiver@|@derbynnydd@
+@recite@|@adrodd, adrodd@
+@recite to@|@adrodd wrth@
+@reckoning@|@cyfrifiad@
+@recognise@|@adnabu, cydnabod@
+@recognize@|@adnabod@
+@recommend@|@argymell, cymeradwyo@
+@reconcile@|@cymodi@
+@record@|@cofnodi, cofnodi@
+@recovery@|@adferiad@
+@red@|@coch@
+@redden@|@cochi@
+@re-employ@|@ail-gyflogi@
+@refer@|@cyfeirio@
+@refer to@|@cyfeirio at@
+@reference@|@crybwyll@
+@reflect@|@adlewyrchu@
+@reflection@|@adlewyrchiad@
+@refrain from@|@peidio ag@
+@refuse@|@gomedd@
+@region@|@bro@
+@register@|@cofnodi, cofnodi, cofrestr, cofrestrcywair, cofrestru@
+@registrar@|@cofrestrydd@
+@regrettably@|@ysywaeth@
+@regular@|@cyson, cyson@
+@reinforce@|@atgyfnerthu@
+@reinforcing@|@atgyfnerthol@
+@relate@|@adrodd, adrodd, adrodd wrth@
+@relationship@|@perthynas@
+@release@|@gollwng, rhyddhau@
+@relevant@|@perthnasol@
+@relief@|@rhyddhad@
+@religion@|@crefydd@
+@remainder@|@gweddill@
+@remaining@|@ar ôl, ar ôl@
+@remarkable@|@hynod@
+@remember@|@cofio@
+@remember about@|@cofio am@
+@remember to@|@cofio at@
+@remembrance@|@cof, cof@
+@reminiscent@|@atgofus@
+@renounce@|@ymwadu@
+@rent@|@rhentu@
+@repeat@|@ailadrodd@
+@repent@|@edifaru@
+@repentance@|@edifeirwch@
+@report@|@adroddiad, hanes, hanes@
+@represent@|@cynrychioli@
+@representation@|@cynrychiolaeth, cynrychioliad@
+@representatives@|@cynrychiolwyr@
+@reprimand@|@cerydd, ceryddu@
+@reproach@|@testun@
+@request@|@gofyn i@
+@research@|@ymchwil@
+@resemble@|@tebygu@
+@reserved seat@|@sedd gadw@
+@residential@|@preswyl, preswyl@
+@resolved@|@penderfynol@
+@resources@|@adnoddau@
+@resourcesresources@|@adnoddau@
+@respect@|@parch@
+@respectful@|@parchus@
+@responsibility@|@cyfrifoldeb@
+@responsible@|@cyfrifol@
+@rest@|@gorffwys@
+@restaurant@|@t^y bwyta@
+@restless@|@aflonydd@
+@restlessness@|@anesmwythyd@
+@restrain@|@ymatal@
+@result@|@canylniad@
+@results@|@canlyniadau@
+@retreat from@|@cilio rhag@
+@return@|@adfer, ymchwel@
+@revelation@|@datgudd@
+@review@|@adolygu@
+@revise@|@adolygu@
+@revive@|@adfywio@
+@revolution@|@atchwyl, chwyldro@
+@revolutionary@|@chwyldroadol@
+@reward@|@gwobr, gwobrwyo@
+@rewarder@|@gwobrwywr@
+@rheumatism@|@crydcymalau@
+@rhyme@|@odli@
+@rib@|@asen@
+@rich@|@bras, bras, cefnog, codog, cyfoethog@
+@rick@|@tas@
+@riddle@|@pos@
+@ride@|@marchogaeth@
+@ridge@|@esgair@
+@right@|@hawl, y dde@
+@rim@|@cantal@
+@ringed@|@dolennog@
+@rinse@|@strelio@
+@ripe@|@aeddfed@
+@ripen@|@aeddfedu@
+@rise@|@codi, codi, codiad@
+@rising@|@codiad@
+@river@|@afon@
+@river bank@|@torlan@
+@road@|@ffordd, heol@
+@roar@|@rhuo@
+@roast@|@crasu@
+@robber@|@herwr@
+@rock music@|@cerddoriaeth roc@
+@roll@|@corn, powlio@
+@Roman Catholic@|@pabydd@
+@romance@|@rhamant@
+@roof@|@to@
+@room@|@stafell@
+@root@|@gwreiddio, gwreiddyn@
+@rooted@|@gwreiddiol@
+@roots@|@gwraidd@
+@rope@|@rhaff@
+@rose@|@rhosyn@
+@rosy-cheeked@|@gwridog@
+@rot@|@malltod, mallu, pydru@
+@rough@|@anesmwyth, bras, cras@
+@round@|@crwn@
+@rove@|@herwa@
+@row@|@rhes@
+@royal palace@|@brenhindy@
+@rub@|@rhwbio@
+@rubbish@|@sothach@
+@rude@|@di-foes@
+@rugby@|@rygbi@
+@ruin@|@adfail, difwyno@
+@ruins@|@adfeilion@
+@rule@|@dosbarth@
+@ruler@|@llyw@
+@rumour@|@sôn@
+@run@|@rhedeg@
+@run to@|@rhedeg at@
+@runner@|@rhedwr@
+@rush@|@rhuthro@
+@rushes@|@pabwyr@
+@Russian@|@Rwsiad, Rwsieg@
+@rust@|@rhwd@
+@sacrifice@|@aberth, aberthu@
+@sad@|@prudd, trist@
+@safe@|@diogel@
+@said@|@meddai@
+@sail@|@hwylio@
+@sailor@|@morwr@
+@sale@|@gwerthiant@
+@salmon@|@eog, gleisiad, samwn@
+@salt@|@halen@
+@sanctuary@|@lloches@
+@sand@|@tywod@
+@Santa Claus@|@Siôn Corn@
+@satelite@|@lloeren@
+@satellite dish@|@soser lloeren@
+@satisfied@|@bodlon, wedi bodloni@
+@satisfy@|@diwallu@
+@Saturday@|@dydd Sadwrn@
+@sausage@|@selsig@
+@save@|@achub, arbed@
+@save from@|@cadw rhag@
+@say@|@dweud@
+@say grace@|@gofyn bendith@
+@says@|@meddai@
+@scales@|@clorian@
+@scarcely@|@prin@
+@scare@|@tarfu@
+@scarecrow@|@bwgan brain@
+@scatter@|@tarfu@
+@scented@|@aroglus@
+@scents@|@arogleuon@
+@scheme@|@cynllun, dull@
+@scholar@|@ysgolhaig@
+@scholarship@|@ysgoloriaeth@
+@school@|@ysgol, ysgol@
+@scold@|@dwrdio@
+@score@|@sgôr@
+@scorn@|@dirmyg, dirmyg@
+@Scot@|@Albanes, Albanwr@
+@Scots Gaelic@|@Gaeleg yr Alban@
+@scotswoman@|@Albanes@
+@scraps@|@manion@
+@screw@|@sgriw@
+@sea@|@môr@
+@seal@|@morlo, selio@
+@seamstress@|@gwniadwraig, gwniadyddes@
+@search@|@ymchwil@
+@search for@|@chwilio am@
+@season@|@tymor@
+@second@|@ail@
+@second class@|@eilradd@
+@second hand@|@ail law@
+@second-hand@|@ail-law@
+@secret@|@cyfrinach@
+@secretary@|@sgrifenyddes@
+@sectarian@|@enwadol@
+@sectarianism@|@enwadaeth@
+@section@|@adran@
+@sections@|@adrannau@
+@security@|@gwarant@
+@see@|@gweld@
+@seed@|@had@
+@seek@|@ceisio@
+@seek or marry a husband@|@gwra@
+@seek or marry a wife@|@gwreica@
+@select@|@dewis@
+@self esteem@|@hunanbarch@
+@selfish@|@hunanol@
+@self-possession@|@hunanfeddiant@
+@sell@|@gwerthu@
+@send@|@anfon, danfon@
+@send to@|@anfon at, danfon at, hala at@
+@sensation@|@teimlad@
+@sense@|@synhwyro@
+@sensible@|@call, synhwyrol@
+@separate@|@ar wahân, gwahanu@
+@series@|@cyfres@
+@serious@|@difrifol@
+@seriousness@|@difrifwch@
+@sermon@|@pregeth@
+@servant@|@gwas@
+@servile@|@gwasaidd@
+@set on fire@|@goddeithio@
+@set out@|@cychwy@
+@setting@|@lleoliad@
+@settlers@|@gwladychwyr@
+@seven@|@saith@
+@seventeen@|@dau ar bymtheg@
+@seventh@|@seithfed@
+@seventy@|@saithdeg@
+@several@|@amryw@
+@several times@|@droeon@
+@severely@|@yn llym@
+@sew@|@gwnio@
+@sewing@|@gwniad@
+@sex@|@rhyw@
+@shake@|@crynu@
+@shake off@|@ymysgwyd@
+@shallow@|@bas@
+@shame@|@cywilydd, gwaradwydd, gwaradyddo@
+@shape@|@ffurf@
+@shapely@|@lluniaidd@
+@share@|@cyfran, dogn, rhannu, siâr@
+@shark@|@morgi, siarc@
+@sharp@|@miniog@
+@sharpen@|@hogi@
+@shatter@|@chwalu, dryllio@
+@shattered@|@deilchion@
+@shave@|@siafio@
+@she her@|@hi@
+@sheep@|@dafad@
+@shelf@|@silff@
+@shelter@|@cysgodi, noddi@
+@sherrif@|@siryf@
+@shield@|@tarian@
+@shilling@|@swllt@
+@shine@|@sglein@
+@shine on@|@tywynnu ar@
+@shining@|@gloyw@
+@ship@|@llong@
+@shirt@|@crys@
+@shit@|@cacha@
+@shiver@|@crynu@
+@shoot@|@saethu@
+@shop@|@siop@
+@shore@|@glan, traeth@
+@shoulder@|@palfais@
+@shout@|@disgyr, gweiddi@
+@shove@|@hergwd@
+@shovel@|@rhofio@
+@shovelful@|@rhawiaid@
+@show@|@dangos@
+@shower@|@cawod@
+@shrimp@|@perdysen@
+@shrink@|@crebachu@
+@shut@|@cau@
+@shy@|@cywilgor, swil, swil@
+@shyness@|@swilder, yswil@
+@sickle@|@cryman@
+@sickly@|@afiach@
+@side@|@ochr@
+@siege@|@gwarchaeëdigaeth@
+@sieve@|@gogr@
+@sight@|@golwg@
+@sign@|@arwydd@
+@signal@|@amneidio@
+@signature@|@llofnod@
+@significance@|@arwyddocâd@
+@silence@|@dilyn, distawrwydd, distawrwydd, mudandod, rhoi taw ar, taw@
+@silent@|@distaw, tawedog@
+@silky@|@sidanaidd@
+@silly@|@dwl, gwirion, hurt, yn wirion@
+@silver@|@arian@
+@similar@|@cyffelyb@
+@similar to@|@tebyg i@
+@simple@|@syml@
+@sin@|@pechod, pechu@
+@since@|@er, ers@
+@since when@|@ers faint, ers pryd@
+@sincere@|@didwyll, pur@
+@sinew@|@giewyn@
+@sing@|@canu, canu, pyncio@
+@singular@|@unigol@
+@sister@|@chwaer@
+@sisters@|@chwiorydd@
+@sit@|@eistedd@
+@situation@|@sefyllfa@
+@six@|@chwe, chwech@
+@sixteen@|@un ar bymtheg@
+@sixth@|@chweched@
+@sixty@|@chwe deg, chwedeg, trigain@
+@size@|@maint, maintioli@
+@skill@|@medr@
+@skins@|@crwyn@
+@skirt@|@sgert@
+@sky@|@awyr@
+@skyscraper@|@adeilad uchel@
+@slacken@|@llacio@
+@slam@|@clep@
+@slant@|@slont@
+@slap@|@curo, palfod@
+@slaughter@|@lladdedigaeth@
+@slave@|@caethwas@
+@slavery@|@caethwasannaeth@
+@sleep@|@cwsg, cysgu@
+@sleeper@|@cysgwr@
+@sleepily@|@yn gysglyd@
+@sleepy@|@cysglyd@
+@sleet@|@eirlaw@
+@sleeve@|@llawes@
+@slender@|@main@
+@slice@|@sleisen, tafell@
+@slot machine@|@periant slot@
+@slow@|@araf@
+@slow down@|@arafu@
+@slumber@|@hun, huno@
+@slut@|@putain, slwt@
+@sly@|@cyfrwys, dichellgar@
+@small@|@mân@
+@small holders@|@tyddynwyr@
+@small hours@|@bore bach@
+@smaller@|@llai@
+@smear@|@iro@
+@smell@|@aroglau@
+@smile at@|@gwenu ar@
+@smith@|@gof@
+@smudge@|@staen@
+@snake@|@neidr@
+@snare@|@telm@
+@snatch@|@cipio, crafu, haffio@
+@sneeze@|@tisian@
+@snore@|@chwyrnu, rhwnc@
+@snort@|@rhwnc@
+@snow@|@bwrw eira, eira, odi@
+@snowflakes@|@plu eira@
+@snub@|@sen@
+@so@|@fel, felly, mor@
+@so and so@|@hyn a hyn@
+@so confused@|@mor drwblus@
+@so little@|@cynlleied@
+@so well off@|@mor gefnog@
+@soap@|@sabon, sebon@
+@sobbing@|@beichio crio@
+@social@|@cymdeithasol@
+@socialise@|@cymdeithasu@
+@society@|@cymdeithas@
+@-soever@|@bynnag@
+@soft@|@araf, meddal@
+@soften@|@meddalu@
+@soldier@|@milwr@
+@solemn@|@dwys@
+@solemnly@|@yn ddwys@
+@solid@|@solet@
+@solve@|@datrys@
+@some@|@ambell, rhai@
+@some of@|@rhai o@
+@somehow@|@rhyw ffordd@
+@someone@|@rhywun@
+@something@|@rhywbeth@
+@something big@|@hergod@
+@sometime@|@rhywbryd, rywbryd@
+@sometimes@|@ambellwaith, weithiau@
+@somewhat@|@go@
+@somewhere@|@rhywle, rywle, yn rhywle@
+@son@|@mab@
+@son of@|@ab, ap@
+@son-in-law@|@daw@
+@soon@|@cynnar@
+@sore@|@dolur, dolurus, tost@
+@sorrow@|@dolur, gofid@
+@sorry@|@edifar, yn edifar@
+@sort@|@math@
+@soul@|@enaid, enaid@
+@sound@|@sain, smic, sw^n, swnio@
+@soup@|@cawl@
+@sour@|@sur@
+@source@|@tarddiad, tarddle@
+@sourly@|@yn surbwch@
+@sourness@|@surni@
+@south@|@de@
+@southern@|@deheuol@
+@sovereign@|@penllywydd@
+@sow@|@hwch@
+@space@|@gofod@
+@spacious@|@ehang@
+@spare@|@arbed, hepgor@
+@sparkle@|@gwreichioni@
+@sparks@|@gwreichion, gwreichionen@
+@spatial@|@gofodol@
+@speak@|@siarad@
+@speak about@|@siarad am@
+@speak of@|@dweud am@
+@speak to@|@siarad ag@
+@spear@|@gwaywffon, picell@
+@special@|@arbennig@
+@species@|@rhywogaeth@
+@specification@|@manylion@
+@speech@|@araith@
+@speeches@|@anerchiadau@
+@spell@|@sillafu@
+@spend@|@gwario, treulio@
+@Spetember@|@Medi@
+@spider@|@cob, cor@
+@spin@|@nyddu, troelli@
+@spinster@|@hen ferch@
+@spirit@|@ysbryd@
+@spit@|@poeri@
+@spite@|@sbeit@
+@splash@|@tasgu@
+@splendid@|@gwych, rhagorol, ysblennydd@
+@spoil@|@andwyo@
+@sponge@|@ysbwng@
+@spontaneous@|@digymell@
+@spoon@|@llwy@
+@sport@|@chwarae@
+@sports@|@chwaraeon@
+@sports centre@|@canolfan chwaraeon@
+@spot@|@man, smotyn@
+@spread@|@lledu, taenu@
+@spread over@|@hulio@
+@spring@|@gwanwyn@
+@square@|@petryal@
+@squash@|@sboncen@
+@squeak@|@gwichio@
+@squirrel@|@gwiwer@
+@stab@|@gwaniad, gwanu@
+@stable@|@sefydlog, sefydlog@
+@stack@|@helm@
+@stag@|@carw@
+@staight on@|@syth ymlaen@
+@stain@|@staen@
+@stair@|@gris@
+@stake@|@stanc@
+@stall@|@stondin@
+@stalls@|@corau@
+@stamp@|@stamp@
+@stand@|@astell, sefyll, stondin@
+@stand by@|@sefyll wrth@
+@standard@|@safon@
+@standpoint@|@safbwynt@
+@stare@|@rhythu, syllu@
+@starling@|@drudwy@
+@starry@|@serog@
+@start@|@cychwyn, dechrau, rhusio, tasgu@
+@starve@|@llwgu@
+@starving@|@llwgu, llwgu@
+@state@|@gwladwriaeth@
+@statements@|@gosodiadau@
+@station@|@gorsaf, stesion@
+@status@|@safle@
+@stay@|@trigo@
+@steadiness@|@cadernid@
+@steady@|@cadarn, sadio@
+@steam@|@ager@
+@steel@|@dur@
+@steer@|@llywio@
+@steering wheel@|@llyw, olwyn lywio@
+@step@|@cam, cam, gris@
+@stepmother@|@llysfam@
+@steps@|@camau, cerddediad@
+@stereotyped@|@ystrydebol@
+@stethoscope@|@corn@
+@stick@|@glynu, glynu wrth, pric@
+@stick up for you@|@achub dy gam@
+@stile@|@camfa@
+@still@|@llonydd, llonydd, yn dal i, yn stond@
+@stink@|@drewi@
+@stinking@|@drewllyd@
+@stir@|@cyffroi@
+@stitch@|@gwnio@
+@stitching@|@gwniad@
+@stomach@|@stumog@
+@stone@|@carreg@
+@stood@|@safodd@
+@stop@|@aros, atal, peidio, peidio@
+@storehouse@|@stordy@
+@stork@|@storc@
+@story@|@hanes@
+@stout@|@praff@
+@stowage@|@storle@
+@straight@|@cymwys, syth@
+@straighten@|@ymsythu@
+@strain@|@straen@
+@strait@|@culfor, swnt@
+@strange@|@diarth, rhyfedd@
+@stranger@|@dyn dieithr, estron@
+@stream@|@cornant, nant@
+@street@|@stryd@
+@strenghen@|@cryfhau@
+@strength@|@cadernid, cryfder, nerth@
+@strengthen@|@cadarnhau, cryfhau@
+@stretch@|@ymestyn, ymestyn@
+@stride@|@brasgamu@
+@strike@|@bwrw, ergydio@
+@striker@|@ergydiwr@
+@striking@|@trawiadol@
+@strip@|@llain@
+@stroke@|@anwesu, pratio@
+@strong@|@abl, cadarn, cref, cryf, grymus@
+@stronger than@|@yn drech na@
+@stubborn@|@heriog, styfnig@
+@student@|@myfyriwr@
+@studiously@|@yn fyfyrgar@
+@stumble@|@baglan@
+@stun@|@syfrdanu@
+@stunned@|@yn syfrdan@
+@subdue@|@darostwng@
+@subject@|@pwnc@
+@subject of the group@|@testun siarad@
+@subscription@|@tanysgrifiad@
+@subsist@|@gofodoli@
+@substance@|@gafael@
+@subtle@|@cynnil@
+@succeed@|@llwyddo@
+@succeed to@|@olynu@
+@success@|@llwydd, llwyddiant@
+@successful@|@lluwyddiannus@
+@succession@|@olyniaeth@
+@suddenly@|@yn sydyn@
+@suffering@|@dioddefaint@
+@sufficient@|@digonol@
+@sugar@|@siwgr@
+@suggest@|@awgrymu@
+@suggestion@|@awgrym@
+@suicide@|@hunanladdiad@
+@suit@|@gweddu@
+@suitability@|@cymhwyster@
+@suitable@|@addas, cymwys, pwrpasol@
+@suitably@|@yn weddus@
+@sulk@|@sorri@
+@sullen@|@dreng, swrth@
+@sullenly@|@yn swrth@
+@sultry@|@myglyd@
+@summer@|@haf@
+@summit@|@blaen, blaen, copa@
+@summons@|@dyfyn@
+@sumpathy@|@cydymdeimlad@
+@sun@|@haul@
+@sunbathe@|@bola heulio@
+@sunny@|@tesog@
+@sunset@|@machlud@
+@superficial@|@arwynebol@
+@superior@|@trech@
+@superior to@|@yn drech na@
+@supermarket@|@archfarchnad@
+@superstitious@|@ofergoelus@
+@suport@|@cynnal@
+@supper@|@ancwyn, ancwyn, swper@
+@supplementary@|@atodol@
+@supply@|@diwallu@
+@support@|@ategu, atgyfnerthu, cefnogaeth, cefnogaeth, cefnogi, cynhaliad, cynnal, pleidio@
+@supporter@|@cefnogwr, pleidiwr@
+@supporting@|@cynhaliol@
+@sure@|@dilys, sicr, siw^r, siwr, yn sicr@
+@surface@|@wyneb@
+@surname@|@cyfenw, syrnâm@
+@surprise@|@syndod, synnu, synnu@
+@surroundings@|@amgylchedd@
+@survey@|@arolwg@
+@suspect@|@drwgdybio@
+@suspicion@|@amheuaeth, drwgdybiaeth@
+@suspicious@|@drwgdybus@
+@swan@|@alarch@
+@swans@|@elyrch@
+@swear@|@rhegi@
+@swear and curse@|@rhegi a thyngu@
+@sweat@|@chwys@
+@sweet@|@melys@
+@swim@|@nofio@
+@swimmer@|@nofiwr@
+@swimming pool@|@pwll nofio@
+@swollen@|@chwyddedig@
+@sympathy@|@cydymdeimlad@
+@system@|@cyfundrefn, trefn@
+@table@|@bwrdd, bwrdd@
+@table tennis@|@tenis bwrdd@
+@tactical@|@tactegol@
+@tail@|@cynffon@
+@tailor@|@dilledydd, teiliwr, teilwra@
+@take@|@cymryd, dwyn, dwyn at, mynd ag@
+@take advantage@|@manteisio@
+@take advantage of@|@cymryd mantais ar, manteisio ar@
+@take off@|@tynnu, tynnu@
+@take pictures@|@tynnu lluniau@
+@tale@|@chwedl@
+@talent@|@dawn@
+@talk@|@anerchiad, siarad, sôn@
+@talkative@|@siaradus@
+@tall@|@tal@
+@tame@|@dof@
+@tannery@|@tanerdy@
+@tape@|@teip@
+@tape recorder@|@recordydd tâp@
+@tarry@|@tario@
+@taste@|@blas, chwaeth@
+@tattle@|@clebar@
+@tax@|@tasg, tasgu, treth@
+@taxi@|@tacsi@
+@tea@|@te@
+@teach@|@addysgu, dysgu, dysgu@
+@teacher@|@athro@
+@teachers@|@athrawon@
+@team@|@tim@
+@teapot@|@tebot@
+@tear@|@deigryn, rhwygo@
+@tears@|@dagrau@
+@technique@|@techneg@
+@tedious@|@maith@
+@teetotaller@|@dirwestwr@
+@telephone@|@ffôn@
+@television@|@teledu@
+@tell@|@dweud wrth@
+@temper@|@tymer@
+@temple@|@teml@
+@tempt@|@temtio@
+@ten@|@deg@
+@tenacious@|@gwydn@
+@tenant@|@tenant@
+@tench@|@tens@
+@tend@|@tendio, tueddu@
+@tendency@|@elfen@
+@tender@|@tyneraf@
+@tenderness@|@anwyldeb@
+@tennis@|@tenis@
+@tension@|@tyndra@
+@tent@|@pabell@
+@tenth@|@degfed@
+@tents@|@pebyll@
+@term@|@teler, tymor, tymor@
+@terms@|@amod, telerau@
+@terrible@|@ofnadwy@
+@terrible pity@|@hen biti@
+@territory@|@tiriogaeth@
+@testify@|@tystio, tystio@
+@testimonials@|@tystebau@
+@text@|@testun@
+@thank@|@diolch@
+@thank goodness@|@diolch bych@
+@thank greatly@|@diolch yn fawr@
+@thanks@|@diolch, diolch@
+@that@|@hynny, taw@
+@that is@|@hynny yw, sef, sef@
+@thatched roof@|@to gwellt@
+@thaw@|@dadmer@
+@the inevitable@|@yn ancohel@
+@the left@|@y chwith@
+@the one .... the other@|@y naill .... y llall@
+@the other one@|@y llall@
+@the other ones@|@y lleill@
+@the public@|@y cyhoedd@
+@the rascal@|@y cenau@
+@theatre@|@theatr@
+@their@|@eu@
+@then@|@wedyn@
+@then again@|@eto i gyd@
+@there@|@yna@
+@there are@|@dyna, oes@
+@there is@|@dacw, dyna, dyna, oes@
+@there is no sight of@|@does dim golwg o@
+@thermometer@|@gwresfesurydd@
+@these@|@y rhain@
+@these days@|@erbyn hyn@
+@thick@|@bras, praff@
+@thimble@|@gwniadur@
+@thin@|@tenau@
+@thing@|@peth@
+@think@|@credu, credu, meddwl, tebygu@
+@think about@|@meddwl am@
+@third@|@trydydd@
+@thirst@|@syched@
+@thirteen@|@tair o ddeg, tri ar ddeg@
+@thirty@|@trideg@
+@thirty one@|@un ar ddeg ar hugain@
+@thirty two@|@deuddeg ar hugain@
+@this@|@hwn@
+@this year@|@eleni@
+@thorn@|@draen@
+@thorny@|@dreiniog@
+@thoroughly@|@yn drylwyr@
+@those@|@y rheiny@
+@thoughtful@|@meddylgar@
+@thousand@|@mil@
+@thousandth@|@milfed@
+@thread@|@edau@
+@threadbare@|@hendraul@
+@threat@|@bygythiad@
+@threaten@|@bygwth@
+@threateningly@|@yn fygythiol@
+@three@|@tri@
+@three hundred@|@tri chant@
+@thresh@|@dyrnu@
+@threshold@|@trothwy@
+@threshold level@|@y lefel drothwy@
+@thrilling@|@trydanol@
+@thrity@|@deg ar hugain@
+@throb@|@curiad@
+@throne@|@gorsedd@
+@through@|@drwy, trwy@
+@throughout@|@drwy gydol, trwy gydol@
+@throw@|@bwrw, ergydio@
+@throw away@|@tafly@
+@thrust@|@gwaniad, gwthio, hergwd@
+@thumb@|@bawd@
+@thump@|@dyrnu@
+@thunder@|@taranu@
+@thunderbolt@|@mellten, taranfollt@
+@thundering@|@yn taranu@
+@ticket@|@tocyn@
+@tickle@|@gogleisio@
+@tidy@|@taclus@
+@tidy up@|@tacluso@
+@tie@|@rhwymo, tei@
+@tiger@|@teigr@
+@tile@|@priddlech@
+@till when@|@tan pryd@
+@timber@|@pren@
+@time@|@adeg, amser, oed, pryd, pryd@
+@time after time@|@dro ar ôl tro@
+@timetable@|@amserlen@
+@timid@|@llwyfr@
+@tin@|@tun@
+@tinful@|@tuned@
+@tired@|@blin, blinedig, lluddedig, wedi blino@
+@tiresome@|@diflas@
+@title@|@teitl@
+@to@|@ar@
+@to a great extent@|@i fesur helaeth iawn@
+@to attempt it@|@rhoi cynnig arni@
+@to be able to@|@gallu@
+@to blame@|@ar fai@
+@to shop@|@siopa@
+@to tell the truth@|@a dweud y gwir@
+@to time@|@amseru@
+@to use@|@arfer@
+@tobacco@|@baco@
+@today@|@heddiw@
+@together@|@gyda'i gilydd@
+@toilet@|@t^y bach@
+@tom-cat@|@gwrcath@
+@tomorrow@|@yfory@
+@tomorrow morning@|@bore fory@
+@tongue@|@tafod@
+@tonight@|@heno@
+@too@|@rhy@
+@too many@|@gormod o@
+@tools@|@offer@
+@tooth@|@dant@
+@toothache@|@ddannodd@
+@toothless@|@mantach@
+@top@|@copa, pen@
+@torch@|@ffagl@
+@torrent@|@cenlli@
+@tortuous@|@arteithiol@
+@torture@|@artaith@
+@tot@|@joch@
+@total@|@cwbl, cyfan@
+@touch@|@cyffwrdd ag, teimlo, twtsh@
+@touchy@|@pigog, yn bigog@
+@tough@|@gwydn@
+@toward@|@at@
+@towards@|@tua, tua@
+@tower@|@tw^r@
+@town@|@tre@
+@town centre@|@cano y dre@
+@toy@|@tegan@
+@tradition@|@traddodiad@
+@traffic@|@traffig, trafnidiaeth@
+@trail@|@trywydd@
+@train@|@trên@
+@traitor@|@bradwr@
+@traits@|@teithi@
+@trample@|@mathru, sathru@
+@trampling@|@mathrfa@
+@transfer@|@trosglwyddo@
+@translate@|@cyfieithu, trosi@
+@translator@|@cyfieithydd@
+@translators@|@cyfieithwyr@
+@travel@|@teithio@
+@traveller@|@teithiwr@
+@travelling@|@teithiol@
+@tray@|@hambwrdd@
+@tread@|@sangu@
+@treasure@|@trysori@
+@treasurer@|@trysorydd@
+@treat@|@trin@
+@treaty@|@cytundeb@
+@trees@|@coed, coed@
+@trembling@|@cryndod, crynedig@
+@tremendous@|@aruthr, aruthrol@
+@tribe@|@llwyth, llwyth@
+@tributary@|@rhagafon@
+@trick@|@tric@
+@trickle@|@treiglio@
+@trifles@|@ceriach@
+@trip@|@bachu, baglan, baglu, tripio@
+@trolley@|@troli@
+@troop@|@mintai@
+@trouble@|@cynhyrfu@
+@trout@|@brithyll@
+@trust@|@goglyd, ymddiried@
+@try@|@anelu, cais, cais, ceisio, cynnig, trio@
+@tuft@|@cob@
+@tune@|@cywair@
+@tunnel@|@twnnel@
+@turn@|@dro, tro, troi, trosi@
+@turn a deaf ear to@|@troi clust fyddar@
+@turn into@|@troi yn@
+@turn on@|@troi ymlaen@
+@turn sour@|@suro@
+@turn to@|@troi at@
+@turning point@|@trobwynt@
+@turnip@|@maip, meipen@
+@turns@|@trofeydd@
+@twelve@|@deuddeg, undeg dau@
+@twenty@|@dau ddeg, dauddeg, ugain@
+@twenty one@|@un ar hugain@
+@twenty two@|@dau ar hugain@
+@twice@|@dwywaith@
+@twigs@|@brigau@
+@twilight@|@gwyll@
+@twist@|@dirwyn, nyddu@
+@two@|@dau, dwy@
+@two hundred@|@dau gant@
+@type@|@rhywogaeth@
+@typewriter@|@teipiedydd@
+@typist@|@teipydd@
+@tyre@|@teiar@
+@ugliest@|@anharddaf@
+@ugly@|@hagr@
+@ultimately@|@yn y pen draw@
+@umbrella@|@glawlen@
+@unaccented@|@diacen@
+@unbearable@|@annioddefol@
+@unbelievable@|@anghredadwy@
+@uncivilised@|@anwar@
+@uncle@|@ewythr@
+@uncomfortable@|@anesmwyth, anghfforddus@
+@unconcerned@|@yn ddidaro@
+@unconscious@|@anymwybodol@
+@under@|@dan@
+@under care@|@dan ofal@
+@underground@|@tanddaear@
+@underhand@|@llechwraidd@
+@underline@|@tanlinellu@
+@understand@|@deall@
+@understanding@|@dealltwriaeth@
+@undo@|@datod@
+@unequalled@|@dihafal@
+@uneven@|@anwastad@
+@unexpected@|@annisgwyl@
+@unfair@|@annheg@
+@unfaithful@|@anffyddlon@
+@unfamiliar@|@anghyfarwydd@
+@unfortunate@|@anffodus@
+@unfortunately@|@gwaetha´r modd, yn anffodus@
+@ungrateful@|@anniolchgar@
+@unhappy@|@anhapus@
+@union@|@undeb@
+@united@|@cyd, unideg@
+@university@|@prifysgol@
+@unjust@|@anghyfiawn@
+@unjustly@|@ar gam@
+@unlike@|@annhebyg@
+@unlikely@|@annhebyg, annhebygol@
+@unlucky@|@anlwcus@
+@unnatural@|@annaturiol@
+@unpack@|@dadbacio@
+@unpopular@|@amhoblogaidd@
+@unreal@|@afreal@
+@unreasonable@|@afresymol@
+@unreasonably@|@yn afresymol@
+@unsafe@|@anniogel@
+@unstable@|@anwadal@
+@unsuccessful@|@aflwyddiannus@
+@unsure@|@ansicr@
+@untidy@|@annhalcus, anniben@
+@until@|@hyd, nes i, tan@
+@untiring@|@diflin@
+@unusual@|@anarferol@
+@unwell@|@anhwylus@
+@unwillingly@|@yn afodlon@
+@unwise@|@annoeth@
+@unwisely@|@yn annoeth@
+@unworthy@|@annheilwng@
+@up@|@i fyny@
+@up till now@|@hyd yn hyn@
+@upon@|@ar warthaf@
+@upside down@|@wyneb i waered@
+@upstairs@|@lan y grisiau@
+@urban@|@trefol@
+@urge@|@annog@
+@urging@|@annog@
+@us@|@ni, ni@
+@USA@|@Unol Daleithiau@
+@use@|@defnyddio@
+@useless@|@da i ddim@
+@users@|@defnyddwyr@
+@uses@|@defnydd@
+@usual@|@arferol@
+@usually@|@fel arfer@
+@utter@|@yngan@
+@vain@|@maswaidd, ofer@
+@valley@|@cwm, dyffryn, glyn, pant@
+@valour@|@gwrhydri@
+@value@|@gwerth@
+@vanity@|@gwagedd@
+@various@|@amrywiol@
+@varnish@|@farnais, farneisio@
+@vary@|@amrywio@
+@vehicle@|@cerbyd@
+@veins@|@gwythiennau@
+@vengeance@|@dial@
+@venture@|@antur, mentro@
+@verb@|@berf@
+@vermin@|@pryf@
+@vernal@|@gwanwynol@
+@verse@|@adnod@
+@very@|@eithaf, pur, pur@
+@very much@|@yn braf@
+@very sound@|@yn o sownd@
+@vicarage@|@ficerdy@
+@vice@|@feis@
+@victory@|@buddugoliaeth@
+@video recorder@|@recordydd fideo@
+@view@|@cyfrif@
+@village@|@pentre@
+@villainous@|@ysceler@
+@vinegar@|@finegr@
+@viola@|@fiola@
+@violate@|@treisio@
+@violence@|@trais, trawster@
+@violet@|@fioled@
+@virus@|@firws@
+@visible@|@amlwg, gwledadwy@
+@vision@|@gweledigaeth@
+@visit@|@ymweld â@
+@visitor@|@ymwelydd@
+@vocabulary@|@geirfa@
+@vocation@|@galwad@
+@voice@|@llais, llef@
+@volunteer@|@gwirfoddoli@
+@voracity@|@gwanc@
+@vote@|@fotio, pleidlais, pleidleisio@
+@vow@|@ymdynghedu@
+@vulture@|@fwltur@
+@waggon@|@gwagen@
+@wailing@|@dolefus@
+@wait@|@aros@
+@wait for@|@aros am@
+@wake up@|@deffro@
+@Wales@|@Cymru@
+@walk@|@cerdded, cerddediad, dro, rhodio, troedio@
+@wall@|@caer, mur, wal@
+@wander@|@crwydro@
+@wandering@|@herw@
+@want@|@eisiau@
+@war@|@rhyfel@
+@war band@|@teulu@
+@war cry@|@rhyfelgri@
+@warble@|@telori@
+@ward@|@gward@
+@warden@|@gwarden@
+@wardenship@|@gwardeiniaeth@
+@warm@|@cynnes, gwresog, gwresogi@
+@warmth@|@gwres@
+@warning@|@rhybudd@
+@warrant@|@gwarant, gwarantu@
+@wary@|@pwyllog@
+@wash@|@golchi@
+@wash oneself@|@ymolchi, ymolchi@
+@washing machine@|@peiriant golchi@
+@watch@|@gwylio, wats@
+@watch out@|@pwylla@
+@water@|@dw^r, dw^rtent, dyfrio@
+@waterfall@|@rhaeadr@
+@waters@|@dyfroedd@
+@wave@|@morfil, ton@
+@wavelength@|@tonfedd@
+@waver@|@gwamalu@
+@way@|@ffordd, ffordd@
+@we@|@ni, ni@
+@weak@|@gwan, gwannaidd@
+@weaken@|@gwanhau@
+@weakening@|@gwanhaol, gwanychiad@
+@weakness@|@gwanrwydd, gwendid@
+@wealth@|@cyfoeth@
+@weapon@|@arf, erfyn@
+@wear@|@arwain, traul@
+@weary@|@lluddedig@
+@weasel@|@gwenci@
+@weather@|@tywydd@
+@website@|@safle ar y we@
+@wedding@|@priodas@
+@wedge@|@lletem@
+@Wednesday@|@Mercher@
+@week@|@wythnos@
+@weigh@|@mantoli, pwyso@
+@weight@|@pwys, pwys, pwysedd@
+@weird@|@rhyfedd@
+@welcome@|@croesawu, croeso@
+@weld@|@weldio@
+@well@|@da, yn dda@
+@Welsh@|@Cymraeg@
+@Welsh people@|@cymry, Cymry@
+@were it not@|@onibai@
+@were it not for@|@onibai am@
+@west@|@gorllewin@
+@western@|@gorllewinol@
+@wet@|@gwlyb, gwlybaniaeth, gwlybwr, gwlybyrog, gwlych, gwlychu@
+@whale@|@morfil, morfil@
+@what@|@beth@
+@what about@|@beth am@
+@what for@|@i beth@
+@wheelbrace@|@troellwr@
+@when@|@pan, pryd, pryd@
+@where@|@ble, lle, lle@
+@wherever he wished@|@lle mynnai@
+@whether@|@ai, pa un@
+@whey@|@maidd@
+@which@|@pa@
+@while@|@dro, tra, wrth@
+@whirl@|@chwyrnellu@
+@whisper@|@sibrwd, sibrydent@
+@whistle@|@chwibanu@
+@white@|@gwyn@
+@whizz@|@chwyrnellu@
+@who@|@pwy@
+@whole@|@cyfan@
+@whore@|@putain@
+@why@|@pam@
+@wicked@|@ysceler@
+@wide@|@eang, eang@
+@width@|@lled@
+@wild@|@anwar, gwyllt@
+@will@|@ewyllys@
+@win@|@ennill, ennill@
+@wind@|@dirwyn, dolennu, gwynt@
+@wine@|@gwin@
+@wing@|@adain, aden@
+@winger@|@asgellwr@
+@wink@|@amrantiad@
+@winter@|@hendrefu@
+@winter dwelling@|@hendref@
+@wipe out@|@difodi@
+@wisdom@|@doethineb@
+@wise@|@call, doeth@
+@wiser@|@callach@
+@wish@|@dymuna, dymuno@
+@wish for@|@dymuno, dymuno@
+@wishful thinking@|@breuddwyd gwrach@
+@witch.@|@gwrach@
+@witchcraft@|@dewiniaeth@
+@with@|@â, â, gan@
+@with a slam@|@â chlep@
+@with a sweet voice@|@melyslais@
+@with admiration@|@gan edmygedd@
+@with amazement@|@gan syndod@
+@with one blow@|@ar un ergyd@
+@with pleasure@|@â chroeso@
+@withered@|@crin@
+@within@|@ymhen@
+@without@|@heb@
+@without a doubt@|@heb os nac onibai, yn ddi os@
+@without mercy@|@didrugaredd@
+@without problems@|@didrafferth@
+@without warning@|@dirybudd@
+@withstand@|@gwrthsefyll@
+@witness@|@tystio, tystio@
+@witnesses@|@tystion@
+@witticism@|@clyfreb@
+@witty@|@ffraeth@
+@wizard@|@dewin, swynwr@
+@wolf@|@blaidd@
+@woman@|@dynes, gwraig@
+@womanish@|@gwreigaidd@
+@womanly@|@gwreigaidd@
+@women@|@gwragedd@
+@wonder@|@rhyfeddu@
+@wonderful@|@aruthr, aruthrol, bendigedig, rhyfeddol@
+@wood@|@coed, coed, pren@
+@woody@|@prennaidd@
+@wool@|@gwlân@
+@woolly@|@gwlanog@
+@word@|@gair@
+@words of advice@|@cynghorion@
+@work@|@gwaith@
+@worker@|@gweithiwr@
+@workshop@|@gweithle@
+@world@|@byd@
+@world of good@|@byd o les@
+@worm@|@pryf@
+@worry@|@poeni, poeni@
+@worse@|@gwaeth@
+@worship@|@addoli, addoliad@
+@worst@|@gwaetha@
+@worth@|@gwerth, gwerth@
+@worth while@|@gwerth wheil@
+@worthy@|@teilwng@
+@wrestle@|@codymu@
+@wrist@|@arddwrn, garddwrn@
+@write@|@ysgrifennu@
+@write to@|@ysgrifennu at@
+@writhe@|@gwingo@
+@wrong@|@anghywir, gwneud cam, o chwith@
+@wrongly@|@ar gam@
+@yard@|@y gadlas@
+@year@|@blwydd, blwyddyn@
+@yearly@|@blynyddol@
+@yearn for@|@dyheu am@
+@yellow@|@melyn@
+@yet@|@eto@
+@yew@|@ywen@
+@yield@|@cynnyrch, gildio, ildio@
+@yonder@|@draw@
+@you@|@chi, tithau@
+@you know@|@timod, wyddoch chi, wyddost ti@
+@you'd be surprised@|@fe synnet@
+@your@|@dy, eich@
+@youth@|@llanc@
+@zest@|@blas@
+

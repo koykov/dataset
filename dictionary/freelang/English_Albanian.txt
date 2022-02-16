@@ -1,0 +1,3212 @@
+@English@|@Albanian@
+@Author name@|@Emiliano Jonuzi@
+@Font@|@Arial\12\Arial\12@
+@a few@|@ca, disa@
+@a little@|@një çikë@
+@a long time along@|@gjatë@
+@abandon@|@lë@
+@abandonment@|@braktisje@
+@abbey@|@kishë@
+@abbreviation@|@shkurtim@
+@ability@|@aftësi, prirje@
+@able@|@zoti (i)@
+@abolish@|@anulloj@
+@about@|@nja, për@
+@above@|@sipër@
+@abroad@|@jashtë vendit@
+@absorb@|@thith@
+@accent@|@theks@
+@accept@|@pranoj@
+@accompaniment@|@shoqërim@
+@accompany@|@përcjell, shoqëroj@
+@accomplish@|@kryej@
+@according@|@duke marrë parasysh, sipas@
+@according to@|@sipas@
+@account@|@llogari@
+@accross@|@nëpërmes@
+@accursed@|@mallkuar (i)@
+@ache@|@më dhemb@
+@achievement@|@arritje@
+@acorn@|@gogël@
+@act@|@bëmë, loz, luaj, vepër@
+@action@|@veprim@
+@add@|@shtoj@
+@adjacent@|@afërt (i)@
+@adjective@|@mbiemër@
+@adjust@|@përshtat@
+@admire@|@admiroj@
+@admit@|@lejoj@
+@adopt@|@përshtat@
+@adult@|@rritur (i)@
+@adversity@|@bela@
+@advertisment@|@reklamë@
+@advise@|@këshilloj@
+@advocate@|@avokat@
+@after@|@mbas, pas@
+@after a while@|@pas pak@
+@after all@|@fundja@
+@afterwards@|@pastaj@
+@aftësi@|@ability@
+@again@|@përsëri, prapë, sërisht@
+@against@|@kundër@
+@aged@|@moshuar (i)@
+@agricultural@|@bujqësor@
+@ahead@|@përballë@
+@air@|@ajros@
+@airport@|@aeroport@
+@alarm@|@kushtrim@
+@alas@|@medet@
+@Albanian@|@shqiptar@
+@albanologist@|@albanolog@
+@alike@|@të ngjashme@
+@alive@|@gjallë (i)@
+@all@|@të gjitha, të gjithë@
+@all around@|@rreth e rrotull@
+@alleviated@|@lehtësuar (i)@
+@allowance@|@bursë@
+@almost@|@pothuajse@
+@alone@|@vetëm, vetëm (i)@
+@along@|@buzë@
+@alpine@|@alpin@
+@already@|@pothuajse, tashmë@
+@also@|@gjithashtu@
+@although@|@ndonëse@
+@always@|@kudoherë@
+@American@|@amerikan@
+@amidst@|@midis@
+@among@|@midis, ndër@
+@amphitheatre@|@amfiteatër@
+@amuse oneself@|@argëtohem@
+@ancient@|@hershëm (i), lashtë (i)@
+@and@|@dhe, edhe@
+@and so@|@prandaj@
+@anew@|@sërisht@
+@angle@|@cep@
+@animal@|@kafshë@
+@animate being@|@frymor@
+@announce@|@lajmëroj@
+@anonym@|@anonim@
+@answer@|@përgjigjem@
+@ant@|@milingonë@
+@antique@|@antik@
+@antiquity@|@antikitet@
+@any@|@ndonjë@
+@any time@|@kudoherë@
+@apartament@|@apartament@
+@apls@|@alpe@
+@apocalypse@|@kiamet@
+@appeal@|@thirrje@
+@applaud@|@brohoras@
+@apple@|@mollë@
+@application@|@zbatim@
+@apply@|@zbatoj@
+@appreciate@|@çmoj@
+@approach@|@afrohem, qasem, qasje@
+@approve@|@aprovoj@
+@April@|@prill@
+@apron@|@mësallë@
+@apt@|@goditur (i)@
+@Arabian@|@arab@
+@archaeological@|@arkeologjik@
+@archer@|@harkëtar@
+@architectural@|@arkitekturor@
+@architecture@|@arkitekturë@
+@area@|@sipërfaqe@
+@arena@|@arenë@
+@argiculture@|@bujqësi@
+@arm@|@krah@
+@armchair@|@kolltuk@
+@armpit@|@sqetull@
+@aroma@|@aromë@
+@around@|@përreth, rreth e rrotull, rrotull@
+@arrive@|@arrij@
+@art@|@art@
+@artisan@|@artizan@
+@artistic@|@artistik@
+@artist's brush@|@penel@
+@artizan@|@zejtar@
+@as@|@ashtu si, sa, si@
+@as far as@|@deri në@
+@as long@|@sa@
+@as long as@|@derisa@
+@as much@|@sa@
+@as soon as@|@sapo@
+@as soon as possible@|@një orë e më parë@
+@as well@|@si (e)dhe@
+@ashe@|@hiri@
+@ask@|@pyes@
+@asleep@|@fjetur (i)@
+@aspectual@|@aspektiv@
+@ass@|@bythë@
+@assault@|@sulm@
+@assemble@|@mblidhem@
+@asshole@|@shkërdhatë@
+@assure@|@siguroj@
+@astonished@|@çuditur (i), habitur (i)@
+@astonishment@|@habi@
+@at@|@te/k@
+@at least@|@të paktën@
+@at once@|@menjëherë@
+@at one time@|@dikur@
+@attack@|@sulm@
+@attempt@|@orvajtje, përpiqem, përpjekje@
+@attend@|@kujdesem@
+@attendent@|@shërbyes@
+@attention@|@kujdes, vëmendje@
+@attention!@|@vini re!@
+@attitude@|@qasje@
+@attractive@|@tërheqës@
+@August@|@gusht@
+@aunt (mother's sister)@|@teze@
+@authority@|@pushtet@
+@autumn@|@vjeshtë@
+@autumnal@|@vjeshtëror@
+@avalanche@|@ortek@
+@average@|@mesatar@
+@away@|@përlaj, tej@
+@away from@|@larg@
+@awe@|@frikë@
+@awkward@|@ngathët (i)@
+@axe@|@sëpatë@
+@axis@|@bosht@
+@axle@|@bosht@
+@baby@|@foshnjë@
+@back@|@kurriz, mbrapsht, prapa, shpinë@
+@background@|@sfond@
+@backwards@|@prapa@
+@bacon@|@pastërma@
+@bad@|@keq@
+@badge@|@distinktiv@
+@bag@|@çantë@
+@baked@|@pjekur (i)@
+@baklava@|@bakllava@
+@bald@|@tullac@
+@Balkan@|@ballkanik@
+@balkony@|@ballkon@
+@ball@|@koqe, top@
+@ballet@|@balet@
+@ball-point pen@|@stilolaps@
+@bang@|@përplas@
+@bank@|@bankë, breg@
+@banner@|@flamur@
+@bar@|@bar, lokal@
+@barbed wire@|@tel me gjemba@
+@barber@|@berber@
+@bare@|@zhveshur (i)@
+@barefoot@|@zbathur@
+@bark@|@leh@
+@barley@|@elb@
+@barouche@|@karrocë@
+@barrel@|@fuçi@
+@base@|@faqezi@
+@basin@|@pellg@
+@basket@|@kosh, shportë@
+@basketball@|@basketboll@
+@bath@|@banjë@
+@bathroom@|@banjë@
+@battalion@|@batalion@
+@battle@|@betejë, luftim@
+@bay@|@gji@
+@bazaar@|@pazar@
+@be@|@gjendem, jam, ndodhem, shtrihet@
+@be absent@|@mungoj@
+@be afraid@|@frikësohem@
+@be amazed@|@mahnitem@
+@be astonished@|@mahnitem@
+@be born@|@lind@
+@be called@|@quhem@
+@be cold@|@kam ftohtë@
+@be content@|@kënaqem@
+@be created@|@krijohet@
+@be distinguished@|@dallohem@
+@be fixed@|@ngulem@
+@be frightened@|@marr me frikë, trembem@
+@be glad@|@gëzohem@
+@be hungry@|@kam uri@
+@be included@|@përfshihem@
+@be left@|@mbes@
+@be numb@|@mpihem@
+@be pleased@|@kënaqem@
+@be pleased with@|@më pëlqen@
+@be situated@|@gjendem, ndodhem@
+@be stunned@|@shtangem@
+@be stupefied@|@shtangem@
+@be surprised@|@befasohem, habitem@
+@be terrified@|@lebetitem@
+@beach@|@plazh@
+@bead@|@rruazë@
+@beak@|@sqep@
+@beam@|@rreze, shkëlqej, shndrit@
+@bean@|@fasule@
+@bear@|@ari@
+@beard@|@mjekër@
+@beat@|@rrah@
+@beautiful@|@bukur (i)@
+@beauty@|@bukuri@
+@because@|@ngaqë, sepse@
+@bed@|@krevat, shtresë@
+@bed-sheet@|@çarçaf@
+@beech@|@ah@
+@beech-wood@|@ahishte@
+@beer@|@birrë@
+@beet@|@panxhar@
+@before@|@më parë, para, para se, përpara@
+@beg@|@lus@
+@begin@|@filloj@
+@begin to cry@|@zë të qajë@
+@beginning@|@fillim@
+@behind@|@pas, prapa@
+@being late@|@vonesë@
+@believe@|@besoj@
+@believer@|@besimtar@
+@bell@|@zile@
+@bell (attached to animals)@|@këmborë@
+@belly@|@bark@
+@belong@|@përkas@
+@beloved@|@dashur (i)@
+@bench@|@bankë, stol@
+@bend@|@kërrus@
+@bending@|@përkulje@
+@beneath@|@poshtë@
+@beseach@|@lus@
+@beside@|@përbri, pranë@
+@besides@|@përveç@
+@best man@|@krushk@
+@bet@|@vë bast@
+@betray@|@tradhëtoj@
+@between@|@ndër@
+@beyond@|@përtej, tej@
+@bicycle@|@biçikletë@
+@big@|@madh (i)@
+@billiards@|@bilardo@
+@billow@|@dallgë@
+@bind@|@lidh@
+@bind oneself@|@lidhem@
+@biography@|@biografi@
+@bird@|@shpend, zog@
+@birth@|@lindje@
+@birthday@|@ditëlindje@
+@birth-mark@|@nishan@
+@birthplace@|@vendlindje@
+@bishop@|@peshkop@
+@bit@|@copë@
+@bitch@|@bushtër@
+@bitter@|@hidhur (i)@
+@black@|@zezë (e), zi (i)@
+@Black@|@zezak@
+@black grey@|@murrmë (i)@
+@blackboard@|@dërrasë e zezë@
+@blacken@|@nxij@
+@blackened@|@nxirë (i)@
+@blame@|@faj, qortim@
+@blameless@|@pafajshëm (i)@
+@blanket@|@batanije, kuvertë@
+@blaze@|@flakë, flakëroj@
+@bleat@|@blegëron@
+@bleating@|@blegërimë@
+@bless@|@uroj@
+@blessed@|@bekuar (i), lum@
+@blind@|@qorr, verbër (i)@
+@blood@|@gjak@
+@bloody@|@përgjakur (i)@
+@blossom@|@lulëzim@
+@blossoming@|@lulëzim@
+@blot@|@njollë@
+@blow@|@fryj@
+@blush@|@skuqem@
+@boar@|@derr i egër@
+@board@|@dërrasë, drejtorí, tabelë@
+@body@|@shtat, trup@
+@bodywork@|@karroceri@
+@boil@|@vloj, ziej@
+@bold man@|@trim@
+@boldness@|@guxim, trimëri@
+@bomb@|@bombë@
+@bon appetit@|@të bëftë mirë@
+@bond@|@lidhje@
+@bone@|@eshtër, kockë@
+@book@|@libër@
+@book-keeping@|@llogari@
+@bookshop@|@librari@
+@boots@|@çizme@
+@border@|@bordurë@
+@borrow@|@marr hua@
+@bossom@|@çel lule@
+@both@|@të dy@
+@bother@|@shqetësoj@
+@bottle@|@shishe@
+@bottom@|@fund@
+@bow@|@përkulje@
+@bowl@|@kupë@
+@boxer@|@boksier@
+@boy@|@djalë@
+@brain@|@tru@
+@branch@|@degë@
+@brand new@|@fringo@
+@brave@|@guximtar@
+@brave man@|@sokol, trim@
+@brawl@|@shamatë@
+@breach@|@çarë (e)@
+@bread@|@bukë@
+@break@|@pushim, shkel, thyej@
+@breakfast@|@mëngjes@
+@breast@|@gji, gjoks, sisë@
+@breath@|@frymë@
+@breathe@|@marr frymë@
+@breeches@|@shallvare@
+@breed@|@rrit@
+@breeze@|@fllad@
+@bride@|@nuse@
+@bridegroom@|@dhëndër@
+@bride's man@|@krushk@
+@briefcase@|@çantë@
+@briefly@|@shkurt, shkurtimisht@
+@brier@|@ferrë@
+@bright@|@shkëlqyer (i), shndritshëm (i)@
+@brightness@|@shkëlqim@
+@brilliance@|@shkëlqim@
+@brilliant@|@shkëlqyer (i)@
+@brim@|@strehë@
+@bring@|@sjell@
+@bring closer@|@afroj@
+@brink@|@buzë@
+@brisket@|@gjoks@
+@broad@|@gjerë (i)@
+@broadcast@|@emision, përhap@
+@broken@|@copëtuar (i), prishur (i)@
+@brooch@|@karficë@
+@broom@|@fshesë@
+@brother@|@vëlla@
+@brotherly@|@vëllazëror@
+@brown@|@ngjyrëkafe@
+@brush@|@furçë@
+@bucket@|@kovë@
+@build@|@ndërtoj@
+@building@|@godinë, pallat@
+@built@|@ndërtuar (i)@
+@Bulgarian@|@bullgar@
+@bull@|@dem@
+@bullet@|@plumb@
+@bun@|@kulaç@
+@bunch@|@tufë@
+@burden@|@ngarkesë@
+@bureau@|@zyrë@
+@burn@|@djeg@
+@burst@|@kris@
+@bury@|@varros@
+@bus@|@autobus@
+@bush@|@kaçube@
+@bust@|@bust@
+@but@|@mirëpo, po, veçse@
+@butcher@|@kasap@
+@butter@|@gjalpë@
+@butterfly@|@flutur@
+@buttocks@|@bythë@
+@button@|@follë, kopsë, pullë@
+@buy@|@blej@
+@buzz@|@gumëzhin@
+@by@|@prej, te/k@
+@by heart@|@përmendësh@
+@by side@|@përbri@
+@Byzantine@|@bizantin@
+@cabbage@|@lakër@
+@cabin@|@kasolle@
+@cafe@|@kafene@
+@cage@|@kafaz@
+@calamity@|@hata@
+@calf@|@viç@
+@calf (of lrg)@|@pulpë@
+@call@|@marr në telefon, quaj, thërras, thirrje@
+@calm@|@qetë (i), qetësoj@
+@calming@|@qetësues@
+@calmness@|@rehat@
+@camp@|@kamp@
+@candle@|@qiri@
+@cannon@|@top@
+@canon@|@kanun@
+@canvas@|@kanavacë@
+@capable@|@zoti (i)@
+@capital@|@kryeqytet@
+@captivity@|@robëri@
+@car@|@makinë, veturë@
+@care@|@kujdes@
+@careful@|@kujdesshëm (i)@
+@carefully@|@me kujdes@
+@cargo@|@ngarkesë e vaporit@
+@carpet@|@qilim@
+@carriage@|@karrocë@
+@carry@|@mbaj, shpie@
+@carry out@|@kryej@
+@carve@|@skalit@
+@cashier@|@arkëtar, sportelist@
+@casserole@|@tenxhere@
+@cast@|@hedh@
+@castle@|@kështjellë@
+@cat@|@mace@
+@catch@|@kap, zë@
+@catch fire@|@ndizem@
+@catholic@|@katolik@
+@cattle@|@bagëti, bagëti e trashë@
+@cattle-breeder@|@blegtor@
+@cattle-breeding@|@blegtori@
+@cause to wilt@|@vyshk@
+@ceiling@|@tavan@
+@cellar@|@qilar@
+@cendemn@|@dënoj@
+@center@|@qendër@
+@century@|@shekull@
+@cereal@|@drithë@
+@ceremony@|@ceremoni@
+@certain@|@caktuar (i)@
+@certainly@|@patjetër@
+@cevered@|@mbuluar (i)@
+@chain@|@varg, zinxhir@
+@chair@|@karrige@
+@chalk@|@shkumës@
+@challenge@|@sfidë@
+@chancellor@|@kancelar@
+@change@|@kthej, ndërroj@
+@character@|@karakter@
+@characteristic@|@karakteristik@
+@charge@|@ngarkoj, pagesë, porosi@
+@charging@|@mbushje@
+@charity@|@lëmoshë@
+@charm@|@hijeshi@
+@chat@|@kuvendoj@
+@chatterbox@|@llafazan@
+@cheap@|@lirë (i)@
+@check@|@kontrolloj@
+@cheek@|@faqe@
+@cheer@|@brohoras, jap kurajë@
+@cheerful@|@me buzë në gaz@
+@cheers@|@gëzuar@
+@cheese@|@djathë@
+@cherry@|@qershi@
+@chest@|@gjoks, kraharor@
+@chicken@|@zog@
+@chief@|@kryesor@
+@child@|@fëmijë@
+@chill@|@ngrij@
+@chimney@|@oxhak@
+@chin@|@mjekër@
+@Chinese@|@kinez@
+@chink@|@plasë@
+@chirp@|@cicërin@
+@choir@|@kor@
+@choke@|@mbys@
+@choose@|@zgjedh@
+@chop@|@çaj@
+@chosen@|@zgjedhur (i)@
+@chubby@|@brumbullak@
+@church@|@kishë@
+@cicerone@|@ciceron@
+@cigarette@|@cigare@
+@cigarette lighter@|@çakmak@
+@circle@|@rreth@
+@circulation@|@xhiro@
+@circumstances@|@rrethana@
+@city@|@qytet@
+@civilization@|@qytetërim@
+@claim@|@pretendoj@
+@clang@|@tringëllin@
+@clash@|@ndeshem, ndeshje@
+@class@|@klasë@
+@classroon@|@klasë@
+@clause@|@fjali@
+@clay@|@argjilë@
+@clean@|@pastër (i)@
+@clear@|@kthjellët (i), kulluar (i), qartë (i)@
+@clearly@|@qartë@
+@clerk@|@nëpunës@
+@client@|@klient@
+@climate@|@klimë@
+@climb@|@ngjitem@
+@clock@|@orë, orë muri, sahat@
+@clock-repairer@|@orëndreqës@
+@close@|@afër, afërt (i), mbyll, pranë@
+@clothes@|@rrobë, teshë@
+@cloud@|@re@
+@cloudless@|@kthjellët (i)@
+@coach@|@autobus, karrocë, trainer@
+@coarse@|@ashpër (i)@
+@coast@|@breg, bregdet@
+@cock@|@gjel, kar, këndes@
+@cocoa@|@kakao@
+@coffee@|@kafe@
+@coffee-house@|@kafene@
+@coin@|@monedhë@
+@cold@|@ftohtë (i)@
+@collapse@|@bie, rrëzohet@
+@collar@|@jakë@
+@collect@|@mbledh@
+@collide@|@ndeshem@
+@colour@|@lyej, ngjyrë@
+@comb@|@kreh@
+@comb oneself@|@krihem@
+@combating@|@luftim@
+@come@|@afrohem, eja, vij@
+@come near@|@qasem@
+@comedy@|@komedi@
+@comfort@|@rehat@
+@comfortable@|@rehatshëm (i)@
+@command@|@komandë, komandoj@
+@comment@|@komentoj@
+@commerce@|@tregti@
+@commission@|@porosis@
+@common@|@përbashkët (i), përgjithshëm (i)@
+@community@|@bashkësi@
+@company@|@ansambël@
+@compare@|@krahasoj@
+@compete@|@konkuroj@
+@competition@|@konkurs@
+@complain@|@ankohem@
+@complaint@|@ankesë@
+@complete@|@plotë (i), plotësoj@
+@composition@|@hartim, kompozim@
+@compositional@|@kompozicional@
+@compulsion@|@detyrim@
+@comrade@|@shok@
+@concern@|@përket (i)@
+@concert@|@koncert@
+@condemn@|@dënoj@
+@conditioned@|@kushtëzuar (i)@
+@conduct@|@shpie@
+@conjugate@|@zgjedhoj@
+@connect@|@lidh@
+@connection@|@lidhje@
+@conquer@|@mund@
+@consent@|@pranoj@
+@console@|@ngushëlloj@
+@constracted@|@ndërtuar (i)@
+@construct@|@ndërtoj@
+@contain@|@përmbaj@
+@content@|@kënaqur (i)@
+@continuation@|@vijim@
+@continuously@|@vazhdimisht@
+@contract@|@kontratë, marrëveshje@
+@contracted@|@ndrydhur (i)@
+@contribute@|@kontriboj@
+@control@|@kontroll, kontrolloj@
+@convenient@|@përshtatshëm (i)@
+@conversation@|@bisedë@
+@converse@|@bisedoj, kuvendoj@
+@conyinue@|@vazhdoj@
+@cook@|@gatuaj@
+@cooker@|@kuzhinë@
+@cordial@|@përzemërt (i)@
+@cordiality@|@përzemërsi@
+@cornel cherry@|@thanë@
+@corner@|@cep@
+@corpse@|@kufomë@
+@correct@|@drejtë (i)@
+@corridor@|@korridor@
+@corrode@|@brej@
+@cosy@|@rehatshëm (i)@
+@cottage@|@vilë@
+@cottege@|@kasolle@
+@cotton@|@pambuk@
+@cough@|@kollë@
+@counsel@|@këshilloj@
+@countless@|@panumërt (i)@
+@country@|@vend@
+@couple@|@çift@
+@courage@|@trimëri@
+@courageous man@|@guximtar@
+@court@|@gjyq, oborr@
+@cousin@|@kushëri@
+@cousin (female)@|@kushërirë@
+@cover@|@mbuloj@
+@cover oneself@|@mbulohem@
+@cow@|@lopë@
+@crack@|@kris, krismë, plasë@
+@cracked@|@krisur (i)@
+@cradle@|@djep@
+@craftsman@|@zejtar@
+@crag@|@shkrep@
+@craggy@|@thepisur (i)@
+@cram@|@rras@
+@crawl@|@zvarritem@
+@crazy@|@marrosur (i)@
+@cream cake@|@tortë@
+@create@|@krijoj@
+@cremate@|@djeg kufoma@
+@Crescent@|@gjysmëhënë@
+@critic@|@kritik@
+@criticism@|@kritikë@
+@critique@|@kritikë@
+@Croatian@|@kroat@
+@crook@|@kërrabë, kërrus@
+@crow@|@sorrë@
+@cruise@|@bëj një udhëtim@
+@crumb@|@thërrime@
+@crust@|@korr@
+@cry@|@qaj@
+@cubpub@|@këlysh@
+@cucumber@|@kastravec@
+@cuddle up@|@strukem@
+@cuisine@|@kuzhinë@
+@culprit@|@fajtor@
+@cultivate@|@rrit@
+@cultivator@|@bujk@
+@cultured@|@kulturuar (i)@
+@cupboard@|@dollap@
+@curage@|@guxim@
+@cure@|@kurë, mjekoj@
+@curious@|@kureshtar@
+@curl@|@kaçurrel@
+@curly@|@kaçurrel@
+@curse@|@mallkoj@
+@curve@|@kthesë@
+@custom@|@zakon@
+@customer@|@klient@
+@cut@|@pres@
+@Czech@|@çek@
+@daddy@|@babalok@
+@daily@|@ditor, përditshëm (i)@
+@dairy@|@bulmetore@
+@dalay@|@vonesë@
+@damage@|@dëmtoj@
+@damn it@|@pse dreqin, xhanëm@
+@damp@|@lagështirë@
+@dance@|@kërcej@
+@dancer@|@kërcimtar@
+@danger@|@rrezik@
+@Danish@|@danez@
+@dare@|@guxoj, ma mban@
+@dark@|@zymtë (i)@
+@darkish@|@murrmë (i)@
+@darkness@|@errësirë@
+@dash@|@turrem@
+@datum@|@të dhënat@
+@daughter@|@bija@
+@daughter-in-law@|@nuse@
+@dawn@|@agim@
+@dawns@|@gëdhin@
+@day@|@ditë, ditor@
+@day off@|@ditë pushimi@
+@dead@|@vdekur (i)@
+@dead (animal)@|@ngordhur (i)@
+@dead body@|@kufomë@
+@dead drunk@|@xurxull@
+@deafen@|@shurdhoj@
+@deal@|@merrem, veproj@
+@dear@|@dashur (i), shtrenjtë (i)@
+@death@|@vdekje@
+@debt@|@borxh@
+@decay@|@qelbet@
+@deceive@|@moshtroj@
+@December@|@dhjetor@
+@decide@|@vendos@
+@decision@|@vendim@
+@declare@|@deklaroj@
+@decline@|@tatëpjetë@
+@decorate@|@zbukuroj@
+@decoration@|@stoli@
+@deed@|@bëmë@
+@deep@|@thellë (i)@
+@deeply@|@thellë@
+@deepness@|@thellësi@
+@deer@|@dre@
+@defective@|@mangët (i)@
+@defended@|@mbrojtur (i)@
+@defender@|@mbrojtës@
+@definite@|@caktuar (i)@
+@definition@|@përkufizim@
+@defy@|@përballoj@
+@degenerate@|@zvetënohem@
+@degree@|@gradë@
+@delay@|@vonoj@
+@deliberate@|@matur (i)@
+@demand@|@kërkesë@
+@dense@|@shpeshtë (i)@
+@dental@|@dentar@
+@dentist@|@dentist@
+@deny@|@mohoj@
+@departament@|@ministi@
+@depend@|@varem@
+@depth@|@thellësi@
+@derive@|@rrjedh@
+@descend@|@zbres@
+@descent@|@zbritje@
+@describe@|@përshkruaj@
+@description@|@përshkrim@
+@deserted@|@shkretë (i)@
+@deserve@|@meritoj@
+@design@|@vizatim@
+@desire@|@dëshirë@
+@despise@|@përbuz@
+@despised@|@përbuzur (i)@
+@dessert@|@ëmbëlsirë@
+@destiny@|@fat@
+@destroy@|@shkatërroj@
+@detain@|@ndaloj@
+@deter@|@përmbaj@
+@develop@|@laj, zhvilloj@
+@developed@|@zhvilluar (i)@
+@devil@|@djall, shejtan@
+@devise@|@sajoj@
+@devoted@|@kushtoj@
+@devour@|@llup@
+@dialogue@|@dialog@
+@diameter@|@diametër@
+@diamont@|@diamant@
+@diary@|@ditar@
+@dick@|@kar@
+@die@|@vdes@
+@differ@|@dallohem, ndryshoj@
+@different@|@ndryshëm (i)@
+@difficult@|@vështirë (i)@
+@difficulty@|@zor@
+@dig@|@gërmoj@
+@digest@|@tres@
+@digging@|@gërmim@
+@dimension@|@përmasë@
+@diminish@|@pakësoj@
+@dining-rooms@|@mëngjezore@
+@dinner@|@darkë@
+@dip@|@fut, zhyt@
+@direct@|@drejtë (i), drejtoj@
+@direct one's steps to@|@drejtohem@
+@direction@|@drejtim@
+@director@|@drejtor@
+@director's office@|@drejtorí@
+@disagreement@|@mosmarrëveshje@
+@disappoint@|@zhgënjej@
+@disaster@|@fatkeqësi@
+@discontented@|@pakënaqur (i)@
+@discovery@|@zbulim@
+@discuss@|@kuvendoj@
+@disgrace@|@turp@
+@dish@|@gjellë@
+@dish with offals@|@paçe@
+@disperse@|@shpërndaj@
+@disquiet@|@shqetësoj@
+@dissolve@|@shkrij, tres@
+@distant@|@largët (i)@
+@distinct@|@dalluar (i)@
+@distinction@|@dallim@
+@distinguisged@|@dalluar (i)@
+@distinguish@|@dalloj@
+@distinguished@|@shquar (i)@
+@distribute@|@përhap, shpërndaj@
+@district@|@krahinë@
+@disturb@|@shqetësoj@
+@disturbed@|@trazuar (i)@
+@ditch@|@hendek@
+@divan@|@divan@
+@dive@|@zhytem@
+@divergence@|@mosmarrëveshje@
+@diverse@|@larmë (i)@
+@divide@|@ndaj@
+@division@|@ndarje@
+@divorce@|@ndahem, ndarje@
+@do@|@bëj@
+@do in haste@|@marr me ngut@
+@doctor@|@mjek@
+@document@|@dokument@
+@documentation@|@dokumentacion@
+@dodger@|@qerrata@
+@doe@|@drenushë, sorkadhe@
+@dog@|@qen@
+@doll@|@kukulla@
+@dollar@|@dollar@
+@dominate@|@sundoj@
+@donkey@|@gomar, veshgjatë@
+@don't@|@mos@
+@door@|@derë@
+@dormitory@|@fjetore@
+@dossier@|@dosje@
+@dough@|@brumë@
+@dove@|@pëllumb@
+@downhill@|@tatëpjetë@
+@dozen@|@duzinë@
+@drag@|@tërheq@
+@dragon@|@dragua@
+@drain@|@kanal kullimi, kulloj@
+@drake@|@rosak@
+@drama@|@dramë@
+@draw nearer@|@afroj@
+@drawer@|@vizatues@
+@drawing@|@vizatim@
+@dreadful@|@tmerrshëm (i)@
+@dream@|@ëndërr@
+@dress@|@fustan, vesh, vishem@
+@dressed@|@veshur (i)@
+@drink@|@pi@
+@drip@|@kulloj, pikon, rrjedh@
+@drive@|@drejtoj, ngas@
+@driver@|@shofer@
+@drop@|@pikë@
+@drown@|@mbytem@
+@drowned@|@mbytur (i)@
+@drowsily@|@përgjumësh@
+@drug@|@drogë, ilaç@
+@drum@|@daulle@
+@drunk@|@dehur (i)@
+@dry@|@thatë (i)@
+@duck@|@rosë@
+@dull@|@budalla, trashë (i)@
+@dusk@|@mugëtirë@
+@dust@|@pluhur@
+@duty@|@detyrë, shërbim@
+@dwarf@|@xhuxhmaxhuxh@
+@dye@|@lyej@
+@dying@|@ngjyrosur (i)@
+@eagerly@|@kureshtar@
+@eagle@|@shqiponjë@
+@ear@|@vesh@
+@ear (of grain)@|@kalli@
+@early@|@herët, shpejt@
+@earn@|@fitoj@
+@earth@|@dhè, tokë@
+@earthquake@|@tërmet@
+@easily@|@lehtë@
+@east@|@lindje@
+@easy@|@lehtë (i)@
+@eat@|@ha, ha bukë@
+@eaves@|@strehë@
+@echo@|@shungëlloj@
+@edge@|@anë, buzë@
+@effect@|@veprim@
+@efficient@|@efektiv@
+@effort@|@përpjekje@
+@egg@|@vezë@
+@eh?@|@vallë@
+@eiderdown@|@jorgan@
+@eight@|@tetë@
+@eight hundred@|@tetëqind@
+@eighth@|@tetë (i)@
+@eighty@|@tetëdhjetë@
+@elaborate@|@përpunoj@
+@elbow@|@bërryl@
+@electric@|@elektrik@
+@element@|@element@
+@elevator@|@ashensor@
+@eleventh@|@njëmbëdhjetë (i)@
+@ellipsis@|@elips@
+@elsewhere@|@gjetiu@
+@embellish@|@zbukuroj@
+@ember@|@prush, thëngjill@
+@emblem@|@emblemë, stemë@
+@embrace@|@përqafoj@
+@emigrated@|@mërguar (i)@
+@eminence@|@lartësi@
+@emit odour@|@lëshon erë@
+@emotion@|@mallëngjim, ndjenjë@
+@emperor@|@perandor@
+@emphasise@|@theksoj@
+@employ@|@përdor, punësoj@
+@employee@|@nëpunës@
+@encounter@|@ndeshem, takoj@
+@encourage@|@përkrah@
+@end@|@fund, mbarohet, mbaroj@
+@end less@|@pa fund@
+@endeavour@|@mundohem, përpiqem@
+@endorse@|@miratoj@
+@endure@|@duroj@
+@enemy@|@armik, kundërshtar@
+@energetic@|@energjik@
+@energy@|@energji@
+@engaged@|@fejuar (i)@
+@English@|@anglisht@
+@Englishman@|@anglez@
+@enigmatic@|@enigmatik@
+@enjoy it@|@e gëzofsh@
+@enjoy oneself@|@argëtohem@
+@enormous@|@shumë i madh@
+@enough@|@mjaft@
+@ensemble@|@ansambël@
+@ensure@|@siguroj@
+@enter@|@hyj@
+@enterprise@|@ndërmarrje@
+@entertain@|@gostis@
+@entertainment@|@argëtim@
+@entice@|@ndjell@
+@entirely@|@fare@
+@entrails@|@të përbrendshme@
+@entrance@|@hyrje@
+@envelope@|@zarf@
+@enviroment@|@mjedis@
+@epic@|@epik, epope@
+@equally@|@barabar@
+@equipped@|@pajisur (i)@
+@erect@|@ngre@
+@error@|@gabim@
+@erudition@|@dituri@
+@escalation@|@shkallëzim@
+@escort@|@shoqëroj@
+@ethnographic@|@etnografik@
+@eve@|@prag@
+@even@|@bile@
+@evening@|@darkë, mbrëmje@
+@event@|@ngjarje@
+@everlasting@|@përjetshëm (i)@
+@every@|@çdo@
+@everyday@|@ditë për ditë@
+@everything@|@gjithçka@
+@everywhere@|@gjithandej, kudo@
+@evil@|@lig (i)@
+@evil habit@|@huq@
+@exact@|@përpiktë (i)@
+@example@|@shembull@
+@excavation@|@gërmim@
+@excellent@|@përsosur (i)@
+@exchange@|@ndërroj@
+@excursion@|@ekskursion@
+@excuse me@|@më fal@
+@execute@|@zbatoj@
+@execution@|@zbatim@
+@exercise@|@stërvitje@
+@exercise book@|@fletore@
+@exist@|@ekzistoj@
+@expect@|@pres@
+@expectation@|@pritje@
+@expend@|@shpenzoj@
+@expenditure@|@shpenzime@
+@expensive@|@shtrenjtë (i)@
+@expert@|@mjeshtër@
+@explanation@|@shpjegim@
+@explane@|@shpjegoj@
+@explode@|@shpërthej@
+@exploit@|@shfrytëzoj@
+@express@|@shpreh@
+@expression@|@shprehje@
+@extend@|@shtrij, zgjat, zgjeroj@
+@extinguish@|@shuaj@
+@extremely glad@|@gëzohem pa masë@
+@eye@|@sy@
+@eyebrow@|@vetull@
+@eyelash@|@qerpik@
+@eyelid@|@qepallë@
+@face@|@fytyrë, përballoj@
+@facing@|@përballë@
+@fact@|@fakt@
+@fade@|@vyshkem@
+@faint@|@venitem@
+@fairly tale@|@përrallë@
+@faithful@|@besnik@
+@fall@|@bie@
+@fall down@|@rrëzohem@
+@fall from@|@bie nga@
+@fallow deer@|@sorkadhe@
+@fame@|@lavdi@
+@familial@|@familjar@
+@familiar@|@familjar@
+@family@|@familje@
+@famous@|@njohur (i)@
+@fanaticism@|@fanatizëm@
+@fantasize@|@fantazoj@
+@far@|@larg@
+@far and wide@|@gjerë e gjatë@
+@far-away@|@largët (i)@
+@farmer@|@bujk@
+@farming@|@bujqësi@
+@farther@|@më tej, më tutje@
+@fast@|@shpejtë (i)@
+@fat@|@majmë (i), trashë (i)@
+@father@|@baba@
+@fault@|@faj@
+@favourite dish@|@specialitet@
+@fear@|@frikë@
+@fearful@|@frikshëm (i)@
+@feature@|@tipar@
+@February@|@shkurt@
+@feel@|@ndiej@
+@feel hot@|@kam vapë@
+@feel sleepy@|@më vjen gjumë@
+@feel thirst@|@kam etje@
+@feeling@|@ndjenjë@
+@female@|@femër, femëror@
+@feminine@|@femëror@
+@fence@|@gardh@
+@fereign@|@huaj (i)@
+@fertile@|@pjellor@
+@fever@|@ethe@
+@few@|@pak@
+@field@|@fushë, fushor@
+@field (cultivated)@|@arë@
+@fierce@|@egër (i)@
+@fierceness@|@egërsi@
+@fifth@|@pestë (i)@
+@fifty@|@pesëdhjetë@
+@fig@|@fik@
+@figure@|@figurë@
+@fill@|@mbush, plotësoj@
+@filling@|@mbushje@
+@filter@|@filtër, kulloj@
+@find@|@gjej@
+@finger@|@gisht@
+@finnish@|@mbarohet, mbaroj@
+@fir tree@|@bredh@
+@fire@|@zjarr@
+@firefly@|@xixëllonjë@
+@fireplace@|@oxhak, vatër@
+@first@|@më parë, parë (i), së pari@
+@fish@|@peshk@
+@fisherman@|@peshkatar@
+@fist@|@grusht@
+@fit@|@përshtatshëm (i), vrull@
+@five@|@pesë@
+@five hundred@|@pesëqind@
+@flag@|@flamur@
+@flame@|@flakë, flakëroj@
+@flanc@|@ijë@
+@flare up@|@ndizem@
+@flash@|@vetëtimë@
+@flat@|@apartament, hyrje@
+@flea@|@plesht@
+@fleet-footed@|@këmbëshpejtë@
+@flesh@|@mish@
+@fling@|@flak@
+@flock@|@shtëllungë, tufë@
+@floor@|@kat@
+@flora@|@bimësi@
+@flour@|@miell@
+@flourishing@|@lulëzim, lulëzuar (i)@
+@flow@|@rrjedh@
+@flower@|@çel lule, lule@
+@flower-garden@|@lulishte@
+@flute@|@fyell@
+@fly@|@futuroj, mizë@
+@foal@|@mëz@
+@foaming@|@shkumëzuar (i)@
+@fog@|@mjegull@
+@folder@|@dosje@
+@folk-@|@popullor@
+@folk dance@|@valle@
+@folk dancer@|@valltar@
+@follow@|@ndjek, vazhdoj@
+@following@|@mëposhtëm (i)@
+@fondness@|@ma ka ënda@
+@food@|@gjellë@
+@foot@|@këmbë@
+@football@|@futboll@
+@footprint@|@gjurmë@
+@for@|@për@
+@for nothing@|@kot@
+@for the first time@|@për herë të parë@
+@for the last time@|@për herë të fundit@
+@forbid@|@ndaloj@
+@force@|@forcë, shpërthej@
+@forearm@|@llërë, parakrah@
+@forehead@|@ballë@
+@forest@|@pyll@
+@forget@|@harroj@
+@forgive@|@fal@
+@fork@|@pirun@
+@forked stick@|@kërrabë@
+@form@|@formoj@
+@formerly@|@më parë@
+@fortify@|@fortifikoj@
+@fortress@|@fortesë, kala@
+@forty@|@dyzet@
+@forward@|@përpara@
+@forwards@|@para@
+@found@|@themeloj@
+@fountain@|@krua@
+@fountain pen@|@stilograf@
+@four@|@katër@
+@fourth@|@katërt (i)@
+@fowl@|@shpend@
+@fox@|@dhelpër@
+@fracture@|@thyej@
+@fragment@|@fragment@
+@fraternal@|@vëllazëror@
+@free@|@lirë (i)@
+@freedom@|@liri@
+@freeze@|@ngrij@
+@French@|@francez@
+@frequent@|@ndjek, shpeshtë (i)@
+@fresco@|@afresk@
+@fresh@|@freskët (i)@
+@Friday@|@e premte@
+@fried@|@skuqur (i)@
+@friend@|@mik, shok@
+@friend (girl)@|@shoqe@
+@friendly@|@shoqëror@
+@friendship@|@miqësi, shoqëri@
+@fright@|@tmerr@
+@fringe@|@shkel@
+@frog@|@bretkosë@
+@from@|@nga, prej@
+@front@|@ballë@
+@frost@|@ngricë@
+@fruit@|@frut@
+@fruit-growing@|@pemëtari@
+@fuck@|@qi@
+@fuck off@|@ik qiu@
+@fulfill@|@plotësoj@
+@full@|@plotë (i)@
+@full of joy@|@plot gëzim@
+@full stop@|@pikë@
+@fully@|@plot@
+@fun@|@qejf@
+@function@|@punoj@
+@furious@|@egërsuar (i)@
+@further@|@më tej@
+@furtively@|@vjedhurazi@
+@fury@|@furi@
+@gain@|@fitoj@
+@gale@|@tufan@
+@gallant@|@bravë@
+@gallon@|@gallon@
+@game@|@lojë@
+@gap@|@çarë (e)@
+@garden@|@kopsht@
+@garlic@|@hudhër@
+@gate@|@portë@
+@gateau@|@tortë@
+@gather@|@mbledh, mblidhem, vjel@
+@gathering@|@mbledhje@
+@gay@|@gëzueshëm (i), homoseksual@
+@Geg@|@gegë@
+@gender@|@gjini@
+@general@|@përgjithshëm (i)@
+@genius@|@gjeni@
+@genuine@|@sinqertë (i)@
+@geographic@|@gjeografik@
+@geometrical@|@gjeometrik@
+@German@|@gjerman@
+@get@|@marr@
+@get dressed@|@vishem@
+@get in touch@|@lidhem@
+@get married@|@martohem@
+@get out@|@dal@
+@get tired@|@lodhem@
+@get wet@|@lagem@
+@gift@|@dhuratë@
+@girl@|@gocë, vajzë@
+@girl pupil@|@nxënëse@
+@girl-friend@|@mikeshë@
+@give@|@jap@
+@give a present@|@dhuroj@
+@give aid@|@ndihmoj@
+@give back@|@kthej@
+@give birth@|@pjell@
+@glacier@|@akullnajë@
+@gladiator@|@gladiator@
+@glass@|@gotë@
+@glass jar@|@kavanoz@
+@glimpse@|@shikim@
+@glitter@|@shkëlqej@
+@globe@|@glob@
+@gloomy@|@zymtë (i)@
+@glorious@|@lavdishëm (i)@
+@glory@|@lavdi@
+@gloves@|@dorashka@
+@glowing coal@|@thëngjill@
+@glowing coals@|@prush@
+@glue@|@ngjis@
+@gnaw@|@brej@
+@go@|@kaloj, shkoj, vete@
+@go away@|@iki, largohem@
+@go down@|@zbres@
+@go in@|@hyj@
+@go out@|@dal@
+@go up@|@ngjitem@
+@goat@|@dhi@
+@gobble@|@llup@
+@gobble up@|@përlaj@
+@god@|@perëndi, zot@
+@godfather@|@kumbar@
+@gold@|@ar, flori@
+@gold coin@|@flori@
+@gold-plated@|@larë (i)@
+@good@|@mirë (i)@
+@good afternoon@|@drekën e mirë@
+@good evening@|@mirëmbrëma@
+@good morning@|@mirëdita, mirëmëngjesi@
+@good-by@|@mirupafshim@
+@goodness@|@mirësi@
+@goods@|@mall@
+@goose@|@patë@
+@gorge@|@grykë@
+@gost@|@fantazmë@
+@gown@|@robdëshamër@
+@grab@|@përlaj, rrëmbej@
+@grace@|@hijeshi, nur@
+@gracefulness@|@nur@
+@grade@|@gradë@
+@gradually@|@dalëngadalë@
+@graduation@|@shkallëzim@
+@grain@|@kokërr@
+@grammar@|@gramatikë@
+@grand@|@madhështor@
+@grand-daughter@|@mbesë@
+@grandeur@|@madhështi@
+@grandfather@|@gjysh@
+@grandmother@|@gjyshe@
+@grandson@|@nip@
+@grant@|@bursë, fal@
+@grapevine@|@hardhi@
+@grappa@|@raki@
+@grasp@|@kap@
+@grasshoper@|@karkalec@
+@grass-land@|@lëndinë@
+@grating@|@skarë@
+@gratitude@|@mirënjohje@
+@grave@|@rëndë (i), varr@
+@gravel@|@zhavorr@
+@grease@|@yndyrë@
+@great@|@madh (i)@
+@great-grandfather@|@stërgjysh@
+@greedy@|@lakmues@
+@Greek@|@grek@
+@Greek-Albanian@|@arbëresh@
+@green@|@blertë (i), gjelbër (i), njom@
+@green turned@|@gjelbëruar (i)@
+@greenness@|@gjelbërin@
+@greeny@|@gjelbëror@
+@greet@|@përshëndes@
+@greeting@|@përshëndetje@
+@greetings@|@të fala@
+@grey hair@|@thinjë@
+@grey-haired@|@thinjur (i)@
+@grid iron@|@skarë@
+@grief@|@hidhërim@
+@grill@|@skarë@
+@grind@|@bluaj@
+@grind stone@|@gur zmerili@
+@ground@|@shesh@
+@groundless@|@kot së koti@
+@grow@|@rrit@
+@grow fat@|@shëndoshem@
+@grow up@|@rritem@
+@grown up@|@rritur (i)@
+@grumble@|@murmurit@
+@guarantee@|@siguroj@
+@guard@|@rojë, ruaj@
+@guess@|@gjej me hamëndje@
+@guest@|@mik@
+@guide@|@ciceron, prij, udhëheq@
+@gulp@|@kullufit@
+@gum@|@çimçakëz, mish i dhembëve@
+@gun@|@pushkë@
+@gurgle@|@gurgullon@
+@gust@|@vrull@
+@gymnastic@|@gjimnastikor@
+@gymnastics@|@gjimnastikë@
+@habit@|@zakon@
+@hail@|@breshër@
+@hair@|@flok, qime@
+@half@|@gjysmë@
+@half of the way@|@gjysma e rrugës@
+@halfdark@|@gjysmerrësirë@
+@hall@|@holl, sallë@
+@halt@|@ndahem@
+@ham@|@kofshë derri@
+@hamburger@|@hamburger@
+@hammer@|@çekiç@
+@hand@|@dorë@
+@hand of clock@|@akrep@
+@handcuff@|@pranga@
+@handful@|@grusht@
+@handicraft@|@mjeshtëri@
+@handkerchief@|@shami@
+@handle@|@dorezë@
+@handsome@|@pashëm (i)@
+@hang@|@var, varem@
+@happen@|@ndodh@
+@happiness@|@lumturi@
+@happy@|@lumtur (i)@
+@hard@|@ashpër (i)@
+@harden@|@forcoj@
+@hardly@|@mezi@
+@hardship@|@zor@
+@hare@|@lepur@
+@harm@|@dëm, dëmtoj@
+@harship@|@vuajtje@
+@harvest@|@korr@
+@haste@|@ngut@
+@hasten@|@ngutem@
+@hastily@|@me nxitim@
+@hat@|@kapele@
+@haunch@|@kofshë@
+@have@|@kam@
+@have a meal@|@ha bukë@
+@have a shave@|@rruhem@
+@have breakfast@|@ha mëngjes@
+@have fear@|@kam frikë@
+@have fever@|@kam ethe@
+@have patience@|@duroj@
+@having seen no tears@|@papërlotur (i)@
+@haze@|@mjegull@
+@he@|@ai@
+@he is@|@është@
+@head@|@kokë, krye@
+@headcloth@|@shami@
+@heal@|@shëroj@
+@health@|@shëndet@
+@heap@|@turrë@
+@hear@|@dëgjoj, ndiej@
+@heart@|@zemër@
+@hearth@|@vatër@
+@hearty@|@përzemërt (i)@
+@heat@|@nxetësi@
+@heat of the day@|@xheg@
+@heater@|@kalorifer@
+@heaven@|@qiell@
+@heavy@|@rëndë (i)@
+@hedge@|@gardh@
+@hedgehog@|@iriq@
+@heel@|@shëroj, thembër@
+@he-goat@|@cjap@
+@heifer@|@mëshqerrë@
+@heigh@|@lartë (i)@
+@height@|@çukë, lartësi@
+@Hellenic@|@helen@
+@hello@|@tungjatjeta@
+@helmet@|@helmetë@
+@help@|@ndihmoj@
+@hen@|@pulë@
+@herb@|@barishte@
+@here@|@ja, këtu@
+@heroism@|@heroizëm@
+@herself@|@vetja@
+@hidden@|@fshehur (i)@
+@hide@|@fsheh@
+@highlander@|@malësor@
+@highroad@|@xhade@
+@hike@|@endem@
+@hill@|@kodër@
+@hillock@|@bregore@
+@himself@|@vetja@
+@hind@|@drenushë@
+@hire@|@marr me qera@
+@his@|@tij (i)@
+@his (her) own@|@të vetat, të vetët@
+@historic@|@historik@
+@historical@|@historik@
+@history@|@histori@
+@hit@|@kris, përpjek, trokas@
+@hoarfrost@|@brymë@
+@hoe@|@prashis@
+@hold@|@mbaj@
+@hole@|@birë, gropë, vrimë@
+@holiday@|@pushim@
+@hollow@|@mbytur (i), zbrazët (i)@
+@holy@|@shenjtë (i)@
+@homeland@|@atdhe@
+@homesickness@|@mall, mall për vendlindjen@
+@honey@|@mjaltë@
+@honour@|@nder, nderoj@
+@hook@|@grep@
+@hope@|@shpresë@
+@horn@|@bori, bri@
+@hornless@|@shytë@
+@horrid@|@urryer (i)@
+@horrify@|@neveritshëm (i)@
+@horror@|@tmerr@
+@horse@|@kalë@
+@hospital@|@spital@
+@host@|@mikpritës, pronar, zoti i shtëpisë@
+@hostess@|@zonja e shtëpisë@
+@hot@|@nxehtë (i), vapë@
+@hotel@|@hotel@
+@hound@|@zagar@
+@hour@|@orë@
+@house@|@shtëpi@
+@how@|@qysh, si@
+@how does it cost?@|@sa bën?@
+@how long does the work go on?@|@sa zgjat puna?@
+@how many@|@sa@
+@how much@|@sa@
+@however@|@megjithatë, mirëpo, sidoqoftë@
+@huddle up@|@strukem@
+@hue and cry@|@kushtrim@
+@hug@|@përqafoj@
+@huge@|@shumë i madh@
+@hum@|@gumëzhin@
+@humble@|@përvuajtur (i)@
+@humid@|@lagësht@
+@humorist@|@humorist@
+@hung@|@var@
+@hunter@|@gjahtar@
+@hunting@|@gjah@
+@hurried@|@shpejtuar (i)@
+@hurry@|@ngutem, shpejtoj@
+@hurt@|@më dhemb@
+@husbant@|@burrë@
+@hut@|@barakë, kasolle, kolibe@
+@hyacinth@|@zymbyl@
+@I am ashamed@|@më vjen turp@
+@I am sick@|@jam i sëmurë@
+@I am well@|@jam mirë@
+@I can not come@|@nuk vij dot@
+@I feel bad@|@jam keq@
+@I wander@|@vallë@
+@ice@|@akull@
+@ice-cream@|@akullore@
+@icon@|@ikonë@
+@idea@|@ide@
+@idealized@|@idealizuar (i)@
+@identic@|@njëjtë (i)@
+@ideo-artistic@|@ideoartistik@
+@iead@|@pllajë@
+@if@|@sikur@
+@ignite@|@ndez, ndizem@
+@ill@|@sëmurë@
+@illuminate@|@ndriçoj@
+@Illyrian@|@ilir@
+@image@|@figurë@
+@immediately@|@në vend@
+@immerse@|@zhys@
+@immersion@|@zhytje@
+@imortal@|@pavdekshëm (i)@
+@imp@|@shejtan@
+@impatience@|@padurim@
+@impession@|@përshtypje@
+@implicate@|@nënkuptoj@
+@imply@|@nënkuptoj@
+@importance@|@rëndësi@
+@important@|@rëndësishëm (i)@
+@impreson@|@burgos@
+@impress@|@shtyp, stampoj@
+@impression@|@mbresë@
+@impressive@|@goxha@
+@in@|@brenda, në@
+@in a low voice@|@me gjysmë zëri@
+@in Albanian@|@shqip@
+@in Arabic@|@arabisht@
+@in Chinese@|@kinezisht@
+@in common@|@së bashku@
+@in Czech@|@çekisht@
+@in Danish@|@danisht@
+@in fact@|@në fakt@
+@in French@|@frëngjisht@
+@in front@|@përpara@
+@in front of@|@para, përballë@
+@in full@|@gjerë e gjatë@
+@in general@|@në përgjithësi@
+@in German@|@gjermanisht@
+@in Greek@|@greqisht@
+@in natural way@|@natyrshëm@
+@in order that@|@në mënyrë që@
+@in Polish@|@polonisht@
+@in Russian@|@rusisht@
+@in short@|@shkurtimisht@
+@in Swedish@|@suedisht@
+@in the first place@|@së pari@
+@in the middle@|@midis@
+@in the morning@|@paradreke@
+@in the name of@|@në emrin e@
+@in vain@|@kot@
+@inappropriately@|@orë e pa orë@
+@inaugurate@|@përuroj@
+@incite@|@ndërsej@
+@incline@|@përkul, prirem@
+@include@|@përfshij@
+@increase@|@shtoj@
+@indeed@|@vërtet@
+@indefinite@|@pacaktuar (i)@
+@indeterminate@|@pacaktuar (i)@
+@indicate@|@tregoj@
+@individual@|@individual@
+@Indo-European@|@indoevropian@
+@infant@|@foshnjë@
+@inform@|@bëj njoftim, lajmëroj, njoftoj@
+@informal@|@zo zyrtar@
+@inhabit@|@banoj@
+@inhabitant@|@banor@
+@inhabited@|@banuar (i)@
+@inherit@|@trashëgoj@
+@inheritance@|@trashëgimi@
+@injury@|@fyerje@
+@inn@|@han@
+@inner@|@brendshëm (i)@
+@innocent@|@pafajshëm (i)@
+@inquire@|@marr vesh@
+@insert@|@fus, përfshij@
+@inside@|@brenda, brendshëm (i)@
+@inspector@|@inspektor@
+@inspire@|@frymëzoj@
+@instance@|@shembull@
+@instant@|@çast@
+@instead@|@në vend të@
+@instigate@|@ngacmoj@
+@institute@|@institut@
+@instrument@|@vegël@
+@insult@|@fyerje@
+@insurance@|@sigurim@
+@insure@|@siguroj@
+@insurrection@|@kryengritje@
+@intend@|@kam ndër mend@
+@intention@|@synim@
+@interest@|@interes@
+@interfere@|@ndërhyj@
+@interlacing@|@gërshetim@
+@intermediary@|@ndërmjetës@
+@interpreter@|@përkthyes@
+@interrupt@|@ndërpres@
+@interview@|@intervistë@
+@intestine@|@zorrë@
+@into@|@në@
+@introduction@|@hyrje@
+@inundate@|@përmbys@
+@invader@|@pushtues@
+@invent@|@sajoj@
+@inverted commas@|@thonjëza@
+@investigation@|@gjurmim@
+@invisible@|@padukshëm (i)@
+@invitation@|@ftesë@
+@invite@|@ftoj@
+@involuntarily@|@padashur@
+@iron@|@hekur@
+@irradiate@|@rrezatoj@
+@irritate@|@ngacmoj@
+@island@|@ishull@
+@it dawns@|@zvagëllon@
+@it doesn't matter@|@punë e madhe@
+@it is cold@|@bën ftohtë@
+@it is sharp 12@|@ora është plot 12@
+@it lightens@|@vetëtin@
+@it rains@|@bie shi@
+@Italian@|@italian@
+@italic@|@italike@
+@Italo-Albanian@|@arbëresh@
+@jagged rock@|@gërxh@
+@jam@|@liko(giliko), reçel, rras@
+@January@|@janar@
+@Japanese@|@japonez@
+@jealous@|@xheloz@
+@jelly@|@pelte@
+@jersey@|@triko@
+@jeweller@|@argjendar@
+@job@|@punë@
+@join@|@përfshihem@
+@join us@|@bujrum@
+@joint@|@pikë bashkimi@
+@jointly@|@së bashku@
+@joke@|@bëj shaka, shaka@
+@jolly@|@gëzueshëm (i)@
+@journalist@|@gazetar@
+@joy@|@gëzim, hare@
+@joyful@|@gazmor@
+@judge@|@gjykatës, gjykoj@
+@jug@|@kanë@
+@July@|@korrik@
+@jump@|@hidhem, kërcej@
+@June@|@qershor@
+@jurisprudence@|@drejtësi@
+@just@|@mu, pikërisht@
+@justice@|@drejtësi@
+@keep@|@mbaj, ruaj@
+@key@|@çelës@
+@kick@|@shqelm@
+@kid@|@fëmijë@
+@kidnap@|@rrëmbej@
+@kidney@|@veshkë@
+@kilo@|@kile@
+@kin@|@gjini@
+@kind@|@lloj@
+@kindness@|@mirësi@
+@kiss@|@puth@
+@kitchen@|@kuzhinë@
+@knapsack@|@trastë@
+@kneading through@|@magje@
+@knee@|@gju@
+@kneel@|@bie në gjunjë@
+@knife@|@thikë@
+@knighthood@|@kalorësi@
+@knit@|@gërshetoj, thur@
+@knob@|@kokërr@
+@knock@|@trokas@
+@know@|@di, njoh@
+@knowledge@|@dituri@
+@known@|@njohur (i)@
+@Lab (south-western-Tosk)@|@lab@
+@label@|@etiketë@
+@Laberi dialect@|@labërishte@
+@lack@|@mungesë@
+@lad@|@djalosh@
+@ladder@|@shkallë@
+@lady@|@zonjë@
+@lady of the house@|@zonja e shtëpisë@
+@lake@|@liqen@
+@lamb@|@qengj, sheleg@
+@lambs@|@shqerra@
+@lame@|@çalë (i)@
+@lament@|@vajtoj@
+@lamentation@|@kujë@
+@lamp@|@llambë@
+@lampshade@|@abazhur@
+@land@|@tokë, vise, zbres@
+@landing@|@zbritje@
+@landscape@|@peizazh@
+@language@|@gjuhë@
+@languish@|@lëngoj@
+@large trousers@|@shallvare@
+@late@|@vonë@
+@law@|@kanun, ligj@
+@lay@|@shtroj@
+@layer@|@shtresë@
+@lead@|@prij@
+@lead the dance@|@heq vallen@
+@leaf@|@fletë, gjethe@
+@leaflet@|@fletëpalosje@
+@league@|@lidhje@
+@lean@|@prirem@
+@learn@|@marr vesh@
+@leather@|@lëkurë@
+@leave@|@largohem, lë, ndahem@
+@leaver@|@leje@
+@leek@|@presh@
+@left hand side@|@e majtë@
+@left wing@|@e majtë@
+@lek (Albanian monetary unit)@|@lek@
+@lend@|@huaj@
+@lengthen@|@zgjas@
+@lessen@|@pakësoj@
+@lesson@|@mësim@
+@let@|@le, lejoj, lëshoj@
+@letter@|@letër@
+@lettuce@|@sallatë jeshile@
+@level@|@nivel@
+@liberty@|@liri@
+@library@|@bibliotekë@
+@lick@|@lëpij@
+@lie@|@ndodhem, rrenë@
+@lie ill@|@lëngoj@
+@lientenant@|@toger@
+@life@|@jetë@
+@lift@|@ngre@
+@light@|@dritë, lehtë (i), ndriçoj@
+@light blue@|@kaltër (i)@
+@lightly@|@lehtë@
+@lightning@|@rrufe, vetëtimë@
+@like@|@dëshiroj, pëlqej, si@
+@like this@|@kështu@
+@liking@|@ma ka ënda@
+@lily@|@zambak@
+@limit@|@cak@
+@limpid@|@kulluar (i)@
+@limpingly@|@çalë-çalë@
+@line@|@rresht, varg, vijë@
+@linen@|@ndërresa@
+@lining@|@astar@
+@link@|@lidh@
+@lion@|@luan@
+@lip@|@buzë@
+@list@|@listë@
+@literature@|@letërsi@
+@little@|@pak@
+@live@|@banoj, jetoj, rroj@
+@lively@|@gjallë (i)@
+@liver@|@mëlçi@
+@living@|@gjallë (i)@
+@load@|@ngarkoj@
+@loaf@|@franxhollë@
+@loan@|@hua@
+@log@|@kërcu@
+@lonely@|@vetmuar (i)@
+@long@|@gjatë, gjatë (i)@
+@longing@|@dëshirë e zjarrtë, përmallim, përmallshëm (i)@
+@look@|@këqyr, shikoj@
+@look after@|@kujdesem@
+@look at@|@vështroj@
+@loop@|@lak@
+@lop@|@krasis@
+@lose@|@humb, humbas@
+@lose one's head@|@ngel pa mend@
+@lose weight@|@dobësohem@
+@loss@|@humbje@
+@lottery@|@llotari@
+@loud@|@lartë (i)@
+@loudly@|@me zë të lartë@
+@lounge@|@lëkundem@
+@louse@|@morr@
+@love@|@dashuri, dua@
+@lovely@|@këndshëm (i)@
+@low-lying@|@fushor@
+@loyal@|@besnik@
+@luck@|@fat@
+@lucky@|@fatlum, lum@
+@lunch@|@drekë@
+@lung@|@mushkëri@
+@lure@|@ndjell@
+@luxury@|@lluks@
+@Macedonian@|@maqedonas@
+@machine@|@makinë@
+@mad@|@baltë, krisur (i), marrë (i), marrosur (i)@
+@magnificent@|@madhërishëm (i)@
+@magnificient@|@madhështor@
+@maid@|@shërbyese, vajzë, vashë@
+@maiden@|@vajzë@
+@mail@|@postë@
+@main@|@kryesor@
+@maintain@|@mbaj@
+@maize@|@misër@
+@majesti@|@madhështi@
+@majestic@|@madhështor@
+@make@|@bëj, formoj@
+@make a mistake@|@gaboj@
+@make fall@|@rrëzoj@
+@make off@|@ia mbath@
+@male@|@mashkullor (i)@
+@malice@|@ligësi@
+@man@|@burrë, njeri@
+@man who enjoys the life@|@qejfli@
+@manacle@|@pranga@
+@manifold@|@shumëllojshëm (i)@
+@manner@|@mënyrë@
+@many@|@shumë, shumtë (i)@
+@map@|@hartë@
+@march@|@marshoj@
+@March@|@mars@
+@mare@|@pelë@
+@marjoram@|@rigon@
+@market@|@pazar@
+@married@|@martuar (i)@
+@marry@|@martohem@
+@marsh@|@kënetë@
+@marvellous@|@mrekullueshëm (i)@
+@masculine@|@mashkullor (i)@
+@master@|@mjeshtër, zoti i shtëpisë@
+@mastership@|@mjeshtëri@
+@mat@|@rrogoz@
+@match@|@ndeshje, takim@
+@material@|@material@
+@maternal uncle@|@dajë@
+@matter@|@punë@
+@mattress@|@dyshek@
+@mature@|@pjekur (i)@
+@May@|@maj@
+@maybe@|@kushedi, mbase, ndoshta@
+@me@|@mua@
+@meadow@|@lëndinë, livadh@
+@meal@|@vakt@
+@mean@|@mesatar, nënkuptoj@
+@mean while@|@ndërkaq@
+@meantime@|@ndërkohë@
+@meanwhile@|@ndërkaq@
+@measured@|@matur (i)@
+@measures@|@marr masa@
+@meat@|@mish@
+@meat-ball@|@qofte@
+@mediator@|@ndërmjetës@
+@medicine@|@ilaç@
+@medieval@|@mesjetar@
+@medium@|@mesëm (i)@
+@meet@|@ndeshem, takohem@
+@meet with@|@takoj@
+@meeting@|@mbledhje, takim@
+@melt@|@shkrij@
+@member@|@pjesëtar@
+@membership@|@anëtarësi@
+@membrane@|@cipë@
+@memorial@|@përmendore@
+@memory@|@kujtim@
+@men's watch@|@orë burrash@
+@mention@|@përmend@
+@mentioned below@|@mëposhtëm (i)@
+@merchant@|@tregtar@
+@merrily@|@gëzueshëm@
+@merry@|@qeshur (i)@
+@mess@|@konfuzion, rrëmujë@
+@metre@|@metër@
+@midday@|@mesditë@
+@middle@|@mes, mesëm (i)@
+@Middle Ages@|@mesjetë@
+@midnight@|@mesnatë@
+@mild@|@butë (i)@
+@milk@|@qumësht@
+@mill@|@mulli@
+@minaret@|@minare@
+@mince@|@grij@
+@mind@|@mendje@
+@mine@|@imi, imja, minierë@
+@mineral@|@mineral@
+@mingling@|@përzier@
+@minister@|@ministër@
+@ministry@|@ministi@
+@minus@|@pa@
+@minute@|@minutë@
+@miracle@|@mrekulli@
+@miraculous@|@mrekullueshëm (i)@
+@mischievous@|@prapë (i)@
+@miserable@|@mjerë (i)@
+@misfortune@|@bela@
+@miss@|@zonjushë@
+@mist@|@mjegull@
+@mistake@|@gabim@
+@mister@|@zot, zotëri, zotni@
+@mistress@|@zonjë@
+@mix@|@trazoj@
+@mixed@|@përzier (i), trazuar (i)@
+@modest@|@thjeshtë (i)@
+@moist@|@lagësht@
+@moisten@|@njom, njomë (i)@
+@molar tooth@|@dhëmballë@
+@moment@|@çast@
+@Monday@|@e hënë@
+@money@|@para, të holla@
+@month@|@muaj@
+@monument@|@monument, përmendore@
+@moo@|@pëllet@
+@mood@|@mënyrë@
+@Moon@|@hënë@
+@moor@|@lidh me litar@
+@moreover@|@përveç kësaj@
+@morning@|@mëngjes@
+@mosque@|@xhami@
+@mother@|@ëma, mama, nënë@
+@mother (tongue)@|@amtar@
+@motherfucker@|@shkërdhatë@
+@motherland@|@atdhe, mëmëdhe@
+@mould@|@tokë e shkrifët@
+@mound@|@bregore@
+@mount@|@mal@
+@mountaineer@|@malësor@
+@mountaineering@|@alpinizëm@
+@mountainous@|@malor@
+@mourn@|@vajtoj@
+@mouse@|@mi@
+@moustache@|@mustaqe@
+@mouth@|@gojë@
+@move@|@lëviz@
+@move off@|@largohem, largoj@
+@much@|@shumë@
+@muddy@|@turbullt (i)@
+@muffler@|@shall@
+@mulberry@|@man@
+@mule@|@mushkë@
+@mullet@|@qefull@
+@municipal service@|@komunale@
+@mural@|@muror@
+@murderer@|@gjakësor@
+@muscle@|@muskul@
+@museum@|@muze@
+@museum (house)@|@shtëpi muze@
+@music@|@muzikë@
+@musician@|@muzikant@
+@mussel@|@midhje@
+@mutton@|@mish dashi@
+@my@|@e mi, e mia, im, ime, të mitë@
+@nail@|@gozhdë, thonj@
+@naked@|@zhveshur (i)@
+@name@|@emër, quaj@
+@napkin@|@pecetë@
+@narrow@|@ngushtë (i)@
+@nasty@|@ndyrë (i), pistë (i)@
+@native@|@amtar@
+@native of Kosova@|@kosovar@
+@naton@|@popull@
+@naturally@|@natyrisht@
+@nature@|@natyrë@
+@naughty@|@prapë (i)@
+@navy@|@flotë@
+@near@|@afër, afërt (i), pranë, te/k@
+@nearby@|@pranë@
+@nearer@|@afrohem@
+@nearly@|@pothuajse@
+@nearness@|@afërsi@
+@neat@|@pastër (i), rregullt (i)@
+@necessary@|@duhur (i)@
+@neck@|@grykë, qafë@
+@necklace@|@gjerdan@
+@needed@|@duhur (i)@
+@needle@|@gjilpërë@
+@negative@|@mohoj, mohor@
+@neglect@|@nuk përfill@
+@neighbour@|@fqinj@
+@neighbourhood@|@fqinjësi@
+@nephew@|@nip@
+@nest@|@fole@
+@never@|@kurrë@
+@nevertheless@|@megjithatë@
+@new@|@ri (i)@
+@newpaper@|@gazetë@
+@next day@|@të nesërmen@
+@next year@|@mot@
+@nicely@|@ëmbël@
+@niece@|@mbesë@
+@night@|@natë@
+@night and day@|@ditë e natë@
+@nightingale@|@bilbil@
+@nightingle@|@bilbil@
+@nine@|@nëntë@
+@ninth@|@nëntë (i)@
+@nipple@|@sisë@
+@no@|@jo@
+@no one@|@asnjë@
+@noble@|@fisnik@
+@nobody@|@askush@
+@noise@|@shamatë, zhurmë@
+@noon@|@drekë, mesditë@
+@noose@|@lak@
+@norm@|@normë@
+@Northen Albanian@|@gegë@
+@nose@|@hundë@
+@not@|@dot, nuk@
+@not free@|@ndrydhur (i)@
+@notebook@|@fletore@
+@nothing@|@asgjë@
+@notify@|@bëj njoftim, lajmëroj@
+@novel@|@roman@
+@November@|@nëntor@
+@now@|@tani@
+@now and then@|@nganjëherë@
+@nowhere@|@asgjëkundi@
+@number@|@numër@
+@numerous@|@shumtë (i)@
+@nurse@|@infermiere@
+@nut@|@arrë@
+@o (with feminine nouns)@|@moj@
+@o (with masculine nouns)@|@mor@
+@oak@|@dushk, lis@
+@oakapple@|@gogël@
+@oath@|@be@
+@obedience@|@bindje@
+@obey@|@dëgjoj@
+@oblige@|@detyroj@
+@observe@|@vështroj@
+@obstalce@|@pengesë@
+@occasion@|@sebep@
+@occupy@|@zë@
+@October@|@tetor@
+@odd@|@çuditshëm (i), tek@
+@odour@|@erë@
+@of course@|@natyrisht@
+@of that time@|@atëhershëm (i)@
+@of the same age@|@moshatar@
+@offal@|@të përbrendshme@
+@offence@|@fyerje, ofendim@
+@offer@|@ofroj, propozoj@
+@office@|@zyrë@
+@officer@|@oficer@
+@often@|@shpesh@
+@oil@|@vaj@
+@oka (1.4kg)@|@okë@
+@old@|@lashtë (i), vjetër (i)@
+@old age@|@pleqëri@
+@old boy@|@babalok@
+@old man@|@plak@
+@old woman@|@plakë@
+@omit@|@lë jashtë, nuk përfshij@
+@on@|@mbi, në@
+@on behalf of@|@në emrin e@
+@on bended knee@|@gjunjëzuar (i)@
+@on earth@|@xhanëm@
+@on edge (brink)@|@buzë@
+@on the left@|@majtas@
+@once again@|@rishtazi@
+@once more@|@edhe një herë@
+@one@|@një, njëri@
+@one hundred@|@njëqind@
+@one of them@|@njëri@
+@onion@|@qepë@
+@only@|@vetëm@
+@open@|@çel, hap@
+@opera@|@opera@
+@opinion@|@mendim@
+@opponent@|@kundërshtar@
+@opposite@|@karshi, kundër@
+@oppression@|@shtypje@
+@order@|@komandoj, porosis, rend, rregull@
+@ore@|@mineral@
+@organ@|@organ@
+@organiser@|@organizator@
+@ornament@|@ornament, stoli@
+@orphan@|@jetim@
+@other@|@të tjerë@
+@otherwise@|@përndryshe@
+@Ottoman@|@osman@
+@our@|@jonë, tanë, tona, ynë@
+@out@|@jashtë@
+@out fitter@|@paisje@
+@out of@|@jashtë, prej@
+@outer@|@mbarë (i)@
+@outpatients's department@|@poliambulancë@
+@outside@|@jashtë@
+@oven@|@furrë@
+@over@|@mbi, përmbi, përmbri, sipër@
+@over there@|@andej, atje@
+@over-throw@|@rrëzoj@
+@overturn@|@përmbys@
+@owing@|@kam borxh@
+@owl@|@kukuvajkë@
+@own@|@vet (i), zotëroj@
+@owner@|@pronar@
+@ox@|@ka@
+@oxen team@|@pendë@
+@pace@|@hap@
+@pack-animal@|@kafshë barre@
+@packet@|@pako@
+@packsaddle@|@samar@
+@page@|@faqe@
+@pain@|@dhembje@
+@paint@|@lyej@
+@painted@|@pikturuar (i)@
+@painter@|@piktor@
+@painting@|@pikturë@
+@pair@|@çift, një palë@
+@palace@|@pallat@
+@palaentolog@|@paleontolog@
+@pale@|@hu, zbehtë (i)@
+@palm@|@pëllëmbë@
+@pan@|@tavë@
+@pan dish with yoghurt and lamb meat@|@tavë kosi@
+@pancake@|@petull@
+@paper@|@letër@
+@pappy@|@lluqe@
+@parched@|@përzhitur@
+@parent@|@prind@
+@park@|@lulishte, park, parkoj@
+@parson@|@famulltar@
+@part@|@pjesë@
+@part with@|@ndahem@
+@partake@|@shijoj@
+@participant@|@pjesëmarrës@
+@particular@|@veçantë (i)@
+@partisan@|@partizan@
+@partridge@|@thëllëzë@
+@parts@|@vise@
+@party@|@mbrëmje, parti@
+@pasha@|@pasha@
+@pass@|@kaloj, qafë@
+@passage@|@korridor@
+@passenger@|@pasagjer@
+@passer-by@|@kalimtar@
+@pastry@|@brumë@
+@patch@|@arnoj@
+@paternal aunt@|@hallë@
+@path@|@shteg@
+@patriot@|@patriot@
+@pattern@|@mostër@
+@pause@|@pushim@
+@pavement@|@trotuar@
+@paw@|@putër@
+@pay@|@paguaj@
+@payee@|@pagë marrës@
+@peace@|@paqe@
+@peach@|@pjeshkë@
+@peak@|@majë@
+@pear@|@dardhë@
+@pearl@|@perlë@
+@peel@|@cipë@
+@pen@|@stilolaps@
+@pencil@|@laps@
+@penetration@|@depërtim@
+@peninsula@|@gadishull@
+@penis@|@penis@
+@people@|@njerëzi, popull@
+@people's@|@popullor@
+@perceive@|@ndiej@
+@perfume@|@parfum@
+@perhaps@|@kushedi, mbase, ndoshta@
+@peril@|@rrezik@
+@period@|@periudhë@
+@permanent@|@përhershëm (i)@
+@permission@|@leje, lejim, marr leje@
+@permit@|@lë, leje@
+@Persian carpet@|@sixhade@
+@person@|@njeri@
+@pest@|@dëmtues@
+@petrol@|@naftë@
+@phone@|@marr në telefon@
+@photography@|@fotografi@
+@phrase@|@frazë@
+@phychic@|@psikik@
+@pickles@|@turshi@
+@pie@|@byrek@
+@piece@|@copë, pjesë@
+@pig@|@derr@
+@pigeon@|@pëllumb@
+@pile@|@grumbull, stivë, tog, turrë@
+@pin@|@gjilpërë me kokë@
+@pink@|@karafil, rozë@
+@piss@|@shurrë@
+@pit@|@gropë, minierë@
+@pity@|@mëshirë@
+@place@|@vë, vend, vendos@
+@place of residence@|@vendbanim@
+@plain@|@fushë@
+@plait@|@gërshet@
+@plan@|@plan@
+@plank@|@dërrasë@
+@plant@|@bimë, bimor, mbjell@
+@plaster@|@suva@
+@plate@|@pllakë@
+@plateau@|@pllakë@
+@play@|@lojë, loz, luaj@
+@play the flute@|@i bie fyellit@
+@pleasant@|@këndshëm (i)@
+@pleasantly@|@ëmbël, këndshëm@
+@please@|@ju/të lutem@
+@plesure@|@qejf@
+@plight@|@dertim, hall@
+@plough@|@lëroj@
+@pluck@|@këput, vjel@
+@plum@|@kumbull@
+@plump@|@brumbullak@
+@plunge@|@zhys@
+@pocket@|@xhep@
+@pocket-knife@|@biçak@
+@poem@|@poezi@
+@poet@|@poet@
+@poetry@|@poezi@
+@point@|@pikë@
+@poison@|@helm@
+@polish@|@llustroj@
+@Polish@|@polak@
+@political@|@politik@
+@politness@|@njerëzi@
+@pool@|@pellg@
+@poor@|@gjorë (i), shkretë (i), varfër (i)@
+@poplar@|@plep@
+@poplar-corpse@|@plepishte@
+@popular@|@popullor@
+@pork@|@mish derri@
+@porridge@|@çorbë@
+@portion@|@pjesë@
+@possess@|@zotëroj@
+@post@|@postoj@
+@posterior@|@pasardhës@
+@potato@|@patate@
+@potent@|@potent@
+@pouch@|@trastë@
+@pour@|@derdh@
+@pour in@|@shtie@
+@poverty@|@varfëri@
+@powder@|@pudër@
+@power@|@pushtet@
+@powerful@|@fuqishëm (i)@
+@pray@|@lus@
+@precipitation@|@reshje@
+@precise@|@përpiktë (i)@
+@precisely@|@fiks, pikërisht@
+@preliminary@|@paraprak@
+@prelong@|@zgjas@
+@prepare@|@gatuaj, përgatit@
+@prescribe@|@jap recetë@
+@present@|@dhuratë, pranishëm (i)@
+@present day@|@sotëm (i)@
+@press@|@shtrydh@
+@pretend@|@pretendoj@
+@pretext@|@sebep@
+@pretty@|@bukur (i), pashëm (i)@
+@prey@|@gjah@
+@price@|@çmim@
+@prickly bush@|@ferrë@
+@pride@|@krenari@
+@priest@|@prift@
+@prince@|@princ@
+@principal@|@kryesor@
+@principal castle@|@kryekështjellë@
+@prison@|@burg@
+@private@|@privat@
+@prize@|@çmim@
+@probably@|@ka mundësi@
+@process@|@përpunoj@
+@productive@|@pjellor@
+@professor@|@profesor@
+@profit@|@dobi, fitim@
+@programme@|@emision@
+@promise@|@premtim@
+@prone@|@përmbys@
+@pronounce@|@shqiptoj@
+@pronunciation@|@shqiptim@
+@properly@|@ashtu siç duhet, përshtatshmëri@
+@property@|@pronë@
+@prosperous@|@lulëzuar (i)@
+@protect@|@mbroj, ruaj@
+@protected@|@mbrojtur (i)@
+@protector@|@mbrojtës@
+@prove@|@provoj@
+@proverb@|@fjalë e urtë@
+@provide@|@furnizoj@
+@prune@|@krasis@
+@psychiatrist@|@psikiatër@
+@pub@|@lokal@
+@publish@|@botoj@
+@puff@|@shtëllungë@
+@puff pastry@|@byrek@
+@puff pasty@|@petull@
+@pull@|@tërheq@
+@pullover@|@triko@
+@punctuation@|@shenja e pikësimit@
+@punish@|@dënoj@
+@pupil@|@nxënës@
+@purchase@|@blej@
+@pure@|@pastër (i)@
+@purple@|@purpurt (i)@
+@pursue@|@ndjek@
+@pussy@|@pidh@
+@put@|@shtroj, vë@
+@put in@|@fus@
+@put off@|@shuaj@
+@put on@|@ndez, vesh@
+@put out@|@shuaj@
+@quality@|@cilësi@
+@quantity@|@sasi@
+@quarrel@|@ngatëresë@
+@quarter@|@çerek@
+@queen@|@mbretëreshë@
+@question@|@pyes, pyetje@
+@quick@|@shpejtë (i)@
+@quickly@|@shpejt@
+@quiet@|@qetë (i)@
+@quieten@|@qetësoj@
+@quieting@|@qetësues@
+@quilted jacked@|@xhup@
+@quince@|@ftua@
+@quite@|@fare@
+@quota@|@normë@
+@rabies@|@tërbim@
+@radiate@|@rrezatoj@
+@radiator@|@kalorifer@
+@radio@|@radio@
+@radiography@|@radiografi@
+@radius@|@rreze@
+@rag@|@leckë, zhele@
+@rage@|@furi, tërbim@
+@ragged@|@leckosur (i)@
+@ragged man@|@zhelan@
+@rahat lakoum@|@llokume@
+@railway carriage@|@vagon@
+@railway station@|@stacion treni@
+@rain@|@shi@
+@rainbow@|@ylber@
+@raise@|@çoj, ngre, rrit, shtroj@
+@ram@|@dash@
+@rank@|@gradë, titull@
+@rapid@|@shpejtë (i)@
+@rare@|@rrallë (i)@
+@rarery@|@rrallë@
+@rat@|@mi@
+@rate@|@taksë@
+@rather@|@mjaft@
+@raw@|@papjekur (i)@
+@ray@|@rreze@
+@reach@|@arrij, mbush@
+@read@|@lexoj@
+@readiness@|@gatishmëri@
+@ready@|@gati@
+@real@|@real@
+@realistic@|@realist@
+@really@|@vërtet@
+@reap@|@korr@
+@rebel@|@kryengritës, rebel@
+@receive@|@marr@
+@recent@|@i kohës së fundit, ri (i)@
+@recently@|@rishtazi@
+@reception@|@pritje@
+@receptionist@|@sportelist@
+@recognize@|@njoh@
+@recompense@|@shpërblej@
+@red@|@kuq (i)@
+@reddened@|@skuqur (i)@
+@reduce@|@pakësoj@
+@refectory@|@mensë@
+@refer@|@përmend, referohem@
+@reform@|@reformoj@
+@refresh@|@freskoj@
+@refreshing@|@freskues@
+@regain@|@rifitoj@
+@region@|@krahinë, trevë@
+@register@|@regjistër@
+@regret@|@më vjen keq@
+@regular@|@rregullt (i)@
+@rejoice@|@gëzohem@
+@rejoicing@|@hare@
+@relative@|@fis@
+@relay@|@ndërroj, trasmetoj@
+@release@|@lëshoj, lirim@
+@releived@|@lehtësuar (i)@
+@relief@|@reliev@
+@religion@|@fe@
+@religious@|@fetar@
+@remain@|@mbes, ngel@
+@remember@|@kujtoj, mbaj mend@
+@remind@|@kujtoj@
+@remote@|@largët (i)@
+@remove@|@heq, largoj@
+@rend@|@çjerr@
+@renew@|@përsëris@
+@rent@|@marr/jap me qera@
+@repeat@|@përsëris@
+@reply@|@ia kthej, përgjigjem@
+@report@|@njoftoj, raportoj@
+@representativ@|@përfaqësues@
+@reputation@|@famë, reputacion@
+@research@|@gjurmim@
+@resemble@|@përngjan@
+@reserve@|@rezervë@
+@reside@|@banoj@
+@resident@|@banor@
+@resignation@|@lirim@
+@resistance@|@qëndresë@
+@resolve@|@shpëtoj@
+@respect@|@nderoj@
+@respectively@|@përkatësisht@
+@rest@|@mbetje, pushoj@
+@rest home@|@shtëpi pushimi@
+@restaurant@|@restorant@
+@restituition@|@kthim@
+@restrain@|@përmbaj@
+@result@|@rezultat@
+@retail@|@shitje me pakicë@
+@retard@|@vonoj@
+@retire@|@dal në pension@
+@retreat@|@kthehem@
+@return@|@kthim@
+@reverly@|@zijafet@
+@reverse@|@përmbys@
+@reversely@|@mbrapsht@
+@revived@|@gjallur (i)@
+@reward@|@shpërblej, shpërblim@
+@rheumatism@|@reumatizëm@
+@rib@|@brinjë@
+@rich@|@kamur (i), pasur (i)@
+@richness@|@pasuri@
+@rid@|@shpëtoj@
+@riddle@|@gjëegjëzë@
+@rifle@|@pushkë@
+@right@|@djathtas, drejtë (i), mbarë (i), mu@
+@right away@|@menjëherë@
+@righthand@|@e djathta@
+@rigorous@|@rreptë (i)@
+@ring@|@tringëllin@
+@ring up@|@telefonoj@
+@rinse@|@shpërlaj@
+@riot@|@trazirë@
+@ripe@|@pjekur (i)@
+@rise@|@e përpjetë, ngrihem@
+@risk@|@rrezik@
+@risotto@|@pilaf@
+@rival@|@rival@
+@river@|@lumë@
+@road@|@rrugë@
+@roar@|@buças, shungëlloj@
+@rock@|@përkund, shkëmb, shkrep, tund@
+@rocky@|@shkëmbor@
+@rod@|@shkop@
+@rogue@|@batakçi@
+@roll@|@rrotullim@
+@Roman@|@romak@
+@roof@|@çati@
+@room@|@dhomë, hapësirë, odë@
+@roor@|@ulërimë@
+@root@|@rrënjë@
+@rose@|@trëndafil@
+@rot@|@qelbet@
+@rotation@|@rrotullim@
+@rotten@|@prishur (i)@
+@rough@|@ashpër (i)@
+@round@|@përreth, rrumbullakët (i)@
+@roundabout@|@tërthortë (i)@
+@rouse@|@zgjoj@
+@rout@|@shpartalloj@
+@row@|@rradhë, rresht@
+@royal@|@fisnik@
+@rub@|@fërkoj@
+@rub dry@|@shterron@
+@ruby@|@rubin@
+@rude@|@pasjellshëm (i)@
+@rug@|@qilim@
+@rugby@|@regbi@
+@ruin@|@rrënim, shkatërroj@
+@rule@|@rregull, zakon@
+@Rumanian@|@rumun@
+@rumble@|@shungëlloj@
+@run@|@rrjedh, turrem, vrapoj@
+@running@|@vrap@
+@rural district@|@lokalitet@
+@rush@|@hidhem, lëshohem, presion, vrull@
+@Russian@|@rus@
+@rustle@|@shushurin@
+@rye@|@thekër@
+@rythm@|@ritëm@
+@sack@|@thes@
+@safe@|@sigurtë (i)@
+@sail@|@lundroj@
+@sailor@|@detar, marinar@
+@salad@|@sallatë@
+@salary@|@rrogë@
+@salon@|@sallon@
+@salt@|@kripë@
+@same@|@njëjtë (i)@
+@sand@|@rërë@
+@satchel@|@çantë@
+@satisfied@|@kënaqur (i)@
+@Saturday@|@e shtunë@
+@sausage@|@sallam@
+@sause@|@salcë@
+@saw@|@qep, sharrë@
+@say@|@them@
+@scale@|@shkallë@
+@scar@|@mbresë@
+@scarf@|@shall@
+@scatter@|@shpërndaj@
+@scene@|@skenë@
+@school@|@shkollë@
+@school-@|@shkollor@
+@scissors@|@gërshërë@
+@scorched@|@përzhitur@
+@scorpion@|@akrep@
+@scowl@|@hakërrohem@
+@scrach@|@kruaj@
+@screen@|@ekran@
+@sculptor@|@skulptor@
+@sea@|@det@
+@season@|@stinë@
+@seat@|@sedile, vend@
+@second@|@dytë (i), sekondë@
+@secondary school@|@gjimnaz@
+@secret@|@fshehur (i)@
+@secretly@|@fshehurazi@
+@secure@|@siguroj, sigurtë (i)@
+@see@|@shikoj, shoh@
+@see off@|@përcjell@
+@see you later@|@mirupafshim@
+@seed@|@farë@
+@seize@|@kap, zë@
+@seldom@|@rrallë, rrallë (i)@
+@select@|@zgjedh@
+@selected@|@zgjedhur (i)@
+@self@|@vet (i), vetë@
+@sell@|@shes@
+@seller@|@shitës@
+@semidarkness@|@gjysmerrësirë@
+@sence@|@ndjenjë@
+@send@|@çoj, shpie@
+@send away@|@largoj@
+@sensation@|@bujë@
+@sentence@|@fjali@
+@separate@|@ndaj@
+@separation@|@ndarje@
+@September@|@shtator@
+@servant@|@shërbëtor@
+@serve@|@shërbej@
+@service@|@shërbim@
+@set free@|@lëshoj@
+@set light@|@ndez@
+@set on@|@ndërsej@
+@set out@|@lëshohem, nisem@
+@sets (the sun)@|@perëndon@
+@settle@|@ngulem@
+@seven@|@shtatë@
+@seventh@|@shtatë (i)@
+@severe@|@ashpër (i), rreptë (i)@
+@sew@|@qep@
+@sex@|@gjini@
+@shade@|@hije@
+@shadow@|@hije@
+@shah@|@chess@
+@shake@|@tund@
+@shallow@|@cekët (i)@
+@shame@|@turp@
+@sharp@|@fiks@
+@shave@|@rruaj@
+@she@|@ajo@
+@she too@|@edhe ajo@
+@she-bear@|@arushë@
+@shed@|@derdh@
+@sheep@|@dele@
+@sheepfold@|@vathë@
+@sheet@|@çarçaf, fletë@
+@shell@|@guaskë@
+@shelter@|@strehë, strehoj@
+@shepherd@|@bari@
+@shepherd's cloak@|@gunë@
+@shin@|@kërci@
+@shine@|@shkëlqej, shndrit@
+@shirt@|@këmishë@
+@shit@|@dhjes, mut@
+@shoe@|@këpucë@
+@shoot@|@shtie@
+@shop@|@lokal@
+@shop assistant@|@shitës@
+@shore@|@breg@
+@shoulder@|@krah, shpatull, sup@
+@shoulder to shoulder@|@krah për krah@
+@shout@|@britmë, thërras@
+@shovel@|@lopatë@
+@show green@|@bleron@
+@show yellow@|@zverdhon@
+@shower-bath@|@dush@
+@shut@|@mbyll@
+@sick@|@sëmurë@
+@sickly@|@ngordhur (i)@
+@side@|@anë, brinjë@
+@sign@|@shenjë@
+@signboard@|@tabelë@
+@silence@|@heshtje, qetësi@
+@silent@|@heshtur (i)@
+@silver@|@argjend, argjendtë (i)@
+@simple@|@thjeshtë (i)@
+@sin@|@mëkat@
+@since@|@ngaqë@
+@sing@|@këndoj@
+@singer@|@këngëtar, këngëtare@
+@single@|@beqar, vetëm (i)@
+@sir@|@zotëri, zotni@
+@sister@|@motër@
+@sit@|@rri@
+@six@|@gjashtë@
+@sixth@|@gjashtë (i)@
+@skeleton@|@skelet@
+@skewer@|@hell@
+@skill@|@mjeshtëri@
+@skin@|@lëkurë@
+@skirmish@|@përpjekje@
+@skull@|@kafkë@
+@sky@|@qiell@
+@slab@|@pllakë@
+@slam@|@shkrep@
+@slavery@|@robëri@
+@sleep@|@gjumë@
+@sleepily@|@përgjumësh@
+@sleepyhead@|@gjumash@
+@sleeve@|@mëngë@
+@slide@|@rrëshqas@
+@slight@|@dobët (i), hollë (i)@
+@slim@|@dobët (i), hollë (i)@
+@slippers@|@pandofla@
+@slope@|@e përpjetë, shpat, tatëpjetë@
+@slot@|@vrimë@
+@Slovenian@|@slloven@
+@slowly@|@dalëngadalë, ngadalë@
+@slowly-slowly@|@avash-avash@
+@sluggish@|@fjetur (i)@
+@small@|@pakët (i), vogël (i)@
+@small change@|@të holla@
+@smash@|@shpartalloj@
+@smashed@|@copëtuar (i)@
+@smear@|@lyej@
+@smell@|@lëshon erë, nuhatje@
+@smile@|@buzagaz, buzëqesh, qesh@
+@smiling@|@me buzë në gaz, qeshur (i)@
+@smoke@|@pi duhan, tym@
+@snake@|@gjarpër@
+@snap of@|@këput@
+@snare@|@kurth@
+@snarl@|@hakërrohem@
+@snow@|@borë@
+@so@|@ashtu, kaq, kështu, pra@
+@so much@|@kaq@
+@so that@|@në mënyrë që@
+@soak@|@lag, njom, qull@
+@soap@|@sapun@
+@sob@|@ngashërim@
+@social@|@shoqëror@
+@society@|@shoqëri@
+@sock@|@çorape@
+@sofa@|@divan@
+@soft@|@butë (i)@
+@sole@|@vetëm (i)@
+@sole (of foot)@|@putër, shputë@
+@solicitous@|@kujdesshëm (i)@
+@solitary@|@vetmuar (i)@
+@solve@|@zgjidh@
+@some@|@ca, disa@
+@some time ago@|@dikur@
+@somebody@|@dikush@
+@someone@|@ndonjë@
+@something@|@diçka, gjësendi@
+@sometimes@|@nganjëherë@
+@somewhere@|@gjëkund, ndokund@
+@somobody@|@kush@
+@son@|@biri@
+@song@|@këngë@
+@son-in-law@|@dhëndër@
+@soon@|@shpejt@
+@sore@|@sëmurë (i)@
+@sorow@|@hidhërim@
+@sort@|@lloj@
+@soul@|@shpirt@
+@soup@|@supë@
+@sour@|@thartë (i)@
+@source@|@burim, gurrë@
+@souvenir@|@kujtim@
+@sow@|@dosë, mbjell@
+@space@|@hapësirë@
+@spade@|@lopatë@
+@Spanish@|@spanjoll@
+@spare@|@rezervë, rrallë (i), tepërt (i)@
+@spark@|@xixë@
+@sparkling@|@shndritshëm (i)@
+@speak@|@flas@
+@special@|@posaçëm (i)@
+@speciality@|@specialitet@
+@specialization@|@specializim@
+@species@|@lloj@
+@speck@|@njollëz@
+@spectator@|@shikues@
+@speed@|@shpejtësi@
+@speeded up@|@shpejtuar (i)@
+@speel@|@fle@
+@spend the holiday@|@pushoj@
+@spill@|@derdh@
+@spindle@|@bosht@
+@spirit@|@frymë, shpirt@
+@spit@|@hell, pështyj@
+@spleen@|@shpretkë@
+@split@|@çaj@
+@spoilt@|@prishur (i)@
+@spoon@|@lugë@
+@sporting@|@sportiv@
+@sportsman@|@sportist@
+@spot@|@njollë, pullë@
+@spotted@|@larmë (i)@
+@sprakle@|@xixëllon@
+@spread@|@përhap, shtroj@
+@spread out@|@shtrij@
+@spring@|@bunar, burim, gurrë, krua, mbin, pranveror@
+@spring (season)@|@pranverë@
+@sprout@|@mbin@
+@squadron@|@skuadër@
+@square@|@shesh@
+@squeak@|@pipëtimë@
+@squezze@|@shtrydh@
+@stable@|@ahur, qëndrueshëm (i)@
+@staff@|@personel@
+@stage@|@skenë@
+@stagger@|@marrje këmbësh@
+@stair@|@shkallë@
+@stairs@|@shkallë@
+@stake@|@hu@
+@stale@|@bajat@
+@stamp@|@pullë@
+@stand@|@duroj, qëndroj@
+@stand out@|@dallohem@
+@stand up@|@ngrihem@
+@standing@|@përhershëm (i)@
+@star@|@yll@
+@stare@|@habitem@
+@start@|@fillim, filloj, lëshohem, nis, nisem@
+@state@|@shtet@
+@state secretary@|@ministër@
+@station@|@stacion@
+@statue@|@shtatore@
+@stature@|@shtat@
+@stay@|@qëndroj, rri@
+@steady@|@qëndrueshëm (i)@
+@stealthily@|@vjedhurazi@
+@steep@|@thepisur (i)@
+@stem@|@temë@
+@step@|@hap@
+@stew-pan@|@tenxhere@
+@stick@|@ngjis, shkop@
+@still@|@ende, heshtur (i)@
+@sting@|@thumbim@
+@stir@|@bujë, lëviz, lëvizje, trazoj@
+@stock-breeder@|@blegtor@
+@stock-breeding@|@blegtori@
+@stomach@|@plëndës, stomak@
+@stone@|@gur@
+@stool@|@stol@
+@stop@|@ndahem, ndaloj, pushoj, qëndroj@
+@storey@|@kat@
+@storm@|@furtunë, shtrëngatë, tufan@
+@story@|@histori@
+@stove@|@furrë, sobë, stufë@
+@straight@|@drejtë (i)@
+@strange@|@çuditshëm (i)@
+@stranger@|@huaj (i)@
+@strangle@|@mbys@
+@straw@|@kashtë@
+@street@|@rrugë@
+@strength@|@forcë@
+@strengthen@|@forcoj@
+@stretch@|@shtrihet@
+@stretch out@|@shtrij@
+@strict@|@rreptë (i)@
+@strike@|@përpjek, përplas, shkrep@
+@string@|@spango, tel@
+@striped@|@vija-vija@
+@stroke@|@vijë@
+@stroll@|@shëtit@
+@strong@|@fortë (i), fuqishëm (i)@
+@struggle@|@luftë@
+@student@|@student@
+@stuff@|@material@
+@stumble@|@rrëzohem@
+@stylized@|@stilizuar (i)@
+@subject@|@subjekt, temë@
+@subtraction@|@zbritje@
+@suburban@|@rreth qytetit@
+@success@|@sukses@
+@success in your work@|@puna e mbarë@
+@success to you@|@mbarë paç@
+@successful@|@mbarë (i)@
+@successful and honoured@|@faqebardhë@
+@successor@|@pasardhës@
+@such@|@tillë (i)@
+@suck@|@thith@
+@sucking pig@|@derrkuc@
+@sudden@|@befasishëm (i)@
+@suffer@|@heq@
+@suffering@|@vuajtje@
+@suffix@|@prapashtesë@
+@suffocate@|@mbys@
+@sugar@|@sheqer@
+@suggestion@|@proposim, sygjerim@
+@suitable@|@përshtatshëm (i)@
+@suitcase@|@valixhe@
+@sum@|@mbledhje, përmbedhje@
+@summer@|@verë@
+@summer-@|@veror@
+@summit@|@çukë@
+@sun@|@diell@
+@sunburnt@|@nxirë (i)@
+@Sunday@|@e diel@
+@sunset@|@perëndim@
+@supply@|@furnizoj, pajis@
+@suppose@|@ma merr mendja@
+@sure@|@sigurtë (i)@
+@surface@|@sipërfaqe@
+@surgical@|@kirurgjik@
+@surname@|@mbiemër@
+@surprise@|@habi, surprizë@
+@surprised@|@habitur (i)@
+@surround@|@rrethoj@
+@survivor@|@mbijetuar (i)@
+@suspect@|@dyshimtë (i)@
+@swallow@|@dallëndyshe, kullufit@
+@swear@|@be, betohem@
+@sweat@|@djersë@
+@Swedish@|@suedez@
+@sweep@|@fshij, përlaj@
+@sweet@|@ëmbël (i), ëmbëlsirë@
+@swell@|@ënjtem@
+@swift-footed@|@këmbëshpejtë@
+@swill@|@shpërlaj@
+@swim@|@notoj@
+@swimming@|@not@
+@swimming-pool@|@pishinë@
+@swine@|@derr@
+@swing@|@përkund@
+@Swiss@|@zviceran@
+@switch@|@çelës elektrik@
+@sword@|@shpatë@
+@systematic@|@sistematik@
+@systemize@|@sistemoj@
+@table@|@tabelë, tryezë@
+@table clock@|@orë tryeze@
+@table-cloth@|@mësallë@
+@tactic@|@taktikë@
+@tail@|@bisht@
+@take@|@marr, zë@
+@take a decision@|@marr një vendim@
+@take a walk@|@shëtit@
+@take away@|@heq@
+@take care@|@kam kujdes, kujdesem@
+@take off@|@heq, zhvesh@
+@take place@|@ndodh@
+@take to one's heels@|@ia mbath@
+@talent@|@talent@
+@talk@|@bisedë, bisedoj@
+@tall@|@gjatë (i)@
+@tame@|@butë (i)@
+@tar@|@katran@
+@target@|@nishan, shenjë@
+@task@|@detyrë@
+@taste@|@shijoj@
+@tasteful@|@shijshëm (i)@
+@tasty@|@shijshëm (i)@
+@taxi@|@taksi@
+@tea@|@çaj@
+@teacher@|@mësues@
+@team@|@skuadër@
+@tear@|@çjerr, lot@
+@tear off@|@këput@
+@tease@|@ngacmoj, ngas@
+@telegram@|@telegram@
+@telephone@|@telefon, telefonoj@
+@tell@|@them, tregoj@
+@ten@|@dhjetë@
+@tend@|@prirem, synoj@
+@tendency@|@prirje@
+@tennis@|@tenis@
+@tent@|@çadër, tendë@
+@tenth@|@dhjetë (i)@
+@territory@|@trevë@
+@test@|@provë, provoj@
+@testify@|@dëshmoj@
+@thank you@|@faleminderit@
+@that@|@ai@
+@that (so...)@|@saqë@
+@that way@|@ashtu@
+@the clock goes well@|@ora shkon mirë@
+@the clock is correct@|@ora punon mirë@
+@the clock is fast@|@ora shkon përpara@
+@the clock is incorrect@|@ora punon keq@
+@the clock is right@|@ora është në rregull@
+@the clock is slow@|@ora mbetet prapa@
+@the day after tomorrow@|@pasnesër@
+@the day before yesterday@|@pardje@
+@the end of the world@|@kiamet@
+@the other way round@|@anasjelltas@
+@theft@|@vjedhje@
+@their@|@tyre (i)@
+@theme@|@temë@
+@then@|@atëherë, pastaj@
+@there@|@andej, aty, ja@
+@therefore@|@pra, prandaj@
+@these@|@këta, këto@
+@they@|@ato@
+@thick@|@trashë (i)@
+@thick bell-formed skirt@|@xhubletë@
+@thigh@|@kofshë@
+@thin@|@hollë (i)@
+@think@|@ma merr mendja, mendoj@
+@third@|@tretë (i)@
+@this@|@kjo, ky@
+@this way@|@kështu@
+@this year@|@sivjet@
+@thorax@|@kraharor@
+@thorn@|@gjemb@
+@though@|@ndonëse@
+@thought@|@mendim@
+@thread@|@fije@
+@threaten@|@kërcënoj@
+@three@|@tre@
+@threshing-floor@|@lëmë@
+@threshold@|@prag@
+@thrifty@|@ekonomik, kursimtar@
+@throat@|@grykë@
+@throne@|@fron@
+@through@|@nëpërmes@
+@throw@|@hedh@
+@throw away@|@flak@
+@throw oneself@|@hidhem@
+@thunder@|@bubullin, buças, gjëmon@
+@thunderbolt@|@rrufe@
+@Thursday@|@e enjte@
+@ticket@|@biletë@
+@tide@|@baticë@
+@tidy@|@pastërt (i), rregullt (i)@
+@tie@|@lidh, lidhje@
+@tight@|@ngushtë (i)@
+@tile@|@pllakë@
+@till@|@lëroj@
+@till now@|@deri tani@
+@time@|@kohë@
+@timetable@|@orar@
+@tin@|@kuti konservash@
+@tiny@|@imtë (i), pakët (i)@
+@tip@|@majë@
+@tiptoe@|@në majë të gishtave@
+@tire@|@lodh@
+@to@|@deri në, në, për, te/k@
+@to fall into the trap@|@bie në kurth@
+@to have a stroke@|@i bie pika@
+@to the left@|@nga e majta@
+@to the right@|@djathtas, nga e djathta@
+@to wish@|@kam dëshirë@
+@toast@|@dolli@
+@tobacco@|@duhan@
+@today@|@sot@
+@today's@|@sotëm (i)@
+@toe@|@gisht i këmbës@
+@together@|@bashkë@
+@token@|@shenjë@
+@tomato@|@domate@
+@tomb@|@varr@
+@tomcat@|@maçok@
+@tomorrow@|@nesër@
+@ton@|@ton@
+@tone@|@ton@
+@tongs@|@darë@
+@tongue@|@gjuhë@
+@too@|@gjithashtu, si (e)dhe@
+@tool@|@mjet, vegël@
+@tooth@|@dhëmb@
+@top@|@majë@
+@toponym@|@toponim@
+@topsy-turvy@|@tjetër për tjetër@
+@torn@|@gris@
+@torso@|@trung@
+@tortoise@|@breshkë@
+@touch@|@prek@
+@tourist@|@turist@
+@towel@|@peshqir@
+@town@|@qytet@
+@toy@|@lodër@
+@trace@|@gjurmë@
+@tractor@|@traktor@
+@trade@|@tregti@
+@tradesman@|@tregtar@
+@tradition@|@traditë@
+@traditional@|@tradicional@
+@train@|@tren@
+@training@|@stërvitje@
+@trait@|@cilësi, tipar@
+@translator@|@përkthyes@
+@transparent@|@kulluar (i)@
+@trap@|@kurth@
+@travel@|@udhëtoj@
+@tray@|@tabaka@
+@tread@|@shkel@
+@treasure@|@thesar@
+@treat@|@gostis, mjekoj, përpunoj@
+@treatment@|@trajtim@
+@tree@|@dru, pemë@
+@tress@|@gërshet@
+@tribal@|@fisnor@
+@tribe@|@fis@
+@tripe@|@plëndës@
+@trouble@|@dertim, hall, mundohem@
+@trousers@|@pantallona@
+@truck@|@kamion@
+@trumpet@|@bori@
+@trunk@|@trung@
+@trust@|@besoj@
+@truth@|@vërtetë (e)@
+@try@|@gjykoj, mundohem, përpiqem, provoj@
+@Tuesday@|@e martë@
+@turbid@|@turbullt (i)@
+@turkey@|@gjel deti@
+@Turkish@|@turk@
+@turn@|@kthej, rrotullim@
+@turn back@|@ia kthej@
+@turn green@|@bleron@
+@turn grey@|@thinjem@
+@turn over@|@përmbys@
+@turn round@|@rrotullohet, sjell@
+@turnover@|@xhiro@
+@twelfth@|@dymbëdhjetë (i)@
+@twelve@|@dymbëdhjetë@
+@twenty@|@njëzet@
+@twig@|@filiz@
+@twinkle@|@xixëllon@
+@twinkling@|@vezullues@
+@twist@|@gjarpëron, përdredh, rrotullohet@
+@twitter@|@cicërin@
+@two@|@dy@
+@two-storeyed@|@dykatësh@
+@two-stringed lute@|@çifteli@
+@tyrant@|@tiran@
+@ugly@|@shëmtuar (i)@
+@umbrella@|@çadër@
+@uncle (father's brother)@|@xhaxha@
+@uncovering@|@zbulim@
+@under@|@nën@
+@understand@|@marr vesh@
+@undress@|@zhvesh@
+@undressed@|@zhveshur (i)@
+@unexpected@|@papritur (i)@
+@unfasten@|@zgjidh@
+@unforgettable@|@paharrueshëm (i)@
+@unhappy@|@mjerë (i)@
+@unification@|@bashkim@
+@union@|@bashkim@
+@united@|@bashkuar (i)@
+@unknit@|@shthur@
+@unmarried@|@beqar, pamartuar (i)@
+@unplait@|@shthur@
+@unprepared@|@papërgatitur (i)@
+@unreversed decision@|@vendim i prerë@
+@unsatisfactory@|@mangët (i)@
+@untie@|@zgjidh@
+@until@|@deri në, derisa@
+@untruth@|@rrenë@
+@unweave@|@shthur@
+@unwritten@|@pashkruar (i)@
+@up@|@sipër@
+@upon@|@mbi, përmbi, përmbri@
+@uprising@|@kryengritje@
+@upside down@|@përmbys@
+@upstairs@|@sipër@
+@use@|@përdor, shfrytëzoj@
+@useful@|@dobishëm (i)@
+@usually@|@zakonisht@
+@vagina@|@vagina@
+@valley@|@luginë@
+@value@|@vlerë@
+@various@|@larmë (i), ndryshëm (i), shumëllojshëm (i)@
+@vegetable@|@bimor@
+@vegetable pie@|@lakror@
+@vegetables@|@perime@
+@vegetation@|@bimësi@
+@ventilate@|@ajros@
+@verandah@|@verandë@
+@verdure@|@blerim, gjelbërin@
+@vernal@|@pranveror@
+@verse@|@varg@
+@very@|@shumë@
+@vest@|@këmishë@
+@vice@|@huq, ves@
+@vice-director@|@nëndrejtor@
+@victor@|@fitimtar@
+@viewer@|@shikues@
+@vile@|@faqezi@
+@villa@|@vilë@
+@village@|@fshat, katund@
+@vineyard@|@vreshtë@
+@violence@|@dhunë@
+@violet@|@vjollcë@
+@visit@|@vizitë@
+@visitor@|@vizitor@
+@voice@|@zë@
+@vomit@|@vjell@
+@vortex@|@vorbull@
+@wage@|@rrogë@
+@wail@|@lebetitem@
+@wailing@|@kujë@
+@waist@|@mes@
+@waist coat@|@jelek@
+@waistcoat@|@jelek@
+@wait@|@pres@
+@waiter@|@kamarier@
+@waitress@|@kamariere@
+@wake@|@zgjoj@
+@wake up@|@gëdhin, ngrihem nga gjumi@
+@walk@|@eci@
+@wall@|@mur@
+@walnut@|@arrë@
+@wander@|@bredh, endem@
+@wanderer@|@shtegtar@
+@wane@|@venitem@
+@want@|@dua@
+@war@|@luftë@
+@wardrobe@|@dollap@
+@warm@|@vakët (i)@
+@warm oneself@|@ngrohem@
+@warm up@|@ngroh@
+@warmth@|@ngrohtësi@
+@warn@|@paralajmëroj@
+@wash@|@laj@
+@washed@|@larë (i)@
+@wasp@|@grenzë@
+@waste@|@shpërdorim@
+@watch@|@këqyr, orë dore@
+@wave@|@dallgë, valë, valëvitet@
+@way@|@mënyrë, rrugë@
+@wayfarer@|@shtegtar@
+@we@|@ne@
+@weak@|@dobët (i)@
+@weaken@|@dobësohem, dobësoj@
+@weakness@|@dobësi@
+@wealth@|@pasuri@
+@wealthy@|@pasur (i)@
+@weary@|@lodh@
+@weather@|@kohë, mot@
+@wedding@|@dasmë, martesë@
+@wedding-guest@|@dasmor@
+@Wednesday@|@e mërkurë@
+@week@|@javë@
+@weekend@|@fundjavë@
+@weep@|@qaj@
+@welcome@|@mirësevini@
+@well@|@bunar, mirë@
+@well Formed@|@lidhur (i)@
+@well off@|@kamur (i)@
+@well turned@|@goditur (i)@
+@well-educated@|@formuar (i)@
+@west@|@perëndim@
+@wet@|@lagësht, njomë (i)@
+@what@|@ç', çfarë@
+@what is the weather like?@|@si është koha ?@
+@What time is it?@|@sa është ora?@
+@whatever@|@çfarëdo që@
+@What's the time?@|@sa e ke orën?@
+@what's your name?@|@si quhesh?@
+@wheat@|@grurë@
+@wheel@|@rrotë@
+@whelp@|@pjell@
+@when@|@kur@
+@whence@|@nga@
+@where@|@ku, nga@
+@where as@|@kurse, ndësa@
+@whereas@|@kurse, ndërsa@
+@wherever@|@kudo (që)@
+@whether@|@nëse, ose@
+@which@|@cila, cili, cili (i), kujt (i)@
+@whichever@|@kushdo@
+@while@|@ndërsa@
+@whirpool@|@vorbull@
+@whistle@|@fishkëllej@
+@white@|@bardhë (i)@
+@whiteness@|@bardhësi@
+@who@|@cili (i), kush@
+@whoever@|@kushdo (që)@
+@wholesale@|@shitje me shumicë@
+@whose@|@i kujt@
+@why@|@pse@
+@wide@|@gjerë (i)@
+@wife@|@grua@
+@wild@|@egër (i)@
+@wild clematis@|@kulpër@
+@wildness@|@egërsi@
+@willingness@|@gatishmëri@
+@willow@|@shelg@
+@wilt@|@vyshkem@
+@win@|@fitoj@
+@wind@|@erë, gjarpëron@
+@window@|@dritare, penxhere@
+@wine@|@verë@
+@wing@|@fletë, krah@
+@winner@|@fitimtar@
+@winter@|@dimër@
+@wipe@|@fshij@
+@wire@|@tel@
+@wireless@|@radio@
+@wisdom@|@zgjuarsi@
+@wish@|@dëshirë, dëshiroj@
+@wistfulness@|@mallëngjim@
+@with@|@me@
+@with caution@|@me kujdes@
+@with difficulty@|@mezi@
+@withdraw@|@tërheq@
+@withdrawal@|@tërheqje@
+@wither@|@vyshk, vyshkem@
+@within@|@brenda@
+@without@|@pa@
+@without fail@|@patjetër@
+@without reason@|@kot së koti@
+@woman@|@grua@
+@woman cleaner@|@pastruese@
+@womb@|@bark@
+@women's watch@|@orë grash@
+@wood@|@dru, pyll@
+@woodcutter@|@druvar@
+@wooden@|@prej druri@
+@wool@|@lesh@
+@word@|@fjalë@
+@word of honour@|@besë@
+@work@|@punë, punoj, shërbim, vepër@
+@worker@|@punëtor@
+@working day@|@ditë pune@
+@workshop@|@punishte@
+@world@|@botë, njerëzi@
+@worm@|@krimb@
+@worried@|@shqetësuar (i)@
+@worship@|@adhuroj@
+@worth@|@vlerë@
+@worthless@|@pa vlerë@
+@wound@|@plagë@
+@wrap@|@mbështjell, mbuloj@
+@wreck@|@shkatërroj@
+@wrecker@|@dëmtues@
+@wretched@|@gjorë (i), ngratë (i), shkretë (i)@
+@wring out@|@shtrydh@
+@wrinkle@|@rrudhë@
+@wrist@|@kyç (i dorës)@
+@wrist-watch@|@orë dore@
+@write@|@shkruaj@
+@writer@|@shkrimtar@
+@writing@|@shkrim@
+@yard@|@oborr@
+@year@|@mot, vit@
+@yearning@|@mall, përmallim, përmallshëm (i)@
+@yell@|@bërtas@
+@yellow@|@verdhë (i)@
+@yes@|@po@
+@yesterday@|@dje@
+@yet@|@ende@
+@you@|@ju@
+@you (for one person)@|@ti, ty@
+@you are welcomed@|@bujrum, mirardhshi@
+@you deserve it@|@hallall@
+@youghurt@|@kos@
+@young@|@ri (i)@
+@young boy@|@djalosh@
+@young lady@|@zonjushë@
+@young of animal@|@këlysh@
+@your@|@jote, juaj, të tutë, tu (e), tua (e), yti@
+@yours@|@jotja, tënd, tuaja, tuajët@
+@youth@|@rini@
+@zero@|@zero@
+

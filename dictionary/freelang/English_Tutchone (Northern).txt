@@ -1,0 +1,626 @@
+@English@|@Tutchone (Northern)@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a mushroom is growing@|@dlay nji neji@
+@ant@|@dajyal@
+@are they laughing together?@|@lehi hedlawa?@
+@are you cold?@|@hindlia?@
+@are you hungry?@|@dinmbada?@
+@arm@|@ugal@
+@at eldred's home@|@eldred uku zhat@
+@at last it is night@|@tl'aku tenru hutsin@
+@at last i've made the bannock@|@tl'aku lyoch'o hitsin@
+@baby@|@dunen, dunen zra@
+@baby rabbit@|@ge zra@
+@bannock@|@lyoch'o@
+@be quiet@|@tsen@
+@bear@|@sra@
+@beaver@|@tse@
+@big@|@cho@
+@bird@|@dzua@
+@black@|@denet'ro@
+@black bears@|@sra denet'ro@
+@blanket@|@ts'at@
+@blue@|@denintl'rum@
+@boy@|@dek'ana@
+@branches@|@dintth'in@
+@brown@|@dettho@
+@bull moose@|@denjik@
+@bullets@|@tthi@
+@butterfly@|@lala@
+@cane@|@to@
+@caribou@|@hudsi@
+@chest@|@udzedhel@
+@child@|@dunen@
+@christmas day@|@najan cho@
+@clothes@|@nde@
+@clouds@|@k'o@
+@come here@|@ani@
+@cow moose@|@dezra@
+@cranberry@|@gukhyo, intl'at@
+@crawling@|@anaju@
+@creek@|@tagia@
+@crying@|@etsay@
+@cup@|@k'uk'a@
+@day@|@dzenu@
+@do you have firewood?@|@tso inch'ina?@
+@do you have matches?@|@tl'yal inch'ina?@
+@do you hear me?@|@sedintth'aya?@
+@do you see any sheep?@|@mbay nin'ina?@
+@do you see any wolves?@|@egay nin'ina?@
+@do you speak native language?@|@dan ki huninjia?@
+@do you undestand native lang.@|@dan dintth'aya?@
+@do you want fish?@|@lu yenindhana?@
+@do you want soup?@|@tedaw yeenindhana ek'e?@
+@do you want tea?@|@di nindhana?@
+@do you want water?@|@chu nindhana?@
+@dog@|@tlin@
+@dog is sitting in the house@|@tlin dekum hut'at hede@
+@dog is sitting on the house@|@tlin dekun huka hede@
+@dog is sleeping on the rug@|@tlin k'e tya kah shenetin, udlin tya' kak senetin@
+@dog's sitting behind the house@|@tlin dekum hut'a hede@
+@dog's sitting beside the house@|@tlin dekum huma hede@
+@dog's sitting in front of home@|@tlin dekum hudan dede@
+@dog's sitting under the house@|@tlin dekum hut'e hede@
+@don't@|@law@
+@duck@|@chat@
+@ear@|@nindzay@
+@enough@|@tl'aku@
+@eye@|@enda@
+@face@|@enin@
+@father@|@ete@
+@firewood@|@tso@
+@fish@|@lu@
+@five@|@hulak'o@
+@fly@|@ts'o@
+@flying@|@aanet'e@
+@foot@|@ninki@
+@fork@|@syal@
+@four@|@leninch'i@
+@fox@|@nutthi@
+@frying pan@|@kagan@
+@girl@|@eyenjyala@
+@give me the baby@|@dunen eyaninchi@
+@give me the big knife@|@mbra cho je@
+@give me the big snowshoes@|@e cho je@
+@give me the blanket@|@ts'at eyaninchu@
+@give me the bullets@|@k'wank'e tthi eyaninli, k'wank'e tthi je@
+@give me the dog@|@tlin eyaninchi@
+@give me the gun@|@k'wank'e eyaninchi, k'wank'e je@
+@give me the knife@|@mbra eyanin'e@
+@give me the moccasins@|@ki eyaninli@
+@give me the paper@|@k'uk eyaninchu@
+@give me the rock@|@tthi eyanin'e@
+@give me the snowshoes@|@e je@
+@give me the stick@|@dechan eyaninchi@
+@give me the tea@|@di eyaninke@
+@give me the trap@|@khyal je@
+@give me the water@|@chu eyaninke@
+@go away@|@day@
+@good@|@saw@
+@goose@|@khe@
+@grandfather@|@etsi@
+@grandmo is cooking bannock@|@utsu lyo' eht'yo'@
+@grandmother@|@etsum@
+@grass@|@tl'aw@
+@grayling@|@t'a@
+@grouse@|@ji@
+@gun@|@k'wank'e@
+@hair@|@uttheye@
+@hand me the axe@|@chakhe je@
+@hand me the knife@|@mbra je@
+@hat@|@ts'at@
+@he@|@ede@
+@he goes to the lake@|@man ts'e dezhe@
+@he is crying@|@etsay ech'in@
+@he is dancing@|@elin ech'in@
+@he is dressed warm@|@'yak nethaw t'ehede@
+@he is drinking water@|@chu ede@
+@he is eating@|@eetthay ech'in@
+@he is eating dry fish@|@lu gan etthay ech'in@
+@he is eating dry meat@|@etthan etthay ech'in@
+@he is fine@|@dedumhum saw dedlin@
+@he is going hunting@|@ladeye ech'in@
+@he is hungry@|@dembat@
+@he is making fire@|@kwan dek'e ech'in@
+@he is not hungry@|@eju dembát@
+@he is packing his gun@|@degonk'e eghya@
+@he is packing water for mon@|@detsu ye tu kezhe@
+@he is packing wood@|@tso edeneli t'in@
+@he is playing@|@nohuyi ech'in@
+@he is really happy@|@tesoonihthyan@
+@he is running@|@etl'yal ech'in@
+@he is sewing@|@neenelu ech'in@
+@he is singing@|@ejan ech'in@
+@he is sitting@|@hede ech'in@
+@he is sleeping@|@chenechin ech'in@
+@he is standing@|@naadhat ech'in@
+@he is tanning a skin@|@edho edho ech'in@
+@he is very hundry@|@lyado mat udehtle@
+@he is walking around@|@anade ech'in@
+@he is wearing moccasins@|@kensun t'ehe'yo@
+@he is wearing moose skin mitts@|@edho ma t'edehnyak@
+@he is wearing warm mitts@|@mat nethaw t'edenyak@
+@he loks around for his gun@|@degonk'e ke kene@
+@he sees a bull moose standing@|@denyak cho nedhat neh'in@
+@he sees moose tracks@|@denyakkyak neh'in@
+@he wants bannock@|@sunen ch'o nindhan@
+@he wants berries@|@jik nindhan@
+@he wants dry fish@|@lu hegan nindhan@
+@he wants salmon@|@gyo nindhan@
+@head@|@utthi@
+@here@|@ne@
+@here are the matches@|@deju ts'a kwan@
+@here are the snowshoes@|@dajan li e@
+@here is the packsack@|@dajan li khyal@
+@here is the tent@|@dajan li tl'ekhet@
+@here is the trap@|@dajan li khyal@
+@he's walking around the creek@|@tagia ge anade@
+@he's walking around the lake@|@man yakhe anade@
+@he's walking around the river@|@tage ge anade@
+@he's walking round the hill@|@tl'otsan ka anade@
+@he's walking round the mount@|@ddhal ka anade@
+@he's walking to the school@|@dan henadan huts'in endal@
+@he's walting to the store@|@ets'eket kum huts'in endal@
+@he's wearing a warm hat@|@ts'at nethaw t'ede'ye@
+@he's wearing warm moccasins@|@ki nethaw t'ede'yo@
+@he's wearing winter clothes@|@yehkah yech'aw hi nenehtl'un@
+@hill@|@tl'otsan, tl'otsan@
+@his@|@u@
+@his grandmo wants tea@|@utsu ledyat ye'enidhan@
+@his house@|@ukum@
+@his name is eldred@|@uyzi' eldred t'i@
+@his name is Tony@|@uymzi tony uyi ech'i@
+@house@|@kum@
+@how about you?@|@nan k'a?@
+@how are you?@|@daninch'i?@
+@how is he dressed?@|@zhi t'ehede?@
+@how is he?@|@eyet dach'i?@
+@how is it outside?@|@chech'e dohuch'i?, tahch'e duhut'i?@
+@how many stars do you see?@|@thel dadetle nin'in?@
+@hurry@|@hak'al@
+@i@|@ide@
+@i also see a spoon@|@ts'a' shu nih'in@
+@i also see cups@|@tu tyan shu nih'in@
+@i also see knives@|@mra shu nih'in@
+@i also see plates@|@tth'e' shu nih'in@
+@i am cold@|@hidli@
+@i am crying@|@itsay ich'in@
+@i am dancing@|@ilin ich'in@
+@i am drinking water@|@chu ide ich'in@
+@i am eating@|@itthay ich'in@
+@i am eating bannock@|@sunen ch'o itthay ich'in@
+@i am eating dry meat@|@etthan gan itthay ich'in@
+@i am fine@|@saw, saw didlin@
+@i am fishing@|@lu ke edit'ra ich'in@
+@i am going hunting@|@ladiiye ich'in@
+@i am hungry@|@dimbat@
+@i am hunting for moose@|@hande ke lanise ich'in@
+@i am not cold@|@eju hidli@
+@i am picking berries@|@jik nitsi ich'in@
+@i am playing@|@nohuyi ich'in@
+@i am running@|@itl'yal ich'in@
+@i am sewing@|@neenilu ech'in@
+@i am sick@|@jenide@
+@i am singing@|@ijan ich'in@
+@i am sitting@|@hide ich'in@
+@i am sleeping@|@chenichin ich'in@
+@i am sleepy@|@mbal sede'in@
+@i am standing@|@niithat ich'in@
+@i am tired@|@ech'i hejutthe@
+@i don't have matches@|@eju tl'yal ich'in@
+@i don't hear you@|@eju meditth'ay@
+@i don't know@|@eju yiinji@
+@i don't see any stars@|@eju thel ni'in@
+@i don't understand native lang@|@eju soothan dan ditth'ay@
+@i don't want tea@|@eju di nithan@
+@i have a hat@|@ts'at ich'in@
+@i have a shirt@|@ek ich'in@
+@i have clothes@|@nde ich'in@
+@i have dry spruce branches@|@dintth'in hegan ich'in@
+@i have firewood@|@tso ich'in@
+@i have matches@|@tl'yal ich'in@
+@i have mittens@|@mbat ich'in@
+@i have moccasins@|@ki ich'in@
+@i have pants@|@tho ich'in@
+@i have shavings@|@ega ich'in@
+@i have socks@|@tl'ok'wan ich'in@
+@i hear you@|@neditth'ay@
+@i live by the river@|@tage yakhe ninji@
+@i live in Big Salmon@|@gyo cho chu ge ninji@
+@i live in the bush@|@hute ninji@
+@i live in town@|@keyi ninji@
+@i live in Whitehorse@|@kwanlin yu ninji@
+@i see a baby fox@|@nutthi zra ni'in@
+@i see a bull moose@|@denjik ni'in@
+@i see a cow moose@|@dezra ni'in@
+@i see a moose@|@hande ni'in@
+@i see a moose calf@|@detsiga ni'in@
+@i see a rabbit@|@ge ni'in@
+@i see a wolf puppy@|@egay zra ni'in@
+@i see lots of black bears@|@sra denet'ro utle ni'in@
+@i see lots of caribou@|@hudzi utle ni'in@
+@i see lots of seep@|@mbay utle nin'ina@
+@i see lots of stars@|@thel utle ni'in@
+@i see lots of wolves@|@egay utle nin'ina@
+@i see my older brother@|@enday ni'in@
+@i see my older sister@|@endat ni'in@
+@i see my younger brother@|@echal ni'in@
+@i see my younger sister@|@ejo ni'in@
+@i see one star@|@thel ligi ni'in@
+@i see the clouds@|@ya'ta k'o ni'in@
+@i see the moon@|@yat'a edzeze ni'in@
+@i see the puppies@|@tlin zra ni'in@
+@i see the rainbow@|@hutsi chenintl'um ni'in@
+@i see the stars@|@yat'a thel ni'in@
+@i see the sun@|@yat'a se ni'in@
+@i see the tea pot@|@ledyat huhthe' nih'in@
+@i see two stars@|@thel laki ni'in@
+@i speak native lang. a little@|@heedlua dan k'i husi@
+@i speak native language@|@dan k'i husi@
+@i understand native lang.@|@dan ditth'ay@
+@i understand tutchone a little@|@heedlua dan ditth'ay@
+@i want dry meat@|@etthan gan yenilin@
+@i want fish@|@lu yenithan@
+@i want meat@|@etthan yenilin@
+@i want some soup@|@tadhal yenilin@
+@i want tea@|@di nithan@
+@i want water@|@chu nithan@
+@i'm drinking water@|@chu ide@
+@i'm making a fire@|@kwan dik'e ich'in@
+@i'm not hungry@|@eju dimbat@
+@i'm tanning a hide@|@edho itho ich'in@
+@i'm walking around the lake@|@man mbe anide ich'in@
+@i'm walking around the river@|@tage ge anide ich'in@
+@i'm walking to lucy's house@|@lucy kun huts'in isal@
+@i'm walking to tha lake@|@man ts'in isal@
+@i'm walking to the creek@|@tagia ge huts'in isal ich'in@
+@i'm walking to the hill@|@tl'otsan ts'in isal ich'in@
+@i'm walking to the lake@|@man ts'in isal ich'in@
+@i'm walking to the mountain@|@ddhal ts'in isal ich'in@
+@i'm walking to the river@|@tage ge huts'in isal ich'in@
+@i'm walking to the school@|@dan henadan huts'in isal@
+@i'm walking to the store@|@ets'eket kun huts'in isal@
+@in my house@|@ihkun zhat@
+@is@|@ech'i@
+@is eldred hungry?@|@eldred mat udehtlea?@
+@is he hungry?@|@dembada?@
+@is it cloudy?@|@k'o humlina?@
+@is it getting warm?@|@hudenedhela?@
+@is it muddy?@|@lyo tth'al humlina?@
+@is it raining?@|@huchea?@
+@is it snowing?@|@hukhyaa?@
+@is it warm for you?@|@nints'in hudhala?@
+@is it warm inside the house?@|@ku' zhat hudhawa?@
+@is it warm?@|@hudhala?@
+@is it windy?@|@huts'ia?@
+@is the ice breaking up?@|@tan tadedegroa?@
+@is the snow melting@|@ya dedelada?@
+@is there no ice?@|@tan hajua?@
+@is this your cup?@|@dajan na nink'uk'a ech'o?@
+@it is breaking up@|@tan tadedegro@
+@it is cloudy@|@chech'e k'o humlin@
+@it is cold outside@|@chech'e huk'o@
+@it is daytime@|@dzenu huch'i@
+@it is fall@|@yahkak hunlin@
+@it is fall time@|@nadedekhay@
+@it is foggy@|@chech'e 'ra humlin@
+@it is getting warm@|@hudenedhel@
+@it is morning@|@k'ame huch'i@
+@it is my cup@|@ek'uk'a ech'i@
+@it is nice outside@|@huts'echo sohuthan chech'e@
+@it is night@|@intl'i huch'i@
+@it is not my cup@|@eju ek'uk'a ech'i@
+@it is not warm@|@eju hudhal@
+@it is not warm for me@|@eju ets'in hundhal@
+@it is not windy@|@eju huts'i@
+@it is raining@|@chech'e kuche@
+@it is really cloudy@|@huts'echo k'o humlin@
+@it is really muddy@|@huts'echo lyo tth'al humlin@
+@it is really raining@|@huts'echo huche@
+@it is really snowing@|@huts'echo hukhya@
+@it is snowing@|@hukhya@
+@it is snowing outside@|@chech'e ya hukhya@
+@it is spring@|@ededelat hunch'i@
+@it is still cloudy@|@sek'e k'o humlin@
+@it is still cold@|@sek'e huk'o@
+@it is still raining@|@sek'e huche@
+@it is summertime@|@sakat humlin@
+@it is sunny@|@chech'e se kinajin@
+@it is warm@|@hudhal@
+@it is warm for me@|@ets'in hudhal@
+@it is windy@|@chech'e huts'i, huts'i@
+@it is winter@|@yak'i humlin@
+@it it cold outside?@|@chech'e huk'oa?@
+@it's not cold outside@|@chech'e eju huk'o@
+@jackfish@|@tali@
+@king salmon@|@gyo@
+@knee@|@ningwat@
+@knife@|@mbra@
+@lake@|@man@
+@leaf@|@int'e@
+@listen@|@edenatth'e, edenintth'e, yeedenatth'e@
+@lucy's house@|@lucy kum@
+@make fire!@|@kwan dink'e!@
+@man@|@dek'an@
+@matches@|@tl'yal@
+@me too-i'm fine@|@sehun saw didlin@
+@mittens@|@mbat@
+@moccasins@|@ki@
+@moon@|@edzeze@
+@moose@|@hande@
+@moose calf@|@detsiga@
+@morning@|@k'ame@
+@mosquito@|@tth'in@
+@mother@|@ene@
+@mountain@|@ddhal, ddhal@
+@mouse@|@dluma@
+@mushroom@|@dlay nji@
+@my@|@è@
+@my brother is packing wood@|@ihchaw tso dedeli@
+@my father's eating bannock@|@ihte lyo t'yo e'a@
+@my head hurts@|@etthi jenede@
+@my house@|@ekum@
+@my mother is drinking tea@|@ihne ledyat ede@
+@my name is gertie@|@eyumzi gertie uyi@
+@neck@|@uk'o@
+@night@|@intl'i@
+@nose@|@nintsin@
+@not@|@haju@
+@older brother@|@enday@
+@older sister@|@endat@
+@one@|@ligi@
+@our@|@da@
+@pants@|@tho@
+@paper@|@k'uk@
+@plate@|@tth'e@
+@playing@|@nohuyi@
+@poplars@|@t'o@
+@poplars are growing@|@t'o neyi@
+@q'et'ina goes hunting@|@q'et'ina ladezhe@
+@q'et'ina turns his head around@|@q'et'ina latthi detsay@
+@rabbit@|@ge@
+@rainbow@|@cheenintl'um@
+@raven@|@ts'ek'i@
+@reaaly good@|@tlech'o saw@
+@red@|@det'al@
+@rhurbarb@|@intsaw@
+@rhurbarb is growing@|@intsaw neyi@
+@river@|@tage@
+@rock@|@tthi@
+@school@|@dan henadan@
+@scram@|@day@
+@se you tomorrow@|@hat'e dakhwanu'in he, hat'e nenu'in he@
+@see@|@ni'in@
+@see you tomorrow@|@hat'e yaakhawanu'in he@
+@sewing@|@neenelu@
+@shavings@|@ega@
+@she is packing water@|@ihdyo tu eka@
+@she is talking to my father@|@ihte ts'e honi@
+@she is wearing a warm jacket@|@'yak nethaw t'ehede@
+@sheep@|@mbay@
+@she's making beaded moccasins@|@'yaw ki ehtsi@
+@she's sitting up and sewing@|@utsu teneh'ye neenetl'u'@
+@she's sleeping in her stroller@|@dedlu kak senetin@
+@she's wearing knitted hat@|@ts'a nehtl'un thadeh'e@
+@she's wearing knitted sweater@|@'yak ts'etl'u t'ehede@
+@she's wearing nice pants@|@tho sothan t'ede'yo@
+@shirt@|@ek@
+@singing@|@ejan@
+@sit down@|@daatth'i, haki, hinde@
+@snowshoes@|@e@
+@socks@|@tl'ok'wan@
+@spider@|@hutsi@
+@spoon@|@ts'al@
+@spruce bough@|@al@
+@stand up@|@naathat, nadaaye, nindhat@
+@star@|@thel@
+@stick@|@dechan@
+@stomach@|@umbat@
+@store@|@ets'eket kum@
+@summer@|@sakat@
+@sun@|@se@
+@tea@|@di@
+@tent@|@tl'ekhet@
+@thank you@|@masi@
+@that's all@|@tl'aku@
+@that's the end@|@tl'eku hulin@
+@the ant is crawling round@|@dajyal anaju ech'in@
+@the bannock is really tasty@|@lyoch'o tliado lekan@
+@the bannock tastes good@|@lyo t'yo lekan@
+@the bird is singing@|@dzua ejan ech'in@
+@the boy is fishing@|@dek'ana adet'ra ech'in@
+@the boy is going hunting@|@dek'ana ladeye ech'in@
+@the boy is sleeping@|@dek'ana chenechin ech'in@
+@the butterfly is flying around@|@lala aanet'e ech'in@
+@the duck is flying around@|@chat aanet'e ech'in@
+@the fly is flying around@|@ts'o aanet'e ech'in@
+@the girl is running@|@eyenjyala etl'yal ech'in@
+@the goose is walking around@|@khe anade ech'in@
+@the grouse is making its nest@|@ji det'o etsi ech'in@
+@the leaves are falling down@|@nint'e nekadetl'ay@
+@the man is dancing@|@dek'an elin ech'in@
+@the man is going hunting@|@dek'an ladeye ech'in@
+@the man is hunting for caribou@|@dek'an hudzi ke lanaye ech'in@
+@the moon is shining too@|@edzeze chu heninjin@
+@the moose is drinking water@|@denyak tu ede@
+@the moose is surprised@|@denyak dzedegho@
+@the moose runs away@|@denyak tedehtle@
+@the moose sees q'et'ina@|@denyak q'et'ina neh'in@
+@the mosquito stung me@|@tth'in se'al@
+@the raven is eating@|@ts'ek'i etthay ech'in@
+@the road is slippery@|@etan huge hudetl'ro@
+@the snow is melting@|@ya dedelat@
+@the spider is crawling around@|@hutsi anaju ech'in@
+@the spider is making a web@|@hutsi dechemel etl'u@
+@the wind is blowing hard@|@ninhts'i huhts'i@
+@the woman is hunting for sheep@|@eyenjyal mbay ke lanaye ech'in@
+@the woman is picking berries@|@eyenjyal jik netsi ech'in@
+@the woman is sewing@|@eyenjyal neenelu ech'in@
+@the woman is sitting@|@eyenjyal hede ech'in@
+@the women are drinking tea@|@eyenjyal di hede@
+@their@|@huu@
+@their house@|@huukum@
+@there are lots of stars@|@thyon etle@
+@there is lots of wood@|@tso etle hedle@
+@there is no ice@|@eju tan humlin@
+@these are beaver tracks@|@dajan tse kek huch'i@
+@these are mouse tracks@|@dajan dluma kek huch'i@
+@these are wolf tracks@|@dajan egay kek huch'i@
+@they@|@hede, yehede@
+@they are drinking hot tea@|@ledyat nethaw ehede@
+@they are drinking tea@|@di hede hech'in, di yehede yehech'in@
+@they are drinking water@|@chu hede, chu yehede@
+@they are eating bannock@|@lyo t'yo yenahekwan@
+@they are eldred's mom and pa@|@jan eldred une-ute yi t'i@
+@this@|@dajan@
+@this is@|@dajan ech'i@
+@this is a baby@|@dajan dunen zra ech'i@
+@this is a baby rabbit@|@dajan ge zra ech'i@
+@this is a bear cub@|@dajan sra zra ech'i@
+@this is a berry@|@dajan jik ech'i@
+@this is a black hat@|@dajan ts'at denet'ro ech'i@
+@this is a blanket@|@dajan ts'at ech'i@
+@this is a blue hat@|@dajan ts'at denintl'rum ech'i@
+@this is a boy@|@dajan dek'ana ech'i@
+@this is a brown hat@|@dajan ts'at dettho ech'i@
+@this is a butterfly@|@dajan lala ech'i@
+@this is a cane@|@dajan to ech'i@
+@this is a caribou hide@|@dajan hudzi dho ech'i@
+@this is a child@|@dajan dunen ech'i@
+@this is a cup@|@dajan k'uk'a ech'i@
+@this is a duck@|@dajan chat ech'i@
+@this is a fish@|@dajan lu ech'i@
+@this is a fly@|@dajan ts'o ech'i@
+@this is a fork@|@dajan syal ech'i@
+@this is a frying pan@|@dajan kagan ech'i@
+@this is a girl@|@dajan eyenjyala ech'i@
+@this is a grayling@|@dajan y'a ech'i@
+@this is a high bush cranberry@|@dajan gukhyo ech'i@
+@this is a jackfish@|@dajan tali ech'i@
+@this is a king salmon@|@dajan gyo ech'i@
+@this is a leaf@|@dajan int'e ech'i@
+@this is a low bush cranberry@|@dajan intl'at ech'i@
+@this is a man@|@dajan dek'an ech'i@
+@this is a moose calf@|@dajan detsiga ech'in@
+@this is a moose hide@|@dajan hande dho ech'i@
+@this is a mosquito@|@dajan tth'in ech'i@
+@this is a plate@|@dajan tth'e ech'i@
+@this is a red hat@|@dajan ts'at det'al ech'i@
+@this is a spider@|@dajan hutsi ech'i@
+@this is a spoon@|@dajan ts'al ech'i@
+@this is a white hat@|@dajan ts'at dek'al ech'i@
+@this is a whitefish@|@dajan lu dek'al ech'i@
+@this is a woman@|@dajan eyenjyal ech'i@
+@this is an ant@|@dajan dajyal ech'i@
+@this is eldred grandmother@|@jan eldred utsu t'i@
+@this is eldred young brother@|@eldred udyoa t'i@
+@this is grass@|@dajan tl'aw ech'i@
+@this is his arm@|@dajan ugal ech'i@
+@this is his chest@|@dajan udzedhel ech'i@
+@this is his hair@|@dajan uttheye ech'i@
+@this is his head@|@dajan utthi ech'i@
+@this is his neck@|@dajan uk'o ech'i@
+@this is his stomach@|@dajan umbat ech'i@
+@this is my ear@|@dajn nindzay ech'i@
+@this is my eye@|@dajan enda ech'i@
+@this is my face@|@dajan enin ech'i@
+@this is my father@|@dajan ete ech'i@
+@this is my foot@|@dajan ninki ech'i@
+@this is my grandfather@|@dajan etsi ech'i@
+@this is my grandmother@|@dajan etsum ech'i, je ihtsun et'i@
+@this is my knee@|@dajan ningwat ech'i@
+@this is my middle brother@|@je ihchaw et'i@
+@this is my middle sister@|@je ihdyo et'i@
+@this is my mother@|@dajan ene ech'i@
+@this is my nose@|@dajan nintsin ech'i@
+@this is my tooth@|@dajan eghu ech'i@
+@this is my younger sister@|@je ihdyoa et'i@
+@this is spruce bough@|@dajan al ech'i@
+@this is tom@|@jan tom ech'i@
+@three@|@tadech'i@
+@tom collects twigs@|@tom tso dzeda kezhe@
+@tom is full@|@tom enede@
+@tom is hungry@|@tom mbat detle@
+@tom is making bannock@|@tom lyoch'o etsi@
+@tom is sitting on the ground@|@tom nan ka tene'e@
+@tom starts to light the fire@|@tom kwan dedek'e@
+@tom thinks about matches@|@tom kwan k'ene'ethat@
+@tom went to sleep@|@tl'aku nechin@
+@tooth@|@eghu@
+@tracks@|@kek@
+@trap@|@khyal@
+@two@|@laki@
+@water@|@chu@
+@we@|@ïde, yiide@
+@we are drinking tea@|@di ide ich'in, di yiide yiich'in@
+@we are drinking water@|@chu ide, chu yiide@
+@whare is he walking around?@|@dum anade?@
+@what are they doing?@|@zhi deheh'in?@
+@what are they drinking?@|@yi hede hech'aw?, yi yehede yehech'aw?@
+@what are you all drinking?@|@yi ade ach'aw?, yi yaade yaach'aw?@
+@what are you doing?@|@yi dannin'in ninch'aw?, yi din'in ninch'aw?@
+@what are you drinking?@|@yi nin'o inde?@
+@what are you hunting?@|@yi ke laninye?@
+@what do see in the sky?@|@yi nin'in yat'a?@
+@what do they call this?@|@dan k'i duts'um ts'uzi?@
+@what do you have?@|@yi inch'in?, yi inch'in?@
+@what do you see?@|@yi nin'in?, zhi ninh'in?@
+@what do you want?@|@yi yeninlin?@
+@what does he want?@|@yi yenindhan?@
+@what hide is this?@|@yi yedho ech'o dajan?@
+@what is cooking?@|@zhi etro?@
+@what is growing?@|@yi neyi?@
+@what is he carring water?@|@zhi ke tu aka?@
+@what is he doing?@|@yi da'in ech'aw?, zhi deh'in?@
+@what is he eating?@|@yi etthay ech'aw?@
+@what is his dog doing?@|@udlin zhi deh'in?@
+@what is his name?@|@dooyi ech'o?@
+@what is she doing?@|@zhi deh'in t'o?@
+@what is she sewing?@|@zhi nenetl'u'?@
+@what is she wearing?@|@zhi t'ehede?@
+@what is the ant doing?@|@dajyal yi da'in ech'aw?@
+@what is the boy doing now?@|@eldred zhi deh'in?@
+@what is the boy doing?@|@dek'ana yi da'in ech'aw, ya da'in ech'aw dek'ana?@
+@what is the boy name?@|@dek'ana duuzhi?@
+@what is the duck doing?@|@yi da'in ech'aw chat?@
+@what is the girl doing?@|@eyenjyala yi da'in ech'aw?@
+@what is the man doing?@|@dek'an yi da'in ech'aw?@
+@what is the man hunting for?@|@yi ke dek'an lanaye ech'aw?@
+@what is the woman doing@|@eyenjyal yi da'in ech'aw?@
+@what is the woman doing?@|@eyenjyal yi da'in ech'aw?@
+@what is the woman hunting for?@|@yi ke eyenjyal lanaye ech'aw?@
+@what is this@|@yi ech'o dajan?@
+@what is your name?@|@doomyi huch'o?@
+@what the woman is doing?@|@eyenjyal yi da'in ech'aw@
+@what tracks are these?@|@yi kek huch'o dajan?@
+@wher do you live?@|@dum ninnji?@
+@wher is the tent?@|@tl'khet ja?@
+@where are some dry branches?@|@detth'in ja?@
+@where are the snowshoes?@|@e ja?@
+@where are you walking to?@|@dum huts'in iindal ninch'aw?, dum huts'in inndal?@
+@where is the dog sitting?@|@tlin dum hede?@
+@where is the packsack?@|@khyal ja?@
+@where is the trap?@|@khyal ja?@
+@whereare the matches?@|@kwan ja?@
+@white@|@dek'al@
+@white fish@|@lu dek'al@
+@who are they?@|@jan medan het'o?@
+@who do you see?@|@me nin'in?@
+@who is this?@|@jan medan do?, me ech'o dajan?, me yach'o?@
+@willows@|@k'ay@
+@willows are growing@|@k'ay neyi@
+@wolf@|@egay@
+@wolves@|@egay@
+@woman@|@eyenjyal@
+@yes@|@ehe@
+@you@|@inde@
+@you (pl)@|@ade, yaade@
+@you (pl) are drinking water@|@chu ade, chu yaade@
+@you are drinking water@|@chu inde@
+@younger brother@|@echal@
+@younger sister@|@ejo@
+@your@|@nin@
+@your house@|@ninkum@
+@your house (pl)@|@dakum@
+

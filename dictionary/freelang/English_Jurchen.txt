@@ -1,0 +1,323 @@
+@English@|@Jurchen@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@10.000@|@tuman@
+@3d p. deictic stem@|@in@
+@a big monkey@|@bo-nong@
+@a measure of weight@|@mia-liang-ha@
+@a prohibitive particle@|@ume@
+@above@|@wi-si@
+@age@|@sejng-nger@
+@all@|@ngem-ur@
+@army@|@chaw-xa@
+@arrow@|@niru@
+@ash tree@|@fulto@
+@ashes@|@fule-ngi@
+@autumn@|@bolo@
+@bad@|@exebe@
+@bark@|@su-gu@
+@basket@|@hin-ma-lar@
+@be born@|@boldi-xaj@
+@be divided@|@del-xe@
+@be merry@|@wur-hul-zhe-rie@
+@bear@|@lefu@
+@beauty@|@bocho-gaj, boicho-gaj@
+@become white@|@c'ang-gian@
+@belt@|@xebu-de@
+@bench@|@mul-an@
+@big@|@amban, amban-an@
+@black@|@saxa-lian@
+@blood@|@seing-ngi@
+@boar@|@uliyan@
+@bone@|@giba-an-gi, girba-an-gi@
+@boots@|@fom-chi@
+@bridge@|@hufuru@
+@bronze@|@c'iri@
+@camel@|@temge@
+@capital city@|@gin@
+@cattle@|@ad-hu@
+@cause@|@tu-ru-wen-@
+@children@|@omo@
+@chopsticks@|@sabunxa, sabuxa@
+@coal@|@hia-xa@
+@cold@|@bei, siung-hun, siung-hun, siunghun@
+@color@|@bochu@
+@comb@|@hir-di-xun@
+@content@|@o-le-he-hung@
+@cypress@|@hisi@
+@dam@|@xe-ki@
+@day@|@inengi@
+@deep@|@c'u-mi-gi@
+@dew@|@sie-le-un@
+@dog@|@indahun, nginda-xiun@
+@donkey@|@oh-hen@
+@dragon@|@mudu-ur, mudur@
+@dream@|@tol-xin@
+@drop@|@tu-ho-@
+@duck@|@mie-xe@
+@dust@|@bureng-ki@
+@ear@|@siang-ha@
+@earth@|@bong-xong, na@
+@eight@|@jhakun@
+@eighteen@|@niyuhun@
+@eighty@|@jhakunjhu@
+@elder brother@|@axun, axun-un@
+@eleven@|@anso@
+@empire@|@guru-un@
+@evening@|@shise, sih-ser@
+@existence@|@duta@
+@external side@|@tuli-le@
+@eye@|@ngia-c'i@
+@face@|@der-hel@
+@falcon@|@giaxun, giaxun-un@
+@fan@|@fu-sxe-ngu@
+@far@|@gor-o@
+@fat@|@ji-miung-ngu@
+@father@|@amin@
+@female@|@enin@
+@field ready for ploughing@|@usi-in@
+@fifteen@|@tobohon@
+@fifty@|@susai@
+@fight@|@sori@
+@fir cone@|@xuri@
+@fire@|@towi, towo@
+@fish@|@limwa-xa@
+@five@|@c'unzha, shunja@
+@fixed habits@|@tu-bi-ba tei-bew@
+@flour@|@wu-fa@
+@flower@|@hil-gha@
+@foot@|@bodi-xe@
+@for a while@|@ta-ka@
+@fortune@|@xu-tur@
+@forty@|@tehi@
+@four@|@dujin, duwin@
+@fourteen@|@durhon@
+@fox@|@do-bi, dolbi, dolbi, doribi@
+@friend@|@al-da-xaj, alda@
+@front part@|@zhule, zhule-le@
+@fruit@|@tuwi-xe@
+@gall@|@si-li-xi@
+@generation@|@zha-la-an@
+@good@|@aju-bulu@
+@goose@|@niung-nia-xa, xojxolo@
+@grape@|@me-chu@
+@grass@|@or-Go@
+@green@|@niong-gian@
+@hair@|@fun-ir-xie@
+@hand@|@nga-la@
+@hand over@|@ali-@
+@hard@|@mang-ga@
+@hare@|@guRma-xaj@
+@hate@|@usu-gha-buren@
+@head@|@huizhew, huzhew, uizhew, uzhew@
+@heart@|@mejhiren, miuj'ilen-be, miujiln-be@
+@heaven@|@abka@
+@heavy@|@huizhe, huzhe@
+@hen@|@tixo@
+@heron@|@su-wen@
+@hit@|@du-ngu-mij@
+@horn@|@huje-xe@
+@horse@|@morin, mu-rin@
+@hundred@|@tan-gu, tangu@
+@hunting@|@saxa-da-mij@
+@i@|@mi-n@
+@ice@|@zhu-xe@
+@inherit@|@sir-ru, sira-ru@
+@inside@|@do-lo@
+@iron@|@sele@
+@kneel@|@mia-ku-ru-@
+@lake@|@omo@
+@language@|@herse, xeRse-be@
+@law@|@doro-un@
+@leaf@|@ha-bxa@
+@leopard@|@jara@
+@light@|@nge-xun@
+@lion@|@afi@
+@lobby@|@xu-li@
+@long@|@ngolmi-gi@
+@make a camp@|@tata-@
+@man@|@neRma, xaxa-aj@
+@many@|@amban-lar@
+@meat@|@ja-li@
+@millet@|@che-po-le@
+@mingan@|@thousand@
+@money@|@zhie-xa@
+@moon@|@biaha, biha, biya@
+@mother@|@eniyen@
+@mountain@|@ali-in@
+@mouth@|@am-nga@
+@name@|@ger-bu@
+@narrow@|@nar-gi@
+@near@|@di-Ga-sa@
+@needle@|@hiul-me@
+@new@|@iche@
+@newborn animal@|@hiche, hiiche@
+@night@|@dol-wo@
+@nine@|@uyun@
+@nineteen@|@oniyohon@
+@ninety@|@uyunju@
+@nose@|@songgi@
+@not@|@aqu, ej-xe, esi-in, esin-in@
+@nut@|@sisi, xu-c'u@
+@obey@|@tai-xa@
+@obtain@|@baxa-biar@
+@offspring@|@omo-lo@
+@one@|@emu@
+@ooze@|@sada-ra@
+@owl@|@gawr-un@
+@panther@|@yarha@
+@peach@|@xu-c'ur@
+@period@|@fom-wan, fowan@
+@person@|@niyarma@
+@pheasant@|@ulhu-ma@
+@pig@|@ulhian@
+@place@|@buha-i, tur-ra@
+@plum@|@fojow@
+@pond@|@xoto-o-n@
+@product of agriculture@|@mir-Ge-i@
+@quickly@|@ewu-ro@
+@rain@|@ah-ga@
+@red@|@fula-gian@
+@relative by marriage@|@seing-ngi-ng@
+@remain@|@duta-xun@
+@right@|@doro@
+@ripe@|@uru-xe@
+@river@|@bira, ula@
+@road@|@zhu-huj@
+@roasted flour@|@mu-c'in@
+@root@|@da@
+@royal decree@|@alawa-gi@
+@sable@|@sep-ke@
+@sabre@|@lo-xo@
+@sad@|@ke-si-ge-bulu, sin-na-lar@
+@sand@|@sir-xe@
+@season@|@eri@
+@seed@|@use@
+@separately@|@far-ar far-ar, far far@
+@servants@|@boj-hu@
+@seven@|@nadan@
+@seventeen@|@darhon@
+@seventy@|@nadanju@
+@sharp@|@da-chu-gi@
+@sheep@|@honi@
+@short@|@fo-xo-lo@
+@side@|@dalba-la@
+@six@|@ningu, niung-zhu@
+@sixteen@|@nilhun@
+@sixty@|@ninjhu@
+@sky@|@a-pu-ha@
+@small@|@osu-wan@
+@smoke@|@chang-gian@
+@snake@|@muj-xe@
+@snow@|@hima-ngi@
+@sorrow@|@zho-bo-hun@
+@South@|@fAn-ti@
+@sparrow@|@sihchixie@
+@spring@|@nienen, niengnen, nienie, siel-hi, siel-hi@
+@stake@|@bon@
+@star@|@hosi-xa@
+@stick@|@gar@
+@stirrup@|@tuw-fu@
+@stomach@|@xefuli@
+@stone@|@hiur-xe, hur-xe@
+@straight@|@ngun-du@
+@summer@|@jua, zhuha@
+@sunday@|@inengi@
+@supported@|@tej-bew@
+@swallow@|@sih-biar-xun@
+@ten@|@juwa, zhuwa@
+@thin@|@nen-ke-xun@
+@thing@|@ha-che-jin@
+@thirteen@|@gorhon@
+@thirty@|@gushin@
+@this@|@erse, ese@
+@three@|@ilan, jilan@
+@throat@|@mei-fen@
+@tiger@|@tasha, tasxa@
+@time@|@erin@
+@to be@|@bie-fume, bie-i@
+@to be inimical@|@bai-zhu-mij dï-@
+@to be satiated@|@oh-pih-leh@
+@to be spent@|@man-na-lar@
+@to bow@|@keng-ke-le-mij@
+@to breathe@|@erhen, erin-he@
+@to bundle@|@fume@
+@to burn@|@zheh-din-ku@
+@to change@|@xu-la-gi@
+@to check@|@tonzhu-lar@
+@to come@|@di-hul, di-xexe-gi@
+@to contain@|@hu-xun-mij am-si-da-lar@
+@to delve with a stake@|@bo-@
+@to die@|@bu-che-xie@
+@to drink@|@umi-La@
+@to eat@|@zhe-fu@
+@to enter@|@i-re-@
+@to fight@|@xiu-sun@
+@to follow@|@an-dan-do@
+@to follow along@|@fude-mij@
+@to fulfil@|@mu-te-bulu@
+@to give@|@tuju-xe@
+@to go back@|@mi-ta-buje-@
+@to go out@|@tuj-ti-mij@
+@to hear@|@doldi-sun, doldi-u@
+@to hide@|@so-mi-biar@
+@to investigate@|@fanzhu-mij@
+@to justify@|@uru-le-be@
+@to kill@|@wa-du-lar@
+@to know@|@c'ang-xi@
+@to laugh@|@inzhe-@
+@to lend@|@zhui-mu-sun-@
+@to let slip@|@buru-wi-xie@
+@to make@|@o-fia@
+@to overcome@|@hete-xe@
+@to plan@|@sabi-biar@
+@to reach@|@isi-maj@
+@to release@|@ting-da-mai@
+@to say@|@xen-du-ru@
+@to send on service@|@tah-xew-ra-xaj@
+@to sit@|@teh-biar@
+@to sleep@|@dedu-rie@
+@to speak@|@xen-du-ru@
+@to spin@|@to-ngo@
+@to stand@|@ili-bung@
+@to take@|@ga-gwa-i@
+@to thank@|@bij-il-sia-maj@
+@to the side@|@xe-bew@
+@to trade@|@xu-da-sia-maj@
+@to transmit@|@uli-@
+@to turn back@|@muta-bun@
+@to understand@|@deN-de-@
+@to walk@|@ful-c'wi@
+@to wish@|@buj-je-mij@
+@tongue@|@hileng-ngu@
+@tooth@|@juj-xe@
+@tree@|@do-Go, mo, moo@
+@troubled@|@fe-xi-lar@
+@true@|@tong-do@
+@twelve@|@jhirhon@
+@twenty@|@horin, orin@
+@two@|@juwe, zhuwe@
+@unripe@|@hosu-xun, osu-xun@
+@upper clothes@|@etu-xun@
+@valuables@|@zha-xa@
+@vegetable@|@sol-ngi@
+@voice@|@dilga@
+@walk@|@fuli, nge-ne-xie@
+@wall@|@fa-dar-an@
+@water@|@mo, mu@
+@weak@|@ni-ta-ba, ol-Gu-hun@
+@well@|@xuc'i@
+@West@|@fu-ri-si@
+@wind@|@edu, hedu-un@
+@window@|@fah-ha@
+@wine@|@niu-re@
+@winter@|@tu-e-li, tuje-ngi, tuwe@
+@wise@|@su-re@
+@woman@|@xexe-e@
+@worm@|@wu-mia-xa@
+@writing@|@bithhe@
+@yard@|@ew-le@
+@year@|@an'a, ania@
+@yellow@|@so-gian@
+@younger sister@|@nexun, nexun-un@
+

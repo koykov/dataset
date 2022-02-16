@@ -1,0 +1,208 @@
+@English@|@Kosraean@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@above@|@fac-@
+@all@|@kwewa, nuhkwewa@
+@and@|@ac, mA@
+@ash@|@-pEt, a-pEt, apact@
+@at@|@i-, ke@
+@back@|@fin tohkoh, fin tuku-n, tok, toko(l), tuku(n)@
+@bad@|@nahsuhk@
+@be knowledgeable@|@(a)-kyle-(n)@
+@belly@|@in-siyac@
+@below@|@ye@
+@big@|@lAlæp, yohk@
+@bird@|@tuhram, won@
+@black@|@sroalsroal, srulsrul@
+@blood@|@sræ, srah@
+@bone@|@sri@
+@branch@|@læ, lah, lwe@
+@breast@|@titi, titi-(n), twetwe-(l)@
+@child@|@nætA-(l), tAlik, tuhlihk@
+@cloud@|@puhkuhn yeng@
+@cold@|@mihsrihsr, mysrysr, ou, oyou@
+@correct@|@pwacye@
+@day@|@lwen@
+@dirty@|@fohkfohk@
+@dry@|@paho@
+@dull@|@sahfiht@
+@ear@|@insrwac, srwac@
+@earth@|@infohk@
+@egg@|@ahtro@
+@eye@|@mAta-, muhta@
+@fat@|@fact@
+@father@|@pahpah, tAmwE-(l), tuhma@
+@feather@|@unac, une-(n)@
+@fire@|@e@
+@fish@|@apil, ik@
+@flower@|@yosep@
+@fog@|@ohk@
+@four@|@æng, ahng, yoko@
+@good@|@wo@
+@Good afternoon@|@Len wo@
+@Good evening@|@Eke wo@
+@good morning@|@Lotu wo@
+@Good night@|@Fong wo@
+@Goodbye@|@Muta@
+@grass@|@mah@
+@green@|@folfol sra@
+@hair@|@in-sifac, une-(n)@
+@hand@|@pæo-(l), paho, po@
+@he@|@el@
+@head@|@in-sifac, olo-(l), ulu-(n)@
+@heavy@|@toasr@
+@house@|@iwE-, lohm, yuwac, yuwE-@
+@how?@|@fuhkah@
+@husband@|@tuhmwac@
+@I@|@nga@
+@if@|@fin, fuhnuh@
+@in@|@loac, loE, lu-(n)@
+@intestines@|@fohk@
+@leaf@|@sra@
+@left@|@lacsac@
+@leg@|@niyac, niyé-(l), niye-(n)@
+@lightning@|@sahrom@
+@liver@|@acs, Es, esyE-(l)@
+@long@|@loes@
+@louse@|@kut@
+@man@|@mukul, wen@
+@meat@|@ikoac, ikoE-(n)@
+@moon@|@mæ-lwem, mahlwem@
+@mosquito@|@em-(syE), emsyac@
+@mother@|@ninac, ninE, nnæ@
+@mouth@|@oal, oali-(k)@
+@My name is@|@Inek pa@
+@name@|@e@
+@narrow@|@ohsrihksrihk@
+@near@|@yuru-(n)@
+@neck@|@in-kwacwac@
+@needle@|@ninuhl@
+@new@|@sasuh@
+@night@|@fohng, fong@
+@no@|@moh, sA-, se-@
+@No@|@Mo@
+@nose@|@fwac, fwE@
+@old@|@mahtuh@
+@one@|@se, sie, soko, sra@
+@painful@|@atäk, atuck, mas@
+@person@|@m'et, mwet@
+@rain@|@af@
+@rat@|@kihsrihk, kisrik@
+@red@|@sruhsrah@
+@right@|@lacyot@
+@road@|@innek@
+@root@|@okah okæ ukuk@
+@rope@|@säl, sucl@
+@rotten@|@kohl, mwesr@
+@salt@|@sohl@
+@sand@|@puhk@
+@sea@|@me-oa, meoha@
+@sharp@|@kohsroh@
+@she@|@el@
+@short@|@fototo@
+@shoulder@|@fin pihsac@
+@shy@|@efef, fuon, mwekihn@
+@skin@|@kolo, kolo-(l), kulu-(k), kulu-n@
+@sky@|@lucng läng@
+@small@|@srihk sryk srysryk@
+@smoke@|@kuhlahsr@
+@spider@|@pwepwenu@
+@star@|@itih, ity@
+@stick@|@læ, lwe, sahk@
+@stone@|@yot@
+@tail@|@ikwik, puhla@
+@Thank you@|@Kulo@
+@that@|@-En, ing-En, ingacn, ngoh, oh, soh@
+@thatch@|@fahsuc@
+@they@|@el-, el-tæl, eltahl@
+@thick@|@mæ-tol, mahtol@
+@thin@|@mihnini, muhs@
+@this@|@(ing)-e, A, inge@
+@thou@|@kom@
+@three@|@tol, tol-(u), tolu@
+@thunder@|@pAlæl, puhlahl@
+@to bite@|@ngalnguhl@
+@to blow@|@pæpæ, uk, ukuk@
+@to breathe@|@ngosr@
+@to burn@|@fulok, isihk@
+@to buy@|@eis, moli@
+@to chew@|@wi, wiwi@
+@to choose@|@sule@
+@to climb@|@fahluhki, fan@
+@to come@|@fær, tuhkuh@
+@to cook@|@pohel, poheli@
+@to count@|@oacoac, oe-k, oek, oEoE@
+@to cry@|@tuhng tAng@
+@to cut@|@paki, tæt, twe, uti@
+@to die@|@misac, misE, mwet@
+@to dig@|@kAlkAl, kilA-ng, kuhlkuhl, puhk@
+@to drem@|@mwemwe@
+@to drink@|@nihm, ny-m, nymnym@
+@to eat@|@kang, kihmihs, mongo@
+@to fall@|@ikor, top@
+@to fear@|@mo-tok, sahngweng@
+@to flow@|@acsracsr@
+@to fly@|@sohk@
+@to grow@|@kap@
+@to hear@|@lohng, long@
+@to hide@|@wihk@
+@to hit@|@suhsahk, tuk, tukutuk@
+@to hold@|@fahrfahr, sruh@
+@to kill@|@uni@
+@to know@|@(a)-kyle-(n), etA, etuh@
+@to laugh@|@isracsr, ngis, ngisngis@
+@to lie down@|@on-(kiyAki), ona@
+@to live@|@moul@
+@to open@|@ikuhs@
+@to plant@|@ikwi, yok, yuki, yuki@
+@to pound@|@tuk, tuk-tuk, tuktuk@
+@to say@|@angwe, fæ-k, fahk@
+@to scratch@|@kakA, kawi, kawi, rahfuhs, rahfuhsi@
+@to see@|@muh@
+@to sew@|@tA, tAta, tuh, tuhta@
+@to shoot@|@lihkacski@
+@to sit@|@mAta (in aset), mAta (lyplyp), pihtuhk@
+@to sleep@|@mutul@
+@to sniff@|@(my)sAngsAng, AngsAng, mysAngsAng, ngok@
+@to spit@|@acni@
+@to split@|@fAlA-ng, falfal, fihlihk@
+@to squeeze@|@isacs@
+@to stab@|@fakfuhk@
+@to stand@|@tu@
+@to steal@|@kahl, pAsr, pisrapasr, puhsr, pysre@
+@to suck@|@kang, mongo@
+@to swell@|@faht, fiti@
+@to swim@|@kofkof@
+@to think@|@mA, motko, muh@
+@to throw@|@kalti, kuhluhk, osrak, osrwosr@
+@to tie up@|@awi, ayA, kapihr, pip@
+@to turn@|@el, tahpuhl@
+@to vomit@|@kolai, woht, wot@
+@to walk@|@el, som@
+@to yawn@|@mA, muh@
+@tongue@|@lo, loh, lohoh, loo-(l)@
+@tooth@|@wihs@
+@two@|@lo-, lu-, luo@
+@warm@|@fuhsr fuhsr@
+@water@|@kof, sr'no-, sroano@
+@we@|@kitacl, kuht@
+@wet@|@twe kof@
+@What is your name?@|@Su inem an?@
+@what?@|@e, me-E, meac@
+@when?@|@ngac, ngE@
+@where?@|@o-yE, piyac, yE@
+@white@|@fasrfasr@
+@who?@|@sä, suc@
+@wide@|@sra-(læp), sralahp@
+@wife@|@kangkuh@
+@wind@|@eng, engyeng@
+@wing@|@paho@
+@woman@|@acn, En, muhtwacn@
+@woods@|@insack@
+@worm@|@wet@
+@year@|@yac@
+@yellow@|@rangrang@
+@Yes@|@Aok@
+@you@|@kom, komtacl@
+@You're welcome@|@Ke kulang@
+

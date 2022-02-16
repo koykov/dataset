@@ -1,0 +1,745 @@
+@English@|@Yukaghir@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a k. of duck@|@šalhang@
+@a k. of moss@|@norzek@
+@a kind of minnow@|@munda:@
+@a kind of small fish@|@kuropa:, momuSa:@
+@above@|@pude@
+@afraid@|@iN, iNlE@
+@after@|@jekl'e:, jola:@
+@again@|@aji:@
+@against@|@n'a:s'in@
+@all@|@c'umu, c'umut@
+@alone@|@id'e:@
+@along@|@mi:dE@
+@already@|@c'O:@
+@also@|@aji:, jaqaj@
+@although@|@tit@
+@always@|@c'O:tE, iSkom, na:r@
+@Amur ide@|@amund'a:@
+@ancient@|@c'O:l'E@
+@angry@|@joGo@
+@another@|@i:lE, je:n@
+@antler@|@unmu@
+@any@|@kuS@
+@apparently@|@minnE@
+@appear@|@jen@
+@arm@|@nugen@
+@armpit@|@qaZidElbE@
+@arrive@|@jaqa@
+@arrow without a head@|@lOkil@
+@as@|@tite@
+@ascend@|@arp@
+@ashamed@|@omol@
+@aside@|@Saj@
+@ask@|@joulE, nind'e:@
+@asleep@|@mal@
+@at@|@a:rqa:, al'@
+@at once@|@n'ic'as@
+@autumn@|@n'a:dE@
+@axe@|@n'umud'i:@
+@back@|@joboGE, jolo@
+@back (on one's back)@|@c'anma:q@
+@backwards@|@c'aqadE@
+@bad@|@er@
+@bad (too bad)@|@abala:q, qa:re:n@
+@bark@|@oj@
+@barn@|@kurul@
+@basis@|@me:mE@
+@be@|@l'E, o:@
+@beads@|@kOrOl'ki:@
+@bear@|@me:me:, qa:qa:@
+@beat@|@kOudE, pungE, tol'c'i:@
+@beautiful@|@c'eNdu:, n'ajdEli@
+@become@|@kude@
+@bed@|@punbur@
+@bed (plank bed)@|@urun@
+@before@|@ke:jE@
+@behind@|@jekl'e:@
+@believe@|@be:rE@
+@bell@|@joNs'E@
+@belonging@|@teril'@
+@berry@|@lebejdi:@
+@between@|@niNe:ge:l@
+@big@|@c'omo@
+@bile@|@n'umud'i:@
+@bind@|@uldE@
+@birch tree@|@pon'qa:ra:@
+@bird@|@nodo@
+@bird: eagle@|@qani@
+@bird: white crane@|@kureqEti:@
+@black@|@embE@
+@blanket@|@joNZo:d'E@
+@bless@|@lostubi:@
+@blood@|@leppul@
+@blow@|@puj@
+@board@|@ninba:@
+@boat canoe@|@eks'il'@
+@body@|@Sure@
+@boil@|@lolGE@
+@bone@|@amun@
+@boots@|@mure, SOtkuri:@
+@born@|@u:@
+@both@|@ma:lE@
+@bottom@|@albE, arimEl@
+@bow@|@eje@
+@bowl@|@SoboGEra:@
+@break@|@qonZE, Sel'gE@
+@breath@|@ju:s'i:@
+@breathing@|@ju:s'E@
+@bring@|@kes'i:@
+@brother (elder)@|@c'a:c'a:@
+@bucket (made of birch bark)@|@tuis@
+@burbot@|@n'atn'u:ja:@
+@burn@|@pe:dE@
+@bury@|@qoron'i:@
+@business@|@ajda:n@
+@busy@|@moditn'a:@
+@by@|@a:rqa:@
+@call@|@ed, n'e:@
+@camp@|@otul@
+@capricious@|@c'aGirn'a:@
+@care@|@qoron'i:@
+@carry@|@eleji:@
+@case@|@abut@
+@catch@|@ig@
+@cauldron@|@lunbugE@
+@cautious@|@arpE@
+@chamois@|@nod'in'e:r@
+@channel@|@pujlE@
+@character@|@me:mE@
+@chase@|@qaNi:@
+@chat@|@parc'EGE@
+@chest@|@melut@
+@chief@|@an'd'E@
+@child@|@o:@
+@circle@|@mojturuk@
+@climp up@|@arp@
+@close@|@me:kE, me:klE, melGEl, migi, tOb, toG@
+@clothes@|@n'e:r@
+@coat@|@maGil@
+@cold@|@c'el@
+@come@|@kel@
+@completely@|@bojs'E, bollEqEnE, bukatIn, c'istE@
+@completely all@|@c'irc'umut@
+@container@|@abut@
+@cook@|@pan@
+@count@|@c'uN@
+@cover@|@Sar@
+@cow@|@qorobE@
+@crow@|@parna:@
+@cry@|@ibil'E@
+@cure@|@emtE@
+@curtain@|@po:lEq@
+@cut@|@c'oG, c'oln@
+@cut down@|@c'ine@
+@cut frozen fish@|@c'a:qi:@
+@dam used with a fish trap@|@tatti:@
+@damp@|@oN@
+@dance@|@loNdE@
+@dangle@|@jarqE@
+@dark@|@em@
+@darkness@|@emis'E@
+@darling@|@i:lu:l@
+@day@|@pod'orqE@
+@dead@|@jämbon tot@
+@deceive@|@kimda:n'E@
+@deep@|@c'eginmo:, toGo:@
+@den@|@abut@
+@dense@|@toGo:@
+@descend@|@ONZ@
+@die@|@am@
+@different@|@mus'in@
+@difficult@|@nigejE@
+@dig@|@Sar@
+@directly@|@id'e:@
+@disappear@|@el'ed'o:@
+@disease@|@jobeleng, jobok@
+@disk on a ski stick@|@a:bE@
+@divide@|@qartE@
+@do@|@a:, u:@
+@dog@|@toukE@
+@don't@|@idek@
+@Don't touch me there!@|@metul tät elqodaalek!@
+@door@|@SobodENil'@
+@downstream@|@led@
+@dream@|@joNZE@
+@dress@|@tami@
+@drink@|@o:ZE@
+@drown@|@c'ire@
+@drunk@|@jumm@
+@dry@|@ke:l'E@
+@ear@|@unemE@
+@earlie@|@tuda:@
+@early@|@ugujE@
+@earth@|@lebe:@
+@eat@|@leg@
+@edge@|@jaGil, O:l'@
+@egg@|@jajs'E@
+@eglantine@|@Sebis'E@
+@elk@|@c'omo:lbEn@
+@embrace@|@amli:@
+@end@|@kis'il, kit@
+@enough@|@n'a:du@
+@enter@|@SOg@
+@entrance@|@SobodENil'@
+@escape@|@Seg@
+@Even@|@erpEjE@
+@evening@|@joulE@
+@everything@|@c'umu, c'umut@
+@everywhere@|@bejd'e:@
+@exit@|@uks'i:bE@
+@extinguished@|@n'ime:@
+@eye@|@aNd'E@
+@face@|@n'a:s'E@
+@face down@|@loda:q@
+@fall@|@je:, n'oGo@
+@far@|@c'ejlu:, jaql, ju:kE@
+@farther down@|@lede@
+@fast@|@c'ugo:@
+@fat@|@poNis'E, So:nbE, SoNdE@
+@father@|@echie, es'e:@
+@fathom@|@mend'E@
+@feel@|@mOd@
+@fellow@|@adil@
+@fence@|@kure:@
+@fight@|@kimd'E@
+@fin@|@pe:ri:nZa:@
+@find@|@nug@
+@finger@|@pe:dis'E@
+@finish@|@c'eme, Sobol'E, ul@
+@fire@|@los'il@
+@firewood@|@Sa:l@
+@first@|@aNnumE@
+@fish@|@anil@
+@fish (young)@|@oSo:tEr@
+@fish trap@|@mo:rtE, OgO@
+@fish with a fishing rod@|@c'umus'i:@
+@fishing rod@|@c'umus'E@
+@fit in@|@SinSaj@
+@five@|@n'aGanbo:@
+@flat@|@läbiä@
+@flirt@|@c'aGirn'a:@
+@float@|@je:@
+@flour@|@i:legul@
+@fly@|@mere@
+@food@|@legul@
+@fool@|@sa:reNi@
+@foot@|@nojl@
+@forest@|@jo:bi:@
+@forge@|@kONd'E@
+@forget@|@joNZE@
+@fork@|@je:r@
+@four@|@jelek@
+@fox@|@SaqalE@
+@friend@|@kene, kenmE@
+@friend (address to a female)@|@pa:@
+@friend (address to a male)@|@ke:@
+@frightened@|@iNlE@
+@frost@|@qajng, qan@
+@frozen fish eaten@|@c'a:qa:@
+@furkation@|@je:r@
+@gallop@|@pas', pOu@
+@gather@|@Saqal'E@
+@get@|@je:@
+@ghost@|@c'u:di:@
+@girdle@|@juo@
+@girl@|@marqil'@
+@give@|@kej, tadi:@
+@go@|@qon@
+@go around@|@jOmg@
+@go away@|@keb@
+@go out@|@uk@
+@God@|@qojl@
+@good@|@omo:@
+@grandfather@|@qa:qa:@
+@grandmother@|@epe:@
+@grass@|@ul'egE@
+@grayling@|@ugurc'e:@
+@guard@|@noj@
+@gun@|@uZZo:@
+@hair@|@majlE@
+@half@|@ejmundE@
+@handle@|@nono@
+@hang@|@qabur@
+@hard@|@kim@
+@hardly@|@nas'i:lE@
+@hare@|@c'olGErE@
+@hat@|@moGo@
+@have@|@l'i:@
+@he@|@tude@
+@head@|@jo:@
+@head (animal's head)@|@kO:kE@
+@headscarf@|@n'a:ZubE@
+@hear@|@mOd@
+@heart@|@Subed'E@
+@hello@|@doro:bE@
+@help@|@qame:@
+@here@|@te:t, ti:, tiNl'id'e@
+@hermine@|@gornEta:@
+@hide@|@aGi@
+@hit@|@paj, Sapa@
+@hoar frost@|@o:dE@
+@hold@|@moj@
+@hole@|@iNer, jurgu:, qonZE@
+@holed@|@joNno:@
+@hollow@|@c'olGE@
+@hour@|@c'as@
+@house@|@numO@
+@how@|@qodo@
+@how many@|@qam@
+@how much@|@qam@
+@however@|@anna:qE@
+@hundred@|@isto:@
+@hunter (best hunter)@|@qaNis'E@
+@hurry@|@omdu@
+@hurt@|@joG@
+@husband@|@pulut@
+@husband of the wife's sister@|@kelil@
+@I@|@met@
+@ice@|@jarqE@
+@ice (first ice floating@|@SuGa:@
+@ice-hole@|@al'o:jE@
+@if@|@du@
+@illness@|@jo:l'E@
+@immediately@|@qollumE@
+@incidentally@|@raj@
+@indeed@|@dinna:q@
+@informed@|@joulE@
+@intestinal worm@|@kel-@
+@intestine@|@šole@
+@intoxicated@|@jumm@
+@iron@|@ludul@
+@it@|@pOn@
+@jelous@|@qolluj@
+@jerk@|@norqE@
+@jerked@|@jaqalE@
+@juice@|@id'e@
+@jump@|@c'irc'E, menmE@
+@just@|@olmEn@
+@kill@|@kude@
+@kindling steel@|@los'id'i:@
+@kiss@|@jug@
+@knee@|@poGo@
+@knees@|@poGoZa:q@
+@knife@|@c'oGojE, kire@
+@know@|@lej@
+@Koriak@|@kerekE@
+@lake@|@jalGil@
+@lamp@|@l'ejkE@
+@land@|@lebe:@
+@language@|@aZu:, kal-@
+@larch tree@|@onZa:@
+@larch tree (young)@|@Onme:de:@
+@large@|@c'omo@
+@large Russian boat@|@qa:rbEs@
+@last@|@jal@
+@late@|@i:s'@
+@later@|@opol'l'E@
+@laugh@|@nO:, qad'ilb@
+@lay under@|@amdEt@
+@leaf@|@polZis'E@
+@learn@|@kis'e:@
+@leave@|@keb, pOn'@
+@leg@|@nojl@
+@lenok@|@aro:jE@
+@let out@|@ugutEj@
+@lie@|@qodo@
+@lie down@|@abud@
+@lift@|@paj@
+@like@|@anurE, tite@
+@little@|@c'aj, juk, juku@
+@live@|@en@
+@live (somewhere)@|@modo@
+@liver@|@kuded'E@
+@load@|@im@
+@log@|@jeremE, SepinkE@
+@long@|@c'it, i:s'@
+@long ago@|@tuda:@
+@look for@|@aNs'i:@
+@look out@|@egedE@
+@lose@|@SoGo@
+@love@|@anurE, jOul'E@
+@lower@|@leluke@
+@luck@|@talan@
+@mad@|@ullum@
+@make@|@a:, u:@
+@male@|@Ond'E@
+@man@|@SoromE@
+@man (old)@|@pulut@
+@man (young)@|@kOj@
+@many@|@ningE, pojö.i, pojo.n@
+@march@|@midolE@
+@marten@|@noxšo@
+@master@|@pOgil'@
+@meat@|@c'u:l@
+@melt@|@al'@
+@middle@|@molGE, Ord'E@
+@milk@|@ibiSi:@
+@mind@|@OnmE@
+@miracle@|@d'i:bE@
+@mitten@|@molod'E@
+@mock@|@c'en'i:@
+@money@|@poNdE@
+@month@|@kingze@
+@Moon@|@kind'E@
+@more@|@puS@
+@morning@|@ugujE@
+@morning dawn@|@xoi@
+@moss@|@kilbE@
+@mother@|@eméi, emej@
+@mountain@|@pe:@
+@mouse@|@SOjl'bul@
+@mouse (small)@|@jukun'me:jE@
+@mouth@|@aNa@
+@move@|@eg, qon, qorqil'E@
+@much@|@ningE@
+@mum (address)@|@emme:, enn'e:@
+@nail (maimed)@|@pa:qil'@
+@name@|@n'u:, nim, niu@
+@neck@|@jomu@
+@needed@|@nado@
+@needle@|@mided'E@
+@negative particle@|@el, ele, oi-le@
+@net (fishing net)@|@joujE@
+@nevertheless@|@simbir@
+@new@|@il'l'E@
+@news@|@mend'E@
+@nice@|@omo:@
+@night@|@emil@
+@no@|@Ojl'E@
+@no way@|@kijen@
+@nobody@|@nilgi@
+@noise@|@ajda:n, qol, qolil@
+@nose@|@joGul@
+@now@|@c'a:SEt, id'i:@
+@numb@|@SOZ@
+@oar@|@c'amd'E@
+@old (of people)@|@lige@
+@on@|@pude:@
+@on the way@|@c'uge:@
+@one@|@irk, irke:@
+@oneself@|@ejie, ijie@
+@only@|@ere, medin, moldE@
+@open@|@joGo, jotn'@
+@opening@|@aNil'@
+@order@|@šair, šar@
+@ornament@|@SOrilE@
+@orphan@|@po:@
+@other@|@i:lE, je:n@
+@other side@|@ejmE@
+@out (be out)@|@polo@
+@outside@|@pude, pudel, pudele:@
+@overtake@|@mudd@
+@owner@|@pOgil'@
+@pass@|@mudd@
+@path@|@c'ugO@
+@path (mountain path)@|@s'is'@
+@pattern@|@SOrilE@
+@paw@|@SaSqul@
+@peled@|@baraNEtta:@
+@penis@|@is'i:@
+@people@|@omni:@
+@person@|@SoromE@
+@piece@|@jo:s'E@
+@pierce@|@janmEG, n'is'a@
+@pike@|@Su:kE@
+@pile@|@joGorc'E@
+@pipe (smoking)@|@qaNsa:@
+@pity@|@qa:re:n@
+@place@|@me:stE, poni-@
+@plait@|@pun@
+@plane (wood)@|@Seril@
+@platform@|@n'ibojE@
+@play@|@jo:dE@
+@please@|@kimd'ES@
+@point@|@i:s'E@
+@pole@|@istElba:, sal@
+@poor@|@nuZuNo:@
+@poplar tree@|@nolut, ugurc'Era:@
+@pour@|@al'bE@
+@praise@|@qoli:@
+@prepare@|@amdEt@
+@press@|@n'umu, Sar@
+@price@|@ejmE@
+@prick@|@kigi:@
+@princeling@|@an'd'E@
+@pull in@|@ju:tE@
+@pull out@|@abudu@
+@push@|@c'olGE@
+@put@|@pan, pOn'@
+@put in@|@SinSaj@
+@put on@|@moro@
+@quick@|@c'ugo:@
+@quietly@|@c'uru:d'E@
+@rags@|@kOjl'e:@
+@rain@|@tibo@
+@raven@|@c'omparna:@
+@reach@|@jaqa, jomul@
+@read@|@c'uN@
+@red@|@kejlE@
+@reindeer (domestic)@|@a:s'E@
+@reindeer (harnessed)@|@u:c'aq@
+@reindeer (wild)@|@tolou@
+@rejoice@|@aja:@
+@rest@|@iZulbE, tinnEj@
+@return@|@n'a:s'E@
+@rich person@|@tetc'e:@
+@right@|@kOdin, mila:@
+@ring@|@qadmudul@
+@river@|@unuN@
+@riverbank@|@c'oGos'a:l@
+@rivermouth@|@aNil'@
+@road@|@c'ugO@
+@roam@|@mido@
+@roasting spit@|@u:ni:@
+@roll@|@pOme@
+@root@|@larqul, larxu, ojuu@
+@rot@|@pollE@
+@round white fish@|@s'is'kEde:@
+@run@|@SubeZE@
+@rush out@|@puguZEj, puld'E@
+@Russian@|@lu:s'i:@
+@sable@|@noqSE@
+@saliva@|@mull'E@
+@saw@|@erbE@
+@say@|@mon@
+@scared@|@iN@
+@scrape@|@nO:@
+@scratch@|@aje:@
+@search@|@aNs'i:@
+@see@|@jo:@
+@seen@|@jen@
+@seine net@|@paGul@
+@self@|@sa:m@
+@send@|@jan@
+@servant@|@qamlui:l@
+@serve@|@qamul@
+@set up@|@nuSel'E@
+@seven@|@purk@
+@sew@|@ik, iNd'E@
+@shadow@|@ajbi:@
+@shaft@|@nono@
+@shaggy@|@lenmunnE@
+@shake@|@irkE@
+@shallow@|@chogunn'e-, chohu@
+@shallow place on a river@|@ojdEGE@
+@shaman@|@almE, antEd'a:jE@
+@shave@|@Seril@
+@she@|@tude@
+@shine@|@pod'o, qod'ibE@
+@shining@|@pod'ol'E@
+@shoes@|@mure@
+@shoot@|@aji:, kOudE, qo:G@
+@shout@|@Or@
+@shovel@|@liipe@
+@show@|@kiSSE@
+@sibling (younger)@|@emd'E@
+@side@|@n'ugerE@
+@silver@|@c'ereuro:@
+@sin@|@n'an'@
+@sinew@|@iNd'i:@
+@sink@|@amlE@
+@sister (elder)@|@pa:ba:@
+@sit@|@modo@
+@six@|@molGE@
+@skin@|@qa:r, xar@
+@skis (with fur bottoms)@|@ugurc'E@
+@sky@|@kuZu:@
+@sleep@|@joNZE@
+@sleeve@|@uuje@
+@slide@|@c'ird'E@
+@slip@|@pol'ir@
+@slippery@|@polZis'E@
+@small@|@juk, juku@
+@small (in quantity)@|@c'aj@
+@small hollowed boat@|@anabuska:@
+@smell@|@ped'e@
+@smoke@|@ju:l, o:ZE@
+@snag@|@lamunZa:@
+@snow@|@pukel'E@
+@snow crust@|@Sil'l'E@
+@snowstorm@|@aNGEjE@
+@so@|@taNn'igE@
+@something@|@Sa:r@
+@son@|@adO:@
+@son in law@|@pulej@
+@song@|@jaqtE@
+@soul@|@ajbi:, jül, lül, niNe:@
+@soup@|@läp@
+@South@|@pudi@
+@space below something@|@-al@
+@speak@|@an'@
+@spear@|@c'obinE@
+@spend a night@|@ammEl@
+@spirit@|@ispi:r@
+@spirit (evil)@|@jO:jE@
+@split@|@jurgu:@
+@spoon@|@loSkEra:@
+@spring@|@po:rE@
+@squeak@|@c'iqaG@
+@squirrel@|@jodod'ubE@
+@staff@|@jaGid'E@
+@stand@|@ege@
+@start@|@udel'e:d'e:@
+@steal@|@ol, ono@
+@stick@|@jaGid'E@
+@stick out@|@nutn'E@
+@stick to@|@ton@
+@still@|@d'e:tEGE, daGanI, s'in@
+@stomach@|@iril@
+@stone@|@pie, šäu, xäi@
+@stone (large)@|@pe:@
+@stone (small)@|@SOjl@
+@story@|@n'i:d'i:l@
+@stove@|@oGoq@
+@stream@|@ojl'@
+@strength@|@s'i:lE@
+@strong@|@nanche@
+@suck@|@ib@
+@suddenly@|@emes'kE@
+@suffer@|@aGurpE@
+@suffocate@|@qoqSE@
+@summer@|@pugO@
+@sun@|@jel'o:d'E, jelože@
+@surface@|@pudebE@
+@swallow@|@amlE@
+@swamp@|@nor@
+@swan@|@jangže@
+@sweep@|@kerpe:@
+@swell@|@puke:@
+@take@|@mej, min@
+@take away@|@kOudE@
+@take down@|@lon, lOudE@
+@take off@|@lon@
+@take out@|@ugutEj@
+@tale@|@c'u:l'd'i:@
+@tambourine@|@jalGi@
+@taste@|@cong-@
+@tea@|@c'aj@
+@tear@|@SaSa@
+@tell@|@n'e:d'i:, n'ide, pundu@
+@temple@|@abor@
+@ten@|@kun'il', kune, kunn'i@
+@that@|@ta, tabun, tang, tO:n@
+@then@|@kunn'ukte:, ta:s'ilE, ta:tl'Et, taNde:t, taNn'igE@
+@there@|@ta:, taGari:, taNdEgE, tanta:@
+@they@|@tittE@
+@thief@|@olo-, olol@
+@thimble@|@noGi:@
+@thin snow@|@ku@
+@this@|@du, ti, ting, tung@
+@thorn@|@nono@
+@thou@|@tet@
+@thought@|@c'uNZE@
+@three@|@ja:, jal, jalmE@
+@throut@|@tunmu@
+@throw@|@aji:, pejZi:, peSSEj@
+@thumb@|@SaSqul@
+@tie@|@uldE@
+@time@|@para:@
+@time (at the time of)@|@saqanE@
+@tip@|@kich, kichil, kókä@
+@to@|@a:rqi:, laN, laNi@
+@to appear@|@jed-@
+@to be sick@|@java-, joba-, jobe-, jöbe-, jobo-@
+@to bind@|@jodo-@
+@to bring@|@tadi@
+@to carry@|@kande-@
+@to come in@|@šog-, šogu-, šon-@
+@to eat@|@läg-, leg-, leu-@
+@to gnaw@|@läg-, leg-, leu-, sewe-@
+@to go@|@män-@
+@to hear@|@xol@
+@to help@|@chang, cheng@
+@to melt@|@alaa-@
+@to say@|@mon-@
+@to split@|@long@
+@tobacco@|@taba:q@
+@today@|@s'ebon'n'i@
+@together@|@irkinl'E, n'aGa:@
+@too@|@aji:@
+@tooth@|@todi:@
+@top@|@i:s'E@
+@touch@|@c'aN@
+@towards@|@a:rqi:, laN, laNi@
+@transparent@|@qod'ibE@
+@trap@|@kapkan, SaSil@
+@tree@|@jollE, Sa:l@
+@tree (tall)@|@jugul@
+@tree trunk@|@culgo-@
+@tremble@|@irkE@
+@trousers@|@o:@
+@true@|@ubuj@
+@turn@|@jodo, jodu:, jOmg@
+@twist@|@jodo@
+@two@|@ataq, ataql, kiji-@
+@unable@|@lor@
+@unbelievable@|@el'l'o:dEj@
+@uncle@|@chacha, t'at'a@
+@under@|@a:@
+@understand@|@mOd@
+@undo@|@il'l'a:@
+@upstream@|@c'andE@
+@various@|@mus'in@
+@very@|@alIs, del'bE, naGa:@
+@wade@|@kile@
+@wait@|@me:@
+@walk@|@eg@
+@war@|@seri@
+@warm@|@puge@
+@warmth@|@pugel'E@
+@wash@|@aje:@
+@watch@|@noj@
+@watch out@|@arpE@
+@water@|@o:Zi:@
+@way@|@c'ugO@
+@we@|@mit@
+@well@|@omoc'c'a:@
+@wet@|@oN@
+@what@|@leme, qa@
+@what for@|@noNo:n@
+@when@|@qajin@
+@where@|@qadungE, qol, xon@
+@Where is my room?@|@met nume qoll'e@
+@Where is the beach?@|@chohocho qoll'e@
+@which@|@qadin, xadi@
+@whistle@|@c'uNZ@
+@white@|@pojnE, pOn'@
+@who@|@kin@
+@whole@|@c'umu, c'umut@
+@why@|@noNo:n, qodit@
+@wide@|@ejl, kenbunE@
+@widow(er)@|@po:@
+@wife@|@terikE@
+@will@|@c'omo:l@
+@willow@|@n'anmE@
+@willow (young)@|@pukel'o:d'E@
+@willow ptarmigan@|@n'a:tlEbe:@
+@wind@|@ilejE@
+@wine@|@mino:@
+@winter@|@c'e:d'E@
+@wish@|@erd'i@
+@with what@|@numun@
+@wolf@|@kOde:@
+@wolverine@|@arnu:ja:@
+@woman@|@paj@
+@woman (old)@|@eme:qsin, terikE@
+@woman's breasts@|@ibiSi:@
+@wonderful@|@el'l'o:dEj@
+@wood@|@Sa:l@
+@wood (rotten)@|@jollE@
+@wood grouse@|@poNZubE@
+@word@|@aZu:@
+@work@|@u:, ujl'@
+@worm@|@kelid'E@
+@wound@|@joGor@
+@Yakut@|@jaqal@
+@year@|@gOn, n'EmolGil@
+@yellow@|@SaqalE@
+@you@|@tit@
+@youth@|@adil@
+@Yukaghir@|@odul@
+@yurt@|@numO, urasa:@
+

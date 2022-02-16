@@ -1,0 +1,3155 @@
+@English@|@Hebrew@
+@Author name@|@Calin Zalana@
+@Font@|@Arial\12\Arial\12@
+@(sign of the definite accustaive)@|@et@
+@(stands for "alef")@|@(')@
+@(stands for "ayin")@|@(")@
+@(stands for "he")@|@(h)@
+@(stands for "h'et")@|@(h')@
+@(stands for "kaf")@|@(k)@
+@(stands for "khaf")@|@(kh)@
+@(stands for "qof")@|@(q)@
+@[and]@|@[ve-]@
+@[definite article]@|@[ha-]@
+@[dual ending]@|@[-ayim]@
+@[equivalent of 'not to have']@|@[ein l-]@
+@[equivalent of 'to have']@|@[yesh l-]@
+@[fem. pl. ending]@|@[-ot]@
+@[from]@|@[m-]@
+@[in the]@|@[ba-]@
+@[in]@|@[b-]@
+@[masc. pl. and dual construct ending]@|@[-ey]@
+@[masc. pl. ending]@|@[-im]@
+@[more than]@|@[yoter mi-]@
+@[personal suffix - 1st pers. pl.]@|@[-nu]@
+@[personal suffix - 1st pers. sg.]@|@[-i]@
+@[personal suffix - 2nd pers. fem. pl.]@|@[-khen]@
+@[personal suffix - 2nd pers. fem. sg.]@|@[-kh]@
+@[personal suffix - 2nd pers. masc. pl.]@|@[-khem]@
+@[personal suffix - 2nd pers. masc. sg.]@|@[-kha]@
+@[personal suffix - 3rd pers. fem. pl.]@|@[-an], [-hen]@
+@[personal suffix - 3rd pers. fem. sg.]@|@[-a / -ah]@
+@[personal suffix - 3rd pers. masc. pl.]@|@[-am], [-hem]@
+@[personal suffix - 3rd pers. masc. sg.]@|@[-o]@
+@[-self]@|@[atsm]@
+@[that / which / who / whom]@|@[she-]@
+@[to / towards / for]@|@[l-]@
+@[to the]@|@[la-]@
+@[when / at the time that...]@|@[kshe-]@
+@0@|@efes@
+@1@|@ah'at, eh'ad@
+@10@|@asara, eser@
+@100@|@me'a@
+@1000@|@elef@
+@10000@|@aseret alafim@
+@10th@|@asiri, asirit@
+@11@|@ah'ad-asar, ah'at-esre@
+@11th@|@ha'ah'ad-asar, ha'ah'at-esre@
+@12@|@shneym-asar, shteym-esre@
+@12th@|@hasheym-eser, hashteym-eser@
+@13@|@shalosh-esre, shlosha-asar@
+@14@|@arba"-esre, arba"a-asar@
+@15@|@h'amesh-esre, h'amisha-asar@
+@16@|@shesh-esre, shisha-asar@
+@17@|@shiv"a-asar, shva-esre@
+@18@|@shmona-asar, shmone-esre@
+@19@|@tish"a-asar, tsha-esre@
+@1st@|@rishon, rishona@
+@2@|@shnayim, shtayim@
+@20@|@esrim@
+@200@|@matayim@
+@2000@|@alpayim@
+@21@|@esrim ve'eh'ad, essim ve'ah'at@
+@2nd@|@sheni, shenit, shniya@
+@3@|@shalosh, shlosha@
+@30@|@shloshim@
+@3rd@|@shlishi, shlishit@
+@4@|@arba", arba"a@
+@40@|@arba"im@
+@4th@|@rvi"i, rvi"it@
+@5@|@h'amesh, h'amisha@
+@50@|@h'amishim@
+@5th@|@h'amishi, h'amishit@
+@6@|@shesh, shisha@
+@60@|@shishim@
+@6th@|@shishi, shishit@
+@7@|@sheva", shiv"a@
+@70@|@shiv"im@
+@7th@|@shiv"it, shvi"i@
+@8@|@shmona, shmone@
+@80@|@shmonim@
+@8th@|@shmini, shminit@
+@9@|@tesha, tish"a@
+@90@|@tish"im@
+@9th@|@tshi"i, tshi"it@
+@a great number of@|@harbe@
+@a little@|@me"at@
+@a little bit@|@qitsat@
+@a lot@|@harbe@
+@a quarter to (time)@|@reva" l-@
+@a short while@|@zman-ma@
+@abandon@|@hifqir, natash, zanah'@
+@abbreviate@|@qitser@
+@abdomen@|@beten@
+@able: be ~ to@|@yakol (l-)@
+@abomination@|@to"eva@
+@above@|@ma"al@
+@abroad@|@h'uts-la'arets@
+@absorb@|@qalat, safag@
+@absorption@|@qlita@
+@absorption: ministry of ~@|@misrad haqlita@
+@abstain@|@nisna"@
+@abundance@|@rov@
+@abuse (vb.)@|@hit"alel (b-)@
+@academy@|@yeshiva@
+@accepted: be ~@|@hitqabel@
+@according to@|@kmo, lefi@
+@accordingly@|@bhetem@
+@accumulate@|@atsar@
+@accuse@|@he'eshim@
+@accustomed: become ~@|@hitragel (l-)@
+@ache (vb.)@|@kha'av@
+@achieve@|@hissig@
+@acquire@|@rakhash@
+@acquisition@|@miqne@
+@acquit@|@zika@
+@act (vb.)@|@shih'eq@
+@act wickedly@|@rasha"@
+@act wisely@|@sakhal@
+@actor@|@sah'aqan, shah'qan@
+@actress@|@sah'aqanit, shah'qanit@
+@acts of judgement@|@shfatim@
+@Adam@|@adam@
+@adapt@|@sigel@
+@add@|@asaf, hosif, yasaf@
+@addicted: become ~@|@hitmaker (l-)@
+@address (n.)@|@ktovet@
+@admit@|@toda b-@
+@adopt (idea / child etc)@|@imets@
+@advance (intrans.)@|@hitqadem@
+@advantage@|@itron@
+@advertise@|@pirsem@
+@advice@|@etsa@
+@advise@|@ya"ats (l-)@
+@affidavit@|@haskama, tatshir@
+@afraid of@|@yare@
+@after@|@ah'ar, ah'arey@
+@afternoon@|@ah'ar-hatsahorayim, ah'arey-hatsahorayim@
+@afternoon: good ~ !@|@tsahorayim tovim!@
+@afterwards@|@ah'ar-kakh, ah'arey-ken@
+@again@|@od pa"am, shov@
+@against@|@neged@
+@age@|@gil@
+@age (vb.)@|@hizqin, zaqan@
+@agent@|@sokhen@
+@agianst@|@al@
+@agitated: be ~@|@ragaz@
+@ago@|@lifney@
+@agorot (division of the Shekel - usually plural)@|@agorot@
+@agree@|@hisskim (l-)@
+@aim (vb.)@|@h'atar, kiven@
+@air@|@avir@
+@air mail@|@do'ar-avir@
+@airplane@|@matos@
+@alien@|@ger@
+@alienated: be ~@|@hitnaqer@
+@alive@|@h'ay@
+@alive: be ~@|@haya@
+@all@|@kol@
+@all around@|@saviv@
+@all at once@|@pe eh'ad@
+@all day@|@kol hayom@
+@all kings of@|@kol miney@
+@all right@|@beseder@
+@allege@|@ta"an@
+@alliance@|@brit@
+@alligator@|@alligator, tanin@
+@allow@|@hirsha@
+@almost@|@kim"at@
+@alone@|@levad@
+@aloud@|@beqol, beqol gadol@
+@already@|@kvar@
+@also@|@gam@
+@altar@|@mizbeah'@
+@altitude@|@govah@
+@always@|@tamid@
+@amaze@|@hidhim, hifli'@
+@Amen@|@amen@
+@America@|@ameriqa@
+@American (adj.)@|@ameriqani@
+@American (n.)@|@ameriqanit@
+@Amharic (language)@|@amharit@
+@among@|@beqerev@
+@analyse@|@nittah'@
+@anger@|@h'ema@
+@angry: be ~@|@ka"as (al), ragaz@
+@animal@|@h'ay@
+@animal: wild ~s@|@h'aya@
+@animals@|@h'ayot@
+@annex@|@sipah'@
+@annihilate@|@hikhh'id, hishmid@
+@announce@|@hodia", hudia"@
+@annoy@|@hirgiz@
+@annoyed: be ~@|@ragaz (al)@
+@answer (n.)@|@tshuva@
+@answer (vb.)@|@na@
+@answer a question@|@ana al she'ela@
+@ant@|@nemala@
+@Antarctica@|@yabeshet-ant'arqtiqa@
+@anteater@|@dov nemalim@
+@anticipate@|@tsipa, yih'el@
+@any (with negative)@|@shum@
+@apartment@|@dira@
+@apologize@|@hitnatsel@
+@appeal@|@ir"ur@
+@appeal against@|@irel (al)@
+@appear@|@hofia" (b-), nir'a@
+@appetite@|@te'avon@
+@apple@|@tapuah'@
+@appoint@|@minna, paqad@
+@appreciate@|@he"erikh@
+@approach@|@hitqarev (l-), nagash (el), qarav (el)@
+@appropriate@|@mat'im@
+@April@|@april@
+@Aquarius (astr.)@|@mazzal-dli@
+@Arabic (language)@|@arabit@
+@Aramaic (language)@|@aramit@
+@area@|@shetah'@
+@argue@|@hitvakeah' (im)@
+@arid land@|@h'orba@
+@aridity@|@h'orev@
+@Aries (astr.)@|@mazzal-tale@
+@arise@|@qam@
+@arm@|@yad, zroa"@
+@arm (weapon)@|@h'imesh@
+@arm oneself@|@nashaq@
+@armchair@|@kursa@
+@army@|@tsava@
+@arrange@|@rakh, sider@
+@arrangement@|@erekh@
+@arrest@|@asar@
+@arrest (n.)@|@atsira@
+@arrest (vb.)@|@tsar@
+@arrive@|@hagia" (l-)@
+@arrow@|@h'ets@
+@art@|@emanot@
+@as@|@kmo@
+@as far as@|@ad@
+@ashamed: be ~@|@nikhlam@
+@ask@|@biqqesh, sha'al@
+@ask for@|@darash@
+@aspire@|@sha'af@
+@assassinate@|@hitnaqqesh (b-)@
+@assault@|@hitnapel (al)@
+@assemble@|@hiqhil, hit'assef, niqhal@
+@assemble (a machine)@|@hirkiv@
+@assembly@|@qahal@
+@assign@|@minna@
+@assist@|@zar, siyea" (l-)@
+@assistance@|@ezra@
+@associate (vb.)@|@hith'aber (im)@
+@association (sports)@|@liga@
+@astound@|@hidhim@
+@at home@|@babayt@
+@at that moment@|@be'oto harega"@
+@at that point@|@az@
+@at the place of@|@etsel@
+@at the time that...@|@ka'asher, kshe-@
+@at the time when...@|@bezman she...@
+@at times@|@lif"amim@
+@at; by@|@etsel@
+@atone (vb.)@|@kiper (al)@
+@attack (vb.)@|@hitqif, taqaf@
+@attempt (vb.)@|@nissa@
+@attempt to murder@|@hitnaqqesh (b-)@
+@attract@|@mashakh@
+@attribute (vb.)@|@shiyekh@
+@August@|@ogust@
+@aunt@|@doda@
+@Australia@|@ostralya@
+@Austria@|@ostriya@
+@author (f.)@|@soferet@
+@author (m.)@|@sofer@
+@automobile@|@mekhonit@
+@autumn@|@stav@
+@avange@|@naqam@
+@avoid@|@nisna"@
+@baby (boy)@|@tinoq@
+@baby (gitl)@|@tinoqet@
+@Babylon@|@bavel@
+@bacause@|@mipney she@
+@back@|@ah'ora, gav@
+@backward@|@ah'ora@
+@backwards@|@ah'ora@
+@bad@|@ra"@
+@bad: be ~@|@ra"a"@
+@badness@|@roa"@
+@bag@|@saq, tiq@
+@Bahamas@|@iyey-bahama@
+@Bahrain@|@bah'reyin@
+@bail@|@arvut@
+@bake@|@afa@
+@balance@|@izen@
+@balance (vb.)@|@izen@
+@ban (vb.)@|@asar@
+@banana@|@banana@
+@banish@|@nadah'@
+@bank@|@banq@
+@bank account@|@h'eshbon banq@
+@bankruptcy@|@pshitat-regel@
+@banquet@|@mishte@
+@Barbados@|@barbados@
+@bargain (vb.)@|@hitmaqqeah' (im)@
+@bark (vb.)@|@navah'@
+@base@|@mikhona@
+@basis@|@yesod@
+@basketball@|@kaddursal@
+@bat@|@atallef@
+@bath: take a ~@|@hitrah'ets@
+@bathe@|@hitrah'ets@
+@bathroom@|@h'adar sheyrutim@
+@battle@|@milh'ama@
+@battle line@|@ma"arakha@
+@be@|@haya@
+@be able@|@yakhol@
+@be able to@|@yakol (l-)@
+@be accepted@|@hitqabel@
+@be acquainted / familiar with@|@hikir@
+@be afraid@|@yare'@
+@be agitated@|@ragash, ragaz@
+@be alarmed@|@nivhal@
+@be alienated@|@hitnaqer@
+@be alive@|@haya@
+@be angry@|@ka"as, ka"as (al), ragaz@
+@be annoyed@|@ragaz (al)@
+@be anxious@|@h'arad@
+@be ashamed@|@nikhlam@
+@be bad@|@ra"a"@
+@be born@|@nolad@
+@be brave@|@amets@
+@be careful@|@mizhar (mi-), nizhar (mi-)@
+@be caught@|@nitpas@
+@be closed@|@nisgar@
+@be complete@|@shalam, tamam@
+@be concealed@|@nistar@
+@be contaminated@|@tame'@
+@be continued@|@nimshakh@
+@be corrupt@|@nishh'at@
+@be cruel@|@hit'akhzer@
+@be deleted@|@nikhh'ad@
+@be delivered@|@nitsal, nosha"@
+@be deserted@|@shamam@
+@be desolate@|@shamam@
+@be destroyed@|@h'arav, nishmad@
+@be different@|@nivdal@
+@be disobedient@|@mara@
+@be distict@|@nivdal@
+@be easy@|@qalal@
+@be enduring@|@nitsah'at@
+@be estranged@|@hitnaqer@
+@be evil@|@ra"a"@
+@be exalted@|@gavah@
+@be excited@|@ragash@
+@be faithful@|@ne'eman@
+@be far off@|@rah'aq@
+@be fed@|@nazon (al)@
+@be fed up@|@nam'as (al)@
+@be finished@|@nigmar@
+@be found@|@nimtsa@
+@be found guilty@|@asham@
+@be frightened@|@nivhal@
+@be full@|@male@
+@be furious@|@qatsaf (al)@
+@be glad@|@samah'@
+@be good@|@yatav@
+@be great@|@rava@
+@be guilty@|@asham, asham (b-)@
+@be happy@|@sameah'@
+@be heavy@|@kaved@
+@be hidden@|@neh'ba', nistar@
+@be high@|@gavah@
+@be holy@|@qadash@
+@be hostile@|@ayav@
+@be hungry@|@ra"ev@
+@be ill@|@h'ala@
+@be in need of@|@nizqaq (l-)@
+@be injured@|@niftsa"@
+@be insulted@|@ne"elav@
+@be jealous@|@qine'@
+@be joyful@|@sameah'@
+@be late@|@eh'er (l-)@
+@be left over@|@nish'ar, notar@
+@be light@|@qalal@
+@be located@|@nimtsa@
+@be many@|@rava@
+@be marvellous@|@nifla'@
+@be missing@|@ne"edar@
+@be noisy@|@ra"ash@
+@be over@|@nigmar@
+@be perceived@|@nitpas@
+@be pleasant@|@na"am@
+@be prolonged@|@nimshakh@
+@be rebellious@|@mara@
+@be reconciled with@|@hishlim@
+@be right@|@tsadaq@
+@be saved@|@nosha"@
+@be sick@|@h'ala@
+@be slight@|@qalal@
+@be sorry@|@hitsta"er (al)@
+@be spilled / poured@|@nishpakh@
+@be spoiled@|@nishh'at@
+@be stationed@|@nitsav@
+@be steady@|@ne'eman@
+@be strict@|@hiqpid (al)@
+@be strong@|@amets@
+@be swift@|@qalal@
+@be terrified@|@h'atat@
+@be thirsty@|@tsame'@
+@be unclean@|@tame'@
+@be well@|@yatav@
+@be whole@|@shalam@
+@be willing@|@ava, ratsa@
+@be wiped out@|@nikhh'ad@
+@be wonderful@|@nifla'@
+@be worried@|@h'arad@
+@be written@|@nikhtav@
+@beach@|@h'ul@
+@bear@|@yalad@
+@bear (n.)@|@dov@
+@bear witness@|@he"id@
+@beast@|@bhema@
+@beat (vb.)@|@dafaq@
+@beautiful@|@yafe@
+@beautiful!@|@yofi!@
+@beauty@|@yofi@
+@beaver@|@bone@
+@because@|@keyvan she, ki, ya"an@
+@because of@|@biglal, lema"an@
+@become@|@haya (l-)@
+@become accustomed@|@hitragel (l-)@
+@become addicted@|@hitmaker (l-)@
+@become clean@|@tahar@
+@become confused@|@hitbalbel@
+@become dry@|@yavash@
+@become entangled@|@histabel@
+@become excited@|@hitragesh@
+@become fat: fat: become ~@|@shaman@
+@become great / strong@|@gadal@
+@become hot / burning@|@h'ara@
+@become insane@|@hishtamea" mi@
+@become old@|@hizqin, zaqan@
+@become overcast@|@hit"anen@
+@become pregnant@|@hara@
+@become quiet@|@shaqat@
+@become worn@|@hishtafshef@
+@becoming (adj.)@|@mat'im@
+@bed@|@mita@
+@bedroom@|@h'adar sheyna@
+@bee@|@dvora@
+@beer@|@bira@
+@before@|@lifney, mul, neged, qedem, terem@
+@before noon@|@lifney hatsahorayim@
+@beg for mercy@|@hith'anen@
+@begin@|@hith'il, hith'il (l-)@
+@beginning@|@reshit@
+@behave@|@hitnaheg, nahag@
+@behind@|@ah'ar, ah'arey@
+@behold@|@hinne@
+@belief@|@emuna@
+@believe@|@he'emin (b-)@
+@Belize@|@beliz@
+@belly@|@beten@
+@belong@|@hishtayekh (l-)@
+@belonging (n.)@|@h'efets@
+@beloved (n. m.)@|@dod@
+@bench@|@safsal@
+@bend@|@hitkofef@
+@bend (vb.)@|@kafaf@
+@beneath@|@mata, mitah'at, mitah'at (l-), tah'at@
+@benefit (vb.)@|@nehena (mi-)@
+@bestow@|@hinh'il@
+@bet (vb.)@|@hit"arev (im / al)@
+@betray@|@bagad@
+@better@|@yoter tov@
+@between@|@beyn@
+@bezman she...@|@at the time when...@
+@bicycle@|@ofnayim@
+@big@|@gadol@
+@bill of landing@|@te"udat mishloah'@
+@billion@|@bilyon@
+@bind@|@qashar@
+@biology@|@biologya@
+@bird@|@tsipor@
+@birth certificate@|@te"udat leyda@
+@birthday@|@yom-huledet@
+@birthdays@|@yemey-huledet@
+@bite@|@nashakh@
+@black@|@shah'or@
+@blackboard@|@luah'@
+@blame (vb.)@|@he'eshim@
+@bleach@|@hilbin@
+@bleed@|@shatat@
+@bless@|@berekh@
+@blessing@|@brakha@
+@block (vb.)@|@h'asam, satam@
+@blood@|@dam@
+@bloom (n.)@|@perah'@
+@blot@|@qalat, safag@
+@blow@|@nashav hefiah'@
+@blow (trumpet)@|@taqa"@
+@blue@|@kah'ol@
+@blue: light ~@|@tkhelet@
+@blunt (vb.)@|@hiqha@
+@blur@|@tishtesh@
+@blush@|@adam@
+@boast@|@hithallel@
+@boat@|@oniya, sfina@
+@body@|@guf@
+@body: the human ~@|@guf ha'adam@
+@boil@|@ratah'@
+@bone@|@etsem@
+@book (n.)@|@sefer@
+@bookshelf@|@konanit@
+@booth@|@bitan@
+@booty@|@shalal@
+@bore@|@shi"mem@
+@boring@|@mesha"amem@
+@born@|@nolad@
+@borrow@|@lava (mi-)@
+@boss@|@bos@
+@bother@|@hitrid@
+@bottle@|@baqbuq@
+@bounce@|@hiqpits@
+@boundary@|@gvul@
+@bow (n.)@|@qeshet@
+@boy@|@na"ar, yeled@
+@boycott@|@heh'erim@
+@boyfriend@|@h'aver@
+@brains@|@sekhel@
+@brake (vb.)@|@balam@
+@branch@|@anaf@
+@branch (out / off) (vb.)@|@hista"ef@
+@brave@|@amits@
+@brave: be ~@|@amets@
+@bravo!@|@kol hakavod!@
+@bread@|@leh'em@
+@break (vb.)@|@hefer, shavar@
+@break into / out (with force)@|@parats@
+@breakfast@|@aruh'at-boqer@
+@breast@|@shad@
+@breast feed@|@heyniq@
+@breath@|@ruah'@
+@breathe@|@nasham@
+@bribe (vb.)@|@shih'er@
+@bridegroom@|@h'atan@
+@bridge@|@gesher@
+@briefcase@|@tiq@
+@bring forth@|@yalad@
+@bring in@|@hikhnis@
+@broadcast@|@shider@
+@bronze@|@nih'oshet@
+@brood@|@ravats@
+@brother@|@ah'@
+@brotherhood@|@ah'va@
+@brown@|@h'um@
+@budget (vb.)@|@tiqtsev@
+@buffalo@|@te'o@
+@build@|@bana@
+@building@|@binyan@
+@bull@|@par, shor@
+@bull: young ~@|@par@
+@burglary@|@hitpartsut@
+@burial@|@qvura@
+@burn@|@ba"ar@
+@burn (intransitive)@|@dalaq@
+@burn (transitive)@|@saraf@
+@burp@|@giheq@
+@bury@|@qavar, taman@
+@bus@|@otobus@
+@but@|@akh, aval, ulam@
+@button (vb.)@|@rakhas@
+@buy@|@qana@
+@buying@|@qniya@
+@by@|@ad-yedey@
+@by (author / creator)@|@ad-yedey@
+@by heart@|@al pe@
+@by the name of@|@bshem@
+@by the side of@|@al yad@
+@Bye! Goodbye!@|@bay!@
+@cab@|@monit@
+@cabinet@|@aron@
+@cable car@|@raqevel@
+@café@|@beyt-qafe@
+@cafeteria@|@qafeterya@
+@cake@|@uga@
+@calcium@|@sidan@
+@calculate@|@h'ishev@
+@calculus@|@h'eshbon@
+@calendar@|@luah'@
+@calf@|@egel@
+@call@|@hitqasher (l-), qara' (l-)@
+@camel@|@gamal@
+@camouflage@|@hisva@
+@camp@|@mah'ane@
+@camp (vb.)@|@h'ana@
+@campus@|@qampus@
+@can (vb.)@|@yakhol, yakol (l-)@
+@Canaan@|@qana"an@
+@Canada@|@qanada@
+@cancel@|@bitel@
+@Cancer (astr.)@|@mazzal-sartan@
+@candelabra@|@mnora@
+@candle@|@ner@
+@candle holder@|@qan@
+@capital punishment@|@onesh-mavet@
+@Capricorn (astr.)@|@mazzal-gdi@
+@captive@|@shvi@
+@capture@|@lakhad, shava@
+@car@|@mekhonit@
+@card@|@kartis@
+@card: identity ~@|@te"udat zehut@
+@card: immigrant ~@|@te"udat ole@
+@care@|@da'ag (l-)@
+@careful: be ~@|@mizhar (mi-), nizhar (mi-)@
+@carrot@|@gezer@
+@carry out@|@bitsea"@
+@cash@|@mzuman@
+@castle@|@armon@
+@cat (f.)@|@h'atula@
+@cat (m.)@|@h'atul@
+@catch@|@tafas@
+@catch cold@|@hitstannen@
+@cattle@|@baqar, nah'ala@
+@caught: be ~@|@nitpas@
+@cause (vb.)@|@garam (l-)@
+@cause to be born@|@yalad@
+@cease@|@h'adal, kala, shavat@
+@cedar@|@erez@
+@celebrate@|@h'agag@
+@Central African Republic@|@haqhiliya hamerkaz-afriqanit@
+@centre@|@merkaz@
+@certainly@|@bevada'i, kamuvan@
+@certificate@|@te"uda@
+@certified mail@|@do'ar rashum@
+@chair@|@kisse@
+@chalk@|@gir@
+@champion@|@aluf@
+@chance upon@|@hizdammen (l-)@
+@change (vb. intrans.)@|@hishtanna@
+@change (vb. trans.)@|@shina@
+@character@|@ot@
+@charge (an account)@|@zaqaf@
+@charge battery@|@ta"an@
+@chariot@|@merkava@
+@chariotry@|@rekhev@
+@chase (vb.)@|@radaf ah'arey@
+@chase after@|@radaf@
+@chastise@|@yassar@
+@chastisement@|@mosar@
+@chat (with)@|@soh'ah' (im)@
+@cheap@|@zul@
+@cheat@|@rimma@
+@check (n.)@|@tsah'eq@
+@check (vb.)@|@badaq, baddaq@
+@cheer@|@heriya" (l-), tru"a@
+@Cheers!@|@leh'aiym!@
+@cheese@|@gvina@
+@chemistry@|@kimiya@
+@cheque@|@tsah'eq@
+@cherub@|@kruv@
+@chicken@|@efroah'@
+@chief@|@nasi', shar@
+@child@|@yalda, yeled@
+@children@|@yeladim@
+@chilly@|@qar@
+@chimney@|@aruba@
+@China@|@sin@
+@Chinese (language)@|@sinit@
+@chips@|@tsips@
+@chlorine@|@klor@
+@chocolate@|@shokolad, shokolada@
+@choice@|@breyra, mivh'ar@
+@choose@|@bah'ar, bah'ar (b-)@
+@chop@|@qitsets@
+@church@|@knesiya@
+@circle@|@h'ag@
+@circumcise@|@mal@
+@cirstern@|@bur@
+@cities@|@arim@
+@citizen (f.)@|@ezrah'it@
+@citizen (m.)@|@ezrah'@
+@citizenship@|@ezrah'ut@
+@city@|@ir@
+@claim (vb.)@|@ta"an@
+@clan@|@mishpah'a@
+@clarify@|@barer@
+@class@|@kita, shi"ur@
+@classroom@|@kita@
+@claw@|@tufar@
+@clean: become ~@|@tahar@
+@cleanse@|@tiher@
+@cleave@|@baqa"@
+@climb@|@he"epil (l-), tipes@
+@clock@|@sha"on@
+@close (adv.)@|@qarov@
+@close (vb.)@|@sagar@
+@close up@|@satam@
+@closed@|@sagur@
+@closed: be ~@|@nisgar@
+@closet@|@aron@
+@cloth@|@bad@
+@clothes; garments@|@beged, bgadim@
+@cloud@|@anan@
+@cloudy@|@me"unan@
+@coach@|@me'amen@
+@coat@|@me"il@
+@coax@|@shidel@
+@Coca Cola@|@qoqa-qola@
+@cock@|@tarnegol@
+@coffee@|@qafe@
+@Coke@|@qoqa-qola@
+@cold@|@qar@
+@collapse (vb.)@|@hitmotet@
+@collar (for dogs)@|@qolar@
+@collect@|@asaf, asaf, hit'assef@
+@collide@|@hitnagesh@
+@color@|@tseva@
+@column@|@amud@
+@combat@|@milh'ama@
+@combine@|@tsiref@
+@come@|@ba', bo'@
+@come back@|@h'azar, shav@
+@come down@|@yarad@
+@come in@|@nikhnas@
+@come out@|@yatsa'@
+@come to an end@|@histiyem@
+@come together@|@nashaq@
+@command@|@pquda@
+@command (vb.)@|@tsivva@
+@commander@|@mefaqed@
+@commit adultery@|@na'af@
+@commit crime@|@pasha"@
+@commit oneself (to)@|@hith'iv (l-)@
+@commit sin@|@pasha"@
+@commit suicide@|@hit'abed@
+@common@|@ragil@
+@communication@|@tiqshoret@
+@compare to; imagine@|@dimma@
+@compensate@|@shiqem@
+@complaint@|@tluna@
+@complete@|@hishlim, tam, tamid, tamim@
+@complete (adj.)@|@shalem@
+@complete (vb.)@|@kala@
+@complete: be ~@|@shalam, tamam@
+@composition@|@h'ibur@
+@compromise (vb.)@|@hitpasher@
+@computer@|@mah'shev@
+@comsume@|@ba"ar@
+@conceal@|@histir, kih'ed, taman, tsafan@
+@conceive (child)@|@hara@
+@condition@|@matsav@
+@conduct@|@nahag@
+@confess@|@toda b-@
+@confession@|@hitvadut@
+@confiscate@|@heh'erim@
+@conform@|@sigel@
+@confuse@|@bilbel@
+@confused: become ~@|@hitbalbel@
+@congregation@|@qahal@
+@consider@|@h'ashav, hith'ashev (b-)@
+@conspiracy@|@qesher@
+@conspire@|@qashar@
+@constitution@|@h'uqa@
+@construction@|@binyan@
+@consume@|@akhal@
+@contact (vb.)@|@hitqasher (l-)@
+@contain@|@hekhil@
+@container@|@meikhal@
+@contaminated@|@tame'@
+@contention@|@riv@
+@continent; dry land@|@yabasha, yabeshet@
+@continually@|@tamid@
+@continued: be ~@|@nimshakh@
+@contract@|@h'oze@
+@convenant@|@brit@
+@convene@|@niqhal@
+@convict@|@hirshia"@
+@convocation@|@miqra@
+@cookie@|@ugiya@
+@copper@|@neh'oshet, nih'oshet@
+@copyright@|@zkhut-yotsrim@
+@corn@|@tiras@
+@corner@|@pina@
+@correct (be)@|@nakhon@
+@correction@|@tiqon@
+@correspond (with) (i.e. exchange letters)@|@hitkatev (im)@
+@correspondent@|@itona'i@
+@corrupt@|@hishh'it, shih'et@
+@corrupt: be ~@|@nishh'at@
+@cost much@|@la harbe@
+@count@|@safar@
+@country@|@erets@
+@couple@|@zug@
+@courage@|@omets@
+@course@|@maslul@
+@court@|@beyt-mishpat@
+@courthouse@|@beyt-mishpat@
+@courtyard@|@h'atser@
+@cousin (f.)@|@bat-dod@
+@cousin (m.)@|@ben-dod@
+@cousins@|@biney-dodim@
+@cover (vb.)@|@kasa, kiper (al)@
+@cow@|@para@
+@crash (vb.)@|@hitnagesh@
+@create (bibl.)@|@bara'@
+@creator@|@yotser@
+@credit (vb.)@|@zika@
+@credit card@|@kartis-ashra'i@
+@crime@|@aveyra, pesha"@
+@criminal@|@poshea"@
+@crimson@|@argaman@
+@cruel: be ~@|@hit'akhzer@
+@cry@|@bakha@
+@cry for joy@|@ranan@
+@cry out@|@tsa"aq@
+@crystal@|@bedolah'@
+@cucumber@|@melafefon@
+@cultivate@|@gidel@
+@culture@|@tarbut@
+@cup@|@sefel@
+@cupboard@|@aron@
+@cure@|@rafa'@
+@curse (vb.)@|@arar, qilel@
+@curtain@|@kaporet@
+@custody@|@mishmeret@
+@custom@|@mishpat@
+@customs@|@mekhes@
+@cut@|@karav@
+@Cyprus@|@qafrisin@
+@dad@|@aba@
+@daddy@|@aba@
+@dance (vb.)@|@raqad@
+@dancer (f.)@|@raqdanit@
+@dancer (m.)@|@raqdan@
+@Danish (language)@|@denit@
+@dare@|@he"ez (l-)@
+@dark@|@afel, kehe@
+@darkness@|@afela, h'oshekh@
+@date@|@ta'arikh@
+@daughter@|@bat@
+@daughters@|@banot@
+@day@|@yom@
+@day of the month@|@ta'arikh@
+@de inclined@|@nata@
+@dead@|@met@
+@deaf@|@h'eyresh@
+@death@|@mavet@
+@December@|@detsember@
+@decide@|@heh'elit, hitlit@
+@decimal point@|@niquda@
+@declaration@|@hakkraza, ne'um@
+@deer@|@ayal@
+@defender@|@saneygor@
+@defense@|@h'agana@
+@definitely@|@bevada'i@
+@deflect@|@hitta@
+@degree@|@to'ar@
+@delay (vb.)@|@kev, ikev@
+@deleted: be ~@|@nikhh'ad@
+@delight@|@h'afets@
+@deliver@|@hitsil, malat@
+@delivered: be@|@nosha"@
+@delivered: be ~@|@nitsal@
+@demand@|@darash@
+@demolish@|@natats@
+@Denmark@|@danya@
+@deny@|@kafar, kih'ed@
+@descend@|@yarad@
+@descendants@|@zera"@
+@desert@|@midbar@
+@desire (n.)@|@h'efets@
+@desist@|@hirfa@
+@desk@|@shulh'an@
+@desolate@|@h'arev@
+@desolate place@|@h'orba@
+@desolate: be ~@|@shamam@
+@desolation@|@shmama@
+@despise@|@baza, ma'as@
+@dessert@|@qinnuah'@
+@destroy@|@ibed, haras, hishh'it, hishmid, ibed, shadad, shih'et@
+@destroyed: be ~@|@h'arav, nishmad@
+@destruction@|@meh'ita@
+@devastation@|@shama, shod@
+@develop@|@pitah'@
+@develop (vb. intrans.)@|@hitpateah'@
+@development@|@hitpath'ut@
+@deviate@|@nata@
+@devil@|@satan, shed@
+@dictionary@|@milon@
+@die@|@met, niftar@
+@differ@|@h'alaq@
+@different: be ~@|@nivdal@
+@differentiate (between)@|@hivdil (beyn)@
+@difficult@|@qashe@
+@dinner@|@aruh'at-erev@
+@direct (adj.)@|@yashir@
+@director (f.)@|@menahelet@
+@director (m.)@|@menahel@
+@disagree@|@h'alaq@
+@disappear@|@ne"elam, nikhh'ad@
+@disaster@|@ason@
+@disbelieve@|@kafar@
+@discharge@|@zav@
+@discipline@|@musar@
+@discount@|@h'anah'a, hanah'a@
+@discover@|@galam, gilla@
+@disgrace@|@bizayon@
+@dish@|@kli@
+@disk@|@kikar@
+@distant@|@rah'ok@
+@distinguish (between)@|@hivdil (beyn)@
+@divert@|@hitta@
+@divide@|@h'alaq@
+@divorce@|@geresh, geyresh, geyrushin@
+@do@|@sha, pa"al@
+@do justice@|@hitsdiq@
+@doctor@|@doktor, rofe@
+@document@|@mismakh, sefer@
+@dog (f.)@|@kalba@
+@dog (m.)@|@kelev@
+@doggy@|@klavlav@
+@Dollar@|@dolar@
+@dolphin@|@dolfin@
+@Dominican Republic@|@harepubliq hadominiqanit@
+@dominion@|@malkhut, mamlakha, memshala@
+@donkey@|@h'amor@
+@don't +vb (neg. imperat.)@|@eyn + vb.@
+@door@|@delet@
+@door-to-door@|@midelet ledelet@
+@dot@|@niquda@
+@dove@|@yona@
+@down@|@yarad@
+@draw (a picture)@|@tsiyer@
+@draw near@|@qarav@
+@draw off@|@h'alats@
+@dream (n.)@|@h'alom@
+@dream (vb.)@|@h'alam@
+@dress (n.)@|@simla@
+@dress (vb.)@|@lavesh@
+@dribble@|@kidrer@
+@drink (n.)@|@mashqe@
+@drink (vb.)@|@shata@
+@drive@|@nahag@
+@drive out@|@nadah'@
+@driver (f.)@|@naheget@
+@driver (m.)@|@nehag@
+@driver's license@|@rishyon nehiga@
+@drop (n.)@|@tipa@
+@drought@|@h'orev@
+@dry@|@h'arev@
+@dry (adj.)@|@yavesh@
+@dry (vb.)@|@qalat, safag@
+@dry: become ~ / make ~@|@yavash@
+@dryness@|@h'orev@
+@duck@|@barvaz@
+@duration@|@orekh@
+@dust@|@afar, avaq@
+@Dutch (language)@|@holandit@
+@duty@|@mishmeret@
+@dwell@|@gar, hitgorer, yashav@
+@dwelling@|@mishkan, moshav@
+@e.g.@|@limashal@
+@eagle@|@ayit@
+@ear@|@ozen@
+@early@|@muqdam@
+@earth@|@adama@
+@Earth@|@adama, erets@
+@earthquake@|@ra"ash@
+@east@|@mizrah', qadim, qedem@
+@eat@|@akhal@
+@economics@|@kalkala@
+@edge@|@pe'a@
+@edit@|@rakh@
+@editorial board@|@ma"arekhet@
+@editorial staff@|@ma"arekhet@
+@education@|@tinukh@
+@egg@|@beytsa@
+@Egypt@|@mitsrayim@
+@Egyptian@|@mitsri@
+@eight (f.)@|@shmone@
+@eight (m.)@|@shmona@
+@eighteen (f.)@|@shmone-esre@
+@eighteen (m.)@|@shmona-asar@
+@eighth (f.)@|@shminit@
+@eighth (m.)@|@shmini@
+@eighty@|@shmonim@
+@elbow@|@marpeq@
+@elect@|@bah'ar@
+@electrician@|@h'ashmalla@
+@electricity@|@h'ashmal@
+@electrify@|@h'ishmel@
+@elephant@|@pil@
+@elevator@|@ma"alit@
+@eleven (f.)@|@ah'at-esre@
+@eleven (m.)@|@ah'ad-asar@
+@eleventh (f.)@|@ha'ah'at-esre@
+@eleventh (m.)@|@ha'ah'ad-asar@
+@elk@|@ayal@
+@else@|@od@
+@e-mail@|@do'ar eleqtroni@
+@emissary: immigration ~@|@shaliah' aliya@
+@empty (adj)@|@reyq@
+@encamp@|@h'ana@
+@encampment@|@mah'ane@
+@enemy@|@oyev, tsar@
+@engine@|@mikhona@
+@engineering@|@handasa@
+@England@|@angliya@
+@English (adj.)@|@angli@
+@English (language)@|@anglit@
+@engrave stone@|@pitah'@
+@Enjoy your meal!@|@bete'avon!@
+@enough@|@day@
+@enough of@|@dey@
+@entangled: become ~@|@histabel@
+@enter@|@bo', nikhnas@
+@entitled@|@zaka'i@
+@entrance@|@mavo, petah'@
+@envelope@|@ma"atafa@
+@envy@|@qine'@
+@equal (to)@|@shave (l-)@
+@era@|@zman@
+@erect@|@hitsiv@
+@err@|@ta"a@
+@error@|@shgi'a@
+@escape (n.)@|@malat@
+@establish@|@yasad@
+@establishment@|@mosad@
+@eternally@|@netsah', tamid@
+@eulogise@|@safad l-@
+@evade@|@hishtamet@
+@evaluate@|@he"erikh@
+@evening@|@erev@
+@evening: good ~ !@|@erev tov!@
+@event@|@eruah', miqre@
+@ever since@|@me-az@
+@every@|@kol@
+@everybody@|@kol eh'ar, kulam@
+@everyone@|@kol eh'ar, kulam@
+@everything@|@hakol@
+@everything is fine / alright!@|@hakol beseder!@
+@everything that@|@kol ma she@
+@evident@|@barur@
+@evil@|@ra"@
+@evil: be ~@|@ra"a"@
+@exam@|@beh'ina, mivh'an@
+@examine@|@bah'an@
+@example@|@mashal@
+@excellent@|@mitsuyan@
+@except@|@zulat@
+@exchange@|@hitstin@
+@exchange (money)@|@parat@
+@excitability@|@ragshanut@
+@excited: be ~@|@ragash@
+@excited: become ~@|@hitragesh@
+@excuse@|@teyruts@
+@excuse me!@|@slih'a@
+@execute@|@bitsea"@
+@exemption@|@ptor@
+@exercise (n.)@|@targil@
+@exit@|@motsa@
+@Exodus (bibl.)@|@shmot@
+@expand@|@pitah'@
+@expect@|@tsipa, yih'el@
+@expel@|@geresh@
+@expensive@|@yaqar@
+@experience (vb.)@|@hitnassa (b-)@
+@exploitation@|@osheq@
+@express mail@|@do'ar eqspres@
+@extortion@|@osheq@
+@extradite@|@hisgir@
+@exult@|@gil@
+@eye@|@ayin@
+@eye glasses@|@mishqafayim@
+@eyes@|@eynayim@
+@eze@|@which (m. s.)@
+@ezo@|@which (f. s.)@
+@face@|@panim@
+@facing@|@mul@
+@faith@|@emuna, tiqva@
+@faithful: be ~@|@ne'eman@
+@fall@|@karav, nishpakh@
+@fall (n.)@|@stav@
+@fall (rain / snow)@|@yarad@
+@fall (vb.)@|@nafal@
+@fall in love@|@hit'ahev@
+@fall on@|@hitnapel (al)@
+@families@|@batim@
+@family@|@bayt, mishpah'a@
+@family law@|@diney mishpah'a@
+@famine@|@ra"av@
+@far@|@rah'ok@
+@far away@|@merh'aq@
+@far: be ~ off@|@rah'aq@
+@farmer@|@h'aqla'i, ikar@
+@fast (adv.)@|@maher@
+@father@|@av@
+@favor@|@h'en@
+@favor (n.)@|@ratson@
+@favour (n.)@|@ratson@
+@favour (vb.)@|@h'anan@
+@fax@|@faqs@
+@fear (n.)@|@pah'ar@
+@fear (vb.)@|@yare'@
+@fear (vb.). be afraid@|@pah'ad@
+@fearful@|@yare@
+@feast@|@mishte@
+@February@|@febru'ar@
+@fed up: be ~@|@nam'as (al)@
+@fed: be ~@|@nazon (al)@
+@feed person@|@lah'am@
+@feel@|@hirgish@
+@female@|@niqeva@
+@female (gender)@|@neqeva@
+@feminine@|@neqeva, niqeva@
+@ferry@|@ma"boret@
+@festival@|@h'ag@
+@fever@|@h'om@
+@few (f.)@|@ah'adot, me"atot@
+@few (m.)@|@ah'adim, me"atim@
+@fidelity@|@amet@
+@field@|@h'elqa, shade@
+@fifteen (f.)@|@h'amesh-esre@
+@fifteen (m.)@|@h'amisha-asar@
+@fifth (f.)@|@h'amishit@
+@fifth (m.)@|@h'amishi@
+@fifty@|@h'amishim@
+@figure (n.)@|@dimut@
+@fill@|@mille'@
+@filled@|@male@
+@film@|@seret@
+@find@|@matsa'@
+@find guilty@|@hirshia"@
+@find strange@|@nikar@
+@fine@|@beseder@
+@finger@|@etsba"@
+@finish@|@gamar@
+@finish (vb.)@|@kala@
+@finished: be ~@|@nigmar@
+@fire@|@esh@
+@firm (adj.)@|@h'azaq@
+@first (f.)@|@rishona@
+@first (m.)@|@rishon@
+@fish (n.)@|@dag@
+@fisherman@|@dayag@
+@fist@|@egrof@
+@fit (adj.)@|@mat'im@
+@five (f.)@|@h'amesh@
+@five (m.)@|@h'amisha@
+@flag@|@degel@
+@flee@|@barah', nus@
+@flesh@|@basar@
+@flight@|@nilh'am, tisa@
+@fling@|@zaraq@
+@flock(s) (sheep and goats)@|@tson@
+@flood (vb.)@|@shataf@
+@flour@|@qemah'@
+@flow@|@zav@
+@flower@|@perah'@
+@fly (by plane)@|@tas@
+@food@|@leh'em, ma'akhal, okhel, okhla@
+@foolish@|@ksil@
+@foot@|@kaf-regel, regel@
+@for@|@ki@
+@for example@|@limashal@
+@for free@|@h'inam@
+@for instance@|@limashal@
+@for whom?@|@lemi?@
+@forbid@|@asar@
+@forbidden@|@asur@
+@force (n.)@|@koah@
+@forecast: weather ~@|@tah'azit mezeg ha"avir@
+@foreign@|@nakhri@
+@foreigner@|@ben nekhar, ish nakhri, nekhar@
+@forest@|@ya"ar@
+@forever@|@netsah'@
+@forget@|@shakhah'@
+@forgive@|@salah'@
+@forgive me!@|@slih'a@
+@forhead@|@metsah'@
+@fork@|@mazleg@
+@fornication@|@taznut, znut@
+@forsake@|@natash@
+@forward@|@qadima@
+@found@|@yasad@
+@found: be ~@|@nimtsa@
+@foundation@|@yesod@
+@fountain@|@ma"iyan@
+@four (f.)@|@arba"@
+@four (m.)@|@arba"a@
+@fourteen (f.)@|@arba"-esre@
+@fourteen (m.)@|@arba"a-asar@
+@fourth (f.)@|@rvi"it@
+@fourth (m.)@|@rvi"i@
+@fourty@|@arba"im@
+@fox@|@shu"al@
+@France@|@tsarfat@
+@fraternity@|@ah'va@
+@fraud@|@mirma@
+@free@|@h'inam@
+@freedom@|@h'ofesh@
+@freight train@|@rakevet masa'@
+@French (language)@|@tsarfatit@
+@French fries@|@tsips@
+@fresh@|@tari@
+@Friday@|@erev shabbat, yom shishi@
+@fridge@|@maqrer@
+@friend@|@h'aver@
+@frightened: be ~@|@nivhal@
+@frog@|@tsfardea"@
+@from@|@m-, me-, mi-, min@
+@from her@|@mimena@
+@from him@|@mimeno@
+@from me@|@mimeni@
+@from them (f.)@|@mehen@
+@from them (m.)@|@mehem@
+@from then on@|@me-az@
+@from this day on@|@min hayom hazzehivahol'a@
+@from time to time@|@mipa"am lepa"am@
+@from us@|@mimenu@
+@from where@|@me'an, me'ayin@
+@from whom?@|@bishbil mi?@
+@from you (f. pl.)@|@mikhen@
+@from you (f. sg.)@|@mimekh@
+@from you (m. pl.)@|@mikhem@
+@from you (m. sg.)@|@mimkha@
+@front@|@ma"arakha@
+@fruit@|@pri@
+@fry@|@tigen@
+@full@|@male@
+@full stop@|@niquda@
+@funicular@|@raqevel@
+@furious: be ~@|@qatsaf (al)@
+@furute (adj.)@|@atidi@
+@fury@|@qetsef@
+@future (n.)@|@atid@
+@future tense@|@atid@
+@gain@|@itron@
+@galaxy@|@galaksya@
+@garden@|@gan@
+@gardener (f.)@|@gannanet@
+@gardener (m.)@|@gannan@
+@garlic@|@shum@
+@gate@|@petah', sha"ar@
+@gateway@|@sha"ar@
+@gather@|@asaf, yasaf@
+@gather together@|@qavats@
+@Gemini (astr.)@|@mazzal-te'omim@
+@general (n.)@|@aluf@
+@generality@|@klal@
+@Genesis (bibl.)@|@breshit@
+@Gentleman@|@adon@
+@geography@|@gey'ografiya@
+@German (language)@|@germanit@
+@get@|@hissig, qibel@
+@get away from@|@hitrah'eq (mi-)@
+@get dressed@|@hitlabesh@
+@get drunk@|@hishtakher@
+@get extinguished@|@kava@
+@get married@|@hith'aten@
+@get out@|@yatsa'@
+@get situated@|@hitmaqem@
+@get up@|@qam@
+@get used to@|@hitragel (l-)@
+@gift@|@matana, mattana, minh'a, qarban@
+@giraffe@|@girafa@
+@girl@|@bah'ura, bat, na"arha, yalda@
+@girls@|@banot@
+@give@|@he"eniq, natan@
+@give a drink@|@hishqa@
+@give a talk@|@hirtsa@
+@give attention@|@hiqshiv@
+@give birth@|@yalad@
+@give evidence@|@he"id@
+@give servitude@|@sheret@
+@glad: be ~@|@samah'@
+@gladly@|@bshimh'a raba@
+@glass (for drinking)@|@kos@
+@glasses@|@mishqafayim@
+@glory@|@kavod@
+@go@|@h'alakh, halah', halakh, yarad@
+@go astray@|@ta"a@
+@go back@|@h'azar, shav@
+@go by car@|@nasa"@
+@go in@|@bo'@
+@go into exile@|@galam@
+@go out@|@yatsa'@
+@go out (fire)@|@kava@
+@go through@|@hitnassa (b-)@
+@goat@|@ez@
+@goat (male)@|@sa"ir@
+@god@|@elil, elohim@
+@God@|@el, elil, elohim@
+@God forbid!@|@h'alila!@
+@gold@|@zahav@
+@goldfish@|@dgey zahav@
+@good@|@tov@
+@good afternoon!@|@tsahorayim tovim!@
+@Good afternoon! (lit. "good day")@|@yom tov!@
+@good evening!@|@erev tov!@
+@good luck!@|@behatslah'a!, mazal tov!@
+@Good luck!@|@behatslah'a@
+@good morning!@|@boqer tov!@
+@good night!@|@layla tov!@
+@good sense@|@sekel@
+@good: be ~@|@yatav@
+@goodbye!@|@lehitra'ot!@
+@goodness@|@tova@
+@gorilla@|@gorila@
+@government@|@memshala@
+@grace@|@h'en@
+@gracious@|@h'annun@
+@grain harvest@|@qatsir@
+@grammar@|@diqduq@
+@grandchild@|@nekhed@
+@grandfather@|@saba, sav@
+@grandmother@|@sava, savta@
+@grant (vb.)@|@he"eniq@
+@grasp (vb.)@|@heh'eziq@
+@gratis@|@h'inam@
+@grave@|@qever@
+@gravestone@|@matseva@
+@gray@|@afor@
+@graze livestock@|@ra"a@
+@great@|@adid, gadol, rav@
+@great: be ~@|@rava@
+@greatness@|@gdola, godel@
+@Greece@|@yavan@
+@Greek (language)@|@yevanit@
+@green@|@yarok@
+@greet@|@berekh@
+@greetings@|@ih'ulim@
+@grey@|@afor@
+@grief@|@evel@
+@grieve@|@aval@
+@ground@|@adama, adama@
+@group@|@qvutsa@
+@grow@|@gadal@
+@grow (plants) (tranz.)@|@tsamah'@
+@grow (vb. trans.)@|@gidel@
+@grow old@|@hizdaqen@
+@growth@|@tsemah'@
+@guard@|@mishmar, mishmeret@
+@guard (vb.)@|@na"ar, shamar@
+@guardpost@|@mishmar@
+@guest@|@orah'at, oreah'@
+@guide (vb.)@|@nah'a@
+@guilt@|@aon, mashma@
+@guilty@|@ashem, yoresh@
+@guilty: be (found) ~@|@asham@
+@guilty: be ~@|@asham (b-)@
+@Guinea@|@gine'a@
+@gun@|@eqdah'@
+@guy@|@bah'ur@
+@Guyana@|@gi'ana@
+@hail (n.)@|@barad@
+@hair (pl.)@|@se"arot@
+@hair (sg.)@|@se"ar@
+@half (f.)@|@mah'atsit@
+@half (m.)@|@h'atsi@
+@hamster@|@oger@
+@hand@|@kaf-yad, yad@
+@handcuffs (pl.)@|@aziqim@
+@happen@|@qara@
+@happy@|@sameah', sameh'@
+@Happy New Year!@|@shana tova!@
+@hard@|@qashe@
+@harvest@|@asif, qatsir@
+@hasten@|@mahar@
+@hastily@|@bh'ipazon, maher@
+@hat@|@kova", kovan@
+@hate (n.)@|@sane@
+@have compassion@|@rah'am@
+@have insight@|@sakhal@
+@have mercy@|@rah'am@
+@have to@|@tsarikh@
+@he@|@hu@
+@head@|@ro'sh@
+@heads@|@ra'shim@
+@heal@|@rafa'@
+@health@|@bri'ut@
+@health fund@|@qupat h'olim@
+@healthy@|@bari@
+@hear@|@shama"@
+@heart@|@lavav, lev, levav@
+@heat@|@h'ema@
+@heaven@|@shamayim, shamayim (pl.)@
+@heavy@|@kaved@
+@Hebrew (adj.)@|@ivri@
+@Hebrew (language)@|@ivrit@
+@heed@|@he'ezin@
+@height@|@govah, marom, qoma@
+@hell@|@geyhinnom, tofet@
+@hello!@|@shalom!@
+@Hello!@|@hay!, yom tov!@
+@help@|@ezra@
+@help (vb.)@|@zar@
+@helper@|@ezer@
+@hen@|@tarnegolet@
+@her@|@shela@
+@here@|@ka'n, po@
+@here is@|@hinne@
+@heredity@|@yerusha@
+@hero@|@gibur@
+@heroism@|@gvura@
+@herself@|@atsma@
+@he-wolf@|@ze'ev@
+@hi!@|@shalom!@
+@Hi!@|@hay!@
+@hidden@|@neh'ba@
+@hidden: be ~@|@nistar@
+@hide@|@histir, kih'ed, neh'ba', taman, tsafan@
+@hide (refl.)@|@hith'abe'@
+@hide oneself@|@hith'abe', satar@
+@hiding@|@mistar@
+@hiding place@|@mistar, seter@
+@high@|@gavoah'@
+@high place@|@bama@
+@hill@|@giv"a, tel@
+@himself@|@atsmo@
+@Hindi (language)@|@hindit@
+@hip@|@moten@
+@his@|@shelo@
+@history@|@historiya@
+@hit (vb.)@|@paga"@
+@hole@|@h'or@
+@holiday@|@h'ag@
+@holidays@|@h'ofesh, h'ufsha, pagra@
+@holiness@|@qodesh@
+@Holocaust@|@sho'a@
+@holy@|@qadosh@
+@holy thing@|@qodesh@
+@holy: be ~@|@qadash@
+@home@|@babayt, bayt@
+@homes@|@batim@
+@homework@|@shi"ur bayt@
+@honest@|@ken@
+@honey@|@dvash@
+@honor (n.)@|@kavod@
+@hope (n.)@|@tiqva@
+@horn@|@qeren@
+@horse@|@sus@
+@horseman@|@parash@
+@hostile: be ~@|@ayav@
+@hostility@|@eyva@
+@hot@|@h'am@
+@hot: become ~@|@h'ara@
+@hotel@|@malon@
+@hour@|@sha"a@
+@house@|@bayt@
+@house of@|@beyt@
+@houses@|@batim@
+@houses of@|@batey@
+@how@|@eykh@
+@How are things?@|@ma ha"inyanim?, ma nishma"?@
+@How are you (f. pl.)?@|@ma shlomkhen?@
+@How are you (f. s.)?@|@ma shlomekh?@
+@How are you (m. pl.)?@|@ma shlomkhem?@
+@How are you (m. s.)?@|@ma shlomkha?@
+@How good!@|@kama tov!, ma tov!@
+@how many@|@kama@
+@how much@|@kama@
+@How much does it cost?@|@kama ze ole?@
+@How old are you (f.)?@|@bat kama at?@
+@How old are you (m.)?@|@ben kama ata?@
+@how old is ...? (f.)@|@bat kama... ?@
+@how old is ...? (m.)@|@ben kama...?@
+@however@|@aval, ulam@
+@human@|@enosh@
+@humid@|@lah'@
+@hundred@|@me'a@
+@Hungarian (language)@|@hungarit@
+@hunger@|@ra"av@
+@hungry@|@ra"ev@
+@hurt@|@naga"@
+@husband@|@ba"al@
+@hydrogen@|@meyman@
+@I@|@ani, anokhi (Biblical)@
+@I am... years old (f.)@|@ani bat...@
+@I am... years old (m.)@|@ani ben...@
+@I regret@|@ani mitsta"er / mitsta"eret@
+@ice@|@qerah'@
+@ice cream@|@glida@
+@Iceland@|@island@
+@ID@|@te"udat zehut@
+@idea@|@ra"yon@
+@identity card@|@te"udat zehut@
+@if@|@im@
+@if (past or wish)@|@ilu, lu@
+@if not@|@im lo@
+@if not (past)@|@lule@
+@if so@|@im ken@
+@ignore@|@hit"alem (mi-)@
+@ile@|@i@
+@ill@|@h'ule@
+@ill: be ~@|@h'ala@
+@illness@|@h'ali@
+@illuminate@|@he'ir@
+@I'm sorry!@|@slih'a al hahafra"a!@
+@image@|@dimut, tmuna@
+@immigrant (to Israel) (f)@|@ola@
+@immigrant (to Israel) (m)@|@ole@
+@immigrant card@|@te"udat ole@
+@immigration (to Israel)@|@aliya@
+@immigration emissary@|@shaliah' aliya@
+@imperative@|@tsivvui@
+@imperative mode@|@tsivvui@
+@import: personal ~@|@yevu' ishi@
+@important@|@h'ashuv@
+@impossible: it is ~@|@i efshar@
+@impression@|@roshem@
+@in exchange for@|@be"ad@
+@in front of@|@lifney@
+@in haste@|@bh'ipazon@
+@in need of@|@nizqaq (l-)@
+@in order (to)@|@kdey (l-)@
+@in ruins@|@h'arev@
+@in the beginning@|@breshit@
+@in the eyes of@|@be"eyney@
+@in the house@|@babayt@
+@in the meantime@|@beynatayim@
+@in vain@|@h'inam@
+@in what@|@bamma@
+@incense@|@qtoret@
+@inclined: be ~@|@nata@
+@income tax@|@mas hakhnasa@
+@increase (intranz. / refl.)@|@hitrabe@
+@indeed@|@be'emet@
+@independence@|@atsma'ut@
+@Independence Day@|@yom ha"atsma'ut@
+@India@|@hodu@
+@individual property@|@qinyan@
+@infiltrate@|@histanen (l-)@
+@infinitive@|@shem hapo"al@
+@inform@|@hodia", hudia"@
+@inhabitantdwell@|@shakhen@
+@inhale@|@sha'af@
+@inherit@|@iarash, nah'al@
+@inheritance@|@nah'ala, yerusha@
+@injured@|@niftsa"@
+@inn@|@malon@
+@innkeeper@|@ba"al malon@
+@innocent@|@h'af mipesha", tsadiq@
+@inquire@|@darash@
+@insane: become ~@|@hishtamea" mi@
+@insert@|@hikhnis, taqa"@
+@insight@|@sekel@
+@inspect@|@badaq, bah'an@
+@instance@|@mashal@
+@instance; once upon a time@|@pa"am@
+@instead of@|@tah'at@
+@institution@|@mosad@
+@instruct@|@limed@
+@instruction@|@tora@
+@insult@|@paga"@
+@insulted: be ~@|@ne"elav@
+@insurance agent (f.)@|@sokenet-bituah'@
+@insurance agent (m.)@|@soken-bituah'@
+@integrity; perfection@|@tom@
+@intelligence@|@sekhel@
+@intelligent@|@h'akham@
+@intend@|@hitkaven (l-)@
+@intensive school for Hebrew@|@ulpan@
+@interesting@|@me"anyen@
+@interfere@|@hit"arev (b-)@
+@interior@|@qerev@
+@interior: ministry of ~@|@misrad hapnim@
+@interpret (a role)@|@shih'eq@
+@interrupt@|@hifsiq@
+@interval@|@bayn@
+@invalidate@|@hefer@
+@invert@|@hafakh@
+@Ireland@|@irland@
+@iron@|@barzel@
+@island@|@i@
+@Israel@|@yisra'el@
+@Israeli (adj.)@|@yisra'eli@
+@Israeli (n.)@|@yisra'elit@
+@issue@|@motsa@
+@it does not matter@|@eyn davar@
+@it is impossible@|@i efshar@
+@it is possible@|@efshar@
+@Italian (language)@|@italquit@
+@jacket@|@me"il@
+@jail@|@asar, beyt-kele'@
+@jail (vb.) arrest@|@asar@
+@jam@|@riba@
+@Jamaica@|@gamayqa@
+@January@|@yanu'ar@
+@Japan@|@yapan@
+@Japanese (language)@|@yapanit@
+@jeans@|@mikhnesey-gins@
+@Jerusalem@|@yerushalaym@
+@jewel@|@takhshit@
+@jewelry@|@takhshit@
+@job@|@avoda, miqtsoa", misra@
+@join@|@tsiref@
+@join (intrans.)@|@hitstaref (l-)@
+@Jordan@|@yarden@
+@journey@|@derekh, massa, nesi'a@
+@joy@|@simh'a@
+@joyful@|@sameah'@
+@judge@|@shofet@
+@judge (vb.)@|@shafat@
+@judgement@|@shiput@
+@judgment@|@mishpat@
+@juice@|@mits@
+@July@|@yuli@
+@jumble@|@balal@
+@jump@|@qafats@
+@June@|@yuni@
+@jurisdiction@|@samkhut@
+@just@|@tsadiq@
+@justice@|@mishpat, tsdaqa, tsedeq@
+@justify@|@hitsdiq@
+@keep@|@shamar@
+@kibbutz@|@kibuts@
+@kick (vb.)@|@ba"at@
+@kidnapping@|@h'atifat-adam@
+@kill@|@harag@
+@kind@|@min@
+@kindergarten@|@gan yeladim@
+@kindred@|@moledet@
+@kinds of@|@miney@
+@king@|@melekh@
+@kingdom@|@malkhut, malkut, mamlakha, mlukha@
+@kingship@|@mlukha@
+@kiss (n.)@|@nishika@
+@kiss (vb.)@|@nashaq@
+@kitchen@|@mitbah'@
+@knee@|@berekh@
+@kneel@|@kara"@
+@knife@|@sakin@
+@knight@|@abir@
+@knock (vb.)@|@dafaq@
+@knot@|@qesher@
+@know@|@hikir, yada"@
+@know: not ~@|@nikar@
+@knowledge@|@da"at@
+@Korea@|@qorey'a@
+@Kosher@|@kosher@
+@Kuwait@|@kuvayit@
+@laboratory@|@ma"bada@
+@lad@|@bah'ur, na"ar@
+@Lady@|@geveret@
+@lady: young ~@|@na"ara@
+@lagoon@|@hof@
+@lake@|@agam@
+@lament@|@safad l-@
+@lamentation@|@misped@
+@lamp@|@mnora@
+@land@|@adama, erets@
+@landscape@|@nof@
+@language@|@lashon, safa@
+@large@|@gadol@
+@last (adj.)@|@ah'aron@
+@last (vb.)@|@arakh@
+@late (adj & adv.)@|@me'uh'ar@
+@late: be ~@|@eh'er (l-)@
+@later@|@ah'ar-kakh, ah'arey-ken@
+@laugh@|@sah'aq, tsah'aq@
+@law@|@h'oq, tora@
+@lawmaker@|@meh'oqeq@
+@laws@|@h'uqim@
+@lawyer (f.)@|@orekhet-din@
+@lawyer (m.)@|@orekh-din@
+@lay@|@shakhav@
+@lay down@|@shakhav@
+@lay to rest@|@heniah'@
+@lazy@|@atsel@
+@lead@|@nahag@
+@lead (n.) (Pb)@|@oferet@
+@lead (vb.)@|@nah'a@
+@leader@|@manhig, nagir@
+@league@|@liga@
+@le'an@|@where to@
+@lean (vb.)@|@nish"an (al)@
+@learn@|@lamad@
+@lease@|@skhirut@
+@leash@|@retsu"a@
+@leave alone@|@hirfa@
+@lecture@|@hartsa'a@
+@lecture (vb.)@|@hirtsa@
+@left: be ~ over@|@notar@
+@leg@|@regel@
+@lemon@|@limon@
+@length@|@orekh@
+@Leo (astr.)@|@mazzal-arye@
+@leopard@|@namer@
+@less@|@pah'ot@
+@lesson@|@shi"ur@
+@lest@|@pen@
+@let@|@hish'ir@
+@letter@|@ot@
+@letter (mail@|@mikhtav@
+@lettucefind shelter@|@h'asa@
+@libation@|@nesekh@
+@liberty@|@h'ofesh@
+@Libra (astr.)@|@mazzal-mo'znayim@
+@librarian (f.)@|@safrenit@
+@librarian (m.)@|@safren@
+@library@|@sifriya@
+@Libya@|@luv@
+@license@|@rishyon@
+@license: driver's ~@|@rishyon nehiga@
+@lie (n.)@|@sheqer@
+@lie (vb. intrans.)@|@shiqer@
+@lie down@|@shakhav@
+@lie down (animal)@|@ravats@
+@lie in wait@|@arav@
+@life@|@h'aya, h'ayim@
+@lifetime@|@h'ayim@
+@lift (n.)@|@ma"alit@
+@light@|@ma'or, ner, or@
+@light (vb.)@|@hidliq@
+@light blue@|@tkhelet@
+@light bulb@|@nura@
+@lightning@|@baraq@
+@like@|@kmo@
+@like (vb.)@|@ahav@
+@likeness@|@dimut, tavnit@
+@limb@|@ever@
+@limonade@|@limonada@
+@line@|@pas, shura@
+@lion@|@ari, arye@
+@lip@|@safa@
+@lips (usually pl.)@|@sfatayim@
+@lipstick@|@odem@
+@list@|@reshima@
+@listen@|@shama"@
+@listen to@|@he'ezin@
+@literature@|@sifrut@
+@little@|@qatan@
+@little (adv.)@|@me"at@
+@live@|@gar, haya@
+@live at a place@|@hitgorer@
+@liver@|@kaved@
+@living room@|@salon@
+@load (vb.)@|@ta"an@
+@loathe@|@ma'as@
+@locate oneself@|@hitmaqem@
+@located: be ~@|@nimtsa@
+@locust@|@arbe@
+@long@|@arukh@
+@look (at)@|@histakel (b-/al)@
+@look at@|@haza, hibit@
+@loot (vb.)@|@bazaz, bizza@
+@Lord@|@el, elohim@
+@lorry@|@masa'it@
+@lose@|@ibed, hifsid@
+@love (n.)@|@ah'ava@
+@love (vb.)@|@ahav@
+@lover@|@dod@
+@low@|@namukh@
+@loyalty@|@h'esed@
+@luck@|@mazzal@
+@luggage (pl.)@|@mizvadot@
+@lunch@|@ruh'at-tsahorayim@
+@lurk@|@arav@
+@machine@|@mikhona@
+@made holy@|@qidesh@
+@magazine@|@ktav "et@
+@magazines@|@kitvey "et@
+@maiden@|@bat@
+@maidens@|@banot@
+@mail@|@do'ar@
+@mailbox@|@teyvat-hado'ar@
+@mailman@|@davar@
+@mailwoman@|@davarit@
+@maintain@|@kilkel@
+@majesty@|@hod@
+@make@|@sha, pa"al@
+@make a mistake@|@ta"a@
+@make a vow@|@nadar@
+@make dry@|@yavash@
+@make glad@|@simmah'@
+@make many@|@hirba@
+@make progress@|@hitqadem@
+@make smoke@|@hiqtir@
+@make swear@|@hishbia"@
+@male (gender)@|@zakhar@
+@maltreat@|@hit"alel (b-)@
+@mama@|@ima@
+@man@|@adam, ish@
+@mango@|@mango@
+@mankind@|@adam@
+@many@|@harbe@
+@many (f.)@|@rabot@
+@many (m.)@|@rabim@
+@many: be ~@|@rava@
+@March@|@merts@
+@mare@|@susa@
+@market@|@shuq@
+@markets@|@shvaqim@
+@marry@|@hith'aten, nassa'@
+@masculine@|@zakhar@
+@master@|@adon@
+@mathematics@|@matematiqa@
+@matriculation certificate@|@te"udat bagrut@
+@matter: it does not ~@|@eyn davar@
+@mature@|@bashel@
+@may@|@yakhol@
+@May@|@ma'i@
+@may (vb.)@|@yakol (l-)@
+@maybe@|@ulay@
+@me rid of@|@niftar mi-@
+@meadow@|@ah'u@
+@meal@|@aruh'a, se"uda@
+@mean (to)@|@hitkaven (l-)@
+@meanwhile@|@beynatayim@
+@measure (vb.)@|@madad@
+@measurement@|@mida@
+@meat@|@basar@
+@me'ayin@|@where from@
+@meet@|@paga"@
+@meet someone@|@hitra'a (im)@
+@meeting@|@asefa@
+@member@|@ever, h'aver@
+@memorial@|@azkhara, zikaron@
+@memory@|@zikaron@
+@men@|@anashim@
+@men of@|@anashey@
+@merchandise@|@mimkar@
+@mercury@|@kaspit@
+@messiah@|@mashiah'@
+@metro@|@rakevet tah'tit@
+@Mexico@|@meksiqo@
+@microwave oven@|@miqrogal@
+@middle@|@qerev@
+@middle (of)@|@tokh@
+@Middle Eastern Studies@|@limudey hamizra hatikhon@
+@midnight@|@h'atsot@
+@midst@|@qerev@
+@milk@|@h'alav@
+@million@|@milyon@
+@mind@|@lev, levav@
+@ministry of absorption@|@misrad haqlita@
+@ministry of the interior@|@misrad hapnim@
+@minority@|@mitsut@
+@minus@|@minus, pah'ot@
+@minute@|@daqa@
+@miracle@|@nes, pele@
+@mirror@|@mar'a@
+@miserable@|@umlal@
+@misfortune@|@tsara@
+@missing: be ~@|@ne"edar@
+@mistake@|@shgi'a@
+@mitsva@|@commandment@
+@mix@|@balal@
+@mob@|@hamon@
+@mock (vb.)@|@sah'aq@
+@modern@|@moderni@
+@moment@|@rega"@
+@Monaco@|@monaqo@
+@Monday@|@yom sheni@
+@money@|@kesef@
+@monkey@|@qof@
+@month@|@h'odesh@
+@Moon@|@yareah'@
+@moose@|@alqey@
+@more@|@od, yoter@
+@more than@|@yoter ni@
+@morning@|@boqer@
+@morning: good ~ !@|@boqer tov!@
+@mortgage@|@miskanta@
+@Moses@|@moshe@
+@moshav (agricultural settlement)@|@moshav@
+@mosque@|@misgad@
+@moss@|@ezov@
+@most@|@beyoter, haki@
+@mother@|@em, ima@
+@motorcycle@|@ofnoa"@
+@mountain@|@har@
+@mourn@|@aval, safad l-@
+@mourning@|@evel, misped@
+@mouse@|@akhbar@
+@mouth@|@pe@
+@move@|@zaz@
+@movement@|@tinu"a@
+@movie@|@seret@
+@moving picture@|@seret@
+@Mr.@|@adon@
+@Mrs.@|@geveret@
+@much@|@harbe, rav@
+@mud@|@bots@
+@multiply@|@hirba@
+@multitude@|@hamon@
+@murder (vb.)@|@ratsah'@
+@muscle@|@shrir@
+@music@|@muziqa@
+@mute@|@ilem@
+@my@|@sheli@
+@my name is@|@shmi@
+@myself@|@atsmi@
+@name@|@qara' (l-)@
+@name (n.)@|@shem@
+@name: my ~ is@|@shmi@
+@name: what is your ~ ?@|@ma shimkha?, ma shmekh?@
+@named@|@bshem@
+@names@|@shmot@
+@narrow@|@tsar@
+@nation@|@am, goy@
+@national@|@le'umi@
+@national insurance@|@bittuah' le'ummi@
+@Nazareth@|@natseret@
+@near@|@al yad, qarev, qarov@
+@neck@|@tsavar@
+@need@|@tsarikh@
+@need: be in ~ of@|@nizqaq (l-)@
+@Negeb@|@negev@
+@neighbour@|@shakhen@
+@nephew@|@ah'yan@
+@net@|@reshet@
+@netherlands@|@holand@
+@never@|@af pa"am lo, lo af pa"am, lo me"olam, olam lo@
+@nevertheless@|@bkhal zo't@
+@new@|@h'adash@
+@new moon@|@h'odesh@
+@New Shekel@|@sheqel h'adash@
+@New Zealand@|@nyu-zilend@
+@news (always pl.)@|@h'adashot@
+@newspaper@|@iton@
+@next@|@haba'@
+@next day@|@lammah'arat@
+@next to@|@al yad@
+@next week@|@bashavua' haba'@
+@next year@|@bashana haba'a@
+@nice@|@yafe@
+@Nice meeting you!@|@na"im me'od@
+@nice week!@|@shavua" tov!@
+@niece@|@ah'yanit@
+@night@|@layla@
+@night: good ~ !@|@layla tov!@
+@nightmare@|@balaha@
+@nine (f.)@|@tesha@
+@nine (m.)@|@tish"a@
+@nineteen (f.)@|@tsha-esre@
+@nineteen (m.)@|@tish"a-asar@
+@nineth (f.)@|@tshi"it@
+@nineth (m.)@|@tshi"i@
+@ninety@|@tish"im@
+@nitrogen@|@h'anqan@
+@no@|@eyn, lo@
+@noise@|@ra"ash@
+@none@|@shum@
+@noon@|@tsahorayim@
+@north@|@tsafon@
+@Norway@|@norvegya@
+@nose@|@af@
+@noses@|@apim@
+@not@|@eyn, lo@
+@not +part. (neg. part.)@|@eyn + vb.@
+@not guilty@|@h'af mipesha"@
+@not know@|@nikar@
+@not yet@|@adayin lo, od lo@
+@Notary@|@notaryon@
+@notebook@|@mah'beret@
+@nothing@|@lo shum davar, shum davar lo@
+@November@|@november@
+@now@|@akhshav, akhshayv@
+@nowhere@|@beshum maqom@
+@number@|@mispar@
+@number (vb.)@|@paqad@
+@nurse@|@ah'ot@
+@nut@|@egoz@
+@oak@|@alon@
+@oath@|@shvu"a@
+@obey@|@shama"@
+@object@|@etsem, h'efets@
+@obligation@|@h'oq, mishmeret@
+@obstruct@|@h'asam@
+@obtain@|@hissig@
+@occasion@|@miqre@
+@occupation@|@miqtsoa"@
+@occurrence@|@miqre@
+@ocean@|@oqya'nus@
+@octopus@|@tmanun@
+@odor@|@reyah'@
+@odour@|@nihoah'@
+@of@|@shel@
+@of course@|@betah', bevada'i, kamuvan@
+@offense@|@aon@
+@offer@|@hats"a@
+@offering@|@mattana, minh'a@
+@office@|@misrad@
+@officer (in the army)@|@qatsin@
+@official@|@shar@
+@oil@|@shemen@
+@oil paints@|@tsiv"ey shemen@
+@OK@|@tov@
+@old@|@zaqen@
+@old (inanimate)@|@yashan@
+@old age home@|@beyt-avot@
+@old: become ~@|@hizqin, zaqan@
+@olive@|@zayt@
+@olives@|@zeytim@
+@on@|@al@
+@on foot@|@bregel@
+@on his own@|@begafo@
+@on the road@|@baderekh@
+@on the way@|@baderekh@
+@once@|@pa"am, pa"am@
+@once more@|@od pa"am@
+@one (f.)@|@ah'at@
+@one (m.)@|@eh'ad@
+@one after another (f.)@|@zo ah'arey zo@
+@one after another (m.)@|@ze ah'arey ze@
+@one billion@|@bilyon@
+@one by one (f.)@|@zo ah'arey zo@
+@one by one (m.)@|@ze ah'arey ze@
+@one hundred@|@me'a@
+@one million@|@milyon@
+@one thousand@|@elef@
+@one time@|@pa"am@
+@one trillion@|@trilyon@
+@onion@|@batsal@
+@only@|@raq@
+@open (adj. & part.)@|@patuah'@
+@open (vb.)@|@patah'@
+@opening@|@petah'@
+@operate@|@nittah'@
+@opposite@|@mul, neged@
+@oppression@|@mota, osheq@
+@option@|@breyra@
+@or@|@o@
+@orally@|@al pe@
+@orange (adj.)@|@katom@
+@orange (n.)@|@tapuz@
+@orange juice@|@mits tapuzim@
+@order@|@erekh, pquda@
+@organise@|@rakh@
+@other@|@ah'er@
+@our@|@shelanu@
+@ourselves@|@atsmenu@
+@out@|@bah'uts, h'uts@
+@out from@|@min@
+@outdoors@|@bah'uts, h'uts@
+@outside@|@bah'uts, h'uts@
+@oven@|@tanut@
+@over@|@al@
+@over: be ~@|@nigmar@
+@overcast: become ~@|@hit"anen@
+@oversee@|@paqad@
+@owl@|@oah', yanshuf@
+@owner@|@ba"al@
+@ox@|@shor@
+@oxygen@|@h'amtsan@
+@package@|@h'avila@
+@page@|@amud@
+@paint@|@tsiyer@
+@painter@|@tsayar@
+@painting@|@tmuna@
+@pair@|@zug@
+@palace@|@armon, heykhal@
+@palm@|@kaf, kaf-yad, kaf yad@
+@panther@|@namer@
+@paper@|@nyar@
+@pardon!@|@slih'a@
+@parents@|@horim@
+@park@|@gan@
+@parrot@|@tuki@
+@participate@|@hishtatef (b-)@
+@party@|@h'ag@
+@party (political)@|@miflaga@
+@pass (on)@|@masar@
+@pass over@|@var@
+@passenger train@|@rakevet nos"im@
+@passport@|@darkon@
+@past@|@avar@
+@past tense@|@avar@
+@pastels@|@tsiv"ey pastel@
+@pasture land@|@migrash@
+@patent@|@patent@
+@path@|@maslul, shvil@
+@patience@|@savlanut@
+@pattern@|@tavnit@
+@pay@|@shiqem@
+@pay a ransom@|@pada@
+@pay attention@|@sam lev@
+@payoff@|@gemul@
+@peace@|@shalom@
+@peach@|@afarseq@
+@peanuts@|@batnim@
+@peasant@|@ikar@
+@pedestal@|@eden@
+@pen@|@et@
+@pencil@|@iparon@
+@penetrate@|@h'adad@
+@peninsula@|@h'atsi i@
+@people@|@am@
+@people: the ~ of Israel@|@am yisra'el@
+@pepper@|@pilpel@
+@percent@|@ah'uz@
+@perfect@|@tam, tamid@
+@perform@|@bitsea"@
+@perform (on stage)@|@hofia" (b-)@
+@perfume@|@boshem@
+@perhaps@|@ulay@
+@perish@|@avad@
+@permissible@|@mutar, rasha'i@
+@permit@|@rishyon@
+@permitted@|@mutar, rasha'i@
+@persecute@|@radaf@
+@person@|@ish@
+@personal import@|@yevu' ishi@
+@pets@|@h'ayot mah'mad@
+@phenomenom@|@h'izzayon@
+@phone@|@telefon@
+@physician@|@rofe@
+@physics@|@fiziqa@
+@pick@|@bah'ar (b-)@
+@picture@|@tmuna@
+@piece@|@h'atika@
+@piece of furniture@|@rah'it@
+@pig@|@h'azir@
+@pigeon@|@yona@
+@piggy@|@h'azarzir@
+@pillage (vb.)@|@bazaz, bizza@
+@pillar@|@amud@
+@pine@|@oren@
+@pink@|@varod@
+@pioneer@|@h'aluts@
+@pious (man)@|@tsadiq@
+@Pisces (astr.)@|@mazzal-dagim@
+@pistol@|@eqdah'@
+@pit@|@bor@
+@pitcher@|@kad@
+@pity (vb.)@|@h'amal@
+@place@|@atar, makhon, shit@
+@place (n.)@|@maqom@
+@plague@|@magefa, nega"@
+@plaintiff@|@tovea"@
+@plan (n.)@|@tokhnit@
+@plane@|@matos@
+@planet@|@planeta@
+@plant@|@tsemah'@
+@plate@|@tsallah'at@
+@play (vb.)@|@shih'eq@
+@play (vb.)(theat.)@|@sah'aq@
+@player (f.)@|@shah'qanit@
+@player (m.)@|@shah'qan@
+@plead@|@hith'anen@
+@pleasant@|@na"im@
+@pleasant: be ~@|@na"am@
+@please@|@ana, bevaqasha, na@
+@please!@|@bevakasha!@
+@pleasurable@|@h'afets@
+@pleasure@|@h'afets@
+@plot of land@|@h'elqa@
+@plunder (vb.)@|@bazaz, bizza@
+@pocket@|@kis@
+@poem@|@shir@
+@poet@|@mishorer@
+@poetess@|@mishoreret@
+@poetry@|@shira@
+@point@|@niquda@
+@Poland@|@polin@
+@police@|@mishtara@
+@policeman@|@shoter@
+@Polish (language)@|@polanit@
+@politician@|@politiqa'i@
+@politics@|@politiqa@
+@pollute@|@h'ilel@
+@pool@|@brekha@
+@poor@|@ani@
+@porcupine@|@darban@
+@portion@|@h'eleq, mana@
+@Portuguese (language)@|@portugezit@
+@position@|@matsav@
+@possess@|@nah'al@
+@possession@|@ah'uzza, nah'ala, yerusha@
+@possessor@|@ba"al@
+@possible@|@efshar@
+@possible: it is ~@|@efshar@
+@post@|@do'ar@
+@post)@|@mikhtav@
+@postmark@|@h'otemet-do'ar@
+@potato@|@tapuah' adama@
+@potter@|@yotser@
+@power@|@koah@
+@practice (n.)@|@imon@
+@praise@|@hilel@
+@pray@|@hitpalel@
+@prayer@|@tfila@
+@precious stone@|@even yeqara@
+@prefer@|@he"edif@
+@pregnant@|@hara@
+@prepare@|@hekhin@
+@prepared@|@mukhan@
+@present@|@hove@
+@present (gift)@|@matana@
+@present tense@|@hove@
+@president@|@nashi@
+@prevail@|@nitsah'@
+@price@|@meh'ir@
+@priest@|@koh'en@
+@prince@|@bet hamelekh, nashi@
+@principal (f.)@|@menahelet@
+@principal (m.)@|@menahel@
+@prison@|@beyt-hakele@
+@prisoner@|@assir@
+@privilege@|@zkhut@
+@probation@|@mivh'an@
+@problem@|@be"aya, targil@
+@profane (vb.)@|@h'ilel@
+@profession@|@miqtsoa"@
+@professor@|@profesor@
+@profit@|@itron@
+@program (n.)@|@tokhnit@
+@proper@|@kosher@
+@property@|@ah'uzza, nah'ala@
+@property tax@|@arnona@
+@prophecy@|@h'azon@
+@prophesize@|@hitnabe', niba'@
+@prophet@|@navi@
+@proposal@|@hats"a@
+@prosecutor@|@qateygor@
+@prosper@|@tsalah'@
+@prosperity@|@shalom@
+@prostitute oneself@|@zana@
+@protector@|@mah'se@
+@protein@|@h'elbon@
+@prove@|@hikhiah'@
+@prudence@|@sekel@
+@psalm@|@mizmor@
+@psychology@|@psikhologya@
+@public defender@|@saneygor tsiburi@
+@pull@|@mashakh@
+@puppy@|@klavlav@
+@purchase (n.)@|@qniya@
+@purge@|@tiher@
+@purify@|@tiher@
+@purple@|@argaman, sagol@
+@put@|@shit@
+@put down@|@heniah'@
+@put in@|@hikhnis@
+@put on@|@lavesh@
+@put on (clothes)@|@lavash@
+@put on (glasses)@|@hirkiv@
+@put on (hat / wig / skullcap)@|@h'avash@
+@put on (shoes / sandals / boots)@|@na"al@
+@put on (socks)@|@garav@
+@put on a belt@|@h'agar@
+@put on a sword@|@h'agar@
+@puzzle@|@h'idon@
+@quarter (f.)@|@rvi"it@
+@quarter (m.)@|@reva"@
+@quarter: a ~ to (time)@|@reva" l-@
+@queen@|@malka@
+@question (n.)@|@she'ela@
+@question mark@|@ha'im@
+@question words@|@milot-she'ela@
+@quickly@|@maher@
+@quiet@|@menuh'a@
+@quiet (n.)@|@sheqet@
+@quiet: become ~@|@shaqat@
+@quietly@|@bsheqet@
+@quietness@|@menuh'a@
+@quiz@|@beh'ina, h'idon, mivh'an@
+@rabbi@|@rabi@
+@rabbit@|@arnavon@
+@raccon@|@raqun@
+@radio@|@radio@
+@rage@|@qetsef@
+@rain (n.)@|@geshem@
+@rainbow@|@qeshet be"anan@
+@raindrop@|@tipat geshem@
+@rainy@|@gashum@
+@ram: young ~@|@kavas@
+@rank (in the army or police)@|@darga@
+@ransom@|@kipur, kofer@
+@rape@|@ones@
+@rat@|@h'ulda@
+@reach@|@hissig@
+@read@|@qara'@
+@reading@|@miqra@
+@ready@|@mukhan@
+@really@|@be'emet@
+@reason (n.)@|@siba@
+@rebellion@|@pesha"@
+@receive@|@nah'al, qibel@
+@recognise@|@hikir@
+@recovery (from illness)@|@ah'lama@
+@red@|@adom@
+@reddish@|@adamdam@
+@redeem@|@ga'al, pada@
+@redemption@|@ge'ula@
+@reduce@|@qitsets@
+@referee@|@shofet@
+@refine metal@|@tsaraf@
+@refrigerator@|@maqrer@
+@refuge@|@mah'se@
+@region@|@mah'oz@
+@registrar@|@rasham@
+@registrar of companies@|@rasham h'evrot@
+@registrar of trademarks@|@rasham patentim@
+@registration certif.@|@te"udat bagrut@
+@regret@|@hitsta"er (al), nih'am@
+@regret: I ~@|@ani mitsta"er / mitsta"eret@
+@regular@|@ragil@
+@reign@|@malakh, malkut@
+@rejoice@|@gil, samah'@
+@religion@|@dat@
+@religious@|@dati@
+@remain@|@hish'ir, nish'ar, notar@
+@remain silent@|@heh'erish@
+@remainder@|@edut, she'erit, yeter@
+@remember@|@zakhar@
+@remembrance@|@zekher@
+@remove@|@hesir, hirh'iq@
+@rent (for apartment)@|@skhar dira@
+@repair (n.)@|@tiqon@
+@repay@|@gamal, shiqem@
+@repent@|@nih'am@
+@replace@|@hitstin@
+@reply (vb.)@|@na@
+@reporter@|@itona'i@
+@repreentative@|@natsig@
+@repremation@|@mosar@
+@represent@|@yitseg@
+@reproof@|@mosar@
+@reprove@|@hikhiah'@
+@request@|@biqqesh@
+@request (n.)@|@she'ela@
+@resemble@|@dama (l-)@
+@resembling@|@dome@
+@reserves (military)@|@milu'im@
+@reside@|@gar, hitgorer@
+@resident@|@toshav@
+@respect (n.)@|@kavod@
+@rest (n.)@|@menuh'a@
+@rest (vb.)@|@nuah', shavat@
+@restaurant@|@mis"ada@
+@restrain@|@tsar@
+@retirement home@|@beyt-avot@
+@return (vb.)@|@h'azar, shav@
+@reveal@|@gilla@
+@revenge (n.)@|@niqama@
+@revenge (vb. + n.)@|@naqam@
+@revolver@|@eqdah'@
+@reward@|@gemul@
+@reward (vb.)@|@gamal@
+@rhinoceros@|@qarnaf@
+@ribbon@|@seret@
+@rice@|@orez@
+@rich@|@ashir@
+@rid: be ~ of@|@niftar mi-@
+@riddle@|@h'ida@
+@ride (vb.)@|@rakhav@
+@right@|@ken, yashar, zkhut@
+@right: be ~@|@tsadaq@
+@righteous (man)@|@tsadiq@
+@righteousness@|@tsdaqa, tsedeq@
+@rights@|@zkhuyot@
+@rinse@|@shataf@
+@rip@|@qara"@
+@rise@|@qam@
+@rise early@|@hishkim@
+@ritual purification@|@mahara@
+@ritually fit@|@kosher@
+@river@|@nahar, ye'or@
+@road@|@derekh@
+@roast (vb.)@|@tsala@
+@robber@|@shoded@
+@robbery@|@shod@
+@rock@|@even, sela"@
+@Romanian  (language)@|@romanit@
+@room@|@h'eder@
+@rooster@|@tarnegol@
+@root@|@shoresh@
+@rope@|@h'evel@
+@rouge@|@odem@
+@route@|@maslul@
+@row@|@shura@
+@royalty@|@mlukha@
+@ruin@|@haras, hishh'it, meh'ita, shadad, shih'et@
+@rule@|@klal@
+@run@|@rats@
+@run wild@|@hishtolel@
+@Russian (language)@|@rusit@
+@Sabbath@|@shabbat@
+@Sabbath eve@|@erev shabbat@
+@sad@|@atsuv@
+@safety@|@bitah'on, bith'a@
+@Saggitarius (astr.)@|@mazzal-qashat@
+@salad@|@salat@
+@sale@|@mimkar@
+@salesman@|@ish-mekhirot@
+@saleswoman@|@eshet-mekhirot@
+@salt@|@melah'@
+@salted@|@maluah'@
+@salty@|@maluah'@
+@salvation@|@ge'ula@
+@Samaria@|@shomron@
+@sanctified@|@qidesh@
+@sanctuary@|@miqdash@
+@sand@|@h'ul@
+@sandal@|@sandal@
+@sandwich@|@sendvits@
+@Satan@|@satan@
+@satisfied@|@savea"@
+@satisfy@|@hishvia"@
+@Saturday@|@yom shabbat@
+@saucer@|@tsallah'at@
+@Saudi Arabia@|@arav hassa"udit@
+@save@|@ga'al, hitsil, malat@
+@saved: be ~@|@nosha"@
+@say@|@amar@
+@scenery@|@nof@
+@scholar@|@talmid h'akham@
+@school@|@beyt-sefer@
+@schools@|@batey-sefer@
+@scientist@|@mad'an@
+@scissors@|@misparayim (dual only)@
+@scold@|@hikhiah'@
+@Scorpio (astr.)@|@mazzal-aqrav@
+@scream (vb.)@|@tsa"aq@
+@scribe@|@sofer@
+@sculptor@|@passal@
+@sculpture@|@pesel@
+@sea@|@yam@
+@seal (n.) (animal)@|@kelev yam@
+@search warrent@|@tsav-h'ipus@
+@season@|@ona@
+@seat@|@maqom, moshav@
+@second (f.)@|@shenit, shniya@
+@second (m.)@|@sheni@
+@second (n.)@|@rega", shniya@
+@secret@|@seter@
+@secretary (f.)@|@mazkira@
+@secretary (m.)@|@mazkir@
+@secretely@|@bamistarim@
+@secular@|@h'iloni@
+@security@|@betah'@
+@see@|@haza, ra'a@
+@see someone@|@hitra'a (im)@
+@see you!@|@lehitra'ot!@
+@seed@|@zera"@
+@seek@|@biqqesh, darash@
+@seize@|@heh'eziq, tafas@
+@sell@|@makhar@
+@semester@|@smester@
+@send@|@shalah'@
+@send away@|@shalah'@
+@sentence@|@mishpat@
+@sentimentality@|@ragshanut@
+@September@|@september@
+@servant@|@eved@
+@serve@|@sheret@
+@serve as@|@shimmesh@
+@service@|@avoda, mishmeret@
+@set fire to@|@hidliq@
+@set up@|@hitsiv@
+@settle down@|@nuah'@
+@seven (f.)@|@sheva"@
+@seven (m.)@|@shiv"a@
+@seventeen (f.)@|@shva-esre@
+@seventeen (m.)@|@shiv"a-asar@
+@seventh (f.)@|@shiv"it@
+@seventh (m.)@|@shvi"i@
+@seventy@|@shiv"im@
+@several (f.)@|@ah'adot@
+@several (m.)@|@ah'adim@
+@shade (for windows or lamps)@|@tselon@
+@shadow@|@tsel@
+@shake@|@ra"ash@
+@shake oneself free from@|@hitna"er (mi-)@
+@shape (n.)@|@dimut@
+@share@|@h'eleq, mana@
+@shark@|@karish@
+@shatter@|@natats@
+@she@|@hi@
+@sheep@|@keves@
+@Shekel (Israeli currency unit - NIS)@|@sheqel@
+@shelter@|@mah'se@
+@shepherd@|@ro"e@
+@she-wolf@|@ze'eva@
+@shield@|@magen@
+@Shield of David@|@magen david@
+@ship@|@anya, oniya, sfina@
+@shipment@|@mishloah', mit"an@
+@shipping@|@hovala@
+@shirt@|@h'ultsa@
+@shoe@|@na"al@
+@shoot (vb.)@|@yara@
+@shop@|@h'annut@
+@shopping bag@|@saqit@
+@short@|@namukh, qatsar@
+@shortly@|@beqarov@
+@shorts@|@mikhnesey-boqser@
+@should@|@tsarikh@
+@shoulder@|@kataf, sheqem@
+@shout@|@heriya" (l-), tru"a@
+@shout (vb.)@|@tsa"aq@
+@show (vb.)@|@gilla@
+@show compassion@|@h'amal@
+@show mercy@|@h'anan@
+@shower@|@miqlah'at@
+@shower booth@|@miqlah'on@
+@shut (vb.)@|@sagar@
+@sick@|@h'ule@
+@sick fund@|@qupat h'olim@
+@sick: be ~@|@h'ala@
+@sickness@|@h'ali@
+@side@|@pe'a, tsad@
+@sidewalk@|@midrakha@
+@siege@|@matsor@
+@sight@|@anah'a, mar'e@
+@sign@|@ot@
+@silence@|@sheqet@
+@silently@|@bsheqet@
+@silicon@|@tsoran@
+@silver@|@kesef@
+@similar@|@dome@
+@simple@|@pashut@
+@simply@|@pashut@
+@sing@|@ranan, shar@
+@sing (vb.)@|@zimmer@
+@sing with musical accompaniament@|@zimmer@
+@singer@|@shar@
+@singing@|@shira@
+@singular@|@yah'id@
+@Sir@|@adon@
+@sister@|@ah'ot@
+@sit@|@yashav@
+@sit down@|@yashav@
+@site@|@atar@
+@situation@|@matsav@
+@six (f.)@|@shesh@
+@six (m.)@|@shisha@
+@sixteen (f.)@|@shesh-esre@
+@sixteen (m.)@|@shisha-asar@
+@sixth (f.)@|@shishit@
+@sixth (m.)@|@shishi@
+@sixty@|@shishim@
+@skin@|@or@
+@skirt@|@h'atsa'it@
+@skunk@|@tsah'anan@
+@sky@|@shamayim, shamayim (pl.)@
+@slang@|@sleng@
+@slaughter@|@shah'at, zavah'@
+@slave@|@eved@
+@sleep@|@yashan@
+@sleeve@|@sharvul@
+@slice@|@pelah'@
+@slowly@|@le'at@
+@small@|@qatan@
+@smart@|@h'akham@
+@smelt@|@tsaraf, tsiref@
+@smile (vb.)@|@sah'aq@
+@smite@|@naga", nagaf@
+@snail@|@h'illazon@
+@snake@|@nah'ash@
+@sneakers@|@na"aley-hit"amlut@
+@snow@|@sheleg@
+@snowman@|@ish sheleg@
+@so@|@az, ken@
+@so be it@|@amen@
+@so that@|@lema"an@
+@so that not@|@pen@
+@sociology@|@sotsyologiya@
+@sock@|@gerev@
+@socket@|@eden@
+@soil@|@adama@
+@sojourn@|@gur@
+@sojourner@|@toshav@
+@soldier (f.)@|@h'ayelet@
+@soldier (m.)@|@h'ayal@
+@some time@|@zman-ma@
+@somebody@|@mishehu@
+@someone@|@mishehu@
+@something@|@mashehu@
+@sometimes@|@lif"amim@
+@son@|@ben@
+@song@|@shir@
+@son-in-law@|@h'atan@
+@sons@|@banim@
+@soon@|@beqarov@
+@sorry: be ~@|@hitsta"er (al)@
+@sorry: I'm ~@|@slih'a al hahafra"a!@
+@sound@|@qol@
+@sound (adj.)@|@shalem@
+@soup@|@maraq@
+@source of light@|@ma'or@
+@south@|@darom, negev@
+@South Africa@|@drom-afriqa@
+@sovereignty@|@mamlakha, ribonut@
+@sow@|@zara"@
+@space@|@h'alal@
+@space shuttle@|@ma"boret-h'alal@
+@space station@|@tah'anat h'alal@
+@Spain@|@sfarad@
+@Spanish (language)@|@sfaradit@
+@spare (vb.)@|@h'amal@
+@speak@|@diber@
+@special@|@meyuh'ad@
+@spend the night@|@lin@
+@spend time@|@bila@
+@spices@|@besamim@
+@spinach@|@tered@
+@sping (vb.)@|@qafats@
+@spirit@|@ruah'@
+@splendid!@|@yofi!@
+@splendor@|@hod@
+@splendour@|@yofi@
+@split@|@baqa"@
+@spoil@|@haras, hishh'it, shadad, shih'et@
+@spoiled: be@|@nishh'at@
+@spring@|@aviv@
+@spring (of water)@|@ma"iyan@
+@squirrel@|@sna'i@
+@stable (for horses)@|@urva@
+@stadium@|@itstadyion@
+@stage@|@massa@
+@stair@|@ma"ala@
+@staircase@|@ma"ala@
+@stamp@|@bul@
+@stand@|@mikhona@
+@stand firmly@|@hityatsev@
+@stand up@|@qam@
+@stange@|@zar@
+@Star of David@|@magen david@
+@start@|@hith'il (l-)@
+@start (vb.)@|@hith'il@
+@startle@|@heh'erid@
+@starvation@|@ra"av@
+@state@|@matsav@
+@state (political)@|@medina@
+@State of Israel@|@medinat yisra'el@
+@station@|@tah'ana@
+@statue@|@pesel@
+@statue of an idol@|@pesel@
+@statute@|@h'uqa@
+@steel@|@matekhet@
+@step@|@ma"ala@
+@step-father@|@av h'odeg@
+@steppe@|@midbar@
+@still@|@adayin@
+@still; yet@|@od@
+@stomach@|@beten@
+@stone@|@even@
+@stoop@|@hitkofef@
+@stop@|@tah'ana@
+@stop (vb. trans.)@|@tsar@
+@storage@|@ih'sun@
+@store@|@h'annut@
+@storm@|@se"ara@
+@story@|@sipur@
+@straight@|@yashar@
+@straighten (up or out)@|@zaqaf@
+@stranger; foreigner@|@ger, zar@
+@street@|@reh'ov@
+@strength@|@gvura, koah', oz@
+@stretch out@|@shalah'@
+@strict: be ~@|@hiqpid (al)@
+@strife@|@riv@
+@strike with plague@|@nagaf@
+@strip@|@pashat@
+@stripe@|@pas@
+@strive@|@h'atar, kiven, sha'af@
+@stroke@|@nega"@
+@strong@|@h'azaq@
+@strong: be ~@|@amets@
+@structure@|@mivne@
+@student@|@student@
+@student (f.)@|@talmida@
+@student (m.)@|@talmid@
+@study (vb.)@|@lamad@
+@subject@|@nose, noshe'@
+@submarine@|@tsolelet@
+@subway (train)@|@rakevet tah'tit@
+@succeed@|@tsalah'@
+@success@|@tova@
+@such (f. sg.)@|@kazo't@
+@such (m. & f. pl.)@|@ka'ele@
+@such (m. sg.)@|@kaze@
+@suckle@|@heyniq@
+@suddenly@|@pit'om@
+@suffer@|@saval@
+@sufficient@|@maspiq@
+@sufficiently@|@maspiq@
+@sugar@|@sukar@
+@suggestion@|@hats"a@
+@summer@|@qayits@
+@summon (a meeting)@|@hiqhil@
+@sun@|@shemesh@
+@Sunday@|@yom rishon@
+@sunglasses@|@mishqefey-shemesh@
+@supermarket@|@supermarqet@
+@support (vb.)@|@samah'@
+@supreme court@|@beyt-mishpat ha"elyon@
+@sure@|@batuah'@
+@surely@|@betah'@
+@surround@|@savav@
+@surrounding@|@saviv@
+@swamp@|@bitsa@
+@swan@|@barbul, barbur@
+@swear@|@nishva"@
+@sweater@|@sveder@
+@Sweden@|@svedya@
+@Swedish (language)@|@shvedit@
+@sweetness@|@nihoah'@
+@Switzerland@|@shvayts@
+@sword@|@h'erev@
+@symbol@|@semel@
+@synagogue@|@beyt-kneset@
+@synagogues@|@batey-kneset@
+@syringe@|@mazreq@
+@system@|@ma"arekhet@
+@tabernacle@|@mishkan@
+@table@|@shulh'an@
+@tablespoon@|@kaf@
+@tailor@|@tofer@
+@tailoress@|@toferet@
+@take@|@laqah'@
+@take a bath@|@hitrah'ets@
+@take a shower@|@hitqaleah'@
+@take a trip@|@tiyel@
+@take an oath@|@nishva"@
+@take away captive@|@shava@
+@take in@|@qalat, safag@
+@take off clothes@|@pashat@
+@take off shoe@|@h'alats@
+@take one's stand@|@nitsav@
+@take part@|@hishtatef (b-)@
+@take possession of@|@iarash@
+@take time@|@arakh@
+@tall@|@gadol, gavoah'@
+@tasty@|@ta"im@
+@Taurus (astr.)@|@mazzal-shor@
+@tax: income ~@|@mas hakhnasa@
+@tax: property ~@|@arnona@
+@taxi@|@monit@
+@taxicab@|@monit@
+@tea@|@te@
+@teach@|@limed@
+@teacher (f.)@|@mora@
+@teacher (m.)@|@more@
+@teaching@|@leqah', tora@
+@team@|@qvutsa@
+@tear (vb.)@|@qara"@
+@teaspoon@|@kafit@
+@teenager@|@na"arha@
+@teeth@|@shinayim@
+@telegram@|@mivraq@
+@telephone@|@telefon@
+@telescope@|@telesqop@
+@television@|@televizya@
+@tell@|@higid, siper@
+@tell lies@|@shiqer@
+@temble@|@h'arad@
+@temperature@|@h'om@
+@temple@|@heykhal@
+@ten (f.)@|@eser@
+@ten (m.)@|@asara@
+@ten thousand@|@aseret alafim@
+@tend@|@nata@
+@tennis shoes@|@na"aley-hit"amlut@
+@tense@|@zman@
+@tent@|@ohel@
+@tenth (f.)@|@asirit@
+@tenth (m.)@|@asiri@
+@terrible@|@nora'@
+@terrified: be ~@|@h'atat@
+@terrify@|@heh'erid@
+@test@|@beh'ina, mivh'an@
+@test (vb.)@|@bah'an, nissa, tsaraf@
+@testimony@|@edut@
+@thank@|@toda, toda b-@
+@Thank God!@|@toda la'el!@
+@Thank you very much! Thanks a lot!@|@toda raba!@
+@thank you!@|@toda!@
+@thanks@|@toda@
+@that@|@asher, ki, she-@
+@that (conj.)@|@she@
+@that (f.)@|@hi@
+@that (m.)@|@hu@
+@the@|@ha-@
+@the coming@|@haba'@
+@the day before yesterday@|@shilshom@
+@the following@|@haba'@
+@the human body@|@guf ha'adam@
+@the most@|@beyoter, haki@
+@the New Shekel@|@sheqel h'adash@
+@the next@|@haba'@
+@the next day@|@lammah'arat@
+@the people of Israel@|@am yisra'el@
+@the Vatican@|@vatiqan@
+@the whole day@|@kol hayom@
+@their (f.)@|@shelahen@
+@their (m.)@|@shelahem@
+@theme@|@nose@
+@themselves (fem.)@|@atsman@
+@themselves (masc.)@|@atsmam@
+@then@|@az@
+@there@|@sham@
+@there are@|@yesh@
+@there are not@|@eyn@
+@there is@|@yesh@
+@there is no more@|@eyn od@
+@there is not@|@eyn@
+@therefore@|@al ken, az, lakhen@
+@these@|@elle@
+@these are@|@elle@
+@they (f.)@|@hen@
+@they (m.)@|@hem@
+@thing@|@davar, etsem@
+@think@|@h'ashav@
+@third (f.)@|@shlishit@
+@third (m.)@|@shlishi@
+@thirst@|@tsama@
+@thirsty@|@tsame'@
+@thirsty: be@|@tsame'@
+@thirteen (f.)@|@shalosh-esre@
+@thirteen (m.)@|@shlosha-asar@
+@thirty@|@shloshim@
+@this (f.)@|@zo't@
+@this (m.)@|@ze@
+@this is (f.)@|@zo't@
+@this is (m.)@|@ze@
+@those (f.)@|@hen@
+@those (m.)@|@hem@
+@thousand@|@elef@
+@three (f.)@|@shalosh@
+@three (m.)@|@shlosha@
+@throat@|@garon@
+@through@|@derekh@
+@throw@|@hishlikh, zaraq@
+@throw (vb.)@|@yara@
+@throw light on@|@he'ir@
+@thunder@|@ra"am@
+@Thursday@|@yom h'amishi@
+@thus@|@az, ken@
+@ticket@|@kartis@
+@tie@|@qesher@
+@tie together@|@qashar@
+@tiger@|@tigris@
+@time@|@et, sha"a, zman@
+@time: what ~ is it?@|@ma hasha"a?@
+@tin@|@bedil@
+@tired@|@ayf@
+@to correspond@|@hitkatev@
+@to her@|@la@
+@to him@|@lo@
+@to me@|@li@
+@to them (f.)@|@lahen@
+@to them (m.)@|@lahem@
+@to us@|@lanu@
+@to whom?@|@lemi?@
+@to you (f. pl.)@|@lakhen@
+@to you (f. sg.)@|@lekh@
+@to you (m. pl.)@|@lakhem@
+@to you (m. sg.)@|@lekha@
+@toast@|@tost@
+@today@|@hayom@
+@toe@|@bohen, etsba"@
+@together@|@yah'ad@
+@tolerate@|@saval@
+@tomato@|@agvaniya@
+@tomb@|@qever@
+@tombstone@|@matseva@
+@tomorrow@|@mah'ar@
+@too@|@gam@
+@tooth@|@shen@
+@topic@|@nose, noshe'@
+@torment@|@ina@
+@tornado@|@tornado@
+@torture@|@ina@
+@totality@|@kol@
+@touch@|@naga"@
+@tourist (f.)@|@tayeret@
+@tourist (m.)@|@tayar@
+@tower@|@migdal@
+@town@|@ir@
+@towns@|@arim@
+@trademark@|@siman-mish'ar@
+@traditional@|@masorti@
+@train@|@rakevet@
+@trainer@|@me'amen@
+@transfer@|@masar@
+@transgress@|@var@
+@translate@|@tirgam@
+@translation (process)@|@tirgum@
+@translation (result)@|@targum@
+@transmit@|@masar@
+@trap (vb.)@|@lakhad@
+@travel@|@nasa"@
+@travel (n.)@|@nesi'a@
+@treasure@|@otsar@
+@tree@|@ets@
+@trial@|@mishpat@
+@tribal chief@|@alluf@
+@tribe@|@matte@
+@tribute@|@truma@
+@trillion@|@trilyon@
+@trip@|@nesi'a@
+@triumph over@|@gil@
+@trouble@|@aven, tsara@
+@trousers (dual)@|@mikhnasayim@
+@trousers (pl.)@|@miknesim@
+@truck@|@masa'it@
+@true (be)@|@nakhon@
+@trully@|@be'emet@
+@truly@|@amna@
+@trust@|@betah'@
+@truth@|@amet, emet@
+@try (vb.)@|@nissa@
+@try on@|@madad@
+@t-shirt@|@h'ultsat-ti@
+@tube@|@rakevet tah'tit@
+@Tuesday@|@yom shlishi@
+@turkey@|@tarnegol hodu@
+@Turkish (language)@|@turqit@
+@turmoil@|@hamon@
+@turn (vb.)@|@savav@
+@turn in@|@hisgir@
+@turn over@|@hafakh@
+@turtle@|@tsav@
+@TV@|@televizya@
+@twelve (f.)@|@shteym-esre@
+@twelve (m.)@|@shneym-asar@
+@twelvth (f.)@|@hashteym-eser@
+@twelvth (m.)@|@hasheym-eser@
+@twenty (m. & f.)@|@esrim@
+@twenty-one (f.)@|@essim ve'ah'at@
+@twenty-one (m.)@|@esrim ve'eh'ad@
+@twins (boys)@|@te'omim@
+@twins (girls)@|@te'omot@
+@two (f.)@|@shtayim@
+@two (m.)@|@shnayim@
+@two hundred@|@matayim@
+@two thousand@|@alpayim@
+@type@|@min@
+@types of@|@miney@
+@UAE@|@ha'emeyruyot hame'uh'adot@
+@unanimously@|@pe eh'ad@
+@uncle@|@dod@
+@unclean@|@tame'@
+@under@|@mitah'at, mitah'at (l-), tah'at@
+@underground (train)@|@rakevet tah'tit@
+@undermine@|@irel (al)@
+@underneath@|@mitah'at, mitah'at (l-), tah'at@
+@understand@|@hevin@
+@understanding@|@bina, leqah'@
+@unit@|@yehida@
+@United Arab Emirates@|@ha'emeyruyot hame'uh'adot@
+@United Kingdom@|@hammamlakha hame'uh'edet@
+@United States of America@|@artsot-habrit@
+@universe@|@olam@
+@university@|@universita@
+@until@|@ad, ad ki, ad she@
+@upon@|@al@
+@upright@|@ken@
+@upwards@|@ma"al@
+@USA@|@artsot-habrit@
+@use@|@histamesh@
+@user@|@mishtamesh@
+@utensil@|@kli@
+@utterance@|@motsa@
+@vacation@|@h'ofesh, h'ufsha, pagra@
+@valley@|@biq"a@
+@value@|@erekh@
+@vase@|@agartal@
+@vegetable@|@yaraq, yereq@
+@vegetables@|@yeraqot@
+@vengeance@|@naqam, niqama@
+@verb@|@po"al@
+@verb pattern@|@binyan@
+@verify@|@badaq@
+@vertical@|@anakh@
+@very@|@me'od@
+@very slowly@|@le'at le'at@
+@vessel@|@kli@
+@vest@|@afuda@
+@vet@|@vetrinar@
+@veterinarian@|@vetrinar@
+@via@|@derekh@
+@victory@|@nitsah'on@
+@Vietnam@|@vyet-nam@
+@villain@|@bliya"al, rasha"@
+@vine@|@gafen, gefen@
+@vineyard@|@kerem@
+@violence@|@h'amas, shod@
+@violet@|@sagol@
+@virgin (n. f.)@|@betula@
+@Virgo (astr.)@|@mazzal-betula@
+@vision@|@h'azon, h'izzayon, mar'a@
+@visit (vb.)@|@biqer@
+@voice@|@qol@
+@volunteer (f.)@|@mitnadevet@
+@volunteer (m.)@|@mitnadev@
+@vow (vb.)@|@nadar@
+@voyage@|@derekh@
+@voyage (n.)@|@nesi'a@
+@vulture@|@nesher@
+@wailing@|@misped@
+@wait@|@h'ika, tsipa, yih'el@
+@waiter@|@meltsar@
+@waitress@|@meltsarit@
+@walk@|@h'alakh, halah', halakh@
+@wall@|@h'oma, qir@
+@want@|@ava, ratsa@
+@war@|@milh'ama@
+@warm@|@h'am@
+@warrant@|@tsav@
+@wash (vb.)@|@rah'ats@
+@wash away@|@shataf@
+@wash clothes@|@kibes@
+@watch@|@sha"on@
+@watch (vb.)@|@histakel (b-/al)@
+@water (always pl.)@|@mayim@
+@water colours@|@tsiv"ey mayim@
+@wave@|@gal@
+@way@|@derekh, orah'@
+@weak@|@h'allash@
+@weak: be ~@|@h'ala@
+@wealth@|@osher@
+@weapon@|@h'imesh@
+@wear@|@lavash@
+@weather@|@mezeg-avir, mezeg ha"avir@
+@weather forecast@|@tah'azit mezeg ha'avir, tah'azit mezeg ha"avir@
+@Wednesday@|@yom revi'i@
+@week@|@shavua"@
+@week: nice ~ !@|@shavua" tov!@
+@weekday@|@yom h'ol@
+@weekend@|@sofshavua"@
+@weep@|@bakha@
+@weight@|@kavod@
+@welcome! (pl.)@|@brukhim haba'im@
+@welcome! (sg.)@|@barukh haba!@
+@welcome: you are ~ !@|@al lo davar!, bevakasha!@
+@well@|@beseder, tov@
+@well (n.)@|@ma"iyan@
+@well (of water)@|@be'er@
+@well: be ~@|@yatav@
+@west@|@ma"arav@
+@whale@|@livyatan@
+@what@|@ma@
+@What is your (f. s.) name?@|@ma shmekh?@
+@What is your (m. s.) name?@|@ma shimkha?@
+@what time is it?@|@ma hasha"a?@
+@wheat flour@|@solet@
+@when@|@ka'asher, ki, kshe-, matay@
+@where@|@aye@
+@where (directive)@|@le'an@
+@where (locative)@|@eyfo@
+@where from@|@me'an, me'ayin@
+@where to@|@le'an@
+@which@|@asher, ma, she-@
+@which (f. s.)@|@eyzo@
+@which (m. s.)@|@eyze@
+@white@|@lavan@
+@who@|@asher, mi, she-@
+@who does not have... ?@|@lemi eyn...?@
+@who has... ?@|@lemi yesh... ?@
+@whole@|@kol, shalem, tam@
+@whole: be ~@|@shalam@
+@wholeness@|@tom@
+@whom@|@asher, she-@
+@why? for what purpose?@|@lamma@
+@why? for what reason?@|@madua"@
+@wickedness@|@roa"@
+@widow@|@almana@
+@widower@|@alman@
+@width@|@roh'av@
+@wife@|@isha@
+@wild animals (collective)@|@h'aya@
+@willing: be ~@|@ava@
+@win@|@nitsah'@
+@wind@|@ruah'@
+@window@|@h'allon@
+@wine@|@yayin@
+@wing@|@kanaf@
+@winter@|@h'oref@
+@wipe out@|@hikhh'id@
+@wisdom@|@bina@
+@wise@|@h'akham@
+@wish@|@h'afets@
+@wish (n.)@|@h'efets@
+@with@|@et, im@
+@with feeling@|@bregesh@
+@with great joy@|@bshimh'a raba@
+@with her@|@ita@
+@with him@|@ito@
+@with me@|@iti@
+@with them (f.)@|@itan@
+@with them (m.)@|@itam@
+@with us@|@itanu@
+@with what@|@bamma@
+@with you (f. pl.)@|@itkhen@
+@with you (f. sg.)@|@itakh@
+@with you (m. pl.)@|@itkhem@
+@with you (m. sg.)@|@itkha@
+@within@|@pnima@
+@without@|@bliadey@
+@without reason@|@h'inam@
+@witness@|@ed@
+@wolf@|@ze'ev@
+@wolf: she-~@|@ze'eva@
+@woman@|@isha@
+@womb@|@beten, reh'em@
+@wonder@|@pele@
+@wonderful: be ~@|@nifla'@
+@wood@|@ets@
+@woods@|@ya"ar@
+@word@|@davar, mila@
+@work@|@avoda@
+@worker (f.)@|@po"elet@
+@worker (m.)@|@po"el@
+@world@|@olam@
+@worn: become ~@|@hishtafshef@
+@worthwhile@|@kda'i@
+@write@|@katav@
+@writer (f.)@|@soferet@
+@writer (m.)@|@sofer@
+@writing@|@ktav@
+@written: be ~@|@nikhtav@
+@yacht@|@ya'khta@
+@year@|@shana@
+@yellow@|@tsahov@
+@Yemen@|@teyman@
+@yes@|@ken@
+@Yeshiva@|@yeshiva@
+@yesterday@|@etmol@
+@yet@|@adayin@
+@Yiddish@|@yidish@
+@yoke@|@mota@
+@you (fem. pl.)@|@aten@
+@you (fem. sing.)@|@at@
+@you (masc. pl.)@|@atem@
+@you (masc. sing.)@|@ata@
+@you are welcome!@|@al lo davar!, bevakasha!@
+@young@|@tsa"ir@
+@young bull@|@par@
+@young lady@|@na"ara@
+@young man@|@bah'ur, gever@
+@young ram@|@kavas@
+@young woman@|@bah'ura@
+@your (f. pl.)@|@shelakhen@
+@your (f. sg.)@|@shelakh@
+@your (m. pl.)@|@shelakhem@
+@your (m. sg.)@|@shelkha@
+@you're welcome@|@bevaqasha@
+@yourself (fem.)@|@atsmekh@
+@yourself (masc.)@|@atsmekha@
+@yourselves (fem.)@|@atsmekhen@
+@yourselves (masc.)@|@atsmekhem@
+@youth@|@bah'ur@
+@zebra@|@zebra@
+@zero (m. & f.)@|@efes@
+@zinc@|@avats@
+@Zion@|@tsiyon@
+@Zionism@|@tsiyonut@
+@zipcode@|@miqqud@
+@zoology@|@zo'ologiya@
+

@@ -1,0 +1,2764 @@
+@English@|@Turkish@
+@Author name@|@Freelang@
+@Font@|@Arial\12\Arial\12@
+@abandon@|@terketmek bırakmak@
+@abash@|@utandırmak@
+@abbess@|@başrahibe@
+@abbey@|@manastır@
+@abdicate@|@vazgeçmek istifa etmek@
+@abdomen@|@karın karnın altı@
+@abduct@|@adam kaçırmak@
+@abhorence@|@nefret tiksinti@
+@abide@|@kalmak durmak@
+@abject@|@alçak sefil@
+@abolish@|@kaldırmak iptal etmek@
+@abominable@|@iğrenç nefret verici@
+@abound@|@bol olma@
+@abreast@|@yan yana@
+@abridge@|@kısaltma özet@
+@abrupt@|@ani sert@
+@absence@|@yokluk bulunmayış@
+@absolve from@|@beraat ettirmek@
+@abstain from@|@çekinmek@
+@abuse@|@suistimal kötüye kullanma@
+@accent@|@vurgu şive ağız@
+@acclimatize@|@alıştırmak@
+@accomplice@|@suç ortağı@
+@accrue@|@artmak çoğalmak@
+@accursed@|@lanetli uğursuz@
+@accusation@|@suçlama itham etme@
+@accustom@|@alışkın@
+@acknowledge@|@kabul etme tanıma@
+@acquaint@|@bildirmek tanıtmak@
+@acquire@|@elde etmek, kazanmak@
+@acute@|@şiddetli keskin akıllı@
+@addicted to@|@_e düşgün olmak@
+@adjacent@|@komşu bitişik@
+@administrator@|@idareci yönetici müdür@
+@admirable@|@takdire değer@
+@admission@|@itiraf kabul giriş@
+@admittedly@|@itiraf edildiği gibi gerçekte@
+@admonition@|@ihtar tenbih@
+@adopt@|@benimsemek kabul etmek@
+@adore@|@çok sevmek tapmak@
+@adorn@|@süslemek@
+@adroit@|@usta mahir@
+@adversary@|@düşman muhalif@
+@affectation@|@yapmacık gösteriş@
+@affinity@|@yakınlık benzeşme@
+@affirm@|@tasdik etmek@
+@affix@|@bağlamak takmak@
+@affluence@|@bolluk@
+@affront@|@hakaret@
+@afire@|@tutuşmuş yanan@
+@afresh@|@yeniden tekrar@
+@afterwards@|@sonradan@
+@aggregate@|@toplu bütün toplamak@
+@agile@|@çevik faal@
+@agony@|@şiddetli acı ızdırap@
+@ahead@|@ilerde ileriye@
+@aid@|@yardım(etmek)@
+@aim@|@hedef amaç nişan@
+@alert@|@uyanık dikkatli@
+@alight@|@ateş içinde yanan inmek@
+@alike@|@benzer aynı@
+@aliment@|@yiyecek gıda@
+@alimony@|@nafaka@
+@all the better@|@daha iyi ya@
+@allege@|@ileri sürme iddia@
+@alleviate@|@azaltmak@
+@alley@|@dar sokak ağaçlıklı yol@
+@alliance@|@ittifak birlik@
+@allocate@|@bölüştürmek dağıtmak@
+@allowance@|@müsaade gelir maaş@
+@allude to@|@ima etmek anıştırmak@
+@allure@|@çekmek cezbetmek@
+@ally@|@müttefik@
+@almighty@|@herşeye gücü yeten@
+@alms@|@sadaka@
+@aloft@|@yukarıda@
+@altar@|@kilise mihrabı@
+@although@|@bununla_birlikte, gerçi@
+@amalgamate@|@karıştırmak bileştirmek@
+@amass@|@yığmak toplamak@
+@amber@|@kehribar@
+@ambiguous@|@belirsiz iki anlamlı@
+@ambush@|@pusu(da beklemek)@
+@amiable@|@hoş tatlı@
+@amicable@|@dostça dostane@
+@amiss@|@eksik yanlış bozuk@
+@ammunition@|@cephane mühimmat@
+@amnesty@|@genel af@
+@ample@|@geniş bol@
+@amputate@|@kesmek@
+@amulet@|@tılsım nazarlık@
+@amuse@|@eğlendirmek güldürmek@
+@analogy@|@kıyas benzerlik@
+@ancestor@|@ata dede@
+@anchor@|@çapa gemi demiri(atmak)@
+@angle@|@açı köşe, balık tutmak@
+@angry at@|@_den dolayı kızmış@
+@angry with@|@_e gücenmiş@
+@anguish@|@ızdırap keder@
+@animosity@|@düşmanlık@
+@ankle@|@ayak bileği@
+@annex@|@ekleme katma ilhak@
+@annihilate@|@yok etmek@
+@annotation@|@çıkma dipnot@
+@annoy@|@kızdırmak taciz etmek@
+@annul@|@yürürlükten kaldırmak@
+@ant@|@karınca@
+@anthem@|@ilahi milli marş@
+@anticipate@|@önceden görmek sezmek bekleme@
+@antler@|@geyik boynuzu@
+@anyhow@|@her nasılsa her halde@
+@apart from@|@_den başka@
+@apathetic@|@hissiz ilgisiz@
+@aperture@|@aralık delik açık@
+@apex@|@zirve tepe@
+@apiece@|@her biri, beher@
+@apoplexy@|@inme felç@
+@apostasy@|@dininden dönme@
+@apostle@|@havari misyoner@
+@apparent@|@açık belli görünen@
+@appeal@|@yalvarma başvurma temyiz@
+@appear@|@görünmek meydana çıkmak@
+@appease@|@yatıştırmak hafifletmek@
+@applause@|@alkış@
+@appliance@|@cihaz@
+@applicant@|@istekli@
+@apportion@|@paylaştırmak@
+@appreciate@|@takdir etmek kıymetini anlama@
+@apprehend@|@yakalamak tutuklamak anlamak@
+@apprehensive@|@çabuk kavrayan korkan@
+@apprentice@|@çırak stajyer@
+@appropriate@|@uygun münasip tahsis ayırma@
+@approval@|@beğenme uygun görme@
+@apron@|@önlük@
+@apt@|@uygun yerinde@
+@aptitude@|@yetenek eğilim@
+@arbitrary@|@keyfi@
+@arch@|@cilveli açıkgöz, kemer tak@
+@archaic@|@eskimiş eski@
+@archer@|@okçu@
+@ardent@|@ateşli heyecanlı@
+@argue@|@ispat tartışma münakaşa@
+@arid@|@kurak çorak@
+@arise from@|@(_den)kalkmak çıkmak doğmak@
+@ark@|@tahta sandık@
+@armament@|@silahlanma@
+@armistice@|@ateşkes@
+@armpit@|@koltukaltı@
+@arouse@|@uyandırmak canlandırmak@
+@arrears@|@geri kalan(ödenmemiş borç)@
+@arrest@|@tutuklama durdurma@
+@arrogance@|@kibir gurur@
+@arson@|@kundakçılık@
+@artful@|@kurnaz@
+@artificial@|@suni yapay@
+@artillery@|@topçuluk@
+@artless@|@doğal saf sade@
+@as late as@|@ancak artık@
+@as well as@|@gibi@
+@ascend@|@çıkmak tırmanmak@
+@ascendancy@|@üstünlük nüfuz@
+@ascertain@|@soruşturmak öğrenmek@
+@ascribe@|@affetmek@
+@ashcan@|@çöp tenekesi@
+@aspect@|@görüş görünüş@
+@aspire to@|@arzu etmek istemek@
+@assail@|@saldırı hücum@
+@assassin@|@katil@
+@assassination@|@suikast@
+@assault@|@saldırı taarruz@
+@assemble@|@toplamak birleştirmek kurmak@
+@assent@|@kabul onama@
+@assess@|@değer biçmek takdir etmek@
+@assiduous@|@çalışkan gayretli@
+@assign@|@ayırmak tahsis etmek@
+@assignment@|@tayin atama@
+@assimilate to@|@_e benzetmek uydurmak@
+@associate@|@birleştirmek ortaklık@
+@assorted@|@çeşitli@
+@assumption@|@üstüne alma zan kibir@
+@assure@|@söz vermek sigorta etmek@
+@astonish@|@şaşırtmak hayrete düşmek@
+@astute@|@kurnaz zeki@
+@asunder@|@ayrı ayrılmış@
+@asylum@|@sığınak barınak@
+@at best@|@olsa olsa@
+@atone for@|@telafi etmek gönlünü almak@
+@attain to@|@varmak yetişmek@
+@attend@|@hazır bulunmak refakat@
+@attendance@|@bakım hizmet@
+@attitude@|@tavır davranış@
+@attribute@|@sıfat özellik simge@
+@auction@|@artırma ile satış mezat@
+@audible@|@işitilebilir@
+@augment@|@art(ır)mak@
+@auxiliary@|@yardımcı@
+@avail@|@faydalı,yararlı olmak@
+@avarice@|@hırs tamah@
+@avenge@|@öc almak@
+@averse@|@muhalif karşıt@
+@aviation@|@havacılık@
+@avow@|@itiraf etme kabul etme@
+@aware@|@bilmek farkında olmak@
+@awe@|@korku sakınma@
+@awkward@|@beceriksiz biçimsiz sıkıntılı@
+@awry@|@eğri yan ters@
+@babble@|@saçmalamak@
+@bachelor@|@bekar@
+@backbite@|@iftira@
+@bacon@|@domuz pastırması@
+@badge@|@nişan rozet@
+@baffle@|@şaşırtma bozma@
+@bail@|@kefalet@
+@bait@|@yem@
+@bakery@|@fırın ekmekçi@
+@bald@|@kel@
+@balk@|@kiriş engel kaçırma@
+@ballot@|@oy(vermek)@
+@balustrade@|@trabzan korkuluk@
+@ban@|@yasak(lamak)@
+@banish@|@sürgün@
+@banisters@|@trabzan korkuluk@
+@bankrupt@|@iflasetmiş@
+@banquet@|@şölen ziyafet@
+@bare@|@çıplak açık sade@
+@barefaced@|@yüzsüz@
+@barefoot@|@yalınayak@
+@barely@|@sadece@
+@bargain@|@anlaşma pazarlık@
+@barn@|@anbar ahır@
+@barracks@|@kışla@
+@barren@|@kısır kurak@
+@barring@|@_ Hariç@
+@barrister@|@avukat vekil@
+@bashful@|@çekingen utangaç sıkılgan@
+@basin@|@leğen havuz@
+@bask@|@tadınıçıkarmak hoşlanmak güne@
+@batter@|@yumruklamak vurmak hamur@
+@bawdy@|@seksle ilgili açıksaçık terbi@
+@bawl@|@bağırmak haykırmak@
+@bay@|@bölme bölüm@
+@be apt to@|@_mek eğiliminde olma@
+@be descended@|@soyundan gelmek@
+@be going to@|@_mek üzere olmak@
+@be taken aback@|@şaşalamak şaşırıp kalmak@
+@beacon@|@işaretateşi denizfeneri@
+@bead@|@boncuk tesbih@
+@beak@|@gaga ağız@
+@bean@|@fasulye@
+@beard@|@sakal@
+@bearing@|@ilgi tahammül@
+@beast@|@canavar@
+@beat@|@darbe dayak@
+@beckon@|@işaret etmek@
+@bedstead@|@karyola@
+@beeline@|@kuşuçumu@
+@beetroot@|@pancar@
+@befall@|@olmak başına gelmek@
+@beforelong@|@çokgeçmeden@
+@beggar@|@dilenci çapkın@
+@begone@|@defol!@
+@behalf of@|@adına namına@
+@behold@|@farkınavarmak görmek@
+@belated@|@gecikmiş@
+@belch@|@geğirti püskürtü@
+@belligerent@|@savaşçı kavgacı@
+@bellow@|@böğürmek köpük@
+@belly@|@karın@
+@beloved@|@sevgili sevilen@
+@bend@|@kavis viraj bükmek eğmek@
+@benediction@|@takdis hayırdua@
+@benefactor@|@iyilikeden velinimet@
+@bent@|@azmetmek çokistemek@
+@bequest@|@bağışlama vasiyet@
+@bereave@|@elindenalma yoksunbırakma@
+@berth@|@yatak ranza@
+@beseech@|@yalvarmak@
+@besides@|@bunun yanısıra@
+@besiege@|@kuşatma@
+@bestial@|@hayvanca vahşi@
+@bestow@|@vermek hediye@
+@beverage@|@içecek@
+@bewail@|@ağlamak@
+@bewilder@|@şaşırtmak@
+@bewitch@|@büyülemek@
+@bias@|@meyil önyargı@
+@bid@|@emir teklif@
+@bigamy@|@ikieşlilik@
+@bigotry@|@darkafalılık@
+@bilateral@|@ikitaraflı@
+@bilingual@|@ikidilli@
+@billfold@|@cüzdan@
+@billow@|@büyük dalga@
+@bin@|@sandık teneke@
+@bind@|@sarmak ciltlemek@
+@binoculars@|@dürbün@
+@bite@|@ısırma sokma@
+@bitting@|@keskin acı@
+@blab@|@boşboğazlılık@
+@blast@|@borusesi patlama@
+@blaze@|@alev yangın@
+@bleach@|@ağartmak beyazlatmak@
+@bleak@|@rüzgara açık soğuk@
+@blear@|@çapaklı@
+@bleed@|@kanamak@
+@blend@|@karışım alaşım harman@
+@bliss@|@saadet mutluluk@
+@blizzard@|@kar fırtınası@
+@bloat@|@şişirmek@
+@bloom@|@çiçek gençlik tazelik@
+@blot@|@leke ayıp@
+@blow@|@esmek üflemek uçurmak@
+@bluff@|@blöf@
+@blunder@|@hata gaf pot@
+@blunt@|@kesmez kör lafınısakınmaz@
+@blur@|@leke bulaşık@
+@blurt out@|@ağzından kaçırmak@
+@blush@|@kızarma utanma@
+@boar@|@erkek domuz@
+@boast@|@övünme palavra@
+@bob@|@inip çıkmak, hareket etmek@
+@bobby@|@polis memuru@
+@bogus@|@sahte yapmacık@
+@boisterous@|@şiddetli gürültülü@
+@bold@|@cesur atılgan küstah@
+@bolster@|@yastık desteklemek@
+@bolt@|@cıvata sürme yıldırım@
+@bond@|@bağ ilişki tahvil@
+@bony@|@kemikli kılçıklı@
+@booty@|@ganimeti yağma@
+@botch@|@kötü iş yapmak içine etmek@
+@bounce@|@sıçrama@
+@bout@|@nöbet yarış gösteri@
+@bow@|@yay kavis@
+@bowl@|@kase tas yuvarlama@
+@bracelet@|@kelepçe bilezik@
+@bracket@|@kol destek raf@
+@braid@|@saç örgüsü kurdela@
+@brawl@|@kavga gürültü@
+@brew@|@yapmak hazırlamak (çay)demlem@
+@brief@|@kısa kısaca@
+@brim@|@kenar ağız(bardak kap)@
+@brink@|@kenar ağız(kaya uçurum)@
+@brisk@|@faal canlı@
+@brittle@|@kolay kırılır gevrek@
+@broach@|@delik açmak@
+@broil@|@gürültü kavga@
+@brood@|@civciv kuşyavrusu@
+@brook@|@dere çay@
+@broom@|@süpürge@
+@broth@|@etsuyu@
+@brow@|@kaş alın@
+@bubble@|@köpük@
+@buckle@|@toka kopça@
+@bud@|@tomurcuk@
+@buffoon@|@soytarı maskara@
+@bug@|@böcek tahtakurusu@
+@bulb@|@soğan ampul@
+@bulge@|@belverme şiş@
+@bulk@|@hacim kütle@
+@bully@|@korkutmak@
+@bum@|@serseri başıboş@
+@bump@|@vuruş çarpma@
+@bunch@|@demet deste@
+@bundle@|@bağ bohça paket@
+@bungle@|@bozma berbat etme@
+@bunk@|@yatak ranza zırva saçmalık@
+@bunny@|@tavşan(cık)@
+@buoyant@|@batmaz yüzer@
+@burden@|@yük ağıriş nakarat@
+@burly@|@iriyarı@
+@burst@|@patlama yarık@
+@bush@|@çalı çalılık@
+@bustle@|@faaliyet telaş@
+@butt@|@fıçı dipçik@
+@buttress@|@payanda destek@
+@by and by@|@yavaşyavaş@
+@by and large@|@genellikle@
+@by far@|@çok daha fazla@
+@by gone@|@geçmiş eski@
+@cabbage@|@lahana@
+@cage@|@kafes asansör@
+@calamity@|@felaket afet@
+@call at@|@_e uğramak@
+@call for@|@_i istemek@
+@call on@|@_i ziyaret etmek@
+@callous@|@sertleşmiş hissiz@
+@camomile@|@papatya@
+@canary@|@kanarya@
+@candid@|@samimi açık@
+@candy@|@şeker bonbon@
+@cane@|@baston değnek@
+@cannibal@|@yamyam@
+@cannon@|@top@
+@canopy@|@tente gölgelik@
+@cant@|@ikiyüzlü riyakar@
+@canvas@|@keten bezi tuval@
+@cape@|@burun pelerin@
+@capsize@|@devirmek devrilmek@
+@caption@|@manşet başlık altyazı(film)@
+@captivate@|@büyülemek cezbetmek@
+@captive@|@tutsak esir@
+@capture@|@yakalama esir alma@
+@carcase@|@leş@
+@cardigan@|@yün ceket, hırka@
+@carefree@|@kaygısız@
+@careless@|@ihmalci@
+@caress@|@okşamak@
+@caretaker@|@kapıcı yönetici@
+@caries@|@diş çürümesi@
+@carnal@|@cinsel şehevi@
+@carpenter@|@marangoz doğramacı@
+@carriage@|@araba vagon taşıma nakil@
+@carrier@|@taşıyıcı@
+@carry on@|@devam ettirmek@
+@carry out@|@yerine getirmek@
+@carve@|@oymak oymacı@
+@case@|@hal husus olay, kutu kasa@
+@cask@|@fıçı varil@
+@cast@|@(tiyatro)oyuncular, atma atış, dökme kalıp, tip kalite@
+@castor@|@tuzluk biberlik@
+@castrate@|@hadım etmek@
+@casual@|@tesadüfi rastgele@
+@casualty@|@kaza kayıp@
+@catarrh@|@nezle@
+@catastrophe@|@felaket facia@
+@catchword@|@parola slogan@
+@cater for@|@_i tedarik etmek hazırlamak@
+@cavity@|@çukur boşluk oyuk@
+@cease@|@bitmek durmak@
+@celebrity@|@şöhret@
+@cement@|@çimento tutkal@
+@cemetary@|@mezarlık@
+@censure@|@eleştiri azar@
+@census@|@nüfus sayımı@
+@certain@|@kesin emin muhakkak@
+@certify@|@tasdik onay@
+@chafe@|@sürtmek sürtünmek@
+@chaff@|@saman tozu@
+@challenge@|@meydan okuma davet@
+@chamber@|@oda salon meclis@
+@charcoal@|@mangal kömürü@
+@charm@|@büyü sihir cazibe@
+@charter@|@kiralamak@
+@chase@|@av takip kovalama@
+@chasm@|@yarık uçurum@
+@chaste@|@iffetli temiz@
+@cheat@|@hile düzen@
+@cheek@|@yüzsüzlük@
+@cheer@|@alkış neşe@
+@cheer on@|@yüreklendirmek@
+@cheer up@|@teselli@
+@chest@|@sandık kutu göğüs@
+@chestnut@|@kestane@
+@chew@|@(ağızda)çiğnemek@
+@chill@|@soğuk algınlığı üşütme@
+@chin@|@çene@
+@chink@|@yarık çatlak@
+@chip@|@çentik kırıntı yontmak@
+@choir@|@koro@
+@choke@|@tıkamak boğmak@
+@chop@|@darbe parça pirzola@
+@chord@|@kiriş tel@
+@chubby@|@tombul şişko@
+@churchyard@|@kilise avlusu@
+@chute@|@çağlayan, paraşüt@
+@cinder@|@cüruf kor@
+@circumcise@|@sünnet@
+@circumstance@|@hal koşul@
+@civil@|@iç dahili, nazik, sivil@
+@clack@|@tıkırtı@
+@clammy@|@soğuk ıslak, yapışkan@
+@clandestine@|@gizli elaltından@
+@clank@|@tınlama çınlama@
+@clarify@|@arıtmak, süzmek@
+@clash@|@çarpışmak@
+@claw@|@pense@
+@clay@|@balçık@
+@clear up@|@halletmek@
+@clemency@|@şefkat yumuşaklık@
+@client@|@müşteri@
+@cliff@|@kayalık uçurum@
+@climax@|@zirve doruk@
+@cling to@|@_e yapışmak@
+@cloak@|@manto palto@
+@clog@|@kütük engel@
+@close in on@|@_in etrafını çevirmek@
+@clove@|@yarmak ayırmak@
+@clown@|@palyaço@
+@clumsy@|@acemi@
+@cluster@|@demet salkım küme@
+@clutch@|@kavrama debriyaj@
+@co_partner@|@ortak@
+@coarse@|@bayağı kaba@
+@coat@|@ceket kat tabaka palto@
+@coax@|@kandırmak@
+@cock@|@horoz musluk@
+@coconut@|@hindistan cevizi@
+@cocoon@|@koza@
+@code@|@konum şifre@
+@coeducation@|@karma eğitim@
+@coerce@|@zorlamak@
+@coffin@|@tabut@
+@cohere@|@yapışmak tutmak@
+@coil up@|@(kangal,bobin)sarmak@
+@collaborate@|@iş birliği@
+@collapse@|@çökme yığma@
+@collapsible@|@açılır kapanır@
+@collar@|@yaka tasma yakalamak@
+@collected@|@aklı başında@
+@collide with@|@_ile çarpışmak@
+@collision@|@çarp(ış)ma@
+@color bar@|@ırk ayrımı@
+@combustible@|@tutuşabilir@
+@come about@|@olmak@
+@come across@|@_e rast gelmek@
+@come along@|@ilerlemek acele etmek@
+@come at@|@_e vermek@
+@come by@|@elde etmek@
+@come for@|@_i alıp götürmek@
+@come loose@|@çözülmek gevşemek@
+@come off@|@kopmak@
+@come to@|@_e gelmek@
+@come upon@|@rast gelmek@
+@commemorate@|@kutlama anma töreni@
+@commend to@|@_e emanet etmek@
+@commentary@|@yorum açıklama@
+@commit@|@teslim etmek tevdi etmek@
+@commitment@|@taahhüt@
+@commodity@|@mal ticari eşya@
+@commoner@|@burjuva@
+@commonsense@|@sağduyu@
+@commotion@|@heyecan ayaklanma@
+@communal@|@toplumsal@
+@commute@|@değiştirmek (cezayı)hafifletm@
+@companion@|@arkadaş eş ortaklık@
+@comparative@|@orantılı@
+@compass@|@çevre alan saha pusula@
+@compassion@|@merhamet acıma@
+@compatriot@|@vatandaş yurttaş@
+@compete for@|@(...için)müsabakaya girmek@
+@competent@|@yetkili yeterli@
+@complacent@|@kendini beğenmiş@
+@compliance@|@uyma itaat@
+@compliment@|@iltifat@
+@comply with@|@razı olmak@
+@compose@|@yazmak bestelemek@
+@compound@|@bileşim alaşım@
+@comprehend@|@anlamak kavramak@
+@comprise@|@kapsamak içermek@
+@compromise@|@uzlaşma@
+@compulsion@|@zorlama@
+@compunction@|@vicdan azabı pişmanlık@
+@comrade@|@arkadaş yoldaş@
+@conceit@|@kibirli kendini beğenmiş@
+@conceive@|@düşünmek kavramak gebe olmak@
+@conception@|@fikir görüş gebe kalma@
+@concern@|@firma ortaklık, ilgi endişe@
+@concession@|@ayrıcalık imtiyaz, teslim kabul@
+@conciliate@|@uzlaştırmak barıştırmak@
+@concise@|@kısa özlü@
+@conclude@|@bitirme sonuçlandırmak@
+@concord@|@uygunluk barış@
+@concrete@|@beton somut belirli@
+@concur with@|@_e uymak razı olmak@
+@condemn@|@mahkum etmek kınamak@
+@condescend@|@tenezzül@
+@condole with@|@_e başsağlığı dilemek@
+@conduct@|@davranış tavır, yönetmek idare etmek@
+@cone@|@koni külah@
+@confection@|@şekerleme@
+@confer@|@danışmak görüşmek@
+@confess@|@kabul etmek itiraf etmek@
+@confide@|@emanet etmek güvenmek@
+@confident@|@emin güvenli@
+@confidential@|@gizli mahrem@
+@confine@|@sınırlamak hapsetmek@
+@confiscate@|@el koymak@
+@conflagration@|@yangın@
+@conflict@|@uyuşmazlık aykırılık@
+@conform@|@uy(dur)mak@
+@confound@|@(kafasını) karıştırmak@
+@confront@|@karşılaştırmak@
+@confuse@|@karıştırmak şaşırtmak@
+@congeal@|@don(dur)mak@
+@congestion@|@tıkanıklık@
+@congregate@|@toplanmak birleşmek@
+@conjecture@|@zan sanı tahmin@
+@conjugal@|@evlilikle ilgili@
+@conjunction@|@birleşme bağlaç@
+@conjure@|@büyü ile çağırmak@
+@conquer@|@fethetmek zaptetmek@
+@conscience@|@vicdan(lı)@
+@conscious@|@bilinçli şuurlu@
+@conscription@|@askere çağırma@
+@consecrate@|@takdis etmek kutsamak@
+@consecutive@|@ard arda gelen ardıl@
+@consent@|@müsaade izin@
+@consequence@|@sonuç akıbet@
+@conservation@|@koruma muhafaza@
+@consider@|@düşünmek hesaba katmak@
+@considerable@|@hayli çok önemli@
+@considerate@|@saygılı nazik@
+@consign@|@göndermek teslim etmek@
+@consist of@|@_den oluşmak@
+@consistency@|@koyuluk kıvam@
+@consolidate@|@birleştirmek sağlamlaştırmak@
+@consonant@|@sessiz harf ünsüz@
+@consort@|@eş@
+@conspiracy@|@gizli anlaşma suikast@
+@constant@|@devamlı sürekli sabit@
+@consternation@|@donup kalma hayret@
+@constituency@|@seçim çevresi seçmenler@
+@constitute@|@tayin etmek atamak@
+@constitutional@|@anayasal@
+@construct@|@inşa etmek kurmak@
+@consult@|@başvurmak danışmak@
+@consume@|@tüketmek yiyip bitirmek@
+@contact@|@dokunma temas@
+@contagious@|@bulaşıcı@
+@contain@|@içermek içine almak@
+@contaminate@|@kirletmek bulaştırmak@
+@contemplate@|@seyretmek düşünmek tasarlamak@
+@contemporary@|@çağdaş@
+@contempt@|@küçük görme kibir@
+@contend for@|@_için yarışmak çarpışmak@
+@content@|@öz kapasite hacim memnuniyet@
+@contest@|@yarışma müsabaka itiraz@
+@continent@|@kıta@
+@contort@|@burmak bükmek@
+@contour@|@dış hatlar@
+@contraband@|@kaçak mal@
+@contraceptive@|@gebeliği önleyici@
+@contract@|@sözleşme daraltma kısaltma@
+@contradict@|@yalanlama@
+@contrary@|@ters zıt karşıt@
+@contribute@|@bağışlamak@
+@contrivance@|@buluş hüner cihaz@
+@controversy@|@çekişme@
+@contusion@|@bere çürük@
+@convalesce@|@iyileşmek@
+@convenience@|@uygunluk rahatlık@
+@convention@|@toplantı anlaşma@
+@conversation@|@konuşma sohbet@
+@conversion@|@değiş(me)tirme dininden dönme@
+@convey@|@taşımak götürmek@
+@convict@|@mahkum suçlu@
+@convince@|@inandırmak ikna etmek@
+@convoke@|@toplantıya çağırmak@
+@convulsion@|@kıvranma çırpınma@
+@cope with@|@boy ölçüşmek@
+@copious@|@çok, bol@
+@cordial@|@samimi candan@
+@cork@|@mantar tıpa@
+@corn@|@hububat mısır tuzlamak@
+@cornet@|@kağıt külah@
+@corporate@|@ortaklığa ait şirkete ait@
+@corpse@|@ceset@
+@corpulent@|@şişman@
+@correspond with@|@uymak uygun gelmek mektuplaşm@
+@correspondence@|@mektuplaşma@
+@corrigible@|@düzeltilebilir@
+@corroborate@|@doğrulamak@
+@corrode@|@aşındırmak çürümek@
+@corrupt@|@çürümüş rüşvetçi@
+@cost@|@fiyat maliyet zarar@
+@cosy@|@rahat keyifli@
+@cottage@|@küçük ev klübe@
+@cotton@|@pamuk(bezi)@
+@couch@|@yatak divan yatmak çömelmek@
+@cough@|@öksürmek@
+@counsel@|@danışma fikir öğüt@
+@countenance@|@yüz çehre@
+@counter to@|@önlemek karşılamak@
+@counterfeit@|@sahte taklit@
+@country side@|@kırsal köy@
+@county@|@vilayet il@
+@courier@|@haberci kurye@
+@court@|@avlu alan mahkeme kur yapmak@
+@courteous@|@nazik kibar@
+@covet@|@şiddetle arzu etmek@
+@cow@|@dişi inek manda@
+@coward@|@korkak yüreksiz@
+@crab@|@yengeç@
+@crack@|@çatlak yarık kırmak yarmak@
+@craft@|@hüner sanat hile@
+@crag@|@sarp kayalık@
+@cramp@|@mengene kenet@
+@crank@|@manivela, kol, garip adam@
+@crash_landing@|@zorunlu iniş@
+@crave@|@şiddetli arzu@
+@crawl@|@sürünmek@
+@creak@|@gıcırdamak@
+@credulous@|@herşeye inanan@
+@creed@|@iman inanç@
+@creep@|@sürünmek ürpermek sarılmak@
+@cremate@|@(ölüyü)yakmak@
+@crescent@|@hilal yeniay ayça@
+@crevice@|@yarık buzul çatlağı@
+@crew@|@tayfa takım@
+@crime@|@suç cinayet@
+@crimson@|@fes rengi@
+@cringe@|@köpeklenmek yaltaklanmak@
+@cripple@|@sakat(lamak)@
+@crisp@|@kıvırcık gevrek@
+@critic@|@eleştirmen@
+@crockey@|@çanak çömlek@
+@crook@|@kanca değnek dolandırıcı@
+@crop@|@ekin ürün@
+@cross of@|@çizmek silmek@
+@crow@|@karga ötmek@
+@crucial@|@kesin önemli@
+@crude@|@ham kaba@
+@cruel@|@zalim gaddar@
+@crufix@|@çarmıh@
+@cruise@|@gemi ile gezmek@
+@crunch@|@çiğnemek ezmek@
+@crusade@|@haçlı seferi@
+@crush@|@kalabalık ez(il)mek@
+@crutch@|@koltuk değneği@
+@cry@|@bağırmak ağlamak@
+@cub@|@hayvan yavrusu@
+@cucumber@|@hıyar salatalık@
+@cuddle@|@kucaklamak@
+@cudgel@|@sopa değnek dövmek@
+@cuff@|@kolluk yen tokat@
+@culminate@|@zirvesine ermek sonuçlandırma@
+@culprit@|@suçlu sanık@
+@cult@|@ibadet tapınma@
+@cumulative@|@birikmiş biriken@
+@cunning@|@kurnaz açıkgöz@
+@curable@|@tedavi edilebilir@
+@curfew@|@sokağa çıkma yasağı@
+@curl@|@kıvrım bukle@
+@currency@|@sürüm nakit para@
+@curse@|@lanet beddua küfür@
+@curtail@|@kısaltmak@
+@curtain@|@perde@
+@curtsy@|@diz bükerek reverans@
+@cushion@|@yastık minder@
+@custody@|@gözetim bakım nezaret@
+@custom@|@adet örf gümrük@
+@cute@|@açıkgöz zarif hoş@
+@cutlet@|@pirzola@
+@cyclone@|@siklon@
+@cynical@|@kötü gözle gören@
+@dab@|@hafifçe vurmak@
+@dagger@|@hançer, kama@
+@dainty@|@nefis ince zarif lezzetli@
+@dairy@|@sütçü(dükkanı)@
+@dale@|@vadi dere@
+@dam@|@baraj bent@
+@damp@|@rutubet nem(lendirmek)@
+@dangle@|@asılıp sallanmak@
+@dare@|@cesaret etmek kalkışmak@
+@dash@|@atılmak fırlamak, darbe vuruş çizgi, saldırma hamle@
+@dashboard@|@kontrol paneli@
+@dawdle@|@aylaklık, tembellik@
+@dawn@|@şafak tanyeri@
+@day off@|@boş gün@
+@daze@|@kamaştırmak sersemletmek@
+@dazzle@|@gözünü kamaştırmak@
+@deadline@|@son teslim tarihi@
+@deaf@|@sağır@
+@deal@|@miktar alışveriş anlaşma dağı@
+@dealings@|@iş ilişkisi@
+@debar from@|@_den mahrum etmek@
+@debase@|@alçaltmak@
+@debate@|@tartışmak@
+@debit@|@borç açık zimmet@
+@debris@|@enkaz@
+@decadence@|@çöküş@
+@decapitate@|@_in başını kesmek@
+@decay@|@çürüme bozulma@
+@decease@|@ölüm vefat@
+@deceit@|@hile aldatma@
+@decelerate@|@yavaşlamak@
+@decency@|@terbiye namus@
+@decipher@|@_in şifresini çözmek@
+@deck@|@güverte@
+@decline@|@azalma gerileme@
+@declivity@|@iniş meyil@
+@decoy@|@tuzak yem@
+@decree@|@hüküm karar@
+@decrepit@|@dermansız zayıf@
+@deduce from@|@anlamak sonuç çıkarmak@
+@deed@|@eylem hareket belge@
+@deer@|@geyik karaca@
+@deface@|@bozmak@
+@defeat@|@yenilgi bozgun@
+@defect@|@kusur eksiklik@
+@defer@|@ertelemek@
+@defiant@|@karşı gelen serkeş@
+@deficit@|@(mali)açık@
+@defile@|@geçit boğaz@
+@definite@|@kesin belirli@
+@deflate@|@havasını boşaltmak@
+@deflect@|@saptırmak çevirmek@
+@defrost@|@buzlarını çözmek@
+@delay@|@gecikme tehir@
+@deliberate@|@düşünmek tartışmak, kasıtlı temkinli@
+@delicate@|@nazik ince@
+@deliquent@|@suçlu@
+@delude@|@aldatmak@
+@demise@|@vefat ölüm@
+@demolish@|@yıkmak@
+@demon@|@şeytan cin@
+@denomination@|@ad(landırma)@
+@denote@|@göstermek@
+@denounce@|@suçlamak@
+@dense@|@sık yoğun@
+@dental@|@dişlere ait@
+@dentures@|@takma dişler@
+@depart from@|@_den ayrılmak@
+@departure@|@gidiş kalkış@
+@depend@|@bağlı olmak güvenmek@
+@deplore@|@acımak@
+@depose@|@azletmek@
+@depot@|@anbar@
+@depraved@|@ahlakı bozuk@
+@depress@|@indirmek alçaltmak@
+@dept@|@derinlik@
+@deputy@|@vekil muavin@
+@deride@|@alay etmek@
+@derive@|@çıkarmak türetmek@
+@derogatory@|@aşağılayıcı@
+@descend@|@inmek alçalmak@
+@descent@|@iniş yokuş, soy nesil@
+@describe@|@tanımlamak@
+@deserve@|@haketmek layık olmak@
+@designate@|@belirtmek seçmek@
+@desolate@|@harap ıssız@
+@despair@|@ümitsizlik@
+@despise@|@hor görmek@
+@despondent@|@ümitsizliğe kapılmış@
+@dessert@|@yemiş tatlı@
+@destiny@|@kader yazgı@
+@destitute of@|@_den yoksun@
+@detach@|@ayırmak çıkarmak@
+@detail@|@ayrıntı@
+@detain@|@alıkoymak geciktirmek@
+@detect@|@keşfetmek bulmak@
+@deter@|@vazgeçirmek@
+@deterioration@|@fenalaşma@
+@deterrent@|@caydırıcı@
+@detest@|@nefret iğrenç@
+@detoration@|@patlama infilak@
+@devastate@|@harap etmek@
+@deviate from@|@sapmak@
+@devil@|@şeytan iblis@
+@devise@|@tasarlamak@
+@devolution@|@devir terk havale@
+@devote to@|@vakfetmek adamak@
+@devour@|@yutmak silip süpürmek@
+@devout@|@dindar sadık@
+@dexterity@|@beceri ustalık@
+@diaper@|@kundak bezi@
+@digest@|@özet hazmetmek sindirmek@
+@dignified@|@ağır başlı olgun@
+@dike@|@set bent hendek@
+@dilapidated@|@harap@
+@dilligence@|@gayret@
+@dilute@|@sulandırmak@
+@dim@|@bulanık donuk@
+@dimple@|@yanak gamze@
+@dine@|@akşam yemeğini yemek@
+@dip@|@dal(dır)ma yokuş iniş@
+@dirigible@|@güdümlü yönetilebilir@
+@dirt@|@pislik çamur@
+@dirt_cheap@|@sudan ucuz@
+@disable@|@sakatlamak@
+@disapproval@|@beğenmeme onaylamama@
+@disarm@|@silahsızlandırmak@
+@disarray@|@karışıklık@
+@disband@|@terhis etmek dağıtmak@
+@disbelief@|@inançsızlık güvensizlik@
+@discern@|@ayırt etmek farketmek@
+@discharge@|@boşaltma salıverme terhis@
+@disclaim@|@inkar etme vazgeçme@
+@disclose@|@ifşa etme açığa vurma@
+@discontent@|@hoşnutsuzluk@
+@discordance@|@uyumsuzluk ahenksizlik@
+@discourse@|@söylev nutuk@
+@discredit@|@güvensizliik şüphe@
+@discreet@|@ketum ağzı sıkı@
+@discrepancy@|@farklılık ayrılık@
+@discretion@|@ketumiyet akıllılık@
+@discriminate@|@ayırmak ayrım yapmak@
+@disdain@|@küçük görme aşağılama@
+@disease@|@hastalık@
+@disembark@|@karaya çıkarmak@
+@disengage@|@salıvermek@
+@disfavour@|@gözden düşmek@
+@disfigure@|@çirkinleştirmek@
+@disgrace@|@gözden düşme@
+@disguise@|@kıyafet değiştirmek@
+@disgust@|@nefret tiksinme@
+@disillusion@|@hayak kırıklığına uğratmak@
+@dismal@|@kederli sönük@
+@dismantle@|@sökmek@
+@dismay@|@korku dehşet@
+@dismember@|@parçalamak@
+@dismiss@|@işten çıkarmak yol vermek@
+@dismount@|@sökmek attan inmek@
+@disobedience@|@itaatsizlik@
+@disobliging@|@nezaketsiz@
+@disorder@|@karışıklık hastalık@
+@disown@|@inkar etme tanımama@
+@disparage@|@kötülemek@
+@dispassionate@|@tarafsız@
+@dispatch@|@acele gönderme ulak haber@
+@dispensable@|@vazgeçilebilir@
+@disperse@|@dağıtmak yaymak@
+@displace@|@yerinden çıkarmak@
+@displease@|@gücendirmek@
+@disposal@|@tertip düzen elden çıkarma@
+@disproportionate@|@oransız@
+@dispute@|@münakaşa tartışma@
+@disregard@|@ihmal etmek saymamak@
+@disreputable@|@rezil itibarsız@
+@disrespectful@|@hürmetsiz@
+@disseminate@|@saçmak yaymak@
+@dissent from@|@(_hususunda) anlaşamamak@
+@dissimilar@|@farklı@
+@dissipate@|@dağıtmak israf etmek@
+@dissolute@|@ahlaksız uçarı@
+@dissuade from@|@_den vazgeçirmek caydırmak@
+@distaste@|@tiksinme nefret@
+@distinct@|@farklı ayrı@
+@distinguish@|@ayırmak ayırt etmek seçkin@
+@distort@|@bükmek bozmak@
+@distract@|@karışıklık çılgınlık@
+@distress@|@sıkıntı üzüntü@
+@district@|@bölge ilçe kaza@
+@disturb@|@karıştırma rahatsız etme@
+@disuse@|@eski kal olmuş@
+@ditch@|@hendek@
+@dive into@|@pike yapmak dalmak@
+@diverge@|@birbirinden ayrılmak@
+@diverse@|@çeşitli değişik@
+@divert@|@başka tarafa çevirmek eğlendi@
+@divine@|@kutsal tanrısal@
+@dizzy@|@başdöndürücü@
+@docile@|@uslu uysal@
+@dock@|@havuz liman@
+@dodge@|@kurnazlık hile@
+@doe@|@dişi geyik, tavşan@
+@doll@|@bebek kukla@
+@dolorous@|@kederli elemli@
+@dolphin@|@yunus balığı@
+@domain@|@mülk arazi alan@
+@domestic@|@yerli evcil@
+@domicile@|@oturma yeri konut@
+@domination@|@egemenlik@
+@domineer@|@hükmetmek zorbalık@
+@doom@|@kader yazgı ölüm kıyamet@
+@dope@|@esrar afyon@
+@dormitory@|@yatakhane koğuş@
+@dote@|@bunamak düşgün olmak@
+@douche@|@şırınga@
+@dough@|@hamur@
+@downcast@|@üzgün@
+@downhill@|@yokuş aşağı@
+@downright@|@kesin tamamiyle@
+@downward@|@aşağı doğru@
+@dowry@|@çeyiz@
+@doze@|@uyuklamak@
+@drab@|@gri@
+@draft@|@poliçe taslak mecburi askerli@
+@drain@|@lağım su yolu akıtmak@
+@drape@|@kumaşla kaplamak@
+@drastic@|@şiddetli sert@
+@draw@|@kura rağbetedilen şey beraber@
+@drawback@|@sakınca engel@
+@drawn@|@berabere@
+@drawnear@|@yaklaşmak@
+@dread@|@dehşet korku@
+@dreary@|@sıkıcı kasvetli@
+@dredge@|@taramak tarak@
+@drench@|@ıslatmak@
+@drift@|@sürüklenme kar yığntısı hedef@
+@drill@|@delgi matkap@
+@drip@|@damlamak@
+@drive out@|@kovmak@
+@drizzle@|@çiselemek@
+@drop@|@damla düşme düşüş atmak@
+@drought@|@kuraklık@
+@drown@|@boğ(ul)mak@
+@drowsy@|@uyku basmış uyutucu@
+@drudge@|@ağır işler yapmak@
+@dubious@|@şüpheli@
+@dudgeon@|@öfke@
+@due@|@ödenmesi gereken hak vergi@
+@duel@|@düello@
+@duly@|@gereğince tam zamanında@
+@dumb@|@dilsiz sessiz aptal budala@
+@dummy@|@taklit manken@
+@dump@|@boşaltmak atmak@
+@dun@|@(borçluyu)sıkıştırmak@
+@dung@|@gübre(lemek)@
+@dungeon@|@zindan@
+@durable@|@dayanıklı devamlı@
+@duress@|@tehdit baskı@
+@dust@|@toz,çöp@
+@dutiful@|@görevini bilen@
+@duty@|@ödev,görev gümrük vergisi@
+@dwarf@|@cüce@
+@dwell@|@oturmak durmak@
+@dye@|@boyamak@
+@dynasty@|@hanedan soy@
+@eager@|@hevesli istekli@
+@earnest@|@ciddi@
+@earnings@|@kazanç@
+@ease@|@rahat ferah kolaylık@
+@eaves@|@çıkıntı@
+@eclipse@|@tutulma@
+@ectasy@|@kendinden geçme@
+@edge@|@kenat sırt bıçak ağzı@
+@edible@|@yenilebilir@
+@effeminate@|@kadınsı yumuşak@
+@effervescent@|@köpüren köpüklü@
+@effusive@|@taşkın bol@
+@elaborate@|@dikkatle işlenmiş özenilmiş@
+@elapse@|@(geçen)zaman@
+@elbow@|@dirsek@
+@elegance@|@zarafet şıklık@
+@elevate@|@yükseltmek@
+@eligible@|@seçilebilir uygun@
+@elongate@|@gerip uzatmak@
+@elope@|@aşığı ile kaçmak@
+@eloquence@|@etkili konuşma sanatı@
+@elude@|@sakınmak sıyrılmak@
+@emanate from@|@_den çıkmak@
+@emancipate@|@serbest bırakmak@
+@embalm@|@mumyalamak@
+@embark@|@gemiye binmek@
+@embarras@|@şaşırtmak utandırmak@
+@embed@|@gömmek yerleştirmek@
+@embellish@|@süslemek güzelleştirmek@
+@ember@|@kor köz@
+@embezzle@|@zimmetine geçirmek@
+@emblem@|@sembol simge@
+@embody@|@cisimlendirmek@
+@embrace@|@kucaklamak benimsemek@
+@emerald@|@zümrüt@
+@emergence@|@ortaya çıkma doğma@
+@emergency@|@olağanüstü durum@
+@emigrant@|@göçmen@
+@eminent@|@yüksek seçkin@
+@emit@|@çıkarmak@
+@emotion@|@heyecan his@
+@emperor@|@imparator@
+@emphasis@|@vurgu şiddet@
+@empower@|@yetki vermek@
+@enact@|@(yasa)çıkarmak (tiyatro)oynam@
+@encase@|@kılıflamak@
+@encircle@|@kuşatmak@
+@endanger@|@tehlikeye atmak@
+@endear@|@sevdirmek@
+@endeavour@|@emek çaba@
+@endorse@|@ciro onay@
+@endow@|@gelir bağlamak@
+@endurance@|@tahammül(etmek)@
+@enervate@|@kuvvetten düşürmek@
+@enfold@|@sarmak@
+@enforce@|@zorla kabul ettirmek@
+@engage@|@hizmete almak tutmak@
+@engrave@|@oymak oymacılık@
+@engross@|@zaptetmek işgal etmek@
+@enigma@|@bilmece@
+@enjoin@|@emretmek tenbih etmek@
+@enlarge@|@büyütmek genişletmek@
+@enlighten@|@aydınlatmak@
+@enlist@|@kaydetmek asker olmak@
+@enliven@|@canlandırmak@
+@enrage@|@kızdırmak@
+@enrapture@|@kendinden geçirmek@
+@enslave@|@köle yapmak@
+@ensue@|@ardından gelmek@
+@ensure@|@sağlamak@
+@entangle@|@dolaştırmak@
+@enterprise@|@teşebbüs girişim atılgan@
+@enthusiasm@|@çoşkunluk can atma@
+@entice@|@ayartmak@
+@entire@|@tam bütün@
+@entity@|@varlık@
+@entreat@|@ısrar etmek yalvarmak@
+@enumerate@|@birer birer saymak@
+@envelope@|@sarmak zarf@
+@envious@|@gıpta eden haset@
+@environs@|@civar etraf@
+@envisage@|@planlamak tasavvur etmek@
+@envoy@|@elçi delege@
+@epic@|@destansı masalsı@
+@epidemic@|@salgın(hastalık)@
+@epilog@|@sonsöz@
+@episode@|@olay bölüm@
+@epitaph@|@mezar kitabesi@
+@epoch@|@devir çağ@
+@equanimity@|@ılım vakar@
+@equilibrium@|@denge@
+@equip@|@donatmak@
+@equity@|@eşitlik adalet@
+@equivalent@|@bedel karşılık@
+@erect@|@dikmek kurmak@
+@erotic@|@aşka dair@
+@errand@|@iş sipariş@
+@erroneous@|@yanlış hatalı@
+@erudition@|@alimlik@
+@erupt@|@fışkırmak@
+@espionage@|@casusluk@
+@essay@|@makale yazı deneme@
+@essence@|@esas nitelik@
+@essential@|@esaslı gerekli@
+@establish@|@kumak yerleştirmek@
+@establishment@|@egemen çevreler ileri gelenle@
+@estate@|@mal mülk arsa@
+@esteem@|@itibar saygı takdir@
+@estimate@|@hesap tahmin@
+@estrange@|@soğutmak uzaklaştırmak@
+@estuary@|@nehir ağzı haliç@
+@eternal@|@sonsuz ölümsüz@
+@ether@|@eter esir gökyüzü@
+@evacuate@|@boşaltmak@
+@evade@|@sakınmak@
+@evaporate@|@buharlaştırmak@
+@evasion@|@kaçınma kaçamak@
+@even@|@düz tam denk hatta bile@
+@even if@|@olsa bile@
+@even number@|@çift sayı@
+@event@|@olay hal@
+@eventual@|@sonraki@
+@ever@|@daima her zaman hiç@
+@every now and then@|@arasıra@
+@every other day@|@günaşırı@
+@evidence@|@tanık delil kanıt@
+@evident@|@aşikar belli açık@
+@evil@|@fenalık kötülük@
+@evoke@|@uyandırmak aklına getirmek@
+@evolution@|@gelişme@
+@ewe@|@dişi koyun@
+@ex_@|@sabık eski ölü@
+@exact@|@tam doğru gerektirmek talep e@
+@exaggerate@|@mübalağa@
+@exalt@|@yükseltmek övmek@
+@exalt at@|@_e çok sevinmek@
+@excavate@|@kazmak kazı@
+@exceed@|@aşmak geçmek@
+@excel@|@geçmek üstün olmak@
+@except@|@hariç _den başka@
+@excess@|@ifrat aşırılık@
+@excite@|@kışkırtmak heyecanlandırmak@
+@exclaim@|@bağırmak@
+@exclusive@|@tek özel biricik@
+@excursion@|@gezinti@
+@excuse@|@özür mazeret bahane@
+@execute@|@yapma ifa idam@
+@exemplary@|@ibret, örnek verici@
+@exempt@|@muaf@
+@exert@|@sarfetmek kullanmak@
+@exhale@|@(koku)çıkarmak@
+@exhibit@|@teşhir sergi@
+@exist@|@varolma yaşama@
+@exorbitant@|@aşırı@
+@expand@|@genişletmek@
+@expect@|@beklemek ummak@
+@expedient@|@yararlı uygun çare@
+@expedition@|@acele sefer gezi@
+@expeditious@|@süratli@
+@expel@|@atmak kovmak@
+@expend@|@sarfetmek harcamak@
+@expense@|@masraf gider@
+@experience@|@tecrübe deneme görgü@
+@experiment@|@tecrübe deney@
+@expire@|@son, son nefes@
+@explicit@|@açık kesin@
+@explode@|@patla(t)mak@
+@exploit@|@sömürmek@
+@exploration@|@araştırma keşif@
+@explosion@|@patlama@
+@expose@|@açığa vurmak sergilemek@
+@express@|@açık kesin süratli@
+@expropriation@|@kamulaştırma@
+@expulsion@|@kovma çıkarma@
+@exquisite@|@ince seçkin@
+@extend@|@uzatmak genişletmek yaymak@
+@extent@|@derece had büyüklük mesafe@
+@exterior@|@dış taraf dış görünüş@
+@external@|@dış, dıştan gelen@
+@extinct@|@soyu tükenmiş bitmiş@
+@extinguish@|@(yangın)söndürmek@
+@extirpate@|@imha etme yok etme@
+@extortion@|@zorla alma gasp@
+@extract@|@çıkarmak koparmak nesil soy@
+@extraordinary@|@sıradışı garip@
+@extravagance@|@israf aşırılık@
+@extricate@|@kurtarmak@
+@exuberant@|@coşkun bol@
+@eyebrow@|@kaş@
+@eyelash@|@kirpik@
+@eyelid@|@gözkapağı@
+@fable@|@masal efsane@
+@fabric@|@yapı kumaş@
+@fabulous@|@efsane@
+@facilitate@|@kolaylaştırmak@
+@fact@|@gerçek durum@
+@faction@|@hizip ayrılık@
+@faculty@|@yetenek güç fakülte@
+@faint@|@baygın zayıf@
+@fairly@|@oldukça@
+@fairy@|@peri@
+@fake@|@taklit uydurma şarlatan@
+@falcon@|@doğan şahin@
+@falsify@|@bozmak taklit etmek@
+@falter@|@kekelemek sendelemek@
+@famine@|@kılık@
+@fan@|@meraklı düşgün, yelaze vantilatör@
+@fanciful@|@hayalperest@
+@fancy@|@hayal kapris geçici arzu@
+@fang@|@zehirli diş azı dişi@
+@fantastic@|@hayali acaip garip@
+@farce@|@saçma@
+@fare@|@yolluk veda@
+@farther@|@daha uzak daha öte@
+@fast@|@çabuk tez hızlı ileri, oruç perhiz@
+@fastener@|@bağlaç toka çıtçıt@
+@fastidious@|@titiz kolay beğenmez@
+@fatal@|@ölümcül@
+@fatigue@|@yor(ul)mak@
+@faucet@|@musluk@
+@favour@|@lütuf iltimas kayırma@
+@fawn@|@açık kahcerengi, geyik yavrusu@
+@fear@|@korku endişe@
+@feasible@|@yapılabilir mümkün@
+@feast@|@ziyafet bayram yortu@
+@feat@|@beceri başarı@
+@feature@|@özellik yüz çehre@
+@fee@|@ücret vizite harç@
+@feeble@|@zayıf dermansız@
+@felicitate@|@kutlamak@
+@felon@|@suçlu cinayet ağır suç@
+@fender@|@çamurluk@
+@ferment@|@maya(lanma)@
+@ferocious@|@yırtıcı vahşi@
+@fertile@|@bereketli verimli@
+@fervent@|@hararetli ateşli@
+@festive@|@şen neşeli@
+@fetch@|@gidip getirmek@
+@fetter@|@zincir köstek@
+@feud@|@kan davası@
+@fever@|@ateş humma@
+@fiance@|@nişanlı@
+@fickle@|@kararsız@
+@fiction@|@roman hayal yalan@
+@fiddle@|@keman(çalmak)@
+@fidelity@|@sadakat vefa@
+@fidget@|@rahat oturamamak@
+@fierce@|@vahşi azgın@
+@fiery@|@ateşli coşkun@
+@fig@|@incir@
+@figurative@|@mecazi@
+@fill@|@dolmak kabarmak@
+@filth@|@kir pislik@
+@fin@|@yüzgeç@
+@fine@|@ince güzel zarif hoş, para cezası@
+@finger nail@|@tırnak@
+@firm@|@sabit sağlam bükülmez firma@
+@firstaid@|@ilkyardım@
+@fiscal@|@mali@
+@fist@|@yumruk fiske@
+@fit@|@uymak, donatmak, hastalık nöb@
+@fit on@|@takmak prova etmek@
+@fitter@|@tesisatçı borucu@
+@fivefold@|@beşmisli@
+@fix@|@(gözlerini)dikmek güçdurum, takmak yerleştirmek tamir@
+@flabby@|@gevşek@
+@flake@|@kar, lapa, ince tabaka@
+@flank@|@yan bitişik@
+@flap@|@sarkık parça, kapak kanat@
+@flare@|@alevlenmek hiddetlenmek@
+@flask@|@küçük şişe termos@
+@flatten@|@yassılamak@
+@flatter@|@pohpohlamak@
+@flavour@|@tat lezzet çeşni@
+@flaw@|@çatlak yarık noksan kusur@
+@flee@|@kaçmak@
+@fleece@|@yünlü post, aldatmak kazıklam@
+@fleet@|@süratli hızlı donanma@
+@flesh@|@et vücut ten@
+@flexible@|@bükülebilir uysal@
+@flicker@|@titremek oynamak@
+@flight@|@uçuş firar kaçış basamak@
+@flimsy@|@ince gevşek@
+@flinch@|@sakınmak kaçınmak@
+@fling@|@fırlatma atma@
+@flint@|@çakmaktaşı@
+@flippant@|@küstah@
+@flirt@|@flört yapmak@
+@flit@|@geçmek çırpınmak@
+@float@|@şamandıra, su üstünde durmak@
+@flock@|@sürü toplanmak@
+@floe@|@buz kütlesi@
+@flog@|@kamçılamak dövmek@
+@flood@|@sel taşkın@
+@flop@|@çöküvermek düşüvermek@
+@florist@|@çiçekci@
+@flourish@|@sallamak gelişmek bayındır@
+@fluctuate@|@değişmek@
+@fluent@|@akıcı(söz)@
+@fluff@|@tüy hav@
+@flunk@|@sınavdan kalmak başaramamak@
+@flurry@|@ani rüzgar sağanak@
+@flush@|@birden akmak akıtmak (yüzü)kı@
+@fluster@|@telaş@
+@flutter@|@çırpınma telaş@
+@flux@|@akış değişiklik@
+@foal@|@tay sıpa@
+@foe@|@düşman@
+@fog@|@sis@
+@foil@|@engellemek@
+@fold@|@ağıl sürü, kıvrım kat(lamak)@
+@folk@|@halk ahali@
+@folly@|@ahmaklık@
+@foolproof@|@sağlam kusursuz@
+@ford@|@nehir geçidi sığ geçit@
+@forfeit@|@ceza, kaybetmek@
+@forlorn@|@kimsesiz ümitsiz@
+@formal@|@biçimsel,resmi@
+@former@|@önceki,eski sabık@
+@formidable@|@heybetli ürkütücü@
+@forsake@|@terketmek vazgeçmek@
+@forth@|@ileri dışarı açığa sonra@
+@forthcoming@|@gelecek@
+@forthwith@|@derhal hemen@
+@fortification@|@sağlamlaştırma kuvvetlendirme@
+@fortnight@|@iki hafta@
+@fortress@|@kale@
+@fortunate@|@talihli şanslı@
+@fortunately@|@hamdolsun çok şükür@
+@foster@|@beslemek@
+@foul@|@pis kirli bozuk iğrenç@
+@fowl@|@tavuk kuş@
+@fraction@|@çok küçük miktar parça@
+@fragment@|@kırılmış parça@
+@fragrance@|@güzel koku@
+@frail@|@zayıf narin@
+@fraternal@|@kardeşçe@
+@fraud@|@dolandırıcılık@
+@fray@|@yıpra(at)nmak@
+@free of charge@|@parasız bedava@
+@freight@|@yük@
+@fret@|@üzmek rahatsız etmek@
+@friction@|@sürtünme uyuşmazlık@
+@fried@|@kızartılmış@
+@fringe@|@saçak kenar@
+@frisk@|@sıçramak oynamak@
+@frock@|@kadın elbisesi@
+@frog@|@kurbağa@
+@frolic@|@neşe oynamak@
+@frost@|@don ayaz kırağı@
+@froth@|@köp(ük)ürmek@
+@frown@|@kaşlarını çatmak@
+@frugal@|@tutumlu idareli@
+@fruitless@|@verimsiz@
+@frustrate@|@önlemek hüsrana uğratmak@
+@fugitive@|@kaçak mülteci@
+@fulfill@|@yerine getirmek yapmak@
+@function@|@görev tören merasim@
+@fund@|@kapital stok fon@
+@funnel@|@baca huni boru@
+@furious@|@şiddetli öfkeli@
+@furnace@|@ocak@
+@furnish@|@döşemek donatmak@
+@furniture@|@mobilya@
+@furrier@|@kürkçü@
+@further@|@daha fazla daha öte ayrıca@
+@furtive@|@sinsi gizli@
+@fury@|@kızgınlık şiddet@
+@fusion@|@eritme birleşme@
+@fuss@|@telaş merak@
+@futile@|@beyhude boş@
+@gab@|@konuşkanlık@
+@gadget@|@hünerli alet, cihaz@
+@gait@|@yürüyüş gidiş@
+@gallant@|@cesur gösterişli nazik kibar@
+@gallop@|@dörtnala gidiş@
+@gallows@|@darağacı@
+@gamble@|@kumar (oynamak)@
+@gambol@|@sıçrama (oynama)@
+@gang@|@ekip takım@
+@gaol@|@cezaevi tutuklamak@
+@gap@|@yarık aralık boşluk eksiklik@
+@gape@|@esnemek ağzı açık kalmak@
+@gargle@|@gargara@
+@garland@|@çelenk@
+@garlic@|@sarmısak@
+@garment@|@elbise giysi@
+@garret@|@çatı arası@
+@garrulous@|@geveze@
+@gash@|@uzunca bıçak(yarası)@
+@gasket@|@conta@
+@gasoline@|@benzin@
+@gasp@|@solumak soluyarak konuşmak@
+@gaudy@|@zeksizce süslenmiş@
+@gauge@|@ölçü ayar(etmek)@
+@gauze@|@gazlı bez@
+@gaze at@|@dik dik bakmak@
+@gazelle@|@ceylan@
+@gear@|@eşya giyim vites@
+@gem@|@kıymetli taş@
+@gender@|@ismin cinsi@
+@generosity@|@cömertlik@
+@genial@|@güler yüzlü hoş@
+@genuine@|@gerçek hakiki@
+@germ@|@mikrop tohum@
+@germinate@|@filizlenmek@
+@gesture@|@hareket jest@
+@get about@|@yayılmak dolaşmak@
+@get along@|@geçinmek@
+@get away@|@kaçmak kurtulmak@
+@get to know@|@tanımak@
+@gibe at@|@_ile alay etmek@
+@giblets@|@tavuk sakadatı@
+@gigantic@|@kocaman@
+@giggle@|@kıkır kıkır gülmek@
+@gill@|@solungaç@
+@giraffe@|@zürafa@
+@gird@|@sarmak kuşatmak@
+@girder@|@kiriş direk@
+@give in@|@teslim olmak pes etmek@
+@glacier@|@buzul@
+@glamorous@|@göz alıcı@
+@glance@|@bakış göz atmak@
+@glare@|@kamaştırıcı ışık dargın bakış@
+@glaze@|@sır cila@
+@gleam@|@parıltı@
+@glib@|@akıcı konuşan çevik@
+@glimpse@|@kısa bakış kısa görmek@
+@glint@|@parıldamak@
+@gloat@|@şeytanca bir zevkle seyretmek@
+@gloom@|@karanlık hüzün@
+@glorify@|@yüceltmek methetmek@
+@glove@|@eldiven@
+@glow@|@kızıllık hararet@
+@glutton@|@obur@
+@gnash@|@gıcırda(t)mak@
+@gnat@|@sivrisinek@
+@go by@|@geçmek@
+@go for@|@almaya gitmek@
+@goad@|@dürtmek@
+@goat@|@keçi@
+@goblet@|@kadeh@
+@godchild@|@vaftiz çocuğu@
+@goddess@|@tanrıça@
+@godfather@|@vaftiz babası@
+@goggle@|@şaşı gözlük@
+@goodnothing@|@işe yaramaz@
+@goodwill@|@iyiniyet saygınlık@
+@gorge@|@boğaz gırtlak dar@
+@gospel@|@incil@
+@gossip@|@dedikodu@
+@gown@|@cüppe@
+@grab@|@kapmak ele geçirmek@
+@grace@|@lütuf nezaket@
+@gracious@|@şirin nazik bağışlayıcı@
+@gradient@|@yokuş@
+@grant@|@bağış hibe tahsisat ödenek@
+@granular@|@taneli@
+@grasp@|@tutma kavrama@
+@grate@|@demir parmaklık ızgara@
+@grateful@|@minnettarlık@
+@grater@|@rende@
+@gratuity@|@bahşiş bedava@
+@gravy@|@etsuyu salça@
+@graze@|@otla(t)mak@
+@greed@|@hırs açgözlü@
+@greet@|@selamlama@
+@grief@|@keder acı@
+@grim@|@haşin korkunç@
+@grimace@|@yüzünü buruşturma@
+@grin@|@sırıtma@
+@grind@|@öğütmek ufalamak bilemek@
+@grip@|@sıkı tutma kavrama@
+@gripes@|@sancı acı@
+@groan@|@inilti@
+@grocer@|@bakkal@
+@grope@|@elle aramak@
+@grow@|@olmak büyümek yetişmek@
+@growl@|@hırlamak@
+@grudge@|@kin garez@
+@grumble@|@mırıldanmak şikayet etmek@
+@guess@|@tahmin@
+@guidance@|@rehberlik@
+@gull@|@martı@
+@gulp@|@yudum yutmak@
+@gum@|@zamk dişeti@
+@gust@|@rüzgar bora@
+@habit@|@adet alışkanlık@
+@hack@|@çentmek yarmak@
+@haggard@|@bitkin görünüşlü@
+@halter@|@yular idam ipi@
+@ham@|@janbon@
+@hamper@|@büyük sepet engel olmak@
+@handkerchief@|@mendil@
+@handle@|@sap kulp kullanmak@
+@haphazard@|@rasgele gelişigüzel@
+@harass@|@tedirgin etmek rahat vermemek@
+@harden@|@katılaştırmak sertleştirmek@
+@harmony@|@uyum ahenk@
+@harrow@|@sürgü(lemek)@
+@harsh@|@sert haşin merhametsiz@
+@harvest@|@hasat ürün@
+@hash@|@kıymalı(yemek) doğramak@
+@haste@|@çabuk acele@
+@hatch@|@kaporta yumurtadan çıkmak@
+@haughty@|@kibirli mağrur@
+@haunt@|@uğra(ma)k görünmek perili@
+@have got to@|@_e mecbur olmak@
+@haven@|@liman sığınak@
+@havoc of@|@çok zarar vermek@
+@hawk@|@doğan@
+@hawthorn@|@diken@
+@hazard@|@riziko tehlike@
+@haze@|@sis pus@
+@hazel@|@fındık(ağacı)@
+@headline@|@başlık@
+@headlong@|@başıönde@
+@headmaster@|@okul müdürü@
+@headway@|@ilerleme@
+@heal@|@iyileşme şifa@
+@heap@|@yığın küme@
+@hearsay@|@söylenti@
+@hearse@|@cenaze arabası@
+@heartburn@|@mide ekşimesi@
+@heath@|@fundalık@
+@heave@|@kaldırmak atmak@
+@heaven@|@gök sema@
+@hebrew@|@yahudi ibranice@
+@hectic@|@heyecanlı telaşlı@
+@hedge@|@çit çalı engel@
+@heed@|@dikkat etmek kulak vermek@
+@heel@|@topuk ökçe alçak herif@
+@heinous@|@iğrenç kötü@
+@heir@|@varis mirasçı@
+@helmet@|@miğfer@
+@hem@|@kenar öksürmek@
+@hence@|@buradan bundan dolayı@
+@henna@|@kına@
+@henpecked@|@kılıbık@
+@herald@|@haberci müjdeci@
+@herb@|@ot bitki@
+@herd@|@sürü(büyükbaş)@
+@heredity@|@kalıtım@
+@herewith@|@bununla@
+@heritage@|@miras kalıt@
+@hermit@|@yalnızlığı seven kimse@
+@hew@|@yontmak yarmak@
+@hide@|@saklamak post@
+@hideous@|@çirkin iğrenç@
+@highbrow@|@fikir adamı@
+@highlight@|@ilgi çekici olay@
+@hijack@|@çalmak kaçırmak@
+@hike@|@yürümek@
+@hilarious@|@neşeli gürültülü@
+@hinder@|@engellemek mani olmak@
+@hindleg@|@arkaayak@
+@hinge@|@menteşe@
+@hip@|@kalça kaba et@
+@hit@|@vuruş darbe isabet başarı@
+@hitch@|@çekiş engel arıza@
+@hitchhike@|@otostop@
+@hither@|@buraya(kadar)@
+@hive@|@arı kovanı(gibi)@
+@hoard@|@saklamak stok@
+@hoarse@|@boğuk kısık@
+@hoax@|@şaka muziplik@
+@hobble@|@topallamak@
+@hobo@|@serseri aylak@
+@hoe@|@çapa(lamak)@
+@hog@|@domuz@
+@hoist@|@kaldıraç yük asansörü@
+@homage@|@saygı takdir@
+@homesick@|@sıla hasreti@
+@homicide@|@adam öldürme@
+@honk@|@klakson@
+@hooligan@|@serseri külhanbeyi@
+@hoop@|@kasnak çember@
+@hop@|@sekme sıçrama@
+@horizon@|@ufuk yatay@
+@horn@|@boynuz korna klakson@
+@horny@|@boynuzlu@
+@hose@|@hortum çorap@
+@hosiery@|@çorap iççamaşırı@
+@hospitality@|@misafirperverlik@
+@hostage@|@rehine tutsak@
+@hostel@|@öğrenci yurdu@
+@hostile@|@düşmanca@
+@hound@|@av(köpeği) takip iz@
+@howl@|@uluma bağırma@
+@humanbeing@|@insanoğlu@
+@humble@|@alçak gönüllü@
+@humbug@|@şarlatanlık aldatma yalan@
+@humorous@|@gülünç komik@
+@hump@|@kambur tümsek@
+@hunt@|@av(lanmak)@
+@hurdle@|@çit engel@
+@hurl@|@fırlatmak@
+@hustle@|@itişip kakışma@
+@identical@|@aynı@
+@idiom@|@şive lehçe deyim@
+@idle@|@aylak boş tembel@
+@idolater@|@putperest@
+@ignorance@|@cahillik önemsememek@
+@illegible@|@okunaksız@
+@illegitimate@|@kanunsuz evlilik dışı@
+@illicit@|@yasadışı haram@
+@illiterate@|@okuma yazma bilmeyen@
+@imbecile@|@ahmak budala@
+@imitate@|@taklit@
+@immaculate@|@lekesiz@
+@immaterial@|@önemsiz@
+@immature@|@olgunlaşmamış@
+@immense@|@çok büyük engin@
+@immerse@|@daldırmak@
+@immobile@|@hareketsiz@
+@immoderate@|@ölçüsüz aşırı@
+@immodest@|@açık saçık@
+@immoral@|@ahlaksız@
+@immortal@|@ölümsüz@
+@immunity@|@dokunulmazlık@
+@impact@|@vuruş etki@
+@impassive@|@duygusuz@
+@impatient@|@sabırsız@
+@impediment@|@mania engel@
+@imperative@|@mecburi zorunlu@
+@imperfect@|@eksik kusurlu@
+@imperial@|@şahane imparatorluğa ait@
+@imperil@|@tehlikeye düşürmek@
+@implement@|@alet araç@
+@imply@|@ima etmek@
+@importance@|@önem@
+@in advance@|@peşin olarak@
+@in any case@|@herhalde@
+@in case of@|@_dığında@
+@in common@|@ortaklaşa@
+@in due course@|@sırası gelince@
+@in due time@|@zamanı gelince@
+@in place of@|@...yerine@
+@in that case@|@o takdirde@
+@in the country@|@kırda köyde@
+@incendiary@|@kundakçı@
+@incentive@|@dürtü neden@
+@incident@|@olay tesadüf@
+@incite@|@teşvik kışkırtma@
+@incompetent@|@ehliyetsiz@
+@inconsiderate@|@saygısız düşüncesiz@
+@inconvenient@|@zahmetli rahatsız@
+@incur@|@uğramak yakalanmak@
+@indebted@|@borçlu@
+@indecent@|@utanmaz yüzsüz@
+@indispensable@|@vazgeçilmez@
+@individual@|@birey fert kimse@
+@indomitable@|@boyun eğmez@
+@indulge@|@hoşgörü düşgünlük@
+@inert@|@hareketsiz tembel@
+@inevitable@|@kaçınılmaz@
+@infamy@|@rezalet@
+@infant@|@çocuk bebek@
+@infantry@|@piyade asker@
+@infect@|@bulaştırmak@
+@inferior@|@aşağı alt ikinci derecede@
+@infernal@|@cehenneme ait şeytanca@
+@infest@|@sarmak zarar vermek@
+@inflate@|@şişirmek enflasyon@
+@inform@|@haber vermek@
+@infringe@|@bozma ihlal@
+@inhabit@|@oturmak ikamet etmek@
+@inhale@|@içine çekmek@
+@inherent@|@doğuştan doğal@
+@inherit@|@miras almak@
+@injustice@|@adaletsizlik@
+@inkling@|@ima seziş@
+@inmate@|@oturan@
+@inner@|@iç@
+@innkeeper@|@otelci hancı@
+@innumerable@|@sayısız@
+@inquire@|@soruşturmak@
+@insane@|@deli@
+@insect@|@böcek@
+@insecure@|@emniyetsiz@
+@insolent@|@küstah terbiyesiz@
+@inspect@|@teftiş muayene@
+@inspire@|@ilham esin@
+@instance@|@misal örnek@
+@instant@|@hemen olan@
+@intense@|@keskin şiddetli@
+@intercept@|@yolunu kesmek@
+@interdict@|@yasaklamak@
+@interior@|@içerde@
+@interpose@|@arasına koymak@
+@interrogate@|@sorguya çekmek@
+@intersect@|@ikiye bölmek kesişmek@
+@interurban@|@şehirlerarası@
+@interval@|@fasıla süre@
+@intrude@|@zorla sok(ul)mak@
+@intuition@|@sezgi içine doğma@
+@invade@|@saldırmak istila@
+@invest@|@yatırmak yatırım@
+@invincible@|@yenilmez@
+@irrelevant@|@konu dışı@
+@irrigate@|@sulamak@
+@ivy@|@sarmaşık@
+@jack@|@kriko bacak vale@
+@jar@|@kavanoz@
+@jealous@|@kıskanç@
+@jeer@|@alay yuha@
+@jeopardize@|@tehlikeye koymak@
+@jew@|@yahudi@
+@jog@|@sarsmak yavaş gezinti@
+@jolly@|@neşeli@
+@joy@|@sevinç neşe@
+@jug@|@testi çömlek@
+@juvenile@|@gençlik@
+@keen@|@keskin şiddetli düşgün olmak@
+@keepsake@|@hatıra@
+@kidney@|@böbrek@
+@kin@|@akraba@
+@kindle@|@tutuş(tur)mak yakmak@
+@kindness@|@şefkat nezaket@
+@kindred@|@akrabalık@
+@kite@|@uçurtma@
+@kitten@|@yavru kedi@
+@knack@|@hüner ustalık@
+@knob@|@topuz tokmak@
+@labo(u)r@|@iş çalışma emek zahmet@
+@lace@|@bağ şerit dantel@
+@lack@|@noksan eksiklik@
+@lackey@|@uşak dalkavuk@
+@ladder@|@merdiven@
+@lame@|@topal(lamak)@
+@lance@|@mızrak deşmek yarmak@
+@landscape@|@manzara@
+@languish@|@gevşemek zayıf düşmek@
+@lap@|@dizüstü kucak etek@
+@lard@|@domuz yağı@
+@lascivious@|@şehvetli@
+@lash@|@kamçı kirpik@
+@lassitude@|@yorgunluk@
+@last@|@son devam etmek@
+@latch@|@mandal sürgü@
+@late@|@geç ölü rahmetli@
+@lather@|@sabun köpüğü@
+@latter@|@son,sonraki@
+@lattice@|@kafes@
+@laudable@|@övgüyedeğer@
+@lavish@|@müsrif@
+@lawn@|@çimen@
+@lay@|@durum koymak yatırmak@
+@layout@|@düzen tertip@
+@lazy@|@tembel@
+@lead@|@kılavuz öncü, kurşun@
+@lead astray@|@baştan çıkarmak@
+@leak@|@delik akıntı@
+@lean@|@daya(n)mak, zayıf@
+@leap@|@atlama sıçrama@
+@lease@|@kira(lamak)@
+@leather@|@kösele meşin deri@
+@ledge@|@çıkıntı kaya tabakası@
+@leek@|@pırasa@
+@leer at@|@kötü niyetle bakmak@
+@legacy@|@miras@
+@legible@|@okunaklı@
+@leisure@|@boş vakit@
+@lest@|@olmasın diye, belki@
+@let alone@|@şöyle dursun!@
+@lettuce@|@salata@
+@lewd@|@şehvet düşkünü@
+@liability@|@sorumluluk@
+@lick@|@yalamak dayak atmak@
+@likelihood@|@ihtimal@
+@lily@|@zambak@
+@linen@|@keten iççamaşırı@
+@lining@|@astar@
+@literal@|@sözlü, edebiyat@
+@livelihood@|@geçim@
+@liver@|@karaciğer@
+@loaf@|@ekmek vakit geçirmek@
+@loath@|@isteksiz@
+@loathe@|@iğrenç@
+@lobe@|@kulakmemesi@
+@lobster@|@istakoz@
+@locust@|@çekirge@
+@lodge@|@kulübe,loca yerleştirmek barı@
+@log@|@kütük@
+@loiter@|@gezmek dolaşmak@
+@long for@|@can atmak çok istemek@
+@long run@|@eninde sonunda@
+@longing@|@özlem arzu@
+@loop@|@ilmek düğüm@
+@loose@|@gevşek başıboş@
+@loot@|@ganimet yağma@
+@lorry@|@üstü açık yük arabası@
+@lot@|@hisse pay talih çok miktar@
+@lounge@|@dinlenme salonu@
+@lout@|@kaba adam@
+@low@|@böğürmek alçak@
+@loyal@|@sadık@
+@lubricate@|@yağlamak@
+@luck@|@talih kader şans@
+@ludicrous@|@gülünç@
+@lug@|@sürüklemek@
+@lull@|@uyuşturmak@
+@lump@|@topak yumru@
+@lung@|@akciğer@
+@lunge at@|@ileri atılmak@
+@lure@|@cazibe tuzak@
+@lust@|@şehvet hırs@
+@mad@|@çılgın kuduz öfkeli@
+@magnet@|@mıknatıs@
+@magnificence@|@görkem ihtişam@
+@magnify@|@büyütmek@
+@maid@|@hizmetçi kız@
+@main@|@esas başlıca@
+@maintain@|@sürdürmek korumak@
+@maize@|@mısır@
+@make for@|@_in yolunu tutmak@
+@make out@|@anlamak çözmek@
+@make over@|@devretmek@
+@malice@|@kötü niyet@
+@malignant@|@kötü yürekli@
+@malnutrion@|@kötü beslenme@
+@mammal@|@memeli@
+@mandate@|@vekillik manda@
+@manifest@|@açıkça göstermek@
+@manifold@|@türlü türlü, çoğaltmak@
+@manipulate@|@hünerle kullanmak@
+@manure@|@gübre@
+@marble@|@mermer bilye@
+@margin@|@kenar ara kazanç@
+@maritime@|@denizciliğe ait@
+@mark@|@işaret iz leke marka@
+@martial@|@harbe ait@
+@martyr@|@şehit@
+@marvel@|@mucize hayret@
+@masculine@|@erkeğe ait erkeksi@
+@mash@|@ezme püre@
+@mason@|@duvarcı@
+@mass@|@yığın küme kilise ayini@
+@massacre@|@katliam@
+@mast@|@gemi direği@
+@mat@|@hasır paspas@
+@mate@|@eş arkadaş evlenmek@
+@maternal@|@anaya ait@
+@matron@|@amir kadın@
+@mature@|@olgun erişkin reşit@
+@mayor@|@belediye başkanı@
+@maze@|@labirent@
+@measles@|@kızamık@
+@medieval@|@ortaçağa ait@
+@meditate@|@düşünceye dalmak@
+@mellow@|@olgun yumuşak@
+@melt@|@eri(t)mek@
+@member@|@üye organ uzuv@
+@membrane@|@zar@
+@menace@|@tehdit@
+@mend@|@onarmak yamamak@
+@menstruation@|@aybaşı@
+@mention@|@anma zikretme@
+@mercantile@|@ticari@
+@mercenary@|@ücretli asker@
+@merchandise@|@ticari eşya@
+@merciful@|@merhametli@
+@mere@|@sade saf@
+@merely@|@sadece ancak@
+@merge@|@birleştirmek@
+@merit@|@değer fazilet@
+@meticulous@|@çok titiz@
+@migrate@|@göçmek@
+@mild@|@hafif yumuşak@
+@mill@|@değirmen öğütmek@
+@minaret@|@minare@
+@mince@|@kıyma@
+@mindful@|@dikkatli@
+@mine@|@maden mayın kazmak@
+@mingle@|@karış(tır)mak@
+@minister@|@bakan papaz@
+@minstrel@|@halk ozanı@
+@mint@|@darphane, nane@
+@mirage@|@serap@
+@mire@|@çamur pislik@
+@mirth@|@neşe@
+@mischief@|@yaramaz fesat@
+@misdeed@|@kötülük@
+@miser@|@cimri@
+@miserable@|@sefalet@
+@misfortune@|@talihsizlik@
+@misgiving@|@şüphe@
+@misguide@|@yanlış kılavuzluk@
+@mishap@|@kaza aksilik@
+@mislay@|@kaybetmek@
+@misprint@|@baskı hatası@
+@mispronounce@|@yanlış söylemek@
+@miss@|@bayan, vuramamak@
+@misspell@|@yanlış yazmak@
+@mist@|@sis duman@
+@misty@|@bulanık@
+@moderate@|@ılımlı hafifletmek@
+@modest@|@alçakgönüllü gösterişsiz@
+@modification@|@değişiklik@
+@moist@|@nem rutubet@
+@mold@|@küf kalıp@
+@mole@|@leke dalgakıran köstebek@
+@molest@|@rahatsız etmek@
+@mollify@|@yumuşatmak@
+@moment@|@an@
+@momentary@|@geçici@
+@momentous@|@önemli@
+@monogamy@|@tekeşlilik@
+@monument@|@anıt abide@
+@mood@|@mizaç ruhsal durum@
+@mop@|@silme bezi paspas@
+@morsel@|@lokma parça@
+@moth@|@güve pervane@
+@motto@|@özdeyiş@
+@mourn@|@yas tutmak@
+@mow@|@biçmek@
+@muffle@|@sarmak (sesi)boğmak@
+@mug@|@bardak@
+@mumble@|@mırılda(n)mak@
+@mummy@|@mumya@
+@municipal@|@belediyeye ait@
+@mushroom@|@mantar@
+@mussel@|@midye@
+@mustard@|@hardal@
+@mute@|@sessiz dilsiz@
+@mutineer@|@asi@
+@mutter@|@mırıltı@
+@mutual@|@karşılıklı ortak@
+@nag@|@dırdır etmek@
+@nail@|@tırnak çivi(lemek)@
+@naive@|@saf bön@
+@naked@|@çıplak@
+@namely@|@yani şöyleki@
+@nanny@|@dadı@
+@nap@|@şekerleme kısa uyku@
+@nape@|@ense@
+@napkin@|@peçete kundak bezi@
+@narrate@|@anlatmak hikaye@
+@nasty@|@kötü pis fena@
+@native@|@yerli doğuştan@
+@native language@|@anadil@
+@nature@|@doğa yaradılış@
+@naughty@|@yaramaz haylaz@
+@nausea@|@bulantı iğrenme@
+@nautical@|@gemiciliğe ait@
+@naval@|@şavaş gemileriyle ilgili@
+@navel@|@göbek@
+@navy@|@donanma@
+@neat@|@temiz zarif@
+@neck@|@boyun gerdan boğaz@
+@needle@|@iğne ibre@
+@negate@|@inkar etmek@
+@neglect@|@ihmal etmek@
+@negotiate@|@müzakere@
+@negress@|@zenci kadın@
+@negro@|@zenci@
+@neigh@|@kişnemek@
+@nephew@|@erkek yeğen@
+@nerve@|@sinir cesaret@
+@neutral@|@yansız tarafsız@
+@nevertheless@|@bununla beraber yinede@
+@nibble@|@kemirmek@
+@niece@|@kız yeğen@
+@nil@|@hiç sıfır@
+@nimble@|@çevik tez@
+@nip@|@ayaz çimdik azıcık içki@
+@nipple@|@memebaşı@
+@nobility@|@asalet soyluluk@
+@nocturnal@|@geceye ait@
+@nomad@|@göçebe@
+@nominate@|@atamak@
+@nosegay@|@çiçek demeti@
+@nostril@|@burun deliği@
+@notation@|@sembolle gösterim@
+@nought@|@sıfır@
+@novice@|@çırak@
+@nozzle@|@ağızlık meme@
+@nudge@|@dürtme@
+@nuisance@|@sıkıcı@
+@numb@|@uyuşuk duygusuz@
+@numerous@|@pekçok@
+@nun@|@rahibe@
+@nuptial@|@düğün nikah@
+@nurse@|@hemşire dadı emzirmek@
+@nursery@|@çocuk odası fidanlık@
+@nut@|@fındık ceviz vida@
+@nutriment@|@gıda@
+@oar@|@kürek@
+@oasis@|@vaha@
+@oath@|@yemin küfür@
+@obedience@|@itaat@
+@obituary@|@ölüm ilanı@
+@oblige@|@zorunlu minnettar@
+@oblique@|@eğri meyilli@
+@obliterate@|@silmek yok etmek@
+@oblivious@|@unutkan@
+@oblong@|@dikdörtgen@
+@obscure@|@çapraşık karanlık@
+@obsess@|@musallat olmak@
+@obsolete@|@eskimiş@
+@obstacle@|@engel@
+@obstinate@|@inatçı dikkafalı@
+@obstruct@|@tıkamak engel olmak@
+@obtain@|@bulmak ele geçirmek@
+@obvious@|@belli açık@
+@occasion@|@fırsat vesile sebep@
+@occupation@|@işgal meslek iş@
+@ocular@|@göze ait@
+@odd@|@tuhaf acaip tek seyrek fark@
+@offence@|@suç kabahat hakaret@
+@offensive@|@saldırı çirkin@
+@officious@|@işgüzar@
+@offset@|@denkleştirmek@
+@offspring@|@döl ürün@
+@olive@|@zeytin@
+@omit@|@atlamak ihmal etmek@
+@on credit@|@veresiye@
+@on edge@|@sinirli@
+@onion@|@soğan@
+@opponent@|@rakip karşıt@
+@oppose@|@direnmek engel olmak@
+@oppress@|@sıkıştırmak zulmetmek@
+@order@|@düzen dizi sipariş sınıf@
+@orient@|@doğuya ait@
+@orphan@|@yetim@
+@out of place@|@yersiz@
+@outcome@|@sonuç@
+@outlet@|@çıkış yeri delik@
+@outline@|@taslak@
+@output@|@verim@
+@overcast@|@bulutlu@
+@overcharge@|@aşırı yükleme@
+@overcome@|@yenmek@
+@overdo@|@abartmak@
+@overdraw@|@fazla para çekmek@
+@overdue@|@vadesi geçmiş@
+@overestimate@|@fazla tahmin etmek@
+@overflow@|@taşma baskın@
+@overrate@|@fazla önem vermek@
+@oversee@|@yönetmek@
+@oversight@|@kusur@
+@oversize@|@fazla büyük@
+@overturn@|@devirmek@
+@owe@|@borçlu olmak@
+@pace@|@adım yürüyüş@
+@pact@|@anlaşma sözleşme@
+@padlock@|@asma kilit@
+@pamper@|@şımartmak@
+@parade@|@gösteri@
+@paramount@|@üstün en önemli@
+@pare@|@yontmak kabuğunu soymak@
+@parish@|@cemaat@
+@parlour@|@oturma odası@
+@parrot@|@papağan@
+@parsley@|@maydonoz@
+@partial@|@eksik taraflı@
+@participant@|@katılan paylaşan@
+@particular@|@belirli özel titiz ayrıntı@
+@partition@|@taksim bölme@
+@partly@|@kısmen@
+@pass@|@boğaz geçit aşmak@
+@passion@|@ihtiras tutku aşk@
+@pastry@|@hamurişi@
+@pasture@|@otlak çayır@
+@pat@|@elle vurmak@
+@patch@|@yama arazi parçası@
+@path@|@keçiyolu patika@
+@patience@|@sabırlı hasta@
+@patriot@|@yurtsever@
+@patrol@|@devriye@
+@paw@|@pençe ellemek@
+@pawn@|@rehin@
+@payday@|@maaşgünü@
+@peach@|@şeftali@
+@peal@|@gürültü çan çalmak@
+@pear@|@armut@
+@pearl@|@inci@
+@peasant@|@köylü@
+@peculiar@|@özel tuhaf garip@
+@pedlar@|@seyyar satıcı@
+@peek@|@dikiz röntgen@
+@peel@|@kabuk, soymak@
+@peep@|@bakış dikiz@
+@penance@|@kefaret ceza pişmanlık@
+@penetrate@|@delip girmek@
+@peninsula@|@yarımada@
+@penitentiary@|@ıslahevi cezaevi@
+@penniless@|@parasız@
+@pensive@|@dalgın düşünceli@
+@pepper@|@biber@
+@per@|@vasıtasıyla@
+@perceive@|@görmek anlamak@
+@percussion@|@vurma çarpma@
+@perfect@|@tam kusursuz@
+@perforate@|@delmek@
+@perform@|@yapmak yerine getirmek@
+@peril@|@tehlike@
+@perish@|@ölmek mahvolmak@
+@perjury@|@yalanyere yemin eden@
+@permanent@|@sürekli@
+@permeable@|@geçirgen@
+@permit@|@müsaade kabul@
+@perpendicular@|@dikey düşey@
+@perpetual@|@sürekli kalıcı@
+@persevere@|@sebat@
+@persian@|@iranlı@
+@persist@|@ısrar etmek@
+@person@|@şahıs kimse@
+@personage@|@şahsiyet zat@
+@perspiration@|@ter(leme)@
+@persuade@|@ikna etmek@
+@pert@|@şımarık arsız@
+@perturb@|@altüst etmek@
+@perusal@|@dikkatle okumak@
+@pervade@|@kaplamak yayılmak@
+@perverse@|@ters aksi sapık@
+@pessimism@|@kötümserlik@
+@pest@|@veba baş belası@
+@pet@|@ev hayvanı@
+@petition@|@dilekçe@
+@petrify@|@taşlaşmak@
+@petticoat@|@iç etek@
+@petty@|@küçük önemsiz@
+@pew@|@(kilisede)sıra@
+@phantom@|@hayal görüntü@
+@phase@|@safha evre@
+@phony@|@sahte düzme@
+@phrase@|@deyim@
+@pick@|@kazmak delmek toplamak seçmek@
+@pickle@|@turşu@
+@pictorial@|@resimli@
+@pie@|@börek turta@
+@pier@|@iskele rıhtım@
+@pierce@|@delmek nufuz etmek@
+@pile@|@yığın küme istif@
+@pilfer@|@aşırmak@
+@pilgrim@|@hacı@
+@pill@|@hap@
+@pillar@|@direk sütun@
+@pillow@|@yastık@
+@pimp@|@pezevenk@
+@pimple@|@sivilce@
+@pin@|@topluiğne@
+@pincers@|@kerpeten@
+@pinch@|@çimdik tutam@
+@pine@|@çam zayıflamak@
+@pineapple@|@ananas@
+@pink@|@karanfil pembe@
+@pinnacle@|@kule zirve doruk@
+@pioneer@|@öncü istihkam@
+@pip@|@çekirdek@
+@piracy@|@korsanlık@
+@pirate@|@korsan@
+@pistachio@|@çamfıstığı@
+@pistol@|@tabanca@
+@pitch@|@kumak atmak fırlatmak@
+@piteous@|@acınacak@
+@pitfail@|@tuzak@
+@pith@|@öz ilik@
+@pitiabla@|@acıklı@
+@pity@|@acıma merhamet@
+@pivot@|@eksen@
+@placard@|@afiş poster@
+@placid@|@sakin uysal@
+@plague@|@veba nusibet@
+@plain@|@ova düz@
+@plaint@|@şikayet@
+@plait@|@örme örgü@
+@plane@|@düzlem rende uçak@
+@plant@|@bitki fabrika dikmek kurmak@
+@plaster@|@sıva alçı@
+@plate@|@tabak levha kaplamak@
+@playful@|@oyunbaz şakacı@
+@plea@|@savunma rica bahane@
+@plead@|@ileri sürmek savunmak@
+@pleasant@|@hoş latif@
+@pledge@|@rehin söz vaat@
+@pliers@|@kıskaç pense@
+@plod@|@ağır yürümek ağır çalışmak@
+@plot@|@suikast entrika@
+@pluck@|@koparmak yolmak cesaret yiğit@
+@plug@|@tapa tıkaç@
+@plum@|@erik@
+@plunder@|@yağma@
+@poem@|@şiir@
+@poignant@|@acı keskin@
+@poise@|@denge duruş hal@
+@poke@|@dürtmek dirsek@
+@pole@|@kutup direk kazık@
+@polish@|@cila perdah polonyalı@
+@poll@|@oy anket@
+@pollute@|@kirletmek@
+@polygamy@|@çokeşlilik@
+@pomp@|@gösteriş tantana@
+@pond@|@havuz gölcük@
+@pool@|@havuz toplamak@
+@poor@|@yoksul az fena@
+@pop@|@çat pat@
+@porch@|@sundurma veranda@
+@pore@|@gözenek derin düşünmek@
+@pork@|@domuz eti@
+@porter@|@hamal kapıcı@
+@portion@|@hisse pay çeyiz@
+@pose@|@tavır duruş poz@
+@possess@|@sahip malik@
+@possession@|@tasarruf mal@
+@posterity@|@gelecek nesiller@
+@pot@|@çömlek kavanoz@
+@potent@|@kuvvetli etkili@
+@potter@|@oyalanmak@
+@pounce on@|@_in üzerine atılmak@
+@pound@|@dövmek yumruklamak@
+@pour@|@ak(ıl)mak dök(ül)mek@
+@pout@|@somurtmak@
+@poverty@|@yoksulluk@
+@powder@|@toz pudra barut@
+@praise@|@övgü@
+@prank@|@kaba şaka oyun@
+@prattle@|@gevezelik@
+@pray@|@dua yalvarma@
+@preach@|@vaaz@
+@preamble@|@önsöz@
+@precarious@|@kararsız güvenilmez@
+@precaution@|@önlem tedbir@
+@precedence@|@önde gelme üstünlük@
+@precept@|@hüküm kural@
+@precinct@|@bölge çevre@
+@precious@|@kıymetli pahalı@
+@precipice@|@uçurum@
+@precipitate@|@zamanından önce hızlı acele@
+@precision@|@tam kesin@
+@preconception@|@önyargı@
+@predatory@|@yağma ile geçinen yırtıcı@
+@predicament@|@kötü durum@
+@predict@|@önceden bildirmek@
+@prefer@|@tercih@
+@preference@|@üstünlük@
+@preferment@|@terfi@
+@prelude@|@giriş başlangıç@
+@premier@|@baştaki ilk@
+@premium@|@ödül ikramiye@
+@prepay@|@peşin ödemek@
+@prescription@|@reçete@
+@presence@|@hazır bulunma@
+@presence of mind@|@soğukkanlılık@
+@presentation@|@sunma takdim temsil@
+@presently@|@birazdan derhal şimdi@
+@preside@|@başkanlık etmek@
+@presume@|@tahmin varsayım@
+@presuming@|@küstah haddini aşan@
+@pretence@|@bahane iddia@
+@pretend@|@yalandan yapmak@
+@pretender@|@hak iddia eden@
+@pretext@|@bahane@
+@pretty@|@güzel sevimli oldukça hayli@
+@prevalent@|@hüküm süren yaygın@
+@prevent@|@önlemek durdurmak@
+@prey@|@soymak yağma etmek@
+@prick@|@sokmak delmek diken@
+@pride@|@gurur kibir iftihar@
+@primary@|@ilk asıl başlıca@
+@prime@|@birinci başlıca@
+@primitive@|@ilkel kaba@
+@prior@|@önce@
+@privacy@|@özellik gizlilik@
+@private@|@kişisel gizli@
+@privilege@|@imtiyaz ayrıcalık@
+@prize@|@mükafat ödül@
+@probation@|@deneme süresi gözaltı@
+@proceed@|@ilerlemek çıkmak@
+@process@|@yöntem metod işlem@
+@proclaim@|@ilan beyan@
+@proclamation@|@ilan bildiri@
+@procure@|@elde etmek edinmek@
+@prodigious@|@kocaman şaşılacak@
+@produce@|@çıkarmak üretmek@
+@profess@|@açıkça söylemek ikrar@
+@professed@|@açıklanmış@
+@proffer@|@sunmak@
+@proficiency@|@yeterlik beceriklilik@
+@profit@|@kar kazanç yarar@
+@profound@|@derin engin@
+@progress@|@ilerleme gelişme@
+@prohibit@|@yasak etme engel olma@
+@prominent@|@seçkin tanınmış@
+@promise@|@söz vermek@
+@promote@|@ilerleme terfi@
+@prompt@|@hemen çabuk harekete geçme@
+@pronoun@|@zamir@
+@pronounce@|@söylemek telaffuz etmek@
+@proof@|@delil deneme prova@
+@propagate@|@üretmek yaymak@
+@propel@|@sevketmek@
+@proper@|@uygun özel gerçek doğru@
+@prophecy@|@önceden bildirme kahinlik@
+@proportion@|@orantı nispet@
+@proposal@|@öneri teklif@
+@propulsion@|@itici güç@
+@prose@|@nesir düzyazı@
+@prosecute@|@kovuşturma takip@
+@prospect@|@manzara görüş ihtimal@
+@prosper@|@başarılı olmak gelişmek@
+@prosperity@|@bolluk refah@
+@prostitute@|@fahişe@
+@protect@|@korumak@
+@proud@|@gururlu@
+@prove@|@kanıtlamak@
+@proverb@|@atasözü@
+@provide@|@tedarik etmek@
+@province@|@vilayet taşra yetki alanı@
+@provision@|@tedarik şart koşul@
+@prowl@|@dolaşmak gezinmek@
+@proximity@|@yakınlık@
+@proxy@|@vekillik@
+@puberty@|@ergenlik çağı@
+@public@|@halk aleni genel@
+@publish@|@yayınlamak@
+@puff@|@üflemek şişirmek@
+@pull@|@çekme çekiş@
+@pullover@|@kazak süveter@
+@pulverize@|@ezmek toz yapmak@
+@pump@|@tulumba pompa@
+@punch@|@yumruklama zımbalama@
+@punctual@|@dakik@
+@punctuate@|@noktalama@
+@puncture@|@patlak delik@
+@punish@|@cezalandırmak@
+@pupil@|@öğrenci gözbebeği@
+@puppet@|@kukla@
+@puppy@|@köpek yavrusu@
+@purchase@|@satın alma@
+@pure@|@saf temiz@
+@purple@|@mor@
+@purpose@|@maksat niyet@
+@purposely@|@bile bile@
+@pursue@|@takip kovalama@
+@push@|@itmek dürtmek@
+@pussy@|@kedi@
+@put@|@koymak yerleştirmek@
+@put right@|@düzeltmek@
+@putaway@|@saklamak@
+@putdown@|@indirmek bastırmak@
+@putoff@|@sonraya bırakmak@
+@puton@|@giymek takınmak@
+@putout@|@söndürmek çıkarmak@
+@puzzle@|@bilmece bulmaca@
+@quaint@|@tuhaf garip hoş@
+@quake@|@sarsıntı deprem@
+@quantity@|@nicelik miktar@
+@quarrel@|@kavga@
+@query@|@soru sormak@
+@queue@|@sıra kuyruk@
+@quick@|@çabuk tez çevik@
+@quicksilver@|@civa@
+@quiet@|@sakin sessiz@
+@quite@|@hayli oldukça@
+@quota@|@hisse pay@
+@rabbit@|@tavşan@
+@race@|@yarış koşu soy nesil@
+@rack@|@yorma işkence parmaklık@
+@racket@|@raket velvele gürültü@
+@racy@|@canlı açık saçık@
+@radiance@|@parlaklık(yaymak)@
+@radius@|@yarıçap@
+@raffle@|@piyango@
+@ragged@|@yırtık pürüzlü@
+@raid@|@akın baskın@
+@rail@|@sövmek tırabzan@
+@raise@|@kaldırmak yükseltmek@
+@ram@|@koç(vuruşu)@
+@ranch@|@büyük çiftlik@
+@range@|@sıra dizi erim menzil@
+@rank@|@rütbe sıra dizi@
+@ransom@|@fidye@
+@rapacious@|@açgözlü@
+@rape@|@ırzına geçme@
+@rapid@|@çabuk hızlı@
+@rapture@|@dalgın dalmış@
+@rare@|@seyrek ender@
+@rascal@|@çapkın serseri@
+@rash@|@kızarıklık, sabırsız düşüncesiz@
+@rat@|@sıçan@
+@rate@|@fiyat ücret, nispet oran@
+@rather@|@oldukça tersine@
+@ratification@|@onay tasdik@
+@ration@|@pay tayın miktar@
+@rational@|@akıl sahibi@
+@rattle@|@takırtı çıtırtı@
+@ravage@|@tahrip etmek@
+@raw@|@ham çiğ tecrübesiz@
+@ray@|@ışın@
+@reach@|@uzatma menzil erişim@
+@react@|@tepki vermek@
+@read@|@okumak göstermek@
+@readily@|@seve seve@
+@realestate@|@taşınmaz mal@
+@realize@|@anlamak@
+@realm@|@krallık ülke@
+@rear@|@dikmek yetiştirmek, geri arka, yükselmek şahlanmak@
+@rearmament@|@silahlandırma@
+@reason@|@akıl idrak sebep mantık@
+@reasonable@|@akla uygun@
+@reassure@|@tekrar güven vermek@
+@rebel@|@isyancı asi@
+@rebound@|@geri tepmek@
+@rebuke@|@azar paylama@
+@recede@|@geri çekilme@
+@receipt@|@reçete alındı@
+@receive@|@almak kabul etmek@
+@recent@|@yeni(olmuş)@
+@recipe@|@yemek tarifi@
+@recipient@|@alıcı@
+@reckless@|@dikkatsiz pervasız@
+@reckon@|@hesap etmek saymak, tahmin etmek güvenmek@
+@reclaim@|@geri istemek elverişli yapmak@
+@recline@|@uzanmak dayanmak@
+@recollect@|@hatırlamak@
+@recompense@|@ödüllendirme telafi@
+@reconcile@|@barıştırma@
+@recreation@|@dinlenme eğlence@
+@recruit@|@acemi er toplamak@
+@reduce@|@azaltmak indirmek@
+@reel@|@makara@
+@refine@|@arıtma tasfiye@
+@reflect@|@yansıtmak düşünmek@
+@refract@|@(ışınları)kırmak@
+@refrain@|@çekinmek sakınmak@
+@refund@|@parayı geri vermek@
+@refuse@|@reddetmek@
+@refute@|@yalanlamak@
+@regard@|@bakış nazar dikkat@
+@regarding@|@_ hakkında@
+@register@|@kütük sicil kayıt@
+@registeration@|@tescil@
+@regret@|@üzüntü pişmanlık@
+@regular@|@kural düzen intizam@
+@rehearsal@|@prova tekrar@
+@reinforce@|@kuvvetlendirmek@
+@reject@|@reddetmek atmak@
+@rejoice@|@sevin(dir)mek@
+@relate@|@anlatmak ilgili olmak@
+@relation@|@ilişki ilgi akrabalık@
+@relative@|@bağıntılı ilişkin@
+@release@|@kurtarma salıverme@
+@relent@|@yumuşamak@
+@relevance@|@ilgi uygunluk@
+@reliable@|@güvenilir@
+@relief@|@yardım imdat kabartma@
+@rely@|@güvenmek@
+@remand@|@geri göndermek@
+@remedy@|@çare ilaç@
+@remind@|@hatırlatmak@
+@remit@|@affetmek bağışlamak@
+@remote@|@uzak@
+@removal@|@kaldırma taşıma yolverme@
+@render@|@kılmak yapmak geri vermek@
+@renovate@|@yenileştirmek@
+@repartee@|@hazırcevap@
+@repay@|@geri ödemek@
+@repel@|@püskürtmek defetmek@
+@repent@|@pişman olmak@
+@repetition@|@tekrarlama@
+@replace@|@tekrar yerine koymak@
+@reply@|@cevap karşılık@
+@reprieve@|@geçici erteleme@
+@reprimand@|@azarlama@
+@reprove@|@ayıplama@
+@reputation@|@ün şöhret@
+@requisite@|@gerekli elzem@
+@requite@|@mükafatlandırmak@
+@resemble@|@benzemek@
+@resent@|@gücenmek@
+@reside@|@oturmak ikamet@
+@residue@|@artık@
+@resign@|@bırakmak vazgeçmek@
+@resist@|@karşı durmak@
+@resolute@|@kararlı cesur@
+@resort@|@dinlenme barınak@
+@respect@|@münasebet saygı itibar@
+@respite@|@paydos erteleme@
+@respond@|@cevap vermek@
+@response@|@cevap sorumluluk@
+@rest@|@dinlenmek, geri kalan artan@
+@restrain@|@geri tutmak sınırlamak@
+@restrict@|@kısıtlamak sınırlamak@
+@result@|@sonuç son@
+@resume@|@yeniden başlamak@
+@resurrection@|@yeniden diriltme@
+@retail@|@perakende satış@
+@retain@|@alıkoymak tutmak@
+@retard@|@geciktirmek@
+@retire@|@çekilmek emekli olmak@
+@retrieve@|@tekrar ele geçirmek@
+@reunion@|@yeniden birleşme@
+@revaluation@|@yeniden değerlendirme@
+@reveal@|@açığa vurmak göstermek@
+@revel@|@eğlenmek mest olmak@
+@revenge@|@öç intikam@
+@reverse@|@ters arka aksilik@
+@review@|@inceleme teftiş@
+@revise@|@gözden geçirme düzeltme@
+@revival@|@yeniden canlanma@
+@revoke@|@geri alma iptal@
+@revolt@|@ayaklanmak tiksinmek@
+@revolution@|@dönme devir devrim@
+@revolve@|@dönmek fırıldak@
+@reward@|@mükafat@
+@ribbon@|@kurdela şerit@
+@rid@|@kurtarmak başından atmak@
+@riddle@|@bilmece kalbur@
+@ride@|@binme gezinti@
+@rifle@|@tüfek@
+@right@|@sağ yetki doğru@
+@right away@|@hemen@
+@rigid@|@eğilmez sert@
+@riot@|@kargaşalık@
+@rip@|@yarık sökük dikiş@
+@ripe@|@olgunlaşmış@
+@ripple@|@küçük dalga@
+@rise@|@yükseliş artış@
+@rite@|@ayin tören@
+@rival@|@rakip@
+@roar@|@gürleme@
+@roast@|@kızarmış@
+@robe@|@kaftan üstlük@
+@rod@|@çubuk değnek@
+@rodent@|@kemirgen@
+@romance@|@aşk macerası@
+@rooster@|@horoz@
+@root@|@kök(leştirmek)@
+@rope@|@halat ip@
+@rosy@|@gül gibi ümit verici@
+@rough@|@pürüzlü kaba sert@
+@round@|@yuvarlak toparlak daire@
+@route@|@yol rota@
+@row@|@kavga patırtı, kürek çekmek, sıra dizi@
+@rowdy@|@külhanbeyi@
+@rub@|@sürtmek ovmak@
+@rubber@|@lastik kauçuk silgi@
+@rubbish@|@süprüntü çöp saçma@
+@rudder@|@dümen@
+@ruddy@|@kırmızı yanaklı@
+@rude@|@kaba terbiyesiz@
+@ruffle@|@buruşturmak@
+@rug@|@halı kilim@
+@rugged@|@engebeli@
+@ruin@|@harabe yıkım perişanlık@
+@rule@|@kural usül idare@
+@run down@|@bitmek@
+@run into@|@rast gelmek çarpmak@
+@run out@|@bitmek tükenmek@
+@run up to@|@erişmek@
+@runway@|@pist@
+@rural@|@köye ait@
+@rush@|@hamle saldırış@
+@rust@|@pas(lanmak)@
+@rustle@|@hışırtı@
+@rusty@|@paslı@
+@rut@|@cinsel azgınlık@
+@sack@|@torba çuval yağma@
+@sacred@|@kutsal@
+@sacrifice@|@kurban fedakarlık@
+@settle@|@oturmak yerleşmek@
+@sever@|@ayırmak koparmak@
+@sew@|@(dikiş)dikmek@
+@shade@|@gölge siper@
+@shake@|@silkmek sallamak@
+@shank@|@incik baldır@
+@shape@|@şekil biçim@
+@sharp@|@keskin sivri sert zeki@
+@shatter@|@kırmak parçalamak@
+@shave@|@tıraş@
+@sheer@|@halis saf@
+@shield@|@kalkan siper@
+@shift@|@değiştirme nöbet çare hile@
+@shipyard@|@tersane@
+@shirt@|@gömlek@
+@shock@|@sarsma sarsıntı@
+@shoot@|@ateş öldürme@
+@shore@|@kıyı sahil@
+@shortage@|@yokluk kıtlık@
+@shortcoming@|@kusur noksan@
+@shot@|@atış gülle@
+@shoulder@|@omuz@
+@shout@|@bağırma@
+@shower@|@sağanak duş@
+@shred@|@dilim(lemek)@
+@shrewd@|@kurnaz becerikli@
+@shrink@|@ürkmek çekinmek@
+@shrug@|@omuz silkme@
+@shudder@|@titreme ürperme@
+@shuffle@|@karıştırmak ayak sürtmek@
+@shut@|@kapatmak@
+@shuttle@|@mekik@
+@shy@|@çekingen utangaç@
+@sick@|@hasta bıkkın@
+@side@|@yan taraf kenar@
+@sight@|@görme manzara@
+@silence@|@sessizlik@
+@silk@|@ipek@
+@silver@|@gümüş@
+@similar@|@benzer@
+@simple@|@basit sade@
+@sin@|@günah@
+@sincere@|@samimi içten@
+@sinister@|@uğursuz@
+@sink@|@lavabo musluk batmak@
+@sister@|@kızkardeş@
+@site@|@yer mahal@
+@situated@|@bulunmak konum@
+@size@|@hacim büyüklük@
+@skate@|@paten@
+@skeleton@|@iskelet çatı@
+@sketch@|@taslak kroki@
+@skilful@|@hünerli@
+@skin@|@deri post kabuk@
+@skip@|@sekme zıplama@
+@skirt@|@etek kenar@
+@skull@|@kafatası@
+@slam@|@çarpıp kapamak@
+@slander@|@iftira etmek@
+@slap@|@şamar tokat@
+@slash@|@uzun yara yarık@
+@slattern@|@pasaklı@
+@slave@|@köle esir@
+@slice@|@dilim parça@
+@slide@|@kaymak slayt@
+@slim@|@ince zayıf@
+@slip@|@kayma kaçırma@
+@slippery@|@kaygan@
+@slit@|@kesik yarık@
+@slot@|@delik kertik@
+@slow@|@yavaş@
+@slumber@|@uyku uyuklamak@
+@small@|@küçük ufak parça@
+@smart@|@şık zarif@
+@smash@|@ezmek parçalamak@
+@smear@|@leke bulanık@
+@smell@|@koku@
+@smelt@|@eritmek@
+@smile@|@gülümseme tebessüm@
+@smith@|@demirci nalbant@
+@smog@|@duman sis@
+@smoke@|@duman tütmek@
+@smooth@|@düzgün pürüzsüz@
+@smut@|@pis laf@
+@snack@|@çerez hafif yemek@
+@snake@|@yılan@
+@sneak@|@sinsi sinsi dolaşmak@
+@sniff@|@koklamak@
+@snoop@|@burnunu sokan meraklı@
+@snore@|@horlama@
+@snub@|@küçümsemek@
+@snug@|@rahat konforlu@
+@soak@|@ıslan(t)mak@
+@soap@|@sabun@
+@sob@|@hıçkırmak@
+@sober@|@ayık ağırbaşlı@
+@sociable@|@girgin sempatik@
+@sock@|@kısa çorap@
+@soft@|@yumuşak uysal@
+@solar@|@güneşe ait@
+@sole@|@yalnız biricik@
+@solicit@|@istemek rica etmek@
+@solid@|@sağlam katı@
+@solidarity@|@dayanışma birlik@
+@solitary@|@tek yalnız tenha@
+@solve@|@halletmek çözmek@
+@some@|@bazı biraz@
+@somehow@|@nasılsa@
+@son@|@oğul@
+@sophisticate@|@görmüş geçirmiş@
+@sorcery@|@büyücülük@
+@sorrow@|@acı keder@
+@sort@|@çeşit nevi sınıf@
+@soul@|@ruh can@
+@soup@|@çorba@
+@sour@|@ekşi@
+@source@|@kaynak@
+@sovereign@|@hükümdar@
+@spare@|@yetersiz boş@
+@sphere@|@küre@
+@sporadic@|@arasıra düzensiz@
+@spy@|@casus@
+@squash@|@ezmek@
+@squeeze@|@sıkmak@
+@staff@|@değnek asa personel@
+@stain@|@leke boya@
+@statue@|@heykel@
+@steal@|@çalmak@
+@stiff@|@katı sert bükülmez@
+@straw@|@saman@
+@stream@|@çay dere akıntı@
+@stubborn@|@inatçı@
+@sublime@|@yüce ulu@
+@substitute@|@vekil yerine koyma@
+@surrender@|@teslim feragat@
+@susceptible@|@hassas alıngan@
+@swirl@|@girdap@
+@tag@|@etiket@
+@tail@|@kuyruk@
+@talon@|@pençe@
+@tattoo@|@dövme@
+@tease@|@tedirgin etmek@
+@temper@|@tabiat huy@
+@temple@|@mabet@
+@territorial@|@karaya ait@
+@testament@|@vasiyet@
+@testify@|@tanık kanıt@
+@thick@|@kalın sık keşif@
+@thief@|@hırsız@
+@timber@|@kereste@
+@tomb@|@kabir türbe@
+@tow@|@çekmek@
+@trail@|@kuyruk iz@
+@tranquil@|@sakin asude@
+@tremble@|@titremek@
+@triumph@|@zafer@
+@tulip@|@lale@
+@turmoil@|@kargaşa gürültü@
+@twirl@|@kıvrım@
+@ultimate@|@son esas temel@
+@unique@|@tek biricik@
+@unjust@|@haksız@
+@up to date@|@modern@
+@urban@|@şehre ait@
+@usher@|@kapıcı mübaşir@
+@usury@|@tefeci@
+@vacancy@|@boşluk boşyer@
+@vagary@|@kapris@
+@valiant@|@yiğit cesur@
+@vast@|@engin geniş pekçok@
+@veil@|@peçe yaşmak@
+@vicious@|@kötü ahlaksız@
+@virtual@|@asıl gerçek@
+@vital@|@yaşamsal@
+@voluntary@|@gönüllü@
+@wail@|@çığlık@
+@warfare@|@savaşla ilgili@
+@wean@|@sütten kesmek@
+@whale@|@balina@
+@wharf@|@rıhtım@
+@wheat@|@buğday@
+@whisper@|@fısıltı@
+@widow@|@dul kadın@
+@wing@|@kanat kol@
+@yawn@|@esneme@
+@yield@|@mahsul ürün@
+@zipcode@|@postakodu@
+@zone@|@bölge@
+

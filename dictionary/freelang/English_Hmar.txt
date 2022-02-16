@@ -1,0 +1,473 @@
+@English@|@Hmar@
+@Author name@|@Lalremlien Neitham@
+@Font@|@Arial\12\Arial\12@
+@A Month@|@Thlakhat@
+@A Week@|@Kârkhat@
+@About@|@Chungchâng@
+@Acacia@|@Khanghmuk@
+@Act@|@Thilthaw@
+@Acting@|@Lemchang@
+@Actor@|@Lemchangtu@
+@Actress@|@Lemchangtu@
+@Alive@|@Hring@
+@Alphabet@|@Hawrop@
+@Also@|@Chun@
+@Ambassador@|@Palai@
+@Amomum Dealbatum@|@Aihretil@
+@And@|@Le@
+@Another@|@A Dang@
+@Appeal@|@Ngen@
+@Arm@|@Zak@
+@Armpit@|@Zakhnuoi@
+@Armpit Odour@|@Zak Khâ@
+@Arrow@|@Thal@
+@Ask@|@Hni@
+@Axe@|@Hreipui@
+@Baby@|@Naute@
+@Back@|@Hnung@
+@Backbone@|@Zângru@
+@Bamboo@|@Ruo@
+@Bamboo Shoots@|@Ruotuoi@
+@Bamboo Shoots Tips@|@Tuoiterek@
+@Banana@|@Mawt@
+@Banana Flower@|@Hnachangvûi, Mawtvûi@
+@Banana Shoots@|@Mawtkûng@
+@Batata@|@Kawlkai@
+@Bean Leaves@|@Behna@
+@Bean sprouts@|@Be ṭo thar@
+@Beans@|@Be@
+@Beautiful@|@Mawi, Nal@
+@Bed@|@Khum@
+@Bel@|@Add@
+@Believe@|@Ring@
+@Bell@|@Dar@
+@Bible@|@Baibul@
+@Big@|@Lien@
+@Big Knife@|@Chempui@
+@Big Road@|@Lamlien@
+@Big Toe@|@Kepui@
+@Binjal@|@Manta@
+@Bird@|@Vate@
+@Bitter@|@Kha@
+@Bitter Beans@|@Zawngṭa@
+@Bitter Eggplant@|@Mantakha@
+@Bitter Gourd@|@Chengkha@
+@Black@|@Dum@
+@Black Beans@|@Be Dum@
+@Bless@|@Malsawm@
+@Blessing@|@Malsawmna@
+@Blind@|@Mitdel@
+@Boat@|@Long@
+@Body Hair@|@Hmul@
+@Bone@|@Ru@
+@Book@|@Lekhabu@
+@Born@|@Pieng@
+@Born Again@|@Piengthar@
+@Borrow@|@Bat@
+@Bottle Gourd@|@Ûm@
+@Bracken@|@Kokchadawn@
+@Brain@|@Thluok@
+@Branch@|@Kaupeng@
+@Bread@|@Bei@
+@Break@|@Bong@
+@Breast@|@Nene@
+@Bride@|@Mo@
+@Bridegroom@|@Mopa@
+@Broccoli@|@Parbawr Hring@
+@Buffalo@|@Lawi@
+@Cabbage@|@Zîkhlûm@
+@Calf@|@Kerai@
+@Capsicum@|@Hmarchapui@
+@Carrot@|@Bubal Sen@
+@Cassava@|@Thingkawlkai@
+@Cauliflower@|@Parbawr@
+@Chapter@|@Bung@
+@Cheek@|@Bieng@
+@Chest@|@Awm@
+@Chickpeas@|@Bething@
+@Chief@|@Lal@
+@Child@|@Nau, Naupang@
+@Church@|@Kohran@
+@Clean@|@Fai@
+@Clock@|@Sana@
+@Come@|@Hung@
+@Compete@|@Inel@
+@Competition@|@Inelna@
+@Compose@|@Phuok@
+@Composer@|@Phuoktu@
+@Constitution@|@Danpui@
+@Cook@|@Suong@
+@Corrupt@|@Tham@
+@Corruption@|@Thamna@
+@Cow@|@Bâwng@
+@Cucumber@|@Fanghma@
+@Culantro@|@Bachikhawm@
+@Cut@|@Sât@
+@Daikon Radish@|@Mullah@
+@Dance@|@Lâm@
+@Daughter@|@Naunu@
+@Day@|@Ni@
+@Dead Body@|@Ruong@
+@Deaf@|@Naset@
+@Dear@|@Laina@
+@Denomination@|@Kohran Pawl@
+@Difficult@|@Intak@
+@Do@|@Thaw@
+@Do Things@|@Thilthaw@
+@Dog@|@Ui@
+@Donkey@|@Sabengtung@
+@Doze@|@Inlusu@
+@Drink@|@Dawn@
+@Drum@|@Khuong@
+@Dry Mucus@|@Hnapkhir@
+@Duck@|@Varak@
+@Ear@|@Nakawr@
+@East@|@Sak@
+@Eat@|@Fak@
+@Egg Plant@|@Manta@
+@Eight@|@Pariet@
+@Elder@|@Upa@
+@Elect@|@Inthlang, Thlang@
+@Election@|@Inthlangna@
+@Electric@|@Meivar@
+@Elephant@|@Sai@
+@Enemy@|@Râl@
+@Enter@|@Lût@
+@Establish@|@Indin@
+@Evening@|@Zantieng@
+@Eye@|@Mit@
+@Eyebrow@|@Mithmul@
+@Face@|@Hmel@
+@Fail@|@Hlawsam@
+@Family@|@Sûngkuo@
+@Fart@|@Voi@
+@Fat@|@Thau@
+@Father@|@Pa@
+@Fenugreek@|@Methi@
+@Festival@|@Kût@
+@Fiddleheads@|@Kokchadawn@
+@Finger Nail@|@Kuttin@
+@Finger Print@|@Kutzie@
+@Fire@|@Mei@
+@Five@|@Panga@
+@Flow@|@Luong@
+@Flower@|@Parte@
+@Forced To Do@|@Thawlui@
+@Forest@|@Ramhnuoi@
+@Four@|@Pali@
+@Friday@|@Zirtawpni@
+@Friend@|@Ruol@
+@Garlic@|@Purûnvâr@
+@Garlic Roots@|@Purûnzung@
+@Get Up@|@Tho@
+@Ginger@|@Aithing@
+@Giraffe@|@Sarîngsei@
+@Give@|@Pêk@
+@Glance@|@Mel@
+@Go@|@Fe@
+@Goat@|@Kêl@
+@God@|@Pathien@
+@Good@|@Tha@
+@Grape Fruit@|@Saiser@
+@Green@|@Hring@
+@Green Beans@|@Behring@
+@Green Vegetable@|@Thlaihna Hring@
+@Ground@|@Hnuoi@
+@Gun@|@Silai@
+@Hair@|@Sam@
+@Hairy Beans@|@Bethlieng@
+@Half Pant@|@Kekorbûl@
+@Hand@|@Kut@
+@Happy@|@Hlim@
+@Have@|@Nei@
+@Head@|@Lu@
+@Heaven@|@Vanram@
+@Heavy@|@Rik@
+@Height@|@Dung@
+@Hell@|@Hremhmun, Meidil@
+@Help@|@San@
+@Hill@|@Tlâng@
+@Hmet@|@Press@
+@Holy@|@Inthieng@
+@Hope@|@Beisei@
+@Horse@|@Sakor@
+@Horse Tamarind@|@Zawngṭate@
+@House@|@In@
+@Housefly@|@Tho@
+@However@|@Nisienkhom@
+@Human@|@Mihriem@
+@Hundred@|@Za@
+@Important@|@Poimaw@
+@Inchuklai@|@Student@
+@Index Finger@|@Kutchal@
+@Iron@|@Thîr@
+@Iron Rod@|@Thîrhmol@
+@Jhum@|@Lo@
+@Jump@|@Inchawm@
+@Jungle@|@Ramhnuoi@
+@Kidney Beans@|@Be Sen@
+@Kill@|@That@
+@King@|@Reng@
+@Kiss@|@Fawp@
+@Knee@|@Khûp@
+@Knife@|@Chem@
+@Knocked Knee@|@Khûp Intuo@
+@Know@|@Hriet@
+@Kohlrabi@|@Anṭam Bulbâl@
+@Lake@|@Dil@
+@Land@|@Ram@
+@Later@|@Nakie@
+@Laugh@|@Innui@
+@Law@|@Dan@
+@Leg@|@Ke@
+@Letter@|@Lekhathon@
+@Lettuce@|@Anṭam Pâr@
+@Life@|@Hringnun@
+@Light@|@Meivar, Var@
+@Lion@|@Sakeibaknei@
+@Lip@|@Hmûr@
+@Liquor@|@Zu@
+@Little Finger@|@Kutte@
+@Living@|@Hring@
+@Long@|@Sei@
+@Longing@|@Ngai@
+@Lost@|@Inhmang@
+@Love@|@Hmangai, Hmangaina@
+@Lyric@|@Hlaziek@
+@Maize@|@Vaimîm@
+@Make@|@Siem@
+@Maker@|@Siemtu@
+@Male@|@Pasal@
+@Marriage@|@Innei@
+@Married Man@|@Papui@
+@Married Woman@|@Nupui@
+@Me@|@Kei@
+@Meat@|@Sa@
+@Metal@|@Thîr@
+@Middle Finger@|@Kutlai@
+@Milk@|@Nenetui@
+@Mingo@|@Sâp@
+@Monday@|@Thawtanni@
+@Money@|@Poisa, Sum@
+@Monkey@|@Zawng@
+@Month@|@Thla@
+@Moon@|@Thlapa@
+@Morning@|@Zingkar@
+@Mother@|@Nu@
+@Mountain@|@Tlâng@
+@Mouth@|@Bau@
+@Move@|@Châng@
+@Mucus@|@Hnap@
+@Murder@|@Tuolthat@
+@Muscle@|@Tha@
+@Muscular@|@Sek@
+@Mushroom@|@Pa@
+@Music@|@Rimawi@
+@Mustard Green@|@Ṭampui@
+@Mustard Plant@|@Anṭam@
+@Mustard Seed@|@Anṭamra@
+@Nail@|@Tin@
+@Name@|@Hming@
+@Nation@|@Hnampui@
+@Near@|@Hnai@
+@Neck@|@Rîng@
+@New@|@Thar@
+@News@|@Chanchin Thar, Thuthar@
+@Newspaper@|@Chanchinbu@
+@Night@|@Zan@
+@Nine@|@Pakuo@
+@No@|@Awia@
+@Nobody@|@Tukhom@
+@Noon@|@Sun@
+@North@|@Hmar@
+@Nose@|@Hnar@
+@Nothing@|@Iengkhom@
+@Odour@|@Rim@
+@Okra@|@Be Nâl@
+@Old Man@|@Putar@
+@Once@|@Voikhat@
+@One@|@Pakhat@
+@One Person@|@Mimal@
+@Onion@|@Purûnsen@
+@Opinion@|@Ngaidan@
+@Organisation@|@Pawl@
+@Organise@|@Buotsai@
+@Organiser@|@Buotsaitu@
+@Other Person@|@Midang@
+@Outside@|@Tuol@
+@Ox@|@Bâwng@
+@Palm@|@Kutpha@
+@Pant@|@Kekor@
+@Papaya@|@Thingfanghma@
+@Parrot@|@Vaki@
+@Parsley@|@Khumhoi@
+@Participate@|@Ṭhang@
+@Passion Fruit@|@Sâpthei@
+@Peaceful@|@Râlmuong@
+@Peeble@|@Lungte@
+@Penis@|@Til@
+@Pennywort@|@Lambak@
+@People@|@Mipui@
+@Peppercorn@|@Thinghmarcha@
+@Perfume@|@Rimtui@
+@Piece@|@Mal@
+@Pilgrimage@|@Biekzin@
+@Pond@|@Dil@
+@Pot@|@Bel@
+@Potato@|@Alu@
+@Pray@|@Tongtai, Ṭongṭai@
+@Prayer@|@Tongtaina@
+@Predict@|@Hrillâwk@
+@Prohibit@|@Khap@
+@Pumpkin@|@Mai@
+@Punch@|@Lok@
+@Punish@|@Hrem@
+@Pus@|@Hnai@
+@Rape@|@Pawngsuol@
+@Rapist@|@Pawngsuoltu@
+@Read@|@Tiem@
+@Read Out@|@Tiemsuok@
+@Receive@|@Dong@
+@Red@|@Sen@
+@Representative@|@Palai@
+@Request@|@Ngen@
+@Respect@|@Inza@
+@Rich@|@Hausa@
+@River@|@Vadung@
+@Road@|@Lam@
+@Room@|@Insung@
+@Root@|@Bung, Zung@
+@Roselle@|@Anthûr@
+@Run@|@Tlân@
+@Saturday@|@Inrinni@
+@Say@|@Hril@
+@See@|@Hmu@
+@Seven@|@Pasari@
+@Shadow@|@Thla@
+@Sharp@|@Ngei@
+@Shirt@|@Zakuo@
+@Shop@|@Dawr@
+@Short Pant@|@Kekorbûl@
+@Shoulder@|@Dar@
+@Shout@|@Khek@
+@Shy@|@Inzak, Zakzum@
+@Sing@|@Sak@
+@Sing Song@|@Hlasak@
+@Single@|@Mal@
+@Six@|@Paruk@
+@Slap@|@Ben@
+@Sleep@|@In@
+@Sleep With@|@Zâlpui@
+@Slender@|@Zen@
+@Slow@|@Muong@
+@Small@|@Chîn@
+@Small Knife@|@Chemte@
+@Smell@|@Rim@
+@Smelly@|@Thu@
+@Snake@|@Rûl@
+@Snake Gourd@|@Berûl@
+@Snore@|@Inhnar@
+@Society@|@Khawtlang@
+@Somebody@|@Tumani@
+@Son@|@Naupa@
+@Song@|@Hla@
+@Sound@|@Ri@
+@South@|@Sim@
+@Soy Beans@|@Bekan@
+@Spiny Gourd@|@Maitawmtok@
+@Spirit@|@Thlarau@
+@Spring Onion@|@Purûn Hnaphek@
+@Squash@|@Iskut@
+@Stamina@|@Tharum@
+@Stand@|@Ngir@
+@Star@|@Arasi@
+@Start@|@Ṭan@
+@Stick@|@Hmol@
+@Stomach@|@Phing@
+@Stone@|@Lung@
+@Street@|@Veng@
+@String Beans@|@Besei@
+@Strong@|@Hrat@
+@Study@|@Inchûk@
+@Succeed@|@Hlawtling@
+@Sun@|@Nisa@
+@Sunday@|@Pathienni@
+@Support@|@San, Ṭan@
+@Swallow@|@Dol@
+@Sweet@|@Thlum@
+@Tail@|@Mei@
+@Take@|@Lak@
+@Taro@|@Bal@
+@Teenager@|@Tleirawl@
+@Teeth@|@Hâ@
+@Ten@|@Sawm@
+@These Days@|@Tulai@
+@Thigh@|@Mal, Malpui@
+@Things@|@Thil@
+@Think@|@Ngaituo@
+@Thousand@|@Sangkhat@
+@Three@|@Pathum@
+@Thumb@|@Kutpui@
+@Thursday@|@Ningani@
+@Tiger@|@Sakei@
+@Tired@|@Sawl@
+@To do@|@Thawding@
+@Tobacco@|@Dum@
+@Today@|@Voisun@
+@Toe Nail@|@Ketin@
+@Tomato@|@Mantathûr@
+@Tomorrow@|@Zinga@
+@Tongue@|@Lei@
+@Touch@|@Them@
+@Translate@|@Inlet@
+@Tribe@|@Hnam@
+@Trouble@|@Buoina@
+@Troublemaker@|@Buoina Siemtu@
+@Trouser@|@Kekor@
+@Trumpet@|@Tawtawrawt@
+@Tubers@|@Zung@
+@Tuesday@|@Thawleni@
+@Tune@|@Thluk@
+@Tuolsûng@|@Local@
+@Turmeric@|@Aieng@
+@Two@|@Pahni@
+@Underpant@|@Kekorte@
+@Vagina@|@Su@
+@Vegetable@|@Thlaihna@
+@Verse@|@Châng@
+@Very@|@Taluo@
+@Village@|@Khuo@
+@Visit@|@Kan@
+@Vomit@|@Inluok@
+@Walk@|@Lawn@
+@Want@|@Dit@
+@Watch@|@Sana@
+@Water@|@Tui@
+@We@|@Kan@
+@Weak@|@Chau@
+@Weapon@|@Ralthuom@
+@Wednesday@|@Nilaini@
+@Weekly@|@Kârtin@
+@Well@|@Tuikhur@
+@West@|@Thlang@
+@What@|@Iem@
+@Where@|@Khawlam, Khawm@
+@White@|@Var@
+@White Man@|@Mingo@
+@White Pumpkin@|@Maibal@
+@Who@|@Tûm@
+@Widow@|@Hmeithai@
+@Wild Animals@|@Ramsa@
+@Winged Beans@|@Samthawrong@
+@Woman@|@Nuhmei@
+@Word@|@Thumal@
+@World@|@Khawvel@
+@Worship@|@Chawibiek@
+@Yam@|@Bahra@
+@Yellow@|@Eng@
+@Yes@|@Aw@
+@Yesterday@|@Zani@
+@You@|@Nang@
+@Young Unmarried Man@|@Tlangvâl@
+@Young Unmarried Woman@|@Nunghâk@
+

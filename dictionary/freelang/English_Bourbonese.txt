@@ -1,0 +1,442 @@
+@English@|@Bourbonese@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a good quantity@|@un bon peu@
+@a lot@|@gros@
+@a lot of@|@tout plein de@
+@a medicine@|@un remède@
+@a pork@|@un cochon, un habillé de soies, un lard, un siam@
+@a short time@|@un rien de temps@
+@a trousers@|@une culotte@
+@about hundred@|@un cent@
+@abundance@|@abonde@
+@abundantly@|@en veux-tu en voilà@
+@acorn@|@aillond@
+@again@|@inquère@
+@agile@|@habile@
+@alfalfa@|@luzarne@
+@alley@|@rouetton@
+@amiss@|@de gingouin@
+@animal@|@animau@
+@ant@|@maze@
+@apple@|@poume@
+@as@|@coume@
+@ash@|@fragne@
+@ass@|@troufignon@
+@at@|@cheu, vé@
+@attic@|@gueurnier@
+@axe@|@cougne@
+@ball@|@gobille@
+@barrow@|@barouette@
+@be in the middle of the path@|@être au milieu de la carrée@
+@beautiful@|@gente@
+@bee@|@mouche à miel@
+@beef@|@boeu@
+@beet@|@blette@
+@between@|@entrmi@
+@big and neglected woman@|@poufiasse@
+@big bag@|@bauge@
+@big ball@|@boulet@
+@big blouse@|@biaude@
+@big cat@|@maraud@
+@big distance@|@tirée@
+@big grain of sand@|@gravelle@
+@big piece of a food@|@tarigot@
+@big storm@|@orisse@
+@billbook to long sleeve@|@gouyard@
+@billion@|@millard@
+@bird@|@osiau@
+@bitch@|@chine@
+@blow@|@bouffer@
+@bone@|@ausse@
+@born@|@naissu@
+@bouquet@|@bouquiet@
+@boxtree@|@rameau@
+@boy@|@gars@
+@boyfriend@|@bon ami@
+@bramble@|@éronce@
+@brat@|@garitou@
+@bucket@|@siau@
+@bud@|@bourre@
+@bush@|@bouchure@
+@but more serious@|@catole@
+@buzzard@|@beuse@
+@cake@|@freta@
+@cap@|@bounet@
+@case@|@croffe@
+@castle@|@châtiau@
+@catnap@|@pregnière@
+@chair@|@selle@
+@child@|@chtit, chtite@
+@cider@|@citre@
+@clock@|@reloge@
+@clothes@|@beseugnes@
+@coif@|@coueffe@
+@collapsed@|@ébouellé@
+@complicated@|@tortin@
+@complication@|@emmanche@
+@cost@|@coutance@
+@cough fat@|@crailler@
+@crazy@|@brelaud@
+@cricket@|@grelet@
+@crust of bread@|@crognon@
+@delicious@|@bon de la vie@
+@deposit@|@erres@
+@diaper@|@bourrasse@
+@diarrhea@|@drille@
+@disagreeable remark@|@fion@
+@dispute@|@baraille@
+@district@|@taillon@
+@dog@|@chin@
+@doll@|@catin@
+@domain@|@doumaine@
+@donkey@|@bourri@
+@dresses of night@|@penêts@
+@drover@|@bouyer@
+@dwarf@|@nine@
+@earth@|@tarre@
+@egg@|@oeu@
+@embarrassed@|@embrené@
+@enclosure@|@ouche@
+@enough@|@prou@
+@every time@|@à tout coup@
+@excellent@|@bon comme tout@
+@extensively enough@|@mais que d'un@
+@eye@|@callo, zieu@
+@face@|@mouret@
+@feather@|@pleume@
+@female@|@fumelle@
+@ferment@|@bouillir@
+@finicky@|@tatasse@
+@fire@|@figot@
+@fish@|@pesson@
+@flat on the stomach@|@à bouchon@
+@forgery@|@daille@
+@fountain@|@font@
+@frequently@|@tous les quatre matins@
+@frozen@|@gla@
+@garden@|@ouche@
+@get acclimatized@|@s'adfier@
+@girl@|@gate@
+@give impression of abundance@|@faire de l'abonde@
+@gladly@|@c'est pas de refus@
+@gluttonous@|@dessoulu@
+@goat@|@chièbre@
+@gobbler@|@cobi@
+@good@|@boune@
+@grass@|@harbe@
+@grazing@|@patureau@
+@hairdresser@|@perruquier@
+@half-asleep@|@ensuqué@
+@half-witted@|@bredin@
+@hat@|@chapiau@
+@he@|@a, i-al, il@
+@he/she/it has@|@o; a; ol; al; alle a@
+@he/she/it is@|@a, alle est, o, ol@
+@herd@|@bande@
+@here is@|@vela@
+@hiccup@|@loquet@
+@hole of water@|@gouillat@
+@hornet@|@bregaud@
+@horse@|@chevau@
+@however@|@sans ça@
+@I@|@j', je@
+@I am@|@j' sus@
+@I have@|@j' ons@
+@if the case arises@|@si y'en tourne@
+@in anger@|@fumasse@
+@in depth@|@à cul sec@
+@in full shape@|@dru@
+@in quantity@|@à brenonceaux@
+@in the event…@|@en cas que..@
+@it@|@ça@
+@it arrives that@|@y'a des fois que@
+@it is@|@voué@
+@Jacques and me@|@nous deux le Jacques@
+@jug@|@pichiet@
+@June@|@jin@
+@knife@|@coutiau@
+@knot@|@nonze@
+@lamb@|@belet@
+@lamp of weak power@|@chaleu@
+@language@|@lingue@
+@late Picard@|@défunt Picard@
+@lately@|@l'autre jour@
+@laundry@|@buille@
+@let's go us of it@|@ane z'en@
+@lips@|@babouines@
+@lived@|@vivu@
+@lizard@|@lizard@
+@long@|@longe@
+@magpie@|@margot@
+@man@|@houme@
+@many@|@assez@
+@mark of blood@|@rat@
+@me@|@m', me@
+@middle@|@mitan@
+@miser@|@chiassoux@
+@more@|@mais@
+@more one only@|@pus pas mais un@
+@more power to make a step@|@ne plus pouvoir arquer@
+@mound@|@tureau@
+@mud@|@patouille@
+@nail@|@onhye@
+@nearly@|@quasiment@
+@necklace@|@cohier@
+@next year@|@l'année que vient@
+@nine@|@neu@
+@no one@|@parsoune@
+@nothing@|@rin@
+@now@|@à présent@
+@numb@|@gobe@
+@number@|@limero@
+@oak@|@châgne@
+@obey@|@écouter@
+@of an unshakable health@|@intuable@
+@of the chanterelles@|@des cives@
+@of the chives@|@des cocherelles@
+@of the linen@|@du butin@
+@old@|@vienne@
+@old object@|@aria@
+@on@|@su@
+@once@|@dans le temps@
+@only@|@mâ@
+@orchard@|@varger@
+@otherwise@|@guère moins@
+@our@|@noute@
+@out@|@fors@
+@outside@|@diôre@
+@over@|@su@
+@owl@|@chavant, chavisse@
+@pancake@|@gouère@
+@path of crossbar@|@coursière@
+@peartree@|@pouérier@
+@peasant@|@bounhoume@
+@pick@|@mare@
+@piece of dwelling@|@carrée@
+@pille@|@greni@
+@pillow@|@oriller@
+@pin@|@épingue@
+@plush of dust@|@fluche@
+@pod@|@dousse@
+@pool@|@crot@
+@poor@|@poure@
+@possible lies@|@si ça se trouve@
+@potato@|@tartoufe@
+@pretty@|@benlili@
+@previously@|@anciennement@
+@quilt@|@égredon@
+@raccomoder@|@rapsiauder@
+@rain@|@pleue@
+@rake@|@râtiau@
+@rascal@|@arcandier, grenipille@
+@rat@|@liron@
+@raven@|@graule@
+@really or completelty@|@mêmement@
+@reason@|@aime@
+@revengeful@|@vengeatif@
+@right@|@dret@
+@ringleader@|@meneux@
+@rooster@|@jau@
+@runner of underskirt@|@courandier@
+@rut@|@rouin@
+@saliva@|@crache@
+@senile person@|@jarjot@
+@shaggy@|@bourru@
+@she@|@a, al@
+@sheep@|@ouille@
+@shovel@|@pale@
+@shoveled@|@palée@
+@sickle@|@voulant@
+@sifter@|@siâ@
+@sink@|@bassie@
+@skillful@|@adret@
+@skin@|@piau@
+@skirt or dress@|@gounelle@
+@slap@|@mournifle@
+@sleet@|@glâ@
+@small dog@|@chinasse@
+@small gate@|@barriau@
+@smoked@|@fumière@
+@snake@|@sarpent@
+@so@|@si tellement@
+@so little that@|@moindrement que@
+@so that…@|@ça fait que…@
+@sometimes@|@des fois, tout le temps@
+@son-in-law@|@gende@
+@soon@|@dans rien de temps@
+@soot@|@souie@
+@sort of fritter@|@sanciau@
+@source@|@font@
+@sow@|@treue@
+@spouse@|@houme@
+@statue@|@estatue@
+@stick made of wood@|@fouaille@
+@stone@|@piarre@
+@straggler@|@trainiau@
+@stream@|@rio@
+@stretcher@|@bayart@
+@stroke given to unbalance@|@pousson@
+@sulky@|@quetoux@
+@sulphurizing@|@cht'it@
+@summary resumption@|@sarci@
+@summit of the skull@|@cacrot@
+@sweetbread@|@pompe@
+@that one cannot displace@|@imbranlable@
+@the clothes@|@les habits@
+@the face@|@la figure@
+@the first come@|@Pierre ou Paul@
+@the mare@|@la chevaude@
+@therefore@|@don@
+@they@|@alles, as, os@
+@they have@|@os;  as;  alles ont@
+@thing@|@chouse@
+@this time@|@ce coup-là@
+@thistle@|@échardon@
+@throat@|@corniaule@
+@to abort@|@s'affouler@
+@to arrange@|@adauber@
+@to bawl@|@avoiner@
+@to be@|@ête@
+@to be quiet@|@s'apaiser@
+@to be worried@|@porter peine@
+@to begin@|@enrayer@
+@to believe@|@crère@
+@to bind@|@hier@
+@to blind@|@aveuiller@
+@to bustle@|@être en presse@
+@to buzz@|@viouner@
+@to caress@|@flatter@
+@to chuckle@|@clocher@
+@to close a door@|@sarrer@
+@to comb@|@pigner@
+@to come to the mind@|@venir à l'idée@
+@to contradict@|@dédire@
+@to cough@|@pouffiner@
+@to counterfeit@|@écharnir@
+@to crouch down@|@s'agrouler@
+@to damage@|@mazibler@
+@to deceive@|@affiner@
+@to decrease@|@moindrer@
+@to denounce@|@vendre@
+@to destroy@|@abraser@
+@to die@|@décaniller@
+@to edge a bed@|@rembarrer@
+@to fall@|@quiller@
+@to fall at full length@|@s'élarder@
+@to feel@|@magner@
+@to fight@|@se pigner@
+@to filter@|@couler, passer@
+@to flatter@|@affiater@
+@to freeze@|@jaler@
+@to give@|@douner@
+@to go@|@aner@
+@to go quickly and strong@|@feuter@
+@to groan@|@gnauler@
+@to hatch@|@épelir@
+@to have@|@tenir@
+@to imagine@|@se figurer@
+@to irritate@|@chafigner@
+@to kill@|@tuier@
+@to kiss@|@bicher@
+@to knock@|@beugner@
+@to level@|@agaler@
+@to limp@|@brequiller@
+@to live@|@rester@
+@to lose its juice@|@juiller@
+@to lose the balance@|@emporter le ballan@
+@to make a roll@|@faire la comblette@
+@to make the ranging@|@ravauder@
+@to make up@|@se racoquiller@
+@to make work@|@entrain@
+@to mate@|@accoubler@
+@to mend@|@peutasser@
+@to mess up@|@embouser@
+@to milk@|@ajouter@
+@to moan all low@|@roumouner@
+@to move@|@dévirer, gigougner@
+@to nibble at@|@moursailler@
+@to open@|@bader@
+@to pack@|@chaucher@
+@to pick@|@ramasser@
+@to plow@|@charruter@
+@to quit@|@abandouner@
+@to rain@|@pluire@
+@to rain abundantly@|@pleuvoir à plein temps@
+@to reduce in crumbs@|@débeziller@
+@to refresh@|@dessoiffer@
+@to remove@|@doter@
+@to rock@|@brecer@
+@to rub@|@fretouiller@
+@to ruminate@|@roinger@
+@to run@|@courre@
+@to scrape@|@écaler@
+@to scratch@|@égrafigner@
+@to seduce@|@détourner@
+@to seize@|@laper@
+@to shake@|@brelotter@
+@to sit down@|@s'assir@
+@to sit on@|@grouer@
+@to soak@|@rassouiller@
+@to speak@|@causer@
+@to spy on@|@souriller@
+@to stall@|@s'emborber@
+@to startle@|@épivasser@
+@to steal@|@gassouiller@
+@to stun@|@assoumer@
+@to surprise@|@trahir@
+@to swallow@|@biber, gouler@
+@to swallow amiss@|@s'énousser@
+@to sweep@|@baliyer@
+@to tear@|@dépenailler@
+@to the black night@|@à la grosse nuit@
+@to the shelter@|@à l'acoué@
+@to throw some stones@|@caillouter@
+@to tickle@|@chafigner, guerlicher@
+@to tire@|@agraver@
+@to unearth@|@dénier@
+@to untie@|@deiller@
+@to watch@|@agarder@
+@to wrap up@|@embourrasser@
+@toe@|@arpion@
+@together of a person's goods@|@St Frusquin@
+@tooling@|@artillage@
+@tooth@|@racotte@
+@toward@|@vé@
+@trace let by a stroke@|@beugne@
+@tree@|@âbre@
+@trough@|@bachat, bache@
+@twin@|@besson@
+@ugly@|@vilain@
+@veal@|@viau@
+@very often@|@tout le temps@
+@vigor@|@drusine@
+@viper@|@verpi@
+@walnut@|@noué@
+@wasp@|@guiépe@
+@watch@|@aga@
+@water@|@iau@
+@we@|@nous@
+@we are@|@n'; n's; j' sons@
+@we have@|@n'; n's; j' avons@
+@weak@|@ch'ti@
+@weaver@|@tissier@
+@well@|@ben, pouits@
+@well to dress@|@se mettre beau@
+@where@|@lavou@
+@who likes to speak@|@parlatif@
+@why@|@à cause@
+@wind of the north@|@bisio@
+@withered@|@flache@
+@woman@|@fene@
+@woman a few simple@|@couine@
+@wood@|@boué@
+@worn-out@|@fusé@
+@written@|@barbitra@
+@you@|@t', te@
+@you (pl)@|@vous@
+@you are@|@t' es@
+@you are (pl)@|@v'; v's; ous êtes@
+@you have@|@t' as@
+@you have (pl)@|@v'; v's; ous avez@
+

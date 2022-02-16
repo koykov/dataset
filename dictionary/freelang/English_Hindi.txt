@@ -1,0 +1,3332 @@
+@English@|@Hindi@
+@Author name@|@Abhijeet A. Bhandwale@
+@Font@|@Arial\12\Arial\12@
+@a book@|@ek kitaab@
+@a cat@|@ek billee@
+@a dish of rice and flesh@|@Biryanee@
+@a dog@|@ek kutta@
+@aback@|@(1)achaanak (2) peechhee@
+@abandoned@|@aawaara@
+@abandonment@|@poorna tyaag@
+@abatement@|@ghataav, kamee@
+@abbey@|@gurdwaaraa, kutee, matthh@
+@abbot@|@mahant@
+@abbreviation@|@laghuroop, saar, sankshep@
+@abdication@|@pad tyaag@
+@abdomen@|@kukshi, Pait, udar@
+@abdominal@|@udar sambandhi@
+@abduction@|@apaharan@
+@abed(adv)@|@bichhaune par, shayya par@
+@aberrant@|@bhatkaa hua, path bhrashtt@
+@aberration@|@bhool, bhram, vikshep@
+@abeyance@|@kshanik viraam, vilamb@
+@abhorrence@|@ghrinaa, vidvesh@
+@ability@|@saamarrthyaa@
+@abject@|@kameenaa, kshudra, neech, pateetaa@
+@ablaze@|@(1)jaltaa hua, prajjwalit(2)uttejit@
+@able@|@gunwaan, pravin, samarth@
+@ablution@|@vidheepoorvak snaan@
+@abnormal@|@asaadhaaran, asaamanya, vikreet@
+@abnormality@|@vikritee@
+@abode@|@ghar, makaan@
+@abolition@|@loap, mitaav, naash@
+@abominable@|@ghinaunaa, ghrina yogya, nindya@
+@abomination@|@ghrinaa, vidvesh@
+@aboriginal@|@adeem, pracheen, pratham, puraanaa@
+@aborigines@|@adivasi, pracheen deshwaasee@
+@abortion@|@garbhapaat@
+@abortive@|@adhooraa, kachha, nishfal, vifal@
+@about(a subject)@|@vishay ké baaré méin@
+@about(Directions-Quantity)@|@aaspaas mein(D), lagbhag(Q), nikat(D)@
+@above@|@oopar@
+@above all@|@sabsé badhkar@
+@abration@|@ghisan, ragad@
+@abreast@|@baraabar, saath-saath (th as in thick)@
+@abrupt@|@aakasmik, achaanak, achaanak, visham@
+@abruptly@|@achaanak, akasmaat@
+@absconding@|@faraari@
+@absence@|@aabhaav, anupasthitee, gairhaajiree@
+@absent@|@gairhaajir, unoopastheet@
+@absentee@|@anupasthitee@
+@absolute@|@keval, poorna, poorna, shudhh@
+@absolutely@|@avashya, nitaant, sarvatha@
+@absorbed@|@lavleen, shoshit, soakhaa hua@
+@absorbent@|@nigalné waalaa, shoshak@
+@absorption@|@shoshan@
+@abstemious@|@sayyamsheel@
+@abstract@|@aashay, amoort, sankshép, saraansh, tattva@
+@abstract(text)@|@saraansh@
+@abstraction@|@dhyaan ki ékagrataa, prithakkaran, shoonya manasktaa@
+@abstruse@|@durbodh@
+@absurd@|@anarthak, béhudaa, moorkh, ootpataang@
+@absurdity@|@anarthakataa, béhudgee, moorkhtaa@
+@abundance@|@vipooltaa@
+@abundant@|@adhik, bahut, ghanera, vipool@
+@abuse@|@bura bartaav, duroopayoag, durrvachan, gaali, kuprayog@
+@abusive@|@nindak kutsaawaadi@
+@abyss@|@géhraa kund, narak kund@
+@academic@|@sidhhaant vishayak, vidyaalay sambandhi@
+@academical@|@vidyalayeen@
+@academy@|@akadami, vidyaapeeth@
+@acceleration@|@pravaeg, sheeghrataa@
+@accent@|@aaghaat, bhaashaa ki shailee, joar@
+@acceptable@|@grahya, sweekaararrha, sweekaararrya@
+@acceptance@|@sweekaar@
+@access@|@marg, pahunch, path, pravesh@
+@accessible@|@sugam, sulabh@
+@accession@|@aarohan, raajtilak, vridhhee@
+@accessory@|@anaavashyak, sahayak@
+@accident@|@apaghaat@
+@accidental@|@aakasmik, apaghatee@
+@accomodation@|@jagah, niwas sthaan, sanyojan, saujanya, sthaan@
+@accomplice@|@joorm ka saathee, sahaparaadhi@
+@accomplished@|@gunvant, nipun, pravin, vidyasampann@
+@accomplishment@|@nipunataa, paripoornataa, sidhhee@
+@accordance@|@anurooptaa, éktaa, samaantaa, taal-mél@
+@according to@|@anuroop, anusaar@
+@accordingly@|@iss kaaran sé, issliyé, tadnusaar@
+@account@|@gananaa, hisaab, kaaran, lékhaa, varrnan, vrittaant@
+@account(business)@|@hisaab-kitaab@
+@accountable@|@jimmedaar, uttardaayi@
+@accountancy@|@hisaab-kitaab@
+@accountant@|@hisaab rakhné waala ganak, muneem@
+@accumulation@|@bator, jamaav, sanchay@
+@accuracy@|@achooktaa, sookshmataa@
+@accurate@|@achook, sahi, sookshma@
+@accursed@|@shaap grast@
+@accused@|@abhiyukta, mulaajim@
+@accuser@|@abhiyogee, doash lagaané waalaa, nindakwaadee@
+@accustomed@|@abhyast, pareechit@
+@ace@|@ikaai@
+@ache@|@dard, peedaa@
+@achievement@|@paraakram@
+@acid@|@aamla, khattha, teekshna, teevra, tejaab@
+@acidity@|@khatthapann, teekshnataa@
+@acknowledgment@|@angikaar, raseed, sweekar@
+@acme@|@antt, paraakashthaa, shikhar@
+@acoustic@|@dhwanee vishayak@
+@acquainted@|@abhyast, parichit@
+@acquiescence@|@anumati, sammatee@
+@acquisition@|@laabh, prapti, upaarjan@
+@acquisitive@|@prapti/laabh ka ichchhuk@
+@acquittal@|@chhutkaaraa, mukti, rihaaee@
+@acrid@|@garam, kaduaa, katu, teekshna@
+@acrimony@|@kaduaapan, kathhortaa, katutaa, teekshnataa, téjee@
+@acrobat@|@nat khél dikhaané waalaa, nétuaa@
+@across@|@aarpaar, paar@
+@act@|@karma, karya, kritee@
+@acting@|@abhinay, adaakaree@
+@acting(in place of somebody)@|@aivaj, sthaanpann@
+@action@|@kaam, kaarya, kartoot, Kriyaa@
+@action(legal)@|@abhiyog, mukadmaa@
+@active@|@furteelaa, kartaa, kriyaasheel@
+@activist@|@karya kartaa@
+@activity@|@chaal, furtee, sheeghrataa, vég@
+@actor@|@abhinetaa@
+@actress@|@abhinetri@
+@actual@|@akaalpanik, theek, vaastavik, yathhaarthh@
+@actuality@|@satyataa, vaastaviktaa, yathhaarthhtaa@
+@actually@|@sachmuch, theektheek, vaastav méin, vastutahh@
+@actuary@|@lékhak, munim, munshi@
+@acumen@|@ateesookshmataa, chaturtaa, teevra drishti@
+@acute@|@chalaak, chatur, ghaatak, teekshna, teevra@
+@adage@|@kahaavat, ookti, vachan@
+@adamant@|@atal, vajjra@
+@adaptation@|@anukultaa, mél, sanvidhaan, sanyog, sanyojan@
+@addendum@|@parishisht@
+@addict@|@adheen@
+@addition@|@adhiktaa, joad, parishisht, sankalan@
+@additional@|@adhik, adhiktar, atirikt@
+@addle@|@nikamma, usar@
+@address@|@pataa, thikaanaa@
+@adept@|@daksh, kushal, nipun, pravin@
+@adequate@|@kaafi, paryaapt@
+@adherence@|@avalamban, bhakti, lagaav, prém@
+@adherent@|@anuyaayee, chiptaa huaa, saathi@
+@adhesion@|@nishthaa@
+@adipose@|@charbeeyukt@
+@adjacent@|@nikatvartee, paas kaa, sameep@
+@adjacent to@|@ke paas hee@
+@adjective@|@visheshaan@
+@adjoining@|@nikatvartee, sameep@
+@adjournment@|@tahkoobee@
+@adjunct@|@anubandhh, gunvaachak shabd, joad@
+@adjustment@|@samaadhaan, samaayog, soovyavasthaa, sudhaar@
+@administration@|@raaj, shaasan prabandh@
+@administrative@|@kushal, shaasan/prabandh sambandhi@
+@administrator@|@vyavasthaapak@
+@admiral@|@nauka sénadhyaksha@
+@admiralty@|@jal séna vibhaag@
+@admiration@|@aadaryukt aascharya, snéha, vismay@
+@admirer@|@prashansak, prémi, prémik, saraahné waala@
+@admissibility@|@grahyataa@
+@admonition@|@anushaasan, chétavani, shiksha, upadésh@
+@ado@|@jhamélaa, kashtt, shram@
+@adolescence@|@jawani, kishorawastha, tarunai, yauvan@
+@adolescent@|@kishor, tarun, yuvak@
+@adoption@|@sweekar@
+@adoration@|@aadar, bhaktee, prem@
+@adrift@|@idhar-udhar, niraavlamb@
+@adroit@|@chatoor, kushal@
+@adulation@|@ateeprashansaa, chaaploosee@
+@adult@|@paripakkva, praudh, vayask@
+@adulteration@|@milaawat@
+@adultery@|@vyabheechaar@
+@advance@|@péshgee, udhaar, unnatee@
+@advanced@|@abhinav@
+@advancement@|@unnatee@
+@advantage@|@badhat, suavasar@
+@advantage / profit /benefit@|@faaydaa@
+@advantageous@|@hitavardhak@
+@advent@|@aagman@
+@adventure@|@jokhim ka kaam, saahas@
+@adventurer@|@saahasik@
+@adventurous@|@bahadur, saahasi, soorma@
+@adverb@|@kreeyaa visheshan@
+@adversary@|@shatroo, vipakshi@
+@adverse@|@pratikool, viparit@
+@adversity@|@aapattee, sankat@
+@advertisement@|@ishtehaar, vigyaapan@
+@advertiser@|@vigyaapan déné waala@
+@advice@|@salaah, upadesh@
+@advisory@|@upadesh poorna@
+@advocacy@|@bahas, sifarish, vakaalat, vakeelee@
+@advocate@|@paksha-samarthak, rakshak, salaahkaar, vakeel@
+@aerate@|@hawaa se sanyog karaanaa@
+@aerial@|@aasmaani, hawaii, kaalpanik, nabhhasthh, sookshma@
+@aerodrome@|@hawaee adda@
+@aeronaut@|@vaimaneek@
+@aeroplane@|@Hawaee jahaaj, vayooyaan, vimaan@
+@aesthetic@|@saundarya vishayak@
+@afar@|@door, faaslé par@
+@affable@|@madhur bhashee, milansaar@
+@affair@|@jhagdaa, kaam, maamlaa@
+@affect@|@parinaam honaa@
+@affection@|@chhahat, lagaav, prém, sneha@
+@affectionate@|@preeya, pyaaraa@
+@affectionately@|@prém sé, pyaar sé@
+@affidavit@|@shapath lékh, shapath patra@
+@affinity@|@aakarshan, chhahat@
+@affirmation@|@dridhh vachan, pratigya@
+@affirmative@|@ikraari, sweekar soochak@
+@affix@|@pratyay@
+@afflatus@|@daivee prerrnaa@
+@afforestation@|@vaneekaran@
+@affront@|@apamaan, niraadar, tiraskaar@
+@afield@|@khét méin, maidaan méin@
+@aflame@|@jaltaa huaa, prajjwalit@
+@afloat@|@béhtaa huaa, tairtaa huaa@
+@afoot@|@paidal chalkar@
+@afraid@|@bhayaanvit, daraa huaa@
+@african@|@afrikee@
+@aft@|@peechhé@
+@after@|@paschatt, peechhé@
+@afternoon@|@dopahar@
+@afterthought@|@paschatt ka vichaar@
+@afterward@|@iské baad, peechhé@
+@again@|@dobaaraa, ék baar aur, punhh@
+@again / once more@|@ek baar aur, punah@
+@against@|@aamné-saamné, bajaay, sammukhh, virudhh@
+@agate@|@suléimaani pathhar@
+@age@|@aayu, kaal, oomra, samay, yug@
+@aged@|@buddhha, vayovridhh@
+@agency@|@gumaashtaagiri, pratinidhittva@
+@agenda@|@karné waali karyawaahi@
+@agent@|@gumaashtaa, pratinidhee@
+@aggravation@|@bhadkaav, buraai, sangeeni@
+@aggregate@|@kul, kul, sab, sakal, sakal, samooha, sangraha@
+@aggregation@|@samooha, samudaai@
+@aggression@|@aaghaat, aakraman, paraadhikaar@
+@aggressive@|@jhagadaaloo@
+@aggressor@|@aakraman karné waala@
+@aghast@|@bhaunchakka, hakka-bakka, steemit@
+@agile@|@chalaak, furteela, téj@
+@agility@|@chapaltaa@
+@agitation@|@aandolan, béchainee, hairaani, halchal, satyagraha@
+@ago(adv)@|@beetaa huaa, poorva@
+@agony@|@mrityoo yaatnaa, yaatnaa@
+@agrarian@|@bhoomi sambandhi, bhoomi vishayak, grammya@
+@agree@|@razee@
+@agreeable@|@anuroop, sammat, suhaavnaa, upayogi@
+@agreement@|@aikya, sammati, sweekar pattra@
+@agricultural@|@khét kaa, krishi sambandhi@
+@agriculture@|@kheti, khéti, krishi@
+@aground@|@dharti par atkaa huaa@
+@ahead@|@aagé, agaadi, saamné@
+@aid@|@madad@
+@ailment@|@beemaaree@
+@aim@|@lakshya, nishaanaa@
+@air@|@hawaa, vaayu@
+@air conditioned@|@vaataanukuleet@
+@AIR(abbrv.)@|@All India Radio@
+@airforce@|@hawaee, hawaee dal@
+@airman@|@vaimanik@
+@alarm@|@gajar@
+@alchemy@|@rasa vidyaa@
+@alcohol (drinking)@|@daaru, madira, sharaab@
+@alert@|@chaukas, sachet@
+@algebra@|@beej ganita@
+@alien@|@pargrahavasee@
+@alien / abnormal@|@vikrit@
+@alive@|@zindaa@
+@all@|@saaraa, sab, sabhee, samast@
+@all of India.@|@saaraa Bharat.@
+@alley@|@galee@
+@alligator@|@ghadiyaal@
+@alphabet@|@akkshar@
+@american@|@amrikee@
+@analysis@|@pruthakkaran@
+@ancient@|@praacheen@
+@and@|@aevam, aur, tathaa, va@
+@angel@|@paree@
+@anger@|@gussa@
+@angle@|@koan@
+@animal@|@jaanwar@
+@annual@|@varshik@
+@answer@|@jawaab@
+@ant@|@cheentee@
+@apology@|@maafee@
+@apple@|@Seb@
+@application(using forms)@|@arjee@
+@April@|@Aprail@
+@aquaregia@|@tejaab@
+@archaeological department@|@puratattva vibhaag@
+@archaeological section@|@puratattva vibhaag@
+@archaeologist@|@puratattva shastri@
+@architecture@|@vaastu shaastraa@
+@area@|@kshetraphal@
+@argument@|@viwaad, waad@
+@arithmetic@|@anka ganita@
+@army@|@sainya dal@
+@arrangement@|@rachanaa@
+@arrestation@|@giraftaree@
+@arrival@|@aagman@
+@arrogance@|@ghamand@
+@arrogant@|@ghamandee@
+@art@|@kalaa@
+@art gallery@|@kalaa daalan@
+@art work@|@kalaakaree@
+@artery@|@dhamanee@
+@artist@|@kalaakaar@
+@as you sow so shall you reap@|@jaisi karni waisi bharnee.@
+@ash@|@raakh@
+@asian@|@ashiyayee@
+@assumption@|@dhaarnaa@
+@asteroid@|@laghoo graha@
+@asthama@|@damaa@
+@astrologer@|@jyotishee@
+@astrology@|@jyoteesh vidyaa@
+@asylum@|@aashray sthaan@
+@atheist@|@naastik@
+@atleast@|@kam-se-kam@
+@atmosphere@|@vaataavaran, vayoomandal@
+@atomic@|@anoovishayak@
+@atrocious@|@bhayaanak@
+@atrocity@|@dushta krityaa@
+@attack@|@aakraman, hamlaa@
+@attempt@|@chaeshhtaa@
+@attendance@|@upasthitee@
+@attention@|@dhyaan@
+@attractive@|@aakarshak@
+@auction@|@neelami@
+@augmentation@|@vridhhee@
+@August@|@Agast@
+@austere@|@teevra@
+@australian@|@australiyayee@
+@autibiography@|@aatmakathaa@
+@autobiography@|@aatmakathaa@
+@avalanche@|@him prapaat@
+@average@|@ausat@
+@award@|@puraskaar@
+@awestruck@|@bhay chakit@
+@axe@|@kulhadee@
+@baby@|@bachcha (ch as in chat), shishoo@
+@bachelor@|@kuaaraa@
+@back(body part)@|@peeth@
+@backwards@|@peeche@
+@bad@|@burra@
+@bag@|@thailee@
+@bail@|@jamaanat@
+@ball(cricket)@|@gaind@
+@balloon@|@gubbaraa@
+@banana@|@Kela@
+@banana skin@|@kele ka chhilka@
+@bankrupt@|@kangaal@
+@barber@|@nayee@
+@bare@|@kéval, khaali, nagna@
+@barefoot@|@nangé paaon@
+@barefooted@|@nangé paaon sé@
+@barely@|@kathinaai sé, mushkil sé@
+@bargain@|@achchha saudaa, lén-dén@
+@barge@|@bajjraa, sair karné ki naav@
+@bark@|@chhoti naav, vriksh ki chhaal@
+@barley@|@jau@
+@barn@|@khalihaan@
+@barometer@|@barometer, vaayu-daab-maapak@
+@baron@|@tallukdaar@
+@barrack@|@barrack, sainikon ké liye bané ghar@
+@barrel@|@peepaa@
+@barren@|@baanjh, banjar, usar@
+@barricade@|@moarchaa, roak@
+@barrier@|@aad, bachaav, naaka, roak, seema@
+@barrister@|@barrister, pradhaan vakeel@
+@barrow@|@thhélagaadi@
+@barter@|@adala-badala, vinimay@
+@base@|@chhotaa, kameenaa, neech@
+@base(of something)@|@aadhaar, neev@
+@baseless@|@niraadhaar@
+@bashful@|@lajjasheel, nammra, vineet@
+@basic@|@aadhaar bhoot, buniyaadi, mool, mooltattva@
+@basil@|@tulsi@
+@basin(of lake/river)@|@jalaashay, taalaab@
+@basis@|@aadhaar, jadd, mool@
+@basket@|@daliyaa, tokree@
+@bastard@|@doaglaa, haraamkhor, jaaraj@
+@bastion@|@burj, gad@
+@bat (animal)@|@chamgaadad@
+@bat(cricket)@|@ballaa@
+@batch@|@gut, jaththhaa@
+@bath@|@snaan@
+@bathroom@|@gusalkhaana, snaan ghar@
+@baton@|@chhadee@
+@battalion@|@paltan, sénaa@
+@batten@|@takhtaa@
+@battle@|@ladaai, yudhh@
+@battle / fight@|@ladayee@
+@battlefield@|@yudhh bhoomi@
+@battleship@|@yudhh-poat@
+@bauble@|@khilaunaa, tuchh vastoo@
+@bay@|@khaadi@
+@bayonet@|@kirrch, sangeen@
+@bazaar@|@bajaar, haat@
+@beach@|@samudratat, teer@
+@beacon@|@aakaashdeep@
+@bead@|@maalaa ka daana@
+@beak@|@chaunch@
+@beam@|@kadee@
+@beam(of light)@|@kiran samuha@
+@bean@|@lobiyaa, sém@
+@bear@|@bhaaloo@
+@beard@|@Daadhi@
+@bearer@|@vaahak@
+@beast@|@darindaa, jaanwar@
+@beautiful@|@haseen, khoobsoorat, sundar@
+@beauty@|@khoobsuratee@
+@because@|@kyonki@
+@bed@|@bistar@
+@bee@|@madhoo makhhi@
+@bee hive@|@chatta@
+@beggar@|@bikhaaree@
+@beginning@|@aarambh, shuruaat@
+@behavior@|@bartaav@
+@belief@|@mannyataa, prathaa@
+@bell@|@ghantaa@
+@belt@|@patta, patta (t as in top), peti@
+@bench@|@ghumaav, moad@
+@bench(of justices)@|@nyaayaadheesh samudai@
+@benediction@|@aashirwaad, kalyaan@
+@benefactor@|@hitkaari, punyaatmaa, upakaari@
+@benefice@|@dharmavrittee@
+@beneficial@|@laabhdaayak@
+@benefit@|@anugrah, laabh@
+@benevolence@|@bhalaee, dayaa, kripa@
+@benevolent@|@dayaaloo, hiteshi@
+@benign@|@anukool, kripaaloo, mridu swabhaav@
+@bent@|@jhuka huaa, mudaa huaa@
+@bent(n)@|@moad, ruchee@
+@bequest@|@waseeyat@
+@bereavement@|@haanee, maut@
+@beside@|@nikat, paas, sameep@
+@besides@|@sivaay isske@
+@best@|@sarvottam@
+@bet@|@baaji, sharrt@
+@better@|@behtar@
+@between@|@beech mein, madhya mein@
+@beverage@|@peya@
+@Beware!@|@saavdhaan!@
+@beyond@|@paar@
+@bias@|@tarafdaaree@
+@biblical@|@bible sambandhi@
+@bicameral@|@do vyawasthaapak ang yukt@
+@bicentenary@|@dvitiya shataabdi mahotsav@
+@bicker@|@jhagdaa@
+@bicycle@|@saikil@
+@bicyclist@|@saikil chalaane waalaa@
+@bid@|@neelami ki bolee@
+@bidder@|@bolee lagaane waalaa@
+@bidding@|@bolee@
+@biennial@|@dvivaarshik@
+@big@|@badaa, mahaan@
+@bigot@|@kattar@
+@bigotry@|@kattarpann, pakshapaat@
+@bile@|@pitt@
+@biography@|@charitra@
+@biological@|@jaivik@
+@biological weapon@|@jaivik shastra@
+@biologist@|@jeev-shastri@
+@biology@|@jeev-shaastra@
+@bird@|@pakshee, panchhi, panchhi@
+@birthday@|@janamdin@
+@biscuit@|@biskoot@
+@bitch@|@kutiyaa (t as in tequila)@
+@bitter@|@kadwaa@
+@black@|@kaalaa, saavnlaa@
+@black magic@|@kaala jaadoo@
+@blast@|@dhamaakaa@
+@blind@|@andhaa(m), andhee(f)@
+@blindness@|@andhaapan@
+@blood@|@khoon@
+@blue@|@neela@
+@blurred@|@aspasht@
+@board@|@phalak@
+@boast(n)@|@shaikhee@
+@boat@|@Kashti (t as in tequila)@
+@boating@|@nauka-vihaar@
+@body@|@deh, deha, jism, shareer, tan@
+@bomb@|@bam@
+@bomb squad@|@bam dastaa@
+@bone@|@haddee@
+@book@|@kitaab, pustak@
+@booklet@|@pustikaa@
+@border@|@seema@
+@bottle@|@boatal@
+@bottom@|@tal@
+@boundary@|@sarhad, seemaa@
+@bouquet@|@guldastaa@
+@box@|@baksaa@
+@boy@|@Ladka@
+@boycott@|@bahishkaar@
+@brain@|@mastishq@
+@branch@|@daalee, shakha, tahanee@
+@brandy@|@daaroo@
+@brass@|@peetal@
+@breadth@|@chaudayee@
+@breed@|@nasla@
+@breeze@|@hawaa@
+@bribe@|@rishwat@
+@brick@|@eent@
+@bride@|@dulhan@
+@bride groom@|@doolhaa@
+@bridge(over a river)@|@pul@
+@bright@|@ujjwal@
+@brightness@|@ujaalaa@
+@bring it/him/her down!@|@usé neeché utaaro!@
+@brinjal@|@Baingan@
+@bronze@|@peetal@
+@brothel@|@vaishya ghar@
+@Brother@|@bandhoo, Bhaai@
+@brotherhood@|@bandhutva, bhaee chaaraa@
+@brutal@|@kroor@
+@brutality@|@kroorrtaa@
+@bud@|@kalee@
+@budget@|@arthsankalp@
+@building@|@imaarat@
+@bullock@|@bail@
+@buoyancy@|@uddhharan shaktee@
+@burro@|@khachchhar@
+@busy@|@vyast@
+@but@|@lekin, parantu@
+@butcher@|@kasaee@
+@butter@|@makhkhan@
+@butterfly@|@titlee@
+@café@|@upahaargriha@
+@cage@|@pinjraa@
+@calamity@|@aapattee@
+@calf@|@gaai ka bachhdaa@
+@callous@|@kathin, kathor, nirrdayee@
+@callow@|@anadi, anubhavheen@
+@calm@|@shaant, sthir@
+@calmly@|@dheeré sé, shanti sé@
+@calumet@|@ék prakaar ka hukkaa, péchwaan@
+@camel@|@oont@
+@camera@|@kaimraa@
+@camouflage@|@chhadmaavaran@
+@camp@|@chhaavni, déraa, padaav@
+@campaign@|@abhiyaan, ladaai@
+@campaigner@|@abhiyaan chalaané waala@
+@can(a utensil)@|@katoraa, tin ka barrtan@
+@can(v)@|@saknaa@
+@canal@|@naalaa, néhar@
+@cancer@|@kark roag@
+@cancer(astro.sign)@|@karrkraashee@
+@candid@|@nishkapat, sachchaa@
+@candidate@|@padabhilaashi, ummedwaar@
+@candle@|@moambattee, mombattee@
+@candor@|@kharaapann, nirmaltaa, saafdilee@
+@cane@|@bént, chhadee@
+@canine@|@kutte jaisaa@
+@canister@|@canastar@
+@canker@|@naasur, vran@
+@cannibal@|@narrbhakshak, swajaatee-bhakshak@
+@cannibalism@|@raakshaspann@
+@cannon@|@toaf, toap@
+@cannonball@|@toap ka golaa@
+@canny@|@chaalak, chatur, dhoort@
+@canoe@|@dongee@
+@canon@|@toaf@
+@canon ball@|@toaf golaa@
+@canopy@|@chhattra@
+@cant@|@asabhya@
+@cant(n)@|@kubhaashaa@
+@cantankerous@|@chidchidaa, jhagadaaloo@
+@canteen@|@upahaargriha@
+@canteen(of a soldier)@|@sainik ka tin ka barrtan@
+@canter@|@kadam, sarpat@
+@canto@|@kaand, sarrg@
+@canton@|@parganaa@
+@canvas@|@tirpaal@
+@canvasser@|@praarthak, vote maangné waalaa@
+@cap@|@toapee@
+@capability@|@kshamataa, saamarrthya@
+@capable@|@laayak, yogya@
+@capacity@|@kshamataa@
+@cape@|@gardanee, raas@
+@caper@|@uchchhal-kood@
+@capital@|@achchha, mool-dhan, poonji, uttam@
+@capital(country's)@|@raajdhanee@
+@capital(of a country/state)@|@raajdhaanee@
+@capitalism@|@poonjiwaad@
+@capitalist@|@mahaajan, poonjipati, sahukaar@
+@capitulation@|@prann, vachan@
+@capricious@|@sankee, uthlaa@
+@capsule@|@capsule, koopee@
+@captain@|@kaptaan, sénaapatee@
+@captive@|@yudhh bandee@
+@captivity@|@adheentaa, kaid@
+@car@|@Car, motor gaadi@
+@carbohydrates@|@karboadak@
+@care@|@fikar, parvaa@
+@careless@|@bayfikar@
+@carelessness@|@beparvayee@
+@carnivorous@|@maansaahari@
+@carpet@|@galeecha@
+@carrot@|@gaajar@
+@cash@|@nakad@
+@cast(in a play)@|@kirdaar@
+@cat@|@billee@
+@catastrophe@|@mahaasankat@
+@cattle@|@mawaeshee@
+@celebrity@|@sooprasidhh vyaktee@
+@celestial@|@swargeeya@
+@cemetery@|@shamshaan ghaat@
+@census@|@janagananaa@
+@center@|@kendra@
+@central@|@kendreeya@
+@century@|@Shatak@
+@ceremony@|@samarambh@
+@certificate@|@pramaan patra@
+@certified@|@pramanit@
+@chain / cascade / series@|@shrinkhlaa@
+@chair@|@kursee@
+@challenge@|@chunautee@
+@chancellor(of university)@|@kulapatee@
+@character(of a person)@|@chaaritrya@
+@cheap@|@sastaa@
+@cheek@|@gaal@
+@chef@|@baawarchee@
+@chemical@|@rasaayan@
+@Chest / Breast@|@Chhatee@
+@chicken@|@murrgee@
+@child@|@aulaad, santaan@
+@child(ones own)@|@aulaad, santaan@
+@children@|@bachchein@
+@china@|@cheen@
+@chinese@|@chinee@
+@chronology@|@kram@
+@church@|@girija ghar@
+@cinema@|@chal chitra@
+@cinnamon@|@dalchinee@
+@circle@|@vartool@
+@circular@|@vartool-aakaar@
+@circulation@|@prasaar@
+@citizen@|@naagrik@
+@city@|@nagar, shahar@
+@civil engineering@|@sthaapatya abhiyantrikee@
+@clap@|@talee@
+@clarity@|@spashtataa@
+@class@|@shrainee@
+@classic@|@utkrishta@
+@classification@|@vargeekaran@
+@clay@|@mittee@
+@clean@|@nirmal, saaf@
+@clock@|@ghadee@
+@cloth / garment@|@vastra@
+@clothes@|@kapadé, vastra@
+@cloud(general)@|@baadal@
+@clove@|@laung@
+@clown@|@vidooshak@
+@clue@|@suraag@
+@clumsily@|@anadipan se, bhaddepan se@
+@clumsy@|@bedaul, bedhang, bhadda, sthool@
+@cluster@|@guchchha, samooha, sangh@
+@clutch@|@mooth, pakad, panjaa@
+@clutter@|@hadbadaahat, kolaahal@
+@coach@|@Gaadi@
+@coach(trainer)@|@prashikshak@
+@coal@|@koylaa@
+@coalesce@|@jud jaanaa, milnaa@
+@coalition@|@mel, sanyog@
+@coarse@|@bhadda, gaadhaa, moataa@
+@coast@|@kinaaraa, samudra tat, seema@
+@coat@|@aavaran, khaal@
+@coating@|@lep@
+@cobbler@|@chammhaar@
+@cobra@|@bhujang, saanp@
+@cobweb@|@makdee ka jaalaa@
+@cock@|@kukkut, murrgaa@
+@cockatoo@|@kakatooaa@
+@coconut@|@nareeyal@
+@code@|@sanhitaa@
+@code(used by military)@|@sainik chinh pranaali@
+@coerce@|@vivash karnaa@
+@coercive@|@laachaari, pratirodhi@
+@coeval@|@samakaaleen@
+@cog@|@chakradant@
+@cogent@|@balwaan, pakka@
+@coherent@|@sanlagnaa@
+@cohesion@|@lagaav, sambandh, sanyog@
+@coin@|@mudraa, sikkaa@
+@coincidence@|@sanyog@
+@coincident@|@milta huaa, samaan@
+@cold@|@sard, thandaa@
+@cold drink@|@sheet peya@
+@collar@|@pattaa@
+@collateral@|@samaanaantar@
+@colleague@|@sahkaari, sahpaathi, sahyogee@
+@collection@|@sangraha@
+@college@|@mahavidyalay@
+@colour@|@rang@
+@combat@|@yudhh@
+@come in.@|@andaar aao.@
+@comet@|@dhoomketu@
+@comic@|@haasyakaarak@
+@command(n)@|@hukm@
+@commerce@|@vaanijjya@
+@commercial sex worker@|@vaishya@
+@committee@|@samitee@
+@common cold@|@sardi@
+@communism@|@saamyawaad@
+@comparison@|@tulanaa@
+@competition@|@spardhaa@
+@competitor@|@prateespardhee, spardhak@
+@compiler@|@sankalankarrtaa@
+@complaint@|@shikaayat@
+@complete@|@poorna@
+@complex@|@jateel@
+@complicated@|@paincheedaa@
+@complimentary@|@abheewadanparr@
+@compound(chemical)@|@saynyug@
+@compulsory@|@aneevaryaa@
+@computer@|@sanganak@
+@computer  engineering@|@sanganak abhiyantrikee@
+@concentric@|@samakendra@
+@concept@|@sarvasaadharan kalpanaa@
+@conclusion@|@nirrnay@
+@conclusive@|@nirrnayak@
+@condition@|@awasthaa@
+@condition(state of being)@|@awasthaa, haalat@
+@condition(to be fulfilled)@|@sharth@
+@conduct(behavior)@|@aacharan@
+@cone@|@shankoo@
+@conference@|@sabhaa@
+@confirmation@|@pushhtee@
+@consciousness@|@hosh@
+@constant(math)@|@sthiraank@
+@contagious@|@sansargjanya@
+@container(small)@|@dibbaa@
+@continents@|@khand@
+@continuously@|@lagataar@
+@contract / deal@|@karaar@
+@contraction@|@sikudan@
+@control@|@kaboo, niyantran@
+@control room@|@niyantran kaksha@
+@conversation@|@sanwaad, vaartalaap@
+@convict@|@aaroapee, aparaadhi, doashee@
+@cookery@|@paak kritee@
+@cool@|@sard, thandaa@
+@copper@|@taamba@
+@corner@|@koana@
+@corrupt@|@bhrashtt@
+@corruption@|@bhrashttaachaar@
+@cost@|@daam@
+@cost / price@|@keemat@
+@costly@|@keemti, mehangaa@
+@costume@|@pehnaavaa, poshakh@
+@cottage cheese@|@paneer@
+@cotton@|@kapaas@
+@cough@|@khansee@
+@count@|@gananaa, gintee@
+@country@|@desh@
+@courage@|@shourya@
+@courtyard@|@aangan@
+@cow@|@gaai@
+@coward@|@darrpoke@
+@crab@|@kenkdaa@
+@crack(n)@|@daraar@
+@crazy@|@paagal@
+@crazyness@|@paagalpan@
+@creation@|@nirmaan, nirmitee@
+@credit@|@udhaar@
+@crestfallen@|@naaraaz, niraash@
+@cretenism@|@baunaapan@
+@crime@|@apraadh, joorm@
+@crispy@|@kur kuraa@
+@critic@|@nindak@
+@criticism@|@nindaa@
+@crocodile@|@magar machh@
+@crow@|@kak@
+@crown@|@taaj@
+@crude@|@kachcha, kachha@
+@cruel@|@nirrday@
+@cube root(math)@|@ghan mool@
+@cube(math)@|@ghan@
+@culprit@|@aparaadhi@
+@cupboard@|@almaaree@
+@curd@|@Dahee@
+@currency@|@challan, mudra@
+@curse@|@shaap@
+@curtain@|@parrdaa@
+@customer / consumer@|@graahak@
+@customs(practices)@|@reeti rivaaj@
+@cycle@|@Cykil@
+@dab(at)@|@kushal@
+@dacoit@|@daakoo@
+@dacoity@|@daakaa, dakaitee@
+@daddy@|@paapaa@
+@dagger@|@khanjar@
+@daily@|@daineek@
+@dainty@|@sundarr@
+@dais@|@vyaaspeeth@
+@dam@|@baandh, jalaashay@
+@damage@|@haanee, shratee@
+@damsel@|@kumarikaa@
+@dance@|@naach, nrityaa@
+@dancer@|@nrityaanganaa(f)@
+@danger@|@khatraa@
+@dangerous@|@asurakshit@
+@dapper@|@chalaakh@
+@daring@|@dhairya@
+@dark cloud@|@ghataa@
+@darkness@|@andhhkaar@
+@dashing@|@himmatwaalaa@
+@date@|@tareekh@
+@daughter@|@betee@
+@daughter in law@|@bahoo@
+@day@|@Din, waar@
+@day(of a week)@|@waar@
+@de facto@|@vastootahh@
+@dead body@|@laash, murdaa@
+@dear@|@preeya@
+@death@|@maut, mrityoo, mrityoo, nidhan@
+@decade@|@Dashak@
+@deceitful@|@dhoort@
+@December@|@Disambar@
+@decision@|@nirnay@
+@declaration@|@vidhaan@
+@decoration@|@sajaawat@
+@decrement@|@katautee@
+@deed@|@karma, kritee@
+@deep@|@gehraa@
+@deer@|@mrig@
+@defamation@|@badnamee@
+@defeat@|@haar, paraajay@
+@defence@|@rakshaa@
+@defence minister@|@rakshaa mantree@
+@degree(measurement)@|@ansha@
+@dejected@|@udaas@
+@delay@|@daeree@
+@delicate / fragile@|@naazuk@
+@delicious@|@swaadisht@
+@demands@|@maangéin@
+@democracy@|@lokshahee@
+@demon@|@raakshasa@
+@dentist@|@dant chikitsak@
+@department@|@vibhaag@
+@departure@|@prasthaan@
+@dependent(behavior)@|@paravlambi@
+@depth@|@gehraayee@
+@description@|@varrnan@
+@desert@|@marusthal@
+@destiny@|@niyatee@
+@destructible@|@nsahwar@
+@destruction@|@naash@
+@destructive@|@vinaashak@
+@destructive nature@|@vinaashak vrittee@
+@determinate@|@nischit@
+@determination@|@nischay@
+@detraction@|@nindaa@
+@detriment@|@haanee@
+@detrimental@|@haaneekaarak@
+@devaluation@|@avamoolyan@
+@development@|@pragatee, unnatee@
+@device@|@saadhan, upakaran@
+@devil@|@shaitaan@
+@devotee@|@bhakt@
+@devotion@|@bhaktee@
+@dialogue@|@sambhaashan@
+@diameter@|@vyaas@
+@diamond@|@heera, nageena@
+@diarrhoea@|@atisaar@
+@dice@|@phaansaa@
+@dictator@|@hukumshaah, taanaashaah@
+@dictatorship@|@tanaashahee@
+@diction@|@bhaashaa-shailee@
+@dictionary@|@shabdakosh@
+@different@|@alag@
+@difficult@|@katheen@
+@difficulty@|@mushkil@
+@digit@|@anka@
+@dignity@|@maananeeyataa@
+@digression@|@vishayaantarr@
+@diligent@|@mehnatee@
+@dimension@|@ayaam@
+@dinner@|@raat kaa khaanaa@
+@direct / straight@|@seedha@
+@direction@|@dishaa, rukh@
+@direction(films)@|@digdarshan@
+@director(film)@|@digdarshak@
+@dirty@|@gandaa@
+@disc@|@tashtaree@
+@discussion@|@baatcheet, charchaa@
+@disease@|@beemari, marj, roag@
+@dish@|@thalee@
+@dishonest@|@baeimaan@
+@disinfection@|@nirrjantookikaran@
+@disorder@|@vikaar@
+@dispensary@|@dawaakhaanaa@
+@displace@|@jagah se hilnaa@
+@distance@|@antar, faaslaa@
+@distinct@|@spasht@
+@disturb / perturb@|@chhednaa, pareshaan karnaa@
+@diverse@|@bhinn@
+@diversity@|@vividhataa@
+@divine@|@daivee@
+@division@|@vibhaajan@
+@division(math)@|@vibhaajan@
+@division(of an organisation)@|@vibhaag@
+@divisional@|@vibhaageeya@
+@divorce@|@talaak@
+@doctor@|@chikitsak@
+@documents@|@dastaavez@
+@dog@|@kutta@
+@doll@|@gudiyaa@
+@donation@|@chandaa@
+@donkey@|@gadhaa@
+@don't do like that.@|@waisa mat karo.@
+@don't move!@|@hilnaa mat!@
+@doomsday@|@qayamat@
+@door@|@darwaajaa, darwaajaa, dwaar@
+@doubt@|@shuck@
+@down@|@neeche@
+@dowry@|@dahej@
+@dramatic@|@naatakeeya@
+@dramatist@|@naatak-kaar@
+@draper@|@bajaaj@
+@drapery@|@bajaajee@
+@drastic@|@prachand@
+@draught@|@akaal, chitrakaari@
+@drawback@|@dosh, kamee@
+@drawer@|@daraaj@
+@dreadful@|@bhayaanak@
+@dream@|@khwaab, swapna@
+@dreary@|@nirrjan, udaas@
+@dregs@|@mael@
+@dress(n)@|@pehnaavaa, poshakh@
+@dressing@|@vastra@
+@drill(exercise)@|@abhyaas, kawayat@
+@drill(machine)@|@chhedan yantra@
+@driver@|@chaalak@
+@drizzle@|@halki baarish@
+@drone(derog)@|@kaamchor@
+@droplet@|@boond@
+@droplets@|@boondein@
+@drought@|@akaal, sookhaa@
+@drove(n)@|@jhund@
+@drowsiness@|@susti@
+@drowsy@|@sust@
+@drug@|@davaa, dawaa@
+@drum@|@dhol@
+@drum(musical instru.)@|@dhol@
+@drunkard@|@sharaabee@
+@dry@|@rookhaa, rookhaa, shushk, sookhaa@
+@dryness@|@sookhaapan@
+@dual@|@dvik@
+@dubious@|@saashank, sandigdh@
+@duchess@|@raanee@
+@duck@|@batakh, bathtak@
+@duct@|@naalee@
+@ductility@|@tantoobhavansheelta@
+@duet@|@dwandvageet@
+@dull@|@dhundhlaa, nirutashi, sust@
+@dullness@|@dhundhlaapan, sustee@
+@duly@|@yathaayogya@
+@dumb@|@bahraa@
+@dumbfound@|@hatprabh@
+@dumplings@|@pakaude@
+@dunce@|@moorkh@
+@dung@|@gobar@
+@dungeon@|@andh-koop-kaaraagaar@
+@dupe(n)@|@bholaa@
+@duplicate@|@nakal, pratilipee, pratilipee@
+@duplicity@|@kapat@
+@durability@|@tikaav, tikaoopan@
+@duration@|@avadhi, samay@
+@duress@|@dabaav@
+@during(prep)@|@dauraan@
+@dusk@|@sandhyaakaal@
+@dusky@|@dhundhlaa, udaas@
+@dust@|@chooraa, dhool@
+@dustbin@|@kooda daan@
+@dutiful@|@kartavya paraayan@
+@duty@|@kartavya@
+@duty(tax)@|@kar@
+@dwarf@|@baunaa@
+@dwelling(n)@|@ghar@
+@dye@|@rang@
+@dyer@|@rangrez@
+@dynamic@|@gatyaatmak@
+@dynamics@|@gatee-vigyaan@
+@dynastic@|@raajvansheeya@
+@dynasty@|@raajvansh@
+@dysentery@|@paechish@
+@dysentry@|@dast@
+@each@|@pratyek@
+@eager@|@aadheer, utsuk@
+@eagerness@|@utsukataa@
+@eagle@|@cheel@
+@Ear@|@Kaan@
+@early@|@poorv, samay se pehle@
+@earnest@|@aparihaas@
+@earnestly@|@anuraag se@
+@earning@|@kamayee@
+@ear-ring@|@karna bhooshan@
+@earth@|@prithvee@
+@earthen@|@matiyaa@
+@earthen pot@|@matkee@
+@earthly@|@saansaarik@
+@earthquake@|@bhoochaal, bhookamp@
+@ease@|@sugamataa@
+@easement@|@suvidhaa@
+@east@|@poorv@
+@easterly@|@poorvee, purvaiya@
+@eastern@|@poorvee, purvaiya@
+@easy@|@aasaan, asaan, saral@
+@easy to access@|@sulabh@
+@eaves@|@oaltee@
+@ebb@|@bhaataa@
+@eccentric@|@avyavasthit, vikendra@
+@eccentric(behavior)@|@vikshipt@
+@eccentricity@|@vikendrataa@
+@echo@|@goonj, pratidhwanee@
+@eclipse@|@grahan@
+@economical@|@kifayatee@
+@economics@|@arthshaastraa@
+@economy@|@arth vyavasthaa@
+@edition@|@avrittee@
+@editor@|@sampaadak@
+@education@|@shikshaa@
+@effect@|@asar, parinaam, prabhaav@
+@effective@|@asardaar, parinaamkarak, prabhaavshalee@
+@efficiency@|@kaarya khsamataa@
+@efficient@|@kaaryaksham@
+@egg@|@andaa@
+@eighteen@|@Atharaah@
+@Eighth@|@Aanthva (n sounds from nose)@
+@eighty@|@Assi@
+@elation@|@utsaah@
+@election@|@chunaav@
+@electric bulb@|@bijlee ka diyaa@
+@electric pole@|@bijlee ka khambaa@
+@electrical engineering@|@vidyut abhiyantrikrr@
+@Electrical resistance@|@vidyut avarodh@
+@electricity / electric@|@vidyut@
+@electron@|@anoo@
+@element@|@tattva@
+@element(chemistry)@|@mool tattva@
+@elevator@|@lift@
+@eleven@|@Gyaraah@
+@eleventh@|@Gyaarahvaa@
+@elocution@|@vaktavya@
+@emblem@|@chinh@
+@embryo@|@garbhaa@
+@eminent@|@sooprasidhh@
+@emotional@|@bhavuk@
+@emotions@|@bhaavanaaéin@
+@emperor@|@samraat, sultan@
+@empire@|@sultanat@
+@empress@|@mallikaa@
+@empty@|@khalee, riktt@
+@enamel@|@mina@
+@encroachment@|@ateekraman@
+@encyclopaedia@|@dnyaankosh@
+@end@|@anth@
+@enemy@|@dushman, shatroo@
+@energy@|@oorjaa@
+@engagement@|@nikaah, sagayee@
+@engine@|@injan@
+@engineer@|@yantradnya@
+@english@|@angrezee@
+@enmity@|@shatrootvaa@
+@enormous@|@prachand@
+@enough@|@kaafee@
+@enough!@|@bas!@
+@entertaining@|@manoranjak@
+@entertainment@|@manoranjan@
+@enthusiasm@|@sphoortee, utsaah@
+@entire@|@sampoorna@
+@entry@|@pravesh@
+@entry fee@|@pravesh shulk@
+@envelope@|@lifafaa@
+@envoy@|@rajdoot@
+@envy@|@matsar@
+@epicentre@|@bhookamp kendra@
+@equal@|@baraabar, samaan@
+@equation@|@sameekaran@
+@equator@|@vishuvavritt@
+@equatorial@|@vishuvavritteeya@
+@essay@|@nibandh@
+@establishment@|@prasthhapanaa@
+@european@|@europeeya@
+@evening@|@sandhya, Shaam@
+@event@|@ghatanaa@
+@evil spirit@|@buree aatmaa@
+@exam@|@pareeksha@
+@examinee@|@pariksharthi@
+@examiner@|@parikshak@
+@example@|@udaaharan@
+@excellent@|@utkrishta@
+@except@|@ke alaawaa@
+@exercise(physical)@|@kasrat, vyayaam@
+@exhibition@|@pradarrshan@
+@existence@|@wajood@
+@exit@|@nikaas@
+@expectation@|@apekshaa@
+@expense@|@kharchaa@
+@experience@|@anoobhav@
+@experienced@|@anoobhavee@
+@explorer@|@khojee@
+@explosion@|@dhamaakaa@
+@export@|@niryaat@
+@extra@|@atirikt@
+@extra-marital@|@vivah-bahya@
+@extraterrestrials@|@paragrahavasee@
+@Eye@|@Aankh@
+@eyebrow@|@bhouhain@
+@eyelid@|@palak@
+@eyes@|@nayan@
+@Eyes@|@Aankhen@
+@fable@|@loka kathaa@
+@Face / mouth@|@Mooh, mukh@
+@facilities@|@suvidhaéin@
+@facility@|@suvidhaa, vyasthaa@
+@faint@|@aspasht@
+@fair(skin color)@|@goraa@
+@fairy@|@paree@
+@faith@|@shradhdhhaa, vishwaas@
+@fake@|@jaalee, nakalee@
+@false / lie@|@jhooth, mithya(sanskrit)@
+@family@|@pariwaar@
+@famine@|@akaal@
+@famous@|@mashhahoor, prasidhh@
+@fan@|@pankhaa@
+@fan(of an artist)@|@chahétaa@
+@far@|@door@
+@fare@|@bhadaa@
+@farmer@|@kisaan, krishee@
+@fat(subcutaneous layer)@|@charbee@
+@fate@|@naseeb@
+@Father@|@Pitaaji@
+@father in law@|@sasoor@
+@fatigue@|@thakaan@
+@fault@|@dosh, khataa@
+@favor@|@meharbanee, upkaar@
+@favorable@|@anookool@
+@fear@|@darr@
+@fearsome@|@daraawnaa@
+@February@|@Farvaree@
+@fee@|@shulk@
+@fellow@|@bandaa@
+@female@|@maadaa@
+@fenugreek@|@Methi@
+@fertile land@|@upajaoo zameen@
+@fever@|@bukhaar@
+@fiber@|@tantoo@
+@fibrous@|@tantoomaya@
+@fifteen@|@Pandraah@
+@fifth@|@Paanchva@
+@fifty@|@Pachaas@
+@figure@|@aakriti@
+@figures of speech@|@alankaar@
+@final@|@antim@
+@financial@|@aarthik@
+@fine (as punishment)@|@jurrmaanaa@
+@fine(monetary)@|@jurrmaanaa@
+@finger@|@Unglee@
+@fingers@|@Ungleeyaan@
+@finish@|@samaapt@
+@fire@|@aag, agni(sacred)@
+@first@|@Pahlah@
+@fish@|@machhi@
+@five@|@Paanch@
+@flame@|@jwaalaa@
+@flat@|@samatal@
+@flaw@|@kharaabee@
+@flesh@|@maans@
+@flood@|@baadh@
+@flower@|@phool@
+@flower pot@|@phooldaan@
+@flute@|@baansuree@
+@fly@|@makhhi@
+@fly(n)@|@makhhi@
+@flying saucer@|@udan tashtaree@
+@fog@|@dhund@
+@follower@|@anuyayee@
+@food@|@Khana@
+@footnote@|@tippanee@
+@footware@|@chappal@
+@force@|@bal@
+@forecast@|@bhavishya@
+@foreign@|@videsh@
+@foreign(adj)@|@videshi@
+@forest@|@jungle@
+@forgery@|@jaalsaazee@
+@fort@|@keela@
+@fortnightly@|@paakshik@
+@forty@|@Chalees@
+@forward@|@aage@
+@Four@|@Chaar ( ch as in chuck)@
+@Fourteen@|@Choudaah@
+@fourth@|@Choutah@
+@fragile@|@nazook@
+@fragrance@|@khushboo@
+@freedom@|@aazaadi@
+@french@|@franseesee@
+@Friday@|@Shukrawaar@
+@friend(m)@|@yaar@
+@friend(male or female)@|@doast@
+@friendship@|@dosti@
+@from America@|@amreekaa se@
+@from here@|@yahaan se@
+@from India@|@bhaarat se@
+@froth@|@jhaag@
+@fruit@|@phal@
+@fuel@|@indhan@
+@full@|@bhara hua@
+@fund@|@nidhee@
+@future@|@bhavishya@
+@future tense@|@bhavishya kaal@
+@galaxy@|@dirghika@
+@gambler@|@juaaree@
+@game@|@khel@
+@garage@|@garaaj@
+@garbage@|@koodaa@
+@garland@|@haar, maalaa@
+@garlic@|@lehsan@
+@gas@|@vaayoo@
+@gate@|@phaatak@
+@general@|@saamanya@
+@general knowledge@|@saamanya gyaan@
+@generator@|@janitra@
+@genetic@|@anoovanshik@
+@geographic@|@bhaugoalic@
+@geography@|@bhugoal@
+@geometry@|@bhumitee@
+@get lost!@|@dafaa ho jaao!@
+@get out of here!@|@yahaan sé chalé jaao!@
+@get ready!@|@taiyyar ho jaao!@
+@ghost@|@bhoot@
+@giant(adj)@|@daanaveeya@
+@giant(n)@|@raakshas@
+@gift@|@nazraanaa, tohfaa@
+@ginger@|@Adrak@
+@girl@|@Ladki@
+@gland@|@granthi@
+@glass@|@kaanch@
+@glass(for drinking)@|@pyaala@
+@glove@|@dastaanaa@
+@goat@|@bakree@
+@god@|@allah, bhagwaan, ishwar, yeshu khrist@
+@godown(warehouse)@|@godaam@
+@gold@|@sona, swaran@
+@good@|@acchha@
+@goods@|@maal@
+@Goods train@|@Maal gaadi@
+@government@|@sarkaar@
+@governor(of a state)@|@rajjyapaal@
+@grade@|@darjaa@
+@graduate@|@snaatak@
+@grain@|@dhaan@
+@grammar@|@vyaakran@
+@grapes@|@Angoor@
+@graph@|@aalekh@
+@grass@|@ghaans, trina@
+@Grass / dope@|@charas, gaanjaa etc.@
+@gravitational pull@|@gurutvakarrshan@
+@gravity@|@gurutva@
+@greed@|@loabh@
+@green@|@haraa@
+@ground@|@zameen@
+@group@|@dal, samooha@
+@guava@|@Amrood@
+@guerrilla war strategy@|@ganimee yudhh shailee@
+@guest@|@atithee@
+@gulf countries@|@aakhatee desh@
+@gum@|@goand@
+@gun@|@bandook@
+@gun / rifle@|@bandook@
+@gynecologist@|@stree roag tadnya@
+@gynecology@|@stree roag chikitsaa@
+@hair@|@Baal@
+@hair comb@|@kanghee@
+@half century@|@aadha shatak@
+@hand@|@baanh@
+@Hand@|@Haath@
+@handkerchief@|@rumaal@
+@hands@|@baahein@
+@happiness@|@khushi@
+@happy@|@khush@
+@harassment@|@julm@
+@hard(substance)@|@kathin, thos@
+@hardwork@|@parishram@
+@harsh@|@karaara@
+@hate / dislike@|@nafrat@
+@hatred / violence@|@hinsaa@
+@haunted@|@bhutaila@
+@He / She / They (fam)@|@woh@
+@He / She / They (pol)@|@Weh@
+@head@|@seer@
+@health@|@sehat, tandurustee@
+@healthy@|@sehatmand, tanduroost@
+@heart@|@dil, hriday@
+@heart disorder@|@hriday vikaar@
+@heat@|@garmee@
+@heaven@|@swarg@
+@heavy@|@bhaari@
+@height@|@oonchaee@
+@hell@|@jahannum, nark@
+@hen@|@murgee@
+@hereditary@|@anoovanshik@
+@hero@|@naayak@
+@heroine@|@naayikaa@
+@hidden treasure@|@gupt khazaanaa@
+@hill@|@teela@
+@hinderance@|@baadhaa@
+@his / hers(fam)@|@uskaa@
+@his / hers(pol.)@|@unkaa@
+@historic@|@aitihasik@
+@history@|@itihaas@
+@hobby@|@shauk@
+@hole@|@suraakh@
+@hollow@|@khokhlaa@
+@holy@|@pavitra@
+@home@|@ghar@
+@honest@|@imaandaar@
+@honesty@|@imaan@
+@honey@|@madhoo@
+@honour@|@sammaan@
+@hope@|@ummeed@
+@horizon@|@kshiteej@
+@horse@|@ghodaa@
+@horse carriage@|@baggee@
+@horse rider@|@ghudsawaar@
+@horse riding@|@ghudsawaree@
+@hospital@|@aspataal@
+@Hospital / clinic@|@Davaa khaana@
+@hostile@|@aakramak@
+@hot@|@garam@
+@hot(taste)@|@teekhaa@
+@hour@|@ghantaa@
+@house@|@makaan@
+@how@|@Kaise@
+@how are you(m/f)?@|@aap kaisé/kaisee hai?@
+@how much does this thing cost?@|@iss cheez ki kyaa keemat hai?@
+@how to get there?@|@wahaan kaise jaaye?@
+@human@|@insaan, manushya@
+@humanity@|@insaaniyat@
+@humble@|@namra@
+@humid@|@namm@
+@humidity@|@ardrataa, namee@
+@hundred@|@ek sau, Sau, shat (Sanskrit)@
+@hunger@|@bhookh@
+@hungry@|@bhookha@
+@hunter@|@shikaree@
+@husband@|@patee@
+@hut@|@zhopdee@
+@I@|@Maein@
+@I am fine!@|@theek houn! (n nasal)@
+@i have to do.@|@mujhé karnaa hai.@
+@ice@|@barf@
+@iceberg@|@himkhand@
+@idea@|@kalpanaa@
+@ideal@|@aadarsh@
+@identity@|@pehchaan@
+@idiot@|@kamakkl, naasamajh@
+@if@|@agar@
+@illegal@|@gair kanoonee@
+@illness@|@beemaaree@
+@image@|@chhabee@
+@imaginary@|@kaalpanik@
+@imagination@|@kalpanaa@
+@immediate@|@fauran, turant@
+@immortal@|@amar@
+@import@|@ayaat@
+@importance@|@mahattva@
+@impossible@|@naamumkin@
+@imprisonment@|@kaid@
+@impulse@|@aaghaat@
+@in which region?@|@kaunsé ilaaké mein?@
+@incapable@|@nalaayak@
+@income@|@amdanee, praptee, praptee@
+@income tax@|@praaptee kar@
+@incomparable@|@advitiya@
+@increment@|@badhautee@
+@independence@|@azaadee@
+@independence day@|@swatantrata diwas@
+@independent@|@aazaad, swavalambi@
+@indeterminate@|@aanischit@
+@index@|@anukramanika@
+@Index finger@|@Tarjanee@
+@India@|@bhaarat, Hindustaan@
+@indian@|@bharateeya, hindustanee@
+@Indian (of India)@|@hindustanee@
+@industrial revolution@|@audyogik krantee@
+@infant@|@bachchaa@
+@infection@|@sansarg@
+@infectious@|@sansargjanya@
+@infertile@|@baanjh@
+@infinity@|@anant@
+@inflammable@|@jwaalaagrahi@
+@information@|@jaankari@
+@ingenuous@|@bholaa@
+@inhuman@|@amanaveeya@
+@initial@|@shuruatee@
+@injustice@|@annyaaya@
+@ink@|@siyahee@
+@innocent@|@bholaa, kamsin, naadaan@
+@innumerable@|@asankhyaa@
+@insane@|@paagal@
+@inside@|@andar@
+@inspite of@|@ke baawajood@
+@instalment@|@kisht@
+@instant (time)@|@pal@
+@instinctive@|@paidaayishee@
+@instruction@|@suchanaa@
+@insult@|@apamaan@
+@intelligence@|@hoshiyaaree@
+@intelligent@|@hoshiyaar@
+@interest (bank)@|@byaaj@
+@interesting@|@dilchasp@
+@internal@|@aantrik@
+@intestines@|@aantadeeyaan, aatein@
+@inverted@|@ultaa(m), ultee(f)@
+@investigation@|@jaanch@
+@investment@|@nivesh@
+@invincible@|@abhed@
+@invisible@|@adrishya@
+@island@|@dweep, sweep@
+@It@|@Woh@
+@it will cost you 20 rupees.@|@iske bees rupai dene padenge.@
+@Jack fruit@|@Kathar@
+@jail@|@kaaragriha@
+@January@|@Janvaree@
+@japanese@|@jaapaanee@
+@jesus christ@|@yeshu khrist@
+@jewel@|@alankaar, gehnaa@
+@jewellery@|@gehanae@
+@job@|@naukree@
+@joints@|@joad@
+@joke@|@kiss-saa@
+@juice@|@ras@
+@July@|@Julaee@
+@June@|@Joon@
+@jupiter@|@guroo@
+@justice@|@nyaaya@
+@key(to a house)@|@chaabee@
+@kidnap@|@apaharan@
+@kidney@|@gurdaa@
+@kill@|@hatyaa@
+@killer@|@hatyaaraa(m), hatyaaree(f), quateel@
+@kind( action)@|@meharbaan@
+@king@|@raajaa@
+@kiss@|@pappi@
+@kite@|@patang@
+@knee@|@ghutnaa@
+@knife@|@chakoo, chhuree@
+@knowledge@|@gyaan, vidyaa@
+@laborer@|@majdoor@
+@ladder@|@seedhi (d as in day)@
+@lake@|@jheel, talaab@
+@language@|@bhaashaa@
+@last(adj)@|@aakhree, antim@
+@latrine@|@shauchaalaya@
+@law@|@kaaida, kanoon@
+@lawyer@|@vakeel@
+@laziness@|@susti@
+@lazy@|@sust@
+@leader@|@agua, pudharee@
+@leaf@|@patta@
+@lecture@|@vyakhyaan@
+@left (dirn.)@|@baayein@
+@leg@|@Paaon@
+@legal@|@kanoonee@
+@legible@|@suvachchya@
+@lemon@|@Nimboo@
+@lemonade@|@nimboo ka sharbet@
+@length@|@lambayee@
+@leopard@|@tenduaa@
+@liar@|@jhootha(m), jhoothi(f)@
+@library@|@pustakalaya@
+@license@|@parvaanaa@
+@lid@|@dhakkan@
+@lie (untrue)@|@jhoot@
+@life@|@jaan, jeevan, zindagee@
+@life insurance@|@jeevan beemaa@
+@lifetime@|@aayoo@
+@light@|@prakaash, roshnee, ujaalaa@
+@light (weight)@|@halkaa@
+@lighting(during festivals)@|@roshnayee@
+@lightning stroke@|@bijlee ki kaundh@
+@lightweight@|@halkaa@
+@like@|@pasand@
+@like(metaphor)@|@jaise@
+@like(similie)@|@ke jaisaa@
+@likes / interests@|@dilchaspee@
+@lime(calcium carbonate)@|@choonaa@
+@limit@|@marryadaa@
+@line@|@rekhaa, resha@
+@line(in text)@|@panktee@
+@lion@|@sher@
+@lips@|@hoanth@
+@liquid / fluid@|@taral@
+@liver@|@yakrit@
+@lizard@|@chipkalee@
+@load shedding@|@bhaar-niyaman@
+@loan@|@hrin, rrin (stretch r)@
+@local@|@sthanik@
+@location@|@sthaan@
+@lock(n)@|@taalaa@
+@lone(m/f)@|@akélaa/akélee@
+@lonely@|@tanahaa@
+@lonely heart@|@tanahaa dil@
+@long@|@lambaa(m), lambee(f)@
+@longing@|@vyaakul@
+@looks like we are lost.@|@lagtaa hai hum kho gaye hai.@
+@loose@|@dheelaa@
+@lord@|@prabhu, swami@
+@lore@|@budhdhhi, vidya@
+@loss@|@ghaataa, nuksaan, paraajay@
+@lost@|@khoya huaa@
+@lotus@|@kamal@
+@lovable@|@pyaar karne yogya@
+@love@|@ishq, mohabbat, prem, pyaar@
+@lovely@|@manohar, pyaaraa, sundar@
+@lover(f)@|@premika@
+@lover(m)@|@premee@
+@low@|@dheemaa, gareeb, neechaa@
+@low-tide@|@bhaataa@
+@loyal@|@aagyaakaari, raajbhakt, wafaadaar@
+@loyalist@|@raajbhakt@
+@loyalty@|@swamibhakti, wafaadaari@
+@lubber@|@aalsee, kaamchor@
+@lucid@|@suspashtt@
+@luck@|@bhagya, saubhagya@
+@luckily@|@bhagya se@
+@lucky@|@bhagyawaan@
+@lucrative@|@laabhkar@
+@ludicrous@|@haasnsi ke yogya@
+@lukewarm@|@gungunaa@
+@lull@|@sannaataa@
+@lullaby@|@loree@
+@lumbar@|@kamar sambandhi@
+@luminary@|@chamkeeli vastu@
+@luminous@|@chamakdaar, chamkeelaa@
+@lump@|@dher@
+@lumpy@|@dheledaar@
+@lunacy@|@baawlaapan, paagalpan@
+@lunatic@|@paagal@
+@lunch@|@dopahar ka khaanaa@
+@lung@|@fefdaa@
+@lungs@|@faifdein@
+@luxurious@|@vilaasee@
+@luxury@|@bhog vilaas@
+@lymph@|@lasikaa@
+@mace@|@gadaa@
+@machination@|@bandish, chhal, daav, ghaat@
+@machine@|@yantra@
+@machinery@|@kalyantra@
+@mad@|@paagal@
+@mad(in love of sth/sb)@|@deewaanaa@
+@madam(address)@|@mahodayaa@
+@madcap@|@paagal, sanaki@
+@magic@|@jaadoo@
+@magician@|@jaadoogar@
+@mail@|@chitthee, khat@
+@maize@|@makki@
+@majority@|@bahusankhya@
+@make me some tea.@|@mere liye thodi chai banao.@
+@male@|@nar@
+@malediction@|@shraap@
+@man@|@Mard, puroosh@
+@mango@|@Aam@
+@manhood@|@purushattva@
+@manner / method@|@tareeka@
+@mannerless@|@badtameez@
+@manners@|@tameez@
+@many@|@anek, bahut@
+@map@|@nakshaa@
+@marble@|@sangémarmar@
+@March@|@March@
+@market@|@bazaar@
+@marriage@|@shaadee@
+@married life@|@vaivahik jeevan@
+@mars@|@mangal@
+@Master (boy below teen age)@|@Kumaar@
+@mat@|@chatayee@
+@matchbox@|@diyasalayee@
+@matchstick@|@teeli@
+@mathematics@|@ganeet@
+@matter(in physics)@|@padaarth@
+@mature@|@paripakkva@
+@maximum@|@adhiktam@
+@May@|@Maee@
+@meal@|@bhojan@
+@meaning@|@aarth, matlab@
+@mechanical@|@yantrikee@
+@media@|@prasaar maadhhayam@
+@medicinal@|@aushadheeya@
+@medicine@|@davaa@
+@mediocre@|@saamanya@
+@mediocre / medium (size)@|@madhyam@
+@meditation@|@dhyaan, saadhna@
+@medium (physics)@|@jariyaa, maadhyam@
+@meeting@|@baithak@
+@melody@|@sur@
+@melody / tune@|@dhun@
+@member@|@sadasyaa@
+@memento@|@prateek@
+@memory@|@smritee@
+@mercury(metal)@|@paaraa@
+@metal@|@dhatoo@
+@method@|@tarikaa@
+@mile@|@meel@
+@military@|@sainya, senaa@
+@milk@|@Doodh@
+@mind@|@mann@
+@mine(ore)@|@khaan@
+@minimum@|@nyoonatam@
+@minister@|@mantree@
+@ministry@|@mantralay@
+@mint(currency related)@|@taksaal@
+@mint(herb)@|@pudinaa@
+@minute@|@minat@
+@minute(time)@|@minat@
+@miracle@|@chamatkaar@
+@miraculous@|@adbhoot@
+@mirage@|@mrigjal@
+@mirror@|@aaeenaa@
+@mirth@|@aanand@
+@Miss@|@Kumaari@
+@miss(salutation)@|@Kumaari@
+@missile@|@kshepan aastraa@
+@mistake@|@bhool, galatee@
+@Mister@|@Shreemaan@
+@misunderstanding@|@galatfehamee@
+@mixture@|@mishran@
+@mode@|@shailee@
+@moist@|@namm@
+@moisture@|@namee@
+@moment@|@kshann, pal, pal@
+@Monday@|@Somwaar@
+@money@|@paise@
+@monkey@|@bandarr@
+@month@|@Mahina@
+@monthly@|@masik@
+@moon@|@chaand, chandra, chandra@
+@mop@|@jhadoo@
+@mope@|@udaas/sust manushya@
+@moral@|@naitik@
+@moral(n)@|@abhiprai, upadesh@
+@morality@|@neeti, neetishaastra@
+@morally@|@naitik roop se@
+@morass@|@daldal, keechad@
+@morbid@|@beemar saa, dooshit@
+@more@|@adhik, jyaadaa@
+@moreover@|@sivai iske@
+@morning@|@bhor, prabhaat, saveraa, subah@
+@morose@|@udaas@
+@morsel@|@tukdaa@
+@mortal@|@nashwar@
+@mortality@|@maran-aadheentaa@
+@mortar@|@choonaa@
+@mortgage@|@girvi@
+@mortuary@|@kabrasthaan, shmashaan@
+@mositure@|@namee@
+@mosque@|@masjid@
+@mosquito@|@machchhar@
+@moss@|@kaaee@
+@mostly@|@adhiktar, aksar@
+@moth@|@patangaa@
+@mother@|@jananee@
+@Mother@|@Maa, maataaji@
+@mother in law@|@saans@
+@motherhood@|@maatrittva, mattrubhaav@
+@motion@|@gaman, gatee@
+@motionless@|@achal, sthir@
+@motive@|@pravarrtak, prerak@
+@motive(n)@|@kaaran, nimitt, vajah@
+@motley@|@bahurang@
+@motor@|@sanchaalan yantra@
+@motto@|@aadarsh vakkya@
+@mould@|@saanchaa@
+@mound@|@mitti kaa mend, pushtaa@
+@mount@|@pahaad@
+@mountain@|@pahaad, parbat, parvat@
+@mountainous@|@pahaadi@
+@mountaneous@|@pahadee@
+@mourner@|@vilaapee@
+@mournful@|@ranjeedaa@
+@mourning@|@maatam, shok@
+@mouse@|@choohaa@
+@Moustache@|@Moochh@
+@mouthful@|@mooh bhar@
+@movable@|@chalansheel@
+@move(n)@|@chaal, prastaav@
+@movement@|@halchal, halchar, harkat@
+@Mrs@|@Shreemati@
+@much / more@|@zyaadaa@
+@mud@|@keechad@
+@murder@|@khoon, quatl@
+@murky@|@dhundhlaa@
+@museum@|@ajayabghar, vastu sangrahaalaya@
+@music@|@sangeet@
+@mustard@|@Sarsoo@
+@My@|@meraa@
+@mythological@|@pauraanik@
+@nails@|@Nakhoon@
+@naive@|@bholaa@
+@naked@|@nagna, nangaa@
+@Name@|@Naam@
+@narrow / contracted@|@sikuda huaa, tang@
+@national anthem@|@raashtrageet@
+@natural@|@naisargik@
+@nature@|@nisarg, shrishtee@
+@navy@|@naudal@
+@near@|@nazdeek, paas@
+@nearby@|@nazdeek, paas@
+@necessary@|@jarooree@
+@necessity@|@jaroorat@
+@needle@|@sooyee@
+@neice@|@bhatijee@
+@nephew@|@bhatijaa@
+@nerve@|@nas@
+@nest@|@ghoslaa@
+@net(fishermen's)@|@jaalaa@
+@new@|@nayaa(m), nayee(f)@
+@news@|@samaachaar, vaarta@
+@news reporter@|@vaartahar@
+@newspaper@|@vaarta patra@
+@night@|@nishaa, raat@
+@nine@|@Naau@
+@nineteen@|@Unnees@
+@ninety@|@Nabbe@
+@ninth@|@Nauvaa@
+@no@|@naa, naa, nahee@
+@no smoking!@|@dhumrapaan manaa hai!@
+@noise@|@shor@
+@non vegetarian@|@maansaahaaree@
+@non violence@|@ahimsaa@
+@non-cooperation movement@|@asahakaar aandolan@
+@non-metal@|@adhaatoo@
+@north@|@uttar@
+@north africa@|@uttar afrika@
+@northeast@|@ishanyaa@
+@northwest@|@vaayavyaa@
+@nose@|@Naak@
+@noun@|@sandnyaa@
+@nourishment@|@poshan@
+@novel@|@granth@
+@November@|@Navambar@
+@now!@|@abhee!@
+@nuclear@|@anvik@
+@nuclear scientist@|@anoo vaigyaanik@
+@nuclear weapon@|@anvik shastra@
+@nudity@|@nagnataa@
+@numerology@|@anka shaastraa@
+@oath@|@shapath@
+@obese@|@motaa@
+@obesity@|@motaapaa@
+@objection@|@akshép@
+@objectionable@|@akshéparrhya@
+@oblique@|@tirrchhaa@
+@obsolete@|@kaalbahya@
+@obstruction@|@baadhaa@
+@obstructionist@|@avarodhak@
+@obstructive@|@baadhak, pratirodhak@
+@obtainable@|@haasil karne yogya, praapya@
+@obvious@|@jaahi, jaahir, pratyaksh@
+@obviously@|@pratyaksh roop se@
+@ocassion@|@avasar, karan, nimitt@
+@ocassional@|@praasangik@
+@ocassionally@|@kabhi kabhi@
+@occult@|@adrishya, gunt@
+@occult(n)@|@indrajaal, jaadoo@
+@occupancy@|@adhikaar, kabjaa@
+@occupant@|@adhikaari, maalik@
+@occupation@|@paeshaa@
+@occurence@|@ghatanaa@
+@ocean@|@mahaasaagar@
+@oceanic@|@mahaasaagar sambandhi@
+@octagon@|@ashta-koan-akritee@
+@octagonal@|@ashttkoan@
+@October@|@Aktoobar@
+@octogenarian@|@assee baras kaa@
+@odd@|@anokhaa, visham@
+@oddity@|@vishamtaa@
+@oddly@|@vishamtaa se@
+@ode@|@gajal, geet, kavitaa@
+@odious@|@apreeya, ghinaunaa, ghrinaa-yogya@
+@odour@|@badboo@
+@odyssey@|@saahaspoorna lambaa safar@
+@offence@|@aparadh, jurrm@
+@offender@|@aparaadhi@
+@offensive@|@aakraamak@
+@offer@|@prastaav@
+@offering@|@balidaan, bhet, chadhaavaa@
+@offhand@|@turant@
+@office@|@daftar@
+@officer@|@affsar@
+@official@|@adhikreet, affsar@
+@official(adj)@|@adheekrit@
+@officially@|@sarkaari taur se@
+@offshoot@|@shaakhaa@
+@offspring@|@aulaad, santaan@
+@often@|@aksar@
+@ogle@|@kataaksh@
+@oil@|@tel@
+@oilman@|@telee@
+@ointment@|@lep, marham@
+@old (living beings)@|@boodhaa(m), boodhee(f)@
+@old (non living)@|@puraanaa@
+@old age@|@budhaapa@
+@old man@|@buddhha (not gautam budhha)@
+@old woman@|@buddhhee@
+@old(ancient)@|@praacheen@
+@old(object)@|@puraanaa@
+@old(person)@|@vridhh@
+@olden@|@pracheen, puraanaa@
+@oligarchy@|@alpajanaadhipattya@
+@olive@|@jaitoon@
+@on an average@|@ausatan@
+@one@|@Ek@
+@onion@|@pyaaz@
+@only@|@keval@
+@opinion@|@mat, sujhaav@
+@optimist@|@aashaawaadee@
+@option@|@paryaay@
+@or@|@yaa@
+@orange@|@Santraa@
+@orange(color)@|@naringee@
+@organic@|@sendreeyaa@
+@organisation@|@sansthaa@
+@ostracised@|@bahishkrit@
+@ours@|@hamaaraa@
+@outdated@|@kaalbahya@
+@outline@|@rooprekhaa@
+@outside@|@baahar@
+@ovary@|@andaashay@
+@oven@|@bhattee, tandoori@
+@over (cricket)@|@shatak (t as in toss)@
+@owner@|@maalik@
+@paediatrics@|@baal-roag-chikitsaa@
+@pain@|@dard@
+@pair@|@jodaa, jodee@
+@palace@|@mahal@
+@palm (organ)@|@hathaelee, panjaa@
+@pamphlet@|@parchee@
+@pant(clothing)@|@patloon@
+@pants@|@patloon@
+@paper@|@kaagaz@
+@parachute@|@hawaee chhatree@
+@paradise@|@swarg@
+@parallelogram@|@samaantar-bhooj-chaukoan@
+@paralysis@|@ardhangvayoo@
+@paralytic@|@aardhangrogee@
+@parasite@|@parjeevee@
+@pardon me@|@mujhe kshamaa keejiye@
+@parent@|@pitaa/maataa@
+@parentage@|@kul, nasal, vansh@
+@parental@|@maataa-pitaa sambandhi@
+@parenthesis@|@ananvit vakkya, upavakkya@
+@parents@|@paalan karta@
+@pariah@|@jaatichyut manushya@
+@paring@|@chheelan, chhilkaa, kataran@
+@parish@|@basti, muhalla, tolaa@
+@parity@|@baraabari, samaanataa, samatullyataa@
+@park@|@kridaavan, upavan@
+@park / garden@|@baag@
+@parlance@|@baatcheet, muhaavraa, vaartalaap@
+@parley@|@baatcheet, boalchaal, paraspar, sanvaad@
+@parliament@|@sansad@
+@parochial@|@parimit, sankirna, seemit@
+@parody@|@anukaran kavvya@
+@parole@|@maukhik pratigyaa, shabd@
+@parrot@|@totaa@
+@parsley@|@ajjmoad, ajjwaayan, khuraasaani@
+@parson@|@graam purohit@
+@part@|@bhaag, khand, tukdaa@
+@partial@|@ansh sambandhi, ansheeya, asampoorna@
+@partially@|@anshtahh@
+@participant@|@hissedaar, saajhi@
+@participation@|@hissédaari, saajhidaari@
+@particle@|@anu, kann@
+@particular@|@vishésh, vishisht@
+@particularly@|@vishésh karké, vishéshtahh@
+@particulars@|@beoraa, tafseel@
+@parting@|@alag karné waalaa, judaee, vidaee, viyog@
+@partisan@|@pakshdhar, saathi, samaaji@
+@partisanship@|@hissédaari, pakshpaat, saajhaa@
+@partition@|@batwaaraa, bhaag, vibhaajan@
+@partner@|@hissédaar, saajhédaar, saajhi, saathee@
+@partridge@|@teetar@
+@parts(n)@|@budhdhhi, shakti, yogyataa@
+@party(n)@|@dal, samaaj@
+@pass@|@darraa, nikaas ki chiththhi, sankat path@
+@passable@|@gamaneeya, gammya, kaam chalaaoo@
+@passage@|@gaman, nikaas, raastaa, utaraaee@
+@passanger@|@Pravaasee, yaatri@
+@passbook@|@khaata pustak@
+@passenger@|@musaafir, pathik, raahi, yaatri@
+@passion@|@aavég, aavésh, chaav, josh, kroadh, laalsaa, pyaar, sahan@
+@passionate@|@garrm, gussail, kroadhi, taamsee@
+@passive@|@akreeyasheel, nishkreeya@
+@passiveness@|@nishkreeyataa, shithiltaa@
+@passport@|@abhay patra, paarpatra@
+@password@|@péhchaan ka shabd/chinh@
+@past@|@beetaa, bhoot, bhootkaal, pichhlaa@
+@past tense@|@bhootkaal@
+@past(n)@|@bhootkaal@
+@past(prep)@|@anantar, paré@
+@paste@|@gaaraa, lasdaar mishran, léee@
+@pastime@|@mannbéhlaav, vihaar@
+@pastor@|@gadariyaa, paadri, upadhyay@
+@pastoral@|@chaaraagaahi, paadri sambandhi@
+@pasture@|@chaaraa, chaaraagaah@
+@pat@|@thapkee@
+@paternity@|@pitrootva@
+@pathetic@|@dayaneeya@
+@patience@|@sabra@
+@patient(medical)@|@mareej@
+@patrol@|@gasth@
+@patronage@|@aashray, puraskaar aur protsaahan@
+@paucity@|@kamee@
+@paw(felines)@|@panjaa@
+@peace@|@aman, shantee@
+@peacock@|@moar@
+@peak@|@shikhar@
+@pedagogics@|@aadhyaapan shaastra@
+@pedagogy@|@aadhyaapan shaastra@
+@pedigree@|@kool, vansh@
+@pen@|@kalam@
+@penalty@|@sajaa@
+@penetrative@|@bhedak@
+@peninsula@|@dweepkalpa@
+@penniless@|@kangaal@
+@pension@|@nivrrittee vetan@
+@pensive@|@vichaarmagna@
+@peon@|@chaparaasee@
+@peppermint@|@pudeenaa@
+@percentage@|@pratishat, shatmaan@
+@percussion@|@aaghaat@
+@perennial@|@baarmaasee@
+@perfect@|@pareepoorna@
+@perfection@|@poornavasthaa@
+@perfume@|@ittra@
+@perilous@|@sankatmai@
+@perimeter@|@parimitee@
+@period@|@kaalavadhee@
+@permission@|@anumatee, ijaajat, sammatee@
+@person@|@vyaktee@
+@personal@|@vyakteegat@
+@personality@|@vyaktittva@
+@perspiration / sweat@|@paseenaa@
+@pesky@|@peedaakar@
+@pessimist@|@niraashawadee@
+@pest@|@ghaatak keetak@
+@pesticide@|@keetnaashak@
+@petal@|@pankhudi@
+@petals@|@pankhudiyaan@
+@petrifaction@|@ashmeebhavan@
+@petrified@|@stambheet@
+@philosopher@|@tattvadnya@
+@philosophy@|@tattvadnyaan@
+@phlegm@|@nishkreeyataa@
+@phoney@|@jaalee@
+@photograph@|@chhayachitra@
+@photographer@|@chhayachitrakaar@
+@physics@|@bhautikee@
+@physiology@|@shareer-vigyaan-shaastra@
+@physiotherapy@|@marrdan@
+@pickle@|@achaar@
+@picture@|@chitra@
+@picturesque@|@tasbeer utaarne layak@
+@piece@|@tukdaa@
+@pigeon@|@kabootar@
+@pill@|@goalee@
+@pillow@|@takiyaa@
+@pineapple@|@Ananas@
+@pink@|@gulaabee@
+@pit@|@gadhddha@
+@place@|@jagah@
+@planet@|@graha@
+@player@|@khiladee@
+@playing cards@|@taash, taash ke patte@
+@pleasant@|@manohar, suhaana@
+@please@|@kripayaa@
+@please leave footwear here.@|@jooté chappal yahaan utaaré.@
+@please leave me alone.@|@mujhé akélaa chhod do.@
+@poem@|@kavitaa@
+@poem collection@|@kaavya sangraha@
+@poet@|@kavee@
+@poetess@|@kavayitree@
+@poetry@|@paddya@
+@point(geometry)@|@bindoo@
+@pointed@|@nokeelaa@
+@poison@|@jahar@
+@poisonous@|@jahreelaa@
+@polar@|@dhrooveeya@
+@pole@|@dhroov, khambaa@
+@pole(north & south)@|@dhroov@
+@pole-star@|@dhroov taaraa@
+@police station@|@pulice thaanaa@
+@polite@|@sabhya, vinaysheel@
+@politic@|@dhoort@
+@politics@|@raajkaaran@
+@polity@|@rajyasansthaa@
+@pollution@|@pradooshan@
+@pomegranate@|@Anaar@
+@poor@|@gareeb@
+@popular@|@mashahoor@
+@population@|@loksankhyaa@
+@portrait@|@tasbeer@
+@post office@|@daak ghar@
+@postal department@|@daak vibhaag@
+@poster@|@tasbeer@
+@postman@|@daakiyaa@
+@postulate(n)@|@sidhhant@
+@potato@|@Aaloo@
+@poverty@|@garibee@
+@power@|@oorjaa, shaktee@
+@practice@|@riyaaz@
+@praise@|@stutee@
+@prayer@|@prarrthanaa@
+@precaution@|@saavadhanee@
+@premature@|@aparipakkva@
+@preparation@|@taiyyaari@
+@present@|@haajir, vartamaan kaal@
+@present tense@|@vartamaan kaal@
+@presentation@|@peshkash@
+@presenter@|@prastutkartaa@
+@president@|@rashtrapati@
+@pressure@|@dabaav@
+@pretty / beautiful@|@haseen, khoobsoorat, sundar@
+@prey@|@shikaar@
+@priceless@|@keemti@
+@pride@|@abhimaan, abhimaan, naaz@
+@priest@|@pujaree@
+@primary@|@prathmeek@
+@prime / main@|@mukhya@
+@prime minister@|@mukhya mantree@
+@prince@|@raajkumaar, shehjaadaa@
+@princess@|@raajkumaaree, shehjaadi@
+@principle@|@sidhhaant, tattva@
+@printing press@|@chhaap khaanaa@
+@prisoner@|@bandee, kaidee@
+@prize@|@puraskaar@
+@prized@|@puraskrit@
+@problem@|@maslaa, pareshaani@
+@procedure@|@kritee, vidhee@
+@proceed@|@aage badho@
+@process@|@prakreeya@
+@procession@|@baaraat@
+@producer@|@nirmaataa@
+@production / creation@|@nirmitee@
+@professional@|@peshewarr@
+@profit@|@faaydaa, munaafaa@
+@programme@|@karyakram@
+@promise@|@waadaa@
+@prophet@|@paigambar@
+@proposition@|@prastaav@
+@prose@|@gaddya@
+@prostitute@|@vaishyaa@
+@prostitution@|@vaishya vyavsai@
+@protein@|@pratheen@
+@proverb@|@kahaavat@
+@provocative@|@aakraamak@
+@prwan@|@jheengaa@
+@psychology@|@maanas-shaastra@
+@public@|@jantaa@
+@public meeting@|@sabhaa@
+@public(adj.)@|@saarvajaanik@
+@public(as a mass)@|@janataa@
+@publication@|@prakaashan@
+@publisher@|@prakaashak@
+@punch@|@ghoosaa@
+@punctual@|@samay soochak@
+@punctuality@|@samay soochaktaa@
+@punishment@|@sajaa@
+@purification@|@shudhhikaran@
+@purse@|@batwaa@
+@python@|@ajjgarr@
+@quality@|@darjaa@
+@quantity@|@maatraa@
+@quarrel@|@jhagadaa@
+@queen@|@raanee@
+@question@|@sawaal@
+@quickly@|@twareet@
+@rabbit@|@khargosh@
+@racism@|@jaateewaad@
+@radiation@|@kiranotsarg@
+@radioactive matter@|@kiranotsarrgee padaarth@
+@radius@|@trijjaa@
+@rain@|@bareesh@
+@raw@|@kachcha@
+@reach@|@pahoonch@
+@ready@|@taiyyar@
+@real@|@aslee@
+@reason@|@kaaran, vajaah@
+@receipt(of expense)@|@raseed@
+@red@|@laal@
+@refuge@|@panah@
+@region@|@ilakaa@
+@registered@|@panjeekrit@
+@registration@|@panjeekaran@
+@rejection@|@asweekar@
+@relations@|@sambandh@
+@relax@|@vishram@
+@religion@|@dharm, jaatee@
+@rent@|@bhadaa@
+@repeat telecast@|@punah prasaaran@
+@replica@|@pratiroop@
+@replication@|@jawaab, uttar@
+@reply@|@jawaab, uttar@
+@report@|@khabar, samaachaar, varnan, vivaran@
+@reporter@|@samvaad-daataa@
+@repose@|@chaiin, neend, shanti, vishram@
+@repository@|@bhandaar, kosh@
+@reprehensible@|@ninda ke yogya@
+@representation@|@bayaan, pratinidhittva, varrnan@
+@representative@|@pratinidhee@
+@repression@|@dabaav, rok@
+@repressive@|@dabaane waalaa@
+@reprimand@|@Daant, dhikkaar@
+@reprint@|@nayaa sanskaran@
+@reprisal@|@badlaa@
+@reprise@|@badlaa, pratidaan@
+@reproach@|@badnaami@
+@reproduction@|@punarruttpatti@
+@reptile@|@rengnewaalaa, sarrpanshil@
+@republic@|@prajaatantra@
+@republic day@|@prajaasattak diwas@
+@republican@|@prajaatantra sambandhi@
+@repugnant@|@asangat, virudhh@
+@repulse@|@inkaar, paraajay@
+@repulsive@|@bhaav-shunnya@
+@reputable@|@pratishthha yogya@
+@reputation@|@pratishthha@
+@repute@|@khyaati, pratishthha@
+@request@|@arjj, prarrthanaa@
+@requirement@|@aavashyakataa, maang@
+@requisite@|@aavashyak, jaroori@
+@rescission@|@khandan@
+@rescue@|@chhutkaaraa, mukti@
+@research@|@anusandhaan, khoj, talaash@
+@resemblance@|@samaantaa@
+@resentful@|@krodhi@
+@resentment@|@krodh, naaraajgi@
+@reservation@|@aarakshan@
+@reserved@|@aarakshit@
+@reservoir@|@jalaashay, kund, taalaab@
+@residence@|@nivaas, nivaas sthaan@
+@residency@|@nivaas sthaan@
+@resident@|@niwaasee@
+@residential@|@niwaas sambandhi@
+@residual@|@baaki, shesh@
+@residue@|@baaki, shesh@
+@resignation@|@padatyaag@
+@resignation letter@|@isteefaa pattra@
+@resistance@|@pratibandh, virodh@
+@resolution@|@sankalp@
+@resonant@|@goonjne waalaa@
+@resource@|@sahaaraa@
+@respect@|@aadar, izzat, maan, sammaan@
+@respectability@|@maananeeyataa@
+@respectable@|@aadaraneeya, maananeeya@
+@respective@|@vishisht@
+@respectively@|@kramaanusaar@
+@respiration@|@saans@
+@respirator@|@shwaasyantra@
+@respite@|@muhlat, vilamb@
+@resplendent@|@chamkeelaa, prakaashmaan@
+@respondent@|@uttardaayee@
+@response@|@jawaab, prateekreeyaa, uttar@
+@responsibility@|@jimmedaari, uttardaayittva@
+@responsible@|@jimmedaar@
+@rest@|@aaraam, vishram, vishram@
+@restaurant@|@upahaargriha@
+@restitution@|@badlaa@
+@restive@|@adiyal, hatthee@
+@restless@|@bechain, chanchal@
+@restoration@|@bahaalee@
+@restraint@|@niyantran@
+@restricted@|@seemit@
+@restriction@|@bandhan, neeyam, nigraha@
+@result@|@nateejaa, parinaam@
+@retribution@|@sajaa@
+@return journey@|@vaapsee yaatra@
+@revolution(around something)@|@pradakshinaa@
+@rice@|@chaawal@
+@rich@|@ameer, paisewaala@
+@ride@|@sawaree@
+@ridiculous@|@hassyaaspad@
+@right (affirmation)@|@sahee@
+@right (dirn.)@|@daayein@
+@ring@|@angoothee@
+@riot@|@dangaa fasaad@
+@ripe@|@pakaa hua@
+@risk@|@jokhim, khatraa@
+@river@|@dariyaa, nadee@
+@road@|@marg, path, raastaa@
+@robber@|@choar@
+@robbery@|@choree@
+@rock@|@patthhar@
+@rod(of metal)@|@salaakh@
+@roof@|@chhatt@
+@room@|@kamraa@
+@rooster@|@murrgaa@
+@root@|@jadd, mool@
+@rope@|@rassee@
+@rose@|@gulaab@
+@rotation@|@pareebhraman@
+@rotten@|@sadaa hua@
+@rough@|@khurrdaraa@
+@round / spherical@|@golaakaar@
+@royal@|@shahee@
+@ruler@|@anushaasak@
+@rules@|@niyam@
+@rumour@|@afwaah@
+@rural@|@dehaati@
+@russia@|@roos@
+@russian@|@roosee@
+@sack(noun)@|@boaree@
+@sacred@|@mangal, pavitra@
+@sacrifice@|@balidaan@
+@sad@|@dukhee, ranjidaa@
+@sadness@|@dukhh, gham@
+@safe@|@surakshit@
+@safe(a cupboard)@|@tijoree@
+@safety@|@surakshitataa@
+@saga@|@silsila@
+@saint@|@saadhoo@
+@salary@|@vetan@
+@saliva@|@laar@
+@salt@|@namak@
+@salted@|@khaaraa@
+@salts@|@kshar@
+@salty@|@khaaraa@
+@salty(taste)@|@namkeen@
+@salvation@|@paapvimochan@
+@sample@|@namoonaa@
+@sand@|@rait@
+@sapling@|@paudhaa@
+@sapphire@|@indraneel manee@
+@sarcastic@|@marmbheidee@
+@satellite@|@upagraha@
+@satisfaction@|@samadhaan, santosh@
+@Saturday@|@Shaneewaar@
+@saturn@|@shani@
+@saucer@|@tashtaree@
+@saving@|@bachat@
+@saw dust@|@bhoonsaa@
+@scapegoat@|@balee ka bakraa@
+@sceptic@|@naastikyawadee@
+@scholar@|@tadnya, vidwaan@
+@scholarship@|@shishyavrittee@
+@school@|@paathshaalaa@
+@science@|@shaastraa, vigyaan@
+@scientific@|@shastreeya@
+@scientist@|@shaastradnya, vaigyaanik@
+@scintillating@|@chamchamaataa@
+@scissors@|@kainchee@
+@scoundrel@|@kameena, neech@
+@scraggy@|@kroosh@
+@scrap merchant@|@kabaadee@
+@screen@|@parrdaa@
+@script@|@patkathaa@
+@sculptor@|@moortikaar@
+@sea@|@saagar, samandar@
+@season@|@ritoo@
+@secant@|@vritta-chhedak rekhaa@
+@second@|@dviteeya@
+@Second@|@doosrah@
+@second(time)@|@saekand@
+@secret@|@gupt@
+@secret agent@|@jasoos@
+@secretarian@|@saampradayeek@
+@secretariat@|@sachiv-mandal@
+@secretary@|@sachiv@
+@sect@|@kaum, sampradaai@
+@section@|@vibhaag@
+@secure@|@surakshit@
+@security@|@surakshaa@
+@sedative@|@upashaamak@
+@sedition@|@raajya-droh@
+@seed@|@beej@
+@segment@|@hissaa, khand, tukdaa@
+@segregation@|@alagaav, viyog@
+@seine@|@mahaajaal@
+@seismic@|@bhookamp sambandhi@
+@seismology@|@bhoogoal vidya@
+@seizure(of property)@|@grahan, haran, jabti@
+@seldom@|@kabhi-kabhi@
+@selection@|@chunaav@
+@self@|@swayam@
+@self-defence@|@swarakshan@
+@selfish@|@matlabii, swaarthi@
+@selfishness@|@khudgarrji@
+@seller@|@bikraetaa@
+@semblance@|@ékroopataa, saadrishya@
+@semi@|@aadhaa@
+@semi-annual@|@arrdhh-varrsheeya@
+@semicircle@|@ardhh-vartool@
+@semicircular@|@ardhh-vartool-aakaar@
+@seminal@|@beej sambandhi, buniyaadi, prathmik@
+@seminary@|@madrasa, paathshaalaa, vidyaalay@
+@senate@|@mantri sabha@
+@senator@|@sabhaasad@
+@sender@|@bhéjnéwaalaa@
+@sendoff@|@rawaangee@
+@senile@|@budhaapé kaa@
+@senility@|@budhaapaa@
+@senior@|@shreshthha@
+@seniority@|@shreshthhataa@
+@sensational@|@josheelaa, khalbalee waalaa@
+@sense organ@|@dnyaanaendreeya@
+@sense(5 senses)@|@indreeya-gyaan@
+@senseless@|@nirr-arrthak, nirrjeev@
+@sensibility@|@chétahnyataa@
+@sensitive@|@sachétan@
+@sensitivity@|@sanvedan-sheeltaa@
+@sensor@|@sparshak@
+@sensory@|@sanvedanaa vaahak@
+@sensual@|@vishayaasaktt@
+@sensuality@|@bhoagaasaktee, bhogaasaktee, vishayaasaktee@
+@sensuous@|@indreeya sambandhi@
+@sentence@|@vakkyaa@
+@sentence(legal)@|@dand, dand-aagyaa@
+@sentiment@|@bhaav, raag@
+@sentimental@|@bhaavuk, rasik, rasiyaa@
+@sentimentality@|@bhaavuktaa, rasikataa@
+@sentinel@|@chaukeedaar, chaukeedaar, pehredaar@
+@sentry@|@chaukeedaar, santree@
+@separate@|@alag alag@
+@separation@|@alagaav, khandan, viyog@
+@separatist@|@vibhaktataa-vadee, vimukhh@
+@September@|@Sitambar@
+@sepulchre@|@kabrr, samaadhi@
+@sequel@|@nateejaa, parinaam@
+@sequence@|@anukram, kram, kram@
+@sequential@|@kramwaar@
+@sere@|@murrjhaayaa huaa, sookhaa@
+@serene@|@nirrmal, saaf@
+@serenity@|@nirrmalataa, shaanti@
+@serial(adj.)@|@krameek@
+@serial(on TV)@|@maaleekaa@
+@series@|@shrinkhlaa@
+@serious@|@gambheer@
+@serious (situation)@|@sangeen@
+@serpent@|@saanp, sarpa@
+@servant@|@naukar@
+@services@|@sevaaéin@
+@set(math)@|@sanch@
+@seven@|@Saat@
+@seventeen@|@Satraah@
+@Seventh@|@Saantva (n sounds from nose)@
+@seventy@|@Sattar@
+@several@|@anek, bahut, kaee@
+@severity@|@kathoartaa@
+@sex@|@sambhog@
+@shabby@|@fataa-puraanaa@
+@shack@|@kutiyaa@
+@shade(of a tree)@|@chhayaa@
+@shadow@|@parchhayee@
+@shallow@|@uthlaa@
+@shame@|@lajja@
+@shameful@|@lajjaspad@
+@shape / size@|@aakaar@
+@share market@|@share bazaar@
+@sharp@|@painaa@
+@sharpness@|@dhaar@
+@shelter@|@aasraa@
+@ship@|@Jahaaj@
+@shirt@|@kameez@
+@shock@|@dhhakkaa, jhatkaa, sadmaa@
+@shocking@|@chaunkaane waalaa@
+@shoe@|@joota@
+@shoemaker@|@mochee@
+@shop@|@dukaan@
+@shopkeeper@|@dukaandaar@
+@shopping@|@khareedaree@
+@shore@|@samudra tatt@
+@short@|@chotaa, naataa@
+@shortage@|@kamee@
+@shortly@|@thodi dér mein@
+@shortness@|@nyoontaa@
+@shoulder@|@Kandhhaa@
+@shovel@|@khurpaa@
+@show@|@pradarshan, tamaashaa@
+@show me your ticket please.@|@kripyaa aapka tikat dikhaaiye.@
+@shower@|@bauchhaar@
+@showy@|@bhadkeelaa, numaaishii@
+@shrew@|@jhagadaaloo stree@
+@shrewd@|@chalaak, chatur, dhoort@
+@shriek@|@cheekh@
+@shrill@|@karna vedhi, téj@
+@shrine@|@samadhee, teerth sthaan@
+@shroud@|@kafan@
+@shrubbery@|@jhadee@
+@shy(m/f)@|@sharmeelaa, sharmeeli@
+@sideways@|@aajoo baajoo@
+@sierra@|@parbat shrinkhlaa@
+@sight@|@drishtee@
+@sign@|@nishaan@
+@signal / message@|@sandesh@
+@signature@|@dastkhat, dastkhat, swaksharee@
+@signs@|@aasaar@
+@silence@|@nishabdataa, shantee@
+@silk@|@resham@
+@silver@|@chandee@
+@similie@|@upamaa, upamaa, upamaalankaar@
+@sin@|@paap@
+@singer(f)@|@gaayikaa@
+@singer(m / f)@|@gayak / gayeekaa@
+@singer(m)@|@gaayak@
+@sinister@|@paapee@
+@sir(addressal)@|@mahoday@
+@Sister@|@Behan (Be as in Belgrade), bhaginee@
+@sister in law@|@nanand@
+@situation@|@sthaan, sthitee@
+@six@|@Chah@
+@sixteen@|@Solaah@
+@sixth@|@Chhatha (th as in thug)@
+@sixty@|@Saath (th as in thug, stretch t)@
+@skeleton@|@asthee panjar, kankaal@
+@skin@|@khaal(animal skin), Tvachaa@
+@skull@|@khoapdee@
+@sky@|@aakaash, aasmaan@
+@slant@|@tirchhaa@
+@slap@|@chaantaa@
+@slave@|@ghulaam@
+@slavery@|@ghulamee@
+@slow@|@dheemaa@
+@slowly@|@dheere@
+@slum@|@zhopadpattee@
+@small@|@chhotaa@
+@small bird@|@chhota panchee, chidiyaa@
+@small leaf@|@patti@
+@smile@|@smit haasya@
+@smoke@|@dhuaan@
+@smoke (a cigarette)@|@dhumrapaan@
+@smoke(n)@|@dhuaan@
+@snake@|@saanp, sarrp@
+@snow@|@barf, him@
+@soap (used to wash)@|@saabun@
+@soap(for washing)@|@saabun@
+@social@|@saamajik@
+@social work@|@samaaj karya@
+@society@|@samaaj@
+@soft@|@mulaayam, naram@
+@soldier@|@jawaan, sipahee@
+@solid / hard@|@thos@
+@some@|@kuchh@
+@sometimes@|@kabhi kabhi, kabhikabaar@
+@son@|@Betaa@
+@son in law@|@jamayee@
+@song@|@ganaa, geet@
+@soul@|@aatmaa@
+@sound@|@awaaj@
+@sour@|@khattaa@
+@source@|@stroat@
+@south@|@dakshin@
+@southeast@|@agneyaa@
+@southwest@|@nairutyaa@
+@spark@|@sharaaraa@
+@specialist@|@tadnya@
+@speech@|@bhaashan@
+@speed@|@gatee, vaeg@
+@sperm@|@shukranoo@
+@spice@|@masaalaa@
+@spider@|@makadee@
+@spin it!@|@ghumaao!@
+@spinach@|@Paalaak@
+@spiral@|@sarrpil@
+@spirit / soul@|@aatmaa, rooh@
+@spit@|@thoonk@
+@spitoon@|@peenkdaani@
+@spokesperson@|@pravaktaa@
+@sports@|@kridaa@
+@spring@|@basant@
+@square@|@choukoan@
+@stability@|@sthirtaa@
+@stable(a condition)@|@stheer@
+@stage drama@|@naatak@
+@staircase@|@seedhiyaan@
+@star@|@sitaaraa, taara@
+@start@|@shuruaat@
+@starting@|@shuruwaat@
+@starvation@|@bhookhmaree@
+@state@|@rajjya@
+@statue@|@putlaa@
+@stay(put by a court)@|@sthagitee@
+@step down!@|@neeché utro!@
+@steps / ladders@|@seedhiyaan@
+@stick@|@chhadee@
+@stick(wooden)@|@chhadee@
+@sticky@|@chipkoo@
+@still / stable@|@stheer@
+@stitch@|@silayee@
+@stomach@|@Pait@
+@stone@|@paththar@
+@stop@|@rukiye(pol), ruko(fam)@
+@storey@|@maalaa@
+@storm@|@toofan@
+@story@|@kahanee, kathaa@
+@straight@|@seedhi@
+@straight road@|@seedha raastaa@
+@strength@|@taakat@
+@stroke@|@jhatkaa@
+@student@|@vidyarthee@
+@study(n)@|@padhayee@
+@stuff@|@saamaan@
+@stupid@|@bewakoof@
+@stupidity@|@bewakoofee@
+@style@|@andaaz@
+@subject@|@vishay@
+@substance@|@padaarth@
+@success@|@safalataa, yash@
+@successful@|@safal@
+@sudden@|@aaksmik, achaanak@
+@sugar@|@cheeni@
+@sugar cane@|@ganna@
+@suggestion@|@sujhaav@
+@suicide@|@aatma hatyaa@
+@summary@|@saar, saraansh@
+@summer@|@garmee@
+@sun@|@soorya@
+@sunday@|@raveewaar@
+@support@|@aadhaar@
+@surface@|@satah@
+@suspension(from duty)@|@nilamban@
+@sweat@|@paseenaa@
+@sweet@|@meethaa@
+@sweet(taste)@|@meetha@
+@sweets@|@mithaee@
+@swimmer@|@tairaak@
+@swing(n)@|@jhoolaa@
+@sword@|@talwaar@
+@symbol@|@chinh@
+@symptoms@|@aasaar, asaar@
+@table@|@mez@
+@tail@|@poonchh@
+@tailor@|@darjee@
+@tall@|@oonchaa@
+@tamarind@|@imlee@
+@tank(for storage)@|@tankee@
+@tap@|@nal@
+@tasty@|@swaadishth@
+@tax@|@kar@
+@tea@|@chai@
+@teacher@|@shikshak(m), shikshika(f)@
+@tear(n)@|@aansoo@
+@technical@|@taknikee@
+@technique@|@tantra@
+@technology@|@tantradnyaan@
+@teeth@|@Daant@
+@telephone@|@durbhash@
+@television@|@door-chitra-vanee@
+@temperature@|@taapmaan@
+@temple@|@mandir@
+@temple(of sikh people)@|@gurudwaara@
+@ten@|@Das@
+@tender@|@komal, naazuk@
+@tense@|@kaal@
+@tense (grammar)@|@kaal@
+@tense / depressed@|@pareshaan@
+@tense(grammar)@|@kaal@
+@tent@|@tamboo@
+@tenth@|@Dasvaa@
+@terror@|@aatankwaad@
+@terrorist@|@aatankwaadi, oograwaadi@
+@Thank you@|@Dhanyawaad@
+@That@|@Wah (spell H as in Hungary)@
+@theirs@|@unkaa@
+@then@|@fir, tau@
+@theoretically...@|@saidhhantik roop se@
+@therefore@|@isiliye@
+@they came yesterday.@|@woh kal aa gayé.@
+@they will come tomorrow.@|@woh kal aayenge.@
+@thief@|@choar@
+@thieves@|@choar@
+@thing@|@cheez@
+@third@|@Teesrah@
+@thirteen@|@Teraah@
+@thirty@|@Tees@
+@This@|@Yeh@
+@This way please.@|@kripyaa, yahaan se aaiye.@
+@thorn@|@kaantaa@
+@thought@|@soach, soch, vichaar@
+@thousand@|@hazaar@
+@thread@|@dhaagaa@
+@Three@|@Teen (t as in tequila)@
+@throat@|@galaa@
+@Thumb@|@Angootha@
+@Thursday@|@Brihaspatiwaar@
+@ticket@|@Tikat@
+@tiger@|@baagh (gh as in ghost)@
+@tight@|@kasa hua@
+@time@|@kaal, samay@
+@tired@|@thaka hooaa@
+@tiresome@|@thakaa dene waala@
+@tit for tat.@|@jaise ko taisa.@
+@to abandon@|@chhod denaa, tyaag denaa@
+@to abate@|@ghatnaa, kamm honaa@
+@to abbreviate@|@sankshipt karnaa@
+@to abdicate@|@pad tyaag karnaa@
+@to abduct@|@bhagaa le jaanaa@
+@to abet@|@aparadh mein sahayak, bure kaam ke liye behkaanaa@
+@to abhor@|@ghrinaa karnaa@
+@to abide@|@paalan karnaa@
+@to abolish@|@band karnaa, naash karnaa, samaapt karnaa@
+@to abridge@|@chhaantnaa, sankshép karnaa@
+@to abrogate@|@bandh karnaa, radd karnaa@
+@to abscond@|@faraar honaa@
+@to absolve@|@bari karnaa, kshamaa karnaa, mukt karnaa@
+@to absorb@|@soakhnaa@
+@to abstain@|@aalipt rehnaa, parhéj rakhnaa, varjya karnaa@
+@to abuse@|@bura bartaav karnaa, gaali denaa@
+@to abut@|@aamné saamné honaa, milnaa@
+@to accede@|@kabool karnaa, sweekar karnaa@
+@to accelerate@|@gatee badhaanaa, sheeghrataa karnaa@
+@to accentuate@|@joar denaa@
+@to accept@|@maanya karnaa, sehmat honaa, sweekar karnaa@
+@to acclaim@|@jaighosh karnaa, stutee karnaa, wah wah karnaa@
+@to accomodate@|@jagah dilaanaa, samaanaa, suvidhaa karnaa@
+@to accompany@|@saath denaa@
+@to accomplish@|@sampoorna karnaa, sidhh karnaa@
+@to accord@|@manaanaa, milaanaa, pradaan karnaa, sur milaanaa@
+@to accost@|@sambhashan karnaa@
+@to account@|@gananaa karnaa, maan karnaa@
+@to accredit@|@adhikaar denaa, vishwaas karnaa@
+@to accrue@|@laabh honaa, utpann honaa@
+@to accumulate@|@batornaa, ikaththhaa karnaa@
+@to accuse@|@aparaadhi théhraanaa, doash lagaanaa@
+@to accustom@|@aadat daalnaa, abhyast karnaa, parichit karnaa@
+@to ache@|@darrd karnaa@
+@to achieve@|@jeetnaa, paanaa, poora karnaa@
+@to acknowledge@|@raseed denaa, sweekaar karnaa@
+@to acquaint@|@parichit karnaa, samaachar denaa@
+@to acquire@|@hastgat karnaa, kamaanaa, paanaa, prapt karnaa@
+@to acquit@|@aparaadh sé mukt karnaa, nirrdoshi thhehraanaa@
+@to act(VI)@|@abhinay karnaa, karm karnaa, kriyaa karnaa@
+@to act(VT)@|@anukaran karnaa, karnaa, nibaahnaa@
+@to adapt@|@ék samaan karnaa, upayogi yaa yogya banaanaa@
+@to add@|@badhhaanaa, joadnaa, milaanaa@
+@to addict@|@aadat daalna, lat lagaana@
+@to address@|@bolnaa, nivédan karnaa, pataa likhnaa@
+@to adhere@|@nishthaavant rehnaa, pakkaa rehnaa@
+@to adjoin@|@joadnaa, milaanaa, sanyukt karnaa@
+@to adjourn@|@roak rakhnaa, tahkoob karnaa@
+@to adjudge@|@nirnaay daenaa@
+@to adjust@|@sudhaarnaa, theek karnaa@
+@to administer@|@dénaa, lagaanaa, prabandh karnaa, shaasan karnaa@
+@to admit@|@maan lénaa, pravésh karnaa, sweekarnaa@
+@to admonish@|@kaan kholnaa, sanjhaanaa, shiksha dénaa@
+@to adopt@|@angikaar karnaa, goad lénaa, paalan karnaa@
+@to adore@|@attyant aadar karnaa, poojya samajhnaa@
+@to adorn@|@sajaanaa, sanwaarnaa, sushobhit karnaa@
+@to adulterate@|@milaawat karnaa@
+@to advance@|@aagé badhnaa, unnatee karnaa@
+@to adventure@|@jaan jokhim méin dalnaa, saahas karnaa@
+@to advert@|@ullekh karnaa@
+@to advertise@|@failaanaa, prasidhh karnaa@
+@to advise@|@salaah dénaa, upadesh karnaa@
+@to advocate@|@samarthan karnaa, vakaalat karnaa@
+@to affect@|@asar karnaa, prabhaav daalnaa@
+@to affiliate@|@goad lénaa, sabhaasad banaanaa@
+@to affirm@|@pratigya karnaa, vachan dénaa@
+@to affix@|@joadnaa@
+@to afflict@|@peedaa denaa@
+@to afford@|@khareed saknaa@
+@to affront@|@apamaan karnaa, tiraskaar karnaa@
+@to aggravate@|@badhnaa, jyaadaa sangeen karnaa@
+@to aggregate@|@ékatrit karnaa, sanchit karnaa, sanhraga karnaa@
+@to aggrieve@|@khéd karnaa, shoak karnaa@
+@to agitate@|@bhadkaanaa, hilaa dénaa, kshubhdhha karnaa@
+@to agonize@|@dukhh dénaa, klesh dénaa@
+@to agree@|@ék mat honaa, maannaa, sweekriti dénaa@
+@to annoy@|@hairaan karnaa@
+@to apologize@|@maafee maangnaa@
+@to appear@|@pragat honaa@
+@to apply@|@lagaanaa@
+@to arrest@|@giraftaar karnaa@
+@to ask@|@poochnaa@
+@to assume@|@dhaarana karnaa@
+@to attach@|@joadnaa@
+@to attenuate@|@kum karnaa@
+@to attract@|@aakarrshit karnaa@
+@to auction@|@neelaam karnaa@
+@to award@|@puraskrit karnaa@
+@to bargain@|@béchnaa, lén-dén méin jhagadnaa, molbhaav karnaa@
+@to bark@|@bhaunknaa@
+@to barrel@|@peepé méin bharnaa@
+@to barricade@|@moarchaa baandhnaa, roaknaa@
+@to barter@|@adala-badali karnaa, vinimay karnaa@
+@to base@|@aadhaarit karnaa@
+@to bask@|@dhoop khaanaa, dhoop sainknaa@
+@to bate@|@ghataanaa, sastaa karnaa@
+@to bath@|@nahlaanaa@
+@to bathe@|@nahaanaa@
+@to batten@|@mauj manaanaa, takhtaa lagaanaa@
+@to batter@|@kootnaa@
+@to battle@|@ladnaa, saamnaa karnaa@
+@to bay@|@ghérnaa, khaadi méin laanaa@
+@to bayonet@|@kirrch maarnaa, sangeen banaanaa@
+@to be@|@honaa, réhnaa@
+@to beacon@|@diyaa dikhaanaa, prakaash karnaa@
+@to beam@|@chamkaanaa, prakaash daalnaa@
+@to bear@|@kashth uthaanaa, séhnaa@
+@to beat@|@maarnaa, peetnaa@
+@to bemoan@|@pachhtaanaa, ronaa, vilaap karnaa@
+@to bend@|@moadnaa@
+@to benefit@|@bhalaa karnaa, laabh pahunchaanaa@
+@to bequeath@|@waseeyat karnaa@
+@to berate@|@daantnaa, dhamkaanaa@
+@to bereave@|@chheen lenaa, vanchit karnaa@
+@to beset@|@sataanaa@
+@to bestow@|@arrpan karnaa@
+@to bet@|@shartt lagaanaa@
+@to betray@|@dhokhaa denaa, vishwaasghaat karnaa@
+@to bewilder@|@ghabraanaa, hairaan karnaa@
+@to bewitch@|@jaadoo karnaa, mohit karnaa@
+@to bicker@|@jhagadnaa@
+@to bid@|@bolee lagaanaa@
+@to bite@|@kaatnaa@
+@to boil@|@ubaalnaa@
+@to bounce@|@fudaknaa@
+@to breathe@|@saans lenaa@
+@to bribe@|@rishwat denaa@
+@to bring@|@laanaa@
+@to bury@|@dafan karnaa@
+@to bury(derog)@|@gaadnaa@
+@to buy@|@khareednaa@
+@to call(names)@|@dindoraa peetnaa, naam rakhhnaa@
+@to call(someone)@|@bulaanaa, pukaarnaa@
+@to calm@|@shaant karnaa@
+@to camp@|@déraa daalnaa, padaav daalnaa@
+@to can(food)@|@can méin bharnaa@
+@to cancel@|@radd karnaa@
+@to cane@|@bént maarnaa@
+@to canker@|@nasht ho jaanaa, sadd jaanaa@
+@to cant@|@banaakar bolnaa@
+@to canton@|@pargano méin vibhaajit karnaa@
+@to canvass@|@chandaa maangnaa@
+@to caper@|@fudaknaa, koodnaa, naachnaa@
+@to capitalize@|@poonji banaanaa@
+@to capitulate@|@hathiyaar daal denaa@
+@to capsize@|@ulat-pulat jaanaa, ulatnaa@
+@to captain@|@nétaa honaa@
+@to captivate@|@bandee banaanaa@
+@to capture@|@kabzaa karnaa, kaid karnaa@
+@to care(for someone)@|@khayaal karnaa@
+@to chase one away@|@khadednaa@
+@to cherish@|@jatan karnaa@
+@to chew@|@chabaanaa@
+@to circulate@|@abhisaran karnaa, prasaar karnaa@
+@to clutch@|@jakadnaa, muththhi mein pakadnaa@
+@to clutter@|@bheedh lagaanaa, kolaahal machanaa@
+@to coach@|@gaaid mein jaanaa, padhaanaa@
+@to coast@|@kinaare lagaanaa@
+@to coat@|@khol chadhaanaa, rangnaa@
+@to coax@|@behlaanaa, fuslaanaa, manaanaa@
+@to cock@|@ghodaa chadhaanaa, khadaa karnaa@
+@to cocker@|@laad karnaa, pyaar karnaa@
+@to cog@|@dhokhaa denaa@
+@to coil@|@lapetnaa@
+@to coincide@|@ek mat karnaa, milaanaa@
+@to collect@|@batornaa, sangrahit karnaa@
+@to come@|@aanaa@
+@to command@|@hukm denaa@
+@to consume@|@grahan karnaa@
+@to contact@|@sampark karnaa@
+@to contract@|@sikudnaa@
+@to cook@|@pakaanaa@
+@to cow@|@daraanaa@
+@to cry@|@roanaa@
+@to cry / to weep@|@roanaa@
+@to curse@|@shaap denaa@
+@to cut@|@kaatnaa@
+@to dance@|@naachnaa@
+@to decorate@|@sajaanaa@
+@to defame@|@badnaam karnaa@
+@to demand@|@maangnaa@
+@to describe@|@varrnan karnaa@
+@to detest@|@ghrinaa karnaa@
+@to dethrone@|@padbrashth karnaa@
+@to die@|@marnaa@
+@to dig@|@khoadnaa, khoadnaa, khudaee karnaa@
+@to distract@|@behkaanaa@
+@to distribute / allot@|@baantnaa, baantwaara karnaa@
+@to do@|@karnaa@
+@to do wrong@|@galatee karna@
+@to drag@|@ghaseetnaa@
+@to draw(a wire etc)@|@kheenchnaa@
+@to dread@|@darnaa@
+@to dream@|@khwaab dekhnaa@
+@to drench@|@geelaa karnaa@
+@to drift@|@bahnaa@
+@to drink@|@peenaa@
+@to drive a vehicle@|@gaadi chalaanaa@
+@to drop@|@giraanaa@
+@to drug@|@davaa denaa@
+@to dry@|@sukhaanaa@
+@to duck@|@jhuknaa@
+@to dump@|@saste daam par bechnaa@
+@to dupe@|@thhagnaa@
+@to duplicate@|@nakal banaanaa, pratilipee banaanaa@
+@to dust@|@dhool jhaadnaa@
+@to dwell@|@rehnaa@
+@to dwindle@|@ghatnaa, kam honaa@
+@to dye@|@rangnaa@
+@to earn@|@kamaanaa@
+@to ease@|@halkaa karnaa, shaant karnaa@
+@to eat@|@khaanaa@
+@to electrocute@|@bijlee ka jhatkaa denaa@
+@to emanate@|@baahar nikalnaa@
+@to embrace@|@alingan denaa@
+@to empty@|@khaalee karnaa@
+@to encourage@|@uttejan denaa@
+@to entertain@|@manoranjan karnaa@
+@to escape@|@palaayan karnaa@
+@to fall@|@girnaa, girnaa@
+@to fall ill@|@beemaar padnaa@
+@to feel@|@mehsoos karnaa@
+@to fly@|@udnaa@
+@to follow@|@peechhaa karnaa@
+@to forget@|@bhoolnaa@
+@to gamble@|@juaa khelnaa@
+@to garner@|@batornaa@
+@to gather@|@ikaththha karnaa@
+@to get awarded@|@puraskrit honaa@
+@to get insulted@|@apamaanit hoanaa@
+@to get ready@|@taiyyar honaa@
+@to get/to obtain@|@paanaa@
+@to give@|@denaa@
+@to go@|@jaanaa@
+@to go wrong@|@chookna@
+@to grant stability@|@sthirtaa pradaan karnaa@
+@to happen@|@honaa@
+@to have sex with@|@sambhog karna@
+@to hear@|@soon naa@
+@to hide@|@chhipnaa@
+@to hunt@|@shikaar@
+@to identify@|@pehchaannaa@
+@to include@|@samaavesh karnaa@
+@to increase@|@badhaanaa@
+@to inflate@|@fulaanaa@
+@to inform@|@soochit karnaa@
+@to insist@|@aagraha karnaa@
+@to instruct@|@suchanaa denaa@
+@to insult@|@apamaan karnaa@
+@to intimidate@|@daraanaa@
+@to jump@|@koodnaa, uchhalnaa@
+@to keep@|@rakhnaa@
+@to kick@|@laath maarnaa@
+@to kill@|@maarnaa@
+@to laugh@|@hassnaa@
+@to leak@|@galnaa@
+@to learn@|@seekhnaa@
+@to lessen@|@kamm karnaa@
+@to lick@|@chaantnaa@
+@to lie@|@jhooth bolnaa@
+@to live@|@rehnaa@
+@to lose@|@khonaa@
+@to lose(a competition)@|@haarnaa@
+@to love@|@ishq karnaa, prem karnaa, pyaar karnaa@
+@to lower@|@neecha karnaa, utaarnaa@
+@to lubricate@|@chiknaa karnaa@
+@to lug@|@ghaseetnaa, kheenchnaa@
+@to lull@|@shaant karnaa@
+@to lumber@|@lakdee kaatnaa@
+@to lump@|@dher lagaanaa@
+@to lunge@|@dhakkaa denaa@
+@to lure@|@lubhaanaa@
+@to lurk@|@chhip kar baithnaa, ghaat mein rehnaa@
+@to lynch@|@maarpeet karnaa@
+@to make@|@banaanaa@
+@to make someone cry@|@rulaanaa@
+@to make someone laugh@|@hassaanaa@
+@to manage@|@sambhaalnaa@
+@to meet@|@milnaa@
+@to moot@|@behas karnaa, vaad-vivaad karnaa@
+@to mop@|@jhadoo lagaanaa@
+@to moralize@|@neeti upadesh denaa@
+@to mortgage@|@girvi rakhnaa@
+@to motivate@|@protsaahit karnaa@
+@to mould@|@saanchaa banaanaa@
+@to mount@|@chadhnaa@
+@to mourn@|@shok karnaa, vilaap karnaa@
+@to move@|@hilnaa@
+@to obstruct@|@baadhaa daalnaa@
+@to obtain@|@praapt karnaa@
+@to occlude@|@pratibandh karnaa@
+@to occupy@|@adhikaar rakhnaa, sthaan lenaa@
+@to occur@|@prakat honaa@
+@to offend@|@ullanghan karnaa@
+@to offer(a gift)@|@upahaar denaa@
+@to ogle@|@tirrchhi najar se dekhnaa@
+@to oil@|@tel lagaanaa@
+@to overlook@|@upekshaa karnaa@
+@to pant(like a dog)@|@haanfnaa@
+@to pardon@|@chhoad dénaa, kshamaa karnaa@
+@to pare@|@chheelnaa, katarnaa@
+@to park@|@khadaa karnaa, park karnaa, rakhnaa@
+@to parley@|@baatcheet karnaa@
+@to parry@|@door karnaa@
+@to part@|@alag honaa, bhaag karnaa, judaa karnaa@
+@to participate@|@hissaa lénaa, saajhi honaa, shareek honaa@
+@to pass@|@bitaanaa, gujarnaa, jaanaa@
+@to paste@|@chipkaanaa, léee lagaanaa@
+@to pat@|@thapkee dénaa@
+@to pay@|@chukaanaa@
+@to penetrate@|@andar ghusnaa@
+@to persuade@|@samjhaanaa@
+@to perturb@|@kshubhdhaa karnaa@
+@to pester@|@hairaan karnaa@
+@to petrify@|@patthar mein badal jaanaa@
+@to pick@|@uthaana@
+@to place / establish@|@sthaapanaa karnaa@
+@to play@|@khelnaa, khelnaa@
+@to play(an instrument)@|@bajaanaa@
+@to present@|@pesh karnaa@
+@to print@|@chhapnaa@
+@to pull@|@kheenchnaa@
+@to push@|@dhakelnaa@
+@to read@|@padhnaa@
+@to realize@|@ehsaas honaa@
+@to reitre@|@nivritt honaa@
+@to reject@|@asweekaar karnaa@
+@to reply@|@jawaab denaa, uttar denaa@
+@to report@|@bayaan karnaa, varrnan karnaa@
+@to repose@|@aaraam karnaa@
+@to represent@|@pratinidhitva karnaa@
+@to repress@|@dabaanaa, kuchalnaa@
+@to reprimand@|@daantnaa, dhikkaar karnaa@
+@to reprint@|@doosra sanskaran nikaalnaa@
+@to reproach@|@badnaam karnaa@
+@to reproduce@|@paidaa karnaa@
+@to repudiate@|@inkaar karnaa, tyaag karnaa@
+@to repulse@|@paraajit karnaa@
+@to repurchase@|@phir kharidnaa@
+@to request@|@maangnaa, praarthanaa karnaa@
+@to rescind@|@nishprabhaav karnaa@
+@to rescue@|@bachaanaa, mukt karnaa@
+@to research@|@khoj karnaa@
+@to resemble@|@samaan honaa@
+@to resent@|@naraaj honaa@
+@to reserve@|@bachaa rakhnaa@
+@to reshape@|@phir se aakaar denaa@
+@to resign@|@isteefaa denaa@
+@to resist@|@virodh karnaa@
+@to resolve@|@sankalp karnaa@
+@to resort@|@aashray lenaa@
+@to respect@|@aadar karnaa@
+@to respite@|@muhlat lenaa@
+@to respond@|@jawaab denaa, uttar denaa@
+@to rest@|@aaraam karnaa, vishraam karnaa@
+@to restore@|@poorvaavasthaa pradaan karnaa@
+@to restrain@|@seemit karnaa@
+@to return(something)@|@waapas karnaa@
+@to return(somewhere)@|@waapas jaana@
+@to ruin@|@nasht karnaa@
+@to run@|@bhaagnaa@
+@to sacrifice@|@balee chadhaanaa@
+@to sanction@|@maanyataa denaa@
+@to save@|@bachaanaa@
+@to say@|@kehnaa@
+@to search@|@dhoondhnaa@
+@to season(food)@|@swaadishth banaanaa@
+@to see@|@dekhnaa@
+@to see / to look@|@dekhnaa@
+@to seep@|@paseejnaa@
+@to seethe@|@khaulnaa, ubalnaa@
+@to segregate@|@alag rakhnaa@
+@to seize@|@chheen lenaa@
+@to select@|@chun lenaa@
+@to sell@|@béchnaa@
+@to send@|@bhéjnaa@
+@to send by post@|@daak dwaraa bhejnaa@
+@to sensitize@|@sachetan karnaa@
+@to sepulchre@|@dafan karnaa, gaadnaa@
+@to sequester@|@alag honaa, judaa karnaa@
+@to shake@|@hilaanaa@
+@to shine@|@chamakaanaa@
+@to shirk@|@jee churaanaa, khisaknaa@
+@to shiver@|@thartharaanaa@
+@to shoal@|@bheed lagaanaa, samooha karnaa@
+@to shock@|@sadma pahunchaanaa@
+@to shoot(a gun)@|@goli maarnaa@
+@to shop@|@kahridaari karnaa@
+@to shorten@|@chotaa karnaa, kamm karnaa@
+@to shout@|@chillanaa@
+@to shove@|@dhakélnaa@
+@to show@|@dikhaanaa@
+@to shower@|@barasnaa, bauchhaar karnaa@
+@to shred@|@tukde-tukde karnaa@
+@to shriek@|@chillaanaa@
+@to shrink@|@sikudnaa@
+@to shudder@|@kaanpnaa@
+@to shuffle@|@ulat-pulat karnaa@
+@to shun@|@asweekaar karnaa, nakaarnaa@
+@to sing@|@gaanaa@
+@to sit@|@baithnaa@
+@to slander@|@badnaami karnaa@
+@to slap@|@chaantaa maarnaa@
+@to sleep@|@soana@
+@to smoke@|@dhumrapaan karnaa@
+@to speak@|@bolnaa@
+@to spin@|@ghoomaanaa, ghoomnaa@
+@to spit@|@thoonknaa@
+@to steal@|@churaanaa@
+@to stop(someone)@|@roaknaa@
+@to stop(voluntarily)@|@ruknaa@
+@to study@|@padhayee karnaa@
+@to suck@|@choosnaa@
+@to surprise@|@chakit karnaa@
+@to swallow@|@nigalnaa@
+@to swim@|@tairnaa@
+@to take@|@lénaa@
+@to take care@|@khayaal rakhnaa@
+@to take refuge@|@panah lenaa@
+@to teach@|@padhaanaa, sikhaanaa@
+@to tear@|@phaadnaa@
+@to tease@|@chidhaanaa@
+@to tell@|@bataanaa@
+@to throw@|@uchhaalnaa@
+@to tie@|@baandhnaa@
+@to tighten@|@kassnaa@
+@to touch@|@sparsh karnaa@
+@to translate@|@anuvaad karnaa@
+@to travel@|@yaatra karnaa@
+@to trouble(someone)@|@sataanaa@
+@to trust@|@vishwaas karnaa@
+@to try@|@prayaas karnaa@
+@to turn@|@mudnaa@
+@to understand@|@samajhnaa@
+@to use@|@istemaal karnaa@
+@to vary / to change@|@badalnaa@
+@to venerate@|@aadar karnaa@
+@to vomit@|@ultee karnaa@
+@to wait@|@intezaar karnaa, pratikshaa karnaa, théharnaa@
+@to wake@|@uthnaa@
+@to warn@|@chetavanee denaa, saavdhaan karnaa@
+@to wash@|@dhonaa@
+@to wash(onself)@|@dhonaa@
+@to waste@|@vyarth karnaa@
+@to watch@|@dekhnaa@
+@to wave@|@lehraanaa@
+@to wear@|@pehan-naa@
+@to weave@|@bunaee karnaa@
+@to whine@|@karaahnaa@
+@to whisper@|@phusphusaanaa@
+@to win@|@jeetnaa@
+@to withhold@|@roaknaa, thopnaa@
+@to woo@|@mohit karnaa@
+@to worry@|@chintaa, chintaa karnaa@
+@to wound(someone)@|@ghaayal karnaa@
+@to wrap@|@dhaknaa@
+@to write@|@likhnaa@
+@to yell@|@chillaanaa@
+@tobacco@|@tambakoo@
+@today@|@aaj@
+@together@|@ek saath@
+@toilet / sanitary annexe@|@prasaadhan griha@
+@tomato@|@Tamatar@
+@tomorrow@|@kall@
+@tongue@|@zabaan@
+@Tooth@|@daat@
+@tortilla@|@rotee@
+@tortoise@|@kachhuaa@
+@touch(n)@|@sparsh@
+@tough@|@mushkil@
+@tourist@|@sailanee@
+@toy@|@khilonaa@
+@traction@|@karrshan@
+@train@|@Rail gaadi, railway@
+@trainer@|@prashikshak@
+@training@|@prashikshan@
+@transaction@|@saudaa@
+@transformer(electrical)@|@rohitra@
+@translation@|@anoovaad@
+@transmission@|@prakshaepan@
+@transparent@|@paardarrshee@
+@trap@|@shikanjaa, vyuvha@
+@travel@|@Safar, yaatra@
+@traveller@|@yatri@
+@treasure@|@khazaanaa@
+@treaty@|@samjhautaa@
+@tree@|@darakth, ped, vriksha@
+@triangle@|@trikoan@
+@tribal@|@adivasee@
+@tribe@|@jaati@
+@tricolor@|@tirangaa@
+@tropic of cancer@|@karkvritta@
+@tropic of capricorn@|@makarvritta@
+@tropical@|@ooshna-katee-bandheeya@
+@true@|@khara@
+@trust@|@vishwaas@
+@truth@|@satya@
+@tubectomy@|@nasbandee@
+@Tuesday@|@Mangalwaar@
+@tunnel@|@surang@
+@turban@|@pagadee@
+@turmeric@|@haldi@
+@turn on the lights!@|@battiyan jalao!@
+@turn(n)@|@moad@
+@twelve@|@Baraah@
+@twenty@|@Bees, Bees@
+@two@|@Do ( as in do sveedanya)@
+@typical indian bed@|@chaarpayee@
+@ugly@|@kuroop@
+@ultimate@|@aakhree, antim@
+@umbilical cord@|@naabhi@
+@umbrella@|@chhata@
+@unable@|@asamarth@
+@unaccustomed@|@apareechit@
+@unaffected@|@aprabhaavit@
+@unanimity@|@ékatmataa@
+@unanimous@|@ekmat, sarvasammat@
+@unarmed@|@nihatta, nishastra@
+@unaware@|@achet, asaavadhan@
+@unbearable@|@asahyaa@
+@uncle(maternal)@|@maamaa@
+@uncle(paternal)@|@chaachaa@
+@undecided@|@aanirrneet@
+@undefeated@|@aparaajit@
+@under(something)@|@ke neeche@
+@undergarments@|@antarvastra@
+@undetermined@|@anirrdhaarit;anirrnit@
+@uneasiness@|@bechainee@
+@uneducated@|@anpadh, ashikshit, gawaar, jaahil@
+@unemployed person@|@bekaar manushya@
+@unemployment@|@berojgaree;bekari@
+@unending@|@anant, aseem@
+@unequivocal@|@spasht@
+@unerring@|@achook@
+@unfair@|@ayogya;anuchit;anyaypoorna@
+@unfaithful@|@vishwaasghaati;kapati@
+@unfathomable@|@agaadh@
+@unfavorable@|@pratikool@
+@unfriendly@|@asnehi@
+@unholy@|@apavitra@
+@uniform(of a personnel)@|@vardi@
+@uniformity@|@ekrooptaa, samaanataa, samarooptaa@
+@unique@|@advitiya@
+@unity@|@ektaa@
+@universe@|@brahmand@
+@university@|@vishwavidyalaya@
+@unmarried boy@|@kuaaraa@
+@unmarried girl@|@kuaaree@
+@unnatural@|@anaisargik@
+@unstable@|@astheer@
+@untouchable@|@achhoot@
+@up@|@oopar@
+@urban@|@shaharee@
+@urgent@|@turant@
+@urine@|@peshaab@
+@ursine@|@bhaaloo jaisaa@
+@use@|@istemaal, istémaal, upayoag@
+@useful@|@laabhdaayak, upayogi@
+@usless@|@nikamma, vyartha@
+@utensil@|@barrtan@
+@uterine@|@garbhaashay sambandhi@
+@uterus@|@garbhaashay@
+@vacuum@|@nirvaat@
+@vapour@|@bhaanp@
+@vasectomy/tubectomy@|@nasbandee@
+@vegetable market@|@sabji mandee@
+@vegetables@|@sabjee, Shaak@
+@vegetarian@|@shaakaahaaree@
+@Vehicle (general)@|@Gaadi@
+@veil@|@parrdaa@
+@velocoity@|@raftaar@
+@verb@|@Kriyaa@
+@verbal abuse@|@gaali@
+@vermicelli@|@siwaiyaan@
+@vertebral column@|@reedh ki haddee@
+@via@|@dwaara@
+@vibration@|@kampan@
+@victory@|@jeet@
+@victory / win@|@jeet@
+@videshi@|@foreigner@
+@village@|@gaon@
+@violence@|@hinsaa@
+@virtual@|@kalpanik@
+@voice@|@awaaj, swar@
+@vulgar@|@ashleel@
+@vulture@|@gidhh@
+@wage@|@majdoori, vetan@
+@waist@|@Kamar@
+@wall@|@deewaar@
+@wallet@|@butwaa@
+@war@|@jung@
+@warehouse@|@godaam@
+@warm@|@garrm@
+@warmth@|@garrmee@
+@warning@|@chetaavanee, saavdhan@
+@warrant@|@adhikaar pattra@
+@warrior@|@yodhhaa@
+@warship@|@ranpoat@
+@wart@|@massaa@
+@wasp@|@tataiyya@
+@waste(garbage)@|@koodaa@
+@watchman@|@rakhwaalaa@
+@water@|@jal, panee@
+@waterfall@|@jharrnaa@
+@waterproof@|@jalrodhak@
+@wave@|@lahar@
+@wave(n)@|@tarang@
+@wavy@|@lehraata hua@
+@wax@|@moam@
+@we@|@hum@
+@we forgot the road.@|@hum raastaa bhool gaye.@
+@weak@|@durbal, kamzor, shaktiheen@
+@weakness@|@kamzoree, nirbalataa@
+@wealth@|@dhan, sampatti@
+@wealth tax@|@sampatti kar@
+@wealthiness@|@ameeri@
+@wealthy@|@ameer@
+@weapon@|@asttra, shastraa@
+@weariness@|@susti@
+@weary@|@sust@
+@weaver@|@bunaee karné waalaa@
+@wedlock@|@viwaaha bandhan@
+@Wednesday@|@Budhwaar@
+@week@|@haftaa, saptah@
+@weekly@|@saptaahik@
+@weight@|@bhaar, vajan@
+@weighty@|@bhaaree@
+@weird@|@adbhut@
+@welcome@|@su-swagatam@
+@welfare@|@kalyan@
+@well@|@kooan@
+@well informed@|@jaankaar@
+@west@|@paschim@
+@wet@|@geelaa@
+@what are you thinking?@|@aap kya soch rahé hai?@
+@what happened?@|@kya huaa?@
+@what(?!)@|@kya(?!)@
+@wheat@|@gaenhoo@
+@wheel@|@pahiyaa@
+@wheel chair@|@pahiyewaaali kursi@
+@when@|@jab bhi, Kab@
+@Where@|@kahaan, Kidhar@
+@where are you from?@|@aap kahaan ke hai?@
+@where do you live?@|@aap kahaan rehate hain?@
+@where do you want to go?@|@aap kidhar jaana chahte hai?@
+@where is the hotel?@|@hotal kahaan hai?@
+@where is the railway station?@|@railway station kahaan hai?@
+@which@|@kounsaa@
+@which way did they go?@|@woh kaunsi disha méin gayé?@
+@whichever@|@koi bhi@
+@whimsical@|@manmaujee, sanaki@
+@whip(n)@|@chabook, chhadee@
+@whirlpool@|@bhanwar@
+@whirlwind@|@chakravaat@
+@whisper@|@phusphusaahat@
+@white@|@safed@
+@who did this?@|@yeh kisné kiyaa?@
+@who turned off the lights?@|@battiyaan kisne bujhayee?@
+@whoever@|@jo koi@
+@whole@|@akhand, samast@
+@whole hearted person@|@dariyaadil insaan@
+@whole heartedness@|@dariyaadilee@
+@whore@|@vaishya@
+@why@|@kis liye, kyon@
+@wide@|@vistirrna@
+@widow(n)@|@vidhwaa@
+@widower@|@vidhur@
+@wife@|@beebi, patnee@
+@wild@|@janglee@
+@windmill@|@pavanchakki@
+@window@|@jharokhaa, khidkee@
+@wings@|@pankh, parr@
+@winter@|@jaada, sardee@
+@wire(n)@|@taar@
+@wisdom@|@pandittya, vivek@
+@wise@|@gyaanee@
+@wish@|@arzoo, ichchhaa, laalsaa, manishaa@
+@wishful@|@abhilashi@
+@witch@|@daayan@
+@with him/her(fam)@|@uske saath@
+@with him/her(pol)@|@unke saath@
+@with them@|@unke saath@
+@with us@|@hamaare saath@
+@with you(fam)@|@tere saath@
+@with you(pol)@|@aapke saath@
+@witty@|@chatur@
+@wolf@|@bhediyaa@
+@woman@|@Aurat, stree@
+@womanhood@|@streettva@
+@womb@|@garrbhaashay@
+@wood@|@lakdee@
+@wooden(of wood)@|@lakadee kaa@
+@woollen@|@oonee@
+@word@|@shabda@
+@work@|@kaam@
+@worker@|@karmacharee@
+@workman@|@kareegar@
+@workmanship@|@kareegaree@
+@workshop@|@kaaryashaala@
+@world@|@duniyaa, jug@
+@worldly@|@sansaari@
+@worldwide@|@vishwa-vyaapak, vishwa-vyaapee@
+@worm@|@keedaa@
+@worries@|@chintaaein@
+@worry@|@chintaa@
+@wound@|@ghaav@
+@wrist@|@Kalaaee@
+@wrist watch@|@kalayee ghadi@
+@writer@|@lekhak(m), lekhikaa(f)@
+@wrong@|@galat@
+@yeah@|@haan (n is nasal)@
+@year@|@Saal, varsh@
+@yearly@|@waarshik@
+@yeast@|@khameer@
+@yellow@|@peela@
+@yes@|@haan@
+@yesterday@|@kall@
+@You (fam)@|@Too (spell T as in tequila)@
+@You (pol)@|@Aap@
+@young@|@jawaan@
+@your@|@tumhaaraa@
+@your(fam.)@|@terra, tumhaaraa@
+@your(pol.)@|@aapkaa@
+@youth@|@jawanee, youvan, youvan@
+@zany@|@maskhara@
+@zeal@|@josh, uttsaah@
+@zenith@|@shirobindu@
+@zephyr@|@paschhimee vayoo@
+@zero@|@Shunya@
+@Zero 0@|@Shunya@
+@zodiac@|@raashichakkra@
+@zoo@|@chidiyaghar@
+

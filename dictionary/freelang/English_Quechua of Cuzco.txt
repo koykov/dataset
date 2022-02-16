@@ -1,0 +1,2186 @@
+@English@|@Quechua of Cuzco@
+@Author name@|@Kyliane@
+@Font@|@Arial\12\Arial\12@
+@(Andean deer)@|@taruka@
+@(Andean globular flute)@|@ukarina@
+@(Andean horn)@|@kañari, phukuna waqra, waqraphuku@
+@(Andean long flute)@|@pinkuyllu@
+@(aromatic herb)@|@wakatay@
+@(kind of flute)@|@qina@
+@(kind of owl)@|@pakpaka@
+@(large round Andean drum)@|@wankara@
+@(local tuber)@|@mashua@
+@(mid-size Andean drum)@|@wankar@
+@(panpipe of bamboo)@|@antara@
+@(panpipe)@|@siku@
+@(small ten-string guitar)@|@charangu, kirkinchu@
+@(songbird)@|@pukuy pukuy@
+@(tambourine or small drum)@|@tinya@
+@(traditional Andean music)@|@harawi, sikuri, waylas, waynu@
+@(tuber)@|@uqa, yacón@
+@(violin)@|@wiyulin@
+@0@|@ch'usaq@
+@1@|@huq@
+@1/02/0@|@iskay taq'a@
+@1/3@|@kinsa taq'a@
+@1/4@|@tawa taq'a@
+@10@|@chunka@
+@1000000@|@hunu@
+@11@|@chunka huqniyuq@
+@12@|@chunka iskayniyuq@
+@13@|@chunka kinsayuq@
+@14@|@chunka tawayuq@
+@15@|@chunka pisqayuq@
+@16@|@chunka suqtayuq@
+@17@|@chunka qanchisniyuq@
+@18@|@chunka pusaqniyuq@
+@19@|@chunka isqunniyuq@
+@1st@|@ñawpaq kaq@
+@2@|@iskay@
+@20@|@iskay chunka@
+@21@|@iskay chunka huqniyuq@
+@22@|@iskay chunka iskayniyuq@
+@2nd@|@iskay kaq@
+@3@|@kimsa, kinsa@
+@3/04/0@|@kinsa tawa taq'a@
+@30@|@kinsa chunka@
+@3rd@|@kinsa kaq@
+@4@|@tawa@
+@40@|@tawa chunka@
+@5@|@pichqa, pishqa, pisqa@
+@50@|@pisqa chunka@
+@6@|@soqta, suqta@
+@60@|@suqta chunka@
+@7@|@qanchis@
+@70@|@qanchis chunka@
+@8@|@pusac, pusaq@
+@80@|@pusaq chunka@
+@9@|@isqun@
+@90@|@isqun chunka@
+@a little@|@as@
+@a little bit@|@as aslla, pisi pisilla@
+@a lot@|@achkha, askha@
+@a lot of@|@askha@
+@abandon (to)@|@wikch'uy, wisch'uy@
+@able-bodied@|@qhali@
+@above@|@hanaq, hawanpi, patapi@
+@abroad@|@karu llaqta@
+@absent (to)@|@ch'usay@
+@accept (to)@|@uyakuy, uyniy@
+@accident@|@aksidinti@
+@accomodation@|@qurpa wasi, qurpachana@
+@accomplice@|@kumpari@
+@ache@|@nanay@
+@across@|@chimpa + marque de cas@
+@across (from)@|@chimpapi@
+@add (to)@|@yapay@
+@adolescent@|@warma@
+@adult@|@kall payuq, wiñay hunt'asqa@
+@Adventist@|@adwintista@
+@advice@|@yuyay quy@
+@advise (to)@|@willay, willay, yuyaychay@
+@aeroplane@|@awiyun@
+@afraid@|@manchasqa@
+@after@|@chaymanta, hinaspa, qhipata@
+@afternoon@|@inti t'iksuy, tayri@
+@afterwards@|@chaymantaqa, qhilpata@
+@again@|@huqmanta, watiqmanta, yapamanta@
+@against@|@kuntra@
+@agave (aloe)@|@paqpa@
+@age@|@wata, wiñay@
+@ago@|@huq ratuña, naqha, ñaqha@
+@agree to (to)@|@uyakuy@
+@Agreed!@|@Allinmi!@
+@ahead@|@ñawpaq@
+@aid (to)@|@yanapay@
+@aide@|@yanapaq@
+@air@|@wayra@
+@alcohol@|@trawu, waqtu@
+@alimentary plant@|@mikhuy@
+@all@|@llapa, llapan, llipi, lliw, q'ala, tukuy@
+@allow (to)@|@huñiy, saqillay@
+@almost@|@yaqa@
+@alone@|@sapa@
+@alpaca@|@paku, paqu, paqucha@
+@already@|@-ña@
+@also@|@-pas, -pis@
+@although@|@chaypas@
+@altitude@|@sayay@
+@altitude sickness@|@suruchi@
+@always@|@pasaq kutilla, wiñay@
+@amazed@|@utirayay@
+@Amazonian forest@|@muntaña@
+@among@|@-pura, ukhupi@
+@amputate (to)@|@wit'uy@
+@ancient@|@ñawpa, ñawpaq@
+@and@|@-pis@
+@angry@|@phiña, phiñasqa@
+@animal@|@uywa@
+@animal (wild)@|@animal@
+@ankle@|@chaki muqhuchu@
+@another@|@huq@
+@answer (to)@|@kutichiy@
+@ant@|@sisi@
+@any kind@|@imaymana@
+@anything@|@imallapas@
+@appeal to (to)@|@gustay@
+@appear (to)@|@ikhuriy, rikhuriy@
+@apple@|@mansana@
+@approach (to)@|@achhuykuy, serkay@
+@April@|@awril killa@
+@aqueduct@|@rarq'a, yarqha@
+@archaeological site@|@thunisqa ñawpa@
+@area@|@laru@
+@argue (to)@|@churanakuy, maqanakuy, tapunakuy@
+@arm@|@maki@
+@armadillo@|@kirkinchu@
+@arrange (to)@|@allichay@
+@arrive (to)@|@chayay, chiyay@
+@art@|@arti@
+@artist@|@artista@
+@ashtray@|@ushpa churana@
+@ask (to)@|@tapuy@
+@ask for smthing (to)@|@mañakuy@
+@assemble (to)@|@tantay@
+@assistant@|@yanapakuq@
+@assister (to)@|@yanapay@
+@at@|@-pi@
+@at that time@|@chay pacha@
+@attention@|@paqta@
+@August@|@awustu killa@
+@aunt@|@tiya@
+@Australia@|@Awstraliya@
+@autumn@|@puquy mit'a@
+@average@|@taksa, tinku@
+@avocado@|@palta@
+@awful@|@map'a@
+@baby@|@wawa, wawacha@
+@baby (animal)@|@uña@
+@baby's bottle@|@bibirun@
+@baby-sitter@|@wawa qhawaq@
+@back@|@wasa@
+@back of the neck@|@much'u@
+@backpack@|@q'ipi@
+@bad@|@mana allin@
+@bag@|@wayaqa@
+@baggage@|@malita@
+@baked apple@|@papa yanuy@
+@baked potato@|@papa wayk'u@
+@ball@|@bola, piluta@
+@balloon@|@bola@
+@bamboo@|@suqus, tuquru@
+@banana@|@latanus@
+@band (music)@|@kusituy@
+@bank@|@qulqi wasi@
+@bank (shore)@|@kantu@
+@baptise (to)@|@uliyay, unuchay, wawtisay@
+@baptism@|@uliyu, wawtisay@
+@Baptist@|@wawtista@
+@barley@|@siwara@
+@barrier@|@perk'a@
+@barter (to)@|@chhalay, rantiy, trukiy@
+@basket@|@isanka, kanasta@
+@bath (to)@|@armakuy, bañay@
+@bathe (to)@|@armay@
+@bathroom@|@bañu@
+@be (to)@|@kay@
+@be able (to)@|@atiy@
+@be afraid (to)@|@manchakuy@
+@be afraid of (to)@|@manchay@
+@be angry (to)@|@phiñakuy@
+@be aware of (to)@|@riparay@
+@be born (to)@|@paqariy@
+@be cold (to)@|@chiriy@
+@be crazy (to)@|@musphay@
+@be drunk (to)@|@machay@
+@be heavy (to)@|@llasay@
+@be hot (to) (person)@|@ruphariy@
+@be hungry (to)@|@yarqay@
+@be in love (to)@|@sunqu tupachiy@
+@be late (to)@|@tayriyay@
+@be left over (to)@|@puchuy@
+@be long (to)@|@unay@
+@be lost (to)@|@chiskasqa puriy@
+@be pregnant (to)@|@unqu@
+@be sad (to)@|@llakiy@
+@be satisfied (to)@|@saksay@
+@be sick (to)@|@unqu@
+@be thirsty (to)@|@ch'akiy@
+@be tired (to)@|@sayk'uy@
+@be unwell (to)@|@unqu@
+@be upset (to)@|@phiñakuy@
+@bean (toasted)@|@hamk'a, hank'a@
+@beans@|@alwirhas@
+@bear@|@ukuku, ukumari@
+@bear (to)@|@atipay, marq'ay@
+@beard@|@sunkha@
+@beat (to)@|@maqay, q'asuy, waqtay@
+@beautiful@|@sumaq@
+@because of@|@-rayku@
+@become (to) different@|@huqnirayay@
+@become illuminated (to)@|@illariy@
+@become infected (to)@|@ch'upuy, q'iyachay@
+@become inflamed (to)@|@punkiy@
+@become overcast (to)@|@phuyuy@
+@bed@|@kawitu, puñuna@
+@bedroom@|@kuwartu, puñuna kwartu@
+@bee@|@lachiwa@
+@beef@|@waka aycha@
+@beer@|@sirwisa@
+@before@|@ñaupa@
+@before (time)@|@ñawpaqta@
+@begin (to)@|@qallariy@
+@behind@|@qhilpapi, qhipa@
+@believe (to) (religious)@|@iniy, iñiy@
+@belly@|@wiksa, wiqsa@
+@below@|@uran@
+@belt@|@chumpi@
+@bench (stone)@|@pataña@
+@beside@|@waqtanpi@
+@besides (furthermore)@|@chaymanta, hinaspa@
+@better@|@aswan allin@
+@Beware!@|@Paqta !@
+@bib@|@babiru@
+@bicycle@|@wisikilita@
+@big@|@hatun@
+@bigger@|@aswan hatun@
+@bill@|@kwinta@
+@billy goat@|@kabra@
+@bird@|@pichiku, pichinchu, pisqo, pisqu, urpito@
+@birthday@|@wata hunt'ay@
+@bite (insect)@|@k'utuy@
+@bite (of any creature)@|@kaniy@
+@bite (to)@|@k'utuy@
+@bite (to) (dog)@|@khachuy@
+@bite off (to)@|@khachuy@
+@bitter@|@qaqte@
+@black@|@yana@
+@bladder@|@hisp'ay puru@
+@blanket@|@chusi, qata@
+@bleed (to)@|@yawarchay@
+@blind@|@ñausa, ñawsa@
+@blind (adj)@|@arpha@
+@blond@|@p'aqu@
+@blood@|@yawar@
+@bloom (to)@|@sisay@
+@blossom (to)@|@sisay@
+@blue@|@anqas, asul@
+@blue (eye)@|@qhusi@
+@boat@|@wampu@
+@body@|@aycha kurku, kirpu, kurku, kurpu@
+@boil (to)@|@t'impuchiy, t'impuy@
+@boiled@|@t'impusqa@
+@boiled beans@|@phuspu@
+@Bon appetit!@|@Misk'illantaña mikhukuy!@
+@Bon voyage!@|@Allinllaña purikuy!@
+@bone@|@tullu@
+@book@|@liwru@
+@boots@|@butas@
+@border@|@saywa@
+@bored@|@amisqa@
+@boring@|@amisqa, mana allin@
+@born (to)@|@nasiy@
+@borrow (to)@|@mañakuy, manukuy, manuypi mañay@
+@both@|@iskaynin@
+@bother (to)@|@ch'iqmiy@
+@bottle@|@wutilla@
+@bottle opener@|@wutilla kichana@
+@bottom (body)@|@siki@
+@boy (-10 years)@|@hirq'i@
+@boy (10-15 years)@|@maqt'a@
+@boy (under 10)@|@irqi@
+@boyfriend@|@yana@
+@brain@|@nosqhon@
+@branch@|@ch'apra, k'allma@
+@brandy@|@trawu@
+@bread@|@t'anta@
+@break (to)@|@p'akiy, pakay@
+@breakfast@|@mati, tutamanta mikhuna, unu q'uñi@
+@breast@|@ñuñu@
+@breath in (to)@|@suq'uy@
+@breathe (to)@|@samariy, samay@
+@breathlessness@|@mana samayniyuq@
+@bridge@|@chaka@
+@bring (to)@|@apamuy, chayachiy@
+@bring up (to)@|@uyway@
+@bring water (to)@|@unuta apamui, yakuta apamui@
+@broken@|@p'akisqa@
+@bronchitis@|@nishu uhu@
+@broom@|@pichana@
+@broom (bush)@|@t'anqar@
+@brother (of a man)@|@wawqi, wayqi@
+@brother (of woman)@|@tura, turi@
+@brown@|@ch'umpi@
+@bucket@|@baldi@
+@Buddhist@|@wudista@
+@build (to)@|@pirqachay, sayarichiy@
+@build your house@|@wasichakuy@
+@building@|@hatun wasi@
+@bull@|@turu, waka@
+@bullfight@|@turus@
+@bullfighting@|@turu pukllay@
+@burial site@|@chullpa@
+@burn@|@ruphay@
+@burn (to)@|@k'anay, kanay, rawray, ruphachiy, ruphay@
+@burner@|@tullpa@
+@burst (to)@|@t'uqyay@
+@bus@|@karru, uniwus@
+@bust@|@q'asq'o, qhasqu@
+@busy@|@mana qasiq, ruwanayuq@
+@but@|@ichaqa@
+@butter@|@mantikilla@
+@butter up (to)@|@llullay@
+@butterfly@|@pillpintu@
+@buttocks@|@siki papan@
+@buy (to)@|@rantiy@
+@bye@|@ratukama@
+@cabbage@|@kulis@
+@cactus@|@añapanku, k'aklla@
+@cactus fruit@|@tunas@
+@cadaver@|@aya@
+@calf@|@uña@
+@call (to)@|@sutichay@
+@call (to) (phone/shout)@|@waqyay@
+@call (to) (shout/phone)@|@wahay@
+@camion@|@kamiyun@
+@camp site@|@karpapaq pampa@
+@camping@|@kampamintu@
+@camping ground@|@karpa ruwanapaq@
+@can (of food)@|@lata@
+@can (to)@|@atiy@
+@can opener@|@lata kichana@
+@Canada@|@Kanada@
+@candle@|@bila@
+@canine teeth@|@waqsa@
+@canyon@|@wayq'o@
+@cap@|@ch'ullu@
+@capital city@|@uma llaqta@
+@capsicum@|@piminta@
+@car@|@awtu, karru@
+@care@|@qhaway@
+@carnival@|@karnawal@
+@carpenter@|@karpintiru@
+@carrot@|@sanurya@
+@carry (to)@|@apay, astay, marq'ay, wantuy@
+@carry (to) (on the back)@|@q'ipiy@
+@carve (to)@|@ch'iquy, kuchuy@
+@casette@|@kasiti@
+@cat@|@michi, misi@
+@catch (to)@|@hap'iy, taripay@
+@cathedral@|@hatun inlisa@
+@catholic@|@katuliku@
+@cave@|@mach'ay@
+@celebrate (to)@|@phistihay, q'uchukuy, q'uchurichiy@
+@celebrate (to) (birthday)@|@phistakuy@
+@celebration@|@phista@
+@cemetery@|@aya p'ampana@
+@ceramic@|@k'akra, k'aphra, raqch'i@
+@ceramic jug@|@p'uyñu@
+@ceremanial baths@|@Inkaq armakunan@
+@chair@|@tiana, tiyana@
+@change (to)@|@huqnirayay, kambiyay@
+@cheap@|@manaq chaniyuq@
+@cheapest@|@lliwmanta pisi chaniyuq@
+@cheat (to)@|@q'utuy@
+@cheek@|@k'aklla, waqo@
+@Cheers!@|@Ukyaykusun!@
+@cheese@|@kisu@
+@chef@|@wayk'upakuq, wayk'uq, wayq'oq, yanuq@
+@chest@|@q'asq'o, qhasqu@
+@chew (to)@|@k'utuy@
+@chew (to) off smthing@|@khachuy@
+@chewing gum@|@chikli@
+@chicha bar@|@ahawasi@
+@chick@|@malqu@
+@chicken@|@wallpa, wallpa aycha@
+@chickenpox@|@saranpiyun@
+@child@|@qhari irqi@
+@child (boy)@|@warmi irqi@
+@child (for woman)@|@wawa@
+@child (girl)@|@warmi irqi@
+@chilly@|@chiri@
+@chin@|@k'aki@
+@chisel (to)@|@k'utuy@
+@chocolate@|@chukulati, misk'i@
+@choose (to)@|@akllay@
+@christen (to)@|@uliyay, unuchay, wawtisay@
+@Christian@|@kristiyanu@
+@church@|@inlisa, inlisha@
+@cigar@|@hatun ch'umpi siyaru@
+@cigarette@|@sigaru, siyaru@
+@cinema@|@sini@
+@cinnamon@|@kanila@
+@city@|@llaqta@
+@clay@|@llank'i, llink'i@
+@clay house@|@t'uro wasi@
+@clay stove@|@tullpa@
+@clean@|@ch'uya, luylu, pichasqa@
+@clean (to)@|@pichay@
+@clear@|@sut'i@
+@cliff@|@qaqa@
+@climb (to)@|@siqay, wichay@
+@clock@|@riluh@
+@close@|@sispa@
+@close (to)@|@wichq'ay, wisq'ay@
+@close the door@|@punkuta wisq'ay@
+@clothes@|@p'acha@
+@cloud@|@phuyu@
+@cloud over (to)@|@phuyuy@
+@coast@|@kusta@
+@coat@|@saku@
+@coca@|@kuka@
+@coca leaf tea@|@kuka mati@
+@cock@|@kanka, wallpa@
+@cockroach@|@kukaracha@
+@coffee@|@kaphiy@
+@cold@|@chiri@
+@cold (med)@|@chiri unquy@
+@collect (to)@|@pallay, uqariy@
+@colour@|@kulur, llimpi, tullpi@
+@colour (to)@|@llusiy@
+@comb@|@ñaqch'a@
+@come (to)@|@hamuy@
+@come in (to)@|@yaykuy@
+@come near (to)@|@serkay@
+@comedian@|@asichikuq@
+@comfort (to)@|@kallpachariy@
+@communicate (to)@|@willay@
+@community@|@ayllu, kumunirar, llaqta@
+@community leader@|@hamawt'a@
+@companion@|@masi@
+@compensation@|@kutichipuy@
+@computeur@|@kumputarura@
+@comrade@|@kumpari@
+@condor@|@kundur, kuntur@
+@confess (to)@|@willakuy@
+@Congratulations!@|@Kusikuspa kawsakunkichis!@
+@constantly@|@pasaq kutilla@
+@constipation@|@aka k'iski@
+@consume (to)@|@rawray@
+@cook (to)@|@chayachiy, wayk'uy@
+@cook (to) (ember)@|@kusay@
+@cooked@|@chayasqa@
+@cooked dry corn@|@sara mut'e@
+@cooking@|@wayk'uy@
+@copy (to)@|@qatichikuy@
+@coriander@|@kulantru@
+@corn@|@sara@
+@corn tea@|@api@
+@corner@|@k'uchu@
+@corner (inside)@|@huk'i@
+@corpse@|@aya@
+@correct@|@chanin@
+@correct (to)@|@wanay@
+@corrida@|@turus@
+@cost (to)@|@kwistay@
+@cotton@|@utkhu@
+@cough@|@ch'uhu, uhu@
+@cough (to)@|@uhuy@
+@counsel (to)@|@yuyaychay@
+@count (to)@|@yupay@
+@country@|@llaqta, suyu@
+@countryside@|@pampa@
+@courtyard@|@kancha@
+@cow@|@waca, waka@
+@craftsperson@|@artisanu@
+@crazy@|@qayqa, waq'a@
+@crop@|@kuhichu@
+@cross@|@kurus, phiñasqa@
+@cross over (to)@|@chimpay@
+@crowd@|@ch'unku, tanta@
+@crowded@|@askha runakuna@
+@crush (to)@|@chhanqay@
+@cry (to)@|@waqay@
+@crystal@|@qispi@
+@cup@|@chuyk'ucha, puku, suyk'u@
+@cup (ceremonial of the Incas)@|@qiru@
+@cure (to)@|@hampiy@
+@custom@|@kawsay@
+@cut (maize)@|@kallchay@
+@cut (to)@|@k'utuy, kuchuy, qhuruy, rutuy@
+@cut (to) (with knife)@|@k'uchuy@
+@cut in slices (to)@|@khallay@
+@Cuzco@|@Qusqu@
+@dad@|@papa@
+@daily@|@sapa p'unchay@
+@damp@|@huq'u@
+@dance@|@tusuy@
+@dance (to)@|@tusuy@
+@dancer@|@tusuq@
+@danger@|@manchay@
+@dark@|@tuta@
+@date@|@pacha@
+@date of birth@|@wata hunt'ay@
+@daughter@|@wawa@
+@daughter (of a man)@|@ususi, warmi churi@
+@daughter (of a woman)@|@warmi wawa@
+@dawn@|@illariy, inti siqay, lluqsiy, rankhi@
+@day@|@p'unchaw, p'unchay@
+@day after tomorrow@|@mincha, minchha@
+@day before yesterday@|@qaynimpa p'unchay@
+@dead (animal)@|@wañusqa@
+@dead (human)@|@wañuq@
+@deaf@|@hup'a, ruq'tu, upa@
+@debt@|@manu@
+@December@|@disimri killa@
+@decide (to)@|@kamarikuy@
+@deep@|@ukhu@
+@deep valley@|@wayq'u@
+@delay@|@unay@
+@delay (to)@|@unay@
+@delicious@|@misk'i@
+@demon@|@saqra, supay@
+@dentist@|@kiru sik'iq@
+@deny (to)@|@manan niy@
+@depart (to)@|@lluqsiy@
+@departure@|@lluqsiy@
+@deploy (to)@|@mast'ay@
+@depressed@|@pisichasqa@
+@descendant@|@qatiq, qhipa wiñay@
+@desert@|@aqu pampa@
+@desire (to)@|@munay@
+@detour (to)@|@waqllichiy, waqlliy@
+@devil@|@saqra, supay@
+@dew@|@chhulla@
+@diaper@|@akawara, walt'ana@
+@diarrhoea@|@q'icha unquy@
+@die (to)@|@wañuy@
+@different@|@huk, huk lasi, hukñiraq, huqniraq, sapaq, wak@
+@difficult@|@sasa@
+@dinner@|@sina, tuta mikhuy@
+@dipper@|@wislla@
+@direct (to)@|@yachachiy@
+@dirty@|@kharka, qanra, qhilli@
+@disappear (to)@|@chinkay@
+@dish@|@hanq'ara, p'uku@
+@distaff@|@puchka, pushka@
+@distraught@|@llaki@
+@disturb (to)@|@takuriy@
+@divorced@|@t'aqanakusqa, t'aqasqa@
+@divulge (to@|@willay@
+@dizziness@|@uma muyuy@
+@dizzy@|@uma muyusqa, uma muyuy@
+@do (to)@|@ruway@
+@doctor@|@duktur@
+@dog@|@allqu, alqu@
+@dominant@|@atipaq@
+@done (of food)@|@chayasqa@
+@done (task)@|@ruwasqa@
+@donkey@|@asnu@
+@door@|@punku@
+@dormitory@|@puñuna wasi@
+@dove@|@urpi@
+@downhill@|@uray@
+@draw (to)@|@dibujay, siq'inchay@
+@drawing@|@dibujo@
+@dream@|@musqhuy@
+@dream (to)@|@musqhuy, musqhuy@
+@dress@|@p'acha@
+@dress (to)@|@p'achallichiy, p'achallikuy@
+@dried meat@|@ch'arki@
+@drink@|@uhay, ukyay@
+@drink (to)@|@soq'oiy, ujyay, upiay@
+@drink (to) (alcohol)@|@tumay@
+@drink (to) (without alcohol)@|@uhay, ukyay, upyay@
+@drink (to) with smone@|@malliyachiy@
+@drink alcohol (to)@|@suq'uy@
+@driver@|@chufir@
+@drizzle@|@iphu@
+@drug@|@hampi@
+@drugstore@|@hampiyuq wasi@
+@drunk@|@machaq, machasqa@
+@dry@|@ch'aki@
+@dry (to)@|@ch'akiy@
+@dry season@|@ch'aki mit'a@
+@duck@|@patu aycha@
+@dummy@|@ñuñuna@
+@dung beetle@|@aka tanqa@
+@durable@|@qaqa@
+@during@|@-pi@
+@each@|@sapa, sapanka@
+@eagle@|@anka@
+@ear@|@ninri, rinri@
+@ear wax@|@rinri wira@
+@early@|@tutallamanta@
+@early in the afternoon@|@timpuraq@
+@early in the morning@|@tutallamanta@
+@earn (money)@|@tariy@
+@earth@|@hallp'a@
+@Earth@|@kay pacha, tiqsimuyu@
+@earth (soil)@|@allpa, chakra@
+@earthquake@|@pacha kukuy@
+@earthworm@|@kuru@
+@East@|@inti lluqsimuy, intiq lliqsinan@
+@easy@|@phasil@
+@eat (to)@|@mihuy, mikhuy, mikuy@
+@eat (to) grilled corn@|@sara jank'ata mikuy@
+@educate (to)@|@yachachiy@
+@education@|@yachay@
+@egg@|@runtu, ruru@
+@eight@|@pusac, pusaq@
+@eighteen@|@chunka pusaqniyuq@
+@eighty@|@pusaq chunka@
+@elbow@|@k'ukuchu, kuchus, quchus, ququchi@
+@elder@|@kuraq@
+@elect (to)@|@akllay@
+@electric light@|@lus@
+@eleven@|@chunka huqniyuq@
+@embarrass (to)@|@p'inqakuy@
+@embarrassed@|@p'inqasqa@
+@embroider (to)@|@wilq'uy@
+@embroidery@|@wilq'uy@
+@eminence@|@muqu@
+@empty@|@ch'usaq@
+@end@|@tukuy@
+@engineer@|@inhiñiru@
+@England@|@Inlatira@
+@english@|@inlis@
+@enjoy oneself (to)@|@usachikuy@
+@enough@|@chayllaña@
+@enter (to)@|@haykuy, pasayuy, yaykuy@
+@entertain (to)@|@q'uturichiy@
+@escape (to)@|@ayqiy@
+@establish (to)@|@paqarichiy@
+@eucalyptus@|@yukaliptu@
+@Europe@|@Yurupa@
+@Evangelist@|@iwanhilista@
+@evening@|@ch'isi, tuta@
+@every@|@llapa, lliw, sapa, sapanka, tukuy@
+@everybody@|@lliwninku@
+@everyone@|@llapan, llapanku, lliwninku@
+@everything@|@llapa, lliw, tukuy@
+@everywhere@|@hinastin, maypipas@
+@exact@|@hunt'asqa, k'apak@
+@exactly@|@hunt'asqa, k'apak@
+@exchange (to)@|@chhalay, rantiy, trukiy@
+@excrement@|@aka@
+@excuse me@|@dispinsayuway@
+@exhibit (to)@|@rikurichiy@
+@exist (to)@|@kay@
+@exit (to)@|@ayqiy, lluqsiy@
+@expect (to)@|@suyay@
+@explain (to)@|@rimaykuy, yachachiy@
+@explode (to)@|@t'uqyay@
+@eye@|@ñawi@
+@eyebrow@|@qheñipa@
+@eyelash@|@pillurki@
+@fabric@|@awa, llika@
+@face@|@uya@
+@face's expression@|@riqchay@
+@fair price@|@chanin@
+@falcon@|@waman@
+@fall (to)@|@urmay@
+@fall (to) (mightily)@|@laq'ay@
+@fall in love (to) (intense)@|@wayllunakuy@
+@family@|@ayllu, phamilla@
+@famous@|@riqsisqa@
+@far@|@karu@
+@farm@|@chakra@
+@farmer@|@chakra runa@
+@farmyard@|@kancha@
+@fast@|@askamalla, usqhay@
+@fast (movement)@|@phawaylla@
+@fast (time)@|@ratulla@
+@fat@|@wira@
+@father@|@papa, tayta@
+@father-in-law@|@suyru@
+@fatigue@|@sayk'uy@
+@fatty@|@wirasapa@
+@fault@|@hucha@
+@fava beans@|@hawas@
+@fear@|@manchakuy@
+@feather@|@phuru@
+@feather duster@|@p'uro pichana@
+@February@|@phiwriru killa@
+@feed (to)@|@qaray@
+@feel (to)@|@llakllay@
+@feel (to) (touch)@|@llamiy@
+@feel hot (to)@|@ruphariy@
+@femal@|@china@
+@fence@|@perk'a, qincha@
+@fertilizer (bird's dung)@|@wanu@
+@festival@|@raymi@
+@fetch (to)@|@pusamuy@
+@fever@|@rawray unquy, rupha, ruphay unquy@
+@few@|@pisi@
+@fiancé@|@kasarakuqmasi, yana@
+@fiancé (ée)@|@urpi@
+@fiancée@|@kasarakuqmasi@
+@field (cultivated)@|@chakra@
+@fifteen@|@chunka pisqayuq@
+@fifty@|@pisqa chunka@
+@fight@|@awqanakuy, mahanakuy@
+@fight (to)@|@awqanakuy, mahanakuy@
+@fill (to)@|@hunt'ay@
+@find (to) (smthing)@|@tarikuy, tariy@
+@find somewhere to live (to)@|@alohakuy@
+@finger@|@riru, ruk'a, ruk'ana@
+@fingers@|@pallqa@
+@finish (to)@|@p'uchukay, tukuy@
+@fire@|@nina@
+@fireplace@|@q'uncha@
+@firewood@|@llant'a@
+@first@|@ñawpaq, ñawpaq kaq, ñiqin@
+@first-aid kit@|@hampi churana@
+@fish@|@challwa@
+@fish for (to)@|@challway@
+@fisherman@|@challwa hap'iq@
+@fishing@|@challway@
+@fit@|@qhali@
+@five@|@pichqa, pishqa, pisqa@
+@flamingo@|@pariwana@
+@flash@|@rayu@
+@flashligh@|@k'anchana@
+@flashlight@|@lintirna@
+@flat (adj.)@|@p'alta@
+@flat place@|@pampa@
+@flea@|@piki@
+@floor@|@pampa@
+@flour@|@hak'u@
+@flower@|@t'ika, wayta@
+@fly@|@ch'uspi@
+@fly (to)@|@phaway@
+@fog@|@pacha phuyuy@
+@follow (to)@|@qatiy@
+@following@|@qatiq@
+@food@|@mihuy, mikhuna, mikuna@
+@foodstuff@|@kawsay@
+@foot@|@chaki@
+@for@|@-paq@
+@forehead@|@mat'i@
+@foreigner@|@hawa runa, karu llaqta runa@
+@forest@|@mallki mallki, munti, yunka@
+@forever@|@wiñaypacha@
+@forget (to)@|@qunqay@
+@forgive (to)@|@pampachay@
+@fork@|@tinirur@
+@fort@|@pukara@
+@fortress@|@pukara@
+@fortune teller@|@watuq@
+@four@|@tawa@
+@fourteen@|@chunka tawayuq@
+@fourty@|@tawa chunka@
+@fox@|@atuq@
+@free (at liberty)@|@qispi@
+@free (no cost)@|@yanqallan@
+@freeze@|@q'asa, qasa@
+@freeze (to)@|@qasay@
+@Friday@|@wirnis@
+@friend@|@amigu, khumpa, riqsinakuqmasi@
+@friend (female of a female)@|@ñaña@
+@friend (female to male)@|@pana@
+@friend (man for a woman)@|@tura@
+@friend (of a man)@|@wawqi, wayqi@
+@frog@|@hamp'atu@
+@from@|@-manta@
+@from where@|@maymantan@
+@frost@|@qasa, qhupa@
+@frozen (solid)@|@khutu@
+@fruit (on the tree)@|@ruru@
+@fruit (to eat)@|@fruta@
+@full@|@hunt'asqa@
+@full (after a meal)@|@saksasqa@
+@full (complete)@|@hunt'a@
+@futile@|@yanqa@
+@future@|@hamuq pacha, hawa pacha@
+@game@|@pukllay@
+@game)@|@pukllay@
+@gap@|@k'ikllu@
+@garbage@|@q'upa@
+@garden (flower)@|@pawqar@
+@garden (fruit)@|@muya@
+@garlic@|@ahus@
+@gate@|@hatun punku, haykuna@
+@gather (to)@|@huñuy, pallay, tantay@
+@gathered together@|@tanta@
+@genuine@|@chiqaq@
+@get (to) a service from smeone@|@walikuy@
+@get dark (to)@|@ch'isiy, tutayay@
+@get drunk (to)@|@machay@
+@get into (to) (car@|@qispiy@
+@get lost (to)@|@chinkay@
+@get sick (to)@|@unquy@
+@get to know (to)@|@riqsiy@
+@get up (to)@|@hatariy@
+@gift@|@rikuchikuy@
+@girl@|@p'asña, sipas, sipascha@
+@girlfriend@|@yana, yanasa@
+@give (to)@|@quy, quy@
+@give a rebate (to)@|@bahay@
+@give birth to (to) (animals)@|@wachay@
+@give birth to (to) (humans)@|@wachakuy@
+@give life (to)@|@paqarichiy@
+@give me smthing to drink@|@soq'oita q'owai, ujyayta q'owai@
+@give me smthing to eat@|@mikunata q'oiwai@
+@glacier@|@rit'i@
+@glass@|@q'ero, qispi@
+@glitter (to)@|@illariy@
+@gloves@|@wantis@
+@go (to)@|@riy@
+@go away (to)@|@lluqsiy, ripuy@
+@go down (to)@|@pasaykuy, uray, uraykuy@
+@Go!@|@Haku!@
+@Goal!@|@Gool!@
+@goat@|@kabra, kawra@
+@goat (meat)@|@kabra aycha@
+@God@|@Diyus, Taytacha, yaya@
+@godchild@|@aysharu@
+@goddaughter@|@ayhara@
+@godfather@|@parinu@
+@godmother@|@marina@
+@godparent@|@marq'aqi@
+@godson@|@ayharu@
+@gold@|@quri@
+@good@|@allin, sumaq@
+@good afternoon@|@wuynas tardis@
+@good day (noon)@|@allin p'unchaw, allin p'unchay@
+@good evening@|@allin tuta@
+@good evening/night@|@wuynas nuchis@
+@Good luck!@|@Allin samiyuq kay!@
+@good morning@|@wuynus diyas@
+@good night@|@allin tuta@
+@goodbye@|@huq kutikama, tinkunanchiskama, tupananchiskama@
+@goose@|@wachwa@
+@gorge@|@wayq'o@
+@gossip@|@kumari@
+@grandchild@|@haway@
+@grandfather@|@apucha, awilu, hatun tayta, machula@
+@grandmother@|@awila, hatun mama@
+@grass@|@q'achu, qura@
+@grateful@|@sunqunchakusqa@
+@grave@|@aya sankha@
+@grease@|@wira@
+@greasy@|@wirasapa@
+@great@|@ima sumaq, kusa kusa@
+@great (size)@|@hatun@
+@green@|@q'omer, q'umir@
+@grey@|@ch'iqchi, q'osñi, titi, uqi@
+@group@|@ch'unku, tanta@
+@grow (to)@|@wiñay@
+@grow up (to)@|@wiñay@
+@growl (to)@|@anyay@
+@guanaco@|@wanaku@
+@guess (to)@|@watuy@
+@guest@|@qurpa@
+@guide@|@pusaq@
+@guide (person)@|@ñanta riqsichiq@
+@guide (to)@|@pusay@
+@guided trek@|@pusaqwan puriy@
+@guilty@|@huchayuq@
+@guinea pig@|@qowi, quwi@
+@hacienda@|@asinda@
+@hail@|@chikchi@
+@hair@|@chukcha@
+@hair (body or animal)@|@suphu@
+@hammer@|@takana@
+@hammock@|@amaka@
+@hand@|@maki@
+@handbag@|@ch'uspa, wayaqa@
+@handicraft@|@artisaniya@
+@handmade@|@makiwan ruwasqa@
+@handsome@|@sumaq@
+@hand-woven@|@makiwan awasqa@
+@hang (to)@|@warkuy@
+@happy@|@kusi, kusisqa@
+@hard@|@sasa@
+@hard-boiled egg@|@runtu phasi@
+@harp@|@harpa@
+@harvest@|@kuhichu@
+@harvest (to)@|@allay@
+@hat@|@sumbriru, sumriru@
+@have (to)@|@kay@
+@have a bath (to)@|@bañakuy@
+@have diarrhoea (to)@|@q'ichay@
+@have fun (to)@|@kusikuy@
+@have lunch (to)@|@almusay, mikhuy@
+@hawk@|@waman@
+@he@|@pay@
+@head@|@uma@
+@headache@|@uma nanay@
+@heal (to)@|@hampiy@
+@healer@|@hampiq, paqu@
+@health@|@qhali kay@
+@healthy@|@qhali@
+@hear (to)@|@uyariy@
+@heart@|@sonqo, sunqu@
+@heat@|@ruphay@
+@heat (to)@|@q'uñiy, ruphay@
+@heaven@|@hanaqpacha@
+@heavy@|@llasa, llasaq@
+@hello@|@napaykullayki, rimaykullayki@
+@help (to)@|@yanapay@
+@Help me!@|@Yanapaway!@
+@Help!@|@Yanapaway!@
+@hen@|@wallpa@
+@her@|@pay@
+@herb@|@pastu, qura@
+@herb (kind of mint)@|@qora@
+@herbal tea@|@qura unu@
+@herbalist@|@qurawan qampiq@
+@here@|@kaypi@
+@Hey!@|@Yow!@
+@hi@|@napaykullayki, rimaykullayki@
+@hidden@|@chinkasqa@
+@high@|@hatun, suni, suyt'u@
+@high plateau@|@puna@
+@hike (to)@|@puriy@
+@hiking@|@puriy@
+@hill@|@muqu, urqucha@
+@him@|@pay@
+@Hindu@|@indu@
+@hip@|@siki pata, teqni@
+@hire (to)@|@allkilay@
+@hit (to)@|@daliy, waqtay@
+@hoarse@|@ch'aka, raqra kunka@
+@hold (to)@|@hap'iy@
+@hole@|@hutk'u, p'ukru, t'uqu@
+@holiday@|@hatun phista, raymi, samay p'unchau@
+@holidays@|@hatun phista@
+@home@|@wasi ayllu@
+@honest@|@sumaq kawsayniyuq@
+@honey@|@añaka, lachiwa, misk'i@
+@honeycomb@|@lachiwana@
+@hope@|@suyay@
+@hope (to)@|@suyay@
+@horn@|@asta, waqra@
+@horrible (appearance)@|@millay millay@
+@horse@|@kawallu@
+@hospital@|@hampina wasi@
+@hot@|@q'uñi, rupha@
+@hot pepper@|@ruquta@
+@hotel@|@qurpa wasi, samana wasi@
+@hour@|@uras@
+@house@|@wasi@
+@house in the forest@|@yunka wasi@
+@house of stone@|@rumi wasi@
+@house's owner@|@wasiyoq@
+@how@|@imayna@
+@How many?@|@Hayk'a?@
+@how much@|@hayk'a, hayk'an@
+@How much?@|@Hayk'a?@
+@How?@|@Imayna?@
+@hug (to)@|@mak'alliy@
+@hug (to) each other@|@mak'allinakuy@
+@humankind@|@runa@
+@hummingbird@|@q'inti, sirwarqenti@
+@hundred@|@pachak@
+@hunger@|@rarqay, yarqay@
+@hunt (to)@|@chakuy, hap'iy, kasay@
+@hunting@|@chakuy, hap'iy@
+@Hurrah!@|@Waqe!@
+@hurt (to)@|@nanay@
+@husband@|@qusa@
+@hut@|@ch'uklla@
+@i@|@nuqa, ñuqa@
+@i don't want pepper@|@uchuta mana munanichu@
+@i want to write@|@q'elq'ayta munani@
+@i would bread@|@t'antata munani@
+@i would like "chicha"@|@munani aqata@
+@ice@|@chhullunku, qasa@
+@idiot@|@sunsu@
+@if@|@sichus@
+@ill@|@unqusqa@
+@illuminate (to)@|@chipchiy, k'anchay@
+@imitate (to)@|@qatichikuy@
+@immediately@|@kanallan, kunallan, usqhayta@
+@important@|@chaniyuq@
+@impressive@|@kusa kusa@
+@in@|@-pi@
+@in a hurry@|@apurasqa@
+@in front of@|@ñawpaqpi@
+@in good health@|@qhali@
+@in the middle@|@chawpinpi@
+@inca@|@inka@
+@Inca trail@|@Inka purisqan ñan@
+@Inca's empire@|@Tawantinsuyu@
+@Inca's house@|@Inka wasi@
+@indebted@|@manu@
+@India@|@Indya@
+@indian's language@|@runasimi@
+@influential@|@qhapaq@
+@influenza@|@chhulli, hach'i@
+@inform (to)@|@willay@
+@inhale (to)@|@suq'uy@
+@inject (to)@|@churay@
+@injury@|@k'iri@
+@innocent@|@llumpaq@
+@inside@|@ukhu + marque de cas, ukhupi@
+@insomnia@|@mana puñuy atipay@
+@inspired@|@kallpachakusqa@
+@instructor@|@yachachiq@
+@intelligent@|@yachayniyuq, yuyaysapa@
+@interesting@|@sinchi allin@
+@internet service@|@intirnit@
+@introduce (to) (person)@|@riqsichiy@
+@Ireland@|@Irlanda@
+@irrigate (to)@|@qarpay@
+@island@|@wat'a@
+@itch@|@hasp'ikuy@
+@itch (sensation)@|@siqsiy@
+@it's urgent!@|@prisisaqpaqmi!@
+@It's urgent!@|@Usqhaypaqmi!@
+@it's very salted@|@ñisu kachisapa@
+@jacket (man)@|@saku@
+@jacket (woman)@|@kutuna@
+@January@|@iniru killa@
+@Japan@|@Hapun@
+@jar@|@k'awchi, mak'as, urpu@
+@jaw@|@k'aki@
+@jeans@|@pantaluns@
+@jerky@|@ch'arki@
+@jewellery@|@illa, umiña@
+@jewish@|@hudiyu@
+@job@|@llank'ana, ruwana@
+@join (to)@|@hukllakuy, kuskachakuy@
+@joke@|@chansa@
+@joke (to)@|@chansakuy@
+@joker (comedian)@|@asichikuq@
+@journalist@|@piryudista@
+@journey@|@karu puriy@
+@juice@|@hilli@
+@July@|@huliyu killa@
+@jump (to)@|@p'itay@
+@jumper@|@chumpa@
+@June@|@huniyu killa@
+@jungle@|@yunka@
+@keep (to)@|@uyway, waqaychay@
+@keep (to) smthing for smone@|@churapuy@
+@key@|@llawi, p'uti@
+@kick (to)@|@hayt'ay@
+@kid (animal)@|@uña@
+@kidney@|@rurun, wasa rurun@
+@kill (to)@|@sipiy, wañuchiy@
+@kilo@|@kilu@
+@kind@|@lasi@
+@kind (nice)@|@khuyakuq, munakuq@
+@kind (type)@|@rikch'aq@
+@kind of potato@|@ulluku@
+@kiss (to)@|@much'ay@
+@kitchen@|@kusina@
+@knapsack@|@q'ipi@
+@knee@|@muqu@
+@knife@|@kuchillu, kuchuna@
+@knock (to)@|@maqay@
+@knock (to) (door)@|@takay@
+@know (to)@|@riqsiy, yachay@
+@labourer@|@llank'aq@
+@ladle@|@wislla@
+@lady (not Indian)@|@siñura@
+@lake@|@qocha, qucha@
+@lama@|@llama@
+@lamb (meat)@|@uwiha aycha@
+@land@|@allpa@
+@language@|@rimay, simi@
+@large@|@hatun, sinchi hatun@
+@large basket@|@t'anta churana@
+@larynx@|@tonqor@
+@last@|@qayna, qhipa@
+@last month@|@qayna killa@
+@last night@|@qayna tuta@
+@last week@|@qayna simana@
+@last year@|@qayna wata@
+@late@|@tayri@
+@laugh (to)@|@asirikuy, asiy@
+@lawyer@|@awugara, yuyay quq@
+@lazy@|@qilla@
+@lead (to)@|@pusay@
+@leader@|@kamachiq@
+@leaf@|@rap'a, raphi@
+@learn (to)@|@yachay@
+@learn well (to)@|@sumaqta yachachiy@
+@leather@|@qara@
+@leave (to)@|@ayqiy, lluqsiy, ripuy@
+@leave smthing (to)@|@saqiy@
+@leech@|@yawar ch'unqaq@
+@left@|@lluq'i@
+@left-handed@|@lluq'inchu@
+@leg@|@chaka, chakan@
+@lemonade@|@limunara@
+@lend (to)@|@mañay, manuy@
+@lend a hand (to)@|@ayniy@
+@let go (to)@|@kachariy@
+@let's go sleeping@|@puñuna wasiman jaykuy@
+@letter@|@karta, qilqa@
+@lettuce@|@lichuga@
+@liar@|@llulla@
+@lie (to)@|@llullakuy@
+@lie down (to)@|@sirikuy, siriy@
+@life@|@bida@
+@lift (to)@|@uqariy@
+@lift up (to)@|@uqariy@
+@light@|@k'anchay@
+@light (in weight)@|@chhalla@
+@light (to)@|@k'anchachiy@
+@light (to) (fire)@|@hap'ichiy@
+@lighter@|@k'anchachina, nina ratachina@
+@lightning@|@illapa, lliphlli, rayu@
+@liitle piece@|@ñut'u@
+@like (to)@|@munay@
+@like that@|@chhayna, khayna@
+@like this@|@khayna@
+@like this one there@|@haqayna@
+@like this/that@|@hina@
+@Lima@|@Lima@
+@limit@|@tukuy@
+@limon tree@|@limun sach'a@
+@lip@|@qita, simi, wirp'a@
+@liquor@|@trawu, waqtu@
+@listen (to)@|@uyariy@
+@little@|@pisi@
+@little bowl@|@mati@
+@little house@|@wasicha@
+@live (to)@|@kawsay, qurpachakuy, qurpachay@
+@live in (to)@|@tiyay@
+@liver@|@k'ipchan, kukupin@
+@lizard@|@qaraywa, sukulluku@
+@llama@|@llama@
+@location@|@laru@
+@lock@|@p'uti, wisq'ana@
+@lock (to)@|@kandaruwan wisq'ay@
+@lock up (to)@|@llawiy@
+@lodge@|@qorpachana wasi, samana wasi@
+@long@|@wask'a@
+@long (lenght)@|@suni, suyt'u@
+@long time@|@unay@
+@look (to)@|@qhawariy@
+@look after (to)@|@qhawariy@
+@look for (to)@|@maskhay@
+@look like (to)@|@rikch'akuy@
+@lookalike@|@rikch'akuq@
+@lookout@|@qhawana@
+@loose@|@waya@
+@loose (to)@|@chinkachiy@
+@lost@|@chinkasqa@
+@louse (plu:lice)@|@usa@
+@love@|@khuyay, munay, waylluy@
+@love (to fall in)@|@munanakuy@
+@love (to)@|@munakuy, munay, wayllukuy, waylluy@
+@love (to) (affection)@|@khuyay@
+@lover@|@munaq, waylluq@
+@low@|@ura@
+@luck@|@sami, suwirti@
+@lucky@|@samiyuq@
+@luggage@|@malita@
+@lunch@|@almusay, almusu, mikhuy@
+@lunch (to)@|@mihuy@
+@lung@|@sork'an, surq'an@
+@lupine@|@tarwi@
+@Lutheran@|@lutiranu@
+@madam@|@mama@
+@made of@|@-manta@
+@made of stone@|@rumi-manta@
+@main road@|@hatun ñan@
+@main square@|@plasa@
+@maize@|@chuqllu, mut'i, sara@
+@maize (toasted)@|@hamk'a, hank'a@
+@maize beer@|@aha, aqa, aqha@
+@make (to)@|@ruway@
+@make a mistake (to)@|@pantay@
+@make fun of (to)@|@pukllapayay, turiyay@
+@malaria@|@chukchu unquy@
+@man@|@qhari@
+@many@|@askha, askha@
+@map@|@mapa@
+@March@|@marsu killa@
+@market@|@qhatu, qhatuy@
+@marriage@|@kasarakuy@
+@married (man)@|@warmiyuq@
+@married (woman)@|@qusayuq@
+@marry (to)@|@kasarakuy, kasaray, yananchakuy@
+@marry (to) (for a man)@|@warmichakuy@
+@marvellous@|@ancha sumaq, kusa kusa@
+@mass@|@misa@
+@match (sport)@|@pukllay@
+@match (to light fire)@|@phuspuru@
+@matter (to) (be important)@|@chaniyuq kay@
+@mattress@|@puñuna@
+@mature@|@poqusqa@
+@May@|@mayu killa@
+@mayor@|@alkaldi@
+@me@|@nuqa, ñuqa@
+@me too@|@ñuqapas, nuqapis@
+@meat@|@aycha@
+@mechanic@|@mikaniku@
+@médecine@|@hampi@
+@medium@|@taksa@
+@medium size@|@tinku@
+@medlar@|@wiswiru@
+@meet (to)@|@tinkuy, tupay@
+@meet up with (to)@|@tinkuy, tupay@
+@member (club)@|@masi@
+@mental confusion@|@yuyay pantay@
+@menu@|@minu@
+@message@|@qilqa, willachikuy@
+@metal@|@anta, titi@
+@Methodist@|@mitudista@
+@midday@|@chawpi p'unchay@
+@middle@|@chawpi@
+@midnight@|@chawpi tuta@
+@migraine@|@nishu uma nanay@
+@milk@|@lichi@
+@million@|@hunu@
+@mineral water@|@wutillapi unu@
+@mirror@|@lirpu@
+@miss (to) (person)@|@watukuy@
+@mist@|@pacha phuyuy@
+@mistaken@|@panta@
+@Mister (Indian)@|@tayta@
+@mister (not indian)@|@wiraqucha@
+@mix (to)@|@hukllay, taqruy@
+@moment@|@ratu@
+@monastery@|@aklla wasi, munastiriyu@
+@Monday@|@lunis@
+@money@|@qullqi, qulqi@
+@monkey@|@kusillu@
+@month@|@killa@
+@moon@|@killa@
+@more@|@aswan@
+@more or less@|@yaqa@
+@Mormon@|@murmun@
+@morning@|@paqarin, tutamanta@
+@morning (this)@|@tutamantan@
+@mosquito@|@qhete ch'uspi, qhiti@
+@mosquito net@|@muskitiru@
+@mother@|@mama@
+@Mother of the earth@|@Pachamama@
+@mother-in-law@|@suyra@
+@mountain@|@orq'o, urqu@
+@mountain lion@|@puma@
+@mountain's spirit@|@Apu@
+@mouse@|@huk'ucha@
+@moustache@|@sunkha@
+@moutain climbing@|@urqu wichay@
+@moutain path@|@urqupi ñan@
+@mouth@|@simi@
+@move (to)@|@achhu, astay, kuyuriy, kuyuy@
+@move down (to)@|@pasaykuy, uray, uraykuy@
+@Mrs@|@mama@
+@much@|@achkha, ancha, ashkha, chika chika, nishu@
+@mud@|@t'uru@
+@mule@|@mula@
+@multiply (to)@|@miray@
+@museum@|@musiyu@
+@music@|@musika@
+@music shop@|@musika tinda@
+@musician@|@musiku@
+@muslim@|@musulman@
+@mute@|@upa@
+@my house@|@wasiy@
+@nail@|@sillu@
+@name@|@suti@
+@name (to)@|@sutichay@
+@nape of the neck@|@much'u@
+@nappy@|@akawara, walt'ana@
+@narrow@|@k'ikllu@
+@nation@|@llaqta@
+@nature@|@kawsay pacha@
+@nausea@|@millanayay@
+@navel@|@pupu@
+@near@|@qaylla, sispa@
+@neck@|@kunka@
+@necklace@|@walqa@
+@need (to)@|@munay@
+@needle (large)@|@yawri@
+@needle (sewing)@|@awuha@
+@needless@|@yanqa@
+@neighbour@|@wasi-masi@
+@neither@|@ni@
+@nettle@|@k'ura, kisa@
+@never@|@mana hayk'aqpas@
+@Never mind!@|@Mana imananpaschu!@
+@new@|@musuq@
+@New Zealand@|@Nuywa Silandya@
+@news@|@willa, willaykuna@
+@next@|@qatiq@
+@next (following)@|@hamuq@
+@next month@|@hawa killa, q'aya killa@
+@next to@|@waqtanpi@
+@next week@|@hawa simana, q'aya simana@
+@next year@|@hama wata, q'aya wata@
+@nibble at (to)@|@k'utuy@
+@nice@|@kusa, sumaq@
+@niche@|@t'uqu, usnu@
+@nickname@|@khuyay suti@
+@night@|@ch'isi, tuta@
+@nine@|@isqun@
+@nineteen@|@chunka isqunniyuq@
+@ninety@|@isqun chunka@
+@nipple@|@ñuñu@
+@no@|@mana@
+@node@|@khipu@
+@noise@|@ruqya@
+@noisy@|@ruqya@
+@non indigenous person@|@misti@
+@none@|@mana ch'ullallapas, mana mayqin@
+@noon@|@chawpi p'unchay@
+@nor@|@ni@
+@North@|@wichay@
+@nose@|@senga, senq'a, sinqa@
+@not@|@ama, mana@
+@not yet@|@manaraq@
+@nothing@|@manan imapas@
+@November@|@nuwimbri killa@
+@now@|@kanan, kunan@
+@nurse@|@unquq, yanapaq@
+@ocean@|@quchamama@
+@October@|@uktuwri killa@
+@oesophagus@|@melqoy@
+@of@|@-pa, -q@
+@of course@|@riki@
+@offer (to)@|@chaskichiy, kumbiday, regalay@
+@offer (to) (cigarette/drink)@|@imbitay@
+@offering@|@haywarikuy@
+@office worker@|@ufisinapi llank'aq@
+@often@|@ñataq-ñataq, yapa yapa@
+@oil (cooking)@|@asiti@
+@ok@|@kusa@
+@OK!@|@Allinmi!@
+@old (age)@|@machu@
+@old (worn out)@|@thanta@
+@old woman@|@paya@
+@on@|@-pi, pata, ukunta@
+@one@|@huk, huq@
+@one of them@|@mayqennimpas@
+@onion@|@siwilla@
+@only@|@-lla, sapa@
+@open@|@kichasqa@
+@open (to)@|@kichay@
+@opinion@|@hamut'ay@
+@or@|@ichal utaq, utaq@
+@or else@|@icha@
+@orange (colour)@|@wilapi@
+@orange (fruit)@|@laranha@
+@orange tree@|@laranha sach'a@
+@orchard@|@muya@
+@order (to)@|@kamachiy@
+@organise (to)@|@allichay@
+@original@|@kaq kikin@
+@orphan@|@wakcha@
+@other@|@huk, huq, sapaq, waq@
+@otherwise@|@icha@
+@Ouch!@|@Achakáw!@
+@outside@|@hawa, hawapi@
+@over@|@hawan, pata@
+@over there@|@wakpi@
+@overcoat@|@p'istuna@
+@overflow (to)@|@llimp'ay@
+@owe (to) (money)@|@manu kay@
+@owl@|@huku, tuku@
+@owner@|@duyñu@
+@ox@|@turu@
+@pacifer@|@ñuñuna@
+@package@|@q'ipi@
+@packet@|@pakiti@
+@paddock@|@kancha@
+@page@|@rap'a@
+@painkillers@|@nanay thanichiq@
+@paint (to)@|@llusiy, pintay@
+@painter@|@llunch'iq, llusiq@
+@pair@|@iskaynintin@
+@pan@|@manka@
+@pancreas@|@suyk'upin@
+@pants@|@pantalun@
+@papaya@|@papaya@
+@paper@|@papil, rap'a@
+@papers@|@dukumintuykunatan@
+@parents@|@taytamama@
+@park@|@parki, pukllana pampa@
+@parrot@|@luru, weqru@
+@parsley@|@pirihil@
+@part@|@waki, wakin@
+@partridge@|@lluthu, yuktu, yut'u, yuthu@
+@party@|@phista@
+@pass@|@q'asa@
+@pass (to)@|@thaniy@
+@pass (to) (bridge@|@chimpay@
+@pass (to) (hand to)@|@hayway@
+@pass (to) (on the street)@|@pasay@
+@passenger@|@pasahiru@
+@past@|@ñawpa, ñawpaq, qayna pacha, unay@
+@past moment@|@ñaqa@
+@pasture (to)@|@michiy@
+@path@|@ñan@
+@patient@|@llakhi, unqusqa@
+@pay (to)@|@pagay, quy, quykuy@
+@payment@|@pagu@
+@peace@|@qasi kawsay@
+@peach@|@durasnu@
+@peak@|@urquq puntan@
+@peak (mountain)@|@punta@
+@peas@|@alwirhas@
+@pemanent@|@hina kaqlla@
+@pen@|@lapis, qilqana@
+@Penalty!@|@Pinal!@
+@pencil@|@lapis, qilqana@
+@penis@|@pichiku, pisqu@
+@people@|@runa, runakuna@
+@pepper@|@piminta, uchu@
+@perhaps@|@ichapaschá@
+@permit (to)@|@huñiy, saqillay@
+@person@|@runa@
+@Peru@|@Piruw@
+@pet@|@uywa@
+@peut-être@|@paqta@
+@pharmacy@|@hampiyuq wasi@
+@Phew!@|@Hananáw!@
+@photo@|@phutu@
+@photographer@|@phutu qurquq@
+@physical pain@|@nanay@
+@pick (tool)@|@piku@
+@pick up (to)@|@pallay@
+@pick up (to) (lift)@|@huqariy@
+@piece@|@aqnu@
+@pièce@|@k'ukmu@
+@pig@|@khuchi@
+@pile@|@muntun, qutu, rawkha, tawqa@
+@pill@|@pastilla@
+@pillow@|@sawna@
+@pimento@|@uchu@
+@pine@|@pinu@
+@pink@|@llanqha puka, panti@
+@pisco (acohol grape)@|@pisku@
+@place@|@laru, pacha@
+@place from across@|@chimpa@
+@plain@|@pampa@
+@plane@|@awiyun@
+@plant@|@mallki, qura, yura@
+@plant (to)@|@tarpuy@
+@plant (to) (tree)@|@mallkiy@
+@plant (to) (vegetable)@|@yuray@
+@plant (wild)@|@sach'a@
+@plastic@|@plastiku@
+@plate@|@p'uku@
+@play (to) (music)@|@phukuy, tukay, waqachiy@
+@play (to) (sport@|@pukllay@
+@playing field (sport)@|@pukllana pampa@
+@plaza@|@plasa@
+@please@|@allichu@
+@plenty@|@askha, chhika@
+@plough (to)@|@yapuy@
+@plume@|@phuru@
+@pocket@|@wulsiku@
+@poem@|@harawi@
+@police officer@|@wardiya@
+@police station@|@kumisariya, wardiya@
+@poncho@|@punchu@
+@pond@|@qucha@
+@poor@|@wakcha@
+@poor person@|@wakcha@
+@pork@|@khuchi aycha@
+@possible@|@atinalla@
+@post office@|@kuriyu@
+@pot@|@manka@
+@potato@|@papa@
+@pottery@|@raqch'i@
+@pour (to)@|@hich'ay@
+@poverty@|@wakcha kay@
+@power@|@kallpa@
+@power (ability)@|@atiy@
+@powerful@|@atipaq, qhapaq@
+@pray (to)@|@mañakuy@
+@prefer (to)@|@munay@
+@pregnant@|@unquq@
+@pregnant (animal)@|@chichu@
+@pregnant (woman)@|@wiksayuq@
+@prepare (to)@|@alistakuy, alistay, kamariy@
+@present@|@kanan, kunan, rikuchikuy@
+@present (time)@|@kunan pacha@
+@press (to)@|@ñit'iy@
+@pretty@|@sumaq@
+@prevent (to)@|@hark'ay@
+@priest@|@kura, tayta kura, yaya@
+@probably@|@ichapas@
+@produce (to)@|@puquy, ruruy@
+@professor@|@hamawt'a@
+@propose (to)@|@imbitay@
+@protect (to)@|@amachay, hark'apay@
+@Protestant@|@prutistanti@
+@provisions (food)@|@quqaw@
+@provisions (things)@|@kaqkuna@
+@public toilet@|@hisp'akuna@
+@pull (to)@|@aysay@
+@puma@|@puma@
+@pumpkin@|@sapallu@
+@puna@|@puna@
+@puncture@|@t'uqu@
+@pupil@|@alumnu, ruru@
+@pure@|@llumpaq@
+@pure (water)@|@ch'uya@
+@purple@|@kulli, muraru@
+@purse@|@wayaqa@
+@push (to)@|@chhuqay, tanqay@
+@put (to)@|@churay@
+@put up (to)@|@sayariy@
+@put up with (to)@|@atipay@
+@quarter (a)@|@tawa taq'a@
+@Quechua@|@kichwa(simi), qhishwa(simi), runasimi@
+@Quechua speaker@|@runa@
+@queen@|@quya@
+@question@|@tapuna@
+@quick@|@phawaq, utqhaq@
+@quickly@|@askamalla, usqhay@
+@quickly (motion)@|@phawaylla, usqhaylla@
+@quickly (time)@|@ratulla@
+@quiet@|@ch'in, qasi@
+@quinoa (Andean grain)@|@kinwa, kiwna, kiwña@
+@rabbit (meat)@|@quwi aycha@
+@race@|@phaway@
+@radio@|@radiyu@
+@rain@|@para@
+@rain (to)@|@paray@
+@rainbow@|@k'uychi@
+@rainy season@|@para mit'a, paray mita@
+@ramble (to)@|@musphay@
+@rape@|@alquchay@
+@rape (to)@|@alquchay@
+@rash@|@khiki@
+@ravine@|@wayq'u@
+@raw (uncooked)@|@chawa, hank'u, hanku@
+@razor@|@k'isuna, sunkha rutuna@
+@reach (to)@|@aypay@
+@read (to)@|@liyiy, ñawinchay, q'elq'ay rimak@
+@reading@|@liyiy, ñawinchay@
+@ready@|@kamarisqa@
+@real@|@chiqaq@
+@realise (to)@|@yuyayukuy@
+@realize (to)@|@riparay@
+@Really?@|@Chiqaqchu?@
+@reason@|@-rayku@
+@receive (to)@|@chaskiy@
+@recently@|@chayraq@
+@recognise (to)@|@riqsiy@
+@recount (to)@|@willakuy, willay@
+@red@|@puka@
+@reed@|@k'urkur, suqus@
+@refund (to)@|@kutichipuy@
+@refuse (to)@|@ama niy@
+@region@|@suyu@
+@regret (to)@|@nanachikuy@
+@reject (to)@|@ama niy@
+@relate (to)@|@willakuy, willay@
+@relax (to)@|@hawkay@
+@remain (to)@|@qhipay@
+@remember (to)@|@yuyariy, yuyay@
+@remember well (to)@|@yuyay allinta@
+@remote@|@karu karu@
+@remove (to)@|@qichuy@
+@repeat (to)@|@kutipay@
+@resent (to)@|@nanachikuy@
+@respect@|@yupaychay@
+@respect (to)@|@manchay, yupaychay@
+@rest@|@samay@
+@rest (remaining)@|@wakin@
+@rest (to)@|@samay@
+@restaurant@|@mikhuna wasi, mikuna wasi@
+@restroom@|@hisp'akuna@
+@return (to)@|@kutiy@
+@return (to) (come back)@|@kutimuy@
+@rib@|@waqta@
+@rice@|@arus@
+@rich@|@apu, qhapaq, quliqisapa@
+@ride (to) a horse@|@sillakuy@
+@right@|@chanin@
+@right (not left)@|@paña@
+@right now@|@kunan pacha@
+@Right!@|@Kusa!@
+@ring (jewellery)@|@siwi@
+@ripe@|@ñapu, puqusqa@
+@rise (to) (sun)@|@paqariy@
+@river@|@mayu@
+@river)@|@chimpay@
+@road@|@awtuñan, karitira, ñan@
+@roast@|@kanka@
+@roast (to)@|@kankay@
+@rob (to)@|@suwakuy@
+@robber@|@suwa@
+@robbery@|@suwakuy@
+@rock@|@qaqa, rumi, wank'a@
+@rock climbing@|@qaqa wichay@
+@rooster@|@k'anka@
+@rope@|@waska, waskha@
+@round@|@muyu@
+@royal palace@|@kiswar kancha@
+@royal tomb@|@chullpa@
+@rubbish@|@q'upa@
+@rug@|@qumpi@
+@ruin@|@marka, maw'ka llaqta, raqay@
+@ruins@|@ñawpa llaqta, purun llaqta, raqay raqay, thunisqa, wasikuna@
+@rule@|@kamachiy@
+@rule (to)@|@kamachiy@
+@rumble (to)@|@anyay@
+@run (to)@|@phawariy, phaway@
+@run away (to)@|@ayqiy@
+@sad@|@llaki, llakisqa@
+@sadness@|@khuyay, llaki@
+@safe@|@qhalilla@
+@saliva@|@t'oq'ai, thaqay, thoqay@
+@salt@|@kachi@
+@salt (to)@|@kachichay@
+@salted@|@p'osq'o, puchqu@
+@salty@|@kachisapa@
+@same@|@kiki@
+@sand@|@aqu@
+@sandal@|@husut'a@
+@sandwich@|@quqawa@
+@Saturday@|@sawaru@
+@savage from the forest@|@ch'unchu@
+@save (to) (person)@|@qispichiy@
+@say (to)@|@niy@
+@scarce@|@pisi@
+@scarf@|@chalina@
+@school@|@iskuyla, yachay wasi@
+@science@|@hamut'ay@
+@scientist@|@hamawt'a@
+@scissors@|@kuchuna, tikras@
+@scorpion@|@pikaq@
+@Scotland@|@Iskusya@
+@scratch (to)@|@hasp'ikuy@
+@scream (to)@|@qaparqachay@
+@scrub@|@ch'aphra@
+@sea@|@lamarqucha, quchamama@
+@seagull@|@qillwa, qiwlla, qiwllaytu@
+@search (to)@|@maskhay@
+@seat@|@tiyana@
+@second@|@iskay kaq@
+@see (to)@|@qhaway, rikuy@
+@seed@|@muhu@
+@select (to)@|@akllay@
+@sell (to)@|@bindiy, wintiy@
+@sell (to) (market/fair/stand)@|@qhatuy@
+@send (to) (a letter)@|@apachiy@
+@send (to) (on an errand)@|@kachay@
+@sense (to)@|@llakllay@
+@separated@|@t'aqasqa@
+@seperate (to)@|@rakiy, t'aqay@
+@September@|@sitimri killa@
+@serve (to)@|@waliy@
+@serve food (to)@|@qaray@
+@set (to) fire to@|@k'anay, kanay@
+@set down (to)@|@tardiyay@
+@seven@|@qanchis@
+@seventeen@|@chunka qanchisniyuq@
+@seventy@|@qanchis chunka@
+@sew (to)@|@siray, tarpuy@
+@shade@|@llanthu@
+@shadow@|@llanthu, llanthu@
+@shake hands (to)@|@llamiyuy@
+@shame@|@p'inqay@
+@shampoo@|@champu@
+@share one's food (to)@|@malliyachiy@
+@shave (to)@|@p'aqlay@
+@shawl@|@lliklla@
+@she@|@pay@
+@sheep@|@uha, ukya, uwiha@
+@sheet (paper)@|@raphi@
+@shelf@|@churarina@
+@sheperd@|@michiq@
+@shimmy up (to) (tree)@|@lluqhay@
+@shine@|@k'anchay@
+@shine (to)@|@chhipchiy, chipchiy, lliplliy@
+@shine (to) (sun)@|@k'anchay@
+@shining white@|@quyllu@
+@shirt@|@kamisa@
+@shivery@|@khatatay@
+@shoe@|@sapatu@
+@shoe shop@|@sapatu tinda@
+@shop@|@tinda@
+@short@|@taksa, tinku@
+@short (in distance)@|@k'uku@
+@shoulder@|@rikra, riqra@
+@shout (to)@|@qapariy@
+@show (to)@|@qhawachiy, riqsichiy@
+@shrub@|@ch'apra@
+@shut@|@wisq'asqa@
+@shut (to)@|@wisq'ay@
+@shut up (to)@|@upallay@
+@sick@|@unqusqa@
+@sickness@|@unquy@
+@side@|@kinray@
+@side by side@|@kuska@
+@sightseeing@|@turistakuna purisqan@
+@sign@|@unancha@
+@sign (to) (document)@|@suti silq'uy@
+@signature@|@silq'u@
+@signpost@|@unancha@
+@silent@|@ch'in@
+@silver@|@qullqi, qulqi@
+@similar@|@hina, rikch'akuq@
+@sin@|@hucha@
+@sin (to)@|@huchallikuy@
+@since@|@-manta@
+@since May@|@mayu killamanta@
+@since then@|@chaypachamanta@
+@sing (to)@|@takiy@
+@singer@|@takiq@
+@singing@|@takiy@
+@single (man)@|@sultiru@
+@single (unique)@|@ch'ulla@
+@single (woman)@|@sultira@
+@single man@|@mana warmiyuq@
+@single woman@|@mana qusayuq@
+@sister (of man)@|@pana@
+@sister (of woman)@|@ñaña@
+@sit (to)@|@tiyay@
+@six@|@soqta, suqta@
+@sixteen@|@chunka suqtayuq@
+@sixty@|@suqta chunka@
+@size@|@sayay@
+@size (to)@|@sayay@
+@skin@|@qara@
+@skinny@|@tullu@
+@skirt@|@pullira@
+@sky@|@siylu@
+@sky (invisible)@|@hanaqpacha@
+@sky blue@|@t'uqra anqas@
+@sleep (to)@|@puñuy@
+@sleeping bag@|@puñuna@
+@sleepy@|@puñuy aysay@
+@slide (to)@|@suchuy@
+@slightly damp@|@mik'i@
+@slowly@|@allilamanta@
+@small@|@huch'uy, huchuy, taksa@
+@small bag@|@ch'uspa@
+@smell (to)@|@asnay, muskhiy, mutkhiy@
+@smell bad (to)@|@asnay@
+@smile (to)@|@asirikuy@
+@smoke@|@q'usmi, q'usñi@
+@smoke (to) (cigarette)@|@pitay@
+@smooth@|@siwk@
+@snake@|@amaru, mach'aqway@
+@sneeze (to)@|@acchiy@
+@snow@|@rit'i@
+@snow line@|@rit'i siqi@
+@so@|@ahinaqa, chay hinaqa, chaymi, chayrayku, kaynata, nispaqa@
+@soap@|@hawun@
+@socks@|@midyas@
+@soda@|@kula@
+@soft@|@llamp'u@
+@soft drink@|@kula@
+@solid@|@ch'ila, chuchu@
+@some (animate object)@|@wakinkunalla@
+@some (inanimate object)@|@wakiwakillan@
+@some good maize@|@sumaq sara@
+@someone@|@pipas@
+@something@|@imallapas, imapas, imapis@
+@sometimes@|@maynillanpi@
+@son@|@wawa@
+@son (of a woman)@|@qhari wawa@
+@son of a man@|@churi@
+@song@|@harawi@
+@song (sad)@|@taki@
+@soon@|@kunallan, uskay@
+@sore throat@|@ch'aka, tunqur nanay@
+@sorry@|@dispinsayuway, pampachayuway@
+@sound@|@suynay@
+@soup@|@chupi, lawa@
+@sour@|@p'usqu@
+@sour cherry@|@kapuli, rindas@
+@South@|@uray@
+@space@|@ch'usaq, pacha, tiqsimuyu@
+@spade@|@chakitaklla@
+@spanish@|@kastillanu, kastillasimi, kasukuy@
+@sparrow@|@pichinku@
+@sparrowhawk@|@anka, waman@
+@spatula@|@wislla@
+@speak (to)@|@rimay@
+@speedy@|@usqhaq@
+@spicy@|@haya, hayay@
+@spider@|@araña, kusi-kusi, qhampu@
+@spin (to) (thread)@|@puskay@
+@spindle (for spinning)@|@puska@
+@spine@|@kiska, wasa tullu@
+@spoiled@|@maq'a@
+@spoon@|@kuchara, uchuj, uchuk@
+@spread (to)@|@hich'ay, t'akay@
+@spring@|@chiraw mit'a@
+@spring (water)@|@pukyu@
+@square (shape)@|@tawa k'uchuyuq@
+@squeeze (to)@|@ñit'iy@
+@staff@|@k'aspi@
+@stainless steel@|@asiru@
+@stairs@|@pata pata, raras@
+@stale@|@maq'a@
+@stand (to)@|@hatariy, sayay@
+@stand up (to)@|@hatariy@
+@stars@|@ch'aska, quyllur@
+@start (to)@|@qallariy@
+@statue@|@istatuwa, rikch'ay@
+@stay (to)@|@qhipay@
+@steal (to)@|@suway@
+@steam@|@waksi@
+@steep@|@sayaq@
+@stem@|@tullu@
+@step (to)@|@thatkiy@
+@step on (to)@|@saruy@
+@stepfather@|@qhipa tayta@
+@stepmother@|@qhipa mama@
+@stick@|@k'aspi, tawna@
+@stick (to)@|@kaskachiy@
+@stick (to) to@|@kaskay@
+@sting (insecte)@|@ch'ikay@
+@sting (to)@|@kaniy@
+@stomach@|@wiksa@
+@stomachache@|@wiksa nanay@
+@stone@|@qaqa, rumi, wank'a@
+@stop (to)@|@thaniy@
+@stop (to) (an act)@|@wanay@
+@stop (to) (oneself)@|@sayay@
+@stop (to) someone@|@sayachiy@
+@Stop!@|@Sayay!@
+@storm@|@lluqlla para@
+@story@|@willakuy@
+@story (to)@|@willakuy@
+@straight@|@chiqanta, siwk@
+@straight ahead@|@dirichu, siwk@
+@strange@|@huq rikch'aq@
+@stranger@|@mana riqsisqa@
+@straw@|@ichhu@
+@straw from the puna@|@ichhu@
+@straw of the puna@|@puna ichu@
+@straw rope@|@q'ishwa@
+@stream@|@mayucha@
+@street@|@kalli, ñan@
+@strenght@|@atiy, kallpa@
+@stretch (to)@|@aysay, chutay, mast'ay@
+@string@|@q'aytu@
+@strong (durable)@|@qaqa@
+@strong (person)@|@sinchi@
+@strong (solid)@|@chuchu@
+@student@|@alumnu, yachay munaq@
+@stump@|@k'ullu@
+@stupid@|@mana allin yuyayniyuq, sunsu, upa@
+@succeed (to)@|@allinwan lluqsiy@
+@suffer (to)@|@ñak'ariy, ñakariy, ñakay@
+@suffer (to) (lack)@|@muchuy@
+@sugar@|@asukar, misk'i@
+@sugar bowl@|@misq'i churana@
+@suitcase@|@malita@
+@summer@|@ruphay mit'a@
+@sun@|@inti@
+@sunburn@|@ruphay@
+@Sunday@|@dumingu@
+@sunlight@|@ruphay@
+@sunny@|@rupha@
+@sunrise@|@inti llipipimuy, lluqsimuy@
+@sunset@|@akupana, ch'isiyapuy, intiyaykuy, tardi@
+@Sure!@|@Allinmi!@
+@surprised@|@mancharikuy, utirayay@
+@sweat@|@hump'i@
+@sweater@|@chumpa@
+@sweep (to)@|@pichay@
+@sweep (to) the house@|@wasita pichay@
+@sweet@|@misk'i@
+@sweeten@|@misk'i@
+@sweeten (to)@|@misk'ichiy@
+@swim (to)@|@wayt'ay@
+@sword@|@ispara@
+@table@|@wampar@
+@tail@|@chupa@
+@take (to)@|@apay, hap'iy, hurquy@
+@take (to) (on your back@|@q'ipiy@
+@take a seat (to)@|@tianape tiyay@
+@take away (to)@|@qichuy@
+@take off (to)@|@qichuy@
+@tale@|@kwintu@
+@talk (to)@|@rimay@
+@talking@|@rimay@
+@tall@|@hatun@
+@tart@|@qhaqti@
+@taste (to)@|@malliy@
+@tasty@|@misk'i, sumaq@
+@tea@|@tiy@
+@tea with milk@|@tiy lichiyuqta@
+@teach (to)@|@yachachiy@
+@teacher@|@hamawt'a, yachachiq@
+@tear@|@weqe, wiqi@
+@teat@|@ñuñu@
+@teen@|@warma@
+@telephone@|@tiliphunu@
+@tell (to)@|@niy, willay@
+@temperature@|@rawray unquy, rupha@
+@temple@|@manqu, manqus wasi, willka wasi, yupaychay wasi@
+@Temple of the sun@|@Qurikancha@
+@ten@|@chunka@
+@tent@|@karpa@
+@terrace@|@pata@
+@terrible@|@mana allin@
+@textile@|@awa@
+@thank@|@sulpáy, uspaláy@
+@thank (to)@|@agradisiy, añaychay, sulpáy niy@
+@thank you@|@agradisikuyki, Dios pagarasunki@
+@Thank you!@|@Añaychayki!, sulpáy, sulpayki!@
+@that@|@anchay, chay@
+@that over there@|@chahay, haqay@
+@that way@|@khayna@
+@That's hot!@|@Achakáw!@
+@the only one@|@sapallan@
+@theft@|@suwakuy@
+@them@|@paykuna@
+@then@|@chay pacha@
+@there@|@chayniqpi, chaypi, haqaypi, wakpi@
+@thereafter@|@yasta@
+@therefore@|@chaymi, chayrayku, nispaqa@
+@they@|@paykuna@
+@thick@|@thaka@
+@thief@|@suwa@
+@Thief!@|@Suwa!@
+@thigh@|@chaka@
+@thin@|@tullu@
+@think (to)@|@yuyay@
+@third@|@kinsa kaq@
+@third (a)@|@kinsa taq'a@
+@thirst@|@ch'akiy@
+@thirsty@|@ch'akisqa@
+@thirteen@|@chunka kinsayuq@
+@thirty@|@kinsa chunka@
+@this@|@kay@
+@this one there@|@chhaqay@
+@thorax@|@qhasqo@
+@thorn@|@kichka, kishka, kiska@
+@thought@|@yuyay@
+@thousand@|@waranqa@
+@thread@|@q'aytu@
+@three@|@kimsa, kinsa@
+@throat@|@tunqur, tunquril@
+@throw (to)@|@wikch'uy, wisch'uy@
+@thunder@|@qhaqya@
+@thunderbolt@|@rayu@
+@Thursday@|@huywis@
+@thus@|@hinaspa@
+@tie (to)@|@watay, watu@
+@tight@|@k'iski, mat'i, mat'isqa@
+@time@|@pacha, timpu, tiqsimuyu@
+@tin (of food)@|@lata@
+@tin opener@|@lata kichana@
+@tint@|@llimpi@
+@tired@|@sayk'usqa@
+@to@|@-man, -ta@
+@to hire@|@alkilay@
+@to rent@|@alkilay@
+@to spice@|@hayay@
+@to the left@|@lluq'iman@
+@to the right@|@pañaman@
+@toad@|@hamp'atu@
+@toast (to) (maize or bean)@|@hamk'ay, hank'ay@
+@tobacco@|@tawaku@
+@today@|@kunan p'unchay@
+@together@|@huklla, kuska@
+@toilet@|@bañu, hisp'akuna@
+@tomate@|@tumati@
+@tomb@|@aya sankha@
+@tomorrow@|@pagarin, paqarin@
+@tomorrow afternoon@|@paqarin inti t'iksuypi, paqarin tayriman@
+@tomorrow evening@|@paqarin ch'isi@
+@tomorrow morning@|@paqarin tutamantan@
+@tongue@|@qallo, qallu@
+@tonight@|@ch'isiman@
+@too@|@-pas, -pis@
+@too expensive@|@ancha chaniyuq@
+@too many@|@askha askha, chhika chhika@
+@too much@|@askha askha, chhika chhika, nishu, nisiu@
+@tool@|@llamk'ana, llank'ana@
+@tooth@|@kiru@
+@toothbrush@|@kiru qhituna@
+@top of the hill@|@uma tukuynin@
+@torch@|@k'anchana, lintirna@
+@touch (to)@|@llamiy@
+@tourist@|@turista@
+@towards@|@-man, -ta@
+@towel@|@ch'akichikuna, tuwalla@
+@town@|@llaqta@
+@town hall@|@kamachiqkunaq wasin@
+@tradition@|@kawsay@
+@train@|@trin@
+@train)@|@qispiy@
+@trample underfoot (to)@|@saruy@
+@translate (to)@|@t'ikray@
+@trash@|@q'upa@
+@travel@|@biyahi@
+@travel (to)@|@biyahita puriy, ch'usay, puriy@
+@traveller@|@puriq@
+@tree@|@mallki@
+@trek@|@karu puriy@
+@trek (to)@|@karu puriy@
+@trip (to)@|@puriy@
+@tripe@|@ch'unchul@
+@tropical ecology (-2000m)@|@yunga@
+@trousers@|@pantalon, pantalun, wara@
+@trout@|@trucha@
+@truck@|@karru@
+@true@|@chanin, chiqaq@
+@trust (to)@|@kunphiyay@
+@truth@|@chiqaq@
+@T-shirt@|@kamisita, unkhu@
+@Tuesday@|@martis@
+@turkey@|@pawu@
+@turkey (meat)@|@pawu aycha@
+@turn (to)@|@muyuriy, muyuy@
+@turnip@|@yuyu@
+@turtle@|@charapa@
+@turtledove@|@kullku@
+@twelve@|@chunka iskayniyuq@
+@twenty@|@iskay chunka@
+@twenty one@|@iskay chunka huqniyuq@
+@twenty two@|@iskay chunka iskayniyuq@
+@twice@|@iskay kuti@
+@two@|@iskay@
+@tyre@|@llanta@
+@U.S.A.@|@Istadus Unidus@
+@ugly@|@millay@
+@uncle@|@tiyu@
+@under@|@pachan, qawanta, ukhu + marque de cas, uray@
+@underground world@|@ukhupacha@
+@underpants@|@wara@
+@understand (to)@|@intindiy, unanchay, uyariy@
+@undress (to)@|@ch'ustikuy@
+@United States of America@|@Istadus Unidus@
+@universe@|@pacha, tiqsimuyu@
+@university@|@yachay wasi@
+@until@|@-kama@
+@until June@|@huniyu killakama@
+@unwell@|@unqusqa@
+@up@|@hanaq, wichay@
+@uphill@|@hanay, wichay@
+@urgent@|@prisisaqpaq, usqhaypaq@
+@urinary tract infection@|@hisp'ay p'iti@
+@urinate (to)@|@hisp'akuy, hisp'ay@
+@used@|@mawk'a@
+@useful@|@allin@
+@useless@|@yanqa@
+@vacation@|@samy pacha@
+@vagina@|@rakha@
+@vain@|@yanqa@
+@valley@|@qhiswa, wayqu@
+@valley (2000 to 3400m)@|@qhishwa@
+@valley (tropical)@|@yunka@
+@valuable@|@chaniyuq@
+@value@|@chanin@
+@vegetarian@|@mana aycha mikuq@
+@vein@|@sirk'a@
+@very@|@ancha, sinchi@
+@very soon@|@kanallan, kunallan, usqhayta@
+@vicuna@|@wic'uña, wik'uña@
+@village@|@llaqta@
+@violin@|@biyulin@
+@viscacha@|@wisk'acha@
+@visit (to)@|@watukuy, waturikuy@
+@voice@|@kunka@
+@volcano@|@nina phuqchiq urqu@
+@vulture@|@suwiq'ara, ullasku@
+@waist@|@wepaq, wiqaw@
+@wait (to)@|@suyay@
+@waiter@|@mikhuna, wasipi@
+@wake (to)@|@rikch'arichiy, rikch'ariy@
+@Wales@|@Galis@
+@walk (to)@|@puriy@
+@walk upon (to)@|@saruy@
+@wall@|@pirqa@
+@wallet@|@willitira@
+@want (to)@|@munay, munay@
+@warm@|@q'uñi, tumpallata rupha@
+@warm up (to)@|@q'uñikuy@
+@warn (to)@|@willay, yuyampay@
+@warrior@|@awqa puriq@
+@wash (to)@|@t'aqsay@
+@wash (to) (general except clothes and hair)@|@maqchhiy@
+@wash basin@|@puruña@
+@wash oneself (to)@|@armakuy@
+@washing powder@|@ditirhinti@
+@watch@|@riluh@
+@watch (to)@|@qhaway@
+@water@|@uno, unu, yaku@
+@water bottle@|@wutila yaku, wutilla unu@
+@waterfall@|@phaqcha, phawchi@
+@watery@|@yakusapa@
+@way@|@ñan@
+@we (exclusif)@|@nuqayku, ñuqayku@
+@we (inclusif)@|@nuqanchis, ñuqanchis@
+@weak@|@kallpa wañuy@
+@wear clothes (to)@|@p'achallikuy@
+@weave (to)@|@away@
+@weaving@|@awa@
+@wedding@|@kasarakuy, yananchakuy@
+@wedding present@|@kasaraqkunapaq rikuchikuy@
+@Wednesday@|@mirkulis@
+@week@|@simana@
+@weigh (to)@|@llasay@
+@weight@|@llasa@
+@well@|@allin, sumaq@
+@West@|@inti chinkaykuy, intiq chikanan@
+@wet@|@ch'aran, huq'u, sut'u@
+@what@|@ima, iman@
+@What can I do?@|@Imanay?@
+@What can I say?@|@Imaniy?@
+@What!@|@Hay!, Ilma!@
+@What?@|@Iman ?@
+@wheat@|@trigu, triyu@
+@when@|@hayk'ap, hayk'aq@
+@When?@|@Hayk'aq@
+@where@|@maypin@
+@Where?@|@May?@
+@Whew!@|@Hananáw!@
+@which@|@may@
+@which who built his house@|@wasichakuq@
+@Which?@|@Mayqin@
+@white@|@yuraq@
+@white house@|@yula wasi, yurak wasi@
+@who@|@pi, pin@
+@Who?@|@Pi?@
+@whose@|@piqpa@
+@Whose?@|@Piq?@
+@why@|@imanaqtin@
+@Why?@|@Imanaqtin?, Imanasqa?, Imayraku?@
+@wich@|@mayqin@
+@widow@|@warmi sapa@
+@widower@|@sapan qhari@
+@wife@|@warmi@
+@wild cherry tree@|@kapuli@
+@wild duck@|@chullu mayu@
+@wild pig@|@siwayru@
+@wildcat@|@usqhullu@
+@wind@|@wayra@
+@window@|@qhawarina, t'uqu, toqu, wasi t'uqu, wintana@
+@windy@|@sinchi wayra@
+@wine@|@binu@
+@wing@|@rapra@
+@winter@|@chiri mit'a@
+@wise@|@hamawt'a, yachayniyuq, yuyaysapa@
+@witch@|@layqa@
+@with@|@-wan@
+@with me@|@nuqa-wan@
+@without@|@mana…-yuq@
+@woman@|@warmi@
+@wonderful@|@ancha sumaq, kusa kusa, llumpay sumaq@
+@wood@|@k'ullu@
+@woodland@|@munti@
+@woodpecker@|@hak'akllu@
+@wool@|@millma, millwa, willma@
+@word@|@rimay, simi@
+@work@|@llank'ay@
+@work (to)@|@llamk'ay, llank'ay@
+@world@|@pacha, tiqsimuyu@
+@worn (no textile)@|@mawk'a@
+@worried@|@llakisqa@
+@worship@|@yupaychay@
+@worship (to)@|@much'ay@
+@worth@|@chanin@
+@wound@|@k'iri@
+@wound (to)@|@k'irikuy, k'iriy@
+@wrist@|@maki muqu@
+@write (to)@|@q'elq'ay, qilqay@
+@writer@|@q'elq'aq, qilqaq@
+@wrong@|@panta, rutuna, rutunu@
+@year@|@wata@
+@yellow@|@q'ellu, q'illu@
+@yesterday@|@qayna p'unchau, qayna p'unchay@
+@yesterday afternoon@|@qayna inti@
+@yesterday evening@|@qayna ch'isi, qayna t'iksuypi@
+@yesterday morning@|@qayna tutamantan@
+@you (plu.)@|@qankuna@
+@you (sing.)@|@qam, qan@
+@young man@|@wayna@
+@young woman@|@sipas, sipascha@
+@your house@|@wasiyki@
+@You're welcome!@|@Imamanta!, Mana imamantapas!@
+@zero@|@ch'usaq@
+

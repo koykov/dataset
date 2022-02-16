@@ -1,0 +1,1362 @@
+@English@|@Old Frisian@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@(space of) 24 hours@|@etmel@
+@a@|@en@
+@a child@|@kindes-, kindiskind@
+@a fourth part@|@fiardandel@
+@a number of twenty@|@stige@
+@a quarter of a mark@|@fiardunge@
+@a suffix@|@-bere@
+@a sworn representing a hem@|@hemethoga@
+@a tenth part@|@degma@
+@a thousand@|@thusend@
+@abbot@|@*abbet, abbit@
+@above@|@bova@
+@accomodate@|@hovia@
+@according to@|@an, be, efter@
+@according to divine law@|@godilike@
+@accuse@|@-tegia@
+@accused@|@haldere@
+@accusor@|@klarige@
+@adjudicate@|@riuchta@
+@administer@|@fermia@
+@administer the extreme unction@|@ologia@
+@administrator of goods of the church@|@liodamon@
+@adult@|@-geroch, jeroch@
+@advent@|@advent@
+@advise@|@reda@
+@affliction@|@kar-@
+@after@|@ni@
+@afterwards; also@|@eft@
+@again@|@with@
+@against@|@ond-, over, to@
+@against that@|@altherwithir@
+@agnail@|@ogneil@
+@aither@|@ahwedder@
+@alarm@|@tianutroft@
+@alive@|@-live@
+@all@|@al, alle@
+@all in@|@alla@
+@all the@|@alle tha@
+@almighty@|@ellemachtich@
+@alone@|@alena@
+@also@|@ak@
+@altar@|@altar, altare@
+@altar-sheet@|@alterletsen@
+@always@|@ja-@
+@ambassador@|@boda@
+@among@|@mong@
+@and@|@ande, ande, en@
+@and the@|@and thes, and thi, anta, antes@
+@angel@|@angel@
+@angry@|@erch@
+@animal@|@nat@
+@ankle@|@onklef@
+@any@|@enich@
+@apart from that@|@ekkor@
+@apostle@|@apostel@
+@appear@|@blika@
+@appropriate@|@brida@
+@approval@|@wald@
+@archbishop@|@erzebiscop@
+@arm@|@erm@
+@army@|@here, hiri, hirifolk@
+@around@|@umbe@
+@arrest@|@fa, heftnese@
+@arson@|@waldbrond@
+@as@|@alsa@
+@as he@|@alsare@
+@as him@|@alsam@
+@as well@|@eft@
+@as; if@|@asa@
+@ask@|@bidda@
+@aspen@|@espen@
+@aspersory@|@sprangel@
+@at@|@a, an, ana, anna, be-, et, to@
+@at first@|@erost@
+@at that time@|@alther@
+@at the@|@eta@
+@at the thing@|@athing@
+@ataff@|@walu-@
+@attack@|@bifiuchta@
+@Attila@|@Ethela@
+@attribute part of the estate to a marrying child@|@belda@
+@Augsburg@|@Auwesburg@
+@back@|@bek, reg-, wer@
+@backwards@|@bekwardich@
+@bad@|@balu-@
+@bag attached to a girdle@|@-gerdel@
+@Bamberg@|@Bavenberg@
+@banner@|@hirifona@
+@baptize@|@depa@
+@bare@|@-ber@
+@bare-legged@|@berskinzie@
+@barricade@|@*bitena@
+@basis@|@-stathul@
+@bath@|@beth@
+@battle@|@-had, strid@
+@Bavaria@|@Beygeron@
+@be@|@se@
+@be able to@|@muga@
+@be allowed to@|@muga@
+@be born@|@bera@
+@be called@|@heta@
+@be parti]ly closed@|@glisia@
+@be stiff@|@stevia@
+@bear@|@bera@
+@beard@|@berd@
+@bearer@|@-bera@
+@beat@|@drop@
+@beautibul@|@skene@
+@because@|@alsa, hwande@
+@become deaf@|@davia@
+@become stiff@|@stivia@
+@become weak@|@wekia, welia@
+@becomes-he@|@wrthere@
+@bed@|@bed@
+@before@|@afara, bifara@
+@begin@|@-bijenna, -jenna@
+@begining@|@-jen@
+@beginning@|@-bijen@
+@behind@|@befta, efta@
+@belly@|@-rif, buk-@
+@belonging to@|@-slacht@
+@below@|@binetha@
+@benefit@|@ferre, fremo@
+@best@|@best@
+@better@|@bettra@
+@between@|@twisk@
+@big@|@grat, hach@
+@bigger@|@marra@
+@bind@|@*bibinda, binda@
+@birch@|@besna@
+@birth@|@berthe@
+@bishop@|@biscop@
+@bite@|@biti@
+@black@|@swart@
+@bleeding@|@blodrunnande@
+@bleeding wound@|@blodrisne@
+@blind@|@blid@
+@blinding@|@blendinge@
+@blindness@|@-blind@
+@blleding@|@blodelsa@
+@blood@|@blod@
+@bloody@|@blodich@
+@bloody wound@|@blodisa@
+@blow@|@dust-@
+@blow causing a bruise@|@dustslek@
+@blow causing unconsciousness@|@swinslek@
+@blow with a stick@|@stefslek@
+@blue@|@weden@
+@bold@|@-nath@
+@bone@|@ben@
+@bones@|@benete@
+@book@|@bok@
+@booty@|@raf@
+@border@|@-swiththe@
+@borrow@|@borgia@
+@bosom@|@bosem@
+@both@|@bethe@
+@bottomless@|@nivent@
+@bought land@|@kaplond@
+@brain@|@heli-@
+@brain-pan@|@brinponne@
+@brains@|@brin-@
+@braking of bone@|@benskredene@
+@bread@|@brea, brod@
+@break (open)@|@breka@
+@breast@|@brust-@
+@breath@|@ethma, omma@
+@bride@|@fletieve@
+@bridge@|@bregge@
+@bring@|@branga@
+@bring forth@|@foribranga@
+@brother@|@brother@
+@brother in a religious guild@|@jeldebrother@
+@brown@|@brun@
+@bruise@|@mosdolch@
+@build@|@-timbria, buwa@
+@building@|@buwunge, timber@
+@burden@|@-kumbria, sweria@
+@burn@|@-berna, barna, burna@
+@burst@|@breke@
+@bury@|@lidszia@
+@but@|@ne were@
+@butter@|@buter@
+@buy@|@kapia@
+@by@|@be-@
+@calculate@|@bitella@
+@call@|@-roft, hropa, nomia@
+@campaign@|@hiriferd@
+@campshed@|@bitimbria@
+@can@|@muga@
+@capture@|@fa@
+@care@|@game@
+@carry@|@drega, fera@
+@carve@|@kerva@
+@case of emergency@|@havedned@
+@cataract@|@staru-@
+@catch@|@bifara, fa, henda@
+@catcher@|@-fongere@
+@cathedral@|@dom@
+@cattle@|@kuic@
+@celebrate@|@firia@
+@cerebral mambrane@|@helibrede@
+@certain curency@|@merk@
+@certain currency@|@jeldmerk, leinmerk, liodmerk@
+@certain currency with the value of twelve pence@|@wede@
+@cetera@|@cetera@
+@chain@|@bende@
+@chair@|@stol@
+@challenge@|@seka@
+@champion@|@kampa@
+@change@|@biwend, wend, wondlonge@
+@chapter@|@kapittel@
+@charge@|@bikumbria, klagi, tichta@
+@check@|@stiora@
+@cheese@|@kaese, tsiis@
+@child@|@bern, kind@
+@choice@|@kere@
+@choose@|@kiasa@
+@chose one@|@kasma@
+@chosen relative@|@kestfriond@
+@Christ@|@Kerst@
+@christian@|@kersten, kerstena@
+@christianity@|@kerstendom, kerstenede@
+@Christmas time@|@kerstesid@
+@church@|@godishus, sthereke@
+@church of a district@|@gasthereke@
+@churchdoors@|@stherekadure@
+@churchyard@|@hof, stherekhof@
+@city@|@-burch, stede@
+@civil servant@|@hodere@
+@claim@|@tiona@
+@clean@|@rene@
+@close@|@-sluta@
+@close down@|@besla, bisla@
+@close off@|@-luka@
+@closest related@|@allera swesost@
+@cloth@|@-dok, -letsen@
+@clothes@|@klath@
+@cock@|@hona@
+@cold@|@frost, kalde@
+@collar@|@widu-@
+@collar bone@|@widuben@
+@collect@|@gadurleda, somnia@
+@collegue@|@ivenetha@
+@Cologne@|@Agrip, kolnaburch, Kolne@
+@colored skin@|@mos-@
+@come@|@koma, kuma@
+@come across@|@bifara@
+@coming@|@-keme@
+@command@|@biada@
+@commandment@|@bod@
+@commandment; jurisdiction; penalty@|@bon@
+@common@|@mene@
+@compare@|@-liknia@
+@compare with@|@aliknia@
+@compensation@|@bote@
+@complaint@|@klagia, thing@
+@complete@|@hel@
+@completely@|@algadur, alle, alsemin@
+@comrade@|@nat@
+@confess@|@jechta@
+@confession@|@jechta@
+@confirm@|@stedigia@
+@confirmation@|@fermia@
+@confiscate@|@forwerka@
+@consecrate@|@wia@
+@consequently@|@efter@
+@consolidate@|@stera@
+@constitution@|@skipnese@
+@contaminate@|@bewella, biwella@
+@contract@|@biluka@
+@convert@|@bikera, kera@
+@cool down@|@kela@
+@cordially@|@liaflike@
+@corner@|@herne@
+@council@|@red@
+@count@|@greva@
+@counterfeiting@|@fad@
+@couple@|@-hingen@
+@court@|@hof, warf, werf, werp@
+@cousin@|@emessunu@
+@cover@|@bifa@
+@cow@|@rither@
+@crack; demolition@|@breke@
+@cranium@|@brinponne@
+@creator@|@skippere@
+@creed@|@crdo@
+@creep@|@kriapa@
+@crime@|@dede, sinne@
+@criminal@|@skatha@
+@criminal act of fettering@|@hiribende@
+@cripple@|@lemma@
+@crooked@|@krumb, wrak@
+@cross@|@krioce, kriose@
+@crowd@|@Kedde, meni@
+@crown@|@krone@
+@cry@|@-ropa@
+@cry for help@|@skrichta@
+@current@|@ganse@
+@cut@|@-smitha, bita@
+@cutting in the footsole@|@iliskredene@
+@cutting off the eyebrow(s)@|@breskredene@
+@cutting open of the retnia@|@netskredene@
+@daily@|@to allera disthik@
+@damage@|@-skathinge, -wlemelsa, laster@
+@damage of the senses@|@sinwerdene@
+@damaging or wounding of the lung@|@lungenskredene@
+@danger@|@frase, ned@
+@dangerous fire@|@nedbrond@
+@daughter@|@dochter@
+@day@|@di@
+@day dedicated to an apostle@|@apostolisdi@
+@day dedicated to the Virgin Mary@|@mariadi@
+@days@|@degar@
+@deacon@|@diacon@
+@dead@|@dad, elive@
+@deadly wound@|@daddoloch@
+@dean@|@progost@
+@dear@|@liaf-@
+@death@|@dath@
+@decease@|@forifalla@
+@declare@|@hlia, lhia, tella@
+@deed@|@dede@
+@deep@|@side@
+@deep point in the sea@|@fil@
+@deep scar@|@inseptha@
+@defence@|@rethe@
+@defend@|@biskirma, wera@
+@degree of kinship@|@kni@
+@deliver@|@sella@
+@demand@|@askia@
+@demolition of a house@|@husbreke@
+@dependent from@|@hanzoch, heinzioch@
+@depository@|@held@
+@desert@|@wostene@
+@desire@|@jeria@
+@despoil@|@-ravia@
+@destine@|@skeppa@
+@destroy@|@breka, hawa@
+@detect@|@bisia@
+@deviate@|@wenda@
+@devil@|@diovel@
+@dew@|@daw@
+@diaphragm@|@midrede@
+@die@|@sterva@
+@dike@|@dik@
+@dikfreth (safety during work on the dikes)@|@dikfretho@
+@dirt@|@sol-@
+@disappear@|@-kwinka@
+@disease@|@secht@
+@dislocation@|@-wege@
+@dislocation of a joint@|@lithwege@
+@dismiss@|@falla, fella, fonwisa@
+@distribute@|@dela@
+@district@|@ga-, merke@
+@divide@|@dela, skifta@
+@divorce@|@sketha@
+@dizziness@|@haveddusinge@
+@do@|@dwa@
+@dog@|@hund@
+@domicile@|@stidi@
+@door@|@dore, dure@
+@downwards@|@dele@
+@dowry@|@-mond@
+@drive away@|@driva@
+@drivel@|@sever@
+@duel@|@komp@
+@duke@|@hertoga@
+@durable@|@sin-@
+@each@|@alrek, eider, eyder@
+@each person@|@allera monnik@
+@ear@|@are@
+@earlier@|@er@
+@earlier case@|@erseke@
+@earlier charge@|@ertichta@
+@earth@|@irthe, irthrike@
+@earthquake@|@irthbivinge@
+@east@|@asta@
+@Easter@|@pascha-@
+@Eastertime@|@paschatid@
+@egyptians@|@egiptaliode@
+@eight@|@achta@
+@eighteen@|@achtatin@
+@eighteenth@|@achtatinda@
+@eighth@|@achtanda, achtunda@
+@eighty@|@achtantich@
+@either@|@aider, eider@
+@elderman@|@aldirmon@
+@eleven@|@andlova@
+@eleventh@|@andlofta@
+@emperor@|@keiser@
+@enclose@|@bisluta@
+@enclose the court@|@heira@
+@enemy@|@fiand@
+@England@|@Angelond@
+@English@|@Ingelsk@
+@enough@|@enoch@
+@enter@|@inkoma@
+@entering@|@ingong@
+@entrance@|@instepi@
+@entrance of hell@|@hilleporte@
+@entrust to@|@lena, lenigia@
+@equally@|@iven, ivenes, ivin@
+@erect@|@heia, heya@
+@estabilish@|@lagia, lovia@
+@establish@|@lidszia@
+@establish the degree of kinship@|@kinia@
+@etcetera@|@et cetera@
+@eternal@|@ewich@
+@ever@|@-ik@
+@every@|@allerek, alrek, ek, jahwelik@
+@every person@|@allera monna ek@
+@everyone@|@monnik@
+@evil@|@balu-, leth@
+@except@|@bihalva, buta@
+@exile@|@ililende@
+@expensive@|@diore@
+@eye@|@age@
+@eyebrow@|@bre-@
+@eye-lid@|@hlid@
+@eyetooth@|@sleintoth@
+@face@|@-ware@
+@fail@|@befalla, bifalla@
+@fall@|@fal, falla@
+@-falling@|@falle@
+@false@|@men-@
+@family@|@ken@
+@family property@|@liodgarda@
+@far@|@fir@
+@fast@|@festia@
+@fasting@|@feste@
+@fasting for a period of 40 days@|@karine@
+@fasting penitent@|@karfestere@
+@father@|@feder@
+@father's brother@|@fidiria@
+@father's sister@|@fethe@
+@fathom (6 feet)@|@fethem@
+@fear@|@ongost@
+@feast of Whitsuntide@|@pinkostratid@
+@feel@|@fela, spera@
+@feeling@|@fele@
+@fellow lawyer@|@ivenetha@
+@fellow man@|@iven-, ivinkerstena@
+@fessel@|@slotbende@
+@fetter@|@helde@
+@fidelity@|@treuwe@
+@field@|@ekker, feld@
+@fierce@|@grim@
+@fifteeenth@|@fiftinda@
+@fifteen@|@fiftin@
+@fifth@|@fifta@
+@fight@|@fiucht, fiuchta, strida@
+@fight against@|@befiuchta@
+@fight into@|@*infiuchta@
+@find@|@finda@
+@find guilty of@|@birethia@
+@fine@|@bote@
+@fine for killing an unborn child@|@liodwerdene@
+@fine for people@|@liodskelde@
+@fine-register@|@skrifta@
+@finger@|@finger@
+@fire@|@brond, fior@
+@fire-place@|@hirthstidi@
+@firm@|@feste@
+@first@|@erost, ferost, forma@
+@first of all@|@alerra-erost@
+@fish@|@fisk@
+@fist@|@fest@
+@five@|@fif@
+@fixed@|@-fest@
+@flag@|@fona@
+@flee@|@flia@
+@flesh@|@flask@
+@flight@|@flecht@
+@fllod@|@-risne@
+@flogging@|@stupe@
+@flood@|@-spring@
+@flow@|@-rene, fliata@
+@flowing out of spittle@|@spedelspring@
+@-fold@|@-fald, -jelde@
+@folk@|@folk@
+@follow@|@bifolgia, folgia@
+@following@|@letore@
+@food@|@kost@
+@food and provision for the synodical judges@|@sinuthkost@
+@foot@|@fot, foth@
+@footsole@|@ili@
+@for@|@an, fori, to@
+@force@|@thwinga@
+@foreign@|@framde, ili-@
+@forgery@|@falsk@
+@fork@|@forke@
+@fornication@|@hor, hordom@
+@foul@|@ful@
+@found@|@buwa, stifta@
+@found guilty@|@aiechta@
+@foundation of a dike@|@dikstahul@
+@four@|@fiar-, fiuwer, fiver@
+@four and a half@|@fiftahalf@
+@fourteen@|@fiuwertin@
+@fourteenth@|@fiuwertinda, fiuwertindosta@
+@fourth@|@fiarda@
+@fourty@|@fiuwertich@
+@fourty-four@|@fiu(w)er and fiu(w)ertich@
+@foward@|@forth@
+@fraternity@|@jelde-@
+@free@|@fri@
+@free citizen@|@etherling@
+@free citizenship@|@etheldom@
+@free from@|@fre, lesa, lethoch@
+@free man@|@friling, frimon@
+@freedom@|@fridom, frihals@
+@freeman@|@husing, husmon@
+@fresh@|@fersk@
+@frisian@|@frisesk@
+@Frisian@|@Frisa@
+@frisian law@|@friseskriucht@
+@from@|@et, fon@
+@from Cologne@|@agripinisk@
+@front part of the mouth@|@farahaved@
+@frost@|@forst@
+@fulfil@|@dwa, fullia, lasta@
+@fully@|@ful@
+@furniture@|@ingod@
+@further@|@ores@
+@gain from someone@|@-awinna@
+@garden@|@hof@
+@gate@|@-porte@
+@gather@|@gaduria@
+@genus@|@slachte@
+@get@|@hebba@
+@gift@|@jeve, mide@
+@give@|@jeva@
+@given@|@hwante@
+@gladly@|@jerne@
+@glow@|@gled@
+@glowing@|@gland@
+@go@|@gunga, hlapa@
+@go around@|@bigunga@
+@God@|@god@
+@gold@|@goud@
+@golden@|@gelden@
+@good@|@god, goed@
+@goods@|@god@
+@grandfather@|@aldafeder@
+@granmother@|@aldemoder@
+@grant@|@lidszia@
+@grasp@|@-fang@
+@grasping of the hair@|@faxfang@
+@grass@|@gers@
+@grave@|@gref@
+@great@|@grat@
+@great-grandfather@|@edila@
+@Greece@|@Kreklond@
+@green@|@grene, grien@
+@ground@|@grund@
+@guarantee@|@waria@
+@guardian@|@-mond@
+@guardianship@|@mundelinge@
+@guild@|@jolde@
+@guilty@|@-skeldiges, skeldech@
+@haematoma@|@blodrisne@
+@hair@|@fax-, her@
+@half@|@half@
+@hammer@|@slein-@
+@hand@|@hond@
+@hang@|@hongja, hwa@
+@happen@|@biskia, risa, skia, wesa@
+@hare@|@*hasa@
+@harm@|@leth, skatha@
+@has@|@hebbere@
+@has he not@|@neththere@
+@hat@|@hod@
+@hatred@|@nith@
+@have@|@hebba@
+@have a synodical court@|@sinuthia@
+@have not@|@nebba@
+@have to@|@aga, thurva@
+@having a certain shape@|@-den@
+@having a harelip@|@hasskerd@
+@having free citizenship@|@ethele@
+@having sworn an oath@|@-ethoch@
+@he@|@-i, er, hi, hine, his, hit@
+@he not@|@hine@
+@head@|@hafd, haved@
+@headransom@|@havedlesene@
+@heap@|@hap@
+@hear@|@hera@
+@hearing@|@here@
+@heart@|@hirte@
+@hearth@|@hirth-@
+@heat@|@hete@
+@heathen@|@hethen, hethin@
+@heaven@|@himul@
+@heavy@|@swer@
+@heir@|@erva@
+@hell@|@hille@
+@helmet@|@helm@
+@help@|@bihelpa, helpa, helpe@
+@help oneself@|@bithanka@
+@her@|@hiri@
+@here@|@hir@
+@hereditary property@|@londethele@
+@herein@|@hiron@
+@heritage@|@lava@
+@high@|@hach, hage, har, stap@
+@hill@|@-worth@
+@him@|@ene, hine@
+@himself@|@-ne@
+@hireling@|@wonire@
+@his@|@sin@
+@hit@|@slei-@
+@hit into@|@insteta@
+@hold@|@behalda@
+@hole@|@hol@
+@holy@|@helech, helich@
+@holy chrism@|@kersoma@
+@holy mass@|@misse@
+@home@|@hem-@
+@hometown@|@hem-@
+@homicide@|@benethe, dathdolch@
+@honey@|@hunig@
+@honour@|@ere, eria@
+@-hood@|@-nese@
+@hoof@|@hof@
+@horn@|@horn@
+@horse@|@hars, wegk@
+@hostility@|@feithe@
+@hot@|@het@
+@house@|@flet-, hus, husia@
+@how@|@hu@
+@how not@|@net@
+@however@|@thach@
+@human@|@mannesklik@
+@Hun@|@Huna@
+@hundred@|@hundred@
+@Hungary@|@Ungeron@
+@hunger@|@hunger@
+@I@|@ik@
+@if@|@alsa, jef, tha@
+@if one@|@jefma@
+@ill-@|@won-@
+@illegal@|@raflike@
+@illegal confiscation of land@|@londraf@
+@immediately@|@son@
+@important@|@hach@
+@in@|@a, an, ana, and, anna, et, et, in, inne, to@
+@in a puddle@|@apol@
+@in accordance with the law@|@afte@
+@in any case@|@a@
+@in broad daylight@|@domliacht@
+@in fear of@|@opa@
+@in front of@|@afara@
+@in pieces@|@atwa@
+@in the middle of@|@midda@
+@in the same way@|@alsaden@
+@in this way@|@aldus@
+@in two@|@to-@
+@in vain@|@idle@
+@incest@|@swesbed@
+@increase@|@aka@
+@indebted@|@skeldich@
+@inhabitant of Rustringen@|@Riostring@
+@inheritance of a relative@|@swesdel@
+@inherited land@|@erve@
+@injure@|@skatia@
+@injury of the neck@|@halswerdene@
+@inland@|@ova@
+@inland waterways@|@inwetir@
+@inside in@|@binna@
+@internal mutilation@|@inlemithe, inwerdene@
+@intestines@|@inrif@
+@into@|@inna@
+@invite@|@lathia@
+@iron@|@isern@
+@is@|@is@
+@is he@|@isi@
+@is he entitled to@|@hagere@
+@is it@|@ist@
+@is not@|@nis@
+@island@|@a, alond@
+@Israeli@|@israhelisk@
+@it@|@his, hit@
+@jaw@|@sthiake@
+@jedge@|@dema@
+@jest as@|@allesa@
+@Jew@|@Jotha@
+@jewelry@|@gold@
+@journey@|@-fere, ferd@
+@judge@|@redgeva, redieva, redskipi@
+@judgement@|@-demnese@
+@judgment@|@dom@
+@juridical district@|@del@
+@just@|@godilik@
+@justice@|@ni@
+@keep@|@bihalda, hebba@
+@keep in possession@|@bisitta@
+@kettle@|@sthitil@
+@key@|@sletel@
+@kill@|@sla@
+@king@|@kining@
+@king of the earth@|@irthkining@
+@kingdom@|@kinigrike, rike@
+@knife@|@sax@
+@knight@|@kniucht, riddere@
+@knock@|@steta@
+@know@|@-kanna, weta@
+@known@|@-kuth@
+@lame@|@lom@
+@land@|@-lende, lond@
+@land from an inheritance left to the church@|@boklond@
+@landish@|@-lende@
+@lap@|@skat@
+@last@|@lest@
+@later@|@eft, letora@
+@latitude@|@-brede@
+@law@|@a-@
+@law of a land@|@londriucht@
+@law-sayer@|@asega, asiga@
+@lay down@|@lidszia@
+@layman@|@leia@
+@lead@|@lad, leda@
+@leader@|@-ledene@
+@leader of a group of warriors@|@folkledere@
+@leadership@|@-ledene@
+@leads he@|@lattere@
+@leads them@|@lattese@
+@learn@|@lirnia@
+@leave@|@leva, swika@
+@leave behind@|@-ervia@
+@leaves@|@laf@
+@leg@|@ben@
+@legal magistrate@|@skeltata@
+@legal term@|@dithing@
+@legally@|@riuchte@
+@-legged@|@-skinzie@
+@legitimate@|@stalle@
+@less@|@lessa, min@
+@-less@|@las@
+@let@|@leta@
+@lete@|@let@
+@letter concerning a ban@|@bref@
+@level@|@-brede@
+@lie@|@-liaga@
+@lie down@|@lidsia@
+@life@|@lif@
+@light@|@-liacht@
+@like@|@alsa, likia@
+@limits established by compromise@|@sonswiththe@
+@lip@|@lippa, were@
+@little finger@|@slutere@
+@live@|@libba@
+@lobe@|@flarde@
+@lock@|@slot-@
+@lock up@|@besluta@
+@long@|@long, longe@
+@longer@|@langor@
+@loose@|@las@
+@lord@|@hera@
+@lord-God@|@drochten@
+@love@|@minnia@
+@lung@|@lungene@
+@-ly@|@-lik@
+@maintain@|@hebba@
+@make@|@makia@
+@make an accusation@|@wreia@
+@make even@|@ivenia@
+@make worse@|@ergeria@
+@making of the the sign of the cross@|@sinunge@
+@maltreatment@|@soldede@
+@man@|@mon, wer@
+@manslaughter@|@monslaga@
+@many@|@monich@
+@married couple@|@hiona, sinhigen@
+@marry@|@halia@
+@master@|@mastere@
+@may@|@muga@
+@may be@|@mire@
+@may one@|@mima@
+@me@|@mi@
+@meadow@|@fenne@
+@mean@|@-teknia@
+@measure@|@meta, mete@
+@measure-wound@|@metedolch, metewunde@
+@meet@|@meta@
+@member@|@lith@
+@membrane@|@-brede@
+@merchandise@|@were@
+@mercy@|@helde, nathe@
+@midriff@|@midrith@
+@-mighty@|@-machtich@
+@milk@|@melok@
+@mint@|@menote@
+@mintage@|@slachta, slek@
+@mintmaster@|@menotere@
+@minus@|@buta@
+@monastery@|@klaster@
+@money@|@jeld@
+@more@|@mar, marra@
+@more inside@|@inra@
+@most beautiful@|@allera-skenast@
+@most behind@|@eftrost@
+@most inside@|@inrost@
+@most middle@|@midlost@
+@mother@|@moder, modire-@
+@mother's brother@|@em@
+@mountain@|@berch@
+@moustache@|@kenep@
+@mouth@|@muth@
+@movables@|@fia@
+@much@|@felo, hach@
+@mud@|@wase@
+@multilated@|@gersfalle@
+@murder@|@-slaga, morth@
+@murderer@|@bon-, bona-, bonahond@
+@murderous@|@bondedoch@
+@mutilated limb@|@steblith@
+@mutilation@|@gersfal, hemilinge, homoligne, stemplinge@
+@mutilation of a tendon@|@sinuwerdene@
+@mutilation of the speech@|@sprekwerdene@
+@mutilation to the head@|@havedlemithe@
+@my@|@min@
+@nail@|@neil, nil@
+@name@|@nona@
+@nearer@|@niar@
+@neck@|@hals@
+@need@|@ned@
+@neighbour@|@bur@
+@neither@|@nach, ni@
+@never@|@na, nammer@
+@never again@|@nammermar@
+@new@|@ni@
+@next@|@nest@
+@night@|@nacht@
+@nightly arson@|@nachtbrond@
+@nightly theft@|@nachtthiuvethe@
+@nine@|@nigun, niugum@
+@nineteenth@|@niuguntinda@
+@ninth@|@niugunda@
+@none@|@nanen, nen@
+@none of both@|@nahwedder@
+@nor@|@ne@
+@north@|@north@
+@Northman@|@northmon@
+@nose@|@nosi@
+@nostril@|@dom, nostern@
+@not@|@nawet@
+@not grow or become@|@nertha@
+@not guilty@|@sikur@
+@nothing@|@nawet@
+@now@|@nu@
+@oath concerning movable property@|@fia-eth@
+@oath confirming criminal deeds@|@dedeth@
+@obedient@|@-here, harsum@
+@obey@|@dwa@
+@obligatory public lawsuit@|@bodthing@
+@obliged to@|@plichtich@
+@occur@|@biskia@
+@of@|@an, of@
+@of all@|@allera@
+@of bone@|@benen@
+@of stone@|@stenen@
+@of the world@|@wraldlik@
+@offer@|@biada@
+@office@|@eth@
+@official@|@riucht@
+@official statement@|@hliene, lhiene@
+@old@|@ald@
+@Oldensum@|@Aldeson@
+@older@|@aldir-@
+@omentum@|@nette@
+@on@|@an, ana, anna, et, to@
+@one@|@en, ma@
+@one him@|@mam@
+@one hundred@|@hundred@
+@one it@|@mat@
+@one or another@|@sumilik@
+@one shall@|@motma@
+@only@|@enich@
+@open@|@epen@
+@or@|@jef, jeftha@
+@ordeal@|@ordel@
+@order@|@-fela, bifela, bon@
+@orphan@|@wesa@
+@other@|@or, other@
+@otherwise@|@otheres@
+@ought one@|@hachma@
+@ounce@|@enze@
+@our@|@use@
+@out@|@a-, buta, ut, wth@
+@outlawed@|@fach@
+@outside@|@buta@
+@over@|@et, inur, ur@
+@over-@|@ur-@
+@over; after@|@efter@
+@own@|@?????¢, ain, ein, eyn, hebba, sundroch@
+@owtlawed@|@frete@
+@pain@|@pine@
+@-pan@|@-ponna@
+@paralysis@|@lemithe@
+@paralysis of the back@|@reglemithe@
+@parents@|@aldera@
+@part of the wergild to be paid by the relatives@|@mantele@
+@partial loss of sight@|@starublind@
+@partition@|@-rede@
+@partly@|@sum@
+@patriarch@|@patriarcha@
+@pay@|@fulbranga, jelda, reka@
+@pay a fine@|@beta@
+@pay compensation@|@frethia@
+@peace-money@|@frethopanning@
+@-ped@|@-fote@
+@penalty@|@bote@
+@penance@|@bote@
+@penetration@|@-kimi@
+@penny@|@panning@
+@people@|@folk, liod, liodakere, liode, liodthing, thiade@
+@people's safety@|@liodfretho@
+@people's statue@|@liodkest@
+@percieve@|@bisia@
+@perform@|@dwa, fremma@
+@perjury@|@meneth@
+@permission@|@orlof@
+@persecute@|@wreka@
+@person who is fasting@|@-festere@
+@piece@|@ende@
+@-pile@|@-pal@
+@pile as part of a sheetpiling@|@apal@
+@pilgrim@|@pilugrim, walubera, walubora@
+@pilgrim to the Holy Land@|@palmere@
+@place@|@steth@
+@place a blockade of banks of osier and sand@|@-tena@
+@pledge@|@wed@
+@plough@|@ploch@
+@ploughshare@|@sker@
+@pointed to@|@-hald@
+@pool@|@pol@
+@poor@|@blat, erm@
+@Pope@|@paus@
+@possess@|@bisitta@
+@possessions@|@have, were@
+@pouing@|@swang@
+@pound@|@pund@
+@power@|@herskipi@
+@practice@|@ofnia, ovonia@
+@prefix adding negative meaning@|@mis-@
+@premises@|@hof@
+@pretty@|@skene@
+@priest@|@godismon, papa, prestere@
+@privans@|@e-@
+@privilege@|@jeft@
+@proclaim@|@-meldia, bonna, ketha@
+@proof@|@-skininge@
+@proof of force@|@nedskininge@
+@property@|@-garda, biervia, have@
+@prophet@|@profeta@
+@prosecutor@|@werere@
+@prossecute@|@bitegia@
+@protect@|@-skirma, biskirma, halda@
+@proven@|@jechtich, jechtichlike@
+@publicly known@|@liodkuth@
+@puddle@|@pet@
+@punish@|@biwrogia@
+@purse@|@-gerdel, birgerdel@
+@push@|@skuva@
+@push foward@|@tia@
+@push in two@|@atwasteta@
+@quadruped@|@fiarfote@
+@raid@|@hirigong@
+@ransom@|@lesene@
+@rape@|@nedmonda@
+@ready@|@rede@
+@realm of heaven@|@himulrike@
+@receive@|@hebba@
+@reckless@|@dol-@
+@recklessnes@|@dolstrid@
+@recognize@|@bikanna, ja@
+@reconciliation@|@sone@
+@red@|@rad@
+@redeem@|@fella@
+@refuse@|@foriwerna, werna@
+@related@|@sibbe, swes@
+@relationship@|@sibbe@
+@relative@|@-kniling, -mech, friond@
+@relative of father's line@|@federmech@
+@relative of the same degree@|@ivinkniling@
+@relics@|@helega, heliga@
+@religious feast@|@hachmat@
+@religious fraternity@|@joldskipi@
+@remote@|@biefta@
+@representative@|@sendeboda@
+@representative of the count@|@frana@
+@request@|@bede@
+@requiring a single fine@|@enbete@
+@requiring compensation@|@frethfest@
+@resonable@|@nathelik@
+@responsability@|@plicht@
+@rest@|@resta@
+@rib@|@rib@
+@rich@|@rike@
+@right@|@ferra, riucht@
+@ring@|@hop@
+@rise@|@steka, stiga@
+@roast@|@breda@
+@rob@|@beravia, biravia@
+@Roman@|@Rumere@
+@Roman (as in `Holy Roman Empire')@|@rumisk@
+@Rome@|@Rume@
+@Rome-pilgrim@|@rumere, rumfara@
+@rope@|@-leine, havedleine@
+@rule@|@walda@
+@run@|@hlapa, runna@
+@Russia@|@Ruszlond@
+@Rustringen@|@Riostringalond@
+@sacrifice@|@opper-@
+@safety@|@fretho@
+@safety for soldiers@|@hirifretho@
+@safety in church@|@stherekfretho@
+@safety of a guild@|@joldfretho@
+@safety of a house@|@husfretho@
+@safety plough@|@plochfretho@
+@saint@|@sancte@
+@Saint Michael@|@Michahelesdi@
+@sale@|@kap@
+@salt@|@salt@
+@same@|@lik@
+@satisfaction@|@thonk@
+@sayer@|@-sega@
+@scaffold@|@stapul@
+@scar@|@-septha@
+@scissors@|@skere@
+@sea@|@hef, se@
+@second@|@other@
+@secret crime@|@morthdele@
+@secure@|@sikuria@
+@see@|@bisia, sia@
+@seize@|@fa, gripa@
+@self defence@|@nedwere@
+@self-defence@|@nedwiri@
+@send@|@senda, sentha@
+@sense@|@sin@
+@sense of smell@|@hrene@
+@sentence@|@domia@
+@separated@|@skif@
+@septum@|@dom@
+@serf@|@let, lethslachta@
+@serious crime@|@haveddede@
+@servant@|@shalk@
+@servant in court@|@bonnere@
+@serve@|@thiania@
+@set@|@setta@
+@set free@|@lethogia@
+@seven@|@sigun@
+@seven and a half@|@achtandahalf, achtundahalf@
+@severe@|@hach@
+@sexual intercourse@|@-monda@
+@shake@|@bevia@
+@shall@|@skila@
+@sharp@|@skadu-@
+@sharp weapon@|@skaduwepin@
+@shawl@|@halsdok@
+@she@|@se@
+@she it@|@hiut@
+@she them@|@hiusse@
+@shield@|@skeld@
+@shilling@|@skilling@
+@shine@|@skina@
+@shiny@|@hwit@
+@ship@|@skip@
+@-ship@|@-skipi@
+@shoot@|@skiata@
+@shore@|@over@
+@short@|@kort@
+@shrine@|@skrin@
+@sick@|@siak@
+@side@|@halve, side@
+@side of a ship@|@bord@
+@sight@|@sione, siucht@
+@sign@|@teken@
+@signify@|@biteknia@
+@silver@|@selover@
+@sin@|@sende@
+@single@|@enfald@
+@sinodical court@|@synuth@
+@sister@|@swester@
+@sister in a religious guild@|@jedelswester@
+@sit@|@sita@
+@situation@|@legor@
+@six@|@sex@
+@skin@|@fel@
+@skin of the head@|@swarde@
+@sleep@|@slepa@
+@small@|@klene@
+@smell@|@hrena@
+@snatching@|@-strewene@
+@snatching a woman@|@wifstrswene@
+@so@|@alsa, asa@
+@so far@|@alsafir@
+@sod clod@|@satha@
+@something@|@auwet@
+@son@|@sunu@
+@son of a brother of the mother@|@emessunu@
+@son of father's brother@|@fidiransunu@
+@son of father's sister@|@fethansunu@
+@song@|@song@
+@son-in-law@|@athom@
+@soul@|@sele@
+@sound-@|@klip-@
+@southern@|@suther@
+@spade@|@spada@
+@speak@|@quetha, reda@
+@spear@|@-ger, kletsie, ord, spiri@
+@special@|@hach@
+@speech@|@spreke@
+@speek@|@spreka@
+@spine@|@walduwaxe@
+@spirit@|@jest-, mod@
+@spiritual@|@jestlik@
+@spittle@|@spedel-@
+@split@|@-splita@
+@split in two@|@-skerd@
+@spur@|@itsil@
+@staff-going@|@stefgong@
+@stagnant water@|@wapul-@
+@stand@|@stonda@
+@star@|@stera@
+@statement of a witness@|@hligene@
+@statue@|@kest@
+@statute@|@-keste@
+@stay@|@-liva, beliva, biliva@
+@steal@|@stela@
+@steals one@|@steltma@
+@step@|@-stepi, grad, treppe@
+@step-@|@stiap-@
+@stepfather@|@stiapfeder@
+@stick@|@stef@
+@stiff@|@stak, stef, stock@
+@stomach@|@maga@
+@stone@|@sten@
+@strand of hair@|@top@
+@strangle@|@querka@
+@stream@|@stram@
+@strechter@|@bere@
+@street@|@strete@
+@stregthen@|@sterika@
+@stride@|@-skrida@
+@struggle@|@wich@
+@stump of a limb@|@steb-@
+@sub-@|@sub-@
+@subdeacon@|@subdiacon@
+@subject to@|@heroch, niga@
+@submersion@|@-depene@
+@substitute@|@forifongere@
+@such@|@alsek@
+@suffocation@|@thampene@
+@sum@|@tele@
+@summer@|@sumur@
+@summon by law@|@bithingia@
+@sun@|@sunne@
+@sunday@|@sunnadi@
+@swear@|@biswera, swera@
+@swell@|@*-belga, swilla@
+@swine@|@swin@
+@swollen scar of a wound@|@abel@
+@sword@|@egge@
+@sworn@|@-etha, aththa@
+@synodical court@|@sinuth@
+@table@|@tefle@
+@take@|@nema, nima@
+@take away@|@bilesa@
+@take care of oneself@|@bithanka@
+@take in possession@|@nima@
+@taste@|@smek, smekka@
+@tax@|@-lotha, tegotha@
+@tax collector@|@tegothere@
+@tax for a house@|@huslotha@
+@teach@|@lera@
+@tear@|@rend@
+@tear down@|@breka@
+@tell lies@|@biliaga@
+@ten and a half@|@andloftahalh@
+@tendon@|@sini@
+@testify@|@-rethia, -tiuga@
+@testimony@|@tiuch, werde@
+@the@|@tha@
+@the act of carrying@|@-drachta@
+@the act of cutting@|@skredene@
+@the act of flowing into@|@inrene@
+@the act of tearing@|@-flecht@
+@the entering of air into a wound@|@inethma@
+@the Lord@|@paternoster@
+@the path of carrying of statues of the saints@|@helichdrachta@
+@theft@|@thiuvethe@
+@their@|@hara, hiara@
+@then@|@alder, tha@
+@thence@|@thana@
+@there@|@-der, *tha, er@
+@there on@|@altherova@
+@therefore@|@bithiu, sa@
+@thereto@|@thard@
+@they@|@se@
+@thief@|@thiaf@
+@think@|@-thanka@
+@this@|@*this (m), *thius (f), thit, Thit (n)@
+@three@|@thre (m), thria (f), thriu (n)@
+@three and a half@|@fiardahalf@
+@threshold@|@dreppelsa@
+@throat@|@strot@
+@throny@|@thornen@
+@through@|@thruch@
+@throw@|@werpa@
+@throwing somebody to the ground@|@irthfal@
+@thumb@|@haldere, thuma@
+@thunder@|@thuner@
+@thus@|@sa@
+@thus; as@|@alsa@
+@tie@|@bende, reilbende@
+@time@|@-me, stunde, tid@
+@tip@|@ordling@
+@to@|@a, an, ana, anda, anna, to@
+@to be too far@|@firia@
+@to death@|@amorth@
+@to indicate the culprit by screaming@|@bihropa@
+@to restore the dike@|@dika@
+@to that@|@til thiu@
+@to the@|@an tha, an there, anda, andere, antha@
+@to the east@|@aster@
+@toe@|@tane@
+@together@|@-semin, -semine, gadur@
+@tonge@|@tunge@
+@too@|@to@
+@tool@|@tauwe@
+@tooth@|@toth, tusk@
+@torture@|@pine@
+@town@|@-wik@
+@travel@|@fara@
+@traveller@|@-fara@
+@treasure@|@schet@
+@tree@|@bam, stock@
+@tremor@|@-bivinge@
+@tribute@|@skelde, tins@
+@tribute in cash@|@klipskelde@
+@true@|@wer@
+@tumor@|@abel@
+@turf of grass@|@turf@
+@turn@|@-wella@
+@twenty-eight@|@achttwintegosta@
+@twenty-first@|@en and twintegosta@
+@twenty-four@|@fiuwer and twintich@
+@twenty-fourth@|@fiuwer and twintigosta@
+@twenty-one@|@en and twintich@
+@two@|@twa@
+@-ty@|@-tich@
+@uncle@|@em@
+@unconsciousness@|@swima@
+@under@|@-netha, an, under@
+@undergo@|@tholia@
+@unfaithful guardian@|@balumon@
+@unless that@|@hit ne se thet@
+@until@|@-hwenne, alhwenne, til, to@
+@up-@|@up-@
+@upon@|@on@
+@us@|@us@
+@use@|@bruka@
+@useful@|@nette@
+@usher@|@bon@
+@valid@|@geve@
+@value of a currency@|@reilmerk@
+@verdict@|@riucht@
+@vernacular@|@thiode@
+@Verona's inhabitant@|@Bernere@
+@vertigo@|@-dussinge@
+@victory@|@si@
+@Viking@|@witsing@
+@Vikings@|@northhiri@
+@village@|@therp@
+@violate@|@breka, nedgia@
+@violence@|@ned@
+@violent fetter@|@nedbende@
+@violent robbery@|@nedraf@
+@virgin@|@megith@
+@visible@|@aubere@
+@visible part of the body@|@wliti-@
+@voice@|@stifne@
+@wade@|@wada@
+@wake@|@wakia@
+@walk@|@hlapa@
+@wall@|@mure, wach@
+@wander@|@wondria@
+@want not@|@nella@
+@-wards@|@-wardich@
+@was not@|@nas@
+@waste@|@woste@
+@watching the dikes@|@dikaldirmon@
+@water@|@a@
+@way@|@gong, wei@
+@ways@|@weigar@
+@we@|@wi@
+@weapon@|@wepin@
+@weather@|@weder-@
+@week@|@wike@
+@weight@|@wicht@
+@well@|@wel@
+@western@|@westa@
+@wet@|@wet@
+@what ever@|@hwet@
+@whatever@|@hwelik, hwelikera honda@
+@wheel@|@reth@
+@when@|@alsa, asa, tha, wannear@
+@whence@|@hwana@
+@whence it@|@hwanat@
+@where@|@hwer@
+@where ever@|@hwersa@
+@where to@|@hweron@
+@whereafter@|@alderefter@
+@wherever one@|@hweesama@
+@whether@|@hwedder, tha@
+@which@|@hwet@
+@white@|@hwit@
+@Whitsuntide@|@pinkostra-@
+@who of both@|@hweddersa@
+@whoever@|@hwek@
+@whoever him@|@hwasa@
+@wholly@|@al, elle@
+@width@|@-brede@
+@wild@|@wilde@
+@win@|@winna@
+@wind@|@wind@
+@window@|@andern, audern@
+@winter@|@winter@
+@with@|@an, mithi@
+@with double fine@|@-bete@
+@with the help of@|@mith@
+@without@|@buta, las, oni, sunder@
+@without a fine for breach of the peace@|@efrethe@
+@without compensation@|@frethlas@
+@without leader@|@havedlas@
+@without the obligation to pay@|@jeldlas@
+@woman@|@frowe, wif@
+@word@|@-warde@
+@work@|@werk@
+@world@|@wrald@
+@worth@|@-werdene@
+@wound@|@?, blodgia, dolch, inskathinge, wunde, wundia@
+@wound a person who fled into a house@|@indwa@
+@wound in the belly@|@bukwunde@
+@wound in the breast@|@brustwunde@
+@wrinkle@|@lesoke@
+@write@|@skriva@
+@writer@|@skrivere@
+@wrong@|@erge@
+@wrongly@|@mis-@
+@yard@|@hof, jerde, jerdik@
+@year@|@jer@
+@yearly fasting@|@jerfeste@
+@you@|@thi, thu@
+@young@|@jung@
+@your@|@thin@
+

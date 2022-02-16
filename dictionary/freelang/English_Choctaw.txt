@@ -1,0 +1,575 @@
+@English@|@Choctaw@
+@Author name@|@Michiko Arima / Chris@
+@Font@|@Arial\12\Arial\12@
+@a lot@|@laua@
+@a spring@|@kali@
+@a. large@|@chito@
+@a. six@|@hannali@
+@after awhile@|@alhchiba mA@
+@afternoon (towards evening)@|@okbiyaka pila@
+@again (with verbs)@|@anOti@
+@Alabamu@|@Halbamo@
+@all@|@momma@
+@all right@|@vlhpesa@
+@almost@|@Ahosi@
+@along with@|@awant@
+@alongside@|@abaiyat@
+@also@|@aiena, akIli@
+@and@|@aiena, anOti, micha, michah@
+@And you?@|@Chishnato@
+@answer@|@anumpa falamichi, anumpa flama@
+@arrive there; go there (dual)@|@itonachi@
+@arrive there; go there; reach@|@ona@
+@arrive there;go there (plural)@|@aiona@
+@ash tree@|@shinap@
+@ashes@|@hittok@
+@at the side of@|@apotaka@
+@baby@|@vllOsi@
+@bacon; pork@|@shukha nipi@
+@bad@|@okpulo@
+@bag@|@bahta@
+@bake@|@paska@
+@ball game@|@toli@
+@base@|@akishtvla@
+@bath room@|@aboha ayupi@
+@bean@|@tohbi@
+@bear@|@nita, nitah@
+@beautiful@|@aiukli@
+@beaver@|@kIta@
+@because@|@atokO@
+@bed@|@anusi, topah@
+@bed room@|@aboha anusi@
+@bee@|@foe, fowi@
+@beef@|@wak nipi@
+@behind@|@Ashaka@
+@berry@|@bissa@
+@beside@|@apotaka@
+@big@|@chito@
+@Biloxi@|@Biloksi@
+@bird@|@hoshi@
+@bison@|@yvnnvsh@
+@bitter@|@homi@
+@black@|@lusa@
+@blackbird@|@fala@
+@blue@|@okchakko, okchamali@
+@blue-green@|@okchakko, okchamali@
+@boil@|@honi@
+@book@|@holisso@
+@boy@|@vllanakni@
+@bread@|@palvska@
+@bright green or bright blue@|@okchvko@
+@brook@|@bok@
+@brown@|@lakna@
+@buffalo@|@yanash@
+@bush@|@shawwa@
+@buzzard@|@shiki@
+@camphouse@|@binah@
+@cat@|@katos@
+@ceiling@|@aboha pakna@
+@chair@|@abinili@
+@Cherokee@|@Chilakki@
+@Chickasaw@|@Chiksa@
+@Chickasha@|@Chiksa@
+@chiken@|@akAka@
+@child@|@alla, vlla@
+@Choctaw@|@Chahta@
+@chompa; chumpa@|@buy@
+@church@|@aiitvnaha@
+@cliff@|@sakti@
+@closed@|@vlhkvma@
+@cogitate@|@anukfilli@
+@cold@|@kapassa, kapvssa@
+@come and@|@ant@
+@commonly@|@bieka@
+@container@|@aivlhto@
+@cook@|@hoponi@
+@cooked@|@holhponi@
+@cooked food@|@holhponi@
+@corn@|@tanchi@
+@cornmeal@|@tanch bota@
+@correct@|@vlhpesa@
+@cost@|@vlhtoba@
+@Coushatta@|@Koshatta@
+@cow@|@wak@
+@Creek@|@Mashkoki@
+@creek (small river)@|@bokushi@
+@cup; glass@|@ishtishko@
+@custom@|@aiyamohmi@
+@cut in two@|@tapa@
+@dark@|@losbi@
+@darkness@|@oklhili@
+@day@|@nittak@
+@day after tomorrow@|@mishshakma@
+@day before yesterday@|@mishash@
+@deep place@|@ahofobi@
+@deer@|@issi@
+@detained (group 2)@|@ataklama@
+@dew@|@fichaw@
+@'direction away from speaker'@|@et@
+@dirt@|@lokfi@
+@district@|@olhti@
+@doctor@|@alikchi@
+@dog@|@ofi@
+@domesticated animal@|@vlhpoa@
+@door@|@okhisa@
+@downwards@|@akka@
+@duck@|@okfochush@
+@dusk@|@oklhilahpi@
+@dwelling place@|@aiasha@
+@each@|@ayuka, ayukali@
+@eagle@|@onsi@
+@eat@|@apa@
+@eating place@|@aiimpa@
+@eating utensils@|@ishtimpa@
+@egg@|@akAkushi@
+@eight@|@ontochchina@
+@eighteen@|@awah ontochchina, awah ontuchena@
+@eighty@|@pokkoli ontochchina@
+@eleven@|@awah achvffa, awahchaffa@
+@embarrassed@|@anuktuklo@
+@erect@|@apissa@
+@evening@|@okbiyaka@
+@exist; live (plural) (Asha- to be located)@|@asha@
+@expect@|@ahma@
+@fall (first of winter)@|@hashtolahpi@
+@fat@|@nia, niya@
+@fat; lard; grease@|@bila@
+@female@|@tek, tik@
+@fifteen@|@awah talhapi, awah talhlhapi@
+@fifty@|@pokkoli talhlhapi@
+@fish@|@nani@
+@five@|@talhlhapi@
+@flower@|@napakAli@
+@folded@|@polha@
+@food@|@ilhpak@
+@foot@|@iyyi@
+@forest undergrowth@|@abohli@
+@forty@|@pokkoli oshta@
+@four@|@oshta, ushta@
+@fourteen@|@awah oshta@
+@fox@|@cholah@
+@Friday@|@Flaiti@
+@fruit; produce@|@nawaya@
+@full (after eating)@|@kayya@
+@fur@|@hishi@
+@furnish; provide@|@atahli@
+@gashed@|@basha@
+@gather things up (plural obj.)@|@aiowa@
+@girl@|@vllatek@
+@go@|@ia@
+@go along@|@Aya@
+@go past here@|@ant ia@
+@go past there@|@ont ia@
+@go; go in a group (plural)@|@ilhkoli@
+@go; go together (dual)@|@itiachi@
+@goat@|@issi kosoma@
+@good@|@achukma@
+@grass@|@hashshok@
+@green@|@okchakko, okchamali@
+@green; grey@|@okchvmali@
+@grubworm@|@yalah@
+@habitually live@|@ahanta@
+@hair@|@hishi@
+@hand@|@ibbak@
+@handsome@|@aiukli@
+@hang around@|@vttat Aya@
+@hard@|@kallo, kvllo@
+@head hair@|@panshi@
+@heavy@|@wiki@
+@hello@|@halito@
+@help@|@apela@
+@hem@|@afohommi@
+@here@|@ilvppa, pA@
+@hide@|@aluma@
+@high@|@chaha@
+@hill@|@nanih@
+@hog@|@shoka@
+@hole@|@chiluk@
+@hope@|@ahma@
+@horse@|@sobah@
+@hospital@|@abeka aiashachi@
+@hot@|@lashpa, lvshpa@
+@hour (sun movement)@|@hashi kanalli@
+@house@|@chokka, chukka@
+@How are you?@|@Chim-achukma@
+@how?@|@katiomi?@
+@however@|@amba@
+@huge@|@chieto@
+@hungry@|@hochvffo@
+@ice@|@okti@
+@I'm fine too@|@Ashukma akIli@
+@imagine@|@anukfilli@
+@in@|@anuka@
+@in back of@|@Ashaka@
+@inside@|@anuka@
+@interpret@|@anumpa tusholit hochefo@
+@it is so@|@ome@
+@juice@|@okchi@
+@Just fine@|@Achukmahoke@
+@kettle@|@asonik@
+@kicked@|@halha@
+@kitchen@|@ahoponi@
+@knoll@|@bokkoh@
+@lamp@|@pala@
+@last night@|@ninakash@
+@light weight@|@shohhala@
+@little@|@iskitini, osi@
+@live (singular)@|@vtta@
+@live (somewhere) (dual) (Ashwa-to be located)@|@ashwa@
+@long@|@falaya@
+@lower end@|@akishtvla@
+@make@|@ikbi@
+@male@|@nakni@
+@man@|@hattak@
+@manner@|@aiyamohmi@
+@many@|@laua@
+@marrow@|@lopi@
+@meal@|@illimpa@
+@meat@|@nipi@
+@metal container@|@asonik@
+@milk@|@pishokchi@
+@Monday@|@Manti@
+@money@|@iskvli@
+@morning@|@onnahinli@
+@mouse@|@pIti@
+@move out from@|@akucha wiha@
+@mud@|@lokchok@
+@Muskogee@|@Mashkoki@
+@my brother (only spoken by females)@|@Anakfi@
+@my daughter@|@sioshitek, siushitek@
+@my daughter(my sister's daughters spoken by female@|@amvllatek@
+@my daughter-in-law@|@sappok ohoyo@
+@my father (his brothers@|@Aki@
+@my father-in-law (of male)@|@sappochi, sappokchi@
+@my father's sister@|@Ahokni@
+@my granddaughter@|@sappoktek@
+@my grandfather (and woman's father-in-law)@|@amafo@
+@my grandmother@|@sapokni@
+@my grandson@|@sappoknakni@
+@my husband@|@Ahattak@
+@my mother (her sisters@|@hvshki@
+@my mother's oldest brother@|@amoshi@
+@my older brother (spoken by male)@|@amvnni@
+@my older sister (spoken by female)@|@amvnni@
+@my sibling (same mother)@|@satibapishi@
+@my sister (only spoken by males)@|@Atek@
+@my son@|@sioshi, siushi@
+@my son (my brother's sons when spoken by male)@|@amvlla@
+@my wife@|@satikchi@
+@my younger brother (of male)@|@sanakfish@
+@my younger sister (of female)@|@sanakfish@
+@n. creek@|@bok@
+@n. man@|@hatak@
+@n. red@|@humma@
+@n. water@|@oka@
+@n. wood@|@iti@
+@nearly@|@Ahosi@
+@nest@|@vlhpichik@
+@new@|@himona, inla@
+@news@|@anumpa@
+@next@|@achAka@
+@night@|@ninak@
+@nightfall@|@oklhili@
+@nine@|@chakkali@
+@nineteen@|@ahpi chakkali, vbi chakkali@
+@ninety@|@pokkoli chakkali@
+@no@|@keyu@
+@noon@|@tobokoli@
+@not@|@keyu, kiyo@
+@nurse@|@abeka apisachi@
+@old@|@sipokni@
+@once@|@himonah mA@
+@one@|@achaffa, achvffa@
+@one hundred@|@talhipa chaffa@
+@one thousand@|@talhipa sipokni@
+@opossum@|@shukvta@
+@Osage@|@Wishashi@
+@owl@|@opa@
+@pale@|@hata@
+@pan@|@asonik@
+@passageway@|@achukkoa@
+@path@|@anowa@
+@peanut butter@|@bahpo@
+@people@|@okla@
+@pick up@|@ishi@
+@pig@|@shukha@
+@plate@|@ampo@
+@potato@|@ahi@
+@potatoe@|@ahe@
+@pre-dawn@|@onnahinli@
+@prepared@|@vlhtaha@
+@proper@|@vlhpesa@
+@Quapaw@|@Okahpa@
+@rabbit@|@chukfi@
+@racoon@|@shaui, shawi@
+@rain@|@omba@
+@read@|@aiitimanumpoli@
+@read orally@|@anumpa tusholit hochefo@
+@ready@|@vlhtaha@
+@really@|@aiAlhi@
+@red@|@homma@
+@reddish-brown@|@homakbi, hummakbi@
+@refuge@|@aiasha@
+@residence@|@aivtta@
+@restroom@|@abohushi@
+@return here@|@ala@
+@right now@|@himonasi@
+@river@|@bok@
+@road@|@hina@
+@rock@|@tali@
+@room@|@aboha@
+@rope@|@aseta@
+@run@|@balili@
+@salt@|@hapih@
+@sand@|@shinok@
+@sappok@|@my son-in-law@
+@Saturday (Sunday's Little Brother)@|@Nittak Hollo Nakfish@
+@scatter@|@fimmi@
+@school@|@holisso apisa@
+@scrutinize@|@achukmat pisa@
+@seat@|@abinili@
+@Seminole@|@Simanoli@
+@settle people@|@aioklvchi@
+@seven@|@ontoklo@
+@seventeen@|@awah ontoklo, awah ontuklo@
+@seventy@|@pokkoli ontoklo@
+@shaman prophet@|@alikchi hopaii@
+@Shawnee@|@Shawano@
+@sheep@|@chukfi@
+@shelf@|@ataloha@
+@shoe@|@sholosh@
+@short (in length)@|@yoskololi, yushkololi@
+@short (in stature)@|@kowasha@
+@short (not long)@|@iskololi@
+@short (not tall)@|@kawasha@
+@shuck bread@|@banaha@
+@sick@|@abeka@
+@sing@|@taloa@
+@sit; sit down; be seated@|@binili@
+@six@|@hvnnali@
+@sixteen@|@awah hannali, awah hvnnali@
+@sixty@|@pokkoli hannali@
+@skunk@|@koni, konih@
+@sleepingplace@|@anusi@
+@slow@|@svlaha@
+@slowly@|@silvha-hosh@
+@small@|@ossi@
+@snake@|@sIti@
+@so it was@|@atukO@
+@somehow@|@akinimi@
+@somewhat@|@chohmi@
+@sons of his sisters)@|@Aki@
+@sort of@|@chohmi@
+@sour@|@hauvshko@
+@speak@|@anumpoli@
+@speech@|@anumpa@
+@spring (first of summer)@|@toffahpi@
+@squirrel@|@fani@
+@star@|@fichik@
+@starving@|@hochvffo@
+@stick@|@iti tvpa@
+@still@|@momma@
+@stopped up@|@vlhkvma@
+@straight@|@apissa@
+@strange@|@inla@
+@strong@|@lhamko, lhampko@
+@succeeding@|@achAka@
+@summer@|@toffa@
+@sun@|@hashi@
+@Sunday (Sacred Day)@|@Nittak Hollo@
+@sunrise@|@hashi kocha@
+@sunset@|@hashi okattola@
+@surely@|@Alhi@
+@surface@|@apaknali@
+@sweet@|@champuli, champuli@
+@table@|@aiimpa@
+@take@|@ishi@
+@talk@|@anumpoli@
+@tall@|@chaha@
+@tasty@|@champuli@
+@ten@|@pokkoli@
+@thank you@|@yakoke, yokoke@
+@that@|@mA, mat, yvmma@
+@there@|@mA, yvmma@
+@there is...(something alive)@|@anta@
+@thick@|@sokko@
+@thin; skinny@|@chunna@
+@think about@|@anukfilli@
+@thirteen@|@awah tochchina, awah tuchena@
+@thirty@|@pokkoli tochchina@
+@thirty-four@|@pokkolitochchina akohcha oshta@
+@this@|@ilvppa, pA@
+@this summer@|@himmak toffa@
+@this year@|@himmak afammi@
+@thither@|@pit@
+@thought@|@anukfila@
+@three@|@tochchina, tuchena@
+@three hundred@|@talhipa tochchina@
+@Thursday@|@Lhasti@
+@tired@|@tikabi, tikahbi@
+@to act@|@akaniohmi@
+@to approve@|@ahnichi@
+@to arrive here@|@aivla, vla@
+@to ask for@|@asilhha@
+@to be arriving there@|@onna@
+@to be bigger@|@chinto@
+@to be boiled@|@honni@
+@to be closed@|@akama@
+@to be cutting@|@tambli@
+@to be fast@|@palhki@
+@to be finished@|@taha@
+@to be full@|@alota@
+@to be hidden@|@aluma@
+@to be in my pocket@|@am-Alhto@
+@to be inside@|@fokka@
+@to be kicking@|@hambli@
+@to be loated@|@anta@
+@to be located@|@anta@
+@to be made from@|@atoba, atoba@
+@to be outside@|@kochcha@
+@to be the biggest@|@chieto@
+@to be troubled@|@ataklama@
+@to beg@|@asilhha@
+@to begin to run@|@balilit ishtia@
+@to beseech@|@asilhha@
+@to bind up@|@afohommi@
+@to bother (group 2)@|@ataklammi@
+@to break@|@kobaffi@
+@to bring about@|@akaniohmi@
+@to bury@|@hoppi@
+@to cease@|@issa@
+@to close something@|@akvmmi@
+@to come@|@minti@
+@to come (does not imply arrival)@|@MIti@
+@to come here@|@vla@
+@to come here (plural)@|@aivla@
+@to cut in two@|@tabli@
+@to daub@|@apolusli@
+@to decide@|@apesa@
+@to dewll@|@ahanta@
+@to do@|@akaniohmi@
+@to do well@|@achukmali@
+@to drink@|@ishko@
+@to eat@|@vpa@
+@to eat a meal; to dine@|@impa@
+@to exist@|@vtta@
+@to fill (something)@|@alotali@
+@to find@|@ahayuchi, ahochi@
+@to fix@|@apoksia@
+@to fly@|@hika@
+@to fold@|@polhlhi@
+@to give thanks@|@ayukpache@
+@to go@|@iya@
+@to hear@|@haklo@
+@to hide (something) at@|@aluhmi@
+@to hire@|@tohno@
+@to hit@|@isso@
+@to judge@|@apesa@
+@to kick@|@habli, halhlhi@
+@to kill@|@abi, vbi@
+@to kindle@|@oti@
+@to like (something)@|@achukmahni@
+@to like something@|@ayukpAchi@
+@to listen to@|@hvko@
+@to look after@|@apesachi@
+@to look at@|@pIsa; pisa@
+@to look carefully at@|@achukmat pisa@
+@to make a ruling@|@apesa@
+@to measure@|@apesa@
+@to meet@|@afama@
+@to need (group 2)@|@bvnna@
+@to open (door)@|@tiwwi@
+@to oversee@|@apesachi@
+@to pare@|@loffi@
+@to patch@|@akalli@
+@to pay@|@atobbi@
+@to petition@|@asilhha@
+@to play (somewhere)@|@awashoha@
+@to pour into@|@vni@
+@to praise@|@ayukpache@
+@to protect@|@atukkuchi@
+@to repair@|@apoksia@
+@to respect@|@ahnichi@
+@to return there@|@ona@
+@to say (direct quote)@|@achi@
+@to see@|@pIsa, pIsa; pisa@
+@to settle@|@aioklvchi@
+@to sew@|@achunli@
+@to shield@|@atukkuchi@
+@to smear@|@apolusli@
+@to spank@|@fammi@
+@to sprout@|@offo@
+@to stay around in one place@|@vttat Aya@
+@to take from@|@akuchi@
+@to take out@|@akuchi@
+@to tend@|@apesachi@
+@to trouble@|@ataklammi@
+@to try to eat@|@vpat pisa@
+@to turn around@|@afololichi@
+@to walk@|@nowa@
+@to want@|@bvnna@
+@to wish for@|@aiahni@
+@today@|@himmak nittak@
+@tomorrow (in the morning)@|@onnaha@
+@tonight@|@himmak ninak@
+@toward (the speaker)@|@auet@
+@town@|@tamaha, tvmaha@
+@train@|@pini@
+@travel along@|@Aya@
+@tree@|@iti@
+@tree trunk@|@api@
+@true@|@Alhi@
+@truly@|@Alhi@
+@Tuesday@|@Tosti@
+@turkey@|@akAk chaha, cholokloha@
+@turn back@|@afololichi@
+@twelve@|@awah toklo, awah tuklo@
+@twenty@|@pokkoli toklo@
+@twenty-one@|@pokkoli toklo akohcha chaffa@
+@twilight@|@oklhilinchi@
+@two@|@toklo, tuklo@
+@two hundred@|@talhipa toklo@
+@two thousand@|@talhipa sipokni toklo@
+@understand (group 2)@|@anukfOka@
+@up@|@vba@
+@venison@|@issi nipi@
+@very many@|@lAwa@
+@very much@|@aiAlhi@
+@visit; come see@|@ant pisa@
+@walk together@|@itanowat ia, itanowat ita@
+@wall@|@aboha isht holita@
+@warm@|@libisha@
+@warm place@|@ailibesha@
+@wash@|@achefa@
+@water@|@oka@
+@way@|@aiyamohmi@
+@Wednesday@|@Winsti@
+@week@|@nittak hollo@
+@wet@|@lvcha@
+@what?@|@nanta?@
+@wheat flour@|@onush bota@
+@where?@|@katimma?@
+@white@|@tohbi@
+@White@|@Nahollo@
+@who?@|@kata?@
+@wide@|@awata, patha@
+@window@|@okhisushi@
+@winter (sunfall)@|@hashtola@
+@wish for@|@ahma@
+@within@|@anOkaka@
+@wives of father's relatives@|@hvshki@
+@wolf@|@nashoba@
+@woman@|@ohoyo@
+@woman's father-in-law@|@amafo@
+@woman's mother-in-law@|@sapokni@
+@wood@|@iti@
+@woods@|@KOwi@
+@word@|@anumpa@
+@workshop@|@atoksvli@
+@wrap around@|@afohommi@
+@year@|@afammi, afvmmi@
+@yellow@|@lakna, lvkna@
+@yes@|@A@
+@yesterday@|@pilash, pilashash@
+@young@|@himitta@
+

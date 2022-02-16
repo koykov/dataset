@@ -1,0 +1,838 @@
+@English@|@Bosnian@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1:00@|@jedan sat@
+@1:45@|@jedan i cxetrdesetpet, petnaest do dva@
+@12:45@|@chetvrt do jedan@
+@3:05@|@tri i pet@
+@3:15@|@kvarat poslije tri, tri i petnaest@
+@4:15@|@chetvrt poslije chetiri@
+@6:10@|@šest i deset@
+@7:13@|@sedam i trinaest@
+@7:30@|@sedam i pol@
+@a little@|@malo@
+@a lot@|@puno@
+@a teacher had a book@|@uchitelj je imao knjigu@
+@about@|@o kome@
+@acceptance@|@prihvatanje, usvajanje@
+@accountant@|@knjigovod'a, rachunovo?a@
+@again@|@iznova, još jednom@
+@airport@|@aerodrom@
+@alcohol@|@alkohol@
+@all@|@all@
+@almond@|@badem@
+@almost@|@za malo@
+@always@|@uvjek@
+@am i right?@|@jesam li u pravu?@
+@american@|@amerikanac, amerikanka@
+@and@|@a, i@
+@and we asked the teacher@|@i upitali smo uchitelja, i upitali smo uchitelje@
+@apartment@|@stan@
+@apple@|@jabuka@
+@apricot@|@kajsija@
+@april@|@april@
+@arabic@|@arapski@
+@are you hungry?@|@jeste li gladan?@
+@arm chair@|@fotelja, stolica sa naslonom@
+@arrival@|@dolazak@
+@asparagus@|@špargla@
+@At which side is the exit?@|@Sa koje strane je izlaz?@
+@attic@|@potkrovlje@
+@august@|@august@
+@aunt@|@tetka@
+@australia@|@australija@
+@australian@|@australijanac, australijanka@
+@austria@|@austrija@
+@austrian@|@austrijanac, austrijanka@
+@autumn@|@jesen@
+@avenue@|@avenija@
+@baby@|@djete@
+@back stairs@|@sporedno stepenište@
+@bacon@|@slanina@
+@bad@|@losxe@
+@balance@|@stanje rachuna@
+@balcony@|@balkon@
+@banana@|@banana@
+@bank@|@banka@
+@banknote@|@konvertibilna marka, novchanica@
+@barrack@|@baraka@
+@basement@|@temelj@
+@bathroom@|@kupatilo@
+@bay window@|@istureni prozor@
+@bed@|@krevet@
+@bed clothes@|@posteljina@
+@bed sheet@|@charšaf@
+@beef@|@govedina, govedinom@
+@beefsteak@|@biftek@
+@beer@|@pivo@
+@beret@|@beretka@
+@beverage@|@picye@
+@bill@|@rachun@
+@biology@|@biologija@
+@bird@|@ptica@
+@birthday@|@rodjendan@
+@black@|@crn, crna, crno@
+@blanket@|@deka, pokrivach@
+@blouse@|@bluza@
+@blue@|@plav, plava, plavo@
+@book@|@knjiga@
+@bottle@|@boca@
+@boy@|@djechak@
+@bra@|@broš@
+@bracelet@|@narukvica@
+@braces@|@tregeri@
+@bread@|@hljeb, kruh@
+@breakfast@|@dorucxak@
+@bridge@|@most@
+@british@|@britanac, britanka@
+@brooch@|@broš@
+@brother@|@brat@
+@brown@|@smed, smeda, smedo@
+@building@|@zgrada@
+@bus@|@autobus@
+@bus station@|@autobusna stanica@
+@but@|@but, nego@
+@butter@|@maslac@
+@cab stand@|@taksi stanica@
+@cabin@|@brvnara@
+@Can I get insurance?@|@Mogu li dobiti osiguranje?@
+@Can I look in the kitchen?@|@Mogu li pogledati kuhinju?@
+@can you help me?@|@možeš li mi pomoci?, možete li mi pomoci?@
+@Can you help me?@|@Da li mi možete pomoci?@
+@Can you help me? (1)@|@Da li mi možeš pomoci?@
+@Can you play football?@|@Znate li igrati nogomet?@
+@Can you swim?@|@Znate li plivati?@
+@canada@|@kanada@
+@canadian@|@kanad'anin, kanad'anka@
+@canvas shoes@|@platnene cipele@
+@carpet@|@chilim@
+@cash office@|@blagajna, kasa@
+@cat@|@machka, machka@
+@cellar@|@podrum@
+@chair@|@stolica@
+@check@|@chek@
+@cheers!@|@zxivjeli!@
+@cheese@|@cheese@
+@chemistry@|@hemija@
+@cherry@|@višnja@
+@chicken@|@piletinom@
+@child@|@djete@
+@children@|@djeca@
+@children's shoes@|@djechje cipele@
+@chimney@|@dimnjak@
+@china@|@kina@
+@chinese@|@kineski, kineskinja, kinez@
+@church@|@crkva@
+@cinema@|@kino@
+@clip fastenings@|@kopche@
+@closed@|@zatvoreno@
+@coat (jacket)@|@kratki kaput, žaket@
+@cocoa@|@kakao@
+@coffee@|@kahva, kava@
+@coffee mill@|@mlin za kahvu@
+@cold@|@studeno@
+@computer programmar@|@kompjutorski programer@
+@cool@|@hladno@
+@corridor@|@hodnik, prolaz@
+@corsets@|@narukvica@
+@costume@|@kostim@
+@cotton@|@pamuk@
+@cotton dress@|@pamuchna haljina@
+@counter@|@šalter@
+@courts@|@sud@
+@cow@|@krava@
+@croatian@|@hrvatski@
+@currant@|@ribizla@
+@dancing shoes@|@cipele za igranje@
+@danish@|@danac, dankinja@
+@daughter@|@kcyerka@
+@day@|@dan@
+@december@|@decembar@
+@denmark@|@danska@
+@dentist@|@zubar@
+@department for clothes@|@odjeljenje gotovih odijela@
+@departure@|@polazak@
+@deposit box@|@pretinac, sef@
+@desk@|@pisachi stol@
+@dessert@|@dezert@
+@dessert plate@|@tanjur za slatko@
+@diesel@|@dizel@
+@dining room@|@trpezarija@
+@dinner@|@vecxera@
+@dinner plate@|@plitki tanjur@
+@do you accept credit cards@|@primate li kreditne kartice?@
+@do you have@|@imate li@
+@do you speak ...@|@govorite li...@
+@do you speak ____?@|@govorite li ____?, znate li ____?@
+@do you speak english@|@govorite li engleski@
+@Do you speak English?@|@Da li govorite engleski?@
+@do you speak?@|@da li govoriš, da li govorite@
+@Do you understand Bosnian?@|@Razumijete li bosniak?@
+@doctor@|@doktor@
+@dog@|@pas, pás@
+@don't touch me there!@|@ne diraj me tamo!@
+@down@|@dole@
+@dressing gown@|@kuchni mantil@
+@Drive faster please@|@Vozite brže; molim@
+@Drive slower; please@|@Vozite sporije; molim@
+@driver@|@vozach@
+@duck@|@patka@
+@dutch@|@holand'anin, holand'anka@
+@earrings@|@minchuše@
+@economics@|@ekonomija@
+@eggs@|@jajima@
+@eight@|@osam@
+@eighteen@|@osamnaest@
+@eighty@|@osamdeset@
+@electric cooker@|@elektrichni šporet@
+@electrician@|@elektrichar@
+@eleven@|@jedanaest@
+@eleven thirty@|@jedanaest i trideset@
+@embankment@|@kej@
+@engineer@|@inženjer@
+@england@|@engleska@
+@english@|@engleski@
+@escalator@|@pokretne stepenice@
+@evening dress@|@vechernje odijelo@
+@example@|@primer, primjer@
+@exchange of money@|@mijenjanje novca@
+@excuse me@|@izvinite, oprosti, oprostite@
+@face cloth@|@peškir za lice@
+@family@|@porodica@
+@fan@|@lepeza@
+@far@|@daleko@
+@fare@|@cijena vozne karte@
+@Fares please.@|@Uzmite karte molim@
+@father@|@otac@
+@february@|@februar@
+@fifteen@|@petnaest@
+@fifty@|@pedeset@
+@Fine; thank you@|@Dobro sam; hvala@
+@finland@|@finska@
+@finnish@|@finac, finkinja@
+@fire fighter@|@vatrogasac@
+@first floor@|@prvi sprat@
+@fish@|@riba, ribom@
+@fitting room@|@kabina za probe@
+@five@|@pet@
+@flax linen@|@laneno platno@
+@floor@|@sprat@
+@foam rubber soled shoes@|@cipele sa d'onom od pluta@
+@foggy@|@maglovito@
+@foreign exchange@|@strana valuta@
+@foreign languages@|@strani jezici@
+@forms@|@formulari@
+@forty@|@cxetrdeset@
+@four@|@cxetiri@
+@fourteen@|@cxetrnaest@
+@france@|@francuska@
+@french@|@francuski, francuskinja, francuz@
+@fresh fruit@|@svježe voche@
+@fresh vegetables@|@svježe povrche@
+@friday@|@petak@
+@friend@|@prijatelj, prijateljica@
+@fruit@|@vocye@
+@frying pan@|@tava@
+@fur coat@|@bunda@
+@garden@|@vrt@
+@gas (petrol) station@|@benzinska pumpa@
+@generic toast@|@na zdravlje!@
+@german@|@nemac, nemica, njemacxki@
+@germany@|@nemachka@
+@geyser@|@bojler@
+@girl@|@djevojka@
+@gloves@|@rukavice, rukavice@
+@goat@|@koza@
+@good@|@dobro@
+@good afternoon@|@dobar dan@
+@good day@|@dobar dan@
+@good evening@|@aksam hajrula, dobra vecher, dobro vecxe@
+@good morning@|@dobro jutro, sabah hajrula@
+@good night@|@laku noc, laku nocy@
+@goodbye@|@allah imanet, do vidjenja, zbogom@
+@Goodbye@|@chao, zdravo@
+@goose@|@guska@
+@gown@|@haljina@
+@granddaughter@|@unuka@
+@grandfather@|@dedo@
+@grandmother@|@nena@
+@grandson@|@unuk@
+@grapes@|@grožd'e@
+@gray@|@siva@
+@great britain@|@velika britanija@
+@green@|@zelen, zelena, zeleno@
+@ground floor@|@prizemlje@
+@hair dresser@|@frizer@
+@half past eleven@|@pola dvanaest@
+@hall@|@predsoblje@
+@ham@|@šunkom@
+@happy birthday!@|@sretan rodjendan!@
+@hat@|@šešir@
+@he@|@on@
+@he can@|@može@
+@he comes@|@dod'e@
+@he doesn't have@|@nema@
+@he doesn't know@|@nepoznaje, nezna@
+@he goes@|@ide@
+@he has@|@on ima@
+@he is@|@jest, on je@
+@he is not@|@nije@
+@he knows@|@poznaje, zna@
+@he lives@|@žive@
+@he sleeps@|@spava@
+@he wants@|@hocye@
+@he was@|@on je bio@
+@He will read@|@On cye chitati.@
+@heel of a stocking@|@peta na charapi@
+@hello@|@zdravo@
+@Hello@|@Merhaba@
+@Help!@|@Upomoch!@
+@her@|@njen, njena, njeni, njeno@
+@Here comes our tram@|@Evo dolazi naš tramvaj@
+@hi@|@bok@
+@hill@|@brdo@
+@his@|@njegov, njegova, njegovi, njegovo@
+@history@|@istorija@
+@home@|@kucha@
+@horse@|@komj@
+@hospital@|@bolnica@
+@hot@|@vruche@
+@hotel@|@hotel@
+@house coat@|@kuchna haljina@
+@house dress@|@kuchna haljina@
+@how@|@kako@
+@how are you?@|@kako si?, kako ste?@
+@how do you say this in bosnian@|@kako se ovo kazxe na bosanski@
+@how much@|@koliko@
+@how much does this cost?@|@koliko ovo kosxta?@
+@How much is it?@|@Koliko to košta@
+@how much is the fare?@|@koliko je karta?@
+@How much is the ticket?@|@Kolika je cijena karte?, Koliko staje karta?@
+@how old are you?@|@koliko imaš godina?, koliko imate godina?@
+@humid@|@vlažno@
+@husband@|@chovjek, muzx@
+@i@|@ja@
+@i am@|@ja sam, jesam@
+@i am ____ years old@|@ja imam __ godina@
+@I am _____.@|@Ja sam ______.@
+@I am a good student@|@Dobar sam student, Ja sam dobar student@
+@I am a student@|@Student sam@
+@i am not@|@nisam@
+@i am...@|@zovem se...@
+@i can@|@mogu@
+@I can't speak Bosnian@|@Ne govorim dobro bosanski@
+@i come@|@dod'em@
+@i do not understand@|@ne razumijem@
+@I don't eat beef@|@Jan e jedem govedinu@
+@I don't eat pork@|@Ja ne jedem svinjetinu@
+@i don't have@|@nemam@
+@i don't know@|@nepoznajem, neznam@
+@i don't speak@|@ne govorim, ne znam@
+@i don't understand@|@ne razumijem@
+@i go@|@idem@
+@i have@|@iman@
+@I have been@|@ja sam bila, ja sam bio@
+@i know@|@poznajem, znam@
+@I like it@|@Svicha mi se@
+@i live@|@živem@
+@i sleep@|@spavam@
+@I slept@|@ja sam spavao@
+@i speak@|@govorim, znam@
+@i speak a little...@|@govorim malo..., znam malo...@
+@i understand@|@razumijem@
+@i want@|@hoc'u@
+@I want _____.@|@Želim _____.@
+@I want a dish containing ____@|@Želim jelo sa _____.@
+@I want to rent a car@|@Želim da iznajmim auto@
+@i would like to buy@|@zxelio bih da kupim, zxeljela bih da kupim@
+@ice cream@|@sladoled@
+@I'd like to cash this cheque@|@Želio bih unovchiti ovaj chek@
+@i'll buy it@|@kupujem.@
+@I'm a vegetarian@|@Ja sam vegetarijanac@
+@i'm fine@|@dobro sam@
+@i'm from..@|@ja sam iz ...@
+@i'm great@|@dobro mi ide@
+@i'm not so well@|@nije mi tako dobro@
+@i'm ok@|@u redu sam@
+@i'm sorry@|@žao mi je@
+@in the fall@|@u jesen@
+@in the spring@|@u proljeche@
+@in the summer@|@u ljeto@
+@in the winter@|@u zimi@
+@indonesian@|@indonesian@
+@Is he a student?@|@Je li on student?@
+@Is there a house specialty?@|@Imate li specijalitet kuche?@
+@Is there a local specialty?@|@Iate li lokalni specijalitet?@
+@Is this material reversible?@|@Ima li ta tkanina dva lica?@
+@Is this place taken?@|@Je li ovo mjesto zauzeto?@
+@it@|@ono@
+@It doesnt't suit me@|@To mi ne stoji dobro@
+@it has@|@ono ima@
+@it is@|@ono je@
+@it slept@|@ono je spavalo@
+@it was@|@ono je bilo@
+@italian@|@italijan, italijanka, talijanski@
+@italy@|@italija@
+@It's raining@|@pada kiša@
+@It's snowing@|@pada snijeg@
+@It's...@|@Sad je...@
+@january@|@januar@
+@japan@|@japan@
+@japanese@|@japanac, japanka, japanski@
+@judge@|@sudija@
+@juice@|@dxus, sok@
+@july@|@jul, juli@
+@jumper@|@narukvica@
+@june@|@jun, juni@
+@kitchen@|@kuhinja@
+@kosher@|@kosxer@
+@lace@|@chipka@
+@laced shoes@|@cipele na vezivanje@
+@lady's hand bag@|@ženska tašna@
+@lake@|@jezero@
+@lamb@|@jagnjetina, janjetina@
+@lane of alley@|@sporedna ulica@
+@lawyer@|@advokat@
+@left@|@lijevo@
+@lemon@|@limun@
+@let's go@|@hajdemo, idemo@
+@letter@|@pismo@
+@library@|@biblioteka@
+@linen@|@platno@
+@linguistics@|@jezichki, jezici, lingvistika@
+@lipstick@|@karmin@
+@literature@|@literatura@
+@local post office@|@mjesna poštanska kancelarija@
+@long@|@dugo@
+@Look out!@|@Pazite!@
+@lunch@|@rucxak@
+@main station@|@glavna stanica@
+@man@|@chovjek@
+@mansion@|@porodichna kucha@
+@map@|@mapa@
+@march@|@mart@
+@math@|@matematika@
+@mattress@|@dušek@
+@may@|@maj@
+@meat@|@meso@
+@mechanic@|@mehanichar@
+@men's clothing@|@muska odjeca@
+@mexican@|@meksikanac, meksikanka@
+@mexico@|@meksiko@
+@midnight@|@ponoch@
+@mirror@|@ogledalo@
+@mixer@|@mikser@
+@monday@|@ponedeljak@
+@month@|@mjesec@
+@mother@|@majka@
+@mountain@|@planina@
+@mouse@|@miš@
+@mule@|@patike@
+@multistory building@|@višespratnica@
+@museum@|@muzej@
+@my@|@moj, moja, moje, moji@
+@my name is@|@moje ime je@
+@My name is ______ .@|@Zovem se ______ .@
+@nailclippers@|@makazice za nokte@
+@near@|@blizu@
+@nephew@|@necyak@
+@netherlands@|@holandija@
+@never@|@nikad@
+@Nice to meet you.@|@Drago mi je.@
+@niece@|@rodica@
+@night dress@|@spavachica@
+@nine@|@devet@
+@nineteen@|@devetnaest@
+@ninety@|@devedeset@
+@no@|@ne@
+@no parking@|@zabranjeno parkiranje@
+@no vacancies@|@nema sobodnih soba@
+@noon@|@podne@
+@norway@|@norveška@
+@norwegian@|@norvežanin, norvežanka@
+@nothing@|@ništa@
+@november@|@novembar@
+@now@|@sád@
+@nurse@|@medicinska sestra@
+@nut@|@orah@
+@ocean@|@okean@
+@october@|@oktobar@
+@of course@|@naravno, pá dá@
+@officials@|@službenici@
+@one@|@jedan@
+@one hundred@|@sto, stotina@
+@One meter of this please@|@Jedan metar ovog; molim@
+@one million@|@milion@
+@one thousand@|@hiljadu@
+@one ticket to ...;please.@|@jednu kartu za...;molim vas.@
+@one way@|@jednosmjerna ulica@
+@only@|@jedino@
+@open@|@otvoreno@
+@open toe shoes@|@cipele sa otvorenim prstima@
+@open-neck sport shirt@|@sportska košulja@
+@orange@|@naranchast, naranchasta, naranchasto@
+@our@|@naš, naša, naše, naši@
+@oven@|@rerna@
+@overcast@|@oblachno@
+@overcoat@|@mantil@
+@P.O. boxes@|@poštanski sanduchicyi@
+@pajamas@|@pidžama@
+@pantry@|@ostava@
+@paper@|@papir@
+@parcel@|@paket@
+@park@|@park@
+@parking@|@parkiralisxte@
+@passenger@|@putnik@
+@passport@|@pasosx@
+@patent leather shoes@|@lakirane cipele@
+@pattern shoes@|@model cipela@
+@peach@|@marelica@
+@pencil@|@olovka@
+@pepper@|@biber@
+@petrol@|@benzin@
+@pharmacy@|@apoteka@
+@philosophy@|@filozofija@
+@phone@|@telefon@
+@piece of furniture@|@dio namještaja@
+@pierglass@|@veliko ogledalo@
+@pillow@|@jastuk@
+@pineaple@|@ananas@
+@plate@|@tanjur@
+@please@|@molim, molim vas@
+@please bring the bill@|@racxun; molim vas@
+@Please wrap all these together@|@Molim Vas upakujte sve zajedno@
+@plum@|@šljiva@
+@pocket mirror@|@džepno ogledalce@
+@poland@|@poljska@
+@police officer@|@policajac@
+@police station@|@policija@
+@polish@|@poljak, poljakinja@
+@political science@|@politichke nauke@
+@porch@|@trijem@
+@pork@|@svinjetina@
+@portuguese@|@portugalski@
+@post office@|@pošta, poštanska kancelarija, posxta@
+@postal mark@|@poštanska marka@
+@postal order@|@novchana uputnica@
+@postcard@|@razglednica@
+@poster@|@poster, reklama@
+@postman@|@poštar@
+@pot@|@lonac@
+@potato@|@krompir@
+@poultry@|@perad@
+@psychology@|@psihologija@
+@public call box@|@telefonska govornica@
+@pure wool@|@chista vunena tkanina@
+@purple@|@ljubichast, ljubichasta, ljubichasto@
+@quilt@|@jorgan@
+@rabbit@|@zec@
+@rain coat@|@kišni mantil@
+@rain water pipe@|@oluk@
+@razor blade@|@nožich za brijanje, žilet@
+@red@|@crven, crvena, crveno@
+@refrigator@|@frižider@
+@relatives@|@rodbina@
+@reservation@|@rezervacija@
+@restaurant@|@restoran@
+@restrooms@|@toalet@
+@ridge of the roof@|@sljeme@
+@right@|@desno@
+@river@|@rijeka@
+@roof@|@krov@
+@room@|@soba@
+@rubber soled shoes@|@cipele sa gumenim d'onom@
+@russia@|@rusija@
+@russian@|@rus, ruski, ruskinja@
+@safety razor@|@aparat za brijanje@
+@salad@|@salata, salatom@
+@salesgirl@|@prodavachica@
+@salesman@|@prodavach@
+@salesperson@|@prodavac@
+@salt@|@so@
+@sandals@|@sandale@
+@satin@|@saten@
+@saturday@|@subota@
+@sausage@|@kobasicom@
+@scarf@|@šal, zar@
+@school@|@sxkola@
+@secretary@|@sekretar, sekretarica@
+@see you later@|@vidimo se kasnije@
+@seemless stockings@|@bešavne charape@
+@september@|@septembar, september@
+@serbian@|@srpski@
+@set of chairs@|@garnitura stolica@
+@seven@|@sedam@
+@seventeen@|@sedamnaest@
+@seventy@|@sedamdeset@
+@shaving foam@|@pjena za brijanje@
+@shaving soap@|@sapun za brijanje@
+@shawl@|@šal@
+@she@|@ona@
+@she has@|@ona ima@
+@she is@|@ona je@
+@she was@|@ona je bila@
+@shed@|@hambar@
+@sheep@|@ovca@
+@shelf@|@polica@
+@shirt@|@košulja@
+@shoes@|@cipele, cipele@
+@shoes for walking@|@cipele za šetnju@
+@shop@|@prodavnica@
+@short@|@kratko@
+@shorts@|@kratke pantalone@
+@showcase@|@izlog@
+@shower@|@tuš@
+@silk@|@svila@
+@sister@|@sestra@
+@sitting room@|@dnevni boravak@
+@siut@|@odijelo@
+@six@|@sxest@
+@sixteen@|@sxesnaest@
+@sixty@|@sxezdeset@
+@slippers@|@papuche@
+@so long@|@vidimo se@
+@so so@|@tako tako@
+@soap@|@sapun@
+@socks@|@charape@
+@some teachers had books@|@neki uchitelji su imali knjige@
+@something@|@nešto@
+@son@|@sin@
+@sorry@|@oprostite@
+@soup plate@|@tanjur za juhu, tanjur za supu@
+@spain@|@španija@
+@spanish@|@španac, španjolka, španjolski, sxpanski@
+@speed limit@|@oganichenje brzine@
+@spring@|@proljecye@
+@square@|@kvart@
+@stamp@|@pechat@
+@stamps@|@markice@
+@station@|@stanica@
+@stock@|@akcija, dionica@
+@stock exchange list@|@kursna lista@
+@stocking@|@ženske charape@
+@straight@|@pravo@
+@strawberry@|@jagoda@
+@street@|@ulica@
+@student@|@student@
+@study room@|@soba za rad@
+@subway@|@podzemna zxeljeznica@
+@subway station@|@stanica podzemne zxeljeznice@
+@suit jacket@|@kratka jakna@
+@suit skirt@|@suknja@
+@summer@|@ljeto@
+@summer house@|@ljetnjikovac@
+@sunday@|@nedjelja@
+@sunny@|@sunchano@
+@sweden@|@švedska@
+@swedish@|@šved'anin, šved'anka@
+@swimming pool@|@bazen@
+@swiss@|@švajcarac, švajcarkinja@
+@switzerland@|@švajcarska@
+@Take me to the station please@|@Odvezite me do stanice; molim@
+@tap@|@slavina@
+@tea@|@cxaj@
+@teacher@|@uchitelj@
+@telegram@|@telegram@
+@ten@|@deset@
+@thank you@|@hvala@
+@thank you very much@|@puno hvala@
+@Thank you very much@|@Hvala lijepo@
+@The exchange will be worse@|@Techaj che pasti@
+@the hardware department@|@odjeljenje metalne robe@
+@the jewelry department@|@odjeljenje nakita@
+@theatre@|@pozorište@
+@their@|@njihov, njihova, njihovi, njihovo@
+@There is no bus service today@|@Danas autobusi ne sobracyaju@
+@they@|@ona, one, oni@
+@they are@|@jesu, ona su, one su, oni su@
+@they are not@|@nisu@
+@they can@|@mogu@
+@they come@|@dod'u@
+@they don't have@|@nemaju@
+@they don't know@|@nepoznaju, neznaju@
+@they go@|@idu@
+@they have@|@imaju@
+@they know@|@poznaju, znaju@
+@they live@|@žive@
+@they sleep@|@spavaju@
+@they slept@|@ona su spavala@
+@they want@|@hocye@
+@they were@|@ona su bila, one su bile, oni su bili@
+@thirteen@|@trinaest@
+@thirty@|@trideset@
+@This is too large (short)@|@Ovo je previše dugo (kratko)@
+@three@|@tri@
+@thursday@|@cxetvrtak@
+@ticket@|@karta, vozna karta@
+@tie@|@kravata@
+@timber frame@|@drvena konstrukcija@
+@to be@|@biti@
+@to be able to@|@mocyi@
+@to come@|@docyi@
+@to desire@|@željeti@
+@to drink@|@piti@
+@To get (receive ) a letter@|@Dobiti pismo@
+@To get a receipt@|@Dobiti potvrdu@
+@to get in@|@ucyi u vozilo@
+@to go@|@icyi@
+@to have@|@imati@
+@to know people@|@poznavati@
+@to know things@|@znati@
+@to like@|@voljeti@
+@to listen@|@slušati@
+@to live@|@živjeti@
+@to look@|@gledati@
+@to not know people@|@nepoznavati@
+@to ring@|@zvoniti@
+@To sign for something@|@Potpisati za nešto@
+@to sleep@|@spavati@
+@to want@|@htjeti@
+@To weight a parcel@|@Izvagati paket@
+@to whom@|@kome@
+@To write one's name in full@|@Napisati puno ime i prezime@
+@today@|@danas@
+@Today it's...@|@Danas je...@
+@tomorrow@|@sutra@
+@too@|@takod'er@
+@toothbrush@|@chetkica za zube@
+@toothpaste@|@kaladont, pasta za zube@
+@top floor@|@gornji sprat@
+@tourist information@|@turisticxke informacije@
+@tower@|@toranj@
+@town@|@grad@
+@town hall@|@opštinska zgrada@
+@town transport@|@gradski prijevoz@
+@train@|@voz@
+@train station@|@zxeljeznicka stanica@
+@tram@|@tramvaj@
+@trimmings@|@ukrasi@
+@tuesday@|@utorak@
+@twelve@|@dvanaest@
+@twenty@|@dvadeset@
+@twenty one@|@dvadesetjedan@
+@twin beds@|@brachni krevet@
+@two@|@dva@
+@umbrella@|@kišobran@
+@uncle@|@stric, ujak@
+@underclothes@|@donji veš@
+@underground@|@podzemna željeznica@
+@underskirt@|@lepeza@
+@underwear@|@donje rublje@
+@up@|@gore@
+@usa@|@sjedinjene države@
+@valley@|@dolina@
+@vegetable@|@povrcye@
+@vegetarian@|@vegetarijanac@
+@ventilator@|@otvor za ventilaciju@
+@waistcoat@|@prsluk@
+@Wait for me here; please@|@Prichekajte me ovdje molim@
+@wall@|@duvar, zid@
+@wardrobe@|@ormar (sa velikim ogledalom)@
+@warm@|@toplo@
+@wash basin@|@lavabo@
+@water@|@voda@
+@we@|@mi@
+@we are@|@jesmo, mi smo@
+@we are not@|@nismo@
+@we can@|@možemo@
+@we come@|@dod'emo@
+@We correspond regularly@|@Mi se redovno dopisujemo@
+@we don't have@|@nemamo@
+@we don't know@|@nepoznajemo, neznamo@
+@we go@|@idemo@
+@we have@|@imamo@
+@we know@|@poznajemo, znamo@
+@we know more about teacher@|@znamo više o uchitelju@
+@we know more about teachers@|@znamo više o uchiteljima@
+@we live@|@živemo@
+@we sleep@|@spavamo@
+@we slept@|@mi smo spavali@
+@we want@|@hocyemo@
+@we went to the teacher@|@otišli smo uchitelju@
+@we went to the teachers@|@otišli smo uchiteljima@
+@we were@|@mi smo bile, mi smo bili@
+@wednesday@|@srijeda@
+@week@|@sedmica@
+@welcome@|@dobrodošli@
+@what@|@šta, što@
+@What is my balance?@|@Kakvo mi je stanje na rachunu?, Koji mi je saldo?@
+@what is this?@|@sxta je ovo?@
+@what is your name?@|@kako se zoveš?, kako se zovete?@
+@what time is it?@|@koliko je sati?@
+@What's day rate of exchange?@|@Koji je sadašnji techaj?@
+@What's it like today?@|@Kako je vani?@
+@what's your name?@|@kako se zoveš?, kako se zovete?@
+@when@|@kad, kada@
+@where@|@gdje@
+@where are you from?@|@odakle si?, odakle ste?@
+@where are you going?@|@gdje vi idete?@
+@Where can I change my money?@|@Gdje mogu zamijeniti@
+@where do you live?@|@gdje zxivite?@
+@where from@|@odakle@
+@where is ...?@|@gdje je...?@
+@where is my room?@|@gdje je moja soba?@
+@where is the bar?@|@gdje je bar?@
+@where is the bathroom?@|@gdje je toalet?@
+@where is the beach?@|@gdje je plazha?@
+@Where is the nearest bank?@|@Gdje je najbliža banka?@
+@where is the toilet?@|@gdje je toalet?@
+@Where is the toilet?@|@Gdje je WC?@
+@Where shall I pay?@|@Gdje trebam platiti?@
+@where to@|@kamo@
+@white@|@bijel, bijela, bijelo@
+@who@|@ko, tko@
+@whom@|@koga@
+@whose@|@chega, koga@
+@why@|@zašto@
+@wife@|@žena, zxena@
+@window@|@okno, prozor@
+@windy@|@puše vjetar@
+@wine@|@vino@
+@winter@|@zima@
+@with what@|@s chim@
+@with whom@|@s kim@
+@woman@|@žena@
+@women's clothing@|@ženska odjech@
+@woodcock@|@šjuka@
+@writer@|@pisac@
+@yard@|@avlija@
+@year@|@godina@
+@yellow@|@žut, žuta, žuto@
+@yes@|@da@
+@yesterday@|@jucxe@
+@yield@|@pustiti prvenstvo prolaza@
+@you@|@ti, vi@
+@you are@|@jesi, jeste, ti si@
+@you are (pl)@|@vi ste@
+@you are not@|@nisi@
+@you are not (pl)@|@niste@
+@you can@|@možeš@
+@you can (pl)@|@možete@
+@you come@|@dod'eš@
+@you come (pl)@|@dod'ete@
+@you don't have@|@nemaš@
+@you don't have (pl)@|@nemate@
+@you don't know@|@nepoznaješ, neznaš@
+@you don't know (pl)@|@nepoznajete, neznate@
+@you go@|@ideš@
+@you go (pl)@|@idete@
+@you have@|@imaš@
+@you have (pl)@|@imate@
+@you have been@|@ti si bila, ti si bio@
+@you know@|@poznaješ, znaš@
+@you know (pl)@|@poznajete, znate@
+@you live@|@živeš@
+@you live (pl)@|@ževete@
+@you sleep@|@spavaš@
+@you sleep (pl)@|@spavate@
+@you slept@|@ti si spavala@
+@you slept (pl)@|@vi ste spavale@
+@you want@|@hocyeš@
+@you want (pl)@|@hocyete@
+@you were@|@vi ste bile, vi ste bili@
+@your@|@tvoj, tvoja, tvoje, tvoji@
+@your (pl)@|@vaš, vaša, vaše, vaši@
+@you're welcome@|@molim, nema na cxemu@
+@zero@|@nula@
+@zipper@|@rajsferšlus@
+

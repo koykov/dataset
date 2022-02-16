@@ -1,0 +1,483 @@
+@English@|@Blackfoot@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@american@|@innóísttoani@
+@and then i will tell you@|@kitáakínai'tanisto@
+@animal@|@kaawá'pomaahkaa@
+@antelope@|@saokiawakaasi@
+@apple@|@áípasstaamiinaamm@
+@april@|@matsiyíkkapisaii'somm@
+@are you afraid?@|@kitái'kó'pohpa?@
+@arm@|@mo'tsis@
+@arm pit@|@mo'ksís@
+@armpit@|@mo'ksís@
+@ashtray@|@iitáísapahtsimao'p@
+@assiniboine@|@niitsísinaa@
+@august@|@iitáyiitsimaahkao'p, pákkii'pistsi otsíai'tssp@
+@aunt@|@iksísst@
+@autumn@|@ákáó'kowa, mo'ko@
+@awl@|@moksís@
+@baby@|@issitsimaana, maanipokaa@
+@baby rabbit@|@poká´aatisistaawa@
+@bachelor@|@káta'yoohtsimi@
+@back and forth@|@istsiaki@
+@backbone@|@mo'kakín@
+@backward@|@sskoo@
+@bacon@|@áíksinóósakiksi@
+@badger@|@siinaisski@
+@bald eagle@|@ksikkihkíni@
+@banana@|@iinán@
+@bartender@|@áóttaki@
+@bat@|@makápipi'kssi@
+@bean@|@áótooksiinaattsi@
+@beans@|@áótooksiinattsiistsi@
+@berry@|@míín@
+@bighorn sheep@|@miistáksoomahk ihkiaa@
+@bird@|@pi'kssíí@
+@bison@|@iiníí@
+@black@|@sik, siksáápiikoan@
+@black bear@|@sikohkiaayo@
+@blackfoot@|@siksiká@
+@blackfoot writing system@|@pikoni kayna siksika@
+@bladder@|@moa'pahkis@
+@Blood@|@Kainai@
+@blood bandof blackfoot@|@káínaa@
+@blood clot@|@katoyís@
+@blue@|@ótssko@
+@body@|@motstóm@
+@bologna@|@omahkottsiimskaan@
+@boy@|@saahkómaapi@
+@braid@|@ippotsipistaan@
+@breast@|@máókayis@
+@breast bone@|@mo'kííkin@
+@brother@|@niisistowahsin@
+@brother-in-law@|@isstamo, ootoyoom@
+@brown@|@sikotahko@
+@brown bear@|@ootsimiohkiaayo@
+@buffalo women's society@|@máóto'kiiksi@
+@bullet@|@awákksoopan@
+@buttock@|@mootóópis@
+@cake@|@pisátsskiitaan@
+@calf@|@mohkinán@
+@candy@|@ohkomiaapiiníiwaan@
+@cap@|@isttsomo'kaan@
+@carpenter@|@áísátsaaki@
+@cat@|@poos@
+@cheek@|@mootstsipinnaan@
+@cheese@|@iitsskonnikis@
+@child@|@oko's@
+@chin@|@mohpsskína@
+@chipmonk@|@i'kayssi@
+@chocolate@|@áópakíítsskii'p@
+@coffee@|@niitá'paisiksikimi@
+@cold@|@sstowa'pií@
+@cook@|@ihkiitaa@
+@corn@|@áóhpiikiinaatts@
+@courthouse@|@iitáókakihtsimaan@
+@cow@|@áápotskina@
+@coyote@|@aapí'si@
+@cree tribe@|@asinaa@
+@Crow-big-foot@|@Issapóómahksika@
+@daughter@|@itan@
+@daughter-in-law@|@imss@
+@dawn@|@áisopoyiinakowa, iisopóyiinakowa, sopoyiiako@
+@dawn (1)@|@aapinákosi, ákaawaapinakowa, waapinako@
+@day@|@áaksiksistsikowa, iksistsikó, ksiistsikó@
+@day (1)@|@ksiistsikóístsi@
+@day (2)@|@i'táámiksistsikowa@
+@december@|@isstááato's, misámiko'komiaato's, omahkátoyiiki'sommiatto's, omahkátoyiiksistsiko@
+@deer@|@áwákaas ii@
+@derriere@|@móós@
+@diet@|@ikkstsimiáttsoohsi@
+@doctor@|@áísokinaki@
+@dog@|@imita, imitááwa, omitaa@
+@dogs@|@imitakis@
+@donkey@|@omahksstooki@
+@don't act like a bad child@|@miináttoka'pipokaihka'sit!@
+@don't depress yourself anymore@|@miináttsikkihkínioohsit!@
+@down@|@iksisap@
+@dried apples@|@ohtookiinaattsi@
+@dried meat@|@káyii, káyiis@
+@ear@|@mohtóókis@
+@east@|@innaap@
+@eat@|@áóoyiwa@
+@eat lunch@|@ihtatsikiooyi@
+@eclipse@|@o'ksiko'ko@
+@eight@|@náánisoyi, naniso@
+@elbow@|@mohkínsstsis@
+@elephant@|@innóóhksisii@
+@eleven@|@ni'tsikópotto@
+@elk@|@innoka@
+@european@|@aapámiaapiikoan@
+@evening@|@áakotakowa, aótakósi, otakó@
+@eye@|@mooipssp@
+@face@|@mosstoksis@
+@fall@|@áako'koa, áó'kosi, mo'kówa, o'ko@
+@father@|@inn@
+@father-in-law@|@inaaáhs@
+@february@|@píítaiáí, saómmitsiki'somm@
+@female@|@áákiim@
+@finger@|@mookítsis@
+@first moon@|@inákoi@
+@five@|@niisito, nisito@
+@flood@|@o'kakoyi@
+@flour@|@ó'kapayin@
+@food@|@aoówahsin@
+@foot@|@mohkát@
+@forehead@|@moonsskis, oonsskís@
+@foreigner@|@noohkiitsitapi@
+@forty@|@niisíppo, nisippo@
+@forward@|@yiss@
+@four@|@niisó, nisoo@
+@fourteen@|@niisóíkopotto@
+@freeze@|@i'níípittsi@
+@french person@|@niitsáápiikoan@
+@frenchmen@|@niitsaapiikoan@
+@friday@|@i'nakohpommaik sistsiko, mamiiksistsiko@
+@frog@|@matsiyíkkapisaa@
+@fry bread@|@immistsííhkiitaan@
+@full moon@|@iksistto'smm@
+@full-blooded indian@|@sopokíítsitapiikoan@
+@girl@|@aakííkoan@
+@golden eagle@|@otaikimmio'tokaan@
+@goose@|@ómahkssa'áí@
+@gopher eater clan@|@omahkookitsis@
+@grandchild@|@íssoko's@
+@granddaughter@|@issotan@
+@grandparent@|@aaáhs@
+@grandson@|@issohko@
+@gray@|@ikkitsinááttsi@
+@grease@|@immistsii@
+@green@|@saissksiimoko@
+@greetigns@|@óki@
+@grizzly bear@|@otahkóíssksisi yoohkiaayo@
+@gros ventre tribe@|@atsíína@
+@ground beef@|@pikkiáákio'ksisako@
+@hail@|@saakoo@
+@hair@|@mo'tokáán@
+@hairy nose clan@|@immoyissksisi@
+@have a merry christmas@|@i'táámomahkatoyiiksistsikomi@
+@he@|@ostoi@
+@he acts like a woman@|@áwaakiihka'siwa@
+@he has a big nose@|@ikómahksksisiwa@
+@he has more than one wife@|@akáóhkiimiiwa@
+@he helped me@|@nitsspommo'ka, nitsspommooka@
+@he is funny looking@|@ikkahsínaamma@
+@he is short@|@ikkákssiwa@
+@he sees@|@áya'piiwa, áyaapiiwa@
+@he slept@|@iyó'kaawa, náyo'kaawa@
+@he will rope@|@áakokaawa@
+@he will sponsor a sundance@|@áakookaawa@
+@hear@|@ayoohtsiwa@
+@heart@|@mósskitsipahyo@
+@heel@|@mootohtón@
+@he's married@|@ákaohkiimiiwa@
+@he's misbehaving@|@aokihka'siwa, aokihka'siwa, aokska'siwa@
+@hill@|@nitummo@
+@hills@|@nitummoists@
+@horse@|@o'ta's@
+@hot@|@iksist@
+@house builder@|@áókooysskaa@
+@how are things?@|@tsániitá'piiwa?@
+@how does it taste?@|@tsániitsípokowa?@
+@how many kids do you have?@|@tsá niitsítapiyi kóko'siksi@
+@how old are you?@|@tsá kaanistsísstoyiimihpa?@
+@hundred@|@kekippo@
+@husband@|@inaapiim@
+@I@|@nistoa@
+@i am a compassionate person@|@nitsíkimmapiiyipitsi@
+@i am active for my age@|@nitsííksisapitsissi@
+@i am brave@|@nitsííyikitapiiyi@
+@i am chubby@|@nitsíkohpáttsimi@
+@i am crazy@|@nitáttsa'pssi@
+@i am depressed over it@|@nitsííkohtsikkihkínii'taki@
+@i am embarrassed@|@nitsikohkia'pssi@
+@i am flirtatious@|@nitsíípasskata'pssi@
+@i am full@|@nikái'tsiisi@
+@i am funny looking@|@nitsíkahsinaa@
+@i am just getting ready to eat@|@nipíítsiyayáaksoyi@
+@i am left-handed@|@iiya'ksisaa@
+@i am looking for a girlfriend@|@nitá'painahkimaa@
+@i am obsessed with men@|@nitsiiksinaapitsi@
+@i am pouting@|@nitóínikksi@
+@i am pregnant@|@nitsíístsi'tsaana'pssi@
+@i am short@|@nitsí:kkakssi@
+@i am sleepy@|@nitáíhtsikssi@
+@i am slender@|@nitsíkkstsimi@
+@i am thinking of my father@|@nitáíksimsstatawa nínna@
+@i am thirsty@|@nitsí'naaki@
+@i am very anxious@|@nitsiiksípikkssi@
+@i celebrated a birthday@|@nitsííksistsikomi@
+@i did it@|@nitsíístotsii'pa@
+@i felt challenged@|@nitsíksii'taki@
+@i got cold chills@|@nitsíkkstsáánisi@
+@i got lost@|@nitsiksíssta'poo@
+@i got use to not smoking@|@náóhkssawao'tsisissi, nitsíkitayi'tsii'pa@
+@i had a fever@|@nitsííksisto'si@
+@i had an illegitimate child@|@nitsííksamaoko'si@
+@i have a back ache@|@nitáísttsoohtsátsiksskini@
+@i have a cold@|@nítssto'si@
+@i have money@|@nitsíínaani@
+@i know@|@nítssksinii'pa@
+@i love you@|@kitsiikákomimmo@
+@i made a commitment@|@nitaahkoomohsi@
+@i made a mistake@|@nitsípahtsa'pssi@
+@i might go there@|@nááhkamá'pito'too@
+@i ran in a race@|@nitsíkkaayayisskattsiiyi@
+@i said@|@nitáánii@
+@i screamed@|@nitsípi'sskinaósi@
+@I slept@|@nítso'kaa@
+@i understand blackfoot@|@nitáíitoohtsimi@
+@i was drunk@|@nitááttsiyi@
+@i was jealous@|@nitsííksisattsiiwaa@
+@i went to town@|@nítsstsisoo@
+@i wish to eat@|@nááhksoy'ssi, nitsííksstaa@
+@i won the prize@|@nitsííkiiki@
+@ice cream@|@áísstoyi, isstoowashin, sstónniki@
+@i'm always eating@|@nitáísskahsáóoyi@
+@i'm sad@|@nitsíkhhihkínii'taki@
+@i'm very scared@|@nitsíko'po@
+@intestines@|@mottsis@
+@it has become a full moon@|@ákaiksístto'simma@
+@it is a spirit@|@kayissta'pssiwa@
+@it is different@|@noohkíítssima@
+@it is hot@|@ksiistóyiiwaaki@
+@it is snowing@|@áóhpotaawa@
+@it snowed@|@iihpotááwa@
+@it tastes funny@|@iiksipístsipokowa@
+@it will be very cold@|@áaksiksstoyiwa@
+@it will be warm@|@áaksikinniiwa@
+@it will snow@|@áakohpotaayiihka@
+@it's a fig@|@apssíwa@
+@it's an arrow@|@ápssiwa@
+@it's mine@|@nitsiná'na, nitsináána@
+@jack rabbit@|@omahkááaitistaawa@
+@jam@|@míiniaohtaisttsikááhkimao'p@
+@january@|@áísstoyiimsstaa, isspssáísskitsimao'p, ómahksíki'somm@
+@jerky@|@káyiis@
+@june@|@ito'tsisamssootaa, niipiaato's, otsítsipottaatpi pi'kssiiksi@
+@kidney@|@mótookis@
+@knee@|@mottoksís@
+@kootenay tribe@|@kotonáá'wa@
+@lance@|@samákinn@
+@lark@|@mia'tii@
+@larynx@|@mohkíítohksiston@
+@lawyer@|@iiyikoyaapiikoan@
+@leave@|@asaksiwa@
+@left@|@naaw@
+@lightning@|@áípapomm@
+@lightning flash@|@ipapo@
+@lip@|@mootóónis@
+@lone fighters clan@|@ni'taiitsskaa@
+@lung@|@mohpín@
+@male@|@ikoan@
+@man@|@nínaa, nínaawa@
+@many ghosts@|@akáís ta'ao@
+@many graves@|@akáókiinaa@
+@march@|@sa'aiki'somm@
+@may@|@aapistsísskitsaato's@
+@meadowlark@|@soohkiisimsstaan@
+@meat stew@|@o'ksisakaoo'si, o'ksisakaoo'sin@
+@member of cheyenne tribe@|@kiihtsipimiitapi@
+@member of the black horse@|@sikimiota'si@
+@member of the nez perce tribe@|@komonóítapiikoan@
+@midnight@|@katsiksistó'koyi, tatsikiyaiko'ko@
+@milk@|@ónnikis@
+@monday@|@issikotoyiiksistsiko@
+@moon@|@ko'komíki'somm, ko'komíki'somma@
+@moose@|@ponoka@
+@mooses@|@ponokaiks@
+@morning@|@aksikskanáótonniwa, ikskanaotoni, ksisskanáótonni@
+@morning (1)@|@kaikskanáótonniwa@
+@mother@|@na'á@
+@mother-in-law@|@aakiaahs@
+@mountain lion@|@omakatyo@
+@muddy@|@pa'ksíkahko@
+@muskrat@|@mí'sohpsski@
+@my child'll celebrate a birth@|@maa nóko'sa áaksiksistsikomiwa@
+@my food@|@nitsówahsini@
+@my girlfriend@|@nitáákiikoama@
+@my old man@|@nináápiima@
+@native american@|@niitsíapi@
+@native american males@|@niitsítapiikoan@
+@native culture@|@niitsíapia'pii@
+@navel@|@móótoyi's@
+@neck@|@mohkokin@
+@nephew@|@isahkínaim@
+@never laughs clan@|@kata'yayimmii@
+@never lonesome clan@|@miaawaahpitsii@
+@night@|@ákáaksiko'kowa, ákaiko'owa, ko'kó, sipi@
+@nine@|@piihkssó, pixkso@
+@no@|@saa@
+@noon@|@tátsikiaiksistsiko@
+@north@|@waapatohs@
+@north blackfoot band@|@siksiá@
+@north peigan@|@aapátohsipikáni@
+@north peigan band@|@skiníípiikani@
+@North Piikani@|@Aapátohsipikani@
+@nose@|@móhksisís@
+@november@|@iitáóhkohtao'p, iitáóhkohtao'p@
+@oatmeal@|@pikkiáákssin@
+@oats@|@matoyí'nssimaan@
+@october@|@mo'kááto's, sa'áiksi itáómatooyi@
+@oil lamp@|@pomiáána'kimaa'tsis@
+@old@|@omahkitapi@
+@old man@|@omahkinaa@
+@old woman@|@kipitáaakii@
+@older brother@|@i's@
+@older sister@|@ínsst, nínsst@
+@one@|@ni't, nitokska@
+@orange@|@otahko@
+@over@|@sox@
+@owl@|@sipisttoo@
+@paddled saddle clan@|@kootsaakiiyi'taa@
+@pancake@|@isttohkihkiitaan@
+@pasta@|@áíssinnii'p@
+@peach@|@immoyaapasstaamiinaamm@
+@pear@|@ómahkínaotohton@
+@peas@|@oohkominokoistsi@
+@peigan band@|@piikáni@
+@pepper@|@pisstaahkaipokoo@
+@person of  japanese ancestry@|@tsaapinííkoan@
+@person of  mexican decent@|@sspayiikoan@
+@person of german decent@|@ksisísttsomo'ki@
+@person who lives on prairie@|@isskihtáí'tapiiyiwa@
+@please give it to me@|@kippohkókkit@
+@please hold the pipe carefully@|@ánni ááhkoyinnimaani@
+@policeman@|@iyinnakiikoan@
+@popcorn@|@paapáówahsini@
+@pork sausage@|@áíksinottsis@
+@porridge@|@pikkiáákssi@
+@potato@|@maatáák@
+@prairie dog@|@kitsisomahkokata@
+@puppy@|@sisomm@
+@rabbit@|@ááattsishaa@
+@rain@|@sootaa@
+@raisin@|@i'náksiin@
+@rattle snake@|@sáí'ittsikotoyi@
+@raven@|@omahkai'stoo@
+@red@|@máóhk@
+@red fox@|@máóhkataatoyi@
+@rib@|@mohpikis@
+@ribs@|@mohpikíístsi@
+@rice@|@issssiinainikimm@
+@ring@|@isapiikitsoohsa'tsis@
+@running@|@okska'sssini, okska'sssini, okska'sssini@
+@salmon@|@i'kotsóómii@
+@salt@|@isttsiksioko@
+@sandwich@|@po'tstákssin@
+@sarcee tribe@|@saahsi@
+@saturday@|@tótohtáátoyiiksistsiko@
+@see@|@ainima@
+@seed@|@kiníínoko@
+@september@|@áwákaasiiki'somm, iitáómatapapittssko@
+@seven@|@ihkitsik, ixkitsika@
+@she eats very much@|@iikáísstóksoyiwa@
+@she is pregnant@|@áaksistsí'tsaana'pssiwa@
+@shin@|@motsínaa@
+@shoulder@|@mottsikis@
+@shoulder blade@|@mohkatsíkin@
+@side by side@|@opaksikssto@
+@sideways@|@paahksíst@
+@sing@|@ainihkiwa@
+@sioux tribe@|@pinaapisinaa@
+@sister@|@áákiim@
+@sister-in-law@|@ootoohkiimaan@
+@sit at the place of honor@|@ikimópii@
+@six@|@naa, nau@
+@snack@|@a'písttaapiksistaki@
+@snow@|@ohpotaa@
+@son@|@ohkó@
+@song@|@ninihkihsini, ninihkssini, ninskssini@
+@son-in-law@|@iss@
+@soup@|@akóópihkaan, akóópskaan, kóópis@
+@south@|@waamsskaap@
+@south peigan@|@aamssáápipikani@
+@South Piikani@|@Aamsskáápipikani@
+@southern peigan persons@|@amsskáá pipikaniikoaiksi@
+@speak blackfoot@|@iitsi'poyi@
+@spoon@|@innóóhsoyi, innóóhsoyis@
+@spring@|@ákaotowa, ao'tósi, moto, motoy, otó@
+@stew@|@okksisákáóo'sin@
+@stomach@|@móókoan@
+@stony tribe@|@saahsáísso'kitaki@
+@storekeeper@|@áóhpommáópii@
+@storm@|@ipahka'pií@
+@student@|@áíssksinimá'tssa@
+@sugar@|@náápiiniiwan@
+@summer@|@áaksiipowa, ákaayippowa, niipówa, yiipo@
+@summer (1)@|@otá'yiipohsi@
+@sun@|@ki'sómm, ki'sómma@
+@sunday@|@naatoyíkistsiko@
+@sunlight@|@waahkanaapinako@
+@swan@|@iimahkáyii@
+@take warning@|@ksiistóyiiwaaki@
+@tea@|@áísoyoopoksiikimi, siksikimí@
+@teacher@|@áíssksinima'tstohki@
+@teeth@|@mohpííkiistsi@
+@ten@|@kepo, kiipó@
+@they@|@ostoasuai@
+@thigh@|@moápisakis@
+@thirty@|@niiíppo, nippo@
+@three@|@nioókska, niuokska@
+@throat@|@mohksistón@
+@thunder@|@ksiistsikomm@
+@thunderbird@|@ksiistsikómiipi'kssii@
+@thursday@|@náámiksistsiko@
+@timber wolf@|@ómahkapi'si@
+@time will pass@|@áaka'paisiiwa@
+@tomato@|@kiníí@
+@tongue@|@maisiní@
+@tooth@|@mohííkin@
+@torso@|@mo'kin@
+@tuesday@|@isttsinaikisistsiko@
+@turkey@|@ómahksipi'kss@
+@twelve@|@náátsikopotto@
+@twenty@|@náátsippo, natsippo@
+@twin@|@niistsímii@
+@two@|@ist, natoka@
+@uncle@|@aaáhs@
+@under@|@istaaht@
+@unmarried single woman@|@námaakii@
+@up@|@ssp@
+@water@|@aohkíí, aohkííyi@
+@watermellon@|@ómahkotsskoi'nssimaan@
+@we@|@ksistunan, nistunan@
+@we had a squabble@|@nitsíípiwa'psspinnaana@
+@we have split up@|@nikááwayákiitoohpinnaana@
+@wednesday@|@iitawáánao'kso'kii'p@
+@west@|@waami't@
+@what are you trying to do?@|@kitáíssáaksikííhpa?@
+@what did i do?@|@nitsííhpa?@
+@what does it mean?@|@tsá anistápanissina?@
+@what is it?@|@tsá anistápiiwa?@
+@what is your name?@|@tsá kitánikkoo?@
+@wheat@|@miiniinokoo@
+@when did you eat?@|@tsá anistsííyi kitsítsoyihpa?@
+@where did you sleep?@|@tsimá kitsítso'kááhpa?@
+@whiskey@|@náápiaohkii@
+@white@|@áápi, ksikk@
+@white buffalo berry@|@apssí@
+@white chest clan@|@kayikkao'kikin@
+@white robe clan@|@ksikksis'ka'simi@
+@white woman@|@náápiakii@
+@who are you?@|@takáá kiistówa?@
+@who are your relatives?@|@tahkáa kinóóhkiitsistowahsina?@
+@who is it?@|@takáatsiksí?@
+@wife@|@ohkiimaan@
+@wild onion@|@pisatsiinikimm@
+@wind@|@sopo@
+@windy@|@isopo@
+@wine@|@mííniaohkii@
+@winter@|@aksipákssaisstoyiwa, ipákssaisstoyi@
+@winter (1)@|@ipákssaisstoyiwa@
+@woman@|@a'kííwa, aakíí, aakííwa@
+@yeast bread@|@koohpááttstaan@
+@yellow@|@otahko@
+@you@|@ksistoa@
+@you (pl)@|@ksistoau@
+@you are a nice person@|@kitsikááhsitapi@
+@you are skinny@|@kitsííksipíksini@
+@young@|@a'sitápi@
+@young married man@|@saahkinaa@
+

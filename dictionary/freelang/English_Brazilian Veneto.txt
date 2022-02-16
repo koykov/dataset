@@ -1,0 +1,176 @@
+@English@|@Brazilian Veneto@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a@|@na, on, un@
+@a devilish@|@um diavolasso@
+@a light@|@na luze@
+@a lot@|@tanta, tante, tanti, tanto@
+@a pint of something@|@un giossero de calcossa@
+@a potato@|@na patata@
+@a witch@|@na strega@
+@Abrahan@|@Abramo@
+@Achilles@|@Achile@
+@Adam@|@Adamo@
+@afraid@|@paúra@
+@Albert@|@Berto@
+@Alexander@|@Alessandro, Ciano, Lissandro@
+@all@|@tuta, tute, tuti, tuto@
+@an@|@na, on, un@
+@Andrew@|@Andrea@
+@Angel@|@Ánzola@
+@another@|@naltra, naltre, naltri, naltro, nantro@
+@Anton@|@Toni, Tónio@
+@any@|@calche, qualche@
+@August@|@Gusta (f), Gusto (m)@
+@bartholomee@|@Bartolomío@
+@Bartholomee@|@Bórtolo@
+@belly@|@pansa@
+@Bernard@|@Bernardín@
+@bin@|@sécio@
+@boy@|@toso@
+@bride@|@sposi@
+@bye@|@ciao@
+@Catherine@|@Cate, Caterina@
+@Charles@|@Carlo@
+@Charlie@|@Carleto, Carlin@
+@church@|@cesa@
+@day@|@giorno@
+@eight@|@oto@
+@eighteen@|@disoto@
+@eleven@|@óndese, úndese@
+@Elisa@|@Isa@
+@Eugen@|@Génia (f), Génio@
+@Ferdinand@|@Nando@
+@few@|@poca, poche, pochi, poco@
+@few many and lot work@|@pochi schéi e tanto laoro@
+@fifteen@|@quíndese@
+@five@|@sinque@
+@foolish@|@gnoco@
+@four@|@quatro@
+@fourteen@|@quatórdese@
+@Francis@|@Checa, Checo (m)@
+@girl@|@tosa@
+@Helen@|@Lena@
+@her daughter@|@sô fióla@
+@her dfaughters@|@sô fióle@
+@here@|@quá@
+@his@|@sô@
+@his son@|@sô fiól@
+@his sons@|@so fiói@
+@how much@|@quanta, quante, quanti, quanto@
+@how time lost@|@quanto tenpo perso@
+@in the@|@tei, tel, tela, tele@
+@in the hole@|@tel buso@
+@in the holes@|@te i busi, tei busi@
+@in the house@|@te la casa, tela casa@
+@in the houses@|@te le case, tele case@
+@Isaac@|@Isaco@
+@it@|@sta, stê, sti, stô@
+@Ivan@|@Ivano@
+@Jacob@|@Giácomo@
+@January@|@genaro@
+@Jeremy@|@Momi, Momo@
+@Joana@|@Nana@
+@John@|@Duán, Giani, Giováni, Nani@
+@Joseph@|@Bepi, Bepin, Bepo, Pino@
+@Josephine@|@Pina@
+@Lisa@|@Elisa@
+@lost@|@perso@
+@Louis@|@Gígio, Luvigi@
+@Luke@|@Luca@
+@Mark@|@Marcheto@
+@Martin@|@Martín@
+@Mathew@|@Matío@
+@maybe@|@chissá, chocas, cioche@
+@Michael@|@Micél@
+@money@|@shéi@
+@my@|@me@
+@my daughter@|@me fióla@
+@my daughters@|@me fióle@
+@my son@|@me fiól@
+@my sons@|@me fiói@
+@necessity@|@bisigno@
+@Nicholas@|@Coló, Nicoló@
+@nine@|@nove@
+@nineteen@|@disnove@
+@nothing@|@gnente@
+@of the@|@dei, del, dela, dele@
+@of the boy@|@del toso@
+@of the boys@|@dei tosi@
+@old man@|@vécio@
+@one@|@on, un, una, uno@
+@one day@|@un dí@
+@other@|@altra, altre, altri, altro@
+@our@|@nostra, nostre, nostri, nostro@
+@our son@|@nostro fiól@
+@our sons@|@nostri fiói@
+@Paul@|@Pailín@
+@Pauly@|@Paulina@
+@Peter@|@Pierin, Piero@
+@Rebecca@|@Rebeca@
+@Robert@|@Beto@
+@Rose@|@Rosina@
+@same@|@istessa, istesse, istessi, istesso, stesso@
+@same (1)@|@medésima, medésime, medésimi, medésimo@
+@Sebastian@|@Bastián@
+@seven@|@sete@
+@seventeen@|@disassete, dissete@
+@six@|@sei, síe@
+@sixteen@|@diciasséi, sédese@
+@snake@|@bissa@
+@some@|@raquanta, raquante, raquanti, raquanto@
+@some girls@|@dele tose@
+@stone@|@sasso@
+@sugar cane liquor@|@caciassa@
+@Suzan@|@Suzana@
+@ten@|@diese@
+@that@|@quel@
+@that boss@|@quéaltro parón@
+@the@|@al, el, il, l', la@
+@the (pl)@|@i, le@
+@the air@|@l'ária@
+@the bird@|@l'osél@
+@the boys@|@i tosi@
+@the dog@|@el can@
+@the dogs@|@i can@
+@the man@|@l'omo@
+@the soul@|@l'ánema@
+@the vinegar@|@l'aseo@
+@their@|@sô@
+@there were some guys@|@lá ghin dei tosi@
+@Theresa@|@Géia, Taresa@
+@these boys@|@sti tosi@
+@these girls@|@ste tose@
+@these ones@|@ste quá, sti quá@
+@they (things)@|@quéi, quél, quéla, quéle@
+@thirteen@|@trédese@
+@this@|@questa, queste, questi, questo@
+@this boy@|@sto toso@
+@this girl@|@sta tosa@
+@this one@|@sta quá, sto quá@
+@those@|@quéaltra, quéaltro. quélaltri, quélatre@
+@those bosses@|@quéaltri paroni@
+@three@|@tre, tri@
+@time@|@tenpo@
+@to the@|@ai, al, ala, ale@
+@to the boy@|@al toso@
+@to the boys@|@ai tosi@
+@to the girl@|@ala tosa@
+@to the girls@|@ale tose@
+@twelve@|@dódese@
+@twenty@|@vinti@
+@two@|@dô, du, due@
+@Victor@|@Vitorieto, Vitorin, Vitorino, Vitório@
+@Vincent@|@Céncio@
+@war@|@guera@
+@water@|@ácoa, áqua@
+@what@|@che@
+@what afraid!@|@che paúra!@
+@which@|@qual, quala, quale@
+@whips@|@i sicoti@
+@why@|@parché@
+@without@|@sensa@
+@work@|@laoro@
+@your@|@tô@
+@your (pl)@|@vostra, vostre, vostri, vostro@
+

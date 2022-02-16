@@ -1,0 +1,632 @@
+@English@|@Venetian@
+@Author name@|@Bruce Olby@
+@Font@|@Arial\12\Arial\12@
+@a bad fall@|@ramenón@
+@a bit that juts out from a building such as a porc@|@protiro@
+@a group@|@scàpo@
+@a little@|@fhià, scànta@
+@a lot@|@pasto@
+@a nice small female cat@|@na bea gatea@
+@a nice small male cat@|@un bel gatel@
+@a type of helmet@|@morione@
+@after a canal that once went through the area behi@|@Birri@
+@already@|@inxamò, xa@
+@also a scam@|@marón@
+@ambassador@|@bailo@
+@amber@|@anbra@
+@angel@|@anzolo@
+@annoying person@|@petenè£a@
+@anoint@|@ónxar@
+@anyway@|@instéso@
+@apothecary@|@spezieria@
+@Arab chief@|@gaffer@
+@arch or vault@|@volto@
+@armourers@|@corazzieri@
+@arrow@|@frìxa@
+@arrow makers@|@frecce, frezze@
+@asphalt@|@ludrón@
+@astrologer@|@strologo@
+@autentic@|@scéto@
+@bad corner@|@malcanton@
+@baker@|@pistor@
+@ball@|@bala, baloni@
+@barber@|@barbier@
+@barely@|@indomè@
+@barrel maker@|@boter@
+@barrel-makers@|@botteri@
+@barrow@|@cariole@
+@be in a confusion@|@confóndar@
+@beadle@|@nonzolo@
+@beak@|@bèko@
+@beams laid across boats or gondolas@|@trasti@
+@bear@|@orso@
+@beard@|@barba@
+@beauty@|@bela@
+@behind@|@drìo@
+@believe@|@crédar@
+@bellows@|@màntexa@
+@belts@|@corregge@
+@beret makers@|@baretteri@
+@besides@|@intrà@
+@between@|@mèdho, mèxo@
+@big nose@|@nasòpia@
+@biscuit@|@pandò£o@
+@blacksmith@|@favri@
+@blanket maker@|@coltri@
+@blind@|@òrbo@
+@boat@|@batelo@
+@book of regulations@|@mariegole@
+@boot@|@stivaleto@
+@borrowings@|@inprèstiti@
+@bottle-makers@|@bottiglieri@
+@bottom of bottle@|@patùgo@
+@bowl@|@scuela@
+@box (in a theatre)@|@lalaj@
+@braider@|@passamanere@
+@brandy merchants@|@acquavitai@
+@brass@|@£atón@
+@bread shop@|@panataria@
+@broken@|@xlòso@
+@broom@|@skóa@
+@brotherhoods@|@fraglie, frataglie, fratellanze@
+@bunch@|@ròso@
+@burned (a fire broke out here)@|@brusa@
+@bush@|@gavàso@
+@butcher@|@beccaio, masìn@
+@buttress sticking out over the pavement@|@barbacani@
+@by now@|@indormài@
+@cage@|@cheba, kèba@
+@caliph@|@gaffer@
+@canal@|@canalem@
+@canal that drives a water mill@|@bierum, biria@
+@candies@|@£ekési@
+@candle makers shop@|@cereria@
+@canvas vendor@|@telariol@
+@capuchin nuns@|@capuzine@
+@card (type of wire brush)@|@garzo@
+@carders@|@garzoti@
+@carpenter@|@marangón@
+@carriages@|@carozze@
+@cat@|@gate@
+@catch@|@brinkàre@
+@caulkers@|@calafati@
+@chair@|@caréga@
+@charcoal@|@brónsa, carbon@
+@chart or chariot@|@carro@
+@cheek@|@papòta@
+@cheese@|@caserie, fhormàyo@
+@cheese market@|@casaria@
+@cheese-makers@|@casari@
+@chew with the mouth open@|@cupegàre@
+@child@|@putè£o@
+@chin@|@xbéso£a@
+@church servant@|@nonzolo@
+@circular piece of art@|@tondo@
+@clean@|@netar@
+@close@|@rénte@
+@closed@|@sarà@
+@cloth covering gondola cabins@|@rascia, rassa@
+@clumsy@|@sakanhón@
+@cobblers shop@|@zavater@
+@cockroach@|@kefàro@
+@cold@|@frédha@
+@colt@|@puliéro@
+@column@|@colone@
+@confraternities@|@fraglie, frataglie@
+@coppersmith@|@caldere@
+@corn@|@muneghe@
+@cotton@|@bambace, bonbaxón@
+@cotton sellers@|@bombasseri@
+@craftsmen who polished ir@|@lustraferre@
+@cramp@|@xgrànfho@
+@crate maker@|@casseller@
+@crossing of several calles@|@crosera@
+@crucifix@|@cristi@
+@crum@|@frégo£a@
+@curves on a road@|@bisabòbo£e@
+@dad@|@popà@
+@dandelion@|@pisakàn@
+@diamond worker@|@diamanteri@
+@ditch@|@fossa@
+@donkey@|@muso@
+@doorstep@|@ùso@
+@down@|@dhó@
+@drain@|@gorne@
+@dried chestnut@|@kistìnkene@
+@drink@|@bévar@
+@drop@|@jósa@
+@dumb@|@òko, senpioldo@
+@dung@|@luàme@
+@dyers@|@tintori@
+@eagle@|@£agùia@
+@eighteen@|@dixdòto@
+@elbow@|@gunbio@
+@elder tree@|@jéo£o@
+@empty stomach@|@xlangorìo@
+@enchanted@|@inmagàrse@
+@enclosed garden@|@brolo@
+@evil@|@biastema@
+@example@|@exénpio@
+@exclamation@|@cò@
+@faded@|@xmarìo@
+@fake egg to put on hen's nest@|@ìndese@
+@fat person@|@pantasón@
+@father@|@pare@
+@father in law@|@sànto£o@
+@feel@|@sentir@
+@female pig@|@luya@
+@fencing@|@scherma@
+@ferry@|@traghetto@
+@filthy@|@ludro@
+@finger@|@déo@
+@finger nail@|@ónja@
+@finish@|@finir@
+@fireflies@|@cicendelae@
+@flabby@|@òfhio@
+@flea@|@pólde@
+@footprint@|@pèka@
+@fork@|@pirón@
+@fox@|@bólpe@
+@Friday@|@vènare@
+@fruit seller@|@frutariol@
+@full@|@pien, xjónfo@
+@funeral@|@òbito@
+@funnels@|@pirie@
+@gate@|@gatàro@
+@George@|@Dhòrdhi@
+@gerbil@|@nanarè£a@
+@german@|@dhermàn@
+@gilder@|@indorador@
+@glass@|@gòto@
+@glass bead make@|@margaritera@
+@glass bead stringers@|@impiraresse@
+@goat@|@béko@
+@goats@|@bechi@
+@goblet@|@calice@
+@goblin@|@salbanè£o@
+@goldsmiths@|@aurifices, orefici@
+@gondola yard@|@squero@
+@gossiper@|@xbétega@
+@grapes@|@ùa@
+@grungy@|@xlamegón@
+@gums@|@dhandhìvi@
+@gun@|@scòpo@
+@gutter@|@górna@
+@hard strike@|@xìxo£a@
+@harrow -farm utensile@|@scavìna@
+@hat shop@|@capelera@
+@he cries@|@El pianze@
+@he is@|@El xe@
+@hedge@|@scéve@
+@hemorrhoids@|@maruè£e@
+@hemp-spinners@|@filacanevi@
+@here@|@kive@
+@hiccup@|@sanjùto@
+@hide and seek@|@cupaskóndare@
+@hill@|@montagnola@
+@him@|@£u, lu@
+@hind quarter of beef@|@nomboli@
+@hip@|@galón@
+@hoe@|@zappa@
+@hole@|@buso@
+@honeybee@|@ava@
+@hook@|@ranpìn@
+@hooligan@|@£énsa@
+@horrible face@|@moleca@
+@hunchback@|@gobbo@
+@hunchbacked@|@gufo@
+@Hungarian@|@óngaro@
+@hurry@|@prèsia@
+@hyperactive kid@|@sanbè£o@
+@I wouldn't have been speaking@|@No sarìa mìa stà drio parlarte@
+@ice@|@giazzo, jaso@
+@icon@|@ancona@
+@immorality@|@biastema@
+@in between@|@mèdho@
+@index@|@endegàro@
+@innkeeper@|@osti@
+@inside@|@drénto@
+@insipid@|@desavìo@
+@intestine like (i.e.long)@|@buello@
+@iron@|@fero@
+@ivy@|@èlira@
+@jacket@|@yakéta@
+@Jew@|@zudio@
+@jeweller@|@gioiellieri@
+@joker@|@bago£ón@
+@judgement@|@yudìsio@
+@July@|@luyo@
+@kid@|@bòca, bòca@
+@kind of doughnut with ladder type markings@|@scaleter@
+@kind of stew@|@sguazzetto@
+@knee@|@dhenòco, xenòco, zenòco@
+@lad@|@tosàt@
+@ladder@|@£òtara@
+@lamb@|@nhèl@
+@lame@|@cónpo@
+@land with tunnels used for rinsing cloth@|@purgo@
+@lantern makers@|@feraleri@
+@large cargo barge@|@piata@
+@larger than a gondola@|@burchielli@
+@lazy@|@pe£andrón@
+@leaf@|@fhòya@
+@lean@|@£aìn@
+@leather@|@pele@
+@leather warehouse@|@curame@
+@leather workers@|@pellizzeri@
+@left@|@thanka@
+@leg@|@£aka@
+@light fever@|@nhànhara@
+@lightning@|@xjantìso@
+@lights that resembled@|@cesendeli@
+@like a small harbour@|@sacca@
+@loaf@|@còpa@
+@loggia@|@lòxa@
+@long@|@£óngo, lóngo@
+@loose@|@pèrdar@
+@low surgeons who dealt with corns etc.@|@stueri@
+@mad@|@corlo@
+@magistrate or chamberlain@|@camerlengo@
+@magpie@|@kéka@
+@makers of squele@|@scudeleri, squeieri@
+@makers of the beam across boats and gondolas@|@traste@
+@market@|@markà@
+@marsh@|@piscina@
+@matches@|@piànperi@
+@mattress maker@|@stramazer@
+@maybe@|@fhursi@
+@medicine with many ingredients@|@teriaca@
+@mercenaries@|@condottiere@
+@microphone@|@brinkavóxe@
+@middle@|@mezzo@
+@midwife@|@comare@
+@milk vendor@|@pestrin@
+@mint (coins)@|@zecca@
+@money@|@skèi@
+@monkey@|@simia@
+@moon@|@luna@
+@morir@|@die@
+@mortified@|@baxùo@
+@moss@|@ìspio@
+@mother@|@mare@
+@mouse@|@moréja@
+@mouth@|@bóka@
+@move@|@móvar@
+@mud removers@|@burchielli dacava fanghi@
+@my father he's behind to speak@|@me pàre 'l jèra drìo a parlàr@
+@nail@|@còdo@
+@narrow canal@|@rielo@
+@nephew@|@nevódo@
+@nest@|@nharo@
+@newspaper@|@jornà£e, xornà£e@
+@nightmare@|@mara@
+@No stà tocarme lì!@|@Don't touch me there!@
+@nosy@|@sfharexón@
+@not cultivated@|@végro@
+@not even@|@nhanka@
+@notary@|@nodàro@
+@nothing@|@ninte@
+@nuisance@|@raganhò£o@
+@nut@|@nóxa@
+@oar makers@|@remeri@
+@obelisks@|@guglie@
+@oil@|@ogio, òyo@
+@OK@|@po£ìto@
+@onion@|@çeó£a@
+@opposite@|@rimpeto@
+@ounce@|@ónsa@
+@out@|@fhóra@
+@owl@|@a£okón@
+@owner of coffee shop@|@caffetiere@
+@oysters@|@ostreghe@
+@pain@|@magànha@
+@painter@|@depentor@
+@pan@|@penhàta, técia@
+@pan maker@|@pignater@
+@parsley@|@parsìmo£o, persemolo@
+@parsonage@|@canonica@
+@pass@|@passar@
+@patron@|@provveditore@
+@paw@|@sata@
+@peach@|@pèrsego@
+@peas@|@bìsi@
+@pen@|@pena@
+@people@|@jénte, xénte@
+@pepper@|@pévare@
+@permit@|@permétar@
+@pharmacist or spice merchant@|@spezier@
+@piece@|@tòko@
+@pig foot@|@£evaró£a@
+@pigeon@|@pipión@
+@piggy bank@|@muxìna@
+@pigs ribs@|@sparagànhe@
+@pile@|@marè£o@
+@pine-nut merchant@|@pignoli@
+@pitch worker@|@pegoloti@
+@pitcher@|@xara@
+@place of foundries@|@getto, ghetto@
+@places were dyed cloth was hung out to dry@|@chiovere@
+@plum@|@brónba@
+@pocket@|@gayòfha@
+@point@|@pontar@
+@point of a dagger also style@|@stilo@
+@police man@|@marte£àro@
+@pork butchers@|@luganegheri@
+@precocious@|@parmédo@
+@prison@|@cason@
+@procrastinator@|@xlandrón@
+@public place where gambling was permitted@|@ridotto@
+@put@|@métare@
+@quartered (i.e. executed)@|@squartai@
+@quay@|@molo@
+@quiet@|@kièto@
+@raftsmen@|@zattieri@
+@rag merchants@|@strazzeri@
+@raspberry@|@anpómo£a@
+@rat@|@sórxe@
+@razor@|@rasaóro@
+@red@|@róso@
+@refuse collectors@|@burchieri, burchierillanti@
+@registration@|@mariegola@
+@repairers of copper and terracotta pans@|@conzalavezze, lavezer@
+@ricotta cheese@|@puìna@
+@ring@|@scona@
+@rock@|@cénjo@
+@rock slide@|@marònhe@
+@rooster@|@xhal@
+@root@|@raìxa@
+@rope-makers@|@cordaroli@
+@round twist@|@zirada@
+@rubbish tip@|@scoazera@
+@rubble removers@|@burchielli da rovinassi@
+@sail maker@|@vele@
+@salamander@|@£igaóro@
+@sale@|@véndar@
+@sanctuary@|@capitello@
+@sand@|@lòsa@
+@sand merchants@|@sabbioneri@
+@sandy ground@|@sabbioso@
+@Saracen@|@sarasina@
+@scaffolding@|@baldréska@
+@scatter-brained (like a pinning top)@|@corlo@
+@school@|@skó£a@
+@seat@|@sentar, shénta@
+@see@|@védar@
+@see entrecosei@|@manini@
+@seller of boiled lamb's feet@|@penini@
+@sellers of persica (thick conserve of peaches)@|@persicata@
+@serve@|@servir@
+@shadow@|@ónbrìa@
+@she takes@|@tó£e@
+@she was@|@£a xera@
+@shearer@|@cimadore, simadore@
+@sheepskin@|@moltón@
+@shivers@|@xgrìxo£e@
+@shoemakers@|@calegheri@
+@shop selling fried fish etc. to the poor@|@furatole@
+@shop selling fries fish etc. to the poor@|@pizzicagnoli@
+@shop selling imported wine@|@malvasie@
+@short for what@|@sa@
+@shuddered@|@balbo@
+@side walls on a bridge.@|@bande@
+@silk braider@|@vergola, vergoler@
+@silly@|@nhanho@
+@sing@|@cantare@
+@singing a lullaby@|@ninàre@
+@ski@|@stèrke£e@
+@skirt@|@còtoa@
+@slap@|@papìna, skope£òto, xlépa@
+@slaughter house@|@beccarie@
+@slave@|@scào@
+@sleep@|@dormir@
+@slices@|@fete@
+@slippers@|@sanpòto£e@
+@slippery@|@£ispo@
+@small balls used in ballots@|@ballotte@
+@small chiovere@|@chioverette@
+@small fly@|@musolìn@
+@small hole@|@foro@
+@small mountain@|@montagnola@
+@small picture@|@ancona@
+@small woollen blankets@|@schiavine@
+@smith@|@fabbre@
+@snake@|@bissa@
+@snot@|@xnharòko@
+@snow flake@|@fhalìva@
+@snugly@|@kisa@
+@soap makers@|@saoneri, soneri@
+@spice merchants@|@spezieri da grosso@
+@spices (ground)@|@pesta@
+@spindle makers (spinning machines)@|@fuseri@
+@spinners workshop@|@filatoio@
+@spires@|@guglie@
+@spit@|@xgàparo@
+@splinter@|@stè£a, stèla@
+@spoon@|@skuliéro@
+@square@|@broglio@
+@stain with grease@|@onfegàre@
+@state chief physician@|@protomedico@
+@stingy@|@peocóxo@
+@stone-cutter@|@tagiapietra@
+@stool@|@skanho@
+@stove usually where stueri operated@|@stua@
+@stranger@|@fhorèsto@
+@straw@|@pagia@
+@street cleaners@|@scoazzere@
+@strip (of land)@|@lista@
+@stupid@|@fhabiòko@
+@stupid person@|@baùko, drugo@
+@sturgeon@|@sturion@
+@summer@|@istà@
+@supper@|@çena@
+@suspended choir@|@barco@
+@swallow-type of bird@|@sixì£a@
+@sweater@|@maya@
+@swollen@|@infhià@
+@sword@|@spade@
+@sword makers@|@spadaria@
+@tables@|@tò£e@
+@tables or boards (timber sellers)@|@tole@
+@tailors@|@sarti, sartoria@
+@tails of long tuxedo@|@melórde@
+@take@|@portar@
+@talcum powder@|@polvere@
+@tangles (thin gold chains that got tangled up)@|@entrecosei@
+@tea cup@|@cìkara@
+@ten@|@diéxe@
+@the@|@el@
+@the dog was dirty@|@el can 'l jèra sporc(o)@
+@the exit@|@insìda@
+@the Fall@|@saràda@
+@the fat big female cat@|@La gatona grassa@
+@the fat big female cats@|@Le gatone grasse@
+@the fat big male cat@|@El gaton gras@
+@the fat big male cats@|@I gatoni grassi@
+@the laptop@|@sora£ake@
+@the Spring@|@vèrta@
+@the tickles@|@gatarìso£e, gatè£e@
+@the touch@|@tóko@
+@there@|@£ive@
+@they themselves have woken up@|@(luri) i se ga/à svejà@
+@thorny heap of bushes@|@baro@
+@Thursday@|@xòbia@
+@timber transporters@|@burchielli da legna@
+@tin workers@|@stagneri@
+@tired@|@xbramoxà@
+@to accumulate@|@ingrumàre@
+@to be afraid@|@temer@
+@to be ashamed@|@ingrisàrse@
+@to be disoriente@|@inoriàrse@
+@to be filled@|@inpasà@
+@to become@|@nhaér@
+@to bend@|@kipàre@
+@to break@|@skavesàre@
+@to clap@|@scokàre@
+@to climb@|@ranpegàre@
+@to close@|@saràre@
+@to cool down@|@tibiàre@
+@to drink@|@bévare@
+@to dry up@|@sugàre@
+@to fight@|@petufhàrse@
+@to flash@|@xbarlukàre@
+@to forget@|@dexmentegàrse@
+@to get covered with mud@|@inbolxemàre@
+@to get to work@|@spesegàre@
+@to glue@|@petàre@
+@to grease@|@ónxare@
+@to hear@|@scoltar@
+@to help@|@yudàre@
+@to imprison@|@incasonare@
+@to knock down@|@skoraiàre@
+@to look after@|@téndare@
+@to mend@|@takonàre@
+@to move around stretching@|@xvanpo£àrse@
+@to muffle oneself@|@infholponàrse@
+@to pinch@|@spithigàre@
+@to play@|@xugàre@
+@to prepare@|@parecàre@
+@to press@|@frakàre@
+@to prowl@|@ruxàre@
+@to push@|@urtàre@
+@to rash@|@rusàre@
+@to read@|@lèdhare@
+@to reveal@|@pàndare@
+@to scrutinize@|@peretàre@
+@to shake@|@sgorlàr, skorlàre@
+@to slip@|@xbrisiàre@
+@to smother@|@stofegàre@
+@to snore@|@ronkexàre@
+@to speak gibberish@|@causkàre@
+@to spray@|@xbitaràre@
+@to steal@|@furari@
+@to strike@|@scékenàre@
+@to thunder@|@tanbràre@
+@to tumble@|@rigolàre@
+@to turn on@|@inpisàre@
+@to untie@|@dexgrafàre@
+@to wag@|@kanpigo£àre@
+@to walk quickly@|@petotàre@
+@to waste time@|@piato£àre@
+@to water@|@xbiansàre@
+@to whimper@|@finfotàre@
+@tool used to whip milk@|@kitàra@
+@transportation vehicle@|@slòsa@
+@trend@|@fhòdha@
+@trestles used by weavers and dyers for drying clot@|@cavalletti@
+@tripe cooks@|@triperi@
+@turkey@|@pào@
+@turn@|@inbotonar, zirada@
+@turn off@|@xmorsàre@
+@twisted around@|@intorko£à@
+@type of berry@|@franfrìgo£a@
+@type of bird@|@gardéna, panpa£ùgo@
+@type of cheese@|@kèserle@
+@type of cherries@|@marinè£e@
+@type of coin@|@scudi@
+@type of drain@|@gatolo@
+@type of food@|@nhòko@
+@type of gardening scythe@|@sìxo£a@
+@type of hay@|@madhégo@
+@type of mushroom@|@fhìnfarli@
+@type of tree@|@làrexe@
+@ugly@|@moleca@
+@umbrella's ray@|@marè£a@
+@urban blocks (former islands)@|@insulae@
+@used to@|@ùxo@
+@useless object@|@trapè£o@
+@varnish@|@varnìxa@
+@vendors of almonds and dried fruit@|@mandoleri@
+@Venetian coin@|@zecchine@
+@Venetian floor layer@|@terazzera@
+@very dirty@|@scàsaro@
+@vicar@|@visdomino@
+@vicarage@|@canonica@
+@vice@|@biastema@
+@vinegar@|@aseo@
+@vomit@|@gòmito@
+@voracious@|@xlaparón@
+@wad@|@panhùgo£o@
+@wall made of stones@|@masiéra@
+@wanderer@|@xbrindo£ón@
+@warehouse@|@fondaco, fontega@
+@was@|@yera@
+@was the dog dirty?@|@el can jèrelo sporc(o)?@
+@washbasin@|@£avaóro@
+@washers@|@lavanderi@
+@wasp@|@brèspa@
+@watch out@|@òco@
+@water snake@|@àspexe@
+@water-melon@|@anguria@
+@weak@|@patòfhia@
+@weaver@|@testor@
+@weavers of silk drapes@|@palii@
+@were you dirty?@|@(ti) xèrito sporco?, (ti)jèritu sporc?@
+@wheat@|@mazena@
+@wheel@|@riota@
+@when@|@kó@
+@Where is my room?@|@Dove xela la me camara?@
+@Where is the bar?@|@Dove xelo el bar?@
+@Where is the beach?@|@Dove xela la spiajia?@
+@whimp@|@frìto£a@
+@whipped@|@frustai@
+@wife@|@fhémena, moyére@
+@wig@|@parucheta@
+@wild berry@|@pèrla@
+@willow reeds@|@strope@
+@wine seller@|@magazen (da vin)@
+@wise@|@marxemìn@
+@witch@|@anguàna@
+@wool lustrer@|@manganer@
+@worse@|@pèdho@
+@wrinkles@|@gréspe@
+@wrong step@|@malpasso@
+@yellow@|@dhà£o@
+@yestarday@|@yeri@
+@you have asked yourself@|@ti te te à/ga/ghè domandà@
+@you were dirty@|@ti te jèra sporc, ti te jèri sporco@
+@you were dirty (1)@|@ti te xeri sporco@
+@you yourself are washed@|@(ti) te te à/ga/ghè lavà@
+@young fellow@|@yóvene@
+@young peasant@|@barukè£o@
+@zipper@|@pate£ón@
+

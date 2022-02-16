@@ -1,0 +1,463 @@
+@English@|@Oromo@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@all@|@därä@
+@ankle@|@mani'i@
+@answer@|@deeb-isa@
+@ant@|@gondaa@
+@antelope@|@guguf-to@
+@antelope oryx@|@abiyó@
+@anus@|@futee@
+@arm@|@gana, gana, harkka@
+@armpit@|@boba@
+@arrive@|@gaya@
+@arrow@|@fia, fue@
+@ask@|@qorqoro@
+@ass@|@dongorra@
+@aunt (sister of father)@|@adada@
+@axe@|@kalta@
+@baby@|@daa-ima@
+@back of house@|@boroo@
+@bag@|@qalqalloo@
+@basket@|@suumfa@
+@bat@|@qura'a@
+@be@|@gir-@
+@be bad@|@magu@
+@be broken@|@fulla'a@
+@be destroyed@|@huduma@
+@be devasted@|@ona@
+@be drunk@|@machaw@
+@be exhausted@|@gaggaba@
+@be forbidden@|@laga@
+@be hurt badly@|@dayya'a@
+@be lost@|@bad-@
+@be torn@|@tarsa'sa@
+@be under impression@|@se'a@
+@be worse@|@mannaa@
+@bean@|@adunguri, daangulle@
+@beat@|@tuma@
+@become dark@|@dhi'a@
+@become evening@|@dhi'a@
+@become faint@|@diqqa@
+@become ill@|@busaaa@
+@bedbug@|@tukaani@
+@behind@|@duboo@
+@believe@|@amana@
+@belly@|@gara@
+@big@|@guddaa@
+@big stomach of ruminants@|@gäräba@
+@bird@|@shimbira, simbira@
+@bite@|@aboota@
+@black@|@boora@
+@black ant@|@mithii@
+@block@|@qoroo@
+@blood@|@dhiga@
+@boar@|@gol'aa@
+@bone@|@lafe@
+@bowl@|@caabii@
+@braid@|@cifra@
+@brain@|@ngoo@
+@bread@|@areeda@
+@break off@|@folloqa@
+@break through@|@full-a'a@
+@brick@|@thuubii@
+@bright@|@collee@
+@brother@|@obboleessa@
+@brothers and sisters@|@obbolaa@
+@bull@|@oor-oo@
+@burn@|@gub-@
+@butterfly@|@bil-acca, bïli@
+@buttocks@|@duboo, teeri, teeri@
+@calf@|@cibaa, waatii, waatii, wellega dibi-cca@
+@calf of leg@|@sarbaa@
+@call@|@waama@
+@camel@|@gaala@
+@cattle@|@loon@
+@chase@|@ari'a@
+@chest@|@lap'p'ee@
+@chick@|@cucoo@
+@chickpea@|@shumbur-ä@
+@child@|@baabuu, daa-ima@
+@chip@|@fottoqa@
+@clever@|@hilluu@
+@climb@|@riqa@
+@cloth@|@dhaw-@
+@cloudy weather@|@harooressa@
+@cold@|@qabbanä'ä@
+@community@|@daadoo@
+@companion@|@lammii@
+@cook@|@affeela@
+@corn@|@ees, hayd-, shiroo, shuroo@
+@count@|@lakkaa'a@
+@cow@|@ammeisa, sa'aa, waatii@
+@cows@|@looni@
+@cripple@|@naafa@
+@crossroads of forest paths@|@lookoo, luukoo@
+@crow@|@khurruu@
+@crowd@|@hoomaa@
+@cry@|@boo-, iyy-@
+@cut@|@cira, gara'-, haada, tarara@
+@darkness@|@dukkana, liqïtii@
+@darn@|@sup'p'a@
+@dawn@|@barii@
+@day@|@guyya@
+@desert@|@uduma@
+@destroy@|@fitha@
+@dig@|@haadha@
+@divide@|@qood-@
+@donkey@|@harree@
+@Don't touch me there!@|@Achi nan tuqin!@
+@door@|@balbala@
+@doubt@|@mama@
+@dove@|@bullale, gug-e@
+@draw water@|@to'a@
+@drink@|@obaasa@
+@drip@|@coccop-@
+@drop@|@cop'a@
+@drunk@|@maccaa'aa@
+@dry@|@qörä@
+@dust@|@awaara@
+@dwarf@|@dinki@
+@dwelling@|@aradaa@
+@earth@|@ardii, biyyö@
+@earthworm@|@darabii@
+@egg@|@borana okokan, macca ankaku@
+@elbow@|@borana ciqile@
+@eldest son@|@angafa, angafu, hangafa@
+@elephant@|@arb-a@
+@elephant's trunk@|@humbi@
+@emperor@|@attee@
+@enclosure@|@darabaa@
+@end@|@dhuma@
+@enter@|@gala, seena@
+@equal@|@qiithtë@
+@examine@|@qora@
+@exhaustion@|@eelaa@
+@exist@|@bir-@
+@eye@|@ila@
+@family@|@maatii@
+@fat@|@alala, moora@
+@father@|@ababo, abbaa@
+@father's heir@|@angafa, angafu, hangafa@
+@feed@|@soora@
+@fence@|@kellaa@
+@fertile soil@|@taa'oo@
+@fill up@|@buusa@
+@first-born son@|@angafa, angafu, hangafa@
+@fish@|@khurhtummi@
+@five men@|@nama shan@
+@flap wings@|@raasa@
+@flee@|@baqa@
+@flow@|@baq-, bulula, finchaa'a@
+@fly@|@barara, barr-isa@
+@follow@|@fana@
+@forearm@|@borana ciqile@
+@foreskin@|@qolofa@
+@forget@|@daga@
+@free@|@fur-@
+@friend@|@hiriyaa@
+@friends@|@hiriyoota@
+@fruit@|@firi@
+@fruit of cactus@|@tïni@
+@furrow@|@boo'oo@
+@genitals@|@gula@
+@girl@|@intala@
+@give a blow@|@aboota@
+@give back@|@deebisa@
+@give birth@|@dhal@
+@glass@|@bililee@
+@gnat@|@bookee@
+@go around@|@kolla'a@
+@go away@|@sokka@
+@go out@|@bah@
+@go round@|@naanna'a@
+@goat@|@reetii@
+@gourd@|@buqe, dibbe, qadaada, willee@
+@granary@|@gooranoo@
+@grasp@|@deebisa@
+@grass@|@marga@
+@greater kudu@|@gadam-sa@
+@guinea fowl@|@gogorrii@
+@hair@|@rifen-sa@
+@hand@|@gana, harkka@
+@hasten@|@daf-@
+@he@|@inni, isa@
+@he is a teacher@|@inni barsiisaa (dha)@
+@heart@|@lap'p'ee@
+@heavy@|@'ulf-ata@
+@hen@|@lukku@
+@hiding place@|@da'oo@
+@high mountain@|@qara@
+@hill@|@tulluu@
+@hip@|@luka, lukaa@
+@hit@|@qura'a@
+@hole@|@booll, booll, huraa@
+@horse@|@farda@
+@house@|@goorroo, goorroo, mana, manaa, qee'ee, qee'ee@
+@houses@|@manoota@
+@hurry@|@daf-@
+@husband@|@obbolaa@
+@hut@|@godoo@
+@hyaena@|@warab-esa@
+@I@|@an, ana, ani, na@
+@inside the house@|@mana keessa@
+@inspect@|@to'adhdha@
+@intense cold@|@qorra@
+@invite@|@waama@
+@iron@|@sibillaa@
+@jackal@|@gedallo@
+@jar@|@gaanii@
+@jump@|@utaala@
+@'k. of cheese or milk'@|@areera 'k.@
+@kidney@|@kalee, kulali-ti@
+@kill@|@aghës@
+@kind of bush@|@agam-sa, hanchabbii@
+@kind of grass@|@fura@
+@kind of plant@|@sooyama@
+@kind of tough grass@|@migira@
+@kind of tree@|@sibbee@
+@kite@|@khurruu@
+@knee@|@'ilba@
+@knife@|@billaa@
+@knock@|@qossa'a@
+@know@|@beeka@
+@lady@|@khenaa@
+@lake@|@haroo@
+@lamb@|@buläl-ë@
+@land@|@laddaa@
+@large@|@guddaa@
+@large gourd@|@habubbii@
+@larynx@|@khoonkhoo@
+@leaf@|@baala, shafo@
+@leather strap@|@seep'-ani@
+@leave@|@hambisa@
+@leg@|@luka, lukaa@
+@lie@|@soba@
+@light@|@hap'p'ii, hap'p'ii, ifa@
+@limb@|@humnaa@
+@lion@|@marode@
+@live long@|@raaga@
+@liver@|@tiru@
+@long@|@dheera@
+@long hair@|@daabee@
+@look@|@ilaala@
+@lover@|@obbolaa@
+@lungs@|@somba@
+@make a hole@|@horda@
+@make hole@|@hura@
+@malaria@|@busaa malaria@
+@man@|@nama@
+@mane@|@gamma@
+@manger@|@moora@
+@mare@|@gañña@
+@measure of weight@|@daawlaa@
+@meat@|@fooni@
+@meet@|@sima@
+@memory@|@seenaa@
+@men@|@daadoo@
+@mid-back@|@wiirtuu@
+@mid-morning@|@saafaa@
+@moan@|@go'a@
+@mongoose@|@wawwachoo@
+@monkey@|@'al'eessa, 'aldeessa@
+@morning@|@barii@
+@mosquito@|@faacaa@
+@mother@|@haadha@
+@mourning@|@a-mutaa@
+@mouse@|@antu-ta@
+@mouth@|@af-an@
+@muddy@|@booruu, bootoo@
+@mule@|@gaang-oo@
+@munch@|@qaama@
+@muscle@|@humnaa@
+@name@|@maqa@
+@nape@|@qolee@
+@nose@|@fuññ an@
+@not giving much milk@|@baakkuu@
+@not know@|@wal'aala@
+@oats@|@omborii@
+@observe@|@beeka@
+@one-eyed@|@ballaa@
+@open@|@ban, fur-@
+@oryx@|@säla@
+@outside the house@|@diida@
+@ox@|@sangaa@
+@pack for animals@|@daawlaa@
+@palm tree@|@meethii@
+@parasite@|@raammoo@
+@peck@|@qossa'a@
+@pedere@|@dhuufa@
+@penis@|@gula@
+@people@|@daadoo, warra@
+@pierce@|@hura@
+@pit@|@booll@
+@place@|@kaaya@
+@plan@|@mari'-adhdha@
+@plane wood@|@sof-@
+@plate made of clay@|@täba@
+@point@|@qara@
+@pool@|@haroo@
+@porridge@|@alaa@
+@pot@|@horochoo@
+@pottery@|@sup'ee@
+@power@|@humnaa@
+@pregnant@|@riimaa@
+@pregnant of animals@|@riimaa@
+@press@|@qacha'a@
+@property@|@laddaa@
+@public hair@|@sap'ii@
+@puff-adder@|@büt-ï@
+@pull out (hair)@|@bukka@
+@purse@|@koro'oo@
+@pursue@|@ari'a@
+@push@|@dhiiba@
+@push down@|@huduma@
+@question@|@qora@
+@rain@|@booka, rooba@
+@receptacle@|@qodaa@
+@relatives@|@obbolaa@
+@return@|@beebi'a@
+@rhinoceros@|@wors-eesa@
+@river@|@haroo, laga@
+@river palm@|@abru, habru, harbü@
+@rivulet@|@kuree@
+@roast@|@waada@
+@rool up@|@maar-, mar-@
+@rotten@|@busaa'a@
+@rub@|@haadh-@
+@run@|@kaat-@
+@run away@|@baqa, baqa, kadhdha@
+@run back and forth@|@qora'a@
+@run here and there@|@kolla'a@
+@sack@|@keeshaa@
+@sandal@|@kobe@
+@scatter@|@tamsa-'a@
+@scent@|@suuf-@
+@scrape@|@duug-@
+@scrape away@|@fil-@
+@scratch@|@hooq-, tarara@
+@sea@|@galaana@
+@see@|@arga@
+@seed@|@garii, saññii@
+@send@|@erga@
+@send message@|@dham-adhdha@
+@set@|@kaaya@
+@severe cough@|@qakkee@
+@sew@|@erba@
+@sharp@|@qara@
+@shave@|@haada@
+@she@|@isee, ishee, ishii, isii, isiin@
+@she-camel@|@halaa@
+@she-goat@|@lal-eesa, ree@
+@shield@|@gacana, gaccaa@
+@shine@|@balag, ifa@
+@shoe@|@kobe@
+@shoulder@|@gurmu@
+@shout@|@iyya@
+@shout caused by grief@|@dawaaq-@
+@sister@|@obboleettii@
+@skin@|@googa@
+@skin bucket@|@okolee@
+@slave@|@garba@
+@slender@|@qal'aa, qallaa@
+@small@|@diqqa@
+@small bowl@|@killa@
+@smell@|@suuf-@
+@snake@|@shaawwisa@
+@sneezing@|@haththissoo@
+@sniff@|@suuf-@
+@soak@|@dhuuba@
+@society@|@waldaa@
+@son@|@ilma, ilmo@
+@sparkle@|@balag@
+@speech@|@arraba@
+@spin@|@dhaw@
+@spine@|@wiirtuu@
+@spirit@|@lubbuu@
+@spit@|@hanchufa, tufe@
+@split@|@falatha@
+@spoiled@|@busaa'a@
+@spread out@|@tamsa-'a@
+@spring back@|@futta'a@
+@sprout@|@kiccuu@
+@star@|@urjii@
+@stick@|@ulle@
+@straight@|@sirri@
+@strength@|@humnaa@
+@strike@|@aboota, aboota, tuq-@
+@sucks blood from cow@|@cerrii, cirrii@
+@summit@|@gubba, qara@
+@sun@|@aduu@
+@swallow@|@liqim-s-@
+@swampy place@|@bubbuka@
+@sweep@|@haadh-@
+@tail@|@duboo, teeri, teeri@
+@take@|@fuudha@
+@tall@|@dheera@
+@tapeworm@|@minni@
+@teacher@|@barsiisaa@
+@teachers@|@barsiisoota@
+@tear@|@baqaqa@
+@temple@|@dhaffora@
+@tenuous@|@diqqa@
+@the pour one@|@hiyyeettii@
+@the rich one@|@dureessa@
+@they@|@isaan, isaani@
+@thin@|@hap'p'ii, hap'p'ii, qal'aa, qallaa@
+@think@|@se'a, yaada@
+@thread@|@hodd-@
+@threaten@|@ori'a@
+@throat@|@khoonkhoo, koonkhoo@
+@tick@|@shilm-a, shilm-ii@
+@tie@|@hidh-@
+@to bite@|@chinïna@
+@to hunt@|@adama, hadama@
+@tongue@|@arrab@
+@tooth@|@ilka@
+@trace@|@fana@
+@tribal chief@|@angafa, angafu, hangafa@
+@tribe@|@daadoo@
+@trust@|@aman, amana@
+@turn@|@maar-, mar-@
+@turn off@|@gora@
+@uncle (brother of father)@|@adeer@
+@untie@|@fur-, fur-, furra@
+@until@|@hamma@
+@until the end@|@hamma dhuma@
+@upper back@|@duboo@
+@vagina@|@gula, teeri@
+@vessel@|@qadaada@
+@viverra@|@adurree@
+@vulva@|@futee@
+@waist@|@mudhdhii@
+@wall@|@goorroo@
+@want@|@haw-@
+@wash@|@miich-@
+@watch@|@fana, ilaala@
+@water bottle@|@koddaa@
+@we@|@nu, nu, nu'i, nuti, nuy@
+@we bought a house@|@mana binne@
+@weep@|@boo-@
+@welcome@|@sima, simadda@
+@well@|@booll@
+@Where is my room?@|@Galmi kiyya eessa?@
+@Where is the bar?@|@Mani dhugüti eessa?@
+@Where is the beach?@|@Qarqarri biduruu eessa?, Qarqarri lagaa eessa?@
+@wife@|@niti@
+@wild dog@|@yeeyii@
+@wing@|@baala@
+@wish@|@haw-@
+@witch-doctor@|@bawda@
+@woman@|@niti@
+@women's hairdo@|@cifra@
+@wood beetle@|@qiinqani, qiinqee@
+@word@|@arraba, arraba, qaalii@
+@worm@|@bïli, bill-acca, siiba@
+@year@|@waggaa@
+@years@|@waggaawwan@
+@yellow@|@boora@
+@you (pl.)@|@isin, isini@
+@you (sing.)@|@ati, si@
+@young bull@|@dib-icca, wellega dibi-cca@
+@young person@|@thobbee@
+

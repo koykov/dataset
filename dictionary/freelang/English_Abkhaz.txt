@@ -1,0 +1,547 @@
+@English@|@Abkhaz@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a boat@|@ashkhua@
+@a demonstrative stem@|@-da, a-, a-, a-b-, ja-rá@
+@a dog@|@al'a@
+@a dream@|@a'cva@
+@a k. of elm@|@á-raš@
+@a nice man@|@auau' bzia@
+@a sail@|@a-pra@
+@a ship@|@ag'ba@
+@a skin@|@acv'@
+@a sort of plum@|@a-märgwäz@
+@a thing class@|@aky@
+@a wollen shawl@|@alasa kasy@
+@adverbial modifier of manner@|@sh@
+@adverbial modifier of place@|@akh'@
+@adverbial modifier of time@|@an@
+@adverbial suffix@|@-zä@
+@an eye@|@a'la@
+@an interrogative stem@|@-da@
+@an oar@|@azhvua@
+@anim. sing. obj. marker@|@d-, dä-@
+@ant@|@a-šäš-kamsa@
+@aorist@|@-0[+tense suff. or 0]@
+@apple@|@a-chchá@
+@armour@|@a-kwaljä@
+@arrow@|@a-xä@
+@ashes@|@á-xwa@
+@asp@|@á-ža@
+@axe@|@a-j-kwágha@
+@bake@|@a-j-rá@
+@bar@|@a-läkw@
+@be@|@-p@
+@be hungry@|@a-chga-rá@
+@bear@|@á-mš@
+@beard@|@a-žáka@
+@beautifully@|@ipshdza-ny@
+@become@|@-xa-@
+@beech-tree@|@á-š@
+@beetle@|@a-bžá@
+@belly@|@á-mgwa@
+@better@|@eiha ibziou@
+@between@|@a-bžá-ra@
+@big@|@a-dú@
+@big toe@|@-b@
+@bird@|@a-psä, a-psätw@
+@black@|@á-jkwa-cha@
+@blanket@|@a-xäza@
+@blood@|@a-šá@
+@blue@|@á-jecha@
+@board@|@a-ghwä@
+@bone@|@á-ba'w@
+@book@|@a-šqä@
+@bottom@|@á-ca@
+@bow@|@a-xá-c@
+@bread@|@a-chá@
+@bread made of millet flour@|@a-mgál@
+@brown@|@a-'wa-bža@
+@bug@|@a-kacá@
+@bull@|@á-ch@
+@bull-calf@|@a-hwä-s@
+@burn@|@a-bál-ra@
+@burrow@|@á-'wa-ra@
+@cake@|@a-kwakwár@
+@candle@|@a-chá-mza@
+@canine tooth@|@á-c@
+@carry@|@a-ga-rá@
+@cat@|@a-cgwä@
+@cattle@|@á-raxw@
+@cattle-shed@|@-bówra, a-bóra@
+@causative@|@-r-@
+@cheek@|@a-jám'wa@
+@cheese@|@áš@
+@chicken@|@a-kwchä-š@
+@claw@|@-pxä-c@
+@clay@|@a-näš@
+@cloud@|@a-psthwa@
+@cold@|@á-x-šaša@
+@come@|@a-né-jra@
+@comitative (in verbal forms)@|@-c-@
+@conjunctive@|@-a, -ait@
+@conjunctive particle@|@-gä@
+@continious@|@-wa-(+tense suff. or 0)@
+@cornel@|@a-bgä-jara, zarä@
+@corner@|@a-kwák@
+@cradle@|@a-gára@
+@cry@|@a-chä-wa-ra@
+@cubit@|@ra-k@
+@cuckoo@|@a-kwäkw@
+@cucumber@|@a-náša@
+@cut out@|@a-sa-rá@
+@damn@|@á-šij-ra@
+@daughter@|@a-phá@
+@daughter-in-law@|@áca@
+@day@|@á-mš, šä-@
+@dead body@|@qwa-di@
+@deer@|@á-šara-x@
+@demonstrative stem@|@-ni, a-ni@
+@denominal adverbial@|@-nä@
+@denominative attributive@|@-tw, -twä@
+@desiderative@|@-nda@
+@dew@|@a-jája@
+@diarrhea@|@a-chäa-rá@
+@die@|@a-ps-rá@
+@document book@|@a-šqä@
+@dog@|@a-lá@
+@don't touch me there!@|@uatka bsylamkysyn (f), uatka usylamkysyn (m)@
+@downy@|@a-bába@
+@drag@|@á-xa-ra@
+@dream@|@a-pxäz@
+@durative and frequentative@|@-la-@
+@dust@|@á-bäb@
+@eagle-owl@|@a-tä-'war'war@
+@ear@|@a-lämha@
+@early@|@a-pása@
+@elative@|@-n-twä@
+@enemy@|@a-ghá@
+@even@|@a-jáša@
+@extremity@|@-pä@
+@eye@|@á-la@
+@eyebrow@|@á-žä-mš@
+@faeces@|@a-qä@
+@far@|@á-xara@
+@fasten@|@a-cha-hwa-rá@
+@fat@|@a-ššá@
+@father@|@ab@
+@feather@|@a-xzhä@
+@fem. sing. subj./poss. class@|@l-, lä-@
+@female@|@á-ps@
+@female breast@|@a-käka@
+@female deer@|@a-chá@
+@fence@|@anda@
+@fern@|@á-ras@
+@field@|@a-dwä@
+@fire@|@á-mca@
+@firm@|@a-baghá@
+@fir-tree@|@á-psa@
+@fish@|@a-psäj@
+@five@|@xw-ba@
+@flea@|@á-j@
+@flint@|@a-šánca@
+@flock of sheep@|@a-gwárta@
+@flower@|@a-kakach@
+@fly@|@á-mc@
+@fly (v.)@|@a-pär-ra@
+@fog@|@á-naqwa@
+@foot@|@a-ša-pä@
+@for oneself@|@ch-, chä-@
+@fortress@|@a-baa@
+@fresh@|@a-chá@
+@from the speaker@|@na@
+@fruit(s)@|@a-šär@
+@full@|@á-zna@
+@fur-coat@|@a-xamä@
+@future@|@-š-[+-t or 0]@
+@future gerund suffix@|@-lak@
+@gall@|@á-z@
+@general finite verbal sufix@|@-t@
+@general subj. class marker@|@-z-@
+@gerund (past)@|@-z@
+@gerund (present)@|@-0@
+@gerund relative locative infix@|@-ax-@
+@gerund relative temporal infix@|@-an-@
+@get dry@|@a-'wa-rá@
+@give@|@á-ta-ra@
+@goat@|@á-žma@
+@god@|@a-nchá@
+@gold@|@a-xä@
+@good@|@a-bzía@
+@grab@|@a-k-rá@
+@grandfather@|@bába, dad@
+@grey hair@|@á-xwa@
+@group@|@a-gwäp@
+@gullet@|@a-qärqä@
+@hair@|@a-xwä, a-xwä-c@
+@half@|@á-bža@
+@hand@|@a-na-pä@
+@handle@|@á-mä@
+@hard@|@á-ghwghwa@
+@hare@|@a-žá@
+@head@|@xä@
+@head's crown@|@a-kwäš@
+@heart@|@a-gwä@
+@heavy@|@á-xanta@
+@hen@|@a-kwtä@
+@hill@|@a-xwä@
+@hip-bones@|@a-qwáqwa@
+@hook@|@a-zarzá@
+@horn@|@a-twä'wa@
+@horn matter@|@á-msa@
+@hornless@|@a-gdä@
+@horse@|@a-chä@
+@hot@|@a-cá@
+@house@|@a-'wnä@
+@how@|@-š-, -šä-@
+@hundred@|@šw-kä@
+@hut@|@a-kála, a-täp@
+@hyena@|@a-bgäj@
+@I@|@sa-rá@
+@I am sewing something@|@isdzakh'ueit@
+@I sew@|@sdzakhueit@
+@ice@|@a-caa@
+@illness@|@a-chäma-za'w-@
+@imperative@|@-0@
+@imperative negative@|@-m-, -n@
+@inanim. class in numerals@|@-ba@
+@inanim. sing.@|@i-@
+@inanim. sing. class marker@|@a-, na-@
+@inanim. sing. subj./poss.@|@a-@
+@instrumental@|@-la@
+@interjection of adress@|@ua@
+@jackal@|@á-bga@
+@jaw@|@a-c-lamhwá@
+@kerchief@|@a-kasä@
+@kid@|@á-jäs, á-js@
+@kidney@|@a-chàcha@
+@kill@|@a-š-rá@
+@kiss@|@ba@
+@know@|@a-där-ra@
+@lamb@|@a-sä-s@
+@language@|@a-bäz-šá@
+@lative@|@-qa@
+@lative preverb@|@na-@
+@lead@|@a-csá, a-tsá@
+@leaf@|@a-bghä@
+@learn@|@a-ca-rá@
+@lie@|@á-mc, a-š-ta-rá@
+@light of weight@|@á-las@
+@little finger@|@a-na-cch-käs@
+@liver@|@a-gwa-chchá@
+@living@|@a-bzá@
+@lizard@|@ajnchäš@
+@locust@|@a-máca@
+@log@|@a-bäqw@
+@long@|@a-wá@
+@look@|@a-pš-rá@
+@louse@|@a-cá@
+@lung@|@a-rphá@
+@maize@|@á-pš@
+@maize stalk@|@á-phw@
+@male@|@á-gha@
+@man@|@a-xáca@
+@mane@|@á-bra@
+@many@|@á-racha, šárda@
+@marrow@|@a-ša-xwá@
+@marsh@|@a-zhä-'wa@
+@marten@|@a-cägh@
+@masc. sing. subj./poss. class@|@i-@
+@measles@|@a-bchá@
+@meat@|@a-kwác, a-žä@
+@medlar@|@a-bách@
+@milk@|@á-x-š@
+@millet@|@a-šä, á-xwj@
+@mire@|@a-hwäncchá@
+@month@|@á-mza@
+@more@|@ájha@
+@morpheme denoting singularity@|@-k, -kä@
+@moth@|@a-parpalëk@
+@mother@|@á-n, nan@
+@Mother-country@|@apsadgyl@
+@mountain@|@á-šxa, bgha-@
+@mouth@|@a-chä@
+@mow@|@a-x-rá@
+@mulberry tree@|@a-mžá@
+@mule@|@a-gwäž@
+@my hand@|@s-napy@
+@name@|@á-xzh@
+@near@|@ájgwa@
+@neck@|@á-xwda@
+@negative gerund@|@-kwa, -m-@
+@net@|@á-kata, akata@
+@nettle@|@á-xwac@
+@new@|@a-chä-c@
+@night@|@á-cx@
+@nit@|@a-cäj@
+@nominative (absolute)@|@-0@
+@nominative absolute@|@-0@
+@nose@|@a-pä-nca@
+@not@|@m-@
+@now@|@wažä@
+@nut@|@a-kakán@
+@oak-tree@|@á-ž@
+@object version@|@-z-@
+@object version favourable@|@-z-@
+@object version unfavourable@|@-cw-@
+@old@|@á-ž@
+@once@|@z-nä@
+@one@|@adzy@
+@onion@|@a-zhämšä@
+@orphan@|@á-jba@
+@owl@|@a-tä@
+@past indefinite tense suffix@|@-n@
+@past perfect@|@-c, -xa-[+tense suff. or 0]@
+@paste@|@á-chapa-ra, á-chapa-ra@
+@peach@|@a-tamá@
+@pear@|@a-há@
+@person@|@a-wa-'wä@
+@pigeon@|@a-hwähw@
+@pine-tree@|@a-mzá@
+@plane@|@a-ch-rá@
+@plough@|@á-ch-matwa, a-kwatán, a-kwatána@
+@ploughshare@|@a-päza@
+@plum@|@a-bhwá, a-phwá@
+@plur. subj./poss. class@|@r- (in caus. d-)@
+@plural@|@-kwa@
+@plural animate@|@-cwa@
+@plural collect. animated@|@-a, -ra@
+@plurall collect.@|@-r, -ra@
+@post@|@a-báqw@
+@present (static verbs)@|@-p@
+@present gerund suffix@|@-lag@
+@present static verbs@|@-p@
+@preverb in@|@ta-, tä-@
+@preverb inter@|@la-, lä-@
+@preverb super@|@kw-, kwä-, xa-@
+@price@|@á-xw@
+@pus@|@a-twá@
+@quail@|@ácha@
+@rain@|@a-kwá@
+@ram@|@a-tä@
+@rat@|@a-hwäna-p@
+@raven@|@á-lahwa@
+@reach@|@á-na-ja-ra@
+@reciprocality@|@-aj-, -aj-ba-@
+@red@|@á-qa-pš@
+@red fox@|@á-ša-bga@
+@rennet@|@á-ca@
+@right@|@a-r-gha@
+@ring@|@a-gwargwaléj@
+@road@|@á-m'wa@
+@rocky river bank@|@a-qwa-rá@
+@root@|@a-páš@
+@rope@|@a-šá, a-šá-xa@
+@rotten@|@a-baa@
+@round@|@á-gaž@
+@sabre@|@á-sa@
+@salt@|@a-zhäka@
+@salty@|@a-ca@
+@sea@|@a-mšän@
+@season@|@a-n@
+@seed@|@á-žla@
+@seven@|@bž-ba@
+@shaggy@|@a-bába@
+@shake@|@a-cäs-rá@
+@sharp@|@á-car@
+@sheaf@|@a-käla@
+@sheep's spring-time hair@|@á-btwa@
+@shin@|@a-šargwácch@
+@shirt@|@a-kach@
+@short@|@a-kách@
+@shovel@|@a-báha@
+@side@|@á-va-ra@
+@silkworm@|@a-qánch@
+@silly person@|@ága@
+@silver@|@a-rajnä@
+@singulative animated@|@-s, -sh@
+@sister-in-law@|@áca@
+@sit@|@a-twa-rá@
+@six@|@f-ba@
+@skein@|@a-kwäkwäj@
+@skin@|@a-chá@
+@sky@|@á-ž-'wan@
+@sleep@|@á-cha@
+@slumber@|@a-cha-r-säs-ra@
+@small@|@a-xwchä@
+@small bird@|@a-cä-s@
+@small river@|@a-kwára@
+@smoke@|@á-l-'wa@
+@snake@|@á-mat@
+@snow@|@a-sä@
+@snowstorm@|@a-sä-twhwa@
+@soft@|@a-táta@
+@song@|@áša@
+@son-in-law@|@á-mahw@
+@span@|@á-ja@
+@spark@|@á-kwic@
+@speech@|@áža@
+@spindle@|@a-dardä@
+@spirit@|@a-psä@
+@spittle@|@a-žchá@
+@spleen@|@a-vanäza@
+@spring@|@á-pä-n, a-pän@
+@squirrel@|@á-ješ@
+@stake@|@a-ch'wán@
+@star@|@á-jecha@
+@starling@|@á-žardwäna@
+@step-relative@|@-psa@
+@stone@|@xahw@
+@stump@|@a-kdä@
+@sun@|@á-mra@
+@swallow@|@á-žcä-s@
+@swamp@|@á-ps-lämj@
+@swarm of midges@|@á-cc@
+@sweat@|@a-px-jä@
+@sweet@|@á-xa@
+@swift@|@a-ghä@
+@swim@|@á-j-sa-ra@
+@swine@|@a-hwá@
+@tail@|@a-cäxwa@
+@ten@|@ža-bá@
+@terminative@|@-n-in-n-ja@
+@that@|@wi@
+@the interjection motive@|@amarja, hai@
+@the interjection of blame@|@nykh-nykh@
+@the interjection of pity@|@gusha@
+@thick@|@a-psäla@
+@thick needle@|@a-chä@
+@thin@|@a-pá@
+@thorn@|@á-mgh@
+@thou@|@wa-rá@
+@thread@|@a-xá@
+@thread in spindle@|@a-xá@
+@three@|@x-pa@
+@thumb@|@-b@
+@timber@|@-mha-@
+@tinder@|@a-chmsá@
+@to ask@|@a-ca-rá, á-hwa-rá@
+@to be@|@á-qa-la-ra@
+@to be heard@|@a-ga-rá, ághw-ra@
+@to be ill@|@a-chäma-za'w-@
+@to be inside@|@-t-, -ta-, -tä-@
+@to beat up@|@a-'w-ra@
+@to bend@|@a-xwa-rá@
+@to bite@|@á-c-ha-ra@
+@to boil@|@a-š-rá, a-ž-rá@
+@to clip@|@a-sa-rá@
+@to crawl@|@a-hwa-za-rá@
+@to create@|@a-ša-rá@
+@to curse@|@á-chw-ha-ra@
+@to cut@|@a-p-qa-rá@
+@to deceive@|@a-ža-rá@
+@to drag@|@r-hwhwa-ra@
+@to drink@|@à-ž-ra@
+@to drop@|@á-k:wa-ra@
+@to eat@|@á-fa-ra@
+@to enter@|@a-tá-la-@
+@to fall@|@a-ká-ha-ra, a-ta-ša-rá@
+@to fall down@|@a-bga-rá@
+@to ferment@|@a-š-rá@
+@to fry@|@a-zh-rá@
+@to get cold@|@a-šsh-rá@
+@to get sour@|@a-ch-rá@
+@to get untied@|@á-t-la-ra@
+@to go under something@|@a'-tza-la-ra@
+@to go upstairs@|@a-kha-la-'ra@
+@to graze@|@a-hw-rá@
+@to grind@|@á-laga-ra@
+@to hang@|@a-kná-ha-ra@
+@to hear@|@a-ha-rá@
+@to hide@|@a-ja-rá@
+@to laugh@|@á-chcha-ra@
+@to lay eggs@|@a-ca-rá@
+@to lie@|@a-ja-rá@
+@to make@|@a-w-rá@
+@to measure@|@a-šsha-rá@
+@to melt@|@to pour@
+@to moo@|@á-b'wbw-ra@
+@to move@|@-s-, -sä-, sä-@
+@to multiply@|@a-z-ha-rá@
+@to pay@|@a-ša-rá@
+@to plait@|@á-š:-ra@
+@to plough@|@á-cha-ghwa-ra@
+@to pour@|@a-ta-twa-rá@
+@to put through@|@a-käl-da-ra@
+@to rake up@|@ajzä-hwhwa-ra@
+@to roll@|@á-kwär-ra@
+@to rumple@|@a-qwch-rá, a-r-bäc-rá@
+@to run@|@á-'w-ra@
+@to say@|@a-hwa-rá@
+@to scatter@|@a-ta-psa-rá@
+@to scrape@|@a-gha-rá@
+@to scratch@|@a-hwa-rá@
+@to see@|@a-ba-rá@
+@to seem@|@'wa-rá@
+@to settle down@|@a-za-rá@
+@to sew@|@á-zha-x-ra@
+@to shout@|@á-hwhwa-ra@
+@to sift@|@a-xw-rá@
+@to spend a night@|@a-pxa-rá@
+@to stand@|@a-gä-la-ra@
+@to steal@|@a-ghä-ch-ra@
+@to stick into@|@á-l-hwa-ra@
+@to stroke@|@a-š:-rá@
+@to suffice@|@á-z-xa-ra@
+@to swear@|@a-kw-rá@
+@to swim@|@a-j-sa-ra@
+@to talk@|@a-chá-ža-ra@
+@to the speaker@|@aa@
+@to touch@|@a-kä-s-ra@
+@to tremble@|@a-käj-käj-ra@
+@to vomit@|@a-zha-rá@
+@to walk@|@a-näqwa-ra@
+@to wash@|@a-ša-rá, á-zhzha-ra@
+@to weave@|@a-ha-rá, a-s-rá@
+@to weep@|@a-chä-wa-ra@
+@tongue@|@á-bz@
+@tonight@|@waxá@
+@top@|@á-kwcch-chkw@
+@transform./adverb. case@|@-s, -sh@
+@tree@|@á-cla@
+@troups@|@á-r@
+@two@|@'w-bá@
+@udder@|@á-ch-rägw@
+@urinate@|@a-chxw-rá@
+@valley@|@á-rxa@
+@vein@|@a-dá@
+@vessel@|@á-ghba@
+@village@|@á-cu-ta, a-käta@
+@waist@|@á-bgha@
+@walk@|@a-ca-rá@
+@wall@|@a-tjá-mc@
+@walnut@|@a-rá@
+@warm@|@á-pxa@
+@wart@|@a-kancäcära@
+@water@|@a-zhä@
+@wax@|@a-chá@
+@we@|@ha-rá@
+@weasel@|@a-pš-já, a-pš-zhá@
+@what@|@-a(-)@
+@where@|@abtkou@
+@where is my room?@|@suada abatkou@
+@where is the bar?@|@abar abtkou@
+@where is the beach?@|@amshyn agadcha abatkou@
+@whip@|@a-'w-ra@
+@white@|@á-š-kwakwa@
+@who@|@-a, -a-@
+@wide@|@á-t-bä@
+@wind@|@a-pšá@
+@winter@|@á-zhän@
+@wolf@|@a-kwäžma@
+@wood@|@a-mchä@
+@wooden scoop with a handle@|@a-chaqwá@
+@wool@|@á-lasa@
+@word@|@áža@
+@worm@|@á-xwa@
+@wound@|@á-xw-ra@
+@wreath@|@a-gwärgwän@
+@yard@|@a-gwára, a-mjä-r-xá@
+@year@|@á-škws@
+@yellow@|@a-'wa-'ž@
+@yew-tree@|@a@
+@you (pl)@|@šsha-rá@
+@young@|@a-chá@
+@young boy@|@á-chkwän@
+@young branch@|@á-mac@
+

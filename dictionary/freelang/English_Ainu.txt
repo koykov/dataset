@@ -1,0 +1,5068 @@
+@English@|@Ainu@
+@Author name@|@Charlie Lippert@
+@// Symbols //@|@// Symbols //@
+@1st of multiple entry@|@¹@
+@2nd of multiple entry@|@²@
+@3rd of multiple entry@|@³@
+@4th of multiple entry@|@ª@
+@5th of multiple entry@|@º@
+@adjective@|@(adj)@
+@adverb@|@(adv)@
+@Amur Valley dialect [extinct]@|@(ain-W)@
+@and@|@+@
+@becomes@|@>@
+@Central Sakhalin dialect@|@(ain-NN)@
+@Chinese language@|@(Zh)@
+@conjunction@|@(+)@
+@Eastern Hokkaidô dialect@|@(ain-CE)@
+@explicit@|@(x)@
+@from@|@<@
+@Hokkaidô dialect [default]@|@(ain-C)@
+@Honshu dialect [extinct]@|@(ain-S)@
+@interjection@|@(!)@
+@Japanese language@|@(Ja)@
+@Kamkatchka dialect [extinct]@|@(ain-EN)@
+@Kuril dialect [extinct]@|@(ain-E)@
+@Northern Hokkaidô dialect@|@(ain-CN)@
+@Northern Kuril dialect [extinc (ain-EC)@|@(ain-EC)@
+@noun@|@(n)@
+@particle@|@(pc)@
+@plural@|@(p)@
+@posessive@|@(g)@
+@postposition@|@(pop)@
+@prefix@|@(pf)@
+@preposition@|@(prp)@
+@pronoun@|@(pr)@
+@pronoun: 1st person@|@(pr1)@
+@pronoun: 1st person plural exc (pr1)(p)@|@(pr1)(p)@
+@pronoun: 1st person plural inc (pr2)(1)@|@(pr2)(1)@
+@pronoun: 1st person singular@|@(pr1)(s)@
+@pronoun: 2nd person@|@(pr2)@
+@pronoun: 3rd person@|@(pr3)@
+@Sakhalin dialect@|@(ain-N)@
+@see also@|@>@
+@singular@|@(s)@
+@somebody@|@SB@
+@something@|@ST@
+@Southcentral Sahkalin dialect@|@(ain-NC)@
+@Southern Hokkaidô dialect@|@(ain-CS)@
+@Southern Kuril dialect [extinc (ain-ES)@|@(ain-ES)@
+@Southern Sakhalin dialect@|@(ain-NS)@
+@Southwestern Hokkaidô dialect@|@(ain-CW)@
+@suffix@|@(sf)@
+@verb: intransitive@|@(vi)@
+@verb: transitive@|@(vt)@
+@vocative@|@(voc)@
+@// Dictionary //@|@// Dictionary //@
+@[affirmative indicator of yes/nya. (pc)¹@|@ya. (pc)¹@
+@[affirmative]@|@na (pc)@
+@[animate indicator]@|@kuru (n)²@
+@[answer expectation]@|@ani (pc)¹@
+@[answer expectation]@|@hani (pc)@
+@[command]@|@hani (pc)@
+@[command]@|@ani (pc)¹@
+@[conclusive]@|@na (pc)@
+@[diminutive]@|@po (sf)(pc)@
+@[exclamation of surprise]@|@wak (adv)@
+@[frequency]@|@tu (pc)@
+@[gerund maker]@|@kor (pc)@
+@[imparative]@|@hani (pc)@
+@[imparative]@|@ani (pc)¹@
+@[imperative]@|@yan. (pc)(p)@
+@[imperative]@|@ro (n)@
+@[imperative][rare]@|@yan. (pc)(s)@
+@[intensifier]@|@ram (pc)@
+@[interrogative]@|@he (pc)@
+@[male title of respect]@|@ekasi (n)@
+@[negative former]@|@sak (adj)@
+@[negative former]@|@sakno (adv)@
+@[nominalizer]@|@pe (sf)@
+@[nominalizer]@|@p (sf)@
+@[ongoing action indicator]@|@sir (pc)@
+@[OY60-159]?????/@|@ape-eynu@
+@[past time indicator]@|@ap (pc)@
+@[plural]@|@tu (sf)@
+@[question indicator]@|@ya? (pc)²@
+@[reflexive]@|@yay (pr)(pf)@
+@[request]@|@ani (pc)¹@
+@[request]@|@hani (pc)@
+@[severity]@|@tu (pc)@
+@[sincerity]@|@tu (pc)@
+@[softener]@|@ani (pc)¹@
+@[softener]@|@po (pc)@
+@[softener]@|@hani (pc)@
+@< (Ja) goza: mat@|@kosa (n)²@
+@< (Ja) hitsuji: sheep@|@hicuci (n)@
+@< (Ja) mame: bean@|@mame (n)@
+@< (Ja) mana-ita: cutting board@|@manayta (n)@
+@< (Ja) mi: winnow@|@muy (n)³@
+@< (Ja) pan: bread@|@pan (n)¹@
+@< (Ja) sake: rice beer@|@sake (n)@
+@< (Ja) same: shark@|@same (n)@
+@< (Ja) tabako: tobacco@|@tampako (n)@
+@< (Ja) tama: ball@|@tama (n)@
+@< (Ja) tane: seed@|@tane (n)@
+@< (Ja) teppô: hand gun@|@teppo (n)@
+@< (Ja) tuchi: mall@|@tuci (n)@
+@< (Ja) uma: horse@|@umma (n)@
+@< (Ja) yûbin: mail@|@yupin (n)@
+@< (Zh) Cha: tea@|@ca (n)º@
+@< a (X) + oka (vi)@|@aoka (pr2)@
+@< a (X) + okay (vi)@|@aokay (pr2)@
+@< aciw (vt) + cikap (n)¹@|@aciw-cikap (n)@
+@< ape-etumpe (n)@|@apetumpe (n)@
+@< ape-huci-kamuy (n)@|@ape-huci (n)@
+@< ape-huci-kamuy (n)@|@ape-kamuy (n)@
+@< ape-kamuy (n) + turihi (n)(g)ape-kamuy-turihi (n)@|@ape-kamuy-turihi (n)@
+@< ape (n)² + etok (n)@|@ape-etok (n)@
+@< ape (n)² + etun (vt) + pe (sfape-etumpe (n)@|@ape-etumpe (n)@
+@< ape (n)² + huci (n)² + kamuy ape-huci-kamuy (n)@|@ape-huci-kamuy (n)@
+@< ape (n)² + nuy (n)@|@ape-nuy (n)@
+@< attus (n) + karape (n)@|@attus-karape (n)@
+@< cep (n) + kap (n)@|@cepkap (n)@
+@< cep (n) + motot (n)@|@cep-motot (n)@
+@< cep (n) + po (sf)(pc)@|@ceppo (n)@
+@< cepkap (n) + hos (n)@|@cepkap-hos (n)@
+@< ermu (n) + koyki (vt)@|@ermu-koyki (n)@
+@< etu (n) + puy (n)²@|@etu-puy (n)@
+@< humpe (n) + etor (n)@|@humpe-etor (n)@
+@< humpe (n) + ki (n)¹@|@humpe-ki (n)@
+@< kamuy (n) + hum (n)@|@kamuy-hum (n)@
+@< kap (n) + kar (vt)@|@kapkar (vt)@
+@< moma (n) + ni (n)@|@moma-ni (n)@
+@< retar (adj) + cir (n)¹@|@retatcir (n)@
+@< ror (n) + un (n)@|@rorun (n)@
+@< rorun (n) + inumpe (n)@|@rorun-inumpe (n)@
+@< sat (adj) + cep (n)@|@sat-cep (n)@
+@< sayo (n) + sû (n)@|@sayo-sû (n)@
+@< sesek (x) + maw (n)@|@sesek-maw (n)²@
+@< sesek (x) + maw (n)@|@sesek-maw (n)¹@
+@< sir (n)³ + pirka (adj)@|@sir-pirka (n)@
+@< sir (n)³ + popke (n)@|@sir-popke (n)@
+@< su (n) + at (n)@|@su-at (n)@
+@< tan (pr) + pa (n)¹@|@tampa (adv)@
+@< tan (pr) + pa (n)¹@|@tanpa (adv)@
+@< tan (pr) + to (n)²@|@tanto (adv)@
+@< ya (n)¹ + peka (adv)¹@|@ya-peka (adv)@
+@< ya (n)² + atte (vt)² + p (sf)yattep (n)@|@yattep (n)@
+@< ya (n)² + oske (vi)@|@ya-oske (vi)@
+@< yam-wakka (n)@|@yammakka (n)@
+@< yuk (n) + ranke (vt) + kamuy yuk-ranke-kamuy (n)@|@yuk-ranke-kamuy (n)@
+@< yup (n) + po (sf)(pc)@|@yuppo (n)@
+@< yupke (adj) + itak (n)@|@yupke-itak (n)@
+@< yupke (adj) + ruyampe (n)@|@yupke-ruyampe (n)@
+@< yupke (adj) + sisuye (vi)@|@yupke-sisuye (n)@
+@> (Ja) hokki-gai: Sakhalin surfpoki-sey (n)@|@poki-sey (n)@
+@> (Ja) kombu: seaweed type@|@kompu (n)@
+@> (Ja) rakko: sea otter@|@rakko (n)@
+@> (Ja) saru: monkey@|@sar-us (n)@
+@> (Ja) taka: hawk@|@taka (n)@
+@> (Ja) tonakai: reindeer@|@tunakay (n)@
+@> a (vi)(s)@|@rok (vi)(p)@
+@> aca (n)@|@acapo (n)@
+@> aca (n)@|@acipo (n)@
+@> aca (n)@|@kewsut (n)@
+@> acapo (n)@|@aca (n)@
+@> acipo (n)@|@aca (n)@
+@> acipo (n)@|@acapo (n)@
+@> acuy (n)@|@rep (n)¹@
+@> acuy (n)@|@atuy-so (n)@
+@> acuy (n)@|@atuy (n)@
+@> ak (n)@|@akihi (n)(g)(x)@
+@> ak (n)@|@aki (n)(g)(x)@
+@> aka (n)@|@wakka (n)@
+@> aki (n)(g)(x)@|@ak (n)@
+@> aki (n)(g)(x)@|@akihi (n)(g)(x)@
+@> akihi (n)(g)(x)@|@ak (n)@
+@> akihi (n)(g)(x)@|@aki (n)(g)(x)@
+@> akka (pop)@|@yakkay (pop)@
+@> akka (pop)@|@yakka (pop)@
+@> am (n)@|@amihi (n)(g)(x)@
+@> am (n)@|@ami (n)(g)(x)@
+@> amam (n)@|@amama (n)@
+@> amama (n)@|@amam (n)@
+@> ami-tanne-ya-oskep (n)@|@ami-tanne (n)@
+@> ami-tanne (n)@|@ami-tanne-ya-oskep (n)@
+@> ami (n)@|@amihi (n)(g)(x)@
+@> ami (n)(g)(x)@|@am (n)@
+@> amihi (n)(g)(x)@|@am (n)@
+@> amihi (n)(g)(x)@|@ami (n)(g)(x)@
+@> ampay (n)@|@ampayaya (n)@
+@> ampayaya (n)@|@ampay (n)@
+@> ampe (n)¹@|@ap (n)²@
+@> ampe (n)¹@|@pe (n)¹@
+@> ampe (n)²@|@ape (n)²@
+@> ani (pc)¹@|@hani (pc)@
+@> ani (pc)²@|@ari (pop)@
+@> anokay (pr2)@|@aokay (pr2)@
+@> anokay (pr2)@|@aoka (pr2)@
+@> aoka (pr2)@|@anokay (pr2)@
+@> aoka (pr2)@|@aokay (pr2)@
+@> aokay (pr2)@|@aoka (pr2)@
+@> aokay (pr2)@|@anokay (pr2)@
+@> ap-kor (vi)@|@ape-kor (vi)@
+@> ap (n)¹@|@ape (n)¹@
+@> ap (n)¹@|@ape-kor (vi)@
+@> ap (n)²@|@ampe (n)¹@
+@> apa-sta (n)@|@apa-usta (n)@
+@> apa-usta (n)@|@apa-sta (n)@
+@> ape-cikuni (n)@|@ape-ni (n)²@
+@> ape-etumpe (n)@|@apetumpe (n)@
+@> ape-huci-kamuy (n)@|@unci-kamuy (n)@
+@> ape-huci-kamuy (n)@|@onne-huci (n)@
+@> ape-huci-kamuy (n)@|@ape-huci (n)@
+@> ape-huci-kamuy (n)@|@kamuy-huci (n)@
+@> ape-huci-kamuy (n)@|@iresu-huci (n)@
+@> ape-huci-kamuy (n)@|@iresu-kamuy (n)@
+@> ape-huci-kamuy (n)@|@ape-kamuy (n)@
+@> ape-huci (n)@|@iresu-huci (n)@
+@> ape-huci (n)@|@kamuy-huci (n)@
+@> ape-huci (n)@|@ape-kamuy (n)@
+@> ape-huci (n)@|@iresu-kamuy (n)@
+@> ape-huci (n)@|@ape-uci (n)@
+@> ape-huci (n)@|@onne-huci (n)@
+@> ape-huci (n)@|@unci-kamuy (n)@
+@> ape-huci (n)@|@ape-huci-kamuy (n)@
+@> ape-kamuy (n)@|@iresu-kamuy (n)@
+@> ape-kamuy (n)@|@iresu-huci (n)@
+@> ape-kamuy (n)@|@ape-huci (n)@
+@> ape-kamuy (n)@|@unci-kamuy (n)@
+@> ape-kamuy (n)@|@onne-huci (n)@
+@> ape-kamuy (n)@|@ape-huci-kamuy (n)@
+@> ape-kamuy (n)@|@kamuy-huci (n)@
+@> ape-kes (n)@|@ape-kis (n)@
+@> ape-kis (n)@|@ape-kes (n)@
+@> ape-kor (vi)@|@ap-kor (vi)@
+@> ape-kor (vi)@|@ap (n)¹@
+@> ape-ni (n)²@|@ape-cikuni (n)@
+@> ape-nipek (n)@|@ape-nupek (n)@
+@> ape-nupek (n)@|@ape-nipek (n)@
+@> ape-nuy (n)@|@nuy (n)@
+@> ape-oy (n)@|@ape-sokot (n)@
+@> ape-seseki (n)@|@ape-seseku (n)@
+@> ape-seseku (n)@|@ape-seseki (n)@
+@> ape-sokot (n)@|@ape-oy (n)@
+@> ape-uci (n)@|@ape-huci (n)@
+@> ape (n)@|@unci (n)@
+@> ape (n)@|@huci (n)¹@
+@> ape (n)¹@|@ap (n)¹@
+@> ape (n)²@|@ampe (n)²@
+@> apekus (vi)@|@apa (vi)@
+@> apetumpe (n)@|@ape-etumpe (n)@
+@> aputki (n)@|@yattuy (n)²@
+@> aputki (n)@|@toma (n)²@
+@> aputki (n)@|@sokkar (n)@
+@> araka (vi)@|@arka (vi)@
+@> ari (pop)@|@ani (pc)²@
+@> arka (vi)@|@araka (vi)@
+@> arpa (vi)(s)@|@arupa (vi)(s)@
+@> arpare (vt)@|@arupare (vt)@
+@> arupa (vi)(s)@|@arpa (vi)(s)@
+@> arupare (vt)@|@arpare (vt)@
+@> aruwa (adj)@|@arwa (adj)@
+@> aruwa (adj)@|@aruwan (adj)@
+@> aruwa (adj)@|@arwan (adj)@
+@> aruwan (adj)@|@arwa (adj)@
+@> aruwan (adj)@|@aruwa (adj)@
+@> aruwan (adj)@|@arwan (adj)@
+@> arwa (adj)@|@arwan (adj)@
+@> arwa (adj)@|@aruwan (adj)@
+@> arwa (adj)@|@aruwa (adj)@
+@> arwan (adj)@|@arwa (adj)@
+@> arwan (adj)@|@aruwan (adj)@
+@> arwan (adj)@|@aruwa (adj)@
+@> as (vi)²@|@ruy (vi)@
+@> asikepet (n)@|@asikipet (n)@
+@> asikipet (n)@|@asikepet (n)@
+@> asin (adj)@|@asir (adj)@
+@> asip (vi)(s)@|@asippa (vi)(p)@
+@> asippa (vi)(p)@|@asip (vi)(s)@
+@> asir (adj)@|@asit (n)@
+@> asir (adj)@|@asin (adj)@
+@> asir (adj)@|@asir an (adj)@
+@> asir an (adj)@|@asir (adj)@
+@> asirkara (vt)@|@asirki (vt)@
+@> asirki (vt)@|@asirkara (vt)@
+@> asit (n)@|@asir (adj)@
+@> at (n)¹@|@atu (n)(g)(x)¹@
+@> at (n)¹@|@atuhu (n)(g)(x)¹@
+@> at (n)²@|@atuhu (n)(g)(x)²@
+@> at (n)²@|@atu (n)(g)(x)²@
+@> atu (n)(g)(x)¹@|@atuhu (n)(g)(x)¹@
+@> atu (n)(g)(x)¹@|@at (n)¹@
+@> atu (n)(g)(x)²@|@at (n)²@
+@> atu (n)(g)(x)²@|@atuhu (n)(g)(x)²@
+@> atuhu (n)(g)(x)¹@|@at (n)¹@
+@> atuhu (n)(g)(x)¹@|@atu (n)(g)(x)¹@
+@> atuhu (n)(g)(x)²@|@at (n)²@
+@> atuhu (n)(g)(x)²@|@atu (n)(g)(x)²@
+@> atuy-so (n)@|@atuy (n)@
+@> atuy-so (n)@|@rep (n)¹@
+@> atuy-so (n)@|@acuy (n)@
+@> atuy (n)@|@atuy-so (n)@
+@> atuy (n)@|@acuy (n)@
+@> atuy (n)@|@rep (n)¹@
+@> ay (n)¹@|@ayehe (n)(g)(x)@
+@> ay (n)¹@|@aye (n)(g)(x)@
+@> aye (n)(g)(x)@|@ay (n)¹@
+@> aye (n)(g)(x)@|@ayehe (n)(g)(x)@
+@> ayehe (n)(g)(x)@|@ay (n)¹@
+@> ayehe (n)(g)(x)@|@aye (n)(g)(x)@
+@> c@|@ch@
+@> c@|@j@
+@> c + i@|@t + i@
+@> c + t@|@s + t@
+@> ca (n)¹@|@sa (n)¹@
+@> ca (n)²@|@paro (n)(g)(x)@
+@> ca (n)²@|@par (n)@
+@> ca (n)²@|@car (n)@
+@> ca (n)²@|@pan (n)²@
+@> ca (n)²@|@caro (n)(g)(x)@
+@> ca (n)²@|@paroho (n)(g)(x)@
+@> ca (n)³@|@cas (n)@
+@> ca (n)ª@|@caha (n)(g)(x)@
+@> caha (n)(g)(x)@|@ca (n)ª@
+@> car (n)@|@pan (n)²@
+@> car (n)@|@paroho (n)(g)(x)@
+@> car (n)@|@paro (n)(g)(x)@
+@> car (n)@|@ca (n)²@
+@> car (n)@|@par (n)@
+@> car (n)@|@caro (n)(g)(x)@
+@> caro (n)(g)(x)@|@par (n)@
+@> caro (n)(g)(x)@|@paro (n)(g)(x)@
+@> caro (n)(g)(x)@|@ca (n)²@
+@> caro (n)(g)(x)@|@pan (n)²@
+@> caro (n)(g)(x)@|@paroho (n)(g)(x)@
+@> caro (n)(g)(x)@|@car (n)@
+@> carumpe (n)@|@parumpe (n)@
+@> cas (n)@|@ca (n)³@
+@> cep (n)@|@ciep (n)@
+@> ceta (n)@|@reep (n)@
+@> ceta (n)@|@seta (n)@
+@> ceta (n)@|@sita (n)@
+@> ceta (n)@|@sta (n)@
+@> ci (n)@|@ciyehe (n)(g)(x)@
+@> ci (n)@|@ciye (n)(g)(x)@
+@> ci (n)@|@cikap (n)²@
+@> ciep (n)@|@cep (n)@
+@> cikap-kamuy (n)@|@kotankor-kamuy (n)@
+@> cikap (n)¹@|@cir (n)¹@
+@> cikap (n)²@|@ci (n)@
+@> cikir (n)¹@|@kema (n)@
+@> cimip (n)@|@cimipi (n)(g)(x)@
+@> cimipi (n)(g)(x)@|@cimip (n)@
+@> cinene (n)@|@tukunne (n)@
+@> cir (n)¹@|@cikap (n)¹@
+@> cir (n)²@|@pecir (n)@
+@> cise (n)@|@cisehe (n)(g)(x)@
+@> cise (n)@|@cisey (n)@
+@> cisehe (n)(g)(x)@|@cise (n)@
+@> cisehe (n)(g)(x)@|@cisey (n)@
+@> cisey (n)@|@cise (n)@
+@> cisey (n)@|@cisehe (n)(g)(x)@
+@> ciye (n)(g)(x)@|@ci (n)@
+@> ciye (n)(g)(x)@|@ciyehe (n)(g)(x)@
+@> ciyehe (n)(g)(x)@|@ci (n)@
+@> ciyehe (n)(g)(x)@|@ciye (n)(g)(x)@
+@> cuk-an (n)@|@cuk-pa (n)@
+@> cuk-an (n)@|@cuk-unpa (n)@
+@> cuk-an (n)@|@cuk (n)@
+@> cuk-an (n)@|@cuk-umpa (n)@
+@> cuk-pa (n)@|@cuk-an (n)@
+@> cuk-pa (n)@|@cuk (n)@
+@> cuk-umpa (n)@|@cuk-pa (n)@
+@> cuk-umpa (n)@|@cuk-an (n)@
+@> cuk-umpa (n)@|@cuk (n)@
+@> cuk (n)@|@cuk-pa (n)@
+@> cuk (n)@|@cuk-unpa (n)@
+@> cuk (n)@|@cuk-umpa (n)@
+@> cuk (n)@|@cuk-an (n)@
+@> cukpa (n)@|@cuk-umpa (n)@
+@> cukpa (n)@|@cuk-unpa (n)@
+@> cup-ewen (n)@|@cuppe (n)@
+@> cup-ewen (n)@|@cup-wen (n)@
+@> cup-wen (n)@|@cuppe (n)@
+@> cup-wen (n)@|@cup-ewen (n)@
+@> cuppe (n)@|@cup-wen (n)@
+@> cuppe (n)@|@cup-ewen (n)@
+@> e (vt)@|@ipe (vt)@
+@> ecu (n)@|@etu (n)@
+@> ekaci (n)@|@heykaci (n)@
+@> ekaci (n)@|@hekaci (n)@
+@> ekari@|@okari (pop)@
+@> ekari (pop)@|@kari (pop)@
+@> ekaye (n)@|@kutkayekay (n)@
+@> ekaye (n)@|@sinotcarewe (n)@
+@> ekaye (n)@|@kaye (n)@
+@> emus (n)@|@emusi (n)(g)(x)@
+@> emusi (n)(g)(x)@|@emus (n)@
+@> erampetek (vi)@|@erampewtek (vi)@
+@> erampewtek (vi)@|@erampetek (vi)@
+@> erkus (n)@|@herkus (n)@
+@> etu (n)@|@ecu (n)@
+@> etu (n)@|@etuhu (n)(g)(x)@
+@> etuhu (n)(g)(x)@|@etu (n)@
+@> ewkopitte-kar (vt)@|@ewpitte-kar (vt)@
+@> ewkopitte-kar (vt)@|@ewkopitte-ki (vt)@
+@> ewkopitte-ki (vt)@|@ewpitte-ki (vt)@
+@> ewkopitte-ki (vt)@|@ewkopitte-kar (vt)@
+@> ewkopitte (n)@|@ewpitte (n)@
+@> ewnkasi-no (adv)@|@yokkata (adv)@
+@> ewpitte-kar (vt)@|@ewpitte-ki (vt)@
+@> ewpitte-kar (vt)@|@ewkopitte-kar (vt)@
+@> ewpitte-ki (vt)@|@ewpitte-kar (vt)@
+@> ewpitte-ki (vt)@|@ewkopitte-ki (vt)@
+@> ewpitte (n)@|@ewkopitte (n)@
+@> h@|@f@
+@> ham (n)@|@hamuhu (n)(g)(x)@
+@> ham (n)@|@hamu (n)(g)(x)@
+@> hamu (n)(g)(x)@|@ham (n)@
+@> hamu (n)(g)(x)@|@hamuhu (n)(g)(x)@
+@> hamuhu (n)(g)(x)@|@ham (n)@
+@> hamuhu (n)(g)(x)@|@hamu (n)(g)(x)@
+@> hani (pc)@|@ani (pc)¹@
+@> hapo (n)@|@unu (n)@
+@> hapo (n)@|@totto (n)@
+@> haw (n)@|@hawehe (n)(g)(x)@
+@> haw (n)@|@hawe (n)(g)(x)@
+@> hawas (vt)@|@hawasi (vt)@
+@> hawas (vt)@|@hawe-as (vt)@
+@> hawasi (vt)@|@hawas (vt)@
+@> hawasi (vt)@|@hawe-as (vt)@
+@> hawe-as (vt)@|@hawasi (vt)@
+@> hawe-as (vt)@|@hawas (vt)@
+@> hawe (n)(g)(x)@|@haw (n)@
+@> hawe (n)(g)(x)@|@hawehe (n)(g)(x)@
+@> hawehe (n)(g)(x)@|@haw (n)@
+@> hawehe (n)(g)(x)@|@hawe (n)(g)(x)@
+@> hekaci (n)@|@ekaci (n)@
+@> hekaci (n)@|@heykaci (n)@
+@> hemoy (n)@|@kenew (n)@
+@> hepasi (adv)@|@hepsi (adv)@
+@> hepera (adv)@|@heperay (adv)@
+@> heperay (adv)@|@hepera (adv)@
+@> hepoktekka (vi)@|@hepokitekka (vi)@
+@> hepsi (adv)@|@hepasi (adv)@
+@> herasnu (vi)@|@heri-at (vi)@
+@> herasnure (vt)@|@heri-atte (vt)@
+@> heri-at (vi)@|@herasnu (vi)@
+@> heri-atte (vt)@|@herasnure (vt)@
+@> heroki (n)@|@heruki (n)@
+@> heruki (n)@|@heroki (n)@
+@> heykaci (n)@|@ekaci (n)@
+@> heykaci (n)@|@hekaci (n)@
+@> hoku (n)@|@hokuhu (n)(g)(x)@
+@> hokuhu (n)(g)(x)@|@hoku (n)@
+@> hon (n)@|@honi (n)(g)(x)@
+@> hon (n)@|@honihi (n)(g)(x)@
+@> honi (n)(g)(x)@|@hon (n)@
+@> honi (n)(g)(x)@|@honihi (n)(g)(x)@
+@> honihi (n)(g)(x)@|@hon (n)@
+@> honihi (n)(g)(x)@|@honi (n)(g)(x)@
+@> honkor (vi)@|@yayrat (vt)@
+@> honkor (vi)@|@yarat (vt)@
+@> hos (n)@|@hosihi (n)(g)(x)@
+@> hos (n)@|@hosi (n)(g)(x)@
+@> hosi (n)(g)(x)@|@hos (n)@
+@> hosi (n)(g)(x)@|@hosihi (n)(g)(x)@
+@> hosihi (n)(g)(x)@|@hos (n)@
+@> hosihi (n)(g)(x)@|@hosi (n)(g)(x)@
+@> huci (n)¹@|@unci (n)@
+@> huci (n)¹@|@ape (n)²@
+@> humi (n)@|@hum (n)@
+@> huyetok (n)@|@huyetop (n)@
+@> huyetop (n)@|@huyetok (n)@
+@> huype (n)@|@ra (n)²@
+@> i + y + a@|@i + a@
+@> i + y + e@|@i + e@
+@> i + y + o@|@i + o@
+@> i + y + u@|@i + u@
+@> ikasiw (vt)@|@kasiw (vt)¹@
+@> ikesu@|@yusa (vi)@
+@> ipe (vt)@|@e (vt)@
+@> iresu-huci (n)@|@ape-huci-kamuy (n)@
+@> iresu-huci (n)@|@onne-huci (n)@
+@> iresu-huci (n)@|@kamuy-huci (n)@
+@> iresu-huci (n)@|@ape-kamuy (n)@
+@> iresu-huci (n)@|@unci-kamuy (n)@
+@> iresu-huci (n)@|@iresu-kamuy (n)@
+@> iresu-huci (n)@|@ape-huci (n)@
+@> iresu-kamuy (n)@|@ape-huci-kamuy (n)@
+@> iresu-kamuy (n)@|@ape-huci (n)@
+@> iresu-kamuy (n)@|@iresu-huci (n)@
+@> iresu-kamuy (n)@|@unci-kamuy (n)@
+@> iresu-kamuy (n)@|@onne-huci (n)@
+@> iresu-kamuy (n)@|@ape-kamuy (n)@
+@> iresu-kamuy (n)@|@kamuy-huci (n)@
+@> itak (n)@|@itakihi (n)(g)(x)@
+@> itak (n)@|@itaki (n)(g)(x)@
+@> itaki (n)(g)(x)@|@itakihi (n)(g)(x)@
+@> itaki (n)(g)(x)@|@itak (n)@
+@> itakihi (n)(g)(x)@|@itak (n)@
+@> itakihi (n)(g)(x)@|@itaki (n)(g)(x)@
+@> iwan-ikinne (adj)@|@iwan-otutanu (adj)@
+@> iwan-otutanu (adj)@|@iwan-ikinne (adj)@
+@> iyama (vt)@|@yupkir (vt)@
+@> k@|@g@
+@> ka-obi-uki@|@katunaska (vt)@
+@> ka-soya (n)@|@ka-soyay (n)@
+@> ka-soyay (n)@|@ka-soya (n)@
+@> kam (n)@|@kamihi (n)(g)(x)@
+@> kam (n)@|@kami (n)(g)(x)@
+@> kami (n)(g)(x)@|@kamihi (n)(g)(x)@
+@> kami (n)(g)(x)@|@kam (n)@
+@> kamihi (n)(g)(x)@|@kami (n)(g)(x)@
+@> kamihi (n)(g)(x)@|@kam (n)@
+@> kamuy-huci (n)@|@ape-huci-kamuy (n)@
+@> kamuy-huci (n)@|@unci-kamuy (n)@
+@> kamuy-huci (n)@|@onne-huci (n)@
+@> kamuy-huci (n)@|@iresu-huci (n)@
+@> kamuy-huci (n)@|@ape-huci (n)@
+@> kamuy-huci (n)@|@iresu-kamuy (n)@
+@> kamuy-huci (n)@|@ape-kamuy (n)@
+@> kamuy-hum (n)@|@kamuy-tur-humse-hum (n)@
+@> kamuy-tur-humse-hum (n)@|@kamuy-hum (n)@
+@> kap (n)@|@uru (n)@
+@> kap (n)@|@kapuhu (n)(g)(x)@
+@> kap (n)@|@kapu (n)(g)(x)@
+@> kapu (n)(g)(x)@|@kapuhu (n)(g)(x)@
+@> kapu (n)(g)(x)@|@uru (n)@
+@> kapu (n)(g)(x)@|@kap (n)@
+@> kapuhu (n)(g)(x)@|@uru (n)@
+@> kapuhu (n)(g)(x)@|@kap (n)@
+@> kapuhu (n)(g)(x)@|@kapu (n)(g)(x)@
+@> kari@|@okari (pop)@
+@> kari@|@ekari (pop)@
+@> kas (n)@|@kasihi (n)(g)(x)@
+@> kas (n)@|@kasi (n)(g)(x)@
+@> kasi (n)(g)(x)@|@kasihi (n)(g)(x)@
+@> kasi (n)(g)(x)@|@kas (n)@
+@> kasihi (n)(g)(x)@|@kas (n)@
+@> kasihi (n)(g)(x)@|@kasi (n)(g)(x)@
+@> kasiw (vt)²@|@kasuy (vt)@
+@> kasiw (vt)²@|@kasu (vt)@
+@> kasu (vt)@|@kasiw (vt)²@
+@> kasu (vt)@|@kasuy (vt)@
+@> kasuy (vt)@|@kasiw (vt)²@
+@> kasuy (vt)@|@kasu (vt)@
+@> kat (n)@|@katuhu (n)(g)(x)@
+@> kat (n)@|@katu (n)(g)(x)@
+@> kateomare-kur (n)@|@katayrotke-kur (n)@
+@> katken (n)@|@katten (n)@
+@> katten (n)@|@katken (n)@
+@> katu-toranne (adv)@|@katupase (adj)@
+@> katu (n)(g)(x)@|@katuhu (n)(g)(x)@
+@> katu (n)(g)(x)@|@kat (n)@
+@> katuhu (n)(g)(x)@|@katu (n)(g)(x)@
+@> katuhu (n)(g)(x)@|@kat (n)@
+@> katupase (adj)@|@katu-toranne (adv)@
+@> kay (vt)@|@pakkay (vt)@
+@> kaye (n)@|@ekaye (n)@
+@> kaye (n)@|@kutkayekai (n)@
+@> kaye (n)@|@kutkayekay (n)@
+@> kaye (n)@|@sinotcarewe (n)@
+@> kem (n)¹@|@kemihi (n)@
+@> kema (n)@|@cikir (n)¹@
+@> kema (n)@|@kemaha (n)(g)(x)@
+@> kemaha (n)(g)(x)@|@kema (n)@
+@> kemihi (n)@|@kem (n)¹@
+@> kenew (n)@|@hemoy (n)@
+@> kew (n)@|@kewe (n)¹@
+@> kewe (n)¹@|@kew (n)@
+@> keyr (n)@|@ker (n)@
+@> kik (vt)@|@kikkik (vt)@
+@> kikkik (vt)@|@kik (vt)@
+@> kinanpo (n)@|@kinapo (n)@
+@> kinapo (n)@|@kinanpo (n)@
+@> kinop (n)@|@yukram (n)@
+@> kiraw (n)@|@kirawehe (n)(g)(x)@
+@> kiraw (n)@|@kirawe (n)(g)(x)@
+@> kiraw (n)@|@kirawe (n)¹@
+@> kiraw awe (n)@|@kiraw konta (n)@
+@> kiraw konta (n)@|@kiraw awe (n)@
+@> kirawe (n)(g)(x)@|@kirawehe (n)(g)(x)@
+@> kirawe (n)(g)(x)@|@kiraw (n)@
+@> kirawe (n)¹@|@kiraw (n)@
+@> kirawe (n)²@|@kiri (n)²@
+@> kirawehe (n)(g)(x)@|@kiraw (n)@
+@> kirawehe (n)(g)(x)@|@kirawe (n)(g)(x)@
+@> kiri (n)²@|@kirawe (n)²@
+@> kiri (n)²@|@kirawe (n)@
+@> kisar (n)@|@kisara (n)(g)(x)@
+@> kisar (n)@|@kisaraha (n)(g)(x)@
+@> kisara (n)(g)(x)@|@kisar (n)@
+@> kisara (n)(g)(x)@|@kisaraha (n)(g)(x)@
+@> kisaraha (n)(g)(x)@|@kisar (n)@
+@> kisaraha (n)(g)(x)@|@kisara (n)(g)(x)@
+@> kompo (n)@|@kompu (n)@
+@> kompu (n)@|@kompo (n)@
+@> konkon (n)@|@konkoni (n)@
+@> konkoni (n)@|@konkon (n)@
+@> konru (n)@|@ru (n)¹@
+@> korka (pop)@|@korkay (pop)@
+@> korkay (pop)@|@korka (pop)@
+@> kotankor-kamuy (n)@|@cikap-kamuy (n)@
+@> kur (n)@|@kuru (n)²@
+@> kuri (n)¹@|@niskur (n)@
+@> kuri (n)¹@|@niskur (n)(ain-N)@
+@> kuru (n)²@|@kur (n)@
+@> kutkayekai (n)@|@kaye (n)@
+@> kutkayekay (n)@|@sinotcarewe (n)@
+@> kutkayekay (n)@|@kaye (n)@
+@> kutkayekay (n)@|@ekaye (n)@
+@> m + m@|@n + m@
+@> m + p@|@n + p@
+@> maci saki kuru (n)@|@mat saki kuru (n)@
+@> makiri (n)@|@pakiri (n)@
+@> mana (n)@|@pana (n)@
+@> manayta-cikuni (n)@|@manayta (n)@
+@> manayta (n)@|@manayta-cikuni (n)@
+@> mantari (n)@|@maytari (n)@
+@> mat saki kuru (n)@|@maci saki kuru (n)@
+@> maw (n)¹@|@omaw (n)¹@
+@> maw (n)¹@|@mawe (n)(g)(x)¹@
+@> maw (n)²@|@omaw (n)²@
+@> maw (n)³@|@mawe (n)(g)(x)²@
+@> maw (n)³@|@omaw (n)³@
+@> mawe (n)(g)(x)¹@|@omaw (n)¹@
+@> mawe (n)(g)(x)¹@|@maw (n)¹@
+@> mawe (n)(g)(x)²@|@maw (n)³@
+@> mawe (n)(g)(x)²@|@omaw (n)³@
+@> mayamaya (vi)@|@mayemaye (vi)@
+@> mayayke (vt)@|@mayrototke (vi)@
+@> mayemaye (vi)@|@mayamaya (vi)@
+@> mayrototke (vi)@|@mayayke (vt)@
+@> maytari (n)@|@mantari (n)@
+@> moskar (n)@|@manayta-cikuni (n)@
+@> moskar (n)@|@manayta (n)@
+@> n (n)(sf)@|@niw (n)(sf)@
+@> n (n)(sf)@|@ni (n)(sf)@
+@> n + n@|@r + n@
+@> n + r@|@r + r@
+@> naani (adv)@|@naanihunko (adv)@
+@> naani (adv)@|@naanipo (adv)@
+@> naanihungo (adv)@|@naani (adv)@
+@> naanihungo (adv)@|@naanipo (adv)@
+@> naanipo (adv)@|@naani (adv)@
+@> naanipo (adv)@|@naanihunko (adv)@
+@> namsu (n)@|@namsun (n)@
+@> namsun (n)@|@namsu (n)@
+@> nan (n)@|@nanuhu (n)(g)(x)@
+@> nan (n)@|@nanu (n)(g)(x)@
+@> nanu (n)(g)(x)@|@nanuhu (n)(g)(x)@
+@> nanu (n)(x)@|@nan (n)@
+@> nanuhu (n)(g)(x)@|@nanu (n)(g)(x)@
+@> nanuhu (n)(x)@|@nan (n)@
+@> ni (n)(sf)@|@niw (n)(sf)@
+@> ni (n)(sf)@|@n (n)(sf)@
+@> nini (vt)@|@tur (vt)@
+@> nini (vt)@|@turi (vt)@
+@> ninkari (n)@|@ninkarihi (n)(g)(x)@
+@> ninkarihi (n)(g)(x)@|@ninkari (n)@
+@> nisiw (n)@|@nisu (n)@
+@> niskur (n)@|@kuri (n)¹@
+@> nisu (n)@|@nisiw (n)@
+@> nitay@|@hastay (n)@
+@> niueo (n)@|@niweo (n)@
+@> niw (n)(sf)@|@ni (n)(sf)@
+@> niw (n)(sf)@|@n (n)(sf)@
+@> niweo (n)@|@niueo (n)@
+@> noram (adj)@|@roram (adj)@
+@> nu-an (adj)@|@nuye-an (adj)@
+@> nu-an (adj)@|@nu-us (adj)@
+@> nu-us (adj)@|@nuye-an (adj)@
+@> nu-us (adj)@|@nuye-us (adj)@
+@> nu-us (adj)@|@nu-an (adj)@
+@> nuca-kuru (n)@|@nuca (n)@
+@> nuca (n)@|@nuca-kuru (n)@
+@> nuy (n)@|@ape-nuy (n)@
+@> nuye-an-i (n)@|@sir-esikpe (n)@
+@> nuye-an (adj)@|@nu-an (adj)@
+@> nuye-an (adj)@|@nuye-us (adj)@
+@> nuye-an (adj)@|@nu-us (adj)@
+@> nuye-an (adj)@|@sir-esik (adj)@
+@> nuye-us (adj)@|@nuye-an (adj)@
+@> nuye-us (adj)@|@nu-us (adj)@
+@> ohoke (adj)@|@ohuke (adj)@
+@> ohuke (adj)@|@ohoke (adj)@
+@> okari@|@ekari (pop)@
+@> okari (pop)@|@kari (pop)@
+@> okkaypo (n)@|@okkaypoho (n)(g)(x)@
+@> okkaypoho (n)(g)(x)@|@okkaypo (n)@
+@> okom (n)@|@rokom (n)¹@
+@> okom (n)@|@tannu (n)@
+@> oku (n)@|@okuhu (n)(g)(x)@
+@> okuhu (n)(g)(x)@|@oku (n)@
+@> omap@|@katayrotke (vt)@
+@> omaw (n)¹@|@maw (n)¹@
+@> omaw (n)²@|@maw (n)²@
+@> omaw (n)³@|@maw (n)³@
+@> onne-huci (n)@|@unci-kamuy (n)@
+@> onne-huci (n)@|@ape-kamuy (n)@
+@> onne-huci (n)@|@ape-huci (n)@
+@> onne-huci (n)@|@iresu-kamuy (n)@
+@> onne-huci (n)@|@iresu-huci (n)@
+@> onne-huci (n)@|@ape-huci-kamuy (n)@
+@> onne-huci (n)@|@kamuy-huci (n)@
+@> onnep (n)@|@unew (n)@
+@> ontar (n)@|@ontaro (n)@
+@> ontaro (n)@|@ontar (n)@
+@> onuman (adv)@|@sir-onuman (adv)@
+@> orawke (adj)@|@orawki (adj)@
+@> orawke (vi)@|@orawki (vi)@
+@> orawki (adj)@|@orawke (adj)@
+@> orawki (vi)@|@orawke (vi)@
+@> otompuy (n)@|@yorpuy (n)@
+@> p@|@b@
+@> p (n)@|@pe (n)¹@
+@> p (sf)@|@pe (sf)@
+@> pa (n)²@|@sapa (n)@
+@> pa (n)²@|@pake (n)@
+@> pa (n)³@|@papa (n)@
+@> pa (n)ª@|@paha (n)²@
+@> paha (n)¹@|@pa (n)¹@
+@> paha (n)²@|@pa (n)ª@
+@> pake (n)@|@sapa (n)@
+@> pake (n)@|@pa (n)²@
+@> pakiri (n)@|@makiri (n)@
+@> pakkay (vt)@|@kay (vt)@
+@> pan (n)²@|@caro (n)(g)(x)@
+@> pan (n)²@|@car (n)@
+@> pan (n)²@|@paroho (n)(g)(x)@
+@> pan (n)²@|@par (n)@
+@> pan (n)²@|@ca (n)²@
+@> pan (n)²@|@paro (n)(g)(x)@
+@> pana (n)@|@mana (n)@
+@> papa (n)@|@pa (n)³@
+@> par (n)@|@pan (n)²@
+@> par (n)@|@car (n)@
+@> par (n)@|@paro (n)(g)(x)@
+@> par (n)@|@paroho (n)(g)(x)@
+@> par (n)@|@caro (n)(g)(x)@
+@> par (n)@|@ca (n)²@
+@> paro (n)(g)(x)@|@caro (n)(g)(x)@
+@> paro (n)(g)(x)@|@pan (n)²@
+@> paro (n)(g)(x)@|@paroho (n)(g)(x)@
+@> paro (n)(g)(x)@|@ca (n)²@
+@> paro (n)(g)(x)@|@car (n)@
+@> paro (n)(g)(x)@|@par (n)@
+@> paroho (n)(g)(x)@|@ca (n)²@
+@> paroho (n)(g)(x)@|@caro (n)(g)(x)@
+@> paroho (n)(g)(x)@|@pan (n)²@
+@> paroho (n)(g)(x)@|@par (n)@
+@> paroho (n)(g)(x)@|@paro (n)(g)(x)@
+@> paroho (n)(g)(x)@|@car (n)@
+@> parumpe (n)@|@carumpe (n)@
+@> pasta (adj)@|@momko (adj)@
+@> paykar (n)@|@paykaru (n)@
+@> paykaru (n)@|@paykar (n)@
+@> pe (n)¹@|@ampe (n)¹@
+@> pe (n)¹@|@p (n)@
+@> pe (n)²@|@pehe (n)@
+@> pe (sf)@|@p (sf)@
+@> peca (n)@|@petca (n)@
+@> peci (n)@|@pet (n)²@
+@> pecir (n)@|@cir (n)²@
+@> pehe (n)@|@pe (n)²@
+@> pet (n)²@|@petca (n)@
+@> pet (n)²@|@petci (n)@
+@> pet (n)²@|@peci (n)@
+@> petca (n)@|@peca (n)@
+@> petca (n)@|@petci (n)@
+@> petca (n)@|@pet (n)²@
+@> petci (n)@|@petca (n)@
+@> petci (n)@|@pet (n)²@
+@> pika@|@katap (adv)@
+@> piye (n)@|@tane (n)@
+@> pu (n)@|@puy (n)¹@
+@> pu (n)@|@puhu (n)(g)(x)@
+@> puhu (n)(g)(x)@|@pu (n)@
+@> puhu (n)(g)(x)@|@puy (n)¹@
+@> puy (n)¹@|@puhu (n)(g)(x)@
+@> puy (n)¹@|@pu (n)@
+@> ra (n)²@|@raha (n)@
+@> raha (n)@|@ra (n)²@
+@> rakka (vi)@|@ratci (vi)(ain-CW)@
+@> ram (n)@|@rama (n)(g)(x)@
+@> rama (n)@|@ramat (n)@
+@> rama (n)(g)(x)@|@ram (n)@
+@> ramat (n)@|@ram (n)@
+@> ramat (n)@|@rama (n)@
+@> ran (vi)(p)@|@rap (vi)(s)@
+@> ran (vi)(s)@|@ray (vi)¹@
+@> rap (vi)(p)@|@ran (vi)(s)@
+@> ratcako (n)@|@ratcaku (n)@
+@> ratcaku (n)@|@ratcako (n)@
+@> ratci (vi)(ain-CW)@|@rakka (vi)@
+@> ray (vi)¹@|@ran (vi)(s)@
+@> ray (vi)²@|@tay (vi)(ain-NN)@
+@> rayke (vt)(s)@|@ronnu (vt)(p)@
+@> re-nuy (n)@|@ren (n)@
+@> reep (n)@|@sta (n)@
+@> reep (n)@|@ceta (n)@
+@> reep (n)@|@seta (n)@
+@> reep (n)@|@sita (n)@
+@> rek (n)@|@reki (n)(g)(x)@
+@> reki (n)(g)(x)@|@rek (n)@
+@> rekuci (n)(g)(x)@|@rekut (n)@
+@> rekut (n)@|@rekuci (n)(g)(x)@
+@> rep-un (adv)@|@rep (n)¹@
+@> rep (n)¹@|@atuy (n)@
+@> rep (n)¹@|@acuy (n)@
+@> rep (n)¹@|@atuy-so (n)@
+@> rok (vi)(p)@|@a (vi)(s)@
+@> rokom (n)¹@|@tannu (n)@
+@> rokom (n)¹@|@okom (n)@
+@> ronno (vt)(p)@|@ronnu (vt)(p)@
+@> ronnu (vt)(p)@|@ronno (vt)(p)@
+@> ronnu (vt)(p)@|@rayke (vt)(s)@
+@> roram (adj)@|@noram (adj)@
+@> rorumpe (n)@|@tumi (n)@
+@> rorun (n)@|@roruy (n)@
+@> roruy (n)@|@rorun (n)@
+@> ru (n)¹@|@konru (n)@
+@> ruy (vi)@|@as (vi)²@
+@> s@|@sh@
+@> s@|@z@
+@> sa (n)¹@|@ca (n)¹@
+@> sa (n)²@|@saha (n)(g)(x)¹@
+@> sa (n)²@|@sapo (n)@
+@> sa (n)³@|@saha (n)(g)(x)²@
+@> saha (n)(g)(x)¹@|@sa (n)²@
+@> saha (n)(g)(x)²@|@sa (n)³@
+@> sak (adj)@|@sakno (adv)@
+@> sakno (adv)@|@sak (adj)@
+@> samay-mosir (n)@|@samor-mosir (n)@
+@> samay-un-kur (n)@|@samor-un-kur (n)@
+@> samor-mosir (n)@|@samay-mosir (n)@
+@> samor-un-kur (n)@|@samay-un-kur (n)@
+@> san (n)(s)@|@sap (n)(p)@
+@> santa-mosir (n)@|@santa (n)@
+@> santa-mosir (n)@|@santan (n)@
+@> santa (n)@|@santan (n)@
+@> santa (n)@|@santa-mosir (n)@
+@> santan (n)@|@santa (n)@
+@> santan (n)@|@santa-mosir (n)@
+@> sap (n)(p)@|@san (n)(s)@
+@> sapa (n)@|@pa (n)²@
+@> sapa (n)@|@pake (n)@
+@> sapo (n)@|@sa (n)²@
+@> sar-us (n)@|@saro (n)@
+@> sar (n)@|@saraha (n)(g)(x)@
+@> sar (n)@|@sara (n)(g)(x)@
+@> sara (n)(g)(x)@|@sar (n)@
+@> sara (n)(g)(x)@|@saraha (n)(g)(x)@
+@> saraha (n)(g)(x)@|@sar (n)@
+@> saraha (n)(g)(x)@|@sara (n)(g)(x)@
+@> saro (n)@|@sar-us (n)@
+@> sesek-maw (n)@|@ape-seseki (n)@
+@> sesek-maw (n)@|@ape-seseku (n)@
+@> sesek (adj)@|@seysek (adj)@
+@> seta (n)@|@sita (n)@
+@> seta (n)@|@sta (n)@
+@> seta (n)@|@ceta (n)@
+@> seta (n)@|@setaha (n)(g)(x)@
+@> seta (n)@|@reep (n)@
+@> setaha (n)(g)(x)@|@seta (n)@
+@> seysek (adj)@|@sesek (adj)@
+@> sik (n)@|@sikihi (n)(g)(x)@
+@> sik (n)@|@siki (n)(g)(x)@
+@> siki (n)(g)(x)@|@sik (n)@
+@> siki (n)(g)(x)@|@sikihi (n)(g)(x)@
+@> sikihi (n)(g)(x)@|@siki (n)(g)(x)@
+@> sikihi (n)(g)(x)@|@sik (n)@
+@> sim (adv)@|@sima (adv)@
+@> sima (adv)@|@sim (adv)@
+@> simakoray (vi)(s)@|@simakoraypa (vi)(p)@
+@> simakoraypa (vi)(p)@|@simakoray (vi)(s)@
+@> simipe (n)@|@sin-ipe (n)@
+@> sin-ipe (n)@|@simipe (n)@
+@> sinan-cup (n)@|@sinaw-cup (n)@
+@> sinaw-cup (n)@|@sinan-cup (n)@
+@> sinewe (n)@|@sinot (n)@
+@> sinewe (vi)@|@sinot (vi)@
+@> sinna (n)@|@sinnay (n)@
+@> sinnay (n)@|@sinna (n)@
+@> sinot (n)@|@sinewe (n)@
+@> sinot (vi)@|@sinewe (vi)@
+@> sinotcarewe (n)@|@kutkayekay (n)@
+@> sinotcarewe (n)@|@ekaye (n)@
+@> sinotcarewe (n)@|@kaye (n)@
+@> sinuye (vt)@|@unuye (vt)@
+@> sir-an (adv)@|@siran (adv)@
+@> sir-esik (adj)@|@nuye-an (adj)@
+@> sir-esikpe (n)@|@nuye-an-i (n)@
+@> sir-onuman (adv)@|@sironuman (adv)@
+@> sir (n)¹@|@siri (n)(g)(x)¹@
+@> sir (n)²@|@siri (n)(g)(x)²@
+@> sir onuman (adv)@|@onuman (adv)@
+@> siran (adv)@|@sir-an (adv)@
+@> siri (n)(g)(x)¹@|@sir (n)¹@
+@> siri (n)(g)(x)²@|@sir (n)²@
+@> sironuman (adv)@|@sir-onuman (adv)@
+@> sirutur (adj)@|@tumutur (adj)@
+@> sisam (n)@|@samo (n)@
+@> sita (n)@|@sta (n)@
+@> sita (n)@|@seta (n)@
+@> sita (n)@|@reep (n)@
+@> sita (n)@|@ceta (n)@
+@> sokkar (n)@|@aputki (n)@
+@> sokkar (n)@|@yattuy (n)²@
+@> sokkar (n)@|@toma (n)²@
+@> soyokari@|@tuyepuspuske-an (n)@
+@> sta (n)@|@seta (n)@
+@> sta (n)@|@ceta (n)@
+@> sta (n)@|@reep (n)@
+@> sta (n)@|@sita (n)@
+@> su-op (n)@|@op (n)¹@
+@> suop (n)@|@suyop (n)@
+@> susam (adj)@|@susan (adj)@
+@> susan (adj)@|@susam (adj)@
+@> suy-op (n)@|@op (n)¹@
+@> suyop (n)@|@suop (n)@
+@> t@|@d@
+@> t + c@|@r + c@
+@> t + t@|@r + t@
+@> takne (adj)@|@tatne (adj)@
+@> tam (pr)@|@tan (pr)@
+@> tan (pr)@|@tam (pr)@
+@> tane (n)@|@piye (n)@
+@> tannu (n)@|@okom (n)@
+@> tannu (n)@|@rokom (n)¹@
+@> tasum@|@tuyepuspuske-an (n)@
+@> tatne (adj)@|@takne (adj)@
+@> tay (vi)(ain-NN)@|@ray (vi)²@
+@> tek (n)@|@tekehe (n)(g)(x)@
+@> tek (n)@|@teke (n)(g)(x)@
+@> teke (n)(g)(x)@|@tekehe (n)(g)(x)@
+@> teke (n)(g)(x)@|@tek (n)@
+@> tekehe (n)(g)(x)@|@teke (n)(g)(x)@
+@> tekehe (n)(g)(x)@|@tek (n)@
+@> tesma (n)@|@cinru (n)@
+@> to (n)²@|@toho (n)@
+@> toho (n)@|@to (n)²@
+@> tokkari (n)@|@tukkar (n)@
+@> tokkari (n)@|@tukar (n)@
+@> tokkari (n)@|@tukoro (n)@
+@> toma (n)²@|@yattuy (n)²@
+@> toma (n)²@|@sokkar (n)@
+@> toma (n)²@|@aputki (n)@
+@> tonin (n)@|@toymok (n)@
+@> totto (n)@|@unu (n)@
+@> totto (n)@|@hapo (n)@
+@> toy (adj)@|@wen (adj)@
+@> toy (n)¹@|@toytoy (n)@
+@> toy (n)²@|@tusir (n)@
+@> toymok (n)@|@tonin (n)@
+@> toytoy@|@toy (n)¹@
+@> tukar (n)@|@tokkari (n)@
+@> tukar (n)@|@tukkar (n)@
+@> tukar (n)@|@tukoro (n)@
+@> tukkar (n)@|@tokkari (n)@
+@> tukkar (n)@|@tukoro (n)@
+@> tukkar (n)@|@tukar (n)@
+@> tukoro (n)@|@tokkari (n)@
+@> tukoro (n)@|@tukkar (n)@
+@> tukoro (n)@|@tukar (n)@
+@> tukunne (n)@|@cinene (n)@
+@> tum (n)@|@tumu (n)¹@
+@> tumam-kosaye (vi)@|@tumama-kosaye (vi)@
+@> tumama-kosaye (vi)@|@tumam-kosaye (vi)@
+@> tumi (n)@|@rorumpe (n)@
+@> tumi (n)@|@ukoyki-ampe (n)@
+@> tumu (n)¹@|@tum (n)@
+@> tunas (adj)@|@tunasi (adj)@
+@> tunasi (adj)@|@tunas (adj)@
+@> tur (n)@|@turi (n)(g)(x)@
+@> tur (n)@|@turihi (n)(g)(x)@
+@> tur (vt)@|@nini (vt)@
+@> tur (vt)@|@turi (vt)@
+@> turi (n)(g)(x)@|@turihi (n)(g)(x)@
+@> turi (n)(g)(x)@|@tur (n)@
+@> turi (vt)@|@nini (vt)@
+@> turi (vt)@|@tur (vt)@
+@> turihi (n)(g)(x)@|@tur (n)@
+@> turihi (n)(g)(x)@|@turi (n)(g)(x)@
+@> tusir (n)@|@toy (n)²@
+@> tuy (vt)(s)@|@tuye (vt)@
+@> u + w + a@|@u + a@
+@> u + w + e@|@u + e@
+@> u + w + o@|@u + o@
+@> u + y + a@|@u + a@
+@> u + y + e@|@u + e@
+@> u + y + o@|@u + o@
+@> uci (n)(g)(x)@|@ucihi (n)(g)(x)@
+@> uci (n)(g)(x)@|@ut (n)@
+@> ucihi (n)(g)(x)@|@ut (n)@
+@> ucihi (n)(g)(x)@|@uci (n)(g)(x)@
+@> ukoyki-ampe (n)@|@tumi (n)@
+@> unarpe (n)@|@unarpe (n)@
+@> unci-kamuy (n)@|@iresu-huci (n)@
+@> unci-kamuy (n)@|@ape-huci-kamuy (n)@
+@> unci-kamuy (n)@|@iresu-kamuy (n)@
+@> unci-kamuy (n)@|@ape-huci (n)@
+@> unci-kamuy (n)@|@ape-kamuy (n)@
+@> unci-kamuy (n)@|@onne-huci (n)@
+@> unci-kamuy (n)@|@kamuy-huci (n)@
+@> unci (n)@|@ampe (n)²@
+@> unci (n)@|@huci (n)¹@
+@> unci (n)@|@ape (n)²@
+@> unew (n)@|@onnep (n)@
+@> uni (n)@|@unihi (n)(g)(x)@
+@> unihi (n)(g)(x)@|@uni (n)@
+@> unu (n)@|@hapo (n)@
+@> unu (n)@|@totto (n)@
+@> unuye (vt)@|@sinuye (vt)@
+@> uru (n)@|@kap (n)@
+@> uru (n)@|@kapu (n)(g)(x)@
+@> uru (n)@|@kapuhu (n)(g)(x)@
+@> ut (n)@|@uci (n)(g)(x)@
+@> ut (n)@|@ucihi (n)(g)(x)@
+@> uta-ni (n)@|@yuta-ni (n)@
+@> uta (n)@|@yuta (n)@
+@> uwekari (vi)(s)@|@uwekarpa (vi)(p)@
+@> uwekarpa (vi)(p)@|@uwekari (vi)(s)@
+@> wa (adj)@|@wan (adj)@
+@> wa (adv)@|@we (pop)@
+@> wa (adv)@|@wa-no (adv)@
+@> wakka (n)@|@aka (n)@
+@> wan (adj)@|@wa (adj)@
+@> wano (adv)@|@wa (adv)@
+@> wao (n)@|@wawo (n)@
+@> wao (n)@|@waw-ow (n)@
+@> waw-ow (n)@|@wao (n)@
+@> waw-ow (n)@|@wawo (n)@
+@> wawo (n)@|@wao (n)@
+@> wawo (n)@|@waw-ow (n)@
+@> we (pop)@|@wa (adv)@
+@> wen (adj)@|@toy (adj)@
+@> wen (adj)@|@wey (adj)@
+@> wen ikay@|@wempe-puri (n)@
+@> wen ipe@|@wempe-puri (n)@
+@> wey (adj)@|@wen (adj)@
+@> y + s@|@n + s@
+@> y + y@|@n + y@
+@> yak (vi)(s)@|@yakpa (vi)(p)@
+@> yak (vi)(s)@|@yaku (vi)@
+@> yakka (pop)@|@yakkay (pop)@
+@> yakka (pop)@|@akka (pop)@
+@> yakkay (pop)@|@akka (pop)@
+@> yakkay (pop)@|@yakka (pop)@
+@> yakpa (vi)(p)@|@yak (vi)(s)@
+@> yakpa (vi)(p)@|@yaku (vi)@
+@> yaku (vi)@|@yak (vi)(s)@
+@> yaku (vi)@|@yakpa (vi)(p)@
+@> yam-wakka (n)@|@yammakka (n)@
+@> yammakka (n)@|@yam-wakka (n)@
+@> yan (vi)(s)@|@yap (vi)(p)@
+@> yanke (vt)(s)@|@yapte (vt)(p)@
+@> yap (vi)(p)@|@yan (vi)(s)@
+@> yapte (vt)(p)@|@yanke (vt)(s)@
+@> yarat (vt)@|@honkor (vi)@
+@> yasa (vt)(s)@|@yaspa (vt)(p)@
+@> yaspa (vt)(p)@|@yasa (vt)(s)@
+@> yatep (n)@|@yattep (n)@
+@> yator (n)@|@yatot (n)@
+@> yator (n)@|@yatotta (n)@
+@> yatot (n)@|@yattuy (n)¹@
+@> yatot (n)@|@yator (n)@
+@> yatot (n)@|@yatotta (n)@
+@> yatotta (n)@|@yatot (n)@
+@> yatotta (n)@|@yator (n)@
+@> yatotta (n)@|@yattuy (n)¹@
+@> yattep (n)@|@yatep (n)@
+@> yattuy (n)@|@yator (n)@
+@> yattuy (n)¹@|@yatot (n)@
+@> yattuy (n)¹@|@yatotta (n)@
+@> yattuy (n)²@|@aputki (n)@
+@> yattuy (n)²@|@sokkar (n)@
+@> yattuy (n)²@|@toma (n)²@
+@> yatu (n)@|@yatuy (n)@
+@> yatuy (n)@|@yatu (n)@
+@> yayrat (vt)@|@honkor (vi)@
+@> yokkata (adv)@|@ewnkasi-no (adv)@
+@> yorpuy (n)@|@otompuy (n)@
+@> yorun-ki (vt)@|@yorun (vt)@
+@> yuhpo (n)@|@yuppo (n)@
+@> yuhpo (n)@|@yup (n)@
+@> yukram (n)@|@kinop (n)@
+@> yup (n)@|@yuppo (n)@
+@> yup (n)@|@yupihi (n)(g)(x)@
+@> yup (n)@|@yuhpo (n)@
+@> yup (n)@|@yupi (n)(g)(x)@
+@> yupi (n)(g)(x)@|@yup (n)@
+@> yupi (n)(g)(x)@|@yupihi (n)(g)(x)@
+@> yupi (n)(g)(x)@|@yupi (n)(g)(x)@
+@> yupihi (n)(g)(x)@|@yup (n)@
+@> yupihi (n)(g)(x)@|@yupi (n)(g)(x)@
+@> yupin (n)@|@yupin-kampi (n)@
+@> yupin kampi (n)@|@yupin (n)@
+@> yupkiri (vt)@|@iyama (vt)@
+@> yuppo (n)@|@yuhpo (n)@
+@> yuppo (n)@|@yup (n)@
+@> yuta (n)@|@uta (n)@
+@>hepokitekka (vi)@|@hepoktekka (vi)@
+@abaddon@|@wenpe (n)@
+@abaddon@|@wempe (n)@
+@abate@|@nin (vt)@
+@abdicate@|@esini (vi)@
+@abdomen@|@honihi (n)(g)(x)@
+@abdomen@|@honi (n)(g)(x)@
+@abdomen@|@hon (n)@
+@abduce@|@etaye (vt)@
+@abhor@|@hepoko (vt)@
+@ability@|@waya (n)@
+@ability@|@kat (n)@
+@ability@|@katuhu (n)(g)(x)@
+@ability@|@katu (n)(g)(x)@
+@abject@|@raka-isam (adj)@
+@abject@|@wen (adj)@
+@abjectly@|@wen-no (adv)@
+@abnormal@|@sinnay (adj)@
+@abnormal: be ~@|@sinnay (vi)@
+@abode@|@an-i (n)¹@
+@abode@|@cisehe (n)(g)(x)@
+@abode@|@cise (n)@
+@abode@|@cisey (n)@
+@abominable@|@wen (adj)@
+@about@|@ekari (pop)@
+@about@|@okari (pop)@
+@about@|@kari (pop)@
+@above@|@kasu-no (adv)@
+@above@|@kasiketa (adv)@
+@above this@|@tuykata (adv)@
+@above: from ~@|@herasi (adv)@
+@abroad@|@soyta (adv)@
+@abrupt@|@tunas (adj)(ain-N)@
+@abrupt@|@tunas (adj)@
+@abrupt@|@tunasi (adj)@
+@abruptly@|@tunasi-no (adv)@
+@absorb@|@ninka (vt)@
+@absorb@|@nunnun (vt)@
+@absorb@|@nun (vt)@
+@absorb: become ~ed@|@nin (vt)@
+@abundance@|@or (n)@
+@abundance@|@sir-esikpe (n)@
+@abundance@|@nuye-an-i (n)@
+@abundant@|@nu-an (adj)@
+@abundant@|@nu-us (adj)@
+@abundant@|@nuye-us (adj)@
+@abundant@|@sir-esik (adj)@
+@abundantly@|@sir-esik-no (adv)@
+@abundantly@|@nuye-an-no (adv)@
+@abuse@|@caropente (vt)@
+@abusive@|@caropen (adj)@
+@accelerate@|@caste (vt)@
+@accept@|@uk (vt)@
+@accident: meet with an ~@|@yayrap (vi)@
+@accident: meet with an ~@|@yayunpa (vi)@
+@accompany@|@tura-an (vi)@
+@accompany@|@tura (vt)@
+@accomplish@|@kar (vt)@
+@accomplish@|@ki (vt)@
+@according to circumstances@|@katu-renkayne (adv)@
+@account@|@esanniyop (n)@
+@account@|@esanniyo (vt)@
+@account: on ~ of@|@renkap (adv)@
+@accrue@|@uwekarpa (vi)(p)@
+@accrue@|@uwekari (vi)(s)@
+@accumulate@|@uwekari (vi)(s)@
+@accumulate@|@uwekarpare (vt)@
+@accumulate@|@uwekarpa (vi)(p)@
+@accumulation@|@uwekarpa-i (n)@
+@accurately@|@sonno (adv)@
+@ache: have ~ing calves@|@yayepupu (vi)@
+@ache: stomach ~@|@honi arka (n)@
+@achieve@|@kar (vt)@
+@achieve@|@ki (vt)@
+@achievement@|@kar-i (n)@
+@acknowledge@|@ye (vt)@
+@acknowledge@|@itak (vi)@
+@acquire@|@uk (vt)@
+@across@|@etasa (adv)(s)@
+@across@|@etaspa (adv)(p)@
+@act@|@kar (vt)@
+@act@|@ki (vt)@
+@active@|@yuptek (adj)@
+@actively@|@yuptek-no (adv)@
+@activity@|@yuptek-i (n)@
+@actually@|@sonno (adv)@
+@acument@|@katuhu (n)(g)(x)@
+@acument@|@katu (n)(g)(x)@
+@acument@|@kat (n)@
+@adduce@|@ye (vt)@
+@adequate@|@pakno (adv)@
+@adequate@|@pirka (adj)@
+@adequate: be ~@|@pirka (vi)@
+@adjourn@|@esini (vi)@
+@adjust@|@epeka (vt)@
+@admirable@|@pirka (adj)@
+@admirable: be ~@|@pirka (vi)@
+@adrift@|@mom (adv)@
+@adult@|@rupne (adj)@
+@adverse@|@wen (adj)@
+@adversely@|@wen-no (adv)@
+@advisedly@|@eraman-no (adv)@
+@afar@|@tuyma (adv)@
+@affection@|@kewtum (n)@
+@affliction@|@rorumpe (n)@
+@afloat@|@mom (adv)@
+@afloat: be ~@|@amomka (vi)@
+@afloat: cause to ~@|@momka (vt)@
+@afloat: set ~@|@momte (vt)@
+@after@|@yokane (adv)@
+@afterwards@|@kas-okake (adv)@
+@afterwards@|@tata-otta (adv)@
+@again@|@suy (adv)@
+@again@|@oya-ciki (adv)@
+@again@|@naa mosima (adv)@
+@again and again@|@ramma (adv)@
+@again: yet ~@|@naa mosima (adv)@
+@age@|@pa (n)¹@
+@age@|@paha (n)¹@
+@aged@|@onne (adj)@
+@aggravate SB@|@iruskare (vt)@
+@aggravate: be ~d@|@iruska (vi)@
+@ah@|@e (!)@
+@aim@|@yoko (vt)@
+@aim@|@yonkoror (vt)@
+@aim@|@yonkor (vt)@
+@Ainu@|@Aynu (n)@
+@Ainu@|@ya-un-kur (n)@
+@Ainu country@|@ya-un-mosir (n)@
+@Ainu customs@|@aynu puri (n)@
+@Ainu land@|@ya-un-mosir (n)@
+@Ainu: assimilated ~@|@sisam (n)@
+@air@|@omaw (n)¹@
+@air@|@mawe (n)(g)(x)¹@
+@air@|@maw (n)¹@
+@air@|@nis (n)@
+@air out@|@satke (vi)@
+@air: hot ~@|@sesek-maw (n)¹@
+@ajar@|@poon makke (adv)@
+@alas@|@e (!)@
+@Alaska pollock@|@herekusi-kewsut (n)@
+@albatross@|@onne-cikap (n)@
+@albeit@|@yakka (pop)@
+@albeit@|@yakkay (pop)@
+@albeit@|@akka (pop)@
+@alcohol@|@tonoto maw (n)@
+@alcoholic drink@|@tonoto (n)@
+@alien@|@oya (adj)@
+@alight@|@ari (vi)@
+@all@|@emukne (adj)@
+@almost@|@naanihunko (adv)@
+@almost@|@naani (adv)@
+@almost@|@naanipo (adv)@
+@alone@|@sinenne-an (adj)@
+@alone@|@sinnay (adj)@
+@alone@|@sinen (n)@
+@alone: be ~@|@sinnay (vi)@
+@along@|@ekari (pop)@
+@along@|@okari (pop)@
+@along@|@kari (pop)@
+@along: pass ~@|@kari (vt)@
+@alopecias vulpes@|@tumutot-un-same (n)@
+@also@|@newa (pop)@
+@also@|@naa (adv)@
+@although@|@korkay (pop)@
+@although@|@korka (pop)@
+@although@|@yakkay (pop)@
+@although@|@akka (pop)@
+@although@|@yakka (pop)@
+@always@|@ramma (adv)@
+@am@|@ne (vi)@
+@among@|@tumuke (n)@
+@among@|@tumuketa (adv)@
+@among@|@tumuke-un (adv)@
+@among@|@tumu (adj)@
+@amongst@|@tumma (adv)@
+@amuse one's self@|@sinewe (vi)@
+@amuse one's self@|@sinot (vi)@
+@amusement@|@sinot (n)@
+@amusement@|@sinewe (n)@
+@ancestor@|@sinrit (n)@
+@ancestor@|@ekasi (n)@
+@ancestor: female ~@|@huci (n)²@
+@ancestor: male ~@|@kewsut (n)@
+@ancestor: male ~@|@kewsut (adj)@
+@ancient@|@hekay (adj)@
+@ancient@|@kewsut (adj)@
+@ancient@|@kewsut (n)@
+@ancient@|@husko (adj)@
+@ancient@|@huskotoy (adj)@
+@ancient@|@onne (adj)@
+@ancient tales@|@uwenewsar (n)@
+@ancient times@|@teeta (adv)@
+@anciently@|@ekanay (adv)@
+@and@|@newa (pop)@
+@and then@|@newa (pop)@
+@angel: guardian ~@|@ituren-kamuy (n)@
+@angel: guardian ~@|@kamuy: ituren-~ (n)@
+@anger SB@|@iruskare (vt)@
+@angry: be ~@|@iruska (vi)@
+@angry: make SB ~@|@iruskare (vt)@
+@announce@|@ye (vt)@
+@another@|@oya (adj)@
+@another person@|@anun (n)@
+@answer@|@ese (vt)@
+@antecedent@|@hoski (adv)@
+@antecedent@|@hoske (adv)@
+@antique@|@husko (adj)@
+@antler@|@kiraw (n)@
+@antler@|@kimpuy (adv)@
+@antler@|@kirawehe (n)(g)(x)@
+@antler@|@kirawe (n)(g)(x)@
+@antler@|@kirawe (n)¹@
+@anus@|@yorpuy (n)@
+@anus@|@otompuy (n)@
+@anus@|@ho (n)@
+@any@|@ene (adv)@
+@anyhow@|@eneka (adj)@
+@anything@|@ene (adv)@
+@anything: a piece of ~@|@pet (n)¹@
+@apace@|@tumu (adj)@
+@apartment@|@tumpu (n)@
+@ape@|@ap-kor (vi)@
+@ape [mimic]@|@ape-kor (vi)@
+@aperture@|@suy (n)@
+@apparition@|@tukap (n)¹@
+@appear@|@as (vi)¹@
+@appearance@|@kat (n)@
+@appearance@|@sir (n)¹@
+@appearance@|@katuhu (n)(g)(x)@
+@appearance@|@katu (n)(g)(x)@
+@appearance@|@ape (n)¹@
+@appearance@|@siri (n)(g)(x)¹@
+@appearance@|@ap (n)¹@
+@appetite@|@ipe-mondum (n)@
+@apprearance@|@humi (n)@
+@apprearance@|@hum (n)@
+@apron@|@mantari (n)@
+@apron@|@maytari (n)@
+@aralia racemosa@|@cima-kina (n)@
+@arid@|@sat (adv)@
+@arise@|@as (vi)¹@
+@arm@|@tek (n)@
+@arm@|@tekehe (n)(g)(x)@
+@arm@|@tem (n)¹@
+@arm@|@teke (n)(g)(x)@
+@around@|@kari (pop)@
+@around@|@okari (pop)@
+@around@|@ekari (pop)@
+@arrange@|@yoykir (vt)@
+@arrive@|@ek (vi)(s)@
+@arrow@|@ayehe (n)(g)(x)@
+@arrow@|@aye (n)(g)(x)@
+@arrow@|@ay (n)¹@
+@arrow head@|@ay rum (n)@
+@arrow shaft feather@|@ay rap (n)@
+@arrow: poisoned ~@|@asi-ay (n)@
+@article@|@ap (n)²@
+@article@|@ampe (n)¹@
+@article@|@pe (n)¹@
+@arundinaria@|@hutta (n)@
+@as@|@ani (adv)¹@
+@as far as@|@epa (adv)@
+@as far as@|@epa (vi)@
+@as far as@|@pakno (adv)@
+@as it may happen@|@katu-renkayne (adv)@
+@as one desires@|@katu-renkayne (adv)@
+@ascaris@|@tuy-kikir (n)@
+@ascend@|@turasi (vt)@
+@ascend@|@yap (vi)(p)@
+@ascend@|@yan (vi)(s)@
+@ash@|@e (n)@
+@ash@|@una (n)@
+@ash@|@ape-una (n)@
+@ash@|@uyna (n)@
+@ash [residue]@|@uyna (n)@
+@ash: furnace ~@|@ape-kamuy-turihi (n)@
+@ashamed@|@yayekatuwen (vi)@
+@asipencer nikadoi@|@yupe (n)@
+@aspect@|@siri (n)(g)(x)¹@
+@aspect@|@sir (n)¹@
+@assemble@|@uwekarpare (vt)@
+@assiduous@|@yuptek (adj)@
+@assiguity@|@yuptek-i (n)@
+@assist@|@kasiw (vt)¹@
+@assist@|@katunaska (vt)@
+@assume@|@yaykar (vt)@
+@asthma@|@rat-hese (n)@
+@astonish: be ~ed@|@yaynumare (vi)@
+@astonishing@|@yaynumare (adj)@
+@astute@|@ramu-an (adj)@
+@at hand@|@sa (adv)@
+@at: be ~@|@or (vi)@
+@athwart@|@etasa (adv)(s)@
+@athwart@|@etaspa (adv)(p)@
+@attain@|@epa (vt)@
+@attest@|@ye (vt)@
+@attire@|@cimipi (n)(g)(x)@
+@attire@|@cimip (n)@
+@attus loom@|@attus-karape (n)@
+@aunt@|@unarpe (n)@
+@authority@|@cimontum (n)@
+@autumn@|@cuk-umpa (n)@
+@autumn@|@cuk-unpa (n)@
+@autumn@|@cuk-an (n)@
+@autumn@|@cuk (n)@
+@autumn@|@cuk-pa (n)@
+@avert@|@yay-asis (vt)@
+@avoid@|@esisi (vt)@
+@away from@|@ho (adv)@
+@awesome@|@kamuy (adj)(pf)@
+@awful@|@kamuy (adj)(pf)@
+@ax@|@mukara (n)@
+@azuma emnion@|@hepere-cep (n)@
+@bachelor@|@maci saki kuru (n)@
+@bachelor@|@mat saki kuru (n)@
+@back@|@ho (adv)@
+@back again@|@etasa (adv)(s)@
+@back again@|@etaspa (adv)(p)@
+@backbone@|@motot (n)@
+@backbone: fish's ~@|@cep-motot (n)@
+@bad@|@toy (adj)@
+@bad@|@kamuy (adj)(pf)@
+@bad@|@wen (adj)@
+@bad@|@wey (adj)@
+@bad@|@wempa (adj)@
+@bad@|@wenpe (n)@
+@bad one@|@wempe (n)@
+@bad person@|@wempe-kur (n)@
+@bad person@|@wenpe-kur (n)@
+@bad place@|@wen-i (n)¹@
+@bad thing@|@wempe (n)@
+@bad thing@|@wen-ampe (n)@
+@bad: render ~@|@wente (vt)@
+@badge@|@cimutpe (n)@
+@badly@|@wen-no (adv)@
+@badness@|@wen-ampe (n)@
+@badness@|@wen-i (n)¹@
+@bag@|@op (n)¹@
+@bag: offeratory food ~@|@hepere-pusaru (n)@
+@balances@|@ipakarip (n)@
+@bald@|@etoy (adj)@
+@ball@|@taku (n)@
+@ball@|@tamane (n)@
+@ball@|@tama (n)@
+@ball up@|@tamane (vi)@
+@ball: fibre ~@|@katak (n)@
+@ball: thread ~@|@katak (n)@
+@balsam poplar@|@kurunni (n)@
+@bamboo@|@top (n)¹@
+@bamboo-grass@|@pay (n)@
+@bamboo grass@|@hutta (n)@
+@bank [shore]@|@ya (n)¹@
+@bank: low river ~@|@ca (n)¹@
+@bank: low river ~@|@sa (n)¹@
+@bar [post]@|@sakma (n)@
+@bare@|@atusa (adj)@
+@bare@|@heraske (adj)@
+@bark [skin]@|@kap (n)@
+@bark [skin]@|@kapu (n)(g)(x)@
+@bark [skin]@|@kapuhu (n)(g)(x)@
+@bark at@|@emik (vt)@
+@bark fiber coat: elm ~@|@attus (n)@
+@bark fiber coat: linden ~@|@attus (n)@
+@bark fiber fabric: inner ~@|@attus (n)@
+@bark: birch ~@|@tat (n)@
+@bark: strip off the ~@|@kapkar (vt)@
+@barley@|@amam (n)@
+@barley@|@amama (n)@
+@barrel@|@ontar (n)@
+@barrel@|@ontaro (n)@
+@bastard@|@aciye (n)@
+@bat [animal]@|@kapap (n)@
+@be@|@tasi (vi)@
+@be@|@ne (vi)@
+@beach@|@sirar (n)¹@
+@beach@|@epis (n)@
+@beach: towards the ~@|@episne (adv)@
+@bead@|@tama (n)@
+@bead: string ~s@|@tama saye (vt)@
+@beak@|@etu (n)@
+@beak@|@ecu (n)@
+@beak@|@etuhu (n)(g)(x)@
+@bean@|@mame (n)@
+@bear@|@kamuy (n)@
+@bear meat@|@kamuy-haru (n)@
+@beast: wild ~@|@kimumpe (n)@
+@beast: wild ~@|@kimoppe (n)@
+@beat@|@kik (vt)@
+@beat@|@kikkik (vt)@
+@beautiful@|@pirka (adj)@
+@beautiful@|@ramayta (adj)@
+@beautiful: be ~@|@pirka (vi)@
+@because of@|@renkap (adv)@
+@become@|@ne (vi)@
+@bee: small ~ type@|@ka-soya (n)@
+@bee: small ~ type@|@ka-soyay (n)@
+@beer: rice ~@|@tonoto (n)@
+@beer: rice ~@|@sake (n)@
+@beetle: black ~@|@ruy (n)¹@
+@before@|@hoske (adv)@
+@before@|@hoski (adv)@
+@before@|@ekanay (adv)@
+@before@|@etoko (adv)@
+@before@|@teeta (adv)@
+@before last: (year) ~@|@hoski sakne (adv)@
+@before that@|@tata-otta (adv)@
+@beg@|@yorun (vt)@
+@beggar@|@yorun-ki-kur (n)@
+@beggar@|@yorun-kur (n)@
+@behead@|@kewe-uk (vt)@
+@behind@|@simak-un (adv)@
+@behind@|@sempirike (n)@
+@behind@|@ho (adv)@
+@behind@|@yokane (adv)@
+@bell@|@etoru (n)@
+@belly@|@honihi (n)(g)(x)@
+@belly@|@hon (n)@
+@belly@|@honi (n)(g)(x)@
+@below@|@kes (n)²@
+@below@|@rake (adv)@
+@below@|@rata (adv)@
+@below@|@ra (adv)@
+@bend@|@kaye (vt)@
+@beneath@|@rata (adv)@
+@bent thing@|@komkep (n)@
+@berry@|@emawri (n)@
+@besides@|@oya-ciki (adv)@
+@besides@|@tuykata (adv)@
+@besides that@|@kaskun (adv)@
+@between whiles@|@tumu (adj)@
+@bewail the dead@|@yayciste (vt)@
+@big@|@poro (adj)@
+@bill: bird's ~@|@cikap-etu (n)@
+@bind@|@muy (vt)@
+@bind up@|@esina (vt)@
+@birch@|@tat-ni (n)@
+@birch bark@|@tat (n)@
+@birch: white ~@|@kitat (n)@
+@bird@|@cir (n)¹@
+@bird's bill@|@cikap-etu (n)@
+@bird's egg@|@cikap-not (n)@
+@bird's feather@|@cikap-konkoni (n)@
+@bird's wing@|@cikap-kanci (n)@
+@bird@|@cikap (n)¹@
+@bite [bated]@|@inini (vt)@
+@black@|@kunna (adj)@
+@black@|@kunne (adj)@
+@blackberry@|@emawri (n)@
+@blade of grass@|@ra (n)¹@
+@blade: sword ~@|@emus-ipe (n)@
+@bless@|@ituren (vi)@
+@bless@|@turen (vi)@
+@blinded@|@cupu (vt)¹@
+@blinded@|@cupu (vi)@
+@blood@|@kemihi (n)@
+@blood@|@kem (n)¹@
+@bloodline@|@sinrit (n)@
+@bloom@|@asip (vi)(s)@
+@bloom@|@asippa (vi)(p)@
+@blossom@|@hepirasa (vi)(s)@
+@blossom@|@asip (vi)(s)@
+@blossom@|@asippa (vi)(p)@
+@blossom@|@hepiraspa (vi)(p)@
+@blow@|@ruy (vi)@
+@blow [as nose]@|@ni (vt)¹@
+@blow: wind ~s@|@as (vi)²@
+@blubber@|@humpe-ki (n)@
+@blueback@|@urp (n)@
+@boat@|@cip (n)@
+@body@|@tumama (n)@
+@body@|@tumam (n)@
+@body: dead ~@|@kew (n)@
+@body: dead ~@|@kewe (n)¹@
+@boil@|@pop (vi)@
+@bone@|@pone (n)@
+@bone: marrow ~@|@kirawe o pone (n)@
+@boot@|@ker (n)@
+@boot@|@keyr (n)@
+@boot lace@|@keyrat (n)@
+@boot: deer-skin ~@|@ker (n)@
+@boot: deer-skin ~@|@keyr (n)@
+@boot: salmon-skin ~@|@keyr (n)@
+@boot: salmon-skin ~@|@ker (n)@
+@boot: wear a ~@|@keyr-us (vt)@
+@border@|@cinki (n)@
+@born@|@hekatpa (vi)(p)@
+@born@|@hekatu (vi)(s)@
+@borrow@|@etun (vt)@
+@bottom@|@kes (n)²@
+@boulder@|@sirar (n)²@
+@bow-shot distance@|@tunnay (n)@
+@bow [weapon]@|@ku (n)@
+@bow down@|@hepoktekka (vi)@
+@bow down@|@hepokiki (vi)@
+@bow down@|@hepokitekka (vi)@
+@bow head@|@hepokitekka (vi)@
+@bow head@|@hepoktekka (vi)@
+@bow head@|@hepokiki (vi)@
+@bow in worship@|@hepokiciw (vi)@
+@bow to worship@|@hepoki-us (vi)@
+@bowl@|@itanki (n)@
+@box@|@op (n)¹@
+@box@|@suop (n)@
+@box@|@suyop (n)@
+@box: round ~@|@wappa (n)@
+@box: tobacco ~@|@tampako-op (n)@
+@boy@|@hekaci (n)@
+@boy@|@okkaypoho (n)(g)(x)@
+@boy@|@ekaci (n)@
+@boy@|@heykaci (n)@
+@boy@|@okkaypo (n)@
+@boy@|@okkay (n)@
+@brace: building ~@|@yuki (n)@
+@branch@|@tekehe (n)(g)(x)@
+@branch@|@tek (n)@
+@branch@|@teke (n)(g)(x)@
+@branch: horn ~@|@kiraw awe (n)@
+@branch: horn ~@|@kiraw konta (n)@
+@brand@|@kes (n)¹@
+@brand: fire ~@|@ape-kis (n)@
+@brand: fire ~@|@ape-kes (n)@
+@bread@|@pan (n)¹@
+@break@|@kaye (vt)@
+@break@|@yaku (vi)@
+@break@|@yak (vi)(s)@
+@break@|@yakka (vt)@
+@break@|@yakpa (vi)(p)@
+@break in@|@nuyaske (vi)@
+@break in@|@nuyaspa (vt)@
+@break off a small piece@|@rasu (vt)@
+@break through@|@nuyaspa (vt)@
+@break through@|@nuyasa (vt)@
+@break through@|@nuyaske (vi)@
+@breakdown@|@wente (vt)@
+@breakfast@|@sin-ipe (n)@
+@breakfast@|@simipe (n)@
+@breast@|@to (n)¹@
+@breath@|@he (n)@
+@breath@|@mawe (n)(g)(x)¹@
+@breath@|@omaw (n)¹@
+@breath@|@maw (n)¹@
+@breath: hot ~@|@sesek-maw (n)¹@
+@bright@|@herherke (adj)@
+@bright@|@tom (adj)@
+@brightness@|@her (n)@
+@brim@|@wa (n)@
+@bring up@|@hepenki (vt)@
+@brittle@|@rasne (adj)@
+@broadcast@|@yupkir (vt)@
+@broadcast@|@iyama (vt)@
+@broken@|@tumak (adj)@
+@broom@|@nuyep (n)@
+@brother: elder ~@|@yupihi (n)(g)(x)@
+@brother: elder ~@|@yupi (n)(g)(x)@
+@brother: elder ~@|@yuppo (n)@
+@brother: elder ~@|@yupo (n)@
+@brother: elder ~@|@popo (n)@
+@brother: elder ~@|@yup (n)@
+@brother: elder ~@|@yuhpo (n)@
+@brother: younger ~@|@akihi (n)(g)(x)@
+@brother: younger ~@|@ak (n)@
+@brother: younger ~@|@aki (n)(g)(x)@
+@brung by one's boot@|@keyr-siru (vi)@
+@brush@|@nuykar (vt)@
+@brush@|@nuyep (n)@
+@brush@|@nuykarape (n)@
+@brush@|@sirsiru (vt)@
+@brush@|@sirsirup (n)@
+@bubble up@|@pop (vi)@
+@bucket@|@ontar (n)@
+@bucket@|@ontaro (n)@
+@bucket: water ~@|@wakka-ontar (n)@
+@bud@|@epuy (n)@
+@bud@|@cucu (n)@
+@bug@|@kikir (n)@
+@build@|@kar (vt)@
+@build@|@katuhu (n)(g)(x)@
+@build@|@katu (n)(g)(x)@
+@build@|@kat (n)@
+@bulge@|@sik (adj)@
+@bulky@|@rupne (adj)@
+@bulrush@|@katumki (n)@
+@bundle@|@muy (n)¹@
+@bundle: make a ~@|@muy (vt)@
+@burl@|@nin (n)¹@
+@burn@|@ruy (vi)@
+@burn@|@yomomke (vi)@
+@burst@|@yak (vi)(s)@
+@burst@|@yakpa (vi)(p)@
+@burst@|@yaku (vi)@
+@burst@|@yakka (vt)@
+@bury@|@weyayram-nuyna (vi)@
+@business@|@ye (n)¹@
+@busy@|@emonus (vi)@
+@but@|@korka (pop)@
+@but@|@korkay (pop)@
+@butterfly@|@heporap (n)@
+@butterfly type@|@marewrew (n)@
+@butterfly type@|@humpe-marewrew (n)@
+@butterfly: cabbage ~@|@retar-marewrew (n)@
+@buy@|@hok (vt)@
+@buzz@|@yawyawse (vi)@
+@by@|@peka (adv)¹@
+@by@|@kari (pop)@
+@by@|@okari (pop)@
+@by@|@ekari (pop)@
+@by@|@ani (pc)²@
+@by land@|@ya-peka (adv)@
+@by means of@|@ani (pc)²@
+@by means of@|@ari (pop)@
+@by: be ~@|@or (vi)@
+@by: go ~@|@kari (vt)@
+@cabbage butterfly@|@retar-marewrew (n)@
+@cache@|@puhu (n)(g)(x)@
+@cache@|@puy (n)¹@
+@cache@|@pu (n)@
+@cage: bear cub ~@|@hepere-kot (n)@
+@cake: donut-like arrowroot ~@|@akam (n)¹@
+@calamary@|@passanna (n)@
+@calf of leg@|@yontekkam (n)@
+@calf of leg@|@yontekpe (n)@
+@calf: have aching ~es@|@yayepupu (vi)@
+@call@|@ho (vt)@
+@callionymus curvicorinis@|@ape-kesuy (n)@
+@callorhinus ursina@|@onnep (n)@
+@calm@|@rene (adj)@
+@cannibal@|@we-kur (n)@
+@cannibalize@|@we (vt)@
+@canoe@|@cip (n)@
+@cape: blunt ~@|@cinot (n)@
+@care: be ~ful@|@kipip (vi)@
+@careful: be ~@|@kipip (vi)@
+@carpet@|@sokarpe (n)@
+@carry@|@ampa (vt)@
+@carry@|@na (vt)@
+@carry (in hands)@|@ani (vt)@
+@carry (on the back)@|@kay (vt)@
+@carry (on the back)@|@pakkay (vt)@
+@carry of back@|@sey (vt)@
+@carry: go along ~ing STs@|@ampa-wa-apkas (vi)(p)@
+@carry: to along ~ing STs@|@ampa wa apkas (vi)@
+@carve@|@nuye (vt)@
+@carve@|@sinnuye (vt)@
+@cascade@|@so (n)¹@
+@cask@|@ontaro (n)@
+@cask@|@ontar (n)@
+@cast (away)@|@eyapkir (vt)@
+@castle@|@casi (n)@
+@cat@|@ermu-koyki (n)@
+@cat@|@cape (n)@
+@cataract@|@may (n)@
+@catch@|@koyki (vt)@
+@catch [grab]@|@peka (vt)@
+@cause@|@kire (vt)@
+@cave division@|@tumpu (n)@
+@cave in@|@teyke (vi)@
+@cease@|@simakoraypa (vi)(p)@
+@cease@|@yomne-ki (vt)@
+@cease@|@tuy (vi)@
+@cease@|@simakoray (vi)(s)@
+@cease@|@yomne (vt)@
+@centre@|@tumutur (adj)@
+@cereal@|@amama (n)@
+@cereal@|@amam (n)@
+@certain@|@sine-an (adj)@
+@cervus sika@|@yuk (n)@
+@chair@|@aset (n)@
+@change@|@nin (vt)@
+@channel@|@tun-nay (n)@
+@charadrius fuluvus@|@apto-cikap (n)@
+@charcoal@|@paspas (n)@
+@chase@|@ikesampa (vt)@
+@chat together@|@uwenewsar (vi)@
+@cheap@|@susam (adj)@
+@cheap@|@hawke (vi)@
+@cheap@|@hawke (adj)@
+@cheap@|@susan (adj)@
+@cheer@|@yayoparsecuy (vi)@
+@chestnut@|@nisew (n)@
+@chestnut@|@yam (n)@
+@chestnut: thread ~s@|@yam-saye (vt)@
+@chief@|@tono (n)@
+@chief@|@yop (adj)@
+@chief@|@pake (n)@
+@chief@|@pa (n)²@
+@chief@|@sapa (n)@
+@child@|@heykaci (n)@
+@child@|@hekaci (n)@
+@child@|@ekaci (n)@
+@chin@|@cinot (n)@
+@chip off@|@rasu (vt)@
+@chop@|@itata (vt)@
+@chop@|@tata (vt)@
+@chopsticks@|@sakkay (n)@
+@chracter@|@maw (n)²@
+@chracter@|@omaw (n)²@
+@cicada@|@yaki (n)@
+@cinder@|@pasna (n)@
+@cinder: black ~@|@paspas (n)@
+@cinder: hot ~@|@ape-usat (n)@
+@circle: go in a ~@|@kari (vi)@
+@city@|@kotan (n)@
+@clam: Sakhalin surf ~@|@poki-sey (n)@
+@clam: short-necked ~@|@ciwri (n)@
+@claw@|@tekehe (n)(g)(x)@
+@claw@|@ami (n)(g)(x)@
+@claw@|@amihi (n)(g)(x)@
+@claw@|@teke (n)(g)(x)@
+@claw@|@tek (n)@
+@claw@|@am (n)@
+@clay@|@toy (n)¹@
+@clay: white ~@|@ye (n)²@
+@cleft wood@|@ras (n)@
+@clever@|@ramu-an (adj)@
+@cleverly@|@ramu-an-no (adv)@
+@cliff@|@pira (n)@
+@climb@|@turasi (vt)@
+@close@|@cupu (vi)@
+@close@|@cupu (vt)¹@
+@close [near]@|@hanke (adj)@
+@close the door@|@apa-si (vi)@
+@close upon@|@kasu (adv)@
+@clothe@|@mire (vt)@
+@clothe: put on one's ~s@|@yay-mire (vi)@
+@clothes: deer-hide ~@|@yuk-uru (n)@
+@clothing@|@cimipi (n)(g)(x)@
+@clothing@|@cimip (n)@
+@cloud@|@kuri (n)¹@
+@cloud@|@niskur (n)@
+@cloud@|@kuru (n)¹@
+@cloud@|@nis (n)@
+@cloud: rain ~@|@wenkuriki (n)@
+@clupea harengus@|@heruki (n)@
+@clupea harengus@|@heroki (n)@
+@coal@|@anci (n)¹@
+@coarse@|@ruy (adj)@
+@coat: elm bark fiber ~@|@attus (n)@
+@coat: linden bark fiber ~@|@attus (n)@
+@cocoon@|@heporap-wata (n)@
+@cod@|@herekus (n)@
+@cod@|@herekusi (n)@
+@codfish@|@herkus (n)@
+@cold@|@sinnam (n)@
+@cold (to the touch)@|@yam (adj)@
+@cold [sensation]@|@nam (n)@
+@cold [temperature]@|@me (n)@
+@cold [weather]@|@mean (adj)@
+@cold water@|@yam-wakka (n)@
+@cold water@|@yammakka (n)@
+@cold: look ~@|@emetapunin (vi)@
+@coldness@|@me (n)@
+@coldness@|@sinnam (n)@
+@collapse@|@teyke (vi)@
+@collar bone@|@ninkew (n)@
+@collect@|@uwekarpa (vi)(p)@
+@collection@|@uwekarpa-i (n)@
+@colloquial@|@momok-itak (n)@
+@colour@|@tom (n)¹@
+@comb@|@nuykar (vt)@
+@comb@|@kiray (n)@
+@come@|@ek (vi)(s)@
+@come out of one's self@|@yay-asin (vi)@
+@come to@|@ewsi (vi)@
+@come to@|@ews (vi)@
+@come: cause to ~@|@ekte (vt)@
+@command@|@katurenka (vt)@
+@common@|@susan (adj)@
+@common@|@susam (adj)@
+@common@|@momko (adj)@
+@complete@|@yomne (vt)@
+@complete@|@ewpakte (vt)@
+@comrade@|@aynu (n)@
+@conceive@|@yarat (vt)@
+@conceive@|@yayrat (vt)@
+@conceive@|@honkor (vi)@
+@condition@|@maw (n)³@
+@condition@|@mawe (n)(g)(x)²@
+@condition@|@omaw (n)³@
+@cone@|@tap (n)@
+@congregate@|@uwekarpa (vi)(p)@
+@congregate@|@uwekari (vi)(s)@
+@congregation@|@uwekarpa-i (n)@
+@consider@|@yaynu (vi)@
+@consider@|@esanniyo (vt)@
+@consider@|@ramor (n)@
+@consideration@|@esanniyop (n)@
+@consume@|@ku (vt)@
+@contagious@|@turse (adj)@
+@contain: be ~ed in@|@or (vi)@
+@container@|@itanki (n)@
+@contract@|@yomiyomik (vi)@
+@contract@|@yoni (vi)@
+@contracted@|@yomiyomik (adj)@
+@convulse@|@macitke (vi)@
+@cooked@|@cino (adj)@
+@cool@|@meman (adj)@
+@cool@|@namte (vt)@
+@cool [sensation]@|@nam (n)@
+@cool: make SB/ST ~@|@namke (vt)@
+@cool: set to ~@|@namte (vt)@
+@cord@|@atuhu (n)(g)(x)¹@
+@cord@|@at (n)¹@
+@cord@|@atu (n)(g)(x)¹@
+@cord@|@harakika (n)@
+@cord@|@harikika (n)@
+@cork [stopper]@|@caruspe (n)@
+@corpse@|@kewe (n)¹@
+@corpse@|@kew (n)@
+@corydalis ambigua@|@toma (n)¹@
+@cotton@|@wata (n)@
+@cottus pollux@|@cimakani (n)@
+@countenance@|@katu (n)(g)(x)@
+@countenance@|@sanca (n)@
+@countenance@|@katuhu (n)(g)(x)@
+@countenance@|@kat (n)@
+@counterfeit@|@cinorep (n)@
+@counterfeit@|@cinore (vt)@
+@couple [people]@|@etun (n)@
+@cousin@|@maciripe (n)@
+@cover up@|@kasi-putu-unu (vt)@
+@cover: outer ~ing of SB or ST@|@kap (n)@
+@cow parsnip: edible ~ shoot@|@haru (n)@
+@crab@|@ampayaya (n)@
+@crab@|@ampay (n)@
+@crab: horsehair ~@|@ampayaya (n)@
+@cradle@|@sinta (n)@
+@cramp@|@macitke (vi)@
+@cramp type@|@roronke (n)@
+@cramp: pins & needles ~@|@cinene (n)@
+@cramp: pins & needles ~ of legstukunne (n)@|@tukunne (n)@
+@cramped@|@hutne (adj)@
+@cramped@|@macitke (adj)@
+@cranium@|@onasi (n)@
+@crataegus chlorosarca@|@ape-ni (n)¹@
+@crippled@|@hera (adj)@
+@crooked@|@ohuke (adj)@
+@crooked@|@ohoke (adj)@
+@crouch to catch@|@yonkor (vt)@
+@crouch to catch@|@yonkoror (vt)@
+@crow type@|@sirar-ewak-paskur (n)@
+@crow: carrion ~@|@sir-paskur (n)@
+@cruel@|@wen (adj)@
+@crumb@|@ras (n)@
+@crumble@|@ru (vi)@
+@crumple@|@yomiyomik (vi)@
+@crumple up@|@yomikyomikte (vt)@
+@crumpled@|@yomiyomik (adj)@
+@crush@|@nina (vt)@
+@crust@|@cima (n)@
+@cry@|@cis (vi)@
+@cry aloud@|@hawki (vi)@
+@cry: duck ~@|@wak (adv)@
+@cub: bear ~@|@hepere (n)@
+@cuckoo: Himalayan ~@|@tutut (n)@
+@cuculus intermedius@|@tutut (n)@
+@cup@|@itanki (n)@
+@cup@|@tuki (n)@
+@cup@|@pakes (n)@
+@cup: lower-part of ~@|@tuki-num (n)@
+@cup: wine ~@|@tuki (n)@
+@curd@|@sirar (n)²@
+@curled@|@cinoye (adj)@
+@current: river ~@|@cu (n)@
+@currycomb@|@nuykar (vt)@
+@currycomb@|@nuykarape (n)@
+@curt@|@tatne (adj)@
+@curt@|@takne (adj)@
+@custom@|@puri (n)@
+@custom: Ainu ~s@|@aynu puri (n)@
+@custom: universal ~@|@puri: sir-~ (n)@
+@custom: universal ~@|@sir-puri (n)@
+@cut@|@tuyetek (vt)@
+@cut@|@tupeya (vt)@
+@cut@|@tuye (vt)@
+@cut@|@tuyetek (adj)@
+@cut@|@tuyepa (vt)@
+@cut@|@tuypa (vt)(p)@
+@cut@|@tuy (adj)@
+@cut@|@tuy (vt)(s)@
+@cut into@|@sinnuye (vt)@
+@cut off@|@tuytek (adj)@
+@cut up@|@ca (vt)@
+@cut up into fine pieces@|@aca (vi)@
+@cut: things ~@|@tuyepap (n)@
+@cutting board@|@manayta (n)@
+@cutting board@|@manayta-cikuni (n)@
+@cuttings@|@tuyepap (n)@
+@daddy longlegs@|@ami-tanne-ya-oskep (n)@
+@daddy longlegs@|@ami-tanne (n)@
+@daily@|@kesto (adv)@
+@dale@|@nay (n)@
+@damp@|@pet (adj)@
+@damp@|@teyne (adj)@
+@damp place@|@pecir (n)@
+@dance@|@rimse (vi)@
+@dance@|@rimsep (n)@
+@dark@|@kunna (adj)@
+@dark@|@kunne (adj)@
+@dark@|@sirkunne (adj)@
+@darken@|@sirkunne (adj)@
+@dawn@|@sirpeker (n)@
+@day@|@to (n)²@
+@day@|@toho (n)@
+@day before yesterday@|@hoski numan (adv)@
+@day: one ~@|@sine-anta (adv)@
+@daybreak@|@ankes (n)@
+@daylight@|@sirpeker (n)@
+@dead: leggings for the ~@|@wen-hos (n)@
+@dead: nearly ~@|@maymayke (adj)@
+@dear [sibling usage]@|@wen (adj)@
+@dear me@|@yak (!)@
+@dear me@|@sir-an (!)@
+@dear me!@|@humi (!)@
+@death@|@ray-ampe (n)@
+@death@|@ray-i (n)@
+@death: accidental ~@|@yupkep (n)@
+@death: at ~'s door@|@maymayke (adj)@
+@debt@|@so (n)²@
+@deceive@|@cinore (vt)@
+@deception@|@cinorep (n)@
+@deer@|@yuk (n)@
+@deer-hide clothes@|@yuk-uru (n)@
+@deer meat@|@yuk-haru (n)@
+@deer track@|@yuk-apir (n)@
+@defend@|@kasikewe (vt)@
+@deformed@|@katawa-ne (adj)@
+@demon@|@wempe-sani (n)@
+@den [bear's]@|@cise (n)@
+@den [bear's]@|@cisey (n)@
+@den [bear's]@|@cisehe (n)(g)(x)@
+@deny@|@esina (vt)@
+@depart@|@simakoraypa (vi)(p)@
+@depart@|@asureka (vi)@
+@depart@|@simakoray (vi)(s)@
+@dermatosis@|@mayayke-tasum (n)@
+@descend@|@ran (vi)(s)@
+@descend@|@san (vi)@
+@descend@|@esor (vi)@
+@descend@|@rap (vi)(s)@
+@descend@|@ray (vi)¹@
+@descent@|@sap (n)(p)@
+@descent@|@san (n)(s)@
+@despise@|@hepoko (vt)@
+@destitute@|@heron (adj)@
+@determine@|@esanniyo (vt)@
+@devastate@|@wentek (vt)@
+@devil@|@tumunci (n)@
+@devil@|@wempe (n)@
+@devil@|@tumunci-kamuy (n)@
+@dew@|@kina-pe (n)@
+@diarrhoea@|@tuyepuspuske-an (n)@
+@die@|@wen (vi)@
+@die@|@ekot (vi)@
+@die@|@esini (vi)@
+@die@|@ray (vi)²@
+@die@|@tay (vi)(ain-NN)@
+@die of hunger@|@yaycepekote (vi)@
+@die: cause to ~@|@rayke (vt)(s)@
+@diety: evil ~@|@wen-kamuy (n)@
+@diety: owl ~@|@cikap-kamuy (n)@
+@diety: owl ~@|@kotankor-kamuy (n)@
+@diety: wind ~@|@rera-kamuy (n)@
+@differ@|@sinnay (vi)@
+@difference@|@sinna (n)@
+@difference@|@sinnay (n)@
+@different@|@woya (adj)@
+@different@|@sinnay (adj)@
+@different@|@oya (adj)@
+@different@|@sinna-an (adj)@
+@different: be ~@|@sinnay (vi)@
+@differing@|@sinnay (adj)@
+@digit@|@asikepet (n)@
+@digit@|@asikipet (n)@
+@diminish@|@yuk-utur-otpe-an (vi)@
+@diminish@|@wempa (vi)@
+@dipper@|@katken (n)@
+@dipper@|@katken (n)@
+@dirt@|@turi (n)(g)(x)@
+@dirt@|@tur (n)@
+@dirt@|@toy (n)¹@
+@dirt@|@komun (n)@
+@dirt@|@turihi (n)(g)(x)@
+@dirty@|@yayasis (adj)@
+@dirty@|@acika (adj)@
+@dish@|@itanki (n)@
+@disinclined@|@katupase (adj)@
+@disk@|@akam (n)²@
+@dislike to do@|@katupase (adj)@
+@distant@|@kattuyma (adv)@
+@distant@|@tuyma (adv)@
+@distress@|@rorumpe (n)@
+@ditch@|@cinna (n)¹@
+@ditch@|@pecir (n)@
+@ditch@|@na ray (n)@
+@ditch@|@cir (n)²@
+@divination@|@tusu (vi)@
+@division@|@wak (n)@
+@dizzy@|@yot (vi)@
+@do@|@ki (vt)@
+@do@|@kar (vt)@
+@do@|@kire (vt)@
+@do earnestly@|@yupu (vt)@
+@do over again@|@asirki (vt)@
+@do over again@|@asirkara (vt)@
+@do poorly@|@ewen (vt)@
+@do with difficulty@|@ewen (vt)@
+@do with might@|@yupu (vt)@
+@do: unable to ~ properly@|@ewen (vt)@
+@doctrine@|@epakasi (n)@
+@doe@|@momampe (n)@
+@dog@|@sita (n)@
+@dog@|@ceta (n)@
+@dog@|@reep (n)@
+@dog@|@sta (n)@
+@dog@|@seta (n)@
+@dog@|@setaha (n)(g)(x)@
+@dolphin@|@tannu (n)@
+@dolphin@|@rokom (n)¹@
+@dolphin@|@okom (n)@
+@dolphin type@|@tuwayuk (n)@
+@domestic@|@ya-un-kur (n)@
+@don't know@|@erampewtek (vi)@
+@don't know@|@erampetek (vi)@
+@don't understand@|@erampewtek (vi)@
+@don't understand@|@erampetek (vi)@
+@don't…@|@iteki (adv)@
+@door@|@apa-sta (n)@
+@door@|@apa-usta (n)@
+@door@|@apa (n)@
+@door threshhold@|@apa-cip (n)@
+@door: close the ~@|@apa-si (vi)@
+@door: shut the ~@|@apa-si (vi)@
+@doorsill@|@apa-cip (n)@
+@doorway@|@apa (n)@
+@double@|@ewsama (adj)@
+@double@|@ewsamampa (adj)@
+@double@|@ewsamanu (adj)@
+@down [feather]@|@konkon (n)@
+@down [feather]@|@konkoni (n)@
+@down: bring ~@|@rampe (vt)@
+@down: go ~@|@esor (vi)@
+@down: go ~@|@ran (vi)(s)@
+@down: go ~@|@san (vi)@
+@down: go ~@|@rap (vi)(s)@
+@down: go ~@|@ray (vi)¹@
+@down: next one ~@|@rake (adv)@
+@downstream@|@hepsi (adv)@
+@downstream@|@hepasi (adv)@
+@downward@|@herasi (adv)@
+@downward@|@epoki (adv)@
+@dragonet@|@ape-kesuy (n)@
+@drain@|@tuyka (vt)@
+@draw [pull]@|@tur (vt)@
+@draw [pull]@|@turi (vt)@
+@draw [pull]@|@nini (vt)@
+@draw off@|@tuyka (vt)@
+@draw out@|@etaye (vt)@
+@dress@|@mire (vt)@
+@dress one's self@|@yay-mire (vi)@
+@dried@|@sat (adv)@
+@dried fish@|@sat-cep (n)@
+@drift@|@amomka (vi)@
+@drifting@|@amomka (adj)@
+@drink [liquids]@|@ku (vt)@
+@drink hot water@|@ni (vt)²@
+@drink medicine@|@ni (vt)²@
+@drink soup@|@ni (vt)²@
+@drink tea@|@ni (vt)²@
+@drive away@|@kewe (vt)@
+@drive in@|@aciw (vt)@
+@drive out@|@kewe (vt)@
+@drop@|@turse (vt)@
+@drop down@|@turse (vi)@
+@drown@|@esumpa (vi)(p)@
+@drown@|@esum (vi)(s)@
+@drown: be ~d@|@esum (vi)(s)@
+@drown: be ~d@|@esumpa (vi)(p)@
+@drum@|@tuntum (n)@
+@dry@|@satsatke (vi)@
+@dry@|@sat (adv)@
+@dry@|@satke (vi)@
+@dry@|@ma (adj)@
+@dry@|@sat-kepa (vt)@
+@dry@|@satsatke (adj)@
+@duck cry@|@wak (adv)@
+@dull@|@katu-toranne (adv)@
+@during@|@tuykata (adv)@
+@during@|@turasi (adv)@
+@dust@|@mana (n)@
+@dust@|@pana (n)@
+@dust@|@komun (n)@
+@dust: fine pumice ~@|@e (n)@
+@dwarf@|@nin-kur (n)@
+@dwelling place@|@kotan (n)@
+@each@|@kes (adj)@
+@eagle's wing@|@sirap (n)@
+@ear@|@kisaraha (n)(g)(x)@
+@ear@|@kisar (n)@
+@ear@|@kisara (n)(g)(x)@
+@eared osier@|@yayay-susu (n)@
+@earnestly@|@ewnkasi-no (adv)@
+@earnestly@|@yupke-no (adv)@
+@earnestly@|@yokkata (adv)@
+@earring@|@ninkari (n)@
+@earrings@|@ninkarihi (n)(g)(x)@
+@earth@|@toy (n)¹@
+@earth@|@toytoy (n)@
+@earth [land]@|@siri (n)(g)(x)²@
+@earth [land]@|@sir (n)²@
+@earthenware@|@sey (n)¹@
+@earthquake: severe ~@|@yupke-sisuye (n)@
+@earthworm@|@toymok (n)@
+@earthworm@|@tonin (n)@
+@east@|@cup-ka (n)@
+@east outer wall@|@rorketa (n)@
+@east wind@|@menas (n)@
+@east window@|@rorun-puyar (n)@
+@east window wall@|@roruy (n)@
+@east window wall@|@rorun (n)@
+@eat@|@ipe (vt)@
+@eat@|@e (vt)@
+@edge@|@cinki (n)@
+@egg: bird's ~@|@cikap-not (n)@
+@eight@|@tupe-sampe (adj)@
+@eight@|@tupe-si (adj)@
+@eight@|@tupe-san (n)@
+@either@|@katap (adv)@
+@elder brother@|@yupi (n)(g)(x)@
+@elder sister@|@sa (n)²@
+@elder sister@|@sapo (n)@
+@elder sister@|@saha (n)(g)(x)¹@
+@elder(ly)@|@onne (adj)@
+@eloquent@|@caro-an (adj)@
+@eloquent speaker@|@caca (n)@
+@employ@|@ytek (vi)@
+@enclose@|@ekarire (vt)@
+@enclosure@|@casi (n)@
+@end@|@kes (n)²@
+@engrave@|@sinnuye (vt)@
+@enjoin@|@katurenka (vt)@
+@enter@|@ahup (vi)(p)@
+@enter@|@ahun (vi)(s)@
+@entirely@|@ari (adv)@
+@entirely@|@emukne-no (adv)@
+@entrail@|@tuy (n)²@
+@entrance@|@apa (n)@
+@entrance porch@|@apa-sem (n)@
+@envy@|@yaytunnap (vt)@
+@equal@|@une (vi)@
+@equally@|@uwe-no (adv)@
+@ermine@|@yuk-ermu (n)@
+@escape@|@orawki (vi)@
+@escape@|@kira (vi)@
+@escape@|@orawke (vi)@
+@eschew@|@esisi (vt)@
+@essence@|@omaw (n)³@
+@essence@|@rama (n)(g)(x)@
+@essence@|@maw (n)³@
+@essence@|@ramat (n)@
+@essence@|@ram (n)@
+@essence@|@rama (n)@
+@essence@|@mawe (n)(g)(x)²@
+@even@|@katap (adv)@
+@even if@|@yak (pop)@
+@even if@|@yakkay (pop)@
+@even if@|@akka (pop)@
+@even if@|@yakka (pop)@
+@even if@|@yakun (+)@
+@evening@|@sironuman (adv)@
+@evening@|@tokes (adv)@
+@evening@|@sir-onuman (adv)@
+@evening@|@onuman (adv)@
+@evening meal@|@numan-ipe (n)@
+@evening: last ~@|@ukran (adv)@
+@evening: last ~@|@numan-onuman (adv)@
+@every@|@kes (adj)@
+@evil@|@wenpe (n)@
+@evil@|@wey (adj)@
+@evil@|@wen (adj)@
+@evil diety@|@wen-kamuy (n)@
+@evil person@|@wempe-kur (n)@
+@evil person@|@wenpe-kur (n)@
+@evil spirit@|@tumunci-kamuy (n)@
+@evil spirit@|@tumunci (n)@
+@evil thing@|@wen-ampe (n)@
+@evilness@|@wen-ampe (n)@
+@examine@|@wante (vi)@
+@excessively@|@kaspa (adv)@
+@exhausted@|@yottek (adj)@
+@exit@|@asin (vi)@
+@exit@|@apa (n)@
+@expel@|@kewe (vt)@
+@expensive@|@ruy (adj)@
+@explain@|@atte (vt)¹@
+@exposed@|@sa (vi)@
+@exterior@|@soy-un (adv)@
+@extinct: become ~@|@orake (vi)@
+@extract@|@etaye (vt)@
+@exult@|@yayoparsecuy (vi)@
+@eye@|@sik (n)@
+@eye@|@sikihi (n)(g)(x)@
+@eye@|@siki (n)(g)(x)@
+@eyebrow@|@raruma (n)@
+@eyebrow: move the ~s@|@rattopotopo (vi)@
+@fabric: inner bark fiber ~@|@attus (n)@
+@face@|@katu (n)(g)(x)@
+@face@|@nan (n)@
+@face@|@nanu (n)(g)(x)@
+@face@|@ca (n)²@
+@face@|@kat (n)@
+@face@|@nanuhu (n)(g)(x)@
+@face@|@katuhu (n)(g)(x)@
+@face on another@|@ewpeka (vi)@
+@face: lower part of ~@|@sanca (n)@
+@facing@|@he (adv)¹@
+@facing@|@peka (adv)²@
+@fairway@|@tun-nay (n)@
+@falcon: gyr~@|@aciw-cikap (n)@
+@fall@|@teyke (vi)@
+@fall@|@turse (vt)@
+@fall@|@ray (vi)¹@
+@fall@|@rap (vi)(s)@
+@fall@|@ran (vi)(s)@
+@fall: rain ~s@|@as (vi)²@
+@fall: snow ~s@|@as (vi)²@
+@fallen leaves@|@komam (n)@
+@family@|@tuyo (n)@
+@fancy needlework line@|@tu (n)@
+@far@|@kattuyma (adv)@
+@far@|@tuyma (adv)@
+@fast@|@tunasi (adj)@
+@fast@|@tunasi-no (adv)@
+@fast@|@tunas (adj)@
+@fast@|@tunas (adj)(ain-N)@
+@fast@|@tus (adj)@
+@fat@|@haro (adj)@
+@fat@|@ki (n)¹@
+@fat@|@ye (n)²@
+@fat: whale ~@|@humpe-ki (n)@
+@fat: white fish ~@|@raha (n)@
+@fat: white fish ~@|@ra (n)²@
+@father@|@aca (n)@
+@father@|@aynu (n)@
+@father@|@acipo (n)@
+@father@|@hampe (n)@
+@father: one's deceased ~@|@yoppe (n)@
+@fathom@|@tem (n)²@
+@favour@|@renka (n)@
+@fear@|@kipip (vi)@
+@feather@|@konkoni (n)@
+@feather@|@konkon (n)@
+@feather@|@rap (n)@
+@feather: bird's ~@|@cikap-konkoni (n)@
+@feel@|@humi (n)@
+@feel@|@hum (n)@
+@feeling@|@ramu (vi)@
+@feeling: one's ~s@|@tumu (n)¹@
+@feelings@|@katuhu (n)(g)(x)@
+@feelings@|@kat (n)@
+@feelings@|@katu (n)(g)(x)@
+@feelings@|@rama (n)(g)(x)@
+@feelings@|@ram (n)@
+@feelings@|@kewtum (n)@
+@fence@|@ca (n)³@
+@fence@|@casi (n)@
+@fence@|@cas (n)@
+@fence: post and rail ~@|@ras-casi (n)@
+@fever@|@sesek-maw (n)²@
+@few@|@cimoyomoyo (adj)@
+@fibre: elm ~@|@atuhu (n)(g)(x)¹@
+@fibre: elm ~@|@atu (n)(g)(x)¹@
+@fibre: elm ~@|@at (n)¹@
+@fierce@|@kamuy (adj)(pf)@
+@fight@|@ukoyki-ampe (n)@
+@fight@|@tumi (n)@
+@fight@|@ukoyki (vi)@
+@fight@|@rorumpe (n)@
+@fight@|@koyki (vt)@
+@fight together@|@ewkoyki (vt)@
+@figure@|@kat (n)@
+@figure@|@katu (n)(g)(x)@
+@figure@|@katuhu (n)(g)(x)@
+@filipendula kamtschatica@|@yuk-kuttasa (n)@
+@fill up@|@ewpakte (vt)@
+@filth@|@turi (n)(g)(x)@
+@filth@|@turihi (n)(g)(x)@
+@filth@|@tur (n)@
+@filthy@|@acika (adj)@
+@fin: anal ~s@|@pon mokrap (n)@
+@find@|@pa (vt)@
+@fine [fee]@|@asimpe (n)@
+@finger@|@asikipet (n)@
+@finger@|@asikepet (n)@
+@finish@|@kes (n)²@
+@fire@|@huci (n)¹@
+@fire@|@ampe (n)²@
+@fire@|@ape (n)²@
+@fire@|@unci (n)@
+@fire brand@|@ape-kes (n)@
+@fire brand@|@ape-kis (n)@
+@fire diety's dwelling@|@ape-sotki (n)@
+@fire heat@|@ape-seseki (n)@
+@fire heat@|@ape-seseku (n)@
+@fire tong@|@ape-pasuy (n)@
+@fire tongue@|@ape-nuy (n)@
+@fire: catch ~@|@nuyuk (vi)@
+@fire: catch ~@|@nuy kotereke (vi)@
+@fire: female diety of ~@|@ape-uci (n)@
+@fire: female diety of ~@|@ape-huci (n)@
+@fire: female diety of ~@|@onne-huci (n)@
+@fire: female diety of ~@|@ape-huci-kamuy (n)@
+@fire: female diety of ~@|@kamuy-huci (n)@
+@fire: female diety of ~@|@unci-kamuy (n)@
+@fire: female diety of ~@|@iresu-huci (n)@
+@fire: female diety of ~@|@ape-kamuy (n)@
+@fire: female diety of ~@|@iresu-kamuy (n)@
+@firebed centre@|@ape-sotki (n)@
+@firelight@|@ape-nipek (n)@
+@firelight@|@ape-nupek (n)@
+@fireplace@|@hoka (n)@
+@fireplace@|@ape-sokot (n)@
+@fireplace@|@ape-oy (n)@
+@fireplace@|@unci-omap (n)@
+@fireplace@|@inumpe (n)@
+@fireplace edge by east window@|@rorun-inumpe (n)@
+@fireplace frame@|@inumpe (n)@
+@fireplace: head of ~@|@ape-etok (n)@
+@fireside@|@ape-samu (n)@
+@fireside@|@ape-sam (n)@
+@fireside@|@ape-sami (n)@
+@firewood@|@ape-cikuni (n)@
+@firewood@|@ape-ni (n)²@
+@firewood@|@nina (n)¹@
+@first@|@sine-otutanu (adj)@
+@fish@|@ciep (n)@
+@fish@|@emoni (vt)@
+@fish@|@cep (n)@
+@fish's backbone@|@cep-motot (n)@
+@fish-skin@|@cepkap (n)@
+@fish-skin leggings@|@cepkap-hos (n)@
+@fish (esp. salmon, trout, or stipe (n)@|@ipe (n)@
+@fish guts@|@tuyokotpe (n)@
+@fish hook@|@tukap (n)²@
+@fish kidney@|@teyhur (n)@
+@fish spear head@|@ap (n)³@
+@fish: dried ~@|@cinana (n)@
+@fish: dried ~@|@sat-cep (n)@
+@fish: dried ~ slices@|@hatat (n)@
+@fish: entrails of ~@|@tuyokotpe (n)@
+@fish: flat ~@|@samampe (n)@
+@fish: little ~@|@ceppo (n)@
+@fish: offeratory ~@|@hepere-sat-cep (n)@
+@fish: young ~@|@ceppo (n)@
+@fishhook@|@ap (n)³@
+@five@|@asikne (adj)@
+@five@|@asiknep (n)@
+@flame@|@nuy (n)@
+@flame@|@ape-nuy (n)@
+@flare@|@hepeku (vi)@
+@flash about (as light)@|@cupu (vt)¹@
+@flash about (as light)@|@cupu (vi)@
+@flashing@|@tom tom (vi)@
+@flat on the back@|@tuykantar (vi)@
+@flatterer@|@sumari (n)@
+@flavorless@|@pan (adj)¹@
+@flavorless salt@|@pan-sippo (n)@
+@flavour@|@omaw (n)³@
+@flavour@|@mawe (n)(g)(x)²@
+@flavour@|@maw (n)³@
+@flavour@|@maw (n)²@
+@flavour@|@kera (n)@
+@flavour@|@omaw (n)²@
+@flea: sand ~@|@tamu (n)@
+@flee@|@kira (vi)@
+@flee in haste@|@oray (vt)@
+@flesh@|@kam (n)@
+@flesh@|@kami (n)(g)(x)@
+@flesh@|@kamihi (n)(g)(x)@
+@flint: black ~@|@anci (n)²@
+@float@|@amomka (vi)@
+@float (down a stream)@|@mom (vi)@
+@float for fishing net@|@ampa (n)@
+@float: be ~ing@|@amomka (vi)@
+@floating@|@amomka (adj)@
+@floor (of a house)@|@so (n)³@
+@flounder@|@nina-cep (n)@
+@flour@|@amamkoho (n)@
+@flow [as a river]@|@mom (vi)@
+@flow along (as a river)@|@san (vi)@
+@flower@|@tom (n)²@
+@flower@|@epuyke (n)@
+@flower@|@asippa (vi)(p)@
+@flower@|@asip (vi)(s)@
+@flute@|@huyetop (n)@
+@flute@|@top (n)²@
+@flute@|@huyetok (n)@
+@fly: gad~@|@siraw (n)@
+@fold@|@cupu (vt)²@
+@fold over@|@ekomo (vt)@
+@folded thing@|@komkep (n)@
+@follow@|@ikesampa (vt)@
+@following@|@yokane (adv)@
+@following day@|@simke (adv)@
+@fond@|@katayrotke (vt)@
+@food@|@haru (n)@
+@food@|@ipe-ampe (n)@
+@food@|@ep (n)@
+@foot@|@kemaha (n)(g)(x)@
+@foot@|@cikir (n)¹@
+@foot@|@kema (n)@
+@foot@|@kiri (n)¹@
+@for@|@ari (pop)@
+@force@|@maw (n)²@
+@force@|@omaw (n)²@
+@foreign language@|@anun-itak (n)@
+@foreigner@|@sisam (n)@
+@forest@|@nitay (n)@
+@forest@|@hastay (n)@
+@form@|@kat (n)@
+@form@|@hum (n)@
+@form@|@katu (n)(g)(x)@
+@form@|@katuhu (n)(g)(x)@
+@form@|@humi (n)@
+@formerly@|@etoko (adv)@
+@fortress@|@casi (n)@
+@forty@|@tu-otne (adj)@
+@foster mother@|@iresu-huci (n)@
+@four@|@ine (adj)@
+@four people@|@inen (n)@
+@fox@|@kimoppe (n)@
+@fox@|@sumari (n)@
+@freeze@|@sinrupus (vt)@
+@fresh@|@nam (n)@
+@fresh@|@pan (adj)¹@
+@fresh water@|@pan-wakka (n)@
+@friend@|@katayrotke-kur (n)@
+@from@|@wa (adv)@
+@from@|@oyakne (adv)@
+@from@|@we (pop)@
+@from@|@wa-no (adv)@
+@from now (on)@|@tane wano (adv)@
+@from one to the other@|@etaspa (adv)(p)@
+@from one to the other@|@etasa (adv)(s)@
+@front: in ~@|@he (adv)¹@
+@front: in ~ of@|@etoko (adv)@
+@frost@|@sinnam (n)@
+@frost: white ~@|@kuruppe (n)@
+@fruit@|@rataskep (n)¹@
+@fuel@|@nina (n)¹@
+@fulfill@|@epa (vi)@
+@fulfilling@|@epa (adv)@
+@full@|@pa (adj)@
+@full@|@sik (adj)@
+@full@|@ramne (adj)@
+@full moon@|@sikari-cup (n)@
+@full thing@|@ramnep (n)@
+@funeral ceremony@|@wempe-puri (n)@
+@fur@|@kap (n)@
+@fur@|@kapuhu (n)(g)(x)@
+@fur@|@kapu (n)(g)(x)@
+@fur seal@|@unew (n)@
+@furnace@|@ape-sokot (n)@
+@furnace@|@ape-oy (n)@
+@furnace ash@|@ape-kamuy-turihi (n)@
+@gall@|@ninke (n)@
+@gape@|@hasa (vi)@
+@gape@|@hasa (vt)@
+@garden@|@toy (n)¹@
+@gateway@|@apa (n)@
+@genital: male ~@|@ciyehe (n)(g)(x)@
+@genital: male ~@|@ci (n)@
+@genital: male ~@|@ciye (n)(g)(x)@
+@genital: male ~ [slang]@|@cikap (n)²@
+@gentle@|@noram (adj)@
+@gentle@|@oray (adj)¹@
+@gentle@|@roram (adj)@
+@gentle@|@hawke (adj)@
+@gentle@|@hawke (vi)@
+@gentle@|@ratci (adj)@
+@gentleman@|@nispa (n)@
+@ghost@|@tukap (n)¹@
+@gird up loins@|@tumam-kosaye (vi)@
+@gird up loins@|@tumama-kosaye (vi)@
+@give in return for ST recieved@|@yayattasa (vt)@
+@give to superior@|@yanke (vt)(s)@
+@give to superior@|@yapte (vt)(p)@
+@glitter@|@tom tom (vi)@
+@glowing@|@tom tom (vi)@
+@glutton@|@yayepkar-kur (n)@
+@go@|@arupa (vi)(s)@
+@go@|@arpa (vi)(s)@
+@go@|@pake (vi)@
+@go away@|@simakoraypa (vi)(p)@
+@go away@|@asureka (vi)@
+@go away@|@simakoray (vi)(s)@
+@go away in anger@|@yusa (vi)@
+@go by@|@kari (vt)@
+@go in quest@|@yonkoror (vt)@
+@go in quest@|@yonkor (vt)@
+@go off in a huff@|@yusa (vi)@
+@go to@|@ews (vi)@
+@go to@|@ewsi (vi)@
+@go up@|@yap (vi)(p)@
+@go up@|@yan (vi)(s)@
+@god@|@kamuy (n)(sf)@
+@god@|@kamuy (n)@
+@good@|@oray (adj)¹@
+@good@|@kamuy (adj)(pf)@
+@good@|@pirka (adj)@
+@good: be ~@|@pirka (vi)@
+@government@|@tono (n)@
+@grandfather@|@ekasi (n)@
+@grandmother@|@huci (n)²@
+@grape@|@hat (n)@
+@grass@|@kina (n)@
+@grass: blade of ~@|@ra (n)¹@
+@grave@|@toy (n)²@
+@grave@|@tusir (n)@
+@gravy@|@ruru (n)¹@
+@gray@|@katuwa (n)@
+@great@|@kamuy (adj)(pf)@
+@great@|@ca (adj)@
+@great@|@ruy (adj)@
+@great@|@poro (adj)@
+@green@|@hu (adj)@
+@grey hair@|@retarpe (n)@
+@grindstone@|@ruy (n)²@
+@groan@|@yawyawse (vi)@
+@groom@|@nuykar (vt)@
+@ground@|@toytoy (n)@
+@growl@|@yawyawse (vi)@
+@growl@|@humse (vi)@
+@grown: fully ~@|@rupne (adj)@
+@grub worm@|@namsun (n)@
+@grub worm@|@namsu (n)@
+@gruff@|@humse (vi)@
+@grunt@|@humse (vi)@
+@guardian angel@|@ituren-kamuy (n)@
+@guardian angel@|@kamuy: ituren-~ (n)@
+@guide@|@tura-kur (n)@
+@gulf@|@usor (n)@
+@gull: sea ~@|@yatuy (n)@
+@gull: sea ~@|@yatu (n)@
+@gun@|@teppo (n)@
+@gut@|@oske (n)@
+@guts@|@tuy (n)²@
+@gyrfalcon@|@aciw-cikap (n)@
+@habit@|@puri (n)@
+@hack@|@tata (vt)@
+@hail@|@konru (n)@
+@hair@|@numa (n)@
+@hair@|@numaha (n)(g)(x)@
+@hair bleaching@|@retarpe (n)@
+@hair: grey ~@|@retarpe (n)@
+@hair: white ~@|@retarpe (n)@
+@half@|@ru (adj)@
+@half@|@emko (adj)@
+@half of a pair@|@arke (adj)@
+@halibut@|@hepew (n)@
+@hamlet: single-house ~@|@memka (n)@
+@hammer@|@tuci (n)@
+@hammer@|@itata (vt)@
+@hand@|@teke (n)(g)(x)@
+@hand@|@tekehe (n)(g)(x)@
+@handle@|@atu (n)(g)(x)²@
+@handle@|@etuhu (n)(g)(x)@
+@handle@|@etu (n)@
+@handle@|@ecu (n)@
+@handle@|@atuhu (n)(g)(x)²@
+@handle@|@at (n)²@
+@handle: pan ~@|@su-at (n)@
+@handle: pot ~@|@su-at (n)@
+@hang@|@herasi-ratki (vi)@
+@hang@|@ratki (vi)@
+@hang down@|@herasi-ratkire (vt)@
+@hang one's self@|@yay-aterayke (vi)@
+@hang over@|@asi (vt)@
+@hang up@|@atte (vt)²@
+@happy@|@nucak (adj)@
+@happy@|@nucat (adj)@
+@hard@|@rasne (adj)@
+@hare@|@epetke (n)@
+@hare-lipped@|@epetke (adj)@
+@harsh word@|@yupke-itak (n)@
+@harsh words@|@yupke-itak (n)@
+@harvestmen@|@ami-tanne (n)@
+@harvestmen@|@ami-tanne-ya-oskep (n)@
+@hasten@|@caste (vt)@
+@hat@|@kasa (n)@
+@hat string@|@kasa-rantupep (n)@
+@hat string@|@kasa-rantup (n)@
+@haul up@|@yanke (vt)(s)@
+@haul up@|@yapte (vt)(p)@
+@have@|@kor (vt)@
+@hawk@|@taka (n)@
+@hawthorn: black-fruited ~ type@|@ape-ni (n)¹@
+@hazel-hen@|@humiruy (n)@
+@he@|@ani (pr3)(s)@
+@he@|@toan (pn)@
+@he who…@|@sekor (pn)@
+@head@|@yop (adj)@
+@head@|@ca (n)²@
+@head@|@etok (n)@
+@head@|@kew (n)@
+@head@|@kewe (n)¹@
+@head (of body)@|@pake (n)@
+@head (of body)@|@pa (n)²@
+@head (of body)@|@sapa (n)@
+@head of a fireplace@|@ror-un (adv)@
+@headfish@|@kinanpo (n)@
+@headfish@|@kinapo (n)@
+@heap@|@cikir (n)²@
+@hear: be ~d@|@anu (vi)@
+@hearb@|@haru (n)@
+@heard: be ~@|@as (vi)²@
+@heart@|@katu (n)(g)(x)@
+@heart@|@kat (n)@
+@heart@|@kewtum (n)@
+@heart@|@katuhu (n)(g)(x)@
+@heart [mind]@|@ram (n)@
+@heart [mind]@|@rama (n)(g)(x)@
+@hearth@|@ape-sam (n)@
+@hearth@|@ape-samu (n)@
+@hearth@|@ape-sami (n)@
+@heat@|@sesek-ka (vt)@
+@heat: fire ~@|@ape-seseku (n)@
+@heat: fire ~@|@seseki (n)@
+@heat: fire ~@|@ape-seseki (n)@
+@heat: fire ~@|@seseku (n)@
+@heaven@|@nis (n)@
+@hedge@|@ca (n)³@
+@hedge@|@cas (n)@
+@help@|@katunaska (vt)@
+@help@|@kasiw (vt)¹@
+@hem@|@cinki (n)@
+@hempleaf ragwort@|@yuk-kutu (n)@
+@henceforth@|@te-oro (adv)@
+@henceforth@|@tane wano (adv)@
+@her@|@kora (pr)(g)@
+@her@|@kor (pr)(g)@
+@her@|@kon (pr)(g)@
+@herb@|@rataskep (n)¹@
+@herb@|@kina (n)@
+@here@|@teta (adv)@
+@here@|@tapan-ta (adv)@
+@here@|@eteun (adv)@
+@here@|@etampa (adv)@
+@herring@|@hemoy (n)@
+@herring: pacific ~@|@heruki (n)@
+@herring: pacific ~@|@heroki (n)@
+@hey!@|@yay (!)@
+@hide@|@esina (vt)@
+@hide away@|@nuyna (vt)@
+@hide OS away@|@nuynak (vt)@
+@hill: single ~ with round top@|@tap (n)@
+@hillock@|@kom (n)¹@
+@hilt: sword ~@|@emus-nip (n)@
+@him@|@toan (pn)@
+@hip@|@cin (n)@
+@hip@|@cinna (n)²@
+@his@|@kon (pr)(g)@
+@his@|@kor (pr)(g)@
+@his@|@kora (pr)(g)@
+@hit@|@koyki (vt)@
+@hit@|@kik (vt)@
+@hit@|@epeka (vt)@
+@hit@|@kikkik (vt)@
+@ho!@|@yay (!)@
+@hold@|@kor (vt)@
+@hold (in hands)@|@ani (vt)@
+@hold: lay ~ on@|@ani (vt)@
+@hole@|@puy (n)²@
+@hole@|@suy (n)@
+@home@|@unihi (n)(g)(x)@
+@home@|@cisehe (n)(g)(x)@
+@home@|@cise (n)@
+@home@|@uni (n)@
+@home@|@cisey (n)@
+@home village@|@hepenki-kotan (n)@
+@honour: seat of ~@|@ror (n)@
+@honourable@|@kamuy (adj)(pf)@
+@hook: fish ~@|@tukap (n)²@
+@hoop@|@karip (n)@
+@hops@|@kosa (n)¹@
+@horn@|@kiraw (n)@
+@horn@|@kimpuy (adv)@
+@horn@|@kirawehe (n)(g)(x)@
+@horn@|@kirawe (n)¹@
+@horn@|@kirawe (n)(g)(x)@
+@hornet@|@sisoya (n)@
+@horse@|@umma (n)@
+@horsehair crab@|@ampayaya (n)@
+@hot@|@seysek (adj)@
+@hot@|@sesek (adj)@
+@hot air@|@sesek-maw (n)¹@
+@hot breath@|@sesek-maw (n)¹@
+@hot wind@|@sesek-maw (n)¹@
+@house@|@cisey (n)@
+@how great@|@sir-an (!)@
+@how many@|@sir-an (!)@
+@how many?@|@hempak (adv)@
+@how!@|@humi (!)@
+@howl@|@wo (n)¹@
+@howl@|@cis (vi)@
+@howl@|@wose (vi)@
+@howl@|@yawyawse (vi)@
+@hum@|@yawyawse (vi)@
+@human@|@aynu (n)@
+@humble@|@oray (adj)¹@
+@humor@|@e (n)@
+@humour@|@ye (n)²@
+@hunt@|@emoni (vt)@
+@hunt@|@ramante (vt)@
+@hunt@|@eramanre (vt)@
+@hurrily@|@ki (adv)@
+@hurt@|@araka (vi)@
+@hurt@|@arka (vi)@
+@hurt foot with one's boot@|@keyr-siru (vi)@
+@husband@|@aynu (n)@
+@husband@|@hoku (n)@
+@husband@|@oku (n)@
+@husband@|@okuhu (n)(g)(x)@
+@husband@|@kuru (n)²@
+@husband@|@kur (n)@
+@husband@|@hokuhu (n)(g)(x)@
+@hut@|@cise (n)@
+@hut@|@cisey (n)@
+@hut@|@cisehe (n)(g)(x)@
+@hydrangea scandens@|@yuk-punkar (n)@
+@hymn@|@sinotca (n)@
+@hypoglosus hypoglosus@|@hepew (n)@
+@I@|@ku (pf)(pr1)(s)@
+@ice@|@ru (n)¹@
+@ice@|@konru (n)@
+@ice: sea ~@|@apu (n)@
+@idea@|@yaysannyo (adj)@
+@idle@|@katupase (adj)@
+@idle@|@katu-toranne (adv)@
+@idleness@|@tunne (n)@
+@if@|@yakun (+)@
+@if@|@korkay (pop)@
+@if@|@korka (pop)@
+@if@|@yakkay (pop)@
+@if@|@akka (pop)@
+@if@|@yakka (pop)@
+@if@|@yak (pop)@
+@if: even ~@|@yakun (+)@
+@if: even ~@|@yak (pop)@
+@ill: be ~@|@tasumki (vi)@
+@illness@|@tasum (n)@
+@imitate@|@yaykar (vt)@
+@imitation@|@cinorep (n)@
+@immediately@|@ki (adv)@
+@immediately after@|@kasu (adv)@
+@important@|@kamuy (adj)(pf)@
+@in@|@tuykata (adv)@
+@in front of@|@sa (adv)@
+@in place of@|@sir (adv)¹@
+@in: be ~@|@or (vi)@
+@in: be situated ~@|@or (vi)@
+@in: go ~@|@ahup (vi)(p)@
+@in: go ~@|@ahun (vi)(s)@
+@increase@|@atte (vt)¹@
+@indeed@|@oya-ciki (adv)@
+@indeed@|@ampe (adv)@
+@independent@|@yay-an (adj)@
+@industrious@|@yuptek (adj)@
+@industriously@|@yuptek-no (adv)@
+@ineffective@|@kasi (vi)@
+@ineffective@|@kasi (adj)@
+@ineffectual@|@kasi (adj)@
+@ineffectual@|@kasi (vi)@
+@inefficient@|@kasi (vi)@
+@inefficient@|@kasi (adj)@
+@inkfish@|@passanna (n)@
+@inland@|@ya-un (adv)@
+@innerd@|@oske (n)@
+@inquire@|@anu (vt)¹@
+@insect@|@kikir (n)@
+@insert@|@aciw (vt)@
+@insert@|@omare (vt)@
+@inside@|@tuy (n)¹@
+@inside: be ~@|@or (vi)@
+@insipid@|@pan (adj)¹@
+@inspire@|@ituren (vi)@
+@inspired@|@turen (vi)@
+@instead of@|@sir (adv)¹@
+@instruct@|@epakanu (vt)@
+@instruction@|@epakasi (n)@
+@intellect@|@ram (n)@
+@intellect@|@rama (n)(g)(x)@
+@interfere@|@yukoykire (vt)@
+@interior@|@ya-un (adv)@
+@interior: to the ~@|@hepera (adv)@
+@interior: to the ~@|@heperay (adv)@
+@intermeddle@|@yukoykire (vt)@
+@intestine@|@tuy (n)²@
+@intestine: large ~@|@yospe (n)@
+@irony@|@oya-itak (n)@
+@irritate@|@mayaya (vt)@
+@irritated@|@mayamaya (vi)@
+@irritated@|@mayemaye (vi)@
+@is@|@tasi (vi)@
+@is@|@ne (vi)@
+@island@|@siri (n)(g)(x)²@
+@island@|@rep-un-sir (n)@
+@island@|@sir (n)²@
+@it@|@ani (pr3)(s)@
+@itch@|@mayayke (vt)@
+@itch@|@mayayke-tasum (n)@
+@itch@|@mayemaye (vi)@
+@itch@|@mayamaya (vi)@
+@itch@|@mayrototke (vi)@
+@its@|@kor (pr)(g)@
+@its@|@kon (pr)(g)@
+@its@|@kora (pr)(g)@
+@January@|@rucup (n)@
+@Japan@|@samor-mosir (n)@
+@Japan@|@samay-mosir (n)@
+@Japanese@|@samor-un-kur (n)@
+@Japanese@|@samo (n)@
+@Japanese@|@samay-un-kur (n)@
+@Japanese@|@sisam (n)@
+@jar@|@op (n)¹@
+@jealous: be ~ of another@|@yaytunnap (vt)@
+@jellyfish@|@humpe-etor (n)@
+@jellyfish@|@etorpo (n)@
+@join (as rafter)@|@rasu (vi)@
+@juice@|@pe (n)²@
+@juice@|@pehe (n)@
+@jump@|@terke (vi)@
+@jump@|@rimse (vi)@
+@June@|@momawta-cup (n)@
+@June@|@sinan-cup (n)@
+@just so@|@ene-ene (adv)@
+@kick@|@otetterke (vt)@
+@kick@|@oterke (vt)@
+@kidney@|@ramor (n)@
+@kidney: fish ~@|@teyhur (n)@
+@kill@|@koyki (vt)@
+@kill@|@kewe-uk (vt)@
+@kill@|@ronnu (vt)(p)@
+@kill@|@rayke (vt)(s)@
+@kill@|@ronno (vt)(p)@
+@killer whale@|@rep-un-kamuy (n)@
+@kind@|@ramuhawke (vi)@
+@kind@|@tapan (adv)@
+@kind@|@ramuhawke (adj)@
+@kindling@|@nina (n)¹@
+@kindness@|@renka (n)@
+@kiss@|@caro-nunnun (vt)@
+@kite: black ~ [bird]@|@yator (n)@
+@kite: black ~ [bird]@|@yatot (n)@
+@kite: black ~ [bird]@|@yatotta (n)@
+@kite: black ~ [bird]@|@yattuy (n)¹@
+@knead@|@yuppa (vt)@
+@knife@|@makiri (n)@
+@knife@|@pakiri (n)@
+@knife@|@tasi (n)¹@
+@knife sheath@|@saya (n)@
+@knife: flat ~ type@|@epesap (n)@
+@knife: large ~@|@hepitoto (n)@
+@knife: large pointless ~ type@|@nata (n)@
+@knob@|@kom (n)¹@
+@knobby@|@kom (n)¹@
+@knock@|@kik (vt)@
+@knock@|@yakpa (vi)(p)@
+@knock@|@yaku (vi)@
+@knock@|@yakka (vt)@
+@knock@|@yak (vi)(s)@
+@knock@|@kikkik (vt)@
+@knot@|@ewpitte-kar (vt)@
+@knot@|@ewpitte (n)@
+@knot@|@ewkopitte-kar (vt)@
+@knot@|@ewkopitte (n)@
+@knot@|@ewkopitte-ki (vt)@
+@knot@|@ewpitte-ki (vt)@
+@knot: tie a ~@|@ewkopitte-kar (vt)@
+@knot: tie a ~@|@ewpitte-ki (vt)@
+@knot: tie a ~@|@ewkopitte-ki (vt)@
+@knot: tie a ~@|@ewpitte-kar (vt)@
+@knotty@|@kom (n)¹@
+@know@|@kiri (vt)@
+@know@|@wante (vi)@
+@know@|@yay-amkire (vi)@
+@know@|@eraman (vt)@
+@know: anything ~n@|@eramampe (n)@
+@know: don't ~@|@erampetek (vi)@
+@know: don't ~@|@erampewtek (vi)@
+@know: make ~n@|@eramante (vt)@
+@knowing@|@ramu-an (adj)@
+@knowingly@|@ramu-an-no (adv)@
+@knowingly@|@eraman-no (adv)@
+@knuckle@|@kom (n)¹@
+@lace: boot ~@|@keyrat (n)@
+@lace: shoe ~@|@keyrat (n)@
+@lacking@|@sak (adv)@
+@lacking@|@sak (adj)@
+@lacking@|@sakno (adv)@
+@lacquerware@|@sintoko (n)@
+@lad@|@ekaci (n)@
+@lad@|@hekaci (n)@
+@lad@|@heykaci (n)@
+@lagenorhynchus acutus@|@tuwayuk (n)@
+@lagoon@|@ma (n)@
+@lagoon@|@usor (n)@
+@lake@|@mem (n)@
+@lake@|@to (n)³@
+@lame@|@hera (adj)@
+@lamp@|@ratcako (n)@
+@lamp@|@ratcaku (n)@
+@land@|@siri (n)(g)(x)²@
+@land@|@sir (n)²@
+@land@|@toy (n)¹@
+@land [shore]@|@ya (n)¹@
+@language@|@itak (n)@
+@language@|@itaki (n)(g)(x)@
+@language@|@itakihi (n)(g)(x)@
+@language: foreign ~@|@anun-itak (n)@
+@language: strange ~@|@anun-itak (n)@
+@language: strong ~@|@yupke-itak (n)@
+@lappet@|@cinki (n)@
+@large@|@ruy (adj)@
+@large@|@poro (adj)@
+@large@|@rue (adj)@
+@large@|@rupne (adj)@
+@large intestine@|@yospe (n)@
+@larger@|@naa poro (adv)@
+@last@|@hoske (adv)@
+@last@|@sakne (adv)@
+@last@|@hoski (adv)@
+@last evening@|@numan-onuman (adv)@
+@last evening@|@ukran (adv)@
+@last month@|@sakne cup (adv)@
+@last night@|@ukran (adv)@
+@last year@|@sakne pa (adv)@
+@late@|@ari (adj)¹@
+@late@|@orawke (adj)@
+@late@|@orawki (adj)@
+@late: be ~@|@orawki (vi)@
+@late: be ~@|@orawke (vi)@
+@late: be too ~@|@orawki (vi)@
+@late: be too ~@|@orawke (vi)@
+@late: too ~@|@orawke (adj)@
+@late: too ~@|@orawki (adj)@
+@laugh at@|@emina (vt)@
+@lay (as snow)@|@sokkar (vi)@
+@lay hold on@|@ani (vt)@
+@lazy@|@katupase (adj)@
+@lazy@|@katu-toranne (adv)@
+@lead@|@tura (vt)@
+@leaf@|@hamu (n)(g)(x)@
+@leaf@|@hamuhu (n)(g)(x)@
+@leaf@|@ham (n)@
+@leaf: fallen ~ves@|@komam (n)@
+@leaf: tree ~es@|@ni-hamu (n)@
+@leak@|@apa (vi)@
+@learned@|@ramu-an (adj)@
+@leather@|@tonto (n)@
+@leave@|@asureka (vi)@
+@leave (behind)@|@hoppa (vt)@
+@leave off work@|@simakoraypa (vi)(p)@
+@leave off work@|@simakoray (vi)(s)@
+@leave one's parents@|@saot (vt)@
+@leaves@|@kom (n)²@
+@leech@|@sas (n)¹@
+@left@|@hariki (adj)@
+@left@|@haraki (adj)@
+@left side@|@hariki (adj)@
+@left side@|@harikimon (adv)@
+@left side@|@haraki (adj)@
+@left: on the ~@|@harikimon (adv)@
+@left: on the ~@|@hariki (adj)@
+@left: on the ~@|@haraki (adj)@
+@left: on the ~ side@|@hariki-sam (adv)@
+@leg@|@cikir (n)¹@
+@leg@|@kiri (n)¹@
+@leg@|@kemaha (n)(g)(x)@
+@leg@|@kema (n)@
+@leg@|@cinika (n)@
+@legend@|@yukar (n)@
+@legging: fish-skin ~s@|@cepkap-hos (n)@
+@leggings@|@hosihi (n)(g)(x)@
+@leggings@|@hosi (n)(g)(x)@
+@leggings@|@hos (n)@
+@leggings for the dead@|@wen-hos (n)@
+@legume@|@mame (n)@
+@length@|@epes (n)@
+@let's…@|@ro (n)@
+@let go@|@hepita (vi)@
+@letter@|@yupin (n)@
+@letter@|@yupin-kampi (n)@
+@letter (missive)@|@kampi (n)@
+@lice@|@simayma (n)@
+@lichen@|@sinrus (n)@
+@lick@|@kem (vt)@
+@lid: put the ~ on@|@kasi-putu-unu (vt)@
+@lie in wait@|@yonkoror (vt)@
+@lie in wait@|@yonkor (vt)@
+@life@|@kaskamuy (n)@
+@light@|@peker (n)@
+@light@|@hawke (adj)@
+@light@|@hawke (vi)@
+@light [wight]@|@kosne (adj)@
+@lightly@|@kosne (adj)@
+@like that@|@ene-ani (adv)@
+@like this@|@ene-ani (adv)@
+@limit@|@etok (n)@
+@line@|@naye (n)@
+@line@|@tu (n)@
+@line: fancy needlework ~@|@tu (n)@
+@litter@|@komun (n)@
+@little@|@po (adj)@
+@little fish@|@ceppo (n)@
+@little: very ~@|@poon (adv)@
+@little: very ~ thing@|@ponpepo (n)@
+@little: very ~ thing@|@pompepo (n)@
+@liver@|@yukram (n)@
+@liver@|@kinop (n)@
+@liver: fish ~@|@raha (n)@
+@liver: fish ~@|@ra (n)²@
+@lizard: Japanese grass ~@|@haram (n)@
+@lodge@|@kasi (n)(g)(x)@
+@lodge@|@kasihi (n)(g)(x)@
+@lodge@|@kas (n)@
+@loin@|@tumam-noske (n)@
+@loin cloth@|@tepa (n)@
+@long@|@tanne (adj)@
+@long hair: have rough and ~@|@hepur (vi)@
+@long hair: rough and ~@|@hepur (adj)@
+@look about@|@wante (vi)@
+@look at@|@nukar (vt)@
+@look at@|@inkar (vi)@
+@look cold@|@emetapunin (vi)@
+@look for@|@yonkor (vt)@
+@look for@|@yonkoror (vt)@
+@look straight at@|@yonkor (vt)@
+@look straight at@|@yonkoror (vt)@
+@loom: attus ~@|@attus-karape (n)@
+@loop@|@temi (n)@
+@lord@|@nispa (n)@
+@lose@|@ewen (vt)@
+@loss@|@so (n)ª@
+@loud@|@ruy (adj)@
+@louse@|@ki (n)²@
+@louse: young ~@|@ramay (n)@
+@love@|@katayrotke (vt)@
+@low@|@ram (adv)@
+@low: make ~@|@rampe (vt)@
+@lower@|@pan (adj)²@
+@lower@|@kes (n)²@
+@lower@|@rake (adv)@
+@lower@|@rampe (vt)@
+@luminary@|@cup (n)@
+@lump@|@cikir (n)²@
+@lunch@|@haru (n)@
+@lutra marina@|@rakko (n)@
+@lyrics@|@sinotca-ipe (n)@
+@maggot@|@namsun (n)@
+@maggot@|@namsu (n)@
+@maimed@|@hera (adj)@
+@make@|@kar (vt)@
+@make rope@|@eka (vt)@
+@male@|@okkay (n)@
+@male child@|@okkaypo (n)@
+@male child@|@okkaypoho (n)(g)(x)@
+@mallet@|@tuci (n)@
+@man@|@kur (n)@
+@man@|@kuru (n)²@
+@man@|@okkay (n)@
+@man@|@aynu (n)@
+@man: middle-aged ~@|@acapo (n)@
+@man: old ~@|@caca (n)@
+@man: rich ~@|@nispa (n)@
+@man: young ~@|@okkaypoho (n)(g)(x)@
+@man: young ~@|@okkaypo (n)@
+@Manchuria@|@santa-mosir (n)@
+@Manchuria@|@santa (n)@
+@Manchuria@|@santan (n)@
+@manger@|@kitci (n)@
+@mankind@|@aynu (n)@
+@manner@|@puri (n)@
+@many@|@yukke (adj)@
+@many@|@ca (adj)@
+@March [month]@|@haprapcup (n)@
+@mark@|@naye (n)@
+@marrow@|@kirawe (n)@
+@marrow@|@kiri (n)²@
+@marrow@|@kirawe (n)²@
+@marrow bone@|@kirawe o pone (n)@
+@marsh marigold@|@puy (n)³@
+@mask@|@kotor (n)@
+@mass@|@taku (n)@
+@master@|@nispa (n)@
+@mat@|@sokarpe (n)@
+@mat@|@kosa (n)²@
+@mat to roll-up the dead@|@toma (n)²@
+@mat: floor ~@|@yattuy (n)²@
+@mat: floor ~@|@sokkar (n)@
+@mat: floor ~@|@aputki (n)@
+@mat: grass ~@|@kina (n)@
+@mat: rolled-up ~@|@kinasut (n)@
+@mat: rush ~@|@kina (n)@
+@mat: straw ~@|@kina (n)@
+@matter@|@ye (n)²@
+@matter@|@e (n)@
+@matter from boil@|@ye (n)²@
+@meal: evening ~@|@numan-ipe (n)@
+@meal: have a ~ of ST@|@ipe (vt)@
+@meaning@|@ramat (n)@
+@meaning@|@ram (n)@
+@meaning@|@rama (n)@
+@meaning@|@rama (n)(g)(x)@
+@measles@|@haska (n)@
+@meat@|@kamihi (n)(g)(x)@
+@meat@|@kami (n)(g)(x)@
+@meat@|@kam (n)@
+@meat: bear ~@|@kamuy-haru (n)@
+@meat: deer ~@|@yuk-haru (n)@
+@meddler@|@yukoykire-kur (n)@
+@medusa@|@etorpo (n)@
+@medusa@|@humpe-etor (n)@
+@meet@|@unukar (vt)@
+@meet@|@ewomare (vt)@
+@meet (as rafter)@|@rasu (vi)@
+@meet: hold a ~ing@|@unukar (vt)@
+@melt@|@nin (vt)@
+@melt@|@ru (vi)@
+@melt@|@rure (vt)@
+@menses@|@cup-wen (n)@
+@menses@|@cuppe (n)@
+@menses@|@cup-ewen (n)@
+@merciful@|@ramuhawke (adj)@
+@merciful@|@ramuhawke (vi)@
+@mesopus olidus@|@susam (n)@
+@message: send a verbal ~@|@yutar (vt)@
+@method@|@katuhu (n)(g)(x)@
+@method@|@katu (n)(g)(x)@
+@method@|@kat (n)@
+@middle@|@tumutur (adj)@
+@middle-aged man@|@acapo (n)@
+@middle-aged woman@|@unarpe (n)@
+@mile@|@tem (n)²@
+@milk: cow's ~@|@tope (n)@
+@millet@|@amam (n)@
+@millet@|@piyapa (n)@
+@millet@|@amama (n)@
+@millstone@|@nisu (n)@
+@millstone@|@nisiw (n)@
+@mind@|@kewtum (n)@
+@mind@|@ram (n)@
+@mind@|@ramu (n)@
+@mind@|@rama (n)(g)(x)@
+@mind@|@rama (n)@
+@mind@|@ramat (n)@
+@mineral water@|@yu (n)@
+@mire@|@pip (n)@
+@miry@|@pipo (adj)@
+@mischievous@|@katun-katun (adj)@
+@miss@|@orawki (vi)@
+@miss@|@orawki (adj)@
+@miss@|@orawke (vi)@
+@miss@|@orawke (adj)@
+@mist@|@meni (n)@
+@mist@|@pe (n)²@
+@mist@|@pehe (n)@
+@mistletoe@|@niharu (n)@
+@mite [bug]@|@yukki (n)@
+@moan@|@yawyawse (vi)@
+@mode@|@katuhu (n)(g)(x)@
+@mode@|@katu (n)(g)(x)@
+@mode@|@kat (n)@
+@moisture@|@pe (n)²@
+@money order@|@kampi (n)@
+@monkey@|@saro (n)@
+@monkey@|@sar-us (n)@
+@month@|@cup (n)@
+@month: last ~@|@sakne cup (adv)@
+@moon@|@cup (n)@
+@moon@|@cup-kamuy (n)@
+@moon@|@kunne-cup (n)@
+@moon: full ~@|@sikari-cup (n)@
+@more@|@suy (adv)@
+@more@|@naa (adv)@
+@more@|@kasu-no (adv)@
+@more: once ~@|@naa arasuyne (adv)@
+@more: there is ~@|@naa an (adv)@
+@morning: early ~@|@ankes (n)@
+@mortar@|@uta (n)@
+@mortar@|@yuta (n)@
+@moss@|@wakina (n)(ain-N)@
+@moss@|@sinrus (n)@
+@mostly@|@yokkata (adv)@
+@mostly@|@ewnkasi-no (adv)@
+@motar@|@nisu (n)@
+@motar@|@nisiw (n)@
+@motar: pestle for pounding in ~yuta-ni (n)@|@yuta-ni (n)@
+@moth@|@heporap (n)@
+@moth: large butterfly ~ type@|@apetumpe (n)@
+@moth: large butterfly ~ type@|@ape-etumpe (n)@
+@mother@|@unu (n)@
+@mother@|@hapo (n)@
+@mother@|@totto (n)@
+@mother: foster ~@|@iresu-huci (n)@
+@mother: one's ~@|@tuye (n)@
+@mountain@|@kim (n)@
+@mountain-range@|@kim (n)@
+@mountain@|@siri (n)(g)(x)²@
+@mountain@|@sir (n)²@
+@mountain top@|@tapka (n)@
+@mountain: in the ~@|@kim-un (adv)@
+@mountain: of the ~@|@kim-un (adv)@
+@mountain: to the ~@|@kim-un (adv)@
+@mourn for the dead@|@yayciste (vt)@
+@mourner@|@yayciste-kur (n)@
+@mouse@|@erm (n)@
+@mouse@|@ermu (n)@
+@mouse@|@erum (n)@
+@mouth@|@pan (n)²@
+@mouth@|@paro (n)(g)(x)@
+@mouth@|@par (n)@
+@mouth@|@paroho (n)(g)(x)@
+@mouth@|@caro (n)(g)(x)@
+@mouth@|@car (n)@
+@mouth@|@ca (n)²@
+@mouth: river ~@|@pet-car (n)@
+@mouth: river ~@|@apa (n)@
+@mouthful: one ~@|@sine-not (adj)@
+@move@|@cimoyemoye (vi)@
+@move@|@simoyeka (vi)@
+@move@|@simoye (vi)@
+@move the eyebrows@|@rattopotopo (vi)@
+@Mr.@|@nispa (n)@
+@much@|@poro (adj)@
+@much@|@sir (adj)@
+@mucus@|@etor (n)@
+@mucus: nasal ~@|@etorrat (n)@
+@mud@|@toy (n)¹@
+@multitudinous@|@sir-esik (adj)@
+@muscle@|@nin (n)²@
+@muscle of arm@|@yontekkam (n)@
+@muscle of arm@|@yontekpe (n)@
+@my@|@kor (pr)(g)@
+@my@|@kon (pr)(g)@
+@my@|@ku (pf)(pr1)(s)@
+@my@|@kora (pr)(g)@
+@myoxocephalos polyacanthocephalcimakani (n)@|@cimakani (n)@
+@nail: finger ~@|@ami (n)(g)(x)@
+@nail: finger ~@|@amihi (n)(g)(x)@
+@nail: finger ~@|@am (n)@
+@nail: finger ~s@|@amu (n)@
+@nail: toe ~@|@ami (n)(g)(x)@
+@nail: toe ~@|@amihi (n)(g)(x)@
+@nail: toe ~@|@am (n)@
+@naked@|@atusa (adj)@
+@naked@|@heraske (adj)@
+@narrow@|@hutne (adj)@
+@nasal mucus@|@etorrat (n)@
+@navel@|@hanku (n)@
+@navel@|@hanko (n)@
+@navel@|@hanka (n)@
+@navel@|@hankapu (n)@
+@navel@|@hankapuy (n)@
+@near@|@hanke (adj)@
+@nearly@|@naanipo (adv)@
+@nearly@|@naani (adv)@
+@nearly@|@naanihunko (adv)@
+@neck@|@rekut (n)@
+@neck@|@rekuci (n)(g)(x)@
+@necklace@|@cimutpe (n)@
+@needle@|@kem (n)²@
+@needle: netting ~@|@ampari (n)@
+@needlework: broad ~ line@|@tu (n)@
+@nest [bird/insect]@|@cisehe (n)(g)(x)@
+@nest [bird/insect]@|@cise (n)@
+@nest [bird/insect]@|@cisey (n)@
+@net@|@oske (vt)@
+@net@|@ya-oske (vi)@
+@net: fishing ~@|@ya (n)²@
+@net: make ~@|@ya-oske (vi)@
+@net: make/mend ~s@|@oske (vt)@
+@netting needle@|@ampari (n)@
+@never@|@iteki (adv)@
+@nevertheless@|@yakka (pop)@
+@nevertheless@|@akka (pop)@
+@nevertheless@|@yakkay (pop)@
+@new@|@asir (adj)@
+@new@|@asin (adj)@
+@new@|@asir an (adj)@
+@new@|@asit (n)@
+@new thing@|@asir pe (n)@
+@new year@|@asir pa (n)@
+@new: re~@|@asirki (vt)@
+@new: re~@|@asirkara (vt)@
+@next@|@asir (adj)@
+@next@|@asir an (adj)@
+@next@|@asit (n)@
+@next@|@simke (adv)@
+@next@|@oya (adj)@
+@next day@|@sima (adv)@
+@next day@|@simma (adv)@
+@next day@|@sim (adv)@
+@nice@|@ramayta (adj)@
+@nice@|@katupirka (adj)@
+@night: last ~@|@ukran (adv)@
+@nine@|@sinepe-si (adj)@
+@nine@|@sinepe-sampe (adj)@
+@nine@|@sinepe-san (n)@
+@nipple@|@to (n)¹@
+@nod head@|@hepokipoki (vi)@
+@noise@|@haw (vi)@
+@noise@|@haw (n)@
+@noise: make ~@|@humse (vi)@
+@noise: make ~ with voice@|@royse (vi)@
+@non-Ainu@|@sisam (n)@
+@non-foreign@|@ya-un-kur (n)@
+@noose@|@ka-saye (n)@
+@northeast inner wall@|@rorketa (n)@
+@nose@|@etu (n)@
+@nose@|@etuhu (n)(g)(x)@
+@nose@|@ecu (n)@
+@nostril@|@etu-puy (n)@
+@not having@|@sakno (adv)@
+@not having@|@sak (adv)@
+@not having@|@sak (adj)@
+@not: is ~@|@orake (vi)@
+@nothing: come to ~@|@orake (vi)@
+@November@|@sinan-cup (n)@
+@November@|@sinaw-cup (n)@
+@now@|@tane (adv)@
+@now@|@tanepo (adv)@
+@now@|@tap (pr)@
+@now for the first time@|@tanepo (adv)@
+@now: from ~ (on)@|@tane wano (adv)@
+@now: just ~@|@tap (pr)@
+@now: just ~@|@tanepo (adv)@
+@now: until ~@|@tane pakno (adv)@
+@number@|@ipiski (n)@
+@nurse@|@tumam (vt)@
+@nut@|@ninum (n)@
+@oar@|@kanci (n)@
+@object@|@ap (n)²@
+@object@|@ampe (n)¹@
+@obsidian@|@anci (n)²@
+@obtain@|@kor (vt)@
+@ocean@|@ruru (n)²@
+@ocean@|@atuy (n)@
+@ocean@|@acuy (n)@
+@ocean@|@atuy-so (n)@
+@ode@|@yayrap (n)@
+@odour@|@sakusa (n)@
+@off@|@ho (adv)@
+@off@|@oyakne (adv)@
+@offer up to diety@|@yanke (vt)(s)@
+@offer up to diety@|@yapte (vt)(p)@
+@officer: governmental ~@|@tono (n)@
+@official@|@tono (n)@
+@offing: in the ~@|@rep-un (adv)@
+@offshore@|@rep-un (adv)@
+@offshore@|@rep (n)¹@
+@oh@|@e (!)@
+@old@|@kewsut (n)@
+@old@|@huskotoy (adj)@
+@old@|@kewsut (adj)@
+@old@|@onne (adj)@
+@old@|@husko (adj)@
+@old@|@hekay (adj)@
+@old man@|@caca (n)@
+@old man [respectful address]@|@acipo (n)@
+@old man [respectful address]@|@aca (n)@
+@old woman@|@huci (n)²@
+@on@|@kasi (pop)@
+@once@|@asiw (adj)@
+@once full@|@sine-pa (n)@
+@once upon a time@|@sine-anta (adv)@
+@oncorhyncus species@|@kenew (n)@
+@one@|@sine-an (adj)@
+@one@|@sinep (n)@
+@one@|@sine (adj)@
+@one cupful@|@sine-pa (n)@
+@one day@|@sine-anta (adv)@
+@one mouthful@|@sine-not (adj)@
+@one person@|@sinen (n)@
+@one thing@|@sinep (n)@
+@one time: at ~@|@sine-anta (adv)@
+@one who…@|@p (sf)@
+@one who…@|@pe (sf)@
+@only@|@paket (adj)@
+@only@|@katap (adv)@
+@open@|@simasa (adj)@
+@open@|@hasa (vi)@
+@open@|@hasa (vt)@
+@open@|@sa (vi)@
+@open@|@pira (adj)@
+@open ST@|@pirasa (vt)@
+@open: spead ~@|@pirasa (vt)@
+@or@|@ya (pop)@
+@oral agreement@|@ye (n)¹@
+@orator@|@caca (n)@
+@orca@|@rep-un-kamuy (n)@
+@order: in ~@|@katupirka (adj)@
+@ordinary language@|@momok-itak (n)@
+@origin@|@hepenki (vt)@
+@origin@|@etok (n)@
+@ornamented@|@cinoye (adj)@
+@osier: eared ~@|@yayay-susu (n)@
+@otaria ursina@|@unew (n)@
+@other@|@oya (adj)@
+@otter@|@esaman (n)@
+@otter: sea ~@|@rakko (n)@
+@our@|@kon (pr)(g)@
+@our@|@kora (pr)(g)@
+@our@|@kor (pr)(g)@
+@out: come ~@|@asin (vi)@
+@out: go ~@|@asin (vi)@
+@out: go ~side@|@soyne (vi)@
+@out: pick ~@|@soypa (vt)@
+@out: take ~@|@soypa (vt)@
+@outer@|@soy-un (adv)@
+@outer covering of SB or ST@|@kap (n)@
+@outside@|@soyta (adv)@
+@outside@|@soyketa (adv)@
+@outside@|@soyna (n)@
+@outside@|@soy-un (adv)@
+@outside@|@soy (n)@
+@outside@|@soyke (adv)@
+@outsider@|@anun (n)@
+@over@|@kasu-no (adv)@
+@owl@|@cikap (n)¹@
+@owl diety@|@cikap-kamuy (n)@
+@owl diety@|@kotankor-kamuy (n)@
+@owl: screech ~@|@yuk-cikap (n)@
+@own@|@kor (vt)@
+@own-@|@yay (pr)(pf)@
+@own: not one's ~@|@anun (n)@
+@pa (n)¹@|@paha (n)¹@
+@pachysandra terminalis@|@yuk-topa-kina (n)@
+@pacific herring@|@heruki (n)@
+@pacific herring@|@heroki (n)@
+@pack up@|@ewomasnu (vt)@
+@pain in back@|@tumak (n)@
+@pain in loins@|@tumak (n)@
+@pain in testicles@|@tumak (n)@
+@pain: be ~ful@|@araka (vi)@
+@pain: be ~ful@|@arka (vi)@
+@pain: be in ~@|@arka (vi)@
+@pain: be in ~@|@araka (vi)@
+@pan@|@sû (n)@
+@pan handle@|@su-at (n)@
+@pan: sauce ~@|@sû (n)@
+@pan: sauce ~@|@su (n)@
+@paper@|@kampi (n)@
+@paralichthys olivaceus@|@nina (n)²@
+@parched@|@satsatke (adj)@
+@parched@|@satsatke (vi)@
+@parent@|@yop (adj)@
+@parent@|@ew (n)@
+@part@|@peka (adv)³@
+@part@|@emko (adj)@
+@partly@|@ru (adj)@
+@pass along@|@kari (vt)@
+@pass away@|@simaka (vi)@
+@pass away (as clouds)@|@rak (vi)¹@
+@pass away [die]@|@simakoray (vi)(s)@
+@pass by@|@esisi (vt)@
+@pass over@|@kasi-kus (vt)@
+@past@|@oyakne (adv)@
+@path@|@ru (n)²@
+@path: precipitous ~@|@cis (n)@
+@path: steep winding ~@|@cis (n)@
+@pauper@|@wen-kur (n)@
+@paw@|@tekehe (n)(g)(x)@
+@paw@|@teke (n)(g)(x)@
+@paw@|@tek (n)@
+@pea@|@mame (n)@
+@peace: be at ~@|@amo (vi)@
+@peak@|@kitay (n)@
+@pedigree@|@sinrit (n)@
+@peel@|@kapkar (vt)@
+@peel@|@kap (n)@
+@peel@|@kapuhu (n)(g)(x)@
+@peel@|@kapu (n)(g)(x)@
+@pelvic bone@|@cinkew-pone (n)@
+@pelvis@|@cin (n)@
+@pelvis@|@cinna (n)²@
+@pen@|@nuyep (n)@
+@peninsula@|@ma (n)@
+@penis@|@ciye (n)(g)(x)@
+@penis@|@ciyehe (n)(g)(x)@
+@penis@|@ci (n)@
+@penis [slang]@|@cikap (n)²@
+@people@|@n (n)(sf)@
+@people@|@ni (n)(sf)@
+@people@|@niw (n)(sf)@
+@people: four ~@|@inen (n)@
+@people: two ~@|@tun (n)@
+@people: two ~@|@etun (n)@
+@perch [fish]@|@tampar-ceppo (n)@
+@perplex@|@yot (vi)@
+@persecute@|@ewnkeske (vt)@
+@person@|@niw (n)(sf)@
+@person@|@n (n)(sf)@
+@person@|@kur (n)@
+@person@|@aynu (n)@
+@person@|@ni (n)(sf)@
+@person@|@kuru (n)²@
+@person: bad ~@|@wenpe-kur (n)@
+@person: bad ~@|@wempe-kur (n)@
+@person: evil ~@|@wenpe-kur (n)@
+@person: evil ~@|@wempe-kur (n)@
+@person: one ~@|@sinen (n)@
+@person: poor ~@|@wen-kur (n)@
+@person: wealthy ~@|@nispa (n)@
+@perspiration@|@poppe (n)@
+@perspire@|@poppe nu (vi)@
+@pestle  for pounding in motar@|@yuta-ni (n)@
+@picrasma ailanthoides@|@yuk-rayke-ni (n)@
+@pierce@|@ewsi (vt)@
+@pierce@|@ews (vt)@
+@pigeon: green ~@|@waw-ow (n)@
+@pigeon: green ~@|@wawo (n)@
+@pigeon: green ~@|@wao (n)@
+@pinafore@|@maytari (n)@
+@pinafore@|@mantari (n)@
+@pincer: air of ~s@|@wakci (n)@
+@pinch off@|@ca (vt)@
+@pipe@|@pecir (n)@
+@pipe@|@popay (n)@
+@pipe@|@cir (n)²@
+@pit: arm ~@|@hatopok (n)@
+@place@|@peka (adv)³@
+@place@|@anu (vt)²@
+@place@|@omare (vt)@
+@place@|@kotan (n)@
+@place where something is@|@an-i (n)¹@
+@place: dwelling ~@|@kotan (n)@
+@placenta@|@tumpu (n)@
+@plain [meadow]@|@saha (n)(g)(x)²@
+@plain [meadow]@|@sa (n)³@
+@plate@|@sey (n)¹@
+@play with SB/ST@|@esinot (vt)@
+@playful@|@sinot-ruy (adj)@
+@pleased@|@nucak (adj)@
+@pleased@|@nucat (adj)@
+@plenteous@|@nu-us (adj)@
+@plenteous@|@nuye-an (adj)@
+@plenteous@|@sir-esik (adj)@
+@plenteous@|@nuye-us (adj)@
+@plenteous@|@nu-an (adj)@
+@plenty@|@sir-esikpe (n)@
+@plover: golden ~@|@apto-cikap (n)@
+@pluck@|@tuyetek (vt)@
+@pluck@|@tuyetek (adj)@
+@plug [stopper]@|@caruspe (n)@
+@plum@|@moma (n)@
+@plum tree@|@moma-ni (n)@
+@point: knife ~@|@ecu (n)@
+@point: knife ~@|@etu (n)@
+@point: knife ~@|@etuhu (n)(g)(x)@
+@point: sword ~@|@ecu (n)@
+@point: sword ~@|@etuhu (n)(g)(x)@
+@point: sword ~@|@etu (n)@
+@points on a horn@|@kimpuy-etu (n)@
+@points on an antler@|@kimpuy-etu (n)@
+@poison@|@ru (n)³@
+@polish@|@herasnure (vt)@
+@pollock: Alaska ~@|@herekusi-kewsut (n)@
+@pollock: walleye ~@|@herekusi-kewsut (n)@
+@polypus: edible ~ type@|@yukkarus (n)@
+@pond@|@to (n)³@
+@pond@|@mena (n)@
+@pond@|@mem (n)@
+@poor@|@heron (adj)@
+@poor@|@wen (adj)@
+@poor person@|@wen-kur (n)@
+@poplar: balsam ~@|@kurunni (n)@
+@porch: entrance ~@|@apa-sem (n)@
+@posess@|@kor (vt)@
+@post: bear cub tie ~@|@hepere-kot-uray-ni (n)@
+@posterior@|@ho (n)@
+@pot@|@sû (n)@
+@pot handle@|@su-at (n)@
+@pot: porridge ~@|@su (n)@
+@pot: porridge ~@|@sû (n)@
+@pot: stew ~@|@sû (n)@
+@pot: stew ~@|@su (n)@
+@pot: stew ~@|@sayo-sû (n)@
+@pouch@|@op (n)¹@
+@pouch: tobacco ~@|@tampako-op (n)@
+@pounce@|@terke (vi)@
+@power@|@cimontum (n)@
+@power@|@tumu (n)¹@
+@powerless@|@apte (adj)@
+@prawn@|@paki (n)@
+@precipitate (in solution)@|@rak (vi)²@
+@precipitate (in solution)@|@rakka (vi)@
+@precipitate (in solution)@|@ratci (vi)(ain-CW)@
+@precipitous path@|@cis (n)@
+@pregnant: be ~@|@honkor (vi)@
+@prepare@|@kar (vt)@
+@presence@|@ap (n)¹@
+@presence@|@ape (n)¹@
+@present@|@tanto (adv)@
+@pretend to be@|@ape-kor (vi)@
+@pretend to be@|@ap-kor (vi)@
+@pretty@|@pirka (adj)@
+@pretty@|@ramayta (adj)@
+@pretty@|@katupirka (adj)@
+@pretty: be ~@|@pirka (vi)@
+@prevent@|@kasis (vt)@
+@previous@|@hoski (adv)@
+@previous@|@hoske (adv)@
+@previous@|@sakne (adv)@
+@previously@|@ekanay (adv)@
+@previously@|@etoko (adv)@
+@previously@|@teeta (adv)@
+@price of anything@|@or (n)@
+@principal@|@yop (adj)@
+@prize@|@kaskamuy (n)@
+@prized@|@onne (adj)@
+@produce@|@kar (vt)@
+@prophecy@|@tusu (vi)@
+@proud@|@pakesara (adj)@
+@proud: be ~@|@pakesara (vi)@
+@proudly@|@pakesara wa (adv)@
+@provisions@|@haru (n)@
+@prudent@|@yaysannyo (adj)@
+@pseudocardium sachalinense@|@poki-sey (n)@
+@pseudocardium sachalinense@|@sey (n)²@
+@puddle@|@to (n)³@
+@puddle@|@mena (n)@
+@puddle of water@|@pecica (n)@
+@pull away from@|@etaye (vt)@
+@pull off@|@etaye (vt)@
+@pull out@|@etaye (vt)@
+@pull up@|@yapte (vt)(p)@
+@pull up@|@yanke (vt)(s)@
+@pulverize@|@nina (vt)@
+@pumice: fine volcanic ~@|@ye (n)²@
+@punish@|@yayattasa (vt)@
+@punishment@|@papa (n)@
+@punishment@|@pa (n)³@
+@purchase@|@hok (vt)@
+@pus@|@ye (n)²@
+@pus@|@e (n)@
+@put@|@asi (vt)@
+@put@|@anu (vt)²@
+@put (in)@|@omare (vt)@
+@put in upon@|@ewomare (vt)@
+@quake@|@sisuye (vi)@
+@quake: severe earth~@|@yupke-sisuye (n)@
+@quarrel@|@tumi (n)@
+@quarrel@|@ukoyki-ampe (n)@
+@quarrel@|@ukoyki (vi)@
+@quarter@|@wo (n)²@
+@quick@|@tus (adj)@
+@quick@|@tunasi (adj)@
+@quick@|@tunas (adj)(ain-N)@
+@quick@|@tunas (adj)@
+@quickly@|@tunasi-no (adv)@
+@quiet@|@hawke (adj)@
+@quiet@|@rene (adj)@
+@quiet@|@hawke (vi)@
+@quite@|@ari (adv)@
+@ragwort: hempleaf ~@|@yuk-kutu (n)@
+@rail: wooden ~@|@sakma (n)@
+@rain@|@apto (n)@
+@rain@|@ruy (vi)@
+@rain@|@apto-as (vi)(s)@
+@rain@|@pe (n)²@
+@rain@|@pehe (n)@
+@rain@|@ruyampe (n)@
+@rain@|@apto-aspa (vi)(p)@
+@rain cloud@|@wenkuriki (n)@
+@rain: be ~ing@|@apto-ruy (vi)@
+@rain: be ~ing@|@apto-run (vi)@
+@rain: fine ~@|@wen-i (n)²@
+@rain: fine ~@|@ruyampe (n)@
+@rain: fine ~@|@meni (n)@
+@rain: severe ~@|@yupke-ruyampe (n)@
+@rain: very fine ~@|@niham-muninkap (n)@
+@raise from bent position@|@hepita (vi)@
+@raise up@|@yoruki-puni (vt)@
+@raja kenojei@|@kasumpe (n)@
+@rapid@|@tus (adj)@
+@raspberry@|@emawri (n)@
+@raspberry type@|@yuk-emawri (n)@
+@rat@|@ermun (n)@
+@rat@|@ermu (n)@
+@rat@|@erm (n)@
+@rat@|@erum (n)@
+@ravage@|@wentek (vt)@
+@raw@|@hu (adj)@
+@reach@|@epa (vt)@
+@really@|@sonno (adv)@
+@rear@|@hepenki (vt)@
+@reason@|@tasi (n)²@
+@receptacle@|@itanki (n)@
+@reckon@|@esanniyo (vt)@
+@recognize@|@kiri (vt)@
+@recompense@|@yayattasa (vt)@
+@recompense@|@yayattasap (n)@
+@red@|@hure (adj)@
+@reed@|@ki (n)³@
+@reel@|@tumu (n)²@
+@reel@|@ka-sayep (n)@
+@refer@|@epeka (vt)@
+@reindeer@|@tunakay (n)@
+@rejoice@|@cimaktekka (vi)@
+@relative: male ~@|@kewsut (n)@
+@relative: male ~@|@kewsut (adj)@
+@remove the rind@|@kapkar (vt)@
+@reproach term@|@wempe-sani (n)@
+@requite@|@yayattasa (vt)@
+@rescue@|@katunaska (vt)@
+@resound@|@mayun-mayun (vi)@
+@resound@|@sasnu (vi)@
+@resounding@|@mayun-no (adv)@
+@respect: go pay ~@|@mayre (vi)@
+@respect: go pay ~@|@mayre-ki (vi)@
+@rest: be at ~@|@amo (vi)@
+@restraint: exercise self-~@|@yayepatarye (vi)@
+@retire (from work)@|@esini (vi)@
+@return@|@hosipika (vt)@
+@return@|@hosippare (vt)(p)@
+@return@|@hosippa (vi)(p)@
+@return@|@hosipire (vt)(s)@
+@return@|@hosipi (vi)(s)@
+@revenge@|@yayattasa (vt)@
+@rhamnus japonica@|@yuk-nonno (n)@
+@rhododendron dahuricum@|@hasipo-kewsut (n)@
+@rib@|@ucihi (n)(g)(x)@
+@rib@|@uci (n)(g)(x)@
+@rib@|@ut (n)@
+@rice@|@amam (n)@
+@rice@|@amama (n)@
+@rich@|@nispa (n)@
+@ridgepole of a house@|@kitay-oma-ni (n)@
+@right [direction]@|@simon (adj)@
+@right hand side@|@simon-sam (adv)@
+@right hand side: on the ~@|@simontek (adv)@
+@rim@|@wa (n)@
+@rim of a vessel@|@wan (n)@
+@rim of hills@|@wan (n)@
+@rim: sea shore ~@|@wan (n)@
+@rind@|@kap (n)@
+@rind@|@kapu (n)(g)(x)@
+@rind@|@kapuhu (n)(g)(x)@
+@rind: remove the ~@|@kapkar (vt)@
+@ring@|@karip (n)@
+@ring@|@mayun-mayun (vi)@
+@ring@|@akam (n)²@
+@ring: ST ~s@|@as (vi)²@
+@ringing@|@mayun-no (adv)@
+@ripe@|@cino (adj)@
+@ripened@|@hekay (adj)@
+@rise@|@yap (vi)(p)@
+@rise@|@yan (vi)(s)@
+@river@|@peca (n)@
+@river@|@pet (n)²@
+@river@|@petca (n)@
+@river@|@nay (n)@
+@river@|@peci (n)@
+@river bank: low ~@|@sa (n)¹@
+@river bank: low ~@|@ca (n)¹@
+@river mouth@|@apa (n)@
+@river mouth@|@pet-car (n)@
+@river: large ~@|@nay (n)(ain-N)@
+@riverside@|@hoyasi (n)@
+@road@|@ru (n)²@
+@roar@|@yawyawse (vi)@
+@roar@|@sas (n)²@
+@roast@|@ma (vt)@
+@roast@|@cima (adj)@
+@roasted@|@cima (adj)@
+@roasting spit@|@cimakanit (n)@
+@rock@|@sirar (n)²@
+@rock@|@suma (n)@
+@rock: bare ~@|@so (n)º@
+@roof@|@kitay (n)@
+@roof@|@ceka (n)@
+@room@|@tumpu (n)@
+@root@|@sinrit (n)@
+@rope@|@harakika (n)@
+@rope@|@tus (n)¹@
+@rope@|@harikika (n)@
+@rope@|@at (n)¹@
+@rope@|@atuhu (n)(g)(x)¹@
+@rope@|@atu (n)(g)(x)¹@
+@rope: coil of ~@|@ka-saye (n)@
+@rope: coil of ~@|@saye (n)@
+@rope: straw ~@|@kinatus (n)@
+@rosehip@|@maw (n)ª@
+@rough@|@ruy (adj)@
+@round@|@sikari (adj)@
+@round@|@ekay (adj)@
+@round about@|@ekay (adj)@
+@row (of things)@|@tura (n)@
+@rubus crataegifolius@|@yuk-emawri (n)@
+@rumble: low ~ noise@|@sas (n)²@
+@run@|@hoyuppa (vi)(p)@
+@run@|@hoyupu (vi)(s)@
+@run after@|@ikesampa (vt)@
+@run away@|@kira (vi)@
+@run away@|@saot (vt)@
+@run away: make ~@|@saotte (vt)@
+@rush [reed]@|@ki (n)³@
+@Russian@|@nuca-kuru (n)@
+@Russian@|@nuca (n)@
+@rustle@|@sasnu (vi)@
+@rustling sound@|@sas (n)²@
+@sacred part of Ainu hut@|@rorketa (n)@
+@sacred window@|@rorun-puyar (n)@
+@safe@|@pirka (adj)@
+@safe: be ~@|@pirka (vi)@
+@saga: traditional Ainu ~s@|@yukar (n)@
+@said@|@ye-hi (vi)@
+@said: be ~@|@ye-hi (vi)@
+@sail@|@kaya (n)@
+@Sakhalin surf clam@|@poki-sey (n)@
+@salix stipularis@|@yayay-susu (n)@
+@salmon@|@ciep (n)@
+@salmon@|@cep (n)@
+@salmon type@|@kenew (n)@
+@salmon: humpback ~@|@hemoy (n)@
+@salmon: pink ~@|@hemoy (n)@
+@salmon: red ~@|@urp (n)@
+@salmon: sea ~ (right before rivhemoy (n)@|@hemoy (n)@
+@salt@|@sippo (n)(ain-N)@
+@salt@|@ruru (n)²@
+@salt: flavorless ~@|@pan-sippo (n)@
+@salute@|@wekap (vi)@
+@sandle thong@|@keyrat (n)@
+@sap@|@pe (n)²@
+@sap@|@pehe (n)@
+@sap up@|@ninka (vt)@
+@sash: bag ~@|@at (n)²@
+@sash: bag ~@|@atuhu (n)(g)(x)²@
+@sash: bag ~@|@atu (n)(g)(x)²@
+@sash: sword ~@|@emus-at (n)@
+@satire@|@kewe (n)²@
+@sawn up@|@aca (vi)@
+@say@|@hawas (vt)@
+@say@|@itak (vi)@
+@say@|@haw (vi)@
+@say@|@hawki (vi)@
+@say@|@hawe-as (vt)@
+@say@|@ye (vt)@
+@say@|@hawasi (vt)@
+@say@|@hawe-an (vt)@
+@say hurrah@|@yayoparsecuy (vi)@
+@scab@|@cima (n)@
+@scabby@|@cima-o (adj)@
+@scabby@|@cima-us (adj)@
+@scabby head@|@kew-wen (adj)@
+@scald@|@yomomke (vi)@
+@scale: fish ~s@|@ramram (n)@
+@scale: snake ~s@|@ramram (n)@
+@scales@|@ipakarip (n)@
+@scales@|@cima (n)@
+@scarce@|@cimoyomoyo (adj)@
+@scatter by driving away@|@kewecari (vt)@
+@scent@|@sakusa (n)@
+@scirpus lacustris@|@katumki (n)@
+@sciurus lis@|@tusununke (n)@
+@sciurus lis@|@tusuninke (n)@
+@scold@|@koyki (vt)@
+@scold@|@caropente (vt)@
+@scoop@|@kaskep (n)@
+@scoop up@|@kasuy (vt)@
+@scoop up@|@kasiw (vt)²@
+@scoop up@|@kasu (vt)@
+@score [twenty]@|@hotne (adj)@
+@score [twenty]@|@hot (adj)@
+@scower@|@sirsiru (vt)@
+@scrophularia alata@|@katuwa (n)@
+@scrub@|@sirsiru (vt)@
+@scrubwood@|@has (n)@
+@scull@|@kanci (n)@
+@sculpin: great ~@|@cimakani (n)@
+@sculpin: Japanese fluvial ~@|@cimakani (n)@
+@sculpin: stone ~@|@sirat-cimakani (n)@
+@sea@|@acuy (n)@
+@sea@|@atuy-so (n)@
+@sea@|@ruru (n)²@
+@sea@|@atuy (n)@
+@sea@|@rep (n)¹@
+@sea diety@|@rep-un-kamuy (n)@
+@sea gull@|@yatuy (n)@
+@sea gull@|@yatu (n)@
+@sea otter@|@rakko (n)@
+@sea shore@|@ca (n)¹@
+@sea shore@|@sa (n)¹@
+@sea shore@|@sirar (n)¹@
+@sea snail@|@akam (n)³@
+@sea surface@|@atuy-ka (adv)@
+@sea urchin@|@nino (n)@
+@sea: out to ~@|@rep-un (adv)@
+@sea: over the ~@|@atuy-ka (adv)@
+@seal [animal]@|@tokkari (n)@
+@seal [animal]@|@tukoro (n)@
+@seal [animal]@|@tukkar (n)@
+@seal [animal]@|@tukar (n)@
+@seal: fur ~@|@unew (n)@
+@seal: large fur ~@|@onnep (n)@
+@sealion@|@etashpa (n)@
+@seaside@|@hoyasi (n)@
+@season@|@pa (n)¹@
+@season@|@paha (n)¹@
+@seat@|@aset (n)@
+@seaweed type@|@kompo (n)@
+@seaweed type@|@kompu (n)@
+@seaweed type@|@sas (n)³@
+@secret: keep ~@|@kasi-putu-unu (vt)@
+@secret: keep ~@|@esina (vt)@
+@secret: keep ~@|@esinakar (vi)@
+@sediment@|@rak (n)@
+@see@|@inkar (vi)@
+@see@|@nukar (vt)@
+@see each other@|@unukaran (vi)@
+@see each other@|@unukar (vt)@
+@seed@|@tane (n)@
+@seed@|@piye (n)@
+@self-@|@yay (pr)(pf)@
+@self-restraint: exercise ~@|@yayepatarye (vi)@
+@self: of one's ~@|@yay-an (adj)@
+@send@|@ytek (vi)@
+@send@|@arupare (vt)@
+@send@|@arpare (vt)@
+@send back@|@hosipire (vt)(s)@
+@send back@|@hosippare (vt)(p)@
+@send down@|@herasa (vt)@
+@send forth@|@atte (vt)¹@
+@senecio cannabifolius@|@yuk-kutu (n)@
+@September@|@nihorak-cup (n)@
+@set (as trap)@|@yokore (vt)@
+@set off@|@hepita (vi)@
+@set up@|@ews (vt)@
+@set up@|@asi (vt)@
+@set up@|@ewsi (vt)@
+@settle out (as sediment)@|@rakka (vi)@
+@settle out (as sediment)@|@rak (vi)²@
+@settle out (as sediment)@|@ratci (vi)(ain-CW)@
+@settle: anything ~d@|@esanniyop (n)@
+@settlement@|@kotan (n)@
+@seven@|@aruwan (n@
+@seven@|@aruwa (adj)@
+@seven@|@arwa (adj)@
+@seven@|@arwan (n)@
+@severe@|@yupke (adj)@
+@severe earthquake@|@yupke-sisuye (n)@
+@severe rain@|@yupke-ruyampe (n)@
+@severely@|@ari (adv)@
+@severely@|@yupke-no (adv)@
+@severily@|@ki (adv)@
+@shade@|@kuru (n)¹@
+@shade@|@sempirike (n)@
+@shadow@|@kuri (n)²@
+@shadow@|@kuru (n)¹@
+@shake@|@tuyetuye (vt)@
+@shake@|@simoye (vi)@
+@shake@|@sisuye (vi)@
+@shake dust off@|@tuyetuye (vt)@
+@shape@|@katu (n)(g)(x)@
+@shape@|@katuhu (n)(g)(x)@
+@shape@|@kat (n)@
+@shark@|@same (n)@
+@shave@|@raske (vt)@
+@shave@|@memke (vt)@
+@shaven@|@simemke (adj)@
+@she@|@ani (pr3)(s)@
+@sheath: knife ~@|@saya (n)@
+@sheath: sword ~@|@saya (n)@
+@sheep@|@hicuci (n)@
+@shelf@|@san (n)@
+@shell@|@sey (n)²@
+@shellfish@|@sey (n)²@
+@shine@|@tom (vi)@
+@shine@|@herrus (vi)@
+@shine@|@heri-at (vi)@
+@shine@|@herruste (vt)@
+@shine@|@herasnu (vi)@
+@shine@|@atte (vt)¹@
+@shine@|@herasnure (vt)@
+@shine@|@heri-atte (vt)@
+@shining@|@herherke (adj)@
+@ship@|@cip (n)@
+@shoe@|@ker (n)@
+@shoe@|@keyr (n)@
+@shoe lace@|@keyrat (n)@
+@shoot at@|@tukan (vt)@
+@shore@|@ya (n)¹@
+@shore@|@sirar (n)¹@
+@shore: sea ~@|@epis (n)@
+@shore: sea ~@|@sa (n)¹@
+@shore: sea ~@|@sirar (n)¹@
+@shore: sea ~@|@ca (n)¹@
+@shore: to the sea ~@|@herasi (adv)@
+@shore: towards the sea ~@|@episne (adv)@
+@short@|@takne (adj)@
+@short@|@tatne (adj)@
+@shoulder@|@takupi (n)@
+@shovel: snow ~@|@kaskep (n)@
+@shovel: snow ~@|@kaskep (n)@
+@shrink@|@yoni (vi)@
+@shrink@|@yompa (vi)@
+@shrink@|@yomi (vi)@
+@shrink up@|@yorkomne (vi) (vi)@
+@shurb@|@has (n)@
+@shut@|@cupu (vt)¹@
+@shut@|@cupu (vi)@
+@shut the door@|@apa-si (vi)@
+@shy@|@oray (vt)@
+@shy@|@oray (adj)²@
+@sick: be ~@|@tasumki (vi)@
+@sickness@|@tasum (n)@
+@side@|@peka (adv)³@
+@side@|@sam (n)@
+@sigh@|@yawyawse (vi)@
+@sight at@|@yonkoror (vt)@
+@sight at@|@yonkor (vt)@
+@silence@|@rampe (vt)@
+@simulate@|@ap-kor (vi)@
+@simulate@|@ape-kor (vi)@
+@sing@|@haw (vi)@
+@sing [bird]@|@cis (vi)@
+@sing a song@|@sinotca-ki (vt)@
+@single@|@sinep (n)@
+@sink@|@ren (vi)@
+@sink@|@rente (vt)@
+@sip hot water@|@ni (vt)²@
+@sip medicine@|@ni (vt)²@
+@sip soup@|@ni (vt)²@
+@sip tea@|@ni (vt)²@
+@sir@|@tono (n)@
+@sister: elder ~@|@sapo (n)@
+@sister: elder ~@|@saha (n)(g)(x)¹@
+@sister: elder ~@|@sa (n)²@
+@sister: younger ~@|@maciripe (n)@
+@sit@|@rok (vi)(p)@
+@sit@|@a (vi)(s)@
+@sit (as hen)@|@tumam (vi)@
+@six@|@iwampe (n)@
+@six@|@iwa (adj)@
+@six@|@iwanpe (n)@
+@six@|@iwan (n)@
+@six times@|@iwansuyne (adj)@
+@sixteen@|@iwanpe-ikasima-wanpe (adj)@
+@sixteen@|@iwampe-ikasima-wampe (adj)@
+@sixth@|@iwan-ikinne (adj)@
+@sixth@|@iwan-otutanu (adj)@
+@skate@|@kasumpe (n)@
+@skin@|@kapu (n)(g)(x)@
+@skin@|@kapuhu (n)(g)(x)@
+@skin@|@kapkar (vt)@
+@skin@|@kap (n)@
+@skin@|@uru (n)@
+@skin: dead ~@|@cima (n)@
+@skinned@|@ari (adj)²@
+@skull@|@onasi (n)@
+@sky@|@nis (n)@
+@sleet@|@konru (n)@
+@slight@|@pecan (adj)@
+@slope@|@sap (n)(p)@
+@slope@|@san (n)(s)@
+@slope: slight ~@|@muy (n)²@
+@sloven@|@katupase (adj)@
+@sloven@|@katu-toranne (adv)@
+@slow@|@hawke (vi)@
+@slow@|@ari (adj)¹@
+@slow@|@hawke (adj)@
+@slug@|@simayma (n)@
+@small@|@po (adj)@
+@small pox@|@turs (n)@
+@smaller@|@naa pon (adv)@
+@smallpox@|@pa (n)³@
+@smallpox@|@papa (n)@
+@smash@|@yakpa (vi)(p)@
+@smash@|@yaku (vi)@
+@smash@|@yak (vi)(s)@
+@smash@|@yakka (vt)@
+@smell@|@sakusa (n)@
+@smell of ST@|@rak (vi)³@
+@smelt: surf ~@|@susam (n)@
+@smoke (tobacco)@|@tampako ku (vt)@
+@smoke [tobacco]@|@ku (vt)@
+@smoke: emitted ~@|@paha (n)²@
+@smoke: emitted ~@|@pa (n)ª@
+@smoke: full of ~@|@sir-epaciw (adj)@
+@smoky@|@sir-epaciw (adj)@
+@snail: sea ~@|@akam (n)³@
+@snake@|@wempe-sani (n)@
+@snare made of string@|@kasinkop (n)@
+@snare: bird ~ type@|@kasinta (n)@
+@snarl@|@yawyawse (vi)@
+@sneeze@|@esna (vi)@
+@snore@|@etorki (vi)@
+@snow@|@upas (n)@
+@snow melt@|@pe (n)²@
+@snow melt@|@pehe (n)@
+@snowball viburnum@|@yarpe-ni (n)@
+@snowshoe@|@cinru (n)@
+@so@|@sekor (pn)@
+@so@|@tap (pr)@
+@so@|@tapan (adv)@
+@so@|@ene-ani (adv)@
+@so@|@ene (adv)@
+@so@|@ene-neyka (adv)@
+@so@|@ani (adv)¹@
+@so-so@|@ene-ene (adv)@
+@so: be ~@|@tapan (adv)@
+@so: thus ~@|@tapan (adv)@
+@soak through@|@epes (vi)@
+@sock@|@kerop (n)@
+@soft@|@hawke (vi)@
+@soft@|@hawke (adj)@
+@soft@|@pewan (adj)@
+@soil@|@toytoy (n)@
+@soil@|@toy (n)¹@
+@sole type@|@nina (n)²@
+@somehow@|@eneka (adj)@
+@someone else@|@anun (n)@
+@something done@|@an-i (n)²@
+@something which is@|@an-i (n)²@
+@son@|@okkaypoho (n)(g)(x)@
+@son@|@okkaypo (n)@
+@song@|@sinotca (n)@
+@song@|@haw (n)@
+@song: words of a ~@|@sinotca-ipe (n)@
+@sore@|@arka (vi)@
+@sore@|@araka (vi)@
+@sorrow@|@rorumpe (n)@
+@sorrowful@|@kewtum-rayne (adj)@
+@sorrowful@|@yayekatuwen (vi)@
+@soul@|@rama (n)@
+@soul@|@rama (n)(g)(x)@
+@soul@|@ramat (n)@
+@soul@|@ram (n)@
+@soul@|@ramu (n)@
+@sound@|@humi (n)@
+@sound@|@haw (vi)@
+@sound@|@humse (vi)@
+@sound@|@haw (n)@
+@sound@|@mayun-mayun (vi)@
+@sound@|@hum (n)@
+@sound: pleasing ~@|@mayun (adj)@
+@sound: ST ~s@|@as (vi)²@
+@soup: clear ~@|@ruru (n)¹@
+@soup: thick ~@|@sirar (n)²@
+@source@|@hepenki (vt)@
+@source@|@etok (n)@
+@sow@|@yupkir (vt)@
+@sow@|@iyama (vt)@
+@space@|@siran (adv)@
+@space@|@tuyka (n)@
+@space@|@sir-an (adv)@
+@space@|@sir (adv)²@
+@span@|@wo (n)²@
+@sparkle@|@tom (vi)@
+@sparkling@|@tom tom (vi)@
+@sparkling@|@tom (adj)@
+@speak@|@haw (vi)@
+@speak@|@hawki (vi)@
+@speak@|@hawe-as (vt)@
+@speak@|@itak (vi)@
+@speak@|@haw (vi)@
+@speak@|@hawe-an (vt)@
+@speak against@|@caropente (vt)@
+@speak nasally@|@emawkus (vi)@
+@speak through the nose@|@emawkus (vi)@
+@speak: eloquent ~er@|@caca (n)@
+@spear@|@op (n)²@
+@speech@|@yep (n)@
+@speech@|@itaki (n)(g)(x)@
+@speech@|@haw (n)@
+@speech@|@itak (n)@
+@speech@|@itakihi (n)(g)(x)@
+@speech@|@yepi (n)@
+@spider@|@yawsukep (n)@
+@spider@|@yattep (n)@
+@spider@|@yatep (n)@
+@spiknard@|@cima-kina (n)@
+@spirit@|@kamuy (n)(sf)@
+@spirit@|@ramat (n)@
+@spirit@|@ram (n)@
+@spirit@|@rama (n)(g)(x)@
+@spirit@|@rama (n)@
+@spirit@|@kamuy (n)@
+@spirit for unloading deer@|@yuk-ranke-kamuy (n)@
+@spit: roasting ~@|@cimakanit (n)@
+@splinter: wood ~s@|@ras (n)@
+@split@|@yakpa (vi)(p)@
+@split@|@yaku (vi)@
+@split@|@yak (vi)(s)@
+@split@|@nuyasa (vt)@
+@split@|@nuyaske (vi)@
+@split@|@yakka (vt)@
+@spoil@|@wente (vt)@
+@spoil@|@ewente (vt)@
+@spoken thing@|@yep (n)@
+@spoken thing@|@yepi (n)@
+@spook@|@oray (vt)@
+@spook@|@oray (adj)²@
+@spool@|@ka-sayep (n)@
+@spoon@|@kasu (n)@
+@spoon: wooden ~@|@nikasup (n)@
+@spot@|@kes (n)³@
+@spout@|@ecu (n)@
+@spout@|@etu (n)@
+@spout@|@etuhu (n)(g)(x)@
+@spray wood@|@caha (n)(g)(x)@
+@spray wood@|@ca (n)ª@
+@spread falsehood@|@yukoykire (vt)@
+@spread open@|@pirasa (vt)@
+@spread out@|@sa (vi)@
+@spread out@|@cin (vt)@
+@spread out@|@pira (adj)@
+@spread out flat@|@ca (vi)@
+@spread out skin to dry@|@cinkar (vt)@
+@spring [season]@|@paykaru (n)@
+@spring [season]@|@paykar (n)@
+@squid@|@passanna (n)@
+@squid@|@masitanpe (n)@
+@squirrel@|@niueo (n)@
+@squirrel@|@niweo (n)@
+@squirrel@|@tusununke (n)@
+@squirrel@|@tusuninke (n)@
+@stab@|@ewsi (vt)@
+@stale@|@husko (adj)@
+@stamina@|@omaw (n)²@
+@stamina@|@maw (n)²@
+@stand@|@as (vi)¹@
+@stand ST up@|@asi (vt)@
+@start at quickly@|@oray (vt)@
+@startle: quckly ~d@|@oray (adj)²@
+@state@|@sir (n)¹@
+@state@|@mawe (n)(g)(x)²@
+@state@|@omaw (n)³@
+@state@|@humi (n)@
+@state@|@maw (n)³@
+@state@|@hum (n)@
+@state@|@siri (n)(g)(x)¹@
+@steam: emitted ~@|@paha (n)²@
+@steam: emitted ~@|@pa (n)ª@
+@steep winding path@|@cis (n)@
+@stem: pipe ~@|@tumama (n)@
+@stem: pipe ~@|@tumam (n)@
+@step@|@oterke (vt)@
+@step@|@cinika (n)@
+@step@|@otetterke (vt)@
+@stew pot@|@sayo-sû (n)@
+@stew: vegetable ~@|@sayo (n)@
+@stick@|@ewsi (vt)@
+@stick in@|@ewn (adj)@
+@stick in@|@aciw (vt)@
+@stick into@|@ews (vt)@
+@stick into@|@ewsi (vt)@
+@stick on@|@ewsi (vt)@
+@stick on@|@ews (vt)@
+@stickleback@|@rokom (n)²@
+@stiff@|@sirar (adj)@
+@stir up@|@yoruki-puni (vt)@
+@stirfry: vegetable ~@|@rataskep (n)²@
+@stitch@|@ninninu (vt)@
+@stocking@|@kerop (n)@
+@stomach@|@tuy (n)²@
+@stomach@|@honi (n)(g)(x)@
+@stomach@|@honihi (n)(g)(x)@
+@stomach@|@hon (n)@
+@stomach@|@oske (n)@
+@stomach ache@|@honi arka (n)@
+@stomach worm@|@tuy-kikir (n)@
+@stone@|@suma (n)@
+@stone: very large ~@|@sirar (n)²@
+@stool@|@aset (n)@
+@stoop down@|@hotku (vi)@
+@stop@|@simakoraypa (vi)(p)@
+@stop@|@simakoray (vi)(s)@
+@stopper@|@caruspe (n)@
+@storehouse@|@pu (n)@
+@storehouse@|@puhu (n)(g)(x)@
+@storehouse@|@puy (n)¹@
+@stores@|@haru (n)@
+@storm@|@ruyampe (n)@
+@storm@|@apto (n)@
+@storm: thunder~@|@apto (n)@
+@storm: wind ~@|@tasuy (n)@
+@story@|@uwenewsar (n)@
+@strain@|@tuyka (vt)@
+@strain@|@inumpa (vt)@
+@strange langauge@|@anun-itak (n)@
+@stranger@|@anun (n)@
+@straw@|@wattes (n)@
+@strawberry@|@emawri (n)@
+@stream@|@nay (n)@
+@stregth@|@tum (n)@
+@strength@|@maw (n)²@
+@strength@|@tumu (n)¹@
+@strength@|@cimontum (n)@
+@strength@|@kewor (n)@
+@strength@|@omaw (n)²@
+@strengthen@|@yupker (vt)@
+@strengthless@|@kewor-sak (adj)@
+@strenth@|@kaskamuy (n)@
+@stretch (out)@|@turi (vt)@
+@stretch (out)@|@nini (vt)@
+@stretch (out)@|@tur (vt)@
+@stretch out@|@cin (vt)@
+@stretch out@|@ni (vi)@
+@strife: stir up ~@|@yukoykire (vt)@
+@strike@|@kikkik (vt)@
+@strike@|@kik (vt)@
+@strike@|@koyki (vt)@
+@string@|@niwto (n)@
+@string@|@at (n)¹@
+@string@|@atuhu (n)(g)(x)¹@
+@string@|@atu (n)(g)(x)¹@
+@string beads@|@tama saye (vt)@
+@string: coil of ~@|@ka-saye (n)@
+@strip off the bark@|@kapkar (vt)@
+@stripe@|@kes (n)³@
+@striped@|@heraske (adj)@
+@strong@|@tum-o (adj)@
+@strong@|@ruy (adj)@
+@strong@|@yupke (adj)@
+@strong@|@tum-no (adj)@
+@strong language@|@yupke-itak (n)@
+@strong words@|@yupke-itak (n)@
+@strongly@|@yupke-no (adv)@
+@study (noun)@|@kampi (n)@
+@sturgeon@|@yupe (n)@
+@subject@|@ap (n)²@
+@subject@|@ampe (n)¹@
+@such@|@ene (adv)@
+@such@|@tapan (adv)@
+@such as@|@pakno (adv)@
+@such that@|@ene (adv)@
+@suck@|@nun (vt)@
+@suck@|@nunnun (vt)@
+@suck@|@nunnu (vt)@
+@suck the lip@|@caro-nunnun (vt)@
+@suet@|@ramor (n)@
+@sufficient@|@pirka (adj)@
+@sufficient: be ~@|@pirka (vi)@
+@suffiecient@|@pakno (adv)@
+@sulk@|@hepututu (vi)@
+@sulphur spring@|@yu (n)@
+@summer@|@sak (n)@
+@summer@|@sak-pa (n)@
+@summer time@|@sak-pa (n)@
+@summer: during ~@|@sak-pa (n)@
+@summit@|@kitay (n)@
+@sun@|@cup-kamuy (n)@
+@sun@|@cup (n)@
+@sunfish@|@kinanpo (n)@
+@sunfish@|@kinapo (n)@
+@sunset@|@tokes (adv)@
+@sunshine@|@sukus (n)@
+@superior: give to ~@|@yapte (vt)(p)@
+@superior: give to ~@|@yanke (vt)(s)@
+@sure@|@pirka (adj)@
+@sure: be ~@|@pirka (vi)@
+@surf@|@was (n)@
+@surf smelt@|@susam (n)@
+@surface@|@he (adv)¹@
+@surface@|@nanu (n)(g)(x)@
+@surface@|@nanuhu (n)(g)(x)@
+@surface@|@nan (n)@
+@surpass@|@kaspa (adv)@
+@surprise: be ~d@|@yaynumare (vi)@
+@suspend@|@atte (vt)²@
+@suspend@|@herasi-ratkire (vt)@
+@suspend@|@herasi-ratki (vi)@
+@suspend: be ~ed@|@ratki (vi)@
+@suspended@|@ratcitke (adj)@
+@swamp@|@pip (n)@
+@swamp@|@mem (n)@
+@swamp@|@pipok (n)@
+@swampy@|@pipo (adj)@
+@swan@|@retatcir (n)@
+@sweat@|@poppe (n)@
+@sweat@|@poppe nu (vi)@
+@swift@|@tus (adj)@
+@swift@|@sir (adj)@
+@swim@|@ma (vi)@
+@sword@|@emus (n)@
+@sword@|@tam (n)@
+@sword@|@emusi (n)(g)(x)@
+@sword blade@|@emus-ipe (n)@
+@sword guard@|@tumpa (n)@
+@sword hilt@|@emus-nip (n)@
+@sword sash@|@emus-at (n)@
+@sword sheath@|@saya (n)@
+@tact@|@katu (n)(g)(x)@
+@tact@|@katuhu (n)(g)(x)@
+@tact@|@kat (n)@
+@tail@|@saraha (n)(g)(x)@
+@tail@|@sara (n)(g)(x)@
+@tail@|@sar (n)@
+@tail: having a ~@|@sar-us (adj)@
+@tail: sea lion ~@|@ora (n)@
+@tailed@|@sar-us (adj)@
+@take (in hands)@|@ani (vt)@
+@take as company@|@tura (vt)@
+@take care@|@kasikewe (vt)@
+@takydromus tachydromoides@|@haram (n)@
+@tale: ancient ~s@|@uwenewsar (n)@
+@talkative@|@pake ruy (adj)@
+@tanuki@|@moyuk (n)@
+@taralichitiys clioaceus@|@nina-cep (n)@
+@tardy@|@ari (adj)¹@
+@target@|@yoko (vt)@
+@tassle@|@tumsi (n)@
+@taste@|@maw (n)²@
+@taste@|@omaw (n)²@
+@taste@|@mawe (n)(g)(x)²@
+@taste@|@kera (n)@
+@taste@|@omaw (n)³@
+@taste@|@maw (n)³@
+@tattoo@|@sinuye (vt)@
+@tattoo@|@nuye (vt)@
+@tattoo@|@unuypa (vt)@
+@tattoo@|@unuye (vt)@
+@tax@|@yaku (n)@
+@tea@|@ca (n)º@
+@teach@|@epakanu (vt)@
+@teaching@|@epakasi (n)@
+@tear [rip]@|@yaspa (vt)(p)@
+@tear [rip]@|@yasa (vt)(s)@
+@teeth: front ~@|@esaw (n)@
+@tell@|@hawe-an (vt)@
+@tell@|@hawe-as (vt)@
+@tell@|@hawasi (vt)@
+@tell@|@itak (vi)@
+@tell@|@hawas (vt)@
+@ten@|@wa (adj)@
+@ten@|@wan (n)@
+@ten@|@wanpe (n)@
+@ten@|@wampe (n)@
+@tetragnatha@|@ami-tanne (n)@
+@tetragnatha@|@ami-tanne-ya-oskep (n)@
+@than@|@kasu-no (adv)@
+@thank@|@yaerayke-ki (vt)@
+@thank you@|@yaerayke (adv)(pc)@
+@thank you@|@yaerayker (adv)(pc)@
+@thank: express ~s@|@yaerayke-ki (vt)@
+@thankful: be ~@|@yaerayke-an (vi)@
+@that@|@yak (pop)@
+@that (demonstrative)@|@toan (pn)@
+@that kind of thing@|@sekor-ampe (pn)@
+@that manner@|@ene (adv)@
+@that which@|@pakno (adv)@
+@that which is@|@sekor-ampe (pn)@
+@that which is called…@|@sekor-ampe (pn)@
+@that which…@|@sekor (pn)@
+@their@|@kora (pr)(g)@
+@their@|@kon (pr)(g)@
+@their@|@kor (pr)(g)@
+@themself: be by ~es@|@sinnay (vi)@
+@then@|@ani (adv)²@
+@then@|@tata-otta (adv)@
+@theragra chalcogramma@|@herekusi-kewsut (n)@
+@thick@|@sirar (adj)@
+@thick@|@pet (adj)@
+@thick@|@rue (adj)@
+@thin@|@pecan (adj)@
+@thing@|@pe (n)¹@
+@thing@|@ap (n)²@
+@thing@|@ampe (n)¹@
+@thing: new ~@|@asir pe (n)@
+@think@|@yaynu (vi)@
+@think@|@ramu (vi)@
+@this@|@tata (adj)@
+@this@|@tap (pr)@
+@this [demonstrative]@|@tan (pr)@
+@this [demonstrative]@|@tam (pr)@
+@this here@|@sekor (pn)@
+@this kind@|@tapan (adv)@
+@this manner@|@ene (adv)@
+@this moment@|@tap (pr)@
+@this place@|@tapan-ta (adv)@
+@this thing@|@tap-ampe (n)@
+@this way@|@etampa (adv)@
+@this way@|@eteun (adv)@
+@this year@|@tanpa (adv)@
+@this year@|@tampa (adv)@
+@thorn: plant ~@|@ay (n)²@
+@though@|@yakun (+)@
+@though@|@akka (pop)@
+@though@|@yakkay (pop)@
+@though@|@yakka (pop)@
+@though@|@korkay (pop)@
+@though@|@korka (pop)@
+@thought@|@ramu (n)@
+@thought@|@yaynup (n)@
+@thread@|@niwto (n)@
+@thread chestnuts@|@yam-saye (vt)@
+@three@|@re (adj)@
+@three persons@|@ren (n)@
+@three things@|@rep (n)²@
+@thresher shark@|@tumutot-un-same (n)@
+@throat@|@rekut (n)@
+@throat@|@rekuci (n)(g)(x)@
+@through@|@ekari (pop)@
+@through@|@okari (pop)@
+@through@|@kari (pop)@
+@throw@|@eyapkir (vt)@
+@thunder@|@kamuy-tur-humse-hum (n)@
+@thunder@|@kamuy-hum (n)@
+@thunderstorm@|@apto (n)@
+@thus@|@tapan (adv)@
+@thus@|@ene-neyka (adv)@
+@thus@|@tap (pr)@
+@thus@|@sekor (pn)@
+@thus@|@ene (adv)@
+@thus@|@ene-ani (adv)@
+@thus so@|@tapan (adv)@
+@tick [bug]@|@yukki (n)@
+@tide@|@sirar (n)³@
+@tidy@|@katupirka (adj)@
+@tidy a room@|@tumpu-kar (vt)@
+@tie@|@muy (vt)@
+@tie together@|@uwekote (vt)@
+@tight@|@hutne (adj)@
+@time@|@sir (adv)²@
+@time passes@|@siran (adv)@
+@time passes@|@sir-an (adv)@
+@time: at one ~@|@sine-anta (adv)@
+@time: once upon a ~@|@sine-anta (adv)@
+@tinderbox@|@pas-op (n)@
+@tired@|@yottek (adj)@
+@toasted@|@cima (adj)@
+@tobacco@|@tampako (n)@
+@tobacco box@|@tampako-op (n)@
+@tobacco pouch@|@tampako-op (n)@
+@today@|@tanto (adv)@
+@today@|@tante (adv)@
+@toe@|@asikipet (n)@
+@toe@|@asikepet (n)@
+@toilet@|@asinru (n)@
+@tomorrow@|@simma (adv)@
+@tomorrow@|@sima (adv)@
+@tomorrow@|@sim (adv)@
+@tongue@|@parumpe (n)@
+@tongue@|@carumpe (n)@
+@too@|@naa (adv)@
+@too much@|@kaspa (adv)@
+@too much@|@kasu-no (adv)@
+@top@|@etok (n)@
+@top@|@kitay (n)@
+@top [spinner]@|@tumu (n)²@
+@top: mountain ~@|@tapka (n)@
+@top: on ~@|@kata (adv)@
+@top: single hill with round ~@|@tap (n)@
+@tops@|@kitayke (n)@
+@tops: on the ~@|@kitayketa (adv)@
+@torn@|@tuy (adj)@
+@torn@|@tuytek (adj)@
+@torso@|@tumam (n)@
+@torso@|@tumama (n)@
+@toss@|@eyapkir (vt)@
+@toward@|@he (adv)¹@
+@toward@|@peka (adv)²@
+@towards river source@|@epes (adv)@
+@town@|@kotan (n)@
+@track: deer ~@|@yuk-apir (n)@
+@tradition@|@yukar (n)@
+@trample@|@otetterke (vt)@
+@trample@|@oterke (vt)@
+@trap@|@hepita-ni (n)@
+@trap spring of wood@|@hepita-ni (n)@
+@tread@|@saye (vt)@
+@treasure@|@kaskamuy (n)@
+@tree@|@ni (n)@
+@tree leaves@|@ni-hamu (n)@
+@tree: clump of ~s@|@hastay (n)@
+@tree: corpse of small ~s@|@hasop (n)@
+@tributary: river ~@|@ay (n)³@
+@tribute@|@yaku (n)@
+@trillium@|@retar-kina-amawri (n)@
+@trimmed@|@cinoye (adj)@
+@trollius patulus@|@katam (n)@
+@trough@|@kitci (n)@
+@trout type@|@kenew (n)@
+@trout: sea ~@|@hemoy (n)@
+@true@|@sonno-an (adj)@
+@true@|@son (adj)@
+@truly@|@sinankus (adv)@
+@truly@|@ampe (adv)@
+@truly@|@sone (adv)@
+@truly@|@sonno (adv)@
+@truly: it is ~ so@|@sone (adv)@
+@trunk: tree ~@|@tumama (n)@
+@trunk: tree ~@|@tumam (n)@
+@truth@|@son-ampe (n)@
+@truth: in ~@|@sinankus (adv)@
+@truth: in ~@|@sone (adv)@
+@tube@|@cir (n)²@
+@tube@|@pecir (n)@
+@tube@|@popay (n)@
+@tune@|@ekaye (n)@
+@tune@|@kutkayekay (n)@
+@tune@|@sinotcarewe (n)@
+@tune@|@kaye (n)@
+@turn back (as cloth)@|@cupu (vt)²@
+@turn upside down@|@tuyehewa-cikannari (vt)@
+@turns in a path@|@tursittok (n)@
+@turtle@|@hecinke (n)@
+@twenty@|@hotne (adj)@
+@twenty@|@hot (adj)@
+@twice@|@tu-ray (adj)@
+@twig@|@ca (n)ª@
+@twig@|@caha (n)(g)(x)@
+@twilight: during ~@|@onuman (adv)@
+@twilight: during ~@|@sironuman (adv)@
+@twilight: during ~@|@sir-onuman (adv)@
+@twinkle@|@tom (vi)@
+@twinkling@|@tom tom (vi)@
+@twist@|@eka (vt)@
+@twist@|@sinoye (vi)@
+@twisted@|@cinoye (adj)@
+@twisted@|@sinoye (adj)@
+@twisted thing@|@komkep (n)@
+@twitching of nerves@|@roronke (n)@
+@two@|@tu (adj)@
+@two days ago@|@hoski numan (adv)@
+@two people@|@etun (n)@
+@two people@|@tun (n)@
+@umbrella@|@kasa (n)@
+@unable@|@hawke (vi)@
+@unable@|@hawke (adj)@
+@uncle@|@acipo (n)@
+@uncle@|@kewsut (n)@
+@uncle@|@aca (n)@
+@uncle@|@kewsut (adj)@
+@uncle@|@acapo (n)@
+@unclean@|@acika (adj)@
+@uncooked@|@hu (adj)@
+@understand@|@ramu (vi)@
+@understand@|@eraman (vt)@
+@understand@|@wante (vi)@
+@understand@|@anu (vt)¹@
+@understand: don't ~@|@erampetek (vi)@
+@understand: don't ~@|@erampewtek (vi)@
+@understanding@|@rama (n)(g)(x)@
+@understanding@|@ram (n)@
+@understood@|@eramante (vt)@
+@underwood@|@has (n)@
+@underwood@|@caha (n)(g)(x)@
+@underwood@|@ca (n)ª@
+@unfinished@|@epikot (adv)@
+@unfortunate@|@wen (adj)@
+@universal custom@|@puri: sir-~ (n)@
+@until@|@pakno (adv)@
+@until now@|@tane pakno (adv)@
+@unwise@|@yayasap (adj)@
+@up: go ~@|@turasi (vt)@
+@up: haul ~@|@yanke (vt)(s)@
+@up: haul ~@|@yapte (vt)(p)@
+@up: look ~@|@hepuni (vi)@
+@up: offer ~ to diety@|@yanke (vt)(s)@
+@up: offer ~ to diety@|@yapte (vt)(p)@
+@up: pull ~@|@yapte (vt)(p)@
+@up: pull ~@|@yanke (vt)(s)@
+@up: turn eyes ~ward@|@hepuni (vi)@
+@upon@|@tuykata (adv)@
+@upon@|@kasi (pop)@
+@upon@|@kasiketa (adv)@
+@upon@|@kata (adv)@
+@upon this@|@tata-otta (adv)@
+@upriver@|@heperay (adv)@
+@upriver@|@hepera (adv)@
+@upstream@|@heperay (adv)@
+@upstream@|@hepera (adv)@
+@urgingly@|@ki (adv)@
+@urinate@|@yaycinane (vi)@
+@use@|@raka-an (adj)@
+@use@|@ytek (vi)@
+@useful@|@raka-an (adj)@
+@usefulness@|@raka (n)@
+@useless@|@raka-sak (adj)@
+@useless@|@raka-isam (adj)@
+@utmost limit@|@pakno (adv)@
+@utter@|@haw (vi)@
+@utterance@|@haw (n)@
+@vagina@|@samampe (n)[slang]@
+@vagina@|@ho (n)@
+@vagina@|@acike (n)@
+@valley (w/ marsh/stream)@|@nay (n)@
+@valued@|@onne (adj)@
+@vary@|@nin (vt)@
+@vat: wine ~@|@tonoto konka (n)@
+@vegetable@|@rataskep (n)¹@
+@vegetable stirfry@|@rataskep (n)²@
+@vegetables@|@haru (n)@
+@vengeance: take ~ on@|@yayemontasa (vt)@
+@venison@|@yuk-haru (n)@
+@vertebrae@|@motot (n)@
+@very@|@sir (adj)@
+@very@|@toy (adj)@
+@very@|@or (adv)@
+@very@|@orawke (adj)@
+@very@|@yukke (adj)@
+@very dreadful@|@emawanu (adj)@
+@very much@|@sonno (adv)@
+@vesel@|@op (n)¹@
+@vessel@|@itanki (n)@
+@viburnum opulus@|@yarpe-ni (n)@
+@viburnum: snowball ~@|@yarpe-ni (n)@
+@vigour@|@omaw (n)²@
+@vigour@|@maw (n)²@
+@village@|@kotan (n)@
+@village: home ~@|@hepenki-kotan (n)@
+@villain@|@wempe (n)@
+@villain@|@wenpe-kur (n)@
+@villain@|@wempe-kur (n)@
+@viscum album@|@niharu (n)@
+@visit@|@uweman (vt)@
+@vocalisation@|@haw (n)@
+@vocalise@|@haw (vi)@
+@voice@|@haw (vi)@
+@voice@|@haw (n)@
+@voice@|@itak (vi)@
+@voice@|@itakihi (n)(g)(x)@
+@voice@|@itaki (n)(g)(x)@
+@voice@|@itak (n)@
+@voice: direction of ~@|@haw-sut (adv)@
+@voice: make noise with ~@|@royse (vi)@
+@vulgar@|@momko (adj)@
+@vulgar talk@|@momok-itak (n)@
+@wade through@|@kasuy (vt)@
+@wade through@|@kasiw (vt)²@
+@wade through@|@kasu (vt)@
+@wail@|@uwen (vi)@
+@waist@|@tumama (n)@
+@waist@|@tumam (n)@
+@wait@|@yoko (vi)@
+@wakame [seaweed type]@|@wôkom (n)@
+@wall: house ~@|@tumam (n)@
+@wall: house ~@|@tumama (n)@
+@walleye pollock@|@herekusi-kewsut (n)@
+@walnut@|@ninum (n)@
+@wander about@|@ekari (vi)@
+@war@|@ukoyki-ampe (n)@
+@war@|@tumi (n)@
+@war@|@rorumpe (n)@
+@war: engage in ~@|@tumikoro (vt)@
+@ward off@|@yay-asis (vt)@
+@warehouse@|@puy (n)¹@
+@warehouse@|@pu (n)@
+@warehouse@|@puhu (n)(g)(x)@
+@warn@|@yomne-ki (vt)@
+@warn@|@yomne (vt)@
+@waste: lay ~@|@wentek (vt)@
+@watch for@|@yonkoror (vt)@
+@watch for@|@yonkor (vt)@
+@water@|@na (n)@
+@water@|@pet (n)³@
+@water@|@pe (n)²@
+@water@|@aka (n)@
+@water@|@pehe (n)@
+@water [esp. clean/potable]@|@wakka (n)@
+@water bucket@|@wakka-ontar (n)@
+@water closet@|@ru (n)ª@
+@water closet@|@asinru (n)@
+@water conductor@|@pecir (n)@
+@water conduit@|@cir (n)²@
+@water conduit@|@pecir (n)@
+@water fowls@|@ma cikap (n)@
+@water: cold ~@|@yammakka (n)@
+@water: cold ~@|@yam-wakka (n)@
+@water: cold mineral ~@|@yu-pe (n)@
+@water: discoloured ~@|@yepe (n)@
+@water: fatty ~@|@yepe (n)@
+@water: fresh ~@|@pan-wakka (n)@
+@water: make ~@|@yaycinane (vi)@
+@water: non-potable ~@|@pe (n)²@
+@water: non-potable ~@|@pehe (n)@
+@water: sprayed ~@|@paha (n)²@
+@water: sprayed ~@|@pa (n)ª@
+@water: sulphur ~@|@yu-pe (n)@
+@water: thick ~@|@pehe (n)@
+@water: thick ~@|@pe (n)²@
+@waterfall@|@so (n)¹@
+@watery@|@wene (adj)@
+@wave@|@sisuye (vi)@
+@wave: sea ~@|@ruyampe (n)@
+@way@|@ru (n)²@
+@way@|@kat (n)@
+@way@|@katu (n)(g)(x)@
+@way@|@katuhu (n)(g)(x)@
+@way: in that ~@|@ene-neyka (adv)@
+@we@|@aoka (pr2)(1)@
+@we@|@anokay (pr2)(1)@
+@we@|@aokay (pr2)(1)@
+@weak@|@rene (adj)@
+@weak@|@kewor-sak (adj)@
+@weak@|@pewan (adj)@
+@weak@|@hawke (adj)@
+@weak@|@hawke (vi)@
+@weak@|@apte (adj)@
+@weak@|@pan (adj)¹@
+@weather@|@sir (n)³@
+@weather@|@sukus (n)@
+@weather: fine ~@|@sir-pirka (n)@
+@weather: hot ~@|@sir-popke (n)@
+@weather: warm ~@|@sir-popke (n)@
+@weave@|@oske (vt)@
+@weep@|@cis (vi)@
+@weep together for the dead@|@uwen (vi)@
+@weights@|@ipakarip (n)@
+@welcome@|@ewomare (vt)@
+@well@|@pirka (adj)@
+@well [very]@|@sir (adj)@
+@well [water source]@|@simpuy (n)@
+@well: be ~@|@pirka (vi)@
+@wen@|@nin (n)¹@
+@wet@|@teyne (adj)@
+@wet place@|@pecir (n)@
+@wet place@|@cir (n)²@
+@wet through@|@pecinne (adj)@
+@wetland@|@pipok (n)@
+@whale@|@humpe (n)@
+@whale (n)@|@rep-un-kamuy (n)(ain-CS)@
+@whale fat@|@humpe-ki (n)@
+@whale: killer ~@|@rep-un-kamuy (n)@
+@what@|@he (adv)²@
+@what@|@ene (adv)@
+@wheat@|@amama (n)@
+@wheat@|@amam (n)@
+@wheel@|@sikarip (n)@
+@when@|@ani (adv)²@
+@when@|@yakun (+)@
+@when?@|@henpara (adv)@
+@whether@|@ya (pop)@
+@whetstone@|@ruy (n)²@
+@which@|@sekor (pn)@
+@which?@|@inampe (adj)@
+@while@|@turasi (adv)@
+@whiles@|@siran (adv)@
+@whiles@|@sir-an (adv)@
+@whilst@|@tuykata (adv)@
+@whisker@|@reki (n)(g)(x)@
+@whisker@|@rek (n)@
+@white@|@retartom (adj)@
+@white@|@retar (adj)@
+@white frost@|@kuruppe (n)@
+@white hair@|@retarpe (n)@
+@white thing@|@retarpe (n)@
+@white thing@|@retar-ampe (n)@
+@whiteness@|@retar-ampe (n)@
+@whiteness@|@retar-i (n)@
+@Whites@|@retarpe (n)@
+@who@|@sekor (pn)@
+@whole@|@ramne (adj)@
+@whole@|@emukne (adj)@
+@whole thing@|@ramnep (n)@
+@wholly@|@emukne-no (adv)@
+@wife@|@maci (n)@
+@wife: fellow ~ of main wife@|@tus (n)²@
+@wild@|@yupke (adj)@
+@wild@|@tum-no (adj)@
+@wildly@|@yupke-no (adv)@
+@will@|@kewtum (n)@
+@willow type@|@rampar (n)@
+@wind@|@maw (n)¹@
+@wind@|@omaw (n)¹@
+@wind@|@mawe (n)(g)(x)¹@
+@wind [breeze]@|@rera (n)@
+@wind diety@|@rera-kamuy (n)@
+@wind storm@|@tasuy (n)@
+@wind up@|@sinoye (vi)@
+@wind up@|@sinoye (adj)@
+@wind: east ~@|@menas (n)@
+@wind: hot ~@|@sesek-maw (n)¹@
+@winding@|@sikari (adj)@
+@window: east ~@|@rorun-puyar (n)@
+@window: sacred ~@|@rorun-puyar (n)@
+@wine@|@tonoto (n)@
+@wine@|@sake (n)@
+@wine vat@|@tonoto konka (n)@
+@wing@|@rap (n)@
+@wing: bird's ~@|@cikap-kanci (n)@
+@wing: eagle's ~@|@sirap (n)@
+@winnow@|@tuyetuye (vt)@
+@winnow@|@muy (n)³@
+@wisdom@|@waya (n)@
+@wisdom@|@yaya (n)@
+@wisdom: with ~@|@eraman-no (adv)@
+@wise@|@ramu-an (adj)@
+@wise@|@yayasnu (adj)@
+@wisely@|@eraman-no (adv)@
+@with@|@tura (pop)@
+@with@|@ani (pc)²@
+@with@|@ari (pop)@
+@with force@|@ari (adv)@
+@with: be ~@|@tura-an (vi)@
+@without@|@sak (adv)@
+@without@|@sakno (adv)@
+@without@|@soyke (adv)@
+@without@|@sak (adj)@
+@wolf@|@wose-kamuy (n)@
+@woman: middle-aged ~@|@unarpe (n)@
+@woman: old ~@|@huci (n)²@
+@womb@|@tumpu (n)@
+@wood@|@ni (n)@
+@wood: fire~@|@ape-ni (n)²@
+@wood: fire~@|@ape-cikuni (n)@
+@wood: spray ~@|@caha (n)(g)(x)@
+@wood: spray ~@|@ca (n)ª@
+@wood: under~@|@ca (n)ª@
+@wood: under~@|@caha (n)(g)(x)@
+@wooden spoon@|@nikasup (n)@
+@woods@|@hastay (n)@
+@woods@|@nitay (n)@
+@wool@|@wata (n)@
+@word@|@itaki (n)(g)(x)@
+@word@|@itak (n)@
+@word@|@itakihi (n)(g)(x)@
+@word: harsh ~@|@yupke-itak (n)@
+@word: strong ~@|@yupke-itak (n)@
+@words of a song@|@sinotca-ipe (n)@
+@worm@|@kikir (n)@
+@worm: earth~@|@tonin (n)@
+@worm: earth~@|@toymok (n)@
+@worm: grub ~@|@namsu (n)@
+@worm: grub ~@|@namsun (n)@
+@worm: stomach ~@|@tuy-kikir (n)@
+@woven: anything ~@|@atesep (n)@
+@wrinkle@|@yomiyomik (vi)@
+@wrinkle@|@yomikyomikte (vt)@
+@wrinkled@|@yomiyomik (adj)@
+@write@|@kampi-nuye (vt)@
+@write@|@nuye (vt)@
+@write a letter@|@kampi-nuye (vt)@
+@write an entry@|@kampi-nuye (vt)@
+@write: cause to ~@|@nuyere (vt)@
+@writing tablet@|@nuye-ita (n)@
+@yawn@|@mawsok (vi)@
+@year@|@paha (n)¹@
+@year@|@pa (n)¹@
+@year: (~) before last@|@hoski sakne (adv)@
+@year: last ~@|@sakne pa (adv)@
+@year: new ~@|@asir pa (n)@
+@yes@|@e (adv)@
+@yesterday@|@numan (adv)@
+@yesterday@|@numani (adv)@
+@yesterday: day before ~@|@hoski numan (adv)@
+@yet@|@naa (adv)@
+@yet again@|@suy (adv)@
+@you (p)@|@aoka (pr2)@
+@you (p)@|@anokay (pr2)@
+@you (p)@|@aokay (pr2)@
+@you (s)@|@aokay (pr2)@
+@you (s)@|@aoka (pr2)@
+@you (s)@|@anokay (pr2)@
+@you yourself@|@aokay-yaykota (pr2)@
+@young@|@ram (adv)@
+@young@|@pewre (adj)@
+@young fish@|@ceppo (n)@
+@your@|@kora (pr)(g)@
+@your@|@kor (pr)(g)@
+@your@|@kon (pr)(g)@
+

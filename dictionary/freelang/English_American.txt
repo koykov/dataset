@@ -1,0 +1,294 @@
+@English@|@American@
+@Author name@|@Freelang@
+@Font@|@Arial\12\Arial\12@
+@actions stations@|@battle stations@
+@Advertisment@|@Commercial@
+@aerial@|@antenna@
+@Aeroplane@|@Airplane@
+@Afters@|@Dessert@
+@Aluminium@|@Aluminum@
+@anaesthesia@|@anesthesia@
+@Archaeology@|@Archeology@
+@Aubergine@|@Eggplant@
+@bandstand@|@bandshell@
+@banger@|@jalopy, junker, klunker@
+@Bap@|@Hamburger Bun@
+@Barrister@|@Lawyer@
+@bath@|@bathtub@
+@bicarbonate of soda@|@baking soda@
+@Bin@|@Trash Can@
+@Biscuit@|@Cookie@
+@black pudding@|@blood sausage@
+@blinkers@|@blinders@
+@bonnet@|@hood(car)@
+@Bonnet@|@Hood (car)@
+@Boot@|@Trunk (car)@
+@borough@|@boro@
+@Brace@|@Braces (for teeth)@
+@Braces@|@Suspenders@
+@Briton@|@Brit@
+@Brolly@|@Umbrella@
+@Bungalow@|@House (one story)@
+@Butty@|@Sandwich@
+@bye law@|@bylaw@
+@Cackhanded@|@Clumsy@
+@Candy Floss@|@Cotton Candy@
+@canteen@|@cafeteria@
+@car@|@auto, automobile@
+@Car Park@|@Parking Lot@
+@caravan@|@trailer@
+@Caravan@|@Trailor@
+@Carnival@|@Parade@
+@carriage@|@car(railwroad)@
+@Carriageway@|@Freeway (Expressway)@
+@Cashier@|@Bank Teller@
+@cashpoint@|@automatic telle machine(ATM)@
+@Casualty@|@Emergency Room@
+@Catalogue@|@Catalog@
+@cattle grid@|@cattle guard@
+@centre@|@center@
+@Chat Show@|@Talk Show@
+@Chemist@|@Drugstore, Pharmacist@
+@cheque@|@check@
+@chest of drawers@|@bureau@
+@Cinema@|@Movie Theater@
+@circular road@|@beltway, loop@
+@Clingfilm@|@Plastic Wrap@
+@closing down@|@closing out@
+@clothes peg@|@clothes pin@
+@coach@|@bus@
+@Cocktail Stick@|@Toothpick@
+@Colour@|@Color@
+@convoy@|@caravan@
+@Cooker@|@Oven@
+@corpse@|@cadaver@
+@Cot@|@Crib@
+@Courgette@|@Zucchini@
+@Crisps@|@Chips@
+@crossing@|@Xing(road)@
+@crossroad@|@intersection@
+@current account@|@checking account@
+@Dear@|@Expensive@
+@defence@|@defense@
+@dialling code@|@area code@
+@dialling tone@|@dial tone@
+@dialogue@|@dialog@
+@Dinner Jacket@|@Tuxedo@
+@directory inquiries(phones)@|@information@
+@diversion@|@detour@
+@doughnut@|@donut@
+@draught@|@draft@
+@Draughts@|@Checkers@
+@Drawing Pin@|@Thumb Tack@
+@dressing gown@|@bathrobe@
+@Dressing Gown@|@Robe@
+@dual carriageway@|@divided highway@
+@Dummy@|@Pacifier@
+@Dungarees@|@Overalls@
+@Dustbin (the one outside)@|@Trash Can@
+@Dustman@|@Garbage Man@
+@economy@|@coach(train)@
+@eiderdown@|@comforter@
+@Elastoplast@|@Band-Aid@
+@encyclopaedia@|@encyclopedia@
+@endive@|@chicory@
+@engaged tone@|@busy signal@
+@Entree@|@Appetizer@
+@Estate Agent@|@Realtor@
+@estate car@|@station wagon@
+@Fag@|@Cigarette@
+@Fairy Cake@|@Cupcake@
+@Father Christmas@|@Santa Clause@
+@favourite@|@favorite@
+@Film@|@Movie@
+@Fire Brigade@|@Fire Department@
+@fitted wardrobe@|@closet@
+@Flannel@|@Washcloth@
+@Flat@|@Apartment@
+@Flog@|@Sell@
+@Fly-over@|@overpass@
+@foot the bill@|@bankroll@
+@Football@|@Soccer@
+@fringe@|@bangs@
+@Gaol@|@Jail@
+@Garden@|@Yard@
+@gauge@|@gage@
+@gear lever@|@gear shift@
+@gentleman's wardrobe@|@chifforobe@
+@gents(gentlemen)@|@men's room@
+@green pepper@|@bell pepper@
+@grey@|@gray@
+@guard's van@|@caboose@
+@Gully@|@Gutter@
+@Gum@|@Glue@
+@Guv'nor@|@Sir@
+@gynaecology@|@gynecology@
+@hair grip@|@bobby pin@
+@hair slide@|@barrette@
+@haulier@|@hauler@
+@hessian@|@burlap@
+@Hire@|@Rent (to)@
+@Holiday@|@Vacation@
+@honour@|@honor@
+@hood(on convertible)@|@top(car)@
+@Housing Estate@|@Track Housing@
+@humour@|@humor@
+@indicators@|@blinkers@
+@Jacket Potato@|@Baked Potato@
+@Jam@|@Jelly@
+@Jelly@|@Jello@
+@Jewellery@|@Jewelry@
+@Jumper@|@Sweater@
+@junction@|@intersection@
+@junkyard@|@boneyard@
+@Kerb@|@Curb@
+@Kitchen Paper@|@Paper Towel@
+@Kitchen towel@|@Paper Towel@
+@knickers@|@Underwear@
+@Ladybird@|@Ladybug@
+@lager@|@beer@
+@lawyer@|@attorney@
+@lay-by@|@rest area@
+@Lead@|@Leash (Dog)@
+@level crossing@|@grade crossing@
+@Lift@|@Elevator@
+@Lip Balm@|@Chapstick@
+@Lollipop Man@|@Crossing Guard@
+@loo@|@bathroom@
+@Lorry@|@Truck@
+@Lounge@|@Living Room@
+@Mackintosh@|@Raincoat@
+@managing director(MD)@|@Chief Executive Officer(CEO)@
+@Manoeuvre@|@Maneuver@
+@Maths@|@Math@
+@Medium Wave@|@AM@
+@metre@|@meter@
+@Minder@|@Babysitter@
+@mobile phone@|@cell phone, cellular phone@
+@Motorway@|@Freeway (Expressway)@
+@mould@|@mold@
+@moustache@|@mustache@
+@Napkin@|@Diaper@
+@Nappy@|@Diaper@
+@Naturist@|@Nudist@
+@Naughts and Crosses@|@Tic Tac Toe@
+@night@|@nite@
+@note@|@bill@
+@Note@|@Dollar Bill@
+@number plate@|@licence plate@
+@Number Plate@|@Licens Plate@
+@Off Licens@|@Liquor store@
+@Offal@|@Gizzards@
+@Offy@|@Liquor store@
+@omelette@|@omelet@
+@Pants@|@Underwear@
+@Pastry Base@|@Pie Crust@
+@Pavement@|@Sidewalk@
+@Peckish@|@Hungry@
+@pedestrian crossing@|@crosswalk@
+@Pedestrian Crossing@|@Cross Walk@
+@Pence@|@Cents@
+@petrol@|@gas@
+@Petrol@|@Gasoline@
+@phone box@|@phone booth@
+@Picnic Hamper@|@Picnic Basket@
+@plait@|@braid@
+@Plimsolls@|@Sneakers@
+@Polystyrene@|@Styrofoam@
+@Post@|@Mail@
+@Post Code@|@Zip Code@
+@Postbox@|@Mailbox@
+@Postman@|@Mail Carrier@
+@Posty@|@Mail Carrier@
+@pram@|@baby carriage@
+@Pram@|@Stroller@
+@preambulator@|@baby carriage@
+@programme@|@program@
+@pub@|@bar@
+@public convenience@|@comfort station@
+@public house@|@bar@
+@Public school@|@Private school@
+@public telephone@|@pay phone@
+@Pudding@|@Dessert@
+@Pullover@|@Sweater@
+@Pumps@|@Sneakers@
+@puncture@|@blow-out, flat(auto)@
+@Purse@|@Wallet (Woman's)@
+@Pushchair@|@Stroller@
+@Pyjamas@|@Pajamas@
+@Queue@|@Line@
+@quilt@|@comforter@
+@Randy@|@Horny@
+@red pepper@|@bell pepper@
+@refectory@|@cafeteria@
+@reverse charge call@|@collect call@
+@reversing light@|@back-up light@
+@Ring@|@Call (on the phone)@
+@ring road@|@beltway, loop@
+@roundabout@|@traffic circle@
+@routeing@|@routing@
+@Rubber@|@Eraser@
+@Rubbish@|@Trash@
+@rucksack@|@backbag, backpack@
+@rumour@|@rumor@
+@saloon car@|@sedan@
+@Sand Pit@|@Sand Box@
+@Sarny@|@Sandwich@
+@Savoury biscuit@|@Cracker@
+@scone@|@biscuit@
+@scrapyard@|@boneyard@
+@Semi-Detached House@|@Duplex@
+@Serviette@|@Napkin@
+@settee@|@chesterfield@
+@silencer@|@muffler(car)@
+@Similar to a Eiderdown and Duvet@|@Bedspread@
+@skirting board@|@baseboard@
+@Slip Road@|@On/Off Ramp@
+@Snog@|@Kiss (passionate)@
+@Solicitor@|@Lawyer@
+@sparking plugs@|@spark plugs@
+@speciality@|@specialty@
+@Spelt@|@Spelled@
+@Squire@|@Sir@
+@Starter@|@Appetizer@
+@State school@|@Public School@
+@stock cube@|@bouillon cube@
+@sulphur@|@sulfur@
+@Suspenders@|@Garter Belt@
+@Sweets@|@Candy@
+@Tailback@|@Traffic Jam@
+@Take-Away@|@Take-Out@
+@Tap@|@Faucet@
+@tarmac@|@asphalt, backtop@
+@Tart@|@A Flirt@
+@Terrace@|@Bleachers@
+@the line's engaged@|@the line's busy@
+@The Maenopause@|@Menopause@
+@through@|@tru@
+@Tin@|@Can@
+@to dial(on) STD@|@to dial direct@
+@to give way@|@to yield right of way(road)@
+@to have finished@|@be(to)through@
+@toilet@|@comfort station@
+@Toilet@|@bathroom@
+@Torch@|@Flashlight@
+@town@|@city@
+@Trainers@|@Sneakers@
+@Trillion@|@Billion@
+@trolley@|@cart@
+@Trolley@|@Shopping Basket, Shopping Cart@
+@Trousers@|@Pants@
+@trunk call@|@long distance call@
+@Tyre@|@Tire@
+@Vest@|@Undershirt@
+@vice@|@vise(tool)@
+@Waistcoat@|@Vest@
+@wallet@|@billfold, wallet@
+@Wardrobe@|@Closet (bedroom)@
+@Wellies@|@Golashes@
+@Wellingtons@|@Golashes@
+@Windscreen@|@Windshield@
+@zebra crossing@|@pedestrian crossing@
+@Zebra Crossing@|@Cross Walk@
+@Zed@|@Zee (letter)@
+

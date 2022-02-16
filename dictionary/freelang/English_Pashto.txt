@@ -1,0 +1,644 @@
+@English@|@Pashto@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@above@|@uchat@
+@Afghan national dance@|@atan@
+@after reading@|@rasedo na pas@
+@air@|@hawä@
+@airplane@|@taghara@
+@Airport@|@hawaa dagar@
+@all@|@tol@
+@all right@|@dera xä da@
+@am@|@yäm@
+@am reading@|@wayyäm@
+@an interrogative particle@|@sä@
+@and@|@o@
+@angel@|@parishtâ@
+@animal@|@žüy; hayvan@
+@ant@|@mege, mezhäy@
+@Anybody can learn Pashto@|@poxto har sare zda kawule si@
+@apparent@|@xkara@
+@apple@|@manâ@
+@are@|@ye@
+@are reading@|@way@
+@arm@|@mät@
+@Army@|@pauz@
+@arrow@|@gašäy@
+@ash@|@ira@
+@ash(es)@|@irâ@
+@Asylum@|@panaah@
+@axe@|@tabar, tabargäy@
+@bad@|@xarab@
+@bald@|@suddar@
+@banana@|@kela@
+@barley@|@orbuše, warbashi@
+@bear@|@ezhâ, yezhâ@
+@beard@|@zhirâ@
+@becomes@|@kigi@
+@bed@|@bistarâ@
+@bee@|@machäy; bazgalâ@
+@beer@|@bir@
+@belly@|@xeta@
+@below@|@lande@
+@big@|@ghat, loe@
+@bird@|@murgâ@
+@black@|@tor@
+@black berry@|@manga@
+@blind@|@rund@
+@blood@|@wina, winâ@
+@blue@|@asmayi@
+@boat@|@warâ biräy@
+@body@|@badan@
+@bone@|@aduke, hadükäy@
+@book@|@kitab@
+@boot@|@moza@
+@Border@|@pdlay@
+@boy@|@halak@
+@bread@|@dodäy@
+@breast@|@sina@
+@bridge@|@pul@
+@bring it@|@rawra@
+@broken@|@mat@
+@broom@|@jaru@
+@brother@|@wror@
+@brown@|@taswari@
+@brush@|@burs@
+@buffalo@|@mexa@
+@bull@|@gwaya@
+@burn@|@ta largi@
+@butterfly@|@patang, taro@
+@buy it@|@waxla@
+@cabbage@|@ban gobi@
+@calf@|@skhaey@
+@camel@|@üsh@
+@camera@|@kamera@
+@Camp@|@dd kaamp@
+@candle@|@šam'â@
+@cat@|@pisho, pisó, pišo@
+@catch that bird@|@haga margay unisa@
+@cauliflower@|@gobi@
+@cheek@|@gamnori, ghamnorï@
+@cheese@|@panir@
+@cherry@|@gilas@
+@chicken@|@charga@
+@child@|@kuchäni, mashum, mašum@
+@Children@|@muchouman@
+@chili@|@marchake@
+@chin@|@zanâ@
+@cloth@|@kapra@
+@Clothing@|@jama@
+@cloud@|@sahab, waryaz@
+@coal@|@dadanro skarâ@
+@coffee@|@kawâ@
+@cold@|@yax@
+@comb@|@zmanjd@
+@coming back@|@ratlo@
+@Cooking pot@|@chainaq@
+@Cooperation@|@hamkari@
+@copper@|@mis@
+@corn@|@jwar@
+@cotton@|@panbâ@
+@country@|@mulk@
+@cow@|@ghwa@
+@crow@|@kargâ, karghâ@
+@Customs@|@gumruk@
+@daughter@|@lur@
+@dawn of day@|@sahr-gah@
+@day@|@wraz@
+@death@|@marinâ@
+@decree of a judge@|@sijillünah@
+@degree@|@sanad@
+@Delay@|@nawakta@
+@delight@|@sakha'h@
+@desert@|@dashtâ@
+@Detention@|@ndzar-band@
+@Development program@|@dd wadi prograam@
+@dictionary@|@dikšanri, qamus@
+@different@|@muxtalef@
+@Displaced persons@|@be-zaya shdwi xaldk@
+@do you belong to this village?@|@tä da de kille ye?@
+@do you want it right away@|@kamera ado os gware@
+@dog@|@späy, spe@
+@doing@|@ke, kedo@
+@donkey@|@har, xar@
+@Don't eat the cheese!@|@Paneer muhkhuurra!, Paneer muhkhuurrey!, Panir mäxora!, Panir mäxoräy!@
+@don't touch me there!@|@dagha zay ta me lass me rawra, ezma bande haley ma bladah@
+@door@|@war@
+@drop@|@cackäy@
+@drum@|@dol@
+@dry@|@wach@
+@duck@|@jelagh, murghawi@
+@dust@|@gard@
+@eagle@|@baz@
+@ear@|@ghwag, ghwazh@
+@Eat the cheese!@|@Paneer wokhuurra!, Paneer wokhuurrey!, Panir wäxora!, Panir wäxoräy!@
+@egg@|@hagäy, hu@
+@eggplant@|@batingar@
+@eight@|@ata, atu@
+@elbow@|@sangal@
+@Electricity@|@breshna@
+@elephant@|@pil@
+@eleven@|@yaolas@
+@Eloquence@|@sukhun sazi@
+@Emergency@|@hajol@
+@Enchantment@|@sihr@
+@end@|@axer@
+@enemy@|@dushman@
+@Europe@|@Yurap@
+@evening@|@masham, maxam@
+@Excuse me@|@Abhaka@
+@Expulsion@|@shar-dl@
+@eye@|@starga, stargâ@
+@face@|@mah, mah, max, mäx@
+@fall@|@manäy@
+@family@|@kornäy@
+@Family@|@koranay@
+@far@|@lare@
+@fat@|@wazda@
+@father@|@plar@
+@father-in-law@|@skhar@
+@fear@|@werâ@
+@feasting day@|@rojo@
+@feces@|@dake mutiaze@
+@few@|@lag@
+@fingel@|@gota@
+@fingelnail@|@nukh@
+@finger@|@gutâ@
+@fire@|@or, our@
+@firewood@|@da swazado largi@
+@fish@|@kab@
+@five@|@pinja, pinza@
+@flea@|@wrazâ@
+@flour@|@warâ@
+@flower@|@gul, gwal@
+@flute@|@shpelagh@
+@foot@|@pshâ@
+@forest@|@jangal@
+@four@|@chalor, salor@
+@fox@|@fidar, gidrâ@
+@friend@|@dost, malgräy@
+@frog@|@chnngashâ@
+@fruit@|@mewa@
+@garden@|@bagh@
+@garden trowel@|@rambagh@
+@garlic@|@uga@
+@generous@|@sakhi@
+@girl@|@jine@
+@glove@|@dastkash@
+@Go to school!@|@khawanze ta dza!, khawanze ta la ša!, Maktab ta dza!, Maktab ta dzey!, Maktab ta laarr sha!, Maktab ta laarr shey!, shawanze ta dza!, shawanze ta la ša!@
+@goat@|@biza, wuza@
+@god@|@hudae@
+@gold@|@sra zar, zar@
+@good@|@xu@
+@Good!@|@sakh@
+@Good-bye@|@Da khoday-pe-aman@
+@goose@|@qazâ@
+@Government@|@hokumat@
+@Grandparents@|@padar kalan@
+@grapes@|@agur@
+@green@|@šin@
+@groundnut@|@mumpali@
+@guest@|@melmâ@
+@hair@|@weshtâ, wextu@
+@hammer@|@satak@
+@hand@|@las@
+@Handicapped@|@saya@
+@Hardness@|@sakhti@
+@he@|@hagha@
+@he is a bad man@|@haga bad xrab sare de@
+@head@|@sar@
+@head man of a tribe@|@sar-mati@
+@Head to head@|@sar pah sar@
+@Health@|@roghtyaa@
+@heart@|@zarâ, zaru@
+@heavy@|@drund@
+@Hello@|@As salam aleikum@
+@hen@|@chirgâ@
+@honey@|@gabinâ, šat@
+@horns@|@sing xkar@
+@horse@|@as@
+@Hospital@|@roghe@
+@hot@|@tod@
+@Hot ashes@|@skhwakhtan, skhwashtan@
+@hour@|@sa'at@
+@house@|@kor@
+@how many@|@somra@
+@HQ@|@mankaz@
+@human being@|@insan@
+@Human rights@|@dd bashar hakkuna@
+@hunger@|@lwazhâ@
+@husband@|@xawand@
+@Husband@|@mehra@
+@I@|@zâ, zu@
+@I am from Mardan@|@zä da mardan yäm@
+@I am from this place@|@zä da de zay yäm@
+@I am studying Pashto@|@zä poxto wayyem@
+@I ate cheese@|@mä panir wäxorä, maa paneer wokhorro@
+@I bring@|@beayäm, rawräm@
+@I eat cheese@|@zä panir xoräm, zuh paneer khuurrum@
+@I go to school@|@shawanze ta dzäm, zä khawanze ta dzäm, zuh maktab ta dzum@
+@I had eaten cheese@|@ma panir xorälay wo, maa paneer khwarrilai wo@
+@I had gone to school@|@zä khawanze ta tlälay wäm, zuh maktab ta tlilai wum@
+@I have a shoe on my left foot@|@zäma pa gäsa xpa ke pana da@
+@I have eaten cheese@|@ma panir xorälay day, maa paneer khwarrilai dai@
+@I have gone to school@|@zä khawanze ta tlälay yäm, zä shawanze ta tlälay yäm, zuh maktab ta tlilai yum@
+@I return@|@wapasegam@
+@I study in Mardan@|@zä pa mardan ke sabäk wayyäm@
+@I walk@|@garzäm@
+@I want to eat cheese@|@zä ghwaräm che panir wäxoräm@
+@I was eating cheese@|@mä panir xorä, maa paneer khwarruh@
+@I was going to school@|@zuh maktab ta tlilum@
+@I went to school@|@zä shawanze ta wälaräm, zä shawanze ta wälaräm, zuh maktab ta wolaarrum@
+@ice@|@kangal@
+@I'll return in two years@|@zä ba pa dwa kalo ke wapasegäm@
+@I'm not going 'cause I'm sick@|@zä na zäm zäka ce zä narogyäm@
+@in@|@pa...ke@
+@in safety@|@paxayra@
+@iron@|@ospanâ@
+@Is Pashto difficult?@|@poxto sä grana da?@
+@island@|@tapo@
+@it is a book@|@kitab de@
+@it is a woman@|@xäza da@
+@it's a house@|@kor de@
+@it's a man@|@sare de@
+@it's a mountain@|@gär de@
+@it's a room@|@kamra da@
+@it's a tree@|@wäna da@
+@I've a pain in my back@|@zäma pa mla sa le dard de@
+@just@|@ado@
+@key@|@kälï@
+@kidney@|@pushtawargäy@
+@king@|@pächa@
+@kitchen@|@pahalnazäy@
+@knee@|@zangün@
+@knife@|@chaku, charâ@
+@lake@|@jhil@
+@lamb@|@wräy@
+@Lamp@|@dewan@
+@language@|@žabâ@
+@leaf@|@pana@
+@left@|@gas@
+@leg@|@lingäy, pashâ, xpaq@
+@Legal protection@|@kaanuni saatdna@
+@lessons@|@sabäk@
+@letter (alphabet)@|@toräy@
+@letter (mail)@|@lik, maktüb@
+@Liberality@|@sakhä@
+@lieutenant@|@zabit@
+@life@|@žwand@
+@light@|@spak@
+@lighting@|@prakigi@
+@lion@|@zmaräy@
+@lip@|@šundâ@
+@long@|@ugud@
+@louse@|@spazhâ@
+@magnifying glass@|@darabin@
+@male of the a tribe@|@zaaey@
+@Malnutrition@|@bada ghdzaa@
+@man@|@saragh, saräy, sare@
+@mango@|@am@
+@many@|@der@
+@Material assistance@|@maadi komak@
+@may you not be tired@|@stare mashe@
+@meat@|@ghwashâ, ghwaxa@
+@Memory@|@sud@
+@middle@|@minz@
+@milk@|@pe, šade@
+@Ministry@|@wdzaarat@
+@minute@|@daqiqâ@
+@mirror@|@hindarâ@
+@money@|@pese@
+@monkey@|@bizo@
+@month@|@miasht@
+@moon@|@spogmai@
+@morning@|@sahar@
+@mortar@|@langarei@
+@mosquito@|@mashe@
+@mother@|@mor@
+@mountain@|@ghar@
+@mouse@|@muzhak@
+@mouth@|@hulâ, zolu@
+@mud@|@xata@
+@music@|@musiqi@
+@my@|@zäma@
+@my name is Akbar Khan@|@zäma num akbar xan de@
+@my name is Shirjan@|@zäma num sirjan de@
+@name@|@num@
+@name of a hill@|@sudam@
+@name of a tribe of Afghans@|@sado-zi, sadü-za'i@
+@nature@|@tabi'at@
+@near@|@nizde@
+@needle@|@stan@
+@neighbor@|@gawandhäy@
+@nest@|@jala@
+@new@|@nawäy, nawe@
+@newly@|@näwe@
+@night@|@shpa@
+@nine@|@nah, naha@
+@No@|@Na@
+@noon@|@gharma@
+@nose@|@pazâ, poza@
+@not very expensive@|@dera grana da na wi@
+@number@|@šmerâ@
+@Nutrition@|@ghdzaa@
+@of@|@da@
+@of which see@|@sujud@
+@oil@|@ghwaräy, tel@
+@old@|@zor@
+@old (not new)@|@zor@
+@old (not young)@|@zor@
+@older brother@|@mashar ror@
+@older sister@|@mashra xor@
+@olive@|@zaytün@
+@one@|@yao, yaw@
+@one hundred@|@sal@
+@one third@|@oulo@
+@One who rises with the dawn@|@sahr-khez@
+@one's own@|@xpel@
+@onion@|@piaz@
+@or@|@ya@
+@Orris root@|@skhaw-jza'h@
+@owl@|@bum@
+@ox@|@ghwayäy@
+@page@|@mah@
+@pain@|@dard@
+@Pain - arms/legs@|@dard bazou/paie@
+@Pain - chest@|@dard sina@
+@Pain - days/weeks@|@dard worat@
+@Pain - ears/eyes@|@dard gauche/sterguee@
+@Pain - hands/feet@|@dard daste/paie@
+@Pain - head/neck@|@dard sav/gardan@
+@Pain - months/years@|@dard hafta@
+@Pain - stomach@|@dard mehda@
+@Pain - treatment@|@dard mehda@
+@palm@|@tale@
+@paper@|@kaghiz@
+@partridge@|@zarka@
+@Pashto@|@poxto@
+@path@|@lar@
+@pea@|@nahud@
+@peace@|@sulâ@
+@peace be upon you@|@assalam o alekum@
+@peace be upon you also@|@walekum assalam@
+@peach@|@šaftalu@
+@pear@|@nak@
+@pen@|@qalam@
+@people@|@halk@
+@pepper@|@mrich@
+@Persecution@|@zawrawdi@
+@pestle@|@chetu@
+@Petrol@|@tel@
+@petroleum@|@naft@
+@pidgeon@|@kawtara@
+@pig@|@hug@
+@pigeon@|@kautarâ@
+@place@|@zay@
+@places@|@zayyuna@
+@planet@|@sayarâ@
+@Please@|@Lutfan@
+@plum@|@alichâ, alu@
+@poison@|@zahr@
+@Police-station@|@dd polis st-eshan@
+@potato@|@alu, kachalu@
+@prayer@|@du'a@
+@President@|@mdshir@
+@Prison@|@bandy-khana@
+@prophet@|@payghambar@
+@protection@|@sar parasti@
+@protector@|@sar parast@
+@Province@|@ayaalat@
+@pudding@|@halwa@
+@Pure@|@such@
+@question@|@pushtanâ@
+@rain@|@baran@
+@rainbow@|@da budai tal@
+@Reception centre@|@dd melma paaldne@
+@red@|@sur@
+@Refugee@|@mohajer@
+@register@|@sijill@
+@religion@|@mazhab@
+@Representative@|@astaazy@
+@return@|@wapasay@
+@rice@|@wrije@
+@right@|@xe@
+@ring@|@gota@
+@river@|@rod, sind@
+@road@|@lar, sarak@
+@rock@|@dabarin ghar, sakhra'h, skhar@
+@roof@|@bläy, chath@
+@room@|@hunâ, kamra, kotâ@
+@root@|@jarare@
+@rope@|@pare@
+@rose@|@gulab@
+@Rotten@|@skhä@
+@Rural@|@da kdll@
+@salt@|@malga, malgâ@
+@same@|@yao shan@
+@sand@|@shaga, šigâ@
+@Sanitation@|@hyfzu-syhna@
+@school@|@shwanzäy@
+@sea@|@samandar@
+@season@|@mausim@
+@second@|@saniyâ@
+@seven@|@oova, uwe@
+@she@|@hagha@
+@sheep@|@pasâ@
+@Shelter@|@rijdi@
+@ship@|@beräy@
+@short@|@lund@
+@shut@|@bastah@
+@signature@|@imza@
+@silk@|@wreshm@
+@silver@|@spin zar@
+@sister@|@hor@
+@six@|@shpag, shpazh@
+@skin@|@sarman@
+@sky@|@asman, hasak@
+@small@|@warkote@
+@smoke@|@luge@
+@snake@|@mar@
+@snow@|@wawrâ@
+@soap@|@sabun@
+@soldier@|@tchskar@
+@someone has broken the tape@|@ca täp rekardär mat käre de@
+@son@|@zoe, zwe@
+@spade@|@ghum@
+@Speech@|@sukhun@
+@spider@|@ghanâ, jola@
+@spoon@|@kašoghâ@
+@spring@|@psarläy@
+@star@|@storäy, store@
+@Status@|@haysiyat@
+@steel@|@pulad@
+@steer@|@skhwandar@
+@stone@|@dabarâ, kane@
+@stoppage@|@sudda'h@
+@storm@|@tufan@
+@street@|@kucâ@
+@strong@|@sakht@
+@sufficient@|@kafi@
+@summer@|@oräy@
+@sun@|@lmar, nwar@
+@swan@|@qu@
+@table@|@mez@
+@tail@|@lake@
+@taking@|@agasto@
+@tea@|@chay@
+@teeth@|@ghax@
+@ten@|@las@
+@Tent@|@rijdi@
+@Thank you@|@Tashakor@
+@that@|@agha, agha, dase@
+@that is a tree@|@haga wäna da@
+@that is a woman@|@daga xäza da@
+@the ashes are hot@|@ire garme di@
+@The dawn of the morning@|@sahar, sahr@
+@The present year@|@sakh, sakhanaey käl@
+@the top@|@sar@
+@There's often heavy fog in Qet@|@pa kota ke hamesa saxt dund wi@
+@these@|@da@
+@they@|@haghwi@
+@this@|@da, da, de@
+@this is a  mountain@|@haga gär de@
+@this is a bad book@|@da xrab kitab de@
+@this is a book@|@da kitab de@
+@this is a house@|@daga kor de@
+@this is a man@|@da sare da@
+@this is a room@|@da kamra da@
+@thorn@|@azghe@
+@those@|@agha@
+@thread@|@tar@
+@three@|@dre@
+@tiger@|@prang@
+@time@|@waht, waxt@
+@to be hungry@|@lagna@
+@to be thirsty@|@tage kedal@
+@to bite@|@chichal@
+@to come@|@ratlal@
+@to die@|@mra kedal@
+@to drink@|@skal@
+@to eat@|@xoral@
+@to fly@|@alwatal@
+@to give@|@warkawal@
+@to go@|@talal, tlil@
+@to hear@|@awredal@
+@to kill@|@wajal@
+@to lie@|@samlastal@
+@to look@|@katal@
+@To rebel@|@sar akhistal, sarunah@
+@to run@|@manda wahal@
+@to sit@|@kenastal@
+@to sleep@|@uda kedal@
+@to speak@|@wayal@
+@to turn the brains@|@pah sar akhistal@
+@tobacco@|@tamaku, tambaku@
+@today@|@nan, nan wraz@
+@tomato@|@batingar, rumi banjan, sur batingar@
+@tomorrow@|@saba@
+@tongue@|@zhaba@
+@tooth@|@ghash@
+@Torture@|@shekanja@
+@tounge@|@jiba@
+@tower@|@burj@
+@town@|@shar@
+@Town@|@khar@
+@Transportation@|@transport@
+@Travel Docs@|@sdd safar sanaduna@
+@tree@|@wana@
+@Tribe@|@t-dbdr@
+@Truck@|@lan mot-dr/lari@
+@truth@|@rishtiya@
+@tulip@|@ghatul@
+@turkey@|@filmurg@
+@turmeric@|@kurkaman@
+@turning back@|@wapas@
+@turnip@|@tepar@
+@twelve@|@dolas@
+@twenty@|@shal@
+@two@|@dwa@
+@unsullied@|@sudah@
+@Urban@|@dd khari@
+@urine@|@tase mutiaze@
+@valley@|@darâ, tangäy@
+@vessel@|@zarf@
+@village@|@kaläy, kale, kili@
+@Village@|@kday@
+@vinegar@|@sirkâ@
+@voice@|@ghazh, zhagh@
+@Voluntrary repatriation@|@pd rdzaa-sara berta legal@
+@walk!@|@tu paida larsha@
+@wall@|@dewal, sadd@
+@war@|@jagrâ@
+@War@|@jagara@
+@watch@|@satchat@
+@water@|@oba, ubu@
+@Water@|@aaba@
+@watermelon@|@hindwana@
+@way@|@lara@
+@we@|@munga, muzh@
+@we (exclusive)@|@munga@
+@we stay@|@hisaregu@
+@weather@|@hawa@
+@week@|@hafta, onäy@
+@welcome@|@Pe kher ragle@
+@wet@|@lund@
+@what@|@su@
+@What do you study in Mardan?@|@tä pa mardan ke sä sabäk way?@
+@what is that?@|@haga sä sey de?@
+@what is this?@|@da sä sey de?@
+@what is your name?@|@Stä num tsä day, sta sä num de?@
+@what price camera do you want?@|@da kam qimat kamera tä gware?@
+@what work do you do in Mardan?@|@tä pa mardan ke sä ke?@
+@wheat@|@ghanam@
+@when@|@kala@
+@when are you leaving Pakistan?@|@tä pakistan ba kala prede?@
+@where@|@charta@
+@where are you from?@|@tä da käm zay ye?@
+@where is my room?@|@ezma ossadoon echrey dai, zema kota cherta da@
+@where is the bar?@|@da sharab kor echrey dai, de czshak cherta dai@
+@where is the beach?@|@da awakhwah eshrey dai, sahel cherta dai@
+@which@|@kam, käm@
+@which page are we studying?@|@käma safa munga wayu?@
+@white@|@spin@
+@who@|@sok@
+@whole@|@rogh@
+@whom will you take with you?@|@tä ba sok zan sara axle?@
+@wife@|@xaza@
+@Wife@|@kaza, xaza@
+@wind@|@bad, hawa@
+@window@|@karkäy@
+@wine@|@šarab@
+@wing@|@wazr@
+@winter@|@žamäy@
+@wolf@|@lewâ@
+@woman@|@shazâ, xaza, xaza, xäza@
+@woman of a tribe@|@sadü-za'i@
+@wool@|@waräy@
+@word@|@kalimâ, lughat@
+@world@|@dunya, naräy@
+@worm@|@chinjäy@
+@year@|@kal@
+@years@|@kalo@
+@yellow@|@žer@
+@yes@|@aw@
+@Yes@|@Ho@
+@yesterday@|@parun@
+@you@|@tä, tu@
+@you (formal)@|@taso@
+@you (plural)@|@taso@
+@you bring@|@rawre@
+@you came@|@ragle@
+@you don't look familiar to me@|@sta mäx näwe xkara kigi@
+@you have a fat stomach@|@sta gata xeta da@
+@you have come in safety@|@paxayra ragle@
+@you leave@|@prede@
+@you see@|@gore@
+@you take@|@axle@
+@you want@|@gware@
+@young@|@zwan@
+@younger brother@|@kashar ror@
+@younger sister@|@kashra xor@
+@your@|@sta@
+@yourself@|@zan@
+@zero@|@sifer@
+

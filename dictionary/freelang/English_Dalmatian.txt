@@ -1,0 +1,567 @@
+@English@|@Dalmatian@
+@Author name@|@Freelang@
+@Font@|@Arial\12\Arial\12@
+@a little@|@pauk@
+@a type of grape@|@abastrain@
+@alive@|@vei@
+@all@|@tot@
+@alone@|@sanglo@
+@altar candle@|@èir@
+@anoint@|@jongar, yongar@
+@another@|@jultro, yultro@
+@Are you a ... ?@|@Sante te join@
+@as@|@kal@
+@ashes@|@kanaisa@
+@ash-tree@|@guarno@
+@aspargus@|@spiraè@
+@asswhole@|@kodial@
+@back@|@duas@
+@bad@|@mul, ri@
+@baking pan@|@takla@
+@bare@|@noide@
+@barly@|@vuarz@
+@bat@|@surka pitsigaun@
+@beam@|@trua@
+@beautiful@|@bial@
+@bed@|@l'ak@
+@bed sheet@|@lenzul@
+@bedbug@|@èinko@
+@bee@|@juop, yuop@
+@before@|@aninè@
+@belfry@|@kampanaid@
+@bell@|@campuona, kampuona@
+@belly@|@viantro@
+@beyond@|@ultra@
+@bird@|@paserain@
+@bird-seed@|@mail@
+@bishop@|@pasku@
+@black@|@fosk@
+@blackbird@|@miarla@
+@blind@|@vuarb@
+@body hair@|@pail@
+@bone@|@vuas@
+@born@|@naskoit@
+@brain@|@karviale@
+@branch@|@ruoma@
+@bread@|@pun@
+@breakfast@|@prints@
+@brick@|@kadrial@
+@bridge@|@puant@
+@broad bean@|@fua@
+@brother@|@frutro@
+@brother-in-law@|@komnut@
+@bun@|@pitsariaul@
+@but@|@mui@
+@by heart@|@inamiant@
+@Can you ...?@|@Pota te@
+@certain@|@èiart@
+@chain@|@kataina@
+@chair@|@katraida@
+@cheese@|@kis@
+@cherry@|@kris@
+@chicken@|@galina@
+@children@|@kratoire@
+@chip@|@sèela@
+@church@|@basalka@
+@city@|@èituot@
+@clingstone grape@|@drukno@
+@coin@|@monaita@
+@cold@|@gelut@
+@collumn@|@kilauna@
+@comb@|@piakno@
+@cord@|@kanapiel@
+@cork@|@dauk@
+@cornel berry tree@|@korlir@
+@correct@|@jost, yost@
+@cousin@|@kosobrain@
+@cow@|@baka@
+@cross@|@krauk@
+@Dalmatian@|@Dalmata@
+@damage@|@damno@
+@dark@|@sèor@
+@day@|@dai@
+@dead@|@muart@
+@dear@|@kuor@
+@death@|@muart@
+@dense@|@dais@
+@derriere@|@èol@
+@devil@|@diaul@
+@ditto@|@ciart, èiart@
+@doctor@|@medko@
+@dog@|@kuon@
+@dolphin@|@ourata@
+@donkey@|@samur@
+@door@|@puarta@
+@dorado@|@ourata@
+@dried@|@sekuot@
+@dry@|@sot@
+@dust@|@pulvro@
+@ear@|@orakla@
+@earth@|@tyara@
+@eel@|@angiola@
+@egg@|@juv, yuv@
+@eight@|@guapto@
+@eleven@|@jonko, yonko@
+@entire@|@intrik@
+@estate@|@luk@
+@evening@|@saira, viaspro@
+@excrement@|@miarda@
+@eye@|@vaklo@
+@faid@|@faid@
+@false@|@fuals@
+@far away@|@a distuonza@
+@father@|@tuota@
+@female goat@|@kapraina@
+@fianceé@|@ninapta@
+@fifteen@|@èonko@
+@fifty@|@èonkuanta@
+@fig@|@faika@
+@finger@|@detko@
+@fire@|@fuk@
+@fish@|@pask@
+@fishing net@|@tragala@
+@five@|@èenk@
+@flail@|@frazial@
+@flash@|@lampura@
+@flea@|@pulko@
+@flour@|@faraina@
+@foam@|@sploima@
+@foot@|@piè@
+@forty@|@kuaranta@
+@friday@|@vindre@
+@friend@|@amaik@
+@full@|@plain@
+@glass@|@medyul@
+@gold@|@jaur, yaur@
+@good@|@bun@
+@Good evening!@|@Buna saira!@
+@Good morning!@|@Bun desmun!, Buna dai!@
+@Good night!@|@Buna nuat!@
+@goose@|@jauca, yauca@
+@grain@|@grun@
+@grape@|@joiva, yoiva@
+@grass@|@jarba, yarba@
+@greedy@|@golaus@
+@hair@|@capei, kapei@
+@half@|@mesu@
+@hand@|@mun@
+@handkerchief@|@sedarul@
+@happy@|@kontiant@
+@hard@|@doir@
+@hare@|@lipro@
+@harm@|@damno@
+@hatchet@|@sèor@
+@hay@|@fin@
+@he@|@jal@
+@he appears@|@puor@
+@he runs@|@kor@
+@he stinks@|@fit@
+@he was running@|@koreja@
+@head@|@kup@
+@health@|@santut@
+@heart@|@kur@
+@hen@|@galina@
+@herb@|@jarba, yarba@
+@here@|@èaio, kauk@
+@hill@|@munèal@
+@holiday@|@fiesta@
+@honey@|@mil@
+@honor@|@onaur@
+@horn@|@kuarno@
+@horse@|@kavul@
+@Host@|@bluta@
+@hour@|@jaura, yaura@
+@housa@|@kuosa@
+@how@|@kal@
+@How are you?@|@Kal te sante@
+@how much@|@kont@
+@How to say in Dalmatian?@|@Kal dekro in la langa dalmata@
+@human being@|@jomno, yomno@
+@hundred@|@èant@
+@hunger@|@fum@
+@husband@|@marait@
+@I@|@ju, yu@
+@I am@|@Ju sai@
+@I am ...@|@Ju sai@
+@I am going to ...@|@Ju andai a@
+@I am not@|@Ju na sai@
+@I can@|@Ju potai@
+@ice@|@glas@
+@ink@|@ingyastro@
+@intact@|@intrik@
+@iron@|@fiar@
+@jug@|@paila@
+@just@|@jost, yost@
+@key@|@kluf@
+@kidney-bean@|@fasu'l@
+@king@|@ra@
+@kiss@|@biss@
+@kitchen@|@koèaina@
+@knees@|@denakle@
+@knife@|@kortial@
+@lake@|@lak@
+@lamb@|@sugol@
+@language@|@langa@
+@large@|@maur@
+@late@|@tierè@
+@leaf@|@fual'a@
+@leeches@|@sansoike@
+@letter (of alphabet)@|@latera@
+@light@|@loik@
+@light meal@|@marianda@
+@lightening@|@linp, ruaz@
+@lime@|@kalèina@
+@line for polyp fishing@|@dreknul@
+@little@|@pedlo@
+@liver@|@fekuat@
+@living@|@vei@
+@lizard@|@laèar@
+@lock@|@pesatoira@
+@long@|@luang@
+@louse@|@pedoklo@
+@mackerel-type fish@|@laèas@
+@man@|@jomno, yomno@
+@manure@|@lotum@
+@maple-tree@|@vaple@
+@mass@|@masa@
+@me@|@main@
+@meat@|@kuarne@
+@melted pitch@|@pekla@
+@middle@|@mesu@
+@millet@|@mail@
+@millstone@|@mukna@
+@millstone shaft@|@stal@
+@mine@|@maya@
+@miserly@|@avarau@
+@month@|@mais@
+@moon@|@loina@
+@more@|@mui, ple@
+@morning@|@dezmun@
+@mortar@|@kalèina@
+@mother@|@nino@
+@mouse@|@surko@
+@mouth@|@buka@
+@mutton@|@karnual@
+@My name is ...@|@Mi naun sant@
+@nail (anat.)@|@jongla, yongla@
+@name@|@nam@
+@near@|@aliè@
+@neck@|@zoglo@
+@needle@|@juak, yuak@
+@neighbor@|@vicain, vièain@
+@neither@|@ne@
+@nest@|@naid@
+@net@|@rait@
+@new@|@nu'a@
+@niece@|@nyapta@
+@nine@|@nu@
+@no one@|@nenèoin@
+@non@|@na, naun@
+@nose@|@nuos@
+@not@|@na@
+@nothing@|@nol'a@
+@now@|@jamo, mut@
+@nude@|@noide@
+@nut@|@nauk@
+@old@|@vieklo@
+@olive@|@olea@
+@on certain distance@|@a luntun@
+@one@|@join, yoin@
+@oneself@|@se@
+@onion@|@kapul@
+@other@|@jultro, yultro@
+@our@|@nuester@
+@out over there@|@ultra@
+@outside@|@fure@
+@over there@|@luntun@
+@ox@|@bu@
+@pan@|@forsaura, takla@
+@pancakes@|@frete@
+@partridge@|@pernaika@
+@pear@|@paira@
+@peasant@|@èok@
+@penis@|@pula@
+@pepper@|@pepro@
+@perspiration@|@sudaur@
+@pie@|@turta@
+@pig@|@puark@
+@pigsty@|@kosuol@
+@pillar@|@kilauna@
+@place@|@luk@
+@plug@|@dauk@
+@plum@|@susane@
+@poor@|@pauper@
+@pregnant@|@prin@
+@previously@|@aninè@
+@priest@|@prat, pretro@
+@quarrel@|@apliè@
+@rafter@|@trua@
+@rain@|@pluaya@
+@raw@|@kroit@
+@reason@|@rasaun@
+@rectum@|@kodial@
+@rib@|@kuasta@
+@ring@|@agnial@
+@ripe@|@matoirre@
+@road@|@cale@
+@root@|@radaika@
+@rose@|@ruosa@
+@rotten@|@muas@
+@sail@|@vaila@
+@sand@|@sablun@
+@sated@|@satoil@
+@satisfied@|@kontiant@
+@saturday@|@sabata@
+@sea@|@mur@
+@self@|@se@
+@serene@|@saran@
+@seven@|@sapto@
+@seventy@|@septuanta@
+@shade@|@sombreya@
+@she@|@jala@
+@sheep tickc@|@drenko@
+@ship@|@buarka@
+@shirt@|@kamaisa@
+@shit@|@miarda@
+@shore@|@raipa@
+@short@|@korte@
+@sickle@|@sekla@
+@silk@|@saita@
+@sinar@|@si@
+@sister@|@saur, seraur@
+@sixteen@|@sitko@
+@skin@|@pial@
+@sky@|@èil@
+@sleep@|@samno@
+@sloping street@|@plui@
+@slow@|@tierè@
+@small@|@pedlo@
+@small ox@|@buc@
+@small sheaf@|@mantsula@
+@smooth@|@lois@
+@snack@|@marianda@
+@snow@|@nai@
+@soap@|@sapaun@
+@somebody@|@certain, èertain@
+@son@|@fel@
+@soul@|@jamma, yamma@
+@spike@|@spaika@
+@spindle@|@fois@
+@splinter@|@sèela@
+@sputum@|@spoit@
+@squirrel@|@viala@
+@star@|@stala@
+@station@|@stasaun@
+@steelyard@|@stataira@
+@stepmother@|@matraya@
+@stone@|@pitra@
+@store@|@botaiga, stasaun@
+@straight@|@drat@
+@street@|@plasa@
+@strong@|@fuart@
+@sun@|@saul@
+@supper@|@kaina@
+@swallow (bird)@|@rondaina@
+@sweat@|@sudaur@
+@sweet@|@dolk@
+@sword@|@sputa@
+@table@|@jaska, jauka, maisa, yaska, yauka@
+@tail@|@kauda@
+@ten@|@dik@
+@that@|@kol@
+@the first@|@prein@
+@there@|@luk@
+@they (f)@|@jale@
+@they (m)@|@jali@
+@thick@|@dais@
+@thimble@|@zizial@
+@thing@|@kausa@
+@thirst@|@sait@
+@thirteen@|@tretko@
+@thorn@|@spaina@
+@thou@|@te@
+@thousand@|@mel@
+@three@|@tra@
+@throat@|@gaula@
+@thunderclap@|@tun@
+@thursday@|@dzue@
+@time@|@cale@
+@to@|@a@
+@to ask@|@prekur@
+@to be@|@stur@
+@to be able to@|@potar@
+@to be silent@|@takar@
+@to be worth@|@valar@
+@to begin blossom@|@inflorara@
+@to believe@|@kredro@
+@to blaspheme@|@bladmur@
+@to burn@|@arda'r@
+@to burst@|@krepur@
+@to calculate@|@computa, komputa@
+@to call@|@klamuar@
+@to claim@|@klamuar@
+@to clothe@|@vestér@
+@to come@|@vener@
+@to complain@|@plungre@
+@to conquer@|@konèaro@
+@to count@|@computa, embruar, komputa@
+@to cover@|@korprer@
+@to cut@|@tal'uor@
+@to deficate@|@kakuor@
+@to die@|@morer@
+@to dig up the vinyard@|@pasnur@
+@to dine@|@prandar@
+@to do@|@fur@
+@to donate@|@duor@
+@to dress@|@vestér@
+@to drink@|@bar, bar@
+@to eat@|@manonka@
+@to enjoy@|@gauder@
+@to extinguish@|@stotuor@
+@to fall@|@kadar@
+@to feel@|@senter@
+@to fill@|@emplar@
+@to finish@|@fenait@
+@to flower@|@inflorara@
+@to fry@|@fregur@
+@to gather@|@rekolgro@
+@to give@|@duor@
+@to go@|@zer@
+@to graze@|@puoskro@
+@to grind@|@mankur@
+@to grow@|@kraskro@
+@to hang@|@piander@
+@to harvest grapes@|@vedmuar@
+@to have@|@avar, tenar@
+@to have supper@|@kenkur@
+@to heal@|@medcuar, medkuar@
+@to hide@|@askondro, askondro@
+@to hold@|@fermuar, tenar@
+@to hurt@|@dol(ar)@
+@to jump@|@satuar@
+@to keep@|@tenar@
+@to kill@|@dramuor@
+@to kindle@|@imprandro@
+@to kiss@|@bissuor@
+@to know@|@sapar@
+@to laugh@|@redro@
+@to lead@|@menur@
+@to light@|@imprandro@
+@to lighten@|@lampura@
+@to lose@|@piarder@
+@to make@|@fur@
+@to marry@|@martur@
+@to mix@|@meskuar@
+@to move@|@moitur, mugro@
+@to narrate@|@computa, komputa@
+@to open@|@apiar@
+@to paint@|@piandro@
+@to pay@|@pakur@
+@to pee@|@miur@
+@to percieve@|@senter@
+@to please@|@plakar@
+@to prune@|@potuor@
+@to push@|@pangro@
+@to put@|@mat@
+@to remove@|@skutro, skutro@
+@to request@|@prekur@
+@to ring@|@sonuar@
+@to rise@|@destruar@
+@to rose@|@destruar@
+@to rub with ointment@|@jongar, yongar@
+@to say@|@dekro@
+@to secure@|@fermuar@
+@to see@|@vedar@
+@to sell@|@vandro@
+@to sense@|@senter@
+@to sew@|@koser@
+@to shout@|@ganer@
+@to sing@|@kantuor@
+@to slay@|@dramuor@
+@to sleep@|@dormer@
+@to sound@|@sonuar@
+@to speak@|@faular@
+@to spin@|@faila@
+@to squeeze@|@strengar@
+@to stand@|@stur@
+@to take@|@levur, prendar@
+@to tell@|@dekro@
+@to throw@|@truar@
+@to thunder@|@tonur@
+@to torture@|@tormaint@
+@to undertake@|@imprandro@
+@to urinate@|@miur@
+@to wake up@|@destruar@
+@to want@|@blaire@
+@to whistle@|@sublar@
+@to wish@|@blaire@
+@to work@|@stentuar@
+@tomorrow@|@dezmun@
+@tongue@|@langa@
+@tooth@|@diant@
+@torment@|@tormaint@
+@tree@|@juarbul, yuarbul@
+@tub@|@tinir@
+@tuesday@|@mirte@
+@twelve@|@dotko@
+@twenty@|@venc@
+@twig@|@ruoma@
+@two@|@doi@
+@uncle@|@naul@
+@upward@|@sois@
+@urine@|@meyatoira@
+@us@|@ne@
+@vagina@|@kon@
+@vat@|@tinir@
+@vein@|@vaina@
+@vine@|@vaita@
+@vinegar@|@akait@
+@vinyard@|@venna@
+@viper@|@karnoit@
+@voice@|@baud@
+@vulva@|@kon@
+@wafer@|@bluta@
+@wall@|@mor@
+@wall plant@|@pyankura@
+@walnut-tree@|@nokyera@
+@wave@|@jonda, yonda@
+@wax@|@kaira@
+@we@|@noi, nu@
+@wednesday@|@misadma@
+@week@|@jedma, yedma@
+@well@|@bin@
+@wet@|@duot, joit, yoit@
+@what@|@ko@
+@What did you say?@|@Che favle@
+@What is it?@|@Che sante el@
+@What is your name?@|@Che sante to naun@
+@when@|@kand@
+@where@|@jo, yo@
+@Where is ...?@|@Jo sant ...@
+@which@|@kal@
+@white@|@jualb, yualb@
+@who@|@èi@
+@Who are you?@|@Ko te sante@
+@whole@|@intrik@
+@why@|@perkó@
+@wide@|@luarg@
+@wind@|@viant@
+@wine@|@ven@
+@wine jug@|@trufo@
+@winter@|@inviarno@
+@with difficulty@|@pesunt@
+@with me@|@konmaik@
+@wood@|@buask, lank@
+@wool@|@luona@
+@word@|@palaura@
+@workshop@|@botaiga@
+@year@|@jan, yan@
+@Yes@|@Sai@
+@yesterday evening@|@saira@
+@yoke@|@zauk@
+@you@|@toi, voi@
+@you (object)@|@ve@
+@you (plural)@|@vu@
+@young fowl@|@poluastro@
+@your@|@to, vestro@
+

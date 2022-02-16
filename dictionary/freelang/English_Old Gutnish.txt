@@ -1,0 +1,178 @@
+@English@|@Old Gutnish@
+@Author name@|@Thomas Broch-Nielsen@
+@Font@|@Arial\12\Arial\12@
+@about@|@um@
+@after@|@ebtir, hebtir, heftir, ibtir, iftir, yftir, yptir@
+@ancle@|@ancul@
+@and@|@ac, au, auc, aug, oc, uc@
+@at@|@viþr@
+@at home@|@haima@
+@axe@|@yx@
+@be@|@vera@
+@before@|@firi, firir, furi, furir, fyr@
+@begin@|@byria@
+@better@|@betr@
+@between@|@millan@
+@both@|@baþi@
+@brest@|@briaust@
+@brother@|@broþir@
+@build@|@byggia@
+@butter@|@smier@
+@buy@|@caupa@
+@by@|@af@
+@cabin@|@stuva@
+@came@|@kuam, quam@
+@can@|@cann@
+@celler@|@kialeri@
+@child@|@ban, barn@
+@chop@|@haga, hagga@
+@church@|@kirchia@
+@come@|@cuma@
+@cut@|@haga, hagga, skiara@
+@daughter@|@burna, dotir, dotr@
+@death@|@dauþr@
+@die@|@doya@
+@do@|@gera, giara, giera, kara, kiara, kierua, kira@
+@door@|@dur@
+@down@|@niþr@
+@early@|@arla@
+@earth@|@iorþ@
+@east@|@austr@
+@eight@|@ata, atta@
+@either@|@eþa@
+@elbow@|@alnbuga@
+@eleven@|@alivu, elivu@
+@eye@|@auga@
+@fall@|@falda@
+@field@|@acr@
+@first@|@fyrst@
+@fish@|@fisc@
+@fly@|@fliauga@
+@for@|@firi, firir, furi, furir, fyr@
+@forest@|@scogh@
+@four@|@fiaura@
+@fourteen@|@fiurhtan@
+@fourty@|@fiauratighi@
+@from@|@fran@
+@gambling@|@dufl@
+@garden@|@hfa@
+@goat@|@gait@
+@god@|@guþ@
+@good {m}@|@goþr, koþr@
+@ground@|@iorþ@
+@hair@|@har@
+@hang@|@hengia@
+@he@|@hann@
+@hear@|@hoyra@
+@help@|@hialba, hialpa@
+@here@|@hiar, hier@
+@high@|@hau {f}, haur {m}@
+@him {ack}@|@hann@
+@him {dat}@|@hanum@
+@hit@|@sla@
+@hold@|@halda@
+@house@|@hus, stuva@
+@I@|@iac, iec@
+@in@|@in@
+@is@|@ar, ier, ir@
+@judge@|@dyma@
+@kill@|@drepa@
+@king@|@cunungr@
+@language@|@mal@
+@later@|@siþan@
+@law@|@lagh@
+@lead@|@laiþa@
+@like that@|@slicu@
+@live@|@lifa@
+@long {m}@|@langr@
+@man@|@maþr@
+@milk@|@mialc, mielc@
+@month@|@manaþr@
+@more@|@mair@
+@much {n}@|@mikit@
+@neither@|@huatki@
+@nine@|@niu@
+@nobody@|@engin@
+@not@|@ai@
+@nothing@|@huerghi@
+@now@|@nu@
+@offer@|@biauþa@
+@on@|@a@
+@one {f}@|@ain@
+@one {m}@|@ann@
+@one {n}@|@att@
+@or@|@ella, ellar, eþa@
+@our@|@oar, uar@
+@out of@|@yr@
+@over@|@ifir, ufir, ufr, yfir@
+@parish@|@socn@
+@people@|@fulc, lyþr@
+@pole@|@stang, stulpi@
+@pray@|@biþia@
+@prayer@|@byn@
+@promise@|@lufa@
+@queen@|@drytning@
+@right@|@reth@
+@rise@|@raisa@
+@say@|@segia@
+@schimney@|@scurstain@
+@seven@|@siau@
+@shall@|@scal@
+@she@|@han@
+@shoot@|@schiauta@
+@six@|@siahs, siex@
+@smith@|@smiþr@
+@so@|@so@
+@someone@|@nequar@
+@son@|@sun@
+@soul@|@sial, soul@
+@south@|@suþr@
+@speech@|@mal@
+@spring@|@ladigh@
+@stand@|@standa, stanta@
+@steal@|@stiela@
+@stone@|@stain@
+@stop@|@lyfta, lykta@
+@sweet {f}@|@syt@
+@take@|@taca@
+@ten@|@tiu@
+@that@|@at, et, sum@
+@that one {f}@|@hin@
+@that one {m}@|@hinn@
+@then@|@siþan@
+@there@|@þar@
+@they {f}@|@þar@
+@they {m}@|@þair@
+@they {n}@|@þaun@
+@this {n}@|@hitta, þitta@
+@though@|@þau@
+@three {f}@|@þriar@
+@three {m}@|@þrir@
+@three {n}@|@þry@
+@to@|@til@
+@touch@|@royra@
+@trip@|@ferþ@
+@twelve@|@tolf@
+@twenty@|@tiughu@
+@two {f}@|@tvar@
+@two {m}@|@tvair@
+@two {n}@|@tu@
+@village@|@socn@
+@we@|@uir, vir@
+@wedding@|@bryþlaupr@
+@week@|@wica@
+@well@|@uel, vel@
+@what@|@huat, hut@
+@when@|@þa@
+@white@|@huit@
+@widow@|@enkia@
+@with@|@meþ, miþ@
+@woman@|@cuna@
+@work@|@arfuþi@
+@world@|@vereld@
+@wound@|@sar@
+@write@|@scrifa, scrifa@
+@yard@|@garþr, karþr@
+@you@|@þu@
+@young {m}@|@ungr@
+

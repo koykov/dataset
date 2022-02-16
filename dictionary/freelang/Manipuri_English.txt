@@ -1,0 +1,325 @@
+@Manipuri@|@English@
+@Author name@|@Renato B. Figueiredo@
+@[Loktaak] kadaaida lei?@|@Where is [Loktaak]?@
+@aaher@|@come@
+@Aat@|@Walk@
+@Adom eiga chak chaminakhrasi@|@Would you like to lunch@
+@Adom eigi marupni@|@You are my friend@
+@Adom kari toubiribage?@|@What are you doing?@
+@Adom Manipur nungshibara@|@Do you love Manipur@
+@Adomgi ming kari koubage?@|@What is your name?@
+@Adomgi yum kadaida leibage?@|@Where is your house?@
+@Aduda karam haina chatkani?@|@How do I go there?@
+@adum adum@|@So so@
+@ago@|@a@
+@ahaangbaa leite@|@No vacancies@
+@ahil@|@came@
+@ahitoi@|@will come@
+@ahum@|@three@
+@ai [toothpaste] leibaa paami@|@I would like to buy...@
+@Airport ta karamna chatkani?@|@How do I go to airport?@
+@alu@|@Potato@
+@amaa@|@one@
+@anaa layengsang@|@Hospital@
+@anakpaa@|@Near@
+@anee@|@two@
+@angkoresil@|@opened@
+@angkorlo@|@open@
+@Angkortoi@|@will open@
+@aphabaa@|@Good@
+@apnagasi@|@you@
+@asaangbaa@|@Long@
+@Asi kaya pibage?@|@How much is this?@
+@asit awaanthaa@|@Autumn@
+@atenbaa@|@Short@
+@athaappaa@|@Far@
+@athum ahaao@|@Dessert@
+@ayuki chaaklen@|@Lunch@
+@Baxo ego ti tulani parteigo?@|@Can you lift the box?@
+@bhaaraa kayaa no?@|@How much is the fare?@
+@Boho@|@Sit@
+@booking@|@Reservation@
+@bus khaampham@|@Bus station@
+@chaa@|@Tea@
+@chaamaa@|@one hundred@
+@chaanbeeduna@|@Please@
+@chaanbidunaa bill pibirak oo@|@Please bring the bill@
+@chahee@|@Year@
+@Chanbiduna@|@Please@
+@charaa chaabaa@|@Dining@
+@charaa waanbaa@|@Breakfast@
+@Chatcharage@|@Good Bye@
+@chatkhibaa@|@Departure@
+@chatlage@|@Goodbye@
+@cheers@|@Cheers!@
+@cheiyon@|@Week@
+@ching@|@Hill@
+@chingjaao@|@Mountain@
+@Chithi ehan kita likhesita?@|@What is written in the letter?@
+@Chumdring chatlo@|@Go straight ahead@
+@chumdring chumnaa@|@Straight@
+@Dabde@|@Run@
+@Deuri; kiya nattouta@|@Yes; of course@
+@dukaan@|@Shop@
+@Eesing 'glass' ama pibioo@|@Get me a glass of water@
+@Ehan leirikhan@|@It is a book@
+@Ehan leirikhan?@|@Is it a book?@
+@Ehan uttorhan@|@It is the answer@
+@Ehan uttorhan?@|@Is it the answer?@
+@Ei 'teacher' (oja) oi@|@I am a teacher@
+@Ei 'university' da chatningnge@|@I want to go to university@
+@Ei adum pamde@|@I don't want that@
+@Ei adum pamme@|@I want it@
+@Ei amuk hotnajage@|@I want to try again@
+@Ei amuk lakchage@|@I will come back@
+@Ei bhaab taade@|@I do not understand@
+@Ei laktri faoba ngaibiramoo@|@Please wait untill I am back@
+@Ei lambi mang_nare@|@I have lost my way@
+@Ei Manipur nungshi@|@I love Manipur@
+@Ei Manipur pamjei@|@I like Manipur@
+@Ei thabak chil-le@|@I am busy@
+@Ei Ukhrul daginee@|@I am from Ukhrul@
+@Eigi 'call' lakkhibara?@|@Was there a call for me?@
+@Eigi ming Thoithoibi kouee@|@My name is Thoitonbi@
+@Eikhoi@|@We@
+@Eikhoi chatlasi@|@Let us go@
+@Eikhoi kadaida oonasige?@|@Where shall we meet?@
+@ere@|@this@
+@eroijapham pukhee@|@Swimming Pool@
+@gaari saanpham@|@Car rental agency@
+@gunmoroksi@|@Pepper@
+@haangbaa@|@Open@
+@Hai; mi tore bahana pauri@|@Yes; I love you@
+@hayeng@|@Tomorrow@
+@Hayeng lakoo@|@Come tomorrow@
+@heimahee@|@Juice@
+@hello@|@Hello@
+@hidaak yonpham@|@Pharmacy@
+@hiyaangei@|@August@
+@hoi@|@Yes@
+@Horen numidang wairam oonase@|@I'll meet you in the evening@
+@hospital@|@Hospital@
+@humdraa@|@seventy@
+@humphu@|@sixty@
+@ichaanupaa@|@Son@
+@ichaanupi@|@Daughter@
+@imaa@|@Mother@
+@inga@|@March@
+@ingel@|@April@
+@ingraaji@|@English@
+@inthamthaa@|@Winter@
+@ipaa@|@Father@
+@Ipok numit@|@Birthday@
+@Iraal@|@Friday@
+@ising@|@Water@
+@Jaga@|@Go@
+@Jing@|@Win@
+@kaa@|@Room@
+@kaalen@|@February@
+@kaalen@|@Summer@
+@Kalikar bulanihan kisare isil?@|@How was the journey yesterday?@
+@kari nomata hangjage@|@Excuse me@
+@kha@|@Eat@
+@khitang@|@A little@
+@Khurumjari@|@Hello@
+@kime kisade@|@How are you?@
+@Kisare kita?@|@How are you?@
+@Kisare pothhande ti ahilego?@|@Which way did you come?@
+@Kisare sanggot ti gumasilego?@|@In which room did you sleep?@
+@Kisare warihan ti desilego?@|@Which story did you tell?@
+@Kita kita prosno asilta?@|@What were the questions?@
+@Kita kita prosno?@|@What are the questions?@
+@konna amuk unnarasee@|@So long@
+@kun@|@twenty@
+@kun maathoi@|@twenty one@
+@Kun rajyat habitto besi manu?@|@Which Indian state has the largest population@
+@kunthraa@|@thirty@
+@laakh taraa@|@one million@
+@laakpaa@|@Arrival@
+@laangban@|@June@
+@lam koiba@|@Travel@
+@lam koiba singee pao@|@Tourist Information@
+@lambee@|@Street@
+@lamlong@|@Square@
+@lamtaa@|@December@
+@Leibakpokpa@|@Tuesday@
+@leinunggi lambi@|@Subway@
+@leinunggi rail khaampham@|@Subway station@
+@Lengsinbirakoo@|@Welcome@
+@lising amaa@|@one thousand@
+@loinaa@|@All@
+@Lomonkar prosno uhan kihan?@|@What is the last question?@
+@lonbaa@|@Closed@
+@Lunch korlego?@|@Did you have your lunch?@
+@maagi nupaa@|@her husband@
+@maagi nupi@|@his wife@
+@maapan@|@nine@
+@machaanupaa@|@her son@
+@machaanupi@|@my daughter@
+@mahaasaagar@|@Ocean@
+@maikei@|@Directions@
+@Maiyok nabaduda chatlo@|@Go to the opposite@
+@makhaa@|@Down@
+@makhoi@|@They@
+@mamal kayaa pibage?@|@How much does this cost?@
+@manaa masing@|@Vegetable@
+@manaamasing chaabaa@|@Vegetarian@
+@Managergor sanggo kisare ogo?@|@Where is the managers cabin?@
+@mangaa@|@five@
+@Manipur phajei@|@Manipur is beautiful@
+@mapham@|@Places@
+@maree@|@four@
+@mariphu@|@eighty@
+@mariphu taraa@|@ninety@
+@Maru oiba waheising@|@Basic Words@
+@marup@|@Friend@
+@masee ai leirage@|@I'll buy it@
+@Mashi fei@|@This is good@
+@masi karino?@|@What is this?@
+@masing@|@Numbers@
+@matam amasung taang@|@Time and Dates@
+@mathak@|@Up@
+@meraa@|@July@
+@mi@|@I@
+@Mi boli iya asu@|@I am fine@
+@mi hoba@|@I am fine@
+@Mi jauriga@|@I go@
+@Mi kihan korani parurita?@|@What can I do@
+@Mi kihan kortu?@|@What should I do?@
+@Mi tor loge ahitou@|@I shall come with you@
+@Mor hathat koigo apple ase@|@How many apples are in my hand@
+@morok@|@Chillie@
+@Morta kurang jana thok?@|@Where should I go?@
+@nahaak@|@You@
+@nahaak credit card sijinabraa?@|@Do you accept credit cards?@
+@nahaak kadaaidaa leibage?@|@Where do you live?@
+@nakhoi@|@You (plural)@
+@naming kari koubage?@|@What is your name? (1)@
+@nang@|@You@
+@nang@|@You@
+@nang english naangba heibraa@|@Do you speak english@
+@nangi nupaa@|@Your husband@
+@nangi nupi@|@Your wife@
+@nangonda [toothpaste] leibraa?@|@Do you have [toothpaste]?@
+@natte@|@no@
+@ngaa@|@Fish@
+@ngaraang@|@Yesterday@
+@ngasi@|@Today@
+@ningthoukaaba@|@Monday@
+@nipaan@|@eight@
+@niphu@|@forty@
+@Nongmaijing@|@Sunday@
+@numidaangi chaaklen@|@Dinner@
+@numit@|@Day@
+@Nungaijari@|@Fine@
+@nungairibraa?@|@Are you fine?@
+@Nungngai biribra adombo@|@How are you?@
+@Nungshe phajei@|@You are beautiful@
+@Nungshit-nungsha yamna fei@|@The weather is pleasant@
+@oak saa@|@Pork@
+@oi thangbaa@|@Left@
+@Oi_da chatlo@|@Go to the left@
+@oohei@|@Fruit@
+@ore@|@that@
+@ou@|@Yes@
+@paat@|@Lake@
+@phairel@|@November@
+@pharmacy@|@Pharmacy@
+@phattabaa@|@Bad@
+@Phone toufam kadaida leibage?@|@Where can I make a phone call@
+@Pi@|@Drink@
+@poinu@|@September@
+@postcard@|@Postcard@
+@Pot-cheise yomsiloo@|@Pack these things@
+@pot leiba@|@Shopping@
+@pothaapham kaa@|@Restrooms@
+@pung ahumgaa minit taraama.na@|@A quarter past three@
+@pung ahumgaa minit taraama.naa@|@3:15@
+@pung amagaa minit niphu ma.naa@|@One forty-five@
+@pung kayaa taarage?@|@What time is it?@
+@pung taraamaathoi makhai@|@11:30@
+@railgaadi khaampham@|@Train station@
+@saa@|@Meat@
+@Sagolsel@|@Thursday@
+@salaad@|@Salad@
+@san saa@|@Beef@
+@Saobiganu; ei thengkhare@|@Sorry; I am late@
+@shajibu@|@January@
+@shino@|@zero@
+@ta@|@he@
+@Ta ahitoi@|@He will come@
+@Ta apple ago khar@|@He eats an apple@
+@Ta apple ago kharnai@|@He is eating an apple@
+@Ta apple ago khasil@|@He ate an apple@
+@Ta asta ratihan gumjasil@|@He slept the whole night@
+@Ta jarga@|@He goes@
+@Ta jitoiga@|@He will go@
+@Ta kheilo@|@He has eaten@
+@Ta kheitoi@|@He will eat@
+@Ta kidiya bag ogo anlota?@|@Why did he bring the bag?@
+@Ta kidiya paisa diyadilota?@|@Why did she pay the money?@
+@Ta porikkhahan hobakore desil@|@He wrote well in the exame@
+@Ta tore koti dilo?@|@How much did he pay you?@
+@tampaak@|@Valley@
+@tan@|@Bread@
+@Tanu kidiya ohat bohisita?@|@Why did they sit there?@
+@Tanu mosjidgot gesilaga@|@They went to the mosque@
+@Tapna thou@|@Drive slowly@
+@taraa@|@ten@
+@taraa humdoi@|@thirteen@
+@taraa maapan@|@nineteen@
+@taraa maathoi@|@eleven@
+@taraa mangaa@|@fifteen@
+@taraa maree@|@fourteen@
+@taraa nipaan@|@eighteen@
+@taraa nithoi@|@twelve@
+@taraa taret@|@seventeen@
+@taraa taruk@|@sixteen@
+@taret@|@seven@
+@taruk@|@six@
+@tei@|@she@
+@thaa@|@Month@
+@thaagatchari@|@Thank you@
+@thaanaa@|@Police station@
+@Thaangja@|@Saturday@
+@Thakatchari@|@Hearty congratulations@
+@thaknabaa mahee@|@Beverage@
+@thawaan@|@May@
+@thong@|@Bridge@
+@thum@|@Salt@
+@ti@|@you@
+@Ti kidiya ahile?@|@Why did you come?@
+@Ti kidiya gari ohan chalarta?@|@Why do you drive the car?@
+@Ti kidiya gumjile?@|@Why did you sleep?@
+@Ti kihan korisilethang?@|@What did you do?@
+@Ti kisare ahile?@|@How did you come?@
+@Ti kisare gari chalile@|@How did you drive?@
+@Ti kisare gumile?@|@How did you sleep?@
+@Ti kisare likle?@|@How did you write?@
+@Ti kotihan durei jiteigago?@|@How much distance to go?@
+@Ti kurang gumile?@|@Where did you sleep?@
+@Ti kurangto ahile?@|@Where did you come from?@
+@Ti mor loge ahiteigo?@|@Will you come with me?@
+@Ti more bahana pargo?@|@Do you love me?@
+@Ti porikkhat likhani parteigo?@|@Can you write the exam?@
+@To koigo loile?@|@How many did you take?@
+@To tare kidiya janarka matle?@|@Why did you tell him to go?@
+@Tor kolomgo more dergo?@|@Will you give me your pen?@
+@Tor nanghan kihan?@|@What is your name?@
+@Tore kita matesilata?@|@What you had been told?@
+@turel@|@River@
+@Uttorhan kihan oitoi?@|@What will be the answer?@
+@waakching@|@October@
+@yaamna nungaijare@|@You're welcome@
+@yaamna thaagatchari@|@Thank you very much@
+@yaamnaa@|@A lot@
+@yaangkhei@|@fifty@
+@Yamna nungaijare@|@Thank you very much@
+@yen@|@Poultry@
+@yeningthaa@|@Spring@
+@yet thangbaa@|@Right@
+@Yetta chatlo@|@Go to the right@
+@yoo@|@Wine@
+@yumbee@|@Tower@
+@Yumsakeisa@|@Wednesday@
+

@@ -1,0 +1,2206 @@
+@English@|@Abenaki Penobscot@
+@Author name@|@Guy T. Gambill / Charlie Lippert@
+@Font@|@Arial\12\Arial\12@
+@(capital ô; see entries beginning with ô)@|@O’@
+@(nasaled o; see entries containing ô)@|@8@
+@about@|@pabômiwi@
+@abscess@|@pmowa@
+@abundantly@|@mamlawiwi@
+@ace (of cards)@|@naguedawighôsit+ik@
+@acorn@|@anaskemen+al@
+@acre of land@|@alpôn ki@
+@action@|@ladakawôgan@
+@adjourn (v)@|@ôttozik@
+@adoration@|@lôgitôwadwôgan@
+@advise@|@wawinômuk@
+@advocate@|@noji-tbelodmowinno+ak@
+@after@|@kizi@
+@after this year@|@kizi pamgadenek@
+@after today@|@kizi pamkisgak@
+@after tomorrow@|@kizi sabak@
+@afternoon@|@kizi paskwa@
+@afternoon: mid ~@|@nôwakwa@
+@afterwards@|@almitebihlok@
+@again@|@askua, mina@
+@Agatha@|@agat@
+@Agnes@|@ônias@
+@ahead@|@nikôniwi@
+@air@|@awan@
+@alder-tree@|@wdopi+al@
+@ale@|@labial@
+@all@|@mziwi@
+@all year: it's ~@|@mziwigen gaden@
+@almighty (Christian)@|@nônguichi-ntatôgw@
+@almost@|@alwa@
+@almost summer: it's ~@|@alwawigen niben@
+@already@|@kigizi, kizi@
+@also@|@achi, atsi, ni, ta@
+@although@|@minaguiha@
+@American: an ~@|@Pastoni@
+@ancient@|@nônegôni@
+@and@|@ni, ta@
+@and how are you?@|@ni doni gia?@
+@angel@|@ôzali@
+@Angelica@|@ôzalik@
+@angry@|@chilao@
+@ankle@|@alipskweskak@
+@Anna@|@ônis@
+@annually@|@nônguejigadegi@
+@ant@|@alikws+ak@
+@Anthony@|@atoan@
+@apostle@|@wdawasgiskwi@
+@appease (v)@|@awigihômuk@
+@apple@|@aples+ak@
+@apple-tree@|@aplesakuam+ak@
+@April@|@sogalikas@
+@apron@|@tablia+al@
+@archangel@|@kchi ôzali@
+@archipelago@|@mani menahanikak@
+@argument: futile ~@|@pizwi klsowôgan@
+@arm@|@wpedin+al@
+@arrest (v)@|@channozik@
+@arrive (v)@|@paiô, ponômuk@
+@arrow@|@pakus+al@
+@as@|@kôdak, taôlawi@
+@as many@|@nôbi kassi@
+@as much@|@nôbi kassi@
+@as soon as@|@anegitta@
+@as well as@|@nôbi taôlawi@
+@ascension (Christian)@|@spemkik alihlôd@
+@ash (tree)@|@mahlakws+ak@
+@ash tree@|@ogmakwam@
+@ash wood@|@ogma@
+@ashes@|@skwedaipegui@
+@ask@|@nadodemawômuk@
+@ask for@|@nadodemokamuk@
+@ask for (v)@|@nadodôzik, wikodôzik, wikomômuk@
+@ass@|@spônioli ases@
+@assist (v)@|@wijokadôzik, wijokagamimuk, wijokamômuk@
+@attorney@|@noji-tbelodmowinno+ak@
+@August@|@temezôwas@
+@aunt: my cross-~@|@nokem+ak@
+@aunt: my parallel-~@|@nokemis+ak, nokemisis+ak@
+@autumn@|@tagugo, taguôgo@
+@autumn arrives@|@taguôguasin@
+@autumn comes@|@taguôgohla@
+@autumn is coming@|@taguôgihlan@
+@autumn is finished@|@taguôgo tagwagwiwi@
+@autumn is: the way ~@|@alitaguôgoik@
+@autumn: a year ago last ~@|@nialitaguôgo@
+@autumn: all ~@|@mziwitaguôgo@
+@autumn: at the end of ~@|@wanaskiwi taguôgo@
+@autumn: early ~@|@wskitaguôgo@
+@autumn: for many ~ s@|@kasitaguôgowaiwi@
+@autumn: in early ~@|@wskitaguôgoiwi@
+@autumn: in late ~@|@zibkiwi taguôgoiwi@
+@autumn: in mid ~@|@nôwitaguôgoiwi@
+@autumn: it's all ~@|@mziwigen taguôgo@
+@autumn: it's almost ~@|@alwawigen taguôgo@
+@autumn: it's an early ~@|@wskiwigen taguôgo@
+@autumn: it's at the end of ~@|@wanaskiwigen taguôgo@
+@autumn: it's in the beginning ~@|@môjaiwigen taguôgoiwi@
+@autumn: it's late ~@|@zibkiwigen taguôgo@
+@autumn: it's next ~@|@nakwaltak taguôgoik@
+@autumn: it's the beginning of ~@|@môjaiwigen taguôgo@
+@autumn: it's the end of ~@|@matanaskiwigen taguôgo@
+@autumn: it's the following ~@|@nosokak taguôgoik@
+@autumn: it's the middle of ~@|@nanôwigen taguôgo@
+@autumn: last ~@|@taguôgua@
+@autumn: late ~@|@zibkiwi taguôgo@
+@autumn: mid ~@|@nôwitaguôgo@
+@autumn: next ~@|@taguôgiga@
+@autumn: some of the ~@|@naoji taguôgo@
+@autumn: the end of ~@|@machiwi taguôgo@
+@autumn: this ~@|@pamtaguôgoik@
+@autumn: this very ~@|@taguôgoiwitta@
+@autumn: when it's ~@|@taguôgoik@
+@avensroot@|@ahadbak@
+@axe@|@temahigan+al@
+@baby@|@chijiz@
+@back@|@wazwawi, wbeskwan, wkeskouan+al@
+@backward@|@wazwawi@
+@bacon@|@piksiia@
+@bad@|@maji, maji-, majigek, majigit, majigo@
+@bad weather: it's ~@|@majekisgad@
+@bad year@|@majigaden@
+@bad year: it's a ~@|@majigen gaden@
+@bad years: these are ~@|@majigenol gadenal@
+@bait@|@awôgan@
+@baker@|@nodabônkad@
+@balance@|@tebôbakhigan+al@
+@ball@|@mamsag+il, pabaskhamôgan+ak@
+@bank (shore)@|@senojiwi+al@
+@banker@|@môni nojinademiwad@
+@bank-swallow (bird)@|@pnegôkihlasis@
+@bar@|@soghebaigamigw+ol@
+@barber@|@noji-chigetowawwat+ik@
+@barley@|@tlots+al@
+@barn@|@kchikaozigamigw+ol@
+@basket@|@abaznoda+l@
+@basket-maker@|@noji-abaznodakad+ik@
+@bass@|@môlazigan+ak@
+@basswood@|@wigbimizi+ak@
+@bat@|@madagenilhas+ak@
+@be (v)@|@aimek@
+@be saving (v)@|@manazaawimuk@
+@beads@|@aiamih(ganal@
+@beam-tree berries@|@adotomen-al+ak@
+@bean@|@atebakw+al, tebaku+al@
+@bear@|@awasos@
+@beat (v)@|@pôktahômuk@
+@beauty@|@wligowôgan@
+@beaver@|@tmakwa+k@
+@beaver meat@|@tmakwaiia+k@
+@beaver pelt@|@tmakwaawa@
+@beaver skin@|@tmakwaawa+k@
+@because@|@ali, oji ala, oji ali, wzomi@
+@bee@|@wawilômwa+k@
+@beech@|@wajoimizi+ak@
+@beechnut@|@wajoimen+al@
+@beef@|@kaoziia@
+@beer@|@labial@
+@beer: small ~@|@labialsis@
+@before ~@|@asma nôwidbakad@
+@before tomorrow@|@asma sabak@
+@beforehand@|@kigizi@
+@begin (v)@|@môjahômuk, môjatôzik@
+@begin: in the ~ning@|@waji mjassaik, waji môjassaik@
+@beginning of autumn: at the ~@|@môjataguôgiwi@
+@beginning of the year: it's ~@|@môjawigen gaden@
+@behind@|@kwelbiwi@
+@belly@|@mlagzi+al, wlagzi+al@
+@belly ache@|@wessagagzawôgan@
+@belt@|@kwutguabizon@
+@bend (v)@|@pakôgnômuk, pakôgnôzik@
+@Bernard@|@pelnal@
+@besides@|@chebiwi@
+@better@|@mawia@
+@beyond@|@awasiwi@
+@big@|@kchi@
+@birch@|@maskwamozi@
+@birch-bark@|@maskwa+l@
+@bird@|@sips@
+@bird of prey@|@siômo+ak@
+@bird: female ~@|@sips skualha@
+@bird: female ~s (pl.)@|@sips skualhaak@
+@bird: little ~@|@sibsis+ak@
+@bird: male ~@|@nôbalha+k, sips nôbalha@
+@bird: male ~s (pl.)@|@sips nôbalhak@
+@bird: small ~@|@sibsis+ak@
+@bishop@|@sôgmôwi patlihôz+ak@
+@bite (v)@|@sagadôzik, sagamômuk, sagamwamuk@
+@bittern@|@pokhamenes+ak@
+@black@|@mkazawi@
+@black liquid@|@makazawbagak@
+@black liquid: it's ~@|@mkazawbaga@
+@black pudding@|@podinak@
+@black spruce@|@mskak+ak@
+@black: he is ~@|@mkazawigo@
+@black: it's ~@|@mkazawigen, mkazawigo@
+@black: she is ~@|@mkazawigo@
+@black: the ~@|@makazawigek@
+@blacksmith@|@nodalhagokad@
+@bladder@|@wbesnoda@
+@blessed one@|@wawasinno@
+@blessed soul@|@wli mjejakw@
+@blizzard@|@pmipsôn@
+@blood@|@bagakaw, pagakan@
+@bloodroot@|@papagakanilhôk@
+@bloodsucker@|@pabaskw+ok@
+@blossom@|@wlemskw+ol@
+@blow: it ~s@|@kzelômsen@
+@blue@|@wlôwi@
+@blue dye@|@wlôw'atsigan@
+@blue jay@|@tidesso+ak@
+@blue paint@|@wlôwi sezowigan@
+@blue sky@|@kakasakw@
+@blue: he is ~@|@wlôwigo@
+@blue: it's ~@|@wlôwigen@
+@blue: she is ~@|@wlôwigo@
+@blueberry@|@sata+l@
+@blueberry-bush@|@satamozi+al@
+@bluish@|@wlôwôbamegua@
+@boa@|@msaskog+ak@
+@boat@|@pados+al@
+@bobcat@|@bezo, wigwedi@
+@bobolink@|@nbesi-chogleskw+ok@
+@body@|@mahaga+al@
+@boil@|@pmowa@
+@boiled egg@|@taliodagil wôwan+al@
+@boiled meat@|@taliozigan@
+@bone@|@wskan+k, wskaw@
+@bonnet@|@phanemasolkwôn+al@
+@boot@|@pots+al@
+@bottle@|@potôiia+ak@
+@bow@|@lôbaktaigan+al, tôbi@
+@bowel@|@mlagzi+al@
+@bowels@|@Wlagzial@
+@box@|@paks@
+@boy: little ~@|@w'skinnossis@
+@bracelets@|@wpedinôbial@
+@brain@|@wlidebôn@
+@brain and marrow@|@wilidebôn ta win@
+@branch@|@pskaôtkwen+ol@
+@brandy@|@blandi@
+@bread@|@pkuazigan@
+@break (v)@|@pasktahôzik, poskwenômuk, wagiômuk, wagitôzik@
+@break (with the feet) (v)@|@poskwkawômuk@
+@break (with the hands) (v)@|@poskwenômuk@
+@breakfast@|@wspôsipowôgan@
+@breast@|@bobos, dodos@
+@breasts@|@nonozak@
+@breathing@|@nasawan@
+@breeches: pair of ~@|@plejes+al@
+@breech-loader@|@papkwesbalôg paskigan@
+@breeze@|@alômsen@
+@breeze: gentle ~@|@wlelômsen@
+@breeze: it's a cool ~@|@tekawanisen@
+@breeze: it's a nice ~@|@walilômsek@
+@bridge@|@lessaguôgan+al@
+@bridle@|@nobalobi@
+@bring (v)@|@padôzik, pazwômuk@
+@bring back@|@nimskôzik@
+@brook@|@sibos+al@
+@brook: a little ~@|@sibosis+al@
+@broth@|@kzôbo@
+@brother: my ~ (speaker female)@|@nidôbso+ak@
+@brother: my ~ (speaker male)@|@nijia+ak@
+@brother: my father's ~@|@n'nôjikw+ak@
+@brother: my husband's ~ (speaker female)@|@nadôgw+ak@
+@brother: my mother's ~@|@n'zasis+ak@
+@brother: my older ~@|@nidokan+ak@
+@brother: my wife's ~ (speaker male)@|@nadôgw+ak@
+@brother: my younger ~@|@nichemis+ak@
+@brother-in-law: my ~@|@nadôgw+ak@
+@brow@|@wskadgwa@
+@brown: it's ~@|@wdamôôbamegua@
+@buffalo@|@pziko+ak@
+@buffalo: bull ~@|@pziko aiôba+ak@
+@buffalo: female ~@|@pziko aiôbaak+ak, pziko allha+ak@
+@buffalo: male ~@|@pziko aiôba+ak@
+@buffalo: three year old ~@|@wdosoallha peziko+ak@
+@buffalo: two year old: ~@|@pziko kadnadokw+ak@
+@buffalo: yearling ~@|@pzikomakwsessis@
+@bug@|@maskejamôgwses+ak@
+@bullet@|@mamsag+il@
+@bullfrog@|@agebalam@
+@Burlington@|@Paliten@
+@burn (v)@|@chegasôzik@
+@bury (v)@|@poskenômuk@
+@bush@|@pami pizagak@
+@bush: in the ~@|@pami pizagak@
+@bushel@|@minot@
+@bushel: half a ~@|@temiminot@
+@but@|@kanwa@
+@butter@|@wisôwipemi@
+@butterfly@|@mamijôla+k@
+@buttocks@|@wkeji@
+@button@|@patnes+al@
+@buy@|@manohigamuk@
+@buy (v)@|@manohômuk, manohôzik@
+@cabbage@|@kabij+al@
+@cabin: in the ship's ~@|@alômsagok@
+@cabin: ship's ~@|@alômsagw+ol@
+@cake@|@abônis+ak@
+@calf@|@kaozis+ak@
+@calico@|@mômôlagen+ol@
+@calm@|@awiben@
+@calm (the water)@|@awiben@
+@Canada@|@Kanada@
+@canal@|@kanal+al@
+@cane@|@ôbadahon+al@
+@canoe: bark ~@|@wigwaol@
+@captain@|@kaptin+ak@
+@captain: ship's ~@|@kaptin+ak@
+@car@|@kaas+al@
+@card@|@telap+ak@
+@caribou@|@magôlibo+ak@
+@caribou hide@|@magôliboawa@
+@caribou skin@|@magôliboawa@
+@carman@|@nodôjiphowad+ik@
+@carp@|@wôbhagas+ak@
+@carpenter@|@nojikkad+ik@
+@carry away (v)@|@môjalômuk@
+@cart@|@wakôlikws@
+@carter@|@nodôjiphowad+ik@
+@cascade@|@panjahlôk+il@
+@castle@|@kinjamesigamigw+ol@
+@cat (domestic)@|@minowis+ak, pezois+ak@
+@Catherin@|@katetin@
+@cattle@|@nidazoak@
+@cattle: herd of ~@|@nidazoak@
+@cedar@|@môlôdagw+ok@
+@cent@|@sans@
+@cent: ten ~s@|@mdala sansak@
+@centuple@|@nguedatgua kasta pkawiwi@
+@chain@|@ônkawalagiadiganal@
+@chamber: in the ship's ~@|@alômsagok@
+@chamber: ship's ~@|@alômsagw+ol@
+@change (coin)@|@sakwskigek@
+@chaplet@|@aiamih(ganal@
+@charity@|@kdemôgalgawôgan@
+@Charlotte@|@sallot@
+@Cheek@|@wanaowa@
+@cheese@|@chiz@
+@cherry@|@adbimen+al@
+@cherry-tree@|@adbimenakuam+ak@
+@chest@|@paks, wnozoganak@
+@chestnut@|@pagônis+al@
+@chickadee@|@kejegigilhasis+ak@
+@chicken@|@ahamo+ak, ahamois+ak@
+@chief: a ~@|@sôgmô+k@
+@chief's wife@|@sôgmôskua@
+@child: young ~@|@awonssis, awôssis@
+@chin@|@mdôppikan+al, wdôpikan@
+@chipmunk@|@anikwses+ak@
+@church@|@aiamihawigamigw+ol@
+@cider@|@saidal@
+@city@|@odana+al@
+@Clarissa@|@klalis@
+@clean@|@pakihômuk, pakitôzik@
+@clear (v)@|@pakihômuk, pakitôzik@
+@clear sky: it's a ~@|@kakasokw@
+@clerk@|@komi+ak@
+@cloak@|@kchi-patôn+al@
+@cloud@|@asokw, mnasokw@
+@cloud approaching: a ~@|@zôkhasokwad@
+@cloud covers@|@psanasokwad@
+@cloud gets bigger: the ~@|@pemasokwad@
+@cloud: an isolated ~@|@menasokw@
+@cloud: white ~@|@wôbasokw@
+@clouds: dark ~@|@mkazawiasokwad@
+@clouds: there are thick ~@|@kpagasokwad@
+@cloudy: it's a little ~@|@asokwadoso@
+@coast@|@pamkaak@
+@Coaticook@|@Koattegok@
+@cock (male bird)@|@nôbalha+k@
+@cock (of a gun)@|@alemos@
+@cod@|@nokamagw+ok@
+@cold (illness)@|@wesgoinôgan@
+@cold (v)@|@n'kwaskwaji@
+@cold weather: it's ~@|@tka, tkegisgad@
+@cold: it's ~@|@kwaskwajimek, tka@
+@cold: It's ~ here.@|@tkigen iodali@
+@cold: we are ~.@|@n'kwaskwajibna@
+@collar@|@nobkoan+ol@
+@colonel@|@kolnal@
+@colt@|@wski asesis@
+@comb@|@naskuahon+ak@
+@comb (v)@|@naskuahômuk@
+@comb oneself (v)@|@naskuahozimuk@
+@come@|@paiômuk, ponômuk@
+@complain@|@madwôzimuk@
+@conceal (v)@|@kôttômuk, kôttôzik@
+@congratulate (v)@|@mômjimômuk@
+@congratulate eachother (v)@|@mômjidimuk@
+@consumption@|@mannachôgowôgan@
+@content (v)@|@walilawatôzik@
+@converse (v)@|@ôdokazimuk@
+@cook@|@nobatebit@
+@cool air@|@tkawansen@
+@cool: it's ~@|@tkawansen@
+@cork (v)@|@kabh(muk@
+@corn soup@|@nsôbon@
+@corn: Indian ~@|@skamon+al@
+@cougar@|@bittôlo@
+@cough@|@wesgoinôgan@
+@count (v)@|@agimômuk@
+@cousin: my female cross-~ (speaker female)@|@nadôgwsis+ak@
+@cousin: my female cross-~ (speaker male)@|@nadôgweskwa+ak, nadôgwseskua+ak@
+@cousin: my male cross-~@|@nadôgwes+ak@
+@cow@|@kaoz+ak@
+@cow-bunting (bird)@|@chogleskw+ok@
+@cowhide@|@kaozawa+ak@
+@cranberry@|@popokua+l@
+@cranberry-bush tree@|@nibimenakuam+ak@
+@crape@|@aazatak+il@
+@crew@|@pgoisak@
+@cricket@|@chôls+k@
+@crow@|@mkazas+ak@
+@crucifixion@|@sidakwtahodwôgan@
+@crutch@|@ôbadahon+al@
+@cry@|@kôgôkwawôgan@
+@cry (v)@|@kôgôlwamuk@
+@cucumber@|@askitameg+il@
+@cup@|@kwatsis+ak@
+@currant@|@pessimen+al@
+@curtains@|@aguanagiadiganal@
+@cut (v)@|@tamezômuk, tamezôzik@
+@cut (with a knife)@|@wagsozowôgan@
+@cut (with a knife) (v)@|@poskwezômuk, poskwezôzik@
+@cut (with an axe)@|@wagtahozowôgan@
+@cut (with an axe) (v)@|@poskwtahôzik@
+@cut a deck of cards@|@nadonômuk@
+@cut down a tree (v)@|@kawhakuamuk, kawhômuk@
+@damage@|@wagiômuk, wagitôzik@
+@damp weather: it's ~@|@wdagkisgad@
+@dance: he ~s@|@pemega@
+@dance: I ~@|@n'pemegô@
+@dance: she ~s@|@pemega@
+@dancer@|@pemegawinno+ak@
+@dancing@|@pemegawogan@
+@Daniel@|@tanial@
+@daughter-in-law: my ~@|@n'sem@
+@David@|@tabid@
+@day@|@kisokw, kisokw+ol@
+@day after tomorrow@|@kisokw kizi sabak@
+@day before yesterday@|@kisokw asma wlôgwak@
+@day break@|@sobhôban@
+@day long: all ~@|@kwankisokok@
+@day time: in the ~@|@kisgadiwi@
+@day: in ~ time@|@kisgadiwi@
+@day: in the ~@|@kisgadiwi@
+@day: it's a rainy ~@|@soglônkisgad@
+@day: next ~@|@achakuiwik@
+@day: one ~@|@pazeguen kisokw@
+@daylight@|@kirzôban@
+@daylight: at ~@|@kizôbak@
+@daytime@|@kisgadiwi@
+@December@|@pebonkas@
+@deck of cards@|@negneji chebezoak telap+ak@
+@deck: on the ship's ~@|@wskidolagua@
+@declare (v)@|@ôjemimuk@
+@declare one's fault (v)@|@ôdokôlômuk@
+@deer@|@nolka+k@
+@defend (v)@|@ikôdozik, ikôlômuk@
+@defend eachother (v)@|@ikôldimuk@
+@defend one's self (v)@|@ikôlzimuk@
+@dentist@|@noji-kadôbidaphowad+ik@
+@dessert@|@kasilawahosowôgan@
+@dew@|@nebiiskad, nebiskat@
+@dew falls@|@nebiiskihla@
+@diety@|@niwaskowôgan@
+@difficult year: a ~@|@ôzahagigaden@
+@difficult year: it's a ~@|@ôzahagigen gaden@
+@difficult years: these are ~@|@ôzahagigenol gadenal@
+@dime@|@mdalasis@
+@dinner@|@paskuaipowôgan@
+@directly@|@sasagiwi@
+@disease@|@akuamalsowôgan@
+@dishonest@|@adagi@
+@displace (v)@|@awskônômuk, awskônôzik@
+@disturb@|@wagawnômuk, wagawnôzik@
+@ditch@|@psakaigan+il@
+@doctor@|@noji-nbizonhowad+ik@
+@dog@|@adia+ak, alemos+ak@
+@dog: my ~@|@n'-d-amis, n-d-amis@
+@dog: my ~s@|@n'-damisak@
+@dollar@|@pazeko môni@
+@Dorothy@|@toloti@
+@double@|@I'kawiwi@
+@drab@|@wibgui@
+@draw@|@wikwnômuk, wikwnôzik@
+@drawers@|@aalômkôzik plejes@
+@dream (a dream)@|@leguasowôgan@
+@drink (v)@|@kadosmimek@
+@drink: he ~s@|@kadosmo@
+@drink: I ~@|@n'kadosmi@
+@drink: Let's ~.@|@Gadosmida.@
+@drizzle@|@awalôn@
+@drone@|@kchi wawilômwa+ok@
+@drowsiness@|@nolmukwsowôgan@
+@drum@|@pakholigan+ak@
+@drummer@|@noji-pakholid+ik@
+@dry (v)@|@pakwsasômuk, pakwsasôzik@
+@dry oneself (v)@|@pakwsasozimuk@
+@dry weather: it's ~@|@pakwsatakisgad@
+@duck: black ~@|@kwiguigum+ok@
+@duck: sea ~@|@sobagwilha+k@
+@duck: wood ~@|@alônteguilha+k@
+@durable (inan)@|@sôglizit@
+@Durham@|@Kwanahômoik@
+@during every year@|@negwedjigadenwaiwi@
+@during the year@|@negwedgadeniwi@
+@dust@|@towipegw@
+@dye@|@atsigan+al@
+@dye it: I ~@|@n'-d-atsemen@
+@dye it: we ~@|@k'-d-atsemenana, n'd'atsemenana@
+@dye red: I ~@|@n'moku'atsiga@
+@dye: I ~@|@n'-d-atsiga@
+@eagle@|@megeso+ak, mgeso+ak@
+@eaglet@|@mgesois+ak@
+@ear@|@wdawagw@
+@early@|@nabiwi@
+@early summer: it's an ~@|@wskiwigen niben@
+@ear-ring@|@saksahon+al@
+@earth@|@ki@
+@earth: our (incl.) ~@|@kdakinna@
+@earthquake: there is an ~@|@nanamkiapoda@
+@east@|@waji-nahilôt, waji-nahilt@
+@east: from the ~@|@waji-sôkhipozit@
+@East: land of the ~@|@ôbanaki, wôbanaki@
+@east: to the ~@|@waji-sôkhipozit@
+@eat (v)@|@mijimuk, mijôzik, mohômuk@
+@eat: Let's ~.@|@mijida.@
+@Edward@|@Edoal@
+@eel@|@nahômo+ak@
+@egg@|@wôwan+al@
+@eight@|@nsôzek@
+@eight hundred@|@nsôzek kasatgua@
+@eight times@|@nsôzek kasta@
+@eighteen@|@nsôzek kasônkaw@
+@eighty@|@nsôzek kasinska@
+@elbow@|@mkeskuan+al, wkeskwan@
+@elder (tree)@|@saskib+al@
+@eleven@|@nguedônkaw@
+@Elizabeth@|@alizbat@
+@elk@|@wôboz@
+@Ellen@|@alan@
+@elm@|@anibi+ak@
+@elsewhere@|@paliwi@
+@employ (v.)@|@awakatôzik@
+@end@|@matanaskiwi@
+@end of autumn: it's at the ~@|@wanaskiwigen taguôgo@
+@end of the year: at the ~@|@wanaskiwigaden@
+@end of the year: it's at the ~@|@wanaskiwigen gaden@
+@end of the year: it's the ~@|@machiwigen gaden, matanaskiwigen gaden@
+@end: at the ~@|@matanaskiwi@
+@England@|@Iglismônki@
+@Englishman@|@Iglismôn@
+@enough@|@kwaskuai@
+@envelope@|@wissiguakhigan+al@
+@eternal (God)@|@askaminnowit@
+@Europe@|@Agômenoki@
+@European@|@Wdagômenoki+ak@
+@evangelist@|@wawasi kigamowinno+ak@
+@even@|@tatebi@
+@evening@|@wlôgol@
+@evening: in the ~@|@wlôgwiwi@
+@evening: this ~@|@pamlôguik, pamlôgwik@
+@everything@|@mziwi@
+@everywhere@|@nalwiwi@
+@exhort (v)@|@wawinômuk@
+@expect (v)@|@askawitôzik@
+@explain (v)@|@ôdokôdôzik@
+@extended steeprock@|@kôkajigapskw+ol@
+@eyes@|@wsizgowal@
+@face@|@ondokazi, wsizokw@
+@fainting-fit@|@pzejilahwôgan@
+@faith@|@wlokuahigan, wlômawaldamwôgan@
+@fall (autumn)@|@tagugo, taguôgo@
+@fall: a year ago last ~@|@nialitaguôgua@
+@fall: in ~ (autumn)@|@taguôgowiwi@
+@fall: last ~@|@taguôgua@
+@fall: next ~@|@taguôgiga@
+@fan@|@ôbasawwan+ak@
+@far@|@nopaiwi@
+@farm: our ~@|@k'-d-akinna@
+@Father (trinity)@|@wanamônit@
+@father and son@|@kchai ta wski alnôba@
+@father: her ~@|@wdadana, wmilôgwsa, wmitongwa@
+@father: his ~@|@wdadana, wmilôgwsa, wmitongwa@
+@father: my ~@|@n'mitôgwes@
+@father: my ~ (formal)@|@n'mitangwes@
+@father: my ~ (personal)@|@n'dadan@
+@father: my spouse's ~@|@n'zihlos, n'zikhôs@
+@father: our (excl.) ~@|@n'mitôgwsena@
+@father: our (excl.) ~s@|@n'mitôgwsenawak@
+@father: our (incl.) ~@|@kmitôgwsena@
+@father: their ~s@|@wmitôgwsowô@
+@father: thy ~@|@k'mitôgwes@
+@father: your ~@|@k'mitôgwes@
+@father: your ~s@|@kmitôgwsowôk@
+@father-in-law: my ~@|@n'zihlos, n'zikhôs@
+@fear@|@sagzimek@
+@fear: he ~s@|@sagzo@
+@fear: I ~@|@n'sagzi@
+@fear: she ~s@|@sagzo@
+@fear: you ~@|@n'sagzi@
+@feather@|@miguen@
+@February@|@piaôdagos@
+@fence@|@pmelodigan+al@
+@fence rails@|@pmelodiganakuamal@
+@fern@|@masozi+al@
+@fetch (v)@|@nimskawômuk, nimskôzik@
+@fever@|@kezabzowôgan@
+@few@|@tagasiwi@
+@few years@|@wakasigaden@
+@fiddle@|@lôbaktaigan+al@
+@fiddler@|@nodôbaktahigad+ik@
+@field@|@kikôn+al@
+@fields: large ~@|@maseguikwik-il kikôn-al@
+@fife@|@piguôngan+al@
+@fifteen@|@nônônkaw@
+@fifteenth@|@nônnônkawakwôbabit@
+@fifth@|@nôlan akwôbabit, nôlan alagimguak, nônni chebenôzik@
+@fiftieth@|@nôninska akwôbabit, nônninskaalagimguak@
+@fifty@|@nônninska@
+@fight (v)@|@migakamuk@
+@filbert@|@pagônis+al@
+@fill up with things (v)@|@pasanlhôomuk, pasantôzik@
+@fill with liquid (v)@|@pasanbaadôzik, pasanbaalômuk@
+@fill with sand or fine gravel (v)@|@pasanômkahômuk, pasanômkahôsik@
+@filly@|@wski asesis@
+@fine cloth@|@whawlatagak+il@
+@fine: I'm ~.@|@newowlowzi.@
+@finger@|@witkwalji@
+@finish@|@taguaguiômuk, taguaguitôzik@
+@finish (v)@|@taguagualokamuk@
+@fire@|@skweda@
+@firewood@|@awazonal@
+@firmament@|@asokw@
+@first@|@nitamabit, nitamagimguak@
+@fir-tree@|@kokokhôakw+ok@
+@fish@|@namas+ak@
+@fish (v)@|@ômamuk, ômawômuk@
+@fish bone@|@namas mskan@
+@fish brain@|@namas mlidbôn@
+@fish cheek@|@namas wanowa@
+@fish dorsal fin@|@namas mzabi kaskilji, namas pskwan kaskilji@
+@fish egg@|@namas wôwan+al@
+@fish eye@|@namas msizukw+ol@
+@fish fin@|@namas kaskilji@
+@fish gill@|@namas mpan@
+@fish gullet@|@namas kwedôgan@
+@fish guts@|@namas mlagzial@
+@fish head@|@namas mdeb@
+@fish heart@|@namas mlawôgan@
+@fish liver@|@namas mskwen@
+@fish mouth@|@namas mdon@
+@fish pectoral fin@|@namas mdolka kaskilji@
+@fish scales@|@namas plagadagenol@
+@fish skeleton@|@namas chibai mskan@
+@fish skin@|@namas madagen@
+@fish skull@|@namas chibai mdeb@
+@fish tongue@|@namas wilalo@
+@fish tooth@|@namas wibid+al@
+@fisher (animal)@|@wlanigw+ak@
+@fisher: young ~ (animal)@|@wlangiwsis+ak@
+@fisherman@|@nodômad+ik@
+@fish-hook@|@chawapenigan@
+@fishing@|@ômawôgan@
+@fishing spear@|@nodamaguôngan+ak@
+@fishing-line@|@chawapeniganatagw+ol@
+@fishing-rod@|@chawapeniganakuam+al@
+@fish's bone@|@namasi wskan@
+@fish's brain@|@namasi wlidbôn@
+@fish's eye@|@namasi wsizukw@
+@fish's gill@|@namasi mpan@
+@fit: a ~@|@wjibilwas@
+@five@|@nlan@
+@five hundred@|@nônnatgua@
+@five times@|@nonneda@
+@fix (v)@|@walitebahlômuk, walitebahtôzik@
+@flag@|@mdawagen+ol, ndawagen+ol@
+@flame@|@skweda@
+@flannel@|@kalizad+al@
+@flat@|@abagi@
+@flat (anim)@|@abagigek@
+@flat (inan)@|@abagigit@
+@flea@|@pabigw+ak@
+@flesh@|@wios@
+@flint@|@masipskw@
+@florist@|@noji-pskwasawônkad+ik@
+@flour@|@nokhigan@
+@flute@|@piguôngan+al@
+@fly (insect)@|@wjawas+ak@
+@foam@|@pitah@
+@fog@|@awan, pesgawan@
+@fog: it's ~gy@|@pesgawan@
+@fog: it's a little ~gy@|@pesgawanoso@
+@fog: when it's ~gy@|@pesgawak@
+@foggy weather: it's ~@|@pesgwanikisgad@
+@fold@|@pakawagnômuk@
+@follow@|@nosokawômuk, nosokôzik, nosokozimuk@
+@following day@|@nosokak kisokok@
+@following year: it's the ~@|@nosokak gadenek@
+@following/next day@|@nakwaltak kisokok@
+@foot@|@wzid@
+@for@|@wzomi@
+@for fear that@|@oji ali naatôzik, weji alinsatôzik@
+@forest@|@kpiwi@
+@forest: in the ~@|@kpiwi@
+@forge@|@nodahlagokaigamigw+ol@
+@forget (v)@|@wanaldôzik, wanalmômuk@
+@fork@|@nimatguahigan+al@
+@formerly@|@negôniwi, nowat@
+@forthwith@|@nitta@
+@fortieth@|@iawinska akwôbabit@
+@forward@|@nikôniwi, pejidakamuk@
+@four@|@iaw@
+@four hundred@|@iawatgua@
+@four times@|@iawada@
+@fourteen@|@iawonkaw@
+@fourth@|@iaw akwôbabit@
+@fourty@|@iawinska@
+@fox@|@wôkwses+ak@
+@franc@|@pinso@
+@France@|@Plachmônki@
+@Francis@|@plasoa@
+@freezing rain: it's ~@|@ôpchikadenwisoglôn@
+@freezing weather: it's ~@|@ôpchikadenwikisgad@
+@French village@|@plachmôni odana@
+@Frenchman@|@Planchmôn@
+@frequently@|@wigawôjiwi@
+@fricassee: a ~ (as of beef)@|@segueskejakhigan@
+@Friday@|@skawatukwikisgad@
+@friend: he/she is my ~.@|@nidoba agema.@
+@frigate@|@ktolagw+ol@
+@frog@|@chegual+ak@
+@frost@|@kladen, wôbaskaden@
+@frost: glazed ~@|@sikwla@
+@frosty: it's ~@|@wôbskihla@
+@froth@|@pitah@
+@frozen: it's ~@|@kladen@
+@fuel@|@awazonal@
+@further@|@chitôiwi@
+@furthermore@|@askua awasiwi, awasiwi@
+@futile@|@pizwi@
+@gale: it's a ~@|@sakpôlômsen@
+@gallon: half a ~@|@pabas'galanoo@
+@gallon: ten ~s@|@mdala kas'galanoo@
+@garden@|@nbizonkikôn+al@
+@garters@|@kiganôbial+al@
+@gentle@|@wli@
+@genuine@|@pôgui@
+@genuine (anim)@|@pôguigek@
+@genuine (inan)@|@pôguigit@
+@German@|@Alemôn@
+@Germany@|@Alemônki@
+@gesture@|@ladakawôgan@
+@giddiness@|@kiwanaskualhawôgan@
+@gin@|@jin@
+@ginger@|@agômnoki-moskuaswaskw@
+@ginger: wild ~@|@alnôbai tipoabel@
+@girdle@|@kwutguabizon+al@
+@girl: young ~@|@n'ôkskuasis@
+@give away (v)@|@magamuk@
+@Give me something.@|@mili gagwi.@
+@Give me.@|@mili.@
+@glass@|@aazasit+ik@
+@globe@|@ki@
+@globe: our (incl.) ~@|@kdakinna@
+@glove@|@aaliljômuk+ik@
+@go away (v)@|@môjimuk@
+@Go.@|@alosa.@
+@go: Let's ~.@|@alsoda.@
+@goat@|@kots+ak@
+@God@|@kchi niwaskw, tabaldak@
+@godfather: my ~ (traditional)@|@kalnegoa@
+@godmother: my ~ (traditional)@|@kalnegoa@
+@gold@|@pilaskwi-m(ni@
+@gold coin@|@pilaskwi-m(ni@
+@goldsmith@|@noji-wizôwim(nikad+ik@
+@good@|@waligek, waligit, wli@
+@good year: a ~@|@wligaden@
+@good year: it's a ~@|@wligen gaden@
+@good years: these are ~@|@wligenol gadenal@
+@good: he is ~@|@wligo@
+@good: he/she is ~@|@oligo@
+@good: it's ~@|@oligen, wligen, wligo@
+@good: she is ~@|@wligo@
+@goodbye@|@adio@
+@goodness@|@wligowôgan@
+@goose@|@wôbigilhakw+ok@
+@goose: wild ~@|@wôbtegua+k@
+@gooseberry@|@kôwakwimen+ak@
+@governor@|@kchi sôgmô+ik@
+@gown@|@phanemi-pitkôzon+al@
+@grandchild: her ~@|@osessa@
+@grandchild: his ~@|@osessa@
+@granddaughter: my ~@|@nosses@
+@grandfather@|@mahom@
+@grandfather: my ~@|@n'mahom@
+@grandmother@|@nokmes@
+@grandmother: her ~@|@okemessa@
+@grandmother: his ~@|@okemessa@
+@grandmother: my ~@|@nokemes@
+@grandmother: their ~@|@okemeswô, okemeswôn@
+@grandson: my ~@|@nosses@
+@grape@|@môlôgowimen+al@
+@gravel@|@senômkol+al@
+@grease@|@pemi@
+@great@|@kchi@
+@great lake@|@kchi nebes+al@
+@Great Spirit@|@kchi niwaskw@
+@green@|@askaskui@
+@green dye@|@askasku'atsigan@
+@green paint@|@askaskui sezowigan@
+@green: it's ~@|@askaskuigan@
+@Gregory@|@klegual@
+@grey@|@wibgui@
+@grey: he is ~@|@wibguigo@
+@grey: it's ~@|@wibguigen, wibguigo@
+@grey: she is ~@|@wibguigo@
+@grocer@|@klosli+ak@
+@ground hemlock@|@sagaskôdagw+ok@
+@ground: our ~@|@k'-d-akinna@
+@ground-nut@|@skibô+k@
+@grumble (v)@|@madwôzimuk@
+@gull@|@kaakw+ok@
+@gull: small grey ~@|@kaakw+ok@
+@gun@|@paskhigan+al@
+@gun: double-barreled ~@|@nahnisakwtag+il@
+@gunsmith@|@noji-paskhiganikat+ik@
+@hail@|@pabadegw+ok@
+@hail: it will ~@|@pabadegoji@
+@hailing: it's ~@|@pabadegwoo@
+@hair@|@wdepkwanal@
+@hair of the head@|@wdupkuan+al@
+@hairs@|@piassoal@
+@half@|@psigia@
+@half an hour@|@pabasômkipoda@
+@halfpenny@|@somalkin@
+@ham@|@wibalasigan@
+@hammer (of a gun)@|@alemos@
+@hand@|@welji@
+@hand and the foot@|@melji ta mezid+al@
+@handkerchief@|@moswa+al@
+@handsome (anim)@|@waligek@
+@handsome (inan)@|@waligit@
+@hare@|@mateguas+ak@
+@harness@|@aseswôbial@
+@harness-maker@|@noji-aseswôbikad+ik@
+@harrow@|@nokapodigan+al@
+@harrow: I ~@|@n'nokapodiga@
+@harrow: my ~@|@n'nokapodigan@
+@harrowing: act of ~@|@nokapodigawôgan@
+@harvest@|@kawakwnigawgan, kawakwnigawôgan@
+@hat@|@asolkwôn+al@
+@hatter@|@nodasolkwônkat+ik@
+@have (v)@|@wajônômuk, wajônôzik@
+@hawk@|@siômo+ak@
+@hay@|@mskiko+al@
+@hay-fork@|@mskikoi-nimateguai'gan+al@
+@hay-stack@|@tebeskahigan+al@
+@hazelnut@|@pagôn+al@
+@hazy: it's ~@|@nolemasokwad@
+@he@|@agmah', w'@
+@head@|@mdup, wdep@
+@head-ache@|@mdupinawôgan@
+@heads@|@namas mdebal fish@
+@health@|@sôglamalsowôgan@
+@hear (v)@|@tapsedawômuk, tapsedôzik@
+@heart@|@mlawogan+al, wlawngan, Wlawôgan, wlawongan@
+@heat@|@wlôda@
+@heat: there is ~@|@wlôda@
+@heaven@|@spemki@
+@heavy@|@takwiguelek, tkuigui@
+@heavy (anim)@|@takwiguak@
+@heavy (inan)@|@takwiguelek@
+@heavy: it appears ~@|@tkwaguinôgwat@
+@heifer@|@kaozis+ak@
+@hello@|@kway@
+@help@|@wijokadôzik@
+@help (v)@|@wijokagamimuk, wijokamômuk@
+@help each other (v)@|@wijokadjimuk@
+@help oneself (v)@|@wijokamzimuk@
+@hemlock@|@alnisedi+ak@
+@hen@|@ahamo+ak@
+@henceforth@|@nikuôbioji@
+@herb@|@mskikois+al@
+@here@|@iu, u, u tali, yo@
+@Here is something.@|@Yo gagwi.@
+@hereafter@|@nikuôbioji@
+@heron@|@kasko+ak@
+@hers (poss. pr.)@|@agma@
+@herself (pr. reflective)@|@agmatta@
+@hi@|@kway@
+@hiccups@|@chachapsolowôgon@
+@hide (v)@|@kôttassimuk@
+@him her (she) (pr. obj.)@|@agma@
+@himself@|@agmatta@
+@hip@|@mzabi+al, wzabi@
+@his@|@agma@
+@hoe: a ~@|@lakaigan+al@
+@hold (v)@|@kagalnômuk, kagalnôzik@
+@hold: in the ship's ~@|@alômolagua@
+@holy@|@wawasi@
+@Holy Ghost (trinity)@|@wiji-wliniwaskwit@
+@holy people: they who are ~@|@wawasinnoijik@
+@holy person: he is a ~@|@wawasinnoid@
+@holy person: she is a ~@|@wawasinnoid@
+@honey@|@ômwaimlases@
+@hope@|@nkawatzowôgan@
+@horn@|@askan+ak@
+@horse@|@aaso+ak, ahaso, ases@
+@horse: my ~@|@n'd-aasom@
+@horse-dealer@|@nadazoonigad@
+@horse-fly@|@massakua+k@
+@horse-trader@|@nadazoonigad@
+@hospital@|@notchôguaigamigw+ol@
+@hot: be ~@|@kezabzimek@
+@hot: I am ~@|@n'kezabzi@
+@hour: an ~@|@nguedômkipoda@
+@house@|@-gamigw+ol, wigwôm@
+@house: old ~@|@negôni gamigw+ol@
+@how@|@toni, tôni@
+@How are you?@|@Doni gedowiozin?@
+@however@|@kanwa@
+@hummingbird@|@nanatasis+ak, nanataso@
+@hundred@|@nguedatgua@
+@hundredth@|@nguedatgua akwôbabit, nguedatgua alagimguak, nguedatgua kasi chebenôzik@
+@hungry: be ~ (v)@|@kadopimuk@
+@hunt (v)@|@nadialimuk@
+@hunter@|@nadialowinno+ak, nadialwinno+ak@
+@hunting@|@nadialowôgan@
+@hunting ground@|@nadialoi ki@
+@hunting-knife@|@nadialwalhakw+ol@
+@husband@|@sanoba@
+@husband: her ~@|@niswiidiji@
+@husband: my ~@|@niswiak@
+@husband: my sister's ~ (speaker female)@|@nilem+ok@
+@husband: my sister's ~ (speaker male)@|@nadôgw+ak@
+@husband: thy ~@|@niswiakw@
+@hydrophobia@|@wanôdaminawôgan@
+@I@|@nia@
+@I (pr. nom.)@|@h'@
+@I am … (name).@|@… nia.@
+@I say yes.@|@nididam oho.@
+@I too@|@nia atsinowlowzi bitta.@
+@ice@|@pkuami+ak@
+@ice: it's thick ~@|@kpagizo pkuami@
+@icicle@|@pkuami+ak@
+@icy: it's ~@|@pkuamoo@
+@if@|@chaga, pajitebihl(ga@
+@illness@|@akuamalsowôgan@
+@I'm very well.@|@nia atsinowlowzi bitta.@
+@immediately@|@nitta@
+@imprison (v)@|@kabh(zik@
+@in a few years@|@wakasigadeniwi@
+@in case@|@pajitebihl(ga@
+@in order that@|@wajiji@
+@in reality@|@kaalaki@
+@in the middle of summer@|@nanônibeniwi@
+@in the same way as@|@nôbi taôlawi@
+@incarnation@|@alnôbaiosowôgan@
+@inch: an ~@|@nguet'akwiad(gan@
+@indeed@|@kaalaki, kalaata@
+@Indian costume@|@alnôbawôzowôgan@
+@Indian potato@|@skibô+k@
+@Indian reservation@|@alnôbai sigwnigan@
+@Indian village@|@alnôba'odana@
+@Indian: an ~@|@Alnôba@
+@indisposition@|@madamalsowôgan@
+@infringe@|@poskwkôzik@
+@ink is blue: my ~@|@n'-d-awighiganebim wlôwbaga@
+@ink: some ~@|@awighiganegi@
+@inn@|@soghebaigamigw+ol@
+@innkeeper@|@soghebat@
+@inquire@|@nadodôzik, nadomômuk@
+@inquire (v)@|@nadodemokamuk@
+@Iriquois tribe@|@kaanawagihnono@
+@Irishman@|@Illôda@
+@Irleland@|@Illôdaki@
+@island@|@menahan+ol@
+@it's freezing@|@ôpichikaden@
+@jack (of cards)@|@wsemôganes@
+@jackass@|@spônioli ases@
+@jail@|@kbahodwigamigw+ol@
+@jams@|@minôbo@
+@January@|@alamikos@
+@jaundice@|@wizôwilahwôgan@
+@Jesus@|@sazos@
+@jeweller@|@noji-mônikad+ik@
+@jewels@|@mizôwimôniinôkwkil+al@
+@John@|@az@
+@Joseph@|@sozap@
+@July@|@temaskikos@
+@June@|@nakkahigas@
+@just@|@sasagi@
+@justice@|@sasaginnowôgan@
+@keep@|@nanswalmômuk@
+@key@|@pkwessagahigan+al@
+@key (alt.)@|@pkwessaghigan+al@
+@kid (goat)@|@kotsis+ak@
+@kidney@|@wdollo+ak@
+@king@|@kinjames+ak@
+@king (of cards)@|@sôgmô+k@
+@kingfisher@|@cheskwadadas+ak@
+@kiss (v)@|@wajadôzik, wajamômuk@
+@kiss me!@|@wajemi!@
+@knave@|@wsemôganes+ak@
+@knee@|@mkedukw+ok, wkedokw@
+@labor@|@alokawôgan@
+@lad@|@w'skinnossis@
+@lady: a ~@|@sanioliskua@
+@lake@|@nebes+al@
+@lake: at the ~@|@nebesek@
+@lake: to the ~@|@nebesek@
+@lamb@|@azibiia, azibis+ak@
+@land surveyor@|@noji-tbakwnigad+ik@
+@land: barren ~@|@maji ki+al@
+@land: fertile ~@|@wli ki+al@
+@land: our (incl.) ~@|@kdakinna@
+@land: poor ~@|@maji ki+al, mamadaki+al@
+@landlady@|@mahôwadiskwa+k@
+@landlord@|@mahôwad+ik@
+@large@|@msi@
+@late@|@sipkiwi@
+@late summer: it's ~@|@zibkiwigen niben@
+@launch@|@abodes@
+@Lawrence@|@Lol@
+@lawyer@|@noji-tbelodmowinno+ak@
+@leaf@|@wanibagw+ol@
+@league@|@nguet'osômguat@
+@league: a square ~@|@nguet'osômguat tmeskuiwi@
+@leanness@|@matôlwzowôgan@
+@leech@|@pabaskw+ok@
+@leg@|@wkôd, wkond@
+@leg of mutton@|@azibigan@
+@less@|@nodôiwi@
+@level@|@tatebi@
+@light (v.)@|@chegasômuk@
+@lightning@|@alakwsahla padôgiwigi@
+@like@|@taôlawi@
+@lime@|@wôbipegw@
+@lining@|@pitoguônsôgan@
+@lion@|@pitôlo+ak@
+@lip@|@azbasdon@
+@liquor@|@kadosmoôgan+al@
+@listen to@|@tapsedawômuk, tapsedôzik@
+@Listen!@|@kita!@
+@little@|@tagasiwi@
+@little boy@|@w'skinnossis@
+@lizard@|@kakadôlôgw+ak@
+@load (v)@|@mijebikamuk@
+@load a canon@|@pitkazawamuk@
+@load a gun@|@pitkazawamuk@
+@load a pistol (v)@|@pitkazawamuk@
+@lobster@|@sôga+k@
+@lock@|@asenapanes+ak@
+@locust@|@sigiliamo+ak@
+@loin@|@môigan+al@
+@look for (v)@|@kwilawabômuk@
+@Look!@|@kina!@
+@looking-glass@|@pipinawjakwôgan+al@
+@loon@|@mdawilha, mdawilhasis+k@
+@loon: young ~@|@mdawilhasis+ak@
+@lord (Christian)@|@tabaldak@
+@lord: a ~@|@saniol@
+@lose (v)@|@waniadômuk, waniadôzik, wanialômuk@
+@Louisa@|@Lowiz@
+@louse@|@kemô+k@
+@lung@|@wpan+ak@
+@lynx@|@bezo, wigwedi@
+@mackerel@|@makelo+ak@
+@mail (v)@|@pejidakamuk@
+@make (v)@|@waliômuk, walitôzik@
+@make greater (v)@|@mahsihômuk, mahsitôzik@
+@male bird@|@nôbalha+k@
+@malice@|@majigowôgan@
+@Mamphremagog@|@Mamlawbagak@
+@man@|@sanoba, sanôba@
+@Mantawa@|@Môdôwa@
+@many years@|@kasigaden@
+@many years old@|@kasigadma@
+@many years: for ~@|@kazigadenwaiwi@
+@maple@|@senomozi+ak@
+@March@|@mozokas@
+@Margaret@|@malgelit@
+@mark (v)@|@agizimuk@
+@marrow@|@win@
+@marsh@|@mskagw, wôljebagw+ol@
+@marten@|@apanakes+ak@
+@Mary@|@mali@
+@Mary: virgin ~@|@sôgmôwi mali@
+@mason@|@nodapskenigad+ik@
+@mast: ship's ~@|@mdawakwam+ak@
+@May@|@kikas@
+@me (pr. obj)@|@nia@
+@meal: a ~@|@alipimek@
+@mean@|@maji-@
+@mean (angry)@|@chilao@
+@mean (anim)@|@majigek@
+@mean (bad)@|@majigit@
+@mean (inan)@|@majigit@
+@measles@|@pazisilhawôgan@
+@meat@|@wios@
+@Megantic@|@namakôttik@
+@melon@|@timeno+al@
+@mention (v)@|@tablodôzik, tablomômuk@
+@merchant@|@nodônkolhôd+ik@
+@mercy@|@kdemôgaldowôgan@
+@Michael@|@missal@
+@mid day@|@nôwiwi kisokok@
+@middle@|@nanôwiwi, nôwiwi@
+@middle of autumn: in the ~@|@nanôtaguôgoiwi@
+@middle of autumn: the ~@|@nanôtaguôgo@
+@middle of summer@|@nanôniben@
+@middle of summer: it's the ~@|@nanôwigen niben@
+@middle: at the ~@|@nanôwiwi, nôwiwi@
+@midnight@|@nôwidebakad, nôwitebakad@
+@midnight (alt.)@|@nôwidbakad@
+@midnight: after ~@|@kizi nôwidbakad@
+@midnight: at ~@|@nôwidebakak, nôwitebakak@
+@midnight: it's ~@|@nôwidebakad, nôwitebakad@
+@midsummer@|@nôwiniben@
+@midsummer: in ~@|@nôwinibeniwi@
+@mile@|@mail@
+@mill@|@taguahôgan+al@
+@miller@|@nottahasid+ik@
+@million@|@kchi-nguedômkuaki@
+@mine (poss. pr.)@|@nia@
+@mineral water@|@nbisonbi+al@
+@minister@|@manistel+ak@
+@minister of state@|@kchisôgmôi lidebezowinno+ak@
+@mink@|@mosbas+ak@
+@minute@|@minit@
+@mist@|@nebiasokw@
+@misty (water cloud): it's ~@|@nebiasokwad@
+@moccasin@|@mkezen+al@
+@molasses@|@mlases@
+@mole@|@alemônska@
+@Monday@|@kizsanda@
+@money@|@môni@
+@month@|@kisos@
+@month: one ~@|@pazeko kisos@
+@moon@|@nahnibôssat, nahnibssat, pgwas, pôgwas@
+@moon light@|@pguasek@
+@moonlight@|@pôguasek, pogwassek@
+@moose@|@moz+ak@
+@moose hide@|@mozagen@
+@moose meat@|@mozia+ak@
+@moose skin@|@mozagen@
+@more@|@mina@
+@moreover@|@askua awasiwi@
+@morning@|@chakwa+al@
+@morning: after this ~@|@kizi chakwak@
+@morning: early ~@|@waospôzaki+al@
+@morning: in the ~@|@spôsowiwi@
+@morning: in the early ~@|@waospôzakiiwi+al@
+@morning: this ~@|@chakwak@
+@mosquito@|@pegues+ak@
+@moss@|@asakuam@
+@mother and daughter@|@kchi phanem ta wdosa@
+@mother: her ~@|@wigawessa, wigewessa@
+@mother: his ~@|@wigawessa, wigewessa@
+@mother: my ~@|@nigawes@
+@mother: my ~ (formal)@|@nigawes@
+@mother: my ~ (personal)@|@n'nonon@
+@mother: my spouse's ~@|@n'zegues, n'zekwes@
+@mother: your ~@|@kigawes@
+@mother-in-law: my ~@|@n'zegues, n'zekwes@
+@mountain@|@-aden, wajo, wajos@
+@mouse@|@wôbikwsos+ak@
+@mouth@|@wdon@
+@move forward (v)@|@ôtlômuk@
+@mow: he ~s@|@temaskezôwa@
+@mow: I ~@|@n'temskezôwa@
+@much@|@mamlawiwi, pita@
+@mud@|@azesko@
+@muddy water@|@pibganbi@
+@mulberry@|@psakwdamen+ak@
+@mule@|@spônioli ases@
+@muskrat@|@moskuas+ak@
+@muskrat pelt@|@moskuas+ak@
+@muskrat skin@|@moskuas+ak@
+@mustard@|@whawizôwjagak@
+@mutton@|@azibiia@
+@mutton-chop@|@azibi-wpigasin+ol@
+@myself (pr. reflective)@|@nialla@
+@nail: toe/finger-~@|@mkaz+ak, wkaz+ak@
+@napkin@|@napkin+al@
+@near@|@pasodawiwi, pasojiwi@
+@nearly@|@pasodawiwi, pasojiwi@
+@neck@|@wdapskokwa, wkuedôgan+al@
+@neck tie@|@nôpkowan+al@
+@neither@|@ôda@
+@nerve@|@wejat+al@
+@nerves@|@wjatal@
+@net@|@ahlab+ak, lhab+ak@
+@net: his ~@|@w'-d-ahlbema@
+@net: my ~@|@n-d-ahlabem+ak@
+@net: our ~@|@k'-d-ahlabemna@
+@net: our ~s@|@n'd-ahlabemnawak@
+@net: their ~@|@w'-d-ahlabemowô@
+@net: your ~@|@k'-d-ahlabem@
+@never@|@asma@
+@nevertheless@|@kanwa@
+@new@|@pildowi, pili, wski, wskia@
+@new moon@|@pili kisos@
+@new year@|@piligaden@
+@new year: it's a ~@|@piliwigen gaden@
+@New Year's Day@|@alamikôwadimek@
+@New Year's Eve@|@nôwidbakad asma alamikôwadin@
+@next week@|@nakwaltak sandak@
+@Nicholas@|@nikpla@
+@night@|@tebokw@
+@night before: the ~@|@asma tebokok@
+@night: in the ~@|@nibôiwi, tebokol@
+@nightingale@|@wlôgowilhas@
+@nine@|@noliwi@
+@nine hundred@|@noliwi kasatgua@
+@nine times@|@noliwi kasta@
+@nineteen@|@noliwi kasônkaw@
+@ninety@|@noliwi kasinska@
+@nipple@|@nonos, nonoz@
+@no@|@nda, ôda@
+@noon@|@paskua, paskwa@
+@noon: at ~@|@paskuak, paskwak@
+@noon: before ~@|@asma paskwa@
+@noon: exactly at ~@|@kwaskwai paskwak@
+@noon: it's ~@|@paskua@
+@nor@|@ôda@
+@north@|@pebonki@
+@north: from the ~@|@pebonkik@
+@north: to the ~@|@pebonkik@
+@northern lights@|@abasandôganal@
+@northern people@|@pebonkiak@
+@northerners@|@pebonkiak@
+@northward@|@pebonkik@
+@nose@|@wjôl, wjonl@
+@not@|@ôda@
+@not yet@|@asma@
+@notary public@|@nodawighigad+ik@
+@notify (v)@|@wawôdokawômuk@
+@November@|@mzatanos@
+@nun@|@patlihôskua+k@
+@nuthatch@|@chigôlôdawasid@
+@nutmeg@|@lamiskad@
+@oak@|@anaskemezi+ak@
+@oar@|@ôdolibiôgan@
+@oat@|@asesowimen+al@
+@observe@|@pazôbimuk@
+@observe (v)@|@namihômuk, namitôzik@
+@ocean@|@sobagw+ol@
+@October@|@penibagos@
+@often@|@wigawôjiwi@
+@oil@|@pemi@
+@old@|@negôni@
+@omnipresent@|@nônguitegilek@
+@once@|@pazgueda@
+@one@|@pazego, pazeguen, pazekw@
+@one cent@|@sans@
+@one dollar@|@pazeko môni@
+@one o'clock@|@nguedômkipoda@
+@onion@|@winos+ak@
+@onion: wild ~@|@chijis+k@
+@orange@|@wasawas+al@
+@organ@|@kchi-lôbaktaigan+al@
+@Ottawa@|@Ottawa@
+@Ottawa: people of ~@|@Otawaiiak@
+@otter@|@wnegigw+ak@
+@ounce@|@awens@
+@ours (excl. poss. pr.)@|@niuna@
+@ours (incl. poss. pr.)@|@kiuna@
+@ourselves@|@kiunatta, niunatta@
+@ourselves: to ~ (incl. pr. reflective)@|@kiunatta@
+@out@|@kwajemiwi@
+@outside@|@kwajemiwi@
+@over@|@awasiwi@
+@overcoat@|@kchi pitkôzon+al@
+@owl@|@kokokhas, walôias+ak@
+@ox@|@aksen+ak@
+@oysters@|@als+ak@
+@paddle: large ~@|@masegilek wdahôgan@
+@paint@|@sezowigan+al@
+@paint (v)@|@sezohigamuk, sezohômuk, sezohôzik@
+@painted red: it's ~@|@mkui sezowzo@
+@painter@|@noji-sezowigad+ik@
+@palace@|@kinjamesigamigw+ol@
+@Pamigewasset@|@Pamijoasik@
+@pancake@|@pôngoks+ak@
+@paper: some ~@|@pilaskw@
+@paradise@|@spemki@
+@part of the year@|@pagaiya gaden@
+@partly cloudy: it's ~@|@mômenasokwad@
+@partridge@|@bakeso, pakesso+ak@
+@passion (Christian)@|@mamagahodwôgan@
+@Passumpsic@|@Pasômsik@
+@path@|@ôwdesis+al@
+@pay (v)@|@ôbankamuk@
+@pea soup@|@pizilasob@
+@peach@|@piches+ak@
+@peacock@|@pôlôbai-sibes+ak@
+@pebble@|@senis@
+@peel (with a knife) (v)@|@palagzômuk, palagzôzik@
+@peel (with the hands) (v)@|@palagnômuk, palagnozik@
+@pen@|@miguen@
+@peninsula@|@menahanakamigw+ol@
+@penis@|@askoks@
+@pennant@|@ndawagen+ol@
+@Penobscot@|@Panaôbskak@
+@Penobscot Indians@|@Panaôbskaiiak@
+@Penobscot River@|@Panaôbsiattegw@
+@people (Indians) from where the sun rises@|@wôbanaki@
+@pepper@|@tipwabel@
+@perfection@|@sasaginnowôgan@
+@perhaps@|@kizilla, wskebi@
+@person: dishonest ~@|@adagi pmowsowinno+ak@
+@person: holy ~@|@wawasiwinno+ak@
+@person: respected ~@|@kwsilawinno+ak@
+@person: uncivilized ~@|@pisowakamigwinno+ak@
+@person: western ~@|@ali-nkihlôtweji pmôwzowinno+ak@
+@Peter@|@pial@
+@petticoat@|@labizowan+al@
+@physician@|@noji-nbizonhowad+ik@
+@piano@|@kchi-lôbaktaigan+al@
+@pickerel@|@watagua+k@
+@pickets@|@skahôganak@
+@pie@|@pata@
+@pig@|@biges, piges+ak@
+@pigeon: tame ~@|@wôbipelaz+ak@
+@pigeon: wild ~@|@pelaz+ak@
+@pike@|@kwenoza+k@
+@pilot: boat ~@|@notkuaag+ik@
+@pin@|@pinsis+ak@
+@Pine River@|@Koattegw@
+@pint@|@pabasba@
+@pipe@|@pôgan, wdamgan, wdamôgan@
+@pipe bowl@|@olôganisipôgan@
+@pipe bowl: holy ~@|@wawasiolôganisipôgan@
+@pipe smoker@|@odamôdpôgan@
+@pipe stem: holy ~@|@wawasiodamôilipôgan@
+@pipe: holy ~@|@wawasipôgan@
+@pipe: stone ~@|@senipôgan@
+@pipe: wooden ~@|@abazipôgan@
+@pipestem@|@odamôilipôgan@
+@pipestone@|@ôdamôpôganisen@
+@pismire@|@alikws+ak@
+@pistol@|@alômsawaiias+al@
+@place (v)@|@ponasimuk, ponôzik@
+@plain (meadow)@|@mskoda@
+@plait (v)@|@pakawagnômuk@
+@planter@|@notkikad+ak@
+@plate@|@anasiat+al@
+@Plattsburg@|@Sôn-Halônek@
+@please@|@walilawaômnk, walilawatôzik@
+@plough@|@lakazôwôgan+al@
+@plough: I ~@|@n'-d-elkazôwa@
+@plough: my ~@|@n-de-elkazôwôgan@
+@ploughing: act of ~@|@lakazôwawôgan@
+@plough-man@|@notkazôwad+ik@
+@plover (bird)@|@sasaso+ak@
+@plover: small ~@|@sasasoiswis+ak@
+@plum@|@azawanimen+ak@
+@plum-tree@|@azawanimenakuam+ak@
+@pocket@|@pidôgan+al@
+@pock-marks@|@maskihlaidguawôgan@
+@point: it's ~ed@|@skwahigan@
+@pond@|@nebessis+al@
+@Pope: the ~@|@kchi sôgmôwi patlihôz+ak@
+@poplar@|@wawabibagw@
+@porcupine@|@kôgw+ak@
+@porcupine: young ~@|@kôgwis+ak@
+@pork-chop@|@piksi-wpigasen+ol@
+@potato@|@padates+ak@
+@potato: Indian ~@|@skibô+k@
+@poultry@|@ahamoiia@
+@pound@|@ngueji tkwiguan@
+@pound (Brittish currency)@|@pazeko lowi@
+@pound: half a ~@|@pabasi tkwiguan@
+@pound: quarter of a ~@|@kaltlo@
+@powder-horn@|@askan+ak@
+@praise (v)@|@maskawlohômuk, maskawlohôzik@
+@preacher@|@kinomasowinno+ak@
+@precipice@|@kôkajigapskw+ol@
+@preserves@|@minôbo@
+@president of the United States@|@pastoni-kchi sôgmô@
+@presume (v)@|@alidabôdôzik, alidahôzimuk@
+@priest@|@patlihôz+ak@
+@prince@|@kinjamessis+ak@
+@princess@|@kinjamessiskuasis+ak@
+@printer@|@noji-alnalhakwawighigad+ik@
+@prison@|@kbahodwigamigw+ol@
+@promontory@|@mamilahômak+il@
+@provided that@|@tabat, tabatta@
+@provisions@|@mijowôgan@
+@puppy@|@wski alemos+ak@
+@purchase (v)@|@manohigamuk@
+@pure@|@pôgui, pôguigek, pôguigit@
+@pursue (v)@|@nosokôzik, nosokozimuk@
+@put@|@ponasimuk, ponôzik@
+@put on (v)@|@naslômuk, nastôzik@
+@put out (v)@|@nakasahôzik@
+@quadruple@|@iawdi pkawiwi@
+@quart (quarter of one gallon)@|@nguet'kwatoo@
+@quarter@|@iawi chebenôzik, tlôtso@
+@queen@|@kinjamesiskua+k@
+@queen (of cards)@|@awanochwi-skuaso+ak@
+@question (v)@|@nadodemawômuk@
+@quill@|@miguen@
+@quintuple@|@nônneda pkawiwi@
+@rabbit@|@mateguas+ak@
+@rabies@|@wanôdaminawôgan@
+@raccoon@|@asban+ak@
+@railway@|@alnahlagwôwdi+al@
+@rain@|@soh-glon'be@
+@rain storm@|@soglôn kinlôn@
+@rain water@|@solgônbi@
+@rain: it ~s@|@soglôn@
+@rain: it will@|@soglônji@
+@rain: it's freezing ~@|@ôpchikadenwisoglôn@
+@rainbow@|@managuôn@
+@raining a little: it's ~@|@soglônoso@
+@rains: when it ~@|@soglônga@
+@rainy day: it's a ~@|@soglônkisgad@
+@rainy weather: it's ~@|@soglônkisgad@
+@raisin@|@somen+ak@
+@rake@|@aalôbidaak+al@
+@ramrod@|@saguôlhigan+al@
+@rapid (water)@|@pôntegw+ol@
+@rapid: grand ~ (cascade)@|@kchi pôntegw+ol@
+@rarely@|@nadawiwi@
+@raspberry@|@sgueskimen+ak@
+@raspberry-bush@|@sgueskimenimozi@
+@rather than@|@ôdaki@
+@rattlesnake@|@sisikwa+k@
+@raven@|@kchimkazas+ak, ponki-mkazas+ak@
+@razor@|@chigitwahigan+al@
+@read (v)@|@agidôzik@
+@reaper@|@noji-kawakwnigad+ik@
+@rectum@|@wkejiloakw@
+@red@|@mkui@
+@red dye@|@mku'atsigan@
+@red pine@|@pasaakw+ok@
+@red: he's ~@|@mkuigo@
+@red: it's ~@|@mkuigen@
+@red: she's ~@|@mkuigo@
+@red: they are ~@|@mkuigenol, mkuigoak@
+@reddish@|@mkuôbamegua@
+@redemption (Christian)@|@polwakhowawôgan@
+@registrar@|@noji-sôglitigad+ik@
+@reins@|@pihanisak+ok@
+@relate@|@ôjemimuk@
+@relation: all my ~s@|@n'dalgommek@
+@relation: the ~@|@alôgomômek@
+@religion@|@pôbatamwôgan@
+@reserve@|@sigwnigan@
+@revoke (v)@|@poskwenôzik@
+@revolver@|@alômsawaiias+al@
+@ribbon@|@silki+al@
+@rifle@|@adebôlagw+ol@
+@right@|@sasagi@
+@ring (for the finger)@|@sakhilajahon+al@
+@ring: wedding-~@|@nibawiljahon+al@
+@river@|@sibo+al, tegw+ak, ttegw+ak@
+@river water@|@sibobi@
+@river: great ~@|@kchi sibo@
+@road@|@ôwdi+al@
+@roast meat@|@mkuejazigan@
+@roast-beef@|@mkuejazigan kaoziia@
+@Robert@|@Lobal@
+@robin@|@kwikueskas+ak@
+@rock (stone)@|@pamapskak+il@
+@roguish@|@adagi@
+@root@|@wajabk+al@
+@rope@|@pihan+ak@
+@rudder@|@wlokuahigan+al@
+@rum@|@akwbi@
+@run (v)@|@kazômahlômuk@
+@run after (v)@|@nosokawômuk@
+@rye@|@nagakowimen+al@
+@sable@|@apanakes+ak@
+@sacred@|@wawasi@
+@saddle@|@tawabodi@
+@sail@|@sibakhigan+al@
+@sailor@|@pgois+ak@
+@saint@|@sôgmôwi, wawasinno@
+@salmon@|@mskuamagw+ok@
+@salmon trout@|@namagw+ok@
+@salt (v)@|@siwanaigamuk, siwanaômuk, siwanaôzik@
+@salvation@|@pôlwawôgan@
+@sand@|@pegui@
+@sand bank@|@ôdawômkak@
+@sap@|@wskidakuam@
+@Saratoga@|@Salatogi@
+@sarsaparilla@|@sasôgsek@
+@sassafras@|@sasôgsek@
+@satin@|@silki+al@
+@Saturday@|@kadawsanda@
+@save@|@manazaawimuk@
+@saviour@|@polwakhowawinno@
+@saw-mill@|@pessakuôgan+al@
+@say (v)@|@ida, idôzik, ikôlômuk@
+@say that again.@|@Ida ni mina.@
+@say that.@|@Ida ni.@
+@say this.@|@Ida yo.@
+@scales@|@tebôbakhigan+al@
+@scalp@|@whagakw@
+@scissors@|@temespanahon@
+@Scotchman@|@Koswa@
+@Scotland@|@Koswaki@
+@scream@|@kôgôkwawôgan@
+@scythe@|@temaskezôwôgan@
+@scythe: my ~@|@n'temskezôwôgan@
+@sea@|@sobagw+ol@
+@sea: high ~@|@mamili sobagua@
+@sea: it's ~@|@sobagoo@
+@sea: open ~@|@mamili sobagua@
+@sea: there is ~@|@sobagoo@
+@sea-coast@|@senojisobagwa@
+@seal@|@akigw+ak@
+@seal (v)@|@kebikwahigamuk, kebikwahômuk@
+@sealskin@|@akigwawa@
+@seaman@|@nodaksit+ik@
+@seamster@|@nojiguônsad+k@
+@search (v)@|@kwilawatôzik@
+@second@|@nis akwôbabit, nis alagimguak@
+@secondly@|@nis alagimguak@
+@see@|@namihômuk, namitôzik@
+@seldom@|@nadawiwi@
+@sell (v)@|@ônkohlômuk@
+@senseless@|@pizwi@
+@September@|@skamonkas@
+@serpent@|@skog+ak@
+@set in order@|@walitebahlômuk, walitebahtôzik@
+@seven hundred@|@tôbawôz kasatgua@
+@seven times@|@tôbawôz kasta@
+@seventeen@|@tôbanôz kasônbaw@
+@seventy@|@tôbawôz kasinska@
+@sew (v)@|@aliguawômuk, aliguônsamuk, aliguôzik@
+@shallot@|@winosis+ak@
+@shawl@|@kchi-moswa+al@
+@she@|@agmah'@
+@she (pr. nom.)@|@w'@
+@sheep@|@azib+ak@
+@sheep: flock of ~@|@azibak@
+@sheepskin@|@azibawa+ak@
+@shell@|@pasktahôzik@
+@shells@|@als+ak@
+@shilling@|@silôn@
+@ship@|@ktolagw+ol@
+@shirt@|@wôhôbaks+ak@
+@shoe@|@mkezen+al@
+@shoemaker@|@notkezenikad+ik@
+@shore@|@senojiwi+al@
+@shore (variation)@|@senodkamigwa+al@
+@shore wind@|@senodlômsen@
+@short breath@|@taakui nasawôgan@
+@shorten (v)@|@taakwenômuk@
+@shoulder@|@mdelmôgan+ak, wdlemogan@
+@shovel@|@wôlkogan+al@
+@shovel: a wooden ~@|@magôlhigan+ak@
+@show (v)@|@namitlowamuk@
+@shuffle cards@|@awskatastigamuk@
+@shut@|@kabh(muk@
+@sideboard@|@papkuedanôzik+il@
+@sigh@|@msinasawôgan@
+@sign (v)@|@sinawwimuk, sinawwôdôzik@
+@silk@|@silki+al@
+@silver@|@môni@
+@Simon@|@simo@
+@sing: he ~s@|@linto@
+@sing: I ~@|@n'linto@
+@sing: she ~s@|@linto@
+@sing:(v)@|@lintomek@
+@sister: my ~ (speaker female)@|@nitsakaso+ak@
+@sister: my ~ (speaker male)@|@nidôbso+ak@
+@sister: my father's ~@|@nokem+ak@
+@sister: my husband's ~ (speaker female)@|@nadôgw+ak@
+@sister: my mother's ~@|@nokemisis+ak@
+@sister: my older ~@|@n'messis+ak@
+@sister: my wife's ~ (speaker male)@|@nilem+ok@
+@sister: my younger ~@|@nichemis+ak@
+@sister-in-law: my ~@|@nilem+ok@
+@sit@|@abimek@
+@six@|@nguedz@
+@six hundred@|@nguedôz kasatgua@
+@six times@|@ngedôz kasta@
+@sixteen@|@nguedôz kasônkaw@
+@sixty@|@nguedôz kasinska@
+@skate@|@alôgmapozimuk, lôgmapozowan+ak@
+@skate (v)@|@lôgmapozimek@
+@skate: I ~@|@logmapozi@
+@skater@|@lôgmapozowinno+ak@
+@skating rink@|@lôgmapoziwiganek@
+@ski@|@skaïpozowan+ak@
+@ski (v)@|@skaipozimek@
+@skier@|@skaïpoziwinno+ak@
+@skunk@|@segôgw+ak@
+@sky@|@asokw@
+@sky is clear@|@kakasokwad@
+@slander (v)@|@tablogamimuk@
+@slate@|@asen, sen@
+@sled@|@chipozigan, wawabigôdhigan+al@
+@sled (v)@|@chipozimek@
+@sledder@|@chipoziwinno+ak@
+@sleep@|@kawimek@
+@sleep (v)@|@kawimuk@
+@sleep: go to ~!@|@Gawi!@
+@sleep: he ~s@|@kao@
+@sleep: he/she ~s.@|@gao@
+@sleep: I ~@|@n'kawi@
+@sleep: she ~s@|@kao@
+@sleep: you@|@n'kawi@
+@sleet@|@kottlijakpo, sikwla@
+@sleet: it's ~@|@ôpchikadenwisoglôn@
+@sleeve@|@ptenôgan+ak@
+@sleigh@|@wawabigôdhigan+al@
+@small@|@tsi'-dzis@
+@small clay pipe@|@odamôpôganis@
+@small-pox@|@maskilhôgan@
+@smiter-hawk@|@seguanilha+k@
+@smoke@|@pekeda@
+@smoke (v.)@|@odamômek@
+@smoke a pipe: he ~s@|@odamapôgan@
+@smoke a pipe: she ~s@|@odamapôgan@
+@smoker: the ~@|@odamôd@
+@smoking small thing@|@odamôganis@
+@smoking: act of ~@|@odamôwôgan@
+@snake@|@skog+ak@
+@snake: garter ~@|@makwaaskadamôd@
+@sneezing@|@nakwhômowôgan@
+@snoring@|@chigualakwsowôgan@
+@snow@|@wazôli+ak@
+@snow drift@|@wawiôbwan+al@
+@snow flake@|@wazôli+ak@
+@snow flakes: small ~@|@wazôlisisak@
+@snow gets deeper: the ~@|@chitôpsôngwata@
+@snow lies drifted: the ~@|@ôgwaôbônsen@
+@snow on the ground.@|@wazolis kik.@
+@snow shoe@|@ôgama+k@
+@snow shoe (v)@|@ôgamakamek, ogmakamek@
+@snow shoer@|@ôgamakawinno+ak@
+@snow shower@|@pmipsôn@
+@snow: a little ~@|@wazôlis@
+@snow: blowing ~@|@wawiobwan@
+@snow: hard-packed ~@|@sôglôliagezo@
+@snow: it ~s@|@psôn@
+@snow: it will ~@|@psônji@
+@snow: it's ~ing@|@psôn@
+@snow: soft-packed ~@|@nokôliagezo@
+@snow: there is ~.@|@wazolika@
+@snow: there is deep ~@|@msôgwata@
+@snowing a little: it's ~@|@psônoso@
+@snowing deep: it's ~@|@psôngwata@
+@snows: when it ~@|@psônga@
+@snowshoe@|@ogma+k@
+@snowshoes@|@ôgemak@
+@snowy weather: it's ~@|@psôonwikisgad@
+@so@|@ni@
+@so many@|@kassi@
+@so much@|@kassi@
+@sock@|@medas+al@
+@soft@|@noki, nokigek, nokigit, nokigit@
+@soft: it's ~@|@nokigen@
+@soil@|@ki@
+@solid@|@sôgli, sôglizit@
+@some of the summer@|@naoji niben@
+@Son (trinity)@|@wamitôgwsit@
+@song@|@lintowôgan+al@
+@song-sparrow@|@kaskaljas+ak@
+@song-sparrow (variant)@|@kaskaljasis+ak@
+@son-in-law: my ~@|@wazilmegoa, wazilmit@
+@soon@|@nabiwi@
+@soot@|@wiboda@
+@Sophia@|@sopi@
+@soul@|@mjejakw@
+@soup@|@kzôbo@
+@soup-tureen@|@kchi wlôgan+al@
+@south@|@sôwanaki, swanaki@
+@south wind@|@sôwanessen@
+@south: from the ~@|@nibenakik@
+@south: the ~@|@ali-paskuat, nibenaki@
+@south: to the ~@|@nibenakik@
+@southern people@|@nibenakiak@
+@southward@|@nibenakik, sôwanakik@
+@sow (v)@|@akikamuk+ak@
+@sower@|@notkikad+ak@
+@Spain@|@Spôniolki@
+@Spaniard@|@Spôniol@
+@spark@|@chekelas+ak, ohekelas@
+@speak (v)@|@kalozimuk, klozimek@
+@speak to (v)@|@kalolômuk@
+@speak: he ~s@|@klozo@
+@speak: I ~@|@n'klozi@
+@speak: she ~s@|@klozo@
+@spectacle (eye-wear)@|@wsizugwaigan+al@
+@speech@|@kelozowôgan@
+@spider@|@mamselabika+k@
+@spoil@|@wagiômuk, wagitôzik@
+@spoon@|@amkuôn+ak@
+@sportsman@|@nadialowinno+ak@
+@spotty clouds@|@menasokwad@
+@spouse: my ~@|@nizwia@
+@spouse: my son's ~@|@n'sem@
+@spring@|@siguan@
+@spring water@|@tkobi@
+@spring: a year ago last ~@|@nialisiguana@
+@spring: in ~@|@siguaniwi@
+@spring: last ~@|@siguana@
+@spring: next ~@|@siguaga@
+@squirrel@|@mikowa+ak@
+@squirrel: black ~@|@psanigw+ak@
+@squirrel: flying ~@|@planigw@
+@squirrel: striped ~@|@anikwses+ak@
+@St. Francis river@|@Alsigôntegw@
+@St. Hyacinthe@|@Wigwômadensisek@
+@stable@|@kaozigamigw+ol@
+@star@|@alakws@
+@star: evening ~@|@kchi alakws@
+@star: morning ~@|@kchi alakws@
+@starry heaven@|@kakasakw@
+@start@|@môjimuk@
+@steal (v)@|@kamodnamuk@
+@steam-boat@|@stimbot+al@
+@steel-trap@|@telaps+ak@
+@steel-trap: my ~@|@n'telapsem+ak@
+@steep rock@|@kajigapskw@
+@steep rock: extended ~@|@kôkajigapskw+ol@
+@stem for smoking@|@odamôilinôgan@
+@step-father: my ~@|@nôjikw+ak@
+@Stephen@|@atian@
+@step-mother: my ~@|@nokemis+ak@
+@stew@|@lago@
+@still@|@askua, mina@
+@still yet@|@askua mina@
+@stocking (women's)@|@phanemi-medas+al@
+@stomach@|@mdolka+al, wdolka@
+@stone@|@asen, sen@
+@stone for smoking@|@odamôganisen@
+@stonecutter@|@nodapskaigad+ik@
+@stop@|@channômuk, channozik@
+@storm: sudden ~@|@salki kinlôn@
+@stout@|@sôgli@
+@stout (inan)@|@malkigit@
+@straight@|@sasagiwi@
+@straight (anim)@|@sasagigek@
+@straight (inan)@|@sasagigit@
+@strait (waterway)@|@wisawôgamak+il@
+@strait: at the ~@|@wisawôgamak+il@
+@strait: in the ~@|@wisawôgamak+il@
+@strawberry@|@mskikoimins+ak@
+@straw-hat@|@mskikoasolkwôn+al@
+@stream@|@sibosis+al@
+@street@|@ôwdi+al@
+@strike (v)@|@tagadôzik, tagamômuk@
+@strong@|@malkigit, mliki, sôglizit@
+@strong (anim)@|@malkigek@
+@strong wind: it's a ~@|@kingzelômsen@
+@sturgeon@|@kabasa+k@
+@sucker@|@kikômkwa+k@
+@sugar@|@sogal@
+@sugar-basin@|@sogali kwat@
+@summer@|@niben@
+@summer arrives@|@nibenasin@
+@summer comes@|@nibenhla@
+@summer is coming@|@nibegihlan@
+@summer is finished@|@niben tagwagwiwi@
+@summer is: the way ~@|@alinibenek@
+@summer it's in the beginning of ~@|@môjaiwigen nibeniwi@
+@summer: a few ~s@|@wakasiniben@
+@summer: a year ago last ~@|@nialinibena@
+@summer: after ~@|@kizi nibenek@
+@summer: after this ~@|@kizi pamnibenek@
+@summer: all ~@|@mziwiniben@
+@summer: at the beginning of ~@|@môjanibeniwi@
+@summer: at the end of ~@|@wanaskiwi niben@
+@summer: before ~@|@asma nibenek@
+@summer: before this ~@|@asma pamnibenek@
+@summer: during ~@|@paminibenek@
+@summer: early ~@|@wskiniben@
+@summer: every ~@|@nônibegi@
+@summer: for many ~s@|@kasinibenwaiwi@
+@summer: in early ~@|@wskinibeniwi@
+@summer: in late ~@|@zibkiwi nibeniwi@
+@summer: in the ~@|@nibeniwi@
+@summer: it's ~@|@niben@
+@summer: it's an early ~@|@wskiwigen niben@
+@summer: it's at the end of ~@|@wanaskiwigen niben@
+@summer: it's late ~@|@zibkiwigen niben@
+@summer: it's next ~@|@nakwaltak nibenek@
+@summer: it's the beginning of ~@|@môjaiwigen niben@
+@summer: it's the end of ~@|@matanaskiwigen niben@
+@summer: it's the following ~@|@nosokak nibenek@
+@summer: it's the middle of ~@|@nanôwigen niben@
+@summer: last ~@|@nibena@
+@summer: late ~@|@zibkiwi niben@
+@summer: many ~s@|@kasiniben@
+@summer: next ~@|@nibega@
+@summer: the end of ~@|@machiwi niben@
+@summer: this ~@|@pamnibenek@
+@summer: this very ~@|@nibeniwitta@
+@sun@|@gizos, kizos@
+@Sunday@|@sanda@
+@sunny: it's ~@|@kisosoo@
+@sunny: it's a little ~@|@kisosiosi@
+@sunrise@|@skhipozit kisos, sokhipozit kisos, sôkhipozit kisos@
+@sunrise: after ~@|@kizi sôkhipozid kisos@
+@sunrise: at ~@|@sokhipozit kisos, sôkhipozit kisos@
+@sunrise: before ~@|@asma sôkhipozid kisos@
+@sunrisee: during ~@|@sôkhipozidiwi kisos@
+@sunset@|@nakilhôt kisos@
+@sunset: after ~@|@kizi nakilhôd kisos@
+@sunset: at ~@|@nakilhôt kisos@
+@supper@|@adlôgwipowôgan@
+@Susan@|@sozn@
+@suspender@|@lobakhigan+al@
+@swallow (bird)@|@soglônilhasis+ak@
+@swallow (v)@|@kwaziadôzik, kwazialômuk@
+@swallow: chimney ~@|@chimeliilhasis+ak@
+@swan@|@wigualha+k@
+@swear an oath (v)@|@walômasokamuk@
+@sweat lodge@|@kzabzowigom@
+@sweet-flag tree@|@moskwaswaskw+ol@
+@swelling@|@maguizowôgan@
+@sword@|@tmokuataigan+al@
+@table@|@tawipodi+al@
+@table utensils@|@wlôganinôkwkil@
+@tablecloth@|@tawipodiagen+al@
+@tailor@|@nodagisôwad@
+@take (v)@|@wadnômuk, wadnôzik, wikwnômuk, wikwnôzik@
+@take away (v)@|@môkadôzik@
+@take care of (v)@|@nanawaldôzik, nanswalmômuk@
+@talk@|@kalozimuk@
+@tamarac@|@pôbnôdageso@
+@tanner@|@nodatsigad+ik@
+@tart@|@pata@
+@tavern@|@soghebaigamigw+ol@
+@tea@|@ti@
+@teach (v)@|@agukimômuk@
+@teacher: great ~@|@kchiagakigamwinno+ak@
+@tear up (v)@|@talaginaadôzik, talaginaalômuk@
+@temple (of head)@|@wdagwa@
+@ten@|@mdala@
+@tender (anim)@|@nokigek@
+@tender (inan)@|@nokigit@
+@tent@|@woôbaksigamigw+ol@
+@tenth@|@mdala akwôbabit, mdala alagimguak, mdala kasi chebenozik@
+@terminate (v)@|@taguaguitôzik@
+@testicles@|@askoksial@
+@thanks@|@oliwni@
+@that@|@ali, ni, waji, wajiji@
+@thaw: it ~s@|@weskata@
+@thee (thou) (pr. obj.)@|@kia@
+@theirs (poss. pr.)@|@agmôwô@
+@them@|@agmôwô@
+@them: to ~ (they) (pr. obj.)@|@agmôwô@
+@themselves@|@agmôwôtta@
+@themselves: to ~ (pr. reflective)@|@agmôwôtta@
+@then@|@ni, ni adogi, ni nawa@
+@there@|@ni enni, ni tali@
+@therefore@|@ni nawa, ni wattak@
+@Theresa@|@talaz@
+@these are parts of the years@|@pagaiyawigenol gadenal@
+@they@|@agmôwô@
+@thick@|@kapagak, kapagizit, kpagi@
+@thigh@|@wikwa@
+@thimble@|@liguônsôgan+al@
+@thin@|@wazabak, wazabi, wazabizit@
+@thine(poss. pr.)@|@kia@
+@think (v)@|@alidahômômuk@
+@thinness@|@matôlwzowôgan@
+@third@|@nas akwôbabit, nas alagimguak, nasi chebenôzik@
+@thirdly@|@nas alagimguak@
+@thirsty: be ~ (v)@|@kadawosmimuk@
+@thirteen@|@nsônkaw@
+@thirty@|@nsinska@
+@this@|@yo@
+@this year@|@pamgadenek@
+@Thomas@|@tom@
+@thorn-tree@|@chignazakuam+ak@
+@though@|@minaguiha@
+@thousand@|@nguedômkuaki@
+@three@|@nas@
+@three hundred@|@nsatgua@
+@three times@|@nseda@
+@thresher@|@noji-pakhiminad+ik@
+@throat@|@wkedôgan, wkedongan@
+@thunder@|@padôgi+ak@
+@thundering: it's ~@|@padôgioo@
+@thunderstorm@|@padôgiiwik@
+@Thursday@|@iawda alokan, Jawda alokan@
+@thus@|@kôdak@
+@thyself (pr. reflective)@|@kiatta@
+@tie: neck ~@|@nôpkowan+al@
+@tinsmith@|@noji-papawijokad+ik@
+@to ourselves (excl. pr. reflective)@|@niunatta@
+@to us (pr. obj.)@|@niuna@
+@toad@|@mamaska+k, maska+k@
+@tobacco@|@wdam, wdamô@
+@today@|@bamegizegak, pamkisgak@
+@toe@|@witkwazit@
+@together@|@kassiwi@
+@tomahawk@|@alni-temahigan+al@
+@tomorrow@|@saba@
+@tomorrow afternoon@|@saba kizi paskwak@
+@tomorrow evening@|@saba wlôgok@
+@tomorrow morning@|@achakwiwik@
+@tomorrow night@|@saba tebokok@
+@tongue@|@wilalo@
+@too@|@atsi@
+@too much@|@wzômi@
+@tooth@|@wibid@
+@tooth-ache@|@obidôgwôgan@
+@tornado: it's a ~@|@pedegwelômsen@
+@towel@|@kasiljawwan+al@
+@town@|@odana+al@
+@transgress (v)@|@poskwkôzik@
+@treasurer@|@noji-môniad+ik@
+@tree@|@abazi@
+@tree: dead ~@|@msoakw+ok@
+@trigger@|@nhanesnôsik+il@
+@trinity (Christian)@|@nasi chebikinawsit@
+@trip: Did you have a good ~?@|@Golibamkanni?@
+@trip: Have a good ~.@|@Olibamkanni.@
+@trip: I had a good ~.@|@nolibamkanni.@
+@triple@|@nseda pkawiwi@
+@trouble (v)@|@awskônkamuk, wagawnakamuk, wagawnômuk, wagawnôzik@
+@trousers@|@plejes+al@
+@trout: lake ~@|@namagw+ok@
+@trout: salmon ~@|@namagw+ok@
+@truly@|@kalaata@
+@trunk@|@lessagahigan@
+@tuberculosis@|@mannachôgowôgan@
+@Tuesday@|@nisda alokan@
+@tumbler@|@kchi aazasit+ik@
+@turkey@|@nahama+k@
+@turn around (v)@|@kwalbosamuk@
+@turn over (v)@|@kwalbenômuk, kwalbenôzik@
+@turnips@|@channap-sak@
+@turtle@|@tolba+k@
+@twelve@|@nisônkaw@
+@twentieth@|@nisinska akwôbabit, nisinska alagimguak@
+@twenty@|@nisinska@
+@twenty-five cents@|@tlôtso@
+@twenty-one@|@nisinskataba pazekw@
+@twice@|@nisda@
+@two@|@nis, nisoak@
+@two hundred@|@nisatgua@
+@ugliness@|@majigowôgan@
+@uncle: my ~@|@nôjikw+ak@
+@uncle: my cross-~@|@n'zasis+ak@
+@uncle: my parallel-~@|@n'nôjikw+ak@
+@under-petticoat@|@alômabizowan+al@
+@United States of America@|@Patonki@
+@unless@|@aiga, chaga ôda@
+@unload (v)@|@kajimijebikamuk@
+@untie (v)@|@ôbenômuk, ôbenôzik@
+@upon@|@tasiwi@
+@us@|@kiuna, niona, niuna@
+@us: to ~ (we) (pr. obj.)@|@kiuna@
+@use (v)@|@alokamuk@
+@useless@|@piziwadoik, piziwadoit@
+@vagina@|@bloti@
+@vapour@|@awan@
+@vast@|@mamsi@
+@veal@|@kaozisiia@
+@vein@|@kôjo+ak@
+@venison@|@nolka'iia+k@
+@very@|@pita@
+@very cloudy@|@kiniasokwad@
+@vessel@|@ktolagw+ol@
+@village@|@odana+al@
+@vinegar@|@pinagel@
+@violet: it's ~@|@minôbowigen@
+@violet: the ~@|@minôbowigek@
+@virgin Mary@|@sôgmôwi mali@
+@voice (the voice)@|@lalômowôgan@
+@void (anim)@|@piziwadoik@
+@void (inan)@|@piziwadoit@
+@wagon@|@wagin+ak@
+@waistcoat@|@silad+al@
+@wait for (v)@|@askawihômuk@
+@wake up!@|@Omki!@
+@walk@|@pmossamek@
+@Walk.@|@alosa.@
+@walk: he ~s@|@pmossa@
+@walk: I ~@|@n'pmossa@
+@walk: she ~s@|@pmossa@
+@walk: you ~@|@n'pmossa@
+@walking stick@|@ôbadahon+al@
+@walnut@|@pagôn+al@
+@want@|@achwaldamek@
+@want: he ~s@|@achwalda@
+@want: I ~@|@nd'achwaldam@
+@want: I ~ something@|@nadachowaldam@
+@want: she ~s@|@achwalda@
+@want: you ~@|@nd'achwaldam@
+@warm returning wind from the south: the ~@|@azawanlômsen@
+@warm weather: it's ~@|@wlôda@
+@warm wind: it's a ~@|@kzabdalômsen@
+@warn@|@wawôdokawômuk@
+@warn (v)@|@wawôjemimuk@
+@wash (v)@|@kazebaadigamuk, kazebaalmuk@
+@washer-woman@|@nodbaadigat+ik@
+@wasp@|@wawilômwa+k@
+@watch@|@tbahikisosôgan+al@
+@watch (v)@|@pazôbimuk@
+@watchmaker@|@noji-tbaikisosôganikad+ik@
+@water@|@nebi@
+@water: muddy ~@|@pibganbi@
+@water: rain ~@|@solgônbi@
+@water: river ~@|@sibobi@
+@water: spring ~@|@tkobi@
+@water: well ~@|@whawdazibôminebi@
+@waterfall@|@panjahlôk+il@
+@wave@|@tego+ak@
+@we@|@niona@
+@we (pr. excl.)@|@n'@
+@we (pr. incl.)@|@k'@
+@weasel@|@saguasis+ak@
+@weather@|@alikisgak, kisokw@
+@weather: fair ~@|@wlekisgad@
+@weather: fine ~@|@wlekisgad@
+@weather: it's bad ~@|@majekisgad, majikisgad@
+@weather: it's cold ~@|@tekakisgad@
+@weather: it's damp ~@|@odagikisgad, wdagkisgad@
+@weather: it's dry ~@|@pakwsatakisgad@
+@weather: it's fine@|@walikisgad@
+@weather: it's good ~@|@wlikisgad@
+@weather: it's hot ~@|@kzabdakisgad@
+@weather: it's rainy ~@|@soglônkisgad, soglônwikisgad@
+@weather: it's stormy ~@|@kinlônwikisgad@
+@weather: it's sunny ~@|@kisosowikisgad@
+@weather: it's very bad ~@|@kinimajikisgad@
+@weather: it's very damp@|@kiniodagikisgad@
+@weather: it's very dry ~@|@kinipakwsatakisgad@
+@weather: it's very fine ~@|@kiniwalikisgad@
+@weather: it's very hot ~@|@kinikzabdakisgad@
+@weather: it's very hot and humid ~@|@kinjagabdakisgad@
+@weather: it's warm ~@|@wilôdakisgad, wlôda@
+@weather: it's wet ~@|@nibikisgad, wdagkisgad@
+@wedding-ring@|@nibawiljahon+al@
+@Wednesday@|@nseda alokan@
+@week@|@negwedsanda+al, nguetsanda@
+@week later: a ~@|@sipkinewedsandak@
+@week long: all ~@|@kwansandak@
+@week: after the ~@|@kizi negwedsandak@
+@week: before the ~@|@asma negwedsandak@
+@week: last ~@|@pabmalokamgak@
+@week: the following ~@|@nosokak sandak@
+@week: this ~@|@negwedsandak@
+@week: two ~s@|@nisda sanda@
+@weep (v)@|@malisjômuk@
+@well water@|@whawdazibôminebi@
+@well: Dream ~.@|@Olegwasi.@
+@well: sleep ~.@|@Oligawi.@
+@west@|@ali-nkihlôt, ali-nkihlt@
+@west: from the ~@|@ali-nkihlôt@
+@westward@|@ali-nkihlôt@
+@wet weather: it's ~@|@wdagkisgad@
+@what@|@toni, tôni@
+@What are you doing?@|@Kagui k'd-elalokaba?@
+@what did you say?@|@Gagwi gedidam?@
+@what is that?@|@Gagwi ni?, Gagwi ni?@
+@What is that?@|@Kagui?, Kagwes ni?@
+@what is this?@|@Gagwi yo?@
+@What is your name?@|@Kagui k'd-eli vizi?@
+@what?@|@gagwi?@
+@wheat@|@malomen+al@
+@wheat-ear (bird)@|@pokui sigoskuasis@
+@wheel@|@wakôlikws+il@
+@when@|@chiga, tôni adoji@
+@when it's summer@|@nibek@
+@when it's windy@|@gzelômsenok@
+@where@|@toni, tôni@
+@whereas@|@oji ala, oji ali, wzomi@
+@wherefore@|@ni wattak@
+@whin chat (bird)@|@alômsaguilhasis@
+@whip@|@sazamhigan@
+@whip-poor-will@|@papoles+ak@
+@whirlpool@|@kokw+ak@
+@whirlwind: there is a ~@|@petguelômsen@
+@whiskey@|@weski@
+@white@|@wôbi@
+@white fish@|@wôbamagw+ak, wôbi namas+ak@
+@white liquid@|@wôbbagak@
+@white liquid: it's ~@|@wôbbaga@
+@white spruce@|@msazesso+ak@
+@white: he is ~@|@wôbigo@
+@white: it's ~@|@wôbigen, wôbigo@
+@white: she is ~@|@wôbigo@
+@white: the ~@|@wôbigek@
+@who are you?@|@awani gia?@
+@who is she/he?@|@awani agema?@
+@Who is that?@|@awani na?@
+@whooping cough@|@majimalômilhawôgan@
+@wicked@|@majigek, majigit@
+@widow@|@sigweskwa@
+@widower@|@sigwid@
+@wife@|@behanem@
+@wife: his ~@|@niswiidiji@
+@wife: my ~@|@niswiak@
+@wife: my brother's ~ (speaker female)@|@nilem+ok@
+@wife: my brother's ~ (speaker male)@|@nilem+ok@
+@wife: thy ~@|@niswiakw@
+@wig@|@pilwôntukw+al@
+@wild-cherry tree@|@maskwazimenakuam+ak@
+@wilderness@|@pisowakamigw+ol@
+@willingly@|@wigôdamiwi@
+@willow@|@kanozas+ak@
+@win (v)@|@kawhoamuk@
+@wind@|@kzelômsen@
+@wind (that which blows)@|@alômsek@
+@wind : it's a damp ~@|@odagelômsen@
+@wind approaches: the ~@|@pedelômsen@
+@wind blows in a certain direction: the ~@|@lagwelômsen@
+@wind falls: the ~@|@awanbenihla@
+@wind: an offshore ~@|@mamillômsen@
+@wind: an upward blowing ~@|@spigwelômsen@
+@wind: fair ~@|@wlelômsen@
+@wind: fresh ~@|@wlelômsen@
+@wind: it's a cold ~@|@tekalômsen@
+@windfall@|@kawasen+ok@
+@windy@|@gzelômsen@
+@windy in spots: it's ~@|@pagatlômsen@
+@windy: it's ~@|@gzelômseno@
+@windy: it's a little ~@|@gzelômsenoso@
+@windy: it's very ~@|@kinilômsek@
+@wine@|@makwbagak@
+@Winnipisaukee@|@Wiwninbesaki@
+@Winooski@|@Winoski@
+@winter@|@pbon, pebon@
+@winter: a year ago last ~@|@nialippona@
+@winter: in ~@|@peboniwi@
+@winter: last ~@|@pbona, pebona@
+@winter: next ~@|@pboga, peboga@
+@wizard (any type of yellow bird)@|@wisôwihlasis+ak@
+@wolf@|@môlsem+ok@
+@wolf cub@|@môlsemis+ok@
+@wolverine@|@alaskana@
+@woman@|@behanem, phanem@
+@woman: Indian ~@|@Alnôbai phanem@
+@wood: decayed ~@|@msoakw+ok@
+@woodchuck@|@agaskw+ok@
+@woodcutter@|@nodkwahid+ik@
+@wooden-trap@|@klahigan+al@
+@woodman@|@nodkwahid+ik@
+@woodpecker@|@ôbasas+ak@
+@woodpecker: black ~@|@mama+k@
+@work@|@alokawôgan@
+@work (v)@|@aloka., awakamuk@
+@work: Let's ~.@|@aloka.@
+@worm@|@skoks+ak@
+@worst@|@chitôiwi@
+@write (v)@|@awighôzilk@
+@Yamaska@|@Wigwôkadenik@
+@yard: half a ~@|@pabasi llakwnôso@
+@yard: one ~@|@nguet'akwnôso, pazegueda llakwnôso@
+@yawl@|@abodes+al@
+@year@|@gaden+al@
+@year is ended: the ~@|@matgaden@
+@year long@|@kwanigadenek@
+@year: after very many ~s@|@kôkasigadenwaiwi@
+@year: all ~@|@mziwigaden@
+@year: at the beginning of the ~@|@môjagadeniwi@
+@year: before this ~@|@asma pamgadenek@
+@year: beginning of the ~@|@môjagaden@
+@year: end of the ~@|@machiwigaden@
+@year: full ~@|@pasanôgaden@
+@year: half of the ~@|@pabasôgaden@
+@year: it's a ~@|@ligaden@
+@year: it's a good ~@|@wligen gaden@
+@year: it's half of the ~@|@pabasiwigen gaden@
+@year: it's next ~@|@nakwaltak gadenek@
+@year: it's the end of the ~@|@machiwigen gaden@
+@year: it's the following ~@|@nosokak gadenek@
+@year: it's the middle of the ~@|@nanôwigen gaden@
+@year: middle of the ~@|@nanôwigaden@
+@year: one ~@|@nguejigaden@
+@year: some of the ~@|@naoji gaden@
+@year: the ~ is…@|@aligadenek@
+@year: very many ~s@|@kôkasigaden@
+@yellow@|@wizôwi@
+@yellow dye@|@wizôw'atsigan@
+@yellow fever@|@wizôwi kezabezowogan@
+@yellow: it's ~@|@wizôwigen@
+@yes@|@Oho, ôhôô@
+@yesterday@|@wlôgwa@
+@yesterday morning@|@wlôgwa spôzowik@
+@yesterday: after ~@|@kizi wlôgwak@
+@yet@|@askua mina, mina@
+@you@|@gia, kia, kiuwô@
+@you (formal)@|@kiona@
+@you: to ~ (pr. obj.)@|@kiuwô@
+@young@|@wski@
+@young dog@|@wski alemos+ak@
+@young girl@|@n'ôkskuasis@
+@young man@|@wski alnôba@
+@your father@|@k'mitongwes@
+@yours (poss. pr.)@|@kiuwô@
+@yourselves@|@kiuwôtta@
+@yourselves: to ~ (pr. reflective)@|@kiuwôtta@
+

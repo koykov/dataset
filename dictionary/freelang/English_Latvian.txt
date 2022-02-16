@@ -1,0 +1,1053 @@
+@English@|@Latvian@
+@Author name@|@Patrick Jouannès@
+@Font@|@Arial\12\Arial\12@
+@a bargain is a bargain@|@kas padarīts, tas padarīts@
+@abbot@|@abats@
+@abdomen@|@vēders@
+@acid (adj)@|@skābs@
+@acid (subst)@|@skābe@
+@acorn@|@zīle@
+@addle egg@|@veca ola@
+@air@|@gaiss@
+@alder@|@alksnis@
+@ale@|@alus@
+@alive@|@dzīvs@
+@all@|@viss@
+@all are present@|@visi ir klāt@
+@all of you@|@jūs visi@
+@almond@|@mandele@
+@almost@|@gandrīz@
+@also@|@arī@
+@always@|@vienmēr@
+@amber@|@dzintars@
+@anal@|@anāls@
+@anchor@|@enkurs@
+@and@|@un@
+@angel@|@eņģelis@
+@anger (subst)@|@dusmas@
+@angry@|@dusmīgs@
+@ankle@|@potīte@
+@ant@|@skudra@
+@ant-eater@|@skudrlācis@
+@anus@|@tūplis@
+@anvil@|@lakta@
+@apiary@|@drava@
+@apple@|@ābols@
+@apple of discord@|@strīda ābols@
+@apple-tree@|@ābele@
+@April@|@aprīlis@
+@Aquarius (zodiac)@|@Ūdensvīrs@
+@arable (adj)@|@arams@
+@arc@|@loks@
+@arid@|@sauss@
+@aridity@|@sausums@
+@Aries (zodiac)@|@Auns@
+@arrow@|@bulta@
+@arse@|@dibens@
+@ash (powder)@|@pelni@
+@ash (tree)@|@osis@
+@aspen@|@apse@
+@asphyxiate@|@smakt@
+@ass (donkey)@|@ēzelis@
+@at table@|@pie galda@
+@aunt@|@krustmāte@
+@autumn@|@rudens@
+@autumnal@|@rudenīgs@
+@awl@|@īlens@
+@axis@|@ass@
+@back (subst)@|@mugura@
+@bad (subst)@|@ļaunums@
+@bad bargain@|@neizdevīgs darījums@
+@badger (subst)@|@āpsis@
+@bag@|@maiss@
+@baker@|@maiznieks@
+@barbed wire@|@dzeloņstieple@
+@bark (tree)@|@miza@
+@barley@|@mieži@
+@battle (subst)@|@kauja@
+@battlefield@|@kaujas lauks@
+@be (verb)@|@būt@
+@bear (verb)@|@nest@
+@beard (subst)@|@bārda@
+@bearded@|@bārdains@
+@beaver@|@bebrs@
+@bee@|@bite@
+@beeswax@|@bišu vasks@
+@begin (intr)@|@sākties@
+@begin (trans)@|@sākt@
+@beginner@|@iesācējs@
+@beginning@|@sākums@
+@belly@|@vēders@
+@bile@|@žults@
+@billow (subst)@|@banga@
+@birch@|@bērzs@
+@bird@|@putns@
+@bird of prey@|@plēsīgs putns@
+@bizarre@|@savāds@
+@black (adj)@|@melns@
+@blackberry@|@kazene@
+@bladder (anat)@|@pūslis@
+@bland@|@mīlīgs@
+@blanket@|@sega@
+@blind (adj)@|@akls@
+@blindly@|@akli@
+@blindness@|@aklums@
+@blood@|@asinis@
+@blue (adj)@|@zils@
+@bluish@|@zilgans@
+@boar@|@vepris@
+@bog (subst)@|@purvs@
+@bomb@|@bumba@
+@bone@|@kauls@
+@bony@|@kaulains@
+@book@|@grāmata@
+@born loser@|@dzimis neveiksminieks@
+@both@|@abi@
+@bread@|@maize@
+@bream (fish)@|@plaudis@
+@bribe (subst)@|@kukulis@
+@bridge@|@tilts@
+@brink@|@mala@
+@brother@|@brālis@
+@brother-in-law@|@svainis@
+@bull@|@bullis@
+@burner@|@deglis@
+@butterfly@|@tauriņš@
+@buxom@|@ražens@
+@by nature@|@no dabas@
+@by night@|@naktī@
+@cadaver@|@līķis@
+@camel@|@kamielis@
+@camp@|@nometme@
+@cancer (medical)@|@vēzis@
+@Cancer (zodiac)@|@Vēzis@
+@candle@|@svece@
+@cannibal@|@cilvēkēdājs@
+@carp@|@karpa@
+@carrion@|@maita@
+@carrot@|@burkāns@
+@casket@|@šķirstiņš@
+@castle@|@pils@
+@cavalry@|@jātnieki@
+@caviar@|@kaviārs@
+@cease-fire@|@pamiers@
+@cellar@|@pagrabs@
+@cemetery@|@kapsēta@
+@centre@|@centrs@
+@century@|@gadsimts@
+@chain@|@ķēde@
+@chair@|@krēsls@
+@chalk@|@krīts@
+@cheap (adj)@|@lēts@
+@cheap (adv)@|@lēti@
+@cheek@|@vaigs@
+@cheese@|@siers@
+@cherry@|@ķirsis@
+@child@|@bērns@
+@childhood@|@bēnība@
+@chin@|@zods@
+@chisel (subst)@|@kalts@
+@church@|@baznīca@
+@clay@|@māls@
+@clayey@|@mālains@
+@clean@|@tīrs@
+@cleanly@|@tīri@
+@cliff@|@klints@
+@coal@|@ogle@
+@cockroach@|@tarakāns@
+@cod (fish)@|@menca@
+@coffe@|@kafija@
+@coffin@|@zārks@
+@cold blood@|@aukstasinība@
+@colt@|@kumeļš@
+@copper@|@varš@
+@corpse@|@līķis@
+@cough (subst)@|@klepus@
+@courage@|@drosme@
+@cow (subst)@|@govs@
+@coward (adj)@|@gļēvs@
+@coward (subst)@|@gļēvulis@
+@cranberry@|@dzērvene@
+@crane@|@dzērve@
+@crime@|@noziegums@
+@crow (subst)@|@vārna@
+@cucumber@|@gurķis@
+@cut with a knife@|@griezt ar nazi@
+@dale@|@ieleja@
+@damned (pp)@|@nolādēts@
+@dank@|@drēgns@
+@daughter@|@meita@
+@daughter-in-law@|@vedekla@
+@day@|@diena@
+@deadly enemy@|@nāvīgs ienaidnieks@
+@deadly wound@|@nāvīgs ievainojums@
+@deaf@|@kurls@
+@deaf of an ear@|@kurls ar vienu ausi@
+@deafness@|@kurlums@
+@death@|@nāve@
+@December@|@Decembris@
+@deer@|@briedis@
+@deity@|@dievība@
+@desert (subst)@|@tuksnesis@
+@devil@|@velns@
+@dew@|@rasa@
+@dog@|@suns@
+@donkey@|@ēzelis@
+@door@|@durvis@
+@dragon@|@pūķis@
+@dream (subst)@|@sapnis@
+@dreamer@|@sapņotājs@
+@drink (verb)@|@dzert@
+@drinker@|@dzērājs@
+@drudge@|@smaga@
+@dry@|@sauss@
+@dumb@|@mēms@
+@dune@|@kāpa@
+@dust@|@pīšļi@
+@eagle@|@ērglis@
+@eaglet@|@ērglēns@
+@ear (man)@|@auss@
+@ear (plant)@|@vārpa@
+@early@|@agrs@
+@earth@|@zeme@
+@earthworm@|@slieka@
+@east@|@austrumi@
+@eat (verb)@|@ēst@
+@eaves@|@dzega@
+@edible@|@ēdams@
+@eel@|@zutis@
+@egg (verb)@|@ola@
+@eggshell@|@olas čaumala@
+@elbow@|@elkonis@
+@element@|@stihija@
+@elemental@|@stihisks@
+@elephant@|@zilonis@
+@elk@|@alnis@
+@elm@|@goba@
+@empty (adj)@|@tukšs@
+@encens@|@vīraks@
+@engaged (fiancée)@|@saderināta@
+@es zinu@|@je sais@
+@eternity@|@mūžība@
+@ewe@|@avs@
+@eye@|@acs@
+@eye for eye tooth for tooth@|@aci pret aci zobu pret zobu@
+@famed@|@slavens@
+@famine@|@bads@
+@farrow (subst)@|@metiens@
+@fast (subst) (religion)@|@gavēnis@
+@father@|@tēvs@
+@fatherless@|@bez tēva@
+@fearless@|@bezbailīgs@
+@February@|@februāris@
+@fecund@|@auglīgs@
+@fecundity@|@auglība@
+@fern@|@paparde@
+@fertile@|@ražīgs@
+@fiancée@|@līgava@
+@filly@|@ķēve@
+@fin (subst) (fish)@|@spura@
+@finch@|@žubīte@
+@finger@|@pirksts@
+@fir@|@egle@
+@first of all@|@vispirms@
+@firstborn@|@pirmdzimtais@
+@fish@|@zivs@
+@fishbone@|@asaka@
+@fisherman@|@zveinieks@
+@fishing@|@zveja@
+@flail@|@sprigulis@
+@flake@|@pārsla@
+@flake of snow@|@sniega pārsla@
+@flax@|@lini@
+@flea@|@blusa@
+@flint@|@krams@
+@flour@|@milti@
+@fluid (adj)@|@šķidrs@
+@fly (insect)@|@muša@
+@fog@|@migla@
+@foggy@|@miglains@
+@fog-horn@|@miglas svilpe@
+@food@|@barība@
+@ford (subst)@|@brasls@
+@forefather@|@sencis@
+@forehead@|@piere@
+@forest@|@mežs@
+@forester@|@mežzinis@
+@fowl@|@putns@
+@friar@|@mūks@
+@friend@|@draugs@
+@friendship@|@draudzība@
+@frigid zone@|@aukstā josla@
+@frog@|@varde@
+@fruitful@|@auglīgs@
+@fruit-tree@|@augļu koks@
+@full@|@pilns@
+@fungus@|@sēne@
+@gad-fly@|@dundurs@
+@garden@|@dārzs@
+@gardener@|@dārznieks@
+@garlic@|@ķiploks@
+@gate@|@vārti@
+@germ@|@dīglis@
+@germinate@|@dīgt@
+@giant (subst)@|@milzis@
+@gland@|@dziedzeris@
+@glass@|@stikls@
+@glass wool@|@stikla vate@
+@glassy@|@stiklains@
+@glen@|@grava@
+@glove@|@cimds@
+@goat@|@kaza@
+@god@|@dievs@
+@God with us@|@Dievs ar mums@
+@goddess@|@dieviete@
+@godless@|@bezdievīgs@
+@God's son@|@Dieva dēls@
+@God's spirit@|@Dieva gars@
+@goitre (medical)@|@kākslis@
+@gold@|@zelts@
+@gold-dust@|@zelta smiltis@
+@goldsmith@|@zeltkalis@
+@good (adj)@|@labs@
+@good (subst)@|@labums@
+@good morning !@|@labrīt !@
+@goose@|@zoss@
+@goose-flesh@|@zosāda@
+@gorse (plant)@|@irbulenes@
+@gosling@|@zoslēns@
+@grandchild@|@mazbērns@
+@granddaughter@|@mazmeita@
+@grandfather@|@vectēvs@
+@grandmother@|@vecāmāte@
+@grandson@|@mazdēls@
+@grape@|@vīnoga@
+@grass@|@zāle@
+@grasshopper@|@sienāzis@
+@grassy@|@zālains@
+@grave (subst) (death)@|@kaps@
+@great@|@liels@
+@greatness@|@lielums@
+@green (adj)@|@zaļš@
+@greenish@|@zaļgans@
+@greyhound@|@kurts@
+@groin (anatomy)@|@cirksnis@
+@grouse@|@rubenis@
+@grove@|@birzs@
+@guardian@|@sargs@
+@guilt@|@vaina@
+@guilty@|@vainīgs@
+@gum@|@smaganas@
+@gut@|@zarna@
+@hail (subst) (falling ice)@|@krusa@
+@hair@|@mats@
+@hairless@|@bez matiem@
+@ham@|@šķiņķis@
+@hamlet@|@ciemats@
+@hammer@|@āmurs@
+@hamster@|@kāmis@
+@hare@|@zaķis@
+@hart@|@briedis@
+@hawk (bird)@|@vanags@
+@hay@|@siens@
+@head@|@galva@
+@healthy@|@vesels@
+@heart@|@sirds@
+@hearth@|@pavards@
+@heather@|@virši@
+@heaven@|@debesis@
+@heavenly body@|@debess ķermenis@
+@hedgehog@|@ezis@
+@he-goat@|@āzis@
+@heifer@|@tele@
+@heir@|@mantinieks@
+@hellish@|@ellīgs@
+@helve@|@kāts@
+@hemp@|@kaņepes@
+@hen@|@vista@
+@henbane (plant)@|@driģenes@
+@her husband@|@viņas vīrs@
+@herb@|@augs@
+@herdsman@|@gans@
+@hereditary@|@iedzimts@
+@heredity@|@iedzimtība@
+@heretic@|@ķeceris@
+@heretical@|@ķecerīgs@
+@heritage@|@mantojums@
+@hernia@|@trūce@
+@hero@|@varonis@
+@heroic@|@varonīgs@
+@heroine@|@varone@
+@heroism@|@varonība@
+@heron@|@gārnis@
+@herring@|@siļķe@
+@hide (subst) (skin)@|@āda@
+@high@|@augsts@
+@high treason@|@valsts nodevība@
+@hillock@|@paugurs@
+@his mother@|@viņa māte@
+@hives (medical)@|@nātrene@
+@holster@|@maksts@
+@holy@|@svēts@
+@Holy Ghost@|@Svētais Gars@
+@Holy Writ@|@svētie raksti@
+@homelike@|@mājīgs@
+@honest@|@godīgs@
+@honesty@|@godīgums@
+@honey@|@medus@
+@honeymoon@|@medusmēnesis@
+@hook@|@āķis@
+@hop@|@apinis@
+@horn@|@rags@
+@horror@|@šausmas@
+@horse@|@zirgs@
+@horseman@|@jātnieks@
+@horseradish@|@mārrutks@
+@horseshoe@|@pakavs@
+@hospital@|@slimnīca@
+@hospitality@|@viesmīlība@
+@hostage@|@ķīlnieks@
+@hot (adj)@|@karsts@
+@hot spring@|@karstūdens avots@
+@hotel@|@viesnīca@
+@house@|@nams@
+@huckleberry@|@mellene@
+@huge@|@milzīgs@
+@humane@|@cilvēcīgs@
+@humid@|@mitrs@
+@humidity@|@mitrums@
+@hundred@|@simts@
+@hunger-strike@|@bada streiks@
+@hunter@|@mednieks@
+@husband@|@vīrs@
+@I@|@es@
+@I am hot@|@man ir karsti@
+@I am warm@|@man ir silti@
+@ice@|@ledus@
+@ice-breaker@|@ledlauzis@
+@icicle@|@lāsteka@
+@icy@|@ledains@
+@idol@|@elks@
+@illness@|@slimība@
+@ill-will@|@nelabvēlība@
+@image@|@tēls@
+@important@|@svarīgs@
+@in token of@|@par zīmi@
+@inborn@|@iedzimts@
+@ink@|@tinte@
+@insect@|@kukainis@
+@invisible@|@neredzams@
+@iron@|@dzels@
+@ivy@|@efeja@
+@January@|@janvāris@
+@jobless@|@bez darba@
+@joke@|@joks@
+@keen knife@|@ass nazis@
+@kerchief@|@lakats@
+@kid (goat)@|@kazlēns@
+@kidney@|@niere@
+@kiln@|@ceplis@
+@king@|@karalis@
+@kitchen@|@virtuve@
+@kitten@|@kaķēns@
+@knead (verb)@|@mīcīt@
+@knife@|@nazis@
+@knight@|@bruņinieks@
+@know (verb)@|@zinat@
+@lake@|@ezers@
+@lamb@|@jērs@
+@lamp@|@lampa@
+@lance@|@šķēps@
+@larch@|@lapegle@
+@lark@|@cīrulis@
+@larva@|@kūniņa@
+@larynx@|@balsene@
+@Latvian@|@Latvietis@
+@law@|@likums@
+@laziness@|@slinkums@
+@lazy@|@slinks@
+@lead (metal)@|@svins@
+@leaf@|@lapa@
+@leafless@|@bez lapām@
+@leafy@|@lapots@
+@leech@|@dēle@
+@leek@|@puravs@
+@lentil (plant)@|@lēca@
+@liar@|@melis@
+@lie (subst)@|@meli@
+@light (subst) (lux)@|@gaisma@
+@lime-tree@|@liepa@
+@linguist@|@valodnieks@
+@lion@|@lauva@
+@lioness@|@lauvene@
+@lion's share@|@lauvas tiesa@
+@lithe@|@lokans@
+@live (adj)@|@dzīvs@
+@live fish@|@dzīva zivs@
+@liver@|@aknas@
+@lizard@|@ķirzaka@
+@lord (god)@|@kungs@
+@louse@|@uts@
+@lousy@|@utains@
+@lout@|@lempis@
+@loutish@|@lempīgs@
+@lung@|@plauša@
+@luxurious@|@grezns@
+@lye@|@sārms@
+@lynx@|@lūsis@
+@mammary gland@|@krūšu dziedzeris@
+@manuscript (subst)@|@rokraksts@
+@maple@|@kļava@
+@marble@|@marmors@
+@mare@|@ķēve@
+@market@|@tirgus@
+@marshy@|@purvains@
+@marten@|@cauna@
+@maybe@|@varbūt@
+@mead@|@medalus@
+@meadow@|@pļava@
+@mermaid@|@nāra@
+@midnight@|@pusnakts@
+@milch-cow@|@slaucama govs@
+@milieu@|@vide@
+@milk (subst)@|@piens@
+@milk (verb)@|@slaukt@
+@milk-tooth@|@piena zobs@
+@milky@|@pienīgs@
+@Milky Way@|@Piena Ceļš@
+@mini-skirt@|@mini-svārki@
+@minnow@|@grundulis@
+@miracle@|@brīnums@
+@miraculous@|@brīnumains@
+@mirror (subst)@|@spogulis@
+@mirth@|@jautrība@
+@mistletoe@|@āmuļi@
+@mole@|@kurmis@
+@mole-hill@|@kurmja rakums@
+@Monday@|@Pirmdiena@
+@money@|@nauda@
+@moneyed@|@naudīgs@
+@month@|@mēnesis@
+@moon@|@mēness@
+@morning@|@rīts@
+@moss@|@sūna@
+@moth@|@kode@
+@mother@|@māte@
+@mother tongue@|@dzimtā valoda@
+@motherless@|@bez mātes@
+@mountain@|@kalns@
+@mountaineer@|@kalnietis@
+@mountainous@|@kalnains@
+@mouse@|@pele@
+@moustache@|@ūsas@
+@mouth@|@mute@
+@mucus@|@gļotas@
+@mud@|@dubļi@
+@mushroom@|@sēne@
+@my@|@mans@
+@mysterious@|@noslēpumains@
+@mystery@|@noslēpums@
+@nail@|@nags@
+@naked@|@kails@
+@naked body@|@kails ķermenis@
+@nakedness@|@kailums@
+@narrow@|@šaurs@
+@nation@|@tauta@
+@nationality@|@tautība@
+@natural@|@dabisks@
+@nature@|@daba@
+@near (adj)@|@tuvs@
+@near friend@|@tuvs draugs@
+@nearness@|@tuvums@
+@neck@|@kakls@
+@needle@|@adata@
+@neigh@|@zviegt@
+@neighbour@|@kaimiņš@
+@nestling@|@putnēns@
+@net (subst) (for fishing)@|@tīkls@
+@new@|@jauns@
+@New Testament@|@Jaunā Derība@
+@New Year@|@Jaungads@
+@night@|@nakts@
+@nightingale@|@lakstīgala@
+@nit@|@gnīda@
+@noose@|@cilpa@
+@north@|@ziemeļi@
+@nose@|@deguns@
+@nostril@|@nāss@
+@not at all@|@nemaz@
+@noun@|@lietvārds@
+@oaf@|@lempis@
+@oak@|@ozols@
+@oar@|@airis@
+@oat@|@auzas@
+@oil@|@eļļa@
+@old@|@vecs@
+@Old Testament@|@Vecā Derība@
+@on the table@|@uz galda@
+@on Thursday@|@ceturtdien@
+@on Tuesday@|@otrdien@
+@onion@|@sīpols@
+@only son@|@vienīgais dēls@
+@ore@|@rūda@
+@orphan@|@bārenis@
+@orphaned@|@bārs@
+@other@|@otrs@
+@otter@|@udrs@
+@ounce (léopard des neiges)@|@barss@
+@oven@|@krāsns@
+@ox@|@vērsis@
+@pea@|@zirnis@
+@peace@|@miers@
+@peaceful@|@mierīgs@
+@peacock@|@pāvs@
+@pelvis@|@iegurnis@
+@pencil@|@zīmulis@
+@pepper@|@pipari@
+@perch@|@asaris@
+@pie@|@pīrāgs@
+@pigeon@|@balodis@
+@pike (fish)@|@līdaka@
+@pillow@|@spilvens@
+@pitch@|@darva@
+@plough (subst)@|@arkls@
+@plough (verb)@|@art@
+@ploughman@|@arājs@
+@ploughshare@|@lemesis@
+@port@|@osta@
+@pregnant@|@grūta@
+@price@|@cena@
+@prison@|@cietums@
+@prisoner of war@|@karagūsteknis@
+@privet (plant)@|@ligustrs@
+@prophet@|@pravietis@
+@pus@|@strutas@
+@rabbit@|@trusis@
+@rain@|@lietus@
+@rainy@|@lietains@
+@ram@|@auns@
+@raspberry@|@avene@
+@rat@|@žurka@
+@raven@|@krauklis@
+@ray@|@stars@
+@red (adj)@|@sarkans@
+@Red Cross@|@Sarkanais Krusts@
+@reed@|@niedre@
+@reptile@|@rāpulis@
+@rice@|@rīss@
+@river@|@upe@
+@road@|@ceļš@
+@roe@|@ikri, stirna@
+@roof@|@jumts@
+@roofless@|@bez jumta@
+@rooster@|@gailis@
+@rust (subst)@|@rūsa@
+@rye@|@rudzi@
+@sack@|@maiss@
+@sacred@|@svēts@
+@sailor@|@jūrnieks@
+@sakmon@|@lasis@
+@salary@|@alga@
+@saliva@|@siekalas@
+@sallow@|@kārkls@
+@salt@|@sāls@
+@sand@|@smilts@
+@saw (subst) (tool)@|@zāģis@
+@scar@|@klints@
+@school year@|@mācību gads@
+@sea@|@jūra@
+@seal@|@ronis@
+@sealskin@|@roņāda@
+@sedge@|@grīslis@
+@seed@|@sēkla@
+@serpent@|@čūska@
+@servant (fem)@|@kalpone@
+@servant (masc)@|@kalps@
+@sew (verb)@|@šūt@
+@shadow@|@ēna@
+@shame@|@kauns@
+@sheaf@|@kūlis@
+@sheep@|@aita@
+@shepherd@|@gans@
+@shepherdess@|@gane@
+@ship@|@kuģis@
+@shirt@|@krekls@
+@shoe@|@kurpe@
+@shooting star@|@krītoša zvaigzne@
+@shore@|@krasts@
+@short story@|@īsais stāsts@
+@shoulder@|@plecs@
+@sick@|@slims@
+@sieve (subst)@|@siets@
+@silk@|@zīds@
+@silken@|@zīdains@
+@silver@|@sudabrs@
+@sin (subst)@|@grēks@
+@sinner@|@grēcinieks@
+@sister@|@māsa@
+@skin@|@āda@
+@sky@|@debesis@
+@slave (fem)@|@verdzene@
+@slave (masc)@|@vergs@
+@slavery@|@verdzība@
+@sleep (subst)@|@miegs@
+@slumber (subst)@|@snauda@
+@sly@|@viltīgs@
+@smile (subst)@|@smaids@
+@smith@|@kalējs@
+@smoke (subst)@|@dūmi@
+@smoker@|@smēķētājs@
+@snail@|@gliemezis@
+@snake@|@čūska@
+@sneeze (verb)@|@šķaudīt@
+@snore (verb)@|@krākt@
+@snow (subst)@|@sniegs@
+@snow (verb)@|@snigt@
+@snowball@|@sniega pika@
+@snowy@|@sniegains@
+@soap@|@ziepes@
+@soccer@|@futbols@
+@society@|@sabiedrība@
+@soldier@|@kareivis@
+@son@|@dēls@
+@son adoptive@|@audžudēls@
+@song@|@dziesma@
+@son-in-law@|@znots@
+@sorcerer@|@burvis@
+@sorceress@|@burve@
+@sorcery@|@brurvība@
+@soul@|@dvēsele@
+@sour@|@skābs@
+@sow (verb)@|@sēt@
+@sower@|@sējējs@
+@sparrow@|@zvirbulis@
+@speak (verb)@|@runāt@
+@speak english@|@runāt angliski@
+@speech@|@runa@
+@speed@|@ātrums@
+@speedy@|@ātrs@
+@spider@|@zirneklis@
+@spider's web@|@zirneķla tīkls@
+@spirit@|@gars@
+@spleen@|@liesa@
+@sport@|@sports@
+@spring (season)@|@pavasaris@
+@spy (subst)@|@spiegs@
+@squirrel@|@vavere@
+@stable (horse)@|@stallis@
+@stagnant (water)@|@stāvošs@
+@stain@|@traips@
+@stallion@|@ērzelis@
+@star@|@zvaigzne@
+@state (general)@|@stāvoklis@
+@state (politics)@|@valsts@
+@statue@|@statuja@
+@steal (verb)@|@zagt@
+@steam@|@tvaiks@
+@steamboat@|@tvaikonis@
+@steamer@|@tvaikonis@
+@steed (poet)@|@zirgs@
+@steel@|@tērauds@
+@stench@|@smirdoņa@
+@stenchy@|@smirdošs@
+@step@|@solis@
+@step by step@|@soli pa solim@
+@sticky@|@lipīgs@
+@stink (subst)@|@smirdoņa@
+@stink (verb)@|@smirdēt@
+@stocking@|@zeķe@
+@stomach@|@kuņģis@
+@stone@|@akmens@
+@stony@|@akmņains@
+@stork@|@stārķis@
+@storm@|@vētra@
+@stormy@|@vētrains@
+@story@|@stāsts@
+@stove@|@krāsns@
+@straight@|@taisns@
+@strange@|@svešs@
+@straw@|@salms@
+@strawberry@|@zemene@
+@stream@|@upe@
+@street@|@iela@
+@strength@|@spēks@
+@strike (work)@|@streiks@
+@strong@|@stiprs@
+@struggle@|@cīņa@
+@student@|@students@
+@stupid@|@muļķīgs@
+@stupidity@|@muļķība@
+@sturgeon@|@store@
+@substantive@|@lietvārds@
+@suck (verb)@|@zist@
+@suckle@|@zīdīt@
+@suckling@|@zīdainis@
+@suction@|@zīšana@
+@sudden@|@pēkšņs@
+@suddenly@|@pēkšņi@
+@suffering@|@ciešanas@
+@sufficient@|@pietiekams@
+@sugar@|@cukurs@
+@suicide (subst)@|@pašnāvība@
+@sulphur@|@sērs@
+@summer@|@vasara@
+@sun@|@saule@
+@sun-bath@|@saules vanna@
+@Sunday@|@Svētdiena@
+@sunless@|@bez saulez@
+@sunlight@|@saules gaisma@
+@sunny@|@saulains@
+@superstition@|@māņticība@
+@supper@|@vakariņas@
+@surgeon@|@ķirurgs@
+@surly@|@īgns@
+@surname@|@uzvārds@
+@swan@|@gulbis@
+@swarm (bees)@|@spiets@
+@sweat (subst)@|@sviedri@
+@sweet (adj)@|@salds@
+@sweeten@|@saldināt@
+@sweetish@|@saldens@
+@swimming-pool@|@peldbaseins@
+@swine@|@cūka@
+@swinish@|@cūcīgs@
+@sword@|@zobens@
+@table@|@galds@
+@talent@|@talants@
+@talented@|@talantīgs@
+@tangerine@|@mandarins@
+@tapeworm@|@lentenis@
+@tar@|@darva@
+@tariff@|@tarifs@
+@tasteful@|@gaumīgs@
+@tasty@|@garšigs@
+@Taurus (zodiac)@|@Vērsis@
+@tea@|@tēja@
+@teach@|@mācīt@
+@teacup@|@tējas tase@
+@tear (eyes)@|@asara@
+@temperate zone@|@mērenā josla@
+@temperature@|@temperatūra@
+@tempter@|@kārdinātājs@
+@tepid@|@remdens@
+@terrible@|@šausmīgs@
+@terror@|@šausmas@
+@that is all@|@tas ir viss@
+@theft@|@zādzība@
+@thief@|@zaglis@
+@thieve@|@zagt@
+@thievish@|@zaglīgs@
+@thin@|@tievs@
+@thine@|@tavs@
+@thing@|@lieta@
+@think@|@domāt@
+@thinker@|@domātājs@
+@thirdly@|@treškārt@
+@thirst@|@slāpes@
+@this is worth@|@to ir vērts@
+@this morning@|@šorīt@
+@thole@|@dullis@
+@thought (subst)@|@doma@
+@thraldom@|@verdzība@
+@thrall@|@vergs@
+@thread@|@diegs@
+@threat (subst)@|@draudi@
+@threaten@|@draudēt@
+@thresh (verb)@|@kult@
+@thresher@|@kūlējs@
+@threshold@|@slieksnis@
+@throat@|@rīkle@
+@throne@|@tronis@
+@throstle@|@strazds@
+@thumb@|@īkšķis@
+@thunder@|@pērkons@
+@Thursday@|@Ceturtdiena@
+@thy@|@tavs@
+@thy brother@|@tavs brālis@
+@tie (subst)@|@saite@
+@ties of friendship@|@draudzības saites@
+@tight@|@blīvs@
+@time@|@laiks@
+@to horse !@|@zirgos !@
+@toad@|@krupis@
+@toboggan@|@kamanas@
+@toddler@|@bērns@
+@token@|@zīme@
+@Tom Thumb@|@Īkšķitis@
+@tomb@|@kaps@
+@tongue@|@mēle@
+@tonsil@|@mandele@
+@tooth@|@zobs@
+@toothache@|@zobu sāpes@
+@tooth-brush@|@zobu suka@
+@toothless@|@bezzobains@
+@torrid zone@|@karstā josla@
+@tourist@|@tūrists@
+@towel@|@dvielis@
+@tower@|@tornis@
+@town@|@pilsēta@
+@toxic@|@indīgs@
+@train@|@vilciens@
+@treason@|@nodevība@
+@tree@|@koks@
+@trinity@|@trīsvienība@
+@trout@|@forele@
+@truth@|@patiesība@
+@Tuesday@|@otrdiena@
+@tulip@|@tulpe@
+@turkey@|@tītars@
+@twice@|@divreiz@
+@tyre@|@riepa@
+@udder@|@tesmenis@
+@ulcer@|@čūla@
+@uncle@|@tēvocis@
+@uterus@|@dzemde@
+@uvula@|@ūka@
+@valley@|@ieleja@
+@V-Day@|@Uzvaras diena@
+@venom@|@inde@
+@venomous@|@indīgs@
+@vertebra@|@skriemelis@
+@vetch@|@vīķi@
+@victim@|@upuris@
+@vinegar@|@etiķis@
+@viper@|@odze@
+@virgin@|@jaunava@
+@Virgo (zodiac)@|@Jaunava@
+@vivtory@|@uzvara@
+@voice@|@balss@
+@voice (grammar)@|@kārta@
+@voiced@|@balsīgs@
+@wall@|@siena@
+@wallow@|@vārtīšanās@
+@wand@|@zizlis@
+@Wandering Jew@|@mūžīgais žīds@
+@war@|@karš@
+@war crimes@|@kara noziegumi@
+@war of nerves@|@nervu karš@
+@war-cry@|@kaujas sauciens@
+@warm@|@silts@
+@war-path@|@kara celļš@
+@war-ship@|@karakuģis@
+@wart@|@kārpa@
+@warty@|@kārpains@
+@washable@|@mazgājams@
+@wasp@|@lapsene@
+@wasp nest@|@lapseņu pūznis@
+@waste of time@|@laika izšķiešana@
+@water@|@ūdens@
+@water from the well@|@ūdens no akas@
+@watery@|@ūdeņains@
+@wave@|@vilnis@
+@wax@|@vasks@
+@wax (verb)@|@augt@
+@waxing moon@|@augošs mēness@
+@way@|@ceļš@
+@we@|@mēs@
+@weak@|@vājš@
+@weapon@|@ierocis@
+@weasel (belette)@|@zebiekste@
+@weather@|@laiks@
+@weaver@|@audējs@
+@web@|@tīkls@
+@web of lies@|@melu tīkls@
+@wedding-ring@|@laulības gredzens@
+@wedge@|@ķīlis@
+@wedlock@|@laulība@
+@Wednesday@|@trešdiena@
+@week@|@nedēļa@
+@weeping willow@|@sēru vītols@
+@weft (subst)@|@audi@
+@weight@|@svars@
+@welkin@|@debesis@
+@well-bred@|@labi audzināts@
+@werewolf@|@vilkacis@
+@west@|@rietumi@
+@wether@|@auns@
+@wheat@|@kvieši@
+@wheatmeal@|@kviešu milti@
+@wheel@|@rats@
+@when@|@kad@
+@where@|@kur@
+@where are you ?@|@kur tu esi ?@
+@where is it ?@|@kur tas ir ?@
+@whey (petit-lait)@|@sūkalas@
+@white@|@balts@
+@White House@|@Baltais Nams@
+@White Sea@|@Baltā Jūra@
+@whole milk@|@pilnpiens@
+@whole number@|@vesels skaitlis@
+@whole world@|@visa pasaule@
+@whortleberry@|@mellene@
+@widow@|@atraitne@
+@widower@|@atraitnis@
+@wife@|@sieva@
+@willow@|@vītols@
+@wind (subst)@|@vējš@
+@windmill@|@vējdzirnavas@
+@window@|@logs@
+@wine@|@vīns@
+@wing@|@spārns@
+@winter@|@ziema@
+@wintry@|@ziemas@
+@wire@|@stieple@
+@wisdom@|@gudrība@
+@wisdom tooth@|@gudrības zobs@
+@wise@|@gudrs@
+@witch@|@burve, ragana@
+@witchcraft@|@burvestība@
+@witchery@|@burvība@
+@witches' broom@|@raganas slota@
+@witch-hunt@|@raganu medības@
+@with@|@ar@
+@without work@|@bez darba@
+@wizard@|@burvis@
+@wolf@|@vilks@
+@woman@|@sieviete@
+@womb@|@dzemde@
+@wood (matter)@|@koks@
+@wood (place)@|@mež@
+@woodbine (chèvrefeuille)@|@sausserdis@
+@woodcock@|@sloka@
+@wooded@|@mežains@
+@wooded country@|@mežains apvidus@
+@woodpecker@|@dzenis@
+@wool@|@vilna@
+@wooly@|@vilnains@
+@word@|@vārds@
+@wordless@|@bez vārdiem@
+@wordplay@|@vārdu spēle@
+@work (subst)@|@darbs@
+@work of art@|@mākslas darbs@
+@worker@|@strādnieks@
+@worker bee@|@darba bite@
+@world war@|@pasaules karš@
+@worldly@|@pasaulīgs@
+@wormy@|@tārpains@
+@worth (adj)@|@vērts@
+@worth (subst)@|@vērtība@
+@worthless@|@nevērtīgs@
+@worthy@|@cienīgs@
+@wrinkle (subst)@|@grumba@
+@write@|@rakstīt@
+@writer@|@rakstnieks@
+@wrought iron@|@kaļamā dzels@
+@yard@|@sēta@
+@yarn@|@dzija@
+@yarrow (achillée)@|@pelašķi@
+@year@|@gads@
+@yeast@|@raugs@
+@yellow (adj)@|@dzeltens@
+@yellow fever@|@dzeltenā kaite@
+@yellowish@|@dzeltenīgs@
+@yes@|@ja@
+@yesterday@|@vakar@
+@yew@|@īve@
+@yield@|@stiepe@
+@yoke@|@jūgs@
+@yolk@|@olas dzeltenums@
+@young@|@jauns@
+@youngish@|@pajauns@
+@youth hostel@|@jauniešu viesnīca@
+@zone@|@josla@
+

@@ -1,0 +1,651 @@
+@English@|@Mangarevan@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a@|@e@
+@a bad smell@|@hogohogo@
+@a band made of leaves@|@rau@
+@a basket for fish@|@inaki@
+@a beautiful sunrise@|@atalurakura@
+@a blab@|@ererokoikoi@
+@a boil in the skin@|@ohaoha@
+@a bunch@|@uui@
+@a bunch of grapes@|@kahui@
+@a bundle@|@apaga@
+@a calabash@|@hue@
+@a caterpillar@|@enuhe@
+@a cave@|@ana@
+@a circular reef@|@agoa@
+@a coffer@|@afata@
+@a comb@|@pahere, pahore@
+@a crow@|@au@
+@a crown@|@au, aupikitavale, aurumokoe@
+@a crumb@|@huga@
+@a deep place in the sea@|@vahihohonu@
+@a deformed knee@|@apeturi@
+@a fall of grain@|@oroarua@
+@a fan@|@peikahi@
+@a filament is sinnet@|@purukaha@
+@a flow of blood@|@heketoto@
+@a footprint@|@e ata o te vavae@
+@a friend@|@aka-oa, hoa, oa@
+@a garland of pandanus@|@aukatakata@
+@a gentle disturbance of air@|@agiagiga@
+@a gimlet@|@hou@
+@a great flowing of blood@|@ikere@
+@a great noise@|@aka-erurururu@
+@a great number of persons@|@tuahu@
+@a great plain@|@ariamogo@
+@a hollow@|@koana, pokopoko@
+@a joint@|@egaega@
+@a kind of fern@|@eiei@
+@a king@|@aka-riki@
+@a large wave@|@haumatapehau@
+@a light@|@ikuiku@
+@a mat@|@ariki@
+@a mirror@|@aka-kata@
+@a miss@|@ara@
+@a morsel@|@iho@
+@a novice@|@matahou@
+@a particle@|@ana@
+@a piece@|@iho@
+@a piece of wood for food@|@kouhata@
+@a place od assembly@|@tohua@
+@a plume@|@urumanu@
+@a promontory@|@mataihu@
+@a protector@|@aka-marumaru@
+@a relative particle@|@ai@
+@a road@|@ara, ara@
+@a rough place@|@arapupu@
+@a sign of vocative case@|@e@
+@a small hill@|@ivi@
+@a species of banana@|@hurita@
+@a squall@|@amiomio@
+@a stick for digging with@|@oka@
+@a stranger@|@iva@
+@a surge@|@peahu@
+@a troubled sea@|@taiehu@
+@a walk@|@erega@
+@a well-grown young man@|@puahuahu@
+@a white beard@|@pavahina@
+@a wife@|@veine@
+@a woman@|@ahine, toaahine@
+@a wooden stick for digging@|@oka@
+@abortive@|@ero@
+@above@|@ruga@
+@addition@|@kopitiraga@
+@always@|@ae@
+@an@|@e@
+@an arrow@|@oto@
+@an exclamation of surprise@|@haha@
+@an extinct tree@|@hiapo@
+@an image@|@ata@
+@an oar@|@ohe@
+@an obstacle@|@alai, arrai@
+@an offset of banana@|@huri@
+@an old torn garment@|@maevaeva@
+@an only son@|@atariki@
+@an orphan@|@hihi@
+@and it is roaring@|@a ua hetu e hana nei@
+@anew@|@aka-hou@
+@Ari the name of helthen god@|@Ari@
+@ashes@|@rehu@
+@at@|@i@
+@auger@|@ouou@
+@aunt@|@kuiiti@
+@authority@|@aotikanga@
+@away from the speaker@|@atu@
+@bad milk@|@arakava@
+@barking@|@u@
+@be faraway on the horizon@|@aroaroagi@
+@be put in the place of another@|@okorua@
+@beautiful@|@avaragi@
+@before@|@aro@
+@behind@|@ope@
+@belly@|@kona, koopuu, manava@
+@beloved@|@akaaroa@
+@beloved child of Motuone@|@tama aroa na Motuone@
+@below@|@raro@
+@big@|@nui@
+@bird@|@manu@
+@black@|@kere/kere, uri@
+@blond@|@keukeukura@
+@blood@|@toto@
+@blue sky@|@paepae-o-hina@
+@bone@|@ivi@
+@braking@|@tuakau@
+@branch@|@rara@
+@breadfruit sacred ti the king@|@e ha akariki@
+@brilliant@|@hana@
+@build a house upon it@|@hakahaka he hae ma eia@
+@by@|@e@
+@calm@|@aio@
+@clear@|@atea, taata@
+@cloud@|@ao@
+@cold@|@anu, makariri@
+@correct@|@tika@
+@crumbs@|@hu'ahu'a@
+@day@|@ao@
+@daylight@|@mahina-atea@
+@deep sea@|@hohonu@
+@defeat@|@hekega@
+@deformed foot@|@ape@
+@dependent islands@|@hui@
+@descendant@|@aitanga, ati@
+@descendants of Tane@|@ati-Tane@
+@dew@|@hau@
+@dirt on the clothes@|@aneane@
+@dirt on the skin@|@ane@
+@dirty@|@tuchuchu@
+@dust@|@ehu, èu, puèu@
+@ear@|@teriga@
+@earth@|@repo@
+@eat the food before finished@|@amuavera@
+@evening@|@ahiahi@
+@evening twilight@|@atahaihai, mahikohiko@
+@exchange@|@okooko@
+@eye@|@mata@
+@eyebrows@|@uruurumata@
+@face of a man with spots@|@purepure@
+@far@|@mamao@
+@fat@|@hinu@
+@father@|@tinana@
+@feathers@|@uru@
+@fire@|@ahi@
+@fish@|@ika@
+@fish bones@|@hoto@
+@five@|@rima@
+@flexible@|@enuenu@
+@flow without interruption@|@ourua@
+@flower@|@pua@
+@fog@|@ko'u, kuri@
+@food sacred to the dead@|@e ha tupapaku@
+@foolish@|@eva@
+@four@|@à@
+@friction@|@ororo@
+@froth@|@ukauka@
+@froth of living things@|@huka@
+@fruit@|@'ua@
+@gall@|@hau@
+@garland@|@au@
+@give it!@|@O-ake@
+@give me thy bowels!@|@ateoraro!@
+@god@|@etua@
+@good@|@meitetaki, reka@
+@grass@|@mutie@
+@grease@|@hinu@
+@great mortality@|@igamaorooro@
+@great waves@|@aka-hotohoto@
+@green@|@moto@
+@grey@|@hina@
+@grey hair@|@olohina@
+@gridle which men hide parts@|@ami@
+@hair@|@rouro@
+@hair on the body@|@huru@
+@hand@|@kapu, rima@
+@hardly@|@hira@
+@harvest@|@ua'a@
+@he@|@la@
+@he returned to get fire@|@hoki mai ei ahi@
+@head@|@upoko@
+@heat@|@hahana@
+@heavy@|@hivahiva, teimaha@
+@high-tide@|@huruhohonu@
+@high-water@|@autaiohonu@
+@His name was the god Tane@|@Tona igoa ko atua Tane@
+@horrible to see@|@aka-hoihoi@
+@house@|@àre@
+@how many?@|@ehia@
+@humid@|@aomaku@
+@husband@|@ahana@
+@I@|@au@
+@interlaced@|@pehihihi@
+@Istruck my thigh@|@kua papaki iora au i taku ua@
+@it has been cast to Hades@|@I titirihia i te Po@
+@it is you@|@a koe tena@
+@jaw@|@kauae@
+@labour@|@aga@
+@lake@|@rano@
+@lancing@|@ukiuki@
+@large@|@ataata@
+@last and poorest fruit@|@opekura@
+@leaf@|@rau@
+@left@|@`ema, hema@
+@leg@|@va, vae@
+@let us go@|@atutaha@
+@lightning@|@uira@
+@little hairs on the body@|@heu@
+@liver@|@ate@
+@louse@|@kutu@
+@low land@|@akau@
+@make into the form of a cone@|@akaikuavi@
+@man@|@tamaroa@
+@meat@|@kiko@
+@mine@|@iaku@
+@mist@|@ahu@
+@moon@|@iku, maahìna@
+@moonlight@|@mahina@
+@morning@|@rehurehu@
+@morsels@|@u'au'a@
+@mother@|@kui, tinana, tinana@
+@mouldiness@|@ika@
+@mouldy@|@eka@
+@mount!@|@piki ake@
+@mouth@|@àaàa@
+@much saliva@|@tohuka@
+@mucus on the nostrils@|@komohiu@
+@my fathre's food@|@Te kai a toku motua@
+@name@|@igoa@
+@narrow@|@ko, kokoma, koma, komakoma@
+@near@|@tata@
+@new@|@`ou, hou@
+@night@|@poo@
+@no@|@kakoe@
+@noon@|@avatea@
+@nose@|@i`u@
+@not abe to do a thing@|@okotahaga@
+@not dark@|@mahina@
+@of@|@a@
+@oil on the head@|@hinuhinu@
+@old@|@puevaeva, taito@
+@one@|@etaì, taì@
+@one hundred@|@rau@
+@one thousand@|@mano@
+@only@|@anake@
+@overcrowded@|@apuru@
+@painful@|@mamae@
+@papyrus@|@eute@
+@parcel of fruit in bundle@|@huhui@
+@passage@|@ava@
+@passage bare of trees@|@aria@
+@person@|@tagata@
+@pestilence@|@igamaororo@
+@piece of mother-of-pearl@|@kuku@
+@piece of wood along walls@|@hegaga@
+@pimples on the face@|@huahua@
+@plait of coco thread@|@kaha@
+@prefix to proper name@|@kohua@
+@prohibited@|@ha@
+@proof@|@akoga@
+@put back into the oven@|@aka-hana@
+@put to fishes at the basket@|@orua@
+@quickly grew angry@|@mahuika@
+@rags@|@auaitu@
+@rain@|@ua@
+@rat@|@kiore@
+@reason@|@haa@
+@red@|@kura@
+@red image of the sun@|@ataiai@
+@reign@|@ao@
+@return hither also@|@hoki, oki mai@
+@ro come from all sides@|@amio@
+@root@|@aka@
+@rope@|@toura@
+@rotten@|@para, popo@
+@rupture@|@emoraga@
+@salt@|@taioko@
+@sand@|@one@
+@sea@|@moana@
+@sea-foam@|@ukauka-toau@
+@seven@|@'itu@
+@shelving@|@aka-ivitua@
+@short@|@humuhumu, poto@
+@shoulder@|@pakuhivi@
+@shy@|@àkamaa@
+@sky@|@ragi@
+@slightly cold@|@anuanu@
+@small@|@poto, riki/riki@
+@small dust in the eyes@|@oraora@
+@smoke@|@au/ahi, kavauahi@
+@soon@|@akunei@
+@spider@|@puga/verevere, pugaverevere@
+@spittle@|@anuanu@
+@squared@|@aróha@
+@stone@|@poàtu@
+@stuffed up@|@apuru@
+@sudden deaf@|@patuetua@
+@suffocating heat@|@ana@
+@swift of pace@|@vavaeohoro@
+@swooning@|@ikoga@
+@tail@|@iku, vero@
+@taste@|@o'i'a@
+@tender@|@aka-hia@
+@that which begis to apear@|@poihiko@
+@that which moves@|@maraga@
+@thatch@|@ato@
+@the back of the head@|@opeoho@
+@the backbone@|@ivitua@
+@the barringtonia@|@puputu@
+@the blade of a paddle@|@raparapahoe@
+@the canoe is very far away@|@kua ataata tehito te vaka@
+@the canoe was filled with fish@|@pi te vaka i te ika@
+@the crown of the head@|@huruputu@
+@the end@|@aka-ope@
+@the gable end of the house@|@apa@
+@the gable of a house@|@apaapa@
+@the genitals@|@ua@
+@the husk of the coconut@|@puru@
+@the kuhane mourns and laments@|@e tagi kuhane e heke ana@
+@the lower jaw@|@kouaa@
+@the name of a fish@|@aku, apuku, apuku, ihe@
+@the name of a god@|@Ari@
+@the name of a tree@|@hutu@
+@the nose@|@ihu@
+@the oldest daughter@|@tamahine@
+@the outrigger a canoe@|@ama@
+@the persons sent@|@u'au'a@
+@the pitching of a vessel@|@amaamai@
+@the priest of a deity@|@tauraetua@
+@the race of Takarau@|@Ati-Takarau@
+@the rainbow@|@anuanua@
+@the sea sweeps away the fish@|@na te tai i tahuti ki te ika@
+@the slips of pandanus@|@onoono@
+@the soul@|@kuhane@
+@the south-west@|@uru@
+@the stem of banana@|@puèpuè@
+@the tail of a fish@|@iku@
+@the thigh@|@ua@
+@the tongue@|@erero@
+@the turtle@|@honu@
+@the west wind@|@tiu@
+@the West wind@|@urupatiu@
+@the wind has lulled@|@kua aio te matagi@
+@the world@|@ao@
+@there@|@ena@
+@they fished@|@hi ratou@
+@they shall salute you@|@e aroa mai oki ratou i a koe@
+@thick@|@matoru@
+@thin@|@aparangi@
+@think about an unfisished task@|@opoopo@
+@this@|@aena, ena, tenei@
+@thou@|@koe@
+@thread@|@aho@
+@three@|@toru@
+@thunder@|@atutiri@
+@to@|@i@
+@to add to@|@kopiti@
+@to adjust@|@hono@
+@to adorn a fish-back spear@|@aka-moehoto@
+@to answer@|@okotakao@
+@to ascend an elevation@|@aka-eke@
+@to awake@|@ara@
+@to bark@|@u@
+@to be afraid@|@ete@
+@to be allied@|@kapiti@
+@to be awkward@|@varevare@
+@to be cold@|@auanu@
+@to be crowded together@|@aka-api@
+@to be deep@|@agoago@
+@to be densely packed@|@apiapi@
+@to be forced from@|@emo@
+@to be irregular@|@tuhara@
+@to be mad@|@heva@
+@to be much sought marriage@|@aunui@
+@to be slightly damp@|@auaumaku@
+@to be sober in eating@|@aka-hauhau@
+@to be wicked@|@etua@
+@to bear tidings@|@apaiga@
+@to beat with the wings@|@pehauhau@
+@to bend the neck@|@aka-apa, aka-hapa@
+@to bite@|@eti@
+@to blow@|@puì@
+@to blow gently@|@agiagi@
+@to boil up@|@ikerekere@
+@to break@|@puehu, uu@
+@to break up small@|@aka-huga@
+@to break wind@|@hututae@
+@to breathe with difficulty@|@aka-eaea@
+@to bring forth@|@hua@
+@to brust@|@hu@
+@to build@|@ahuahu, auahu, awahu@
+@to burn@|@ta`u, tutu@
+@to buy@|@'oko@
+@to carry@|@apai@
+@to carry oneself humbly@|@apai ki raro@
+@to cause smoke@|@auahi@
+@to cause to descend@|@faka-iho@
+@to cause to go@|@aka-ere@
+@to cause to stumble@|@aka-aheahe, hee, hehe@
+@to chase@|@heihei@
+@to collect@|@hue@
+@to come again and again@|@amukiore@
+@to come to a new country@|@pohou@
+@to cover@|@huihui@
+@to cover over@|@poki@
+@to crowd on@|@akiaki@
+@to cry@|@tagi@
+@to cut@|@tarai@
+@to cut off@|@pahore@
+@to dandle@|@aka-hiki@
+@to dart a stone@|@kohura@
+@to decapitate@|@aka-more@
+@to demand food repeatedly@|@hahana@
+@to demolish@|@aka-heke@
+@to denote action upwards@|@ake@
+@to deprive@|@iko@
+@to descend a tree@|@ihoiho@
+@to detach@|@aka-emo@
+@to detest@|@aka-ivaiva@
+@to die@|@mate@
+@to dig@|@keri, poko@
+@to disappear@|@mahiko@
+@to disperse@|@tahuti@
+@to draw back@|@okikotua@
+@to dream@|@moemoeaa@
+@to drink@|@inu, unu@
+@to drive away@|@hoi@
+@to eat@|@kai@
+@to eat handfuls@|@aka-inu@
+@to eat with the mouth@|@amu@
+@to elevate@|@apai ki ruga@
+@to embark@|@eke@
+@to encase@|@hahao@
+@to excavate@|@ore@
+@to exhort earnestly@|@torita@
+@to fall@|@àka, àkatoo, i'a, marere, topa@
+@to fall down@|@heke, heke, horo, oka, oka@
+@to fear@|@mataku@
+@to feel cold@|@auanu@
+@to fish@|@kihi@
+@to fish for turtle@|@hirihiri@
+@to fish with a line@|@hi@
+@to float on the surface@|@raga@
+@to flow@|@ta'e@
+@to fly@|@rere@
+@to fly rapidly@|@taoro@
+@to fold up@|@mene@
+@to force upwards with a pole@|@ukiake@
+@to frighten fish@|@ho@
+@to gape@|@amama@
+@to gather togheter@|@aka-hue@
+@to gather with the hands@|@ui@
+@to give@|@ho@
+@to glide@|@aka-oro@
+@to got into a crowd@|@eteriki@
+@to grow@|@ahuahuake, tupu@
+@to grow vigorously@|@puahu@
+@to gush out@|@pehihi@
+@to gush out as water@|@akapehihi, pehihi@
+@to hang@|@evaeva@
+@to hang up@|@ahaokaoka, ere@
+@to hear@|@rogo@
+@to hide@|@pu, puni, pupuni, una@
+@to hide habitually@|@unauna@
+@to hit@|@pa(pa)ki, patu, tuki@
+@to hold a child@|@hiki@
+@to insist@|@aru@
+@to inspect@|@opo@
+@to journey@|@unuunukole@
+@to kindle fire after attempts@|@tutututuahi@
+@to kiss@|@aka-o'i, o'i@
+@to kiss often@|@o'io'i@
+@to laugh@|@kata@
+@to lick@|@aka-hoho@
+@to lift@|@amaiga@
+@to lift the head in eating@|@amuamu@
+@to listen attentively@|@aka-hahaka@
+@to look at attentively@|@nana@
+@to lose@|@avaava@
+@to love@|@aroa@
+@to make a circle@|@apita@
+@to make a tatch of pandanus@|@huti@
+@to make folds@|@aka-iviivi@
+@to make friends@|@aka-hoa@
+@to make like@|@akoako@
+@to make soft@|@aka-ekeeke@
+@to make to bend a little@|@aka-hao@
+@to mock the lame@|@aka-apeape@
+@to obstruct one's road@|@alalai@
+@to open@|@huhure@
+@to open a door@|@aka-amamama@
+@to pass anything to other@|@aka-emoemo@
+@to pass in the hands@|@apa@
+@to peel@|@mahore@
+@to peel with a knife@|@kahore@
+@to pierce@|@huki@
+@to pitch and toss@|@amaamai@
+@to poke among the corals@|@okaoka@
+@to polish@|@hoho@
+@to pound@|@tuki@
+@to pour water on the hands@|@aka-horohoroirima@
+@to press strongly@|@nunumi@
+@to procure@|@aka-inaki@
+@to produce fire@|@hika@
+@to prove@|@ako@
+@to pull up@|@huhuti@
+@to pull up by the roots@|@uhuti@
+@to pull up herbs@|@hutihuti@
+@to put back into the oven@|@aka-hana@
+@to raise the jaw of others@|@akahipa@
+@to raise up@|@apaina@
+@to recite@|@aka-huehue, hakaema@
+@to reduce to a pulp@|@aka-hekeheke@
+@to reject@|@eru@
+@to reject with hands@|@heru@
+@to rend@|@hae@
+@to reproach@|@kitèmi@
+@to respire@|@aka-ea, ea@
+@to respire on above water@|@eha@
+@to respire with difficulty@|@aeaea@
+@to return@|@aka-oki, oki@
+@to rock@|@rori@
+@to rough-hew@|@heuheu, hohore@
+@to row@|@hoe@
+@to rub@|@ororo@
+@to rub the eyes@|@oroi@
+@to run after@|@aruaru@
+@to scratch@|@raku/raku@
+@to seal up@|@nunumi@
+@to select@|@aka-hiahia@
+@to send@|@uga@
+@to sew@|@tui@
+@to shake@|@ruru@
+@to sit@|@no`o@
+@to sit down@|@nohoio@
+@to size earnestly@|@au@
+@to skim@|@ukakea@
+@to sleep@|@moe@
+@to slip@|@oro-kuku@
+@to smoke@|@auahi@
+@to sniff@|@'ogi@
+@to snuffle through the nose@|@gogoiu@
+@to soften@|@aka-emiemi@
+@to soften by boiling@|@ekeeke@
+@to speak dictatorially@|@puruàmu@
+@to speak rapidly@|@oroatoki@
+@to spin a thread@|@hoko-whenu@
+@to spit@|@anuanu@
+@to split@|@aae@
+@to spoil@|@i@
+@to spread garments@|@hohora@
+@to spread out@|@mahora@
+@to sprout@|@aki@
+@to squeeze@|@romi, romiromi@
+@to stab@|@`uki@
+@to stammer@|@guruguru@
+@to stand@|@tuu@
+@to steal@|@kamo, tarahui@
+@to stir the fire@|@uki@
+@to stir up the ground@|@hou@
+@to stray@|@ehe@
+@to strike against@|@auriri@
+@to subdue@|@ereere@
+@to suck@|@miti, omo@
+@to suspend to a string@|@aka-eva@
+@to swallow@|@hoona@
+@to swim@|@kau@
+@to swim in the water@|@akaoro@
+@to swing a cord over and over@|@ogaoga@
+@to take off a bark@|@aka-ha@
+@to take off the surface@|@orokuku@
+@to tear@|@etieti@
+@to tear away bit by bit@|@utiuti@
+@to tear cloth@|@haehae@
+@to think about@|@aka-aoao@
+@to think of@|@ai@
+@to think with pleasure@|@puharahara@
+@to throw@|@tiri@
+@to tie@|@aka-oko@
+@to tie up@|@nati, rii@
+@to totter@|@turori@
+@to transplant@|@ahu@
+@to tremble with fear@|@emiemi@
+@to trouble@|@akaeu@
+@to turn@|@ariu@
+@to turn back to any one@|@agaagatua@
+@to turn on one's steps@|@hoki@
+@to upset@|@aka-hi'a@
+@to vaccillate@|@garorirori@
+@to vibrate@|@heheruru@
+@to vomit@|@a/rua/ì@
+@to walk@|@ere@
+@to walk hardily@|@hevaheva@
+@to wander@|@hee@
+@to wash@|@oro@
+@to wash the face quickly@|@amo@
+@to wash the feet@|@horohoroi@
+@to wash with water@|@ruerue@
+@to wedge open@|@ora@
+@to wipe@|@horoi, kukui@
+@to work@|@haga, hakahaka@
+@to yawn@|@amama@
+@today@|@aranei@
+@tomorrow@|@apopo@
+@tongue@|@erero@
+@tonight@|@aponei@
+@tooth@|@ni`o@
+@trouble@|@aka-haehae@
+@two@|@rua@
+@uncover@|@huhure@
+@vanquished@|@igahu@
+@vengeance@|@huke, okookooga@
+@very much agitated with winds@|@huka-huka@
+@very rough path@|@aragugu@
+@very thin and meagre@|@gogogogo@
+@warm@|@maàna, mahana, mahana, mohana@
+@water@|@vai@
+@water disturbed@|@ehuehu@
+@well cooked@|@tahua@
+@wet@|@maku, rari@
+@What is it?@|@eaha@
+@what is your device?@|@eaha to koe taiga?@
+@what?@|@aà@
+@when the assembly take place?@|@ahea ka matatea aì?@
+@when will you come?@|@aea mai koe?@
+@when?@|@ahea@
+@where?@|@'ea@
+@white@|@putea, tea@
+@who@|@vai@
+@who?@|@ai@
+@wife@|@ahana@
+@wind@|@anin, hau, matagi@
+@wing@|@pehau@
+@woman@|@-ìne, ahine, aine, àìne@
+@wood@|@rakau@
+@woods@|@ulu, vao@
+@work@|@aga, agaaga, haga, hana@
+@worm@|@iri, iritoke@
+@year@|@tau@
+@yes@|@e, he@
+@you@|@koe, korua, kotou@
+@zephyr@|@agi@
+

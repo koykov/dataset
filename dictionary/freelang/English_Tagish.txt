@@ -1,0 +1,605 @@
+@English@|@Tagish@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@all of you listen to me!@|@shedìnahsts'à!@
+@all of you tell me@|@shedahndï@
+@animal@|@xìh@
+@are you eating fish?@|@luge nitsedza?@
+@are you fine?@|@sho' ahlia?@
+@are you fine? (pl)@|@sho ahlia?@
+@are you hot?@|@tanizhìlã?@
+@are you hungry?@|@dimbeda?@
+@are you thirsty?@|@tu yenilia?@
+@at home@|@kù' eyû@
+@baby@|@dunin'@
+@baby rabbit@|@gah, gahã@
+@be quiet!@|@tsìn!, tsìne!@
+@bear cub@|@shash, shashã@
+@beaver@|@chà'@
+@black bear@|@shash@
+@blackfly@|@konàÿizhe@
+@blanket@|@ts'èdè@
+@blowfly@|@ch'oh@
+@bluff@|@tl'è@
+@bring me a rock@|@tsë eshÿàni'à@
+@bring me coins@|@dãnà zhãzhe eshÿànilè@
+@bring me money@|@dãnà eshÿàni'à, dãnà eshÿànilè@
+@bring me the gun@|@k'onk'à' dè', k'onk'à' eshÿàntì@
+@bring me the tea@|@dì eshÿànikà@
+@brother@|@mendey@
+@butterfly@|@dãlèlã@
+@caribou@|@wejih@
+@coins@|@dãnà zhãzhe@
+@come here!@|@ndà!@
+@creek@|@tuã@
+@did you both hear it?@|@dàhts'egã?@
+@did you forget?@|@ninãkòts'edã?@
+@did you hear it?@|@dìts'egã?@
+@do you speak native language?@|@dene k'èh konindeã?@
+@do you understand me?@|@shedìnits'egã?@
+@do you understand Tagish?@|@Tàgish denits'à'ã?@
+@do you want tea?@|@di yenilia?@
+@do you want water?@|@tu yenilia?@
+@dog@|@medli@
+@dog's sitting behind the house@|@tli' dekù' nãt'ey sedã@
+@dog's sitting beside the house@|@tli' dekù t'ã sedã@
+@dog's sitting in its house@|@tli' dekù' t'àt sedã@
+@dog's sitting on the house@|@tli' dekù' kãge sedã@
+@don't touch it@|@loge!@
+@drink it!@|@nidã!@
+@drying fish@|@luge ch'ehgan@
+@duck@|@tude@
+@eat!@|@enitsets!@
+@Eniht'iya is bringing water@|@Enih'tiya dema ghah tu taseka@
+@enough@|@tl'akhù et'ë@
+@father@|@meta@
+@fish@|@luge@
+@fishs lying in the big pan@|@luge ch'a' cho keh sela@
+@five@|@kìjin det'ë@
+@food@|@mbet@
+@four@|@dák'òn et'ë@
+@fox@|@nuhtsehe@
+@gigve it to me@|@de@
+@girl@|@eÿàdènã@
+@girl's walking at the road@|@eÿàdèna tene gàh endäl@
+@give me a blanket@|@ts'èdè dè@
+@give me a rock@|@tsë dè'@
+@give me money@|@dãnà dè@
+@give me the gun@|@k'onk'à' dè'@
+@give me the tea@|@dì dè@
+@go ahead; do it!@|@edü weyèh eshndìh@
+@go away!@|@dey'!@
+@go to sleep!@|@chanitï!@
+@go to your house!@|@nikù ts'èn indãl!@
+@go to your mother!@|@nimã ts'èn' indãl!@
+@go to your place!@|@etànindãl!@
+@good@|@shò'@
+@gopher@|@tsilih@
+@grass@|@tl'öge@
+@grayling@|@t'ase@
+@grizzly@|@shash cho@
+@grouse@|@dih@
+@gun@|@k'onk'à'@
+@hand me the firewood@|@tsets selã@
+@hand me the gun@|@k'onk'a' de, k'onk'a eshyaniti@
+@hand me the knife@|@mbesh de@
+@he caught a lot of fish@|@luge utla taslu@
+@he found the matches@|@kun' i'a@
+@he gave me the blanket@|@ts'èdè eshÿàdèshchüsh@
+@he is crying@|@etsey@
+@he is drinking water@|@tü edã@
+@he is eating the tasty bannock@|@suknen t'es lekan etsets@
+@he is fishing@|@luge kah edehch'ash@
+@he is fishing for grayling@|@tase kah edehch'ash@
+@he is frying bannock@|@suknen eht'es@
+@he is going hunting@|@ledandal, ledandal@
+@he is going to light the fire@|@kun' didehk'a@
+@he is hungry@|@dembet@
+@he is looking for his matches@|@dekune kaneta@
+@he is making a fire@|@kòn' dèhk'à@
+@he is making a fireplace@|@kun k'endi kuhtsi@
+@he is playing@|@nakozheh@
+@he is really hungry@|@kuts'ehcho dembet@
+@he is singing@|@ejin@
+@he is singing in native lang.@|@dene k'èh ejin@
+@he is sleepling soundly@|@sosen chaneti@
+@he is the packsack@|@nà ahndòsh@
+@he is wagging his tail@|@deche' dehtlit@
+@he is walking up the creek@|@tahgaya gah tendal@
+@he is wearing his warm coat@|@me'1eje' sezel t'aseda@
+@he likes it here@|@deja kiyeneli@
+@he name is Margaret@|@Margaret uzhe@
+@he put the branches down@|@dets'i ninila@
+@he wants bannock@|@soknen t'e' yeneli@
+@he wants dry salmon@|@sambey gan yeneli@
+@he wants salt@|@etl' yeneli@
+@head@|@eshtsì@
+@he'll camp here@|@deja dinatel@
+@her grandmother's cutting fish@|@mechua luge et'as@
+@her mother's cutting out fish@|@mema luge ch'i' kat'as@
+@her name is ayedindaya@|@ayedindaya uzhe@
+@her name is It'aya@|@It'aya uzhe et'e@
+@her old sister is dancing@|@membäde elih@
+@her young sister's makes fire@|@medeje kon' dehk'a@
+@here@|@nà'@
+@here are the snowshoes@|@nà ãh@
+@here is the gun@|@nà; k'onk'à@
+@here is the knife@|@nà; mbësh@
+@here is the tent@|@ná tl'ihit@
+@here is the trap@|@nà xìl@
+@here take it@|@nà'@
+@here; take it@|@na!, na; nidi'a@
+@he's collecting branches@|@dests'i chinele@
+@he's frying it over the fire@|@kun' ndu yeht'es@
+@he's goes camping by the creek@|@tahgaya kusk'is dinatel@
+@he's going to make a fire@|@kuhzel kudahtsil@
+@he's happy now that he's full@|@eneda mindi shokusen@
+@he's putting rocks in a circle@|@tse shadela@
+@he's walkin' round the mount@|@dzel kãge k'ànàdah@
+@hill@|@tl'ohchen@
+@his dog sleeps next to stove@|@meli kuk'as chaneti@
+@his dog's name is natset@|@medli natset uzhe@
+@his father checks the fishnet@|@meta temil kanele@
+@his father is esting bannock@|@meta sugnen t'ez etsets@
+@his mouth is watering@|@madaze kanatel@
+@his name is rabit foot@|@gahke' uzhe et'e@
+@his older brother brings wood@|@mendeya chets elus@
+@house@|@nikù'@
+@how about you?@|@nini k'e'?@
+@how are all of you?@|@laht'e deh daht'e?@
+@how are you?@|@danit'e?, dànit'ë?, danit'ea?@
+@how are you? (pl)@|@daht'e?, Daht'ea?@
+@how is it outside?@|@dakot'e tujane?@
+@how many puppies do you see?@|@tliã dànèt'ë nih'ï?@
+@how many sheep do you see?@|@mbey dànèt'ë nih'ï?@
+@how many stars do you see?@|@sòn dànèt'ë nih'ï?@
+@how many?@|@dànèt'ë?@
+@hurry you up!@|@ek'adle naht'ï!@
+@hurry!@|@ek'adle nit'ï!@
+@i am dancing@|@enilih@
+@i am drinking juice@|@jije tu esda@
+@i am drinking water@|@tu eshda@
+@i am eating@|@estsets@
+@i am eating fish@|@luge estsets@
+@i am eating food@|@mbet estsets@
+@i am eating moose meat@|@xandey tsen' estsets@
+@I am fine@|@sho' eshli@
+@i am fishing@|@edeshch'ash@
+@i am fishing for salmon@|@sambey kha edeshch'ash@
+@i am going hunting@|@ladihshal@
+@I am going hunting for moose@|@xandey kah laduhsha shih@
+@i am going to school@|@sgün kots'èn' ïshãl@
+@i am going to the lake@|@men ts'èn' ïshãl@
+@i am going to the shop@|@ets'ekèt kù' ts'èn' ïshäl@
+@i am going to the store@|@hùndàkïdï kots'èn' ïshäl@
+@i am happy@|@eshyïndï' shòkòsen@
+@i am hot@|@tanìhzhìl@
+@i am hungry@|@deshmbet@
+@i am not hungry@|@edu deshmbet@
+@i am not thirsty@|@edu tu yeneshli@
+@i am picking berries@|@jije neshmbe@
+@i am running@|@eshtl'ël@
+@i am running to the lake@|@men ts'èn eshtl'ël@
+@i am sick@|@dinèshdã@
+@i am sitting@|@sheshedä, sisdä@
+@i am sleeping@|@chaneshtï@
+@i am sleepy@|@mbel shidèhxï@
+@i am standing@|@nàhzet@
+@i am thirsty@|@tu yeneshli@
+@i am tired@|@endo' ekòjà, gãl kësts'et@
+@i am walking@|@eshäl@
+@i bought fish hooks@|@luge cha'ash esket@
+@i do not want tea@|@edu di yeneshli@
+@i don't speak native language@|@edü dene k'èh koshë@
+@i don't understand native lang@|@edü dene denists'à'@
+@i don't understand you@|@edü nidìsts'ek@
+@i have a belt@|@së esht'i@
+@i have a hat@|@ts'at esht'i@
+@i have a jacket@|@kìnà'et esht'ï@
+@i have a shirt@|@ech esht'i@
+@i have mitts@|@mbàt esht'i@
+@i have moccasins@|@kë esht'i@
+@i have pants@|@ses esht'i@
+@i hear@|@dìsts'ek@
+@i know@|@weyèh shndìh@
+@i live at Marsh Lake@|@Tòdezhane nèshndë@
+@i live in Carcross@|@Carcross nèshndë@
+@i live in Nàtàshàhïn@|@Nàtàshàhïn nèshndë@
+@i live in Tagish@|@tàgish nèshndë@
+@i live in the bush@|@dechin tah nèshndë@
+@i live over across@|@ändàt zhüh nèshndë@
+@i live up that way@|@ahndey néshndë@
+@i see a baby rabbit@|@gah zhazhe nesh'i@
+@i see a big wolf@|@egey cho nesh'i@
+@i see a black bear@|@shash nesh'i@
+@i see a bull moose@|@dendige nesh'i@
+@i see a butterfly@|@dãlèlã nesh'ï@
+@i see a buul moose standing@|@dendige nazet nesh'i@
+@i see a caribou@|@mejih nesh'i@
+@i see a cow moose@|@dezhazhe nesh'i@
+@i see a dog@|@tli' nesh'i@
+@i see a gopher@|@tsilih nesh'i@
+@i see a grizzly@|@shash cho nesh'i@
+@i see a little wolf@|@egeya nesh'i@
+@i see a lot of blowflies@|@ch'oh ùtlã nish'ï@
+@i see a moose@|@xandey nesh'i@
+@i see a mouse@|@dlua nesh'i@
+@i see a porcupine@|@dech'oge nesh'i@
+@i see a rabbit@|@gah nesh'ii@
+@i see a sheep@|@mbay nesh'i@
+@i see a squirrel@|@dleje nesh'i@
+@i see a wolf@|@egey nesh'i@
+@i see her fishing@|@edehch'ash nish'i@
+@i see lots of wolves@|@egey utla nesh'i@
+@I see one star@|@sòn' lìgi nesh'ï@
+@i see three puppies@|@tliã tãdet'ë nesh'ï@
+@i see three sheeps@|@mbey tädet'ë nesh'ï@
+@i see three stars@|@sòn' tädet'ë nesh'ï@
+@i see two stars@|@sòn lakidet'ë nesh'ï@
+@i speak native language@|@dene k'èh koshë@
+@i understand native language@|@dene denists'à'@
+@i understand Tagish@|@Tàgish kot'ïnè edenists'à'@
+@i understand you@|@nidìsts'ek@
+@i want dry fish@|@luge gane yeneshli@
+@i want duck soup@|@tude tazele yeneshli@
+@i want food@|@mbet ch'en' deshmbet@
+@i want hot soup@|@tazel sezel yeneshli@
+@i want meat@|@etsen' ch'en' deshmbet, etsen yaneshli@
+@i want milk@|@masustl'ayi yeneshli@
+@i want soup@|@tazel yeneshli@
+@i want water@|@tu yeneshli@
+@iam walking around@|@k'aneshdah@
+@i'll help you@|@nich'èn' nüshndì' shìh@
+@i'll see you all tomorrow@|@kèt'àk'e' yàxonosht'ï' shìh@
+@i'll see you tomorrow@|@kèt'àk'e' nanosht'ï' shìh@
+@i'm giving it to you@|@nidi'àh, niÿànish'à@
+@i'm going to margaret's house@|@Margaret kù' kots'èn' ïshäl@
+@I'm picking berries@|@jìje neshmbë@
+@is it cloudy?@|@k'os kolia?@
+@is it getting windy?@|@ihch'ia nehch'ia?@
+@is it raining?@|@cha nihchaa?@
+@is it snowing?@|@zhazh nishaja?@
+@is it sunny?@|@sha kadi'aa?@
+@is it warm for you?@|@niÿãh kòzilã?@
+@it is a nice day@|@jenes nakosenh@
+@it is black@|@denèst'ëje@
+@it is blue@|@detl'ïshe@
+@it is cloudy@|@k'os koli, k'os koli@
+@it is cold@|@kosk'ats, sek'àts@
+@it is cold outside@|@kosk'ats@
+@it is daylight outside@|@kòkodèst'ï@
+@it is fall time@|@nuchu kudehle@
+@it is fur expensive@|@mezès nàdidèhchech@
+@it is getting cold@|@nakudehk'ats@
+@it is getting sdark@|@nadexetl@
+@it is getting windy@|@ihch'i nehch'i@
+@it is good@|@shò' et'eã@
+@it is hot@|@kohzel, sezel@
+@it is muddy@|@lèsh t'òt kòlï@
+@it is muddy?@|@lèsh t'òt kòliã?@
+@it is nice@|@sokosenh@
+@it is night now@|@ihtl'egi ekut'e@
+@it is not muddy@|@edü lèsh t'òt kolï@
+@it is not snowing@|@edu nishach@
+@it is not sunny@|@edu sha koli@
+@it is not windy@|@edu nehch'i@
+@it is raining@|@cha nihcha@
+@it is really cloudy@|@k'os kùlï@
+@it is really good@|@shò' elï@
+@it is red@|@det'ele@
+@it is snowing@|@zhash nishach@
+@it is starting raining@|@cha dehcha@
+@it is still raining@|@shìk'ä' nihchã@
+@it is warm for me@|@eshÿãh kòhzil@
+@it is warm outside@|@tùzhãne kòhzil@
+@it is white@|@dek'ale@
+@it's dark and there are stars@|@kudinest'eje son' utla@
+@it's getting light outside now@|@edèhkã@
+@it's getting to be late spring@|@imbe' kòlè@
+@it's really nice outside@|@tùjãne sòkòsen@
+@jackpine@|@gäse@
+@knee@|@eshgòt@
+@knife@|@mbesh@
+@lake@|@men@
+@leaf@|@et'ãne@
+@little girl is looking mother@|@eghadena dema k'anehta@
+@look at this!@|@dadidi nah'ï!, dadidi nih'ï!@
+@look outside@|@tùjãne konah'ï!, tùjãne konih'ï!@
+@lynx@|@nàdã@
+@make fire@|@kòn dìhk'à@
+@make some shavings@|@tsets ÿàjè nihchï@
+@mallard@|@tùde@
+@marten@|@nust'ìã@
+@me too; I'm fine@|@sha'achuh; sho eshli@
+@mitts@|@mbàt@
+@money@|@dãnà@
+@moose@|@xandëy@
+@moose calf@|@dechige, xandëy@
+@morning has broken@|@k'àmbà k'enìch'il@
+@mosquito@|@ch'ih@
+@mother@|@mema@
+@mother baked some bannock@|@mama sugnen eht'ez@
+@mountain@|@dzel@
+@mouse@|@dlua@
+@move over@|@èn didã!, èn dizet@
+@muddy@|@lèsh@
+@mushroom@|@dlèzh ndi'è'@
+@muskrat@|@dzenã@
+@my head hurts@|@eshtì' dinèdã@
+@my mother is dancing@|@eshma elih@
+@my mother is running@|@eshma etl'ël@
+@my mother is sewing@|@eshma nà'ènelus@
+@my mother is sitting@|@eshma sedã@
+@my mother is sleeping@|@eshma chanetï@
+@my mother is walking@|@eshma endäl@
+@my mother is walking to us@|@eshma dahch'èn endäl@
+@my name is Lucy@|@Lucy unihzhe@
+@my name is wolf mother@|@ghuch tla unihzhe@
+@my younger brother is running@|@eshchidle et'ël@
+@name@|@uzhe@
+@nine@|@gùshukh det'ë@
+@no@|@hadù@
+@no more@|@tl'ahkù@
+@no; it is not raining@|@hadu'; edu cha nihcha@
+@one@|@lìgi@
+@owl@|@mèsdzih@
+@people@|@dene@
+@pond@|@menã@
+@poplar@|@t'ïs@
+@porcupine@|@dech'oge@
+@pussy willows@|@k'àdlia@
+@rabit foot is going camping@|@gahke' dinatel@
+@rabit foot is happy@|@gahke sho nizen@
+@rabit foot sleeps by the fire@|@gahke' kun' mbey' chaneti@
+@rabit foot's tongue is hanging@|@mezat k'enambel Gahke@
+@raven@|@tsesk'ihe@
+@river@|@tahgàh@
+@rock@|@tsë@
+@salmon@|@sambey@
+@seven@|@dàxhàdùshu det'ë@
+@she has a lot of nice boots@|@guyat susen utla et'i@
+@she is dancing@|@elih@
+@she is fine@|@sho' eli@
+@she is fishing@|@edeshch'ash@
+@she is gaffing for fish@|@luge kah edehk'a@
+@she is making dry fish@|@luge gana ehtsi@
+@she is picking berries@|@jije nembe@
+@she is sewing moccasins@|@ke nanelus et'e@
+@she is walking along@|@endal@
+@sheep@|@mbay, mbey@
+@she's bringing fish to granny@|@dechua ts'en luge elel@
+@she's sleeping in her stroller@|@deghal kha chaneti@
+@she's walking round the creek@|@tuã gàh k'ànàdah@
+@she's walking round the lake@|@men mbèy k'ànàdah@
+@she's walking round the river@|@tahgàh k'ànàdah@
+@shusena has become very tired@|@shusena mendo ukoja@
+@sit down!@|@dàhts'ï!, sahkë!, sidã!@
+@six@|@tlèdùshu det'ë@
+@so he is in hurry@|@ek'adle et'i@
+@soup@|@tazel@
+@spider@|@kuschie@
+@spurce@|@ch'ü@
+@squirrel@|@dleje@
+@stand up!@|@nàdàhzhã!, nànìzet!@
+@star@|@són'@
+@Tagish@|@it (spring ice) is breaking up@
+@take care yourself@|@sògòsene edenaht'ï, sògòsene edenit'ï@
+@tea@|@dì@
+@ten@|@jìnkàt det'ë@
+@thank you@|@gùnèlchïsh@
+@that's all@|@tl'ahko et'e, tl'ahku@
+@the bannock smells delicious@|@suknen lekan kadets'ih@
+@the bird is flying around@|@chuã k'ànet'ah@
+@the boy wants water@|@dek'ana tu yeneli@
+@the butterfly is flying around@|@dãlèlã k'ànèt'ah@
+@the child is playing@|@dunina nakozheh@
+@the child is walking around@|@dunin' k'anadash@
+@the fire went out@|@kòn' dïnèstsets@
+@the fish is heavy@|@luge ch'ehkil@
+@the fish is lying on the shore@|@luge tambay sela@
+@the girl is eating fish@|@eyadena luge etsets@
+@the girl is picking berries@|@eyadena jije nembe@
+@the girl is playing@|@eyadena nakozheh@
+@the girl is tanning a skin@|@eÿàdènã ezès ezö@
+@the girl is walking around@|@eÿàdèna k'ànàdah@
+@the grass is growing up@|@tl'öge yànèhzhã@
+@the jackpine is growing up@|@gãse yànèhzhã@
+@the knife is here@|@deja ju mbesh@
+@the leaf is growing out@|@et'ãne yànèhzhã@
+@the man went hunting@|@dek'ana ladehzha@
+@the mitts are blue@|@mbàt detl'ïshe@
+@the mitts are red@|@mbàt det'ele@
+@the mitts are white@|@mbàt dek'ale@
+@the mitts are yellow@|@mbàt detsoe@
+@the moose hunt@|@khandey kah ladehzha@
+@the mushroom is growing out@|@dlèzh ndi'è' yànèhzhã@
+@the poplar is growing up@|@t'ïs yànèhzhã@
+@the pussy willows are growing@|@kàdlia yànèhzhã@
+@the raven is flying around@|@tsesk'ihe k'ànet'ah@
+@the raven's sitting on tree@|@tsesk'ihe ch'ü kãge dasedã@
+@the snow has melted@|@zhash didèhlet@
+@the snow is frozen@|@zash chikonehtenh, zhash chinehtenh@
+@the snow is melting@|@zhash edãlel@
+@the spider's making a web@|@kuschie demïl eschï@
+@the sruce tree is growing up@|@ch'ü yànèhzhã@
+@the sun is shining@|@sha kadi'a@
+@the willow is growing up@|@k'eye yànèhzhã@
+@the young man's name's Shusena@|@dek'ana shusena uzhe@
+@there are lots of mosquitos@|@ch'ih kùlï@
+@there is no snow@|@zhash hadu@
+@these are animal tracks@|@xìh kë' et'ë@
+@these are ashes@|@t'ès et'ë@
+@these are beaver tracs@|@chà' kë' et'ë@
+@these are children@|@dunina eket'e, dunina et'e@
+@these are dry branches@|@dests'ï et'ë@
+@these are embers@|@tset et'ë@
+@these are fox tracks@|@nushtsehe kë' et'ë@
+@these are lowbush cranberries@|@itl'et et'e@
+@these are lynx tracks@|@nàdã kë' et'ë@
+@these are marten tracks@|@nust'ìã kë' et'ë@
+@these are matches@|@tl'ël et'ë@
+@these are muskrat trancks@|@dzenã kë' et'ë@
+@these are my snowsoes@|@esh'âh e@
+@these are our hand@|@dahlà' etë@
+@these are people tracks@|@dene kë' et'ë@
+@these are shavings@|@tsets ÿàjè' et'ë@
+@these are soapberries@|@ishyoshe et'e@
+@these are their hands@|@kulà' et'ë@
+@these are wolf tracs@|@egey kë' et'ë@
+@these are your hands@|@dahlà' et'e@
+@these poor things!@|@shakedìht'eh@
+@they are fine?@|@sho' keli, sho' keli@
+@they are hungry@|@kedembet@
+@this is a baby@|@dunin' et'e@
+@this is a baby rabbit@|@gah zhãzhe et'ë, gahã et'ë@
+@this is a big black bear@|@shash cho e'te@
+@this is a bird@|@chuã et'ë@
+@this is a black bear cub@|@shash zhãzhe et'ë, shashã et'ë@
+@this is a blackfly@|@konàÿizhe et'ë@
+@this is a blanket@|@ts'èdé et'ë@
+@this is a boy@|@dek'ana et'e@
+@this is a caribou skin@|@wejih zès et'ë@
+@this is a colt@|@gùndãn zhãzhe et'ë, gùndãnã et'ë@
+@this is a creek@|@tuã et'ë@
+@this is a cup@|@guk'à et'ë@
+@this is a duck@|@tùde et'ë@
+@this is a fish@|@luge et'e@
+@this is a grayling@|@t'ase et'e@
+@this is a grouse@|@dih et'ë@
+@this is a hill@|@tl'ohchen et'ë@
+@this is a lake@|@men et'ë@
+@this is a mallard@|@tùde chö et'ë@
+@this is a man@|@dek'ane et'e@
+@this is a moose calf@|@dechige et'ë, xandëy zhãzhe et'ë@
+@this is a moose skin@|@xandëy zès et'ë@
+@this is a mosquito@|@ch'ih et'ë@
+@this is a mountain@|@dzel et'ë@
+@this is a nice young boy@|@dadidi dek'ana susen et'e@
+@this is a person@|@dene et'e@
+@this is a plate@|@ch'à' et'ë@
+@this is a pond@|@menã et'ë@
+@this is a pot@|@üsà' etë@
+@this is a puppy@|@tli' zhãzhe et'ë, tliã et'ë@
+@this is a river@|@tahgàh et'ë@
+@this is a small black bear@|@shasha et'e@
+@this is a sockeye salmon@|@sambey et'e@
+@this is a spider@|@kuschie et'ë@
+@this is a spoon@|@ch'àle et'ë@
+@this is a trout@|@deley et'e@
+@this is a wolf pup@|@egey zhâzhe et'ë, egeyä et'ë@
+@this is a woman@|@eyadene et'e@
+@this is a worm@|@gü et'ë@
+@this is a young man@|@dadidi dek'ana et'e@
+@this is an ant@|@tl'ïsdigi et'ë@
+@this is an owl@|@mèsdzih et'ë@
+@this is blowfly@|@ch'oh et'ë@
+@this is Eniht'iya grandmother@|@dadidi Eniht'iya metsu et'e@
+@this is firewood@|@tsets et'ë@
+@this is highbush blueberry@|@kenet'ah et'e@
+@this is highbush cranberry@|@kaxwexh et'e@
+@this is his ear@|@mejë' et'ë@
+@this is his eye@|@menda' et'ë@
+@this is his foot@|@mekè' et'ë@
+@this is his hand@|@melà et'ë@
+@this is his nose@|@mechih et'ë@
+@this is kindling@|@tsejä et'ë@
+@this is my arm@|@eshgànè' et'ë@
+@this is my chest@|@eshdzëzülè' e'të@
+@this is my father@|@eshtà' et'ë@
+@this is my grandfather@|@eshchìe et'ë@
+@this is my grandmother@|@eshchü et'ë@
+@this is my gun@|@eshgonk'à' et'ë@
+@this is my hand@|@eshlà' et'ë@
+@this is my head@|@eshtsì' etë@
+@this is my knee@|@megòt et'ë@
+@this is my mother@|@eshmã et'ë@
+@this is my neck@|@eshk'os et'ë@
+@this is my older brother@|@eshndeyã et'ë@
+@this is my packsack@|@eshÿahndòshè' et'ë@
+@this is my shoulder@|@eshgàchinè etë@
+@this is my stomach@|@nimbèt et'ë@
+@this is my tent@|@eshtl'ïhidè et'ë@
+@this is my tooth@|@niÿù et'ë@
+@this is my trap@|@eshxìlè et'ë@
+@this is my younger brother@|@eshchidle et'ë@
+@this is my younger sister@|@eshdëjè et'ë@
+@this is my youngest sister@|@eshdèjã et'ë@
+@this is older sister@|@eshmbäde et'ë@
+@this is shusena older brother@|@dadidi shusena mendey et'e@
+@this is shusena's father@|@dadidi shusena meta' et'e@
+@this is shusena's mother@|@dadidi shusena mema et'e@
+@this is shusena's older sister@|@dadidi shusena membat et'e@
+@this is shusna's dog@|@dadidi shusena medli et'e@
+@this is your face@|@ninì' et'ë@
+@this is your hair@|@ntsìÿà' et'ë@
+@this is your hand@|@nilà' etë@
+@this' shisena's younger sister@|@dadidi shusena medeje et'e@
+@this young man is Eniht'yiã@|@dàdidï dek'ànä Eniht'iya ùzhë@
+@this's Eniht'iya little sister@|@dadidi Eniht'iya medeja et'e@
+@three@|@tãdet'ë@
+@trout@|@deley@
+@tutchone@|@selkirk@
+@two@|@lakìdèt'ë@
+@walk around@|@k'ànàdah@
+@we are fine@|@sho' ili@
+@we are hungry@|@dîmbèt@
+@what are you doing?@|@dakonih'ia?@
+@what are you drinking?@|@zhe nih'i nida?@
+@what are you eating?@|@zhe nitsedza?@
+@what are you going hunting for@|@zhe kah ladizha?@
+@what berry is this?@|@ye jije et'e?@
+@what color are the mitts?@|@mbàt dàkonèt'ia?@
+@what color is it?@|@dàkonèt'ïã?@
+@what do you call it?@|@dàùzhë et'ë?@
+@what do you have?@|@zhe nit'ia?@
+@what do you see?@|@zhe nih'ia?@
+@what do you want?@|@zhe kah dimbeda?@
+@what does she want?@|@zhe yeneli?@
+@what is he doing?@|@zhe dah'ia?, zhe dah'ia? dàkòh'iä?@
+@what is he eating?@|@zhe etsedza?@
+@what is he fishing for?@|@zhe kah edehch'ash?@
+@what is he going hunting for?@|@zhe kah ladehzha?@
+@what is her name?@|@dauzhea?@
+@what is her old sister doing?@|@membäde dàkòh'ia?@
+@what is the bird doing?@|@chuã dàt'iã?@
+@what is the boy doing?@|@dek'ana zhe dah'ia?@
+@what is the butterfly doing?@|@dãlèlã dàt'iã?@
+@what is the girl doing?@|@eÿàdèna dàh'iã?, eyadena dakoh'i?@
+@what is the worm doing?@|@gü dàt'iã?@
+@what is this@|@zhe et'e@
+@what is this?@|@zhe et'e@
+@what is your mother doing?@|@nima dàkòh'ia?@
+@what is your name?@|@dak'ana zhe dah'ia?@
+@what's your younger brother do@|@nechidle dàkòh'ia@
+@where are the matches?@|@kun' ja nizen, tl'ël jà?@
+@where are the snow shoes?@|@ãh jà?@
+@where are you going?@|@dä kots'èn indãlã?@
+@where is the dog sitting?@|@tli' dâu sedã?@
+@where is the knife?@|@mbësh jã?@
+@where is the packsack?@|@ahndòsh jà?@
+@where is the raven sitting?@|@tsek'ihe dâu sedã@
+@where is the tent?@|@tl'ihit jà?@
+@where is the trap?@|@xìl jà?@
+@wherw is the gun?@|@k'onk'à ja?@
+@who is this?@|@ma et'e?@
+@willow@|@k'eye@
+@wolf@|@egey@
+@wolf pup@|@egey, egeyã@
+@worm@|@gü@
+@worm is crawling around@|@gü k'ànàdüs@
+@yes@|@èhe'@
+@yes;it is sunny@|@ehe; sha kadi'a@
+@you all ask me@|@shedahkit@
+@you are drinking water@|@tü nida@
+@you are eating fish@|@luge nitsets@
+@you are hungry@|@dimbet@
+@you are hungry (pl)@|@dahmbet@
+@you are picking berries@|@jìje nimbë@
+@you forgot@|@ninãkòts'et@
+@you listen to me!@|@shedínits'à!@
+@you poor thing!@|@shadènìht'eh@
+@you say it!@|@daxoni dahndï!@
+@you tell me@|@shedindï@
+@you too; take care of yourself@|@na'àchü; sòsen edenit'ï@
+@you; hurry up!@|@nin; ek'adle!@
+

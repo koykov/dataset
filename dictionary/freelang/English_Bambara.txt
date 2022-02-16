@@ -1,0 +1,3409 @@
+@English@|@Bambara@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@200@|@keme fila@
+@21@|@mugan ni kelen@
+@22@|@mugan ni fila@
+@23@|@mugan ni saba@
+@24@|@mugan ni naani@
+@25@|@mugan ni duuru@
+@26@|@mugan ni wòòrò@
+@27@|@mugan ni wolonfila@
+@28@|@mugan ni segin@
+@29@|@mugan ni kònòntòn@
+@300@|@keme saba@
+@31@|@bi saba ni kelen@
+@400@|@keme naani@
+@600@|@keme wòòrò@
+@a little@|@dòònin@
+@a lot@|@caman@
+@Abidjan@|@Abijan@
+@abortion@|@kònòtinyè@
+@about@|@kàn@
+@above@|@sanfè@
+@Abuja@|@Abuza@
+@accept@|@sòn@
+@accident@|@balawu@
+@accommodation@|@jatigiya@
+@accomodation@|@jatigiya@
+@accompany@|@bila@
+@accuse@|@jalaki@
+@accuser@|@sendonbaa@
+@ache@|@farifaga@
+@act@|@kèwale@
+@action@|@kèwale@
+@active@|@kìsè@
+@acute angle@|@selekenin@
+@add@|@fàra@
+@addition@|@kafoli@
+@address@|@dagayòrò@
+@adjective@|@mankutu@
+@adoration@|@batoli@
+@adore@|@bato@
+@adult@|@mògòkòròba@
+@adultery@|@jènèya@
+@advancement@|@nyèfètaali@
+@adverb@|@sèmèntiyalan@
+@advertising@|@gansili@
+@advertissement@|@gansilisèbèn@
+@advice@|@laadili@
+@advise@|@laadi@
+@adviser@|@kankòròsigi@
+@advocate@|@awoka@
+@aegis@|@hukumu@
+@aeroplane@|@awiyòn@
+@affair@|@ko@
+@affix@|@nòrònna@
+@Africa@|@Farafinna@
+@African Cup of Nations@|@Kupudafiriki@
+@African eggplant@|@nkòyò@
+@African Union@|@Farafinna tònba@
+@after@|@tèmènen kò@
+@afternoon@|@wula@
+@again@|@tugun@
+@against@|@kama@
+@agama lizard@|@basa@
+@age@|@si@
+@agent@|@walekèla@
+@agree@|@bèn@
+@agreement@|@bènkan@
+@agriculture@|@sènè@
+@ahead of@|@nyè@
+@aid@|@dèmèni@
+@aid agency@|@dèmèlitòn@
+@AIDS@|@sida@
+@aim@|@kün@
+@aim at@|@bon@
+@air@|@finyè, si@
+@aircraft carrier@|@awiyòntalan@
+@airport@|@abiyon jigin kènè, pankuruntayòrò@
+@albino@|@yefuge@
+@alcohol@|@dòlò@
+@alcoholic@|@dòlòminna@
+@Algeria@|@Alizeri@
+@alien@|@siginfè@
+@all@|@bèè@
+@allow@|@labila@
+@Almighty@|@Sebaayabèètigi@
+@alms@|@sarakati@
+@alphabet@|@sigini@
+@already@|@kaban@
+@also@|@fana@
+@altar@|@sarakabòlan@
+@amaze@|@kabakoya@
+@amazement@|@kabakoya@
+@amazing@|@kabakoma@
+@ambassador@|@lasigiden@
+@amen@|@amiina@
+@America@|@Ameriki@
+@amnesty@|@yafa@
+@among@|@cèma@
+@amulet@|@bàgan@
+@amulette@|@sèbèn@
+@amusement@|@tulon@
+@analyse@|@sègèsègè@
+@ancestor@|@bènba@
+@and@|@ni@
+@angel@|@mèlèkè@
+@anger@|@diminya@
+@angle@|@seleke@
+@anguish@|@nyègan@
+@animal@|@dantanfèn@
+@animal market@|@bagansugu@
+@ankle@|@senkuru@
+@anniversary@|@sanyèlèma@
+@annoint@|@mun@
+@announce@|@lase@
+@annoy@|@tòòrò@
+@another@|@wèrè@
+@answer@|@jaabi@
+@ant@|@dugumènè@
+@antelope@|@nkolonnin@
+@anthem@|@fàsa@
+@antidote@|@lakari@
+@antilope@|@dajè@
+@anvil@|@kulan@
+@apart from@|@kò@
+@apostle@|@ciden@
+@apostleship@|@cidenya@
+@appearance@|@cè@
+@applaud@|@tègèrè fò@
+@apple@|@pòmu@
+@application@|@waleyali@
+@apply@|@waleya@
+@apprentice@|@parantikè@
+@approach@|@gèrè@
+@approximately@|@nyògòn@
+@April@|@awirili@
+@Arab@|@larabu@
+@Arab World@|@Arabula@
+@Arabic@|@larabukan@
+@are you fine?@|@i ka kènè?@
+@are you from America?@|@i bè bò Ameriki wa?@
+@are your chirldren fine?@|@i denw ka kènè?@
+@aren't you going to eat?@|@I tèna dumuni ke wa?@
+@argument@|@sòsòli@
+@arid@|@jalan@
+@arithmetic@|@jate@
+@arm@|@tègèkala@
+@armpit@|@kamakòròla@
+@arms@|@kèlèkèminènw@
+@army@|@kèlèbolo@
+@army officer@|@jalatigi@
+@arrange@|@nyenabo@
+@arrangement@|@mabèn@
+@arrest@|@minè@
+@arrival@|@nali@
+@arrive@|@se@
+@arrow@|@bìnyè@
+@art@|@seko@
+@arthritis@|@kurukundimi@
+@article@|@minèn@
+@article (law)@|@sariyasen@
+@artisan work@|@bololabaara@
+@artist@|@jadilanna@
+@as well@|@fana@
+@ash@|@bugurinjè@
+@Asia@|@Azi@
+@ask@|@deli@
+@aspect@|@cë@
+@assassin@|@mògòfagala@
+@assemble@|@jè@
+@assistance@|@dèmèni@
+@assistant@|@dèmèbaa@
+@association@|@jènyògònya@
+@at@|@ye@
+@at night@|@sufè@
+@at noon@|@tilefè@
+@atheist@|@aladònbali@
+@atmosphere@|@laminifinyè@
+@atmospheric pressure@|@finyèdigi@
+@attach@|@siri@
+@AU@|@Farafinna tònba@
+@aubergine@|@obèrizini@
+@August@|@utikalo@
+@aunt@|@bèmamuso, tènèmuso@
+@Austria@|@Otirisi@
+@authorise@|@yamaruya@
+@authority@|@hukumu@
+@authorized@|@dagalen@
+@autonomy@|@senyèrèkòrò@
+@average@|@hakèlama@
+@axe@|@sèmè@
+@axe handle@|@jelekala@
+@baboon@|@ngòn@
+@baby@|@kòladen@
+@back@|@ko@
+@back seat@|@kòfèsigilan@
+@backache@|@kòdimi@
+@backbone@|@kòkolo@
+@backhander@|@suròfèn@
+@backside@|@bobara@
+@bad@|@jugu@
+@bad deed@|@kojugu@
+@bad mood@|@nisòngoya@
+@bag@|@npalan, saki@
+@baggage@|@minèn@
+@bake@|@wusu@
+@bakery@|@nbuurugosiyòrò@
+@balaphone@|@bala@
+@balaphone player@|@balafòla@
+@ball@|@ntola@
+@balloon@|@mananin@
+@ballot box@|@wotekèsu@
+@Bamako@|@Bamakò@
+@bambara@|@bamanankan@
+@bambara people@|@bamanan@
+@banana@|@namasa@
+@bandit@|@bandi@
+@Bangladesh@|@Bèngiladèsi@
+@bank@|@bnki, waribon@
+@baobab@|@sira@
+@baptise@|@batise@
+@baptism@|@batiseli@
+@bar@|@dòlòso@
+@barber@|@kunsigitigèla@
+@bard@|@jeli@
+@bargain@|@tèrèmè@
+@bargaining@|@tèrèmèli@
+@bark@|@fàra@
+@barometer@|@fnyèdigisumanan@
+@basket@|@segi@
+@basketball@|@basikèti@
+@bat@|@ndire@
+@bathroom@|@nyègèn@
+@battery@|@batiri@
+@battle@|@kèlè@
+@battlefield@|@kèlèyòrò@
+@bay leaf@|@loriye@
+@be able to@|@se@
+@be born@|@wolo@
+@be careful@|@kòlòsi@
+@beak@|@dabòlò@
+@bean paste@|@faro@
+@bean-eater@|@sòdunna@
+@beans@|@siyò@
+@bear@|@munyu@
+@bear fruit@|@den@
+@beard@|@bonbonsi@
+@beast@|@bagan@
+@beat@|@gosi@
+@beautiful@|@cènyi@
+@beauty@|@cènyè@
+@because@|@katuguni@
+@because of@|@kosòn@
+@become@|@kè@
+@bed@|@dalan@
+@bed sheet@|@dara@
+@bedroom@|@siso@
+@bee@|@dikisè@
+@beef@|@misisogo@
+@beehive@|@nyunu@
+@beep@|@kasi@
+@beer@|@biyèri@
+@before@|@yaani@
+@beggar@|@garibu@
+@begging@|@garibuya@
+@begin@|@daminè@
+@beginning@|@daminè@
+@behaviour@|@tagabolo@
+@behind@|@kòfè@
+@Belgium@|@Bèliziki@
+@believe@|@da@
+@believer@|@dannabaa@
+@belittle@|@dògòya@
+@bell@|@ntanan@
+@belt@|@sentiri@
+@bench@|@ban@
+@bend@|@gòlòn@
+@bend over@|@biri@
+@Benin@|@Benèn@
+@bereavement@|@sukasi@
+@beside@|@kèrè fè@
+@besiege@|@daga@
+@betray@|@janfa@
+@betrayal@|@janfa@
+@better@|@fisa@
+@between@|@cè@
+@beware@|@janto@
+@bewitch@|@dabali@
+@Bible@|@bibulu@
+@bic@|@biki@
+@bicycle@|@nègèso@
+@big@|@belebeleba@
+@bike@|@nègèso@
+@bilharzia@|@sugunèbilen@
+@bilingual education@|@kanfilajèkalan@
+@billion@|@miliyari@
+@billy goat@|@badègè@
+@bind@|@siri@
+@biped@|@senfilamafèn@
+@bird@|@kònò@
+@bird of prey@|@sègè@
+@birth@|@bangeli@
+@birth certificate@|@wolosèbèn@
+@biscuit@|@bisiki@
+@bite@|@kin@
+@bits@|@buruburu@
+@bitter@|@basi@
+@bitter tomato@|@nkòyò@
+@Bla@|@bila@
+@black@|@finman@
+@black person@|@farafin@
+@blackboard@|@walanba@
+@blacken@|@fin@
+@blacksmith@|@numukè@
+@bladder@|@nyegènèbara@
+@blade@|@murukisè@
+@blame@|@jalaki@
+@blanket@|@birifini@
+@Blase@|@logologo@
+@bleeding@|@jolibò@
+@bless@|@duba@
+@blessing@|@duba@
+@blind person@|@fiyentò@
+@blindness@|@fiyen@
+@blister@|@logologo@
+@block@|@kare@
+@blood@|@jòli@
+@blood test@|@joli sègèsègèli@
+@blood vessel@|@jolisira@
+@blow@|@fiyè@
+@blow up@|@funun@
+@blue@|@bulaman@
+@boa@|@mininyan@
+@boar@|@lèfali@
+@boastfulness@|@yèrèjira@
+@boasting@|@yèrèbonya@
+@boat@|@kurun@
+@Bobo@|@bòbò@
+@Bobodiolasso@|@Bobojulaso@
+@body@|@farikolo@
+@bogolan@|@bògòlan@
+@boil@|@bàlàbala@
+@bold@|@farin@
+@bone@|@kolo@
+@book@|@kitabu, liburu@
+@booklet@|@gafe@
+@bookshop@|@gafefeereyòrò@
+@border@|@dancè@
+@borrow@|@singa@
+@borrowed word@|@singadanyè@
+@borrower@|@jurutala@
+@boss@|@kuntigi@
+@bother@|@tòòrò@
+@Botswana@|@Bòtisiwana@
+@bottle@|@buteli@
+@bottle opener@|@dayèlèlan@
+@bottom of the hill@|@kuluda@
+@boutique@|@butigi@
+@bovine@|@misi@
+@bow@|@kala@
+@bowl@|@tasa@
+@box@|@buwati@
+@boxer@|@bolokurukèla@
+@boy@|@cèmanin@
+@boyfriend@|@kamalen@
+@boyhood@|@bilakoroya@
+@Bozo@|@bozo@
+@bra@|@sintalan@
+@bracelet@|@bololanègè@
+@bracket@|@kalanin@
+@braid@|@digi@
+@brain@|@kunsèmè@
+@brake@|@fèrèn@
+@branch@|@jiribolo@
+@brand new@|@kurakura@
+@Brazil@|@Berezili@
+@bread@|@nbuuru@
+@break@|@tigè@
+@break down@|@tinyè@
+@break up@|@ci@
+@breakfast@|@daraka@
+@breast@|@sin@
+@breastplate@|@nègèdulòki@
+@breath@|@dafinyè@
+@breathing@|@ninakili@
+@bribe@|@suròfen@
+@brick@|@tufa@
+@bride@|@kònyomuso@
+@bride price@|@furunafolo@
+@bridegroom@|@kònyòcè@
+@bridge@|@babili@
+@briefcase@|@npalan@
+@bring@|@na ni ... ye@
+@bring back@|@lasegin@
+@bring out@|@bò@
+@bring together@|@dalajè@
+@bring up@|@lamò@
+@bronze@|@nsiranègè@
+@broom@|@furalan@
+@brother@|@balima, kòròkè@
+@brother (younger)@|@dògòkè@
+@brotherhood@|@balimaya@
+@brown@|@bilenman@
+@brush@|@bòròsi@
+@bubu@|@dulòkiba@
+@bucket@|@manaso@
+@build@|@jò@
+@builder@|@sojòla@
+@building@|@jòli@
+@bulb@|@anpulu@
+@bull@|@ntura@
+@bullet@|@kisè@
+@burden@|@degun@
+@burial@|@suturali@
+@Burkina Faso@|@Burukina Faso@
+@burn@|@jeni@
+@Burundi@|@Burundi@
+@bury@|@sutura@
+@bus@|@kaare@
+@bus driver@|@kaarebolila@
+@bus station@|@mobilitayòrò, oto gari@
+@bush@|@wula@
+@bush fire@|@kungojeni@
+@bush taxi@|@dògòjòmobili@
+@but@|@nka@
+@butter@|@sirimè@
+@butterfly@|@nfirinfirinin@
+@buy@|@san@
+@by@|@fè@
+@cabbage@|@supòmu@
+@cackle@|@kaka@
+@caesarean section@|@kònòcibange@
+@cake@|@gato@
+@cake shop@|@patiseri@
+@calabash@|@filen@
+@calculate@|@jate@
+@calculation@|@jate@
+@calculator@|@jatebòlan@
+@calf@|@misiden@
+@call@|@wele@
+@call to prayer@|@misiriwele@
+@call together@|@lajè@
+@caller@|@welebaa@
+@calm@|@mada@
+@camel@|@nyaamè@
+@camera@|@jatalan@
+@Cameroon@|@Kameruni@
+@campaign@|@kanpanyi@
+@can@|@buwati@
+@Canada@|@Kanada@
+@canal@|@bajalan@
+@candle@|@busi@
+@candy@|@bònbòn@
+@canoe@|@jikankurun@
+@capitaine@|@kapitèni@
+@capital@|@faaba@
+@capitalism@|@kapitalisimu@
+@capitalist@|@kapitalisi@
+@capture@|@minè@
+@car@|@mobili@
+@card@|@karada@
+@cardboard box@|@karitòn@
+@care@|@hami@
+@carefully@|@nèmènèmè@
+@carp@|@ntèbèn@
+@carpenter@|@jiridèsèla@
+@carrot@|@karòti@
+@carry on back@|@bamu@
+@cart@|@wotoro@
+@carve@|@dèsè@
+@cassette@|@kasèti@
+@cassette recorder@|@manyeto@
+@casted person@|@nyamakala@
+@cat@|@jakuma@
+@catapult@|@kònòbòmana@
+@catastrophe@|@balawu@
+@catch@|@minè@
+@catfish@|@manògò@
+@catholic@|@katoliki@
+@cattle herder@|@misigènna@
+@cattle slaughterhouse@|@misifagayòrò@
+@cause@|@bila@
+@CD@|@sede@
+@celebrate@|@nyènajè@
+@celebration@|@gintanba@
+@cement@|@siman@
+@cemetery@|@kaburudo@
+@centimetre@|@santimètèrè@
+@Central African Republic@|@Santarafiriki@
+@cesspit@|@wuluwulu@
+@CFA@|@sefawari@
+@Chad@|@Cadi@
+@chaff@|@nyaga@
+@chain@|@cèni@
+@chair@|@sèsi@
+@chalk@|@kabasu, lakèrè@
+@chalk board@|@tabulo@
+@chameleon@|@nònsi@
+@change@|@bayèlèma@
+@chapter@|@sura@
+@charcoal@|@sarabon@
+@chase@|@gèn@
+@chase after@|@nògèn@
+@chat@|@masala@
+@check@|@waritasèbèn@
+@checkpoint@|@sègèsègèliyòrò@
+@cheek@|@dafuruku@
+@cheese@|@foromazi@
+@chemist@|@furafeerela@
+@cheque@|@waritasèbèn@
+@cherry@|@serisi@
+@cherubim@|@serubèn@
+@chest@|@kògò@
+@chest pains@|@disidimi@
+@chew@|@nyimi@
+@chewing tobacco@|@siramugu@
+@chick@|@sèden@
+@chicken@|@sèsè@
+@chicken meat@|@sèsogo@
+@chief@|@kuntigi@
+@chief of village@|@dugutigi@
+@child@|@den@
+@childhood@|@bilakoroya@
+@children@|@denw@
+@chili pepper@|@foronto@
+@chin@|@bonbon@
+@China@|@Siniwajamana@
+@chips@|@firiti@
+@chocolate@|@sokola@
+@choir@|@kòrali@
+@choir member@|@kòraliden@
+@choke@|@degun@
+@cholera@|@kunfilatu@
+@choose@|@nyènatòmò@
+@chop@|@ci@
+@Christian@|@kerecèn@
+@Christmas@|@Nowèli@
+@chuck@|@fili@
+@church@|@Alabatoso, egilisi@
+@church service@|@batoli@
+@cigarette@|@sigarèti@
+@cinema@|@sinimanso@
+@circle@|@sèrèkili@
+@circulate@|@munumunu@
+@circumcise@|@boloko@
+@circumcision@|@bolokoli@
+@circumcision ceremony@|@furasi@
+@circumference@|@koorilamini@
+@citizen@|@fasoden@
+@civil servant@|@forobabaarakèla@
+@clap@|@tègèrè fò@
+@clapping@|@tègèrè@
+@class@|@kilasi@
+@classroom@|@kalanso@
+@clay@|@bògò@
+@clean@|@jè@
+@cleanliness@|@saniya@
+@cleanse@|@saniya@
+@cleansing@|@saniyali@
+@clever@|@kegun@
+@cleverness@|@keguya@
+@cliff@|@kulu@
+@clinic@|@dògòtòròso@
+@clock@|@mònturuba@
+@close@|@tugu@
+@cloth@|@sifòn@
+@clothes@|@fini@
+@clothes maker@|@kalalikèla@
+@clothes peg@|@finidulonnan@
+@cloud@|@kaba@
+@club@|@tòn@
+@coach@|@degelikaramògò@
+@coast@|@kògòjida@
+@cobbler@|@garankè@
+@cockerel@|@donon@
+@cockroach@|@nyèbèrè@
+@coffee@|@kafe@
+@coffee seller@|@kafefeerela@
+@coin@|@warimisèn@
+@cola nut@|@wòro@
+@cold@|@nènè@
+@cold country@|@nènèmajamana@
+@cold season@|@fonènè@
+@colleague@|@baarakènyògòn@
+@collect@|@cè@
+@colon@|@tomi fila@
+@colonization@|@marali@
+@colour@|@nyè@
+@colt@|@sòden@
+@combatant@|@kèlèkècè@
+@come@|@nà@
+@come back@|@kòsegin@
+@come down@|@jigin@
+@come from@|@bò@
+@comedian@|@tiyatiribòla@
+@coming@|@nali@
+@coming and going@|@taakasegin@
+@comma@|@kòrin@
+@commandment@|@ci fòlen@
+@commerce@|@jago@
+@commission@|@ci@
+@commit@|@kalifa@
+@commit suicide@|@yèrèfaga@
+@committee@|@komite@
+@common noun@|@forobatògò@
+@companion@|@tònyògòn@
+@companionship@|@jènyògònya@
+@compare@|@sanga@
+@compel@|@wajibiya@
+@competition@|@nyògòndan@
+@complete@|@dafalen@
+@completely@|@tewu@
+@computer@|@òridinatèri@
+@concentrate@|@cèsiri@
+@concentrate on@|@nyèsin@
+@concern@|@hami@
+@concession@|@du@
+@conclude@|@kuncè@
+@conclusion@|@kuncèli@
+@concrete slab@|@bambale@
+@condemn@|@lagosi@
+@condom@|@mananin@
+@conference@|@lajèba@
+@confess@|@jò@
+@confidence@|@dannaya@
+@confuse@|@nyaami@
+@Congo@|@Kongo@
+@conjunctivitis@|@apolo@
+@conquest@|@minèni@
+@consequence@|@nò@
+@consider@|@jate@
+@consonant@|@dafata@
+@conspiracy@|@janfa@
+@constellation@|@dolokulu@
+@constipation@|@kònòja@
+@construction@|@jòli@
+@contagious illness@|@finyèbana@
+@container@|@palan@
+@contest@|@sòsò@
+@context@|@hukumu@
+@continent@|@bangu@
+@contract@|@layidu@
+@contradict@|@sòsò@
+@contribution@|@bolomafara@
+@conversation@|@masala@
+@convert@|@tuubi@
+@cook@|@tobi@
+@cooking@|@tobili@
+@cooking pot@|@tobilidaga@
+@cooking stone@|@gakulu@
+@cooking utensil@|@tobilikèminèn@
+@cool@|@suma@
+@coolness@|@sumaya@
+@cooperation@|@tègèdinyògònma@
+@copy@|@sèbènja@
+@corn@|@kàba@
+@corner@|@seleke@
+@cornfield@|@kabaforo@
+@corpse@|@sü@
+@Costa Rica@|@Kòsitarika@
+@Côte d'Ivoire@|@Kònòwari@
+@cotton@|@kòòri@
+@cotton fibres@|@kòòrimugu@
+@cotton grower@|@kòòrisènèna@
+@cough@|@sògòsògò@
+@councillor@|@kònseye@
+@counsel@|@laadi@
+@counsellor@|@laadibaa@
+@country@|@jamana@
+@countryside@|@burusi@
+@courage@|@jagèlèya@
+@courageous@|@farin@
+@course@|@kalan@
+@courtyard@|@dukènè@
+@couscous@|@bàsi@
+@cousin@|@kanimè@
+@cover@|@bili@
+@cow@|@misi@
+@cow enclosure@|@wèrè@
+@co-wife@|@sinamuso@
+@cowrie shell@|@kolonkisè@
+@cow's milk@|@misinònò@
+@craftiness@|@keguya@
+@crafy@|@kegun@
+@crawl@|@fofo@
+@create@|@da@
+@created thing@|@dafèn@
+@creator@|@dabaa@
+@creature@|@dafèn@
+@creeper@|@nsaban@
+@creme@|@kèrèmu@
+@cricket@|@nkèèrèn@
+@crime@|@sariyatinyè@
+@criminal@|@kojugukèla@
+@criticise@|@lagosi@
+@crocodile@|@bama@
+@cross@|@tigè@
+@crossroads@|@sirakunbèn@
+@crow@|@kasi@
+@crowd@|@jama@
+@crown@|@masafugula@
+@crumbs@|@kunkun@
+@crunch@|@nyimi@
+@crush@|@nyònnyòn@
+@cry@|@kulokan@
+@cucumber@|@kònkòn@
+@cultivate@|@sènè@
+@culture@|@dònko@
+@cunning@|@kegun@
+@cup@|@bòli@
+@current@|@woyo@
+@curse@|@neni@
+@custard apple@|@sunsun@
+@custom@|@laada@
+@cut@|@kan@
+@cut throat of@|@kantigè@
+@cyclist@|@nègèsotigi@
+@dad@|@buwa@
+@daily bread@|@dahirimè@
+@dairy product@|@nònòmafèn@
+@Dakar@|@Dakaro@
+@damage@|@tinyè@
+@dampness@|@sumaya@
+@dance@|@dòn@
+@dancer@|@dònkèla@
+@danger@|@farati@
+@dangerous@|@faratima@
+@dash@|@tiirinin@
+@date@|@don@
+@date (fruit)@|@ntamaro@
+@date of birth@|@bangedon@
+@daughter@|@denmuso@
+@dawn@|@dugujè@
+@day@|@don@
+@day of arrival@|@sedon@
+@dead person@|@sü@
+@deaf person@|@tulogeren@
+@deal with@|@nyèsin@
+@death@|@banni@
+@death certificate@|@sayasèbèn@
+@debate@|@sòsòli@
+@debauchery@|@jatòya@
+@debt@|@juru@
+@debtor@|@jurutala@
+@deceive@|@lafili@
+@December@|@desanburukalo@
+@decentralisation@|@maraseginso@
+@decide@|@latigè@
+@decimal points@|@murumuru@
+@decision@|@latigè@
+@declaration@|@dantigèkan@
+@decline@|@binni@
+@decompose@|@toli@
+@deep@|@dun@
+@deer@|@minan@
+@deform@|@gòlòn@
+@dehydration@|@jidèsè@
+@delegate@|@kònferansiden@
+@delivery birth@|@jiginni@
+@democracy@|@bèèjèfanga@
+@demon@|@sitanè@
+@demonstrative@|@jiralan@
+@denigrate@|@mafinyèya@
+@deny@|@dalacè@
+@depth@|@dunya@
+@deputy@|@kòròsigi@
+@descend@|@jigin@
+@descendant@|@bònsòn@
+@describe@|@lakali@
+@desert@|@cèncènkungo, saharakungo@
+@deserve@|@ka kan ni ... ye@
+@desire@|@nege@
+@despair@|@jigintanya@
+@destiny@|@nakan@
+@destroy@|@halaki@
+@destruction@|@halakili@
+@develop@|@yiriwa@
+@development@|@yiriwali@
+@devil@|@sitanè@
+@dew@|@ngomi@
+@diabetes@|@jabèti@
+@dialogue@|@kumanyògònya@
+@diarrhoea@|@kònòboli@
+@dictionary@|@danyègafe@
+@die@|@sa@
+@diesel@|@gazòli@
+@difference@|@danfara@
+@different@|@wèrè@
+@differentiate@|@faranfasi@
+@difficult@|@go@
+@difficulty@|@gèlèya@
+@dig@|@sen@
+@digit@|@jateden@
+@dignity@|@danbe@
+@dinner@|@suròfana@
+@Dioula@|@julakan@
+@dip@|@su@
+@diphtheria@|@falakabana@
+@diploma@|@dipilomu@
+@direct@|@nyèminè@
+@direction@|@fan@
+@director@|@kuntigi@
+@dirt@|@nògò@
+@dirty@|@nògòlen@
+@disagreable@|@go@
+@disaster@|@balawu@
+@discard@|@fili@
+@discipline@|@kolo@
+@discontent@|@wasabaliya@
+@discussion@|@jèkafò@
+@dishonesty@|@nanbara@
+@disobedience@|@kanbilali@
+@dispensary@|@furakèso@
+@disperse@|@jènsèn@
+@dispose of@|@fili@
+@distaff@|@jènè@
+@distance@|@janya@
+@distinguish@|@faranfasi@
+@district@|@komini@
+@divide@|@fara@
+@divide up@|@tilatila@
+@divination@|@filèli@
+@divine protection@|@hìjàbu@
+@divine reward@|@baraji@
+@diviner@|@filèlikèla@
+@division@|@tilali@
+@divorced@|@furusalen@
+@dizziness@|@nyènamini@
+@Djibouti@|@Jibuti@
+@DNAFLA@|@Balikukalansoba@
+@do@|@kè@
+@do you speak bambara?@|@i bè bamanakan fò?@
+@doctor@|@furakèla@
+@document@|@sèbèn@
+@dog@|@wùlú@
+@dog fish@|@wulujègè@
+@Dogon@|@dògònòkan@
+@Dogon (ethnic group)@|@dògònò@
+@doll@|@dendennin@
+@dollar@|@dolariwari@
+@domestic animal@|@sokònòbagan@
+@domicile@|@sigiyòrò@
+@donkey@|@fali@
+@Don't touch me!@|@Kana maga n na!@
+@door@|@da@
+@doubt@|@siga, siga@
+@dove@|@jènèntuban@
+@downstairs@|@duguma@
+@dowry@|@furufèn@
+@drama@|@tiyatiri@
+@drawing@|@nataliye@
+@dream@|@sugo@
+@drink@|@buwasòn@
+@drinkable@|@minta@
+@drinker@|@dòlòminna@
+@drinking@|@minni@
+@drinking water@|@minniji@
+@drive@|@boli@
+@driver@|@sofèrè@
+@driving licence@|@mobilibolisèbèn@
+@driving school@|@mobilidegeyòrò@
+@dromedary@|@nyaamè@
+@drought@|@ja@
+@drug@|@dòrògu@
+@drug addict@|@dòrògutala@
+@drum@|@dunun@
+@drummer@|@jenbefòla@
+@drunkard@|@dòlòminna@
+@drunkenness@|@nyènamini@
+@dry@|@jalan@
+@dry land@|@gere@
+@dry season@|@tilema@
+@duck@|@tònkònò@
+@dune@|@cèncènkulu@
+@during@|@senfè@
+@dusk@|@fitiri@
+@dust@|@gòngòn@
+@dye@|@gala@
+@dyer@|@galadonna@
+@dysentery@|@tògòtògònin@
+@each other@|@nyògòn@
+@eagle@|@samatasègè@
+@ear@|@kulo@
+@earache@|@tulodimi@
+@early@|@joona@
+@earth@|@dugukolo@
+@earthquake@|@dugukoloyèrèyèrè@
+@ease@|@nògòya@
+@east@|@kòròn@
+@Easter@|@Paki@
+@eastern@|@kòrònyanfan@
+@easy@|@nògòn@
+@eat@|@dun@
+@eater@|@dumunikèla@
+@eating place@|@dumunikèyòrò@
+@economy@|@sòrò@
+@education@|@kalan@
+@effect@|@nò@
+@egg@|@kili@
+@eggplant@|@obèrizini@
+@Egypt@|@Eziputi@
+@eight@|@seegin@
+@eighteen@|@tan ni segin@
+@eighth@|@seginnan@
+@eighty@|@bi segin, bisegin@
+@elbow@|@nònkònkuru@
+@elder@|@cèkòròba@
+@elder brother@|@kòròcè@
+@elder sister@|@kòròmuso@
+@elect@|@sugandi@
+@election@|@sugandili@
+@election campaign@|@wotegansi@
+@electric cable@|@kuranjuru@
+@electric fish@|@ntigi@
+@electricity@|@kuran@
+@elephant@|@sogoba@
+@elevation@|@tintin@
+@eleven@|@tan ni kelen@
+@elision@|@dènni@
+@embassy@|@lasigidenso@
+@embers@|@kami@
+@emerald@|@emerode@
+@emptiness@|@lankolonya@
+@empty@|@kolon@
+@encampment@|@daga@
+@encircle@|@koori@
+@encourage@|@sinsin@
+@end@|@banni@
+@endurance@|@munyuli@
+@endure@|@munyu@
+@enemy@|@jugu@
+@energy@|@kisèya@
+@engine@|@motèrè@
+@England@|@Angilètèri@
+@English@|@angilèkan@
+@enlarge@|@bonya@
+@enmity@|@juguya@
+@enter@|@don@
+@entertainment@|@nyènajè@
+@entrance@|@donda@
+@entrepreneur@|@kènyèrèye@
+@entrust@|@kalifa@
+@envelope@|@anwulopu@
+@envious@|@kele@
+@envy@|@koniya@
+@epic@|@poyi@
+@epoch@|@tile@
+@equal@|@kan@
+@equivalent@|@nyògòn@
+@era@|@tile@
+@eraser@|@jòsilikèlan@
+@Eritrea@|@Eritere@
+@err@|@fili@
+@eternal@|@banbali@
+@Ethiopia@|@Ecopi@
+@ethnic group@|@siya@
+@Europe@|@Eròpu@
+@even@|@hali@
+@evening@|@su@
+@evening meal@|@sulafana@
+@every afternoon@|@wula o wula@
+@every day@|@don go don@
+@every friday@|@juma o juma@
+@every monday@|@tènèn o tènen@
+@every month@|@kalo o kalo@
+@every morning@|@sògòma o sògòma@
+@every night@|@su o su@
+@every week@|@dògòkun o dògòkun@
+@every year@|@san o san@
+@evil@|@juguya@
+@evildoer@|@kojugukèla@
+@ewe@|@sagamuso@
+@exam@|@isamèn@
+@examination@|@sègèsègèli@
+@examine@|@sègèsègè@
+@examinee@|@isamènkèla@
+@example@|@misali@
+@except@|@kò@
+@exclamation mark@|@kabalitomi@
+@excrement@|@bö@
+@excuse me@|@hakèto@
+@execution@|@fagali@
+@exercise@|@degeli@
+@exercise book@|@karadasi@
+@exhibition@|@jirali@
+@exhort@|@waaju@
+@exhortation@|@waaju@
+@exit@|@bòda@
+@expense@|@musaka@
+@expensive@|@gèlèn@
+@explain@|@nyèfò@
+@explanation@|@nyèfòli@
+@extinguish@|@faga@
+@eye@|@nyè@
+@eye glasses@|@nunèti@
+@eye infection@|@apolo@
+@eyebrow@|@nyèsi@
+@eyelash@|@nyèsi@
+@eyelid@|@nyèwolo@
+@fable@|@nsiirin@
+@fabulous@|@kabakoma@
+@face@|@nyèda@
+@factory@|@izini@
+@fade@|@fòsònfòsòn@
+@fail@|@kènyè@
+@failure@|@kòli@
+@faint@|@kirin@
+@fair@|@fisa@
+@fairly good@|@fisa@
+@fairy tale@|@nsiirin@
+@faith@|@dannaya@
+@faithful@|@kantigi@
+@faithfulness@|@kantigiya@
+@fall@|@bìn@
+@family@|@denbaya, somògòw@
+@family member@|@duden@
+@family relations@|@balimaya@
+@fan@|@tafyè@
+@far@|@jàn@
+@farm animal@|@sokònòbagan@
+@farmer@|@sènèkèla@
+@farming@|@sènè@
+@fast@|@sun@
+@fat@|@tulu@
+@father@|@fa, fakè@
+@Father@|@Baba@
+@father-in-law@|@birankè@
+@fathers@|@denfaw@
+@fatten@|@tòlò@
+@fault@|@jalaki@
+@favour@|@barika@
+@fear@|@siran@
+@feast@|@duminiba@
+@feast day@|@donba@
+@feather@|@jolo@
+@February@|@fewuruye@
+@feed@|@balo@
+@fellowship@|@jènyògònya@
+@female@|@muso@
+@fence@|@sinsan@
+@fertiliser@|@angèrè@
+@fertilizer@|@nògò@
+@festival@|@seli@
+@fetish@|@jö@
+@fetish ceremony@|@josòn@
+@fever@|@farigan@
+@fiancé@|@maminèkè@
+@fiancée@|@maminèmuso@
+@field@|@foro@
+@field of maize@|@kabaforo@
+@fierce@|@farin@
+@fifteen@|@tan ni duuru@
+@fifth@|@duurunan@
+@fifty@|@bi duuru, biduuru@
+@fig tree@|@toro@
+@fight@|@balawu@
+@fill@|@fa@
+@film@|@filimu@
+@filter@|@filitere@
+@find@|@sòrò@
+@fine@|@alamani@
+@finger@|@bolokòni@
+@fingernail@|@sòni@
+@fingerprint@|@bolonò@
+@finish@|@ban@
+@fire@|@ta@
+@fire extinguisher@|@tasumafagalan@
+@firecracker@|@peta@
+@firewood@|@dògò@
+@firm@|@gèlèn@
+@first@|@fòlò@
+@first of all@|@fòlòfòlò@
+@firstly@|@fòlò@
+@fish@|@jègè@
+@fish market@|@jègèsugu@
+@fisherman@|@mònnikèla@
+@fishing@|@mònni@
+@fishing rod@|@dolen@
+@fist@|@bolokurun@
+@fistful@|@tòròmòjò@
+@five@|@duuru@
+@five francs@|@dòròmè@
+@five hundred@|@keme duuru@
+@flag@|@darapo@
+@flashlight@|@tòròsi@
+@flesh@|@bu@
+@flip-flop@|@pètupètu@
+@flock of sheep@|@sagakulu@
+@flood@|@jiwalankata@
+@flour@|@mugu@
+@flow@|@woyo@
+@flower@|@filèri@
+@flu@|@murusògòsògò@
+@flute@|@file@
+@fly@|@dimògò@
+@fly away@|@wuli@
+@foal@|@sòden@
+@foam@|@kanga@
+@focus on@|@nyèsin@
+@fold@|@kuru@
+@follow@|@tugu@
+@folly@|@hakilintanya@
+@fonio@|@fini@
+@food@|@dumuni@
+@foodstuff@|@dumunifèn@
+@fool@|@nègèn@
+@foolishness@|@hakilintanya@
+@foot@|@sen@
+@football@|@balòntan@
+@football ground@|@ntolatanyòrò@
+@football pitch@|@ntolatanyòrò@
+@football shirt@|@mayo@
+@football team@|@ntolatantòn@
+@footballer@|@ntolatanna@
+@footprint@|@sennò@
+@for@|@kosòn@
+@forbid@|@kòli@
+@force@|@wajibiya@
+@forearm@|@bolokan@
+@forehead@|@ten@
+@foreign@|@dunan@
+@foreigner@|@siginfè@
+@forest@|@tu@
+@forever@|@badaa@
+@forget@|@nyìnè@
+@forgive@|@yafa@
+@forgiveness@|@yafa@
+@fork@|@furusèti@
+@fork in road@|@sirafara@
+@fornication@|@jènèya@
+@forty@|@bi naani, binaani@
+@found@|@sigi@
+@foundation@|@jusigilan@
+@four@|@naani@
+@fourteen@|@tan ni naani@
+@fourth@|@naaninan@
+@fox@|@kungowulu@
+@fracture@|@kolokari@
+@fragments@|@buruburu@
+@frame@|@lamini@
+@France@|@Faransi@
+@free@|@kunmabò@
+@freely@|@fu@
+@freeman@|@hòròn@
+@French@|@faransèkan@
+@French language@|@nansarakan@
+@fresh@|@kènè@
+@friday@|@juma@
+@Friday@|@jumadon@
+@friend@|@teri@
+@friendship@|@teriya@
+@fries@|@firiti@
+@frighten@|@bagabaga@
+@frog@|@ntori@
+@from@|@k'a ta@
+@front seat@|@nyèfèsigilan@
+@fruit@|@jiriden@
+@fry@|@jiran@
+@frying pan@|@pòli@
+@fuel@|@taji@
+@Fulani@|@fula@
+@fulfill@|@dafa@
+@Fulfulde@|@fulakan@
+@full stop@|@tomi@
+@function@|@jòyòrò@
+@functioning@|@tagabolo@
+@funeral@|@jènèja@
+@future@|@sini@
+@Gabon@|@Gabòn@
+@gain@|@s'òrò@
+@Gambia@|@Ganbi@
+@game@|@sogo@
+@Gao@|@Gawo@
+@gap@|@furancè@
+@garage@|@garasi@
+@garden@|@nakò, nakòtu@
+@gardener@|@nakòbaarala@
+@gardening@|@nakòbaara@
+@garlic@|@layi@
+@gas@|@esansi@
+@gas mask@|@finyèkèlan@
+@gatekeeper@|@dakòlòsibaa@
+@gather@|@lajè@
+@gecko@|@sulantèrè@
+@genealogy@|@buruju@
+@general@|@zenerali@
+@geographer@|@jamanakalanna@
+@geography@|@jamanakalan@
+@geologist@|@dugukolokalanna@
+@geology@|@dugukolokalan@
+@geometry@|@kènèsumakalan@
+@Germany@|@Alimanyi@
+@germinate@|@falen@
+@get hair done@|@kuwafe@
+@get older@|@k'òrò@
+@get ready@|@labèn@
+@get up@|@wuli@
+@get up early@|@soli@
+@Ghana@|@Gana@
+@gift@|@nilifèn@
+@ginger@|@nyamaku@
+@giraffe@|@ntilen@
+@girl@|@musomanin@
+@girlfriend@|@sungurun@
+@girl's youth@|@npogotigiya@
+@give@|@di@
+@give birth@|@bange@
+@giving@|@nili@
+@glass@|@wèrè@
+@glasses@|@nunèti@
+@glorious@|@nòòròma@
+@glory@|@nòòrò@
+@go@|@taa@
+@go for a walk@|@yaalayaala@
+@go out@|@bò@
+@go to bed@|@da@
+@go up@|@yèlèn@
+@goal@|@kuru@
+@goal scorer@|@kurudonna@
+@goat@|@bàmuso@
+@goat herder@|@bagènna@
+@goblin@|@wòkulo@
+@god@|@batofèn@
+@God@|@ma@
+@gold@|@sanu@
+@golden@|@sanulama@
+@gombo@|@gan@
+@gombo field@|@ganforo@
+@gombo sauce@|@ganna@
+@good@|@nyi@
+@good afternoon@|@i ni tile, i ni tilen, i ni wula@
+@good bye@|@k'an b'u fo@
+@good evening@|@i ni su@
+@good morning@|@nba; i ni sògòma, nse; i ni sògòma@
+@good price@|@nògòya@
+@goodness@|@nyumaya@
+@goods@|@feerekèfèn@
+@gourd@|@jë@
+@govern@|@mara@
+@government@|@gofèrènaman@
+@governor@|@faama@
+@grab@|@minè@
+@grace@|@nèèma@
+@grain@|@si@
+@grain of sand@|@cèncènkisè@
+@gram@|@garamu@
+@grammar@|@mabèn@
+@gramme@|@garamu@
+@granary@|@jiginyè@
+@grand father@|@mòke@
+@grandchild@|@mòden@
+@granddaughter@|@mòdenmuso@
+@grandfather@|@mòkè@
+@grandmother@|@mòmuso@
+@grandson@|@mòdenkè@
+@grape@|@rezèn@
+@grass@|@bín@
+@gratitude@|@walenyumandòn@
+@grave@|@kaburu@
+@gravel@|@bèlèkisè@
+@gravy@|@na@
+@gravy pot@|@nadaga@
+@Greece@|@Gèrèsi@
+@Greek@|@grèkikan@
+@green@|@binkènèman@
+@greet@|@fo@
+@greeting@|@folikan@
+@grey@|@bugurinjè@
+@grief@|@hami@
+@grieve@|@hami@
+@grill@|@jeni@
+@grilled meat@|@dibisogo@
+@grind@|@si@
+@grinding stone@|@wugu@
+@griot@|@jeli@
+@ground@|@dugu@
+@groundnut@|@tiga@
+@groundnut sauce@|@tigadègèna@
+@group@|@kulu@
+@grow@|@bugun@
+@grow up@|@wuli@
+@growl@|@gòròntò@
+@growth@|@jiidiya@
+@grudge@|@mònè@
+@gruel@|@mòni@
+@G-string@|@npogi@
+@guard@|@kòlòsi@
+@guava@|@buyaki@
+@guest house@|@dunanjiginso@
+@guide@|@bereminèbaa@
+@guilt@|@jalaki@
+@guilty person@|@hakètigi@
+@Guinea@|@Gine@
+@Guinea Bissau@|@Gine Bisawo@
+@guinea fowl@|@kami@
+@guinea fowl egg@|@kamifan@
+@guitar@|@gitari@
+@gum@|@nyintara@
+@gum disease@|@nyintaradimi@
+@gun@|@marifa@
+@half@|@tilancè@
+@hallelujah@|@aleluya@
+@hamlet@|@buguda@
+@hammer@|@marito@
+@hand@|@bolo@
+@handball@|@bololantola@
+@handful@|@tòròmòjò@
+@handle@|@kala@
+@handwriting@|@bololasèbènni@
+@hang@|@dulon@
+@happen@|@kè@
+@happiness@|@daamu@
+@hard@|@gèlènman@
+@harden@|@gèlèya@
+@hardship@|@nyèni@
+@hard-working@|@kìsè@
+@hare@|@sonsan@
+@haricot bean@|@tubabusiyò@
+@harvest@|@suman@
+@harvester@|@sumantigèla@
+@hat@|@banfula@
+@hate@|@koniya@
+@hatred@|@juguya@
+@Hausa@|@hawusakan@
+@have@|@bè ... fè@
+@have a good day@|@ka tile hèrè caya@
+@have a good night@|@ka su hèrè caya@
+@he@|@a@
+@he doesn't eat@|@a tè dumunikè@
+@he doesn't study@|@a tè kalankè@
+@he doesn't work@|@a te baarakè@
+@he is fine@|@tòòrò t'a la@
+@he is not living in New York@|@a sigilen tè New York@
+@head@|@kunkolo@
+@head of house@|@sotigi@
+@head of state@|@jamananyèmògò@
+@head towards@|@kunda@
+@headache@|@kunkolodimi@
+@headlight@|@faari@
+@headmaster@|@kalanyòròkuntigi@
+@headmistress@|@kalanyòròkuntigi@
+@headphones@|@lamènnikèlan@
+@headscarf@|@dankana@
+@headteacher@|@kalanyòròkuntigi@
+@heal@|@kènèya@
+@healing@|@kènèyali@
+@health@|@kènèya@
+@hear@|@mèn@
+@heart@|@dusu@
+@heat@|@goniya@
+@heaven@|@sankolo@
+@heavy@|@girin@
+@Hebrew@|@hèburukan@
+@hectare@|@tari@
+@hedgehog@|@jugunin@
+@height@|@kundama@
+@heir@|@ciyèntala@
+@heiress@|@ciyèntala@
+@helicopter@|@elikòpitèri@
+@hell@|@jahanama@
+@helmet@|@nègèfugula@
+@help@|@dèmè@
+@helper@|@dèmèbaa@
+@hen@|@sè@
+@hen house@|@kulukulu@
+@henhouse@|@sèso@
+@henna@|@jabi@
+@her@|@a@
+@herd@|@gèn@
+@herd of cows@|@misikulu@
+@herd of pigs@|@lèkulu@
+@here@|@yan@
+@hereafter@|@lahara@
+@hesitate@|@siga@
+@hide@|@dogo@
+@hide oneself@|@dogo@
+@high@|@jamanjan@
+@high temperature@|@farikalaya@
+@higher education@|@sanfèkalan@
+@Hijrah@|@Ijira@
+@hill@|@kulu@
+@hinder@|@bali@
+@hip@|@tògò@
+@hippo@|@mali@
+@his@|@a@
+@his name is Mark@|@a tògò Mark@
+@historian@|@tariku dònbaa@
+@history@|@ko kèlenw@
+@hit@|@bugò@
+@hoe@|@siyènnikèlan@
+@hole@|@dingè@
+@holiday@|@kònze@
+@holiness@|@senumaya@
+@holy@|@senuma@
+@holy day@|@donba@
+@holy man@|@mori@
+@Holy Spirit@|@Ni Senu@
+@home@|@gä@
+@homeland@|@faso@
+@Honduras@|@Hòndirasi@
+@honest@|@sèbè@
+@honey@|@di@
+@honour@|@danbe@
+@hoof@|@sen@
+@hope@|@jigi@
+@hopelessness@|@jigintanya@
+@horizontal line@|@ci dalen@
+@horn@|@pipi@
+@horse@|@so@
+@horse rider@|@sòtigi@
+@hospital@|@dògòtòròso@
+@hospitality@|@jatigiya@
+@host@|@jatigi@
+@hot@|@gan@
+@hot drink@|@kafe@
+@hotel@|@lotèli@
+@hour@|@nègè kannyè@
+@house@|@bon, so@
+@house guard@|@sokòlòsila@
+@household@|@somògòw@
+@how@|@cogo di@
+@how are the things?@|@kow ka nyi?@
+@how are you?@|@i bè di?@
+@how many@|@jòli@
+@how old are you?@|@i ye san joli ye?@
+@however@|@o bèè n'a ta@
+@huge@|@belebeleba@
+@hull@|@wòrò@
+@humble oneself@|@majigin@
+@humble person@|@yèrèmajiginlen@
+@humiliate@|@mafinyèya@
+@humiliation@|@mafinyèyali@
+@humility@|@yèrèmajiginlenya@
+@hundred@|@kèmè@
+@hundred fifty@|@keme ni biduuru@
+@hundred thirty@|@keme ni bi saba@
+@hunger@|@kòngò@
+@hunter@|@donsokè@
+@hunting@|@donsoya@
+@hurry@|@teliya@
+@hurt@|@digi@
+@husband@|@c'è@
+@husk@|@wòrò@
+@hut@|@bulon@
+@hyena@|@suruku@
+@hygene@|@saniya@
+@hymn@|@bèti@
+@hypocrisy@|@filankafoya@
+@I@|@n@
+@i am a teacher@|@n ye karamògò ye@
+@i am from Mali@|@n bè bò Mali la@
+@i am going home@|@n bè taa so@
+@i bathe@|@n bè n ko@
+@i don't bathe now@|@n tè n ko sisan@
+@i don't go to the office@|@n tè taa biro la@
+@i don't have a younger brother@|@dògòcè tè n fè@
+@i don't like coffee@|@n tè kafe fè@
+@i don't like French@|@n tè tubabukan fè@
+@i eat@|@n bè dumunikè@
+@i have two younger sisters@|@dògòmuso fila bè n fè@
+@i speak bambara a little bit@|@n bè bamanankan fò dòòni@
+@i speak little bit of Bambara@|@N bèbamanankan mèn dòòni-dòòni@
+@i study@|@n bè kalankè@
+@i want to rest@|@n b'a fè ka n lafiñè@
+@i work@|@n bè baarakè@
+@ice@|@jikuru@
+@idea@|@miiri@
+@identity card@|@bugunnatigèsèbèn@
+@idiot@|@naloma@
+@idol@|@boli@
+@idol worshipper@|@bolibatobaa@
+@idolator@|@bolibatobaa@
+@if@|@yala ni@
+@if not@|@n'o tè@
+@ignorance@|@kodònbaliya@
+@illiteracy@|@kunfinya@
+@illiterate@|@kalanbali@
+@i'm going to school@|@n bè taa lakoli la@
+@i'm hungry@|@kòngò bè n na@
+@i'm not hungry@|@kòngò tè n na@
+@i'm sleepy@|@sunògò bè n na@
+@i'm thirsty@|@minògò bè n na@
+@i'm thirty years old@|@n ye san bi saba ye@
+@i'm tired@|@n sègènnen don@
+@image@|@bisigi@
+@imagine@|@bisigi@
+@imam@|@alimami@
+@immediately@|@o yòrònin bèè@
+@immense@|@belebeleba@
+@immigrant@|@siginfè@
+@immorality@|@jatòya@
+@importance@|@nàfa@
+@improve@|@fisaya@
+@in addition@|@ka fara o kan@
+@in days gone by@|@fòlòfòlò@
+@in front of@|@nyè na@
+@in good health@|@kènè@
+@in order that@|@walisa@
+@in particular@|@kèrènkèrènnenya la@
+@in place of@|@nò na@
+@in the afternoon@|@wulafè@
+@in the beginning@|@fòlòfolo@
+@in the middle of@|@cèma@
+@in the morning@|@sògòmadafè@
+@in the past@|@folofolo, ka kòrò@
+@in the presence of@|@nyèkòrò@
+@in vain@|@fu@
+@incense@|@wusulan@
+@incite@|@kònònasu@
+@increase@|@bonya@
+@independence@|@hòrònya@
+@India@|@èndujamana@
+@indigo dye@|@galaji@
+@Indonesia@|@èndonezi@
+@infant baptism@|@denkundi@
+@infection@|@nyèdimi@
+@infidelity@|@kanntanya@
+@inflate@|@funun@
+@inform@|@kunnafoni@
+@information technology@|@ènfòrimatiki@
+@ingratitude@|@walenyumandònbaliya@
+@ingredient@|@nafèn@
+@inheritance@|@niyòrò@
+@injection@|@sògòli@
+@injure@|@jogin@
+@injured person@|@joginbaatò@
+@injustice@|@nanbara@
+@ink@|@lankiri@
+@in-law@|@buran@
+@inn@|@dunanjiginso@
+@innocent@|@jurumuntan@
+@insane person@|@fatò@
+@insanity@|@fa@
+@insect@|@fènnyènama@
+@insecticide@|@sosofagalan@
+@inside@|@kònò@
+@insolent@|@malobali@
+@install@|@sigi@
+@instead of@|@nò na@
+@institute@|@sigi@
+@insult@|@nenini@
+@integrity@|@tilennenya@
+@intelligent@|@kegun@
+@intention@|@nganiya@
+@intercessor@|@soronadonna@
+@interesting@|@di@
+@Internet@|@èntèrinèti@
+@interpreter@|@dalaminè@
+@interrogative@|@nyininkalan@
+@interrogative phrase@|@nyininkalikumasen@
+@intestine@|@nugu@
+@intoxication@|@nyènamini@
+@introduce@|@jira@
+@introduction@|@daminè kuma@
+@investigate@|@fèsèfèsè@
+@investigation@|@sègèsègèli@
+@invisible@|@yebali@
+@invite@|@wele@
+@Iraq@|@Iraki@
+@iron@|@pase@
+@iron cooking pot@|@nègèdaga@
+@ironing@|@paseli@
+@irritate@|@tòòrò@
+@is your father fine?@|@i fa ka kènè?@
+@is your mother fine?@|@i ba ka kènè?@
+@Isa@|@Isa@
+@Islam@|@silamèdiinè@
+@Islamic law@|@silamèsariya@
+@Islamic school@|@madarasa@
+@island@|@gun@
+@it@|@a@
+@IT@|@ènfèrimatiki@
+@Italian@|@Italiden@
+@Italy@|@Itali@
+@it's cold@|@nènè bè@
+@it's hot@|@funteni bè@
+@it's not hot@|@funteni tè@
+@jackal@|@kungowulu@
+@jacket@|@wèsiti@
+@jail@|@kaso@
+@January@|@zanwuye@
+@Japan@|@Zapòn@
+@jaundice@|@sayi@
+@Javel@|@zaweliji@
+@javelin@|@tama@
+@javel's water@|@zaweliji@
+@jaw@|@dakala@
+@jealous@|@kele@
+@jealousy@|@keleya@
+@jembe drum@|@jenbe@
+@Jew@|@Yahutu@
+@jewellery@|@masiri@
+@job@|@baara@
+@jockey@|@sobolila@
+@join@|@sègèrè@
+@joke@|@tulonkèkuma@
+@journey@|@taama@
+@joy@|@nyagali@
+@Judaism@|@Yahutuya@
+@judge@|@kiiritigèla@
+@judgement@|@kiri@
+@judgement day@|@kiridon@
+@judo@|@zido@
+@July@|@zuluye@
+@jump@|@pan@
+@jump about@|@pan-pan@
+@junction@|@sirakunbèn@
+@June@|@zuwèn@
+@junkie@|@dòrògutala@
+@just@|@tilennen@
+@Ka'aba@|@alikaaba@
+@Kapok tree@|@bana@
+@Kassonké@|@kasònka@
+@Kayes@|@Kayi@
+@keep@|@mara@
+@kenya@|@keniya@
+@kerosene@|@peteròli@
+@kettle@|@selidaga@
+@key@|@konnègè@
+@kg@|@kilo@
+@kick@|@tan@
+@kid@|@baden@
+@kid (goat)@|@bageren@
+@kidal@|@kidali@
+@kill@|@faga@
+@killer@|@mògòfagala@
+@kilogramme@|@kilo@
+@kilometre@|@kilomètèrè@
+@kind@|@sugu@
+@king@|@faama@
+@kingdom@|@masakèjamana@
+@kingship@|@masaya@
+@kitchen@|@gabugu, gwabugu@
+@kitten@|@jakumaden@
+@knee@|@kunbere@
+@kneel@|@nyòngiri@
+@knife@|@muru, natigèmuru@
+@knife blade@|@murukisè@
+@knife handle@|@murukala@
+@knock@|@kònkòn@
+@knock down@|@bìn@
+@knot@|@siri@
+@know@|@dòn@
+@knowledge@|@dònko@
+@kora@|@kòra@
+@korea@|@kore@
+@koulikoro@|@kulukòrò@
+@koutiala@|@kucala@
+@kuwait@|@kowèti@
+@labour@|@baarakèbolo@
+@lack@|@kò'li@
+@lack of appetite@|@dumunibaliya@
+@lack of hygiene@|@saniyabaliya@
+@lack of money@|@waridèsè@
+@lack of rain@|@sanjidèsè@
+@lack of respect@|@bonyabaliya@
+@ladder@|@yèlènyèlènnan@
+@ladel@|@galama@
+@lamb@|@sagasogo@
+@lamentation@|@manyumatòkan@
+@lamp@|@lanpan@
+@lance@|@tama@
+@land@|@jigin@
+@landing strip@|@pankurunjiginkènè@
+@language@|@kan@
+@lantern@|@lanpan@
+@lap@|@nèmu@
+@large town@|@galodugu@
+@last@|@tèmènen@
+@last year@|@salon@
+@last-born@|@sinnaban@
+@lather@|@kanga@
+@latrine@|@sutura@
+@laugh@|@yèlè@
+@laughter@|@yèlèkan@
+@law@|@sariya@
+@laziness@|@salaya@
+@lazy@|@kolon@
+@lazy person@|@salabaatò@
+@lead@|@nyèminè@
+@lead astray@|@lafili@
+@leader@|@nyèmaa@
+@leadership@|@nyèminèbaaya@
+@leaf@|@bulu@
+@lean@|@jèngèn@
+@learn@|@kalan@
+@learn by heart@|@durusi@
+@leather@|@wòlo@
+@leather worker@|@garankè@
+@leave@|@bila@
+@lebanese@|@surakanin@
+@left@|@numan@
+@left hand@|@numanbolo@
+@leg@|@sen@
+@legal@|@dagalen@
+@lemon@|@lenburu@
+@lend@|@singa@
+@length@|@janya@
+@lengthen@|@janya@
+@leper@|@kunatò@
+@leprosy@|@kuna@
+@lesson@|@kalansen@
+@let go@|@labila@
+@let go of@|@bila@
+@letter@|@bataki@
+@letter of alphabet@|@siginiden@
+@lettuce@|@salati@
+@lexicology@|@danyèkalan@
+@lexicon@|@danyègafe@
+@liana@|@nsaban@
+@liberate@|@hòrònya@
+@liberator@|@tilabaa@
+@liberia@|@liberiya@
+@liberty@|@hòrònya@
+@library@|@gafekalanyòrò@
+@libya@|@libi@
+@licence@|@yamaruyasèbèn@
+@lick@|@nèmu@
+@lid@|@datugulan@
+@lie@|@nkalon@
+@lier@|@nkalontigèla@
+@life@|@nyènamaya@
+@lift up@|@kòròta@
+@light@|@kènèbòlan@
+@light green@|@nuguji@
+@light weight@|@finye@
+@lightening@|@sanpèrèn@
+@lighter cigarette@|@birike@
+@like@|@i n'a fò@
+@like that@|@tèn@
+@lime@|@lenburu@
+@limit@|@dàn@
+@line@|@ci@
+@lineage@|@buruju@
+@linguist@|@kankodònna@
+@linguistics@|@kankodònniya@
+@lion@|@jara@
+@lip@|@dawolo@
+@liquid@|@jima@
+@list@|@lisi@
+@listen@|@lamèn@
+@listener@|@lamènnikèla@
+@listening@|@lamènni@
+@literacy@|@balikukalan@
+@literacy centre@|@balikukalanso@
+@litre@|@litiri@
+@little@|@misèn@
+@little by little@|@dòònin-dòònin@
+@live@|@balo@
+@live at@|@sigi@
+@liver@|@binye@
+@livestock farmer@|@baganmarala@
+@livestock farming@|@baganmara@
+@living@|@nyènama@
+@lizard@|@basa@
+@load@|@doni@
+@loaf of bread@|@nbuurukun@
+@local@|@duguden@
+@lock@|@sògò@
+@locust@|@ntòn@
+@log@|@jirikuru@
+@london@|@lònduru@
+@long@|@jàn@
+@long ago@|@fòlòfòlò@
+@look@|@filè@
+@look at@|@lajè@
+@look behind@|@kòfilè@
+@look for@|@nyini@
+@look like@|@bò ... fè@
+@look towards@|@sin@
+@lord@|@matigi@
+@lorry@|@kamiyòn@
+@lose@|@tunun@
+@lose weight@|@fasa@
+@lot@|@caman@
+@lottery@|@loteri@
+@loud speaker@|@kankòròtalan@
+@love@|@kanu@
+@lover@|@sungurun@
+@luck@|@kunna@
+@luggage@|@minèn@
+@lunch@|@tilelafana@
+@lung@|@fogonfogon@
+@lute@|@ngòni@
+@luxembourg@|@likisanburu@
+@macaroni@|@makòròni@
+@machete@|@bese@
+@machine@|@mansin@
+@mad@|@fatò@
+@madagascar@|@madagasikari@
+@madman@|@fatò@
+@madness@|@fa@
+@magazine@|@gafe@
+@magic spell@|@kilisi@
+@magic water@|@nasiji@
+@magician@|@jinèmori@
+@magistrate@|@sariyatigi@
+@magnifying glass@|@bonyalan@
+@mahogany@|@jala@
+@maize@|@kàba@
+@make@|@dilan@
+@make a mistake@|@fili@
+@make an effort@|@jija@
+@make clear@|@jè@
+@make easy@|@nògòya@
+@make fun of@|@nyagaribò@
+@make joyful@|@nisòndiya@
+@make known@|@gansi@
+@make pleasing@|@diya@
+@maker@|@dilabaa@
+@malaria@|@sumaya@
+@malaysia@|@malèsi@
+@male@|@c'è@
+@mali@|@mali@
+@malian@|@maliden@
+@malnutrition@|@balodèsè@
+@man@|@cè, maa, mògò@
+@manage@|@mara@
+@manding@|@mandenkan@
+@manger@|@waaro@
+@mango@|@mangoro@
+@mango tree@|@mangorosun@
+@manhood@|@cèya@
+@manioc@|@bananku@
+@many@|@caman@
+@marabout@|@mori@
+@march@|@marisi@
+@mare@|@sòmuso@
+@mark@|@nò@
+@mark doesn't speak bambara@|@mark tè bamanankoan fò@
+@mark is 25 years old@|@mark ye san mugan ni duuru ye@
+@mark is a volunteer@|@mark ye wolònteri ye@
+@mark is going to the office@|@mark bè taa biro la@
+@mark is living in Gao@|@mark sigilen bè Gao@
+@Mark is not from Mali@|@Mark tè bò Mali la@
+@market@|@sugu@
+@market day@|@dògòdon@
+@market place@|@sugufyè@
+@mark's wife is a student@|@mark muso ye kalanden ye@
+@marriage@|@furu@
+@marriage ceremony@|@kònyò@
+@marriage certificate@|@furusèbèn@
+@marriage chamber@|@kònyòso@
+@marriage intermediary@|@furusentigi@
+@married@|@furulen@
+@marrow@|@jë@
+@marry@|@furu@
+@marvelous@|@kabakoma@
+@mask@|@masiki@
+@mason@|@masòn@
+@massage@|@digi-digi@
+@master@|@makè@
+@mat@|@dèbèn@
+@match@|@takala@
+@maternity hospital@|@musojiginso@
+@matter@|@ko@
+@mature@|@kògò@
+@mauritania@|@moritani@
+@mauritius@|@ilimorisi@
+@may@|@mè@
+@may we have a good night@|@k'an kelen kelen wuli, ka dugu ñuman je@
+@maybe@|@lala@
+@mayonnaise@|@mayònezi@
+@mayor@|@mèrè@
+@me@|@n@
+@meal@|@fana@
+@meaning@|@kòrò@
+@means@|@fè'èrè@
+@means of transport@|@bolifèn@
+@measles@|@nyònin@
+@measure@|@suma@
+@meat@|@sogo@
+@mecca@|@makan@
+@medicine@|@fura@
+@medium@|@hakè@
+@meet@|@kunbèn@
+@meeting@|@lajèli@
+@melon@|@melòn@
+@member of parliament@|@depite@
+@memorize@|@durusi@
+@memory@|@hakili@
+@men@|@cèw@
+@meningitis@|@kanjabana@
+@menstruation@|@laada@
+@mental arithmetic@|@kunnajate@
+@mental illness@|@jinèbana@
+@merchandise@|@feerekèfèn@
+@merchant@|@jula@
+@merciful@|@makaritigi@
+@merciless@|@makaribali@
+@mercury@|@mèrèkiri@
+@mercy@|@makari@
+@merit@|@ka kan ni ... ye@
+@message@|@ci@
+@messenger@|@ciden@
+@metal@|@nègè@
+@metal sheet@|@tòli@
+@method@|@fè'èrè@
+@metre@|@mètèrè@
+@metric ton@|@tòni@
+@micro-credit bank@|@nyèsigiso@
+@microphone@|@kumabaranin@
+@midday@|@tilesekuncè@
+@middle@|@cèmancè@
+@middle finger@|@bolokòni jan@
+@midnight@|@dugutila@
+@midwife@|@jiginnimuso@
+@milk@|@nònò@
+@milk breast@|@sinji@
+@milk powdered@|@nònòmugu@
+@mill@|@nyòsilan@
+@millet@|@nyò@
+@millet beer@|@nyòdòlò@
+@millimeter@|@milimètèrè@
+@million@|@miliyòn@
+@minaret@|@mirabu@
+@mind@|@hakili@
+@minibus@|@sotarama@
+@minister@|@minisiri@
+@ministry@|@minisiriso@
+@miniyanka@|@minyankakan@
+@mint@|@nanaye@
+@minus sign@|@tiirinin@
+@minute@|@miniti@
+@minyanka@|@mamara@
+@miracle@|@kabako@
+@misery@|@faantanya@
+@misfortune@|@jahadi@
+@miss@|@jè'@
+@mission@|@cidenya@
+@missionary@|@ciden@
+@mistake@|@hàkè@
+@mistress@|@mamuso@
+@mix@|@nyagami@
+@mixed-race person@|@metisi@
+@mock@|@nyagaribò@
+@mockery@|@nyagari@
+@mohammed@|@mahamadu@
+@moment@|@sanga@
+@monday@|@ntènen, ntènèn, tènèn@
+@money@|@wari@
+@monkey@|@bubunin@
+@monogamous man@|@musokelentigi@
+@month@|@kalo@
+@mood@|@nisòn@
+@moon@|@kalo@
+@moonlight@|@kalojè@
+@moor@|@suraka@
+@mop@|@jòsi@
+@moped@|@mobilèti@
+@mopti@|@moti@
+@moral@|@ladamuni@
+@morning@|@sògòma@
+@morocco@|@maròku@
+@morpheme@|@kumaden@
+@mortar@|@kòlon@
+@mosque@|@misiri@
+@mosquito@|@soso@
+@mosquito net@|@sanke@
+@mother@|@ba, ma, mama, mama@
+@mother tongue@|@todunkan@
+@mothers@|@denbaw@
+@motive@|@kün@
+@motor@|@motèrè@
+@motorbike@|@moto@
+@motto@|@dasirikan@
+@mould@|@mulu@
+@mountain@|@kulu@
+@mouse@|@nyinè@
+@moustache@|@dasi@
+@mouth@|@da@
+@move@|@yèlèma@
+@move away@|@sòbò@
+@move towards@|@madon@
+@movie@|@siniman@
+@movie theater@|@sinimanso@
+@much@|@ca@
+@mucus@|@nunji@
+@mud@|@pòtòpòtò@
+@muddy@|@bògòma@
+@muezzin@|@misiriwelela@
+@muhammad@|@mahamadu@
+@mule@|@faliba@
+@multiplication@|@sigiyòròmali@
+@multiply@|@bugun@
+@mum@|@mama@
+@murder@|@mògòfaga@
+@murderer@|@mògòfagala@
+@muscle@|@bu@
+@mush up@|@nòòni@
+@music@|@fòli@
+@musical instrument@|@fòlifèn@
+@musician@|@fòlikèla@
+@muslim@|@selibaa, silamè@
+@must@|@kan@
+@mustard@|@mutarde@
+@mute@|@bobo@
+@mutton@|@sagasogo@
+@my@|@n@
+@my family@|@n ka denbaya@
+@my last name is Jalo@|@N jamu Jalo@
+@my name is Bubakar@|@n tògò Bubakar@
+@my wife is from Mauritania@|@n muso bè bò Mauritanie@
+@my wife isn't a teacher@|@n muso tè karamògò ye@
+@mystery@|@gundo@
+@nail@|@pònti@
+@nail clippers@|@sònitigèlan@
+@nail to@|@gengen@
+@naked@|@farilankolon@
+@name@|@tògò@
+@name giving ceremony@|@denkundi@
+@nape@|@tònbara@
+@narrow@|@dògòman@
+@nasal vowel@|@nunadafalen@
+@nasalisation@|@nunnafòli@
+@nasalise@|@nunnafò@
+@nastiness@|@juguya@
+@nation@|@siya@
+@national language@|@fasokan@
+@near to@|@kèrè fè@
+@necessary@|@kan@
+@necessity@|@wajibi@
+@neck@|@kan@
+@need@|@mago@
+@needle@|@miseli@
+@neighbour@|@siginyògòn@
+@nest@|@nyaga@
+@net@|@jò'@
+@netherlands@|@peyiba@
+@never@|@abada@
+@nevertheless@|@o bèè n'a ta@
+@new@|@kura@
+@new zealand@|@nuwèli zelandi@
+@newborn baby@|@denkura@
+@news@|@kibaru@
+@newspaper@|@kunnafonisèbèn@
+@next@|@nata@
+@next to@|@kère fe@
+@ngo@|@kènyèrèyejèkulu@
+@niamey@|@nyamè@
+@niger@|@nizèri@
+@niger river@|@joliba@
+@nigeria@|@nizeriya@
+@night@|@su@
+@nile perch@|@salen@
+@nine@|@kònòntòn@
+@nineteen@|@tan ni kònòntòn@
+@ninety@|@bi, bikònòntòn, kònòntòn@
+@ninth@|@kònòntònnan@
+@no@|@ayi@
+@no trouble@|@tòòro tè@
+@noble@|@hòròn@
+@noise@|@mankan@
+@none@|@si@
+@noon@|@tile@
+@noone@|@mògò si@
+@noproblems at all@|@tòòro si tè@
+@north@|@saheli@
+@northern@|@saheliyanfan@
+@norway@|@nòriwèzi@
+@nose@|@nun@
+@nostalgia@|@nyènafin@
+@nostril@|@nunwo@
+@not well@|@u man nyi@
+@not yet@|@fòlò@
+@notebook@|@kaye@
+@nothing@|@foyi@
+@nought@|@fu@
+@noun@|@tògò@
+@nourish@|@balo@
+@november@|@nowanburukalo@
+@now@|@sisan@
+@nudity@|@lankolonya@
+@number@|@nimòrò@
+@numeral@|@hakèjatelan@
+@nurse@|@furakèla@
+@nursery@|@denmarayòrò@
+@nylon@|@nilòn@
+@oar@|@jufa@
+@oath@|@kalili@
+@obedience@|@kanminèli@
+@obey@|@kolo@
+@object@|@minèn@
+@objective@|@kün@
+@obligation@|@wajibi@
+@oblige@|@karaba@
+@observation@|@filèli@
+@obstacle@|@kunbalan@
+@obtain@|@sò'rò@
+@obtuse angle@|@selekeba@
+@occupation@|@baara@
+@ocean@|@kògòjiba@
+@october@|@òkutòburukalo@
+@offence@|@hàkè@
+@offend@|@baga@
+@offender@|@hakèkèla@
+@offer@|@ni@
+@offering@|@nilifèn@
+@office@|@biro, cakèda@
+@official@|@faama@
+@oil@|@tulu@
+@oil lamp@|@fitinè@
+@ok@|@ayiwa@
+@old@|@kò'rò@
+@old age@|@cèkòròbaya@
+@old person@|@mògòkòròba@
+@old woman@|@musokòròba@
+@older brother@|@korò@
+@older person@|@mògòkòròba@
+@oman@|@omani@
+@on@|@sanfè@
+@on the ground@|@duguma@
+@one@|@kelen@
+@one by one@|@kelen-kelen@
+@one thousand@|@wa kelen@
+@one-way ticket@|@taali dòròn@
+@onion@|@jàba@
+@onion sauce@|@jabaji@
+@only@|@dama@
+@open@|@dayèlè@
+@opener@|@dayèlèlan@
+@operate on@|@opere@
+@operation@|@opereli@
+@opinion@|@hakilinan@
+@oppress@|@degun@
+@or@|@walima@
+@orange@|@lenburuba@
+@orchard@|@jiriforo@
+@ordinary@|@gansan@
+@organisation@|@nyènabòli@
+@organize@|@nyènabò@
+@organizer@|@nyènabòbaa@
+@ornament@|@masiri@
+@orphan@|@fàntan@
+@orthography@|@sèbèncogo@
+@ostrich@|@kònòsogonin@
+@otherwise@|@n'o tè@
+@ouagadougou@|@wagadugu@
+@our@|@an@
+@outdoors@|@kènèma@
+@outside@|@kènèma@
+@outsider@|@siginfè@
+@overtake@|@tèmè@
+@own@|@bè ... fè@
+@owner@|@ma@
+@ox@|@misi@
+@ox-plough@|@misidaba@
+@oxygen@|@nigazi@
+@packet@|@pake@
+@pact@|@layidu@
+@paddle@|@jufa@
+@paddy field@|@maloforo@
+@padlock@|@gogoro@
+@page@|@gafefura@
+@pagne@|@taafe@
+@pain@|@dimi@
+@paint@|@pèntiri@
+@pakistan@|@pakisitan@
+@palace@|@palè@
+@palm@|@tègè@
+@palm tree@|@ban@
+@palm wine@|@banji@
+@pane of glass@|@witiri@
+@pants@|@kulusi@
+@papaya@|@manje@
+@paper@|@sèbèn@
+@papers@|@sèbènw@
+@parable@|@ntalen@
+@paradise@|@alijènè@
+@paraffin@|@peteròli@
+@parakeet@|@solo@
+@paralyse@|@jà@
+@paralysed person@|@nabara@
+@parasol@|@tilebènnan@
+@parent@|@bangebaa@
+@parents@|@bangebaw@
+@paris@|@pari@
+@parliament@|@sariyatabulon@
+@particular@|@kèrènkèrènlen@
+@partridge@|@wòlò@
+@party@|@fèti@
+@pass@|@tèmè@
+@passenger@|@mobilikònòmògò@
+@passer-by@|@tèmènbagatò@
+@passion@|@jarabi@
+@passover@|@tèmènkan@
+@passport@|@taamasèbèn@
+@past@|@tèmènen@
+@pasta@|@makòròni@
+@pastor@|@pasitèri@
+@patch@|@bari@
+@path@|@sira@
+@patience@|@munyuli@
+@patisserie@|@patiseri@
+@paw@|@sen@
+@pay@|@sara@
+@pay attention@|@janto@
+@peace@|@hèrè@
+@peace only@|@hèrè dòròn@
+@peanut@|@tiga@
+@peanut butter@|@tigadègè@
+@peanut field@|@tigaforo@
+@peanut oil@|@tigatulu@
+@peanut sauce@|@tigadègèna@
+@peanut shell@|@tigafara@
+@pebble@|@gòngòrò@
+@peck@|@sogin@
+@pedal@|@pedali@
+@pedestrian@|@sennamògò@
+@peel@|@wòrò@
+@pen@|@biki, sèbènnikèlan@
+@penalty@|@penaliti@
+@pencil@|@kiriyòn@
+@penknife@|@karilimuru@
+@pepper@|@fyèfyè@
+@percentage@|@kèmèsarada@
+@percussion instrument@|@fòlifèn gosita@
+@perfect@|@dafalen@
+@perfume@|@latikòlòn@
+@perhaps@|@lala@
+@period@|@kuntaala@
+@permission@|@labilali@
+@permit@|@labila@
+@permitted@|@dagalen@
+@perseverance@|@munyuli@
+@person@|@tigi@
+@perspiration@|@wòsiji@
+@perspire@|@wòsi@
+@pesticide@|@bagaji@
+@pestle@|@kolonkala@
+@petrol@|@esansi@
+@peul@|@fula@
+@pharmacist@|@furafeerela@
+@pharmacy@|@furafeereyòrò@
+@phonetics@|@mankankalan@
+@phonology@|@kannyèkalan@
+@photo@|@ja@
+@photographer@|@jatala@
+@phrase@|@kumasen@
+@physician@|@furakèla@
+@pick@|@kari@
+@pick up@|@tòmò@
+@picture@|@ja@
+@pierce@|@sògò@
+@pig@|@lè@
+@piglet@|@lèden@
+@pile@|@sara@
+@pile up@|@ton@
+@pilgrim@|@hijiden@
+@pilgrimmage@|@hiji@
+@pill@|@furakisè@
+@pillow@|@kunkòròdonnan@
+@pilot@|@pankurunbolila@
+@pineapple@|@jàbibi@
+@pink@|@bilenman@
+@pip@|@kolo@
+@pity@|@hinè@
+@place@|@sigiyòrò@
+@place of worship@|@alabatoyòrò@
+@plain@|@kènèba@
+@plait@|@fugan@
+@plan@|@fè'èrè@
+@planet@|@tile nòfèdolo@
+@plank@|@jirinin@
+@plant@|@turu@
+@plantain@|@baranda@
+@plantation@|@jiriforo@
+@plastic@|@manama@
+@plastic bag@|@mana@
+@plate@|@asèti, asiyèti@
+@plateau@|@tintinba@
+@play@|@fò, kòtèba@
+@play at@|@bò@
+@playing cards@|@marasi@
+@pleasant@|@diya@
+@pleasure@|@diyanye@
+@plough@|@buluku@
+@plug@|@kurantayòrò@
+@plural marker@|@cayalan@
+@pneumonia@|@disidimi@
+@pocket@|@dufa@
+@pocketknife@|@karilimuru@
+@poem@|@poyi@
+@point@|@bìnyè@
+@point of view@|@hakilinan@
+@poison@|@baga@
+@poke@|@nyòni@
+@police@|@polisi@
+@police officer@|@polisi@
+@police station@|@zandaramaso@
+@policeman@|@zandarama@
+@polio@|@senfagabana@
+@poliomyelitis@|@senfagabana@
+@polish@|@nùgu@
+@polite@|@ladamunèn@
+@political party@|@politikitòn@
+@politician@|@politikimògò@
+@politics@|@politiki@
+@polygamist@|@musocamantigi@
+@poor@|@bolokolon@
+@poor person@|@sègènbaatò@
+@pope@|@papa@
+@population@|@jama@
+@porcupine@|@bàla@
+@pork@|@lèsogo@
+@port@|@pòri@
+@porter@|@donitala@
+@portion@|@ta@
+@portugal@|@pòritigali@
+@position@|@jòyòrò@
+@possess@|@be... fe@
+@possessed by spirit@|@jinètò@
+@possessions@|@bolofèn@
+@post office@|@pòsiti, posu@
+@post office box@|@batakikèsu@
+@postposition@|@kòbila@
+@pot@|@daga@
+@potash@|@sègè@
+@potato@|@kòmitèrè@
+@pothole@|@dingèdingènin@
+@potion@|@furaji@
+@poultry@|@sokònòkònò@
+@pound@|@cògòri@
+@pounding@|@susuli@
+@pour@|@suuru@
+@pour out@|@bòn@
+@poverty@|@faantanya@
+@powder@|@mugu@
+@power@|@sebaaya@
+@powerful@|@barikama@
+@powerlessness@|@barikantanya@
+@praise@|@barama@
+@praise singer@|@jeli@
+@pray@|@deli@
+@prayer@|@delili@
+@prayer beads@|@kòlòsi@
+@prayer mat@|@selidèbèn@
+@preach@|@waajuli kè@
+@preacher@|@waajulikèla@
+@preaching@|@waajuli@
+@predestination@|@nakan@
+@prefer@|@fisaya@
+@prefix@|@nyènòrò@
+@pregnancy@|@kònòmaya@
+@pregnant@|@kònòma@
+@preparation@|@labènni@
+@prepare@|@dilan@
+@prepare oneself@|@labèn@
+@prescription@|@furasansèbèn@
+@present@|@mò@
+@preserve@|@lasago@
+@president@|@jamanatigi, peresidan@
+@presidential election@|@jamanakuntigisigikalata@
+@press@|@digi@
+@pretty@|@cènyi@
+@prevent@|@kènyè@
+@price@|@da@
+@prickle@|@jolo@
+@pride@|@kuncèbaya@
+@priest@|@murukalatigi@
+@priesthood@|@sarakalasebaaya@
+@primary school@|@dugumakalan@
+@prime minister@|@minisirinyèmògò@
+@prince@|@masaden@
+@printers@|@gafedilanyòrò@
+@prison@|@kaso@
+@prisoner@|@kasolamògò@
+@private sector@|@kènyèrèye@
+@problem@|@baasi@
+@proclamation@|@welewele@
+@profit@|@tònò@
+@program@|@porogaramu@
+@progress@|@nyèfètaali@
+@project@|@poroze@
+@promise@|@layidu@
+@pronoun@|@nònabila@
+@pronunciation@|@fòcogo@
+@proper noun@|@tògòjè@
+@prophecy@|@kiraya@
+@prophet@|@nabi@
+@prosper@|@sabati@
+@prosperity@|@nyèsuma@
+@prostitute@|@sungurunba@
+@prostitution@|@sungurunbaya@
+@protect@|@tanga@
+@protection@|@marali@
+@protestant@|@porotèsitan@
+@proud person@|@kuncèbaa@
+@proverb@|@ntalen@
+@province@|@màra@
+@provoke@|@bila@
+@prune@|@Gana@
+@pruritus@|@farinyènyè@
+@psalm@|@zaburu@
+@public@|@foroba@
+@public announcement@|@welewele@
+@public school@|@forobalakòli@
+@public sector worker@|@forobabaarakèla@
+@public square@|@fèrè@
+@publicity@|@gansilisèbèn@
+@publish@|@gansi@
+@pull@|@sama@
+@pull down@|@bìn@
+@pull out@|@labò@
+@pump@|@pònpe, ponpu@
+@punctuation mark@|@jòlan@
+@puncture@|@sògò@
+@punish@|@nyangi@
+@pupil@|@lakòliden@
+@puppy@|@wuluden@
+@purchase price@|@sanda@
+@pure@|@yèrèyèrè@
+@purification@|@saniyali@
+@purify@|@saniya@
+@pursue@|@nògèn@
+@push@|@digi@
+@put into@|@don@
+@put into practice@|@waleya@
+@put to bed@|@lada@
+@python@|@mininyan@
+@quadrilateral@|@selekenaani@
+@quadruped@|@sennaanimafèn@
+@quantity@|@hakè@
+@quarrel@|@kèlè@
+@queen@|@masamuso@
+@question@|@nyininkali@
+@question mark@|@nyininkalitomi@
+@questioner@|@nyininkalikèla@
+@questionnaire@|@nyininkalisèbèn@
+@quick@|@teli@
+@quickly@|@joona@
+@quietly@|@dògòdògònin@
+@quinine@|@kinini@
+@qur'an@|@kuranè@
+@qur'anic school@|@morikalan@
+@rabbit@|@sonsan@
+@rabid@|@fatò@
+@rabies@|@fa@
+@race@|@nyògòndan@
+@racism@|@siyawoloma@
+@racist@|@siyawolomala@
+@radio@|@arajo@
+@radio station@|@arajoso@
+@radio-cassette recorder@|@arajomanyeto@
+@rag@|@finikolon@
+@rags@|@fèèrè@
+@railroad@|@nègèsira@
+@railway@|@nègèsira@
+@rain@|@san@
+@rainy season@|@samiya@
+@raise from the dead@|@lakunun@
+@ram@|@sagajigi@
+@rapid@|@teli@
+@rapidity@|@teliya@
+@rat@|@nyinè@
+@ravine@|@folon@
+@read@|@kalan@
+@reading@|@kalanjè@
+@real@|@sèbè@
+@reason@|@kün@
+@reasonable@|@fisa@
+@rebel@|@murutilen@
+@rebellion@|@murutili@
+@rebuke@|@kòròfò@
+@receive@|@sòrò@
+@recently@|@kòsa in na@
+@recreation@|@nyènajè@
+@rectangle@|@selekenaani@
+@red@|@bilenman@
+@redeem@|@kunmabò@
+@redeemer@|@kunmabòbaa@
+@redemption@|@kunmabòli@
+@reduce@|@dògòya@
+@reflect@|@taasi@
+@reflection@|@hakilijakabò@
+@refuse@|@ban@
+@region@|@màra@
+@register@|@tógòwelekaye@
+@registration@|@tògòsèbèn@
+@regret@|@nimisa@
+@regulations@|@tòn@
+@rehydration salts@|@keneyaji@
+@reinforce@|@sabati@
+@rejoice@|@nyagali@
+@rejoicing@|@nagali@
+@religion@|@diinè@
+@religious leader@|@diinnyèmògò@
+@remain@|@to@
+@remedy@|@saraka@
+@remind@|@jigin@
+@remove@|@bò@
+@renew@|@kuraya@
+@rent@|@luwanse@
+@repair@|@dilan@
+@repent@|@nimisa@
+@repentance@|@nimisa@
+@representative@|@lasigiden@
+@reprimand@|@lagosi@
+@reptile@|@fofofèn@
+@request@|@delili@
+@research@|@nyènyinini@
+@resentment@|@mònè@
+@reserve@|@maloya@
+@resolution@|@nyaniya@
+@respect@|@bonya@
+@rest@|@lafiya@
+@restaurant@|@dumunikèyòrò@
+@resurrection@|@kununni@
+@return@|@kòseginni@
+@return ticket@|@taanikasegin@
+@reveal oneself@|@jira@
+@revelation@|@jirali@
+@revision@|@seginkanni@
+@rib@|@galakakolo@
+@rice@|@malo@
+@rice grower@|@malosènèna@
+@rice plantation@|@maloforo@
+@rich man@|@nafolotigi@
+@rich person@|@baana@
+@riches@|@nafolo@
+@riddle@|@ntalen@
+@ride@|@boli@
+@right@|@kinin@
+@right angle@|@selekemankan@
+@righteous@|@tilennen@
+@righteousness@|@tilennenya@
+@ring@|@kasi@
+@riot@|@balawu@
+@rip@|@fara@
+@ripe@|@mòlen@
+@ripen@|@lamò@
+@rise@|@funun@
+@rise from the dead@|@kunun@
+@risk@|@farati@
+@river@|@baji, kò'@
+@river bank@|@dankan@
+@road@|@sira@
+@road accident@|@sirakankasara@
+@roadside@|@sirada@
+@roar@|@gòròntò@
+@roast@|@jeni@
+@robber@|@binkannikèla@
+@rock@|@fara@
+@rocky@|@farama@
+@role@|@jòyòrò@
+@roll@|@kolonkolon@
+@roll up@|@meleke@
+@roof@|@bili@
+@room@|@soden@
+@rooster@|@dononkòrò@
+@root@|@dili@
+@rope@|@juru@
+@roselle juice@|@dabilenni@
+@rot@|@toli@
+@roundabout@|@sirakunbèn@
+@route@|@sira@
+@rub@|@tereke@
+@rubber@|@manama@
+@rubbish@|@nyaman@
+@rubbish tip@|@nyamanton@
+@rude@|@malobali@
+@ruin@|@tinyè@
+@ruins@|@tomon@
+@rule@|@tòn@
+@ruler@|@tiiricilan@
+@ruling@|@sariya@
+@run@|@boli@
+@run here and there@|@boli-boli@
+@runner@|@bolikèla@
+@running@|@boli@
+@runway@|@pankurunjiginkènè@
+@ruse@|@fèèrè@
+@rush@|@girin@
+@russian@|@irisi@
+@rust@|@nson@
+@rwanda@|@uruwanda@
+@sabre@|@npan@
+@sack@|@bòrò@
+@sacrifice@|@sònni@
+@sadden@|@nyènasisi@
+@sadness@|@nenasisi@
+@sahel region@|@sahelikungo@
+@sailor@|@kurunbolila@
+@saint@|@waliju@
+@salary@|@sara@
+@saliva@|@daji@
+@salt@|@kògò, kòkò@
+@salvation@|@kisili@
+@same@|@kelen@
+@sand@|@cèncèn@
+@sand dune@|@cèncènkulu@
+@sandal@|@sabara@
+@sandwich@|@sandiwisi@
+@sarakole@|@maraka@
+@satan@|@sitanè@
+@satchel@|@npalan@
+@satisfaction@|@wàsa@
+@satisfy@|@wasa@
+@saturday@|@sibiri, sibiridon@
+@sauce@|@na@
+@saudi arabia@|@sawudiya@
+@savannah@|@bintu@
+@save@|@tila@
+@saviour@|@kisibaa@
+@say@|@fo@
+@scab@|@fàra@
+@scabbard@|@foron@
+@scales@|@sumanikèlan@
+@scare@|@lasiran@
+@scatter@|@seri@
+@school@|@kalanso, lakoli, lise@
+@school bell@|@lakòlinègè@
+@school teacher@|@lakòlikaramògò@
+@science@|@dònniya@
+@scissors@|@kèmèsu@
+@scorpion@|@nkòsòn@
+@scotland@|@ekòsi@
+@scratch@|@siyèn@
+@scream@|@kulo@
+@screw@|@wisi@
+@scrub@|@tereke@
+@sculptor@|@jiridèsèla@
+@sculpture@|@jiridèsè@
+@sea@|@geji@
+@search@|@nyini@
+@seasoning@|@nafèn@
+@seat@|@sigilan@
+@second@|@filanan@
+@secret@|@gundo@
+@secretary@|@sèbènnikèla@
+@section@|@sigida@
+@see@|@yeli kè@
+@see you@|@k'an bèn@
+@see you around noon@|@k'an bèn tilefè@
+@see you in the afternoon@|@k'an ben wulafè@
+@see you in the morning@|@k'an ben sògòma@
+@see you later@|@k'an bèn kòfè@
+@see you soon@|@k'an ben sòòni@
+@see you tomorrow@|@k'an bèn sinin@
+@seed@|@si@
+@seer@|@filèlikèla@
+@segou@|@segu@
+@seize@|@minè@
+@self@|@yèrè@
+@self control@|@yèrèminèli@
+@self-protection@|@yèrètanga@
+@sell@|@feere@
+@seller@|@feerekèla@
+@selling price@|@feereda@
+@semantics@|@kòròkalan@
+@semi-colon@|@tomi ni nkòri@
+@send@|@ci@
+@senegal@|@senegali@
+@sense@|@kuntilenna@
+@sentence@|@kumasen@
+@separate@|@woloma@
+@separate from@|@fara@
+@september@|@sètanburukalo@
+@serious@|@sèbè@
+@sermon@|@waaju@
+@serpent@|@sa@
+@servant@|@jòn@
+@sesame@|@bènè@
+@sesame oil@|@bènètulu@
+@set free@|@hòrònya@
+@set right@|@tilen@
+@seven@|@wolonwula@
+@seventeen@|@tan ni wolonfila@
+@seventh@|@wolonwulanan@
+@seventy@|@bi wolonfila, biwolonfila@
+@several@|@damadò@
+@severe@|@seware@
+@sew@|@kala@
+@sewing machine@|@kalalikèlan@
+@sex@|@cènimusoya@
+@sexual intercourse@|@cènimusoya@
+@shadow@|@ja@
+@shake@|@firi-firi@
+@shame@|@maloya@
+@shameless@|@malobali@
+@share@|@niyòrò@
+@sharia@|@silamèsariya@
+@shave@|@di@
+@she doesn't have an elder bro@|@kòròcè t'a fè@
+@she is going to the toilet@|@a bè taa ñègèn na@
+@shea@|@sisun@
+@shea butter@|@situlu@
+@shea nut@|@kòlò@
+@sheath@|@foron@
+@sheep@|@saga@
+@sheet@|@dara@
+@shell@|@wòrò@
+@shepherd@|@gènna@
+@shield@|@nègèbènnan@
+@shine@|@kènèbò@
+@shirt@|@doloki, dulòki@
+@shoe@|@samara@
+@shoemaker@|@garankè@
+@shoes@|@sabara@
+@shop@|@butigi, butiki@
+@shopping@|@sanni@
+@short@|@surun@
+@shorten@|@surunya@
+@shoulder@|@kamakun@
+@shout@|@kulo@
+@shovel@|@pèlu@
+@show@|@yira@
+@shower area@|@nyègèn@
+@shyness@|@malo@
+@sibling@|@balima@
+@sick person@|@banabaatò@
+@sickle@|@wòlòsò@
+@sickness@|@bana@
+@siege@|@daga@
+@sierra leone@|@siyera lewòni@
+@sieve@|@teme@
+@sift@|@tèntèn@
+@sight@|@nyè@
+@sign@|@taamasiyèn@
+@signature@|@bolonò@
+@signboard@|@pilaki@
+@significance@|@kuntilenna@
+@sikasso@|@sikaso@
+@silly person@|@naloma@
+@silver@|@warijè@
+@similar@|@bònyògònko@
+@simple@|@gansan@
+@sin@|@hàkè@
+@since@|@kabini@
+@sincere@|@sèbè@
+@sing@|@dònkili da@
+@singapore@|@sèngapuri@
+@singer@|@dònkilidala@
+@single@|@cèganan, musoganan@
+@sinless@|@jurumuntan@
+@sinner@|@hakèkèla@
+@sirop@|@siro@
+@sister@|@balima, dògòmuso@
+@sister older@|@kòròmuso@
+@sit@|@sigi@
+@six@|@wòòrò@
+@sixteen@|@tan ni wòòrò@
+@sixth@|@wòòrònan@
+@sixty@|@bi wòòrò, biwòòrò@
+@size@|@kundama@
+@skeleton@|@kolojalan@
+@sketch@|@tiyatiri@
+@skin@|@wòrò@
+@skin disease@|@kàba@
+@skinning@|@wòròli@
+@sky@|@san@
+@sky-scraper@|@sojanba@
+@slate@|@walannin@
+@slaughterhouse@|@baganfagayòrò@
+@slave@|@jònkè@
+@slave master@|@jònkuntigi@
+@slavery@|@jònya@
+@sleep@|@sunògò@
+@sleeping pill@|@sunògòfura@
+@sleeping sickness@|@sunògòbana@
+@slide@|@cèènè@
+@slim@|@misèn@
+@slip@|@ceene@
+@slippers@|@muke@
+@slow@|@suma@
+@slowly@|@dòònin-dòònin@
+@small@|@dògò@
+@smallest@|@dògòmannin@
+@smell@|@kasa@
+@smile@|@yèlè@
+@smoke@|@wusu@
+@smooth@|@nùgu@
+@snake@|@sa@
+@sneeze@|@tiso@
+@snore@|@gòròntò@
+@snow@|@nèzi, niegei@
+@snuffbox@|@npètè@
+@so@|@o tuma@
+@so that@|@hali@
+@soak@|@nyigin@
+@soap@|@safunè@
+@soap powder@|@safunèmugu@
+@soccer@|@ntolatan@
+@socialism@|@sosiyalisimu@
+@sock@|@susèti@
+@soft@|@magan@
+@soil@|@nògò@
+@solder@|@sude@
+@soldier@|@sòròdasi@
+@solidity@|@girinya@
+@solution@|@fura@
+@somalia@|@somali@
+@some@|@dòw@
+@someone@|@mogo@
+@son@|@denke@
+@song@|@donkili@
+@soninké@|@marakakan@
+@soninke ethnic group@|@maraka@
+@sonrhaï ethnic group@|@koroboro@
+@sonrhaï language@|@koroborokan@
+@soon@|@sooni@
+@sore@|@joli@
+@sorghum@|@nyo@
+@sorrow@|@nyenasisi@
+@sort@|@suguya@
+@sotrama@|@sotarama@
+@sotrama driver@|@sotaramabolila@
+@soul@|@ni@
+@sound@|@kan@
+@soup@|@naji@
+@sour@|@kumu@
+@source@|@bununda@
+@south@|@worodugu@
+@south africa@|@afirikidisidi@
+@southern@|@woroduguyanfan@
+@sow@|@lemuso@
+@sower@|@dannikela@
+@spagetti@|@sipageti@
+@spain@|@esipanyi@
+@spare part@|@minen@
+@sparkle@|@manamana@
+@speak@|@kuma@
+@speak to@|@kanto@
+@spectacles@|@nuneti@
+@speech-impaired person@|@bobo@
+@speed@|@teliya@
+@spell@|@kilisi@
+@spend the day@|@tilen@
+@spend time@|@ke@
+@spicy@|@farin@
+@spike@|@bìnye@
+@spill@|@bon@
+@spin@|@munu@
+@spindle@|@jene@
+@spine@|@jolo@
+@spinning@|@paratali@
+@spirit@|@ni@
+@spit out@|@tu@
+@spoil@|@tinye@
+@sponge@|@josilan@
+@spoon@|@kutu@
+@sport@|@farikolonyenaje@
+@spread@|@fense@
+@sprinkle@|@seri-seri@
+@spy@|@kolajebaa@
+@square metre@|@meterekene@
+@squat@|@sonsoro@
+@staircase@|@yelenyelennan@
+@stairs@|@yèlènyèlènnan@
+@stake@|@bolo@
+@stalk@|@kala@
+@stallion@|@soke@
+@stamp@|@tenburu@
+@stand up@|@jo@
+@standard language@|@kanje@
+@standing@|@jolen@
+@star@|@dolo@
+@start@|@damine@
+@start up@|@wuli@
+@state@|@faso@
+@state school@|@forobalakoli@
+@statue@|@jirimogonin@
+@stay@|@to@
+@stay a long time@|@men@
+@steal@|@sonya@
+@steamboat@|@sisikurun@
+@stem@|@kala@
+@stereo@|@arajomanyeto@
+@sterile@|@bangebali@
+@stick@|@noro@
+@stifle@|@degun@
+@sting@|@ncon@
+@stir@|@lamaga@
+@stitch@|@kala@
+@stock cube@|@najinin@
+@stomach@|@konobara@
+@stomach ache@|@konodimi@
+@stone@|@gongoro@
+@stone of fruit@|@kolo@
+@stony@|@farama@
+@stool@|@kurun, sigilan@
+@stop@|@lajo@
+@stork@|@baninkònò@
+@story@|@maana@
+@stove@|@furuno@
+@straight@|@tilennen@
+@straight line@|@ci tilennen@
+@straighten@|@tilen@
+@stranger@|@dunan@
+@stratagem@|@fèèrè@
+@stream@|@kò'@
+@street@|@kare@
+@strength@|@barika@
+@strengthen@|@sabati@
+@strengthening@|@sabatili@
+@stretch@|@mòònòbò@
+@stretch out@|@yankan@
+@striker@|@bidonna@
+@string@|@juru@
+@string instrument@|@fòlifèn juruma@
+@strip@|@wòrò@
+@strong@|@fòròlen@
+@struggle@|@kèlè@
+@student@|@kalanden@
+@study@|@kalan@
+@stumble@|@talon@
+@stump@|@gungurun@
+@stupidity@|@hakiligoya@
+@submit@|@kolo@
+@subscription@|@bakurubasanni@
+@subtraction@|@dòbòli@
+@succeed@|@sabati@
+@success@|@sanga@
+@suck@|@min@
+@sudan@|@sudan@
+@sudanic region@|@sudankungo@
+@suffering@|@ñèni@
+@suffice@|@bo@
+@sufficient@|@ñènama@
+@suffix@|@kònòrò@
+@sugar@|@sukaro@
+@sugar cane@|@timikala@
+@suicide@|@yèrèfaga@
+@suit@|@minè@
+@suitcase@|@walisi@
+@summit@|@kuncè@
+@sun@|@tile@
+@sunday@|@bankari, kari@
+@sunglasses@|@tilenuneti@
+@sunset@|@tilebin@
+@support@|@ntuloma@
+@suppose@|@bisigi@
+@sura@|@sura@
+@surface@|@kene@
+@surgeon@|@dògòtòròba@
+@surname@|@jamu@
+@surprise@|@bàla@
+@surround@|@lamini@
+@surrounding area@|@lamini@
+@Susan has an elder sister@|@kòròmusoi bè Suzan fè@
+@swallow@|@kunu@
+@swarm of bees@|@didenkulu@
+@swarm of locusts@|@ntònkulu@
+@swear@|@kali@
+@sweat@|@wòsiji@
+@sweden@|@siwèdi@
+@sweep@|@fura@
+@sweeping@|@furali@
+@sweet@|@takalagòmi@
+@sweet potato@|@woso@
+@sweetcorn@|@kàba@
+@swell@|@funun@
+@swim@|@nòn@
+@swimmer@|@nònnikèla@
+@swimming@|@nònni@
+@swimming pool@|@pisini@
+@switzerland@|@suwisi@
+@sword@|@npan@
+@syllable@|@kanñè@
+@synagogue@|@Alabatoso@
+@syria@|@siri@
+@tabaski@|@seliba@
+@table@|@tabali@
+@table football@|@babi@
+@table merchant@|@tabalitigi@
+@tablet@|@furakisè@
+@taboo@|@tana@
+@tactic@|@feere@
+@tail@|@kukala@
+@taiwan@|@tayiwani@
+@take@|@hòn@
+@take away@|@bòsi@
+@take care of@|@janto@
+@tale@|@nsiirin@
+@talisman@|@bàgan@
+@tall@|@jamanjan@
+@tamarind@|@ntomi@
+@tamasheq@|@burudamè, tamasèkikan@
+@tambourine@|@ntama@
+@tap@|@worobinè@
+@tap water@|@worobinèji@
+@tarmac road@|@gudòròn@
+@task@|@kèta@
+@taste@|@nènè@
+@tasty@|@di@
+@taxes@|@nisòngò@
+@taxi@|@takisi@
+@taxi driver@|@takisibolila@
+@tea@|@atayi@
+@tea glass@|@teminwèrè@
+@tea towel@|@jòsilan@
+@teach@|@ladege@
+@teacher@|@karamògò@
+@teaching@|@lakalanni@
+@teapot@|@baradaa@
+@tear@|@fara@
+@teat@|@sin@
+@telephone@|@nègèjuru@
+@telephone line@|@nègèjurusira@
+@telescope@|@bonyalanba@
+@television@|@tele@
+@tell@|@lakali@
+@temperature@|@goniyahakè@
+@temple@|@alabatosoba@
+@tempt@|@nègèn@
+@tempter@|@kòròbòlikèla@
+@ten@|@tan@
+@tenant@|@luwanse@
+@tent@|@finiso@
+@tenth@|@tannan@
+@termite@|@bubaga@
+@termite mound@|@bubagaso@
+@terrorist@|@terorisi@
+@test@|@kòròbò@
+@testicle@|@kili@
+@testimony@|@seereya@
+@testing@|@koroboli@
+@tetanus@|@jangòyi@
+@text@|@masalabolo@
+@thank@|@tanu@
+@thanks@|@foli, saha@
+@that@|@o@
+@the afternoon@|@wula@
+@the morning@|@sògòma@
+@the night@|@su@
+@theatre@|@tiyatiri@
+@theft@|@sonyali@
+@their@|@u@
+@theme@|@dakun@
+@there@|@yen@
+@therefore@|@o de kama@
+@thermometer@|@gonitalan@
+@these@|@ninnu@
+@they@|@u@
+@they are fine@|@tòòrò t'u la@
+@thicken@|@fasa@
+@thief@|@nson@
+@thigh@|@woro@
+@thin@|@fasa@
+@thing@|@ko@
+@things are well@|@u ka nyi dooni@
+@things to do@|@ko ketaw@
+@think@|@miiri@
+@thinking@|@miirili@
+@third@|@sabanan@
+@thirst@|@minnogo@
+@thirty@|@bi saba, bisaba@
+@this@|@nin@
+@this year@|@ñinan@
+@thorn@|@mgòni@
+@thought@|@miiri@
+@thoughts@|@miirili@
+@thousand@|@ba@
+@thread@|@gaari@
+@three@|@saba@
+@thresh@|@gòsi@
+@thriteen@|@tan ni saba@
+@throne@|@masasigilan@
+@throw-in@|@bololafili@
+@thumb@|@bolokòni kunba@
+@thunder@|@sanpèrènkan@
+@thursday@|@alamisa@
+@ticket@|@biye@
+@ticket office@|@biyetayòrò@
+@tie@|@siri@
+@tilt@|@jèngèn@
+@timbuktu@|@tumutu@
+@time@|@tuma@
+@timidity@|@maloya@
+@tin@|@buwati@
+@tire@|@segen@
+@tiredness@|@sègèn@
+@tithe@|@jaka@
+@to@|@mà@
+@to be directed towards@|@ñèsin@
+@toad@|@ntori@
+@tobacco@|@sira@
+@today@|@bi@
+@toe@|@senkòni@
+@together@|@ñògòn fè@
+@togo@|@togo@
+@toilet@|@ñègèn@
+@tomato@|@tamati@
+@tomato paste@|@logoti@
+@tomb@|@kaburu@
+@tomorrow@|@sini@
+@tone@|@kanhakè@
+@tongue@|@nèn@
+@too much@|@kojugu@
+@tool@|@minèn@
+@tooth@|@ñin@
+@tooth decay@|@sumu@
+@toothbrush@|@gese@
+@torch@|@mòñòn@
+@tortoise@|@koorokaara@
+@total@|@kasabi@
+@totem@|@tana@
+@touch@|@maga@
+@tourism@|@turisimu@
+@tournament@|@ñògòndan@
+@towards@|@ye@
+@towel@|@jòsilan@
+@town@|@duguba@
+@town hall@|@meri@
+@toy@|@tulonkèfèn@
+@track@|@nò@
+@trade@|@jago@
+@trade language@|@jagokèkan@
+@trader@|@jula@
+@tradition@|@laada@
+@traditional healer@|@farafindògòtòrò@
+@train@|@tèrèn@
+@train journey@|@tèrènnataama@
+@train station@|@tèrèn gari@
+@training@|@degeli@
+@traitor@|@janfanci@
+@transform@|@bayèlèma@
+@transformation@|@bayelemali@
+@translate@|@yelema@
+@translation@|@bayelemali@
+@translator@|@bayèlèmabaga@
+@transplant@|@turu@
+@transport costs@|@pase@
+@travel@|@taama@
+@travel bag@|@dugutaanpalan@
+@traveller@|@taamaden@
+@travelling companion@|@taamañògòn@
+@treachery@|@janfa@
+@treason@|@janfali@
+@treasure@|@nafolo@
+@treasurer@|@warimarabaa@
+@treat@|@furakè@
+@treatment@|@furakèli@
+@tree@|@jiri@
+@tremble@|@yèrèyèrè@
+@trial@|@kòròbòli@
+@triangle@|@kèrèsaba@
+@tribe@|@siya@
+@trick@|@lafili@
+@trim@|@Gana@
+@trip@|@talon@
+@tropical country@|@funtenimajamana@
+@trouble@|@kojugu@
+@trousers@|@pantalòn@
+@truck@|@kamiyòn@
+@true@|@sèbè@
+@trumpet@|@buru@
+@trumpet call@|@burukan@
+@trunk@|@wagande@
+@trust@|@dannaya@
+@truth@|@tìñè@
+@try@|@lajè@
+@try hard@|@jija@
+@tse-tse fly@|@lèn@
+@tuberculosis@|@sògòsògòninjè@
+@tuesday@|@tarata@
+@tunisia@|@tunizi@
+@turban@|@jalamugu@
+@turkey@|@kulokulo@
+@turn@|@munu@
+@turn around@|@munumunu@
+@turn off@|@faga@
+@turning@|@sirafara@
+@tv@|@tele@
+@twelve@|@tan ni fila@
+@twenty@|@mugan@
+@twilight@|@fitiri@
+@twin@|@filanin@
+@two@|@fila@
+@two thousand@|@wa fila@
+@type@|@sifa@
+@tyre@|@pinè@
+@udder@|@sin@
+@uganda@|@uganda@
+@ukraine@|@ukèrèni@
+@umbrella@|@sanjibènnan@
+@un@|@diñèforobatònba@
+@unbelief@|@dannabaliya@
+@unbeliever@|@kafiri@
+@unboiled@|@wulibali@
+@uncircumcised@|@bolokobali@
+@uncircumcised person@|@bolokobali@
+@uncle@|@bènkè@
+@uncooked@|@kènè@
+@under@|@koro@
+@underneath@|@jukòrò@
+@understand@|@mèn@
+@understanding@|@faamuli@
+@unemployed person@|@baarantan@
+@unending@|@banbali@
+@unfaithfulness@|@kanntanya@
+@unique@|@kelenpe@
+@unite@|@jè'@
+@united nations@|@diñèforobatònba@
+@unity@|@kelenya@
+@universe@|@duniya@
+@university@|@kalansoba@
+@unleavened@|@fununbali@
+@unless@|@fò@
+@unroll@|@walawala@
+@unseen@|@yebali@
+@untie@|@foni@
+@until@|@fo@
+@unwashed@|@kobali@
+@uprightness@|@tilennenya@
+@urine@|@sugunè@
+@us@|@an@
+@usefulness@|@nàfa@
+@useless@|@kolon@
+@utensil@|@minèn@
+@uterus@|@denso@
+@vacation@|@kònze@
+@vaccinate@|@boloci@
+@vaccination card@|@bolociseben@
+@vanity@|@yerejira@
+@vegetation@|@falenfenw@
+@vehicle@|@bolifen@
+@vein@|@jolisira@
+@venerate@|@bato@
+@venom@|@baga@
+@veranda@|@ga@
+@verb@|@wale@
+@verse@|@werese@
+@vertebra@|@kokoloden@
+@vertical line@|@ci jolen@
+@very much@|@haali@
+@vet@|@bagandogotoro@
+@victor@|@setigi@
+@victory@|@se@
+@vietnam@|@wiyètinamu@
+@village@|@dugu@
+@villager@|@dugulen@
+@vinegar@|@winègiri@
+@viper@|@fònfònnin@
+@virgin@|@npogotigi@
+@virginity@|@npogotigiya@
+@visa@|@wisa@
+@visible@|@yeta@
+@vision@|@jiralifèn@
+@visitor@|@dunan@
+@vitamin@|@witamini@
+@volcano@|@takulu@
+@vomit@|@fòònò@
+@vote@|@kalafili@
+@voter@|@wotekèla@
+@voting card@|@kalatasèbèn@
+@vow@|@dafalen@
+@vowel@|@dafalen@
+@vulture@|@dùga@
+@wages@|@sara@
+@wagon@|@wotoro@
+@wahabite@|@wahabiya@
+@wait for@|@kò'nò@
+@wake up@|@kunun@
+@walk@|@yaala@
+@wall@|@kogo@
+@wander@|@yaala@
+@want@|@be ... fe@
+@war@|@kèlè@
+@warm up@|@wòlòkò@
+@warn@|@lasòmi@
+@warning@|@lasòmili@
+@warrior@|@kèlècèfarin@
+@was the day peaceful?@|@hèrè tilenna?@
+@was the night peaceful?@|@hèrè sira?@
+@wash@|@kò@
+@washing board@|@jirinin@
+@waste@|@tiñè@
+@watch@|@mònturu@
+@watch out@|@kòlòsi@
+@water@|@ji@
+@water carrier@|@jitala@
+@water pot@|@jifiñèn@
+@water seller@|@jitigi@
+@watering@|@sònni@
+@watering can@|@arosuwari@
+@watermelon@|@nsèrè@
+@wave@|@jikuru@
+@way@|@sira@
+@way of life@|@balocogo@
+@we@|@an@
+@wealth@|@nafolo@
+@wear@|@don@
+@weaver@|@gesedala@
+@weaving@|@dali@
+@wedding@|@furusiri@
+@wednesday@|@araba@
+@weed@|@bín@
+@weed killer@|@binfagalan@
+@week@|@dògòkun@
+@weigh@|@suma@
+@weighing scales@|@sumanikèlan@
+@weight@|@girinya@
+@welcome@|@aw bisimila, bonya, i bisimila@
+@weld@|@sude@
+@welder@|@sudelikèla@
+@well@|@ko'lon@
+@well water@|@kòlònji@
+@west@|@tilebin@
+@western@|@tilebinyanfan@
+@wet@|@ñigin@
+@what@|@mùn@
+@what is your name?@|@i tògò?@
+@what's your last name?@|@i jamu?@
+@wheat@|@alikama@
+@wheel@|@sen@
+@wheelbarrow@|@bureti@
+@when@|@ni@
+@where@|@min@
+@where are you from?@|@i bè bò min?@
+@where are you going?@|@i bè taa min?@
+@Where is my room?@|@N dayoro bè min?, N ka sunogoyoró bè min?@
+@Where is the bar?@|@Dòlo minyoro bè min?, Minyoro bè min?@
+@Where is the beach?@|@Bada bè min?, Kòda bè min?@
+@whether@|@yala ni@
+@which@|@jumèn@
+@while@|@ka ... to ...@
+@whip@|@gèñè@
+@whirlwind@|@fununfunun@
+@whisky@|@wisiki@
+@whistle@|@filenin@
+@white@|@jèman@
+@white man@|@tubabukè@
+@white person@|@farajè@
+@whiteboard@|@tabulo@
+@whiten@|@jè@
+@who@|@jòn@
+@whole@|@mumè@
+@why@|@munna@
+@widow@|@muso-cè-salen@
+@wife@|@furumuso@
+@wild animal@|@wara@
+@wild boar@|@kungolè@
+@will@|@sago@
+@wind@|@fiñè@
+@wind instrument@|@fòlifèn fiyèta@
+@window@|@finètiri@
+@wine@|@diwèn@
+@wing@|@kama@
+@wink@|@ñèkòmi@
+@winnow@|@fiyè@
+@wipe@|@jòsi@
+@wisdom@|@hakilitigiya@
+@wise person@|@hakilitigi@
+@wish@|@sago@
+@witch@|@soma, subaga@
+@witchcraft@|@suya@
+@with@|@fè@
+@wither@|@fòsònfòsòn@
+@without@|@ni ... tè@
+@witness@|@seereya@
+@woman@|@muso@
+@womb@|@dèbè@
+@women@|@musow@
+@wonder@|@kabakoya@
+@wonderful@|@kabakoma@
+@wood@|@yiri@
+@wood cutter@|@jiritigèla@
+@wooden@|@jirilama@
+@wool@|@sagasi@
+@word@|@kuma@
+@word game@|@dañèlatulon@
+@work@|@baara@
+@worker@|@baaraden@
+@working place@|@baarakèyòrò@
+@workplace@|@cakèda@
+@workshop@|@baarakèyòrò@
+@world@|@diñè@
+@world cup@|@kupidimòndi@
+@world war@|@alimankèlè fòlò@
+@worm@|@ntumu@
+@worry@|@hamina, jòrèli@
+@worship@|@batoli@
+@worshipper@|@batobaa, batokela@
+@worthless@|@fu@
+@wound@|@joginda, joli@
+@wounded person@|@joginbaatò@
+@wrap@|@meleke@
+@write@|@sèbèn@
+@writer@|@sebenbaa, sèbènnikèla@
+@writing@|@sèbènni@
+@wrong@|@gasi, hàkè@
+@xylophone@|@bala@
+@yam@|@ku@
+@yawn@|@haalo@
+@year@|@san@
+@yeast@|@fununnan@
+@yell@|@pèrèn@
+@yellow@|@mugu, neremugu, nèrèmuguman@
+@yes@|@òwò@
+@yesterday@|@kunùn@
+@yesterday night@|@su rò@
+@yogurt@|@yawuru@
+@yoke@|@zu@
+@you@|@aw, i@
+@young man@|@kamalen@
+@young woman@|@musomisèn@
+@younger brother@|@dògòcè@
+@younger sister@|@dògòmuso@
+@your@|@i@
+@your skirt is yellow@|@i ka kulosi ye jauni ye, i ka kulosi ye neremuguman ye@
+@youth@|@denmisènya@
+@zaire@|@zayiri@
+@zambia@|@zanbi@
+@zero@|@fu@
+@zimbabwe@|@zinbawe@
+@zoo@|@warabaso@
+

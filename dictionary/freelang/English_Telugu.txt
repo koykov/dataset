@@ -1,0 +1,848 @@
+@English@|@Telugu@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a@|@oka@
+@a beer; please@|@daya chesi oka beer istara@
+@a blow@|@ãtu@
+@a brave man@|@ur_iya@
+@a child@|@patti@
+@a dark alley@|@oni-kattu@
+@a disputatious person@|@penapari@
+@a dry measure@|@adda@
+@a fall@|@patu@
+@a flood@|@par_ada, par_ata, par_ati, par_ava@
+@a funeral pile@|@oliki@
+@a grain-pit@|@pãt-ar@
+@a kind of bird@|@par_ika@
+@a kind of drum@|@pamba@
+@a kind of honey bee@|@perayïga@
+@a low ground@|@paduva@
+@a lump@|@ada@
+@a pitfall@|@pátampi@
+@a range@|@ogi@
+@a row@|@oja@
+@a royal tiger@|@bebbuli@
+@a run@|@parugu, paruvu, parvu@
+@a screen@|@addu@
+@a secret@|@olavu@
+@a shed@|@paadali@
+@a shelter@|@olamu@
+@a shield@|@addanamu@
+@a sort of ear-ring@|@ontu@
+@a sort of ornament@|@patteda@
+@a stair@|@padi-kattu@
+@a start@|@adiri-pãtu@
+@a stone@|@paduku@
+@a stroke@|@adupu@
+@a struggle@|@penãgu, penãkuva@
+@a total@|@ot't'u@
+@acridity@|@or_r_a@
+@action or the verb@|@kriya@
+@adopted@|@pempudu@
+@adoption of a child@|@pempakamu@
+@affection@|@perima@
+@agreeableness@|@oppidamu@
+@air@|@gali, vayuvu@
+@Alstonia scholaris@|@palagaruda@
+@an impudent@|@pengke@
+@an oath@|@ottu@
+@an upper garment@|@olliya@
+@and@|@mariyu@
+@angel@|@devaduta@
+@animal@|@jamtuvu, prani@
+@anklet@|@pendäramu, pendemu, pendëramu@
+@ant@|@chima@
+@anvil@|@patteda, pattika@
+@apple@|@kaya, pamdu@
+@arm@|@bahuvu, bhujamu, cheyyi@
+@army@|@pálemu@
+@arrogance@|@adatu@
+@arrow@|@ambu, banamu@
+@ash@|@bhasmamu, budide@
+@astringent taste@|@ogaru@
+@attention@|@pattimpu@
+@autumn@|@akulu rale kalamu, mudo butuvu, pamdla kalamu@
+@axe@|@goddali@
+@back@|@peda@
+@back of the head@|@pedatala@
+@backyard of a house@|@pedalu@
+@bad@|@chedu@
+@bandy legs@|@panggati-kaallu@
+@bank@|@addakatta@
+@bar@|@baar@
+@bar of spar of wood@|@patte@
+@bark@|@patta, pattamu@
+@barley@|@barlibiyyamu@
+@base@|@panda@
+@basin for water@|@pádi, pádu@
+@battle@|@padhava@
+@be alarmed@|@adalu, adalu, pelukur_u@
+@be patient@|@orucu@
+@be pounded as rice@|@danggu, dhanggu@
+@beach@|@biich@
+@bear@|@bhallukamu, eluggoddu@
+@beautiful girl@|@chiluka@
+@beauty@|@oppamu@
+@become@|@agu@
+@bed@|@paduka, par_upu@
+@bedding@|@pakka@
+@bee@|@teniga@
+@beer@|@birusarayi@
+@belt of gold worn by women@|@oddanamu@
+@bent@|@ora@
+@bezel which fastens a stone@|@ommaccu@
+@bier@|@pade@
+@big@|@peddadaina@
+@Bignonia chelonoides@|@paadiri@
+@bird@|@paksi, pitta@
+@blade of pickaxe@|@palugu@
+@blood@|@netturu, raktamu@
+@boat@|@done, padava@
+@body@|@dehamu, odalu, ollu, šariramu@
+@boiled rice@|@ogiramu, oremu, oviramu@
+@bond@|@pena@
+@bone@|@asti, yemuka@
+@book@|@pustakamu@
+@boy@|@paducudu, pãpãdu@
+@brahman@|@pár_üdu, par_uta, par_utakka, par_uvãdu@
+@branch@|@paya@
+@bread@|@rotte@
+@break with nippers@|@ottu@
+@bridge@|@netuva, vamtena, varadhi@
+@broad@|@par_apu, parapu@
+@brother@|@sahodaradu, todabuttinavadu@
+@bubo@|@odise-gadda, vadise-gadda@
+@bull@|@vrsabhamu, yeddu@
+@butterfly@|@akuchilaka, sitakokachilaka@
+@cake@|@panneramu, panyaaramu@
+@came@|@vachaaru@
+@camel@|@vomte@
+@can you give me your pen?@|@neevu nee kalamu ivvagalava?@
+@can you lift the box?@|@neevu  ee pette yethagalava?@
+@can you write the exam?@|@neevu pariksha vraayagalava?@
+@candle@|@anaga, vatti@
+@cat@|@pilli@
+@cause to flow@|@parapu@
+@caution@|@padilamu@
+@certain measure of capacity@|@par_r_a@
+@cheek@|@champa, davada@
+@cheese@|@junnugadda, marinni@
+@cherish@|@omu@
+@cherry@|@pamdu, vaka taraha yerrani@
+@child@|@bidda, paduchu, paida, pápa, pilla, pillakaya@
+@chin@|@gaddamu chabukamu@
+@chintz-printing@|@addakamu@
+@chutney@|@paccadi@
+@cloud@|@mabbu, meghamu, meyilu@
+@coal@|@rati boggu@
+@coffee@|@kaphi@
+@come@|@ra@
+@command@|@pancu@
+@commander of an army@|@padavlu@
+@commission@|@pani, panucu@
+@concealment@|@dagurinta, dapana@
+@congealing@|@pérudu@
+@consent@|@oppudala@
+@contempt@|@r_occu, roccu@
+@contract@|@oppandamu@
+@convenience@|@ontimpu@
+@cool wind@|@payyara@
+@copper@|@ragi, tamramu@
+@coral@|@pagadamu, pavadamu@
+@corn@|@pairu@
+@cotton@|@dudi, patti@
+@cow@|@avu, govu@
+@crawl@|@paaru@
+@crevice@|@padaku@
+@crooked@|@or_ava@
+@crosswise@|@addamugã@
+@crow@|@kaki@
+@cry@|@or_alu@
+@curds@|@perügu@
+@daughter@|@komarte, kuturu, kuturu, pilla@
+@day@|@dinamu@
+@daytime@|@pagalu, pavalu@
+@death@|@chavu, maranamu@
+@decoration of red paint@|@oru@
+@defeat@|@otami, otamu@
+@desert@|@adavi, marubhumi@
+@destruction@|@pádhu@
+@dictionary@|@nighamtuvu, šabdamamjari@
+@did you have your lunch?@|@neevu bojhanam chesava?@
+@different@|@palu@
+@disagreement@|@ontami@
+@disgust@|@rõta@
+@distribution@|@pampakamu@
+@divide@|@pancu@
+@do a ridge along the boundary@|@accu kattu sëyu@
+@do you love me?@|@nuvvu nannu premisthunnaava?@
+@do you speak ...@|@meru...matadutara?@
+@do you speak english?@|@miru english matladatara?@
+@dog@|@kukka@
+@donkey@|@data, tyagi, yichchevadu@
+@Don't hear his word@|@A ta ni ma ta vi na va ddu@
+@don't touch me there!@|@nannu akkada muttukovaddu, nannu akkada taakoddu@
+@drill-plough@|@gor_r_u@
+@drink@|@tragatam@
+@drop@|@bimdu, bottu, chinuku, kanamu@
+@duck@|@dïnipumju, potti bãtu@
+@dwelling place@|@pattu@
+@eagle@|@garutmamtudu, güli, paksirãju, panta-gadda@
+@eagle (1)@|@rã-bandu@
+@ear@|@chevi, karnamu@
+@eat@|@thinu@
+@eceive@|@dägurincu@
+@edge@|@ora@
+@egg@|@amdamu, guddu@
+@eight@|@enimidi@
+@eighty@|@enubadi@
+@elders@|@perddal@
+@elegance@|@odikamu@
+@elephant@|@ënugu@
+@enemies@|@pagadãri, pagar_u@
+@enemy@|@kãnivãdu, pagavãdu, šatruvu, vairi, virödhi@
+@enemy (1)@|@pagatudu, pagavãdu, pavatudu@
+@english@|@anglamu@
+@enmity@|@ontaramu, paga@
+@entrust@|@commit@
+@entry in an account@|@paddu@
+@entwine@|@pénu@
+@equality@|@pati@
+@essence@|@pasika@
+@evacuation of the bowels@|@paacanamu, paasanamu@
+@evening@|@sãyamkãlamu@
+@exceeding@|@adanamu@
+@excess@|@peccu@
+@excessive@|@adi-@
+@excessiveness@|@attamu, pellu@
+@excuse me@|@nannu kshaminchandi@
+@exterior@|@payi@
+@external surface@|@pai@
+@eye@|@kannu, löchanamu@
+@face@|@mukhamu@
+@family@|@kutumbamu, samsäramu, vamšamu@
+@fasting@|@pastu@
+@father@|@nanna, tamdri@
+@fear@|@beduru, bhayamu, digulu, ota, samdëhamu, šamka@
+@female buffalo@|@bar_r_e, padda@
+@female calf@|@peya, peyya@
+@festival@|@panduga@
+@fifty@|@-badi, ebadi@
+@finger@|@amgulamu, vëlu@
+@fire@|@agni, nippu@
+@fish@|@chëpa, matsyamu@
+@fish called 'old wife'@|@pára-mïnu@
+@five@|@aidu@
+@flayed@|@oliyu@
+@flea@|@minnalli, tullupurugu@
+@flour@|@nükalu, pimdi@
+@flower@|@puspamu@
+@fomenting@|@ottadamu@
+@foot@|@adugu, pädamu@
+@footstep@|@adugu@
+@for the sake of@|@patti@
+@forest@|@paduva@
+@forked@|@panggati@
+@forked branch of a tree@|@pangga@
+@forty@|@naluvadi@
+@foster@|@pencu@
+@foulness@|@pãci, prãci@
+@four@|@nalugu@
+@fox@|@gumtanakka, komkanakka@
+@french@|@french@
+@friend@|@chelikädu, sakhudu, snahitudu, snëhitudu, snëhiturälu@
+@fright@|@adãvadi@
+@frog@|@kappa, mamdükamu@
+@fuck off@|@denge bay@
+@gaining@|@padapu@
+@garden@|@tötamäli, tötavadu@
+@garden bed@|@paadi, paadu@
+@girdle@|@odi-kattu@
+@girl@|@paducu@
+@glance@|@páruva@
+@gleanings of corn@|@par_iga@
+@glitteringly@|@palapala@
+@go@|@vellu@
+@goat@|@ajamu, mëka@
+@gold@|@bamgäru, kanakamu, paidi, pasidi, payidi, svarnamu@
+@gold bracelets for children@|@ottulu@
+@good@|@manchi@
+@good afternoon@|@namaskaramulu@
+@good evening@|@namaskaramulu, subha sayantram@
+@good morning@|@shubhodayam, subha prathakalam@
+@good night@|@shubha ratri@
+@goodbye@|@velli vastaanu, vellosta@
+@goose@|@pedda bä?tu@
+@grandeur@|@périma@
+@grass@|@pasirika@
+@great@|@pedda, péru@
+@greatness@|@pellidamu, pelucana, pemme, perime, périmi@
+@green@|@paccana, pachchani@
+@grief@|@adaru@
+@grow@|@pambu@
+@grow up@|@pergu, perugu, perügu, peruvu, pervu@
+@growth@|@perügudu@
+@guest@|@abhyägatudu, atithi@
+@hair@|@römamu, vemtruka@
+@half of a fanam@|@adduga@
+@halter for cattle@|@palupu@
+@hand@|@cheyyi, hastamu, karamu@
+@happen@|@olayu, patillu@
+@harmony@|@orima@
+@have dyed@|@addincu@
+@having become@|@ayi@
+@he@|@atanu@
+@he ate an apple@|@athanu apple thinnaadu@
+@he eats an apple@|@athanu apple thintadu@
+@he goes@|@athanu velthadu@
+@he had come@|@athanu vachaadu@
+@he had eaten@|@athanu tinaadu@
+@he had gone@|@athanu vellaadu@
+@he has eaten@|@athanu thinesadu@
+@he is eating an apple@|@athanu apple thintunaadu@
+@he will come@|@athanu vasthaadu@
+@he will eat@|@athanu thintaadu@
+@he will go@|@athanu velthaadu@
+@head@|@tala@
+@heart@|@gumde@
+@hello@|@namaste@
+@hen@|@ädaködi, pemti, petta@
+@hilt of a sword@|@paruju@
+@hindrance@|@addi@
+@holding@|@pattudu@
+@honey@|@madhuvu, tëne@
+@honeycomb@|@pera@
+@horse@|@gurramu@
+@hour@|@gadiya, ghamta, kälamu, samayamu@
+@house@|@grhamu, iallu, lögili@
+@hovel@|@paka@
+@how are you?@|@ela vunnavu, neevu ela unnaavu?, yelavunaru@
+@how did you come?@|@neevu ela vachaavu?@
+@how did you drive?@|@neevu ela nadipaavu?@
+@how did you sleep?@|@neevu ela padukunnaavu?@
+@how did you write?@|@neevu ela wrasaavu?@
+@how do you say this in english@|@yedi englishlo yela chaptaru@
+@how many did you take?@|@neevu enni theesukunnaavu?@
+@how much distance to go?@|@entha dooram vellali?@
+@how old are you?@|@mi vayasu enta?@
+@how was the journey yesterday?@|@ninna prayanam ela jarigindhi?@
+@human being@|@mänavulu, manusyulu, narulu@
+@humility@|@adãkuva@
+@hunger@|@ãkali, ksuttu@
+@husband@|@bharta@
+@husk of a coconut@|@pál'a@
+@hut@|@palli@
+@i@|@nenu@
+@I am 20 years old@|@naku 20 samtsaralu@
+@I am called John@|@nannu johan antaru@
+@i am fine@|@nenu kshemamgaa unnaanu.@
+@I am from New York@|@nenu newyork nunchi@
+@I am with hungry@|@Ne nu a ka li to u nna nu@
+@i do not understand@|@naaku artham kaaledu@
+@I don't understand@|@Naaku artham kaledhu@
+@i feel bad@|@naku chala bhaddaga vundi@
+@i go@|@nenu velthanu@
+@I love you@|@nenu ninnu premistunnanu@
+@i shall come with you@|@nenu neetho vasthaanu@
+@i'm fine@|@nenu bagane vunnanu@
+@impatience@|@adici-pãtu@
+@in time@|@pendala-kada, pendala-kadan, pendaláda, pendaládan@
+@in which room did you sleep?@|@neevu ee roomlo padukunnaavu?@
+@incline@|@oragudu@
+@increase@|@pekkuva@
+@inferior man@|@paadar_i@
+@ingot@|@pálá, pálamu@
+@iron@|@inumu@
+@is it a book?@|@idhi pusthakama?@
+@is it the answer?@|@idhi javaaba?@
+@island@|@dïvi, dyïpamu@
+@issue@|@adaru@
+@it@|@adi@
+@it is a book@|@idhi pusthakamu@
+@it is the answer@|@idhi javaabu@
+@jack-fruit@|@panasa@
+@join@|@penayu@
+@key@|@bïgamchevi, tälamchevi@
+@kidney@|@lamkham, pakkera gumekäya@
+@kind of harrow@|@palu-gor_r_u@
+@kind of small bird@|@pála@
+@king@|@raajaa, räju@
+@kitchen@|@vamtayillu@
+@knee@|@mökälu@
+@knife@|@katti@
+@labour@|@patu@
+@lake@|@hradamu, madugu@
+@lamb@|@gorrepilla@
+@land given to brahmans@|@panasa, pannasa@
+@language@|@bhãsa, mãta@
+@large@|@penn, penu@
+@large pincers@|@patakãru, patukãr_u@
+@large wooden pestle@|@rõkali@
+@leg@|@kälu@
+@letter@|@aksaramu, jäbu, patrika, varnamu@
+@life@|@jïvamu, pränamu@
+@lion@|@simhamu@
+@lip@|@mövi, pedavi@
+@lizard@|@balli, palli@
+@look there!@|@adë, adigö, allade, alladigo@
+@louse@|@ïrchuta, pënu kukkuta, vëluchüchuta@
+@low ground@|@pallamu@
+@low man@|@paadali@
+@lump of earth@|@pedda@
+@magnitude@|@pãti@
+@man@|@magavãdu, manisi@
+@man who is alone@|@ontarïdu, ontarikãdu, ontikãdu@
+@manner@|@par_i, parusu@
+@many@|@pekku@
+@many persons@|@paluvundru, paluvuru, pekkandru, pekkuru@
+@marriage@|@pelli, pendili, pendli@
+@master@|@odayadu, odayudu@
+@measure of capacity@|@padi@
+@meat@|@ãhãramu, grãsamu, mämsamu@
+@medicinal shrub@|@addasaramu@
+@midday@|@patta-pagalu@
+@middle@|@madhyabhãgamu, madhyamu, nadumu@
+@milk@|@pãlu@
+@Mimusops hexandra@|@paala@
+@minute@|@nimisamu@
+@mire@|@rompi@
+@mirror@|@addamu, darpanamu@
+@mistress@|@odayurlu@
+@moisture@|@padanu, padunu@
+@money@|@dabbu, paikamu, rükalu@
+@monkey@|@köti, timmadu@
+@month@|@mäsamu, nela@
+@moss@|@päci, pãci, prãci@
+@mossiness@|@pákudu@
+@mother@|@amma, talli@
+@mother's elder sister@|@peddi@
+@mountain@|@komda, parvatamu@
+@mouse@|@chitteluka, chumdeluka@
+@mouth@|@nöru@
+@much@|@peddayu, peluca@
+@music@|@samgïtamu@
+@name@|@nämamu, peru, përu@
+@nature@|@mahã šakti, mäya@
+@needle@|@südi@
+@neighbour@|@porugimti vãdu, samïpasthudu, yirugimti vãdu@
+@new@|@apürvamaina, kotta, nütanamaina@
+@night@|@mãpu, rãtri@
+@nine@|@tommidi@
+@ninety@|@tombadi@
+@nippers for cutting betel-nuts@|@ada-katti, ada-kattu, ada-kottu, adda-kattera@
+@no@|@kadu, vadu@
+@nominative case@|@karta@
+@nose@|@mukku, näsikamu@
+@not so good@|@anta baga lenu@
+@not thick@|@paluca@
+@nourishing@|@pempu, penupu@
+@number@|@amke, lekka, samkhya@
+@o increase@|@pércu, pérucu@
+@object of the verb@|@karma@
+@obstacle@|@addamu@
+@obstruction@|@addakar_r_a, addangki, addugur_r_a@
+@occur@|@onarincu, onaru, onarucu@
+@Odina pinnata@|@oddi@
+@oil@|@chamuru, merugu, nüne, tailamu@
+@old@|@musali, päta, prãchïnamaina@
+@olive@|@vokavidhamaina sïmachettu@
+@one@|@okati@
+@one and the same time@|@okata, okota@
+@one man@|@okadu, okarudu, okaruvudu, okodu, okorudu@
+@one of the Telugu districts@|@paaka-naadu@
+@one thing@|@okati, okoti, ondu@
+@one who is patient@|@orpari, orupari@
+@one woman@|@okarita, okarite, okariti, okarte, okartu, okartuka, okata, okate, okati, okatuka, okorita, okota@
+@onion@|@nïrulli, vulligadda@
+@open@|@theruvu@
+@opened@|@therichinadi@
+@opposition@|@oddaramu@
+@or@|@gäni@
+@order@|@panupu@
+@ornament worn round the neck@|@addigalu@
+@owl@|@güba, gudlagüba, ulükamu@
+@ox@|@goddu, vittulukottina yeddu, vrsabhamu@
+@packs of cut@|@attadi, attava, ettam@
+@page@|@pakka, peda, porata, puta@
+@pain@|@bädha, noppi, tïpu@
+@paleness@|@paluka, palukana@
+@pane of glass@|@addamu@
+@paper@|@kãkitamu@
+@patience@|@opika, ormi, orpu, orupu@
+@Pavetta indica Lin.@|@pápata@
+@pea@|@batãni@
+@peace@|@samãdhãnamu, šãmtamu@
+@peach@|@dïnni šaptälupamdu amtãru@
+@pear@|@voka vidhamaina pamdu@
+@peel@|@peccu@
+@peeling@|@olupu@
+@people@|@anagã@
+@pepper@|@miriyãlu, miriyamu@
+@perfumed water@|@pannïramu, pannïru@
+@perish@|@ovvu@
+@perseverance@|@pattudala@
+@perverse@|@addãdiddi@
+@pig@|@pamdipilla, pandi@
+@pigeon@|@pävuräyi@
+@pitfall for catching elephants@|@odamu@
+@place in a slanting position@|@oragincu@
+@planet@|@grahamu@
+@plank@|@patti, pattika@
+@plate@|@pallemu, palleramu, palyamu@
+@please@|@daya chesi, dayachesi@
+@plum@|@pamdu, rëgupamdu@
+@poison@|@visamu@
+@Portulaca meridiana@|@pavila-kura, pavili-kura@
+@potato@|@bamgãlã dumpa, vuralagadda@
+@potsherd@|@pencika, pencu@
+@pouch for betel leaves and nut@|@adapamu, hadapamu@
+@pounding@|@dampudu@
+@poverty@|@nippaccaramu@
+@prayer@|@prãrthana, stuti@
+@precipitation@|@padatamu, padatu@
+@preposition@|@vibhakthi@
+@prevention@|@ãtangkamu@
+@produce@|@panta@
+@prophet@|@bhavisyadvãchakudu, mahãtmudu@
+@prostitute@|@padapugomma, padupudi@
+@prostitute oneself@|@paducu@
+@prostitution@|@padupu@
+@pungency@|@or_r_adanamu, or_r_ana@
+@pungent taste@|@var_r_a@
+@pupil of the eye@|@paapa@
+@quality@|@padhi@
+@question@|@prašna@
+@race@|@pandemu@
+@rain@|@väna, varusamu@
+@Rama hit the ball@|@Ramudu bantini kottadu@
+@raw@|@pacci@
+@red@|@errani, kävi kempu@
+@red lorry and white lorry@|@Yerra Lorry Tella Lorry@
+@religion@|@matamu@
+@retching@|@okara okarinta, okili. okilinta@
+@rice wetted@|@adukulu, atukulu@
+@rightening@|@adalpu, adalupu@
+@ripeness@|@padunu@
+@river@|@ëru, nadi@
+@road@|@bäta, döva; dãri, mãrgamu, tröva@
+@rock@|@bamda, komda, parvatamu, rãyi, šila@
+@roof@|@pai kappu, paipüri@
+@roofing tile@|@odu-billa@
+@room@|@gadi, kottu, yillu@
+@rose@|@röjãpuvvu, sïmavannïrupuvvu@
+@rubbing@|@ora, orapidi, orapu, orayika, ruddudu@
+@run@|@parigettu@
+@salt@|@uppu@
+@sand@|@isuka@
+@sandal@|@adi-gar_r_a@
+@scab@|@pakku@
+@scent@|@pasi@
+@school@|@badi, pallekütamu@
+@scour@|@ruddu@
+@sea@|@samudramu@
+@season@|@kãlamu, rttuvu@
+@second@|@nimisamu@
+@see you soon@|@malli tondaralo kaluddam@
+@seed of bishop's weed@|@omamu@
+@seven@|@eddu@
+@seventy@|@debbadi@
+@share@|@pálu, pampu@
+@sharpness@|@padanu@
+@she@|@aame@
+@she came by bus yesterday@|@aame ninna buslo vachindhi@
+@sheath@|@or_a, or_r_a@
+@shed made of leaves@|@pandili, pandiri@
+@sheep@|@gorre, gorrelu@
+@shell of coconut@|@pecce, peccika@
+@ship@|@vãda@
+@shoot@|@adarucu@
+@shore@|@odhdu@
+@silk@|@pattu@
+@silver@|@rajatamu, vemdi@
+@single@|@oka@
+@sister@|@sahödari, tödabuttinadi@
+@sit@|@kurcho@
+@six@|@aru@
+@sixty@|@ar_uvadi@
+@sky@|@äkãšamu, gaganamu@
+@slave@|@adiyãdu@
+@slavery@|@adime@
+@sleep@|@padu, pandukonu@
+@slice@|@par_iya@
+@sling@|@odisela@
+@slip out@|@osulu@
+@small pit containing water@|@pade, padiya@
+@small village@|@palle, palliya@
+@snake@|@pãmu, sarpamu@
+@snow@|@himamu, mamchu@
+@so long@|@chaala kaalamu@
+@so so@|@parvaledu@
+@soap@|@sabbu@
+@softly@|@ollana, oyya@
+@solitariness@|@ontarikamu@
+@some persons@|@okaru@
+@son@|@koduku@
+@song@|@pata@
+@spade@|@pár_a, pára@
+@spider@|@lüta, sãlepurugu@
+@split pulse@|@pappu@
+@spoon@|@garitë@
+@spread out@|@par_acu, par_apu, paracu@
+@spring@|@puspasamayamu, vasamta rrtuvu@
+@squeeze@|@ottu@
+@stamp@|@accu@
+@star@|@chukka, naksatramu@
+@starvation@|@nippastu@
+@state of being alone@|@onti@
+@steadiness@|@or_apu@
+@stealing@|@daparamu@
+@steel@|@ukku@
+@stone@|@kallu, pãsãnamu, rãyi, šila@
+@stone pestle@|@rubbu-gundu@
+@storm@|@gãlivãna, peddagãli, tuphãnu@
+@streak of paint@|@patte@
+@street@|@vïdhi@
+@strength@|@õpika@
+@stripe@|@padita@
+@strong@|@ur_idi@
+@suffer@|@padhu@
+@sugar@|@chekkara, pamchadãra@
+@suitability@|@ommika@
+@summer@|@emda kãlamu, grïsmakãlamu, vësavikãlamu@
+@superficially@|@pai pai, paipaiga, paipaina, paipaini@
+@swan@|@okavidhamëna hamsa@
+@tale-bearing@|@orudala@
+@talking in sleep@|@palavaramu, palavarimpu, palavarinta@
+@tamarisk@|@pakkepakki cettu@
+@tamarisk tree@|@pakke, pakkiya@
+@tea@|@tënïllu@
+@teeth@|@pandlu@
+@ten@|@-vadi, padi@
+@ten persons@|@padundru, padunr_u, paduru@
+@thank you@|@dhaniyavadaalu@
+@thank you very much@|@chala dhaniyavadaalu@
+@thanks@|@dhanyavadalu@
+@that@|@ala, alla@
+@that side@|@avvala@
+@that woman@|@addi, adi, ãyadi, ayyadi, dãni-@
+@the face turned back@|@pedamu@
+@the female of any animal@|@penti@
+@the multiplicand@|@odhdhu@
+@the parting of the hair@|@pápata@
+@the west@|@padamara@
+@there@|@ata@
+@they@|@vaallu@
+@they went to the mosque@|@vaaru gudiki vellaru@
+@thief@|@daparidu@
+@thinness@|@palucana@
+@thirty@|@muppadi, padi@
+@three@|@mudu@
+@throw down@|@par_upu@
+@tiger@|@puli, vyãghramu@
+@tile@|@pengku@
+@time@|@kãlamu, vëla@
+@to accost@|@palukarincu@
+@to adhere@|@pattincu@
+@to agree@|@ovvu@
+@to announce@|@pagatu@
+@to assign@|@oppincu@
+@to be able@|@öpu@
+@to be acquired@|@abbu@
+@to be afraid@|@adalu, adalu@
+@to be attached@|@attu, hattu@
+@to be defeated@|@otar_u, otar_u@
+@to be fit@|@adaru@
+@to be hostile@|@oddarincu@
+@to be in a hurry@|@adici-padu@
+@to be mixed@|@orumu@
+@to be overhasty@|@padar_u, padaru, padrucu, padurcu, paduru, padurucu@
+@to be produced@|@odamu@
+@to be rotten@|@paasu, pãcu, páyu@
+@to be rubbed@|@uriyu@
+@to be serviceable@|@odavu@
+@to be spilled@|@oluku@
+@to be twisted@|@penãgonu, penãgu@
+@to bear@|@oopu, orcu@
+@to beat@|@aducu@
+@to become mossy@|@prã-konu@
+@to become obstructed@|@aducu-konu@
+@to bend@|@oggu, oggu, or_agu, oragu@
+@to bet@|@pantagincu@
+@to break@|@pagulu, pagulucu, perugu@
+@to bury@|@pãtu@
+@to congeal@|@pér_u, peru@
+@to consent@|@oppagincu, oppu@
+@to contrive@|@pannu@
+@to creep@|@paakul-ãdu, praaku@
+@to defeat@|@odincu, orcu@
+@to destroy@|@pempu@
+@to dip@|@addu@
+@to discharge@|@adarincu@
+@to drive away@|@paar_ãdölu@
+@to effect@|@onanggürcu@
+@to enlarge@|@pencu@
+@to extend@|@paruvu, parvu@
+@to faint@|@olla-bovu@
+@to fall@|@par_acu, par_ucu, parcu@
+@to feel@|@par_acu, par_ucu, parcu@
+@to fight@|@adaru@
+@to flourish@|@odavu@
+@to frighten@|@adalincu, adalpu, adalucu, adalupu@
+@to give@|@oduku, osagu, osavu@
+@to grieve@|@adalu@
+@to grind in a mortar@|@rubbu@
+@to grow@|@pár_u@
+@to happen@|@onanggüdu@
+@to hate@|@r_oyu@
+@to hide@|@dacu@
+@to hinder@|@adda-kattu, adda-padu, addagincu, addu@
+@to hold@|@pattu@
+@to increase@|@ad'aru, odalu, odugu, oduvu, pammu, prabbu@
+@to interpose@|@oddu@
+@to lament@|@palavu, palumu, panavu@
+@to lay a trap@|@oggu@
+@to lie down@|@pandu, parundu@
+@to lie hidden@|@dagu, dágu, dãgu@
+@to move aside@|@odugu, odugu, orasil@
+@to nourish@|@penucu@
+@to obtain@|@padacu, padayu@
+@to offer@|@oggu@
+@to part wide@|@panggatincu@
+@to peel@|@olucu@
+@to pound@|@dampu, dancu@
+@to prattle@|@palumu, rollu@
+@to remove@|@paacu@
+@to retch@|@okarincu, okilincu@
+@to ripen@|@pañdhu, pandincu@
+@to rub@|@oracu, orayu@
+@to run@|@odu, paar_u, paaru, paruvidu@
+@to run away@|@par_acu@
+@to send@|@pampu, pañcu, pañcu, uccu@
+@to send away@|@par_apu@
+@to separate@|@paapu, paayu@
+@to shine@|@paragu@
+@to slant@|@oragilu, oragincu@
+@to sound@|@paluku@
+@to speak@|@palikincu@
+@to spin@|@oduku@
+@to sport in water@|@ol-adu, olal-ad?u@
+@to spread@|@par_ãgu, pãr_u, par_ucu, paragu, parãgu, paravu, parcu@
+@to start@|@adiri-padu@
+@to steal@|@daparincu@
+@to step aside@|@ottigillu, ottillu, ottilu, ottu@
+@to stretch out@|@oddu@
+@to strike@|@ruttu@
+@to suit@|@ommu@
+@to suppress@|@adacu, adãcu@
+@to talk in sleep@|@palavarincu, palavincu, palavu, paluvarincu@
+@to terrify@|@adalincu@
+@to tremble@|@adharu@
+@to twist@|@pédu, pëdu, penãcu@
+@to wager@|@oddu@
+@to wear away@|@pariyu@
+@to yield@|@adagu, adãgu@
+@to yield fruit@|@palãku@
+@tobacco@|@pogãku@
+@token@|@adiyãlamu@
+@tomato@|@molakkãya@
+@tongue@|@jihva, nãluka@
+@tooth@|@pallu, pannu@
+@toothstick@|@palugarra@
+@touchstone@|@ora-gallu@
+@tower@|@buruju, köta@
+@town@|@gramamu, pattanamu, vuru@
+@tree@|@chettu, mãnu, vrksamu@
+@tree Bauhinia racemosa@|@adhdha@
+@tribute@|@pagidi@
+@truth@|@nijamu, satyamu, yathãrthamu@
+@twelve@|@padu-, padun-, pan-, pandrendu@
+@twenty@|@iruvadi@
+@two@|@rendu@
+@unanimity@|@orimika@
+@unite@|@penapu@
+@valley@|@komdalasamdu, pallamu@
+@van of an army@|@padavalamu@
+@vessel@|@ooda@
+@village@|@grãmamu, paadu, üru@
+@village name suffix@|@-paaka@
+@vinegar@|@kãdi, sïmkãdi, sirkã@
+@voice@|@dhvani, kamthadhvani, kamthamu@
+@vulture@|@bandu@
+@wager@|@oddanamu, oddimi, pantamu@
+@waiting at the gate of one@|@padi-gpu, padi-kpu@
+@walk@|@nadavu@
+@wall@|@göda@
+@war@|@kayyamu, pöru, yuddhamu@
+@warble@|@paadhu@
+@water@|@nïllu@
+@we@|@manamu, memu, mëmu@
+@wealth@|@odame, odami@
+@weather@|@kãlamu@
+@weaver's reed@|@accu@
+@week@|@vãramu@
+@what@|@enti@
+@what are the questions?@|@prasnalu enti?@
+@what can i do?@|@nenu emi cheyyagalanu?@
+@what did you do?@|@meeru emi chesthaaaru?@
+@what is the last question?@|@chivari prasna enti?@
+@what is written in the letter?@|@uttaramlo emi vrasi undhi?@
+@what is your name?@|@mee peru emitti?, nee peru enti?@
+@what should i do?@|@nenu emi cheyyali?@
+@what were the questions?@|@prasnalu enti?@
+@what will be the answer?@|@javabu enti?@
+@what you had been told?@|@neeku emi cheppabadinadhi?@
+@what's your name?@|@mi peru emiti?@
+@wheat@|@gödhumalu@
+@Where are we going?@|@ekkadiki veluthunam?@
+@where are you from?@|@miru ekkadanunchi?@
+@where did you come from?@|@neevu ekkadinunchi vachaavu?@
+@where did you sleep?@|@neevuekkada padukunnaavu?@
+@where is my room@|@na room ekkada undi@
+@Where is my room@|@naa gadi ekkadundi@
+@where is the bar?@|@baar ekkadundi, bar ekkada undi@
+@where is the bathroom?@|@bathroom yekkada undi, toilet yekkada undi@
+@Where is the bathroom? (1)@|@bathroom ekkada?@
+@where is the beach?@|@bic ekkada undi, biich ekkadundi@
+@where is the manager's cabin?@|@manager gadhi ekkada?@
+@where should i go?@|@nenu ekkadiki vellaali?@
+@which is the sweetest fruit?@|@thiyyanaina phalamu enti?@
+@which is your favorite colour@|@neeku istamaina rangu enti?@
+@which story did you tell?@|@neevu ee kadha cheppaavu?@
+@which way did you come?@|@neevu ee daarilo vachaavu?@
+@whom should i contact?@|@nenu evarini sampradinchaali?@
+@why did he bring the bag?@|@athanu sanchi enduku techaadu?@
+@why did she pay the money?@|@aame dabbu enduku ichaaru?@
+@why did you come?@|@neevu eppudu vachaavu?@
+@why did you sleep?@|@neevu eppudu padukunaavu?@
+@why do you drive the car?@|@neevu car endhuku nadipaavu?@
+@wife@|@bharya, pendlämu@
+@wild boar@|@ontikãdu@
+@will come@|@vasthaanu@
+@will open@|@therusthaadu@
+@will you come with me?@|@neevu ikkadiki vasthaava?@
+@win@|@gelavatam@
+@window@|@gaväksi, kitikï@
+@wine@|@dräksämadyamu, dräksapullakallu, kallu@
+@wing@|@bhägamu, pakka, paksamu, rekka@
+@winter@|@chalikãlamu, sïtakälamu@
+@wolf@|@tödëlu, vrkamu@
+@woman@|@ãdadi, ãdamanisi, padati, padati, padati, padatuka, padatuka, paidali, strï@
+@wood@|@adivi, aranyamu, vanamu@
+@wool@|@bochchu, ürnamu@
+@word@|@mäta, šabdamu@
+@work@|@pani@
+@workshop@|@pattada@
+@world@|@bhümi@
+@worm@|@krimi kïtamu, purugu@
+@year@|@ëdãdi, ëdu, samvatsaramu@
+@yellow@|@pacca, pasimidi@
+@yellow colour@|@pasimi@
+@yellowish colour@|@pasupu@
+@yes@|@avunu, sare@
+@yes; of course@|@sare; thappakunda@
+@yesterday@|@ninna@
+@you@|@meeru, nuvvu, nuwu@
+@young@|@chinna, lëta, paši@
+@your@|@needi@
+@you're welcome@|@meku swagatham@
+

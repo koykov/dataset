@@ -1,0 +1,329 @@
+@English@|@Nganasan@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a k. of arrow@|@múnka@
+@a k. of berry@|@murá'ka@
+@a k. of fish@|@pajiw@
+@a k. of grass@|@not, nota@
+@a k. of metal@|@baja, bása@
+@a k. of salmon@|@jintu@
+@Adam's apple@|@künggüda@
+@all@|@bánsa@
+@an elder relative@|@kodú'a@
+@animal@|@diamäžä@
+@annual ring on a tree@|@tî@
+@ant@|@ködaj@
+@armpit@|@kaling@
+@arrive@|@tû'a-@
+@autumn@|@ngitüo, ngütüo@
+@axe@|@tobäkää@
+@back@|@moku@
+@back part@|@fua, fuaja, fuanu@
+@bark@|@kubu, kufu, kuho, kuhu@
+@basket@|@koare, kûr@
+@bast@|@kaju, kasu@
+@bear@|@ngarka@
+@beard@|@mündü"sa@
+@bed@|@bäbä@
+@behind@|@tagang, taka, takada, takana@
+@bend@|@sang, syng@
+@berry@|@nguta@
+@big@|@anie@
+@birch@|@kua@
+@birch bark@|@tie@
+@bird@|@täibää@
+@black@|@tusaika"a@
+@blood@|@kam@
+@body@|@saxy@
+@boil@|@fï'e-, firi'é-@
+@bone@|@latää@
+@bow@|@dinta@
+@bowstring@|@jenti@
+@brain@|@djia@
+@bread@|@kiriba@
+@breath@|@baitu', baitu'a@
+@bride-groom@|@bingi, bingi-n@
+@bridge@|@xyla@
+@bridle@|@sung@
+@brother@|@ä"ä, ngaangku@
+@bug@|@ngomttung, ngomtung@
+@bull@|@kobta"a@
+@by evening@|@xi-@
+@carry@|@jili'e-@
+@cartilage@|@nir@
+@cheek@|@fatúa, xotuo@
+@child@|@nüo@
+@claw@|@kátu@
+@clay@|@satu@
+@comrade@|@nirung@
+@copper@|@nörumu@
+@cradle@|@laapsä, lapsa@
+@crust@|@kamu@
+@curve@|@muni'e-@
+@daughter-in-law@|@meai, meaj@
+@day@|@daly, jale@
+@deep place in water@|@juragâ@
+@deer@|@tâ@
+@dew@|@jobtúang@
+@Dinners@|@uzxinê@
+@diver@|@nóane@
+@divide@|@taru'á-@
+@dog@|@bang@
+@Don't touch me there!@|@n'i? mänä ämny mentidi@
+@door@|@ngoa@
+@doorpost@|@salta@
+@down@|@munduisang@
+@duck@|@nganguode@
+@eagle@|@lyngxy@
+@ear@|@kou@
+@earth@|@ma-maru, mou@
+@egg@|@mänu@
+@elder female relative@|@ngaba, ngabu, ngafu@
+@end of trunk@|@tofi@
+@ermine@|@fiéda, hédä@
+@evening@|@kundutun'de@
+@Evening@|@kundu-, xi-, xii-@
+@eye@|@säime, seimy@
+@face@|@xorä@
+@fat@|@sela@
+@fat of a reindeer@|@chü', tu'@
+@father@|@desy, jaje, jase@
+@fathom@|@tïmi@
+@female@|@name@
+@fence@|@ba'@
+@fight@|@torätu-@
+@fir@|@ku'a@
+@fire@|@tui, tuy@
+@fish@|@kole, koly, kuale, kuälle@
+@five@|@bï'@
+@flat surface@|@laban@
+@flour@|@diaa ngämsu@
+@fox@|@tunty@
+@friend@|@nia@
+@frost@|@kande'a-, kantejea-@
+@gadfly@|@filti@
+@girdle@|@bene, fuita, nieja@
+@give@|@täda'a-, tatujua-@
+@glue@|@jime@
+@go@|@tantaa-@
+@goose@|@debtu@
+@hair@|@ngabta, ngabtä, ngâbta@
+@half@|@fealea@
+@hand@|@dütu, jütü@
+@hare@|@nomu@
+@harness@|@fúdar, huturä-@
+@head@|@feae, feai, ngaiwuo, ngoiwuo, ngoybuo@
+@heart@|@sa, sää, soa@
+@heat@|@antal@
+@hole@|@ngâng@
+@horn@|@ngamta@
+@horse@|@dündua@
+@house@|@koru, ma@
+@how@|@kuni'äng, kunijäng@
+@human being@|@ngaha"sa@
+@hut@|@ma', madajâng, madujâng, makata, matanu@
+@I@|@mannang@
+@ice@|@syr@
+@ice crust@|@siru@
+@In the evening@|@xi-@
+@in twilight@|@xi-@
+@inside@|@sinsa@
+@interval@|@jute-, jutene@
+@intestinal worm@|@kalsua, kolsu'a@
+@intestines@|@tajba@
+@iro@|@basa@
+@Is burned down@|@saj-@
+@knee@|@fua-gai, fuegai@
+@knife@|@kymaa@
+@know@|@tumtu'a-@
+@lake@|@turku@
+@land@|@karajea-, kari'e-@
+@language@|@sieja@
+@large@|@iri@
+@left hand@|@badï'e@
+@leg@|@ngoy@
+@lid@|@loitu@
+@life@|@nilu@
+@lip@|@feábteng@
+@liver@|@mida, mita@
+@lizard@|@tansu@
+@loin@|@bobsúdu@
+@long@|@fira@
+@look@|@ngadi'e-, ngädü-, ngätä-, ngätu-@
+@lung@|@tieinda@
+@man@|@kodömu, kuodömu@
+@Mark@|@da@
+@meat@|@ngämsuo@
+@middle@|@derde@
+@money@|@basa@
+@month@|@kichežää, kiitada@
+@morning@|@kiduatu@
+@morning dawn@|@kou@
+@moss@|@die@
+@mother@|@nemy@
+@mother-in-law@|@nginaba@
+@mountain@|@koaja@
+@mouse@|@ton'düku@
+@mouth@|@ngang@
+@much@|@ani'e@
+@name@|@nim@
+@needle@|@neïmy, nejmi, njäime@
+@negative particle@|@ninte-, nintu@
+@nest@|@fätte@
+@new@|@men'diade@
+@night@|@xii@
+@nightly@|@kundu-, xi-@
+@nose@|@nhyngkä@
+@odor@|@ngobta@
+@old@|@xynserää@
+@old woman@|@imidi@
+@on top@|@ni, nini, ñini@
+@order@|@sier@
+@ox@|@kobta'a@
+@pain@|@diari@
+@palm of hand@|@feang@
+@paper@|@bumagä@
+@pasture@|@kätuki'e-@
+@piece@|@maru'á-, marú'á-@
+@pit@|@bánka@
+@plait@|@fonú'a, fonu'á-, fonur-@
+@polar duck@|@ngängü@
+@pole@|@ngui, salta, sältäda@
+@pond@|@túrku@
+@prevent@|@mâra'á-@
+@rain@|@sorua@
+@raven@|@kula@
+@red@|@diaba'kuo, diabakuo@
+@river@|@bikažää@
+@road@|@saruo@
+@root@|@bantu, bântu@
+@run away@|@kunu'a-@
+@sack@|@foadai, hödaj@
+@salt@|@syr@
+@sand@|@düo@
+@scoop@|@kaibu, kui, kûku@
+@scrape@|@bara-@
+@sea@|@baagutä@
+@sell@|@mîji'é-@
+@separate@|@jagi'e-, jakali'e-@
+@shaft@|@fonka, fungúbsang, fungúsang, nir@
+@shit@|@ti', tî', tidi'-@
+@shoot@|@nerki@
+@shore@|@móru@
+@side@|@bara, bâra@
+@silver@|@serïbïrï@
+@sinew@|@tanga@
+@sister-in-law@|@sálung@
+@ski@|@tütä@
+@skin@|@tuaja@
+@skin from the feet of deer@|@fantu@
+@sky@|@ngyo@
+@sleeping hole in snow@|@bóba@
+@sleeve@|@tïdä, tïja@
+@sleigh@|@kanta, käntä@
+@smoke@|@kinta@
+@snot@|@noudi'-, noudir-@
+@snout@|@narâ, narabtâ, narang@
+@snow@|@siry@
+@snowfall@|@kódung, kotara'a@
+@soar@|@tau'a-@
+@soft@|@namagä, námang@
+@something elevated@|@mäarsi@
+@something stamped@|@fûli@
+@space below something@|@ngilea@
+@spider@|@imižiaï@
+@spit@|@ngaita@
+@spring@|@noru@
+@star@|@xotädie@
+@stay@|@koae'-@
+@stone@|@fala, fualla, xualä@
+@street@|@bäntiä@
+@summer@|@tanga, tängä@
+@swan@|@dengkuïkia, dengkuïkïa@
+@tail@|@batu'a@
+@tail (not birds')@|@täjbu@
+@take out@|@tadi-@
+@tear@|@käle@
+@testicle@|@mann@
+@that@|@ngamang, sete, ta, taka', taka', tandang, tandang, tania, tania, tanne, tanne@
+@the upper part@|@naitea, naiteng@
+@thick back of arrow@|@munga@
+@thief@|@tolar-@
+@thing@|@maa, mê'a-@
+@this@|@temenang@
+@thou@|@tannang@
+@thumb@|@feája, fjääka@
+@tinder@|@fuu@
+@to be afraid@|@filiti-@
+@to be forgotten@|@ngana'bta-@
+@to be sick@|@jamajua-@
+@to become dark@|@faemei'@
+@to become dry@|@koju'-, kosaju-, kósara'a-, kosua@
+@to become wet@|@foda-, fotu-@
+@to bind@|@kürüda, saru'a-@
+@to blow@|@fuali'é-, fuarú-@
+@to carry@|@kuanda'a-@
+@to close eyes@|@káuläása@
+@to comb@|@tïði'é-@
+@to come@|@tü'a-@
+@to come in@|@tïdi@
+@to cough@|@ku', kutâdandu-@
+@to die@|@kuu'a-@
+@to extinguish@|@kabtu-, käptu-@
+@to gnaw@|@lungkaju-, lungu'-@
+@to go@|@mende-@
+@to grow@|@tansa@
+@to hang@|@ngidi'e-, ngüda@
+@to hear@|@kou, kuau@
+@to hit@|@fede'á-@
+@to lead@|@badú-@
+@to live@|@nile-@
+@to paint@|@fadu'-@
+@to pick up@|@jilisj@
+@to pour out@|@bo'bta'a-@
+@to put@|@fan-@
+@to rot@|@tïmi'e-@
+@to row@|@töpsa@
+@to say@|@muno-@
+@to scrape@|@nadu'-@
+@to see@|@baräda, Barata-@
+@to sit@|@ngomtu'a-, ngomtutu-@
+@to sit down@|@tiaji, tii'em@
+@to suck@|@nimiri-@
+@to swallow@|@naltami'e-@
+@to urinate@|@kunsä@
+@to want@|@karbútu@
+@tomorrow@|@küžiaxü@
+@tongue@|@siäde@
+@tooth@|@chimi@
+@trace@|@ngoajä@
+@tree@|@xuaa@
+@truth@|@ngäži'tätïä@
+@turned over@|@kamágu@
+@two@|@siti@
+@uncle@|@titida@
+@under@|@ngileanu@
+@vessel@|@silá'ka@
+@vessel made of birch bark@|@kida, kita@
+@wander@|@joturu-@
+@water@|@bë, bedang, bï'@
+@wave@|@kombu, kongfu@
+@we@|@mêng, mî@
+@weather@|@dialï@
+@where@|@kunini, kuninu@
+@Where is my room?@|@kunini n'ilytym@
+@Where is the bar?@|@bar kunini@
+@Where is the beach?@|@d'am kunini@
+@who@|@kua, kunie, sele@
+@window@|@siäžyr@
+@wing@|@chuo, tu, tua@
+@winter@|@sirü@
+@wolf@|@ngüliažä@
+@woman@|@hï, në@
+@wood@|@mungku@
+@wool@|@herbï@
+@year@|@xüo@
+@yellow@|@fata@
+@you@|@têng@
+@young@|@numää@
+

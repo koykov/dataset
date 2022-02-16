@@ -1,0 +1,1702 @@
+@English@|@Thai@
+@Author name@|@Beaumont / Freelang@
+@Font@|@Arial\12\Arial\16@
+@... speaking@|@ฮัลโหล, ... พูด@
+@[imperative: don't + verb]@|@อย่า@
+@[interrogation]@|@ไหม, หรือเปล่า@
+@[to make a noun]@|@การ, ความ@
+@0@|@๐, ศูนย์@
+@1@|@๑, หนึ่ง@
+@1 000@|@๑๐๐๐, หนึ่งพัน@
+@1 000 000@|@๑๐๐๐๐๐๐, หนึ่งล้าน@
+@10@|@๑๐, สิบ@
+@10 000@|@๑๐๐๐๐, หนึ่งหมื่น@
+@100@|@๑๐๐, หนึ่งร้อย@
+@100 000@|@๑๐๐๐๐๐, หนึ่งแสน@
+@11@|@๑๑, สิบเอ็ด@
+@12@|@๑๒, สิบสอง@
+@2@|@๒, สอง@
+@20@|@๒๐, ยี่สิบ@
+@21@|@๒๑, ยี่สิบเอ็ด@
+@3@|@๓, สาม@
+@30@|@๓๐, สามสิบ@
+@325@|@๓๒๕, สามร้อยยี่สิบห้า@
+@4@|@๔, สี่@
+@5@|@๕, ห้า@
+@6@|@๖, หก@
+@7@|@๗, เจ็ด@
+@8@|@๘, แปด@
+@9@|@๙, เก้า@
+@a few@|@นิดหน่อย@
+@a little@|@นิดหน่อย@
+@a long time@|@นาน@
+@a lot@|@มาก, เยอะ@
+@abandon@|@ละทิ้ง@
+@abduct@|@ลักพาตัว@
+@able@|@สามารถ@
+@able (physically)@|@ไหว@
+@-able (suffix)@|@น่า@
+@abnormal@|@ผิดปกติ@
+@abort pregnancy@|@ทำแท้ง@
+@about@|@ประมาณ@
+@above@|@ข้างบน@
+@accept@|@ยอม, ยอมรับ, รับ@
+@accept responsibility@|@รับผิดชอบ@
+@accident@|@อุบัติเหตุ@
+@account (bank)@|@บัญชี@
+@accountant@|@สมุห์บัญชี@
+@accounting@|@การทำบัญชี@
+@accurate@|@ถูกต้อง@
+@ache@|@ปวด@
+@acne@|@สิว@
+@across from@|@ตรงกันข้าม@
+@acting rashly@|@ใจร้อน@
+@actor@|@นักแสดง@
+@adapt oneself@|@ปรับตัว@
+@add (+)@|@บวก@
+@add to@|@เติม@
+@add up (total)@|@รวมทั้งหมด@
+@address@|@ที่อยู่@
+@adequate@|@พอ@
+@adjacent@|@ติดกับ@
+@adjust@|@จัด@
+@administration@|@การบริหาร@
+@admire@|@ชม, ชมเชย@
+@adopt a child@|@รับเอาเด็กมาเลี้ยง@
+@adult@|@ผู้ใหญ่@
+@advanced@|@ชั้นสูง@
+@advertize@|@โฆษณา@
+@afraid of@|@กลัว@
+@after@|@หลัง@
+@after this@|@หลัง, หลังจาก@
+@afternoon@|@ตอนบ่าย@
+@afterwards@|@ทีหลัง@
+@again@|@อีก@
+@aged@|@แก่@
+@agree@|@ตกลง@
+@aid@|@ช่วย@
+@air@|@อากาศ@
+@air (like in a tire)@|@ลม@
+@air-conditioning@|@แอร์, เครื่องแอร์@
+@airplane@|@เครื่องบิน@
+@airport@|@สนามบิน@
+@alarm clock@|@นาฬิกา ปลุก, นาฬิกาปลุก@
+@alcohol@|@เหล้า@
+@alike@|@เช่นเดียวกัน, เช่นกัน@
+@alive@|@มีชีวิต@
+@all@|@ทั้งหมด@
+@all day@|@ตลอดวัน, ทั้งวัน@
+@all gone@|@หมดแล้ว@
+@all my love@|@ยอดรัก@
+@all night@|@ทั้งคืน@
+@all the time@|@ตลอด, ตลอดเวลา, ทุกเวลา@
+@all used up@|@หมดแล้ว@
+@allergic to@|@แพ้@
+@allow@|@ยอม ให้, อนุญาต@
+@almost@|@เกือบ@
+@alone@|@เดียว@
+@already@|@แล้ว@
+@already or not yet?@|@แล้วหรือยัง@
+@also@|@ด้วย@
+@always@|@เสมอ, ตลอด, ตลอดเวลา, ตลอดไป, เสมอ, ประจำ@
+@amazed@|@แปลกใจ@
+@ambulance@|@รถพยาบาล@
+@ancient@|@โบราณ@
+@and@|@และ@
+@anesthesia@|@อาการสลบ@
+@angel@|@เทวดา@
+@angle@|@มุม@
+@angry@|@โกรธ, ใจร้อน@
+@animal@|@สัตว์@
+@ankle@|@ข้อเท้า@
+@anniversary@|@ครบรอบปี@
+@annoy@|@แกล้ง, รบกวน@
+@annual@|@ประจำปี@
+@answer@|@ตอบ@
+@answer (n)@|@คำตอบ@
+@answer (vb)@|@ตอบ@
+@answer a call@|@รับ โทรศัพท์@
+@ant@|@มด@
+@antique@|@เก่า@
+@anxious@|@กังวล, อึดอัด@
+@any day@|@วันไหนก็ได้@
+@any person@|@คนไหนก็ดี@
+@any place@|@ที่ไหนก็ได้@
+@any time@|@เมื่อไหร่ก็ได้@
+@any way@|@อย่างไรก็ดี@
+@anything will do@|@อะไรก็ได้@
+@apartment@|@อพาร์ตเมนต์@
+@applaud@|@ตบมือ@
+@application form@|@ใบสมัคร@
+@apply for a job@|@สมัครงาน@
+@appointment@|@นัด@
+@approve of@|@เห็นชอบ@
+@approximately@|@ประมาณ@
+@April@|@เมษายน@
+@area@|@บริเวณ@
+@argue@|@เถียง, ทะเลาะกัน@
+@arm@|@แขน@
+@armchair@|@ทีนั่ง@
+@arrange@|@จัด@
+@arrest@|@จับ@
+@arts@|@ศิลปะ@
+@as big as the sky@|@มากเท่าฟ้า@
+@as one likes@|@ตามใจ@
+@as soon as possible@|@เร็วที่สุดเท่าที่จะเร็วได้@
+@as usual@|@เช่นเคย@
+@as you like@|@แล้วแต่คุณ@
+@ashtray@|@ที่เขี่ยบุหรี่@
+@ask@|@ถาม@
+@ask (a question)@|@ถาม@
+@asleep@|@นอนหลับ@
+@assist@|@ช่วย@
+@association@|@สมาคม@
+@assume@|@สมมุติ@
+@at@|@ใน@
+@at (a place)@|@ที่@
+@at all@|@เลย@
+@at first@|@ทีแรก@
+@at least@|@สัก@
+@at night@|@กลางคืน@
+@at once@|@ทันที@
+@at the present time@|@ปัจจุบัน@
+@at the same time@|@เวลาเดียวกัน, พร้อมกัน@
+@at your convenience@|@แล้วแต่สะดวก@
+@attempt@|@พยายาม@
+@attentive@|@ตั้งใจ@
+@attorney@|@ทนายความ@
+@August@|@สิงหาคม@
+@aunt (elder sister of parents)@|@ป้า@
+@aunt (younger sister of father)@|@อาผู้หญิง@
+@aunt (younger sister of mother)@|@น้าผู้หญิง@
+@authentic@|@แท้@
+@available@|@ว่าง@
+@awaken@|@ตื่น@
+@award@|@รางวัล@
+@away@|@ออกไป@
+@awful@|@น่ากลัว@
+@baby@|@น้องเล็ก@
+@bachelor@|@เป็นโสด@
+@back@|@หลัง@
+@back up@|@ถอยหลัง, สนับสนุน@
+@bad@|@เลว, ไม่ดี@
+@bag@|@กระเป๋า, ถุง@
+@baggage@|@กระเป๋า@
+@baht@|@บาท@
+@bake@|@ปิ้ง, อบ@
+@balcony@|@ระเบียง@
+@bald (no hair)@|@ล้าน@
+@bamboo@|@ไม่ไผ่@
+@banana@|@กล้วย@
+@bandit@|@โจร@
+@bank@|@ธนาคาร@
+@bank (river bank)@|@เลียบแม่น้ำ@
+@bar@|@บาร์@
+@barbershop@|@ร้านตัดผม@
+@bargirl@|@สาวหากิน, สาวขายบริการ@
+@bath towel@|@ผ้าเช็ดตัว@
+@bathe@|@อาบน้ำ@
+@bathroom@|@ห้องน้ำ@
+@bathtub@|@อ่างอาบน้ำ@
+@battery@|@แบตเตอรี่@
+@be@|@อยู่@
+@be # years old@|@อายุ - ปี@
+@be able to@|@สามารถ@
+@be afraid of@|@กลัว@
+@be anxious@|@ห่วง@
+@be careful@|@ระวัง@
+@be close friends@|@สนิท@
+@be concentrated@|@ตั้งใจ@
+@be defeated@|@แพ้@
+@be hungry@|@หิวข้าว@
+@be in favor of@|@เห็นชอบ@
+@be jealous of@|@หวงแหน@
+@be on the side of@|@สนับสนุน@
+@be sexually aroused@|@มีอารมณ์@
+@be sitting@|@นั่ง@
+@be thirsty@|@หิวน้ำ@
+@beach@|@ชายหาด, หาด@
+@bear@|@อดทน@
+@bear (animal)@|@หมี@
+@beat (hit)@|@ตี@
+@beat (win)@|@ชนะ@
+@beautiful@|@สวย, สวย@
+@beauty shop@|@ร้านเสริมสวย@
+@because@|@เพราะ, เพราะว่า@
+@bed@|@เตียง, ทีนอน@
+@bedroom@|@ห้องนอน@
+@bee@|@ผึ้ง@
+@beef@|@เนื้อ, เนื้อวัว@
+@beer@|@เบียร์@
+@before@|@ก่อน@
+@beg@|@ขอร้อง@
+@begin@|@เริ่ม, เริ่ม@
+@beginning@|@เดิม, กำลังเริ่ม@
+@beginning of month@|@ต้นเดือน@
+@behave suspiciously@|@พิรุด@
+@behind@|@หลัง@
+@believe@|@เชื่อ, เชื่อ@
+@believe in@|@เชื่อใจ@
+@belly@|@หน้าท้อง@
+@belonging to@|@ของ@
+@below@|@ข้างล่าง@
+@belt@|@เข็มขัด@
+@beside@|@ข้างเคียง@
+@best@|@ดีที่สุด@
+@bet@|@พนัน@
+@better (than before)@|@ดีขึ้น@
+@better (than sthg else)@|@ดีก่วา@
+@between@|@ระหว่าง@
+@bicycle@|@รถจักรยาน@
+@big@|@ใหญ่, ใหญ่, โต@
+@big-bellied@|@พุงพุ้ย@
+@bike@|@จักรยาน@
+@bird@|@นก@
+@birth@|@ชาติ@
+@birth certificate@|@ใบเกิด@
+@birthday@|@วันเกิด@
+@birthday party@|@งานวันเกิด@
+@birthplace@|@บ้านเกิด@
+@biscuit@|@ขนมปังกรอบ@
+@bite@|@กัด@
+@bitter@|@ขม@
+@black@|@ดำ, สีดำ@
+@blanket@|@ผ้าห่ม@
+@blind@|@ตาบอด@
+@blood@|@เลือด@
+@bloom@|@บาน@
+@blouse@|@เสื้อ@
+@blow (wind)@|@พัด@
+@blowout (tyre)@|@ยางระเบิด@
+@blue@|@น้ำเงิน@
+@boat@|@เรือ@
+@body@|@ตัว, ร่างกาย, ตัว@
+@boil@|@ต้ม, ปิ้ง@
+@boiled eggs@|@ไข่ต้ม@
+@bold (courageous)@|@ใจกล้า@
+@bone@|@กระดูก@
+@book@|@หนังสือ@
+@book (a ticket)@|@จอง@
+@book a ticket@|@จองตั๋ว@
+@border (of a country)@|@ชายแดน@
+@bored@|@เบื่อ@
+@boring@|@เบื่อ@
+@born@|@เกิด@
+@borrow@|@ยืม@
+@borrow money@|@กู้เงิน, ขอยืมเงิน@
+@boss@|@เจ้านาย, นายจ้าง, หัวหน้า@
+@bottle@|@ขวด@
+@bottle opener@|@ที่เปิดขวด@
+@bounce@|@กระโดด@
+@bowl@|@ชาม@
+@boy@|@เด็กชาย, เด็กผู้ชาย@
+@boyfriend@|@แฟน@
+@bra@|@ยกทรง@
+@brain@|@สมอง@
+@bread@|@ขนมปัง@
+@break@|@หยุด@
+@break (separate)@|@แยก@
+@break (several pieces)@|@หัก@
+@break (small pieces)@|@แตก@
+@break (spoil)@|@เสีย@
+@break the law@|@ทำผิดกฎหมาย@
+@breakfast@|@อาหารเช้า@
+@breast@|@นม@
+@breathe@|@หายใจ@
+@bribe@|@ให้สินบน@
+@bridge@|@สะพาน@
+@bright (intelligent)@|@ฉลาด@
+@bright (opposite dark)@|@สว่าง@
+@British@|@อังกฤษ@
+@broad@|@กว้าง@
+@broil@|@ย่าง@
+@broke (without money)@|@ไม่มีสตางค์@
+@broken heart@|@เศร้าใจ@
+@brown@|@น้ำตาล, สีน้ำตาล@
+@brutal@|@ดุ@
+@BTS@|@รถไฟฟ้า@
+@Buddha@|@พระพุทธเจ้า@
+@Buddhism@|@ศาสนาพุธ@
+@buffalo@|@ควาย@
+@bug@|@ตัวแมลง@
+@build@|@ก่อ, ก่อสร้าง, สร้าง@
+@building@|@ตึก, อาคาร@
+@bump (on the skin)@|@ตุ่ม@
+@burglar@|@ขโมย@
+@bus@|@รถเมล์, รถบัส@
+@business@|@ธุรกิจ@
+@busy@|@ยุ่ง@
+@but@|@แต่@
+@butt@|@ก้น@
+@butter@|@เนย@
+@butterfly@|@ผีเสื้อ@
+@buy@|@ซื้อ@
+@by@|@โดย@
+@by (+ name of vehicle)@|@ทาง@
+@by chance@|@บังเอิญ@
+@by means of@|@โดย@
+@cabbage@|@ผักกะหล่ำ@
+@calendar@|@ปฎิทิน@
+@call@|@เรียก@
+@calm@|@ใจเย็น@
+@calm down@|@ใจเย็นๆ@
+@camera@|@กล้องถ่ายรูป@
+@can (tin can)@|@กระป๋อง@
+@can no longer bear it@|@ทนไม่ไหว@
+@canal@|@คลอง@
+@cancer@|@มะเร็ง@
+@candle@|@เทียน@
+@cap (for head)@|@หมวก@
+@capital@|@มหานคร@
+@car@|@รถ, รถยนต์@
+@car accident@|@รถชนกัน@
+@car sick@|@เมารถ@
+@care for (look after)@|@ดูแล@
+@careless@|@ใจดำ@
+@carry (hold in arms)@|@อุ้ม@
+@cat@|@แมว@
+@catch a cold@|@เป็น หวัด@
+@category@|@ประเภท@
+@CD@|@ซีดีเพลงชุด@
+@ceiling@|@เพดาน@
+@celebrate@|@ฉลอง@
+@century@|@ศตวรรษ@
+@certain@|@แน่, แน่ใจ, แน่นอน@
+@chair@|@เก้าอี้@
+@chance@|@โอกาส@
+@change@|@เปลี่ยน, เปลี่ยน@
+@changwat@|@จังหวัด@
+@character@|@ตัวหนังสือ, นิสัย@
+@characteristics@|@ลักษณะ@
+@chat@|@คุย@
+@cheap@|@ถูก, ถูก@
+@cheat@|@โกง@
+@cheating@|@ขี้โกง@
+@check (examine)@|@ตรวจ@
+@check (money)@|@เช็ค@
+@cheese@|@เนยแข็ง@
+@chemistry@|@เคมี@
+@cherish@|@หวงแหน@
+@chicken@|@ไก่@
+@chief@|@เจ้านาย@
+@child@|@เด็ก@
+@chili@|@พริก@
+@chocolate@|@ช็อกโกแล็ต@
+@choose@|@เลือก@
+@chopsticks@|@ตะเกียบ@
+@cinema (theatre)@|@โรงหนัง@
+@citizens@|@ประชาชน@
+@city@|@เมือง, เมือง, นคร, กรุง@
+@clean@|@สะอาด@
+@clear@|@ใส, ชัด, ชัด@
+@clearly@|@อย่างชัดเจน@
+@clever@|@เก่ง, ฉลาด@
+@clock@|@นาฬิกา@
+@close@|@ใกล้ชิด@
+@closed@|@ปิด@
+@cloth@|@ผ้า@
+@clothes@|@เสื้อผ้า@
+@cloud@|@เมฆ@
+@cock@|@ไก่ตัวผู้@
+@cockroach@|@แมลงสาบ@
+@coconut@|@มะพร้าว@
+@coffee@|@กาแฟ, กาแฟร้อน@
+@cold@|@เย็น, หนาว@
+@collect@|@เก็บ@
+@colloquial@|@ภาษาพูด@
+@color@|@สี@
+@combine@|@ผสม@
+@come after@|@มาทีหลัง@
+@comfort@|@ปลอบใจ@
+@common@|@ธรรมดา@
+@company@|@บริษัท@
+@computer science@|@คอมพิวเตอร์@
+@concentrate@|@เอาใจใส่@
+@concentration@|@ทำสมาธิ@
+@concert@|@คอนเสิร์ต@
+@concrete@|@คอนกรีต@
+@confused@|@สับสน@
+@considerate@|@เกรงใจ@
+@console@|@ปลอบใจ, ปลอบใจ@
+@construct@|@ก่อ@
+@contact@|@ติดต่อ@
+@contest@|@การประกวด, การแข่งขัน@
+@contract (legal)@|@หนังสือสัญญา@
+@convenient@|@สะดวก@
+@cook (man)@|@พ่อครัว@
+@cook (to)@|@ทำกับข้าว, ทำอาหาร@
+@cook (woman)@|@แม่ครัว@
+@cookie@|@ขนมปังกรอบ@
+@cool@|@เย็น@
+@cool season@|@หน้า หนาว, ฤดู หนาว@
+@copyright@|@ลิขสิทธิ์@
+@cord@|@เชือก@
+@corn@|@ข้าวโพด@
+@corner@|@มุม@
+@correct@|@ถูก@
+@costume@|@ชุด@
+@cosy@|@สบาย@
+@cotton@|@ฝ้าย, ผ้าฝ้าย@
+@couch@|@โซฟา@
+@cough@|@ไอ@
+@country@|@ประเทศ@
+@cow@|@วัว@
+@crab@|@ปู@
+@crazy@|@บ้า@
+@cremate@|@เผาศพ@
+@crocodile@|@จระเข้@
+@cross over (ex : street)@|@ข้าม@
+@crossroad@|@ทางแยก@
+@crown prince@|@สมเด็จพระยุพราช@
+@crude@|@ทะลึ่ง@
+@cruel@|@ดุ@
+@cry@|@ร้องไห้@
+@cucumber@|@แตงกวา@
+@cup@|@ถ้วย@
+@cupboard@|@ตู้, ตู้เก็บชาม@
+@curry@|@แกง@
+@customer@|@ลูกค้า@
+@cute@|@น่ารัก@
+@dai mai@|@ได้่ไหม@
+@dark@|@มืด@
+@dark blue@|@สีน้ำเงิน@
+@dark brown@|@สีน้ำตาล เข้ม@
+@dark green@|@สีเขียว แก่@
+@darkness@|@มืด@
+@daughter@|@ลูกสาว@
+@daughter-in-law@|@ลูกสะใภ้@
+@dawn@|@อรุณ@
+@day@|@วัน@
+@day after tomorrow@|@มะรืนนี้@
+@day before yesterday@|@เมื่อวานซืน@
+@day time@|@กลางวัน@
+@daylight@|@สว่าง@
+@deceive@|@หลอกลวง@
+@December@|@ธันวาคม@
+@decide@|@ตั้งใจ@
+@deep@|@ลึก@
+@deep fry@|@ทอด@
+@defect@|@ขาด@
+@deliberately@|@โดยเจตนา@
+@delicious@|@อร่อย@
+@delude@|@หลอกลวง@
+@dense@|@หนาแน่น@
+@desk@|@โต๊ะ@
+@destiny@|@พรหมลิขิต@
+@detergent@|@ผงซักฟอก@
+@developed@|@พัฒนา@
+@dial wrong number@|@โทร ผิด@
+@dictionary@|@ดิกชันนารี@
+@different@|@แตกต่าง, ต่าง ๆ@
+@different from@|@ต่างกัน@
+@difficult@|@ยาก@
+@dimension@|@ขนาด@
+@dining room@|@ห้องอาหาร@
+@dinner@|@อาหารเย็น, อาหารค่ำ@
+@dirty@|@สกปรก, สกปรก@
+@disease@|@เป็น โรค@
+@dislike@|@เกลียด@
+@dismiss@|@ให้ออก, ไล่ออก@
+@dissatisfied@|@ไม่น่าพอใจ@
+@disturb@|@กวน, รบกวน, รบกวน@
+@dog@|@สุนัข, หมา@
+@door@|@ประตู@
+@doubt@|@สงสัย@
+@downstairs@|@ข้างล่าง@
+@dragon fruit@|@แก้วมังกร@
+@dress@|@ชุด@
+@drink@|@ดื่ม@
+@dry@|@แห้ง@
+@duck@|@เป็ด@
+@dumb@|@โง่@
+@durian@|@ทุเรียน@
+@dust@|@ขี้ฝุ่น@
+@ear@|@หู@
+@ear ring@|@ตา่งหู@
+@earlier@|@เมื่อกี้@
+@early@|@เช้า@
+@earn money@|@หาเงิน@
+@Earth@|@โลก@
+@easily influenced@|@ใจง่าย@
+@East@|@ตะวันออก@
+@easy@|@ง่าย@
+@eat@|@กินข้าว@
+@educative@|@มีการศึกษา@
+@egg@|@ไข่, ไข่ไก่@
+@eggplant@|@มะเขือม่วง@
+@elbow@|@ข้อศอก@
+@elder brother@|@พี่ชาย@
+@elder sister@|@พี่สาว@
+@electric cord@|@สายไฟ@
+@elephant@|@ช้าง@
+@eleven o'clock (11:00 am)@|@สิบเอ็ด  โมง เช้า@
+@eleven o'clock (11:00 pm)@|@ห้า ทุ่ม@
+@employ@|@จ้าง@
+@employee@|@คนงาน, พนักงาน@
+@employer@|@นายจ้าง@
+@encourage@|@กำลังใจ, ย้อมใจ@
+@end@|@เสร็จ, กำลังจบ@
+@end of month@|@ปลายเดือน@
+@end of the soi@|@ทา้ยซอย@
+@endure@|@อดทน@
+@engage@|@จ้าง@
+@English language@|@ภาษาอังกฤษ@
+@enough@|@พอ, พอ, พอแล้ว@
+@entire@|@ทั้ง@
+@envelope@|@ซอง@
+@envious@|@หวง, อิจฉา@
+@escape from danger@|@แคล้วคลาด@
+@estimate@|@เดา@
+@evening@|@ตอนเย็น@
+@every day@|@ทุกวัน@
+@everything's fine don't worry@|@สบมยห@
+@everywhere@|@ทุกที@
+@exchange@|@สลับกัน@
+@exclude@|@ยกเว้น@
+@excuse me@|@ขอโทษ ครับ/คะ@
+@exempt@|@ยกเว้น@
+@exonerate@|@แก้ตัว@
+@expect@|@หวัง@
+@expected@|@ที่คาดเอาไว้@
+@expensive@|@แพง@
+@experienced@|@มีประสบการณ์@
+@explode (bomb)@|@ระเบิด@
+@export@|@สินค้าออก@
+@extremely@|@เหลือเกิน@
+@eye@|@ตา@
+@eyebrows@|@คิ้ว@
+@eyelash@|@ขนตา@
+@eyelid@|@หนังตา@
+@fabric@|@ผ้า@
+@fabric conditioner@|@น้ำยา ปรับ ผ้านุ่ม@
+@factory@|@โรงงาน@
+@faint@|@สลบ@
+@family@|@ครอบครัว@
+@fan@|@พัดลม@
+@fantastic@|@เจ๋ง@
+@far@|@ไกล@
+@fast@|@เร็ว, เร็ว@
+@fat@|@อ้วน@
+@father@|@พ่อ@
+@fear@|@กลัว@
+@February@|@กุมภาพันธ์@
+@feel@|@รู้สึก@
+@feel better@|@เหมือนเดิม@
+@feel good@|@เหมือนเดิม@
+@feel sleepy@|@ง่วงนอน@
+@feeling@|@อารมณ์@
+@fever@|@มี ไข้@
+@few@|@น้อย@
+@file@|@แฟ้ม@
+@fill@|@เติม@
+@filled@|@เต็ม@
+@fine@|@สบายดี ครับ/คะ@
+@finger@|@นิ้ว@
+@finish@|@เสร็จ@
+@finished@|@เรียบร้อย@
+@fire@|@ให้ออก, ไล่ออก@
+@firm@|@ห้าง@
+@first@|@เดิม@
+@first time@|@ครั้ง แรก@
+@fish@|@ปลา@
+@five o'clock (5:00 am)@|@ตี ห้า@
+@five o'clock (5:00 pm)@|@บ่าย ห้า โมง@
+@flag@|@ธง@
+@flee@|@หนี@
+@flood@|@น้ำท่วม@
+@flooded@|@น้ำท่วม@
+@floor@|@พื้น@
+@floor (bottom surface)@|@พื้น@
+@floor (storey)@|@ชั้น@
+@flower@|@ดอกไม้@
+@flying@|@บิน@
+@food@|@อาหาร@
+@foolish@|@โง่, โง่เง่า, งี่เง่า@
+@foot@|@เท้า@
+@foot (of animal)@|@ตีน@
+@foot (of man)@|@เท้า@
+@for example@|@เช่น, สมมุติ@
+@forbid@|@ห้าม@
+@forbidden@|@ห้าม@
+@forest@|@ป่า, ป่าไม้@
+@fork@|@ซ้อม@
+@former@|@เดิม@
+@former life@|@ชาติก่อน@
+@fox@|@หมาจิงจอก@
+@French fries@|@เฟรนช์ ฟรายด์@
+@French language@|@ภาษาฝรั่งเศส@
+@frequently@|@บ่อยๆ@
+@fresh@|@สดชื่น@
+@Friday@|@วันศุกร์@
+@fridge@|@ตู้เย็น@
+@fried eggs@|@ไข่ดาว@
+@fried rice@|@ข้าวผัด@
+@fried rice noodles@|@ผัดไทย@
+@friendship@|@มิตรภาพ@
+@fruit@|@ผลไม้@
+@fruit juice@|@น้ำผลไม้@
+@fry@|@ผัด@
+@frying pan@|@กะทะ@
+@full@|@อิ่ม, อิ่มแล้ว@
+@full moon@|@เดือนเต็มดวง@
+@fun@|@สนุก@
+@funny@|@ตลก@
+@future@|@อนาคต, ภายหน้า@
+@fuzzy@|@เบรอ@
+@gap@|@ช่อง@
+@garage@|@โรงรถ@
+@garbage bin@|@ถังขยะ@
+@garden@|@สวน@
+@gardener@|@คนสวน@
+@general@|@ธรรมดา@
+@gentle@|@นุ่ม, นุ่มนวล@
+@gentle in manner@|@นุ่มนิ่ม@
+@genuine@|@แท้@
+@geography@|@ภูมิศาสตร์@
+@get up@|@ยืน ขึ้น, ลุก ขึ้น@
+@gift@|@ของขวัญ, พรสวรรค์@
+@girl@|@เด็กผู้หญิง@
+@girl (under 15)@|@เด็กหญิง@
+@girlfriend@|@แผน, แฟน@
+@give birth@|@ออกลูก@
+@glass@|@แก้ว@
+@glass (pane of)@|@กระจก@
+@glasses@|@แว่นตา@
+@go@|@ไป@
+@go down@|@ลง@
+@go in the red@|@ขาดทุน@
+@go to bed@|@เข้านอน@
+@go up@|@ขึ้น@
+@goat@|@แพะ@
+@god@|@พระเจ้า@
+@gold@|@ทองคำ@
+@gold-color@|@สีทอง@
+@golden@|@สีทอง@
+@good@|@ดี@
+@good at@|@เก่ง@
+@good enough@|@พอดี@
+@good morning@|@สวัสดี ครับ/ค่ะ@
+@goodbye@|@ลาก่อน@
+@gossip@|@นินทา, ซุบซิบ@
+@government@|@รัฐบาล@
+@government service@|@ราชการ@
+@grammar@|@แกรมม่า@
+@grandfather (father of father)@|@ปู่@
+@grandfather (father of mother)@|@ตา@
+@grandfather (of mother)@|@ตา@
+@grandmother (mother of father)@|@ย่า@
+@grandmother (mother of mother)@|@ยาย@
+@grape@|@องุ่น@
+@green@|@เขียว, สีเขียว@
+@green salad@|@สลัด@
+@grey@|@เทา, สีเทา@
+@grill@|@ปิ้ง, ย่าง, ย่าง, เผา@
+@ground beef@|@เนื้อบด@
+@grumpy@|@งอน@
+@guard with ardent care@|@หวงแหน@
+@guava@|@ฝรั่ง@
+@guess@|@เดา@
+@gummy@|@เหนียว@
+@had enough to eat@|@อิ่ม, อิ่มแล้ว@
+@hair@|@ผม@
+@hair shampoo@|@ยาสระผม@
+@half@|@ครึ่ง@
+@half hour@|@ครึ่งชั่วโมง@
+@hand@|@มือ@
+@handsome@|@หล่อ@
+@hang up the phone@|@วางสาย@
+@hangover@|@อาการเมาค้าง@
+@happy@|@ดีใจ, มีความสุข, สบายใจ@
+@hard (not easy)@|@ยาก@
+@hard (not soft)@|@แข็ง@
+@hat@|@หมวก@
+@hate@|@เกลียด@
+@haunt@|@สิ่ง@
+@have faith@|@เชื่อ@
+@have interest in@|@สนใจ@
+@have meeting@|@ประชุม@
+@head@|@ศีรษะ, หัว@
+@headache@|@ปวดหัว@
+@healthy@|@มีสุขภาพดี@
+@hear@|@ได้ยิน@
+@heart@|@ใจ@
+@heavy@|@หนัก@
+@heavy construction@|@ก่อสร้าง@
+@height@|@ความสุข@
+@hello@|@สวัสดี, สวัสดี ครับ/ค่ะ, ฮัลโหล, ... พูด@
+@help@|@ช่วย@
+@hen@|@ไก่ตัวเมีย@
+@here@|@ที่นี่@
+@high@|@สูง@
+@highway/motorway@|@ไฮเวย์@
+@hinder@|@ขัดขวาง@
+@hire@|@จ้าง@
+@history@|@ประวัติศาสตร์@
+@hold@|@จับ@
+@hold on the line (phone)@|@รอสักครู่ ครับ/ค่ะ@
+@hole@|@ช่อง@
+@hollow@|@เป็นรู@
+@honey@|@น้ำผึ้ง@
+@hope@|@หวัง@
+@horrific@|@น่ากลัว@
+@horse@|@ม้า@
+@hospital@|@โรงพยาบาล@
+@hot@|@เผ็ด, ร้อน@
+@hot season@|@หน้า ร้อน, ฤดู ร้อน@
+@hour@|@ชั่วโมง@
+@house@|@บ้าน@
+@house owner@|@เจ้าของบ้าน@
+@housekeeper@|@แม่บ้าน@
+@how are you?@|@สบายดีไหม ครับ/คะ@
+@how far?@|@ไกลเท่าไหร่@
+@how long?@|@นานเท่าไรแล้ว@
+@how many?@|@กี่@
+@how much time?@|@นานเท่าไหร่@
+@how much?@|@เท่าไหร่@
+@how?@|@อย่างไหน@
+@human being@|@มนุษย์@
+@hurt@|@เจ็บ, ปวด@
+@hurt (emotionally)@|@เจ็บใจ@
+@husband@|@สามี, สามี, ผัว@
+@hypocritical@|@เสแสร้ง@
+@I (female)@|@ฉัน@
+@I (male)@|@ผม@
+@ice cubes@|@น้ำแข็ง@
+@iced coffe@|@กาแฟเย็น@
+@iced tea@|@ชาเย็น@
+@if@|@ถ้า, ถ้าว่า, หาก@
+@ill@|@ไม่สบาย, ป่วย, ป่วย, ไม่สบาย@
+@I'll be back@|@จะมาแล้ว@
+@I'll be right back@|@อีก สักครู่ จะมาแล้ว ครับ@
+@illegal@|@ผิดกฎหมาย@
+@illness@|@เป็น โรค@
+@implore@|@ขอร้อง@
+@import@|@สินค้าเข้า@
+@impose on someone@|@เอาเปรียบ@
+@improved@|@พัฒนา@
+@in@|@ใน@
+@in 3 days@|@ภายใน 3 วัน, อีก 3 วัน@
+@in bed@|@บนเตียง@
+@in case of@|@เผื่อ, เผื่อว่า@
+@in the center@|@ตรงกลาง@
+@incarnation@|@ชาติ@
+@incorrect@|@ผิด@
+@indifferent@|@เฉยๆ@
+@inflammation@|@อักเสบ@
+@initiate oneself@|@เริ่มต้น@
+@injection@|@ฉีดยา@
+@insect@|@ตัวแมลง@
+@inside@|@ข้างใน@
+@insult@|@ดูถูก@
+@insurance@|@การประกัน@
+@intelligent@|@ฉลาด, มี สติปัญญา ดี@
+@intend@|@ตั้งใจ@
+@interested@|@สนใจ@
+@interesting@|@น่าสนใจ@
+@intimate@|@ใกล้ชิด@
+@invited@|@เชิญ@
+@ironing conditioner@|@น้ำยา รีดผ้า@
+@isn't it?@|@ใช่ไหม@
+@it@|@มัน@
+@it rains@|@ฝนตก@
+@it snows@|@หิมะตก@
+@jacket@|@เสื้อ แจ็กเก็ท@
+@jam@|@แยม@
+@January@|@มกราคม@
+@jealous@|@หวง@
+@joke@|@แกล้ง, ตลก@
+@July@|@กรกฏาคม@
+@June@|@มิถุนายน@
+@jungle@|@ป่าดงดิบ, ป่ารก, ดง@
+@just@|@สัก@
+@just a moment@|@สักครู่@
+@just about@|@สัก@
+@just now@|@เมื่อกี้@
+@just right@|@พอดี@
+@keep@|@เก็บ@
+@ketchup@|@ซอสมะเขือเทศ@
+@kidnap@|@ลักพาตัว@
+@kind@|@เกรงใจ, ใจดี@
+@king@|@พระมหากษัตริย์@
+@king (general)@|@กษัตริย์@
+@King (of Thailand)@|@พระบาทสมเด็จพระเจ้าอยู่หัว@
+@kingdom@|@ราชอาณาจักร@
+@kiss@|@จูบ@
+@kitchen@|@ห้องครัว@
+@klong@|@คลอง@
+@knee@|@หัวเข่า@
+@knife@|@มีด@
+@know@|@รู้, รู้จัก@
+@known@|@เป็นที่รู้จัก@
+@lacking energy@|@ไม่มีแรง@
+@lady's man@|@เจ้าชู้@
+@lake (large)@|@ทะเลสาบ@
+@lamp@|@โคมไฟ@
+@language@|@ภาษา@
+@large@|@ใหญ่, ใหญ่, โต@
+@last time (final)@|@ครั้ง สุดท้าย@
+@last time (previous)@|@ครั้ง ทีแล้ว@
+@late@|@สาย@
+@later@|@ทีหลัง, หลัง, หลังจาก@
+@laugh@|@ขำ, หัวเราะ@
+@lawyer@|@ทนายความ@
+@leak@|@รั่ว@
+@left@|@ซ้าย@
+@leg@|@ขา@
+@lend money@|@ให้ยืมเงิน@
+@length@|@ความยาว@
+@less than@|@น้อยกว่า@
+@lesson@|@บทเรียน@
+@let@|@ยอม ให้@
+@let it be@|@อะไรจะเกิดก็ให้มันเกิด@
+@letter@|@จดหมาย@
+@lie on stomach@|@นอนคว่ำ@
+@lie on the back@|@นอนหงาย@
+@lie on the side@|@นอนตะแคง@
+@life@|@ชาติ@
+@light@|@แสง, สว่าง, สว่าง@
+@light (not heavy)@|@เบา@
+@light blue@|@สีฟ้า@
+@light bulb@|@หลอดไฟ@
+@light green@|@สีเขียว อ่อน@
+@lighter@|@ไฟแช็ค@
+@like@|@เช่น@
+@likely@|@ดูเหมือนจะ@
+@likewise@|@เช่นเดียวกัน, เช่นกัน@
+@lime@|@มะนาว@
+@lion@|@สิงโต@
+@lips@|@ริมฝีปาก@
+@liquid@|@ของเหลว@
+@listen@|@ฟัง@
+@literature@|@วรรณคดี@
+@little@|@เล็ก, น้อย, น้อย, เล็ก@
+@little by little@|@ทีละนิดทีละหน่อย@
+@liver@|@ตับ@
+@living room@|@ห้องนั่งเล่น@
+@lizard@|@จิ้งจก@
+@lobster@|@กุ้งมังกร@
+@location@|@สถานที่@
+@lonely@|@เหงา@
+@long@|@ยาว@
+@long for@|@หวัง@
+@long gun@|@ปืนยาว@
+@long sleeves@|@เสื้อ แขน ยาว@
+@look at@|@ดู, มอง@
+@lose@|@แพ้, ขาดทุน@
+@lose money@|@ขาดทุน@
+@lottery@|@ล็อตเตอรี่@
+@loud@|@ดัง@
+@love@|@ความรัก@
+@low@|@ต่ำ@
+@luggage@|@กระเป๋า@
+@lunch@|@อาหารกลางวัน, อาหารเที่ยง@
+@lustful@|@สำส่อน@
+@magnet@|@แม่เหล็ก@
+@make an excuse@|@แก้ตัว@
+@malaria@|@ไข้จับสั่น, มาลาเรีย@
+@man@|@ผู้ชาย@
+@management@|@การจัดการ@
+@mango@|@มะม่วง@
+@mangosteen@|@มังคุด@
+@many@|@เยอะ, มาก, มาก, จัง, หลาย@
+@March@|@มีนาคม@
+@marmalade@|@แยม@
+@maternal grandfather@|@ตา@
+@mathematics@|@คณิตศาสตร์@
+@May@|@พฤษภาคม@
+@maybe@|@บางที, บางครั้ง, อาจจะ@
+@meat@|@เนื้อ, ชิ้น, เนื้อสัตว์@
+@medicine@|@ยา@
+@meet@|@เจอ@
+@menu@|@เมนู@
+@message@|@ข้อความ@
+@metal@|@โลหะ@
+@metropolis@|@มหานคร@
+@microwave oven@|@เตาไมโครเวฟ@
+@midnight (0:00)@|@เที่ยง คืน@
+@mild@|@นุ่มนวล@
+@milk@|@นม@
+@mine (female)@|@ของฉัน@
+@mine (male)@|@ของผม@
+@minister@|@รัฐมนตรี@
+@ministry@|@กระทรวง@
+@Ministry of Defense@|@กระทรวง กลาโหม@
+@Ministry of Interior@|@กระทรวง มหาดไทย@
+@minute@|@นาที@
+@mirror@|@กระจก@
+@miss an appointment@|@ผิดนัด@
+@miss someone@|@คิด ถึง@
+@mix@|@ผสม@
+@mobile phone@|@โทรศัพท์ มือถือ@
+@Monday@|@วันจันทร์@
+@money@|@เงิน@
+@monkey@|@ลิง@
+@month@|@เดือน@
+@mood@|@อารมณ์@
+@moon@|@จันทร์, ดวงจันทร์@
+@moonlight@|@แสงจันทร์@
+@more than@|@มากกว่า@
+@morning@|@ตอนเช้า@
+@mosquito@|@ยุง@
+@most@|@ดีที่สุด@
+@mother@|@แม่@
+@motorbike@|@รถมอเตอร์ไซด์@
+@mountain@|@เขา, ภูเขา@
+@mouse@|@หนู@
+@mouth@|@ปาก@
+@move residence@|@ย้ายบ้าน@
+@movie@|@หนัง, ภาพยนต์@
+@moving@|@เคลื่อนที่@
+@much@|@เยอะ, มาก, มาก, เยอะ, มาก, จัง@
+@mushroom@|@เห็น@
+@music@|@ดนตรี@
+@musical group@|@วงดนตรี@
+@musical instrument@|@เครื่องดนตรี@
+@musician@|@นักดนตรี@
+@mussel@|@หอยแมลงภู่@
+@must@|@สมควร@
+@my@|@ของฉัน, ของผม@
+@my name is...@|@ผม/ฉัน ชื่อ...@
+@nails@|@เล็บ@
+@narrow@|@แคบ@
+@nation@|@ชาติ@
+@naturally@|@โดยธรรมชาติ@
+@near@|@ใกล้, ใกล้เคียง, ไกล้@
+@neat@|@เรียบร้อย@
+@neck@|@ลำคอ@
+@neglect@|@ละทิ้ง@
+@neighbour@|@เพื่อนบ้าน@
+@nephew@|@หลานชาย@
+@never@|@ไม่เคย@
+@new@|@ใหม่@
+@next@|@ถัดไป@
+@next life@|@ชาติหน้า@
+@next to@|@ติดกับ@
+@next year@|@ปีหน้า@
+@nice@|@ใจดี, น่ารัก@
+@niece@|@หลานสาว@
+@night@|@คืน@
+@night suit@|@ชุดนอน@
+@no@|@ไม่, ไม่ใช่, ไม่ใช่@
+@no (polite)@|@ไม่ครับ, ไม่ค่ะ@
+@no spicy@|@ไม่เผ็ด@
+@no spicy at all@|@ไม่ใส่พริกเลย@
+@no wonder…@|@มิน่าเล่า@
+@nobody answers (phone)@|@ไม่มีใครรับสาย@
+@noodle salad@|@ยำวุ้นเส้น@
+@noodle soup@|@ก๋วยเตี๋ยวน้ำ@
+@noon (12:00 am)@|@เที่ยงวัน@
+@North@|@เหนือ@
+@Northeast@|@ทิศตะวันออกเฉียงเหนือ@
+@Northeast (Isarn)@|@ภาค อีสาน@
+@Northwest@|@ทิศตะวันตกเฉียงเหนือ@
+@nose@|@จมูก@
+@not at all@|@ไม่เลย@
+@not clean@|@สกปรก@
+@not enough@|@ไม่พอ@
+@not quite@|@ไม่ค่อย@
+@not that much@|@ไม่ค่อย@
+@not totally waken up@|@เบรอ@
+@notebook@|@สมุด@
+@notice@|@มองเห็น@
+@November@|@พฤศจิกายน@
+@now@|@เดี๋ยวนี้, ตอนนี้@
+@nowadays@|@ปัจจุบัน, ปัจจุบัน กาล@
+@nowhere@|@ไม่สักที่เดียว@
+@obstruct@|@ขัดขวาง@
+@occupation@|@อาชีพ@
+@October@|@ตุลาคม@
+@of course@|@แน่นอน@
+@office@|@สำนักงาน@
+@often@|@บ่อย ๆ, บ่อยๆ@
+@old@|@เก่า, เก่าแก่@
+@old (person)@|@แก่@
+@old person@|@ผู้สูงอายุ@
+@omelet@|@ไข่เจียว@
+@omit@|@ยกเว้น@
+@one hour@|@หนึ่ง ชั่วโมง@
+@one o'clock (1:00 am)@|@ตี หนึ่ง@
+@one o'clock (1:00 pm)@|@บ่าย หนึ่ง โมง@
+@only@|@เท่านั้น@
+@open@|@เปิด, เปิด@
+@opportunity@|@โอกาส@
+@opposite@|@ตรงข้าม@
+@or@|@หรือ@
+@orange@|@ส้ม, สีส้ม@
+@orange juice@|@น้ำส้ม@
+@orchid@|@ดอกกล้วยไม้@
+@order@|@สั่ง@
+@origin@|@เดิม@
+@other@|@อื่น@
+@outfit@|@ชุด@
+@outside@|@ข้างนอก@
+@oven@|@เตาอบ@
+@over one's dead body@|@สู้ตาย@
+@over there@|@ที่โน่น@
+@oysters@|@หอยนางรม@
+@pain@|@ปวด@
+@painkiller@|@ยาแก้ปวด@
+@panties@|@กางเกง ใน@
+@papaya@|@มะละกอ@
+@papaya salad@|@ส้มตำ, ปาปาญ่า ป๊อก ๆ@
+@parents@|@พ่อแม่@
+@park@|@สวน@
+@part@|@แยก@
+@past@|@อดีต@
+@pasta@|@พาสต้า@
+@patient@|@อดทน@
+@pause@|@หยุด@
+@pay@|@ใช้เงิน@
+@pay attention to@|@เอาใจใส่, ใส่ใจ, สนใจ@
+@pay back (money)@|@คืน, คืนเงิน@
+@peak@|@ยอด@
+@peanuts@|@ถั่ว@
+@people@|@คน@
+@perfume@|@น้ำหอม@
+@period of time@|@ช่วง@
+@permit (officially)@|@อนุญาต@
+@person@|@คน@
+@person)@|@มันเคี้ยว@
+@perspiration@|@เหงื่อ@
+@pharmacy@|@ร้านขายยา@
+@phone@|@โทรศัพท์@
+@phone back@|@โทรกลับ@
+@phone number@|@เบอร์ โทรศัพท์@
+@phone someone (call comes)@|@โทรมา@
+@phone someone (call goes out)@|@โทรไป@
+@physics@|@ฟิสิกส์@
+@pig@|@หมู@
+@pill@|@ยาเม็ด@
+@pillow@|@หมอน@
+@pimple@|@สิว@
+@pineapple@|@สัปปะรด@
+@pineapple juice@|@น้ำสัปปะรด@
+@pink@|@ชมพู, สีชมพู@
+@planet@|@ดาวเคราะห์, ดาวนพเคราะห์@
+@plant@|@พืช@
+@plastic@|@พลาสติก@
+@plate@|@จาน@
+@play@|@เล่น@
+@play cards@|@เล่นไพ่@
+@play sports@|@เล่นกีฬา@
+@please@|@ได้โปรดเถอะ@
+@please someone@|@ตามใจ@
+@politeness particle (for men)@|@ครับ@
+@politeness particle (for women)@|@ค่ะ@
+@pomelo@|@ส้มโอ@
+@pomme@|@แอ๊ปเปิ้ล@
+@pond@|@สระน้ำ, หนองน้ำ@
+@poor@|@จน@
+@porch@|@ระเบียง@
+@pork@|@หมู, หมู@
+@portion@|@ส่วน@
+@portion too many@|@ส่วนเกิน@
+@possibly@|@เป็นไปได้@
+@post office@|@ไปรษณีย์@
+@potato@|@มันฝรั่ง@
+@pregnant@|@มีท้อง@
+@prescription@|@ใบสั่งยา@
+@present@|@ปัจจุบัน@
+@present time@|@ช่วงนี้, ปัจจุบันนี้, ปัจจุบัน, ปัจจุบัน กาล@
+@president@|@ประธานาธิบดี@
+@pretty (girl)@|@สวย@
+@pretty (woman)@|@สวย@
+@previous@|@มีค่า@
+@previous year@|@ปีที่แล้ว, ปีก่อน@
+@price@|@ราคา@
+@prime minister@|@นายก รัฐมนตรี@
+@primitive@|@เก่าแก่@
+@prince@|@เจ้าชาย, เจ้าฟ้าชาย@
+@princess@|@เจ้าฟ้าหญิง, เจ้าหญิง@
+@privilege@|@สิทธิ์@
+@prize@|@รางวัล@
+@product@|@สินค้า@
+@product to wash dishes@|@น้ำยา ล้าง ชาม@
+@profession@|@อาชีพ@
+@prohibit@|@ห้าม@
+@prok@|@หมู@
+@proof@|@พิสูจน์@
+@protect against@|@ปัองกัน@
+@proud@|@ภูมิใจ@
+@provocative@|@ทะลึ่ง@
+@punish@|@ทำโทษ@
+@purple@|@ม่วง, สีม่วง@
+@purposely@|@โดยเจตนา@
+@purse@|@กระเป๋า@
+@quarrel@|@เถียง, ทะเลาะกัน@
+@queen@|@พระมหาราชินี@
+@queen (general)@|@ราชินี@
+@Queen (of Thailand)@|@พระราชินี@
+@question@|@คำถาม@
+@quick@|@เร็ว, ไว@
+@quickly@|@เร็ว@
+@quiet@|@เงียบ@
+@rabbit@|@กระต่าย@
+@rain@|@ฝน@
+@rainy season@|@หน้า ฝน, ฤดู ฝน@
+@rambutan@|@เงาะ@
+@rarely@|@ไม่ค่อย@
+@rat@|@หนู@
+@rattan ball@|@ตะกร้อ@
+@raw@|@ดิบ@
+@razor@|@มีดโกน@
+@ready@|@พร้อม@
+@rebirth@|@ชาติ@
+@recently@|@เมื่อกี้@
+@reconciliate@|@ง้อ@
+@rectangle@|@สี่เหสี่ยม มุมฉาก@
+@red@|@แดง, สีแดง@
+@referee@|@กรรมการ, ผู้ตัดสิน@
+@regain one's strength@|@เติมพลัง@
+@regret@|@เสียใจ@
+@relax@|@ใจเย็นๆ@
+@reluctantly@|@ฝืนใจ@
+@remove@|@เอาออก@
+@rent@|@เช่าบ้าน@
+@replace@|@เปลี่ยน@
+@restaurant@|@ร้านอาหาร@
+@retired from work@|@เกษียณแล้ว@
+@reward@|@รางวัล@
+@rice@|@ข้าว@
+@rich@|@รวย@
+@rifle@|@ปืนยาว@
+@right@|@ขวา, ถูก, สิทธิ์@
+@rip@|@ขาด@
+@river@|@แม่น้ำ@
+@road@|@ถนน@
+@robber@|@โจร@
+@roof@|@หลังคา@
+@room@|@ห้อง@
+@rope@|@เชือก@
+@rose@|@กุหลาบ@
+@rose apple@|@ชมภู่@
+@rough@|@หยาบ ๆ@
+@round@|@กลม@
+@ruthless@|@ใจดำ@
+@sack@|@ถุง@
+@sad@|@เศร้าใจ@
+@salary@|@เงินเดือน@
+@salt@|@เกลือ@
+@salty@|@เค็ม@
+@same@|@เหมือน@
+@same as@|@เหมือนกับ, เดียวกับ@
+@satisfied@|@พอใจ@
+@Saturday@|@วันเสาร์@
+@saucepan@|@กะทะท้องแบน@
+@sausage@|@ไส้กรอก@
+@save money@|@เก็บเงิน@
+@save oneself@|@เอาตัวรอด@
+@school@|@โรงเรียน@
+@science@|@วิทยาศาสตร์@
+@scrambled eggs@|@ไข่คน@
+@sea@|@ทะเล@
+@seafood@|@อาหารทะเล@
+@second@|@วินาที@
+@secret@|@ความลับ@
+@secretary@|@เลขานุการ@
+@section@|@ส่วน@
+@see@|@เห็น, มองเห็น@
+@see a movie@|@ดู หนัง@
+@seldom@|@ไม่ค่อย@
+@selfish@|@เห็นแก่ตัว@
+@sell@|@ขาย@
+@send@|@ส่ง@
+@sentence@|@ประโยค@
+@separate from@|@แยก@
+@September@|@กันยายน@
+@seven o'clock (7:00 pm)@|@หนึ่ง ทุ่ม@
+@several@|@หลาย@
+@severe@|@ขาด, ดุ@
+@shampoo@|@แชมพู@
+@share@|@แบ่ง@
+@sharp@|@ชัด@
+@sheep@|@แกะ@
+@ship@|@เรือ@
+@shirt@|@เสื้อ@
+@shoes@|@รองเท้า@
+@shop@|@ร้าน@
+@short@|@สั้น@
+@short sleeves@|@เสื้อ แขน สั้น@
+@short time@|@ชั่วคราว@
+@shorts@|@กางเกง ขาสั้น@
+@should@|@สมควร@
+@shoulder@|@บ่า, ไหล่, บ่าไหล่@
+@shower@|@อาบน้ำ@
+@shrimp soup@|@ต้มยำกุ้ง@
+@shrimps@|@กุ้ง@
+@sick@|@ไม่สบาย, ป่วย, ไม่สบาย@
+@silk@|@ผ้าไหม@
+@silver@|@เงิน, สีเงิน@
+@similar@|@เหมือน, เหมือน@
+@similar to@|@เหมือนกับ, เดียวกับ@
+@simple@|@ง่าย@
+@since when?@|@ตั้งแต่เมื่อไหร่@
+@singer@|@นักร้อง@
+@sink@|@อ่างล้างจาน@
+@sit@|@นั่ง@
+@sit down@|@นั่ง ลง@
+@sit with legs bent to one side@|@นั่ง พับ เพียบ@
+@six o'clock (6:00 am)@|@หก โมง เช้า@
+@six o'clock (6:00 pm)@|@หก โมง เย็น@
+@size@|@ขนาด@
+@skillful@|@เก่ง, เก่ง@
+@skirt@|@กระโปรง@
+@sky@|@ฟ้า@
+@skytrain@|@รถไฟลอยฟ้า@
+@sleeping pill@|@ยานอนหลับ@
+@slippers@|@รองเท้าแตะ@
+@slippery@|@ลื่น@
+@slow@|@ช้า, ช้า@
+@slowly@|@ช้า@
+@small@|@เตี้ย@
+@smart@|@ฉลาด@
+@smell@|@กลิ่น@
+@smell bad@|@เหม็น@
+@smell good@|@หอม@
+@smile@|@ยิ้ม@
+@smoke@|@สูบบุหรี่@
+@smooth@|@เนียน@
+@SMS@|@ข้อความ@
+@snake@|@งู@
+@snap up@|@แย่ง@
+@snow@|@หิมะ@
+@soap@|@สบู่@
+@socks@|@ถุงเท้า@
+@soft@|@เนียน, นิ่ม, นุ่ม@
+@soft to the touch@|@นิ่ม@
+@soi@|@ซอย@
+@solitary@|@เหงา@
+@some@|@บ้าง@
+@some of@|@บ้าง@
+@sometimes@|@บางครั้ง, บางที@
+@son@|@ลูกชาย@
+@song@|@เพลง@
+@soon@|@เร็วๆ นี้@
+@soothe@|@ปลอบใจ@
+@sore throat@|@เจ็บคอ@
+@sorrow@|@เสียใจ@
+@sour@|@เปรี้ยว@
+@South@|@ใต้@
+@Southeast@|@ทิศตะวันออกเฉียงใต้@
+@Southwest@|@ทิศตะวันตกเฉียงใต้@
+@space@|@อวกาศ@
+@speed@|@ความ เร็ว@
+@spend money@|@เสียเงิน@
+@spicy@|@เผ็ด@
+@spoon@|@ช้อน@
+@sports@|@กีฬา@
+@square@|@สี่เหสี่ยม จตุรัส@
+@stadium@|@สนามกีฬา@
+@staff@|@พนักงาน@
+@stairs@|@บันได@
+@stand@|@ยืน@
+@stand still@|@เฉยๆ@
+@stand up@|@ยืน, ยืนขึ้น, ลุกขึ้น@
+@star@|@ดาว@
+@stare at@|@มองดู@
+@start@|@เริ่ม, กำลังเริ่ม@
+@state@|@รัฐ@
+@stay@|@อยู่@
+@steam@|@นึ่ง@
+@stew@|@นึ่ง@
+@still@|@ยัง@
+@stomach@|@ท้อง@
+@stone@|@หิน@
+@stop@|@เลิก, หยุด@
+@stop (car)@|@จอด@
+@store@|@ห้าง@
+@storm@|@พายุ@
+@story@|@เรื่อง@
+@stove@|@เตาอบ@
+@stove (electric)@|@เตาไฟฟ้า@
+@stove (gas)@|@เตาแก๊ส@
+@strange@|@แปลก@
+@street@|@ถนน, ถนน@
+@strong (being)@|@แข็งแรง@
+@strong (machine)@|@มีกำลังมาก@
+@stupid@|@โง่, โง่เง่า, งี่เง่า@
+@subject@|@วิชา@
+@subwaytrain@|@รถไฟใต้ดิน@
+@such as@|@เช่น@
+@sugar@|@น้ำตาล@
+@suit@|@ชุด, สูท@
+@sulk@|@งอน@
+@sullen@|@งอน@
+@sun@|@แดด, พระอาทิตย์, ตะวัน, ดวงอาทิตย์@
+@sunburn@|@แดดเผา@
+@Sunday@|@วันอาทิตย์@
+@sunrise@|@ตะวัน ขึ้น@
+@sunset@|@ตะวัน ตก@
+@support@|@สนับสนุน@
+@suppose@|@สมมุติ@
+@supposing that@|@เผื่อ, เผื่อว่า@
+@sure@|@แน่, แน่ใจ, แน่นอน@
+@surely@|@แน่นอน@
+@surpass@|@เลย@
+@suspect@|@สงสัย@
+@swear@|@สาบาน@
+@sweat@|@เหงื่อ@
+@sweet (taste)@|@หวาน@
+@sweets@|@ขนม@
+@swell@|@อักเสบ@
+@swimming suit@|@ชุดว่ายน้ำ@
+@table@|@โต๊ะ@
+@tablet@|@ยาเม็ด@
+@take advantage of (negatively)@|@เอาเปรียบ@
+@talent@|@พรสวรรค์@
+@tall@|@สูง@
+@taste@|@ลอง@
+@tasteless@|@จืด@
+@taxi@|@รถแท็กซี่@
+@tea@|@ชา, ชาร้อน@
+@teacher@|@ครู@
+@team@|@ทีม@
+@tear@|@ขาด@
+@tease@|@แกล้ง@
+@television channel@|@ช่อง@
+@temperament@|@นิสัย@
+@temple@|@วัด@
+@tenant@|@ผู้เช่า@
+@tender@|@นุ่ม@
+@terrible@|@แย่@
+@Thai boxing@|@มวยไทย@
+@Thai country music@|@ลูกทุ่ง@
+@Thai pop music@|@สตริง@
+@thank you@|@ขอบคุณ ครับ/คะ@
+@thanks@|@ขอบคุณ, สบายดี ครับ/คะ@
+@that@|@นั่น@
+@that's it!@|@นั่นแหละ@
+@that's what you get for it@|@สมน้ำหน้า@
+@that's why@|@เพราะฉะนั้น@
+@the best@|@ดีที่สุด, ยอดเยี่ยม@
+@the first@|@ที่หนึ่ง@
+@the last@|@สุดท้าย@
+@the line is busy@|@สายไม่ว่าง@
+@the most@|@ที่สุด@
+@the same one@|@อันเดียวกัน@
+@the same thing@|@อันเดียวกัน@
+@the worst@|@ร้ายกว่าเก่า@
+@there@|@ที่นั่น@
+@there is no signal (mobile)@|@สัญญาณ@
+@therefore@|@เพราะฉะนั้น@
+@they@|@พวกเขา@
+@thick@|@หนา@
+@thin@|@บาง, ผอม@
+@this@|@นี่@
+@this life@|@ชาตินี้@
+@this year@|@ปีนี้@
+@thunder@|@ฟ้าร้อง@
+@Thursday@|@วันพฤหัสฯ@
+@tidy@|@เรียบร้อย@
+@tie@|@เนคไท@
+@tiger@|@เสือ@
+@time@|@เวลา@
+@tip@|@ยอด@
+@tired@|@เหนื่อย@
+@to a superior)@|@ครับ ผม@
+@to accept@|@ยอมรับ@
+@to add@|@เพิ่ม@
+@to agree@|@เห็นด้วย@
+@to answer@|@ตอบ@
+@to appear@|@ปรากฏ@
+@to attack@|@ทำร้าย@
+@to be at@|@อยู่@
+@to be doing something@|@กำลัง@
+@to be doubtful@|@พิรุด@
+@to be ready@|@เสร็จแล้ว@
+@to be sparing@|@ประหยัด@
+@to begin@|@เริ่ม@
+@to bring@|@เอา@
+@to brush teeth@|@แปรง ฟัน@
+@to build@|@สร้าง@
+@to burn@|@เผา@
+@to calculate@|@คิด@
+@to call/to phone@|@โทรศัพท์@
+@to carry@|@ยก / แบก@
+@to catch@|@จับ@
+@to cause to@|@ทำให้@
+@to change@|@เปลี่ยน@
+@to clean@|@ล้าง@
+@to close@|@ปิด@
+@to comb hair@|@หวีผม@
+@to come@|@มา@
+@to complain@|@บ่น@
+@to continue@|@ต่อ@
+@to cook@|@ทำอาหาร@
+@to count@|@นับ@
+@to create@|@สร้าง@
+@to cry@|@ร้องไห้@
+@to cut nails@|@ตัดเล็บ@
+@to dance@|@เต้นรำ@
+@to decide@|@ตัดสินใจ@
+@to defend@|@ปกป้อง@
+@to die@|@ตาย@
+@to dine@|@ทาน@
+@to discover@|@ค้นพบ@
+@to discuss@|@ถกปัญหา@
+@to do@|@ทำ@
+@to do the housework@|@ทำความสะอาด@
+@to do the laundry@|@ซัก, ซักผ้า@
+@to draw@|@วาด@
+@to drink@|@ดื่ม@
+@to drive@|@ขับ@
+@to enter@|@เข้า@
+@to erase@|@ลบ@
+@to exist@|@มีอยู่@
+@to expect@|@หวัง@
+@to experience@|@ทำให้มีประสบการณ์@
+@to explain@|@อธิบาย@
+@to fall@|@ตก@
+@to fear@|@กลัว@
+@to feel@|@รู้สึก@
+@to fight@|@ต่อสู้@
+@to find somebody@|@พบ@
+@to find something@|@เจอ@
+@to fly@|@บิน@
+@to follow@|@ตาม@
+@to fool someone@|@ขี้โกง@
+@to forget@|@ลืม@
+@to get@|@เอา@
+@to get dressed@|@ใส่เสื้อ@
+@to give@|@ให้@
+@to go@|@ไป@
+@to go shopping@|@ไป ซื้อ ของ@
+@to grow (being)@|@เลี้ยง@
+@to grow (plant)@|@ปลูก@
+@to have@|@มี@
+@to have finished@|@เสร็จแล้ว@
+@to have just done something@|@พึ่ง@
+@to have to@|@ต้อง@
+@to heal@|@รักษา@
+@to hear@|@ได้ยิน@
+@to heat@|@ให้ความร้อน@
+@to hit@|@ตี@
+@to hope@|@หวัง@
+@to hurt@|@ทำให้เจ็บ@
+@to invite@|@เชิญ@
+@to iron clothes@|@รีดผ้า@
+@to join@|@เข้าร่วม@
+@to kill@|@ฆ่า@
+@to kneel down@|@คุกเข่า@
+@to know@|@ทราบ@
+@to land@|@ที่ดิน@
+@to laugh@|@หัวเราะ@
+@to learn@|@เรียน@
+@to leave@|@ออกจาก@
+@to lie@|@โกหก@
+@to like@|@ชอบ@
+@to live@|@อยู่, อยู่@
+@to look@|@มอง@
+@to lose@|@เสีย@
+@to love@|@รัก@
+@to make@|@ทำ@
+@to meet@|@พบ@
+@to move@|@ใหญ่@
+@to need@|@ต้องการ@
+@to offer@|@เสนอให้@
+@to open@|@เปิด@
+@to paint@|@ทาสี@
+@to pay@|@จ่าย@
+@to pay attention@|@ให้ความสนใจ@
+@to prepare@|@เตรียม@
+@to prove@|@พิสูจน์@
+@to put@|@วาง@
+@to recieve@|@รับ@
+@to remember@|@จำ@
+@to repeat@|@ทำซ้ำ@
+@to rinse@|@ล้าง@
+@to rule@|@ปกครอง@
+@to run@|@วิ่ง@
+@to say@|@พูด@
+@to search@|@หา@
+@to shave@|@โกนหนวด@
+@to show@|@โชว์@
+@to sing@|@ร้องเพลง@
+@to sit@|@นั่ง@
+@to sleep@|@หลับ@
+@to smile@|@ยิ้ม@
+@to speak@|@พูด@
+@to spend@|@ใช้@
+@to squat@|@นั่ง ยอง ๆ@
+@to steal@|@ขโมย@
+@to stop@|@หยุด@
+@to study@|@เรียน@
+@to sweep@|@กวาดบ้าน, ปัดพื้น@
+@to take (sth/so f.)@|@เอา@
+@to talk@|@พูด@
+@to taste@|@ชิม@
+@to teach@|@สอน@
+@to tell@|@บอก@
+@to think@|@คิด@
+@to throw@|@ขว้าง@
+@to touch@|@แตะ@
+@to translate@|@แปล@
+@to travel@|@ท่องเที่ยว@
+@to try (experimental)@|@ลอง@
+@to try (make an effort)@|@พยายาม@
+@to understand@|@เข้าใจ@
+@to undress@|@ถอดเสื้อ@
+@to visit somebody@|@เยี่ยม@
+@to visit something@|@ไป@
+@to vote@|@โหวต@
+@to wait@|@รอ@
+@to walk@|@เดิน@
+@to want (+noun)@|@อยากได้@
+@to want (+verb)@|@ต้องการ@
+@to wash@|@ล้าง@
+@to wash hair@|@สระผม@
+@to wash hands@|@ล้างมือ@
+@to wash the dishes@|@ล้าง ชาม@
+@to water the plants@|@รดน้ำ@
+@to wish@|@ปรารถนา@
+@to write@|@เขียน@
+@toast@|@ปิ้ง@
+@today@|@วันนี้@
+@together@|@กัน@
+@toilet@|@ชักโครก@
+@toilets@|@ห้องน้ำ@
+@tomato@|@มะเขือเทศ@
+@tomato sauce@|@ซอสมะเขือเทศ@
+@tomorrow@|@พรุ่งนี้, วันพรุ่งนี้@
+@tongue@|@ลิ้น@
+@too bad@|@น่าเสียดาย@
+@too many@|@มากเกินไป@
+@too much@|@มากเกินไป@
+@tooth@|@ฟัน@
+@toothbrush@|@แปรงสีฟัน@
+@toothpick@|@ไม้จิ้มฟัน@
+@toothsome (food@|@มันเคี้ยว@
+@top@|@ยอด@
+@touch@|@จับ, สัมผัส, แตะต้อง@
+@traffic bridge@|@สะพานลอย@
+@train@|@รถไฟ@
+@train station@|@สถานีรถไฟ@
+@transparent@|@ใส@
+@tree@|@ต้นไม้@
+@trousers@|@กางเกง@
+@truck@|@รถบรรทุก@
+@trust@|@เชื่อใจ@
+@trust someone@|@ศรัทธา@
+@try@|@พยายาม, พยายาม, ลอง@
+@tshirt@|@เสื้อ ยืด@
+@Tuesday@|@วันอังคาร@
+@tuna@|@ทูน่า@
+@turn@|@เลี้ยว@
+@turtle@|@เต่า@
+@TV@|@ทีวี, โทรทัศน์@
+@TV channel@|@ช่อง@
+@TV program@|@รายการทีวี@
+@two@|@สอง@
+@two years ago@|@สอง ปีที่แล้ว@
+@umbrella@|@ร่ม@
+@uncle (elder brother of parents)@|@ลุง@
+@uncle (younger brother of father)@|@อาผู้ชาย@
+@uncle (younger brother of mother)@|@น้าผู้ชาย@
+@uncomfortable@|@อึดอัด@
+@unconscious@|@เป็น ลม@
+@under@|@ข้างล่าง, ข้างล่าง@
+@underwear@|@กางเกง ใน@
+@unemployed person@|@ว่างงาน@
+@uniform@|@แบบ ฟอร์ม@
+@university@|@มหาวิทยาลัย@
+@unlikely@|@ไม่ค่อยจะ@
+@unlucky@|@ซวย@
+@unsmooth@|@หยาบ ๆ@
+@unusual@|@ผิดปกติ@
+@upset@|@ใจร้อน@
+@upstairs@|@ข้างบน@
+@urgent@|@ด่วน@
+@urinate@|@เยี่ยว@
+@useful@|@ประโยชน์@
+@usually@|@ประจำ@
+@uterus@|@มดลูก@
+@valley@|@หุบเขา@
+@various@|@ต่าง ๆ@
+@vegetables@|@ผัก@
+@very@|@มาก, มาก, จัง@
+@very angry@|@โมโห@
+@very much@|@เหลือเกิน, จังเลย@
+@very urgent@|@ด่วนที่สุด@
+@vicinity@|@บริเวณ@
+@village@|@หมู่บ้าน@
+@wages@|@ค่าจ้าง@
+@wake up@|@ตื่น@
+@wall@|@ผนัง@
+@wardrobe@|@ตู้เสื้อผ้า@
+@warm@|@อุ่น@
+@warmth (love)@|@ความอบอุ่น@
+@warn@|@เตือน@
+@washbasin@|@อ่างล้างหน้า@
+@watch@|@ดู, มอง@
+@watchman@|@คนยาม@
+@water@|@น้ำ@
+@water tap@|@ก็อกน้ำ@
+@watermelon@|@แตงโม@
+@we@|@พวกเรา@
+@weak@|@อ่อนแอ@
+@weather@|@ภูมิอากาศ, อากาศ@
+@Wednesday@|@วันพุธ@
+@week@|@สัปดาห์, อาทิตย์@
+@weekend@|@เสาร์อาทิตย์@
+@welcome@|@ยินดีต้อนรับ, รับ@
+@well@|@ดี@
+@West@|@ตะวันตก@
+@wet@|@เปียก@
+@what a pity@|@น่าเสียดาย@
+@what is your name?@|@คุณ ชื่อ อะไร ครับ/คะ@
+@what time is it?@|@กี่โมงแล้ว@
+@what time?@|@กี่โมง@
+@what?@|@อะไร@
+@what's going on@|@เป็นยังไงบ้าง@
+@what's up@|@เป็นยังไงบ้าง@
+@when?@|@เมื่อไหร่@
+@where from?@|@จากไหน@
+@where to?@|@ไปไหน@
+@where?@|@ที่ไหน@
+@which way?@|@ทางไหน@
+@which?@|@อันไหน@
+@while@|@ในขณะที่, ในเวลาที่@
+@white@|@ขาว, สีขาว@
+@who sells chicken eggs?@|@ใคร ขาย ไข่ ไก่@
+@who?@|@ใคร, คนไหน@
+@whole@|@ทั้ง, ทั้งหมด@
+@who's speaking?@|@ใครพูด ครับ/ค่ะ@
+@why?@|@ทำไม@
+@wide@|@กว้าง@
+@wife@|@ภรรยา, ภรรยา, เมีย@
+@will@|@ตั้งใจ@
+@win@|@ชนะ@
+@wind@|@ลม@
+@window@|@หน้าต่าง@
+@wine@|@ไวน์, ไวน์, เหล้า องุ่น@
+@with@|@โดย@
+@woman@|@ผู้หญิง@
+@wonderful@|@เจ๋ง@
+@wood@|@ไม้@
+@word@|@คำ@
+@work (n)@|@การงาน@
+@work (vb)@|@ทำงาน@
+@work permit@|@ใบอนุญาตทำงาน@
+@world@|@โลก@
+@worried@|@กังวล@
+@worry@|@ห่วง@
+@wrest@|@แย่ง@
+@wristwatch@|@นาฬิกา ข้อมือ@
+@wrong@|@ผิด, ผิด@
+@year@|@ปี@
+@yellow@|@เหลือง, สีเหลือง@
+@yes@|@ใช่@
+@yes (polite)@|@ครับ, ค่ะ@
+@yes (very polite@|@ครับ ผม@
+@yesterday@|@เมื่อวานนี้@
+@yield@|@ยอม, ยอมรับ@
+@you@|@เธอ, คุณ, พวกคุณ@
+@young@|@อายุน้อย@
+@young (child)@|@เด็ก@
+@young (female)@|@สาว@
+@young (male)@|@หนุ่ม@
+@young people@|@วัยรุ่น@
+@young woman@|@นาง, นางสาว@
+@younger brother@|@น้องชาย@
+@younger sister@|@น้องสาว@
+

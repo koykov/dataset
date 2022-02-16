@@ -1,0 +1,2702 @@
+@English@|@Kurdish@
+@Author name@|@GPL@
+@Font@|@Arial\12\Arial\12@
+@# Erdal Ronahî@|@# Maintainer@
+@# GNU Public Licence (GPL)@|@# Licence@
+@# www.linux-ku.com/ferheng@|@# Project homepage@
+@a@|@yek, yekem tîpa alfabeya inglîzî@
+@A@|@(muz) a (not), a (li fêrgehan baştirîn pile)@
+@A.@|@kurteya Absolute, kurteya Academy, kurteya acre, kurteya America[n], kurteya angstrom unit, kurteya Anno (= year), kurteya Artillery@
+@abandon@|@berdan@
+@abate@|@kêmkirin@
+@abide@|@ragirtin@
+@about@|@der barê@
+@above@|@jor@
+@abridge@|@kurtkirin@
+@abscond@|@revîn@
+@absence@|@tunebûn@
+@absolute@|@xwerû@
+@absorb@|@mêtin@
+@abstract@|@razber@
+@abundance@|@mal@
+@abundant@|@berdar, kertek@
+@acceptation@|@wate@
+@access@|@gihiştin, xwegihandin@
+@accident@|@bobelat, qeda@
+@account@|@hesab, sedem@
+@accountable@|@berpirs, berpirsiyar@
+@accurate@|@rast@
+@accustomed@|@fêr@
+@ache@|@êşîn@
+@acid@|@tirş@
+@acrid@|@tûj@
+@acrobat@|@canbaz@
+@act@|@tevgerîn, zagon@
+@action@|@bandor, bizav, çalakî, gurbizî, mêş@
+@actions@|@çalakî@
+@active@|@çalak@
+@activities@|@çalakî, çalakiyan, çalakiyên@
+@activity@|@bizav, çalakî@
+@actress@|@aktrîs@
+@actual@|@rastîn@
+@actually@|@bi rastî@
+@acute@|@tûj@
+@adapt@|@lêanîn@
+@add@|@zêdekirin@
+@address@|@navnîşan@
+@adept@|@pispor@
+@adhere@|@çespandin@
+@adjective@|@rengdêr@
+@adjust@|@edilandin, lêanîn, sererastkirin@
+@administer@|@birêvebirin, kargerandin@
+@administration@|@kargerî@
+@adolescence@|@ciwanî, xortanî@
+@adroit@|@jêhatî@
+@adventure@|@serborî@
+@advertise@|@ragihandin@
+@advice@|@pend@
+@afar@|@dûr@
+@affair@|@bûyer@
+@affect@|@bandorlêkirin@
+@affirmative@|@erênî@
+@afflatus@|@best@
+@affluence@|@mal@
+@afresh@|@cardin@
+@after@|@piştî@
+@afterward@|@peyre@
+@again@|@cardin, dîsa@
+@against@|@dijber, hember@
+@age@|@temen@
+@agency@|@ajans@
+@agenda@|@rojev@
+@aggress@|@êrîşkirin@
+@aggression@|@êrîş@
+@agitate@|@çelqandin, hejandin, têwerdan@
+@ago@|@berê@
+@agony@|@kêşa@
+@agreement@|@peyman@
+@agricultural instruments@|@alatên çandiniyê, alav, amûret, hacet@
+@ahead@|@pêş@
+@aid@|@arîkarî@
+@aide@|@alîkar, arîkar@
+@aim@|@amanc, armanc@
+@air@|@hewa@
+@airconditioner@|@basark@
+@akin@|@mîna@
+@alien@|@biyanî@
+@alike@|@manend, mîna@
+@alive@|@jîndar, sax, şeng, zindî@
+@all@|@hemû, sercem, tev, yekpare@
+@allow@|@berdan@
+@allowance@|@destûr@
+@allowed@|@destûr da@
+@allright!@|@bila be@
+@almond@|@behîv, melaje@
+@alone@|@tenê@
+@alphabet@|@alfabe@
+@already@|@jixwe@
+@also@|@hem, jî@
+@alter@|@guherîn@
+@although@|@lê belê@
+@always@|@domdar, her dem, tim@
+@am@|@im@
+@ambassador@|@balyoz, sefîr@
+@ambitious@|@bi hêrs@
+@ambush@|@bûse, kemîn@
+@ameliorate@|@sererastkirin@
+@amend@|@sererastkirin@
+@amity@|@dostanî, nasyarî@
+@among@|@nav@
+@ample@|@gewre, girs, kertek@
+@analyze@|@dahûrandin@
+@ancestor@|@bapîr, kalik@
+@anchor@|@qulbik, xepar@
+@ancient@|@kevn, mêj@
+@and@|@û@
+@anecdote@|@derkenar@
+@anesthetize@|@belikandin, benckirin@
+@angel@|@ferişteh, melek@
+@angry@|@bi hêrs, girgîn@
+@anguish@|@renc@
+@animal@|@sewal@
+@anise@|@anîs, anix@
+@announce@|@ragihandin@
+@announced@|@ragihand@
+@annul@|@rakirin@
+@anomalous@|@neasayî@
+@anonymous@|@gelêrî@
+@another@|@din@
+@answer@|@bersiv@
+@ant@|@morî@
+@antecedent@|@pêşîn@
+@anterior@|@mêj@
+@anticipate@|@bendeman, payîn@
+@antique@|@kevnare, perûk@
+@anxiety@|@tirs, xof@
+@any@|@qe, yek@
+@apex@|@lûtke, serî@
+@apologia@|@berevanî, parêzname@
+@apologist@|@berevan@
+@apostrophe@|@dabir@
+@appaled@|@apore, qutifî@
+@apparatus@|@alav, amûr, rist@
+@apparent@|@diyar, vekirî@
+@appeared@|@xwiya bû@
+@appendix@|@apandîs, rûviya zêde@
+@applicable@|@guncaw@
+@applicant@|@berendam@
+@application@|@kiryar, melhem@
+@apply@|@sepandin@
+@apposite@|@guncaw@
+@apprehend@|@fehmkirin, fêmkirin, têgihiştin@
+@apprehension@|@aqil, tirs, xof@
+@appropriate@|@guncaw@
+@approve@|@erêkirin, pesendkirin@
+@apt@|@guncaw@
+@are@|@î@
+@area@|@aqar, herem, pêgeh, war@
+@arid@|@ziwa@
+@arise@|@rabûn@
+@arm@|@bask, mil, pî@
+@arrange@|@rêzkirin, sererastkirin@
+@arrest@|@binçavî, binçavkirin, rawestandin, sekinandin@
+@arrive@|@gihan@
+@art@|@huner@
+@article@|@gotar@
+@as@|@fena, mîna, nola, nolî, wek, wekî@
+@ascension@|@bilindbûn@
+@asinine@|@xêvik@
+@ask@|@pirs kirin@
+@asked@|@pirs kir@
+@assassin@|@bikuj, mêrkuj@
+@assault@|@êrîş, êrîşkirin@
+@assemble@|@berhevkirin, lihevcivîn@
+@assimilate@|@lêanîn@
+@association@|@komel, komele, sazî, sazûman@
+@assumption@|@pêşbînî@
+@assurance@|@soz@
+@astounded@|@apore, qutifî@
+@astrology@|@stêrnasî@
+@at@|@li@
+@athirst@|@tî@
+@atmosphere@|@seqa@
+@attack@|@êrîş, êrîşkirin@
+@attain@|@gihan@
+@attempt@|@ceribandin@
+@attention@|@bal, dêhn, serinc@
+@attenuate@|@kêmkirin@
+@attractive@|@balkeş@
+@auger@|@behreme@
+@aunt@|@xaltî@
+@aurum@|@zêr@
+@author@|@nivîskar, nûser@
+@authority@|@hukûmet, pispor, raye@
+@autonomic@|@xweser@
+@autonomous@|@xweser@
+@autumn@|@payîz@
+@avenue@|@kolan, kûçe@
+@average@|@kêmzêde@
+@await@|@bendeman, payîn@
+@award@|@xelat@
+@awful@|@tirsnak@
+@awkward@|@pêgiran@
+@ax@|@bivir@
+@axe@|@bivir@
+@axle holding pins@|@akêra sinriyê@
+@back@|@dû, par, paş, paşve, pey, pişt@
+@bad@|@pûç, sext, xera, xwar@
+@bad omen@|@bedbext@
+@bag@|@çewal@
+@bail@|@derhûde@
+@baker@|@nanpêj@
+@balance@|@hevkêş@
+@bald@|@gurî, keçel, zelût@
+@ballad@|@goranî, kilam, lawij@
+@ballet@|@bale@
+@balloon@|@nepox@
+@ballot@|@deng@
+@ban@|@qedexe, qedexekirin@
+@bangle@|@xelek@
+@bank@|@bank, kom@
+@bankrupt@|@babidest, malketî@
+@banner@|@al@
+@bar@|@çaw, ço@
+@bark@|@ewtîn@
+@barley@|@ceh@
+@barrister@|@parêzer@
+@base@|@bin, bingeh, binî, binyad, hîm, xîm@
+@baseless@|@bêbingeh@
+@basic@|@bingehîn, sade@
+@basin@|@çapemenî@
+@basis@|@bingeh, binyad, hîm@
+@basket@|@selik@
+@bat@|@çilîçilî@
+@batter@|@kutan, lêbezîn, lêdan, lêxistin@
+@battle@|@ceng@
+@bay@|@ewtîn@
+@be@|@bûn@
+@beach@|@perav@
+@beam@|@biriqîn, çirûsîn, teyisîn@
+@bear@|@ragirtin@
+@beard@|@rih@
+@beast@|@sewal@
+@beat@|@kutan, lêbezîn, lêdan, lêxistin@
+@beauteous@|@bedew, zerî@
+@beautiful@|@bedew, zerî@
+@beauty@|@bedewî, rindî@
+@became@|@bû@
+@because@|@ji ber ku, lewre@
+@become@|@bûn@
+@becomes@|@bû ne@
+@bed@|@nivîn@
+@bee@|@mêş@
+@been@|@bû@
+@before@|@berê, bêyî ku, pêşîn@
+@began@|@dest pê kir@
+@beggar@|@geda, parsek@
+@begin@|@destpêkirin@
+@beginning@|@destpêk@
+@behave@|@tevgerîn@
+@behold@|@dîtin@
+@being@|@bûn@
+@belief@|@bawerî, qinyat@
+@believe@|@bawerî, bawerîpêanîn, bawerkirin, pêewlebûn, yeqînkirin@
+@bell@|@naqos, zengil@
+@below@|@bin@
+@bench@|@sekû@
+@beneficial@|@bikêrhatî@
+@benefit@|@havil, kar, kelk, sûd@
+@beside@|@kêlek, rex, tenişt@
+@best@|@herî baş@
+@better@|@çêtir@
+@between@|@navber@
+@bewilder@|@gêjkirin@
+@bicycle@|@duçerxe@
+@big@|@gewre, girîng, girs, mezin@
+@biggest@|@ye/ya herî mezin@
+@bilk@|@xapandin@
+@billfold@|@kîs@
+@biology@|@biyolojî@
+@birth@|@zayîn@
+@bitter@|@req, sext, zeb@
+@black@|@çepel, gemar, kirêt, mujikî, qilêr, reş, tarî@
+@blacksmith@|@hesinkar@
+@blade@|@şûr@
+@blast@|@teqîn@
+@bleed@|@xwînjêhatin@
+@blemish@|@kêmasî, xeletî@
+@blind@|@kor@
+@blood@|@xû, xwîn@
+@blush@|@fedîkirin@
+@bodies@|@leş@
+@body@|@beden, cendek, laş@
+@boil@|@kelandin@
+@bold@|@aza, çeleng, dilawêr, egît, mêrxas@
+@bolt@|@brûsk@
+@bombs@|@bomb@
+@bone@|@hestî@
+@book@|@pirtûk@
+@booty@|@extirme@
+@border@|@kevî, sînor, tixub@
+@borer@|@behreme@
+@both@|@her dû@
+@bottom@|@bin, binî, binyad, jêr@
+@bound@|@girêdayî@
+@boundary@|@sînor, tixub@
+@bounteous@|@camêr, çavfireh@
+@bowel@|@rovî@
+@boy@|@lawik, xort@
+@boyfriend@|@hevalê xort@
+@bracelet@|@bazin@
+@bracket@|@kevan@
+@brain@|@aqil, jîrî@
+@brave@|@çeleng, dilawêr, egît, leheng, mêrxas@
+@brawl@|@pevçûn@
+@bread@|@nan@
+@breath@|@bêhn, henase@
+@breed@|@babet, zayend@
+@breeze@|@sir@
+@brew@|@kelandin@
+@bride@|@bûk@
+@bridge@|@pir@
+@briefly@|@bi kinahî@
+@bright@|@bextewar, jîr, xûjal, zelal@
+@brim@|@kevî@
+@bring@|@anîn, weranîn@
+@broad@|@diyar, fireh@
+@broke@|@şikand@
+@broken@|@aloz, şkestî, xera@
+@bruise@|@çewsandin, gerisandin@
+@brute@|@sewal@
+@bucket@|@satil@
+@budget@|@diravname@
+@build@|@avakirin, çêkirin, damezrandin, sazkirin@
+@bullock@|@ga@
+@bureau@|@nivîsgeh@
+@burn@|@şewitandin, şewitîn@
+@burnish@|@biriqandin, mesqelkirin, teyisandin@
+@burst@|@teqîn@
+@business@|@pirsgirêk@
+@buss@|@paçkirin, ramûsîn@
+@but@|@belam, bes, lê@
+@button@|@bişkoj@
+@buttonhole@|@mêjî@
+@buy@|@kirîn@
+@by@|@bi, heta, heya@
+@by force@|@bi kotekî@
+@bystander@|@bîner@
+@cabbage@|@çilfisandin, dizîn@
+@cache@|@hilanîn@
+@cake@|@kulîçe@
+@calculate@|@hesibandin@
+@call@|@bang, dengdan, dengkirin, denglêkirin, gazî, gazîkirin@
+@calls@|@bang dike@
+@calm@|@aram, asûde@
+@caloric@|@tîn@
+@came@|@hat@
+@camp@|@baregeh, wargeh@
+@can@|@dikare@
+@canal@|@co, cok@
+@cancel@|@betalkirin@
+@candidate@|@berendam, namzed@
+@candle@|@find@
+@cane@|@gopal@
+@cap@|@kum@
+@capacity@|@kapasîte@
+@capital@|@paytext, serbajar@
+@caption@|@sernûçe@
+@captured@|@girtî@
+@car@|@tirimbêl@
+@card@|@kart@
+@care@|@bergirî, xem@
+@carefree@|@bêxem@
+@careful@|@baldar@
+@caressing each other@|@bihevşabûn@
+@carpet@|@tej@
+@carrot@|@gêzer@
+@carry@|@birin, guhêztin, veguhêztin@
+@case@|@doz@
+@cat@|@pisîk@
+@cataclysm@|@bêtar@
+@catastrophe@|@bêtar@
+@catch@|@girtin, zeftkirin@
+@category@|@çîn@
+@cause@|@sedem@
+@caution@|@bergirî, haydan@
+@cave@|@şikeft@
+@cease@|@kutabûn, rawestandin@
+@ceiling@|@sepîtk@
+@celebrated@|@binavûdeng, navdar@
+@cell@|@şane@
+@cellar@|@xenzik@
+@center@|@navend, naverast@
+@central@|@navendî@
+@centre@|@navend, naverast@
+@centres@|@navend@
+@centrical@|@navendî@
+@century@|@sedsal@
+@ceramic@|@ferfûr@
+@ceramics@|@ferfûr@
+@certain@|@mîsoger@
+@chafe@|@firkandin@
+@chamber@|@menzel, ode@
+@chameleon@|@margîse@
+@change@|@guharin, guhartin, guherandin, guherîn@
+@changed@|@guhart, guherrandin, guherrî, guhorrand, guhorrî@
+@channel@|@co, cok@
+@chanticleer@|@dîk@
+@chaos@|@alozî@
+@chapter@|@beş@
+@character@|@sinc, taybetmendî@
+@characterize@|@binavkirin@
+@charge@|@barkirin, biha, buha, tawanbarkirin@
+@chary@|@baldar@
+@chase@|@seyd@
+@chaste@|@xwerû@
+@cheap@|@erzan@
+@cheat@|@xapandin, xirandin@
+@checkroom@|@derben@
+@cheek@|@dêm@
+@cheerful@|@şeng@
+@cheese@|@penîr@
+@child@|@zarok@
+@childhood@|@biçûkahî@
+@children@|@zarok@
+@chilly@|@hênik, sar@
+@chimney@|@bixêrî, kulek@
+@chin@|@zenî@
+@chorus@|@koro@
+@chuck@|@avêtin@
+@church@|@dêr@
+@cinder@|@arî, xwelî@
+@city@|@bajar@
+@claim@|@dilkirin, maf, xwestin@
+@claimed@|@heqê@
+@class@|@çîn@
+@classes@|@çîn@
+@claw@|@kulab@
+@clay@|@gil@
+@clean@|@avîje, pak, pakkirin, pakûj, paqij, paqijkirin, xwerû@
+@cleanly@|@avîje, pak, paqij@
+@clear@|@diyar, eşkere, pakûj, paqijkirin, pendî, temîz, zelal@
+@clever@|@aqilmend, jêhatî, zîrek, zîrevan@
+@clique@|@kom@
+@close@|@girtî@
+@closer@|@nêzîktir@
+@cloth@|@caw@
+@cloud@|@ewr@
+@cloudy@|@ewrawî@
+@clover@|@ket, nefel@
+@club@|@komele@
+@cluster@|@kom@
+@coal@|@rijî@
+@coat@|@sako@
+@cock@|@dîk@
+@coffin@|@darbest@
+@colander@|@mefsik@
+@cold@|@bahor, sar, zekem@
+@collar@|@berstûk, gerdenî, pastîn, pîst@
+@collect@|@komkirin@
+@color@|@boyax, gûn, reng@
+@come@|@gehîştin, gihaştin, hatin, ragihiştin@
+@comic@|@degel, ecêb@
+@command@|@ferman@
+@commend@|@pesindan@
+@commentary@|@şîrove@
+@commerce@|@bazirganî@
+@commission@|@komîsyon, lijne, peywir, vatinî@
+@common@|@digel, gelemper, gelemperî, gerdûnî, giştî, hevbeş, hevpar, ligel@
+@communicate@|@ragihandin@
+@communism@|@komunîzm@
+@community@|@civat@
+@companion@|@heval@
+@company@|@malpar, şirket@
+@compendious@|@kin, kurt@
+@competent@|@hemser, hevser, hinkuf@
+@competition@|@pozberî@
+@competitor@|@berber@
+@compilation@|@berhevok@
+@compile@|@berhevkirin@
+@complete@|@tev@
+@component@|@hêman@
+@computer@|@komputer@
+@conceal@|@veşartin@
+@conceited@|@pozbilind@
+@conception@|@têgih, têgîn@
+@concern@|@bal, pêwendî, xem@
+@concerned@|@pêwend@
+@concert@|@sazdêran@
+@concise@|@kurt@
+@conclude@|@bidawîkirin, dawîlêhatin, kutabûn@
+@conclusion@|@bidawîbûn, dawî@
+@condition@|@barîdox@
+@conditions@|@şert@
+@conduct@|@tevgerîn@
+@conflict@|@pêvçûn@
+@congress@|@kongre@
+@consecution@|@qor, ref@
+@consider@|@fikirîn, hizrîn@
+@conspicuous@|@diyar@
+@constant@|@domdar@
+@constituent@|@hêman@
+@constitution@|@makezagon@
+@construct@|@avakirin@
+@contemporary@|@hevçerx, hevdem@
+@contention@|@qirên@
+@contest@|@doz@
+@continent@|@parzemîn@
+@continue@|@domîn@
+@continuous@|@mayînde@
+@contra@|@dij@
+@contribute@|@tevkarî kirin@
+@contribution@|@gotar, hevpar, hevparî@
+@control@|@kontrol@
+@convenient@|@guncaw@
+@convention@|@civîn@
+@conversation@|@axaftin, cir, dembûhêrk@
+@convey@|@guhêztin, veguhêztin@
+@convocation@|@civîn@
+@cool@|@hênik, hênikkirin@
+@copartner@|@hevpar@
+@copious@|@kertek@
+@copper@|@sifir@
+@copy@|@kopya, nimûne, wekok@
+@cord@|@bend@
+@corn@|@dexl@
+@corporal punishment@|@seza laşî@
+@corpse@|@cendek@
+@correspond@|@lêguncîn@
+@corrupt@|@pûç@
+@cost@|@biha, buha@
+@cough@|@kuxik@
+@council@|@konsey@
+@count@|@hejmartin@
+@count on@|@hemet@
+@countries@|@welat@
+@country@|@welat@
+@couple@|@cot, zo@
+@courageous@|@çeleng, dilawêr, egît, leheng, mêrxas@
+@course@|@alî, rex@
+@court@|@dadgeh@
+@cover@|@bahane, behane, betenî, bihane, dadan, devik, hêcet, hêncet, nixamtin, niximandin, nixumandin, penageh, qeram, stargeh, veşartgeh@
+@covering of the joists@|@alaşkirin@
+@cow@|@çêlek, mange@
+@coward@|@bêzirav, bizdonek, tirsonek@
+@crab@|@kevjal@
+@crack@|@şkandin@
+@cradle@|@dergûş@
+@crash@|@şkandin@
+@crazy@|@dîn@
+@create@|@afirandin, dahênan, darêjtin@
+@credence@|@bawerî@
+@credit@|@kredî@
+@crime@|@tawan@
+@crisis@|@qeyran@
+@criterion@|@pîvan@
+@critique@|@rexne@
+@crop@|@zad@
+@crowd@|@girse@
+@crude@|@xav@
+@cruel@|@çavsor, stemkar, xedar, zordar, zordest@
+@crust@|@tivil@
+@cry@|@girîn@
+@cryptic@|@nepenî@
+@cull@|@neqandin@
+@culture@|@çand, ferheng@
+@cumulate@|@komkirin@
+@cunning@|@bernac, kone, xasûk@
+@cure@|@tîmar@
+@curiosity@|@zîranî@
+@curious@|@ecêb@
+@curse@|@çêrlêkirin, nifir@
+@cushy@|@hêsan@
+@cusp@|@lûtke, serî@
+@custom@|@ferheng@
+@cut@|@birîn, jê kirin@
+@cute@|@bernac, kone, xasûk@
+@d@|@d@
+@daft@|@dîn@
+@daily@|@rojane@
+@dam@|@bend@
+@damage@|@ziyan@
+@damp@|@şil@
+@dance@|@reqisîn, reqs@
+@danger@|@xeter, xetere@
+@dangerous@|@xeternak@
+@dare@|@wêrîn@
+@dark@|@tarî@
+@dash@|@avêtin@
+@data@|@agahî@
+@date@|@dîrok@
+@daughter@|@keç@
+@dawn@|@berbang@
+@day@|@roj@
+@daybreak@|@berbang, metîn, spêde@
+@daylight@|@ronahî@
+@days@|@roj@
+@dead@|@bêcan, mirî@
+@deaden@|@belikandin, benckirin@
+@deal@|@bazarî, peyman@
+@dear@|@berdil, delal@
+@death@|@mirin@
+@debate@|@nîqaş@
+@deceit@|@tep@
+@deceive@|@xapandin, xirandin@
+@decide@|@biryar standin@
+@decision@|@biryar@
+@decisions@|@bîryar@
+@declivity@|@berwar@
+@decoration@|@xeml@
+@decrease@|@kêmkirin@
+@dedicate@|@nezirkirin@
+@deep@|@kûr@
+@default@|@rawêj@
+@defect@|@kêm, kêmasî@
+@defer@|@gîrokirin@
+@deficiency@|@kêmî@
+@definite@|@teqez@
+@defraud@|@xapandin, xirandin@
+@defray@|@dan, dayin@
+@deft@|@jêhatî@
+@degree@|@paye, pil, pile, rade@
+@delegate@|@qasid@
+@delight@|@kêf@
+@demand@|@daxwaz, dilkirin, divêtin, hewceyî, pêdivî, pirsîn, viyan, xwestin@
+@demented@|@dîn@
+@democrat@|@demokrat@
+@democratic@|@demokratîk@
+@denotation@|@wate@
+@dentine@|@aca diran@
+@department@|@bask@
+@depend on@|@hemet@
+@deplore@|@gunehpêhatin@
+@depress@|@kesirandin@
+@depth@|@kûrahî@
+@deputy@|@cîgir@
+@derogate@|@kêmkirin@
+@descent@|@irq, nîjad, regez, zayend@
+@describe@|@binavkirin@
+@description@|@babet, zayend@
+@desert@|@berdan, beyaban, destjêberdan@
+@desire@|@awat, daxwaz@
+@destination@|@armanc, hind@
+@destiny@|@bext, çarenûs@
+@detach@|@çareserkirin@
+@detain@|@rawestandin, sekinandin@
+@detect@|@sehkirin@
+@determinate@|@teqez@
+@determined@|@teqez@
+@detonate@|@teqîn@
+@detriment@|@ziyan@
+@development@|@pêşketin@
+@devil@|@şeytan@
+@devote@|@nezirkirin@
+@devoted@|@dilsoz@
+@devour@|@dabêlandin, daqurtandin@
+@dexterity@|@huner@
+@dialogue@|@danûstandin@
+@dictator@|@zordar@
+@dictionary@|@ferheng@
+@did@|@kir@
+@diddle@|@xapandin@
+@died@|@mir@
+@diet@|@parêz@
+@different@|@cuda@
+@difficult@|@dijwar, giran@
+@difficulty@|@asteng@
+@diffuse@|@rijandin@
+@diminish@|@kêmkirin@
+@dingy@|@çepel, gemar, kirêt, mujikî, qilêr@
+@dinner@|@şîv@
+@diploma@|@destûrname@
+@dipper@|@hesk@
+@direction@|@alî, hind, rex@
+@director@|@gerînende, karger@
+@dirt@|@qilêr, qirêj@
+@dirty@|@çepel, gemar, kirêt, mujikî, qilêr@
+@disadvantage@|@ziyan@
+@disassociate@|@veqetandin@
+@disaster@|@bêtar, bobelat, karesat, qeda@
+@disburse@|@dan, dayin@
+@discern@|@sehkirin@
+@discussion@|@nîqaş@
+@dislike@|@nefret kirin@
+@disorderly@|@bêserûber@
+@dispensary@|@tîmargeh@
+@dispense@|@belavkirin@
+@dispose@|@bikaranîn@
+@dispute@|@qirên@
+@disrupt@|@jêkirin, qetandin@
+@disservice@|@ziyan@
+@dissociate@|@veqetandin@
+@dissolve@|@çareserkirin, helandin@
+@distance@|@mesafe@
+@distribute@|@belavkirin, dabeşkirin, parkirin@
+@disturb@|@kesirandin@
+@disturbed@|@gêj@
+@ditch@|@kend@
+@divide@|@dabeşkirin, parkirin@
+@division@|@şax@
+@do@|@encamdan, kirin@
+@doctor@|@bijîşk@
+@document@|@belge@
+@dodge@|@lêp@
+@does@|@dike@
+@dog@|@kûçik, kûtî, se@
+@doleful@|@daxbar, dilbikul, xemgîn@
+@domestic@|@kedî@
+@donate@|@bexişandin@
+@done@|@kirî@
+@donkey@|@ker@
+@donor@|@dayende@
+@door@|@derî@
+@dope@|@bêmêjî@
+@dot@|@deq, xal@
+@doubt@|@guman, gumanbarbûn@
+@doubtless@|@bêguman@
+@down@|@ber bi jêr, jêr, jêrîn@
+@dragon@|@ziha@
+@draw@|@xêzkirin@
+@dreadful@|@tirsnak@
+@dream@|@xewn@
+@dress@|@cil, fistan, kinc, wergirtin@
+@drill@|@behreme, qulkirin@
+@drink@|@vexwarin@
+@drip@|@dilopkirin, niqutîn@
+@drive@|@ajotin@
+@drop@|@dilop, dilopkirin, niqut, niqutîn@
+@druggist@|@dermanfiroş@
+@drum@|@dahol@
+@drummer@|@daholjen@
+@drunken@|@mest@
+@dry@|@sext, ziwa@
+@duct@|@co, cok@
+@dumb@|@lal@
+@duration@|@mawe@
+@dust@|@xubar@
+@duty@|@bac, sparte@
+@each@|@her@
+@eagle@|@balinde, eylo, helo@
+@early@|@zû@
+@earring@|@guhar@
+@earth@|@cîhan@
+@earthquake@|@erdhej@
+@easeful@|@aram, asûde@
+@easily@|@bi hêsanî@
+@east@|@rojhilat@
+@easy@|@hesan@
+@eat@|@xwarin@
+@eccentric@|@beloq@
+@echo@|@alan, alan dan@
+@economic@|@aborî@
+@economically@|@aborî@
+@economist@|@aborînas@
+@economy@|@aborî@
+@edge@|@kevî@
+@edifice@|@avahî, xanî@
+@edition@|@çap@
+@education@|@perwerdehî@
+@effect@|@bandor, encam@
+@effective@|@bibandûr, karîger@
+@effects@|@tesîr@
+@efficacious@|@karîger@
+@effort@|@hewl, kizav, melavî, xîret@
+@efforts@|@hewl@
+@effuse@|@rijandin@
+@egg@|@hêk, qaqê@
+@eight@|@heşt, heyşt@
+@either@|@an@
+@election@|@hilbijartin@
+@elections@|@hilbijartin@
+@electron@|@elektron@
+@element@|@hêman@
+@elevation@|@bilindbûn@
+@eligible@|@guncaw@
+@elongate@|@dirêjkirin@
+@else@|@wekî din@
+@embassy@|@balyozxane@
+@embrace@|@girtin, hembêzkirin, himbêz kirin@
+@emend@|@edilandin, sererastkirin@
+@eminent@|@serkeftî@
+@emit@|@weşandin@
+@emotion@|@coşî, dilîn, hes, hest@
+@employ@|@bikaranîn@
+@employment@|@karûbar@
+@empty@|@vala@
+@encircle@|@dorpêçkirin@
+@enclose@|@pêçan, rapêçan@
+@end@|@armanc, bidawîbûn, bidawîkirin, dawî, kuta, kutabûn, kutahî, talî@
+@ended@|@xelas bû@
+@ending@|@dawî, kuta, kutahî, talî@
+@endless@|@bêdawî@
+@endure@|@ragirtin@
+@enemy@|@neyar@
+@energy@|@hêz, wize@
+@engulf@|@dabêlandin, daqurtandin@
+@enjoyment@|@şad@
+@enmity@|@berberî@
+@enough@|@bes@
+@enter@|@tomarkirin@
+@entire@|@sercem, yekpare@
+@entourage@|@derdor, derûder, dor, hawirdor@
+@environs@|@derdor, derûder, hawirdor@
+@ephemeral@|@demdemî@
+@equal@|@pat, wekhev@
+@equilibrist@|@canbaz@
+@equitable@|@dadyane@
+@equity@|@dad@
+@erase@|@reşkirin@
+@error@|@kêmasî, şaşî, xeletî@
+@escape@|@revîn@
+@especially@|@bi taybetî@
+@esprit@|@gan, giyan@
+@essay@|@ezmûn@
+@establish@|@avakar, avakirin, çespandin, damezrandin, sazkirin, selmandin@
+@establishment@|@avahî@
+@eternal@|@nemir@
+@eternity@|@sermedî@
+@event@|@bûyer, rûdan@
+@events@|@bûyer@
+@ever@|@her dem@
+@everlasting@|@bêdawî, berdewam, nemir, sermed@
+@every@|@her@
+@everything@|@her tişt@
+@evidence@|@îspat@
+@evident@|@awêne, diyar, eşkere, eyan@
+@evil@|@bed, guneh, xera@
+@evince@|@mêrandin@
+@evolution@|@pêşketin, werar@
+@exact@|@rast@
+@exaggerate@|@nepixandin@
+@exam@|@ezmûn@
+@example@|@mînak, nimûne, wekok@
+@excellent@|@nuwaze, serkeftî@
+@except@|@der@
+@exception@|@awarte@
+@exceptional@|@awarte@
+@excitement@|@zîz@
+@excuse@|@lêborîn@
+@execute@|@encamdan@
+@exercise@|@kiryar@
+@exhaust@|@betilandin@
+@exhausted@|@betilî@
+@exhaustion@|@betilîn@
+@exhibit@|@mêrandin@
+@exhibition@|@pêşangeh@
+@exile@|@sirgûn@
+@exist@|@jiyîn@
+@existence@|@jîn@
+@exit@|@derketin@
+@exotic@|@biyanî@
+@expect@|@bendeman, payîn@
+@expedient@|@guncaw@
+@expenditure@|@lêçûn@
+@expense@|@lêçûn@
+@expensive@|@biha, giranbiha@
+@expensiveness@|@bihabûn@
+@experience@|@ceribandin, dinyadîtin, tecrube@
+@experiment@|@ezmûn@
+@expert@|@jêhatî, pispor@
+@expertise@|@ezmûnî, pisportî@
+@expiration@|@dawî, kuta, kutahî, talî@
+@explain@|@amajekirin, daxuyandin, diyarkirin, dûpatkirin@
+@explode@|@teqîn@
+@explosion@|@teqîn@
+@export@|@hinarde@
+@expose@|@mêrandin@
+@exposed@|@vekirî@
+@exposition@|@pêşangeh@
+@extend@|@dirêjbûn, dirêjkirin@
+@extent@|@pêgeh@
+@exterior@|@derveyî@
+@external@|@derveyî@
+@extinguish@|@temirandin@
+@extraordinary@|@ecêb@
+@extrinsic@|@derveyî@
+@eye@|@beser, çav@
+@eyeglasses@|@berçavk, goçavik@
+@eyelash@|@bijang@
+@eyes@|@çav@
+@fa@|@fa@
+@face@|@dirûv, rû@
+@facile@|@asan, hêsan@
+@facility@|@derfet@
+@factory@|@kargeh, karistan@
+@failing@|@kêmasî@
+@fair@|@baş, bedew, çak, dadyane, kej, zerî@
+@faith@|@bawerî, ol@
+@faithful@|@dilsoz@
+@fall@|@keftin, ketin, paîz, payiz, payîz, pehîz, peî, peyîz@
+@familiy without a head@|@alifê vala@
+@family@|@malbat@
+@famous@|@binavûdeng, navdar@
+@fan@|@bajen, baweşîn, baweşînk@
+@far@|@dûr@
+@farm@|@cotgeh@
+@farmer@|@cotkar@
+@fast@|@bilêz, zexm@
+@fat@|@qelew, rûn, stûr@
+@fate@|@çarenûs@
+@father@|@bav@
+@fatigue@|@betilandin, betilîn, westandin@
+@fault@|@kêmasî, şaşî, xeletî@
+@fear@|@saw, tirs, xof@
+@fearful person@|@bêzirav@
+@feast@|@cejn@
+@feces@|@gû@
+@fecund@|@adan@
+@fee@|@mûçe@
+@feeble@|@lar@
+@feed@|@xwedîkirin@
+@feel@|@dilîn, hes, hestîn, hestpêkirin, pêhesîn@
+@feeling@|@dilîn, hes, hest@
+@feet@|@pê@
+@felicity@|@bextewarî@
+@fellow@|@kabra, mêr, zilam@
+@feral@|@kovî@
+@ferocious@|@hov@
+@fertile@|@adan@
+@festival@|@cejn@
+@fever@|@agir@
+@few@|@hindik, kêm@
+@field@|@hol@
+@fight@|@ceng, doz, pevçûn, têkoşîn, şer@
+@fighter@|@şervan@
+@figure@|@jimare@
+@filament@|@nex@
+@file@|@qor, rêz@
+@fill@|@dagirtin, tijîkirin@
+@film@|@fîlm@
+@filter@|@kefgîr, parzûn@
+@filth@|@qilêr, qirêj@
+@final@|@dawî@
+@find@|@dîtin@
+@fine@|@baş, bedew, çak, çê, qenc, rind, tenik, xweş, zerî, zirav@
+@fingers@|@tilî@
+@finical@|@hûrbijer@
+@finicking@|@hûrbijer@
+@finish@|@dawî, kuta, kutahî, kutakirin, qedandin, talî@
+@fire@|@agir, ar, pêt@
+@fire department@|@agirkûjîn, agirsongî@
+@firm@|@fîrma, hişk, req, sext, zeb, zexm@
+@first@|@seratayî, yekemîn@
+@fish@|@masî@
+@fissure@|@derizandin@
+@fist@|@kulm@
+@fit@|@bi têpan ketin, guncaw@
+@fitting@|@guncaw@
+@fixed@|@sabît@
+@flag@|@al, ala@
+@flair@|@behremendî@
+@flame@|@pêt, rivîn@
+@flavor@|@çêj, tam@
+@flaw@|@kêmasî@
+@flea@|@kêç@
+@fling@|@avêtin@
+@float@|@ajnekirin, avjenîkirin, soberîkirin@
+@flood@|@laser@
+@floor@|@bin, binî@
+@flotage@|@melevanî@
+@flour@|@ard, arvan@
+@flow@|@herikîn@
+@flower@|@kulîlk@
+@flowers@|@kûlîlk@
+@flush@|@berdar@
+@fly@|@mêş@
+@focus@|@bal@
+@foe@|@dijmin, neyar@
+@fold@|@nûrkirin@
+@folk@|@xelk@
+@food@|@adan, aş, nan, xurek, xwarin@
+@foot@|@çexer, pê@
+@for@|@ji bo@
+@forbid@|@qedexekirin@
+@forbidden@|@qedexe@
+@force@|@bandor, bindestî, hêz@
+@forcibly@|@bi kotekî@
+@forefather@|@kalik@
+@foreign@|@biyanî@
+@forest@|@daristan@
+@forger@|@hesinkar@
+@forget@|@ji bîr kirin@
+@forgive@|@bexişandin@
+@form@|@fesal, qidûm, şekl@
+@former@|@berê, mêj@
+@formidable@|@tirsnak@
+@forsake@|@berdan@
+@forthwith@|@tavilê, yekser@
+@fortune@|@bext@
+@forward@|@bi pêş ve, birêkirin, hinartin@
+@fosse@|@kend@
+@foul@|@çepel, gemar, kirêt, mujikî, qilêr@
+@found@|@avakirin, damezrandin, dît, sazkirin@
+@foundation@|@sazûman@
+@fount@|@çavkanî@
+@fountain@|@çavkanî@
+@fourth@|@çaremîn@
+@fox@|@rovî@
+@foxy@|@bernac, kone, xasûk@
+@fraud@|@tep@
+@fraught@|@tijî@
+@free@|@aza, azad, bêpere, miftî@
+@freedom@|@azadî@
+@freedom seeker@|@azadîxwaz@
+@freehanded@|@camêr, çavfireh@
+@freeze@|@cemidandin@
+@frequently@|@pir@
+@fresh@|@nû, teze@
+@friend@|@dost, heval, hogir, nasyar@
+@friends@|@heval@
+@fright@|@tirs, xof@
+@fringe@|@kevî@
+@from@|@ji@
+@front@|@ber, enî, pêş@
+@frontier@|@sînor, tixub@
+@fruit@|@fêkî@
+@fruitful@|@adan@
+@fuddle@|@gêjkirin@
+@fulfill@|@bicihanîn@
+@full@|@tijî@
+@fume@|@dû, dûxan, hilm@
+@fun@|@hewez, şadî@
+@function@|@kêr, vatinî@
+@fundamentally@|@bingehî@
+@funnel@|@bixêrî, kovik, kulek@
+@funny@|@degel, ecêb@
+@fur@|@eyar@
+@furbish@|@biriqandin, teyisandin@
+@furious@|@girgîn@
+@further@|@dûrtir@
+@fuse@|@helîn@
+@future@|@ayende, dahatû, diwaroj, mand, pêşeroj@
+@futurity@|@ayende, dahatû, diwaroj, mand@
+@gaffer@|@bapîr, kalik@
+@gage@|@pîvîn@
+@gain@|@kar@
+@game@|@lîstik, lîstok, lîz@
+@games@|@leyîstin@
+@gamester@|@yarîker@
+@gamy@|@aza, çeleng, dilawêr, egît, mêrxas@
+@garlic@|@sîr@
+@garner@|@komkirin@
+@garrulous@|@çenebaz, olçim, zimandirêj@
+@gather@|@komkirin, neqandin@
+@gauge@|@pîvîn@
+@gave@|@da@
+@gay@|@şeng@
+@gazelle@|@xezal@
+@gazette@|@rojname@
+@genealogy@|@irq, nîjad, regez, zayend@
+@general@|@gelemper, giştî@
+@generally@|@bi giştî@
+@generation@|@nifş@
+@generic@|@gelemper@
+@generous@|@camêr, çavfireh@
+@geography@|@erdnîgarî@
+@geology@|@erdnasî, jeolojî@
+@get@|@anîn, gihan, standin, weranîn@
+@gets@|@digre@
+@ghost@|@giyan@
+@gift@|@diyarî, xelat@
+@girl@|@dot, keç@
+@give@|@dayîn@
+@given@|@heyî@
+@glass@|@awêne, hêlî, piyale@
+@glove@|@lepik@
+@glue@|@zeliqok@
+@go@|@çûn@
+@goal@|@amanc, armanc, mebest@
+@goat@|@bizin@
+@gobble@|@dabêlandin, daqurtandin@
+@going@|@çûn, çûyîn@
+@gold@|@zîv@
+@gone@|@çû@
+@good@|@baş@
+@good fortune@|@bextvekirî@
+@goodly@|@bedew, zerî@
+@gore@|@xwîn@
+@got@|@girt, stand@
+@govern@|@birêvebirin@
+@governess@|@perwerdekar@
+@government@|@hikûmet@
+@grab@|@standin@
+@grace@|@rewneq@
+@grade@|@çîn, paye, rade, zayend@
+@grain@|@dexl@
+@grammar@|@rêziman@
+@grammatical@|@rêzimanî@
+@grand@|@gewre, girs@
+@grapevine@|@dêlî@
+@grass@|@çêre, giya, mêrg@
+@grasshopper@|@kulî@
+@grassland@|@bane@
+@grave@|@gor@
+@great@|@gewre, girs, mezin@
+@greater@|@mezintir@
+@greenhouse@|@sera@
+@greet@|@silavkirin@
+@grime@|@qilêr, qirêj@
+@grits@|@savar@
+@gritty@|@çeleng, dilawêr, egît, mêrxas@
+@ground@|@ax, bin, bingeh, binî, erd, xwelî@
+@group@|@kom@
+@grow@|@bûn, bûyîn, çêbûn@
+@guarantee@|@derhûde@
+@guarantor@|@derhûd@
+@guard@|@parastin, strandin@
+@guest@|@mêvan@
+@guide@|@rêber, sergêr@
+@guilty@|@tawankar@
+@gulf@|@kendav@
+@gun@|@tifing@
+@hair@|@pirç, por@
+@halcyon@|@aram, asûde@
+@half@|@nîv@
+@hammer@|@mêkut@
+@hand@|@dest@
+@handkerchief@|@destmal@
+@handle@|@çembil, destik@
+@hands@|@dest@
+@handsome@|@çak, rind@
+@hang@|@daliqandin, hilawestin@
+@hapless@|@bedbext, bêsiûd@
+@happen@|@çêbûn@
+@happening@|@rûdan@
+@happiness@|@bextewarî@
+@harbor@|@bendergeh, lengergeh@
+@hard@|@giran, hişk, req, sext, zeb, zexm, zexmet@
+@harm@|@bobelat, qeda, ziyan@
+@harsh@|@sext@
+@harvest@|@debr@
+@haste@|@zû@
+@haunch@|@qorik@
+@have@|@standin@
+@haywire@|@aloz, xera@
+@hazard@|@xetere@
+@he@|@ev@
+@head@|@ser@
+@health@|@tendurustî@
+@hear@|@bihistin, guhlêbûn@
+@heart@|@dil, navend@
+@heartless@|@bêdil@
+@heat@|@germayî, tîn@
+@heaven@|@asîman, ezman@
+@heavy@|@giran@
+@heel@|@gupik, panî@
+@height@|@bilindahî@
+@heighten@|@bilindkirin@
+@heist@|@çilfisandin, dervekirin, dizîn@
+@helicopter@|@firoke@
+@help@|@alîkarî@
+@helve@|@çembil, destik@
+@her@|@wê, wî@
+@herbage@|@çêre, giya@
+@here@|@li vê derê@
+@heritage@|@kelepor@
+@herself@|@xwe@
+@hide@|@vedizîn@
+@high@|@bilind@
+@highest@|@ya/yê herî jor@
+@highly@|@gelek@
+@hillside@|@berpal@
+@him@|@vî@
+@himself@|@xwe@
+@hire@|@demankirin@
+@his@|@a/ê wî@
+@historian@|@dîroknas@
+@historic@|@dîrokî@
+@historical@|@dîrokî@
+@history@|@dîrok, mêjû@
+@hit@|@derb, xistin@
+@hoax@|@hewez, tep@
+@hoist@|@bilindkirin@
+@hold@|@girtin@
+@hole@|@qul, qulqulî@
+@holiday@|@paydoz@
+@holy@|@pîroz@
+@home@|@mal, xanî@
+@homeless@|@bêmal, bêxanî@
+@honesty@|@xîret@
+@honey@|@hingiv@
+@honor@|@xîret@
+@hook@|@kulab@
+@hope@|@awat, hêvî@
+@horizon@|@aso, doran@
+@horn@|@qiloç, stirî@
+@horse@|@hesp@
+@hour@|@demjmêr, katjmêr@
+@hours@|@demjimêr@
+@house@|@xane, xanî@
+@housetop@|@ban@
+@how@|@çawa@
+@however@|@belam, lê, lê belê@
+@human@|@mirov@
+@hunt@|@seyd@
+@husband@|@mêr, şû@
+@hydrogen@|@hîdrojen@
+@hypocrisy@|@durûtî@
+@I@|@ez@
+@I think...@|@bi min@
+@ice@|@bestenî, cemed@
+@idea@|@fikir, raman, ray@
+@ideas@|@fikir, raman@
+@idiom@|@zarava@
+@if@|@heke@
+@ill@|@bed, nemrût@
+@illiberal@|@çemçûs, qinût@
+@illustrious@|@binavûdeng, navdar@
+@image@|@dîmen@
+@imbibe@|@mêtin@
+@immaculate@|@xwerû@
+@immediate@|@tavilê, yekser@
+@impatient@|@dilteng@
+@implement@|@alav, bicihanîn@
+@imply@|@qewl@
+@importance@|@giringahî, giringî@
+@important@|@girîng@
+@impose@|@xapandin, xirandin@
+@imposture@|@tep@
+@impression@|@bandor@
+@improve@|@sererastkirin@
+@impure@|@çepel, gemar, kirêt, mujikî, qilêr@
+@in@|@di ... de@
+@in a hurry@|@bi lez û bez@
+@in a rush@|@bi lez û bez@
+@in brief@|@bi kinahî@
+@in general@|@bi giştî@
+@in short@|@bi kinayî, bi kurtasî@
+@in that way@|@bi vî awayî@
+@in the night@|@bi şev@
+@in this way@|@bi vî awayî@
+@inadequate@|@kêm@
+@inch@|@xumam@
+@incident@|@rûdan@
+@incitation@|@hajûtandin@
+@increase@|@mezinbûn@
+@incriminate@|@tawanbarkirin@
+@indebted@|@qerzdar@
+@indecision@|@dudilî@
+@indeed@|@bi rastî@
+@indefinite@|@derek, nediyar@
+@independence@|@serxwebûn@
+@independent@|@aza, azad@
+@indicate@|@mêrandin@
+@indigent@|@reben, xizan@
+@inexpensive@|@erzan@
+@infinite@|@bêdawî@
+@infirmary@|@tîmargeh@
+@influence@|@bandor, kartêkirin, tesîr@
+@inform@|@ragihandin@
+@information@|@agahdarî, agahî@
+@infrequent@|@kelh@
+@inheritance@|@kelepor@
+@ink@|@hibr@
+@inner@|@hundir@
+@insane@|@dîn@
+@insert@|@radan@
+@inside@|@hundir, nav@
+@instance@|@mînak, nimûne, wekok@
+@instant@|@gav, tavilê, yekser@
+@instantaneous@|@tavilê, yekser@
+@instanter@|@tavilê, yekser@
+@instinct@|@dozîn@
+@institute@|@avakirin, damezrandin, sazkirin@
+@instruction@|@ferman@
+@instrument@|@alav@
+@insufficient@|@kêm@
+@integrity@|@guran@
+@integument@|@çerm@
+@intelligent@|@aqilmend, jîr, xûjal, zîrek@
+@intense@|@bihêz, xurt@
+@intensity@|@tîrî@
+@intent@|@mebest@
+@intention@|@mebest@
+@interest@|@bal@
+@interior@|@hundir@
+@interpreter@|@paçvan, wergêr@
+@into@|@nav@
+@invalid@|@betal, netêw@
+@invention@|@îcad@
+@inventor@|@dahêner@
+@inward@|@hundir, hundirîn, nav@
+@irate@|@girgîn@
+@iron@|@deqaq, hesin@
+@irresolute@|@dudil@
+@irritate@|@behicandin, qehirandin@
+@is@|@e, ye@
+@issue@|@arîse, babet, bare, dawî, encam, kuta, mijar, pirsgirêk@
+@it@|@ew@
+@its@|@yê wê@
+@itself@|@xwe@
+@jackal@|@torîk@
+@jacket@|@sako@
+@jail@|@girtîgeh@
+@jeopardy@|@xetere@
+@job@|@kar, karûbar@
+@join@|@tevlêbûn@
+@joiner@|@necar, xerat@
+@joint@|@hevbeş@
+@joke@|@hewez, qerf@
+@journal@|@kovar, rojnivîsk@
+@journalist@|@rojnamevan@
+@journals@|@kovar@
+@journey@|@ger, rêwîngî@
+@judge@|@darizandin@
+@jump@|@lotik, qevz@
+@jungle@|@cangil@
+@just@|@bes, dadyane, lê, niha@
+@justice@|@dad, maf@
+@karma@|@çarenûs@
+@keen@|@tûj@
+@keyboard@|@klavye@
+@kick@|@pehîn, pîn@
+@kidney@|@gurçik@
+@kind@|@babet, zayend@
+@kindle@|@sotin@
+@king@|@key@
+@kismet@|@çarenûs@
+@kiss@|@paçkirin, ramûsan, ramûsîn@
+@kite@|@bafirok@
+@knee@|@çong, jûnî@
+@knock@|@kutan, lêdan, lêxistin@
+@know@|@zanîn@
+@knowledge@|@zanîn@
+@knows@|@dizane@
+@knurl@|@girêk@
+@labor@|@ked@
+@laboratory@|@ezmûngeh@
+@labour@|@xebat@
+@ladle@|@hesk@
+@lady@|@stî@
+@lamb@|@berx@
+@lamp@|@çira@
+@land@|@ax, welat, xak@
+@language@|@ziman@
+@lank@|@tenik, zirav@
+@large@|@gewre, girs, kertek, mezin@
+@larger@|@mezin kirin@
+@largest@|@herî mezin@
+@laser@|@lazer@
+@last@|@dawî, domîn@
+@lasting passion@|@agirê qoçan@
+@late@|@dereng@
+@later@|@piştre@
+@latitude@|@firehî@
+@laud@|@pesindan@
+@laugh@|@kenîn@
+@laughter@|@ken@
+@law@|@dad, hiqûq, rêpîvan, zagon@
+@laws@|@zagon@
+@lawyer@|@parêzer@
+@lay@|@danîn, têxistin, xistin@
+@lazy@|@galtefis, keslan, tiral, zexel@
+@leader@|@semyan, serek, sergêr@
+@leaders@|@serok@
+@leadership@|@serokatî@
+@leap@|@qevz@
+@lease@|@deman@
+@leave@|@berdan, betlane@
+@leery@|@bernac, kone, xasûk@
+@left@|@çep@
+@leg@|@ling, pê@
+@legs@|@ling@
+@lemon@|@lîmon@
+@length@|@bejn, mawe, qam@
+@lengthen@|@dirêjbûn, dirêjkirin@
+@lentil@|@nîsk@
+@leprosy@|@kotî@
+@less@|@kêmtir@
+@lessen@|@kêmkirin@
+@lesson@|@wane@
+@letter@|@name, tîp@
+@level@|@ast@
+@lever@|@qerase@
+@liberty@|@azadî@
+@lick@|@alastin@
+@lid@|@devik, qeram@
+@lie@|@derew, dirêjbûn, paldan, ramedîn@
+@life@|@jî, jiyan, temen@
+@lifetime@|@jî, temen@
+@lift@|@bilindkirin@
+@light@|@ronahî, ronak, ronî, sivik, zirav@
+@lightweight@|@sivik@
+@like@|@fena, hezkirin, mîna, nola, nolî, wek, wekî@
+@lime@|@cis, kils@
+@limit@|@sînor@
+@limp@|@kulîn@
+@limpid@|@ron@
+@line@|@qor, rêz, xêz, zax@
+@lineage@|@irq, nîjad, regez, zayend@
+@link@|@giredan@
+@lips@|@lêv@
+@liquid@|@ron@
+@list@|@lîste@
+@listen@|@guhdar kirin@
+@little@|@biçûk, fîskanî, hûr@
+@littleness@|@biçûkahî@
+@live@|@sax, zindî@
+@lived@|@jiyî@
+@livelihood@|@abor, debar@
+@living@|@çalak, gihandar, giyandar, jîndar, sax, zînde, zindî@
+@lizard@|@dêlemar, gumgumok@
+@load@|@barkirin@
+@load fixing bars@|@akêr@
+@local@|@deverî, heremî, xwecihî@
+@locate@|@bicihkirin@
+@location@|@cih, erd, şûn@
+@lock@|@asêkirin@
+@locus@|@cih, der, erd, qad@
+@locust@|@kulî@
+@lone@|@bêkes, berdîwar@
+@lonely@|@bêkes, berdîwar@
+@long@|@dirêj@
+@long live!@|@bijî@
+@look@|@dîtin, meyzandin, mêze kirin, nerin, nêrîn@
+@looker-on@|@bîner@
+@loosen@|@çareserkirin@
+@lose@|@berzebûn, winda kirin@
+@lost@|@windakirî@
+@lot@|@çarenûs, gel, gelek, kom, pirr, zehf, zor@
+@love@|@evîn, hez, hezkirin@
+@lovely@|@bedew, zerî@
+@lovemaking@|@bihevşabûn@
+@loves@|@hez dike@
+@low@|@gosartme, nizm, xax@
+@lower@|@nizmandin@
+@lucent@|@ron@
+@lucid@|@zelal@
+@luck@|@bext@
+@lucky@|@bextvekirî@
+@lullaby@|@lorî@
+@lung@|@cîgera spî@
+@madden@|@dînkirin@
+@made@|@çê@
+@magazine@|@kovar@
+@magnificent@|@rewneqdar@
+@maintain@|@berdewamkirin@
+@majority@|@piranî@
+@make@|@duristkirin, kirin@
+@maker@|@çêker@
+@makes@|@dike@
+@malediction@|@nifir@
+@man@|@kabra, mêr, mirov, zilam@
+@management@|@kargerî@
+@manager@|@gerînende, karger, rêvebir, serkar@
+@maniac@|@dîn@
+@manifest@|@diyar@
+@manner@|@rêbaz@
+@manure@|@sergîn@
+@many@|@gelek, pir@
+@marble@|@xar@
+@margin@|@kevî@
+@mark@|@nîşan@
+@marriage@|@mar, zewac@
+@marry@|@zewicîn@
+@masculine@|@nêr@
+@master@|@binyad@
+@masterpiece@|@perûk@
+@match@|@lêanîn, niftik@
+@matter@|@bend, kar@
+@may@|@dikare@
+@maybe@|@belkî@
+@me@|@min@
+@meal@|@nan@
+@mean@|@bêrûmet, çavteng, genûs, qinût@
+@meaning@|@wate@
+@meant@|@hat wateya, mebest bû@
+@measure@|@pîvîn@
+@meet@|@dîtin, hevdîtin, lihevcivîn, rast hatin@
+@meliorate@|@sererastkirin@
+@melody@|@awaz, newa@
+@melon@|@gindor, petîx@
+@melt@|@helîn@
+@member@|@endam@
+@members@|@endam@
+@membership@|@endamtî@
+@memorandum@|@têbinî@
+@memory@|@bîr, xêv@
+@men@|@zilam@
+@mend@|@sererastkirin@
+@mendicant@|@geda, parsek@
+@mention@|@bîranîn@
+@merchandise@|@temel@
+@merchant@|@bazirgan@
+@mere@|@lê@
+@merely@|@tenê@
+@message@|@hay, hinare, peyam@
+@met@|@rast hat@
+@metal@|@kan, metal@
+@method@|@awa, azîne, rê, rêbaz@
+@methodical@|@birêkûpêk, biserûber@
+@metre@|@metre@
+@mice@|@mişk@
+@mid@|@nav@
+@middle@|@naverast, navîn@
+@might@|@dikare@
+@mighty@|@bihêz@
+@mill@|@karistan@
+@mind@|@eql, jîrî, raman, ray@
+@minister@|@wezîr@
+@ministers@|@vezîr@
+@ministration@|@karûbar@
+@ministry@|@wezaret@
+@minor@|@bicûk, biçûk@
+@miraculous@|@nuwaze@
+@mirage@|@rewrewk@
+@mirror@|@awêne, hêlî@
+@misadventure@|@bobelat, qeda@
+@mischief@|@ziyan@
+@miserable@|@bedbext@
+@missile@|@roket@
+@mistake@|@kêmasî, xeletî@
+@mockery@|@kelevajî@
+@model@|@mînak, nîgar, nimûne@
+@modern@|@hevçerx, hevdem, nû, nûjen@
+@mole@|@xilt@
+@moment@|@bîsk, gav, kêlîk@
+@momentary@|@demdemî@
+@momentous@|@girîng@
+@monarchy@|@monarşî@
+@money@|@dirav, pere@
+@month@|@meh@
+@months@|@meh@
+@mood@|@mêd@
+@moon@|@heyv, hîv@
+@moonlight@|@heyveron, tavehîv@
+@moral@|@sinc@
+@morale@|@sinc@
+@more@|@zêdetir@
+@morning@|@beyanî, sibe@
+@mosque@|@mizgeft@
+@most@|@piranî@
+@mostly@|@bi piranî@
+@mother@|@da, dayik, dayîk, dê, mader@
+@motion@|@bizav, lebat@
+@motive@|@ajo@
+@mount@|@çiya@
+@mournful@|@daxbar, dilbikul, xemgîn@
+@mouth@|@dev@
+@move@|@bizav, lebat, tevger kirin@
+@movement@|@bizav, lebat, tevger@
+@much@|@gelek, pir@
+@mud@|@herî, mûle@
+@munificent@|@camêr@
+@murder@|@mêrkuj, qetl@
+@murderer@|@kujer@
+@muscle@|@masûlke, parxone, werse, zevlek@
+@museum@|@perûkxane@
+@mushroom@|@fîqerojk, kumik, kuvark@
+@music@|@muzîk@
+@musician@|@muzîkjen@
+@muskmelon@|@gindor, petîx@
+@must@|@divê@
+@my@|@min@
+@nail@|@bizmar@
+@name@|@binavkirin, nav@
+@names@|@nav@
+@nape@|@zîper@
+@narrow@|@teng@
+@nasty@|@bed@
+@nation@|@netewe@
+@national@|@neteweyî@
+@native@|@dêman@
+@natural@|@suruştî, xwezayi, xwezayî@
+@nature@|@siruşt, xwerist, xweza@
+@naught@|@tew@
+@near@|@nezîk@
+@nearly@|@dorî, nêzî@
+@neat@|@zîrek@
+@necessary@|@hewce, pêdivî, pêwîst@
+@necessity@|@divêtî, pêdivî, pêwîstî@
+@neck@|@stû@
+@necklace@|@berdil@
+@need@|@divêtî, hewce, hewceyî, pêdivî, pêwistî, pêwîstî@
+@needful@|@hewce, pêwîst@
+@needless@|@bêkêr@
+@needy@|@reben, xizan@
+@nerve@|@hêrs, reh, rih@
+@nest@|@hêlîn@
+@network@|@tor@
+@never@|@hîç, nema, qe, tew, tu@
+@new@|@nû, teze@
+@news@|@dengûbahs, dengûbas, hay, nûçe@
+@newspaper@|@rojname@
+@next@|@pêş ve@
+@night@|@şev@
+@nightingale@|@bilbil, dûvmesas@
+@nil@|@tew@
+@no@|@na@
+@no doubt@|@bêguman@
+@noble@|@dêrîn, resen@
+@nominee@|@berendam@
+@none@|@tew@
+@norm@|@rêzik@
+@normal@|@asayî, normal@
+@north@|@bakur@
+@northern@|@bakur@
+@nose@|@bêvil, difn, poz@
+@not@|@ne@
+@note@|@not, têbinî@
+@notes@|@not@
+@nothing@|@tew@
+@nourish@|@xwedîkirin@
+@nourishment@|@xwarin@
+@novel@|@nû@
+@now@|@niha@
+@nucleus@|@dendik@
+@null@|@betal, netêw@
+@number@|@adet, hejmar, jimar, jimare, reqem@
+@numbers@|@hejmar, jimar, nimre@
+@nurture@|@xwedîkirin@
+@object@|@armanc@
+@oblation@|@dehî@
+@obligation@|@sparte@
+@obscure@|@gong@
+@obtain@|@standin@
+@obvious@|@diyar, pendî@
+@occult@|@nepenî@
+@occurrence@|@rûdan@
+@odor@|@bêhn@
+@of@|@ji@
+@off@|@girtî@
+@offer@|@mêrandin, pêşkêş kirin@
+@office@|@karûbar, nivîsgeh, ofîs@
+@officer@|@serbaz@
+@official@|@fermî@
+@often@|@gelek@
+@ok!@|@bila be@
+@okay@|@baş@
+@old@|@kal, kevn, mêj, pîr@
+@on@|@ser@
+@once@|@carek@
+@one@|@yek@
+@onlooker@|@bîner@
+@only@|@bi tenê, lê@
+@open@|@vekirî, vekirin@
+@openhanded@|@camêr@
+@operation@|@doman, pêvajo@
+@operations@|@operasyon@
+@opinion@|@raman, ray@
+@opulence@|@dewlemendî, dolmendî@
+@or@|@an@
+@oral@|@devkî@
+@order@|@ferman, pergal, rêz, sipariş@
+@orderly@|@birêkûpêk, sererast@
+@organ@|@lebat@
+@organisations@|@rêxistin@
+@organization@|@rêxistin@
+@organizational@|@rêxistinî@
+@organize@|@birêxistinkirin, lidarxistin, sazkirin@
+@original@|@cihêreng, nû, resen, reşnivîs, xweser@
+@orphan@|@bêbav, bêkes, berdîwar, sêwî@
+@other@|@din@
+@others@|@yên din@
+@our@|@me, yê/n me@
+@out@|@derve@
+@outcome@|@encam@
+@outdo@|@borîn, derbasbûn@
+@outlook@|@bergeh@
+@outside@|@derve@
+@outward@|@derveyî@
+@over@|@ser@
+@overcoat@|@sako@
+@overplay@|@nepixandin@
+@ovum@|@hêk, qaqê@
+@own@|@xwedî bûn@
+@pabulum@|@xwarin@
+@page@|@rûpel@
+@pail@|@satil@
+@pain@|@jan, renc@
+@paint@|@boyax, boyaxkirin@
+@painting@|@wêne@
+@pair@|@cot@
+@palate@|@pidû@
+@pale@|@çilmisî@
+@pallid@|@çilmisî@
+@panic@|@qurf@
+@paper@|@kaxiz, rojname@
+@paradigm@|@mînak, wekok@
+@paragraph@|@bend@
+@pardon@|@bexişandin, lêborîn@
+@part@|@beş, erk, rist@
+@particular@|@taybet, taybetî@
+@particularly@|@bi taybet, bi taybetî@
+@partner@|@hevpar, paydar@
+@partridge@|@kew@
+@party@|@partî@
+@passed@|@borî@
+@passenger@|@rêwî@
+@passing@|@demdemî@
+@past@|@paşêroj@
+@pasture@|@çêregeh@
+@patch@|@pîne@
+@path@|@rê@
+@patience@|@tebat@
+@patients@|@nexweş@
+@pattern@|@mînak, nimûne@
+@patterns@|@mînak, nimûne@
+@paunch@|@navik@
+@pause@|@rawestan@
+@peace@|@aramî, aştî@
+@peace seeker@|@aştixwaz@
+@peak@|@kimt, kumbet, lûtke@
+@pear@|@alîsor, hirmî@
+@peasant@|@gundî@
+@peculiar@|@beloq@
+@pedestrian@|@peya@
+@peel@|@tivil@
+@pelt@|@eyar@
+@penalty@|@seza@
+@penis@|@kîr@
+@people@|@gel@
+@pepper@|@bîber, îsot@
+@peppermint@|@pûjan@
+@perceive@|@sehkirin@
+@peremptory@|@teqez@
+@perforate@|@qulkirin@
+@perform@|@çêkirin, duristkirin, encamdan, kirin@
+@performance@|@berhem, şixul, xebat@
+@perhaps@|@dibe ku@
+@perilous@|@xeternak@
+@period@|@çerx, heyam@
+@periodical@|@kovar@
+@permanent@|@domdar@
+@permission@|@betlane, destûr@
+@perpendicular@|@rep, zîq@
+@perpetual@|@bêdawî, nemir, sermed@
+@person@|@ferd, kes@
+@personal@|@şexsî@
+@perspiration@|@xwêdan@
+@perspire@|@xwêdan@
+@pessimistic@|@bedbîn@
+@pestilent@|@xeternak@
+@petite@|@fîskanî, hûr@
+@petition@|@tika@
+@phantom@|@spêle@
+@pharynx@|@hefik@
+@phase@|@pêvajo@
+@phenomenon@|@diyarde@
+@photo@|@wêne@
+@photography@|@fotografî@
+@picayune@|@fîskanî, hûr@
+@pick@|@neqandin@
+@picnic@|@seyran@
+@picture@|@wêne@
+@pictures@|@wêne@
+@piece@|@bir, zîvar@
+@pigeon@|@kevok@
+@pilfer@|@dizîn@
+@pillage@|@extirme@
+@pilot@|@sergêr@
+@pineapple@|@ananas@
+@pinnacle@|@lûtke@
+@pipe@|@qelûn@
+@pitch@|@avêtin@
+@pitcher@|@misîn@
+@pitfall@|@dab, feq@
+@place@|@bicihkirin, cî, cih, cîh, danîn, der, erd, qad, têxistin, xistin@
+@plain@|@asan, berî, pan, zeblok@
+@plan@|@fikirîn, hizrîn, plan@
+@planet@|@rojgeran@
+@plans@|@plan@
+@plant@|@avakirin, damezrandin, karistan, nebat, sazkirin, venandin@
+@plate@|@teyfik@
+@plateau@|@bane, zozan@
+@play@|@leyîstin, lîstik, terane@
+@played@|@lîst@
+@player@|@yarîker@
+@plaything@|@lîstok@
+@plaza@|@hol@
+@plea@|@tika@
+@pleasure@|@kêf@
+@plenteous@|@kertek@
+@plenty@|@tijî@
+@plucky@|@çeleng, dilawêr, egît, mêrxas@
+@pocket@|@girfan@
+@poem@|@helbest, pêşe@
+@point@|@mêrandin, xal@
+@poison@|@jehr@
+@police@|@polîs@
+@polish@|@biriqandin, mesqelkirin, teyisandin@
+@political@|@ramyarî@
+@pollute@|@lewitandin@
+@pomegranate@|@hinar@
+@pommel@|@kutan, lêbezîn, lêdan, lêxistin@
+@poor@|@belengaz, fena, reben, xizan@
+@poorer@|@belengaztir@
+@popular@|@gelêrî, xoşewîst, xoştivî, xweşdivî, xweştivî@
+@population@|@gelhe, serjimar@
+@port@|@bendergeh, lengergeh@
+@position@|@barîdox, cî, cih, der@
+@positive@|@erênî@
+@possibility@|@delîve, derfet@
+@possible@|@gengaz, pêkan@
+@post@|@name@
+@postpone@|@betalkirin, gîrokirin@
+@postulate@|@dilkirin, xwestin@
+@posture@|@barîdox@
+@pot@|@aman@
+@potent@|@bihêz, karîger, xurt@
+@pots and pans@|@aman, fera, firaq@
+@powder@|@xubar@
+@power@|@desthilatî, hêz@
+@powerful@|@bihêz, xurt@
+@praise@|@pesindan@
+@pray@|@libergerîn@
+@prayer@|@wird@
+@precaution@|@semt@
+@preeminent@|@serkeftî@
+@pregnancy@|@avisbûn@
+@pregnant@|@avis, ducan@
+@prescription@|@ferman@
+@present@|@diyarî, xelat@
+@presently@|@niha@
+@presidency@|@serokatî@
+@press@|@çap, çapxane, dewisandin@
+@pretty@|@bedew@
+@price@|@biha, buha@
+@price increase@|@bihabûn@
+@pride@|@xawên@
+@primary@|@sereke@
+@prince@|@mîr, mîrza@
+@principle@|@rêgez@
+@print@|@çapkirin, dewisandin, pêlêkirin@
+@priority@|@pêşkî@
+@prison@|@girtîgeh@
+@private@|@serbaz, taybet@
+@privilege@|@maf@
+@problem@|@arîse, pirsgirêk@
+@problems@|@pirsgirêk@
+@process@|@doman, pêvajo@
+@produce@|@çêkirin, hilberandin, hilberîn, kirin@
+@producer@|@hilberîner@
+@production@|@hilberîn@
+@products@|@berhem@
+@profit@|@havil, kar, kelk, sûd@
+@profundity@|@kûrahî@
+@profuse@|@camêr@
+@programme@|@bername@
+@prohibition@|@qedexe@
+@project@|@proje@
+@projects@|@proje@
+@prolong@|@dirêjkirin@
+@promise@|@soz@
+@pronto@|@tavilê, yekser@
+@proper@|@durist, guncaw, rast@
+@property@|@mal@
+@proportion@|@rêje@
+@prospect@|@bergeh@
+@protect@|@parastin@
+@proud@|@serbilind@
+@province@|@parêzgeh@
+@proxy@|@cîgir@
+@psychic@|@derûnî@
+@public@|@gelemper, gelemperî@
+@published@|@weşand@
+@pulchritude@|@bedewî, rindî@
+@pure@|@xwerû@
+@purge@|@paqijkirin@
+@purify@|@palîn, paqijkirin, parzîn@
+@purloin@|@dizîn@
+@purpose@|@amanc, armanc, mebest@
+@push@|@defandin@
+@put@|@danîn, têxistin, xistin@
+@putrid@|@pûç@
+@quagmire@|@çirav, meraze@
+@quake@|@hejîn, lerizîn, ricifîn@
+@quality@|@çawanî@
+@quantify@|@pîvîn@
+@quantity@|@çendînî@
+@quarrel@|@qirên@
+@queen@|@keybanû@
+@quench@|@temirandin@
+@query@|@lêpirsîn, pirs, pirsîn, pirsiyarkirin, pirsjêkirin@
+@question@|@pirs@
+@quick passing flame or passion@|@agirê pûş@
+@quiescent@|@aram, asûde@
+@quiet@|@aram, aramî, asûde, bêdeng@
+@quince@|@bîhok@
+@quit@|@berdan@
+@quiver@|@lerizîn, ricifîn@
+@quiz@|@mamik@
+@quizzical@|@ecêb@
+@race@|@baz@
+@racism@|@nîjadperestî@
+@radish@|@tivir@
+@rain@|@baran@
+@raining@|@barandîn@
+@rainy@|@baranî@
+@raise@|@bilindkirin@
+@rank@|@paye, qor, rade, rêz@
+@rap@|@kutan, lêdan, lêxistin@
+@rare@|@kelh@
+@rascal@|@tise@
+@rat@|@fare@
+@rate@|@rêje@
+@rather@|@zêdetir, zehf@
+@ratio@|@rêje@
+@raw@|@xav@
+@razor@|@gûzan@
+@reach@|@gihan@
+@reaction@|@bertek@
+@read@|@xwendin@
+@readers@|@xwendevan@
+@reads@|@dixwîne@
+@ready@|@amade, berdest@
+@real@|@rast@
+@realistic@|@rastbîn@
+@reality@|@rasteqîn, rastî@
+@really@|@bi rastî@
+@realm@|@herêm@
+@reason@|@sedem@
+@rebellion@|@raperîn@
+@receive@|@standin@
+@recent@|@nû, teze@
+@reckon@|@hejmartin@
+@recognize@|@nasîn@
+@record@|@defter, qeyd, tomar@
+@recover@|@rihakirin, rizgarkirin@
+@rectify@|@sererastkirin@
+@red@|@sor@
+@redoubtable@|@tirsnak@
+@reduce@|@kêm kirin, kêmkirin@
+@reflector@|@awêne, hêlî@
+@reform@|@reform@
+@regimen@|@parêz@
+@regiment@|@alayî, heng@
+@region@|@dever, zom@
+@regional@|@heremî, herêmkî@
+@register@|@tomarkirin@
+@relate@|@vegotin@
+@related@|@têkildar@
+@relation@|@lêzim, rêje@
+@relationships@|@tekilî@
+@relative@|@lêzim, xizm@
+@relay@|@guhêztin, veguhêztin@
+@relevant@|@guncaw@
+@religion@|@ol@
+@religious@|@oldar@
+@relinquish@|@berdan@
+@remain@|@man, mayîn@
+@remarkable@|@ecêb@
+@remedy@|@tîmar kirin@
+@remember@|@bîr anîn, bîranîn@
+@remind@|@bibîrxistin@
+@renounce@|@înkar, nadar@
+@rent@|@deman, demankirin@
+@repetition@|@dubare@
+@replete@|@tijî@
+@replied@|@bersiv da@
+@reply@|@bersiv@
+@report@|@rapor, vegotin@
+@repose@|@hêsabûn@
+@represent@|@nimandin@
+@representative@|@cîgir@
+@republic@|@komar@
+@request@|@daxwaz, pirs, tika@
+@require@|@dilkirin, xwestin@
+@required@|@pêwist@
+@requisite@|@pêdivî@
+@rescue@|@rihakirin, rizgarkirin@
+@research@|@lêkolîn@
+@resemble@|@dirûvpêketin@
+@resound@|@alan dan@
+@respect@|@giramî, rêz@
+@response@|@bersiv, bersîv, bertek@
+@responsibility@|@bar, berpirsiyarî@
+@responsible@|@berpirs, berpirsiyar@
+@rest@|@hêsabûn, man, mayîn, vewestan@
+@restaurant@|@xwaringeh@
+@result@|@encam, kuta@
+@resultant@|@encam@
+@results@|@encam@
+@retaliation@|@tol@
+@return@|@vegerin@
+@returned@|@vegerrî, vegerriya@
+@revenge@|@tol, tolhildan@
+@reverence@|@rêz@
+@revision@|@revîzyon@
+@rheumatism@|@ba@
+@rib@|@parsû@
+@rice@|@birinc@
+@rich@|@berdar, dewlemend, kerane, kertek, maldar@
+@right@|@baş, kertek, maf, rast@
+@rigorous@|@req, sext, zeb@
+@ring@|@gustîl, hingulîsk@
+@rise@|@bilindbûn, hilketin, rabûn@
+@risk@|@rîsk, xetere@
+@rival@|@berber@
+@river@|@çem@
+@road@|@rê@
+@rob@|@dervekirin@
+@robust@|@bihêz, xurt@
+@rock@|@hejandin, zinar@
+@rod@|@çaw, ço, çogan@
+@role@|@rol@
+@roll@|@gindirandin@
+@roman@|@roman@
+@roof@|@ban@
+@room@|@jûr, menzel, ode@
+@rooster@|@dîk@
+@root@|@binyad, reh@
+@rope@|@ben@
+@rotund@|@girover@
+@round@|@girover@
+@row@|@qor, rêz@
+@rubber@|@jêbir@
+@ruddy@|@sor@
+@rug@|@tej@
+@rule@|@destûr, rêpîvan, rêzik, zagon@
+@ruler@|@desthilatdar@
+@rumor@|@dukar, gotegot@
+@run@|@bazdan@
+@run away@|@bazdan@
+@runaway@|@revok@
+@rupture@|@jêkirin, qetandin@
+@ruse@|@lêp@
+@russian cucumber@|@acûr@
+@rust@|@zeng@
+@rye@|@tarîgan@
+@s@|@s@
+@sack@|@çewal, tûr@
+@sacred@|@pîroz@
+@sacrifice@|@dehî@
+@sad@|@daxbar, dilbikul, xemgîn@
+@saddle@|@zîn@
+@safety@|@ewlehî@
+@sagacious@|@aqilmend, zîrek@
+@sage@|@aqilmend, rûspî, zana@
+@said@|@got@
+@sallow@|@çilmisî@
+@salt@|@xwê@
+@salutation@|@silav@
+@salvation@|@rizgarî@
+@salver@|@lemper, piyan, sênî@
+@same@|@eynî, manend, mîna, wek, wekhev, wekhevî, yeknesakî, yeksan@
+@sample@|@mînak, nimûne, wekok@
+@sand@|@xîz@
+@satellite@|@dûvelenk@
+@savage@|@kovî@
+@save@|@komkirin, rihakirin, rizgarkirin@
+@savor@|@çêj, tam@
+@savvy@|@fehmkirin, fêmkirin@
+@saw@|@birek, dît@
+@say@|@gotin@
+@says@|@dibêje@
+@scandal@|@hetîketî@
+@scarce@|@firk, kelh@
+@scavenge@|@paqijkirin@
+@scene@|@dik@
+@scholarship@|@burs@
+@school@|@dibistan, fêrgeh, xwendegeh@
+@schools@|@dibistan@
+@science@|@zanist@
+@scientific@|@zanistî@
+@scream@|@bang kirin@
+@screwy@|@dîn@
+@scruff@|@zîper@
+@sculpture@|@peyker@
+@sea@|@behr, derya, zerya@
+@search@|@lêgerîn@
+@seaside@|@perav@
+@season@|@demsal, werz@
+@seat@|@der@
+@second@|@çirk, duyemîn@
+@secret@|@nehên, nehênî, nepenî@
+@secretly@|@penhanî@
+@section@|@beş, liq, parçe, perçe@
+@sections@|@beş@
+@secure@|@parastin@
+@security@|@derhûde, ewlehî, ewlekarî@
+@security forces@|@hêzên asayîş@
+@sedative@|@aramdar@
+@see@|@dîtin@
+@seed@|@dendik@
+@seen@|@dîtî@
+@seesaw@|@zirnezîq@
+@segment@|@bir, liq@
+@seize@|@fêmkirin, girtin@
+@seldom@|@firk@
+@select@|@bijarte@
+@self@|@xwe@
+@selfish@|@ezperest, xweperest@
+@sell@|@firotin@
+@send@|@birêkirin, hinartin, şandin@
+@sensation@|@dilîn@
+@sense@|@dilîn, hes, seh, sehkirin@
+@sensible@|@zîz@
+@sensitive@|@zîz@
+@sentence@|@hevok@
+@sentiment@|@dilîn, hes, hest@
+@sentinel@|@raçavkirin@
+@september@|@îlon@
+@sepulcher@|@gor@
+@sereneness@|@aramî@
+@series@|@kinêzet, rêz, rêze, zencîre@
+@service@|@karûbar, raje@
+@serviceman@|@serbaz@
+@set@|@danîn@
+@seven@|@heft@
+@several@|@çend, têvel@
+@sexual@|@cinsî@
+@sexually@|@cinsî@
+@shade@|@sî, sih@
+@shake@|@hejandin, hezandin@
+@shall@|@dê@
+@shame@|@fedî@
+@shape@|@fesal, qidûm@
+@share@|@par, parçe, perçe@
+@sharp@|@tûj@
+@she@|@ev@
+@sheer@|@xwerû@
+@sheet@|@pel@
+@shelter@|@senger, star@
+@shield@|@senger@
+@shocked@|@apore, qutifî@
+@shoe@|@sol@
+@short@|@kin, kurt@
+@shortcoming@|@kêmasî@
+@shortly@|@bi kinayî, bi kurtasî@
+@shoulder@|@mil@
+@show@|@nîşan dan@
+@showed@|@nîşan da@
+@shrewd@|@aqilmend, bernac, kone, xasûk, zîrek@
+@shrimp@|@canberî@
+@shut@|@asêkirin@
+@shy@|@bêzirav, newêrek, tirsonek@
+@sickle@|@das@
+@side@|@alî, hêl, kêlek, kevî, rex@
+@sides@|@alî@
+@sieve@|@bêjing, bêjingkirin, mefsik@
+@sift@|@bêjingkirin@
+@sightless@|@kor@
+@sightly@|@cindê@
+@sign@|@dews, rêç@
+@sign in@|@têketin@
+@signature@|@îmze@
+@signed@|@îmzekirî@
+@significance@|@wate@
+@signification@|@wate@
+@silence@|@aramî, bêdengî@
+@silent@|@aram, asûde@
+@silk@|@qez@
+@similar@|@mîna@
+@simpatico@|@rûken, xwîngerm@
+@simple@|@asan, hesan@
+@since@|@çimkî, lewre, şûnda@
+@single@|@azeb, tek, yek@
+@sinister@|@bed@
+@sir@|@birêz@
+@sire@|@bav@
+@sister@|@xwişk@
+@site@|@cî, cih, cîh, der, erd, qad@
+@situation@|@barîdox, rewş@
+@size@|@bêjn, mezinahî@
+@skeleton@|@qîq@
+@skill@|@huner@
+@skillful@|@jêhatî@
+@skin@|@çerm, eyar@
+@skip@|@lotik, qevz@
+@skirt@|@berzile, daman, daw@
+@skunk@|@fisû@
+@sky@|@asîman, ezman@
+@skyscraper@|@balexane@
+@slaughterhouse@|@qinare, selexane@
+@slave@|@bende, kole@
+@slavery@|@benîtî@
+@sleep@|@razan@
+@slice@|@tozî@
+@slight@|@tenik, zirav@
+@slip@|@kêmasî, xeletî@
+@sloe@|@alûçe@
+@slow@|@hêdî@
+@slow burning fire@|@agirê qoçan@
+@slower@|@hêdîtir@
+@sluggard@|@galtefis, keslan, tiral, zexel@
+@small@|@biçûk, fîskanî, hûr@
+@smaller@|@biçûktir@
+@smallness@|@biçûkahî@
+@smell@|@bêhn, bîn@
+@smile@|@besimîn, bişirîn, girnijîn@
+@smoke@|@dûxan@
+@smooth@|@tîl, tîş@
+@smutty@|@çepel, gemar, kirêt, mujikî, qilêr@
+@snitch@|@çilfisandin@
+@snow@|@berf@
+@so@|@bi vî rengî, hanê, welê, werê, wilo, wisa@
+@social@|@civakî, komeleyatî@
+@society@|@civak, komel@
+@sociologist@|@civaknas@
+@sociology@|@civaknasî@
+@soft@|@nerm, tîl, tîş@
+@soil@|@ax, lewitandin, xwelî@
+@soldier@|@serbaz@
+@solid@|@zexm@
+@solidarity@|@piştgirî@
+@solution@|@çareserî@
+@solve@|@çareserkirin@
+@some@|@çend, hinek@
+@someone@|@kes@
+@someone who rises early@|@zûrab@
+@something@|@tiştek@
+@sometimes@|@carinan, carna, geh@
+@somewhat@|@hinek@
+@song@|@goranî, kilam, lawij@
+@son-in-law@|@zava@
+@soon@|@di demê nêzîk de@
+@sordid@|@çepel, gemar, kirêt, mujikî, qilêr@
+@sorrow@|@xem@
+@sorrowful@|@daxbar, dilbikul@
+@sorry@|@biborîne, daxbar, dilbikul, xemgîn@
+@sort@|@babet, cur, cure, cûre, zayend@
+@soul@|@gan@
+@sound@|@deng, tendurust@
+@source@|@çavkanî, kanî@
+@space@|@der, hol, valahî@
+@sparrow@|@çivîk@
+@special@|@taybet@
+@specialist@|@pispor@
+@species@|@cûre@
+@specimen@|@mînak, nimûne, wekok@
+@specter@|@spêle@
+@speech@|@ziman@
+@speed@|@lêz@
+@spelling@|@vekît@
+@sphere@|@girover@
+@spine@|@dirî, stirî@
+@spirit@|@spêle@
+@spit@|@tif@
+@splendid@|@rewneqdar@
+@split@|@derizandin@
+@spot@|@deq, der, dîtin, xal@
+@spring@|@bihar, çavkanî, lotik, qevz@
+@springtide@|@bihar@
+@springtime@|@bihar@
+@sprout@|@ajda@
+@spy@|@sîxur@
+@squalid@|@çepel, gemar, kirêt, mujikî, qilêr@
+@square@|@kare@
+@staff@|@gopal@
+@stage@|@dik, şano@
+@stair@|@derence@
+@staircase@|@derence, silim@
+@stairway@|@derence, silim@
+@stalk@|@çembil, destik@
+@stand@|@sekinîn@
+@standard@|@al, ala, yekgirtî@
+@star@|@stêrk@
+@start@|@destpêk@
+@state@|@amajekirin, barîdox, daxuyandin, dewlet, selmandin@
+@statement@|@vegotin@
+@statistics@|@serjimêr@
+@status@|@barîdox@
+@stay@|@man, mayîn, payîn@
+@steady@|@birêkûpêk, biserûber, rêkûpêk, sererast, zexm@
+@steal@|@dizîn@
+@steam@|@hilm@
+@steel@|@pol, polat@
+@steep@|@asê@
+@stem@|@çembil, destik@
+@step@|@derence@
+@stern@|@req, sext, zeb@
+@stick@|@danîn, gopal, têxistin, xistin@
+@stick to@|@çespandin@
+@stiff@|@req, sext, zeb@
+@still@|@aram, asûde, hê, hîn, hîna@
+@stilly@|@aram, asûde@
+@stir@|@bizav, hajûtandin, lebat@
+@stitch@|@dirûtin@
+@stop@|@rawestan, sekinîn, vewestan@
+@store@|@kewar@
+@storehouse@|@kewar@
+@storm@|@gale, tîp@
+@story@|@çîrok, derew, dîrok, efsane, mêjû@
+@stove@|@argûn@
+@strainer@|@kefgîr, parzûn@
+@strand@|@lêv, perav@
+@straw@|@ka@
+@street@|@kolan, kûçe@
+@strength@|@hêz@
+@strip@|@kincjixwekirin@
+@strong@|@bihêz, xurt@
+@structure@|@saz, sazî@
+@struggle@|@doz@
+@stubborn@|@berxwedêr@
+@student@|@xwendkar@
+@students@|@xwendevan@
+@study@|@lêgerîn, lêkolîn, xwendin@
+@stunned@|@apore, qutifî@
+@stupid@|@xêvik@
+@style@|@awa, stîl, şêwaz@
+@subject@|@babet, bare, mijar@
+@subscriber@|@abone@
+@substantial@|@zexm@
+@substantive@|@navdar@
+@substitute@|@cîgir@
+@subway@|@serdab@
+@successful@|@biserkeftî, biserketî@
+@succession@|@kinêzet, qor, ref@
+@such@|@hanê, welê, wiha, wilo@
+@sufficient@|@bes@
+@suit@|@lêanîn@
+@suitable@|@babet, guncaw, kês@
+@summary@|@kurte@
+@summer@|@havîn@
+@summit@|@kimt, kumbet@
+@superlative@|@serkeftî@
+@support@|@paldank, xwedîkirin@
+@supporter@|@alîgir, tagîr@
+@sure@|@mîsoger, teqez@
+@surely@|@bêguman, mîsoger@
+@surety@|@derhûd@
+@surpass@|@borîn, derbasbûn@
+@surrogate@|@cîgir@
+@surveillance@|@lêpan, pan@
+@survey@|@lênihêrîn@
+@suspend@|@daliqandin, gîrokirin, hilawestin@
+@sustain@|@ragirtin@
+@sustenance@|@abor, debar@
+@swallow@|@dabêlandin@
+@swamp@|@çirav, meraze@
+@swear@|@çêrlêkirin@
+@sweat@|@xwêdan@
+@sweater@|@fayke, vezel@
+@swimmer@|@avjen@
+@swimming@|@avjenîkirin, melevanî@
+@swipe@|@çilfisandin@
+@symbol@|@hêma@
+@sympathy@|@hevsojî@
+@system@|@pergal, rê@
+@table@|@keval, mase@
+@tail@|@dawî, dûv, kuta, kutahî, talî, terî@
+@tailor@|@qezaz@
+@take@|@fêmkirin, girtin, standin, wergirtin, zeftkirin@
+@take into custody@|@binçavkirin@
+@take revenge@|@tolgirtin@
+@taken@|@girtî@
+@takes@|@digire, werdigire@
+@tale@|@çîrok@
+@talent@|@behremendî@
+@talk@|@axaftin, cir, dembûhêrk, gotin, laf, peyivîn@
+@tall@|@bilind@
+@tangle@|@alandin, alos@
+@tangy@|@tûj@
+@target@|@amanc, armanc@
+@task@|@erk, kar, karûbar, peywir, vatinî@
+@taste@|@çêj, tam@
+@tax@|@bac@
+@tea@|@çay@
+@teachers@|@mamoste@
+@tear@|@jêkirin, qetandin@
+@technique@|@rê@
+@technology@|@teknolojî@
+@telegram@|@brûsk@
+@tell@|@danzanîn, vegotin@
+@telling@|@vegotin@
+@tender@|@zîz@
+@tenebrous@|@tarî@
+@tenth@|@dehemîn@
+@tenuous@|@tenik, zirav@
+@term@|@navlêk, têgih, têgîn@
+@terminate@|@bidawîkirin@
+@termination@|@bidawîbûn@
+@terrain@|@kendûkoz@
+@terrible@|@tirsnak@
+@test@|@ezmûn@
+@text@|@deq@
+@than@|@ji@
+@that@|@ew, ku@
+@the day after@|@adinê rojê, roja din@
+@the next day@|@adinê rojê, roja din@
+@their@|@wan@
+@theirs@|@ya wan@
+@them@|@wan@
+@theme@|@babet, bare, mijar@
+@themselves@|@xwe@
+@then@|@dûvre, peyre, vê demê@
+@theology@|@îlahiyat@
+@theory@|@bîrdoz@
+@there@|@li wê derê@
+@therefore@|@ji ber vê@
+@thermometer@|@germjimêr@
+@these@|@van@
+@they@|@wan@
+@thick@|@qalind@
+@thimble@|@guzvan@
+@thin@|@zirav@
+@thing@|@tişt@
+@things@|@tişt@
+@think@|@difikire@
+@thinking@|@fikirîn, pûnijîn, raman, ramîn@
+@third@|@sêyemîn@
+@thirsty@|@tî@
+@this@|@ev@
+@those@|@van@
+@thought@|@raman@
+@thoughts@|@raman@
+@thrash@|@kutan@
+@thread@|@nex@
+@threat@|@gef, gefîn, gevîn@
+@three@|@sê@
+@throw@|@avêtin@
+@thus@|@herweha, wilo@
+@tidy@|@birêkûpêk, rêkûpêk, sererast@
+@tie@|@alandin, alos@
+@tiger@|@piling@
+@tight@|@teng@
+@tightfisted@|@çemçûs, qinût@
+@tile@|@qafik@
+@time@|@car, çax, dem, kat, wext@
+@timepiece@|@katjimêr@
+@times@|@car, dem, deman, kat@
+@tip@|@lûtke, poz@
+@tire@|@betilandin, betilîn, westandin@
+@tired@|@betilî, mandî@
+@title@|@nav@
+@to@|@ji ... re@
+@to bring back@|@anîneve, anînve, paşveanîn, veanîn@
+@to join@|@beşdarî bûn@
+@to take back@|@anîneve, anînve, paşveanîn, veanîn@
+@today@|@îro@
+@together@|@bi hev re, digel, ligel@
+@toilet@|@avdestxane, avrêj, destavxane, qedemgeh@
+@told@|@gotî@
+@tomb@|@gor@
+@tomorrow@|@sibe@
+@tongue@|@ziman@
+@too@|@jî@
+@took@|@girt@
+@tool@|@alav, amûr, rist@
+@tools@|@alatên çandiniyê, alav, amûret, hacet@
+@top@|@lûtke, ser@
+@topic@|@babet, bare, mijar@
+@torment@|@kêşa@
+@tornado@|@bablîsok@
+@torture@|@tahde@
+@toss@|@avêtin@
+@total@|@sercem, tev, top@
+@touch@|@destdan, pelandin@
+@tough@|@dijwar@
+@towards@|@ber bi@
+@town@|@bajar, bajarokt@
+@toy@|@leyîstok, lîstok@
+@trace@|@berhem, rêç@
+@track@|@berhem, şop@
+@trade@|@bazirganî@
+@trader@|@bazirgan@
+@tradition@|@kevneşopî@
+@tragedy@|@karesat@
+@train@|@tren@
+@tranquil@|@aram, asûde@
+@transgression@|@guneh@
+@transient@|@demdemî@
+@transitory@|@demdemî@
+@translate@|@wergerandin@
+@translation@|@werger@
+@translator@|@wergêr@
+@transmigration@|@koç@
+@transmit@|@birêkirin, guhêztin, hinartin, veguhêztin@
+@transparent@|@ron@
+@transpire@|@çêbûn, xwêdan@
+@trap@|@feq, qapan@
+@tray@|@lemper, piyan, sênî@
+@treat@|@kêf@
+@treatment@|@tedawî@
+@tree@|@dar@
+@trefoil@|@ket, nefel@
+@trench@|@kend@
+@trenchant@|@tûj@
+@trepidation@|@tirs, xof@
+@trial@|@ezmûn@
+@trick@|@huner, lêp, xapandin, xirandin@
+@trip@|@ger@
+@triumph@|@serfirazî, serkeftin@
+@trouble@|@pirsgirêk, xem@
+@true@|@rast@
+@trusty@|@dilsoz@
+@truth@|@rasteqîn, rastî@
+@try@|@ceribandin@
+@tulip@|@alale, helale@
+@tumble@|@ketin@
+@tune@|@awa, awaz@
+@turkey@|@elok@
+@turn@|@qulipandin, vegerîn, zivirandin, zîvirîn, zivrînek@
+@twenty@|@bîst@
+@twice@|@dû car@
+@twosome@|@cot, zo@
+@type@|@babet, renk, zayend@
+@tyrant@|@çewsîner@
+@ugly@|@bed@
+@uncle@|@ap, mam@
+@unclear@|@nediyar@
+@unclose@|@vekirin@
+@under@|@bin, jêr@
+@undercover@|@nepenî@
+@underneath@|@bin, binî@
+@understand@|@fêhmkirin, fêmkirin, têgihiştin@
+@understanding@|@feraset, têgihiştin@
+@undo@|@vekirin@
+@unemployed@|@betal@
+@unfasten@|@çareserkirin@
+@unfix@|@çareserkirin@
+@ungenerous@|@çemçûs, qinût@
+@unhappy@|@bedbext, bêsiûd@
+@union@|@yekîtî@
+@unit@|@edet, heb, lib, yekîne@
+@universal@|@gerdûnî@
+@universe@|@gerdûn@
+@university@|@zanîngeh@
+@unkind@|@çavsor, stemkar, zordar, zordest@
+@unknown@|@nenas@
+@unlike@|@ne wek@
+@unlucky@|@bedbext, bêsiûd@
+@unlucky fellow@|@bextreş@
+@unneeded@|@bêkêr@
+@unremitting@|@berdewam@
+@unruffled@|@aram, asûde@
+@unsafe@|@xeternak@
+@unsparing@|@kertek@
+@unstop@|@vekirin@
+@untidy@|@bêserûber@
+@until@|@ta@
+@untroubled@|@bêxem@
+@up@|@jor@
+@upright@|@rep, zîq@
+@uprise@|@rabûn@
+@upshot@|@encam, kuta@
+@urban@|@bajarî@
+@urgency@|@girîngtî@
+@us@|@me@
+@use@|@bi kar anîn, bikaranîn@
+@used@|@fêr@
+@useful@|@bikêrhatî@
+@user@|@bikarhêner@
+@uses@|@bi kar tîne@
+@utility@|@havil, kelk, sûd@
+@vacation@|@betlane, paydoz@
+@vacuum@|@valahî@
+@vagabond@|@selexane, sêwak, tolaz@
+@vague@|@gong@
+@valiant@|@dilawêr, egît, mêrxas@
+@valley@|@dol, kend@
+@value@|@biha, giringahî, giringî, nirx@
+@values@|@nirx@
+@valve@|@berdevk@
+@vantage@|@serdestî@
+@vapor@|@hilm@
+@vegetable@|@nebat, zebze@
+@vend@|@firotin@
+@vengeance@|@tolhildan@
+@venomous@|@jehrîn@
+@vent@|@qul@
+@venture@|@xetere@
+@verb@|@lêker@
+@verbal@|@devkî@
+@verge@|@kevî@
+@verity@|@rasteqîn, rastî@
+@verse@|@helbest, pêşe@
+@versus@|@dijber@
+@very@|@gelek, kertek, pir, zehf@
+@vest@|@çekbend@
+@vestige@|@berhem, rêç@
+@vibrate@|@lerizîn, ricifîn@
+@victim@|@dehî@
+@victory@|@serfirazî, serkeftin@
+@view@|@bergeh, dîtin, nêrîn@
+@views@|@nêrin@
+@vigor@|@hêz@
+@village@|@gund@
+@vine@|@dêlî@
+@virtual@|@nîgaşî@
+@vis@|@hêz@
+@visit@|@serdan@
+@visitation@|@serdan@
+@vivid@|@zelal@
+@vocable@|@bêje, peyv@
+@voice@|@deng, hes, pêjn@
+@void@|@betal, netêw@
+@volatile@|@demdemî@
+@volunteer@|@bidil@
+@vote@|@deng, deng dan@
+@voucher@|@girtek@
+@voyage@|@ger, rêwîngî@
+@vulture@|@kerxur, sîsark@
+@wage@|@mûçe@
+@waist@|@mer@
+@wait@|@payîn@
+@walk@|@birêveçûn@
+@wall@|@dîwar, kele, keleh, kelhe@
+@wallet@|@kîs@
+@wan@|@çilmisî@
+@want@|@pêwîstî, xwestin@
+@war@|@ceng, şer@
+@warehouse@|@kewar@
+@warfare@|@ceng@
+@warmth@|@tîn@
+@warrant@|@raye@
+@wartime@|@dema şerî@
+@was@|@bû@
+@watch@|@meyzandin, nêrîn, raçavkirin@
+@water@|@av, avdan@
+@waterfall@|@avket, sûlav@
+@wave@|@pêl@
+@wax@|@mezinbûn@
+@way@|@awa, rê@
+@ways@|@rê@
+@we@|@em@
+@weak@|@lar@
+@wealth@|@dewlemendî, dolmendî, mal, temel@
+@wealthy@|@dewlemend, kerane, maldar@
+@weary@|@mandî@
+@weasel@|@gulebûk@
+@web site@|@malper@
+@wed@|@zewicîn@
+@week@|@hefte@
+@weeks@|@hefte@
+@weigh@|@sengandin, teqilandin@
+@weight@|@kêşan@
+@weighty@|@girîng@
+@welcome@|@bi xêr hatî@
+@well@|@baş, çak, çê, qenc@
+@well done!@|@bijî@
+@well known@|@binavûdeng@
+@wellspring@|@çavkanî@
+@went@|@çûn@
+@were@|@bûn@
+@west@|@rojava@
+@western@|@rojava@
+@whack@|@kutan, lêbezîn, lêdan, lêxistin@
+@wharf@|@bendergeh, lengergeh@
+@what@|@çi, kîjan@
+@whatever@|@çi be (jî), hema çi be (jî)@
+@wheat@|@genim@
+@when@|@kingê@
+@where@|@ku, li ku derê@
+@which@|@kîjan, ku@
+@while@|@çax, dem, kat@
+@white@|@spî@
+@who@|@yê ku@
+@whole@|@sercem, yekpare@
+@why@|@çima, eger@
+@wicked@|@bed@
+@wide@|@dûr, fireh@
+@wider@|@firehtir@
+@wife@|@jin@
+@wild@|@kovî@
+@will@|@wê, xwestin@
+@wimble@|@behreme@
+@win@|@qezenc, serfrazî, serketin@
+@wind@|@ba@
+@window@|@mered, pace@
+@wing@|@bask@
+@wire@|@brûsk@
+@wish@|@awat, daxwaz, xwestin@
+@wit@|@aqil@
+@with@|@bi, bi ... re@
+@with ease@|@bi hêsanî@
+@with the night@|@bi şev@
+@with this color@|@bi vî rengî@
+@within@|@di nav de@
+@without@|@bê, der, derve@
+@woe@|@derd, keser, kul, xem@
+@woeful@|@daxbar, dilbikul, xemgîn@
+@wolf@|@gur@
+@woman@|@jin@
+@woman after the menopause@|@alifê vala@
+@women@|@jin@
+@wonderful@|@nuwaze@
+@wood@|@êzing@
+@wool@|@hirî@
+@word@|@bêje, gotin, peyv@
+@wordbook@|@ferheng@
+@words@|@peyv@
+@work@|@kar, ked@
+@workaday@|@rojane@
+@worked@|@xebat kir@
+@workers@|@karker@
+@workes@|@kar kir@
+@works@|@kar@
+@world@|@cîhan, dinya, gerdûn@
+@worm@|@tîjmar@
+@worry@|@xem@
+@worst@|@herî xirab@
+@wounded@|@birîndar@
+@wrangle@|@qirên@
+@wrist@|@zend@
+@writer@|@nivîskar, nûser@
+@writing@|@nivîs@
+@wrong@|@çewt, şaş, xera, xirab@
+@yea@|@belê@
+@year@|@sal@
+@yes@|@belê, erê@
+@yesterday@|@do, duh@
+@yet@|@hîn@
+@yip@|@ewtîn@
+@you@|@tu@
+@young@|@ciwan@
+@younger@|@ciwantir@
+@your@|@ya te, ya we, yê te, yê we, yên te, yên we@
+@youth@|@ciwanî, xortanî@
+@zinc@|@tûtya@
+@zone@|@cîw@
+

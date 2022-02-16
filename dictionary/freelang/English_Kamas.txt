@@ -1,0 +1,250 @@
+@English@|@Kamas@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a k. of arrow@|@mee@
+@a k. of berry@|@modo@
+@a k. of bird@|@kazära@
+@a k. of bird of prey@|@phigije@
+@a k. of fir-tree@|@nalho, nolho@
+@a k. of grass@|@no'@
+@a k. of insect@|@uunu@
+@a k. of marten@|@pucuga-käten@
+@a k. of metal@|@baza, waza@
+@a k. of moss@|@noor, nor@
+@a k. of trout@|@kami-kola@
+@a k. of wild duck@|@konzu', pure, puru@
+@a k. of willow@|@po@
+@above@|@nägende, nigindä@
+@ant@|@keedämgä@
+@armpit@|@kaaläng@
+@arrow@|@na, niè@
+@asp@|@piini@
+@back@|@begel, paar-@
+@back part@|@pi'ne, pu'mo@
+@bark@|@kuba, kuwa@
+@basket@|@koori@
+@below@|@ilgän@
+@bend@|@sing@
+@birch@|@koju, kuju@
+@birch bark@|@šo@
+@boil@|@përä-, pu-, puri-@
+@bone@|@le, lè@
+@bow@|@inä@
+@bowstring@|@neenä, neeni@
+@breath@|@maajä, maaje@
+@carry@|@jilde-@
+@charcoal@|@si'@
+@cheek@|@puu'ma@
+@chew@|@tudo-@
+@child@|@eši@
+@chin@|@ongo.j@
+@claw@|@kada@
+@cradle@|@cepsu@
+@crow@|@bari@
+@crust@|@kam@
+@curve@|@mun-@
+@daughter-in-law@|@meeji, meji@
+@day@|@jala@
+@deer@|@tägö@
+@dew@|@te'pta@
+@divide@|@taaräla-@
+@door@|@ajä, aje@
+@down@|@mu'zen@
+@downwards@|@ilde@
+@elder female relative@|@paba@
+@end@|@ulu@
+@end of trunk@|@tavu, theže@
+@eye@|@sima, simä@
+@falcon@|@pigije@
+@fasten@|@šu'dä-@
+@fat@|@säl, sil@
+@feeding ground for reindeer@|@šoor@
+@female animal@|@šejma, šejmu, šuje, šuju@
+@find@|@ku-@
+@fir@|@ko', kot@
+@fire@|@šu@
+@fish@|@kola@
+@five@|@bjä'n@
+@float@|@pari-kinjigej@
+@fly (insect)@|@šuriar@
+@follow the tracks of a animal@|@piderä-@
+@frost@|@kana-, kanaa-@
+@frozen snow@|@säre@
+@girdle@|@jii, mune, tii@
+@glue@|@näme@
+@god@|@nom, num@
+@grave@|@böser, kolmä@
+@hair@|@epti, ther@
+@hand@|@uda@
+@hard@|@komdä-@
+@hard palate@|@neenä, neeni@
+@hard snow@|@šeer@
+@hazel-hen@|@puže@
+@heart@|@sii@
+@hole@|@ang@
+@hole in tent roof@|@maa-zäro@
+@hollow of hand@|@kaamëru'@
+@horn@|@amno@
+@house@|@ma', mà'@
+@how@|@käda', kade', kado'@
+@I@|@man@
+@inside@|@put@
+@interval@|@jede, jêde, jöde, jude, töde@
+@intestines@|@šujä@
+@jaw@|@ongaj@
+@kidney@|@sujäng, sujong, süjüng@
+@knee@|@seni, sini@
+@knot@|@bakta, mar, mor, pakta@
+@language@|@šäkä@
+@light@|@šümke@
+@liver@|@mit@
+@lizard@|@tanzä, thenze, tonzä@
+@lock@|@tåktõ@
+@long@|@kunzu, purže@
+@look@|@äd-@
+@lowland@|@oro@
+@lung@|@tu@
+@male@|@kora@
+@month@|@ki@
+@morning@|@karälden, korodon@
+@morning dawn@|@kuja@
+@mother-in-law@|@ämbä, ämbi@
+@mound@|@bäkte, mekte@
+@mountain@|@boor@
+@mouth@|@soj@
+@name@|@näm, nim@
+@needle@|@njiimi@
+@negative particle@|@e-, el- (pres.), i-', i-gä (imper.)@
+@nest@|@phidä@
+@night@|@nudi@
+@nose@|@ner@
+@odor@|@pu'btu, pu'ptu@
+@on top@|@nä, ni, nï@
+@otter@|@ca', ca'n@
+@over@|@sü'got, su'kut@
+@palm of hand@|@päng@
+@piece@|@bärujdaabä-, bula-@
+@pine@|@dö, du, teedäng@
+@place@|@hel-, pel-@
+@plait@|@pun-@
+@polar duck@|@unga@
+@pole@|@säle, solle@
+@pond@|@tu@
+@prevent@|@mari@
+@raven@|@kuli, kuuli@
+@related through marriage@|@mono, muno@
+@ring@|@pjeri@
+@river@|@caha@
+@root@|@mona@
+@sack@|@bara, bära, bëra, bõra, wära@
+@salmon@|@teji@
+@scrape@|@paargä-@
+@separate@|@tegäâr-@
+@shaft@|@nirže, panga, pänga, pängnga@
+@shit@|@thü'd, tu', tuu'@
+@shoot@|@narga@
+@shore@|@mara@
+@side@|@pël, pil, pjel@
+@sinew@|@ten@
+@ski@|@tejme@
+@skin from the feet of deer@|@phana@
+@sleeping hole in snow@|@bapu@
+@sleeve@|@tu@
+@snowfall@|@kadáng@
+@something stamped@|@pulu@
+@space below something@|@jildä, jilgän@
+@spear@|@tapse-, tapsu@
+@spit@|@ang@
+@stay@|@kojo-@
+@stone@|@pi@
+@stump@|@solle@
+@summer@|@tanga, tangä@
+@tail (not birds')@|@cäma, ciima@
+@tear@|@kajäâl, kajil, ne'-@
+@tent roof made of birch bark@|@tee, tee'@
+@testicle@|@munäj, munuj@
+@that@|@aami, dä, di, dïbär, dihin, šee, šee'än, šeebär@
+@that (1)@|@digin@
+@the upper part@|@nu'do, nu'nadä, nu'nan, nu'tu@
+@thief@|@tholer-, tholi@
+@thin snow@|@kamo, kuro@
+@thing@|@mo, mo'@
+@this@|@i-dä-, teeji, tije, tijin@
+@thou@|@tan@
+@thumb@|@pidi, piidi@
+@tinder@|@pä'me@
+@to amble@|@maaktert@
+@to be afraid@|@pim-@
+@to be warm@|@pelä'-, phîde-@
+@to become dry@|@ko'-, koo-@
+@to become wet@|@baadu'@
+@to bind@|@kur-@
+@to blow@|@pu'-@
+@to bore@|@parang, pärang, pärijang@
+@to bow@|@tajloo-@
+@to bring@|@det-, tet-@
+@to burn@|@pärä-, puri-@
+@to carry@|@kun-, kundo-@
+@to close@|@tåktët@
+@to close eyes@|@kaj-@
+@to comb@|@t'ilë-@
+@to come@|@šola@
+@to come in@|@šu-@
+@to cough@|@ku'-, ku'd, ku'n@
+@to curve@|@kara-@
+@to cut@|@pädä-, pudä-@
+@to depilate@|@ninggä-, no', no'n@
+@to die@|@ku-@
+@to extinguish@|@ku'bdo-@
+@to fall@|@äzä-, uzu-@
+@to fart@|@pänerä-, punorä-@
+@to feel@|@tämnä-@
+@to fish@|@qoltei-@
+@to flow@|@šur-@
+@to give@|@mä-, mär, me-, mi-, mu-@
+@to go@|@män-@
+@to go over water@|@mâkter-@
+@to hit@|@phi'-@
+@to jump@|@baktä-@
+@to lead@|@bodä-@
+@to lick@|@nu-@
+@to lift@|@tjildet@
+@to live@|@jili, jilï-@
+@to move@|@kal-, xal-@
+@to obtain@|@tu-@
+@to peel@|@käâr-, kärä-@
+@to press@|@pangdä-, panggorä-@
+@to rip@|@nede-@
+@to rot@|@te'-@
+@to row@|@tu-@
+@to say@|@ma-@
+@to scrape skin@|@na'-@
+@to sit@|@amna-, amnö-@
+@to sit down@|@ši-@
+@to smash@|@bullt@
+@to suck@|@emër-, nimër-@
+@to unwind@|@phud-, phudu-@
+@to urinate@|@känzä-, känze, kunze@
+@to walk@|@tön-@
+@to warm@|@pidet@
+@to wash@|@bezet@
+@trace@|@aci, aje, aji@
+@turned over@|@kama'@
+@two@|@šide@
+@water@|@bu@
+@way@|@närmi@
+@we@|@mi', mište@
+@when@|@kaamän@
+@which@|@lojät@
+@who@|@gi'i', šändi, šindä@
+@whole@|@bušša@
+@wild goat@|@pootu@
+@wild reindeer@|@kouna@
+@woman@|@ne, nee@
+@wood@|@pa@
+@worm@|@nejme@
+@year@|@ere@
+@yellow@|@pada@
+@you@|@ši'@
+@young of deer@|@po'du@
+

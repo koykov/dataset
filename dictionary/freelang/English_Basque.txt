@@ -1,0 +1,4374 @@
+@English@|@Basque@
+@Author name@|@Guy T. Gambill@
+@Font@|@Arial\12\Arial\12@
+@(conviction)@|@aitormen@
+@(he/she) had (them)@|@zituen@
+@(in) the bedroom@|@logela(n)@
+@(to home)@|@extera@
+@(Viscaya)@|@Bizkaia@
+@(water) heater@|@berogailu@
+@(who) was walking@|@zebilen@
+@a blow@|@kolpe@
+@a bout of fever@|@sukarraldi bat@
+@a clasp@|@mako@
+@a clothes horse@|@esekitoki@
+@a criminal act@|@egintza kriminal@
+@a criminal offense@|@delitu bat@
+@a cry of anger@|@oihu@
+@a cup of tea@|@katilu bat te@
+@a free translation@|@itzulpen libre bat@
+@a green Basque wine@|@txakoli@
+@a hard drinker@|@edale amorratu bat@
+@a hard life@|@bizimodu latz bat@
+@a literal translation@|@hitzez hitzeko itzulpen@
+@a little@|@pixka bat@
+@a lucky number@|@zorioneko zenbaki bat@
+@a man of distinction@|@ospe handiko gizona@
+@a man of straw@|@lastozko gizon bat@
+@a mark of respect@|@begirunezko keinua@
+@a murder@|@hiltze@
+@a myriad of thoughts@|@gogoeta ugari@
+@a new design@|@modelo berri bat@
+@a pair@|@pare bat@
+@a piece of furniture@|@altzari bat@
+@a piece of pottery@|@eltzeko bat@
+@a protest (against something)@|@protesta egin@
+@a swarm of mosquitoes@|@eltxo-mordo bat@
+@a type of shirt@|@arkondara@
+@a wink@|@keinada@
+@a/the big mountain@|@mendi zabala@
+@abandon ship!@|@hustu ontzia!@
+@abbreviation@|@laburtze@
+@abbreviations@|@laburpenak@
+@abdomen@|@errai@
+@ability@|@ahalmen@
+@abroad@|@atzerri, kanpoan@
+@absolute change@|@aldaketa absolutu@
+@abyss@|@leize@
+@academy@|@akademia@
+@accident@|@istripu@
+@accident insurance@|@istripurako aseguru@
+@accompanying@|@(r)ekin@
+@accord@|@akordio@
+@account@|@kontu@
+@account number@|@kontu-zenbaki@
+@accountant@|@kontulari@
+@accusative (gramm.)@|@akusatibo@
+@accused@|@akusatu@
+@ace@|@bateko@
+@ache@|@min@
+@acorn@|@ezkur@
+@acquaintance@|@ezagun@
+@acquisition@|@eskuratze@
+@actor@|@aktore, komediante@
+@acute triangle@|@triangelu zorrotz@
+@addition sign@|@batuketa-ikur@
+@additional@|@gainerako@
+@address@|@helbide@
+@adequate@|@egoki@
+@adjective@|@adjektibo@
+@adjustable pipe wrench@|@tutuentzako giltza zabalgarri@
+@adjustable spanner@|@giltza zabalgarri@
+@adjustable tap wrench@|@terrail etxe zabalgarri@
+@adoration@|@adorasiño@
+@adore@|@gurtu@
+@adult game@|@joku@
+@advantageous@|@hobe@
+@adverb@|@adberbio, aditzondo@
+@advocate@|@abokatu@
+@aerogenerator@|@sorgailu eoliko@
+@affection@|@maitasun, xaru@
+@after@|@gero@
+@afternoon@|@arratsalde@
+@afterwards@|@gero@
+@again@|@berriro@
+@against@|@aurka, kontra@
+@age@|@adin, kira@
+@aggressive@|@eraso-kor@
+@agreement@|@adostasun, akordio@
+@air@|@aire, haize@
+@air attack@|@aire-eraso@
+@air currents@|@aire-korronteak@
+@air force@|@aire-armada@
+@air hammer@|@mailu pneumatiko@
+@airplane@|@hegazkina@
+@airport@|@aireportu@
+@aisle@|@pasabide@
+@alarm@|@alarma@
+@Alava@|@Araba@
+@album@|@album@
+@alcove@|@txoko@
+@algebra@|@algebra@
+@alive@|@bizi, bizirik, bizkirk@
+@all@|@gutzi, guzti, guztia, guztiak, oro@
+@all alone@|@bakar-bakarrik@
+@all but@|@ia@
+@all hands@|@untziko guztiak@
+@all her life@|@bere bizitza osoan@
+@all of them@|@haiek guztiak@
+@all out@|@ahalik eta gehien@
+@all right@|@konforme, ongi, ongi da@
+@all the better@|@hainbat hobe@
+@all the time@|@denbora guztian@
+@allegation@|@alegatu, alegazio@
+@allen wrench@|@allen giltza@
+@allergy@|@alergia@
+@alloy@|@aleazio@
+@ally@|@aliatu@
+@almond tree@|@almendrondo@
+@almost@|@la@
+@alone@|@bakarrik@
+@along with something@|@e-kin batera@
+@alongside@|@-(r)en alboan@
+@alphabet@|@alfabeto@
+@already@|@dagoeneko, jadanik@
+@also@|@baita...ere, ere@
+@altar@|@aldare@
+@altar boy@|@meza-laguntzaile@
+@aluminum@|@aluminio@
+@aluminum wire@|@aluminiozko hari@
+@amber@|@anbar@
+@amendement@|@zuzentze@
+@amiable@|@atsegin@
+@among@|@artean@
+@ample@|@nahiko, zabal@
+@amplifier@|@anplifikadore@
+@amulet@|@kutun, zinginarri@
+@an exquisite dish@|@ahogozagarri bat@
+@an hours delay@|@ordubeteko atzerapena@
+@an indistinct memory@|@oroimen nahasia@
+@anatomy@|@anatomia@
+@ancestor@|@as-aba@
+@anchovy@|@antxoa, bokarta@
+@ancient@|@antzinako@
+@ancient customs@|@aspaldi-aspaldiko ohiturak@
+@and@|@eta@
+@angel shark@|@aingeru guardako arrunt@
+@angelfish@|@aingeru guardako arrunt@
+@angle@|@angelu@
+@angry@|@petral@
+@angular@|@zoko-tsu@
+@animosity@|@gorroto@
+@ankle@|@orkatila@
+@anomaly@|@anomalia@
+@another@|@beste@
+@answer@|@erantzun@
+@ant@|@inurri@
+@anybody@|@edonor, inor@
+@anyone@|@inor@
+@apartment@|@pisu@
+@apex@|@erpin, puntu@
+@apparatus@|@aparatu, mekanismo@
+@apple@|@sagar, sagarra@
+@apple cider@|@sagarrardoa@
+@apple tree@|@sagarrondo@
+@appletree@|@sagarondoa@
+@apricot@|@albarikoke@
+@apricot tree@|@arbeletexeko-arbola@
+@April@|@Apirila@
+@apron@|@mantal@
+@arc light@|@arku-argi@
+@archaeology@|@arkeologia@
+@archbishop@|@artzapezpiku@
+@architecture@|@arkitektura@
+@ardently@|@sukar-ki@
+@area@|@eskualde@
+@arid@|@siku@
+@arm@|@beso@
+@armchair@|@besaulkia@
+@around@|@inguru, inguruan@
+@around here@|@hemendik@
+@arrest@|@atxilotze@
+@arriving@|@irtetzen@
+@arrow@|@gezi@
+@art@|@erti@
+@artery@|@arteria@
+@artichoke@|@alkatxofa, orburu@
+@artificial@|@artifizial@
+@as@|@bai-, bezala@
+@as a result@|@ondorioz@
+@as an experiment@|@esperimentu bezala@
+@as much as@|@aina, haina@
+@as rumor has it@|@diotenez@
+@as the crow flies@|@zuzen-zuzen@
+@as things stand@|@gauzak diren bezala@
+@asbestos@|@asbesto@
+@ash@|@errauts@
+@ash grove@|@lizardi@
+@ashen@|@hauskara@
+@ashes@|@errautsak, hauts@
+@ashtray@|@hautsontzi@
+@ash-tree@|@lizar@
+@asleep (adverb)@|@lo@
+@aspirin@|@aspirina@
+@assault@|@kalteak eragin@
+@assert@|@aldarrikatu, baietsi@
+@assertion@|@alegazio@
+@assignment@|@eginkizun@
+@assistance@|@udaletxea@
+@associate@|@kide@
+@association@|@elkarte@
+@astronomy@|@astronomia@
+@at a 90 degree angle@|@90 graduko angeluan@
+@at a snail's pace@|@barea baino motelago@
+@at every turn@|@une oro@
+@at first glance@|@begiratu batean@
+@at first hand@|@ondotik@
+@at one's own risk@|@bere ardurapean@
+@at risk@|@arriskuan@
+@at short notice@|@epe laburrean@
+@at that very second@|@une hartantxe@
+@at the end of the term@|@ikastaroa bukatzean@
+@at the extreme end@|@buru-buruan@
+@at the time@|@orduan@
+@at the turn of the century@|@mendearen hasieran@
+@atlantic mackerel@|@berdel@
+@atmosphere@|@giro@
+@atmospheric pressure@|@a presio atmosferiko@
+@atom@|@atomo@
+@atom smasher@|@atomo-puskatzaile@
+@atomic bomb@|@bonba atomiko@
+@atrium@|@arkupe@
+@atrocious act@|@zikin-keria@
+@attach@|@gakoz lotu@
+@attack of fever@|@sukarraldi@
+@attempt@|@ahalegin, eginahal, saiatu@
+@attention@|@oharmen@
+@attitude change@|@jarrera-aldaketa@
+@August@|@Abuztua@
+@aunt@|@izeba@
+@authenticate a signature@|@sinadura egiaztatu@
+@automobile@|@kotxe@
+@autumn@|@udazken@
+@available@|@eskumenean, librerik@
+@avalanche@|@elur-jausi@
+@avoacado tree@|@ahuakat-arbola@
+@awkward@|@erabilgaitz, gogaikarri, zakar@
+@baboon@|@babuino@
+@baby@|@haur@
+@back@|@bizkar@
+@back of the hand@|@eskugain@
+@back part@|@atze@
+@bad@|@gaitz, txar@
+@bad temper@|@jenio txar@
+@bad turn@|@azpikeria@
+@badger@|@azkoin@
+@badly@|@gaizki@
+@bag@|@poltsa@
+@baker@|@okin@
+@bakery@|@okindegi, okintegi@
+@balance@|@oreka@
+@balance (scales)@|@balantza@
+@balance of payments@|@ordainketa balantza@
+@balance of power@|@boterearen oreka, boterearenn oreka@
+@balance of trade@|@balantza, balantza merkatal@
+@balance sheet@|@balantze@
+@balcony@|@balkoi@
+@bald@|@burusoil@
+@ball@|@bola@
+@ball bearing@|@kojinete@
+@balloon@|@puxika@
+@ball-peen hammer@|@mailu burubiribil@
+@ball-pen@|@boligrafo@
+@banana@|@platano@
+@banana tree@|@bananondo@
+@bank@|@banketxea, banku, kutxa@
+@banner@|@bandera@
+@baptism@|@bataio@
+@bar@|@taberna@
+@barbed wire@|@txarrantxa@
+@bare-handed@|@esku-huska@
+@bark@|@azal@
+@barley@|@garagar@
+@barley-sugar@|@kande-azukre@
+@barque@|@itsasontzi@
+@barrel@|@kanoi, upela@
+@barren@|@agor@
+@bartender@|@tarbernari@
+@basket@|@saski@
+@basking shark@|@marrazo erraldoi@
+@Basque@|@euskara@
+@Basque (adj)@|@euskal@
+@basque (the one who speaks Basque)@|@euskaldun@
+@Basque classes@|@euskarazko klaseak@
+@Basque folk dance@|@aurresku@
+@Basque Santa Claus@|@Olentzero@
+@Basque school@|@euskaltegi, ikastola@
+@bass@|@baxua, lupia@
+@bass singers@|@ahots baxuak@
+@Basse Navarre@|@Benafaroa@
+@bat@|@sagutzar, saguzahar, saguzar@
+@bathroom@|@bainugela, komun, komuna@
+@bathroom sink@|@lababo@
+@bathtub@|@bainu-ontzi@
+@bay (geog.)@|@golko@
+@Bay of Biscay@|@Bizkaiko Itsasoa@
+@bay window@|@leiho irtena@
+@bayonet@|@baioneta@
+@be@|@da, egon, izan@
+@be alike@|@kidetu@
+@be alive@|@bizi izan@
+@be born@|@jaio@
+@be frightened@|@beldurtu@
+@be on your guard!@|@erne ibili!@
+@be sorry@|@sentitzen@
+@be worthy of@|@merezi izan@
+@beach@|@hondartz, hondartza@
+@bean@|@baba@
+@beans@|@babarrun, indaba@
+@bear@|@hartz@
+@beard@|@bizar@
+@bearded@|@bizardum@
+@beast@|@piztia@
+@beating@|@kolpeka@
+@beautiful@|@eder, ederra@
+@beauty@|@edertasun@
+@beauty contest@|@ederren lehiaketa@
+@beauty parlor@|@ileapaindegi@
+@beauty salon@|@apaindegi@
+@beaver@|@kastore@
+@because@|@-gatik, bai-, elako@
+@become gruff@|@zakartu@
+@become rich@|@aberastu@
+@become rude@|@zakartu@
+@become tender@|@guri-tu@
+@becoming cold@|@hozte@
+@bed@|@oge, ohe@
+@bedroom@|@logela@
+@bee@|@erle@
+@beech@|@pago@
+@beech grove@|@pagadi@
+@beef@|@behiki@
+@beer@|@garagardoa@
+@beggar@|@eskale, eskeko@
+@begi@|@hasi@
+@being@|@nengoela@
+@belly@|@sabel@
+@beloved@|@maite@
+@below@|@-pe(an)@
+@belt@|@gerriko@
+@berry@|@ale, baia@
+@best wishes@|@zorionak@
+@better@|@hobe@
+@beverage@|@edari@
+@beyond cure@|@sendaezina izan@
+@beyond help@|@sendaezina izan@
+@bicycle@|@bizikleta@
+@big@|@handi, haundi@
+@Bilbao@|@Bilbo@
+@bilingual@|@elebidun@
+@bill@|@kontu@
+@billy goat@|@aker@
+@biology@|@biologia@
+@bird@|@txori@
+@birthmark@|@jaiotze-marka@
+@Biscay@|@Bizkaia@
+@Biscayan (dialect)@|@Bizkaiera@
+@bishop@|@apezpiku, gotzain@
+@black@|@beltz@
+@black bass@|@perka amerikar@
+@black magic@|@sorginkeria@
+@black mulberry tree@|@maruga beltz@
+@black scorpionfish@|@krabarroka beltz@
+@blackboard@|@arbel, harbel@
+@blackmail@|@txantaje@
+@blame@|@hoben, oben@
+@blanket@|@burusi, ohazal, tapaki@
+@bliss@|@poz, poztasun@
+@block@|@bloke@
+@blood@|@odol@
+@blood sausage@|@txorizo@
+@blouse@|@alkondara@
+@blowing snow@|@goi-bisuts@
+@blue@|@urdin, urdina@
+@blue shark@|@tintoleta@
+@blush@|@lotsa@
+@boar@|@aketz, basurde@
+@boar fish@|@basurde-arrain@
+@board@|@administrazio-kontseilu, epaimahai (B)@
+@board of directors@|@administrazio-kontseilu@
+@board of management@|@zuzendaritza-kontseilu (B)@
+@board of trustees@|@administrazio-kontseilu@
+@boarfish@|@basurde-arrain@
+@boat@|@itsasontzi, ontzi, txalupa@
+@body@|@gorputz, gorputz-enbor, porputz, soin@
+@boil@|@egosi, kabarro@
+@boiling@|@borborka@
+@boilingly@|@borborka@
+@bolt@|@berno, kisketa@
+@bone@|@hezur@
+@bone marrow@|@hezur-muin@
+@bone of contention@|@liskarbide@
+@bone up on@|@jo eta ke ikasi@
+@boneless fish@|@arrain hezurgabe@
+@bonnet@|@kapela, txanoa@
+@book@|@idazti, liburu@
+@book-lover@|@liburuzale@
+@bookstore@|@liburudenda@
+@boot@|@bota@
+@border@|@hegi@
+@bored@|@aspergarri@
+@boring@|@aspergarri@
+@boss@|@nagusi, nagusi@
+@boss around@|@i-en nagusia izan@
+@botany@|@botanika@
+@both of us@|@biok@
+@bottom@|@ipurdi@
+@bouquet@|@sorta@
+@bouquet of flowers@|@lore-sorta bat@
+@box tree@|@ezpel@
+@box wrench@|@edontzi-giltza@
+@boy@|@mutil, mutila@
+@boyfriend@|@senargai@
+@brain stem@|@garun-enbor@
+@bramble shark@|@taxtuela@
+@branch@|@abar, adar, rama@
+@bread@|@ogi@
+@break a promise@|@agindutakoa ez bete@
+@breakfast@|@gosaldu, gosari@
+@breast@|@bular, ugatz@
+@breath@|@arnas, arnasa, hats@
+@bridge@|@zubi@
+@brief@|@idazki@
+@briefcase@|@kartera@
+@bright@|@argi@
+@bring together@|@hurbildu@
+@broken@|@apurtuta, puskatuta@
+@bronce@|@brontze@
+@Bronze Age@|@Brontze Aroa@
+@brook@|@erreka@
+@brother@|@anai, neba@
+@brown@|@beltz-arran, marroi@
+@bud@|@kima, kimu@
+@buffalo@|@bufalo@
+@bug@|@zomorro@
+@bull@|@zezen@
+@bull ring@|@zezen-plaza@
+@bullet@|@bala@
+@burden@|@zama@
+@burn@|@erredura@
+@burn away@|@kiskali@
+@burn down@|@suntsitu@
+@burn into@|@suaz markatu@
+@burning@|@suketa@
+@bus@|@autobus@
+@bus station@|@autobus geltokia@
+@bush@|@sasi, zuhaiska@
+@business@|@betebehar, enpresa, Finant@
+@business firm@|@enpresa@
+@business matter@|@arazo@
+@business trading@|@negozioak@
+@businessman@|@enpresari@
+@but (conj)@|@baina@
+@butcher shop@|@harategi@
+@butchers@|@harategi@
+@butter@|@gurin@
+@butterfly@|@pinpilipauxa, tximeleta@
+@butterfly fish@|@tximeleta arrain@
+@butterfly net@|@tximeleta-sare@
+@buttocks@|@ipurdi@
+@buy@|@erosi@
+@buying@|@erosten@
+@by (what) hour@|@ordutarako@
+@by any means@|@inolaz (ere)@
+@by baptism@|@bataioz@
+@by default@|@besterik gabe@
+@by design@|@asmoz@
+@by hand@|@eskuz@
+@by leaps@|@saltoka@
+@cabbage@|@aza@
+@cabinetmaker@|@zurgin@
+@cable@|@kable@
+@cable television@|@kable-telebista@
+@cablegram@|@kablegrama@
+@cafe au lait@|@cafesne@
+@calabash@|@kalabaza@
+@calculating rule@|@kalkulu-erregela@
+@calendar@|@eguntegi, egutegi@
+@calendar year@|@urte zibila@
+@calf@|@xahal@
+@call someone by phone@|@telefonoz hots egin/deitu@
+@calm@|@isil, lasai@
+@calmly@|@lasai@
+@calumny@|@gezur-beltz@
+@campaign@|@kanpaina@
+@campsite@|@kanpin@
+@cancer@|@minbizi@
+@candle@|@kandela@
+@cane@|@kanabera@
+@cannibal@|@gizajale, kanibal@
+@cannon@|@kanoi@
+@cannot@|@ezin@
+@canteen@|@kantina@
+@canteen (Mil.)@|@mahai-tresnak@
+@canyon@|@arroil@
+@cap@|@txano, txapel@
+@capillary@|@kapilar@
+@capital@|@hiriburua@
+@capital account@|@kapital-kontu@
+@capital assets@|@ondare pasibo@
+@capital city@|@hiriburu@
+@capital goods@|@kapital-ondasunak@
+@capital investment@|@kapital-bertsio@
+@capital letter@|@letra larri@
+@capital punishment@|@heriotza-zigor@
+@capital transfer tax@|@plusbalioaren gaineko zerga@
+@capture@|@harrapaketa, harrapatze@
+@car@|@kotxe@
+@caraway@|@txarpoil@
+@caraway seed@|@txarpoil-hazi@
+@carbon@|@karbono@
+@carbon dioxide@|@karbono dioxido@
+@carbon paper@|@kar-bono-paper@
+@carcinoma@|@kar-tzinoma@
+@card@|@txartel@
+@card catalog@|@katalogo-fixta@
+@card index@|@katalogo-fixta@
+@cardinalfish@|@apogon gorri@
+@caress@|@xaru@
+@carnation@|@krabelin@
+@carob bean tree@|@algarrobo@
+@carp@|@karpa, zamo@
+@carpentry@|@arostoki@
+@carrot@|@azenario@
+@cart@|@gurdi@
+@cash@|@eskudiru@
+@cash box@|@dirukutxa@
+@cash card@|@kutxazain-txartel@
+@cash deposit@|@diru-ezartze@
+@cash in on@|@probetxua atera@
+@cash on delivery@|@jasotzean ordaintzeko@
+@casino@|@kasino@
+@cassette recorder@|@kaset@
+@cast iron@|@burdina galdatu@
+@castle@|@gaztelu@
+@castrated ram@|@zikiro@
+@cat@|@katu@
+@catalogue@|@katalogo@
+@Catalunya@|@Katalunya@
+@catapult@|@kata-pulta@
+@cause@|@erro@
+@caution@|@kontu@
+@Caution! Careful!@|@Kontuz!@
+@cautious@|@zuhur@
+@cavalry@|@zaldizko soldadu@
+@cave@|@haitzulo, koba, leiza, leize@
+@cave in@|@behera egin@
+@cave in to@|@i-en aurrean amore eman@
+@cavern@|@kobazulo@
+@cavity@|@barrunbe@
+@cedar@|@zedro@
+@cedar of Lebanon@|@Libanoko zedro@
+@cedar wood@|@ze-droki@
+@celery@|@apio@
+@celestial@|@zeruko@
+@center@|@erdi, zentro@
+@century@|@gizaldi, mende@
+@cereal crops@|@garau-uztak@
+@ceremony@|@ospakizun@
+@certainly@|@seguraski@
+@certainty@|@ziurtasun@
+@chain@|@kate@
+@chain drive@|@katezko transmisio@
+@chair@|@aulki@
+@chamber pot@|@pixontzi@
+@champion@|@txapeldun@
+@championship@|@txapelket, txapelketa@
+@chance@|@abagune, aldagai estokastiko, egokiera@
+@change@|@aldatu, mutazio@
+@change address (BUT)@|@aldatu helbidea@
+@change of meaning@|@esanahi-aldaketa@
+@change of pace@|@erritmo-aldaketa@
+@change of phase@|@egoera-aldaketa@
+@change of rhythm@|@erritmo-aldaketa@
+@change of state@|@egoera-aldaketa@
+@chaplain@|@kaperau@
+@character actor@|@figurontzi, karakteristiko@
+@charge@|@kontu@
+@charm@|@lilora, xarma, zinginarri@
+@charm (magic)@|@sorgindu@
+@charming@|@liluratu, xarmatu@
+@chasm@|@arrue@
+@chatter@|@berriketa, ele-berriketa@
+@cheap@|@merke@
+@check@|@txeke@
+@checks@|@checkak@
+@cheek@|@masaila@
+@cheerful@|@alai@
+@Cheers!@|@Topa!@
+@cheese@|@gazna, gazta, gaztae, gaztai@
+@chemistry@|@kimika@
+@cherry@|@gerezi@
+@chess@|@xake@
+@chestnut@|@gaztain, gaztaina@
+@chestnut tree@|@gaztainondo@
+@chicken@|@oilasko, oilo@
+@chicken coop@|@oilategi@
+@chicken out@|@atzera egin@
+@chicory@|@txikoria@
+@child@|@sehi, ume@
+@chimney@|@kebide, tximini, tximinia@
+@chimney sweep@|@kebide-garbitzaile@
+@chin@|@kokots, kokotz@
+@chipmunk@|@urtxintxa marradun@
+@chisel@|@trintxa, zizel@
+@chocolate substitute@|@txokolateordeko@
+@chord@|@korda@
+@chorizo@|@txorizo@
+@chorus@|@koru@
+@church@|@eliza@
+@church member@|@eliztar@
+@church wedding@|@eliz ezkontza@
+@cider@|@sagardoa@
+@cigarette@|@zigarreta@
+@cigarette butt@|@zigarrokin@
+@cigarette case@|@zigarro-kaxa, zigarro-kaxa@
+@cigarette lighter@|@metxero@
+@cinema@|@zinema@
+@cinnamon@|@kanela@
+@circle@|@biribil, korru, obo@
+@circle of friends@|@koadrila@
+@circus@|@zirku@
+@city@|@hiri@
+@city council@|@udal@
+@city dweller@|@kaletar@
+@Civil Guard@|@Goardia Zibil@
+@claim@|@alegazio, eskabide, eskaera, eskakizun, eskatu@
+@clasp@|@gako, mako@
+@class@|@klase, klasea, maila@
+@clause@|@klausula@
+@claw@|@atzapar, erpe@
+@claw hammer@|@iltze-mailu@
+@clay@|@buztin, klera@
+@clay pigeon shooting@|@plater-tiraketa@
+@clean@|@xahu@
+@clear@|@xabal@
+@clinic@|@klinika@
+@clip@|@moztu@
+@cloak@|@kapa@
+@clock@|@erreloju@
+@close@|@itxi@
+@close friend@|@adiskide@
+@closed@|@itxita@
+@closed circuit television@|@zirkuitu itxiko telebista@
+@cloth@|@kapa, zapi@
+@clothes@|@arropa, arropak, jantzi@
+@cloud@|@hodei@
+@cloudy sky@|@goibel@
+@clover@|@hirusta@
+@clown@|@pailaso@
+@clowns@|@pailasoak@
+@clumsy@|@moldakaitz, trakets, traketsa, zakar@
+@coal@|@ikatz@
+@coarse@|@zakar@
+@coat@|@abrigue@
+@cock@|@txorrota@
+@cockroach@|@labe-zomorro@
+@coconut@|@koko@
+@coelacanth@|@zelakanto@
+@coffee@|@kafe@
+@coffee substitute@|@kafeordeko@
+@coffee with milk@|@cafesne@
+@coin@|@txanpon@
+@colander@|@iragazki, xukadera@
+@cold@|@hotz, hotza@
+@cold period@|@hozte@
+@cold time@|@hozte@
+@collateral@|@paralelo@
+@colleague@|@kide@
+@colloquy@|@mintzaldi@
+@cologne@|@kolonia@
+@color change@|@kolore-aldaketa@
+@column@|@zutabe@
+@comb@|@orrazi@
+@combat@|@gudu@
+@Come!@|@Etorri!@
+@comedian@|@komiko@
+@comedy actor@|@komiko@
+@comfort@|@erosotasun, kontsolamendu, ongizate@
+@commander@|@komandante@
+@comment@|@azalpen, zeresan@
+@commentary@|@azalpen, iruzkin@
+@common bass@|@lupia@
+@common octopus@|@olagarro arrunt@
+@common remora@|@erromero txiki@
+@companion@|@kidego, lagun@
+@comparison@|@erkatze@
+@comparison (gram.)@|@konparizio@
+@compass@|@iparrorratz, konpas@
+@compass course@|@bide magnetiko@
+@competition@|@lehiaketa@
+@complain@|@kexa egin, kexatu@
+@complainer@|@murruzkari@
+@complaint@|@hil-eta@
+@complete@|@osatu@
+@complex (psy.)@|@konplexu@
+@compound fraction@|@zatiki bikoitz@
+@compound fracture@|@haustura anitza@
+@compound interest@|@interes konposatu@
+@compound sentence@|@perpaus elkartu@
+@compound substance@|@gai konposatu@
+@computer@|@ordenagailu@
+@computer programming@|@informatika programazio@
+@computer sceince@|@informatika@
+@conclusion@|@ondoren@
+@condition change@|@baldintz aldaketa@
+@cone@|@kono@
+@confirm@|@egiztatu, konfirmatu@
+@conflagration@|@suketa@
+@confuse@|@nahastu@
+@conglomerate@|@konglomeratu@
+@congress@|@kongresu@
+@conjunction@|@juntagailu@
+@conquest@|@konkista, konkistatze@
+@consequence@|@ondoren@
+@consequence; future@|@ondore@
+@consolation@|@kontsolamendu@
+@consomme@|@salda@
+@consonant@|@kontsonante@
+@constipation@|@idorreri@
+@constitution@|@egitura, eratze@
+@control@|@aginte@
+@control board@|@kontrol-batzorde@
+@conversation@|@solas@
+@convince@|@komentzitu, sinestarazi@
+@cook@|@egosi@
+@cooked@|@eginda@
+@cooker@|@su@
+@cookie@|@gaileta, galleta@
+@cooperate@|@lanean lagundu@
+@copper@|@kobre, kobrezko@
+@copper wire@|@kobrezko hari@
+@coral fish@|@koral-arrain@
+@corduroy@|@pana@
+@cork@|@kortxo@
+@cork tree@|@artelatz@
+@corkscrew@|@ginbalet, sakakortxo@
+@corn@|@arto, artoa@
+@corner@|@hegi, izkina, txoko, zoko@
+@coroner@|@heriotza-epaile@
+@corporal@|@kaporal, lehen kabu@
+@corporal punishment@|@gorputzeko zigor@
+@corpse@|@gorpu@
+@correct@|@zuzen@
+@correctly@|@zuzen, zuzenki@
+@correspond@|@baliokidea izan@
+@cosmos@|@kosmos, ortzune@
+@cost-of-living index@|@bizitzaren kostuaren indize@
+@cottage cheese@|@gaztanbera@
+@cotton@|@kotoi@
+@cough@|@eztul@
+@cough drop@|@eztulerako pilula@
+@cough forth@|@eztul egin@
+@cough mixture@|@eztulerako siropa@
+@cough syrup@|@eztulerako siropa@
+@cough up@|@eztulka bota@
+@coughing spell@|@eztulaldi@
+@council@|@kontseilu@
+@country@|@herri@
+@country house@|@baserri@
+@courage@|@ausardia@
+@court@|@auzitegi@
+@court (of palace)@|@jauregi@
+@court of justice@|@epaitegi@
+@cousin@|@lehengusu@
+@cover@|@azal, burusi, estalki, tapa@
+@cover (Mil.)@|@babesleku@
+@cover (shelter)@|@aterpe@
+@cover up@|@ongi bildu@
+@covers@|@ohazal@
+@cow@|@behi@
+@cowshark@|@garda@
+@crab@|@karramarro@
+@crack@|@karrask@
+@crawl@|@narras ibiltze@
+@crazy@|@ero@
+@cream@|@esnegain, gain@
+@cream (artificial)@|@krema@
+@cream cake@|@kremazko tarta@
+@cream cheese@|@gaztanbera goxo@
+@credit@|@kreditu@
+@creek@|@erreka@
+@creme de la creme@|@mamikoak@
+@crested lark@|@kutturlio arrunt@
+@cricket@|@txirrita@
+@criminal@|@gaizkile@
+@criminal code@|@kode penal@
+@criminal law@|@zuzenbide penal@
+@criminal lawyer@|@abokatu penal@
+@crocodile@|@kokodrilo@
+@crop@|@laborantza@
+@crop rotation@|@lurgintzen txandakatze@
+@cross@|@gurutze, guruzbidean, zeharkatu@
+@cross wind@|@haize gurutzatu@
+@crotch@|@txardango@
+@crow@|@bele@
+@crowd@|@jendeketa, jendetza@
+@cruel@|@anker, gogor@
+@cruel acts@|@ankerkeriak@
+@cry of fear@|@oihu@
+@cry of pain@|@oihu@
+@cry out for@|@oihuka eskatu@
+@crying@|@negarrez@
+@crystal ball@|@beirazko bola@
+@cucumber@|@luzoker, pepino@
+@culpability@|@hoben, oben@
+@cultivate@|@landu@
+@cultivated land@|@soro@
+@cup@|@kopa@
+@cupboard@|@armairu@
+@cure@|@sendagailu@
+@cure (course of medical treatment)@|@sendabide@
+@curly@|@kiskur@
+@current account@|@kontu korronte@
+@curtain@|@errezel, gortina@
+@custom@|@ohitura@
+@customer@|@bezero@
+@cut@|@xerra@
+@cut back@|@kimatu@
+@cut in@|@aurrean jarri@
+@cut to pieces@|@txikitu@
+@cut up@|@labanaz@
+@cutlassfish@|@sable arrain isatsgabe@
+@dagger@|@sastagai@
+@damp@|@hezetasun@
+@damselfish@|@kastainola@
+@dark@|@ilun, ubel@
+@darkness@|@ilun@
+@data on file@|@fitxatutako da-tuak@
+@daughter@|@alaba@
+@day@|@egun@
+@day after tomorrow@|@biharamun@
+@day before yesterday@|@herenegun@
+@dead@|@hil-dako@
+@dead centre@|@erdi-erdi@
+@dead leaves@|@ospel@
+@dead letter@|@bidali ezinezko eskutitz@
+@deadend street@|@kale itsu@
+@deaf@|@gor@
+@deal a blow@|@kolpatu@
+@death@|@herio@
+@death's head moth@|@sits pirata@
+@debit@|@zor@
+@debit amounts@|@kopuru zordunak@
+@debit balance@|@zordun saldo@
+@debt@|@zor@
+@deceased@|@hil-dako@
+@deciduous tree@|@zuhaitz hostoerorkor@
+@decisively@|@zirt-edo-zart@
+@deck pond@|@guardarrain@
+@decline@|@beheraldi, gainbehera@
+@deduction@|@kentze@
+@deduction (deducing)@|@ateratze, ondorioztatze@
+@deep@|@hondo, sakon@
+@deer@|@orein@
+@default@|@akats@
+@default directory@|@berezko direktorio@
+@defense@|@babeste, defendatze@
+@defense budget@|@defentsarako aurrenkontu@
+@delay@|@atzerapen@
+@delight@|@atsegin, gozo@
+@delivery@|@banatze, zabaltze@
+@delivery man@|@banatzaile@
+@delivery service@|@etxez etxe banatze zerbitzu, etxez exte banatze zerbitzu@
+@demand@|@eskatu@
+@demolish@|@lurreratu@
+@demon@|@deabru@
+@demonstrate@|@agertu@
+@demonstration@|@erakuste@
+@demonstration against@|@manifestazio kontra@
+@demonstration for@|@manifestazio alde@
+@dena@|@everything@
+@dentures@|@hortz atxikorrak@
+@deodorant@|@desodorante, usain-kentzaile@
+@department@|@sail, saila@
+@Department of Defence@|@Defentsa Sail@
+@depose@|@lekukotza egin@
+@depression@|@goibeladi@
+@derelict@|@abandonaturiko gauza@
+@descendant@|@geroko@
+@describe@|@deskribatu@
+@desert@|@basamortu, basmortu@
+@design@|@diseinu@
+@desire@|@gogo, gurari@
+@desk@|@idazmahai@
+@desk job@|@bulegoko lanpostu@
+@desperate@|@etsirik@
+@dessert@|@goxoki@
+@destiny@|@zori@
+@destroy@|@erraustu, suntsitu@
+@destruction@|@suntsitze, txikizio@
+@determination@|@asmo tinko, tinko@
+@develop@|@garatu@
+@devil fish@|@manta-arraia@
+@devilfish@|@manta-arraia@
+@dew@|@ihintz@
+@diacritical sign@|@zeinu diakritiko@
+@dialect@|@euskalki@
+@dialogs@|@elkarrizketak@
+@diamond@|@diamante@
+@diarrhea@|@kakeria@
+@dice@|@dadoak@
+@dictionary@|@hitzegia@
+@diet@|@dieta@
+@difficult@|@gogor, zail@
+@difficult to use@|@erabilgaitz@
+@dig@|@arroil@
+@dinner@|@afari@
+@dinnertime@|@afalordu@
+@dinosaur@|@dinosauru@
+@diploma@|@diploma@
+@direct light@|@argi jausle, zuzeneko argi@
+@direct lighting@|@argi jausle, zuzeneko argi@
+@direction@|@norabide@
+@director@|@zuzendari@
+@directory@|@direktorio@
+@dirt@|@zikin@
+@dirty@|@zikin@
+@disarray@|@zabar-keria@
+@discussible@|@solas-garri@
+@disgusting act@|@zikin-keria@
+@dish@|@plater@
+@dish out@|@eman@
+@disheveled@|@nahaste-borraste@
+@disk drive@|@disko-unitate@
+@disk drive (computer)@|@disko-untiatea@
+@disorder@|@nahaste-borraste@
+@distance@|@arte, distantzia@
+@distinction@|@bereizketa, bereizte, berezkuntza@
+@distribute@|@banatu@
+@distribution@|@banaketa, banatze@
+@dividend@|@dibidendu@
+@division sign@|@berdintasun-ikur, zatiketa-ikur@
+@divorce court@|@ezkontza-auzitegi@
+@do@|@egin@
+@do away with@|@hilketa@
+@Do you speak Euskera?@|@Euskeraz badakizu?@
+@doctor@|@sendagile@
+@dog@|@or, txakur, zakur@
+@dogfish@|@lixa, mielga@
+@dog-fish@|@mielga@
+@dolphin@|@izurde@
+@dolphin fish@|@lemorratz@
+@donkey@|@asto@
+@door@|@ate@
+@door bolt@|@morroilo@
+@door latch@|@kisketa@
+@double@|@bikoitz@
+@double chin@|@kokospe@
+@double threaded screw@|@hari biko torloju@
+@doubt@|@zalantza@
+@dove@|@urzo@
+@down@|@behera@
+@down river@|@ibaian behera@
+@download@|@kargatu@
+@downpour@|@zapar-rada@
+@downtown@|@erdira@
+@dragon@|@herensuge@
+@drama@|@antzerki, drama@
+@drawer@|@kajoi@
+@dream (n.)@|@amets@
+@dress@|@jantzi@
+@dress design@|@modako jantzigintza@
+@drifting snow@|@behe-bisuts@
+@drill@|@ariket, ariketa@
+@drink (n.)@|@edari@
+@drinking straw@|@tutu@
+@drip@|@jario@
+@drive@|@gidatu, irrika, kanpaina@
+@drive  (n.)@|@transmisio@
+@drive (n)@|@eragingailu@
+@drive (n.)@|@aginte@
+@drive (v.)@|@eragin (ad.)@
+@drive around@|@autoan ibili@
+@drive away@|@ohildu@
+@drive chain@|@transmisio-kate@
+@drive down@|@goian-behean aritu@
+@drive gear@|@pinoi eragile@
+@drive in@|@nekez-irakatsi@
+@drive off@|@uxatu@
+@drive ratio@|@transmisio-erlazio@
+@drive reduction@|@bulkaden erredukzio@
+@drive shaft@|@ardatz eragile@
+@drive wheel@|@gurpil eragile@
+@driver@|@gidari@
+@driver's license@|@gidatzeko baimen@
+@driving mechanism@|@eragingailu@
+@driving pinion@|@pinoi eragile@
+@driving wheel@|@gurpil eragile@
+@drizzle@|@zirimiri@
+@drop@|@jausi@
+@drought@|@agorra@
+@drug@|@sendagailu@
+@drum@|@bateri@
+@drunk@|@mozkor, mozkorti@
+@dry@|@agor, legortu@
+@dry (something) off@|@xukatu@
+@dubbed version@|@bertsio bikoiztu@
+@duct@|@tutu@
+@duel@|@duelu@
+@dusky sea perch@|@mero@
+@dusty@|@hautsez estalitako@
+@duty@|@betebehar@
+@dying of hunger@|@goseak hiltzen@
+@each@|@bakoitz@
+@each other (reciprocal pron.)@|@elkar@
+@eagerness@|@afan@
+@eagle@|@arrano@
+@ear@|@belarri@
+@earl@|@konde@
+@early@|@goiz@
+@earring@|@belarritako@
+@earth@|@lur@
+@earth tremor@|@lurrikara@
+@earthworm@|@zizare@
+@east@|@ekialde@
+@east wind@|@ekialdeko haize@
+@easterly wind@|@ekialdeko haize@
+@easy@|@errez@
+@ebony tree@|@ebano@
+@ecology@|@ekologia@
+@ecstasy@|@estasi@
+@edge@|@ertze, hegi, izkina@
+@edible@|@jateko@
+@edict@|@ediktu@
+@eel@|@aingira@
+@effect@|@ondorio@
+@egg@|@arraultz, arrautza@
+@eight@|@zortzi@
+@eighteen@|@hemezortzi@
+@eighth@|@zortzigarren@
+@eighty@|@laurogei@
+@elbow@|@ukondo@
+@election@|@hautatze, hauteskunde@
+@election campaign@|@hauteskunde-kanpaina@
+@election day@|@hauteskunde-egin@
+@election results@|@hauteskundeen emaitzak@
+@electric razor@|@bizar-makina@
+@electric wire@|@hari elektriko@
+@electrician@|@elektrikari@
+@electriciy@|@elektrizitate@
+@electron@|@elektroi@
+@electron microscope@|@mikroskopio elektroniko@
+@electronic mail@|@posta elektroniko@
+@elegance@|@dotoretasun, dotorezia@
+@elegant@|@dotore@
+@elephant@|@elefante@
+@eleven@|@hamaika@
+@elm@|@zumar@
+@eloquent@|@ederreko@
+@elsewhere@|@beste nonbait@
+@emanation@|@jario@
+@emancipate@|@burujabetu@
+@emancipation@|@burujabetze, libratze@
+@embargo@|@debeko@
+@embarrasing@|@gogaikarri@
+@emblem@|@ezaugarri@
+@embrace@|@besarkatu@
+@embroider@|@brodatu@
+@emerald@|@esmeralda@
+@empty@|@hustu, hutsik@
+@enamel@|@esmalte@
+@enchant@|@xarmatu@
+@enchanting@|@xarmatu@
+@encyclopedia@|@entziklopedia@
+@end@|@buka-era, buka-tu@
+@ending@|@buka-era@
+@endive@|@osterzuri@
+@endure@|@iraun@
+@enemy@|@etsai@
+@engine@|@motore@
+@enough@|@aski@
+@entire@|@gutzi@
+@entrance@|@sarrera@
+@envelope@|@gutunazal, sobre@
+@epoch@|@kira@
+@equal sign@|@berdintasun-ikur@
+@equation (Math.)@|@ekuazio@
+@equator@|@ekuatore@
+@equilateral triangle@|@triangelu aldekide@
+@equinox@|@ekinozio@
+@erretzeko paper@|@tabakoa biltzeko paper@
+@error@|@erru@
+@erudite@|@jakintsu@
+@European Parliament@|@Europako Parlamentua@
+@evening@|@arrats@
+@event@|@gertaera, gertakari, saio@
+@every@|@gutzi, guzti@
+@every day@|@egunero@
+@everything@|@dena, guzi@
+@eviction@|@botatze, kaleratze@
+@evident@|@argi-argi, nabari@
+@evil@|@gaitz@
+@exam@|@azterketa@
+@examining magistrate@|@instrukzioko epaile@
+@example@|@adibede, adibide, eredu, etsenplu@
+@excavation@|@arroil@
+@excellent@|@bikain@
+@exchange@|@truka, trukatu@
+@excuse@|@aitzakia@
+@excuse me...@|@barkatu...@
+@execution@|@burutze, exekuzio@
+@executive board@|@batzorde betearazle@
+@executive committee@|@batzorde betearazle@
+@exemption@|@salbueste@
+@exercise@|@ariketa@
+@exhaustion@|@neke@
+@exile@|@erbeste@
+@exit@|@irteera, irten@
+@expecting@|@igurika@
+@expensive@|@garesti@
+@experiment@|@esperimentu@
+@experimental@|@esperimental@
+@expert@|@jakitun@
+@explorer@|@esploratzaile@
+@explosion@|@eztanda, leherketa@
+@extreme danger@|@arriskurik handien@
+@extreme heat@|@sedulako bero@
+@extreme left@|@ezker-hegaleko@
+@extreme old age@|@goreneko zahartzaro@
+@eye@|@begi@
+@eye of a needle@|@orratz-zulo@
+@eyelash@|@betile@
+@eyelid@|@betazal@
+@facade@|@aurrealde, fatxada@
+@face@|@aurpegi@
+@factor@|@faktore@
+@factor (Math.)@|@biderkagai@
+@factory@|@ola@
+@fag@|@maritxu@
+@falcon@|@belatz, zapelatz@
+@fall@|@udazken, udazkena@
+@fall semester@|@udazkeneko@
+@fallacy@|@gezur, sofisma@
+@false idea@|@gezur@
+@false reasoning@|@sofisma@
+@falsehood; lie@|@gezur@
+@fame@|@ospe@
+@family@|@familia@
+@family name@|@deitura@
+@famine@|@gosete@
+@famous@|@famatu@
+@fan@|@abaniko, haizemaile@
+@fan belt@|@haizagailuaren uhala@
+@far@|@urrun, urruti@
+@far away@|@urruti@
+@farm@|@baserri@
+@farmer@|@baserritar@
+@farmhouse@|@baserri@
+@farther@|@haratago, urrutiago@
+@fast@|@azkar@
+@fat@|@gantz, gizen, lodi, urin, ziho@
+@fatal@|@hilgarri@
+@fatal illness@|@hil beharreko eritasuna@
+@fate@|@zori@
+@father@|@aita@
+@fatherland@|@aberri@
+@fatigue@|@neke@
+@faucet@|@txorrota, txorrota@
+@fault@|@akats, erru, erru, hoben, kulpa, oben@
+@fault-line (Geol.)@|@faila-lerro@
+@fax@|@fax@
+@fax machine@|@fax@
+@fear@|@beldur@
+@feed@|@jaten eman@
+@fellow@|@kide, lagun@
+@fellow countryman@|@aberkide@
+@fellow traveller@|@bidaide@
+@feminine@|@emetasun@
+@fern@|@garo, ira@
+@ferry@|@ferry@
+@ferry across@|@ferryz eraman@
+@ferry over@|@ferryz eraman@
+@ferry service@|@ferry-zerbitzu@
+@fever@|@sukar@
+@feverish@|@sukar-dun@
+@few@|@gutxi@
+@fictitious@|@balizko@
+@field@|@soro, zelai@
+@fiesta@|@festa@
+@fifteen@|@hamabost@
+@fifth@|@bosgarren@
+@fifth column@|@bostgarren kolumna@
+@fifty@|@berrogeitahamar@
+@fig@|@piku@
+@fig tree@|@pikondo@
+@fight@|@borroka, borrokatu, liskar@
+@file@|@fitxategi, karraskailu@
+@file (folder)@|@karpeta@
+@file cabinet@|@fitxategi@
+@file in@|@lerroan sartu@
+@file out@|@lerrotik irten@
+@file transfer@|@fitxategi-transferentzia@
+@filth@|@zikin@
+@filthy@|@zikin@
+@finance@|@Finant@
+@find himself in difficulty@|@estu aurkitu@
+@find oneself@|@aurkitu@
+@fine@|@ederki@
+@Fine (I have to say fine)@|@Ondo esan beharko@
+@finger@|@eri, hatz, hatzamar@
+@fingernail@|@azkazal@
+@fire@|@su, suketa@
+@firecracker@|@petardo@
+@fireplace@|@supazter, sutegi, sutondo, tximeneta@
+@firewood@|@egur@
+@fireworks@|@ixtaferuak@
+@fireworks display@|@itxaferuen erakustaldi@
+@firmament@|@ortzi@
+@firmness@|@tinko@
+@first@|@lehen@
+@first and foremost@|@oroz lehen@
+@fish@|@arrain, arrantzuan ari@
+@fish hook@|@amu@
+@fish oil@|@arrain-olio@
+@fish pond@|@guardarrain@
+@fish school@|@arrain-sarda@
+@fish spear@|@hiruhortz@
+@fish stock@|@arrain-stock@
+@fish trap@|@tranpa-sare@
+@fish-bone@|@arrain-hezur@
+@fisherman@|@arrantzale@
+@fishhook@|@amu@
+@fishing@|@arrantza, arrantzu@
+@fist@|@ukabil@
+@five@|@bortz@
+@flame@|@gar@
+@flat@|@pisu@
+@flea@|@arkakuso@
+@fleet@|@flota@
+@flesh@|@haragi@
+@flesh color@|@haragi-kolore@
+@flesh wound@|@azaleko zauri@
+@flew@|@erabili@
+@flint@|@sukarri@
+@flock@|@artalde@
+@flood@|@uholde@
+@floor@|@lur@
+@floor tile@|@baldosa (Heg.)@
+@flounder@|@arraina, xabalo@
+@flour@|@irin@
+@flower@|@lore@
+@flowing@|@isuri@
+@flown@|@erabili@
+@fly@|@erabili, euli@
+@foam@|@apar, bitxa@
+@fog@|@laino, lanbro@
+@folding foot rule@|@metro tolesgarri@
+@following wind@|@bizkar-haize@
+@food@|@janari@
+@food products@|@elikagaiak@
+@food supply@|@ano@
+@fool@|@engainatu, ergel@
+@foot@|@hanka, oin@
+@for@|@-entzat, -gatik, bai-@
+@for crying out loud!@|@mila arraio!@
+@for days@|@egunerako@
+@for flight@|@hegalaldirako@
+@for further information@|@argibide gehiago eskuratzeko@
+@for good@|@betirako@
+@for help@|@laguntzagatik@
+@for instance@|@esaterako@
+@for long periods of time@|@luzaroan@
+@for me@|@niretzat@
+@for one@|@batentzako@
+@for rent@|@alokatzen da@
+@for tomorrow@|@biharko@
+@for your good@|@zure onerako@
+@force@|@kemen@
+@forearm@|@uko@
+@forecast@|@iragarpen@
+@foreign countries@|@atzerri@
+@foremost@|@nagusi@
+@forensic medicine@|@auzitegi-medikuntza@
+@forest@|@baso@
+@forever@|@betiko(z)@
+@forge@|@sutegi@
+@Forget it!@|@Ezta pentsatu ere!@
+@fork@|@sardeska@
+@formal change@|@formazko-aldaketa@
+@formula@|@formula@
+@forth@|@laugarren@
+@forthright@|@xalo@
+@fortification@|@gotorleku@
+@fortitude@|@azkartasun@
+@forty@|@berrogei@
+@forum@|@foru@
+@forward@|@aurreko, aurreneko@
+@forward planning@|@gerorako plangintza@
+@fossil@|@fosil@
+@fought@|@borrokatu@
+@found@|@fundatu, sortu@
+@foundry; cabin@|@ola@
+@fountain@|@ituri, iturri@
+@four@|@lau, laur@
+@fourteen@|@hamalau@
+@fourth@|@laurden@
+@four-wheel drive@|@lau gurpileko trakzio@
+@fox@|@azeri@
+@fraction@|@frakzio@
+@fragrance@|@lurrin@
+@fragrant@|@lurrintsu@
+@franchise@|@frankizia@
+@freckle@|@orezta@
+@free the prisoners!@|@presoak kalera!@
+@freed@|@askatuta@
+@freedom@|@askatasun@
+@freedom of expression@|@adierazpen-askatasun@
+@freedom of speech@|@adierazteko astatsuna@
+@French Revolution@|@Frantziako Iraultza@
+@frequency@|@maiztasun, sarritasun@
+@frequently@|@sarri@
+@fresh@|@fresko@
+@fresh fish@|@arrain fresko@
+@fresh water@|@ur geza@
+@Friday@|@Ostiral@
+@fridge@|@hozkailu@
+@fried@|@frijituta, prijitu@
+@friend@|@lagun, lagun, laguna@
+@fright@|@susto@
+@frighten@|@beldurtu@
+@frog@|@i(n)gel, igel@
+@frolic@|@saltokatu@
+@from@|@gandik@
+@from (with animates)@|@-gandik@
+@from above@|@gainetik@
+@from cover to cover@|@burutik burura@
+@from hand to hand@|@eskuz esku@
+@from here@|@hemengo@
+@from infancy@|@haurdanik@
+@from that day forward@|@egun hartatik aurrera@
+@from the (a) distance@|@urrundik@
+@front@|@aurre@
+@frozen fish@|@arrain izoztu@
+@fruit@|@fruitu@
+@fruit (of harvest)@|@zitu@
+@fruit juice@|@fruitu-zumo@
+@fruit tree@|@fruta-arbola@
+@fry@|@frijitu, prejitu@
+@fudge@|@txokolatezko gozoki@
+@full@|@bete, beteta@
+@full month@|@hilabete@
+@full moon@|@ilargi betea@
+@fuller's earth@|@klera@
+@fully@|@bete-betean, osoki@
+@fumes@|@gasak@
+@function@|@betebehar, ospakizun, zeregin@
+@function (Math.)@|@funtzio@
+@fund@|@fondo@
+@fundamental@|@funts, oinarri@
+@fundamentally@|@funtsean@
+@funds@|@fondoak@
+@funeral@|@hil-eta, hileta@
+@funeral parlor@|@ehorztetxe@
+@funeral service@|@hildakoen aldeko meza@
+@fungus@|@onddo@
+@funnel@|@inbutu, onil@
+@funny@|@barregarri, barregarri(a)@
+@furnace@|@labe@
+@furniture@|@altzariak, haltzari@
+@further@|@areago, beste nonbait, gainerako, harantzago, haratago, urrutiago@
+@further back@|@atzerago@
+@further off@|@urrutiago@
+@further on@|@aurrerago@
+@fussy@|@mizkin@
+@gadget@|@aparatu@
+@gain@|@lortu@
+@gamble@|@jokaldi@
+@gamble away@|@jokoan galdu@
+@game@|@joko, jolas, partidu@
+@game fish@|@kirol-arrain@
+@game of chance@|@zorizko joko@
+@gap@|@arte@
+@garbage@|@zabor@
+@garbage can@|@zabarrontzi@
+@garbage man@|@zabor-biltzaile@
+@garden@|@ortu@
+@garlic@|@baratzuri@
+@garment@|@janzki@
+@gas@|@gas@
+@gas chamber@|@gas-ganbara@
+@gas leak@|@gas-jario@
+@gas mask@|@gas-maskara, gasaren kontrako maskara@
+@gasoline@|@gasolina@
+@gasoline station@|@gasolindegi@
+@gass-attack@|@gas-eraso@
+@gate@|@ate, atea@
+@gather@|@bildu@
+@gauge@|@neurri@
+@gay@|@maritxu@
+@gear@|@aparatu, mekanismo@
+@gear (aut.)@|@martxa@
+@gear drive@|@engranajezko eragintza@
+@gear lever@|@martxa aldatzeko palanka@
+@gear ratio@|@transmisio-erlazio@
+@gearing@|@transmisio@
+@geese@|@antzara-okela@
+@gem@|@harribitxi@
+@general elections@|@hauteskunde orokorrak@
+@generator@|@sortzaile@
+@genitive@|@genitibo@
+@gentle@|@xamurra@
+@gentleman's agreement@|@hitzezko akordio@
+@geology@|@geologia@
+@germ@|@germen@
+@German measles@|@errubeola, mingorri@
+@gerund@|@gerundio@
+@gesture@|@keinatze@
+@ghost@|@iratxo, mamu@
+@giant squid@|@txibia erraldoi@
+@gift@|@opari@
+@gigantic@|@erraldoi@
+@gimmick@|@trikimailu@
+@ginger@|@jengibre@
+@ginseng@|@ginseng@
+@giraffe@|@jirafa@
+@girdle@|@faxa@
+@girl@|@neska@
+@girlfriend@|@andregaia@
+@give@|@eszenaratu@
+@give a play@|@eszenaratu@
+@give me@|@emadazu@
+@give testimony@|@lekukotza egin@
+@given@|@emanda@
+@glance@|@begiratu@
+@gland@|@guruin@
+@glass@|@edalontzi, kopa@
+@glasses@|@betaurreko@
+@glatiator@|@gladiadore@
+@glazed tile@|@azulejo (Heg.)@
+@glee@|@bozkario, poz handi@
+@glee club@|@abestalde@
+@globe@|@globo, puxika@
+@gloom@|@goibeltasun@
+@glossary@|@glosario@
+@glossy@|@distiratsu@
+@glossy (paper)@|@satinatu@
+@glove@|@eskularru@
+@glow worm@|@ipurtargi@
+@glucose@|@glukosa@
+@glutton@|@jatun@
+@gnat@|@eltxo@
+@gnawer@|@karraskari@
+@gnawing@|@karraskari@
+@go away@|@aldegin@
+@go down@|@jaitsi, jeitsi@
+@goat@|@ahuntz@
+@goat cheese@|@ahuntz-gazta@
+@goat's milk@|@ahuntz-esne@
+@goblet@|@kopa@
+@God@|@Jainko@
+@goddess@|@jainkosa@
+@gold@|@urre@
+@gold fever@|@urre zalekeria@
+@gold plate@|@urrezko geruza mehe@
+@golden@|@urrezko@
+@golden yellow (color)@|@urre kolore@
+@goldfish@|@urre-arrain@
+@gold-fish@|@urre-arrain@
+@good@|@on, ona@
+@good and bad@|@on-gaitzak@
+@good and evil@|@on-gaitzak@
+@good evening@|@Gabon@
+@Good evening@|@Gau on@
+@good fortune@|@zorion@
+@good morning@|@egunon@
+@Good morning@|@egun on@
+@good night@|@Gabon@
+@good-bye@|@agur@
+@good-looking@|@polit@
+@goose@|@antzara@
+@gorge@|@arrue@
+@gossip@|@hitzontzi@
+@gourd@|@kalabaza@
+@government@|@gobernu, jaularitza, jaurlaritza@
+@grain@|@ale, bihi@
+@grammar@|@gramatika@
+@grammatical rule@|@gramatika-erregela@
+@Grand Canyon@|@Arroil Handia@
+@grandfather@|@aitona, aitxitxa@
+@grandma@|@amama@
+@grandmother@|@amona, amuma@
+@granite@|@granito@
+@grapes@|@mahats@
+@grass@|@belar, zelai@
+@grass hut@|@lastozko etxola@
+@grasshopper@|@matxin-salto, matxinsalto, oti, saltamatxino@
+@grater@|@karraskailu@
+@gravity@|@grabitate@
+@gravy@|@saltsa@
+@grease@|@koipe@
+@greasy@|@koipeztatu@
+@great white shark@|@marrazo zuri@
+@greedy@|@gutiziatsu, zikoitz@
+@green@|@berde@
+@grey@|@grisa@
+@grey triggerfish@|@baleztarrain@
+@greyhound@|@erbi-txakur@
+@grimace@|@keinuketa@
+@gross domestic product@|@barne-produktu gordin@
+@gross national product@|@nazio-produktu gordin@
+@groundwork@|@hasi-masiak@
+@group@|@talde@
+@group leader@|@taldeburu@
+@groups@|@taldeka@
+@grouse@|@basoilar@
+@grove@|@zuhaizti@
+@grove of poplars@|@lertxundi@
+@gruesome@|@beldurgarri@
+@grumbler@|@murruzkari@
+@guarantee@|@bermatu, berme@
+@guard@|@goardia, gorde, zaintzaile@
+@guardian@|@zaindari@
+@guardian angel@|@aingeru zaindari@
+@guava tree@|@guaiabondo@
+@guilt@|@kulpa@
+@Guipuzcoa@|@Guipuzkoa@
+@Guipuzcoan (dialect)@|@Gipuzkera@
+@guitar fish@|@gitarrarrain@
+@guitarfish@|@gitarrarrain@
+@gulper shark@|@piku pikortsu@
+@gum@|@erretxina@
+@gum (anat.)@|@oi@
+@gun@|@arma@
+@gush@|@borborkatu@
+@gusty wind@|@haize parrastatsu@
+@gut@|@heste@
+@gym@|@kiroltegi@
+@gypsy@|@buhame, ijito@
+@habit@|@ohitura@
+@habit (religious)@|@abbitu@
+@hag fish@|@mixina@
+@hail@|@kazkabar@
+@hair@|@ile@
+@hake@|@lebatza@
+@half@|@erdi@
+@half asleep@|@erdi lo@
+@half beast@|@erdi gizona-erdi piztia@
+@half dead@|@erdi hil@
+@half done@|@erdi egosi@
+@half man@|@erdi gizona-erdi piztia@
+@half-assed@|@erdipurdiko@
+@half-assedly@|@erdipurdi@
+@half-cooked@|@erdi egosi@
+@hallucination@|@haluzinazio@
+@hallway@|@atondo@
+@ham@|@urdaiazpiko@
+@hammer@|@mailu@
+@hammer head@|@mailu-buru@
+@hammerhead shark@|@mailu-arrain, mailu-arrain hirungingil@
+@hand@|@esku@
+@hand drive@|@eskuzko eragintza@
+@hand tap@|@eskuz hariztatzeko ardatz@
+@hand to hand@|@aurrez aurre@
+@handicap@|@atzerabide, eragozpen@
+@handle@|@kirten@
+@hang by a thread@|@hari batetik@
+@hangingly@|@zintzilik@
+@happen@|@gertatu@
+@happening@|@gertaera@
+@happily@|@pozik, zorionez@
+@happy@|@pozik, zoriontsu@
+@harbor@|@portu@
+@hard@|@gogor, gogorra@
+@hard copy@|@imprimatutako kopia@
+@hard disk@|@disko gogor@
+@hard drink@|@edari garratz@
+@hard labor@|@lan behartua@
+@hard luck@|@zorigaitz@
+@hard sell@|@erosi-beharreko salmenta@
+@hardly@|@ia ez@
+@hardly anyone@|@ia inor ez@
+@hardly ever@|@ia inoiz ez@
+@hare@|@erbi@
+@harmony@|@harmonia@
+@harness@|@zaldi-uhalak@
+@harp@|@harpa@
+@harpoon@|@arpoi@
+@harvest@|@segatu, uzta@
+@hat@|@txapel@
+@hatred@|@gorroto, gorroto@
+@have@|@edun, ukan@
+@he@|@hon@
+@he goat@|@aker@
+@he has it@|@du@
+@he knows the rope@|@badaki nondik norakoa@
+@he means business!@|@serio ari da!@
+@head@|@buru@
+@head of cabbage@|@azaburu@
+@head wind@|@aurpegiko haize, aurre-haize@
+@headache@|@buruko min@
+@heal@|@sendo@
+@health@|@osasun@
+@health care@|@anbulategi@
+@health food@|@jaki natural@
+@Health Service@|@Osasun Saila@
+@healthy@|@osasuntsu@
+@hear@|@aditu@
+@heart@|@bihotz@
+@heart-attack@|@bihotzeko@
+@heather@|@ibar@
+@heating@|@kalefazio@
+@heaven@|@donoki, zeru@
+@heavens@|@ortzi@
+@heavy@|@astun@
+@heavy industry@|@industria astun@
+@helicopter@|@helikoptero@
+@hello@|@kaixo@
+@hello (universal salutation)@|@agur@
+@helmet@|@buruko, kasko@
+@help@|@udaletxea@
+@hemp@|@kalamu@
+@hen@|@oilo@
+@her (reflexive)@|@bere@
+@her/himself (anaph. pron.)@|@bere burua@
+@herald@|@albistari, aldarrikari@
+@herald (hist.)@|@heraldo@
+@herb@|@belar@
+@here@|@hemen, tori@
+@here (I am)@|@hementxe@
+@hermit@|@ermitau@
+@herring@|@sardinzar@
+@he's a tough customer@|@tipo gogorra da@
+@he's up to no good@|@azpijokoan dabil@
+@hexagonal screw head@|@torloju-buru hexagonal@
+@Hey! I say!@|@Aizu!@
+@Hi!@|@Epa!@
+@hiccough@|@zotin@
+@hiccup@|@zotin@
+@High Mass@|@Meza Nagusi@
+@high place@|@goi@
+@highway@|@errepide, karretera@
+@hill@|@mendi@
+@hillside@|@adalpa@
+@hilly@|@menditsu@
+@hinge@|@banda@
+@his@|@bere@
+@historian@|@historigile@
+@hit@|@jo@
+@hither@|@hona@
+@hither and thither@|@hara-hona@
+@hitting@|@kolpeka@
+@hobby@|@hobby@
+@hog@|@urde@
+@hole@|@zulo@
+@holiday@|@opar, oporraldi@
+@holiday pay@|@oporreko ordain@
+@holiday resort@|@oporleku@
+@holiday season@|@jaialdi@
+@hollow@|@arroil@
+@holly@|@gorosti@
+@Holy Ghost@|@Izpiritu Santu@
+@homestead@|@baserri@
+@homicide@|@gizahilketa@
+@homosexual@|@homosexual@
+@honey@|@ezti@
+@honeycomb@|@aberaska@
+@hook@|@amu, gako, gakoz lotu, kizki@
+@hope@|@esperantza, esperanza, itxaron, itxaropen@
+@horizon@|@zerumuga@
+@horn@|@adar, tutu@
+@horned@|@adardun@
+@horoscope@|@horoskopo@
+@horse@|@zaldi@
+@horse mackerel@|@txitxarro@
+@horse soldier@|@zaldizko soldadu@
+@hospital@|@ospital, ospitale@
+@hostage@|@bahitu@
+@hostel@|@ostatu@
+@hot@|@bero, beroa, sukar-dun@
+@hotel@|@ostatu@
+@hotel industry@|@ostalaritza@
+@hour@|@ordu@
+@house@|@etxe@
+@housewife@|@etxeko-andre, etxekoandre@
+@hovel@|@txabola@
+@how@|@nola@
+@How are you doing?@|@Zer moduz?@
+@how many@|@zenbat@
+@how much@|@zenbat@
+@How old are you?@|@Zenbat urte dituzu?@
+@how terrible!@|@hau izugarria!@
+@hug@|@besarkada@
+@human@|@giza@
+@humble@|@isil@
+@humid@|@heze, hezea@
+@humility@|@apaltasun, umiltasun@
+@hundred@|@ehun@
+@hundredth@|@ehungarren@
+@hungrily@|@gose@
+@hungry@|@gose@
+@hunt@|@ehiza@
+@hunting@|@ehizatu@
+@hunting crop@|@zaldi-zigor@
+@hurricane@|@hurakan@
+@hurry@|@presa@
+@husband@|@senar@
+@husk@|@azal, koskol@
+@hut@|@etxola, ola, txabola@
+@hypothesis@|@hipotesi@
+@hypothetical@|@hipotetiko@
+@I@|@ni@
+@I am@|@(ni) naiz, nago, naiz@
+@I am going@|@noa@
+@I am hot@|@Bero naiz.@
+@I am married@|@ezkonduta nago@
+@I am to him@|@natzaio@
+@I am to them@|@natzaie@
+@I don't give a damn!@|@Niri bost axola!@
+@I know@|@dakit@
+@I live alone@|@Bakarrik bizi naiz@
+@I suspected as much@|@halaxe uste nuen@
+@I thank you@|@eskertzen dizut@
+@icicle@|@izotz-burduntzi@
+@ideal@|@eredu@
+@ideological change@|@ideologia-aldaketa@
+@ideology@|@ideologia@
+@idiot@|@ergel@
+@idle@|@nagi@
+@if required@|@beharrezkoa izan baledi@
+@ignorant@|@ezjakin, ikasgabe@
+@ill fortune@|@zoritxar@
+@illiterate@|@analfabeto@
+@illuminate@|@argittu@
+@imagination@|@imajinatze, irudimen@
+@imminent@|@berehalako, hurbil@
+@impact screwdriver@|@kolpekako bihurkin@
+@imperial@|@enperadorearen, inperial@
+@import@|@inportatu, inportazio@
+@import duty@|@inportatzeko zerga@
+@important@|@garrantzitsu@
+@imported goods@|@inportaturiko salgaiak@
+@imported products@|@inportaturiko salgaiak@
+@impose@|@i-i ezarri@
+@impose (up)on@|@neurriz kanpo baliatu@
+@improvement@|@hobekuntza, hobetze@
+@impulse@|@abidxada@
+@impulsion@|@irrika@
+@in@|@-gan@
+@in a@|@batean@
+@in a class apart@|@paregabe@
+@in a sauce@|@saltsan@
+@in a split second@|@jesus amen batean@
+@in cash@|@ezkudirutan@
+@in conjunction with someone@|@i-kin batera@
+@in exile@|@atzerrian@
+@in front (of)@|@aurrean@
+@in gear@|@martxan@
+@in hand@|@esku artean, eskuan@
+@in hard cash@|@eskudirutan@
+@in himself@|@bere baitan@
+@in how much@|@zenbatean@
+@in legitimate self-defense@|@bidezko defentsan@
+@in many instances@|@kasu askotan@
+@in mint condition@|@akatsik gabe@
+@in one@|@batean@
+@in one group@|@elkarekin@
+@in plenty@|@ugari@
+@in political circles@|@politika munduan@
+@in poor health@|@ahul@
+@in protest@|@protestatzearren@
+@in search of@|@bila@
+@in single file@|@banan-banan@
+@in such manner@|@olan@
+@in that instance@|@kasu horretan@
+@in the area@|@ingurru hartan@
+@in the bar@|@tavernan@
+@in the dead of winter@|@negu gorrian@
+@in the distance@|@urrunean@
+@in the family circle@|@senideen artean@
+@in the first instance@|@lehendabizikoz@
+@in the flesh@|@pertsonalki@
+@in the long term@|@luzaroan@
+@in the old times@|@aintzinean@
+@in the shade@|@itzalpean@
+@in the short term@|@epe laburrean@
+@in the store@|@dendan@
+@in the week@|@astean@
+@in this@|@honetan@
+@in this particular case@|@kasu honetan@
+@in this way@|@olantxe@
+@in turmoil@|@asaldaturik@
+@in turns@|@txandaka@
+@in way@|@moduz@
+@in what?@|@zertan?@
+@incense@|@intsentsu@
+@incense burner@|@intsentsu-ontzi@
+@incest@|@intzestu@
+@incident@|@gertaera, gertakari@
+@included@|@sartuta@
+@incomprehensible@|@ulertezin(a)@
+@incurable@|@sendaezina izan@
+@index@|@aurkibide, indize@
+@index card@|@fitxa@
+@indict@|@salatu@
+@indictment of someone for something@|@i-i e-gatik egindako salaketa@
+@indigenous@|@jatorrizko@
+@indistinct@|@nahasi@
+@industrious@|@langile@
+@industry@|@industria@
+@infancy@|@haurtzaro@
+@inflate@|@puztu@
+@inflation@|@inflazio@
+@influenza@|@gripe@
+@inform@|@jakinarazi@
+@information@|@argibideak@
+@inhabitant@|@biztanle@
+@inhabited place@|@herri@
+@inheritance@|@seniparte@
+@injury@|@kalte@
+@ink@|@tinta@
+@ink blot@|@tinta-orban@
+@inner ear@|@barneko belarri@
+@insect@|@intsektu@
+@insect bite@|@hozka@
+@insect repellent@|@insektuak uxatzeko@
+@insignificant@|@kaskar@
+@instance@|@kasu@
+@institution@|@erakunde@
+@insurance@|@aseguru@
+@insurance agent@|@aseguru-agente@
+@intelligent@|@adimentsu(a)@
+@intention@|@asmo@
+@interest@|@interesatu@
+@interesting@|@interesgarri@
+@intermission@|@arte@
+@international@|@nazioarteko@
+@interpretatio@|@argitze@
+@interpretation@|@interpretatze@
+@interrogate@|@(r)i galdekatu@
+@interrogation@|@galdekatze, galdeketa@
+@interval@|@arte@
+@intestinal worm@|@heste-zizare txiki@
+@intestine@|@hertze, heste@
+@invention@|@asmakuntza, asmatze@
+@iodine@|@iodo@
+@ire@|@gorroto@
+@iris@|@begi-nini@
+@iris (bot.)@|@ostargi-belar@
+@iron@|@burdina, lisa, plantxatu@
+@Iron Age@|@Burdin Aroa@
+@ironic@|@burdinazko@
+@ironical@|@burdinazko@
+@ironing board@|@lisatzeko mahaia@
+@ironing table@|@lisatzeko mahaia@
+@irony@|@ironia@
+@is@|@da@
+@is coming@|@dator@
+@island@|@uharte@
+@it (non-absolutive stem)@|@hon@
+@it is fundamentally correct@|@funtsean zuzena da@
+@it is your turn@|@zure txanda da@
+@item@|@ale@
+@It's a pity!@|@Pena!@
+@It's damn good!@|@Oso ona duk!@
+@it's machine made@|@makinaz egindakoa da@
+@it's none of your business@|@ez dizu axola!@
+@it's not worth the risk@|@ez du arriskatzea merezi@
+@it's your fault@|@erruduna zara@
+@jacket@|@abrigue@
+@jackfish@|@jaka arrain@
+@jam in@|@sartu@
+@January@|@Urtarrila@
+@jaw@|@matraila@
+@jeans@|@bakero@
+@jelly@|@jelatina@
+@jersey@|@jertse@
+@jewel@|@harribitxi@
+@jog@|@(r)i bultza egin@
+@jog along@|@aurrera egin@
+@join in!@|@denok batera!@
+@joke@|@txantxa, txiste@
+@jolly@|@alai@
+@Joshua tree@|@Josueren juka@
+@journalist@|@kazetari@
+@journey@|@bidai, bidaia@
+@Judas tree@|@Judasen arbola@
+@judge@|@epaile, magistratu@
+@judgement@|@ebazpen@
+@jujube tree@|@jujubondo@
+@jumble@|@nahas-mahas@
+@jumble up@|@nahasi@
+@jumping@|@saltoka@
+@June@|@Ekaina@
+@jungle@|@oihan@
+@jurisprudence@|@jurisprudentzia@
+@jury@|@epaimahaikoak@
+@just a second@|@egon pixka batean!@
+@just so@|@olantxe@
+@justice@|@justizia@
+@Justice of the Peace@|@Bake-Epaile@
+@kangaroo@|@kanguru@
+@keen@|@zuhur@
+@keepsake@|@oroigarri@
+@keg@|@upel@
+@kettle@|@lapiko@
+@key@|@giltza@
+@key in@|@teklatu@
+@keyboard@|@teklatu@
+@keys of the kingdom@|@erreinuaren giltza@
+@kid@|@haur@
+@kidnap@|@bahitu@
+@kidney@|@giltzurrun@
+@kidney bean@|@babarrun gorri@
+@kidney-shaped@|@giltzurrun-formako@
+@kill@|@hilketa@
+@killer@|@hiltzaile@
+@kilograme@|@kilo@
+@kiss@|@apa, musu@
+@kitchen@|@sukalde@
+@kitchen sink@|@harraska@
+@knave@|@zital@
+@knee@|@belaun@
+@knife@|@ganibet, labana@
+@knit@|@puntu(a) egin, puntua(a) egin@
+@know@|@ezagutzen@
+@know the ropes@|@badaki nondik norakoa@
+@knuckle@|@esku-koskor@
+@label@|@etiketa, label@
+@laboratory@|@laborategi@
+@Labourd@|@Lapurdi@
+@Labourdin@|@Lapurdiera@
+@lace@|@farfail@
+@lace up@|@lotu@
+@lack@|@-kabe@
+@lack of (suffix)@|@-gabe@
+@ladder@|@esku-eskailera, zurubi (I)@
+@ladle@|@burruntzali@
+@lady@|@andere@
+@lake@|@laku@
+@lake dwellers@|@lakuko biztanleak@
+@lamb@|@arkume, bildots@
+@lament for the dead@|@hil-eta@
+@lamp@|@lanpara@
+@lampshade@|@argi-pantaila@
+@lance@|@lantza@
+@land@|@lur@
+@landlord@|@jabe, jabe@
+@landscape@|@paisaia@
+@lane@|@bide@
+@language@|@hizkuntza@
+@language change@|@hizkuntz aldaketa@
+@large intestine@|@heste lodi@
+@large spotted dog-fish@|@momar@
+@large-mouth bass@|@perka amerikar@
+@large-scaled scorpionfish@|@krabarroka gorri@
+@lark@|@hegatxabal, kutturlio, txoriandre@
+@larva@|@larba@
+@larynx@|@laringe@
+@laser@|@laser@
+@laser gun@|@laser-pistola@
+@laser printer@|@laser inprimagailu@
+@last@|@azken@
+@last night@|@bart@
+@last year@|@iaz@
+@lastly@|@azkenik@
+@late@|@berandu@
+@later@|@gero@
+@Later!@|@Gero ante!@
+@lateral@|@aldeko@
+@laugh@|@par@
+@lawyer@|@abogau@
+@lazy@|@alfer, nagi@
+@lead@|@berun@
+@lead (Metal)@|@berunezko@
+@leaded (to have lead in)@|@berundun@
+@leaf@|@hosto, orri, osto@
+@league@|@liga@
+@lean part of meat@|@giharre@
+@lease@|@akura, alokairu@
+@leave@|@aldegin@
+@leek@|@porru@
+@left@|@ezker@
+@leg@|@hank, hanka@
+@legal@|@legezko@
+@legal advice@|@zuzenbide-aholkularitza@
+@legal aid@|@ofizioko defentsa@
+@legal expenses@|@abokatuaren ordainsariak@
+@legal organization@|@legezko erakunda@
+@legal profession@|@aboka-tutza@
+@legion@|@talde@
+@legitimate@|@zilegizko@
+@lemon@|@limoi@
+@lemon shark@|@limoi-marrazo@
+@lemon tree@|@limoiondo@
+@lens@|@lente@
+@lentil@|@dilista@
+@lessen@|@bigundu@
+@lesson@|@eskarmentu@
+@lethal@|@hiltzeko@
+@lethal weapon@|@hiltzeko@
+@let's get down to business!@|@goazen harira!@
+@letter@|@eskutitz, gutun@
+@letter of credit@|@kreditu-letra@
+@lettuce@|@letxua@
+@level (flat place)@|@lautada@
+@level of production@|@ekoizpen-maila@
+@lexicon@|@lexikoi@
+@liar@|@gezurti@
+@libel@|@gezur-beltz@
+@liberation@|@burujabetze, libratze@
+@liberty@|@libertate@
+@library@|@liburutegi, liburutegia@
+@license@|@baimen@
+@license plate@|@matrikula@
+@licentiousness@|@galdukeria, zikin-keria@
+@licorice@|@erregaliz, makilgoxo@
+@lid@|@tapa@
+@lie down@|@etzan@
+@lieutenant@|@lotinant, teniente@
+@light@|@argi@
+@light boat@|@itsasargi-ontzi@
+@light exposure@|@argi-inpresio@
+@light industry@|@industria arin@
+@light ship@|@ontzi huts@
+@light up@|@argittu@
+@light vessel@|@itsasargi-ontzi@
+@lightning@|@tximist@
+@lightship@|@itsasargi-ontzi@
+@like@|@bezala, olan@
+@like so@|@olan@
+@like this@|@honelako, olan@
+@likelihood@|@litekeen@
+@likewise@|@berdin@
+@lilac@|@lila@
+@limb@|@adar@
+@lime@|@limondo@
+@lime tree@|@limondo@
+@limestone@|@karaitz@
+@linden@|@ezku@
+@linen@|@arropa zuri, hari@
+@linguistic change@|@hizkuntz aldaketa@
+@lion@|@lehoi@
+@lip@|@ezpain@
+@liquid@|@likido@
+@liquor@|@likore@
+@list@|@zerrenda@
+@little@|@guti@
+@little by little@|@pixkanaka@
+@little finger@|@hatz ttiki@
+@little squid@|@txibia txiki@
+@little tune@|@soinutxo@
+@little; defective@|@urri@
+@live@|@bizi izan, bizi(izan)@
+@liver@|@gibel@
+@livid@|@ubel@
+@living room@|@egongela@
+@lizard@|@musker@
+@load@|@zama@
+@lobster@|@abakando@
+@lock@|@sarraila@
+@lock away@|@giltza-pean gorde@
+@lock in@|@barruan gorde, giltzapean gorde@
+@lock onto@|@zurian jo@
+@lock up@|@atea giltzas itxi, giltzapean gorde@
+@locomotive@|@lokomotore@
+@locust@|@zomorroa@
+@log@|@enbor@
+@logbook@|@untziko liburu@
+@logical rule@|@logika-erregela@
+@long@|@luze@
+@longitudinal wind@|@luzetarako haize@
+@look after@|@zaindu@
+@look of@|@antz@
+@loose@|@lasai@
+@lord@|@jaun@
+@lost@|@galduta@
+@lotion@|@lozio@
+@lots@|@elemenia@
+@loud noise@|@durrunda@
+@louse@|@zorri@
+@love@|@maite@
+@lover@|@amorante, maitale@
+@low grade@|@kaskar@
+@low pressure@|@behe-presio@
+@luck@|@sorte, zori, zorte@
+@lucky@|@zorioneko@
+@lukewarm@|@epel@
+@lunch@|@bazkaldu, bazkari@
+@lung@|@birika, pulmonatu@
+@lung congestion@|@birika-kongestio@
+@machine@|@makina@
+@machine bolt@|@berno dekoletatu@
+@machine gun@|@metraileta@
+@machine gunner@|@metrailatzaile@
+@machine shop@|@makina-lantegi@
+@machine tool@|@makina-erreminta@
+@machine translation@|@itzulpen automatiko@
+@mackrel@|@txitxarro@
+@mad@|@ero@
+@made of slate@|@arbelezko@
+@made of stone@|@harrizko@
+@magazine@|@aldizkari@
+@magic@|@magiko@
+@magic spell@|@sorginkeria@
+@magician@|@azti@
+@magistrate@|@epaile, magistratu@
+@magnetic@|@magnetiko@
+@magnetic field@|@eremu magnetiko@
+@mahogany@|@kaoba@
+@mahogany table@|@kaobazko mahai@
+@main shafting@|@ardatz eragile@
+@maize@|@arto@
+@make a claim to@|@aldarrikatu@
+@make an incision@|@sakitu@
+@make-up@|@egitura@
+@making gestures@|@keinuka@
+@mako shark@|@marrazo muturluze@
+@male@|@ar@
+@man@|@gizon@
+@man of steel@|@altzairuzko gizon@
+@manager@|@zuzendari@
+@manifest@|@garraio-agiri, manifestu@
+@manipulate@|@eragin (ad.)@
+@mantle@|@burusi, kapa, ohazal@
+@manufacture@|@egite, fabrikatze@
+@manufacture of textiles@|@ehungintza@
+@manufactured goods@|@fabrikatutako produktuak@
+@many@|@anitz, asko, hainbat@
+@many thanks (lit. a thousand)@|@mila esker@
+@map@|@mapa@
+@map out@|@planeatu@
+@maple@|@astigar@
+@March@|@Martxoa@
+@mare@|@behor@
+@margarine@|@margarina@
+@marine worm@|@itsas zizare@
+@maritime@|@itsasoko@
+@maritime climate@|@itsasaldeko klima@
+@maritime law@|@itsas-zuzenbide@
+@mark@|@keinu, marka@
+@market@|@azoka, merkatu@
+@marmalade@|@marmelada@
+@marquise@|@markes@
+@marry@|@ezkondu@
+@martyr@|@martiri@
+@marzipan@|@mazapan@
+@masculine@|@gizonezko@
+@mask@|@maskara, mozorro@
+@mass (rel.)@|@Meza@
+@mass meeting@|@bilkura jendetsu@
+@mass murders@|@mordoka egindako hilketak@
+@mast@|@masta@
+@masturbate@|@masturbatu@
+@masturbation@|@masturbazio@
+@match@|@partidu@
+@mathematics@|@matematika@
+@mattled@|@pinttokari@
+@May@|@Maiatza@
+@meadow@|@larre@
+@measles@|@elgorri@
+@meat@|@haragi, okela@
+@mechanical drive@|@aginte mekaniko, eragintza mekaniko@
+@mechansim@|@mekanismo@
+@mediate@|@artekari@
+@medicinal herbs@|@sendabelarrak@
+@medicine@|@medikuntza, sendagailu@
+@medicine cabinet@|@botika-kutxa@
+@medicine chest@|@botika-kutxa@
+@melancholy@|@malenkonia, tristura@
+@melody@|@melodia@
+@member@|@kide@
+@membrane@|@pintza@
+@menstrual period@|@hileko@
+@mention@|@aipatu@
+@menu@|@menua@
+@merchant ship@|@merkatalontzi@
+@mermaid@|@sirena@
+@message@|@mezu@
+@metamorphosis@|@metamorfosi@
+@microphone@|@mikrofono@
+@middle class@|@klase ertaina@
+@middle finger@|@hatz luze@
+@midnight@|@gauerdia@
+@military science@|@gudajakintza@
+@milk@|@esne, esnea@
+@mill@|@errot, errota@
+@miller's dog-fish@|@gelba@
+@millet@|@arto@
+@mind@|@gogo@
+@mine@|@meatze@
+@mineral water@|@ur minerala@
+@minister@|@ministro@
+@mink@|@bisoi@
+@mink coat@|@bisoi-larruzko beroki@
+@minstrel@|@koblakari@
+@mint@|@menda@
+@mint (coinage)@|@diruetxe@
+@mirror@|@ispilu, ispilua, mirail@
+@mischevious@|@bihurri@
+@miserly@|@xuhur, zeken@
+@Miss@|@andereñoa@
+@mission@|@eginkizun, misio, misioko@
+@mission office@|@misioko bulego@
+@mistake@|@erru@
+@mistress@|@maitale@
+@mite@|@zeden@
+@mitigate; alleviate@|@bigundu@
+@mixture@|@nahaste@
+@moat@|@babes-erreten@
+@mob@|@jende mordo, jendetza@
+@mob rule@|@populajearen legea@
+@model@|@eredu@
+@modelling clay@|@plastilina@
+@modest@|@isil@
+@molar@|@hagin@
+@mole@|@sator@
+@molten (metal) (galda-)@|@galdatu@
+@monarch@|@errege@
+@monarchy@|@monarkia@
+@Monday@|@Astelehen@
+@money@|@diru@
+@monkey@|@tximino@
+@monkey wrench@|@giltza ingeles, giltza zabalgarri@
+@monstrosity@|@itsuskeria, munstrokeria@
+@month@|@ila@
+@moon@|@hilargi, ilargi@
+@moonbeams@|@ilargi-izpiak@
+@moose@|@altze@
+@mop@|@txima, zoru-garbigailu@
+@morality@|@moraltasun@
+@more@|@areago, gehiago@
+@more black@|@beltzago@
+@more slowly@|@polikiago@
+@moreover@|@gainera@
+@morning@|@goiz@
+@morning star@|@argi ixerra@
+@morphological change@|@aldaketa morfologiko@
+@most@|@gehien@
+@mota (division)@|@class@
+@moth@|@sits, zeden@
+@mother@|@ama@
+@Mother Church@|@Eliza-Ama@
+@motion@|@higi-dura@
+@motor@|@motore@
+@motor drive@|@motorrezko eragintza@
+@motorcycle@|@motor@
+@mottled@|@nabar@
+@motz@|@mendizale@
+@mount@|@txalmatu@
+@mount up@|@txalmatu@
+@mountain@|@mendi@
+@mountainous@|@menditsu@
+@mouse@|@sagu@
+@moustache@|@bibote@
+@mouth@|@aho@
+@movement@|@higi-dura@
+@movie screen@|@pantaila@
+@Mrs.@|@anderea@
+@much@|@hainbat@
+@mud@|@buztina, lohi@
+@mule@|@mando@
+@multiplication sign@|@biderketa-ikur@
+@multiplication table@|@bider katzeko taula@
+@municipal police@|@udaltzaingoa@
+@murder@|@gizahilketa, hilketa@
+@murder case@|@gizahilketa-kasu@
+@muscle@|@gihar@
+@museum@|@museo, museoaren@
+@music@|@musika@
+@musician@|@musikari@
+@mustard@|@ziape@
+@mutation@|@mutazio@
+@mute@|@mutu@
+@my@|@ene, nire@
+@myriad@|@elemenia, guztiz ugari@
+@myself (anaph. pron.)@|@neure burua@
+@mystery@|@misterio@
+@mystery man@|@misteriopeko gizon@
+@nail polish@|@esmalte@
+@naked@|@biluzik@
+@name@|@izen@
+@nape of the neck@|@garondo@
+@napkin@|@dafaila@
+@narrow@|@estu, mehar@
+@nasal@|@sudurkari@
+@national parliament@|@estatuaren parlamentu@
+@nationalist@|@abertzale@
+@natural light@|@argi natural@
+@natural lighting@|@argi natural@
+@natural sciences@|@natur zientziak@
+@naughty@|@gaizto@
+@Navarre@|@Nafaroa, Nafarroa@
+@navel@|@zilbor@
+@navigation light@|@nabigazio-argi@
+@necessary@|@beharrezko@
+@neck@|@lepo, sama@
+@need@|@behar@
+@needle@|@orratz@
+@negation sign@|@ukapen-ikur@
+@negative sign@|@zeinu negatibo@
+@neighborhood@|@auzo@
+@nephew@|@iloba@
+@nervous@|@urduri@
+@net@|@sare@
+@net assets@|@aktibo garbi@
+@net income@|@errenta garbi@
+@net result@|@azkenako ondorio@
+@net weight@|@pisu garbi@
+@network@|@sare@
+@never@|@inoiz@
+@new@|@berri@
+@new born lamb@|@axuri@
+@new moon@|@ilargi berri@
+@newspaper@|@egunkari@
+@newt@|@uhandre@
+@next@|@hurbileneko, hurrengo@
+@next time@|@hurrengoan@
+@next to@|@ia-ia, ondoan, ondoko@
+@nice@|@atsegin, eder, jatorra, sinpatiko@
+@night@|@gau@
+@nightmare@|@amesgaitz@
+@nine@|@bederatzi@
+@nineteen@|@hemeretzi@
+@ninety@|@laurogeitahamar@
+@ninth@|@bederatzigarren@
+@nitrogen@|@nitrogeno@
+@no@|@ez@
+@no comment!@|@zeresanik ez!@
+@no smoking@|@ez erre@
+@No way@|@inola ere ez@
+@no?@|@etza?@
+@nobility@|@noblezia@
+@noble@|@aitonen seme, noble@
+@nobody@|@inor@
+@noise@|@otsa, zarata@
+@non-Basque speaker@|@eraldun@
+@noodle@|@fideo@
+@noodle soup@|@fideo-zopa@
+@noon@|@eguerdi@
+@nor even...@|@ezta...ere@
+@nor...either@|@ezta...ere@
+@norm@|@arau, erregela@
+@north@|@ipar, iparralde@
+@north wind@|@ipar-haize, iparraldeko haize@
+@northeast@|@ipar-ekialdeko haize@
+@northeasterly wind@|@ipar-ekialdeko haize@
+@northerly wind@|@ipar-haize, iparraldeko haize@
+@northwest@|@iparmendebalde, zehar-haize@
+@northwesterly wind@|@ipar-mendebaldeko haize, zehar-haize@
+@nose@|@dudur, sudur@
+@not@|@ez@
+@not anybody@|@inor ez@
+@not anyone@|@inor ez@
+@note@|@eskalako notak, nota@
+@notebook@|@koaderno@
+@notes (Mus)@|@eskalako notak@
+@nothing@|@ezer@
+@notice@|@ohar@
+@noun@|@izen@
+@noun phrase@|@izen sintagma@
+@nourishment@|@elikatze@
+@nouveau-riche@|@aberastue@
+@novel@|@elaberri@
+@now@|@orain@
+@nuclear@|@nuklear@
+@nuclear device@|@tresna nuklear@
+@nuclear family@|@oinarrizko familia@
+@nuclear power station@|@zentral nuklear@
+@nude@|@larrubizi@
+@number@|@zenbak@
+@numbers@|@zenbakiak@
+@nun@|@moja@
+@nurse@|@erizain@
+@nursehound@|@momar@
+@nut@|@hur@
+@nut and screw@|@torloju azkoin@
+@nutmeg@|@intxaur muskatu@
+@nutmeg tree@|@miristika@
+@nylon@|@nylon@
+@nymph@|@lamia, ninfa@
+@oak@|@aritz, haritz@
+@oak tree@|@haritz@
+@oar@|@arraun@
+@oath@|@zin@
+@oats@|@olo@
+@obese@|@lodi@
+@obligation@|@betebehar@
+@oblique@|@zeihar@
+@occur@|@gertatu@
+@occurence@|@gertaera@
+@ocean@|@itsaso@
+@October@|@Urria@
+@octopus@|@olagarro, olagarro arrunt@
+@odd@|@arraro, bitxi@
+@of copper@|@kobrezko@
+@of course@|@noski@
+@of flesh and blood@|@hezur-haragizko@
+@of noon@|@eguerdiko@
+@of poor quality@|@kaskar@
+@of that town@|@herri hartako@
+@of the day@|@eguneko@
+@of the son@|@eguzkiko@
+@of vapor@|@lurrinez@
+@offer@|@eskaini@
+@offering@|@opari@
+@office@|@bulego@
+@officer@|@ofizial@
+@official stamp@|@tinbre@
+@often@|@sarri@
+@oil@|@olio@
+@okay@|@bale, ondo@
+@old@|@zahar@
+@olive tree@|@olibondo@
+@on@|@gainean@
+@on balance@|@ongi pentsatuta@
+@on easy terms@|@epeka@
+@on foot@|@oinez@
+@on hand@|@eskumenean@
+@on his own accord@|@bere kabuz@
+@on his own account@|@bere kabuz@
+@on no account@|@inola ere ez@
+@on the left side@|@ezkerraldean@
+@on the one hand@|@alde batetik@
+@on the other hand@|@beste aldetik@
+@on top of@|@gainean@
+@one@|@bat@
+@one each@|@bana@
+@one reunion@|@bilera bat@
+@ones@|@batzuk@
+@one's fellow@|@norberaren hurkoak@
+@only@|@bakarrik@
+@ooze@|@jario@
+@open@|@ireki, irekita, zabal, zabalik@
+@opening@|@aho@
+@operate@|@erabili, eragin (ad.)@
+@operation@|@erabiltze, gidatze@
+@opinion@|@eritziz, iritzi, uste, ustez@
+@optional rule@|@aukerazko erregela@
+@or@|@ala, edo@
+@orange@|@laranja@
+@orange grove@|@laranjadi@
+@orange tree@|@laranjondo@
+@orchard@|@arboladi, ortu@
+@ordinary@|@arrunta@
+@organic@|@organiko@
+@organization@|@antolabide, antolakuntza, antolatze, erakunde@
+@orgy@|@orgia@
+@origin@|@erro, etorki@
+@original version@|@jatorrizko bertsio@
+@other@|@beste@
+@our@|@gure@
+@ourselves (anaph. pron.)@|@geure burua(k)@
+@out of breath@|@arnasestuka@
+@out of hand@|@berehala@
+@out of order@|@ez dabil@
+@out of perspective@|@ikuspuntuz kanpo@
+@outcome@|@ondorio@
+@oven@|@labe@
+@oven door@|@labeko ate@
+@overcoat@|@abrigue, gaban@
+@overhead@|@gastu orokorrak@
+@owe@|@zor izan@
+@owl@|@hontza@
+@ox@|@idi@
+@package@|@fardel, pakete@
+@package deal@|@hitzarmen orokor@
+@packet@|@pakete, zorro@
+@paddle@|@arraun@
+@paddle steamer@|@gurpil-bapore@
+@page@|@orrialde@
+@pain@|@min@
+@pain perception@|@minaren hautemate@
+@pain sensation@|@min-sentipen@
+@paint@|@margotu, margotze, pintatze, pintura@
+@pair@|@txekmena@
+@pair of scissors@|@guraize batzuk@
+@pale@|@haga, hits@
+@pallid@|@hits@
+@palm@|@zehe@
+@palm tree@|@palmondo@
+@paltry@|@kaskar@
+@Pamplona@|@Iruña@
+@pancreas@|@pankreas@
+@panel@|@panel, zapi@
+@panel discussion@|@mahainguru@
+@pants@|@praka@
+@papaya tree@|@papaiondo@
+@paper@|@paper@
+@paper klip@|@klip@
+@parade@|@agerraldi, parada@
+@parallel@|@paralelo@
+@parasol@|@eguzki-babes@
+@parcel@|@fardel, pakete@
+@parents@|@guraso, gurasoak@
+@parish priest@|@erretore@
+@parity@|@paritate@
+@park@|@aparkatu, parke@
+@parking@|@aparkaleku, aparkalekua@
+@parlimentary@|@parlamentu@
+@parody@|@parodia@
+@parrot@|@loro@
+@parrot fish@|@papagai arrain@
+@part@|@alde, zati@
+@particular@|@berezi, zehatz@
+@partridge@|@eper@
+@party@|@festa@
+@pass@|@pasatu@
+@passed@|@pasatuta@
+@passport@|@pasaporte, pasaportea@
+@paste@|@lekeda, ore@
+@pasture@|@belardi@
+@path@|@bide@
+@patriotic@|@abertzale@
+@patron@|@bezero@
+@patron saint@|@santu zaindari@
+@paw@|@hanka@
+@pay@|@ordaindu@
+@pea@|@ilar@
+@peace@|@bake@
+@peach tree@|@mertxikondo@
+@peacock@|@pauma@
+@peak@|@puntu@
+@pear@|@udari@
+@pear tree@|@udareondo@
+@peasant@|@nekazari@
+@pen@|@axota, luma@
+@pencil@|@arkatz@
+@penguin@|@pinguino@
+@penis@|@zakil@
+@people@|@jente@
+@people (singular collective)@|@jende@
+@people of the old school@|@zaharreko jendea@
+@per day@|@eguneko@
+@per night@|@gaueko@
+@perfume@|@lurrin@
+@perhaps (dare)@|@ote@
+@period@|@periodo, puntu@
+@period of time@|@epe@
+@permission@|@baimen@
+@perpendicular@|@perpendikular@
+@person@|@pertsona@
+@personality@|@nortasun@
+@persons at risk@|@arriskuan dauden pertsonak@
+@perspective@|@perspektiba@
+@perversion@|@galdukeria@
+@peseta@|@pezeta, pezta@
+@petty cash@|@eskuko diru@
+@phantom@|@iratxo@
+@pharmacy@|@botika, farmazia@
+@phase of the moon@|@ilargialdi@
+@pheasant@|@faisai@
+@phlegm@|@gorro, karkaisa@
+@phone (verb)@|@deitu@
+@phonological change@|@aldaketa fonologiko@
+@phosphorus@|@fosforo@
+@photo@|@foto@
+@photographer@|@argazkilari@
+@photography@|@argazkilaritza, fotografia@
+@phrases@|@esaldiak@
+@physician@|@mediku@
+@piece@|@zati@
+@pig@|@txerri, urde, zerri@
+@pigeon@|@uso@
+@pillar@|@zutabe@
+@pillow@|@burko@
+@pimple@|@pikor@
+@pin@|@orratz@
+@pine@|@pinu@
+@pine forest@|@pinudi@
+@pine needle@|@pinuaren hosto@
+@pineapple@|@anana@
+@pink@|@arrosa@
+@pioneer@|@esploratzaile@
+@pipe@|@tutu@
+@pistachio tree@|@pistatxondo@
+@piston@|@pistoi@
+@pitch@|@bikeztatu, jaurtiketa, tiro@
+@pitched battle@|@gudu gorri@
+@pity@|@ondiko@
+@place@|@aga, ezarri, leku, toki@
+@place of@|@-aga@
+@place of birth@|@jaioterri@
+@place of canyons@|@arroita@
+@place of chasms@|@arruza@
+@place of work@|@lantegi@
+@plague@|@izurri@
+@plain@|@zelai@
+@plan@|@asmo@
+@plane@|@hegazkin@
+@plant@|@landare@
+@plant shoot@|@kimu@
+@plastic@|@plastika, plastiko@
+@plastic explosive@|@lehergai plastiko@
+@plasticine@|@plastilina@
+@plastics@|@plastikozko gaiak@
+@platoon@|@pelotoi@
+@play@|@antzerki, drama@
+@plaza@|@plaza@
+@plead for mercy@|@errukia oihuka eskatu@
+@pleasant@|@atsegin@
+@please@|@mesedez@
+@plenteous@|@ugari@
+@plenty@|@ugaritasun@
+@plot@|@gidoi@
+@plum tree@|@aranondo@
+@pneumatic hammer@|@mailu pneumatiko@
+@pocket@|@patrika@
+@poem@|@poema@
+@poet@|@olerkari, poetiko@
+@poetic@|@poetiko@
+@poetry@|@poesia@
+@police interrogation@|@poliziaren galdeketa@
+@polish@|@zira@
+@politician@|@politikari@
+@politics@|@politika@
+@pomegranate tree@|@mingranondo@
+@pony@|@pottoka@
+@poor@|@pobre@
+@poor thing!@|@gizagaixoa!@
+@popcorn@|@artokiak@
+@poplar@|@ezki, ezku, zuzun@
+@population explosion@|@demografi eztanda@
+@porcelain@|@portzelana@
+@pork@|@txerriki@
+@porridge@|@ahi@
+@port@|@portu@
+@portico@|@arkupe@
+@portion@|@ano, zati@
+@portrait@|@erretratoa@
+@pose@|@jarrera@
+@positive sign@|@zeinu positivo@
+@possibility@|@ahalegina@
+@post@|@posta@
+@post office@|@postetxe@
+@postcard@|@postal@
+@posted mail@|@posta frankeatua@
+@postman@|@postari@
+@potato@|@patata@
+@pottery@|@eltzetegi@
+@pottery factor@|@buztinola@
+@power@|@ahalmen@
+@powerful@|@indartsu@
+@practical jokes@|@ziri mingarri@
+@prefer@|@nahiago@
+@preferable@|@hobe@
+@prepared@|@prestatuta@
+@preposition@|@preposizio@
+@present@|@eszenaratu@
+@president@|@lehendakari@
+@pressure@|@presio@
+@pressure cooker@|@presio-eltze@
+@pretty@|@eder, polit@
+@price@|@prezio@
+@priest@|@apaiz@
+@print@|@aztarren, marka@
+@prisoner@|@preso@
+@privation (suffix)@|@-kabe@
+@procession@|@prozesio@
+@product@|@ekoizkin, produkto@
+@promise@|@promesa@
+@propeller-shaft@|@ardatz eragile@
+@propulsion@|@propultsio@
+@protection@|@babeste@
+@protection money@|@babes-diru@
+@protest@|@protesta@
+@prove@|@egiztatu@
+@proverb@|@esaera@
+@province@|@probintzia@
+@proximate@|@hurbileneko@
+@prudent@|@zuhur@
+@pumpkin@|@kui@
+@punishment@|@zigor, zigortze@
+@pupil@|@begi-nini, ikasle@
+@purify@|@xahutu@
+@purple@|@more, ubel@
+@purpose@|@zeregin@
+@put@|@ezarri@
+@put on@|@eszenaratu@
+@pyramid@|@piramide@
+@quarry@|@arrobi@
+@quarter@|@laurden@
+@queer@|@bitxi, maritxu@
+@question@|@galde, galdera, zalantza@
+@questioning of a witness@|@lekukoen galdeketa@
+@questions and answers@|@galde-erantzunak@
+@quickly@|@arin@
+@quiet@|@isil@
+@rabbit@|@untsei, untxi@
+@rabbit hutch@|@untxitegi@
+@racket@|@pala@
+@radio@|@irrati@
+@radiography@|@erradigrafia@
+@rain@|@euri@
+@raisin@|@mahats@
+@ram@|@ahari@
+@rancour@|@gorroto, gorroto@
+@random variable@|@aldagai estokastiko@
+@ransom@|@erreskate@
+@rare@|@urri@
+@rasp@|@karraskailu@
+@rat@|@arratoi@
+@ratche wrench@|@matraka-giltza@
+@raven@|@bele@
+@ravine@|@erreka@
+@raw@|@gordin@
+@razor@|@bizar-labana@
+@razor blade@|@bizar-xafla@
+@razor brush@|@bizar-brotxa@
+@reach@|@irispide@
+@Really?@|@Benetan?@
+@reason@|@arrazoi@
+@rebel@|@asaldari@
+@recommend@|@gomendatzen@
+@recording@|@grabatze@
+@recount@|@kontatu@
+@rectangle@|@laukizuzen@
+@red@|@gorri@
+@red bass@|@lutiano gorri@
+@red scorpionfish@|@krabarroka gorri@
+@red wine@|@ardo beltza@
+@red-tailed hawk@|@zapelatz buztangorri@
+@reed@|@ihi@
+@reef fish@|@kastainola@
+@referee@|@arbitro@
+@reflected light@|@argi berrispilatu@
+@refrigerator@|@hozkailu@
+@refugee@|@iheslari@
+@region@|@eskualde, herrialde@
+@registration@|@erregistratze@
+@registration number@|@matrikula zenbaki@
+@registration of letters@|@eskutitzak ziurtatze@
+@relate@|@kontatu@
+@relations@|@harremanak@
+@relax@|@lasai@
+@relieve@|@bigundu@
+@religion@|@erlijio@
+@religious@|@elizkoi, jainkozale@
+@religious instruction@|@erlijio-heziketa@
+@remain@|@gelditu@
+@remarks@|@azalpen@
+@remnant@|@hondakin@
+@remora@|@erromero txiki@
+@renegade@|@arnegari@
+@representative@|@ordezkari@
+@reptile@|@narrasti@
+@require@|@behar izan@
+@research@|@ikerketa@
+@resemblance@|@antz@
+@resemble@|@-(r)en antzekoa izan, kidetu@
+@reservation@|@erreserba@
+@reserve fund@|@erreserba@
+@reserved@|@isil@
+@reservoir@|@urtegi@
+@residence@|@bizileku@
+@residence permit@|@herri batean biziteko baimen@
+@residential area@|@bizitegi-auzo@
+@residential area (adj.)@|@area bizitegi-auzo@
+@resitdential@|@area bizitegi-auzo@
+@respect@|@begirmen, errespetu@
+@responsibility@|@ardura, kontu@
+@restaurant@|@jatetxe, jatetxea@
+@result@|@ondore, ondoren, ondorengo, ondorio@
+@result in@|@ekarri@
+@results@|@emaitza@
+@return (journey@|@joan-etorri@
+@reunion@|@bilera@
+@revolution@|@iraultza@
+@revolve@|@bira-tu@
+@rich@|@aberats, aberatz@
+@ridge@|@egi, hegi@
+@riding crop@|@zaldi-zaharo@
+@riding whip@|@zartailu, zigor@
+@right@|@eskuin@
+@right to vote@|@boto-eskubide@
+@ring@|@eraztun, korru@
+@ring back@|@i-i berriz hots egin@
+@ring finger@|@hatz nagi@
+@ring up@|@telefonoz hots egin/deitu@
+@rings of Saturn@|@Saturnoren eraztunak@
+@rinse@|@xaboia-kentze@
+@rip@|@urratu@
+@risk@|@arrisku@
+@river@|@ibai@
+@river bank@|@ibai ertze@
+@river fish@|@ibaiko arrainak@
+@river police@|@ibaizaintza@
+@road@|@bide, errepide@
+@road accidents@|@errepideko@
+@roar@|@orroe@
+@roast chicken@|@oilasko errea@
+@robber@|@lapur@
+@robin@|@txantxangorri@
+@robust@|@sendo@
+@rock@|@haitz@
+@rock quarry@|@arrobi@
+@roof@|@teilatu@
+@roof tile@|@teila@
+@rook@|@ipar-bele@
+@rook (chess piece)@|@dorre (xake jokoa)@
+@room@|@gela@
+@root@|@erro, sustrai@
+@root beer@|@sustraiardo@
+@root cause@|@oinarrizko@
+@rope@|@korda, soka@
+@rope off@|@sokaz inguratu@
+@rosy soldierfish@|@erloju-arrain@
+@rotate@|@bira-tu@
+@rotten@|@ustel@
+@rough@|@zakar@
+@rough shark@|@piku pikortsu@
+@round@|@borobil@
+@rousing (something@|@kiña@
+@Royal Academy of the Basque Language@|@Euskaltzaindia@
+@rubber@|@goma@
+@rubber stamp@|@zigilu@
+@rubela@|@errubeola@
+@ruin@|@zuzitu@
+@rule@|@arau, erregela@
+@rule of calculation@|@kalkulu-erregela@
+@rule of inference@|@inferentzi erregela@
+@rule of law@|@arau juridiko (B), zuzenbideko estatu@
+@rule of substitution@|@ordezpen-erregela@
+@rule system@|@erregela-sistema@
+@ruler@|@agintari, erregela, gobernari@
+@rumor@|@esames, zurrumurru@
+@rust@|@herdoiltze, ugertze@
+@sacrifice@|@opari@
+@saddle@|@zela@
+@saddle up@|@txalmatu@
+@sadly@|@triste@
+@sadness@|@malenkonia, tristura@
+@safety net@|@segurtasun-sare@
+@sailor@|@belzaontzi@
+@saint@|@santu@
+@salad@|@entsalada@
+@sales pitch@|@saltzailearen erretolika, saltzailearen errotolika@
+@saliva@|@istu, txistu@
+@salmon@|@izokin@
+@salmon colored@|@izokin koloreko@
+@salt@|@gatz@
+@salve@|@ukendo@
+@same@|@berdin@
+@same as always@|@beti bezala@
+@same to you@|@baita zuri ere@
+@sample@|@erakusgarri, eraskusgai, etsenplu@
+@San Sebastian@|@Donostia@
+@sand shark@|@zezen-marrazo@
+@sandal tree (sandalwood)@|@sandalo@
+@sandwich@|@bokadilo, ogitarteko@
+@Santa Claus@|@Bizar Zuri@
+@sap@|@izerdi@
+@sardine@|@sardina@
+@sarjentu@|@sergeant@
+@satellite dish@|@paraboliko@
+@satire@|@satira@
+@satisfy (hunger)@|@ase@
+@Saturday@|@Larunbat@
+@sauce@|@saltsa@
+@sausage@|@lukainka, saltxitxa, txorizo@
+@sausage roll@|@hostorea@
+@saw@|@zerra@
+@saw fish@|@zerra-arrain@
+@sawed@|@zerratu@
+@sawfish@|@zerra-arrain@
+@say@|@erran@
+@scabbard@|@magina@
+@scabbard fish@|@sable-arrain arrunt@
+@scabbardfish@|@sable-arrain arrunt@
+@scalp@|@buru-azal@
+@scar@|@orbain, zauri-marka@
+@scarce@|@urri@
+@scarlet fever@|@eskarlatina@
+@scene change@|@mutazio@
+@school@|@eskola@
+@school age@|@eskola-adin@
+@school of Basque@|@euskaltegi@
+@school of fish@|@arrain-sarda@
+@school year@|@ikasturte@
+@school-age child@|@eskola-haur@
+@schoolmaster@|@maisu@
+@science@|@zientzia@
+@science of cooking@|@sukaldaritza@
+@scissors@|@guraizeak@
+@scorpion@|@luhartz@
+@scrap iron@|@txatar@
+@scraper@|@karraskailu@
+@scratch@|@atzapar@
+@scream@|@orroka-tu@
+@screen@|@bahe, pantaila, sare@
+@screw@|@torloju@
+@screw head@|@torloju-buru@
+@screw on@|@torlojuz muntatu@
+@screwdriver@|@kolpekako bihurkin@
+@scythe@|@sega, sega@
+@sea@|@itsaso@
+@sea lane@|@itsasbide@
+@sea worm@|@itsas zizare@
+@seal (with)@|@zigilatu@
+@seal (Zoo.)@|@foka@
+@sealed orders@|@zigilu-peko aginduak@
+@season@|@kira@
+@seasonal change@|@aldakuntza urtarotar@
+@seat@|@jezarleku@
+@second@|@bigarren, segundo@
+@second-hand@|@segundo-orratz@
+@secretary@|@idazkari@
+@secretion@|@jario@
+@sect@|@sekta@
+@security@|@ongizate@
+@See you!@|@Ikusi arte!@
+@seed@|@ale, hazi@
+@seesaw@|@aditzaren ihn@
+@sell@|@saldu@
+@sell off@|@guztiak saldu@
+@seller@|@saltzailea@
+@semantic change@|@aldaketa semantiko@
+@semester@|@seihileko@
+@sensible@|@zuhur@
+@September@|@Iraila@
+@serious@|@serio@
+@set@|@jarri@
+@set oneself@|@jarri@
+@seven@|@zazpi@
+@seventeen@|@hamazazpi@
+@seventh@|@zazpigarren@
+@seventy@|@hirurogeitahamar@
+@severe@|@gogor@
+@sewing machine@|@josteko makina@
+@sex drive@|@sexu-irrika@
+@sexual drive@|@sexu-irrika@
+@shade@|@itzalpe@
+@shafting@|@transmisio@
+@shame@|@lotsa, ondiko@
+@shampoo@|@xanpu@
+@share out@|@banatu@
+@shark@|@garda@
+@shark sucker@|@erromero txiki@
+@sharp@|@puntu, zorrotz@
+@sharp-nosed shark@|@marrazo muturluze@
+@shaving@|@bizar egite, bizarra@
+@shaving cream@|@bizarra kentzeko xaboia@
+@she@|@hon@
+@sheep@|@ardi@
+@shelf@|@apala@
+@shelter@|@babesleku@
+@shepherd@|@artzain@
+@sherbet@|@sorbete@
+@shield@|@ezkutu@
+@ship@|@itsasontzi, itsasontzi, ontzi@
+@ship's company@|@eskifaia@
+@ship's manifest@|@garraio-agiri@
+@shirt@|@alkondara, arkondara, atorra@
+@shoal@|@arrain-sarda@
+@shoe@|@oinetako, zapata@
+@shoes@|@oinetakoak@
+@shoot@|@kima@
+@shoot (Botanical)@|@kimu@
+@shoot down (Aeron.)@|@tiroka lurreratu@
+@shoot up@|@tiroka ibili@
+@shop@|@denda@
+@shop assistant@|@dendaria@
+@shopping center@|@merkataritza-gune@
+@short@|@motz@
+@shoulder(s)@|@besaburu@
+@shower@|@dutxa@
+@shrewd@|@zuhur@
+@shroud@|@hil-oihal@
+@shrouded in mystery@|@misterioan murgilduta@
+@shrub@|@zuhaiska@
+@shy@|@lotsati@
+@shyly@|@herabeki@
+@sibling-share@|@seniparte@
+@sickle@|@igitai@
+@sickly@|@gaixo@
+@side@|@aldean, ertze@
+@sieve@|@bahe@
+@sign@|@keinu, zeinu@
+@sign of equality@|@berdintasun-ikur@
+@sign of multiplication@|@biderketa-ikur@
+@silent@|@isil@
+@silently@|@isilik@
+@silk screen@|@serigrafia@
+@silly@|@lelo@
+@silver@|@zilar@
+@silversmith@|@zilargile@
+@simple@|@simplea@
+@simply@|@xinpleki@
+@sin@|@bekatu egin@
+@sinew@|@zain@
+@singer@|@abeslari, kantari@
+@singing@|@kantari@
+@sinister@|@donge@
+@sink@|@konketa@
+@sir@|@jauna@
+@sister (of a man)@|@arreba@
+@sister (of a woman)@|@ahizpa@
+@six@|@sei@
+@sixteen@|@hamasei@
+@sixth@|@seigarren@
+@sixty@|@hirurogei@
+@skate@|@patin, patinatu@
+@skating@|@patinatu@
+@skeleton@|@eskeleto, hezurdura@
+@skeleton key@|@giltza nagusi@
+@skeleton staff@|@oinarrizko lantalde@
+@skeptic@|@eszeptiko@
+@skilled@|@trebe@
+@skin@|@azal, larru@
+@skinny@|@argal@
+@skirmish@|@borroka@
+@skirt@|@gona@
+@skull@|@burezur@
+@skunk@|@mofeta@
+@sky@|@ortzi, zeru, zerua@
+@skylark@|@hegatxabal arrunt@
+@slander@|@gezur-beltz@
+@slang@|@argot@
+@slate@|@harbel@
+@slave@|@esklabo@
+@slave labor@|@esklaboen arduradun@
+@slave trade@|@esklabo-tratul@
+@sledge@|@errementari-mailu@
+@sledge hammer@|@errementari-mailu@
+@sleep (noun)@|@lo@
+@sleep (verb)@|@lo egin@
+@sleepy@|@logura@
+@sleet@|@elurbusti@
+@slender@|@lirain@
+@slice@|@xerra@
+@slowly@|@poliki@
+@slug@|@bala, bare@
+@slut@|@emagaldu@
+@sly@|@maltzur@
+@small@|@txiki@
+@small Basque flute@|@xirula@
+@small bench@|@aulki@
+@small briefcase@|@maletatxa, maletaxto@
+@small child@|@haurtxo@
+@small intestine@|@heste mehar@
+@small squid@|@txibia txiki@
+@small-scaled scorpion fish@|@krabarroka beltz@
+@smell@|@usaindu@
+@smell; sense of smell@|@suma@
+@smile@|@irribarre@
+@smith@|@harotz@
+@smoke@|@ke@
+@smoked fish@|@arrain ketu@
+@smooth@|@leun@
+@smooth hammerhead@|@mailu-arrain hirungingil@
+@smuggler@|@mugalari@
+@snail@|@karakol, marraskilo@
+@snail shell@|@marraskilo-oskol@
+@snake@|@suge, sugo@
+@snipefish@|@arrain tronpetari@
+@snob@|@harroputz@
+@snow@|@elur@
+@snow cover@|@elur-estaldura@
+@snow goose@|@elur-antzara@
+@snow plow@|@elurra kentzeko makino (B)@
+@snow-flake@|@txilintxa@
+@snow-storm@|@elur-ekaitz, elurte@
+@so@|@ain, hain, olan@
+@so much@|@hain@
+@soap@|@jaboi, xaboi@
+@sock@|@galtzerdi@
+@socket wrench@|@tutu-erako giltza@
+@soft@|@bigun, bigun-bera, biguna@
+@softened@|@guri-tu@
+@softly@|@emeki@
+@soil@|@lur@
+@soiled@|@zikindu@
+@soldier@|@gudari@
+@some@|@batzuek, batzuk, zenbait@
+@somebody@|@norbait, norbaitek@
+@somebody else@|@beste norbait@
+@someone@|@nor edo nor, norbait@
+@someone else@|@beste norbait@
+@someone)@|@kiña@
+@something@|@zer edo zer, zerbait@
+@somewhere@|@non edo non, nonbait@
+@son@|@seme@
+@sophism@|@sofisma@
+@sore@|@mindu, zauri@
+@Soule@|@Zuberoa@
+@Souletin (dialect)@|@Zuberoera@
+@sound of cracking@|@karrask@
+@sounds@|@ematen@
+@soup@|@salda, zopa@
+@source@|@etorki, iturri@
+@south@|@hego, hegoalde@
+@south wind@|@hego, hegoaldeko haize@
+@southeast@|@hego-ekialde@
+@southeasterly@|@hego-ekialderantz@
+@southwest@|@hego-mendebalde@
+@southwesterly@|@hego-mendebalderantz@
+@sow@|@ahardi@
+@spac@|@arte@
+@space@|@leku@
+@spark@|@txinpart@
+@spark-plug@|@bujia@
+@sparrow hawk@|@gabirai@
+@spear@|@burtzi@
+@special@|@berezi@
+@special of the day@|@egunekoa@
+@speed ratio@|@transmisio-erlazio@
+@spend (time)@|@pasa@
+@spider@|@armi-arma, armiarma@
+@spider crab@|@txangurro@
+@spider's web@|@amaraun@
+@spill@|@isuri, jario@
+@spilling@|@isuri@
+@spinach@|@espinaka@
+@spinal column@|@bizkarrezurra@
+@spindle@|@ardatz@
+@spiny lobster@|@otarrain@
+@spiny shark@|@taxtuela@
+@spire@|@orratz@
+@spirit@|@iratxo@
+@spleen@|@bare@
+@sponge@|@belaki@
+@sponge cake@|@bizkotxo@
+@spoon@|@koilara, kutxare@
+@sport@|@kirol@
+@sports center@|@kiroldegi@
+@sports centre@|@polikiroldegi@
+@spot@|@orbain, tantta, zikin@
+@spotted@|@nabar@
+@spring@|@iturri, udaberri@
+@spring semester@|@udaberriko ikastaro@
+@sprinkle@|@zirimiri@
+@sprout@|@kima@
+@spun yarn@|@hari bihurritu@
+@square@|@karratu@
+@square root@|@erro karratu@
+@squash@|@kalabaza, kuia, zuzitu@
+@squid@|@txibia@
+@squirrel@|@katagorri@
+@stab@|@labankada, sastada, sastatu@
+@stabbing@|@sastatu@
+@stage@|@eskenatoki, eszenario@
+@stainless steel@|@altzairu herdoilgaitz@
+@stairs@|@eskailera@
+@stamp@|@keinu, seilu, tinbre@
+@stamp album@|@seilu-album@
+@stamp collection@|@seilu-bilduma@
+@stamp down@|@ostikoka zapaldu@
+@staple@|@grapa@
+@stapler@|@grapagailu@
+@star@|@izar@
+@start@|@hasten@
+@starve out@|@goseak eduki@
+@state@|@estatu@
+@station@|@geltoki@
+@stay@|@egon, gelditu@
+@steal@|@lapurtu@
+@steel@|@altzairu@
+@steel production@|@altzairugintza@
+@steering column@|@endaitz@
+@stem@|@erro, zurtoin@
+@sterile@|@agor@
+@stick-on label@|@eranskin@
+@still@|@oraindik@
+@stingy@|@zeken, zikoitz@
+@stirring up@|@kiña@
+@stirrup@|@estribo@
+@stochastic variable@|@aldagai estokastiko@
+@stock@|@salgaiak, stock@
+@stock certificate@|@akzio-agiri@
+@stock market@|@burtsa@
+@stocks and shares@|@akzioak eta balioak@
+@stomach@|@sabel, tripa@
+@stomach-ache@|@tripako mina@
+@stone@|@harri@
+@stone bass@|@mero, mero beltz@
+@stonefish@|@harri arrain@
+@stoneware clay@|@gres@
+@stool@|@aulki@
+@stop@|@gelditu@
+@store@|@denda, gordetako@
+@store up@|@bildu, bilduta gorde@
+@stork@|@amiamoko, zikoin@
+@storm@|@ekaitz@
+@story@|@ipuin@
+@stove@|@beroagailu@
+@straight@|@lisu, zuzen@
+@strainer@|@xukadera@
+@strand@|@hari@
+@strange@|@arraro, bitxi@
+@stranger@|@ezezagun@
+@straw@|@lasto@
+@strawberry@|@marrubi@
+@stream@|@erreka@
+@street@|@kale@
+@strength@|@indar@
+@strike@|@kolpatu@
+@strong@|@indartsu, sendo@
+@strong intention@|@asmo tinko@
+@structural change@|@egitura-aldaketa@
+@struggle@|@gudu@
+@student@|@ikasle@
+@stupid@|@kirten(a), tonto, tuntun@
+@sturdy@|@sendo@
+@style@|@estilo@
+@substitute@|@ordeko, ordezko@
+@subtract@|@kendu@
+@subtraction sign@|@kenketa-ikur@
+@such@|@hain@
+@suck@|@esoski@
+@sugar@|@azukre@
+@sugar cane@|@azukre-kanabera@
+@suit@|@trajea@
+@suitcase@|@maleta@
+@sulphur@|@sufre@
+@summer@|@uda@
+@summer holidays@|@udako@
+@summer house@|@txalet@
+@summit@|@egi@
+@sun@|@eguzki@
+@sun screen@|@eguzki-babes@
+@Sunday@|@Igande, Igandea@
+@sunflower@|@eguzi-lore@
+@sunlight@|@eguzki-argi@
+@sunshade@|@eguzki-babes@
+@sun-tanned@|@beltz-arran@
+@superimpose@|@gainjarri@
+@supermarket@|@supermerkatu@
+@supplementary rule@|@gehigarrizko erregela@
+@supply@|@gordetako@
+@Supreme Court@|@apelazio-auzitegi, Auzitegi Goren@
+@surely@|@seguraski@
+@surgery@|@kirugia, kirurgia@
+@surgery hours@|@kontsulta-orduak@
+@surname@|@deitura, dietura@
+@surrender@|@errendizio, erreskate@
+@suspect@|@susmagarri@
+@swallow@|@ainhara@
+@swamp@|@aintzira@
+@swarm@|@elemenia, mordo@
+@sweat@|@izerdi@
+@sweater@|@elastiko, jertse, jertsea, sueter@
+@sweet@|@ezti, goxoki@
+@sweet orange tree@|@laranja gozo arbola@
+@sweet squash@|@gozokitarako kui@
+@sweets@|@goxoki@
+@swell@|@handitu, itsaski@
+@swelled@|@handitu@
+@swim@|@igeri@
+@swimming pool@|@igeritegi@
+@swollen@|@handitu@
+@sword fish@|@ezpata-arrain@
+@swordfish@|@ezpata-arrain@
+@symbol@|@ikur@
+@symbolic@|@sinboliko@
+@sympathizer@|@lagunkide@
+@system@|@era, sistema@
+@tabernacle@|@elkarketa-etxola, tabernakulu@
+@table@|@mahai@
+@table leg@|@mahai-hanka@
+@table napkin@|@dafaila@
+@table wine@|@mahairako ardo@
+@tail@|@buztan@
+@tail wind@|@atze-haize, bizkarreko haize@
+@take@|@hartu@
+@take this!@|@tori@
+@talc@|@talko@
+@talk@|@solas@
+@talkative@|@berritsu, berritxu@
+@tall@|@altu, garai@
+@tangent@|@tangente@
+@tangible@|@uki daitekeen@
+@tangle@|@korapilo@
+@tap@|@hariztatzeko ardatz, txorrota, txorrota@
+@tap chuck@|@hariztatzeko aparatu@
+@tap root@|@ardatz-formako sustrai@
+@tape@|@zinta@
+@tape deck@|@pletina@
+@tape measure@|@neurketa-zinta@
+@tape recorder@|@grabagailu@
+@tapestry@|@tapiz, tapizgintza@
+@tap-nozzle@|@zurrusta-hausteko@
+@tapper@|@hariztatzeko aparatu@
+@tapping chuck@|@hariztatzeko aparatu@
+@tariff@|@tarifa@
+@tarnish@|@distira kendu@
+@task@|@eginkizun@
+@taste@|@dastatu, probatu@
+@tattoo@|@tatuaje@
+@tea@|@te@
+@tea break@|@atsedenaldi@
+@tea set@|@te joko@
+@teacher@|@irakasle@
+@tears@|@nigar@
+@tease@|@trufa, trufa, txantxa@
+@technology@|@teknologia@
+@teenager@|@gatze@
+@telegram@|@telegrama@
+@telephone@|@telefono@
+@television@|@telebista@
+@television channel@|@telebista-kanal@
+@television screen@|@pantaila txiki@
+@tell@|@jakinarazi@
+@temper@|@umore@
+@temperature change@|@tenperatura aldaketa@
+@temperment@|@jenio@
+@ten@|@hamar@
+@tenant@|@maizter@
+@tender@|@bigun-bera@
+@tennis court@|@tenis-pista@
+@tentacle@|@garro@
+@tenth@|@hamargarren@
+@term@|@ikastatro@
+@term of office@|@agintaldi@
+@terminate@|@buka-tu@
+@termination@|@buka-era@
+@terminology@|@terminologia@
+@termite@|@termita@
+@terrible@|@ikaragarri, izugarri@
+@territory@|@luralde, lurralde@
+@terrorism@|@terrorismo@
+@test@|@proba@
+@testify@|@lekukotza egin, testigatu@
+@testimony@|@aitormen, zimpeko baieztapen@
+@thank@|@eskerrik@
+@thank you@|@eskerriak asko@
+@thanks@|@ekerrik asko@
+@that@|@hori, hori@
+@that (complementizer)@|@ela@
+@that (I) have them@|@ditudala@
+@that (non-absolutive)@|@har-@
+@that (over there)@|@hura@
+@that is so@|@halaxe da@
+@that kind of@|@olako@
+@that which is captured@|@hartutako@
+@that's right@|@horixe (ba)@
+@The Basque Government@|@Eusko Jaurlaritza@
+@the Basque national ball-game@|@pilota@
+@the Basque national flag@|@ikurrin@
+@the beautiful@|@ederrak@
+@the bill@|@kontua@
+@the bowl@|@katilua@
+@the center of the earth@|@lurraren erdigunea@
+@the children@|@umeak@
+@the Crown Jewels@|@Koroaren bixiak@
+@the dead@|@hildakoak@
+@the deaf@|@gorrak@
+@the edge@|@lehioertze@
+@the extreme right@|@eskuin-hegaleko@
+@the fruits of our labors@|@gure nekeen fruitua@
+@the good@|@zintzoak@
+@The Government of Navarre@|@Nafarroako Gobernua@
+@the house@|@etxea@
+@the houses@|@etxeak@
+@the human factor@|@giza faktorea@
+@the Iron Curtain@|@Burdinazko Hesia@
+@the legitimate theatre@|@benetako antzerkia@
+@the man@|@gizona@
+@the masses@|@masak@
+@the mob@|@jendaila@
+@the mountain@|@mendia@
+@the movie@|@filmea@
+@the murder weapon@|@hilketan erabilitako arma@
+@the new rich@|@aberastue@
+@the one the other (rec. pron. var.)@|@bata bestea@
+@the other side of the coin@|@txanponaren beste aldea@
+@the retail price index@|@kontsumorako prezioen indize@
+@the Royal Mint@|@Errege Diruetxea@
+@the ruling class@|@agintedun klase@
+@the traditional Basque mountain cry@|@irrintzi@
+@the Virgin Mary@|@Ama Birjina@
+@the wind from the south@|@hegoaizea@
+@the young people@|@gazte jentea@
+@theatre@|@zinema@
+@theme@|@hari@
+@themselves (anaph. pron.)@|@bere burua(k)@
+@then@|@orduan@
+@Then let's go!@|@Goazen ba!@
+@therapy@|@terapia@
+@there@|@ara, han, hara@
+@thermometer@|@termometro@
+@thesaurus@|@hiztegia, sinonimoen hiztegia@
+@these@|@hauek@
+@they came in swarms@|@etorri ziren@
+@they have it@|@dute@
+@they're flying@|@hegan ari dira@
+@thief@|@lapur, ohoin@
+@thigh@|@izter@
+@thimble@|@titare@
+@thin@|@argal, mehe@
+@thing@|@gai, gauza@
+@third@|@heren, hirugarren@
+@third person@|@hirugarren pertsona@
+@thirsty@|@egarri, egarriz@
+@thirteen@|@hamahiru@
+@thirtieth@|@hogeita hamargarren@
+@thirty@|@hogeitahamar@
+@this@|@hau, hon@
+@those@|@hai, hori, horiek@
+@those (farther off)@|@haiek@
+@thou@|@hi@
+@thought@|@gogo, gogoeta, oroi@
+@thousand@|@mila@
+@thread@|@hari@
+@threading tap@|@hariztatzeko ardatz@
+@three@|@hirur@
+@thresher@|@itsas azeri@
+@thresher shark@|@itsas azeri@
+@throat@|@eztarri@
+@throne@|@tronu@
+@throw@|@egotzi, jaurtiketa, tiro@
+@throw up@|@okatu@
+@thumb@|@erpuru@
+@thunder@|@trumoi@
+@Thursday@|@Ostegun@
+@thus@|@olantxe@
+@ticket@|@txartel@
+@ticket)@|@joan-etorri@
+@tickets@|@txartelak@
+@tickle@|@i-i kilimak egin@
+@tied@|@lotua@
+@tiger@|@tigre@
+@tight@|@estu@
+@tight-fisted@|@xuhur@
+@tightrope@|@orekarien soka@
+@tile@|@teila lau@
+@timber@|@zura@
+@timber (trees)@|@zuhaitzak@
+@time@|@aldi, denbora, kira@
+@tin@|@eztainu@
+@tin soldier@|@berunezko soldadu@
+@tin-plate@|@latorri@
+@tint@|@margotze@
+@tip@|@eskupekoa, punta@
+@tire@|@gurpil@
+@tired@|@neke@
+@tiredly@|@nekatuta@
+@tiring@|@nekagarri@
+@to'@|@gana@
+@to (allative; with animates)@|@-gana@
+@to (literally less)@|@gutxitan@
+@to abandon ship@|@ontzia hustu@
+@to account for@|@kontu(ak) eman@
+@to act together@|@batera jardun@
+@to act\behave like an idiot@|@ergelarena@
+@to adore@|@adoratu@
+@to agitate@|@higi-tu@
+@to amaze@|@harritu@
+@to analyze@|@azter@
+@to answer for@|@kontu(ak) eman@
+@to appear@|@ageri, agertu@
+@to argue@|@aharratu@
+@to arm@|@armau@
+@to arrive@|@erdu(tu), heldu, iritsi@
+@to ascend@|@igo@
+@to ask@|@galdetu@
+@to ask for@|@eskatu@
+@to assassinate@|@asasinatze@
+@to assert@|@alegatu@
+@to attach@|@itsatsi@
+@to attack@|@eraso, kalteak eragin@
+@to attempt@|@saiatu@
+@to attract customers@|@bezeroak erakarri@
+@to baptize@|@bataiatze@
+@to bathe@|@bainatu, bainutu@
+@to be@|@izan@
+@to be a glutton for punishment@|@martiriarena egin@
+@to be a turn for the worse@|@okerrera egin@
+@to be all ears@|@arreta handiz aditu@
+@to be an expert at doing something@|@e-r egiteko trebea izan@
+@to be busy with@|@jardun@
+@to be crazy about something@|@e-gatik zoratuta egon@
+@to be dead@|@hilik egon@
+@to be dead tired@|@neka-neka eginda egon@
+@to be full@|@ase@
+@to be good at something@|@e-tan trebea izan@
+@to be hard of hearing@|@entzungorra izan@
+@to be ignorant of the facts@|@egitateak es jakin@
+@to be in a hurry@|@gose egon@
+@to be in a tight corner@|@kinka larrian egon@
+@to be in a vicious circle@|@sorgin-gurpilean egon@
+@to be in debt@|@zorretan egon@
+@to be in operation@|@indarrean izan@
+@to be in print@|@inprimaturik egon@
+@to be in the lead@|@aurrean (ibili)@
+@to be level with something@|@e-en arrasean egon@
+@to be lucky@|@zorionekoa izan, zorionekoa izan@
+@to be manifest@|@agerian egon@
+@to be nobody's fool@|@i-i ziria sartzen ez utzi@
+@to be on a diet@|@dieta egin@
+@to be on guard@|@zaintzan egon@
+@to be on holiday@|@oporretan egon@
+@to be on one's knees@|@be-launiko egon@
+@to be on the ball@|@nondik norakoa jakin@
+@to be out of print@|@ahiturik egon@
+@to be over the moon@|@ilargion egon@
+@to be pleasing@|@laket@
+@to be rough@|@zakartu@
+@to be round the corner@|@aurki izan@
+@to be satieted@|@ase@
+@to be scarce; to dwindle@|@urritu@
+@to be short of cash@|@diruz juxtu-juxtu ibili@
+@to be similar@|@kidetu@
+@to be starved of affection@|@maitasunik gabe bizi@
+@to be under an embargo@|@debekaturik egon@
+@to be under arrest@|@atxilotuta egon@
+@to be under someone's protection@|@i-en babesean egon@
+@to bear a strong resemblance to someone@|@i-en antzekoa izan@
+@to beat@|@kolpatu@
+@to become@|@bihurtu, jarri@
+@to become childlike@|@seindu@
+@to become lean@|@gihar-tu@
+@to become senile@|@seindu@
+@to bed@|@ohera@
+@to beg@|@eskatu@
+@to begin school@|@eskolan hasi@
+@to behave@|@portatu@
+@to believe@|@sinestu@
+@to bite@|@kosk@
+@to blame@|@kulpa@
+@to bleas@|@bedeinkatu@
+@to blend@|@nahastu@
+@to block@|@ziritu@
+@to board ship@|@ontziratu@
+@to boil@|@borborkatu, kabarro, zaldar@
+@to boom@|@ozendu@
+@to bore@|@asper-tu, aspertu@
+@to break@|@apurtu, puskatu@
+@to break down@|@hondatu@
+@to bring@|@ekarri, eraman@
+@to bring in the crops@|@uzta bildu@
+@to bring into question@|@zalantzan jarri@
+@to bring light@|@argittu@
+@to bring to a boil@|@irakinarazi@
+@to bring together@|@elkartu@
+@to bubble@|@borborkatu@
+@to burn@|@erre, izeki@
+@to burn up@|@izeki@
+@to buy@|@erosi@
+@to call@|@dei egin, deitu@
+@to call for a vote@|@bozketa bat eskatu@
+@to capsize@|@tirabiratu@
+@to carry@|@eraman@
+@to cast one's vote@|@botoa eman@
+@to catch@|@harrapa-tu, harrapatu@
+@to cause to understand@|@ulertarazi@
+@to cause to wait@|@igurikarazi@
+@to charge@|@kobratu@
+@to chop down@|@aizkoraz moztu, moztu@
+@to chop up@|@txikitu@
+@to chop wood@|@egurra@
+@to clasp@|@besarkatu@
+@to claw@|@atzaparkatu@
+@to clean@|@garbitu, xahutu@
+@to clear@|@irten@
+@to climb@|@igo@
+@to cold@|@hoztu@
+@to come@|@erdu(tu), etorri, jin@
+@to come full circle@|@abiapuntura itzuli@
+@to come in second@|@bigarren@
+@to come into operation@|@indarrean jarri@
+@to come to a boil@|@irakiten hasi@
+@to comfort@|@kontsolatu, poza eman@
+@to command@|@agindu, agintzen@
+@to compete@|@jokatu@
+@to complain@|@kejatu@
+@to conceal@|@ezkutatu@
+@to condemn@|@kondenatu@
+@to confess@|@aitortu@
+@to congregate@|@biltu@
+@to connect (v). wire@|@konektatu@
+@to console@|@kontsolatu, poza eman@
+@to continue@|@jarraitu@
+@to contrive@|@asmatu@
+@to cook@|@prestatzeko@
+@to cooperate in doing something@|@e-r egiteko laguntza eman@
+@to cough up@|@eztul egin@
+@to crack jokes@|@txisteak bota@
+@to crowd out@|@baztertu@
+@to cry@|@negar egin@
+@to cry for mercy@|@errukia oihuka eskatu@
+@to cry mercy@|@errukia oihuka eskatu@
+@to cry out@|@oihu egin@
+@to cut@|@ebaki, motzu, moztu, sakitu, segatu@
+@to cut corners@|@lasterbidea hartu@
+@to cut down on@|@e-kin ekonomiak egin@
+@to cut down on smoking@|@gutxiago erre@
+@to cut off@|@motzu@
+@to cut short@|@bertan behera@
+@to cut someone's throat@|@i-i lepoa moztu@
+@to damn@|@birao egin, kondenatu@
+@to dance@|@dantza egin, dantzatu@
+@to debit the account@|@kontua zordundu@
+@to debit to balance@|@saldokoa zordundu@
+@to decide@|@erabaki@
+@to default on a promise@|@agindutakoa ez bete@
+@to delay@|@luzamendu@
+@to demonstrate@|@erakutsi@
+@to depart@|@irten@
+@to descend@|@jaitsi@
+@to deserve@|@merezi izan@
+@to destroy@|@apurtu, zuzitu@
+@to die@|@hil@
+@to diminish@|@urritu@
+@to dine@|@afaldu@
+@to dish up (a plate)@|@plater gainean jarri@
+@to dismiss@|@bota@
+@to disobey@|@(i-en) agindua ez bete@
+@to do@|@egin@
+@to do business with someone@|@i-ekin tratua egin@
+@to do evil@|@gaiztakeriak egin@
+@to drain@|@xukatu@
+@to draw@|@marraztu@
+@to draw a comparison with@|@erkatze bat egin@
+@to dream@|@amets egin@
+@to drink@|@edan@
+@to drive@|@kotxe gidatu, murriztu@
+@to drive someone crazy@|@i-r erotu@
+@to dry@|@lehortu@
+@to duel@|@duelu egin@
+@to eat@|@jan@
+@to edit@|@argitaratzeko zuzendu@
+@to emancipate@|@libratu@
+@to embrace@|@besarkatu@
+@to emigrate@|@emigratu@
+@to encounter@|@aurkitu@
+@to end@|@bukatu@
+@to endure to the end@|@bururaino iraun@
+@to enlist@|@armadan sartu@
+@to enrich@|@aberastu@
+@to enrich one's self@|@aberastu@
+@to enter@|@sartu@
+@to exile@|@atzerriratu@
+@to explain@|@azaldu@
+@to fall@|@erori, jausi@
+@to fall asleep@|@lo hartu@
+@to feel@|@sentitu, ukimen@
+@to feel pain@|@sentitu mina@
+@to feel terrible@|@izugarri gaizki sentitu@
+@to fight@|@borrokatu@
+@to file a petition@|@eskaera aurkeztu@
+@to file a suit against someone@|@i-r auzibidean jarri@
+@to fill@|@bete@
+@to find@|@aurkitu@
+@to finish@|@amaitu, buka-tu, bukatu@
+@to fish@|@arrantzan ari, arrantzuan ari@
+@to flee@|@ihes egin@
+@to flow@|@isuri@
+@to fly@|@hegan egin@
+@to fly at@|@(r)i bat-batean eraso@
+@to fly off the handle@|@sutan jarri@
+@to follow@|@jarraitu@
+@to foot the bill@|@kontua ordaindu@
+@to forecast@|@iragarri@
+@to forge ahead@|@aurrera jarraitu@
+@to forget@|@ahaztu@
+@to fortify@|@indartu@
+@to free@|@libratu@
+@to frighten@|@ikaratu@
+@to frown@|@beltzuri egin@
+@to frustrate@|@zapuztu@
+@to gamble@|@jokaldi@
+@to gamble away@|@jokoan galdu@
+@to gear to@|@i-rengana e-rako zuzendu@
+@to get a bellyful@|@okatu@
+@to get angry@|@aharratu@
+@to get bored@|@asper-tu@
+@to get cold@|@hotzitu, hoztu@
+@to get dirty@|@zikindu@
+@to get dusty@|@hautsa bildu@
+@to get fat@|@gizendu@
+@to get one's breath back@|@arnasa berriro hartu@
+@to get somebody off the hook@|@i-r larrialditak atera@
+@to get someone's goat@|@i-r haserretzea lortu@
+@to get sore@|@minberatu@
+@to get the feel of something@|@e-kin ohitzea@
+@to get up@|@altxatu, jaiki, jeiki@
+@to give@|@eman@
+@to give an opinion@|@irizpena egin@
+@to give notice@|@abisatu@
+@to give preliminary rulings@|@epaiketa aurretik ebatzi@
+@to give something as a present@|@oparitu@
+@to glance@|@begiratu@
+@to glance at@|@begiztatu@
+@to glance off@|@jo eta errebotean irten@
+@to glance over@|@irakurri@
+@to gloat over@|@alaitu@
+@to gnaw@|@karraskatu@
+@to go@|@joan, joatea@
+@to go around@|@ibili@
+@to go bald@|@(r)i burusoildu@
+@to go beyond the pale@|@bazterrean egon@
+@to go crazy@|@erotu@
+@to go further into the matter@|@arazo bat zehatzago ikertu@
+@to go hunting@|@ehizean ibili@
+@to go in procession@|@lerroan ibili@
+@to go insane@|@erotu@
+@to go into decline@|@ahultzen hasi@
+@to go into particulars@|@zehatz-mehatz hasi@
+@to go off on a tangent@|@bidetik atera@
+@to go out@|@atera, irten@
+@to go out of business@|@porrot egin@
+@to go to church@|@elizaratu@
+@to go to court@|@auzitegira jo@
+@to go to mass@|@Mezatara joan@
+@to go to sleep@|@lo gelditu@
+@to go to town@|@hiriratu@
+@to go up@|@igo@
+@to greet@|@agurtzeko@
+@to grind@|@apurtu@
+@to group together@|@taldekatu@
+@to grow@|@hazi@
+@to grow fat@|@gizendu@
+@to grow up@|@nagusitu@
+@to guess@|@asmatu@
+@to guess thoughts@|@igarri, somatu@
+@to half do something@|@e-r erdizka egin@
+@to han@|@itzuli@
+@to hand in@|@eskuz eman@
+@to hand out@|@banatu@
+@to hand over@|@en eskuetan jarri@
+@to handle@|@eskuztatu@
+@to have@|@ukan@
+@to have a cough@|@eztul egin@
+@to have a duel@|@duelu egin@
+@to have a good cry@|@barrua negarrez hustu@
+@to have a hand in something@|@e-tan eskua sartu@
+@to have a long reach@|@beso luzeak izan@
+@to have a shave@|@bizarra@
+@to have a shower@|@dutxatu@
+@to have a sore throat@|@eztarriko mina izan@
+@to have a stab at doing something@|@e-r egiten saiatu@
+@to have an idea@|@buruatu@
+@to have bats in the belfry@|@burutik egon@
+@to have breakfast@|@gosaldu@
+@to have diarrhea@|@kakeria izan@
+@to have dinner@|@afaldu@
+@to have visitors@|@etxean bisitariak eduki@
+@to heal@|@sendu@
+@to hear@|@entzun@
+@to hide@|@ezkutatu, gorde@
+@to himself@|@bere baitan@
+@to hinge on@|@-(r)en esku egon@
+@to hit@|@jo, kolpatu@
+@to hold@|@eutsi@
+@to hold someone at bay@|@i-r inori (ezeri) eutsi@
+@to hold someone hostage@|@i-r bahituta izan@
+@to hold up@|@atzerapen@
+@to hope@|@espero, espero izan@
+@to impose a fine@|@-(r)i isuna ezarri@
+@to inspire@|@isuri@
+@to invent@|@asmatu@
+@to investigate@|@ikertu@
+@to invite@|@gonbidatu@
+@to iron clothing@|@plantxatu@
+@to jog@|@(r)i bultza egin@
+@to jog someone's memory@|@i-en oroimena bizkortu@
+@to join@|@kide bihurtu@
+@to join a church@|@eliza batean sartu@
+@to join the army@|@armadan sartu@
+@to jump@|@jauzi egin@
+@to jump ship@|@ontzia bertan behera utzi@
+@to keep@|@gorde, zaindu@
+@to keep a level head@|@burua ez galdu@
+@to keep in store@|@gordeta eduki@
+@to keep one's promise@|@hitza atxiki@
+@to keep watch@|@zaindari egon@
+@to keep watch on someone@|@i-r zaintzapean eduki@
+@to kill@|@baretu, hil@
+@to knit one's brow@|@beltzuri egin@
+@to knit together@|@bat egin@
+@to know@|@ezagutu, ezagutzen, ezgutu, jakin@
+@to laugh@|@barre egin@
+@to lay one's hands on@|@atzeman@
+@to lay something under an embargo@|@e-r bahitu@
+@to lead a hard life@|@bizimodu gogorra izan@
+@to leaf through@|@gainetik irakurri@
+@to learn@|@ikasi@
+@to leave@|@irten, utzi@
+@to lend a hand@|@i-i langundu@
+@to let someone off the hook@|@i-r ateratzen utzi@
+@to liberate@|@libratu@
+@to lift@|@jaso@
+@to like@|@gustatu@
+@to listen@|@entzun@
+@to live@|@bizi@
+@to live in clover@|@esne-mamitan bizi@
+@to look@|@begiratu@
+@to lose@|@galdu@
+@to lose courage@|@bihotza galdu@
+@to lose one's temper@|@haserretu@
+@to love@|@enamoratua@
+@to mail@|@bidali@
+@to make@|@egin, prestatzeko@
+@to make a claim@|@alegatu@
+@to make a fool of someone@|@barregarri gelditu@
+@to make cold@|@hotzitu@
+@to make note of@|@e-r apuntatu@
+@to make or become happy@|@potzu, poztu@
+@to make someone angry@|@i-r haserretu@
+@to make someone do something@|@i-e e-r egitera behartu@
+@to make someone happy@|@i-r poztu@
+@to make someone judste@|@epaile egin@
+@to make someone rich@|@i-r aberastu@
+@to make someone wait@|@igurikarazi@
+@to marry@|@exkondu, ezkondu@
+@to mask@|@mozorrotu@
+@to match closely@|@baliokidea izan@
+@to me@|@enegana, niri@
+@to meet@|@elkartu@
+@to mess up@|@nahastu@
+@to mislay@|@galdu@
+@to misplay@|@galdu@
+@to mix@|@nahastu@
+@to move@|@higi-tu, mugitu@
+@to multiply@|@biderkatu@
+@to narrow@|@mugatu@
+@to narrow down@|@mugatu@
+@to need@|@behar@
+@to notice@|@oharmen@
+@to open@|@zabaldu@
+@to oppose@|@kontrajardun@
+@to order@|@agindu, agintzen@
+@to overcome@|@gainditu@
+@to overeat@|@okatu@
+@to overturn@|@tirabiratu@
+@to owe@|@zordu@
+@to pair (up)@|@kidetu@
+@to pale@|@zurbildu@
+@to pander to someone@|@i-en gustuari@
+@to pass judgement on somebody@|@i-r epaitu@
+@to pay@|@ordaindu@
+@to pay on delivery@|@entregatzean ordaindu, entregatzean ordiandu@
+@to pay tribute to somone@|@gorazarre egin@
+@to pick up@|@bildu@
+@to piss@|@pixa@
+@to play@|@jokatu, jolastu@
+@to play dice@|@dadotan ari@
+@to play the game@|@garbi jokatu@
+@to pollute@|@kutsatu@
+@to pose as@|@i-ena egin@
+@to pose as an intellectual@|@intelektualarena egin@
+@to prefer@|@nahiago@
+@to prepare@|@prestatzeko@
+@to promise somthing to someone@|@i-i e-r ermateko@
+@to protect@|@babestu@
+@to pull@|@tira@
+@to pull up one's roots@|@etxeaz aldatu@
+@to punish@|@zigortu@
+@to put@|@ipini, jarri@
+@to put down@|@utzi@
+@to put in@|@sartu@
+@to put into gear@|@martxan jarri@
+@to put something in the right perspective@|@e-r dagokion tokian jarri@
+@to qualify@|@gaitu@
+@to rain@|@euria egin@
+@to raise one's self above the crowd@|@guztien artean nabaritu@
+@to reach@|@irispide, iritsi@
+@to read@|@irakurri@
+@to rebel@|@jaiki@
+@to receive@|@jaso@
+@to recognize@|@ezagutu@
+@to reduce@|@murriztu, txikitu@
+@to referee@|@artekari@
+@to reject@|@baztertu@
+@to relax@|@lasai@
+@to remain@|@geratu@
+@to remember@|@gogoratu@
+@to remove@|@kendu@
+@to remove rust@|@ugera@
+@to remove water@|@xukatu@
+@to repair@|@konpondu@
+@to resemble@|@-(r)en antzekoa izan@
+@to return@|@itzuli@
+@to ring back@|@i-i berriz hots egin@
+@to ring up@|@telefonoz hots egin/deitu@
+@to rip@|@txikitu@
+@to rise@|@igo, jaiki@
+@to risk@|@arrisku@
+@to roar@|@orroe egin@
+@to roast@|@erre@
+@to roll the dice@|@dadoak bota@
+@to rope off@|@sokaz inguratu@
+@to run@|@korrika egin@
+@to rush on@|@eraso@
+@to saddle up@|@zelatu@
+@to say@|@esan@
+@to scare@|@bildurtu@
+@to seal off@|@ihesbideak itxi@
+@to search for@|@bilatu@
+@to see@|@ikusi, ikustera@
+@to sell@|@saldu@
+@to sell back@|@berriz saldu@
+@to sell out@|@saldu@
+@to send@|@bidali@
+@to separate@|@urrundu@
+@to sew@|@josi@
+@to sew up@|@josi@
+@to ship out@|@bidali@
+@to shoot (a firearm)@|@tiro egin@
+@to shoot a pistol@|@pistolarekin tiro egin@
+@to shoot pool@|@bilarjokoan aritu@
+@to shoot someone dead@|@i-r tiroka hil@
+@to shoot up@|@tiroka ibili@
+@to shorten@|@motzu, moztu@
+@to shout@|@orroka-tu@
+@to shout with glee@|@pozez oihukatu@
+@to show@|@erakutsi@
+@to show up@|@agertu@
+@to sign a treaty@|@ituna izenpetu@
+@to sin@|@bekatu egin@
+@to sing@|@abestu, kantatu@
+@to sit@|@eseri@
+@to sit down@|@eseri, jarri@
+@to slave away at doing something@|@esklaboen antzera lan egin@
+@to smooth out@|@guri-tu@
+@to soften@|@bigundu, guri-tu@
+@to soil@|@zikindu@
+@to speak@|@hitzegin, mintzatu@
+@to spell out@|@zehatz-mehatz azaldu@
+@to spend@|@xahutu@
+@to spill@|@jario@
+@to stamp down@|@ostikoka zapaldu@
+@to stamp one's foot@|@lurra ostikoka zapaldu@
+@to start the ball rolling@|@gauzak martxan jarri@
+@to starve@|@gosez hiltzen utzi@
+@to starve someone of something@|@i-r e-z gabetu@
+@to steal@|@lapurtu, ohostu@
+@to still@|@baretu@
+@to stir@|@higi-tu@
+@to stomp@|@zuzitu@
+@to stop dead@|@bertantxe gelditu@
+@to strengthen@|@kemendu@
+@to study@|@ikasi@
+@to surprise@|@harritu@
+@to swim@|@igeri egin@
+@to take@|@hartu@
+@to take a gamble@|@apostu bat egin@
+@to take a walk@|@paseatzera@
+@to take away@|@eraman@
+@to take care of@|@babestu@
+@to take delight in@|@(e)an atsegin hartu, e-k i-i atsegin eman@
+@to take delivery of@|@jaso@
+@to take note of something@|@e-z ohartu@
+@to take notice of something@|@ohartu@
+@to take one's turn@|@nork bere txanda hartu@
+@to take risks@|@arriskatu@
+@to take root@|@sustraiak egin@
+@to take someone prisoner@|@i-r preso hartu@
+@to take the lead@|@aurrea hartu@
+@to talk to@|@hitzegin@
+@to teach@|@irakatsi@
+@to tear@|@puskatu@
+@to tear a hole@|@zulatu@
+@to tease@|@burla@
+@to tell@|@kontatu@
+@to testify to something@|@salatu@
+@to thank@|@eskertu@
+@to the earth@|@lurrari@
+@to the man@|@gizonari@
+@to the right@|@eskuinera@
+@to think@|@pentsatu, uste@
+@to throw@|@bota@
+@to throw out of gear@|@martxa lokatu@
+@to thumb through@|@gain-gainetik irakurri@
+@to tie@|@lotu@
+@to tire@|@nekatu@
+@to touch@|@ikutu@
+@to transmit@|@transmititu@
+@to treat@|@tratatu@
+@to trust@|@itxaron@
+@to try hard@|@zazpi ahaleginak egin@
+@to turn@|@bira-tu, itzuli@
+@to turn a deaf ear to@|@gorrarena egin@
+@to turn a new leaf@|@bizimodua berritu@
+@to turn into@|@bihurtu@
+@to turn off@|@itzali@
+@to turn on@|@pitzu@
+@to turn pale@|@zurbildu@
+@to turn purple@|@ubeldu@
+@to understand@|@ulertu@
+@to use@|@erabil@
+@to verify@|@egiztatu@
+@to vomit@|@okatu@
+@to wait@|@itxaron, itxoin, itxoin@
+@to wait for@|@igurikatu, iguriki@
+@to wake up@|@esnatu@
+@to walk@|@buelta, ibili@
+@to want@|@nahi@
+@to warn@|@abisatu@
+@to wash the dishes@|@ontziak garbitu@
+@to waste@|@galdu@
+@to watch for@|@igurikatu, iguriki@
+@to wear@|@jantzi@
+@to wet@|@busti@
+@to whip out@|@tarrapatan@
+@to whip up@|@harrotu@
+@to widen@|@zabaldu@
+@to win@|@gailendu, irabazi, lortu@
+@to win by default@|@jokatu gabe irabazi@
+@to wink at@|@begi-keinu egin@
+@to wire@|@konektatu@
+@to wish someone goodbye@|@i-i agur esan@
+@to write@|@idatzi@
+@toad@|@apo, apo arrunt, sapo, zapo@
+@today@|@gaur@
+@together@|@elkarekin@
+@together with@|@(r)ekin batera@
+@toilet@|@komun@
+@tomorrow@|@bihar@
+@tongue@|@mihi@
+@tonsil@|@amigdala@
+@too@|@baita...ere, ere@
+@too cold@|@hotzegi@
+@tool@|@lanabes, tresna@
+@tool box@|@erreminta, lanabes-kaxa@
+@tool chest@|@erreminta@
+@tooth@|@hortz@
+@toothache@|@hagineko min@
+@top@|@egi, gain, hegi, tontor@
+@tope shark@|@gelba@
+@topic@|@hari@
+@tore out@|@erauzitako@
+@tornado@|@tornado@
+@torque wrench@|@giltza dinamometriko@
+@torso@|@gorputz-enbor, soin@
+@tortilla@|@tortilla@
+@tortoise@|@dortoka@
+@toss@|@jaurtiketa@
+@touch@|@ukitu, ukitzen@
+@tourism office@|@turismo bulegoa@
+@tourist industry@|@turismo@
+@tournament@|@torneo@
+@toward@|@ganantz@
+@towards@|@-gana, aldera@
+@towel@|@toaila@
+@town@|@herri, hiri@
+@town centre@|@erdigune@
+@town clerk@|@udal idazkari@
+@town council@|@udalbatza@
+@town hall@|@udaletxe@
+@track@|@aztarna@
+@traditional Basque card game@|@mus@
+@traffic@|@seinalizazio-panel@
+@traffic control sign@|@seinalizazio-panel@
+@traffic light@|@semaforo@
+@traffic sign@|@trafiko-seinale@
+@traffic signal@|@semaforo@
+@tragic actor@|@antzezlari tragiko@
+@trail@|@bide@
+@train@|@tren@
+@train station@|@tren geltokia@
+@tranquil@|@lasai, trankil@
+@transform@|@transformatu@
+@translate@|@itzuli@
+@translation@|@itzultze@
+@translator@|@itzulitzaile, itzultzaile@
+@transmission@|@transmisio@
+@transmission chain@|@transmisio-kate@
+@trap@|@tranpa-sare@
+@trap net@|@tranpa-sare@
+@trash can@|@zakarrontzia@
+@travesty@|@parodia@
+@tread on@|@zuzitu@
+@treat@|@tratatu@
+@tree@|@arbola, zuhaitz@
+@tree diagram@|@zuhaitz-diagrama@
+@tree sparrow@|@landa-txolarre@
+@tree swallow@|@zuhaitz-enara@
+@tremor@|@ikara@
+@trench@|@lubaki, trintxera@
+@triangle@|@triangelu@
+@tribunal@|@epaimahai, epaimahai (B)@
+@tribute@|@zerga@
+@trigger fish@|@baleztarrain@
+@trigonometry@|@trigonometria@
+@trip@|@bidai, bidaia@
+@tripe@|@tripakiak@
+@triple@|@hiruko, hirukoitz@
+@trousers@|@prakak@
+@truck@|@kamioi@
+@trump (card-games)@|@triunfo@
+@trumpet fish@|@arrain tronpetari@
+@trunk@|@gorputz-enbor@
+@truth@|@egi, egia@
+@try@|@eginahal@
+@tube@|@tutu@
+@Tuesday@|@astearte@
+@tumor@|@tumore@
+@tuna fish@|@atuna@
+@turkey@|@indioilar@
+@turkey vulture@|@sai papargorri@
+@turmoil@|@iskanbilak, nahaste-borraste@
+@turn (as in 'it's your turn')@|@txanda@
+@turn around@|@bira eragin, buelta eman, itzuli, jiratu@
+@turn aside@|@aldendu@
+@turn of phrase@|@esaera@
+@turn of the tide@|@joeraren aldaketa@
+@turn on@|@piztu@
+@turn over@|@irauli@
+@turn round@|@jiratu@
+@turnip@|@arbi@
+@turtle@|@dordoka@
+@tweezers@|@pintzak@
+@twelve@|@hamabi@
+@twentieth@|@hogeigarren@
+@twenty@|@hogei, hogoi@
+@twig@|@txotx@
+@twin@|@biki, bizki@
+@twisted@|@oker@
+@two@|@bi@
+@two each@|@bina@
+@typewriter@|@idazmakina@
+@typhoid fever@|@sukar ustel@
+@ugly@|@itsusi@
+@ulterior motive@|@bigarren asmo@
+@umbrella@|@aterki, euritako, goardasol@
+@uncle@|@osaba@
+@uncooked@|@gordin@
+@under@|@-pe(an)@
+@under lock and key@|@giltzapeturik@
+@under pressure@|@behartuta@
+@underneath@|@-pe(an)@
+@understand@|@aditu@
+@understanding@|@ulertzen@
+@undo@|@zuzitu@
+@uniform@|@uniforme@
+@unit@|@ale@
+@United States@|@Estatu Batuak@
+@universe@|@unibertso@
+@university@|@unibertsitate@
+@unproductive@|@agor@
+@unruly@|@disziplinarik gabe@
+@until@|@arte@
+@until further notice@|@berri eman arte, berriro jakinarazi arte@
+@until...; between@|@artean@
+@up river@|@ibaian gora@
+@up to@|@ganaino@
+@upper class@|@goi-klase@
+@urine@|@gernu@
+@use@|@erabil@
+@vaccum@|@xurgagailu@
+@vacuum@|@irenskailu@
+@valley@|@aran, haran, ibar@
+@valve@|@balbula@
+@vampire@|@banpiro@
+@vase (of flowers)@|@lorontzi@
+@vegetable fat@|@landare-olio@
+@vegetable garden@|@baratz@
+@vegetable soup@|@berdura-zopa@
+@vehemently@|@sukar-ki@
+@vein@|@zain@
+@velocity@|@abiada, abiadura, abidxada, lastertasun@
+@vend@|@saldu@
+@venus@|@argi ixerra@
+@verify@|@egiaztatu@
+@vermut@|@bermuta@
+@vernal equinox@|@udaberriko ekinozio@
+@versatile@|@erabilera askotako, eskuanitz@
+@verse@|@bertso, bertsolari@
+@version@|@bertsio@
+@very@|@biziki@
+@very best@|@jator@
+@very much@|@asko@
+@vigorous@|@sendo@
+@violence@|@biolentzia@
+@violent@|@gogor@
+@violinist@|@bibolinista@
+@virgin@|@birjina@
+@virgin olive oil@|@oliba-olio birjina@
+@visitor@|@bisitari@
+@vocabulary@|@hiztegi@
+@voice@|@ahots@
+@volatile@|@hegazkor, lurrinkor@
+@vote@|@boto@
+@vowel@|@bokal@
+@vulture@|@sai@
+@vulva@|@alu@
+@wagon@|@gurdi@
+@waist@|@gerri@
+@wait@|@itxoin@
+@waiting@|@igurika, zai@
+@waitress@|@zerbitzaria@
+@wake up@|@itzarri@
+@walk@|@txango@
+@wall@|@horm, horma@
+@wall light@|@aplike@
+@walnut@|@intxaur@
+@walrus@|@mortsa@
+@war@|@gudu@
+@warcry@|@gerra-deiadar@
+@warm@|@bero, epel@
+@warm up@|@berotu@
+@warning@|@ohar@
+@warp@|@konkortu@
+@warrior@|@gerlari@
+@was@|@zegoen, zen@
+@washer@|@garbigailu@
+@wasp@|@liztor@
+@wastepaper basket@|@paperontzi@
+@watch@|@erloju, erlojua@
+@watch out@|@kontuz ibili@
+@watch your step!@|@kontuz ibili!@
+@water@|@ur@
+@water table@|@ur-geruza@
+@watermelon@|@angurri, sandia@
+@wax@|@ezko@
+@we@|@gu@
+@we are@|@gabiltza@
+@we are late@|@berandu gara@
+@we have@|@badaukagu@
+@weak@|@ahul@
+@wealth@|@ondasun@
+@weather@|@eguraldi@
+@Wednesday@|@Asteazken@
+@weed@|@belar gaizto, belar txar, jorratu@
+@weed out@|@jorratu@
+@weekday@|@astegune@
+@weekend@|@asteburu@
+@well@|@iturri, putzu@
+@well behaved@|@txintxo@
+@well-being@|@ongizate@
+@wept@|@malko batzuk atera@
+@we're booked up@|@sarrerak@
+@west@|@mendebalde@
+@west wind@|@mendebal-baize, mendebaldeko haize@
+@whale@|@balea@
+@whale shark@|@marrazo balea@
+@whale-shark@|@marrazo balea@
+@what@|@zer@
+@What happened?@|@Zer gertatu zen?@
+@what?@|@zerk?@
+@whatever@|@edozer, zernahi@
+@what's the good of it?@|@zertako da?@
+@What's up?@|@Zer dugu?@
+@wheat@|@gari, garia@
+@wheel@|@gurpil@
+@when@|@noiz@
+@when (subordinating conj.)@|@-enean@
+@when...for?@|@noizko@
+@where@|@non@
+@Where are you from?@|@Nongoa zara?@
+@where to@|@no-ra@
+@Where were you born?@|@Non Jaio zinen?@
+@where...for@|@norako@
+@wherefrom@|@non-dik@
+@wherever@|@edonon, nonahi@
+@which@|@zein@
+@which (pl.)@|@zeintzu@
+@which corresponds to me@|@dagokidan@
+@which is@|@dagoen@
+@whichever@|@edozein, zeinhai, zeinnahi@
+@while@|@bitartean@
+@whip@|@zartailu, zigor@
+@whip up@|@harrotu@
+@whistle@|@txistu egin@
+@white@|@txuri@
+@white magic@|@sorginkeria beltz@
+@white shark@|@marrazo zuri@
+@white; to you@|@zuri@
+@white-winged lark@|@kalandria hegalzuri@
+@who@|@nor@
+@who (pl)@|@nortzu@
+@who?@|@nork?@
+@whoever@|@edonor, nornahi@
+@whole@|@gutzi, sendo@
+@whore@|@emagaldu, puta@
+@whose turn is it?@|@noren txanda da?@
+@why@|@zergaitik@
+@wicked@|@gaizto@
+@wicker basket@|@txistera@
+@wide@|@xabal, zabal@
+@widow@|@alardun, alargun@
+@wierd@|@bitxi@
+@wife@|@emazte@
+@wig@|@ileorde, perruka@
+@wiggle@|@kulunkatze@
+@will@|@gogo@
+@will bring@|@ekarriko@
+@will dance@|@dantzatuko@
+@will have to@|@beharko@
+@will help@|@lagunduko@
+@will wake up@|@esnatuko@
+@willow@|@sahats@
+@win@|@gailendu, irabazi@
+@win around@|@i-r i-en arrazoietara bildu@
+@win back@|@berreskuratu@
+@win over@|@i-r i-en arrazoietara bildu@
+@wind@|@haize@
+@wind direction@|@haizearen direkzio@
+@wind generator@|@sorgailu eoliko@
+@wind power@|@haize-energia@
+@wind shear@|@haizearen zizailadura@
+@wind sock@|@haize-kono@
+@wind speed@|@haizearen abiadura@
+@wind tunnel@|@haize-tunel@
+@windmill@|@sorgailu eoliko@
+@window@|@lehiatilaren, leiho, leihoa@
+@wine@|@ardo, ardoa, arno@
+@wing@|@hega@
+@wink@|@begi-keinu@
+@winter@|@negu@
+@wire@|@alanbre, hari@
+@wise@|@zuhur@
+@wish@|@gurari, nahi@
+@witch@|@oilar lerrozuzen, sorgin@
+@with@|@(r)ekin@
+@with (accompaniment-suffix)@|@-ekin@
+@with best wishes@|@eskumuinak@
+@with horns@|@adardun@
+@with one accord@|@aho batez@
+@with the friends@|@lagunekin@
+@with this@|@honekin@
+@without@|@gabe@
+@without delay@|@luzatu gabe@
+@without protest@|@protestatu gabe@
+@witness@|@lekuko@
+@witness a signature@|@sinadura egiaztatu@
+@witticism@|@ateraldi@
+@wizard@|@azti@
+@wolf@|@otso@
+@woman@|@emakume@
+@wont@|@gurari@
+@wood@|@baso, egur, oihan, zur, zura@
+@wooden@|@zurezko@
+@wooden building@|@zurezko eraikuntza@
+@wooden rod@|@zurezko hagaxka@
+@woodpecker@|@okil@
+@wool@|@artile@
+@word@|@hitz@
+@word for word@|@hitzez hitz@
+@work@|@lan@
+@worker@|@langile@
+@working class@|@langile-klase@
+@workplace@|@lantegi@
+@world@|@mundu@
+@worm@|@har@
+@worship@|@gurtu@
+@wreath@|@koroa@
+@wrench@|@giltza@
+@wrist@|@ukarai@
+@write@|@idatzi@
+@writer@|@idazle, idazle@
+@written in ink@|@tintaz idatzirik@
+@wrongly@|@oker@
+@wrought iron@|@burdina forjatu@
+@x-fay@|@erradigrafia@
+@X-ray@|@x-izpi@
+@X-ray machine@|@X-izpi aparatu@
+@yarn@|@hari, hari lodi@
+@year@|@urte@
+@yellow fever@|@sukar hori@
+@yes@|@bai@
+@yesterday@|@atzo@
+@yew@|@hagin@
+@yield@|@uzta@
+@yield (production)@|@emaitza, emari@
+@yolk@|@gorringo@
+@you@|@hi, hik, zu@
+@you (pl)@|@zuek@
+@you are@|@zara, zaude@
+@you have@|@badaukazue@
+@you know@|@badakizu@
+@you were not at fault@|@ez zinen erruduna@
+@young@|@gazte@
+@young people@|@gazte jentea@
+@your@|@zure@
+@your (pl.)@|@zuen@
+@your (reflexive)@|@zeure@
+@you're welcome@|@ez dago zergatik, ez horregatik@
+@yourself (anaph.pron.)@|@heure burua@
+@yourselves (anaph. pron.)@|@zeuen burua(k)@
+@zebra@|@zenbra@
+@zinc@|@zink@
+@zoology@|@zoologia@
+

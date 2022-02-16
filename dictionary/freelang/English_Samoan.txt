@@ -1,0 +1,677 @@
+@English@|@Samoan@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a boiled egg@|@o se fuamoa saka@
+@a club-foot@|@fa'avaesape@
+@a cup of tea@|@se ipu ti@
+@a day@|@Mo se aso@
+@a fishing line@|@afo@
+@a fried egg@|@o se fuamoa falai@
+@a god@|@sauali'i@
+@a kind of disease@|@manemane@
+@a large edible grub@|@afato@
+@a large quantity@|@aneanea@
+@a pot of tea@|@se tipoti ti@
+@a room with a bath@|@o se potu e i ai se fale taele@
+@a species of mussel@|@'u'u@
+@a week@|@Se Vaiaso@
+@above@|@i luga@
+@after@|@tua@
+@all@|@'ätoa@
+@allbino@|@tetea@
+@an opening in the coral reef@|@ava@
+@and@|@ma, ma le@
+@And you?@|@Ma oe?@
+@another chair@|@se isi nofoa@
+@apple@|@apu@
+@Are there?@|@O i ai ni ?@
+@armful@|@afisiga@
+@ash@|@lefulefu@
+@ashamed@|@mä@
+@ashes@|@lefu@
+@aslant@|@fa'a-sapasapa@
+@assembly@|@aofia@
+@at@|@i, i le@
+@away@|@atu@
+@back@|@tua@
+@back way@|@alatua@
+@bad@|@leaga@
+@banana@|@fa'i@
+@be eaten by white ants@|@anea@
+@be knowledgeable@|@ilo-a@
+@beautiful@|@matagöfie@
+@bedew@|@fa'a-sau@
+@before@|@luma@
+@before noon@|@ao-atea@
+@belly@|@manava@
+@below@|@i lalo@
+@better@|@feoloolo@
+@big@|@tele@
+@bird@|@manu@
+@black@|@uliuli@
+@blood@|@toto@
+@boiled@|@saka@
+@bone@|@ivi@
+@branch@|@lälä@
+@breast@|@susu@
+@brightly@|@saesae@
+@building@|@fale@
+@by@|@e@
+@bye-path@|@ala'alo@
+@Can I have..?@|@E mafai ona ave ma au ?@
+@Can you help me?@|@E mafai ona e fesoasoani mai?@
+@cannibal@|@sau'aitagata@
+@canoe@|@va'a@
+@carrots@|@karoti@
+@centipede@|@atualoa@
+@cheap@|@taugöfie@
+@cheers@|@manuia@
+@chicken@|@moa@
+@chief@|@ali'i@
+@chief's hair@|@lauao@
+@child@|@tamaitiiti@
+@Chinese rose@|@'aute@
+@clever@|@atamai@
+@cloud@|@ao@
+@cloudy@|@lagilagia@
+@cold@|@ma'alili, mälülü@
+@colecction@|@aofaga@
+@college@|@kolisi@
+@coral reef@|@a'au@
+@correct@|@sa'o@
+@day@|@ao, aso@
+@day-dance@|@aoula@
+@daylight@|@ao@
+@deliberate@|@fa'a-sauea@
+@dew@|@sau@
+@difficult@|@faigatä@
+@dirty@|@'ele'elea@
+@dog@|@'ulï@
+@don't!@|@'aua@
+@down@|@lalo@
+@dry@|@mago@
+@duck@|@pato@
+@dull@|@matatupa@
+@dust@|@efu, pefu@
+@ear@|@taliga@
+@early@|@vave@
+@earth@|@lalolagi@
+@easy@|@faigoöfie@
+@egg@|@fuämoa@
+@eight@|@valu@
+@empty@|@gaogao@
+@evil@|@leaga@
+@excuse@|@alami@
+@excuse me@|@tulou@
+@expensive@|@taugatä@
+@eye@|@mata@
+@family@|@aiga@
+@far@|@mamao@
+@fat@|@ga'o@
+@father@|@tamä@
+@feather@|@fulu@
+@fibers of a root@|@a'a@
+@fine@|@manuia@
+@fire@|@afi@
+@First class please@|@Vaega faapitoa@
+@First or second class?@|@Mo le vaega faapitoa, poo le vaega mo le lautele@
+@fish@|@aualele, i'a@
+@five@|@lima@
+@five spans@|@limasaga@
+@flower@|@funa@
+@foeces@|@tae@
+@fog@|@puao@
+@foot@|@vae@
+@For how long?@|@Mo le a le umi?@
+@forbidden@|@sa@
+@forest@|@vao@
+@fork@|@o se tui@
+@forward@|@alai@
+@four@|@e fä@
+@four days@|@Fa aso@
+@fried@|@falai@
+@friendless@|@neva@
+@from@|@mai@
+@fruit@|@fua@
+@full@|@tumu@
+@glass@|@o se ipu malama lama@
+@glue@|@pulu@
+@god@|@atua@
+@good@|@lelei@
+@good evening@|@talofa alii@
+@good evening madam@|@talofa tamaitai@
+@good luck@|@meaaitu@
+@good morning@|@Talofa@
+@good-bye@|@tofa@
+@goods@|@oloa@
+@grass@|@mutia@
+@green@|@lanumeamata@
+@green beans@|@pi lanu meamata@
+@green salad@|@salati fualaau@
+@grilled@|@tunupau@
+@hair@|@lau ulu@
+@hand@|@lima@
+@handle@|@'au@
+@handsome@|@aulelei@
+@haughty@|@fa'a-sausili@
+@Have you a reservation?@|@Ua i ai sou avanoa?@
+@Have you any ?@|@E i ai ni au ...?@
+@Have you any chicken soup?@|@E i ai sau supo moa?@
+@Have you any ice-cream?@|@O i ai se aisi kulimi?@
+@he/she@|@ia@
+@head@|@ulu@
+@heavy@|@mamafa@
+@here it is@|@O lea@
+@hereafter@|@amuli@
+@here's the confirmation@|@o le faama oniga lea@
+@his/hers@|@lana@
+@Hold the line@|@Taofi le laina@
+@hot@|@vevela@
+@house@|@fale@
+@How are you?@|@O a mai oe@
+@How much?@|@E fia?@
+@how?@|@fa'apëfea@
+@How?@|@fa'a-a@
+@human being@|@tagata@
+@human excrement@|@momotae@
+@Hurry up!@|@Faavave!@
+@husband@|@t6ane, täne@
+@I@|@a'u@
+@I don't like it@|@ou te le manao i ai@
+@I don't understand@|@Ou te le malama lama@
+@I understand@|@Ua ou malamalama@
+@ice@|@aisa@
+@I'd like a bottle of wine@|@Ou te manao i se fagu uaina@
+@I'd like a car@|@Ou te manao i se taavale@
+@I'd like a double room@|@Ou te manao i se potu toa lua@
+@I'd like a single room@|@Ou te manao i se potu toatasi@
+@I'd like a ticket to ...@|@Ou te manao i se pepa mo ...@
+@I'd like it...@|@Ou te manao ai@
+@I'd like some beef@|@Ou te manao i sina fasi povi@
+@I'd like some fish@|@Ou te manao i se ia@
+@I'd like some...@|@Ou te manao ..., Ou te manao i sina ...@
+@I'd like..@|@Ou te mana'o@
+@if@|@'ana@
+@I'll have@|@Aumai sau@
+@I'll have a beer@|@Aumai sau pia@
+@I'll have a whiskey@|@Aumai sau uisiki@
+@I'll have some fruit juice@|@Aumai sau vai inu@
+@I'll take it@|@O le a ou taliaina@
+@I'm hungry@|@Ua ou fia ai@
+@I'm in a hurry@|@O le a ou te faa natinati@
+@I'm lost@|@Ua ou leiloa@
+@I'm sorry@|@Ia e malie@
+@I'm thirsty@|@Ua ou fia inu@
+@I'm tired@|@Ua ou vaivai@
+@I'm very pleased to meet you@|@Ua ou fiafia ua ta teiloai@
+@in@|@totonu@
+@inside@|@fale, totonu, totonu@
+@intelligent@|@atamai@
+@interior@|@loto@
+@intestines@|@gä'au@
+@Is there ?@|@O i ai se ?@
+@Is there any mail for me?@|@O i ai sau meli?@
+@It isn't ...@|@E le o i ai ...@
+@It's important@|@E taua@
+@It's urgent@|@E faavave@
+@I've been cut off@|@Ua motu mai@
+@Just a minute@|@Mo se minute@
+@keepsake@|@aualofa@
+@knife@|@o se naifi@
+@lake@|@lano@
+@late@|@tuai@
+@lawyer@|@loia@
+@leaf@|@lau@
+@left@|@tau-agavale@
+@leg@|@vae@
+@light@|@mämä@
+@lightning@|@uila@
+@Like what?@|@fa'a-a?@
+@liver@|@ate@
+@lobster@|@ula lapoa@
+@long@|@'umi@
+@louse@|@'utu@
+@love@|@alofa@
+@low@|@hanene@
+@male@|@täne@
+@man@|@tagata, täne@
+@May I have my bill?@|@E mafai ona aumai au pili?@
+@May I have the bill check?@|@Sei siaki ane lava lau pili?@
+@May I see the room?@|@E mafai ona ou vaai i le potu?@
+@meat@|@'a'ani@
+@medium@|@tau faavela@
+@melon@|@meleni@
+@Milky Way@|@'aniva@
+@mischievous@|@sasau@
+@mist@|@puao@
+@moon@|@mäsina@
+@mosquito@|@namu@
+@mother@|@tinä@
+@mouth@|@gutu@
+@murderer@|@aitutagata@
+@mushrooms too@|@pulou aitu@
+@mutton@|@mamoe@
+@My name is..@|@O lou igoa o ...@
+@name@|@igoa@
+@napkin@|@o se solo gutu@
+@narrow@|@lauitiiti@
+@near@|@lata, latalata@
+@neck@|@ua@
+@needle@|@au@
+@nest@|@ofaga@
+@new@|@fou@
+@newspaper@|@niusipepa@
+@night@|@pö@
+@nine@|@iva@
+@no@|@leai@
+@noon@|@oatea@
+@northerly wind@|@fa'atiu@
+@nose@|@isu@
+@nothing@|@leai se mea@
+@nothing at all@|@leai, leai se mea@
+@nothing more@|@e leai se isi mea@
+@Number 123@|@Numera tasi lua tolu@
+@O i ai sau meli?@|@O i ai ni feau mo au?@
+@of@|@a@
+@oh!@|@aue@
+@old@|@matua, tuai, tuai@
+@on@|@i luga@
+@one@|@e tasi@
+@one hundred@|@lau@
+@one kind of song@|@sagimi@
+@one thousand@|@afe@
+@onion soup@|@supo aniani@
+@onions@|@aniani@
+@open@|@tatala@
+@Operator@|@Tali telefoni@
+@oppresive@|@saulala@
+@or@|@poo@
+@orange juice@|@sua moli@
+@other@|@'esse@
+@outside@|@fafo@
+@painful@|@ma'i@
+@pancreas@|@atepili@
+@parent@|@matua@
+@passage for canoes@|@alava'a@
+@path@|@ala@
+@peas@|@pi@
+@person@|@tagata@
+@pierce@|@tui@
+@plate@|@o se ipu mafola fola@
+@please@|@fa'amolemole@
+@Please give me ...@|@faamolemole aumai@
+@polite@|@amioali'i@
+@pork chop@|@fasi puaa@
+@praws@|@tamai ula@
+@probably@|@ai@
+@quick@|@tope@
+@rain@|@timu@
+@rainbow@|@nuanua@
+@rare@|@faa matamata@
+@rat@|@'imoa@
+@red@|@'ula@
+@red cabbage@|@kapisi mumu@
+@red wine@|@uaina mumu@
+@rice@|@araisa@
+@right@|@sa'o, tau-matau@
+@river@|@vaitafe@
+@road@|@ala@
+@roast chicken@|@moa tao@
+@roast pork@|@fasi puaa tao@
+@root@|@a'a@
+@rope@|@maea@
+@rotten@|@pala@
+@salt@|@mäsima@
+@sanake@|@gata@
+@sand@|@oneone@
+@sea@|@sami@
+@see you later@|@Feiloai@
+@seven@|@fitu@
+@sexual connection@|@apa@
+@sexual intercourse@|@fali@
+@shadow@|@ata@
+@sharp@|@ma'ai@
+@sharp fish-thorn@|@au@
+@short@|@pu'upu'u, sa'asa'a@
+@short man@|@sa'a@
+@shoulder@|@tau'au@
+@showing@|@fa'a-aliga@
+@shrimp@|@ula vai@
+@shuffling gait@|@fa'a-sapesape@
+@shut@|@tapuni@
+@shy@|@matamuli@
+@sick@|@ma'i@
+@sign@|@sasa@
+@Single or return@|@Malaga na o le alu, po o ma le toe foi mai@
+@sinnet@|@'afa@
+@six@|@ono@
+@skin@|@pa'u@
+@sky@|@lag, lagi@
+@slow@|@gese@
+@small@|@itiiti, la'itiiti@
+@smell@|@sogi@
+@smoke@|@asu@
+@smoked salmon@|@samani faaasu@
+@some bacon@|@sina fasi@
+@some bread@|@sina falaoa@
+@some chocolate@|@sina sukalati@
+@some coffee@|@sina kofe@
+@some ham@|@puaa faasu@
+@some hot water@|@sina vai vevela@
+@some roast beef@|@sina fasi povi tao@
+@some toast@|@sina fasi falaoa faapa'u@
+@soon@|@toeitiiti@
+@soup@|@supo@
+@spam@|@äga@
+@sparks from the fire@|@aloiafi@
+@spider@|@'pogäleveleve@
+@spirit@|@aitu, eitu@
+@spoon@|@o se sipuni@
+@star@|@fetü@
+@steam@|@ausa@
+@stick@|@lä'au@
+@stone@|@ma'a@
+@store@|@faleoloa@
+@storm@|@afä@
+@stout@|@maluali'i@
+@tail@|@i'u, si'usi'u@
+@Take me to this address@|@Ave au i le tua tusi lea@
+@temporary hut@|@apitaga@
+@ten@|@gafulu, sefulu@
+@thank you@|@fa'afetai@
+@Thank you-that was a very good@|@Faafetai-manaia tele le mea ai@
+@that@|@lela, lena@
+@thatch@|@ato@
+@that's all right@|@'ua lelei@
+@that's fine@|@ua lelei@
+@That's my suitcase@|@O lau ato pau lena@
+@the back of the reef@|@tuaa'au@
+@the basin of a waterfall@|@sani@
+@the evening@|@afiafi@
+@the evening after the sunset@|@afiafimalama@
+@the evening at dusk@|@afiafipo@
+@the evening before sunset@|@afiafiao@
+@the going of a canoe@|@alumaga@
+@the light@|@o le moli@
+@the middle of the road@|@lotoala@
+@the morning star@|@fetuago@
+@the outrigget of a canoe@|@ama@
+@the road side@|@'auala@
+@the seat of affections@|@alo@
+@the socket@|@o le soketi@
+@the sum total@|@aofa'iga@
+@the tap@|@o le paipa@
+@the thick part of the arm@|@atelima@
+@the toilet@|@o le fale uila@
+@the white ant@|@ame@
+@There aren't@|@E leai ni@
+@There aren't any@|@E leai ni mea@
+@There is ...@|@O loo i ai ...@
+@There isn't@|@E leai se@
+@There isn't any@|@E leai se mea@
+@There's a call for you@|@O loo i ai se feau mo oe@
+@There's no hot water@|@E le o i ai se vai vevela@
+@they@|@lätou@
+@thick@|@mafia@
+@thin@|@manifi@
+@this@|@lenei@
+@this is Mr.@|@O le tama lea@
+@this is Mrs.@|@O le tina lea@
+@this way@|@O le itu ala lea@
+@thou@|@'oe@
+@three@|@tolu@
+@thunder@|@fäititili@
+@time@|@taimi@
+@to act like a gentleman@|@agaali'i@
+@to appear@|@ali, aliali@
+@to arise@|@ala@
+@to ascend@|@'a'e@
+@to assist@|@taumanavalofa@
+@to awake@|@alaina-'ai@
+@to bark@|@ou@
+@to be bandy-legged@|@fa'a-saesae@
+@to be blind@|@tauaso@
+@to be burnt@|@äfia@
+@to be burnt brown@|@afulumea@
+@to be cloudy@|@fa'a-tinifu, lagilagiä@
+@to be confined@|@apitia@
+@to be confused@|@mimio@
+@to be cruel@|@suaua@
+@to be dumb@|@gugu@
+@to be frightened@|@atuapaoa@
+@to be giddy@|@niniva@
+@to be haunted@|@aitua@
+@to be hurt@|@afaina@
+@to be in swarms@|@mumu@
+@to be intrincate@|@mumi@
+@to be languid@|@tuneva@
+@to be misty@|@fa'a-nefunefu@
+@to be narrow@|@apiapi@
+@to be night@|@po'ele'ele@
+@to be oppresive@|@fa'a-saua, fa'a-sautoga@
+@to be over cooked@|@afulu@
+@to be pale@|@teateaval, teateavale@
+@to be perplexed@|@atu@
+@to be slow in walking@|@fanene@
+@to be smooth@|@mole@
+@to be spit upon@|@anusia@
+@to be spotted@|@purepure@
+@to be stirred up@|@nefu@
+@to be supreme@|@aoao@
+@to be torn@|@masae@
+@to be unequal@|@sapa@
+@to be wasted from sickness@|@agosi@
+@to beat the wood drum@|@säumoa@
+@to begin@|@afua@
+@to bite@|@'ati@
+@to blow@|@agi@
+@to blow at night@|@agipö@
+@to blow steadily@|@agilaufola@
+@to breathe@|@mänava@
+@to burn@|@mu@
+@to buy@|@tautotogi@
+@to carry away@|@au@
+@to carry on the shoulder@|@amo@
+@to cause a blow@|@fa'a-agi@
+@to cause ascend@|@fa'a-a'e@
+@to chew@|@lamu, mama@
+@to choose@|@filifili@
+@to climb@|@a'e@
+@to cling@|@'apo@
+@to collect@|@ao@
+@to collect together@|@aofa'i@
+@to come@|@ö mai, sau@
+@to cook@|@tao@
+@to correspond@|@feagai@
+@to count@|@faitau@
+@to cover up@|@aputi@
+@to cover with wings@|@ofaofata'i@
+@to cry@|@tagi@
+@to cut@|@fa'a-mutu@
+@to dance@|@sa'a@
+@to die@|@mate@
+@to dig@|@'eli, 'oso@
+@to dip out@|@asu@
+@to do@|@aga@
+@to dream@|@miti/@
+@to drink@|@inu@
+@to drive@|@alei@
+@to dwell inland@|@aiuta@
+@to eat@|@'ai@
+@to fall@|@pa'ü@
+@to fan@|@älo@
+@to fear@|@fefe, mata'u@
+@to feel remorse@|@salamövale@
+@to fine@|@fa'a-sala@
+@to flow@|@tafe@
+@to fly@|@lele@
+@to forbid@|@'eti@
+@to gather all into one@|@aotele@
+@to glisten@|@atagia@
+@to glue@|@puluti@
+@to go@|@alu@
+@to go all together@|@alusopo@
+@to go direct@|@alamu@
+@to go towards@|@amio@
+@to grow@|@tupu@
+@to growl@|@gu@
+@to grumble@|@tomumu@
+@to have authority over@|@aia@
+@to hawk up@|@anusalo@
+@to hear@|@fa'a-logo@
+@to hearten@|@fa'amafanafana@
+@to hide@|@lafi@
+@to hit@|@tä@
+@to hold@|@'u'u@
+@to hold in the hands@|@sapai@
+@to hunt@|@tuli@
+@to keep moving on@|@savalivali@
+@to kill@|@fasioti@
+@to konow@|@ilo-a@
+@to laugh@|@'ata@
+@to leap upon@|@lalo@
+@to lie down@|@taliaga@
+@to live@|@ola@
+@to lodge@|@api@
+@to love mutually@|@fealofani@
+@to make noise@|@talau@
+@to make spacious@|@fa'aateatea@
+@to male smooth@|@fa'amolemole@
+@to murmur@|@mui@
+@to open@|@matala@
+@to overflow@|@alasolo@
+@to paddle@|@alofaki@
+@to plant@|@tö@
+@to pound@|@tu'itu'i@
+@to repent@|@salamö@
+@to rise@|@laga@
+@to rise up@|@malaga@
+@to rub smooth@|@saluvalu@
+@to run swiftly@|@'aulele@
+@to sake@|@salu'u@
+@to say@|@tautala@
+@to scrape out@|@salu@
+@to scratch@|@valu lala'u@
+@to see@|@va'ai@
+@to sew@|@su'i@
+@to shake@|@lùlù, salu'u@
+@to shoot@|@fana@
+@to show@|@fa'ali@
+@to show distinctly@|@fa'a-alitino@
+@to show respect to@|@migao@
+@to sit@|@nofo@
+@to sit in a circle@|@alofi@
+@to sleep@|@moe@
+@to sleep away from home@|@aumoe@
+@to snare@|@sele@
+@to sniff@|@sogi, soni@
+@to speak@|@lalau@
+@to speak thickly@|@amu@
+@to spit@|@anu@
+@to split@|@isi@
+@to squeeze@|@'o'omi@
+@to stab@|@tui@
+@to stand@|@tü@
+@to stand out visibly@|@tualiali@
+@to steal@|@gaoi@
+@to stink@|@alo, elo@
+@to strike@|@ta@
+@to suck@|@susu@
+@to sun the body@|@atafu@
+@to swell@|@fula@
+@to swin@|@'a'au@
+@to tatch@|@ato@
+@to tatch with@|@atofa'i@
+@to teach@|@a'o@
+@to tear@|@sasae@
+@to tear off the bark@|@sae@
+@to think@|@mäfaufau@
+@to throw@|@togi@
+@to tickle@|@eneene@
+@to tie up@|@noa@
+@to turn@|@fäliu@
+@to twine round@|@migomigoi@
+@to vomit@|@pua'i@
+@to walk@|@savali@
+@to wander about@|@mio@
+@to warm up@|@fa'a-fana@
+@to whisper@|@'a'amu@
+@to work@|@galue@
+@to yawm@|@mävava@
+@to yeld from love@|@gaualofa@
+@tomatoes@|@tamato@
+@tongue@|@alelo, lalaufaiva@
+@tooth@|@nifo@
+@torch@|@sulu@
+@toungue@|@laulaufaiva@
+@towards@|@agai@
+@tree@|@la'au@
+@true@|@sa'o@
+@turned up@|@sape@
+@twenty@|@lua sefulu@
+@two@|@lua@
+@two weeks@|@lua vai aso@
+@ugly@|@mataga@
+@ulcer hard to heal@|@'aigaaitu@
+@uncover@|@matala@
+@underside@|@alo@
+@until@|@seia@
+@up@|@'luga@
+@vapor@|@ausa@
+@vegetable soup@|@supo fualaau@
+@very well@|@manuia@
+@wailing@|@lauaitu@
+@war-lodgins@|@apitau@
+@warm@|@mäfanafana@
+@water@|@vai@
+@way@|@ala@
+@we@|@mätou, tätou@
+@well@|@auä@
+@well done@|@faavela lelei@
+@We're in a great hurry@|@Ua ma faavavevave lava@
+@wet@|@susü@
+@whale's teeth@|@lei@
+@What do you call this?@|@O le a le ta'u o le mea lea?@
+@What does this mean?@|@O le a le uiga lemea lea?@
+@What would you like o drink?@|@O le a lau vai inu?@
+@what?@|@'o le ä@
+@What?@|@A?@
+@What's my room number?@|@faamolemole?, O le a le numera o lou potu@
+@What's the fare to ... ?@|@O le a le totogi i ... ?@
+@What's the price per month?@|@E mafai ona ou vaai i le potu?@
+@What's the price per night?@|@O le a le tau mo le po e tasi?@
+@What's the price per week?@|@O le a le tau mo le vaiaso?@
+@when?@|@afea, ahea, anafea@
+@Where is he?@|@O ifea o i ai o ia?@
+@Where is?@|@O fea o i ai?@
+@where?@|@'o fea@
+@Where's the ladies' toilet?@|@O fea le fale uila o tamaitai?@
+@Where's the men's toilet?@|@O fea le fale uila o alii?@
+@white@|@pa'epa'e@
+@white ant@|@ane@
+@Who is it ?@|@O ai lea ?@
+@who?@|@'o ai@
+@whrilwind@|@asiosio@
+@Why?@|@Aisea?@
+@wide@|@ateate, lautele@
+@wife@|@ävä@
+@wind@|@matagi@
+@wing@|@'apa'au@
+@with@|@faatasi@
+@without@|@e le i ai@
+@woman@|@fafine@
+@wood@|@lä'au@
+@woods@|@vao@
+@worm@|@'anufe@
+@worm eaten@|@manemanea@
+@worse@|@leaga tele@
+@wrinkled@|@sa'amu'u@
+@wrong@|@sala, sesë@
+@year@|@tausaga@
+@yellow@|@sämasama@
+@yes@|@'ioe, e, oe@
+@you@|@'outou@
+@young@|@la'itiiti@
+@young coconut@|@aleale@
+@your passport-please@|@O lou tusi folau faamolemoele@
+

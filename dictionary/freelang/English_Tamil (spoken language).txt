@@ -1,0 +1,339 @@
+@English@|@Tamil (spoken language)@
+@Author name@|@Vikram@
+@Font@|@Arial\12\Arial\12@
+@a little@|@kondjam@
+@above@|@maelae@
+@address@|@vilAsam@
+@after noon@|@madyAnam@
+@after to morrow@|@nAl annaikki@
+@again@|@maRumbediyum@
+@all@|@aellArum@
+@always@|@aeppevum, aeppOdum@
+@and@|@-um@
+@any@|@aedAvudu@
+@bad@|@mosamAne@
+@bag@|@pai@
+@banana@|@vAlapajam@
+@beautiful@|@ajagane@
+@belly@|@vayiru@
+@big@|@periye@
+@bird@|@kuruvi, paraevae@
+@blood@|@rattam@
+@boy@|@paiyan@
+@but@|@AnnA@
+@buy@|@vAngu@
+@calm@|@amaedi@
+@candle@|@maejuguvatti@
+@celebration@|@vijA@
+@chair@|@nAkAli@
+@child@|@kujandae@
+@cissors@|@katterikkol@
+@clothes@|@ADae, uDae@
+@coconut@|@taengAy@
+@cold@|@kuLir@
+@colour@|@niRam@
+@confidence@|@nambikkae@
+@conversation@|@uraeyADal@
+@convinient@|@vasediyAne@
+@cough@|@irumel@
+@country@|@nADu@
+@courage@|@tuNiccel@
+@cow@|@pasumADu@
+@damp@|@iiremAne@
+@danger@|@abAyam@
+@dark@|@iruTTane@
+@daughter@|@magae@
+@day@|@nAL@
+@decision@|@muDivu@
+@detail@|@vibaram@
+@differnce@|@vityAsam@
+@diifculty@|@kaSTam@
+@diificult@|@kaSTmAne@
+@dirty@|@asuttemAne, suttam illade@
+@dog@|@nAy@
+@door@|@kadavu@
+@downside@|@kiijae@
+@drone@|@VaNDu@
+@drug@|@marundu@
+@dust@|@tUsi@
+@each@|@ovvoru@
+@ear@|@kAdu@
+@egg@|@muTTae@
+@elder brother@|@aNae@
+@elder sister@|@akkA@
+@elephant@|@yAnae@
+@empty@|@kAliyAne@
+@enough@|@pOdum@
+@everywhere@|@aengaeyum illae@
+@expensive@|@vileae uyernde@
+@eye@|@kaNNu@
+@face@|@mugam@
+@family@|@kuDumbam@
+@farmer@|@vivasAyi@
+@farming@|@vivesAyam@
+@fast@|@vaegemAne@
+@fault@|@tappu@
+@fear@|@bayam, bayeppaDu-@
+@fellow@|@AL@
+@fever@|@kAccel@
+@field@|@vayel@
+@finger@|@viral@
+@fire@|@tiipaeTTi@
+@fish@|@miin@
+@flower@|@pUnDu@
+@fly@|@ii@
+@forest@|@kADu@
+@friend@|@naNber@
+@from who@|@yArODe@
+@fruit@|@paJam@
+@gand mother@|@pATTi@
+@garlic@|@pUnDu@
+@gently@|@maeduvA@
+@girl@|@poNNu@
+@goat@|@ADu@
+@good morning@|@vaNakkam@
+@grand father@|@tAttA@
+@grass@|@pul@
+@hair@|@mayir@
+@half@|@pAdi@
+@hand@|@kai@
+@happy@|@sandoSamAne@
+@head@|@talae@
+@health@|@uDal nalam@
+@heart@|@irudayam@
+@heat@|@vaeyil@
+@help@|@udevi@
+@hence@|@adenAle@
+@hot@|@sUDAne@
+@house@|@viiDu@
+@how many@|@aettanae@
+@how much@|@yaevalalvu@
+@hunger@|@pasi@
+@illness@|@nO@
+@important@|@mukkiyemAne@
+@in front of@|@munAl@
+@in the middle of@|@NaDuvule@
+@in the morning@|@kAlaeyile@
+@inside@|@-uLLae@
+@key@|@sAvi@
+@king@|@rAdjA@
+@knife@|@katti@
+@lamp@|@viLekku@
+@language@|@moji@
+@large@|@ahelamAne@
+@last@|@kaDaesi@
+@launderer@|@DObi, vaNNAn@
+@leaf@|@aelae@
+@leg@|@kAl@
+@letter@|@kaDidam@
+@lock@|@pUTTu@
+@log@|@vAy@
+@long@|@niiNDe@
+@man@|@An, manidan@
+@mango@|@mAmpajam@
+@meal@|@sAppADu@
+@medicine@|@marundu@
+@milk@|@pAl@
+@missing@|@kANA pOccu@
+@money@|@paNam, kAsu@
+@month@|@mAsam@
+@morning@|@kAlae@
+@mosquito@|@kosu@
+@mountain@|@malae@
+@mouse@|@aeli@
+@mum@|@ammA@
+@name@|@paeaer, paeyar@
+@never@|@aeppodum illae@
+@new@|@pudiye@
+@night@|@irraevu, rAtri, rAtriyile@
+@nobody@|@oruvarun illae@
+@nose@|@mUkku@
+@notebook@|@nOTTuppustagam@
+@nothing@|@onnum illae@
+@now@|@inde samayettule, ippo@
+@nowhere@|@aengaeaeyum illae@
+@occupation@|@tojil@
+@old@|@pajaya@
+@onion@|@vaengAyam@
+@only@|@maTTum@
+@open@|@tirande@
+@or@|@alladu@
+@ordinary@|@sAdAreNe@
+@other@|@matta, vaeaeru@
+@otherwise@|@illaeNNA@
+@outside@|@vaeLiyaeae@
+@over@|@maeael@
+@paddy@|@naellu@
+@pain@|@vali@
+@people@|@makkeL@
+@pepper@|@miLegAy, miLegu@
+@picture@|@paDam@
+@pig@|@panni@
+@plane@|@vimAnam@
+@plant@|@caeDi@
+@poison@|@viSam@
+@potatoe@|@uruLaekkijangu@
+@poverty@|@aeaejmae@
+@quarrel@|@saNDae@
+@queen@|@rANi@
+@question@|@kaeaeLvi@
+@rain@|@majae@
+@really@|@appeDiyA@
+@rice (cooked)@|@sOru@
+@rice (husked)@|@arisi@
+@rich@|@paNekkAran@
+@river@|@Aru@
+@road@|@rODu@
+@room@|@aRae@
+@rope@|@kayiRu@
+@salt@|@uppu@
+@scorpion@|@taeaeLu@
+@sea@|@kaDel@
+@shadow@|@naejal@
+@sharp@|@kUrAne@
+@shirt@|@saTTae@
+@shop@|@kaDae@
+@sick@|@nOyAli@
+@side@|@Oram@
+@sky@|@vAnam@
+@small@|@sinne@
+@snake@|@pAmbu@
+@some@|@sile@
+@sometime@|@sila samayam, sila vaeaeLae@
+@son@|@magan@
+@song@|@pADal,pATTu@
+@sour@|@puLipAnae@
+@spider@|@sialndi pUcci@
+@stem@|@kambu@
+@stone@|@kallu@
+@straight@|@naeaerA@
+@street@|@taeru@
+@strong@|@balemAne@
+@student@|@mANevar@
+@suddenly@|@tiDiinnu@
+@sugar@|@sakkarae@
+@sweat@|@vaeaervae@
+@table@|@maeaesae@
+@tasteful@|@suvaeyAne@
+@teacher@|@vAtiyAr@
+@thanks@|@nanRi@
+@then@|@appuRam@
+@thief@|@tiruDan@
+@thing@|@poruL@
+@thirst@|@tAgam@
+@time@|@maNi naeaeram@
+@to abandon@|@viTTuDu@
+@to answer@|@badil sollu-@
+@to ask@|@kaeael-, kaeaeT-@
+@to breathe@|@mUccu viDu-@
+@to bring@|@ingae koNDu va-@
+@to burn@|@aeri-@
+@to call@|@kUppiDu-@
+@to catch@|@piDi-@
+@to clean@|@suttam saey-@
+@to come@|@vA-, varu-@
+@to come back@|@tirumbi va-@
+@to cook@|@samaeyel-@
+@to count@|@aeNNu-@
+@to cry@|@ajuvu-@
+@to cut@|@naRukku, vaeTTu@
+@to descend@|@aeRangu-@
+@to desire@|@assaeppaDu-@
+@to die@|@saettu pO-@
+@to do@|@paNNu-@
+@to drink@|@kuDi-@
+@to drive@|@OTTu-@
+@to earn@|@sambAdi-@
+@to eat@|@sApiDu-@
+@to fall@|@viju-@
+@to forget@|@maranduTu-@
+@to give@|@koDu-,tA-, taru-@
+@to go@|@pOyDu-@
+@to go to bed@|@tUnguae po-@
+@to hit@|@aDi-@
+@to hook@|@mATTi vae@
+@to keep@|@vaetchiru-@
+@to knead@|@paesae@
+@to know@|@taeriyum-@
+@to lift@|@tUkku-@
+@to like@|@naeaesi-@
+@to listen@|@kaeaeL-, kaeaeT-@
+@to love@|@kAdali-@
+@to meet@|@sandi-@
+@to morrow@|@nAlLaekku@
+@to open@|@tire-@
+@to play@|@vLaeyADu-@
+@to play (instrument)@|@vAsi-@
+@to please so@|@piDikkum-@
+@to prepare@|@tayAr saey-@
+@to put@|@vae-@
+@to read@|@vAsi-@
+@to remember@|@nyAbagam varu-@
+@to remove@|@kajattu@
+@to run@|@ODu-@
+@to say@|@sollu-@
+@to search for@|@taeaeDu-@
+@to see@|@pAr-@
+@to send@|@annuppu-@
+@to shout@|@kattu-@
+@to show@|@kAmi-, kATTu-@
+@to sit@|@ukkAr-@
+@to sllep@|@tUnge-@
+@to smell@|@mOndu par-@
+@to smile@|@siri-@
+@to speak@|@paeaesu-@
+@to stand@|@nil-@
+@to stop@|@nil-, niRutte-@
+@to study@|@paDi-@
+@to swim@|@nitchalaDi-@
+@to take@|@aeDu-@
+@to take with@|@ajaytu po-@
+@to teach@|@sollikoDu-@
+@to think@|@naenae-@
+@to understand@|@purinjukku-@
+@to wait@|@kAtu konNdu-@
+@to wake up@|@aejuppu@
+@to walk@|@naDandu po-@
+@to want@|@virumbu-@
+@to wash@|@kajuvu-@
+@to wear@|@pOTTiru@
+@today@|@innaekku@
+@toilets@|@kakkUs@
+@tomato@|@takkAli@
+@tongue@|@nAkku@
+@tooth@|@pal@
+@town@|@nageram@
+@tree@|@maram@
+@trousers@|@kAl SaTTae@
+@ugly@|@asingemAne@
+@unripe fruit@|@kAy@
+@very@|@rombe@
+@village@|@grAmam@
+@voice@|@kural@
+@wall@|@suver@
+@way@|@vaji@
+@wedding@|@kaliyANam@
+@week@|@vAram@
+@what@|@aenne@
+@when@|@aeppo@
+@where@|@aengaeae@
+@which@|@aende@
+@who@|@yArODe@
+@whole@|@mujusam@
+@why@|@aeaen@
+@wind@|@kAttu@
+@window@|@djannel@
+@without@|@illAme@
+@woman@|@manaevi@
+@word@|@sol@
+@work@|@vaeaelae@
+@world@|@ulegam@
+@wound@|@kAyam@
+@year@|@varuSam@
+@yellow@|@mañjaL@
+@yes@|@Ama, AmAm@
+@yesterday@|@neettu@
+@yet@|@irundum@
+@youger sister@|@tangatchi@
+@younger brother@|@tambi@
+

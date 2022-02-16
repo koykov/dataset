@@ -1,0 +1,817 @@
+@English@|@Voro@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@Abort@|@Jätäq katski@
+@About Opera@|@Opera tiidüs, tiidüs Opera kotsilõ@
+@Accept@|@Jääq nõuhtõ@
+@Accept pop-up windows@|@Ujovidõ aknidõ lubaminõ@
+@Accessibility@|@Tarvitusõ kergendämine@
+@Acoount@|@Konto@
+@Action@|@Tallitus@
+@Active@|@Aktiivnõ@
+@Add@|@Panõq manoq@
+@Add all@|@Panõq kyik' manoq@
+@Add link to Bookmarks@|@Panõq järehoitjihe link' manoq@
+@Add page...@|@Panõq lehekülg' manoq...@
+@Add panel...@|@Panõq paniil' manoq...@
+@Add to Bookmarks@|@Panõq järehoitjidõ manoq@
+@Add to Contacts@|@Panõq manoq kontaktõhe@
+@Add to group@|@Panõq manoq gruppi@
+@Address@|@Aadrõs'@
+@Address bar@|@Aadrõsiriba@
+@Address book@|@Aadrõsiraamat@
+@Advanced@|@Lisasäädmine, vigurinõ@
+@Advertising@|@Reklaam'@
+@all@|@kõik@
+@Always on top@|@Alasi kygõ päälmäne@
+@American@|@ameeriklanõ@
+@and@|@ja@
+@animal@|@elläi@
+@Antivirus program@|@Tohtri@
+@Append@|@Panõq otsa@
+@Application@|@Rakõndus@
+@Apply@|@Võtaq käüki@
+@Apply to all@|@Tiiq nii kyigigaq@
+@Archive@|@Arhiiv'@
+@Are you English?@|@Kas ti olõt ingläne?@
+@Are you sure?@|@Kas olõt iks kimmäs?@
+@Arrow@|@Nuul'@
+@Article@|@Kirotus@
+@ashes@|@tuhk@
+@Association@|@Köüdüs@
+@at@|@man@
+@Attach@|@Panõq manoq@
+@Attachment@|@Manoqpannus@
+@Attribute@|@Atribuut'@
+@Australian@|@austraallanõ@
+@Authentication failed@|@Kimmästegemine läts' summa@
+@Author@|@Autor'@
+@Authorization@|@Luaküsümine@
+@Automatic detection@|@Automaatnõ ärqtundminõ@
+@Away@|@Puudus@
+@back@|@sälg@
+@Background@|@Tagapõhi@
+@bad@|@halv@
+@badger@|@kähr@
+@Bar@|@Riba@
+@bark@|@kuur@
+@Bcc@|@Pümmekopi@
+@because@|@selle et@
+@beer@|@oluq@
+@belly@|@kõtt@
+@big@|@suur@
+@birch@|@kõiv@
+@bird@|@tsirk@
+@Bit@|@Tsibiputin@
+@black@|@must@
+@Block@|@Kinniq pidämä@
+@blood@|@veri@
+@Body@|@Sisu@
+@bone@|@luu@
+@Bookmark@|@Järehoitja@
+@Bottom@|@Ala, all@
+@Box@|@Kast'@
+@breast@|@rõnd@
+@Browse in a new window@|@Tiiq vahtsõnõ akõn' vallalõ@
+@Browser@|@Võrgokaeja@
+@Browser look@|@Võrgokaeja nägo@
+@Button@|@Nupp'@
+@Buy Opera@|@Ostaq Opera@
+@By e-mail@|@e-postildõ@
+@Byte@|@Putin@
+@Cache@|@Vahemälo, vahemudsu@
+@Calculator@|@arvudi, Cibiarvudi@
+@Canadian@|@kanadalanõ@
+@Cancel@|@Jätäq kats'ki@
+@Cardreader@|@Kaardilukõi@
+@Cascade@|@Trepiastmõlinõ kõrd@
+@Case sensitive@|@Tähe suurus lugõ@
+@Catch up@|@Märgiq kyik' läbiloetus@
+@Cc@|@Kopi@
+@CD-ROM@|@Siidiromm' (lasõrketas)@
+@Central European@|@Kesk-Euruupa@
+@Check@|@Kontrolliq@
+@Check all accounts@|@Kontrolliq kyiki kontosit@
+@Checking e-mail@|@Kirjo kontrol'minõ@
+@child@|@lats@
+@Close@|@Panõq kinniq@
+@Close all@|@Panõq kyik' kinniq@
+@cloud@|@pilv@
+@cold@|@külm@
+@Color@|@Värm'@
+@Column@|@Tulp@
+@Comment@|@Seletüs@
+@Communication@|@Tiidüse edesiandminõ@
+@Compare@|@Võrdõlõq@
+@Compose@|@Kirodaq@
+@Compose article@|@Kirodaq kirotus@
+@Compose e-mail to this person@|@Kirodaq tälle@
+@Compress@|@Tihendäq@
+@Computer@|@(Kom)puutri@
+@Computer specialist@|@Puutrimiis@
+@Confirmation@|@Nõunolõk'@
+@Confirmation box@|@Kinnütüskast@
+@Connected@|@Ütistet@
+@Connected to e-mail server@|@Server kätte saad@
+@Connecting..@|@Ütistedäs@
+@Connection@|@Ütistüs@
+@Console@|@Konsuul'@
+@Contacts@|@Kontaktiq@
+@Contents@|@Sisukõrd@
+@cool@|@oigõ@
+@Copy@|@Kopiq, panõq hoiulõ (üteh paste'igaq)@
+@Copy image address@|@Kopeeriq pildi aadrõs'@
+@correct@|@õigõ@
+@Correct@|@Kõrralik@
+@Could not connect to remote@|@Saa es serverit kätte, Saa es serverit taadõ@
+@Could not find proxy server@|@Lövvä es proxy serverit üles@
+@Could not locate remote server@|@Lövvä es serverit üles@
+@Couldn't connect to proxy@|@Saa ei proxy serverit kätte@
+@Count@|@Kokko arvama@
+@Create linked window@|@Luuq ütteliidet akõn'@
+@currant@|@hõrak@
+@Current@|@Poolõlõollõv@
+@Current item info@|@Tiidüs s'oo as'a kotsilõ@
+@Custom@|@Hindä valliq@
+@Customize@|@nikõrda esiq, Säeq hindä perrä@
+@Cut@|@Lõikaq vällä@
+@Database@|@Teedüskogo@
+@Date@|@Kuupäiv@
+@day@|@päiv@
+@Decrypt@|@Vallalõ arotama@
+@Default@|@Vaikimiisi@
+@Default browser@|@Lehekülgikaeja@
+@Delete@|@häötäq, kistudaq, Kistudaq ärq@
+@Delete panel...@|@Kistudaq paniil' ärq...@
+@Delete private data@|@Kistudaq erätiidüs ärq@
+@Description@|@Kireldüs@
+@Desktop@|@moropäälüne, Tüülaud@
+@Detection@|@Ärqtundminõ@
+@Device@|@Säedüs@
+@Dial-up connection@|@Telefonivõrgoütistüs@
+@Dictionary@|@Synaraamat@
+@Direction@|@Suund@
+@Directory@|@Kaust, salvistu@
+@Directory tree@|@Kaustapuu@
+@dirty@|@mustõnuq@
+@Disconnect network drive@|@Võrgotsõõrõ lahotaminõ@
+@Disconnected@|@Ütistüs om kats'ki jäänüq@
+@Disk@|@Ait@
+@Disk drive@|@Kettanudsijä@
+@Display@|@Näütäq@
+@Display all headers@|@Näütäq kyiki pähütsiid@
+@Display e-mail menu@|@Näütäq e-posti menüüd@
+@Displays the next e-mail@|@Näütäs järgmädse kirä sissu@
+@Disturb@|@Segämä@
+@Do not disturb@|@Ei toheq sekäq@
+@do you have?@|@Kas sul om?@
+@Do you speak English?@|@Kas inglüse kiilt kõnõlõt, Kas ti kõnõlõt inglüse@
+@Do you understand Võro?@|@Kas võro kiilt mõistat?@
+@Docked@|@Üten@
+@Document file@|@Dokomendisalv@
+@dog@|@pini@
+@Don't touch me there!@|@Puudutagu-i minno sääl!@
+@Double click@|@Topõltklõpsahus@
+@Download@|@Tuuma@
+@Draft@|@Mustand'@
+@Drag and drop@|@Tõistõ paika vidämine@
+@dry@|@kuiv@
+@dull@|@nühr@
+@Duplicate@|@Kopiq@
+@dust@|@tolm@
+@ear@|@kõrv@
+@earth@|@maa@
+@Edit@|@muudaq, toimõndaq klahv', Toimõndus (menüü)@
+@Edit active account@|@Muudaq aktiivsõt kontot@
+@Edit panel...@|@Muudaq paniili...@
+@Editor@|@Kiräts'ura@
+@egg@|@muna@
+@eight@|@katõsa@
+@E-mail@|@E-post', elepost'@
+@E-mail header@|@Kirä pähüts'@
+@Empty trash@|@Tühendäq asokast'@
+@Enable@|@lubama, Panõq käümä@
+@Enable GIF animation@|@GIF-animats'ooni lubaminõ@
+@Enable Java@|@Java lubaminõ@
+@Enable plug-ins@|@Lisaprogrammõ tarvitus@
+@Encoding@|@Kodeering@
+@Encrypt@|@Käk'mä@
+@Encyclopedia@|@Entsüklopeediä@
+@Enter Internet addresses here@|@Kirodaq siiäq internetiaadrõs'@
+@Error message@|@Viasynnom@
+@Estonia@|@Eesti@
+@Executables first@|@Sulatsõsalvõq kygõ inne@
+@Execute program@|@Ajaq sulanõ tüüle@
+@Exit@|@Lõpõtus, Mineq vällä@
+@Expired@|@Om vana@
+@Export@|@viimine, Viiq@
+@Extension@|@laend', Laendus@
+@Extract@|@Vällä korjama@
+@eye@|@silm@
+@far@|@kavvõn@
+@fat@|@rasõv@
+@father@|@esä@
+@Favorite@|@Vällävalitu@
+@feather@|@sulg@
+@few@|@veidüq@
+@Field@|@rivi, Väli@
+@File@|@salv', Teedüstü@
+@File list@|@Teedüstüide nimekiri@
+@File manager@|@Aidamiis@
+@File types@|@Teedüstütüübiq@
+@Filter@|@Sõgõl@
+@Find@|@Otsiq, otsiq üles@
+@Find and replace@|@Otsiq ja vaihtaq@
+@Find contact@|@Otsiq kontakti@
+@Find next@|@Otsiq järgmäne@
+@Find previous@|@Otsiq taasperimäne@
+@Find specific text in the page@|@Otsiq leheküle päält teksti@
+@fingernail@|@küüds@
+@fire@|@tuli@
+@First name@|@Ristinimi@
+@fish@|@kala@
+@Fit to window@|@Tiiq aknõ jaos parajas@
+@five@|@viis@
+@Floating@|@Eräle@
+@flower@|@häelm, häidseq, lill@
+@fog@|@undsõq@
+@Folder@|@Kaust, salvistu@
+@Folders to search@|@Otsitavaq kaustaq@
+@Follow up article@|@Kirodaq vastus@
+@Follow-up to@|@Jakkas@
+@Font@|@Kirätüüp'@
+@Fonts and colors@|@Kirätüübiq ja värviq@
+@foot@|@jalg@
+@Footer@|@Jalots'@
+@For security reasons@|@Tiidüse käk'mise peräst@
+@forest@|@mõts@
+@Formatting@|@Vormindaminõ@
+@Forward@|@annaq edesi, Edesi, saadaq edesi@
+@Forward by e-mail@|@Annaq e-postildõ edesi@
+@four@|@neli, nelli@
+@Frame@|@Raam'@
+@Frame source@|@Raami lättetekst@
+@From@|@Kink käest@
+@fruit@|@vili@
+@FTP-client@|@Salvõvittäi@
+@full@|@täüs@
+@Full@|@Tävveline@
+@Full screen@|@Täüs'pilt'@
+@General@|@Ülene@
+@generic toast@|@tervüses@
+@Get panels@|@Hangiq paniile@
+@Go to line@|@Kargaq ria pääle@
+@Go to page@|@Mineq leheküle... pääle@
+@Go to similar pages@|@Tõõsõq säänestmuudu@
+@Go to the home page@|@Mineq kodoleheküle pääle@
+@good@|@hää, hüä@
+@Good day!@|@Tereq!@
+@Good evening@|@Tere õdagust@
+@Good morning@|@Tere hummogust@
+@Good night@|@Hääd üüd, hüvvä üüd@
+@Goodbye@|@hääd nägemist, Hüvvä@
+@Goto@|@Mineq@
+@grass@|@hain@
+@Greek@|@Kriika@
+@green@|@hal'as, rohilinõ@
+@guts@|@sooliguq@
+@hair@|@hius, karv@
+@hand@|@käsi@
+@Hardware@|@Abivägi@
+@has been asked@|@küsünüq@
+@he@|@tä@
+@he gives@|@and@
+@he writes@|@kirotas@
+@head@|@pää@
+@Header@|@Pähüts'@
+@heart@|@süä@
+@heavy@|@rassõ@
+@Help@|@Abi@
+@here@|@tan@
+@High@|@Korgõ@
+@High security on server@|@Häste kimmäs server'@
+@Highlighted@|@Helksäs tett@
+@History@|@Aolugu@
+@History and cache@|@Aolugu ja vahemälo@
+@Home@|@Kodo@
+@Homepage@|@Kodolehekülg'@
+@horn@|@sarv@
+@Hotlist@|@Kipõnimekiri@
+@how@|@kui@
+@How are you?@|@Kuis lätt@
+@human being@|@inemine@
+@husband@|@miis@
+@I@|@maq@
+@I am@|@ma olõ@
+@I am American@|@Ma olõ ameeriklanõ@
+@I am Australian@|@Ma olõ austraallanõ@
+@I am Canadian@|@Ma olõ kanadalanõ@
+@I am English@|@Ma olõ ingläne@
+@I am Irish@|@Ma olõ iirläne@
+@I am New Zealander@|@Ma olõ vahtsõmeremaalanõ@
+@I am Scottish@|@Ma olõ sotlanõ@
+@I didn't come@|@maq tulõ-õs@
+@I don't come@|@maq tulõ-õiq@
+@I don't understand@|@Saa-ai arvo, saa-i arvo@
+@I have@|@Mul om@
+@I understand@|@saa arvo@
+@ice@|@ijä@
+@Icon@|@Ikoon'@
+@Identify as Opera@|@Piäq Operas@
+@if@|@ku@
+@Illegal address@|@Lubamaldaq aadrõsikujo@
+@I'm fine@|@Häste@
+@Image file@|@Pildisalv@
+@Images@|@Pildiq@
+@Import@|@tuuminõ, Tuuq@
+@in@|@seen, sisen@
+@Incoming@|@Sissetulõvaq@
+@Incorrect@|@Sündümäldäq@
+@Inline find@|@Tävveline ots'minõ@
+@Insert@|@Panõq mano, pistäq@
+@Insert bookmarks@|@Panõq manoq järehoitjaq@
+@Install@|@Paika säädmä, tüüle võtma@
+@Installation instructions@|@Paikasäädmisoppus@
+@Instant message@|@Kipõsynnom'@
+@Interface@|@Liideq@
+@Invalid password@|@Võlss' salasõna@
+@Invert selection@|@Valiq vastapite@
+@Invisible@|@Nägemäldäq@
+@Irish@|@iirläne@
+@is@|@om@
+@is not@|@ei olõq@
+@Item@|@asi, Kiräkotus@
+@Java Console@|@Java konsuul'@
+@Keyboard@|@Sõrm'laud, sõrmõnd'@
+@knee@|@põlv@
+@lake@|@järv@
+@Laser printer@|@Lasõrtrükli@
+@Last name@|@Priinimi@
+@Layout@|@Paigutus@
+@leaf@|@leht@
+@left@|@kura@
+@Left@|@Kura poolõ pääl@
+@Left arrow@|@Kurapoolinõ nuul'@
+@leg@|@siir@
+@Likewise@|@Aiteh sullõ kah@
+@Link@|@Link'@
+@Links in frame@|@Kiräq raami pääl@
+@List all groups@|@Näütäq kyiki synomiryhmi@
+@List old articles@|@Näütäq vanno kirotuisi@
+@liver@|@mass@
+@Load@|@Laadiq@
+@Local@|@Paiklinõ@
+@Local network@|@Paigavõrk@
+@Login@|@Sissekirotaminõ@
+@long@|@pikk@
+@louse@|@täi@
+@Low@|@Matal'@
+@Low security on server@|@Kehvä kimmüsegaq server'@
+@Macro@|@Makro@
+@made of silver@|@hõbõhõnõ@
+@Main bar@|@Pääriba@
+@man@|@miis@
+@Manage bookmarks@|@Näütäq järehoitjit@
+@Manage contacts@|@Näütäq kontakti@
+@Manage e-mail@|@Näütäq e-posti kausto@
+@Manual@|@Manuaalnõ@
+@many@|@mitu, pall'o@
+@Margin@|@Viir'@
+@Mark@|@Märgiq@
+@Mark as read@|@Märgiq läbiloetus@
+@Mark as unread@|@Märgiq vahtsõs@
+@Match case@|@Nõstutundlik, Tähe suurus lugõ@
+@Match whole words only@|@Terveq sõnaq piät klap'ma@
+@Mathematical coprocessor@|@Numbrijürräi@
+@Matrix printer@|@Nõgyl'trükli@
+@Maximize all@|@Suurõndaq kyik'@
+@Maximize e-mail view@|@Suurõndaq kaehust@
+@meat@|@liha@
+@Medium@|@Keskmäne@
+@Medium security on server@|@Keskmädse kimmüsegaq server'@
+@Memory@|@Mälo, mudsu@
+@Menu@|@Menüü@
+@Merge files@|@Panõq teedüstüq kokko@
+@Message@|@Synnom@
+@Messaging@|@Kipõq synomiq@
+@Minimize all@|@Vähändäq kyik'@
+@Mode@|@Resiim'@
+@Monitor@|@kuvvar', Viisor'@
+@moon@|@kuu@
+@More@|@Rohkõmb@
+@mother@|@imä@
+@Motherboard@|@Imäplaat'@
+@mountain@|@mägi@
+@Mouse@|@Hiir'@
+@mouth@|@suu@
+@Move@|@kotus, Nõstaq, Tõistõ paika panõk', vaht nimi@
+@Move to@|@Panõq@
+@Move to folder@|@Liigudaq kausta@
+@name@|@nimi@
+@Namespace@|@Nimeruum@
+@narrow@|@ahtagõnõ@
+@Navigation@|@Liikminõ@
+@near@|@lähkün@
+@neck@|@kaal@
+@Network konnection@|@Võrgoütistüs@
+@Network problem@|@Võrgohädä@
+@new@|@vahtsõnõ@
+@New account@|@Vahtsõnõ konto@
+@New folder@|@Vahtsõnõ kaust@
+@New page@|@Vahtsõnõ lehekülg@
+@New Zealander@|@vahtsõmeremaalanõ@
+@News@|@Synomiq@
+@Newsgroup@|@Synomirühm@
+@Next@|@Järgmäne@
+@Next article@|@Järgmäne kirotus@
+@Nice to meet you@|@Rõõm nätäq@
+@night@|@üü@
+@nine@|@ütesä@
+@no@|@ei@
+@No new e-mail@|@Olõ-iq vahtsit kirjo@
+@No security on server@|@Kimmüseldäq server'@
+@None@|@Puudus@
+@Nordic@|@Põh'amaaq@
+@nose@|@nõna@
+@not@|@ei, joht@
+@Not available@|@Saa ei kätte@
+@Occupied@|@Kinniq@
+@of course@|@muidoki@
+@Off@|@Käkit@
+@Offline@|@Võrgulda@
+@OK@|@Hää külh@
+@old@|@vana@
+@one@|@üts@
+@one hundred@|@sada@
+@one million@|@mill'on@
+@One moment!@|@Üts silmäpilk@
+@one thousand@|@tuhat@
+@Online@|@Võrgun@
+@Open@|@Tiiq vallalõ, võtaq salvõst@
+@Open bookmark@|@Tiiq järehoitja vallalõ@
+@Open e-mail file@|@Tiiq postiteedüstü vallalõ@
+@Open File(s)@|@Tiiq teedüstü(q) vallalõ@
+@Open in background@|@Tiiq vallalõ tagapõh'a pääl@
+@Open link@|@Tiiq link' vallalõ@
+@Operating system@|@Kubjas@
+@Options@|@Saa valliq, tim'mine@
+@Organization@|@Asotus@
+@other@|@muu, tõõnõ@
+@Out of memory@|@Mälo om otsan@
+@Outgoing@|@Vällämineväq@
+@Output window@|@Tüütulõmuisi akõn'@
+@Overwrite@|@asõmõlõ pandma, Üle kirotama@
+@Pack@|@Pakiq kokko@
+@Page bar@|@Leheküleriba@
+@Page margins (in centimeters)@|@Leheküle veereq (tsendimetrin)@
+@Panel@|@Paniil'@
+@Parallel port@|@Kõrvupesä@
+@Parent folder@|@Pääkaust@
+@Password@|@Salasyna@
+@Paste@|@Panõq paika, võtaq hoiult@
+@Path@|@Rada@
+@Person@|@inemine@
+@Personal bar@|@Eräriba@
+@Plug-in@|@Lisaprogramm'@
+@Pop-up window@|@Ujoja akõn'@
+@Port@|@Pesä@
+@Portal@|@Arotustarõ@
+@Preferences...@|@Tim'mine...@
+@Preferred@|@Rohkõmb taheduq@
+@Prefix@|@Edejakk@
+@Press@|@Vaodaq@
+@Press Enter@|@Vaodaq riavaihtust@
+@Preview and print@|@Trükükaehus ja trükmine@
+@Previous@|@Taasperimäne@
+@Previous article@|@Taasperimäne kirotus@
+@Print@|@paprõhõ kudama, Trüküq@
+@Print headers and footers@|@Pähüdsi ja jalodsi trükmine@
+@Print options@|@Vällätrükü tim'mine@
+@Print page background@|@Leheküle tagapõh'a trükmine@
+@Print preview...@|@Vällätrükü kaeminõ...@
+@Print setup@|@Vällätrükü säädmine@
+@Print the page@|@Trüküq lehekülg' vällä@
+@Printer@|@paprõpeeleq, peeleq, Trükli@
+@Printer driver@|@Kangro@
+@Priority@|@Tähtsüs@
+@Private data@|@Erätiidüs@
+@Problem@|@Hädä@
+@Process@|@jakk, Tallitus@
+@Processor@|@Infojürräi@
+@Program@|@Sulanõ@
+@Program call@|@Sulatsõ käsk'mine@
+@Programmer@|@sulatsõoppaja, Välläoppaja@
+@Programming@|@Välläoppaminõ@
+@Progress@|@Edenemine, Edenemine@
+@Properties@|@Umahusõq@
+@Proxy@|@Vaihhõserver@
+@Punctuation@|@Kirävaihõmärgiq@
+@Quick preferences@|@Kipõ tim'mine@
+@Quick view@|@Kipõkaehus@
+@Read@|@Loeq@
+@Recipient@|@Osalinõ@
+@Recycle@|@häötet asja mitte, Lahoq ärq, vrd. delete-häötäq@
+@recycle (1)@|@lahot asja saat parandadaq@
+@Recycle bin@|@Prügümägi@
+@red@|@verrev@
+@Redirect@|@Saadaq ümbre@
+@Redo@|@Võtku-õiq tagasi@
+@Refresh@|@Tiiq värskis@
+@Refresh display@|@Pilt' värskis@
+@Refresh from disk@|@Võtaq pästet teedüstü@
+@Refuse@|@Ütleq ärq@
+@Refuse pop-up windows@|@Ujovidõ aknidõ kiildmine@
+@Register Opera@|@Opera registriir'mine@
+@Regular expression@|@Regulaarnõ avaldis@
+@Reload@|@Laadiq vahtsõst@
+@Reload every@|@Automaatnõ vahtsõstlaat'minõ@
+@Remove from group@|@Võtaq grupist ärq@
+@Remove from list@|@Võtaq nimekiräst maaha@
+@Rename@|@Ümbrenimetämine@
+@Reopen@|@Tiiq jälki vallalõ@
+@Repeat search@|@Otsiq viil@
+@Replace@|@Vaihtaq@
+@Reply@|@Vastaq@
+@Reply all@|@Vastaq kyigilõ@
+@Reply by e-mail@|@Vastaq e-postildõ@
+@Reply to all recipients@|@Vastaq kyigilõ osaliidsilõ@
+@Reply to this e-mail@|@Vastaq seolõ kiräle@
+@Report@|@Annaq teedäq@
+@Request@|@Perräküsümine@
+@Restart@|@Vahtsõst käümä pandma@
+@Restore all@|@Võtaq kyik' tagasi@
+@Result@|@Tulõmus@
+@Resume@|@Tiiq edesi@
+@Retrieving e-mail@|@Kirä laat'minõ@
+@right@|@hää, hüä@
+@Right@|@hää, hüä, hüä poolõ pääl@
+@river@|@jõgi@
+@road@|@tii@
+@root@|@juur@
+@Root directory@|@Aida uss', Ait, kost ait, ku drive, sys kotus@
+@rope@|@köüds@
+@rotten@|@määnüq, mädä@
+@round@|@höörik, tsõõrik, ümärik@
+@Run@|@joosutama, Tüüle pandma@
+@salt@|@suul@
+@sand@|@liiv@
+@Saturday@|@puulpäiv@
+@Save@|@panõq salvõ, Pästäq@
+@Save all@|@Panõq kõik' salvõ@
+@Save as@|@panõq salvõ nimega, Pästäq nime alaq@
+@Save changes to message?@|@Kas pästäq tettüq muutmisõq?@
+@Save e-mail file@|@Pästäq postiteedüstü@
+@Save File(s)@|@Pästäq teedüstü(q)@
+@Save message in Drafts folder@|@Pästäq kiri mustandidõ kausta@
+@Save window setup@|@Pästäq aknidõ sais@
+@Save with images as@|@Pästäq üteh piltegaq nime alaq@
+@Scale print to@|@Trükküq mõõdun@
+@Scanner@|@Pildinudsija@
+@School@|@Kuul'@
+@Scottish@|@sotlanõ@
+@Scroll@|@Kerimä@
+@Scroll bars@|@Kerimisribaq@
+@sea@|@meri@
+@Search@|@Otsiq@
+@Search results@|@Ots'misõ tulõmusõq@
+@Security@|@Kimmüs, tiidüse käk'mine@
+@See you later@|@Näemiq@
+@seed@|@seemeq@
+@Select@|@Ärq märk'mä@
+@Select all@|@Märgiq kyik' ärq@
+@Send@|@Saadaq@
+@Send e-mail@|@Saadaq kiri@
+@Send queued@|@Saadaq ärq järekõrran olõvaq@
+@Serial port@|@Joropesä@
+@Server@|@Mõisa@
+@Set@|@Sät'mä@
+@Set as active folder@|@Sätiq aktiivsõs kaustas@
+@Set home page@|@Sätiq kodolehes@
+@Settings@|@Säädmine@
+@Setup@|@Sais@
+@seven@|@säidse@
+@sharp@|@terräv, vaib@
+@she@|@tä@
+@Shell open@|@Tiiq vallalõ tarvitusliitõh@
+@short@|@lühükene, lühüq@
+@Shortcut@|@Kipõklahv'@
+@Show@|@Näütäq@
+@Show bookmarks@|@Näütäq järehoitjit@
+@Show images@|@Pilte näüdätäs@
+@Show my home page@|@Tetäs vallalõ kodolehekülg'@
+@Show no images@|@Pilte näüdätä-iq@
+@Show on personal bar@|@Näütäq eräriba pääl@
+@Show the view menu@|@Kaehusmenüü näütämine@
+@Show threads@|@Näütäq teemasit@
+@Show time@|@Näütäq aigo@
+@Signature@|@Allkiri@
+@Similar@|@Säänestmuudu@
+@Simple@|@Lihtsä@
+@Simplified@|@Lihtsüstet@
+@sister@|@sõsar@
+@six@|@kuus@
+@Size@|@Maht@
+@skin@|@iho, nahk@
+@Skip@|@Jätäq vaihõlõ@
+@sky@|@taivas@
+@small@|@väiku@
+@smoke@|@sau@
+@smooth@|@sille@
+@snake@|@huss, siug@
+@snow@|@lumi@
+@Software@|@Tüüvägi@
+@some@|@mõni, mõnõq@
+@sorry@|@andkõ andis, pallõ andis, vabandust@
+@Sound file@|@helüsalv, Helüteedüstü@
+@Source@|@Lättetekst'@
+@Southern European@|@Lõuna-Euruupa@
+@Spam filter@|@Prahisõgõl@
+@Special@|@Spetsiaalsõq@
+@Specify@|@Täpsendämä@
+@Speed@|@Kibõhus@
+@Split@|@lahksaq, Poolidaq@
+@Split file@|@Jupõndaq teedüstü@
+@Standard@|@Tavalinõ@
+@star@|@täht@
+@Start of forwarded message@|@Edesisaadõdu kirä algus@
+@Status@|@Sais@
+@Status bar@|@Saisoriba@
+@stick@|@kepp@
+@stone@|@kivi@
+@Stop@|@Piäq kinniq@
+@straight@|@õgõv@
+@Subject@|@Teema@
+@Successfully@|@Ynnõligult@
+@Successfully created@|@Luuminõ läts' kõrda@
+@Suffix@|@Peräjakk@
+@sun@|@päiv@
+@Support@|@Tarvitajatugi@
+@System message@|@Tallitusteedüs@
+@tail@|@hand@
+@Target@|@Objekt'@
+@Tell a friend@|@Kynõlõq Operast sõbrale@
+@Template@|@Näüdüs@
+@ten@|@kümme@
+@Thank you@|@Aiteh, Aitjumma@
+@that@|@taa, tuu@
+@there@|@sääl@
+@they@|@nääq@
+@thick@|@paks@
+@thin@|@ohku, ohuq, piinü@
+@this@|@seo@
+@this year@|@timahavva@
+@Thread@|@Teema@
+@three@|@kolm@
+@thumb@|@päss@
+@Thumbnail@|@Väikupilt@
+@Tile@|@Paani@
+@Tile horizontally@|@Horisontaalnõ kõrd@
+@Tile vertically@|@Vertikaalnõ kõrd@
+@Tip of the day@|@Päävä nõvvoannõq@
+@To@|@kelle, kinkalõ, Kohe@
+@to bite@|@haukama, purõma@
+@to blow@|@puhkma@
+@to breathe@|@hengämä@
+@to burn@|@palama@
+@to come@|@tulõma@
+@to count@|@lugõma@
+@to cut@|@lõikama@
+@to die@|@kuulma@
+@to dig@|@kaibma@
+@to drink@|@juuma@
+@to eat@|@süümä@
+@to fall@|@sadama@
+@to fear@|@pelgämä@
+@to fight@|@taplõma@
+@to float@|@hõl'oma@
+@to flow@|@juuskma@
+@to fly@|@lindama@
+@to freeze@|@külmämä@
+@to give@|@andma@
+@to hear@|@kuuldma@
+@to hit@|@lüümä@
+@to hold@|@hoitma, pidämä@
+@to hunt@|@jahtma@
+@to kill@|@tapma@
+@to know@|@tiidmä@
+@to laugh@|@naardma@
+@to lie@|@võlsma@
+@to live@|@elämä@
+@to notice@|@rõbahtama@
+@to play@|@mängmä@
+@to pull@|@tõmbama, vidämä@
+@to push@|@kukkama, toukama@
+@to rain@|@vihm@
+@to rub@|@hõõrdma@
+@to say@|@ütlemä@
+@to scratch@|@kraapma@
+@to see@|@nägemä@
+@to sew@|@umblõma@
+@to sing@|@laulma@
+@to sit@|@istma@
+@to sleep@|@magahama, magama@
+@to smell@|@haisu tundma@
+@to spit@|@sülgämä@
+@to squeeze@|@pitsitämä, presmä, surbma@
+@to stab@|@tsuskama@
+@to stand@|@saisma@
+@to suck@|@imemä, nudsima@
+@to swell@|@paistuma@
+@to swim@|@oidma, ujoma@
+@to think@|@märkmä, mõtlõma@
+@to throw@|@hiitmä@
+@to tie@|@köütmä@
+@to turn@|@käändmä, püürdmä@
+@to vomit@|@ossõndama@
+@to walk@|@käümä, käümä, kõndma, kõndma@
+@to wash@|@mõskma, mõskma@
+@to weep@|@ikma@
+@to wipe@|@pühkmä@
+@Toggle@|@Vaihtaq@
+@Toggle the Hotlist on and off@|@Klõpsaq kipõnimekiri sisse, vällä@
+@tongue@|@kiil@
+@Tool bar@|@Tüüriistariba@
+@Tools@|@Tüüriistaq@
+@tooth@|@hammas@
+@Top@|@Ülä, ülevän@
+@Total@|@Kokko@
+@Trackball@|@Viirdümuna@
+@Transfers@|@Ülekandõq@
+@Translate@|@Panõq ümbre@
+@Translate currency@|@Panõq ümbre rahasumma@
+@Trash@|@Ask@
+@tree@|@puu@
+@Turkish@|@Türgü@
+@two@|@kats@
+@undo@|@võtaq tagasi@
+@Uninstall@|@Vallalõ laskma@
+@Unknown@|@Tundmaldaq@
+@Unless@|@Vällä arvat@
+@Unpack@|@Pakiq vallalõ@
+@Unread@|@Lugõmaldaq@
+@Untitled@|@Nimeldäq@
+@Update@|@Tävvendämä@
+@Update groups@|@Laadiq synomirühmäq vahtsõst@
+@Uploading@|@Laat'minõ, viimine@
+@US English@|@Ameeriga inglüse@
+@User@|@peremiis, Tarvitaja@
+@User interface@|@Tarvitajaliideq@
+@User program@|@Uma sulanõ@
+@Username@|@Tarvitajanimi@
+@Utility@|@Tüüriist@
+@Valid@|@Kõlvolinõ, Kõrralik@
+@Verify@|@Kaeq perrä@
+@View@|@Kaehus (menüü), kaeminõ, kaeq (klahv')@
+@Viewer@|@Näütämise rakõndus@
+@village@|@külä@
+@Visited page@|@Läbikäüd lehekülg'@
+@Võro (person)@|@võrokõnõ@
+@Võro area@|@Võromaa@
+@Võro language@|@võro kiil@
+@warm@|@lämmi@
+@Watch@|@Perrä kaema@
+@Watchlist@|@Perräkaemisnimekiri@
+@water@|@vesi@
+@we@|@miiq@
+@Web@|@lehistü, Võrk@
+@Web browser@|@lehitsejä, Võrgokaeja@
+@Webmaster@|@Leheküle kammandaja, veppsepp, võrksepp@
+@webmaster (1)@|@lehistühoitja@
+@Welcome!@|@Olõq terveq tulõmast!@
+@Western European@|@Õdagu-Euruupa@
+@wet@|@likõ@
+@what@|@miä@
+@when@|@kuna@
+@where@|@kon@
+@Where do you live?@|@Kon sa elät?, kon ti elät?@
+@Where is my room?@|@Kon om muq tarõ?@
+@Where is the bar?@|@Kon om kõrts'?@
+@Where is the bathroom?@|@Kon om vannitarõ?@
+@Where is the beach?@|@Kon om mereviir'?@
+@white@|@valgõ@
+@who@|@kiä@
+@wide@|@lag'a@
+@wife@|@naanõ@
+@wind@|@tuul@
+@Window@|@Akõn'@
+@Window bar@|@Aknidõ riba@
+@Window setup@|@aknidõ paikapandminõ@
+@wing@|@siib@
+@with@|@üten@
+@wolf@|@susi@
+@woman@|@naanõ@
+@Work offline@|@Tüütäq ilma võrguldaq@
+@worm@|@huss, vagõl@
+@Wrap@|@lõikama@
+@Wrap mode@|@Rito lõikaminõ@
+@year@|@aastak@
+@yellow@|@kõllanõ, vahanõ@
+@yes@|@jaa, jah@
+@you@|@saq@
+@you (pl)@|@tiiq@
+@You didn't give@|@saq anna-as@
+@You don't give@|@saq anna-aiq@
+@You have@|@Sul om@
+@Zoom@|@Suurõndus@
+@Zoom value@|@Suurõndusastõq@
+

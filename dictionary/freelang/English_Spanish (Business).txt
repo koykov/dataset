@@ -1,0 +1,733 @@
+@English@|@Spanish (Business)@
+@Author name@|@Ana del Río García@
+@Font@|@Arial\12\Arial\12@
+@absenteeism@|@absentismo@
+@abstinence@|@abstinencia@
+@acceleration@|@aceleración@
+@accelerator@|@acelerador@
+@acceptance@|@aceptación@
+@account@|@cuenta@
+@account day@|@día de liquidación@
+@account number@|@número de cuenta@
+@accountant@|@contable@
+@accounting@|@contabilidad@
+@accounting conventions@|@convenciones contables, principios contables@
+@accounts@|@contabilidad@
+@accounts payable@|@cuentas por pagar@
+@accounts receivable@|@cuentas por cobrar@
+@accrued assets@|@activos acumulados@
+@accrued interest@|@interés acumulado@
+@acquisition@|@adquisición, compra@
+@acquisition costs@|@costos de adquisición@
+@actuary@|@actuario@
+@adjustable-rate mortgage(ARM)@|@hipoteca con tasa de interés ajustable@
+@administered prices@|@precios administrados@
+@ADR@|@American Depository Receipt@
+@advanced countries@|@países desarrolados o avanzados@
+@advertising@|@publicidad@
+@affidavit@|@declaración jurada@
+@affordable housing@|@viviendas a precios razonables@
+@agglomeration economies@|@economías de escala por proximidad física@
+@aggregate demand@|@demanda agregada@
+@aggregate supply@|@oferta agregada@
+@aggregation problem@|@problema q surge al pasar de la micro. a la macro.@
+@agreement@|@acuerdo@
+@agreement of sale@|@acuerdo de venta@
+@agricultural reform@|@reforma agraria@
+@agricultural sector@|@sector primario o agropecuario@
+@aid@|@ayuda económica@
+@alienation@|@alienación@
+@allocate@|@asignar@
+@allocation of resources@|@asignación de recursos@
+@allowances@|@deducciones, descuentos@
+@Am. Society of Home Inspectors@|@Sociedad Norteam. de Inspectores de Vivienda@
+@amortization@|@amortización@
+@amount@|@monto de una deuda@
+@annual income@|@ingresos anuales@
+@annuity@|@annualidad@
+@anti trust laws@|@leyes antimonopólicas@
+@applying@|@solicitar@
+@appraisal@|@tasación@
+@appraiser@|@tasador@
+@APR (Annual percentage rate)@|@Tasa Porcentual Anual@
+@area@|@área@
+@article@|@artículo@
+@assembly@|@asamblea@
+@assessed value@|@valor calculado@
+@assets@|@activos, bienes@
+@assets and liabilities@|@activo y pasivo@
+@assumable mortgage@|@hipoteca asumible@
+@assume a loan@|@tomar un préstamo@
+@assume a mortgage@|@tomar una hipoteca@
+@assumption@|@asunción@
+@at sight@|@a la vista@
+@auction@|@subasta pública@
+@auditory@|@auditoría@
+@aunvity@|@anvalidar@
+@automatic cash@|@cajero automático@
+@automatic cashing@|@cobro automatizado@
+@average price@|@precio promedio@
+@AWL (airway Lading)@|@conocimiento de embarque aéreo@
+@B/L (Bill of lading)@|@conocimiento de embarque@
+@back to back@|@crédito documentario@
+@balance@|@balance, saldo@
+@balance carried down@|@remanente a cuenta nueva@
+@balance fore card@|@cuadro integrado de costo@
+@balance of payments@|@balanza de pagos@
+@balance of trade@|@balanza comercial@
+@balance outstanding@|@saldo pendiente@
+@balance sheet@|@balance@
+@balloon payment@|@pago al final@
+@banker's acceptance@|@aceptación bancaria@
+@bankruptcy@|@bancarrota@
+@banning@|@banca@
+@barter@|@trueque@
+@basis of assessment@|@base gravable@
+@bear market@|@mercado bursátil en declinación@
+@bench mark@|@punto de comparación@
+@beneficiary@|@beneficiario@
+@bias@|@sesgo, tendencia@
+@bid@|@oferta@
+@bill@|@cuenta@
+@bill of change@|@letra de cambio@
+@bill of lading@|@conocimiento de embarque@
+@biweekly-payment mortgage@|@hipoteca con pagos quincenales@
+@blue chip company@|@gran compañía@
+@bond@|@bono@
+@bookie (colloq)@|@corredor de apuestas@
+@bookkeeper@|@contable, tenedor de libros@
+@bookkeeping@|@contabilidad@
+@borrowing@|@préstamo@
+@bottom price@|@precio mínimo@
+@brand@|@marca de fábrica@
+@breadwinner@|@asalariado@
+@break down@|@análisis@
+@break even point@|@punto de equilibrio@
+@breakage@|@rotura@
+@budget@|@presupuesto@
+@building code regulations@|@reglamentaciones de los códigos de construcción@
+@building inspection servicies@|@servicios de inspección de construcción@
+@buildings@|@bienes inmuebles@
+@bulk@|@masa, volumen@
+@bull market@|@mercado bursátil en alza@
+@Business@|@acuerdo comercial@
+@business card@|@tarjeta de negocios@
+@buy down@|@reducción de la tasa de interés por pago adicional@
+@buyer@|@comprador@
+@buyer's agent@|@agente del comprador@
+@buying power@|@poder adquisitivo@
+@C&F@|@valor incluyendo costo y flete@
+@cap@|@tope@
+@capital@|@capital@
+@capital flight@|@fuga de capital@
+@capital gains@|@utilidades de capital@
+@capital gains deferment@|@aplazamiento de ganancias de capital@
+@capital goods@|@bienes de capital@
+@capital market@|@mercado de capital@
+@capital rationing@|@racionamiento de capital@
+@capital stock@|@acciones de capital@
+@carnings@|@ganancias@
+@carrier@|@transportador marítimo@
+@case@|@caso@
+@cash@|@contado, dinero, efectivo@
+@cash and carry@|@de venta al por mayor@
+@cash balance@|@saldo de caja@
+@cash crop@|@cultivo comercial, cultivo industrial@
+@cash dispenser@|@cajero automático@
+@cash flow@|@flujo de caja@
+@cash flow audience@|@flujo de caja del inversionista@
+@cash on deliver@|@pago contra entrega@
+@cash on delivery@|@entrega contra reembolso@
+@cash on hand@|@efectivo en caja, efectivo en mano@
+@cash payment@|@pago al contado@
+@cash price@|@precio al contado@
+@cash prize@|@dinero en efectivo, premio en metálico@
+@cash reserve@|@reserva de efectivo@
+@cashback@|@devolución de dinero en efectivo@
+@cashcard@|@tarjeta del cajero automático@
+@cashier@|@cajero/a@
+@cashier's check@|@cheque bancario@
+@ceiling price@|@precio tope@
+@CEO (Chief Executive Officer)@|@presidente@
+@change@|@cambio@
+@check@|@cheque@
+@chief executive officer@|@presidente@
+@child support@|@apoyo infantil@
+@CIF@|@seguro y flete, valor incluyendo costo@
+@circulating capital@|@capital circulante@
+@claim@|@reclamo@
+@clean credit@|@crédito sin necesidad de garantías@
+@clear title@|@título limpio@
+@clearing@|@compensación@
+@client@|@cliente@
+@closing@|@cierre@
+@closing balance@|@balance de cierre, balance final@
+@closing date@|@fecha del cierre@
+@CMA@|@comparative market analysis@
+@coaching@|@asesoría personal@
+@COD (Cash on Deliver)@|@pago contra entrega@
+@COD (Cash on Delivery)@|@entrega contra reembolso@
+@collateral@|@activo dado en prenda@
+@collect@|@cobro en el destino@
+@comissions@|@comisiones@
+@commercial bank@|@banco comercial, banco mercantil@
+@commercial note@|@albarán@
+@commercial paper@|@efectos negociables, papel comercial@
+@commercial traveller@|@corredor, viajante de comercio@
+@commitment fee@|@comisión de compromiso@
+@commitment letter@|@carta de compromiso@
+@commodity@|@mercadería@
+@community group@|@grupo comunitario@
+@company@|@compañía@
+@company account@|@cuenta de gastos@
+@comparative market analysis@|@análisis comparativo de mercado@
+@competition@|@competencia@
+@competitiveness@|@competitividad@
+@compound interest@|@interés compuesto@
+@concern@|@compañía@
+@conciliation@|@conciliación@
+@consolidated debt@|@deuda consolidada@
+@consultation@|@consulta@
+@consumer@|@consumidor@
+@consumer credit bureau@|@oficina de crédito para el consumidor@
+@consumer goods@|@bienes de consumo@
+@consumer price index@|@índice de precios al consumo@
+@consumption@|@consumo@
+@contribution founds@|@aportación de fondos@
+@convertibility@|@convertibilidad@
+@cooling system@|@sistema de enfriamiento@
+@cost@|@costo@
+@cost benefit ratio@|@razón beneficio costo@
+@cost of living adjustment@|@ajustes por inflación@
+@cost price@|@precio de costo@
+@cost volume profit analysis@|@análisis de sensibilidad@
+@counter trade@|@comercio, trueque@
+@coupon@|@desprendible@
+@credit@|@crédito@
+@credit analysis@|@análisis crediticio@
+@credit balance@|@saldo acreedor@
+@credit card@|@tarjeta de crédito@
+@credit counseling@|@asesoría en materia crediticia@
+@credit history@|@historial crediticio@
+@credit rating@|@calificación crediticia@
+@credit record@|@trayectoria crediticia@
+@creditor@|@acreedor@
+@currency@|@circulante, moneda@
+@current account@|@cuenta corriente@
+@current assets@|@activo circulante, activo fijo@
+@current liabilities@|@pasivo circulante@
+@current monthly expenses@|@gastos mensuales actuales@
+@custom house@|@aduana@
+@customer@|@cliente@
+@customer education group@|@grupo de educación al consumidor@
+@customers duty@|@derechos arancelarios@
+@data business@|@comercio electrónico@
+@data cash@|@banca electrónica@
+@deal@|@acuerdo comercial, negocio@
+@dealer@|@vendedor@
+@debt@|@débito, deuda@
+@debt limit@|@nivel de endeudamiento@
+@debtor@|@deudor@
+@deck load@|@carga en cubierta@
+@deductible@|@deducible@
+@deduction@|@deducción@
+@deed@|@escritura de propiedad inmobiliaria@
+@deed of Trust@|@escritura de fideicomiso@
+@default@|@incumplimiento@
+@deferred@|@diferido@
+@deferred payment@|@pago a plazos@
+@deficit@|@déficit@
+@deflaction@|@deflación@
+@delinquency@|@mora en el pago@
+@delivery@|@entrega@
+@delivery note@|@albarán@
+@demand@|@demanda@
+@deposit@|@depósito@
+@deposit account@|@cuenta de ahorros@
+@depreciation@|@amortización, depreciación, devaluación@
+@devaluation@|@devaluación@
+@devise@|@devisas@
+@disbursement@|@desembolso@
+@discharge in bankruptcy@|@eliminación de deuda por bancarrota@
+@disclosure@|@divulgación@
+@discount@|@descuento@
+@discretionary expenses@|@gastos discrecionales@
+@divided@|@dividendo@
+@donation@|@donación@
+@down payment@|@pago inicial@
+@draft@|@letra de cambio@
+@drawing@|@giro@
+@due date@|@fecha de vencimiento@
+@duty@|@arancel@
+@earnest money deposit@|@depósito de garantía@
+@earning report@|@estado de resultados@
+@earnings@|@ganancias@
+@earnings per share@|@ganancias por acción@
+@ebb and flow@|@bajada y subida@
+@ECOAEqualCreditOpportunityAct@|@Ley de Igualdad de Oportunidades de Crédito@
+@economic profit@|@valor económico@
+@economic trend@|@coyuntura económica@
+@economy@|@economía@
+@effective@|@efectivo@
+@effective rate@|@tasa efectiva@
+@effective rate per annuu@|@tasa efectiva anual@
+@empowerment@|@empoderamiento@
+@enterprice@|@empresa@
+@entrance fee@|@entrada, precio de entrada@
+@entrepreneur@|@empresario@
+@EPS@|@ganancias por acción@
+@equity@|@capital en la propiedad@
+@escrow funds@|@fondos en garantía@
+@estimate@|@estimación@
+@exceptional items@|@partidas extraordinarias@
+@exchange adjustment@|@ajuste de cambio@
+@exchange rate@|@tasa de cambio, tipo de cambio@
+@exchange rate effect@|@efecto de tipo de cambio@
+@expenditure@|@desembolso@
+@expense@|@desembolso@
+@expenses@|@gastos@
+@exporter@|@exportador@
+@exposure@|@exposición, riesgo@
+@face value@|@valor nominal@
+@factory@|@fábrica@
+@Fair Credit Reporting Act@|@Ley de Equidad de Informes de Crédito@
+@Fair Housing Act@|@Ley de Equidad de Vivienda@
+@fair price@|@precio justo@
+@family@|@familia@
+@Farmers Home Administration@|@administración de viviendas d trabajadores rurales@
+@FASB@|@normas contables@
+@fasement@|@servidumbre@
+@Federal Home Loan Bank(FBLB)@|@Banco Federal de Préstamos para Viviendas@
+@Federal Housing Administration@|@Administración Federal de Vivienda@
+@fee@|@comisión inicial, honorarios@
+@fees@|@honorarios@
+@FHA@|@Federal Housing Administration@
+@fiddling@|@chanchullos@
+@finance evaluation@|@evaluación financiera@
+@financial advisor@|@asesor financiero@
+@financial backing@|@apoyo financiero@
+@financial ratios@|@razones financieras@
+@financial review@|@análisis financiero@
+@financing@|@financiación@
+@financing evaluation method@|@método de evaluación financiera@
+@financing options@|@opciones de financiación@
+@firm@|@compañía@
+@fixed assets@|@activo circulante, activo fijo@
+@fixed expenses@|@gastos de hipoteca@
+@fixed interest rate@|@tasa de interés fija@
+@fixed liabilities@|@deudas a largo plazo@
+@fixed price@|@precio fijo@
+@fixed-rate mortgage@|@hipoteca con tasa de interés fija@
+@float@|@cheques girados y no cobrados@
+@floating@|@cheques girados y no cobrados@
+@floating debt@|@deuda flotante@
+@flood insurance@|@seguro contra inundaciones@
+@flow@|@circulación, flujo@
+@FMHA@|@Farmers Home Administration@
+@FOB (franc on board)@|@franco a bordo@
+@forbearance@|@tolerancia@
+@fordwarder@|@despachador@
+@foreclosure@|@ejecución hipotecaria@
+@foreign exchance@|@divisas@
+@forward@|@cobertura en moneda extranjera@
+@forwards@|@mecanismo de protección (garantía en el exterior)@
+@foundation@|@fundación@
+@free cash flow@|@flujo libre de efectivo@
+@freight@|@flete@
+@fund@|@fondo@
+@fund transfer@|@transferencia de fondos@
+@furniture@|@muebles@
+@future worth@|@valor futuro@
+@gambling@|@apuesta@
+@gift letter@|@carta de obsequio@
+@golden parachute@|@"paracaídas dorado" - indemnización@
+@good will@|@buena imagen@
+@goods@|@bienes@
+@graduated-paymentMortgage(GPM)@|@*hipoteca con pago graduado@
+@grant@|@beca, subsidio@
+@gross benefit@|@beneficio bruto@
+@gross income@|@ingreso bruto@
+@Group's treasury policies@|@políticas de tesorería de grupo@
+@guide to homeownership@|@guia sobre propiedad de vivienda@
+@hard currency@|@moneda dura@
+@harversting strategy@|@sacar el efectivo producido@
+@hazard insurance@|@seguro por riesgos@
+@heating@|@calefacción@
+@hedge@|@cobertura@
+@hedging@|@cobertura@
+@high income housing@|@vivienda suntuaria@
+@hire purchase@|@venta a plazos@
+@home@|@hogar@
+@home buyer education@|@educación para compradores de vivienda@
+@home equity line@|@línea de crédito sobre el capital en la propiedad@
+@Home-Buying Fair@|@feria de compra de viviendas@
+@homeowner's insurance@|@seguro del propietario@
+@homeowner's warranty@|@garantía del propietario@
+@HomePath SM@|@servicio de Remisión y Guía HomePath SM@
+@house@|@casa@
+@housing@|@vivienda@
+@housing expenses@|@gastos de vivienda@
+@hurdle rate@|@tasa de corte@
+@IBF (intnal banking facility)@|@transacciones en eurodolares en USA@
+@importation@|@importación@
+@improvements@|@mejoras@
+@in land freight@|@flete terrestre@
+@income@|@ingresos, rentas@
+@income policy@|@política de ingresos@
+@income statement@|@estado de ganancias y pérdidas@
+@income support@|@subsidio otorgado a personas de bajos ingresos@
+@income tax@|@impuesto sobre la renta@
+@income yield capacity@|@rentabilidad@
+@increase@|@incremento@
+@inflation@|@inflacción@
+@inherited audience@|@flujo de caja del proyecto futuro@
+@initial interest rate@|@tasa de interés inicial@
+@initial investment@|@inversión inicial@
+@input@|@insumo@
+@insolvent@|@insolvente@
+@installment@|@crédito, cuota, plazo@
+@installment debt@|@deuda de cuota@
+@insufficient funds@|@fondos insuficientes@
+@insulation@|@aislación@
+@insurance@|@seguro@
+@intangible@|@inmaterial@
+@interchange@|@intercambios@
+@interest rate@|@tasa de interés@
+@internal rate of return@|@tasa interna de retorno@
+@Internal Revenue Service (IRS)@|@Servicio de Renta Interna@
+@inventories@|@existencias@
+@inventory@|@inventarios@
+@investment@|@cartera, inversión@
+@invoice@|@factura@
+@IOU (I owe you)@|@le debo@
+@IRR (intnal rate of return)@|@tasa internacional de retorno@
+@issuing company@|@compañía emisora@
+@item@|@partida@
+@joint tenancy@|@tenencia conjunta@
+@joint venture@|@actividad emprial conjunta entre socios de 2países@
+@join-venture@|@acuerdo de cooperación entre empresas de 2países@
+@junk bond@|@bono basura@
+@label@|@etiqueta@
+@labor@|@mano de obra@
+@lakeover@|@adquisición hostil@
+@land@|@terrenos@
+@landlord@|@arrendador, locador@
+@late charge@|@recargo por mora@
+@lease with purchase option@|@alquiler con opción a compra@
+@ledger@|@libro de contabilidad@
+@legal resident@|@residente legal@
+@legal resident card@|@tarjeta de residente legal@
+@lender@|@entidad crediticia, prestador@
+@lessor@|@arrendador, locador@
+@letter of credit@|@carta de crédito@
+@leverage rate@|@índice de apalancamiento@
+@levy@|@gravamen@
+@liabilities@|@pasivo@
+@liability@|@deuda, obligación, responsabilidad@
+@lien@|@gravamen@
+@life of loan@|@vida útil del préstamo@
+@lifetime cap@|@límite máximo dInterés dte laVida útil dl préstamo@
+@liquidity@|@liquidez@
+@liquidity ratio@|@coeficiente de caja, coeficiente de liquidez@
+@liquidity ratios@|@razón de liquidez@
+@listed securities@|@acción cotizada en bolsa@
+@listing agent@|@agente listador@
+@load@|@cargamento@
+@loan@|@préstamo@
+@loan officer@|@agente de préstamos@
+@loan servicing@|@servicios de préstamos@
+@loan-to-value ratio (LTV)@|@relación préstamo a valor@
+@location@|@ubicación@
+@lock-in rate@|@tasa de interés asegurada@
+@long term capital flows@|@flujo e capital a largo plazo@
+@long term debt@|@deuda a largo plazo@
+@long term loan@|@préstamo a largo plazo@
+@long-term@|@a largo plazo@
+@long-term liabilities@|@deudas a largo plazo@
+@loss@|@pérdida@
+@lot@|@lote@
+@low income housing@|@vivienda popular@
+@lump sum@|@pago global@
+@M&A (mergers and acquisitions)@|@fusiones y adquisiciones@
+@manager@|@gerente@
+@manufacturer@|@fabricante@
+@manufactures products@|@productos manufacturados@
+@margin@|@margen@
+@marital status@|@estado civil@
+@market@|@mercado@
+@market price@|@precio de mercado@
+@market research@|@estudio de mercado@
+@market value@|@valor de mercado@
+@matched timing@|@tiempo apareado@
+@maximum mortgage amount@|@monto máximo de hipoteca@
+@meeting@|@asamblea@
+@merger@|@fusión, unión@
+@minimum wage@|@salario mínimo@
+@minority neighborhoods@|@vecindarios d personas pertenecients a ls minorías@
+@monetary adjustment@|@corrección monetaria@
+@monetary correction@|@corrección monetaria@
+@money@|@dinero@
+@money growth@|@crecimiento del dinero@
+@money received@|@ingresos@
+@monthly payment@|@mensualidad@
+@mortgage@|@hipoteca@
+@mortgage arrears@|@atrasos en el pago de la hipoteca@
+@mortgage bank@|@bancos hipotecarios@
+@mortgage banker@|@banquero hipotecario@
+@mortgage broker@|@agente hipotecario, asesor hipotecario@
+@mortgage financing@|@financiación hipotecaria@
+@mortgage insurance (MI)@|@seguro hipotecario@
+@mortgage life insurance@|@seguro de vida hipotecario@
+@mortgage loan@|@préstamo hipotecario@
+@mortgage loan application@|@solicitud de un préstamo hipotecario@
+@mortgage shopping@|@búsqueda de un préstamo hipotecario@
+@mortgagee@|@acreedor hipotecario@
+@mortgagor@|@deudor hipotecario@
+@most favored nation treatment@|@tratamiento de nación más favorecida@
+@movement@|@movimientos@
+@Multiple Listing Service (MLS)@|@Listado Múltiple de Casas en Venta (NILS en ingl.)@
+@national income@|@ingreso nacional@
+@negotiation@|@negociación@
+@net@|@red@
+@net cash flow@|@flujos netos de efectivo@
+@net present value@|@valor presente neto@
+@net price@|@precio neto@
+@net profit@|@AA beneficio neto@
+@net worth@|@valor neto (patrimonio)@
+@NF (no founds)@|@sin fondos@
+@nominal rate@|@tasa nominal@
+@non profit corporation@|@empresa no lucrativa@
+@nonprofit organizations@|@organizaciones sin fines de lucro@
+@notice of default@|@aviso de incumplimiento en el pago@
+@NPV (net present value)@|@valor presente neto@
+@number@|@cifra@
+@occupancy@|@ocupación de la casa@
+@occupant@|@ocupante@
+@offer@|@oferta@
+@open market@|@mercado libre@
+@operating profit@|@beneficio de explotación@
+@operation@|@operación@
+@operation costs@|@costos de operación@
+@ordinary shares@|@acciones comunes@
+@output@|@producción@
+@outreach@|@extensión@
+@outstanding shares@|@acciones en circulación@
+@overheads@|@gastos generales, gastos indirectos@
+@owner financing@|@financiación del propietario@
+@part-time job@|@trabajo de tiempo parcial@
+@pay in cash@|@pagar en efectivo@
+@payback period@|@periodo de recuperación@
+@payment@|@pago@
+@payment advance@|@avance@
+@payment cap@|@tope de pago de hipoteca@
+@payment change date@|@fecha de cambio de pago de una hipoteca@
+@payment in arrears@|@pago atrasado@
+@payroll@|@nómina@
+@penalty@|@multa@
+@period@|@periodo@
+@personal assets@|@bienes personales@
+@planing@|@planificación@
+@Planned UnitDevelopments(PUDs)@|@Desarrollo de Unidades Planificadas@
+@plc (public limity company)@|@S.A. (Sociedad Anónima)@
+@plumbing@|@cañerías@
+@political economy@|@economía política@
+@pre investment@|@pre inversión@
+@preference shares@|@acciones preferentes@
+@preferential trading system@|@sistema de comercio preferencial@
+@prepayment penalty@|@multa por pago anticipado@
+@prequalification@|@calificación previa@
+@price@|@precio@
+@price control@|@control de precios@
+@price earning rate@|@relación precio ganancia@
+@price elasticity@|@elasticidad del precio@
+@price fall@|@caída de precios@
+@price freeze@|@congelación de precios@
+@price range@|@nivel de precios@
+@primary mortgage market@|@mercado hipotecario principal@
+@prime rate@|@tasa preferencial@
+@principal@|@capital@
+@principal & interest (P&I)@|@capital e interés@
+@principal residence@|@residencia principal@
+@private mortgage insurance(PMI@|@seguro hipotecario privado@
+@prive list@|@tarifas@
+@processing time@|@duración del proceso de trámite@
+@production@|@producción@
+@profit@|@beneficio, ganancia, utilidad@
+@profit margin@|@margen de beneficio@
+@project life cycle@|@ciclo de vida del proyecto@
+@promissory note@|@pagare@
+@promissory quota@|@pagare@
+@property insurance@|@seguro de una propiedad@
+@property owner@|@dueño de una propiedad@
+@providers@|@proveedores@
+@proyect evaluation@|@evaluación de proyectos@
+@proyection@|@proyección@
+@public assistance funds@|@fondos de Asistencia Pública@
+@purchase@|@compra@
+@purchasing power@|@poder adquisitivo@
+@quota@|@cupo@
+@radon@|@radón@
+@rate@|@índice, rata, tasa@
+@rate cap@|@tope de la tasa de interés@
+@rate lock-in@|@garantía de tasas de interés@
+@rate of growth@|@tasa de crecimiento@
+@rate of interest@|@tasa de interés@
+@raw material@|@materia prima@
+@real estate@|@bienes raíces@
+@real estate agent@|@agente de bienes raíces@
+@real estate attorney@|@abogado de bienes raíces@
+@real estate owned (REO)@|@bienes raíces en propiedad@
+@real interest@|@interés real@
+@rebate@|@descuento, devolución, reembolso@
+@receipt@|@recibo@
+@recession@|@desaceleración@
+@reciprocal trade@|@acuerdo comercial@
+@redemption@|@amortización@
+@refinancing@|@refinanciación@
+@refund@|@reembolso@
+@rehabilitation mortgage@|@hipoteca de rehabilitación@
+@relatives@|@familiares, parientes@
+@rentability@|@rentabilidad@
+@repairs@|@reparaciones@
+@repayment@|@reembolso@
+@replacement value@|@valor de reemplazo@
+@required return@|@retorno sobre la inversión@
+@residence@|@residencia@
+@responsibility@|@responsabilidad@
+@return on assets@|@retorno sobre activos@
+@return on equity@|@retorno sobre el patrimonio@
+@revitalization@|@revitalización@
+@revolving found@|@fondo de rotación@
+@roucher@|@comprobante@
+@runaway inflation@|@inflación galopante@
+@salary@|@salario, sueldo (mensual)@
+@sale@|@venta@
+@savings@|@ahorros@
+@savings account@|@cuenta de ahorros@
+@Savings and Loan Association@|@Asociación de Ahorro y Préstamo@
+@second mortgage@|@hipoteca secundaria@
+@secondary mortgage market@|@mercado hipotecario secundario@
+@securities@|@títulos, valores@
+@security@|@seguridad@
+@self-employed@|@trabajador autónomo@
+@seller@|@vendedor@
+@seller take-back mortgage@|@hipoteca financiada por el vendedor@
+@selling agent@|@agente de ventas@
+@set back@|@contratiempo@
+@settlement@|@saldos@
+@settlement agent@|@agente a cargo de la operación de cierre@
+@sewage system@|@sistema de desagüe@
+@share@|@acción, participación@
+@share capital@|@capital social@
+@share certificate@|@certificado de acción@
+@share index@|@índice de cotización en bolsa@
+@share portfolio@|@cartera de acciones@
+@share prices@|@cotización de las acciones@
+@share turnover@|@movimiento accionario@
+@shareholder@|@accionista@
+@shares of stock@|@acciones@
+@shares outstanding@|@acción en circulación@
+@shopping for a home@|@búsqueda de una vivienda@
+@short term loan@|@préstamo a corto plazo@
+@short-term@|@a corto plazo@
+@Showing America aNew Way Home®@|@nuevaForma dAlcanzar laViviendaPropia pa'nortemcns@
+@simple interest@|@interés simple@
+@single-family home (1-4 units)@|@vivienda unifamiliar(1-4 unidades)@
+@sinking found@|@fondo de amortización@
+@Social Security benefits@|@beneficios del seguro social@
+@sole trader@|@sociedad unipersonal@
+@speculation@|@especulación@
+@stable housing costs@|@gastos estables de vivienda@
+@statement@|@extracto de cuenta, informe anual@
+@statement of accounts@|@estado de cuentas@
+@statute@|@estatuto@
+@stock@|@capital@
+@stock company@|@compañía anónima@
+@stock corporation@|@compañía anónima@
+@stock exchange@|@bolsa de valores@
+@stock holder@|@accionista@
+@stock holders@|@patrimonio@
+@stock index@|@indicador bursátil@
+@stock market@|@bolsa de valores@
+@stock pile@|@acumulación de inventarios@
+@stockbroker@|@corredor de bolsa@
+@storing@|@almacenamiento@
+@straight line method@|@AAA@
+@subsidy@|@subsidio, subvención@
+@sum@|@suma@
+@supplier@|@proveedor@
+@supply@|@oferta@
+@surcharge@|@recargo@
+@surrender value@|@valor de salvamento@
+@surtax@|@sobretasa@
+@survey of property@|@estudio de la propiedad@
+@swap@|@cambalache@
+@tangible@|@material@
+@tax@|@impuesto@
+@tax assessment@|@evaluación impositiva@
+@tax benefits@|@beneficios impositivos@
+@tax consultant@|@asesor impositivo@
+@tax return@|@declaración de impuestos@
+@taxable income@|@renta gravable, renta imponible@
+@taxes and insurance (PITI)@|@impuestos y seguro@
+@technical study@|@estudio técnico@
+@tenancy@|@arrendamiento@
+@title@|@título@
+@title search@|@búsqueda de títulos de propiedad@
+@to allocate@|@asignar@
+@to apply@|@solicitar@
+@to appreciate (in value)@|@apreciar (el valor)@
+@to be in debt@|@adeudar, estar en deuda@
+@to debit@|@adeudar@
+@to go into debt@|@contraer deuda@
+@to lend@|@prestar@
+@to owe@|@adeudar, deber@
+@to qualify@|@calificar, reunir los requisitos@
+@to refinance@|@refinanciar@
+@to rent@|@alquilar@
+@townhouse@|@vivienda en serie@
+@trade@|@comercio@
+@trading year@|@ejercicio económico@
+@transaction@|@operación@
+@transfer@|@transferencia@
+@transport@|@transporte@
+@trial balance@|@balance de comprobación de saldos@
+@Truth-In-Lending Statement@|@declaración de veracidad de un préstamo@
+@turn over@|@rotación@
+@turnover@|@cifra, facturación, volumen de ventas@
+@Two Step® mortgage@|@hipoteca en Dos Pasos@
+@unemployment@|@desempleo@
+@up turn@|@alza@
+@upkeep expenses@|@gastos de mantenimiento de la propiedad@
+@utilities@|@servicios públicos@
+@VA loan@|@préstamo VA@
+@valorization@|@valorización@
+@valuation@|@valoración@
+@value@|@valor@
+@value added network@|@red de valor agregado@
+@value engineering@|@generación de valor@
+@venture capital@|@capital de riesgo@
+@Veterans Administration loan@|@admnistración de temas relacionados con veteranos@
+@voucher@|@comprobante, cupón, justificante, vale@
+@W-2 Forms@|@formularios W-2@
+@wage@|@paga (semanal), sueldo (semanal)@
+@wage claim@|@reivindicación salarial@
+@wage earner@|@asalariado@
+@wage freeze@|@congelación salarial@
+@wage packet@|@sobre de la paga, sobre del sueldo@
+@wage slave (colloq)@|@currante@
+@wage slip@|@nómina, recibo de sueldo@
+@wage talks@|@negociaciones salariales@
+@wage-paid@|@asalariado@
+@wager@|@apuesta@
+@wages@|@paga, sueldo@
+@wages snatch@|@robo de nómina@
+@waiver@|@exención@
+@warranty@|@garantía@
+@wholesaler@|@mayorista@
+@winery@|@bodega@
+@winset on line@|@bolsa electrónica@
+@working capital@|@capital de trabajo@
+@worksheet@|@hoja de trabajo@
+@year@|@año, ejercicio@
+

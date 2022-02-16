@@ -1,0 +1,415 @@
+@English@|@Tahitian@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@ability@|@mana@
+@above@|@earo, ni'a@
+@ache@|@Faraoa@
+@adopted child@|@tamarii faaàmu@
+@afternoon@|@ananahi atu@
+@all@|@ana'e, ato'a@
+@and@|@'ee, ma@
+@animal@|@'änimara, manu@
+@april@|@'eperëra@
+@ash@|@eàrahow, rehu, rehu auahi@
+@at@|@i@
+@august@|@'ätete@
+@back@|@etoo, tua, tue@
+@bad@|@'ino@
+@bairn@|@tamari'i@
+@bamboo@|@ôfe@
+@bank@|@Fare moni@
+@banks@|@opane@
+@bark@|@'iri, pa'a@
+@because@|@nö te mea@
+@beef@|@Pua'atoro@
+@beer@|@pia@
+@bellow@|@raro@
+@belly@|@'oopuu, 'öpü, eoboo@
+@below@|@etooa, raro@
+@big@|@nui, rahi@
+@bird@|@manoo, manu@
+@black@|@'ere'ere@
+@blood@|@matee, toto@
+@blue@|@moana, nïnamu@
+@blue-green@|@niinamu@
+@bone@|@ivi, opareemo@
+@boy@|@earee@
+@branch@|@'aama'a@
+@breakfast@|@Tämä'ara'a po'ipo'i@
+@breast@|@'oouma, 'öuma, eom, eoo, tiitii, uu@
+@Bridge@|@'ë'aturu, tahua pahï@
+@canoe@|@va'a@
+@cat@|@mimi, piifare@
+@cheers!@|@Manuia!@
+@chicken@|@i'a@
+@child@|@midee, tamaiti, tamari'i, tamari'i@
+@children@|@tamarii@
+@Chinese@|@tintö@
+@church@|@'ëtäretia, fare purera'a(pure)@
+@Clark@|@Tate@
+@cloud@|@ao, ata, eat@
+@coffee@|@Taofe@
+@cold@|@ma'ariri, mareere, to'eto'e@
+@correct@|@'aafaro, mau, tano, ti'a@
+@daughter@|@tamahine@
+@day@|@ao, mahan, mahana@
+@december@|@titema@
+@dinner@|@Tämä'ara'a ahiahi@
+@dirty@|@repo, repoa@
+@dog@|@'urii, uri@
+@drink@|@inu@
+@dry@|@marö, maroo, marroowhai@
+@dull@|@mania, toòmmoo, tümü, tuumuu@
+@dust@|@hu'ahuaa hu'ahuaa, repo, repo puehu repo puehu@
+@dust (1)@|@one@
+@ear@|@tareeh, tari'a@
+@earth@|@fenua, repo@
+@egg@|@hooirmoa, hooro, huero@
+@eight@|@e vaù, va'u, varu, walhoo@
+@English@|@pa(e)ra(e)täne@
+@eye@|@mata@
+@eyes@|@matau@
+@face@|@mata@
+@far@|@aatea, ätea, roa@
+@fat@|@hinu, ma'i, ma'i, mi'i, paiy@
+@father@|@metua, metua taane, metua tane, mituatane, paapaa@
+@father (1)@|@paino@
+@feather@|@hetehete, huruhuru@
+@february@|@fepuare@
+@female@|@vahine@
+@few@|@ma'a@
+@fingernail@|@mai'u'u@
+@fire@|@ahi, auahi, wahaeahei@
+@fish@|@eiya, i'a@
+@five@|@e pae, ha, illemei, pae, rima@
+@flower@|@pua, taire tiare, tiare@
+@fly@|@rere@
+@fog@|@rüpehu, ruupehu@
+@foot@|@'aavae@
+@for cook@|@toote@
+@foreigner@|@papaa@
+@forest@|@aru@
+@four@|@e maha, ha, haa, maha@
+@french@|@faräni@
+@friday@|@farairë, imahana pae@
+@fruit@|@hoora-ooiro, huero, Mä'a, maa'a@
+@fruits@|@Mä'a@
+@full@|@'ï, api@
+@german@|@purutia@
+@go back again@|@ehaòe, wahoee@
+@gold@|@pirü@
+@good@|@maita'i, manamanatey, myty@
+@good afternoon@|@'Ia ora na 'oe 'orua, 'outou@
+@good evening@|@'Ia ora na 'oe 'orua, 'outou@
+@good morning@|@'Ia ora na 'oe 'orua, 'outou@
+@good night@|@'Ia ora na 'oe 'orua, 'outou@
+@good-bye@|@Nana, Pärahi@
+@Gore@|@Towara@
+@grandparents@|@ruau, tupuna@
+@grass@|@'aihere, matie@
+@green@|@matie, poemeedee@
+@Green@|@Treene@
+@guts@|@'ä'au@
+@hair@|@eraowroo, rouru@
+@hand@|@rima@
+@he@|@'öna@
+@he/she@|@'oia, 'oona@
+@head@|@erowroo, upo'o, ûpo'o@
+@heart@|@mäfatu@
+@heaven@|@ra'i@
+@heavy@|@teiaha, toiaha@
+@hello@|@'Ia ora na 'oe 'orua, 'outou@
+@here@|@iho nei@
+@hibiscus@|@aute@
+@Hicks@|@Hite@
+@Hill@|@'äivi@
+@horn@|@tara@
+@Hospital@|@faje ma'i@
+@Hotel@|@hötëra@
+@house@|@fale, fare@
+@housewife@|@maheineeawaow@
+@how@|@nähea@
+@How are you?@|@'oe huru ?, E aha t?, Maita'i oe?@
+@How much does it cost?@|@E hia moni teie?@
+@how?@|@naafea@
+@human being@|@ta'ata@
+@husband@|@taane, tane@
+@I@|@au, naow, vau, waow@
+@I don't understand@|@'Aita e päpü i?'u@
+@ice@|@pape to'eto'e@
+@if@|@'ähiri, 'ia@
+@ill@|@ma'i@
+@in@|@i, i roto, roto@
+@infant@|@tamari'i@
+@intestines@|@'aa'au@
+@it lightens@|@eoeffr@
+@january@|@tenuare@
+@juice@|@ti@
+@july@|@tiurai@
+@june@|@tiunu@
+@knee@|@turi@
+@lake@|@roto@
+@leaf@|@ewawaowerao, rao'ere, rau, rau'ere@
+@left@|@'aio, 'aui, aruri@
+@leg@|@'aavae, 'ävae@
+@legs@|@eawy@
+@lightining@|@uira@
+@lightning@|@uira@
+@liver@|@'upa'a, 'üpa'a@
+@long@|@oëoëteres, roa@
+@louse@|@'utu, oatoo@
+@male@|@taane@
+@man@|@ta'ata, ta'ane@
+@many@|@rahi@
+@march@|@mäti@
+@marry@|@hoa, tane@
+@may@|@më@
+@meat@|@'i'o, eeree, ina'i@
+@monday@|@imonirë@
+@monkhouse@|@matà@
+@month@|@hepetoma@
+@moon@|@'aava'e, maram, marama@
+@mosquito@|@namu, naonao@
+@mother@|@maamaa, metua vahine, mituaheine, potea ino@
+@Mountain@|@mou'a@
+@mouth@|@ewauh, vaha@
+@name@|@i'oa@
+@narrow@|@'a'ano, ('aa)oaoa, ('aa)oaoa, piripiri@
+@natural death@|@màtteno@
+@near@|@faatata, fatafa, whattata@
+@neck@|@'a'ii, eaee@
+@needle@|@nira@
+@new@|@'aapii, 'äpï, hoou@
+@night@|@po, pô, poo, rui@
+@nine@|@e iva, iva@
+@no@|@'aima, 'aita, E'ere, E'ita@
+@nose@|@eahoo, ihu@
+@not@|@'eiaha@
+@november@|@no(v)ema@
+@Ocean@|@moana@
+@october@|@'atopa@
+@old@|@ruhiruhia, ruu'au, tahito@
+@one@|@hoê, hoo'ee, tahi, tohe@
+@one hundred@|@e hanere, haanere, nanaihere, rau@
+@one thousand@|@e tauatini, mano, tauatini@
+@one way@|@ho'e noa iho e'a@
+@opposed to@|@oeoe@
+@orange@|@'änani@
+@other@|@'ë, 'ë, vetahi('ee)@
+@painful@|@ma'i ma'i, mamae mamae@
+@pandanus@|@fara@
+@parent@|@metua@
+@Parkinson@|@Patine@
+@person@|@ta'ata, tata@
+@Pharmacy@|@fare (ho'ora'a) rä'au@
+@Pickersgill@|@Petrodero@
+@pig@|@Pua'a@
+@Police station@|@fare müt'oi@
+@Post Office@|@fare rata@
+@potato@|@'Umara pütete@
+@purple@|@vare'au@
+@rain@|@eworooai, ua@
+@rat@|@'iore, eyoare@
+@red@|@'ura, 'ute'ute@
+@relatives@|@fetii@
+@Restaurant@|@fare tämä'ara'a@
+@right@|@'atau@
+@River@|@'änävai, (tahera'a)pape, tahora@
+@road@|@'ee'a, ara, ea'tia, poroomu, puruumu@
+@root@|@a'a@
+@rope@|@taura@
+@rotten@|@'oopee, pee@
+@round@|@menemene@
+@salt@|@miti, miti, taitai@
+@sand@|@one@
+@saturday@|@imahana mä'a.@
+@School@|@fare ha'apï'ira'a@
+@sea@|@miti, moana, tai@
+@seed@|@huero@
+@september@|@tetepa@
+@seven@|@e hitu, fitu, hitoo, hitu@
+@sharp@|@'ina, 'oe'oe, 'oi@
+@short@|@popoto, poto@
+@shoulder@|@etapon, tapono@
+@shy@|@ha'amaa ha'amaa, maamahu maamahu@
+@sick@|@ma'i@
+@six@|@e ono, ono, whaine@
+@skin@|@'iri, eweyoraèe@
+@sky@|@aora, ra'i, ra'i, reva@
+@small@|@iti, na'ina'i, ri'i@
+@smell@|@ho'i ho'i@
+@smoke@|@auauahi, eohoo@
+@smooth@|@mänina@
+@snake@|@'oofii@
+@snow@|@hiona@
+@Solander@|@Tolano@
+@some@|@nau, tau@
+@son@|@tamaiti, tamaroa@
+@speak to me@|@paraowmai@
+@spider@|@ootooròhonnoo, tütürahonui, tuutuurahonui@
+@Spoving@|@Poline@
+@Square@|@mähora@
+@Stainsby@|@Taibe@
+@star@|@efedee, feti'a, fetuu@
+@stick@|@epeea, etoomoo, mauha'a, rä'au, raa'au@
+@stolen@|@woreede@
+@stone@|@'oofa'i, owhai@
+@Store@|@fare toa@
+@storm@|@vero@
+@straight@|@'äfaro, ti'a@
+@Street@|@aroä, porömu, purümu@
+@sun@|@mahana, rä@
+@sunday@|@itäpati@
+@sundown@|@ahiahi, taharaa mahana@
+@Tahiti@|@Tahiti@
+@tail@|@'aero, 'itere, eairo, ehaòwpè, hi'u@
+@take a walk@|@ori@
+@tea@|@ti@
+@teeth@|@eneeho@
+@ten@|@'afulu, 'ahuru, ahuru, e àhuru, hoolhoo, tini@
+@thank you@|@Mäuruuru@
+@that@|@aha, aha, tee'naa, teeraa, terrä@
+@thatch@|@taapo'i fare@
+@there@|@iho na@
+@they@|@raatou, raaua, rätou@
+@thick@|@me'ume'u, mènne, tuetue@
+@thick rope@|@taod@
+@thin@|@rairai@
+@this@|@t'èna, teie@
+@thou@|@'oe, tooanahahow, tooanahoe@
+@three@|@e toru, torhoo, toru, toru@
+@thunder@|@(harurura'a) pätiri, paatiri, patiree@
+@thursday@|@imahana maha@
+@time@|@hora@
+@to bite@|@'a'ahu, 'a'ati, hohoni@
+@to blow@|@farara farara, hiamòorre, puhi puhi, puhuhi@
+@to break out@|@pato@
+@to breathe@|@huti i te aho, oròmàtoo@
+@to burn@|@'ama, tutu'i@
+@to buy@|@ehò, ho'o, ho'o mai, tanu@
+@to chew@|@'au'au@
+@to choose@|@ma'iti@
+@to climb@|@'a'e, eàeenietematto, pa'uma, ta'uma@
+@to come@|@haere mai@
+@to come and go@|@eheèroharreehòe@
+@to cook@|@'eu, tunu@
+@to count@|@nümera, tai'o, tatau@
+@to cry@|@ta'i@
+@to cut@|@taapuu, täpü, tarai@
+@to die@|@mate, màtteroah, pohe, wharrawai@
+@to dig@|@'eru, 'ö, heru, pao, tüpä@
+@to dream@|@moemoeaa, ta'oto'otoaa@
+@to drink@|@inu, norothoedéadeet'avai@
+@to eat@|@'ai, 'amu, eei@
+@to fall@|@itop, topa@
+@to fear@|@mata'u, ri'ari'a@
+@to fight@|@taputö@
+@to flow@|@tahe@
+@to fly@|@airareè, ma'ue, rere@
+@to give@|@höro'a@
+@to go up with rope@|@epèeniea@
+@to grow@|@tupu@
+@to hear@|@aiwee, fa'aro'o@
+@to hide@|@emòto, pupuni, taapuni@
+@to hit@|@taa'iri, taparahi@
+@to hold@|@mau, rave, taape'a@
+@to hunt@|@a'ua'u, a'ua'u pua'a@
+@to kill@|@ha'apohe, taparahi, taparahi-pohe-roa, tüpa'i@
+@to know@|@'ite@
+@to laugh@|@'ata@
+@to lie@|@tärava@
+@to lie down@|@moe, ta'oto, ta'oto@
+@to live@|@ora@
+@to open@|@heheu, hua'i@
+@to pick@|@paato@
+@to plant@|@tanu@
+@to play@|@ha'uti@
+@to pound@|@paapaahia@
+@to pull@|@'ume@
+@to push@|@tura'i@
+@to rub@|@'ü'ui, 'ui'ui@
+@to say@|@ï, parau@
+@to scratch@|@mayneeneeormyneere, pära'u, ra'ura'u@
+@to see@|@'ite, hi'o@
+@to sew@|@au, nira, tui@
+@to shoot@|@te'a@
+@to sing@|@hïmene, pehe@
+@to sit@|@paarahi, parahei@
+@to sleep@|@iraòwai, moe, ta'oto, ta'oto, taoto@
+@to smell@|@hau'a@
+@to sniff@|@ephàow, hau'a hau, ho'i@
+@to spit@|@hooàre, tootoòà, tootoòà, tuha, tutuha@
+@to split@|@tuha, vaahi, vähi@
+@to squeeze@|@'u'umu, eninnei, nene'i, tämau@
+@to stab@|@paatia piquer, paatia(tia)@
+@to stand@|@'oti'ati'a, eetoò, ti'a, tuu@
+@to steal@|@'eiaa@
+@to suck@|@'ote, eotte, miti, miti@
+@to swell@|@'oru, hoònnehoònne, pahu@
+@to swim@|@'au, eaow@
+@to talk@|@porai@
+@to think@|@mana'o@
+@to throw@|@taaora, täora@
+@to tie@|@nati, ruru@
+@to tie up@|@ruru'u, ta'ai, ta'amu@
+@to turn@|@tiipu'u, tïoi@
+@to vomit@|@piha'e, rua'i@
+@to walk@|@haere@
+@to wash@|@horoi@
+@to wipe@|@horoi@
+@to work@|@'ohipa, ha'a@
+@to yawn@|@amama, haamama@
+@today@|@i teie nei mahana, iteie tau@
+@tomorrow@|@änänahi@
+@tongue@|@arero, treero@
+@tooth@|@niho@
+@tortoise@|@honu@
+@tree@|@rä'au@
+@tuesday@|@imahana piti@
+@twenty@|@arooato, piti 'ahuru, ta'au@
+@two@|@e piti, piti, rooa, rua@
+@Valley@|@fa'a paho@
+@vegetables@|@Ma'a tupu@
+@warm@|@maahanahana, verrverra@
+@water@|@avy, pape, vai@
+@wave@|@'are'are, mätä'are@
+@we@|@maatou, maaua, taatou, taaua@
+@wednesday@|@imahana toru@
+@week@|@hepetoma@
+@wet@|@rari@
+@what@|@aha, aha (interrogative)@
+@What is this?@|@E aha tei'oa ote'ie?@
+@What is your name?@|@'O vai to oe i'oa?@
+@What time is it?@|@E aha te ora?@
+@what?@|@aha, e aha@
+@when@|@ahea@
+@when?@|@aafea, ehai, inaafea, naahea, nehàia, nehàia@
+@where@|@tei hea@
+@Where are you going?@|@Te haere nei 'oe i hea?@
+@Where do you live?@|@I hea 'oe e faeia ai?@
+@Where is my room?@|@tei hea tö'u piha?@
+@Where is the bar?@|@Tei hea te fare inuinura'a?@
+@Where is the bathroom?@|@Tei hea (roa) te fare iti?@
+@Where is the beach?@|@Tei hea te pae miti?@
+@Where is...?@|@Tei hea (roa) ...?@
+@where?@|@harehie, hea, nooie tehai, tehai@
+@white@|@'uo'uo, (tea)tea, teà@
+@who@|@vai (interrogative)@
+@who?@|@'o v'ai@
+@wide@|@'a'ano@
+@wife@|@hoa, huaheine, vahine, vahine@
+@wind@|@hupe, mat(r)a'i, mata'i, matai@
+@wine@|@uaia@
+@wing@|@pererau@
+@with@|@ma@
+@woman@|@aheine, vahine, vahine@
+@women@|@vahine@
+@woods@|@'aihere, ururaa'au@
+@worm@|@to'e@
+@year@|@matahiti@
+@yellow@|@poeooleoole, re'are'a@
+@yes@|@'Ae, 'oia, ë@
+@yesterday@|@inänahi(ra)@
+@you@|@'oorua, 'outou@
+@zero@|@'aore@
+

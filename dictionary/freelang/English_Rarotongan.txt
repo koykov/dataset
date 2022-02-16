@@ -1,0 +1,315 @@
+@English@|@Rarotongan@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@above@|@runga@
+@all@|@katoa@
+@ancient times@|@ta'ito@
+@and@|@maa@
+@And you?@|@E koe?@
+@Are you Rarotongan?@|@E Rarotonga koe?@
+@ash@|@rèu@
+@at@|@i, tei@
+@back@|@mokotua@
+@bad@|@kino@
+@beach@|@ta'atai@
+@beauty@|@ine, purotu@
+@belly@|@kona, koopuu, manava@
+@below@|@raro@
+@big@|@'akamatü, äma'atama'ata, katakata, ma'ata, ngao@
+@big (1)@|@äkä@
+@bird@|@manu, manu rere, marurere@
+@black@|@ìva, kere, uri@
+@blood@|@toto@
+@bone@|@ivi@
+@branch@|@raaraa@
+@breast@|@uu@
+@causative@|@aka-@
+@chief@|@ariki@
+@child@|@tama, tamaiti, tamariki@
+@clan@|@ngati@
+@cloud@|@tiao, tumurangi, türangi@
+@cold@|@anu, anu toketoke@
+@come@|@mai@
+@correct@|@true tika@
+@dance@|@'ura@
+@daughter@|@tamáine@
+@day@|@ao, ra@
+@dirty@|@àvaàva, repo@
+@dog@|@kurii@
+@Don't touch me there! (1)@|@to'ou mata ku'a kite ko'e!@
+@dry@|@maroo@
+@dull@|@mania@
+@dust@|@puèu@
+@ear@|@taringa@
+@earth@|@kere/maroo@
+@egg@|@ua@
+@eight@|@varu@
+@eternal@|@manea@
+@European@|@papa'a@
+@evening@|@po@
+@eye@|@kanoì, mata@
+@fall@|@ìnga, makuru, marere, topa@
+@far@|@mamao@
+@fat@|@ngako@
+@father@|@pä, papa, päpä@
+@feast@|@umukai@
+@feather@|@'uru, 'uru'uru@
+@fifty@|@rima ngauru@
+@fire@|@aì@
+@fish@|@ika@
+@five@|@rima@
+@flower@|@pua@
+@fog@|@ko'u, maa'uu@
+@foot@|@vae@
+@four@|@a, àa@
+@fruit@|@'ua@
+@garland@|@ei@
+@go@|@haere, he'e@
+@God@|@Atua@
+@good@|@maitaki, reka@
+@goodbye@|@no'o@
+@goodbye (to s.o leaving)@|@aere ra@
+@goodbye (to s.o staying)@|@no'o ra@
+@grass@|@matie(e), mauku@
+@grease@|@ìnu@
+@green@|@'akamatie, matie, tämatie@
+@hair@|@`uru, rauru@
+@hand@|@kapu, rima@
+@happy@|@mataora@
+@have you heard the news@|@kua rongo körua i te nüti!@
+@he@|@aia, ia@
+@he/she is not here@|@Käre 'aia i konei@
+@head@|@upoko@
+@heavy@|@tai/maà/, tei/maà/, teimaà@
+@hello@|@kiaorana@
+@Hello!@|@Kiaorana koe!@
+@Here come our friends@|@Ko tö täua taeake tërä ake, To täua taeake tërä ake@
+@Hey there!@|@E va'ine!@
+@house@|@'are, àre@
+@how many?@|@'e 'ia?@
+@how much?@|@'e a'a moni?@
+@how?@|@pe'ea?, pèea@
+@husband@|@taane@
+@I@|@-ku, au@
+@I am British@|@Mai Peretani au@
+@I live in Tahiti at the moment@|@No'o au ki Ta'iti ki teia ra@
+@I live in this land@|@No'o au ki teia vao rakau@
+@if@|@me@
+@I'm from Rarotonga@|@mai Rarotonga au@
+@I'm going to school tomorrow@|@Ka 'aere au ki te 'äpi'i äpöpö@
+@imperative@|@e@
+@in@|@roto@
+@in/at/on@|@ki@
+@intestines@|@ngaaku@
+@it@|@aia@
+@it's because I learnt Tahitian@|@nó kite au ki te reo Ta'iti!@
+@kava drink@|@kava@
+@lake@|@roto@
+@land@|@'enua, henua, henua, vao rakau@
+@language@|@reo@
+@leaf@|@rau@
+@left@|@kauï, kauvï, mauï@
+@leg@|@tapuae@
+@Let us go !@|@'aere täua !@
+@lightning@|@rapa, uira@
+@listen@|@akarongo@
+@liver@|@ate@
+@long@|@roa@
+@look@|@akara@
+@look around@|@akarakara@
+@louse@|@kutu, kutu papa@
+@love@|@here@
+@male@|@taane@
+@man@|@tamaroa, táne@
+@Mary goes to Rarotonga@|@He'e ko Mary ki Rarotonga@
+@meat@|@kiko@
+@mine@|@toku@
+@moon@|@marama@
+@morning@|@popongi@
+@mosquito@|@namu@
+@mother@|@mama@
+@mountain@|@maunga@
+@mouth@|@vaà@
+@my@|@taku@
+@My name is Ioane@|@Ko Ioane toku ingoa@
+@My name is Mary@|@Ko Mary toku ingoa@
+@name@|@ingoa@
+@name announcer@|@ko@
+@narrow@|@'öiti, kökota, köpäpä, köpü, oaoa, täkokota@
+@narrow (1)@|@täköpäpä@
+@near@|@vai/tata@
+@neck@|@kakii@
+@needle@|@au@
+@new@|@`oou@
+@night@|@poo@
+@nine@|@iva@
+@no@|@àuraka, kaa`ore, kare, kare@
+@nose@|@putaang/iqu@
+@not@|@kore@
+@object marker@|@kia@
+@ocean@|@moana@
+@old@|@taìto@
+@one@|@ta'i, taì@
+@one hundred@|@tai anere@
+@one thousand@|@mano, tauatini, tavatini@
+@other@|@kë, ta'i, tëta'i@
+@oven@|@umu@
+@painful@|@maauiui, mamae@
+@peace@|@'au@
+@person@|@tangata@
+@rain@|@ua@
+@rat@|@kiore@
+@red@|@'ute, kura@
+@return@|@hoki, huri@
+@right@|@katau@
+@road@|@ara@
+@root@|@paki-aka@
+@rope@|@taura@
+@rotten@|@para, popo@
+@salt@|@miti@
+@sand@|@one@
+@sarong@|@pareu@
+@sea@|@moana, tai@
+@seashell@|@pupu@
+@see@|@kite@
+@seven@|@'itu, itu@
+@sharp@|@koi@
+@she@|@aia, aia, ia@
+@She sees a man@|@Kite aia e táne@
+@short@|@poto@
+@shoulder@|@'ua, pokoivi, pukuìvi@
+@shy@|@tä'akamä@
+@sit@|@no'o@
+@six@|@ono@
+@skin@|@kiri@
+@sky@|@rangi@
+@small@|@àka(ri)riki/, iti, poto, riki@
+@smoke@|@au, auaì@
+@snake@|@'öuï@
+@son@|@tamároa@
+@speech@|@tuatua@
+@spider@|@tukutuku/ra`onui@
+@star@|@`eetuu@
+@stick@|@raakau@
+@stone@|@pooàtu@
+@Tahiti@|@ta'iti@
+@tail@|@ìku@
+@tatch@|@ato@
+@temple@|@marae@
+@ten@|@nga'uru@
+@that@|@aua, taua, tera@
+@the@|@te@
+@they@|@rätou räua@
+@they and Tere have quarrelled@|@Kua pekapeka rätou ko Tere@
+@they have the strongest team@|@Nö rätou te pupu märo'iro'i@
+@thick@|@maatoru@
+@thin@|@angiangi, rairai@
+@think@|@manako@
+@this@|@te(e)ia, teeia, teia@
+@this book belongs to you two@|@Na körua teia puka@
+@thou@|@koe@
+@three@|@toru@
+@thunder@|@mängüngü@
+@Tiki@|@Tiki@
+@to bite@|@eti, kati@
+@to blow@|@angi, àrara, puì@
+@to breathe@|@ngaa@
+@to burn@|@ta`u, tutungi, tuungia@
+@to buy@|@`oko@
+@to chew@|@-ìa, ngau-a@
+@to choose@|@ìri@
+@to climb@|@kake-a -ìa -na@
+@to come@|@tätä'i@
+@to cook@|@ta`u, tao@
+@to count@|@tärë, tatau@
+@to cry@|@tangi@
+@to cut@|@kokoti, kootia, motu, tarai, vaaì/a@
+@to die@|@mate, po'e@
+@to dig@|@keri@
+@to dream@|@moemoeaa@
+@to drink@|@inu@
+@to eat@|@kai-nga@
+@to fear@|@iì@
+@to flow@|@ta'e@
+@to fly@|@rere@
+@to grow@|@tupu@
+@to hear@|@rongo@
+@to hide@|@pi(i)pini, puni@
+@to hit@|@paakia, papaki, patu, ta-ia, taa, tuki@
+@to hold@|@kuku-a, puke/na, tango@
+@to hunt@|@apuapu, kimi@
+@to kill@|@kikini, putu, tä, tämate, tämatemate@
+@to know@|@kite, maatau@
+@to laugh@|@kata@
+@to lie down@|@'akatakoto, 'akatïpapa, moe@
+@to live@|@mauri, ora@
+@to open@|@'akangangata, 'akapu'ata, 'akatü'era'era@
+@to plant@|@tanu, tanutanu, tatanu@
+@to pound@|@tuki@
+@to say@|@araara, karanga, körero, tuatua@
+@to scratch@|@raku(raku), raraku@
+@to see@|@kite@
+@to sew@|@tui@
+@to shoot@|@taa/àna@
+@to sit@|@no'o@
+@to sleep@|@moe@
+@to sniff@|@`ongi@
+@to spit@|@puaki, tuà, tutuà@
+@to split@|@ngaàa, tapaì, vaaì@
+@to squeeze@|@romi, tatau@
+@to stab@|@pätia, pätiatia, vero, verovero@
+@to stand@|@tuu@
+@to steal@|@keiaa@
+@to suck@|@-ìa, ngote-a@
+@to swell@|@'akangë(ngë), 'akapetetue, ë, ngaru, öpuepue@
+@to swim@|@kau@
+@to think@|@maàra@
+@to throw@|@-ìa, maka, peeì-a, tii, tiri@
+@to tie up@|@-ìa, -na, ìitiki-a, nati-a, rii, taapeka@
+@to turn@|@'akapa'e, 'iki'iki, pa'e@
+@to vomit@|@puaki, rua/ki@
+@to walk@|@àere@
+@to work@|@ànga/ànga@
+@to yawm@|@àamama@
+@today@|@ki teia ra@
+@tongue@|@arero@
+@tooth@|@ni`o@
+@twenty@|@rua@
+@two@|@rua@
+@village@|@'oire@
+@vocative@|@e@
+@want@|@inangaro@
+@warm@|@maàna@
+@water@|@vai@
+@we@|@mätou, tätou@
+@we have no more food@|@Käre ä tätou kai toe@
+@wedding@|@'akaipoipo@
+@wet@|@mä'ü, mä'ü'ü, tärari@
+@what?@|@aà, e a'a@
+@What's your name?@|@Ko 'ai tou ingoa?@
+@when?@|@aa'ea@
+@Where is my room?@|@Tei 'ea te pi'a?@
+@Where is the bar?@|@Tei 'ea te nga'i oko'anga?@
+@Where is the beach?@|@Tei 'ea te ta'atai?@
+@where?@|@'ea, tei'ea?@
+@white@|@tea@
+@Who are we waiting for?@|@Ko'ai tä tätou e tiaki nei@
+@who?@|@ài, ko 'ai?@
+@why did he/she come?@|@'Ea'a 'aia i 'aere mai ei@
+@wide@|@'a'ano, ätea@
+@wife@|@va'ine@
+@wind@|@matangi@
+@wing@|@peeàu@
+@woman@|@ìne, va'ine, vaìne@
+@woods@|@ngaa/ngaaere, uru/raakau, vao@
+@worm@|@toke@
+@Wow!@|@Aue!@
+@year@|@tau@
+@yellow@|@rengarenga@
+@yes@|@'e@
+@you@|@koe, koorua, kootou@
+@you all@|@koutou@
+@You saw us@|@Kua kite mai koe ia mätou@
+@you two@|@korua@
+@zero@|@kare@
+

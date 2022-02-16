@@ -1,0 +1,546 @@
+@English@|@Fulfulde@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@10 francs@|@sunku didi@
+@1104@|@ujineere e temerre et nay@
+@15 francs@|@sunku tati@
+@20 francs@|@sunku nay@
+@25 francs@|@sunku jowi@
+@30 francs@|@sunku joweego@
+@35 francs@|@sunku joweedidi@
+@4 lemons for 5 francs@|@Leemuuje ney sunku@
+@40 francs@|@sunku joweetati@
+@45 francs@|@sunku joweenay@
+@5 eggs for 40 francs@|@Geeraade joweego sunku sunku@
+@5 francs@|@sunku gootel@
+@50 francs@|@sunku sappo@
+@a beautiful horse@|@puccu nboodngu@
+@a coin@|@siisi@
+@A deaf-mute@|@muukaajo@
+@A Hangar@|@dank@
+@A heap of trash@|@jiddere@
+@A mad@|@ginnado@
+@A net of sin@|@zubawol@
+@a pigeon@|@poola@
+@A poor@|@laafudo@
+@A snake@|@nboodi@
+@A spear@|@labbo@
+@A thorn@|@gi'al@
+@An elm@|@ganki@
+@be done@|@Vendugo@
+@Beard@|@wakkude@
+@Because we know@|@ngam 'en 'anndi@
+@Bring me@|@o don hokka mmi, waddan am@
+@But@|@ammaa@
+@Butter@|@leebol@
+@Come here@|@war haa do@
+@Come therefore@|@war le@
+@District@|@fattude@
+@Don't come here@|@taa war haa do@
+@don't enter@|@taa taa naastu@
+@Don't leave@|@taa dillu, taa taa dillu@
+@Don't touch me there!@|@Wota memam dhon!@
+@Each prefers its village@|@koomoy yidi wuro mum@
+@eat@|@ñaam@
+@eight@|@jeetati, njoweetato, njoweetaton@
+@eight hundred@|@temedde jeetati@
+@eight thousand@|@ujine jeetati@
+@eighteen@|@sappo e jeetati@
+@eighty@|@cappande jeetati, cappande jeetti, hemere bambara@
+@eleven@|@sappo e go'o@
+@Enter two by two@|@Naaste dido dido@
+@fatigue@|@comri@
+@fifteen@|@sappo e jowi@
+@fifty@|@cappande jowi@
+@five@|@jowi, njowo, njowon@
+@five children@|@bikkon njowon@
+@five hundred@|@temedde jowi, ujine jowi@
+@five thousand@|@ujine jowi@
+@Food is cooked@|@Gniri bendi@
+@For nothing@|@meere@
+@forty six@|@cappande nay e jeego@
+@four@|@nay, nayo, nayon@
+@four hundred@|@temedde nay, ujine nay@
+@four thousand@|@ujine nay@
+@fourteen@|@sappo e nay@
+@fourty@|@cappande nay@
+@Friday@|@jum'aare@
+@give@|@hokku@
+@Give me@|@hokk am, ndaa ko nbii don dam, ndokkee dam, o hokkat am@
+@Give to him@|@hokku mo@
+@Go you of it@|@dillu@
+@half@|@reeta@
+@he@|@himo, kanko, mo, o, omo@
+@he asked@|@O yami@
+@he broke@|@O fusi@
+@he came@|@O wari@
+@he comes@|@O don wara@
+@he cultivated@|@O remi@
+@he defecated@|@O bu'i@
+@He did his best@|@O kabdi@
+@he didn't come yet@|@O siwaa wargo@
+@He didn't do his best@|@O kabdaay@
+@He didn't let@|@O dalaay@
+@He does his best@|@O don habda@
+@He doesn't accuse@|@O hadaay@
+@he doesn't escape@|@O daddaay@
+@he doesn't have@|@O walaa, O woodaa@
+@he doesn't have flees@|@O doggaay@
+@he doesn't have yet@|@O siwaa@
+@He doesn't let@|@O dalaay@
+@he doesn't like me@|@O yida kam@
+@he drank@|@O yari@
+@he falls asleep@|@O don daano@
+@he fell asleep@|@O don daani@
+@he gave@|@O hokkaay, O hokki@
+@He gave a chicken to his wife@|@o hokki debbo maako gertogal@
+@he has@|@Woodi@
+@he has ran@|@O doggi@
+@He hasn't hit@|@o fiyaay@
+@he is capable@|@O waawi@
+@he is eating@|@O don naama@
+@he is lying@|@O don waali@
+@he is not@|@O walaa@
+@he is praying@|@O don juula@
+@he lies down@|@O don waalo@
+@he likes me@|@O yidi yam@
+@he passed@|@O saalake@
+@he raised@|@O gantake@
+@he read@|@O janngi@
+@he said@|@O wi'i@
+@He saw his father@|@o yi'i baaba maako@
+@He slept@|@O daani@
+@he wanted@|@O yidi@
+@he wanted to leave@|@o yidi dillugo@
+@he watched@|@O laari@
+@He will do his best@|@O kabdan@
+@he will try@|@O habdan@
+@he won't be in front@|@O ardataa@
+@He won't do his best@|@O kabdataa@
+@he won't escape@|@O dadataa@
+@he won't try@|@O habdataa@
+@he worked@|@O huuwi@
+@He'd neither his dad nor mom@|@o walaa baaba bee daada fuu@
+@Here is what you told to me@|@ndaa ko nbii da mi@
+@Here's what you told to me@|@ndaa ko nbii don dam@
+@His not in front@|@O ardaaki@
+@i@|@mido@
+@I@|@hilan@
+@I am capable@|@mi waawi@
+@I am going to give you@|@haa mi hokke, mi hokkete@
+@I am known@|@min mi anndi@
+@I bought of the eggs 5 francs@|@Mi soodi geeraade sunku sunku@
+@I brought@|@mi waddi@
+@I came@|@mi wari@
+@I cannot understand@|@mi faamataa@
+@I didn't eat anything of all@|@mi naamaay koo dume@
+@I didn't go again to Yaoundé@|@Mi meedaay yaago Yawnde@
+@I didn't see@|@Mi yi'aay@
+@I didn't see anybody@|@mi yi'aay koo moy@
+@I don't absolutely want@|@mi yidaa sam@
+@I don't even have 5 francs@|@mi woodaa koo siisi@
+@I don't know@|@Mi anndaa@
+@I don't want@|@Mi yida, mi yidaa@
+@I don't want to tighten you@|@Mi yida billugo ma@
+@I eat some@|@mi ñaaman dum@
+@I forgot@|@mi yejjiti@
+@I found@|@Mi tawi@
+@I gave@|@mi hokki@
+@I gave it to him@|@mi hokki mo ngal@
+@I gave it to your father@|@mi hokki ngal baaba ma@
+@I know@|@Mi anndi@
+@I know his father@|@mi anndi baaba maako@
+@I know you@|@mi anndi ma@
+@I know; I know@|@Mi anndi@
+@I like@|@Mi yidi@
+@I only saw two people@|@mi yi'i yimbe dido tan@
+@I put in doubt@|@mi waabi@
+@I saw@|@mi giido, Mi yi'i@
+@I saw it with his father@|@mi yi'i mo bee baaba maako@
+@I tell to you@|@mi don wi'e, mi sappinte@
+@I thank you@|@mi yetti ma@
+@I touched@|@mi meemi@
+@I waited for you@|@Mi don reeni ma@
+@I want@|@Mi yidi, Mi yidi@
+@I want to know@|@Mi yidi anndugo@
+@I will come@|@mi waran@
+@I would find@|@Mi tawan@
+@I would give to you@|@mi hokkete@
+@I would show to you@|@mi sappinte@
+@I'm able@|@mi waawi@
+@in front@|@yeeso@
+@In the evening@|@kiikiide@
+@it accused@|@O hadi@
+@it answered@|@o noot@
+@it asked@|@O yami@
+@it blew@|@o fuufi@
+@it broke@|@O fusi@
+@it brought me a chicken@|@o waddani yam gertogal@
+@it calls@|@O don hewra@
+@it caught@|@o nanngi@
+@it comes@|@O don wara@
+@it crunched@|@o yakki@
+@it cultivated@|@O remi@
+@it damaged@|@o wonni@
+@it descended@|@o jippake@
+@it didn't come yet@|@O waraay tawon@
+@it didn't die@|@o maayaay@
+@it didn't forbid@|@O kadaay@
+@it didn't give@|@O hokkaay@
+@it didn't have anything@|@o hebaay koo dume@
+@it didn't try@|@O habdaay@
+@it died@|@o maayi@
+@it doesn't accuse@|@hadataa@
+@it doesn't enter@|@taa o naastado@
+@it doesn't forbid@|@O kadataa@
+@it doesn't know@|@O anndaay@
+@it doesn't know me@|@mi don wi'e, o anndaa kam@
+@it doesn't like me@|@haa mi hokke, o yidaa kam@
+@it drew@|@o_diidi@
+@it escaped@|@O dadi@
+@it falls asleep@|@O don daano@
+@It filled@|@Dum kewri@
+@it flies in air@|@O don fiira@
+@it forbids@|@O don hada, O kadi@
+@it gave@|@O hokki@
+@it gave him a goat@|@o hokki mo mbeewa@
+@it gave them 3 of them each@|@O hokki be tati tati@
+@it gave to him@|@o hokki mo@
+@it gave to me@|@o hokki yam@
+@it gave to you@|@o hokki ma@
+@it gets lost@|@O don halka@
+@it gives to me@|@ndaa ko nbii da mi@
+@it goes flee@|@O doggan@
+@it goes scape@|@O doggan@
+@it gotten lost@|@O kalki@
+@it had neither father nor mom@|@o walaa baaba koo daada@
+@it had neither food nor money@|@o woodaa ceede, o woodaa naamdu@
+@it had only one cow@|@waddan am@
+@it has fled@|@O doggi@
+@it has hit@|@O fiyi@
+@it has only one cow@|@hokk am, hokk am, o woodi nagge woote@
+@it has pull@|@O doofaay@
+@it have fly@|@O firaay@
+@it have hit@|@o fiyaay@
+@it have pull@|@O doofaay@
+@it hits@|@O don fiya@
+@it hunted me@|@ndokkee dam, o riiwi mmi@
+@it is before@|@O ardi@
+@it is coming@|@O don wara@
+@it is cooking@|@Dum don bennda@
+@it is eating@|@O don naama@
+@it is going to fly@|@O fiiran@
+@it is going to let@|@O accan@
+@it is going to stop@|@O dalan@
+@it is lost@|@O halki@
+@it is lying@|@O don waali@
+@It is not full@|@Dom hewraay@
+@it is not lost@|@Mbé kalkaay, O halkaay@
+@it is praying@|@O don juula@
+@it is pulling@|@O don doofa@
+@it is winning@|@O don dada@
+@it knows@|@kanko o anndi, O anndi@
+@it left@|@o dilli@
+@it let@|@o acci, O dali@
+@it lies down@|@O don waalo@
+@it made fallen@|@o do''i@
+@it only wants one of it@|@o yidi gootel pal@
+@it prayed@|@o do'i@
+@it pulled@|@o foodi@
+@it raised@|@O gantake@
+@it ran@|@O doggi@
+@it reached@|@o yottake@
+@it read@|@O janngi@
+@it rose@|@o ummi@
+@it said@|@o wari o wi'i, O wi'i@
+@it sees@|@O don hewra@
+@it slept@|@O don daani@
+@it spread@|@o liiri@
+@it tried@|@O habdi@
+@it walks@|@o don yaha@
+@it wanted to leave@|@o woodi nagge woote@
+@it wants@|@O yidi@
+@it wants escape@|@A yidi dadugo@
+@it wants escaped@|@A yidi dadug@
+@it wants flee@|@O yidi doggugo@
+@it wants to be@|@O yidi ardaago@
+@it wants to be in front@|@O yidi ardaago@
+@it wants to fly@|@O yidi fiirugo@
+@it wants to pull@|@O yidi doofugo@
+@it was@|@O don dogga@
+@it will accuse@|@O hadan@
+@it will escape@|@O dadan@
+@it will forbid@|@O kadan@
+@it will get lost@|@O halkan, O kalkan@
+@it will give to me@|@o hokkat am, o riiwi mmi@
+@it will know@|@O anndan@
+@it will let@|@O dalan@
+@it will pull@|@O doofan@
+@it won't be having to@|@O ardataa@
+@it won't flee@|@O doggataa@
+@it won't fly@|@O fiirataa@
+@it won't get lost@|@O halkataa, O kalkataa@
+@it won't give to me@|@o hokkataa kam, o yidaa kam@
+@it won't know@|@O anndataa@
+@it won't let@|@O accataa, O accataa, O dalataa@
+@it won't pull@|@O doofataa@
+@it worked@|@O huuwi@
+@its best@|@O don habda@
+@its children@|@bikkon maako@
+@its children arrived@|@bikkon maako ngari@
+@its father@|@baaba maako@
+@its father (was) blacksmith@|@baaba maako gudiijo@
+@it's sold@|@o soorri@
+@Listen to me@|@nananee dam, o hokkataa kam@
+@Loincloth@|@wurre@
+@Me@|@mi, mi, min, yam@
+@Monday@|@altine@
+@Morning@|@fadjiri@
+@My children@|@bikkon am@
+@My father@|@babba am@
+@My mother@|@daada a@
+@nine@|@jeenay, njoweenayo, njoweenayon@
+@nine hundred@|@temedde jeenay@
+@nine thousand@|@ujine jeenay@
+@nineteen@|@sappo e nay@
+@ninety@|@cappande jeenayi, hemere bambara e sappo@
+@ninety six@|@cappande jeenay e jeego@
+@not of dresses@|@naa limce@
+@not of food@|@naa naamdu@
+@not of money@|@naa ceede@
+@not to be good@|@Welaa@
+@Not to let@|@Accaay@
+@of her@|@maako, muudum@
+@of him@|@muudum@
+@Of him@|@maako@
+@Of me@|@am@
+@Of you@|@maada@
+@Oil@|@ñebbam@
+@one@|@go'o, gootel, gooto@
+@One gets married@|@Min don eera@
+@one hundred@|@temerre@
+@one hundred sixty three@|@temerre cappande jeego e tati@
+@one is advancing@|@En don ardo@
+@One learns@|@En don annda@
+@One only@|@gooto@
+@one thousand@|@ujineere@
+@Only one calabash@|@tummude woore@
+@Only one dog@|@rawaandu wooru@
+@Only one horse@|@puccu ngootu@
+@Only one road@|@laawol gootol@
+@Only one sheep@|@nbaala ngoota@
+@Other@|@feere@
+@rescue@|@Jokkaago@
+@Saturday@|@asawe@
+@Say the therefore@|@wi' ne@
+@seven@|@jeedidi, njoweedido, njoweedidon@
+@seven hundred@|@temedde jeedidi@
+@seven thousand@|@ujine jeedidi@
+@seventeen@|@sappo e jeedidi@
+@seventy@|@cappande jeeddi, cappande jeedidi, mali hemere e sappo@
+@seventy seven@|@cappande jeedidi e jeedidi@
+@she@|@kanko, o@
+@she didn't escape@|@O daddaay@
+@she washed@|@O looti@
+@six@|@jeego, njoweego, njoweegon@
+@Six eggs to 5 francs piece@|@Geeraade joweego sunku sunku@
+@six hundred@|@temedde jeego@
+@six thousand@|@ujine jeego@
+@sixteen@|@sappo e jeego@
+@sixty@|@cappande jeego, cappande jeegon, mali hemere@
+@sulphurizing@|@bondo@
+@ten@|@sappo@
+@Ten eggs to 7 francs 50 piece@|@didi sunku tati tati, Geeraade sappo@
+@That cannot be full@|@Dum hewrataa@
+@That God gives us health@|@Allah hokku en jam@
+@That God gives you health@|@Allah hokk e jam, Allah hokke jam@
+@That God grants us a good nigh@|@Allah wallin en jam@
+@That God is good for you@|@Allah woonane@
+@that goes greenhouse@|@Dum billan@
+@That himself full@|@Don kewra@
+@That is cooking@|@Dum don bennda@
+@that is going to cook@|@Dum benndan@
+@that is not going to cook@|@Dum benndataa@
+@That me derrange@|@Dum don billa@
+@That stinks@|@Dum don acca@
+@That this man comes@|@gorko oo wara@
+@That tightens@|@Dum billi@
+@That will be full@|@Dum hewran@
+@That will fill itself@|@Dum kewran@
+@That your father enters@|@baaba ma naasta@
+@the@|@mo@
+@The body@|@bandu@
+@The bush@|@ladde@
+@The chief's horse@|@puccu laamiido@
+@The clouds@|@duule@
+@The coasts@|@becce@
+@the cow@|@nagge@
+@The cow that didn't go back@|@Naï eeraay@
+@The cow that refused gone back@|@Naï saali eerugo@
+@The cows@|@na'i@
+@The deaths@|@maaybe@
+@the father@|@baaba@
+@The father saw his child@|@babba yi'i binngel mum@
+@The field@|@ngesa@
+@The hallway@|@zawleeru@
+@The head@|@hoore@
+@The herd of cow that goes back@|@Naï eeran@
+@The herd of cow that went back@|@Naï eeri@
+@The herd of cow that won't go@|@Naï eerataa@
+@the horse@|@puccu@
+@The judgment@|@kiita@
+@The market@|@luumo@
+@the marmittes@|@payande@
+@the months@|@lebbi@
+@the mother@|@daada@
+@The mother came back@|@daada warti@
+@the name@|@innde@
+@The night@|@jemma@
+@the oil@|@ñebbam@
+@The road@|@laawol@
+@the roof@|@tiitol@
+@the route@|@lawool@
+@the slot@|@suudu@
+@The stars@|@koode@
+@the stomach@|@reedu@
+@The thunder@|@felmaango@
+@There is@|@Woodi@
+@There is what you told to me@|@nananee dam, o anndaa kam@
+@they@|@ebe, hibe@
+@they are capable@|@be nbaawi@
+@they asked@|@be yami@
+@They attached@|@be kabbi@
+@they broke@|@be pusi@
+@they came@|@be ngari@
+@They carried@|@be ndoondi@
+@They caught@|@be nanngi@
+@They come@|@be don ngara@
+@they cultivated@|@be ndemi@
+@They defecated@|@be nbu'i@
+@They defend@|@Mbé don kada@
+@they drank@|@be njari@
+@they fought@|@be kabi@
+@They found@|@be tawi@
+@they gave@|@be ndokki@
+@They get lost@|@Mbé don kalka@
+@they have ran@|@be ndoggi@
+@They inherited together@|@be ndondi@
+@They manage@|@mbé don kabda@
+@they passed@|@be caalake@
+@they raised@|@be ngantake@
+@they read@|@be njanngi@
+@they said@|@be nbi'i@
+@they slept@|@be daani@
+@they wanted@|@be ngidi@
+@they washed@|@be lotti@
+@they watched@|@be ndaari@
+@they will find@|@be tawan@
+@they worked@|@be kuuwi@
+@Thief@|@gujjo@
+@thirteen@|@sappo e tati@
+@thirty@|@cappande tati@
+@This horse@|@puccu ng@
+@This is not cooked@|@Dum benndaay@
+@This year@|@hikka@
+@thre is@|@Woodi@
+@three@|@tati, tato, taton@
+@three horses@|@pucci tati@
+@three hundred@|@temedde tati@
+@three thousand@|@ujine tati@
+@Thursday@|@alhamiisa@
+@to abandon@|@Wudingo@
+@To accuse@|@Hadugo@
+@to arrive@|@yottaago@
+@to be ashamed@|@Semtugo@
+@to be good@|@Weli@
+@to be heavy@|@Teddugo@
+@to be heavy for someone@|@Teddango@
+@to be played of@|@Hewrugo@
+@to beat@|@Fiyugo@
+@to begin again@|@Meetugo@
+@to break@|@Yewugo@
+@to bring back@|@Wartirgo@
+@To bring to@|@waddango@
+@to buy@|@Soodugo@
+@to can@|@Waawugo@
+@to catch@|@Nazgugo@
+@to chew@|@Qakkugo@
+@to come@|@Warugo@
+@to come closer of@|@Paandaago@
+@to conduct@|@Laanyugo@
+@To cook@|@Bendugo@
+@to cross@|@Eerugo@
+@to die@|@Maayugo@
+@to disorder@|@Villugo@
+@to drown@|@Yoolaago@
+@to escape@|@Daxugo@
+@to find@|@Tawugo@
+@to fly@|@Fiirugo, Wujjogo@
+@to follow@|@Tokkugo@
+@to get@|@Hoosugo@
+@to go@|@yahugo@
+@to go up on@|@Wa'aago@
+@To hit@|@Fiyugo@
+@to hunt@|@Meedugo, Riiwugo@
+@to knock@|@Maaraago@
+@to known@|@Anndugo@
+@to let@|@Dalugo, Xalugo@
+@to loose@|@Halkugo@
+@To lose@|@Halkugo@
+@to make flow@|@Ilnugo@
+@to make shame to@|@Semtingo@
+@to manage@|@Havdugo@
+@to marry@|@bango@
+@to pass@|@Saalaago, Saldorgo@
+@to precede@|@Ardaago@
+@to pull@|@Xoofugo@
+@To pull@|@Doofi@
+@to receive@|@Javugo@
+@to refuse@|@Haxugo@
+@to refuse to@|@haxa@
+@to release takes@|@Yoftugo@
+@to rise@|@Ummaago@
+@to run@|@Doggugo@
+@to say@|@Wi'ugo@
+@to see themselves with someone@|@Yiidugo@
+@to sell@|@coggu@
+@to speed along on@|@Ummanaago@
+@to surround@|@Taarugo@
+@To threaten@|@barraago@
+@To tighten@|@Billataa@
+@To try@|@Habdugo@
+@Translates: only for an unit@|@tan@
+@Trap the@|@nanngu mo@
+@Tuesday@|@salaasa@
+@twelve@|@sappo e didi@
+@twenty@|@noogas@
+@two@|@didi, dido, didon@
+@two hundred@|@temedde didi@
+@two hundred and thirty@|@temedde didi e cappande tati@
+@two thousand@|@ujine didi@
+@two women@|@rewbe dido@
+@Uncle (paternal)@|@bappa@
+@us@|@enen@
+@Watch in top@|@tijj@
+@we@|@enen, hiden, miden@
+@We gave@|@min ndokki@
+@Wednesday@|@alarba@
+@well@|@jam@
+@Where is my room?@|@Hoto suudu am ndu?@
+@Where is the bar?@|@Hoto yeyirde konjam nde?, Hoto yeyirde njaram nde?@
+@Where is the beach?@|@Hoto gongal maayo ngal?@
+@Who will be before@|@Moï arrdoto@
+@Work@|@kuugal@
+@you@|@ada, an, hida, on@
+@You@|@enen, ma@
+@you (pl)@|@odon@
+@You (pl) brought@|@on ngaddi@
+@You are known@|@an a anndi@
+@You brought@|@a waddi@
+@You don't know myself@|@A annda kam@
+@you know@|@a anndi@
+@You know myself@|@A anndi yam@
+@You will let the bones@|@'on 'accan 'i'e@
+@Your children@|@bikkon ma@
+@Your father@|@baaba ma@
+

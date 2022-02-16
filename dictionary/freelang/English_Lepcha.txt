@@ -1,0 +1,487 @@
+@English@|@Lepcha@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a box of bamboo@|@tüng-bo@
+@a corner@|@a-kjang, kjang, tung-kjang@
+@a creeping plant@|@kün-tóng@
+@a cup@|@tuk-chim@
+@a cut@|@mó@
+@a female@|@a-mít, mít@
+@a house@|@a-dóng, dóng, lí@
+@a large basket@|@khjong@
+@a large expanse@|@da thó, thó@
+@a month@|@lä-vo@
+@a musk-melon@|@tüng-mel pót@
+@a rat@|@kä-lók, kün-lók@
+@a rising hill@|@zhang, zhóng@
+@a road@|@a-gun, gun@
+@a rupee@|@kóm@
+@a shrub@|@lum-njeng muk@
+@a son-in-law@|@myók@
+@a spec of Sterculia@|@kä-hljám kun@
+@a spec. of rice@|@kum-bu zo@
+@a spec. of vegetable@|@kä-hlu rik-bí@
+@a spec. of worm@|@tä-ljang bü@
+@a spec. of zo (rice)@|@tam-pu chen zo@
+@a spec. of zo rice@|@jä-mór-zo@
+@a stream@|@kjong@
+@a thorn@|@a-zhu, zhu@
+@a twig@|@ting@
+@a well@|@lap@
+@a word@|@a-ming, ming@
+@a yak@|@jók@
+@abdomen@|@ta-bak, tä-fük@
+@above@|@thang, to@
+@accuracy@|@a-zham, zham@
+@add to@|@kjep@
+@all@|@gün@
+@all country below the source@|@a-täng, täng@
+@an aunt@|@a-nju, nju@
+@an evil spirit@|@mung, mung-ma@
+@answerable for@|@thóp@
+@anus@|@tü@
+@arched@|@küm@
+@arrow@|@sa-li@
+@as ripe fruit@|@kär-däng@
+@ashes@|@ju@
+@bag slung@|@küm-bal@
+@banks of river@|@klóp@
+@bark@|@a-pi@
+@basket for carrying rice@|@ku-mu@
+@basket for fowls@|@a-grem, a-grjam, grjam, tüng-grjam@
+@be able to walk@|@grang@
+@be adhesive@|@krap@
+@be bare@|@tën@
+@be bent a little@|@kong@
+@be bitter@|@krí, krí-mto@
+@be deprived@|@krjuk@
+@be dried up@|@krek@
+@be dry@|@hrju@
+@be extremely cold@|@kjang@
+@be finished@|@mut@
+@be level@|@tar@
+@be moist as rice@|@kjór@
+@be on service to@|@tek@
+@be one upon another@|@kjóm@
+@be plump as child@|@thor@
+@be strong on legs@|@krang@
+@be surrounded@|@kul@
+@be thick as anything@|@tang@
+@be thin@|@chim@
+@be wasted@|@lók@
+@become tame@|@ljan@
+@bed of river@|@krul@
+@beer@|@chí@
+@belt@|@rí@
+@bite@|@cuk@
+@black ant@|@tük-gar@
+@block of wood@|@a-kam, kam@
+@blood@|@vi@
+@body of slaughtered animals@|@kong@
+@boiled mixture@|@tük-täk@
+@brain@|@jäng, jöng@
+@breast@|@njen@
+@breath@|@a-sóm@
+@bright as star@|@kür-dü@
+@broad@|@klóp-lä@
+@brown@|@mün-mün@
+@brushwood@|@muk@
+@bunch@|@a-tjum, tjum@
+@buttermilk@|@ka-chhu@
+@buttress of tree@|@kung thjong, thjong@
+@buy@|@par@
+@cage for beasts@|@a-grem@
+@cane@|@rim@
+@carry@|@bü@
+@change position a little@|@klám@
+@close@|@akhris@
+@closely joined@|@klap, klap-la@
+@cloud@|@bjong@
+@cold@|@hjáng@
+@comb as hair@|@krát@
+@common fly@|@süm-brjong@
+@completely@|@krup@
+@cooked@|@a-män, män@
+@council@|@krut@
+@count@|@a-frón, frón, fróng@
+@covered with dirt@|@tóng@
+@covered with water@|@nüp@
+@crab@|@ta-hi@
+@cricket@|@tüng-djär@
+@cup formed of bamboo@|@täng-tek@
+@cut in two with one stroke@|@klä@
+@dangling against each other@|@kát kát@
+@daughter-in-law@|@njóm@
+@deaf@|@a-njor süng-tong, bóng, póng, süng-tong, tong-tong@
+@degree@|@thu@
+@difficult@|@ka-hrin@
+@dirt@|@mä-ri@
+@dream@|@mong@
+@drinking cup@|@tham, tham-pü@
+@dropping from tree@|@tók@
+@dry bamboo@|@rok@
+@earth@|@fat@
+@egg@|@a-tí, tí@
+@elbow@|@ká-thu, thu@
+@entire@|@a-gjám, gjám, zhäm, zhäm-mä@
+@entrails@|@täkli@
+@escape@|@thor@
+@even as@|@do, do-la@
+@face@|@a-mlem, mlem@
+@fat@|@a-šut@
+@fire@|@mí@
+@fist@|@tap@
+@flabby@|@thyor@
+@flat@|@a-kljóp, kljóp@
+@flow round@|@kjül@
+@foot@|@dyang, keng, thong@
+@foreskin@|@a-thun@
+@freckles of face@|@kür-mót@
+@full@|@bljan@
+@Gallophasis melanota@|@ka-hryak-fo@
+@glisten@|@ljop@
+@go@|@nóng@
+@go to be@|@kä@
+@goat@|@sä-ro@
+@grandchild@|@zon@
+@grand-child@|@thä@
+@grave build in a circular@|@chók@
+@green@|@fóng@
+@grow as trees@|@lin@
+@gulp@|@hüp@
+@hair@|@a-mät, ä-mjal, ä-mjel, mät@
+@hair of head@|@acom@
+@hand@|@ká@
+@handle@|@lung@
+@hanging down head@|@khár, khár-lä@
+@have griping pains@|@kin kin däk@
+@head@|@tok@
+@hear@|@thjo@
+@heavy-rumped@|@a-tol, tol@
+@hedgehog@|@kä-šer@
+@hold in mouth@|@'um@
+@honey@|@vot@
+@horn@|@aróng@
+@house@|@khjüm@
+@hunger@|@krít@
+@husband@|@ävo@
+@I@|@kä@
+@illuminating@|@om-bo@
+@increase as water after rain@|@dár@
+@insect@|@bü@
+@intense black@|@kün@
+@jacket@|@ta-go, tä-go@
+@joint@|@a-chak@
+@kind of a bird@|@tä-góng, tüng-góng fo@
+@kind of cloth@|@ka-ba@
+@knee@|@tuk-pat@
+@know@|@jä@
+@lady@|@ku-mo@
+@large basket@|@tüng-dyóng@
+@large leaf of tree@|@lóp@
+@leather@|@kom-bo, kom-thun@
+@left@|@vei@
+@length@|@a-thüng@
+@Lepcha script@|@róng@
+@let go@|@thjór@
+@levirate@|@ä-ngop@
+@little@|@a-tjäk, tjäk@
+@long-legged@|@króng@
+@louse@|@sak@
+@lower part of outside-wall@|@tä-rel@
+@maize@|@kün-cong@
+@make appearance@|@glä@
+@manure@|@a-lut, lut@
+@many@|@gjap, món@
+@marrow@|@jäng, jöng@
+@measure of about a span@|@kjü@
+@meat@|@kä-rung@
+@minister of state@|@kür-thak@
+@molar tooth@|@fo-gom@
+@mother@|@a-mo, mo@
+@mountain@|@khu@
+@mouth@|@a-bong@
+@name@|@brjang@
+@neck@|@a-ling, ling, tük-ling, tük-tok, tüng-ling@
+@night@|@nap@
+@nine@|@ka-kjót@
+@no@|@mä@
+@not to permit to go@|@tyän@
+@notched@|@a-tat, tat@
+@of a creeper@|@tä-ról rik@
+@of an evil spirit@|@tä-gro, tük-gro@
+@of evil spirit@|@tong-mung@
+@offerings@|@tam-chat@
+@old female of most animals@|@gu@
+@one@|@kat@
+@one's self@|@tä-do@
+@otter@|@särjom@
+@outer part of bamboo@|@kok@
+@overclouded@|@mang, muk, pä-mang@
+@panther@|@kä-hla@
+@part appointed for the house@|@gul@
+@paternal uncle@|@a-ku, ku@
+@penis@|@gar-nek, sung-gang, thik@
+@place@|@tho-m@
+@placenta@|@a-jeng-chot, a-jeng-tjol, a-jeng-tjól, a-jeng-tjól@
+@plain@|@tam@
+@pour out from a larger vessel@|@chim@
+@pouring of water@|@chhór@
+@powerful@|@grong@
+@pray to God@|@mä@
+@preeminent@|@kong@
+@price@|@a-far@
+@pure@|@zhil-la zhil-la@
+@put out of place@|@káng@
+@quick@|@rem@
+@quick with fingers@|@zhap-pa zhap-pa@
+@rain@|@so@
+@red@|@a-hyir, lók, lük-lók-lä, rük-lók-lä@
+@reflective light@|@a-lóng, lóng@
+@remain@|@bam@
+@repeat the charm@|@dä@
+@ridge@|@küng@
+@right@|@gjo-m@
+@rise@|@hrjäm@
+@roll round@|@ról@
+@salt@|@vóm@
+@sand@|@zhí@
+@scorpion@|@dik läng-zhik@
+@screw@|@kil@
+@see@|@ší@
+@seize hold of@|@kjüp@
+@sew@|@hrap@
+@shine@|@om@
+@shining@|@zhir-ra zhir-ra, zhur-ra zhur-ra@
+@shoulder@|@tük-pung@
+@showy@|@zhár-ra zhár-ra@
+@six@|@tä-räk@
+@slight narrow shoot@|@a-kíp, kíp@
+@small@|@kä-krí-bo@
+@small as from a distance@|@tä-tjä-lä, tjä, tjä-lä tjä-lä@
+@small house@|@krjäng@
+@small sp. of leech@|@kä-hom-fót@
+@sort of a fishnet@|@kün@
+@sort of bamboo-vessel@|@ta-lap@
+@sound of anything@|@grik@
+@sp. of eagle@|@kä-ljüng@
+@sp. of squirrel@|@kä-li@
+@sparkling@|@tik, tik-ka tik-ka@
+@sparrow-hawk@|@tüng-kí@
+@spec. of beetle@|@tä-für@
+@spec. of cock's comb@|@kä-njem@
+@spec. of grain@|@ko-gró, ko-zo@
+@spec. of Smilax@|@kün-ljüm@
+@spec. of Solanum@|@kä-lim-bi@
+@spec. of the lemon@|@ka-che@
+@spec. of wasp@|@tä-ljam@
+@spec. of water-plant@|@tä-bóng@
+@spittle@|@dyuk@
+@spread out@|@chór@
+@stagnant water@|@dä@
+@star@|@sa-hór@
+@stick-insect@|@tüng-kjóng@
+@stone@|@lung@
+@string bow@|@grí@
+@suck and afterwards@|@chóp@
+@support as against heat@|@kál@
+@swelling@|@fran, fren, frong@
+@swim@|@fa@
+@tall@|@ä-hrjän@
+@ten@|@kä-tí@
+@testicle@|@a-thol@
+@testicles@|@tälam@
+@that@|@o@
+@that there@|@tä-a, tä-á, tä-ä, tä-o@
+@the blue-horned pheasant@|@ta-ryok fo@
+@the body@|@lju, ljü, lü@
+@the bottom of anything@|@tuk-chek@
+@the cheek@|@tä-grju@
+@the chief point@|@a-chung, chung@
+@the chin@|@gá, gä@
+@the cushion of hand@|@tüng@
+@the day@|@nji@
+@the earth@|@ljang@
+@the eye@|@a-mik, mik@
+@the gums@|@njal, njel@
+@the high place@|@tä-ljang@
+@the hip@|@tük-bróng@
+@the knuckles of hand@|@a-tüt, tüt@
+@the midst of@|@la@
+@the outer side of bent@|@kür-küng@
+@the palm@|@ljók@
+@the ridge@|@küng@
+@the slough of a snake@|@a-krju, krju@
+@the spleen@|@a-lim, lim@
+@the upper jaw@|@bong-käm@
+@the ventricle of stomach@|@ta-djung@
+@the white ant@|@tük-men, tüng-men@
+@theft@|@ku mók, kut-mo@
+@thin@|@klep@
+@this@|@a@
+@thou@|@hó@
+@thread@|@so@
+@three@|@sam@
+@throw@|@óp@
+@tiger@|@sâ-thang@
+@to add to@|@chóp@
+@to address king@|@lap@
+@to agree@|@chhóm, kung, lón@
+@to apply medicine@|@tjam@
+@to arrrest@|@tho@
+@to be able@|@khü@
+@to be acid@|@chór@
+@to be bent down@|@gí@
+@to be close together@|@zhup@
+@to be collapsed as bag@|@klip@
+@to be contented@|@kót@
+@to be costive@|@kak@
+@to be crooked@|@kjok@
+@to be cut off@|@päk@
+@to be deep@|@njüng@
+@to be distressed@|@kjóng@
+@to be drawn together@|@chom@
+@to be elevated@|@kan@
+@to be erect@|@dung@
+@to be fast@|@njeng@
+@to be great@|@tí, tý-m@
+@to be handsome@|@chóng@
+@to be heavy@|@lí, lí-m@
+@to be in company@|@tyól@
+@to be in concord@|@kóp@
+@to be in uproar@|@chól@
+@to be muddy@|@ko@
+@to be old@|@ru@
+@to be quiet@|@kjam@
+@to be shallow@|@ljáng@
+@to be short@|@tan, ten@
+@to be soft@|@njól@
+@to be sore@|@njó@
+@to be stiff@|@króng@
+@to be sweet@|@khljam, kljam@
+@to be wrinkled@|@chor@
+@to blow@|@mät, müt@
+@to blunder@|@kjól@
+@to bow@|@kük@
+@to branch out@|@kóng@
+@to bring forth@|@gjek@
+@to bury@|@lap@
+@to cause to rain@|@lük, lük bam@
+@to cause to shake@|@njäk@
+@to chop@|@tjót@
+@to collect@|@zham@
+@to come in@|@tjók@
+@to confine@|@gríp@
+@to cough@|@kak@
+@to cover over@|@kap@
+@to cover with hands@|@grop@
+@to create@|@de@
+@to crush@|@zhíp@
+@to cut@|@hra@
+@to die@|@mang@
+@to discharge@|@thán@
+@to distribute@|@rít@
+@to divide@|@chit, thek@
+@to dress@|@kán@
+@to drink@|@thang, thong, tjan@
+@to drivel@|@chíl@
+@to eat@|@tha@
+@to exist@|@njí@
+@to expectorate@|@tjuk@
+@to fall@|@klo@
+@to flame@|@la@
+@to flame up@|@lím@
+@to flee@|@tor@
+@to fly@|@lám@
+@to for tell@|@dun@
+@to get loose@|@lját@
+@to growl as dog@|@njir, njur@
+@to grunt@|@njór@
+@to hasten@|@grám@
+@to hew down@|@chek@
+@to hit the mark@|@zak, zhak@
+@to immerse@|@zham@
+@to inquire@|@kha@
+@to join@|@kop@
+@to join the bamboos@|@klep@
+@to knot@|@tjäp@
+@to know@|@thyak@
+@to laugh@|@thyän@
+@to let@|@kón@
+@to mix@|@kjól@
+@to move@|@tir, tjär, tjir@
+@to obstruct@|@grjam@
+@to open@|@ók@
+@to place upon@|@ka@
+@to plant as tree@|@thjang@
+@to pour as water@|@lüng@
+@to precipitate@|@thyám, thyóm@
+@to press down@|@lep@
+@to proceed@|@di, dí@
+@to pull@|@krüt@
+@to pull out@|@thyeng@
+@to rake@|@kuk@
+@to reach@|@thí, thí-t@
+@to reach the height@|@thók@
+@to rest on stick@|@tung@
+@to return@|@lót@
+@to save@|@lüt@
+@to see@|@ngak@
+@to send to inquire@|@lán@
+@to shake@|@käk@
+@to sift@|@kam@
+@to sit@|@ngan@
+@to slice@|@líp@
+@to slip@|@rut@
+@to smell@|@njóm, nom@
+@to sparkle@|@chir@
+@to spread as carpet@|@láp@
+@to stretch out@|@dan, dang@
+@to suck@|@háp@
+@to suck dry as orange@|@krjup@
+@to take@|@la, läk@
+@to take away@|@tál@
+@to taste@|@ljak@
+@to tell@|@lï, li-n@
+@to tell tales@|@djam@
+@to terminate@|@tel@
+@to titillate@|@zhak@
+@to travel@|@lóm@
+@to turn upside down@|@tyük, tyüng@
+@to twist@|@kar@
+@to twist round@|@kjäl@
+@to uncover@|@lut@
+@to unite@|@krjóm@
+@to vibrate@|@njáng@
+@to warm up food@|@ljam@
+@to wash@|@chóng@
+@to watch@|@grun, räng@
+@together for more easy@|@pa-dam@
+@tongue@|@a-lí, lí@
+@tooth@|@fo@
+@tree@|@kä-ceng, kung@
+@truncated@|@tam@
+@turning and twining@|@käl, sä-käl@
+@turnip@|@kä-njäng@
+@twenty@|@kha@
+@two@|@njät, njí@
+@ulcer@|@fran, fren@
+@universal@|@tjang@
+@unwashed@|@ka-kju-la@
+@urine@|@zhit@
+@used in negative@|@ma@
+@vegetables@|@bi@
+@village@|@tjol@
+@water@|@ung@
+@water leech@|@hlet-bu@
+@wavering@|@len, len-nä len-nä@
+@weights for sinking it@|@a-pót@
+@what@|@šu, to@
+@what comes first@|@ták, täk@
+@wide@|@väng@
+@wind@|@so-mut, süng-mut@
+@wind skeins of cotton@|@kha@
+@without incumbency@|@króm/@
+@woman@|@jÜ@
+@yellow@|@ür@
+

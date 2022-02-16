@@ -1,0 +1,2154 @@
+@English@|@Chuvash@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a bit@|@pärtak@
+@a Chuvash native garment@|@tevet@
+@a coin@|@pus@
+@a curved knife@|@avd'@
+@a dent for inserting bottom@|@sart@
+@a fence@|@ukälcha@
+@a flail to thresh grain@|@avän@
+@a k. of berry@|@peurleuxen@
+@a k. of broom@|@sol'k@
+@a k. of fern@|@uba-zarri@
+@a k. of grass@|@m'jan@
+@a k. of squirrel@|@šolxan, šulgan@
+@a kind of carp@|@karas@
+@a kind of waffle@|@ikerchë@
+@a little@|@käsht@
+@a man who has nothing@|@shuk-shyn@
+@a measure@|@hälash@
+@a pinch@|@chäpkäm, chäptäm@
+@a plant which grows in damp@|@sur'x sälli@
+@a sort of god@|@Pülëh@
+@a stinging insect@|@xyt-kaj'k@
+@a struggle@|@shapäshu@
+@a tuft of wool@|@t'l'm@
+@abandon@|@xor-@
+@abbreviate@|@kësket@
+@ablative case@|@tuhu@
+@above@|@tärri@
+@abruptly@|@pak@
+@according to@|@täräh@
+@accusative case@|@tävu@
+@acid@|@jüzä@
+@acorn@|@jëkel@
+@adjective@|@pallä jachë@
+@advice@|@kanaš-la-@
+@after@|@hyshshän@
+@afterbirth@|@köpchek@
+@again@|@tatah@
+@against@|@hirësh@
+@agent@|@shpion@
+@agreement@|@kilëshü@
+@agressors@|@zahvatchik@
+@agricultural technology@|@agrotehnika@
+@agriculture@|@jal-hushaläh, tështyrä hushaläh@
+@air@|@sivläch@
+@airplane@|@samol'ot@
+@aka@|@plow@
+@alas!@|@hät lo!@
+@alder@|@siräk@
+@alive@|@chärä@
+@all@|@pëtëm@
+@all day@|@kunëpe@
+@alone@|@pëcchen@
+@also@|@-bala, -balan@
+@although@|@pulin te@
+@always@|@jalan, jalanah@
+@amble@|@iš-@
+@amen@|@amin@
+@an amount of rubles@|@tenkëlëh@
+@an ending of the 2d person@|@-n@
+@an ungenerous person@|@hytkukar@
+@and@|@ta, tata@
+@angel@|@pirëchti@
+@angelica@|@šawma@
+@anger@|@öpke, silä, üpke@
+@angle@|@këtes, päusmex@
+@angrily@|@x'rr'n@
+@animal@|@byl'äx, chër chun@
+@animals and birds@|@kaj'k-käš, kaj'k-käžäk@
+@annually@|@shulseren@
+@another@|@uräh@
+@ant@|@kätkä@
+@anvil@|@suntal@
+@any@|@por, temënle@
+@anyone@|@kam ta pulin@
+@apex@|@tärä@
+@apple@|@panulmi, ulma@
+@appletree@|@ulmushshi@
+@April@|@aprel@
+@aquila fulva@|@pärgät@
+@arm@|@alä, hul, hulä@
+@Armenian@|@Ermen@
+@armful@|@ydam@
+@arrow@|@çëmren, oh', säumäurlen, säumäurlen, säumren, säumren, ugu@
+@article@|@stat'ja@
+@as it were@|@ikken, imësh@
+@ascend@|@uläh@
+@ash@|@kël, kö'l@
+@ash tree@|@kav'r's, kavr's@
+@ashes@|@käul@
+@aspen tree@|@äväs@
+@assemble@|@puh@
+@asshole@|@kut shätäkë@
+@assistance@|@puläshu@
+@at@|@-pa, -pe, -ta, -te@
+@at a run@|@sikkipe@
+@at each and every house@|@kilseren@
+@at its time@|@chuhne@
+@at our place@|@pirën patämärta, pirën patra@
+@at times@|@hutran-sitren@
+@attempt@|@hätlan@
+@August@|@avgust@
+@authority@|@vlast'@
+@autumn@|@käur@
+@awn@|@xyl'x@
+@axe@|@purtä@
+@axle@|@täunäul@
+@baby of a mammal animal@|@shurä@
+@back@|@çuräm, kallah kalleh@
+@back of the neck@|@änze, jänze@
+@backside@|@kut@
+@bad@|@nachar, osal, usal@
+@ball of wool@|@s'umha@
+@band@|@chëlëh@
+@bandit@|@värä, xorax@
+@bank@|@shyran@
+@barge@|@barzha@
+@bark@|@huppi, xob', xuj'r@
+@barley@|@orba, urpa@
+@barren cow@|@xäzär@
+@barren mare@|@käsre@
+@basically@|@tëplën@
+@bast@|@p'ud'ur@
+@bastard@|@sojak@
+@bat@|@sara-serzi@
+@be acceting@|@hapäl tu@
+@be hired@|@käräš-@
+@be on one's way@|@jabal-@
+@be opposite@|@xiräs-@
+@bead@|@šarza, shärsha@
+@bear@|@upa@
+@beard@|@suhal, suxal@
+@bearded@|@suhallä@
+@beat@|@päzer-@
+@beautiful@|@hitre, hühëm@
+@beauty@|@ilem@
+@because@|@mënshën tesen, pirki@
+@become drowsy@|@x'umš'ul-@
+@become famous@|@chapa tuh@
+@become wasted@|@jus-, juz'n-@
+@bed@|@krabat'@
+@bed-bug@|@x'umd'ula, x'umg'ula, x'umtla, x'ung'ula@
+@bee@|@pylxurchë@
+@beer@|@cära, sära@
+@beg@|@pushshap@
+@beggar@|@yjtkalakan@
+@beginning@|@push@
+@behind@|@kaj, sodan', xys@
+@being in company with@|@pala@
+@belief@|@ënenü@
+@belly@|@xyra'm@
+@belongings@|@mul@
+@bend@|@xaj'r-@
+@beneficence@|@yräh@
+@berry@|@shyrla@
+@best sort of flax@|@var@
+@betray@|@sut@
+@better@|@avantarah@
+@beverage@|@ëshkë@
+@bewail@|@makär-@
+@big@|@pysäk, shultra@
+@big vessel@|@söpse@
+@bill@|@k'uz'ur-uk@
+@birch tree@|@hurän, xor'n@
+@bird@|@kaïäk@
+@bird-cherry@|@säumäurt@
+@bird's crop@|@pudege@
+@bit@|@turam@
+@black@|@hura, xora, xura@
+@black-cock@|@kar'k@
+@blaze brightly@|@jälkäsh@
+@blessing@|@pil@
+@blind@|@sukkär@
+@blood@|@iun, jon, jun@
+@blow@|@av's-@
+@blue@|@kävak@
+@boaster@|@x'ud'ur@
+@boat@|@kimë@
+@body@|@pü, san, ýt@
+@boil@|@pish@
+@bone@|@šawmaw, shämä@
+@book@|@këneke@
+@border@|@chikë, chikë, granica@
+@border guard@|@pogranichnik@
+@border post@|@zastava@
+@bosom@|@xäuv, xü, xüm@
+@bow@|@ok-su, su@
+@bow down@|@ük-@
+@bow string@|@xirlü@
+@bowing the head@|@xärlä@
+@box@|@koporso@
+@boy@|@yväl@
+@bracelet@|@sol'@
+@braid@|@shivët@
+@brain@|@mimä@
+@bran@|@kibek, kimäk, xyv'x@
+@branch@|@torat@
+@brand-new@|@vër-shënë@
+@brave@|@pattär@
+@bread@|@çäkär, shäkär@
+@breast@|@cgül-läk, käkär, um@
+@breast (fem.)@|@chäžä@
+@breast buckle on Chuvash@|@shëlkeme@
+@breath@|@chäm, syvläsh@
+@brick@|@kirpëch@
+@bride@|@kilen@
+@bridge@|@këper@
+@bridle@|@jäuven@
+@bristle@|@šart@
+@broom@|@šawbawr@
+@brother@|@ar tävan@
+@brown@|@syr', x'ula, xämär@
+@brushwood@|@k'uvajt@
+@bucket@|@vitre@
+@buckle@|@t'wha@
+@bull@|@bäkär@
+@bundle@|@pajärka@
+@bundle of flax@|@sor'm@
+@burden@|@shëklem@
+@burdock seed@|@kurshanak@
+@bureau@|@bjuro@
+@but@|@shapah@
+@butterfly@|@lëpëch@
+@buttocks@|@kot@
+@buzzing noise@|@šangar@
+@by day@|@kantärla@
+@cabin@|@kabina@
+@calf@|@p'uru@
+@camel@|@çurta, täuve@
+@camp@|@lager'@
+@camping@|@xuž', xužë, xüžë@
+@candidacy@|@kandidatura@
+@candle@|@sor-da@
+@candy@|@kanfet@
+@cane@|@hämäsh@
+@capable@|@-i-, -j-@
+@capital of Chuvashia@|@Shupashkar Cheboksary@
+@card@|@kart, karta@
+@carefully@|@tirpejlë@
+@carpet@|@kov'r'@
+@carp-fish@|@sasan@
+@carry on back@|@ort-@
+@cart@|@lav, urapa@
+@cartilage@|@kag'r@
+@case (grammatical)@|@padezh@
+@cast@|@yv?t, yvät@
+@cat@|@kushak@
+@cavity@|@häväl@
+@ceiling@|@maccha@
+@cemetery@|@s'uva@
+@central@|@vätam@
+@certain@|@häshë@
+@certain ones@|@häshpër@
+@chain@|@kasm'k@
+@chairman@|@predsedatel'@
+@chalk@|@por, pur'@
+@chaos@|@kag'r@
+@characteristic@|@pallä@
+@chase@|@hävala, x'v-, xu-@
+@cheek@|@pit@
+@cheese@|@syr@
+@cherry@|@chie@
+@chess@|@shahmat@
+@chest@|@käk6ar@
+@child@|@acha@
+@children@|@acha-pächa, pächa@
+@chin@|@ianax@
+@chisel@|@ijä, kar'@
+@chopping block@|@kaska@
+@choral@|@hor@
+@church@|@chirkü@
+@Chuvash@|@chävash@
+@city@|@hula, xula@
+@class@|@klass, zan'ati@
+@clause@|@predlozheni@
+@claw@|@chärne@
+@clay@|@pylž'k@
+@clean@|@hyr, irt-, tasa@
+@cleanliness@|@tasaläh@
+@cling to@|@säwven-@
+@cloak@|@nakidka@
+@close in@|@hup@
+@closing@|@hupänni@
+@cloud@|@päuläut, pelet, pëlët, tëltre@
+@club@|@kruzhok@
+@coal@|@kämräk@
+@cock's spurs@|@chaGan@
+@coffee@|@kofe@
+@cold@|@sivä@
+@coldly@|@sivvën@
+@collar@|@shuha@
+@collective@|@kollektiv@
+@color@|@tës@
+@colorful@|@checheklë@
+@colostrum@|@yrri@
+@column@|@jupa@
+@combine@|@kombajn@
+@come on!@|@at'a@
+@comfortable@|@kanlë@
+@commission@|@komissi@
+@common@|@jäksek@
+@community@|@toj@
+@companion@|@täwl@
+@composition@|@hajlav, sochineni@
+@compulsion@|@xädäx@
+@conditional verb form@|@pulsan@
+@conference@|@konferenci, sjezd@
+@confrontation@|@hirëshü@
+@consciousness@|@tän@
+@consequently@|@leple@
+@consonant@|@hupä sasä@
+@constellation@|@shältär@
+@continually@|@përmaj@
+@cooked@|@pishnë@
+@coolness@|@sulhän@
+@cooper@|@päxär@
+@copper@|@pähär@
+@corn@|@tyr'@
+@cornfield@|@poz'@
+@cornfloor@|@av'n karti@
+@cotton@|@mamäk, xut@
+@country@|@jal, shër@
+@courage@|@chäre@
+@court of justice@|@sud, sut@
+@cover@|@xob'@
+@cow@|@ëne@
+@crack@|@kat-@
+@crackling@|@part@
+@cradle@|@säpka@
+@crane@|@tawrna, täwrne@
+@crawl@|@upalen@
+@creak@|@chëriklet@
+@create an uproar@|@ahär@
+@creek@|@zaton@
+@crop@|@päuzexe, tyrpul@
+@cross-strap@|@urhaläh@
+@crow@|@ula kurak@
+@crush@|@sawx-@
+@cubit@|@chike@
+@cucumber@|@häjar@
+@cup@|@chashäk@
+@cupboard@|@shkap@
+@currant@|@xorl'han@
+@curse@|@ylhan@
+@curtain@|@charshav@
+@cut in slices@|@chäl-@
+@damage@|@sos@
+@dance@|@tashä@
+@dare@|@häju@
+@daring@|@häjullä@
+@dark brown@|@x'um'ur@
+@darkness@|@tëttëm@
+@daughter@|@xër@
+@daughter-in-law@|@kilän-, kin@
+@day@|@kon, kun, taläk@
+@day and night@|@tal'k@
+@death@|@bilëm@
+@debt@|@kivzen, tiväs@
+@December@|@dekabr', rashtav@
+@decoration@|@orden@
+@deed@|@äs@
+@deep@|@tar'n, tarän@
+@deep snow@|@kärt@
+@deep-coloured@|@jäupkäun@
+@delegate@|@delegat@
+@demand@|@yjt-@
+@dense@|@shära@
+@departure@|@kajni@
+@depth@|@taränäsh@
+@desert@|@puch xir@
+@destroy@|@p'us-@
+@detachment@|@otr'ad@
+@dexterous@|@x'ub'ul@
+@dictionary@|@slovar'@
+@different@|@tërlë@
+@difficulties@|@jyväläh@
+@diligent@|@ëshchen@
+@dinner@|@apat@
+@direction@|@jen, pravleni@
+@director@|@direktor@
+@dirt@|@šor, šor'@
+@dirt on body@|@kiräk@
+@dirty@|@lapra@
+@disappear@|@sün-@
+@dishonorable@|@namässär@
+@distant@|@inshe@
+@distress@|@hur, hur, tertlë@
+@divide@|@pajla@
+@divided@|@pajlan@
+@doctor@|@tuhtär@
+@dog@|@ïtä, jyd, jyda, jytä, somor@
+@donkey@|@ashak, ažak@
+@door@|@aläk@
+@door curtain@|@al'k, alg'@
+@dough@|@chusta@
+@downwards@|@ajalalla@
+@draftsman@|@chert'ozhnik@
+@dragon@|@väure sälen@
+@dramatic@|@drama@
+@draw@|@turt@
+@dream@|@täuläuk, tëlëk@
+@dried up@|@häräk@
+@drone@|@x'um'ur@
+@drop@|@tumlam@
+@drowse@|@tëlër@
+@drum@|@parappan@
+@dry@|@tipë@
+@dry crumbs@|@x'ur'uk@
+@dry grass@|@jülege@
+@dry out@|@här@
+@duck@|@käbakal@
+@duck fowl@|@kävakal@
+@dull@|@mäka@
+@dung@|@p'ux, tiräs@
+@during@|@huta@
+@dust@|@tusan@
+@dwelling place@|@sort@
+@each@|@-seren, purte@
+@each himself@|@harpär häj@
+@eagle@|@ämärt kaiäk@
+@ear@|@hälha, x'ulha, xälxa, xo'lga@
+@earth@|@çër, to'pra@
+@earth-worm@|@säwväwlzen, šawvawrawlžan, sölzen@
+@easily@|@shämällän@
+@East@|@äläk@
+@easy@|@shämäl@
+@eat one's fill@|@täran@
+@eatable grass@|@xälhen@
+@economy@|@hushaläh@
+@edge@|@soha, väws, xärä@
+@egg@|@çämarta, s'umarda@
+@eight@|@sakär, sakkär@
+@eighty@|@sakärvunnä@
+@either ... or@|@je ... je@
+@elbow@|@chavsa@
+@elder brother@|@picche@
+@elder sister@|@akka, appa, appa@
+@election@|@sujlav@
+@electrotechnical@|@elektrotehnika@
+@elephant@|@slon@
+@elk@|@p'ulan@
+@elm-tree@|@jäulme@
+@empty@|@pož', pushä, pušo, shara@
+@enclitic particle of emphasis@|@-ah, -eh@
+@encounter@|@tël pul-@
+@end@|@vësh@
+@endeavour@|@täräshni@
+@endlessly@|@ytarma shuk@
+@enemy@|@tächman@
+@enlarge@|@saräl@
+@enlightenment@|@shutësh@
+@enough@|@pajtah, taman@
+@enter@|@kër@
+@entrance@|@këni@
+@equal@|@shap@
+@equipment@|@oborudovani@
+@even@|@tan@
+@even if@|@pulsan ta@
+@evening@|@kach, kas, kash@
+@every@|@kashni@
+@evil@|@hajar@
+@excursion@|@ekskursi@
+@excuse@|@kashar@
+@exercise@|@zar'adka@
+@expedience@|@ärex@
+@exposition@|@vystavka@
+@extend@|@üs@
+@exterior@|@sän@
+@external@|@tulashënchi@
+@extremely light@|@shap-shutä@
+@extremely young@|@shap-shamräk@
+@eye@|@kör, kos, kush, kych@
+@eye-ball@|@kos xori@
+@eyeglasses@|@kushläh@
+@eyelash@|@x'rb'k, x'rb'x, x'rbu, xurbuk@
+@fable syn@|@basn'a@
+@face@|@pit@
+@factory@|@fabrika@
+@fairy tale@|@jumah@
+@fall@|@kër@
+@famed@|@chaplä@
+@family@|@çem'e, jyš@
+@family name@|@hushamat@
+@fang@|@ora, ora-puj@
+@far@|@inçe, v'wr'wm, v'wrax@
+@Far East@|@hëveltuhäsh@
+@farm@|@ferma, hutor@
+@Fascist@|@fashist@
+@fat@|@jor-var, s'uv, sam'r, samar, su, su@
+@father@|@atte, aza@
+@father and mother@|@Atte-anne@
+@father-in-law@|@hun@
+@fatherland@|@otechestvennäj@
+@fathom@|@x'ulas@
+@fear@|@shiklen@
+@feather@|@täwk, tëk@
+@February@|@fevral', naräs@
+@fellow@|@jultash@
+@fellowship@|@jultashläh@
+@female@|@ama@
+@female slave@|@x'r-h'm@
+@fence@|@karda, karta, shatan@
+@fence of rails@|@hüme@
+@ferment for milk@|@käuvelek@
+@fermented milk@|@k'um'us@
+@few@|@sahal@
+@fibre@|@sävem, sevem@
+@field@|@uj@
+@fiercely@|@majsär@
+@fifty@|@allä@
+@fight@|@këresh, šaram@
+@film of egg@|@käube@
+@fine@|@paha@
+@finger@|@pürne, pýrne@
+@finger ring@|@säuräu@
+@fingernail@|@chërne@
+@finish@|@pët@
+@fire@|@vot, vut@
+@firewood@|@vutä@
+@firm@|@hytä@
+@first of all@|@pirvaj@
+@fish@|@pol', pola', pulä@
+@fisherman@|@puläshä@
+@fishhook@|@välta@
+@fitting@|@tivëshlë@
+@five@|@pilëk, pillëk@
+@five-year plan@|@pilëkshulläh@
+@flag@|@jalav@
+@flame@|@sol'm@
+@flap of door@|@sonat@
+@flash of lightning@|@shevle@
+@flat@|@lapka, takär@
+@flea@|@p'urza, pärça, pärça@
+@fleet@|@flot@
+@flour@|@çänäx@
+@flower@|@chechek, seske@
+@flute@|@shählichë@
+@flutter@|@vëltërtet@
+@fly@|@šana@
+@fly (insect)@|@shäna@
+@flying creature@|@vëshen-kajäk@
+@foal@|@x'um@
+@foam@|@k'ub'uk@
+@fog@|@p'us, p'uv, tëtre@
+@food@|@shime, shimësh, xor's@
+@foot@|@ora, ura@
+@for a long time@|@nummajcchen, pajtachen, pashärtanpa@
+@for a moment@|@për samant@
+@for example@|@sämahran@
+@for the sake of@|@-š'n, valli@
+@for what?@|@mënshën@
+@force@|@pusmär@
+@fore@|@mal@
+@forearm@|@xor@
+@forehead@|@samga@
+@foreign@|@jut@
+@forest@|@v'wrman, värman@
+@forever@|@ëmëreh@
+@formerly@|@ëlëk@
+@fortress@|@püler@
+@forty@|@hërëh, xäräx@
+@forward@|@malta@
+@forwards@|@malalla@
+@fountain@|@s'ul@
+@fountain pen@|@avtomat-ruchka@
+@four@|@tävat, tävatä, tävattä, tawvad'@
+@fox@|@tilä, tilë@
+@frankly@|@ushshän@
+@frazil@|@san@
+@Friday@|@ernekun@
+@friend@|@tus, tys@
+@friendship@|@tusläh@
+@frightened@|@häravshä@
+@frog@|@chapa@
+@from the location of something@|@panchen, patënchen@
+@from the side@|@patënchen@
+@from youth@|@shamräkla@
+@front@|@om@
+@frost@|@ojar, sivë, tawm@
+@fruit@|@simäs, täržä, ulma@
+@fulfill@|@tultar@
+@full@|@püle-mes, tawran-, tawran-, tol-, tolli, tulli@
+@fundamental@|@nikës@
+@furrow@|@j'ran@
+@furuncle@|@s'uban, s'uvan@
+@gad-fly@|@p'uvan@
+@gall@|@vat@
+@games@|@väjä@
+@garden@|@pahcha, paxcha, sad@
+@garments@|@tumtir@
+@gather@|@pushtar@
+@gazette@|@hashat@
+@genitive (case)@|@kamänläh (padezhë)@
+@Germany@|@Germani@
+@gesticulate@|@hälashlan@
+@get light@|@shutal@
+@giant@|@ol'p@
+@gift@|@saj@
+@gills@|@pol' sohal'@
+@gingerbread@|@përemëk, premëk@
+@girl@|@hëracha, xär, xe'r@
+@give birth@|@shurla@
+@gland@|@par@
+@glass@|@kantäk@
+@glen@|@ushlankä@
+@glitter@|@j'l-@
+@glowing coals@|@k'uvar@
+@glue@|@siläm@
+@gluttonous@|@kabar@
+@go back@|@kus@
+@go up@|@häpar@
+@goat@|@kachaka@
+@god@|@tura, turä@
+@going@|@shüreni@
+@gold@|@yltän@
+@golden@|@yltän@
+@good@|@avan, chiper, laïäh, yg', yrä@
+@good fortune@|@x'ut@
+@goose@|@hur, xor, xur@
+@gorge@|@shyrma@
+@grain@|@kalcha, përchë, tirä@
+@grandfather@|@-anne, -atte, asatte, az-@
+@grandmother@|@-anne, -atte, az-@
+@grape@|@izäm@
+@grass@|@kuräk@
+@grasshopper@|@oba läwbäwžäw@
+@great@|@as-l', as-l', chylaj, pysäk@
+@Great Volga@|@anlä Atäl@
+@greatness@|@asläläx@
+@greedy@|@vyshläh@
+@green@|@jeshël, simës@
+@grey@|@sawraw@
+@grief@|@hujhä, xor@
+@grind@|@awv-@
+@groin@|@xyza@
+@ground@|@täpra, tëp@
+@ground-squirrel@|@tyrkas@
+@group@|@ushkä@
+@guard@|@storozh, syh'@
+@guest@|@häna, xäna@
+@gurgle@|@väwžäwlt-väwžäwlt@
+@gusset@|@old@
+@guts@|@pyrshä@
+@hair@|@çüç, süs, xäläx, xe'le'r@
+@half@|@shur, shurä@
+@hammer@|@topta-@
+@hand@|@al', alä, ala'@
+@handful@|@yvbs@
+@handle@|@syb'@
+@happen@|@irt@
+@happiness@|@telej, x'uvan-@
+@hard@|@xyd'@
+@hare@|@kujan, molgach, molgas, xoran, xoren@
+@harmful@|@sijenlë@
+@hat@|@shëlëk@
+@having beauty@|@ilemlë@
+@having one@|@përle@
+@having what?@|@mënle@
+@hawk@|@xärxi@
+@hay@|@ud', uläm, vud'@
+@haystack@|@kapan, koba, säumel@
+@hazel-nut@|@m'j'r@
+@he@|@väl@
+@He agreed to help me@|@Väl mana puläshma kilëshrë@
+@he himself@|@häj@
+@head@|@pos, push@
+@headrest@|@pushëlëh@
+@healthy@|@syv', syvä@
+@heart@|@chëpe, chëre@
+@hearten@|@hëpërte@
+@heat@|@vëri@
+@heathen@|@su@
+@heaven@|@tora@
+@heavenly@|@shülti@
+@heaviness@|@sol'm@
+@heavy@|@jyv'r, jyvär@
+@hectare@|@gektar@
+@he-goat@|@taga@
+@height@|@shülësh@
+@hem@|@x'ju@
+@hemp@|@kand'r@
+@hen@|@chäxä@
+@hence@|@kuntan@
+@herald@|@hyparshä@
+@herd@|@këtü@
+@here@|@ak, akä, kunta@
+@heroically@|@pattärla, pattärrän@
+@hers@|@unän@
+@hide@|@jäpshan, säran@
+@high above@|@vir@
+@highway@|@shul-jër@
+@hillock@|@tëmeske@
+@hilltop@|@tübe'@
+@hired labour@|@tar, tara@
+@his father@|@asshë@
+@hitch@|@shekël@
+@hoar-frost@|@pas@
+@hobble@|@tawlaw@
+@holder@|@savät@
+@hole@|@var@
+@hole in ice@|@vag'@
+@holiday@|@prashnik, ujav@
+@hollow@|@x'uv'ul@
+@homewards@|@kilelle@
+@honey@|@pyl@
+@honey drink@|@säm, sim@
+@hop@|@x'umla@
+@hope@|@pigen-, shanchäk@
+@horn@|@gorn, m'jraga@
+@horse@|@lasha, ut@
+@host@|@husha@
+@hour@|@sehet, sexet@
+@house@|@av, çurt, kil, kül, pürt@
+@household@|@shemje@
+@how@|@mënle@
+@how much?@|@mishe@
+@however@|@anchah, kirek mënle@
+@however it may be@|@mënle te pulin@
+@however much@|@tempek@
+@human being@|@etem@
+@humble-bee@|@tägäld-ora@
+@hundred@|@säur, shër@
+@hunger@|@vyçläx, vyz'@
+@hungry@|@vyshä@
+@hunting dog@|@agar jytti@
+@hurt@|@yrat@
+@husband@|@ar, kacchä, obaška, upäshka@
+@husbands of sisters@|@pozana@
+@hydroelectric power plant@|@gidroelektrostanci@
+@I@|@e-bä, elë, epë@
+@I like this book@|@Ku këneke mana kilëshet@
+@I work@|@ësh@
+@ice@|@p'ur, pär@
+@ice-hole@|@vak-kushë@
+@if@|@eher, tesen@
+@ill@|@chirlë@
+@illness@|@amak, cher, chir@
+@image@|@kap@
+@immitate@|@jevërle@
+@in accordance with@|@kalaräshpe@
+@in another way@|@urähla@
+@in circumference@|@shavränakan@
+@in distress@|@kaz'l-@
+@in front of@|@um@
+@in olden times@|@aval@
+@in pairs@|@mäshärrän@
+@in the distance@|@inshetri@
+@in the evening@|@kashhine@
+@in the fall@|@kërkunne@
+@in the future@|@ülëm@
+@in the morning@|@irhine@
+@in the springtime@|@shurkunne@
+@in vain@|@ahal@
+@indeclinable negative particle@|@an@
+@indeed@|@-shke, chänah, put'eh, te@
+@industrious person@|@ëshchen@
+@industry@|@promyshlennosh, promyshlennost'@
+@inexpensive@|@jünë@
+@infant@|@pepke@
+@infinite@|@vëshe-hërri-sër@
+@inform@|@pëlter@
+@ingenious@|@tavshärullä@
+@inner fat@|@jor-var@
+@inquire@|@yjt@
+@inside@|@äshënche, shënche@
+@instance@|@vähät@
+@institute@|@institut@
+@instrumental (case)@|@përleleh@
+@intend@|@xämlen-@
+@intensifying prefix@|@shap-@
+@interior of smth.@|@'š@
+@interjection (dissatisfaction)@|@aj@
+@interjection of greeting@|@ej@
+@interjection of reproach@|@e-e@
+@interjection of satisfaction@|@ah, eh@
+@interrogative particle@|@-i, -im@
+@interstice@|@hushäk@
+@interval@|@hushä@
+@intr to restrain oneself@|@charän@
+@iron@|@chukun, timër@
+@iron manacles@|@p'uhav@
+@island@|@od', Utä, utrav@
+@it@|@väl@
+@it is possible@|@pulë@
+@itching@|@käzä@
+@its side@|@pichë@
+@January@|@janvar', kärlach@
+@jar@|@ch'm@
+@jellow@|@sarä@
+@Jesus@|@Iisus@
+@jet black@|@hup-hura@
+@joint@|@sypäk@
+@juice in meat@|@šal@
+@July@|@jul', Utä@
+@June@|@jun', shërtme@
+@just@|@tin@
+@just now@|@tin shesh@
+@kangaroo@|@kenguru@
+@Kazakh@|@kazah@
+@Kazan@|@Husan@
+@kerchief@|@sul'k, tutär@
+@kernel@|@tësh@
+@kettle@|@huran@
+@key@|@çäraççi@
+@Khan@|@hun@
+@kidney@|@papka@
+@kidney(s)@|@püre@
+@kilogram@|@kilogramm@
+@kind@|@kämällä@
+@king@|@korol', patcha@
+@kingdom@|@patshaläh@
+@kitchen@|@kuxnia@
+@kite@|@xären@
+@knee@|@chär-pussi, chëpkuççi, chër@
+@knife@|@çëçë, pekë@
+@knowledge@|@pëlü@
+@knucklebone@|@šuk@
+@kumys@|@oren, ujran, uran@
+@ladle@|@xumža@
+@lair@|@jänä@
+@lake@|@kölä, külä, külë@
+@lamb@|@chëlxe, putek@
+@land@|@sär, shërshyv@
+@language@|@chäläx, chälhe, chälhe; chäläx, chëlhe@
+@lark@|@t'uri, täri@
+@larynx@|@karlankä@
+@lash@|@ch'b'k@
+@last@|@chät@
+@last year@|@pëltër@
+@later@|@vara@
+@layer@|@xut@
+@lazy@|@najan, x'li, x'lin@
+@lead into@|@kürt@
+@leader@|@jertüshë@
+@leaf@|@s'v'ls, sulza, sulža@
+@leech@|@säwläwk@
+@left@|@sulahaï@
+@leg@|@pëçë, ura, ura@
+@let it be@|@pulin@
+@letter (alphabet)@|@sas palli@
+@letter (mail)@|@çyru@
+@level@|@hut, tag'r, törä, türä@
+@life@|@ëmër, kunshul, puränäsh, purnäç@
+@light@|@s'um'ul, so-d@
+@lightning@|@shishën, sizäm@
+@like@|@jurat, pek, sav-@
+@like one@|@përpek@
+@like this@|@shakän pek, shavän pek@
+@lime-tree@|@s'uga@
+@linden@|@shäka@
+@line@|@jër, vëren@
+@linen@|@pir@
+@lion@|@apäslan@
+@lip@|@tuta@
+@liquid mire@|@s'uh'ur@
+@literatura belles-lettres@|@ilemlë@
+@little@|@käzän, sahal@
+@little by little@|@pëchëkkën@
+@live@|@chërë@
+@liver@|@päwver, pëver@
+@livestock@|@vyljäh@
+@lizard@|@kalda@
+@load@|@säuk@
+@local@|@kunti@
+@locative case@|@vyrän@
+@lock of hair@|@kätra@
+@lonely@|@ulax@
+@long@|@väräm, vorom@
+@long branch@|@xol'@
+@loop@|@j'l', j'lmak, k'ugan@
+@louse@|@pyjd', pyjda@
+@love@|@juratu@
+@lower@|@anatri@
+@lower side@|@aj@
+@lump@|@ch'umak@
+@lungs@|@üpke@
+@magazine@|@zhurnal@
+@make a fire@|@vut hur@
+@make boil@|@pësher@
+@make ready@|@hatërle@
+@man@|@ar, ar çyn, etem@
+@mane@|@silhe@
+@mange@|@kärchankä@
+@man's wife's younger sister@|@pold'r@
+@manuscript@|@alshyrävë@
+@many@|@numaï@
+@maple@|@väwrene@
+@March@|@mart, push, push@
+@market@|@pasar bazaar@
+@marmot@|@sävär, sawvawr@
+@marsh@|@put-kax, put-l'x@
+@matematika@|@mathematics@
+@material for a caftan@|@sähmanläh@
+@matka@|@old woman@
+@mattock@|@katmak@
+@mattress@|@tüžek@
+@May@|@maj, shu@
+@meadow bank of the Volga@|@jäläm@
+@meaning@|@-sëm@
+@measure@|@älgä@
+@meat@|@ash, üt@
+@medicine@|@emel@
+@meditate@|@chanla-@
+@meeting@|@puhu@
+@melody@|@këvë@
+@member@|@chlen@
+@membrane@|@sorhax, xund'@
+@memory@|@as@
+@merely@|@käna@
+@metal@|@metall@
+@middle@|@v'da, vapä, väta, väta, vätaläh@
+@might@|@hävat@
+@mighty@|@parga@
+@mild@|@semze@
+@milk@|@sawt, sët@
+@millet@|@vir@
+@mine@|@manän@
+@ministry@|@ministerstvo@
+@minute@|@minut@
+@mirror@|@täugäur, tëkër@
+@misfortune@|@hën@
+@misty@|@tëtrellë@
+@mitten@|@alsa@
+@mixture@|@xod'š@
+@moan@|@šangardat-@
+@moist@|@nürë, vilä@
+@molar@|@urblb, vbwrlbw@
+@mole on the face@|@ming@
+@moment@|@av'k, samant@
+@Monday@|@tuntikun@
+@money@|@ukça@
+@monkey@|@bexti, upäte@
+@month@|@oj'x, uïäx@
+@mood@|@käumäul@
+@moon@|@ujäh@
+@more than@|@ytla@
+@morning@|@irhi@
+@mortar@|@kilä@
+@Moscow@|@Muskav@
+@moth@|@käuve@
+@mother@|@ama, an'n, anne@
+@mother-in-law@|@hun'ama, hunem@
+@mountain@|@särt, tu@
+@mouse@|@š'ži, šarži, šaži, shäshi@
+@moustache@|@m'j'x@
+@mouth@|@çävar, s'uvar, shävar@
+@mouth of a river@|@ur'-l', vbwrbw@
+@move@|@shu@
+@movie@|@kino@
+@much@|@numaj@
+@mushroom@|@k'umba@
+@mushrooms@|@kämpa@
+@music@|@muzika@
+@Mussya (proper name)@|@Mushsha@
+@myself@|@ham@
+@nail@|@p'uda, xudav@
+@name@|@iat, jat@
+@name of the village@|@Silpi Silbi@
+@narrative@|@povest'@
+@narrow@|@ansär, xäzäk@
+@Narspi; proper name@|@Narspi@
+@National Library@|@Naci Biblioteki@
+@native indigenous@|@tävan@
+@nature@|@uçt çantaläk@
+@navel@|@kändäk, käuvaba@
+@near@|@shyväh, syv'x@
+@necessary@|@kirlë@
+@necessity@|@kir-lä, s'um'ul@
+@neck@|@m'j, mäj@
+@necktie@|@galstuk@
+@need@|@tert@
+@needle@|@ïël, jëp@
+@needle hole@|@s'rda@
+@negative article@|@mar@
+@negative particle@|@ni@
+@neighbor@|@kürchë@
+@neighbour@|@x'una@
+@nest@|@j'wva@
+@net@|@siläm@
+@nettle@|@väwldäw@
+@new@|@çënë, sänä, sene, shënë@
+@newborn child@|@süpä@
+@news@|@chap, hypar-hänar@
+@night@|@çër, shër@
+@nightingale@|@shäpchäk@
+@nine@|@tähär, tähhär@
+@ninety@|@tähärvunä, tähärvunnä@
+@nit@|@š'rga@
+@nitrogen@|@azot@
+@no one@|@nihäshë, nikam ta@
+@no small amount@|@temtërlë@
+@no sort of work@|@nimën ësh te@
+@no way@|@nimënle te@
+@noble@|@pojan@
+@noise@|@chëvë, soj@
+@noon@|@käntär@
+@normal@|@jërkelle@
+@north@|@shurshër@
+@nose@|@sämsa, sawmza@
+@not@|@-ma-, an, an, mar@
+@not only@|@shesh mar@
+@notebook@|@tetrad'@
+@nothing@|@nijeple te, nim, nimën, nimën te@
+@nothing of the sort@|@nimësker te@
+@notice@|@säna, tuj@
+@noun@|@japala jachë@
+@noun restraint@|@charu@
+@noun stop@|@charänu@
+@November@|@Chük, nojabr'@
+@now@|@ändä, ëntë, ëntë, hal', halë, nu, nu, pajan@
+@now... now@|@përre... tepre@
+@nowhere@|@nishta@
+@number@|@hisep, hisep, nomer, shut, som@
+@nut tree@|@šawškaw@
+@oak@|@juman@
+@oak grove@|@jumanläh@
+@oak tree@|@joman, öman@
+@oats@|@säwläw@
+@obey@|@itle@
+@object@|@japala@
+@object of dedication@|@türe@
+@obstruct@|@char-@
+@October@|@oktjabr'@
+@of course@|@ahär, ara@
+@of sled runners@|@sh-h-h!@
+@office@|@kantur@
+@often@|@ëshke@
+@oil@|@çu, shu@
+@old@|@kivë, vad', vatä@
+@old (not new)@|@kivë@
+@old man@|@starik@
+@old person@|@vatä@
+@old things@|@kivë@
+@old woman@|@karchäk@
+@on credit@|@këtesle@
+@on its side@|@jenëpe@
+@on top@|@shinche@
+@once more@|@kajalla@
+@one@|@päwr, për, perre@
+@one after the other@|@umla-hyshlä@
+@one each@|@përer@
+@one hundred@|@ser@
+@one of@|@përi@
+@one or another@|@përpër@
+@one's proper@|@harpär häjën@
+@onion@|@sohan, suxan@
+@only@|@shesh, tek@
+@onomatopoetic word@|@tan-tan-tan@
+@onomatopoetic words@|@shält-shalt, shänkär-shänkär@
+@ooze@|@särhän-@
+@opening@|@shätäk@
+@opinion@|@shuhäsh@
+@or@|@e, je@
+@order@|@jërke, syrl'x@
+@orphan@|@t'lax@
+@other@|@lesh, leshë, tepër, uräh@
+@otter@|@'wd'wr@
+@our@|@pirën@
+@outer side@|@tol@
+@outwards@|@tula@
+@overthrow@|@s'x-@
+@owing to@|@pula@
+@owl@|@tämana, ügä, üxä@
+@ox@|@väkar@
+@Pacific@|@läpkä@
+@page@|@stranicha@
+@pain@|@yratni, yratu@
+@pan@|@tagana@
+@pant@|@syvla-@
+@pants@|@jëm@
+@paper@|@hut, xut@
+@part of loom@|@käuräu@
+@particle@|@päurže@
+@particle makes interrogatives@|@ta@
+@party@|@ëshkë-shikë@
+@party (political)@|@parti@
+@pass through@|@vit-@
+@passion@|@väwrge@
+@past of pur@|@purcch6e@
+@pastry@|@kukäl'@
+@path@|@shul@
+@pay@|@tülev@
+@pea@|@p'urza, pärça, päurze@
+@peace@|@tënche@
+@peaceful@|@läpah@
+@peach@|@persik@
+@pear@|@grucha@
+@pebble@|@suj'r chulä@
+@pedagogy@|@pedagogika@
+@pedestal@|@sag'@
+@peel@|@häjpät, sü-@
+@peel off@|@šajar-@
+@peg@|@karu@
+@pencil@|@kärantash@
+@peninsula@|@shurutrav@
+@people@|@haläh, xaläx@
+@pepper@|@päpäç, päräsh@
+@perforated@|@sajra@
+@person@|@syn'@
+@person who is lazy@|@kahal@
+@pert@|@šuldra@
+@petersham@|@t'la, tawlla@
+@petroleum@|@neft'@
+@pig@|@sysna@
+@pigeon@|@kävakarchän@
+@pike@|@s'urdan, s'urtan@
+@pile@|@kupa@
+@pile up@|@kupala@
+@pillow@|@minder, syd'r@
+@pilot@|@lëtchik@
+@pine tree@|@hyr, xyr'@
+@pitch-dark@|@sëm-tëttëm@
+@place@|@lart, tël, vyr'n@
+@place between the neck@|@saha, suha@
+@plain@|@hir, ol'x@
+@plan@|@plan@
+@planet@|@planeta@
+@plant@|@zavod@
+@play@|@v'uj'u@
+@playful child@|@irtënchëh@
+@pleasure@|@havas@
+@pledge@|@s'k@
+@plentiful@|@tuläh@
+@plough breast@|@sorban@
+@plow@|@plug, suha@
+@pluck@|@s'ul-, tat@
+@plug@|@p'ug'u@
+@plum@|@sliva@
+@plural to preceding@|@at'är@
+@poem@|@sawvaw@
+@poison@|@narkämäch@
+@pole@|@turtä@
+@poll@|@sasälav@
+@poplar@|@tirek@
+@poppy@|@mäkän'@
+@porridge@|@p'ud'u@
+@possess. suffix (3d person)@|@-šä@
+@postposition@|@äsh@
+@postposition approximately@|@jahän@
+@postposition around@|@tavra@
+@postposition by means of@|@pirki, shemën@
+@postposition for@|@-palan@
+@postposition thanks to@|@kura@
+@postposition up to@|@taran@
+@potato@|@çër ulmi@
+@potatoes@|@parankä, shërulmi@
+@prayer@|@këlë@
+@predator@|@tisker-kajäk@
+@prefer@|@kämälla@
+@present@|@par@
+@present-day@|@käshalhi@
+@press in@|@chyx-@
+@previously@|@maltan@
+@prize@|@premi@
+@production@|@produkci@
+@profit@|@oz', usä@
+@prop of the door hinge@|@k'kä@
+@proper name Johnny@|@Van'uk@
+@prophet@|@propok@
+@prosthesis@|@protez@
+@protect@|@hütële@
+@protected@|@hütë@
+@pulling@|@turtni@
+@punishment@|@xän@
+@pus@|@pür@
+@quart@|@litr@
+@quarter@|@tävatkal@
+@question@|@yïtu@
+@quick@|@av'k, pidä, püdä@
+@quickly@|@chasah, hävärt@
+@quiet@|@tülek@
+@quiet and grey@|@bwm'wr@
+@quite@|@shav teri@
+@rafter@|@sol'@
+@ragged@|@lästärkka@
+@railroad@|@rel's@
+@railroad ties@|@shpal@
+@railway@|@chukun shul@
+@rain@|@çumär, shämär, shumär, som'r@
+@rake@|@këreple@
+@ram@|@taka@
+@rank@|@linejka@
+@ransom for bride@|@xol'm@
+@rash@|@tod'x, tud', tut@
+@ravine@|@lupashka, putäk@
+@reader@|@vulakan@
+@reading@|@vulakan@
+@reading room@|@chital'nja, vulaväsh@
+@rear part postposition behind@|@hysh@
+@reason@|@tupsäm@
+@recently@|@paz'r@
+@reception@|@hapäl@
+@red@|@hërlë, xerle, xërlë@
+@reed@|@xorhux@
+@reedmace@|@chakan@
+@region@|@rajon@
+@rein@|@jëven@
+@reins@|@sänchär@
+@rejoice@|@havaslan@
+@reknowned@|@muhtavlä@
+@relative-in-law@|@xon@
+@religion@|@tën@
+@rely on@|@nen-@
+@remain@|@jol-@
+@remaining@|@julashki@
+@report@|@hypar@
+@reproachful attitude@|@u-uh@
+@republic@|@respublika@
+@request@|@-ha, -ka, jälän@
+@resin@|@soh'r@
+@resolution@|@rezoljutsi@
+@respect@|@hisep@
+@respected@|@aslä@
+@revolution@|@revol'uci@
+@rich@|@poräš@
+@rifle@|@vintovkä@
+@right@|@pravo, syltäm, tërës@
+@ring@|@shëre@
+@ripe@|@pis-@
+@rise@|@äwn-@
+@river@|@chyv, juhanshyv@
+@river bed@|@vazan@
+@road@|@çul, sol@
+@roar@|@shavla@
+@rock@|@xysak@
+@roe@|@väulžäu@
+@roof@|@tärä@
+@room@|@pülëm@
+@root@|@k'uk, täp, tymar@
+@rope@|@p'jav@
+@rose@|@roza@
+@rotten@|@säräk, shër, shër, shërëk@
+@round@|@savra@
+@round thing@|@tub'@
+@round wooden bowl@|@kandi@
+@ruble@|@tenkë@
+@ruff@|@k'r'š, k'rt'š@
+@ruler@|@patsha@
+@rump@|@väwžäw@
+@Russia@|@Rashshej@
+@Russia (in Soviet era)@|@Rossija@
+@Russian@|@vyräs@
+@rye@|@yrash@
+@sable@|@k'uš@
+@sacred@|@järäx@
+@saddle@|@jäner, jënerchëk@
+@saddle strips@|@orha-l'x@
+@salt@|@t6avar, tävar, tawvar@
+@salted@|@šarak@
+@same as@|@-pala, -pele@
+@sand@|@häjär, x'um, x'um, xäïär@
+@sarcastic@|@aj-haj@
+@Saturday@|@shämatkun@
+@savings@|@pereket@
+@savings bank@|@kassa@
+@scabbard@|@änä, jänä@
+@scar@|@püzek@
+@scent@|@j's@
+@school@|@shkul@
+@science@|@nauka@
+@scoop@|@korga, kurka@
+@scrape@|@hysh@
+@scratch@|@chër@
+@scrofula@|@j'x@
+@sea@|@tinës@
+@sea knot@|@kazak@
+@seal@|@pichet@
+@seam@|@säuv@
+@seashore@|@xärä@
+@season@|@taphär@
+@seat oneself@|@lar@
+@second@|@çekkunt, tebär, tebärew@
+@second floor@|@ikkëmësh hut@
+@secretary@|@sekretar'@
+@secretly@|@värttän@
+@security@|@hütleh@
+@sedge@|@qijoq@
+@see@|@shäv@
+@seed@|@täewžäw, v'wr'w, värläh@
+@seem@|@kurän@
+@seldom@|@nimën chuhlë te@
+@sentry@|@hural@
+@separate@|@pöl-@
+@separately@|@ujrän@
+@September@|@avän, sentjabr'@
+@series@|@ret@
+@servant@|@tarshä@
+@seven@|@shicchë, shich, shichë, sižä@
+@seventy@|@shitmël@
+@shadow@|@säwm@
+@shaft-poles of a cart@|@pärkächä@
+@shaggy@|@tägäl@
+@shake@|@tapra-n-@
+@shallow@|@kanas@
+@shallowness@|@äshäk@
+@shaman@|@jom's, jum'zä@
+@shame@|@järän-, namäs@
+@sharp@|@shivëch, sivžä@
+@sharp-edged@|@šäwväwr@
+@she@|@väl@
+@sheaf@|@kälde@
+@sheat-fish@|@soin, soj'n@
+@sheep@|@sor'x, supäx, suräh@
+@sheet@|@shulshä@
+@ship@|@karap, kim, kimë@
+@shirt@|@këpe@
+@shiver@|@chëtre@
+@shoot@|@ut-, yv't-@
+@shop@|@lavkka@
+@shore@|@hërë@
+@short@|@këske@
+@shoulder@|@an, av'n, hulpushshi, xol@
+@shoulder yoke@|@käuvende@
+@shoulderblade@|@sor'm@
+@shovel@|@käureze@
+@Siberia@|@Shëpër@
+@sickle@|@shurla, sorla@
+@side@|@ajak, pat-, pit, som@
+@side postposition along@|@shum@
+@sieve@|@alla@
+@silently@|@tamal-@
+@silk@|@purçän, purshän@
+@silver@|@këmël@
+@similar@|@jevër, x'rax@
+@sin@|@shiläh@
+@since@|@shavänpa (vara), shimël@
+@sinew@|@šanar@
+@sister@|@appa, ïämäk@
+@six@|@ult, ultä, ulttä@
+@sixty@|@utmäl@
+@sketch@|@ükerchëk@
+@skilless@|@li-žali@
+@skin@|@tir, tirä@
+@skinner@|@ir-zä@
+@sky@|@kovak, tüpe@
+@slander@|@soj@
+@sled@|@shunashka@
+@sleep@|@äjäh(yjäh), yjh'@
+@sleeve@|@savn'@
+@sleigh@|@shuna@
+@sliver@|@x'j'@
+@slow@|@majëpen@
+@slowly@|@xoll-en@
+@slumber@|@yjhä@
+@small@|@këshën, pëchëk, pëchëk, pëchëkshë, vak@
+@smear@|@säwr-, sër@
+@smiling@|@jäl-jäl@
+@smith@|@timërshë@
+@smoke@|@täwdäwm, tëtëm@
+@smokestack@|@märje@
+@smooth@|@iaka, türem@
+@snake@|@çëlen, säulen, shëlen@
+@snipe@|@byllyryt, bylžyryt@
+@snow@|@iur, jor, jur@
+@snowdrift@|@kërt@
+@snow-white@|@shap-shurä@
+@so many@|@chuhë@
+@so much@|@shavän chuhlë, temën chuhlë@
+@so that@|@tese@
+@soaking wet@|@jëp-jëpe@
+@soap@|@supän'@
+@sober@|@or'@
+@soft@|@shemshe@
+@soil@|@t'upra@
+@soldier@|@saltak@
+@sole@|@toban@
+@some@|@häsh@
+@somehow@|@aran, teple@
+@someone@|@tahäshë, takam, temësker@
+@something@|@mën te pulin, temën@
+@sometime@|@tahäshan@
+@somewhat@|@temishe@
+@somewhere@|@tashta@
+@son@|@iväl, yvul@
+@song@|@jurä@
+@son-in-law@|@kärü, kërü@
+@soon@|@chas@
+@soot@|@k'uvajt, x'r'm@
+@sorcerer@|@jumäsh@
+@sorrow@|@xojha@
+@soul@|@chun@
+@sound@|@sasä, sasä-chëvë, saz'@
+@sound of the whip@|@ch'v'š@
+@sour@|@jäksü@
+@Soviet@|@sovet@
+@sower@|@akakan@
+@sparrow@|@serzi, shershi@
+@sparse@|@sajra@
+@spear@|@sawnaw@
+@speech@|@kalashu, sämah@
+@speech (the faculty)@|@puplev@
+@sphere@|@ch'um'ur@
+@spider@|@erechmen@
+@spin@|@av'r-la-@
+@spindle@|@jäge@
+@spine@|@kazan@
+@spine of animal@|@šart@
+@spleen@|@sola@
+@spoon@|@kachäk, kashäk@
+@spot@|@vyrän@
+@spouse@|@upäshka@
+@spring@|@shur, sor@
+@sprinkle@|@sap-@
+@square@|@ploshadka@
+@squirrel@|@paksha@
+@srpingtime@|@çur@
+@staff@|@toja@
+@stage (of theater)@|@scenä@
+@stalk of cereals@|@x'um'ul@
+@stallion@|@äjär@
+@stalwart@|@pül-lä@
+@standard@|@tutä@
+@star@|@çältär, s'uld'ur, soldor@
+@starling@|@šangarch, šanggarž'@
+@starvation@|@vyshläh@
+@starve@|@vyz' kag'r'l@
+@state@|@gosudarstvo, patshaläh@
+@state farm@|@sovhoz@
+@stave@|@häma@
+@steam@|@päs@
+@steamship@|@pärahut@
+@steel@|@hurshä, xorz', xurçä@
+@steep bank@|@syr@
+@stem@|@tona@
+@step@|@od'm@
+@steppe@|@xir@
+@steppe fire@|@virt@
+@sterlet@|@s'uga@
+@stern of ship@|@hüre@
+@stick@|@küsek, patak, tuja@
+@stick to@|@syb's-@
+@stick with a hook@|@kag'r@
+@stiff@|@xol'm@
+@still more@|@ytlarah@
+@still yet@|@tata@
+@stillness@|@shäp, shäpläh@
+@stirrup@|@j'rana@
+@stomach@|@hyräm@
+@stone@|@chol, chul, shul@
+@storm@|@täväl@
+@stout-hearted@|@käuräu@
+@stove@|@kämaka@
+@stove hole@|@k'umaga@
+@straight@|@türë@
+@straits@|@proliv@
+@strand@|@tal@
+@strange@|@shämläh@
+@strawberry@|@syrla@
+@street@|@uram@
+@strength@|@hal, väj@
+@strip@|@sü@
+@strong@|@hävatlä, shirëp, väjlä@
+@strong smell of burnt@|@käuv, kü@
+@strong wind@|@t'uv'u@
+@stubby@|@t'wmat@
+@student@|@student, vëreneken@
+@student's desk@|@parta@
+@studies@|@vërenü@
+@stuffed@|@t'nk@
+@stump@|@täm, tämeke@
+@stupidity@|@ank1-minkä@
+@submerge@|@š'nas-@
+@subtract@|@kälar@
+@such@|@apla, shakän pek, shapla@
+@such a@|@kapla, shavän pek, un pek@
+@suddenly@|@chuh, sasartäk@
+@suffix@|@-sker@
+@suffix of numerals@|@-shar@
+@sugar@|@saxär@
+@summer@|@çu, s'v, su@
+@summit@|@tüpe@
+@sun@|@hëvel, xäuvel, xövel@
+@Sunday@|@vyrsarnikun@
+@support@|@charak@
+@surroundings@|@tavra, xož'@
+@swan@|@akäsh@
+@sweat@|@tar, ter@
+@sweet@|@tut-l'@
+@sword@|@xäs@
+@table@|@sëtel@
+@tail@|@xüre@
+@tall@|@shül, shüllë@
+@tamarisk@|@palan, polan@
+@tar@|@s'wmala@
+@task@|@zadacha@
+@tassel@|@šaras@
+@taste@|@tod'@
+@tax@|@paru@
+@tea@|@cheï, chej@
+@teacher@|@uchitel, vërenteken@
+@teapot@|@chejnëk@
+@tear@|@kos-sol, kushshul'@
+@technician@|@tehnik@
+@technicum@|@tehnikum@
+@temple@|@chigä@
+@ten@|@vonu, vun, vunä, vunnä@
+@that@|@haj, lesh, on-da, v'u-l, väl, väl@
+@that (distant)@|@hajhi@
+@that (not too distant)@|@shav, shavä@
+@the beginning@|@pushlamäsh@
+@the devil@|@shujttan@
+@the essential part@|@var@
+@the former one@|@ëlëkhi@
+@The next stop@|@Tepër charänu@
+@the old one@|@asli@
+@the others@|@ytti@
+@the parents@|@asshë-amäshë@
+@the steppe@|@sheshen-hir@
+@the swallow@|@chëkesh@
+@their@|@vësen@
+@their son-in-law@|@kërüshë@
+@then@|@kajran, untan@
+@there@|@av, unta@
+@there are@|@pur@
+@there is not@|@shuk, sohal-, sok@
+@these@|@kusem@
+@they@|@vësem@
+@they themselves@|@häjsem@
+@thick@|@halän@
+@thief@|@vawraw@
+@thin@|@shinshe, shühe, sinze, xäldärke@
+@thin snow@|@xärbäx@
+@thing written@|@shyru@
+@thirty@|@vätär@
+@this@|@k'v, ko, ku, shak, shakä@
+@this (deictic particle)@|@sa-@
+@This dress matches you@|@Ku këpe sana kilëshet@
+@this year@|@käshal@
+@thither@|@unta@
+@thou@|@esë, ezä@
+@thousand@|@pin@
+@thread@|@sip@
+@three@|@vish, vishë, vishshë@
+@three times@|@vishë hutchen@
+@three together@|@vishshën@
+@threshing yard@|@ankarti@
+@throat@|@pyr@
+@through@|@urlä, vitër@
+@throw@|@per@
+@thumb@|@pürne@
+@Thursday@|@këshnernikun@
+@tiger@|@tigr@
+@time@|@chox, samana, srok, växät@
+@tiny@|@vëtë@
+@to accompany@|@äsat@
+@to adorn with carving@|@chëntërle@
+@to advise@|@kanaš@
+@to agree@|@kilësh@
+@to annoy@|@jus-tar-@
+@to appropiate@|@jyshän@
+@to arrest@|@arestle@
+@to arrive@|@shit@
+@to ask@|@käle-, šyra-, yjt-@
+@to assemble@|@puhän@
+@to award@|@nagradäla@
+@to be afraid@|@hära@
+@to be anxious@|@p'ž'-r-han@
+@to be ashamed@|@namäslan@
+@to be astonished@|@tëlën@
+@to be born@|@shural@
+@to be constructed@|@majlash@
+@to be distressed@|@šujhan-@
+@to be ended@|@päut-@
+@to be happy@|@savän@
+@to be hungry@|@vysh@
+@to be interested@|@intereslen, käsäklan@
+@to be jealous@|@küle-, küleš-@
+@to be lazy@|@ürken@
+@to be located@|@vyrnash@
+@to be lost@|@sät-@
+@to be moan@|@hujhär@
+@to be of the opinion@|@shuhäshla@
+@to be pregnant@|@hyräm jät-@
+@to be shocked@|@süzen-@
+@to be the same@|@shäplan@
+@to be tired@|@yr-@
+@to be united@|@përleshtër@
+@to bead@|@tir-@
+@to bear@|@shurat@
+@to beat@|@sup-, v'wr-@
+@to become@|@pol-, pul@
+@to become angry@|@shil, shilen@
+@to become beautiful@|@hitrelen@
+@to become drunk@|@üzär-@
+@to become green@|@jesher@
+@to become mad@|@k'd'r-, tiler-@
+@to become pregnant@|@pëtëlen@
+@to become turbid@|@p'lxa-n-@
+@to become wet@|@jëpen@
+@to begin@|@pushla@
+@to belch@|@kag'r-@
+@to believe@|@ënen@
+@to bellow@|@änär-@
+@to bend@|@aj-, av-, xos-@
+@to bend one's neck@|@kag'r-t-@
+@to bind@|@shyh, syp@
+@to bite@|@tola-š-, tula-@
+@to blacken@|@hural@
+@to blaze@|@sis-@
+@to blow@|@vaš-, väwr-, vër@
+@to blow one's nose@|@šangar-, šängar-@
+@to break@|@shëmërël, xär-@
+@to break up into small pieces@|@vaklan@
+@to breathe@|@syvla@
+@to breathe heavily@|@and'x-@
+@to burn@|@son-, sot-@
+@to burn (tr.)@|@sondar-@
+@to burn (transitive)@|@shuntar@
+@to buy@|@il-@
+@to calculate@|@shutla@
+@to care@|@oja-@
+@to catch fire@|@xyp-@
+@to catch fish by a drag@|@sär-@
+@to cause to be@|@pultar@
+@to cause to fall@|@üker-@
+@to cause to grow@|@üster@
+@to cause to stand@|@tärat@
+@to cheapen@|@jünel@
+@to chew@|@kavle-@
+@to choose@|@sujla@
+@to clap@|@shup@
+@to clean@|@tasat@
+@to clean oneself@|@tasal@
+@to close@|@hupla, xop-, xopla-@
+@to come@|@kil-@
+@to come alive@|@chërël-@
+@to command@|@hush@
+@to compare@|@tanlashtar@
+@to compensate@|@sap-la-@
+@to concern@|@tiv@
+@to conjure@|@tuga tu-@
+@to consider@|@sav-, su-@
+@to converse@|@kalash@
+@to cough@|@üzär-@
+@to count@|@chutla@
+@to cover@|@vit-@
+@to cover oneseif@|@vitën@
+@to cover up@|@päurke-@
+@to crack@|@shätärtat@
+@to crackle@|@shartla@
+@to cry out@|@käshkär@
+@to curse@|@sämäur-, x'ud'ur-@
+@to curve@|@päuk-@
+@to cut@|@kas-, päs-@
+@to cut into slices@|@tura-@
+@to cut oneself up@|@kasäl@
+@to damn@|@sol-@
+@to dance@|@tashla@
+@to dare@|@x'j-@
+@to deceive@|@ultala@
+@to decrease@|@iksäl-@
+@to defecate@|@sys-@
+@to descend@|@an@
+@to destroy@|@shëmër@
+@to die@|@vil-@
+@to die out@|@kag'rza vyrt-@
+@to dig@|@alt-, chav@
+@to dive@|@ch'um-@
+@to dive under@|@chäm@
+@to divide@|@ujär, vales-@
+@to do@|@täv, tu@
+@to don@|@tähän@
+@to drag@|@sëtër@
+@to draw@|@äs, chär-@
+@to dream@|@ëmëtlen@
+@to dress@|@tumlan@
+@to drink@|@äs-, ësh@
+@to drive@|@häv, hu, vaskat-@
+@to drive away@|@sir-@
+@to drop@|@tom-la-@
+@to dry@|@tip-@
+@to dry off@|@syval-@
+@to dry out@|@tip@
+@to earn wages by labour@|@x'rh'n@
+@to eat@|@shi-, si-@
+@to enlarge@|@pysäklat@
+@to enter@|@kär-@
+@to envy@|@'wmza-@
+@to fall@|@s'k-, ük-@
+@to fall apart@|@salan@
+@to fall on one's knees@|@chërkushlen@
+@to fasten@|@k'g'r-@
+@to fasten oneself@|@shyhän-@
+@to fear@|@hära@
+@to feed@|@shiter@
+@to feel@|@sis@
+@to feel ague@|@saraltat-@
+@to ferment@|@käuve-@
+@to fight@|@värsh, vëresh@
+@to find@|@top-, tup@
+@to find refuge@|@hätäl@
+@to flail@|@av'n sap-@
+@to flash@|@vëltlet@
+@to flee@|@tar@
+@to float@|@iarän@
+@to flow@|@jox-, juh@
+@to fly@|@väws-, vësh@
+@to follow@|@jer-@
+@to forget@|@man-@
+@to freeze@|@shän@
+@to get ready@|@tytän@
+@to get to@|@ëlkër@
+@to get well@|@syval@
+@to give@|@par-@
+@to glow@|@hër@
+@to go@|@chashlattar, shüre@
+@to go away@|@kaj-, kajt-@
+@to go out@|@tuh@
+@to go over@|@kash@
+@to grasp@|@tyt-@
+@to grow@|@shät@
+@to grow soft@|@shemshelen@
+@to grow up@|@shitën@
+@to guard@|@syhla@
+@to guess@|@asärha@
+@to hang@|@kar-, os-, tort-, us-, usän@
+@to hang itself onto@|@shaklan@
+@to harm@|@tula-@
+@to harness@|@kül-@
+@to have a trial at court@|@sudlash@
+@to have enough strength@|@hal shiter@
+@to have invited@|@chënter@
+@to have made@|@tutar-@
+@to have write@|@shyrtar@
+@to hear@|@ilt-@
+@to heat@|@äšän-, äšät-, hut@
+@to heat oven@|@xot-@
+@to help@|@puläsh@
+@to hide@|@pytar@
+@to hire oneself out@|@kërësh@
+@to hit@|@çap@
+@to hold@|@tyt@
+@to hold back@|@char@
+@to hope@|@shan@
+@to hunt@|@tyt@
+@to hurry@|@avaš-, vaska@
+@to invite@|@chën@
+@to itch@|@käzä@
+@to its side@|@patne@
+@to judge@|@tirge-@
+@to jump@|@sik-@
+@to kill@|@väwler-, vëler@
+@to kiss@|@chup tu@
+@to knead@|@ir-, säur-@
+@to kneel down@|@s'ug-'un-@
+@to knock@|@küp-le-t-@
+@to know@|@palla, palla, pël, pewl-@
+@to know one another@|@pallash-@
+@to laugh@|@ahältat, kul@
+@to laugh repeatedly@|@kulkala@
+@to lead@|@jert, jes-, les-@
+@to leave@|@jar@
+@to leave (transitive)@|@hävar@
+@to leave the way@|@sup-@
+@to let in@|@kërt@
+@to lick@|@s'vla, sula-@
+@to lie@|@suj, vyrt@
+@to lift@|@jät, shëkle@
+@to lighten@|@shut@
+@to line up@|@jërkele@
+@to live@|@purän@
+@to live on@|@puränmaläh@
+@to load@|@tije@
+@to long for@|@x'n'x-@
+@to lose mind@|@or-@
+@to love@|@sav@
+@to make@|@äs-xäl@
+@to make feel@|@sister-@
+@to make one@|@përlesh-@
+@to make read@|@vulattar@
+@to make small@|@vakla@
+@to make understand@|@änlantar@
+@to make work@|@ëshletter@
+@to marry@|@av-la-n-, avlan, mäshärlan@
+@to master@|@shavärsa il@
+@to measure@|@vis-@
+@to melt@|@iräl-, irël, šaran-, shärat@
+@to migrate@|@kos-@
+@to mix@|@hutshän-, jor-, jur-@
+@to mount to horse@|@utlan-@
+@to move@|@kush@
+@to move oneself@|@tapran@
+@to mow@|@shul, sol-, sol-, vyr-@
+@to murmur@|@kashla, kërle@
+@to neigh@|@'wlax-@
+@to one another@|@për përinpe@
+@to open@|@os-, ush@
+@to open oneself@|@ushäl@
+@to order@|@pür-@
+@to paint@|@-sär, päwve-@
+@to pay@|@tüle@
+@to pay heed@|@astu@
+@to perceive@|@tavshär, toj'n-, tuj-@
+@to pinch@|@chäbät-@
+@to place@|@hur@
+@to plant vertically@|@chik-@
+@to plaster@|@sop-@
+@to play@|@vylja-@
+@to plow@|@suhala@
+@to pound@|@kiv-, täwv-, tü-@
+@to pour@|@täk@
+@to pour out@|@tawk-@
+@to pour out water@|@xyv-@
+@to pour over oneself@|@chühen@
+@to praise@|@muhta, yrla@
+@to press@|@hësërle, pos-@
+@to pull@|@sädär-, turt@
+@to purr@|@märlat@
+@to push@|@pus, tëk@
+@to put@|@sol-, xu-, xyv-@
+@to quarrel@|@tavlash@
+@to question in detail@|@tëpche@
+@to rain@|@su-, su-çumär@
+@to raise@|@häpart@
+@to rave@|@tos-@
+@to reach@|@sit-, tiv-@
+@to reach out for@|@karmash@
+@to read@|@vula@
+@to reap@|@vyr@
+@to reconcile@|@soras-@
+@to remain@|@jul@
+@to remember@|@asän@
+@to remove@|@sir@
+@to renew@|@shënëlet@
+@to respect@|@hiseple@
+@to rest@|@kan@
+@to roll@|@jävalan@
+@to roll over@|@j'uvan-@
+@to rot@|@sär-@
+@to rub@|@sätär@
+@to rub teeth@|@x'jra-@
+@to run@|@chup@
+@to run away@|@tar-@
+@to save@|@hätar@
+@to say@|@kala, te-@
+@to scold@|@tätär-@
+@to scoop@|@as-, aws-@
+@to scrape@|@xyr-, xys-@
+@to scratch@|@chäïär@
+@to secrete@|@pytan@
+@to see@|@kor-, kur@
+@to seek@|@shyra@
+@to sell@|@sot-@
+@to send@|@jar-@
+@to separate@|@oj'r-@
+@to settle@|@virnashtar-@
+@to sew@|@çele, säuväu-@
+@to shake@|@sikkele@
+@to show@|@kätart@
+@to shun@|@sirël@
+@to sift@|@ala, alla-@
+@to sing@|@jurla@
+@to sing of birds@|@av't-@
+@to singe@|@vät-@
+@to sink@|@pot-, put@
+@to sit@|@lar-@
+@to slander@|@soj-@
+@to sleep@|@çybär, shyvär@
+@to smear@|@-sër@
+@to smell@|@shärshla@
+@to snatch@|@xyp-@
+@to snore@|@harlattar, härlattar@
+@to sober up@|@or'l-@
+@to somewhere@|@tashtalla@
+@to sound@|@janäravla, janra@
+@to sow@|@ak-, sapala@
+@to speak@|@kala, kala-, puple, sol'a-, sujlaš-@
+@to speak roughly@|@kas-@
+@to spit out@|@sor-@
+@to split@|@shur, sor-, sur@
+@to spread@|@sar-@
+@to spring@|@sik@
+@to squeeze@|@chämärta, xäs-@
+@to stab@|@chik@
+@to stand@|@tär, tawr-, tüs@
+@to stand watch@|@hural tär@
+@to steam@|@päslan@
+@to stick@|@chik, shypäsh@
+@to strain@|@šarat-@
+@to strengthen@|@shirëplet@
+@to stretch@|@hälashla@
+@to stretch oneself@|@karän@
+@to stretch out@|@kar@
+@to stretch out to@|@täs@
+@to strike@|@shap@
+@to strive pull toward@|@turtän@
+@to struggle@|@shapäsh@
+@to study@|@vëren@
+@to succed@|@änsa pyr@
+@to suck@|@äum-, ëm@
+@to suffer@|@aman-@
+@to swallow@|@s't-@
+@to sweat@|@tarla@
+@to swell@|@šys-, x'uba-lan-@
+@to swim@|@su-@
+@to take@|@il-@
+@to talk@|@chän-@
+@to talk unintelligibly@|@sämpältet-@
+@to taste@|@tuda-l-, tuda-n-@
+@to teach@|@vërent@
+@to there@|@shavänta, untalla@
+@to think@|@shutla@
+@to thread a needle@|@syp-@
+@to threaten@|@sazar-lan-dar-@
+@to thresh@|@avän shap@
+@to throw@|@jvät, pärah, x'um-@
+@to tie@|@çyh@
+@to tire@|@yv'n-@
+@to translate@|@kushar@
+@to try@|@täräsh@
+@to tune@|@äner-@
+@to turn@|@av'r-, pär, pärän, shavär@
+@to turn about@|@shavärän@
+@to turn around@|@tavär@
+@to turn oneself@|@pärän@
+@to twirl@|@për@
+@to twist@|@sar-, savar-@
+@to unfasten@|@vësher@
+@to unfasten oneseif@|@vësherën@
+@to untie@|@sal-t-, salt@
+@to urinate@|@šar-@
+@to vomit@|@hës, x's-@
+@to vote@|@sasäla@
+@to wait@|@kët@
+@to wake@|@värat@
+@to wake up@|@väran, vawran-@
+@to wake up (trans.)@|@vawrat-@
+@to walk@|@ot-, pyr-, süre-, ut@
+@to walk a bit@|@shürekele@
+@to wash@|@shu@
+@to wash oneself@|@shävän@
+@to watch@|@päh@
+@to water animals@|@shävar@
+@to weigh@|@taj@
+@to wet@|@jëpet@
+@to wheeze@|@hashka-@
+@to whistle@|@shähär@
+@to win@|@'t-, sän-, shënter@
+@to wind around@|@syr-@
+@to wipe@|@šal-@
+@to wipe off@|@shäl@
+@to wish@|@xärhen-@
+@to wither@|@shan@
+@to woo@|@kalas-@
+@to work@|@ëshle@
+@to wrinkle@|@päur-@
+@to write@|@syr-@
+@to write a bit@|@shyrkala@
+@tobacco@|@tabak@
+@today@|@paian@
+@together with him@|@unpa përle@
+@tomato@|@pomidor@
+@tomorrow@|@iran, yran@
+@tongs@|@xypch'k@
+@tongue@|@chëlxe@
+@tooth@|@chäl, šal, shäl@
+@top@|@shi@
+@top of head@|@töbe, tübä@
+@top(s) of boots@|@konža@
+@torment@|@asap@
+@torn@|@tatäk@
+@total@|@mënpur@
+@towards@|@pat@
+@towards him@|@un patne@
+@tower@|@bashnia@
+@town of Alikovo@|@Elëk@
+@town of Yadrin@|@Jetërne@
+@trace@|@jär@
+@tractor@|@traktor@
+@train@|@pojezd, pujäs@
+@tramp@|@tab-@
+@transgressions@|@paräm@
+@travel@|@kaj, kaj, pyr@
+@traveller@|@shulshüren@
+@tree@|@ïyväç, jyv's, jyväsh@
+@tree-trunk@|@vol'@
+@tribe@|@j'wx@
+@trolley bus@|@avtobus@
+@troops@|@shar@
+@trouble@|@šot@
+@trousers@|@jäum@
+@trumpet@|@p'r'x@
+@trust@|@šan-, žen-@
+@trust financial@|@trest@
+@truth@|@chän, tërëslëx@
+@try@|@sänav@
+@tsar@|@padishah, pasha@
+@Tuesday@|@ytlarikun@
+@tulip@|@tiul'pan@
+@turkey@|@k'urka@
+@turn@|@kukär@
+@twain@|@mäshär@
+@twentieth@|@shirëmmësh@
+@twenty@|@shirëm@
+@twig@|@turat@
+@two@|@ik, ikë, ikkä, ikkë, ikke'@
+@two at a time@|@iksherën@
+@udder@|@silä@
+@Ukraine@|@Ukraina@
+@underclothes@|@trusy@
+@understanding@|@än, as@
+@unemplojment@|@ëshsërlëh@
+@unexpectedly@|@änsärtran@
+@ungenerous@|@hytä@
+@unit@|@paj@
+@unite@|@xoš-@
+@unpleasant smell@|@käusek@
+@unsubstantial@|@sühe@
+@until@|@uncchen@
+@until tomorrow@|@yrancchen@
+@up to now@|@halicchen@
+@upper@|@pošä@
+@upper dialect of Chuvash@|@vir'jal@
+@upper part@|@si, sije@
+@upper rib@|@aj'k@
+@upwards@|@shülelle@
+@urinate@|@shär@
+@urine@|@šak, shäk@
+@use up@|@pëter@
+@useful@|@usällä@
+@valley@|@lapam, var@
+@variegated@|@ola@
+@various@|@täurläu, tërlëren@
+@vat@|@chan, pichëke@
+@vein@|@tymar@
+@very@|@chi, pitë, shalt@
+@very good@|@chi lajäh@
+@very green@|@jem-jeshël@
+@very young@|@shap-shamräk@
+@village@|@ial, jal@
+@vinegar@|@uksus@
+@visible@|@shutä@
+@vocal cords@|@sasä chëlëhë@
+@vodka@|@ereh@
+@voice@|@sasä@
+@Volga river@|@Atäl@
+@voluntarily@|@irëkkën@
+@wagon@|@pavuska@
+@wagtail@|@p'urž'gan@
+@waist@|@piläk, pilëk@
+@walking stick@|@altuj@
+@wall@|@stena@
+@war@|@värçä, värshä@
+@wares@|@tavar@
+@warm@|@äshä@
+@warrior@|@olbut@
+@wart@|@šäygäyl, šayklay@
+@water@|@shyv, syv@
+@water sprite@|@vutäsh@
+@wave@|@hum, xom@
+@way@|@sol@
+@we@|@e-bär, epir@
+@we ourselves@|@hamär@
+@wealth@|@pujanläh@
+@wealthy@|@pujan@
+@weather@|@çantaläk, san-/sav'n-tal'k@
+@weave@|@päudäur-@
+@Wednesday@|@junkun@
+@weed@|@shum, shum, shum-kuräk, som@
+@weedy@|@shumlä@
+@week@|@erne@
+@weft@|@ura@
+@well@|@tutä@
+@wet@|@jëpe@
+@what@|@mäun, mën@
+@what is to be done@|@tumalli@
+@what sort of@|@jeple@
+@what sort of a@|@jeplesker@
+@what sort of person?@|@mësker@
+@what?@|@mën@
+@whatever@|@kirek mën@
+@wheat@|@tulä@
+@wheel hoop@|@tog'n@
+@when@|@häçan, häshan@
+@whence@|@äshtan@
+@where@|@äçta, äshta@
+@wherever@|@kirek äshta@
+@whether@|@-shi@
+@whetstone@|@jägev, päwlev@
+@whey@|@säuve@
+@whinny@|@këshen@
+@whirlwind@|@koz'rga@
+@white@|@churä, shur, shurä, šor'@
+@white copper@|@šawvaws, šos, šus@
+@who@|@kam@
+@Who is this One?@|@Kam-shi ku@
+@whoever@|@kirek kam@
+@wide@|@sarlaka@
+@widow@|@tätäh@
+@width@|@sarlakash, urläsh@
+@wife@|@aräm@
+@wild animal@|@kaj'k@
+@wild bird@|@kajäk@
+@wild dog@|@kërt jytti@
+@will@|@irëk@
+@willow@|@häva, jämra, x'uva@
+@wind@|@çil, pär, shil, sil@
+@wind round@|@p'ur-@
+@window@|@chüreche, kantäk, täwnäw@
+@window blind@|@surban@
+@windpipe@|@tip pyr@
+@windstorm@|@täväl@
+@wine@|@erex@
+@wing@|@çunat, sonat@
+@winter@|@hël, hëlle, xäl, xël@
+@with@|@-na, -ne, -pa@
+@with one form@|@për tëslë@
+@with pleasure@|@havassän@
+@witness@|@tyn@
+@wolf@|@kashkär, kašk'r, pirä@
+@woman@|@hër, xëraräm@
+@woman's plait@|@sivät, sütä@
+@wonderful@|@tonsax@
+@wood@|@värman@
+@wooden board@|@käle@
+@woodgoblin@|@arshuri@
+@wool@|@çäm, s'um@
+@word@|@sämax@
+@wordless@|@chän-sär@
+@work brigade@|@brigada@
+@worked leather@|@s'ran@
+@worker@|@ëshleken, rabochi@
+@working man@|@ësh shynni@
+@world@|@tënche@
+@worm@|@'wman, amän, xurt@
+@wormwood@|@ar'm@
+@worry@|@šohaš@
+@wrestle@|@käreš-@
+@wriggler@|@järgän@
+@written language@|@shyruläh@
+@year@|@çul, shul, shultaläk, sol@
+@yellow@|@sarä@
+@yellow of a horse@|@süren@
+@yellow pepper@|@sarä päräsh@
+@yesterday@|@änäräk, äner, ëher, ëner@
+@yield@|@kür@
+@you@|@esë@
+@you (plural)@|@esir@
+@you (sing)@|@esë@
+@you don't say!@|@i-mën, im@
+@you yourself@|@hävah, hu@
+@you yourselves@|@hävär@
+@young@|@çamräk, shamräk@
+@young lamb@|@pod'ak, putä@
+@young of a wild animal@|@anž'k@
+@young of birds and animals@|@s'uv'ur, sur'@
+@young of camel@|@kölyök@
+@younger brother@|@šall-am@
+@your@|@sanän@
+@your (genitive of esir 'you')@|@sirën@
+@zadacha@|@task@
+

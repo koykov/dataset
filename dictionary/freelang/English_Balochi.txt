@@ -1,0 +1,2595 @@
+@English@|@Balochi@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a 2-anna piece@|@sháhí@
+@a bag@|@barzí, loth, zik@
+@a band of mares@|@galagh@
+@a basket@|@khárí@
+@a bee@|@Benagh-mahisk@
+@a bell@|@tilú@
+@a born idiot@|@Asulá gannokh@
+@a branch of a tree@|@lar@
+@a bride@|@naukh@
+@a bridge@|@puhal@
+@a bucket@|@dol@
+@a bush@|@kontar, maivar, phatrík, phífal, phífal, phog, tauzh, tauzh, tholagh-kunar@
+@a cairn erected in irony@|@dambul@
+@a cap@|@top@
+@a certain@|@pilan@
+@a certain time@|@dání@
+@a chaddar@|@phushtí@
+@a cock's comb@|@táj@
+@a colt@|@khuragh@
+@a cook@|@borchi@
+@a cousin@|@trí-zákht@
+@a creeping plant@|@asindagh@
+@a crowd@|@julgav@
+@a cup@|@kadah@
+@a debt.@|@badhal@
+@a deer@|@ásk@
+@a ditch@|@kháhí@
+@a domed building@|@kubba@
+@a drop@|@phurí@
+@a dry skeleton@|@hushken@
+@a dust-storm@|@othar@
+@a fast@|@roshagh@
+@a fawn@|@khaulú@
+@a female camel@|@dáchí@
+@a female kid@|@gísh@
+@a fighter@|@miyokh@
+@a fine@|@chatí@
+@a firelock@|@troredár@
+@a flock of birds@|@jahár@
+@a flower@|@phul@
+@a footman@|@piyádhagh@
+@a forcible contribution@|@danphúr@
+@a fort@|@thul@
+@a fox@|@rofro@
+@a garden@|@bágh@
+@a gelding@|@gwáthagh@
+@a goat given as wages@|@phogrí@
+@a guide@|@chárí@
+@a halt@|@otak@
+@a heap of corn at harvest@|@jauhán@
+@a hero@|@bahádhur@
+@a hoe@|@bel@
+@a hole@|@tong, tung@
+@a hone@|@tezhaghí-khoh@
+@a hook@|@kundí@
+@a horse@|@markhav@
+@a horsefly@|@Bíng-mahisk, Gu ránd@
+@a houri@|@hír@
+@a kiln@|@bhattí@
+@a kind of fly@|@ásk-mahisk@
+@a kind of grass@|@áf-drik, karkaní, karkaní, kulishk, mainar@
+@a kind of partridge@|@sakatar@
+@a kite@|@hil@
+@a large bag@|@júl@
+@a large hill torrent@|@khaur@
+@a large lizard@|@goj@
+@a law-case@|@shará@
+@a leather bag for flour@|@aphan@
+@a light cloud@|@istín@
+@a line@|@líkh@
+@a little@|@chiklo, náchíken@
+@a little while@|@katre@
+@a mattock@|@kudál@
+@a measure of corn@|@ganjí, harwár, kása@
+@a medal@|@jung-bilá@
+@a melon@|@tezhagh@
+@a message@|@paighám@
+@a moth@|@patang, phurú@
+@a mountain@|@phawád@
+@a mountain pass@|@kandagh@
+@a mountain peak@|@they@
+@a negro@|@shídí@
+@a nephew@|@birázákht@
+@a pair@|@juft@
+@a pankha@|@jhallí@
+@a partridge@|@khawinjar@
+@a pass over@|@khandagh@
+@a pass through a defile@|@tankh@
+@a path hemmed@|@char@
+@a peep@|@jhátí@
+@a perennial stream@|@syáh jo@
+@a piece@|@gaphall@
+@a pipe made of clay@|@phor@
+@a plant@|@kuchtoe, phroh, phroh, thaghárshoz, tráth, tráth, tumho@
+@a plant (1)@|@kunchitha@
+@a platform created in funerals@|@ás-rokh@
+@a pond@|@dor@
+@a poor man@|@jarída@
+@a push@|@tálan@
+@a puzzle@|@auhsán-khatá@
+@a raiding party@|@ghal@
+@a ring@|@chalo@
+@a rope@|@rez@
+@a saw@|@harragh, kaltrí@
+@a scaffold@|@phehí@
+@a season@|@bar@
+@a severe illness@|@hauf@
+@a share@|@bahar@
+@a sheep@|@phas@
+@a short grass@|@píthar@
+@a shrub@|@gíshtar@
+@a slave@|@ghulám, thíh@
+@a small bird@|@thusí@
+@a small earthen pot@|@kulo@
+@a small hill torrent@|@chur@
+@a small plant@|@mesk, mizhguzh@
+@a small species of Dianthus@|@shurdo@
+@a small tree@|@bodh, shágh@
+@a small water skin@|@khalí@
+@a small watercourse@|@taghár@
+@a snake@|@be-phádh@
+@a snipe@|@dazhak@
+@a snore@|@goghrá@
+@a spark@|@chiring@
+@a spring@|@chamb, chushma, chushma, tobá@
+@a spy@|@chughal@
+@a stable@|@kur@
+@a step-son@|@pazádagh@
+@a stick@|@lawar@
+@a stranger@|@zahír@
+@a stream@|@jo@
+@a street@|@galí@
+@a term of abuse@|@dahús@
+@a thorny plant@|@karkávagh@
+@a torrent@|@lang@
+@a toy-kite@|@gudí@
+@a trader@|@bakkal@
+@a tree@|@phárphugh@
+@a tribe@|@bolak@
+@a tripod for cooking@|@khúdagh@
+@a turban@|@shaddo@
+@a usurer@|@júfákhor@
+@a valley@|@thal@
+@a visit@|@gálí@
+@a wart@|@kil@
+@a wasp@|@gwamz@
+@a waterfall@|@hízhokh@
+@a week@|@haptagh@
+@a winnowing-sieve@|@dándálí@
+@a woman@|@záifa@
+@a woman's chadar@|@sarí@
+@a woman's garment@|@phashk@
+@a wooden mortar@|@jogin@
+@a wound@|@zákhm@
+@a yard@|@gaz@
+@a young camel@|@tarhán@
+@a young female camel@|@phuráf@
+@ability@|@sag@
+@able@|@kábil@
+@above@|@kharghá, sará@
+@account@|@savav@
+@acquaintance@|@sohav@
+@Adam's apple@|@gand@
+@advantage@|@síth@
+@advice@|@tubí@
+@afterwards@|@phadhá, rantira@
+@again@|@aghdi, aghdí, gudá, thí-bare@
+@age@|@thíl, umar@
+@agent@|@vakíl@
+@agreeable@|@awarzá@
+@agreement@|@kabúl@
+@alas!@|@áh@
+@alcoholic drink@|@sharab@
+@alight@|@er-khafagh@
+@all@|@druh, theghí@
+@all's well@|@ma-hairá@
+@alone@|@ewakhá@
+@although@|@agharchi@
+@altogether@|@kullá-phajyá, mundo@
+@alum@|@phitkí@
+@always@|@har-ro, har-velá@
+@ambush@|@tham@
+@ammunition pouch@|@hambácha@
+@among themselves@|@Pha-wathán@
+@an adze@|@thash@
+@an alligator@|@gwando@
+@an ammunition pouch@|@anmácha@
+@an angel@|@phirishtagh@
+@an army@|@Urd@
+@an aromatic plant@|@kolmír@
+@an assembly@|@kachehrí@
+@an aunt@|@trí@
+@an awl@|@sihárí@
+@an axe@|@thafar@
+@an ear of corn@|@hoshagh@
+@an earring@|@karrí@
+@an earring worn in the lobe@|@durr@
+@an earthen pot@|@dedh, khulo@
+@an earthenpot@|@dillo@
+@an eight-anna piece@|@habásí@
+@an embankment@|@band@
+@an escort@|@badragá@
+@an infirm person@|@harragh@
+@an omen@|@fál@
+@an ornament@|@has@
+@an ox@|@kháríghar@
+@an udder@|@máhigh@
+@angel@|@firishtagh, maláikh@
+@anger@|@gasúr, zahr, zahr@
+@animal@|@zanáwar@
+@ankle@|@phádh-muchh@
+@another@|@phithí, thí@
+@another day@|@Thí-roshe@
+@answer@|@jawáb, phaso@
+@answer to the salutation@|@biyá durr'shákhtaghei@
+@ant@|@mor@
+@anus@|@khín@
+@anvil@|@sindán@
+@any@|@hachí, hech@
+@any bright colour@|@sabz@
+@any one@|@kas@
+@anything@|@hechí@
+@anything eaten as a relish@|@návarish@
+@anything reduced to powder@|@phakkí@
+@anywhere@|@hech-handá, hizhgar@
+@apart@|@hur@
+@applause@|@shabash@
+@apple@|@srop, srup, súf@
+@approximately@|@takriban@
+@arbitrator@|@nyámjí@
+@argument@|@shiddat@
+@armour@|@jebho, zirih@
+@arms@|@silhe, sylah@
+@arms and accoutrements@|@silhe-gal@
+@arms and armour@|@jángoh@
+@army@|@lashkar@
+@arrow@|@thír@
+@arsenic@|@hartál@
+@as long as@|@tanki@
+@as much as that@|@hawánkar@
+@ash@|@pur@
+@ashes@|@kiy, phur@
+@ass@|@khar@
+@assembled@|@much@
+@assembly@|@mero, muchí@
+@assistance@|@saren-bandí@
+@at once@|@ya-bará@
+@at the bottom@|@buná@
+@attend@|@gosh-deagh@
+@autumn@|@subí, suhel@
+@avarice@|@hirs@
+@avaricious@|@shúm@
+@awake@|@hághá, ojágho@
+@back@|@dím, pusht@
+@backbone@|@shánagh@
+@backwards@|@pushtokani@
+@bad@|@bad, gandagh@
+@bad language@|@zá@
+@bag@|@pilak@
+@bag for drugs@|@lathná@
+@baggage@|@bunagh@
+@ball@|@khenú@
+@Baloch banjo@|@dambíro@
+@Baloch bread@|@kák@
+@Baloch dance@|@drís@
+@Baloch hut@|@kirrí@
+@Baloch sandals@|@sawás@
+@Baloch shoes@|@kaush@
+@band of women@|@jan-gal@
+@bank of river@|@rahnagh@
+@bard@|@davtar@
+@bare@|@phásh@
+@barefoot@|@phásh-phádh@
+@bareheaded@|@sar-dar@
+@bargain@|@saudá@
+@bark of a tree@|@gwáz@
+@barley@|@jau@
+@barren@|@sand@
+@barren land@|@sikh@
+@barren plain@|@dasht@
+@bashful@|@lahm@
+@basket@|@kárí@
+@basket of matting@|@sund@
+@bastard@|@harmzáda@
+@bat@|@chalgudhagh, chamra, shapchar@
+@battle@|@tawán@
+@bazaar@|@bázár@
+@be applied@|@mán-ágh@
+@be crushed beneath@|@sher-tharagh@
+@be of use@|@kárá-ágh@
+@be patient@|@mahlá-dár@
+@be separated@|@khard-bíagh@
+@be silent!@|@dafá-dár!@
+@bead@|@madrik@
+@beak@|@sunti@
+@beak of a bird@|@nok@
+@beam@|@warú@
+@beard@|@rísh@
+@beard between lip and chin@|@tamiz@
+@beasts of burden@|@olak@
+@beautiful@|@himár, sakal, sakal, shar rang, sharr, sohná@
+@bed@|@that@
+@bedclothes@|@nakhinbokh@
+@bedding@|@nishtejaní@
+@bee@|@Benagh-mahisk@
+@beestings@|@búlí@
+@before@|@pesh, phesh, saria@
+@beggar@|@pindokh@
+@beginning@|@shru, shurú@
+@behind@|@dímá, phadímá, pushta, pushta, randa@
+@behold!@|@marvehí@
+@belch@|@gíkár@
+@bell of a tambourine@|@ták@
+@bellyache@|@láf-dor@
+@bellyful@|@láf-ser@
+@below@|@er, jahlá@
+@belt@|@láf-band@
+@bent@|@chot@
+@berry@|@pashí@
+@bet@|@shart@
+@betrothal@|@sáng@
+@Bhán tree@|@pukht@
+@biceps@|@dídar@
+@bile@|@zardoí@
+@bird@|@murgh@
+@bird's crop@|@singot@
+@birth@|@pedaisht, wadhí@
+@bitch@|@hind@
+@bitter@|@tahl, zahr, zahr@
+@black@|@syáh@
+@black breast@|@syáh-gwar@
+@black tea@|@siah cha@
+@blackguard@|@karmsákh@
+@bladder@|@shír-dán@
+@blanket@|@galím, shál, shál@
+@bleat as a goat@|@bokagh@
+@blessing@|@nekh-du'á@
+@blight@|@rezam@
+@blind@|@khor@
+@blood@|@hon, lanj@
+@bloodthirsty@|@hon-lawásh@
+@blow-fly@|@ásk-mahisk@
+@blue@|@nílagh@
+@blunt@|@kunt, kut@
+@boat@|@beyí, bozhí@
+@boatman@|@medh@
+@body@|@ján@
+@body armour@|@ján-jebho@
+@boil@|@gar@
+@boiled rice@|@dalagh@
+@bone@|@had@
+@bones@|@dod@
+@boring@|@sumb@
+@born idiot@|@asulá-gannokh@
+@both@|@har-do@
+@Both--and@|@dí, dí--dí@
+@bottle@|@dong, shisha@
+@bottom@|@bun@
+@boundary@|@sím@
+@bow@|@kawán@
+@bowl@|@tas@
+@bowstring@|@jígh@
+@box@|@pethi, peti@
+@box for holding collyrium@|@áfkin@
+@boy@|@choro@
+@bracelet@|@búthagh@
+@brackish@|@sor, tauzh@
+@brackish water@|@soren-áf@
+@brain@|@mazhg@
+@branch@|@lamb, shákh, shákh, shamb@
+@branch of a valley@|@lop@
+@branch of tree@|@shah@
+@branch water-course@|@gand@
+@brass@|@pital@
+@brave@|@säriyal@
+@bread@|@naghan@
+@bread steeped in milk@|@trít@
+@break off@|@sindag, sist@
+@breakfast@|@sahur, sawárak@
+@breakfast-time@|@goil@
+@breast@|@senagh@
+@breath@|@gín@
+@breathing space@|@sáhí@
+@breechloader@|@khíná-phur-biokh@
+@bribe@|@rishwat, roshfat@
+@brick@|@sil@
+@brick-maker@|@silband@
+@bride@|@vanní@
+@bridegroom@|@got, sálokh@
+@bridge@|@pol@
+@bridge of the nose@|@ponze lit@
+@bridle@|@daz-wág, guthí, saram sad@
+@bright@|@shiwar@
+@bring forth dead offspring@|@gezhagh, gikhta@
+@bringer@|@Árokh@
+@broken edge@|@tahlishk@
+@brothel@|@randikhana@
+@brother@|@Addá, barádhar, biráth, biráth@
+@brotherhood@|@barádharí@
+@brother-in-law@|@wasarzákht@
+@brother's wife@|@nishár@
+@bud@|@búr@
+@buffalo@|@gwámesh, mehí@
+@buffalo-calf@|@gwach@
+@buh@|@gugh@
+@bullet-pouch@|@thír-dán@
+@burden@|@bár@
+@bush@|@khontar, lílhá@
+@business@|@kár, sawdagiri, tartib@
+@butter@|@moshin, nemagh@
+@butterfly@|@lakaurí@
+@buttermilk@|@ákhar@
+@by means of@|@márifatá@
+@by mistake@|@radia@
+@cacare@|@ríagh@
+@cairn erected to commemorate@|@chedhagh@
+@calf of leg@|@phiní@
+@camel@|@hushtur@
+@camel driver@|@gwánech@
+@camel pack-saddle@|@palán@
+@camel-driver@|@jat, ráchí@
+@camel's pack-saddle@|@hait@
+@camel's riding-saddle@|@pákrá@
+@camel-saddle@|@jait@
+@canal@|@nahar@
+@cannibal@|@mar-lawásh@
+@cannon@|@tof@
+@canopy@|@tarbal@
+@cap@|@kulla@
+@car@|@gosh@
+@caravan@|@galla@
+@care@|@nigáh@
+@carefulness@|@nigáhbání@
+@carpenter@|@drakán@
+@carpet@|@falásí, jhul, taghar@
+@caste@|@zát@
+@cat@|@billí, pishi@
+@catarrh@|@pashank@
+@cattle@|@mál@
+@cattle-owner@|@máldár@
+@cauliflower@|@pul gobi@
+@cause to learn@|@sykhkhaÿG@
+@celebrated@|@akila, mashar@
+@cellar@|@bohra@
+@certain@|@yakín@
+@chaff@|@phogh@
+@chain@|@zanjír@
+@champion@|@dáwágar@
+@charcoal@|@hangar@
+@charge@|@párat, phárat@
+@charm containing Koran verse@|@tahit@
+@cheap@|@Arzán@
+@cheek@|@gal, githá@
+@cheek-bone@|@rák, rák@
+@cheese@|@phaner@
+@chest of body@|@senag@
+@chestnut@|@bor@
+@chewing the cud@|@ogál, romast@
+@chicken@|@chúrí@
+@chief@|@amír, hán, jám, khán, särdar@
+@chieftain@|@sardar@
+@child@|@chukh@
+@children@|@chukhchorí@
+@chin@|@khádí@
+@cholera@|@haiza, wabáh@
+@cigarette@|@sigrit@
+@circumcision@|@sunnat@
+@circumstances@|@hál@
+@clapping of hands@|@tárí@
+@clarified butter@|@roghan@
+@clashing@|@karáku@
+@claw@|@chambo@
+@clean@|@Achá, achho, pák@
+@climate@|@gwáth-má@
+@cloth@|@gudh, shíkhan@
+@clothes@|@puch@
+@clothing@|@ves@
+@clouds@|@jhur@
+@coarse@|@baz, istúr@
+@coarse flood grass@|@kajal@
+@coarse grass@|@barákh@
+@coarse long grass@|@gasht@
+@coarse molasses@|@gúy@
+@coarse sugar@|@mustí@
+@cobra@|@syahmár@
+@cockroach@|@suhr barot@
+@coin@|@sykka@
+@coire@|@gágh, gátha@
+@cold@|@guhar, gwahar, gwahar, sardi, sárth@
+@cold in the head@|@sar-rekh@
+@cold weather@|@chhilav, särdi@
+@collection@|@jumla@
+@collection of clouds@|@raghám@
+@collection of corn@|@hambár@
+@collide@|@takar janag, takar warag@
+@collyrium for the eyes@|@sírmugh@
+@colour of European skin@|@suhr@
+@coloured@|@rang@
+@coloured cloth@|@zát@
+@comb@|@shak@
+@come out@|@dar-ágh@
+@come to hand@|@dast-ágh@
+@comfort@|@swkhkh@
+@coming after@|@phadhí@
+@command@|@pharmán@
+@common@|@gunáh@
+@companions@|@sangad, sangatí@
+@company@|@thála@
+@compassion@|@rahm@
+@complaint@|@dáhn@
+@complete@|@phílá, sajj@
+@conceal@|@likainagh@
+@congratulations@|@mavárkí@
+@constellation Orion@|@tírband@
+@content@|@tasalli@
+@conversation@|@gálwar, hálwar@
+@cooked@|@dolo@
+@cool@|@sard@
+@copper@|@trámá@
+@copper coin@|@digh@
+@cormorant@|@kánwní@
+@corn@|@dán, jowar, zurth@
+@corpse@|@mahar@
+@correct@|@táhath@
+@cotton@|@karpás@
+@counsel@|@trán@
+@courageous@|@särzor@
+@cousin@|@nákhozákht@
+@cover@|@dhakan@
+@covering@|@sarposh@
+@cow@|@gokh@
+@coward@|@thursokh@
+@crab@|@tagas@
+@crane@|@dhíng@
+@crooked@|@chap-chot@
+@crookedness@|@lár@
+@crops@|@khishár@
+@crow@|@gurágh@
+@crowbar@|@chinjú@
+@crowded@|@rash@
+@cucumber@|@tarok, taruk@
+@cultivator@|@ráhak, ráhak@
+@cup@|@pyala, tás@
+@curds@|@mastagh@
+@cure@|@iláj@
+@curse@|@bad-duá, kahar, margáví, palútá@
+@curtain@|@pachul@
+@cushion@|@gádí@
+@custom@|@dastúr, rasm, rít, sístán@
+@cycle@|@saykal@
+@dagger@|@kátar@
+@dál@|@másh@
+@damage@|@berání, thánwán@
+@danger@|@hatar@
+@dark@|@tahar, thár@
+@dark night@|@tarma, tarmag@
+@darkness@|@tahari@
+@date palm@|@pish@
+@dates@|@háragh@
+@daughter@|@mind@
+@dawn@|@asur@
+@day after tomorrow@|@Thí-bángá@
+@deaf@|@khar@
+@dealings@|@dáthgipt@
+@dearth@|@girání@
+@death@|@kuttí, math, ráhdí, ráhdí@
+@debt@|@wám@
+@debtor@|@wámdár@
+@deceit@|@droghvand@
+@decision@|@paysala@
+@deckhand@|@siring@
+@decompose@|@säRäG@
+@deep@|@dúngá, juhul@
+@den@|@hod@
+@dependence@|@tawakkul@
+@depression on summit of hill@|@talag@
+@deputation@|@marká@
+@deputation to ask pardon@|@sath@
+@descendant of same ancestor@|@dádepotre@
+@desert@|@dán@
+@desire@|@niyat@
+@destitute@|@nestkár@
+@destroyed@|@gár@
+@dew@|@trer@
+@difference@|@fark@
+@dignity@|@nang@
+@direction@|@nighor, pahnád, phalo@
+@dirt@|@balgo, hes, kházg@
+@dirty@|@kházgo@
+@discussion@|@habar@
+@dish@|@whán@
+@distinction@|@nashk@
+@ditch@|@káhí@
+@dive@|@tobí@
+@divided by@|@taksim@
+@divorce@|@son@
+@dog@|@Bíng, bíng, kshik@
+@dog's pups@|@gullar@
+@dokhtha@|@doshagh@
+@domestic animals@|@jánwar, sáhdár@
+@donkey's pack-saddle@|@binni@
+@Don't touch me there!@|@Mana daz majan!@
+@door@|@galo@
+@double@|@dorá@
+@double tooth@|@hásh@
+@doubt@|@shakk@
+@doubtless@|@be-shak@
+@dove@|@gírá, sháthlo, sháthlo@
+@draughts@|@shatranj@
+@drawing@|@hakal@
+@dress@|@jar@
+@dried curds@|@shilanch@
+@dripping well@|@trimu-áf@
+@drum@|@dhul@
+@dry@|@hushk@
+@dumb@|@gúng@
+@dung of cattle@|@saghan@
+@dung-beetle@|@gokhránd@
+@dust@|@danz, dáto, dhúr@
+@eagle@|@duggav@
+@early in the morning@|@máhlo, phagen@
+@earring@|@chulumb@
+@earth@|@gil, hákh@
+@east@|@jáhil, obhar, rochdratk, rodaratk@
+@eastern@|@páiná@
+@easy@|@ásán@
+@eclipse of the moon@|@máh-ghumá@
+@edge of knife@|@rah@
+@effort@|@aghmá@
+@egg@|@ánú@
+@eight@|@hasht, hesht@
+@eight o'clock in the evening@|@ashá@
+@eighteen@|@hazhdah@
+@eighth@|@hashtumí@
+@eighty@|@chyár-gíst@
+@either@|@either@
+@elbow@|@sarosh@
+@elephant@|@pil@
+@eleven@|@yázhdah@
+@eleventh@|@yázhdumí@
+@elsewhere@|@thí-handá@
+@embankment round a field@|@banú@
+@embassy@|@safarat@
+@embrace@|@ambází@
+@embracing@|@gwar-ambází@
+@encamp@|@Adagh@
+@enclosure@|@bhándá@
+@endeavour@|@aghma@
+@endure@|@sehnagh@
+@enemy@|@badh, duzhman@
+@English rupee@|@chaprúí@
+@enmity@|@badí, bairí, duzhmaní@
+@enough@|@gwas@
+@enquire@|@phol-khanagh@
+@entertainer@|@bohtár@
+@entertainment@|@mihmání@
+@entire horse@|@gundí@
+@entrails@|@rot@
+@entreaties@|@minnat@
+@envy@|@akas@
+@equal@|@baráwar, mat@
+@equal in age@|@amsaro@
+@erect@|@zhing@
+@erroneously@|@radi@
+@error@|@rad@
+@eunuch@|@khojá@
+@even@|@jukht@
+@evening@|@begáh@
+@everlastingly@|@jamárá@
+@every@|@har@
+@every one@|@har-kas@
+@every thing that@|@har-ki@
+@every year@|@har-sál@
+@everywhere@|@har-handá@
+@evidence@|@sháhidí@
+@evil@|@duzh, duzhda@
+@examination@|@Ázmútá@
+@excellent@|@durr@
+@excellently@|@warbaríyá@
+@except@|@baghair@
+@excess@|@saki@
+@expel@|@dar-khanagh@
+@expenses@|@kharch@
+@exposed rock-stratum@|@tahláng@
+@extensive@|@giyáf@
+@extremely@|@Ákhirá@
+@eyeball@|@dídokh, thelagh, thílagh@
+@eyelash@|@phimblí@
+@eyelashes@|@mishásh@
+@eyelid@|@chham phusht@
+@face@|@dem, nuth@
+@fair@|@shakhal@
+@faithless@|@be-ímán@
+@fall in drops@|@pitag, pitit@
+@false@|@drogh, droh, drohá@
+@false statement@|@ghalat@
+@falsehood@|@droh@
+@family@|@khándán@
+@famine@|@dukál@
+@faqír's begging dish@|@kashkol@
+@far-seeing@|@dír-zánagh@
+@fasting during Ramadan@|@rochag@
+@fat@|@charp, lándav, pig@
+@father@|@abba, Abbá, phith@
+@Father@|@pis, Pit@
+@father and grandfather@|@pit o piruk@
+@father-in-law@|@wasarik@
+@feather@|@phar@
+@felspar@|@goskarí@
+@felt@|@nawad@
+@female@|@gad, kohí, mádhagh@
+@female ravine deer@|@thíthal@
+@female slave@|@molid@
+@ferns@|@zaikhá@
+@fever@|@khosá, tap@
+@few@|@kam@
+@fifteen@|@phánzdah@
+@fifty@|@phanjáh@
+@file@|@sauhán@
+@filly@|@bihán@
+@fine@|@báragh, thanakh@
+@finger@|@murdán@
+@finished@|@pura@
+@fire@|@ás@
+@firefly@|@shabchirágh, tindiní@
+@fire-place@|@ás-hand@
+@first@|@pheshí@
+@fish@|@máhí@
+@fish eagle@|@shahin@
+@fishing net with small skein@|@rog@
+@fist@|@musht@
+@five@|@penj, phanch@
+@flag@|@jhandá@
+@flail@|@lath@
+@flame@|@aro@
+@flank@|@pahnál@
+@flat ground@|@pat@
+@flat open plain@|@prahag@
+@flea@|@kálrá@
+@flight@|@bál@
+@flint@|@ás-khoh@
+@flint and steel@|@Azhgizh@
+@flock of kids@|@zah-gal@
+@flock of lambs@|@gwarpahar@
+@flock of sheep@|@megar, mehar@
+@flood@|@por@
+@flower@|@gul, pul@
+@fly@|@mahisk@
+@flying bedstead@|@udar-katorni@
+@folded@|@tala@
+@following@|@rand@
+@food@|@ward, whard@
+@foor-footed@|@chyár phádh@
+@foot@|@phádh@
+@for ever@|@dáima, yamárá, zhamárá@
+@forbidden@|@manná@
+@forcep@|@ambur@
+@forceps@|@ambur@
+@forefathers@|@phith-phírú@
+@forefinger@|@sháh-murdán@
+@forehead@|@aníshagh, anúsha, peshani@
+@foremost@|@muharí@
+@foremost part@|@drosham@
+@forgetting@|@gisar@
+@forgiveness@|@sabab@
+@form@|@báládh@
+@former@|@olí, sari@
+@formerly@|@olá, pesara, pheshá@
+@fortunate@|@bakhtwálá@
+@fortune@|@bakht@
+@forty@|@chhil, chil, do-gíst@
+@forwards@|@agdari@
+@foul@|@whár@
+@foundation@|@bunyád@
+@fountain@|@chamagh@
+@four@|@car, chyár@
+@four-conered@|@chyár gíst@
+@fourfold@|@yake-chyár@
+@fourteen@|@chyárdah@
+@fourth@|@chyáramí@
+@fox@|@roba@
+@free@|@aja, Azád, hulás@
+@fresh@|@taz@
+@fresh feeling in the air@|@nambí@
+@fresh milk@|@zagharen shír@
+@Friday@|@jumá@
+@friend@|@dost@
+@friendly@|@mihrván@
+@friendship@|@duzwáhí@
+@fringe over horse's eyes@|@makherná@
+@frog@|@fugal, pugal, tushna@
+@from@|@ash, Azh@
+@from above@|@sará-era@
+@from below@|@báládhiyá@
+@from that@|@'shán@
+@from that direction@|@'shán-phalawá@
+@from the first@|@asulá@
+@from the underside@|@sher-phalavá@
+@from under@|@sher@
+@frontier@|@sar had@
+@frost@|@pálo@
+@fruit@|@bar, bar, meva@
+@fruit of the dwarf palm@|@konar@
+@fruit of the khaler@|@delhú@
+@fulfil@|@pura kanag@
+@full@|@phur@
+@gall@|@resh@
+@gallopping@|@tháshí@
+@gambling@|@shart@
+@game@|@rastar@
+@game resembling gobang@|@nautiren@
+@garlic@|@sirk, thom@
+@generally@|@aksará@
+@getting@|@labh@
+@ghee@|@rogin@
+@girth of a horse@|@tang@
+@give a lift to@|@sar kanag@
+@give and take@|@vánij-vápará@
+@give the news!@|@hálá dai!@
+@go in front@|@sará-bai@
+@go off with@|@udanagh@
+@goat@|@buz@
+@goatherd@|@shafánkh@
+@goat's hair@|@mídh@
+@God@|@rabb, rabb@
+@going down@|@er-shaf@
+@gold@|@arshafi, thango@
+@goldsmith@|@sonáro@
+@good@|@gehá, jawáin, nekh, share@
+@good manners@|@Adab, shahúr@
+@goodbye@|@Khudaa haafiz@
+@goodman@|@logh-wázhá@
+@goodness@|@shari@
+@goods and chattels@|@madí@
+@government@|@särkar@
+@graft@|@pewand@
+@grandfather@|@phíruk@
+@grandmother@|@dádí@
+@grandson@|@nawásagh@
+@grass@|@rem@
+@grease@|@charpí, phígh@
+@great uncle@|@piruk@
+@greater@|@mastar@
+@green@|@savz, shunz@
+@green corn@|@híth, khasíl@
+@green tea@|@sabz cha@
+@greeting@|@sälam@
+@greetings@|@salam alekum@
+@grey@|@phroh@
+@griddle@|@tapag@
+@grief@|@amsodh@
+@ground at the foot of a hill@|@gwásh@
+@grudge@|@kínag@
+@guard@|@pahrá@
+@guest@|@mihmán, syál@
+@guitar@|@chang, shághá@
+@gums@|@Aríkh, maráí@
+@gun@|@túfak@
+@hail@|@throngal@
+@hair@|@out, phut@
+@half@|@nem@
+@halfway@|@nem-ráh@
+@hammer which holds the match@|@máshagh@
+@hand@|@dast@
+@handle@|@dastagh@
+@hanging@|@pháho@
+@happiness@|@khushí@
+@happy@|@khush@
+@happy with@|@razi@
+@hard@|@sak@
+@hare@|@khargoshk@
+@harness@|@sanj, sanj-khanagh@
+@harsh@|@shaghar@
+@harvest@|@fasl@
+@hat@|@topú@
+@have a fever@|@tap girag@
+@he will be fine@|@báyth@
+@head@|@saghar, sar@
+@head of a band of robbers@|@ráhzan, ráhzan@
+@head of a gang@|@säroGan@
+@headache@|@sar dard@
+@health@|@duráh, duráhí, sihat@
+@heart@|@dil, hádhir, zirde@
+@heat@|@fever, tháf@
+@heaven@|@bihisht@
+@heavy@|@girán, pazzor@
+@heel@|@phídh, punz@
+@heir@|@wáris@
+@hello@|@Salaam alekum@
+@helpless@|@be-was, ná-kámá@
+@hemp@|@saní@
+@hence@|@shedh, shedhá@
+@henceforward@|@shedh-phadhá@
+@herd@|@ramag@
+@herd of camels@|@bag@
+@herd of cattle@|@goram@
+@herd of donkeys@|@báhir@
+@heron@|@siahen barag@
+@hesitation@|@guwán@
+@hiccough@|@hidkí@
+@highway@|@säRäk@
+@hill@|@pikat@
+@hill-torrent@|@lahar@
+@hilly area@|@shushalag@
+@hip@|@kuhne@
+@hissing@|@sínd@
+@history@|@tarik@
+@hog-deer@|@párá@
+@hole@|@tong@
+@hole dug for roasting@|@pátár@
+@home@|@logh@
+@honest@|@sád@
+@honey@|@benagh@
+@honour@|@Áb, ímán@
+@honourable@|@shán@
+@hoof@|@khurí, surum@
+@hope@|@híl@
+@hopeful@|@hílwand@
+@horn@|@náz, sháh@
+@horse@|@asp, naryán@
+@horse shoe@|@nál@
+@horse that has won a race@|@go-bar@
+@horse-dung@|@lid@
+@horse-fly@|@Bíng-mahisk, choto@
+@horse-racing@|@Galagh-thashí@
+@horse's bit@|@laghám@
+@horse's forehead@|@ríband@
+@horse's hough@|@huch@
+@horse's mane@|@bukchí, bushk@
+@horse's nose-bag@|@thíragh@
+@hostage@|@bándí@
+@hot to taste@|@sochak@
+@hot weather@|@unhálá@
+@hot wind@|@loh, lúr@
+@houbara@|@charaz@
+@hour@|@ghayí@
+@house with an upper storey@|@márí@
+@house-fly@|@gíáh-mahisk, gídh-mahisk@
+@how?@|@chachho, thán-rangá@
+@however@|@mayáí@
+@human being@|@mardum@
+@hundred@|@sad, sadh@
+@hundred thousand@|@lak@
+@hungry@|@shudhí, shudig@
+@hunter@|@shikárí@
+@hunting@|@shikar@
+@husband's younger brother@|@der@
+@husked rice@|@birinj@
+@I@|@mah, man@
+@I can do@|@khutha khanán@
+@idiot@|@gannokh@
+@idle@|@álsí, arsi, Ársí@
+@if@|@aghar@
+@ill@|@ná-duráh@
+@ill-natured@|@bad-khú@
+@imitation@|@nakl@
+@immediately@|@gwághá, mákhta@
+@impossible@|@Bíokh-nen@
+@in a direction@|@phalwá@
+@in a whisper@|@gurburá@
+@in exchange@|@kíwá@
+@in front@|@boharí, demá, masará, wasaríyá@
+@in front of@|@aga, pesar@
+@in that direction@|@ángo@
+@in that way@|@ukaiyá@
+@in the direction of@|@neghá, nemghá@
+@in the early morning@|@bángohiná@
+@in the evening@|@Begahá@
+@in the heat of the sun@|@patáfá@
+@in the middle@|@nyámá, nyámagh, nyánwán@
+@in the whole world@|@dehá jiháná@
+@in this direction@|@ingo@
+@in this very place@|@hamedhá@
+@in trouble@|@dorokh@
+@in welfare@|@mahairá@
+@incident@|@särgost, särgoz@
+@income@|@ámdan@
+@increase@|@wad@
+@Indian rue@|@gandákho@
+@infant@|@balrú@
+@inhabited@|@wasam@
+@injury@|@dhak, zawál, zawál, ziyání@
+@ink@|@mas, syáhí@
+@innocent@|@be-gunáh@
+@innumerable@|@angane, be-shumár@
+@inoffensive@|@gharíb@
+@inside@|@andará, taha, táha@
+@instead@|@handá@
+@instep@|@phádh-phusht@
+@intention@|@nahmat@
+@interest@|@shok, súd, sut@
+@interpreter@|@tarjuman@
+@into@|@avr, mán@
+@introduce@|@ta aruf kanag@
+@iron@|@ásin@
+@iron peg@|@shafak@
+@irrigation@|@ávdárí@
+@is coming@|@mana-ághen, phedh ághen, phedhághen@
+@is necessary@|@gazaren@
+@is not@|@nesten@
+@Islamic law@|@shariat@
+@issue@|@dar-khafagh@
+@item@|@ta@
+@jackal@|@tholagh@
+@jaw@|@shagor@
+@jawbone@|@harb@
+@jaws@|@zanákh@
+@jest@|@chawá@
+@jester@|@chawágar@
+@jewels@|@sahth@
+@jhand tree@|@kahír, sol@
+@joint@|@muchh@
+@joint in wood@|@bogh@
+@joke@|@chhatar@
+@juggler@|@bázígar@
+@juice@|@ras@
+@jungle@|@adanav, ladh@
+@just@|@munsif, tanaya, tania@
+@justice@|@aldo-shara, insáf, nirwár@
+@káfila@|@sáth@
+@kaurí@|@kashk@
+@kauyí@|@gur@
+@kernel@|@gadikh@
+@key@|@kunjí@
+@kick@|@ladhagh, laghadh@
+@kid@|@shanikh, zah@
+@kind of coarse grass@|@gorkhá@
+@kind of creeper@|@már-val@
+@kind of grass@|@gomádh, gomádh, lambi, manihár, nar-gomádh@
+@kind of melon@|@getra@
+@kind of tamarisk@|@gith-gaz@
+@kind of wild turnips@|@khokhar@
+@king@|@bádsháh@
+@kite@|@patang@
+@kneading-trough@|@sarakh@
+@knee-pan@|@dhakaní@
+@knot@|@granch@
+@knowingly@|@zánagh, zántho@
+@known@|@málím, sahra@
+@lade beasts of burden@|@ladagh, ladatha@
+@lady@|@godí@
+@lake@|@talab@
+@lamb@|@ghatúr, gwarakh@
+@lame@|@lang@
+@lamp@|@dío@
+@lana@|@lánav@
+@land@|@deh, dighár@
+@landlord@|@dighár-wázhá@
+@large ant@|@salor@
+@large boat@|@rachin@
+@large lizard@|@goh, vágú@
+@large needle@|@gondosh@
+@large pot@|@deghrá@
+@large saddle bags@|@hartel@
+@large stones@|@khalgar@
+@last night@|@doshí@
+@last year@|@phárí@
+@late@|@aver@
+@lay hold of@|@gipta, gír, giragh@
+@laziness@|@swsti@
+@lazy@|@sust, swst@
+@lead@|@síhá, surf@
+@leader@|@mevo@
+@leaf@|@thákh@
+@lean@|@lághar@
+@learning@|@talim@
+@leather bag for flour@|@Aphán@
+@leather churn@|@hínz@
+@leather strap@|@vadrí@
+@leather worker@|@mochí@
+@leave@|@mokal@
+@leech@|@zarágh@
+@leeward@|@sher-gwáth@
+@left@|@chap@
+@left hand@|@chap-dust@
+@legging@|@mozhagh@
+@leisure@|@phár, wándá@
+@lemon@|@límú, nímon@
+@lemon-grass@|@nadhakh@
+@leopard@|@díhav@
+@less@|@kham@
+@lesson@|@sabak@
+@let go!@|@Bil-dai!@
+@letter@|@harf, kághadh@
+@liar@|@drogh-bandokh@
+@lice@|@rashk@
+@lid@|@dafsar@
+@light@|@sawakk, sobak@
+@lightning@|@girokh, napt@
+@limb@|@bázú@
+@line@|@rid, sätär@
+@link of a chain@|@karrá@
+@lip@|@rakh@
+@lisping@|@lalla@
+@little finger@|@chúch@
+@livelihood@|@takra@
+@liver@|@jaghar@
+@living@|@zindagh@
+@lizard@|@bághár@
+@lock@|@kulaf@
+@locust@|@madhakh@
+@loins@|@saren@
+@long@|@drázh@
+@long coat@|@kurtá, pahráwan@
+@long curls worn by Balochis@|@gulálakh@
+@long-haired goat@|@shanik@
+@loud voice@|@zor-gríhá@
+@lover@|@ambal@
+@low@|@jahl@
+@low furze-like shrub@|@shezirk@
+@lucerne grass@|@uspust@
+@luggage@|@saman@
+@lungí@|@mandíl@
+@lungs@|@phiphar@
+@mad@|@tirtha@
+@madman@|@charí@
+@magic@|@sihr@
+@magician@|@sihr-khanokh@
+@maimed@|@tund@
+@maintenance@|@guzrán@
+@maize@|@gadobar@
+@make@|@shar kanag@
+@make a mistake@|@rad kanag@
+@make away with@|@gár-khanagh@
+@make ready@|@tayyari kanag@
+@makeshift@|@guzar@
+@making signs@|@mech@
+@male@|@nar@
+@male calves@|@báhrav@
+@male camel@|@leyo@
+@male donkey@|@lágh@
+@male of any beast of chase@|@washkí@
+@male urial@|@goránd@
+@mallet@|@mekhmár@
+@man@|@mar, mar, mard, sar@
+@mange@|@kaigho@
+@mango@|@amb@
+@mankind@|@ahsán@
+@many@|@geshtar, uchal@
+@many-coloured@|@zád@
+@march@|@mizil@
+@mare@|@mádhin@
+@marriage@|@sang, sír@
+@marriageable@|@sír-wájh@
+@masonry watercourse@|@Ad@
+@masonry water-course@|@Ad@
+@master@|@logh-wázhá, sáín, wázhá, wázhá, whántkár@
+@master of a subject@|@wastád@
+@mat of palm fronds@|@tagird@
+@match@|@phalíthagh, tál@
+@mate@|@sangat@
+@maternal aunt@|@másí@
+@maternal grandfather@|@náná@
+@maternal grandmother@|@nání@
+@maternal uncle@|@mámá@
+@matter@|@rem@
+@matting@|@chitar@
+@matting made of the leaves@|@thaghard@
+@mattock@|@kharphaz, kodál@
+@mattrass@|@bauf@
+@may you be well@|@shar bate@
+@me@|@manán@
+@mean@|@kamína@
+@meaning@|@matbal@
+@meat@|@gozhd@
+@medal@|@billá@
+@medicine@|@darmán@
+@meeting@|@mel@
+@melting@|@hal@
+@memory@|@gír@
+@mending@|@dak@
+@menstruation@|@godh@
+@menthol@|@sufari@
+@merchandise@|@sawda@
+@merchant@|@sawdagir@
+@merciful@|@momand@
+@messenger@|@káshid@
+@metal@|@hardhát@
+@metal cup for drinking@|@kodí@
+@middle@|@nyám@
+@middle-finger@|@nyámaghí murdán@
+@midnight@|@nem-shaf, shapnim@
+@might@|@zor@
+@milch@|@shír-deokh@
+@militia@|@uls@
+@milk@|@shir@
+@milker@|@shír-doshokh@
+@millstone@|@jathir@
+@mine@|@kán@
+@minor@|@ná-báligh@
+@minstrel@|@lorí@
+@mirage@|@shetan@
+@miser@|@gazír@
+@mist@|@díthlo@
+@mist after rain@|@muzh@
+@mistress@|@amul, logh-bánukh@
+@mixed@|@áwár@
+@mockery@|@shaghán@
+@modern@|@nína@
+@moist@|@thar@
+@mole@|@tal@
+@Monday@|@somar@
+@money@|@paysa, zar@
+@money changer@|@saraf@
+@monkey@|@bholú, shado@
+@moon@|@roshni@
+@moonlight night@|@máhkání shaf@
+@morning@|@sawáh, sawáh, sohb, suhv@
+@morning meal@|@subarag@
+@morning star@|@suhv-astár@
+@morning twilight@|@asur@
+@mosque@|@masít@
+@mosquito@|@pashsha, sunti makisk, sutí@
+@mother@|@máth@
+@Mother@|@maas, Maat@
+@mother-in-law@|@wasí@
+@motion@|@suräG@
+@mountain@|@koh@
+@mourning@|@ghamí@
+@mouse@|@múshk@
+@moustaches@|@baroth@
+@mouth@|@daf@
+@move@|@juzagh@
+@moving@|@jumb@
+@much@|@báz@
+@mule@|@hastal@
+@mungoose@|@nor@
+@murder@|@mar-khushí@
+@murderer@|@mar-khushokh@
+@mushroom@|@kumbígh@
+@music@|@sarodh@
+@musical wind instrument@|@saz@
+@musk@|@misk@
+@my@|@maín, maní@
+@my brother!@|@Birá maní@
+@mystery@|@israr, isrár@
+@nail@|@nákhun@
+@naked@|@khíndar@
+@namda@|@gandal, tapur@
+@name@|@nám@
+@name of a stream@|@Thegháf@
+@name of a tree@|@zámur@
+@namesake@|@am-nám, amnám@
+@nape of the neck@|@gaukh@
+@narrow@|@tanak, tankh, tankh@
+@narrow hill path@|@rúngrá@
+@near@|@gwar, khund, kund@
+@nearly@|@gwará@
+@necessary@|@pakar, zarúr@
+@neck@|@gardan@
+@necklace@|@kandí, sanghar@
+@necklace of shells worn@|@selhí@
+@needle@|@síshin, suchin@
+@needle's eye@|@dukh@
+@neighbour@|@símándar@
+@nephew@|@nákhozákht, trízákht@
+@nest@|@ákhero, kudhám@
+@net@|@jár@
+@new@|@nokh@
+@news@|@chebar@
+@next year@|@Thí-sál@
+@nice@|@shar@
+@night@|@shap@
+@night and day@|@shap o roch@
+@night attack@|@pásná@
+@nine@|@nuh, nw@
+@ninety@|@chyár gíst dah@
+@ninth@|@nuhmí@
+@nipple@|@gwar-sar@
+@No@|@Inna@
+@nomadic@|@pawal@
+@noon@|@nem-rosh, nermosh@
+@north@|@Ubbá@
+@nose@|@phonz, ponz@
+@nose-ring@|@phulúh@
+@nostril@|@gránz@
+@not@|@ná, nah, nah, nen@
+@not smooth@|@zivir@
+@now-a-days@|@nína-vakhtá@
+@nurse@|@dáí@
+@oasis with vegetation@|@sar sabz@
+@oath@|@patsákh, sákh, sákh, saughan@
+@obedient@|@tábidár@
+@object@|@murád@
+@odd@|@táh@
+@of age@|@bálagh@
+@of European manufacture@|@kaldár@
+@of every kind@|@har-rangá@
+@of mixed breed@|@karthagh@
+@of more than one colour@|@jharí@
+@of one sort@|@ya-rangá@
+@of silver@|@nughraená@
+@of that sort@|@ukaiya@
+@offence@|@doh@
+@official@|@hodadár@
+@often@|@Bázen-barán@
+@old age@|@phírí@
+@old clothes@|@kahnagh@
+@old man@|@phír@
+@on account of@|@phar, phar, savavá@
+@on the leeside@|@er-gwáthá@
+@on the upper side@|@sarbarí-pahnádhá@
+@on this account@|@hameshiya phar@
+@on this side@|@inbará@
+@on top of@|@sara@
+@on what account?@|@pharchhe@
+@once@|@ya-bare@
+@one@|@ya, yak, yak, yek@
+@one another@|@yak-áptiyá@
+@one who demands@|@pholokh@
+@one-fifth@|@phanjak@
+@one's own@|@wathí, wathí jindeghen@
+@oneself@|@but, jind, wath@
+@one-third@|@saiak@
+@onion@|@phímáz@
+@only@|@charo, sirf@
+@only one@|@yake@
+@opinion@|@chaná@
+@opium@|@áfím@
+@opportunity@|@muhlat@
+@or@|@hai@
+@or perhaps@|@arna@
+@order@|@hukm@
+@original@|@phutur@
+@orphan@|@chorí, yatím@
+@other@|@ipti@
+@outside@|@dar, dará@
+@outwards@|@darrí@
+@oven@|@tandur, tháfagh@
+@oven-baked@|@tanduri@
+@over@|@sarbira@
+@overcome@|@katagh@
+@overtake@|@gon-deagh@
+@overturned@|@ondo@
+@ox@|@kárígar, khair@
+@pace@|@gám@
+@paces@|@raftár@
+@pack-saddle@|@thán@
+@packsaddle for oxen@|@gwálagh@
+@page@|@tak@
+@pain@|@dard@
+@painter@|@rázá@
+@pair@|@jawár@
+@palm frond mat@|@patrik, tapishk@
+@palm of hand@|@tillí@
+@parched corn@|@sálagh@
+@parents@|@máth-phith@
+@parrot@|@totá@
+@parting of hair@|@sar-rand@
+@partner@|@sharík@
+@passing out parade@|@salami@
+@passionate@|@trund@
+@password@|@shape nam@
+@past indef. of the verb to be@|@ath, athan, athán, athant, atheí, atheí, athún@
+@pasture@|@jídh@
+@patch of light on ground@|@roche tik@
+@paternal@|@arif@
+@paternal aunt@|@phúphí@
+@path leading round the foot@|@gwarband@
+@patience@|@mahl@
+@pattern@|@namúna@
+@pay@|@talab, tankha@
+@peach@|@shaftalu, shastalu@
+@peak@|@talú@
+@pebbles@|@zawár@
+@pedestrian@|@piyadag@
+@peg@|@meh@
+@pencil@|@pinsil@
+@penis@|@kher@
+@people@|@dunyá@
+@pepper@|@murján, pilpil@
+@perhaps@|@khaizán, nawán@
+@person taking a bribe@|@rishwat khor@
+@pestal for ditto@|@jogindár@
+@petition@|@ardas@
+@photograph@|@taswir@
+@pigeon@|@kahne@
+@pilgrim@|@hájí@
+@pillow@|@sarjah@
+@pillow slip@|@sarja posh@
+@pipe@|@giroh@
+@pipe water@|@payp@
+@pistol@|@druhání@
+@pit@|@khad@
+@pity@|@Armán@
+@place@|@hand@
+@plain@|@pleni jaga@
+@plant@|@godur, phídhagh@
+@plant used in washing@|@gwámísh@
+@plate@|@hírán, san@
+@play@|@lád@
+@playing cards@|@pata@
+@pleasant smell@|@Náz-bo@
+@Please@|@Mihrabani kan@
+@pleasure@|@marzí@
+@pledge@|@gahn@
+@plough@|@nangár@
+@plunder@|@áwár@
+@pocket@|@phado@
+@poem@|@shár, shár@
+@poet@|@shahir, sháir@
+@poison@|@jaur@
+@police@|@polis@
+@political@|@siasi@
+@pommel of saddle@|@kúch@
+@pony@|@daddav@
+@pool@|@kumb@
+@pool in a stream@|@khumb@
+@poor ground@|@laghoren dighár@
+@poppy@|@phost, post@
+@poppy-heads@|@dodá@
+@porcupine@|@sikun@
+@possible@|@bíokh@
+@post@|@tapál@
+@pot@|@dez@
+@potherb@|@ság@
+@pouch@|@khísagh@
+@power@|@majál@
+@powerful@|@dhing, shán@
+@practice@|@tajruba@
+@prance@|@siragh@
+@prayer@|@du'á, nekhen du'á@
+@prayers@|@namásh@
+@precipice@|@drang, gat, gat, gay, ghat, rug@
+@prefer@|@shúház-khanagh@
+@pregnant@|@áfsin, do-gín, do-gín, doghín, láphur, maighí@
+@present@|@házir, pesh kanag@
+@previous@|@säri@
+@price@|@bhá@
+@prickly-heat@|@phit@
+@priming of a gun@|@lab@
+@probably@|@aghsar@
+@problem@|@tang@
+@produce@|@paidáish, peda kanag@
+@produced@|@peda@
+@profit@|@fáida, nafá, sud@
+@proflgate@|@luch@
+@promise@|@daráhiyá, jáizo, labz@
+@prophet@|@nabí@
+@prostitute@|@kanjarí, randi@
+@proverb@|@ákhán@
+@province@|@suba@
+@provisions@|@sursád@
+@puberty@|@balúghat@
+@puffed up@|@gwáth-shalwar@
+@pulse@|@navz, rag@
+@punishment@|@malámat, sazá, säza, sizza@
+@pure@|@saf, sap@
+@pursuit@|@khorí@
+@putting off@|@tálábálá@
+@quail@|@baterá@
+@quantity@|@gal@
+@quarrel@|@gárá, jhera@
+@quarter@|@thora@
+@quarter of the hour@|@rub@
+@question@|@sawál, suwal@
+@questioning@|@phol-phurs@
+@questions and answers@|@soj o suwal@
+@quick@|@zaghar, zíth@
+@quickly@|@zíthen@
+@quickness@|@ashtáfí@
+@quicksand@|@gap@
+@quicksilver@|@pára@
+@quietly!@|@dáshtiyá@
+@quilt@|@lihef@
+@quiver@|@jábah@
+@race@|@tachag@
+@race-winner@|@go-bar@
+@radio@|@redyo@
+@rain@|@gwárish, haur@
+@rain clouds@|@nodh@
+@rainbow@|@drín@
+@raising@|@Ubhár@
+@ram@|@guránd@
+@Ramadan@|@ramzan@
+@ramrod@|@tufak-síh, tufak-síh@
+@rare@|@gunás@
+@rate of sale@|@ag@
+@raven@|@koh-gurágh@
+@razor@|@istaragh, rishen mishin@
+@reach@|@rasag, rast@
+@readiness@|@sambaráí@
+@ready@|@tayyar@
+@reap@|@runag, runt@
+@reason@|@kahá@
+@reciter@|@gushokh@
+@reckoning@|@lekho@
+@recruit@|@rangrut@
+@red@|@suhr@
+@red berries@|@gor-dil@
+@referee@|@siti wala@
+@refridgerator@|@salaja@
+@refuge@|@báutí@
+@refugee@|@báut@
+@rejoicing@|@shádhí, shádhí@
+@related by marriage@|@sangband@
+@relation@|@syád@
+@relations@|@rishtadar, siad@
+@relationship@|@syáldárí@
+@relative@|@syad, syal@
+@remaining@|@bákí@
+@rennet@|@phanerpuch@
+@respectable man@|@du-mandíl@
+@rest@|@Áram@
+@retching@|@dil-shuthí@
+@retreating@|@guttaní@
+@revenge@|@bair@
+@reverence@|@tázím@
+@rice growing@|@sárí@
+@rich@|@daur@
+@ride@|@swar buag@
+@rider@|@zawár@
+@rifle@|@rayfal@
+@rights@|@hak@
+@ring@|@mundrí@
+@ring worn on a woman's toe@|@phádhí@
+@ripe@|@phakká@
+@rise@|@phádh-ágh@
+@rise up@|@sittag, sittit@
+@rising@|@Ásán@
+@River Indus@|@bahá@
+@road@|@dag, ráh, ráh, sadak, sarak, sayak@
+@roast meat@|@níy, sijjí@
+@rock@|@talar@
+@rod for applying collyrium@|@shefagh@
+@roof@|@chat@
+@root@|@pád@
+@root of plant@|@rotag@
+@rope@|@sádh@
+@rope securing flock@|@tand@
+@rotten@|@galatha@
+@rough table@|@bándan@
+@round@|@chaupher@
+@rubber stamp@|@tappa@
+@rubbish left by a flood@|@sewál, sewál@
+@ruby@|@lál@
+@rude@|@be-adab@
+@ruler@|@rul@
+@runaway@|@baghá@
+@rupee@|@rupi@
+@saddle@|@zen@
+@saddle bags@|@hurjín@
+@safety pin@|@tasini@
+@sale@|@baháí@
+@salt mountain@|@bohal@
+@saltpetre@|@shoragh@
+@salutation@|@salám@
+@salutation on meeting@|@salám-alaik@
+@salute@|@salam@
+@sand@|@rekh@
+@sand dune@|@rek@
+@sand dunes@|@rekistan@
+@sand grouse@|@sisu@
+@sandals@|@chabha@
+@sand-fly@|@phurí@
+@sand-grouse@|@katakar@
+@sangar@|@sangar@
+@satisfied@|@ser, ser buag, seráf@
+@Saturday@|@shambe@
+@savage@|@búz@
+@scabbard of a sword@|@jukht@
+@scales@|@chillur@
+@scar of a sword wound@|@zahm-hand@
+@scar of a sword-wound@|@zahm-hand@
+@scarlet@|@hishkí@
+@scissors@|@mikráz@
+@scorpion@|@zím@
+@screw@|@pech@
+@scum@|@jhag@
+@scurf@|@baphá@
+@sea@|@samundar@
+@search@|@phol@
+@season@|@mosim@
+@seat@|@sit@
+@seat belt@|@patta@
+@secret@|@raz@
+@section of a tribe@|@phallí@
+@security@|@zámingírí@
+@seed@|@bij@
+@seek@|@pattag, pattit@
+@selfish@|@matbalí@
+@semen@|@shawat@
+@sense@|@hosh@
+@senseless@|@be-akul@
+@senselessness@|@be-akulí@
+@separate@|@aláhida, dír, khard@
+@servant@|@ambráh, naukar@
+@service@|@naukarí@
+@sesamum@|@kunchíth@
+@settlement@|@Ájám, anjám@
+@seven@|@hapt, hept@
+@seventeen@|@havdah@
+@seventh@|@haptumí@
+@severe@|@säkk@
+@shade@|@sáh@
+@shadow@|@sayig@
+@shah@|@sha@
+@shallow@|@talusht@
+@shame@|@hayá, laj, mayár, sharm, sharminda@
+@shameless@|@be-hayá@
+@sharp@|@tez@
+@shave the head@|@sá, sará sá@
+@shaving@|@serab@
+@sheep@|@mesh, rid, rid@
+@sheep's wool@|@pashm@
+@shell@|@sippí@
+@shepherd@|@pahnwál@
+@Shi'ah@|@shia@
+@shield@|@dhál@
+@shin@|@phádh-nalí@
+@ship@|@jaház@
+@ship's steering equipment@|@sukkan@
+@shoe made of date palm@|@sawas@
+@shoelaces@|@tasma@
+@shoes@|@phádh-guzár@
+@shop@|@hat@
+@shopkeeper@|@set@
+@short@|@gwand@
+@short coat@|@kurtí@
+@short fodder grass@|@gandíl@
+@short grass@|@chábar@
+@short time@|@sahat@
+@shortness@|@gwandádh@
+@shot@|@chirra@
+@shoulder@|@khofagh@
+@shoulder-blade@|@bardast@
+@shout at@|@tawar kanag@
+@shove@|@telán@
+@show@|@mushádhá, nigháh, sawád@
+@shrine@|@ziyárat@
+@sick@|@tapi@
+@sickle@|@dás@
+@sieve@|@geshin@
+@sight of a gun@|@shist@
+@sign@|@shánd@
+@signature@|@dast-khatt@
+@silk@|@Ábresham, pat@
+@silver@|@nughra, núrá@
+@sinetta@|@gethishk@
+@singer@|@shayr janok@
+@Sir@|@sahib@
+@sister@|@Addí, gohár@
+@six@|@shash, shesh@
+@sixteen@|@shanzda, shánzdah@
+@sixth@|@shashumí@
+@sixty@|@sai-gíst, shast@
+@skeleton@|@dhúnd, hushken@
+@skewbald@|@gayrá, gayrí@
+@skilful@|@hoshyár, saháral@
+@skill@|@hunar, kal@
+@skin@|@post@
+@skin of black colour@|@siah@
+@skull@|@khopar@
+@slander@|@tuhmat@
+@slaughter@|@khushár@
+@slave@|@nakhíf@
+@sleep@|@wháv@
+@sleeve@|@ástín@
+@slender@|@talu@
+@slin@|@kámbání@
+@slip out@|@laghushagh, laghushtha@
+@slope@|@shef@
+@slope of a drainage basin@|@áf-shef@
+@slowly@|@ámur, ástagh@
+@small@|@patak, patko@
+@small bird@|@gíánch, jhan@
+@small fly@|@jozho@
+@small pillow@|@sarja@
+@small pond@|@lohígh@
+@small thorny plant@|@saghdattá@
+@small tree@|@shágh@
+@small-pox@|@gurphugh@
+@smell@|@bo, zawádh@
+@smoke@|@dúhon@
+@smoke a pipe@|@phor-khashagh@
+@smuggler@|@shapok@
+@smuggling@|@shapoki@
+@snake@|@be-phádh, már, syáh-már@
+@snare@|@korkí@
+@sneak into@|@putrag, putrit@
+@snuff@|@násh@
+@soap@|@sabun@
+@society@|@majális, suhbat@
+@soft@|@narm@
+@soft dust@|@pulk@
+@soldier@|@sipahi@
+@some@|@kharde@
+@some one@|@kase@
+@some one else@|@Thí-kase@
+@somewhat@|@chí@
+@somewhere@|@handiyá@
+@somewhere else@|@Thí-hande@
+@son@|@bachh, phusagh, zákht@
+@song@|@garí, garí, guftár, shayr, surgo@
+@son-in-law@|@zámáth@
+@sorrow@|@gham@
+@sorrowful@|@dil-gír, ghamnák@
+@soul@|@rúh, sah@
+@sound@|@gríh, gwánkh@
+@soup@|@áfshik, sup@
+@sour@|@trush@
+@south@|@lammá@
+@space@|@vitthí@
+@spade@|@shewal@
+@span@|@girárth@
+@span with the thumb@|@gokho@
+@spear@|@bal, nezagh, sángí@
+@species of salsola@|@khál@
+@speech@|@bolí, gál@
+@spices@|@haledh@
+@spider@|@mokho@
+@spider's web@|@mokho-logh@
+@spill@|@rechag, retk@
+@spindle@|@dikh@
+@spinning@|@kath@
+@spit@|@síh, síh@
+@spoil-bags@|@ganda-gwálagh@
+@spoon@|@doí@
+@sport@|@lev@
+@spot@|@aiv@
+@spotted@|@morband@
+@spring@|@buzí, drik@
+@spring of water@|@mund@
+@spring water@|@rudaga ap@
+@spur@|@momrez@
+@spy@|@jásús@
+@squash@|@sharbat@
+@squinting@|@Chot chham@
+@squirrel@|@gelar, hirdik@
+@stable@|@khuy, tambelá@
+@stale@|@parútá@
+@stallion@|@sán@
+@stamp@|@tappag, tappit@
+@standard@|@nishán@
+@star@|@astár@
+@star on the forehead of horse@|@moth@
+@stealthily@|@tappokay@
+@steel@|@phulát@
+@stepdaughter@|@nafuskh@
+@stepmother@|@mátún@
+@step-son@|@phizádagh@
+@sting@|@dang@
+@stink@|@Gand-bo@
+@stirrup@|@rikb@
+@stitch in the side@|@sumbagh@
+@stomach@|@láf, ojrí, saghindán@
+@stone@|@sang, sing, wattá@
+@stony ground at foot of hills@|@shánkh@
+@storey@|@tabak@
+@story@|@kissa@
+@straight@|@sidhá@
+@straight on@|@sida@
+@stranger@|@ghuriáí@
+@stream of water@|@perennial@
+@street@|@vehí@
+@strength@|@sakmardí, takat, was@
+@string of camels@|@katár@
+@strings of musical instrument@|@tár@
+@strong@|@jor, tayt@
+@student@|@shagird, talib@
+@stumble@|@kirishk, kirishkagh@
+@stunted@|@phutak@
+@subdued@|@helák@
+@substitute@|@iwazí@
+@such a one@|@fulána@
+@sugar@|@phulkand@
+@sugary compressed date sweetmeat@|@shiragi na@
+@suit@|@man-agh@
+@suitcase@|@sutboks@
+@sulphur@|@gandraf, gokurd@
+@sultan@|@sultan@
+@sun@|@roch@
+@sunbeam@|@roche brinsh@
+@Sunni@|@sunni@
+@sunrise@|@Rosh-ásán@
+@supper@|@sham@
+@surety@|@zámin@
+@surface of a stratum of rock@|@ban@
+@sweat@|@ark, hedh@
+@sweeper@|@kházg-barokh@
+@sweeping@|@bohárí@
+@sweet@|@shirk, wash@
+@sweet melon@|@tejag@
+@sweet scent@|@názbo@
+@sweetmeats@|@shakar, washí@
+@swift@|@thegh, tikká@
+@swine@|@híkh@
+@swinging cradle@|@gwánzagh@
+@switch on@|@rok kanag@
+@sword@|@khanáwa, zahm@
+@swordbelt@|@zahm-band@
+@swordsman@|@zahm-janokh@
+@syce@|@galphán@
+@table@|@tebal@
+@tail@|@dumb@
+@talisman@|@talismán@
+@talk big@|@gwáthen hálwar khanagh@
+@tamarisk@|@gaz@
+@tamarisk sugar@|@shakhal@
+@tank@|@haud@
+@tank petrol@|@tánkí@
+@taste@|@tam@
+@tax levied by Baloch chiefs@|@dan@
+@tear@|@anzí@
+@tear up the ground@|@radhagh, rastha@
+@temper@|@tabiyat@
+@temperate@|@phárez@
+@ten@|@dah, deh@
+@tender@|@názuk@
+@tent@|@tanbu@
+@tenth@|@dahmí@
+@testicles@|@gund@
+@testing@|@chagá@
+@Thank you@|@Shukria@
+@thanks@|@shukr@
+@that@|@an, hawán@
+@that man@|@ánmar@
+@that side@|@ándemá@
+@that very one@|@ságí, vágí@
+@thaw@|@áf-bíagh, phagaragh@
+@the air-plant@|@hom@
+@the ajwain seed@|@Izbokht@
+@the ák-bush@|@kharag@
+@the alarm@|@wáhú@
+@the ankle@|@bhedí@
+@the bábul bush@|@chighird@
+@the back@|@phusht@
+@the barrel of a gun@|@nalí@
+@the ber-tree@|@kunar@
+@the black bear@|@mam@
+@the body@|@butu@
+@the búí plant@|@nambo@
+@the bulbul@|@títúná@
+@the buttocks@|@bundar@
+@the camel-thorn@|@shinz@
+@the cap of a gun@|@phullí@
+@the caper bush@|@karvelí@
+@the chakor@|@kavg, sesí@
+@the chest@|@dobar@
+@the colocynth gourd@|@guch@
+@the date palm@|@khají@
+@the day after tomorrow@|@poshi, punshi@
+@the day before yesterday@|@parari, pareri, payreri, payri, peri, phairí@
+@the devil@|@shetan@
+@the Dog@|@Bíng@
+@the dwarf palm@|@phísh@
+@the evening meal@|@shám@
+@the eye@|@chham@
+@the eye-brow@|@barwán@
+@the fingers@|@murdánagh@
+@the forearm@|@daulá, nalí@
+@the gall-bladder@|@zahrak@
+@the Gúgal tree@|@boz@
+@the gullet@|@pogokh@
+@the hare@|@khargoshk@
+@the hot weather@|@ahár@
+@the jál tree@|@phír@
+@the Juniper tree@|@Apúrs, árus, ávran@
+@the khip bush@|@hídhishk@
+@the kidney@|@guttigh@
+@the knee@|@khond@
+@the language of the Jats@|@jaghdalí@
+@the lee-side@|@er-gwáth@
+@the male@|@pháshan@
+@the male urial@|@guránd@
+@the middle finger@|@gadí@
+@the month of A'soj@|@káosh@
+@the month of Chait@|@baharkhá@
+@the moon@|@máh, máhkán@
+@the morning star@|@sar-návagh@
+@the navel@|@náfagh@
+@the North Pole@|@kutb@
+@the oleander@|@jaur@
+@the palate@|@tálo@
+@the pan of a matchlock@|@goshá@
+@the phaláhí-tree@|@kaur@
+@the Pleiades@|@much-panwar, panwar@
+@the polestar@|@kutb-astár@
+@the rains@|@bashám@
+@the river has risen in flood@|@daryá dar-khaptha@
+@the sand-piper@|@títíhar@
+@the seclusion of women@|@sitr@
+@the sense of began@|@rapta, rapta, ravagh, ravagh@
+@the shin@|@phádh-nalí@
+@the shoulder muscles@|@khofaghá@
+@the shoulder-blade@|@hinjrí@
+@The slow-match of a matchlock@|@falíta, palíthagh@
+@the small intestines@|@bílan@
+@the spleen@|@isphulk@
+@the temples@|@laundrí@
+@the third day of mourning@|@ásrokh@
+@the throat@|@guth@
+@the toes@|@phádh-murdánagh@
+@the two stars@|@bitár@
+@the universe@|@ulkah@
+@the vulture@|@khargaz@
+@the whole@|@drust, kull, thewaghen@
+@the wild olive@|@hath@
+@the wild onion@|@whasar@
+@the wind is blowing@|@gwáth-khashaghen@
+@the world@|@jihán@
+@the year before@|@phairárí@
+@theft@|@duzí@
+@themselves@|@aptiya@
+@then@|@agh, hadhen@
+@thence@|@'shán-go@
+@there@|@hamodhá, odhá@
+@thick@|@dálá, istur@
+@thief@|@duz@
+@thigh@|@rán, rán, zán@
+@thin@|@hírth@
+@third@|@saimí@
+@thirst@|@thun@
+@thirsty@|@thuní@
+@thirteen@|@senzdah, sezda@
+@thirty@|@si@
+@this@|@esh, hawen, ín@
+@this man@|@imar@
+@this morning@|@sohbi@
+@this one@|@hawesh@
+@this side@|@indemá@
+@this very one@|@hamesh@
+@thistle@|@kánderí@
+@thither@|@hawángo@
+@thorn@|@kuntagh, kuttigh@
+@thorny bushes@|@kuttanokh@
+@thoroughly@|@sharia sara@
+@thought@|@dihán@
+@thoughtless@|@be-dihán@
+@thread@|@bandíkh, sad@
+@three@|@sai, se, seh@
+@three days ago@|@peshperi@
+@threefold@|@yake-sai@
+@threescore@|@sai-gíst@
+@threshold@|@cháút@
+@thrice@|@sai-bará@
+@through@|@taha...danna@
+@thumb@|@deb@
+@thunder@|@garand@
+@Thursday@|@khamís@
+@thus@|@hachho, hanchho@
+@tiger@|@mazár, sher@
+@tiger's leap@|@mazár-trap@
+@tiger's-tail@|@mazár-dumb@
+@tight@|@tank@
+@till now@|@daníkar@
+@till then@|@danánkará@
+@time@|@mudd, velá@
+@tin@|@kaláí@
+@tinder@|@phurz@
+@to accompany@|@gon-deagh@
+@to adopt@|@kutákhanagh@
+@to apply@|@mán-deagh@
+@to arise@|@phádh-ágh@
+@to arrive@|@rasagh, rasitha@
+@to ascend@|@chayagh@
+@to ask@|@phol-khanagh, pursag, pursit@
+@to ask a question@|@suwal kanag@
+@to assemble@|@much-bíagh, much-khanagh@
+@to attack@|@jalo-khanagh, kaptagh, khaptagh, mán-rashagh@
+@to attend@|@managh, manitha@
+@to bark@|@lákagh@
+@to bathe@|@ján-shodhagh@
+@to be able@|@khanagh, khutha@
+@to be angry@|@zahr-giragh@
+@to be ashamed@|@pashewan buag, sharminda buag@
+@to be backward@|@pash kapag@
+@to be beaten@|@radhagh, radhagh@
+@to be born@|@peda buag@
+@to be bribed@|@rishwat girag@
+@to be broadcast@|@talan buag@
+@to be cheated@|@rad kapag@
+@to be circumcised@|@sunnat buag@
+@to be cold@|@sard buag@
+@to be cold oneself@|@sardi kanag@
+@to be coming now@|@peda ayag@
+@to be considerate@|@rahm buag@
+@to be crooked@|@dolo@
+@to be crushed@|@bhuragh, bhuritha@
+@to be filled@|@pur buag@
+@to be killed@|@bágh, báitha@
+@to be lit@|@rok buag@
+@to be lost@|@gár-bíagh@
+@to be married@|@sír-bíagh@
+@to be published@|@shing, shing buag@
+@to be scattered@|@khurdagh@
+@to be silent@|@daf-dáragh@
+@to be strong@|@tayt buag@
+@to be tight@|@tank buag@
+@to be upon@|@ur-biagh@
+@to be upset@|@shighín-bíagh@
+@to be useful@|@handainagh@
+@to bear@|@sehnagh@
+@to beckon@|@dast-mechdeagh@
+@to become@|@bíagh-ravagh@
+@to become hot@|@thafagh@
+@to beg@|@pindag, pindagh, pindit@
+@to begin@|@shru buag, shru kanag@
+@to begin to do@|@khanaghá khafagh@
+@to bend@|@Chot bíagh, Chot khanagh@
+@to bet@|@shart bandag, shart janag@
+@to bite@|@drishagh, drishtha@
+@to bleed@|@hon-khashagh@
+@to boast@|@daf-janagh, dafá janagh@
+@to boil@|@grádhagh, grástha@
+@to bore@|@sumb-janagh, sumbag, sumbit@
+@to brand@|@dakhta, didhagh@
+@to bray@|@zhángagh@
+@to breach a wall@|@khátr janagh@
+@to break@|@bhorenagh, phrushagh, phrushtha, proshag, proshag, prosht, prosht, prushag@
+@to break (1)@|@prusht, sindagh@
+@to break a fast@|@rochag proshag@
+@to breathe@|@sáh-zíragh@
+@to bribe@|@rishwat dayag@
+@to bring@|@Áragh, ártha, ávardan, bi-ár, khárán@
+@to broadcast@|@talan kanag@
+@to brush@|@ropag, ropt@
+@to burn@|@sochag, sokhta, soshagh, sotk, suchag, sukhtha, sukhtha, sushagh, sushagh, sutk@
+@to burst@|@trakagh@
+@to bury@|@púragh@
+@to buy@|@bahá, bhá-giragh@
+@to cackle@|@tarkagh, tarkatha@
+@to call out@|@gwánkh janagh@
+@to call together@|@gwáfagh, gwáptha@
+@to canter@|@dragagh@
+@to carry away@|@baragh, buytha@
+@to cast down@|@er-janagh@
+@to catch@|@girjagh@
+@to chase@|@tachaenag, tachaent@
+@to cheat@|@rad dayag, repaenag@
+@to chew@|@jágh, jáitha@
+@to choose@|@gishainagh, gishaintha@
+@to chop@|@gudagh@
+@to chop up@|@hadíragh@
+@to churn@|@hínzár mathagh@
+@to circumcise@|@sunnat kanag@
+@to clap hands@|@cháp janagh, tárí janagh@
+@to clean@|@saf kanag@
+@to climb@|@sar kapag@
+@to close@|@bútagh, bútatha, naz-khanagh@
+@to clothe@|@poshenagh@
+@to collect@|@much-khanagh@
+@to come@|@ágh, ákhtha, ámadan, biyá, khán@
+@to come back@|@tharagh-ágh, thartha@
+@to come down@|@er-ágh@
+@to cook@|@gradhagh, grastha, phakká, phashagh@
+@to cough@|@kullagh@
+@to count@|@lekhagh@
+@to cover@|@kajagh, kajatha@
+@to cry out@|@taukh janagh@
+@to cultivate@|@khishagh, khishtha@
+@to cut@|@buragh, buritha@
+@to deal@|@Bahar-khanagh@
+@to deceive@|@pharámagh@
+@to defend@|@Dar-baragh@
+@to demand@|@lotagh@
+@to descend@|@er-khafagh@
+@to die@|@mír, miragh, murtha@
+@to dig@|@dighár janagh@
+@to dig the ground@|@dighár-janagh@
+@to discharge@|@bukhtha, bushkagh@
+@to disgrace@|@ber-kanagh@
+@to dismiss@|@mokal-deagh@
+@to dive@|@obí deagh@
+@to divide@|@bahr-khanagh@
+@to divorce@|@son dayag@
+@to drag apart@|@hur-janagh@
+@to draw@|@khashagh, khashtha@
+@to draw a line@|@líkh-khashagh@
+@to draw a picture@|@taswir kashshag@
+@to draw breath@|@sáh zíragh@
+@to dress@|@ján-khanagh, poshagh@
+@to drink@|@lawáshagh@
+@to drink up@|@ting-deagh@
+@to drip@|@trimagh@
+@to drive@|@hakalagh, hakalatha@
+@to drop@|@trapagh@
+@to drown@|@budagh, budatha@
+@to dry@|@hushagh, hushtha, tapag, tapag, tapt@
+@to eat@|@bawar, waragh, wártha@
+@to eat one's fill@|@ser kanag@
+@to embrace@|@baghl giragh@
+@to enter@|@mán-ravagh@
+@to escape@|@dar-ravagh@
+@to examine@|@Ázmáinagh@
+@to exchange@|@mattainagh@
+@to expend@|@kapainagh@
+@to explain@|@poh-khanagh, sarpad kanag@
+@to extinguish@|@thosagh, thosta, thusagh@
+@to faint@|@thusagh, thustha@
+@to fall@|@drattagh, drattatha, khafagh, khaptha@
+@to fast@|@rochag, rochag buag, rochit@
+@to favour@|@sámbagh@
+@to fear@|@thursagh, thursitha@
+@to feed@|@warainagh@
+@to fetch@|@zíragh-áragh@
+@to fetch water@|@dogh, dotha@
+@to fight@|@miyagh@
+@to fill@|@phur-khanagh, pur kanag, tallag, tallit@
+@to flash in the pan@|@lab-chatagh@
+@to flay@|@phost-khashagh@
+@to flinch@|@ták-khafagh@
+@to fly@|@bál-giragh, udirnu, Udragh@
+@to foal@|@wadhí khanagh@
+@to follow@|@randa janag@
+@to forget@|@gisar-bíagh@
+@to forgive@|@rahm kanag@
+@to freeze@|@madhagh, mastha@
+@to fry@|@talagh@
+@to gallop a horse@|@thákhtha, tháshagh@
+@to get@|@dast-ágh, dast-khafagh@
+@to gird up the loins@|@Saren-bandagh@
+@to give@|@bashkagh, bashkatha, dátha, deagh@
+@to give a greeting@|@salam dayag@
+@to give birth@|@zágh, zátha@
+@to give trouble@|@taklif dayag@
+@to gnaw@|@kutragh@
+@to go@|@ravagh, ravagh, rawag, shut, shutha@
+@to go before@|@pesh kapag@
+@to go down@|@er-ravagh, er-shafagh@
+@to go on tiptoe@|@sraf kanag@
+@to go swiftly@|@dranzagh@
+@to graft@|@pewand kanag@
+@to greet@|@salam kanag@
+@to grind@|@drushagh, drushtha@
+@to grind up@|@sahag, saht@
+@to groan@|@náragh, náritha@
+@to grow@|@rodaenag, rodaenag, rodaent, rodaent, rudag, rudhagh, rudhagh, rust, rustha@
+@to grow a beard@|@rish darag@
+@to growl@|@gurkagh@
+@to halt@|@otak khanagh@
+@to hang@|@laykagh, laykagh, laykainagh, tangagh@
+@to have@|@dáragh, dáshta@
+@to have a nocturnal emission@|@shetan buag@
+@to hear@|@ashkanagh, ashkutha, bi ashkun@
+@to hear news@|@hál-giragh@
+@to help@|@Saren-bandagh@
+@to hide@|@likagh@
+@to hiss@|@sindá khanagh@
+@to hunger@|@shudhagh@
+@to hunt@|@shikar kanag@
+@to imitate@|@nakl-khanagh@
+@to imprison@|@el-khanagh@
+@to increase@|@vadáinagh@
+@to inform@|@soj dayag@
+@to interpret@|@tarjuman kanag@
+@to irrigate@|@áf-deagh@
+@to join@|@gandagh, gandatha@
+@to jump@|@drikagh@
+@to keep a fast@|@rochag darag@
+@to keep watch@|@Jágrú dáragh@
+@to kick@|@ladhagh janagh@
+@to kill@|@khushagh, khushtha@
+@to kiss@|@chukagh@
+@to kneel@|@khond bhorainagh, Khond bhorenagh@
+@to know@|@zánagh, zántha@
+@to laugh@|@khandagh, khanditha@
+@to lay@|@Adagh@
+@to lay down@|@er-khanagh@
+@to lead an army@|@lashkar zíragh@
+@to lean@|@Ad-deagh@
+@to leap@|@drik-deagh@
+@to learn@|@sabak girag, sikhagh, sikkag, sikkit, sykhkhäG@
+@to leave@|@bil, bilí, ilagh, ishtha, kishtha, kizagh@
+@to let go@|@ilagh-deagh, ishtho-dátha@
+@to let land lie fallow@|@sáhí-deagh@
+@to lick@|@chatagh, chattha@
+@to lie@|@Drogh-bandagh, letagh, lettha@
+@to lie down@|@tachk buag@
+@to lie in wait@|@Tham-bíagh@
+@to light@|@rokhanagh, rokhutha@
+@to like@|@pasand kanag@
+@to line up@|@rid kanag@
+@to lisp@|@lalla khanagh@
+@to listen@|@nigoshagh, nigoshtha@
+@to look at@|@sel kanag@
+@to look out@|@cháragh, cháritha, dargezhagh@
+@to low@|@básagh@
+@to make@|@razainagh, razaintha, tháhinagh@
+@to marry@|@sír-khanagh, sur kanag@
+@to measure@|@kach-khanagh@
+@to meet@|@gon-khafagh@
+@to meet together@|@mán-guzáragh@
+@to melt@|@hal bíagh@
+@to mend@|@särgäräG@
+@to mew@|@míkagh@
+@to milk@|@doshagh, dushtha@
+@to mix@|@áwár-khanagh, ralagh@
+@to mix with@|@Áwár bíagh@
+@to mount@|@swar kanag@
+@to move@|@lodagh, lodatha, ludagh, ludagh, suragh@
+@to neigh@|@hinkagh@
+@to offend@|@Azáb-deagh@
+@to open@|@bokhtha, bozhagh@
+@to overflow@|@ambrezagh@
+@to paint@|@rang kanag@
+@to pass@|@guzagh, gwastha@
+@to pass by@|@guzagh-ravagh@
+@to peel@|@chillagh@
+@to pick out@|@gíeshagh, gíeshtha@
+@to pick up@|@chinagh, chitha@
+@to piss@|@mishtha, mizhagh@
+@to play@|@ládá khanagh, ládá khanagh, lev khanagh, sáz-kanagh@
+@to play a radio@|@redyo janag@
+@to play music@|@saz janag@
+@to post@|@nyádhagh, nyástha@
+@to pound@|@chofagh, chofitha@
+@to pour@|@rikhtha, ríshagh@
+@to praise@|@galágh, galáitha@
+@to prepare@|@sambaragh@
+@to protect@|@dar-saragh@
+@to publish@|@shing, shing kanag@
+@to pull@|@chikagh@
+@to punish@|@sizza dayag@
+@to pursue@|@resinagh@
+@to push@|@Tálan deagh@
+@to put in@|@mán-khanagh@
+@to rain@|@gwaragh, gwárí, gwartha@
+@to raise@|@zíragh, zurtha@
+@to rally@|@utalagh@
+@to reach puberty@|@rish buag@
+@to read@|@wánagh, wántha@
+@to recite ritual words@|@takbir dayag@
+@to recognize@|@Phajyá áragh@
+@to remember@|@Gír-áragh, saragh@
+@to remind@|@girár deagh@
+@to repair@|@chetagh@
+@to retch@|@dil-janagh@
+@to return@|@gardagh, gartha, tharagh@
+@to riot@|@shor kanag@
+@to rise@|@ásagh, ástha, biás, khásán@
+@to roar@|@garragh@
+@to rob@|@phullagh@
+@to rob on the highway@|@dag janagh@
+@to rub off@|@latáragh@
+@to run@|@phadátha, phadeagh, rumb zíragh, thakhta, thashagh@
+@to run (1)@|@tachag, tatk@
+@to run away@|@gur-khanagh, ladagh@
+@to saddle@|@zen-kanagh@
+@to salute@|@hair khanagh@
+@to search@|@pat o lot kanag@
+@to search for@|@pholagh@
+@to see@|@dítha, gind, gindagh@
+@to sell@|@shawakhtha, shawashkagh@
+@to send@|@dem-deagh, ra dayag, shastagh, shastátha@
+@to send away@|@sar-deagh@
+@to separate@|@nikragh@
+@to set out@|@sar-giragh@
+@to sew@|@dokhtha, doshagh@
+@to shake@|@lodainagh, mathagh@
+@to shame@|@sharminda kanag@
+@to shave@|@rish sahag, sahag, sahag, saht, saht, sáinagh, sáintha@
+@to shine@|@chilkagh@
+@to shoot@|@túfak janagh@
+@to show@|@dasagh, dasatha, pesh darag, phedáragh, phedáshta@
+@to shrug the shoulders@|@khofagh juzainagh@
+@to shuffle@|@táp dayag@
+@to sing@|@shayr janag@
+@to sit@|@nindagh, nishtha@
+@to sit down@|@er-nindagh@
+@to skin@|@post janag@
+@to slap@|@chapol janagh, shahmat janag@
+@to sleep@|@akastha, aksagh, biakas, kaksí, wapsagh, waptha.@
+@to slip@|@shitirag, shitirt@
+@to smell@|@bo-giragh, shúkagh@
+@to smoke a cigarette@|@sigrit kashshag@
+@to smother@|@ghattagh@
+@to snatch@|@zinagh, zintha, zitha, zítha@
+@to sneeze@|@chishagh, chishatha@
+@to sniff@|@punshag, punshit@
+@to snore@|@gharragh, goghrá janagh@
+@to sob@|@jhatkagh, sudkagh@
+@to solder@|@dak janagh, dakjanagh@
+@to speak@|@gushagh, gushtha, gwashtha@
+@to spill@|@richag, ritk@
+@to spin@|@bresagh, brestha, resagh, restha@
+@to split@|@chák-deagh@
+@to spoil@|@vinyainagh@
+@to spread out@|@kindagh, kindatha, nishtainagh@
+@to spring upon@|@chambaragh, chambaritha@
+@to squeeze@|@princhag, princhit@
+@to stammer@|@thaltagh@
+@to stamp@|@dápurá janagh, tappa janag@
+@to stand@|@bosht, istádan, oshtagh, oshtátha@
+@to stand up@|@kharo-bíagh@
+@to steal@|@duzagh@
+@to sting@|@dang janagh@
+@to stoop@|@kwántagh@
+@to strike@|@janagh, jatha@
+@to stumb@|@dháburagh, dháburtha@
+@to stumble@|@táphuragh, táphuritha@
+@to stutter@|@habkagh@
+@to suck@|@mishagh, mishta@
+@to surround@|@ber-khanagh@
+@to swallow@|@er-baragh@
+@to swear@|@saughan zíragh@
+@to swear an oath@|@soghind kanag@
+@to swell@|@Áphiragh, áphirjnu, áphirta, síagh@
+@to swim@|@taragh, taratha@
+@to take a bribe@|@rishwat warag, rishwat zurag@
+@to take a photograph@|@taswir girag@
+@to take an oath@|@sanghan-zíragh@
+@to take cover@|@tapag, tapit@
+@to take leave@|@mokalainagh@
+@to taste@|@mazágiragh@
+@to teach@|@sabak dayag, sikhainagh, sikkaenag, sikkaent@
+@to tear@|@dinagh, dirjagh@
+@to tear up the ground@|@radhagh, rastha@
+@to thrash@|@kutagh@
+@to threaten@|@dalko-deagh@
+@to throw@|@phirenagh, phirentha@
+@to thrust@|@phehagh@
+@to thunder@|@garandagh, garandatha@
+@to tie@|@bandagh, bastha@
+@to tire@|@mánagh, mantha@
+@to toss up@|@jhapagh@
+@to touch@|@dast-láinagh, láinagh, láitha, sak dayag@
+@to tour@|@tarrag, tarrit@
+@to track@|@saring-janagh@
+@to tremble@|@larzagh@
+@to trim one's beard@|@r?sh banaenag@
+@to turn@|@tarraenag, tarraent@
+@to turn back@|@bero-deagh@
+@to turn sour@|@phitagh@
+@to twist@|@maroragh@
+@to understand@|@poh-bíagh, samjag, samjag, samjit, samjit, sarpad buag@
+@to unfold@|@tachk kanag@
+@to upset@|@Ondo khanagh@
+@to use@|@Kárá áragh@
+@to use influence@|@shafarast kanag@
+@to vomit@|@dil janagh@
+@to wait@|@sabr kanag@
+@to walk@|@gámá juzagh@
+@to wander@|@charagh@
+@to wash@|@shodag, shodhagh, shudhagh, shudhagh, shust, shustha, shustha@
+@to watch cattle@|@charainagh@
+@to wean@|@gwarán dír khanugh@
+@to wear@|@sara kanag@
+@to weave@|@gwafagh, gwaptha@
+@to weep@|@giregh, girentha@
+@to whisper@|@suk suk kanag@
+@to whistle@|@senzár janagh, síndá janagh, sinzarag, sinzarit@
+@to wink@|@chham, chham bhorainagh, Chham bhorenagh@
+@to wrap oneself up@|@pir dayag@
+@to wrap up@|@pechag, pechit@
+@to wring@|@nipúragh, nipúratha@
+@to write@|@likhagh@
+@to yield up@|@vanijagh@
+@tobacco@|@tamákú, tambak@
+@to-day@|@maroshí@
+@toe@|@phádh-murdán@
+@toe strap of sandal@|@sawas band@
+@toes@|@phádh-murdánagh@
+@together@|@ya-handá, ya-handá@
+@together with@|@gon@
+@toilet@|@pui@
+@tomato@|@tamatar@
+@tomb@|@kabr@
+@to-morrow@|@nawáshí@
+@tomorrow evening@|@nawáshí-begá@
+@tongue@|@zawán@
+@too many@|@sak baz@
+@tool@|@auzár@
+@tooth@|@dathán, nesh@
+@toothache@|@dathán-dor@
+@topsy-turvy@|@shighín@
+@torch@|@mashál@
+@touch@|@dahagh@
+@towel@|@tawal@
+@town@|@shahr@
+@track@|@saring@
+@traitor@|@namak@
+@trap@|@talk@
+@tray@|@tasht@
+@tree@|@darashk, mínhav@
+@trial@|@peshi@
+@triangle@|@sai-kona@
+@tribe@|@raj@
+@tributary valley@|@shapch, shep@
+@trip@|@sapar@
+@trouble@|@dukh, dukh, khishálá, säkki, taklif@
+@trousers@|@patlun, shalwar@
+@true@|@rást, rást@
+@truth@|@rástí, rástí@
+@Tuesday@|@ángárá@
+@tunic@|@pashk@
+@turban@|@phágh, tond@
+@turnip@|@gúngrú, zang@
+@twelve@|@dwázdah@
+@twentieth@|@gístumí@
+@twenty@|@gíst@
+@twice@|@dobarán@
+@twig@|@shawar@
+@twisted spirally@|@rops ritchieana@
+@two@|@do@
+@two days before yesterday@|@phisphairí@
+@two-years-old camel@|@mázáth@
+@tyrant@|@zorwálá@
+@tyre@|@tayr@
+@ugly@|@bad-shakl, nuhram@
+@unbeliever@|@káfir@
+@uncle@|@nákho@
+@unclean@|@phalít@
+@uncommon@|@ná-paid@
+@underground aqueduct@|@kárez@
+@underhang of cliff@|@talamb@
+@understanding@|@aghlfam, poh, samá, sarpad@
+@understood@|@sahi@
+@undoubtedly@|@halení@
+@uneasy@|@be-árám@
+@unfolded@|@tachk@
+@unhappy@|@ná-wash@
+@unintelligible@|@be-fahmá@
+@unjust@|@be-insáf@
+@unknown@|@ná-sahí@
+@unlucky@|@chapí, kambakht@
+@unoccupied@|@be-kár@
+@unripe@|@hámagh@
+@unripe fruit@|@kílár@
+@until@|@tá@
+@unweaned@|@shír-wár@
+@unworthy@|@ná-láik@
+@up to@|@tana@
+@up to that time@|@tana wakt@
+@up to this time@|@tane wakt@
+@upon@|@chakha, pha@
+@upper@|@sarbarí, sarína@
+@ups and downs@|@jahl-burz@
+@urinate@|@peshap kanag@
+@useless@|@be-sanátí@
+@usury@|@júfá@
+@vagabond@|@charokh@
+@vale@|@säršäm@
+@valley between two ridges@|@tokh@
+@variegated@|@hingalo, kambar, khambar@
+@vegetable@|@sabzi@
+@vehicle cover@|@tát@
+@veil@|@burqa@
+@vein@|@rag, ragh@
+@velvet@|@bakhmal@
+@vermin@|@bot, mákúrá@
+@very good@|@bathir@
+@very lofty@|@burzáthir@
+@very small@|@kisának@
+@vessel@|@razan@
+@vessel for baking bread@|@tawán@
+@victorious@|@sob rasag@
+@victory@|@sobh@
+@village@|@halk, shahr@
+@vine@|@drákh@
+@violent@|@zorákh@
+@violently@|@dan@
+@virgin@|@kany@
+@visible@|@phedhágh@
+@visit@|@sapar kanag@
+@voice@|@áwáz, báng, taukh, tawár, tawár@
+@vomit@|@shanag, shant@
+@vulva@|@kus@
+@wages@|@kireh, poriyáh@
+@waist@|@sren@
+@waistcloth@|@lánk@
+@wait for@|@ra charag@
+@walk around@|@tarotab kanag@
+@walking-stick@|@dast-lath@
+@wall@|@bhit@
+@war@|@jang@
+@war news@|@dáh@
+@warm@|@garm@
+@warning@|@ágháhí@
+@warrior@|@hot, jodh, malandrí, súrah@
+@was@|@Ath@
+@washerman@|@khatrí@
+@washing-basin@|@astawa@
+@wasp@|@dembhú, khakhar@
+@wasp's nest@|@godhar, khakhar-mánáro@
+@watch@|@jágrú@
+@water@|@áb, áf, áfs@
+@water bottle@|@tanbalu@
+@water where the mouth is rinse@|@gulgul@
+@water-bag@|@mashk@
+@waterfall@|@áf-laghar@
+@water-fall@|@laghar@
+@waterfowl@|@áf-murgh@
+@waterless@|@tiháf@
+@water-melon@|@kítagh@
+@water-parting@|@sham, shamol@
+@watershed@|@áf-shef@
+@way@|@pem, ra@
+@we@|@má@
+@weak@|@be-sek, hína@
+@wealth@|@daulat@
+@weapon@|@hindí, sändär@
+@wear@|@poshag, poshit@
+@wear webbing@|@punch bandag@
+@webbing equipment@|@pünch@
+@wedding@|@sur@
+@Wednesday@|@sakaní@
+@welcome@|@Xush amdeed!@
+@welfare@|@hair@
+@well@|@bhágyá, cháth, cháth, chhath, jawániyá, zirih@
+@west@|@olah, rochbirkat@
+@wet@|@menthagh, tar@
+@what?@|@chih@
+@wheat@|@gandím@
+@wheel@|@phádhagh@
+@wheel brace@|@pris@
+@when?@|@kadhen@
+@whence?@|@ash-koh@
+@Where is my room?@|@Mani kat kojaa ent?, Mani kot'i kojaa ent?@
+@Where is the bar?@|@Baar kojaa ent?@
+@Where is the beach?@|@Saahel kojaa ent?@
+@where?@|@bakhú@
+@which?@|@kithán, thán@
+@while@|@der@
+@whinny@|@han-khanagh@
+@whinnying@|@han@
+@whip@|@koro@
+@whirling cloud of dust@|@garphíl@
+@whistle@|@siti, siti janag@
+@whistling@|@senz@
+@white@|@nukrá, saweth@
+@white ant@|@Udohí@
+@white-faced@|@saghár@
+@whither?@|@thángo@
+@wholesome@|@sebak@
+@wick@|@wat@
+@wide@|@prah@
+@width@|@prahi@
+@wild@|@anjír, hinjir, khohí anjír@
+@wild asparagus@|@khalero@
+@wild ass@|@gor@
+@wild man@|@pasháng@
+@wild onion@|@wasar@
+@wild species of sinapis@|@sagharkha@
+@wild swine@|@syáhen rastar@
+@wilderness@|@bewán@
+@willow@|@geth@
+@wind@|@gwáth@
+@window pane@|@shishag@
+@windy@|@gwátho@
+@winnow@|@pálenagh@
+@winter@|@zawistán@
+@wire@|@tár@
+@wire fence@|@tat@
+@wise@|@sár@
+@with@|@go@
+@with difficulty@|@dukhyá@
+@with two turbans@|@dúmandíl@
+@without@|@be, sawá@
+@witness@|@shahid@
+@wolf@|@gurkh@
+@woman@|@jan, zál@
+@woman's breast@|@gwar@
+@woman's petticoat@|@chit@
+@wonderful@|@Ajab@
+@wood@|@dár@
+@wooden arrow@|@gaj@
+@wooden chock@|@tarm@
+@wooden handcuffs@|@gattí@
+@wooden mortar@|@bathlo@
+@wool@|@phazhm@
+@worm@|@kirm@
+@worry@|@pikr, pikr kanag, soch, soch, soch kanag@
+@worthy@|@Ábnákh@
+@wound@|@tap, thap@
+@wounded@|@tapí, zadhagh@
+@wretched@|@laghor@
+@wretched pony@|@laghoren daddav@
+@wrinkle@|@gunj@
+@wrist@|@dast-muchh@
+@yard arm@|@pilmin@
+@yawn@|@obásí@
+@year@|@sal@
+@year before last@|@peshtapari@
+@yearling colt@|@saral@
+@yellow@|@zard, zhalokh@
+@yellow sweet melon@|@sarda@
+@yes@|@hau@
+@Yes@|@aow@
+@yesterday@|@zí@
+@yet@|@taninga@
+@yoke@|@jogh, pánjálí@
+@yolk of an egg@|@zardo@
+@you (plural)@|@shuma@
+@young camel from 6 months@|@kotila@
+@young male camel@|@hir, kawát@
+@young man@|@warná@
+@young of animals@|@láwará@
+@young unweaned camel@|@suhág@
+@zero@|@sifr@
+@zinc@|@jist@
+

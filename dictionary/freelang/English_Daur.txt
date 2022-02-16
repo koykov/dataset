@@ -1,0 +1,940 @@
+@English@|@Daur@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1st Sg. ps. pronoun obl. case@|@nam-@
+@a cloth wrapper@|@kuachilahe@
+@a drunk@|@sogetö, soretö@
+@a k. of cheese@|@urume@
+@a k. of vessel@|@xorgo@
+@a k. of wild leek@|@gogos, guagas@
+@a musical (string) instrument@|@kör@
+@a part@|@koletuei, koletuhe@
+@a pinch@|@chuëk@
+@ability@|@chinë@
+@above@|@dere@
+@abrasion@|@där@
+@afternoon@|@udur@
+@again@|@dagï@
+@age@|@uje@
+@agreement@|@gerchil, gerchin, gerë@
+@air@|@hij@
+@ajar@|@žabeke@
+@all@|@xö, xua@
+@alone@|@ganchare, ganchi, gašikare, gaškä(r)@
+@alternate@|@xala-@
+@ancestor spirit@|@onggore@
+@anger@|@aur, aure@
+@angle@|@önchök@
+@animals@|@žilžag, žilžig@
+@answer@|@xarö@
+@ant@|@suaigälži, suajhaleži@
+@anxious@|@guni-@
+@arm@|@gar, gari@
+@armful@|@tewer@
+@armpit@|@sö@
+@arrow@|@som, some, somo@
+@ashes@|@hunse, xuns, xunse@
+@ash-grey@|@sälal, säral, särele@
+@aspen@|@oles, xolordan möd@
+@astonished@|@chochi-@
+@awl@|@šeugu@
+@axe@|@sugë, sugu, suhe@
+@back of head@|@šëlë@
+@bad@|@mö@
+@bad omen@|@jor, jore@
+@bald@|@malžin@
+@bank@|@kechi@
+@bare@|@niškön, nušike, nušken@
+@be afraid of@|@chochi-@
+@be cold@|@bede-, bere-@
+@be heated@|@še-@
+@be mixed up@|@xuimu-@
+@be on time@|@žabede-@
+@be wet@|@noir-, noirgä-@
+@beautiful@|@goji, saikan, saixan@
+@become cold@|@dära-, däre@
+@become quiet@|@amal, amül@
+@become wet@|@debte-, derte-@
+@believe@|@šute-@
+@bell@|@kuangarete, kuängarta, xuangarta@
+@bellows@|@huruhe, xürug@
+@below@|@dore, dorön, dörön, duar@
+@belt@|@bese, buse@
+@berserk@|@gäni@
+@beyond@|@chä-š@
+@big@|@šige, šihe, xig, xige@
+@big fire@|@tuimer, tuimur, tujmere@
+@big fish@|@auruhe@
+@big span@|@tue@
+@bind together@|@holebe-, xolbo- xolbu-@
+@bird@|@šowö@
+@bird net@|@xuarkë@
+@bird-cherry@|@mojle@
+@bitter@|@gasun, gasün@
+@blab@|@cholchi-@
+@black@|@hare, xar, xara@
+@blade@|@xir@
+@blind@|@balie, sogor, sogur, sohore, sokor@
+@blood@|@chos, chose@
+@bolster@|@bol, bolo@
+@bone@|@jas, jase@
+@boot-top@|@tur, turï@
+@boot-tree@|@kelbej-@
+@border@|@kižär@
+@bosom@|@erchü@
+@bottom@|@šigöre, šowöre@
+@bow@|@mata-, mata-, nem, tonggoi-@
+@bow-string@|@kubechi@
+@boy@|@non, nön@
+@brain@|@owo@
+@bran@|@äga, ähe, xäg@
+@branch@|@gesü, salä@
+@breast@|@cheži, eur, xeur@
+@breeding reindeer@|@sagän@
+@bridge@|@huruhe@
+@bridle@|@Gadar, Gaza-, Gazar, šolbur@
+@bristle@|@širgë@
+@broken@|@sujte-@
+@bushes@|@boto@
+@buttock@|@burs, burse, bursu@
+@button@|@tobechi, torchi, tuarch@
+@buttonhole@|@tuängal@
+@calf@|@tokol, tokoli, tokoli, tokul@
+@call@|@ori-@
+@camel@|@teme@
+@careful@|@gabšigen, kichel, kinima, kinima@
+@carpus@|@boGolžär@
+@cast iron@|@širem@
+@castrated@|@arete@
+@causative@|@seme-@
+@cave@|@agui@
+@cedar@|@koldon@
+@central pole@|@bagas@
+@centre@|@gol, gole@
+@character@|@usug, xusug@
+@charcoal@|@neurese@
+@chase@|@au@
+@cheap@|@kainde, kanda, kiand, kiande@
+@cheek@|@kachir, kachire, xachir@
+@cheekbone@|@šinä@
+@chest@|@erecü, kenggrtëg, kengkrdëg@
+@chew@|@enku-, umku-, unku-@
+@clay@|@šaur@
+@clean@|@aren, arün@
+@clever@|@sechin@
+@close@|@hä-, xä-@
+@cloud@|@eulen@
+@coat@|@dagu@
+@coin@|@žös, žöse@
+@cold@|@kuiten, kuitun, xuiten@
+@collect@|@komo-@
+@colour@|@ungu@
+@come near@|@halede-@
+@constantly@|@utel@
+@coral beads@|@sur, šur@
+@corner of the mouth@|@žabka, žabži, žebž@
+@correct@|@unen, žuhi@
+@cousin@|@bule@
+@cover@|@nemur@
+@covered@|@butün@
+@cow@|@une, unë@
+@craftsman@|@uran, waran@
+@crest@|@delbur, delin@
+@crime@|@erun@
+@crops@|@tare, taré@
+@cross (a mountain)@|@dau-, dawä, dawa-@
+@crosswise@|@hundulen, xundul@
+@cunning@|@želleg@
+@cup@|@ajaga@
+@curve@|@morchigoi, morchigui@
+@curved@|@matlen@
+@cushion@|@derbe, dereb, derebe@
+@cut small@|@kerechi-@
+@cycle year@|@žil, žile@
+@cypress@|@narese@
+@dais@|@terkin@
+@danger@|@aidaGan@
+@dark brown@|@kurel, xürin@
+@darkening@|@burgien, burï@
+@daughter@|@ugin, ujin, ujn@
+@daughter-in-law@|@ber, beri@
+@dawn@|@ur@
+@day@|@udure@
+@day before yesterday@|@kechig, kechihe, udur@
+@daylight@|@gegën@
+@deaf@|@dulï@
+@debt@|@ur, ure@
+@decoction@|@sumus@
+@deep@|@guen@
+@deep water@|@chele@
+@defect@|@gem, geme@
+@defective@|@demden@
+@deictic particle@|@ke, ké@
+@descendant@|@hure, xur@
+@desert@|@gob, gobi, here, ker, xer@
+@different@|@enchü@
+@difficult@|@hunde, kundu, xundu@
+@direction@|@žug, žuhe, žur@
+@dirt@|@bäs, bäse, hire@
+@dirty@|@kaltär@
+@dissolve@|@šinge-, šingge-, šingge-@
+@distinguish@|@jalegä, jalga-@
+@dog@|@nog, nogo, nogu, nohe@
+@double bone@|@širem@
+@down@|@lartagar@
+@downwards@|@xorö@
+@dream@|@sölong, žeud, žeude@
+@dry@|@xuare, xuärï@
+@duck@|@nause, nogese, nuagese@
+@dust@|@tuäral, tuarël, tuäs, tuäse@
+@early@|@erde, erte@
+@ear-ring@|@sujhe@
+@earth@|@gažir, gažire@
+@East@|@žun@
+@edge@|@hužure, xažü, xužür@
+@edge of knife@|@šire@
+@educate@|@teže-@
+@egg@|@enduge@
+@elder sister@|@egchi, egechi, ekchi, eke@
+@elder sister's husband@|@eukë@
+@elk@|@xandag@
+@elm@|@xailäs@
+@employ@|@žara-, žarë-@
+@empty@|@höson, xöson@
+@enclosure@|@hore, kuše, xaši, xore, xorë@
+@end@|@seul, seuli@
+@entirely@|@bolto@
+@erete@|@long ago@
+@everything@|@bugede@
+@exchange@|@aliži-, allži-, aralži-@
+@excrement@|@xargal@
+@experience@|@dadlag@
+@extremity@|@moiži, muži@
+@eye@|@nid, nide@
+@eye pus@|@laug, lögo@
+@facing@|@debel, del@
+@fade away@|@muku-@
+@fan@|@delbur, delebure@
+@far@|@hole, xol, xolo@
+@fart@|@xongë-, xongos@
+@fat@|@ëge, eugu, euwe@
+@father@|@echig, ecihe@
+@fathom@|@alda, alede@
+@feast@|@baire, bajir@
+@feather@|@hude, xudus(u)@
+@felt@|@šidegï, šidehe, šisegï@
+@female breast@|@mek, meke@
+@female deer@|@sugä@
+@female elk in pregnancy@|@suä@
+@female shaman@|@jadagan, jadegen@
+@ferocious@|@dogešin, dogšin, doršin@
+@fetters@|@šider@
+@few@|@chuen@
+@fifty@|@tab, tabi@
+@fight@|@tareke-@
+@file@|@kire, xaur-dägu, xaura@
+@find pleasure in something@|@täla-@
+@finger-nail@|@kimchi, kimechi@
+@fire@|@gal, gali@
+@first@|@teregun@
+@first snow@|@kiarëmsën@
+@fish@|@žagas, žaus, žause@
+@fish glue@|@chagu@
+@five@|@täbu, täw(an)@
+@flat@|@kabetegaj, kabtagë@
+@flee@|@gui-, tergul-@
+@floor@|@xigör@
+@fly@|@xilä@
+@foam@|@xues@
+@fog@|@manan, manen, manën@
+@fontanelle@|@žol@
+@food@|@badä, bedä, budä@
+@foot@|@kuli@
+@for the sake of@|@tualä(n), tualda, tuale@
+@forehead@|@mangil@
+@fork@|@sabër@
+@form@|@urgil@
+@formerly@|@ordön, warda@
+@fortress@|@balga@
+@forty@|@duch, duchi, duchi(n)@
+@four@|@durëb, durub, durube(n)@
+@fox@|@hunehe, xunug(u)@
+@freeze@|@xulde-, xuldu-@
+@fresh@|@serün@
+@freshet@|@ujir@
+@friend@|@ande, nugur@
+@frightened@|@xurgi-@
+@frog@|@meleg, melehe, melek@
+@frolic@|@ële@
+@front@|@heki, xeki@
+@front (of cloth)@|@enge, engge-le-@
+@full@|@delge, delgë-, delgere-@
+@fumigate@|@xoto-@
+@fur hat@|@malgaj@
+@game@|@balëg, balga, gures, gurese@
+@gap@|@žabka@
+@gelded goat@|@selek, selke@
+@get tired@|@alše-@
+@gloves@|@bël, bëli@
+@go@|@ichi, ichi-@
+@good@|@sain@
+@gossip@|@chögïn@
+@grab@|@balie-, bole-@
+@grapes@|@muchurete@
+@grass@|@eus, euse@
+@grasshopper@|@chärchän@
+@grave hill@|@obö@
+@grazing place@|@noteke, notog@
+@green@|@kuke@
+@grey of hair@|@bölal, böral, börol@
+@gristle@|@muemchi@
+@group@|@angg(i)@
+@guard@|@mana-, sagi-, sagï-, sahi-@
+@hail@|@muretule, murtul@
+@hair@|@huse, xus, xusu@
+@half@|@kaltag, xaltag@
+@half of a carcass@|@ergülen@
+@halter@|@dilö, žilö@
+@hammer@|@dabete-, tokšör, xaldugu, xallogu@
+@handle with hole@|@senži@
+@hard@|@buke, katen, katën, katö, katü, katü, xata-@
+@hare@|@taul, taulë@
+@harm@|@hore, huore, kor, xor@
+@having a white blaze@|@xalžin@
+@he@|@ïn@
+@head@|@turün@
+@headstall@|@logtu, lonto, lontu@
+@hear@|@sonse-, sonso-, sonsu-@
+@heart@|@žurehe, žurgu, žurug, žurugu@
+@hemp@|@olese, olso, olsu@
+@high@|@hundere, xundur@
+@hold@|@bari-@
+@hole@|@nugu@
+@hollow@|@kuëndï@
+@honour@|@aldar, aldür aldartï, aligiën@
+@hoof@|@torö@
+@hook@|@dege, sojö@
+@hoop@|@mer@
+@horn@|@heure, xeur@
+@horse@|@mor, mori@
+@horse(s)@|@adösa@
+@horseshoe@|@tak, take@
+@host@|@ežin@
+@house@|@balag, ger, geri@
+@household@|@ažil@
+@hump@|@buektue, bug, buku@
+@hundred@|@žau(n)@
+@I@|@bï, minï (gen.)@
+@ice@|@meis, meise, mejse@
+@illness@|@eur@
+@in a row@|@darä@
+@in vain@|@demï@
+@indistinct@|@balië@
+@influence@|@nule@
+@insect@|@horehe, xorgö, xorog, xorugu@
+@inside@|@dotor, duatar@
+@intelligence@|@segë, sekën@
+@intent@|@duar, duare@
+@intestines@|@gedes, getes, getese, gežese, ketes, ketese@
+@into small pieces@|@pichi@
+@island@|@alla, aral@
+@jackdaw@|@tägu@
+@jealousy@|@xatarkä-@
+@join@|@auleži, aulži-, žalegä-, žalga-@
+@joss-house@|@sum, sume@
+@juice@|@chüs, šil, šim, šime, šime-, šimi-@
+@just a little@|@arän@
+@keep in confinement@|@xadaglä-@
+@kettle@|@tuä, tugä, tuwä@
+@kid@|@unek@
+@knead@|@nogu-@
+@knee@|@ebeke-, tolchig, tuarechihe, twalchig@
+@knife for making nicks@|@onchi@
+@kumys@|@airag@
+@lake@|@naur, naure@
+@land@|@širetele, širö, širtal@
+@language@|@heli, usüe, xel, xeli@
+@large@|@au@
+@larva@|@xudu@
+@lasso@|@uarehe, urga@
+@lasso pole@|@urga@
+@last year's lamb@|@tulgu@
+@lazy@|@žalekö, žalkö@
+@leaf@|@larchi, larichi@
+@lean on@|@tole-, tolo-, tolu-@
+@leap@|@hesere-, xesre-, xesure-@
+@leather@|@kurbus@
+@leisure@|@chulë, šol@
+@level@|@tegši, terš, terši@
+@lie in ambush@|@gete-, getebei-@
+@life@|@amisa-@
+@light@|@gerel@
+@light (not heavy)@|@hungen, xungen, xungën@
+@light brown@|@kongor, kongore, xongör@
+@lightning@|@chakilgän@
+@linger@|@säta-, säte-@
+@lip@|@horele, xollo, xorol, xoröl@
+@liquid@|@šenggen, šinggen@
+@little@|@uchëk(en), uchëke(n), uchiken, uchïken, ušiken@
+@liver@|@helehe, xeleg@
+@long@|@orto, ortu@
+@loose one`s sharpness@|@müle-@
+@louse@|@büs@
+@love@|@duarele-, xairan@
+@lower jaw@|@erü@
+@luck@|@keši@
+@lungs@|@aurk@
+@lynx@|@šulüs@
+@magic@|@dom, domege@
+@magpie@|@säžig, säžihe@
+@make a notch@|@seile-@
+@man@|@er, ere, ergun@
+@manure@|@chire@
+@many@|@ilü, ualen, walan@
+@mare@|@geu@
+@marrow@|@nirö@
+@marrow-bone@|@šimëg, šimehe, šimug@
+@marvel@|@gajga-, gajhe-@
+@mate@|@xan, xani@
+@maternal relative@|@nagchu, nauchi, nauchö@
+@measure@|@hemeže, kem@
+@meat@|@maga, miag, miahe, niahe@
+@method@|@arehe, arga@
+@middle@|@duanda, duande@
+@middle ear@|@kolig, xolgi@
+@mild@|@nomehon, nomukan, nomüku-n, nomükung, nomxon@
+@milk@|@sü@
+@mind@|@uhän, ukä@
+@mirror@|@toli@
+@miserly@|@hareme, xarmachi(n)@
+@mist@|@onir@
+@molar tooth@|@arä@
+@month@|@sar, sare@
+@moon@|@sareule, sarül@
+@more than@|@hulü, xulü@
+@mortar@|@ogor@
+@mosquito@|@šomöl, šomöle@
+@mother@|@eg, ehe@
+@mother of pearl@|@tane, tang@
+@mound@|@kira@
+@mount@|@on-, one, ono-@
+@mountain@|@aul(a), aule@
+@mouth@|@am, ama@
+@mouthful@|@üchë@
+@muscles@|@balchirt@
+@musk@|@žär@
+@nail@|@gat, gatäs@
+@name@|@ner, nere@
+@navel@|@kuise@
+@near@|@uajre, wair@
+@neck@|@dunggu, hužü, kužü, xužü@
+@needle@|@žeu, žü@
+@nephew@|@že@
+@nest@|@heure, xeur@
+@new@|@šinken@
+@new-born@|@naleke, nalka@
+@new-born lamb@|@kurub@
+@news@|@aledere@
+@night@|@suni@
+@nit@|@kaur@
+@nomadize@|@neu-@
+@North@|@ar, arkën@
+@Northwards@|@huajne, xuai-në, xuaina@
+@nose@|@hamare, hamere, xamar@
+@not@|@es, ul, ule@
+@notice@|@sere-@
+@number@|@tö@
+@oak tree@|@carese@
+@oat@|@xualimpe@
+@oath@|@tanggarag@
+@obtain@|@ol-, ole-, olo-, wal-@
+@obvious@|@il, ile, ilët, ilte@
+@ocean@|@dalai, dale@
+@old man@|@utächi@
+@one@|@neg, nek, neke@
+@open one`s mouth@|@angai, anggï, xangai-@
+@origin@|@hožore@
+@original@|@angke@
+@orphan@|@unchin, unchun@
+@other@|@biši, bišin@
+@outlook@|@cari, dur, dure, šar, šarä, šari, šarï@
+@ox@|@hukure, xukur@
+@pair@|@žür(ü)@
+@palm (of hand)@|@halehe, xalaga, xalëg@
+@paper@|@chäs, chäse@
+@part@|@xob, xobi@
+@part of the throat@|@gure@
+@pea@|@borchö, borechö@
+@peace@|@ami@
+@people@|@iregen, irgen@
+@person@|@bej(e), huare, xuar@
+@pestle@|@nide-, nidunku, nude-@
+@petal@|@lavä@
+@pheasant@|@xorgöl@
+@pine tree@|@nars, narsu@
+@pipe@|@höle, xöl, xölë@
+@pitchfork@|@serë@
+@plait@|@gëžig, gežige@
+@point to@|@žori-@
+@pommel of a saddle@|@büreg@
+@pour water@|@sure@
+@praise@|@maktäl@
+@pregnancy@|@këli@
+@press into@|@chike-, chiki-@
+@property@|@umechi@
+@province@|@moži@
+@punish@|@choki-@
+@quick@|@horedun, xordon, xordun@
+@rabid@|@galežö, galžö@
+@rain@|@xuar@
+@rainbow@|@šäringï@
+@raise@|@erewe-, ergue-@
+@ram@|@koch@
+@ramson@|@mangës, manggïrs@
+@rank@|@žereg, žerehe, žerge, žerigi@
+@raven@|@xerë@
+@ravine@|@žalag@
+@raw@|@nilchun@
+@ready@|@belen@
+@reason@|@ochir@
+@receive a gift or favour@|@kurte-@
+@red@|@hulän, xulän@
+@reins@|@žolö@
+@relative by marriage@|@xadam@
+@relative-in-law@|@xodog, xodugu, xuada@
+@remain@|@hulede@
+@rib@|@haberihe, xabirëg, xabirga@
+@ridge@|@xarGaG@
+@right@|@žewul, žugi-@
+@river@|@mur, mure@
+@roam@|@kese-@
+@robber@|@hualehe, xualag@
+@rock@|@hade, xad, xada@
+@root@|@undus, unduse, xožör@
+@rope@|@dës@
+@round@|@tukuren, tukurin@
+@rush@|@kolese, kolso, xolso@
+@rust@|@žib, žibi@
+@sabre@|@selemij, selmï@
+@sack@|@xartag@
+@saddle@|@emel, emele@
+@saddle blanket@|@toke, toko, toku@
+@saddle cushion@|@debseg@
+@saliva@|@šille, šulese, šuls, šulse@
+@salty earth@|@xodir, xožir@
+@sand@|@eler@
+@scab@|@xamü, xangu@
+@scatter@|@tarä-, tare-@
+@scissors@|@kaich, kaichi, kajchi, xaichi@
+@scoop@|@chomö@
+@scratch@|@žurï-@
+@search by feeling@|@temile-, temïle-@
+@secret@|@dalda, dalede, dalida@
+@seize@|@šür-@
+@service@|@achi, alba, alebe@
+@set@|@taw-, tawi-@
+@shadow@|@seuder, suidur@
+@shagreen@|@sär@
+@shake dirt off@|@gubi-@
+@shallow@|@guän@
+@shape@|@žus, žuse@
+@sharp@|@korechin, xorchin@
+@sharpen@|@täri-@
+@sharp-shooter@|@meregen, mergen@
+@shave off@|@žorgo-, žorgu-@
+@shed@|@sarbëchi@
+@shin muscles@|@šilem@
+@shine@|@gialbagalži-, gialebeleži-@
+@shoe@|@gochör@
+@short@|@huakare, uakar@
+@shoulder@|@mur, mure, muru@
+@shoulderblade@|@dal, dale@
+@sickle@|@hadure, xada-, xadür@
+@side@|@kugë, kuwë@
+@side boards on saddle@|@karetese, kartas, xartas@
+@sigh@|@sürese@
+@silhouette@|@barä@
+@similar@|@adël, adil, adili, adili@
+@sin@|@nugul@
+@sinciput@|@choko@
+@sinew@|@širbes, širbus, sodol@
+@six@|@dirgö(n), žireuö, žirgö(n)@
+@sixty@|@žar, žara(n)@
+@skewer@|@šor, šorti@
+@skin@|@aras, arsa, xalis@
+@skirt@|@huareme, xuaram, xuarm(ä)@
+@sleep@|@noir, noire@
+@sleeve@|@kanchi, xanchi@
+@small@|@bage@
+@small hill@|@denži@
+@smell@|@xünu-@
+@smell of burning@|@kunšun@
+@smoke@|@honi, xon, xonëtu, xutä@
+@snake@|@mog, mogo, mogu@
+@snot@|@nios, nöse@
+@snow@|@chas, chase@
+@snow storm@|@šörgë@
+@sole of foot or footwear@|@uale@
+@son@|@keku, keuku@
+@song@|@dau@
+@son-in-law@|@huregen, kurgen, xurgen, xurgun@
+@soot@|@huë, xuë@
+@soul@|@sumese, sumse, sumsu@
+@South@|@emel, emele@
+@spark@|@nule@
+@spider@|@agaleži, äleži@
+@spine@|@sër@
+@spleen@|@chulechi, delig, delkin, delu(kin)@
+@splinter@|@koltorkë@
+@star@|@hode, xod, xodo@
+@starve@|@žudre-@
+@steep bank@|@ergi, ërig@
+@stem@|@heši, xeši@
+@steppe@|@tal, tale@
+@stick to@|@niä-@
+@stirrup@|@durëngg, durënggi@
+@stitch@|@oj-, oji-, ojo-, šire, šire-, širi-@
+@stone@|@cholö@
+@story@|@ülegire@
+@strength@|@kuchi@
+@strike@|@guwi-@
+@strong@|@chira@
+@stupid@|@mener-@
+@suffering@|@žobchon@
+@summer@|@nažir, nažire@
+@sun@|@nar, nare@
+@surplus@|@xulu-@
+@sweet@|@dasün@
+@swell up@|@xue-, xuere-@
+@swelling@|@habede-, xaudal, xawda-@
+@swift@|@turegun@
+@table@|@šire@
+@tail hair@|@kilgäs, kirgäs@
+@tail strap@|@xodurugu, xudurga@
+@take responsibility@|@dä-@
+@tamarisk@|@suahe@
+@tarbagan@|@tarbag, tarbëg, tarbug@
+@taste@|@anta@
+@tear off@|@hagare-, hagelä-, hagere-, xagalä-@
+@ten@|@harebe, xarab, xarba(n)@
+@tent@|@maikan@
+@testicle(s)@|@bür@
+@that@|@ïn, tere@
+@the temple of the head@|@žole@
+@thick@|@budun, budün, žužan, žužän@
+@thick growth@|@šige, sigï@
+@thigh@|@seuži@
+@thill@|@aral@
+@thin@|@narien, narin, ningen@
+@thin skin@|@halise, xalise@
+@thin skin on penis@|@hajlese, hajse@
+@thing@|@jüm@
+@thirty@|@gochi@
+@this@|@ene, ïn@
+@thither@|@chäši@
+@thou@|@šï, šinï (gen.)@
+@thousand@|@miange(n)@
+@thread@|@šiläs, šiläse, xiläs@
+@three@|@guarba(n), guarëb, guarebe@
+@threshold@|@basarag, basarga, basrag@
+@thumb@|@herehe, xereg, xergï@
+@time@|@chag(i)@
+@tinder@|@xuäl@
+@tired@|@xeche-, xechi-@
+@to add@|@neme-@
+@to address@|@xanda-@
+@to agree upon time@|@bolžö, bolžölo-@
+@to appoint@|@tomilë-@
+@to approve@|@žubše-@
+@to ask@|@asö, hasö, xasö-@
+@to bark@|@kochi-@
+@to be@|@bei@
+@to be a beggar@|@chakaral@
+@to be able@|@šada-, šade-, šadë-@
+@to be able to cut@|@dä-@
+@to be afraid@|@aj-@
+@to be ashamed@|@šichi-, xichi-@
+@to be born@|@ture-, turu-@
+@to be damaged@|@kokire-, kokirë-@
+@to be energetic@|@gužule-@
+@to be full@|@düre-@
+@to be happy@|@bais(a)-, baise-@
+@to be hungry@|@(x)unsu-, ulese-, ulsu-, unsu-, xunsu-@
+@to be ill@|@eude-@
+@to be mistaken@|@ende-@
+@to be oblique@|@kelbei-@
+@to be old@|@utel, utule-@
+@to be pierced@|@chöro-@
+@to beat in@|@šä-@
+@to become@|@bol-, bole-, bolo-@
+@to become dry@|@arbëi-@
+@to become separated@|@sala-@
+@to become sour@|@ede-@
+@to become white@|@chë-@
+@to belch@|@kekre-@
+@to bend@|@ebke-@
+@to bend backwards@|@gedï-@
+@to bite@|@xaži-, žau-@
+@to bless@|@hirbe-, šurël, xirbe-@
+@to blow@|@hejse-, xül-@
+@to blow nose@|@nï-, nö-@
+@to boast@|@bardan@
+@to boil@|@bachila-, bachile-@
+@to bow@|@gekelži-@
+@to branch off@|@sale@
+@to break@|@erde-, erede-@
+@to burn@|@tule-, tulu-, xaira-, xäri-@
+@to catch fire@|@šate-, šita-, šitä-, xita-, xitä-@
+@to change@|@hobili-, kälä-, ondolö-, xäla-, xobili-@
+@to chew@|@žežile-@
+@to choke@|@xagë-@
+@to choose@|@songgo-@
+@to chop@|@charchi-, chirch- cherchi-, ogtolo-@
+@to clean@|@archi-@
+@to cling to@|@žuära-@
+@to clothe@|@emese-, emse-, emsu-, umse-@
+@to clutch@|@xataku, xatku@
+@to come@|@ire-@
+@to come back@|@hari-, xari-@
+@to come in@|@važire-@
+@to control@|@kimchi-@
+@to count@|@tuäle@
+@to cover@|@butu-, kochi-, nembu-, xochi-@
+@to creep@|@milku-, mulku-@
+@to cross over@|@hedele-, xedelge-, xedle-@
+@to cry@|@aila-@
+@to curse@|@harä-, karä-, xarä-@
+@to defecate@|@bä-@
+@to deteriorate@|@goto-, gotorolgä-@
+@to die@|@ü-, ugu-@
+@to dig@|@malta-@
+@to drag@|@šore-, šoro-@
+@to drink@|@ö-@
+@to eat@|@ide-@
+@to embrace@|@teure-@
+@to enclose@|@kuši-, xaši-@
+@to enjoy@|@žarga-, žirga-@
+@to enter@|@ore-, uare-, war(a)-, warë-@
+@to fall@|@uane-, uanë-, wana-@
+@to feel sharp pain@|@šerkire-@
+@to fence@|@hori-@
+@to finish@|@dausa-@
+@to flow@|@ilu-, iwlëlgë-, orese-, orso-, orsu-@
+@to fly@|@degede-, derede-@
+@to foam@|@hue-, kues, xues@
+@to follow@|@daga-, dahe@
+@to forbid@|@xori-@
+@to forget@|@marete-, marta-, martë-, uante-@
+@to freeze@|@hulede, kulde-, xulde-@
+@to gape@|@darbalži-, darbëi-@
+@to gather@|@hore-, hurä, xore-, xoré-, xori-@
+@to get drunk@|@sogetö, soretu-, sorto-@
+@to get light@|@geji-@
+@to give@|@ug-, uk-, uke, uke-, uku-@
+@to go out@|@gar-, gare-, garë-@
+@to go round@|@ergi- xergi-, xorgi-@
+@to go to a place@|@ich-@
+@to grow@|@euse-, orege-, orgo-, orgu-@
+@to guess@|@tahaburi, taul, tauli@
+@to hang on (smth.)@|@el(e)we-, elgu-@
+@to heat@|@xala-, xale-, xalla-, xalön, xolö-@
+@to herd@|@adal-, adëlë-@
+@to hide@|@bugši-@
+@to hit target@|@nö-@
+@to intend@|@serkin@
+@to join@|@kabechie-@
+@to kill@|@ala-, ale@
+@to kiss@|@oži-@
+@to kneel@|@sugdu-@
+@to know@|@mede-@
+@to laugh@|@šinë-, šinëde-, xinë-@
+@to lay@|@deuse-@
+@to lead@|@kutele-, kutle-, kutule-@
+@to lick@|@dolö-@
+@to lie@|@kerete-, kert-, kerte-@
+@to listen@|@chinchilë-@
+@to look@|@šigë-, xaräla-@
+@to lose@|@alede-, ge-@
+@to love@|@nara-, täle-@
+@to make@|@ki-, kï-, šï-, xï-@
+@to meet@|@ortu-, uachire, wachira-@
+@to melt@|@hajle-@
+@to milk@|@sä-@
+@to mix@|@korku-@
+@to move@|@hudele-, hudule-, xudele-@
+@to move jaws@|@mekë-@
+@to mow@|@hade-, xadë-@
+@to nail@|@xadë-@
+@to neigh@|@ingilï-@
+@to open@|@në-@
+@to order@|@chakir-, žaki-, žeki-@
+@to overcast (in sewing)@|@kušulue-@
+@to paint@|@bode-, bodo-, bodu-@
+@to pass@|@däri-, nurši-@
+@to pay attention@|@töše-@
+@to peel off@|@haule-@
+@to pinch@|@karchi-, xawchi-@
+@to pound@|@nide-@
+@to pray@|@onši-@
+@to prepare@|@belede-, belke-@
+@to press@|@šaga-, šamla-@
+@to press down@|@dara-, dare-@
+@to prick@|@chichi-@
+@to pull@|@tata-, tate@
+@to pursue@|@nege-, nehe@
+@to quarrel@|@xerëldë-@
+@to reach@|@hure-, kur-, kure-, kuru-@
+@to regret@|@gemši-@
+@to repeat@|@dagi-@
+@to respect@|@hundule-, taki-@
+@to rest@|@amar(a)-@
+@to rise@|@undï-@
+@to rob@|@tale-@
+@to roll@|@kurbi-, xurbi-, xurbu-@
+@to rot@|@xü-@
+@to row@|@selbe, selebe-, selib@
+@to sacrifice@|@tai-@
+@to saddle@|@togo-, togu-, tohe-, toke-, toxo-@
+@to save@|@avra-@
+@to say@|@hele-, xele-@
+@to scatter@|@chachi-@
+@to search@|@goi-, guai-, tanslë-@
+@to see@|@už-, uži-@
+@to send@|@ilgë-@
+@to separate@|@xeile-@
+@to sew a button@|@xada-@
+@to sew on@|@hade-@
+@to sew with wide stitches@|@šiži-@
+@to shoot from a bow@|@harebe-, xarba-, xarma-@
+@to sing a song@|@uchule-@
+@to sit@|@sau-, sö-@
+@to slander@|@gežire@
+@to sleep@|@want-, wanta-@
+@to smear@|@šaure, šawar@
+@to sneeze@|@naitä-, naitë-@
+@to speak@|@geži@
+@to spend the night@|@dule-@
+@to spin@|@ër-, ëre-@
+@to spread@|@badara-, badare-@
+@to sprinkle@|@xesurë-@
+@to stand@|@bai-@
+@to step@|@aleku-, alku-, alxu-@
+@to step down@|@bö-@
+@to stir@|@samarë, samra-@
+@to stretch out@|@sonï-, sonu-@
+@to strike fire@|@chakil-@
+@to stumble@|@buduri-@
+@to suck@|@mekë-@
+@to suffer@|@žobe-, žogo-, žowo-@
+@to swallow@|@žalgi-, žilehe-@
+@to swell@|@xaü-@
+@to take@|@ali-, aw-@
+@to talk in one's sleep@|@žeule, žeule-@
+@to taste@|@anta-@
+@to teach@|@ža-@
+@to think@|@bode-, bodo-, bodu-@
+@to thresh@|@turši-@
+@to torture@|@erüle-@
+@to transport@|@te-@
+@to trot@|@katara-, katere, katrë-@
+@to try@|@kiche-@
+@to tuck up@|@sü-@
+@to twist@|@morki-@
+@to understand@|@goro-, guru-, ogo@
+@to urinate@|@se-, ses@
+@to wait@|@kulche-, kulchë-, kuleche-@
+@to walk@|@jau-, jaw(a)-@
+@to walk slowly@|@geldure-@
+@to walk submerging into water@|@umpa-, unpä-, xompä-, xumpa-@
+@to wash@|@uä-, ugä-@
+@to wave@|@deuse-@
+@to weave@|@nege-@
+@to whisper@|@šabkälchi-@
+@to win@|@konži-@
+@to wish@|@kese-, kuse-@
+@to wrap@|@orë-@
+@toe@|@horö, xorö@
+@together@|@hamete@
+@tongs@|@šisug, xisug@
+@tooth@|@šid, šide@
+@top of head@|@orë, xor@
+@top of milk@|@urum@
+@tough@|@bate, batu@
+@toward here@|@näši@
+@town@|@koton, xoton@
+@track@|@mure, väži@
+@transport@|@žugä-, žugü-@
+@travel@|@ajan, ajin@
+@tree@|@möd, möde@
+@trumpet horn@|@bure@
+@trust@|@itege-, itge-@
+@turn upside down@|@kumre-bëi-, kumuri-@
+@turtle@|@xabil@
+@tweezers@|@isü@
+@twenty@|@hori, xor, xori(n)@
+@twig@|@muchurtu@
+@two@|@hojire, xojir@
+@udder@|@delïn@
+@unexpected@|@genteken, gentken@
+@unfasten@|@taila-, tajle-@
+@unleash@|@žadlä-@
+@unpleasant@|@kechü@
+@up@|@de-, dër, derd-, derde-@
+@upwards@|@wëd@
+@utterly@|@šal@
+@vacant@|@sol, sual, suale@
+@variegated@|@alag, alahe@
+@vegetables@|@nuä(n), nugä, nuguo@
+@vehicle@|@tereg, terehe, terge@
+@Venus@|@cholpon@
+@vertebral gristles@|@nokch@
+@very@|@lab@
+@war@|@dain, daisan@
+@warm@|@dulän, kulche-@
+@warmth@|@hilchi, šilchi, šilichi@
+@wart@|@xuechi@
+@watch@|@xaröl@
+@water@|@os, ose, oso@
+@wave@|@dolegen, dolgen@
+@we@|@bä, bed, män-@
+@weak@|@žeulen, žeulén@
+@weep@|@uail-, uajle-, waila-@
+@welcome@|@orete-, orto-@
+@well@|@žä, že, žë@
+@West@|@baran, baren@
+@what@|@jö@
+@wheel@|@kurde, kuredu, kurese@
+@wheel spoke@|@hejgese@
+@where@|@hä-@
+@whip@|@minä@
+@white@|@chigän@
+@white hare@|@šandag@
+@who@|@ken, xä-, xen@
+@widow@|@belbisen, belibsen@
+@wife@|@eme@
+@wife of the elder brother@|@berigen@
+@wild goose@|@galö@
+@willow@|@baregase, bargäs, xudikän@
+@wind@|@hejn, kein, kïn, xein@
+@winter@|@eule, ugul@
+@withers@|@där, däre, däri@
+@without@|@uej, uwei@
+@woe@|@gai@
+@woman@|@emeg, emgun@
+@wood@|@oi@
+@word@|@usu@
+@work@|@uil, uile, weil@
+@wormwood@|@erem@
+@wrong@|@borö@
+@year@|@hön, xön@
+@year of life@|@nas, nase@
+@yellow@|@šar, šara, šari@
+@yellow of a horse@|@šarag, šarga@
+@yellowish@|@chebdëg@
+@yesterday@|@ore, oré, üdeši@
+@you (pl.)@|@tä@
+@young@|@žalö@
+@young dog or cat@|@gulgü, gulug@
+@young grass on river banks@|@kän@
+@younger sibling@|@deu@
+

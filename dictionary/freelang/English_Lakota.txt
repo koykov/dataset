@@ -1,0 +1,1807 @@
+@English@|@Lakota@
+@Author name@|@Mike Yarnold@
+@Font@|@Arial\18\Arial\18@
+@(Command statement - Female singular)@|@ye@
+@(Command statement - Male plural)@|@po@
+@(Command statement - Male singular)@|@yo@
+@(Female gender ending  in statement - Singular)@|@ksto@
+@(Female gender ending in statement - plural)@|@pe@
+@(If a verb ends in u@|@welo, wo@
+@(Making a question - female)@|@he@
+@(making a question)@|@hwo@
+@(Male gender ending in statement  - singular)@|@yeló@
+@(Male gender ending in statement - plural)@|@peló@
+@(negative marker)@|@Šní@
+@(School Terms)@|@ȟláȟla@
+@(shows relationship)@|@Ya@
+@[a]     (IPA)@|@A a@
+@[ã]    (IPA)@|@Aŋ aŋ@
+@[b]    (IPA)@|@B b@
+@[e]    (IPA)@|@E e@
+@[ʃ]    (IPA)@|@Š š@
+@[ɡ]    (IPA)@|@G g@
+@[h]    (IPA)@|@H h@
+@[ɪ]    (IPA)@|@I i@
+@[ĩ]    (IPA)@|@Iŋ iŋ@
+@[j]    (IPA)@|@Y y@
+@[k]    (IPA)@|@K k@
+@[kʼ]    (IPA)@|@K’ k’@
+@[kʰ]    (IPA)@|@Kh kh@
+@[kˣ]    (IPA)@|@Kȟ kȟ@
+@[l]    (IPA)@|@L l@
+@[m]    (IPA)@|@M m@
+@[n]    (IPA)@|@N n@
+@[o]    (IPA)@|@O o@
+@[p]    (IPA)@|@P p@
+@[pʼ]    (IPA)@|@P’ p’@
+@[pʰ]    (IPA)@|@Ph ph@
+@[pˣ]    (IPA)@|@Pȟ pȟ@
+@[ʁ] / [ʀ]    (IPA)@|@Ǧ ǧ@
+@[s]    (IPA)@|@S s@
+@[t]    (IPA)@|@T t@
+@[tʼ]    (IPA)@|@T’ t’@
+@[tʃ]    (IPA)@|@Č č@
+@[tʃ']    (IPA)@|@Č’ č’@
+@[tʃʰ]    (IPA)@|@Čh čh@
+@[tʰ]    (IPA)@|@Th th@
+@[tˣ]    (IPA)@|@Tȟ tȟ@
+@[ʊ]    (IPA)@|@U u@
+@[ʊ̃]    (IPA)@|@Uŋ uŋ@
+@[w]    (IPA)@|@W w@
+@[z]    (IPA)@|@Z z@
+@[ʒ]    (IPA)@|@Ž ž@
+@[ʔ]    (IPA)@|@’@
+@[χ]    (IPA)@|@Ȟ ȟ@
+@1 (in counting)@|@Wáŋči@
+@1 (in sentences)@|@Waŋží@
+@10@|@wikčémna@
+@100@|@opáwiŋǧe@
+@1000@|@kȟoktá, kȟoktópawiŋǧe@
+@11@|@aké waŋží@
+@12@|@aké núŋpa@
+@128@|@opáwiŋǧe waŋží sáŋm wikčémna núŋpa sáŋm šaglóǧaŋ@
+@13@|@aké yámni@
+@14@|@aké tópa@
+@15@|@aké záptaŋ@
+@16@|@aké šákpe@
+@17@|@aké šakówiŋ@
+@18@|@aké šaglóǧaŋ@
+@19@|@aké napčíyuŋka@
+@2@|@Núŋpa@
+@20@|@wikčémna núŋpa@
+@21@|@wikčémna núŋpa sáŋm waŋží@
+@22@|@wikčémna núŋpa sáŋm núŋpa@
+@23@|@wikčémna núŋpa sáŋm yámni@
+@24@|@wikčémna núŋpa sáŋm tópa@
+@25@|@wikčémna núŋpa sáŋm záptaŋ@
+@26@|@wikčémna núŋpa sáŋm šákpe@
+@27@|@wikčémna núŋpa sáŋm šakówiŋ@
+@28@|@wikčémna núŋpa sáŋm šaglóǧaŋ@
+@29@|@wikčémna núŋpa sáŋm napčíyuŋka@
+@3@|@Yámni@
+@30@|@wikčémna yámni@
+@349@|@opáwiŋǧe yámni sáŋm wikčémna tópa sáŋm napčíyuŋka@
+@38@|@wikčémna yámni sáŋm šaglóǧaŋ@
+@4@|@Tópa@
+@40@|@wikčémna tópa@
+@45@|@wikčémna tópa sáŋm záptaŋ@
+@5@|@Záptaŋ@
+@50@|@wikčémna záptaŋ@
+@53@|@wikčémna záptaŋ sáŋm yámni@
+@6@|@šákpe@
+@60@|@wikčémna šákpe@
+@61@|@wikčémna šákpe sáŋm waŋží@
+@7@|@šakówiŋ@
+@70@|@wikčémna šakówiŋ@
+@77@|@wikčémna šakówiŋ sáŋm šakówiŋ@
+@8@|@šaglóǧaŋ@
+@80@|@wikčémna šaglóǧaŋ@
+@9@|@napčíyuŋka@
+@90@|@wikčémna napčíyuŋka@
+@a@|@ȟáŋ isláye, makȟóčhe owápi, teȟmúǧa, wablúška, Wagmú, waŋ, wayáka@
+@act crazy (v)@|@witkótkoka, witkótkokA@
+@Acts the Bear@|@Mat‘o Wakiye@
+@Addressing Relatives@|@Čhékičhiyapi@
+@afraid of something (v)@|@kȟokípȟA@
+@Afternoon@|@wícokaŋhiyaya@
+@Algae@|@mnítȟola, mniwáthičoǧa@
+@All my relations@|@Mitákuye Oyás’iŋ@
+@Alphabet@|@Óowaptaya@
+@Altar@|@hóčhoka, owáŋka wakȟáŋ@
+@American elm@|@p’é@
+@American Horse@|@Wašicu T'ašuŋka@
+@Among@|@óhaŋ@
+@an@|@waŋ@
+@Analysis@|@Khiyéla Iwaƞyaƞka pi/pelo@
+@And help all the people walk the red road@|@canku luta ogna mani owica kiya po, Na hun oyate oyasin@
+@And how are you?@|@Nis tog?@
+@and the Wisdom to know the difference@|@Kin wounspe un wowablezeh iwachu owakihi kte/lo@
+@and upwards@|@Na waka tinya, na waka tinya ahitonwan po@
+@And upwards@|@Na waka tinya, na waka tinya ahitonwan po@
+@And what is your name?@|@Na níš táku eníčiyapi he/hwo? (F/M speaker)@
+@And you@|@Na níš, tuktél yathí he/hwo? (F/M speaker)@
+@and you?@|@Matáŋyaŋ, na níš?, Taŋyáŋ waúŋ@
+@angry@|@čhaŋzéka@
+@Animals@|@wamákȟaškaŋ@
+@Ankle@|@iškáhu@
+@Answer me@|@Amayupta yo/ye@
+@Ant@|@tȟažúška@
+@Antelope@|@ikpí sáŋ, niǧé sáŋla@
+@any@|@waŋží@
+@Anything else?@|@Taku ko?@
+@Apple@|@tȟaspáŋ@
+@Applied science@|@Wóunspé aphasiya aphantun (pi/pelo)@
+@apply a pursuit@|@Wóunspé aphasiya aphantun (pi/pelo)@
+@Appreciation ceremony with food@|@Wóphila Aŋpétu@
+@April - Moon of Green Grass@|@Pȟeží Tȟó Wí@
+@Are they good?@|@Hená waštépi hwo?@
+@Are you all doing/sitting okay?@|@Tanyan nankab hwo/he?@
+@Are you all ready?@|@Winyeya nankab hwo/he?@
+@Are you finished?@|@Nígluštaƞ hwo?@
+@Are you finished? (Female speaking)@|@Nígluštaƞ he?@
+@Are you full? - (food and drink)@|@Íniphi he@
+@Are you going home now?@|@Wana yakiyagla hwo/he?@
+@Are you going to go to eat?@|@Wol nin kta hwo/he?@
+@Are you going to go with me?@|@Kici mayanin kta hwo/he?@
+@Are you going to use this?@|@Le nun kta hwo/he?@
+@Are you happy?@|@Iyonikpi hwo/he?@
+@Are you hungry?@|@Loyáčhiŋ he/hwo (F/M speaker)@
+@Are you looking for your navel cord?@|@Cekpa oyakile hwo/he?  (M/F speaker)@
+@Are you lost?@|@Yanuni hwo/he? (M/F speaker)@
+@Are you thirsty?@|@Ínipuza he@
+@Armpit@|@á@
+@Arrow River@|@Wahiŋkpe Wakpala@
+@Arrowstone River@|@Waŋhi Ok’edaŋ Watpa (Santee Sioux)@
+@Ash tree@|@pséȟtiŋ@
+@Aspirin@|@natá yazáŋpi pȟežúta@
+@At@|@El@
+@Attorney General@|@wákhiya itȟáŋčhaŋ@
+@August - Moon of Ripening/Harvest Moon@|@Wasútȟuŋ Wí@
+@Aunt@|@iná (if mother’s sister) (F speaker), Tȟuŋwíŋ (M or F speaker)@
+@autumn@|@ptaŋyétu@
+@baby@|@hokšíčala@
+@Back (body part)@|@čhuwí@
+@Back (Body Parts)@|@čhuwí@
+@Bacon@|@wašíŋ@
+@Bad@|@šíča@
+@Bad River@|@Wakpa Šice@
+@Bad weather@|@ošíčeča@
+@Badger@|@ȟoká@
+@Badlands@|@Makȟóšiča, Oškiškita@
+@Baked beans@|@Omníča špaŋyáŋ@
+@Bald eagle@|@anúŋkȟasaŋ@
+@Banana@|@zíškopa@
+@Band-aid@|@ȟáŋ wíyaskabye@
+@Basic science@|@Ikčé wóunspé ki aphasya (pi/pelo)@
+@Bay@|@mniówaŋča okáȟmiŋ@
+@Be@|@Úŋ@
+@be one@|@waŋží@
+@Be one of a specific group@|@waŋží@
+@Be quiet!@|@Iníla!@
+@Beads Lake@|@Pšit'ola Ok’e@
+@Bear@|@matȟó@
+@Bear Brain@|@Nasula (Ivan Starr)@
+@Bear Weasel@|@It'uŋka Saŋ Mat‘o@
+@Beard@|@phuthíŋhiŋ@
+@Beaver@|@čhápa@
+@Becoming a Woman Rite@|@Isnáthi Awíčhalowaŋpi@
+@Bedbug@|@hálablaská@
+@Beet@|@pȟaŋǧí šašá@
+@Bells@|@ȟláȟla@
+@Belonging to (posessive pronoun)@|@Tȟawá@
+@Below zero cold@|@osní šíča@
+@Belt@|@iphíyaka@
+@Big Bend@|@Kaȟmi T'aŋka@
+@Big Dipper@|@wichákhiyuhapi@
+@Big Eagle@|@Wambdi T'aŋka  (Santee Sioux)@
+@Big Sioux@|@C'aŋ Kasdata (Tree Crept Up On) (Santee Sioux), Watpa Ipakšaŋ, Watpa Ipakšaŋ  (River Bend)  (Santee Sioux)@
+@Big Thunder@|@Wakiŋyaŋ T'aŋka  (Santee Sioux)@
+@Big Tobacco@|@C‘aŋdi T'aŋka@
+@Big Village Lake@|@Mde T'ipi T'aŋka  (Santee Sioux)@
+@Big Woman (aka Mary Big Woman Under Baggage)  see Under Baggage@|@Wiŋyan Taŋka@
+@Bighorn Mountains@|@Ȟeyúškiška@
+@Bighorn River@|@Ciŋškayapi Wakpala@
+@Bills@|@gnašká há, mniȟúha mázaska@
+@Bird@|@ziŋtkála@
+@Bitter root@|@siŋkpȟé tȟawóyute@
+@Black@|@Sápa@
+@Black bird@|@ziŋtkála sápa@
+@Black Eagle@|@Waŋbli Sapa  (Eugene Buechel)@
+@Black Hills@|@Ḣe Sapa, Paha Sapa@
+@Black soles of feet (Blackfoot)@|@Sihásapa@
+@Black Spotted Horse@|@Suŋgdeška Sapa (David Zephier)  (Yankton Sioux)@
+@Black Tail people@|@Na wiyohinyanpata, sinte sapila oyate ahitonwan po@
+@Black walnut tree@|@gmahú@
+@Blizzard@|@iwóblu@
+@Blood@|@Wé@
+@Blue@|@Tȟó@
+@Blue Cloud@|@Maḣpiya T‘o (William Bean) (Yankton Sioux)@
+@Blue Earth@|@Mak'a T'o Oyuze@
+@Bluebird@|@ziŋtkátȟo@
+@Boating Lake@|@Mde Watop'apidaŋ (Santee Sioux)@
+@Body@|@tȟaŋčháŋ@
+@Bon voyage!@|@Taŋyáŋ ománi (m>sg), Taŋyáŋ ománi pe (f>pl), Taŋyáŋ ománi po (m>pl), Taŋyáŋ ománi ye (f>sg)@
+@Book@|@wówapi@
+@Boots@|@čháŋhaŋpa háŋska, iškáhu háŋska@
+@Bowl@|@wakší škopá@
+@Box elder tree@|@čhaŋšúška@
+@Boy@|@hokšíla@
+@Boy from an incestuous relationship@|@wicogluze hokšila@
+@Braids (in hair)@|@osúŋ@
+@Brains@|@nasúla@
+@Brave Dog@|@Suŋka Ohitika@
+@Bravery@|@wóohitika@
+@Bread@|@Aǧúyapi@
+@Bread crust@|@aǧúyapi sáka@
+@Bread rolls@|@aǧúyapi pagmúŋpi@
+@Bring that to me@|@He makau wo/we@
+@Brother-in-law@|@šič’é (F speaker), tȟaŋháŋ (M speaker)@
+@Brother-in-law (of man)@|@tĥaŋháŋ@
+@Brown@|@Ǧí@
+@Brown Bear@|@Mat‘o Ġi@
+@Brush@|@čhaŋȟáka, čhaŋpámna@
+@Buffalo bull@|@tȟatȟáŋka@
+@Buffalo Comes to Life@|@T‘at‘aŋka Kinina (Yankton Sioux)@
+@Buffalo cow@|@ptewíŋyela@
+@Buffalo Gap@|@T'at'aŋka Mak'alȟpaya (Where the Buffalo Fell to Earth)@
+@Buffalo people@|@Na waziyata, tatunka oyate kin ahitonwan po@
+@buffaloberries@|@maštíŋčaphute@
+@Bug@|@wablúška@
+@Bullfrog@|@wóš’iŋ@
+@Burning Earth@|@Mak‘a Ideya (He Bums the Earth) (Sisseton Sioux)@
+@Burnt thighs@|@Sičháŋǧu@
+@Bury something@|@ȟá@
+@Bus@|@wayáwa itȟókšu@
+@Bushes@|@čhaŋȟáka, čhaŋpámna@
+@Bushotter@|@Ot‘eḣi (Hardship)@
+@Butcher's knife@|@míla kaš’íŋ@
+@Butter@|@Asáŋpi wigli@
+@Butterfly@|@kimímela, kimímila@
+@Buzzard@|@hečá@
+@Bye@|@tókša@
+@Cactus@|@uŋkčéla pȟepȟé@
+@Cake@|@aǧúyapi skúyela@
+@Calculator@|@wíslolye@
+@Calf (animal)@|@ptehíŋčala@
+@Call the police!@|@Čhaŋksáyuhá kiŋ wičhákiyuȟla yo (m>sg)/ye (f>sg)/po (m>pl)/pe (f>pl)@
+@Called@|@Ečíyapi@
+@Calling of the spirit@|@uŋȟnáǧičala hotȟúŋpi@
+@Camel@|@čhuwínuŋǧa@
+@Camp at the end@|@Iháŋktȟuŋwaŋ@
+@Candy@|@čhaŋháŋpšaša, čhaŋmskúya@
+@Canyon@|@ósmaka, wakȟógla@
+@Captive@|@wayáka@
+@Carpenter@|@thiáphiya@
+@Carrot@|@pȟaŋǧí ziz@
+@Castle Rock@|@Iŋyaŋ Bosdata  (Santee Sioux)@
+@Cat@|@igmú@
+@Catch a woman@|@winyuze@
+@Cattle@|@ptegléška@
+@Cedar@|@ȟaŋté@
+@Chair@|@oákaŋke@
+@Chamberlain@|@Mak'a T'ipi (Sod House Town)@
+@Change (money)@|@yušpúšpupi@
+@Charger@|@Waanataŋ@
+@Charging Bear@|@Mat‘o T'akpeva (Yankton Sioux)@
+@Cheek@|@tȟapȟúŋ@
+@Cheese@|@asáŋpi sutá@
+@Chest (body part)@|@makhú@
+@Cheyenne River@|@Sahiyena Oju Watpa (River where the Cheyenne Planted)  (Santee Sioux), Wakpá Wašté@
+@Chickadee@|@škípipila@
+@Chicken@|@kȟokȟóyaȟ’aŋla@
+@Child@|@wakȟáŋyeža@
+@Children@|@wakȟáŋyeža@
+@Chin@|@ikhú@
+@Chippewa River@|@Maya Wak'aŋ (Mysterious Cliff)@
+@Chokecherries@|@čhaŋpȟá@
+@Chokecherry@|@chaŋpȟá@
+@Clam@|@thúki@
+@Climbing Eagle@|@Waŋbli K‘iyahe@
+@Clinical trials@|@Pejuta ounye uha wóunspé ki henna wa yasu yakel pasi (pi/pelo)@
+@Clock@|@mázaškaŋškaŋ@
+@Close it up@|@Nataka yo/ye@
+@Clothing@|@Hayápi@
+@Cloud Man@|@Maḣpiya Wicašta (Santee Sioux)@
+@Clouds@|@maȟpíya@
+@Cloudy@|@Maȟpiya@
+@Cockerel's comb@|@pȟesá@
+@Cocoon@|@wamníyomni - (pronounced  wamuhníomuhni)@
+@Coffee@|@pȟežúta sáp, Wakȟálapi@
+@Coins@|@kašpápi@
+@Cold@|@osní@
+@Cold (object)@|@osní@
+@Cold weather@|@Osní@
+@Collaboration@|@Witayela oyate taku kpahsi yakel wóichuƞ@
+@Colours@|@Oówa@
+@Colt (animal)@|@šuŋkčhíŋčala@
+@Come again@|@Akhé ú we/wo (F/M speaker)@
+@Come closer@|@Sam kiyela u wo/we@
+@Come here once@|@Hiyu yeto@
+@Come here!@|@Ú wo!@
+@Come here! (Female speaker)@|@Hiyú we!@
+@Come here! (Male speaker)@|@Hiyú wo!@
+@Come in@|@Thimá hiyú we/wo (F/M speaker)@
+@Come. (to more than one person or to a group)@|@Hiyú pe/po (F/M speaker)@
+@Come. (to one person)@|@Hiyú we/wo (F/M speaker)@
+@Comes Out Bear@|@Mat‘o Inap‘a@
+@Common man@|@ikčé wičháša@
+@Community-based Participatory Research@|@Pta yela oyate ki takuƞ wounspe itahan pasiyakel skan (pi/pelo)@
+@compassion@|@wówauŋšila@
+@Computer@|@wóuŋspe omnáye@
+@Conduct yourself like a Lakota@|@Lakota s'e opiic'iya yo/ye@
+@Coneflower@|@ičáȟpe hú, úŋglakčapi@
+@Consider to be related@|@takuye@
+@Controlled group@|@Taku un oyate oshpaya witap@
+@Cook@|@wóhAŋ@
+@Cook something@|@olíȟ’aŋ ye/yo (F/M speaker)@
+@Cooking@|@lol’íȟ’aŋ@
+@Corn@|@Wagmíza@
+@Corn with husk on@|@wahúwapa@
+@Cottonwood@|@čhaŋyáȟ’u, wáǧačhaŋ@
+@Cough Medicine@|@hoȟpápi pȟežúta@
+@Covet@|@kúŋ@
+@Cow@|@múla - (baby word), pté@
+@Cowboy hat@|@pteóle wapȟóštaŋ, wapȟóštaŋ tȟáŋka@
+@Coyote@|@šuŋgmánitu@
+@crawl (v)@|@sloháŋ@
+@Crayfish@|@matúgna@
+@Crazy Bear@|@Mat'o Witko@
+@Crazy Horse@|@T'asuŋke Witko  (His horse is crazy)@
+@Crazy Horse Mountain@|@T'ašuŋke Witko Ite Kakaŋpi He@
+@Cream@|@ȟáŋ isláye@
+@Creator@|@Wakȟáŋ Tȟáŋka, Wakȟáŋ Tȟáŋka@
+@Creature@|@táku@
+@Cricket (insect)@|@thiyóšlola@
+@Cross-eyed@|@ištá ȟmiȟmí@
+@Crow@|@kaŋǧí@
+@Crow Creek@|@K'aŋgi Ok'ute  (Where they Shot the Crow)@
+@Crow River@|@K'aŋǧi Šuŋ Watpa  (Crow Feather Creek)  (Santee Sioux)@
+@cry (v)@|@cry@
+@Crystal Lake@|@Izuza Mde (Whetstone Lake) (Santee Sioux)@
+@Cuckoo spit (on plants)@|@wanáǧi tȟašóše@
+@Cucumber@|@kuŋkúŋ@
+@Cup@|@wíyatke@
+@Custer@|@P‘ehiŋ Haŋska (Long Hair)@
+@Dad wants a pop@|@Até kapȟópapi hé čhíŋ@
+@Dam (man-made)@|@mninátȟake@
+@dance (v)@|@wačhí@
+@Daughter@|@Čhuƞkš (M or F speaker), Čhuƞkší@
+@Daughter-in-law@|@tȟakóš  (M or F speaker), wiwóȟa@
+@Day@|@Aŋpétu@
+@Dearie@|@Dearie, wanciyanka wau na waun welo@
+@deceive (v)@|@gnayÁŋ@
+@December - Moon of Mid-winter@|@Waníčhokaŋ Wí@
+@Deep snow@|@wašmé@
+@Deep water@|@mni šmé@
+@Deer@|@tháȟča@
+@Deer hide@|@tĥahá@
+@Denver@|@Ȟe Ška Ot'uŋwahe  (Rocky Mountain City)@
+@Des Moines River@|@Iŋyaŋ Šaša@
+@Descriptive@|@Iwoglaka@
+@Desk@|@akáŋ wówapi@
+@despise (v)@|@waȟtéla šni@
+@Destination@|@Tókhiya@
+@Devil’s Lake@|@Mni Wak'aŋ (Mysterious Water)@
+@Devil’s Lake Mountain@|@Mni Wak'aŋ C'aŋte (Heart of the Mysterious Water)@
+@Dictionary@|@wičhóiye wówapi@
+@Did you bring some leftovers home?@|@Watȟéča etáŋ ayágli he/hwo? (F/M speaker)@
+@Did you fill up the water container?@|@Mni ognake kin ojuyaya hwo/he?@
+@Did you see a dog?@|@Šuŋká waŋ waŋláka he@
+@Dime (money)@|@kašpápi waŋží@
+@Diploma@|@wóuŋspe wówapi sutá@
+@Disobedient@|@wánaǧoptaŋ šni@
+@Disrespectful@|@waóhola šni@
+@Ditch (noun)@|@oškókpa@
+@DNA@|@Wé@
+@Do it better@|@Sam tanyan ecun wo/we@
+@Do it!@|@Ečhúƞ wo!@
+@Do you all understand?@|@Oyakahnigab hwo/he?@
+@Do you have a pencil?@|@Wíčazo luhá he@
+@Do you have a problem?@|@Táku iníčakiža he/hwo? (F/M speaker)@
+@Do you have a question?@|@Woiyunge wanji luha hwo/he?@
+@Do you have a stomach ache?@|@Thezí niyázaŋ he/hwo? (F/M speaker)@
+@Do you know the answer?@|@Woayupte kin slolyaya hwo/he?@
+@Do you know?@|@Slolyaya hwo/he?@
+@Do you like this?@|@Le wasteyalaka hwo/he?@
+@Do you speak Lakota?@|@Lakotiyaya hwo/he?@
+@Do you speak X?@|@X iyá wóyaglaka he?@
+@Do you want a pop?@|@Kapȟópapi yačhíŋ he@
+@Do you want me to do it?@|@Ecamun yacin hwo?@
+@Do you want me to help you?@|@Ociciya yacin hwo/he?@
+@Do you want some?@|@Hunh yacin hwo/he?@
+@Doctor@|@pȟežúta wičháša@
+@Doe@|@tȟaȟča wíŋyela@
+@Does mom have a pencil?@|@Iná wičázo hé yuha he@
+@Dog@|@šúŋka@
+@Dollar (one)@|@mázaska waŋží@
+@Domestic Animals@|@Waníyaŋpi@
+@Don’t be afraid@|@Kȟokípȟe šni ye/yo (F/M speaker)@
+@Don’t do it!@|@Ečhúŋ šni ye/yo (F/M speaker)@
+@Don’t do that@|@Héčhuŋ šni ye/yo (F/M speaker)@
+@Donkey@|@šúŋšuŋla@
+@Don't be scared@|@Wakokpe sni yo/ye@
+@Don't be shy@|@Wistece sni yo/ye@
+@Don't bicker@|@Ahoyekiciyap sni yo/ye@
+@Don't cause trouble@|@Wosice sni yo/ye@
+@Don't cry@|@Ceye sni yo/ye@
+@Don't do it yet@|@Nahahci ecun sni yo/ye@
+@Don't do that any more@|@Hehanyan hecun sni yo/ye@
+@Don't drop it@|@Yusna sni yo/ye@
+@Don't fight!@|@Kicizap sni yo/ye@
+@Don't go yet@|@Nahahci ye sni yo/ye@
+@Don't make something out of it@|@Yutaku sni yo/ye@
+@Don't miss (the shot)@|@Kasna sni yo/ye@
+@Don't pout@|@Wacinko sni yo/ye@
+@Don't tell them@|@Owicakiyake sni yo/ye@
+@Don't worry about it@|@Itokab sni yo/ye@
+@Donut@|@aǧúyabskuyagmigma@
+@Door man@|@thiyópa awáŋyaŋka@
+@Dotted greyfeather@|@tȟat’éčhaŋnuǧa@
+@doubt someone (v)@|@čhet’úŋgla@
+@doubt something@|@čhet’úŋgla@
+@Dragonfly@|@thuswéčha@
+@dream (v)@|@iháŋbla, wíhaŋbla@
+@Dried corn@|@waštúŋkala@
+@Dried meat@|@pápa@
+@Dried meat w/cherries & pemmican@|@wasná@
+@Dried pounded meat@|@wakápȟapi@
+@Drifting clouds@|@maȟpíya kaȟwóke@
+@Drinks@|@WÓYATKE@
+@Drizzle@|@swuyéla hiŋhé@
+@Drowsy@|@ȟwá@
+@Drum@|@čháŋčheǧa@
+@Dry@|@púza@
+@Duck (bird)@|@maǧá, maǧáksiča@
+@During this day@|@aŋpéhaŋ@
+@Dwells at the place of the knife flint@|@Isáŋyathi@
+@Dwels among the leaves@|@Waȟpétȟuŋ@
+@Each other (reflexive infix)@|@kici@
+@Eagle@|@waŋblí     (pronounced   wamlí)@
+@Eagle Bird@|@Ziŋtkala Waŋbli@
+@Eagle Butte@|@Waŋbli Hoȟpi (Eagle’s Nest)@
+@Eagle Dog@|@Suŋka Waŋbdi  (Yankton Sioux)@
+@Eagle people@|@Na itokagata, wambli oyate kin ahitonwan po@
+@Eagle Pipe@|@C'aŋnuŋpa Waŋbli@
+@Eagle Track@|@Waŋbdi Owe  (Yankton Sioux)@
+@Ear@|@núŋǧe@
+@Earth@|@makȟá@
+@East@|@wiyóhiyaŋpata@
+@Eat@|@wóta, wótA@
+@Eat (to more than one personor to a group)@|@Wóta pe/po (F/M speaker)@
+@Eat (to one person)@|@Wóta ye/yo (F/M speaker)@
+@Eat it up@|@Tebya yo/ye@
+@Edward Rough Country@|@Soški  (Yankton Sioux)@
+@Eel@|@hoká@
+@Egg@|@wítka@
+@Elbow@|@išpá@
+@Elderly man@|@wičháȟčala@
+@Elderly woman@|@winúȟčala@
+@Elephant@|@phutéwokič’u@
+@Elk@|@heȟáka@
+@Elk River@|@Heȟaka Wakpa@
+@Elm Creek@|@C'aŋ Šuška Watpadaŋ (Box Elder Creek)  (Santee Sioux)@
+@Elm tree@|@p’e čháŋ@
+@Emotions@|@Čhaŋté Yuškáŋškaŋpi@
+@End of the camp entrance@|@Húŋkpapȟa@
+@English CH in Chalk@|@čh@
+@English G in Gorilla@|@g@
+@English J in Jury@|@č@
+@English K in Kin@|@kh@
+@English K in Skill@|@k@
+@English P in Pill@|@ph@
+@English P in Spill@|@p@
+@English S in Pleasure@|@ž@
+@English SH in Shell@|@š@
+@English T in Still@|@t@
+@English T in Tin@|@th@
+@Envelope@|@wówapi ožúha@
+@Epidemiology@|@Ska oyate wokhúža ithahaƞ wóunspé iphasi yakel wichoškan@
+@Evening@|@Ȟtayétu@
+@Everybody come here! (Female speaker)@|@Hiyú pe!@
+@Everybody come here! (Male speaker)@|@Hiyú po!@
+@Everybody go! (Female speaker)@|@Iyáya pe!@
+@Everybody go! (Male speaker)@|@Iyáya po!@
+@Excited@|@iyúškiŋ@
+@Excuse me@|@Émičiktuŋža yo (m>sg)@
+@Experimentalist@|@Taku un unspepi khtacha iutha (pi/pelo)@
+@extended family@|@thiyóšpaye@
+@Extended family@|@THIÓŠPAYE@
+@Eye@|@ištá@
+@Eyebrow@|@ištáȟehiŋ@
+@Face@|@ité@
+@Fall (season)@|@ptaŋyétu@
+@Fall River@|@Mni Woblu@
+@Family@|@thiwáhe, Tiwáhe@
+@Fast@|@lúzahaŋ, oȟ’áŋkȟo@
+@Fast Horse@|@T'asuŋke Oḣ'apk'o@
+@Fast Lightning@|@Wak'aŋ Hdi Oḣ'aŋk'o (Santee Sioux)@
+@Fat@|@čhépa@
+@Father@|@Até (M or F speaker)@
+@Father-in-law@|@tȟuŋkáši (M or F speaker)@
+@Fatigued@|@t’at’á@
+@Fearful@|@wakȟókpȟa@
+@Feather@|@wíyaka@
+@February - Moon of Popping Trees (caused by the cold)@|@Čhaŋ-nápȟopa Wí@
+@Female cousin@|@čepȟáŋši (female speaking), Haŋkáši (male speaking)@
+@Female elk@|@uŋpȟáŋ@
+@Few@|@čónala (adj) huŋ (pronoun)@
+@Fine@|@Taŋyáŋ@
+@Fingernail@|@šaké@
+@Fingers@|@napsú, napsú okázuŋte@
+@Fire@|@pȟéta@
+@Fire Thunder@|@P'eta Wakiŋyaŋ@
+@Fire! (there is a)@|@Pȟéta!@
+@Firefly@|@waŋyéča@
+@First-born@|@tȟokápȟa@
+@Fish@|@hoǧáŋ@
+@Flag@|@wápaha@
+@Flat River@|@Mni Blaska (see Nebraska)@
+@Flea@|@hála@
+@Flood (noun)@|@mnitáŋ@
+@Floods@|@mni-híyaye@
+@Flour@|@aǧúyapi blú@
+@Fly@|@teȟmúǧa@
+@Fly (insect)@|@teȟmúǧa, theȟmúŋǧa@
+@Flying Bull@|@T‘at‘aŋka Kiŋyaŋ (Yankton Sioux)@
+@Fog@|@p’ó@
+@Foggy@|@P’ó@
+@Fold something@|@apéhaŋ@
+@Food@|@WÓYUTE@
+@Foods@|@Wóyute@
+@Fool White Bear@|@Mat'o Witko@
+@Foot@|@sí@
+@For a purpose@|@Taku un oyate oshpaya witap@
+@Forearm@|@istó@
+@Forehead@|@ithúhu, pȟaȟté@
+@Forest@|@čhúŋšoke, čhúŋwaŋča@
+@Forget it@|@Ektunja yo/ye@
+@Forgive me@|@akíčiktunža wo - (woman speaking), akíčiktunža yo - (male speaking)@
+@Fork@|@wíčhapȟe@
+@Forked Horn@|@He Jate (Yankton Sioux)@
+@four winds (the)@|@tȟatíye tópa@
+@Four winds and also Father Great Spirit@|@Tate owe topa na ate Wakan Tanka namahun po@
+@Fox@|@suŋkǧíla@
+@Frank Fool’s Crow@|@Mat'o Waŋbli@
+@Friday (5th day)@|@Aŋpétu Záptaŋ@
+@Friend@|@Kola, kȟolá (male to male), máške (female to female), wakinyan niktepi@
+@Frightened@|@yuš’íŋyaya@
+@Frog@|@gnašká@
+@Frost@|@ȟeyúŋka@
+@Fruit@|@waskúyeča@
+@Frustrated@|@kȟáŋt’a@
+@Fry bread@|@wígli uŋ káǧapi@
+@Full of large holes@|@ǧaǧéca@
+@Full of small holes@|@zazéča@
+@Gall@|@T'ap'izi@
+@Garden@|@máǧa@
+@generosity@|@wačháŋtognáka@
+@Genetics@|@Wé imahél wichoichagha ki um pelo (pi)@
+@George Armstrong@|@P‘ehiŋ Haŋska (Long Hair)@
+@German gutteral G@|@ǧ@
+@Get@|@Ičú@
+@Get away@|@Heyab iyaya yo/ye@
+@Get away; go on@|@Wicay/we@
+@Get to work now@|@Wana skinciya po/pe@
+@Get well soon!@|@Ečháŋni aníčisni kte ní!@
+@Ghost Boy@|@Naġi Gnaškiŋyaŋ@
+@Ghost spittle (on plants)@|@wanáǧi tȟašóše@
+@giggle (v)@|@naȟmá iȟát’a@
+@Girl@|@wičhíŋčala@
+@Girl from an incestuous relationship@|@wicogluzewin@
+@Give it to me@|@Mak'u wo/we@
+@Give me ......@|@Food/Drink/Condiment/Utensil mak’ú@
+@Give me a call later@|@Toksa mayuhla yo/ye@
+@Giving thanks@|@wóphila@
+@Glance@|@tuŋwáŋ@
+@Global warming@|@makȟásitomniyaŋ okȟál áye@
+@Glottal stop (Khéze)@|@´'@
+@Gloves@|@napíŋkpa@
+@Glue@|@wíyaskabye@
+@Gnats@|@tȟáŋničala@
+@Go to sleep. (to one person)@|@Ištíŋma ye/yo! (F/M speaker)@
+@Go to sleep. (to ore than one or to a group)@|@Ištíŋma pe/po (F/M speaker)@
+@Go!@|@Iyáya ye! (Female speaker), Iyáya yo! (Male speaker)@
+@Goat@|@tȟatȟókala@
+@Gold (colour)@|@mázaska zí, mázazi@
+@Good@|@Wašté@
+@Good day@|@Aŋpétu wašté@
+@Good evening@|@Ȟtayétu wašté@
+@Good Lance@|@Wahuk'eza Wašte@
+@Good Luck!@|@Tókhi wániphika ní!@
+@Good morning@|@Hau/Haŋ, híhaŋni wašté, híhaŋni wašté . (means something was good this morning), híŋhaŋni wašté, tókheškhe yaúŋ hwo/he?@
+@Good night@|@Haŋhépi wašté@
+@Good Road@|@T'ac'aŋku Wašte (Santee Sioux)@
+@good weather@|@owáštečaka@
+@Goose@|@maǧá, maǧá šápa, maǧá tȟáŋka@
+@Gopher@|@tȟašnáheča@
+@Grandchild@|@Tȟakóža (M or F speaker)@
+@Grandchildren@|@Tȟakóža@
+@Grandfather@|@Ho Tunkasila Wakan Tanka, Tȟuƞkášila@
+@Grandmother@|@Kȟuŋší, Uƞčí@
+@Grandmother Earth@|@Na maka ina na unci maka ahitonwan po, Unčí Makȟá@
+@Grandpa@|@Lalá@
+@Grandpa saw a dog@|@Lalá šuŋká wáŋ hé waŋyaŋka@
+@Grant me the serenity to accept the things I cannot change@|@Wahwala waun ke le takuni blutokecha owakihisni ki le wichake malayo@
+@Grapefruit@|@tȟaspáŋ zí tȟáŋka@
+@Grapes@|@čhuŋwíyapehe@
+@Grass@|@pheží@
+@Grasshopper@|@gnugnúška@
+@Gray@|@ȟóta@
+@Greasy Grass@|@P'eji Sla Wakpala@
+@Great Spirit@|@Ho Tunkasila Wakan Tanka, Wakȟáŋ Tȟáŋka@
+@Great Swan Lake@|@MaVa T'aŋka Ota Bde (Santee Sioux)@
+@Great!@|@Waste Chicago!@
+@Green@|@Tȟózi@
+@Green Grass@|@P'eji T'o Oyaŋke@
+@Grey@|@ȟóta@
+@Grizzly bear@|@matȟó tȟáŋka, ȟóta@
+@Grizzly Bear Lying Down@|@Mat'o Iwaŋka (Yankton Sioux)@
+@Guess@|@yukčáŋ@
+@Gulf@|@mniówaŋča okáȟmiŋ@
+@Gum (chewing)@|@čhaŋšíŋ@
+@Gutteral K + h@|@kȟ@
+@Gutteral P + h@|@pȟ@
+@Gutteral T + h@|@tȟ@
+@Gym@|@oškáte thípi@
+@Gymnasium@|@oškáte thípi@
+@Hail@|@Wasú@
+@Hailstorm@|@wasú hiŋhé@
+@hair@|@pȟehíŋ@
+@Hair@|@pȟehíŋ@
+@Half dollar@|@mázaska okhíse@
+@Hand@|@napé@
+@handkerchief@|@pȟaȟlípakhiŋte@
+@Happy@|@čhaŋtéwašte, iyókphii@
+@Hare@|@maštíŋčala@
+@Hat@|@wapȟóštaŋ@
+@hate (v)@|@oyúsiŋka@
+@Have@|@Yuhá@
+@Have a good journey!@|@Taŋyáŋ ománi (m>sg), Taŋyáŋ ománi pe (f>pl), Taŋyáŋ ománi po (m>pl), Taŋyáŋ ománi ye (f>sg)@
+@have a hard time splitting something (v)@|@-ȟléčA  (root word)@
+@Have a nice day!@|@Aŋpétu wašté yuhá pe (f>pl), Aŋpétu wašté yuhá po (m>pl), Aŋpétu wašté yuhá ye (f>sg), Aŋpétu wašté yuhá yo (m>sg)@
+@Have as a relative@|@takuya@
+@Have for a relative@|@takúya@
+@Have pity on and help all the people@|@na owica kiya po, Oyate oyasin unsi wicala po@
+@Have pity on me@|@Unsimala yo/ye@
+@Have this@|@Le yuha yo/ye@
+@Have you got a pencil?@|@wichazo waŋji luha hwo@
+@Have you got a problem?@|@Táku iníčakiža he/hwo? (F/M speaker)@
+@Have you got a question?@|@Woiyunge wanji luha hwo/he?@
+@Hawk@|@čhetáŋ@
+@He / She is back now@|@Wana glihunni@
+@He came and then he left@|@U yunkan iyaye@
+@He gave us (He/she)@|@uŋk’úpi@
+@He Goes Drifting@|@Kaḣoke  (Santee Sioux)@
+@He has a boat@|@Wáta waƞ yuhá@
+@He has a headache@|@Hé natá yazáŋ kštó/yeló (F/M speaker)@
+@He is coming@|@Ú welo.@
+@He is looking for a woman (girlfriend)@|@He wiole un@
+@He is very poor@|@Hé líla waȟpániča kštó/ló (F/M speaker)@
+@He killed you  (he/she)@|@nikté@
+@He rolled his car over@|@Ta iyecinkinyanke kin kaptanyan@
+@He said that to him@|@hečíya@
+@He/She always does that@|@He hecun s'a@
+@He/she gets@|@Hé ičú@
+@He/she has@|@Hé yuha@
+@He/She headed out all of a sudden@|@Hci s'e hingle@
+@He/she is@|@Hé úŋ@
+@He/She is a pouter@|@He wacinko s'a@
+@He/She is not right@|@He ecetu sni@
+@He/She is really deaf@|@He lila nunhcan@
+@He/She is really jealous@|@Lila nawizi@
+@He/she sees@|@Hé waŋyáŋka@
+@He/She smiled at me@|@Iha amayute@
+@He/She wants@|@Hé čhíŋ  ( note that He can be dropped in verbs)@
+@He/She was suddenly sick@|@He kuja hingle@
+@He/She/It got run over by a car@|@Iyecinkinyanka un nat'e@
+@Head (Facial Parts)@|@natá@
+@Head waters of the Des Moines and Blue Earth Rivers@|@Mni Ak'ipaŋ Kaduza (Watershed)  (Santee Sioux)@
+@Health@|@wičhózani@
+@hear (v)@|@naȟ’úŋ@
+@hear me@|@Tate owe topa na ate Wakan Tanka namahun po@
+@Heart@|@čhaŋté@
+@Heels@|@siyéte@
+@Hello@|@háu, Hau/Haŋ, híŋhaŋni wašté, kȟolá - (formal), tókheškhe yaúŋ hwo/he?@
+@Hello (male/female speaker)@|@Hau/Haŋ@
+@Help me@|@Omakiya yo/ye@
+@Help yourselves!@|@Oic'iya po/pe@
+@Help!@|@Ómakiya yo (m>sg)@
+@Her child@|@Čhiƞčá@
+@Here you are@|@Wan le wan@
+@Here you go@|@Wan le wan@
+@He's doing fine@|@Líla taŋyáŋ he úŋ@
+@Hidden Woods@|@C'aŋ Naȟmedaŋ  (Santee Sioux)@
+@Hide Butte@|@T'ahalo Paha@
+@Hide scrapings@|@ȟuhá@
+@Hill@|@pahá@
+@Hill coyote@|@máyašle@
+@Hill In The Woods@|@Paha C'aŋwegna Yaŋka@
+@Hills and canyons@|@ȟeóškiške, oškíške@
+@Hip (body part)@|@niséhu@
+@His child@|@Čhiƞčá@
+@His Hoop@|@C'aŋkdeška T'awa  (Yankton Sioux)@
+@His Red People@|@T‘aoyate Duta  (Santee Sioux) see  Little Crow@
+@His/her@|@Hé tȟawá@
+@hold a grudge against (v)@|@oyúsiŋka@
+@Hollow Horn@|@He Oḣdoka  (Yankton Sioux)@
+@Hollow Horn Bear@|@Mat'o He Ḣlokeca@
+@Hollow place@|@oškókpa@
+@Honor@|@wóyuonihaŋ@
+@Horse@|@šúŋkawakȟaŋ@
+@Horsefly@|@tȟatȟáwabluška@
+@Hot@|@kĥáta@
+@Hot (object)@|@kȟáta@
+@Hot and sunny@|@Omášte@
+@Hot dog@|@tȟašúpa@
+@Hot Springs@|@Mni K'ata@
+@Hot weather@|@okȟáta@
+@House@|@thípi@
+@How@|@Tókheškhe@
+@How are you doing?@|@Toske yaun hwo/he?@
+@how are you?@|@Hau/Haŋ, híŋhaŋni wašté, tókheškhe yaúŋ hwo/he?@
+@How are you?@|@Taŋyáŋ yaúŋ he/hwo, Tókheškhe yaúŋ he/hwo, Toníktuha he/hwo, Tóskhe yaúŋ he/hwo? (F/M speaker)@
+@How did you come?@|@Toske yau hwo/he? (M/F speaker)@
+@How do you say BIRD in Lakota?@|@BIRD tókhel Lakȟótiya ehápi he?@
+@How is dad?@|@Até tókheškhe hé úŋ he@
+@How is it?@|@Tókȟa@
+@How many@|@Tóna@
+@How much is this?@|@Lé mázaska tóna he?@
+@How much?@|@Tónakča@
+@How old are you?@|@Waníyetu nitóna hwo/he? (M/F speaker)@
+@How's it going?@|@Toskeya?@
+@How's your father keeping?@|@Niyáte tókheške úŋ he@
+@Humid@|@olúluta@
+@Hummingbird@|@tȟanáǧila@
+@Hump@|@C'aḣaḣake@
+@Hungry@|@ločhíŋ@
+@hurry (v)@|@ináȟni@
+@Hurry! (to more than one or to a group)@|@Ináȟni pe/po! (F/M speaker)@
+@Hurry! (to one person)@|@Ináȟni ye/yo! (F/M speaker)@
+@I am@|@Waúŋ@
+@I am ______(years old)@|@Waníyetu ma _______@
+@I am always ready@|@Nakénula waúŋ kštó/yeló (F/M speaker)@
+@I am called@|@Emáčiyapi@
+@I am doing fine@|@Taŋyáŋ waúŋ kštó/weló (F/M speaker)@
+@I am fine@|@Matáŋyaŋ, na níš?, taŋyáŋ waúŋ, Taŋyáŋ waúŋ@
+@I am full@|@Haú/Háŋ, ímaphi@
+@I am going to eat@|@Wawátiŋ kte kštó/ló (F/M speaker)@
+@I am good and full@|@Taŋyáŋ ímaphi kštó/yeló (F/M speaker)@
+@I am happy@|@Iyómakphi kštó/yeló (F/M speaker)@
+@I am hungry@|@Hau/Haŋ, lowáčhiŋ, Lowáčhiŋ kštó/yeló (F/M speaker)@
+@I am one of@|@mawaŋží@
+@I am suffering@|@Makakije(lo)@
+@I am thirsty@|@Hau/Haŋ ímápuze@
+@I be@|@Waúŋ@
+@I call this one@|@Wayé@
+@I call X father@|@X até waye@
+@I call Y mother@|@Y iná waye@
+@I called him/her (on the phone)@|@Mas'awakipe@
+@I came to scam some food@|@Tiole wahi@
+@I can speak Lakota@|@Lakotiwaya owakihi@
+@I cannot speak Lakota@|@Lakotiwaya owakihi sni@
+@I can't remember@|@Weksuya owakihi sni@
+@I cherish you@|@thečhíȟila@
+@I did it by accident@|@Wanun ecamun@
+@I didn't hear you@|@Nacih'un sni@
+@I didn't recognize you@|@Iyeciciye sni@
+@I didn't see him/her/it at all@|@Ataya wanblake sni@
+@I don’t feel good@|@Omáphišni kštó/yeló (F/M speaker)@
+@I don’t feel well@|@Omáphišni kštó/yeló (F/M speaker)@
+@I don’t know how@|@Uŋmáspe šni kštó/yeló (F/M speaker)@
+@I don't have any@|@Manice@
+@I don't know@|@Slolwayin kte sni@
+@I don't understand@|@Owákaȟniǧe šni@
+@I don't want to do it@|@Ecamun wacin sni@
+@I expect I'll come@|@Wau kte sece@
+@I feel better@|@Omáwahečheča kštó/yeló (F/M speaker)@
+@I feel strange for some reason@|@Tomakca s'eleca@
+@I get@|@Iwáču@
+@I got my book@|@Wówapi mitȟáwa iwáču@
+@I gotta have a pee!@|@Leja wakinica!@
+@I hate that (person or thing)@|@He wahtewala sni@
+@I have@|@Bluhá@
+@I have a ball@|@Tȟápa waƞ bluhá.@
+@I have a book@|@wowapi waŋ bluha@
+@I have a pencil@|@Wíčazo bluhá@
+@I have a problem@|@Táku imákakiže kštó/ló (F/M speaker)@
+@I have a stomach ache@|@Thezí mayázaŋ kštó/yeló (F/M speaker)@
+@I have a toothache@|@Hí mayázaŋ kštó/yeló (F/M speaker)@
+@I have compassion for you@|@úŋšičhila, úŋšičhilake@
+@I have self-respect@|@Miglúonihaŋ kštó/yeló (F/M speaker)@
+@I haven't seen you for a while@|@Tehan wanciyanke sni@
+@I honor myself@|@Miglúonihaŋ kštó/yeló (F/M speaker)@
+@I just came for no reason@|@Ikceya wahi@
+@I just want to sit around@|@Ikceya manka wacin@
+@I like you@|@waštéčhilake@
+@I live at@|@Wathí@
+@I live in Eagle Butte@|@Waŋblí Pahá él wathí kštó/yeló (F/M speaker)@
+@I live in Peru@|@Perú el wathí@
+@I live in Pine Ridge@|@Wazí Aháŋhaŋ él wathí kštó/yeló (F/M speaker)@
+@I live in X@|@X él wathí kštó/yeló (F/M speaker)@
+@I live on Rosebud@|@Sičháŋǧu Oyáŋke él wathí kštó/yeló (F/M speaker)@
+@I live on Standing Rock@|@Íŋyaŋ Woslá Háŋ Oyáŋke él wathí kštó/yeló (F/M speaker)@
+@I love you@|@Čhaŋtóčhignake, Iyótaŋčhila, Tecihila, Thečhíȟila@
+@I pray@|@wačhékiya@
+@I ran out of gas@|@Wigli nawasote@
+@I ran out of petrol@|@Wigli nawasote@
+@I really need to eat@|@Wawatin ktehcin@
+@I respect you@|@čhiyúonihaŋ@
+@I saw a dog@|@Šuŋka waŋ waŋblake@
+@I saw a man@|@wic'aša waŋ waŋblake@
+@I saw it@|@Waŋbláke kštó/yeló (F/M speaker)@
+@I say thank you to you all@|@Wopila eciciyapi@
+@I see@|@Waŋbláke@
+@I see it@|@Waŋbláke kštó/yeló (F/M speaker)@
+@I shake your hands with a good heart@|@Cante wasteya nape ciyuzapi@
+@I suppose I'll come@|@Wau kte sece@
+@I want@|@Wačhíŋ@
+@I want a pop@|@Kapȟópapi wačhíŋ@
+@I want the Lakota book now@|@waŋná, Waúŋspekhiya, wówapi Lakȟóta wačhíŋ@
+@I want this@|@Food/Drink/Condiment/Utensil wačhíŋ@
+@I want this to drink@|@blatkáŋ wačhíŋ@
+@I want to borrow this book@|@Wowapi kin le owalota wacin@
+@I want to eat this...@|@watá wačhíŋ@
+@I want to go home@|@Wagla wacin@
+@I want to go to the bathroom@|@Oiheye tipi ekta bla wacin@
+@I want to live@|@Wani wacin yelo/ye@
+@I wanted to ask you something@|@Taku wan iciyunga wacin@
+@I will go and buy a book@|@wowapi waŋji op'et'uŋ mniŋ kte lo@
+@I will probably go@|@Mnin kte nacece@
+@I will see you again sometime@|@Tókša akhé waŋčhíyaŋkiŋ kte@
+@I wish to speak to you@|@Wóčhičiyaka wačhíŋ kštó/yeló (F/M speaker)@
+@I would like some of that@|@Háŋ, héčha etáŋ wačhíŋ kštó/yeló (F/M speaker)@
+@I would like this to drink@|@blatkáŋ wačhíŋ@
+@I would like to borrow this book@|@Wowapi kin le owalota wacin@
+@I would like to speak to you@|@Wóčhičiyaka wačhíŋ kštó/yeló (F/M speaker)@
+@I’ll see you again later@|@Tókša akhé, Tókša akhé waŋčhíyaŋkiŋ kte kštó/ló (F/M speaker)@
+@I’m glad you came.@|@Taŋyáŋ yahí kštó/yeló (F/M speaker)@
+@I’m happy to have met you.@|@Čhaŋtewašteya waŋčhíyaŋke kštó/ló (F/M speaker)@
+@Ice@|@čháǧa@
+@Ice breaking in river@|@čháǧa onážužu@
+@If you do that@|@Hecanun kin cicasaksakin kte@
+@I'll see you all later@|@Toksa ake wanciyankapi kte@
+@I'll see you later@|@Toksa ake wanciyanka kte@
+@I'll whip you@|@Hecanun kin cicasaksakin kte@
+@I'm broke@|@Mawegahe@
+@I'm dizzy all of a sudden@|@Kaitomni mahingle@
+@I'm doing really well@|@Matanyehci@
+@I'm going to bed early@|@Ecani imunkin kte@
+@I'm going to go to play basketball@|@Tab skata mnin kte@
+@I'm going to graduate soon@|@Ecani owayawa ewakihunni kte@
+@I'm going to lie down@|@Kul munkin kte@
+@I'm going to sit with you@|@Kici ciyankin kte@
+@I'm going to sleep late@|@Tehan wahpayin kte@
+@I'm going to strangle you!@|@Ciyut'in kte!@
+@I'm here and I want to see you (song line)@|@Dearie, wanciyanka wau na waun welo@
+@I'm not hungry yet@|@Nahahci lowacin sni@
+@I'm sad@|@Iyomaksice@
+@I'm sorry@|@čhaŋtéšicé - (heart feels bad)@
+@In@|@El@
+@In that direction@|@héčhiya@
+@In the blood the generations are in@|@Wé imahél wichoichagha ki um pelo (pi)@
+@In the mountains@|@ȟeyáta@
+@In yonder direction@|@kákhi@
+@Incest@|@wogluze@
+@Insect@|@Wablúška@
+@Instead@|@éha@
+@Introductions - (introducing oneself)@|@Čhažé Oíglaka@
+@Iron Bear@|@Mat'o Maza (Yankton Sioux)@
+@Iron Eyes@|@Iš ta Maza@
+@Iron Horn@|@He Maza  (Yankton Sioux)@
+@Iron Shell@|@P'aŋkeska Maza@
+@Iron Shield@|@Maza Wahac'aŋka@
+@Island@|@wíta@
+@It disappeared@|@Tokah'an@
+@It doesn't matter@|@Toka sni@
+@It is a sunny day@|@Aƞpétu mašté.@
+@It is good that you came@|@Taŋyáŋ yahí@
+@It is too cold in here@|@Ehas tiosni@
+@It is too hot in here@|@Ehas tiokate@
+@It's cold over here@|@Léčhiya osní.@
+@It's mine@|@Lé mitȟáwa kštó/yeló (F/M speaker)@
+@It's raining today@|@Aƞpétu maǧážu@
+@It's sunny and hot over here@|@Léčhiya omášte.@
+@It's time now@|@Wana iyehantu@
+@I've got a ball@|@Tȟápa waƞ bluhá.@
+@I've got a problem@|@Táku imákakiže kštó/ló (F/M speaker)@
+@Jacket@|@ógle@
+@James River@|@C'aŋ Saŋsaŋ (White Trees or possibly White Birches)@
+@Janitor@|@thiyúžaža wičháša@
+@January -  Moon of Hard Times@|@Wiótheȟika Wí@
+@Jerky@|@wakápȟapi@
+@John Other Day@|@Aŋpetu T'okeca  (Santee Sioux)@
+@July - Moon of Red Cherries@|@Čhaŋpȟá Šá Wí@
+@jump (v)@|@psíča@
+@jump over (v)@|@apsíča@
+@jump up (v)@|@waŋkáyeič’iya@
+@June - Moon of Juneberries@|@Wípazuŋkȟa Sápa Wí@
+@Just like that…@|@Hecunp s'e…@
+@Just what its it you're trying to do?@|@Tak tokanun ktehcin hwo?@
+@Kanaranzi Creek@|@K'aŋza Wic'aktepi (Where they killed the Kansas)@
+@Keeping the Soul Rite@|@Naǧí Gluhápi@
+@Ketchup@|@wícahiyutapi šá@
+@Keyboard@|@wanáȟtagyapi oágle@
+@Kicking Bear@|@Mat'o Wanaḣtaka@
+@Kidneys@|@ažúŋtka@
+@Kinship terms@|@WÓUŠPE YÁMNI@
+@Kinsmen@|@otakuye@
+@kiss@|@íputȟaka, íputȟakA@
+@Knee@|@čhaŋkpé@
+@kneel (v)@|@čhaŋkpé makȟágle, pȟamágle@
+@Knife@|@míla@
+@Knife Lake@|@Isaŋ Mde (Santee Sioux), Mde Wak'aŋ@
+@La Sueur Creek@|@Waŋhi Ok’edaŋ Watpa (Santee Sioux)@
+@Lac Qui Parle@|@Mde Yedaŋ (Santee Sioux)@
+@Lac Traverse@|@Mde Hdakiŋyaŋ  (Santee Sioux)@
+@Lake@|@blé@
+@Lake Jessie@|@C'aŋ Mde (Lake of the Woods) (Santee Sioux)@
+@Lake of the Serpents@|@Waŋbduška Mde  (Santee Sioux)@
+@Lakota dialect ("friends/allies")@|@Lakȟóta@
+@Lakota language@|@Lakȟóta iyápi@
+@Lakóta Phrases for Home Use@|@Thiyáta Lakȟól Wičhóiye Úŋpi Kte@
+@Lap (body part)@|@šiyúte@
+@Laramie River@|@Maǧa Wakpala  (Duck River)@
+@Lard@|@wígli@
+@Last night@|@haŋhépi@
+@laugh out loud (v)@|@iȟát’a@
+@Lawyer@|@wákhiya wičháša@
+@Lead towards@|@iyágle@
+@Lean Squirrel@|@Zica T'amaheca@
+@Learn@|@Slolya ktauƞ wóunspé pasi (yupi/pasiya pelo)@
+@Learning a pursuit@|@Wóunspé aphasiya aphantun (pi/pelo)@
+@Leave it alone@|@Ayustan yo/ye@
+@Leave me alone!@|@Amáyuštaŋ yo (m>sg)@
+@Left over food@|@watȟéča@
+@Left side@|@čhatkáyatahaŋ@
+@Leg@|@hú@
+@Lemon@|@tȟaspáŋ zí pȟá@
+@Lend me some money@|@Mazaska etan omak'u wo/we@
+@Lend me some wheels (your car)@|@Hugmiyan omak'u wo/we@
+@Letter of the alphabet@|@óowa@
+@Lice@|@héya@
+@Life@|@wičhóni@
+@Lightning@|@wakíŋyaŋ tuŋwáŋpi@
+@Likes to go home@|@Oglála@
+@Limbs@|@huhá@
+@Lip (name)@|@P'ute@
+@Lips@|@ihá@
+@Listen everyone!@|@Anáǧoptaƞ pe! (Female Speaker), Anáǧoptaƞ po! (Male speaker)@
+@Listen up!@|@Anagoptan po/pe!@
+@Listen!@|@Anáǧoptaƞ ye! (female), Anáǧoptaƞ yo!  (male)@
+@Little@|@čík'ala@
+@Little (name)@|@Čik'ala@
+@Little Big Horn@|@Ciŋškaya Wakpa Cik’ala@
+@Little camp at the end@|@Iháŋktȟuŋwaŋna@
+@Little Crow@|@C'etaŋ Wak'uwa Mani  (Hawk that Hunts Walking) also known as T‘aoyate Duta  (His Red People) (Santee Sioux)@
+@Little finger@|@šašté@
+@Little Horse@|@T'asuŋke Cik’ala@
+@Little Paul@|@Maza K'ute Mani (Shooting Iron Walking)  (Santee Sioux)@
+@Little Shield@|@Wahac'aŋka Cik’ala@
+@Little Sioux River@|@Iŋyaŋ Yaŋka Watpa (River with Stones In) (Santee Sioux)@
+@Little toe@|@sí šašté@
+@Little Wound@|@T'aopi Cik’ala@
+@Live at@|@Tȟí@
+@Lively Spirit@|@Wak'aŋ Hdi Oḣ'aŋk'o (Santee Sioux)@
+@Liver@|@phí@
+@Living things that walk on the earth (Animals)@|@wamákȟaškaŋ@
+@Lizard@|@agléška@
+@Location@|@Túktel@
+@Lone Man@|@Išna Wic'a@
+@Long@|@háŋska@
+@Long ago@|@eháŋk’ehaŋ, eháŋni@
+@Long Lake and Lake Addie@|@C'aŋ Mde (Lake of the Woods) (Santee Sioux)@
+@Long time@|@Théhaŋ waŋčhíŋyaŋke šni@
+@Long time no see@|@Tehan wanciyanke sni@
+@Look@|@tuŋwáŋ@
+@Look at closely@|@Khiyéla Iwaƞyaƞka pi/pelo@
+@look upon me@|@Na hocunka, Na itokagata, Na maka ina na unci maka ahitonwan po, Na waka tinya, na waka tinya ahitonwan po, Na waziyata, Na wiyohinyanpata, sinte sapila oyate ahitonwan po, tatunka oyate kin ahitonwan po, wakinya oyate kin ahitonwan po, wambli gleska ahitonwan po, wambli oyate kin ahitonwan po, Wiyohpeyata@
+@Lost Timber@|@C'aŋ Naȟmedaŋ  (Santee Sioux)@
+@Loup Fork (on the Platte River)@|@Kušleca Wakpa (Kingfisher River), Wiŋyaŋ Wakpala (Woman River)@
+@Low Dog@|@Suŋg K'uc'iyela@
+@Lower@|@C'aŋ Kasdata (Tree Crept Up On) (Santee Sioux)@
+@Lower back@|@nité@
+@Lower Big Sioux River@|@C'aŋ Kasdata (Tree Crept Up On) (Santee Sioux)@
+@Lungs@|@čhaǧú@
+@Maggot River@|@Waglula Wakpala@
+@Make use of something@|@tákuya@
+@Making of Relatives Rites@|@Huŋkáyapi@
+@Male cousin@|@šič’éši (female speaker), Tȟaŋháŋši (male speaker)@
+@Male elk@|@heȟáka@
+@male friend@|@háu, kȟolá - (formal)@
+@Man@|@wičháša, wichasha@
+@Man Afraid of His Horses@|@T'asuŋka K'okip'api, T'asuŋka K'okip'api  (Man Whose Horses They Fear)@
+@Man Who Goes In The Middle (see Gall)@|@Pizi@
+@Mankato@|@Mak'a T'o Oyuze@
+@Many@|@óta@
+@Many thanks for the dance men and dance women@|@Na hun waci wicasa na waci winyan wopila tanka@
+@map@|@makȟóčhe owápi@
+@Map@|@makȟóčhe owápi@
+@Maple Island@|@C'aŋha Saŋ Wita@
+@March - Moon of Snow Blindness@|@Ištá Wičháyazaŋ Wí@
+@Marry@|@winyuze@
+@Marsh@|@pteǧá@
+@Marten@|@nakpáǧiča@
+@Martin@|@Pažóla Otȟúŋwahe@
+@Mashed potatoes@|@Bló patȟáŋpi@
+@Maternal grandfather@|@kaká, lalá (M or F speaker)@
+@Maternal grandmother@|@uŋčí (M or Female speaker)@
+@May - Moon of Green Leaves@|@Čhaŋwápe Tȟó Wí@
+@Mayor@|@wičhóthi itȟáŋčhaŋ@
+@Me  (pronoun)@|@Má@
+@Me too@|@Mis eya@
+@Meadow by the bend of a creek or river@|@okáȟmi@
+@Meat@|@tȟaló@
+@Medicine@|@Pȟežúta@
+@Medicine man@|@waphíya wičháša@
+@Medicine wheel@|@čhaŋgléška@
+@Milk@|@Asáŋpi@
+@Milky Way@|@wanáǧi tȟačháŋku@
+@Mine@|@Mitȟáwa@
+@Mink@|@ikhúsaŋla@
+@Minnesota River@|@Mni Sota (Clear Water)@
+@Mint@|@čheyáka@
+@Mission@|@Sapa Uŋ, Sapa Uŋ Ot'i (Black Robes)@
+@Missouri River@|@Mni Šoše (Turbid Water)@
+@Mist@|@p’ó@
+@Mizpah@|@P'aŋǧi T'akiŋkiŋyaŋ (Big Artichokes)@
+@Monday@|@Aŋpétu Tȟokáhe@
+@Money@|@mázaska@
+@Monkey@|@waúŋčhala@
+@Moon@|@haŋhépi wí@
+@Moonlight@|@haŋwíyaŋpa@
+@Morning@|@híŋhaŋni, Híŋhaŋni@
+@Morning dew@|@čhú@
+@Morning dew and cold@|@čhusní@
+@Morning star@|@áŋpo wičháȟpi@
+@Mosquito@|@čhapȟúŋka@
+@Moth@|@kimímila@
+@Mother@|@Iná (M or F speaker)@
+@Mother Earth@|@Na maka ina na unci maka ahitonwan po@
+@Mother-in-law@|@uŋčíši (M or F speaker)@
+@Mount Rushmore@|@Wic'ite Kakaŋpi (Face Carvings)@
+@Mountain@|@ȟé@
+@Mountain lion@|@gmú tȟáŋka@
+@mourn (v)@|@wašígla@
+@Mouse@|@itȟúŋkala@
+@Mouth@|@í@
+@Muddy@|@ȟliȟlíla@
+@Muggy@|@olúluta@
+@Mushrooms@|@čhaŋnákpa@
+@Muskrat@|@sinkpȟéla, siŋkpȟé@
+@Mustard@|@wícahiyutapi zí@
+@My father@|@Até@
+@My girlfriend left me@|@Mita wincincala kin amayustan@
+@My grandfather@|@Mitȟúŋkašila@
+@My mother@|@Iná, mihúŋ@
+@My name is (your name)@|@(Your name) emáčiyapi kštó/yeló (F/M speaker)@
+@My name is Mike@|@Mike emáčiyapi@
+@My relatives@|@MITÁKUYEPI@
+@My younger brother@|@mišúŋkala@
+@Mystic Lake@|@Isaŋ Mde (Santee Sioux), Mde Wak'aŋ@
+@Napkin@|@ité ipákiŋte@
+@Nation@|@oyáte, Oyáte@
+@naughty@|@witkótkoka, witkótkokA@
+@Nebraska@|@(Omaha Nibthaška cognate with Lakota Mni Blaska Flat River)@
+@Neck@|@tȟahú@
+@Nephew@|@tȟošká (female speaker), Tȟuŋšká (male speaker)@
+@Nervous@|@nihíŋčiya@
+@Nickel (money)@|@kašpápi okhíse@
+@Niece@|@tȟožáŋ (female speaker), Tȟuŋžáŋ (male speaker)@
+@Night@|@haŋhépi, Haŋhépi@
+@Nighthawk@|@píško@
+@Niobrara@|@Naȟuǧa Hoȟpi@
+@Nits@|@híŋtkala@
+@n-laws (in general)@|@omáwahetȟuŋ (M or F speaker)@
+@No@|@Hiyá@
+@No bowls@|@Itázipe Čholá@
+@No one came@|@Tuwéni hí šni kštó/yeló (F/M speaker)@
+@No one is home@|@Tuweni tiyata un sni@
+@No see@|@Théhaŋ waŋčhíŋyaŋke šni@
+@No Water@|@Mni Wanica@
+@No!@|@Hóȟ@
+@Nobody does that@|@Tuweni hecun sni@
+@Non-native people pursue illness-based learnings/doings@|@Ska oyate wokhúža ithahaƞ wóunspé iphasi yakel wichoškan@
+@North@|@wazíyata@
+@Northern Lights@|@maȟpíya tȟaŋíŋ@
+@Nose@|@pȟasú@
+@Nostril@|@pȟóǧe@
+@Not@|@Šní@
+@Not Afraid of the Pawnee@|@P'adani K'okip'a Šni  (Yankton Sioux)@
+@Not listening@|@wanáȟ’uŋ šni@
+@Not yet@|@Nahahci@
+@Notes@|@gnašká há, mniȟúha mázaska@
+@November - Moon of Starting Winter@|@Waníyetu Wí@
+@Numbers@|@Iyáwapi@
+@Nut@|@umá@
+@o@|@welo, wo@
+@Oak Wood Settlement@|@Ot'uhu Oju@
+@Oakwood Lakes@|@T‘i T'aŋka He (Place of the Great Lodge)@
+@Ocean@|@mniówaŋča@
+@October - Moon of Falling Leaves@|@Čhaŋwápe Kasná Wí@
+@Oh West@|@wakinya oyate kin ahitonwan po, Wiyohpeyata@
+@OK@|@oháŋ@
+@Old@|@káŋ, taŋní@
+@Older brother@|@Čhiyé - (male speaker), tibló - (female speaker)@
+@Older sister@|@Čhuwé - (female speaker), Tȟaŋké - (male speaker)@
+@One@|@waŋ, waŋží@
+@Onion@|@pšíŋ@
+@Open the door@|@Tiyopa kin yugan yo/ye@
+@or uƞ@|@welo, wo@
+@Orange@|@tȟaspáŋ zí@
+@Orange (colour)@|@zíša@
+@Ornery@|@oȟ’áŋ šíčA@
+@Otter@|@ptáŋ@
+@Out in the country@|@ȟeyáta@
+@Own@|@hiŋháŋ@
+@Painted turtle@|@pȟatká šá@
+@Pancakes@|@aǧúyapi zizípela@
+@pants@|@uŋzóǧe@
+@Pardon me@|@ékiciktunža wo - (woman speaking), ékiciktunža wo (woman speaking), ékiciktunža yo - (male speaking), ékiciktunža yo (male speaking)@
+@Pass Creek@|@Hok'iyoȟloka Wakpala@
+@Pass me the .....@|@Food/Drink/Condiment/Utensil mak’ú@
+@Paternal grandfather@|@tȟuŋkášila (M or F speaker)@
+@Paternal grandmother@|@kȟúŋši (M or F speaker)@
+@Pawnee River@|@P'alani T'awakpala@
+@Peace@|@wólakȟota@
+@Peas@|@Omníča gmigmi@
+@Pemmican@|@pápa@
+@Pen@|@mnisápa wíčazo@
+@Pencil@|@wíčazo@
+@Penny (money)@|@mázaša waŋží, mázašala@
+@People@|@oyáte, Oyáte@
+@People of the spirit lake@|@Mniwákȟaŋtȟuŋwaŋ@
+@People of the swamp@|@Sisítȟuŋ, Sisítȟuŋwaŋ@
+@Pepper@|@Yamnúmnuǧapi@
+@Pharmacist@|@pȟežúta wičhák’u@
+@Pickles@|@Kuŋkúŋ pȟá@
+@Pierre (SD)@|@Wakpa Šice (Bad River)@
+@Pies@|@tȟaspáŋ opémnipi@
+@Pig@|@kȟukȟúše@
+@Pills@|@pȟežúta gmigméla@
+@Pine Ridge@|@Wazí Aháŋhaŋ, Wazi Blo@
+@Pine Ridge Reservation@|@Oglala Owakpamni, Owakpamni Oyaŋke@
+@Pine tree@|@wazí, wazí čhaŋ@
+@Pink@|@šamná, šásaŋ, šástaŋ@
+@Pipe@|@čhaŋnúŋpa@
+@Pipe song@|@čhaŋnúŋpa olówaŋ@
+@Pipe Stone Quarry@|@C'aŋnuŋpa Ok’e, C'aŋnuŋpa Ša K’api, Iŋyaŋ Ša K’api@
+@Place of obtaining@|@Ok’e, Oyuze@
+@Plains@|@makȟóblaye, obláye@
+@Planters by the stream@|@Mnikȟówožu@
+@Planters by the stream or water@|@Hoȟwóžu@
+@Plaster@|@ȟáŋ wíyaskabye@
+@Plate@|@Wakšíča@
+@Platte River@|@P'aŋkeska Wakpa (Shell River)@
+@play (v)@|@škáta@
+@Please@|@Ičhé, Yé@
+@Please say that again@|@Akhé eyá pe (f>pl), Akhé eyá po (m>pl), Akhé eyá ye (f>sg), Akhé eyá yo (m>sg)@
+@Please speak more slowly@|@Ȟ’ahíya wóglaka yo (m>sg), Ȟ’ahíya wóglaka ye (f>sg), Ȟ’ahíya wóglaka po (m>pl), Ȟ’ahíya wóglaka pe (f>pl)@
+@Please write it down@|@Owá pe (f>pl), Owá po (m>pl), Owá ye (f>sg), Owá yo (m>sg)@
+@Pleased to meet you@|@Wíyuškiŋyaŋ waŋčhíŋyaŋke (f), Wíyuškiŋyaŋ waŋčhíŋyaŋke ló (m)@
+@Plenty Strikes@|@Ota Ap'api@
+@Plum@|@kĥáŋta@
+@point (v)@|@épazo@
+@Police person@|@akíčhita wawóyuspa, čhaŋksáyuha@
+@Pollution@|@oníya yušíčapi@
+@Pond@|@bléla@
+@Poorly behaved@|@oȟ’áŋ šíčA@
+@Pop (fizzy drink)@|@Kapȟópapi@
+@Porcupine@|@P'ahiŋ Siŋte, pȟahíŋ@
+@Pot@|@čhéǧa@
+@Potato@|@bló@
+@Poultry@|@kȟokȟóyaȟ’aŋla@
+@pout (v)@|@wačhíŋkȟo@
+@Powder River@|@C'aȟli Wakpala@
+@Prairie@|@makȟóblaye, obláye@
+@Prarie dog@|@pispíza@
+@pray (v)@|@čhékiya@
+@Pray for me@|@Wacemiciciya yo/ye@
+@Pray now@|@Wana wacekiya yo/ye@
+@Prayer@|@wóčhekiye@
+@President@|@tȟuŋkášilayapi@
+@Pretty Rock  (Felix T Brunot)@|@T'uŋkaŋ Waštena (Yankton Sioux)@
+@Pretty Weasel@|@It'uŋkasaŋ Wašte@
+@Principal  (a person)@|@owáyawa itȟáŋčhaŋ@
+@produce a heavy crunching sound@|@-mnuža  (root word)@
+@produce a light crunching@|@-mnuza  (root word)@
+@Pronghorn@|@ikpísaŋla@
+@Proud@|@ítan@
+@Prunes@|@kȟáŋta sápa@
+@Pudding@|@wóžapi@
+@pull (v)@|@yutítaŋ@
+@Pumpkin River@|@Ptaŋnuŋpi Wakpala@
+@Purple@|@tȟóša@
+@Pursue common learning@|@Ikčé wóunspé ki aphasya (pi/pelo)@
+@push (v)@|@patítaŋ@
+@put it together (v)@|@Wóunspé aphasiya aphantun (pi/pelo)@
+@Put something into something else@|@ógle@
+@Put that away@|@He egnaka yo/ye@
+@Quapaw@|@Pȟésa@
+@Quarry@|@Ok’e, Oyuze@
+@Quarter (money)@|@kȟaŋǧí waŋží, šókela@
+@Quiet everyone (Female speaker)@|@Iníla yaƞká pe@
+@Quiet everyone (Male speaker)@|@Iníla yaƞká po@
+@Rabbit@|@maštíŋčala@
+@Raccoon@|@wichítegleǧa@
+@Raging Buffalo@|@Mat'o Gnaškiŋyaŋ@
+@Rain@|@Maǧážu@
+@Rain In The Face@|@Exa Magozua, Ite Maǧažu, Ito Magaju, Ito Nagaju@
+@Rainbow@|@wígmuŋke@
+@Raise your hands@|@Nape yugata po/pe@
+@Rapid City@|@Mniluzahaŋ Ot'uŋwahe@
+@Rapid water@|@mničáluza@
+@Rays of the sun streaming upwards before sunrise@|@iyówata, wiíyowata@
+@Reaches For The Wind@|@T'ate Iyohi Wiŋ@
+@Read this@|@Le yawa po/pe@
+@Red@|@lúta, Šá@
+@Red Bird (Gertrude Simmons Bonnin)@|@Ziŋtkala Ša@
+@Red Cloud@|@Maȟpiya Luta@
+@Red Feather@|@Wiyaka Luta@
+@Red Fox@|@Tokala Luta@
+@Red Iron@|@Maza Ša (Santee Sioux)@
+@Red Leaf@|@Waȟpa Ša@
+@Red Owl@|@Hiŋhaŋ Ša, Hiŋhaŋ Ša  (Yankton Sioux)@
+@Red Rose@|@Wakačha Ša@
+@Red Sack@|@Ojuta Luta@
+@Red squirrel@|@zičá@
+@Red tailed hawk@|@čaŋšká@
+@Red willow bark@|@čhaŋšáša@
+@Red winged blackbird@|@wábloša@
+@Relations@|@otakuye@
+@Relative from his/her side of the family@|@Titakuye@
+@Relatives@|@otakuye, takukiciyapi@
+@Remember this@|@Le kiksuya yo/ye@
+@Remember!@|@Kikšúya@
+@Respectful@|@waóhola@
+@Return of thunder beings@|@wakíŋyaŋ aglí@
+@Returning home@|@kú@
+@Ribs@|@thučhúhu@
+@Rice@|@psíŋ@
+@Right here@|@léna@
+@Right side@|@išláyatahaŋ@
+@Right there@|@héna@
+@right?@|@Yagle inceye?@
+@Riley Creek@|@Winuŋȟca Ktepi Watpadaŋ (Where they Killed the Old Woman)  (Santee Sioux)@
+@Roan Horse@|@T'ašuŋke Hiŋša@
+@Rock@|@íŋyaŋ@
+@Rock dove@|@thiwákiŋyela@
+@Rock wren@|@iǧúǧaothila@
+@Rocky Mountains@|@Ȟe Ška (White Mountains)@
+@Rodent@|@itȟúŋkala@
+@Root of a plant@|@húte, hutkȟáŋ@
+@Rosebud Reservation@|@Sic'aŋǧu Oyaŋke, Sic'aŋǧu T'ipi@
+@Rosebud River@|@Uŋjiŋjintka Wakpa@
+@Rotten wood@|@čhaŋpúŋpuŋ@
+@Rough land@|@ȟeóškiške, oškíške@
+@run (v)@|@íŋyaŋkA@
+@Running Horse@|@Šuŋg Luzahaŋ@
+@Rushmore (Mount)@|@Wic'ite Kakaŋpi (Face Carvings)@
+@Rushville@|@Owat'okšu (Hauling Place)@
+@Sacred@|@wakȟáŋ@
+@Sacred tree@|@čhaŋwákȟaŋ@
+@Sad@|@čhaŋtéšičA, iyókšičA@
+@Sage@|@pȟeží ȟóta@
+@Salamender@|@asápazila@
+@Salt@|@Mniskúya@
+@Salve@|@ȟáŋ isláye@
+@Sand lizard@|@t’élanuwé@
+@Saskatchewan River@|@Mni Duza (Fast River) (Santee Sioux)@
+@Saturday (6th day)@|@Owáŋka Yužážapi , Aŋpétu Šákpe@
+@Say after me@|@Mihakab eya yo/ye@
+@Say it loudly@|@Hotankaya eya yo/ye@
+@Say it out loud@|@Hotankaya eya yo/ye@
+@Say repeatedly@|@eyáya@
+@Scarlet Plume@|@Wambdi Ape Duta (Santee Sioux)@
+@Scatters his own@|@Oglála@
+@School@|@owáyawa@
+@Science@|@Slolya ktauƞ wóunspé pasi (yupi/pasiya pelo)@
+@Scissors@|@iyúšla, wíyukse@
+@Scorpion@|@siŋtíčhapȟe@
+@See (v)@|@Waŋyáŋka@
+@See something (v)@|@waŋyáŋka@
+@September - Moon of Colored Leaves@|@Čhaŋwápe Ǧí Wí@
+@Serviette@|@ité ipákiŋte@
+@Seven Council Fires@|@Očhéthi Šakówiŋ@
+@Shadow@|@naǧí, wanáǧi@
+@Shadows on the ground caused by the passage of clouds@|@maȟpíyohaŋzizi@
+@Shaggy dog@|@khechá. - (pronounced  khecháh.)@
+@Share with each other@|@Okicic'u po/pe@
+@Sharp Shooter (John Jandreau)@|@Waoka (Yankton Sioux)@
+@She broke her arm@|@Isto kawege@
+@She has a headache@|@Hé natá yazáŋ kštó/yeló (F/M speaker)@
+@She is coming@|@Ú welo.@
+@She is very poor@|@Hé líla waȟpániča kštó/ló (F/M speaker)@
+@She lives in Eagle Butte@|@Waŋblí Pahá él he thí@
+@Sheep@|@tȟáȟčašuŋkala@
+@Shell River@|@T'uki Wakpa@
+@Shield@|@Wahac'aŋkayapi@
+@Shin Buttes@|@Jaŋjaŋ Blaska (Flat Bottle)@
+@Shirt@|@ógle@
+@Shocked@|@yuš’íŋyaya@
+@Shoes@|@háŋpa@
+@Shooter@|@Wak'ute (Santee Sioux)@
+@Shooting Hawk@|@C'etaŋ Wak'ute (Yankton Sioux)@
+@Shooting star@|@wakȟáŋ woȟpa@
+@Shoots among the leaves@|@Waȟpékhute@
+@Short@|@ptéčela@
+@Shortening (lard)@|@wígli@
+@Should we go now?@|@Wana unyanpi heci?@
+@Shoulder@|@hiŋyéte@
+@Shoulder blade@|@abló@
+@Show me!@|@Makípazo wo!@
+@Shsh. Be quiet! (Female speaker)@|@Iníla yaƞká ye@
+@Shsh. Be quiet! (Male speaker)@|@Iníla yaƞká yo@
+@Shy@|@sču, wíšteča@
+@Sick@|@khúža@
+@Silver@|@mázaska, mázaskaska@
+@Sioux Falls@|@Ȟaȟa@
+@Sister-in-law@|@haŋká (M speaker), sčépȟaŋ (F speaker)@
+@Sit down@|@Iyotaka po/pe@
+@Sit quietly. (to more than one or to a group)@|@Iníla yaŋká pe/po (F/M speaker)@
+@Sit quietly. (to one person)@|@Iníla yaŋká ye/yo (F/M speaker)@
+@Sit quietly/Be quiet@|@Inila yanka po/pe@
+@Sit still!@|@Owanjila yanka yo/ye!@
+@Sit up@|@Wosla yanka yo/ye@
+@Sitting Bull@|@T'at'aŋka Iyotake@
+@Six (Shakopee)@|@Šakpe@
+@Skeptical@|@wačhét’uŋgla@
+@Skin@|@há@
+@Skinny@|@tȟamáheča@
+@Skull@|@natáhu@
+@Skunk@|@maká@
+@Sleepy Eyes@|@Išta Ištiŋba  (Santee Sioux)@
+@Sleet@|@waȟ’éča@
+@Slippery@|@šlušlúte@
+@Slow@|@ȟ’aŋhí@
+@Small@|@čík'ala@
+@smell (v)@|@ómna@
+@Smoke (n)@|@šóta@
+@Smoking Earth@|@Mak'izita Wakpala (a place on the White River)@
+@Smudge@|@azílya (v)@
+@Snake@|@zuzéča@
+@Snake River@|@Waŋbduška Wakpa (Santee Sioux)@
+@Snapping turtle@|@khéya@
+@Snow@|@Wá@
+@Snow flurries@|@ičámna@
+@Snowing@|@wá hiŋhé@
+@Sober up@|@Kibleza yo/ye@
+@Socks@|@huŋyákȟuŋ@
+@Somebody (used in a memorial song)@|@Tuwe sece k'un@
+@Someone@|@waŋží@
+@Someone was looking for you@|@Tuwa onile@
+@Son@|@Čhiƞkší, Čhíŋkš (M or F speaker)@
+@Song@|@olówaŋ@
+@Son-in-law@|@tȟakó (M or F speaker), wičháwoȟa@
+@Sore@|@boo-boo - (children’s term)@
+@Soup@|@waháŋpi@
+@South@|@itókaǧata@
+@South Dakota@|@Pažóla Otȟúŋwahe@
+@South Platte@|@T'ate T'acaŋku (Wind Road), Wašiŋ Wakpa (Fat River)@
+@South Scatterwood Lake@|@C'aŋ Ȟaȟacedaŋ (Santee Sioux)@
+@Spanish J in Roja@|@ȟ@
+@Speafiish@|@Hoc'ap'e@
+@Spear River@|@Wahuk'eza Wakpala@
+@Spider@|@iktómi@
+@Spirit@|@naǧí, wanáǧi@
+@Spirit Lake@|@Mde Wak'aŋ (Santee Sioux)@
+@split something with ease (v)@|@-sléčA  (root word)@
+@Spoon@|@čhiŋšká@
+@Spotted Crow@|@K'aŋǧi Gleška@
+@Spotted Eagle@|@Na hocunka, wambli gleska ahitonwan po@
+@Spotted Elk@|@Uŋpaŋ Gleška@
+@Spotted Elk (Chief)@|@Hehaka Gleška@
+@Spotted Tail@|@Šiŋte Gleška@
+@Spotted Weasel@|@It'uŋkasaŋ Gleška@
+@Spread@|@otȟáŋiŋ@
+@Spring (season)@|@wétu@
+@Spring Creek@|@T'aŋpa Oju Wakpadaŋ (White Birch Creek) (Santee Sioux)@
+@Spring water@|@mniówe, wiwila@
+@Sprinkle (weather)@|@mni š’éš’e@
+@Squash@|@Wagmú@
+@St Francis@|@Sapa Uŋ Ot'i (Home of the Black Robes)@
+@Stabber@|@Wac'ap'e@
+@Stand up and remove your hat@|@Inajin na wapostan glusloka po/pe.@
+@Stand up and remove your hats@|@Inajinpi na wapostan glusloka po/pe@
+@Stand up. (to more than one or to a group)@|@Woslá inážiŋ pe/po (F/M speaker)@
+@Stand up. (to one person)@|@Woslá inážiŋ ye/yo (F/M speaker)@
+@Standing Bull@|@T'at'aŋka Najiŋ@
+@Standing Bull Walking@|@T'at'aŋka Wosla Mani@
+@Standing Cloud@|@Mahpiya Najiŋ@
+@Standing Elk@|@Hehaka Najiŋ (Yankton Sioux)@
+@Standing Rock@|@Iŋyaŋ Bosdata  (Santee Sioux), Iŋyaŋ Woslal Haŋ@
+@Stapler@|@wínaskilye@
+@Star@|@wičháȟpi@
+@Star Face@|@Wic'aȟpi Itet'uŋ@
+@state of being (v) {the verb to be}@|@Úŋ@
+@Steady rain@|@mniwózaŋ@
+@Steam oneself@|@ap’óič’iya (v)@
+@Stem@|@hútela@
+@Stink turtle@|@khes’ámna@
+@Stomach@|@thezí@
+@Stone@|@íŋyaŋ@
+@Stop!@|@Ayúštaŋ yo (m>sg)@
+@Storm@|@wakíŋyaŋ aglí@
+@Straw hat@|@psá wapȟóštaŋ@
+@stretch (v)@|@iglúzičA@
+@Strong@|@sutá@
+@Strong wind@|@tȟaté tȟáŋka@
+@Struck By The Ree@|@P'adani Ap'api (Yankton Sioux)@
+@Stubborn@|@wanáȟ’uŋ šni@
+@Stud horse@|@šuŋngblóka@
+@Student@|@wayáwa@
+@Sugar@|@čhaŋháŋpi@
+@Summer@|@blokétu@
+@Sun@|@wí@
+@Sun dogs (reflections of colored light on either side of the sun in cold weather)@|@wiáčheič’ithi@
+@Sundance Rite@|@Wi Wáŋyaŋg Wačhípi@
+@Sunday (Holy day) (7th day)@|@Aŋpétu Wakȟáŋ / Aŋpétu Šakówiŋ@
+@Sunny@|@Mašté@
+@Sunny weather@|@maštešte@
+@Sunrise@|@wí hinápȟe@
+@Sunset@|@wí mahél iyáya, wímahíyaya@
+@Sunshine@|@mašté@
+@Sure@|@oháŋ@
+@Surprised@|@itȟúŋpȟa@
+@Swamp@|@pteǧá@
+@Swan@|@maǧáska@
+@Swan Lake@|@Maǧa T'aŋka Ota@
+@Sweat/Purification Rite@|@Inípi / Iníkaǧapi@
+@Sweetgrass@|@wačháŋǧa@
+@Sweets@|@čhaŋháŋpšaša, čhaŋmskúya@
+@Table@|@akáŋ wówapi, wáglutapi@
+@Tablets@|@pȟežúta gmigméla@
+@Taboo@|@wogluze@
+@Take either one@|@Unmagma icu wo/we@
+@Take it@|@Icu wo/we@
+@Take something to one@|@kakhí@
+@Táku eníčiyapi he@|@What's your name?@
+@talk (v)@|@wóglaka@
+@talk about (v)@|@Iwoglaka@
+@Tall@|@háŋska@
+@taste (v)@|@iyútȟA@
+@Tawny@|@ži@
+@Tea@|@Waȟpé kȟalyapi@
+@Teach me@|@Uŋspémakhiya ye/yo (F/M speaker)@
+@Teacher@|@waŋná, Waúŋspekhiya, waúŋspewičhákhiya, wówapi Lakȟóta wačhíŋ@
+@Teachers aide@|@waúŋspewičhákhiya ókiya@
+@Teenage boy@|@kȟoškálaka@
+@Teenage girl@|@wikȟóškalaka@
+@Teeth@|@hí@
+@Tell the truth@|@Wicaka yo/ye@
+@Term of endearment used only for those we have developed a close relationship with@|@Lalá@
+@Term of respect and should be used for addressing anyone who is  near the same age as our own grandfather@|@Tȟuŋkášila@
+@Thank you@|@hahó hahó! - (expression of gratitude), Hayé hayé - (used in addressing sacred beings)@
+@Thank you all@|@Wopila eciciyapi@
+@Thank you very much@|@Wopila heca@
+@Thanks@|@philámayaye@
+@Thanksgiving@|@Waglékšuŋ Yútapi Aŋpétu@
+@That is not right@|@Héčhetu šni kštó/yeló (F/M speaker)@
+@That man has got some dried meat@|@Wičháša kiƞ hé pápa etáƞ yuhá@
+@That man has some dried meat@|@Wičháša kiƞ hé pápa etáƞ yuhá@
+@That one doesn't listen@|@He wanah'un sni@
+@That person is nuts/wild@|@He witkotkoke@
+@That startled/scared me@|@He yus'inyemaye@
+@That's all@|@Hecegla!@
+@That's good enough@|@Hehan waste@
+@That's it!@|@Hecegla!@
+@the@|@tȟaŋčháŋ, tȟapȟúŋ@
+@The@|@Waanataŋ@
+@The baby is so cute@|@Hoksicala kin wastela@
+@The bell's going to ring soon@|@Ecani kahla kte@
+@The Black Hills@|@Ȟesápa@
+@The car doesn't run@|@Iyecinkinyanke kin iyaye sni@
+@The car won't start@|@Iyecinkinyanke kin iyaye sni@
+@The chief is here now@|@Itancan kin wana hi@
+@The Courage to change the things I can@|@Nahan taku ohitiya bluto kecha okihi maya yo@
+@The deed made me feel good@|@Philámayaye ló - (masculine speaker)@
+@The earth only endures@|@makȟá kiŋ lečhála tȟéhan yuŋké ló’@
+@The food is good and tasty@|@Wóyute kíŋ oyúl wašté@
+@the gender ending yelo becomes )@|@welo@
+@the gender ending yo becomes )@|@wo@
+@The Lakota@|@Thítȟuŋwaŋ@
+@The old men say@|@Wičháȟčala kiŋ heyá peló’@
+@The other one@|@uŋmá@
+@The other way@|@Unmacetkia@
+@the people are gathered@|@Taku un oyate oshpaya witap@
+@The Plough@|@wichákhiyuhapi@
+@the thunders have killed you  (Said when killing a spider)@|@Kola, wakinyan niktepi@
+@The tire is flat@|@Hugmiyan kin nasnije@
+@There's no relationship over here (song line refering to incest probability)@|@Leciya otakuye wanice lo@
+@These@|@lená@
+@they always pursue learning@|@Pejuta ounye uha wóunspé ki henna wa yasu yakel pasi (pi/pelo)@
+@They are good@|@Hená wašté peló@
+@They are good (female speaking)@|@Hená waštépi ksto@
+@They are good (Female speaking)@|@Hená waštépe@
+@They call me Mike@|@Mike emáčiyapi@
+@They called me to the office@|@Office ekta micob@
+@They came to pick you up@|@Hiyonihipi@
+@They have (Female speaker) [hena can be dropped]@|@(hená) yúhapi@
+@They have (Male speaker) [hena can be dropped]@|@(hená) yúhapeló@
+@They left@|@éyaya@
+@They pursue learning@|@Slolya ktauƞ wóunspé pasi (yupi/pasiya pelo)@
+@They say it's going to be hot@|@Okatin kta keyapi@
+@They sent him@|@uyápi@
+@They will learn something so they try it@|@Taku un unspepi khtacha iutha (pi/pelo)@
+@Thigh@|@čhečá@
+@Think@|@yukčáŋ@
+@This I ask so that these people may live@|@ho hecel lena oyate kin nipi kte, Lecel wacin@
+@This is mine@|@Lé mitȟáwa kštó/yeló (F/M speaker)@
+@This morning@|@híŋhaŋni@
+@Those@|@hená@
+@Three@|@yámni@
+@Three Bears@|@Mat'o Yamni@
+@Throat@|@loté@
+@Throw it away!@|@Ihpeya yo/ye!@
+@Throwing of the Ball Rite@|@Tȟápa Waŋkál Yeyápi / Tȟápa Kaȟ’ól Iyéyapi@
+@Thumb@|@napȟáhuŋka@
+@Thunder@|@wakíŋyan hotȟúŋpi@
+@Thunder Being people@|@wakinya oyate kin ahitonwan po, Wiyohpeyata@
+@Thunder Face@|@Ite Wakiŋyaŋ@
+@Thunder Horse@|@Wakiŋyaŋ T'asuŋke@
+@Thursday (4th day)@|@Aŋpétu Tópa@
+@Tick (insect)@|@tȟaskákpa@
+@tickle (v)@|@yuš’íŋš’iŋ@
+@Tired@|@yuǧó@
+@Tired out@|@watúkȟa@
+@to@|@-mnuža  (root word), ȟá, Ikčé wóunspé ki aphasya (pi/pelo)@
+@to   (like packed snow)@|@-mnuza  (root word)@
+@to  (v)@|@tákuya@
+@to - they pursue learning@|@Slolya ktauƞ wóunspé pasi (yupi/pasiya pelo)@
+@to (v)@|@apéhaŋ, eyáya, Ičú, íŋ, íputȟaka, íputȟakA, iyágle, kakhí, Khiyéla Iwaƞyaƞka pi/pelo, kúŋ, naká, ógle, otȟáŋiŋ, takuya, takúya, takuye, Tȟí, tuŋwáŋ, Úŋ, waŋží, winyuze, wóhAŋ, wóta, wótA, Wóunspé aphasiya aphantun (pi/pelo), Yuhá, yukčá, yukčáŋ@
+@to be (v)@|@Ečíyapi, kĥáta, kú, ótȟaŋiŋ@
+@To the center@|@Na hocunka, wambli gleska ahitonwan po@
+@To the Earth@|@makȟátakiya@
+@To the east@|@Na wiyohinyanpata, sinte sapila oyate ahitonwan po@
+@To the north@|@Na waziyata, tatunka oyate kin ahitonwan po@
+@To the south@|@Na itokagata, wambli oyate kin ahitonwan po@
+@Tobacco@|@canlí@
+@Tobacco ties@|@čhaŋlí wapȟáȟta@
+@Today@|@Aŋpétu kiŋ lé, Lé aŋpétu kiŋ@
+@Toe@|@siókaza, sipȟá@
+@Toenail@|@sí šáke@
+@Together@|@ptáya@
+@Together people pursue learning@|@Pta yela oyate ki takuƞ wounspe itahan pasiyakel skan (pi/pelo)@
+@Together the people pursue a purpose@|@Witayela oyate taku kpahsi yakel wóichuƞ@
+@Tomato@|@uŋžíŋžiŋtka@
+@Tomatoes@|@uŋžíŋžiŋtka@
+@Tomorrow@|@híŋhaŋni kiŋ@
+@Tongue@|@čheží@
+@Tongue River@|@T'ac'eji Wakpa@
+@Tonight@|@haŋhépi kiŋ@
+@touch (v)@|@épatȟaŋ@
+@Toward the hills@|@ȟeyátakiya@
+@Towards above@|@waŋkátakiya@
+@Transparent@|@sóta@
+@Tree@|@čháŋ@
+@Tree branch@|@alétka, čhaŋáletka@
+@Tree fungus@|@čhaŋnákpa@
+@tremble (v)@|@čhaŋčháŋ@
+@Tribal chairman@|@oyáte itȟáŋčhaŋ@
+@Tribal councilman@|@omníčiye wičháša, pȟoǧó wičháša@
+@Tribal councilwoman@|@omníčiye wíŋyaŋ, pȟoǧó wíŋyaŋ@
+@Trill@|@uŋȟnáǧičala hotȟúŋpi@
+@Tripe@|@tȟaníǧa@
+@Try it@|@Iyuta yo/ye@
+@Tuesday (2nd day)@|@Aŋpétu Núŋpa@
+@Turkey@|@Waglékšuŋ  (male), Zizíčha@
+@Turkey Eating Day@|@Waglékšuŋ Yútapi Aŋpétu@
+@Turkey vulture@|@hečá@
+@Turn off the lights@|@Okpasya yo/ye@
+@Turn on the lights@|@Ojanjan kin yuile yo@
+@Turn out the lights@|@Okpasya yo/ye@
+@Turnip@|@thíŋpsila@
+@Turtle@|@khéya@
+@Twitch@|@naká@
+@Two kettles@|@Oóhenuŋpa@
+@Two Strikes@|@Num Kaȟpa@
+@Two Woods Lake@|@C'aŋ Nuŋpa Mde (Santee Sioux)@
+@Two year old deer@|@tȟáhežata@
+@Two year old elk@|@tȟáhežata@
+@Uncle@|@até (if father’s brother), Lekší (M or F speaker)@
+@Under Baggage@|@Wapin Ohlate@
+@Universe@|@makȟásitómniyaŋ@
+@unruly@|@witkótkoka, witkótkokA@
+@Untie@|@yukčá@
+@Upper@|@Watpa Ipakšaŋ, Watpa Ipakšaŋ  (River Bend)  (Santee Sioux)@
+@Upper arm@|@aȟčó@
+@Upper Big Sioux River@|@Watpa Ipakšaŋ  (River Bend)  (Santee Sioux)@
+@Valentine Nebraska@|@Oinajiŋ Ot'uŋwahe (Stopping Place), Oinajiŋta (Stopping Place)@
+@Valley@|@ósmaka, wakȟógla@
+@Very good@|@Líla wašté ksto  (Female speaking), Líla wašté yeló@
+@Very well@|@Líla wašté yeló@
+@visible@|@ótȟaŋiŋ@
+@Vision (in the Vision quest)@|@wóihaŋble@
+@Vision Quest Rite@|@Hanbléčheya@
+@Vocabulary@|@Wičhóiye@
+@Waist@|@pȟaǧé@
+@Wait now…@|@Hinyanka@
+@Wake up! (to more than one or to a group)@|@Kiktá pe/po! (F/M speaker)@
+@Wake up! (to one person)@|@Kiktá ye/yo! (F/M speaker)@
+@walk (v)@|@máni@
+@Walking Buffalo@|@T'at'aŋka Mani  (Santee Sioux)@
+@want (v)@|@Čhiŋ@
+@want for someone (v)@|@kičhíŋ@
+@Wasp@|@wičháyažipa - (pronounced  wičháažipa)@
+@Watch out!@|@Wakta po/pe!@
+@Water@|@mni@
+@Waterfalls@|@mni-íyoȟaȟa@
+@Watermelon@|@špáŋ šni yútapi@
+@We are@|@uŋk’úŋpi@
+@We are going to play now@|@Waná uŋškátapi kte kštó (F/M speaker)@
+@We are one of ....@|@uŋwaŋží@
+@We can tell the whole world what we're doing (song line)@|@Unkokihi kin he unkotanin kte lo@
+@We go@|@uŋyáŋpi@
+@We have (Female speaker)@|@Uƞyúhapi@
+@We have (Male speaking)@|@Uƞyúhapelo@
+@Wear around the shoulders@|@íŋ@
+@Weary@|@watúkȟa@
+@weasel@|@itȟúŋkasaŋ@
+@Wednesday (3rd day)@|@Aŋpétu Yámni@
+@Welcome (more than one)@|@Taŋyáŋ yahípi@
+@Welcome (to my home)@|@hókahé!@
+@Welcome (to one)@|@Taŋyáŋ yahí@
+@Well@|@mničápi (noun), mniówe, wiwila, zaŋní (opposite to sick), zaŋniyaŋ (adjective)@
+@Well!@|@éya@
+@Well…@|@Eya le…/Ho eya…@
+@West@|@wiyóȟpeyata@
+@Wet@|@spáya@
+@What@|@Táku@
+@What are you doing?@|@Tak tokanunhan hwo/he?@
+@What day is it today?@|@Lehanl taku anpetu hwo/he?@
+@What did I just say?@|@Lecas tak epa hwo/he?@
+@What did you do last night?@|@Hanhepi tak tokanun hwo/he?@
+@What do you have? (Female speaker)@|@Táku luhá he?@
+@What do you have? (Male speaker)@|@Táku luhá hwo?@
+@What do you mean?@|@Taku yaka hwo/he?@
+@What do you think?@|@Toske ilukcan hwo/he?@
+@What do you want to drink?@|@Táku latkáŋ yačhíŋ he?@
+@What do you want to eat?@|@Táku yatá yačhíŋ he?@
+@What do you want?@|@Taku yacin hwo/he? (M/F speaker)@
+@What does the boy have?  (Male speaking)@|@Hokšíla kiƞ lé táku yuhá hwo?@
+@What does the boy have? (Female speaker)@|@Hokšíla kiƞ lé táku yuhá he?@
+@What else?@|@Taku ko?@
+@What has the boy got?  (Female speaker)@|@Hokšíla kiƞ lé táku yuhá he?@
+@What have you got? (Female speaker)@|@Táku luhá he?@
+@What have you got? (Male speaker)@|@Táku luhá hwo?@
+@What is his/her name?@|@Táku ečíyapi he/hwo? (F/M speaker)@
+@What is that?@|@Hé táku he/hwo? (F/M speaker)@
+@What is your name?@|@Ták eníčiyab he/hwo? (F/M speaker), Táku eníčiyapi he/hwo? (F/M speaker)@
+@What kind of day is it now?@|@eháƞ aƞpétu tókča he?@
+@What kind of day is it over there?@|@Héčiya aƞpétu tókča he?@
+@What kind of?@|@Tókča@
+@What time is it?@|@Mázaškaŋškaŋ tóna he/hwo? (F/M speaker), Oápȟe tóna he/hwo? (F/M speaker)@
+@What would you like to dirink?@|@Táku latkáŋ yačhíŋ he?@
+@What would you like to eat?@|@Táku yatá yačhíŋ he?@
+@Whatever@|@Taku kaheci@
+@What's happening?@|@Tókȟa@
+@What's his/her name?@|@Tak eciyap so....@
+@What's up?"@|@Toka hwo/he?@
+@What's wrong with you?"@|@Tonikca hwo/he?@
+@What's your name?@|@Táku eníčiyapi he@
+@When - (in the future)@|@Tóhaŋl@
+@When?@|@Tóhaŋ@
+@Where@|@Túktel@
+@Where are you from?@|@Tukténitáŋhaŋ he/hwo? (F/M speaker)@
+@Where are you going to sit?@|@Tuktel ilotakin kta hwo/he?@
+@Where are you going?@|@Tókhiya lá he/hwo? (F/M speaker)@
+@Where do you come from?@|@Tuktétaŋhaŋ yaú he/hwo? (F/M speaker)@
+@where do you live?@|@Na níš, tuktél yathí he/hwo? (F/M speaker)@
+@Where do you live?@|@Túktel yathí hwo/he? (M/F speaker)@
+@Where does your aunt live?@|@Nitȟúŋwiŋ  túktel thí he?@
+@Where have you been?@|@Tókhiya yaúŋhaŋ he/hwo? (F/M speaker)@
+@Where is the toilet?@|@Otȟáŋkaye kiŋ tuktél úŋ he?@
+@Where to?@|@Tókhiya@
+@Whetstone@|@Miyogli Oyuze@
+@Which one?"@|@Tuktunma?@
+@Which way?@|@Tuktogna?@
+@Whirlwind@|@wamníomni@
+@White@|@Ská@
+@White birch@|@tȟaŋpá@
+@White Buffalo Calf Maiden@|@Pté Sáŋ Wíŋ@
+@White Buffalo Calf Woman@|@Ptehiŋcala Saŋ Wiŋ@
+@White Clay@|@Mak'a Saŋ@
+@White Crane Walking@|@P'ehaŋ Saŋ Mani@
+@White Earth River@|@Mak'a Saŋ Wakpala, Mak'izita Wakpa@
+@White house@|@thípi ská@
+@White pelican@|@blóza@
+@White Robe@|@Šina Ska@
+@White Rock@|@Maya Skadaŋ (Santee Sioux)@
+@White Thunder@|@Wakiŋyaŋ Ska@
+@White Whirlwind@|@Wamniyomni Ska@
+@whiteboard@|@čhaŋbláska ská@
+@Whiteboard@|@čhaŋbláska ská@
+@Who@|@tuwá, túwe@
+@Who are you?@|@Nitúwe he/hwo? (F/M speaker)@
+@Who cares@|@Toka sni@
+@Who has some dried meat?@|@Tuwá pápa etáƞ yuhá hwo?@
+@Who has some dried meat? (Female speaker)@|@Tuwá pápa etáƞ yuhá he?@
+@Who is that?@|@Hé tuwé he/hwo? (F/M speaker)@
+@Who is your father?@|@Túwe até ya hwo/he?@
+@Who is your mother?@|@Túwe iná ya hwo/he?@
+@Who's got some dried meat?@|@Tuwá pápa etáƞ yuhá hwo?@
+@Who's got some dried meat? (Female speaker)@|@Tuwá pápa etáƞ yuhá he?@
+@Why@|@Tákuwe@
+@Why did you do that?"@|@Takuwe ca hecanun hwo/he?@
+@Why do you act too good?@|@Takuwe wastenic'ila hwo/he?@
+@wí@|@Sun@
+@Wild Animal@|@Wamákȟaskaŋ@
+@Wild Animals@|@Wamákȟaskaŋ@
+@Wild game bird@|@šiyó@
+@Wild plumbs@|@kȟáŋta@
+@Will-o’-the-Wisp@|@pȟéta yuhála@
+@Willow tree@|@čhoȟwáŋžiča@
+@Wind@|@tȟaté@
+@Windy@|@tȟatéte, Tȟaté@
+@Winter@|@waníyetu@
+@Wisdom@|@wóksape@
+@With medicine@|@Pejuta ounye uha wóunspé ki henna wa yasu yakel pasi (pi/pelo)@
+@With one@|@kičhí@
+@Without bowls@|@Itázipčho@
+@Wolf@|@šuŋgmánitu tȟáŋka@
+@Wolverine@|@škečátȟaŋka  - (pronounced  škečátȟaŋngka)@
+@Woman@|@wíŋyaŋ@
+@Wood Mountain@|@C'aŋ Ȟe@
+@Woodpecker@|@čhaŋkátotola@
+@Work horse@|@šuŋgwóilake@
+@Work-ox@|@ptewák’iŋ@
+@Worm@|@waglúla@
+@Would you like me to do it?@|@Ecamun yacin hwo?@
+@Would you like me to help you?@|@Ociciya yacin hwo/he?@
+@Would you like some coffee?@|@Wakȟálapi etáŋ yačhíŋ he/hwo? (F/M speaker)@
+@Would you like some?@|@Hunh yacin hwo/he?@
+@Would you like to dance with me?@|@Wayáčhi yačhíŋ he?@
+@Wounded Knee@|@Čhaŋkpé Ópi@
+@Wounded Knee Creek@|@C'aŋkpe Opi Wakpala@
+@Wrist@|@napókaške@
+@yawn (v)@|@iyóya@
+@Year@|@Waníyetu@
+@Yelled by women in a high pitched voice to praise warriors for acts of valor@|@lililili!@
+@Yellow@|@Zí@
+@Yellow Earth@|@Mak'a Saŋ Oyuze@
+@Yellow Shirt@|@Ogle Zizi@
+@Yellowstone River@|@Hehaka Wakpa (Elk River)@
+@Yes@|@Háƞ, Háŋ, háu, Hau/Haŋ, Haú/Háŋ, Hau/Haŋ ímápuze, héčha etáŋ wačhíŋ kštó/yeló (F/M speaker), ímaphi, lowáčhiŋ, Tó@
+@Yesterday@|@ȟtálehaŋ@
+@You - (pronoun)@|@Ní@
+@You and I have (Inclusive - dual)@|@Uƞyúha@
+@You are@|@Yaúŋ@
+@You are called@|@Eníčiyapi@
+@You are right@|@wičáyakȟa peló’@
+@You be@|@Yaúŋ@
+@You did very well@|@Yupiya waecanun welo/we@
+@You did well@|@Taŋyáŋ ečhánuŋ kštó/yeló (F/M speaker)@
+@You get@|@Iyáču@
+@You get your book? (male/female speaker)@|@Wówapi nitȟáwa iyáču wo/we@
+@You go alone@|@Nišnála yá ye/yo (F/M speaker)@
+@You go by yourself@|@Nišnála yá ye/yo (F/M speaker)@
+@You have@|@Luhá@
+@You know you want me@|@Amayas'in ca slolyaye@
+@You live at@|@Yathi@
+@You look sick@|@Nikuje s'eleca@
+@You look tired@|@Nihwa s'eleca@
+@You murmur about it@|@íyagle@
+@You must all come again@|@Ečháš akhé ú pe/po (F/M speaker)@
+@You must come again@|@Ečháš akhé ú we/wo (F/M speaker)@
+@You said@|@ehá@
+@You see@|@Waŋláka@
+@You seem to think you're so smart@|@Lila ksabnic'ila s'eleca@
+@You sit@|@naŋká@
+@You spoke truly@|@ehá peló’ eháŋkeč’uŋ@
+@You spread it out for drying@|@yamní@
+@You think bad@|@Sicaya wilukcan@
+@You want@|@Yačhíŋ@
+@Young@|@koskálaka, tȟéča@
+@Younger brother@|@misúŋ  (Male speaker), misúŋkala  (Female speaker)@
+@Younger brother got his book@|@Misúŋ wówapi tȟawá hé ičú@
+@Younger sister@|@mitȟáŋkala (female speaker), Tȟaŋkší (male speaker@
+@Your@|@Nitȟáwa@
+@Your grandfather@|@nitȟúŋkašila@
+@Your mother@|@nihúŋ@
+@Your younger brother@|@nisúŋkala@
+@You're finally here@|@Nakes yahi@
+@You're going home now@|@Yagle inceye?@
+@You're really cute@|@Lila nico@
+@You're right@|@ake@
+@You're standing in the way@|@Kuseya nayajin@
+@Yucca@|@hupȟéstola@
+

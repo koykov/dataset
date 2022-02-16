@@ -1,0 +1,1020 @@
+@English@|@Cebuano@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@10.000@|@dyes-myel, napulò ka libo@
+@100.000@|@syen myel, syento-mil, usa ka gatos ka libo@
+@101@|@syento-uno@
+@102@|@syento-dos@
+@103@|@syento-tres@
+@104@|@syento-kwatro@
+@105@|@syento-singko@
+@106@|@syento-says@
+@107@|@syento-syete@
+@108@|@syento-otso@
+@109@|@syento-nuybe@
+@11.000@|@onse-myel@
+@110@|@syento-dyes@
+@111@|@syento-onse@
+@112@|@syento-dose@
+@113@|@syento-trese@
+@114@|@syento-katorse@
+@115@|@syento-kinse@
+@116@|@syento-disisays@
+@117@|@syento-disisyete@
+@118@|@syento-disi-otso@
+@119@|@syento-disinuybe@
+@12.000@|@dose-myel@
+@120@|@syento-baynte@
+@13.000@|@trese-myel@
+@14.000@|@katorse-myel@
+@15.000@|@kinse-myel@
+@16.000@|@disisays-myel@
+@17.000@|@disisyete-myel@
+@18.000@|@disi-otso-myel@
+@19.000@|@disinuybe-myel@
+@199@|@syento-nubenta-i-nuybe@
+@2.000@|@dos-myel, duha ka libo@
+@20.000@|@baynte-myel@
+@200@|@dos-syentos, duha ka gatos@
+@200.000@|@dos syentos myel, duha ka gatos ka libo@
+@21@|@baynte-uno@
+@22@|@baynte-dos@
+@23@|@baynte-tres@
+@24@|@baynte-kwatro@
+@25@|@baynte-singko@
+@26@|@baynte-says@
+@27@|@baynte-syete@
+@28@|@baynte-otso@
+@29@|@baynte-nuybe@
+@3.000@|@tres-myel, tulo ka libo@
+@300@|@tres-syentos, tulo ka gatos@
+@300.000@|@tres syentos myel, tulo ka gatos ka libo@
+@31@|@traynta-i-uno@
+@32@|@traynta-i-dos@
+@33@|@traynta-i-tres@
+@34@|@traynta-i-kwatro@
+@35@|@traynta-i-singko@
+@36@|@traynta-i-says@
+@37@|@traynta-i-syete@
+@38@|@traynta-i-otso@
+@39@|@traynta-i-nuybe@
+@4.000@|@kwatro-myel, upat ka libo@
+@41@|@kwarenta-i-uno@
+@42@|@kwarenta-i-dos@
+@43@|@kwarenta-i-tres@
+@44@|@kwarenta-i-kwatro@
+@45@|@kwarenta-i-singko@
+@46@|@kwarenta-i-says@
+@47@|@kwarenta-i-syete@
+@48@|@kwarenta-i-otso@
+@49@|@kwarenta-i-nuybe@
+@5.000@|@lima ka libo, singko-myel@
+@500.000@|@lima ka gatos ka libo, singko-syento-mil, tunga sa milyon@
+@51@|@singkwenta-i-uno@
+@52@|@singkwenta-i-dos@
+@53@|@singkwenta-i-tres@
+@54@|@singkwenta-i-kwatro@
+@55@|@singkwenta-i-singko@
+@56@|@singkwenta-i-says@
+@57@|@singkwenta-i-syete@
+@58@|@singkwenta-i-otso@
+@59@|@singkwenta-i-nuybe@
+@6.000@|@says-myel, unom ka libo@
+@61@|@saysenta-i-uno@
+@62@|@saysenta-i-dos@
+@63@|@saysenta-i-tres@
+@64@|@saysenta-i-kwatro@
+@65@|@saysenta-i-singko@
+@66@|@saysenta-i-says@
+@67@|@saysenta-i-syete@
+@68@|@saysenta-i-otso@
+@69@|@saysenta-i-nuybe@
+@7.000@|@pito ka libo, syete myel@
+@71@|@setenta-i-uno@
+@72@|@setenta-i-dos@
+@73@|@setenta-i-tres@
+@74@|@setenta-i-kwatro@
+@75@|@setenta-i-singko@
+@76@|@setenta-i-says@
+@77@|@setenta-i-syete@
+@78@|@setenta-i-otso@
+@79@|@setenta-i-nuybe@
+@8.000@|@otso-myel, walo ka libo@
+@81@|@otsenta-i-uno@
+@82@|@otsenta-i-dos@
+@83@|@otsenta-i-tres@
+@84@|@otsenta-i-kwatro@
+@85@|@otsenta-i-singko@
+@86@|@otsenta-i-says@
+@87@|@otsenta-i-syete@
+@88@|@otsenta-i-otso@
+@89@|@otsenta-i-nuybe@
+@9.000@|@nuybe-myel, siyam ka libo@
+@900@|@nuybe-syentos, siyam ka gatos@
+@900.000@|@nuybe syentos myel, siyam ka gatos ka libo@
+@91@|@nubenta-i-uno@
+@92@|@nubenta-i-dos@
+@93@|@nubenta-i-tres@
+@94@|@nubenta-i-kwatro@
+@95@|@nubenta-i-singko@
+@96@|@nubenta-i-says@
+@97@|@nubenta-i-syete@
+@98@|@nubenta-i-otso@
+@99@|@nubenta-i-nuybe@
+@a fatty fish@|@isdang anduwaw namagaybay@
+@above@|@ibabaw, sa itaas@
+@accompaniment@|@duyog@
+@accompanist@|@tigduyog@
+@Afraid@|@layo, Nahadlok@
+@afternoon@|@hapon@
+@Air@|@Hangin@
+@all@|@tanán@
+@almost@|@hapit na@
+@also@|@upod, usab@
+@ambush@|@ambus, banhig@
+@and@|@ug@
+@And who is she?@|@Ug kinsa man siya?@
+@Angry@|@Nasukô@
+@are the guest hungry?@|@gigutom ba ang mga bisita@
+@are we afraid of them?@|@nahadlok ba kita kanila?@
+@are you afraid of dogs?@|@mahadlok ka ba sa iro?@
+@Are you coming the Philippines@|@Moanhi ka ba sa Pilipinas?@
+@Are you going?@|@Molakaw ka na ba?@
+@are you sleepy now@|@katulgon ka na ba?@
+@Are you the owner?@|@Ikaw ba ang tag-iya?@
+@Are you tired?@|@Gikapoy ka ba?@
+@ash@|@ágiw@
+@at@|@sa@
+@At what time?@|@Unsa mang orasa?@
+@ax@|@wa'say@
+@axe@|@wa'say@
+@bachelor@|@ulitawo@
+@back@|@likód@
+@bad@|@da-után@
+@ball@|@bola@
+@ballroom@|@sayawan@
+@bathroom@|@banyo, ligoanan@
+@Be careful@|@Pagbantay@
+@beautiful@|@guapa, gwapa, matahom@
+@because@|@kay@
+@behind@|@sa luyo@
+@believe@|@tu'o@
+@belly@|@tiyán@
+@below@|@sa ubos@
+@belt@|@bakos@
+@bicycle@|@bisekleta@
+@big@|@dagko (plu), dako, daku'@
+@big shot@|@bigsyat@
+@Billion@|@Bilyon@
+@bird@|@lánggam@
+@birth@|@pagkahimugo, pagkatawo@
+@birthday@|@adlawng natawhan, birtdi@
+@Bitter@|@Pait@
+@black@|@itúm@
+@blackmarket@|@blakmarket@
+@blood@|@dugo@
+@blouse@|@blouse@
+@body@|@lawas@
+@bone@|@bukóg@
+@book@|@libro@
+@bra@|@bra@
+@bracelet@|@brislit@
+@branch@|@sangá@
+@breakfast@|@pamahaw@
+@breast@|@dúghan, suso, tutoy@
+@bride@|@pangasaw-onon@
+@bridesmaid@|@abay@
+@Bright@|@Hayag@
+@brilliant@|@brilyante@
+@budget@|@badyet@
+@bumper@|@bampir@
+@but@|@apan, pero@
+@buy@|@palit@
+@Buy the bicycle@|@Palita ang  bisikleta@
+@Call me@|@Tawga ko@
+@Can I help you?@|@Unsa may ato@
+@car@|@awto@
+@Car@|@Kotse, Sakyanan@
+@careful@|@maampingon@
+@cat@|@iring@
+@caucus@|@kawkus@
+@Chair@|@siya@
+@cheap@|@barato@
+@check@|@tse'ke@
+@chicken@|@manok'@
+@child@|@ba'ta, bata@
+@church@|@iglesia, simbahan@
+@Clean@|@Limpyo@
+@Clear@|@Klaro@
+@clock@|@relo'@
+@cloud@|@pangánud@
+@Clouds@|@Panganod@
+@coconut@|@luni@
+@coffe and sugar@|@kape ug asukar@
+@coffee@|@k ape'@
+@cold@|@túg-naw@
+@Comb@|@Sudlay@
+@come@|@anhi@
+@Come@|@Dalî@
+@come again@|@balikbalik@
+@Come here@|@Duol diri, Umari ka@
+@come in@|@dayon'@
+@Come in@|@Sulod@
+@Confused@|@Naglibog@
+@containers@|@Ka lata@
+@Continue@|@Padayon@
+@correct@|@tinuód@
+@council@|@konseho@
+@Cow@|@Baka@
+@cross@|@krus@
+@Cross-eyed house of Belay@|@Ang balay ni belay libat@
+@Crying@|@Naghilak@
+@dad@|@pa'pa@
+@Dark@|@Ngitngit@
+@darkness everywhere@|@madulom ang tanan@
+@dawn@|@kaadlawon@
+@day@|@adlaw@
+@dear@|@mahal@
+@declaration@|@pahayag@
+@Definitely!@|@Lagi!@
+@deprivation@|@kawad-on@
+@Desk@|@Lamesa@
+@dextrose@|@dikstrus@
+@difficult@|@lisod, malisod@
+@Difficult@|@Lisud@
+@difficulty@|@kalisdanan@
+@Dili ko masiguro@|@I can't be sure@
+@dirty@|@húgaw@
+@Disappointed@|@Nadismayâ@
+@distance@|@gilay-on@
+@Do you have a ...@|@Duna ba mo'y ...@
+@Do you have a..@|@Duna ba mo'y ...@
+@Do you know him@|@Kaila' ka ba niya?@
+@do you love me?@|@gihigugma mo ba ako?@
+@Do you understand?@|@Nakasabot ka?@
+@Does God exist?@|@Aduna bay Diyos?@
+@Does he wear red?@|@Pula ba ang iyang gisul-ob?@
+@dog@|@iro@
+@don't be afraid of the storm@|@ayaw kahadlok sa bagyo@
+@don't mention it@|@Walay sapayan@
+@Don't touch me there!@|@Ayaw ko ug guniti dihá!@
+@Don't!@|@Ayaw!@
+@Drink@|@Inom@
+@driver@|@drayber@
+@dry@|@mala, ugá@
+@dull@|@hábul@
+@dusk@|@kilumkilom@
+@dust@|@abog', abúg@
+@Dust@|@Abog@
+@ear@|@dalúnggan@
+@earnings@|@kita@
+@Earrings@|@Ariyos@
+@earth@|@yúta@
+@east@|@sidlakan@
+@Easy@|@Sayon@
+@Eat@|@Kaon@
+@editor@|@editor@
+@egg@|@ítlog@
+@Eight@|@otso, walo'@
+@Eighteen@|@Disi-otso, Napulog-walo@
+@eighth@|@ika-walò@
+@Eighty@|@Kawalo-an, Otsenta@
+@eleven@|@napú'ô'g usá, napulo'g, napulo ug usá, onse@
+@eleven (1)@|@Napulog-usa@
+@eleventh@|@ika-napú'ô'g usá, ika-napulo'g usá, ika-napulo ug usá, ika-onse@
+@else@|@pa@
+@Embarassed@|@naulaw, Nauwaw@
+@ember@|@baga@
+@Enough!@|@Husto na!@
+@even@|@man@
+@evening@|@gabii@
+@everyday@|@adlawadlaw@
+@Everywhere@|@Bisan asa, Tanang dapit@
+@except for the Child Jesus@|@gawas lang sa Batang Hesus@
+@Excuse me@|@Paagi-a ko, Tabì@
+@express@|@ipadayag@
+@expression@|@pahayag@
+@eye@|@matá@
+@Eye glasses@|@Antiyohos@
+@far@|@layo@
+@fast@|@paspas@
+@Fast@|@kusog@
+@fat@|@lana, mantíka, tambók@
+@father@|@amahán@
+@father of the child@|@papa sa bata@
+@fear not@|@ayaw kahadlok@
+@feather@|@balahíbo@
+@Feeling humbled@|@Nahiubos@
+@Feeling love for@|@Nahigugma@
+@Feeling proud of@|@Mapasigarbohon@
+@feet@|@tiil@
+@feet and knee@|@tiil ug tuhod@
+@fellowman@|@isigkatawo@
+@fence@|@koral@
+@Fifteen@|@Kinse, Napulog-lima@
+@fifth@|@ika-limà@
+@Fifty@|@kalim-an, singkwenta@
+@fire@|@kalayo@
+@Fire@|@Kayo@
+@first@|@úna@
+@fish@|@ísda@
+@Five@|@lima, singko@
+@flesh@|@karne, unod@
+@flower@|@búlak@
+@Flower@|@Buwak@
+@fog@|@gábon@
+@fornication@|@pakighilawas@
+@forth@|@ika-upàt@
+@Forty@|@Kap-atan, Kwarenta@
+@forty years old@|@kwarenta anyos@
+@Foul smelling@|@Bahô@
+@found@|@nakita@
+@four@|@upat@
+@Four@|@kwatro@
+@Fourteen@|@Katorse, Napulog-upat@
+@Fragrant@|@Humot@
+@fried chicken@|@prayd tsikin@
+@friend@|@amiga, amigo, higala@
+@Frown@|@Mug-ot, Mugtok@
+@fruit@|@búnga, prutas@
+@furniture@|@mwebles@
+@Gallons@|@Ka galon@
+@garbage@|@basura@
+@garden@|@garden, hardin, tanaman@
+@Gas@|@Gasolina@
+@genitals@|@kinatawo@
+@get lost@|@wa'la@
+@Give me a ...@|@Hatagi kog ...@
+@Give me a piece of paper@|@Hatagi kog papel@
+@Give me money@|@Hatagi kog kwarta@
+@give me my coffee@|@palihug ko sa akong kape@
+@go@|@adto, lakaw@
+@Go@|@Larga!@
+@Go down@|@Kanaog@
+@Go out@|@Gawas@
+@Go up@|@Saka@
+@Go!@|@Lakaw!, Larga!@
+@Goat@|@Kanding@
+@godchild@|@binata, kinugos@
+@godfather@|@ninoy@
+@godmother@|@ninay@
+@good@|@maáyo@
+@Good afternoon@|@Maayong hapon@
+@Good Afternoon!@|@Maayong hapon!, Maayong Palis!@
+@Good bye@|@Babay@
+@Good day@|@Maayong udto@
+@Good day!@|@Maayong adlaw!@
+@good evening@|@maamaayong gabii@
+@Good Evening!@|@Maayong gabii!@
+@Good high noon@|@Maayong udto@
+@Good morning@|@Maayong buntag@
+@Good morning to you@|@Maayong buntag kaninyo, Maayong buntag usab kanimo@
+@Good Morning!@|@Maayong buntag!@
+@Good Noon!@|@Maayong udto!@
+@graduate@|@gradwado, gradwit@
+@grass@|@ságbut@
+@Grateful@|@Mapasalamaton@
+@green@|@berde, bérde, hilaw, lunhaw@
+@Grill that fish@|@Isugba kanang isda@
+@grocery@|@groseri@
+@groom@|@pamanhonon@
+@hair@|@buhók@
+@Hair brush@|@Brush@
+@hand@|@kamot, kamút@
+@Handkerchief@|@Panyô@
+@handle@|@kaptanan@
+@Handsome@|@Gwapo@
+@Happy@|@Malipayon, Nalipay@
+@Happy anniversay@|@Happy anniversary@
+@Hard@|@Gahì@
+@Has understanding@|@Nakasabot@
+@haste@|@kadali, pagdali@
+@Have you eaten yet?@|@Nakakaon ka na ba?@
+@Hazy@|@Hanap@
+@he@|@iya, iyaha, kaniya, niya, siya@
+@He buys a house for you@|@Gipalitan ka niya og balay@
+@he doesn't love her@|@wala siya mahigugma kaniya@
+@He is Oscar@|@Siya si Oscar@
+@head@|@u'lo, úlo@
+@heavy@|@búg-at@
+@Hello@|@Hello, Kumusta ka, Maayo!@
+@Hello; my name is Miguel@|@Ako si Miguel, Kumusta, Miguel akong ngalan@
+@Hello; my name is Miko@|@Ako si Miko, Kumusta; Miko akong ngalan@
+@Help@|@Tabang@
+@Help me@|@Tabangi ko@
+@Help Me!@|@Tabangi ko!@
+@Help!@|@Tabang!@
+@her paper@|@ang iyang papel@
+@here@|@dia, Dinhi@
+@Here is the money@|@Ania ang kuwarta@
+@he's left already@|@gilakaw na@
+@he's not hungry anymore@|@wala na siya gigutom@
+@high@|@taas@
+@high school@|@hayskul@
+@highnoon@|@udtong tutok@
+@hike@|@baklay, lakaw@
+@hold@|@kapot@
+@holder@|@sudlanan, tigkapot@
+@holiday@|@pista opisyal@
+@honor@|@kadungganan, pasidunggan@
+@honorable@|@dungganon@
+@Horn@|@Bosena@
+@Horse@|@Kabayo@
+@Horse-drawn rig@|@Parada, Tartanilya@
+@house@|@balay, baláy@
+@household@|@panimalay@
+@how@|@giunsa, unsaon@
+@How are you both@|@Kumusta man kamo?@
+@How are you?@|@Kumusta ka?@
+@How do you do it?@|@Unsaon man ni paghimò?@
+@How many@|@Pila@
+@how many of you are hungry?@|@pila kaninyo ang gigutom@
+@how many pieces?@|@pila kabuok?@
+@How many?@|@Pila ka buok?, Pila?, Pila?@
+@How much@|@Pila@
+@How much?@|@Pila?, Pila?, Tag-pila?, Tag-pila?, Tagpila ni?@
+@how old are you?@|@Pilay imong edad?@
+@How old are you?@|@Unsay edad nimo?@
+@How old are you? (1)@|@Pila'y imong idad?@
+@how?@|@unsaon@
+@How?@|@Gi-unsa?@
+@human@|@tawhanon, tawo@
+@human being@|@táwo@
+@human rights@|@tawhanong katungod@
+@Hurry!@|@Pagdalî!@
+@husband@|@bána@
+@I@|@ako, akoa, akong, kanako, ko, nako@
+@I am going to...@|@Moadto ko sa..@
+@I am looking for@|@Nangità ko'g..@
+@I am Sean@|@Ako si Sean@
+@I am staying at ...@|@Tua ko nag-abot sa ...@
+@I don't feel tired@|@dili man ko kapuyon@
+@I don't know@|@ambot lang, Ambut, Ambut., Wâ ko kahibalo, Wâ ko kahibawo, Wala ko kahibalo@
+@I don't know him@|@wala ko makaila niya@
+@I forgot his name@|@nalimtan ko ang iyang ngalan@
+@I had wine at home@|@Aduna koy imnon sa balay@
+@I have a book here for her@|@Nia man goy libro para niya@
+@I know him@|@kai'la ko siya@
+@I live in@|@Nagpuyô ko sa ..@
+@I live in ...@|@Nagpuyô ko sa ...@
+@I love you@|@gihigugma ko ikaw, Nahigugma ko nimo@
+@I love you (1)@|@Gihigugma tika, Gimahal ko ikaw@
+@I will always love you@|@higugmaon ko ikaw sa kanunay@
+@I won't wait for her anymore@|@Dili na lang ko mohulat@
+@I would like to buy that@|@Gusto ko mopalit anâ@
+@I would like two of those@|@Gusto ko ug duha anâ@
+@I'am an Ilonga@|@Ilongo ako@
+@i'd like to for i'm going sm.w@|@kay duna pa koy adtoon@
+@if@|@kung@
+@ill-mannered@|@bas'tos@
+@I'm a professor at U.P.@|@Ako propesor sa U.P.@
+@I'm afraid@|@nahadlok ako@
+@I'm fine@|@Maayo man usab@
+@I'm from Australia@|@Taga-Australia ko@
+@I'm from Batangas@|@Taga-Batangas ako@
+@I'm from Hong Kong@|@Taga-Hongkong ko@
+@I'm from Iloilo@|@Ako taga-Iloilo@
+@I'm glad to know you@|@Nalipay ko nga nagkaila ta@
+@I'm hungry@|@gigutom ako@
+@i'm in love@|@nahigugma ako@
+@I'm Jessie@|@Ako si Jessie@
+@I'm John@|@Ako si John@
+@i'm leaving now@|@moadto na ako@
+@i'm not going to study Cebuano@|@dili ko magtuon ug Cebuano@
+@i'm not sure@|@dili ko sigurado@
+@I'm Ruby@|@Ako si Ruby@
+@i'm sleepy now@|@katulgon na (a)ko@
+@I'm sorry@|@Pasaylo-a ko@
+@i'm still sleepy@|@katulgon pa ako@
+@I'm Tagalog@|@Tagalog ako@
+@I'm Tess@|@Ako si Tess@
+@i'm tired now@|@gikapoy na ako@
+@i'm very hungry@|@gigutom kaayo (a)ko@
+@I'm your teacher@|@Ako ang inyong maestra@
+@impulsive@|@madalidalion@
+@in@|@sa sulod@
+@in heavenly peace@|@sa langitnong kalinaw@
+@in his class@|@tua sa iyang klase@
+@in his room@|@naa sa iyang kwarto@
+@Inches@|@Ka pulgada, ka tiil@
+@Indeed!@|@Bitaw!@
+@intestines@|@tiná-i@
+@Is anybody home?@|@Maayo! Maayo!@
+@Is Maria around?@|@Nia ba si Maria?@
+@Is this the Visayas?@|@Kini ba ang Kabisay-an?@
+@It is cold here in Baguio@|@Tugnaw dinhi sa Baguio@
+@It was calm in the plaza@|@Hilom kaganiha sa plaza@
+@It's five o'clock@|@Alas singko na@
+@janitor@|@dyanitor@
+@Jeepney@|@Jeepney@
+@Jump@|@Lukso@
+@just fine@|@maayo man@
+@Just say hello to her for me@|@Ipangumosta na lang ko niya@
+@keepsake@|@kinuptanan@
+@key@|@ya'wi@
+@Kilometers@|@Ka kilometro@
+@Kilos@|@Ka kilo@
+@knee@|@tu'hod@
+@knife@|@kutsilyo@
+@lake@|@lanaw, lín-aw@
+@later@|@unya@
+@Laughing@|@Nagkatawa@
+@leaf@|@dáhon@
+@leave@|@molakaw@
+@left@|@walá@
+@left hand@|@wala'@
+@lefthanded@|@walhon@
+@leg@|@tíil@
+@Leroy's wristwatch is a Rolex@|@Ang relo ni Leroy Rolex@
+@lesson@|@leksyon@
+@Let's eat@|@Manga-on ta@
+@Let's go@|@Adto na ta!, Tana@
+@let's love one another@|@maghigugmaay kita@
+@Light rain@|@Taligsik@
+@lightning@|@kílat@
+@Lights@|@Sugâ@
+@limiting particle@|@lang@
+@Listen@|@Paminaw@
+@Liters@|@Ka litro@
+@liver@|@atáy@
+@long@|@ta?as@
+@Look for the book@|@Pangitaa  ang ang  libro@
+@lost@|@nasalaag, nawala@
+@Loud@|@kusog@
+@louse@|@kúto@
+@love@|@gugma@
+@luck@|@swerte@
+@lukewarm@|@inadlaw@
+@lunch@|@paniudto@
+@lung@|@bagà@
+@male@|@lalaki, laláki@
+@man@|@laláki, tawo@
+@mankind@|@katawhan@
+@many@|@daghan@
+@market@|@merkado@
+@master@|@a'mo, agalon@
+@May I ask a question?@|@Mahimo bang mangutana?, Puwede ko mangutana?@
+@Maybe@|@Tingali@
+@Maybe she's on her way@|@Basin moabot na siya@
+@me@|@Nakò@
+@meat@|@karne, unod@
+@meet@|@magkita, magtigom@
+@meters@|@Ka metro@
+@midnight@|@tungang-gabii@
+@milk@|@g a'tas@
+@million@|@usa ka milyon@
+@Million@|@Milyon@
+@mine@|@Akò@
+@money@|@kwarta, sapi@
+@monkey@|@amo, amo'@
+@month@|@bulan@
+@moon@|@búlan@
+@mopauli na@|@home@
+@More!@|@Pun-i pa!@
+@morning@|@buntag@
+@mosquito@|@lamók@
+@mother@|@inahán@
+@Mountain@|@Bukid@
+@mouth@|@ba'?ba'?@
+@my children are hungry@|@gigutom ang akong mga@
+@my coffee@|@ang akong kape@
+@My name is Mary@|@Ako si Mary, Ang akong ngalan mao si Mary@
+@name@|@ngálan@
+@narrow@|@hagíp-ot@
+@near@|@duol@
+@neck@|@líog@
+@Necklace@|@Kwentas@
+@needle@|@dágum@
+@new@|@bag-o, bág-o@
+@newspaper@|@pahayagan, peryodiko@
+@next month@|@sa sunod bulan@
+@next year@|@basig sa sunod tuig@
+@Nice@|@Nindot@
+@night@|@gabii@
+@nine@|@siyam@
+@Nine@|@nuebe, siam@
+@Nineteen@|@Disinuybe, Napulog-siyam@
+@Ninety@|@Kasiyaman, Nubenta@
+@ninth@|@ika-siyàm@
+@no@|@dili di@
+@No@|@Dilì@
+@No smoking please@|@Walay manigarilyo palihug@
+@nobility@|@mahárlika@
+@nobody@|@walay tawo@
+@nobody is hungry@|@walay gigutom@
+@none@|@wala@
+@north@|@amihanan@
+@northwind@|@amihan@
+@nose@|@ilóng@
+@not yet@|@dili pa, wala pa@
+@not yet; finished@|@wala pa; human na@
+@notebook@|@nut'buk@
+@now@|@karon, na@
+@nowadays@|@karong mga panahona@
+@number@|@numero@
+@officials@|@kadagkoan, opisyales@
+@old@|@tigúlang@
+@Old@|@Daan, Tiguwang@
+@one@|@one, usa@
+@one hundred@|@gatos, syento, usa ka gatos@
+@One Hundred@|@sien, usa ka gatus@
+@one thousand@|@Libo, mil@
+@One Thousand@|@usa ka libo@
+@Only@|@lang, ra@
+@Only You@|@Ikaw lang, Ikaw ra@
+@other@|@uban pa@
+@Ouch!@|@Agay!@
+@ours@|@a'mo@
+@over there@|@tua@
+@owner@|@tag-iya@
+@painful@|@sakít@
+@Panties@|@Panti@
+@Pants@|@Karsones@
+@paper@|@papel'@
+@path@|@agianan, dálan@
+@Peaceful@|@Malinawon@
+@Peaceful night@|@Gabiing malinaw@
+@Pen@|@Bulpin@
+@Pencil@|@Lapis@
+@person@|@t'wo, tawo@
+@personalaity@|@pagkatawo, personalidad@
+@Persons@|@Ka tawo@
+@Pieces@|@Kabuok@
+@pineapple@|@pinya@
+@place@|@dapit@
+@Plant@|@Tanom@
+@please@|@palihug@
+@Please ...@|@Palihug ...@
+@Please get me a taxi@|@Palihug kuha-i kog taxi@
+@Please stand@|@Palihug tindog, Tindog palihug@
+@Please; help me!@|@Palihug tabangi ako!, Palihug tabangi ko!@
+@politeness word@|@gyud@
+@Poor@|@kabus, pobre@
+@possessive of@|@sa@
+@pretty@|@gwapa, maanyag@
+@procrastinate@|@unyaunya@
+@procrastinator@|@tig-unyaunya@
+@Quiet please@|@Hilom palihug@
+@rain@|@ulán@
+@Rain@|@Uwan@
+@rat@|@ílaga@
+@Read this@|@Basaha ni@
+@Really?@|@Diay ba?@
+@red@|@pulá@
+@reputation@|@dungog@
+@revelation@|@gipadayag, pinadayag@
+@Rich@|@datò, kwartahan, sapi-an@
+@right@|@husto, tuó, tuong kamot, tuong kamot@
+@right hand@|@tuo'@
+@rights@|@katungod@
+@Ring@|@Singsing@
+@River@|@Sapâ@
+@road@|@agianan, d alan, dálan@
+@root@|@gamút@
+@rope@|@písi@
+@rotten@|@lata@
+@Sad@|@Magul-anon, Naguol@
+@salt@|@asín@
+@sand@|@balás@
+@savings@|@kwarta, tinigom@
+@scarecrow@|@tawotawo@
+@sea@|@dágat@
+@second@|@ika-duhà@
+@secretary@|@sek'retar, yo@
+@sell@|@baligya@
+@separation@|@pagbulag paglagyoay@
+@Seven@|@pito, siete@
+@Seven thirty@|@Alas siyete y media@
+@Seventeen@|@Disisyete, Napulog-pito@
+@seventh@|@ika-pitò@
+@Seventy@|@Kapito-an, Setenta@
+@Shall this fish be grilled?@|@Isugba ba kining isda?@
+@shame@|@kaulaw@
+@sharp@|@háit@
+@she doesn't love you@|@wala siya mahigugma kanimo@
+@She is in the mountain@|@Toa siya sa bukid@
+@she loves her husband@|@gihigugma niya ang iyang bana@
+@she loves you@|@gihigugma ka niya@
+@shell@|@balayan, kinhason@
+@she's sleepy; isn't@|@katulgon siya; dili ba?@
+@She's still in the office; Why@|@Ngano man diay unta?@
+@Shirt@|@Polo, T-shirt@
+@Shoes@|@Sapatos@
+@shopping@|@syapin@
+@short@|@mubo, mubô@
+@Shorts@|@Purol, Shorts@
+@shoulder@|@abága@
+@show@|@ipakita, pasusndayag@
+@Shut up@|@Hilom!, Saba!@
+@shy@|@naulaw@
+@Sit down@|@Lingkod@
+@six@|@unom@
+@Six@|@onom, says, unu'm@
+@Sixteen@|@Disisays, Napulog-unom@
+@sixth@|@ika-unòm@
+@Sixty@|@Kan-uman, Saysenta@
+@size@|@gidak-on@
+@skin@|@pánit@
+@Skirt@|@Saya@
+@sky@|@lángit@
+@slice@|@hiwa@
+@slow@|@hinay@
+@Slow down@|@Hinay-hinay@
+@small@|@gamáy@
+@Smile@|@Ngisi, Pahiyum@
+@smoke@|@asó@
+@snake@|@hálas@
+@soap@|@sabon'@
+@soap and water@|@sabon ug tubig@
+@Socks@|@Medyas@
+@Soft@|@hinay, Humok@
+@Sometimes early; sometime late@|@Usahay sayo; usahay sab dugay@
+@Sorry; but she's not here@|@Wala ra ba; Tua pa sa opisina@
+@Sour@|@Aslom@
+@south@|@habagatan@
+@spice@|@lamas'@
+@spider@|@lawa-lawa@
+@stair@|@h ag'dan@
+@Stand up@|@Tindog@
+@star@|@bitóon@
+@statement@|@pahayag@
+@Steering wheel@|@Manubila@
+@stick@|@káhoy@
+@stone@|@bató@
+@Stop@|@Hunong, Para@
+@storm@|@unos@
+@Straight ahead@|@Diretso lang@
+@Street@|@Dalan, Karasada@
+@strong@|@kusgan, kusog@
+@sugar@|@asu'kar@
+@Suit yourself@|@Ikaw lang@
+@sun@|@adlaw@
+@sunny@|@adlawan@
+@sunrays@|@bidlisiw sa adlaw@
+@sunrise@|@pagsubang, pagsubang adlaw@
+@sunset@|@pagsalop sa adlaw@
+@supper@|@panihapon@
+@supporter@|@tigpaluyo@
+@Sure!@|@Segurado!@
+@Surprised@|@Nakurat@
+@Sweet@|@Tam-is@
+@tail@|@íkug@
+@Take a bath@|@Kaligò@
+@Take care@|@Pag-amping, Pag-ayo-ayo!@
+@Take me to...@|@Ihatod ko sa ..@
+@Take that!@|@Usapa 'na!@
+@tall@|@taas@
+@Taxi@|@Taksi@
+@teeth@|@ng'ipon@
+@Telephone@|@Telepono@
+@ten@|@napú'ô@
+@Ten@|@dies, napulo@
+@tenth@|@ika-napú'ô, ika-napulo@
+@Thank you@|@salamat@
+@Thank you very much@|@Daghang kaayong salamat@
+@thanks@|@salamat@
+@that@|@ka'na, kadto, kana@
+@That is our house@|@Mao na ang amoang balay@
+@that pencil@|@kanang lapis@
+@that yonder@|@kadto@
+@thatch@|@atúp@
+@the book@|@ang libro@
+@the car key@|@yawi sa awto@
+@the child's milk@|@ang gatas sa bata@
+@the empty tomb@|@abg walay sulod nga lubong@
+@the execution@|@ang pagpahamtang sa silot@
+@the fool@|@ang buang@
+@the house of cross-eyed Libay@|@ang balay ni libay libat@
+@the man's watch@|@relo sa tawo@
+@the Messiah has come@|@nia'ng Mesiyas karon@
+@The one he wears is red@|@Pula ang iyang gisul-ob@
+@the present@|@ang gasa@
+@the shoes@|@gamay nga sapatos@
+@the teacher is hungry now@|@gigutom na ang maestra@
+@the thief@|@ang kawatan@
+@their car@|@ang ilang awto@
+@there@|@Didto, naa@
+@There is God in heaven@|@Adunay Diyos sa langit@
+@There was a snake in the tree@|@Didtoy halas sa kahoy@
+@These@|@Kini sila@
+@they@|@ila, ilaha, kanila, nila, sila@
+@they love each other@|@nagkahigugmaay sila@
+@they should not be afraid@|@dili sila angay mahadlok@
+@they're afraid of him@|@nahadlok sila kaniya@
+@they're not afraid of us@|@wala sila mahadlok kanato@
+@they're not asleep yet@|@wala pa sila matulog@
+@they're not sleepy anymore@|@dili na sila katulgon@
+@they're still hungry@|@gigutom pa sila@
+@they're weak because of hunger@|@luya sila kay gutom@
+@thick@|@bagâ, baga'@
+@thin@|@nipis@
+@Thin@|@Niwang@
+@third@|@ika-tulò@
+@Thirteen@|@Napulog-tulo, Trese@
+@thirty@|@katlo-an, trenta@
+@Thirty@|@Traynta@
+@this@|@kini, kiri@
+@This is the Visayas@|@Mao kini ang Kabisaya-an@
+@This is your book@|@Imo kining libro, Kini ang imong libro@
+@Those@|@Kadto sila@
+@thou@|@ikáw@
+@three@|@tulo@
+@Three@|@tres@
+@thunder@|@dalúgdog@
+@tiny shoes@|@gamay nga sapatos@
+@to believe@|@tu'o@
+@to bite@|@mopáak@
+@to blow@|@mohangin, mohuyóp@
+@to breathe@|@moginháwa@
+@to burn@|@súnugon@
+@to buy@|@mopalít@
+@to Cebu@|@sa Cebu@
+@to chew@|@mousap, úsapon@
+@to choose@|@píli-on@
+@to church@|@sa simbahan@
+@to climb@|@mosáka@
+@to come@|@ánhi, moanhi@
+@to cook@|@magluto@
+@to count@|@ihap@
+@to cry@|@mohílak@
+@to cut@|@mobúghâ, moputól@
+@to die@|@mamatay@
+@to dig@|@mokálot@
+@to dream@|@magdámgo@
+@to drink@|@moinúm@
+@to eat@|@mokáon@
+@to fall@|@mahúlog@
+@to fear@|@mahádlok@
+@to flow@|@ágas, áwas@
+@to fly@|@molupád@
+@to grow@|@motúbo@
+@to hear@|@madungóg, maminaw@
+@to hide@|@tago@
+@to hit@|@mobángag@
+@to hold@|@mohawid, mokupot@
+@to hunt@|@màmaríl mamaril, mangayam mangayam@
+@to invite@|@daapit@
+@to kill@|@mopatáy@
+@to know@|@ma-antígo, maalamon@
+@to laugh@|@mokatáwa@
+@to lie down@|@mohigdâ@
+@to live@|@mabuhi@
+@to open@|@moukab, ukabon@
+@to plant@|@magtanúm@
+@to pound@|@lubókon@
+@to say@|@búngat, súlti@
+@to school@|@sa eskwelahan@
+@to scratch@|@káloton@
+@to see@|@motan-aw@
+@to sew@|@magtahí@
+@to shoot@|@mamana@
+@to sit@|@molíngkod@
+@to sleep@|@matúlog@
+@to sniff@|@mosímhot@
+@to spit@|@manluwa@
+@to split@|@píkason@
+@to squeeze@|@mopugâ@
+@to stab@|@luba, túhog@
+@to stand@|@motíndog@
+@to steal@|@káwaton@
+@to suck@|@mosúpsup@
+@to swell@|@mohúbag@
+@to swim@|@molangóy@
+@to the market@|@sa merkado@
+@to think@|@maghunahúna@
+@to throw@|@ilábay@
+@to tie up@|@ihukót@
+@to turn@|@moliko@
+@to vomit@|@mosuka, su'ka@
+@to walk@|@lakát, molakáw@
+@To whom?@|@Kang-kinsa?@
+@to work@|@mag-uma@
+@to yawn@|@manghúy-ab@
+@tongue@|@díla@
+@too@|@pud, sab, sad@
+@tooth@|@ngípon@
+@Toothbrush@|@Sipilyo, Toothbrush@
+@Tree@|@Kahoy@
+@true@|@tinu'od@
+@Turn around@|@Tuyok@
+@Turn left@|@Disilya, Likô sa wala@
+@Turn right@|@Dimano, Likô sa tuo@
+@Twelve@|@Dose, Napulog-duha@
+@twenty@|@bente@
+@Twenty@|@baynte, Kawha-an, kawhaan@
+@two@|@duha@
+@Two@|@dos@
+@Ugly@|@Batî, Ngil-ad@
+@used for yes-and-no questions@|@ba@
+@Very light rain@|@Habo-habo@
+@Visayans are Filipinos@|@Pilipino ang mga Bisaya@
+@visitor@|@bisita@
+@Wait@|@Hulat, Huwat@
+@Wait a minute@|@Huwat sâ, Kadiyot lang@
+@Wake up!@|@Bangon!, Mata na!@
+@wala dinhi@|@he's not here@
+@Wallet@|@Pitaka@
+@warm@|@alimú-ot, init@
+@Wash the dishes@|@Hugasi ang plato, Panghugas sa plato@
+@water@|@tubig@
+@we@|@amo, ato, atoa, kami, kita, mi, mi, namo, nato, ta, ta, ta@
+@we (1)@|@amoa, kanamo, kanato@
+@we are very sleepy@|@katulgon kaayo kami@
+@we love the Philippines@|@gihigugma namo ang Pilipinas@
+@We will go to the movies@|@Moadto kami sa sinehan, Moadto kita sa sinehan@
+@wedding@|@kasal@
+@welcome@|@Dayun Kamo@
+@Welcome!@|@Dayon@
+@We're fine; And you?@|@Maayo man; Ikaw?@
+@we're going to sleep@|@matulog na kami@
+@we're not hungry yet@|@wala pa kami gigutom@
+@west@|@kasadpan@
+@wet@|@basa, umog@
+@what@|@unsa@
+@What can I do for you?@|@Unsa may ato@
+@what day@|@unsang adlawa@
+@What do you do?@|@Unsay inyong trabaho?@
+@What is your name?@|@Unsa'y imong ngalan?, unsay imong ngalan?, Unsay ngalan nimo?@
+@What is your name? (1)@|@Kinsa'y ngalan nimo?@
+@What number of child are you?@|@Ikapila ka sa imong pamilya?@
+@What should we do?@|@Unsay among buhaton?, Unsay atong buhaton?@
+@What should we do? (1)@|@Unsay angay namong buhaton?@
+@What should we do? (2)@|@Unsay angay natong buhaton?@
+@what time@|@unsang orasa@
+@What time is it?@|@Unsa nang namang orasa?, Unsa nang orasa?@
+@what year@|@unsang tuiga@
+@what?@|@únsa@
+@What's that?@|@Unsa nâ?@
+@What's the last price for this@|@Pilay katapusang hangyô 'ini?@
+@What's this?@|@Unsa ni?@
+@What's your name?@|@unsay imong ngalan?, unsay inyong trabaho?@
+@whay you?@|@ngano man, nganong ikaw man@
+@Wheel@|@Ligid@
+@when@|@kanus-a@
+@When do we start?@|@Kanus-a man kita magsugod?@
+@When is@|@Anus-â ang, Kanus-ä ang@
+@When will you study Cebuano?@|@Kanus-a ka magtuon ug Cebuano?@
+@when?@|@kanus-a@
+@where@|@asa, hain@
+@Where are they going?@|@Asa sila paingon?@
+@Where are we travelling to?@|@Asa ta molarga?@
+@Where are you from?@|@Taga-asa diay kamo?, Taga-asa ka?, Taga-diin man ka?@
+@Where are you going?@|@Asa ka man paingon?, Asa ka padulong?, Asa ka paingon@
+@Where are you going? (1)@|@Asa ka paingon?@
+@Where are you staying?@|@Asa ka nag-abot?@
+@Where do you live?@|@Asa ka nagpuyô?@
+@Where is@|@Asa ang@
+@Where is Arsenia?@|@Hain na si Arsenia?@
+@Where is my room?@|@Asa ang akong kuarto?@
+@Where is the ...@|@Hain man ang ...@
+@Where is the bar?@|@Asa ang bar?@
+@Where is the bathroom?@|@Asa man ang banyo?@
+@Where is the beach?@|@Asa ang baybay?@
+@Where is the market?@|@Asa man ang merkado?@
+@Where is the pair of scissors?@|@Hain na ang gunting?@
+@Where is the toilet?@|@Asa man ang CR?, Asa man ang kasilyas?@
+@where they kept watched@|@nga gibantayan man nila@
+@where?@|@asa, hain@
+@Where?@|@Diin?, Diin?, Dis-a?, Dis-a?, Hain?, Sa-a?@
+@Where's your friend?@|@Asa ang imong higala@
+@white@|@putí@
+@who@|@kinsa@
+@Who are you?@|@Kinsa ka, Kinsa ka?@
+@who?@|@kinsa@
+@who's hungry?@|@kinsay gigutom@
+@who's sleepy?@|@kinsay katulgon@
+@why@|@ngano@
+@why are they sleepy?@|@nganong katulgon man sila?@
+@why is Mary crying?@|@nganong nagahilak si maria?@
+@Why?@|@Ngano?@
+@wide@|@lapád@
+@wife@|@asáwa@
+@Will Tuesday be okay?@|@Mahimo ba sa Martes?@
+@wind@|@hángin@
+@wing@|@pako@
+@woman@|@babáye@
+@wood@|@káhoy@
+@woods@|@lasáng@
+@worm@|@watí@
+@Worried@|@Nabalisa, Nahingawa@
+@would you like to sleep now?@|@gusto mo na bang matulog?@
+@Wow! You have a lot of cars@|@Kadaghan man nimo og sakyanan!@
+@Wristwatch@|@Relo@
+@year@|@tu'ig@
+@yellow@|@dalág@
+@Yes@|@Oo@
+@yes; i'm going now@|@oo; moadto na ako@
+@you@|@ikaw', imo, imoha, ka, ka, kamu, kanimo, mo, mo, nimo@
+@you (pl)@|@inyo, inyoha, kamo, kaninyo, mo, mo, ninyo@
+@You are pretty!@|@Gwapaha nimo oy!@
+@You are so noisy!@|@Kasaba ba ninyo!@
+@You can wait for her@|@Hulata na lang@
+@you go to sleep now@|@katulog na kamo@
+@You own this book@|@Ikaw ang tag-iya niining libro@
+@Young@|@Batà, Batan-on@
+@your@|@inyo@
+@your food@|@ang inyong pagkaon@
+@your money@|@ang imong kwarta@
+@You're welcome@|@Wa'y sapayan@
+@zipper@|@sipir@
+

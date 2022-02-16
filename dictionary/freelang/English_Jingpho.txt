@@ -1,0 +1,1504 @@
+@English@|@Jingpho@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a 4-legged nat altar@|@ton@
+@a bamboo rope@|@šingri, šingrit@
+@a battle@|@phjen@
+@a bed-bug@|@krap, šäkrep@
+@a bee@|@märoi, numroi@
+@a bird of the genus columba@|@käkhru, khru, khru-du@
+@a bone@|@nra@
+@a border@|@rit, zhärit@
+@a bottle@|@ätau, dum, namtau, ndum, ndum, ntum@
+@a bow@|@kung-li, läli@
+@a cave@|@ginlong@
+@a child@|@käša, ša@
+@a chisel@|@ugon@
+@a clearing@|@mäzhen@
+@a coat@|@long-, pälong@
+@a coil@|@äkhong@
+@a confluence@|@mäjup@
+@a creeper@|@ri, rü@
+@a crust@|@kop@
+@a cubit@|@dong@
+@a day@|@ja'@
+@a deer@|@šan, šat@
+@a depository@|@sädek@
+@a destination@|@gintheng@
+@a diamond@|@sin@
+@a disease@|@ngan@
+@a ditch@|@kha'-khong, khong@
+@a division@|@ban, ban, tham@
+@a dwarf@|@ätek@
+@a feast@|@poi@
+@a female@|@num@
+@a fish trap@|@chingro'@
+@a flower@|@pan-@
+@a ford@|@ukhan@
+@a forest@|@ding-gram@
+@a fox@|@chäkhjon@
+@a full-grown bamboo@|@uroi@
+@a gong@|@jun-mang@
+@a granary@|@dum@
+@a grating@|@mägrang@
+@a guardian@|@gumgun@
+@a handful@|@lägra'@
+@a handle@|@ulang@
+@a hand-spindle@|@gäbang@
+@a hat@|@gägup@
+@a hold@|@läšum@
+@a horn@|@nrung@
+@a hurricane@|@läru@
+@a jacket@|@ta-go, tä-go@
+@a jail@|@thong@
+@a jar@|@jam@
+@a jewel@|@seng@
+@a k. of basket@|@phut@
+@a k. of beetle@|@mjeng@
+@a k. of car ornament@|@lädan, lätan, lätan@
+@a k. of cooking pot@|@singgo, singko@
+@a k. of creeping plant@|@ri, rin@
+@a k. of cricket@|@gädon, kädon, khädon@
+@a k. of fungus@|@mätho, mäthong@
+@a k. of insect@|@sumbung@
+@a k. of salt@|@jám@
+@a k. of tree@|@mälem@
+@a k. of yam@|@khäla@
+@a knot@|@gindum, kindum@
+@a large cricket@|@khra@
+@a large kind of chatty@|@mä-au@
+@a large village@|@ningthong@
+@a limb@|@khrang, läkung@
+@a load@|@mägun@
+@a male@|@lá@
+@a military drum@|@bren@
+@a molar@|@wa-kam@
+@a mosquito@|@zhi'-grong@
+@a moth@|@mänut@
+@a mother@|@gänu, nu@
+@a pantry@|@läphra, zhäpra@
+@a pass@|@kang@
+@a pick-axe@|@u-zho@
+@a pipe@|@pjong@
+@a place@|@khan@
+@a plain@|@läja@
+@a pledge@|@ningra@
+@a pond@|@kha'-long@
+@a post@|@šädo@
+@a price@|@mänu@
+@a prolonged hoe made of bamboo@|@uro@
+@a raft@|@phong@
+@a rake@|@läphri@
+@a ravine@|@ningrut@
+@a room@|@gok@
+@a sail@|@dongkhon@
+@a shield@|@mäga', n-ga, n-gang@
+@a shore@|@kha-kom@
+@a slave@|@mäjam@
+@a small bird@|@chi, chi-jap, chit@
+@a small coin@|@ajoi@
+@a small knife@|@n-khji@
+@a snail@|@läpop@
+@a sp. of blackbird@|@sing-kri@
+@a sp. of cricket@|@kärot@
+@a sp. of ground-rat@|@mägan@
+@a sp. of iguana@|@pälaj@
+@a sp. of Indian mongoose@|@sinlen@
+@a sp. of lark@|@-tö, khäto, to-, to-mung@
+@a sp. of owl@|@du@
+@a sp. of yam@|@chingkhro@
+@a spring@|@npun@
+@a squirrel@|@mai@
+@a stalk@|@phun@
+@a steer@|@u-tang@
+@a stem@|@n-kjang@
+@a story@|@bum@
+@a stranger@|@cä-sam@
+@a stump@|@ndu@
+@a sum@|@ärang@
+@a supernatural appearance@|@šingran@
+@a sword@|@nthu@
+@a taurus@|@ngä@
+@a tent@|@zhang phang@
+@a thread@|@ri@
+@a tick@|@mägra@
+@a toe@|@läjung@
+@a torch@|@šänan@
+@a town@|@märe@
+@a trap@|@nkho'@
+@a tusk@|@ko, kong@
+@a valley@|@krung@
+@a vault@|@läwang@
+@a very old mother@|@chhjing-phji@
+@a village@|@uthon@
+@a vital part@|@kreng@
+@a watchman@|@länga@
+@a water-lizard@|@singgu, singku@
+@a wave@|@kha'-leng@
+@a well@|@kha-thung@
+@a wheel@|@leng@
+@a whistle@|@lätut@
+@a wild cat@|@khan@
+@a witch@|@lämum@
+@a worm@|@dung, tung@
+@a yoke@|@gan, gan-dang@
+@above@|@nca, ningca@
+@abstain@|@gám@
+@abstain from certain food@|@ci@
+@abundance@|@npho-bu@
+@accept@|@la@
+@aching@|@chälun, lun@
+@act together@|@märau, rau@
+@adequate@|@gúm@
+@adhere to@|@kãp, šänang@
+@affectionate@|@nphra@
+@again@|@let@
+@all@|@ju, ju, nlang@
+@all by itself@|@kri@
+@almost hit@|@gäsoi, soi@
+@ambush@|@äjom@
+@an assembly@|@phung@
+@an ear of grain@|@nsi/@
+@an edge@|@šägrim@
+@an egg-shell@|@nsom@
+@an elder@|@salang@
+@an elder sister@|@käna@
+@an elevation@|@kong@
+@an enclosure@|@long@
+@an inch@|@cen@
+@an infant@|@chängai, ngai@
+@an onion@|@šäkau@
+@an open basket@|@ka', nka'@
+@an outer passage@|@khat@
+@and@|@the'@
+@animal of the weasel family@|@mälat@
+@animal resembling a squirrel@|@ru-, ru-khron@
+@ants@|@kägjin, käkjin, ukjin@
+@anxious@|@säcang@
+@arrow@|@mäla, päla@
+@as a bamboo sprout@|@dingnip@
+@as a blade@|@no@
+@as a carpet@|@nep@
+@as a child@|@nem@
+@as a fowl@|@pun@
+@as a garment@|@kat@
+@as a hill@|@ngoi@
+@as a horse@|@läkhat@
+@as a present@|@phrai@
+@as a theft@|@läkan@
+@as a top@|@kri@
+@as a village@|@thong@
+@as a whirlpool@|@wai@
+@as an arrow@|@gap@
+@as around a field@|@nphan@
+@as lightning@|@käprap@
+@as of fruit@|@šägrau@
+@as step@|@läkhrip@
+@as sweat@|@gälet, kälet@
+@as water@|@lui@
+@as with flies@|@su@
+@as yarn on a shuttle@|@khjam@
+@ascend@|@lung@
+@ashes@|@dap@
+@authority@|@cum@
+@axe@|@ningwa, nwa@
+@back of a blade@|@n-gung@
+@bamboo@|@käwa@
+@bamboo spade@|@n-gon@
+@bamboo spike@|@mäson, son@
+@bamboo split@|@päli@
+@bamboo sprouts@|@mäkru'@
+@bamboo water vessel@|@nthung@
+@banana@|@längu@
+@bandage@|@khang@
+@bandit@|@dämya'@
+@bank of a river@|@kha-nin-gam@
+@bark@|@phyi'@
+@barking deer@|@chäkhji@
+@be able@|@lu, lu, rai, thu@
+@be alike@|@gädo, khjo@
+@be angry@|@bun, sun-bun@
+@be annoyed@|@nri@
+@be apart@|@ran@
+@be as two of a kind@|@khja@
+@be ashamed@|@gäja'@
+@be aslant@|@däkjeng, gjeng, khje, khje, khjeng, khjeng, khjéng, kjeng, n-gjeng, nkhjeng@
+@be awake@|@su@
+@be aware of@|@na@
+@be bent@|@gu', kängat, ko, ku, lägo', mägo', thingkun, thingkun@
+@be bent forward@|@n-gum@
+@be bitten as by sand flies@|@kram@
+@be boiled and thus soft@|@pjo'@
+@be bright@|@brim@
+@be broad@|@ang, äwong@
+@be broken@|@do'@
+@be broken up@|@ce@
+@be burned@|@prong@
+@be central@|@wunpong@
+@be choked@|@dang@
+@be clean@|@ceng, seng@
+@be complete@|@khum, ting@
+@be concave@|@guãk, kho', khwak@
+@be concupiscent@|@rang@
+@be continuous@|@ra@
+@be contracted@|@zhom@
+@be cool@|@ci, cin, gäcin@
+@be cramped@|@dut@
+@be crowded out@|@äkrot, krot@
+@be crumpled@|@gäju'@
+@be cut@|@phrut@
+@be dark@|@lämo, ma, mu'@
+@be deaf@|@läphang@
+@be decayed@|@cam, chäcam@
+@be defeated@|@sum@
+@be destroyed@|@bjak, phjet@
+@be distinct@|@krang@
+@be doublet@|@gup@
+@be dried up@|@ka@
+@be dry@|@kang, khrop@
+@be dry and brittle@|@gätha'@
+@be drying@|@khun@
+@be dusk@|@rim@
+@be early@|@zhau@
+@be empty@|@kjet, som@
+@be ended@|@kjet, thum@
+@be energetic@|@cet, jet@
+@be entire@|@kup, lum@
+@be exhausted@|@ma', sang@
+@be exposed@|@gäten@
+@be fat@|@saú@
+@be filled to overflowing@|@lom@
+@be filled to the top@|@dem@
+@be finished@|@kre'@
+@be firm@|@dakring, kring, ngang, ting@
+@be flat and wide@|@bjen@
+@be foolish@|@ngok@
+@be foot-sore@|@läci@
+@be forked@|@bra'@
+@be frozen@|@ägji@
+@be full@|@phring@
+@be glazing@|@le@
+@be good@|@khrak, khru@
+@be green@|@hning, hring@
+@be grey@|@mut@
+@be ground@|@gumrin, rin@
+@be grown and halfripe@|@äro@
+@be hanging@|@cun, läcun, mäcun, näcun@
+@be hard@|@zha'@
+@be hooked@|@khai@
+@be hot@|@käthet, zhap@
+@be ill@|@mäci'@
+@be in a circle@|@wan@
+@be in pairs@|@run, zum@
+@be lazy@|@lägon@
+@be left@|@ta@
+@be left unmarried@|@gram@
+@be long@|@gälu-gälang@
+@be long and narrow@|@dingloi, loi@
+@be loose@|@gäran, ginran, käran@
+@be lost@|@mje, šämat@
+@be lucky@|@thik@
+@be mad@|@mäna@
+@be mature@|@grang@
+@be mended@|@pa@
+@be mixed@|@jau@
+@be narrow@|@gjeng, gjéng, gjip@
+@be near@|@thep@
+@be old@|@dingla@
+@be on fire@|@chi'@
+@be perplexed@|@ung, ung-ang@
+@be pierced through@|@khren@
+@be placed@|@ra@
+@be planning mischief@|@zhon@
+@be pleasant@|@ngon@
+@be pleased@|@pjo, pro@
+@be plentiful@|@po@
+@be pointed@|@jon@
+@be poor@|@grom@
+@be possessed@|@got@
+@be projecting@|@leng@
+@be puckered@|@chong, um@
+@be quick@|@läram, reng@
+@be rank@|@cang@
+@be reborn@|@git@
+@be reduced@|@sip@
+@be ripe@|@mjin@
+@be rough@|@zep@
+@be round@|@lum@
+@be rugged@|@mäzut@
+@be saltish@|@šum@
+@be scarce@|@ke, kje@
+@be scattered@|@bra@
+@be shaggy@|@je@
+@be sharp to the touch@|@gra, mägra@
+@be shining@|@tu@
+@be short@|@gädun, ntu, tu@
+@be single@|@tai@
+@be slippery@|@bjoi@
+@be slow@|@länan, länin@
+@be small@|@ji, tak, tek@
+@be smoky@|@khu@
+@be soaked@|@äpap, äpap, pap, prim@
+@be soft@|@mäni, nu@
+@be sound of mind@|@gring@
+@be spotted@|@nteng@
+@be stale@|@cu@
+@be straight@|@mälang@
+@be stroked@|@sop@
+@be stubby@|@bu, wun-bu@
+@be swift@|@läreng@
+@be swinging@|@goi@
+@be talkative@|@lem, nlem@
+@be terrified@|@phra@
+@be thin@|@re, rë, roi', te-re@
+@be thirsty@|@kära@
+@be tired@|@acu, ba, cu, zhín@
+@be torn@|@šep@
+@be troubled@|@cang@
+@be trrified@|@käphra@
+@be true@|@teng@
+@be turned@|@lap@
+@be unclean@|@wu'@
+@be unrolled and spread out@|@jan@
+@be useless@|@be, bje@
+@be very lean@|@gram@
+@be well@|@kham@
+@be well filled@|@pu@
+@be wet@|@mädi@
+@be wide@|@äwung-wang, wung-wang@
+@be wide open@|@sumkha@
+@be widely separated@|@äphra@
+@be willing@|@kam@
+@be worth@|@dan@
+@be wound@|@khjen@
+@beans@|@no'-kju@
+@bear@|@cap, khám@
+@beat@|@dup@
+@beautifully@|@moi@
+@become convalescent@|@bran@
+@become dark@|@sin@
+@become friends@|@khu'@
+@become violent@|@rung@
+@behind@|@phang@
+@behold@|@mù@
+@belly@|@kan, pu@
+@belonging to@|@änak@
+@below@|@käwu@
+@bent@|@dägum@
+@bile@|@šägri@
+@billion@|@rì@
+@billow@|@leng@
+@bin@|@sang@
+@bind@|@gjit@
+@bird of the falcon family@|@kälang@
+@bison@|@pho@
+@biting to the taste@|@mäsa'@
+@bitter@|@kha@
+@black@|@chang, mächang@
+@black mould@|@git-na@
+@blood@|@sai@
+@blossoms@|@nmoi@
+@blow@|@mut@
+@blow with mouth@|@gäwut@
+@boat@|@li@
+@body@|@gumgu@
+@bone@|@nrang, nrut@
+@borrow@|@khoi@
+@bow@|@dan, ngu, ngu', ngu', nguk@
+@braid@|@mäkhri@
+@brain@|@nu'@
+@brass@|@mägri@
+@brawl@|@gäthok-gäthak@
+@breadth@|@nda'@
+@breast@|@öm@
+@breeze@|@bung-li@
+@bright@|@leng@
+@bring close together@|@zhäthep@
+@broken@|@käphrut@
+@broken piece@|@do@
+@brother-in-law@|@gäkhau@
+@brown@|@däling@
+@buffalo@|@nga-loi, uloi@
+@bull kept for breeding@|@uli@
+@bulrushes@|@ägoi@
+@bumpy@|@äkron@
+@burn@|@wut@
+@burst@|@ga'@
+@butterfly@|@pälam-la'@
+@calf of the leg@|@läbop@
+@calm@|@num@
+@can@|@lu-na@
+@cane@|@rim@
+@capable@|@nu@
+@capture@|@rim@
+@carcass@|@mang@
+@carry a child on the back@|@bà'@
+@carry in the arms@|@pon@
+@carry on the shoulder@|@phai@
+@casting net@|@sum-gon@
+@castrate@|@dong@
+@cataneous disease@|@ning@
+@central fireplace@|@rap@
+@chaff@|@mäkho@
+@chair@|@läkhum@
+@chant@|@mäkhon@
+@charcoal@|@nra'@
+@chastise@|@den@
+@cheek@|@bam-bam@
+@child@|@mà@
+@chin@|@nkha@
+@chirp@|@chap@
+@chop@|@phja'@
+@circle@|@wang@
+@clamour@|@gäro@
+@claw@|@tin@
+@clay@|@kägam@
+@clitoris@|@zhin-di, zhin-ti@
+@close@|@käpat@
+@close as against a support@|@gäthep@
+@close the fist@|@läcup@
+@cloth worn during menstruation@|@äni, bäni, ni@
+@cloud@|@sä mui@
+@cloudy@|@mu', mung@
+@coagulated@|@kan@
+@cockroach@|@šälip@
+@coconut@|@mäun@
+@coil@|@kun@
+@cold@|@äsi, gäci, käšung, ningšung, nšung@
+@collect@|@that@
+@colour@|@zho@
+@colouring@|@mak@
+@comb@|@päsi@
+@come@|@pru@
+@common house-lizard@|@dingsing@
+@companion@|@mänang@
+@completed@|@boi@
+@completely@|@kop@
+@compose and sing@|@bju@
+@conceal@|@mäkoi@
+@concur@|@khro@
+@consider@|@non@
+@contain@|@rong@
+@continuous@|@äjan@
+@cooking place dug@|@läwot@
+@copulate@|@nä'@
+@cotton cloth@|@pan@
+@cover@|@grup, jip@
+@cow@|@dumsu, su@
+@crab@|@chäkhan@
+@crafty@|@khet@
+@crest@|@dung-kung@
+@crimson@|@khjeng@
+@cross-bow@|@ndan@
+@cucumber@|@gjin, n-gjin@
+@cudgel@|@khon@
+@curved@|@khau, khong-khong@
+@custom@|@älai, lai@
+@cut@|@kätham@
+@cut and clear@|@gru@
+@cut off@|@gat@
+@cut with a backward stroke@|@märat, numrat@
+@dare@|@wam@
+@darkness@|@nsin@
+@daughter of a chief@|@änang@
+@day@|@šani@
+@day after tomorrow@|@phra@
+@declare@|@nga@
+@deep@|@nak@
+@defilement@|@äwu'@
+@dense@|@äpa'@
+@depend upon@|@pha@
+@destroy@|@si-mit@
+@diffidence@|@gam@
+@dig out@|@krau@
+@dirt@|@äbut-äno', äno, khägrui@
+@disagreeable odor@|@äkhang@
+@disagreeing@|@zhan@
+@dive@|@phung-lip@
+@dividing line between 2 paddy@|@ärit@
+@divine@|@chäba', šäba'@
+@divison@|@tan@
+@dog@|@guì@
+@door@|@chingkha, nkha@
+@downy@|@nam@
+@drugs@|@ci@
+@drum@|@chaing@
+@dry and fallen leaves@|@läphra@
+@dry leaves@|@läphro-läpra@
+@dull@|@ton@
+@durable@|@khang@
+@dust@|@nbun@
+@dwarfish@|@ägjek, tot@
+@dwelling-place@|@bu@
+@earth@|@gä, git, git@
+@easy@|@loi@
+@eat@|@ša@
+@egg@|@u-di, wu@
+@egg-plant@|@šäba@
+@eight@|@macat@
+@elder brother@|@käphu@
+@elephant@|@mägui, mänang@
+@elevate@|@grau@
+@eloquence@|@ntam@
+@embroidery@|@mäka@
+@encircle@|@phjin@
+@enough@|@phroi@
+@entice@|@ägo'@
+@equally@|@mären@
+@evacuate the intestines@|@n'e, n'i@
+@evaporate@|@khjet@
+@evening@|@na'@
+@excrement@|@khji@
+@exhibit@|@mädun@
+@exist@|@pra@
+@expensive@|@phu@
+@experiment@|@cham@
+@expire@|@si@
+@expressive of love@|@mädu@
+@extend@|@mäden@
+@extended@|@gran, kong@
+@extort@|@nap@
+@eye@|@mji'@
+@faded@|@nui@
+@fall down from an elevation@|@khon@
+@fall from an elevation@|@khrat@
+@far@|@can@
+@fat@|@sau@
+@father@|@käwa@
+@father-in-law@|@äca, ca, gü, käca@
+@father's younger brother@|@doi@
+@favour@|@kju@
+@fear@|@khrit@
+@feather@|@mun, u-mai@
+@feed@|@rem@
+@feel cramp in the legs@|@läkhring@
+@feel heavy@|@nin@
+@feel squeamish@|@on@
+@feel stiff@|@kjin@
+@feel stiff and aching@|@känin@
+@female@|@šäwi@
+@female affix@|@wi@
+@fence@|@bungkhu@
+@fermented rice@|@ca'@
+@few@|@läma@
+@field@|@na@
+@figure@|@sumla@
+@fill as a lake@|@ung@
+@filter@|@zhen@
+@filth@|@ägang@
+@fingernail@|@lä mjin@
+@fire@|@mji, wan@
+@fish@|@nga@
+@fishing by stupefying@|@märau@
+@five@|@mänga@
+@flea@|@wa'-khäli@
+@flesh@|@šan@
+@flesh on the back of the body@|@nkhjun@
+@float with the stream@|@jo, jong@
+@follow@|@nang@
+@food@|@šädot@
+@forcibly@|@azha@
+@ford@|@rap@
+@forehead@|@käthan, läthan, than@
+@forever@|@käzhu, käzhut@
+@fork@|@läga@
+@form@|@khráng@
+@four@|@mäli@
+@fresh sprouts@|@mäkrung@
+@friend@|@mäkhu@
+@from an inflamed ear@|@läkjo@
+@fruit@|@sì@
+@fulfill@|@šänga@
+@gallop@|@kägan, khan@
+@garlic@|@phäro@
+@gas@|@air@
+@gather together@|@phon@
+@gentle@|@ngwi@
+@gently sloping@|@räwi, rui@
+@gills@|@šinggjeng@
+@girdle@|@kjit, mäkjit@
+@glean@|@gut@
+@glutinous rice@|@nbo@
+@go down@|@ju'@
+@goat@|@täkhjen@
+@gonorrhoea@|@äri@
+@good@|@ai, cha, cha, kä, mai@
+@grandchild@|@käšu, šu@
+@grate@|@bret, pret@
+@grave@|@lup@
+@great@|@gäba, ning-la, ning-ton, ting-zha@
+@green@|@gäcing@
+@greet@|@šäkram@
+@growing less@|@jom@
+@grumble@|@ngun@
+@gums@|@wa-nin@
+@habit@|@äron@
+@hailstones@|@sin@
+@hair@|@sam@
+@hair of the head@|@sam-ban@
+@hammer@|@mädup-sumdu@
+@hand@|@läta', ta'@
+@hardened@|@läga@
+@have an inordinate appetite@|@kru@
+@have rule and authority over@|@mädu'@
+@haversack@|@thing-ba@
+@he@|@ší@
+@he is@|@rai ai@
+@he was@|@rai sai@
+@head@|@pung@
+@hear@|@mä tat@
+@heavy@|@li@
+@heavy fog@|@ncam, ningcam@
+@heavy with sleep@|@šämui@
+@heddle bar of a Kachin loom@|@sänat, šingnat@
+@here@|@nang@
+@hit with the flat of the hand@|@bjing@
+@hoard@|@känom@
+@hold in the mouth@|@ma-um@
+@home@|@nbu@
+@honour@|@ärong@
+@horse@|@gumra, kumrang@
+@how many?@|@gäde, mäde@
+@human being@|@märai, numrai@
+@hump on cattle@|@däbu@
+@hundred@|@läca@
+@hundred thousand@|@sèn@
+@hut@|@nta@
+@hut in a paddy field@|@wa@
+@I@|@ngai@
+@I am@|@rai n ngai@
+@I was@|@rai sa ngai@
+@ice@|@khjen. gjen@
+@illness@|@äna@
+@impale@|@mäthan@
+@imperative@|@-ru@
+@in@|@u-@
+@in unison@|@äkhrip@
+@indication@|@äna@
+@inquire@|@san@
+@insect resembling the calandre@|@dumbung@
+@inside@|@gäta@
+@instruction@|@mung@
+@itch@|@jam, machit@
+@jump upward@|@gumzhot@
+@jungle@|@nam@
+@jungle lizard@|@käsang-son, nsang-son@
+@kernel as of fruit@|@ätum, tum@
+@kick forward@|@thong@
+@kiss@|@pup@
+@knee@|@läphùt@
+@kneel@|@phutti'@
+@knotty@|@grom, n-grom@
+@labor@|@mu@
+@lame@|@go-thon@
+@large boiler@|@n-au@
+@large kind of cricket@|@chälen@
+@last night@|@mäna'@
+@lay aside@|@khong@
+@leaf@|@lap@
+@leaf-lard@|@säman@
+@leaven@|@mäci@
+@leech@|@wot@
+@left@|@pai@
+@leg@|@lago, lägong@
+@leg just above the ankles@|@lätho@
+@leguminous plant@|@preng, šäpre@
+@length in opposition to width@|@dingdung@
+@length of two hand-breadths@|@zhum@
+@leopard@|@khang-khji, šäro, šärong@
+@let fall@|@phra@
+@level@|@pye@
+@level country@|@gädung@
+@level road@|@numda'@
+@libiduous desire@|@ngang@
+@lick@|@šinglep@
+@lie down@|@kä, leng@
+@lightning@|@myi'-phrap, nphrap@
+@like@|@zhu@
+@locusts@|@dinggam@
+@long@|@gälu, ningjan, rèng@
+@long strips of shavings@|@n-non@
+@look after@|@mäzhan@
+@look for@|@tam@
+@love@|@nwai@
+@lower@|@läwu'@
+@lower part of the spinal chord@|@mängu@
+@lower screen over fireplace@|@kärap@
+@luck@|@gam@
+@luxuriant@|@jang@
+@make@|@di@
+@make a hole in ox's nose@|@na'@
+@make fun of@|@gja, kja@
+@male@|@wa@
+@malignant female nat@|@son@
+@malignant nat@|@šäpot@
+@mallet@|@sumdu@
+@mantra@|@khju@
+@manure@|@phun@
+@matter@|@ní@
+@measure of capacity@|@bje@
+@metal@|@zha@
+@middle@|@gä-ang@
+@mildew@|@chämu@
+@milk@|@chu'@
+@millet@|@gji, ja, šägji, šägji@
+@minced meat@|@päsa@
+@minute worms@|@känu@
+@mix@|@käjau@
+@mix as by pouring from bottle@|@gälet@
+@modesty@|@ägam@
+@monkey@|@woi@
+@monster@|@märo, märong, numro@
+@moon@|@šäta@
+@morning@|@zhäpho@
+@mortar@|@thum@
+@mother-in-law@|@ni@
+@mould@|@mäšu@
+@mountain@|@bum@
+@mouse@|@ju@
+@move slowly up and down@|@äwam@
+@much@|@lo'@
+@multiply@|@mäjat, tham@
+@munch@|@mom@
+@mushroom@|@kämu@
+@nail@|@phri@
+@naked@|@krin@
+@name@|@mjing@
+@narrate@|@ginron@
+@narrow ravine@|@läkhjon@
+@native beer@|@chäru, ru@
+@navel@|@šädai@
+@near@|@ni@
+@neck@|@du'@
+@nest@|@cip@
+@nettle@|@cämat, mat-tung@
+@new@|@nan@
+@new growth@|@nsing@
+@new paddy@|@mätut@
+@night@|@šäna'@
+@nine@|@zhäkhu@
+@nit@|@ci-ru@
+@noble@|@nsang@
+@nose@|@lä ti@
+@not bent@|@gäjan@
+@not tall@|@nem@
+@not to sink@|@wo@
+@nothing@|@ma@
+@notoriously severe@|@gumšem@
+@novice@|@šälum@
+@observe@|@ju@
+@odor@|@bat@
+@odour@|@mänam, urang@
+@one@|@an, anhte, anhteng, ngai@
+@open air entertainment@|@ninseng, nseng@
+@opening@|@khu, nkhun@
+@otter@|@šäram@
+@outside of the ears@|@läbjing@
+@oval@|@mäjon@
+@overhelmed@|@kätan@
+@owl@|@u-khu@
+@paddy@|@ma, mam@
+@paddy ready for husking@|@chäkhrau@
+@paddy-bin@|@ndum@
+@pass@|@lai, šälai@
+@pass over@|@kot@
+@paternal aunt's daughter@|@khri@
+@path@|@lám@
+@pattern of carving@|@känu@
+@pay an indemnity@|@gälo@
+@peaceful@|@šingdi@
+@peaked@|@chom@
+@peel off@|@go@
+@penis@|@mäne@
+@penis shaft@|@ne po_t@
+@perform@|@gälo@
+@person having reached the age@|@äram@
+@perspiration@|@sälat@
+@pheasant@|@u'-ri'@
+@phlegm@|@pänen, pu1-nen@
+@pig@|@wa'@
+@pillow@|@dungkhum@
+@pimples@|@ching-zhon@
+@pinch@|@lächok, tep@
+@pinch with the nails@|@mäthi'@
+@pinnacle@|@mätho@
+@pinned down@|@mjet@
+@place@|@da, šära@
+@place in a long@|@dingren@
+@place upon@|@mära'@
+@plant@|@ban@
+@play a musical instrument@|@dum@
+@plentious@|@song@
+@pluck@|@di', gäre'@
+@poison@|@ntuk@
+@poisoned and barbed arrow@|@singkji@
+@porcupin@|@dumsi@
+@possess@|@lu@
+@pot@|@di'@
+@pour into@|@zho@
+@precipice@|@kham-wam@
+@precipitous@|@ngam@
+@prepare as a corpse for burial@|@zhang@
+@prepare glutinous rice@|@khja@
+@present a petition@|@khjok@
+@preside over@|@up@
+@price@|@zhäphu@
+@probably@|@bjong@
+@pumpkin@|@käkhum, khum@
+@punishment@|@äri@
+@pure@|@äcai@
+@push forward@|@non@
+@put on and wear@|@phun@
+@put together@|@toi@
+@rafter@|@läpa'@
+@rain@|@märang@
+@rainy season@|@jänam, länam@
+@raven@|@u-kha@
+@ravine@|@khäro', lägjong@
+@rectilinear@|@ding@
+@red@|@khje@
+@red ants@|@chäkhrau@
+@red pepper@|@mäzhap@
+@religious offering@|@älu@
+@remainder@|@gäle@
+@resin@|@no@
+@respect@|@ku@
+@rest@|@tha@
+@retire@|@jú@
+@return@|@wa@
+@rice@|@maicen@
+@riches@|@gan@
+@right side@|@khra@
+@rigid@|@ran@
+@rock@|@lungbra@
+@rope@|@sumri@
+@rosemallow@|@zhang-nang@
+@rotten@|@zam@
+@rough@|@dinggren, läthat@
+@rough person@|@wa'-zep@
+@rub@|@gänun@
+@rub with the fingers@|@mänun@
+@run@|@gägat, kat@
+@run away@|@phrong@
+@salt@|@zhum@
+@salver@|@ban@
+@sand@|@zai-bru@
+@saturated@|@cham@
+@scent@|@sängau@
+@scoop up@|@läkhot@
+@scrape@|@khut@
+@scraper for cleaning@|@lägun@
+@scream@|@mägroi@
+@season@|@khra@
+@seed@|@li, nli@
+@semen@|@äju, ju, zu@
+@separate@|@zhäkha'@
+@servant@|@ali, äli äma, li@
+@sesame@|@chingnam, nam@
+@set and show teeth@|@zhi@
+@set the teeth on edge@|@mäkrim@
+@seven@|@sänit@
+@shadow@|@šingnip@
+@shallow@|@n-got@
+@shape@|@läkhot@
+@shark@|@man@
+@sharp@|@ncam@
+@shear@|@jen@
+@shellfish@|@khoi@
+@shining@|@ätu@
+@shop@|@seng@
+@short period of time@|@tong@
+@shoulder@|@gäpha'@
+@side of a Kachin house@|@kun@
+@sinew@|@läsa@
+@sister@|@käzhan@
+@sister-in-law@|@känam, nam@
+@six@|@kru'@
+@skills@|@mäka@
+@sky@|@lämu@
+@slope@|@phjin@
+@small@|@kji, šoi@
+@small parrot@|@ukhring@
+@smell@|@sing, sung, using@
+@smelly@|@chäphu@
+@smoke@|@wan-khut@
+@smooth@|@mänen@
+@snake@|@läpu@
+@sneeze@|@khji@
+@so little@|@nte'@
+@soak through@|@khon@
+@soaked@|@ši'@
+@socket@|@mächo@
+@socket of a ploughshare@|@sumro@
+@son-in-law@|@däma'@
+@sorrow@|@ncang, ningcang@
+@sort@|@mju@
+@sour@|@khri@
+@sp. of fig tree@|@lagum, lakum@
+@sp. of horse-leech@|@ip@
+@sp. of pheasant@|@u'-khri'@
+@speech@|@ga@
+@spirit@|@mäla, nat@
+@splendid@|@réng@
+@spoon@|@cho@
+@spread out and hang up@|@zhen@
+@spread out and thus flat@|@phjen@
+@spread the wings@|@phjan@
+@spy out@|@sok, zhok@
+@squeeze@|@šup@
+@star@|@šägan@
+@stare at@|@ze@
+@steam@|@käbo@
+@steeped@|@cing@
+@stir in order to mix@|@käbun@
+@stone@|@nlung@
+@stopped up@|@chip@
+@straight@|@preng@
+@strength@|@lägong@
+@strengthen@|@šädo@
+@strings@|@äcam@
+@strip and twist@|@nut@
+@strip off@|@mäla@
+@strong affection@|@che-zhu@
+@sugarcane@|@kumšu@
+@sulphur@|@kan@
+@summit@|@ndung@
+@sun@|@zhan@
+@sweet@|@dui@
+@swell@|@bum@
+@swell as a river@|@tung@
+@swollen belly@|@chäbung@
+@tadpole@|@no'@
+@tail@|@mai@
+@take revenge@|@dop, tai@
+@take up@|@tha'@
+@tall@|@jan@
+@tangled@|@mjam@
+@taste good@|@mu@
+@taste of spices@|@käphram, phram@
+@taxes@|@khan@
+@tea-leaf@|@pha'-lap@
+@ten@|@ši@
+@tender@|@noi@
+@tense@|@kang@
+@terrified@|@kjom@
+@testicle@|@di@
+@that@|@dai, ja, wö@
+@the age of puberty@|@ram@
+@the back of the ankle@|@läkhre@
+@the bamboo rat@|@šäru@
+@the body@|@dinggam@
+@the buttocks@|@dang, mai-dang@
+@the corpus and metacorpus@|@läseng@
+@the dry season@|@ginthong@
+@the ear@|@na@
+@the early morning@|@mänap@
+@the edge of a blade@|@ningšan, nša, nšan@
+@the elephant bamboo@|@u-ra, u-ra@
+@the evening twilight@|@nrim@
+@the face@|@man@
+@the fates@|@märo@
+@the first and best brew@|@mächan@
+@the fork of a tree@|@šälung@
+@the groin@|@läphrang@
+@the hair@|@läga@
+@the hair on the head@|@kära@
+@the hamstring@|@läkhap@
+@the head@|@bo@
+@the head-louse@|@ci'@
+@the heart@|@sälum@
+@the inside@|@nkhu'@
+@the inside of the chest@|@kro@
+@the jaw@|@šäkap@
+@the larger part@|@mälo@
+@the liver@|@mäsin@
+@the mucus of the nose@|@nep@
+@the mustard plant@|@khrang@
+@the palm of the hand@|@läpha, läphan@
+@the physical body@|@gong@
+@the pine@|@märau, märau-phun@
+@the root of the tail@|@chängum@
+@the rump of a bird@|@chängo, u-chingngo@
+@the shin@|@šinglang@
+@the side of the chest@|@gärep@
+@the skull@|@pung-kum@
+@the spine@|@märung@
+@the spleen@|@khum-pai@
+@the Supreme God@|@gärai-gäsang, gärai-wa1@
+@the thigh@|@mägji@
+@the throa@|@zhäkhro@
+@the tip@|@nchun@
+@the tongue@|@lai', šinglau, šinglet@
+@the top of a hill@|@nkhang, zhingkhang@
+@the vitals@|@läreng@
+@the voice@|@ningsen, nsen@
+@the white ant@|@käkhun@
+@the white-handed gibbon@|@ngrau@
+@the white-headed bungarus@|@ngan@
+@the whole@|@jong@
+@the wild plantain@|@länga', nga'@
+@they are@|@rai ma ai@
+@they were@|@rai ma sai@
+@thick@|@dau, that@
+@thick rice-gruel@|@pha'@
+@thin@|@chäpha, pha@
+@things@|@rai@
+@this@|@ndai@
+@thorn@|@zhu@
+@thou@|@nang@
+@thought@|@mjit@
+@three@|@hkan, hkanhte, hkri, shan, shanhte, shanhteng, shi@
+@three (1)@|@mäsum@
+@thus@|@ning, šing@
+@tidings@|@ši@
+@tiger@|@rong-ba@
+@time@|@äten, tan@
+@to accept@|@kham@
+@to accompany@|@lom@
+@to ache@|@rop@
+@to act in concert@|@phom@
+@to act in unison@|@grim, khrip, krim@
+@to add@|@gäthap@
+@to adorn@|@sumli@
+@to agree@|@särum, zhäkhrum@
+@to amuse@|@šängon@
+@to annoy@|@zam@
+@to answer@|@than@
+@to appear@|@dan, phru, pó@
+@to arrange@|@käzhang, läzhang@
+@to banish@|@khjot@
+@to be@|@rai, ré, rê, rë, re'@
+@to be coiled@|@khong@
+@to be dumb@|@mäa@
+@to be on friendly terms@|@chap@
+@to be parted@|@kha'@
+@to be turned around@|@jin@
+@to bear children@|@šängai@
+@to beat@|@nak@
+@to believe@|@kam@
+@to bend@|@känga@
+@to bite@|@gäwa@
+@to bloom@|@pù@
+@to blow@|@ru@
+@to blow in puffs@|@äphot@
+@to bob up@|@käbrong@
+@to bow@|@gum@
+@to bow low@|@dägup@
+@to braid@|@khri'@
+@to branch@|@kung@
+@to break@|@grop@
+@to breathe@|@sa'@
+@to bridge@|@khrai, khrai, mäkhrai, mäkhrai@
+@to bubble@|@prut@
+@to bubble up@|@pun@
+@to bud@|@mäum, muum@
+@to bundle@|@mätep@
+@to burn@|@grung, zhu@
+@to burst open@|@bò'@
+@to buy@|@märi@
+@to buy on credit@|@zhik@
+@to calculate@|@son, tot@
+@to carry@|@khap, nphje@
+@to carry in the hand@|@lang@
+@to carry on the back@|@gun@
+@to cast lots@|@da@
+@to cause@|@zhe@
+@to change@|@mälai@
+@to change course@|@mäbai@
+@to charge@|@šädu@
+@to clear@|@san@
+@to close@|@chup@
+@to close the fist@|@lätup@
+@to coerce@|@gäšun@
+@to collect@|@läkhon@
+@to comb@|@mäsit@
+@to come@|@bjon@
+@to compel@|@ädip@
+@to complain@|@lächin, läzhin@
+@to compress@|@gumzhom@
+@to conceal@|@lägjim@
+@to confuse@|@numšap@
+@to connect@|@mätut@
+@to conquer@|@ong@
+@to consider@|@gon, gum-ju@
+@to consult@|@bong@
+@to contend@|@khat@
+@to control@|@bing, bjeng@
+@to cover@|@gup, mägap, mägap, mäkop, tinggrum, úp@
+@to crawl@|@gä-un, kä-un@
+@to crowd@|@sak@
+@to crush@|@äjai@
+@to cuddle down@|@kon@
+@to curse@|@dägam@
+@to cut@|@dan, don, khot, phjat, phrat@
+@to cut in small pieces@|@ätok@
+@to deceive@|@khälem, lem@
+@to delay@|@khring@
+@to deliver in childbirth@|@ndang@
+@to depend@|@chu, mächu@
+@to deride@|@ägja@
+@to descend@|@khru@
+@to desire@|@märit@
+@to destroy@|@bru@
+@to die as cattle from disease@|@šinggrom@
+@to dig@|@got, lai, thu@
+@to dig out@|@krau@
+@to dissolve@|@tun@
+@to divide@|@gäran@
+@to divine@|@ba@
+@to do fall-ploughing@|@gje@
+@to drag@|@gasot, sot@
+@to draw@|@kärot@
+@to dream@|@mang@
+@to drink@|@lu'@
+@to drive@|@gon@
+@to drop@|@gäthe', nthe', the'@
+@to dry@|@gärau@
+@to eat@|@jok@
+@to embrace@|@äphum, ginšum@
+@to encircle@|@käwan@
+@to end@|@šädom, šätom@
+@to enjoy@|@mjen-mjen@
+@to enslave@|@jam, jum@
+@to enter@|@šang@
+@to escape@|@lot@
+@to excel@|@ton@
+@to exist@|@nga@
+@to extend@|@šäpa@
+@to extend in time@|@chäna, na@
+@to fall@|@cang, gädang, gädong, gjum, grum, käding, khrum, rang@
+@to fear@|@kom@
+@to fell trees@|@khran@
+@to fill@|@tek@
+@to find acceptable@|@com@
+@to fix@|@rit@
+@to flash@|@gälam, la@
+@to flow@|@šon@
+@to fly@|@gäšoi, pjau@
+@to fold@|@dägo@
+@to follow@|@khan@
+@to forget@|@mälàp@
+@to fry@|@gängau@
+@to gamble@|@to@
+@to gasp for breath@|@gäang@
+@to gather@|@jup@
+@to gather up@|@cing@
+@to gaze@|@äji'@
+@to gaze at@|@äsoi, soi@
+@to give@|@ja, lu, zho'@
+@to give gratuitously@|@ägam@
+@to give thanks@|@šäkon@
+@to gleet@|@ri'@
+@to glide@|@gumrit@
+@to glitter@|@gäla@
+@to gnaw@|@kret, makret@
+@to go round@|@phjin@
+@to graze@|@äšot@
+@to grind@|@krit@
+@to grind the teeth@|@krit@
+@to grow@|@pjan@
+@to grub@|@daí@
+@to guard@|@läkhu@
+@to gulp down@|@dägrot, grot, krut@
+@to hand over@|@ap@
+@to hang@|@äbja@
+@to harvest@|@šu@
+@to hatch@|@phum@
+@to hate@|@ndong@
+@to have lost taste@|@khreng@
+@to heat@|@mälum, sälum@
+@to hide@|@gjim@
+@to hinder@|@äkhum@
+@to hit against as in dark@|@käthuk@
+@to hold@|@zhum zhu@
+@to hold in custody@|@thim@
+@to hook@|@mäkhai@
+@to humiliate@|@nik@
+@to inquire@|@gon@
+@to instigate@|@kächan@
+@to itch@|@käja, märu'@
+@to jest@|@šätu@
+@to jump@|@käcot@
+@to keep@|@mäkhong@
+@to kill@|@din@
+@to knot@|@gindum@
+@to know@|@che@
+@to laugh@|@mäni, ndam@
+@to leak@|@jun, käjun@
+@to lean@|@nkhjeng@
+@to lean on@|@gumgoi@
+@to leave@|@ngam@
+@to liberate@|@tat@
+@to lick@|@mäta'@
+@to lie@|@mäsu', phjop@
+@to light@|@šätu@
+@to like@|@dong, nzhi, ron, šärang, zhi@
+@to limp@|@gai, lägai, thon@
+@to live@|@khrung@
+@to loaf@|@ägo'@
+@to loosen@|@mälo'@
+@to lower@|@šänem@
+@to mark@|@dem, märi, märi'@
+@to measure@|@theng@
+@to measure by fathom@|@lälam, lam@
+@to meet@|@ju, käbrum@
+@to meet an obstacle@|@šing-dan@
+@to meet suddenly@|@gädup@
+@to melt@|@bjo@
+@to mend@|@käpa@
+@to mix@|@šänan@
+@to mock@|@bjeng@
+@to move@|@gumren@
+@to munch@|@alem, lem@
+@to murder@|@gäsat@
+@to nag@|@chop, zhop@
+@to name@|@šämjing@
+@to obstruct@|@pat@
+@to offer@|@sak@
+@to open@|@mäkha@
+@to open wide@|@dägan@
+@to overflow@|@gäbrat@
+@to pass along@|@gälen, khälen@
+@to pass off@|@mje, mjen@
+@to pierce@|@chok, gälun, jing@
+@to pile@|@cha, dang@
+@to plant@|@khai, khai, ting@
+@to play@|@chai@
+@to plough@|@thai@
+@to pound@|@gre'@
+@to pour@|@rú@
+@to preach@|@ho, kho@
+@to prepare@|@khjem, khjen@
+@to press@|@änin, dip@
+@to press against@|@mäkan@
+@to produce a sound@|@äkong@
+@to prohibit@|@khum@
+@to promise@|@ndat@
+@to prop@|@thok@
+@to protect@|@than@
+@to pursue@|@ten@
+@to push@|@gänong, nong, thu@
+@to put@|@dik, kan@
+@to put end to end@|@däro@
+@to put on as@|@dägro, gro@
+@to put on shelves@|@bù@
+@to raise@|@šätut@
+@to rasp@|@äkhret, khret, mäkhret@
+@to reach forth@|@don@
+@to read@|@thi@
+@to regard as undesirable@|@gäri@
+@to remove@|@cong@
+@to repair@|@gram@
+@to repeat@|@bai@
+@to repel@|@mänga'@
+@to resemble@|@san, šan@
+@to rest@|@läna'@
+@to return@|@nthang@
+@to ride@|@zhon@
+@to ridicule@|@zho, zhong@
+@to roll into rolls@|@gum-jon@
+@to roof@|@gälup@
+@to row@|@šap@
+@to rub@|@änut@
+@to rub in@|@ärut, rut@
+@to rub off@|@ärit@
+@to rule@|@zhau@
+@to run as a frightened@|@käpa@
+@to sacrifice@|@phäzhau, zhau@
+@to scale off@|@gälap@
+@to scatter@|@äjai, jai@
+@to scold@|@käche@
+@to scoop@|@äšap, läšap@
+@to scoop up@|@dägot, mägon@
+@to scrape@|@äkhrap@
+@to scrape off@|@khjen@
+@to scratch@|@ägret, märet, rat@
+@to scratch with nails@|@mäkhjit@
+@to search@|@gäsok, sok@
+@to seek@|@bram@
+@to seize@|@gra, mägra'@
+@to send@|@sa@
+@to separate@|@märan, päran@
+@to serve@|@do@
+@to set@|@zhanšang@
+@to set fire to@|@nat@
+@to sever@|@dut@
+@to shade@|@nip@
+@to shake@|@änak, gäri', wám@
+@to shake off@|@äšun@
+@to shine@|@gäbrim, käbram, zhan, zhan ze@
+@to shine as the sun@|@käpram@
+@to shout@|@märon@
+@to show@|@bja, pja@
+@to show agitation@|@gätu'@
+@to show love@|@n-zha'@
+@to show reverence@|@ko@
+@to show temper@|@däkat@
+@to shrink@|@thun@
+@to side with@|@kom@
+@to sift@|@käcan@
+@to singe@|@gälip, kälip, kätip@
+@to sit@|@dung, nit, thit@
+@to slant@|@nga'@
+@to sleep@|@jup@
+@to slice@|@gälep, kälep, lep@
+@to slip@|@mälu@
+@to slip down@|@gumcun@
+@to smart@|@mäkrim@
+@to smell@|@mänam, nam@
+@to smile@|@sai@
+@to snatch@|@khrut, mäšun@
+@to sneeze@|@käthi@
+@to sniff@|@asut, märop, sut, yasut@
+@to sow@|@ban@
+@to speak@|@brat, cun, prat, su@
+@to speak plainly@|@khrang@
+@to spill@|@kho'@
+@to spit@|@mä-thwi, mätho@
+@to splice@|@bungkhot@
+@to spring@|@gan, käpun@
+@to sprinkle@|@bun@
+@to stake@|@long@
+@to stand@|@cap@
+@to stand as water@|@ing@
+@to steal@|@lägu@
+@to steer@|@khang@
+@to step@|@läkham@
+@to stink@|@khang, phú@
+@to stir as a fire@|@non@
+@to stop@|@gäraì, raì@
+@to straighten@|@mälan@
+@to strike@|@ädit@
+@to stroke@|@masop@
+@to stutter@|@am@
+@to suck@|@chup, hru@
+@to suffer@|@käšan@
+@to summon@|@gau@
+@to surround@|@äwai, khoi, ram@
+@to swagger@|@šäkong@
+@to swear@|@mäca@
+@to sweep@|@nrip, rip@
+@to swell@|@brong@
+@to swing@|@jeng@
+@to take@|@mo'@
+@to take aim@|@šäda@
+@to take hold of@|@šum, zhum, zhum@
+@to taste@|@chim@
+@to tear@|@äšep@
+@to thicken@|@ge, gje@
+@to threaten@|@äkhrim@
+@to throw@|@gäbai, nteng, teng@
+@to touch lightly@|@äthok@
+@to trail@|@khrám@
+@to transport@|@tho@
+@to trap@|@jom, kham, mäkham@
+@to travel@|@khom@
+@to trim@|@krum@
+@to trouble@|@dingsa'@
+@to turn around@|@käjin@
+@to turn upside down@|@nthang@
+@to uproot@|@bo'@
+@to urinate@|@chi, zhi@
+@to use@|@cung, sung@
+@to value@|@gung@
+@to vibrate@|@ngat@
+@to vomit@|@mädon@
+@to wait@|@äla, la, mäla@
+@to walk as on rail@|@gau@
+@to wall@|@šäkum@
+@to ward off@|@ga@
+@to warm one's self@|@kra@
+@to wash@|@gäšin, šin@
+@to wear@|@chop, läbu, sumro@
+@to weep@|@khrap@
+@to weigh@|@šen, šin@
+@to wind@|@rit@
+@to wind around@|@pat@
+@to wipe@|@gäcu@
+@to wound@|@khäla'@
+@to wrap up@|@thup@
+@to wriggle@|@gädau@
+@to write@|@ka@
+@to yawn@|@gäkham@
+@toad@|@šu'@
+@toast@|@gäkang@
+@tomorrow@|@phot@
+@tongs@|@läkap@
+@tooth@|@wa@
+@top@|@lätha', tha'@
+@touch anything@|@käthok@
+@touch lightly@|@thok, zhot@
+@tough@|@greng@
+@trade@|@ga, phäga@
+@trash@|@äbut@
+@tripod@|@khra@
+@turn over@|@gäle, le, päle@
+@turn round@|@käwin@
+@twenty@|@khun@
+@twig@|@mäku'@
+@twins@|@märun@
+@twitch@|@äkhje'@
+@two@|@khong, lä, nan, nang, nanhte, nanhteng, ni@
+@unbind@|@ro'@
+@understanding@|@cai, zhai@
+@unmarried@|@läka@
+@urine@|@zhit@
+@usefulness@|@äsung@
+@vacant@|@man@
+@vagina@|@zhin@
+@variety of arum@|@ning-bjen@
+@variety of bamboo@|@läkhra@
+@variety of gibbon@|@šära@
+@village@|@käthong@
+@vomit@|@n-phat@
+@wages@|@šäbrai@
+@wait@|@nga@
+@war@|@mäzhan@
+@warm@|@um@
+@wash@|@khrut@
+@wash the face@|@mjit@
+@watch-tower in a paddy field@|@mächa@
+@water@|@nci-n, numra, šägroi@
+@water as oozing@|@nam-chim@
+@water-basin@|@ang@
+@we@|@an the@
+@we are@|@rai ga ai@
+@we were@|@rai sa ga dai@
+@weak-minded@|@ägong@
+@wearied@|@zhin@
+@weave@|@da'@
+@what?@|@pha@
+@where@|@gälo@
+@where?@|@gänang, gäning@
+@whetstone@|@khrut@
+@whey@|@gärang, kärang@
+@whirlpool@|@phung-wai@
+@white@|@chäphrö, phrò@
+@whole@|@ninggon@
+@widower@|@sing-kra@
+@wild goat@|@jà@
+@wild goose@|@khrang-ma@
+@wind@|@nbung, phjet@
+@wind between the thumb@|@läkha'@
+@wings@|@singko@
+@wisdom@|@šäran@
+@womb@|@pu-zhat@
+@wood@|@mäling@
+@wool@|@sägu@
+@work@|@mägan, mäkan, numrang@
+@worm@|@kä, zhai, zhin@
+@wormwood@|@läši@
+@wound@|@nma@
+@wrist@|@läsing@
+@year@|@šäning@
+@yellow@|@thoi@
+@yes@|@au@
+@you are@|@rai n dai@
+@you are (pl)@|@rai ma dai@
+@you were@|@rai sin dai@
+@you were (pl)@|@rai ma sin dai@
+@young bamboo@|@gung-lung@
+@young man@|@mäli@
+@young of cattle@|@u-kro@
+@younger sibling@|@gänau@
+

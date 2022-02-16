@@ -1,0 +1,4963 @@
+@English@|@Frisian@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a@|@ien, immen, in, yn@
+@a few@|@in pear@
+@a little@|@in bytsje, snjitsje@
+@a lot@|@in protte@
+@abandon@|@ferlitte@
+@abandoned@|@skamteleas@
+@abase@|@fernederje@
+@abasement@|@fernedering@
+@abashed@|@ferlegen@
+@abate@|@ferswakje@
+@abatement@|@efterútgong@
+@abbreviate@|@bekoartsje, ferkoartsje@
+@abbreviation@|@ôfkoarting@
+@ABC@|@abee@
+@abdomen@|@liif@
+@abele@|@abeelje, abeeljebeam@
+@aberrance@|@ôfdwale@
+@aberration@|@fersin, flater@
+@abet@|@oansjasje@
+@abhor@|@ferspuie@
+@abhorrence@|@grize, ôfgriis, ôfskrik@
+@abhorrent@|@in griis, ôfgryslik@
+@abide@|@biidzje, ferwachtsje, lijen, ôfwachtsje, wachtsje@
+@ability@|@betûftens, fermogen, kundigens, macht@
+@abjuration@|@ôfswarren@
+@abjure@|@annulearje, ôfsizze, ôfswarre, skrasse@
+@able@|@betûft, kundich@
+@abode@|@went, wente@
+@abolish@|@annulearje, ôfsizze, ôfskaffe, skrasse@
+@abominable@|@in griis@
+@abominate@|@ferspuie@
+@abomination@|@grize, ôfgriis, ôfskrik@
+@abort@|@fale, feile, mislearje@
+@abortion@|@mislearring@
+@abortive@|@idel@
+@about@|@neistenby, oanbelangjende, oer, sawat@
+@about-face@|@feroaring@
+@above@|@benoarden, noard fan@
+@above-board@|@earlik@
+@abrade@|@skave@
+@abrasion@|@skram@
+@abreact@|@ôfreagearje@
+@abridge@|@begrinzgje, bekoartsje, ferkoartsje@
+@abridgement@|@gearfetting@
+@abroad@|@bûten@
+@abrogate@|@annulearje, ôfsizze, skrasse@
+@abscess@|@swolm@
+@absence@|@brekme, ôfwêzigens@
+@absent@|@ôfwêzich@
+@absolute@|@abslút, alles omfiemjend, grinsleas, hiel, totaal@
+@absolute ruler@|@allinnehearsker, despoot@
+@absolution@|@ferjouwing@
+@abstract@|@gearfetsje, gearfetting, ôfnimme@
+@abstraction@|@dieverij@
+@absurd@|@absurd, healwiis@
+@abundance@|@rikens, rykdom@
+@abuse@|@misbrûk, misbrûke, mislediging, misledigje, rache@
+@abut@|@neistlizze@
+@abysmal@|@hopeleas@
+@abyss@|@djipte, ôfgrûn@
+@academic@|@akademikus, akademysk, studint@
+@academy@|@akademy@
+@accelerate@|@ferfoarlikje@
+@accent@|@aksint@
+@accept@|@oanfurdigje, oannimme@
+@acceptable@|@te oanfurdigjen@
+@acceptance@|@oanfurdigjen@
+@access@|@oandrang, oandrift, oanfal, oerhaal, raam, tagong@
+@access (1)@|@oandriuw@
+@accession@|@oangean fan syn amt, oanwinst@
+@accessory@|@oanhingsel@
+@accident@|@ûngelok@
+@acclaim@|@earne mei ynstimme, hantsjeklappe@
+@acclamation@|@hantsjeklappen, ynstimming@
+@acclimate@|@bewaarje@
+@acclimatize@|@bewaarje@
+@accommodate@|@besljochtsje, dien meitsje, ôfmeitsje@
+@accommodation@|@akkoart, ôfspraak, went, wente@
+@accompaniment@|@begelieding@
+@accompanist@|@begelieder@
+@accompany@|@begeliede, beselskipje@
+@accomplished@|@betûft@
+@accomplishemet@|@died@
+@accord@|@akkoart, oerienstimming, ôfspraak@
+@accordance@|@akkoart, oerienstimming@
+@according as@|@neffens@
+@according to@|@neffens@
+@accost@|@oanklampe, oansprekke@
+@account@|@ferklearring, leauwe, motif, ôfrekken, reden@
+@account (1)@|@miene@
+@account for@|@beänderje, ferklearje@
+@accountable@|@ferantwurdlik, ferklearber@
+@accredit@|@leauwe@
+@accretion@|@groei, oanwaaks@
+@accurate@|@krekt, presiis, skrutel@
+@accure@|@oangroeie, oanwaakse, ôfskaaie, ôfstamje, waakse@
+@accusal@|@beskuldiging, oanklacht@
+@accusation@|@beskuldiging, oanklacht@
+@accuse@|@beskuldigje, ferkleie oanbringe, oankleie@
+@accused@|@beskuldige, ferklage, oanklage@
+@accuser@|@ferklikker@
+@accustom@|@oanwenne@
+@accustom onself@|@wenne@
+@accustomed@|@bewend, gewoan@
+@ace@|@aas@
+@acerbic@|@bekjelûkerich, bitsich@
+@acerbity@|@skerpens, skerpte@
+@ache@|@pine@
+@achieve@|@dwaen, oanmeitsje@
+@achievement@|@died@
+@acid@|@bekjelûkerich, sarkastysk@
+@acknoledge@|@bekenne, bychtsje@
+@acknowledgement@|@bycht@
+@acolyte@|@oanhinger@
+@acorn@|@ikel@
+@acquaint@|@oansizze@
+@acquire@|@oanhannelje, oankeapje@
+@acquisition@|@keap, oanwinst@
+@acquittal@|@ôfbetelling@
+@acrimony@|@skerpens, skerpte@
+@across@|@dwers@
+@act@|@akte, died, dwaen, krewearje, oanmeitsje, útkomste@
+@act (1)@|@beynfloedzje@
+@act for@|@fertsjinwurdigje@
+@action@|@aksje, beynfloeding, died, fjochtsjen, striid@
+@action (1)@|@proses, rjochtsaak, ynfloed@
+@action committee@|@aksjebinde@
+@action group@|@aksjebinde@
+@activate@|@aktivearje, feroarsaakje@
+@active@|@krigel, warber@
+@activity@|@aksje, animo, belangstelling, warberens@
+@actor@|@spylder@
+@actress@|@spylster@
+@actual@|@feitlik, hjoeddeisk@
+@actually@|@feitlik, winliken@
+@actuate@|@bewege, ferwege, oandriuwe@
+@acuity@|@omtinken, regaad, skerpens, skerpte@
+@acute@|@driuwend, hommels opkommend@
+@ad@|@advertinsje, oankundiging@
+@adamant@|@bonkehurd@
+@adapt@|@oanpasse@
+@adaptation@|@oanpassing@
+@add@|@bydwaan@
+@adder@|@njirre@
+@addition@|@oanhingsel@
+@additional@|@ekstra@
+@addled@|@ferrotte@
+@address@|@adres, adressearje, oanklampe, oansprekke@
+@addressee@|@adressearre@
+@adept@|@oanhinger@
+@adequate@|@passend, te pas@
+@adherent@|@oanhinger@
+@adieu@|@farwol@
+@adjacent@|@neistlizzend@
+@adjective@|@eigenskipswurd@
+@adjoin@|@neistlizze@
+@adjoining@|@neistlizzend@
+@adjudication@|@fonnis@
+@adjunct@|@oanhingsel@
+@adjustment@|@akkoart, oanpassing@
+@administer@|@administrearje, beheare, de administraasje dwaan@
+@administer (1)@|@bestjoere@
+@administration@|@administraasje, behear, regear@
+@administrative@|@administratyf@
+@admiration@|@bewûndering@
+@admire@|@bewûnderje@
+@admission@|@bycht, oanfurdigjen, tagong@
+@admission ticket@|@tagongsbewiis, tagongskaart@
+@admit@|@bekenne, bychtsje@
+@admittance@|@tagong@
+@admonish@|@oanmoanje@
+@admonition@|@oanmoanning@
+@ado@|@lawaai, leven@
+@adopt@|@oannimme@
+@adoration@|@ferearing, oanbidding@
+@adore@|@ferearje, oanbidde@
+@adulterate@|@ferfalskje@
+@advance@|@ferfoarlikje, ferheegje@
+@advantage@|@foardiel@
+@advantageous@|@foardielich, geunstich, nuttich@
+@adventure@|@aventoer@
+@adventurer@|@aventoersman@
+@adventurous@|@aventoerlik, noedlik@
+@adverb@|@bywurd@
+@adversary@|@fijân@
+@adverse@|@fijannich@
+@advertence@|@omtinken, regaad@
+@advertise@|@advertearje, ferkundigje@
+@advertisement@|@advertinsje, oankundiging@
+@advice@|@advys, rie, ried@
+@advise@|@advisearje, oanriede, riede@
+@advise against@|@ôfriede@
+@advisearje@|@counsel@
+@advokaat@|@counsel@
+@advys@|@counsel@
+@aerodrome@|@fleanfjild@
+@aeroplane@|@fleanmasine, fleantúch@
+@affable@|@aardig, freonlik@
+@affair@|@affearen, fal, gefal, kwestje, oangelegenheid@
+@affect@|@beynfloedzje@
+@affectation@|@babbelegûchjes, mirakels, skytmirakels@
+@affecting@|@oandwaanlik@
+@affection@|@leafde@
+@affectionate@|@oanhanklik, oanhinklik, oansjitsk@
+@affiliation@|@sibskip@
+@affined@|@besibbe@
+@affirm@|@fersekerje, ferwisje@
+@affirmation@|@fersekering@
+@affix@|@fêstdwaan@
+@afflict@|@fertriette@
+@affluence@|@rikens, rykdom@
+@affluent@|@ryk@
+@afford@|@opsmite, produsearje@
+@afraid@|@benaud, eangstich, lef@
+@afresh@|@alwer@
+@African marigold@|@túnkaantsje@
+@after@|@efter@
+@afterglow@|@jûnsrea@
+@afterwards@|@efteroan@
+@again@|@alwer@
+@age@|@âldens@
+@agency@|@agintskip@
+@agenda@|@bûsboekje, opskriuwboekje, wurklist@
+@agent@|@agint, fertsjinwurdiger@
+@aggrandize@|@fergrutsje@
+@aggrandizement@|@fergrutting@
+@aggressor@|@oanfaller@
+@aggro@|@agresje, oanfal@
+@agitated@|@senuweftich@
+@agonize@|@folterje, martelje@
+@agony@|@benaudens, eangst, eangstme@
+@agrarian@|@agrarysk, bouboer@
+@agree@|@ôfprate@
+@agreeable@|@gefallich@
+@agreed@|@ôfpraat, okee, sein@
+@agreement@|@oerienstimming, ôfspraak@
+@agression@|@agresje, oanfal, oerhaal, raam@
+@agricultural@|@agrarysk@
+@agriculture@|@bou, lânbou@
+@aid@|@assistint@
+@ailment@|@sykte@
+@air@|@loft, lucht@
+@aircraft@|@fleanmasine, fleantúch@
+@airdrome@|@fleanfjild@
+@airfield@|@fleanfjild@
+@airmail@|@loftpost@
+@airman@|@fleander@
+@airplane@|@fleanmasine, fleantúch@
+@airport@|@fleanfjild, lofthaven@
+@airs@|@alluere@
+@akin@|@besibbe@
+@aktueel@|@current@
+@alarm@|@alaarm@
+@alarmbell@|@needklok@
+@alas@|@eilaas, spitich, spitigernôch@
+@alcohol@|@alkohol@
+@alder@|@els, elzebeam, elzenbeam@
+@alga@|@seewier@
+@alien@|@bûtenlânsk, frjemd, in griis, útlânsk@
+@alimony@|@alimintaasje@
+@alive@|@libben@
+@all@|@alderhanne, alle, allegearre, alleman, alles, elkenien@
+@all about@|@oeral, rûnom@
+@All Hallows@|@Alderheljen@
+@all of it@|@alles@
+@all over again@|@alwer@
+@All Saint's Day@|@Alderheljen@
+@All Soul's Day@|@Aldersielen@
+@all the@|@elk@
+@allergy@|@allergy@
+@all-knowing@|@alwittend@
+@all-powerful@|@almachtich@
+@almanac@|@almenak@
+@almighty@|@almachtich@
+@almond@|@mangel@
+@almost@|@amperoan, benei, beneistenby, hast, omtrint@
+@almost (1)@|@skraach, skraachwurk@
+@alms@|@ielmis@
+@alone@|@allinne@
+@alongside@|@nêst, njonken@
+@alphabet@|@abee, alfabet@
+@alphabetical@|@alfabetysk@
+@already@|@al, alfêst@
+@also@|@ek@
+@altar@|@alter@
+@alternate@|@ôfwikselje, ôfwikseljend@
+@alternating@|@ôfwikseljend@
+@alternation@|@ôfwikseling@
+@although@|@alhoewol't@
+@altogether@|@allegearre, alles@
+@alum@|@alún@
+@always@|@altiten, altyd, hieltiten@
+@amaze@|@ferbaze@
+@ambassador@|@seinboade@
+@ambiguous@|@dûbelsinnich@
+@ambition@|@ambysje, earsucht@
+@ambulance@|@sikewein@
+@amend@|@amendearje, feroarje@
+@amendment@|@amendemint, feroaringsútstel@
+@America@|@Amearika@
+@American@|@Amerikaan@
+@American Indian@|@yndiaan@
+@ammunition@|@ammunysje, munysje@
+@among@|@tusken@
+@amortize@|@ôflosse, ôfskriuwe@
+@amount@|@oantal, tal@
+@amputate@|@ôfsette@
+@amuse@|@fermeitsje@
+@amusement@|@fermeits@
+@amusing@|@fermaaklik@
+@an@|@in@
+@anaemia@|@bloedearmoed@
+@analogy@|@analogy@
+@analyse@|@analisearje@
+@anatomy@|@anatomy@
+@anchovy@|@ansjofisk@
+@ancient@|@antyk@
+@and@|@en@
+@and so on@|@ensafuorthinne@
+@anew@|@alwer@
+@angel@|@ingel@
+@angle@|@hoeke@
+@angry@|@gek, lilk@
+@anguish@|@benaudens, eangst, eangstme@
+@animal@|@bist, dier, dierlik@
+@anise@|@anys@
+@ankle@|@ankel@
+@annex@|@anneksearje, ynliivje@
+@annexation@|@anneksaasje, ynliving@
+@annotation@|@oantekening@
+@announce@|@advertearje, ferkundigje@
+@annul@|@annulearje, ôfsizze, skrasse@
+@anonymous@|@anonym, nammeleas@
+@another@|@oar, oars@
+@answer@|@anderje, andert, antwurd, antwurdzje, beskie@
+@ant@|@eamelder, miammel@
+@antelope@|@antiloop@
+@anthology@|@blomlêzing@
+@anthracite@|@antrasyt@
+@antidote@|@tsjingif@
+@antifreeze@|@antifriesguod@
+@antique@|@antyk@
+@antique dealer@|@antykhanneler@
+@antisocial@|@maatsskiplik net oanpast, ûnmaastskiplik@
+@anus@|@ears, gat@
+@anvil@|@ambyld@
+@any@|@ien, immen, in pear@
+@anybody@|@immen@
+@anything@|@eat@
+@anywhere@|@earne@
+@apart@|@apart, beskaat@
+@apart from@|@behalven, bûten@
+@apartment@|@appartemint, fertrek@
+@aperture@|@iepening@
+@apiarist@|@bijker, ymker@
+@apostate@|@ôffal, ôffallich@
+@apparently@|@blykber@
+@appeal@|@appel@
+@appeal to@|@oanroppe@
+@appear@|@ferskine, skine@
+@appear to be@|@skine@
+@appearance@|@aspekt, ferskining, gesicht, oansjen@
+@appellation@|@namme@
+@appendicitis@|@blinetermûntstekking@
+@applaud@|@earne mei ynstimme, hantsjeklappe@
+@apple@|@apel@
+@apple-sauce@|@apelsmots@
+@applicant@|@adressant, beswierskriftskriuwer@
+@apply@|@brûke@
+@appoint@|@oanstelle@
+@appointment@|@oanstelling@
+@appointment book@|@bûsboekje, opskriuwboekje@
+@appointment to office@|@oanstelling@
+@apprehension@|@arrestaasje@
+@approach@|@oanpakke, oanpakken@
+@approval@|@hantsjeklappen, ynstimming@
+@apricot@|@abrikoas@
+@april@|@april@
+@April@|@gersmoanne@
+@apron@|@skelk@
+@aproximately@|@neistenby, sawat@
+@aptitude@|@betûftens, talint@
+@aquaintance@|@kunde@
+@Arabian@|@Arabysk@
+@Arabic@|@Arabysk@
+@arbitration@|@arbitraazje@
+@arc@|@bôge@
+@archangel@|@aartsingel@
+@archbishop@|@aartsbiskop@
+@architetonic@|@arsjitektoanysk@
+@architetural@|@arsjitektoanysk@
+@area@|@oerflakte@
+@argument@|@argumint@
+@argumentation@|@argumintaasje@
+@arise@|@stige@
+@aristocracy@|@aristokrasy@
+@aristocratic@|@foarnaam, treftich@
+@arithmetic@|@rekkenkunde@
+@ark@|@arke@
+@arm@|@bewapenje, earm, earmleuning, wapenje@
+@armchair@|@briedstoel, earmstoel, pakestoel@
+@armpit@|@earmsholte@
+@arm-rest@|@earmleuning@
+@army@|@hear@
+@arrears@|@efterstân@
+@arrest@|@arrestaasje, oppakke@
+@arrested person@|@finzene@
+@arrival@|@komst, oanfier, oankomst@
+@arrive@|@arrivearje, oankomme, oanlânje@
+@arrogant@|@astrant, astrant, bazich, malmodesta@
+@arrow@|@pylk@
+@arse@|@ears, gat@
+@art@|@keunst@
+@artery@|@slachier@
+@arthritis@|@flearen@
+@article@|@artikel, lidwurd@
+@article clothing@|@kleed@
+@artificial@|@keunstmjittich@
+@artillery@|@artillery@
+@artist@|@keunstner@
+@artistic@|@artistyk, keunstich@
+@as@|@dus, meidat, neffens, sa, sadwaande@
+@as (1)@|@mei't, om't, omdat@
+@as a matter of fact@|@winliken@
+@as if@|@krekt as, oft@
+@as stupid as an ass@|@kowedom, oaljedom@
+@as though@|@krekt as, oft@
+@ascend@|@bekladderje, bekliuwe, stige@
+@Ascension Day@|@Himelfeartsdei@
+@ash@|@esk, eskebeam, jiske@
+@ashtray@|@jiskebak, jiskebakje, jiskelaad, jiskepântsje@
+@Asian@|@Aziatysk@
+@Asiatic@|@Aziatysk@
+@ask@|@fersykje, freegje@
+@ask for@|@fersykje@
+@aspargus@|@asperzje@
+@aspect@|@aspekt, oansjen@
+@ass@|@ezel@
+@assailant@|@oanfaller@
+@assault@|@oanfalle, oanpakke, oanslach, oantaaste@
+@assemblage@|@gearkomme, gearkomste@
+@assemble@|@gearkomme@
+@assert@|@beweare@
+@assertion@|@bewearing@
+@assessment@|@oanslach@
+@assistant@|@assistint@
+@associate@|@oanslute@
+@assortment@|@assortimint@
+@assure@|@fersekerje, ferwisje@
+@asterisk@|@stjerke@
+@asthmatic@|@nearboarstich@
+@astonishment@|@benijing, ferbazing, ferheardens@
+@astronaut@|@romtefarder@
+@astronomy@|@stjerrekunde@
+@asylum@|@asyl@
+@at@|@by, oan@
+@at a strech@|@oan ien tried troch, oanienwei@
+@at first@|@te'n earsten, yn 'e earste opslach@
+@at home@|@thús@
+@at last@|@efternei@
+@at least@|@alteast, teminsten@
+@at night@|@nachts@
+@at once@|@aansen, aanst, aanstûns, dalik, daliks@
+@at present@|@no, no't@
+@at some time@|@ea@
+@at that place@|@dêr, dêre, er@
+@at the outset@|@te'n earsten, yn 'e earste opslach@
+@at the same time@|@teffens@
+@athletics@|@atletyk@
+@athmosphere@|@atmosfear@
+@atinginess@|@deunens, gjirrigens@
+@atomic energy@|@atoomenerzjy@
+@attack@|@oanfal, oanfalle, oerhaal, raam@
+@attacker@|@oanfaller@
+@attend@|@besykje, bywenje, ferpleegje@
+@attention@|@omtinken, regaad@
+@attentive@|@attint, oandachtig, opmerksum@
+@attic@|@souder@
+@attitudinize@|@healwiizje, jin tjirgje@
+@attract@|@ferlokje, oanlûke@
+@attractive@|@aardich, bekoarlik, ferloklik, leidich@
+@auction@|@feiling@
+@audience@|@audiïnsje, heardei@
+@audit@|@kontrolearje@
+@augment@|@fergrutsje@
+@august@|@augustus@
+@August@|@rispmoane@
+@aunt@|@muoike@
+@Austria@|@Eastenryk@
+@Austrian@|@Eastenriker@
+@authentic@|@autentyk@
+@author@|@auteur, skriuwer@
+@authorative@|@autoritêr, bazich@
+@autobus@|@buso@
+@autocrat@|@allinnehearsker, despoot@
+@automatic@|@automatysk@
+@automation@|@automatisearring@
+@automobile tyre@|@autobân@
+@autonomy@|@autonomy, selsbestjoer@
+@autumn@|@hjest@
+@avail@|@bate@
+@avarice@|@deunens, gjirrigens@
+@avaricious@|@earnich, gjirrich, taaimelk@
+@avenge@|@wreke@
+@avenge oneself@|@wreke@
+@avenue@|@leane@
+@average@|@midden@
+@averse@|@fij, wearzich@
+@aversion@|@antipaty, mier, tsjinsin@
+@aviary@|@fûgelflecht@
+@aviator@|@fleander@
+@await@|@biidzje, ferwachtsje, ôfwachtsje, wachtsje@
+@awareness@|@bewustwêzen@
+@awful@|@in griis@
+@axe@|@bile@
+@baby@|@pop, poppe@
+@bachelor@|@feint, frijfeint@
+@back@|@efterkant, efterstallich, efterútride, rêch@
+@back of the head@|@efterholle@
+@back street@|@efterôfbuert@
+@back to front@|@efterstefoaren@
+@backbiting@|@kwealaster, rabberij@
+@back-door@|@efterdoar@
+@background@|@eftergrûn@
+@backside@|@efterst, gat, poepert@
+@backward@|@efterlik, efteroer, tebek@
+@backwards@|@efteroer, efterút, tebek@
+@bacon@|@spek@
+@bacterium@|@baktearje@
+@bad@|@ferrotte, min@
+@badger@|@das@
+@bag@|@sek@
+@baggage@|@bagaazje@
+@bairn@|@bern@
+@bait@|@ies@
+@bake@|@bakke@
+@ball@|@bol, dûnsjen, sfear@
+@ballast@|@ballêst@
+@ball-bearing@|@bol@
+@ballerina@|@balletdûnseres@
+@ballet dancer@|@balletdûnseres@
+@ballet girl@|@balletdûnseres@
+@Baltic Sea@|@Eastsee@
+@bandit@|@bandyt@
+@bank@|@bank@
+@bank-note@|@briefke@
+@bankrupt@|@bankerot, fallyt@
+@bankruptcy@|@bankerot, fallisemint@
+@banner@|@flagge@
+@banquet@|@feestmiel@
+@bar@|@ôfslute@
+@barbaric@|@barbaarsk@
+@barber@|@hierknipper, skearbaas@
+@bare@|@bleat, neaken@
+@barely@|@amper, kwealik@
+@bargain@|@ôftingje@
+@bark@|@blaffe, bylje@
+@barley@|@garst, koarn@
+@barn@|@diske, kream, skuorre@
+@barometer@|@waarglês@
+@baroness@|@baronesse@
+@barrack@|@skuorre@
+@barrel@|@buis, piip@
+@barrier@|@ôfsluting@
+@barrister-in-law@|@advokaat@
+@barst@|@crack@
+@base@|@basearje@
+@bashfulness@|@ferlegenens@
+@basket@|@marse@
+@bass@|@bears@
+@bastard@|@bastert@
+@bat@|@flearmûs@
+@bath@|@baaikûp@
+@bathing suit@|@baaipak@
+@bathroom@|@baaikeamer@
+@battery@|@batterij@
+@battle@|@fjochtsjen, striid@
+@bay@|@baai@
+@bazzaar@|@supermerk@
+@be@|@syn@
+@be acquianted with@|@kenne@
+@be ajar@|@oanstean@
+@be alive@|@libje@
+@be answerable@|@beänderje@
+@be asleep@|@sliepe@
+@be bold@|@doare@
+@be burnt down@|@ferbaarne, ferbrâne@
+@be called@|@hite@
+@be considered@|@yn 'e nominaasje komme@
+@be detained@|@benefterbliuwe@
+@be different@|@ferskele, ferskille@
+@be encamped@|@kampearje@
+@be hungry@|@hongerlapje@
+@be in command@|@befelje@
+@be indignant@|@ergerje@
+@be kept in@|@benefterbliuwe@
+@be late@|@neirinne@
+@be liable@|@beänderje@
+@be married@|@boaskje@
+@be next to@|@neistlizze@
+@be on the decline@|@minder wurde@
+@be present@|@bywenje@
+@be responsible@|@beänderje@
+@be willing to@|@wolle@
+@beam@|@balke, striel@
+@bean@|@bean, beane@
+@beane@|@bean@
+@bear@|@bear, lijen, opsmite, produsearje@
+@beard@|@burd@
+@beast@|@bist, dier@
+@beat@|@huffe@
+@beautiful@|@moai@
+@because@|@mei't, meidat, om't, omdat@
+@become@|@wurde@
+@bed@|@bêd@
+@bedekke@|@cover@
+@bedroom@|@sliepkeamer@
+@bee@|@bij@
+@beech@|@boek, boekebeam@
+@beef@|@kowefleis@
+@beefsteak@|@byf@
+@beehive@|@bijekoer@
+@bee-keeper@|@bijker, ymker@
+@bee-master@|@bijker, ymker@
+@beer@|@bier@
+@beet@|@byt@
+@beetle@|@krobbe, tuorre@
+@before@|@ear't, foar, foar't@
+@beg@|@biddelje, fersykje@
+@beggar@|@bidler@
+@begging@|@bidlerij@
+@begin@|@begjinne, oanbrekke, oanfange, oangean, oanpakke@
+@beginner@|@begjinner@
+@beginning@|@begjin, oanfang@
+@behind@|@benefter, efter, efteryn@
+@behind one's back@|@efterbaks@
+@bekoartsje@|@curtail@
+@Belgian@|@Belgysk, Bels@
+@belief@|@leauwe@
+@belive@|@leauwe@
+@belly@|@liif@
+@below@|@ûnder@
+@belt@|@gurdle, mulbân@
+@bend@|@ferbûge@
+@beneath@|@ûnder@
+@benefit@|@foardiel@
+@berekkenje@|@count@
+@bern@|@bairn@
+@berry@|@bei@
+@beside@|@by, nêst, njonken@
+@besides@|@behalven, fierders@
+@besiege@|@belegerje@
+@besiferje@|@count (1)@
+@best@|@best@
+@bet@|@wedzje@
+@betray@|@ferriede@
+@betrayal@|@ferried@
+@better@|@better@
+@between@|@tusken@
+@beverage@|@drank@
+@bewend@|@customary@
+@bewitch@|@toverje@
+@beyond@|@dwers@
+@Bible@|@Bibel@
+@bicycle@|@fyts@
+@bid@|@fersykje@
+@bide@|@ôfwachtsje@
+@big@|@grut@
+@bike@|@fyts@
+@bile@|@galle@
+@bill@|@biljet@
+@bill-board@|@oanplakboerd@
+@billiards@|@biljert@
+@bind@|@ferbine@
+@binocular/s@|@fierrekiker@
+@biologist@|@biolooch@
+@birch@|@bjirk@
+@bird@|@fûgel@
+@birth@|@berte@
+@birthday@|@jierdei@
+@bishop@|@biskop@
+@bite@|@bite, byt@
+@black@|@swart@
+@blackberry@|@toarnbei@
+@blackbird@|@swarte lyster@
+@bladder@|@bonge@
+@blame@|@beskuldigje, ferwite, skuld@
+@blank@|@wyt@
+@blanket@|@tekken@
+@blaspheme@|@flokke@
+@blasphemy@|@flok@
+@bleak@|@donker, kâld@
+@bleed@|@bliede@
+@blidness@|@blinens@
+@blind@|@bline, blyn@
+@blood@|@bloed@
+@blood-relationship@|@sibskip@
+@bloom@|@blom@
+@blotter@|@floeipapier@
+@blotting paper@|@floeipapier@
+@blouse@|@bloeske@
+@blow@|@blaze, slach@
+@blue@|@blau@
+@blueberry@|@blebberbei@
+@blunt@|@stomp@
+@blushing@|@read@
+@board@|@planke@
+@boat@|@boat@
+@bodily@|@lichaamlik@
+@body@|@lea, lichem, liif@
+@boerelân@|@country, countryside@
+@boil@|@siede@
+@bold@|@tsjok@
+@bolt@|@ôfskoattelje@
+@bondwoman@|@slavinne@
+@bone@|@bien, bonke@
+@book@|@boek, oanfreegje@
+@bookcase@|@boekekast@
+@book-keeper@|@boekhâlder@
+@bookseller@|@boekferkeaper, boekhanneler@
+@book-shop/store@|@boekwinkel@
+@boot@|@lears@
+@bore@|@boar@
+@borrow@|@liene@
+@boss@|@baas, haad, lieder, master, oanfieder, sjef@
+@bossom@|@boarst@
+@both@|@allebeide, beide@
+@bottle@|@flesse, ôftaapje@
+@bottom@|@boaiem@
+@bough@|@takke, tûke@
+@boundary@|@grins@
+@bourgeoisie@|@boargerij@
+@boutique@|@winkel@
+@bovine@|@kobist@
+@bow@|@bôge@
+@box@|@bak, bokse, doaze, kiste@
+@boy@|@betsjinder, boai, feint, jonge@
+@bra@|@boarststipe@
+@bracelet@|@earmbân@
+@brain@|@brein, harsens@
+@brake@|@remme@
+@branch@|@takke, tûke@
+@brand@|@brânmerk@
+@brandy@|@brandewyn, konjak@
+@brave@|@manhaftich, moedich@
+@bread@|@bôle, brea@
+@bread and butter@|@brogge@
+@break@|@brekke, ferbrekke, ôfbrekke, ôfrjochtsje@
+@break down@|@oergean@
+@breakable@|@brekber@
+@breakfast@|@brea-iten, moarnsiten@
+@breast@|@boarst@
+@breath@|@sike@
+@breathe@|@sykhelje@
+@breathless@|@efter de pûst, út 'e liken@
+@breed@|@skaai@
+@brick@|@bakstien@
+@bride@|@breid@
+@bridegroom@|@breugeman@
+@bridge@|@brêge@
+@brief@|@koart@
+@briefcase@|@aktetas@
+@bright@|@ljocht@
+@brimming@|@oerfol@
+@brimstone@|@swevel@
+@bring@|@oandrage, tatôgje@
+@Britain@|@Grut-Brittanje@
+@British@|@Britsk@
+@brittle@|@brekber@
+@broad@|@breed, wiid@
+@broker@|@makelder@
+@bronze@|@brûns, brûnzen@
+@broom@|@biezem@
+@brothel@|@huorrehûs@
+@brother@|@broer@
+@brothers and sisters@|@bruorren@
+@brow@|@wynbrau@
+@brown@|@brún@
+@brownie@|@ierdmantsje@
+@bruise@|@gnidzje@
+@brûkme@|@custom@
+@brush@|@boarstel, boarstelje@
+@bubble@|@bonge@
+@bucket@|@amer@
+@buckle@|@gasp@
+@buddy@|@kammeraat@
+@budget@|@budzjet@
+@buffalo@|@buffel@
+@buffoon@|@harlekijn@
+@bug@|@ôfharkje, ynsekt@
+@build@|@konstruearje, mitselje@
+@builder@|@boufakker@
+@building@|@gebou, oanbou@
+@bull@|@bolle@
+@bullet@|@kûgel@
+@bumblebee@|@holder@
+@bump@|@buchel@
+@bunch@|@bondel, bosk@
+@bundle@|@bondel, bosk@
+@buoy@|@beaken@
+@burden@|@fracht@
+@burdensome@|@swier@
+@bureau@|@kantoar@
+@bureaucracy@|@burokrasy@
+@burglar@|@ynbrekker@
+@burgomaster@|@boargemaster@
+@burial@|@begraffenis, beïerdiging@
+@burn@|@baarne, brâne@
+@burn down@|@ferbrâne@
+@burst@|@barst, barste, spjalte, splite@
+@bury@|@begrave, beïerdigje, te hôf bringe@
+@bus@|@bus, buso@
+@bus station@|@Busstasjon@
+@bush@|@strûk@
+@business@|@affearen, kwestje, oangelegenheid@
+@business deal@|@affearen, kwestje, oangelegenheid@
+@businessman@|@sakeman@
+@busy@|@beset@
+@but@|@bûten, mar@
+@butcher@|@slachter@
+@butcher's shop@|@slachterij@
+@butter@|@bûter@
+@butterfly@|@flinter@
+@button@|@drukkerke, drukknoop@
+@buy@|@keap, oanhannelje, oankeapje, oanriede, oantuge@
+@buyer@|@keaper, klant@
+@by@|@by, fan, neffens, sûnt@
+@by day@|@daagliks@
+@by mistake@|@by fersin, troch fersin@
+@by night@|@nachts@
+@by now@|@al, alfêst@
+@bye@|@farwol@
+@byname@|@tanamme@
+@by-way@|@ôfslach, sydwei@
+@cabaret@|@kabaret@
+@cabbage@|@koal@
+@cabin@|@hutte, kajút, klinte@
+@cabinet@|@kammenet@
+@cactus@|@kaktus@
+@cadger@|@parasyt@
+@café@|@kafee@
+@cafetaria@|@kafetaria@
+@cage@|@koai, kouwe@
+@cake@|@koeke@
+@calamity@|@pleach@
+@calculate@|@berekkenje, besiferje, rekkenje@
+@calculation@|@berekken, besifering@
+@calendar@|@kalinder@
+@calf@|@keal@
+@call@|@neame@
+@call on@|@besykje@
+@calm@|@stil@
+@camel@|@kamiel@
+@camera@|@fototastel@
+@camp@|@kampearje@
+@camp out@|@kampearje@
+@can@|@blykje@
+@can opener@|@blikiepener@
+@canal@|@djip, kanaal@
+@canary@|@kanarje@
+@cancel@|@annulearje, ôfbestelle, ôfsizze, skrasse@
+@candle@|@kears, kers@
+@capable@|@betûft, kundich@
+@capital@|@haadstêd@
+@capital letter@|@haadletter@
+@captain@|@kaptein@
+@capture@|@fange@
+@car@|@auto, wein@
+@car park@|@parkearterrein@
+@car rental agency@|@autoferhierbedriuw@
+@card@|@kaart@
+@cardboard@|@buordpapier@
+@cardiac@|@hertlik@
+@careful@|@foarsichtich@
+@careless@|@sleau@
+@caress@|@aaie, leafkje@
+@caressing@|@oansjitsk@
+@carnation@|@anjelier, anjer@
+@carpet@|@tapyt@
+@carrion@|@ies@
+@carrot@|@woartel@
+@carrying off@|@ôffier@
+@case@|@affearen, fal, gefal, kwestje, oangelegenheid@
+@cash@|@ree@
+@cast@|@ôfsmite@
+@castle@|@kastiel, slot@
+@cat@|@kat@
+@catalogue@|@katalogus@
+@catch@|@fange@
+@category@|@kategory@
+@caterpillar@|@rûp@
+@cathode tube@|@byldbuis@
+@cauliflower@|@blomkoal@
+@cause@|@feroarsaakje, oarsaak@
+@cause pain to@|@fertriette@
+@caution@|@foarsichtigens@
+@cautious@|@foarsichtich@
+@cave@|@dobbe@
+@cavity@|@dobbe@
+@ceaselessly@|@algeduerigen, aloan, efterinoar, oanien@
+@celebrate@|@feestje@
+@celestial@|@himelsk@
+@cello@|@fiolonsel@
+@cement@|@semint@
+@cemetery@|@tsjerkhôf@
+@censurable@|@net goed te krijen, ôf te karren@
+@centennial@|@ieu@
+@center@|@sintrum@
+@centimeter@|@sintimeter@
+@century@|@ieu@
+@ceremony@|@seremoanje@
+@certanly@|@grif@
+@certificate@|@akte, attest, tsjûchskrift, útkomste@
+@certificated@|@diplomearre@
+@chain@|@keatling@
+@chair@|@stoel@
+@chairman@|@foarsitter, presidint@
+@chalk@|@kryt@
+@chamber@|@keamer@
+@chance@|@foarfal@
+@change@|@feroaring, ôfwikseling@
+@channel@|@buis, djip, kanaal, piip@
+@chaos@|@disoarder, tizeboel@
+@character@|@aard, natuer, wêzen@
+@charcoal@|@houtskoal@
+@charge@|@fracht, oanklacht@
+@charity@|@ielmis, jefte@
+@charm@|@bekoare, bekoaring@
+@charming@|@aardich, bekoarlich, floatich@
+@chase@|@driuwe, efterneisitte, eftersitte, jeie@
+@chase away@|@ferdriuwe, ferjeie@
+@chasm@|@djipte, ôfgrûn@
+@cheap@|@goedkeap@
+@cheat@|@bedraaie, bedrager, bemiterje, skoelje, stjonkert@
+@check@|@kontrolearje@
+@check up on@|@kontrolearje@
+@checker@|@kontroleur@
+@checkers@|@damspul@
+@cheek@|@wang@
+@cheers!@|@tsjoch!@
+@chemist@|@apteker, skiekundige@
+@chemistry@|@skiekunde@
+@chemist's shop@|@apteek@
+@cherry@|@kers@
+@chesse@|@tsiis@
+@chest@|@boarst, boarstkast, kiste@
+@chew@|@kôgje@
+@chewing-gum@|@kaugom@
+@chicken@|@hin@
+@chief@|@baas, haad, lieder, master, oanfieder, sjef@
+@chief of police@|@kommissaris@
+@child@|@bern, telch@
+@childish@|@berneftich@
+@chilly@|@kâld@
+@chin@|@kin@
+@China@|@Sina, Sjina@
+@Chinaman@|@Sinees, Sjinees@
+@Chinese@|@Sinees, Sineesk, Sjinees, Sjineesk@
+@chive@|@biezelok@
+@chocolate@|@sûkelarje@
+@choice@|@ferkiezing@
+@choke@|@wjirgje, wurgje@
+@choose@|@ferkieze, kieze@
+@chord@|@akkoard@
+@chorus@|@koar@
+@chrestomathy@|@blomlêzing@
+@Christ@|@Kristus@
+@Christian@|@kristen, kristlik@
+@Christmas@|@Krysttiid@
+@chuck@|@aaie, leafkje@
+@church@|@tsjerke@
+@cinder@|@jiske@
+@Cinderella@|@Jiskepûster@
+@circle@|@fennoatskip@
+@circus@|@hynstespul, sirkus@
+@citation@|@oanhaal, sitaat@
+@cite@|@sitearje@
+@city@|@stêd@
+@city hall@|@stedhûs@
+@citzen@|@boarger@
+@civilization@|@beskaving@
+@clap@|@earne mei ynstimme, hantsjeklappe@
+@clarify@|@ferklearje@
+@class@|@leargong@
+@classic@|@klassyk@
+@classical@|@klassyk@
+@claw@|@klau, kloer@
+@clay@|@aardzje, klaai@
+@clean@|@skjin, suverje@
+@cleanse@|@suverje@
+@clear@|@dúdlik, ljocht@
+@clear away@|@ôfrêde@
+@clergyman@|@geastlike, pastoar@
+@clever@|@gewykst, liep@
+@client@|@keaper, klant@
+@climb@|@bekladderje, bekliuwe, klimme, kliuwe@
+@clinic@|@klinyk@
+@close@|@oankomme, takomme, tichtdwaan@
+@closed@|@ticht@
+@clothe@|@de klean oandwaan, oanklaaie@
+@clothes@|@klaaiïng, klean@
+@clothing@|@klaaiïng, klean@
+@cloud@|@wolk@
+@club@|@fennoatskip, klup@
+@cluster@|@bondel, bosk@
+@clutch@|@beetkrije, beetpakke@
+@co-@|@oanelkoar-, oaninoar-@
+@coach@|@spoarwein@
+@coal@|@koal@
+@cock@|@hoanne@
+@coconut@|@kokosnút@
+@cod@|@kabeljau@
+@codfish@|@kabeljau@
+@coffee@|@kofje@
+@coffee-house@|@kafee@
+@coffe-pot@|@kofjekanne@
+@coffin@|@deakiste@
+@cognac@|@konjak@
+@coin@|@jildstik@
+@coir@|@koar@
+@cold@|@ferkâldzjen, kâld, kjeld@
+@collar@|@kraach@
+@collateral branch@|@sydtûke@
+@colleague@|@amtgenoat, kollega@
+@collect@|@sammelje@
+@collection@|@samling@
+@collide@|@botse@
+@collide with@|@oanfarre@
+@collision@|@oanfarring, oanriding@
+@colony@|@koloanje@
+@column@|@rubryk@
+@comb@|@kjimme@
+@combine@|@ferbine@
+@come@|@komme, ôfskaaie, ôfstamje@
+@come about@|@foarfalle@
+@come across@|@oantreffe@
+@come to an end@|@beteare@
+@come to nothing@|@oergean@
+@come together@|@oanslute@
+@comedy@|@komeedzje@
+@comet@|@sturtstjer@
+@comfort@|@treastgje@
+@comfrey@|@skuorwoartel@
+@comic@|@komysk@
+@coming@|@ôfkomstich@
+@command@|@befel, befelje@
+@commander@|@befelhawwer, kommandant@
+@commend@|@oanpriizgje, oanpriizje, oanrikkemandearje@
+@commerce@|@begjinne, oanbrekke, oanfange, oangean, oanpakke@
+@commercement@|@begjin, oanfang@
+@committee@|@komitee@
+@commodity@|@artikel@
+@commonplace@|@deisk, sljochtweihinne@
+@commotion@|@oanstjit, skandaal@
+@communicate@|@oanstekke@
+@communist@|@kommunist@
+@companian@|@begelieder@
+@companion@|@kammeraat@
+@company@|@fennoatskip@
+@compare@|@fergelykje@
+@comparison@|@fergeliking@
+@compassion@|@begrutsjen, meilijen@
+@compatriot@|@lânsman@
+@compel@|@ferplichtsje@
+@compensate@|@beleanje, leanje@
+@compensation@|@beleanning@
+@complain@|@kleie@
+@complaint@|@oanklacht@
+@complete@|@alles omfiemjend, hiel, oanfolje, totaal@
+@completed@|@dien@
+@compliment@|@komplimint@
+@compulsory@|@ferplichte@
+@computation@|@berekken, besifering@
+@comrade@|@kammeraat@
+@conceal@|@ferbergje@
+@concern@|@oanbelangje@
+@concerning@|@oanbelangjende, oer@
+@concert@|@konsert, muzykútfiering@
+@concise@|@bûnich@
+@conclude@|@ôfhannelje@
+@conclusion@|@konklúzje@
+@concord@|@akkoard, akkoart, oerienstimming@
+@concurrence@|@akkoart, oerienstimming@
+@condemn@|@feroardielje, lekje, ôfkarre@
+@condemnable@|@net goed te krijen, ôf te karren@
+@conduct@|@liede@
+@confess@|@bekenne, bychtsje@
+@confession@|@bycht@
+@confidence@|@fertrouwen, fidúsje@
+@confine@|@begrinzgje@
+@conflict@|@konflikt@
+@confortable@|@geryflik@
+@confusion@|@ferbjustering@
+@congenital@|@oanberne@
+@congregate@|@gearkomme@
+@congress@|@kongres@
+@conjunction@|@bynwurd@
+@connect@|@ferbine, gearbine@
+@connect up@|@ferbine@
+@connection@|@ferbining, oansluting@
+@consciousness@|@bewustwêzen@
+@consecutively@|@efterinoar, oanien@
+@considerable@|@danich, grut@
+@considerably@|@folle, tige@
+@consolation@|@treast@
+@console@|@treastgje@
+@constantly@|@algeduerigen, aloan@
+@constringent@|@bekjelûkerich@
+@construct@|@konstruearje@
+@consult@|@konsultearje@
+@consumer@|@brûker@
+@contact@|@kontakt@
+@container@|@bak, doaze@
+@contented@|@tefreden@
+@contention@|@bewearing@
+@continent@|@fêstelân, wrâlddiel@
+@continually@|@algeduerigen, aloan@
+@continue@|@duorje@
+@continuously@|@algeduerigen, aloan@
+@contraceptive@|@antikonsepsje-@
+@contract@|@kontrakt@
+@contrast@|@ôfstekke@
+@control@|@regearje@
+@controller@|@kontroleur@
+@convention@|@kongres@
+@conversion@|@feroaring@
+@convey@|@oanlangje, oanrikke, ôfdrage, ôfjaan@
+@cool@|@fris, koel, kuolje, ôfkuolje@
+@cool down@|@kuolje, ôfkuolje@
+@cooper@|@koper@
+@copper@|@koper@
+@copy@|@kopiearje, kopy, ôfprintsel@
+@copyright@|@auteursrjocht, skriuwersrjocht@
+@cord@|@tou@
+@cordial@|@hertlik@
+@cork@|@koark@
+@corkscrew@|@koarketrekker@
+@cormorant@|@ielgoes@
+@corn@|@yl@
+@corner@|@hoeke@
+@cornflower@|@roggeblom@
+@coronation@|@kroaning@
+@corporal@|@lichaamlik@
+@corporation@|@fakferiening@
+@corporeal@|@lichaamlik@
+@corpulent@|@tsjok@
+@correspond@|@oanslute@
+@corrode@|@oantaaste@
+@cost@|@kostje@
+@costly@|@djoer@
+@cotton@|@katoen@
+@cotton-wool@|@bomwol@
+@couch-grass@|@fiter, groede@
+@cough@|@hoastje@
+@counsellor@|@riejouwer@
+@count@|@telle@
+@count down@|@poffe@
+@countryside@|@boerelân, plattelân@
+@couple@|@keppelje@
+@cousin@|@nicht@
+@cover@|@bedekke@
+@cow@|@ko@
+@cowardice@|@leffens@
+@crane's-bill@|@earrebarrebek@
+@creature@|@skepsel@
+@creep@|@krûpe@
+@cremate@|@kremeanje@
+@cremation@|@kremaasje@
+@crime@|@misdied, misdriuw@
+@criminal@|@misdiedich, misdiediger@
+@criticism@|@krityk@
+@crocus@|@krookje@
+@crow@|@krie, skierroek@
+@crown@|@kroanje@
+@cruel@|@wreed@
+@crumble@|@ôfbroazelje@
+@culture@|@kultuer@
+@curtain@|@gerdyn@
+@customs@|@grinswacht@
+@cut off@|@ôfknippe, ôfsnije@
+@cuttings@|@ôfeart@
+@daffodil@|@titelroas@
+@dahila@|@dalje@
+@daily@|@daagliks, deisk, deistich@
+@daily paper@|@deiblêd@
+@daisy@|@koweblomke@
+@dam@|@dam, deale, duvekers, ôfslutning@
+@damage@|@skansearje, skansearring, skea@
+@dame@|@dam@
+@damp@|@dampens@
+@dance@|@dûns, dûnsje, dûnsjen@
+@dandelion@|@tiksel@
+@danger@|@gefaar@
+@dangerous@|@faai, gefaarlik, nuodlik@
+@Danish@|@Deensk@
+@dare@|@doare, oandoare@
+@dare to fight@|@oandoare@
+@dark@|@donker, tsjuster@
+@darling@|@leave, skat@
+@darn@|@blikstiender@
+@date@|@datearje, dei, ôfspraak@
+@daughter@|@dochter@
+@daughter-in-law@|@skoandochter@
+@dawn@|@dage@
+@day@|@dei@
+@daybreak@|@dage@
+@daydream@|@dream, dreame@
+@daylight@|@deiljocht@
+@dazed@|@ferbjustere@
+@dazzle@|@ferblynje@
+@dead@|@dea, deadsk, ferstoarn@
+@deaden@|@ôflosse, ôfskriuwe@
+@deadly@|@deadlik@
+@deaf@|@dôf@
+@deal with@|@oanpakke@
+@dear@|@djoer, djur, kostber, leaf@
+@death@|@dea, ferstjerren@
+@debateble@|@fetber foar krityk@
+@debt@|@skuld@
+@decayed@|@útlibbe, útwikelse@
+@deceive@|@bedraaie, bemiterje, ferrifelje@
+@deceiver@|@bedrager@
+@december@|@desimber@
+@December@|@wintermoanne@
+@decide@|@beslute@
+@decimeter@|@desimeter@
+@decision@|@beslút@
+@decisive@|@beskiedend, ôfdwaande@
+@declaration@|@deklaraasje@
+@decline@|@efterútgong@
+@decoction@|@ôfdreachsel, ôfdreachset@
+@décor@|@dekoraasje@
+@decoration@|@dekoraasje@
+@decrepit@|@útlibbe, útwikelse@
+@deem@|@besjen, leauwe, miene@
+@deep@|@djip@
+@deer@|@hart@
+@defeat@|@nederlaach@
+@defence@|@definsje, efterhoede, ferdigening, ferwar@
+@defend@|@ferdigenje, ferwaarje@
+@defendant@|@beskuldige, ferklage, oanklage@
+@defense@|@definsje, ferdigening, ferwar@
+@define@|@definiearje@
+@deflect@|@ôfwike@
+@degree@|@graad@
+@delegate@|@deputearre, ôffeardige, ôffurdige, ôffurdigje@
+@delegation@|@delegaasje, ôffurdiging@
+@delete@|@ôffeie, ôfwiskje@
+@deliver@|@leverje@
+@delivery@|@leverânsje, ôfjaan@
+@deluxe@|@lúksueus@
+@demand@|@easkje, fereaskje, ôfset, ôftrek, sleet@
+@democracy@|@demokrasy@
+@demolition@|@ôfbraak@
+@demonstrate@|@demonstrearje, manifeastearje, oantoane@
+@demonstration@|@demonstraasje, manifestaasje@
+@demonstrative@|@oanwizend foarnamwurd@
+@demonstrative pronoun@|@oanwizend foarnamwurd@
+@denounce@|@ferkleie, oankleie@
+@dentist@|@toskedokter@
+@depart@|@ôffarre, ôfreizgje@
+@department@|@departemint, fek@
+@departure@|@fuortfarren, fuortgean@
+@depend@|@ôfhingje, stean@
+@dependence@|@ôfhinklikens@
+@dependent@|@ôfhinklik@
+@depress@|@deprimearje@
+@depression@|@depresje, krisis@
+@depth@|@djippens, djipte@
+@deputation@|@ôffurdiging@
+@depute@|@ôffeardigje, ôffurdigje@
+@deputy@|@deputearre, ôffeardige, ôffurdige@
+@derivation@|@ôflieding@
+@derive@|@ôfliede, ôfskaaie, ôfstamje, ôftaapje@
+@descend@|@delgean, ôfrinne, ôfstappe@
+@desert@|@ferlitte, woastine, woastyn@
+@design@|@tekenje@
+@desire@|@ferlangje, ferlangst, winsk@
+@desk@|@buro, skriuwburo, skriuwtafel@
+@despair@|@wanhoopje, wanhope@
+@desperate@|@hopeleas, wanhopich@
+@despise@|@ferachtsje@
+@dessert@|@neigesetsje@
+@destroy@|@ferneatigje, ferniele@
+@destruction@|@ferneatigjen, fernieling@
+@detachment@|@ôfdieling@
+@detain@|@ôfhâlde@
+@detective@|@detektive@
+@detention@|@arrestaasje@
+@deter@|@ôfskrikke@
+@determine@|@definiearje, fêstdwaan@
+@deterrent@|@om bang fan te wurden@
+@deviate@|@ôfwike@
+@devil@|@duvel, koarthakke@
+@devilsh@|@duvelsk@
+@devoted@|@oanhanklik, oanhinklik@
+@dew@|@dau@
+@diabolical@|@duvelsk@
+@diagram@|@figuer@
+@dial@|@skiif@
+@dialect@|@dialekt, sprake@
+@dialogue@|@twaspraak@
+@diary@|@deiboek@
+@diccharge@|@ôffier@
+@dictate@|@diktearje@
+@dictatorship@|@diktatuer@
+@dictionary@|@wurdboek@
+@die@|@deagean, dobbelstien, ferstjerre, stjerre@
+@differ@|@ferskele, ferskille@
+@differently@|@yn oarwei@
+@differnce@|@ferskil, skeel@
+@digression@|@ôfdwaling@
+@dike@|@dyk@
+@dilapidated@|@útlibbe, útwikelse@
+@dim@|@jûnich, skimmerich, tsjuster@
+@dimension@|@diminsje, ofmjitting@
+@diminutive@|@lyts@
+@din@|@lawaai, leven@
+@dinner@|@jûnsiten@
+@diplomat@|@akte, útkomste@
+@direct@|@liede, oanstjoere@
+@direction@|@rjochting@
+@directions@|@oanwizing@
+@director@|@direkteur@
+@directory@|@katalogus@
+@dirty@|@fiis@
+@disabled@|@arbeidsûngeskikt@
+@disappear@|@ferdwine@
+@disappoint@|@teloarstelle@
+@disapprove of@|@lekje, ôfkarre@
+@disaprove@|@lekje, ôfkarre@
+@disc@|@skiif@
+@discard@|@ôftankje@
+@discharge@|@dien jaan, ôffier, ôffjurje, ôfsjitte@
+@discourage@|@ôfskrikke@
+@discrimination@|@diskriminaasje@
+@discuss@|@diskusjearje@
+@discussion@|@diskusje@
+@disease@|@sykte@
+@disgust@|@mier@
+@dish@|@skaal@
+@disinfect@|@desynfektearje@
+@dislike@|@antipaty, mier, tsjinsin@
+@dismal@|@aaklik, deisk, sljochtweihinne, ûnhuer@
+@dismal (1)@|@donker, earmhertich, ferdrietlik, fertrietlik@
+@dismal (2)@|@drôf, earmoedig, heukerich, skiterich@
+@dismantle@|@ôftakelje@
+@dismiss@|@dien jaan, fuortstjoere, ôfstjoere@
+@dismount@|@fan in hynder ôfstappe@
+@disobedient@|@dôfhûdich@
+@dispatch@|@ôfstjoere@
+@disposal@|@oanfjochting, oanstriid@
+@dispose of@|@ferkeapje@
+@disposition@|@betûftens, talint@
+@dissemble@|@huchelje@
+@dissuade from@|@ôfriede@
+@distance@|@distânsje, ôfstân@
+@distant@|@efterôf, fier@
+@distinct@|@dúdlik@
+@distraction@|@ferdivedaasje@
+@distress@|@fertriette@
+@distribution@|@distribúsje@
+@ditch@|@dobbe@
+@dive@|@dûke@
+@diver@|@dûker@
+@diverge@|@ôfwike@
+@diversion@|@ferdivedaasje@
+@divert@|@ôffiere, ôfliede@
+@divide@|@diele, ferdiele, ferpartsje, ôfskiede, ôfsûnderje@
+@divine@|@godlik@
+@diving license@|@rydbewiis@
+@do@|@dwaen, oanmeitsje@
+@do away with@|@ôfskaffe, ôftankje@
+@Do you have...@|@ha jo...@
+@Do you speak Chinese?@|@Prate jo Sineesk?@
+@Do you speak English?@|@Kinne jo Ingelsk?, Koost dü Aingelsch?@
+@Do you speak French?@|@Prate jo frânsk?@
+@Do you speak German?@|@Prate jo Dútsk?@
+@Do you speak Spanish?@|@Prate jo Spaansk?@
+@dock@|@surk@
+@doctor@|@dokter, doktor@
+@document@|@akte, dokumint, útkomste@
+@doe@|@wyfkehart@
+@dog@|@dogge, hûn@
+@dogmatic@|@dogmatysk@
+@doll@|@pop, poppe@
+@donate@|@skinke@
+@done@|@dien@
+@donkey@|@ass, ezel@
+@Don't touch me there!@|@Dir mäist ai baikäme!, Fåås me deer ai önj!@
+@Don't touch me there! (1)@|@Foate mi dear ni uun!, Ling mi diar ei uun!@
+@Don't touch me there! (2)@|@Faati mi diar ek ön!, Reitsje my dêr net oan!@
+@door@|@doar@
+@double@|@dûbel, dûbeld, ferdûbelje@
+@doubt@|@betwivelje, twivel, twivelje@
+@dough@|@daai@
+@dove@|@do@
+@down@|@del, dûns, nei ûnderen@
+@dowry@|@breidsjefte@
+@doze@|@dozyn@
+@drag@|@tsjen@
+@dragon@|@draak@
+@dragonfly@|@blau-ynske, blaujufferke@
+@drain@|@ôftaapje, ôfwetterje@
+@drake@|@jerk, jerke@
+@dram@|@foaritentsje@
+@drastic@|@drastysk@
+@draw@|@ferlokje, tekenje, tsjen@
+@drawer@|@laden@
+@dream@|@dream, dreame@
+@dreary@|@aaklik, drôf, ferdrietlik, ûnhuer@
+@dreary (1)@|@donker@
+@dress@|@de klean oandwaan, oanklaaie@
+@dresser@|@oanrjocht@
+@drink@|@drank, drinke@
+@drive@|@driuwe, oandriuwe@
+@drive away@|@ferdriuwe, ferjeie@
+@drive on@|@driuwe@
+@driving mirror@|@spegel om efterút te sjen@
+@drop@|@drip, drippe, falle@
+@drop of water@|@drip@
+@drown@|@ferdrinke@
+@drug@|@doktersguod, medikamint, medisyn@
+@drugstore@|@apteek@
+@drum@|@tromme, tromp@
+@drummer@|@tromslagger@
+@drunk@|@dronken@
+@drunkness@|@dronkenskip@
+@dry@|@droechmeitsje, droegje, druie@
+@dryness@|@droechte@
+@dual@|@dûbel, dûbeld@
+@duchess@|@hartoginne@
+@duchy@|@hartochdom@
+@duck@|@ein@
+@duke@|@hartoch@
+@dûm@|@crazy@
+@duplicate@|@fermannichfâldigje@
+@during@|@wylst@
+@during the day@|@daagliks@
+@during the night@|@nachts@
+@dusk@|@skimer@
+@dust@|@ôfstofje@
+@Dutch@|@Hollânsk, Nederlânsk@
+@Dutchman@|@Hollanner, Nederlanner, Nederlanner@
+@duty-free@|@belestingfrij@
+@dwarf@|@dwerch@
+@dwelling@|@went, wente@
+@dwylsin@|@craziness@
+@dwylsinnich@|@crazy@
+@dwylsinnigens@|@craziness@
+@dye@|@ferve@
+@dynamite@|@dynamyt@
+@each@|@elk@
+@each other@|@inoar@
+@eagle@|@earn@
+@ear@|@ear, ier@
+@earing@|@earbel@
+@earl@|@greve@
+@early@|@betiid@
+@earn@|@fertsjinje@
+@earnest@|@earnstich@
+@earrebarrebek@|@crane's-bill@
+@earth@|@grûn, ierde, ierdzje@
+@earth connection@|@ierdlieding@
+@earth wire@|@ierdlieding@
+@earthen@|@aardzje, ierdsk@
+@earthenware@|@ierdewurk, stienguod@
+@earthing@|@ierdlieding@
+@earthquake@|@ierdskodding@
+@earthy@|@ierdsk@
+@East@|@easten@
+@Easter@|@Peaske@
+@eastern@|@eastersk@
+@easy@|@maklik@
+@eavesdrop@|@ôfharkje@
+@economical@|@ekonomysk@
+@economics@|@ekonomy@
+@economy@|@ekonomy@
+@ecouragement@|@oanmoediging, oantreast, oantreasting@
+@edible@|@ytber@
+@education@|@opfieding@
+@eel@|@iel@
+@effect@|@effekt@
+@effective@|@beskiedend, ôfdwaande@
+@effectual@|@beskiedend, ôfdwaande@
+@efficacious@|@beskiedend, ôfdwaande@
+@egg@|@aai, aei@
+@Egyptian@|@Egyptner@
+@eight@|@acht@
+@eighteen@|@achttjin@
+@eighth@|@achtste@
+@eigthy@|@tachtich@
+@elastic@|@elastysk@
+@elbow@|@earmtakke@
+@elder@|@flear@
+@elect@|@ferkieze, kieze@
+@election@|@ferkiezing@
+@electric@|@elektrysk@
+@electric fan@|@fentilator@
+@electric torch@|@bûslampe@
+@electricity@|@elektrisiteit@
+@elegant@|@kwierich@
+@element@|@elemint@
+@elemental@|@elemintêr@
+@elementary@|@elemintêr@
+@elements@|@abee@
+@elephant@|@oaljefant@
+@eleven@|@alve@
+@elf@|@alve@
+@elm@|@iperenbeam@
+@else@|@oar, oars@
+@embankment@|@dyk@
+@emerge@|@ferskine@
+@emergency@|@krisis@
+@emigrate@|@emigrearje@
+@emissary@|@seinboade@
+@emmet@|@eamelder, miammel@
+@emotion@|@oandienens, oandwaning@
+@empitness@|@leechte@
+@employ@|@brûke@
+@employment exchange@|@arbeidsburo@
+@empress@|@keizerinne@
+@empty@|@leech@
+@enamel@|@gimmeleard@
+@enchanter@|@tsjoender@
+@encounter@|@oantreffe, treffe@
+@encourage (1)@|@oanmoedigje, oantreastgje@
+@encycloapedia@|@ensyklopedy@
+@end@|@besljochtsje, beteare, dien meitsje, ein, ôfmeitsje@
+@end up@|@arrivearje, beteare, oankomme, oanlânje@
+@ending@|@ein@
+@endive@|@andyvje@
+@endure@|@duorje, lijen@
+@enemy@|@fijân@
+@energy@|@arbeidsfermogen@
+@engine@|@lokomotyf, masine@
+@England@|@Ingelân@
+@English@|@Ingelsk@
+@Englishman@|@Ingelsman@
+@engrave@|@gravearje@
+@enigma@|@riedling@
+@enjoyable@|@gefallich@
+@enlarge@|@fergrutsje@
+@enlargement@|@fergrutting@
+@enmity@|@fijânskip@
+@enormous@|@enoarm@
+@enough@|@genôch@
+@enterprise@|@bedriuw@
+@entertaining@|@fermaaklik@
+@entertainment@|@aardichheid@
+@entire@|@finaal, gâns, gânsk, hiel, hielendal@
+@entomb@|@begrave, beïerdigje, te hôf bringe@
+@entrance@|@yngong@
+@entrée@|@foargerjocht@
+@entrust@|@fertrouwe@
+@envious@|@oergeunstich@
+@environment@|@fermidden@
+@envoy@|@seinboade@
+@envy@|@oergeunst@
+@episcopal@|@biskoplik@
+@equal@|@gelyk, lyk@
+@equator@|@evener@
+@equilibrium@|@lykwicht@
+@equipment@|@apparatuer@
+@equivalent@|@ekwivalint@
+@erf@|@court, courtyard@
+@err@|@fersin, flater@
+@escort@|@begelieding@
+@estate@|@boerepleats, boupleats, pleats@
+@et cetera@|@ensafuorthinne@
+@etc.@|@ensfh.@
+@ethical@|@etysk@
+@euro@|@euro@
+@Europa@|@Europa@
+@Europe@|@Europa@
+@European@|@Europeesk@
+@evacuate@|@evakuearje@
+@even@|@flak, gelyk, lyk@
+@evening@|@jûn, jûntiid@
+@evening meal@|@jûnmiel, jûnsiten@
+@evening paper@|@jûnskrante@
+@event@|@foarfal@
+@ever@|@altiten, altyd, ea, hieltiten@
+@everlasting@|@einleas@
+@every@|@elk@
+@every kind of@|@alderhanne@
+@every one@|@elk@
+@everybody@|@elk@
+@everything@|@allegearre, alles@
+@everywhere@|@oeral, rûnom@
+@exaggerate@|@oerdriuwe@
+@examination@|@eksamen@
+@except@|@behalven, bûten@
+@except for@|@behalven@
+@excite@|@oansjasje@
+@excuse me@|@nim my net kwea ôf@
+@executioner@|@boal@
+@exercise-book@|@jefte@
+@exhausted@|@ûngedien@
+@exhortation@|@oanmoanning@
+@exist@|@bestean@
+@exort@|@ôftwinge@
+@expect@|@biidzje, ferwachtsje, wachtsje@
+@expectation@|@ferhoop, ferwachting, ôfwachting@
+@expedite@|@ôfhannelje@
+@expel@|@ferdriuwe, ferjeie@
+@expensive@|@djoer, djur, kostber@
+@experiment@|@eksperimintearje@
+@expire@|@beteare, deagean, ferstjerre, stjerre@
+@explain@|@ferklearje@
+@explanation@|@ferklearring@
+@explode@|@ûntploffe@
+@exploit@|@eksploitearje@
+@explosion@|@ûntploffing@
+@expression@|@hâlding@
+@extension@|@efterheaksel@
+@exterior@|@gesicht, oansjen@
+@extinguish@|@dôvje, dwêste@
+@extra@|@ekstra@
+@extract@|@ôftreksel@
+@eye@|@each@
+@eyebrow@|@wynbrau@
+@eyelid@|@eachlid@
+@fabricate@|@fabrisearje@
+@face@|@antlit, gesicht@
+@facile@|@maklik@
+@factory@|@fabryk@
+@factual@|@feitlik@
+@faculty@|@fakulteit@
+@fade@|@ferblikke@
+@fag out@|@ôfmêdzje@
+@fail@|@fale, feile, mislearje@
+@failure@|@fallisemint@
+@faith@|@fertrouwen, fidúsje@
+@fall@|@drippe, fal, falle, hejrst, hejst@
+@fall away@|@ôfklaaie@
+@false@|@falsk@
+@falsify@|@ferfalskje@
+@fame@|@faam, gloarje@
+@family@|@famylje, gesin, húshâlding@
+@family tree@|@sibbekunde@
+@famine@|@breakrapte@
+@fan@|@oanwakkereje@
+@fancy@|@dreame, ferbyldzje@
+@fantastic@|@fantastysk@
+@fantasy@|@fantasij, fantasy@
+@far@|@efterôf, fier@
+@farewell@|@farwol, ôfskie@
+@farm@|@boerepleats, boupleats, pleats@
+@farm-@|@agrarysk@
+@farm out@|@ferpachtsje@
+@farmer@|@boer, bouboer, hierboer, hierde boer@
+@farming@|@bou, lânbou@
+@farmland@|@bou, boulân@
+@fascinate@|@fassinearje@
+@fast@|@fêstje, fluch@
+@fasten@|@fêstdwaan, ôfskoattelje@
+@fat@|@fet, tsjok@
+@father@|@heit@
+@father-in-law@|@skoanheit@
+@fatherland@|@heitelân@
+@fatty@|@fet@
+@fault@|@skuld@
+@favor@|@begeunstigje, geunst@
+@favourable@|@geunstich@
+@fear@|@bangens, benaudens, eangst, eangstme, freze@
+@fearful@|@benaud, eangstich@
+@feast@|@feestmiel@
+@feather@|@fear@
+@february@|@febrewaris@
+@February@|@sellemoanne@
+@federation@|@bûn@
+@feed@|@fiede@
+@feel@|@fiele, fielen, gefoel, oanfiele@
+@feeling@|@fielen, gefoel@
+@fellow@|@man, oanelkoar-, oaninoar-@
+@felt@|@filt@
+@female@|@froulik@
+@female singer@|@sjongster@
+@female slave@|@slavinne@
+@female teacher@|@learares@
+@feminine@|@froulik@
+@fence@|@ôfsluting@
+@fence in@|@ôffreedzje@
+@fence in/off@|@ôffreedzje@
+@fence off@|@ôffreedzje@
+@ferkoartsje@|@curtail@
+@ferry@|@fearboat@
+@fertilize@|@bedongje, dongje, meste@
+@fertilizer@|@dong@
+@fervor@|@ambysje@
+@fetch@|@oanbringe, oandrage, tatôgje@
+@fiancé@|@breugeman, feint@
+@fiancée@|@breid@
+@fiction@|@fiksje@
+@field@|@eker, fjild@
+@field hospital@|@sikewein@
+@fifteen@|@fyftjin@
+@fifteenth@|@fyfte, fyftjinde@
+@fifth@|@fyfde@
+@fifty@|@fyftich@
+@fig@|@fiich@
+@fight@|@fjochtsje@
+@figurative@|@figuerlik@
+@figure@|@berekkenje, besiferje, figuer, rekkenje@
+@file@|@aktetas, file, fylje, rige@
+@fill@|@folje@
+@fill in@|@folje@
+@fill up@|@folje@
+@filthy@|@fiis@
+@fin@|@fin@
+@finally@|@efternei@
+@finance@|@finansierje@
+@financial@|@finansjeel@
+@find@|@fine@
+@fine@|@jildboete, moai@
+@finger@|@finger@
+@finish@|@besljochtsje, dien meitsje, ôfmeitsje, ôfwurkje@
+@finish one's studies@|@ôfstudearje@
+@finished@|@dien, ree@
+@finishing off@|@ôfwurking@
+@finnish@|@ôfhannelje@
+@fir@|@spjir@
+@fire@|@dien jaan, fjoer, ôffjurje, ôfsjitte, sjitte@
+@fire off@|@ôffjurje, ôfsjitte@
+@fire-alarm@|@brânmelder@
+@firecall@|@brânmelder@
+@firewood@|@brânhout@
+@firm@|@gewûpst, hecht@
+@first@|@earst, earste@
+@first name@|@foarnamme@
+@first of all@|@earst@
+@firstly@|@earst@
+@fish@|@fisk, fiskje@
+@fisherman@|@fisker, fiskerman@
+@fishing rod@|@angel, angelstôk, fiskersstôk@
+@fission@|@atoomspjalting@
+@fist@|@fûst, knûst@
+@fit@|@oanpasse, ôfstimme@
+@five@|@fiif@
+@fix@|@ferhelpe, fêstdwaan, oanpasse, ôfstimme@
+@fixed@|@fêst@
+@flag@|@flagge@
+@flame@|@flam, lôge@
+@Flanders@|@Flaanderen@
+@flat@|@appartemint, fertrek, flak@
+@flat-iron@|@strykizer@
+@flatter@|@bekflaaie, flaaie, flaaikje, moaiprate, sjerpslikje@
+@flax@|@flaaks@
+@flea@|@flie@
+@flee@|@flechtsje@
+@fleece@|@in poat útlûke, snije@
+@Flemming@|@Flaming@
+@Flemmish@|@Flaamsk@
+@flesh@|@fleis@
+@flexible@|@bûgber@
+@flight@|@flecht@
+@fling off@|@ôfsmite@
+@float@|@swimme@
+@flokke@|@curse, cuss@
+@flood@|@floed@
+@floor@|@ferdjipping, flier@
+@flour@|@moal@
+@flow@|@floeie, stream@
+@flower@|@blom@
+@flu@|@gryp@
+@fluff@|@dûns@
+@fluid@|@floeiber@
+@flute@|@fluit, fluite@
+@fly@|@mich@
+@foam@|@brûs, skom, skomje@
+@focus@|@brânpunt@
+@fog@|@damp, dize@
+@fold@|@fâldzje, fâldzjek fâld, skieppehok@
+@folder@|@jefte@
+@foliage@|@beamtegrien@
+@folk@|@folk@
+@folklore@|@folkloare@
+@follow@|@folgje@
+@followers@|@oanhing@
+@fondle@|@aaie, leafkje@
+@food@|@fiedsel@
+@fool@|@deadling, healwiis@
+@foolish@|@mâl@
+@foot@|@foet@
+@for@|@fanwegen, foar, mei't, meidat, om't, omdat, wylst@
+@for example@|@bygelyks@
+@for instance@|@bygelyks@
+@for sake@|@ferkeapber@
+@for sake of@|@fanwegen@
+@for the reason that@|@mei't, meidat, om't, omdat@
+@for the rest@|@fierders@
+@for..together@|@efterinoar, oan ien tried troch, oanien, oanienwei@
+@forbiding@|@om bang fan te wurden@
+@force@|@ferplichtsje, sterkens@
+@forecast@|@foarsizze@
+@forefather@|@foarfaar@
+@forehead@|@foarholle@
+@foreign@|@bûtenlânsk, frjemd, útlânsk@
+@foreign country@|@bûtenlân, útlân@
+@foreigner@|@bûtenlanner, frjemd, frjemdling, útlanner@
+@forest@|@bosk, wâld@
+@foretell@|@foarsizze@
+@forge@|@smeie@
+@forget@|@ferjitte@
+@forget-me-not@|@ferjit-my-net@
+@forgive@|@begnedigje, ferjaan@
+@fork@|@foarke@
+@formal@|@twang@
+@former@|@foarig@
+@forsake@|@ferlitte@
+@forswear@|@ôfswarre@
+@fortify@|@fersterkje@
+@fortunate@|@lokkich@
+@fortune@|@fertún@
+@forty@|@fjirtich@
+@foundation@|@boaiem@
+@fountain@|@welle@
+@fountain-pen@|@folpinne@
+@four@|@fjouwer@
+@fourteen@|@fjirtjin, fjrtjin@
+@fourteenth@|@fjirtjinde@
+@fourth@|@fjirde@
+@fowl@|@hin@
+@fox@|@foks, fos@
+@fraction@|@breuk@
+@fragile@|@brekber@
+@fragmentary@|@fragmintarysk@
+@France@|@Frankryk@
+@freedom@|@frijens, frijheid@
+@freeze@|@befrieze, frieze@
+@freezing cold@|@froast@
+@French@|@Frânsk@
+@Frenchman@|@Frânsman@
+@frequently@|@faak, faken, fakentiden, gauris, jamk@
+@fresh@|@farsk@
+@fresh water@|@farsk wetter@
+@freshen@|@oanboazje, oanhelje@
+@friday@|@freed@
+@friend@|@freon, freondinne, froen@
+@friendly@|@aardig, freonlik@
+@friendship@|@freonskip@
+@Friesland@|@Fryslân@
+@frieze@|@Fries@
+@fright@|@benaudens, eangst, eangstme@
+@frigthen@|@bang meitsje@
+@Frisian@|@Fries, Frysk@
+@frog@|@frosk, kikkert@
+@frogbit@|@duitblêd@
+@from@|@fan, sûnt, út@
+@frontier@|@grins@
+@frost@|@froast@
+@froth@|@brûs, skom, skomje@
+@fruit@|@frucht, fruit@
+@fry@|@briede@
+@fuel@|@branje@
+@full payment@|@ôfbetelling@
+@fun@|@aardichheid, fermeits, geniet, nju, nocht@
+@function@|@amt, funksje@
+@funeral@|@begraffenis, beïerdiging@
+@fungus@|@poddestoel@
+@funk@|@leffert@
+@funny@|@fermaaklik, komysk@
+@furnish@|@leverje@
+@furniture@|@húsrie@
+@furrow@|@fâld@
+@futile@|@idel@
+@future@|@oankommend@
+@fuzzy@|@damp, dampich, dizich@
+@fykje@|@cut@
+@fyts@|@cycle@
+@gag@|@aardichheid, grapke@
+@gain@|@baat, fertsjinje, fertsjinst, oanhelje, oanwinst@
+@gall@|@galle@
+@gallop@|@fjouwerje@
+@game@|@boartsjen@
+@gaol@|@finzenis@
+@gape@|@gapje@
+@garage@|@garaazje@
+@garbage can@|@jiskefet@
+@garden@|@tún@
+@gardener@|@túnman@
+@garlic@|@knyflok@
+@garment@|@kleed@
+@gas@|@gas@
+@gasoline@|@benzine@
+@gate@|@poarte@
+@gateway@|@poarte@
+@gather@|@gearkomme, sammelje@
+@gathering@|@gearkomste@
+@gaunt@|@drôf, ferdrietlik, meager, tin@
+@gawk@|@gapje@
+@gay@|@homofyl@
+@gazette@|@krante@
+@gek@|@cross@
+@gem@|@edelstien, fonkelstien, juwiel@
+@genealogy@|@sibbekunde@
+@general@|@algemien, generaal, mien@
+@generality@|@algemienens@
+@generally@|@oer 't generaal@
+@genêze@|@cure@
+@gentle@|@mjitsk, myld, swiet@
+@gentleman@|@hear, mynhear@
+@genuine@|@autentyk@
+@geographic@|@geografysk@
+@geographical@|@geografysk@
+@geography@|@ierdrykskunde@
+@gerdyn@|@curtain@
+@German@|@Dútser, Dútsk@
+@Germany@|@Dútslân@
+@gesture@|@gebeart@
+@get@|@arrivearje, oankomme, oanlânje, ûntfange, wurde@
+@get (1)@|@krije, nimme, oanriede, oantuge@
+@get cold@|@kuolje, ôfkuolje@
+@get married@|@boaskje@
+@get mouldy@|@skimmelje@
+@get off@|@delgean, ôfrinne, ôfstappe@
+@get out of a habit@|@ôfleare, ôfwenne@
+@get rid of@|@ôfskaffe, ôfsmite, ôftankje@
+@get up@|@stige@
+@get used@|@wenne@
+@gewoan@|@customary@
+@gewoante@|@custom@
+@gewykst@|@cunning@
+@ghastly@|@aaklik, ôfgryslik@
+@ghost@|@spoek@
+@gift@|@kado, skinking@
+@gigantic@|@gigantysk@
+@giraffe@|@sjiraffe@
+@girder@|@balke@
+@girdle@|@gurdle, mulbân@
+@girl@|@famke@
+@give@|@oanjaan, skinke@
+@give a ring@|@oanskilje@
+@give in@|@ôfstean@
+@give notice@|@advertearje, ferkundigje@
+@give pain to@|@fertriette@
+@give rise to@|@feroarsaakje@
+@give up@|@ôfstean@
+@give way@|@ôfstean@
+@glad@|@bliid@
+@gladness@|@blydskip, glês, glêzen@
+@glass@|@glês, glêzen@
+@glide@|@glide, gliere, glydzje@
+@globe@|@bol, ierdbol@
+@glory@|@gloarje@
+@gloss@|@ang@
+@glove@|@mof@
+@glow@|@gleonje@
+@glow with heat@|@gleonje@
+@glue@|@lym, lymje@
+@gnat@|@neef@
+@gnaw@|@kjiffe@
+@gnome@|@ierdmantsje@
+@go down@|@delgean, ôfrinne, ôfstappe@
+@go downhill@|@minder wurde, ôftakelje@
+@go for a walk@|@kuierje@
+@go off@|@minder wurde, ôftakelje@
+@go up@|@stige@
+@goal@|@doel@
+@goat@|@geit@
+@goblin@|@ierdmantsje@
+@god@|@god@
+@going down@|@efterútgong@
+@gold@|@goud@
+@goldfish@|@goudfisk@
+@good@|@goed@
+@good afternoon@|@goemiddei, middei@
+@good day@|@goendei@
+@good evening@|@goejûn@
+@Good Friday@|@Goedfreed@
+@good morning@|@goemoarn, moarn@
+@good news@|@goed nijs@
+@good night@|@goenacht, sliep lekker@
+@goodbye@|@farwol, oant sjen, oant sjen, ôfskie@
+@good-bye@|@ôfskie@
+@good-natured@|@aardig, freonlik@
+@goodness@|@goedens@
+@goose@|@goes@
+@gooseberry@|@krúsbei@
+@gospel@|@evangeelje@
+@gout@|@flearen@
+@govern@|@regearje@
+@government@|@regear@
+@grab@|@beetkrije, beetpakke@
+@grade@|@graad@
+@gradually@|@allinken, dwaandewei, njonkelytsen, stadichoan@
+@graduate@|@diplomearre@
+@grain@|@nôt, nöt@
+@grain of sand@|@sânkerl@
+@gram@|@gram@
+@gramme@|@gram@
+@grandchild@|@beppesizzer, bernsbern@
+@grandfather@|@oarreheit, pake@
+@grandmother@|@beppe, oarremem@
+@grand-nephew@|@efterneef@
+@grandparent@|@pakkesizzer@
+@grandparents@|@pake en beppe@
+@granite@|@granyt@
+@grape@|@drúf@
+@grapevine@|@druvebeam@
+@graphic arts@|@grafyk@
+@graphics@|@grafyk@
+@grapple@|@fange@
+@grasp@|@beetkrije, beetpakke@
+@grass@|@gers, krûd@
+@grasshopper@|@sprinkhoanne@
+@grate@|@ôffreding@
+@gratitude@|@tank@
+@grave@|@grêf@
+@graveyard@|@tsjerkhôf@
+@gravity@|@swiertekrêft@
+@grease@|@fet@
+@greasy@|@fet@
+@great@|@grut@
+@Great Britain@|@Grut-Brittanje@
+@great-grandfather@|@oerbeppe@
+@great-grandmother@|@oerpake@
+@greatgrandson@|@efterbernsbern@
+@grebe@|@hjerringslynder@
+@Greece@|@Grikelân@
+@greefskip@|@county@
+@Greek@|@Gryk, Gryks@
+@green@|@grien@
+@greet@|@begroetsje, groetsje@
+@greve@|@count@
+@grey@|@grau, griis, skier@
+@grid@|@ôffreding@
+@grill@|@ôffreding@
+@grind@|@meale, mealle@
+@grinswacht@|@customs@
+@grip@|@beetkrije, beetpakke, gryp@
+@gripped@|@ynteressearre@
+@grisly@|@aaklik@
+@groan@|@kroane@
+@ground@|@boaiem, grûn, ierdzje, mêd, modder@
+@ground ivy@|@tongerblom@
+@ground wire@|@ierdlieding@
+@grounding@|@ierdlieding@
+@grounds@|@mêd@
+@grow@|@oangroeie, oanwaakse, waakse, wurde@
+@growth@|@groei, oanwaaks@
+@gruel@|@brij@
+@gruesome@|@in griis, ôfgryslik@
+@guarantee@|@garânsje@
+@guard@|@beweitser, beweitsje, kondukteur@
+@Guelderland@|@Gelderlân@
+@Guelders@|@Gelderlân@
+@guess@|@ergje, fermoedzje@
+@guest@|@gast@
+@guide@|@liede, oanstjoere@
+@guilder@|@gûne@
+@guile@|@mûklist@
+@guileless@|@sûnder euvelmoed@
+@guilt@|@skuld@
+@guiltless@|@ûnskuldich@
+@guilty@|@skuldich@
+@guinea-pig@|@bargemotsje@
+@guitless@|@ûnskuldich@
+@gulden@|@gûne@
+@gûle@|@cry@
+@gulf@|@djipte, ôfgrûn@
+@gum@|@toskfleis@
+@gun@|@gewear@
+@gunpowder@|@buskrûd, krûd@
+@gush@|@sproeie@
+@gusto@|@animo, belangstelling@
+@gymnastics@|@gymnastyk@
+@habit@|@brûkme, gewoante, oanwenst, wenst, wizânsje@
+@hackneyed@|@ôfseage@
+@haddock@|@skylfisk@
+@haggle@|@ôftingje@
+@hail@|@hagel@
+@hair@|@hier@
+@hairdresser@|@hierknipper@
+@hairpiece@|@prûk@
+@half@|@heal@
+@ham@|@skinke@
+@hammer@|@hammer@
+@hand@|@arbeider, arbeidersman, hân, oanlangje, oanrikke@
+@hand over@|@oanlangje, oanrikke, ôfdrage, ôfjaan@
+@hand(1)@|@ôfdrage, ôfjaan@
+@handicraft@|@ambacht@
+@handkerchief@|@bûsdoek@
+@handsome@|@moai@
+@hang down@|@ôfhingje@
+@hang onto@|@hâlde@
+@hangman@|@boal@
+@happen@|@foarfalle@
+@happiness@|@gelok@
+@happy@|@bliid, lokkich@
+@hard@|@huord, hurd@
+@hardly@|@amper, kwealik@
+@hard-worked@|@ôfseage@
+@hardworking@|@krigel, warber@
+@hare@|@hazze@
+@harm@|@ôfbrek@
+@harp@|@harpe@
+@harrow@|@eidzje@
+@harsh@|@bekjelûkerich@
+@harvest@|@rispinge, rispje@
+@hat@|@hoed@
+@hatch@|@skaadstreekje@
+@hate@|@haatsje, hate@
+@haul@|@tsjen@
+@haunt@|@spoekje@
+@have@|@ha, ha, krije, ûntfange@
+@have confidence in@|@fertrouwe@
+@have faith in@|@fertrouwe@
+@have got@|@ha@
+@hawk@|@hauk@
+@hay@|@hea@
+@hazard@|@noed, noedzje, risiko@
+@hazardous@|@noedlik@
+@hazel@|@hazzenutebeam@
+@hazelnut@|@hazzenút@
+@hazel-tree@|@hazzenutebeam@
+@he@|@er, hy@
+@he goes@|@hy giet@
+@he had@|@hy hie@
+@he has@|@hy hat@
+@he has been@|@hy hat west@
+@he have had@|@hy hat hân@
+@he is@|@hy is@
+@he was@|@hy wie@
+@he was going@|@hy is gien@
+@he went@|@hy gie@
+@he will be@|@hy sil wêze@
+@he will go@|@hy sil gean@
+@he will have@|@hy sil hawwe@
+@head@|@holle, kop, liede, oanstjoere@
+@header@|@rubryk@
+@heal@|@genêze@
+@health@|@sûnens@
+@healthy@|@sûn@
+@heap@|@skelf@
+@heart@|@hert@
+@heart-@|@hertlik@
+@hearty@|@hertlik@
+@heat@|@ferwaarmje, hjittens@
+@heating@|@ferwaarming@
+@heaven@|@himel, loft@
+@heavenly@|@himelsk@
+@heavenly body@|@himellichem@
+@heavy@|@swier@
+@Hebrew@|@hebrieusk, joad@
+@he-goat@|@bok@
+@heir@|@erfgenamt@
+@hello@|@goeie@
+@helmet@|@helm@
+@helper@|@assistint@
+@helpless@|@helpleas@
+@hemp@|@himp@
+@hen@|@hin@
+@her@|@syn@
+@herb@|@gers, krûd@
+@hereditary@|@erflik@
+@heredity@|@erflikens@
+@hermit@|@hearremyt@
+@hero@|@helt@
+@heroin@|@heldinne@
+@heroine@|@heldinne@
+@heron@|@ielreager, reager@
+@herring@|@hjerring@
+@herself@|@sels@
+@hesitate@|@skytskoarje, wifkje@
+@hesitation@|@wifkjen@
+@hiccup@|@hikje@
+@hide@|@ferbergje@
+@hideous@|@in griis, ôfgryslik@
+@high tide@|@floed@
+@hill@|@hichte@
+@him@|@er, hy@
+@himself@|@sels@
+@hind@|@wyfkehart@
+@hinny@|@mûlezel@
+@hip@|@heup, heupe@
+@hippo@|@nylhoars@
+@hippopotamus@|@nylhoars@
+@hire@|@hier, hiere@
+@his@|@syn@
+@history@|@skiednis@
+@hit@|@huffe, treffe@
+@hjoeddeisk@|@current (1)@
+@hoastje@|@cough@
+@hog@|@baarch, swyn@
+@hold@|@hâlde@
+@hold back@|@benefterhâlde, ôfhâlde@
+@hole@|@dobbe@
+@holiday@|@feestdei@
+@Holland@|@Hollân, Nederlân@
+@Hollander@|@Hollanner@
+@holy@|@hillich@
+@home@|@thús@
+@homosexual@|@homofyl@
+@honest@|@earlik@
+@honey@|@huning@
+@honor@|@eare, earje@
+@hook@|@hoek@
+@hooter@|@klakson@
+@hope@|@ferhoping@
+@horizon@|@gesichtsein, hoarizon, kim@
+@horn@|@hoarn, klakson@
+@hornet@|@brims@
+@horrible@|@aaklik, in griis, ôfgryslik, ûnhuer, ûnhuerich@
+@horror@|@grize, ôfgriis, ôfskrik@
+@horse@|@happe, hynder@
+@hospital@|@sikehûs@
+@hostel@|@herberch@
+@hostile@|@fijannich@
+@hot@|@hjit@
+@hotel@|@hotel@
+@hour@|@oere@
+@house@|@hûs@
+@house of worship@|@tsjerke@
+@housefly@|@mich@
+@housewife@|@húsfrou@
+@how@|@hoe't@
+@How are you?@|@Hoe giet it mei jo?@
+@How do you say this in Frisian@|@Wat is dit yn it Frysk?@
+@how many@|@hoefolle@
+@how much@|@hoefolle@
+@How much does this cost?@|@Wat kostet dit?@
+@How much is the fare?@|@Wat kostet in kaartsje?@
+@huge@|@gigantysk@
+@human@|@minsklik@
+@human being@|@minske@
+@human race@|@minskheid@
+@hump@|@buchel@
+@hundred thousand@|@hûnderttûzen@
+@hundredth@|@hûnderste@
+@hunger@|@honger@
+@hungry@|@hol, hongerich@
+@hunt@|@jeie@
+@hurt@|@blessearje@
+@husband@|@man@
+@hut@|@hutte, klinte@
+@hypocrite@|@huchelder@
+@hypocritical@|@hucheleftich@
+@I@|@ik@
+@I am@|@ik bin@
+@I begin@|@ik begjin@
+@I break@|@ik brek@
+@I buy@|@ik keapje@
+@I can@|@ik kin@
+@I come@|@ik kom@
+@I do@|@ik doch@
+@I don't understand@|@Ik begrip et ai, Ik begryp it net@
+@I feel@|@ik fiel@
+@I fight@|@ik fjochtsje@
+@I fly@|@ik fljoch@
+@I give@|@ik jou@
+@I go@|@ik gean@
+@I had@|@ik hie@
+@I hang@|@ik hingje@
+@I have@|@ik haw@
+@I have had@|@ik haw hân@
+@I hear@|@ik hear@
+@I laugh@|@ik laitsje@
+@I lay@|@ik lis@
+@I listen@|@ik harkje@
+@I llok for@|@ik sykje@
+@I make@|@ik meitsje@
+@I must@|@ik moat@
+@I play@|@ik boartsje@
+@I pull@|@ik loek/luts@
+@I put away@|@ik bergje@
+@I see@|@ik sjoch@
+@i sing@|@ik sjong@
+@I stand@|@ik stean@
+@I think@|@ik tink@
+@I touch@|@ik reitsje@
+@I understand@|@ik begryp@
+@I use@|@ik brûk@
+@I walk@|@ik rin@
+@I want@|@ik wol@
+@I was@|@ik wie@
+@I was going@|@ik bin gien@
+@I wash@|@ik waskje@
+@I went@|@ik gie@
+@I will@|@ik sil@
+@I will go@|@ik sil gean@
+@I wll have@|@ik sil hawwe@
+@I would like to buy@|@Ik wol graach@
+@ice@|@iis@
+@ice cream@|@iis@
+@Iceland@|@Iislân@
+@Icelander@|@Iislanner@
+@ideal@|@ideaal@
+@identical@|@identyk@
+@ideology@|@ideeêlear, ideeëlear, ideology@
+@idiom@|@taaleigen@
+@idiot@|@idioat@
+@idol@|@ôfgod@
+@idyll@|@idylle@
+@ierdewurk@|@crockery@
+@ierdoalje@|@crude oil@
+@if@|@as, bywannear't@
+@ignore@|@negearje@
+@Ihave been@|@ik haw west@
+@I'll buy it@|@dat nim ik@
+@illness@|@sykte@
+@illuminate@|@ferljochtsje@
+@illusion@|@yllúzje@
+@imagine@|@byld, ferbyldzje, figuer@
+@imless@|@doelleas@
+@immediately@|@aansen, aanst, aanstûns, dalik, daliks@
+@impel@|@oanfiterje, oantrune@
+@impel (1)@|@driuwe, oanwakkerje@
+@impetus@|@oandrang, oandrift, oandriuw, oanfitering, oantrún@
+@import@|@ymportearje, ynfiere@
+@important@|@aardich, danich@
+@imposter@|@bedrager@
+@impress@|@ymponearje@
+@imprint@|@ôfprintsel@
+@improve@|@ferbetterje@
+@impulse@|@oandrang, oandrift, oandriuw@
+@in@|@yn@
+@in a way@|@krekt as, oft@
+@in action@|@warber@
+@in all respects@|@oer alle boegen@
+@in cash@|@ree@
+@in every respect@|@oer alle boegen@
+@in every way@|@oer alle boegen@
+@in exchange for@|@tsjin@
+@in fact@|@feitlik, winliken@
+@in front of@|@foar@
+@in order to@|@foar@
+@in the beginning@|@te'n earsten, yn 'e earste opslach@
+@in the daytime@|@daagliks@
+@in the evening@|@jûns@
+@in the meantime@|@alfêst@
+@in what way@|@hoe't@
+@inborn@|@oanberne@
+@inbred@|@oanberne@
+@incite@|@oansjasje@
+@incitement@|@oanfitering, oantrún@
+@inclination@|@oanfjochting, oanstriid@
+@increase@|@fergrutsje, ferheegje, oanboazje, oanhelje@
+@incubate@|@briede@
+@indeed@|@feitlik, winliken@
+@index@|@oantsjutting, oanwizing@
+@Indian@|@yndiaan, Yndysk@
+@indicate@|@oantsjutte, oanwize@
+@indication@|@fiarsizzing, oantsjutting, oanwizing@
+@indictment@|@oanklacht@
+@indigenous@|@oarspronklik@
+@individual@|@yndividu, yndividueel@
+@inducement@|@oanlieding@
+@industrial@|@yndustrieel@
+@industry@|@yndustry@
+@inebriety@|@dronkenskip@
+@inexpensive@|@goedkeap@
+@infant@|@bern@
+@infantry@|@ynfantery@
+@infect@|@oanstekke, ynfektearje@
+@infection@|@ynfeksje@
+@inference@|@konklúzje@
+@inflation@|@ynflaasje@
+@influence@|@beynfloeding, beynfloedzje, ynfloed@
+@influenza@|@gryp@
+@inform@|@oansizze@
+@infuse@|@ôftrekke@
+@infusion@|@ôftreksel@
+@inhabitant@|@bewenner@
+@inherit@|@erve@
+@inherritance@|@erfdiel@
+@initiate@|@oanstichtsje@
+@injure@|@skansearje@
+@injury@|@blessearring, blessuere, wûne@
+@ink@|@inket@
+@inkpot@|@inketpotsje@
+@ink-well@|@inketpotsje@
+@inn@|@herberch@
+@innate@|@oanberne@
+@innocent@|@ûnskuldich@
+@inoffensive@|@sûnder euvelmoed@
+@insane@|@dûm, dwylsinnich, sljochtsinnich@
+@insanity@|@dwylsin, dwylsinnigens, waansin@
+@insect@|@ynsekt@
+@inside@|@yn@
+@insidious@|@glûpsk@
+@insist@|@oandringe@
+@inspire@|@oanwakkereje@
+@instant@|@amerij@
+@instruction@|@oanwizing@
+@instructor@|@learaar@
+@instrument@|@ynstrumint@
+@insult@|@misledigje, rache@
+@insuordinate@|@dôfhûdich@
+@insurance@|@assurânsje, fersekering@
+@insure@|@fersekerje@
+@insurer@|@assuradeur, fersekeringsman@
+@intelligent@|@yntelligint@
+@intention@|@doel, foarnimmen@
+@inter@|@begrave, beïerdigje, te hôf bringe@
+@intercessor@|@advokaat@
+@interest@|@belangstelling, ynteresse@
+@interested@|@ynteressearre@
+@interesting@|@ynteressant@
+@interjection@|@útropwurd@
+@interment@|@begraffenis, beïerdiging@
+@intestine@|@term@
+@intestines@|@terms, yngewant@
+@into@|@yn@
+@intoxicate@|@dronken@
+@investigation@|@eksamen@
+@invitation@|@útnoeging@
+@invite@|@noadzje, noegje@
+@invite tenders for@|@útbesteegje, útbestelle@
+@invoice@|@fakturearje@
+@invoke@|@oanroppe@
+@iodine@|@joadium@
+@Ireland@|@Ierlân@
+@Irish@|@Iersk@
+@iron@|@izer, izeren, strykizer@
+@ironic@|@iroanysk@
+@irony@|@irony@
+@island@|@eilân@
+@isolated@|@allinnesteand, frijesteand@
+@isolation@|@iensumens, ôfsûndering@
+@Israelite@|@Israelyt@
+@issue@|@ôfkundigje, ôflêze@
+@itch@|@jûkje, jûkte@
+@its@|@syn@
+@itself@|@sels@
+@ivory@|@ivoar@
+@ivy@|@klimmerblêd@
+@Iwill be@|@ik sil wêze@
+@jade@|@ôfmêdzje@
+@jail@|@finzenis@
+@jam@|@sjem@
+@january@|@jannewaris@
+@Japanese@|@Japansk@
+@jargon@|@bargedútsk@
+@jay@|@houtekster@
+@jelly-fish@|@kwab@
+@jenny-ass@|@ezelinne@
+@jest@|@gekjeie@
+@jester@|@harlekijn@
+@Jew@|@joad@
+@jewel@|@edelstien, fonkelstien, juwiel@
+@Jewish@|@hebrieusk@
+@job@|@amt, arbeid, wurk@
+@jog@|@oanstjitte, oanstompe@
+@join@|@ferbine, ferienigje, gearbine, oanslute@
+@joining@|@oansluting@
+@joke@|@aardichheid, gekjeie, grapke@
+@journal@|@deiblêd, krante@
+@journalist@|@kranteman@
+@journey@|@reis@
+@joy@|@blydskip@
+@judge@|@oardielje, rjochter@
+@judgement@|@oardiel@
+@jug@|@bak, doaze, kanne@
+@juice@|@fruchtesop@
+@july@|@july@
+@July@|@haaimoanne@
+@jump@|@springe, sprong@
+@jump off@|@ôfspringe@
+@junction@|@oansluting@
+@june@|@juny, nuny@
+@June@|@simmermoanne@
+@june bug@|@maaituorre@
+@junior@|@oankommend@
+@just@|@aansen, aanst, aanstûns, dalik, daliks, just, niis@
+@just (1)@|@krektsa, niiskrekt, nyskes, strak@
+@just now@|@just, krektsa, niis, niiskrekt, nyskes, strak@
+@kamiel@|@kamiel@
+@keaper@|@customer@
+@keel@|@kyl@
+@keep@|@beweitsje, observearje, rêde@
+@keep back@|@benefterhâlde@
+@keep on@|@duorje@
+@keep one's hands off@|@ôfbliuwe@
+@keepsake@|@oantinken, oantins@
+@keppelje@|@couple@
+@kessen@|@cushion@
+@key@|@kaai@
+@kidney@|@nier@
+@kill@|@deadzje, deameitsje@
+@kilo@|@kilo@
+@kind@|@aardig, attint, freonlik@
+@kindle@|@oansette, opstekke@
+@king@|@dam, kening@
+@kingdom@|@keninkryk@
+@kiss@|@patsje, tút, tútsje@
+@kitchen@|@koken@
+@klant@|@customer@
+@klaxon@|@klakson@
+@knee@|@knibbel@
+@knife@|@mês@
+@knit@|@breidzje@
+@know@|@kenne, witte@
+@know how@|@witte@
+@ko@|@cow@
+@kosher@|@koasjer@
+@kredyt@|@credit@
+@kremaasje@|@cremation@
+@kremearje@|@cremate@
+@krie@|@crow@
+@krisis@|@crisis@
+@krityk@|@criticism@
+@kroanje@|@crown@
+@krookje@|@crocus@
+@krûpe@|@crawl, creep@
+@kultuer@|@culture@
+@labor agreement@|@arbeidsakkoart, arbeidskontrakt@
+@labor contract@|@arbeidsakkoart, arbeidskontrakt@
+@labor dispute@|@arbeidsskeel@
+@labor exchange@|@arbeidsburo@
+@labor market@|@arbeidsmerk@
+@laboratory@|@laboratoarium@
+@laborer@|@arbeider, arbeidersman@
+@labor-union@|@fakbûn, fakferiening@
+@labourer@|@arbeider, arbeidersman@
+@lack@|@brekme@
+@lad@|@boai, jonge@
+@ladder@|@ljedder@
+@laddie@|@boai, jonge@
+@lady@|@dam, frou, mefrou@
+@ladybug@|@ingeltsje@
+@laggard@|@neikommer@
+@lake@|@mar@
+@lamb@|@laam, lammefleis@
+@lame@|@mank@
+@lamp@|@lampe@
+@lance@|@spear@
+@land@|@grûn, ierde@
+@landing-stage@|@lisplak@
+@landscape@|@lânskip@
+@language@|@spreke, taal@
+@lantern@|@lantearne@
+@lapsed@|@útlibbe, útwikelse@
+@large@|@grud, grut@
+@lark@|@ljurk@
+@lass@|@famke@
+@last@|@duorje, einichst, foarig@
+@later@|@letter@
+@Latin@|@latyn@
+@laugh@|@laits, laitsje@
+@laughter@|@gelaak, gelaits, laitsjen@
+@law@|@wet@
+@lawn@|@gersfjild@
+@lawsuit@|@proses, rjochtsaak@
+@lawyer@|@advokaat@
+@lay@|@lizze@
+@lay down@|@lizze, pleatse, stelle@
+@lay hold of@|@nimme@
+@lay-by@|@parkearterrein@
+@layer@|@laach@
+@lazy@|@loai@
+@lead@|@lead, leaden, liede, oanstjoere@
+@leader@|@baas, haad, lieder, master@
+@leaf@|@bled@
+@leaflet@|@brosjuere@
+@league@|@ferbining@
+@lean@|@leune, meager, steune, tin@
+@leap@|@springe, sprong@
+@leap down@|@ôfspringe@
+@leap-year@|@skrikkeljier@
+@leargong@|@course@
+@learn@|@leare@
+@leather@|@leare, learen@
+@leave@|@ferlitte, ôffarre, ôfreizgje@
+@leave behind@|@benefterlitte@
+@leave out@|@weilitte@
+@leave out of account@|@negearje@
+@lector@|@lektor@
+@lecturer@|@lektor@
+@leek@|@knyflok@
+@leffens@|@cowardice@
+@leffert@|@coward@
+@left@|@lofter-, lofts@
+@leg@|@skonk@
+@legend@|@leginde@
+@legible@|@lêsber@
+@lemon@|@sitroen@
+@lend@|@liene@
+@length@|@lingte@
+@lengthen@|@ferlingje@
+@lesson@|@leksum@
+@let@|@ferhiere@
+@let know@|@oansizze@
+@let off@|@ôfsjitte@
+@letter@|@brief, letter, skriuwen@
+@letter (alphabet)@|@letter@
+@letter (mail)@|@brief@
+@letterbox@|@brievebus@
+@lettuce@|@kropslaad@
+@level@|@flak, gelyk, lyk, nivo@
+@lever@|@heffe@
+@librarian@|@bibletekaris@
+@library@|@bibleteek@
+@lie@|@leagen, lige, lizze@
+@lie encamped@|@kampearje@
+@liep@|@cunning@
+@life@|@leven, libben@
+@life-belt@|@rêdingsgurdle@
+@life-boat@|@reddingboat, reddingsboat@
+@lift@|@heffe, stige@
+@light@|@ferljochtsje, licht, ljocht, oansette, opstekke@
+@lighthing@|@ferljochting@
+@lighthouse@|@fjoertoer, ljochttoer@
+@like@|@as, hoe't@
+@like that@|@dus, sa, sadwaande@
+@likewise@|@ek@
+@lilac@|@nageltsjebeam@
+@lilk@|@cross@
+@lily@|@leelje@
+@lily-of-the-valley@|@maaieklokje@
+@lime@|@kalk@
+@lime-tree@|@linebeam@
+@limit@|@begrinzgje, grins@
+@linden-tree@|@linebeam@
+@line@|@line, rige@
+@lineage@|@komôf, oarsprong, ôfstamming, skaai@
+@linguistic@|@taalkundich@
+@link@|@keat@
+@lion@|@liuw@
+@lip@|@lippe@
+@liquid@|@floeiber, floeistof@
+@liquidate@|@deadzje, deameitsj, ferwiderje, ôfhannelje@
+@list@|@list@
+@listen@|@beharkje@
+@listen in@|@ôfharkje@
+@liter@|@mingel@
+@literature@|@literatuer@
+@little@|@lyts@
+@little by little@|@allinken, dwaandewei, njonkelytsen, stadichoan@
+@live@|@libje@
+@livestock@|@fee@
+@living-room@|@húskeamer, wenkeamer@
+@load@|@fracht@
+@loaf@|@bôle, brea@
+@loan@|@liene@
+@loathe@|@ferspuie@
+@location@|@plak, stee@
+@loch@|@mar@
+@lock@|@ôfskoattelje, skoattelje, slot@
+@locksmith@|@slotmakker@
+@locust@|@sprinkhoanne@
+@logic@|@logika@
+@logical@|@logysk@
+@long@|@lang@
+@look@|@achtenearje, achtsjen, aspekt, gesicht, oansjen@
+@look after@|@beweitsje@
+@look at@|@achtenearje, achtsje, besjen@
+@looking-glass@|@spegel@
+@lord@|@hear, mynhear@
+@lorry@|@frachtauto, frachtwein@
+@lose@|@ferlieze, ôfklaaie, weislepe@
+@lose flesh@|@ôfklaaie@
+@lose in weight@|@ôfklaaie@
+@lose one's way@|@ferdwale@
+@loss@|@ferlies@
+@loud@|@lûd@
+@louse@|@lúd, lûd, lús, lûs@
+@lovable@|@floatich@
+@love@|@djoerte, leafde, leavje@
+@lovely@|@aardich, bekoarlich, djoer, gefallich, leaf, moai@
+@lovely (1)@|@floatich@
+@low@|@leech@
+@low tide@|@ebbe@
+@lower@|@ôfslaan@
+@luck@|@gelok@
+@luggage@|@bagaazje@
+@lunacy@|@dwylsin, dwylsinnigens, waansin@
+@lunatic@|@healwiis@
+@lunch@|@middeisiten@
+@luxurious@|@lúksueus@
+@luxury@|@lúkse@
+@machine@|@masine@
+@mad@|@dûm, dwylsinnich, sljochtsinnich@
+@madam@|@frou, mefrou@
+@madness@|@dwylsin, dwylsinnigens, waansin@
+@magazine@|@krante@
+@magic@|@magy@
+@magical@|@magysk@
+@magician@|@tsjoender@
+@magnetic@|@magnetysk@
+@magpie@|@akke, akster@
+@maid@|@faam, keamerfaam@
+@mail@|@post@
+@mailbox@|@brievebus@
+@mainland@|@fêstelân, wrâlddiel@
+@major@|@majoar@
+@make@|@dwaen, oanmeitsje@
+@make a mistake@|@fersinne jin@
+@make a note@|@oantekenje@
+@make clean@|@suverje@
+@make fast@|@fêstdwaan@
+@make glad@|@ferbliidzje@
+@make use of@|@benutsje, brûke@
+@making@|@oanmeitsjen@
+@malicious@|@glûpsk@
+@man@|@man, minske@
+@manage@|@administrearje, beheare, de administraasje dwaan@
+@manage (1)@|@bestjoere, oanstjoere@
+@management@|@administraasje, behear@
+@manager@|@behearder, bestjoerder, direkteur@
+@manhaftich@|@courageous@
+@manifacture@|@oanmeitsjen@
+@mankind@|@minskheid@
+@manner@|@manear@
+@mannichte@|@crowd@
+@manufacture@|@fabrisearje, oanmeitsjen@
+@manure@|@dong@
+@manuscript@|@manuskript@
+@map@|@kaart, lânkaart, plattegrûn@
+@marble@|@moarmer, moarmeren@
+@march@|@maart, rinne@
+@March@|@foarjiersmoanne@
+@marguerite@|@margryt@
+@marigold@|@goudjesblom@
+@marijuana@|@mariûana@
+@mark@|@merk, ôfstimpelje@
+@mark out@|@ôfbeakenje@
+@market@|@merk@
+@marketplace@|@merk@
+@marmelade@|@sjem@
+@marriage@|@boask@
+@marry@|@boaskje@
+@marten@|@wezeling@
+@martyr@|@martelder@
+@marvel@|@fernuverje jin@
+@marvel at@|@fernuverje jin@
+@mashed potatoes@|@ierappelpomp, pomp@
+@mask@|@momkappe@
+@mason@|@mitselder@
+@mass@|@mannichte@
+@massage@|@massaazje@
+@massive@|@massyf@
+@mast@|@mêst@
+@master@|@master@
+@mat@|@matte@
+@match@|@lúsjefers, lúsjefersprikje@
+@mathematical@|@wiskundich@
+@matrimony@|@boask@
+@matter@|@affearen, fal, gefal, kwestje, oangelegenheid@
+@matter (1)@|@matearje@
+@mattress@|@matras@
+@mature@|@ryp@
+@maximum@|@maksimaal, maksimum@
+@may@|@blommemoanne, maaie@
+@maybe@|@faaks, miskien, mooglik, mûlk@
+@mayhap@|@faaks, miskien, mooglik, mûlk@
+@mayor@|@boargemaster@
+@meager@|@earmhertich, earmoedig, heukerich, meager, skiterich@
+@meal@|@moal@
+@mean@|@midden@
+@meaning@|@betsjutting, doel, foarnimmen@
+@meanwhile@|@alfêst@
+@measure@|@ôfmjitte@
+@measured@|@twang@
+@measurement@|@diminsje, ofmjitting, ôfmjitting@
+@meat@|@fleis@
+@medicine@|@doktersguod, medikamint, medisyn@
+@meet@|@gearkomme, oantreffe, ôfhelje, treffe@
+@meeting@|@gearkomste@
+@melody@|@meldij@
+@melt@|@teie@
+@melting@|@tei@
+@member@|@oanhinger@
+@memento@|@oantinken, oantins@
+@menace@|@bedriging, bedriigje, drige, drigemint@
+@mentaly deficient@|@efterlik@
+@menu@|@kaart@
+@mess@|@brij@
+@messenger@|@seinboade@
+@metalled@|@stiennen@
+@method@|@metoade@
+@methylated spirit@|@brânspiritus@
+@metropolis@|@haadstêd@
+@microphone@|@mikrofoan@
+@middle@|@midden@
+@middleclass citzen@|@boarger@
+@midget@|@dwerch@
+@midnight@|@midnacht@
+@midwife@|@ferloskundige, hoarnwiif@
+@mild@|@myld@
+@mile@|@mile@
+@milimetre@|@streep@
+@milion@|@miljoen@
+@milionth@|@miljoenste@
+@milk@|@molke@
+@miller@|@moolder, mûnder@
+@mind@|@observearje@
+@mine@|@myn@
+@miner@|@mynarbeider, mynwurker@
+@ministry@|@ministearje@
+@minute@|@minút@
+@mirror@|@spegel@
+@miscarry@|@fale, feile, mislearje@
+@miscellaneous@|@alderhanne@
+@mischievous@|@glûpsk@
+@misdied@|@crime@
+@misdiedich@|@criminal@
+@misdiediger@|@criminal@
+@misdriuw@|@crime@
+@miser@|@earn, frek, gjirrigert, izegryn, krintekakker@
+@miser (1)@|@nepert@
+@miserable@|@drôf, earm, earmoedich, ferdrietlik, heukerich@
+@miserable (1)@|@earmhertich, earmoedig, skiterich@
+@miserliness@|@deunens, gjirrigens@
+@miserly@|@earnich, gjirrich, taaimelk@
+@misery@|@earmoed@
+@Miss@|@frijster@
+@mist@|@damp, dize@
+@mistake@|@fersin, flater@
+@Mister@|@hear, mynhear@
+@mistletoe@|@mistel@
+@mistress@|@bazinne, masteresse@
+@misty@|@damp, dampich, dizich@
+@mite@|@myt@
+@mitten@|@mof@
+@moan@|@kroane@
+@moannen@|@months@
+@mobile@|@beweechlik, ferweechlik@
+@mode@|@manear@
+@model@|@skema@
+@moedich@|@courageous@
+@moist@|@damp@
+@mold@|@skimmel@
+@molecule@|@molekule@
+@moment@|@amerij@
+@monday@|@moandei@
+@money@|@jild, sinten@
+@monitor@|@ôfharkje@
+@monk@|@mûnts, muonts@
+@monkey@|@aap, ape@
+@monologue@|@allinnespraak@
+@monopoly@|@monopoalje@
+@monotonous@|@monotoan@
+@monster@|@meunster@
+@month@|@moanne@
+@months@|@moannen@
+@monument@|@monumint, tinkteken@
+@monumental@|@monumintaal@
+@moon@|@moanne@
+@more@|@mear@
+@moreover@|@fierders@
+@morning@|@moarn@
+@mortgage@|@hypoteek, hypteek@
+@mosaic@|@mozayk@
+@mosaic work@|@mozayk@
+@mosquito@|@muskyt@
+@moss@|@moas@
+@moth@|@mot@
+@mother@|@mem@
+@mother-in-law@|@skoanmem@
+@motive@|@motyf, oanlieding@
+@motor road@|@autodyk, grutte dyk@
+@motor tyre@|@autobân@
+@motor-boat@|@motorboat@
+@motor-launch@|@motorboat@
+@motorway@|@autodyk, grutte dyk@
+@motto@|@devys@
+@mould@|@skimmel@
+@mount@|@oanbringe, oanpasse, ôfstimme@
+@mountain@|@berch@
+@mountain chain@|@berchte@
+@mountain-ash@|@koetsebeibeam@
+@mountain-ash berry@|@koetsebei@
+@mountaineering@|@berchsport@
+@mouse@|@mûs@
+@mouth@|@mûle, mûn, útrin@
+@move@|@bewege, ferfarre, ferhúzje, ferplakke, ferwege@
+@move (1)@|@ferfarderij, ferhuzing@
+@moving@|@oandwaanlik@
+@Mrs.@|@frou, mefrou@
+@mud@|@blabber, drek, dridze, labze, modder@
+@mûklist@|@craft, craftiness, cunning@
+@mule@|@mûldier@
+@multiply@|@fermannichfâldigje@
+@multitude@|@mannichte@
+@mummy@|@mummy@
+@munition@|@ammunysje, munysje@
+@murder@|@fermoardzje, moard, moardzje@
+@murderer@|@moardner@
+@muscle@|@spier@
+@museum@|@museum@
+@mush@|@brij@
+@mushroom@|@poddestoel@
+@music@|@muzyk@
+@musician@|@muzikus, muzykman, spylman@
+@mussel@|@moksel@
+@mustard@|@moster@
+@mutton@|@skiepfleis@
+@my@|@myn@
+@mystic@|@mystyk@
+@mystical@|@mystyk@
+@myth@|@myte@
+@nail@|@neil, spiker, spikerje@
+@naked@|@bleat, neaken@
+@name@|@namme@
+@nameless@|@anonym, nammeleas@
+@nap@|@dodzje@
+@narcissus@|@titelroas@
+@narrate@|@ferhelje, fertelle@
+@narrative@|@ferhaal@
+@narrow@|@ing, nau, smel@
+@nasturtium@|@ljippetop@
+@nasty@|@aaklik, glûps, lilk, ûnhuer, ûnhuerich@
+@nation@|@folk, naasje@
+@national@|@nasjonaal@
+@nationality@|@nasjonaliteit@
+@native@|@oanberne, oarspronklik@
+@natural gas@|@ierdgas@
+@nature@|@aard, natuer, wêzen@
+@nausea@|@mier@
+@navel@|@nâle@
+@near@|@by, oankomme, takomme, tichteby@
+@near to@|@by@
+@nearby@|@by, neistlizzend, oankomme, takomme@
+@nearly@|@amperoan, benei, beneistenby, hast, omtrint@
+@nearly (1)@|@skraach, skraachwurk@
+@neck@|@hals@
+@needle@|@nuddel, nulle, spjelde@
+@needlewoman@|@skroar@
+@neef@|@cousin@
+@negative@|@negatyf@
+@neglect@|@efterútstelle, ferwaarloazje@
+@negligent@|@sleau@
+@Negro@|@neger@
+@neighbour@|@bourman, buorman@
+@neighbouring@|@neistlizzend@
+@neither@|@gjinien, nimmen, noch@
+@nekedness@|@neakenens@
+@nephew@|@muoikesizzer, omkesizzer@
+@nerve@|@senuw, sine@
+@nervous@|@senuweftich@
+@nest@|@nestelje@
+@net@|@net@
+@nettle@|@brannettel, broeier@
+@network@|@net@
+@never@|@nea@
+@new@|@nij@
+@New Year@|@nijjier@
+@news@|@nijs@
+@newspaper@|@deiblêd, krante@
+@next@|@efternei, efteroan, oankomme, takomme@
+@next to@|@by, nêst, njonken@
+@nibble@|@kjiffe@
+@nice@|@gefallich, goed@
+@nice to meet you@|@Yn't wolnimmen@
+@nicht@|@cousin@
+@niggard@|@earn, frek, gjirrigert, izegryn, krintekakker@
+@niggard (1)@|@nepert@
+@night@|@nacht@
+@night club@|@nachtklup@
+@night prayers@|@jûnbea@
+@night spot@|@nachtklup@
+@nightingale@|@geal@
+@nightmare@|@nachtmerje@
+@nine@|@njoggen@
+@nineteen@|@njoggentjin@
+@ninetieth@|@njoggende@
+@ninety@|@njoggentich@
+@nip@|@foaritentsje@
+@no@|@gjin, né, nee, neen, net@
+@no vaccancies@|@alles sit fol@
+@no!@|@nee!@
+@noble@|@nommel@
+@nobleman@|@edelman@
+@nobody@|@gjinien, nimmen@
+@nocturnal@|@nachtlik@
+@noise@|@lawaai, leven@
+@none@|@gjinien, nimmen@
+@non-skid@|@antislip-@
+@no-one@|@gjinien, nimmen@
+@nor@|@noch@
+@north@|@noarden@
+@North Sea@|@Noardsee@
+@northern@|@noardlik@
+@Norway@|@Noarwegen@
+@Norwegian@|@Noar, Noarsk@
+@nose@|@noas@
+@not@|@gjin, né, neen, net@
+@not at all@|@alderminst, perfoarst net@
+@note@|@biljet, noat, oantekening, oantekenje@
+@notebook@|@jefte, opskriuwboekje@
+@nothing@|@neat@
+@notice@|@advys, oanplakbiljet, rie@
+@notice-board@|@oanplakboerd@
+@notification@|@advys, rie@
+@notify@|@advisearje@
+@noun@|@haadwurd@
+@nourish@|@fiede@
+@nourishment@|@fiedsel@
+@novel@|@nij@
+@novelty@|@nijs@
+@november@|@novimber@
+@November@|@slachtmoanne@
+@now@|@hawar, no, no't, wolno@
+@now and then@|@altemets, út en troch@
+@nowhere@|@nearne@
+@nuclear@|@nukleêr@
+@nude@|@bleat, neaken@
+@nudge@|@oanstjitte, oanstompe@
+@nudity@|@neakenens@
+@number@|@nûmer, oantal, tal@
+@numberplate@|@nûmerboerd@
+@numeral@|@nûmer@
+@nurse@|@ferpleechster, ferpleegje@
+@nut@|@nuit, nút@
+@nuts@|@dûm, dwylsinnich, sljochtsinnich@
+@oak@|@iik, ikebeam, ikelbeam@
+@oanfarre@|@crash into@
+@oanriede@|@counsel@
+@oansjitsk@|@cuddlesome, cuddly@
+@oats@|@hjouwer@
+@obedient@|@hearrich@
+@objectionable@|@net goed te krijen, ôf te karren@
+@obliging@|@attint@
+@observation@|@kapsje@
+@observe@|@observearje@
+@obstetrician@|@ferloskundige, hoarnwiif@
+@obstruct@|@ôfslute@
+@obviously@|@blykber@
+@occasion@|@oanlieding@
+@occiput@|@efterholle@
+@occupation@|@ambacht, fak@
+@occupy@|@besette@
+@occur@|@foarfalle@
+@occurence@|@foarfal@
+@ocean@|@oseaan, see@
+@o'clock@|@oere@
+@october@|@oktober@
+@October@|@wynmoanne@
+@oculist@|@eachdokter@
+@odd@|@frjemd@
+@odor@|@lucht@
+@of@|@fan, sûnt@
+@of all sorts@|@alderhanne@
+@of fantasy@|@fantastysk@
+@of noble birth@|@aadlik@
+@of silk@|@siden@
+@of steal@|@stielen@
+@of the body@|@lichaamlik@
+@of the sun@|@sinnich@
+@of which@|@waans@
+@ôfbestelle@|@countermand@
+@ôfbroazelje@|@crumble, crumble away, crumble off@
+@ôfeart@|@cuttings@
+@ôffal@|@cuttings@
+@offence@|@oanstjit@
+@offend@|@misledigje, rache@
+@offer@|@oanbiede, oanbieding, oanbod, oansiik, ôfbyldzje@
+@offer of marriage@|@oansiik@
+@office@|@amt, kantoar@
+@officer@|@amtner, ofsier@
+@official@|@amtlik, amtner, offisjeel@
+@officialdom@|@burokrasy@
+@offset@|@distânsje, ôfstân@
+@offspring@|@ôfstammeling, telch@
+@ôfknippe@|@cut off@
+@ôfrosse@|@curry@
+@ôfsizze@|@countermand@
+@ôfsnije@|@cut off@
+@ôfstekke@|@cut off@
+@often@|@faak, faken, fakentiden, gauris, jamk@
+@oil@|@oalje@
+@okay@|@goed, ôfpraat, okee, sein@
+@old@|@âld@
+@old (not new)@|@âld@
+@old (not young)@|@jierrich@
+@old-fashined@|@âlderwetsk@
+@old-fashioned@|@âlderwetsk, âldfrinzich@
+@olive@|@oliif@
+@omen@|@fiarsizzing, foarteken@
+@omit@|@weilitte@
+@omnibus@|@buso@
+@omnipotent@|@almachtich@
+@omniscient@|@alwittend@
+@on@|@oer, op, yn@
+@on account of@|@fanwegen@
+@on end@|@efterinoar, oan ien tried troch, oanien, oanienwei@
+@on one's back@|@efteroer@
+@on that account@|@dêrom@
+@on the left@|@lofts@
+@on the other hand@|@oan 'e oare kant@
+@on the other side of@|@dwers@
+@on the right@|@rjochts@
+@on time@|@krekt@
+@once@|@ienkear@
+@once more@|@alwer@
+@one@|@ien, immen, men@
+@one and a half@|@oardeheal, oardel@
+@one another@|@inoar@
+@one half@|@de helte@
+@one hundred@|@hûndert@
+@one million@|@in miljoen@
+@one ticket to...please@|@mei ik wol in kaartsje nei...@
+@one time@|@ienkear@
+@one-fourth@|@in fjirde@
+@onerous@|@swier@
+@onion@|@sipel@
+@only@|@allinne@
+@only just@|@amper, kwealik@
+@op 't stuit fan betsjutting@|@current@
+@open@|@iepen, ticht@
+@opening@|@iepening@
+@operative@|@arbeider, arbeidersman@
+@ophtalmologist@|@eachdokter@
+@opine@|@achtenearje, achtsje, miene@
+@opinion@|@miening@
+@opportunity@|@foarfal@
+@opposed to@|@tsjin@
+@opposite@|@tsjin@
+@oppress@|@drukke@
+@or@|@of@
+@oral@|@mûnling@
+@orange@|@sinesappel@
+@order@|@befel, befelje, oanfreegje@
+@ordinasrily@|@gewoanlik@
+@organ@|@oargel@
+@Oriental@|@eastersk@
+@origin@|@komôf, oarsprong, skaai@
+@originate@|@ôfskaaie, ôfstamje@
+@orthodox@|@ortodoks, otterdoks@
+@ostrich@|@strúsfûgel@
+@other@|@oar, oars@
+@other than@|@bûten@
+@out@|@bûten@
+@out of@|@út@
+@out of date@|@âlderwetsk, âldfrinzich@
+@outside@|@bûten@
+@outside of@|@bûten@
+@outstanding@|@efterstallich@
+@oval@|@aairûn@
+@over@|@dien@
+@over there@|@dêr, dêre, er@
+@overall@|@alles omfiemjend, finaal, gâns, hiel, total@
+@overall (1)@|@gânsk, hielendal@
+@overdrive@|@ôfmêdzje@
+@overdue@|@efterstallich@
+@overlook@|@weilitte@
+@override@|@ôfmêdzje@
+@owing to@|@fanwegen@
+@owl@|@ûle@
+@own@|@besitte@
+@owner@|@eigner@
+@ox@|@okse@
+@oyster@|@oester@
+@pace@|@ôfpasse@
+@page@|@bledside, side@
+@pail@|@amer@
+@pain@|@pine@
+@painful@|@pynlik@
+@paint@|@ferve, fervje, ôfskilderje, skilderje@
+@painter@|@ferver, skilder@
+@painting@|@skilderij@
+@pair@|@pear, twatal@
+@pal@|@kammeraat@
+@Palm Sunday@|@Palmpeaske, Palmsnein@
+@pamphlet@|@brosjuere@
+@panic@|@panyk@
+@paper@|@akte, dokumint, papier@
+@paperback@|@brosjuere@
+@parachute@|@falskerm, parasjute@
+@parade@|@appel@
+@parafin-oil@|@petroalje@
+@paragraph@|@alinea, kêst@
+@paralyse@|@ferlamje@
+@paralysis@|@ferlamming@
+@parasite@|@parasyt@
+@pardon@|@ferjaan, ferjouwing@
+@parent@|@âlder@
+@parents@|@âlden@
+@parents-in-law@|@skoanâlden@
+@Paris@|@Parys@
+@parish@|@parochy@
+@park@|@parkeare@
+@parking@|@parkeare@
+@parking bay@|@parkearterrein@
+@parking garage@|@parkearterrein@
+@parking place@|@parkearterrein@
+@parliament@|@parlemint@
+@parrot@|@pappegaai@
+@parsley@|@sopgriente@
+@part@|@diel@
+@Parthian@|@diel@
+@participate@|@dielnimme@
+@particular@|@apart, beskaat, spesjaal@
+@partition@|@ôfskieding@
+@partridge@|@patriis@
+@party@|@oanhing@
+@party members@|@oanhing@
+@pass@|@oanjaan, oanlangje, oanrikke, ôfdrage, ôfjaan@
+@pass away@|@deagean, ferstjerre, stjerre@
+@passport@|@paspoart@
+@paste@|@daai@
+@pastor@|@dominy, pastoar@
+@pate@|@holle@
+@patent@|@oktroai, patint@
+@path@|@paad@
+@patience@|@ferduldigens@
+@patient@|@ferduldich, pasjint@
+@patriarch@|@aartsfader@
+@patron@|@begeunstiger@
+@pattern@|@skema@
+@pavement@|@gongpaad, stoepe@
+@paw@|@skonk@
+@pay@|@betelje@
+@pay attention to@|@achtslaan op@
+@pay off@|@ôflosse@
+@payment@|@beteljen, ôfbetelling@
+@pea@|@dopeart, eart@
+@peace@|@frede@
+@peaceful@|@fredich, freedsum@
+@peaceloving@|@freedsum@
+@peach@|@pjisk@
+@peacock@|@pau@
+@peal@|@skilje@
+@peanut@|@apenút@
+@pear@|@par@
+@pearl@|@pearel@
+@pear-tree@|@parrebeam@
+@peculiar@|@frjemd@
+@pedestrian@|@fuotgonger@
+@pedigree@|@sibbekunde@
+@peg@|@foaritentsje@
+@pelican@|@pilekaan@
+@pen@|@skieppehok@
+@pencil@|@poatlead@
+@peninsula@|@skiereilân@
+@penis@|@spultsje@
+@pen-knife@|@bûsmês, knyft@
+@penthouse@|@ôfdak@
+@people@|@folk@
+@pepper@|@piper@
+@per@|@foar, yn@
+@perchance@|@faaks, miskien, mooglik, mûlk@
+@perform@|@dwaen, ferskine, oanbiede, oanmeitsje, ôfbyldzje@
+@perfume@|@rûkersguod@
+@perhaps@|@faaks, miskien, mooglik, mûlk@
+@peril@|@gefaar@
+@periodical@|@krante@
+@perish@|@ferkomme@
+@permission@|@ferlof@
+@perplexed@|@ferbjustere@
+@persecute@|@efterneisitte, eftersitte@
+@Persian@|@Perzysk@
+@personality@|@aard, wêzen@
+@perspiration@|@swit@
+@petition@|@fersykskrift@
+@petitioner@|@adressant, beswierskriftskriuwer@
+@petrol@|@benzine@
+@petroleum@|@ierdoalje, petroalje@
+@phantom@|@spoek@
+@pharmaceutical@|@doktersguod, medikamint, medisyn@
+@pharmacy@|@apteek@
+@phase@|@faze@
+@philosophy@|@filosofy@
+@phonograph@|@grammofoan@
+@photograph@|@fotografearje@
+@photoprint@|@fotokopy@
+@physical@|@lichaamlik@
+@physician@|@dokter@
+@physics@|@natuerkunde, natuerwittenskip@
+@pick@|@ôfbrekke, ôfroppe, ôfskuorre@
+@pick out@|@ferkieze, kieze@
+@pick up@|@nimme, ôfhelje, sammelje@
+@picture@|@byld, figuer, skilderij@
+@picture postcard@|@printkaart@
+@piece@|@diel@
+@pier@|@lisplak@
+@pig@|@baarch, swyn@
+@pigeon@|@do@
+@pigeonhole@|@fak, fek@
+@piglet@|@bigge@
+@pigmy@|@dwerch, dwerch@
+@pile@|@skelf@
+@pilgrimage@|@pylger@
+@pilot@|@piloat@
+@pin@|@spjelde@
+@pine@|@din, dinnebeam@
+@pine-tree@|@din, dinnebeam@
+@pink@|@anjelier, anjer@
+@pioneer@|@baanbrekkend, paadsljochter@
+@pious@|@from@
+@pipe@|@buis, piip@
+@pirate@|@seerôver@
+@pistol@|@pistoal@
+@pit@|@dobbe@
+@pitch black@|@pikswart@
+@pitcher@|@kanne@
+@pity@|@begrutsjen, meilijen@
+@placard@|@oanplakbiljet, oanplakke@
+@place@|@lizze, oanbringe, oanpasse, ôfstimme, plak, stee@
+@place (1)@|@pleatse, stelle@
+@plain@|@dúdlik, flakte@
+@plaintain@|@weversblêd@
+@plan@|@doel, foarnimmen@
+@plane@|@fleanmasine, fleantúch, skaaf, skave@
+@planet@|@planeet@
+@plank@|@planke@
+@plant@|@oanplantsje, ploantjse@
+@plantation@|@oanplantsje@
+@plate@|@skaal@
+@platform@|@kaai, program@
+@plattelân@|@country, countryside@
+@platter@|@skaal@
+@plausible@|@leauwenswurdich, oannimlik@
+@playground@|@boartersplak@
+@plea@|@argumint@
+@pleasant@|@gefallich@
+@please@|@asjebleaft, noaskje, sinnigje@
+@please bring me the bill@|@Mei ik de rekken fan jo?@
+@pleased@|@tefreden@
+@pleasure@|@aardichheid, geniet, nju, nocht@
+@plough@|@ploege, ploegje, ploeie@
+@pluck@|@ôfbrekke, ôfroppe, ôfskuorre@
+@plug@|@bûzjy@
+@plug in@|@ferbine@
+@plum@|@prom@
+@plume@|@fear, pinne, plom@
+@plunder@|@rôve@
+@plunge@|@dûke@
+@pocket@|@bûse@
+@poem@|@fers@
+@poetry@|@poëzy@
+@poffe@|@count down@
+@point out@|@oantsjutte, oanwize@
+@poison@|@fergif, jefte@
+@poisonous@|@fergiftich@
+@Poland@|@Poalen@
+@pole@|@peal, poal, stange@
+@police@|@polysje@
+@police station@|@plysjeburo@
+@policeman@|@polysje, polysjeman@
+@police-station@|@polysjeburo@
+@policy@|@polityk@
+@politics@|@polityk@
+@polyp@|@polyp@
+@pond@|@fiver@
+@pool@|@oanslute@
+@poop@|@efterstjûne@
+@poopdeck@|@efterstjûne@
+@poor@|@earm, earmoedich, heukerich@
+@pope@|@paus@
+@poplar@|@popel, popelier@
+@poppy@|@klaproas@
+@population@|@befolking@
+@porcupine@|@stikelbaarch@
+@pork@|@bargefleis, bargeguod@
+@port side@|@bakboard@
+@portal@|@poarte, yngong@
+@portent@|@fiarsizzing, foarteken@
+@portfolio@|@aktetas@
+@pose@|@healwiizje, jin tjirgje@
+@positive@|@posityf@
+@possess@|@besitte@
+@possession@|@besit, besitting@
+@possibility@|@mooglikheid@
+@possible@|@mooglik, mûlk@
+@possibly@|@faaks, miskien, mooglik, mûlk@
+@post@|@amt, oanplakke, peal, post@
+@post office@|@postkantoar@
+@post up@|@oanplakke@
+@postage stamp@|@postsegel@
+@postcard@|@brievekaart, kaart@
+@poster@|@oanplakbiljet@
+@postman@|@postrinder@
+@postulate@|@easkje, fereaskje@
+@potato@|@ierappel, rjappel@
+@pottery@|@ierdewurk, stienguod@
+@poultry@|@fûgelt@
+@pour@|@eazje, jitte@
+@pour off@|@dreagje, ôfdreagie@
+@poverty@|@earmoed@
+@practical@|@praktysk@
+@practice@|@brûke, praktyk@
+@prawn@|@granaat@
+@prayer@|@bea, gebed@
+@precipice@|@djipte, ôfgrûn@
+@precise@|@krekt, presiis@
+@precursor@|@foargonger, foarteken@
+@pregnant@|@drachtich, swier@
+@prehistory@|@prehistoarje@
+@preposition@|@ferhâldingswurd@
+@presage@|@fiarsizzing, foarteken@
+@presence@|@bywêzen, bywêzichheid, oanwêzigens@
+@present@|@aktueel, kado, op 't stuit fan betsjutting@
+@present (1)@|@hjoeddeisk, oanbiede, ôfbyldzje, skinking@
+@present (2)@|@bywêzich, oanwêzig@
+@present with@|@oanbiede@
+@presentation@|@oanbieding@
+@present-day@|@aktueel, hjoeddeisk, op 't stuit fan betsjutting@
+@presentiment@|@foarfielen@
+@president@|@foarsitter, presidint@
+@press@|@drukke@
+@pressure@|@druk@
+@presume@|@ergje, fermoedzje@
+@pretend@|@beare@
+@pretty@|@skoan@
+@previous@|@foarig@
+@previous to@|@ear't, foar't@
+@prey@|@proai@
+@price@|@priis@
+@pricey@|@djoer@
+@pride@|@batskens, grutskens, ynfierenheid@
+@priest@|@pastoar, preester@
+@primeval forest@|@oerwâld@
+@primitive@|@primityf@
+@primrose@|@peaskeblom@
+@princess@|@prinsesse@
+@principle@|@prinsipe@
+@print@|@ôfprintsel, ôfprintsje, printsje@
+@printer@|@printer@
+@prior@|@foarig@
+@prison@|@finzenis@
+@prisoner@|@finzene@
+@process@|@proses@
+@proclaim@|@ôfkundigje, ôflêze@
+@proclamation@|@deklaraasje, ôfkundiging@
+@procure@|@oanriede, oantuge@
+@produce@|@ferwêzenlikje, opsmite, produsearje@
+@profess@|@bekenne, bychtsje@
+@profession@|@berop@
+@profit@|@baat, fertsjinst@
+@profound@|@djip@
+@programme@|@program@
+@progress@|@ferbettering@
+@prompt@|@krekt@
+@pronounciation@|@útspraak@
+@proof@|@bewiis@
+@prop@|@lining@
+@property@|@alloai, boerepleats, boupleats, eigenskip, pleats@
+@property (1)@|@besit, besitting, slach@
+@prophesy@|@foarsizze@
+@prophet@|@profet@
+@proposal@|@oansiik@
+@prosecute@|@efterneisitte, eftersitte@
+@protect@|@beskermje@
+@protect from@|@ôfwarre@
+@protection@|@beskerming@
+@protégé@|@beskermeling@
+@protein@|@aaiwyt@
+@proud@|@batsk, grutsk, ynfieren@
+@prove@|@bewize, oantoane@
+@provided that@|@bywannear't@
+@province@|@provinsje@
+@provincial@|@provinsjaal@
+@provoke@|@oansjasje@
+@provost@|@boargemaster@
+@psalm@|@psalm@
+@psychic@|@psychysk@
+@public@|@iepenbier, publyk@
+@publication@|@ôfkundiging@
+@publish@|@bekendmeitsje, publisearje@
+@publisher@|@útjouwer, útjouwerij@
+@publishing house@|@útjouwerij@
+@pull@|@tsjen@
+@pulpit@|@buordsje@
+@pulverize@|@mealle@
+@pump@|@pomp, pompe@
+@punctual@|@krekt@
+@punish@|@bestraffe, straffe@
+@puppet@|@pop, poppe@
+@purchase@|@keap, oanhannelje, oankeapje, oanriede, oantuge@
+@purchaser@|@keaper, klant@
+@pure@|@suwer@
+@purge@|@suverje@
+@purple@|@pears@
+@purpose@|@doel@
+@pursue@|@efterneisitte, eftersitte@
+@push@|@dúst, dúste, oanfiere, oantriuwe, stjitte, triuwe@
+@push (1)@|@stjit, triuw@
+@put@|@lizze, pleatse, stelle@
+@put down@|@lizze, pleatse, stelle@
+@put off@|@ôfdwaan, ôfkonfoaie, ôflizze, ôfsette, ôfskypje@
+@put on@|@aktivearje, oandwaan@
+@put on airs@|@healwiizje, jin tjirgje@
+@put on weight@|@oanhelje, oanwinne@
+@put out@|@dôvje, dwêste@
+@put out to tender@|@útbesteegje, útbestelle@
+@put up@|@oanbringe, oanpasse, ôfstimme@
+@put up with@|@lijen@
+@putrefy@|@ferrotsje, rotsje@
+@puzzle@|@riedling@
+@pyjamas@|@piama@
+@quadrangle@|@fjouwerhoeke@
+@quality@|@alloai, eigenskip, slach@
+@quarrel@|@rûzje@
+@quash@|@ferneatigje, ferniele@
+@quay@|@kaai@
+@queen@|@dan, keninginne@
+@question@|@fraach@
+@questionable@|@fetber foar krityk@
+@quick@|@fluch@
+@quiet@|@stil@
+@quit@|@ferlitte, ôfgean@
+@quite@|@bjuster, bot, fleande, gâns, genôch, rju, tige@
+@quite (1)@|@ûnhuerich@
+@quiver@|@beve, ridel@
+@quivering@|@ridel@
+@quotation@|@oanhaal, sitaat@
+@quotation marks@|@oanheltekens@
+@quote@|@oanhelje, sitearje@
+@quotes@|@oanheltekens@
+@rabbit@|@knyn@
+@rabies@|@dûmens@
+@race@|@skaai@
+@radio@|@radio@
+@radish@|@radys@
+@rail in/off@|@ôffreedzje@
+@railroad@|@spoarwei@
+@railway@|@spoarwei@
+@railway carriage@|@spoarwein@
+@rain@|@rein@
+@rain cats and dogs@|@eazje@
+@rainbow@|@reinbôge@
+@raincoat@|@reinjas@
+@raise@|@ferheegje, heffe@
+@rake@|@klauje@
+@ranch@|@boerepleats, boupleats, pleats@
+@rank@|@rige@
+@ransom@|@ôfkeapje, ôfkeapsom@
+@rapid@|@fluch@
+@rare@|@seldsum@
+@raspberry@|@framboas@
+@rat@|@rôt@
+@rather@|@genôch, snjitsje@
+@raven@|@raven@
+@ravine@|@ravyn@
+@ray@|@streek, striel, stripe@
+@razor@|@skearmes@
+@read@|@lêze, ôflêze@
+@read out@|@ôflêze@
+@reade bei@|@currant@
+@ready@|@dien, ree@
+@real@|@feitlik@
+@reality@|@wierheid@
+@realize@|@begripe, ferstean@
+@rear@|@efterhoede, efterkant@
+@rear-exit@|@efterútgong@
+@rearguard@|@efterhoede@
+@rear-lamp@|@efterljocht@
+@rear-light@|@efterljocht@
+@reason@|@motyf, oarsaak, reden@
+@rebate@|@ôfslaan@
+@rebound@|@ôfstuitsje@
+@rebuke@|@ferwite, lekje, ôfkarre@
+@receipt@|@kwitânsje@
+@receive@|@krije, oanfurdigje, oannimme, ûntfange@
+@recent@|@farsk@
+@recline@|@lizze@
+@recognize@|@erkenne@
+@recommend@|@oanbefelje, oanpriizgje, oanrikkemandearje@
+@recommendable@|@it oanrikkemandearjen wurdig@
+@recommendation@|@oanbefelling@
+@record@|@registrearje, rekord, skiif@
+@record-player@|@grammofoan@
+@recover@|@genêze@
+@recruit@|@oanbringe, rekrút@
+@red@|@read@
+@red currant@|@reade bei, strinkjebei@
+@red herring@|@bokken@
+@redeem@|@ôfkeapje, ôflosse@
+@redemption@|@ôflossing, ôfskriuwing@
+@redemption money@|@ôfkeapsom@
+@reduce the price@|@ôfslaan@
+@reek@|@stjonke@
+@reflection@|@ôfspegeling@
+@refuse@|@ôfeart, ôffal, ôfkitse, ôfwize, wegerje@
+@regal@|@keninklik@
+@regard@|@achtenearje, achtsje, besjen@
+@region@|@gea, gebiet, hoek, kontrei, lânsdouwe@
+@register@|@oanbefelje, oanpriizgje, oanpriizje, registrearje@
+@registered letter@|@oantekene brief@
+@regret@|@spyt@
+@regrettably@|@faak, faken, fakentiden, gauris, jamk@
+@regulation@|@regel@
+@reject@|@ôfkitse, ôfslaan, ôfstegerje, ôfstimme, ôfwize@
+@reject (1)@|@wegerje@
+@rejection@|@blauke, ôfstegering, ôfwizing@
+@rekkenje@|@count (1)@
+@relate@|@ferhelje, fertelle, oanbelangje@
+@related@|@besibbe@
+@relation@|@ferhâlding@
+@relations@|@sibben@
+@relationship@|@sibskip@
+@relative@|@betreklik, sibbe@
+@relatives@|@sibben@
+@release@|@befrije, ferlosse, frijlitte@
+@religion@|@godstjinst, godstsjinst, leauwe, religy@
+@relinquish@|@jin ôfsette fan, ôfstean@
+@remain@|@benefterbliuwe@
+@remainder@|@ôfeart, ôffal@
+@remark@|@kapsje@
+@remedy@|@genêze@
+@remit@|@annulearje, ôfsizze, skrasse@
+@remote@|@apart, beskaat, efterôf, ienlik, iensum, ôfhandich@
+@remote (1)@|@efterôf, fier@
+@removal@|@ferfarderij, ferhuzing@
+@remove@|@ôfskaffe, ôftankje@
+@remove the cloth@|@ôfrêde@
+@rendezvous@|@ôfspraak@
+@renounce@|@jin ôfsette fan, ôfswarre@
+@renown@|@faam, gloarje@
+@rent@|@hier@
+@rent out@|@ferhiere@
+@rental@|@hier@
+@renter@|@hierder@
+@renunciation@|@ôfswarren@
+@repair@|@ferhelpe, reparearje@
+@replacement@|@oanfolling, ôflossing@
+@replenishment@|@oanfolling@
+@replete@|@oerfol@
+@reply@|@anderje, andert, antwurd, antwurdzje, beskie@
+@report@|@oanbringe@
+@repose@|@rêst@
+@represent@|@fertsjinwurdigje, ôfbyldzje@
+@representation@|@figuer@
+@representative@|@deputearre, fertsjinwurdiger, ôffeardige, ôffurdige@
+@reproach@|@ferwite, ferwyt@
+@reprove@|@ferwite@
+@republic@|@republyk@
+@repute@|@faam@
+@request@|@fersyk, fersykje@
+@require@|@easkje, fereaskje@
+@rescue@|@rêde@
+@reservation@|@reservearring@
+@reserve@|@oanfreegje@
+@residence@|@went, wente@
+@resign@|@ôfgean@
+@respectable@|@achtber, eabel@
+@respiration@|@sykheljen@
+@respond@|@anderje, antwurdzje@
+@responsibility@|@oanspraaklikheid@
+@responsible@|@ferantwurdlik@
+@rest@|@ôfeart, ôffal@
+@restaurant@|@restaurant@
+@restrain@|@regearje@
+@restrict@|@begrinzgje@
+@restrooms@|@húskes@
+@result@|@ôfrin, ôfskaaie, ôfstamje@
+@resumé@|@gearfetting@
+@retain@|@ôfhâlde@
+@retarded@|@efterlik@
+@retreat@|@ôftocht@
+@reveal@|@bekendmeitsje, publisearje@
+@revenge@|@wrek@
+@reverse@|@earsling, efterkant@
+@reverse side@|@efterkant@
+@reversed@|@earsling@
+@revolution@|@revolúsje@
+@reward@|@beleanje, beleanning, leanje@
+@rhino@|@noashoarn@
+@rhinoceros@|@noashoarn@
+@rhythmic@|@ritmysk@
+@rice@|@rys@
+@rich@|@ryk@
+@rich man@|@rikeling@
+@rickety@|@útlibbe, útwikelse@
+@rid@|@ôfhelpe@
+@riddle@|@riedling@
+@rie@|@counsel@
+@riede@|@counsel@
+@riedjouwer@|@counsellor@
+@riejouwer@|@counsellor@
+@rifle@|@gewear@
+@right@|@rjochtút@
+@right away@|@aansen, aanst, aanstûns, dalik, daliks@
+@right now@|@aansen, aanst, aanstûns, dalik, daliks@
+@rigid@|@stiif@
+@ring@|@oanskilje, skilje@
+@ring the belt@|@oanskilje@
+@ripe@|@ryp@
+@rise@|@stige@
+@risk@|@noed, noedzje, risiko@
+@risky@|@noedlik@
+@river@|@rivier@
+@road@|@wei@
+@roam@|@doale, doarmje, dwale, swalkje, swerve@
+@roast@|@briede@
+@rob@|@rôve@
+@robber@|@rôver@
+@robin@|@readboarstke@
+@robust@|@gewûpst, hecht@
+@rock@|@rots@
+@rod@|@stange@
+@rodent@|@kjifdier@
+@rogue@|@skoelje, stjonkert@
+@roll@|@broadsje@
+@roll-call@|@appel@
+@roller@|@silinder@
+@Roman@|@Romeinsk@
+@romantic@|@romantysk@
+@roof@|@dak@
+@room@|@keamer@
+@root@|@woartel@
+@rope@|@tou@
+@rose@|@roas@
+@roster@|@hoanne@
+@rot@|@ferrotsje, rotsje@
+@rotten@|@ferrotte@
+@round@|@ôfrûnje@
+@round off@|@ôfrûnje@
+@rouse@|@oanfiterje, oanfjurje, oansjasje@
+@route@|@wei@
+@row@|@rige, roeie@
+@rowan@|@koetsebeibeam@
+@rowan berry@|@koetsebei@
+@row-boat@|@roeiboat@
+@rowing-boat@|@roeiboat@
+@royal@|@keninklik@
+@rub@|@wriuwe@
+@rudder@|@roer@
+@rude@|@bot@
+@rudiments@|@abee@
+@ruin@|@ferrinnewearje@
+@rule@|@regearje, regel@
+@rumor@|@faam, geroft@
+@rump@|@efterst, gat, poepert@
+@run@|@flecht, stilstâns@
+@run across@|@treffe@
+@run away@|@flechtsje@
+@run into@|@oanride@
+@rung@|@tree@
+@Russia@|@Ruslân@
+@Russian@|@Russysk@
+@rust@|@ferroastkje, roast, roastje, roastkje@
+@sack@|@dien jaan, sek@
+@sacred@|@hillich@
+@sad@|@drôf, ferdrietlik@
+@saddle@|@seal@
+@sadness@|@fertriet, hertsear@
+@safe@|@feilich@
+@safety@|@feiligens@
+@safety-belt@|@rêdingsgurdle@
+@safety-pin@|@feilichheidsspjelde@
+@sagacious@|@yntelligint@
+@sail@|@ôffarre, seil, sile@
+@sailor@|@seeman, skipper@
+@saint@|@hillige@
+@Saint John's-wort@|@sintjanskrûd@
+@Saint Nicholas@|@Sinteklaas@
+@salad@|@slaad@
+@salary@|@fertsjinst, gaazje, lean@
+@sale@|@ferkeap, ferkeaping, ôfset, ôftrek, sleet@
+@sales activity@|@merk@
+@salesman@|@ferkeaper@
+@saleswoman@|@ferkeapster@
+@saliva@|@flibe, spui@
+@salmon@|@salm@
+@salt@|@sâlt@
+@salty@|@sâlt@
+@salute@|@begroetsje, groetsje@
+@salvage@|@sparjild@
+@salvage money@|@sparjild@
+@Salvation Army@|@Heilsleger@
+@sample@|@meunster, staal@
+@sand@|@sân@
+@sarcastic@|@sarkastysk@
+@Sassenach@|@Ingelsman@
+@satellite@|@satellyt@
+@satisfied@|@tefreden@
+@saturday@|@sneon@
+@sausage@|@woarst@
+@savage@|@wyld@
+@save@|@rêde@
+@saw@|@seage, seagje@
+@Saxon@|@Saks, Saksysk@
+@say@|@sizze@
+@scale@|@bekladderje, bekliuwe, skob@
+@scandal@|@kwealaster, oanstjit, rabberij, skandaal@
+@Scandinavian@|@Skandinavysk@
+@scar@|@groede@
+@scarcely@|@amper, kwealik@
+@scare@|@ôfskrikke@
+@scatter@|@jitte@
+@scenery@|@lânskip@
+@scent@|@lucht@
+@scheme@|@skema@
+@school@|@skoalle@
+@school of motoring@|@autorydskoalle@
+@science@|@wittenskip@
+@scientific@|@wittenskiplik@
+@scissors@|@skjirre@
+@scold@|@ferwite, oanmoanje@
+@scooter@|@autopet, rinfytske@
+@scorpion@|@skorpioen@
+@Scot@|@Skot@
+@Scotland@|@Skotlân@
+@Scotsman@|@Skot@
+@Scottish@|@Skotsk@
+@scourge@|@pleach@
+@scratch@|@skram@
+@scream@|@skreauwe@
+@screen@|@skerm@
+@screw@|@skroef, skroeve@
+@screwdriver@|@skroevedraaier@
+@script@|@skrift@
+@scrupulous@|@skrutel@
+@scuffle@|@fjochtsjen, striid@
+@sculptor@|@byldhouwer@
+@sea@|@see@
+@sea-dog@|@robbe, seehûn@
+@seagull@|@kob, kobbe, miuw, seefûgel@
+@seal@|@robbe, seehûn@
+@seamstress@|@skroar@
+@seasickness@|@seesykte@
+@season@|@jiertiid@
+@seaweed@|@seewier@
+@secluded@|@allinnesteand, frijesteand@
+@second@|@sekonde, twadde@
+@secound cousin@|@efterneef@
+@secret@|@geheim@
+@secretary@|@skriuwer, skriuwster@
+@secrete@|@drage@
+@section@|@baanfek, fak, fek, ôfdieling@
+@secure@|@feilich, fêstdwaan@
+@security@|@feiligens@
+@see@|@besykje, oantreffe, sjen, treffe@
+@seed@|@sied@
+@seem@|@skine@
+@seize@|@beetkrije, beetpakke@
+@seldom@|@komselden@
+@self@|@sels@
+@self-conscious@|@ferlegen@
+@selfinterest@|@eigenik@
+@self-interested@|@eigenikkich@
+@selfish@|@eigenikkich@
+@selfless@|@oanhanklik, oanhinklik@
+@sell@|@ferkeapje@
+@send about his business@|@ôfkonfoaie, ôfskypje@
+@send off@|@ôfstjoere@
+@sender@|@ôfstjoerder@
+@sensation@|@fielen, gefoel@
+@sense@|@fiele@
+@sentence@|@feroardielje, sin@
+@separate@|@apart, beskaat, diele, ôfskiede, ôfsûnderje@
+@separate (1)@|@ferdiele, ferpartsje, partsje@
+@separation@|@iensumens, ôfskieding, ôfsûndering@
+@september@|@septimber@
+@September@|@hjerstmaonne, hjerstmoanne@
+@sergeant@|@sersjant@
+@series@|@searje@
+@serious@|@aardich, danich, earnstich@
+@servant@|@betsjinder, faam, feint@
+@serve@|@tsjinje@
+@service@|@tsjinst@
+@set@|@searje@
+@set out@|@ôfreizgje@
+@set straight@|@teloarstelle@
+@settle@|@ferswakje, ôfhannelje, ôfrekkenje, rekkenje@
+@settlement@|@koloanje, ôfrekken@
+@seven@|@sân@
+@seventeen@|@santjin@
+@seventeenth@|@santjinde@
+@seventh@|@sande, sânde@
+@seventy@|@santich@
+@several times@|@bytiden@
+@severe@|@string@
+@sew@|@naaie, nuddelje@
+@sewer@|@rioel@
+@sex@|@geslacht, slachte@
+@shack@|@hutte, klinte, skuorre@
+@shade@|@skaad, skaadstreekje@
+@shadow@|@skaad@
+@shaft@|@as@
+@shallow@|@ûndjip@
+@shame@|@skamte@
+@shampoo@|@sjampo@
+@shanty@|@skuorre@
+@share@|@diel, diele, ferdiele, ferpartsje, oandiel, partsje@
+@shareholder@|@oandielhâlder@
+@shark@|@haai@
+@sharp@|@skerp@
+@sharpness@|@skerpens, skerpte@
+@shawl@|@das@
+@sheaf@|@bondel, bosk@
+@she-ass@|@ezelinne@
+@shed@|@diske, jitte, kream, ôfdak, ôfsmite, skuorre@
+@sheen@|@ang@
+@sheep@|@skiep@
+@sheet@|@bled@
+@shell@|@skulp@
+@shepherd@|@harder, hoeder, skeper, skieppehoeder@
+@shield@|@skyld@
+@shine@|@skine@
+@ship@|@ôfstjoere, skip@
+@shirt@|@boesgroentsje@
+@shiver@|@beve@
+@shoe@|@skoech@
+@shoe-lace@|@fiter, skuonfiter@
+@shoemaker@|@skuonmakker@
+@shoo@|@driuwe@
+@shoot@|@sjitte@
+@shoot dead@|@deasjitte@
+@shoot off@|@ôfsjitte@
+@shop@|@winkel, winkel, winkelje@
+@short@|@koart@
+@shortage@|@brekme@
+@shortcoming@|@brekme@
+@shorten@|@bekoartsje, ferkoartsje@
+@shorthand@|@koartskrift, stenografy@
+@shoulder@|@skouder@
+@shout@|@skreau, skreauwe@
+@show@|@oantsjutte, oanwize, skouspul@
+@shower@|@brûs@
+@shrew@|@fekke, helheak, tange@
+@shrub@|@strûk@
+@shut@|@tichtdwaan@
+@shy@|@ferlegen@
+@shyness@|@ferlegenens@
+@siblings@|@bruorren@
+@side-branch@|@sydtûke@
+@side-issue@|@oanhingsel@
+@sidewalk@|@gongpaad, stoepe@
+@side-way@|@ôfslach, sydwei@
+@siege@|@belech@
+@sieve@|@souwe, tjems@
+@sift@|@souje@
+@sight@|@aspekt, gesicht, oansjen@
+@sightless person@|@bline@
+@sign@|@bewiis, fiarsizzing, foarteken@
+@signature@|@hantekening@
+@sign-board@|@skyld@
+@significant@|@betsjuttingsfol@
+@silinder@|@cylinder@
+@silk@|@side, siden@
+@silkworm@|@siderûp@
+@silver@|@sulver, sulveren@
+@simple@|@ienfâldich@
+@sin@|@sûnde@
+@since@|@fan, mei't, meidat, om't, omdat, sûnt, sûnt@
+@sinew@|@sine@
+@sing@|@sjonge@
+@singer@|@sjonger, sjongster@
+@singing@|@gesang, sang, sjongen@
+@singing-bird@|@sjongfûgel@
+@sink@|@sinke@
+@sir@|@hear, mynhear@
+@sister@|@suster@
+@sit@|@briede, sitte@
+@sit up@|@oanslykje@
+@sitting-room@|@húskeamer, wenkeamer@
+@six@|@seis@
+@sixteen@|@sechstjin, sechtjin@
+@sixth@|@sechste, seisde@
+@sixty@|@sechstich@
+@sizable@|@aardig, danich, grut@
+@skaal@|@course@
+@skeleton@|@biente, geramte@
+@skelton@|@biente, geramte@
+@skepsel@|@creature@
+@skierroek@|@crow@
+@skimpy@|@meager@
+@skin@|@fel, hûd@
+@skinflint@|@earn, frek, gjirrigert, izegryn, krintekakker@
+@skinflint (1)@|@nepert@
+@skinny@|@meager@
+@skirt@|@jûpe, jurk@
+@skoelje@|@crook@
+@skreau@|@cry@
+@skreauwe@|@cy out@
+@sky@|@himel, loft@
+@slander@|@berabje, kwealaster, rabberij, rabje@
+@slave@|@slavinne@
+@slay@|@deadzje, deameitsje@
+@sledge@|@belslide@
+@sleep@|@sliepe@
+@sleeve@|@mouwe@
+@sleigh@|@belslide@
+@slender@|@tin@
+@slice@|@fykje@
+@slip@|@glide, gliere, glydzje@
+@sljochtsinnich@|@crazy@
+@slogan@|@devys@
+@slope down@|@deldrage@
+@slow@|@stadich, traach@
+@slum@|@efterôfbuert@
+@slumber@|@dodzje@
+@slut@|@belle, slet@
+@sly@|@gewykst, liep@
+@small@|@lyts@
+@smart@|@gewykst, liep@
+@smell@|@lucht, stjonke@
+@smell bad@|@stjonke@
+@smile@|@glimkje@
+@smooth@|@flak, glêd@
+@smuggler@|@slûker@
+@snake@|@slang@
+@snal at@|@ôfgrauwe, ôfsnuterje@
+@snap at@|@ôfgrauwe, ôfsnuterje@
+@snare@|@mûklist@
+@snifter@|@foaritentsje@
+@snorter@|@foaritentsje@
+@snow@|@snie@
+@snowdrop@|@liderke, maarteblomke@
+@snub@|@ôfgrauwe, ôfsnuterje@
+@so@|@dus, sa, sadwaande@
+@so long@|@oant sjen@
+@so so@|@it giet, no@
+@soap@|@sjippe@
+@sobriquet@|@tanamme@
+@social@|@sosjaal@
+@socialism@|@sosjalisme@
+@society@|@fennoatskip, klup@
+@sociology@|@sosjology@
+@sock@|@fuotsok@
+@soft@|@mjitsk, sêft, swiet@
+@soil@|@grûn, ierde, modder@
+@soiled@|@fiis@
+@solair@|@sinnich@
+@sole@|@allinne, tonge@
+@sole agency@|@allinneferkeap@
+@sole agent@|@allinnefertsjinwurdiger@
+@sole sale@|@allinneferkeap@
+@solicitor@|@advokaat@
+@soliloquy@|@allinnespraak@
+@solitary@|@allinne@
+@somber@|@drôf, ferdrietlik@
+@some@|@ien, immen, in pear@
+@some one@|@ien, immen@
+@somebody@|@ien, immen@
+@someke@|@reek, rikje@
+@someone@|@ien, immen@
+@something@|@eat@
+@something new@|@nijs@
+@sometime@|@ea@
+@sometimes@|@bytiden@
+@somewhere@|@earne@
+@son@|@soan@
+@song@|@liet, sjongstik@
+@song-bird@|@sjongfûgel@
+@son-in-law@|@skoansoan@
+@soon@|@tel@
+@sorcerer@|@tsjoender@
+@sore@|@maachswolm@
+@sorrel@|@surk@
+@sorrow@|@fertriet, hertsear@
+@Sorry@|@Fertrüt me, Pardon@
+@soul@|@geast, siel@
+@sound@|@lûd@
+@sour@|@bekjelûkerich@
+@source@|@welle@
+@south@|@suden, súdlik@
+@South Africa@|@Súd-Afrika@
+@South African@|@Súdafrikaansk@
+@South America@|@Súd-Amearika@
+@South American@|@Súdamerikaansk@
+@South-East Asia@|@Súdeast-Azië@
+@southern@|@súdlik@
+@souvenir@|@oantinken, oantins@
+@sow@|@mot, siedzje, sûch@
+@spa@|@baaiplak@
+@spaceman@|@romtefarder@
+@Spaniard@|@Spanjoal@
+@Spanish@|@Spaansk@
+@spare time@|@fakânsje@
+@spark@|@fonk@
+@spark plug@|@bûzjy@
+@sparrow@|@mosk@
+@speak@|@prate, sprekke@
+@spear@|@spear@
+@special@|@apart, beskaat, spesjaal@
+@speciality@|@fak, fek@
+@specimen@|@meunster, staal@
+@spectacle@|@skouspul@
+@speech@|@paroal@
+@speed@|@faasje, feart@
+@speedwell@|@blaublomke@
+@speedy@|@fluch@
+@spell@|@staverje@
+@spend@|@oanjaan, oanlangje, oanrikke@
+@sphere@|@sfear@
+@spider@|@spin@
+@spiderweb@|@spinreach@
+@spill@|@bargje@
+@spinach@|@spinaazje@
+@spindle@|@as@
+@spine@|@rêchbonke@
+@spinster@|@frijster@
+@spirit@|@animo, belangstelling, geast@
+@split@|@spjalte, splite@
+@spoil@|@bedjerre, skansearje@
+@sponge@|@spûns@
+@sponger@|@parasyt@
+@spoon@|@leppel@
+@sport@|@sport@
+@spot@|@plak, stee@
+@spray gun@|@pistoal@
+@spread@|@ôflitte@
+@spring@|@fear, maaitiid, maitiid, springe, welle@
+@springtime@|@maaitiid, maitiid@
+@spruce@|@spjir, spjirrebeam@
+@spruce-fir@|@spjir, spjirrebeam@
+@spur on@|@oanfiterje, oanfjurje, oanhysje, oantrune@
+@spur on (1)@|@oantrúnje, oanwakkerje@
+@spurt@|@sproeie@
+@spurt out@|@sproeie@
+@spy@|@spionearje@
+@square@|@fjouwerkant, plein@
+@square out@|@ôfrekkenje, rekkenje@
+@squeeze@|@drukke@
+@squirrel@|@iikhoarn@
+@sriving-school@|@autorydskoalle@
+@stable@|@stabyl@
+@stack@|@skelf@
+@stage@|@faze, stasjon@
+@staid@|@earnstich@
+@stair@|@tree@
+@stake@|@peal@
+@stale@|@ôfseage@
+@stallion@|@hynst@
+@stamp@|@ôfstimpelje, postsegel@
+@stamps@|@postsegels@
+@stanchion@|@peal@
+@stand@|@diske, kream, stean@
+@stand up to@|@oandoare@
+@star@|@stjer@
+@starling@|@protter@
+@start@|@aktivearje, oangean, oanstichtsje, ôffarre@
+@start (1)@|@begjin, begjinne, oanbrekke, oanfange, oanpakke@
+@start off@|@starte@
+@starting point@|@oanknopingspunt@
+@startling@|@ferrassend@
+@state@|@beweare, steat@
+@statement of policy@|@program@
+@station@|@stasjon@
+@statue@|@stânbyld@
+@stature@|@byld@
+@stay@|@ferbliuw@
+@stay for@|@ôfwachtsje@
+@stay on@|@benefterbliuwe@
+@steak@|@byf@
+@steal@|@stielen@
+@steam@|@damp, steam@
+@steamship@|@steamboat@
+@steel@|@stiel@
+@steer@|@oanstjoere@
+@stenography@|@koartskrift, stenografy@
+@step@|@tree@
+@sterile@|@steryl@
+@stern@|@efterstjûne@
+@stichwort@|@erf@
+@stick@|@lymje@
+@stick to the pan@|@oanbaarne@
+@stienguod@|@crockery@
+@stiff@|@stiif, twang@
+@still@|@jit, noch@
+@stimulate@|@oanfiterje, oanfjurje, oanhysje, oansjasje@
+@stimulate (1)@|@oanhysje, oantrune, oantrúnje, oanwakkereje@
+@stimulus@|@oanfitering, oantrún@
+@sting@|@angel@
+@stingy@|@earnich, gjirrich, taaimelk@
+@stink@|@stjonke@
+@stir@|@animo, belangstelling@
+@stir up@|@oanfiterje, oanhysje, oansjasje, oanwakkereje@
+@stir up (1)@|@oanfjurje, oantrune, oantrúnje@
+@stjonkert@|@crook@
+@stocking@|@hoas@
+@stoke@|@ferwaarmje@
+@stomach@|@mage@
+@stone@|@aardzje, stien, stiennen@
+@stop@|@halt, ôfbrekke, stasjon@
+@store@|@winkel@
+@storey@|@ferdjipping@
+@stork@|@earrebarre@
+@storm@|@stoarm@
+@story@|@ferdjipping, ferhaal, skiednis@
+@straggler@|@neikommer@
+@straightforward@|@ienfâldich@
+@strain off@|@dreagje, ôfdreagje@
+@strait@|@see-ingte@
+@strange@|@frjemd@
+@stranger@|@frjemd, frjemdling@
+@strangle@|@wjirgje, wurgje@
+@straw@|@strie@
+@strawberry@|@ierdbei@
+@stray off@|@ôfdwale@
+@straying@|@ôfdwaling@
+@stream@|@current, stream, streamke@
+@strecher@|@brankaar@
+@street@|@strjitte@
+@strength@|@sterkens@
+@stress@|@aksint@
+@strict@|@string@
+@strike@|@huffe, stake, treffe, ymponearje@
+@string@|@sine, tou, triedzje@
+@strinkjebei@|@currant@
+@strip@|@streek, stripe@
+@stripe@|@streek, stripe@
+@stroke@|@aaie, leafkje@
+@stroll@|@kuierje@
+@stroller@|@kuierder@
+@strong@|@krêftich, sterk@
+@strong-box@|@brânkast@
+@structure@|@struktuer@
+@struggle@|@fjochtsje, fjochtsjen, striid@
+@student@|@studint@
+@study@|@bestudearje, studearje, stúdzje@
+@sturdy@|@gewûpst, hecht@
+@style@|@styl@
+@subject@|@tema@
+@subordinate@|@efterútstelle@
+@subscription@|@abonnemint@
+@subsequently@|@efternei, efteroan@
+@substantive@|@haadwurd@
+@substitution@|@ôflossing@
+@subway@|@metro@
+@subway station@|@metro stasjon@
+@succeed@|@slagje@
+@successor@|@ôfstammeling@
+@such@|@dus, sa, sadwaande@
+@such a@|@hoe't@
+@such as@|@as, hoe't@
+@suck@|@sûgje@
+@suffer@|@lijen@
+@sufficient@|@genôch@
+@sufficiently@|@genôch@
+@suffix@|@efterheaksel@
+@sugar@|@sûker@
+@sugar-cane@|@sûkerreid@
+@suggest@|@oantsjutte, oanwize@
+@sulphur@|@swevel@
+@summarize@|@gearfetsje@
+@summer@|@simmer@
+@summery@|@gearfetting@
+@sun@|@sinne, sinnich@
+@sun-@|@sinnich@
+@sunbeam@|@sinnestriel@
+@sunday@|@snein@
+@sunflower@|@sinneblom@
+@sun-glasses@|@sinnebril@
+@sunlight@|@sinneljocht@
+@sunrise@|@sinne-opgong@
+@sunset@|@sinne-ûndergong@
+@superficial@|@ûndjip@
+@supermarket@|@supermerk@
+@superstition@|@byleauwe@
+@superstitious@|@byleauwich@
+@supervise@|@kontrolearje@
+@supper@|@jûnmiel, jûnsiten@
+@supplement@|@oanfolling@
+@supply@|@leverje, oanfier@
+@support@|@lining, steune@
+@supporter@|@oanhinger@
+@supporters@|@oanhing@
+@suppose@|@ergje, fermoedzje@
+@supposition@|@fermoeden@
+@surface@|@oerflak@
+@surmise@|@ergje, fermoedzje@
+@surname@|@famyljenamme, fan@
+@surprise@|@benijing, ferbazing, ferheardens, ferraskje@
+@surprising@|@ferrassend@
+@suspect@|@fertinke@
+@suspicion@|@erch, erchtinken, fertinking@
+@suspicious@|@erchtinkend@
+@sustain@|@steune@
+@swallow@|@swel@
+@swan@|@swan@
+@swarm@|@swaarm, swarm@
+@swear@|@flokke, swarre@
+@swear off@|@ôfswarre@
+@sweat@|@swit, switte@
+@Swede@|@Sweed@
+@Sweden@|@Sweden@
+@Swedish@|@Sweedsk@
+@sweep@|@feie@
+@sweeper@|@baanfager@
+@sweet@|@mjitsk, swiet@
+@swift@|@fluch@
+@swim@|@swimme@
+@swimming pool@|@swimbad@
+@swindle@|@bedroch, ferrifelderij@
+@swine@|@baarch, swyn@
+@Swiss@|@Switsersk@
+@Switzerland@|@Switserlân@
+@sword@|@swurd@
+@swotch on@|@aktivearje@
+@syllable@|@wurdlid@
+@symbol@|@symboal@
+@symmetric@|@symmetrysk@
+@sympathy@|@sympaty@
+@symphony@|@symfony@
+@syndicate@|@fakbûn, fakferiening@
+@syrup@|@sjerp@
+@systematic@|@systematysk@
+@table@|@tafel@
+@tackle@|@oanpakke@
+@tactic@|@taktyk@
+@tactics@|@taktyk@
+@tail@|@sturt@
+@tail-light@|@efterljocht@
+@tailor@|@skroar@
+@take@|@besette, nimme, oanfurdigje, oannimme@
+@take account of@|@achtslaan op@
+@take action@|@krewearje@
+@take along@|@ôfhelje@
+@take apart@|@demontearje@
+@take away@|@ôfnimme@
+@take down@|@ôfbrekke@
+@take in@|@oanfurdigje, oannimme@
+@take into account@|@achtslaan op@
+@take off@|@ôfdwaan, ôflizze, ôfsette@
+@take over@|@oanhannelje, oankeapje, oanriede, oantuge@
+@take the place of@|@ferfange@
+@taking@|@keap@
+@taking over@|@keap@
+@tale@|@ferhaal@
+@talent@|@betûftens, talint@
+@talented@|@betûft@
+@talk@|@prate, sprekke@
+@tame@|@nuet, ôfrjochtsje@
+@tangerine@|@mandaryntsje@
+@tangle@|@disoarder, tizeboel@
+@tap@|@ôfharkje@
+@target@|@doel@
+@tart@|@bekjelûkerich@
+@taste@|@smaak@
+@tax@|@belêste, belesting@
+@tax-free@|@belestingfrij@
+@taxi@|@taksy@
+@taxi-driver@|@tasysjauffeur@
+@tea@|@tee@
+@teach@|@leare, ôfwenne@
+@teacher@|@learaar, learares@
+@tea-pot@|@teepôt@
+@tear@|@trien@
+@tear off@|@ôfbrekke, ôfroppe, ôfskuorre@
+@tea-towel@|@skûldoek, skûteldoek@
+@technical@|@technysk@
+@technics@|@technyk@
+@technique@|@technyk@
+@technology@|@technology@
+@teeth@|@gebyt@
+@telegraph@|@telegrafearje@
+@telephone@|@telefoan@
+@telephone kiosk@|@telefoansel@
+@television@|@televyzje@
+@television set@|@televyzjetastel@
+@tell@|@befelje, ferhelje, fertelle, sizze@
+@tell a lie@|@lige@
+@telle@|@count@
+@temperament@|@temperamint@
+@temperature@|@temperatuer@
+@temple@|@timpel@
+@ten@|@tsien, ysien@
+@ten thounsand@|@tsientûzen@
+@tenant@|@hierder@
+@tench@|@mûdhûn@
+@tend to@|@ferpleegje@
+@tendency@|@oanfjochting, oanstriid@
+@tender@|@mjitsk, oanbesteging, oanbiede, ôfbyldzje, swiet@
+@tender (1)@|@biede, foarslaan, foarslach, oanbieding, oanbod@
+@tendon@|@sine@
+@tension@|@foltaazje@
+@tent@|@tinte@
+@tenth@|@tsiende@
+@termitate@|@besljochtsje, dien meitsje, ôfmeitsje@
+@terrain@|@mêd@
+@terrestrial@|@ierdsk@
+@terrify@|@bang meitsje@
+@Tersoal@|@Tersoal@
+@Terzoal@|@Tersoal@
+@test@|@eksamen@
+@testament@|@testamint@
+@testimony@|@attest, tsjûchskrift@
+@thank@|@tankje@
+@thank you@|@tankewol@
+@thank you very much@|@tige tank!@
+@thankful@|@tankber@
+@thanks@|@tank@
+@that@|@dus, hok, hokfoar, sa, sadwaande, wa, wa't@
+@that one@|@dy, dy't@
+@that one over there@|@dy, dy't@
+@that over there@|@dit, dy, dy't@
+@that way@|@dus, sa, sadwaande@
+@thaw@|@tei, teie@
+@the@|@de, it@
+@the day after tomorrow@|@oaremoarn@
+@the day before yesterday@|@earjuster@
+@The Hague@|@Den Haach@
+@The long trip@|@De lange wei@
+@the Netherlands@|@Nederlân@
+@theather@|@skouboarch, teater@
+@thee and thou@|@dookje@
+@theft@|@dieverij@
+@their@|@syn@
+@theme@|@tema@
+@then@|@dan, destiids, doe, doe't, doedestiids@
+@theology@|@godgeleardens@
+@theory@|@teory@
+@there@|@dêr, dêre, er@
+@therefore@|@dêrom@
+@thermometer@|@termometer@
+@these@|@dit@
+@they@|@hja, men, sy@
+@they are@|@sy binne@
+@they go@|@sy geane@
+@they had@|@sy hiene@
+@they have@|@sy hawwe@
+@they have had@|@sy hawwe hân@
+@they went@|@sy giene@
+@they were@|@sy winne@
+@they were going@|@sy binne gien@
+@they will be@|@sy sille wêze@
+@they will go@|@sy sille gean@
+@they will have@|@sy sille hawwe@
+@thick@|@tsjok@
+@thickness@|@tsjokte@
+@thigh@|@bil@
+@thin@|@meager@
+@think@|@achtenearje, achtsje, miene@
+@third@|@tredde, trêde@
+@thirsty@|@hetsich@
+@thirteen@|@trettijin, trettjin@
+@thirteenth@|@trettjinde@
+@thirty@|@tritich@
+@this@|@dit@
+@this here@|@dit@
+@thorn@|@toarne@
+@those@|@dit@
+@thou@|@do, dû, jo@
+@though@|@alhoewol't@
+@thought@|@tins@
+@thousand@|@tûzen@
+@thousandth@|@tûzenste@
+@thrash@|@ôfrosse, ôftichelje, omseamje@
+@thread@|@jern@
+@threat@|@bedriging, drigemint@
+@threaten@|@bedriigje, drige@
+@three@|@trije@
+@throat@|@kiel@
+@throne@|@troan@
+@through@|@dien, fanwegen, fia, ree, troch@
+@throw@|@goaie@
+@throw off@|@ôfsmite@
+@thrush@|@klyster, lyster@
+@thrust@|@triuwe@
+@thumb@|@tomme@
+@thunder@|@tonger, tongerje@
+@thursday@|@tongersdei@
+@thus@|@dus, sa, sadwaande@
+@ticket@|@biljet, kaartsje@
+@tie@|@ferbine@
+@tie on@|@oanknoopje@
+@tie up@|@ferbine@
+@tiger@|@tiger@
+@till@|@oant@
+@tillage@|@bou, lânbou@
+@timber@|@hout@
+@time@|@oere, tiid@
+@time off@|@fakânsje@
+@timidity@|@ferlegenens@
+@tin@|@blykje@
+@tin can@|@blykje@
+@tin-opener@|@blikiepener@
+@tip@|@foan@
+@tired@|@wurch, ynein@
+@tired out@|@ûngedien@
+@to@|@oan@
+@to acclaim@|@hantsjeklappen, ynstimming@
+@to be@|@Wêze@
+@to can@|@kinne@
+@to cheat@|@ferrifelje@
+@to commend@|@oanbefelje@
+@to divide@|@partsje@
+@to do@|@dwaan@
+@to fix@|@reparearje@
+@to fly@|@fleane@
+@to gain@|@oanwinne@
+@to give@|@jaan@
+@to go@|@gean@
+@to have@|@hawwe@
+@to hear@|@hearre@
+@to increase@|@fergrutting@
+@to instigate@|@oanwakkerje@
+@to listen@|@harkje@
+@to must@|@moatte@
+@to offer@|@biede, foarslaan@
+@to play@|@boartsje@
+@to pull@|@lûke@
+@to register@|@oanrikkemandearje@
+@to start@|@oanfangen@
+@to stimulate@|@oanmoedigjen@
+@to surprise@|@ferrassing@
+@to the left@|@lofts@
+@to think@|@tinke@
+@to trust@|@fidúsjen@
+@to watch@|@besjen@
+@to will@|@sille@
+@toad@|@pod, podde@
+@toast@|@briede, sünhäid, tsjoch@
+@tobacco@|@tabak@
+@today@|@hjoed, hjoed de dei@
+@toe@|@tean@
+@together@|@meiïnoar@
+@toilet@|@húske@
+@toilet-paper@|@húskepapier@
+@token@|@bewiis@
+@tolerant@|@ferdraachsum@
+@Tom Thumb@|@Tomke@
+@tomato@|@tomaat@
+@tomato-soup@|@tomatesop@
+@tomb@|@grêf@
+@tomorrow@|@moarn@
+@tone@|@toan@
+@tongue@|@spreke, tonge@
+@tonsil@|@mangel@
+@too@|@ek@
+@tooth@|@tosk@
+@tooth-brush@|@toskboarstel@
+@tooth-paste@|@toskpoetserguod@
+@toothpick@|@toskpluzer@
+@topic@|@tema@
+@topical@|@aktueel, op 't stuit fan betsjutting@
+@torment@|@pleach@
+@tortoise@|@skyldpod@
+@torture@|@folterje, martelje@
+@torturer@|@boal@
+@total@|@alles omfiemjend, hiel, totaal@
+@touch@|@oanreitsing, oanreitsje, oanroere@
+@touching@|@oandwaanlik@
+@tourist@|@fakânsjegonger, toerist@
+@tourist information@|@postkantoar@
+@toward@|@oan@
+@towards@|@oan@
+@towel@|@handoek@
+@tower@|@toer@
+@town@|@stêd@
+@town hall@|@stedhûs@
+@town-hall@|@gemeentehûs@
+@toy@|@boartersguod@
+@trace@|@least, ôfbeakenje, print@
+@trace out@|@ôfbeakenje@
+@track@|@least, print@
+@trade@|@ambacht, fak@
+@trade-union@|@fakbûn, fakferiening@
+@tradition@|@tradysje@
+@traffic@|@ferkear@
+@traffic rules@|@ferkearsfoarskriften@
+@tragedy@|@tragedy@
+@tragic@|@tragysk@
+@trailer@|@oanhingwein@
+@train@|@ôfrjochtsje, trein@
+@train station@|@NS-stasjon@
+@transfer@|@ferplakke@
+@transformation@|@feroaring@
+@transgression@|@sûnde@
+@translation@|@oersetting@
+@transport@|@ferfier, ferfiere@
+@trasitive@|@oerbringend@
+@travel@|@reizgje@
+@traveller@|@reizger@
+@treacherous@|@ferriederlik@
+@treachery@|@ferried@
+@treasure@|@skat@
+@tree@|@beam@
+@tremble@|@beve@
+@triangle@|@trijehoek@
+@trick@|@oanwenst@
+@trip@|@reis@
+@trite@|@deisk, ôfseage, sljochtweihinne@
+@triumph@|@triomf@
+@trollop@|@belle, slet@
+@tropical@|@tropysk@
+@trot@|@drave@
+@truck@|@frachtauto, frachtwein@
+@trump@|@ôftroevje@
+@trust@|@dúste, fertrouwe, fertrouwen, stjitte@
+@truth@|@wierheid@
+@tub@|@boaits@
+@tube@|@buis, fentyl, piip@
+@tuesday@|@tiisdei@
+@tug@|@tsjen@
+@tulip@|@tulp@
+@tummy@|@liif@
+@tune@|@meldij, oanbringe, oanpasse, ôfstimme@
+@turn@|@draaie, ferdraaie, ôfslaan, ôfwike, rige, swaaie@
+@turn around@|@draaie, ferdraaie, swaaie@
+@turn away@|@fuortstjoere, ôfdraaie, ôfkeare, ôfstjoere@
+@turn on@|@aktivearje@
+@turn round@|@draaie, ferdraaie, swaaie@
+@turn to good account@|@benutsje@
+@TV@|@televyzje@
+@tweenty one@|@ienentweintich@
+@twelfth@|@tolfde@
+@twelve@|@tolf, tolve@
+@twentieth@|@tweintichste@
+@twenty@|@tweintich@
+@twenty-nine@|@njoggenentweintich@
+@twentytwo@|@twaentweintich@
+@twig@|@ryske, tien, twiich@
+@two@|@twa@
+@two hundred@|@twahûndert@
+@type@|@type@
+@typewriter@|@skriuwmasine@
+@typhus@|@sinkingssykte@
+@typical@|@typysk@
+@tyrant@|@twingboal@
+@udder@|@jaar@
+@ugly@|@lilk@
+@ulcer@|@maachswolm@
+@ultimately@|@efternei@
+@uncle@|@omke@
+@unclean@|@fiis@
+@under@|@ûnder@
+@underhand@|@efterbaks@
+@underneath@|@del, ûnder@
+@understand@|@begripe, ferstean@
+@understandable@|@begryplik, fersteanber@
+@undertake's man@|@leedomsizzer, omsizzer@
+@undulate@|@baarje@
+@unemployed@|@wurkleas@
+@unemployment@|@wurkleazens@
+@unfaithful@|@ôffalich@
+@unfit for work@|@arbeidsûngeskikt@
+@unfortunately@|@eilaas, spitich, spitigernôch@
+@unicorn@|@ienhoarn@
+@uniform@|@unifoarm@
+@union@|@uny@
+@unique@|@unyk@
+@unite@|@ferienigje, ferienje@
+@unity@|@ienheid@
+@universal@|@algemien, mien@
+@universality@|@algemienens@
+@universe@|@hielal@
+@university@|@akademy@
+@university graduate@|@akademikus@
+@unlearn@|@ôfleare, ôfwenne@
+@unmarried woman@|@frijster@
+@unring@|@ôftakelje@
+@unroll@|@ôfwuolje@
+@unsocial@|@maatsskiplik net oanpast, ûnmaatskiplik@
+@until@|@oant@
+@unwind@|@ôfwuolje@
+@up@|@nei boppen@
+@upon@|@oer, op, tsjin@
+@upset@|@ferbjustere@
+@up-to-date@|@aktueel, op 't stuit fan betsjutting@
+@urban@|@stedsk@
+@urge@|@oanfiterje, oanfjurje, oanhysje, oantrune@
+@urge (1)@|@oantrúnje, oanwakkerje@
+@urge on@|@oanwakkereje@
+@us@|@wy@
+@USA@|@Amearika@
+@USA citzen@|@Amerikaan@
+@use@|@brûke, gebrûk@
+@use up@|@ferbrûke, ôfsjouwe@
+@used to@|@bewend, gewoan@
+@useful@|@nuttich@
+@useless@|@idel@
+@user@|@brûker@
+@usual@|@algemien, bewend, gewoan, mien@
+@usually@|@gewoanlik@
+@uterus@|@limoer@
+@utilize@|@benutsje, eksploitearje@
+@vacant@|@fakant@
+@vacation@|@fakânsje@
+@vain@|@idel@
+@valerian@|@faleriaan@
+@valiant@|@manhaftich, moedich@
+@valley@|@delling, delte@
+@valuable@|@djur@
+@value@|@djoerte, wearde@
+@valve@|@fentyl@
+@vanilla@|@fanille, fanylje@
+@vapor@|@damp, steam@
+@variable@|@ôfwikseljend@
+@variation@|@ôfwikseling@
+@variety@|@ôfwikseling@
+@variety entertainment@|@fariëtee@
+@varnish@|@lak@
+@vary@|@fariearje@
+@vase@|@faas@
+@vat@|@boaits@
+@veal@|@keallefleis@
+@vegetable@|@griente@
+@vegetarian@|@fegetariër@
+@vein@|@ier@
+@vend@|@ferkeapje@
+@vengeance@|@wrek@
+@ventilator@|@fentilator@
+@venture@|@noedzje, oandoare@
+@verb@|@tiidwurd@
+@verdict@|@fonnis@
+@verify@|@kontrolearje@
+@vertical@|@fertikaal@
+@very@|@bjuster, bot, fleande, gâns, rju, tige, ûnhuerich@
+@very much@|@bjuster, bot, fleande, gâns, rju, tige, ûnhuerich@
+@vessel@|@bak, doaze, faas, skip@
+@vest@|@himd@
+@vetch@|@wikje@
+@vibration@|@ridel@
+@vicar@|@pastoar@
+@vice-versa@|@efterstefoaren, oarsom@
+@vicious@|@glûpsk@
+@victor@|@oerwinner@
+@victory@|@oerwinning@
+@view@|@achtenearje, aspekt, gesicht, oansjen, útsjoch@
+@view (1)@|@achtsje, besjen@
+@vigour@|@warberens@
+@villa@|@filla@
+@village@|@doarp@
+@villager@|@doarpsman@
+@vine@|@druvebeam@
+@vinegar@|@jittik@
+@violate@|@oanpakke, oantaaste@
+@violet@|@fioeltsje@
+@violin@|@fioele@
+@viper@|@njirre@
+@virgin@|@faam@
+@virus@|@firus@
+@visa@|@fisum@
+@visé@|@fisum@
+@visible@|@sichtber@
+@visit@|@besite, besyk, besykje@
+@vitamin@|@fitamine@
+@vitual@|@fitaal@
+@vixen@|@fekke, helheak, tange@
+@vocabulary@|@wurdboek@
+@voice@|@lûd, stim@
+@void@|@leech@
+@volcano@|@fulkaan@
+@voltage@|@foltaazje@
+@vote@|@lûd, stim, stimme@
+@vowel@|@lûd@
+@voyage@|@reis@
+@waansin@|@craziness@
+@wadding@|@bomwol@
+@wage@|@fertsjinst, gaazje, lean@
+@wager@|@wedzje@
+@wages@|@fertsjinst, gaazje, lean@
+@waggon@|@spoarwein@
+@waist@|@mul@
+@waistline@|@mul@
+@wait@|@biidzje, ferwachtsje, ôfwachtsje, wachtsje@
+@wait for@|@biidzje, ferwachtsje, ôfwachtsje, wachtsje@
+@waiter@|@betsjinder@
+@waitress@|@kelnerinne@
+@waive@|@jin ôfsette fan@
+@walk@|@rinne@
+@wall@|@lewant, muorre@
+@walnut@|@grutte nút@
+@walnut-tree@|@nutebeam@
+@wander@|@doale, doarmje, dwale, ôfwike, swalkje, swerve@
+@wander from one's subject@|@ôfdwale@
+@wandering from the point@|@ôfdwaling@
+@want@|@ferlangst, winsk, wolle@
+@war@|@kriich, oarloch@
+@ward off@|@ôfwarre@
+@warlock@|@tsjoender@
+@warm@|@hertlik, waarm@
+@warmth@|@waarmte@
+@warning@|@oanmoanning@
+@warrant@|@garânsje@
+@warrior@|@kriichsman@
+@wash up@|@skûtelwaskje@
+@washable@|@ôfwaskber@
+@wasp@|@ealjebij, meeps@
+@waste@|@ferdwaan, ôfeart, ôffal@
+@watch@|@achtenearje, achtsje, horloazje, polshorloazje@
+@watch over@|@beweitsje@
+@watchword@|@devys@
+@water@|@wetter@
+@water-colour@|@akwarel@
+@waterfall@|@wetterfal@
+@waterlily@|@swanneblom@
+@wave@|@baar, weach@
+@waver@|@skytskoarje, wifkje@
+@way@|@brûkme, gewoante, manear, wei, wenst, wizânsje@
+@we@|@wy@
+@we are@|@wy binne@
+@we go@|@wy geane@
+@we had@|@wie hienne@
+@we have@|@wy hawwe@
+@we have been@|@wy hawwe west@
+@we have had@|@wy hawwe hân@
+@we went@|@wy giene@
+@we were@|@wy wienne@
+@we were going@|@wy binne gien@
+@we will be@|@wy sille wêze@
+@we will go@|@wy sille gean@
+@we will have@|@wy silst hawwe@
+@wealth@|@rikens, rykdom@
+@wealthy@|@ryk@
+@wear@|@oanhawwe@
+@wear out@|@ôfsjouwe@
+@weasel@|@wezeling@
+@weather@|@waar@
+@wedding@|@brulloft@
+@wedding-party@|@brulloft@
+@wednesday@|@woansdei@
+@week@|@wike@
+@week-end@|@wykein@
+@weep@|@gûle@
+@welcome@|@wolkom@
+@well@|@hawar, inketpotsje, sûn, wolno@
+@well them@|@hawar, wolno@
+@well-off@|@ryk@
+@wenst@|@custom@
+@western@|@westlik@
+@wet@|@wiet@
+@whale@|@walfisk@
+@what a@|@as, hoe't@
+@what for@|@wêrom@
+@What is this?@|@Wat is dit?@
+@What is your name?@|@Hoe hite jo?@
+@what kind of@|@hoe'n@
+@What' s your name?@|@Hoe hytsto?, Hü håtst dü?@
+@what sort of@|@hoe'n@
+@What time is it?@|@Hoe let is it?@
+@what's more@|@fierders@
+@wheat@|@weet@
+@wheel@|@tsjil@
+@wheezy@|@nearboarstich@
+@when@|@doe, hoenear, wannear't@
+@where@|@wêr@
+@Where are you going?@|@Wêr geane jo hinne?@
+@Where do you live?@|@Wêr wenje jo?@
+@Where is my room?@|@Weer as man dörnsch?, Wir äs män dörnsk?@
+@Where is my room? (1)@|@Huar as man dörnsk?, Wear es miin Dörnsk?@
+@Where is my room? (2)@|@Hur es min Rüm?, Wêr is myn keamer?@
+@Where is the bar?@|@Weer as e krouf?, Wir äs e krau?@
+@Where is the bar? (1)@|@Huar as at wiartshüs?, Wear es de Kruch?@
+@Where is the bar? (2)@|@Hur es di Wiartshüs?, Wêr is de bar?@
+@Where is the bathroom?@|@Meer as heer et hüüschen?, Mêr is hijr it húske?@
+@Where is the beach?@|@Weer as e strönj?, Wir äs e struin?@
+@Where is the beach? (1)@|@Huar as a strun?, Wear es de Strun?@
+@Where is the beach? (2)@|@Hur es di Strön?, Wêr is it strân?@
+@Where is...?@|@Wêr is...?@
+@whereas@|@wylst@
+@which@|@hok, hokfoar, wa, wa't@
+@which one's@|@waans@
+@while@|@tiid, wylst@
+@whillst@|@wylst@
+@whip@|@swipe@
+@whistle@|@fluit, fluite, fluitsje@
+@white@|@wyt@
+@who@|@hok, hokfoar, wa, wa't@
+@whole@|@finaal, gâns, gânsk, hiel, hielendal@
+@whose@|@waans@
+@whraft@|@kaai@
+@why@|@wêrom@
+@widow@|@widdo@
+@widower@|@widner@
+@width@|@wiidte@
+@wife@|@frou, wiif@
+@wig@|@prûk@
+@wild@|@wyld@
+@wild boar@|@everswyn@
+@will@|@testamint@
+@willingly@|@graach@
+@willow@|@wylch, wylgebeam, wylgenbeam@
+@willowherb@|@tieneblom@
+@win@|@fertsjinje@
+@wind@|@wyn@
+@wind off@|@ôfwuolje@
+@windfall@|@ôfeart, ôffal@
+@window@|@finster, ramt, rút@
+@wine@|@wyn@
+@wing@|@wjuk@
+@winter@|@winter@
+@wipe@|@ôffeie, ôfwiskje@
+@wipe off@|@ôffeie, ôfwiskje@
+@wireless@|@radio@
+@wish@|@ferlangje, ferlangst, winsk, wolle@
+@wit@|@geast@
+@witch@|@heks, tsjoenster@
+@with young@|@drachtich, swier@
+@within@|@yn@
+@without@|@sûnder@
+@without a name@|@anonym, nammeleas@
+@witness@|@bywenje@
+@wizânsje@|@custom@
+@wizard@|@tsjoender@
+@wolf@|@wolf@
+@woman@|@frommes, frou, minske, wiif@
+@womb@|@limoer@
+@wonder@|@benijing, ferbazing, ferheardens, fernuverje jin@
+@wonted@|@bewend, gewoan@
+@wood@|@bosk, bosk, hout@
+@wooden@|@houten@
+@woodpecker@|@spjocht@
+@woods@|@bosk, wâld@
+@wool@|@wolle@
+@word@|@wurd@
+@work@|@arbeid, arbeidzje, wurk@
+@work of art@|@keunstwurk@
+@work out@|@berekkenje, besiferje, ôfwurkje, rekkenje@
+@work place@|@atelier, wurkromte@
+@worker@|@arbeider, arbeidersman@
+@working man@|@arbeider, arbeidersman@
+@workman@|@arbeider, arbeidersman@
+@world@|@wrâld@
+@worldglobe@|@ierdbol@
+@worldwar@|@wrâldoarloch@
+@worldwide@|@algemien, mien@
+@worm@|@wjirm@
+@worn out@|@ûngedien@
+@worn-out@|@ôfseage@
+@worship@|@ferearing, oanbidding@
+@worth@|@djoerte, wearde@
+@wound@|@blessearje, blessearring, blessuere, wûne@
+@wrap up@|@ynpakke@
+@wreed@|@cruel@
+@wrench@|@famke, kaai@
+@wrest@|@ôftwinge@
+@wretched@|@earmhertich, earmoedig, heukerich, skiterich@
+@wring@|@ôftwinge@
+@wrinkle@|@fâld@
+@wrist@|@pols@
+@wrist-watch@|@polshorloazje@
+@write@|@skriuwe@
+@write down@|@oantekenje@
+@write off@|@ôfskriuwe@
+@writer@|@auteur, skriuwer@
+@writing@|@skrift@
+@writing desk@|@buro, skriuwburo, skriuwtafel@
+@writing-desk@|@buro, skriuwburo, skriuwtafel@
+@Xanthippe@|@fekke, helheak, tange@
+@yard@|@erf, ert, ra@
+@ye@|@do, dû, dy, jo@
+@year@|@jier@
+@yellow@|@giel@
+@yes@|@ja@
+@yesterday@|@juster@
+@yet@|@al, alfêst, jit, noch@
+@yield@|@ôfstean@
+@yn 'e nominaasje komme@|@count@
+@yoke@|@jok@
+@yon@|@dêr, dêre, er@
+@yonder@|@dêr, dêre, er@
+@you@|@do, do, dû, dy, jo, men@
+@you (pl.)@|@Jim@
+@you are@|@do bist, jo binne@
+@you go@|@jo geane@
+@you go/you went@|@do giest@
+@you had@|@jo hiene@
+@You had@|@do hiest@
+@you have@|@do hast, jo hawwe@
+@you have been@|@do hast west, jo hawwe west@
+@you have had@|@do hast hân, jo hawwe hân@
+@you went@|@jo giene@
+@you were@|@do wiest, jo wienne@
+@you were going@|@do bist gien, jo binne gien@
+@you will be@|@do silst wêze, jo sille wêze@
+@you will go@|@do silst gean, jo sille gean@
+@you will have@|@do silst hawwe, jo sille hawwe@
+@young@|@jong, oankommend, telch@
+@youngster@|@feint@
+@your@|@dyn, jo, jyns@
+@you're welcome@|@is wol klear@
+@youth@|@feint, jonkheid@
+@Yule@|@Krysttiid@
+@zeal@|@ambysje@
+@Zeeland@|@Seelân@
+@zero@|@nul@
+@zest@|@animo, belangstelling@
+@zinc@|@sink@
+@zone@|@gurdle, mulbân, sône@
+@zoo@|@dieretún@
+

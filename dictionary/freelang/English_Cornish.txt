@@ -1,0 +1,3234 @@
+@English@|@Cornish@
+@Author name@|@Guy T. Gambill@
+@Font@|@Arial\12\Arial\12@
+@a cat@|@an gath@
+@a chair@|@an gador@
+@a day@|@an jydh@
+@a dress@|@gwisk@
+@a drinking glass@|@gwedrenn@
+@a farmer@|@an diogyon@
+@a fart@|@bramm@
+@a girl@|@an vowes@
+@a people@|@an bobel@
+@abandon@|@forsakya@
+@abdomen@|@pengasen@
+@ability@|@gallos@
+@able@|@abel@
+@abnormal@|@ant thy, antýthy@
+@abolish@|@dyléa@
+@abortion@|@defendyans@
+@abrasion@|@dysr scans@
+@abridge@|@berh, berhé@
+@abruptly@|@cot@
+@absence@|@dyfyk@
+@abstract@|@devyn@
+@accident@|@droglam, droklam@
+@account@|@acont, reken@
+@accuracy@|@kewerder@
+@accurate@|@compes@
+@accursed@|@mollothek@
+@accuser@|@cuh dhor@
+@acidity@|@trenkter@
+@acolyte@|@colyta@
+@acorn@|@mesen@
+@acrobat@|@lappyor@
+@actions@|@gwr ansow@
+@activity@|@bewder@
+@actress@|@gwaryeres@
+@actually@|@dhew r@
+@adamant@|@bysy@
+@adapter@|@ewnor@
+@adaption@|@compassans@
+@addition@|@junnyans@
+@address (n.)@|@trygva@
+@adequate@|@lowr@
+@adherent@|@holyer, ment nour@
+@adjacent@|@ogas@
+@adjourn@|@hokkya@
+@adjunct@|@junnyans@
+@admiral@|@amyral@
+@admirer@|@carer@
+@adoption@|@m thrynans@
+@adultery@|@avowtry@
+@advance@|@avonsya, avonsyans@
+@adviser@|@cus lyer@
+@advisor@|@cus lyer@
+@advocate@|@dathelor@
+@advocate (n.)@|@pledyer@
+@affable@|@debon r@
+@affinity@|@havalder@
+@afflict@|@grevya@
+@affluent@|@rych@
+@affront@|@despyt, scorn@
+@afternoon@|@dohaje-th@
+@against@|@erbyn, offendya@
+@agility@|@scafter@
+@agitate@|@am vya@
+@agnostic@|@dyscryjyk@
+@ailment@|@cleves@
+@air@|@ayr@
+@airplane@|@ayrplen@
+@alacrity@|@bewder, mal@
+@alcohol@|@gwyras@
+@alehouse@|@corjy@
+@alliance@|@kefr syans@
+@allusion@|@campollans@
+@almighty@|@ollgallosek@
+@alphabet@|@abecedary@
+@already@|@solabr s@
+@although@|@kyn@
+@altitude@|@ughelder@
+@alto@|@conternot@
+@amary@|@cupboard@
+@amateur@|@carer@
+@amazing@|@barth sek@
+@ambition@|@gorvyn@
+@amenable@|@gostyth, plegadow@
+@amenity@|@whekter@
+@american@|@americanek@
+@amiable@|@hegar@
+@amongst@|@ynter@
+@analysis@|@degemysk@
+@analyst@|@degemysker@
+@anarchy@|@dyrewl@
+@ancestor@|@hendas@
+@ancestry@|@lynyeth@
+@ancient@|@hén@
+@anguish@|@angus, angüs@
+@angular@|@pedrak@
+@animal@|@best@
+@ankle@|@üfern@
+@annoint@|@unctya@
+@announce@|@nótya@
+@annuity@|@rent@
+@anomaly@|@ancothfos, dygomposter@
+@another@|@aral@
+@antelope@|@gavrewyk@
+@anvil@|@anwan@
+@anxiety@|@fyenas, fyenasow, preder@
+@anxious@|@prederys@
+@anybody@|@nepd n, nepdén@
+@anymore@|@namoy@
+@anysort@|@éghen@
+@anything@|@neppyth@
+@anything (adv.)@|@neptra@
+@anything (n.fem.)@|@travyth@
+@anywhere@|@nepl, neplé@
+@apartment@|@ranjy@
+@aperture@|@toll@
+@apology@|@dyharas@
+@apostate@|@negedhys@
+@apostle@|@abostol@
+@apparel@|@aparell, dyllas@
+@apparent@|@apert@
+@appeals@|@pysadowow@
+@appease@|@dyserry@
+@appetitie@|@ewl@
+@applause@|@gormola@
+@apple@|@aval@
+@appointment@|@appoyntyans@
+@approach@|@dós@
+@approval@|@comendyans, commendyans@
+@apricot@|@brykethen@
+@April@|@mýs-Ebrel@
+@apron@|@apern@
+@aptitude@|@gwywder@
+@aquarium@|@pusketty@
+@aqueduct@|@dowrbons@
+@arduous@|@cales@
+@argument@|@dathel, dathelva@
+@aridity@|@crasteer, seghter@
+@arm@|@brégh@
+@armchair@|@cadarvreghek@
+@armless@|@dyvr gh, dyvrégh@
+@armsload@|@bréghas@
+@arousal@|@sordyans@
+@arrival@|@devedhyans@
+@arrogant@|@prowt@
+@arrow@|@seth@
+@arsenal@|@arvjy@
+@artefac@|@gwythres@
+@article@|@artykyl, tra@
+@articles@|@taclow@
+@artifice@|@sotelneth, trayn@
+@artisan@|@creftor, sér@
+@artist@|@lymner@
+@artless@|@dycreft@
+@ashamed@|@edrygys@
+@ashtree@|@enwedhen@
+@aspirin@|@aspyryn@
+@assassin@|@moldrer@
+@assault@|@drokhandla, drokhandlans, omsettyans@
+@assembly@|@cuntellva, cuntellyans@
+@asterisk@|@sterennyk@
+@astrike@|@gaulak@
+@astutely@|@fýn@
+@atheism@|@dyscryjyans@
+@athlete@|@athlet@
+@atrocity@|@garowder@
+@attached@|@serghak@
+@attempt@|@assay@
+@attitude@|@chér@
+@auction@|@strýfwwerth@
+@audacity@|@bólder@
+@audience@|@cuntelles, cuntellyans@
+@August@|@mýs-Est@
+@aunt@|@modryp@
+@austere@|@asper@
+@autocrat@|@týront@
+@autumn@|@kynyaf@
+@aversion@|@cás@
+@avidity@|@pýthneth@
+@awfully@|@üthek@
+@ax@|@ból@
+@baby@|@baban@
+@bachelor@|@bacheler@
+@back@|@keyn@
+@backload@|@sawgh@
+@backside@|@kyl@
+@backward@|@hell@
+@bacon@|@bakken, kýk-mogh@
+@bad@|@drog@
+@badger@|@brogh@
+@badness@|@sherewneth@
+@bailiff@|@bayly@
+@baker@|@peber@
+@baker-shop@|@popty@
+@bakery@|@popty@
+@baking pan@|@padel horn@
+@balance@|@mantol@
+@baldness@|@molder@
+@ball@|@pel, pél@
+@balloon@|@ballon@
+@bandag@|@lysten@
+@bank@|@arghannti, arghantty@
+@banker@|@arghanser@
+@banquet@|@gol, gól@
+@baptism@|@bysyth@
+@baptist@|@bysydhyer@
+@baptizer@|@baptyst@
+@barbaric@|@gwyls@
+@barber@|@barver@
+@bardess@|@bardhes@
+@bareness@|@lomder@
+@bargain@|@chyffar@
+@bark@|@rüsken@
+@barking@|@harth@
+@barley@|@barlysen@
+@barn@|@skyber@
+@barnacle@|@bernakyl@
+@barrack@|@soudorjy@
+@barrier@|@let@
+@baseness@|@vylta@
+@bashful@|@methek@
+@basinet@|@basnet@
+@bathroom@|@stevel omwolhy@
+@battered@|@brew@
+@bauxite@|@gossen@
+@bawdier@|@dydhysca@
+@be@|@bos@
+@beach@|@treth, tréth@
+@beach trees@|@fowydh@
+@bean@|@faven@
+@beans@|@fav@
+@bear@|@ors@
+@beard@|@barf@
+@bearded@|@barvek@
+@beating@|@frappyans@
+@beautify@|@tekh, tekhé@
+@because@|@awos@
+@becoming@|@semly@
+@bed@|@gweli, gwely@
+@bedroom@|@chambour@
+@beds@|@gweliow@
+@bedsheet@|@lyengwely@
+@bedstraw@|@godroth@
+@bee@|@gwenenen, gwenyn@
+@beech tree@|@fawen@
+@beef@|@kýk bowyn@
+@beer@|@coref, korev@
+@beet@|@betysen@
+@beetle@|@whýlen@
+@beginner@|@dallether@
+@begotten@|@denythys@
+@beguile@|@flattra@
+@believer@|@crýjyk@
+@bellman@|@clogher@
+@beloved (adj.)@|@kerensedhek@
+@beloved (n.)@|@keresyk@
+@belt@|@grügys@
+@benefice@|@benefys@
+@benefit@|@dader@
+@bequest@|@kemmynadow@
+@berry@|@moren@
+@beseiger@|@omsettyer@
+@besides@|@hep@
+@bestial@|@góthfylek@
+@bestowal@|@larjes@
+@betrayal@|@tull@
+@betrayer@|@traytour@
+@betting@|@kenwystlans@
+@between@|@ynter@
+@biblical@|@býblek@
+@bicycle@|@deuros, dewros, diwros, marghhorn@
+@bidding@|@arghadow@
+@big@|@bras@
+@billing@|@notyans@
+@binding@|@colmen@
+@binding board@|@aden@
+@bindweed@|@gwek@
+@birch tree@|@besewen@
+@bird@|@edhen@
+@birds@|@ydhyn@
+@birthday@|@penbloth@
+@biscuit@|@tesen gales@
+@bitterer@|@wherwa@
+@bittern@|@clabyttour@
+@bivouac@|@camp@
+@black@|@du@
+@blackberry@|@moren du@
+@blackbird@|@molgh dhu@
+@blacksmith@|@ferror@
+@bladder@|@gusygen@
+@blanket@|@len@
+@bleach@|@gwynna@
+@bleating@|@brýf@
+@blemish@|@defowt@
+@blessed@|@gwynvýs@
+@blessing@|@bennath@
+@blindman@|@dall@
+@blister@|@whejalen@
+@blither@|@lowenna@
+@bloated@|@whethfys@
+@blockade@|@degéans@
+@blood@|@goes@
+@blood red@|@kogh@
+@bloody@|@goesek@
+@blossom@|@blejyewen@
+@blowing@|@wheth@
+@blubber@|@blonek@
+@blue@|@glas@
+@bluebell@|@blejen an gucu@
+@boarder@|@ostyas@
+@boaster@|@boster@
+@boat@|@cok, skath@
+@boatload@|@carg@
+@bodies@|@korfow@
+@body@|@corf, korf@
+@boiling@|@bryjyon@
+@boldness@|@bolder@
+@bolster@|@penwely@
+@bombast@|@predhek@
+@bondsman@|@tythyak@
+@bone@|@ascorn@
+@bonfire@|@tansys@
+@book@|@lyver@
+@booklet@|@lyfryk@
+@booster@|@crefhé@
+@boredom@|@squyther@
+@borough@|@borgh, burjestra@
+@botanist@|@losower@
+@boundary@|@ór@
+@bowl@|@scala@
+@boy@|@map, maw@
+@boyhood@|@mapsys@
+@bracelet@|@modrewy@
+@bracken@|@grüglon@
+@bracket@|@corbel@
+@braggart@|@bragyer@
+@bragget@|@bragas@
+@bragging@|@facyans@
+@braider@|@plethor@
+@braiding@|@plethwyth, pléthwýth@
+@brain@|@ympynyon@
+@bramble@|@dreysen@
+@brambly@|@dreysek@
+@bran@|@talgh@
+@branched@|@scorrek@
+@bread@|@bara@
+@breadth@|@les@
+@breakage@|@torva, torva@
+@breakfast@|@hansel@
+@breaking@|@torva@
+@breeder@|@mager@
+@breeding@|@magereth@
+@brethren@|@bredereth@
+@brevity@|@berder@
+@bridge@|@pons@
+@briefer@|@cotta@
+@brigand@|@robbyor@
+@brighter@|@clerra@
+@brightly@|@splan@
+@brindled@|@labol@
+@bringer@|@kergher@
+@Britain@|@Breten@
+@Brittish@|@Bretennek@
+@brittle@|@brottel@
+@brocade@|@paly@
+@brochure@|@lyfryk@
+@brooklet@|@nonnen@
+@broom@|@scübel@
+@brother@|@broder@
+@brother-in-law@|@broder-da@
+@brown@|@gorm@
+@brownish@|@gellyk@
+@bruised@|@brew@
+@bucket@|@kelorn@
+@buckwheat@|@gwaneth frynk@
+@bucolic@|@bügelek@
+@buffalo@|@büal@
+@builder@|@sér@
+@bulkhead@|@fós@
+@bull@|@tarow@
+@bullock@|@lothen@
+@bulrush@|@penduen@
+@bulwark@|@scons@
+@burger@|@byrger@
+@burgess@|@burjes@
+@burgundy@|@burgayn@
+@burning@|@loskvan@
+@bus@|@bus, kyttyrn@
+@business@|@negys@
+@busybody@|@mellyer@
+@butcher@|@kyger@
+@butcher shop@|@shoppa kyger@
+@butchery@|@kygereth@
+@butter@|@amanyn@
+@buttercup@|@paw-brán@
+@butterfly@|@tykky-dew@
+@buttery@|@talgell@
+@buttock@|@pedren@
+@buttress@|@jyst@
+@buzzard@|@bargos@
+@cabbage@|@cawlen@
+@cabinet@|@amary@
+@cackling@|@grek@
+@cafe@|@koffiji@
+@cake@|@tesen@
+@calendar@|@dedhyador@
+@calf@|@lugh@
+@calfskin@|@lughken@
+@calling@|@galow@
+@callous@|@aflythys@
+@camomile@|@camyl@
+@can@|@canna, cannys@
+@candor@|@gwyrder@
+@canonry@|@chenonry@
+@canticle@|@cantykyl@
+@capable@|@abel@
+@capacity@|@gavel@
+@capital@|@chattelen@
+@caprice@|@sýans@
+@capstan@|@cabestran@
+@captain@|@hembrynkyas@
+@car@|@car@
+@carapace@|@crogen@
+@carcass@|@caryn@
+@cardinal@|@cardynal@
+@carefree@|@dygüth@
+@careful@|@prederys@
+@carnage@|@arva@
+@carpet@|@leurlenn, lurlen@
+@carping@|@crothak@
+@carrack@|@carrak@
+@carriage@|@caryach@
+@carrier@|@deger@
+@carrion@|@caryn@
+@carrot@|@caretysen@
+@cars@|@kerry@
+@cartoon@|@lynennans@
+@carving@|@gravyans@
+@cascade@|@dowrlam, lamfróshé@
+@cashier@|@cashyer@
+@cassock@|@gonhyr@
+@castle@|@dinas, kastell@
+@cat@|@cath@
+@cataract@|@dowrlam@
+@cathedral@|@penneglos@
+@cats@|@kathes@
+@cattle@|@chattel@
+@cauldron@|@caudarn@
+@cauliflower@|@cawlvlejen@
+@causeway@|@cauns@
+@caution@|@gwarnyans@
+@caution (v.)@|@gwarnya@
+@cautious@|@wár@
+@cavalier@|@marghak@
+@ceiling@|@nen@
+@celery@|@kegys whék@
+@celibate@|@dydhemeth@
+@cellar@|@dorgell@
+@cemetary@|@enclathva@
+@censure@|@repref@
+@century@|@cansbledhen@
+@ceremony@|@solempnyta@
+@certain@|@cowgans@
+@chaffinch@|@tynk@
+@chagrin@|@edrek@
+@chair@|@cadar, kador@
+@chairman@|@caderyer@
+@chairs@|@kadoryow@
+@chalice@|@kelegal, kelegel@
+@chalk@|@calghen@
+@chamber@|@stevel@
+@champion@|@campyer@
+@chancel@|@chansel@
+@chandler@|@cantolor@
+@channel@|@chanel@
+@chaplain@|@chaplen@
+@chapter@|@chaptra@
+@charcoal@|@glow@
+@chariot@|@charet@
+@charmer@|@gorhenyas@
+@charter@|@chartour@
+@chastity@|@chastyta@
+@chattel@|@chattelen@
+@chatter@|@flows@
+@cheek@|@bogh@
+@cheerful@|@lowenek@
+@cheers@|@sowena, yeghes da@
+@cheese@|@kés, keus@
+@chemical@|@kymysk, kymyst@
+@chemist@|@kymyst@
+@cherry@|@keresen@
+@cherubim@|@cherubyn@
+@chervil@|@serfel@
+@chest@|@bryansen@
+@chestnut@|@kestenen@
+@chevron@|@keber@
+@chicken@|@mabyar, yar, yeryk@
+@chickens@|@yer@
+@child@|@flogh@
+@childish@|@floghyl@
+@children@|@fleghes@
+@chimney@|@chymbla@
+@chimnies@|@chymblys@
+@chin@|@elgeth@
+@chip@|@asclas, asclejen@
+@chips@|@asclus@
+@chivalry@|@chevalry@
+@choking@|@ták@
+@chooser@|@dewysyas@
+@chopper@|@tregher@
+@chorale@|@cürgan@
+@chubbier@|@boghecca@
+@church@|@eglos@
+@churches@|@eglosyow@
+@churlish@|@vylen@
+@cinema@|@gwaya-mýr@
+@cinnamon@|@canel@
+@circle@|@kelgh@
+@circuit@|@troýll@
+@circular@|@cren@
+@cistern@|@dowrargh@
+@citation@|@devyn@
+@city@|@cyta@
+@civility@|@cyvylta@
+@clamour@|@trós@
+@clapping@|@takyans@
+@clarion@|@tollcorn@
+@clarity@|@clérder@
+@classic@|@classyk@
+@clatter@|@cryghyllyans@
+@cleaner@|@pürra@
+@clearer@|@clerra@
+@clearing@|@lanergh@
+@clearly@|@ylyn@
+@cleavage@|@glenans@
+@cleaved@|@felsys@
+@clemency@|@cüfter@
+@clement@|@cüthek@
+@cleverly@|@fél@
+@cliff@|@als, leder@
+@clinging@|@serghak@
+@clipper@|@gweljow@
+@clock@|@clock, clok@
+@cloister@|@lan@
+@closely@|@close@
+@closest@|@nessa@
+@clothes@|@gwyscas@
+@cloud@|@kommol@
+@cloudy@|@kommolek@
+@clover@|@mullyonen@
+@clumsier@|@dycrefta@
+@cluster@|@bonny@
+@coach@|@kyttrin@
+@coalmine@|@glowek@
+@coarser@|@garwa@
+@coast@|@arvor@
+@coastal@|@arvórek@
+@coat@|@pows@
+@cobbler@|@kerýor@
+@cod@|@barfüs@
+@codfish@|@barfy@
+@coequal@|@kehaval@
+@coffee@|@coffy, koffi@
+@cogwheel@|@rósdynsak@
+@cohesion@|@kresclenyans@
+@coinage@|@coynach@
+@coincide@|@kenwharfos@
+@colander@|@sythel@
+@coldness@|@yeynder@
+@colewort@|@ongel@
+@collapse (n.)@|@collva@
+@college@|@coliy@
+@colloquy@|@kescows@
+@colonial@|@colonyek, colonýek@
+@color@|@lyw@
+@colt@|@ebol@
+@comb@|@crýb@
+@come@|@dos@
+@comfort@|@hebasca@
+@command@|@arghadow@
+@comment@|@campollans@
+@commerce@|@kenwerth@
+@commoner@|@kemyn@
+@compact@|@ambos@
+@compact (adj)@|@tew@
+@company@|@kyfyewy@
+@compass@|@compas@
+@compete@|@kesstryvya@
+@complete@|@cowlwül, dyen@
+@complex@|@plegyans@
+@compound (adj.)@|@kemyskys@
+@compound (n.)@|@kemyskyans@
+@computer@|@jynn-amontya, kempoller@
+@comrade@|@cothman@
+@concave@|@cow@
+@conceit@|@góth@
+@concept@|@consayt@
+@concern@|@bern@
+@concise@|@kempen@
+@concord@|@kessenyans@
+@condemn@|@dampnya@
+@conduct (n.)@|@omdhon@
+@conduit@|@goth@
+@confined@|@yn@
+@conflict@|@omdowl@
+@congress@|@cuntellva@
+@conical@|@pykernek@
+@conjugal@|@prýosol@
+@conjurer@|@atronymer@
+@conquest@|@fethans@
+@consent@|@bóth@
+@constant@|@lél, lén@
+@contact (n.)@|@tuchyans@
+@contest@|@omdowl, stryvya@
+@contexts@|@kerghyn@
+@contract@|@kevambos@
+@contrary@|@cónter@
+@contrite@|@cüdhyjyk@
+@control@|@gallos@
+@convert@|@trélya@
+@copious@|@lün@
+@coppice@|@gwelenek@
+@cordage@|@lovonow@
+@cordial@|@colonnek@
+@corn@|@ýs@
+@Cornish@|@Kernewek@
+@coroner@|@curünor@
+@coronet@|@curünyk@
+@corporal@|@corporal@
+@correct@|@ewn@
+@corridor@|@tremenva@
+@corrupt@|@podrethek@
+@cosiness@|@clesor@
+@costlier@|@kerra@
+@costume@|@dyllas@
+@cottage@|@penty@
+@couch@|@growedhva, gwely-déth@
+@council@|@consel@
+@counsel@|@cusül, cusülya@
+@country@|@pow@
+@coupling@|@copel@
+@courage@|@colon@
+@courier@|@réswas, réswas@
+@courtesy@|@jentylys@
+@cousin@|@ke-nderow@
+@covenant@|@kevambos@
+@covering@|@gorheras@
+@coverlet@|@pallen@
+@covetous@|@crefyon@
+@cow@|@bugh@
+@cowardly@|@coward@
+@cowhide@|@bughken@
+@cowshed@|@bowjy@
+@crab@|@canker@
+@crabbed@|@dynás@
+@cracked@|@trogh@
+@cracking@|@grolyak@
+@craftily@|@fél@
+@craving@|@yeunadow, yeunek@
+@crayfish@|@gavar-mór, gavarmor, gryll awan@
+@cream@|@déhen@
+@creamery@|@dehenjy@
+@creative@|@ynjýn@
+@creator@|@gwrýer@
+@credence@|@crejys@
+@credit card@|@carten lendya@
+@creditor@|@creancer@
+@crevice@|@fúg@
+@cricket@|@crýgell@
+@criminal@|@drók@
+@crimped@|@crom@
+@crinkled@|@crom, crýgh@
+@cripple@|@efreth, evredhy@
+@crippled@|@evredhek@
+@critical@|@tykly@
+@croaking@|@grolyak, ronk@
+@cromlech@|@cromlegh@
+@crosier@|@bagyl@
+@crossbow@|@arblast@
+@crossed@|@trüs@
+@crossing@|@tremenyans@
+@crowing@|@kenys@
+@crucial@|@tér@
+@crucible@|@tehtlester@
+@crucifix@|@crowspren@
+@crucify@|@crowsya@
+@crudity@|@anathveseth@
+@crueller@|@garwa@
+@cruelty@|@hakter@
+@crumpled@|@crom@
+@crusted@|@crestennys@
+@crystal@|@crystal@
+@cucumber@|@pompyon wheg@
+@culture@|@gonysegeth@
+@cunning@|@coyntys, fél@
+@cup@|@hanaf@
+@cupboard@|@a-mary, amary@
+@cupidity@|@pythneth@
+@curious@|@coynt@
+@currant@|@grappa@
+@currants@|@grappys@
+@currency@|@mona@
+@current@|@frós, lemmyn@
+@currier@|@croghen@
+@cursing@|@mollethyans@
+@cursive@|@dygompes@
+@curtain@|@croglen@
+@curtsey@|@cortesy@
+@cushion@|@pluvak, plüvak@
+@custody@|@gwýth@
+@customer@|@prener@
+@cutting@|@skyllen@
+@cuttlefish@|@padel-ynkyn@
+@cyclone@|@trowyns@
+@cyclonic@|@trowynsek@
+@cylinder@|@ról@
+@cynical@|@dyscryjyk@
+@dad@|@tas@
+@daffodil@|@a-fodyl@
+@dairies@|@léthletyow@
+@dairy@|@léty@
+@daisy@|@ygor@
+@damager@|@apéryer@
+@dancer@|@donsyor@
+@dandelion@|@dans-lew@
+@dandruff@|@bréghy@
+@dappled@|@spleytar@
+@darknes@|@tewder@
+@daughter@|@myrgh@
+@daughters@|@myrghes@
+@dawdler@|@termynak@
+@dawdling@|@termynak@
+@dawn@|@bora@
+@day@|@déth, dydh@
+@days@|@dydhyow@
+@deadness@|@marder@
+@deafness@|@bodharsys@
+@dearest@|@whegoll@
+@dearness@|@kerneth@
+@debater@|@dathelor@
+@debility@|@gwanegreth@
+@decanter@|@costrel@
+@decayed@|@podrek@
+@deceased@|@marow@
+@deceiver@|@tullor@
+@december@|@kevardhu@
+@December@|@mýs-Kevardhu@
+@decency@|@onester@
+@decipher@|@desmygy@
+@decision@|@ervyrans@
+@decorous@|@semly@
+@decorum@|@onester@
+@deepness@|@downder@
+@deerpark@|@kery@
+@deerskin@|@carowgen@
+@default@|@defowt@
+@defector@|@negedhys@
+@defence@|@sclew@
+@defiance@|@ér@
+@deficit@|@dyfyk@
+@definite@|@dyblans@
+@deformed@|@cammys@
+@defunct@|@marow@
+@dejected@|@dygolon@
+@delegate@|@cannas@
+@delicacy@|@medhelder@
+@delicate@|@medhel@
+@delight@|@dydhana@
+@delivery@|@delyfrans@
+@delusion@|@tarosvan@
+@demented@|@varyes@
+@density@|@tewder@
+@dentist@|@medhek dyns@
+@depraved@|@podrethek@
+@deranged@|@varyes@
+@derision@|@gés@
+@descant@|@dyscant@
+@descent@|@devedhyans@
+@desert@|@dysert@
+@deserter@|@fýer@
+@designer@|@ynjynor@
+@desirous@|@whansek, yeunek@
+@desk@|@desk@
+@desolate@|@ynyal@
+@despair@|@dyspér@
+@despite@|@despýt@
+@dessert@|@gorfen-prýs@
+@destiny@|@destnans@
+@detailed@|@keskelmyansek@
+@devilish@|@dyawlak@
+@devilry@|@dewlüjy@
+@devoted@|@dywysyk@
+@devotion@|@devosyon@
+@diabolic@|@dyawlak@
+@dialect@|@ranyéth@
+@dialogue@|@kescows@
+@diamond@|@adamant@
+@dictate@|@erghy@
+@dictionary@|@gérlyver@
+@dignity@|@roweth@
+@dilatory@|@termynak@
+@dilemma@|@tranjyak@
+@diligent@|@servabyl@
+@dilution@|@dowrhéans@
+@dining-room@|@kynyowva@
+@dinner@|@koen, kynyow@
+@diocesan@|@epscobedhek@
+@diocese@|@epscobeth@
+@diploma@|@gwarak@
+@diplomat@|@lýscannas@
+@directly@|@poran@
+@director@|@kevarwedhor@
+@dirty@|@plos@
+@disabled@|@efreth@
+@disarray@|@deray@
+@disaster@|@anfüsy@
+@disciple@|@dyskybel@
+@discount@|@dyscont@
+@discreet@|@dóth@
+@disdain@|@dysdayn@
+@diseased@|@anhedhek@
+@disgrace@|@bysmér@
+@disguise@|@toellwisk, tullwysk@
+@disgust@|@dyflassys@
+@dish@|@padel@
+@diskette@|@ronderen@
+@disloyal@|@dyslél@
+@disorder@|@deray@
+@dispatch@|@spédya@
+@display@|@dysplétyans@
+@disposal@|@danjer@
+@dispose@|@desedha@
+@disposed@|@plegadow@
+@disprove@|@dysprevy@
+@dispute@|@kedryn, stryvya@
+@dissent@|@dyssentya, dyssentyans@
+@distaff@|@kygel@
+@distance@|@pellder@
+@distant@|@pell@
+@distinct@|@dybarow@
+@distress@|@gréf, grevya@
+@distrust@|@dyscrysyans@
+@dividend@|@kevran@
+@divinity@|@dewsys@
+@division@|@kevrannans@
+@divorce@|@dydhemedhyans@
+@doctor@|@medhek, medhyk@
+@doctrine@|@dyscans@
+@doe@|@ewyk@
+@dog@|@ki, ký@
+@dogfish@|@dreynak@
+@dogrose@|@rosenk@
+@dogs@|@keun@
+@doll@|@jowanna@
+@dolorous@|@ankensy@
+@dolphin@|@morah@
+@domicile@|@trygva@
+@dominant@|@rowtorek@
+@dominion@|@gwarthevyans@
+@done/made@|@gwrys@
+@donkey@|@asen@
+@door@|@daras, darras@
+@doorman@|@porther@
+@doors@|@darasow@
+@doorway@|@porth@
+@dove@|@colom, colomen@
+@downfall@|@terros@
+@downpour@|@pystyl@
+@dragger@|@drayler@
+@draggle@|@draylya@
+@dragonfly@|@nader-margh@
+@drainage@|@carthans@
+@dramshop@|@gwyrotty@
+@drapery@|@pannow@
+@draught@|@swynnen@
+@drawing@|@delynyans@
+@drawnet@|@tenros@
+@dredger@|@draylyer@
+@dress@|@dyllas@
+@dresser@|@lystryer@
+@dribble@|@devera@
+@driller@|@tollor@
+@drink (n)@|@diwes@
+@drizzle@|@newlglaw@
+@droplet@|@dagren@
+@dropping@|@pryl@
+@drum@|@tabour@
+@drunkard@|@medhow@
+@drunken@|@medhow@
+@dry@|@sygh@
+@dubious@|@dowtys@
+@duchess@|@duches@
+@duck@|@hos, hós@
+@duckling@|@heyjyk@
+@ducks@|@heyji@
+@duckweed@|@kenlyn@
+@duet@|@deudhen@
+@dulcimer@|@cythol@
+@dullard@|@bodhorek@
+@dullness@|@tewoglow@
+@dumpling@|@pellen@
+@dune@|@tewynn@
+@dusk@|@twelwolow@
+@dustheap@|@ponek@
+@dweller@|@tryger@
+@dwelling@|@anneth@
+@dynamic@|@devrakterethek@
+@ear@|@scovarn, skovarn@
+@earldom@|@conteth@
+@earlier@|@avara@
+@earnest@|@dywysyk@
+@earning@|@fangyans@
+@earring@|@skynen@
+@ears@|@diwskovarn@
+@earth@|@gweras@
+@Earth@|@An Norvys, Norvys@
+@earthworm@|@búlügen@
+@easeless@|@anhedhek@
+@easement@|@hebasca@
+@eclipse@|@megy@
+@economy@|@erbys@
+@ecstacy@|@rafsyans@
+@edition@|@dyllans@
+@eel@|@sylly@
+@effusion@|@denow@
+@effusive@|@tavask@
+@egg@|@oy@
+@eggs@|@oyow@
+@egotism@|@omgarans@
+@egotist@|@omgarer@
+@eight@|@eth, éth@
+@eighteen@|@étek@
+@eighty@|@peswarügans@
+@elastic@|@gwethyn@
+@elbow@|@elyn@
+@election@|@dewsyans@
+@elector@|@dewysyas@
+@electric@|@tredanek@
+@elegance@|@jentylys@
+@element@|@elven@
+@elephant@|@olyfans@
+@eleven@|@ünnek@
+@elmgrove@|@elowek@
+@elmtree@|@elowen@
+@embalmer@|@untyer@
+@embarass@|@ancombra@
+@embassy@|@cannaty@
+@embrace@|@byrla, chersyans@
+@eminence@|@ughelder@
+@eminent@|@flowr@
+@employed@|@bysy@
+@employee@|@arfedhysak@
+@employer@|@arfdhor@
+@empress@|@empres@
+@enclosure@|@lann@
+@endless@|@dyben@
+@engineer@|@ynjynor@
+@engine-house@|@jynnji@
+@England@|@Pow Sows@
+@english@|@sawsnek@
+@English@|@Sowsnek@
+@engraver@|@gravyor@
+@enormity@|@efander@
+@enquiry@|@govynnadow@
+@enticer@|@dynyer@
+@entirely@|@cowal, oll@
+@entrance@|@rafsya@
+@entreaty@|@govenek@
+@envelope@|@maylyer@
+@epistle@|@epystol@
+@equality@|@hevelepter@
+@equation@|@comparyans@
+@equator@|@keheseth@
+@equinox@|@keheja@
+@erection@|@serthter@
+@erudite@|@gwenwhys@
+@escapade@|@prat@
+@escapee@|@foesyk@
+@especial@|@specyal@
+@esquire@|@scoswas@
+@essence@|@substans@
+@estuary@|@hayl, heyl@
+@evening@|@gorthewer, gorthugher@
+@evenness@|@composter@
+@evensong@|@gwesper@
+@everyone@|@puponen@
+@eviction@|@dyberghennans@
+@evidence@|@dysquedhyans@
+@evident@|@apert@
+@exactly@|@poran@
+@execute@|@dyala@
+@executor@|@asectour@
+@exercise@|@assay@
+@exhibit@|@dysquedhes@
+@exigency@|@ethom@
+@exorcist@|@peller@
+@expense@|@cost@
+@expiate@|@prena@
+@explorer@|@whythrer@
+@exposed@|@dyclos@
+@extract@|@devyn@
+@extremis@|@enewores@
+@eye@|@lagas@
+@eyebrow@|@abrans@
+@eyebrows@|@dewabrans@
+@eyes@|@dewlagas@
+@eyesight@|@golok@
+@eyesore@|@hakter@
+@fabulous@|@anethek@
+@face@|@enep, fás@
+@facility@|@eshéans@
+@factory@|@gwýthva@
+@faculty@|@týthyen@
+@failing@|@dyfyk@
+@failure@|@falladow@
+@fainter@|@faynta@
+@fairness@|@ewnder@
+@faithful@|@dywysyk@
+@falconer@|@falghunor@
+@falconry@|@falghunoreth@
+@falsely@|@falslych@
+@falsity@|@fals@
+@families@|@teyluyow@
+@family@|@teylu, týlu@
+@famished@|@storvys@
+@fantasy@|@tarosvan@
+@far@|@pell@
+@farewell@|@farwel@
+@farm@|@bargen-tir@
+@farmer@|@tiek@
+@farmers@|@tiogyon@
+@farmer's wife@|@tioges@
+@farms@|@bargen-tiryow@
+@farmyard@|@garth@
+@farrier@|@ferror@
+@fart@|@bramma@
+@farthing@|@ferdhyn@
+@fashion@|@sewt, shapya@
+@fast@|@uskis@
+@fastened@|@stak@
+@fasting@|@penys@
+@fatality@|@marwoleth@
+@father@|@tas, tás@
+@father-in-law@|@sýra-da@
+@fatigue@|@squytha, squythans@
+@fatness@|@berry@
+@fattish@|@berryk@
+@fearless@|@dyagha@
+@feature@|@dysquedhes, tremyn@
+@February@|@Mis Hwevrer, mýs-Whevrel@
+@feeling@|@natureth@
+@feet@|@treys@
+@feistier@|@hartha@
+@felicity@|@gwynvys@
+@feminity@|@gwregoleth@
+@ferment@|@bragesy@
+@ferocity@|@garowder@
+@ferret@|@conna-gwyn dof@
+@ferrier@|@ferror@
+@ferrous@|@hornek@
+@ferry@|@keybal@
+@fiddle@|@fyl@
+@fiddler@|@crowder@
+@fidelity@|@lelder@
+@fidgetty@|@fyslak@
+@field@|@park@
+@fields@|@parkow@
+@fifteen@|@pymthek@
+@fifth@|@pympes@
+@fifty@|@hantercans@
+@fig@|@fygesen@
+@figtree@|@fykbren@
+@filename@|@hanowscryf@
+@filings@|@lyvyon@
+@film-projector@|@gwayer-myr@
+@finality@|@fynweth@
+@finally@|@gordheweth@
+@fine@|@brav@
+@fineness@|@tanowder@
+@finger@|@býs@
+@fingernail@|@ewyn@
+@fircone@|@avalsap@
+@fireplace@|@olas@
+@firmness@|@ferfter@
+@first@|@kensa@
+@fish@|@pysk@
+@fishbone@|@dreyn@
+@fisherman@|@pyscador@
+@fishhook@|@hygen@
+@fishing pole@|@gwelen pyskessa@
+@five@|@pymp@
+@flat@|@leven@
+@fleet@|@lu@
+@flies@|@kelyonennow@
+@floor@|@leur, lür@
+@flour@|@blés@
+@flower@|@blejan, blejen, bleujenn@
+@flowers@|@bleujennow@
+@flute@|@whybonol@
+@fly@|@kelyonen, nija@
+@foliage@|@dél@
+@food@|@boes@
+@foot@|@tros@
+@forest@|@coswyk@
+@fork@|@forgh@
+@forty@|@deugans@
+@four@|@peswar@
+@fourteen@|@peswardhek@
+@fourth@|@peswera@
+@fox@|@lowarn@
+@freshwater@|@gryll awan@
+@Friday@|@dé-Gwener@
+@friend@|@cothman@
+@frog@|@quylkyn@
+@fruit@|@frút@
+@fruits@|@frutys@
+@gainsay@|@contradýa@
+@gaiters@|@poltrygas@
+@gallant@|@cortes@
+@gambling@|@kessynsyans@
+@gambrel@|@skyren@
+@game@|@gwary@
+@gangrene@|@podrethes@
+@gangway@|@tremenva@
+@garden@|@jardyn, lowarth@
+@gardener@|@lowarther@
+@gardens@|@lowarthow@
+@garfish@|@gerrak@
+@gargoyle@|@boban@
+@garland@|@garlont@
+@garlic@|@kenynen ewynek@
+@garment@|@gwysk@
+@garnish@|@tacla@
+@garrison@|@garnyson@
+@gate@|@yet@
+@gatepost@|@pülyet@
+@gates@|@yettys@
+@gateway@|@yet@
+@gatherer@|@cunteller@
+@gauntlet@|@manek@
+@gazelle@|@gavrewyck@
+@gelform@|@geler@
+@general@|@comen@
+@general (n.)@|@penhembrynkyas@
+@generous@|@hél@
+@genesis@|@dallethfos@
+@gentian@|@gowyles@
+@gentile@|@jentyl@
+@genuine@|@gwýr, gwyryon@
+@geography@|@dorydhyeth@
+@geometry@|@mynso-nýeth, mynsonyeth@
+@Germany@|@Almayn@
+@gesture@|@sýn@
+@ghastly@|@grysyl@
+@ghostly@|@spyrysek@
+@giantess@|@cawres@
+@gigantic@|@festbrás@
+@gigolot@|@glyglot@
+@gilthead@|@sew@
+@girl@|@mowes@
+@girls@|@mowesi@
+@gizzard@|@crombyl@
+@gladden@|@lowenhé@
+@glass@|@gweder, gwédren@
+@glaucous@|@glás@
+@glazier@|@gwedror@
+@gleaner@|@tyskennor, tyskennor@
+@gleeful@|@hüdhyk@
+@glimmer@|@gwanwolowy@
+@glimpse@|@vu@
+@globular@|@cren@
+@glorious@|@glóryes@
+@glossary@|@gerlyfryn@
+@glossier@|@burnysecca@
+@glove@|@manak, manek@
+@gloves@|@manegow@
+@glue@|@glüs@
+@gnashing@|@scrýnva@
+@goat@|@gavar@
+@goatskin@|@gavargen@
+@God bless you!@|@Dursona!@
+@God bless.@|@Bennatew genough.@
+@goddess@|@dewes@
+@godhead@|@dewsys@
+@gold@|@owr@
+@goldfinch@|@owrdynk@
+@goldfish@|@owrbysk@
+@goldleaf@|@gorowra@
+@good@|@da@
+@Good day to you!@|@Durdatha why!@
+@Good day.@|@Deth da.@
+@good evening@|@gorthugher da@
+@Good evening@|@Gorthewer da.@
+@Good morning@|@Myttin da@
+@Good morning.@|@Mytten da.@
+@Good night@|@Nos dha@
+@goodbye@|@farwel@
+@Goodbye (God be with you)@|@Dew genough.@
+@goodness@|@dader@
+@gorgeous@|@splan@
+@gosling@|@godhyk@
+@gossamer@|@gwün@
+@gossiper@|@whethlor@
+@governor@|@yurl@
+@graceful@|@jentyl@
+@gracious@|@grassyes@
+@gradual@|@grathek@
+@grain@|@grünen@
+@grammar@|@grammer@
+@granary@|@ýsla@
+@grandchild@|@floghwyn@
+@granddaughter@|@myrghwyn@
+@grandeur@|@brafter@
+@grandfather@|@syrawyn@
+@grandmother@|@damawyn@
+@grandson@|@mabwyn@
+@granite@|@growynek@
+@grape@|@grappa@
+@grapefruit@|@corunfrut@
+@grapes@|@grappys, gwynrun@
+@grappler@|@gwrynyer@
+@grasping@|@crefny@
+@grass@|@gwels@
+@grating@|@maglen@
+@gravelly@|@growynek@
+@graveyard@|@korflann@
+@gravitas@|@pós@
+@gray@|@lós@
+@green@|@gwer, gwyr@
+@grocer@|@spýcer@
+@guest house@|@gwesty@
+@guinea pig@|@hogh eynda@
+@haddock@|@corvarfus@
+@haggard@|@tewedhak@
+@hair@|@blew@
+@hairless@|@blogh@
+@half@|@hanter@
+@halfhour@|@hanterür@
+@hall@|@hel@
+@halyard@|@róp@
+@ham@|@mordhos hogh@
+@hammer@|@morthol@
+@hammered@|@morthelek@
+@hand@|@dorn, lüf@
+@handbook@|@cowethlyver@
+@handhold@|@domla@
+@handicap@|@let@
+@handmill@|@brow@
+@hands@|@dewluf, lufyow@
+@handsaw@|@hesken@
+@handshake@|@dornla@
+@handsome@|@semly@
+@hanging@|@croglen@
+@hangman@|@crogor@
+@hapless@|@anfüsyk@
+@happier@|@lowenna@
+@happy@|@heudh, lowen@
+@harangue@|@arethya@
+@harbor@|@porth@
+@hard@|@kales@
+@hardened@|@aflythys@
+@hardier@|@hartha@
+@hardness@|@caletter@
+@harmful@|@drók@
+@harmless@|@dyflam@
+@harmony@|@kessenyans@
+@harp@|@telyn@
+@hat@|@hatt, hot@
+@hate@|@kas@
+@hawk@|@falghun@
+@he/she does@|@ev/hi a wra@
+@head@|@pen@
+@headland@|@penntir@
+@heads@|@pennow@
+@health@|@yeghes@
+@hear@|@klywes@
+@heart@|@colon@
+@heaven@|@nev@
+@Heaven@|@Nev@
+@heavenly@|@nevek@
+@heavier@|@possa@
+@hedgehog@|@sort@
+@heedful@|@wár@
+@heedless@|@dyswár, stordy@
+@heighten@|@ughelhé@
+@heinous@|@hegas@
+@heiress@|@éres@
+@helicopter@|@askell-dro@
+@hellish@|@yffarnak@
+@Hello@|@Dydh da@
+@helmsman@|@lewyader@
+@helpful@|@heweres@
+@helpless@|@dyweres@
+@hemlock@|@degysen@
+@hen@|@yar@
+@henbane@|@gahen@
+@herdsman@|@bügel@
+@heretic@|@eretyk@
+@heritage@|@ertach@
+@heroine@|@brasyones@
+@heroism@|@brasyonýeth@
+@herring@|@hernenwyn@
+@hesitate@|@hokkya@
+@hideous@|@hager@
+@high@|@ughel@
+@higher@|@gwartha@
+@highland@|@ugheldyr@
+@highway@|@forth-vür, forthvür@
+@hill@|@bre, bronn@
+@hillock@|@knégh@
+@hills@|@breow, bronnow@
+@hillside@|@rýn@
+@hilltop@|@mujoven@
+@hippopotamus@|@dowrvargh@
+@hireling@|@servontgober@
+@history@|@y-story, ystory@
+@hitherto@|@kenslemmyn@
+@hoe@|@pygal@
+@hogshead@|@hosket@
+@hogwash@|@golghyon@
+@holding@|@possessyon@
+@holiday@|@gól, havy@
+@holiness@|@sansoleth@
+@holly@|@kelyn@
+@hollyhock@|@malowen lowarth@
+@home@|@tré@
+@homeland@|@týthyen@
+@homicide@|@dénlath@
+@homonym@|@keshanow@
+@honey@|@mél@
+@honeydew@|@melgowas@
+@honeyed@|@melek@
+@hopeless@|@dywayntyans@
+@horizon@|@gorwel@
+@hornet@|@whyrnores@
+@hornless@|@mól@
+@horrify@|@scrüthhé@
+@horse@|@margh@
+@horseman@|@marghoger@
+@hospice@|@spyty@
+@hospital@|@clojy, spyty@
+@hostage@|@gwystel@
+@hostile@|@contraryüs@
+@hotel@|@ostel@
+@hothouse@|@tomjy@
+@hotness@|@pothter@
+@hour@|@ür@
+@house@|@chý@
+@How are you?@|@Fatla genough why?@
+@however@|@bytegens@
+@howling@|@úllyans@
+@hulking@|@quallok@
+@humaner@|@kerenjedhecca@
+@humanity@|@dénseth@
+@humanize@|@wharhé@
+@humbler@|@ysella@
+@humidity@|@lýthter@
+@humility@|@hüvelder@
+@humorous@|@fréth@
+@huntsman@|@helghor@
+@hurried@|@hastyf@
+@hurries@|@fystynansow@
+@hurtful@|@drók@
+@husband@|@gour@
+@huskless@|@dyüs@
+@hymnbook@|@hympner@
+@I am going@|@yth esov ow mos@
+@I beseech you@|@my a'th pys@
+@I do@|@my a wra@
+@I hate@|@kas yw genev@
+@I know@|@my a woer...@
+@I know...@|@my a aswonn@
+@I see@|@my a wel@
+@ice cream@|@dehenrewys, rewdehen@
+@iconize@|@ymajhé@
+@identify@|@aswonvoshé, convedhes@
+@identity@|@hevelepter@
+@idiotic@|@goky@
+@idleness@|@üfereth@
+@igneous@|@tánek@
+@ignoble@|@vylen@
+@ill@|@klav@
+@imagine@|@desmygy@
+@imbecile@|@fól@
+@imitate@|@hevelephé@
+@immature@|@dyathves@
+@immerse@|@sedhy@
+@immodest@|@dyveth@
+@immoral@|@camhensek@
+@immortal@|@dyvarow@
+@impetus@|@herdhyans@
+@impious@|@ungrassyes@
+@implant@|@sedhas@
+@impolite@|@dyscortes@
+@imposter@|@juglour@
+@impostor@|@faytour@
+@impotent@|@dyspuyssant@
+@imprint@|@lergh@
+@improper@|@ancoth@
+@impudent@|@dyveth, tónt@
+@impulse@|@herdhyans@
+@impurity@|@most@
+@inanity@|@üfereth@
+@inasmuch@|@par@
+@incense@|@yncens@
+@inch@|@mesva@
+@incident@|@cás@
+@incision@|@trégh@
+@inclined@|@plegadow@
+@incoming@|@dewedhes@
+@increase@|@encressyans@
+@indigent@|@boghojek@
+@indirect@|@gwýüs@
+@indolent@|@dýek@
+@indoor@|@gwaryva@
+@indoors@|@a-bervedh, aberveth@
+@industry@|@dywysygneth@
+@inexpert@|@dycreft@
+@infancy@|@flogholeth@
+@inferior@|@ysella@
+@infernal@|@yffarnak@
+@inferno@|@yffarn@
+@infidel@|@dyscryjyk@
+@information@|@derivadow, kedhlow@
+@informer@|@cuhudhor@
+@infusion@|@tróth@
+@inherit@|@eryta@
+@inhumane@|@hepkerenjedhek@
+@initial@|@kensa@
+@injured@|@brew@
+@ink@|@ynk@
+@inkling@|@tókyn@
+@inlet@|@logh@
+@inn@|@tavern@
+@innkeeper@|@tavernor@
+@innocent@|@gwergh@
+@inquest@|@whythrans@
+@inquiry@|@govynnadow@
+@insanity@|@müscogneth@
+@insects@|@pryves@
+@insecure@|@deantel@
+@inside@|@a-bervedh@
+@insignia@|@arwedhyow@
+@insipid@|@melys@
+@insolent@|@tónt@
+@insomnia@|@anhün@
+@inspire@|@enawyhé@
+@instance@|@sómpel@
+@instant@|@prýjwyth@
+@insular@|@enysek@
+@intense@|@tyn@
+@interest@|@bern, oker@
+@interior@|@perveth@
+@internet@|@kesroesweyth, kesroswyth@
+@interval@|@spás@
+@intrepid@|@dyown@
+@intrigue@|@cast@
+@intrinsic@|@a-berthek@
+@inundate@|@dewraga@
+@invalid@|@cláf@
+@invasion@|@arveth@
+@inventor@|@ynjynor@
+@Ireland@|@Iwerdhon, Ywerdhon@
+@iris@|@elestren@
+@Irish@|@Iwerdhonek@
+@irishman@|@gwydhal@
+@irrigate@|@dowrhé@
+@islamic@|@sarsynek@
+@island@|@enys, ynys@
+@islander@|@enesek@
+@Isle of Mann@|@Manow@
+@isthmus@|@rós@
+@italian@|@ytalek@
+@itching@|@debron@
+@jackdaw@|@chógha@
+@jacket@|@jerkyn@
+@janitor@|@porther@
+@January@|@Mis Genver, mýs-Genver@
+@jar@|@seth, seth, sten, sten (-nnys)@
+@javelin@|@gun@
+@jaw@|@grüth@
+@jealous@|@ódhüs@
+@jealousy@|@avy@
+@jelly@|@cowlesen@
+@jeopardy@|@peryllyans@
+@jewelry@|@tegynnow@
+@jocular@|@lowenek@
+@johnmass@|@golowan@
+@jointed@|@mellek@
+@jointly@|@warbath@
+@jollity@|@lowender@
+@journal@|@jornal@
+@journalist@|@scryfer newodhow@
+@journey@|@hens, výajya@
+@jubilant@|@gormoledhüs@
+@judge@|@juj@
+@judgement@|@dóm@
+@juggler@|@juglour@
+@juice@|@súgan@
+@July@|@Mis Gortheren, mýs-Gortheren@
+@junction@|@kemper@
+@June@|@Mis Metheven, mýs-Even@
+@juniper@|@merewen@
+@jupiter@|@jovyn@
+@justice@|@ewnder@
+@jutting@|@elek@
+@juvenile@|@yowynk@
+@keening@|@drém@
+@keenness@|@lymder@
+@keepsake@|@cófro@
+@kerchief@|@lýen@
+@kernels@|@grün@
+@kestrel@|@cryshok@
+@kettle@|@caltor@
+@key@|@alhwedh, alweth, alwheth@
+@kindness@|@cüfter@
+@kindred@|@neshevyn@
+@kinfolk@|@kenethel@
+@kingdom@|@gwlascor@
+@kingship@|@myghternsys@
+@kinsman@|@neshevyn@
+@kitchen@|@kegin, kegyn@
+@kite@|@sarf-nyja@
+@kite (bird)@|@scowl@
+@knavery@|@sherewynsy@
+@knee@|@glyn@
+@kneecap@|@penglyn@
+@knife@|@collel@
+@knives@|@kellyl@
+@knocked@|@gwyskys@
+@knocking@|@frappyans@
+@knotless@|@dygolm@
+@know   (person@|@aswonn@
+@know (a fact)@|@godhvos@
+@knowing@|@skentyl@
+@knuckle@|@mygorn@
+@labiate@|@gwéusek@
+@labourer@|@gonysyas@
+@lacking@|@hep@
+@ladybird@|@buhyk dew@
+@ladyship@|@arlodheseth@
+@laggard@|@draylyer, hell@
+@lake@|@lyn@
+@lamb@|@ón@
+@lambkin@|@ónyk@
+@lameness@|@clofny@
+@lamp@|@lugarn@
+@lamprey@|@mórnader@
+@land@|@tir@
+@landlady@|@óstes@
+@landlord@|@óst@
+@lands@|@tiryow@
+@landyard@|@les@
+@language@|@yéth, ýeth@
+@languid@|@dyfréth@
+@languish@|@gwanhé@
+@languor@|@gwander@
+@lapwing@|@cornwhylen@
+@larceny@|@ladrans, ladrynsy@
+@large@|@meur@
+@largely@|@efan@
+@lark@|@awhesyth@
+@larva@|@pryf del@
+@larvae@|@pryves del@
+@law@|@lagha@
+@lawn@|@glasyjyon@
+@lawyer@|@dén an lagha@
+@leaf@|@delen@
+@leafless@|@dydhél@
+@leaflet@|@delennyk@
+@leakage@|@sygerans@
+@leaning@|@stüm@
+@leanness@|@cülder@
+@learned@|@lettrys@
+@learner@|@dyscor@
+@learning@|@dyscans@
+@leather@|@lether@
+@lectern@|@letryn@
+@lecture@|@pregoth@
+@lecturer@|@gregowther@
+@leek@|@kenynen@
+@leftover@|@penyn@
+@leg@|@ber, garr@
+@legs@|@diwwarr@
+@leisure@|@spás@
+@lemon@|@lymaval, lýmaval@
+@lemonade@|@dewas lýmaval@
+@lengthy@|@hýr@
+@leniency@|@cüfter@
+@lenient@|@cüf@
+@leopard@|@lewpart@
+@leprous@|@lavrak@
+@letter@|@lyther@
+@lettered@|@letttrys@
+@lettuce@|@letys, letysen@
+@leveler@|@levena@
+@lexicon@|@gérlyver@
+@liberal@|@larj@
+@liberty@|@rythsys@
+@library@|@lyverjy@
+@license@|@cümyas@
+@licorice@|@lycorys@
+@lid@|@gorher@
+@life@|@bywnans@
+@lifeless@|@marow@
+@lifetime@|@bewnans@
+@lifework@|@obereth@
+@lighthouse@|@golowji@
+@likeable@|@caradow@
+@likeness@|@hevelepter@
+@likewise@|@kepar@
+@lilac@|@laylok@
+@lily@|@lylyen@
+@limetree@|@owrwernen@
+@limping@|@cloppek@
+@line@|@linenn@
+@lineage@|@devedhyans, lynyeth@
+@linguist@|@yéthador@
+@linseed@|@haslyn@
+@lion@|@lew@
+@lioness@|@lewes@
+@lip@|@gweus, gwéus@
+@liquour@|@syker@
+@lisping@|@stlaf@
+@listen@|@goslowes@
+@listener@|@goslowyas@
+@literacy@|@lýenek@
+@literate@|@lettrys@
+@little@|@byghan@
+@littler@|@býghanna@
+@lizard@|@pedrevan@
+@lobster@|@legest@
+@locality@|@tyller@
+@location@|@tyllerhéans@
+@lodging@|@ostel@
+@loftier@|@ughella@
+@loiterer@|@crowdrer@
+@lonelier@|@dygowetha@
+@long@|@hir@
+@longing@|@whansek, yeunadow@
+@longish@|@hýryk@
+@loophole@|@tardhell@
+@lopping@|@skethren@
+@lordship@|@arlottes@
+@lorry@|@kert@
+@lose@|@kelli@
+@lost@|@kellys, koll@
+@loud@|@trosek@
+@lounge (sitting-room)@|@esethva@
+@love@|@kara, kara@
+@love (n.)@|@kerensa@
+@loveable@|@caradow@
+@low@|@isel@
+@lowbred@|@yselgenesyk@
+@lower@|@goeles, gwoeles@
+@lowland@|@yseldýr@
+@lowlier@|@hüvella, ysella@
+@lowness@|@yselder@
+@loyalty@|@lelder@
+@lozenge@|@losanj@
+@lucidity@|@clérder@
+@luggage@|@fardel@
+@lugworm@|@kenak@
+@lukewarm@|@mygyl@
+@lullaby@|@hüngan@
+@lunatic@|@lórek@
+@lunch@|@crowst, li@
+@luncheon@|@crowst@
+@lurking@|@yndangel@
+@machine@|@jynwyth@
+@mackerel@|@brýthel@
+@madhouse@|@foljy@
+@madness@|@muscotter@
+@madwoman@|@muscogen@
+@magazine@|@lyver termyn@
+@maggotty@|@contronek@
+@magical@|@hüdol@
+@magician@|@hüder@
+@magnetic@|@tenvenek@
+@mainsea@|@keynvor@
+@maltster@|@brager@
+@man@|@den, dén@
+@manager@|@menystrer@
+@mandible@|@awen@
+@mango@|@mango@
+@manhood@|@dénsys@
+@manifest@|@apert@
+@manifold@|@lýesplék@
+@manikin@|@dényk@
+@mankind@|@mabden@
+@manlier@|@gourylla@
+@mansion@|@plás@
+@manured@|@teylek@
+@Manx@|@Manowek@
+@marauder@|@rafner@
+@March@|@Mis Meurth, mýs-Mérth@
+@mariner@|@marner@
+@maritime@|@mórek@
+@marketer@|@marghajor@
+@marksman@|@medror@
+@martial@|@breselek@
+@masonry@|@menwyth@
+@massacre@|@lathva@
+@massive@|@corfek@
+@mastery@|@maystry@
+@mastiff@|@gavelgy@
+@mastless@|@dywern@
+@mat@|@streyl@
+@material@|@defnyth@
+@maternal@|@mamol@
+@math@|@calcoryeth@
+@matting@|@strayl@
+@mattock@|@pygal@
+@mattress@|@colghes@
+@maturity@|@athvetter@
+@maximum@|@mogha@
+@May@|@Mis Me@
+@mayoress@|@méres@
+@meal@|@prýs@
+@mealtime@|@racca@
+@meaning@|@styr@
+@measure@|@musür, musura@
+@meat@|@kig, kyk@
+@meats@|@kigyow@
+@meddler@|@mellyer@
+@mediate@|@maynhé@
+@mediator@|@mayn@
+@medical@|@medhek@
+@medicine@|@medhekneth@
+@meditate@|@predery@
+@meekness@|@clórder@
+@meeting@|@kesva@
+@melodic@|@melodyes@
+@melon@|@pompyon whek@
+@melting@|@téth@
+@membrane@|@kennen@
+@memorial@|@covath@
+@memory@|@kov@
+@mention@|@kywhethel@
+@merchant@|@marchont@
+@merciful@|@tregeredhys@
+@mercury@|@mergher@
+@meridian@|@hanterdéth@
+@mermaid@|@mórwerghes@
+@merry@|@lowenek@
+@message@|@danvonadow@
+@metallic@|@múnek@
+@metrical@|@metryk@
+@middle@|@kres@
+@midnight@|@ha-nternós, hanternos@
+@midwife@|@gwelyvedhes@
+@milfoil@|@mynfel@
+@military@|@breselek@
+@militia@|@treflu@
+@milk@|@léth@
+@milkmaid@|@léthwrek@
+@milkman@|@léthor@
+@milliner@|@penwyskwrék@
+@mine@|@bal@
+@mineral@|@mún, munak@
+@mines@|@balyow@
+@minework@|@mungleth@
+@minute@|@mynysen@
+@mission@|@cannaty@
+@mistake@|@camgemeryans, myskemeres@
+@mixture@|@kemysk@
+@molasses@|@molas@
+@molehill@|@pylgodhor@
+@momentum@|@hedhyans@
+@monarch@|@myghtern@
+@monastic@|@meneghek@
+@Monday@|@dé-Lün, Dy Lun@
+@money@|@mona@
+@mongrel@|@kemyskrýth@
+@monkey@|@sym@
+@monotony@|@ündoneth@
+@monster@|@üthfyl@
+@month@|@mis, mýs@
+@monthly@|@mýsek@
+@months@|@misyow@
+@moon@|@lór@
+@moor@|@goen, hal@
+@moorings@|@ancarva@
+@moorish@|@sarsynek@
+@moors@|@halow@
+@morality@|@ewnder@
+@moreover@|@ynweth@
+@morning@|@myttin, myttyn@
+@mortise@|@morter@
+@mortuary@|@marowjy@
+@mosquito@|@gwybesen@
+@mother@|@mam@
+@mother-in-law@|@wheger@
+@motherly@|@mamyl@
+@motorway@|@forthvür@
+@mottled@|@brýth@
+@mountain@|@meneth, menydh@
+@mountains@|@menydhyow@
+@mourner@|@kýner@
+@mournful@|@tryst@
+@mourning@|@kykyans@
+@mouse@|@logosen@
+@mouth@|@ganow@
+@movement@|@daromres@
+@muffler@|@gúdhúgen@
+@mugwort@|@losles@
+@mulberry@|@moren@
+@mullein@|@gwlányk@
+@multiple@|@lýesplék@
+@multiply@|@lyeshé@
+@mumbler@|@stlaf@
+@mumbling@|@stlaf@
+@murderer@|@moldrer@
+@muscle@|@keher@
+@muscular@|@keherek@
+@mushroom@|@scavel-cronek@
+@musical@|@ýlowek@
+@musician@|@músy-cyen, ýlewyth@
+@mussel@|@mesclen@
+@mustard@|@kedhow@
+@mutation@|@chanj@
+@mutton@|@kýk-davas@
+@mystery@|@myster@
+@mystify@|@müskegy@
+@mythical@|@mythek@
+@nameless@|@dyhanow@
+@napkin@|@lýen@
+@narrator@|@derývador@
+@national@|@gwlasek@
+@natural@|@genyjyk@
+@nature@|@natur@
+@naughty@|@drók@
+@nautical@|@mórek@
+@near@|@ogas@
+@nearest@|@nessa@
+@nearness@|@ogaster@
+@neatness@|@glánythter@
+@neck@|@conna@
+@necklace@|@kelghen@
+@necklet@|@delk@
+@necktie@|@gúdhúgen@
+@needful@|@bysy@
+@needle@|@najeth@
+@negative@|@negedhek, negeth@
+@neglect@|@scul@
+@neighbor@|@kentrevak@
+@neighing@|@gryghýas@
+@neither@|@nanýl@
+@nephew@|@noy@
+@nervous@|@ownek@
+@nest@|@nyth@
+@network@|@roswythhé@
+@new@|@nowydh@
+@newness@|@nowethsys@
+@nickname@|@leshanow@
+@niece@|@nýth@
+@night@|@nos, nós@
+@nights@|@nosow@
+@nine@|@naw@
+@nineteen@|@nawnjék@
+@ninety@|@dek ha peswarügans@
+@nobility@|@bryntynsys, pensevygeth@
+@nobleman@|@pensevyk@
+@noisome@|@dysawor@
+@nonsense@|@flows@
+@noodles@|@noudels@
+@noon@|@hanterdéth@
+@northern@|@cléth@
+@nose@|@troen@
+@nose (nostrils)@|@frygow@
+@nose (snout)@|@tron@
+@noses@|@troenyow@
+@nostril@|@frýk@
+@notably@|@specyal@
+@notebook@|@lyver notyansow@
+@nothing@|@travyth@
+@novelty@|@coyntys@
+@November@|@Mis Du, mýs-Du@
+@nowadays@|@hedhyuynjeth@
+@noxious@|@anyagh@
+@nucleus@|@sprüsen@
+@nuisance@|@pla@
+@number@|@nyver@
+@numeral@|@nyveren, nyveren@
+@nurse@|@medhyores@
+@nursery@|@floghva@
+@nutshell@|@plysken@
+@oak@|@derow@
+@oat@|@kerghen@
+@oatland@|@kerghtyr@
+@oatmeal@|@brunyon@
+@obdurate@|@aflythys@
+@obedient@|@gostyth@
+@obelisk@|@hyrven@
+@oblation@|@oblasyon@
+@obliging@|@plegadow@
+@oblivion@|@ancofva@
+@obscene@|@lyk@
+@obscure@|@tewl@
+@observer@|@aspýer@
+@obsolete@|@hén@
+@obstacle@|@let@
+@obvious@|@apert@
+@occasion@|@acheson@
+@occupant@|@annedhyas@
+@occupied@|@bysy@
+@occupier@|@annedhyas@
+@ocean@|@keynvor, mór brás@
+@oceanic@|@keynvórek, mórek@
+@October@|@Mis Hedra, mýs-Hedra@
+@octopus@|@collel-lésa@
+@odorous@|@flérys@
+@offence@|@peghas@
+@offender@|@péghador@
+@offering@|@offryn@
+@office@|@soedhva, sothva@
+@officer@|@sodhak@
+@offices@|@soedhvaow@
+@official@|@offysyal@
+@oil@|@oyl@
+@ointment@|@üras@
+@old@|@koth@
+@olive@|@olyf@
+@omission@|@gwall@
+@one@|@onen, onen (m), un (f)@
+@one day@|@unn jydh@
+@one hundred@|@cans@
+@one million@|@mylvyl@
+@onion@|@onyonen@
+@openess@|@rythsys@
+@opening@|@anter@
+@opera@|@gwary-cán@
+@operator@|@oberor@
+@opinion@|@tybyans@
+@oppoese@|@contraryüs@
+@opponent@|@contrary@
+@optional@|@dewysek@
+@opulence@|@rychys@
+@opulent@|@rych@
+@orange@|@owraval, rüthvelen@
+@oration@|@areth@
+@orbital@|@kelghtrohek@
+@orchard@|@aval-lón, avallón@
+@orderly@|@kempen@
+@ordinary@|@sempel@
+@ordnance@|@ordnans@
+@organic@|@organek@
+@organism@|@organeth@
+@orifice@|@mýn@
+@original@|@dallethfosek@
+@orrnament@|@tegen@
+@ostrich@|@strüs@
+@otter@|@dowrgý@
+@outbreak@|@tarth@
+@outcast@|@gal@
+@outcasts@|@galow@
+@outcome@|@deweth@
+@outdoor@|@plén-an-gwary@
+@outhouse@|@skyber@
+@outline@|@form, fürf, lynenna@
+@outlook@|@golovka@
+@outright@|@hepnam@
+@outside@|@avés, tu a-vés@
+@oval@|@hýrgren@
+@oven@|@forn@
+@overcast@|@comolek@
+@overcoat@|@pows@
+@overflow@|@fenna@
+@overfond@|@serghak@
+@overfull@|@gorlün@
+@overlord@|@gwathevyas@
+@overseas@|@tramér@
+@oxymoron@|@trüs@
+@oyster@|@estren@
+@pacific@|@cosel@
+@package@|@fardel@
+@pageant@|@pajont@
+@painful@|@ankensy@
+@painless@|@dyalar@
+@painter@|@lywor@
+@painting@|@lywans@
+@palisade@|@pülgé@
+@pamphlet@|@lyfryk@
+@pancake@|@crampethen@
+@pannier@|@cowel@
+@pantry@|@talgel@
+@paper@|@pápaer@
+@parable@|@parabyl@
+@paragon@|@perfythter@
+@parallel@|@keslýnek@
+@parasite@|@oleker@
+@parched@|@cras@
+@parents@|@kerens@
+@parish@|@plyw@
+@parsley@|@persylen@
+@parsnip@|@panesen@
+@partaker@|@kevrennek@
+@particle@|@tam@
+@parting@|@dybarth@
+@partisan@|@holyer@
+@partner@|@compar@
+@passable@|@heforth@
+@passage@|@tremenva@
+@passion@|@passyon@
+@passive@|@godhevüs@
+@passport@|@cumyas porth@
+@pastime@|@gwary@
+@pastry@|@pást@
+@pasture@|@porwels@
+@pasty@|@pasti@
+@paternal@|@tasek@
+@pathetic@|@pytethüs@
+@patience@|@perthyans@
+@patient@|@cláf@
+@patriot@|@gwlascarer@
+@patronal@|@tasek@
+@pea@|@pýsen@
+@peace@|@kres@
+@peach@|@aval gwlanek@
+@peacock@|@payon@
+@pear@|@peren@
+@peatbog@|@towarghek@
+@peculiar@|@coynt@
+@peep@|@gyki@
+@pen@|@plüven, pluvenn@
+@penalty@|@pewas@
+@penance@|@hyrbenys@
+@pencil@|@pyncel@
+@penguin@|@beraskel, pengwyn@
+@penis@|@kalgh@
+@penitent@|@ankenek@
+@penknife@|@kellyllyk@
+@pension@|@pensyon@
+@pensive@|@tryst@
+@people@|@pobel@
+@pepper@|@püber@
+@perfect@|@perfyth@
+@perhaps@|@martesen@
+@perjury@|@gowly@
+@person@|@person@
+@personal@|@prýva@
+@pervert@|@trüshé@
+@phantom@|@tarosvan@
+@picture@|@skeusenn@
+@pie@|@pasty@
+@piebald@|@spletyar@
+@pierced@|@gwenys@
+@piercing@|@gwan@
+@pig@|@hogh@
+@pigs@|@hoghes@
+@pilchard@|@hemen@
+@pillow@|@plüvak@
+@pilot@|@lewyer@
+@pinafore@|@raglen@
+@pinetree@|@pýnbren@
+@pink@|@gwynrüth, ruthwyn@
+@pinnacle@|@bytakyl@
+@pint@|@pinta@
+@pirate@|@morlader@
+@pitcher@|@pycher@
+@piteous@|@trúethek@
+@pizza@|@pytsa@
+@place)@|@aswonn@
+@plainly@|@efan@
+@plate@|@plata@
+@plateau@|@gwastattyr@
+@platform@|@soler@
+@play@|@gwari@
+@please@|@marpleg@
+@pliers@|@gevell bean@
+@plummet@|@plemmyk@
+@plunder@|@pylla@
+@plunger@|@sedhor@
+@pockmark@|@pocca@
+@poetess@|@bardhes@
+@pointed@|@lym@
+@polecat@|@yewgen@
+@polished@|@lenter@
+@politic@|@jentylla@
+@politics@|@gwlasegeth@
+@pollack@|@dojel@
+@pompous@|@gothys@
+@poorness@|@boghosogneth@
+@populace@|@gweryn@
+@pork@|@kýk mogh@
+@portent@|@marthüsy@
+@portrait@|@hevelep@
+@possible@|@possybyl@
+@possibly@|@martesen@
+@post office@|@lytherva@
+@postman@|@lytherwas@
+@posture@|@sáf@
+@potato@|@patata@
+@potency@|@crefter@
+@potsherd@|@crym@
+@pound@|@peuns@
+@powerful@|@gallosek@
+@practice@|@usadow@
+@prairie@|@gwanethtyr@
+@pray@|@pysi@
+@preacher@|@pregowther@
+@precinct@|@clós@
+@precious@|@drüth@
+@precise@|@dyblans@
+@preface@|@raglavar@
+@prelate@|@perlet@
+@prepared@|@parys@
+@preparer@|@darbarer@
+@presence@|@golok@
+@present@|@ro@
+@preserve@|@kyfyth@
+@pressure@|@ynnýadow@
+@prestige@|@roweth@
+@pretence@|@fayntys@
+@pretend@|@dolós@
+@pretext@|@cavanscüs@
+@prettier@|@tecca@
+@prevent@|@gwytha@
+@previous@|@kens@
+@pricked@|@gwenys@
+@prickle@|@drén@
+@prickly@|@drenak@
+@primary@|@kensa@
+@primrose@|@bryallen@
+@princess@|@pensevyges@
+@printer@|@pryntyer@
+@printing@|@pryntyans@
+@prioress@|@prýores@
+@prisoner@|@prysner@
+@privacy@|@pryvetter@
+@private@|@prýva@
+@privity@|@pryveta@
+@probable@|@gwýrhaval@
+@probity@|@léouta@
+@problem@|@cüth@
+@proceeds@|@gwayn@
+@prodigy@|@marthüs@
+@produce@|@ascor@
+@profane@|@ansans@
+@profile@|@profyl@
+@profound@|@down@
+@progeny@|@agh@
+@program@|@program@
+@progress@|@spéda@
+@project@|@towl@
+@promise@|@dedhewadow@
+@promptly@|@a-boynt@
+@pronoun@|@raghanow@
+@properly@|@ewn@
+@property@|@pyth@
+@prophecy@|@profüsans@
+@prophet@|@profüs@
+@proposal@|@kynnyk@
+@prosaic@|@dyawen@
+@prospect@|@gwél@
+@protect@|@dyffres@
+@pruning@|@gwreken@
+@pub@|@diwotti@
+@puberty@|@kethorýeth@
+@pudding@|@pudyn@
+@puissant@|@gallosek@
+@pull@|@tenna@
+@pumpkin@|@pompyon@
+@punctual@|@a-boynt@
+@puncture@|@tellyk@
+@pungency@|@wherowder@
+@pungent@|@wherow@
+@punitive@|@kessydhyansek@
+@puppet@|@popet@
+@purchase@|@prenans@
+@purple@|@purpur@
+@purport@|@styr@
+@purpose@|@mynnas@
+@pursuer@|@helgyas@
+@pursuit@|@helgh@
+@purulent@|@podrethek@
+@push@|@herdhya@
+@pyramid@|@pykern@
+@quality@|@gnas@
+@quandary@|@tranjyak@
+@quantity@|@keheseth@
+@quarrel@|@tryn@
+@quarry@|@moengleudh@
+@quarter@|@quartron@
+@quartet@|@geswarden@
+@queen@|@myternes@
+@question@|@govynnadow@
+@quicker@|@üskyssa@
+@quickly@|@üskys@
+@quiet@|@hebask, kosel@
+@quieten@|@spavenhé@
+@quietly@|@cosel@
+@rabbit@|@conyn@
+@radiance@|@golewder@
+@railing@|@rayl@
+@railway@|@forthhorn, hyns-horn@
+@raiment@|@dyllas@
+@rainbow@|@gwarak an glaw@
+@raisin@|@fygesen an howl@
+@raising@|@derevyans@
+@rambler@|@rósyer@
+@rampart@|@fós@
+@rapider@|@üskyssa@
+@rapping@|@frappyans@
+@rapture@|@rafsyans@
+@rascally@|@cam@
+@rasp (tool)@|@lyf@
+@raspberries@|@mor ruth@
+@raspberry@|@avanen@
+@rat@|@logosen vras@
+@ravenous@|@dyvotterek@
+@rawness@|@cryfter@
+@reaction@|@faryans@
+@readier@|@parüssa@
+@realise@|@aswonvos@
+@reality@|@gwyryoneth@
+@realize@|@convedhes@
+@reasons@|@skyla@
+@rebirth@|@daskenesygeth@
+@rebuyer@|@dasprenyas@
+@receipt@|@fangyans@
+@recently@|@degensow@
+@reckless@|@dyswár@
+@recluse@|@ancar@
+@recorder@|@recorda@
+@recovery@|@restoryta@
+@rectangle@|@peswarcornek@
+@rectory@|@pronterjy@
+@recusant@|@negedhys@
+@red@|@rudh, ruth, rüth@
+@red wine@|@gwin rudh@
+@reddish@|@rüdhyk@
+@redeemer@|@dasprenyas@
+@redress@|@ewnans@
+@redwing@|@sevellak@
+@reedbog@|@cors@
+@referee@|@brüsyas@
+@refined@|@fýn@
+@refrain@|@penpusorn@
+@refugee@|@fóesyk@
+@refusal@|@nagh@
+@refuser@|@negedhys@
+@regiment@|@cáslu@
+@register@|@record@
+@registry@|@cóflyverva@
+@regular@|@ewn@
+@related@|@ünwós@
+@relation@|@cothman@
+@relative@|@tüs@
+@reliance@|@kyfyans@
+@reliant@|@fydhyansek@
+@relieve@|@dyffres@
+@religion@|@cryjyans@
+@remedial@|@ylyek@
+@reminder@|@cofhéans@
+@remnant@|@soras@
+@remorse@|@edrek@
+@removal@|@remosyon@
+@renewal@|@nowethhéans@
+@replete@|@lün@
+@report@|@derivas@
+@reprieve@|@spás@
+@reproach@|@kereth@
+@reproof@|@repref@
+@reptile@|@gorthfyl@
+@republic@|@republyk@
+@request@|@gorholeth@
+@requital@|@dýal@
+@research@|@studhyans@
+@resemble@|@favera@
+@reserve@|@omwytha@
+@resident@|@tryger@
+@residue@|@remenant@
+@resolute@|@stowt@
+@resource@|@devýs@
+@respect@|@réouta@
+@response@|@gorthyp@
+@restaurant@|@boesti, bosty@
+@retailer@|@gwycor@
+@retainer@|@omajer@
+@retinue@|@mény@
+@retreat@|@kylden@
+@reunion@|@dasünyans@
+@reunite@|@dasünya@
+@revelry@|@gólyans@
+@revenge@|@dýal@
+@revenue@|@rent@
+@reverend@|@revrond@
+@reversal@|@trebüchyans@
+@reverse@|@gorthenep@
+@revival@|@dasserghyans@
+@rhetoric@|@retoryk@
+@rhubarb@|@trenkles@
+@ribaldry@|@racca@
+@rice@|@rys@
+@rich@|@rych@
+@rickets@|@léghow@
+@rickety@|@brottel@
+@riddance@|@delyfrans@
+@riddled@|@tellys@
+@ridicule@|@scorn@
+@rightful@|@gwýr@
+@rigidity@|@serthter@
+@rigorous@|@strayt@
+@rioting@|@gustlans@
+@ripeness@|@athvetter@
+@rippled@|@crýgh@
+@rivalry@|@kestrýf@
+@river@|@avon, glann@
+@rivers@|@avonyow@
+@rivulet@|@gover@
+@road@|@fordh, forth@
+@roads@|@fordhow@
+@roaring@|@whyflyn@
+@robbery@|@ladrans@
+@robin@|@rüdhak@
+@rock@|@karrek@
+@roebuck@|@yorgh@
+@romance@|@aneth@
+@roof@|@to@
+@roofless@|@dydo@
+@rooftree@|@nenbren@
+@room@|@róm, stevell@
+@rosehip@|@agrowsen@
+@rostrum@|@arethva@
+@rougher@|@garwa@
+@royalty@|@réouta@
+@rubbish@|@plosethes@
+@ruffian@|@lothen@
+@rug@|@strayl@
+@ruggeder@|@garwa@
+@ruler@|@lynenner@
+@rumbling@|@gromyans@
+@rupture@|@tor@
+@ruthless@|@dydrüeth@
+@sad@|@trist, truedhek@
+@saddler@|@dybror@
+@sadness@|@trystans@
+@saffron@|@safron@
+@sagacity@|@dóthter@
+@sailor@|@marner@
+@saintly@|@grassyes@
+@saleable@|@hewerth@
+@salesman@|@gwerther@
+@salmon@|@éok@
+@salt@|@holan@
+@saltless@|@dyholan@
+@saltmeat@|@kyksal@
+@saltwater@|@gavar-mór@
+@salvage@|@salvay@
+@sanction@|@cümyas@
+@sanctity@|@sansoleth@
+@sand@|@tewas, tewes@
+@sandal@|@sandal@
+@sandhill@|@towan@
+@sapless@|@cryn@
+@sapling@|@glaswedhen@
+@sapwood@|@gwynyn@
+@saracen@|@sarsyn@
+@satchel@|@jypser@
+@satiety@|@gwalgh@
+@Saturday@|@dé-Sadorn, Dy Sadorn@
+@sauce@|@sows@
+@saucer@|@scala@
+@sausage@|@selsygen@
+@sautour@|@psalter@
+@savannah@|@cryndyr@
+@savings@|@erbys@
+@savior@|@sylwyas@
+@savory@|@saworek@
+@saw (tool)@|@hesken@
+@scabbard@|@gón@
+@scaffold@|@soler@
+@scandal@|@bysmér@
+@scarcely@|@scant@
+@scarf@|@gudhugen@
+@scarlet@|@cough@
+@scarped@|@serth@
+@scarred@|@trogh@
+@scatter@|@kescar@
+@scenario@|@golokva@
+@scenery@|@golokva@
+@scented@|@saworys@
+@sceptic@|@dyscryjyk@
+@sceptism@|@dyscryjyans@
+@sceptre@|@gwelenryal@
+@scholar@|@scoler@
+@school@|@scól, skol@
+@schools@|@skolyow@
+@science@|@scýens@
+@scissors@|@gweljow, gwelsow býghan@
+@scolding@|@cosk@
+@Scotland@|@Alban@
+@Scottish@|@Albanek@
+@scourge@|@scübylen@
+@scraper@|@cravell@
+@scratch@|@cravas@
+@screech@|@üjüs@
+@screwdriver@|@goror-screw@
+@scruple@|@hokkyans@
+@scrutiny@|@whythrans@
+@scuffle@|@omdewlel@
+@scullion@|@gwaskegyn@
+@sculptor@|@gravyor@
+@scumbag@|@harlotwas@
+@sea@|@mor@
+@seabord@|@mórrep@
+@seagull@|@gülla@
+@seahorse@|@mórvargh@
+@seashore@|@tréth@
+@seasick@|@mórglaf@
+@seaside@|@mórrep, morryb@
+@season@|@séson@
+@seaweed@|@goumman@
+@secrecy@|@keladow@
+@secretary@|@scryvynyas@
+@section@|@trogh@
+@secular@|@lék@
+@securely@|@dyogel@
+@security@|@sawder@
+@sediment@|@godhas@
+@seducer@|@tullor@
+@seedling@|@plansyk@
+@seething@|@bryjyon@
+@seizure@|@shora@
+@selfish@|@crefny@
+@selfless@|@dygrefny@
+@seminary@|@scól@
+@senator@|@senedhor@
+@sensible@|@dóth@
+@sentence@|@brüs@
+@sentinel@|@golyer@
+@separate@|@dyblans@
+@September@|@Mis Gwynngala, mýs-Gwyngala@
+@serenity@|@calmynsy@
+@seven@|@seyth@
+@seventeen@|@seytek@
+@shady bush@|@skeuswydhenn@
+@shawl@|@whytel@
+@sheep@|@davas@
+@shellfish@|@bós-tryg@
+@ship@|@gorhel, gorhol@
+@shirt@|@crýs, krys@
+@shirts@|@krysyow@
+@shoe@|@eskis, eskys, eskys@
+@shoes@|@eskisyow@
+@shop@|@gwerthji, gwythjy@
+@shorts@|@lavrek berr@
+@shoulder@|@scóth@
+@shovel@|@pál@
+@shower@|@cwas@
+@shrimp@|@býbyn-búbyn@
+@shrub@|@prysken@
+@sink@|@sedhy@
+@sister@|@whór@
+@sister-in-law@|@whór dré lagha@
+@six@|@whégh@
+@sixteen@|@whetek@
+@sixty@|@trýügans@
+@skin@|@croghen@
+@skirt@|@heves, losten@
+@sky@|@ebren@
+@snake@|@gorthfyl@
+@soap@|@seban@
+@sock@|@pawgen@
+@sofa@|@growethva@
+@son@|@máp@
+@song@|@cán@
+@son-in-law@|@düf@
+@soprano@|@trebyl@
+@sparrow@|@golvan@
+@spice@|@spýsa@
+@spider@|@kefnysen@
+@spinach@|@spynach@
+@spoon@|@lo@
+@spring@|@gwaynten@
+@square@|@pedrak@
+@stag@|@carow@
+@star@|@steren@
+@starfish@|@pymp-býs@
+@station@|@gorsaf@
+@steak@|@golyth bowyn@
+@stocking@|@loder@
+@stockings@|@lodrigow@
+@stomach@|@cowl@
+@strawberries@|@syvy@
+@strawberry@|@syvyen@
+@street@|@strét@
+@student@|@studhyer@
+@substance@|@substans@
+@subway@|@keyforth@
+@sugar@|@sugra@
+@suit@|@desedha@
+@summer@|@háf@
+@sun@|@howl@
+@Sunday@|@dé-Sül@
+@sunrise@|@howldrehevel@
+@sunset@|@howlsedhas@
+@suzerain@|@gwarthevyas@
+@sweeper@|@scüber@
+@sweet corn@|@ys wheg@
+@sweeter@|@whecca@
+@sweetish@|@melys@
+@swelling@|@whethfyans@
+@swiftly@|@snell@
+@swimmer@|@nyjer@
+@swindle@|@fayntys@
+@swindler@|@faytour@
+@syllabic@|@syllabenek@
+@syllable@|@geren@
+@symbolic@|@arwedhek@
+@symmetry@|@kemusür@
+@sympathy@|@kescodhevyans, tregereth@
+@symphony@|@kessenyans@
+@symptom@|@tókyn@
+@synagogue@|@synaga@
+@synonym@|@leshanow@
+@table@|@bord, mos@
+@tablecloth@|@lýen mós@
+@taciturn@|@tawesek@
+@tacking@|@craf@
+@tactful@|@dóth@
+@tadpole@|@pendu@
+@talk@|@kewsel@
+@tall@|@hir@
+@tameness@|@doveth@
+@tankard@|@crüskyn@
+@tapestry@|@strayl@
+@tart@|@tart@
+@tattered@|@fregys@
+@tattler@|@whethlor@
+@tavern@|@diwotti, tavern@
+@taxation@|@tollans@
+@taxi@|@tollgar@
+@tea@|@té@
+@tea kettle@|@chek-té@
+@teacher@|@dyscajor@
+@teaching@|@dyscas@
+@teapot@|@tebot@
+@tearful@|@dagrowek@
+@teddybear@|@tedy-ors@
+@tedious@|@hýr@
+@telegram@|@pellscryven@
+@telephone@|@pellgowser@
+@television@|@pellwolok@
+@temerity@|@bólder@
+@tempest@|@enawel@
+@template@|@scantlyn@
+@ten@|@dék@
+@tenancy@|@gobrenans@
+@tendency@|@stüm@
+@tenfold@|@dékplék@
+@tennis@|@tennys@
+@tension@|@tynder@
+@tent@|@tylda@
+@tenth@|@dégves@
+@tenuous@|@gwan@
+@terminus@|@penhens@
+@terrace@|@terras@
+@terrible@|@üthek@
+@terrier@|@dorgy@
+@testicles@|@kell@
+@texture@|@gwýas@
+@thank you@|@meur ras@
+@the@|@an@
+@the farmer@|@an diogyon@
+@the girl@|@an vowes@
+@the people@|@an bobel@
+@the website@|@an wiasva@
+@theater@|@gwaryva, plén-an-gwary@
+@theatre@|@gwariva@
+@thereby@|@dredhy@
+@therein@|@ynno@
+@thereof@|@anodho@
+@thereon@|@warnodho@
+@they do@|@i a wra@
+@thickset@|@pryskel@
+@thimble@|@bysken@
+@thinness@|@tanowder@
+@thirteen@|@tredhek@
+@thirtieth@|@degveswarnügans@
+@thirty@|@dék ha tryügans@
+@thistle@|@ascallen, eythynen@
+@thistly@|@ascallek@
+@thorn@|@drénnen@
+@thorough@|@dýen@
+@thought@|@tybys@
+@thread@|@nujyen@
+@three@|@trý@
+@thresher@|@drushyer@
+@thrifty@|@sowyn@
+@thriving@|@sowyn@
+@throat@|@lonk@
+@throttle@|@taga@
+@through@|@dré@
+@thumb@|@býs brás@
+@thunder@|@taran@
+@Thursday@|@dé-Yow, Dy Yow@
+@tide@|@lanwes mór@
+@tightly@|@fast@
+@time@|@prýs@
+@timely@|@a-brys@
+@tin@|@sten@
+@tiny@|@munys@
+@tiresome@|@dyflas@
+@titmouse@|@penglow@
+@to abdicate@|@dascor@
+@to abolish@|@dyl a@
+@to absolve@|@assoylya@
+@to abstain@|@sparya@
+@to account@|@settya@
+@to accredit@|@kemmynna@
+@to achieve@|@fynsya@
+@to acquaint@|@omaswonvos@
+@to acquire@|@fangya@
+@to add@|@keworra@
+@to address@|@kewsel@
+@to admonish@|@kesky@
+@to advocate@|@pledya@
+@to affront@|@arveth@
+@to aggrieve@|@grevya@
+@to agree@|@assentya@
+@to allow@|@gasa@
+@to analyse@|@dygmeysky@
+@to analyze@|@dygemysky@
+@to annotate@|@avysya@
+@to announce@|@n tya@
+@to answer@|@gortheby@
+@to applaud@|@gormel@
+@to appoint@|@dýghtya@
+@to approach@|@néshé@
+@to approve@|@commendya@
+@to archive@|@cofscryfvah, cofscryfvahé@
+@to arrange@|@araya@
+@to ascribe@|@ascryfa@
+@to aspirate@|@anella@
+@to assenble@|@cuntell@
+@to assuage@|@sewbjya@
+@to astonish@|@sawthanas@
+@to astound@|@sawthanas@
+@to attempt@|@assaya@
+@to bake@|@pobas@
+@to balance@|@omhorth@
+@to bandage@|@maylya@
+@to baptize@|@byjydhya, bysydhya@
+@to bargain@|@bargenya@
+@to bathe@|@badhya@
+@to be@|@bós@
+@to be alive@|@bywa@
+@to beguile@|@tulla@
+@to bejewel@|@tegenh@
+@to belabour@|@stewanny@
+@to believe@|@crysy@
+@to bequeath@|@kemmynna@
+@to bereave@|@omdhevasy@
+@to beseech@|@conjorya@
+@to besiege@|@omsettya@
+@to besmirch@|@plosegy@
+@to bespeak@|@ordena@
+@to betroth@|@demedhy@
+@to bewilder@|@sawthanas@
+@to bewitch@|@pystrýa@
+@to bicycle@|@deurosa@
+@to blacken@|@duh@
+@to blemish@|@deffola@
+@to blossom@|@blejyowa@
+@to bluster@|@bragya@
+@to boil@|@bryjyon@
+@to bolster@|@crefhé@
+@to brandish@|@swaysya@
+@to breathe@|@anella, whetha@
+@to build@|@byldya@
+@to burnish@|@burnsya@
+@to buy@|@prena@
+@to call@|@gelwel@
+@to censure@|@blamya@
+@to certify@|@desta@
+@to charter@|@chartourh@
+@to chastise@|@keredhy@
+@to chatter@|@cryghylly@
+@to cherish@|@chersya@
+@to christen@|@crystyonhé@
+@to chucke@|@wherthyn@
+@to clamber@|@crambla@
+@to clarify@|@splanhé@
+@to classify@|@classya@
+@to clatter@|@clattra@
+@to clean@|@glan@
+@to cleanse@|@scúrya@
+@to climb@|@crambla@
+@to cocnduct@|@gonvernya@
+@to cohabit@|@kesvewa@
+@to collapse@|@fyllel@
+@to collate@|@kescorra@
+@to collect@|@cuntell@
+@to collide@|@omdheghesy@
+@to colonize@|@colonýsa@
+@to comb@|@crýba@
+@to comfort@|@confortya@
+@to command@|@gorhemmyn@
+@to commence@|@dalleth@
+@to commend@|@kemmynna@
+@to comment@|@campolla@
+@to compare@|@comparya, kevelvalhé@
+@to compile@|@cuntell@
+@to complain@|@crothvolas@
+@to compose@|@gwrüthyl@
+@to compress@|@strotha@
+@to comprise@|@comprehendya@
+@to compute@|@amontya@
+@to conceal@|@cüdha@
+@to concede@|@amyttya@
+@to conceive@|@concevya@
+@to concoct@|@trotha@
+@to condole@|@kescalary@
+@to conduct@|@gedya@
+@to confess@|@avowa@
+@to confide@|@fydhya@
+@to confine@|@strotha@
+@to confirm@|@afydhya@
+@to conform@|@kesomformya@
+@to confound@|@confundya@
+@to confront@|@apposya@
+@to confuse@|@amaya@
+@to confute@|@convyctya@
+@to conjure@|@conjorya@
+@to connect@|@junnya@
+@to conquer@|@conquerrya@
+@to consent@|@assentya@
+@to conserve@|@gwytha@
+@to consider@|@synsy@
+@to consign@|@kemmynna@
+@to consist@|@synsy@
+@to console@|@confortya@
+@to consort@|@cowethya@
+@to conspire@|@brasy@
+@to consume@|@consúmya, lesky@
+@to contact@|@tava@
+@to contain@|@contaynya, synsy@
+@to contend@|@stryvya@
+@to content@|@contentya@
+@to continue@|@pésya@
+@to contort@|@omgamma@
+@to contract@|@omdenna@
+@to contrast@|@contrastya@
+@to contrive@|@framya@
+@to control@|@rowtya@
+@to convene@|@cuntell@
+@to converse@|@keskewsel@
+@to convict@|@convyctya@
+@to convince@|@dyogelh, dyogelhé@
+@to convulse@|@omgamma@
+@to cook@|@parüsy@
+@to copy@|@dasscryfa@
+@to correct@|@ewna@
+@to corrode@|@cusca@
+@to count@|@comptya@
+@to counter@|@gortheby@
+@to crumble@|@browsy@
+@to curtail@|@berh, berhé@
+@to dance@|@donsya@
+@to deceive@|@tulla@
+@to declaim@|@arethya@
+@to decline@|@dyeskynna, dyfygyans@
+@to decorate@|@tacla@
+@to decrease@|@slakya@
+@to dedicate@|@sacra@
+@to defecate@|@caca@
+@to defraud@|@dyssaytya@
+@to deliver@|@delyfra@
+@to deplete@|@gwakh@
+@to deplore@|@mornya@
+@to deposit@|@gorra@
+@to depress@|@yselhé@
+@to deprive@|@dyvotterh@
+@to derange@|@várýa@
+@to descend@|@dyeskynna@
+@to describe@|@descrýfa@
+@to deserve@|@dyndyl@
+@to despair@|@dyspérya@
+@to despatch@|@gorra@
+@to destroy@|@dystrewy@
+@to dethrone@|@dydrónhé@
+@to detonate@|@tarenna@
+@to detract@|@remüvya@
+@to deviate@|@gwýa@
+@to dictate@|@dyctatya@
+@to diminish@|@lehé, tanowhé@
+@to disable@|@evredhy@
+@to disagree@|@stryvya@
+@to disavow@|@nagha@
+@to disburse@|@pé@
+@to disclaim@|@nagha@
+@to discount@|@dyscontya@
+@to discover@|@dyskevera@
+@to discuss@|@kywhethla@
+@to disdain@|@dysdaynya@
+@to disguise@|@sotla@
+@to disgust@|@dyflasa@
+@to disinter@|@dysencledhyes@
+@to disjoin@|@dygevelsy@
+@to disjoint@|@dygevelsy@
+@to dislike@|@casa@
+@to dismiss@|@pellhé@
+@to dismount@|@dyeskynna@
+@to disobey@|@dysobaya@
+@to dispatch@|@danvon@
+@to disperse@|@dyberth@
+@to displace@|@dyléa@
+@to display@|@dysplétya@
+@to dispute@|@argya@
+@to dissect@|@dyvynya@
+@to dissolve@|@tedha@
+@to distend@|@dystenna@
+@to distill@|@devera@
+@to distort@|@stümma@
+@to distract@|@amaya@
+@to distrust@|@mystrestya@
+@to disturb@|@tropla@
+@to disunite@|@dygelmy@
+@to diverge@|@dyberth@
+@to divide@|@dyberth@
+@to divorce@|@dydhemedhy@
+@to do@|@gül@
+@to dominate@|@gwarthevya@
+@to draw@|@delynya@
+@to dream@|@hünrosa@
+@to dress@|@gwiska@
+@to drink@|@eva@
+@to drive@|@dryvya, dyvya@
+@to earn@|@dyndyl, dyndyl@
+@to eat@|@dybri, dybry@
+@to educate@|@dysky@
+@to elevate@|@exaltya@
+@to embitter@|@wherowh@
+@to embolden@|@colonnekh@
+@to emigrate@|@dyvroa@
+@to employ@|@arfeth@
+@to emulate@|@heveleby@
+@to encroach@|@omherdhya@
+@to encumber@|@ancombra@
+@to endanger@|@peryllya@
+@to endorse@|@keynscryfa@
+@to engorge@|@lenky@
+@to engrave@|@gravya@
+@to enjoy@|@omlowenhe@
+@to enquire@|@govyn@
+@to ensnare@|@bagha@
+@to entangle@|@magly@
+@to entreat@|@pysy@
+@to entrust@|@comendya@
+@to entwine@|@platya@
+@to envelop@|@maylya@
+@to envisage@|@gwelesh@
+@to espouse@|@demedhy@
+@to estimate@|@amontya@
+@to evacuate@|@scumbla@
+@to evaluate@|@mantolly@
+@to examine@|@examnya@
+@to exchange@|@changjya@
+@to exclaim@|@garma@
+@to exercise@|@lafürya@
+@to explode@|@tardha@
+@to explore@|@whythra@
+@to expound@|@ygery@
+@to express@|@deryvas@
+@to extract@|@tenna@
+@to feel@|@tava@
+@to festoon@|@tacla@
+@to find@|@kavoes@
+@to fish@|@pyskessa@
+@to fold@|@plegya@
+@to freeze@|@rewy@
+@to fry@|@frýa@
+@to generate@|@denythy@
+@to give@|@rý@
+@to glisten@|@terlentry@
+@to glitter@|@terlentry@
+@to go@|@mós@
+@to grapple@|@grabalyas@
+@to grow@|@tevy@
+@to happen@|@wharfos@
+@to hate@|@hatya, kasa@
+@to have@|@cafos@
+@to heal@|@sawya@
+@to hear@|@clewes@
+@to help@|@gweres@
+@to hunt@|@chassya@
+@to impeach@|@cuhüdha@
+@to implant@|@plontya@
+@to implore@|@conjorya@
+@to impress@|@ympryntya@
+@to imprison@|@prysnerya@
+@to improve@|@amendya, gwellhé@
+@to incline@|@ynclynya@
+@to include@|@comprehendya@
+@to increase@|@encressya@
+@to incubate@|@covýa@
+@to indicate@|@kevarwedha@
+@to indulge@|@omrý@
+@to inflame@|@scaldya@
+@to inflate@|@whetha@
+@to inflict@|@ankenya@
+@to infringe@|@deffola@
+@to inhabit@|@annedhy@
+@to inquire@|@govyn@
+@to inscribe@|@scryfa@
+@to install@|@fyttya@
+@to instruct@|@erghy@
+@to interest@|@hüda@
+@to intrude@|@omherdhya@
+@to involve@|@magly@
+@to isolate@|@dyberth@
+@to jog@|@trettya@
+@to jump@|@lamma@
+@to justify@|@avowa@
+@to know@|@gothvos@
+@to lacerate@|@squardya@
+@to learn@|@dysky@
+@to lengthen@|@hyrhé@
+@to liberate@|@lyfrya@
+@to lie down@|@growedha@
+@to lighten@|@scafhé@
+@to like@|@cara@
+@to listen to@|@goslowes orth@
+@to live@|@bewa@
+@to lose@|@kelly@
+@to magnify@|@moghhé, murhé@
+@to maintain@|@mentena@
+@to maltreat@|@drókhandla@
+@to massacre@|@moldra@
+@to maximize@|@moghahé@
+@to meet@|@metya orth@
+@to mention@|@kywhethla@
+@to mix@|@kemysky@
+@to mollify@|@medhelhé@
+@to multiply@|@encressya@
+@to mutilate@|@dyfasya@
+@to narrate@|@leverel@
+@to navigate@|@lewyas@
+@to neglect@|@dysprésya@
+@to nominate@|@appoyntya@
+@to nourish@|@maga@
+@to nullify@|@dyswül@
+@to obscure@|@tewlhé@
+@to observe@|@aspýa@
+@to obstruct@|@lettya@
+@to offer@|@profya@
+@to operate@|@obery@
+@to oppress@|@béghya@
+@to optimize@|@dewethekhé@
+@to organise@|@kempenna@
+@to ornament@|@tekhé@
+@to outgrow@|@gordevy@
+@to outlive@|@gorvewa@
+@to outpour@|@dyscarga@
+@to outrage@|@deffola@
+@to outweigh@|@gorpósa@
+@to overcome@|@fetha@
+@to overcook@|@gorbarüsy@
+@to overeat@|@quoffy@
+@to overfill@|@gorlenwel@
+@to overgrow@|@gordevy@
+@to overhang@|@gorgregy@
+@to overheat@|@gordomma@
+@to overload@|@béghya@
+@to overlook@|@gorvyras@
+@to override@|@gorerghy@
+@to overrule@|@maystry@
+@to overrun@|@gorresek@
+@to overset@|@domhel@
+@to overtake@|@cachya@
+@to overwork@|@gorlafürya@
+@to paralyse@|@paljya@
+@to partake@|@kevranna@
+@to perform@|@güthyl@
+@to permeate@|@gwana@
+@to perplex@|@amaya@
+@to persist@|@perthy@
+@to persuade@|@drý, dynya@
+@to pervade@|@súba@
+@to photograph@|@fotografya@
+@to plan@|@devýsya@
+@to play@|@gwary@
+@to populate@|@pobla@
+@to portray@|@portraya@
+@to possess@|@perghenna@
+@to practise@|@assaya@
+@to precede@|@blýnya@
+@to predict@|@dargana@
+@to prepare@|@darbary, parüsy@
+@to present@|@presentya@
+@to preserve@|@kyfythya@
+@to preside@|@caderya@
+@to presume@|@bedha@
+@to prevail@|@dynya@
+@to proceed@|@kerdhes@
+@to proclaim@|@avowa@
+@to procure@|@provýa@
+@to produce@|@denythy@
+@to profess@|@omwül@
+@to proffer@|@profya@
+@to progress@|@spédya@
+@to prohibit@|@defendya@
+@to prolong@|@hýrhé@
+@to promise@|@ambosa@
+@to promote@|@avonsya@
+@to prophesy@|@profüsa@
+@to prosper@|@sowyny@
+@to publish@|@dyllo@
+@to purchase@|@prena@
+@to purport@|@styrya@
+@to putrefy@|@pedry@
+@to quarrel@|@kedrynya@
+@to quarter@|@quartrona@
+@to question@|@apposya@
+@to quicken@|@bewhé@
+@to rain@|@gül glaw@
+@to read@|@rédya@
+@to reappear@|@dewheles@
+@to rebound@|@daslemmel@
+@to rebuild@|@dastrehevel@
+@to receive@|@receva@
+@to recline@|@growedha@
+@to recount@|@derývas@
+@to recover@|@yaghhé@
+@to recreate@|@dasformya@
+@to rectify@|@ewna@
+@to recycle@|@daskelghy@
+@to redirect@|@daskervawedha@
+@to redouble@|@deublegya@
+@to reflect@|@dastewynya@
+@to refrain@|@sparya@
+@to refresh@|@éshè@
+@to register@|@cófscrfya@
+@to regulate@|@rewlya@
+@to rehearse@|@assaya, omassaya@
+@to reject@|@skoellya@
+@to rejoice@|@rejoycya@
+@to relate@|@leverel@
+@to release@|@delyfrya@
+@to remember@|@cofhé@
+@to renounce@|@nagha@
+@to renovate@|@nowedhy@
+@to rent@|@rentya@
+@to repair@|@ewna@
+@to replace@|@gorthry@
+@to repress@|@compressa@
+@to reprint@|@daspryntya@
+@to reproach@|@sclandra@
+@to reprove@|@rebükya@
+@to request@|@requyrya@
+@to require@|@requyrya@
+@to requite@|@aquytya@
+@to resemble@|@hevelly@
+@to resolve@|@ervyra@
+@to resonate@|@dasseny@
+@to respect@|@enora@
+@to respire@|@anella@
+@to respond@|@gortheby@
+@to restore@|@dasformya@
+@to restrain@|@frona@
+@to restrict@|@strotha@
+@to retrace@|@dassewya@
+@to retract@|@denagha@
+@to retreat@|@kyldenna@
+@to retrieve@|@dascafos@
+@to revenge@|@venjya@
+@to reverse@|@trebüchya@
+@to rewrite@|@dasscryfa@
+@to roughen@|@garowhé@
+@to rummage@|@whylas@
+@to run@|@poenya, resek@
+@to sail@|@mora@
+@to sanctify@|@sona@
+@to satirize@|@scornya@
+@to satisfy@|@kewera@
+@to saturate@|@súba@
+@to scourge@|@scorjya@
+@to scramble@|@crambla@
+@to scratch@|@scravynyas@
+@to screech@|@üsa@
+@to scribble@|@gwanscryfa@
+@to see@|@gweles@
+@to send@|@dannvon@
+@to sentence@|@jujjya@
+@to shave@|@dyvarva@
+@to shower@|@cafos cowas@
+@to sing@|@cana@
+@to sit@|@esedha@
+@to sleep@|@cuska@
+@to smile@|@wherthyn@
+@to snow@|@gül érgh@
+@to stand@|@sevel@
+@to stay@|@tryga@
+@to study@|@studhya@
+@to subtract@|@kemeres dywo-rth@
+@to swaddle@|@maylya@
+@to swather@|@mayla@
+@to sweep@|@scüba@
+@to sweeten@|@whékhé@
+@to swim@|@nyja@
+@to swindle@|@fükya@
+@to talk@|@cows@
+@to tarnish@|@tarnsya@
+@to taste@|@blasa@
+@to telephone@|@pellgows@
+@to televise@|@pellvyras@
+@to tell@|@leverel@
+@to terrify@|@braweghy@
+@to testify@|@dustunýa@
+@to thicken@|@tewhé@
+@to threaten@|@degensewa@
+@to tie@|@kelmy@
+@to travel@|@vyaja@
+@to try@|@assaya@
+@to use@|@úsya@
+@to visit@|@mós dhe vyras@
+@to walk@|@kerdhes@
+@to want@|@mynnes@
+@to wash oneself@|@omwolghy@
+@to wash up@|@badhya@
+@to watch@|@myras orth@
+@to wear@|@gwysca@
+@to win@|@gwaynya@
+@to work@|@gonys@
+@to write@|@scryfa@
+@toad@|@cronek@
+@toast@|@crasen, krasenn@
+@toasted@|@cras@
+@tobacco@|@bacca@
+@today@|@hedhyu@
+@toe@|@býs trós@
+@toffee@|@clyjjy, gorfen-prýs@
+@together@|@warbarth@
+@toilet@|@pysva@
+@tolerant@|@perthyansek@
+@tomato@|@aval kerensa, avall kerensa@
+@tomorrow@|@avorow@
+@tongue@|@tavas@
+@tool@|@toulen@
+@tooth@|@dans@
+@toothbrush@|@scüber dyns, scubylen dens@
+@toothpaste@|@glus-dyns@
+@towel@|@twal@
+@town@|@tre@
+@towns@|@trevow@
+@toy@|@tegen@
+@train@|@trén@
+@traitor@|@traytour@
+@tranquil@|@hebask@
+@tree@|@gwedhen, gwydhenn@
+@trees@|@gwydh@
+@triangle@|@trýelyn@
+@trousers@|@lavrek@
+@truck@|@trok@
+@Tuesday@|@dé-Mérth@
+@tulip@|@tulyfant@
+@turnip@|@turnypen@
+@turtle@|@cronek-ervyz mór@
+@twelfth@|@deuheges@
+@twelve@|@deudhek@
+@twentieth@|@ügansves@
+@twenty@|@ügans@
+@twice@|@dywwyth@
+@two@|@deu@
+@typewriter@|@jyn-scryfa@
+@tyrant@|@týront@
+@umbrella@|@glawlen@
+@uncle@|@ewnter@
+@underwear@|@dillas nessa, dyllas nessa@
+@vacuum@|@gwakter@
+@valley@|@nans@
+@veal@|@kýk-lugh@
+@vegetable@|@losowen-dybry@
+@venison@|@kýk-ewyk@
+@vest@|@ys-pows@
+@vineyard@|@gwýnlan@
+@viola@|@harfel@
+@violin@|@fyl@
+@voice@|@lev@
+@volcano@|@loskyveneth@
+@waiter@|@tendyer@
+@waitress@|@maghteth@
+@Wales@|@Kembra@
+@walk@|@kerdh@
+@wall@|@fos@
+@wallet@|@tygen@
+@walnut@|@knofen-frynk@
+@war@|@on@
+@wasp@|@guhyen, gúhýen@
+@wasps@|@guhy@
+@waste@|@atal@
+@water@|@dowr@
+@waterfall@|@dowrlam@
+@we do@|@ni a wra@
+@website@|@gwiasva@
+@Wednesday@|@dé-Mergher, Dy Mergher@
+@week@|@seythen@
+@Welsh@|@Kembrek@
+@wet@|@glyb@
+@whale@|@mórvyl@
+@wharf@|@cay@
+@wheat@|@gwaneth@
+@whence@|@a-ble, a-byla@
+@white@|@gwyn, gwynn@
+@white thorn@|@spernenn wynn@
+@white wine@|@gwin gwynn@
+@wife@|@gúrek, gwreg@
+@willow tree@|@helygen@
+@window@|@fe-nester, fenester@
+@windows@|@fenestri@
+@wine@|@gwin, gwýn@
+@winter@|@gwáf, gwav@
+@within@|@a-berth@
+@wives@|@gwrageth@
+@wolf@|@blýth@
+@woman@|@benen, benyn@
+@wood@|@prenn@
+@worm@|@kenak, prýf@
+@wren@|@gwrannen@
+@wrist@|@conna-brégh@
+@writer@|@scryfer@
+@yard@|@lath@
+@year@|@bledhen, blydhen@
+@years@|@blydhynyow@
+@yellow@|@melen, melyn@
+@yesterday@|@dé@
+@you (pl.) do@|@hwi a wra@
+@you do@|@ty a wra@
+@zoo@|@mýlva@
+

@@ -1,0 +1,6173 @@
+@English@|@Korean (Hangul)@
+@Author name@|@Freelang@
+@Font@|@Arial\12\Arial\14@
+@0@|@공, 영 [零], 제로@
+@1 [pure Korean]@|@하나, 한@
+@1 [Sino-Korean]@|@일@
+@10 [pure Korean]@|@열@
+@10 [Sino-Korean]@|@십@
+@100@|@백@
+@10000@|@만@
+@100000000@|@억@
+@2 [pure Korean]@|@둘@
+@2 [Sino-Korean]@|@이@
+@20 [pure Korean]@|@스물@
+@21st century@|@이십일 세기@
+@3 [pure Korean]@|@셋@
+@3 [Sino-Korean]@|@삼@
+@30 [pure Korean]@|@서른@
+@4 [pure Korean]@|@넷@
+@4 [Sino-Korean]@|@사@
+@40 [pure Korean]@|@마흔@
+@5 [pure Korean]@|@다섯@
+@5 [Sino-Korean]@|@오@
+@50 [pure Korean]@|@쉰@
+@6 [pure Korean]@|@여섯@
+@6 [Sino-Korean]@|@육@
+@60 [pure Korean]@|@예순@
+@7 [pure Korean]@|@일곱@
+@7 [Sino-Korean]@|@칠@
+@70 [pure Korean]@|@일흔@
+@8 [pure Korean]@|@여덟@
+@8 [Sino-Korean]@|@팔@
+@80 [pure Korean]@|@여든@
+@9 [pure Korean]@|@아홉@
+@9 [Sino-Korean]@|@구@
+@90 [pure Korean]@|@아흔@
+@a@|@한@
+@a.m.@|@오전@
+@a; an@|@하나@
+@aardvark@|@땅돼지@
+@aardwolf@|@땅늑대@
+@abacus@|@주판@
+@abandon [v]@|@버리다@
+@abbreviate@|@단축하다, 생략 하다@
+@abdomen@|@복, 복강@
+@able [a]@|@기운 있는, 능란한, 할수 있는@
+@abnormal@|@변태의@
+@abortion@|@낙태@
+@about@|@한@
+@about [time]@|@쯤@
+@about when@|@언제 쯤@
+@above@|@위@
+@abridge@|@단축하다@
+@abroad@|@외국, 해외@
+@abscess@|@농양@
+@absence@|@결석, 부재@
+@absolute@|@무제한언@
+@absolutely@|@완전히, 절대로@
+@absurd remark@|@허튼소리@
+@Abu Dhabi@|@아부다비@
+@AC@|@교류@
+@academia@|@학계, 학구적인 세계@
+@academic [a]@|@대학의, 학원의@
+@academic [n]@|@대학교수, 대학생, 학구적인 사람@
+@acappella@|@반주 없게@
+@acceleration [degree of]@|@가속도 [加速度]@
+@accelerator@|@가속 페달, 악세레터@
+@accept@|@받아요, 수락하다@
+@acceptance@|@수락@
+@accident@|@서고@
+@accident [traffic]@|@사고@
+@accident and emergency@|@응급실@
+@accommodation@|@속소@
+@accordion@|@아코디언@
+@account [bank]@|@계좌@
+@account [on account of]@|@때문에@
+@ache@|@아파요@
+@Achilles tendon@|@아킬레스건@
+@acid@|@시다@
+@acidosis@|@산성증@
+@acknowledge@|@승인하다@
+@acknowledge [v]@|@인정하다@
+@acorn@|@도토리, 에이콘@
+@acrobat@|@곡예사@
+@across@|@건너편에, 맞은편@
+@act arrogantly@|@콧대를 세우다@
+@act in a silly manner@|@까불다@
+@act proudly@|@코가 높다@
+@active@|@활용적이다@
+@actor@|@배우@
+@actor [film]@|@영화배우@
+@actress@|@배우, 여우@
+@acupressure@|@지압@
+@ad infinitum@|@영구히@
+@adapt [v]@|@익숙해지다@
+@adapter [electrical]@|@어댑터@
+@add [H]@|@가 [加]@
+@addiction [n]@|@중독@
+@adding [n]@|@첨가 [減加], 추가 [追加]@
+@Addis Ababa@|@아디스 아바바@
+@addition [n]@|@첨가 [減加], 추가 [追加]@
+@address [n]@|@주소@
+@adequate@|@충분한@
+@adhere@|@붙어있다@
+@adjective [n]@|@형용사@
+@administrator [n]@|@행정관@
+@admiration@|@감탄@
+@admire [v]@|@존경 하다@
+@admission fee@|@입장료@
+@admit [v]@|@인정하다@
+@adopt@|@채택한 위하여@
+@adoptee@|@입양아@
+@adoptive father@|@양부@
+@adult@|@대인, 어른@
+@adult [n]@|@대인, 성인, 어른@
+@adultery@|@간통@
+@advance@|@미리@
+@advance payment@|@선불@
+@adventure@|@모험@
+@adverb@|@부사@
+@advertisement@|@광고, 선전@
+@advise [v]@|@조언하다@
+@adze [cutting tool]@|@까뀌@
+@adzuki bean@|@팥@
+@aeroplane@|@비행기@
+@aesthetics@|@미학@
+@Afghanistan@|@아프가니스탄@
+@Africa@|@아프리카@
+@Afrikaans@|@아프리카어@
+@after@|@다음, 후, 후에@
+@after dark@|@해거름 다음에@
+@afternoon@|@오후@
+@afterwards@|@뒤에, 후에@
+@again@|@다시, 또@
+@again [say again]@|@다시 말하다@
+@against@|@대, 반대@
+@against [be against]@|@걸리다@
+@age@|@나이, 세@
+@age [honorific]@|@연세@
+@age [person's]@|@나이@
+@age [time]@|@시대@
+@agenda [meeting]@|@안건@
+@ago@|@전에@
+@agreeable@|@기분좋은, 상쾌한@
+@agreement@|@합의@
+@ah [interjection]@|@아@
+@aid [charity]@|@도움@
+@AIDS@|@에이즈@
+@air@|@공기@
+@air hostess@|@스튜어디스@
+@air pollution@|@공기 오염@
+@air-conditioning@|@에어컨@
+@aircraft@|@비행기@
+@aircraft carrier@|@항공모함, 항모@
+@airline@|@항공사@
+@airline ticket@|@비행기표@
+@airmail@|@항공우편@
+@airplane@|@비행기@
+@airport@|@공항@
+@airport bus@|@공항버스@
+@al Qaeda@|@알카에다@
+@alarm [bank; shop]@|@비상벨@
+@alarm call@|@알랍콜@
+@alarm clock@|@알람, 자면종, 자명종@
+@Alaska@|@알래스카@
+@Albania@|@알바니아@
+@albatross@|@신천에다@
+@alchemist@|@연금사, 연금술사@
+@alchemy@|@연금술@
+@alcohol@|@알콜@
+@alcohol lover@|@애주가 [愛酒家]@
+@ale@|@에일@
+@alias@|@가명 [假名]@
+@alibi@|@알리바이@
+@alien land@|@타국@
+@alive [be alive]@|@살아 있다 (살아 있어요)@
+@all@|@다, 모두@
+@all day@|@하루종일@
+@all kinds of@|@여러가지@
+@all matters@|@만사@
+@all muddy@|@흙투성이@
+@all of it@|@전부@
+@all together@|@모두, 한꺼번에@
+@Allah@|@알랗@
+@allegiance@|@충성@
+@alley@|@골목@
+@almost@|@거의@
+@alone@|@스스로, 혼자, 홀로@
+@along@|@따라서@
+@alphabet [Korean alphabet]@|@한글@
+@alphabet [n]@|@알파벳@
+@alphabetic [a]@|@알파벳@
+@already@|@벌써, 이미@
+@alright@|@괜찮다@
+@also@|@도@
+@altar@|@참성단@
+@aluminium@|@알루미늄@
+@aluminium foil@|@알미늄 호일@
+@aluminium wrap@|@알미늄 호일@
+@always@|@늘, 언제나, 항상@
+@Alzheimer [illness]@|@알츠하이머 병@
+@amaranth@|@비름@
+@ambulance@|@구급차@
+@amen@|@아멘@
+@America@|@미국@
+@American English@|@미국 영어@
+@American person@|@미국 사람@
+@amphetamine@|@암페타인@
+@amphibian [n]@|@수륙 양용비행기@
+@amphibious@|@수륙 양용@
+@amputation@|@절단@
+@Amsterdam@|@암스테담@
+@amusing@|@재미있는@
+@anachronistic [a]@|@시대 착오@
+@anaesthetic@|@마취약@
+@analogue@|@아날로그@
+@anarchism@|@아나키즘@
+@anatomy@|@해부학@
+@ancestor@|@조상@
+@anchor@|@닻@
+@anchovy@|@멸치@
+@ancient@|@옛날@
+@ancient [a]@|@고대@
+@ancient style [calligraphy]@|@예서 입문@
+@and@|@과, 그리고, 또, 와, 하고@
+@and so@|@그래서@
+@Andorra@|@안도라@
+@Andy@|@앤디@
+@angel@|@각, 귀, 낚다, 모서리@
+@angle@|@각@
+@Anglican@|@영국 성공회@
+@Angola@|@안골라@
+@angry@|@화난@
+@animal@|@동물, 마리@
+@animosity@|@반감@
+@ankle@|@발목@
+@Anna@|@안나@
+@anniversary@|@기념일@
+@another [different kind]@|@다른 거@
+@another [one more]@|@하나 더@
+@answer [n]@|@대답@
+@answer [spoken]@|@대답, 응답@
+@answer [written]@|@회신@
+@answering machine@|@자동응답기@
+@ant@|@개미@
+@antelope@|@영양@
+@anthropology@|@인류학@
+@antibiotic@|@항생제@
+@Antigua and Barbuda@|@앤티가 바부다@
+@antihistamine@|@항히스타민제@
+@antimony@|@안티모니, 안티몬@
+@antipathy@|@반감@
+@antiquity [n]@|@고대@
+@antiseptic@|@살균제, 소독제@
+@anus@|@항문@
+@any@|@무슨@
+@anyone@|@아무나@
+@anything@|@아무 것, 아무거나@
+@anything at all@|@아무거나@
+@anywhere@|@어디나@
+@apartment@|@아파트@
+@apartment block@|@아파트@
+@ape@|@원숭이, 유인원@
+@aphid@|@진디@
+@apologize [v]@|@빌리다 (빌려요)@
+@apology@|@사과, 사죄@
+@apostasy@|@배교@
+@apparatus@|@기@
+@appendicitis@|@맹장염@
+@appetite@|@밥맛, 입맛@
+@appetizer@|@전채@
+@apple@|@사과@
+@apple juice@|@사과 주스@
+@apple tree@|@사과나무@
+@application [computer]@|@프로그램@
+@application [job]@|@신청@
+@apply [H]@|@가 [加]@
+@applying paste@|@풀칠@
+@appointment@|@약속@
+@appreciate [v]@|@감사 하다, 고마워하다, 이해 하다@
+@approval@|@승낙@
+@approximately@|@가량 [假量], 쯤, 한@
+@apricot@|@살구@
+@April@|@사월@
+@apron@|@앞치마@
+@aqua regia@|@왕수@
+@Arabic [a]@|@아랍@
+@archaic characters@|@전서@
+@archipelago@|@군도@
+@architecture@|@건축학@
+@Argentina@|@아르헨티나@
+@argon@|@아르곤@
+@Arirang@|@아리랑@
+@arise [v]@|@일어나다 (일어나요)@
+@arm@|@팔@
+@arm in arm@|@팔짱끼다@
+@arm rest@|@팔걸이@
+@arm used as pillow@|@필베개@
+@arm wrestling@|@팔씨름@
+@armchair@|@팔걸이의자@
+@Armenia@|@아르메니아@
+@armour@|@갑옷@
+@armrest@|@팔걸이@
+@arms [n]@|@무기@
+@around [time]@|@쯤@
+@around here@|@근처@
+@arrange@|@조정하다@
+@arrival@|@도착@
+@arrival [n]@|@도착@
+@arrivals [airport]@|@도착@
+@arrive@|@도착하다 (도착해요)@
+@arrogantly [act arrogantly]@|@콧대를 세우다@
+@art@|@미술@
+@art gallery@|@미술관@
+@artery@|@동맥@
+@arthritis@|@관절염@
+@article@|@물건@
+@artist@|@화가, 화가 [畵家]@
+@as many as@|@무려@
+@as soon as possible@|@가능한 빨리@
+@ascend@|@비상 하다, 올라 가다@
+@ashtray@|@재떨이@
+@Asia@|@아시아@
+@ask@|@묻다 (물어요), 물어보다 (물어봐요), 칠문하다@
+@ask for [v]@|@원하다@
+@asparagus@|@아스파라거스@
+@aspirin@|@아스피린@
+@assassinate@|@암살하다@
+@assembly@|@회의@
+@assignment@|@숙제@
+@assistant [shop]@|@도우미, 점원@
+@assumption [n]@|@가정 [假定]@
+@aster@|@과꽃@
+@asteroid@|@소행성@
+@asthma@|@천식@
+@astronomy@|@천문학@
+@at@|@에, 에서@
+@at a glance@|@한눈에@
+@at home@|@집에@
+@at midday@|@정오에@
+@at night@|@밤에@
+@at once@|@곧, 이제@
+@at one time@|@한꺼번에@
+@at sign []@|@골뱅이@
+@at the moment@|@지금@
+@at what place@|@어디 에서@
+@at what price@|@얼마@
+@athletics@|@스포츠, 운동 경기@
+@Atlantic Ocean@|@대서양@
+@ATM@|@현금 인출기@
+@atmosphere [of place]@|@분위기@
+@atrocity@|@극악@
+@attack [n]@|@공격@
+@attack [v]@|@공격하다@
+@attack with knife@|@칼을 맞다@
+@attend [a place]@|@가다 (가요)@
+@attend [v]@|@다니다@
+@attendance@|@출석@
+@attending [a]@|@다닐@
+@attract@|@끌다@
+@attractive@|@예쁜@
+@aubergine@|@가지@
+@audience [theatre]@|@관객@
+@audio type@|@카세트 테이프@
+@August@|@팔월@
+@aunt@|@아주머니, 이모@
+@aunt [maternal aunt]@|@이모@
+@aunt [paternal aunt]@|@고모@
+@aunt [wife of father's y. br.]@|@속모@
+@Australia@|@오스트레일리아, 호주@
+@Australian person@|@호주 사람@
+@Austria@|@오스트리아@
+@author@|@작가, 저자@
+@authority@|@권능, 권력, 권력자, 권위자@
+@autism@|@자폐증@
+@auto car@|@자동차@
+@automatic [car]@|@오토@
+@autonomous@|@자치@
+@autonomy@|@자율성@
+@autumn@|@가을@
+@autumn leaves@|@당풍@
+@auxiliary@|@보조의@
+@availability [n]@|@가용도@
+@avalanche@|@산사대@
+@avenue@|@거리, 도로@
+@avian influenza@|@조류 독감@
+@avocado@|@아보카도@
+@away from@|@떠나서@
+@awl@|@송곳@
+@axis of evil@|@악의 주축@
+@azalea@|@진달래@
+@Azerbaijan@|@아제르바이잔@
+@azure@|@하늘색@
+@B&B@|@민박@
+@baby@|@아기, 애기, 유아@
+@baby food@|@유아식@
+@baby milk@|@아기 우유@
+@baby seat@|@유아석@
+@baby wipes@|@아기용 물수건@
+@Babylon@|@바빌론@
+@back [body]@|@등@
+@back [in the back]@|@뒤@
+@back [lower back]@|@허리@
+@back [n]@|@등@
+@back [of body]@|@등@
+@back elbow@|@뒤팔꿈@
+@back kick@|@뒤차기@
+@back sole@|@뒤꿈치@
+@back stance@|@뒷굽이 서기@
+@backback@|@배낭@
+@backbite@|@흉보다@
+@bacon@|@베이컨@
+@bacteria@|@박테리아, 세균@
+@bad [a]@|@나쁜@
+@bad [be bad]@|@나쁘다@
+@bad [character]@|@나쁜@
+@bad [food]@|@맛없는, 상한@
+@badger@|@오소리@
+@badminton@|@배드민턴@
+@bag@|@가방, 자루, 포대@
+@bagel@|@배글 빵@
+@baggage@|@짐@
+@baggage reclaim@|@수하물 수취대@
+@Baghdad@|@바그다드@
+@Bahamas@|@바하마@
+@Bahrain@|@바레인@
+@bait [n]@|@먹이, 미끼@
+@bake [v]@|@굽다 (구워요)@
+@bakery@|@빵집, 제과점@
+@Baleares [islands]@|@발레아레스 제도@
+@ball@|@공, 구, 볼@
+@ball point pen@|@불펜@
+@ballpoint pen@|@볼펜@
+@baloney@|@헛소리@
+@banana@|@바나나@
+@band@|@그룹, 단체, 악단@
+@band [music]@|@밴드@
+@bandage@|@반창고@
+@bandana@|@밴대나@
+@bang@|@팡팡@
+@bank [institute]@|@은행@
+@bank [n]@|@은행@
+@bank [of stream]@|@냇가@
+@bank account@|@계좌@
+@banker@|@은행원@
+@banknote@|@지폐@
+@bankruptcy@|@파산@
+@banter [n]@|@야유@
+@Baptist@|@침례교@
+@bar [drinking place]@|@바, 술집@
+@bar [n]@|@술집@
+@bar of chocolate@|@초콜릿 가게@
+@barbecue@|@바비큐@
+@barbecue [v]@|@석쇠에 굽다@
+@barbiturate@|@바르비투르 상염@
+@bargain@|@염가, 할인@
+@bark@|@나무껍질, 수피@
+@barley@|@보리@
+@barrel@|@통@
+@baseball@|@야구@
+@baseball [play baseball]@|@야구를 하다@
+@baseball cap@|@야구 모자@
+@baseball field@|@야구장@
+@baseball game@|@야구 경기, 야구 시합@
+@baseball glove@|@야구 글러브@
+@baseball park@|@야구 장@
+@basement@|@지하, 지하실@
+@basis@|@밑바탕, 밑천, 바탕@
+@basket@|@바구니@
+@basketball@|@농구@
+@bat@|@박쥐, 방망이@
+@bath@|@목욕@
+@bath towel@|@수건@
+@bath tub@|@욕조@
+@bathroom@|@목욕탕@
+@battery@|@배터리, 전지@
+@battery [car]@|@배터리@
+@battery [radio]@|@건전지@
+@battle@|@전투@
+@bay top shell@|@골뱅이@
+@BBQ@|@바비큐@
+@bcc [mail]@|@숨은 참조@
+@be [equivalent]@|@이다@
+@be [honorific]@|@계시다@
+@be [stay]@|@있다@
+@be [v]@|@이다, 있다@
+@be beyond one's strength@|@힘겹다@
+@be big@|@크다@
+@be bored [v]@|@심심하다@
+@be born [v]@|@태어나다@
+@be broke@|@한푼없다@
+@be careful@|@조심하다@
+@be careless@|@허술하다@
+@be consistent@|@한결같다@
+@be constant@|@한결같다@
+@be crowded@|@벅잡하다@
+@be different@|@다르다@
+@be difficult@|@힘들다@
+@be found fault with@|@흉잡히다@
+@be futile@|@헛되다@
+@be important@|@중요하다 (중요해요)@
+@be loose@|@허술하다@
+@be past one's prime@|@한물가다@
+@be penniless@|@한푼없다@
+@be pregnant@|@홀몸이 아니다@
+@be sun-tanned@|@햇볕에 타다@
+@be tough@|@힘들다@
+@be vain@|@헛되다@
+@be white@|@희다@
+@beach@|@바자가, 해변@
+@bean [adzuki bean]@|@팥@
+@bean [n]@|@콩@
+@bean [soy]@|@콩@
+@bean blossom@|@콩노굿@
+@bean curd@|@두부@
+@bean sprouts@|@콩나물@
+@bear@|@곰@
+@bear [n]@|@곰@
+@beat [cooking]@|@젓다@
+@beater@|@치는 사람@
+@beautiful@|@아름다운, 아름답다@
+@beautiful man@|@미남@
+@beautiful music@|@아름다운 음악@
+@beautiful view@|@미관@
+@beautiful woman@|@미인@
+@beauty parlour@|@미용실 [美容室]@
+@because of@|@때문에@
+@become@|@뒤다@
+@bed@|@침대@
+@bed and breakfast@|@민박@
+@bed cover@|@이불@
+@bedding@|@침구@
+@bedroom@|@안방, 침실@
+@bee@|@벌@
+@beef@|@소고기@
+@beer@|@맥주@
+@beer [bottled]@|@병 맥주@
+@beer [draught]@|@생맥주@
+@before@|@앞, 전@
+@before anything else@|@먼저@
+@begin@|@시작해요@
+@beginning@|@시작, 처음@
+@beginning of school@|@개학@
+@behaviour@|@행동@
+@behind@|@뒤@
+@Beijing@|@베이징, 북경@
+@being@|@생병체, 존재@
+@being [a]@|@있는@
+@Beirut@|@베이루트@
+@belch@|@트림@
+@belch [v]@|@트림 하다@
+@Belgium@|@벨기에@
+@believer@|@스님@
+@bellboy@|@사환@
+@bellows@|@풀무@
+@bellybutton@|@배꼽@
+@beloved@|@님@
+@below zero [temperature]@|@영하@
+@belt@|@벨트, 혁대@
+@belt [n]@|@띠@
+@bending ready [stance]@|@구부려 준비@
+@beneath@|@아래@
+@Bengali@|@벵골어@
+@benzene@|@벤진@
+@Berlin@|@베를린@
+@Bermuda@|@버뮤다@
+@beryllium@|@베럴륨@
+@beside@|@옆에@
+@better@|@더 좋은, 좋은@
+@between@|@사이@
+@beverage@|@음료@
+@bezel@|@날의 사람@
+@Bhutan@|@부탄@
+@bicycle@|@자전거@
+@big@|@성인, 크다, 큰@
+@big eater [n]@|@대식가 [?食家]@
+@big fire [n]@|@큰불@
+@big heart [generous]@|@큰마음@
+@big worry@|@한걱정@
+@bigger@|@더 큰@
+@bike@|@자전거@
+@bikini@|@비키니@
+@bill@|@계산서@
+@billiards@|@당구@
+@billionaire@|@억만장자@
+@bin [n]@|@휴지통@
+@binoculars@|@망원경@
+@biochemistry@|@생화학@
+@biology@|@생물학@
+@bird@|@마리, 새@
+@bird cage@|@새장@
+@bird flu@|@조류 독감@
+@birth@|@출생@
+@birthday@|@생일@
+@birthday [happy birthday]@|@생일 축하해요@
+@birthday [honorific]@|@생신@
+@birthday card@|@생일 카드@
+@birthday present@|@생일 선물@
+@birthday song@|@생일 축하 노래@
+@birthmark@|@모반@
+@biscuit@|@과자@
+@biscuits@|@과자@
+@bit@|@조금@
+@bit later@|@조금 후에@
+@bitch [dog]@|@암캐@
+@bitch fox@|@암여우@
+@bite@|@깨물어요, 물다, 물린데, 쏘다@
+@bitter [taste]@|@써요@
+@bitterling@|@납줄개@
+@black@|@검은, 검정@
+@Black and Red Belt@|@품띠@
+@Black Belt@|@검정 띠@
+@black coffee@|@블랙커피@
+@black grouse@|@멧닭@
+@black pepper@|@후추@
+@Black Sea@|@흑해@
+@black tea@|@홍차@
+@black vulture@|@독수리@
+@blackboard@|@칠판@
+@blackboard [n]@|@칠판@
+@bladder@|@방관, 부레, 오줌통@
+@blade of foot@|@발날@
+@blame [be blamed]@|@빌리다 (빌려요)@
+@blanch [v]@|@익히다@
+@blanket@|@이불@
+@bleach [cleaning]@|@표백제@
+@bleed@|@피나요@
+@blend [v]@|@섞다@
+@blind [a]@|@장님@
+@blind [window blind]@|@블라인드@
+@blindness@|@장님@
+@blister@|@물집@
+@block [Taekwondo]@|@막기@
+@blocked@|@막힌@
+@blog@|@블로그@
+@blond hair@|@금발@
+@blood@|@피@
+@blood group@|@혈액형@
+@blood pressure@|@혈압@
+@bloom [n]@|@피@
+@bloom [v]@|@피다@
+@blossom [n]@|@피@
+@blouse@|@블라우스@
+@blow@|@그만두다, 날리다, 불다, 뿜다, 터지다@
+@blow one's nose@|@코를 풀다@
+@blue@|@파란, 파랑@
+@blue [sky blue]@|@하늘색@
+@Blue Belt@|@파란띠@
+@blueprint@|@청사진@
+@boar@|@멧돼지, 수돼지@
+@board [a plane]@|@탑승해요@
+@board [a train]@|@승차해요@
+@boarding@|@하숙@
+@boarding pass@|@탑승권@
+@boast@|@뻥을 까다@
+@boast of one's strength@|@힘자랑@
+@body@|@몸, 몸통, 송장, 시체, 시체, 육체, 주검@
+@body [dead]@|@시체@
+@body [honorific]@|@옥체@
+@body punch@|@몸통 지르기@
+@bohrium@|@보륨@
+@boil [in water]@|@삶다@
+@boil [v]@|@익히다@
+@boil [water]@|@끓이다@
+@boiler@|@보일러@
+@Bolivia@|@볼리비아@
+@bomb@|@푹탄@
+@bone@|@뼈@
+@book [a place]@|@예약해요@
+@book [for reading]@|@책@
+@book [n]@|@책@
+@booking@|@예약, 치부@
+@booking office@|@예약실@
+@bookshop@|@서점 [書店]@
+@bookshop [n]@|@책방 [冊房]@
+@bookstore@|@서점 [書店]@
+@bookstore [n]@|@책방 [冊房]@
+@boot [car boot]@|@트러크@
+@boots@|@부츠@
+@bored@|@도려낸@
+@bored [be bored]@|@심심하다@
+@boredom@|@갑갑증@
+@boring@|@무료한, 재미없다@
+@born [be born]@|@태어나다 (태어나요)@
+@boron@|@붕소@
+@borrow@|@빌려요@
+@Bosnia@|@보스니아@
+@Bosnia and Herzegovina@|@보스니아 헤르체고비나@
+@boss@|@사장님@
+@botanical garden@|@식물원@
+@both@|@도@
+@bottle@|@병@
+@bottle opener@|@병따개@
+@bottled beer@|@병 맥주@
+@bough [n]@|@큰가지@
+@bound for [place]@|@행@
+@bout [n]@|@한바탕@
+@bowel@|@베알, 알맹이, 창자@
+@bowl@|@그릇@
+@bowl [rice bowl]@|@밥공기, 밥그릇@
+@bowl [soup bowl]@|@대접@
+@box@|@상자@
+@boxing@|@권투@
+@boy@|@남자아이, 남자애, 소년@
+@boyfriend@|@남자친구@
+@boy's older sister@|@누나@
+@bra@|@브라자@
+@bracelet@|@팔찌@
+@brag [v]@|@뻥을 까다@
+@brag about something@|@코에 걸다@
+@brake fluid@|@브레이크 액@
+@brake pads@|@브레이크 패드@
+@brakes@|@브레이크@
+@bran@|@겨, 기울@
+@branch@|@가지@
+@branch [bank]@|@지점@
+@branch [company]@|@지사@
+@branch [tree]@|@나뭇가지@
+@brandy@|@코냑@
+@brassiere@|@브래지어@
+@Bratislava@|@브라티슬라바@
+@bravery@|@용감성@
+@bread@|@빵@
+@bread [toast bread]@|@식빵@
+@bread [white]@|@흰빵@
+@break@|@까발리다, 깎다, 깨다, 꺾다, 부수다, 부쉬요, 쉬다@
+@break up engagement@|@파혼@
+@breakage@|@파손@
+@breakfast@|@아침, 아침식사, 조반, 조식@
+@breakfast cereal@|@시리얼@
+@breaking news@|@속보@
+@breakwater@|@방팡제@
+@breast@|@유방@
+@breast [chicken]@|@가슴살@
+@breast cancer@|@유방암@
+@breath@|@숨, 호흡@
+@breathe@|@숨쉬다, 숨을 쉬어요@
+@breathe [from the nose]@|@콧김@
+@breathe easy@|@한숨돌리다@
+@breed@|@거두다, 기르다, 낳다, 치다@
+@breed [plants]@|@가꾸다@
+@bride@|@신부@
+@bridegroom@|@신랑@
+@bridge [game]@|@브리지@
+@bridge [n]@|@교, 다리@
+@bridge [river]@|@다리@
+@brief@|@짧다@
+@briefcase@|@서류 가방@
+@bright@|@명랑한@
+@brim@|@테, 테두리@
+@bring [honorific]@|@드리다@
+@bring [person]@|@데리고 와요@
+@bring [thing]@|@가지고 와요@
+@briny@|@짜다@
+@Britain@|@영국@
+@British person@|@영국 사람@
+@broadcast@|@방송@
+@brochure@|@안내서, 팜플렛@
+@broil [v]@|@굽다 (구워요)@
+@broken family@|@콩가루 집안이다@
+@bronchitis@|@기관지염@
+@bronze@|@청둥@
+@Bronze Age@|@청동기 시대@
+@brooch@|@브로치@
+@brother [elder to male]@|@형@
+@brother [younger]@|@남동생@
+@brother-in-law@|@처남@
+@brother-in-law [hus. y. broth.@|@도련님@
+@brother-in-law [sister's husb.@|@매부@
+@brother-in-law [wife's brother@|@처남@
+@brothers@|@형제@
+@brothers and sisters@|@남매, 형제@
+@brown@|@갈색@
+@brush [teeth; v]@|@닦다@
+@brush [writing]@|@붓@
+@brush cap@|@붓두껍@
+@brush case@|@붓집@
+@brush painting [art]@|@예서@
+@brush stand@|@붓통@
+@Brussels@|@브라셀@
+@bubble@|@거품, 부글거리다@
+@bucket@|@버킷, 퍼붓다@
+@buckle@|@버클, 솔기, 쭈그리다@
+@bud@|@눈, 싹, 싹트다, 움, 움트다@
+@Budapest@|@부다페스트@
+@Buddha@|@부처(님)@
+@Buddha statue@|@불상@
+@Buddhism@|@불교@
+@Buddhist@|@불교@
+@Buddhist [Won Buddhist]@|@원불교@
+@Buddhist [Zen Buddhist]@|@선불교@
+@Buddhist priest@|@승려, 중@
+@Buddhist temple@|@절@
+@buffalo@|@들소, 버팔로@
+@build [v]@|@만들다@
+@building@|@건물, 빌딩@
+@building [counter]@|@채@
+@building plan@|@도면@
+@bulb@|@알뿌리@
+@Bulgaria@|@불가리아@
+@bulgogi@|@불고기@
+@bull@|@불라, 수컷, 황소@
+@bulldog@|@불독@
+@bullet@|@탄알@
+@bullfighting@|@황소 싸움@
+@bumble bee@|@뒝벌@
+@bundle@|@보따리@
+@burden@|@짐@
+@bureau de change@|@환전소@
+@burial ground@|@묘지@
+@burst out laughing@|@배꼽을 쥐다@
+@Burundi@|@부룬디@
+@bus@|@버스@
+@bus [NK]@|@뻐스@
+@bus station@|@버스 터미널@
+@bus stop@|@버스 정류소@
+@bus terminal@|@버스 터미널@
+@bus ticket@|@버스표@
+@bus tour@|@버스 투어@
+@business@|@비즈니스, 사업, 용무@
+@business administration@|@경영학@
+@business card@|@명함@
+@business class@|@비즈니스 클래스@
+@business trip@|@출장@
+@business woman@|@여자 실업가@
+@busy@|@바쁘다 (바빠요)@
+@busy [be busy]@|@복잡하다@
+@busy [phone]@|@통화중@
+@but@|@그러나@
+@butcher's@|@정육점@
+@butter@|@버터@
+@butterfly@|@나비@
+@buttocks@|@볼기, 엉덩이@
+@button@|@단추, 버튼@
+@buy@|@사다 (사요), 사요@
+@buzzard@|@말똥거리@
+@by bus@|@버스로@
+@by car@|@자동차로@
+@by e-mail@|@이메일로@
+@by fax@|@팩스로@
+@by mail@|@우편으로@
+@by plane@|@비행기로@
+@by taxi@|@택시로@
+@by train@|@기차로@
+@bye [to leaving]@|@안녕히 가세요@
+@bye [to staying]@|@안녕히 계세요@
+@cab [taxi]@|@택시@
+@cable car@|@케이블카@
+@cactus@|@선인장@
+@caddy [golf]@|@캐디@
+@café@|@카페@
+@café [coffee shop]@|@커피숍@
+@café [coffee shop] coffee house@|@다방@
+@cafeteria@|@식당@
+@cake@|@과자, 케이크@
+@cake [child's language]@|@까까@
+@cake shop@|@빵집, 제과점@
+@calabash@|@박@
+@calcium@|@칼슘@
+@calculate [v]@|@계산하다 (계산해요)@
+@calculation@|@계산@
+@calculator@|@계산기@
+@calendar@|@달력@
+@calendar [solar calendar]@|@양력@
+@calf@|@송아지@
+@calf [animal]@|@송아지@
+@calf [leg]@|@종아리@
+@call@|@방문, 부르다, 부름, 소리치다@
+@call [n]@|@외침@
+@call [phone]@|@전화해요@
+@call [v]@|@부르다@
+@call sign@|@호출 부호@
+@calligrapher@|@서예가@
+@calligraphy@|@달필, 붓글씨, 서예@
+@camcorder@|@비디오 카메라, 캠코더@
+@camel@|@낙타@
+@camera@|@사진기, 카메라@
+@camera bag@|@카메라 가방@
+@camera shop@|@카메라 가게@
+@camouflage [n]@|@가장 [假裝]@
+@camp fire@|@캠프 화이오@
+@camping@|@캠핑@
+@campus@|@캠퍼스@
+@can [n]@|@깡통@
+@can opener@|@깡통 따개@
+@Canada@|@캐나다@
+@Canadian person@|@캐나다 사람@
+@Canberra@|@캔버라@
+@cancel@|@취소해요@
+@cancellation@|@최소, 켄슬@
+@cancelled@|@최소됐어요@
+@cancer@|@암@
+@candidate [election]@|@출마@
+@candle@|@초@
+@candle light@|@촉광@
+@candle power@|@촉광@
+@candle stick@|@촛대@
+@cane@|@지팡이@
+@cannabis@|@마리화나@
+@canned@|@통조림@
+@cannonball@|@포탄@
+@cannot@|@못@
+@cap@|@모자@
+@cape@|@갑, 곶@
+@capillary@|@모세관@
+@capital@|@대문자, 대사, 사형, 서울, 자분@
+@capital [city]@|@수도@
+@capital [money]@|@자금, 자본@
+@capital city@|@서울, 수도@
+@cappuccino@|@카푸치노@
+@car@|@자동차@
+@car [used car]@|@중고차@
+@car accessories@|@자동차 부품@
+@car hire@|@렌트카@
+@car key@|@자동차 열쇠@
+@car park@|@주차장@
+@car sick@|@차멀미@
+@car wash@|@세차@
+@caravan@|@카라반@
+@carbon@|@카아본지, 탄소@
+@carbon dioxide@|@이산화탄소@
+@carbon monoxide@|@일산화탄소@
+@carburettor@|@캬브레타@
+@carcass@|@시체@
+@card [business]@|@명함@
+@card [greeting]@|@엽서@
+@card [playing card]@|@트럼프@
+@card phone@|@카드용 전화@
+@cardiodid@|@하트방정식@
+@careful [be ~]@|@조심하다@
+@careless@|@조심성 없는@
+@carnage@|@대학살@
+@carnivore@|@육식 동물@
+@carp@|@잉어@
+@carpenter@|@목수@
+@carpet@|@양탄자, 카펫@
+@carriage [train]@|@객차@
+@carrier bag@|@가방@
+@carrion fly@|@똥파리@
+@carrot@|@당근@
+@carry@|@운반해요, 팔다 (팔아요)@
+@cart@|@수레@
+@cartoon@|@만화@
+@cartoonist@|@만화가 [漫畵家]@
+@case@|@격, 경우, 사례, 상자@
+@case [suitcase]@|@여행 가방@
+@cash@|@현찰@
+@cash [n]@|@현금@
+@cash desk@|@계산대@
+@cash dispenser [n]@|@현금 인출기@
+@cash machine [n]@|@현금 인출기@
+@casino@|@카시노@
+@castle@|@성@
+@castration@|@거세@
+@castrato@|@카스트라도@
+@cat@|@고양이@
+@cat [female cat]@|@암고양이@
+@cat [male cat]@|@수고양이@
+@catamaran@|@뗏목@
+@catapult@|@노포@
+@cataract@|@백내장@
+@catch@|@잡다@
+@catch [fish]@|@낚다@
+@catch [hold]@|@잡다@
+@catch [v]@|@잡다@
+@catch a cold@|@감기에 걸리다@
+@catch one's breath@|@한숨돌리다@
+@catcher@|@캐처@
+@cathedral@|@대성당, 성당@
+@catholic@|@천주교@
+@Catholic priest@|@신부@
+@cauliflower@|@컬리플라워@
+@cave@|@굴, 동굴@
+@caviar@|@갑상어안@
+@cavity@|@굿@
+@cc [e-mail]@|@참조@
+@CD@|@시디@
+@CD player@|@시디 플레이어@
+@celery@|@셀러리@
+@cellar@|@지하실@
+@cemetery@|@묘지@
+@censorship@|@검열@
+@cent@|@센트@
+@centigrade@|@섭씨@
+@centimetre@|@센티미터@
+@centipede@|@지네@
+@central [a]@|@중심@
+@central heating@|@중앙난방@
+@centre@|@복판, 중앙, 한가운데, 한복판@
+@centre [a]@|@중심@
+@century@|@세기@
+@ceramics@|@도자기@
+@cereal [breakfast]@|@시리얼@
+@cerium@|@세륨@
+@certainly [promise to do]@|@정말로@
+@certainly [truth]@|@확실히@
+@chair@|@의자@
+@chair (position)@|@강좌 [講座]@
+@chalk@|@분필@
+@champagne@|@샴페인@
+@chandelier@|@샨들리레@
+@change@|@바꾸, 변화@
+@change [money]@|@거스름돈, 잔돈@
+@change [n]@|@잔돈@
+@change [transport]@|@갈아타다@
+@change clothes@|@갈아 입다@
+@changing room@|@탈의실@
+@chaotic scene@|@난장판@
+@character [person]@|@마음씨@
+@charcoal@|@목탄, 숯@
+@charge [n]@|@값@
+@charity [aid]@|@도움@
+@chase@|@쫓다@
+@chaste@|@숫@
+@chat [n]@|@이야기@
+@chat [v]@|@애기하다 (에기해요), 이야기 하다@
+@cheap@|@싸다@
+@check [v]@|@검토하다, 책크하다@
+@check-in [desk]@|@프런트@
+@checkmate@|@외통 장군@
+@cheek@|@볼, 볼기, 뺨, 뻔뻔@
+@cheers@|@건배@
+@cheese@|@치즈@
+@cheetah@|@치타@
+@chef@|@주방장@
+@Cheju Island@|@제주도@
+@chemical engineering@|@화학 공학@
+@chemistry@|@화학@
+@chemist's [shop]@|@약국@
+@cheque@|@수표@
+@cheque [restaurant]@|@계산서@
+@cherry@|@버찌, 앵두, 체리@
+@cherry blossom@|@벚꽃@
+@chest [body]@|@가슴@
+@chestnut@|@밤@
+@chew [v]@|@깨물다, 씹다@
+@chewing gum@|@껌@
+@chicken@|@닭@
+@chicken [animal]@|@닭@
+@chicken [bird]@|@닭@
+@chicken [food]@|@닭고기, 치킨@
+@chicken [grilled]@|@통닭@
+@chicken [meat]@|@닭고기@
+@chickenpox@|@수두@
+@child@|@아이, 이린이@
+@children@|@아동@
+@children [honorific]@|@자녀분@
+@children [pl.]@|@아이들@
+@children [pl]@|@아이들@
+@Chile@|@칠레@
+@chilli@|@고추@
+@chilly pepper@|@고추@
+@chimney@|@굴뚝@
+@chimpanzee@|@침팬지@
+@chin@|@턱@
+@China@|@중국@
+@Chinese@|@중국@
+@Chinese bellflower@|@도라지@
+@Chinese character@|@한자@
+@Chinese language@|@중국말@
+@Chinese person@|@중국 사람@
+@chips [fries]@|@감자 퇴김@
+@chlorophyll@|@엽록소@
+@chocolate@|@초콜릿@
+@choose@|@고르다, 골라요@
+@chop@|@썰다, 절단@
+@chop up [v]@|@다지다@
+@chopsticks@|@젓가락@
+@chopsticks and spoon@|@소저@
+@chord@|@화음@
+@Christian@|@기독교@
+@Christian name@|@세례명@
+@Christianity@|@기독교@
+@Christmas@|@성탄절, 크리스마스@
+@Christmas Eve@|@성탄장야@
+@chromium@|@크롬, 크롬뮴@
+@chromosome@|@염색체@
+@chrysanthemum@|@국화 [菊花]@
+@church@|@교가, 교회@
+@Chuseok [festival]@|@추석@
+@cicada@|@매미@
+@cigarette@|@담배@
+@cigarette [foreign cigarette]@|@양담배@
+@cigarette lighter [n]@|@라이터@
+@cinema@|@영화관@
+@cinema ticket@|@극장 표@
+@circular block@|@돌려 막기@
+@circulation@|@유통@
+@circumcision@|@할례@
+@citizen@|@시민@
+@city@|@도시, 시@
+@city centre@|@도심, 시내@
+@city hall@|@시청@
+@civet@|@사향고양이@
+@civil engineering@|@토목 공학@
+@claim [n]@|@클레임@
+@clam@|@조개@
+@clan@|@가문 [家門]@
+@clarinet@|@클라리넷@
+@class@|@급, 층@
+@class [lecture]@|@수업@
+@class [lesson]@|@수업@
+@class mate@|@반 친구@
+@classical music@|@고전 음악, 클래식, 클래식 음악@
+@classical song@|@가곡 [歌曲]@
+@classification@|@분류@
+@classroom@|@교실@
+@classy@|@고급@
+@claw@|@발톱@
+@clay@|@찰흙@
+@clean [a]@|@깨끗해요@
+@clean [be clean]@|@깨끗하다@
+@clean [house]@|@청소해요@
+@clean up [v]@|@청소하다@
+@cleaner [person]@|@청소부@
+@cleanly@|@깨끗이@
+@clear [be clear; weather]@|@맑다@
+@cleft@|@골@
+@clew@|@꾸라미, 꾸리, 실마리@
+@cliff@|@절벽@
+@climate@|@기후@
+@climb [mountain]@|@등산하다@
+@climbing [mountain]@|@등산@
+@climbing boots@|@등산화@
+@clinic@|@병원@
+@clip [v]@|@따다@
+@clock@|@시계@
+@clockwise@|@시계 방향@
+@clod of earth@|@흙덩어리@
+@cloister@|@화랑@
+@close@|@닫다 (닫아요), 닫아요@
+@close [nearby]@|@가깝다@
+@close [v]@|@감다@
+@close at hand@|@코앞에 닥치다@
+@closed@|@휴업@
+@closed [shop]@|@닫혔어요, 휴업@
+@closed stance@|@모아@
+@closely@|@바짝@
+@cloth@|@헝겊@
+@cloth [hemp cloth]@|@베@
+@cloth [wrapping cloth]@|@보@
+@clothes@|@옷, 의류@
+@clothes shop [men]@|@양복점@
+@clothes shop [women]@|@양장점@
+@clothing@|@옷@
+@cloud [n]@|@구름@
+@cloudy@|@흐려요, 흐리다 (흐려요)@
+@clown@|@어릿광대@
+@club@|@클럽@
+@club member@|@회원@
+@clue@|@실마리@
+@clutch [car]@|@클러치@
+@coach [bus]@|@대형버스@
+@coach [train]@|@객차@
+@coach station@|@버스 터미널@
+@coach trip@|@버스 투어@
+@coagulate@|@엉기다@
+@coal@|@석탄@
+@coast@|@해변@
+@coat@|@외투@
+@coat [n]@|@코트@
+@cobalt@|@코발트@
+@cobra@|@코브라@
+@Coca Cola@|@코카콜라@
+@cocaine@|@코카인@
+@cock [rooster]@|@수탉@
+@cock-a-doodle-doo@|@꼬끼요@
+@cockle@|@고막@
+@cockroach@|@바퀴벌레@
+@cocktail@|@칵테일@
+@cocoa@|@코코아@
+@coffee@|@커피@
+@coffee [black]@|@블랙커피@
+@coffee [decaffeinated]@|@디카페인 커피@
+@coffee house@|@커피숍@
+@coffee shop@|@다방, 커피숍@
+@cognac@|@코냑@
+@coin@|@동전, 코인@
+@Coke [drink]@|@코카콜라@
+@cola@|@콜라@
+@cold@|@추워요, 춥다 (추워요)@
+@cold [a]@|@추운, 추워요, 춥다 (추워요)@
+@cold [be cold]@|@차다@
+@cold [n]@|@감기@
+@cold [physically]@|@차가운@
+@cold water@|@냉소@
+@collaborate@|@공동으로 일하다@
+@collage@|@콜라주@
+@colleague@|@동료@
+@collect call [n]@|@콜렉트 콜@
+@college@|@대학, 대학교@
+@college [junior]@|@전문 대학@
+@college [university]@|@대학@
+@Colombia@|@콜롬비아@
+@colony@|@신민지@
+@colostrums@|@초유@
+@colour@|@깔, 색, 색깔@
+@colour film [for camera]@|@칼라 필림@
+@colourful@|@알록 달록한@
+@colourless@|@무색@
+@comb [n]@|@머리 빗, 빗@
+@come@|@오다 (와요)@
+@come back@|@돌라 오다@
+@come down@|@내려 오다@
+@come in@|@들어 오다@
+@come into@|@살판나다@
+@come out@|@나 오다@
+@come running@|@달려 오다@
+@come up@|@올라 오다@
+@comedy@|@코미디@
+@comfortable@|@편안해요, 편하다@
+@comfortably@|@편히@
+@comics [book]@|@만화@
+@commercial [TV]@|@광고@
+@common [usual]@|@보통@
+@common gull@|@갈매기@
+@common minnow@|@연준모치@
+@commonwealth@|@공화국@
+@communism@|@공산주의@
+@compact disc@|@시디, 콤팩트 디스크@
+@company [firm]@|@회사@
+@company director@|@상장@
+@company office@|@회사@
+@company president@|@사장@
+@company worker@|@직원, 회사원@
+@comparatively@|@비교적@
+@compared to@|@보다@
+@compartment [train]@|@객실@
+@competition@|@경쟁@
+@competitive price@|@저렴한 가격@
+@complaint@|@불평, 컴플래인@
+@complete [v]@|@끝내다 (끝내요)@
+@completely@|@아주, 정말로@
+@completely different situation@|@딴판@
+@complex number@|@복소수@
+@complexity@|@복잡@
+@complicated@|@복잡하다 (복잡해요)@
+@composer [musical composer]@|@작곡가@
+@computation@|@계산@
+@compute [v]@|@계산하다 (계산해요)@
+@computer@|@컴퓨터@
+@computer engineering@|@컴퓨터 공학@
+@computer game@|@컴퓨터 게임@
+@computer programmer@|@컴퓨터 프로그래머@
+@computerization@|@컴퓨터화@
+@comrade [n]@|@동무@
+@concert@|@연주회, 음악회, 콘서트@
+@concert hall@|@연주회장, 홀@
+@concertina@|@콘서티나@
+@conclude [v]@|@결정하다@
+@conclusion@|@결정@
+@concussion [medical]@|@뇌진탕, 진동@
+@conditioner [hair]@|@린스@
+@condom@|@콘돔@
+@conference@|@회의@
+@conference centre@|@회의장@
+@confirm [v]@|@확인하다@
+@conflagration@|@대화재@
+@congeal@|@얼다, 엉기다@
+@Congo@|@콩고@
+@congratulate [v]@|@축하하다@
+@congratulation@|@축하@
+@congratulations@|@축하하다 (축하해요)@
+@congratulatory song [n]@|@축가 [祝歌]@
+@congress@|@회의@
+@connect@|@연결하다 (연결해요)@
+@connection [electronic]@|@연결선@
+@connection [train]@|@연결편@
+@connoisseur@|@감정가@
+@consanguinity@|@종족@
+@consent@|@응낙@
+@considerably@|@퍽@
+@consonant@|@자음@
+@constellation@|@별자리@
+@construction work@|@공사@
+@consul@|@영사@
+@consulate@|@영사관@
+@contact lenses@|@콘택트 렌즈@
+@contact lenses cleaner@|@콘택트 랜즈 세척액@
+@contagion@|@감염@
+@contain@|@포함하다@
+@container@|@그릇, 용기, 컨테이너@
+@continent@|@대륙@
+@continuously@|@계속@
+@contraceptive [n]@|@피침약@
+@contrary [be contrary to]@|@걸리다@
+@contrast [in contrast]@|@도리어@
+@controls [car]@|@콘트롤@
+@convenient@|@편리해요, 편하다@
+@conveniently@|@편히@
+@convention@|@합의@
+@conversation@|@대화, 이야기, 회회@
+@conversation partner@|@말동무@
+@converse [v]@|@이야기 하다@
+@convicts [as a group@|@카인의 후예@
+@cook [person]@|@요리사@
+@cook [v]@|@요리하다 (요리해요)@
+@cooker@|@가스레인지, 쿠커@
+@cookie@|@과자@
+@cooking [n]@|@요리@
+@cooking for oneself@|@자취@
+@cooking oil@|@식용유@
+@cool@|@시원하다 (시원해요)@
+@coordinate@|@좌표@
+@Copenhagen@|@코펜하겐@
+@copy [n]@|@복사@
+@corkscrew@|@병따개@
+@cormorant@|@가마우지@
+@corn@|@옥수수@
+@corn flakes@|@콘플레이크@
+@corner@|@골목, 끝에, 코너@
+@corner [of road]@|@골목@
+@corporation@|@기업@
+@corpse@|@시체@
+@correct [right]@|@맞다 (맞아요)@
+@corridor@|@복도@
+@cosmetics shop@|@화장품 가게@
+@cosmology@|@우주론@
+@cost [n]@|@값, 대가 [代價], 비용@
+@cost price [n]@|@원가 [原價]@
+@Costa Rica@|@코스타리카@
+@cost-free@|@무료@
+@costume@|@복장@
+@cotton@|@솜@
+@cotton [n]@|@면@
+@cotton wool [n]@|@면@
+@cough [n]@|@기침@
+@count@|@세다@
+@count [v]@|@계산하다 (계산해요)@
+@counter [shop]@|@계산대@
+@country@|@국가, 나라, 시골@
+@country [countryside]@|@시골@
+@country [nation]@|@국가 [國家]@
+@countryside@|@시골@
+@coup d'état@|@불시의 일격@
+@couple [people]@|@커플@
+@courgette@|@호박@
+@courier@|@속달@
+@course [meal]@|@코스 메뉴@
+@course [study]@|@코스@
+@court [law]@|@법정@
+@court [tennis]@|@코트@
+@cousin@|@사촌@
+@cover [bed]@|@이불@
+@cow@|@소@
+@cowardice@|@비겁@
+@cow's milk@|@우유@
+@coyote@|@코요테@
+@coypu [rodent]@|@뉴트리아@
+@crab@|@게@
+@cradle@|@요람@
+@crafts@|@공예@
+@cranberry@|@크렌베리@
+@crane@|@두루미, 학@
+@crane [bird]@|@두루미@
+@crash@|@추락@
+@crawl [v]@|@기다@
+@crayfish@|@가재@
+@crayon@|@크레용@
+@cream@|@크림@
+@cream [fresh cream]@|@생크림@
+@creative@|@창조적인@
+@creator@|@창조자@
+@creature@|@동물@
+@credit@|@신용@
+@credit card@|@신용카드@
+@crescendo@|@점강음@
+@crescent kick@|@반달 차기@
+@crescent kick [inside]@|@반달 안차기@
+@crescent kick [outside]@|@반달 바깥 차기@
+@crib@|@어린이 침대@
+@cricket [animal]@|@괴뚜라미@
+@cricket [sport]@|@크리켓@
+@crisps@|@감자 튀김@
+@criticism@|@만평@
+@Croatia@|@크로아티아@
+@crocodile@|@악어@
+@croissant@|@크르와상@
+@crop@|@멀떠구니@
+@cross [n]@|@사거리, 십자가@
+@cross block@|@쌍수 막기@
+@crossbow@|@까마귀@
+@cross-country skiing [n]@|@크로스컨트리 스키@
+@crossed stance@|@교차@
+@crossing [ferry]@|@페리@
+@crossroads@|@십자로@
+@crow@|@까마귀@
+@crowd@|@사람들@
+@crown [tooth]@|@치관, 크라운@
+@crude oil@|@원유@
+@cruel@|@잔인한@
+@cruise [n]@|@배 여행, 크루저@
+@cruise ship@|@유람선@
+@crush [cooking]@|@놀러 부수다@
+@cry@|@울다, 울음@
+@cry [n]@|@외침@
+@cry [v]@|@울리다@
+@cry [weep]@|@울다 (울어요)@
+@cubism@|@입체파, 큐비즘@
+@cucumber@|@오이@
+@cuisine@|@요리@
+@culture@|@문화@
+@culture [newspaper]@|@문화@
+@cup@|@잔, 컵@
+@cupboard@|@선반@
+@cupful [counter]@|@잔@
+@curiosity@|@호기심@
+@current [a]@|@요즘@
+@current [electricity]@|@전류@
+@current events@|@시사@
+@cursed group@|@카인의 후예@
+@cursive style [calligraphy]@|@초서 입문@
+@curtain@|@커튼@
+@cushion@|@베개, 쿠션@
+@customer@|@손님@
+@customs@|@관세, 세관@
+@customs declaration@|@세관 신고@
+@cut@|@깎다 (깎아요)@
+@cut [hair]@|@깎다 (깎아요)@
+@cut up [cooking]@|@자르다@
+@cutlery@|@소저, 수저, 칼붙이@
+@cuttlefish@|@오징어@
+@cuttlefish bone@|@오징아뼈@
+@cybercafé@|@인터넷 카페@
+@cycling@|@사이클링@
+@cymbal@|@바라, 제금@
+@cynic@|@경유@
+@Cyprus@|@키프로스@
+@Cyworld@|@싸이월드@
+@Czech Republic@|@체코@
+@dad [n]@|@아빠@
+@Daewoo@|@대우@
+@dagger@|@단도@
+@daily@|@날마다@
+@daily [each day]@|@매일@
+@daily [per day]@|@하루에@
+@daily calendar pad@|@일력@
+@daily necessities@|@일상 용품, 일용품@
+@daily newspaper@|@일보@
+@damage@|@손상, 손해, 파손, 훼손@
+@dance [full-dress dance]@|@큰춤@
+@dance [n]@|@춤, 춤을@
+@dance [v]@|@춤을 추다, 춤취요@
+@danger@|@위험@
+@dangerous@|@위험, 위험해요@
+@dark@|@땅거미, 어둠@
+@dark [colour]@|@어두운@
+@darkness@|@암흑@
+@darmstadtium@|@다름슈타튬@
+@date [day]@|@날짜@
+@date [have a date]@|@데이트 하다@
+@date [mail]@|@날짜@
+@date of birth@|@생일@
+@daughter@|@딸, 아들@
+@daughter [first born]@|@딸@
+@daughter [honorific]@|@따님@
+@daughter [second born]@|@장녀@
+@daughter-in-law@|@며느리, 사위@
+@dawn@|@밝다, 새벽, 해돋이@
+@day@|@날, 하루@
+@day [date]@|@일@
+@day after tomorrow@|@모레@
+@day before yesterday@|@그제@
+@day by day@|@하루하루@
+@day of the week@|@요일@
+@daytime [n]@|@낮@
+@dead [a]@|@죽은@
+@dead body@|@시체@
+@dead of the night@|@한반중@
+@deaf@|@귀머거리@
+@dear [expensive]@|@비싼@
+@Dear... [letter]@|@께, 에게@
+@death@|@죽음@
+@debris@|@파편@
+@debt@|@부체, 빚@
+@decaffeinated@|@카페인 없는@
+@decaffeinated coffee@|@디카페인 커피@
+@December@|@십이월@
+@decide@|@정하다@
+@decide [v]@|@결정하다@
+@decision@|@결정@
+@declare@|@선언하다@
+@decline [v]@|@사절하다@
+@deed@|@행위@
+@deep@|@깊은, 짙다@
+@deep breath [n]@|@한숨@
+@deep fry [v]@|@튀기다@
+@deer@|@사슴@
+@defect@|@결함@
+@defective@|@고장@
+@defence@|@방어@
+@degenerate@|@변질@
+@degree [temperature]@|@도@
+@degree [university]@|@학위@
+@degree of acceleration@|@가속도 [加速度]@
+@deity@|@신성@
+@dejectedly@|@힘없다@
+@delay@|@연착@
+@delayed [to be delayed; train]@|@지연돼요@
+@delicious@|@맛있는, 맛있다@
+@delightful@|@즐겁다@
+@delivery@|@교부, 배달, 인도@
+@demigod@|@반신반인@
+@Den Haag@|@헤이그@
+@Denmark@|@덴마크@
+@dentist@|@치과의사@
+@dentures@|@의치@
+@deodorant@|@데오도란트, 방취제@
+@depart [v]@|@출발하다@
+@departing [a]@|@따나가는@
+@department store@|@백화점@
+@departure@|@출발@
+@departure lounge@|@출발 라운지@
+@dependants@|@가관, 식구@
+@deposit [to pay]@|@보증금@
+@depository@|@보관소@
+@descend [v]@|@내리다@
+@descendant@|@가손, 후예@
+@description@|@묘사@
+@desert@|@사막@
+@design@|@디자인@
+@desire@|@바라다@
+@desire [v]@|@원하다@
+@desk@|@책상@
+@dessert@|@디저트, 후식@
+@destination@|@목적지@
+@destiny@|@운명, 팔자@
+@destroyed@|@콩가루가 되다@
+@destruction@|@파괴@
+@detergent@|@세게@
+@determination@|@경정@
+@deuterium@|@중수소@
+@development@|@발달@
+@devil@|@악마@
+@devilish@|@악마 같은@
+@devoted husband@|@애처가 [愛始家]@
+@devouted husband@|@애처가@
+@diabetic@|@당뇨병@
+@dial [telephone]@|@결리다@
+@dialect@|@사투리@
+@diameter@|@직경@
+@diarrhoea@|@설사@
+@diary@|@일기@
+@dictionary@|@사전@
+@die [honorific]@|@돌아가다@
+@die [v]@|@주사위, 죽다@
+@dieresis@|@문음 기호@
+@diet@|@다이어트@
+@different@|@다르다, 다른@
+@different kind@|@다른 거@
+@difficult@|@어렵다 (어려운)@
+@difficult [v]@|@힘들다@
+@dig [v]@|@파다@
+@dig out [v]@|@캐다@
+@digital@|@디지털@
+@digital camera@|@디지털 카메라@
+@diligently [a]@|@열심히@
+@diminuendo@|@점점 약해지는 음@
+@dimple@|@보조개, 불우물@
+@dine [v]@|@식사하다@
+@dining room@|@식당@
+@dinner@|@석식, 저녁, 저녁 식사@
+@dinosaur@|@공룡@
+@dip@|@짚다@
+@diplomat@|@외교관@
+@direct [train]@|@직행@
+@direction@|@방향, 편@
+@director [company]@|@상장@
+@directory@|@주소록@
+@dirty@|@더럽다 (더러워요)@
+@dirty dishes@|@설겆이@
+@disabled@|@장애자@
+@disappointment@|@실망@
+@disapprove@|@찬성하지 않다@
+@disco@|@디스코@
+@discount@|@디스카운트, 할인@
+@discourse@|@상의@
+@discourtesy@|@실례@
+@discovery@|@발견@
+@discussion@|@토론@
+@disease@|@질병@
+@disguise [n]@|@가장 [假裝]@
+@dish@|@그릇, 접시@
+@dishes [wash dishes]@|@설겆이하다@
+@disinfectant@|@소독약@
+@disk [computer disk]@|@디스켓@
+@disk [computer]@|@디스크@
+@dislike@|@싫어하다@
+@disperse@|@흩다@
+@displeasure@|@불쾌@
+@disposable@|@일회용@
+@disseminate@|@뿌리다, 퍼뜨리다@
+@dissent@|@이의@
+@dissertation@|@논설@
+@dissimilarity@|@부동@
+@dissimulation [n]@|@가식 [假飾]@
+@distance@|@거리, 사이@
+@district@|@구역, 지방, 지역@
+@diurnal arc@|@일주호@
+@dive [n]@|@무자맥질@
+@dive [v]@|@무자맥질하다@
+@divestiture@|@매각@
+@divide [v]@|@나누다@
+@divorce@|@이혼@
+@divorce [get divorced]@|@이혼하다@
+@divorce [n]@|@이혼@
+@divorced@|@이혼한@
+@dizzy [feel dizzy]@|@어지럽다 (어지러워요)@
+@do@|@하다 (해요)@
+@do not touch@|@만지지 마시오@
+@do something in vain@|@허탕치다@
+@doctor@|@의사@
+@document@|@서류@
+@document [computer]@|@파일@
+@dog@|@개, 견@
+@dog [bitch]@|@암개@
+@dog [little dog; puppy]@|@강아지@
+@dog [male dog]@|@수개@
+@dog [stray dog]@|@들개@
+@doll@|@인형@
+@dollar@|@달러@
+@dolmen@|@고인돌@
+@dolphin@|@돌고래@
+@domestic@|@국내@
+@domestic animal@|@가축 [家畜]@
+@domesticated animal@|@길들인 동물@
+@donation@|@기부금@
+@donkey@|@당나귀@
+@door@|@문@
+@door lock@|@자물쇠@
+@dormitory@|@기숙사@
+@double [quantity]@|@곱빼기, 두 배@
+@double bed@|@어블 침대@
+@double forearm block@|@해쳐 막기@
+@double knife hand block@|@두 손날 막기@
+@double punch@|@두번 지르기@
+@double room@|@더블 룸, 이인용 방, 이인용 방@
+@doubt@|@의혹@
+@dough@|@반죽@
+@doughnut@|@가락지 빵, 도넛@
+@dove@|@비둘기@
+@down@|@아래@
+@download [n]@|@다운로드@
+@download [v]@|@내려 받다, 다운로드 하다@
+@downstairs@|@아래, 아래층@
+@downtown@|@시내@
+@downward elbow@|@내려팔꿈@
+@dowry@|@지참금@
+@Dr@|@박사@
+@dragon@|@용@
+@dragonfly@|@잠자리@
+@drain@|@하수구@
+@draught beer@|@생맥주@
+@draw@|@그리다, 끌다, 따르다, 비기다, 뽑다@
+@dream@|@꿈@
+@dream [v]@|@꾸다, 꿈꾸다@
+@dress@|@드레스, 원피스@
+@dress [cooking; v]@|@무치다@
+@dress [n]@|@드레스@
+@dress shirt@|@와이샤쓰@
+@dressing [medical]@|@붕대@
+@dressing [salad]@|@드레싱@
+@drill [study; n]@|@연습@
+@drilling [study]@|@학습@
+@drink [honorific]@|@드시다@
+@drink [n]@|@음료수@
+@drink [until very drunk]@|@코가 삐뚤어지게 마시다@
+@drink [v]@|@마시다 (마셔요)@
+@drinking glass@|@잔@
+@drinking water@|@음료수@
+@drive [v]@|@운전하다 (운전해요)@
+@driver [car]@|@운전수@
+@driveway@|@차도, 찾길@
+@driving licence@|@운전 면허@
+@drug [medical]@|@약@
+@drugstore@|@약방@
+@dry [a]@|@마르다, 마른@
+@dry [clothes]@|@말리다 (말려요)@
+@dry cleaner's [shop]@|@세탁소@
+@dry cleaning@|@드라이클리닝@
+@Dublin@|@더블인@
+@duck@|@오리@
+@duct@|@덕트@
+@dugong [mammal]@|@듀공@
+@dumpling@|@만두@
+@dune@|@둔, 둔덕, 둔지, 모래톱@
+@dung@|@똥@
+@during@|@동안@
+@dust@|@먼지@
+@duty@|@과업, 의무@
+@duty free@|@면세@
+@duvet@|@이불@
+@dwarf@|@난쟁이@
+@dwarf [n]@|@꼬마@
+@dwarf planet@|@왜행성@
+@each day@|@매일@
+@each other@|@서로@
+@eagle@|@독수리@
+@ear@|@갈다, 귀@
+@earache@|@귀가 아파요@
+@early@|@일찌기, 일찍@
+@early grave@|@이른 무덤@
+@earn@|@벌다@
+@earplugs@|@귀마개@
+@earring@|@귀걸이@
+@earth@|@땅, 지구, 흙@
+@Earth [planet]@|@지구@
+@earthquake@|@지진@
+@earwax@|@귀에지@
+@earwig@|@집게벌레@
+@easily@|@쉽게@
+@east@|@동, 동쪽, 새@
+@East Sea@|@동해@
+@East Timor@|@동키모르@
+@Easter@|@부활절@
+@easy@|@쉬운, 쉽다@
+@eat@|@막다 (먹어요)@
+@eat [honorific]@|@드시다, 잡수다, 잡수시다@
+@echidna@|@가시두더지, 바늘두더지@
+@echinoderm@|@극피동물@
+@eclipse@|@식현상@
+@eco-@|@생태학@
+@ecology@|@생태학@
+@economics@|@경제학@
+@economy@|@경제@
+@economy [n]@|@경제@
+@economy [newspaper]@|@경제@
+@economy class@|@일반석@
+@ectopic pregnancy@|@자궁외임신@
+@editorial [newspaper]@|@사설@
+@educate [v]@|@가르치다@
+@education [newspaper]@|@교육@
+@education institute@|@학원@
+@eel@|@뱀장어, 장어@
+@eerie@|@야릇하다, 어리다, 어리치다@
+@egg@|@계란, 달걀, 알@
+@egg [fried]@|@달걀 후라이@
+@egg [hard boiled]@|@삶은 달걀@
+@egg [scrambled]@|@스크램블드 에그@
+@ego@|@자아@
+@egret@|@백로, 해오라기@
+@Egypt@|@이집트@
+@elbow@|@팔꿈치@
+@elbow [back elbow]@|@뒤팔꿈@
+@elbow [downward elbow]@|@내려팔꿈@
+@elbow [side elbow]@|@옆팔꿈@
+@elbow [upper elbow]@|@앞팔꿈@
+@elder@|@어른@
+@elder brother@|@오빠@
+@eldest son@|@장남@
+@electric current@|@전류@
+@electric fan@|@선풍기@
+@electric razor@|@전기 면도기@
+@electrical adapter@|@어댑터@
+@electrical engineering@|@전기 공학@
+@electrical plug@|@플러그@
+@electrician@|@전기공@
+@electricity@|@전기@
+@electromagnet@|@전자석@
+@electron@|@전자@
+@electronic engineering@|@전자 공학@
+@elegance@|@우아@
+@elegant@|@우아한@
+@elementary school@|@초등학교@
+@elephant@|@코끼리@
+@elevator@|@승강기, 엘리베이터@
+@elixir@|@연금술의 영액@
+@elm@|@느릅나무@
+@e-mail@|@이메일, 전저우편@
+@embarrass@|@창피 주다@
+@embassy@|@대사관@
+@embezzlement@|@횡령@
+@embrace [v]@|@안다@
+@embryo@|@태아@
+@emergencies@|@응급실@
+@emergency@|@비상@
+@emergency exit@|@비상구@
+@emperor@|@황제, 황제@
+@empire@|@제국@
+@employee@|@직원, 회사원@
+@empress@|@황후@
+@empty@|@비다, 빈@
+@empty [v]@|@비우다@
+@encephalopathy@|@뇌질환@
+@encyclopaedia@|@백과사전@
+@end [n]@|@끝@
+@end [v]@|@끝나@
+@end of month@|@월말@
+@endeavour [v]@|@힘쓰다@
+@enemy@|@원수, 적@
+@energy@|@에너지, 힘@
+@energy [n]@|@힘@
+@engaged [get engaged]@|@약혼하다@
+@engaged [occupied]@|@사용 중@
+@engaged [phone]@|@통화중@
+@engaged [to marry]@|@약혼하다 (약혼해요)@
+@engaged [toilet]@|@사용 중@
+@engagement@|@약혼 [約婚], 혼약@
+@engine [n]@|@엔진@
+@engineer@|@공학자, 기술자@
+@England@|@영국@
+@English alphabet@|@로마 문자@
+@English class@|@영어@
+@English language@|@영어@
+@English person@|@영국 사람@
+@English tea@|@홍차@
+@enjoyable@|@즐겁다@
+@enjoyment@|@쾌락@
+@enormously@|@엄청@
+@enough [food]@|@됐어요@
+@enquire [v]@|@무러 보다@
+@enquiry desk@|@안내 창구@
+@enter [place]@|@들어가다 (들어가요)@
+@entertainment [newspaper]@|@연예@
+@enthusiasm@|@열의@
+@entrance@|@입구@
+@entrance [main entrance]@|@큰문@
+@entrance fee@|@입장료@
+@entrance hall@|@현관@
+@envelope@|@봉투@
+@ephemeral [n]@|@하루살이@
+@ephemeral existence@|@파리목숨@
+@epiglottis@|@후두개@
+@epileptic@|@간질@
+@epileptic fit@|@간질 발작@
+@Episcopalian [church member]@|@감독교@
+@epoch@|@시대@
+@equipment@|@설비@
+@era@|@시대@
+@err [hesitation]@|@어@
+@errant@|@편력하는@
+@escalator@|@에스컬레이터@
+@eschatology@|@종말론@
+@esoteric@|@비전@
+@especially@|@특히@
+@Esperanto@|@에스페란토@
+@essay@|@수필@
+@essential@|@필수@
+@establish@|@설립하다@
+@estate@|@재산@
+@esteemed surname@|@성씨@
+@estimation [n]@|@평가 [評價]@
+@estuary [n]@|@개@
+@eternity@|@영원@
+@ethics@|@윤리학@
+@Ethiopia@|@에티오피아@
+@etymology@|@어원, 어원학@
+@eucalyptus@|@유칼리나무@
+@Euclidean geometry@|@유클리드 기하학@
+@euphemism@|@완곡어법@
+@Euro@|@유로@
+@Europe@|@구라파, 유럽@
+@European Union@|@유럽연합@
+@evacuate [v]@|@비우다@
+@evacuation [n]@|@철수@
+@evaluation [n]@|@평가 [評價]@
+@even@|@역시@
+@even for a moment@|@한시도@
+@even though@|@가령 [假令]@
+@evening@|@저녁@
+@evening meal@|@석식, 저녁식사@
+@evening star@|@개밥바라기@
+@eventually@|@결국@
+@every@|@각, 마다@
+@every hour@|@시간마다@
+@every matter@|@매사@
+@everyday@|@날마다, 매일@
+@everyone@|@모두, 여러분@
+@everything@|@모두@
+@everywhere@|@어디에나@
+@evince@|@분명히 보여주다@
+@Ewha Women's University@|@이대@
+@exactly@|@바로@
+@exaggerate [v]@|@과장하다@
+@examination@|@시험@
+@example [for example]@|@예를 들면@
+@excellent@|@훌륭해요@
+@excess baggage@|@초과 화물@
+@excessive@|@과도의, 너무@
+@exchange@|@교환, 바꾸@
+@exchange operator@|@교롼원@
+@exchange rate@|@환율@
+@exchange student@|@교환학생@
+@exclamation mark@|@느낌표@
+@excommunication@|@파문@
+@excrement@|@똥@
+@excursion@|@소풍@
+@excuse me@|@실례합니다@
+@excused [be excused]@|@죄송하다@
+@execution@|@실행@
+@exercise@|@연습@
+@exercise [study; v]@|@연습하다@
+@exercise book@|@공책@
+@exhibition@|@전시회@
+@exist [honorific]@|@계시다@
+@exist [v]@|@있다@
+@existence@|@존재@
+@existential@|@실존@
+@existentialism@|@실존주의@
+@existentialist@|@실존주의자@
+@exit@|@비상구, 출구@
+@exit [v]@|@나가다 (나가요)@
+@exorcism@|@굿@
+@exoteric@|@공개@
+@exotic@|@이국적인@
+@expensive@|@비싸다, 비싼@
+@expensive watch@|@비싼 시계@
+@experience@|@일, 적@
+@experience [n]@|@경험@
+@experience [v]@|@경험하다@
+@expert [n]@|@전문가 [專門家]@
+@explanation@|@설명@
+@explosion@|@폭발@
+@export@|@수출품@
+@exposition@|@박람회@
+@express train@|@고속열차@
+@expression@|@표현@
+@expulsion@|@추방@
+@extension [electrical]@|@연겨선@
+@extension [phone]@|@교환@
+@extensive@|@광대한@
+@extraordinary@|@특변한@
+@extraterrestrial@|@지구밖@
+@extremely@|@가장@
+@eye@|@눈@
+@eye drops@|@안약@
+@eyebrow@|@눈썹@
+@eyelash@|@속눈썹@
+@eyelid@|@눈꺼풀@
+@fabric@|@옷감@
+@face@|@얼굴@
+@face [n]@|@면 [面]@
+@face block@|@얼굴 막기@
+@fact@|@사실@
+@factory@|@공장@
+@factual@|@사실@
+@faeces@|@똥@
+@faint@|@기절해요@
+@faith@|@믿음@
+@fake [n]@|@가짜 [假K]@
+@falcon@|@송골매@
+@fall [season]@|@가을@
+@fall [v]@|@떨어지다, 지다@
+@fall into@|@빠지다@
+@fall into poverty@|@바가지를 차다@
+@fall short of o.'s expectation@|@헛다리짚다@
+@fallen leaves@|@낙엽@
+@false [H]@|@가 [假]@
+@false name@|@가명 [假名]@
+@false teeth@|@의치, 틀니@
+@falsetto [n]@|@가성 [假聲]@
+@family@|@가문 [家門], 가정 [家庭], 가족 [家簇]@
+@family dissident@|@가족 반체제인사@
+@family member@|@식구@
+@family name@|@성@
+@family photograph@|@가족사진@
+@famous [be famous]@|@유명하다@
+@fan [electric]@|@선풍기@
+@fan [handheld]@|@부체@
+@fan [Taekwondo]@|@부채@
+@fan translation@|@비영리적인 번역@
+@far@|@먼, 멀어요@
+@far [a]@|@멀리@
+@Far East@|@극동@
+@fare@|@운임@
+@farm@|@농장@
+@farming@|@농사@
+@Faroer@|@파로스@
+@fast@|@빠르다 (빨라요), 빨라요@
+@fat [person]@|@뚱뚱해요@
+@fate@|@팔자@
+@father@|@아버님, 아버지@
+@father [honorific]@|@아버님@
+@father-in-law@|@시아버지, 장인, 장인어른@
+@fault@|@결함@
+@faulty [machine]@|@결함 있어요@
+@favour@|@양보, 조움@
+@fax@|@팩스@
+@fax [v]@|@팩스 보내요@
+@fax number@|@팩스 번호@
+@feat [n]@|@공적@
+@February@|@이월@
+@feebly@|@힘없다@
+@feel empty@|@허전하다@
+@feel light@|@홀가분하다@
+@feel relieved@|@한시름놓다@
+@feel unencumbered@|@홀가분하다@
+@feeling@|@기분@
+@feet@|@발@
+@fellow conspirators@|@한통속@
+@female@|@여성, 여자@
+@female cat@|@암고양이@
+@female soldier@|@여군@
+@ferry@|@나룻배@
+@ferry [n]@|@페리@
+@festival@|@축제@
+@fetch@|@갖고 와요@
+@fetus@|@태아@
+@fever@|@열, 온도@
+@few@|@적, 적다, 조금@
+@fiancé@|@약혼자@
+@fiancée@|@약혼자@
+@field@|@들, 밭, 판@
+@field hockey [n]@|@필드하키@
+@fiend@|@악마@
+@fiendish@|@악마@
+@fig@|@무화과, 무화과나무@
+@fig tree@|@무화과나무@
+@fighting scene@|@싸움판@
+@Fiji@|@피지@
+@file@|@쓸다, 줄@
+@file [computer]@|@파일@
+@fill [v]@|@채워요@
+@filling [tooth]@|@봉@
+@film [for camera]@|@필름@
+@film [n; movie]@|@영화@
+@film star@|@스타@
+@final [a]@|@마지막@
+@finally@|@나중@
+@finance [newspaper]@|@금융@
+@find@|@찾다 (찾아요)@
+@find fault with@|@흉잡다@
+@find out [v]@|@알아 보다@
+@fine [n]@|@벌금@
+@fine [penalty]@|@벌금@
+@fine arts@|@미술@
+@finger@|@손가락@
+@finger [spear finger]@|@손끝@
+@fingernail@|@손톱@
+@fingerprint@|@지문@
+@finish [v]@|@끝나, 끝나다@
+@Finland@|@핀란드@
+@fir@|@전나무@
+@fire@|@화덕@
+@fire [big]@|@큰불@
+@fire [camp]@|@캠프 화이오@
+@fire [house]@|@불, 화재@
+@fire alarm@|@화재 경보기@
+@fire ant@|@불개미@
+@fire brigade@|@소방대@
+@fire escape@|@비상 출구@
+@fire extinguisher@|@소화기@
+@firecracker@|@폭죽@
+@fire-fighter@|@기관병, 소방관@
+@fireman@|@기관병@
+@fireplace@|@벽난로@
+@firewoman@|@기관병, 여자 소방수@
+@firewood@|@땔나무, 장작@
+@fireworks@|@불꽃놀이@
+@firm [company]@|@회사@
+@firm [hard]@|@딱딱하다 (딱딱한)@
+@firmly@|@굳이@
+@first@|@처음, 첫, 최사@
+@first [the first]@|@제일@
+@first aid@|@응급치료@
+@first aid kit@|@구급약 세트@
+@first born son@|@장남@
+@first bus@|@첫차@
+@first class@|@일등석@
+@first class [flight]@|@일등석@
+@first class post@|@속달@
+@first day of month@|@초하루@
+@first floor@|@일층@
+@first floor [above ground floor@|@이층@
+@first name [given name]@|@세례명, 이름@
+@first time@|@처음@
+@first train@|@첫차@
+@firstly@|@우선@
+@fish@|@고기, 물고기@
+@fish [animal]@|@물고기@
+@fish [food]@|@생선@
+@fish [fresh; as food]@|@생선@
+@fish [n]@|@마리, 생선@
+@fish hook@|@낚시@
+@fishing [n]@|@낚시@
+@fishing boat@|@어선@
+@fist@|@권@
+@fist [fore fist]@|@앞주먹@
+@fist [hammer first]@|@등 주먹@
+@fist [hammer fist]@|@매 주먹@
+@fist [side hammer fist]@|@옆주먹@
+@fitting room@|@탈의실@
+@fixed price [n]@|@정가 [定價]@
+@fixed stance@|@고장@
+@flagpole@|@깃대@
+@flame@|@화염@
+@flamenco@|@플라멩코@
+@flamingo@|@홍학 [紅鶴]@
+@flat [apartment]@|@아파트@
+@flat [battery]@|@배터리가 없어요@
+@flat object [counter]@|@장@
+@flat tyre@|@펑크@
+@flavour@|@맛@
+@flaw@|@결함, 결함, 흉@
+@flesh fly@|@똥파리@
+@float [v]@|@뜨다@
+@flood@|@홍수@
+@flood [heavy flood]@|@큰물@
+@flooded [be flooded]@|@큰물이 지다@
+@floor@|@바닥, 층@
+@floor [building]@|@층@
+@floorball@|@플로어볼@
+@floppy@|@느슨한, 플로피@
+@flounder@|@도다리@
+@flour@|@가루@
+@flower@|@꽃@
+@flower shop@|@꽃가게@
+@flu@|@독감@
+@flute@|@프루트@
+@flute [n]@|@피리@
+@fly [animal]@|@파리@
+@fly [insect]@|@파리@
+@fly [n]@|@파리@
+@fly [v]@|@날다 (날러요)@
+@fly poison@|@파리약@
+@fly swatter@|@파리채@
+@flying squirrel@|@날다람쥐@
+@foam@|@거품은@
+@fodder@|@꼴, 사료@
+@fodder [n]@|@먹이@
+@foetus@|@태아, 태아@
+@fog@|@안개@
+@fold one's arms@|@팔짱@
+@fold up@|@걷다@
+@folk song@|@민요@
+@folksong [n]@|@대중가요@
+@follow [v]@|@따르다@
+@food@|@으식, 음식@
+@food [newspaper]@|@식품@
+@food oil@|@식용유@
+@food poisoning@|@식중독@
+@fool [n]@|@바보@
+@foot@|@다리, 발@
+@foot [on foot]@|@걸어서@
+@foot blade@|@발날@
+@foot sword@|@발칼@
+@football [soccer]@|@축구@
+@footwear@|@신, 신발@
+@for [bound for]@|@행@
+@for [during]@|@동안@
+@for [in exchange for]@|@대신@
+@for a long time@|@오랫동안@
+@for a moment@|@잠깐@
+@for a while@|@한동안@
+@for example@|@예를 들면@
+@for one year@|@일년간@
+@fore first@|@앞주먹@
+@forearm@|@팔목@
+@forehead@|@이마@
+@foreign@|@외국@
+@foreign cigarettes@|@양담배@
+@foreign country@|@외국, 타국@
+@foreign land@|@위국@
+@foreign language@|@외국어@
+@foreleg@|@앞다리@
+@forest@|@삼림, 숲@
+@forget [v]@|@잊다@
+@forgive [v]@|@용서하다@
+@fork [cutlery]@|@포크@
+@fork [n]@|@포크@
+@fortnight@|@이주 간@
+@forward stance@|@앞굽이 서기@
+@foster father@|@양보@
+@founder@|@시조@
+@fountain@|@분수@
+@fountain pen@|@만넌필@
+@fox@|@여우@
+@foyer [n]@|@로비@
+@fracture [bone]@|@골절@
+@fragrance@|@향기@
+@frame [picture]@|@액자@
+@France@|@프랑스@
+@francium@|@프랑슘@
+@fraternity@|@띠앗@
+@freckle@|@주근깨@
+@free@|@공짜로, 무료@
+@free [no cost]@|@무료@
+@free [not occupied]@|@비어있는@
+@free [unconstrained]@|@신선한@
+@free of charge@|@무료@
+@free time@|@틈@
+@freedom@|@자유@
+@freeze@|@얼다, 얼리다, 얼어붙다@
+@French [a]@|@불란서, 프랑스@
+@French fries@|@감자 퇴김@
+@frequent@|@빈반한@
+@frequent a place [like home]@|@큰집 드나들듯@
+@frequently@|@자주@
+@fresh [food]@|@신선한@
+@fresh cream@|@생크림@
+@Friday@|@금요일@
+@fridge@|@냉장, 냉장고@
+@fried egg@|@달걀 후라이@
+@fried food@|@퇴긴 음식@
+@friend@|@친구@
+@friend [n]@|@동무@
+@friendly [be friendly]@|@친절하다@
+@fries [chips]@|@감자 퇴김@
+@frog@|@개구리, 머구리@
+@from@|@에서, 한테, 한테서@
+@from [sender of mail]@|@보낸 사람, 보낸이@
+@from when@|@언제 부터@
+@front@|@앞@
+@front kick@|@앞차기@
+@frost@|@서리@
+@froth@|@거품은@
+@froth [cooking]@|@거품을 내다@
+@fructose@|@과당@
+@fruit@|@과실, 과일@
+@fruit dealer@|@장수@
+@fruit juice@|@과일 주스, 주스@
+@fruit monger [shop]@|@과일 가게@
+@fruit shop@|@과일 가게@
+@fruitless journey@|@헛걸음@
+@fruitless labour@|@헛수고@
+@fry [deep fry]@|@튀기다@
+@fry [v]@|@볶다@
+@fuel@|@연료@
+@full@|@부르다@
+@full board@|@식사 제공@
+@full moon@|@만월@
+@full of strengh@|@힘차다@
+@full-dress dance@|@큰춤@
+@fun@|@재미@
+@fun [be fun]@|@재미있다@
+@function@|@기능, 함수@
+@functionality@|@시능@
+@fundamentalism@|@근본주의@
+@funny [amusing]@|@재미있는@
+@funny [strange]@|@옷기는@
+@furniture@|@가구 [家具]@
+@further@|@다른@
+@furthermore@|@또@
+@fuse@|@퓨즈@
+@fuse box@|@퓨즈박스@
+@future@|@장래@
+@future [in the future]@|@나중에@
+@future [n]@|@미래@
+@gain@|@얻다, 얻음@
+@gallery@|@갤러리@
+@gallows humour@|@교수대 유머@
+@gambling@|@도박 [睹博]@
+@gambling money on table@|@판돈@
+@game@|@게임, 놀이@
+@game show@|@방송된 게임@
+@gap@|@사이@
+@garage@|@차고@
+@garbage [n]@|@쓰레기@
+@garden@|@정원@
+@garganey@|@발구지@
+@garlic@|@마늘@
+@garment@|@옷@
+@gas leak [n]@|@누출@
+@gasoline@|@가솔린@
+@gate@|@문@
+@gate [airport]@|@게이트@
+@gather [v]@|@모이다@
+@gay [bright]@|@명랑한@
+@gay [homosexual]@|@게이, 동성연애자@
+@GDP@|@국내 총생산@
+@gear@|@기어@
+@gender@|@성, 성별@
+@genealogy@|@가계, 계보, 족보, 혈통@
+@general@|@장군@
+@general news [newspaper]@|@전체@
+@generous@|@관대한@
+@generous heart@|@큰마음@
+@genius@|@천재@
+@genre@|@장르@
+@gentleman@|@신사@
+@gentlemen [toilet]@|@남자@
+@gently@|@살살@
+@gents [toilet]@|@남자 화장실@
+@geography@|@지리학@
+@geology@|@지질학@
+@geometry@|@기하학@
+@Georgia@|@그루지야@
+@geriatrics@|@노인병학, 노인의학@
+@German@|@독일@
+@Germany@|@독일@
+@gerontology@|@노인학@
+@get [fetch]@|@갖고 와요@
+@get [obtain]@|@갖고 있다 (갖고 있어요)@
+@get [v]@|@받다@
+@get a job@|@취직하다@
+@get along [v]@|@지내다@
+@get divorced@|@이혼하다@
+@get in touch@|@연락드리다@
+@get married@|@결혼하다@
+@get off [off]@|@내리다 (내려요)@
+@get off [train; bus]@|@내리다@
+@get out [v]@|@나가다 (나가요)@
+@get ready@|@준비하다@
+@get together@|@모이다@
+@get up [v]@|@일어나다 (일어나요)@
+@giant snake@|@그렁이@
+@gift@|@선물@
+@gift shop@|@선물 가게@
+@ginger@|@생녀@
+@ginseng@|@인삼, 인삼차@
+@ginseng tea@|@인삼차@
+@ginseng wine@|@인삼주@
+@giraffe@|@기린, 지라프@
+@girl@|@소녀@
+@girlfriend@|@여자친구@
+@girlish@|@계집애다운@
+@give@|@주다 (줘요)@
+@give [honorific]@|@드리다@
+@give back [v]@|@돌려주다 (돌려줘요)@
+@give help@|@도와주다@
+@given name@|@세례명@
+@glacier@|@빙하@
+@glad to meet@|@반갑다@
+@gladly@|@쾌히@
+@gland@|@동맥@
+@glasnost@|@글라스노스트@
+@glass@|@유리, 잔, 컵@
+@glasses [spectacles]@|@안경@
+@glaucoma@|@녹내장@
+@glistening@|@반짝반짝 하다@
+@glittering@|@반짝반짝 하다@
+@global warming@|@지구 온난화@
+@globalization@|@세계화@
+@globe@|@지구@
+@glorious@|@영광그럽은@
+@glottal stop@|@성문 폐쇄음@
+@glottis@|@성문@
+@gloves@|@장갑@
+@glucose@|@포도당@
+@glue@|@풀@
+@gnat@|@모기@
+@go@|@가다 (가요), 바둑, 사라지다@
+@go back [v]@|@돌아가다 (돌아가요)@
+@go down@|@내려 가다@
+@go for a walk@|@산책하다@
+@go in@|@들어가요@
+@go on foot [walk]@|@걸어가다@
+@go out [v]@|@나가다 (나가요)@
+@go shopping@|@쇼핑해요@
+@go up@|@올라 가다@
+@go with [follow]@|@따르다@
+@goat@|@염소@
+@goatee@|@염소 수염@
+@God@|@신, 하느님@
+@godly@|@신성한@
+@gold@|@골드, 금 [金]@
+@gold [colour]@|@금색@
+@gold ring@|@금반지@
+@golden eagle@|@검독수리@
+@goldfish@|@금붕어@
+@goldsmith@|@금 세공인@
+@golf@|@골프@
+@golf [play golf]@|@골프 치다@
+@golf ball@|@골프 공@
+@golf club@|@골프 클럽@
+@golf course@|@골프 코스@
+@gone@|@간@
+@gong@|@징@
+@good@|@좋다 (좋아요), 좋아요, 좋은, 착함@
+@good [be good by nature]@|@착하다@
+@good afternoon@|@안녕하세요@
+@good bye [to leaving]@|@안녕히 가세요@
+@good evening@|@안녕하세요@
+@good fortune@|@다행@
+@good idea@|@좋은 생각@
+@good medicine@|@좋은 약@
+@good morning@|@안영 하세요@
+@good thought@|@좋은 생각@
+@good value@|@싸다@
+@goodbye@|@안녕히 가세요, 안녕히 계세요@
+@goodbye [to staying]@|@안녕히 계세요@
+@goodness [interjection]@|@아이구@
+@goodnight@|@안녕히 주무세요@
+@goods@|@물건, 상품@
+@goods [manufactured goods]@|@제품@
+@goose@|@거위@
+@gorge@|@골짜기, 목구멍, 협곡 [峽谷]@
+@gorilla@|@고릴라@
+@gossip@|@만평@
+@gourd@|@박@
+@gout@|@통풍@
+@government@|@정부@
+@governor@|@주지사@
+@grab@|@잡다@
+@grace@|@우아@
+@grade [n]@|@급@
+@graduate [v]@|@졸업하다@
+@graffiti@|@낙서@
+@grains of boiled rice@|@밥풀@
+@gram@|@그램@
+@grammar@|@문법@
+@grand@|@큰@
+@Grand Canyon@|@그랜드 캐년@
+@grand unification theory@|@대통일 이론@
+@grandchildren@|@손주@
+@granddaughter@|@손녀@
+@grandfather@|@할아버지@
+@grandfather [honorific]@|@할아버님@
+@grandfather [maternal side]@|@외할아버지@
+@grandfather [paternal side]@|@할아버지@
+@grandmother@|@할머니@
+@grandmother [honorific]@|@할머님@
+@grandmother [maternal side]@|@외할머니@
+@grandmother [paternal side]@|@할머니@
+@grandparents@|@조부모@
+@grandson@|@손자@
+@grape@|@포도@
+@grapefruit@|@자몽@
+@grasp a situation@|@간파@
+@grass@|@풀@
+@grasshopper@|@메뚜기@
+@grate [v]@|@갈다@
+@grateful [be grateful]@|@고맙다@
+@graveyard@|@묘지@
+@gravy@|@그레이비@
+@great [large]@|@큰@
+@great anxiety@|@한걱정@
+@Great East Gate@|@동대문@
+@great quantity@|@우르르@
+@Great South Gate@|@남대문@
+@grebe@|@논병하리@
+@Greece@|@그리스@
+@greedy@|@욕심 많은@
+@Greek [language]@|@그리스어@
+@green@|@녹색, 초록, 푸르다@
+@Green Belt@|@녹색 띠@
+@green blue@|@푸르다@
+@green onion [n]@|@파@
+@green tea@|@녹차@
+@greengrocer@|@야채 가게@
+@greeting [n]@|@인사@
+@greeting card@|@엽서@
+@Gregorian calendar@|@그레고리오력@
+@grey@|@회색@
+@grey hair@|@흰머리@
+@greylag goose@|@회색기러기@
+@grill [v]@|@굽다 (구워요), 석쇠에 굽다@
+@grilled@|@구운, 군@
+@grind [v]@|@갈다@
+@grocery store@|@식료풐점@
+@groin@|@가랑이, 샡@
+@groom [bridegroom]@|@신랑@
+@grotto@|@암@
+@ground@|@땅, 지구, 터@
+@ground floor@|@일층@
+@ground press@|@지압@
+@ground zero@|@그라운드 제로@
+@groundless rumour@|@헛소문@
+@group [people]@|@그룹@
+@group of islands@|@제도@
+@grouse@|@뇌조@
+@grouse [black grouse]@|@멧닭@
+@grow [v]@|@가르다, 자라다, 크다@
+@grow fat@|@찌다@
+@grow up [v]@|@자라다@
+@guarantee [n]@|@보증@
+@guard [train]@|@차장@
+@guess@|@추측@
+@guess wrong@|@헛다리짗다@
+@guest [formal]@|@내빈@
+@guest [house]@|@손님@
+@guesthouse@|@게스트 하우스@
+@guide [n]@|@가이드, 안내@
+@guide [v]@|@가이드 하다, 안내하다@
+@guidebook@|@가이드북@
+@guided tour@|@가이드 투어@
+@guilt@|@취@
+@guitar@|@기타@
+@gull@|@갈매기@
+@gullet@|@밥줄, 식도@
+@gum@|@잇몸@
+@guru@|@지도자@
+@guts@|@배짱@
+@gutter@|@하수구@
+@gypsy@|@집시@
+@H [Korean letter]@|@히웋@
+@had@|@똥@
+@had-boiled egg@|@삶은 달걀@
+@haemorrhage@|@출혈@
+@hafnium@|@하프늄@
+@haha@|@허허@
+@hair@|@머리, 머리털@
+@hair conditioner@|@린스@
+@hairbrush@|@머리 빗@
+@haircut@|@이발, 해어컷@
+@hairdresser@|@미장원@
+@hairdresser [women]@|@미장원@
+@hairdressing@|@이발@
+@hairdryer@|@헤어 드라이어@
+@hairspray@|@헤어 스프레이@
+@half a bottle@|@반 병@
+@half a day@|@한나절@
+@half brother@|@의붓 형제@
+@half god half human@|@반신반인@
+@half moon@|@반달@
+@half price@|@반 값, 반액@
+@hall@|@복도@
+@hall [concert]@|@홀@
+@hallucination@|@허깨비@
+@halo@|@무리@
+@ham@|@햄@
+@hamburger@|@햄버거@
+@hammer fist@|@등 주먹, 매 주먹@
+@hamster@|@햄스터@
+@Hanbok@|@한복@
+@hand@|@손@
+@hand [inner knife hand]@|@손날등@
+@hand [knife hand]@|@손칼@
+@hand [palm heel hand]@|@장칼@
+@hand [rake hand]@|@갈귀손@
+@hand [reverse knife hand]@|@손칼등@
+@hand luggage@|@손가방, 핸드러기지@
+@handbag@|@핸드백@
+@handball@|@송구@
+@handball [n]@|@핸드볼@
+@handbrake@|@핸드브레이크@
+@handicapped@|@불리한@
+@handkerchief@|@손수건@
+@handle@|@자루@
+@handmade@|@수제품@
+@hang@|@걸다@
+@hang up [telephone]@|@끊어요@
+@Hangul@|@한글@
+@Hanja@|@한자@
+@happen@|@발생하다@
+@happen [what happened?]@|@무슨 일이에요?@
+@happily@|@기쁘다, 즐겁게@
+@happiness@|@행복@
+@happy@|@행복하다@
+@happy birthday@|@생일 축하해요@
+@happy birthday song@|@생일 축하 노래@
+@Happy New Year@|@새해 복 많이 받으세요@
+@harbour murderous intentions@|@칼을 품다@
+@hard [a]@|@열심히@
+@hard [difficult]@|@어렵다 (어려운)@
+@hard [firm]@|@딱딱하다 (딱딱한)@
+@hard work@|@수고@
+@hard-boiled@|@무감각해진@
+@hardship@|@어려움@
+@hardware@|@기계설비@
+@harem@|@하렘, 후궁@
+@harpoon@|@작살@
+@harpsichord@|@하프시코드@
+@harrow@|@써레@
+@harsh@|@가혹한@
+@harvest [n]@|@추수@
+@hash [v]@|@다지다@
+@hat@|@모자@
+@hate [dislike]@|@싫어하다@
+@hatred@|@증오심@
+@have [v]@|@있다@
+@have a look [v]@|@구경하다@
+@have a meal@|@식사하다@
+@haven@|@피난처@
+@Hawaii@|@하와이@
+@hay fever@|@해이피버, 화분증@
+@he@|@그@
+@head@|@머리@
+@head butt@|@박치기@
+@head of family@|@가장 [家長]@
+@head office@|@본사, 본점@
+@headache@|@두통@
+@headlight@|@전조등@
+@headphone@|@헤드폰@
+@health@|@건강@
+@healthy@|@건강하다, 건강한@
+@healthy [be healthy]@|@건강하다@
+@hearing [n]@|@귀@
+@hearing aid@|@보청기@
+@heart@|@마음, 심장@
+@heart [emotion]@|@마음@
+@heart [organ]@|@심장@
+@heart attack@|@심장마비@
+@heat [water]@|@끓이다@
+@heat of the sun@|@햇볕@
+@heat up [food]@|@덥하다, 데우다@
+@heater [n]@|@히터@
+@heating [n]@|@가열 [加熱]@
+@heaven@|@하늘, 하늘나라@
+@heavy@|@무거운@
+@heavy [be heavy]@|@무거워요@
+@heavy [weight]@|@무겁다 (무거운)@
+@heavy flood@|@큰물@
+@he-cat@|@수고양이@
+@hedgehog@|@고슴도치@
+@heel@|@뒤꿈치@
+@height@|@높이, 키@
+@helicopter@|@헬리컵터@
+@helium@|@헬륨@
+@hell@|@지혹@
+@hello@|@안녕하세요@
+@hello [phone]@|@여보세요@
+@hello you [interjection]@|@여보세요@
+@helmet@|@헬멧@
+@help [give help]@|@도와주다@
+@help [v]@|@도와주다, 돕다@
+@help me@|@살려 주세요@
+@hemp@|@대마@
+@hemp cloth@|@베@
+@hen@|@암탉@
+@henceforth@|@이제부터는@
+@henpecked husband@|@공처가 [?始家]@
+@Henry@|@앙리@
+@herbal tea@|@허브 차@
+@herbicide@|@제초제@
+@here@|@여기, 이리@
+@here and there@|@여기저기@
+@heritage@|@유산@
+@heron@|@왜가리, 해오라기@
+@herpetologist@|@파충류학자@
+@herpetology@|@파충류학@
+@Herzegovina@|@헤르체고비나@
+@hey [interjected]@|@햐@
+@hey [interjection]@|@야@
+@hey you [interjection]@|@여보@
+@hiatus@|@중절@
+@hide@|@가리다, 가죽, 숨기다, 숨다@
+@hide and seek@|@숨바꼭질@
+@high@|@높다 (높아요), 위, 크다@
+@high block@|@상단 막기@
+@high blood pressure@|@고혈압@
+@high noon@|@한낮@
+@high punch@|@얼굴 지르기@
+@high school@|@고등학교@
+@high school student@|@고등학생@
+@high school subject@|@과목@
+@highway@|@고속조로 [高速道路]@
+@hill@|@고개, 안덕@
+@hill walking@|@하이킹@
+@hilt@|@칼자루@
+@hind leg@|@뒷다리@
+@Hindi@|@힌디어@
+@Hindu@|@힌두교@
+@hip@|@엉덩이@
+@hippie [n]@|@히피@
+@hippo@|@하마@
+@hippopotamus@|@하마@
+@hire [v]@|@빌리다 (빌려요)@
+@history@|@역사@
+@history book@|@역사 책@
+@hit@|@명중@
+@hit [v]@|@치다@
+@hobby@|@생훌리기, 최미@
+@hockey [n]@|@하키@
+@hockey ball@|@하키 공@
+@hockey player@|@하키 선수@
+@hockeyist [n]@|@하키 선수@
+@hold [v]@|@안다@
+@hole [very small hole]@|@콧무멍만하다@
+@holiday@|@휴가@
+@holiday [n]@|@휴일@
+@holiday [national holiday]@|@공휴일@
+@holiday [on holiday]@|@휴가실@
+@Holland@|@네덜란드, 화란@
+@hollyhock@|@접시꽃@
+@holmium@|@홀뮴@
+@holocaust [n]@|@큰불@
+@home@|@가정 [家庭]@
+@home [n]@|@집@
+@home [of family head]@|@큰집@
+@home economics@|@가정학@
+@home office@|@서재@
+@homeland@|@고국, 자시 나라@
+@homesick@|@향수병@
+@homesick [be homesick]@|@향수병 걸렸어요@
+@hometown@|@고향@
+@homework@|@숙제@
+@homicide@|@타살@
+@homosexual@|@게이, 동성연애자@
+@Honduras@|@온두라스@
+@honesty@|@정직@
+@honey@|@꿀, 밀, 애인@
+@honey bee@|@꿀벌@
+@honeydew@|@감로 [甘露]@
+@honeymoon@|@밀월, 신혼, 신혼 여행@
+@Hong Kong@|@홍콩@
+@honoured with a feast@|@큰상을 받다@
+@honsetly [a]@|@열심히@
+@hoof@|@굽@
+@hook@|@갈고리, 낚다@
+@hope@|@바라다, 바램, 월하다, 희망 [希望]@
+@hormone@|@호르몬@
+@horn@|@뿔@
+@horse@|@말@
+@horse racing@|@경마@
+@horseback riding@|@승마@
+@horseradish@|@겨자, 양고추냉@
+@hospital@|@병원@
+@host [dinner]@|@호스트@
+@hostel@|@유스호스텔, 호스텔@
+@hot@|@덥다, 뜨거운, 뜨겁다 (뜨거운)@
+@hot [spicy]@|@매워요, 맵다 (매워요)@
+@hot dog@|@핫도그@
+@hot pants@|@핫팬츠@
+@hot sauce@|@고추장@
+@hot spring@|@온천@
+@hot water@|@뜨거운 물, 온수@
+@hotel@|@호텔@
+@hound [n]@|@개@
+@hour@|@시 [時], 시간@
+@hour [one hour]@|@한 시간@
+@hours [two hours]@|@두 시간@
+@house@|@집@
+@house [formal]@|@댁@
+@house [H]@|@가 [家]@
+@house arrest@|@가택 구류@
+@house fire@|@불, 화재@
+@house mouse@|@생쥐@
+@house wine@|@하우스 와인@
+@household@|@가족 [家簇]@
+@household furnishing@|@가구 [家具]@
+@housekeeping@|@가사 [家事]@
+@housekeeping book@|@가계부 [家計簿]@
+@housewife@|@주부@
+@how@|@방법, 방식, 어떻게@
+@how long [time]@|@얼마 나, 얼마 동안@
+@how much [price]@|@얼마@
+@however@|@그러나, 그렇지만@
+@huge@|@거대한@
+@human@|@인류 [人類]@
+@human being@|@사람, 인간@
+@human rights@|@인권@
+@humility@|@겸손@
+@hump@|@곱사, 더미@
+@humpback@|@곱사@
+@hunchback@|@곱사@
+@hundred@|@백@
+@Hungary@|@헝가리@
+@hungry@|@배가 고프다 (배가 고파요)@
+@hungry [be hungry]@|@배가 고프다 (배가 고파요)@
+@hunt [n]@|@사냥@
+@hunt [v]@|@사냥하다@
+@hurt@|@아파요, 아프다 (아파요)@
+@husband@|@남편@
+@husband [devouted husband]@|@애처가@
+@husband's sister@|@시누이@
+@hyena@|@하이에나@
+@hymn [n]@|@찬송가 [讚頌歌]@
+@hypertension@|@고혈압@
+@hypocrisy [n]@|@가식 [假飾]@
+@hypotension@|@저혈압@
+@hypothesis [n]@|@가설 [假說]@
+@hypothetically@|@가령 [假令]@
+@hysterectomy@|@자군 절제@
+@Hyundai@|@현대@
+@I@|@나, 저, 제@
+@I [polite]@|@저@
+@I love you@|@사랑해요@
+@ice@|@얼음@
+@ice coffee@|@냉커피@
+@ice cream@|@아이스크림@
+@ice slush@|@빙수@
+@ice water@|@냉수@
+@iceberg@|@빙산@
+@ice-hockey@|@아이스하키@
+@ichthyology@|@어류학@
+@icy [be icy]@|@차다@
+@icy ground@|@얼음판@
+@ideal@|@이상@
+@ideal gas@|@이상 기체@
+@identity@|@신원@
+@identity card@|@신분증@
+@identity theft@|@신원 도둑질@
+@ideology@|@관념론@
+@idiom@|@숙어@
+@idiot@|@백치@
+@idiot [n]@|@바보@
+@idle talk@|@허튼소리@
+@if@|@만약에, 면@
+@igneous rock@|@화성암@
+@ignition key@|@자동차 열쇠@
+@iguana@|@이구아나@
+@ill@|@아파요@
+@ill [a]@|@아픈@
+@illegal@|@불법@
+@ill-fated [be ill-fated]@|@팔자가 사납다@
+@ill-feeling@|@반감@
+@illiterate@|@문명@
+@illness@|@병@
+@imaginary number@|@허수@
+@imitation [n]@|@가짜 [假K]@
+@immediate@|@즉시@
+@immediately@|@곧, 이제, 즉시@
+@imminent [be imminent]@|@코앞에 닥치다@
+@immobility@|@부동@
+@immortal@|@불사하는@
+@immortality@|@불사신@
+@imp@|@꼬마 도깨비@
+@impala@|@임팔라@
+@important@|@중요해요@
+@imported goods@|@수입품@
+@imports@|@수입품@
+@impressed@|@반한, 인상적인@
+@impression@|@느낌@
+@impressive [be impressive]@|@굉장히@
+@impure@|@불결한@
+@impurity@|@불손@
+@in@|@속, 안@
+@in between acts@|@막간@
+@in contrast@|@도리어@
+@in fact@|@사실은, 실은@
+@in general@|@대개@
+@in that case@|@그러면, 그럼@
+@in the afternoon@|@오후에@
+@in the back@|@뒤@
+@in the evening@|@저녁에@
+@in the future@|@나중에@
+@in the morning@|@아침에@
+@in vain@|@헛되이@
+@in what way@|@어떻게@
+@inaccuracy@|@부정확@
+@inconvenient [be ~]@|@불편하다@
+@increase [n]@|@증가 [增加]@
+@independence@|@독립, 자립@
+@index@|@색인@
+@India@|@인도@
+@indigestion@|@소화불량@
+@Indonesia@|@인도네시아@
+@indulgence@|@속죄@
+@industrial engineering@|@산업 공학@
+@industry [newspaper]@|@산업@
+@inequality@|@부동@
+@inexpensive@|@싸다@
+@infant@|@유아@
+@inferior@|@열등한@
+@infix@|@삽입사@
+@inflammation@|@연소@
+@information@|@안내, 전보@
+@information desk@|@안내 창구@
+@information office@|@공보원@
+@infrastructure@|@인프라@
+@ingot@|@주괴@
+@inhaler@|@호흡기@
+@inheritance@|@유산@
+@injection@|@주사@
+@injured [be injured]@|@다치다 (다쳤어요)@
+@injury@|@상해, 손해, 훼손@
+@ink@|@먹물@
+@ink pad case@|@먹통@
+@ink stick@|@먹@
+@ink stone@|@벼루@
+@ink well@|@먹물 통@
+@inlet [n]@|@개@
+@inner knife hand@|@손날등@
+@insect@|@곤충@
+@insect repellent@|@방충제@
+@inseparable friend@|@단짝@
+@insert [v]@|@넣다@
+@inside@|@속, 안, 안에@
+@inside [of clothes]@|@옷안@
+@inside story@|@내막@
+@inside the car@|@자동차 안에@
+@insignificant@|@하찮은@
+@instance@|@사례@
+@instant coffee@|@인스턴트@
+@instead@|@대신@
+@instep@|@발등@
+@instinct@|@본능@
+@institutions [counter]@|@군데@
+@instruct [v]@|@가르치다@
+@instructions@|@사용 설명서@
+@insulin@|@인슐린@
+@insult [v]@|@욕@
+@insurance@|@보험@
+@insurance certificate@|@보험 증서@
+@insurgent@|@반역자@
+@intelligence@|@정보@
+@intelligence [newspaper]@|@정보@
+@interest@|@관심, 이자, 재미@
+@interesting [be interesting]@|@재미있다@
+@interjection@|@감탄사@
+@international@|@국제, 국제적@
+@internet@|@인터넷@
+@internet café@|@인터넷 카페@
+@interpreter@|@통역사@
+@interval@|@사이@
+@interval [theatre]@|@휴식@
+@interval between acts@|@막간@
+@interval between scenes@|@막간@
+@interview@|@면접하다@
+@intestine@|@창자@
+@intransitive verb@|@자동사@
+@introduce [person]@|@소개하다 (소개해요)@
+@introduce [v]@|@소개하다@
+@invent@|@만들다@
+@investigate [v]@|@조사하다@
+@investigation@|@조사@
+@invisible@|@보이지 않다@
+@invitation@|@초대, 초대장@
+@invite [v]@|@초대하다@
+@invited [get invited]@|@초대받다@
+@invoice@|@청구서@
+@Iran@|@이란@
+@Iraq@|@이라크@
+@Ireland@|@아일랜드, 에이레@
+@iridium@|@이리듐@
+@iris@|@븟꽃, 창포, 홍채@
+@Irish person@|@아일랜드 사람@
+@iron@|@다리미, 쇠, 철@
+@iron [for clothes]@|@다림질@
+@iron [metal]@|@다리미@
+@Iron Age@|@철기 시대@
+@ironmonger's [shop]@|@철물점@
+@Islam@|@이슬람교@
+@island@|@도, 섬@
+@islands [group of islands]@|@제도@
+@Italy@|@이탈리아@
+@itemized bill@|@명세서@
+@jacket@|@자켓@
+@jacket [life jacket]@|@라이프재킷@
+@jade@|@옥@
+@jam@|@잼@
+@jam [food]@|@잼@
+@jam [n]@|@잼@
+@jam [traffic jam]@|@교통 체증@
+@jammed [be jammed]@|@복잡하다@
+@jammed [stuck]@|@붙어있다 (붙어있어요)@
+@January@|@일월@
+@Japan@|@일본@
+@javelin@|@창@
+@jaw@|@턱@
+@jawbone@|@턱뼈, 턱뼈@
+@jazz music@|@재즈@
+@jealousy@|@샘@
+@jeans@|@청바지@
+@jeer [n]@|@야유@
+@jellyfish@|@해파리@
+@Jerusalem@|@예루살렘@
+@Jesus@|@예수@
+@jetty@|@방파제@
+@Jew@|@유대인@
+@jewel@|@보석@
+@jeweller's [shop]@|@보석상@
+@jewellery@|@보석@
+@Jewish@|@유태교@
+@job@|@일, 직업@
+@job [get a ~]@|@취직하다@
+@job application@|@신청@
+@jog [v]@|@뛰다, 조깅해요@
+@jogging@|@조깅@
+@joining [n; assoc.]@|@가입 [加入]@
+@joule@|@줄@
+@journey@|@여행@
+@joy@|@쾌재@
+@joyfully@|@기쁘다@
+@joystick@|@조이스틱@
+@Judaism@|@유대교@
+@jugular [veins in neck]@|@경졍의 [頸部]@
+@juice@|@주스, 즙 [汁]@
+@juice [fruit juice]@|@주스@
+@juice [of something]@|@액@
+@July@|@칠월@
+@jump [v]@|@뛰다@
+@jumper [clothing]@|@점퍼@
+@junction [road]@|@교차로@
+@June@|@유월@
+@junior college@|@전문 대학@
+@junior high school@|@중학교@
+@junior in age@|@연하@
+@junk@|@엉터리@
+@Jupiter@|@목성, 주피터@
+@just [just now]@|@방금@
+@just a moment ago@|@방금@
+@just now@|@방금@
+@just now [a]@|@고대@
+@kangaroo@|@캥거루@
+@karaoke box@|@노래방@
+@Karen@|@카렌@
+@Kazakhstan@|@카자흐스탄@
+@key [lock]@|@열쇠@
+@key [n]@|@열쇠@
+@keyboard@|@건반@
+@keyboard instruments@|@악기@
+@Kia@|@기아@
+@kick@|@찰@
+@kick [Taekwondo]@|@차기@
+@kick [v]@|@차다@
+@kidney [food]@|@콩팥@
+@Kiev@|@키예프@
+@kilo@|@킬로@
+@kilometre@|@킬로미터@
+@Kim [family name]@|@김@
+@kimbap@|@김밥@
+@kimchi@|@김치@
+@kin@|@친척 [親戚]@
+@kind [a]@|@친절해요@
+@kind [be kind]@|@친전하다@
+@kind [n]@|@종류@
+@kind [what kind]@|@어떤@
+@kindly@|@정성껏@
+@kinds of@|@가지@
+@king@|@왕 [?], 임금@
+@kiss [n]@|@입맞춤, 키스@
+@kiss [v]@|@입맞추다, 키스하다@
+@kissing gourami [fish]@|@키싱 구라미@
+@kitchen@|@부엌, 부엌@
+@kitchen knife@|@부엌칼, 식칼@
+@kite@|@연@
+@kitten [n]@|@고양이 새끼@
+@kitty [cat]@|@고양이 새끼@
+@kiwi [fruit]@|@키위@
+@Kleenex@|@휴지@
+@knapsack@|@배낭@
+@knead [cooking]@|@반죽하다@
+@knee@|@무릎@
+@kneel@|@꿇다@
+@knickers@|@내복, 속옷@
+@knife@|@나이프, 칼@
+@knife [kitchen knife]@|@부엌칼@
+@knife hand@|@손칼@
+@knife hand block@|@손날 막기@
+@knit [v]@|@짜다@
+@knock down [car]@|@거장났어요@
+@knot@|@매듭@
+@know@|@알다@
+@know [facts]@|@알다 (알아요)@
+@know [not know]@|@모르다@
+@know how [v]@|@어떻게 알다@
+@knowledge@|@지식, 학문@
+@koala@|@코알라@
+@koala bear@|@코알라@
+@Korea@|@조선, 한국@
+@Korea University@|@고대@
+@Korean [a]@|@한국의@
+@Korean alphabet@|@한글@
+@Korean class@|@국어@
+@Korean fish stew@|@찌개@
+@Korean food@|@한식@
+@Korean history [subject]@|@국사@
+@Korean language@|@한국말, 한국어@
+@Korean mile@|@리@
+@Korean person@|@한국 사람, 한국인@
+@Korean restaurant@|@한식집@
+@Korean studies@|@한국학@
+@Korean things@|@한국 물건@
+@Korean War@|@한국전쟁@
+@Korean wave@|@한류@
+@Korean-style room@|@온돌@
+@Kosovo@|@코소보@
+@krypton@|@크립톤@
+@kumquat@|@금귤@
+@Kuwait@|@쿠웨이트@
+@Kwanghwa Gate@|@광화문@
+@Kyoto@|@쿄토 시@
+@label@|@라벨, 상표@
+@labour@|@노고@
+@lace@|@레이스@
+@lace [shoe]@|@구두끈@
+@lack [v]@|@없다@
+@ladder@|@사다리@
+@ladies [toilet]@|@여자, 여자 화장실@
+@lady [young lady]@|@아가씨@
+@ladybird@|@무당벌레@
+@lake@|@호수@
+@lammergeyer@|@수염수리@
+@lamp@|@램프@
+@lance@|@창@
+@land@|@나라, 땅@
+@land [n]@|@토지@
+@language@|@말, 언어@
+@Laos@|@라오스@
+@lap@|@무릎@
+@large@|@큰@
+@lark@|@노고지리, 종다리@
+@larynx@|@후두@
+@last@|@나중@
+@last [a]@|@나중, 마지막, 지난@
+@last boat@|@마지막 배@
+@last moment@|@막판@
+@last night@|@어제 밤@
+@last round@|@만판@
+@last time@|@지난, 지난 번@
+@last year@|@작년@
+@late@|@늦은, 지연된@
+@late [a]@|@늦게@
+@late [be late]@|@늦다@
+@lateness@|@지각@
+@later@|@나중에, 이따, 후에@
+@later [5 minutes later]@|@오분 후에@
+@later [a bit later]@|@조금 후에@
+@later [few days later]@|@며칠 후에@
+@later [one hour later]@|@한 시간 후에@
+@later trouble@|@후환@
+@lather@|@비누 거품@
+@Latin@|@라틴어@
+@Latin [Vulgar Latin]@|@저속한 라틴어@
+@Latin alphabet@|@로마 문자@
+@lattice@|@격자, 격자창@
+@laugh [v]@|@웃다@
+@laugh very hard [vulgar]@|@배꼽을 빼다@
+@launder [v]@|@세탁하다@
+@laundrette@|@세탁소@
+@Laundromat@|@세탁소@
+@laundry@|@세탁@
+@laundry service@|@세탁 서비스@
+@lavatory@|@화장실@
+@laver [n]@|@김@
+@law@|@법학@
+@lawrencium@|@로렌슘@
+@lawyer@|@법률가 [法律家], 변호사@
+@laxative@|@변비약@
+@lead@|@납@
+@leader [of a group]@|@리더, 지도자@
+@leaf@|@안장, 잎@
+@leaflet@|@안내서@
+@leaflet [n]@|@팜플렛@
+@leak [n; gas]@|@누출@
+@leap year@|@윤년 [閏年]@
+@learn@|@배우다 (배워요), 배위요@
+@learn [v]@|@공부하다, 배우다@
+@learning [n]@|@배우기@
+@leather@|@가죽@
+@leather shoe@|@구두@
+@leave [leave behind]@|@남겨놓아요@
+@leave [v]@|@나가다 (나가요), 떠나다 (떠나요), 출발해요@
+@leave behind [v]@|@남기다@
+@leaving early@|@조퇴@
+@lecture@|@강좌 [講座]@
+@leech@|@거머리@
+@leek [n]@|@파@
+@left@|@왼쪽@
+@left [on the left]@|@왼쪽에@
+@left arm@|@왼팔@
+@left luggage [office]@|@수하물 보관물@
+@leg@|@다리@
+@legend@|@설화@
+@leisure [newspaper]@|@레저, 오락@
+@leisure activity [hobby]@|@최미@
+@lemon@|@레몬@
+@lemonade@|@레몬에이드, 사이다@
+@lemongrass@|@레몬그래스@
+@lemur@|@여우원숭이@
+@lend [v]@|@빌려 주다@
+@length@|@길이@
+@lens@|@렌스@
+@leopard@|@표범@
+@less@|@덜@
+@lesson@|@과, 과업, 수업@
+@let [v]@|@빌려 주다@
+@let one's eyes wander@|@한눈팔다@
+@letter@|@문자, 편지@
+@letter [mail]@|@편지@
+@letter [note]@|@메모@
+@letter [writing character]@|@글자@
+@letter box@|@우체통@
+@letterbox@|@편지함@
+@letters [n]@|@우편물@
+@lettuce@|@상추, 양상추@
+@level 2@|@2급반@
+@lexicography@|@사전학@
+@li [distance]@|@리@
+@liberal@|@자유@
+@liberation@|@해방@
+@liberty@|@자유@
+@library@|@도서관@
+@Libya@|@리비아@
+@licence@|@면허증@
+@lick [v]@|@핧다@
+@lie down [v]@|@누위 있다 (누위있어요)@
+@lieutenant@|@대위, 소위, 중위@
+@life [elevator]@|@엘리베이터@
+@life jacket@|@라이프재킷@
+@lifebelt@|@안전벨트@
+@lifeboat@|@구명보트@
+@lifeguard@|@구조원@
+@lift [n]@|@엘리베이터@
+@light [be light]@|@가벼운@
+@light [n]@|@빛@
+@light bulb@|@전구@
+@lighter [cigarette]@|@라이터@
+@lignite@|@아탄@
+@like [v]@|@좋다, 좋다 (좋아해요), 좋아하다 (좋아해요)@
+@like that@|@그냥@
+@like this@|@이렇게@
+@limb [n]@|@큰가지@
+@limestone@|@석회암@
+@line [drawn]@|@줄@
+@line [railway]@|@선@
+@linear@|@선형, 일차@
+@linguistics@|@언어학@
+@link [v]@|@연결하다@
+@lion@|@사자@
+@lion's share@|@대부분@
+@lip [n]@|@입술@
+@lipstick@|@립스틱@
+@liqueur [alcohol]@|@독주@
+@liquid@|@액체@
+@liquorice@|@감초@
+@Lisbon@|@리스본@
+@list [n]@|@리스트, 표@
+@list of names@|@명단@
+@literature@|@문학@
+@lithium@|@리튬@
+@litre@|@리터@
+@little@|@작다, 조금, 좀@
+@Little Red Riding Hood@|@빨강모자 소녀@
+@live [in a place]@|@살다 (살아요)@
+@live [v]@|@살다@
+@liver@|@간 [肝], 간장 [肝?]@
+@Liverpool@|@리버풀@
+@livestock@|@가축@
+@living-room@|@거실, 마루@
+@lizard@|@도마뱀@
+@llama@|@라마@
+@loan [v]@|@빌려 주다@
+@lobby [room]@|@로비@
+@lobster@|@가재, 바닷가재@
+@local@|@지방@
+@local news [newspaper]@|@지방@
+@localization@|@지방화@
+@location@|@위치@
+@lock [door]@|@자물쇠@
+@lock [v]@|@잠그다 (잠가요)@
+@locker@|@라커@
+@locker room@|@탈의실@
+@locust@|@메뚜기@
+@lodging@|@하숙@
+@lofty@|@눞다@
+@London@|@런던@
+@long [a]@|@길다@
+@long [time]@|@오래@
+@long ago@|@옛날@
+@long sleeve@|@긴팔@
+@long staff@|@장봉@
+@long time [for a long time]@|@오랫동안@
+@long-eared owl@|@부엉이@
+@loo@|@화장실@
+@look around [v]@|@구경하다@
+@look for@|@찾다 (찾아요)@
+@loon@|@아비@
+@loose [not fastened]@|@풀어지다 (풀어겼어요)@
+@loose change [n]@|@잔돈@
+@loquat@|@바파, 비파나무@
+@Los Angeles@|@로스 엔젤레스@
+@lose@|@감소, 상실@
+@lose [v]@|@잃어버리다 (잃어버려요)@
+@lose one's spunk@|@풀죽다@
+@lose one's starch@|@풀죽다@
+@lost [object]@|@잃어버린@
+@lost property office@|@불실물 보관소@
+@lotion@|@로션@
+@loud@|@시끄러운@
+@louse@|@이@
+@louver@|@미늘창@
+@love [n]@|@사랑, 애정@
+@love [v]@|@사랑하다@
+@lover@|@님, 애인@
+@loving@|@사람 하는@
+@low@|@낮다, 작다@
+@low block@|@아래 막기@
+@low price@|@염가@
+@low price [n]@|@염가 [廉價]@
+@low punch@|@아래 지르기@
+@low stance@|@낮춰@
+@lower back@|@허리@
+@lower class@|@하층@
+@lower half of body@|@하반신@
+@lowest price [n]@|@최저가 [最抵價]@
+@lucky [blessed with fortune]@|@팔자가 좋다@
+@luggage@|@수하물, 짐@
+@luggage allowance@|@수하물 한도@
+@lullaby [n]@|@자장가@
+@lump of earth@|@흙덩어리@
+@lunar calendar@|@음력@
+@lunar world@|@달나라@
+@lunch@|@점심@
+@lunchbox@|@도시락@
+@lunchtime@|@전오, 점심@
+@lung@|@부아, 허파@
+@lung cancer@|@폐암@
+@lungs@|@폐@
+@lure [n]@|@먹이, 미끼@
+@lute@|@비파@
+@Lutheran@|@루터교@
+@luxury@|@고급@
+@lynx@|@스라소니@
+@lyrics [n]@|@가사 [歌辭]@
+@machine@|@기계@
+@machine gun@|@기관총@
+@machine translation@|@기계번역@
+@mackerel@|@고등어@
+@macroeconomics@|@거시 경제학@
+@Madam@|@아주머니@
+@made@|@만든@
+@Madrid@|@마드리드@
+@magazine@|@잡지@
+@maggot@|@구더기@
+@magnet@|@자석@
+@magnetism@|@자기@
+@magnolia@|@목련@
+@magpie@|@까치@
+@mail [by mail]@|@우편으로@
+@mail [n]@|@우편, 우편물@
+@mail [postage]@|@우편@
+@mail [v]@|@부치다@
+@main entrance@|@큰문@
+@main gate@|@정무@
+@main road@|@한길@
+@mainly@|@주로@
+@maize@|@옥수수@
+@major [university]@|@전공@
+@make [cooking]@|@짓다@
+@make [v]@|@만들다 (만들어요)@
+@make a fruitless labour@|@허탕치다@
+@make efforts@|@힘쓰다@
+@make strokes [writing brush]@|@붓질 하다@
+@make-up@|@화장@
+@malaria@|@말라리아@
+@Malay@|@말레이어@
+@male@|@남성@
+@male cat@|@수고양이@
+@male dog@|@수개@
+@mallard@|@물오리, 청둥오리@
+@Malta@|@몰타@
+@mammal@|@포유 동물@
+@man@|@남자@
+@man [human]@|@사람@
+@man [male]@|@남자@
+@man and woman@|@남여@
+@manager@|@매니저, 책임자@
+@mandarin fish@|@쏘가리@
+@manga@|@만화@
+@manganese@|@말간, 망가니즈@
+@manner [way]@|@방법@
+@manual@|@안내서@
+@manufactured goods@|@제품@
+@manufacturing [n]@|@가공 [加工]@
+@many@|@많이@
+@many [be many]@|@많다@
+@map [n]@|@지도 [地圖]@
+@maple@|@단풍나무@
+@marathon@|@마라톤@
+@March@|@삼월@
+@mare@|@암말@
+@margarine@|@마가린@
+@marijuana@|@마리화나@
+@market [n]@|@시장, 시장 [市場]@
+@market place@|@시장@
+@market price@|@시가, 시세@
+@market price [n]@|@시가 [市價]@
+@marmalade@|@마마레이드@
+@marriage [n]@|@결혼@
+@married [get ~]@|@결혼하다@
+@married man@|@유부남@
+@marry [v]@|@결혼하다 (결혼해요)@
+@Mars@|@마르스, 하성@
+@marsh harrier@|@개구리매@
+@Marshall Islands@|@마셜 제도@
+@martial arts@|@무술@
+@martyr@|@군교자@
+@martyrdom@|@순교@
+@mascara@|@마스카라@
+@mask@|@가면 [假面], 탈@
+@mask [n]@|@가면 [假面], 마스크@
+@mass [church]@|@미사@
+@massacre@|@학살@
+@massage@|@안마@
+@masterpiece@|@걸잔@
+@match [game]@|@경기@
+@matches@|@성냥@
+@material [written]@|@자료@
+@mathematics@|@수학@
+@matrimony@|@결혼@
+@matter@|@물질, 중요하다@
+@matter [business]@|@용무@
+@matter [v]@|@중요하다 (중요해요)@
+@mattress@|@매트리스@
+@May@|@오월@
+@maybe@|@아마, 아마도@
+@mayonnaise@|@마요네즈@
+@McDonald's@|@맥도날드@
+@me@|@나, 제@
+@meagre@|@마르다@
+@meal@|@가루, 끼니, 식사@
+@meal [have a meal]@|@식사하다@
+@meal [honorific]@|@진지@
+@mean [v]@|@의미하다 (의미해요)@
+@meaning@|@뜻, 의미 [意味]@
+@meat@|@고기@
+@mechanic@|@기술자@
+@medical doctor@|@의사@
+@medical insurance@|@의료보험@
+@medical science@|@의학@
+@medicine@|@약@
+@medicine [newspaper]@|@의약@
+@medieval@|@중세@
+@meditation@|@명상@
+@meet [get together]@|@모이다@
+@meet [v]@|@만나다 (만나요)@
+@meeting@|@미팅, 회, 회의@
+@meitnerium@|@마이트너륨@
+@Melanie@|@멜라니@
+@melody@|@가곡 [歌曲], 곡조@
+@melon@|@멜론, 참외@
+@member [club]@|@회원@
+@members of the family@|@가족 [家簇]@
+@memo@|@메모@
+@memo [note]@|@메모@
+@memorize [v]@|@외우다@
+@men's@|@남성@
+@menstruation@|@멘스, 월경@
+@menu@|@메뉴@
+@mercury@|@수은@
+@Mercury@|@머큐리, 수성@
+@merlin@|@쇠황조롱이@
+@mermaid@|@해녀@
+@Merry Christmas@|@메리 크리스마스@
+@message@|@메시지, 전할@
+@messenger@|@메신저@
+@metal@|@쇠@
+@metaphor@|@암유, 은유@
+@metaphysics@|@혈리상학@
+@Methodist@|@감리교@
+@metre@|@미터@
+@metropolis@|@서울, 수도@
+@metropolitan@|@수도권@
+@mew@|@갈매기@
+@Mexico@|@멕시코@
+@Mexico City@|@멕시코 시티@
+@Michael@|@마이클@
+@microphone@|@마이크, 마이크로폰@
+@microwave@|@전자레인지@
+@midday@|@정오, 한낮@
+@midday [at midday]@|@정오에@
+@middle@|@중간, 중앙@
+@middle block [inside]@|@몸통 바깥 막기@
+@middle block [outside]@|@몸통 안막기@
+@middle school@|@중학교@
+@middle staff@|@중봉@
+@middle-aged@|@중년@
+@midnight@|@자정, 한밤중@
+@midsummer@|@한여름@
+@midway@|@중간@
+@midwinter@|@한겨울@
+@migraine@|@편두통@
+@mild@|@온화한@
+@military [n]@|@군대@
+@military service@|@군복무@
+@military song@|@군가 [軍歌]@
+@military uniform@|@군복@
+@milk@|@우유@
+@milk [mother's milk]@|@모유@
+@milk [semi-skimmed]@|@저지방 우유@
+@milk [soy milk]@|@두유@
+@mill@|@방아@
+@millet@|@수수@
+@millimetre@|@밀리미터@
+@million@|@백만@
+@millisecond@|@밀리 세컨드@
+@millstone@|@맷돌@
+@mince [cooking]@|@잘게 썰다@
+@mince [v]@|@다지다@
+@mine [n]@|@광산, 지뢰@
+@miner [n]@|@광부@
+@mineral water@|@생수@
+@mingle together [cooking]@|@뒤섞다@
+@minibar@|@미니 바@
+@minion@|@앞잡이@
+@minnow@|@연준모치@
+@minute@|@분@
+@minute [one minute]@|@일분@
+@minute [time]@|@분@
+@minute [two minutes]@|@이분@
+@mirage@|@신기루@
+@mirror@|@거울@
+@Miss@|@미스@
+@miss [train]@|@놓치다 (놓쳐요)@
+@missing [person]@|@행방불명@
+@mission@|@전도@
+@missionary@|@선교사@
+@misstep@|@헛디디다@
+@mistake@|@실수@
+@mistake [n]@|@실수@
+@mitochondrion@|@미토콘드리아@
+@mix [cooking]@|@섞다@
+@mix up [cooking]@|@뒤섞다@
+@mixed news [newspaper]@|@종합@
+@mixed rice and vegetables@|@잡채@
+@mm [interjection]@|@음@
+@moat@|@해자@
+@mobile phone@|@핸드폰, 휴대전화, 휴대폰@
+@modern@|@모뎀@
+@modification@|@수정@
+@modify@|@바꾸다@
+@moisten@|@적시다@
+@moisture@|@슴기@
+@molar@|@어금니@
+@mole@|@두더지@
+@mole [animal]@|@두더지@
+@Molotov cocktail@|@화염병@
+@molybdenum@|@몰리므덴넘, 몰리브덴@
+@moment [for a moment]@|@잠깐@
+@monastery@|@수도원@
+@Monday@|@월요일@
+@money@|@돈@
+@money [newspaper]@|@금융@
+@Mongolia@|@몽골@
+@monkey@|@원숭이@
+@monochrome@|@단색@
+@monopoly@|@전매권@
+@monotheism@|@일신교@
+@monster@|@괴물@
+@Montenegro@|@몬테네그로@
+@month@|@월@
+@monthly@|@월간@
+@monthly magazine@|@월간지@
+@months [counter]@|@개월@
+@mood@|@기분@
+@mood [be in bad mood]@|@기분이 나쁘다@
+@mood [be in good mood]@|@기분이 좋다@
+@moon@|@달@
+@moonlight@|@달빛@
+@morality@|@도덕@
+@more@|@더@
+@more wine@|@와인 더@
+@Mormon@|@몰몬교@
+@morning@|@아침, 오전@
+@morning [in the ~]@|@오전@
+@morning [in the morning]@|@아침에@
+@morning [this morning]@|@오늘 아침@
+@morning paper@|@아침신문@
+@morning star@|@샛별@
+@Morocco@|@모로코@
+@moron [n]@|@바보@
+@morpheme@|@형태소@
+@morphology@|@형태학@
+@mortal@|@운명@
+@mortality@|@사몽@
+@Moscow@|@모스크바@
+@mosquito@|@모기@
+@moss@|@이끼@
+@most@|@가장, 제일@
+@most recent songs [n]@|@최신가요@
+@mostly@|@주로@
+@moth@|@나방@
+@mother@|@어머니, 어머님@
+@mother [honorific]@|@어머님@
+@mother and son@|@모자@
+@mother country@|@모국@
+@mother-in-law [father's side]@|@장모, 장모님@
+@mother's family@|@외갓집 [?家K]@
+@mother's milk@|@모유@
+@motor@|@모터@
+@motorcycle [n]@|@오토바이@
+@motorway@|@고속도로@
+@mountain@|@산@
+@mountain bike@|@마운틴 바이크@
+@mountain climbing@|@등산@
+@mountain high block@|@산틀 막기@
+@mountain peak@|@정산@
+@mouse@|@마우스, 생쥐@
+@mouse [animal]@|@쥐@
+@mouse [computer]@|@마우스@
+@mouse tail@|@꼬리@
+@moustache@|@콧수염@
+@mouth@|@입@
+@movie@|@영화@
+@movie ticket@|@극장 표@
+@mow [lawn]@|@깎다 (깎아요)@
+@Mr@|@씨@
+@Mrs@|@미세스, 씨@
+@much@|@많다, 많이@
+@much more@|@한층@
+@mucilage@|@고무풀@
+@mud@|@진흙@
+@muddy spot@|@흙탕@
+@muddy water@|@흙탕물@
+@mugworth@|@머그워트@
+@mulberry@|@뽕나무, 오디@
+@mum@|@엄마@
+@Munich@|@뮌헨@
+@murder@|@타살@
+@Muscat@|@무스카트@
+@muscle@|@근육@
+@muscle [n]@|@힘사르@
+@museum@|@박물관@
+@mushroom@|@버섯@
+@music@|@음악@
+@music concert@|@음악회@
+@music record [n]@|@음반@
+@musical band@|@밴드@
+@musical composer@|@작곡가@
+@musical note@|@악보@
+@Muslim@|@이슬람교@
+@mussel@|@조개, 홍합@
+@mustard [horseradish]@|@겨자@
+@mute@|@벙어리@
+@mute swan@|@혹고니@
+@my@|@나의, 내, 우리, 저의, 제@
+@Myanmar@|@미얀마@
+@mysterious@|@신비한@
+@nag [v]@|@바가지를 긁다@
+@nail [finger]@|@손톱@
+@nail [metal]@|@못@
+@naked@|@벌거벗은, 적나라한@
+@name@|@싱함, 이름@
+@name [given name]@|@이름@
+@name [honorific]@|@성함@
+@name card@|@명함@
+@nappy@|@기저귀@
+@narrative@|@설화@
+@narrow@|@좁은@
+@nasalize [v]@|@코 먹은 소리@
+@natinoal university@|@국립대학교@
+@nation@|@국가, 나라@
+@nation [n]@|@국가 [國家]@
+@national anthem [n]@|@애국가 [愛國歌]@
+@national flag of Korea@|@태극기@
+@national flower@|@국화 [國花]@
+@national holiday@|@공휴일@
+@nationalism@|@민족구의@
+@nationality@|@국적 [國籍]@
+@nationally established@|@국립@
+@natural selection@|@자연도태, 자연선택@
+@nature [person]@|@마음씨@
+@nausea@|@구역질, 멀미@
+@navel@|@배꼽@
+@navy [armed forces]@|@해군@
+@Naypidaw@|@나이피다우@
+@Neanderthal@|@네안데르탈인@
+@near@|@가까운, 근처@
+@near to@|@가까이@
+@nearby@|@가까이, 근처@
+@neatly@|@깨끗이@
+@necessary@|@필요한@
+@necessary goods@|@용품@
+@neck@|@목@
+@necklace@|@목걸이@
+@necktie [n]@|@넥타이@
+@nectarine@|@천도 복숭아@
+@need@|@필요 하다@
+@need [v]@|@필요하다 (필요해요)@
+@needle@|@바늘@
+@neighbour@|@이웃@
+@neighbourhood@|@동네@
+@neodymium@|@네오디뮴@
+@neon@|@네온@
+@nephew@|@조카@
+@Neptune@|@넵튠, 해왕성@
+@Netherlands@|@네덜란드, 화란@
+@neutrino@|@중성미지@
+@never@|@결코, 전혀, 절대@
+@nevertheless@|@그렇지만@
+@new@|@새, 새롭대@
+@New Delhi@|@뉴델리@
+@new publication@|@신간@
+@New Year@|@새해@
+@New Year's Day@|@설@
+@New York@|@뉴욕 시@
+@New Zealand@|@뉴질랜드@
+@New Zealander [person]@|@뉴질랜드 사람@
+@newborn baby@|@신생아@
+@news@|@뉴스, 소식@
+@news [breaking news]@|@속보@
+@newsagent@|@신문 가게@
+@newsagent [shop]@|@신문 가게@
+@newsflash@|@속보@
+@newspaper@|@신문@
+@newspaper [daily]@|@일보@
+@newspaper paper@|@신문지@
+@newspaper report@|@기사@
+@newsreader@|@아나운서@
+@next@|@다음@
+@next door@|@다음 집@
+@next to@|@옆@
+@next train@|@다음 기차@
+@next week@|@마음 주@
+@next year@|@내년@
+@nickel@|@니켈@
+@niece@|@여자조카, 조카딸@
+@night@|@밤@
+@night [at night]@|@밤에@
+@night [last night]@|@어젯밤@
+@night [tomorrow night]@|@내일 밤@
+@nightclub@|@나이트 클럽@
+@nightdress@|@잠옷@
+@nitrogen@|@질소@
+@no@|@아뇨, 아니오@
+@no smoking@|@금연@
+@no thanks@|@괜찮아요@
+@noise@|@소리@
+@noisy@|@시끄러운@
+@non-alcoholic@|@비알코을성@
+@nonsense@|@엉터리, 헛소리@
+@non-smoking@|@금연@
+@non-smoking compartment@|@금연차@
+@noodle@|@국수@
+@noodles@|@국수@
+@noon [n]@|@낮@
+@north@|@북@
+@North Korea@|@북조선, 북한@
+@North Sea@|@북해@
+@Northern Ireland@|@북아일랜드@
+@northwest@|@북서@
+@Norway@|@노르웨이@
+@nose@|@코@
+@nose [blow one's nose]@|@코를 풀다@
+@nose [under one's nose]@|@코앞에@
+@nostril@|@콧구멍@
+@not@|@안@
+@not be@|@아니다@
+@not exist@|@없다@
+@not know@|@모르다@
+@note [banknote]@|@지폐@
+@note [letter]@|@메모@
+@note [music]@|@악보@
+@notebook@|@공책@
+@nothing@|@아무것도@
+@noun [n]@|@명사 [名詞]@
+@novel [n]@|@소설@
+@novelist@|@소설가@
+@novella@|@중편소설@
+@November@|@십일월@
+@now@|@이제, 지금@
+@nowadays@|@요즘@
+@nozzle@|@분사구@
+@nudity@|@벌거숭이@
+@nuitritive value@|@영양가@
+@numb@|@마비되는@
+@number@|@번호@
+@number [1; 2; 3...]@|@숫자@
+@number [of]@|@수@
+@number one@|@제일@
+@nurse [n]@|@간호사@
+@nut@|@호두@
+@nutrition value [n]@|@영양가 [營養價]@
+@nutritional@|@영양@
+@oar@|@노@
+@oat@|@귀리@
+@obedience@|@복종심@
+@obese@|@뚱뚱한@
+@object [thing]@|@물건@
+@obligation@|@의무@
+@obtain@|@갖고 있다 (갖고 있어요)@
+@occasionally@|@가끔, 때때로, 종종@
+@Occident@|@서양@
+@occupied@|@사용 중@
+@ocean@|@바다@
+@o'clock@|@시@
+@October@|@시월@
+@octopus@|@문어@
+@odd@|@이상한@
+@odd [strange]@|@옷기는@
+@odd number@|@홀수@
+@Odyssey@|@오디세이아@
+@oesophagus@|@밥줄@
+@of@|@의@
+@of [possessive marker]@|@의@
+@of course@|@물론@
+@off@|@떨어져@
+@off [food]@|@상하다 (상했어요)@
+@off [lights]@|@꺼지다 (꺼졌어요)@
+@office@|@사무실, 외사@
+@office [at home]@|@서재@
+@office [n]@|@가게@
+@office work@|@사무@
+@office worker@|@회사원@
+@often@|@자주, 잘@
+@oh@|@야아@
+@oh [interjection]@|@아이구@
+@oil@|@기름, 석유 [石油], 유 [油]@
+@oil [food]@|@식용유@
+@oil filter@|@오일 필터@
+@oil painting@|@유화@
+@OK@|@괜찮다, 좋아요@
+@old@|@오래된, 오랜@
+@old [worn out]@|@헌@
+@old clothes@|@헌옷@
+@old friend@|@옛친구@
+@old man@|@영감@
+@old story@|@사연@
+@older brother@|@오빠, 형@
+@olive@|@올리브@
+@olive tree@|@올리브나무@
+@ology@|@학@
+@Oman@|@어만@
+@on@|@위@
+@on [light]@|@켜지다 (켜졌어요)@
+@on [position]@|@위에@
+@on account of@|@때문에@
+@on foot@|@걸어서@
+@on holiday@|@휴가증@
+@on the left@|@왼쪽에@
+@on the spot@|@당장@
+@on the table@|@테이블 위에@
+@on top of@|@위@
+@on weekdays@|@주중에@
+@once@|@한번@
+@one@|@일, 하나@
+@one accord@|@한마음@
+@one day@|@하루@
+@one hour@|@한 시간@
+@one kind@|@한가지@
+@one mind@|@한마음@
+@one minute@|@일분@
+@one more@|@하나 더@
+@one piece [dress]@|@드레스, 원피스@
+@one place@|@한군데@
+@one side@|@한편@
+@one time@|@한때@
+@one way ticket@|@편도 티켓@
+@one year old@|@한 살@
+@one-day-old puppy@|@하루강아지@
+@one's own car [n]@|@자가용 [自家用]@
+@one's self@|@자신@
+@one's whole life@|@한평생@
+@oneself@|@자기@
+@onion@|@양파@
+@only@|@불과, 오직@
+@onomatopoeia@|@의성어 [擬聲語]@
+@open@|@영업 중@
+@open [v]@|@열리다 (열려요)@
+@operation [medical]@|@수술@
+@opportunity@|@기회 [機會]@
+@opposite@|@건너편에, 반대@
+@opposite from@|@맞은편@
+@opposite side@|@건너편@
+@optician@|@안과@
+@optician's [shop]@|@안경점@
+@orange [colour]@|@오렌지색, 주황색@
+@orange [fruit]@|@오렌지@
+@orange juice@|@오렌지 주스@
+@orang-utan@|@오랑우탄@
+@orbit [n]@|@궤도@
+@orca@|@범고래@
+@orchestra@|@오케스트라@
+@order [n]@|@순서@
+@order [restaurant]@|@주문하다@
+@order [sequence]@|@순서@
+@order [v]@|@시키다, 주문하다@
+@ordered pair@|@순서쌍@
+@ordinary@|@보통, 정규@
+@ore@|@광석@
+@orgy of eating@|@먹자판@
+@origin@|@원천, 유래@
+@original@|@고유, 월래@
+@ornament@|@음악 장신구, 장신구@
+@orphan@|@고아@
+@Oslo@|@오슬로@
+@osprey@|@물수리@
+@ostensible@|@외명상@
+@ostrich@|@타조@
+@other@|@다른@
+@other colours@|@다른 색@
+@other side@|@건너편@
+@our@|@우리@
+@out@|@바깥@
+@out of order@|@고장@
+@out of the window [outside]@|@창밖@
+@outdoor@|@실외, 야외@
+@outside@|@바깥, 밖@
+@outside of the window@|@창밖@
+@outskirts@|@시외@
+@oven@|@오븐@
+@over there@|@저@
+@overcast@|@흐리다@
+@overcharge [someone]@|@바가지를 씌우다@
+@overcharged [be overcharged]@|@바가지를 쓰다@
+@overnight@|@하루아침에@
+@overnight train@|@야행열차@
+@owl@|@올빼미, 우엉이@
+@ox@|@물깐소, 악대소, 황소@
+@oy [interjection]@|@야, 햐@
+@oyster@|@굴@
+@p.m.@|@오후@
+@pace [n]@|@걸음@
+@Pacific Ocean@|@태평양@
+@pack [cigarettes]@|@갑@
+@pack [v]@|@싸다@
+@packet@|@소포@
+@paddle@|@헤엄@
+@paddy@|@벼@
+@paddy field@|@논@
+@padlock@|@통제는@
+@painful@|@아프다 (아파요)@
+@painkiller@|@진통제@
+@pains@|@노고@
+@painter@|@화가, 화가[畵家]@
+@painting [brush painting]@|@예서@
+@painting [n]@|@그림@
+@painting [oil painting]@|@유화@
+@pair [of shoes; socks]@|@결례@
+@Pakistan@|@파키스탄@
+@palace@|@궁 [宮], 궁전 [宮殿]@
+@Palaeolithic@|@석기시대, 석기시대@
+@palanquin@|@가마@
+@palate@|@구개, 입천장@
+@Palestine@|@팔레스타인@
+@palette@|@팔레트@
+@palm@|@손바닥, 야자소@
+@palm heel hand@|@장칼@
+@palm press block@|@가위 막기@
+@pamphlet@|@팜플렛@
+@panda@|@판다, 팬더@
+@Pangaea@|@판게아 대륙@
+@pants [n]@|@바지@
+@pants [underwear]@|@내복@
+@paper@|@종이@
+@paper [newspaper paper]@|@신문지@
+@paper bag [counter]@|@붕지@
+@paper handkerchief@|@티슈@
+@paper tissue@|@휴지@
+@paper towel@|@종이 수건@
+@parachute@|@낙하산@
+@paradise@|@낙원@
+@parallel ready [stance]@|@나란히 준비@
+@parboil@|@데치다@
+@parcel@|@소포@
+@Pardon?@|@네?@
+@parents@|@부모@
+@parents-in-law@|@시부모@
+@Paris@|@파리, 파리스@
+@park [garden]@|@공원@
+@park [n]@|@공원@
+@parking lot@|@주차장@
+@parrot@|@앵무새@
+@participation [n]@|@참가 [參加]@
+@participatory democracy@|@참여 민주주의@
+@particle@|@미럴카, 입 카@
+@particularly@|@도대체@
+@partition@|@벽@
+@partner@|@남편, 배우자@
+@part-time work@|@아르바이트@
+@party [evening]@|@파티@
+@party [group]@|@일행@
+@party [n]@|@파티@
+@pass [permit]@|@증, 허가증@
+@pass away [v]@|@돌아가다@
+@pass by@|@지나다@
+@passenger@|@승객, 여객@
+@passenger ship@|@여객선@
+@passionately@|@정열적@
+@passport@|@여관@
+@passport control@|@출입국관리소@
+@past [a]@|@지난@
+@pasta@|@파스타@
+@paste@|@풀@
+@paste [v]@|@바르다@
+@patagium@|@비막@
+@patch@|@밭@
+@path@|@길@
+@path [n[@|@궤도@
+@patient@|@환자@
+@Paul@|@폴@
+@pavillion@|@천막@
+@pay@|@내다@
+@pay [restaurant]@|@사다@
+@pay [v]@|@내다, 디불하다@
+@payment@|@지불@
+@payphone@|@공중전화@
+@pea@|@완두, 완두콩, 콩@
+@peace@|@평안, 평정, 평화, 화목@
+@peace [n]@|@안녕@
+@peach@|@복승아@
+@peacock@|@공작@
+@peak [mountain]@|@정산@
+@peak [n]@|@한창@
+@peanut@|@땅콩@
+@pearl@|@진주@
+@peasant@|@소농@
+@pebble@|@자갈@
+@pedant@|@공론가@
+@pedantic@|@현학적인@
+@pedantry@|@현학@
+@pedestrian [n]@|@보행자@
+@pedestrian crossing@|@횡단보도@
+@pediatrics@|@소아과@
+@peel [cooking]@|@벗기다@
+@peel [v]@|@까다@
+@pelican@|@펠리컨@
+@pen@|@볼펜, 펜@
+@penalty [fine]@|@벌금@
+@pencil@|@연필@
+@pencil case@|@필통@
+@penguin@|@펭귄@
+@penicillin@|@페니실린@
+@penknife@|@주머니칼@
+@penmanship@|@서예@
+@pension [hotel]@|@하숙집@
+@pensioner@|@연금수령자@
+@people@|@사람들@
+@people [counter]@|@명@
+@pepper [n]@|@후추@
+@pepper [spice]@|@후추@
+@pepper [vegetable]@|@피망@
+@per@|@에@
+@per day@|@하루에@
+@per hour@|@한 시간에@
+@per person@|@한 사람에@
+@per week@|@일주일에@
+@percent@|@페센트@
+@peregrine falcon@|@매@
+@perestroika@|@페레스트로이카@
+@perfectly@|@완전히@
+@performance [n]@|@연기@
+@perfume@|@향수@
+@perhaps@|@아마@
+@period [menstruation]@|@멘스, 윌경@
+@permafrost@|@영구동토@
+@permit [n]@|@증, 허가증@
+@Persia@|@페르샤@
+@persimmon@|@감, 감나무@
+@person@|@분, 사람, 인@
+@person [honorific]@|@분@
+@personal organizer@|@전자 수칩@
+@personal pronoun@|@인칭대명사@
+@personality@|@인물@
+@personnell@|@직원@
+@persons [counter]@|@명@
+@petrel@|@슴새@
+@petrol@|@가솔린@
+@petrol station@|@주유소@
+@phagocytises@|@식균작용@
+@phantom@|@헛깨비@
+@pharmacist@|@약사@
+@pharmacy@|@약국@
+@pharynx@|@인두@
+@PhD@|@박사@
+@pheasant@|@꿩@
+@Philippines@|@필리핀@
+@philosopher's stone@|@마법사의 돌@
+@philosophy@|@철학@
+@phone [n]@|@전화@
+@phone box@|@전화박스@
+@phone call@|@전화@
+@phone card@|@전화카드, 전화카드@
+@phone extension@|@교환@
+@phone number@|@전화번호@
+@phoneme@|@표음@
+@phosphorus@|@샛별, 인@
+@photocopy [n]@|@복사기@
+@photocopy [v]@|@복잡하다 (복잡해요)@
+@photographer's [shop]@|@사진관@
+@photographic shop@|@사진관@
+@photophobia@|@수명@
+@physical education; PE@|@체육@
+@physically strong@|@힘세다@
+@physics@|@물리학@
+@physiology@|@생리학@
+@pianist@|@피아니스트@
+@piano [n]@|@피아노@
+@pick [v]@|@따다@
+@pick fruit@|@따다@
+@pick up [phone]@|@받아요@
+@picture [n]@|@그림@
+@picture book@|@그림이 있는 책@
+@picture frame@|@액자@
+@piece@|@개, 조각@
+@pierce@|@뚫다@
+@pierce [v]@|@찌르다@
+@piety@|@경건@
+@pig@|@돼지@
+@pig meat@|@돼지고기@
+@pigeon@|@비둘기@
+@pillow@|@베개@
+@pimple@|@여드름@
+@pine tree@|@소나무@
+@pineapple@|@파인애플@
+@ping pong@|@탁구@
+@pink@|@분홍색@
+@pintail@|@고방오리@
+@pipe [flute]@|@피리@
+@pirate@|@해적@
+@pirate ship@|@해적선@
+@pizza@|@피자@
+@place@|@곳, 장소, 판@
+@place [n]@|@장소@
+@place [v]@|@놓다@
+@places [counter]@|@군데@
+@plague@|@전명병@
+@plain [n]@|@들판@
+@plan [n]@|@계획@
+@plan [of building]@|@도면@
+@plan [v]@|@계흭하다 (계흭해요)@
+@Planck's constant@|@플랑크 상수@
+@plane [aircraft]@|@비행기@
+@planet [n]@|@행성 [行星]@
+@plant [n]@|@공장, 식물@
+@plant [v]@|@심다, 이식하다@
+@plantation@|@재배지@
+@plaster [sticking plaster]@|@일희용 반창고@
+@plastic@|@플라스틱@
+@plastic bag@|@플라스틱 가방@
+@plate@|@접시@
+@platform@|@플래폼@
+@platform [railway]@|@플랫폼@
+@platform [train]@|@승강장@
+@platinum@|@백금@
+@platypus@|@오리너구리@
+@play [tennis; golf]@|@치다@
+@play [v]@|@놀다@
+@play piano [v]@|@피아노 치다@
+@playing card@|@트럼프, 플레이키드@
+@playing with dirt@|@흙장난@
+@pleasant feeling@|@쾌감@
+@please@|@부탁해요, 좀@
+@pleased to meet@|@반갑다@
+@pleased to meet you@|@만나서 반갑습니다@
+@pleasure@|@쾌락@
+@pliers@|@플라이어@
+@plough@|@갈다@
+@plough [n]@|@쟁기@
+@plough [v]@|@쟁기질하다@
+@pluck [v]@|@따다@
+@plug [electrical]@|@플러그@
+@plum@|@자두@
+@plum [n]@|@자두@
+@plumage@|@깃털@
+@plumber@|@배관공@
+@plural@|@복수@
+@Pluto@|@명왕성, 플루토@
+@pneumoconiosis@|@진폐증@
+@pocket@|@고립지@
+@poem@|@시@
+@poetry@|@시@
+@poison@|@독@
+@poisonous@|@유독성@
+@Poland@|@폴란드@
+@polar bear@|@볼극곰@
+@police@|@경찰, 경찰서, 파출소@
+@police officer@|@경찰관@
+@police station@|@경찰서@
+@policeman@|@경찰관@
+@policewoman@|@경찰관@
+@policy@|@시책@
+@polish [v]@|@닦다@
+@political science@|@정치학@
+@politician@|@정치가 [政治家]@
+@politics@|@정치@
+@politics [newspaper]@|@정치@
+@pollen@|@꽃가루@
+@pollutant@|@오염물질@
+@pomegranate@|@석류@
+@pond@|@호수@
+@pony@|@조랑말@
+@pool [swimming]@|@수영장@
+@pop singer [n]@|@유행 가수@
+@pop song [n]@|@유행가 [流行歌]@
+@popcorn@|@팝콘@
+@pope@|@로마 교황@
+@pork@|@돼지고기@
+@porpoise@|@돌고래@
+@portion [food]@|@인분, 일인분@
+@Portugal@|@포르투갈@
+@position@|@위치@
+@possibility@|@가능성@
+@post [n]@|@우편물@
+@post [v]@|@부치다@
+@post code@|@우편천호@
+@post office@|@우체국@
+@postage@|@우편@
+@postcard@|@엽서@
+@postponement [n]@|@연기@
+@pot stew@|@찌개@
+@potassium@|@칼륨, 포타슘@
+@potato@|@감자@
+@potato chips@|@감자 깡@
+@potato chips [crisps]@|@감자 튀김@
+@pottery@|@도기@
+@pouch@|@주머니@
+@pound [currency]@|@파운드@
+@pour [cooking]@|@따르다, 붓다@
+@power [n]@|@힘@
+@power cut@|@정전@
+@practice [n]@|@연습@
+@practice [study]@|@학습@
+@practice [v]@|@연습하다@
+@prairie dog@|@마멋, 프레리 도그@
+@prank@|@농담@
+@prawn@|@새우@
+@precipice@|@절벽@
+@preface@|@머리말@
+@prefer [v]@|@좋아하다 (좋아해요)@
+@pregnant@|@임신@
+@prepare [cooking]@|@짓다@
+@prepare [v]@|@만들다, 준비하다@
+@pre-payment@|@선불@
+@Presbyterian@|@장로교@
+@prescription@|@처방전@
+@present [n]@|@선물@
+@preserve [salt; v]@|@절이다@
+@president@|@대통령@
+@president [company]@|@사장@
+@press@|@누르다@
+@pretty@|@예쁘다, 예쁜@
+@prevent@|@막다@
+@preview@|@예습@
+@previously@|@전에@
+@price@|@가격 [價格], 값@
+@price [H]@|@가 [價]@
+@price [n]@|@대가 [代價]@
+@price of things [n]@|@물가 [物價]@
+@priest@|@목사, 신부@
+@priest [Buddhist]@|@승려, 중@
+@priest [Catholic]@|@신부@
+@priest [Protestant]@|@먹사@
+@prime@|@한창@
+@prime number@|@소수@
+@primitive@|@원시@
+@prince@|@왕자@
+@princess@|@공주@
+@principal@|@학교 교장@
+@principle@|@원리@
+@prison [serve time in prison]@|@콩밥을 먹다@
+@prisoner of war@|@전쟁 포로@
+@private@|@개인, 사럽, 사유@
+@private residence@|@자택@
+@private university@|@사깁대학교@
+@prize@|@상@
+@probably@|@아마, 아마도, 혹시@
+@problem@|@문제@
+@problem child@|@문제아@
+@proceed [v]@|@가다 (가요)@
+@processing [n]@|@가공 [加工]@
+@procreation@|@출산@
+@professional [sport; n]@|@프로@
+@professor@|@교사, 교수, 선생@
+@profit@|@이익@
+@progress@|@진보@
+@prohibited@|@금지@
+@promethium@|@프로메튬@
+@promise@|@약속@
+@pronoun@|@대명사@
+@pronounce [v]@|@발음하다 (발음해요)@
+@pronunciation@|@발음, 발음 [發音]@
+@proper noun@|@고유명사@
+@property@|@재산@
+@prophet@|@예언자@
+@prospect@|@장래@
+@protein@|@단백질@
+@Protestant@|@개신교@
+@Protestant priest@|@먹사@
+@proudly [act proudly]@|@코가 높다@
+@proverb@|@속담@
+@province@|@주@
+@provost@|@사무장@
+@Prussia@|@프로이센@
+@psalm [n]@|@찬송가 [讚頌歌]@
+@pseudonym@|@익명@
+@psychology@|@심리, 심리학@
+@public holiday@|@공신교@
+@public information@|@공보@
+@public opinion@|@여론@
+@public toilet@|@공중변소@
+@publish@|@출판하다@
+@pudding@|@후식@
+@Pulgogi@|@불고기@
+@pull [v]@|@당기다 (당기세요)@
+@pumpkin@|@박@
+@punch [Taekwondo]@|@지르기@
+@puncture@|@빵꾸, 펑크@
+@punishment@|@벌@
+@pup [dog]@|@강아지@
+@pupil@|@학생@
+@puppet@|@괴뢰@
+@puppy@|@하룻강아지@
+@puppy [dog]@|@강아지@
+@purple@|@보라색, 자줏빛@
+@purple heron@|@붉은 왜가리@
+@purse@|@지갑@
+@pus@|@고름@
+@Pusan@|@부산@
+@push [v]@|@밀다 (미세요)@
+@pussy@|@고양이@
+@put [v]@|@꽂다, 넣다@
+@put in efforts@|@힘들이다@
+@put on [v]@|@매다@
+@putsch@|@불시의 일격@
+@pygmy@|@피그미족@
+@pyjamas@|@잠옷@
+@pylon@|@마사일 탑재, 탑, 탑문@
+@Pythagoras@|@피타고라스@
+@quackery@|@엉터리 치료@
+@qualification@|@자격@
+@quality@|@질, 품질@
+@quantum mechanics@|@양자 역학@
+@quark@|@쿼크, 퀴크모형@
+@quay@|@부두@
+@queen@|@여왕@
+@queen bee@|@여왕벌@
+@question [n]@|@질문@
+@queue@|@줄@
+@quick@|@빠르다 (빨라요)@
+@quickly@|@빨리, 어서@
+@quiet [place]@|@조용한@
+@quit [smoking; drinking]@|@끊다@
+@quite@|@퍽@
+@rabbi@|@랍비@
+@rabbit@|@토끼@
+@rabies@|@광건병@
+@raccoon@|@너구리@
+@race [people]@|@인종@
+@race [sport]@|@경기@
+@racket [tennis]@|@라켓@
+@radio@|@라디오@
+@radish@|@무@
+@radium@|@라듐@
+@rafter@|@서까래@
+@rail [track]@|@궤도@
+@railroad@|@철도@
+@railway@|@철도@
+@railway line@|@선@
+@railway platform@|@플랫폼@
+@railway station@|@기차역, 역@
+@railway train@|@기차 [氣車]@
+@rain@|@비@
+@rain cloud@|@비구름@
+@rainbow trout@|@무지개송어@
+@rainy@|@비가 와요@
+@rainy season@|@장마@
+@rake [n]@|@갈퀴@
+@rake [v]@|@갈퀴다@
+@rake hand@|@갈귀손@
+@randomly@|@마구, 무작위로@
+@Rangoon@|@양곤@
+@rank [n]@|@급@
+@rapid@|@빠르다 (빨라요)@
+@rare [food]@|@레어@
+@rare [unique]@|@드물다 (드물어요)@
+@rash [skin]@|@발진@
+@rat@|@쥐@
+@rat [animal]@|@쥐@
+@rationality@|@함리@
+@ravine@|@협곡@
+@raw@|@생@
+@ray [n] (of hope)@|@한가닥@
+@razor@|@레이저, 면도기@
+@razor blades@|@면도날@
+@read [v]@|@읽다@
+@readily@|@쾌히@
+@reading book [n]@|@읽기책@
+@ready@|@준비@
+@real estate@|@부동사@
+@real number@|@실수@
+@really@|@아주, 정말로, 참@
+@rear@|@뒤@
+@reason@|@함리@
+@reason [n]@|@이유@
+@rebuff@|@거절@
+@receipt@|@영수증@
+@receive [v]@|@받다@
+@reception [desk]@|@리셉션 데스크@
+@receptionist@|@안내원@
+@recipe@|@요리법, 처방@
+@reckoning@|@계산@
+@recognize [one's ability]@|@알아 주다@
+@recommend [v]@|@추천하다 (추천해요)@
+@record [music]@|@음반@
+@recreation [newspaper]@|@오락@
+@red@|@붉은, 빨간, 적색@
+@red bean@|@팥@
+@Red Belt@|@빨간띠@
+@red colour of autumn@|@당풍@
+@red deer@|@붉은 사슴@
+@red dwarf@|@적색왜성 [赤色矮星]@
+@red pepper@|@고추@
+@Red Sea@|@홍해@
+@red wine@|@레드 와인, 적포도주@
+@reduction [discount]@|@할인@
+@refectory@|@식당@
+@refreshing@|@상쾌@
+@refrigerator@|@냉장, 냉장고@
+@refund@|@환불@
+@refuse [v]@|@거절하다@
+@regime@|@정권@
+@regime change@|@정권 변화@
+@region@|@지역@
+@regional news [newspaper]@|@지역@
+@regulation@|@규칙@
+@reimburse [v]@|@환급하다 (환급해요)@
+@reject [v]@|@부결하다@
+@relatively [comparatively]@|@비교적@
+@relax [v]@|@쉬다 (쉬어요)@
+@reliable [person]@|@믿을만 해요@
+@relief@|@쾌재@
+@religion@|@종교@
+@remote@|@원격@
+@removal@|@이사@
+@rent@|@세@
+@rent [n]@|@렌트@
+@rent [v]@|@렌트하다 (렌트해요)@
+@repair@|@수리@
+@repair [v]@|@고치다, 수리하다@
+@repeat [v]@|@다시 말하다, 반복하다 (반복해요)@
+@reply@|@답변@
+@report@|@보도@
+@reporter@|@기자@
+@reptile@|@파충류@
+@repute@|@평판@
+@rescue@|@구조@
+@research@|@연구@
+@research [v]@|@연구하다@
+@reservation@|@예약@
+@reserved seat@|@지정석@
+@resort [seaside]@|@휴양지@
+@respiration@|@숰쉬기@
+@responsibility@|@책임@
+@rest [n]@|@휴가@
+@rest [relaxation]@|@휴식@
+@rest [v]@|@쉬다 (쉬어요)@
+@restaurant@|@식당, 음식점@
+@restaurant car@|@식당차@
+@restrict [v]@|@제한하다@
+@result@|@결과@
+@retina@|@눈의 망막@
+@retire@|@은퇴하다@
+@retreat [v]@|@후퇴하다@
+@return [give back]@|@돌려주다 (돌려줘요)@
+@return [go back]@|@돌아가다 (돌아가요)@
+@return [purchase]@|@반품하다 (반품해요)@
+@return [v]@|@돌아오다@
+@return ticket@|@왕복, 왕복표@
+@returning home [v]@|@귀가하다 [歸家]@
+@reveal [v]@|@나타내다@
+@revelation [n]@|@폭로@
+@revenge@|@복수@
+@revenue@|@수익@
+@reverse charge call@|@콜렉트 콜@
+@reverse knife hand@|@손칼등@
+@reverse punch@|@반대 지르기@
+@review [of studies]@|@복습@
+@revolution@|@혁명@
+@reward@|@보수, 사례금@
+@rheumatism@|@류머티즘@
+@rhino@|@코뿔소@
+@rhinoceros@|@코뿔소@
+@rib@|@갈비, 는걸@
+@ribbon [n]@|@띠@
+@ribs@|@갈비@
+@rice [honorific]@|@진지@
+@rice bowl@|@밥공기, 밥그릇@
+@rice cake@|@떡@
+@rice field [paddy field]@|@논@
+@rice spatula@|@밥주걱@
+@rice with beans@|@콩밥@
+@rich [a]@|@부유하다@
+@rich person [n]@|@부자@
+@ridiculous@|@웃으운@
+@riding [horseback]@|@승마@
+@riding horse stance@|@주춤 서기@
+@rifle@|@소충@
+@right@|@오른쪽@
+@right [correct]@|@맞다 (맞아요), 맞은@
+@right arm@|@오른팔@
+@right now@|@당장@
+@ring [jewellery]@|@반지@
+@ring [v]@|@울리다@
+@ripe@|@익은@
+@rise [v]@|@오르다@
+@ritual [n]@|@의례@
+@river@|@강 [江], 내, 수 [水]@
+@rivet@|@리베트@
+@road@|@거리, 길, 도로@
+@road corner@|@골목@
+@road junction@|@교차로@
+@road sign@|@도로표지@
+@roadway@|@찾길@
+@roast [v]@|@굽다 (구워요)@
+@rob@|@빼앗다@
+@Robert@|@로버트@
+@rock@|@바위@
+@rocket@|@로켓트@
+@rocking horse@|@목마@
+@rodent@|@설치류@
+@roe@|@알@
+@roll [v]@|@구르다, 굴리다@
+@rollercoaster@|@롤러코스터@
+@roller-hockey@|@롤러 하키@
+@Roman@|@로마@
+@Roman alphabet@|@로마 문자@
+@Roman Empire@|@로마 제국@
+@Romania@|@루마니아@
+@roof@|@지붕@
+@room@|@겨를, 방, 자리, 짬, 틈@
+@room [space]@|@공간@
+@room service@|@룸 서비스@
+@rooms available@|@빈 잔@
+@rooster@|@수탉@
+@root@|@근원, 뿌리@
+@rope@|@바, 밧줄, 줄@
+@rose@|@장미@
+@rose colour@|@분홍색@
+@roster@|@명단@
+@rot [v]@|@썩다@
+@rotten [food]@|@상했어요@
+@rough@|@거친@
+@round@|@둥근@
+@round [n]@|@한바탕@
+@round house kick@|@돌려 차기@
+@round house low kick@|@반달 차기@
+@route@|@길, 루트, 방향@
+@row@|@줄@
+@row [theatre]@|@열@
+@royal@|@왕실의@
+@rub@|@비비다@
+@rub down ink stick [with water@|@먹을 갈다@
+@rubber@|@고무@
+@rubbish@|@쓰레수, 엉터리, 졸작@
+@rubbish [nonsense]@|@엉터리@
+@rubbish [waste]@|@쓰레기@
+@rucksack@|@배낭@
+@rude@|@버릇없는@
+@rudeness@|@실례@
+@rudimentary@|@기본적인@
+@rug@|@카펫@
+@ruin@|@붕괴@
+@rule@|@규칙@
+@run [sports]@|@달리기를 하다@
+@run [v]@|@달리다, 뛰다@
+@run away [v]@|@달아나다@
+@run away from home [v]@|@가출하다 [家出]@
+@runny nose@|@콧물이 나요@
+@rush [v]@|@뛰다@
+@rush hour@|@출퇴군 시간@
+@Russia@|@러시아@
+@rye@|@호밀@
+@sacrifice@|@희생@
+@sad@|@슬프다, 슬픈@
+@safe [a]@|@안전한@
+@safety belt@|@안전벨트@
+@sail@|@돛@
+@sailing@|@항해@
+@sailing [sport]@|@세일링@
+@sailor [n]@|@선원, 수병@
+@salad@|@샐러드, 양채@
+@salad dressing@|@드레싱@
+@salary@|@급료, 봉급, 월급@
+@salary advance [n]@|@가불 [假彿]@
+@sale [n]@|@세일, 판매@
+@sale [special sale]@|@특매@
+@sales [shop]@|@세일@
+@sales [sign]@|@세일@
+@sales person@|@점원@
+@sales person [shop]@|@판매원@
+@salesman@|@세일즈맨@
+@salesperson@|@세일즈맨, 판매원@
+@saliva@|@침@
+@salmon@|@연어@
+@salt@|@소금@
+@salt [v]@|@절이다@
+@salty@|@짜다@
+@same@|@같다, 같은, 똑같다@
+@same group@|@한통속@
+@same place@|@한군데@
+@Sami [language]@|@사미어@
+@sample@|@견본@
+@Samsung@|@삼성@
+@San Francisco@|@샌프란시스코@
+@Sanchez@|@산체스@
+@sand@|@모래@
+@sandals@|@샌들@
+@sandwich@|@샌드위치@
+@sap [n]@|@즙@
+@sapphire@|@사파이어@
+@Sarajevo@|@사라예보@
+@sardine@|@정어리@
+@sash [n]@|@띠@
+@sashimi@|@생선회@
+@satellite@|@위성@
+@satellite channel@|@위서방송@
+@satisfaction@|@만족@
+@Saturday@|@토요일@
+@Saturn@|@사투르누스, 토성@
+@sauce@|@간장, 소스@
+@saucer@|@접시@
+@Saudi Arabia@|@사우디아라비아@
+@sausage@|@소시지@
+@saute [v]@|@볶다@
+@save [v; life]@|@구하다 (구해요)@
+@save [v; money]@|@저금해요@
+@save [v]@|@구해내다@
+@saw@|@톱@
+@saxophone@|@색소폰@
+@say [honorific; v]@|@말씀 하시다@
+@say [v]@|@말하다 (말해요)@
+@say again@|@다시 말하다@
+@scabbard@|@칼집, 태검집@
+@scaffolding@|@비계@
+@scale@|@정도@
+@scales@|@저울@
+@scallop@|@가리비@
+@scanner@|@스캐너@
+@scar@|@흉, 흉터@
+@scarce@|@드문@
+@scare [v]@|@놀라게 하다@
+@scarecrow@|@허수아비@
+@scarf@|@목도리, 스카프@
+@scatter@|@뿌리다, 흩다, 흩어지다@
+@scence@|@판@
+@scene@|@장면@
+@scent@|@냄새@
+@scheme@|@계획@
+@school@|@수업@
+@school [n]@|@학교@
+@school boy@|@남학생@
+@school bus@|@통학버스@
+@school cafeteria@|@학교 식당@
+@school girl@|@여학생@
+@school holiday@|@방학@
+@school subject@|@과목@
+@school work@|@과업@
+@scissors@|@가위@
+@scold [v]@|@꾸짖다@
+@score@|@득점@
+@scorn@|@경멸@
+@scornful@|@냉소적인@
+@scorpion@|@전갈@
+@scotch tape@|@스카치 테이프@
+@Scotland@|@스코틀랜드@
+@Scottish person@|@스코틀랜드 사람@
+@scrambled egg@|@볶은 계란, 스크램블드 에그, 스크램블드 에그@
+@scratch [v]@|@긁다, 할퀴다@
+@scream [v]@|@소리지르다@
+@screen [n]@|@스크린@
+@screw [n]@|@나사, 나사못@
+@screwdriver@|@나사돌리개, 드라이버@
+@scribbling@|@낙서@
+@scuba diving@|@스쿠버 다이빙@
+@sculpture@|@조각@
+@sculpture [n]@|@조각@
+@sea@|@바다, 해양@
+@sea cucumber@|@해삼@
+@sea horse@|@해마@
+@sea lion@|@바다사자@
+@Sea of Japan@|@동해@
+@sea sickness@|@뱃멀미@
+@seafood@|@해산물@
+@seagull@|@갈매기@
+@seal@|@도장, 물개, 물범@
+@seam@|@솔기@
+@search [v]@|@찾다@
+@seaside@|@해변@
+@seaside resort@|@휴양지@
+@season [cooking; v]@|@양념을@
+@season [n]@|@계절, 한물@
+@season [of year]@|@계절@
+@season [v]@|@무치다@
+@season ticket@|@정기권@
+@seasonal rains@|@장마@
+@seat@|@석, 자리, 좌석@
+@seat belt@|@안전벨트@
+@seaweed@|@미역, 해초@
+@seaweed [n]@|@김@
+@second [n]@|@초@
+@second born daughter@|@장녀@
+@second born son@|@차남@
+@second class@|@이등석@
+@seconds [counter]@|@초@
+@secrecy@|@기밀@
+@secret@|@비밀@
+@secretary@|@비서@
+@securities [newspaper]@|@증권@
+@security guard@|@경비원@
+@see [v]@|@보다 (봐요)@
+@see through a situation@|@간파@
+@seed [n]@|@씨@
+@seem [v]@|@보이다@
+@seesaw@|@널, 널뛰기, 널뛰다@
+@seize [v]@|@잡다@
+@select@|@고르다@
+@selenium@|@샐렌, 셀레늄@
+@self@|@자기, 자신@
+@self catering@|@셀프 케이터링@
+@self service@|@셀프 서피스@
+@self study@|@자습@
+@self-celebration@|@자축@
+@self-confidence@|@자신@
+@selfish@|@이기적@
+@self-service@|@셀프 서비스@
+@self-support@|@자립@
+@self-surrender@|@자수@
+@sell [v]@|@팔다 (팔아요)@
+@sellotape@|@스카치 테이프@
+@semester@|@학기@
+@semester [n]@|@학기@
+@semi-skimmed milk@|@저지방 우유@
+@send [v]@|@보내다 (보내요)@
+@send someone off@|@을 보내요@
+@Senegal@|@세네갈@
+@senior citizen@|@노인@
+@sense [n]@|@감각@
+@sensitive@|@민감한@
+@sentence@|@문장, 판결@
+@Seoraksan@|@설악산@
+@Seoul@|@서울@
+@Seoul National University@|@서울대@
+@separate@|@개개의, 분리하다@
+@separation@|@이탈@
+@September@|@구월@
+@sequence@|@계승@
+@sequence [n]@|@순서@
+@Serbia@|@세르비아@
+@serf@|@농노@
+@series [TV]@|@시리즈@
+@serious@|@심각한@
+@serpent@|@뱀@
+@servant@|@하인, 하인 [下人]@
+@serve time in prison@|@콩밥을 먹다@
+@service@|@보존, 봉사, 서비스@
+@service [restaurant]@|@서비스@
+@service charge@|@봉사료@
+@serviceman@|@군인@
+@set menu@|@세트 메뉴@
+@set theory@|@집합론을@
+@settle [v]@|@졀정하다@
+@settlement@|@경절@
+@several@|@여러@
+@several kinds of@|@여러가지@
+@severe@|@엄격한@
+@sewage system@|@하수도@
+@sex@|@성@
+@shadow@|@그림자, 단짝@
+@shake [v]@|@떨다@
+@shallot [n]@|@파@
+@shallow [a]@|@얕은@
+@shaman@|@무당@
+@shame@|@수치@
+@shampoo@|@샴푸@
+@Shanghai@|@상해@
+@shape [n]@|@모양@
+@share@|@목@
+@share [v]@|@나누다, 분담하다@
+@shares [stock]@|@주식@
+@shareware@|@쉐어웨어@
+@shark@|@상어@
+@sharp [a]@|@날카로운@
+@sharpen [pencil]@|@깎다 (깎아요)@
+@sharpener@|@가는 기구@
+@shave [v]@|@면도하다 (면도해요)@
+@shaved ice@|@빙수@
+@shaved ice with red bean@|@팥빙수@
+@shaving cream@|@면도 크림@
+@she@|@그녀@
+@sheath@|@칼집@
+@she-cat@|@암고양이@
+@sheep@|@면양, 양@
+@sheet@|@시이트@
+@sheet [counter]@|@장@
+@shelf@|@선반@
+@shellfish@|@갑각류, 조개@
+@Shiatsu@|@지압@
+@shine [v]@|@빛나다@
+@shirt@|@셔츠, 와이샤쓰@
+@shit@|@똥@
+@shock@|@충격@
+@shoddy@|@재생모@
+@shoe@|@신발@
+@shoe [n]@|@구두@
+@shoe lace@|@구두끈@
+@shoe polish@|@구두약@
+@shoe shop@|@신발 가게, 제화점@
+@shoot [v]@|@쏘다@
+@shop [n]@|@가게, 상점@
+@shop assistant@|@도우미, 점원@
+@shopkeeper@|@가게 주인@
+@shopping@|@쇼핑@
+@shopping [go shopping]@|@쇼핑하다 (쇼핑해요)@
+@shopping bag@|@가방@
+@shopping trolley@|@쇼핑 트롤리@
+@shore [n]@|@바닷가@
+@short@|@작은, 짧다@
+@short cut@|@지름길@
+@short shoes@|@운동화@
+@short sleeve@|@짧은팔@
+@short stick@|@단봉@
+@short time@|@잠깐만@
+@shortcomings@|@결함@
+@short-lived insect@|@하루살이@
+@shorts@|@반바지@
+@shotgun@|@산탄총@
+@shoulder@|@어깨@
+@shout [v]@|@소리치다, 외치다@
+@shovel [n]@|@삽@
+@show [v; theatre]@|@공연, 쇼@
+@show [v]@|@보여주다@
+@show off@|@뻥을 까다@
+@shower [n]@|@샤워@
+@shrimp@|@새우@
+@shrimp chips@|@새우 깡@
+@shrimps@|@새우@
+@shut [v]@|@닫다 (닫아요)@
+@shuttle bus@|@왕복 버스@
+@shy [a]@|@수줍은@
+@sibling [younger sibling]@|@아우@
+@siblings@|@남매, 형제@
+@sick [a]@|@아픈@
+@sick [be sick]@|@토하다 (토해요)@
+@side [body]@|@옆구리@
+@side [n]@|@쪽, 편@
+@side dish@|@반찬@
+@side elbow@|@옆팔꿈@
+@side hammer fist@|@옆주먹@
+@side kick@|@옆차기@
+@side punch@|@옆 지르기@
+@sideline@|@부업@
+@siege@|@포위 공격@
+@sieve@|@체@
+@sigh [n]@|@한숨@
+@sightseeing@|@관광@
+@sign@|@골뱅이, 신호@
+@signature@|@사인, 서명@
+@significance@|@중요성@
+@silence@|@침묵@
+@silently@|@말없이@
+@silicon@|@규소@
+@silk@|@비단, 실크@
+@Silla@|@신라@
+@silly talk@|@헛소리@
+@silver@|@은@
+@silver [colour]@|@은색@
+@silversmith@|@은 대장장이@
+@silverware@|@은제품@
+@similar@|@비숫한@
+@simple@|@간단하다, 간단한@
+@Simplified Chinese@|@간결체 한자@
+@simply@|@단순히@
+@simultaneous@|@동시적인@
+@simultaneously@|@동시에@
+@sin [n]@|@죄@
+@since old times@|@엑날부터@
+@since when@|@언제 부터@
+@sincere [a]@|@진실한@
+@sinew@|@심줄, 힘출@
+@sing [H]@|@가 [歌]@
+@sing [v]@|@노래하다, 부르다@
+@singer [n]@|@가수 [歌手]@
+@single@|@홀로@
+@single [bed room]@|@일인용@
+@single [person]@|@독신, 싱글@
+@single [ticket]@|@편도@
+@single bed@|@싱글 침대@
+@single room@|@싱글 룸@
+@single word@|@한마디@
+@singles [Tennis]@|@단식@
+@singular number@|@단수@
+@sink [bathroom]@|@세면대, 싱크@
+@sink [v]@|@가라앉다@
+@Sir@|@아저씨@
+@sister@|@누나@
+@sister [younger]@|@여동생@
+@sister-in-law [eld. br. wife]@|@형수@
+@sister-in-law [wife's br. wife@|@올케@
+@sister-in-law [y. broth. wife]@|@계수@
+@sisters@|@자매@
+@sit [v]@|@앉다@
+@site@|@터@
+@situation@|@사태, 상황, 처지, 판, 판, 판국@
+@size@|@크기@
+@size [clothes]@|@사이즈, 치주@
+@size [n]@|@키@
+@skates [n]@|@스케이트@
+@ski [v]@|@스키 타다 (스키 타요)@
+@ski boot@|@스키 부츠@
+@ski pass@|@리프트 권@
+@skill@|@기술@
+@skill [special skill]@|@특기@
+@skin [n]@|@가죽, 막, 피막, 피부@
+@skin rash@|@발진@
+@skirt@|@치마@
+@sky@|@하늘@
+@sky blue@|@하늘색@
+@skylark@|@노고지리, 종다리@
+@slander@|@악담@
+@slanderous@|@중상적인@
+@slang [n]@|@속어 [俗語]@
+@slave@|@노예@
+@sledgehammer@|@대형 쇠망치@
+@sleep@|@잠@
+@sleep [honorific; v]@|@주무시다@
+@sleep [honorific]@|@주무시다@
+@sleep [v]@|@자다 (자요)@
+@sleep a wink@|@한숨자다, 한잠자다@
+@sleeping bag@|@침낭@
+@sleeping pill@|@수명제@
+@slender@|@날씬한@
+@slice@|@썰다@
+@slice thinly@|@얇게 썰다@
+@slide@|@미끄러지다@
+@slight@|@약간의@
+@slim waist@|@개미허리@
+@slip [pants]@|@내복@
+@slipper [n]@|@슬리퍼@
+@slippers@|@슬리퍼@
+@sloth@|@나무늘보@
+@Slovenia@|@슬로베니아@
+@slow@|@느린, 천천히@
+@slow [a]@|@느리다, 늦은@
+@slowly@|@천천히@
+@sly@|@교활한@
+@small [a]@|@작다, 작은@
+@smear with ink@|@먹칠하다@
+@smell [n]@|@냄새@
+@smew@|@흰비오리@
+@smile [n]@|@미소@
+@smoke@|@피오@
+@smoke [v]@|@담배 피우다@
+@smoking@|@흡연@
+@smoking prohibited@|@금연@
+@smooth@|@매끄러운@
+@snack@|@간식, 식사@
+@snack [with drink]@|@안주@
+@snail@|@달팽이@
+@snake@|@뱀@
+@snap@|@꺾다@
+@sneakers [n]@|@운동화@
+@sneeze [v]@|@재채기하다@
+@snippet@|@끄트러기, 단편, 조각@
+@snore [v]@|@코를 골다@
+@snorkel@|@스노클@
+@snot@|@망나니@
+@snow [n]@|@눈@
+@snow storm@|@눈보라@
+@snowball fight@|@눈싸움@
+@snowman@|@눈사람@
+@snowy@|@눈이 와요@
+@so@|@그럼@
+@so far@|@아직@
+@soap@|@비누@
+@soap [TV]@|@연속극@
+@soap powder@|@가루비누@
+@sober [not drunk]@|@안 취한@
+@soccer@|@축구@
+@society@|@사회@
+@sociology@|@사회학@
+@sock@|@양말@
+@soda water@|@소다수@
+@sofa@|@소파@
+@Sofia@|@소피야@
+@soft@|@부드럽다@
+@software@|@소프트웨어@
+@Sogang University@|@서강대@
+@soil@|@흙@
+@soil [n]@|@토지@
+@soju@|@소주@
+@solar calendar@|@양력@
+@solar eclipse@|@일식@
+@solar plexus@|@명치@
+@soldier@|@군인@
+@soldier [female soldier]@|@여군@
+@sole [back sole]@|@뒤꿈치@
+@solid@|@고체, 입체@
+@solitude@|@고독@
+@Somalia@|@소말리아@
+@some@|@어떤@
+@some time@|@그때@
+@somebody@|@누구@
+@something@|@어떤 것@
+@something fishy@|@흑막@
+@sometimes@|@가끔@
+@son@|@아들@
+@son [first born]@|@장남@
+@son [honorific]@|@아드님@
+@son [n]@|@아들@
+@son [second born]@|@차남@
+@song@|@가곡 [歌曲], 노래@
+@song [H]@|@가 [歌]@
+@song [most recent songs]@|@최신가요@
+@song [n]@|@가요 [歌謠]@
+@song of congratulation [n]@|@축가 [祝歌]@
+@son-in-law@|@며느리, 사위@
+@soon@|@곧@
+@sore head@|@두통@
+@sore throat@|@목이 아파요@
+@sorghum@|@당밀@
+@sorrow@|@슬픔@
+@sorry@|@미안합니다, 죄송합니다@
+@sorry [be sorry]@|@미안하다@
+@soul@|@영혼@
+@sound@|@소리, 전전한@
+@sound [n]@|@발음@
+@sound value@|@음자@
+@soup@|@국, 국물, 수프, 찌개@
+@soup [main dish]@|@찌개@
+@soup [side dish]@|@국@
+@soup [Western]@|@수프@
+@soup bowl@|@대접@
+@sour@|@시다, 신@
+@sousaphone@|@소읏앞온어@
+@South Africa@|@남아프리카@
+@South African person@|@남아프리카 사람@
+@South America@|@남미@
+@South Korea@|@남한, 한국@
+@souvenir@|@기념품, 선물@
+@souvenir shop@|@선물 가게@
+@Soviet Union@|@쏘련@
+@sow@|@뿌리다, 심다@
+@soy bean@|@콩@
+@soy bean paste@|@된장@
+@soy milk@|@두유@
+@soy sauce@|@간장@
+@soybean flour@|@콩가루@
+@space@|@꽁간, 사이, 짬@
+@spacecraft@|@우주선@
+@spaghetti@|@스파게티@
+@Spain@|@스페인@
+@spanner@|@스패너@
+@spare time@|@틈@
+@spare time [n]@|@틈@
+@spark@|@불꽃@
+@sparrow@|@참새@
+@sparrow hawk@|@새매@
+@spatula [rice spatula]@|@밥주걱@
+@speak [v]@|@말하다 (말해요)@
+@speak ill of@|@흉보다@
+@spear@|@창@
+@spear finger@|@손끝@
+@special@|@특별한@
+@special edition@|@특집@
+@special efficacy@|@특효@
+@special feature@|@특집@
+@special order@|@특명@
+@special room@|@특실@
+@special sale@|@특매@
+@special size@|@특대@
+@special skill@|@특기@
+@speciality@|@전문, 특산물@
+@specialization [university]@|@저공@
+@specific@|@특정한@
+@speck@|@얼룩@
+@spectacles [glasses]@|@안경@
+@speech@|@말씀, 연설@
+@speed@|@속도@
+@speed limit@|@속도 제한@
+@speed of sound@|@음속@
+@speedy@|@빠르다 (빨라요)@
+@spell [v]@|@쓰다 (써요), 철자하다@
+@spelling [n]@|@철자@
+@spend [money]@|@돈을 쓰다 (돈을 써요)@
+@spend [time]@|@보내다@
+@spend [v]@|@소비하다@
+@spend time [v]@|@지내다@
+@sperm whale@|@향고래@
+@spice up [cooking]@|@양념을@
+@spicy@|@매운@
+@spider@|@거미@
+@spinach@|@시금치@
+@spine [n]@|@등@
+@spinning side kick@|@뒤 돌려 옆차기@
+@spirit@|@기운, 망령, 알코올, 정신@
+@spirits [alcohol]@|@독주@
+@spiritual@|@영적인@
+@spite [n]@|@반감@
+@splendid@|@옳이, 장엄한@
+@spoilt@|@썩은@
+@spoken answer@|@대답, 응답@
+@sponge [n]@|@스펀지, 해면@
+@spoon@|@숟가락, 숟가락@
+@spoon and chopsticks@|@소저@
+@sport@|@스포츠, 운동@
+@sporting race@|@경기@
+@sports shop@|@스포츠샵@
+@sports stadium@|@운동장@
+@spot@|@점@
+@spouse@|@배우자@
+@sprain [ankle]@|@삐다 (삐었어요)@
+@sprain [v]@|@삐다@
+@spray@|@뿌리다@
+@spring [hot spring]@|@온천@
+@spring [n]@|@샘, 용수철, 잔가지, 한사리@
+@spring [season]@|@봄@
+@springtime@|@봄@
+@sprinkle [v]@|@뿌리다, 살포하다@
+@sprint [v]@|@뛰다@
+@sprout@|@싹@
+@spruce@|@가문비 나무@
+@spurious article [a]@|@가짜 [假K]@
+@spy [n]@|@간첩@
+@square@|@광장, 정사각형@
+@square [n]@|@관장@
+@squash [drink]@|@스쿼시@
+@squash [sport]@|@스쿼시@
+@squeeze@|@조이다@
+@squid@|@오징어@
+@squirrel@|@다람쥐@
+@Sri Lanka@|@스리랑카@
+@stab [be stabbed]@|@칼침을 맞다@
+@stab [v]@|@찌르다@
+@stadium@|@경기장, 운동장@
+@stage [n]@|@무대@
+@stair@|@계단@
+@stake@|@말뚝@
+@stalemate@|@교착상태@
+@stalk@|@줄기@
+@stamp [letter]@|@우표@
+@stand up [v[ wake up [v]@|@일어나다 (일어나요)@
+@star [film]@|@스타@
+@star [sky]@|@별@
+@starch@|@풀@
+@starch [n]@|@풀@
+@starch [v] (clothes)@|@풀먹이다@
+@starfish@|@불가사리@
+@start@|@시작하다@
+@starting from@|@부터@
+@starvation@|@기근@
+@state@|@국가@
+@state [country]@|@나라@
+@state [n]@|@주@
+@state [v]@|@말하다 (말해요)@
+@state of affairs@|@판국@
+@state university@|@주립대학교@
+@statement@|@계산서, 진술@
+@static@|@정적인@
+@station@|@기차역, 역, 정거장@
+@stationer's@|@문방구@
+@stationery [shop]@|@문구사, 문방구점@
+@statistics@|@통계@
+@statue@|@동상, 조상@
+@stature@|@키@
+@stay [honorific]@|@계시다@
+@stay [v]@|@있다@
+@steak@|@스테이크@
+@steal [v]@|@훔치다@
+@steam [n]@|@증기@
+@steam [v]@|@찌다@
+@steel [n]@|@강철@
+@steep@|@가파른, 험한@
+@steer@|@수송아지@
+@steering wheel@|@핸들@
+@stem [n]@|@줄기@
+@stem of brush [writing]@|@붓대@
+@step [n]@|@걸음, 단계@
+@stepchild@|@차녀@
+@stepdaughter@|@의붓아들@
+@stepfather@|@계부@
+@stepmother@|@계모@
+@steppe@|@대초원@
+@stepson@|@의붓자식@
+@stereo@|@스테레오@
+@sterilize@|@살균하다@
+@stern@|@선미@
+@stewardess@|@스튜어디스@
+@stick@|@막대기@
+@stick into [v]@|@꽂다@
+@sticking plaster@|@일희용 반창고@
+@sticky tape@|@스카치 테이프@
+@still@|@아직@
+@stillbirth@|@사산@
+@stingy@|@인색한@
+@stir [cooking]@|@섞다, 젓다@
+@stock@|@가축, 비축, 재고@
+@stock [shares]@|@주식@
+@stock [shop; v]@|@팔다 (팔아요)@
+@stocking@|@양말@
+@stomach ache@|@복통, 위통@
+@stone@|@결석, 돌, 돌멩이, 보석@
+@stop@|@구치다, 멈추다@
+@stop [v]@|@끝나@
+@store [n]@|@가게, 상점@
+@storey@|@층@
+@stork@|@황새@
+@storm@|@강풍, 폭풍우@
+@story@|@얘기, 이야기@
+@stove@|@스토브@
+@straight [a]@|@곧장@
+@straight ahead@|@곧바로@
+@straight on@|@똑바로@
+@strain@|@거르다@
+@strain [v]@|@당기다 (당기세요)@
+@strait@|@해협@
+@strange@|@옷기는, 이상한@
+@stranger@|@타인@
+@strangle punch@|@칼재비@
+@straw mat [for bed]@|@콩멍석@
+@strawberry@|@딸기@
+@stray dog@|@들개@
+@stream [n]@|@시낵가@
+@street@|@거리, 길, 도로@
+@strength [n]@|@힘@
+@stress@|@압박@
+@stretch [v]@|@당기다 (당기세요), 뻗다@
+@strict@|@엄격한@
+@strife@|@투쟁@
+@strike [n]@|@파업@
+@strike [v]@|@치다@
+@strike it rich@|@살판나다@
+@string@|@끈@
+@string [for wrapping]@|@끈@
+@strong@|@강하다, 군세다, 새다, 짙다@
+@strong [material]@|@튼튼한@
+@strong [person]@|@힘센@
+@strontium@|@스트론튬@
+@structure@|@건물, 구조@
+@struggle@|@투쟁@
+@stubborn@|@고집센@
+@stubborn [be stubborn]@|@코가 세다, 콧대가 세다@
+@stuck [jammed]@|@붙어있다 (붙어있어요)@
+@student@|@제자, 학생@
+@student union [building]@|@학생회관@
+@student work@|@아르바이트@
+@study [v]@|@공부하다@
+@study abroad [n]@|@유학@
+@study course@|@코스@
+@studying [n]@|@공부하기@
+@stuff@|@재료@
+@stuffing of pillow; pillow stuffing [n]@|@베갯속@
+@stupid@|@어리석은@
+@sturgeon@|@철갑 상어@
+@stutter@|@더듬기@
+@style@|@작풍@
+@sub dishes@|@반찬@
+@subject@|@백성, 신하, 주어, 주제, 학과@
+@subject [mail]@|@제목@
+@subject [n]@|@과목@
+@subjunctive@|@가정법@
+@submarine@|@잠수함@
+@submit@|@제출하다@
+@subscribe@|@구독하다@
+@subscription@|@예약 신청@
+@subsequent@|@결과의@
+@subset@|@부분집합@
+@substantial@|@실재하는@
+@substitute@|@대용하다@
+@subtitle@|@자막@
+@subtract [v]@|@빼다@
+@suburbs@|@교외, 시외@
+@subway ticket@|@지하철표@
+@success [n]@|@성공 [成功]@
+@succession@|@계승@
+@sucking@|@빨@
+@sucrose [n]@|@자당@
+@sudden@|@급격한@
+@suddenly@|@감자기, 급격하게@
+@suffer [v]@|@괴로워하다@
+@sufficient@|@충분한@
+@sugar@|@설탕@
+@sugar [n]@|@설탕@
+@sugar free@|@무가당@
+@suggest [v]@|@암시하다@
+@suicide@|@자살@
+@suit@|@슈트, 양복@
+@suitcase@|@가방, 슈트케이스, 여행 가방@
+@suite@|@스위트@
+@sulky@|@삐치다@
+@sulphur@|@황@
+@sum@|@합계@
+@Sumerian@|@스메르@
+@summarize [v]@|@요약하다@
+@summer [season]@|@여름@
+@summer vacation@|@어름 방학@
+@summon [v]@|@소집하다@
+@sumo [sport]@|@스모@
+@sun@|@일 [日], 태양 [?陽], 해@
+@sun glasses@|@선글라스@
+@sun shower@|@여우비@
+@sunbathe [v]@|@일광욕하다@
+@sunbeams@|@햇살@
+@Sunday@|@일요일@
+@sunglasses@|@색안경@
+@sunglasses [n]@|@선글라스@
+@sunlight@|@해빛@
+@sunrise@|@아침놀, 해돋이@
+@sunset@|@저녁논, 해넘이, 황혼@
+@sunshine@|@햇빛@
+@sunstroke@|@일사병@
+@suntan@|@선탠@
+@superior@|@우수한@
+@supermarket@|@슈퍼마켓@
+@superstition@|@미신@
+@supper@|@저녁@
+@supper [dinner]@|@저녁@
+@supply@|@공급하다@
+@support@|@보조, 지지@
+@suppose [v]@|@상상하다@
+@suppose that@|@가령 [假令]@
+@suppress [v]@|@누르다, 억압하다@
+@supremacy@|@최고@
+@supreme@|@최고@
+@sure@|@확실한@
+@sure to@|@꼭@
+@surely@|@확실히@
+@surface@|@표면@
+@surgery@|@외과@
+@surgery [doctor]@|@진찰실@
+@surname@|@성, 성 [?]@
+@surname [honorific]@|@성함@
+@surprise [n]@|@깜짝@
+@surprise [v]@|@놀라게 하다@
+@surrender [v]@|@항복하다@
+@surrogate mother@|@대리모@
+@surround [v]@|@둘러싸다@
+@sushi [n]@|@초밥@
+@suspect [v]@|@의심하다@
+@suspicion [n]@|@의심@
+@swallow [n]@|@제비@
+@swallow [v]@|@삼키다@
+@swan@|@백조 [白鳥]@
+@swear v; insult]@|@욕@
+@Sweden@|@스웨덴@
+@sweet@|@감미롭다, 달다, 달켬하다, 마음 좋다, 신신하다@
+@sweet [not savoury@|@단@
+@sweet fish@|@은어@
+@sweetened red bean@|@단팥@
+@sweetener@|@감미료@
+@sweets@|@사탕@
+@swift@|@빠르다 (빨라요)@
+@swiftly@|@빨리@
+@swim [v]@|@수영하다 (수영해요)@
+@swimming [n]@|@수영@
+@swimming clothes@|@수영복@
+@swimming pool@|@수영장@
+@swimming suit@|@수영복@
+@swimsuit@|@수영복@
+@swing [n]@|@느네@
+@swing [v]@|@느네 뛰다, 흔들다, 흔들리다@
+@Swiss@|@스위스@
+@switch off [v]@|@끄다 (꺼요)@
+@switch on [v]@|@겨다 (겨요)@
+@switchboard@|@교롼원@
+@Switzerland@|@스위스@
+@sword@|@검, 칼@
+@sword [foot sword]@|@발칼@
+@Sydney@|@시드니@
+@syllable@|@음절@
+@sympathy@|@동정@
+@synagogue@|@유대교회@
+@synthesizer@|@합성기@
+@Syria@|@시리아@
+@system@|@체계, 체도@
+@table@|@상, 책상, 테이블@
+@table of contents@|@차례@
+@table of tariff@|@요금표@
+@table tennis@|@탁구@
+@table vinegar@|@식초@
+@tablespoon@|@큰스푼@
+@tadpole@|@올챙이@
+@Taekwondo@|@태권도@
+@tail@|@꼬리@
+@Taiwan@|@대만, 타이완@
+@Taj Mahal@|@타지마할@
+@take [picture]@|@찍다@
+@take [time]@|@걸리다 (결려요)@
+@take a walk@|@산책을 하다@
+@take off [clothes]@|@벗다@
+@tale [n]@|@설화@
+@talent@|@재능@
+@talk [honorific; v]@|@말씀 하시다@
+@talk [n]@|@이야기@
+@talk [v]@|@말하다 (말해요), 애기하다 (에기해요), 이야기 하다@
+@tall@|@높다@
+@tame@|@길들인@
+@tampon@|@탐폰@
+@tan [suntan]@|@선탠@
+@Tanaka@|@다나까, 다나카@
+@tang@|@슴베@
+@tap [n]@|@꼭지, 마개@
+@tape@|@테이프@
+@tape [audio]@|@카세트 테이프@
+@tape [n]@|@띠@
+@tape [sticky]@|@스카치 테이프@
+@tape recorder@|@녹음기@
+@task [n]@|@과업@
+@taste@|@맛@
+@taste [of something]@|@맛있어요@
+@taste [something; v]@|@맛을 보다 (맛을 봐요)@
+@taste [try food]@|@맛을 보다 (맛을 봐요)@
+@tasty [be tasty]@|@맛 있다, 맛이 있다@
+@tattoo@|@문신@
+@taunt [v]@|@모욕하다, 조롱하다@
+@tavern@|@술집, 주막@
+@tax@|@세금@
+@tax free@|@면세@
+@taxi [n]@|@택시@
+@taxi driver@|@택시 운전수@
+@taxi rank@|@택시 승차장@
+@taxonomy@|@분류학@
+@tea@|@차@
+@tea [English]@|@홍차@
+@tea [green tea]@|@녹차@
+@tea [herbal tea]@|@허브 차@
+@tea house@|@다방@
+@tea leaf@|@차@
+@teach [v]@|@가르치다@
+@teacher@|@교사, 선생@
+@teacher [honorific]@|@선생님@
+@teaching material@|@교재@
+@team@|@팀@
+@tear@|@눈물@
+@tease [v]@|@직접거리다@
+@technique@|@기술@
+@teenager@|@틴에이저@
+@teeth@|@이, 치아@
+@Teheran@|@테헤란@
+@telegram@|@전보@
+@telephone@|@전화@
+@telephone box@|@전화 박스@
+@telephone directory@|@전화번호부@
+@telephone exchange@|@교롼원@
+@telephone number@|@전화번호@
+@telescope@|@망원경@
+@television@|@텔레비전@
+@tell [v]@|@말하다 (말해요)@
+@tellurium@|@텔루륨, 텔루르@
+@temperature@|@온도@
+@temperature [fever]@|@은도@
+@template@|@템플렛@
+@temple@|@사, 절@
+@temporary@|@일시적인@
+@temporary [H]@|@가 [假]@
+@temptation@|@유혹@
+@tendency@|@경향@
+@tender@|@연한@
+@tendon@|@심줄, 힘줄@
+@tennis@|@테니스@
+@tennis court@|@테니스 코트@
+@tennis court [n]@|@코트@
+@tennis racket@|@테니스 라켓@
+@tennis shoes@|@운동화@
+@tent@|@천막, 텐트@
+@term [n]@|@학기@
+@terminal [airport]@|@터미널@
+@termite@|@흰개미@
+@terrible@|@무시무시한@
+@terror@|@공포@
+@terrorist@|@테러리스트@
+@test [n]@|@검사, 시험@
+@testimony@|@증언@
+@Texas@|@텍사스@
+@textbook@|@교과서, 교재@
+@Thailand@|@타일랜드, 태국@
+@than [comparative]@|@보다@
+@thank [v]@|@고맙다@
+@thank you@|@감사합니다, 고맙습니다@
+@thanks@|@사의@
+@that [there]@|@저것@
+@that one [away]@|@저거@
+@that one [near listener]@|@그거@
+@that time@|@그때, 현재@
+@that way@|@저리, 저쪽@
+@The Hague@|@헤이그@
+@the lord@|@하늘님@
+@theatre@|@극장@
+@theft@|@도둑질, 절도@
+@theme@|@주제@
+@then [that time]@|@그때@
+@theorem@|@정리@
+@theory@|@설@
+@there@|@거기, 그리, 저기@
+@therefore@|@그래서, 그러므로@
+@thereupon@|@그런대@
+@thermometer@|@온도계@
+@these days@|@요새, 요즘, 이즘@
+@thesis {document}@|@논문@
+@they@|@그들@
+@thick [paper]@|@두꺼운@
+@thick [rope; cord]@|@굵은@
+@thick [sauce]@|@진한@
+@thick soup@|@찌개@
+@thief@|@도둑@
+@thigh [n]@|@허벅다리@
+@thin@|@얇다@
+@thin [paper]@|@얇은@
+@thin [rope; cord]@|@가는@
+@thin [sauce]@|@얇은@
+@thing@|@것, 물건@
+@thing [my things]@|@네 것@
+@things to do@|@할일@
+@think [v]@|@생각하다@
+@thirst@|@목마름@
+@thirsty@|@목마르다 (목말라요)@
+@this@|@이, 이것@
+@this [time]@|@이번@
+@this afternoon@|@오늘 오후@
+@this month@|@이달@
+@this morning@|@오늘 아침@
+@this one@|@이거, 이것@
+@this one [time]@|@지난@
+@this way@|@이리, 이쪽@
+@this week@|@이주일@
+@this year@|@금년, 올해@
+@thought [n]@|@생각@
+@thousand@|@천@
+@thread@|@실@
+@threat@|@협박@
+@throat@|@멱, 멱살, 목@
+@throttle@|@방해@
+@throw [v]@|@던지다@
+@throw away@|@버리다@
+@thrust@|@돌격@
+@thumb [n]@|@엄지@
+@thunder@|@우뢰, 천둥@
+@thunderstorm@|@우레와 폭우@
+@Thursday@|@목요일@
+@thus [in this manner]@|@이렇게@
+@ticket@|@차표, 표@
+@ticket [cinema]@|@극장 표@
+@ticket [train]@|@기차표@
+@ticket machine@|@자동판매기@
+@ticket office@|@매표소, 창구@
+@tickle [someone's nose]@|@코침@
+@tidal@|@간만@
+@tide@|@조수@
+@tie [clothes]@|@넥타이@
+@tiger@|@호랑이@
+@tiger stance@|@범서기@
+@tight [a]@|@촘촘한@
+@tights [clothing]@|@팬티 스타킹@
+@tights [n]@|@타이스@
+@till@|@까지@
+@time@|@때, 시, 시간, 짬@
+@time [for a long time]@|@오랫동안@
+@time off [work]@|@휴가@
+@time travel@|@시간여행@
+@times [age]@|@시대@
+@times [counter]@|@번@
+@timetable@|@시간표@
+@timid@|@겁 많은@
+@tin@|@깡통, 주석@
+@tin opener@|@깡통 따림@
+@tinfoil@|@알미늄 호일@
+@tinned [a]@|@통조림@
+@tip [n]@|@끝@
+@tip of brush [writing]@|@붓끝@
+@Tirana@|@티라나@
+@tired@|@피곤하다 (피곤해요)@
+@tissue@|@티슈, 휴지@
+@Titanic@|@타이타닉@
+@titanium@|@타이타늄, 티타늄, 티탄@
+@title@|@칭호@
+@to@|@까지, 로, 에, 으로, 한테@
+@to [mail]@|@받는이, 수신@
+@to do [things to do]@|@할일@
+@to get a job@|@취직하다@
+@to keep {a promise}@|@지키다@
+@toad [n]@|@두꺼비@
+@toast [bread]@|@토스트@
+@toast bread@|@식빵@
+@tobacconist's@|@담배 가게@
+@today@|@오늘@
+@toe@|@발가락, 발끝@
+@toenail@|@발톱@
+@tofu@|@두부@
+@together@|@같이, 함께@
+@Togo@|@토고@
+@toilet@|@화장실@
+@toilet [informal]@|@변소@
+@toilet [public]@|@공중변소@
+@toilet paper@|@휴지@
+@toiletries@|@화장품@
+@Tokyo@|@도오쿄, 도쿄, 토쿄@
+@tolerate@|@참는다@
+@toll@|@통행료@
+@tomato@|@토마토@
+@tomato juice@|@토마토 주스@
+@tomcat@|@수고양이@
+@tomorrow@|@내일@
+@tomorrow afternoon@|@내일 오후@
+@tomorrow morning@|@내일 아침@
+@tomorrow night@|@내일 밤@
+@ton@|@톤@
+@tongue@|@혀@
+@Toni@|@토니@
+@tonight@|@오늘 밤@
+@too@|@또@
+@too [too much]@|@너무, 상당히@
+@too much@|@너무@
+@tool@|@기, 도구, 용구@
+@tooth@|@이, 이빨, 치아@
+@toothache@|@치통@
+@toothbrush@|@칙솔@
+@toothpaste@|@치약@
+@top@|@꼭대기, 위@
+@topic@|@화제@
+@torch@|@손전등, 후래쉬@
+@tornado@|@토네이도, 폭풍@
+@Toronto@|@토론토@
+@torso@|@흉상@
+@tortoise [n]@|@거북@
+@total@|@전부, 합계@
+@touch [do not touch]@|@만지지 마시오@
+@touch [v]@|@닿다@
+@touch type [v]@|@타자하다@
+@tough [meat]@|@질긴@
+@tour [sightseeing]@|@여행, 투어@
+@tourism@|@관광@
+@tourist@|@관광객@
+@tourist office@|@관광 안내소@
+@tournament@|@경기 대회@
+@toward@|@로, 으로@
+@towel@|@타올@
+@towel [bath]@|@수건@
+@tower@|@탑@
+@town@|@도시, 마을, 읍@
+@town centre@|@시내@
+@town plan@|@도시 계획@
+@toy@|@장난감@
+@trachea@|@기도, 솜통@
+@track [n]@|@궤도@
+@track suit@|@운동복@
+@tracksuit@|@운동복@
+@tractor [n]@|@트렉타@
+@trade@|@무역@
+@trading company@|@무역회사@
+@tradition@|@전통@
+@traditional [a]@|@전통@
+@Traditional Chinese@|@전통 중국어@
+@traditional dress@|@전통옷@
+@traditional Korean game@|@윶@
+@traditionally@|@엑날부터@
+@traffic@|@교통@
+@traffic jam@|@교통 체증@
+@traffic light@|@신호등@
+@traffic line@|@차도@
+@tragedy@|@미극@
+@tragic@|@슬픈@
+@train [n]@|@기차 [氣車]@
+@train [next train]@|@다음 기차@
+@train ticket@|@기차표@
+@training@|@훈련@
+@training suit@|@운동복@
+@transaction@|@거래@
+@transfer [v]@|@옮기다@
+@transformation@|@변환@
+@translate [v]@|@번역하다@
+@translation@|@번역@
+@translation [fan translation]@|@비영리적인 번역@
+@translator@|@번역가@
+@transliterate@|@자역@
+@transliteration@|@음역@
+@transmission@|@전도@
+@transparent@|@투명한@
+@transport [v]@|@수송하다@
+@transportation@|@수송@
+@trap [n]@|@덫, 함정 [陷穽]@
+@travel [n]@|@관광@
+@travel [v]@|@가다 (가요), 여행하다 (여행해요)@
+@travel agency@|@여행사@
+@travel agent's@|@여행사@
+@traveller's cheque@|@여행자 수표@
+@travelling bag@|@여행 가방@
+@tray [n]@|@쟁반@
+@treasure@|@보물, 보배@
+@treasurer@|@재무관@
+@treat [n]@|@한턱@
+@treat a person@|@한턱내다@
+@treatise@|@논설@
+@tree@|@나무@
+@trespass [law]@|@걸리다@
+@triangle@|@삼각형@
+@trickster@|@사기꾼@
+@trilogy@|@3 부작@
+@trinity@|@삼위일체@
+@trip@|@여행@
+@trip [go on a trip]@|@여행하다@
+@trivial@|@사소한@
+@trouble@|@탈@
+@trouble [later trouble]@|@후환@
+@trousers [n]@|@바지@
+@trout@|@송어@
+@truck [n]@|@트럭@
+@true@|@바르다@
+@true value@|@진가@
+@true value [n]@|@진가 [眞價], 참되다@
+@truly [exclamation]@|@참@
+@trumpet@|@트럼펫@
+@trunk [n]@|@트렁크@
+@trust [n]@|@신용@
+@truth@|@진리, 진실, 참됨@
+@try [clothes]@|@입어 보다@
+@try [food]@|@먹어 보다@
+@try [v]@|@해보다@
+@t-shirt@|@티셔츠@
+@Tuesday@|@화요일@
+@tulip@|@튤립@
+@tumbleweed@|@비름속의 풀@
+@tuna@|@참치@
+@tune@|@곡조@
+@tungsten@|@텅스텐@
+@Turkey@|@터키@
+@turn [v]@|@돌다@
+@turn off [v]@|@끄다 (꺼요)@
+@turn on [v]@|@켜다 (켜요)@
+@turn out in a certain way@|@생시@
+@turnip@|@순무@
+@turtle@|@거북이, 바다거북@
+@TV@|@텔레비전, 티비@
+@TV news@|@뉴스@
+@TV series@|@시리즈@
+@tweezers@|@족집게, 폰셋@
+@twice@|@두번@
+@twig [n]@|@잔가지@
+@twin@|@쌍둥이@
+@twin room@|@트윈 베드룸@
+@twist@|@비틀다@
+@two hours@|@두 시간@
+@two minutes@|@이분@
+@type [v]@|@타자하다@
+@typewriter@|@타이프라이터, 타자기@
+@typhoon@|@태풍@
+@tyre@|@타이어@
+@ugly@|@추악한@
+@Ukraine@|@우크라이나@
+@ulcer@|@궤양@
+@ultra marathon@|@울트라마라톤@
+@umbrella@|@우산 [雨傘]@
+@umlaut@|@움라우트@
+@unable to@|@못@
+@unbiunium@|@운비우늄@
+@uncle@|@아저씨@
+@uncle [maternal aunt's h.]@|@이모부@
+@uncle [maternal side]@|@외삼촌@
+@uncle [paternal aunt's h.]@|@고모부@
+@uncle [paternal side]@|@삼촌@
+@uncomfortable [be ~]@|@불편하다@
+@unconstrained@|@사유@
+@under@|@밑, 아래@
+@under one's nose@|@코앞에@
+@underground ticket [metro]@|@지하철표@
+@underpants@|@속바지@
+@understand [v]@|@알다 (알아요)@
+@understanding [n]@|@이해하기@
+@unemployed@|@무직@
+@unemployment@|@실업@
+@unibinilium@|@운미닐륨@
+@uniform [n]@|@제복@
+@uninteresting@|@재미없다@
+@union@|@연맹@
+@unit@|@단위@
+@unite [v]@|@굘합하다@
+@united@|@합친@
+@United Kingdom@|@영국@
+@United States@|@미국@
+@universal@|@우주의, 전세계의@
+@universe@|@우주@
+@university@|@대학, 대학교@
+@university [national univ.]@|@국립대학교@
+@university [private ~]@|@사깁대학교@
+@university [state university]@|@주립대학교@
+@university degree@|@학위@
+@university major@|@전공@
+@university student@|@대학생@
+@unjust@|@옳지 않은@
+@unknown@|@미지@
+@unlucky [be unlucky]@|@팔자가 사납다@
+@unmarried@|@미혼@
+@unnecessary@|@불필요한@
+@unoccupied@|@비어있는@
+@unpack [v]@|@풀다 (풀어요)@
+@unrelated person@|@타인@
+@unrestrained@|@무제한@
+@unsplit red bean@|@통팥@
+@until@|@까지@
+@ununennium@|@우누넨늄@
+@ununhexium@|@우눈헥슘@
+@ununpentium@|@우눈펜튬@
+@ununquadium@|@우눈쿼듐@
+@ununseptium@|@우눈셉튬@
+@ununtrium@|@우눈트륨@
+@up to@|@까지@
+@upper@|@웃, 위@
+@upper elbow@|@앞팔꿈@
+@upper reaches of river@|@상류@
+@uppercut punch@|@제쳐 지르기, 치지르기@
+@Uppsala@|@웁살라@
+@upstairs@|@위층@
+@urge [v]@|@재촉하다@
+@urgent@|@급한, 긴급한, 긴박한@
+@urine@|@소변, 오줌@
+@Uruguay@|@우루과이@
+@us@|@우리@
+@US@|@미국@
+@US army@|@미군@
+@USA@|@미국@
+@use [v]@|@사용하다, 쓴다@
+@used book@|@헌책@
+@used car@|@중고차, 헌차@
+@used clothes@|@헌옷@
+@used thing@|@헌거@
+@useful@|@유용한@
+@useless work@|@헛일@
+@usual@|@보통의@
+@usual [common]@|@보통@
+@usually@|@대개@
+@uterus@|@자궁 [子宮]@
+@vacancy [hotel]@|@빈 방@
+@vacant@|@비다@
+@vacate [v]@|@비우다@
+@vacation [n]@|@휴가, 휴일@
+@vaccination@|@예방주사@
+@vague@|@애매하다, 흐리다@
+@vain [in vain]@|@헛되이@
+@vain effort@|@헛일@
+@valid@|@유효한@
+@valid [document]@|@유효한@
+@valley@|@계가, 계곡@
+@valuable@|@값비싼@
+@valuables@|@귀중품@
+@value@|@가치 [價値]@
+@value [H]@|@가 [價]@
+@value added tax [VAT]@|@부가가치세@
+@van@|@밴, 트럭@
+@vanish@|@사라지다@
+@variety@|@변종@
+@various@|@여러, 여러가지@
+@vase@|@꽃병@
+@vast@|@광막한@
+@VAT@|@부가가치세@
+@veal@|@돼지고기@
+@vegetable@|@야채, 채소@
+@vegetables@|@야채, 재소@
+@vegetarian@|@채식주의자@
+@vehicle@|@교툰수단, 차량@
+@vein@|@정맥, 힘줄@
+@velocity@|@속도@
+@Venezuela@|@베네수엘라@
+@Venus@|@베누스, 생별@
+@verb [n]@|@동사@
+@vernacular@|@사투리@
+@vernal equinox@|@출분점@
+@vertical punch@|@세워 지르기@
+@very@|@대단히, 매우, 아주, 참, 퍽@
+@very middle@|@복판, 한가운데, 한가운데, 한복판, 한복판@
+@very much@|@굉장히, 매우@
+@vessel@|@그릇, 선박@
+@vicar@|@목사@
+@vicinity@|@부근@
+@victory@|@승리@
+@video@|@비디오@
+@video game@|@비디오 케임@
+@Vienna@|@빈@
+@Vietnam@|@베트남, 월남@
+@village@|@마을@
+@vindication@|@옹호@
+@vine@|@덩굴@
+@vinegar@|@식초@
+@vineyard@|@포도원@
+@violation@|@위반@
+@violence@|@폭력@
+@violent@|@강력한@
+@violet@|@보라색@
+@violin@|@바이올린@
+@viper@|@독사@
+@virtuoso@|@미술품 감정가@
+@virus@|@바이러스@
+@visa@|@비자, 사증@
+@visible@|@보이는@
+@visit@|@심방@
+@visit [n]@|@방문@
+@visit [v]@|@구경하다, 방문하다 (방문해요)@
+@visit in vain@|@헛걸음@
+@visitor@|@방문객@
+@visitor [tourist]@|@관광객@
+@vital@|@생명의@
+@vitamin@|@비타민@
+@vivisection@|@생체 해부@
+@Vladivostok@|@블라디보스토크@
+@vocabulary@|@어휘@
+@vocabulary item@|@단어@
+@vocalist [n]@|@가수 [歌手]@
+@vodka@|@보드카@
+@voice@|@목소리@
+@voice [n]@|@발음@
+@volcano@|@화산@
+@volleyball@|@배구 [排球]@
+@volleyball [n]@|@발리볼, 배구@
+@volleyballer [n]@|@배구 선수@
+@volunteer@|@지원자@
+@vomit@|@게우다@
+@vomit [v]@|@토하다 (토해요)@
+@vote [n]@|@투표@
+@vote [v]@|@투표하다@
+@vowel@|@모음@
+@voyage@|@여행@
+@Vulgar Latin@|@저속한 라틴어@
+@vulture [black vulture]@|@독수리@
+@wage@|@웡급, 임금@
+@wagon@|@짐마차@
+@waist@|@허리@
+@waist [n]@|@허리@
+@waist measure@|@허리둘레@
+@waistband@|@허리띠@
+@wait [v]@|@기다리다@
+@waiter@|@웨이터@
+@waiting room@|@대기실, 대합실@
+@waitress@|@아가씨, 웨이트리스@
+@wake [v]@|@깨다, 깨우다@
+@Wales@|@웨일즈@
+@walk [go for a walk]@|@산책하다@
+@walk [go on foot]@|@걸어가다@
+@walk [v]@|@걷다 (걸어요), 걸어가다 (걸어가요)@
+@walking [n]@|@걸음, 산보@
+@walking [on foot]@|@걸어서@
+@wall@|@벽@
+@wallet@|@지갑@
+@walrus@|@바다코끼리, 해마, 해상@
+@want [v]@|@고 싶어요, 원하다@
+@war@|@전쟁@
+@ward@|@병동@
+@wardrobe@|@옷장@
+@warfare@|@전쟁@
+@warlord@|@장군@
+@warm@|@따뜻하다 (따뜻해요)@
+@warm [a]@|@따뜻한@
+@warrior@|@전사@
+@wart@|@사마귀@
+@wash [v]@|@씻다@
+@wash dishes@|@설겆이하다@
+@washing machine@|@세탁기@
+@washing powder@|@가루비누@
+@Washington@|@워싱턴@
+@washing-up liquid@|@세제@
+@wasp@|@말벌@
+@waste [rubbish]@|@쓰레기@
+@wastebasket@|@휴지통@
+@wasted effort@|@헛수고@
+@watch [n]@|@시계@
+@watch [wrist watch]@|@손목 시계, 시계@
+@water [cold water]@|@냉수@
+@water [drinking water]@|@음료수@
+@water [hot water]@|@뜨거운 물, 온수@
+@water [n]@|@물@
+@water skiing@|@수상 스키@
+@water works@|@수리@
+@watermelon@|@수박@
+@waterproof@|@방수@
+@wave [n]@|@파도@
+@wave [v]@|@흔들다@
+@wax [n]@|@밀랍@
+@way@|@거리, 길@
+@way [manner]@|@방법@
+@way [route]@|@방향@
+@way in@|@입구@
+@way out@|@비상구, 출구@
+@we@|@우리@
+@weak [a]@|@약한@
+@weak [physically]@|@약한@
+@weak [taste]@|@묽은@
+@wealth@|@부, 재산@
+@weapon [n]@|@무기@
+@wear [glove; rink]@|@끼@
+@wear [lenses]@|@끼@
+@wear [v]@|@매다, 입다@
+@weary@|@지친@
+@weasel@|@족제비@
+@weather@|@날씨@
+@weather forecast@|@일기 예보@
+@weaver@|@직공@
+@website@|@웹사이트@
+@wedding@|@결혼, 결혼식@
+@wedding anniversary@|@결혼 기념일, 결혼기년일@
+@Wednesday@|@수요일@
+@weed@|@김 매다@
+@weed [n]@|@김@
+@week@|@주@
+@week [counter]@|@주간@
+@week [next week]@|@다음 주@
+@weekday@|@주일, 평일@
+@weekdays [on weekdays]@|@주중에@
+@weekend@|@주말@
+@weekly@|@매주, 주간@
+@weekly magazine@|@주간지@
+@weekly planner@|@수첩@
+@weigh [v]@|@무게를 달다@
+@weight@|@무게@
+@weightlifting@|@역도@
+@well@|@그럼, 잘@
+@well [a]@|@잘@
+@well [good health]@|@건강하다@
+@well [n]@|@샘, 우물@
+@well now [interjection]@|@자@
+@Welsh person@|@웨일즈 사람@
+@wen@|@혹@
+@went@|@간@
+@west@|@서, 서쪽의@
+@western [a]@|@서양@
+@Western Europe@|@서유럽@
+@Western food@|@양식@
+@Western restaurant@|@양식집@
+@Western Sahara@|@서사하라@
+@Western-style room@|@침대방@
+@wet@|@축축한@
+@wet [v]@|@적다, 적시다@
+@whale@|@고래@
+@wharf@|@선창@
+@what@|@무슨, 무엇, 무엇을, 뭐, 뭘@
+@what date@|@며칠@
+@what day@|@며칠@
+@what happened?@|@무슨 일이에요?@
+@what job@|@무슨 일@
+@what kind@|@어떤@
+@what time@|@몇 시에@
+@wheat@|@밀@
+@wheel [car]@|@바퀴@
+@wheel [n]@|@바퀴@
+@wheelchair@|@훨체어@
+@when@|@언제@
+@where@|@어디@
+@where from@|@어디 에서@
+@where to@|@어디로, 어디에@
+@which@|@무슨, 어느, 어느 거@
+@which person@|@어느 분@
+@whip [cooking]@|@거품을 내다@
+@whip [n]@|@채찍@
+@whip [v]@|@젓다@
+@whiskey@|@위스키@
+@whisky@|@위스키@
+@whistle@|@호루라기@
+@white@|@백색, 하얀, 흰, 흰색@
+@White Belt@|@흰띠@
+@white bread [n]@|@흰빵@
+@white clothes@|@흰옷@
+@white cloud@|@흰구름@
+@white colour@|@희색, 흰색@
+@white dwarf@|@백색 왜성@
+@white gloves@|@흰장갑@
+@white hair@|@흰머리@
+@white of egg@|@흰자@
+@white of eye@|@흰자@
+@white snow@|@흰눈@
+@white sugar@|@흰설탕@
+@white wine@|@백포도주, 화이트 와인@
+@who@|@누구@
+@whole@|@전@
+@whole red bean@|@통팥@
+@whole thing@|@전부@
+@whom@|@누구를, 누굴@
+@whom to@|@누구 에게@
+@whose@|@누구의@
+@why@|@왜, 왜요@
+@wicked@|@나쁜@
+@wide@|@넓다, 넓은@
+@widow@|@과부, 미망인, 홀어미@
+@widower@|@홀아비@
+@width [n]@|@가로@
+@wife@|@아내@
+@wife [honorific]@|@사모님@
+@wife [humble form]@|@집사람@
+@wife [own]@|@아내, 집사람@
+@wife [your wife]@|@사모님@
+@wife's family@|@처갓집 [凄家K]@
+@wig [n]@|@가발 [假髮]@
+@wiki@|@위키@
+@wild@|@야생의@
+@wild boar@|@멧돼지@
+@wild goose@|@기러기@
+@wildlife@|@야생동물@
+@willingly@|@기꺼이@
+@willow@|@버드나무, 버들@
+@Wilson@|@윌슨@
+@win [v]@|@이기다 (이겨요)@
+@wind [air]@|@바람@
+@wind [n]@|@바람@
+@windmill@|@풍차@
+@window@|@문, 창, 창문@
+@window blind@|@블라인드@
+@windpipe@|@숨통@
+@windscreen@|@앞유리, 차 앞유리@
+@windscreen wipers@|@와이퍼@
+@windsurfing@|@윈드 서핑@
+@windy@|@바람이 불어요@
+@wine@|@와인, 포도주@
+@wine [red wine]@|@레드 와인, 적포도주@
+@wine [white wine]@|@백포도주, 화이트 와인@
+@wine list@|@와인 리스트@
+@wing@|@날개@
+@winter [season]@|@겨울@
+@wisdom@|@지혜@
+@wise [a]@|@총명한@
+@wish [n]@|@소원@
+@wish [v]@|@바라다, 빌다, 원하다@
+@witch@|@무당@
+@with@|@하고@
+@with [a person]@|@하고@
+@with all one's might@|@힘껏@
+@with bath@|@욕실 있는@
+@with me@|@나와, 나하고@
+@with shower@|@샤워 있는@
+@with whom@|@누구와@
+@withdraw [money]@|@찾다@
+@within@|@속에, 안에@
+@without fail@|@꼭@
+@witness [n]@|@증인@
+@wolf@|@늑대, 이리@
+@woman@|@여자@
+@womb@|@자궁 [子宮]@
+@women and children@|@아녀자@
+@won [currency]@|@원 [圓]@
+@Won Buddhist@|@원불교@
+@wonder [n]@|@경이, 놀라움@
+@wonder [v; for people]@|@놀라다@
+@wonder [v]@|@놀랍다, 눌러다@
+@wonderful@|@놀라운, 훌륭한@
+@wood@|@나무, 목재 [木材], 수풀, 숲@
+@wool@|@모직, 울, 털실@
+@word@|@단어, 말@
+@word [honorific]@|@말씀@
+@work [v; machine]@|@작동하다 (작동해요)@
+@work [v; person]@|@일하다 (일해요)@
+@work [v]@|@일하다@
+@work to do@|@할일@
+@worker@|@노동자@
+@world@|@누리, 세계 [世界], 세상, 지구@
+@world history [subject]@|@세계사@
+@World Wide Web@|@월드 와이드 웹@
+@worm@|@버리지, 벌레, 짐승@
+@worn out [a]@|@헌@
+@worried [be worried]@|@걱정하다@
+@worry [v]@|@걱정하다@
+@worship@|@숭배하다, 우러르다@
+@worth@|@가치 [價値], 값@
+@worthless@|@가치 없는@
+@wound@|@상처@
+@wrapping cloth@|@보@
+@wreck@|@충돌@
+@wrestling@|@레슬링, 씨름@
+@wrist@|@손목, 팔목@
+@wrist watch@|@손목 시계, 시계@
+@write [v]@|@쓰다, 쓰다 (써요), 쓴다@
+@write down@|@적다@
+@writer@|@작가, 작가 [作家], 저자@
+@writing [in seal characters]@|@전서@
+@writing brush@|@붓@
+@written [written by]@|@씀@
+@written answer@|@회신@
+@written character@|@문자@
+@written material@|@자료@
+@wrong@|@나쁜, 틀리다, 틀린@
+@wrong [a]@|@잘못@
+@wrong number@|@잘못 거셨어요@
+@wrongly [a]@|@잘못@
+@xenon@|@제논, 크세논@
+@XL@|@특대@
+@x-ray@|@엑스 레이@
+@xylophone@|@실로폰@
+@yacht [n]@|@요트@
+@yam [n]@|@마@
+@yang@|@양 [陽]@
+@yard@|@뜰, 마당, 울안@
+@yawn@|@하품@
+@yeah [informal]@|@음, 응@
+@year@|@년 [年], 연 [年], 해@
+@year [for one year]@|@일년간@
+@year [last year]@|@작년@
+@year [one year old]@|@한 살@
+@yearly@|@매년의, 해마다@
+@years [counter]@|@해@
+@years old [adults]@|@나이@
+@years old [older person]@|@연세@
+@yell [v]@|@소리치다, 의치다@
+@yellow@|@노란, 노란색@
+@Yellow Belt@|@노란띠@
+@yellow green@|@연두색@
+@Yemen@|@예멘@
+@yes@|@그래, 네, 예@
+@yes [formal]@|@네@
+@yes [informal]@|@음, 응@
+@yesterday@|@어제@
+@yet@|@아직@
+@yin@|@음 [陰]@
+@yin-yang@|@음양 [陰陽]@
+@yogurt@|@요구르트@
+@yoke@|@겨리, 멍에@
+@yon@|@저@
+@Yonsei University@|@연대@
+@you@|@너@
+@young@|@젊다@
+@young lady@|@아가씨@
+@younger brother@|@남동생@
+@younger sibling@|@아우@
+@younger sister@|@여동생@
+@youth hostel@|@유스호스텔@
+@Yugoslavia@|@유고슬라비아@
+@Yut@|@윶@
+@Zagreb@|@자그레브@
+@Zambia@|@잩비아@
+@zebra@|@얼룩말@
+@zebra crossing@|@횡단보도@
+@Zen Buddhist@|@선불교@
+@zero@|@공, 영 [零], 제로@
+@zip@|@자코, 지프@
+@zipper@|@자크, 지프@
+@zone@|@지대@
+@zoo@|@동물원@
+

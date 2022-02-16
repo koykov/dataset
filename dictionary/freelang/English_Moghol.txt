@@ -1,0 +1,315 @@
+@English@|@Moghol@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@1st Sg. ps. pronoun obl. case@|@namei, nan-@
+@3d p. possessive pronoun@|@i, ini, ne, ni@
+@a drink@|@undö@
+@above@|@dei-du, dei-ra, dekši, derä@
+@affection@|@dor@
+@afternoon@|@odur, udur@
+@air@|@kei@
+@alive@|@amüdu'i@
+@arm@|@har, qöri@
+@ashes@|@enasun, unasun, unäsun@
+@axe@|@chöqor@
+@barley@|@arfä, arfei@
+@beak@|@qošun@
+@become wet@|@debtäl-@
+@below@|@dora, dörö@
+@big@|@(j)ekä, ikä, ïkä@
+@bitter@|@hašün, qašün, qošun@
+@black@|@qarä, qarö@
+@blanket@|@könžilä@
+@blood@|@chosun, chusun@
+@bone@|@josun, jösun@
+@border@|@qyzi@
+@breast@|@cheiži, ebchoun, ebchün@
+@bridle@|@qadär@
+@buttocks@|@buhär@
+@cage@|@tor@
+@calf@|@tuhul@
+@calf 1 year old@|@boröhol, boröwol@
+@camel@|@temo@
+@carry on one's back@|@achi-@
+@centre@|@höl@
+@cheek@|@oräu@
+@clean@|@orün, örün@
+@clothed@|@burk@
+@cloud@|@äwur, öur@
+@completely@|@chölö@
+@cow@|@üinä@
+@crow@|@alaG turü, xara turü@
+@daughter@|@ukin@
+@daughter-in-law@|@beiri@
+@defile@|@tirä@
+@difficult@|@kondu, kündü@
+@direction@|@žug@
+@distinguish@|@elhö@
+@dog@|@noqei, noqéi@
+@donkey@|@elžihön@
+@door@|@öüdän, ujdän@
+@ear@|@cigi@
+@early@|@irte@
+@earth@|@hazar, hažar@
+@egg@|@ondägän, ündähön@
+@elbow@|@toqai@
+@employ@|@žoru-@
+@end@|@söül, sul@
+@eye@|@nodun, nüdün@
+@face@|@nür@
+@far@|@qolä, qolö@
+@felt@|@siskei@
+@fibre@|@öra@
+@fifty@|@täbun@
+@finger-nail@|@qemsun, qimsun@
+@fire@|@höl@
+@firewood@|@tulän, tülën@
+@five@|@tabun, täbun@
+@flame@|@dürgä-, dürü-@
+@flatus@|@onhu@
+@flour@|@horul, hulur@
+@fly@|@neso-@
+@foot@|@kol, köl@
+@four@|@dorbön, dürbön@
+@full@|@dorgön@
+@fur hat@|@malGei@
+@general state or condition@|@nira-@
+@good@|@söïn@
+@grass@|@ebäsun@
+@green@|@kukä, kükä@
+@grey@|@borö@
+@gruel@|@bodön@
+@gun@|@qarbuxchi@
+@hair@|@osu, üsün@
+@hallucination@|@sox-sox@
+@hammer@|@aluqa@
+@hard@|@xata@
+@hare@|@itoulä@
+@haunch@|@souži@
+@head@|@ekin@
+@hear@|@sonasä, sonusu-@
+@heart@|@ourä, žürkä@
+@heavy rain@|@boron@
+@hillock@|@boqqön@
+@hold@|@bari-@
+@hollow@|@qosun@
+@horn@|@ebär@
+@horse@|@morin, muren@
+@host@|@eižän@
+@house@|@geh(e)r, ger@
+@I@|@bi@
+@I (gen.)@|@mini, name, nami@
+@inside@|@dotana, dotöna@
+@intent@|@dorön@
+@intestines@|@gëdesë, gidesë@
+@knead@|@noqu, nuqu-@
+@knife@|@qitqei@
+@lamb@|@qorhan@
+@lament@|@inäl@
+@language@|@kelä, kelän@
+@large@|@öhu(n), ohui@
+@leaf of some plants@|@nöm@
+@leather bag@|@tulum@
+@light@|@singgön@
+@lip@|@orol, ulur, urul@
+@liver@|@elkan, elkän, ilkan@
+@long@|@orto, urtu@
+@louse@|@bosun, busu@
+@man@|@errä@
+@meat@|@miqän, miqön@
+@middle@|@donda, dunda@
+@milk@|@sun, sün@
+@mount@|@onu-, uni-@
+@mountain@|@aula, äwla@
+@mouth@|@aman, amun, ömön@
+@name@|@nere@
+@nape of the neck@|@gäžigä@
+@native place@|@nuntuq@
+@navel@|@kosun@
+@near@|@ojrö, ujrä@
+@neck@|@kožun, küžün@
+@needle@|@žöwn@
+@night@|@säni, süni@
+@nipple@|@kökä, kukä@
+@no@|@la, le, lü, ulä@
+@Northwards@|@qoina@
+@nose@|@qabar@
+@not@|@sa, se@
+@notice@|@serä-@
+@number@|@toa@
+@oath@|@andah@
+@obtain@|@äl, öl-, ul-, wöl-@
+@obvious@|@ilä@
+@old man@|@otäl, ütähü@
+@one@|@nikä, nikän@
+@other@|@biši@
+@ox@|@okär, ükär@
+@pain@|@ebätun@
+@palm (of hand)@|@alaqa, olaqei@
+@paternal uncle@|@öhöj@
+@person@|@ku, kut@
+@pipe@|@qolei, qölei@
+@power@|@chidön@
+@press into@|@chikänä@
+@rapid@|@qurdun@
+@rebuke@|@suka-@
+@red@|@ulön@
+@rib@|@qaborha, qoburha@
+@robber@|@qolahaj, qulahei@
+@rope@|@deisün@
+@saddle@|@emöl, jamäl, jämäl@
+@salt@|@dabsun, dobsun, döpsun@
+@same@|@mona@
+@say@|@ge-@
+@scrape@|@qirha-@
+@shave@|@kišla-, qërha-@
+@short@|@uqar, waqar@
+@shoulder@|@qar@
+@shoulderblade@|@dölu, dölü@
+@similar@|@adöli, metu@
+@skin@|@arösun, örösun@
+@sleep@|@näir, neir, noir@
+@sleeve@|@qamchi, qamchu@
+@smell@|@honah@
+@snake@|@mähäj, mahöï@
+@snow@|@chösun, chöžun@
+@so it is@|@arei@
+@sole of foot or footwear@|@ulö@
+@son@|@koukläq, koun, köün@
+@song@|@daun, doun, döün@
+@sour buttermilk@|@ondän@
+@spark@|@ochkä, ukin@
+@spotted@|@kala@
+@stick to@|@niöldu@
+@stitch@|@oï-, woja-@
+@stone@|@kuri@
+@sun@|@naran, närän@
+@surplus@|@ulou@
+@swelling@|@qäbät@
+@tail hair@|@qilhasun@
+@taste@|@amta@
+@ten@|@arbon, arbön@
+@testicle(s)@|@böärä, bürä@
+@that@|@te, ti@
+@the hump of a camel@|@bökkän@
+@thick@|@beidun, beidün, žožän, žužon@
+@thick of liquids@|@utkön@
+@thick skin@|@sairin@
+@thin@|@nörin@
+@thing@|@ïmä@
+@this@|@ena, enä@
+@thou@|@chi-, chinei (gen.)@
+@three@|@horbön, hurbön@
+@time@|@ochur, žil@
+@tired@|@echä-@
+@to ask@|@asah, asuhu-@
+@to bark@|@quicha-@
+@to be@|@be, bi@
+@to be able@|@chida-@
+@to be afraid@|@a'i-, aï-@
+@to be born@|@türä-@
+@to be full@|@dur-@
+@to be hungry@|@olas, üläsu-@
+@to be ill@|@ebätu-@
+@to become@|@bolu-@
+@to bend@|@ündük@
+@to bind@|@küli-@
+@to bite@|@žau-@
+@to boil@|@bechäl, buchöl-, qouro@
+@to break@|@qakara-@
+@to carry on the shoulders@|@dallanä@
+@to chew@|@žaži-, žažul-@
+@to clothe@|@ömüsü-@
+@to come@|@eirä, irä-@
+@to come back@|@qari-@
+@to cover@|@bürkü-, kuchi-@
+@to creep@|@molku-@
+@to cut@|@etkä, etqä-@
+@to cut in pieces@|@übchi-@
+@to die@|@oku, ükü-@
+@to drink@|@ochi-@
+@to eat@|@idä, idä-@
+@to enter@|@oru-@
+@to fall@|@unö-@
+@to fart@|@unghu-@
+@to forget@|@morta-@
+@to give@|@ögü-, ug-@
+@to gnaw@|@molži-@
+@to go out@|@haru-@
+@to grow@|@urhu-@
+@to jump@|@üsürü-@
+@to kill@|@äla-, olä-, öla-@
+@to know@|@mede-@
+@to laugh@|@innä-@
+@to lick@|@döl@
+@to lie@|@tebtä, teftä-@
+@to look@|@qara-@
+@to lose@|@ge-@
+@to love@|@täla-@
+@to make@|@ki-@
+@to milk@|@sä-, so-@
+@to pound@|@gube-, gubi@
+@to press down@|@daru-, döru-@
+@to pull@|@tata-, tatä-@
+@to put@|@tali-@
+@to quarrel@|@kerälda-, keräldu-@
+@to reach@|@kur-@
+@to read@|@omši-, umši-@
+@to rest@|@amdun@
+@to roam@|@nou-@
+@to run@|@güï-, gujä-@
+@to say@|@kelä-@
+@to search@|@audol-, oudal@
+@to see@|@ouž, üžä-@
+@to sit@|@sau-, sou-, söü-@
+@to sleep@|@nunta-@
+@to smear@|@šëbë-@
+@to spin a spindle@|@irga-@
+@to stand@|@ba'i-, bei-@
+@to stay behind@|@qocharu-@
+@to step down@|@bü-@
+@to stretch out@|@suntu-@
+@to strike fire@|@chakil-, chakilgän@
+@to suck@|@šimi-@
+@to take@|@ab-, afu-, öb-@
+@to taste@|@amsa@
+@to throw@|@saba-@
+@to walk@|@jobu-@
+@to walk submerging into water@|@umbom@
+@to wash@|@oha-, uha@
+@to weave@|@neka-@
+@toe@|@qorun, qurün@
+@together@|@qamtu@
+@tooth@|@südün@
+@top of head@|@orei@
+@trace@|@oram@
+@track@|@mor, mür@
+@tree@|@mädun, modun@
+@trousers@|@ondun, ündün@
+@two@|@qejär, qojör@
+@upwards@|@öädä, udä@
+@urine@|@sei, seisün@
+@variegated@|@alö@
+@vulva@|@idkun, odkun, utkun@
+@wall@|@qamchi, qamchu@
+@warm@|@qalon@
+@water@|@osun, usun@
+@we@|@bidä, mennei (gen.), mön-@
+@weep@|@uïla-@
+@West@|@baranhöl@
+@what@|@jem(ä)@
+@white@|@chahö, chahön@
+@who@|@ken, kijän@
+@wild ass@|@gor[ä]sun@
+@window@|@chölö@
+@winter@|@ebulä, übül@
+@wish@|@doron@
+@without@|@gei, ügei@
+@woman@|@emmä@
+@work@|@kütäl@
+@yellow@|@sirä, šira@
+@yesterday@|@chikaudur, ochkädur, üchkön, uškudur@
+@you (pl.)@|@to@
+@young@|@žalau, žaläwu@
+@younger sibling@|@döün@
+

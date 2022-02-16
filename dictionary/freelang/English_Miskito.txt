@@ -1,0 +1,747 @@
+@English@|@Miskito@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a@|@kum, kumi@
+@a horse@|@aras kum@
+@a little@|@maura, wiria@
+@a little bit@|@nan@
+@a lot@|@aihwa, ailal, manis, pali, uya@
+@about@|@dukia-ra@
+@above@|@purara@
+@act of sweeping@|@pahb-anka@
+@advance@|@adbans@
+@afterwards@|@ningkara@
+@again@|@kli@
+@against@|@mapara@
+@all@|@sut@
+@all the children@|@tuktan nani sut@
+@already@|@mahka@
+@also@|@sin@
+@american@|@miriki@
+@amid@|@lilara, tilara@
+@among@|@tila-ra@
+@an@|@kum, kumi@
+@and@|@an, bamna, bara@
+@and then@|@bara@
+@animal@|@daiwan@
+@another@|@wala@
+@ant@|@papu@
+@anus@|@tnata@
+@any@|@kumi sin@
+@anybody@|@upla kumi sin@
+@anything@|@diara, Witin diara plikras@
+@anywhere@|@plis kumi sin@
+@arm@|@klahka@
+@as@|@baku, pasin@
+@auger@|@agar@
+@avocado@|@sikia@
+@bad@|@saura@
+@banana@|@platu@
+@be cured@|@ra-w-aia@
+@because@|@bamna, bara, kan@
+@because of@|@tawan@
+@bed@|@krikri@
+@before@|@kaina, kanra@
+@behind@|@nina-ra@
+@below@|@mayara@
+@beside@|@tani@
+@big@|@tara@
+@black@|@siksa@
+@blackness@|@siks-ira@
+@bleed@|@tala@
+@body@|@musa@
+@book@|@buk@
+@books@|@buk nani@
+@border@|@un@
+@bottle@|@batil@
+@bounce@|@duri@
+@boy@|@tuktan@
+@break@|@dak-w-aia@
+@bright@|@ing-ni@
+@brightness@|@ingni-ka@
+@broom@|@pahb-aika@
+@burnt@|@aman@
+@but@|@kuna, sakuna@
+@buy@|@atkaia@
+@by reason of@|@tnatamana@
+@came@|@balan@
+@capable@|@sip@
+@car@|@truk@
+@cat@|@pus@
+@center@|@lila@
+@chicken meat@|@kalila wîna@
+@child@|@tuktan@
+@chili@|@kuma@
+@church@|@prias watla@
+@class@|@sat@
+@close@|@baila, baila, lamara, umpira@
+@close it!@|@praks!@
+@cocoa@|@kakau@
+@cold@|@kauhla@
+@come@|@balaia@
+@complete@|@aingwa@
+@completely@|@danh@
+@cooked@|@piakan@
+@cooks@|@piakisa@
+@corn@|@aya@
+@couple@|@maira@
+@cover@|@srung-k-aia@
+@cover oneself@|@ai-srung-k-aia@
+@cries@|@inisa@
+@cryed@|@inan@
+@cure@|@ra-k-aia@
+@cut@|@dak-b-aia@
+@dance@|@dans@
+@dark@|@tihmu@
+@day@|@kakna, yu@
+@dead people@|@pruan uplika nani ba@
+@deep@|@tihu@
+@deer@|@sula@
+@definite article@|@ba@
+@did@|@munan@
+@dirty@|@blablasa, taski@
+@do@|@munaia@
+@Do not speak to us like that!@|@Baku yang nanira ai wipara@
+@Do not treat me like that@|@Baku pali saura ai munpara@
+@Do you (pl.) see all this?@|@Man nani naha sut kaikisma?@
+@Do you speak English?@|@Inglis aisisma ki?@
+@does@|@daukisa@
+@doesn't cook@|@piakras@
+@doesn't cry@|@inras@
+@doesn't look for@|@plikras@
+@doesn't play@|@pulras@
+@doesn't speak@|@aisaras@
+@dog@|@yul@
+@Don't touch me there!@|@Bahara yangra ai daukpara!@
+@door@|@dor, dur@
+@dove@|@butku@
+@dry@|@lâwan, pihwan@
+@each@|@bani@
+@ear@|@kyama@
+@eat@|@plun@
+@eight@|@matlalalkabi pura wol@
+@English@|@inglis@
+@enough@|@aingwa@
+@evening@|@saiwaia, saiwan@
+@ever@|@pyu kumi sin@
+@everything@|@puk, sut@
+@expensive@|@mana@
+@eye@|@nakra@
+@face@|@mawan@
+@far@|@laih, wihka@
+@father@|@aisa@
+@Father@|@abba, abbaka, abbakam, abbaki@
+@fear@|@si@
+@first@|@taura@
+@fish@|@inska@
+@five@|@matasip@
+@flavorful@|@auhni@
+@floor@|@tasba@
+@flower@|@tangni@
+@flowerless@|@tigni-ka-s@
+@food@|@plun@
+@foot@|@mina@
+@for@|@dukiara, mata, wisi@
+@for oneself@|@silp@
+@for that reason@|@bamna@
+@forty@|@jawin aiska wol@
+@four@|@walhwal, wol-wol@
+@from@|@wina@
+@from here@|@naha wina@
+@From here to Bilwi@|@Naha wina Bilwi ra@
+@from there@|@baha wina@
+@fruit@|@ma@
+@get better@|@raw-aia@
+@give him@|@yab-aia@
+@give me@|@aik-aia@
+@Give me three pounds@|@Yang ra tri paun aiks@
+@give us (inc.)@|@wank-aia@
+@give you@|@maik-aia@
+@go@|@waia@
+@go in@|@dimaia@
+@go out@|@takaia@
+@going@|@wi, wih@
+@good@|@yamni@
+@goods@|@dukia@
+@grain@|@ma@
+@grandmother@|@kuka@
+@grandson@|@mula@
+@grass@|@inma@
+@gratitude@|@tingki@
+@great-grandfather@|@srakia@
+@green sea turtle@|@lih@
+@green turtle@|@lih@
+@habit@|@laka@
+@hair@|@tawa@
+@hairy@|@taw-ira@
+@hand@|@mihta@
+@have@|@briaia@
+@Have pity on me!@|@Umpira ai kaikram!@
+@having@|@bri, brih@
+@hay@|@twi@
+@he@|@witin@
+@He came behind me@|@Witin yang ninira balan@
+@He can build a house@|@Witin sip sa utla kum paskaia@
+@He cannot build a house@|@Witin sip utla kum paskras sa@
+@He is guilty@|@Witin ba patkira sa@
+@he liberates@|@paun@
+@He paused near the door@|@Witin dur lamara takaskan@
+@he was playing@|@puli kan@
+@he will take it@|@alkbia@
+@head@|@lal@
+@healthy@|@aingwa@
+@hear@|@walaia@
+@heart@|@kupia@
+@heat@|@laptika@
+@help@|@hilp munaia@
+@hen@|@kalila@
+@her horse@|@ai araska@
+@here@|@nahara, naura@
+@high@|@yakura, yakwra@
+@his@|@ai@
+@hole@|@krauhni@
+@hond@|@ahkra, ahkra, ahkram, aihkra, amhkra@
+@horse@|@aras@
+@hot@|@lapta@
+@house@|@utla, watla@
+@how@|@nahki@
+@how many@|@an@
+@How many books do you have?@|@Buk an brisma ki?@
+@how many horses?@|@aras an?@
+@how many?@|@an?@
+@how?@|@nahki?@
+@huacal@|@kahmi@
+@husband@|@marit@
+@I@|@jang, yang@
+@I am bringing it@|@bri aulna@
+@I am going to Nicaragua@|@Nikaragua ra aulna@
+@I am not worthy@|@Yang aitani apia sna@
+@I am speaking Miskito@|@Yang miskitu aisuna@
+@I am to play@|@pulaia sna@
+@I didn't see anybody@|@Yang upla kumi sin ra kaikras, Yang upla kumi sin ra kaikras@
+@I gave Maria a book@|@Yang María ra buk kum yabri@
+@I had played@|@pulri kan, pulri kan@
+@I have fed the pigs@|@Yang kwirku ba dakakatna@
+@I have to go to your house@|@Yang wamtla ra waia sna@
+@I live in Honduras@|@Honduras ra iwisna@
+@I read it@|@aisi kaikri@
+@I relate@|@dahra@
+@I saw@|@abalwaia@
+@I saw María@|@María ra kaikri, Yang María ra kaikri, Yang María ra kaikri@
+@I see my house@|@Waitla kaikisna@
+@I see you@|@Mai kaikisna@
+@I shall have played@|@pulamna kabia@
+@I speak Miskito@|@Yang miskitu aisisna@
+@I want it@|@want sna@
+@I want to give it to him@|@Yang want sna witin ra yabaia@
+@I want to go to your house@|@Yang wamtla ra waia want sna@
+@I want to play@|@pulaia want sna, pulaia want sna@
+@I want to talk to with you@|@Man wal aisaia want sna@
+@I was playing@|@puli kapri, puli kapri@
+@I was seen@|@Ai kaikan@
+@I will give you what you ask@|@Dia makama ba, yang maikamna@
+@I wonder@|@ni@
+@I wonder who will win!@|@Yâ win takbia ni?@
+@I would have played@|@pulaia kapri@
+@I'd have gone to your house@|@Yang wamtla ra waia kapri@
+@if@|@au, kaka@
+@if I had played@|@pulri kan sa kaka@
+@I'm going out this minute@|@Yang naha minit takuna@
+@immediately@|@sabi@
+@in@|@ra@
+@in front of@|@kaina-ra@
+@in front of the horse@|@aras ba kainara@
+@in name@|@ninara@
+@in the center@|@kupiara@
+@in the room@|@rum ra@
+@indefinite article@|@kum@
+@inside@|@bilara@
+@inside me@|@bili-ra@
+@inside the house@|@utla bila-ra@
+@inside you@|@bilam-ra@
+@instead of@|@watlika-ra@
+@intelligent@|@auyamakira@
+@is@|@sa@
+@Is it you?@|@Man sma ki?@
+@is not speaking@|@aisaras sa@
+@Is there a shop in the village@|@Tawan ra sap kum bara sa ki?@
+@it dilutes@|@li@
+@it forces@|@karnika@
+@it leaves@|@dikia@
+@it mates@|@kikal@
+@it rocks@|@silmika@
+@it shatters@|@slilman@
+@it will win@|@win takbia@
+@Jon is going to die@|@Jon pruaisa@
+@Juan and Pedro are similar@|@Juan an Pedro talia sa@
+@Juan wanted María to come@|@Juan want kan Maria balbia@
+@Juan's horse@|@Juan araska@
+@Juan's tooth@|@Juan napa@
+@key@|@kî@
+@kill@|@ikaia@
+@lacking@|@luha@
+@language@|@bila, twisa@
+@late@|@tutni@
+@later@|@naika, ninkara@
+@law@|@la@
+@lie down@|@ai-sak-b-aia@
+@like that@|@baku, ban@
+@like this@|@naku, nan@
+@little bit@|@luhpia@
+@looked for@|@plikan@
+@looks for@|@plikisa@
+@lover@|@lila@
+@made@|@daukan@
+@made of leather@|@bip tawa ni@
+@make@|@daukaia@
+@male@|@waitna@
+@man@|@waikna, waitma@
+@mango@|@mangu@
+@many@|@ailal, manis, uya@
+@many horses@|@aras uya@
+@market@|@markit@
+@married@|@maira, marit@
+@Mary is in the room@|@Mary rum ra sa@
+@maternal aunt@|@anti@
+@maternal uncle@|@tahti@
+@maybe@|@ban kra, kra@
+@me@|@yang@
+@meat@|@wîna@
+@men@|@waikna nani@
+@Miskito@|@Miskitu@
+@Miskito language@|@Miskitu bila@
+@money@|@lalah@
+@month@|@kati@
+@moon@|@kati@
+@more@|@kau@
+@mother@|@yapti@
+@mouth@|@bila@
+@much@|@ailal@
+@my child@|@tuktiki@
+@my father@|@aisiki, aisiki@
+@my house@|@waitla@
+@my mother@|@yaptiki, yaptiki@
+@My mother speaks Miskito@|@Yaptiki ba Miskitu aisisa@
+@my mouth@|@bili@
+@my name@|@mini, nini@
+@My name is Juan@|@Yang nini lika Juan@
+@My name is Mary@|@Nini Mary sa@
+@My name is Miguel@|@Nini Miguel, Nini Miguel sa@
+@my neck@|@namna@
+@my sister@|@laikra@
+@my tooth@|@naipa@
+@name@|@nina@
+@near@|@baila, baila, lama-ra@
+@neck@|@nana@
+@negative of balaia@|@aula@
+@negative of waia@|@auya@
+@new@|@raya@
+@nine@|@matlalkabi pura jumpa@
+@no@|@apia@
+@Nobody came@|@Upla kumi sin balras@
+@nose@|@kakma@
+@not@|@apia@
+@now@|@mahka, nanara@
+@nude@|@susu@
+@old@|@dama@
+@old man@|@dama@
+@on the table@|@tibil ra, tibilra@
+@On the table thre is a book@|@Tibil ra buk kum bara sa@
+@on top of@|@pura-ra@
+@one@|@kum, kumi, kumi@
+@one book@|@buk kum@
+@one horse@|@aras kum@
+@only@|@baman, dis, man, yakan@
+@open@|@kwakaia@
+@opposite sex@|@lakra@
+@or@|@apia kaka, ar, o@
+@order@|@âdar@
+@organ@|@agin@
+@other@|@wala@
+@our@|@jawin, wan@
+@Our school@|@Wan skulka@
+@out@|@latara@
+@out of the house@|@utla wina@
+@page@|@wahya@
+@pain@|@latwan@
+@pan@|@dikwa@
+@panther@|@limi wainka@
+@papaya@|@twas@
+@partner@|@tahkia@
+@paternal aunt@|@taihka@
+@paternal uncle@|@rapia@
+@patient@|@ra-raw-ra@
+@Pedro will let the child play@|@Pedro tuktika ra swika pulbia@
+@perforate@|@perforate@
+@person@|@upla@
+@place@|@plis@
+@plaural auxiliary@|@banghwaia@
+@play!@|@puls!@
+@played@|@pulan@
+@plays@|@pulisa@
+@plun@|@pata@
+@plural auxiliary@|@banghwaia@
+@plural indefinite article@|@kumkum@
+@poor@|@umpira@
+@prepared@|@ridi@
+@price@|@prais@
+@privately@|@sap@
+@proximal definite article@|@na@
+@question particle@|@ki@
+@quickly@|@pat@
+@rabbit@|@bangbang, tibang@
+@relationship@|@dikia@
+@repeatedly@|@kli-kli@
+@report@|@dahra, dara@
+@resemblance@|@bahamuna, talia@
+@returned@|@abakwaia.@
+@rice with beans@|@rais bins wal@
+@river@|@awala@
+@river below@|@maya@
+@river up@|@kla@
+@road@|@yabal@
+@rock@|@kipla@
+@rocky@|@kipl-ik-ira@
+@roof@|@banhta@
+@room@|@rum@
+@rotten@|@sukra@
+@run@|@plap-aia@
+@runner@|@pla-plap-ra@
+@running@|@plap-ra@
+@sack@|@bik@
+@salary@|@mana@
+@same@|@sim@
+@saw@|@kaikan@
+@school@|@skul@
+@scorpion@|@kmisri@
+@sea@|@kabu@
+@seat@|@iwaika@
+@see@|@kaikaia, yaura@
+@seven@|@matlalkabi pura kumi@
+@several@|@tila@
+@sew@|@diara@
+@she@|@witin@
+@She is my mother@|@Witin sika yaptiki@
+@she marries@|@utla@
+@shine@|@ing-w-aia@
+@shoe@|@sus@
+@shop@|@sap, shap@
+@short@|@kunhku, prahni@
+@sick person@|@siknis@
+@side@|@baila@
+@silly@|@tanis@
+@since@|@nara@
+@singer@|@aiwawanra@
+@sit (past)@|@iwan@
+@six@|@matlalkabi@
+@skin@|@taya@
+@sleep@|@yapaia@
+@small@|@luhpia, lupia, sirpi@
+@smallness@|@sirpi-ra@
+@snake@|@pyuta@
+@some@|@kum kum@
+@some books@|@buk kum kum@
+@some horses@|@aras kumkum@
+@soon@|@aihni, tisku@
+@Spanish@|@Ispail@
+@speaks@|@aisisa@
+@spook@|@aisan@
+@spouse@|@maia@
+@spread@|@sap, shap@
+@still@|@ban, kau@
+@stomach@|@klunghka@
+@stone@|@walpa@
+@stoneless@|@walpa-ya-s@
+@strength@|@karn-ika@
+@stretch@|@sak-b-aia@
+@strong@|@karhna, karna@
+@summer@|@mani@
+@Sunday@|@sandi@
+@sweep@|@pahb-aia@
+@table@|@tibil, tihmia@
+@tall@|@yakwra@
+@tea@|@ti@
+@tecomate@|@kahmuntra@
+@ten@|@matawolsip@
+@testicle@|@mahbra@
+@that@|@baha, bukra@
+@that horse@|@baha araska, baha araska ba@
+@That house isn't in my village@|@Baha watla tawanki ra apia sa@
+@the@|@ba@
+@The book is on the table@|@Buk ba tibil ra sa@
+@The book is...@|@Buk ba ... sa@
+@The books are...@|@Buk nani ba ... sa@
+@the horse@|@aras ba@
+@the horse in question@|@araska ba@
+@the horse that María bought@|@María atkan araska ba@
+@the mouth of@|@bila@
+@the one horse@|@aras kum ba@
+@The poison killed him@|@Puisin mita ikan@
+@the sister of@|@lakra@
+@the strong horse@|@karna araska ba, karna araska ba@
+@the strong people@|@karna uplika nani ba@
+@the tender fish perch@|@agaka, agakka, agakkam, agakki@
+@the tooth@|@napa@
+@the white horse@|@aras pihni ba@
+@then@|@bahamna, baku bara, bara@
+@there@|@bahara, bukra, naura@
+@there is@|@bara sa@
+@these houses@|@naha watla nani na@
+@these two@|@wâl na@
+@these women@|@mairin nani na@
+@they@|@winti nani@
+@thin@|@tanta@
+@thing@|@diara@
+@this@|@na, naha, naura@
+@this horse@|@naha araska, naha araska na@
+@this horse that my father bought@|@papiki atkan araska na@
+@this way@|@ban, naku@
+@this woman@|@mairin na@
+@though@|@pan@
+@three@|@jumpa, yumhpa@
+@three horses@|@aras nani yumhpa, aras yumhpa@
+@time@|@pyu, taim@
+@tip@|@ta@
+@tired@|@swapan@
+@to@|@kat@
+@to a white horse@|@aras pihni kum ra@
+@to appreciate@|@pain kaikaia@
+@to ascend@|@sunaia@
+@to ask@|@makabi walaia@
+@to attempt@|@trai kaikaia, trai munaia@
+@to be@|@kaia@
+@to be afraid@|@si briaia@
+@to be born@|@aisubaia@
+@to be broken@|@kriwaia@
+@to be filled@|@banghwaia@
+@to be wet@|@aibuskaia@
+@to begin@|@ta krikaia@
+@to boil@|@lukwaia@
+@to break@|@kalkaia, kalwaia, krikaia@
+@to bring@|@brihbalaia@
+@to build@|@makaia@
+@to burn@|@amaia, angkaia@
+@to bury@|@bikaia@
+@to buy@|@atkaia@
+@to call@|@winaia@
+@to change@|@pana@
+@to choose@|@pliki sakaia@
+@to clean@|@dikaia@
+@to close@|@prakaia@
+@to collapse@|@abakaia@
+@to come@|@balaia@
+@to come unfastened@|@langhwaia@
+@to cook@|@piakaia, piawaia@
+@to count@|@kulkaia@
+@to cover@|@kan kutbaia@
+@to cross@|@luwaia@
+@to cry@|@inaia@
+@to cure@|@rakaia@
+@to cut@|@klakaia@
+@to dance@|@dans pulaia@
+@to descend@|@alahwaia@
+@to die@|@pruwaia@
+@to do@|@munaia@
+@to drink@|@diaia@
+@to dry off@|@lâwaia, pihwaia@
+@to eat@|@piaia@
+@to enter@|@dimwaia@
+@to explode@|@baikaia@
+@to fall@|@kauhaia@
+@to fight@|@aiklabaia@
+@to fill@|@banghkaia@
+@to fish@|@miskaia@
+@to fly@|@palaia@
+@to get@|@atki sakaia@
+@to get angry@|@lawaia@
+@to get lost@|@tiwaia@
+@to get tired@|@swapaia@
+@to get up@|@bukaia, buwaia@
+@to give@|@yabaia@
+@to give to light@|@aisubi sakaia@
+@to go@|@waia@
+@to go to bed@|@aitnikaia@
+@to grab@|@alkaia@
+@to groan@|@ahbaia@
+@to guide@|@ta briaia@
+@to happen@|@bal luwaia@
+@to have@|@briaia@
+@to hear@|@walaia@
+@to help@|@hilp munaia@
+@to hit@|@prukaia@
+@to hurt@|@klâkaia@
+@to kill@|@ikaia@
+@to know@|@nu kaia, nu takaia@
+@to lack@|@apaia@
+@to laugh@|@kikaia@
+@to learn@|@lan takaia@
+@to leave@|@swiaia, takaia, waia@
+@to like@|@laik kaia, lihkaia@
+@to load@|@twilkaia@
+@to look for@|@plikaia@
+@to loose@|@langhkaia@
+@to lose@|@lus takaia, tikaia@
+@to love@|@latwan kaikaia@
+@to lower@|@alahbaia, lahbaia, lahwaia@
+@to make@|@daukaia, munaia@
+@to marry@|@marit takaia@
+@to mix@|@abalkaia@
+@to nag@|@lawi daukaia@
+@to name@|@nina makaia@
+@to obey@|@wali daukaia@
+@to open@|@kwakaia@
+@to open up@|@ilingkaia, ilingwaia, kwâkaia, kwâkaia, kwawaia@
+@to pay@|@aibapaia@
+@to pick up@|@wahbaia@
+@to place@|@kahbaia@
+@to play@|@kangbaia, kangbaia, lingbaia, pulaia@
+@to pour@|@laikaia@
+@to put@|@dingkaia, mangkaia@
+@to quarrel@|@blahwaia@
+@to rain@|@li ahwaia@
+@to read@|@aisi kaikaia@
+@to remember@|@krawaia@
+@to request@|@makabaia@
+@to retire@|@taki waia@
+@to return@|@laki yabaia, tawaia@
+@to say@|@wiaia@
+@to see@|@kaikaia@
+@to send@|@blikaia@
+@to sew@|@sipaia@
+@to sing@|@aiwanaia@
+@to sit@|@iwaia@
+@to sit down@|@iwaia@
+@to sound@|@lingwaia@
+@to sow@|@ma mangkaia@
+@to speak@|@aisaia@
+@to stay@|@takaskaia@
+@to steal@|@imhplikaia@
+@to stop@|@takaskaia@
+@to stroll@|@wataukaia@
+@to suffer@|@latwan wahwaya@
+@to support@|@ta baikaia@
+@to take@|@brihwaia@
+@to take a bath@|@aihtabaia, tahbaia@
+@to take out@|@sakaia@
+@to teach@|@lan daukaia, marikaia@
+@to the horse@|@aras ra@
+@to the white horse@|@aras pihni ra@
+@to think@|@lukaia@
+@to tie@|@priskaia, wilkaia@
+@to tire@|@swapkaia@
+@to translate@|@lakaia@
+@to transport@|@kwahkaia@
+@to wake up@|@kupia kraukaia, kupia krawaia@
+@to walk@|@taukaia, wapaia@
+@to want@|@want kaia@
+@to wash@|@sikbaia, tuskaia@
+@to wet@|@buskaia, buswaia@
+@to win@|@win takaia@
+@to work@|@wark takaia@
+@to write@|@ulbaia@
+@today@|@naiwa@
+@together@|@aikuki@
+@together with@|@kulmara@
+@tomato@|@tumatis@
+@tomorrow@|@titan, yauhka@
+@too@|@sin@
+@tooth@|@napa@
+@toothless@|@napa-s@
+@track@|@plap-aika@
+@tree@|@dus@
+@turtle@|@lih@
+@turtle of fresh water@|@kuswa@
+@twenty@|@jawin aiska@
+@two@|@wal, wâl, wol@
+@under@|@munhtara@
+@unless@|@wil@
+@unsuccessfully@|@bahki@
+@until@|@ahkia, kat@
+@very@|@pali, uya@
+@very big@|@tara pali@
+@very small@|@sirpi-k-ira@
+@very strong@|@karn-ik-ira@
+@village@|@tawan@
+@want@|@want kaia@
+@was@|@kan@
+@water@|@li@
+@we@|@jang nani, yang nani, yawan@
+@We are....@|@Yawan ... sa@
+@we go@|@kaisa@
+@We saw María@|@Maria ra kaiki banghwri@
+@We speak Miskito@|@Miskitu aisi banghwisna@
+@week@|@wik@
+@well@|@pain@
+@went@|@wan@
+@wet@|@rat-ni@
+@wet (tr.)@|@rat-b-aia@
+@what@|@dia@
+@What shall I do with the fish@|@Inska ba wal dia daukamna ki?@
+@what?@|@dia?, dikia?@
+@when@|@ahkia, pyuara, taim@
+@when?@|@ahkia?@
+@where@|@anira@
+@Where are you going?@|@Anira auma ki?@
+@where from@|@ani wina@
+@where is my room?@|@Yang rumki anira sa?@
+@where is the bar?@|@Ron atkaia watla anira sa?@
+@where is the beach?@|@Auya ba anira sa?@
+@Where shall we go?@|@Yawan anira wabia?@
+@which@|@ani@
+@which horse?@|@ani araska?@
+@which one?@|@ani?@
+@white@|@pihni@
+@who@|@ya@
+@Who did this?@|@Yâ baha daukan?@
+@Who touched me?@|@Yâ bui ai kangban?@
+@who?@|@yâ?@
+@whom@|@yaura@
+@why@|@dia muni, diakan@
+@Why do you think so?@|@Diakan man baku lukisma ki?@
+@Why; you are like me!@|@Yang baku sma bika!@
+@will be@|@kaisa@
+@will come@|@balaisa@
+@will cook@|@piakaisa@
+@will cry@|@inaisa@
+@will do@|@munaisa@
+@will go@|@waisa@
+@will look for@|@plikaisa@
+@will make@|@daukaisa@
+@will play@|@pulaisa@
+@will see@|@kaikaisa@
+@will sit@|@iwaisa@
+@will speak@|@aisaisa@
+@Will you come?@|@Man balma ki?@
+@window@|@windar@
+@with@|@ni, wal, wal@
+@with Pedro's child@|@Pedro tuktika ba wal@
+@with the horse@|@aras ba wal@
+@with this money@|@baha lalahka ni, baha lalahka wal@
+@without@|@apu@
+@woman@|@mairin@
+@work@|@wark@
+@worm@|@liwa@
+@yes@|@au@
+@Yes; it's me@|@Au; yang sika@
+@Yesterday@|@Nahwala@
+@you@|@man@
+@you (pl)@|@man nani@
+@You did not see me@|@Man ai kaikras kapram@
+@You will not see me@|@Ai kaikma apia, Man ai kaikma apia, Man ai kaikras, Man ai kaikras@
+@You will not see me (1)@|@Man ai kaikras kama@
+@young@|@tiara, tyara@
+@young (male)@|@wahma@
+@young man@|@wahma@
+@young woman@|@tiara@
+@your (pl.) tooth@|@man nani nampa@
+@your child@|@tuktikam@
+@your father@|@aisikam@
+@your house@|@wamtla@
+@your mother@|@yaptikam@
+@your mouth@|@bilam@
+@your name@|@ninam@
+@your neck@|@nana@
+@your sister@|@lamkra@
+@your tooth@|@nampa@
+@youth@|@wahma@
+

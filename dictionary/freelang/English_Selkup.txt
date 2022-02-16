@@ -1,0 +1,361 @@
+@English@|@Selkup@
+@Author name@|@Renato B. Figueiredo@
+@Font@|@Arial\12\Arial\12@
+@a k. of aquatic bird@|@pagé, pake, pakke, pakké@
+@a k. of arrow@|@makka@
+@a k. of bird@|@kaasera, qäsera@
+@a k. of fir-tree@|@njulg, njulga, njulge, njülgê, nölg@
+@a k. of fish@|@tüt, tutä, tüti, tutto@
+@a k. of grass@|@njudš, njúds, njúdš, njuudš@
+@a k. of insect@|@unddsa, unddse, undš, úndš, undsa, undse, undšê@
+@a k. of lily@|@togil@
+@a k. of marten@|@puch, puche, putco, puttso, puüc@
+@a k. of metal@|@keezä, kezi, kwez, kwezi@
+@a k. of salmon@|@muendš, wanch, wanche, wuendš@
+@a k. of small fish@|@kâasa, kaha@
+@a k. of trout@|@kaamià, kaámia, káamia, kaawia, kaawìa@
+@a k. of wild duck@|@kueche, kuetj, kuettjä, pür, pur-kuldšá, püria@
+@a k. of wild duck (1)@|@kodje, kuech@
+@a k. of willow@|@pê, pêê@
+@a loft on a pole@|@nïlo@
+@a small bird@|@chïchi, chichik, chichika, šyndjáka, syndjeka, šynšéka@
+@a small fish@|@koor, kór, kuor@
+@an elder relative@|@qotia@
+@animal's stomach@|@pärki, pärq, pärqe@
+@annual ring on a tree@|@ty@
+@ant@|@ketcá, kïcha, qëcha, qïta@
+@armpit@|@qaali, qälän@
+@arrow@|@qaasä-nï@
+@asp@|@pï, pii, piikko@
+@axe@|@pedš, pïchi, pitje, pittje@
+@back@|@mog, mok, mokal, päran-, qott, qottä@
+@back part@|@pün, püt, puun, püun, puut@
+@bark@|@kóp, kópe, koppa, qop@
+@basket@|@kormdše, korndše, korndšè, koromdšä@
+@bast@|@kaas, qaas, qas, qase@
+@bay@|@kêl, köl, kuel@
+@be attached@|@tjokuatpa, tokal-, tokkal-, tokkalti-, tokuatpa@
+@be burnt@|@kuura-, kuurra-@
+@beam@|@chöch, chuodše, coods tötä, coodsa, coodse, toote@
+@behind@|@tâ, tä, taa-, tag, tagan, tak, takkan, takt, tân@
+@behind (1)@|@taa, tae, taekti, täkti@
+@belt@|@tüu@
+@bend@|@sit@
+@berry@|@palgok, pälgók, palgong, pälgong, palkoq, palqoq@
+@big@|@innê, inno@
+@birch@|@kä, käa, koä, köe, kwäa@
+@birch bark@|@tjye, tö, too, twé, tye@
+@birdcherry@|@cheem, tew, tjeuwa@
+@blink@|@kâ.nja-, kaaja-, kaanja-, qaaj-@
+@blood@|@ker@
+@blueberry@|@köd, kötta, kótte@
+@body@|@maga-@
+@boil@|@piri-@
+@bone@|@le, lë, lî, lï@
+@bow@|@ê.nddä, ê.ndde, ênd, ênddä, ênddo, indo, îndo@
+@bow (1)@|@end, êndä, ende, inti@
+@bowstring@|@cinte, kend, kênd, kêndda, kênddä, kênddo, tinte@
+@breast@|@mälcha-@
+@breath@|@kwej@
+@brother-in-law@|@kädši, kädzi, kätja@
+@bug@|@unds, unti@
+@burn@|@kuura-, kuurra-@
+@bushes@|@tiid, tiida, tiitä@
+@button@|@siis@
+@calf of leg@|@pochka@
+@carry@|@ila-, ilèspa-@
+@cartilage@|@neer@
+@charcoal@|@hiidš, šidš, siidje, siitj@
+@cheek@|@pütel, pütil@
+@chew@|@tuda-, tüda-, tüta-, tuttonna-@
+@chin@|@aaka, aakal-li, aakal-lî@
+@circle@|@koch@
+@claw@|@kaache, kaachê, kad, käd, käda, kate, katte, qati@
+@clay@|@söö, sye, syy@
+@closed@|@omba, ombeä@
+@cone@|@püka, püqa, püukä@
+@cradle@|@chof, chöf, tjops, tjopsä, tops@
+@crane@|@kaara, kara, karà, kära, kärá@
+@cross-beam@|@taate@
+@crow@|@kerä, këra, kuere, kuerè@
+@crust@|@qaam@
+@curve@|@men-, mên-, mîn-, mut, muti, müti, muuch@
+@daughter@|@nätäk, nëtek, nitteng@
+@day@|@cheel, chél, cheld, tjeel@
+@deep place in water@|@kor, qor, qorä@
+@dew@|@chapt, chapta, tjapte, tjaptu@
+@diver@|@nan, nän@
+@divide@|@taara-, taarna-, tär-, tara-@
+@Don't touch me there!@|@'maship tuon 'yky qaty'täsh, igy mazep mittembat@
+@door@|@-a in maat-a@
+@down@|@ond, umddo, und, unti@
+@earth@|@ma-š qula@
+@elder female relative@|@äbà, apà, äpà, appa, áppa@
+@elder male relative@|@ägá, ägà@
+@end front@|@ol, olam-, old-, öli, olle@
+@eye@|@hai, sai, saj@
+@face@|@wand, wanda, wandda, wandi, wendi, wuend@
+@fat@|@siile, siileng@
+@father@|@as, êhê, ês, êx@
+@fathom@|@tii@
+@female@|@näi-gum, näie-gom, näije-gum, näl-gum, neä, neu@
+@female animal@|@šöua, šöwa, sümä, šyyma, syywa@
+@fence@|@kech, kechche, kette, qëtte, qëtti@
+@fight@|@tjaar@
+@find@|@ko-, kó-, qo-, qö- kóo-@
+@fine snow@|@qodš@
+@fingernail@|@k'ache, kaache@
+@fir@|@kaadé, káadè, kädé, kuut, qüt@
+@fire@|@tü, tý, tyy@
+@fish@|@kel, kuel, qel, qeli, qëli@
+@fishing gear@|@maasa, maašek, maazeng@
+@five@|@köt, köt'@
+@flat surface@|@kettämp, laamb, lââmb, laamba, läb, läba, lamb, lamp, lap, lap, läp, lappo, lappu, täpi@
+@float@|@poor, pöre, püöre@
+@forest@|@mäche, mächil, mät, mate, mattje@
+@frost@|@kän, qantei-@
+@frozen snow@|@hêr, ser, sêr, sîr, sire@
+@frozen thin snow@|@chomna, chomña, tjomna, tjomnan@
+@girdle@|@chö, chöo, chü, kü, kyy, tjyy, ün, une, üne, uni@
+@give@|@taatara-, täda, tanna-, tatti-@
+@glue@|@chim, chimä, chimi, tjeu, tjim@
+@go@|@caaca-, candsa, chaadša-, taacha-, taada-, tanda-@
+@go through@|@poch-, pooch-, potceldj-@
+@god@|@nom, nop, nöp, nüm, tüu@
+@hair@|@oopty, opt, óptä, opti, optto, tar, tare@
+@hard@|@koom, qöm, qoomeng, šara, šara, šaral@
+@hare@|@njo, njoma, njoo, noma, nöma@
+@harness@|@paater@
+@hazel-hen@|@päake, pëkä, pëke@
+@head@|@üki, uug, uugo, uuk@
+@heart@|@siche, sïche, sïd, sïde@
+@hide@|@chagadša-, chägadša-, chakacha-, takata-@
+@high@|@piire@
+@hole@|@aang, äng, aq, äq, kocha, kodšà, ködšá, köta, kötca, oang@
+@hollow of hand@|@kaamä@
+@hollow plant stalk@|@püch, puti@
+@horn@|@aamd, âamdä, áamdde, amd@
+@how@|@qaitqo, qaj@
+@hut@|@maat, mâât, mät@
+@I@|@man, mat@
+@inside@|@püch, püche, puchondš, püte@
+@interval@|@kot, kota, kotä, qot@
+@intestinal worm@|@qä@
+@intestines@|@chat@
+@jaw@|@aakaj@
+@knee@|@puule, puuli, puulsej@
+@knot@|@pakte, paqte, sizi@
+@knot on wood@|@tärröngko, twer@
+@land@|@karetja-, qarti-@
+@language@|@së, šë, sée@
+@large@|@ära, ärá, ärà, iir, íir, iirä, ira, irá, ïrà, irí@
+@left hand@|@kuädähä, kuedägi, kuedege, kuetege@
+@light@|@šäbek, šäpe, šëpeng, seppu@
+@lip@|@päptal, peptei, peptéi, peptej, peptelj@
+@liver@|@met, mîîda, mït, mïte, mïti, mûida@
+@lizard@|@chöš, tüši, tüusi, tyssa, tyssä@
+@long@|@perg, përg, përga, pirga, pirgä, pirge, piri, pürg@
+@look@|@äda-, ati-, attua-@
+@lowland@|@lämdek, lamdukka@
+@lung@|@tyymäktä, tyymiekto@
+@marsh@|@limpä@
+@marten@|@loqa, löqa, närmäk@
+@middle@|@tjonds, tjondš@
+@midge@|@njeuré, njimaräa, nüurä@
+@morning@|@kar, qaret@
+@morning dawn@|@kuetj, kuetje, kyetj@
+@moss@|@kîch, kîn, kît, qech@
+@mother@|@ämä, awa, äwä, ëmi@
+@mound@|@mäktä, mäkte, mekte@
+@mountain@|@kée, kêê, maka, makka, makka, qee@
+@mouth@|@hoi, hoj, huoj, soi, sói, suolj@
+@much@|@ära, äral, eräl, irá, irael, ïrakota, iral, irél@
+@name@|@nep, nëp, nim@
+@nape@|@nog, nög, nöga, nug, nukka@
+@narrow@|@tetjekal@
+@negative particle@|@a-ša, a-ssa, assa, ê-k, ê-kkä, i-g, î-ki, ii-g@
+@negative particle (1)@|@ä, aha, ass@
+@nest@|@pet, pite, pïti, pitta, pïtta@
+@night@|@üutit, ÿ.d, yyd, ýydä, yyde@
+@odor@|@äpta, apte, äpte@
+@old woman@|@ë.ma, ema, emá, ima@
+@on top@|@enné, i-nnä, inné@
+@palm of hand@|@pïngka@
+@penis@|@man, mane@
+@person@|@kop, kum, kun, kup@
+@piece@|@morel-, morena-, morna-, morru, murälta-@
+@pine@|@tädäk, tädäk, tädek, tädik, tëdêng, tîteng, titik@
+@pine (1)@|@kye chwé, sö, tjö, tjööl-pu, tjye@
+@pit@|@qoqqa@
+@place@|@pen-, pin-, pön-@
+@place across@|@koopt, köpti, kuopta, kuopte, kuupt, qoopt@
+@plait@|@paniš, panpa-, par-@
+@polar duck@|@ú, uu@
+@pole@|@haldš, sald, saldš, saldse, yy@
+@pond@|@to, tú, tü@
+@present@|@qös, qöse, qosi@
+@promontory@|@soq@
+@push@|@qati-@
+@raven@|@kulä, küläa, kulé, kylä@
+@reindeer@|@sjaera@
+@revolve@|@purolda-, püroltä, pyrruoldša-@
+@ring@|@pörök, püure, pyr@
+@river@|@chaqi, kî, kïkä@
+@root@|@konch, konddsa, konddse, kondšä@
+@run@|@pakta-@
+@run away@|@küná-, kuuna-, kúuna-@
+@scoop@|@kö, kujak@
+@scrape@|@pörkäw-@
+@sell@|@märeng-, me-, mertä, mi-, mí-, mïreng-, mirte@
+@separate@|@chaka-, pooca-, poochälna-, potälna-, tjaka-@
+@separate (1)@|@tjakka-@
+@shaft@|@ner, nir, pak, pängka, paq@
+@shallow@|@cakka-, chaga-, cheka-, têka-, tëkki-@
+@shank@|@paqtur@
+@ship@|@paata, pacha@
+@shit@|@tüt, tyde-, tyt, tytti@
+@shoot@|@narh, närqi, njärg, njärga@
+@shore@|@konné, konnéä, moor, moorónd, mor, mör, muur@
+@side@|@konä, päläk, paläl, piläng@
+@sift@|@têak, tenge-, tuak, tuek@
+@sinew@|@cän, chat, chên, chêt, tsän@
+@sister-in-law@|@šäl, šeli@
+@ski@|@-iš, taat-, taiše, takeš, takeš, tängeš, tangis, tat-@
+@skin@|@tuija, tuja, tuuja@
+@skin from the feet of deer@|@pónds, poonds, puondš@
+@sleeping hole in snow@|@köpte, köpti, kuopt, kuopta, kuopto, kuupt@
+@sleeve@|@tönak, tyynang, tyynjang@
+@sleigh@|@kanch, kanddse, kandsa, kandše, qanti@
+@sleigh harness@|@kuudago, qüte-ko@
+@smoke@|@symde, syndim@
+@snake@|@šü, šý, syy@
+@snout@|@nanné, njännä, njanne, njanneä, njärne, njärnen@
+@snowfall@|@kochu, kodš@
+@snowstorm@|@purqaat, purqälcha-, purqälche- puraajingpaat@
+@soar@|@tï-@
+@soft@|@njaamagel, njeukka, njülgue, njúlgueh, njuulguek@
+@something stamped@|@pel, pêlli, pîle@
+@son-in-law@|@kenek, kuenä, kûenek@
+@sour@|@tembal@
+@space below something@|@î.l, iil, îîl, il, îl, illé@
+@spear@|@täpsau@
+@spit@|@ängti, ongti@
+@split@|@paas, päs, päse, pasi@
+@squirrel@|@täpäk, täpäng, tëpeq@
+@star@|@kesaka, kesangka, kiška, qešqasej@
+@stay@|@keet-, kuedša-, kuetja-, kuettja-, qëchi-@
+@step@|@aasel-@
+@stone@|@puu@
+@string@|@chend, chênd@
+@summer@|@taang, tagi, tagî, tangi@
+@swamp@|@när, njär@
+@sweep@|@chütch-@
+@tail of a deer@|@mä.chä, mätjä, mätjä, mëcha@
+@take out@|@titi-@
+@tame@|@îînje, îînjeka@
+@taste@|@aaku-, haaku-, häku-, sanga-@
+@tear@|@neker-, nengken-, ninga, niwa, njakkan-, saina-gai@
+@tear (1)@|@haet-kai, hait-kai, qäne@
+@testicle@|@mäne@
+@that@|@na, ta, tä, tam, tämi, tap, tau, to, tó, tona, too@
+@that (1)@|@neka, ní, nî, nii, nîî, nîîn'e, nín, nittja, tö, tö@
+@that (2)@|@na@
+@They (two) went hunting@|@süryjja qänpöqi@
+@thief@|@teli-, telti-, tuel-@
+@thin fibre@|@hach, sächu, säcu@
+@thin snow@|@kurä@
+@thing@|@më-, mee-, mi, mï-@
+@this@|@nittjan, nittjátagan, te cêl, ti, ti, tí, tii, tina@
+@this (1)@|@nend@
+@thou@|@tan, tat@
+@through@|@hachko, sacko, satkatje@
+@time@|@okur-pär, pär@
+@to be afraid@|@piti-@
+@to be forgotten@|@émelžam@
+@to be warm@|@pö, pyy@
+@to become@|@esyš@
+@to become dry@|@kuuska@
+@to become tired@|@njú'undsa-, nuuna-, núuna-, nuunetja-@
+@to beware@|@aacha-, ächá-@
+@to bind@|@háara-, hára-, kura-, küra-, saara-@
+@to blow@|@püa-, putön-, puttu, puunga-, puuwa-@
+@to bore@|@päraq, paring, pur@
+@to burn@|@porcha-, pore-, poru-, purcha-@
+@to call@|@kera-, kuera-, kûera-, qëri-@
+@to carry@|@kuanda-, kuenda-, kuenda-@
+@to comb@|@tifi, tïfi, tipsen, tipsin@
+@to come@|@tü-, tüa-, tüu-, tyynga-, tyywa-@
+@to cough@|@koot, kot, köt, kotarna-@
+@to curve@|@karengdal, karengdel, kärukkai@
+@to cut@|@püti-@
+@to devour@|@pöl-, poli-@
+@to die@|@kua-, küa-, qü-, qump-, quu-@
+@to drink@|@ëra-, îra-, öra-@
+@to extinguish@|@kapta-@
+@to fall@|@äs-, äsettà-, êsta-@
+@to flow@|@sörmba-, šormbá-@
+@to follow the tracks@|@pýda-, pýdar-, pyyda-, pyytaldš-@
+@to ford@|@qäl-@
+@to get accustomed@|@tanamda-, tanti-@
+@to get lost@|@örga-, ürë-, yra-, yrga-, yrua-@
+@to go@|@männempa-, mäntëja-, mänti-, menda-, mentétja-@
+@to grow@|@chaadš, chadš, chatcheak, taadše, taatjeä, tadše@
+@to hang@|@êdá-, ëdá-, îta-, îtta-@
+@to hear@|@ko, qooo@
+@to hit@|@petku-@
+@to lead@|@kueta-@
+@to lick@|@nu-, nüqel-, nuuqel-@
+@to live@|@ela-, ilá-, ïla-@
+@to move@|@laga-, lagara-, mödena-, mootja-, moottja-@
+@to nurse@|@ilaš@
+@to paint@|@pateldša-@
+@to peel@|@kera-, kîra-@
+@to plait@|@pachkalna-, patkalna-@
+@to rot@|@té, tê, teé, temb-@
+@to row@|@tû-, tua-, tuu-, túwa-@
+@to say@|@my-mbiem@
+@to scrape skin@|@natkal-, natkan-@
+@to see@|@aaca-, aacha-, aatti-, äca, ati-, ätti-, otti-@
+@to sit@|@aamda-, aamta-, amte-, omte-, omti-@
+@to sit down@|@ti-@
+@to stamp with feet@|@tabarna-, täberna-, taperna-, tapir-, tappol-@
+@to suck@|@nem-@
+@to suckle@|@njimaš@
+@to swim@|@ü-, ürk-, uurn-@
+@to urinate@|@küš, küša-, küše, küšempe-@
+@to walk@|@chändša-@
+@to wash@|@musaš, müselcha-, muselža-, müsilti-, mysa-@
+@top@|@hok, hök, sok, sök@
+@trace@|@njo-, njód-, njoo-, njoot, nö-, wat, watta, wuette@
+@trap@|@lata@
+@tree juice@|@öl, yl, yllu@
+@turned over@|@qamcha-, qamittä, qamt@
+@two@|@sede, sitte@
+@uncle@|@chetcheka, chetšeka, cica, citca@
+@vessel@|@holak, holák, solak, solang, sólang@
+@vessel made of birch bark@|@käti, keti, kietä@
+@walk@|@kuuremba-, qüra-, quri-@
+@wander@|@cheti-, chetti-@
+@wart@|@sëla, šïla@
+@water@|@öt, üt, üut, yt@
+@wave@|@kämper-, kómbo, koombo, qaampe, qoomp@
+@we@|@me, më@
+@what@|@awuo, kai, kod, kud, kun, kut, küt, kute, kuu, qaj@
+@Where is my room? (1)@|@kut't'at maadam eeja@
+@Where is the bar?@|@kut'tat bar eeja, man kun 'ütympyläk@
+@Where is the beach?@|@kut't'at paaryt eeja, kut 'qanyk kun 'einga@
+@why@|@kutar@
+@wife of an elder relative@|@ona, ono@
+@wild animal@|@húurup, sürip, súuram, suurem, súurêm@
+@wild animal (1)@|@tïmpitil sürip@
+@wing@|@tu, tú, tuu@
+@woman@|@näl-gop@
+@wood@|@pö, poo@
+@wooded hill@|@marge, mark@
+@wooden vessel@|@somma@
+@worm@|@nën, njeiju, njénje@
+@year@|@arà, ärä@
+@yellow@|@paate, pät, päte, patelcha-, patta, patte@
+@you@|@te, ti@
+@young@|@i, í, ii, ïja@
+
