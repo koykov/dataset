@@ -74,7 +74,7 @@
 @abnormal@|@ненормальный@
 @abnormality@|@ненормальность@
 @aboard@|@вдоль (prep), на корабль@
-@aboard; adv: along@|@вдоль (prep)@
+@aboard; (adv:) along@|@вдоль (prep)@
 @abode@|@жилище@
 @abolish@|@отменять@
 @abolition@|@упразднение@
@@ -299,7 +299,7 @@
 @activated/had activated/has activated/intensified/had intensified/has intensified@|@активизировало (verb: pa/past/neu)@
 @activated/had activated/have activated/has activated/intensified/had intensified/have intensified/has intensified@|@активизировал (verb: pa/past/mas), активизировала (verb: pa/past/fem)@
 @activated/had activated/have activated/intensified/had intensified/have intensified@|@активизировали (verb: pa/past/plu)@
-@activated/will have activated/intensified/will have intensified@|@активизируем (verb: pa/fut/1pp), активизирует (verb: pa/fut/3ps), активизируете (verb: pa/fut/2pp), активизируешь (verb: pa/fut/2ps), активизирую verb: pa/fut/1ps), активизируют (verb: pa/fut/3pp)@
+@activated/will have activated/intensified/will have intensified@|@активизируем (verb: pa/fut/1pp), активизирует (verb: pa/fut/3ps), активизируете (verb: pa/fut/2pp), активизируешь (verb: pa/fut/2ps), активизирую (verb: pa/fut/1ps), активизируют (verb: pa/fut/3pp)@
 @activates/is activating/intensifies/is intensifying@|@активизирует (verb: ia/pres/3ps)@
 @activating/intensifying@|@активизировав (verb: pa/der/ger), активизирующий (verb: ia/der/practpart), активизируя (verb: ia/der/ger)@
 @active@|@действительный, действующий, деятельный@
@@ -436,7 +436,7 @@
 @adultery@|@прелюбодеяние@
 @adumbrate@|@делать набросок@
 @adust@|@выжженный@
-@adv: of course not@|@конечно, нет@
+@(adv:) of course not@|@конечно, нет@
 @advance@|@продвижение, успех@
 @advanced@|@продвинутый@
 @advancement@|@продвижение@
@@ -450,7 +450,7 @@
 @adventuress@|@авантюристка@
 @adventurous@|@отважный@
 @adverb@|@наречие@
-@adverb: in the afternoon@|@днем@
+@(adverb:) in the afternoon@|@днем@
 @adverbial@|@наречный@
 @adversary@|@противник@
 @adversative@|@противительный@
@@ -1745,7 +1745,7 @@
 @assemble@|@собираться@
 @assembler@|@ассемблер@
 @assembly@|@собрание@
-@assembly ; verb: collecting@|@сбор@
+@assembly ; (verb: collecting@|@сбор@
 @assemblyman@|@член законодательного собрани@
 @assent@|@согласие@
 @assentation@|@угодливость@
@@ -2713,7 +2713,7 @@
 @bends@|@кессонная болезнь@
 @beneath@|@внизу, ниже (adv), ниже (adv), под (prep)@
 @benedick@|@новобрачный (noun)@
-@benedick; adj: newlywed@|@новобрачный (noun)@
+@benedick; (adj:) newlywed@|@новобрачный (noun)@
 @benedict@|@новобрачный (noun), новобрачный (noun)@
 @benediction@|@благословение@
 @benefaction@|@благодеяние@
@@ -2767,7 +2767,7 @@
 @besetting@|@постоянно преследующий@
 @beside@|@около (prep), рядом@
 @beside the point@|@не по существу@
-@beside; adv: past@|@мимо@
+@beside; (adv:) past@|@мимо@
 @besides@|@кроме@
 @besiege@|@осаждать@
 @besieged@|@осажденный@
@@ -12091,7 +12091,7 @@
 @gibber@|@быстрая невнятная речь@
 @gibberish@|@невнятная речь@
 @gibbet@|@виселица@
-@gibbet; adj: hanging@|@подвесной (noun)@
+@gibbet; (adj:) hanging@|@подвесной (noun)@
 @gibbon@|@гиббон@
 @gibbosity@|@выпуклость@
 @gibbous@|@выпуклый@
@@ -14406,7 +14406,7 @@
 @in evidence@|@наличный@
 @in force@|@имеющий силу@
 @in French@|@по-французски (noun)@
-@in front of; adv: opposite@|@напротив@
+@in front of; (adv:) opposite@|@напротив@
 @in German@|@по-немецки (noun)@
 @in good part@|@в хорощем настроении@
 @in Greek@|@по-гречески (noun)@
@@ -17984,7 +17984,7 @@
 @meed@|@награда@
 @meek@|@кроткий@
 @meerschaum@|@морская пенка@
-@meet@|@встречаемся, встречать, знакомимся verb: ia/pres/1pp), знакомитесь (verb: ia/pres/2pp), знакомить, знакомишься (verb: ia/pres/2ps), знакомлюсь (verb: ia/pres/1ps), знакомятся (verb: ia/pres/3pp), собираться@
+@meet@|@встречаемся, встречать, знакомимся (verb: ia/pres/1pp), знакомитесь (verb: ia/pres/2pp), знакомить, знакомишься (verb: ia/pres/2ps), знакомлюсь (verb: ia/pres/1ps), знакомятся (verb: ia/pres/3pp), собираться@
 @meet somebody; am meeting somebody@|@вижу@
 @meet/have met/had met@|@познакомились (verb: pa/past/plu)@
 @meet/meets/have met/has met/had met@|@познакомилась (verb: pa/past/fem), познакомился (verb: pa/past/mas)@
@@ -20614,7 +20614,7 @@
 @over@|@больше (prep), в течение, излишний, над (prep), по (prep), слишком (adv)@
 @over against@|@напротив@
 @over all@|@полный@
-@over; adv: around@|@вокруг@
+@over; (adv:) around@|@вокруг@
 @overabundance@|@сверхизобилие@
 @overact@|@переигрывать@
 @overactive@|@сверхактивный@
@@ -23726,7 +23726,7 @@
 @publicize@|@рекламировать@
 @publicly@|@публично@
 @publish@|@издаёте, издаю, издают, обнародовать@
-@publish/are publishing@|@издаёшь verb: ia/pres/2ps)@
+@publish/are publishing@|@издаёшь (verb: ia/pres/2ps)@
 @publisher@|@издатель@
 @publishes@|@выходить@
 @puce@|@красновато-коричневый@
@@ -26904,7 +26904,7 @@
 @sew on/am sewing on@|@пришиваю (verb: ia/pres/1ps)@
 @sew on/are sewing on@|@пришиваем (verb: ia/pres/1pp), пришиваете (verb: ia/pres/2pp), пришиваешь (verb: ia/pres/2ps), пришивают (verb: ia/pres/3pp)@
 @sew together/am sewing together@|@шью (verb: ia/pres/1ps)@
-@sew together/are sewing together@|@шьем (verb: ia/pres/1pp), шьете verb: ia/pres/2pp), шьешь (verb: ia/pres/2ps), шьют (verb: ia/pres/3pp)@
+@sew together/are sewing together@|@шьем (verb: ia/pres/1pp), шьете (verb: ia/pres/2pp), шьешь (verb: ia/pres/2ps), шьют (verb: ia/pres/3pp)@
 @sewage@|@сточные воды@
 @sewed on/had sewed on/has sewed on@|@пришило (verb: pa/past/neu)@
 @sewed on/had sewed on/have sewed on@|@пришили (verb: pa/past/plu)@
@@ -30196,7 +30196,7 @@
 @throughly@|@вполне@
 @throughout@|@во всем, во всех отношениях, повсюду (adv), через@
 @throughout the@|@во всем@
-@throughout; adv: via@|@через@
+@throughout; (adv:) via@|@через@
 @throughput@|@производительность@
 @throw@|@бросок@
 @throw myself/am throwing myself@|@бросаюсь (verb: ia/pres/1ps)@
@@ -33776,7 +33776,7 @@
 @will help@|@поможет@
 @will hit/will be hitting@|@будем бить (verb: ia/fut/1pp), будет бить (verb: ia/fut/3ps), будете бить (verb: ia/fut/2pp), будешь бить (verb: ia/fut/2ps), буду бить (verb: ia/fut/1ps), будут бить (verb: ia/fut/3pp)@
 @will leave; will come out; will go out@|@выйдет@
-@will meet/will be meeting@|@будем знакомиться (verb: ia/fut/1pp), будет знакомиться (verb: ia/fut/3ps), будете знакомиться (verb: ia/fut/2pp), будешь знакомиться verb: ia/fut/2ps), буду знакомиться (verb: ia/fut/1ps), будут знакомиться (verb: ia/fut/3pp)@
+@will meet/will be meeting@|@будем знакомиться (verb: ia/fut/1pp), будет знакомиться (verb: ia/fut/3ps), будете знакомиться (verb: ia/fut/2pp), будешь знакомиться (verb: ia/fut/2ps), буду знакомиться (verb: ia/fut/1ps), будут знакомиться (verb: ia/fut/3pp)@
 @will move/will be moving@|@будем двигать (verb: ia/fut/1pp), будете двигать (verb: ia/fut/2pp), будешь двигать (verb: ia/fut/2ps), буду двигать (verb: ia/fut/1ps), будут двигать (verb: ia/fut/3pp)@
 @will occur/will be occurring/will be held regularly/will be being held regularly@|@будет проходить (verb: ia/fut/3ps)@
 @will open/will be opening@|@будем открывать (verb: ia/fut/1pp), будет открывать (verb: ia/fut/3ps), будете открывать (verb: ia/fut/2pp), будешь открывать (verb: ia/fut/2ps), буду открывать (verb: ia/fut/1ps), будут открывать (verb: ia/fut/3pp)@

@@ -211,7 +211,7 @@
 @активизируешь (verb: ia/pres/2ps)@|@activate/are activating/intensify/are intensifying@
 @активизируешь (verb: pa/fut/2ps)@|@activated/will have activated/intensified/will have intensified@
 @активизирую (verb: ia/pres/1ps)@|@activate/am activating/intensify/am intensifying@
-@активизирую verb: pa/fut/1ps)@|@activated/will have activated/intensified/will have intensified@
+@активизирую (verb: pa/fut/1ps)@|@activated/will have activated/intensified/will have intensified@
 @активизируют (verb: ia/pres/3pp)@|@activate/are activating/intensify/are intensifying@
 @активизируют (verb: pa/fut/3pp)@|@activated/will have activated/intensified/will have intensified@
 @активизирующий (verb: ia/der/practpart)@|@activating/intensifying@
@@ -1861,7 +1861,7 @@
 @будешь двигать (verb: ia/fut/2ps)@|@will move/will be moving, will set going/will be setting going@
 @будешь ехать (verb: ia/fut/2ps)@|@will go/will be going/will travel/will be travelling (by transportation/unidirectional/one-way), will come/will be coming/will visit/will be visiting@
 @будешь жевать (verb: ia/fut/2ps)@|@will chew/will be chewing@
-@будешь знакомиться verb: ia/fut/2ps)@|@will meet/will be meeting@
+@будешь знакомиться (verb: ia/fut/2ps)@|@will meet/will be meeting@
 @будешь навещать (verb: ia/fut/2ps)@|@will visit/will be visiting, will call, will be calling, will see/will be seeing, will pay a visit/will be paying a visit, will call upon/will be calling upon@
 @будешь открывать (verb: ia/fut/2ps)@|@will open/will be opening, will discover/will be discovering, will disclose/will be disclosing, will reveal/will be revealing@
 @будешь пришивать (verb: ia/fut/2ps)@|@wiill sew on/will be sewing on@
@@ -2362,7 +2362,7 @@
 @вдова@|@dowager, widow@
 @вдовец@|@widower@
 @вдовство@|@widowhood@
-@вдоль (prep)@|@along, up, aboard; adv: along, lengthwise, lengthways, up, endwise, aboard@
+@вдоль (prep)@|@along, up, aboard; (adv:) along, lengthwise, lengthways, up, endwise, aboard@
 @вдохновение@|@inspiration@
 @вдохновлять@|@imbue@
 @вдохнуть@|@inspirit, inbreathe@
@@ -3163,7 +3163,7 @@
 @вокзал@|@depot  (usually large train stations), station, terminal@
 @вокзалом@|@railway station@
 @вокзалу@|@station@
-@вокруг@|@prep: around, round, about, over; adv: around, round, about, circum@
+@вокруг@|@prep: around, round, about, over; (adv:) around, round, about, circum@
 @вол@|@bullock@
 @волан@|@shuttlecock@
 @волдырь@|@weal, wheal, blister@
@@ -5504,7 +5504,7 @@
 @дневник@|@journal, diary@
 @дневной концерт@|@matinee@
 @дневной свет@|@daylight@
-@днем@|@adverb: in the afternoon, by day, days, in the daytime@
+@днем@|@(adverb:) in the afternoon, by day, days, in the daytime@
 @днём@|@in the afternoon@
 @днепр@|@dnieper@
 @днестр@|@dniester@
@@ -7227,7 +7227,7 @@
 @знакомилось (verb: ia/past/neu)@|@was meeting@
 @знакомился (verb: ia/inf)@|@to meet@
 @знакомился (verb: ia/past/mas)@|@was meeting@
-@знакомимся verb: ia/pres/1pp)@|@meet@
+@знакомимся (verb: ia/pres/1pp)@|@meet@
 @знакомитесь (verb: ia/pres/2pp)@|@meet@
 @знакомится (verb: ia/pres/3ps)@|@meets@
 @знакомить@|@acquaint, meet@
@@ -7518,7 +7518,7 @@
 @издаёт@|@pres, is publishing, utters, is uttering, issues, is issuing, produces, is producing@
 @издаёте@|@are issuing, are producing, are publishing, are uttering, issue, pres, produce, publish, utter@
 @издаёшь@|@are publishing, utter, are uttering, issue, are issuing, produce, are producing@
-@издаёшь verb: ia/pres/2ps)@|@publish/are publishing@
+@издаёшь (verb: ia/pres/2ps)@|@publish/are publishing@
 @издание@|@edition, publication, issuance@
 @издатель@|@publisher@
 @издаю@|@am issuing, am producing, am publishing, am uttering, issue, pres, produce, publish, utter@
@@ -8999,7 +8999,7 @@
 @конец@|@end, quietus@
 @конечная станция@|@terminus@
 @конечно@|@by all means, certainly, never, of course, of course not@
-@конечно, нет@|@adv: of course not, never@
+@конечно, нет@|@(adv:) of course not, never@
 @конечность@|@limb@
 @конечный@|@cutoff date, ending, final, terminal, ultimate@
 @конечный мозг@|@telencephalon, endbrain@
@@ -10993,7 +10993,7 @@
 @миля@|@mile@
 @мим@|@mime@
 @мимеограф@|@mimeograph@
-@мимо@|@prep: past, by, beside; adv: past, by@
+@мимо@|@prep: past, by, beside; (adv:) past, by@
 @мимоза@|@mimosa@
 @мимолетный@|@fugitive, evanescent, transitory, fugacious@
 @мимоходом@|@en passant, passingly@
@@ -11964,7 +11964,7 @@
 @направо@|@to the right@
 @напрасно@|@in vain@
 @напрасный@|@vain@
-@напротив@|@prep: opposite, in front of; adv: opposite, over against, counter, contra, vis-a-vis@
+@напротив@|@prep: opposite, in front of; (adv:) opposite, over against, counter, contra, vis-a-vis@
 @напрпавляющие@|@leads@
 @напряжение@|@tension, intension, voltage@
 @напряженная умственная работа@|@lucubration@
@@ -13275,7 +13275,7 @@
 @новичок в морском деле@|@landlubber@
 @новобранец@|@recruit@
 @новобрачная@|@bride@
-@новобрачный (noun)@|@newlywed, bridegroom, benedict, benedick; adj: newlywed, benedict, benedick, newly-married@
+@новобрачный (noun)@|@newlywed, bridegroom, benedict, benedick; (adj:) newlywed, benedict, benedick, newly-married@
 @новобрачных@|@husband and wife/the couple just married/man and woman who are to be married@
 @нововведение@|@innovation@
 @новогреческий@|@romaic@
@@ -16495,7 +16495,7 @@
 @подвергающий опасности@|@endangering@
 @подверженный меланхолии@|@melancholic@
 @подверженный ошибкам@|@fallible@
-@подвесной (noun)@|@hanging, rope, gibbet; adj: hanging, suspension, suspended, pendant, overhead, pendulous@
+@подвесной (noun)@|@hanging, rope, gibbet; (adj:) hanging, suspension, suspended, pendant, overhead, pendulous@
 @подветренная сторона@|@leeward, lee@
 @подвешенный@|@suspended@
 @подвздошный@|@iliac@
@@ -20659,7 +20659,7 @@
 @сближающийся@|@convergent@
 @сближение@|@rapprochement@
 @сболтнуть@|@blurt@
-@сбор@|@assembly ; verb: collecting, collection, gathering@
+@сбор@|@assembly ; (verb: collecting, collection, gathering@
 @сбор винограда@|@vintage@
 @сбор орехов@|@nutting@
 @сбор урожая@|@ingathering@
@@ -20846,10 +20846,10 @@
 @своей (pron: dc/mfn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
 @своей (pron: gc/mfn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
 @своей (pron: ic/mfn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
-@своей (pron: pc/mfn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase and follows a prep such as “о”/“в”/“на”.)@|@one's/one's own/my/your/his/her/its/their/our (follows a prep such as 'about)'/'in'/'at'.)@
+@своей (pron: pc/mfn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase and follows a prep such as “о”/“в”/“на”.)@|@one's/one's own/my/your/his/her/its/their/our ((follows a prep such as 'about)'/'in'/'at'.)@
 @своекорыстный@|@self-seeking@
-@своём (pron: pc/mmn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase and follows a prep such as “о”/“в”/“на”.)@|@one's/one's own/my/your/his/her/its/their/our (follows a prep such as 'about)'/'in'/'at'.)@
-@своём (pron: pc/mnn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase and follows a prep such as “о”/“в”/“на”.)@|@one's/one's own/my/your/his/her/its/their/our (follows a prep such as 'about)'/'in'/'at'.)@
+@своём (pron: pc/mmn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase and follows a prep such as “о”/“в”/“на”.)@|@one's/one's own/my/your/his/her/its/their/our ((follows a prep such as 'about)'/'in'/'at'.)@
+@своём (pron: pc/mnn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase and follows a prep such as “о”/“в”/“на”.)@|@one's/one's own/my/your/his/her/its/their/our ((follows a prep such as 'about)'/'in'/'at'.)@
 @своему (pron: dc/mmn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
 @своему (pron: dc/mnn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
 @своенравный@|@perverse, restive, crotchety, capricious@
@@ -20861,7 +20861,7 @@
 @своими (pron: ic/mpn/plu - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
 @своих (pron: ac/mapn/plu - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
 @своих (pron: gc/mpn/plu - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
-@своих (pron: pc/mpn/plu - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase and follows a prep such as “о”/“в”/“на”.)@|@one's/one's own/my/your/his/her/its/their/our (follows a prep such as 'about)'/'in'/'at'.)@
+@своих (pron: pc/mpn/plu - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase and follows a prep such as “о”/“в”/“на”.)@|@one's/one's own/my/your/his/her/its/their/our ((follows a prep such as 'about)'/'in'/'at'.)@
 @свой (pron: ac/mimn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
 @свой (pron: nc/mmn/sin - a Reflexive Possessive Pronoun that means 'one's own' and reflects ownership to subject of the verb in a phrase.)@|@one's/one's own/my/your/his/her/its/their/our@
 @Свой дом -- лучшее место. (proverbs/sayings)@|@There is no place like home. (literal: One's own home is the best place.)@
@@ -25487,7 +25487,7 @@
 @чердак@|@loft, garret@
 @чередование@|@alternation, gradation@
 @чередующийся@|@alternate@
-@через@|@prep: through, via, across, thru, after, throughout; adv: via, across, throughout@
+@через@|@prep: through, via, across, thru, after, throughout; (adv:) via, across, throughout@
 @череп@|@skull, cranium@
 @черепаха@|@tortoise, turtle@
 @черепахи@|@turtles@
@@ -26014,7 +26014,7 @@
 @шхуна@|@schooner@
 @шьем (verb: ia/pres/1pp)@|@sew together/are sewing together@
 @шьет (verb: ia/pres/3ps)@|@sews together/is sewing together@
-@шьете verb: ia/pres/2pp)@|@sew together/are sewing together@
+@шьете (verb: ia/pres/2pp)@|@sew together/are sewing together@
 @шьешь (verb: ia/pres/2ps)@|@sew together/are sewing together@
 @шью (verb: ia/pres/1ps)@|@sew together/am sewing together@
 @шьют (verb: ia/pres/3pp)@|@sew together/are sewing together@
